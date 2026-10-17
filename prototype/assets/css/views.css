@@ -309,7 +309,6 @@ mark.law-find-hit {
 .ai-conv:hover { background: var(--calr-gray-50, #f8fafc); }
 .ai-conv.is-active { background: var(--calr-blue-50, #eff6ff); color: var(--calr-blue-700, #1d4ed8); font-weight: 600; }
 .ai-conv__title { flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.ai-conv__meta { flex: 0 0 auto; font-size: var(--fs-mini); color: var(--text-secondary); }
 .ai-conv__del {
   position: absolute; right: 6px; top: 50%; transform: translateY(-50%);
   width: 18px; height: 18px; border: 0; border-radius: 5px;
@@ -666,3 +665,75 @@ mark.law-find-hit {
 
 /* 顶栏「多选」按钮激活态 */
 #conv-select.is-active { background: var(--calr-blue-50); color: var(--calr-blue-700); border-color: var(--calr-blue-300); }
+
+/* ==========================================================================
+   历史对话（DeepSeek 风格）：时间分组 + 扁平圆角条目
+   ========================================================================== */
+.ai-history__head { padding: 12px 12px 8px; border-bottom: 0; }
+.ai-history__title { font-size: 13px; font-weight: 600; color: var(--text-primary); }
+.ai-history__head .btn {
+  padding: 3px 7px; min-width: 26px; line-height: 1.3;
+  font-size: 12px; border-radius: 7px;
+}
+.ai-history__list { padding: 4px 6px 10px; }
+
+/* 组标题 */
+.ai-group {
+  padding: 10px 8px 4px;
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--calr-gray-400);
+  letter-spacing: .02em;
+  user-select: none;
+}
+.ai-group:first-child { padding-top: 4px; }
+
+/* 条目：扁平、无边框 */
+.ai-conv {
+  display: flex; align-items: center; gap: 6px;
+  padding: 8px 8px 8px 10px;
+  margin: 1px 0;
+  border: 0;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--text-primary);
+  background: transparent;
+  transition: background .12s;
+}
+.ai-conv:hover { background: var(--calr-gray-50); }
+.ai-conv.is-active { background: var(--calr-blue-50); color: var(--calr-blue-700); font-weight: 500; }
+.ai-conv.is-selected { background: var(--calr-blue-50); }
+.ai-conv__title { flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.ai-conv__more {
+  flex: 0 0 auto; width: 20px; height: 20px; border: 0; border-radius: 6px;
+  background: transparent; color: var(--calr-gray-400);
+  cursor: pointer; font-size: 13px; line-height: 1;
+  display: inline-flex; align-items: center; justify-content: center;
+  opacity: 0; transition: opacity .12s, background .12s;
+}
+.ai-conv:hover .ai-conv__more, .ai-conv.is-active .ai-conv__more { opacity: 1; }
+.ai-conv__more:hover { background: var(--calr-gray-200); color: var(--text-primary); }
+.ai-conv__check {
+  flex: 0 0 auto; width: 14px; height: 14px; border-radius: 4px;
+  border: 1.5px solid var(--calr-gray-300); background: #fff;
+  display: inline-flex; align-items: center; justify-content: center;
+  font-size: 9px; color: #fff; line-height: 1;
+}
+.ai-conv.is-selected .ai-conv__check { background: var(--calr-blue-600); border-color: var(--calr-blue-600); }
+.ai-conv__rename {
+  flex: 1 1 auto; min-width: 0; width: 100%;
+  border: 1px solid var(--calr-blue-400); border-radius: 6px;
+  padding: 3px 6px; font: inherit; font-size: 12px;
+  background: #fff; color: var(--text-primary); outline: none;
+}
+
+/* 多选工具条：贴顶、分隔更轻 */
+.ai-selbar:not(:empty) {
+  padding: 7px 10px;
+  border-bottom: 1px solid var(--border);
+  background: var(--calr-blue-50);
+  font-size: 11px;
+}
+.ai-selbar .btn { padding: 2px 7px; font-size: 11px; border-radius: 6px; }

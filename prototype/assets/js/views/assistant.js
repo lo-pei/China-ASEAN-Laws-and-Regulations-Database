@@ -103,6 +103,18 @@
   var menuId = 0;
   var renamingId = 0;
 
+  /** 时间分组标签（DeepSeek 风格：今天 / 昨天 / 前 7 天 / 更早） */
+  function groupLabelOf(c) {
+    if (c.pinned) return CALR.i18n.t('置顶');
+    var now = new Date();
+    var midnight = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+    var t = c.at || Date.now();
+    if (t >= midnight) return CALR.i18n.t('今天');
+    if (t >= midnight - 86400000) return CALR.i18n.t('昨天');
+    if (t >= midnight - 7 * 86400000) return CALR.i18n.t('前 7 天');
+    return CALR.i18n.t('更早');
+  }
+
   function sortedConvs() {
     return CONVS.slice().sort(function (a, b) {
       if (!!a.pinned !== !!b.pinned) return a.pinned ? -1 : 1;
@@ -236,25 +248,31 @@
             : '';
         }
 
-        box.innerHTML = list.map(function (c) {
+        /* 按组渲染：置顶优先，其余按今天/昨天/前 7 天/更早 */
+        var html = '';
+        var lastGroup = null;
+        list.forEach(function (c) {
+          var g = groupLabelOf(c);
+          if (g !== lastGroup) {
+            html += '<div class="ai-group">' + esc(g) + '</div>';
+            lastGroup = g;
+          }
           var on = c.id === curConvId;
-          var n = c.items.length;
           var isSel = !!selected[c.id];
           var title = convTitleOf(c);
           var inner = renamingId === c.id
             ? '<input class="ai-conv__rename" data-rename="' + c.id + '" value="' + esc(title) + '" maxlength="40">'
             : '<span class="ai-conv__title">' + esc(title) + '</span>';
-          return '<div class="ai-conv' + (on ? ' is-active' : '') + (isSel ? ' is-selected' : '') +
+          html += '<div class="ai-conv' + (on ? ' is-active' : '') + (isSel ? ' is-selected' : '') +
               '" data-conv="' + c.id + '">' +
             (selectMode ? '<span class="ai-conv__check">' + (isSel ? '✓' : '') + '</span>' : '') +
-            (c.pinned ? '<span class="ai-conv__pin" title="' + esc(t('已置顶')) + '">◆</span>' : '') +
             inner +
-            '<span class="ai-conv__meta">' + (n || '') + '</span>' +
             (selectMode || renamingId === c.id ? '' :
               '<button class="ai-conv__more" type="button" data-conv-more="' + c.id + '" title="' + esc(t('更多')) + '">⋯</button>') +
             (!selectMode && menuId === c.id ? menuHtml(c) : '') +
           '</div>';
-        }).join('');
+        });
+        box.innerHTML = html;
 
         /* --- 行点击：切换会话 / 多选勾选 --- */
         U().$$('[data-conv]', box).forEach(function (el) {

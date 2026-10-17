@@ -822,6 +822,10 @@
   "已选": "Dipilih",
   "个对话": "percakapan",
   "已取消置顶": "Sematan dilepas",
-  "已删除": "Dihapus"
+  "已删除": "Dihapus",
+  "今天": "Hari ini",
+  "昨天": "Kemarin",
+  "前 7 天": "7 hari lalu",
+  "更早": "Lebih lama"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

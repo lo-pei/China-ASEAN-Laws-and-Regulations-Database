@@ -822,6 +822,10 @@
   "已选": "Selected",
   "个对话": "chats",
   "已取消置顶": "Unpinned",
-  "已删除": "Deleted"
+  "已删除": "Deleted",
+  "今天": "Today",
+  "昨天": "Yesterday",
+  "前 7 天": "Previous 7 days",
+  "更早": "Earlier"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

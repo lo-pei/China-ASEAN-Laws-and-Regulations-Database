@@ -822,6 +822,10 @@
   "已选": "Đã chọn",
   "个对话": "hội thoại",
   "已取消置顶": "Đã bỏ ghim",
-  "已删除": "Đã xóa"
+  "已删除": "Đã xóa",
+  "今天": "Hôm nay",
+  "昨天": "Hôm qua",
+  "前 7 天": "7 ngày trước",
+  "更早": "Trước đó"
 };
 })(typeof window !== 'undefined' ? window : globalThis);
