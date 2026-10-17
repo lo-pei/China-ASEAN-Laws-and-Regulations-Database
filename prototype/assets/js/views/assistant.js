@@ -445,7 +445,6 @@
       ['中国数据出境需要满足哪些条件？', '中国数据出境']
     ];
     return '<div class="ai-welcome">' +
-      '<div class="ai-welcome__icon">' + CALR.ui.icon('sparkle') + '</div>' +
       '<h2 class="ai-welcome__title">' + esc(t('你好，让我们开始聊天吧')) + '</h2>' +
       '<p class="ai-welcome__sub">' + esc(t('覆盖中国与东盟十国共 12 个法域，回答均带条文溯源。')) + '</p>' +
       '<div class="ai-welcome__chips">' +

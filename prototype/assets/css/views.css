@@ -597,13 +597,16 @@ mark.law-find-hit {
 }
 .home-toc:hover .home-toc__label { max-width: 110px; opacity: 1; }
 
-/* ---------- AI 落地态：居中欢迎 + 大输入框 ---------- */
-.ai-main__body.is-empty { justify-content: center; }
+/* ---------- AI 落地态：欢迎居中 + 输入栏贴底 ---------- */
+/* 让 .chat 吃掉全部剩余高度、内容在其中垂直居中；输入栏留在 body 最底部 */
+.ai-main__body.is-empty { justify-content: flex-start; }
 .ai-main__body.is-empty .chat {
-  flex: 0 0 auto; min-height: 0; max-height: none;
-  display: flex; align-items: center; justify-content: center;
-  padding: 40px 2px 22px;
+  flex: 1 1 auto; min-height: 0; max-height: none;
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  padding: 24px 2px 12px;
 }
+.ai-main__body.is-empty .ai-composer { margin-top: auto; }
 .ai-welcome { text-align: center; max-width: 680px; margin: 0 auto; }
 .ai-welcome__icon {
   width: 48px; height: 48px; margin: 0 auto 16px;
