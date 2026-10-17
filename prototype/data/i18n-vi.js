@@ -792,6 +792,19 @@
   "本助手仅依据数据库已收录的法规作答；超出收录范围时明确提示「暂未收录相关法规」，不作推测性回答。对话不落盘、不上传服务器。": "Chỉ trả lời dựa trên văn bản pháp luật đã thu thập; câu hỏi ngoài phạm vi sẽ được từ chối, không suy đoán. Hội thoại không lưu trữ, không tải lên máy chủ.",
   "快速跳转": "Chuyển nhanh",
   "全球布局": "Phạm vi toàn cầu",
-  "数据库概况": "Tổng quan cơ sở dữ liệu"
+  "数据库概况": "Tổng quan cơ sở dữ liệu",
+  "依据": "Căn cứ",
+  "技术详情": "Chi tiết kỹ thuật",
+  "模型": "Mô hình",
+  "检索式": "Truy vấn",
+  "本机确定性检索（未启用模型增强）": "Truy xuất cục bộ (không dùng mô hình)",
+  "点击「原文」可回溯法条": "Nhấn \"Bản gốc\" để truy nguyên điều luật",
+  "模型认为材料不足，以下为本地检索摘要": "Mô hình cho rằng tài liệu chưa đủ; dưới đây là tóm tắt truy xuất cục bộ",
+  "以下为本机检索结果": "dưới đây là kết quả truy xuất cục bộ",
+  "本地未检索到可引用的条文": "Không tìm thấy điều luật có thể trích dẫn",
+  "据库内": "Theo",
+  "条相关条文：": "điều liên quan:",
+  "答案正文（带引用编号 [n]）→ 依据列表（点击可回溯法条原文）→ 一行免责；模型与引用校验等技术信息默认折叠。": "Nội dung trả lời (có chỉ dấu trích dẫn [n]) → danh mục căn cứ (nhấn để truy nguyên điều luật) → một dòng miễn trừ; chi tiết kỹ thuật được thu gọn.",
+  "相关法规": "Văn bản liên quan"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

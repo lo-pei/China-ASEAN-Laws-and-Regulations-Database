@@ -341,6 +341,27 @@ var NON_LEGAL = [
     return NON_LEGAL.some(function (re) { return re.test(q); });
   }
 
+  /** 条文正文是否为「文件元数据头」而非法条正文（采集产物，不应作为引用依据） */
+  function isMetaHeader(text) {
+    var s = String(text || '').trim();
+    if (!s) return true;
+    if (/^#/.test(s)) return true;                                  /* Markdown 标题开头 */
+    if (s.indexOf('本文件为自动采集的元数据头') >= 0) return true;
+    if (s.indexOf('原始文件未被改写') >= 0) return true;
+    if (s.indexOf('正文逐字照录于同目录') >= 0) return true;
+    /* 通篇以表格/引用块为主的采集说明 */
+    if (/^\s*\|/.test(s) && s.indexOf('| 项目 |') >= 0) return true;
+    /* OCR / 抓取产生的「表单模板」「办事指南」「说明页」，不是法条正文 */
+    var JUNK = ['表格编号', '尊敬的', '内容如下：', '签名、注明全名', '请填写', '填写说明',
+                '申请材料', '办理流程', '本页无正文', '此页无正文', '附件：', '（此页无正文）'];
+    for (var ji = 0; ji < JUNK.length; ji++) {
+      if (s.indexOf(JUNK[ji]) >= 0) return true;
+    }
+    /* 正文过短且不含任何法条句式 → 视为噪声 */
+    if (s.length < 24 && !/(应当|不得|可以|有权|本法|本令|本规定|本条例|shall|must|may)/.test(s)) return true;
+    return false;
+  }
+
   /** 按引用构造 citations / basis（共用） */
   function buildRefs(top, limit, tokens) {
     var citations = [], basis = [], related = [], skipped = 0;
@@ -365,6 +386,7 @@ var NON_LEGAL = [
       if (multi && multi.length && !(it.hitArticle && multi[0].article === it.hitArticle)) {
         multi.forEach(function (m) {
           var a0 = m.article;
+          if (isMetaHeader(U().plain(U().tr(a0.text)))) return;   /* 跳过元数据头 */
           citations.push({
             articleId: a0.id, lawId: law.id, country: law.country,
             countryName: S().countryName(law.country),
@@ -390,6 +412,7 @@ var NON_LEGAL = [
         return;
       }
       var art = it.hitArticle;
+      if (art && isMetaHeader(U().plain(U().tr(art.text)))) art = null;   /* 元数据头不作引用 */
       if (!art) {
         skipped++;
         related.push({
@@ -790,16 +813,17 @@ var NON_LEGAL = [
      ====================================================================== */
 
   var SYS_PROMPT = [
-    '你只能依据用户提供的【条文材料】回答，不得使用材料之外的任何知识，不得推测。',
+    '你是中国—东盟法律问答助手。只能依据用户提供的【条文材料】作答，不得使用材料之外的知识，不得推测。',
     '',
-    '规则：',
-    '1. 每条结论句必须以引用标记结尾，格式 [n]，n 为材料编号；可并列多个，如 [1][3]。',
-    '2. 若材料不足以回答问题，只输出：材料不足以回答该问题。',
-    '3. 不得给出法律意见、不得补全材料中没有的内容、不得编造条文编号。',
-    '4. 用与用户问题相同的语言作答，不超过 400 字。',
-    '5. 尽可能引用至少 2 条不同条文；若只有 1 条材料可用，就用这 1 条，不要凑数。',
-    '6. 问题涉及多个国家或做比较时，按国别分点作答，每个国别下再列条文依据。',
-    '7. 优先给出可核对的具体要素：主体、义务内容、条件、期限、比例、金额、罚则。'
+    '输出格式（严格遵守）：',
+    '1. 直接用 1–3 句话回答问题，每个结论句结尾必须带引用标记 [n]（n 为材料编号，可并列如 [1][3]）。',
+    '2. 需要罗列时用「- 」分点，每点不超过 40 字，每点带 [n]。',
+    '3. 可在最后加一行「提示：…」，不带引用标记。',
+    '4. 若材料确实无法回答问题，只输出一行：材料不足以回答该问题。',
+    '',
+    '禁止：不要输出「法条概览」「条文要点」「背景说明」「风险与提示」等任何小节标题；',
+    '不要重复用户问题；不要写免责声明或「以上仅供参考」（平台会另加）；不要举例或延伸材料外内容。',
+    '语言与用户问题一致；总长不超过 260 字。'
   ].join('\n');
 
   /** 用 LLM 把自然语言问题改写成更适合关键词检索的查询式；失败即退回原问题 */
@@ -896,6 +920,7 @@ var NON_LEGAL = [
     askAsync: askAsync,
     retrieveWithPacks: retrieveWithPacks,
     zhHintsOf: zhHintsOf,
+    isMetaHeader: isMetaHeader,
     askWithLLM: askWithLLM,
     rewriteQuery: rewriteQuery,
     SYS_PROMPT: SYS_PROMPT,

@@ -527,3 +527,46 @@ mark.law-find-hit {
 /* 窄屏或矮屏隐藏（避免遮挡内容） */
 @media (max-width: 1180px) { .home-toc { display: none; } }
 @media (max-height: 620px) { .home-toc { display: none; } }
+
+/* ==========================================================================
+   精简后的答案排版：正文 + 依据列表 + 一行免责 + 折叠技术详情
+   ========================================================================== */
+.ans-body { font-size: var(--fs-small); line-height: 1.85; color: var(--text-primary); }
+.ans-body p { margin: 0 0 8px; }
+.ans-note {
+  margin: 0 0 10px; padding: 7px 11px;
+  background: var(--calr-warning-bg); color: var(--calr-warning-text);
+  border-radius: 7px; font-size: var(--fs-mini); line-height: 1.6;
+}
+.ans-points { margin: 10px 0 0; padding-left: 18px; font-size: var(--fs-small); line-height: 1.8; }
+.ans-points li { margin-bottom: 8px; }
+.ans-points__src {
+  display: block; margin-top: 2px;
+  font-size: var(--fs-mini); color: var(--calr-blue-600); text-decoration: none;
+}
+.ans-points__src:hover { text-decoration: underline; }
+
+.ans-refs { margin-top: 14px; border-top: 1px dashed var(--border); padding-top: 10px; }
+.ans-refs__title { font-size: var(--fs-mini); color: var(--text-secondary); margin-bottom: 6px; }
+.ans-ref {
+  display: flex; align-items: baseline; gap: 7px;
+  padding: 7px 10px; margin-bottom: 5px;
+  border: 1px solid var(--border); border-radius: 8px;
+  text-decoration: none; color: inherit; font-size: var(--fs-small);
+  transition: border-color .12s, background .12s;
+}
+.ans-ref:hover { border-color: var(--calr-blue-400); background: var(--calr-blue-50); }
+.ans-ref__n { flex: 0 0 auto; font-weight: 600; color: var(--calr-blue-700); font-size: var(--fs-mini); }
+.ans-ref__t { flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.ans-ref__go { flex: 0 0 auto; color: var(--calr-blue-600); font-size: var(--fs-mini); }
+
+.ans-foot {
+  display: flex; align-items: center; gap: 5px;
+  margin: 12px 0 0; font-size: var(--fs-mini); color: var(--text-secondary);
+}
+.ans-foot svg { width: 13px; height: 13px; }
+
+.ans-tech { margin-top: 10px; font-size: var(--fs-mini); color: var(--text-secondary); }
+.ans-tech summary { cursor: pointer; color: var(--text-secondary); }
+.ans-tech[open] summary { margin-bottom: 6px; }
+.ans-tech > div { line-height: 1.7; padding-left: 2px; }

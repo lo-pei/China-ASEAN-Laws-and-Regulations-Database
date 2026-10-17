@@ -792,6 +792,19 @@
   "本助手仅依据数据库已收录的法规作答；超出收录范围时明确提示「暂未收录相关法规」，不作推测性回答。对话不落盘、不上传服务器。": "Answers are based only on laws indexed in this database; out-of-scope questions are declined without speculation. Conversations are not persisted or uploaded.",
   "快速跳转": "Quick jump",
   "全球布局": "Global reach",
-  "数据库概况": "Database overview"
+  "数据库概况": "Database overview",
+  "依据": "Sources",
+  "技术详情": "Technical details",
+  "模型": "Model",
+  "检索式": "Search query",
+  "本机确定性检索（未启用模型增强）": "Local deterministic retrieval (model enhancement off)",
+  "点击「原文」可回溯法条": "Click \"Source\" to trace the provision",
+  "模型认为材料不足，以下为本地检索摘要": "The model judged the materials insufficient; showing local retrieval summary",
+  "以下为本机检索结果": "showing local retrieval results",
+  "本地未检索到可引用的条文": "No citable provisions found locally",
+  "据库内": "Based on",
+  "条相关条文：": "relevant provisions:",
+  "答案正文（带引用编号 [n]）→ 依据列表（点击可回溯法条原文）→ 一行免责；模型与引用校验等技术信息默认折叠。": "Answer text (with citation markers [n]) → sources (click to trace the provision) → one-line disclaimer; technical details are collapsed by default.",
+  "相关法规": "Related laws"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

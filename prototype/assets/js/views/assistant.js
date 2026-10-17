@@ -438,135 +438,135 @@
       '<div class="answer-section"><div class="answer-section__title">' + esc(t('我可以帮您做什么')) + '</div>' +
       '<p style="margin:0">' + esc(t('用自然语言描述您的跨境法律问题，我会在数据库中检索相关法条，并给出带溯源的答案。例如：外商投资准入、劳动用工、数据合规、知识产权保护、合同与争端解决。')) + '</p></div>' +
       '<div class="answer-section"><div class="answer-section__title">' + esc(t('回答结构')) + '</div>' +
-      '<p style="margin:0">' + esc(t('① 法条概览 → ② 条文要点 → ③ 法条依据（可点击原文）→ ④ 背景说明 → ⑤ 风险与提示。')) + '</p></div>');
+      '<p style="margin:0">' + esc(t('答案正文（带引用编号 [n]）→ 依据列表（点击可回溯法条原文）→ 一行免责；模型与引用校验等技术信息默认折叠。')) + '</p></div>');
   }
 
   function answerHtml(res, byok) {
     if (!res || res.empty) return '';
     if (!res.inScope) {
-      return rowHtml('ai', '<span class="mini muted">' + CALR.ui.icon('check') + ' ' + esc(t('暂未收录相关法规')) + '</span>' +
-        '<div class="answer-section"><div class="answer-section__title">' + esc(t('法条概览')) + '</div>' +
-          '<p style="margin:0">' + esc(res.answer.overview) + '</p></div>' +
-        '<div class="answer-section"><div class="answer-section__title">' + esc(t('建议做法')) + '</div>' +
-          '<p style="margin:0">' + esc(res.answer.analysis) + '</p></div>' +
-        '<div class="answer-section"><div class="answer-section__title">' + esc(t('风险与提示')) + '</div>' +
-          '<p style="margin:0;color:var(--text-secondary)">' + esc(res.answer.risk) + '</p></div>' +
+      return rowHtml('ai',
+        '<p class="ans-note">' + CALR.ui.icon('check') + ' ' + esc(t('暂未收录相关法规')) + '</p>' +
+        '<div class="ans-body">' + fmtRich(res.answer.overview) + '</div>' +
+        '<p class="ans-foot">' + esc(res.answer.analysis) + '</p>' +
         (res.suggestions && res.suggestions.length
-          ? '<div class="answer-section"><div class="answer-section__title">' + esc(t('您是不是想问')) + '</div>' +
+          ? '<div class="ans-refs"><div class="ans-refs__title">' + esc(t('您是不是想问')) + '</div>' +
             '<div class="row" style="flex-wrap:wrap;gap:8px">' +
-            res.suggestions.map(function (q) {
-              return '<button type="button" class="btn btn--outline btn--sm" data-ask-again="' + esc(q) + '">' + esc(q) + '</button>';
+            res.suggestions.map(function (q2) {
+              return '<button type="button" class="btn btn--outline btn--sm" data-ask-again="' + esc(q2) + '">' + esc(q2) + '</button>';
             }).join('') + '</div></div>'
-          : '') +
-        '<p class="mini muted" style="margin:10px 0 0">' + CALR.ui.icon('filter') + ' ' + esc(t('检索命中相关度')) + '：' + (res.retrieval ? res.retrieval.topScore.toFixed(1) : '0') +
-          '（阈值 ' + CALR.qa.THRESHOLD + '）· ' + esc(t('本次共召回')) + ' ' + (res.retrieval ? res.retrieval.count : 0) + ' ' + esc(t('部法规')) + '</p>');
+          : ''));
     }
     /* 命中法规但无结构化条文全文：如实说明，列出命中法规条目，不编造条文 */
     if (res.noFullText) {
+      var ml = res.matchedLaws || [];
       return rowHtml('ai',
-        '<div class="answer-section"><div class="answer-section__title">① ' + esc(t('法条概览')) + '</div>' +
-          '<p style="margin:0">' + esc(res.answer.overview) + '</p></div>' +
-        '<div class="answer-section"><div class="answer-section__title">② ' + esc(t('法条依据')) + '（' + ((res.matchedLaws || []).length) + '）</div>' +
-          (res.matchedLaws || []).map(function (l) {
-            return '<a class="citation" href="#/law/' + esc(l.lawId) + '">' +
-              '<div><span class="citation__no">' + esc(l.countryName) + ' · ' + esc(l.lawTitle) + '</span></div>' +
-              '<div class="mini muted" style="margin-top:3px">' + esc(t('该法规暂无结构化条文全文')) + '</div>' +
-              '<div class="mini" style="margin-top:3px;color:var(--calr-blue-600)">' + esc(t('查看原文 →')) + '</div></a>';
-          }).join('') + '</div>' +
-        '<div class="answer-section"><div class="answer-section__title">③ ' + esc(t('建议做法')) + '</div>' +
-          '<p style="margin:0">' + esc(res.answer.analysis) + '</p></div>' +
-        '<div class="answer-section"><div class="answer-section__title">④ ' + esc(t('风险与提示')) + '</div>' +
-          '<p style="margin:0;color:var(--text-secondary)">' + esc(res.answer.risk) + '</p></div>');
+        '<div class="ans-body">' + fmtRich(res.answer.overview) + '</div>' +
+        (ml.length
+          ? '<div class="ans-refs"><div class="ans-refs__title">' + esc(t('相关法规')) + '（' + ml.length + '）</div>' +
+            ml.map(function (l) {
+              return '<a class="ans-ref" href="#/law/' + esc(l.lawId) + '">' +
+                '<span class="ans-ref__n">·</span>' +
+                '<span class="ans-ref__t">' + esc(l.countryName) + ' · ' + esc(l.lawTitle) + '</span>' +
+                '<span class="ans-ref__go">' + esc(t('原文')) + ' ↗</span></a>';
+            }).join('') + '</div>'
+          : '') +
+        '<p class="ans-foot">' + CALR.ui.icon('info') + ' ' + esc(t('该法规暂无结构化条文全文')) +
+          ' · ' + esc(t('AI 辅助生成，仅供参考')) + '</p>');
     }
 
     var a = res.answer;
     var llm = byok && byok.llm ? byok.llm : null;
     var llmUsed = !!(llm && llm.ok && llm.text);
-
     var out = '';
 
-    /* BYOK 未成功时如实告知，并说明已降级（不让用户以为答案来自模型） */
+    /* ---- 模型降级提示（仅在已配置但未生效时出现，一行） ---- */
     if (llm && !llmUsed) {
       var why = llm.error || (llm.reason === 'nokey' ? t('未配置 API Key') :
-        (llm.reason === 'no-materials' ? t('本地未检索到可引用的条文，已跳过模型调用') : t('模型调用失败')));
-      out += '<div class="answer-section"><div class="answer-section__title">⚠ ' + esc(t('模型增强未生效')) + '</div>' +
-        '<p style="margin:0;color:var(--text-secondary)" class="small">' + esc(why) +
-        '　' + esc(t('已自动降级为本机确定性检索结果，以下内容均来自本地法规库。')) + '</p></div>';
+        (llm.reason === 'no-materials' ? t('本地未检索到可引用的条文') : t('模型调用失败')));
+      out += '<p class="ans-note">⚠ ' + esc(t('模型增强未生效')) + '：' + esc(why) + '，' + esc(t('以下为本机检索结果')) + '</p>';
     }
 
-    /* ① 概览：BYOK 成功时用「通过引用校验」的模型答案，否则用本地概览 */
-    out += '<div class="answer-section"><div class="answer-section__title">① ' + esc(t('法条概览')) + '</div>' +
-      '<p style="margin:0">' + fmtRich(llmUsed ? llm.text : a.overview) + '</p></div>';
-
-    /* ② 条文要点：从召回条文原文抽取，每条绑定引用序号 [n]（A3/A5） */
-    if (a.points && a.points.length) {
-      out += '<div class="answer-section"><div class="answer-section__title">② ' + esc(t('条文要点')) + '（' + a.points.length + '）</div>' +
-        '<ol style="margin:0;padding-left:20px">' +
-        a.points.map(function (p) {
-          var tip = [p.countryName, p.lawTitle, p.noLabel].filter(Boolean).join(' · ');
-          /* 每条要点后挂明确跳转链接：带国别·法规名·条号，点击直接定位到该条并高亮 */
-          var href = '#/law/' + esc(p.lawId) + (p.articleId ? '?art=' + esc(p.articleId) : '');
-          return '<li style="margin:0 0 9px">' + esc(p.text) +
-            '<br><a href="' + href + '" title="' + esc(tip) + '"' +
-            ' style="display:inline-block;margin-top:3px;font-size:.85em;color:var(--calr-blue-600);text-decoration:none">' +
-            '[' + p.n + '] ' + esc(tip) + ' ↗</a>' +
-            '</li>';
-        }).join('') + '</ol></div>';
+    /* ---- 答案正文 ---- */
+    var bodyText = llmUsed ? String(llm.text) : String(a.overview || '');
+    /* 模型在有材料时仍判「材料不足」属误判：改为提示并回退本地摘要，避免"说没有下面却列了引用"的自相矛盾 */
+    if (llmUsed && /材料不足以回答/.test(bodyText) && a.points && a.points.length) {
+      bodyText = String(a.overview || '');
+      out += '<p class="ans-note">⚠ ' + esc(t('模型认为材料不足，以下为本地检索摘要')) + '</p>';
+    }
+    /* 本地模式的 overview 里混有流水线状态语（如「已按…筛选，取用重点条文 N 条。以下要点均可在②中逐条溯源。」），
+       那是内部提示而非答案，且新版已无「②」小节，故改写为干净引导语 */
+    if (!llmUsed) {
+      var META_RE = /已按[^。]*筛选[^。]*。|取用重点条文\s*\d+\s*条[^。]*。|以下要点均可在[^。]*溯源[^。]*。/g;
+      var cleaned = String(a.overview || '').replace(META_RE, '').replace(/\s+/g, ' ').trim();
+      var nPts = (a.points || []).length;
+      if (!cleaned && nPts) bodyText = t('据库内') + ' ' + nPts + ' ' + t('条相关条文：');
+      else bodyText = cleaned || String(a.overview || '');
     }
 
-    if (a.basis && a.basis.length) {
-      out += '<div class="answer-section"><div class="answer-section__title">③ ' + esc(t('法条依据')) + '（' + a.basis.length + '）</div>' +
-        a.basis.map(function (b, i) {
-          /* P7：中文关键词取自 citations[i].zhHints（由术语表映射，非翻译） */
-          var hints = (res.citations && res.citations[i] && res.citations[i].zhHints) || [];
-          return '<a class="citation" href="#/law/' + esc(b.lawId) + '?art=' + esc(b.articleId) + '">' +
-            '<div><span class="citation__no">[' + (i + 1) + '] ' + esc(b.countryName) + ' · ' + esc(b.lawTitle) + ' ' + esc(b.noLabel) + '</span>' +
-            (b.heading ? ' <span class="mini muted">' + esc(b.heading) + '</span>' : '') + '</div>' +
-            '<div class="mini muted" style="margin-top:3px">' + esc(b.excerpt) + '</div>' +
-            (hints.length
-              ? '<div class="mini" style="margin-top:3px"><span class="muted">' + esc(t('中文关键词')) + '：</span>' +
-                hints.map(function (h) { return '<span class="tag tag--outline" style="font-size:11px;margin-right:4px">' + esc(h) + '</span>'; }).join('') +
-                '</div>'
-              : '') +
-            '<div class="mini" style="margin-top:3px;color:var(--calr-blue-600)">' + esc(t('查看原文 →')) + '</div></a>';
+    out += '<div class="ans-body">' + fmtRich(bodyText) + '</div>';
+
+    /* ---- 本地模式：补 2–4 条要点 ---- */
+    if (!llmUsed && a.points && a.points.length) {
+      out += '<ul class="ans-points">' + a.points.slice(0, 4).map(function (p) {
+        var tip = [p.countryName, p.lawTitle, p.noLabel].filter(Boolean).join(' · ');
+        var href = '#/law/' + esc(p.lawId) + (p.articleId ? '?art=' + esc(p.articleId) : '');
+        return '<li>' + esc(p.text) +
+          '<a class="ans-points__src" href="' + href + '" title="' + esc(tip) + '">[' + p.n + '] ' + esc(tip) + ' ↗</a>' +
+          '</li>';
+      }).join('') + '</ul>';
+    }
+
+    /* ---- 依据：只列答案中真正引用到的条文 ---- */
+    var cits = res.citations || [];
+    var used = {};
+    if (llmUsed) {
+      String(llm.text).replace(/\[(\d{1,2})\]/g, function (m, n) { used[n] = 1; return m; });
+    }
+    var refs = cits.map(function (c, k) { return { c: c, n: k + 1 }; });
+    if (llmUsed && Object.keys(used).length) {
+      var picked = refs.filter(function (r) { return used[String(r.n)]; });
+      if (picked.length) refs = picked;
+    } else if (!llmUsed) {
+      refs = refs.slice(0, 4);
+    }
+    if (refs.length) {
+      out += '<div class="ans-refs">' +
+        '<div class="ans-refs__title">' + esc(t('依据')) + '（' + refs.length + '）</div>' +
+        refs.map(function (r) {
+          var b = r.c;
+          return '<a class="ans-ref" href="#/law/' + esc(b.lawId) + '?art=' + esc(b.articleId) + '">' +
+            '<span class="ans-ref__n">[' + r.n + ']</span>' +
+            '<span class="ans-ref__t">' + esc(b.countryName) + ' · ' + esc(b.lawTitle) + ' ' + esc(b.noLabel) + '</span>' +
+            '<span class="ans-ref__go">' + esc(t('原文')) + ' ↗</span>' +
+          '</a>';
         }).join('') + '</div>';
     }
 
-    /* ④ 背景说明：主题通用说明，明确标注「非条文结论」，避免被误读为法条依据 */
-    var bg = a.background || a.analysis;
-    if (bg) {
-      out += '<div class="answer-section"><div class="answer-section__title">④ ' + esc(t('背景说明（非条文结论）')) + '</div>' +
-        '<p style="margin:0;color:var(--text-secondary)">' + fmtRich(bg) + '</p></div>';
-    }
+    /* ---- 一行免责 ---- */
+    out += '<p class="ans-foot">' + CALR.ui.icon('info') + ' ' + esc(t('AI 辅助生成，仅供参考')) +
+      (refs.length ? ' · ' + esc(t('点击「原文」可回溯法条')) : '') + '</p>';
 
-    out += '<div class="answer-section"><div class="answer-section__title">⑤ ' + esc(t('风险与提示')) + '</div>' +
-      '<p style="margin:0;color:var(--text-secondary)">' + fmtRich(a.risk) + '</p></div>';
-
-    /* BYOK 可核查信息：模型、本次 Token 用量、引用校验结果、改写后的检索式 */
-    if (llm && llmUsed) {
+    /* ---- 技术详情（默认折叠） ---- */
+    var tw = [];
+    if (llmUsed) {
       var u = llm.usage || {};
       var ver = llm.verification || {};
       var st2 = ver.stats || {};
-      out += '<p class="mini muted" style="margin:10px 0 0">' + CALR.ui.icon('sparkle') + ' ' +
-        esc(t('本次答案由您的模型生成')) + '：<b>' + esc(llm.model || '') + '</b>' +
-        (byok && byok.rewrite && byok.rewrite.ok ? '　' + esc(t('检索式改写')) + '：' + esc(byok.rewrite.query) : '') +
-        '</p>' +
-        '<p class="mini muted" style="margin:4px 0 0">' +
-        esc(t('Token 用量')) + '：' + (u.total_tokens ? esc(String(u.total_tokens)) + '（prompt ' + esc(String(u.prompt_tokens || 0)) + ' / completion ' + esc(String(u.completion_tokens || 0)) + '）' : esc(t('未返回'))) +
-        '　' + esc(t('费用以您所选厂商价目表为准，本平台不代收')) +
-        '</p>' +
-        '<p class="mini muted" style="margin:4px 0 0">' + esc(t('引用校验')) + '：' +
-        esc(t('保留可溯源句')) + ' ' + esc(String(st2.keptSubstantive || 0)) + ' / ' + esc(String(st2.substantive || 0)) +
-        '，' + esc(t('剔除无引用句')) + ' ' + esc(String(st2.droppedSentences || 0)) +
-        (st2.invalidRefs ? '，' + esc(t('越界引用')) + ' ' + esc(String(st2.invalidRefs)) : '') +
-        '　' + esc(t('校验由本平台代码执行，非模型自述')) +
-        '</p>';
+      tw.push(esc(t('模型')) + '：' + esc(llm.model || ''));
+      if (byok && byok.rewrite && byok.rewrite.ok) tw.push(esc(t('检索式')) + '：' + esc(byok.rewrite.query));
+      if (u.total_tokens) {
+        tw.push(esc(t('Token')) + '：' + esc(String(u.total_tokens)) +
+          '（prompt ' + esc(String(u.prompt_tokens || 0)) + ' / completion ' + esc(String(u.completion_tokens || 0)) + '）');
+      }
+      tw.push(esc(t('引用校验')) + '：' + esc(t('保留可溯源句')) + ' ' + esc(String(st2.keptSubstantive || 0)) + ' / ' +
+        esc(String(st2.substantive || 0)) + '，' + esc(t('剔除无引用句')) + ' ' + esc(String(st2.droppedSentences || 0)));
+    } else {
+      tw.push(esc(t('来源')) + '：' + esc(t('本机确定性检索（未启用模型增强）')));
     }
+    tw.push(esc(t('检索范围')) + '：' + S().stats().countries + ' ' + esc(t('个法域、')) + S().stats().laws + ' ' + esc(t('部法规')));
+    out += '<details class="ans-tech"><summary>' + esc(t('技术详情')) + '</summary>' +
+      tw.map(function (x) { return '<div>' + x + '</div>'; }).join('') + '</details>';
 
-    out += '<p class="mini muted" style="margin:10px 0 0">' + CALR.ui.icon('file') + ' ' + esc(t('本回答共引用')) + ' ' + (res.citations || []).length + ' ' + esc(t('条法条')) +
-      '；' + esc(t('检索范围：')) + S().stats().countries + ' ' + esc(t('个法域、')) + S().stats().laws + ' ' + esc(t('部法规')) +
-      '。' + esc(t('所有结论均可点击“查看原文”回溯至数据库中的法条。')) + '</p>' +
-      '';
     return rowHtml('ai', out);
   }
   /* ============== BYOK 配置面板（左侧栏，竖向表单，不弹窗） ============== */

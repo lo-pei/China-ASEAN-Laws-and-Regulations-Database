@@ -792,6 +792,19 @@
   "本助手仅依据数据库已收录的法规作答；超出收录范围时明确提示「暂未收录相关法规」，不作推测性回答。对话不落盘、不上传服务器。": "Jawaban hanya berdasarkan peraturan yang terindeks; pertanyaan di luar cakupan ditolak tanpa spekulasi. Percakapan tidak disimpan atau diunggah.",
   "快速跳转": "Lompat cepat",
   "全球布局": "Jangkauan global",
-  "数据库概况": "Ringkasan basis data"
+  "数据库概况": "Ringkasan basis data",
+  "依据": "Sumber",
+  "技术详情": "Detail teknis",
+  "模型": "Model",
+  "检索式": "Kueri",
+  "本机确定性检索（未启用模型增强）": "Pencarian lokal (tanpa model)",
+  "点击「原文」可回溯法条": "Klik \"Asli\" untuk melacak pasal",
+  "模型认为材料不足，以下为本地检索摘要": "Model menilai bahan kurang; berikut ringkasan pencarian lokal",
+  "以下为本机检索结果": "berikut hasil pencarian lokal",
+  "本地未检索到可引用的条文": "Tidak ada pasal yang dapat dikutip",
+  "据库内": "Berdasarkan",
+  "条相关条文：": "pasal terkait:",
+  "答案正文（带引用编号 [n]）→ 依据列表（点击可回溯法条原文）→ 一行免责；模型与引用校验等技术信息默认折叠。": "Teks jawaban (dengan penanda rujukan [n]) → daftar sumber (klik untuk melacak pasal) → satu baris penyangkalan; detail teknis dilipat.",
+  "相关法规": "Peraturan terkait"
 };
 })(typeof window !== 'undefined' ? window : globalThis);
