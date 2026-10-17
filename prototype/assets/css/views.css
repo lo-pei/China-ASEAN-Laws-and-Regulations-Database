@@ -455,26 +455,26 @@ mark.law-find-hit {
 .ai-form__control .input, .ai-form__control .select { width: 100%; }
 
 /* ==========================================================================
-   主页侧边快速跳转（下滚 420px 后淡入；滚动联动高亮当前区块）
+   主页快速跳转：左侧极简圆点导轨（下滚 420px 后出现）
+   只有小圆点；文字标签在悬停整组时淡入；无卡片、无阴影，尽量不干扰阅读
    ========================================================================== */
 .home-toc {
   position: fixed;
-  right: 22px;
+  left: 12px;
   top: 50%;
-  transform: translateY(-50%) translateX(14px);
   z-index: 40;
   display: flex;
   flex-direction: column;
-  gap: 2px;
-  padding: 10px 12px 10px 10px;
-  background: #FFFFFF;
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  box-shadow: 0 8px 28px rgba(16, 24, 40, .10);
+  gap: 12px;
+  padding: 6px 4px;
+  background: none;
+  border: 0;
+  box-shadow: none;
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
-  transition: opacity .22s ease, transform .22s ease, visibility .22s;
+  transform: translateY(-50%) translateX(-6px);
+  transition: opacity .2s ease, transform .2s ease, visibility .2s;
 }
 .home-toc.is-visible {
   opacity: 1;
@@ -482,37 +482,30 @@ mark.law-find-hit {
   pointer-events: auto;
   transform: translateY(-50%) translateX(0);
 }
-.home-toc__title {
-  font-size: var(--fs-mini);
-  color: var(--text-secondary);
-  padding: 2px 6px 6px;
-  letter-spacing: .04em;
-}
+.home-toc__title { display: none; }
 .home-toc__item {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  padding: 6px 8px;
-  border-radius: 7px;
-  text-decoration: none;
-  color: var(--text-secondary);
-  font-size: var(--fs-small);
-  white-space: nowrap;
-  transition: background .12s, color .12s;
+  display: flex; align-items: center; gap: 9px;
+  padding: 0; text-decoration: none; border-radius: 4px;
 }
 .home-toc__dot {
-  flex: 0 0 auto;
-  width: 6px; height: 6px;
-  border-radius: 50%;
-  background: var(--calr-gray-300);
+  flex: 0 0 auto; width: 6px; height: 6px; border-radius: 50%;
+  background: var(--calr-gray-400);
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, .8);
   transition: background .12s, transform .12s;
 }
-.home-toc__item:hover { background: var(--calr-gray-50); color: var(--text-primary); }
-.home-toc__item.is-active { color: var(--calr-blue-700); font-weight: 600; }
-.home-toc__item.is-active .home-toc__dot {
-  background: var(--calr-blue-600);
-  transform: scale(1.5);
+.home-toc__item:hover .home-toc__dot { background: var(--calr-gray-700); }
+.home-toc__item.is-active .home-toc__dot { background: var(--calr-blue-600); transform: scale(1.5); }
+.home-toc__label {
+  max-width: 0; opacity: 0; overflow: hidden; white-space: nowrap;
+  font-size: var(--fs-mini); color: var(--text-secondary);
+  background: rgba(255, 255, 255, .95);
+  padding: 0; border-radius: 4px;
+  transition: max-width .18s ease, opacity .18s ease, padding .18s ease;
 }
+.home-toc:hover .home-toc__label { max-width: 120px; opacity: 1; padding: 2px 7px; }
+.home-toc__item.is-active .home-toc__label { color: var(--calr-blue-700); font-weight: 600; }
+@media (max-width: 1180px) { .home-toc { display: none; } }
+@media (max-height: 620px) { .home-toc { display: none; } }
 
 /* 跳转目标：留出固定顶栏高度，避免被遮住 */
 .home-sec { scroll-margin-top: 76px; }
@@ -570,32 +563,6 @@ mark.law-find-hit {
 .ans-tech summary { cursor: pointer; color: var(--text-secondary); }
 .ans-tech[open] summary { margin-bottom: 6px; }
 .ans-tech > div { line-height: 1.7; padding-left: 2px; }
-
-/* --- 极简圆点导轨（覆盖上面的宽版）：默认只有点，悬停才展开标签 --- */
-.home-toc {
-  right: 10px;
-  padding: 8px 6px;
-  gap: 0;
-  border-radius: 999px;
-  background: rgba(255, 255, 255, .92);
-  backdrop-filter: blur(6px);
-  box-shadow: 0 4px 16px rgba(16, 24, 40, .10);
-  border-color: rgba(226, 229, 235, .9);
-  width: 22px;
-  transition: opacity .2s ease, transform .2s ease, width .18s ease, padding .18s ease;
-  overflow: hidden;
-}
-.home-toc:hover { width: 138px; padding: 8px 10px 8px 6px; }
-.home-toc__title { display: none; }
-.home-toc__item { padding: 7px 2px; gap: 0; border-radius: 999px; }
-.home-toc:hover .home-toc__item { padding: 6px 6px; gap: 8px; }
-.home-toc__dot { width: 7px; height: 7px; margin: 0 auto; }
-.home-toc__item.is-active .home-toc__dot { transform: scale(1.45); }
-.home-toc__label {
-  max-width: 0; opacity: 0; overflow: hidden; white-space: nowrap;
-  transition: max-width .18s ease, opacity .18s ease;
-}
-.home-toc:hover .home-toc__label { max-width: 110px; opacity: 1; }
 
 /* ---------- AI 落地态：欢迎居中 + 输入栏贴底 ---------- */
 /* 让 .chat 吃掉全部剩余高度、内容在其中垂直居中；输入栏留在 body 最底部 */
