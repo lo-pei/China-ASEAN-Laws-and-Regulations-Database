@@ -144,6 +144,14 @@
   var P_DUTY = /(应当|必须|不得|可以|有权|禁止|不少于|不得超过|不超过|须经|须取得|shall|must|may|may not|shall not|is entitled|is required)/i;
   var P_COND = /(下列|以下|如|若|如果|情形|条件|除外|另有规定|情况下|except|where|provided that|if the)/;
   var P_NUM = /(\d[\d,.]*\s*(?:日|天|个月|月|年|%|％|元|万元|万|人|次|倍|小时|days?|months?|years?|hours?|USD|VND|CNY))/i;
+  /* P4 新增线索：把「只有定义/禁止/期限/比例/适用/处罚/机构」的实体句也纳入要点 */
+  var P_DEF = /(本法所称|本条例所称|本办法所称|是指|系指|含义|定义为|means\b|is defined as|refers to)/i;
+  var P_PROHIBIT = /(禁止|严禁|不得|不准|不许|prohibited|shall not|may not|is not permitted)/i;
+  var P_DEADLINE = /(自[^，。]{0,20}之日起|\d+\s*(?:个)?(?:工作日|日|天|月|年)内|within\s+\d+|不迟于|逾期|期限为)/i;
+  var P_RATIO = /(不低于|不超过|不少于|不得超过|以上|以下|百分之|\d+\s*%|at least|not more than|not less than)/i;
+  var P_SCOPE = /(适用于|不适用于|适用下列|适用范围|applies to|does not apply)/i;
+  var P_PENALTY = /(处罚|罚款|罚金|罚则|吊销|责令|penalty|fine|imprisonment|liability)/i;
+  var P_ORG = /(设立|主管|负责|职责|权限|应当报送|shall establish|is responsible for)/i;
 
   /** 按中英句末标点切句（不用 lookbehind，兼容旧浏览器） */
   function splitSentences(t) {
@@ -173,14 +181,35 @@
       sents.forEach(function (s) {
         if (s.length < 12) return;
         var sc = 0;
+        /* 原有三类（义务 / 数字 / 条件）权重最高 */
         if (P_DUTY.test(s)) sc += 3;
         if (P_NUM.test(s)) sc += 2;
         if (P_COND.test(s)) sc += 1;
+        /* P4 新增七类：把只有定义/禁止/期限/比例/适用/处罚/机构的实体句也纳入要点 */
+        if (P_PROHIBIT.test(s)) sc += 3;
+        if (P_DEF.test(s)) sc += 2;
+        if (P_DEADLINE.test(s)) sc += 2;
+        if (P_RATIO.test(s)) sc += 2;
+        if (P_SCOPE.test(s)) sc += 2;
+        if (P_PENALTY.test(s)) sc += 1;
+        if (P_ORG.test(s)) sc += 1;
         if (sc <= 0) return;
-        picked.push({ text: s, score: sc, ci: ci });
+        /* 按引用排名加权：排在前面的法规与问题更相关。
+           否则低排名法规里的强句式（如「本法所称…是指…」）会反超真正相关的条文。 */
+        var rankW = ci === 0 ? 3.0 : (ci === 1 ? 2.2 : (ci === 2 ? 1.6 : (ci === 3 ? 1.1 : 0.6)));
+        picked.push({ text: s, score: sc * rankW, ci: ci });
       });
       picked.sort(function (a, b) { return b.score - a.score; });
-      picked.slice(0, 2).forEach(function (p) { cand.push(p); });
+      if (!picked.length) {
+        /* 兜底：抽不出要点时取首个实义句，保证「引用 ↔ 要点」不脱节 */
+        for (var si = 0; si < sents.length; si++) {
+          if (sents[si].length >= 16) {
+            picked.push({ text: sents[si], score: (ci === 0 ? 3 : ci === 1 ? 2 : 0.6), ci: ci });
+            break;
+          }
+        }
+      }
+      picked.slice(0, 3).forEach(function (p) { cand.push(p); });
     });
     cand.sort(function (a, b) { return b.score - a.score; });
     return cand.slice(0, max || MAX_POINTS).map(function (p) {
@@ -266,13 +295,48 @@ var NON_LEGAL = [
   }
 
   /** 按引用构造 citations / basis（共用） */
-  function buildRefs(top, limit) {
+  function buildRefs(top, limit, tokens) {
     var citations = [], basis = [], related = [], skipped = 0;
-    top.slice(0, limit || 4).forEach(function (it) {
+    /* 引用相关度门限：低于最高分 60% 的法规不生成引用。
+       否则「商用工业用不动产租赁法」这类弱相关长法也会被引用，
+       其「本法所称…是指…」句式还会污染要点（实测出现过用租赁定义回答劳动法问题）。 */
+    var topScore0 = (top[0] && top[0].score) || 0;
+    var minScore = topScore0 * 0.75;
+    top.slice(0, limit || 5).forEach(function (it) {
+      if (topScore0 > 0 && it.score < minScore) { skipped++; return; }
       var law = it.law;
       /* 只用真实命中的条文。此前 `|| law.articles[0]` 会在无命中时硬引第 1 条，
          而第 1 条通常是「本法称为《XX法》」这类标题条款，与问题无关，
          等于伪造依据（基线实测 47.1% 的引用都是这么来的）。 */
+      /* P3：每部法规取最多 3 条命中条文，而不是只取 1 条 */
+      var multi = null;
+      try {
+        if (CALR.search && CALR.search.bestArticles && tokens && tokens.length) {
+          multi = CALR.search.bestArticles(law, tokens, 2);
+        }
+      } catch (e) { multi = null; }
+      if (multi && multi.length && !(it.hitArticle && multi[0].article === it.hitArticle)) {
+        multi.forEach(function (m) {
+          var a0 = m.article;
+          citations.push({
+            articleId: a0.id, lawId: law.id, country: law.country,
+            countryName: S().countryName(law.country),
+            lawTitle: U().tr(law.title),
+            noLabel: U().tr(a0.noLabel) || ('第 ' + a0.no + ' 条'),
+            heading: U().tr(a0.heading),
+            excerpt: U().truncate(U().plain(U().tr(a0.text)), 160),
+            fullText: U().plain(U().tr(a0.text))
+          });
+          basis.push({
+            countryName: S().countryName(law.country), lawTitle: U().tr(law.title),
+            noLabel: U().tr(a0.noLabel) || ('第 ' + a0.no + ' 条'),
+            heading: U().tr(a0.heading),
+            excerpt: U().truncate(U().plain(U().tr(a0.text)), 180),
+            articleId: a0.id, lawId: law.id
+          });
+        });
+        return;
+      }
       var art = it.hitArticle;
       if (!art) {
         skipped++;
@@ -450,7 +514,7 @@ var NON_LEGAL = [
     var res = CALR.search.run({ q: searchQ, mode: 'semantic', size: 12, country: countryFilter });
     var top = res.items.filter(function (it) { return it.score > 0; });
     var topScore = top.length ? top[0].score : 0;
-    var refs = buildRefs(top, 4);
+    var refs = buildRefs(top, 5, U().tokenize(searchQ));
     var citations = refs.citations;
     var basis = refs.basis;
 
@@ -674,7 +738,10 @@ var NON_LEGAL = [
     '1. 每条结论句必须以引用标记结尾，格式 [n]，n 为材料编号；可并列多个，如 [1][3]。',
     '2. 若材料不足以回答问题，只输出：材料不足以回答该问题。',
     '3. 不得给出法律意见、不得补全材料中没有的内容、不得编造条文编号。',
-    '4. 用与用户问题相同的语言作答，不超过 400 字。'
+    '4. 用与用户问题相同的语言作答，不超过 400 字。',
+    '5. 尽可能引用至少 2 条不同条文；若只有 1 条材料可用，就用这 1 条，不要凑数。',
+    '6. 问题涉及多个国家或做比较时，按国别分点作答，每个国别下再列条文依据。',
+    '7. 优先给出可核对的具体要素：主体、义务内容、条件、期限、比例、金额、罚则。'
   ].join('\n');
 
   /** 用 LLM 把自然语言问题改写成更适合关键词检索的查询式；失败即退回原问题 */

@@ -366,6 +366,24 @@
     return best ? { article: best, text: artHit_text(best), score: bestScore } : null;
   }
 
+  /** 返回命中度最高的前 n 条条文（供问答生成多条引用；bestArticle 只返回 1 条） */
+  function bestArticles(law, tokens, n) {
+    var list = [];
+    (law.articles || []).forEach(function (a) {
+      var raw = artHit_text(a);
+      var txt = U().tokenize(raw + ' ' + U().tr(a.summary));
+      var sc = countHit(tokens, txt);
+      if (!sc) return;
+      var plain = U().plain(raw);
+      /* 纯标题条款不参与引用（同 bestArticle 的判定） */
+      if (TITLE_CLAUSE.test(U().plain(U().tr(a.text))) && U().plain(U().tr(a.text)).length < 160) return;
+      sc = sc / Math.sqrt(Math.max(1, plain.length / 80));
+      list.push({ article: a, text: raw, score: sc });
+    });
+    list.sort(function (x, y) { return y.score - x.score; });
+    return list.slice(0, n || 3);
+  }
+
   function snippetOf(text, terms, len) {
     text = U().plain(text || '');
     len = len || 150;
@@ -410,6 +428,7 @@
   }
 
   CALR.search = {
+    bestArticles: bestArticles,
     run: run,
     runTreaties: runTreaties,
     last: function () { return lastRun; },
