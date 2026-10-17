@@ -805,6 +805,13 @@
   "据库内": "Berdasarkan",
   "条相关条文：": "pasal terkait:",
   "答案正文（带引用编号 [n]）→ 依据列表（点击可回溯法条原文）→ 一行免责；模型与引用校验等技术信息默认折叠。": "Teks jawaban (dengan penanda rujukan [n]) → daftar sumber (klik untuk melacak pasal) → satu baris penyangkalan; detail teknis dilipat.",
-  "相关法规": "Peraturan terkait"
+  "相关法规": "Peraturan terkait",
+  "你好，让我们开始聊天吧": "Halo, mari mulai mengobrol",
+  "覆盖中国与东盟十国共 12 个法域，回答均带条文溯源。": "Mencakup Tiongkok dan 10 negara ASEAN — 12 yurisdiksi, setiap jawaban dapat dilacak ke pasal.",
+  "给 CALR AI 发送消息": "Kirim pesan ke CALR AI",
+  "越南外资最低注册资本": "Vietnam: modal minimum",
+  "泰国经济补偿金": "Thailand: uang pesangon",
+  "新加坡公司年报": "Singapura: pelaporan tahunan",
+  "中国数据出境": "Tiongkok: transfer data lintas batas"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

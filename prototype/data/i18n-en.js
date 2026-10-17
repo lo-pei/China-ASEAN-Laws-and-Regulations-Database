@@ -805,6 +805,13 @@
   "据库内": "Based on",
   "条相关条文：": "relevant provisions:",
   "答案正文（带引用编号 [n]）→ 依据列表（点击可回溯法条原文）→ 一行免责；模型与引用校验等技术信息默认折叠。": "Answer text (with citation markers [n]) → sources (click to trace the provision) → one-line disclaimer; technical details are collapsed by default.",
-  "相关法规": "Related laws"
+  "相关法规": "Related laws",
+  "你好，让我们开始聊天吧": "Hello, let's start chatting",
+  "覆盖中国与东盟十国共 12 个法域，回答均带条文溯源。": "Covering China and the 10 ASEAN states — 12 jurisdictions, with provision-level traceability in every answer.",
+  "给 CALR AI 发送消息": "Message CALR AI",
+  "越南外资最低注册资本": "Vietnam: minimum charter capital",
+  "泰国经济补偿金": "Thailand: severance pay",
+  "新加坡公司年报": "Singapore: annual filing",
+  "中国数据出境": "China: cross-border data transfer"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

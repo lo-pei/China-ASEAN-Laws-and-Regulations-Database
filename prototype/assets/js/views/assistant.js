@@ -161,7 +161,7 @@
             '<div class="ai-main__body">' +
               '<div class="chat" id="chat"></div>' +
               '<div class="ai-composer">' +
-                '<textarea id="q-input" rows="2" placeholder="' + esc(t('输入法律问题，例如：越南外资企业的最低注册资本要求是什么？')) + '" aria-label="' + esc(t('输入问题')) + '"></textarea>' +
+                '<textarea id="q-input" rows="1" placeholder="' + esc(t('给 CALR AI 发送消息')) + '" aria-label="' + esc(t('输入问题')) + '"></textarea>' +
                 '<button class="btn ai-composer__send" id="ask-btn" type="button" title="' + esc(t('提问')) + '">' +
                   CALR.ui.icon('send') + '<span>' + esc(t('提问')) + '</span></button>' +
               '</div>' +
@@ -274,8 +274,11 @@
       function renderChat() {
         var el = chatEl();
         if (!el) return;
-        el.innerHTML = introBubble() + history.map(function (h) { return h.html; }).join('');
-        el.scrollIntoView({ block: 'end' });
+        var empty = !history.length;
+        var body = el.parentNode;
+        if (body && body.classList) body.classList.toggle('is-empty', empty);
+        el.innerHTML = empty ? welcomeHtml() : history.map(function (h) { return h.html; }).join('');
+        if (!empty) el.scrollIntoView({ block: 'end' });
       }
       renderChat();
       renderConvList();
@@ -432,6 +435,26 @@
       }
     }
   };
+
+  /** 落地态：居中欢迎 + 示例问题（替代原来的长引导气泡） */
+  function welcomeHtml() {
+    var EXAMPLES = [
+      ['越南外资企业的最低注册资本要求是什么？', '越南外资最低注册资本'],
+      ['泰国劳动法关于经济补偿金怎么规定？', '泰国经济补偿金'],
+      ['新加坡公司法的年度申报要求是什么？', '新加坡公司年报'],
+      ['中国数据出境需要满足哪些条件？', '中国数据出境']
+    ];
+    return '<div class="ai-welcome">' +
+      '<div class="ai-welcome__icon">' + CALR.ui.icon('sparkle') + '</div>' +
+      '<h2 class="ai-welcome__title">' + esc(t('你好，让我们开始聊天吧')) + '</h2>' +
+      '<p class="ai-welcome__sub">' + esc(t('覆盖中国与东盟十国共 12 个法域，回答均带条文溯源。')) + '</p>' +
+      '<div class="ai-welcome__chips">' +
+        EXAMPLES.map(function (x) {
+          return '<button type="button" class="ai-welcome__chip" data-ask-again="' + esc(x[0]) + '">' + esc(t(x[1])) + '</button>';
+        }).join('') +
+      '</div>' +
+    '</div>';
+  }
 
   function introBubble() {
     return rowHtml('ai',

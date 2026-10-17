@@ -805,6 +805,13 @@
   "据库内": "Theo",
   "条相关条文：": "điều liên quan:",
   "答案正文（带引用编号 [n]）→ 依据列表（点击可回溯法条原文）→ 一行免责；模型与引用校验等技术信息默认折叠。": "Nội dung trả lời (có chỉ dấu trích dẫn [n]) → danh mục căn cứ (nhấn để truy nguyên điều luật) → một dòng miễn trừ; chi tiết kỹ thuật được thu gọn.",
-  "相关法规": "Văn bản liên quan"
+  "相关法规": "Văn bản liên quan",
+  "你好，让我们开始聊天吧": "Xin chào, hãy bắt đầu trò chuyện",
+  "覆盖中国与东盟十国共 12 个法域，回答均带条文溯源。": "Bao gồm Trung Quốc và 10 nước ASEAN — 12 khu vực pháp lý, mọi câu trả lời đều truy nguyên đến điều luật.",
+  "给 CALR AI 发送消息": "Nhắn cho CALR AI",
+  "越南外资最低注册资本": "Việt Nam: vốn điều lệ tối thiểu",
+  "泰国经济补偿金": "Thái Lan: trợ cấp thôi việc",
+  "新加坡公司年报": "Singapore: khai báo thường niên",
+  "中国数据出境": "Trung Quốc: chuyển dữ liệu ra nước ngoài"
 };
 })(typeof window !== 'undefined' ? window : globalThis);
