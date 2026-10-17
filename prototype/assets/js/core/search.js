@@ -319,11 +319,26 @@
     return n;
   }
 
+  /* 「标题条款」特征：第 1 条常为「本法称为《XX法》…」「本条例自…施行」之类，
+     与具体问题无关。命中它会让引用退化成无信息量的「第 1 条」
+     （2026-10-17 基线实测：41% 的引用都是这种）。 */
+  var TITLE_CLAUSE = /^\s*(本法|本条例|本规定|本办法|本细则|本决定)\s*(称为|所称|的制定|自[^，。]{0,30}施行)|^\s*(This|These)\s+(Act|Law|Order|Regulation|Rules?)\s+(may be cited|is cited|comes? into|shall come)/i;
+
   function bestArticle(law, tokens) {
     var best = null, bestScore = 0;
     law.articles.forEach(function (a) {
-      var txt = U().tokenize(artHit_text(a) + ' ' + U().tr(a.summary));
+      var raw = artHit_text(a);
+      var txt = U().tokenize(raw + ' ' + U().tr(a.summary));
       var s = countHit(tokens, txt);
+      if (!s) return;
+      var plain = U().plain(raw);
+      /* 纯标题条款直接排除：引「本法称为《XX法》」作为问题依据毫无信息量。
+         注意与「本法规定…」「本法旨在…」区分——后者是真实的适用范围/立法目的条款，应予保留。
+         必须对「正文」判断而非 artHit_text（后者是 heading+text 拼接，^ 锚点会失效）。 */
+      var bodyOnly = U().plain(U().tr(a.text));
+      if (TITLE_CLAUSE.test(bodyOnly) && bodyOnly.length < 160) return;
+      /* 长度归一化：同等命中数下优选更聚焦的条文，避免长条文靠篇幅取胜 */
+      s = s / Math.sqrt(Math.max(1, plain.length / 80));
       if (s > bestScore) { bestScore = s; best = a; }
     });
     return best ? { article: best, text: artHit_text(best), score: bestScore } : null;

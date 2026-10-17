@@ -19,7 +19,9 @@
   var S = function () { return CALR.store; };
 
   var DISCLAIMER = 'AI 辅助生成，仅供参考';
-  var THRESHOLD = 3;   /* 相关度阈值：低于该值判定为“暂未收录” */
+  var THRESHOLD = 20;  /* 相关度阈值：低于该值判定为「暂未收录」。
+                         2026-10-17 标定：正例 topScore 最低 31.5、负例最高 70，
+                         但负例多为「库里没有的国家」，故配合下方法域门禁使用。 */
   var MAX_POINTS = 6;  /* 要点上限 */
 
   /** 国别别名（中文名/英文名由 store 的 countries 自动补齐，这里只补常见别名） */
@@ -197,7 +199,54 @@
   }
 
   /* 非法律事项特征（用于判定提问是否属于法规检索范围） */
-  var NON_LEGAL = [
+  /* 不属于本库 12 法域（中国 + 东盟十国 + 东帝汶）的常见国家/地区。
+   问题一旦点名这些法域，直接婉拒——绝不能拿库内其他国家法规顶替（会误导用户）。 */
+var OUT_JURISDICTIONS = [
+  ['美国', 'United States', 'USA', 'American', 'US law'],
+  ['欧盟', 'European Union', 'EU ', 'GDPR'],
+  ['英国', 'United Kingdom', 'UK ', 'Britain', 'British'],
+  ['德国', 'Germany', 'German'], ['法国', 'France', 'French'],
+  ['意大利', 'Italy'], ['西班牙', 'Spain'], ['荷兰', 'Netherlands'],
+  ['瑞士', 'Switzerland'], ['瑞典', 'Sweden'], ['波兰', 'Poland'],
+  ['俄罗斯', 'Russia', 'Russian'], ['乌克兰', 'Ukraine'],
+  ['土耳其', 'Turkey', 'Turkish'], ['以色列', 'Israel'],
+  ['印度', 'India', 'Indian'], ['巴基斯坦', 'Pakistan'],
+  ['孟加拉', 'Bangladesh'], ['斯里兰卡', 'Sri Lanka'], ['尼泊尔', 'Nepal'],
+  ['日本', 'Japan', 'Japanese'], ['韩国', 'South Korea', 'Korea', 'Korean'],
+  ['澳大利亚', 'Australia', 'Australian'], ['新西兰', 'New Zealand'],
+  ['加拿大', 'Canada', 'Canadian'], ['墨西哥', 'Mexico', 'Mexican'],
+  ['巴西', 'Brazil', 'Brazilian'], ['阿根廷', 'Argentina', 'Argentine'],
+  ['智利', 'Chile', 'Peru'], ['哥伦比亚', 'Colombia'], ['乌拉圭', 'Uruguay'],
+  ['南非', 'South Africa'], ['埃及', 'Egypt'], ['尼日利亚', 'Nigeria'],
+  ['肯尼亚', 'Kenya'], ['埃塞俄比亚', 'Ethiopia'], ['摩洛哥', 'Morocco'],
+  ['阿尔及利亚', 'Algeria'], ['坦桑尼亚', 'Tanzania'],
+  ['沙特', 'Saudi Arabia', 'Saudi'], ['阿联酋', 'United Arab Emirates', 'UAE', '迪拜', 'Dubai'],
+  ['卡塔尔', 'Qatar'], ['科威特', 'Kuwait'], ['伊朗', 'Iran'], ['伊拉克', 'Iraq'],
+  ['塞尔维亚', 'Serbia'], ['哈萨克斯坦', 'Kazakhstan'], ['蒙古', 'Mongolia'],
+  ['纳米比亚', 'Namibia'], ['智利', 'Chile'],
+];
+
+/** 问题是否点名了本库未收录的法域（已识别出东盟/中国时不算） */
+function outOfJurisdiction(text, knownCountries) {
+  if (knownCountries && knownCountries.length) return null;
+  var T = String(text || '');
+  for (var i = 0; i < OUT_JURISDICTIONS.length; i++) {
+    var names = OUT_JURISDICTIONS[i];
+    for (var j = 0; j < names.length; j++) {
+      var n = names[j];
+      if (!n) continue;
+      /* 英文名要求前后非字母，避免 "Indian" 命中 "India" 之类误判 */
+      if (/^[A-Za-z\s]+$/.test(n)) {
+        if (new RegExp('(^|[^A-Za-z])' + n.replace(/\s+/g, '\\s+') + '($|[^A-Za-z])', 'i').test(T)) return names[0];
+      } else if (T.indexOf(n) >= 0) {
+        return names[0];
+      }
+    }
+  }
+  return null;
+}
+
+var NON_LEGAL = [
     /天气|气温|降雨|下雨|空气质量|雾霾|限行/, /股票|股价|基金|汇率|期货|理财收益/,
     /几点|现在时间|今天是星期/, /笑话|唱歌|陪我聊天|讲个故事/, /写(一段)?(代码|程序)|编程题|算法题/,
     /菜谱|怎么做菜|哪家餐厅|外卖/, /电影|电视剧|综艺|明星|游戏攻略|旅游攻略/,
@@ -218,11 +267,23 @@
 
   /** 按引用构造 citations / basis（共用） */
   function buildRefs(top, limit) {
-    var citations = [], basis = [];
+    var citations = [], basis = [], related = [], skipped = 0;
     top.slice(0, limit || 4).forEach(function (it) {
       var law = it.law;
-      var art = it.hitArticle || law.articles[0];
-      if (!art) return;
+      /* 只用真实命中的条文。此前 `|| law.articles[0]` 会在无命中时硬引第 1 条，
+         而第 1 条通常是「本法称为《XX法》」这类标题条款，与问题无关，
+         等于伪造依据（基线实测 47.1% 的引用都是这么来的）。 */
+      var art = it.hitArticle;
+      if (!art) {
+        skipped++;
+        related.push({
+          lawId: law.id, country: law.country,
+          countryName: S().countryName(law.country),
+          lawTitle: U().tr(law.title),
+          reason: '标题/分类命中，未定位到具体条文'
+        });
+        return;
+      }
       var fullText = U().plain(U().tr(art.text));
       citations.push({
         articleId: art.id,
@@ -245,7 +306,7 @@
         lawId: law.id
       });
     });
-    return { citations: citations, basis: basis };
+    return { citations: citations, basis: basis, related: related, skipped: skipped };
   }
 
   /** 非法律问题被婉拒时，给出「您是不是想问」的相近法规问题（全部来自库内既有条目，不编造） */
@@ -313,6 +374,32 @@
     }
 
     var topics = classify(question);
+
+    /* ---------- A0：法域门禁 ---------- */
+    /* 问题点名本库未收录的国家/地区时直接婉拒。
+       不能拿库内其他国家法规顶替，否则用户会误以为那是该国的规定（基线实测这类问题 100% 被误答）。 */
+    var outJ = outOfJurisdiction(question, detectCountries(question));
+    if (outJ) {
+      return {
+        inScope: false,
+        outOfJurisdiction: outJ,
+        question: question,
+        countries: [], country: null,
+        answer: {
+          overview: '抱歉，本库暂未收录【' + outJ + '】的法规。',
+          basis: [],
+          points: [],
+          analysis: '本库当前覆盖 12 个法域：中国、越南、泰国、印度尼西亚、马来西亚、新加坡、' +
+            '菲律宾、文莱、柬埔寨、老挝、缅甸、东帝汶。为避免误导，我不使用其他国家或地区的法规来回答关于【' + outJ + '】的问题。',
+          background: '',
+          risk: '在缺少该法域权威文本的情况下，本助手不作推测性回答。'
+        },
+        citations: [], related: [], refsSkipped: 0,
+        suggestions: similarQuestions(question),
+        disclaimer: DISCLAIMER,
+        retrieval: { count: 0, taken: 0, topScore: 0, countryFilter: [], matchedCurated: null }
+      };
+    }
 
     /* ---------- A1：国别识别 → 单国硬过滤 ---------- */
     var detected = detectCountries(question);
