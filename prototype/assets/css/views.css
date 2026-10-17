@@ -605,3 +605,64 @@ mark.law-find-hit {
 .ai-main__body.is-empty .ai-disclaimer { text-align: center; }
 /* 落地态隐藏免责与技术提示，保持首屏干净 */
 .ai-main__body.is-empty .ai-disclaimer { display: none; }
+
+/* ==========================================================================
+   历史对话增强：置顶 / ⋯菜单 / 重命名 / 多选
+   ========================================================================== */
+/* 左右两栏强制等高 */
+.ai-layout { align-items: stretch; }
+.ai-history { height: 100%; max-height: calc(100vh - 210px); align-self: stretch; }
+
+/* 多选工具条 */
+.ai-selbar {
+  display: flex; align-items: center; gap: 6px; flex-wrap: wrap;
+  padding: 0 10px;
+  font-size: var(--fs-mini); color: var(--text-secondary);
+}
+.ai-selbar:not(:empty) { padding: 8px 10px; border-bottom: 1px solid var(--border); background: var(--calr-blue-50); }
+.ai-selbar .btn { padding: 2px 8px; }
+
+/* 行内元素 */
+.ai-conv__check {
+  flex: 0 0 auto; width: 15px; height: 15px; border-radius: 4px;
+  border: 1.5px solid var(--calr-gray-300); background: #fff;
+  display: inline-flex; align-items: center; justify-content: center;
+  font-size: 10px; color: #fff; line-height: 1;
+}
+.ai-conv.is-selected .ai-conv__check { background: var(--calr-blue-600); border-color: var(--calr-blue-600); }
+.ai-conv__pin { flex: 0 0 auto; font-size: 9px; color: var(--calr-blue-600); }
+.ai-conv__more {
+  flex: 0 0 auto; width: 18px; height: 18px; border: 0; border-radius: 5px;
+  background: transparent; color: var(--text-secondary);
+  cursor: pointer; font-size: 13px; line-height: 1; opacity: 0;
+  display: inline-flex; align-items: center; justify-content: center;
+}
+.ai-conv:hover .ai-conv__more { opacity: 1; }
+.ai-conv__more:hover { background: var(--calr-gray-100); color: var(--text-primary); }
+.ai-conv__rename {
+  flex: 1 1 auto; min-width: 0; width: 100%;
+  border: 1px solid var(--calr-blue-400); border-radius: 5px;
+  padding: 2px 5px; font: inherit; font-size: var(--fs-mini);
+  background: #fff; color: var(--text-primary); outline: none;
+}
+
+/* ⋯ 下拉菜单 */
+.ai-conv { position: relative; }
+.ai-menu {
+  position: absolute; right: 6px; top: calc(100% - 2px); z-index: 30;
+  min-width: 104px; padding: 4px;
+  background: #fff; border: 1px solid var(--border); border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(16, 24, 40, .14);
+  display: flex; flex-direction: column;
+}
+.ai-menu button {
+  text-align: left; padding: 6px 9px; border: 0; border-radius: 5px;
+  background: transparent; color: var(--text-primary);
+  font-size: var(--fs-mini); cursor: pointer; white-space: nowrap;
+}
+.ai-menu button:hover { background: var(--calr-gray-50); }
+.ai-menu button.is-danger { color: var(--calr-danger-text); }
+.ai-menu button.is-danger:hover { background: var(--calr-danger-bg); }
+
+/* 顶栏「多选」按钮激活态 */
+#conv-select.is-active { background: var(--calr-blue-50); color: var(--calr-blue-700); border-color: var(--calr-blue-300); }

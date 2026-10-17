@@ -812,6 +812,16 @@
   "越南外资最低注册资本": "Vietnam: minimum charter capital",
   "泰国经济补偿金": "Thailand: severance pay",
   "新加坡公司年报": "Singapore: annual filing",
-  "中国数据出境": "China: cross-border data transfer"
+  "中国数据出境": "China: cross-border data transfer",
+  "置顶": "Pin",
+  "取消置顶": "Unpin",
+  "重命名": "Rename",
+  "删除": "Delete",
+  "已置顶": "Pinned",
+  "多选": "Select",
+  "已选": "Selected",
+  "个对话": "chats",
+  "已取消置顶": "Unpinned",
+  "已删除": "Deleted"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

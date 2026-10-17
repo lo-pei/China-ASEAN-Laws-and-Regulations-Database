@@ -812,6 +812,16 @@
   "越南外资最低注册资本": "Việt Nam: vốn điều lệ tối thiểu",
   "泰国经济补偿金": "Thái Lan: trợ cấp thôi việc",
   "新加坡公司年报": "Singapore: khai báo thường niên",
-  "中国数据出境": "Trung Quốc: chuyển dữ liệu ra nước ngoài"
+  "中国数据出境": "Trung Quốc: chuyển dữ liệu ra nước ngoài",
+  "置顶": "Ghim",
+  "取消置顶": "Bỏ ghim",
+  "重命名": "Đổi tên",
+  "删除": "Xóa",
+  "已置顶": "Đã ghim",
+  "多选": "Chọn nhiều",
+  "已选": "Đã chọn",
+  "个对话": "hội thoại",
+  "已取消置顶": "Đã bỏ ghim",
+  "已删除": "Đã xóa"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

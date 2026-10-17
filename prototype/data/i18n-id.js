@@ -812,6 +812,16 @@
   "越南外资最低注册资本": "Vietnam: modal minimum",
   "泰国经济补偿金": "Thailand: uang pesangon",
   "新加坡公司年报": "Singapura: pelaporan tahunan",
-  "中国数据出境": "Tiongkok: transfer data lintas batas"
+  "中国数据出境": "Tiongkok: transfer data lintas batas",
+  "置顶": "Sematkan",
+  "取消置顶": "Lepas sematan",
+  "重命名": "Ganti nama",
+  "删除": "Hapus",
+  "已置顶": "Disematkan",
+  "多选": "Pilih banyak",
+  "已选": "Dipilih",
+  "个对话": "percakapan",
+  "已取消置顶": "Sematan dilepas",
+  "已删除": "Dihapus"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

@@ -97,9 +97,22 @@
   var convSeq = 0;
   var curConvId = 0;
 
+  /* 会话增强状态：多选、菜单、重命名 */
+  var selectMode = false;
+  var selected = {};
+  var menuId = 0;
+  var renamingId = 0;
+
+  function sortedConvs() {
+    return CONVS.slice().sort(function (a, b) {
+      if (!!a.pinned !== !!b.pinned) return a.pinned ? -1 : 1;
+      return (b.at || 0) - (a.at || 0);
+    });
+  }
+
   function newConv(silent) {
     convSeq++;
-    var c = { id: convSeq, title: '', items: [], at: Date.now() };
+    var c = { id: convSeq, title: '', items: [], at: Date.now(), pinned: false };
     CONVS.unshift(c);
     curConvId = c.id;
     return c;
@@ -136,7 +149,9 @@
             '<div class="ai-history__head">' +
               '<span class="ai-history__title">' + esc(t('历史对话')) + '</span>' +
               '<button class="btn btn--outline btn--sm" id="conv-new" type="button" title="' + esc(t('新对话')) + '">＋</button>' +
+              '<button class="btn btn--ghost btn--sm" id="conv-select" type="button" title="' + esc(t('多选')) + '">☑</button>' +
             '</div>' +
+            '<div class="ai-selbar" id="conv-bar"></div>' +
             '<div class="ai-history__list" id="conv-list"></div>' +
             '<div class="ai-history__foot mini muted">' + esc(t('仅保存在当前页面内存中')) + '</div>' +
           '</aside>' +
@@ -198,39 +213,156 @@
       if (!CONVS.length) newConv(true);
       bindConv(curConv());
 
+      function menuHtml(c) {
+        return '<div class="ai-menu" data-menu="' + c.id + '">' +
+          '<button type="button" data-act="pin" data-id="' + c.id + '">' +
+            esc(t(c.pinned ? '取消置顶' : '置顶')) + '</button>' +
+          '<button type="button" data-act="rename" data-id="' + c.id + '">' + esc(t('重命名')) + '</button>' +
+          '<button type="button" class="is-danger" data-act="del" data-id="' + c.id + '">' + esc(t('删除')) + '</button>' +
+        '</div>';
+      }
+
       function renderConvList() {
         var box = U().$('#conv-list', main);
         if (!box) return;
-        if (!CONVS.length) { box.innerHTML = ''; return; }
-        box.innerHTML = CONVS.map(function (c) {
+        var list = sortedConvs();
+        var bar = U().$('#conv-bar', main);
+        if (bar) {
+          bar.innerHTML = selectMode
+            ? '<span class="mini">' + esc(t('已选')) + ' ' + Object.keys(selected).length + '</span>' +
+              '<button type="button" class="btn btn--outline btn--sm" data-sel="pin">' + esc(t('置顶')) + '</button>' +
+              '<button type="button" class="btn btn--ghost btn--sm" data-sel="del">' + esc(t('删除')) + '</button>' +
+              '<button type="button" class="btn btn--ghost btn--sm" data-sel="cancel">' + esc(t('取消')) + '</button>'
+            : '';
+        }
+
+        box.innerHTML = list.map(function (c) {
           var on = c.id === curConvId;
           var n = c.items.length;
-          return '<div class="ai-conv' + (on ? ' is-active' : '') + '" data-conv="' + c.id + '">' +
-            '<span class="ai-conv__title">' + esc(convTitleOf(c)) + '</span>' +
-            '<span class="ai-conv__meta">' + (n ? n + ' ' + esc(t('条')) : '') + '</span>' +
-            '<button class="ai-conv__del" data-conv-del="' + c.id + '" title="' + esc(t('删除对话')) + '" type="button">×</button>' +
+          var isSel = !!selected[c.id];
+          var title = convTitleOf(c);
+          var inner = renamingId === c.id
+            ? '<input class="ai-conv__rename" data-rename="' + c.id + '" value="' + esc(title) + '" maxlength="40">'
+            : '<span class="ai-conv__title">' + esc(title) + '</span>';
+          return '<div class="ai-conv' + (on ? ' is-active' : '') + (isSel ? ' is-selected' : '') +
+              '" data-conv="' + c.id + '">' +
+            (selectMode ? '<span class="ai-conv__check">' + (isSel ? '✓' : '') + '</span>' : '') +
+            (c.pinned ? '<span class="ai-conv__pin" title="' + esc(t('已置顶')) + '">◆</span>' : '') +
+            inner +
+            '<span class="ai-conv__meta">' + (n || '') + '</span>' +
+            (selectMode || renamingId === c.id ? '' :
+              '<button class="ai-conv__more" type="button" data-conv-more="' + c.id + '" title="' + esc(t('更多')) + '">⋯</button>') +
+            (!selectMode && menuId === c.id ? menuHtml(c) : '') +
           '</div>';
         }).join('');
+
+        /* --- 行点击：切换会话 / 多选勾选 --- */
         U().$$('[data-conv]', box).forEach(function (el) {
           U().on(el, 'click', function (e) {
-            if (e.target.closest && e.target.closest('[data-conv-del]')) return;
+            if (e.target.closest && e.target.closest('[data-conv-more],[data-act],[data-rename]')) return;
             var id = parseInt(el.getAttribute('data-conv'), 10);
-            for (var i = 0; i < CONVS.length; i++) if (CONVS[i].id === id) { bindConv(CONVS[i]); break; }
+            if (selectMode) {
+              if (selected[id]) delete selected[id]; else selected[id] = true;
+              renderConvList();
+              return;
+            }
+            menuId = 0;
+            for (var k = 0; k < CONVS.length; k++) if (CONVS[k].id === id) { bindConv(CONVS[k]); break; }
             renderConvList(); renderChat();
           });
         });
-        U().$$('[data-conv-del]', box).forEach(function (el) {
+
+        /* --- ⋯ 菜单开关 --- */
+        U().$$('[data-conv-more]', box).forEach(function (el) {
           U().on(el, 'click', function (e) {
             e.stopPropagation();
-            var id = parseInt(el.getAttribute('data-conv-del'), 10);
-            CONVS = CONVS.filter(function (c) { return c.id !== id; });
-            if (!CONVS.length) newConv(true);
-            if (!CONVS.some(function (c) { return c.id === curConvId; })) bindConv(CONVS[0]);
-            else bindConv(curConv());
+            var id = parseInt(el.getAttribute('data-conv-more'), 10);
+            menuId = (menuId === id) ? 0 : id;
+            renderConvList();
+          });
+        });
+
+        /* --- 菜单动作 --- */
+        U().$$('[data-act]', box).forEach(function (el) {
+          U().on(el, 'click', function (e) {
+            e.stopPropagation();
+            var act = el.getAttribute('data-act');
+            var id = parseInt(el.getAttribute('data-id'), 10);
+            var c = null;
+            for (var k = 0; k < CONVS.length; k++) if (CONVS[k].id === id) { c = CONVS[k]; break; }
+            if (!c) return;
+            if (act === 'pin') {
+              c.pinned = !c.pinned;
+              U().toast(t(c.pinned ? '已置顶' : '已取消置顶'), 'ok');
+            } else if (act === 'rename') {
+              renamingId = id;
+            } else if (act === 'del') {
+              CONVS = CONVS.filter(function (x) { return x.id !== id; });
+              delete selected[id];
+              if (!CONVS.length) newConv(true);
+              if (!CONVS.some(function (x) { return x.id === curConvId; })) bindConv(CONVS[0]);
+              else bindConv(curConv());
+            }
+            menuId = 0;
             renderConvList(); renderChat();
           });
         });
+
+        /* --- 重命名输入框 --- */
+        U().$$('[data-rename]', box).forEach(function (el) {
+          var id = parseInt(el.getAttribute('data-rename'), 10);
+          var c = null;
+          for (var k = 0; k < CONVS.length; k++) if (CONVS[k].id === id) { c = CONVS[k]; break; }
+          function commit(save) {
+            if (save && c) {
+              var v = String(el.value || '').trim();
+              if (v) c.title = v.slice(0, 40);
+            }
+            renamingId = 0;
+            renderConvList();
+          }
+          U().on(el, 'keydown', function (e) {
+            if (e.key === 'Enter') { e.preventDefault(); commit(true); }
+            else if (e.key === 'Escape') { e.preventDefault(); commit(false); }
+          });
+          U().on(el, 'blur', function () { commit(true); });
+          try { el.focus({ preventScroll: true }); el.select(); } catch (err) { el.focus(); }
+        });
+
+        /* --- 多选工具条 --- */
+        if (bar) {
+          U().$$('[data-sel]', bar).forEach(function (el) {
+            U().on(el, 'click', function () {
+              var act = el.getAttribute('data-sel');
+              var ids = Object.keys(selected).map(Number);
+              if (act === 'cancel') { selectMode = false; selected = {}; }
+              else if (act === 'pin' && ids.length) {
+                ids.forEach(function (id) {
+                  for (var k = 0; k < CONVS.length; k++) if (CONVS[k].id === id) CONVS[k].pinned = true;
+                });
+                U().toast(t('已置顶') + ' ' + ids.length + ' ' + t('个对话'), 'ok');
+                selected = {}; selectMode = false;
+              } else if (act === 'del' && ids.length) {
+                CONVS = CONVS.filter(function (x) { return ids.indexOf(x.id) < 0; });
+                if (!CONVS.length) newConv(true);
+                if (!CONVS.some(function (x) { return x.id === curConvId; })) bindConv(CONVS[0]);
+                else bindConv(curConv());
+                U().toast(t('已删除') + ' ' + ids.length + ' ' + t('个对话'), 'ok');
+                selected = {}; selectMode = false;
+              }
+              renderConvList(); renderChat();
+            });
+          });
+        }
       }
+
+      /* 顶栏「多选」开关 */
+      U().on(U().$('#conv-select', main), 'click', function () {
+        selectMode = !selectMode;
+        selected = {}; menuId = 0; renamingId = 0;
+        U().$('#conv-select', main).classList.toggle('is-active', selectMode);
+        renderConvList();
+      });
 
       /* 会话标题随首问更新 */
       function touchConv() {

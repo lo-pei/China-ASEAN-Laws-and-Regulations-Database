@@ -812,6 +812,16 @@
   "越南外资最低注册资本": "Vietnam: modal minimum",
   "泰国经济补偿金": "Thailand: bayaran pampasan",
   "新加坡公司年报": "Singapura: pemfailan tahunan",
-  "中国数据出境": "China: pemindahan data rentas sempadan"
+  "中国数据出境": "China: pemindahan data rentas sempadan",
+  "置顶": "Semat",
+  "取消置顶": "Buang sematan",
+  "重命名": "Namakan semula",
+  "删除": "Padam",
+  "已置顶": "Disemat",
+  "多选": "Pilih berbilang",
+  "已选": "Dipilih",
+  "个对话": "perbualan",
+  "已取消置顶": "Sematan dibuang",
+  "已删除": "Dipadam"
 };
 })(typeof window !== 'undefined' ? window : globalThis);
