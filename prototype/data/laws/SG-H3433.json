@@ -1,7 +1,7 @@
 {
  "id": "SG-H3433",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11(3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n1. Commodity Trading Act (Chapter 48A)\n2. Consumer Protection (Fair Trading) Act (Chapter 52A)\n3. Co-operative Societies Act (Chapter 62)\n4. Dental Registration Act (Chapter 76)\n5. Education Endowment and Savings Schemes Act (Chapter 87A)\n6. Employment Act (Chapter 91)\n7. Employment of Foreign Manpower Act (Chapter 91A)\n8. Land Titles (Strata) Act (Chapter 158)\n9. Residential Property Act (Chapter 274)\n10. Work Injury Compensation Act (Chapter 354)\n11. Workplace Safety and Health Act (Chapter 354A)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

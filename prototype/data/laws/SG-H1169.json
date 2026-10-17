@@ -1,7 +1,7 @@
 {
  "id": "SG-H1169",
  "title": {
-  "zh": null,
+  "zh": "外交与领事关系（东盟+3宏观经济研究办公室）命令 2016",
   "en": "Diplomatic and Consular Relations (ASEAN+3 Macroeconomic Research Office) Order 2016",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "8. Despite anything in this Order, no immunity or privilege under paragraph 4, 5 or 6 may be enjoyed by any person who is a citizen or permanent resident of Singapore, except that the Chief Economist of the AMRO who is a citizen or permanent resident of Singapore enjoys the immunity mentioned in paragraph 6(1)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Diplomatic and Consular Relations (ASEAN+3 Macroeconomic Research Office) Order 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

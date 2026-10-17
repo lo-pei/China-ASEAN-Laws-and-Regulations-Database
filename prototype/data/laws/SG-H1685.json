@@ -1,7 +1,7 @@
 {
  "id": "SG-H1685",
  "title": {
-  "zh": null,
+  "zh": "保健产品（活性成分）条例 2023",
   "en": "Health Products (Active Ingredients) Regulations 2023",
   "orig": null
  },
@@ -640,5 +640,13 @@
     "en": "THE SCHEDULE\nRegulations 3, 31 and 37(3)\nRegulated active ingredients\n1. Any substance specified in the First Schedule, or in Part 1 or 3 of the Second Schedule, to the Health Products (Therapeutic Products) Regulations 2016.\n2. Any active ingredient in any of the following classes:\n(a)Anti‑toxins\n(b)Anti‑venoms\n(c)Insulins\n(d)Plasma derivatives\n(e)Vaccine antigens\n3. Any of the following substances:\nA Disintegrin and Metalloproteinase with thrombospondin type-1 motifs 13 (rADAMTS-13)\nAcetylcholine\nAcetylcysteine\nAcetylsalicylic acid\nAmbroxol\nAmorolfine\nAntazoline\nAtogepant\nAxicabtagene ciloleucel\nBenzydamine\nBifonazole\nBisacodyl\nBrexucabtagene autoleucel\nBromhexine\nCarbocisteine\nCetirizine\nChlorpheniramine\nCholine salicylate\nClotrimazole\nCrotamiton\nCyclidrol\nDabrafenib\nDaprodustat\nDiclofenac\nDornase alfa\nEfgartigimod\nElagolix\nEphedrine\nFexofenadine\nFlurbiprofen\nGefapixant\nGuaifenesin\nHydrocortisone\nIbrexafungerp\nIbuprofen\nIchthammol\nKetoconazole\nKetoprofen\nLidocaine\nLignocaine\nLoratidine\nMalathion\nMeglumine amidotrizoate\nMiconazole\nMinoxidil\nMirvetuximab\nNaphazoline\nNaproxen\nNarsoplimab\nNoscapine\nOnasemnogene abeparvovec\nOxymetazoline\nPalbociclib\nPamabrom\nParacetamol\nPhenazone\nPheniramine\nPhenylephrine\nPiperazine\nSalicylamide\nSodium amidotrizoate\nSpheroids of human autologous matrix‑associated chondrocytes\nSucralfate\nSuvorexant\nTelisotuzumab\nTerbinafine\nTetrahydrozoline\nTisagenlecleucel\nTumenol ammonium\nUbrogepant\nUndecylenic acid\nVilanterol\nVoretigene neparvovec\nXylometazoline\nZinc undecylenate\n[S 766/2025 wef 01/12/2025]\n4. The stereoisomeric forms or salts of the substances specified in paragraphs 1 and 3 wherever the existence of such stereoisomeric forms or salts is possible.\n5. Any active ingredient intended for use in the manufacture in Singapore of a relevant health product that is intended only for use in clinical research (whether conducted in Singapore or elsewhere), where the active ingredient is not specified in paragraph 1, 2, 3 or 4."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Health Products (Active Ingredients) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

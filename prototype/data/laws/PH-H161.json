@@ -1,7 +1,7 @@
 {
  "id": "PH-H161",
  "title": {
-  "zh": null,
+  "zh": "关于要求出示证券所有权证明并重建公司与合伙记录的法案",
   "en": "An Act to Require the Presentation of Proof of Ownership of Securities and the Reconstruction of Corporate and Partnership Records, and for Other Purposes",
   "orig": "An Act to Require the Presentation of Proof of Ownership of Securities and the Reconstruction of Corporate and Partnership Records, and for Other Purposes"
  },
@@ -91,5 +91,11 @@
     "en": "Effectivity.— This Act shall take effect upon its approval.\nApproved: October 17, 1946."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act to Require the Presentation of Proof of Ownership of Securities and the Reconstruction of Corporate and Partnership Records, and for Other Purposes",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

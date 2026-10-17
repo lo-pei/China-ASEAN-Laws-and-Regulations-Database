@@ -1,7 +1,7 @@
 {
  "id": "PH-H7071",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省 Ilog 市镇的 Manalad 附属班从 Andulawan 描笼涯国立中学分离，名为 Manalad 国立中学并为其拨款",
   "en": "An Act Providing for the Separation of the Manalad Extension Class Located in the Municipality of Ilog, Province of Negros Occidental, From the Andulawan Barangay National High School, and to Be Known as Manalad National High School, and Appropriating Funds Therefor",
   "orig": "An Act Providing for the Separation of the Manalad Extension Class Located in the Municipality of Ilog, Province of Negros Occidental, From the Andulawan Barangay National High School, and to Be Known as Manalad National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Separation of the Manalad Extension Class Located in the Municipality of Ilog, Province of Negros Occidental, From the Andulawan Barangay National High School, and to Be Known as Manalad National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

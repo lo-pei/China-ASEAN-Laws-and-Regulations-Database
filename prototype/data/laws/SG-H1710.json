@@ -1,7 +1,7 @@
 {
  "id": "SG-H1710",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（上诉）条例 2022",
   "en": "Healthcare Services (Appeals) Regulations 2022",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. The appellant may, at any time, withdraw the appeal by serving on the Minister a written notice to that effect."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Healthcare Services (Appeals) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

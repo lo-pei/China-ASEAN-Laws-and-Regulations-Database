@@ -1,7 +1,7 @@
 {
  "id": "SG-H1529",
  "title": {
-  "zh": null,
+  "zh": "电影（豁免）公告 2005",
   "en": "Films (Exemption) Notification 2005",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Sections 22 and 22A of the Act shall not apply to any person who publishes an advertisement for a film that is distributed or publicly exhibited or intended for distribution or public exhibition provided that the advertisement for that film complies with the following conditions:\n(a)the advertisement states the classification rating that accords with the classification assigned to that film under the Act and the consumer advice applicable to the film (if any);\n[S 347/2019 wef 29/04/2019]\n(b)the advertising poster for any film assigned a classification rating of “R21” is only displayed in exhibition points lawfully permitted to publicly exhibit films assigned that classification rating;\n[S 347/2019 wef 29/04/2019]\n(c)the advertisement does not depict human genitalia or nudity of any kind (including images of persons in titillating attire);\n(d)the advertisement does not depict any person in a sexually provocative manner or in any other offensive manner;\n(e)the advertisement does not depict or promote explicit sexual violence or sexual activity involving coercion or in anyway associated with violence (including images of bondage);\n(f)the advertisement does not depict or promote homosexual intimacy (including images of same gender kissing);\n[S 347/2019 wef 29/04/2019]\n(g)the advertisement does not depict or promote fetishes or deviant sexual practices (including images of paedophilia, bestiality or necrophilia);\n(h)the advertisement does not depict explicit acts of cruelty or violence (including gory images of dismemberment, bloody wounds or impaled bodies);\n(i)the advertisement does not depict ghastly or horrifying images of the supernatural (including frightening images of disfigured or ghostly apparitions);\n(j)the advertisement does not depict or promote illicit drug use, explicit criminal or anti-social behaviour (including images of the consumption of illicit drugs, triad ceremonies or rituals);\n(k)the advertisement does not depict or promote any matter or thing likely to cause feelings of enmity, ill-will or hostility between different racial or religious groups in Singapore;\n(l)the advertisement does not depict ethnic, racial or religious hatred, strife or intolerance (including disrespectful images of religious figures or objects);\n(la)the advertisement does not contain any matter which denigrates or is offensive to any race or religion in Singapore;\n[S 430/2006 wef 21/07/2006]\n(m)the advertisement does not depict or promote any cult or any deviant belief or teaching;\n(n)the advertisement does not depict any lewd, obscene or offensive act, word or message of any kind; and\n(o)the advertisement shall not be displayed in a manner or place likely to cause offence to any section of the public.\n[S 430/2006 wef 21/07/2006]\n[S 347/2019 wef 29/04/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Films (Exemption) Notification 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

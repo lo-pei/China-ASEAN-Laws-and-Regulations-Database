@@ -1,7 +1,7 @@
 {
  "id": "SG-H3104",
  "title": {
-  "zh": null,
+  "zh": "按摩院规则 2018",
   "en": "Massage Establishments Rules 2018",
   "orig": null
  },
@@ -352,5 +352,13 @@
     "en": "THE SCHEDULE\nRule 8\nCriteria to employ individual in\nestablishment for massage\n1. The relevant individual must not have offered or provided, for consideration, any form of sexual service.\n2. The relevant individual must not have engaged in any indecent act in the course of any employment.\n3. The relevant individual must not be convicted of any relevant offence under the Women’s Charter 1961.\n4. The relevant individual, if employed to provide massage services in the establishment for massage, must also not be or have been convicted of any relevant offence under the Penal Code 1871.\n5. In this Schedule, “relevant offence” means —\n(a)any offence under section 292(1) in a case mentioned under section 292(1A) or (1B), 292(1C), 292B, 294, 354, 354A, 375, 376, 376A, 376AA, 376B, 376C, 376D, 376E, 376EA, 376EB, 376EC, 376ED, 376EE, 376F, 376H, 377BA, 377BB, 377BC, 377BD, 377BE, 377BF, 377BG, 377BH, 377BI, 377BJ, 377BK or 377BL, or section 509 as in force before 1 January 2020, of the Penal Code 1871; or\n[S 558/2026 wef 17/08/2026]\n(b)any offence under section 140, 141, 142, 145, 146, 146A, 147 or 148 of the Women’s Charter 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Massage Establishments Rules 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

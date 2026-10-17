@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-193-2000-WILLS-ACT",
  "title": {
-  "zh": null,
+  "zh": "遗嘱法",
   "en": "WILLS ACT",
   "orig": null
  },
@@ -335,5 +335,13 @@
     "en": "No will shall be held to be revoked or to have become invalid in point of form nor shall the construction thereof be altered by reason only of any subsequent change of domicile of the person making the will."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "WILLS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

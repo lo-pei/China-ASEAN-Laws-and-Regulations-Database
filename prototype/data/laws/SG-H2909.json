@@ -1,7 +1,7 @@
 {
  "id": "SG-H2909",
  "title": {
-  "zh": null,
+  "zh": "致醉物质（核准中心探访委员会）条例",
   "en": "Intoxicating Substances (Board of Visitors for Approved Centres) Regulations",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "10. Not fewer than 2 members of the board shall visit each approved centre in respect of which they are appointed at least once a month.\n[G.N. No. S 317/87]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Intoxicating Substances (Board of Visitors for Approved Centres) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H146",
  "title": {
-  "zh": null,
+  "zh": "航空导航（137——空中作业）条例 2018",
   "en": "Air Navigation (137 — Aerial Work) Regulations 2018",
   "orig": null
  },
@@ -1006,5 +1006,13 @@
     "en": "FOURTH SCHEDULE\nRegulation 52\nContents of operations manual\n1. The Operations Manual established and maintained under regulation 52 must include the following elements:\n(a)a table of contents;\n(b)the duties, responsibilities and succession of management and operating personnel;\n(c)the details of the AWC holder’s safety management system;\n(d)the AWC holder’s system of operational control;\n(e)the minimum equipment list procedures, where applicable;\n(f)the procedures for normal, abnormal and emergency situations;\n(g)the standard operating procedures;\n(h)the weather limitations;\n(i)the AWC holder’s fatigue management programme;\n(j)the procedures on managing an accident or incident;\n(k)personnel qualifications and training;\n(l)the details of record keeping;\n(m)a description of the AWC holder’s maintenance control system;\n(n)the details for operations over a hostile environment."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Air Navigation (137 — Aerial Work) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

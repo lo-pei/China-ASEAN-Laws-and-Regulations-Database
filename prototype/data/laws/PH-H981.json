@@ -1,7 +1,7 @@
 {
  "id": "PH-H981",
  "title": {
-  "zh": null,
+  "zh": "授权政府按实际成本向稻米和玉米生产者及农民出售化肥，并指定农业与自然资源部为负责化肥销售与分配及执行本法各项规定的机构",
   "en": "An Act Authorizing the Government to Sell Fertilizers to Rice and Corn Producers and Farmers at Actual Cost, Constituting the Department of Agriculture and Natural Resources, for This Purpose, as the Agency to Take Charge of the Sale and Distribution of Fertilizers and to Implement the Provisions of This Act",
   "orig": "An Act Authorizing the Government to Sell Fertilizers to Rice and Corn Producers and Farmers at Actual Cost, Constituting the Department of Agriculture and Natural Resources, for This Purpose, as the Agency to Take Charge of the Sale and Distribution of Fertilizers and to Implement the Provisions of This Act"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Government to Sell Fertilizers to Rice and Corn Producers and Farmers at Actual Cost, Constituting the Department of Agriculture and Natural Resources, for This Purpose, as the Agency to Take Charge of the Sale and Distribution of Fertilizers and to Implement the Provisions of This Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

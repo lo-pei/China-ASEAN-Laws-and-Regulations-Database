@@ -1,7 +1,7 @@
 {
  "id": "PH-H7691",
  "title": {
-  "zh": null,
+  "zh": "保留与重新取得国籍法 2003",
   "en": "Citizenship Retention and Re-acquisition Act of 2003",
   "orig": "Citizenship Retention and Re-acquisition Act of 2003 An Act Making the Citizenship of Philippine Citizens who acquire Foreign Citizenship Permanent. Amending for the Purpose Commonwealth Act. No. 63, as amended and for other purposes"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity Clause – This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or two (2) newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Citizenship Retention and Re-acquisition Act of 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1830",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 5 号）命令 2023",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 5) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Marymount Road, Bishan Street 22 and Bishan Street 25, comprised in Lot number 18583A in Mukim 18 and on which Apartment Blocks 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255 and 256 are erected, and which is more particularly edged in Plan 1.\nPLAN 1\nBishan STREET 22\n2. All that part of the housing estate of the Board bounded by Choa Chu Kang Drive, Choa Chu Kang North 5, Choa Chu Kang Street 53 and Kranji Expressway, comprised in Lot number 02327M in Mukim 11 and on which Apartment Blocks 701, 706, 707 and 708 are erected, and in Lot number 02421V in Mukim 11 and on which Apartment Blocks 702, 703, 704 and 705 are erected, and which is more particularly edged in Plan 2.\nPLAN 2\nCHOA CHU KANG STREET 53\n3. All that part of the housing estate of the Board:\n(a)bounded by Lorong Ah Soo, Hougang Avenue 1 and Hougang Avenue 3, comprised in Lot number 07812M in Mukim 22 and on which Apartment Blocks 165, 166 and 167 are erected, and in Lot number 07870N in Mukim 22 and on which Apartment Blocks 168, 169, 170, 171, 172 and 173 are erected, and which is more particularly edged in Plan 3A;\nPLAN 3A\nHougang Avenue 1 / Hougang Street 21\n(b)bounded by Hougang Street 21 and Surin Avenue, comprised in Lot number 06283T in Mukim 22 and on which Apartment Blocks 220, 221 and 222 are erected, and which is more particularly edged in Plan 3B.\nPLAN 3B\nHougang Avenue 1 / Hougang Street 21\n4. All that part of the housing estate of the Board bounded by Pasir Ris Drive 1, Pasir Ris Drive 6, Pasir Ris Street 41 and Pasir Ris Drive 4, comprised in Lot number 03637V in Mukim 31 and on which Apartment Blocks 440, 442 and 446 are erected, in Lot number 01679P in Mukim 31 and on which Apartment Blocks 447, 448, 449, 450, 451, 452, 453, 454 and 455 are erected, and in Lot number 01956C in Mukim 31 and on which Apartment Blocks 456, 457, 458, 459, 460 and 461 are erected, and which is more particularly edged in Plan 4.\nPLAN 4\nPASIR RIS DRIVE 4 / PASIR RIS DRIVE 6"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 5) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

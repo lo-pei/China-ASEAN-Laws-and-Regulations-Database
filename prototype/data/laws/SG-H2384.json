@@ -1,7 +1,7 @@
 {
  "id": "SG-H2384",
  "title": {
-  "zh": null,
+  "zh": "所得税（新加坡——马恩岛）（避免双重征税协定）（为实施多边文书所作的修改）命令 2019",
   "en": "Income Tax (Singapore — Isle of Man) (Avoidance of Double Taxation Agreement) (Modifications to Implement Multilateral Instrument) Order 2019",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nDeletion and replacement of Preamble\n1. The Preamble of the Agreement is deleted and replaced by the following Preamble:\n“The Government of the Republic of Singapore and the Government of the Isle of Man,\nIntending to eliminate double taxation with respect to the taxes covered by this Agreement without creating opportunities for non‑taxation or reduced taxation through tax evasion or avoidance (including through treaty‑shopping arrangements aimed at obtaining reliefs provided in this Agreement for the indirect benefit of residents of third jurisdictions),\nHave agreed as follows:”.\nNew Article 26A\n2. The Agreement is amended by inserting, immediately after Article 26 (Members of Diplomatic Missions and Consular Posts), the following Article:\n“Article 26A\nPREVENTION OF TREATY ABUSE\n1. Notwithstanding any provisions of this Agreement, a benefit under this Agreement shall not be granted in respect of an item of income or capital if it is reasonable to conclude, having regard to all relevant facts and circumstances, that obtaining that benefit was one of the principal purposes of any arrangement or transaction that resulted directly or indirectly in that benefit, unless it is established that granting that benefit in these circumstances would be in accordance with the object and purpose of the relevant provisions of this Agreement.\n2. Where a benefit under this Agreement is denied to a person under provisions of this Agreement that deny all or part of the benefits that would otherwise be provided under this Agreement where the principal purpose or one of the principal purposes of any arrangement or transaction, or of any person concerned with an arrangement or transaction, was to obtain those benefits, the competent authority of the Contracting State that would otherwise have granted this benefit shall nevertheless treat that person as being entitled to this benefit, or to different benefits with respect to a specific item of income or capital, if such competent authority, upon request from that person and after consideration of the relevant facts and circumstances, determines that such benefits would have been granted to that person in the absence of the transaction or arrangement. The competent authority of the Contracting State to which a request has been made under this paragraph by a resident of the other Contracting State shall consult with the competent authority of that other Contracting State before rejecting the request.”."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Singapore — Isle of Man) (Avoidance of Double Taxation Agreement) (Modifications to Implement Multilateral Instrument) Order 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

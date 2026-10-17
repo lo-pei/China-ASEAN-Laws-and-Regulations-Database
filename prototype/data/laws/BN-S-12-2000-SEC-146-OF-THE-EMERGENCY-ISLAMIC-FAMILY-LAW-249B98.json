@@ -1,7 +1,7 @@
 {
  "id": "BN-S-12-2000-SEC-146-OF-THE-EMERGENCY-ISLAMIC-FAMILY-LAW-249B98",
  "title": {
-  "zh": null,
+  "zh": "紧急伊斯兰家庭法命令 1999 第 146 条",
   "en": "SEC 146 OF THE EMERGENCY ISLAMIC FAMILY LAW ORDER 1999",
   "orig": null
  },
@@ -1568,5 +1568,13 @@
     "en": "Amendments to section 5 of Chapter 124. SCHEDULE. No. S 12\n\nOF BRUNEI DARUSSALAM under section 83(3ll (ISLAMIC FAMILY LAW} ORDER, 1999 In exercise of the power conferred by subsection (3) of section 83 of the Constitution of Brunei Darussalam, His Majesty the Sultan and Yang Di-Pertuan hereby makes the following Order-"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SEC 146 OF THE EMERGENCY ISLAMIC FAMILY LAW ORDER 1999",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

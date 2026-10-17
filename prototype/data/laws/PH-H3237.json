@@ -1,7 +1,7 @@
 {
  "id": "PH-H3237",
  "title": {
-  "zh": null,
+  "zh": "授予三宝颜市 Segundo De La Cruz 在菲律宾境内建设、安装、维护和运营公共无线电话与无线电报海岸站及公共固定、陆上移动站的特许经营权法案",
   "en": "An Act Granting Segundo De La Cruz of Zamboanga City, Philippines, a Franchise to Construct, Install, Maintain and Operate Public Radiotelephone and Public Fixed and Public-Based and Land-Mobile Stations for the Reception and Radiotelegraph Coastal Stations, and Transmission of Radiotelephone and Radiotelegraph Communications Within the Philippines",
   "orig": "An Act Granting Segundo De La Cruz of Zamboanga City, Philippines, a Franchise to Construct, Install, Maintain and Operate Public Radiotelephone and Public Fixed and Public-Based and Land-Mobile Stations for the Reception and Radiotelegraph Coastal Stations, and Transmission of Radiotelephone and Radiotelegraph Communications Within the Philippines"
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Segundo De La Cruz of Zamboanga City, Philippines, a Franchise to Construct, Install, Maintain and Operate Public Radiotelephone and Public Fixed and Public-Based and Land-Mobile Stations for the Reception and Radiotelegraph Coastal Stations, and Transmission of Radiotelephone and Radiotelegraph Communications Within the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

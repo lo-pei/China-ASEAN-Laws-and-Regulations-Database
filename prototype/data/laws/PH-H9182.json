@@ -1,7 +1,7 @@
 {
  "id": "PH-H9182",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛市 Jalandoni-Wilson 描笼涯现有的 Andres Bonifacio 小学改设为涵盖小学与中学的综合学校并拨款",
   "en": "An Act Converting the Andres Bonifacio Elementary School in Barangay Jalandoni-Wilson, City Proper District, Iloilo City Into An Integrated School to Be Known as Andres Bonifacio Integrated School",
   "orig": "An Act Converting the Andres Bonifacio Elementary School in Barangay Jalandoni-Wilson, City Proper District, Iloilo City Into An Integrated School to Be Known as Andres Bonifacio Integrated School"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Andres Bonifacio Elementary School in Barangay Jalandoni-Wilson, City Proper District, Iloilo City Into An Integrated School to Be Known as Andres Bonifacio Integrated School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

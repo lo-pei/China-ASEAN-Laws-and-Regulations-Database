@@ -1,7 +1,7 @@
 {
  "id": "SG-H742",
  "title": {
-  "zh": null,
+  "zh": "商品期货（咖啡）命令",
   "en": "Commodity Futures (Coffee) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of the definition of “commodity” in section 2 of the Act, coffee is prescribed as a commodity."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commodity Futures (Coffee) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

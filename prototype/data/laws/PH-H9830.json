@@ -1,7 +1,7 @@
 {
  "id": "PH-H9830",
  "title": {
-  "zh": null,
+  "zh": "在阿克兰省设立省级渔业与水产资源培训、开发及产品中心并为其拨款的法案",
   "en": "An Act Establishing a Provincial Fisheries and Aquatic Resources Training, Development, and Product Center in the Province of Aklan and Appropriating Funds Therefor",
   "orig": "An Act Establishing a Provincial Fisheries and Aquatic Resources Training, Development, and Product Center in the Province of Aklan and Appropriating Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Provincial Fisheries and Aquatic Resources Training, Development, and Product Center in the Province of Aklan and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

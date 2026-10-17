@@ -1,0 +1,117 @@
+{
+ "id": "BN-S-30-2020-E-INCOME-TAX-ACT-AMENDMENT-NO-4-ORDER-2020",
+ "title": {
+  "zh": "所得税法第 4 号修正命令 2020",
+  "en": "INCOME TAX ACT AMENDMENT NO.4 ORDER 2020",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p28",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 5,
+ "chars": 1062,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-30_2020_E-INCOME-TAX-ACT-AMENDMENT-NO.4-ORDER-2020.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-30_2020_E-INCOME-TAX-ACT-AMENDMENT-NO.4-ORDER-2020.pdf》（3 页），本次切分 5 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-30-2020-E-INCOME-TAX-ACT-AMENDMENT-NO-4-ORDER-2020-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "This Order may be cited as the Income Tax Act (Amendment) (No.4) Order, 2020 and shall be deemed to have commenced on 1st April 2017."
+   }
+  },
+  {
+   "id": "BN-S-30-2020-E-INCOME-TAX-ACT-AMENDMENT-NO-4-ORDER-2020-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "Amendment of section 35 of Chapter 35"
+   },
+   "text": {
+    "en": "Section 35 of the Income Tax Act, in this Order referred to as the Act, is (a} in subsection (2), by deleting \"15\" from the first line and by substituting \"2.5\" therefor; (b} in subsection (2A), in paragraph (b}, by deleting \"15\" and by substituting \"10\" therefor. of section 37"
+   }
+  },
+  {
+   "id": "BN-S-30-2020-E-INCOME-TAX-ACT-AMENDMENT-NO-4-ORDER-2020-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "Amendment of section 37"
+   },
+   "text": {
+    "en": "Section 37 of the Act is amended, in subsection (1), by deleting \"15\" from the fourth line and by substituting \"2.5\" therefor. of section 37 A"
+   }
+  },
+  {
+   "id": "BN-S-30-2020-E-INCOME-TAX-ACT-AMENDMENT-NO-4-ORDER-2020-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "Amendment of section 37 A"
+   },
+   "text": {
+    "en": "Section 37A of the Act is amended, in subsection (2)(b}, by deleting \"15\" and by substituting \"2.5\" therefor. of section 37B"
+   }
+  },
+  {
+   "id": "BN-S-30-2020-E-INCOME-TAX-ACT-AMENDMENT-NO-4-ORDER-2020-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "heading": {
+    "en": "Amendment of section 37B"
+   },
+   "text": {
+    "en": "Section 37B of the Act is amended, in subsection (2)(b}, by deleting \"15\" and by substituting \"2.5\" therefor. day of Syawal, 1441 Hijriah corresponding to the 8th. day of at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam. HIS MAJESTY •·\n\nTHE SULTAN AND YANG DI-PERTUAN, DARUSSALAM. Dicetak oleh Print Plus Sdn. Bhd., Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "INCOME TAX ACT AMENDMENT NO.4 ORDER 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "SG-H801",
  "title": {
-  "zh": null,
+  "zh": "义务教育法 2000",
   "en": "Compulsory Education Act 2000",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "12. The Minister may make such regulations as are necessary or convenient for carrying out any of the provisions of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Compulsory Education Act 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

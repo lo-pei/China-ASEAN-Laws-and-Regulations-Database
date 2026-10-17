@@ -1,7 +1,7 @@
 {
  "id": "PH-H3024",
  "title": {
-  "zh": null,
+  "zh": "规定选民永久登记并为此推迟原定于 1963 年的选民登记全面更新的法案",
   "en": "An Act to Provide for Permanent Registration of Voters and for This Purpose to Postpone the General Renewal of Registration of Voters Which is Set for Nineteen Hundred Sixty-Three",
   "orig": "An Act to Provide for Permanent Registration of Voters and for This Purpose to Postpone the General Renewal of Registration of Voters Which is Set for Nineteen Hundred Sixty-Three"
  },
@@ -310,5 +310,13 @@
     "en": "Effectivity. This Act shall take effect on January one, nineteen hundred sixty-four: Provided , That section twenty-five hereof shall take effect immediately upon approval of this act.\nApproved: June 22, 1963"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for Permanent Registration of Voters and for This Purpose to Postpone the General Renewal of Registration of Voters Which is Set for Nineteen Hundred Sixty-Three",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

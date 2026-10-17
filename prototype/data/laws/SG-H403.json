@@ -1,7 +1,7 @@
 {
  "id": "SG-H403",
  "title": {
-  "zh": null,
+  "zh": "商业名称注册（罪行构成）条例 2015",
   "en": "Business Names Registration (Composition of Offences) Regulations 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the Registrar in accordance with section 37 of the Act:\n(a)any offence under section 11(12), 22(3), 32(4), 34(1), 35(1)(a) or (3) or 45(5) of the Act;\n(b)any offence under regulation 7(2) of the Business Names Registration Regulations 2015."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Business Names Registration (Composition of Offences) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

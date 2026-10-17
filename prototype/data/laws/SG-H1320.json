@@ -1,7 +1,7 @@
 {
  "id": "SG-H1320",
  "title": {
-  "zh": null,
+  "zh": "新加坡企业发展局（认证标志）公告 2018",
   "en": "Enterprise Singapore Board (Certification Marks) Notification 2018",
   "orig": null
  },
@@ -110,5 +110,13 @@
     "en": "SECOND SCHEDULE\nParagraph 3\nTransitional certification marks\nPart 1\nSingapore Quality Class Mark\nPart 2\nSingapore Innovation Class Mark\nPart 3\nSingapore Service Class Mark\nPart 4\nPeople Developer Mark\nPart 5\nSingapore Quality Class Star Mark\nPart 6\nSingapore Quality Award Mark\nPart 7\nService Excellence Award Mark\nPart 8\nInnovation Excellence Award Mark\nPart 9\nPeople Excellence Award Mark\nPart 10\nSingapore Quality Award with\nSpecial Commendation Mark"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Enterprise Singapore Board (Certification Marks) Notification 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

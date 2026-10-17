@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-203-2010-SOCIETIES-ACT",
  "title": {
-  "zh": null,
+  "zh": "社团法",
   "en": "SOCIETIES ACT",
   "orig": null
  },
@@ -666,5 +666,13 @@
     "en": "(1) The Minister may, with approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations which are necessary or expedient for giving effect to and carrying out the provisions of this Act, and for the due administration thereof.\n\n(2) In particular and without prejudice to the generality of the powers conferred by subsection (1), the Minister may make regulations for or in respect of all or any of the following matters —\n\n(a) prescribing the manner of registration of societies under this Act;\n\n(b) prohibiting the use of illegal or undesirable badges and insignia by registered societies;\n\n(c) prescribing the forms which may be used for carrying out the provisions of this Act;\n\n(d) prescribing information to be furnished to the Registrar;\n\n(e) prescribing the fees which may be levied under this Act;\n\n(f) prescribing anything required to be or which may be prescribed under this Act;\n\n(g) including such incidental, consequential and supplementary provisions as he considers necessary or expedient.\n\n(3) Any such regulations may provide that the breach or contravention of any regulation is an offence and may provide a penalty for any such offence of a fine not exceeding $2,000 and imprisonment for a term not exceeding 6 months. (sections 8(3), 16(2) and 25(1)) FEES Change of name of society $50 Change of rules of society $50 Inspection of Register and copy of certificate, order, notice or other document $10 $200 (section 60)\n\nCONSTITUTION AND RULES OF SOCIETIES"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SOCIETIES ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

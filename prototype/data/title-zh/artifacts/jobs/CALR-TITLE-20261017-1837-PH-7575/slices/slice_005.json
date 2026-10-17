@@ -1,0 +1,956 @@
+{
+ "jobId": "CALR-TITLE-20261017-1837-PH-7575",
+ "shard": 5,
+ "items": [
+  {
+   "id": "PH-H9266",
+   "en": "An Act Renewing the Franchise Granted to the Radio Mindanao Network, Inc. for Another Twenty-Five (25) Years or a Term That Shall Take Effect on April 18, 2016",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7159",
+   "en": "An Act Granting Digital Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7172",
+   "en": "An Act Granting the Tamaraw Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio Stations Anywhere in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6691",
+   "en": "An Act Granting Ght Network, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7149",
+   "en": "An Act Granting the Cordova News Network, Inc., a Franchise to Construct, Install, Establish. Operate and Maintain Radio and Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7154",
+   "en": "An Act Granting the Vom Broadcasting Corporation, a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7171",
+   "en": "An Act Granting the Image Broadcasting Corp. a Franchise to Construct Install, Establish, Operate An Maintain Radio and Television Stations in the Island of Mindanao",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7187",
+   "en": "An Act Granting the E.M. Orosco &amp; Sons, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7205",
+   "en": "An Act Granting the Kumintang Broadcasting System a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7216",
+   "en": "An Act Requiring Disclosure of Year 2000 Statements and Readiness of Computer Based Systems, Products, and Services, Providing Funds Therefore and for Other Purposes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6822",
+   "en": "An Act Granting Oracle Network, Inc., A Franchise To Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7073",
+   "en": "An Act Granting the Exodus Broadcasting Co., Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7845",
+   "en": "An Act Granting the Universidad de Zamboanga a Franchise to Construct, Install, Establish, Operate and Maintain Radio Broadcasting Stations in Ipil, Zamboanga Sibugay",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10009",
+   "en": "An Act Granting Servotron Industries Inc. a Franchise to Construct, Install, Operate, and Maintain Radio and Television Broadcasting Stations Throughout the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7048",
+   "en": "An Act Granting the Ever Broadcasting Network, Inc., a Franchise to Construct, Establish, Install, Maintain and Operate Radio and Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7091",
+   "en": "An Act Granting the All Asia Broadcast Systems, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H8818",
+   "en": "An Act Authorizing the Commission on Elections to Establish Precincts Assigned to Accessible Polling Places Exclusively for Persons With Disabilities and Senior Citizens",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7188",
+   "en": "An Act Granting the Baycomms Broadcasting Corporation, a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H4584",
+   "en": "An Act Granting Rodolfo Rivilla a Franchise to Establish, Maintain and Operate Radio Broadcasting and Television Stations and Radio Stations for Domestic Telecommunications",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7074",
+   "en": "An Act Granting the Probe Productions, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7100",
+   "en": "An Act Granting the Philippine Multi-Media System, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7161",
+   "en": "An Act Granting the Masawa Broadcasting Corporation (MBC) a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7213",
+   "en": "An Act Granting Neutron Broadcast Network, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain a Radio and Television Stations in the Province of Quezon",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H8633",
+   "en": "An Act Granting the Nueva Vizcaya State University a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in Region II",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H3340",
+   "en": "An Act Granting the Luzon Broadcasting Company, Inc. a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations Within the Philippines for Commercial Purposes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7196",
+   "en": "An Act Granting the Blockbuster Broadcasting System, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10012",
+   "en": "An Act Granting Allied Broadcasting Center, Incorporated a Franchise to Construct, Install, Operate, and Maintain-Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10267",
+   "en": "An Act Granting the Gvm Radio/tv Corporation a Franchise to Construct, Install, Establish, Operate, and Maintain Radio and Televisions Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7153",
+   "en": "An Act Granting the Quirino Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Province of Quirino",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7162",
+   "en": "An Act Granting Zambales Broadcasting and Development Corporation, a Franchise to Construct, Install, Establish, Operate and Maintain Radio Stations Anywhere in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9344",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to People’s Broadcasting Service, Inc. Under Republic Act No. 7477, as Amended By Republic Act No. 9213",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H1683",
+   "en": "An Act Granting the Butuan Sawmill, Inc. a Franchise to Install, Operate and Maintain an Electric Light, Heat and Power System in the Municipality of Lianga, Province of Surigao",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7151",
+   "en": "An Act Granting the Sultan Kudarat Islamic Academy Foundation Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio Stations Anywhere in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9268",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Progressive Broadcasting Corporation Under Republic Act No. 7163, as Amended By Republic Act No. 8162",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10261",
+   "en": "An Act Granting Prime Broadcasting Network, Inc. a Franchise to Construct, Install, Establish, Operate, and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7157",
+   "en": "An Act Granting the Westwind Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Visayas and Mindanao",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6688",
+   "en": "An Act Granting Interactive Broadcast Media, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6811",
+   "en": "An Act Granting Real Time Communications, Inc., A Franchise To Construct, Install, Establish, Operate and Maintain Radio/Television Stations Throughout the Southern Tagalog Region",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7077",
+   "en": "An Act Granting the Altimax Broadcasting Co. Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6689",
+   "en": "An Act Granting Horizon Broadcasting Company, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6697",
+   "en": "An Act Granting Radioworld Broadcasing Corporation, a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7093",
+   "en": "An Act Granting the Nation Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7844",
+   "en": "An Act Granting the Cable Link &amp; Holdings Corp. a Franchise to Construct, Install, Establish, Operate and Maintain Cable/Community Antennae Television Systems in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H2034",
+   "en": "An Act Granting Victorino E. Day a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations in the City of Zamboanga for Educational, Cultural and Commercial Purposes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6695",
+   "en": "An Act Granting Celebes Sea Broadcasting Corporation, a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7150",
+   "en": "An Act Granting the Multipoint Broadcasting Network, Incorporated, a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9650",
+   "en": "An Act Granting the Deus Amor Est Broadcasting, Inc. a Franchise to Construct, Install, Establish, Operate, and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9664",
+   "en": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to the Iglesia ni Cristo (Church of Christ) Under Republic Act No. 4339, as Amended by Republic Act No. 7225",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7002",
+   "en": "An Act Granting Mindanao Broadcasting and News Network, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in Mindanao",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H8634",
+   "en": "An Act Granting the TV Maria Foundation Philippines, Incorporated a Franchise to Construct, Install, Establish, Operate and Maintain Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9686",
+   "en": "An Act Granting the Volunteer Life Care Ministries, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Noncommercial Radio Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7212",
+   "en": "An Act Granting Premiere Mass Media, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain a Radio and Television Station in the City of Tagbilaran, Province of Bohol",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7680",
+   "en": "An Act Granting the Newsounds Broadcasting Network, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7591",
+   "en": "An Act Granting the Dawnbreakers, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain for Non-Profit and Non-Commercial Radio Broadcasting Station in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H8110",
+   "en": "An Act Granting the Information Broadcast Unlimited, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H8631",
+   "en": "An Act Granting the Reliance Broadcasting Unlimited, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7152",
+   "en": "An Act Granting the Vtv Corporation, a Franchise to Construct, Install, Establish, Operate and Maintain Commercial Radio and Television Stations in the Philippines, and for Other Purposes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6951",
+   "en": "An Act Granting the H.T. Telesis, Inc., a Franchise to Establish, Construct, Install, Operate and Maintain for Commercial Purposes a Direct Transmitting Satellite System in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9909",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Golden Broadcast Professional, Inc. Under Republic Act No. 8025, Entitled An Act Granting the Golden Broadcast...",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9913",
+   "en": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to First United Broadcasting Corporation, Presently Known as Global Satellite Technology Services Inc., Amending...",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9914",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Broadcast Enterprises and Affiliated Media, Inc. Under Republic Act No. 8098 to Construct, Install, Establish,...",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7977",
+   "en": "An Act Granting Southeast Asian Airlines (SEAir), Inc. a Franchise to Establish, Operate and Maintain Domestic and International Air Transport Services, With Clarkfield, Pampanga as its Base",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10031",
+   "en": "An Act Granting Manila Water Company, Inc. a Franchise to Establish, Operate, and Maintain the Waterworks and Sewerage System in the East Zone Service Area of Metro Manila and Province of Rizal",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7207",
+   "en": "An Act Granting the V.G. Sinco Educational Corporation (Foundation University) a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6690",
+   "en": "An Act Granting Asia Pacific Business and Industrial Systems, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7078",
+   "en": "An Act Granting the Rainbow Global Media Arts Network, Inc. (Rgma Network, Inc.), a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H8231",
+   "en": "An Act Granting the Philippine Collective Media Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in Region VIII (EASTERNVISAYAS)",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10673",
+   "en": "An Act Establishing a Mechanism on the Declaration of State of Imminent Disaster, Providing the Criteria for Its Declaration and Lifting, Enabling Anticipatory Measures, and Appropriating Funds Therefor",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7081",
+   "en": "An Act Granting the Digital Entertainment Corporation a Franchise to Establish, Construct, Install, Operate and Maintain for Commercial Purposes a Direct Transmitting Satellite System in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7461",
+   "en": "An Act Granting the Palawan Council for Sustainable Development a Franchise to Construct, Install Establish, Operate and Maintain Radio and/or Television Broadcasting Stations in the Province of Palawan",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7743",
+   "en": "An Act Granting the Ivatan Foundation for Development Communications Incorporated a Franchise to Construct, Install, Establish, Operate and Maintain Radio Broadcasting Stations in the Province of Batanes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H8632",
+   "en": "An Act Granting the Cultural Foundation of Davao Del Sur Incorporated (CFDI) a Franchise to Construct, install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in Davao Del Sur",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6694",
+   "en": "An Act Granting Oro Broadcasting Network, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in Mindanao and Other Areas in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7156",
+   "en": "An Act Granting the Mountain View College of Seventh Day Adventists a Franchise to Construct, Install, Establish, Operate and Maintain a Radio Station in the Municipality of Valencia, Province of Bukidnon",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9477",
+   "en": "An Act Promoting Ease of Doing Business and Efficient Delivery of Government Services, Amending for the Purpose Republic Act No. 9485 Otherwise Known as the Anti-Red Tape Act of 2007, and for Other Purposes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6383",
+   "en": "An Act Creating a Special Economic Zone and Free Port in the City of Zamboanga Creating for This Purpose the Zamboanga City Special Economic Zone Authority, Appropriating Funds Therefor, and for Other Purposes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6586",
+   "en": "An Act Granting the Byers Communications, Inc., a Franchise to Construct, Establish, Operate and Maintain Radio Broadcasting and Television Stations Within the National Capital Region and Central Visayas Region",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10013",
+   "en": "An Act Granting St.Jude Thaddeus Institute of Technology, Inc. a Franchise to Construct, Operate and Maintain Radio and Television Stations in the Province of Surigao Del Norte and Other Areas in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7197",
+   "en": "An Act Granting the Elfrenb, Servando, Jr., Broadcasting Network a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the City of Puerto Princesa, Province of Palawan",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H3643",
+   "en": "An Act Granting the RCA Communications, Inc. a Franchise to Establish, Operate, and Maintain Communications Systems for the Reception and Transmission of Messages Between the Philippines and Points Exterior Thereto",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H8795",
+   "en": "An Act Renewing the Franchise Granted to Quest Broadcasting, Inc. (Formerly SBS Radio Network, Inc.) a Franchise to Construct, Install, Establish, Operate and Maintain Radio Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7507",
+   "en": "An Act Granting the Air Mabuhay Corporation a Franchise to Establish, Operate and Maintain Domestic and International Air Transport Services for the Carriage of Passengers, Mails, Goods and Property, and Other Allied Services",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10203",
+   "en": "An Act Granting the Estate of Mr. Amado L. Ola, Opc Doing Business as Amapola Broadcasting System, a Franchise to Construct, Install, Establish, Operate, and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6687",
+   "en": "An Act Granting Soundstream Broadcasting Corporation, a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Province of Isabela, and in Other Places. in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10109",
+   "en": "An Act Granting Capricom Broadcasting Network Corp. a Franchise to Construct, Install, Establish, Operate, and Maintain Radio and Television Broadcasting Stations in Tabaco City, Province of Albay, and Other Areas in the Philippines",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10365",
+   "en": "An Act Establishing a College of Medicine in the Benguet State University Located in the Municipality of La Trinidad, Province of Benguet, to Be Known as the Benguet State University-College of Medicine, and Appropriating Funds Therefor",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9360",
+   "en": "An Act Mandating and Strengthening the Continuing Professional Development Program for All Regulated Professions, Creating the Continuing Professional Development Council, and Appropriating Funds Therefor, and for Other Related Pruposes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7364",
+   "en": "An Act Converting the High School Department of the Apayao State College, Luna Campus, Province of Apayao Into a Separate, Independent and Distinct High School to Be Known as the Apayao Science High School and Appropriating Funds Therefor",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9736",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to the Delta Broadcasting System, Inc. to Establish, Maintain, and Operate Radio and Television Broadcasting Stations Within the Philippines Under Republic Act No. 7723",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7742",
+   "en": "An Act Granting the Leyte State University a Franchise to Construct, Install, Establish, Operate and Maintain for Educational and Non-Commercial Purposes Radio and Television Broadcasting Stations within the campuses of Leyte State University",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9735",
+   "en": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to Peñafrancia Broadcasting Corporation Under Republic Act No. 8166, Expanding its Coverage to the Entire Philippines, and Approving the Transfer of its Corporate Shares",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7464",
+   "en": "An Act Granting the End Time Mission Broadcasting Service, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain for Religious, Educational and Noncommercial Purposes Radio and Television Broadcasting Stations Anywhere in Luzon",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9551",
+   "en": "An Act Declaring the Filipino Sign Language as the National Sign Language of the Filipino Deaf and the Official Sign Language of Government in All Transactions Involving the Deaf, and Mandating Its Use in Schools, Broadcast Media, and Workplaces",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7206",
+   "en": "An Act Granting the Franciscan Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio Broadcasting Stations Anywhere in the Philippines Where Frequencies And/or Channels Are Still Available for Radio Broadcasting",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6883",
+   "en": "An Act Granting the Wave Network, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations Anywhere in the Philippines Where Frequencies And/Or Channels Are Still Available for Radio and Television Broadcasting",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9926",
+   "en": "An Act Providing for Covid-19 Response and Recovery Interventions and Providing Mechanisms to Accelerate the Recovery and Bolster the Resiliency of the Philippine Economy, Providing Funds Therefor, and for Other Purposes <a class=\"nya\" xref=\"ra2020/pdra_11494_2020.html",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7512",
+   "en": "An Act Granting the Central Mindanao University a Franchise to Construct, Install, Establish, Operate and Maintain for Educational and Noncommercial Purposes Radio and Television Broadcasting Stations in Central Mindanao University, Municipality of Maramag, Province of Bukidnon",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6925",
+   "en": "An Act Granting the Baganian Broadcasting Corporation, a Franchise to Construct, Install, Establish, Operate and Maintain Radio And/or Television Broadcasting Stations Throughout the Philippines Where Frequencies/channels Are Still Available for Radio And/or Television Broadcasting",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7596",
+   "en": "An Act Granting Calvary Gospel Tabernacle, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain for Religious, Noncommercial and Educational Purposes Radio and Television Broadcasting Stations in the Cordillera Autonomous Region and Oriental Mindoro, Nueva Vizcaya and Ilocos Sur",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6950",
+   "en": "An Act Granting the Katigbak Enterprises (San Pablo City) Incorporated, a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations Anywhere in the Philippines Where Frequencies And/or Channels Are Still Available for Radio and Television Broadcasting",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9851",
+   "en": "An Act Renewing for Another Twenty Five (25) Years the Franchise Granted to Ultimate Entertainment, Inc., Under Republic Act No. 8102, Entitled “An Act Granting the Ultimate Entertainment, Inc., a Franchise to Construct, Install, Maintain and Operate Radio Broadcasting Stations Within the Philippines”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9849",
+   "en": "An Act Renewing for Another Twenty Five (25) Years the Franchise Granted to Philippine Radio Corporation Under Republic Act No. 8032, Entitled “An Act Granting the Philippine Radio Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Commercial Radio Stations in the Philippines”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10662",
+   "en": "An Act Renewing for Another Twenty-five (25) Years the Franchise Granted to PEC Broadcasting Corporation Under Republic Act No. 8685. Entitled \"An Act Granting to Pec Broadcasting Corporation, a Franchise to Construct, Establish, Install, Maintain and Operate Radio and Television Stations in the Philippines”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9267",
+   "en": "An Act Renewing the Franchise Granted to Far East Broadcasting Company (Philippines), Inc. Under Republic Act No. 8115, Entitled “An Act Granting the Far East Broadcasting Company (Philippines), Inc., a Franchise to Construct, Maintain and Operate Non-Commercial Radio Broadcasting Stations in the Philippines”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9800",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Mareco Broadcasting Network, Inc. Under Republic Act No. 8108, Entitled “An Act Granting the Mareco Broadcasting Network, Inc., a Franchise to Construct, Maintain and Operate Radio Broadcasting and Television Stations in the Philippines”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9880",
+   "en": "An Act Renewing for Another Twenty Five (25) Years the Franchise Granted to Audiovisual Communicators, Inc. Under Republic Act No. 8124, Entitled “An Act Granting the Audiovisual Communicators, Inc., a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9985",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Baycomms Broadcasting Corporation Under Republic Act No. 8718, Entitled \"An Act Granting the Baycomms Broadcasting Corporation, a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Stations in the Philippines\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9787",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Southern Broadcasting Network, Inc. Under Republic Act No. 8147, Entitled “An Act Granting the Southern Broadcasting Network a Franchise to Construct, Maintain, Establish and Operate Commercial Radio/Television Broadcasting Stations in the Philippines”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9733",
+   "en": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to Filipinas Broadcasting Network, Inc. Under Republic Act No. 8168, Entitled “An Act Granting the Filipinas Broadcasting Network. Inc., a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9939",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to FBS Radio Network, Inc. Under Republic Act No. 8114, Entitled \"An Act Granting FBS Radio Network, Inc., a Franchise to Establish, Construct, Install, Maintain and Operate Commercial Radio and Television Stations in the Philippines, and for Other Purposes\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10007",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Blockbuster Broadcasting System, Inc., Under Republic Act No. 8726, Entitled \"An Act Granting the Blockbuster Broadcasting System, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7747",
+   "en": "An act expanding the jurisdiction of the Court of Tax Appeals (CTA), elevating its rank to the level of a Collegiate Court with special jurisdiction and enlarging its membership, amending for the purpose certain Sections or Republic Act No. 1125, as amended, otherwise known as the Law Creating the Court of Tax Appeals, and for other purposes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9923",
+   "en": "An Act Renewing for Another Twenty-Five (25) Year the Franchise Granted to Crusaders Broadcasting System, Inc., Under Republic Act No. 8091, Entitled \"An Act Granting the Crusaders Broadcasting System, Inc., a Franchise to Construct, Establish, Operate and Maintain Commercial Radio and Television Broadcasting Stations Within the Philippines\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9847",
+   "en": "An Act Renewing for Another Twenty Five (25) Years the Franchise Granted to Rajah Broadcasting Network, Inc. to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines Under Republic Act Numbered Forty Five Hundred and Five, as Amended by Republic Act Numbered Eighty One Hundred and Four",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9936",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Caceres Broadcasting Corporation Under Republic Act No. 8106, Entitled \"An Act Granting the Caceres Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations in the Island of Luzon and for Other Purposes\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10095",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Nation Broadcasting Corporation of the Philippines Under Republic Act No. 8623, Entitled \"An Act Granting the Nation Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9846",
+   "en": "An Act Extending for Another Twenty Five (25) Years the Franchise Granted to Pacific Broadcasting System, Inc. Under Republic Act No. 7967, Entitled “An Act Granting Pacific Broadcasting System, Inc., a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations Within the Philippines, and for Other Purposes”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10697",
+   "en": "An Act Renewing For Another Twenty-five (25) Years The Franchise Granted To Intercontinental Broadcasting Corporation Under Republic Act No. 8954, Entitled “An Act Granting The Intercontinental Broadcasting Corporation A Franchise To Construct, Install, Establish, Operate And Maintain Radio And Television Broadcasting Stations In The Philippines”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9948",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Negros Broadcasting and Publishing Corporation, Under Republic Act No. 8161, Entitled \"An Act Granting the Negros Broadcasting and Publishing Corporation a Franchise to Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Visayas and Mindanao\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9854",
+   "en": "An Act Renewing for Another Twenty Five (25) Years the Franchise Granted to VIMCONTU Broadcasting Corporation, Under Republic Act No. 8116, Entitled “An Act Granting the VIMCONTU Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations Within the Philippines, and for Other Purposes”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9682",
+   "en": "An Act Extending for Another Twenty-five (25) Years the Franchise Granted to Philippine Broadcasting Corporation Under Republic Act No. 7962, Entitled \"An Act Granting the Philippine Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations Within the Philippines, and for Other Purposes\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9774",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to First Love Broadcasting Network, Inc. Under Republic Act No. 8100, Entitled “An Act Granting the First Love Broadcasting Network, Inc., a Franchise to Construct, Establish, Operate and Maintain Commercial FM and AM Radio Stations and Television Stations in the Visayas and Mindanao”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9848",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Radyo Pilipino Corporation Under Republic Act No. 8145, Entitled “An Act Granting the Radyo Pilipino Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Commercial Radio and Television Broadcasting Stations, Satellite and Cable Stations in the Philippines”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9801",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Radio Audience Developers Integrated Organization, Inc. Under Republic Act No. 8083, Entitled “An Act Granting the Radio Audience Developers Integrated Organization, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Commercial Radio Stations in the Philippines”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9498",
+   "en": "An Act Prohibiting Hazing and Regulating Other Forms of Initiation Rites of Fraternities, Sororities, and Other Organizations, and Providing Penalties for Violations Thereof, Amending for the Purpose Republic Act No. 8049, Entitled An Act Regulating Hazing and Other Forms of Initiation Rites in Fraternities Sororities, and Organizations and Providing Penalties Therefor.\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10097",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Enrique M. Orozco &amp; Sons, Inc., Presently Known as Real Radio Network, Inc., Under Republic Act No. 8717, Entitled \"An Act Granting the E.M. Orosco &amp; Sons, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9855",
+   "en": "An Act Renewing for Another Twenty Five (25) Years the Franchise Granted to Swara Sug Media Corporation Under Republic Act No. 8122, Entitled “An Act Granting the Swara Sug Media Corporation of the Philippines a Franchise to Construct, Install, Operate and Maintain for Commercial Purposes Radio and Television Broadcasting Stations in the Philippines and for Other Purposes”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9775",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Tirad Pass Radio TV Broadcasting Network, Inc. Under Republic Act No. 8070, Entitled “An Act Granting the Tirad Pass Radio TV Broadcasting Network, Inc., a Franchise to Construct, Establish, Operate and Maintain Commercial AM-FM Radio and Television Stations in the Philippines, and for Other Purposes”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10018",
+   "en": "An Act Renewing for Another Twenty-Five(25) Years the Franchise Granted to Romeo Cabrestante Servando, Presently Known as Rolin Broadcasting Enterprises, Inc., Under Republic Act No. 8202, Entitled \"An Act Granting Romeo Cabrestante Servando, a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Province of Palawan\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10094",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Soundstream Broadcasting Corporation Under Republic Act No. 8209, Entitled \"An Act Granting Soundstream Broadcasting Corporation, a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the Province of Isabela, and in Other Places in the Philippines\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9544",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Notre Dame Broadcasting Corporation Under Republic Act No. 8109, Entitled An Act Granting the Notre Dame Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Radio Broadcasting Stations in the Philippines for Religious, Educational and Cultural as Well as for Commercial Purposes\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9241",
+   "en": "An Act Renewing the Franchise Granted to Radio Veritas-Global Broadcasting System, Incorporated to Construct, Install, Operate and Maintain for Religious, Educational, Cultural and Commercial Purposes Radio and Television Broadcasting Stations in the Philippines, and for Other Purposes, Under Republic Act Numbered Seventy-Five Hundred and Seventy-Nine to Another Twenty-Five (25) Years",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9556",
+   "en": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to Vanguard Radio Network Company, Inc. Under Republic Act No. 7529, Entitled An Act Granting Vanguard Radio Network Company, Inc. a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations in the Island of Luzon and for Other Purposes\", as Amended By Republic Act No. 8069",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9334",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Kalayaan Broadcasting System, Incorporated Under Republic Act No. 7303, as Amended By Republic Act No. 8106, Entitled “An Act Granting the Kalayaan Broadcasting System, Incorporated, a Franchise to Construct, Install, Operate and Maintain Radio Broadcasting Stations in the Island of Mindanao and for Other Purposes”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9734",
+   "en": "An Act Renewing the Franchise Granted to Ultrasonic Broadcasting System, Inc. Under Republic Act No. 8081, Entitled “An Act Granting the Ultrasonic Broadcasting System, Inc., a Franchise to Construct, Install, Operate and Maintain for Commercial Purposes Radio and Television Broadcasting Stations Throughout the Philippines” for Another Twenty-Five (25) Years from the Effectivity of This Act",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10008",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Tagbilaran Broadcasting System, Presently Known as Tagbilaran Broadcasting System, Inc., Under Republic Act No. 8149, Entitled \"An Act Granting the Tagbilaran Broadcasting System-A Franchise to Construct; Install, Operate and Maintain Radio and Television Broadcasting Stations in the Visayas Region, and for Other Purposes\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9753",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to ABC Development Corporation, Presently Known as TV5 Network, Inc., Under Republic Act No. 7831, Entitled “An Act Granting ABC Development Corporation, Under Business Name ‘Associated Broadcasting Company,’ a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations in the Philippines”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9341",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Masbate Community Broadcasting Co., Inc. Under Republic Act No. 7510, Entitled “An Act Granting the Masbate Community Broadcasting Co., Inc., a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations in the Islands of Masbate and Romblon and the Whole of the Visayas, and for Other Purposes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9688",
+   "en": "An Act Extending for Another Twenty-five (25) Years the Franchise Granted to Raven Broadcasting Corporation, Under Republic Act No. 8084, Entitled \"An Act Granting Raven Broadcasting Corporation a Franchise to Construct, Maintain and Operate Radio and Television Broadcasting Stations Within Luzon and Other Areas in the Philippines Where Frequencies And/Or Channels Are Still Available for Radio and Television Broadcasting\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9242",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years and Expanding to Radio/television Broadcasting, National in Scope, Throughout the Philippines, the Franchise Granted to Mabuhay Broadcasting System, Inc. Under Republic Act No. 7395, Entitled \"An Act Granting the Mabuhay Broadcasting System, Inc., a Franchise to Construct, Install, Operate and Maintain Radio Broadcasting Stations in the Island of Luzon and for Other Purposes\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9680",
+   "en": "An Act Extending for Another Twenty-five (25) Years the Franchise Granted to the University of Mindanao, Doing Business Under the Name and Style of University of Mindanao Broadcasting Network and Um Broadcasting Network, Under Republic Act No. 8170, Entitled \"An Act Granting the University of Mindanao a Franchise to Construct, Establish, Maintain and Operate Radio Broadcasting Stations in the Philippines, and for Other Purposes\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9749",
+   "en": "An Act Extending for Another Twenty-Five (25) Years the Franchise Assigned to PBN Broadcasting Network, Inc., Under Republic Act No. 8158, Entitled “An Act Extending the Franchise Granted to Jorge D. Bayona Under Republic Act Numbered Fifty-Seven Hundred Eighty-Nine, Assigning it in Favor of PBN Broadcasting Network, Inc., and Renewing the Term Thereof for Another Twenty-Five (25) Years from the Date of the Effectivity of This Act”",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H9945",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Century Communications Marketing Center, Inc., Doing Business Under the Name and Style of Century Broadcasting Network, Under Republic Act No. 8133, Entitled \"An Act Granting Century Communications Marketing Center, Inc., a Franchise to Construct, Install, Operate and Maintain for Commercial Purposes Radio and Television Broadcasting Stations in the Philippines, and for Other Purposes\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H10096",
+   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to GV Broadcasting System, Inc., Presently Known as Cignal TV, Inc., Under Republic Act No. 8169, as Amended by Republic Act No.8591, Entitled \"An Act Amending Republic Act No. 8169, Entitled 'An Act Granting GV Broadcasting System, Inc. a Franchise to Construct, Install, Maintain and Operate for Commercial Purposes Radio Broadcasting Stations in the Island of Luzon and for Other Purposes'\"",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H6316",
+   "en": "An Act Providing for a Comprehensive and Integrated Shelter and Urban Development Financing Program By Increasing and Regularizing the Yearly Appropriation of the Major Components of the National Shelter Program, Including the Abot-kaya Pabahay Fund Under Republic Act No. 6846, Augmenting the Authorized Capital Stock and Paid-up Capital of the National Home Mortgage Finance Corporation (Nhmfc) and the Home Insurance and Guaranty Corporation (Higc), Identifying Other Sources of Funding and Appropriating Funds for the Purposes",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H576",
+   "en": "An Act to Amend Subsections (a) and (b) of Section Three, Article Two of Chapter One; Subsections (b) and (d) of Section Five, Subsections (a), (b), (c), (i), (j), (m) and (n) of Section Seven of Article One, Section Eight, Subsections (a) and (d) of Section Nine, and Section Ten, Article Two of Chapter Two, and Insert a New Section Between Sections Eight and Nine of This Article to Be Known as Section Eight-A With New Subsections (a), (b), (c) and (d) and Amend, Further, Subsection (a) of Section Thirteen, Sections Fourteen and Nineteen, Article Three of Chapter Two; Sections Twenty-Four, Thirty-One and Thirty-Five, Article One, Section Thirty-Eight, Article Two of Chapter Three; and Section Sixty-Seven of Article One and Subsection (b) of Section Seventy of Article Two of Chapter Four of Act Numbered Thirty-Nine Hundred and Ninety-Two, as Amended By Commonwealth Act Numbered One Hundred and Twenty-Three, and as Further Amended By Commonwealth Acts Numbered Five Hundred and Fifty-Six and Six Hundred and Fifty-Two",
+   "hint": "18 条"
+  },
+  {
+   "id": "PH-H7629",
+   "en": "Rental Reform Act of 2002",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H7970",
+   "en": "Credit Information System Act",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H10075",
+   "en": "Foreign Investments Act of 1991,",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H5467",
+   "en": "Magna Carta for Small Enterprises",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H7440",
+   "en": "Solo Parents' Welfare Act of 2000",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H5146",
+   "en": "INP Compensation Structure Act of 1987",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H10329",
+   "en": "The Agri-agra Reform Credit Act of 2009",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H6977",
+   "en": "Health Research and Development Act of 1998",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H8453",
+   "en": "Mindanao Development Authority (MinDA) Act of 2010.",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H2695",
+   "en": "An Act to Provide for Assistance to the Gold Mining Industry",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H6520",
+   "en": "An Act to Address the National Water Crisis and for Other Purposes",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H6914",
+   "en": "An Act Providing for the Confirmation of World War II Military Services",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H9072",
+   "en": "An Act Providing for Toy and Game Safety Labeling, Appropriating Funds Therefor",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H6313",
+   "en": "Anti-Electricity and Electric Transmission Lines/Materials Pilferage Act of 1994",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H6629",
+   "en": "An Act Providing for a Four-Year Public Works and Highways Infrastructure Program",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H9201",
+   "en": "An Act Facilitating the Acquisition of Right-Of-Way Site or Location for National Government Infrastructure Projects",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H8530",
+   "en": "An Act Instituting the New Girl Scouts of the Philippines Charter, Penalizing Violations Thereof and for Other Purposes",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H8546",
+   "en": "An Act Creating The Philippine Rubber Research Institute to Develop the Philippine Rubber Industry and for Other Purposes",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H7974",
+   "en": "An Act Establishing a Comprehensive Fire Code of the Philippines, Repealing Presidential Decree No. 1185 and for other purposes",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H4173",
+   "en": "An Act Granting L.N. Agustin Farms, Inc. a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations in the Visayas",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H10356",
+   "en": "An Act Institutionalizing the One Town, One Product (OTOP) Philippines Program, Appropriating Funds Therefor, and for Other Purposes",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H1221",
+   "en": "An Act Providing for the Establishment of the University of Mindanao in Dansalan City and Authorizing the Appropriation of Funds Therefor",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H7803",
+   "en": "An Act Establishing Reforms in the Regulation of Rent of Certain Residential Units, providing the mechanisms therefor and for other purposes",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H1829",
+   "en": "An Act Granting Felix Alberto and Company, Incorporated, a Franchise to Establish Radio Stations for Domestic and Transoceanic Telecommunications",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H660",
+   "en": "An Act Increasing the Salaries of Officials of the City of Iligan, By Amending Certain Sections of Republic Act Numbered Five Hundred and Twenty-five",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H845",
+   "en": "An Act Granting Mr. Felix R. Del Rosario a Temporary Permit to Construct, Maintain and Operate a Radio Broadcasting Station in Bacolod City, Philippines",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H956",
+   "en": "An Act Granting the Philippine Standard Products Co,. Inc. a Franchise to Construct, Maintain and Operate a Radio Broadcasting Station in Manila, Philippines",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H9413",
+   "en": "An Act Institutionalizing the Philippine Qualifications Framework (PQF), Establishing the PQF-National Coordinating Council (NCC) and Appropriating Funds Therefor",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H2107",
+   "en": "An Act Granting the Felipe Ysmael, Jr. &amp; Co., Inc. a Franchise to Construct, Maintain and Operate Radio Broadcasting and Television Stations in the Philippines",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H5884",
+   "en": "An Act Granting Sbs Radio Network, Inc., a Franchise to Construct, Install, Operate and Maintain Radio Broadcasting Stations in the Philippines and for Other Purposes",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H6700",
+   "en": "An Act Granting the Diocese of Laoag a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in the City of Laoag",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H9785",
+   "en": "An Act Granting Bohol CHRonicle Radio Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio Broadcasting Stations in the Province of Bohol",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H4058",
+   "en": "An Act Granting Alberto T. Llorente and Sons a Franchise to Construct, Install, Establish and Operate Radio Broadcasting and Television Stations in the Visayas and Mindanao",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H6401",
+   "en": "An Act Granting the Sumoroy Broadcasting Corporation a Franchise to Establish, Operate and Maintain Radio and Television Broadcasting Stations in Region VIII (Eastern Visayas)",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H3558",
+   "en": "An Act Granting Lourdes B. Gozar a Franchise to Establish, Maintain and Operate Radio Broadcasting Stations and Radio Stations for Domestic and International Telecommunications",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H3154",
+   "en": "An Act Granting the Nation Broadcasting Corporation of the Philippines a Franchise to Establish Commercial Radio Stations for Domestic Communications, Broadcasting and Telecasting",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H9205",
+   "en": "An Act Rendering Election Service Non-Compulsory for Public School Teachers, Authorizing the Appointment of Other Qualified Citizens, Providing for Compensation and Other Benefits",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H9142",
+   "en": "An Act Providing for the Modernization of the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA), Providing Funds Therefor and for Other Purposes",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H4535",
+   "en": "An Act Converting the Mountain Agricultural College in the Municipality of La Trinidad, Province of Benguet, to a State College to Be Known as the Mountain State Agricultural College",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H10101",
+   "en": "An Act Granting Sulu-Tawi-Tawi Broadcasting Foundation, Inc. a Franchise to Construct, Install, Operate, and Maintain Radio and Television Stations in the Provinces of Sulu and Tawi-Tawi",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H10271",
+   "en": "An Act Granting Mount Apo Science Foundation College, Inc. a Franchise to Construct, Install, Establish, Operate, and Maintain Radio and Television Broadcasting Stations in the Philippines",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H6539",
+   "en": "An Act Granting the Palawan Broadcasting Corporation a Franchise to Install, Construct, Operate and Maintain Commercial Radio and Television Broadcasting Stations Throughout the Philippines",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H9896",
+   "en": "An Act Establishing Malasakit Centers in all Department of Health (DOH) Hospitals in the Country and in the Philippine General Hospital (PGH), Providing Funds Therefor and for Other Purposes",
+   "hint": "17 条"
+  },
+  {
+   "id": "PH-H2726",
+   "en": "An Act Granting the Radio Mindanao Network, Inc. of the Philippines a Franchise to Construct, Operate and Maintain Commercial Television and Radio Broadcasting Stations Within the Philippines",
+   "hint": "17 条"
+  }
+ ]
+}

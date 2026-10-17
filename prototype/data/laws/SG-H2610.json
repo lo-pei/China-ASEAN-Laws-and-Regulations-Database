@@ -1,7 +1,7 @@
 {
  "id": "SG-H2610",
  "title": {
-  "zh": null,
+  "zh": "传染病（HIV 病毒载量检测不到）条例 2024",
   "en": "Infectious Diseases (Undetectable HIV Viral Load) Regulations 2024",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. A person who is licensed under the Healthcare Services Act 2020 to provide a clinical laboratory service within the meaning of the First Schedule to that Act is a recognised laboratory mentioned in section 23(1B) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infectious Diseases (Undetectable HIV Viral Load) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

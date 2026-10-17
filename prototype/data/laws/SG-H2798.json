@@ -1,7 +1,7 @@
 {
  "id": "SG-H2798",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（简易债务重组）条例 2021",
   "en": "Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021",
   "orig": null
  },
@@ -164,5 +164,13 @@
    },
    "status": "repealed"
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insolvency, Restructuring and Dissolution (Simplified Debt Restructuring) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

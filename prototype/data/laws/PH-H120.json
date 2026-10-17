@@ -1,7 +1,7 @@
 {
  "id": "PH-H120",
  "title": {
-  "zh": null,
+  "zh": "授权对菲律宾或美国政府享有索赔或份额请求权的未成年人或禁治产人的合法父亲（无父时为其母亲）在该索赔或份额金额不超过500比索或其等值美元时代为受领",
   "en": "An Act Authorizing the Legitimate Father, or, in his default, the Mother, of any Minor or Incompetent Person Having a Claim or Share in a claim against the Government of the Philippines or of the United States, to receive payment of said claim or share when the amount thereof does not exceed Five Hundred Pesos or its equivalent in Dollars",
   "orig": "An Act Authorizing the Legitimate Father, or, in his default, the Mother, of any Minor or Incompetent Person Having a Claim or Share in a claim against the Government of the Philippines or of the United States, to receive payment of said claim or share when the amount thereof does not exceed Five Hundred Pesos or its equivalent in Dollars"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 25, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Legitimate Father, or, in his default, the Mother, of any Minor or Incompetent Person Having a Claim or Share in a claim against the Government of the Philippines or of the United States, to receive payment of said claim or share when the amount thereof does not exceed Five Hundred Pesos or its equivalent in Dollars",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H617",
  "title": {
-  "zh": null,
+  "zh": "新加坡民航局（樟宜机场）公告 2009",
   "en": "Civil Aviation Authority of Singapore (Changi Airport) Notification 2009",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nChangi Airport\nAll that land and water containing an area of about 23,759,361.988 square metres within the limits that are the boundaries of Lot numbers 1246V, 1264P, 1273L, 1275M, 1277V, 1284K, 1288C, 1289M, 1429N, 1882X, 1886W, 1891P, 2050N, 2771W, 2772V, 2773P, 3370C, 3523A, 3524K, 3536T, 3565V, 3566P, 3567T, 3568A, 3787W, 4110A, 4111K, 4112N, 4174N, 4200K, 4269V, 4274T, 4285W, 4288T, 4292A, 4327V, 4348K, 4350A, 4359P, 4360W, 4410N, 4415W, 4417P, 4459M-PT, 4477W, 4478V, 4545X, 4546L, 4547C, 4548M, 4549W, 4550C, 4551M, 4560K, 4561N, 4565M, 4567V, 4568P, 4594L, 4611V, 4612P, 4613T-PT, 4702T, 4707L, 4708C, 4793V, 4794P, 4795T-PT, 4836T, 4837A, 4906V-PT, 4914N, 4915X-PT, 4917C, 4918M, 4941P, 4942T, 4943A, 4966M, 4967W, 4968V, 4969P, 5070T-PT, 5094M, 5121M, 5122W, 5123V, 5124P, 5125T, 5126A, 5222L, 5292P-PT, 80000L and 80006T of Mukim 31, and which is more particularly delineated in the Plan below.\n[S 955/2020 wef 27/11/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Civil Aviation Authority of Singapore (Changi Airport) Notification 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

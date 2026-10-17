@@ -1,7 +1,7 @@
 {
  "id": "PH-H6358",
  "title": {
-  "zh": null,
+  "zh": "将 Kalinga 与 Apayao 副省改设为正规省，名称为 Kalinga 省与 Apayao 省，为此修订第 4695 号共和国法的法案",
   "en": "An Act Converting the Sub-provinces of Kalinga and Apayao Into Regular Provinces to Be Known as the Province of Kalinga and the Province of Apayao. Amending for the Purpose Republic Act No. 4695",
   "orig": "An Act Converting the Sub-provinces of Kalinga and Apayao Into Regular Provinces to Be Known as the Province of Kalinga and the Province of Apayao. Amending for the Purpose Republic Act No. 4695"
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Sub-provinces of Kalinga and Apayao Into Regular Provinces to Be Known as the Province of Kalinga and the Province of Apayao. Amending for the Purpose Republic Act No. 4695",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

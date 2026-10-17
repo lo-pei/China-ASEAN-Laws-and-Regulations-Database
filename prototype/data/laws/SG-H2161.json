@@ -1,7 +1,7 @@
 {
  "id": "SG-H2161",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发利息及其他付款豁免）（第 4 号）公告 2008",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 4) Notification 2008",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from tax the interest payable by Oversea-Chinese Banking Corporation Limited to OCBC Capital Corporation (2008) on the subordinated intercompany note issued by Oversea-Chinese Banking Corporation Limited on 27th August 2008.\n(2) The exemption is subject to the conditions specified in the letter of approval dated 15th July 2008 addressed to Allen & Gledhill LLP."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 4) Notification 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

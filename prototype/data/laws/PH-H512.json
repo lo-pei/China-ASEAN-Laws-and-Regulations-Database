@@ -1,7 +1,7 @@
 {
  "id": "PH-H512",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾共和国总统Elpidio Quirino阁下接受法兰西共和国政府在其担任菲律宾副总统期间授予的法兰西荣誉军团军官勋位的法案",
   "en": "An Act Authorizing His Excellency, Elpidio Quirino, President of the Republic of the Philippines, to Accept the Decoration of “Grand Officer of the Legion of Honor of the Republic of France” Conferred Upon Him When He was Vice-President of the Philippines by the Government of the Republic of France",
   "orig": "An Act Authorizing His Excellency, Elpidio Quirino, President of the Republic of the Philippines, to Accept the Decoration of “Grand Officer of the Legion of Honor of the Republic of France” Conferred Upon Him When He was Vice-President of the Philippines by the Government of the Republic of France"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing His Excellency, Elpidio Quirino, President of the Republic of the Philippines, to Accept the Decoration of “Grand Officer of the Legion of Honor of the Republic of France” Conferred Upon Him When He was Vice-President of the Philippines by the Government of the Republic of France",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

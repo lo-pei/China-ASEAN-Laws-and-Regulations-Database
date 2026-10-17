@@ -1,7 +1,7 @@
 {
  "id": "PH-H5973",
  "title": {
-  "zh": null,
+  "zh": "将卡皮斯省马阿永市镇卡本加汉描笼涯的卡本加汉描笼涯中学更名为Florentina Batoampo Degala纪念中学的法案",
   "en": "An Act Changing the Name of the Barangay Cabungahan High School in Barangay Cabungahan, Municipality of Maayon, Province of Capiz, To Florentina Batoampo Degala Memorial High School",
   "orig": "An Act Changing the Name of the Barangay Cabungahan High School in Barangay Cabungahan, Municipality of Maayon, Province of Capiz, To Florentina Batoampo Degala Memorial High School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Barangay Cabungahan High School in Barangay Cabungahan, Municipality of Maayon, Province of Capiz, To Florentina Batoampo Degala Memorial High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

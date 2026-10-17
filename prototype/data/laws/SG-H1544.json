@@ -1,7 +1,7 @@
 {
  "id": "SG-H1544",
  "title": {
-  "zh": null,
+  "zh": "财务顾问（投诉处理与解决）条例 2021",
   "en": "Financial Advisers (Complaints Handling and Resolution) Regulations 2021",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "11. A financial adviser who, without reasonable excuse, contravenes regulation 4(1) or (2), 5(1), (2), (3) or (4), 6, 7(1) or (2), 8(1), (2) or (3) or 9(1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part of a day during which the offence continues after conviction."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Financial Advisers (Complaints Handling and Resolution) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

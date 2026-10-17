@@ -1,7 +1,7 @@
 {
  "id": "PH-H4211",
  "title": {
-  "zh": null,
+  "zh": "授予 Jesus Narshall 在巴拉望省 Coron 市镇建设、运营和维护制冰厂与冷藏库并在巴拉望全省销售冰和供应冷藏的特许权法案",
   "en": "An Act Granting Jesus Narshall a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Coron, Province of Palawan and to Sell Ice and Supply Cold Storage in the Whole Province of Palawan",
   "orig": "An Act Granting Jesus Narshall a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Coron, Province of Palawan and to Sell Ice and Supply Cold Storage in the Whole Province of Palawan"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Jesus Narshall a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Coron, Province of Palawan and to Sell Ice and Supply Cold Storage in the Whole Province of Palawan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

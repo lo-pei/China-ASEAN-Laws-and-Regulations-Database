@@ -1,7 +1,7 @@
 {
  "id": "SG-H676",
  "title": {
-  "zh": null,
+  "zh": "合作社（第 97 条下的豁免）命令 2017",
   "en": "Co-operative Societies (Exemption under Section 97) Order 2017",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to sub‑paragraph (2), Polwel Co‑operative Society Limited is exempt from the requirement in section 59(1)(a) of the Act that the chairman, secretary and treasurer are to be elected by the members of the committee of management from among themselves or by the members of the society at a general meeting.\n(2) Polwel Co‑operative Society Limited must provide in its by‑laws for the appointment of the chairman, secretary and treasurer by the president of Polwel Co‑operative Society Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (Exemption under Section 97) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

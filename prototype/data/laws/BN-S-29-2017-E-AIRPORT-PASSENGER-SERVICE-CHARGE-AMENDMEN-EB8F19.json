@@ -1,7 +1,7 @@
 {
  "id": "BN-S-29-2017-E-AIRPORT-PASSENGER-SERVICE-CHARGE-AMENDMEN-EB8F19",
  "title": {
-  "zh": null,
+  "zh": "机场旅客服务费（附表修正）命令 2017",
   "en": "AIRPORT PASSENGER SERVICE CHARGE AMENDMENT OF SCHEDULE ORDER 2017",
   "orig": null
  },
@@ -66,5 +66,13 @@
     "en": "The Airport Passenger Service Charge Act is amended by repealing the Schedule and by substituting the following new Schedule therefor - \"SCHEDULE [section 2) Passengers embarking for destinations in ASEAN Member States $12 Passengers embarking for other destinations $20\". Made this 2nd. day of Rejab, 1438 Hijriah corresponding to the 30th. day of March, 2017.\n\nDATO SERI SETIA AWANG HAJI MUSTAPPA\n\nBIN HAJI SIRAT Minister of Communications, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "AIRPORT PASSENGER SERVICE CHARGE AMENDMENT OF SCHEDULE ORDER 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

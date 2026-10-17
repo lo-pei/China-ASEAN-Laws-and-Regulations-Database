@@ -1,7 +1,7 @@
 {
  "id": "PH-H3269",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛省Lambunao市镇伊洛伊洛国立农业学校改设为学院，名称为伊洛伊洛国立农学院，并授权为此拨付所需经费的法案",
   "en": "An Act to Convert Iloilo National Agricultural School in the Municipality of Lambunao, Province of Iloilo, into a College to be Known as the Iloilo National College of Agriculture, and to Authorize the Appropriation of the Necessary Funds Therefor",
   "orig": "An Act to Convert Iloilo National Agricultural School in the Municipality of Lambunao, Province of Iloilo, into a College to be Known as the Iloilo National College of Agriculture, and to Authorize the Appropriation of the Necessary Funds Therefor"
  },
@@ -82,5 +82,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert Iloilo National Agricultural School in the Municipality of Lambunao, Province of Iloilo, into a College to be Known as the Iloilo National College of Agriculture, and to Authorize the Appropriation of the Necessary Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3956",
  "title": {
-  "zh": null,
+  "zh": "授予 Island 运输公司在 Lapu-Lapu 市 Pajo 村与宿务省 Mandawe 市镇 Lo-oc 村之间及米沙鄢各贸易枢纽之间经营客货渡轮服务的特许经营权法案",
   "en": "An Act Granting Island Transport Company, Incorporated, a Franchise to Establish, Maintain and Operate a Ferry Service for Passengers and Freight Vehicles Between the Barrio of Pajo, Lapu-Lapu City, and Bantayan sa Hari, Barrio of Lo-oc, Municipality of Mandawe, Province of Cebu; and Between Other Visayan Focal Points of Trade and Transshipment",
   "orig": "An Act Granting Island Transport Company, Incorporated, a Franchise to Establish, Maintain and Operate a Ferry Service for Passengers and Freight Vehicles Between the Barrio of Pajo, Lapu-Lapu City, and Bantayan sa Hari, Barrio of Lo-oc, Municipality of Mandawe, Province of Cebu; and Between Other Visayan Focal Points of Trade and Transshipment"
  },
@@ -152,5 +152,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Island Transport Company, Incorporated, a Franchise to Establish, Maintain and Operate a Ferry Service for Passengers and Freight Vehicles Between the Barrio of Pajo, Lapu-Lapu City, and Bantayan sa Hari, Barrio of Lo-oc, Municipality of Mandawe, Province of Cebu; and Between Other Visayan Focal Points of Trade and Transshipment",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

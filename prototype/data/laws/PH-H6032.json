@@ -1,7 +1,7 @@
 {
  "id": "PH-H6032",
  "title": {
-  "zh": null,
+  "zh": "免除本地与国际体育赛事所得全部奖品与奖金缴纳所得税及其他形式税收并为其他目的法案",
   "en": "An Act Exempting All Prizes and Awards Gained From Local and International Sports Tournaments and Competitions From the Payment of Income and Other Forms of Taxes and For Other Purposes",
   "orig": "An Act Exempting All Prizes and Awards Gained From Local and International Sports Tournaments and Competitions From the Payment of Income and Other Forms of Taxes and For Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon the completion of its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Exempting All Prizes and Awards Gained From Local and International Sports Tournaments and Competitions From the Payment of Income and Other Forms of Taxes and For Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

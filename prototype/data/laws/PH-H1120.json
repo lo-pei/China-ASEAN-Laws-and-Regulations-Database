@@ -1,7 +1,7 @@
 {
  "id": "PH-H1120",
  "title": {
-  "zh": null,
+  "zh": "修订第401号共和国法第2条（d）项（经修正），将免息自愿清偿战前债务的期限延展至1956年12月31日的法案",
   "en": "An Act Amending Section Two (d) of Republic Act Numbered Four Hundred and One, as Amended, by Extending Up to December Thirty-One, Nineteen Hundred and Fifty-Six, the Voluntary Payment Without Interests of Prewar Obligations",
   "orig": "An Act Amending Section Two (d) of Republic Act Numbered Four Hundred and One, as Amended, by Extending Up to December Thirty-One, Nineteen Hundred and Fifty-Six, the Voluntary Payment Without Interests of Prewar Obligations"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Two (d) of Republic Act Numbered Four Hundred and One, as Amended, by Extending Up to December Thirty-One, Nineteen Hundred and Fifty-Six, the Voluntary Payment Without Interests of Prewar Obligations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3181",
  "title": {
-  "zh": null,
+  "zh": "商船（海事劳工公约）（药品与医疗设备）条例 2014",
   "en": "Merchant Shipping (Maritime Labour Convention) (Medicines and Medical Equipment) Regulations 2014",
   "orig": null
  },
@@ -348,5 +348,13 @@
     "en": "FIFTH SCHEDULE\nRegulation 20\nDisposal of medicines and medical equipment\nDisposal of medicines and medical equipment\n1. Expired medicines and medical equipment shall be —\n(a)returned to the supplier where possible; or\n(b)sent to an approved shore-side contractor for disposal.\n2. If disposal under paragraph 1 is not possible, expired medicines and medical equipment may be incinerated at sea where a ship has in place a written waste disposal policy and program that includes incineration at appropriate temperatures by exclusively authorised persons.\n3. Records of such incinerated medicines and medical equipment shall be kept as part of the medicine register.\nDisposal of morphine\n4. Morphine should be disposed by —\n(a)being returned to a person who may lawfully supply them, such as a qualified medical practitioner or registered pharmacist;\n(b)incineration;\n(c)waste encapsulation; or\n(d)inertisation.\n5. Whichever method of disposing of morphine is utilised, all the following conditions must be met:\n(a)the method must be properly implemented;\n(b)the entire process from unpacking throughout the final destructions of morphine must be witnessed by at least 2 persons and documented in the medicine register."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Maritime Labour Convention) (Medicines and Medical Equipment) Regulations 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

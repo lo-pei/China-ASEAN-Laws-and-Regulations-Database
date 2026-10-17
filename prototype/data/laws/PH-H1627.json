@@ -1,7 +1,7 @@
 {
  "id": "PH-H1627",
  "title": {
-  "zh": null,
+  "zh": "组建独立的总统选举法庭以审理、听证和裁决对菲律宾当选总统与当选副总统选举的抗议，并规定听证方式的法案",
   "en": "An Act Constituting an Independent Presidential Electoral Tribunal to Try, Hear and Decide Protests Contesting the Election of the President-Elect and the Vice-President-Elect of the Philippines and Providing for the Manner of Hearing the Same",
   "orig": "An Act Constituting an Independent Presidential Electoral Tribunal to Try, Hear and Decide Protests Contesting the Election of the President-Elect and the Vice-President-Elect of the Philippines and Providing for the Manner of Hearing the Same"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1957"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Constituting an Independent Presidential Electoral Tribunal to Try, Hear and Decide Protests Contesting the Election of the President-Elect and the Vice-President-Elect of the Philippines and Providing for the Manner of Hearing the Same",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H8366",
  "title": {
-  "zh": null,
+  "zh": "将 Ifugao 省 Lamut 市镇一所国立中学的 Ambasa 附属校分离，改设为独立的 Mongilit Ligmayo 国立中学，并为此拨付所需经费",
   "en": "An Act Separating the Lawig National High School - Ambasa Annex in the Municipality of Lamut, Province of Ifugao From the Lawig National High School, Converting it into an Independent National High School to Be Known as Mongilit Ligmayo National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Lawig National High School - Ambasa Annex in the Municipality of Lamut, Province of Ifugao From the Lawig National High School, Converting it into an Independent National High School to Be Known as Mongilit Ligmayo National High School and Appropriating Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Lawig National High School - Ambasa Annex in the Municipality of Lamut, Province of Ifugao From the Lawig National High School, Converting it into an Independent National High School to Be Known as Mongilit Ligmayo National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

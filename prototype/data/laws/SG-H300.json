@@ -1,7 +1,7 @@
 {
  "id": "SG-H300",
  "title": {
-  "zh": null,
+  "zh": "银行（合格子公司）（过渡条款）命令 2001",
   "en": "Banking (Qualifying Subsidiary) (Transitional Provision) Order 2001",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The period of exemption, from the capital requirements for a qualifying subsidiary, referred to in section 9A(7) of the Act is extended to end on 17th October 2001."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Banking (Qualifying Subsidiary) (Transitional Provision) Order 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

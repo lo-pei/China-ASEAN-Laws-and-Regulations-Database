@@ -1,7 +1,7 @@
 {
  "id": "SG-H2589",
  "title": {
-  "zh": null,
+  "zh": "所得税（UltraGreen.ai 有限公司依第 13（12）条享有的豁免）命令 2026",
   "en": "Income Tax (UltraGreen.ai Limited — Section 13(12) Exemption) Order 2026",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The following income received in Singapore by UltraGreen.ai Limited (a company incorporated in Singapore) from UltraGreen Designated Activity Company (a company incorporated in Ireland) is exempt from tax:\n(a)dividend income received on 7 July 2025, 25 August 2025 and 26 August 2025, which is in turn derived from —\n(i)the profits of Renew Pharmaceuticals Limited (a company incorporated in Ireland); or\n(ii)gains from UltraGreen Designated Activity Company’s disposal of its direct interests in its subsidiaries;\n(b)dividend income received on or after 27 August 2025, which is in turn derived from the profits of Renew Pharmaceuticals Limited.\n(2) The exemption in sub-paragraph (1) is subject to the conditions specified in the letter from the Inland Revenue Authority of Singapore dated 20 August 2026 that is issued on behalf of the Minister for Finance and addressed to EY Corporate Advisors Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (UltraGreen.ai Limited — Section 13(12) Exemption) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

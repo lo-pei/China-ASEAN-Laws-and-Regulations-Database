@@ -1,7 +1,7 @@
 {
  "id": "SG-H190",
  "title": {
-  "zh": null,
+  "zh": "游乐设施安全法 2011",
   "en": "Amusement Rides Safety Act 2011",
   "orig": null
  },
@@ -1222,5 +1222,13 @@
     "en": "74. Any regulations made under this Act must be presented to Parliament as soon as possible after publication in the Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Amusement Rides Safety Act 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

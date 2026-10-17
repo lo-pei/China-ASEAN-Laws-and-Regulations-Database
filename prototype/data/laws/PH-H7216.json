@@ -1,7 +1,7 @@
 {
  "id": "PH-H7216",
  "title": {
-  "zh": null,
+  "zh": "要求披露 2000 年问题声明及计算机系统、产品与服务的就绪情况、为此提供资金并为其他目的法案",
   "en": "An Act Requiring Disclosure of Year 2000 Statements and Readiness of Computer Based Systems, Products, and Services, Providing Funds Therefore and for Other Purposes",
   "orig": "An Act Requiring Disclosure of Year 2000 Statements and Readiness of Computer Based Systems, Products, and Services, Providing Funds Therefore and for Other Purposes"
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity. - This Act shall take effect immediately upon publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring Disclosure of Year 2000 Statements and Readiness of Computer Based Systems, Products, and Services, Providing Funds Therefore and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

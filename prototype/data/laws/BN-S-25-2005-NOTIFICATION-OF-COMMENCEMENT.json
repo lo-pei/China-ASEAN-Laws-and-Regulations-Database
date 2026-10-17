@@ -1,7 +1,7 @@
 {
  "id": "BN-S-25-2005-NOTIFICATION-OF-COMMENCEMENT",
  "title": {
-  "zh": null,
+  "zh": "生效公告",
   "en": "NOTIFICATION OF COMMENCEMENT",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 25\n\nVETERINARY SURGEONS ORDER, 2005 (S 30/05)\n\nNOTIFICATION OF COMMENCEMENT In exercise o~ the power conferred by section 1(1), the Minister of Industry and Primary Resources, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 2nd. June, 2008 as the date on which the Veterinary Surgeons Order, 2005 shall commence. Made this 7th. day of Safar, 1429 Hijriah corresponding to the 14th. day of February, 2008.\n\nPEHIN ORANG KAYA SETIA PAHLAWAN DATO SERI SETIA DR. AWANG HAJI AHMAD BIN HAJI JUMAT, Minister of Industry and Primary Resources, Brunei Darussalam. I Dicetak oleh AWANG MOHIDIN BIN HAJI DAUD, Pengarah Percetakan, di Jabatan Percetakan Keraj.aan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1501",
  "title": {
-  "zh": null,
+  "zh": "费用（律政部）命令 2008",
   "en": "Fees (Ministry of Law) Order 2008",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be payable to the Ministry of Law a fee of $1,000 for the issue of a password to access the website at www.mlaw.gov.sg/qflp containing documents and information relating to the application for a Qualifying Foreign Law Practice licence."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Ministry of Law) Order 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

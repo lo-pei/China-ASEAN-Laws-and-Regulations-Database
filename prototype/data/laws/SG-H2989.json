@@ -1,7 +1,7 @@
 {
  "id": "SG-H2989",
  "title": {
-  "zh": null,
+  "zh": "法律专业（按金利息）规则",
   "en": "Legal Profession (Deposit Interest) Rules",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) Nothing in these Rules shall affect any arrangement in writing whenever made between a solicitor and his client as to the application of the client’s money or interest thereon.\n(2) These Rules do not apply to —\n(a)money received by a solicitor which is subject to a trust of which the solicitor is a trustee; or\n(b)conveyancing money received by a solicitor.\n(3) In this rule, “conveyancing money” has the same meaning as in rule 2(2) of the Conveyancing and Law of Property (Conveyancing) Rules 2011 (G.N. No. S 391/2011)\n[S 394/2011 wef 01/08/2011]\n[G. N. Nos. S 194/70; S 379/98; S 658/2006]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Legal Profession (Deposit Interest) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

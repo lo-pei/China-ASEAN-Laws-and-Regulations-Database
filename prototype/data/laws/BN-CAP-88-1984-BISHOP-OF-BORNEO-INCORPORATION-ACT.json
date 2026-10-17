@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-88-1984-BISHOP-OF-BORNEO-INCORPORATION-ACT",
  "title": {
-  "zh": null,
+  "zh": "婆罗洲主教法人法",
   "en": "BISHOP OF BORNEO INCORPORATION ACT",
   "orig": null
  },
@@ -127,5 +127,13 @@
     "en": "A notification by the Minister of the appointof appoint-ment of any person to exercise the office of Bishop of Borment neo shall be conclustve evidence that such person was duly authorised to exerciSe the said office in Brunei."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BISHOP OF BORNEO INCORPORATION ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

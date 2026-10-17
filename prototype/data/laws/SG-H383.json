@@ -1,7 +1,7 @@
 {
  "id": "SG-H383",
  "title": {
-  "zh": null,
+  "zh": "建筑物维修与分层管理（电梯、自动扶梯与建筑物维修）（废止）条例 2025",
   "en": "Building Maintenance and Strata Management (Lift, Escalator and Building Maintenance) (Revocation) Regulations 2025",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Despite regulation 2, regulations 14 and 14A of the revoked Regulations continue to apply to any incident involving any lift or part of a lift that occurs before 1 October 2025.\n(2) Despite regulation 2, regulations 26 and 26A of the revoked Regulations continue to apply to any incident involving any escalator or part of an escalator that occurs before 1 October 2025.\n(3) Despite regulation 2, regulations 7 and 17 of the revoked Regulations continue to apply to any major alteration or replacement works on a lift that commence before 1 October 2025.\n(4) Despite regulation 2, regulations 19 and 29 of the revoked Regulations continue to apply to any major alteration or replacement works on an escalator that commence before 1 October 2025."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Maintenance and Strata Management (Lift, Escalator and Building Maintenance) (Revocation) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

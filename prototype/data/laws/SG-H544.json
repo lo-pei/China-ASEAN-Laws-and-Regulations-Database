@@ -1,7 +1,7 @@
 {
  "id": "SG-H544",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（指明雇佣）条例 1966",
   "en": "Central Provident Fund (Specified Employment) Regulations 1966",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nEmployment\nPrincipal employer\nAs master, seaman or apprentice in any vessel whose owners do not have a place of business in Singapore.\nAny person who is the attorney or agent in Singapore for the owners of the vessel."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Specified Employment) Regulations 1966",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

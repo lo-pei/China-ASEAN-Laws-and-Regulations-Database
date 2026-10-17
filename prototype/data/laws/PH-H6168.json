@@ -1,7 +1,7 @@
 {
  "id": "PH-H6168",
  "title": {
-  "zh": null,
+  "zh": "制定科学技术奖学金计划并为其他目的法案",
   "en": "An Act Instituting a Science and Technology Scholarship Program and for Other Purposes",
   "orig": "An Act Instituting a Science and Technology Scholarship Program and for Other Purposes"
  },
@@ -250,5 +250,13 @@
     "en": "Effectivity . — This Act shall take effect upon its approval.\nApproved, March 2, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Instituting a Science and Technology Scholarship Program and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

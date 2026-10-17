@@ -1,7 +1,7 @@
 {
  "id": "SG-H2234",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展贷款利息及其他付款豁免）公告 2017",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2017",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) The interest mentioned in sub‑paragraph (2) that is payable by Mercator Lines (S) Ltd in respect of a loan amount of US$2,678,400 —\n(a)that was originally payable to DVB Group Merchant Bank (Asia) Ltd under a loan agreement dated 9 February 2009; and\n(b)that became payable to SSG Capital Partners III, LP by reason of an instrument entitled “Transfer Certificate” dated 16 July 2015,\nfor the purpose of acquiring the vessel “Kesari Prem”, is exempt from tax.\n(2) The interest to which sub‑paragraph (1) applies —\n(a)is the interest that accrued during the period from 16 July 2015 to 31 October 2015 (both dates inclusive); and\n(b)excludes interest payable on the amount of US$251,500 that was due and payable to DVB Group Merchant Bank (Asia) Ltd on 13 May 2015 under the loan agreement but became payable to SSG Capital Partners III, LP by reason of the instrument entitled “Transfer Certificate”.\n(3) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter of approval dated 11 July 2016 issued by the Ministry of Finance and addressed to the Maritime and Port Authority of Singapore and the Inland Revenue Authority of Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

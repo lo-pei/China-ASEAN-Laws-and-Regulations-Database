@@ -1,7 +1,7 @@
 {
  "id": "SG-H2736",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 9 号）命令 2021",
   "en": "Infrastructure Protection (Protected Places) (No. 9) Order 2021",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\n1.Director‑General,\nCivil Aviation Authority of Singapore\nANCILLARY FACILITIES BUILDING AT 20 CHANGI EAST CLOSE\nAll that area comprised in part of Lot 05188A PT in Mukim No. 31 occupied by “ANCILLARY FACILITIES BUILDING AT 20 CHANGI EAST CLOSE” containing an area of about 17832.40 square metres and bounded approximately as follows:\nCommencing at a point 34016.395 metres North and 47131.307 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n34016.395\n47131.307\n33988.723\n47119.719\n34017.692\n47050.540\n34027.840\n47054.786\n34045.359\n47062.125\n34032.476\n47043.721\n34036.618\n47045.480\n34039.276\n47037.860\n34040.111\n47032.979\n34041.145\n47023.153\n34041.161\n47021.199\n34041.027\n47017.780\n34040.436\n47012.358\n34039.820\n47007.873\n34038.754\n47002.523\n34037.598\n46998.428\n34036.135\n46994.509\n34034.318\n46990.587\n34031.600\n46985.711\n34028.527\n46980.858\n34026.681\n46978.369\n34024.552\n46975.872\n34018.029\n46969.192\n34015.633\n46967.185\n34013.473\n46965.653\n34005.434\n46960.945\n34011.150\n46947.501\n34013.590\n46948.681\n34020.395\n46952.837\n34026.761\n46957.637\n34032.627\n46963.037\n34037.938\n46968.984\n34042.642\n46975.422\n34046.694\n46982.288\n34050.057\n46989.518\n34052.696\n46997.041\n34054.589\n47004.786\n34055.715\n47012.679\n34056.064\n47020.645\n34055.634\n47028.607\n34054.427\n47036.488\n34052.456\n47044.214\n34049.740\n47051.710\nto the point of commencement.\nThe boundaries of “ANCILLARY FACILITIES BUILDING AT 20 CHANGI EAST CLOSE” are more particularly delineated in the Plan set out below.\nFirst column\nSecond column\nThe Authority\nProtected Place\n2.Director‑General,\nCivil Aviation Authority of Singapore\nANCILLARY FACILITIES BUILDING AT 21 AVIATION PARK ROAD\nAll that area comprised in part of Lots 05134C and 05137V in Mukim No. 31 occupied by “ANCILLARY FACILITIES BUILDING AT 21 AVIATION PARK ROAD” containing an area of about 6800.30 square metres and bounded approximately as follows:\nCommencing at a point 38441.263 metres North and 49547.621 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n38441.263\n49547.621\n38414.994\n49609.526\n38382.483\n49595.816\n38406.514\n49539.349\n38411.996\n49526.468\n38437.023\n49537.120\n38397.946\n49535.703\n38182.342\n49443.940\n38158.542\n49433.811\n38130.931\n49422.081\n38134.068\n49414.695\n38141.935\n49411.523\n38164.013\n49420.932\n38173.217\n49424.841\n38187.815\n49431.054\nto the point of commencement.\nThe boundaries of “ANCILLARY FACILITIES BUILDING AT 21 AVIATION PARK ROAD” are more particularly delineated in the Plan set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 9) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

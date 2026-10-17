@@ -1,7 +1,7 @@
 {
  "id": "BN-S-5-2003-E-NOTIFICATION-UNDER-SECTION-11",
  "title": {
-  "zh": null,
+  "zh": "依第 11 条发布的公告",
   "en": "NOTIFICATION UNDER SECTION 11",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "6th. MARCH, 2003 No. S 5 AUTHORITY FOR TNFO·COMMUNICATIONS TECHNOLOGY\n\nINDUSTRY OF BRUNEI DARUSSALAM ORDER, 2001 (S 39/01) NOTIFICATION UNDER SECTION 1(1) In exercise of the power conferred by section 1(1), the Minister of Communications, with lhe approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints the 1st. day of January, 2003 as the date on which the Authority for InfoCommunications Technology Industry of Brunei Darussalam Order, 2001 shall be deemed to have commenced. Dated this 18th. day of Zulhijjah, 1423 Hijriah corresponding to the 20th. day of February, 2003.\n\nPEHIN ORANG KAYA AMAR PAHLAWAN\n\nDATO SERI SETIA HAJI AWANG ZAKARIA BIN\n\nDATU MAHAWANGSA HAJI SULAIMAN Minister of Communications, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION UNDER SECTION 11",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H260",
  "title": {
-  "zh": null,
+  "zh": "武器与爆炸物（武器）（废止）公告 2025",
   "en": "Arms and Explosives (Arms) (Revocation) Notification 2025",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Revoke the Arms and Explosives (Arms) Notification 2020 (G.N. No. S 796/2020)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Arms and Explosives (Arms) (Revocation) Notification 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

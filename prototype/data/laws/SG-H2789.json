@@ -1,7 +1,7 @@
 {
  "id": "SG-H2789",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（第 440 条规定公司）命令 2020",
   "en": "Insolvency, Restructuring and Dissolution (Prescribed Companies under Section 440) Order 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The following classes of companies are prescribed as excluded companies for the purposes of the definition of “company” in section 440(6) of the Act:\n(a)a covered bond special purpose vehicle;\n(b)a securitisation special purpose vehicle.\n(2) In this paragraph —\n“company” means a corporation liable to be wound up under the Act;\n“covered bond special purpose vehicle” and “securitisation special purpose vehicle” have the meanings given by paragraph 2 of the Insolvency, Restructuring and Dissolution (Prescribed Companies and Entities) Order 2020 (G.N. No. S 619/2020)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insolvency, Restructuring and Dissolution (Prescribed Companies under Section 440) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

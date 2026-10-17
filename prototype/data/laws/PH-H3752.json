@@ -1,7 +1,7 @@
 {
  "id": "PH-H3752",
  "title": {
-  "zh": null,
+  "zh": "宣布伊洛伊洛市内自Molo区至Arevalo区的海滨大道、其与海岸之间的公有土地及领水为城市公园，名称为Iloilo市公园的法案",
   "en": "An Act Declaring the Boulevard, Public Lands Between it and the Shores and the Territorial Waters from the District of Molo to the District of Arevalo, Within the City of Iloilo, a City Park, to be Known as Iloilo City Park",
   "orig": "An Act Declaring the Boulevard, Public Lands Between it and the Shores and the Territorial Waters from the District of Molo to the District of Arevalo, Within the City of Iloilo, a City Park, to be Known as Iloilo City Park"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the Boulevard, Public Lands Between it and the Shores and the Territorial Waters from the District of Molo to the District of Arevalo, Within the City of Iloilo, a City Park, to be Known as Iloilo City Park",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9611",
  "title": {
-  "zh": null,
+  "zh": "1998 年菲律宾艾滋病防治法",
   "en": "Philippine Aids Prevention and Control Act of 1998",
   "orig": "An Act Strengthening the Philippine Comprehensive Policy on Human Immunodeficiency Virus (HIV) and Acquired Immune Deficiency Syndrome (AIDS) Prevention, Treatment, Care, and Support, and, Reconstituting the Philippine National Aids Council (PNAC), Repealing for the Purpose Republic Act No. 8504, Otherwise Known as the \"Philippine Aids Prevention and Control Act of 1998\", and Appropriating Funds Therefor"
  },
@@ -772,5 +772,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Philippine Aids Prevention and Control Act of 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

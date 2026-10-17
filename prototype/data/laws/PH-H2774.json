@@ -1,7 +1,7 @@
 {
  "id": "PH-H2774",
  "title": {
-  "zh": null,
+  "zh": "重新划拨第920号共和国法第一编E部分莱特省第145页第I组第27段（l）项所拨16000比索中未支用的10565比索余额的法案",
   "en": "An Act Reappropriating the Sum of Ten Thousand Five Hundred Sixty-Five Pesos Which is the Unexpended Balance of Sixteen Thousand Pesos Appropriated Under Item (l), Page 145, Group I, Paragraph 27, for the Province of Leyte, Title E, Section One of Republic Act Numbered Nine Hundred Twenty",
   "orig": "An Act Reappropriating the Sum of Ten Thousand Five Hundred Sixty-Five Pesos Which is the Unexpended Balance of Sixteen Thousand Pesos Appropriated Under Item (l), Page 145, Group I, Paragraph 27, for the Province of Leyte, Title E, Section One of Republic Act Numbered Nine Hundred Twenty"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reappropriating the Sum of Ten Thousand Five Hundred Sixty-Five Pesos Which is the Unexpended Balance of Sixteen Thousand Pesos Appropriated Under Item (l), Page 145, Group I, Paragraph 27, for the Province of Leyte, Title E, Section One of Republic Act Numbered Nine Hundred Twenty",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

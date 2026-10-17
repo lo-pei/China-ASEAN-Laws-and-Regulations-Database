@@ -1,0 +1,82 @@
+{
+ "id": "BN-S-15-2005-E-ORDER-UNDER-SECTION-152",
+ "title": {
+  "zh": "依第 152 条作出的命令",
+  "en": "ORDER UNDER SECTION 152",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p25",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 3,
+ "chars": 2845,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-15_2005_E-ORDER-UNDER-SECTION-152.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-15_2005_E-ORDER-UNDER-SECTION-152.pdf》（3 页），本次切分 3 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-15-2005-E-ORDER-UNDER-SECTION-152-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "In exercise of the power conferred by paragraph (a) of subsection (2) of section 15 of the Land Code, His Majesty the Sultan and Yang Di-Pertuan in Council hereby prescribes the rent payable in respect of land held by entry in the Register where the area is less than 100 acres shall be at the following rates - Padi $2 per acre or part thereof Agriculture $5 per acre or part thereof Rubber $5 per acre or part thereof Residential outside the Municipal area, $10 per quarter-acre or part thereof inside the Municipal area, $50 per quarter-acre or part thereof Residential and incidental outside the Municipal area, $12.50 per commercial quarter-acre or part thereof inside the Municipal area, $62.50 per quarter-acre or part thereof Residential and commercial $125 per quarter-acre or part thereof Apartment/flats $100 per quarter-acre or part thereof Apartment/flats and commercial $125 per quarter-acre or part thereof Industrial $150 per quarter-acre or part thereof 19th. MARCH, 2005 Institutional building $62.50 per quarter-acre or part thereof Institutional building, commercial $150 per quarter-acre or part thereof and industrial Hotel $150 per quarter-acre or part thereof Petrol Station $125 per quarter-acre or part thereof Diplomatic $62.50 per quarter-acre or part thereof."
+   }
+  },
+  {
+   "id": "BN-S-15-2005-E-ORDER-UNDER-SECTION-152-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In exercise of the power conferred by paragraph (b) of subsection (2) of section 15 of the Land Code, His Majesty the Sultan and Yang Di-Pertuan in Council hereby directs the rent payable in respect of land held by entry in the Register where the area is 100 acres or more shall be at the following ratesPadi $2 per acre or part thereof Agriculture $5 per acre or part thereof Rubber $5 per acre or part thereof Residential outside the Municipal area, $10 per quarter-acre or part thereof inside the Municipal area, $50 per quarter-acre or part thereof Residential and incidental outside the Municipal area, $12.50 per commercial quarter-acre or part thereof inside the Municipal area, $62.50 per quarter-acre or part thereof Residential and commercial $125 per quarter-acre or part thereof Apartment/flats $100 per quarter-acre or part thereof Apartment/flats and commercial $125 per quarter-acre or part thereof Industrial $150 per quarter-acre or part thereof Institutional building $62.50 per quarter-acre or part thereof Institutional building, commercial $150 per quarter-acre or part thereof and industrial Hotel $150 per quarter-acre or part thereof Petrol Station $125 per quarter-acre or part thereof Diplomatic $62.50 per quarter-acre or part thereof."
+   }
+  },
+  {
+   "id": "BN-S-15-2005-E-ORDER-UNDER-SECTION-152-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Order shall be deemed to have come into force on the 22nd. April, 1999. Dated this 4th. day of Safar, 1426 Hijriah corresponding to the 15th. day of March, 2005.\n\nPEHIN ORANG KAYA SETIA PAHLAWAN DATO SERI SETIA DR. HAJI AWANG AHMAD BIN HAJI JUMAT Minister of Development, Brunei Darussalam."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ORDER UNDER SECTION 152",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

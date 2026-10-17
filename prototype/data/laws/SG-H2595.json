@@ -1,7 +1,7 @@
 {
  "id": "SG-H2595",
  "title": {
-  "zh": null,
+  "zh": "新加坡独立协定 1965",
   "en": "Independence of Singapore Agreement 1965",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Independence of Singapore Agreement 1965\n[9 August 1965]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Independence of Singapore Agreement 1965",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

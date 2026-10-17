@@ -1,7 +1,7 @@
 {
  "id": "PH-H7825",
  "title": {
-  "zh": null,
+  "zh": "授予Charles William Mosser先生菲律宾公民身份及随之附随的一切权利、特权与优先权的法案",
   "en": "An Act Granting Filipino Citizenship to Mr. Charles William Mosser, with all the Rights, Privileges and Prerogatives Appurtenant Thereto",
   "orig": "An Act Granting Filipino Citizenship to Mr. Charles William Mosser, with all the Rights, Privileges and Prerogatives Appurtenant Thereto"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Filipino Citizenship to Mr. Charles William Mosser, with all the Rights, Privileges and Prerogatives Appurtenant Thereto",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

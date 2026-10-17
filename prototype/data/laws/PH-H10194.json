@@ -1,7 +1,7 @@
 {
  "id": "PH-H10194",
  "title": {
-  "zh": null,
+  "zh": "枪支与弹药综合管制法",
   "en": "Comprehensive Firearms and Ammunition Regulation Act.",
   "orig": "An Act Fixing the Validity Period of the License to Own and Possess, Registration, and Permit to Carry Firearms Outside of Residence or Place of Business, Amending for the Purpose Sections 7 and 19 of Republic Act No. 10591, Otherwise Known as the \"Comprehensive Firearms and Ammunition Regulation Act.\""
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity. - The Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Comprehensive Firearms and Ammunition Regulation Act.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

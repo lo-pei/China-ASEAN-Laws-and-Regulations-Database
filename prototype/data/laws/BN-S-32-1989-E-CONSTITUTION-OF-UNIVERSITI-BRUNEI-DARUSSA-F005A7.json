@@ -1,7 +1,7 @@
 {
  "id": "BN-S-32-1989-E-CONSTITUTION-OF-UNIVERSITI-BRUNEI-DARUSSA-F005A7",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰大学章程修正命令 1989",
   "en": "CONSTITUTION OF UNIVERSITI BRUNEI DARUSSALAM AMENDMENT ORDER 1989",
   "orig": null
  },
@@ -70,5 +70,13 @@
     "en": "Section 20(1) of the Constitution is amended -Amendment of section 2011 ).\n\n(a) by deleting paragraph (b) and substituting therefor the following\"(b) the Chairman of the Public Service Commission (or his representative) ; \"\n\n(b) by deleting the word \"and\" at the end of paragraph (c) ;\n\n(c) by deleting the full stop at the end of paragraph (d) and substituting therefor ''; and ''; and\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE\n\n(d) by adding the following new paragraph (e) - \"(e) Director of Establishment (or his representative).\" Made this 13th. day of April, 1989 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN BRUNEI DARUSSALAM."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CONSTITUTION OF UNIVERSITI BRUNEI DARUSSALAM AMENDMENT ORDER 1989",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

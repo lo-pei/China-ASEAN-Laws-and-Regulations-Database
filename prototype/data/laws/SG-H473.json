@@ -1,7 +1,7 @@
 {
  "id": "SG-H473",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（问题赌博——理事会与评估员委员会）规则 2026",
   "en": "Casino Control (Problem Gambling — Council and Committee of Assessors) Rules 2026",
   "orig": null
  },
@@ -1030,5 +1030,13 @@
     "en": "62. Revoke the Casino Control (Problem Gambling — Exclusion Orders and Visit Limits) Rules 2008 (G.N. No. S 623/2008)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Problem Gambling — Council and Committee of Assessors) Rules 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

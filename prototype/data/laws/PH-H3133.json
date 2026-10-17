@@ -1,7 +1,7 @@
 {
  "id": "PH-H3133",
  "title": {
-  "zh": null,
+  "zh": "在阿尔拜省设立Pio Duran市镇的法案",
   "en": "An Act Creating the Municipality of Pio Duran in the Province of Albay",
   "orig": "An Act Creating the Municipality of Pio Duran in the Province of Albay"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect when a majority of all the voters in the barrios hereinabove mentioned shall vote in favor of the creation of the Municipality of Pio Duran, in a plebiscite which shall be held for said purpose simultaneously with the general elections of nineteen hundred and sixty-three.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Municipality of Pio Duran in the Province of Albay",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

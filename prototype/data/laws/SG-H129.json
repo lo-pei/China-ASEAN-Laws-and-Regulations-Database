@@ -1,7 +1,7 @@
 {
  "id": "SG-H129",
  "title": {
-  "zh": null,
+  "zh": "穆斯林法管理（穆斯林宗教学校）规则 2016",
   "en": "Administration of Muslim Law (Muslim Religious Schools) Rules 2016",
   "orig": null
  },
@@ -510,5 +510,13 @@
     "en": "THE SCHEDULE\nRule 4(1)\nCode of Ethics for the provision of\nIslamic Instruction\n1. An Islamic teacher or a Quranic teacher —\n(a)must adhere to the moderate teachings of Islam;\n(b)must exhibit a sound grasp of religious knowledge while being mindful of contextual considerations in the interpretation of religious teachings;\n(c)must always act in ways that retain the trust and confidence of the Muslim community of Singapore towards religious teachers, and that does not bring the profession into disrepute;\n(d)must recognise that there are diverse opinions and schools of thought in Islam, and may choose to adopt and teach any of these so long as this is not likely to be prejudicial to the maintenance of harmony between different religious or racial groups or to cause public disorder; and\n(e)must be guided in matters of religious doctrine by the rulings of the Legal Committee.\n2. An Islamic teacher or Quranic teacher must not —\n(a)state that any opinion concerning Islam or any practice of Islam is deviant or unacceptable unless the Legal Committee has pronounced it to be so in a ruling;\n(b)do anything that directly or indirectly denigrates any racial or religious group, or that is likely to be prejudicial to the maintenance of harmony between different religious or racial groups or to cause public disorder; or\n(c)advocate any idea that is likely to encourage extremism or violence, whether directly or indirectly."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Administration of Muslim Law (Muslim Religious Schools) Rules 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

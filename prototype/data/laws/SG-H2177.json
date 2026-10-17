@@ -1,7 +1,7 @@
 {
  "id": "SG-H2177",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展利息及其他付款豁免）公告 2005",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2005",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. There shall be exempt from tax any payment which a financial institution is liable to pay, from 27th February 2004 to 19th May 2007 (both dates inclusive), on over-the-counter financial derivatives to a person who is neither resident in Singapore nor a permanent establishment in Singapore, subject to —\n(a)such conditions as may be imposed by the Minister or such person as he may appoint;\n(b)such declaration (in relation to transactions by institutions that are exempted from licensing or approval under any Act administered by the Authority) as may be required by the Comptroller or the Authority for the purpose of this Notification; and\n(c)such declaration (in relation to transactions with related parties) as may be required by the Comptroller or the Authority for the purpose of this Notification."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

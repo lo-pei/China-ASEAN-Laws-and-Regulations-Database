@@ -1,7 +1,7 @@
 {
  "id": "PH-H6111",
  "title": {
-  "zh": null,
+  "zh": "将拉乌尼翁省巴劳安镇北拉乌尼翁妇产儿童医院的名称变更为巴劳安区医院的法案",
   "en": "An Act Changing the Name of the Northern La Union Maternity and Children's Hospital in the Municipality of Balaoan, Province of La Union, To Balaoan District Hospital",
   "orig": "An Act Changing the Name of the Northern La Union Maternity and Children's Hospital in the Municipality of Balaoan, Province of La Union, To Balaoan District Hospital"
  },
@@ -62,5 +62,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Northern La Union Maternity and Children's Hospital in the Municipality of Balaoan, Province of La Union, To Balaoan District Hospital",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

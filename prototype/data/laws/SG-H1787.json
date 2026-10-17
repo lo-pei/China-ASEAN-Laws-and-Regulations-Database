@@ -1,7 +1,7 @@
 {
  "id": "SG-H1787",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（设计—建造—销售计划——归属）公告 2014",
   "en": "Housing and Development (Design-Build-And-Sell Scheme — Vesting) Notification 2014",
   "orig": null
  },
@@ -84,5 +84,13 @@
     "en": "SECOND SCHEDULE\nParagraph 2\nApartment block\nStreet name\nUnit no.\n519B\nTampines Central 8\n#03-25\n519B\nTampines Central 8\n#03-27\n519B\nTampines Central 8\n#03-29\n519B\nTampines Central 8\n#04-25\n519B\nTampines Central 8\n#04-29\n519D\nTampines Central 8\n#02-87\n519D\nTampines Central 8\n#02-91\n520B\nTampines Central 8\n#01-53\n520B\nTampines Central 8\n#02-47\n520B\nTampines Central 8\n#02-49\n520B\nTampines Central 8\n#02-51\n520B\nTampines Central 8\n#03-51\n520B\nTampines Central 8\n#04-51."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Design-Build-And-Sell Scheme — Vesting) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

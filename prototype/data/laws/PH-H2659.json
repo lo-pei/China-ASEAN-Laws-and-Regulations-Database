@@ -1,7 +1,7 @@
 {
  "id": "PH-H2659",
  "title": {
-  "zh": null,
+  "zh": "规定宿务市城市警察部队某些成员的最低报酬，并为此修订第58号联邦法第35条的法案",
   "en": "An Act Providing Minimum Compensation for Certain Members of the City Police Force of the City of Cebu, Amending for the Purpose Section Thirty-Five of Commonwealth Act Numbered Fifty-Eight",
   "orig": "An Act Providing Minimum Compensation for Certain Members of the City Police Force of the City of Cebu, Amending for the Purpose Section Thirty-Five of Commonwealth Act Numbered Fifty-Eight"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing Minimum Compensation for Certain Members of the City Police Force of the City of Cebu, Amending for the Purpose Section Thirty-Five of Commonwealth Act Numbered Fifty-Eight",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

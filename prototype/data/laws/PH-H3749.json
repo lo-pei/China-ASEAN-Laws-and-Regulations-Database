@@ -1,7 +1,7 @@
 {
  "id": "PH-H3749",
  "title": {
-  "zh": null,
+  "zh": "在塔克洛班市设立总医院，名称为议长Daniel Z. Romualdez纪念市医院，并授权为此拨款的法案",
   "en": "An Act Providing for the Establishment of a General Hospital at Tacloban City, to be Known as Speaker Daniel Z. Romualdez Memorial City Hospital, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Providing for the Establishment of a General Hospital at Tacloban City, to be Known as Speaker Daniel Z. Romualdez Memorial City Hospital, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Establishment of a General Hospital at Tacloban City, to be Known as Speaker Daniel Z. Romualdez Memorial City Hospital, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

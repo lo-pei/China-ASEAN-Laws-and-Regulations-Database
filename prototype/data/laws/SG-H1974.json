@@ -1,7 +1,7 @@
 {
  "id": "SG-H1974",
  "title": {
-  "zh": null,
+  "zh": "所得税（Cromwell 欧洲房地产投资信托——第 13(12) 条豁免）命令 2024",
   "en": "Income Tax (Cromwell European Real Estate Investment Trust — Section 13(12) Exemption) Order 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Interest income received in Singapore by Cromwell SG SPV 1 Pte. Ltd. (a company incorporated in Singapore) on or after 30 March 2021 from Parc d’Activités 1 Luxembourg S.à.r.l. (a company incorporated in Luxembourg), which originates from rental and other property-related income in relation to the properties specified in sub‑paragraph (5)(a), is exempt from tax.\n(2) Interest income received in Singapore by Cromwell SG SPV 3 Pte. Ltd. (a company incorporated in Singapore) on or after 15 December 2020 from Cromwell EREIT Lux 3A S.à.r.l. (a company incorporated in Luxembourg), which originates from rental and other property‑related income in relation to the property specified in sub‑paragraph (5)(b), is exempt from tax.\n(3) Interest income received in Singapore by Cromwell SG SPV 3 Pte. Ltd. on or after 31 March 2021 from Cromwell EREIT Lux 3A S.à.r.l., which originates from rental and other property‑related income in relation to the properties specified in sub‑paragraph (5)(c), is exempt from tax.\n(4) The exemptions in sub-paragraphs (1), (2) and (3) are subject to the conditions specified in the letter from the Ministry of Finance dated 30 January 2024 and addressed to PricewaterhouseCoopers Singapore Pte. Ltd.\n(5) For the purpose of this paragraph, the properties specified are —\n(a)in sub-paragraph (1), the following:\n(i)the property named “Paryseine”, located at 3 Allée de la Seine, Ivry-Sur Seine, Paris, France;\n(ii)the property named “Cap Mermoz”, located at 38‑44 rue Jean Mermoz, Maisons‑Laffitte, Paris, France;\n(iii)the property named “Lénine”, located at 1 rue de Lénine, 94200 Ivry‑Sur Seine, Ivry‑Sur Seine, Paris, France;\n(b)in sub-paragraph (2), the property named “Bastion”, located at Willemsplein 2‑10, ’s‑Hertogenbosch, the Netherlands; and\n(c)in sub-paragraph (3), the following:\n(i)the property named “Business Garden”, located at 2, 4, 6, 8 and 10 Kolorowa Street, Poznań, Poland;\n(ii)the property named “Avatar”, located at 28 Armii Krajowej Street, Kraków, Poland;\n(iii)the property named “Green Office”, located at 80, 80A, 82 and 84 Czerwone Maki Street, Kraków, Poland."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Cromwell European Real Estate Investment Trust — Section 13(12) Exemption) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

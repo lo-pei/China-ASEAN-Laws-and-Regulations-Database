@@ -1,7 +1,7 @@
 {
  "id": "PH-H4633",
  "title": {
-  "zh": null,
+  "zh": "1959 年公务员法",
   "en": "Civil Service Act of 1959",
   "orig": "An Act to Amend Certain Sections of Republic Act Numbered Two Thousand Two Hundred and Sixty, Known as the \"Civil Service Act of 1959\"."
  },
@@ -240,5 +240,13 @@
     "en": "This Act shall take effect upon its approval: Provided, however , That except as otherwise provided in this Act, rights or privileges vested or acquired under any prior law, rules and regulations, shall remain in force and effect.\nApproved: August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Civil Service Act of 1959",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

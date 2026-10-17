@@ -1,7 +1,7 @@
 {
  "id": "PH-H7726",
  "title": {
-  "zh": null,
+  "zh": "通过整合 Sogod 市镇南莱特科学技术国立学院与 Tomas Oppus 市镇 Tomas Oppus 师范学院设立南莱特国立大学，拨款并为其他目的法案",
   "en": "An act establishing the Southern Leyte State University by integrating the Southern Leyte State College of Science and Technology in the Municipality of Sogod and the Tomas Oppus Normal College in the Municipality of Tomas Oppus, both located in the Province of Southern Leyte, appropriating funds therefor and for other purposes",
   "orig": "An act establishing the Southern Leyte State University by integrating the Southern Leyte State College of Science and Technology in the Municipality of Sogod and the Tomas Oppus Normal College in the Municipality of Tomas Oppus, both located in the Province of Southern Leyte, appropriating funds therefor and for other purposes"
  },
@@ -270,5 +270,13 @@
     "en": "Effectively. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act establishing the Southern Leyte State University by integrating the Southern Leyte State College of Science and Technology in the Municipality of Sogod and the Tomas Oppus Normal College in the Municipality of Tomas Oppus, both located in the Province of Southern Leyte, appropriating funds therefor and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

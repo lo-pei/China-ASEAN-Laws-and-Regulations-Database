@@ -1,7 +1,7 @@
 {
  "id": "PH-H7800",
  "title": {
-  "zh": null,
+  "zh": "授予Mahmoud A. M. Asfour菲律宾国籍并使其成为菲律宾公民的法案",
   "en": "An Act Granting Philippine Citizenship to Mahmoud A. M. Asfour",
   "orig": "An Act Granting Philippine Citizenship to Mahmoud A. M. Asfour"
  },
@@ -60,5 +60,13 @@
     "en": "this Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in at least two national newspaper circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Philippine Citizenship to Mahmoud A. M. Asfour",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

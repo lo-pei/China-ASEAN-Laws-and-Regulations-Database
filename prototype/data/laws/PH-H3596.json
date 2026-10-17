@@ -1,7 +1,7 @@
 {
  "id": "PH-H3596",
  "title": {
-  "zh": null,
+  "zh": "修订第3101号共和国法D目莱特项第213页第29款第17项的法案",
   "en": "An Act to Amend Item 17, Page 213, Paragraph 29, Leyte, Title D of Republic Act Numbered Thirty-One Hundred One",
   "orig": "An Act to Amend Item 17, Page 213, Paragraph 29, Leyte, Title D of Republic Act Numbered Thirty-One Hundred One"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Item 17, Page 213, Paragraph 29, Leyte, Title D of Republic Act Numbered Thirty-One Hundred One",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

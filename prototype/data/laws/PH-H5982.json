@@ -1,7 +1,7 @@
 {
  "id": "PH-H5982",
  "title": {
-  "zh": null,
+  "zh": "重构遗产税与赠与税，为此修订经修正的《国家国内税收法典》中关于转让税的第 77、79（A）、83（B）与 92（A）及（B）条的法案",
   "en": "An Act Restructuring the Estate and Donor's Taxes, Amending For the Purpose Sections 77, 79(A), 83(B) and 92(A) and (B) on Transfer Taxes of the National Internal Revenue Code, As Amended",
   "orig": "An Act Restructuring the Estate and Donor's Taxes, Amending For the Purpose Sections 77, 79(A), 83(B) and 92(A) and (B) on Transfer Taxes of the National Internal Revenue Code, As Amended"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Restructuring the Estate and Donor's Taxes, Amending For the Purpose Sections 77, 79(A), 83(B) and 92(A) and (B) on Transfer Taxes of the National Internal Revenue Code, As Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H819",
  "title": {
-  "zh": null,
+  "zh": "消费者保护（商品说明与安全要求）法 1975",
   "en": "Consumer Protection (Trade Descriptions and Safety Requirements) Act 1975",
   "orig": null
  },
@@ -560,5 +560,11 @@
     "en": "THE SCHEDULE\nSections 2(2) and 13\nSpecified laws\n1. Sale of Food Act 1973.\n2. Health Products Act 2007.\n3. Electric Vehicles Charging Act 2022.\n[S 796/2023 wef 08/12/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Consumer Protection (Trade Descriptions and Safety Requirements) Act 1975",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

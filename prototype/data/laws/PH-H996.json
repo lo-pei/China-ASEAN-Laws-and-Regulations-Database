@@ -1,7 +1,7 @@
 {
  "id": "PH-H996",
  "title": {
-  "zh": null,
+  "zh": "设立为雇员提供疾病、失业、退休、残疾与死亡给付的社会保障系统的法案",
   "en": "An Act to Create a Social Security System Providing Sickness, Unemployment, Retirement, Disability and Death Benefits for Employees",
   "orig": "An Act to Create a Social Security System Providing Sickness, Unemployment, Retirement, Disability and Death Benefits for Employees"
  },
@@ -360,5 +360,13 @@
     "en": "Effectivity. — This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Create a Social Security System Providing Sickness, Unemployment, Retirement, Disability and Death Benefits for Employees",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

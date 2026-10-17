@@ -1,7 +1,7 @@
 {
  "id": "PH-H6141",
  "title": {
-  "zh": null,
+  "zh": "进一步理顺文件印花税的结构与管理、为此修订经修正的国家国内税收法典若干条款、为特定项目分配资金并为其他目的法案",
   "en": "An Act Rationalizing Further the Structure and Administration of the Documentary Stamp Tax, Amending for the Purpose Certain Provisions of the National Internal Revenue Code, as Amended, Allocating Funds for Specific Programs, and for Other Purposes",
   "orig": "An Act Rationalizing Further the Structure and Administration of the Documentary Stamp Tax, Amending for the Purpose Certain Provisions of the National Internal Revenue Code, as Amended, Allocating Funds for Specific Programs, and for Other Purposes"
  },
@@ -300,5 +300,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazzette or in at least two (2) national newspapers of general circulation whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Rationalizing Further the Structure and Administration of the Documentary Stamp Tax, Amending for the Purpose Certain Provisions of the National Internal Revenue Code, as Amended, Allocating Funds for Specific Programs, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4295",
  "title": {
-  "zh": null,
+  "zh": "规定总统与副总统选票统计程序，为此修订第180号共和国法（经修正，即修订选举法典）",
   "en": "An Act Providing for the Procedure in the Canvass of Votes Cast for President and Vice-President, Amending for This Purpose Republic Act Numbered One Hundred and Eighty, as Amended, Otherwise Known as the Revised Election Code",
   "orig": "An Act Providing for the Procedure in the Canvass of Votes Cast for President and Vice-President, Amending for This Purpose Republic Act Numbered One Hundred and Eighty, as Amended, Otherwise Known as the Revised Election Code"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Procedure in the Canvass of Votes Cast for President and Vice-President, Amending for This Purpose Republic Act Numbered One Hundred and Eighty, as Amended, Otherwise Known as the Revised Election Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5467",
  "title": {
-  "zh": null,
+  "zh": "小企业大宪章",
   "en": "Magna Carta for Small Enterprises",
   "orig": "Magna Carta for Small Enterprises An Act to Promote, Develop and Assist Small and Medium Scale Enterprises Through the Creation of a Small and Medium Enterprise Development (Smed) Council, and the Rationalization of Government Assistance Programs and Agencies concerned with the Development of Small and Medium Enterprises, and for other Purposes"
  },
@@ -246,5 +246,13 @@
     "en": "Effectivity. — This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Magna Carta for Small Enterprises",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

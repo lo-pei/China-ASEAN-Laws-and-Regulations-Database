@@ -1,7 +1,7 @@
 {
  "id": "PH-H5130",
  "title": {
-  "zh": null,
+  "zh": "授予 Philippine Racing Club 公司在黎刹省运营和维护赛马场的特许经营权法案",
   "en": "An Act Granting the Philippine Racing Club, Inc., a Franchise to Operate and Maintain a Race Track for Horse Racing in the Province of Rizal.",
   "orig": "An Act Granting the Philippine Racing Club, Inc., a Franchise to Operate and Maintain a Race Track for Horse Racing in the Province of Rizal."
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Philippine Racing Club, Inc., a Franchise to Operate and Maintain a Race Track for Horse Racing in the Province of Rizal.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

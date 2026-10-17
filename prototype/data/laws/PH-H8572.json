@@ -1,7 +1,7 @@
 {
  "id": "PH-H8572",
  "title": {
-  "zh": null,
+  "zh": "将南三宝颜省Aurora市镇Balide描笼涯的Commonwealth国立中学（Aurora国立中学）附属校分离出来，单独改设为独立的Aurora国立中学，并为此拨付所需经费",
   "en": "An Act Separating the Commonwealth National High School \"Aurora National High School\" Annex in Barangay Balide, Municipality of Aurora, Province of Zamboanga Del Sur From the Commonwealth National High School, Converting It Into an Independent National High School to be Known as Aurora National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Commonwealth National High School \"Aurora National High School\" Annex in Barangay Balide, Municipality of Aurora, Province of Zamboanga Del Sur From the Commonwealth National High School, Converting It Into an Independent National High School to be Known as Aurora National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. - This Act (shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Commonwealth National High School \"Aurora National High School\" Annex in Barangay Balide, Municipality of Aurora, Province of Zamboanga Del Sur From the Commonwealth National High School, Converting It Into an Independent National High School to be Known as Aurora National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

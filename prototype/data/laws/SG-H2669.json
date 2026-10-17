@@ -1,7 +1,7 @@
 {
  "id": "SG-H2669",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 14 号）命令 2025",
   "en": "Infrastructure Protection (Protected Places) (No. 14) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nChief Executive Officer,\nNTT Singapore Pte Ltd\nNTT UBI STRONG ROOM (LEVEL 3), 50 UBI CRESCENT 01‑05 (LEVEL 3), SINGAPORE 408568\nAll that area comprised in part of Lot U20422L in Mukim No. 23 occupied by “NTT UBI STRONG ROOM (LEVEL 3), 50 UBI CRESCENT 01‑05 (LEVEL 3), SINGAPORE 408568” containing an area of about 46.5 square metres and bounded approximately as follows:\nCommencing at a point 34,385.094 metres North and 35,030.350 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n34,385.094\n35,030.350\n34,382.630\n35,023.936\n34,376.608\n35,026.252\n34,376.705\n35,026.517\n34,376.392\n35,026.636\n34,378.746\n35,032.761\nto the point of commencement.\nThe boundaries of “NTT UBI STRONG ROOM (LEVEL 3), 50 UBI CRESCENT 01‑05 (LEVEL 3), SINGAPORE 408568” are more particularly delineated in the Survey Plan No.00050‑2025‑L‑1290‑GZ01‑L03 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 14) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

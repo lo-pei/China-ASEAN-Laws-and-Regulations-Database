@@ -1,7 +1,7 @@
 {
  "id": "PH-H9233",
  "title": {
-  "zh": null,
+  "zh": "在巴科洛德市设立证券交易委员会（SEC）办事处并为其拨款的法案",
   "en": "An Act Establishing a Securities and Exchange Commission (SEC) Office in Bacolod City and Approriating Funds Therefor",
   "orig": "An Act Establishing a Securities and Exchange Commission (SEC) Office in Bacolod City and Approriating Funds Therefor"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity Clause. — This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Securities and Exchange Commission (SEC) Office in Bacolod City and Approriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

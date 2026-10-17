@@ -1,7 +1,7 @@
 {
  "id": "PH-H5469",
  "title": {
-  "zh": null,
+  "zh": "将连接 Ormoc 市与莱特省 Merida 市镇的公路命名为参议员 Rafael C. Martinez 纪念公路的法案",
   "en": "An Act Naming the Highway Connecting Ormoc City to the Municipality of Merida, Province of Leyte, as the Senator Rafael C. Martinez Memorial Highway",
   "orig": "An Act Naming the Highway Connecting Ormoc City to the Municipality of Merida, Province of Leyte, as the Senator Rafael C. Martinez Memorial Highway"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Highway Connecting Ormoc City to the Municipality of Merida, Province of Leyte, as the Senator Rafael C. Martinez Memorial Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

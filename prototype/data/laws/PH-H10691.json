@@ -1,7 +1,7 @@
 {
  "id": "PH-H10691",
  "title": {
-  "zh": null,
+  "zh": "规定菲律宾和平利用核能中的核安全、核安保与核保障综合法律框架，设立菲律宾原子能监管局，并为此拨款的法案",
   "en": "Providing for a Comprehensive Legal Framework for Nuclear Safety, Security, and Safeguards in the Peaceful Utilization of Nuclear Energy in the Philippines. Establishing the Philippine Atomic Energy Regulatory Authority, and Appropriating Funds Therefor",
   "orig": "Providing for a Comprehensive Legal Framework for Nuclear Safety, Security, and Safeguards in the Peaceful Utilization of Nuclear Energy in the Philippines. Establishing the Philippine Atomic Energy Regulatory Authority, and Appropriating Funds Therefor"
  },
@@ -640,5 +640,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Providing for a Comprehensive Legal Framework for Nuclear Safety, Security, and Safeguards in the Peaceful Utilization of Nuclear Energy in the Philippines. Establishing the Philippine Atomic Energy Regulatory Authority, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

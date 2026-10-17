@@ -1,7 +1,7 @@
 {
  "id": "SG-H883",
  "title": {
-  "zh": null,
+  "zh": "COVID-19（临时措施）（规定期间延长）（第 2 号）命令 2020",
   "en": "COVID-19 (Temporary Measures) (Extension of Prescribed Period) (No. 2) Order 2020",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) The prescribed period as it applies to the following descriptions of scheduled contracts in Part 2 of the Act is extended by a period starting on 20 November 2020 and ending on 31 December 2020:\n(a)an event contract;\n(b)a tourism‑related contract.\n(2) The prescribed period as it applies to the following descriptions of scheduled contracts in Part 2 of the Act is extended by a period starting on 20 November 2020 and ending on 31 January 2021:\n(a)a hire‑purchase agreement or conditional sale agreement as defined under the Hire‑Purchase Act (Cap. 125), where the good hired or conditionally sold under the agreement is —\n(i)any plant, machinery or fixed asset located in Singapore, where such plant, machinery or fixed asset is used for manufacturing, production or other business purposes; or\n(ii)a commercial vehicle,\nbut does not include an agreement that is entered into with a bank licensed under the Banking Act (Cap. 19) or a finance company licensed under the Finance Companies Act (Cap. 108);\n(b)a lease of —\n(i)any plant, machinery or fixed asset located in Singapore, where such plant, machinery or fixed asset is used for manufacturing, production or other business purposes; or\n(ii)a commercial vehicle, except —\n(A)a private hire car as described in the Second Schedule to the Road Traffic Act (Cap. 276); and\n(B)a taxi as described in the Second Schedule to the Road Traffic Act.\n(3) The prescribed period as it applies to the following descriptions of scheduled contracts in Part 2 of the Act is extended by a period starting on 20 November 2020 and ending on 31 March 2021:\n(a)a construction contract or supply contract;\n(b)a performance bond or equivalent that is granted pursuant to a construction contract or supply contract;\n(c)an option given by a housing developer to an intending purchaser for the purchase of one or more units of housing accommodation;\n(d)an agreement between a housing developer and a purchaser for the sale and purchase of one or more units of housing accommodation;\n(e)an option given by a commercial developer to an intending purchaser for the purchase of one or more units of commercial property;\n(f)an agreement between a commercial developer and a purchaser for the sale and purchase of one or more units of commercial property.\n(4) In this paragraph, “commercial developer”, “commercial property”, “commercial vehicle”, “housing accommodation”, “housing developer” and “unit” have the meanings given by paragraph 2 of the Schedule to the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "COVID-19 (Temporary Measures) (Extension of Prescribed Period) (No. 2) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

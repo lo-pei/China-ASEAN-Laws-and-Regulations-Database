@@ -1,7 +1,7 @@
 {
  "id": "SG-H431",
  "title": {
-  "zh": null,
+  "zh": "终身护保与长期护理（第 6(1)(c)(ii) 条规定期间）命令 2021",
   "en": "CareShield Life and Long-Term Care (Prescribed Period under Section 6(1)(c)(ii)) Order 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 6(1)(c)(ii) of the Act, the prescribed period is between 1 January 1970 and 31 December 1979 (both dates inclusive)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "CareShield Life and Long-Term Care (Prescribed Period under Section 6(1)(c)(ii)) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

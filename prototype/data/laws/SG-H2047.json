@@ -1,7 +1,7 @@
 {
  "id": "SG-H2047",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国所得豁免）（第 3 号）命令 2002",
   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2002",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The Income Tax (Exemption of Foreign Income) Order 2001 (G.N. No. S 403/2001) is revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

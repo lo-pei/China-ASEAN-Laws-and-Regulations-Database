@@ -1,7 +1,7 @@
 {
  "id": "PH-H7474",
  "title": {
-  "zh": null,
+  "zh": "加强自由、有序、诚实、和平与可信选举举办的法案",
   "en": "An Act to Enhance the Holding of Free, Orderly, Honest, Peaceful and Credible Election",
   "orig": "An Act to Enhance the Holding of Free, Orderly, Honest, Peaceful and Credible Election"
  },
@@ -200,5 +200,13 @@
     "en": "Effectivity. – This Act shall take effect immediately upon its approval.\nApproved: February 12, 2001"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Enhance the Holding of Free, Orderly, Honest, Peaceful and Credible Election",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

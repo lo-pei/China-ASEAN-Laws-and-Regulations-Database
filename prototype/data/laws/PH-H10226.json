@@ -1,7 +1,7 @@
 {
  "id": "PH-H10226",
  "title": {
-  "zh": null,
+  "zh": "将南拉瑙省马拉维市—卡帕伊—塔戈洛安第二公路（经邦戈洛波布拉西翁、卡帕伊与塔戈洛安第二）更名为Ahmad Domocao Alangadi Alonto Sr.参议员国家公路的法案",
   "en": "An Act Renaming the Marawi City-Kapai-Tagoloan II Lanao Del Sur Road, Stretching From Barangay Banggolo Poblacion in the City of Marawi, and Traversing Through the Municipalities of Kapai and Tagoloan II, All in the Province of Lanao Del Sur, as Senator Ahmad Domocao Alangadi Alonto Sr. National Road",
   "orig": "An Act Renaming the Marawi City-Kapai-Tagoloan II Lanao Del Sur Road, Stretching From Barangay Banggolo Poblacion in the City of Marawi, and Traversing Through the Municipalities of Kapai and Tagoloan II, All in the Province of Lanao Del Sur, as Senator Ahmad Domocao Alangadi Alonto Sr. National Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Marawi City-Kapai-Tagoloan II Lanao Del Sur Road, Stretching From Barangay Banggolo Poblacion in the City of Marawi, and Traversing Through the Municipalities of Kapai and Tagoloan II, All in the Province of Lanao Del Sur, as Senator Ahmad Domocao Alangadi Alonto Sr. National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

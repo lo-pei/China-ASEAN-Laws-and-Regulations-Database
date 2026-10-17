@@ -1,7 +1,7 @@
 {
  "id": "PH-H224",
  "title": {
-  "zh": null,
+  "zh": "废止第2472号法第21条（即《蝗虫法》）的法案",
   "en": "An Act to Repeal Section Twenty-One of Act Numbered Twenty-Four Hundred and Seventy-Two, Otherwise Known as the Locust Act",
   "orig": "An Act to Repeal Section Twenty-One of Act Numbered Twenty-Four Hundred and Seventy-Two, Otherwise Known as the Locust Act"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Repeal Section Twenty-One of Act Numbered Twenty-Four Hundred and Seventy-Two, Otherwise Known as the Locust Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

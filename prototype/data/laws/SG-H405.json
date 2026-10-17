@@ -1,7 +1,7 @@
 {
  "id": "SG-H405",
  "title": {
-  "zh": null,
+  "zh": "商业名称注册（注册豁免）条例 2015",
   "en": "Business Names Registration (Exemption from Registration) Regulations 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following persons are exempt from the requirement to register under the Act:\n(a)any individual licensed under section 33 or 34 of the Environmental Public Health Act 1987;\n(b)the Multilateral Investment Guarantee Agency established under the Convention Establishing the Multilateral Investment Guarantee Agency."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Business Names Registration (Exemption from Registration) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

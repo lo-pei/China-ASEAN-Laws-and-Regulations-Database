@@ -1,7 +1,7 @@
 {
  "id": "PH-H8542",
  "title": {
-  "zh": null,
+  "zh": "将南伊罗戈省 Candon 市北菲律宾大学 Candon 分校从 Vigan 市北菲律宾大学分离，改设为国立学院，名称为北吕宋菲律宾国立学院，并为此拨款的法案",
   "en": "An Act Separating the University of Northern Philippines (Unp) - Candon Branch (Formerly Candon Community College) in the City of Candon, From the University of Northern Philippines in the City of Vigan, Both Located in the Province of Ilocos Sur, Converting It Into a State College to Be Known as The North Luzon Philippines State College and Appropriating Funds Therefor",
   "orig": "An Act Separating the University of Northern Philippines (Unp) - Candon Branch (Formerly Candon Community College) in the City of Candon, From the University of Northern Philippines in the City of Vigan, Both Located in the Province of Ilocos Sur, Converting It Into a State College to Be Known as The North Luzon Philippines State College and Appropriating Funds Therefor"
  },
@@ -320,5 +320,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the University of Northern Philippines (Unp) - Candon Branch (Formerly Candon Community College) in the City of Candon, From the University of Northern Philippines in the City of Vigan, Both Located in the Province of Ilocos Sur, Converting It Into a State College to Be Known as The North Luzon Philippines State College and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

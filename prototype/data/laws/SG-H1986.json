@@ -1,7 +1,7 @@
 {
  "id": "SG-H1986",
  "title": {
-  "zh": null,
+  "zh": "所得税（数字核心房地产投资信托—第13(12)条豁免）命令 2026",
   "en": "Income Tax (Digital Core REIT — Section 13(12) Exemption) Order 2026",
   "orig": null
  },
@@ -77,5 +77,11 @@
     "en": "3.—(1) Dividend or distribution income described in sub‑paragraph (2) received in Singapore by Digital CR Singapore 3 Pte. Ltd. (a company incorporated in Singapore) on or after 1 January 2022 from Digital Gough, LLC (a limited liability company constituted under the laws of the State of Delaware, United States of America), is exempt from tax.\n(2) The exemption in sub-paragraph (1) applies only if the monies used to fund the dividend or distribution income originated from —\n(a)any rental income, or property-related income (including capital gain derived from divestment of property), from the property named “371 Gough Road”, located at 371 Gough Road, Markham, Ontario, Canada, L3R 4B6; or\n(b)any gain from the disposal of any ownership interest in Digital Toronto Nominee Inc. (a company incorporated under the laws of the Province of British Columbia, Canada).\n(3) The exemption in sub-paragraph (1) is subject to the conditions specified in the letter from the Inland Revenue Authority of Singapore dated 9 February 2026 that is issued on behalf of the Minister for Finance and addressed to EY Corporate Advisors Pte. Ltd. as tax agent for Perpetual (Asia) Limited in its capacity as trustee of Digital Core REIT and Digital CR Singapore 3 Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Income Tax (Digital Core REIT — Section 13(12) Exemption) Order 2026",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H514",
  "title": {
-  "zh": null,
+  "zh": "修订第330号共和国法第1、2、7条的法案",
   "en": "An Act to Amend Sections One, Two and Seven of Republic Act Numbered Three Hundred Thirty",
   "orig": "An Act to Amend Sections One, Two and Seven of Republic Act Numbered Three Hundred Thirty"
  },
@@ -80,5 +80,13 @@
     "en": "This Act and the rules and regulations promulgated heretofore under Republic Act Numbered Three hundred thirty shall take effect on December thirty-one nineteen hundred and forty-nine.\nApproved: January 6, 195"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections One, Two and Seven of Republic Act Numbered Three Hundred Thirty",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H8111",
  "title": {
-  "zh": null,
+  "zh": "对特定住宅单元租金监管进行改革、规定相关机制并为其他目的法案",
   "en": "An Act Establishing Reforms in the Regulation of Rent of Certain Residential Units, Providing the Mechanisms therefor and for Other Purposes",
   "orig": "An Act Establishing Reforms in the Regulation of Rent of Certain Residential Units, Providing the Mechanisms therefor and for Other Purposes"
  },
@@ -230,5 +230,13 @@
     "en": "Effectivity Clause. - This Act shall take effect beginning fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing Reforms in the Regulation of Rent of Certain Residential Units, Providing the Mechanisms therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

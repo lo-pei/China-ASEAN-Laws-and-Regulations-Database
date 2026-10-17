@@ -1,7 +1,7 @@
 {
  "id": "PH-H8804",
  "title": {
-  "zh": null,
+  "zh": "通过修订第 8424 号共和国法（即 1997 年国家国内税收法典）第 141 至 145 条及第 8、131、288 条，重组烟酒产品消费税并为其他目的法案",
   "en": "An Act Restructuring the Excise Tax on Alcohol and Tobacco Products by Amending Sections 141, 142, 143, 144, 145, 8, 131 and 288 of Republic Act No. 8424. Otherwise Known as the National Internal Revenue Code of 1997, as Amended by Republic Act No. 9334, and for Other Purposes",
   "orig": "An Act Restructuring the Excise Tax on Alcohol and Tobacco Products by Amending Sections 141, 142, 143, 144, 145, 8, 131 and 288 of Republic Act No. 8424. Otherwise Known as the National Internal Revenue Code of 1997, as Amended by Republic Act No. 9334, and for Other Purposes"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity. – This Act shall take effect upon its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Restructuring the Excise Tax on Alcohol and Tobacco Products by Amending Sections 141, 142, 143, 144, 145, 8, 131 and 288 of Republic Act No. 8424. Otherwise Known as the National Internal Revenue Code of 1997, as Amended by Republic Act No. 9334, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

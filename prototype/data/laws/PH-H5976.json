@@ -1,7 +1,7 @@
 {
  "id": "PH-H5976",
  "title": {
-  "zh": null,
+  "zh": "将北伊罗戈省San Nicolas市镇的Filipinas国立中学重新命名为San Nicolas国立中学并为其他目的法案",
   "en": "An Act Renaming the Filipinas National High School in the Municipality of San Nicolas, Province of Ilocos Norte, As the San Nicolas National High School, and For Other Purposes",
   "orig": "An Act Renaming the Filipinas National High School in the Municipality of San Nicolas, Province of Ilocos Norte, As the San Nicolas National High School, and For Other Purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Filipinas National High School in the Municipality of San Nicolas, Province of Ilocos Norte, As the San Nicolas National High School, and For Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

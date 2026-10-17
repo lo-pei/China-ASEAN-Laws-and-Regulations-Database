@@ -1,7 +1,7 @@
 {
  "id": "PH-H7072",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省 Cauayan 市镇的 Poblacion 附属班从 Guiljungan 描笼涯中学分离，改设为以该市镇命名的国立中学并拨款",
   "en": "An Act Providing for the Separation of the Poblacion Extension Class Located in the Municipality of Cauayan, Province of Negros Occidental, From the Guiljungan Barangay High School, to Be Known as the Cauayan National High School, and Appropriating Funds Therefor",
   "orig": "An Act Providing for the Separation of the Poblacion Extension Class Located in the Municipality of Cauayan, Province of Negros Occidental, From the Guiljungan Barangay High School, to Be Known as the Cauayan National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Separation of the Poblacion Extension Class Located in the Municipality of Cauayan, Province of Negros Occidental, From the Guiljungan Barangay High School, to Be Known as the Cauayan National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

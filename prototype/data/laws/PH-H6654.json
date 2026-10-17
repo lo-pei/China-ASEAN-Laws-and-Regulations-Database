@@ -1,7 +1,7 @@
 {
  "id": "PH-H6654",
  "title": {
-  "zh": null,
+  "zh": "更改穆斯林棉兰老自治区民选官员的选举日期，为此修订第7647号共和国法（即《规定穆斯林棉兰老自治区区域总督、区域副总督与区域立法议会议员定期选举日期法》）第1条的法案",
   "en": "An Act Changing the Date of Elections for the Elective Officials of the Autonomous Region for Muslim Mindanao, Amending for the Purpose Section One of Republic Act Numbered Seventy-six Hundred and Fortyseven Entitled \"An Act Providing for the Date of Regular Elections for Regional Governor, Regional Vice-governor and Members of the Regional Legislative Assembly of the Autonomous Region in Muslim Mindanao And",
   "orig": "An Act Changing the Date of Elections for the Elective Officials of the Autonomous Region for Muslim Mindanao, Amending for the Purpose Section One of Republic Act Numbered Seventy-six Hundred and Fortyseven Entitled \"An Act Providing for the Date of Regular Elections for Regional Governor, Regional Vice-governor and Members of the Regional Legislative Assembly of the Autonomous Region in Muslim Mindanao And"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H6654-A1_2",
+   "id": "PH-H6654-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The regular elections for regional governor, regional vice-governor and members of the Regional Legislative Assembly of the Autonomous Region in Muslim Mindanao, shall be held on the second Monday of March, 1993 and every three (3) years thereafter. Their terms of office shall commence at noon of the thirty-first of March next following their election and shall expire at noon of the thirty-first of March three years thereafter pursuant to Republic Act numbered six thousand seven hundred thirty-four, otherwise known as the Organic Act for the Autonomous Region in Muslim Mindanao. However, for the year nineteen hundred and ninety-six, the elections for regional governor, regional vice-governor and members of the Regional Legislative Assembly shall be held on September 9, 1996. The regional governor, regional vice-governor and the members of the Regional Legislative Assembly elected in nineteen hundred and ninety-six shall assume office at twelve o'clock noon on the thirtieth day of September next following their election: Provided, That the incumbent regional governor, regional vice-governor and the members of the Regional Legislative Assembly shall continue in office in a hold-over capacity until their successors shall have been duly elected and qualified unless they file their certificates of candidacy for any elective position therein, in which case, they shall ipso facto be considered resigned from their office: Provided, further , That while acting in a hold-over or appointive capacity, the regional governor and vice-governor shall not make appointments, including promotions, transfers and/or assignments of personnel and shall be subject to all the restrictions and/or prohibitions mandated by Section 261 of the Omnibus Election Code more particularly, but not limited to, paragraphs (g); (h); (k); (m); (o); (r); (u); (v); (w); and (x) of said section.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6654-A2",
@@ -80,5 +81,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Date of Elections for the Elective Officials of the Autonomous Region for Muslim Mindanao, Amending for the Purpose Section One of Republic Act Numbered Seventy-six Hundred and Fortyseven Entitled \"An Act Providing for the Date of Regular Elections for Regional Governor, Regional Vice-governor and Members of the Regional Legislative Assembly of the Autonomous Region in Muslim Mindanao And",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

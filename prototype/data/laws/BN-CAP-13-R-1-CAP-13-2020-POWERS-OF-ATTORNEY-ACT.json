@@ -1,0 +1,75 @@
+{
+ "id": "BN-CAP-13-R-1-CAP-13-2020-POWERS-OF-ATTORNEY-ACT",
+ "title": {
+  "zh": "R 1 第 13 章 2020 版授权书法",
+  "en": "R 1 CAP 13 2020 ED POWERS OF ATTORNEY ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p19",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 559,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-13-R-1-CAP-13-2020-ED-POWERS-OF-ATTORNEY-ACT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-13-R-1-CAP-13-2020-ED-POWERS-OF-ATTORNEY-ACT.pdf》（5 页），本次切分 2 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-13-R-1-CAP-13-2020-POWERS-OF-ATTORNEY-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "These Regulations may be cited as the Powers of Attorney (Fees) Regulations. Fees"
+   }
+  },
+  {
+   "id": "BN-CAP-13-R-1-CAP-13-2020-POWERS-OF-ATTORNEY-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The fees to be paid in respect of proceedings under the Act shall be as set out in the Schedule.\n\nSCHEDULE (regulation 2) FEES Subject of proceedings Amount\n\n(a) Deposit of any instrument or copy of an instrument as is $50 referred to in section 3(1)\n\n(b) For inspection and search of the register under $3 section 8(2), for every quarter of an hour\n\n(c) For office copy of any document deposited $10\n\n(d) For searches conducted under section 10, for every quarter $3 of an hour"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 1 CAP 13 2020 ED POWERS OF ATTORNEY ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

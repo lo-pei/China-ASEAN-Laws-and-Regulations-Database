@@ -1,7 +1,7 @@
 {
  "id": "SG-H1455",
  "title": {
-  "zh": null,
+  "zh": "引渡（英联邦领地）宣告 2007",
   "en": "Extradition (Commonwealth Territories) Declaration 2007",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraphs 2 and 3\nAustralia\nBahamas\nBarbados\nBelize\nBermuda\nBotswana\nBritish Indian Ocean Territory\nCanada\nCyprus\nFalkland Islands\nFiji\nGambia\nGhana\nGibraltar\nIndia\nJamaica\nKenya\nKiribati\nLesotho\nMalawi\nMalta\nMauritius\nNew Zealand\nNigeria\nPakistan\nPapua New Guinea\nPitcairn Islands\nSeychelles\nSierra Leone\nSri Lanka\nSt. Helena and dependencies\nTonga\nTrinidad and Tobago\nTuvalu\nUganda\nUnited Kingdom of Great Britain and Northern Ireland, the Channel Islands and Isle of Man\nUnited Republic of Tanzania\nVanuatu\nVirgin Islands\nZambia"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Extradition (Commonwealth Territories) Declaration 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

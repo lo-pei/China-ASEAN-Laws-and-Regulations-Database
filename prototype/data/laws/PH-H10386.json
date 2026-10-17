@@ -1,7 +1,7 @@
 {
  "id": "PH-H10386",
  "title": {
-  "zh": null,
+  "zh": "将宿务第一、第二、第三与第四区工程办公室重新编号，使之与宿务省各立法选区编号相对应，为此废止第 9043 号与第 9218 号共和国法",
   "en": "An Act Re-numbering the Cebu First, Second, Third and Fourth District Engineering Offices to Conform and Correspond, Respectively, With the Numbering of the Legislative Districts in the Province of Cebu Thereby Repealing Republic Acts Numbered 9043 and 9218",
   "orig": "An Act Re-numbering the Cebu First, Second, Third and Fourth District Engineering Offices to Conform and Correspond, Respectively, With the Numbering of the Legislative Districts in the Province of Cebu Thereby Repealing Republic Acts Numbered 9043 and 9218"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Re-numbering the Cebu First, Second, Third and Fourth District Engineering Offices to Conform and Correspond, Respectively, With the Numbering of the Legislative Districts in the Province of Cebu Thereby Repealing Republic Acts Numbered 9043 and 9218",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

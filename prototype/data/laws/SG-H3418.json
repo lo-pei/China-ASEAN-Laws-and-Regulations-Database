@@ -1,7 +1,7 @@
 {
  "id": "SG-H3418",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11 (3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n1. Accountants Act (Chapter 2)\n2. Agri-food and Veterinary Authority Act (Chapter 5)\n3. Carriage by Air Act (Chapter 32A)\n4. Central Provident Fund Act (Chapter 36)\n5. Chemical Weapons (Prohibition) Act (Chapter 37B)\n6. Children and Young Persons Act (Chapter 38)\n7. Compulsory Education Act (Chapter 51)\n8. Defence Science and Technology Agency Act (Chapter 75A)\n9. Developmental Investment Fund Act (Chapter 79)\n10. Enlistment Act (Chapter 93)\n11. Income Tax Act (Chapter 134)\n12. Legal Profession Act (Chapter 161)\n13. Medical and Elderly Care Endowment Schemes Act (Chapter 173A)\n14. Mutual Assistance in Criminal Matters Act (Chapter 190A)\n15. Oaths and Declarations Act (Chapter 211)\n16. Political Donations Act (Chapter 236)\n17. Registered Designs Act (Chapter 266)\n18. Sewerage and Drainage Act (Chapter 294)\n19. Singapore Management University Act (Chapter 302A)\n20. Traditional Chinese Medicine Practitioners Act (Chapter 333A).\n[G.N. No. S 640/2001]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11 (3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

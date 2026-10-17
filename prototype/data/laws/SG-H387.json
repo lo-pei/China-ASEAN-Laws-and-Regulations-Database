@@ -1,7 +1,7 @@
 {
  "id": "SG-H387",
  "title": {
-  "zh": null,
+  "zh": "建筑维护与分层管理（分层单位）条例 2005",
   "en": "Building Maintenance and Strata Management (Strata Units) Regulations 2005",
   "orig": null
  },
@@ -126,5 +126,13 @@
     "en": "THE SCHEDULE\nRegulation 4(1)\nFiling fees\nFirst column\nSecond column\n1.Schedule for any development without limited common property —\n(a)a mixed‑use development\n$40 per lot or proposed lot within the development or $6,000, whichever is higher\n(b)any other development\n$20 per lot or proposed lot within the development or $3,000, whichever is higher\n2.Schedule for any development with limited common property —\n(a)a mixed‑use development\n$60 per lot or proposed lot within the development or $9,000, whichever is higher\n(b)any other development\n$30 per lot or proposed lot within the development or $4,500, whichever is higher\n3.Amended schedule for any development (with or without limited common property) —\n(a)a mixed-use development\n$2,000 per amended schedule\n(b)any other development\n$1,000 per amended schedule\n4.Schedule or amended schedule for any redevelopment (with or without limited common property) under section 12 of the Land Titles (Strata) Act (Cap. 158) involving subdivision or amalgamation of any lot\n$1,500 per schedule or amended schedule\n[S 782/2018 wef 01/02/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Maintenance and Strata Management (Strata Units) Regulations 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

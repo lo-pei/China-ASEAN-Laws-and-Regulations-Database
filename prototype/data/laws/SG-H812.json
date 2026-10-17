@@ -1,7 +1,7 @@
 {
  "id": "SG-H812",
  "title": {
-  "zh": null,
+  "zh": "消费者保护（消费品安全要求）条例 2011",
   "en": "Consumer Protection (Consumer Goods Safety Requirements) Regulations 2011",
   "orig": null
  },
@@ -100,5 +100,11 @@
     "en": "THE SCHEDULE\nRegulation 2(1)\nGoods Excluded from\nDefinition of “cONSUMER GOODS”\n1. Controlled goods within the meaning of the Consumer Protection (Safety Requirements) Regulations (Rg 1) which are not exempted from those Regulations.\n2. Used or second-hand goods, provided that before supplying the goods, the supplier has informed clearly the person to whom the goods are supplied that the goods are used or second-hand.\n3. Goods produced solely for export, or imported solely for re-export, to any place outside Singapore.\n4. Any goods which are subject to and regulated by the provisions of any of the written laws specified in the Schedule to the Act.\n5. Pesticides and vector repellents, which are regulated under the Control of Vectors and Pesticides Act 1998.\n[S 430/2025 wef 31/12/2021]\n6. Medicinal products which are regulated under the Medicines Act 1975.\n[S 430/2025 wef 31/12/2021]\n7. Motor vehicles, motorcycle helmets and child restraints, which are regulated under the Road Traffic Act 1961.\n[S 430/2025 wef 31/12/2021]\n8. [Deleted by S 429/2024 wef 01/06/2024]\n9. Meat or fish, which are regulated under the Wholesome Meat and Fish Act 1999.\n[S 430/2025 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Consumer Protection (Consumer Goods Safety Requirements) Regulations 2011",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

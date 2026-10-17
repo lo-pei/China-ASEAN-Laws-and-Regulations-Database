@@ -1,7 +1,7 @@
 {
  "id": "PH-H5457",
  "title": {
-  "zh": null,
+  "zh": "将 Los Baños 菲律宾大学 Makiling 山森林保留地的管制、管辖与行政权授予该校的法案",
   "en": "An Act to Vest Control, Jurisdiction and Administration of the Forest Reserve in Mount Makiling in the University of the Philippines in Los Baños",
   "orig": "An Act to Vest Control, Jurisdiction and Administration of the Forest Reserve in Mount Makiling in the University of the Philippines in Los Baños"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Vest Control, Jurisdiction and Administration of the Forest Reserve in Mount Makiling in the University of the Philippines in Los Baños",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

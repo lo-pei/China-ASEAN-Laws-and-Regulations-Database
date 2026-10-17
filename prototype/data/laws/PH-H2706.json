@@ -1,7 +1,7 @@
 {
  "id": "PH-H2706",
  "title": {
-  "zh": null,
+  "zh": "取消对城市中教产买受人设定负担或转让该产业的禁令，并为此修订第32号联邦法（经修正）的法案",
   "en": "An Act Removing the Prohibitions Against the Encumbrance or Alienation of Friar Lands in Cities by Purchasers Thereof, Amending for the Purpose Commonwealth Act Numbered Thirty-Two, as Amended",
   "orig": "An Act Removing the Prohibitions Against the Encumbrance or Alienation of Friar Lands in Cities by Purchasers Thereof, Amending for the Purpose Commonwealth Act Numbered Thirty-Two, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Removing the Prohibitions Against the Encumbrance or Alienation of Friar Lands in Cities by Purchasers Thereof, Amending for the Purpose Commonwealth Act Numbered Thirty-Two, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

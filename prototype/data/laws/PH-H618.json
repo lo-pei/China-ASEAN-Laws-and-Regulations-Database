@@ -1,7 +1,7 @@
 {
  "id": "PH-H618",
  "title": {
-  "zh": null,
+  "zh": "规定在新加坡设立菲律宾兼任领事馆，辖马来西亚联邦、英属北婆罗洲、沙捞越与文莱，总办事处设于新加坡的法案",
   "en": "An Act to Provide for the Establishment of a Concurrent Philippine Consulate in Singapore, Federation of Malaya, British North Borneo, Sarawak and Brunei, With Main Office in Singapore",
   "orig": "An Act to Provide for the Establishment of a Concurrent Philippine Consulate in Singapore, Federation of Malaya, British North Borneo, Sarawak and Brunei, With Main Office in Singapore"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect on July first, nineteen hundred and fifty-one.\nApproved, June 5, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Establishment of a Concurrent Philippine Consulate in Singapore, Federation of Malaya, British North Borneo, Sarawak and Brunei, With Main Office in Singapore",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

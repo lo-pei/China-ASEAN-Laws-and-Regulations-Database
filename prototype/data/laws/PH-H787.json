@@ -1,7 +1,7 @@
 {
  "id": "PH-H787",
  "title": {
-  "zh": null,
+  "zh": "关于将任何个人、公司或社团强行进入或占用公有农地定为违法并予以处罚的法案",
   "en": "An Act Making It Unlawful for Any Person, Corporation or Association to Forcibly Enter or Occupy Public Agricultural Lands and Penalizing Violations Thereof",
   "orig": "An Act Making It Unlawful for Any Person, Corporation or Association to Forcibly Enter or Occupy Public Agricultural Lands and Penalizing Violations Thereof"
  },
@@ -81,5 +81,11 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act Making It Unlawful for Any Person, Corporation or Association to Forcibly Enter or Occupy Public Agricultural Lands and Penalizing Violations Thereof",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

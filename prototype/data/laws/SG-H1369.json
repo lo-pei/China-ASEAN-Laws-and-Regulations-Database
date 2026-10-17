@@ -1,7 +1,7 @@
 {
  "id": "SG-H1369",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（食品卫生）条例",
   "en": "Environmental Public Health (Food Hygiene) Regulations",
   "orig": null
  },
@@ -622,5 +622,13 @@
     "en": "THE SCHEDULE\nRegulation 12(e)\nTemperatures for Storage of Food\nType of food\nTemperature\n(1) Frozen meat\nnot above -12º C\n(2) Ice-cream\nnot above -2º C\n(3) Chilled fresh meat and uncooked fish\nnot below 0º C and not above 4º C\n(4) Thawed frozen meat\nnot below 0º C and not above 4º C\n(5) Dairy products and any other product that is required to be stored at a chilled temperature as stated on its product label\nnot above 7º C.\n[S 222/2000 wef 01/05/2000]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Public Health (Food Hygiene) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

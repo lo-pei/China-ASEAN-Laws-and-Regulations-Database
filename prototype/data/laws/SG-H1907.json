@@ -1,7 +1,7 @@
 {
  "id": "SG-H1907",
  "title": {
-  "zh": null,
+  "zh": "所得税（金融工具利润计算基础变更调整）条例 2007",
   "en": "Income Tax (Adjustment on Change of Basis of Computing Profits of Financial Instruments) Regulations 2007",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. A qualifying person who becomes subject to section 34A of the Act within 5 years from the beginning of the year in which he first prepares financial accounts in accordance with FRS 39, may pay any tax arising —\n(a)if the qualifying person is a bank or qualifying finance company referred to in section 34A(2)(g) of the Act, from the difference between the positive adjustment under regulation 3 and the amount of deduction allowed in respect of impairment losses under section 34A(2)(g) of the Act; or\n(b)if the qualifying person is a not a bank or qualifying finance company referred to in section 34A(2)(g) of the Act, under regulation 3,\nwithin the period of 5 years from the beginning of the relevant year of assessment of the qualifying person or in accordance with such other arrangement as the Comptroller may approve."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Adjustment on Change of Basis of Computing Profits of Financial Instruments) Regulations 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

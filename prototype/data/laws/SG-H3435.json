@@ -1,7 +1,7 @@
 {
  "id": "SG-H3435",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11(3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n1. Arms and Explosives Act (Chapter 13)\n2. Banking Act (Chapter 19)\n3. Broadcasting Act (Chapter 28)\n4. Infectious Diseases Act (Chapter 137)\n5. International Development Association Act (Chapter 144A)\n6. Media Development Authority of Singapore Act (Chapter 172)\n7. National Environment Agency Act (Chapter 195)\n8. Payment and Settlement Systems (Finality and Netting) Act (Chapter 231)\n9. Republic Polytechnic Act (Chapter 270)\n10. Strategic Goods (Control) Act (Chapter 300)\n11. Smoking (Control of Advertisements and Sale of Tobacco) Act\n12. Terrorism (Suppression of Financing) Act (Chapter 325)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

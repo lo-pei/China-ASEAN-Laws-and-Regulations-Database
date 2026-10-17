@@ -1,7 +1,7 @@
 {
  "id": "SG-H3441",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11(3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n1. Bills of Exchange Act (Chapter 23)\n2. Business Registration Act (Chapter 32)\n3. Customs Act (Chapter 70)\n4. Housing and Development Act (Chapter 129)\n5. Land Titles Act (Chapter 157)\n6. Medical Registration Act (Chapter 174)\n7. Rapid Transit Systems Act (Chapter 263A)\n8. Statutory Bodies and Government Companies (Protection of Secrecy) Act (Chapter 319)\n9. Statutory Corporations (Contributions to Consolidated Fund) Act (Chapter 319A)\n10. Trade Unions Act (Chapter 333)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

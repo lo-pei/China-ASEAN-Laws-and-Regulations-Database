@@ -1,7 +1,7 @@
 {
  "id": "PH-H2116",
  "title": {
-  "zh": null,
+  "zh": "授予 Dancar 电力公司在宿务省 Danao、Carmen 与 Catmon 市镇建设、运营电灯、热力与动力系统及制冰厂并销售相关产品的特许权法案",
   "en": "An Act Granting to Dancar Electric Company a Franchise to Construct, Operate and Maintain Electric Light, Heat and Power Systems in the Municipalities of Danao, Carmen and Catmon, All in the Province of Cebu, and an Ice Plant in the Municipality of Danao, Province of Cebu, and to Distribute and Sell Light, Heat and/or Power in the Said Municipalities and to Distribute and Sell Ice in the Whole Province of Cebu",
   "orig": "An Act Granting to Dancar Electric Company a Franchise to Construct, Operate and Maintain Electric Light, Heat and Power Systems in the Municipalities of Danao, Carmen and Catmon, All in the Province of Cebu, and an Ice Plant in the Municipality of Danao, Province of Cebu, and to Distribute and Sell Light, Heat and/or Power in the Said Municipalities and to Distribute and Sell Ice in the Whole Province of Cebu"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting to Dancar Electric Company a Franchise to Construct, Operate and Maintain Electric Light, Heat and Power Systems in the Municipalities of Danao, Carmen and Catmon, All in the Province of Cebu, and an Ice Plant in the Municipality of Danao, Province of Cebu, and to Distribute and Sell Light, Heat and/or Power in the Said Municipalities and to Distribute and Sell Ice in the Whole Province of Cebu",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

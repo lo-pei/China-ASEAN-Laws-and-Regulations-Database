@@ -1,7 +1,7 @@
 {
  "id": "SG-H3308",
  "title": {
-  "zh": null,
+  "zh": "国家环境局（职能转授）公告 2023",
   "en": "National Environment Agency (Assignment of Functions) Notification 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The Minister for Sustainability and the Environment assigns to the National Environment Agency the functions of constructing, developing, owning and managing, in its own right, or for and on behalf of the Government —\n(a)facilities comprising only funeral parlours;\n(b)facilities comprising only one or more establishments (other than funeral parlours) at which any trade to support funeral wakes or funerals or both (whether wholly or in part) is carried out; or\n(c)facilities comprising both funeral parlours and one or more other establishments at which any trade to support funeral wakes or funerals or both (whether wholly or in part) is carried out.\n(2) In this paragraph, “funeral parlour” has the meaning given by section 2 of the Environmental Public Health Act 1987."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "National Environment Agency (Assignment of Functions) Notification 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H609",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾慈善彩票办公室每年举办一次特别彩票赛以惠及菲律宾女童子军的法案",
   "en": "An Act to Authorize the Philippine Charity Sweepstake Office to Hold Annually One Special Sweepstake Race for the Benefit of the Girl Scouts of the Philippines",
   "orig": "An Act to Authorize the Philippine Charity Sweepstake Office to Hold Annually One Special Sweepstake Race for the Benefit of the Girl Scouts of the Philippines"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, May 26, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize the Philippine Charity Sweepstake Office to Hold Annually One Special Sweepstake Race for the Benefit of the Girl Scouts of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

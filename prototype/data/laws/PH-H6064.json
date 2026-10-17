@@ -1,7 +1,7 @@
 {
  "id": "PH-H6064",
  "title": {
-  "zh": null,
+  "zh": "通过稳定基本必需品与主要商品价格并对紧急情况及类似情形下的不合理涨价规定措施以保护消费者的法案",
   "en": "An Act Providing Protection To Consumers By Stabilizing the Prices of Basic Necessities and Prime Commodities and By Prescribing Measures Against Undue Price Increases During Emergency Situations and Like Occasions",
   "orig": "An Act Providing Protection To Consumers By Stabilizing the Prices of Basic Necessities and Prime Commodities and By Prescribing Measures Against Undue Price Increases During Emergency Situations and Like Occasions"
  },
@@ -281,5 +281,13 @@
     "en": "Effectivity Clause. – This Act shall take effect three (3) days after its publication in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing Protection To Consumers By Stabilizing the Prices of Basic Necessities and Prime Commodities and By Prescribing Measures Against Undue Price Increases During Emergency Situations and Like Occasions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

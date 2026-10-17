@@ -1,7 +1,7 @@
 {
  "id": "PH-H2466",
  "title": {
-  "zh": null,
+  "zh": "将萨马省巴塞市镇的萨洛克格、坎阿拜、索克索孔、卡帕塔甘、当莱与洛洛加扬小村组建为该市镇名为马耶特村的法案",
   "en": "An Act to Constitute the Sitios of Salokegue, Can-Abay, Soksokon, Capatagan, Danglay and Lologayan, All in the Municipality of Basey, Province of Samar, into a Barrio to be Known as Barrio May-et of the Same Municipality",
   "orig": "An Act to Constitute the Sitios of Salokegue, Can-Abay, Soksokon, Capatagan, Danglay and Lologayan, All in the Municipality of Basey, Province of Samar, into a Barrio to be Known as Barrio May-et of the Same Municipality"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Constitute the Sitios of Salokegue, Can-Abay, Soksokon, Capatagan, Danglay and Lologayan, All in the Municipality of Basey, Province of Samar, into a Barrio to be Known as Barrio May-et of the Same Municipality",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

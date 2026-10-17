@@ -1,7 +1,7 @@
 {
  "id": "SG-H3351",
  "title": {
-  "zh": null,
+  "zh": "报章与印刷机（豁免）（合并）公告",
   "en": "Newspaper and Printing Presses (Exemption) (Consolidation) Notification",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following newspapers are exempted from section 16 of the Act (permit required for sale and distribution in Singapore of offshore newspapers), with effect from the dates shown against them:\n(1)Philippines Times Journal\n—\n27th September 1991\n[S 420/91]\n(2)China Daily\n—\n1st December 1991\n(3)People’s Journal (International Edition)\n—\n1st December 1991\n[S 578/91]\n(4)Economic and Business Review Indonesia\n—\n23rd October 1992\n(5)China Times Weekly\n—\n23rd October 1992\n[S 438/92]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Newspaper and Printing Presses (Exemption) (Consolidation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

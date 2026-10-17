@@ -1,7 +1,7 @@
 {
  "id": "PH-H7900",
  "title": {
-  "zh": null,
+  "zh": "禁止以未付医院账单或医疗费用为由在医院与诊所扣留患者的法案",
   "en": "An Act Prohibiting the Detention of Patients in Hospitals and Medical Clinics on Grounds of Nonpayment of Hospital Bills or Medical Expenses",
   "orig": "An Act Prohibiting the Detention of Patients in Hospitals and Medical Clinics on Grounds of Nonpayment of Hospital Bills or Medical Expenses"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in two national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prohibiting the Detention of Patients in Hospitals and Medical Clinics on Grounds of Nonpayment of Hospital Bills or Medical Expenses",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

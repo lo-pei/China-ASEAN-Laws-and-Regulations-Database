@@ -1,7 +1,7 @@
 {
  "id": "BN-S-43-2011-MINISTER-FOR-FINANCE-INCORPORATION-ORDER-2011-1",
  "title": {
-  "zh": null,
+  "zh": "财政部长法人化命令 2011 1",
   "en": "MINISTER FOR FINANCE INCORPORATION ORDER 2011 1",
   "orig": null
  },
@@ -159,5 +159,13 @@
     "en": "Upon the commencement of this Order, the Brunei National Petroleum Company Sendirian Berhad Order, 2002 (S 6/2002) is amended by deleting \"Prime Minister Corporation\" and substituting 11Minister for Finance Corporation\" they occur in the following sections (a} section 5(2); fbJ section 7(4);\n\n(c) section 8; fdJ section 11(2); and fe} section 12(4A). Made this 11th. day of Syaaban, 1432 Hijriah corresponding to the 13th. day of July, 2011 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MINISTER FOR FINANCE INCORPORATION ORDER 2011 1",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

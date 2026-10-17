@@ -1,7 +1,7 @@
 {
  "id": "SG-H487",
  "title": {
-  "zh": null,
+  "zh": "人口普查公告",
   "en": "Census Notification",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nParticulars for Census\nPersonal particulars and demographic characteristics\n1.Name\n2.Singapore NRIC No. or Foreign Identification No.\n3.Sex\n4.Ethnic group\n5.Date of birth\n6.Marital status\n7.Place of birth\n8.Year of first arrival in Singapore for purposes of taking up residence (if relevant)\n9.Citizenship\n10.Residential status\n11.Religion\n12.Year of first marriage (for women only)\n13.Number of children born alive (for women only)\n14.For persons who are not residing in Singapore —\n(a)country of residence;\n(b)reason for living abroad\n(c)expected duration of employment/course of study abroad (if applicable)\nHousehold characteristics\n15.Relationship to head of household\n16.Spouse linkage (if applicable)\n17.Parent-child linkage (if applicable)\nHousing and home upgrading\n18.Type of present dwelling\n19.Type of proprietary interest in present dwelling\n20.Year moved into present dwelling\n21.Type of previous dwelling (if any)\n22.Type of proprietary interest in previous dwelling\nEducation\n23.Name of educational institution attending (including vocational institution) (for students only)\n24.Level of education in educational institution (including vocational institution) (for students only)\n25.Major field of study (for polytechnic/university graduates)\n26.Highest qualifications obtained\n27.Country where highest qualifications were obtained\n28.Year when highest qualifications were obtained\n29.First degree obtained (for persons who have obtained postgraduate qualifications)\n30.Field of study for first degree\n31.Language(s) literate in\n32.Language(s)/dialect(s) most frequently spoken at home\nEducational upgrading\n33.Whether vocational qualifications obtained (for persons who have not attended a polytechnic or university)\n34.Name of vocational or other educational institution where vocational qualifications were obtained (if applicable)\n35.Type of vocational qualifications obtained (if applicable)\n36.Major field of study for vocational qualifications (if applicable)\nEmployment\n37.Economic status (whether economically active or inactive)\n38.Occupational status (whether employed, self-employed or serving in National Service)\n39.Occupation\n40.Type of industry\n41.Gross monthly pay for June 2000\n42.Bonuses received in the previous 12 months\n43.Actual number of hours worked per week\nJob mobility\n44.Length of service in present job\n45.Previous occupation (if any)\n46.Previous type(s) of industry worked in (if any)\nPersons who are not working\n47.Previous employment (if any)\n48.Whether any action taken to look for work\n49.Reason(s) for not working\nTransport\n50.Usual mode of transport to school (for students)\n51.Usual mode of transport to workplace\nOverseas travel\n52.Number of overseas trips made for business/leisure in the previous 12 months to —\n(a)Malaysia\n(b)other countries (please specify)\nElderly persons aged 65 years and above\n53.Main source of financial support\n54.Ambulant status.\n[G.N. Nos. S 215/2000; S 237/2000]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Census Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

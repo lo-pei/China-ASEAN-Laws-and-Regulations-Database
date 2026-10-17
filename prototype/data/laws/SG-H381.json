@@ -1,7 +1,7 @@
 {
  "id": "SG-H381",
  "title": {
-  "zh": null,
+  "zh": "建筑维护与分层管理（某些管理法团第 27(1) 条豁免）命令",
   "en": "Building Maintenance and Strata Management (Exemption of Certain Management Corporations from Section 27(1)) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to sub-paragraphs (2) and (3), a management corporation —\n(a)constituted by no more than 2 subsidiary proprietors;\n(b)constituted by 3 subsidiary proprietors for a strata title plan with 4 lots;\n(c)for a strata title plan with no more than 3 lots; or\n(d)constituted by any number of subsidiary proprietors who are joint subsidiary proprietors of all the lots in the strata title plan,\nshall be exempt from section 27(1) of the Act if the management corporation by a resolution by consensus resolves that it wishes to be so exempted.\n(2) The exemption shall have effect from the date of the resolution.\n(3) If —\n(a)the resolution is revoked; or\n(b)the management corporation ceases to come within any of the descriptions in sub-paragraph (1)(a), (b), (c) and (d),\nthe exemption shall cease to have effect on the expiry of the period of 6 months from the date of such revocation or cessation, as the case may be.\n[G.N. No. S 645/2006]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Maintenance and Strata Management (Exemption of Certain Management Corporations from Section 27(1)) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

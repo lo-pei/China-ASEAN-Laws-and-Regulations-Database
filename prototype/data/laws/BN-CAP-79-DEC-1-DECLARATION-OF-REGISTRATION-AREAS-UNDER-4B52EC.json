@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-79-DEC-1-DECLARATION-OF-REGISTRATION-AREAS-UNDER-4B52EC",
  "title": {
-  "zh": null,
+  "zh": "DEC 1 依第 31 条作出的登记区域声明",
   "en": "DEC 1 DECLARATION OF REGISTRATION AREAS UNDER SECTION 31",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BIRTHS AND DEATHS REGISTRATION ACT (CHAPTER 79)\n\nDECLARATION OF REGISTRATION AREAS UNDER SECTION 13(1) S 41/1962 1984 Edition\n\nREVISED EDITION 2013\n\nLAWS OF BRUNEI Births and Deaths Registration CAP. 79, Decl 1 1 [Subsidiary]\n\nSUBSIDIARY LEGISLATION Declaration of registration areas under section 3(1) The areas of Brunei Darussalam in the Schedule have been declared registration areas for the purpose of the Act.\n\nSCHEDULE A. District of Brunei and Muara Bandar Seri Begawan Municipal and Bandar Seri Begawan (excluding the areas below) Kampong Batu Marang Muara District Mukim Limau Manis Mukim Mata-Mata, Beribi and Kiarong Mukim Sengkurong Raja Isteri Pengiran Anak Saleha Hospital B. District of Belait Kuala Belait and District (excluding the areas below) District Hospital Kuala Belait Mukim Bukit Sawat Mukim Kuala Belait Mukim Labi C. District of Tutong Tutong District D. District of Temburong Mukim Labu Estate Temburong District"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DEC 1 DECLARATION OF REGISTRATION AREAS UNDER SECTION 31",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

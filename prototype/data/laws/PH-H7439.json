@@ -1,7 +1,7 @@
 {
  "id": "PH-H7439",
  "title": {
-  "zh": null,
+  "zh": "将阿古-巴古奥公路的阿古-图包-普戈段命名为Jose D. Aspiras公路，并将同一公路的本格特-碧瑶市段命名为Ben Palispis公路的法案",
   "en": "An Act Naming the Agoo-Tubao-Pugo Section of the Agoo-Baguio Road, the Jose D. Aspiras Highway, and the Benguet-Baguio City Section of the same road, the Ben Palispis Highway",
   "orig": "An Act Naming the Agoo-Tubao-Pugo Section of the Agoo-Baguio Road, the Jose D. Aspiras Highway, and the Benguet-Baguio City Section of the same road, the Ben Palispis Highway"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Agoo-Tubao-Pugo Section of the Agoo-Baguio Road, the Jose D. Aspiras Highway, and the Benguet-Baguio City Section of the same road, the Ben Palispis Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

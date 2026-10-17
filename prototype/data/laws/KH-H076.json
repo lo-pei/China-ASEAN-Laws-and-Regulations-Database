@@ -1,7 +1,7 @@
 {
  "id": "KH-H076",
  "title": {
-  "zh": null,
+  "zh": "关于将太阳能光伏发电电源接入国家电网供电系统或已接入国家电网的用户电力系统的一般条件的条例",
   "en": "Regulations on general conditions for connecting solar PV generation sources to the electricity supply system of national grid or to the electrical system of a consumer connected to the electricity supply of national grid",
   "orig": "បទប្បញ្ញត្តិស្តីពីលក្ខខណ្ឌទូទៅក្នុងការភ្ជាប់ប្រភពអគ្គិសនីពីប្រព័ន្ធថាមពលពន្លឺព្រះអាទិត្យទៅជាមួយប្រព័ន្ធផ្គត់ផ្គង់អគ្គិសនី ឬជាមួយប្រព័ន្ធប្រើប្រាស់អគ្គិសនីដែលឋិតនៅក្នុងប្រព័ន្ធផ្គត់ផ្គង់អគ្គិសនីរបស់បណ្តាញជាតិ"
  },
@@ -150,5 +150,13 @@
     "km": "#ា0|8 11 - បទប្បញ្ញត្តិនេះ មានប្រសិទ្ធភាពអនុវត្ត  ចាប់ពីថ្ងៃចុះ | 78 |80២|2(07 $|ឧ|| ០០៣6 ០ 10|08 ០៣ ឋាខ ហត្ថលេខាតទៅ និងមានសុពលភាព រហូតដល់មានការកែ | ៨88 ០ $|0៣កព ៧ |8៣ាឧវ | យារ ខា ៣6 សម្រួលជាថ្មី ដោ យអាជ្ញាធរអគ្គិស នីកម្ពុ ជា ។                   ៨80|$!07 ២, ៩|80(70!២ #បហា០កប ០ 0ឧ៣២០០៨|ឧ.\n                        ប្រការ ១២ ៖                                               សាវ០612 - លេខាធិការដ្ឋាននៃអាជ្ញាធរអគ្គិសនី កម្ពុជា ត្រូវមាន | 76  $80|68ខែ7ឧ ០  ៩|8000រប = /សប៉ា០កប ០!\nការកិច្ច ផ្សព្វផ្សាយបទប្បញ្ញត្តិនេះជាសាធារណៈ និងដល់ | ០8៣0០៨ $ក2|| ៨$58៣/៣ឧខែ ហា$ 80200 ០ គ្រប់ភាគីអ្នកពាក់ព័ន្ធទាំងអស់ ។                                វា6 ឯ២៦||០ ខា ខា័8019៨ ឯ&11៧65.\n                                                             ស និណ្ណាចរអគ្គិសនីកម្ពុជា  3? រ -\n04៨ ស    វក ២ /យ7អ0ក|7\" 07 0#ស80០|& ្ម2រអគ្គី ក  ចណ្ឌិត.ទី នរិន្ទ ណេ                     - អាជ្ញាឆរអគ្គិសនីកម្ពុជា ៈ ផ្ទះលេខ ០២ ផ្លូវលេខ ២៨២ (ផ្លូវបព័ណ្តាំទី ១ ខាងត្បូង វិមានឯករាជ្យ )សង្កាត់បងកេងកង ១ ខណូចំការមន រាជធានីភ្នំពេញ, ទូរស័ព្ទ : ០២៣ ២១៧ ៦៥៤ / ៩៨៧ ៨៩៨ ទូរសារ : ០២៣ ២១៨ ១៤៤, អ៊ីម៉ែល : ឧ៨៣៣@990.00'.(ា : '//8ឯទរខែ : %//.8ឧ០.9០។.(ា"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1816-IDS-5",
+  "source": "Regulations on general conditions for connecting solar PV generation sources to the electricity supply system of national grid or to the electrical system of a consumer connected to the electricity supply of national grid",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

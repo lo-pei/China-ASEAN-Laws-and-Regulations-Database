@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-115-R-1-BRUNEI-MALAY-SILVERSMITHS-GUILD-INCORPORA-0AEE3D",
  "title": {
-  "zh": null,
+  "zh": "R 1 文莱马来银匠行会注册成立规则",
   "en": "R 1 Brunei Malay Silversmiths Guild Incorporation Rules",
   "orig": null
  },
@@ -292,5 +292,13 @@
     "en": "A copy of these Rules shall be supplied by the General Manager to every member."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 1 Brunei Malay Silversmiths Guild Incorporation Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

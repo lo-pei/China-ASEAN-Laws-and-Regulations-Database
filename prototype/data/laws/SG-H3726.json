@@ -1,7 +1,7 @@
 {
  "id": "SG-H3726",
  "title": {
-  "zh": null,
+  "zh": "自愿绝育法 1974",
   "en": "Voluntary Sterilisation Act 1974",
   "orig": null
  },
@@ -203,5 +203,13 @@
     "en": "13.—(1) The Minister may make regulations for, or in respect of, every purpose which the Minister considers necessary for carrying out the provisions of this Act and for prescribing any matter which is authorised or required under this Act to be prescribed.\n(2) Without limiting subsection (1), the Minister may make regulations —\n(a)requiring registered medical practitioners to keep records of treatment for sexual sterilisation and to forward the records to the Director‑General of Health together with any information relating to the treatment that the Director‑General may require;\n[Act 11 of 2023 wef 01/05/2023]\n(b)prescribing —\n(i)the forms of consent to be given by a person undergoing treatment for sexual sterilisation under section 3;\n(ii)the form of certification required under section 3(3) to be given by a person undergoing treatment for sexual sterilisation; and\n(iii)such other forms of certification as may be required;\n(c)providing for the preservation and disposal of records in respect of treatment for sexual sterilisation authorised under this Act and for the use of the records for statistical or research purposes so long as such use does not disclose the identities of the persons who have received the treatment; and\n(d)prescribing the qualifications of registered medical practitioners who may carry out treatment for sexual sterilisation in specialist medical clinics, which qualifications may differ in respect of treatment for sexual sterilisation on males or on females."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Voluntary Sterilisation Act 1974",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

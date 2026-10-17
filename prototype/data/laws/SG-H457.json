@@ -1,7 +1,7 @@
 {
  "id": "SG-H457",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（不受进入赌场等禁令约束——社会援助计划与补贴计划）命令 2013",
   "en": "Casino Control (Exclusion from Casino, etc. — Social Assistance Programme and Subsidy Scheme) Order 2013",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. For the purpose of section 165A(1)(a) of the Act, any of the following persons on any of the following social assistance programmes or subsidy schemes, is excluded from doing all the things mentioned in section 165A(3)(a), (b) and (c) of the Act:\n(a)a recipient of ComCare Long-Term Assistance funded by the Ministry of Social and Family Development;\n[S 432/2022 wef 01/06/2022]\n(b)a recipient of ComCare Short-to-Medium-Term Assistance funded by the Ministry of Social and Family Development;\n[S 432/2022 wef 01/06/2022]\n(c)[Deleted by S 432/2022 wef 01/06/2022]\n(d) a tenant or an authorised occupier of a flat leased under the Public Rental Scheme funded by the Housing and Development Board;\n[S 488/2013 wef 01/08/2013]\n[S 432/2022 wef 01/06/2022]\n(e)an aided person on the legal aid scheme under the Legal Aid and Advice Act 1995 funded by the Ministry of Law and administered by the Legal Aid Bureau;\n[S 488/2013 wef 01/08/2013]\n[S 432/2022 wef 31/12/2021]\n(f)an aided person on the legal aid scheme under the International Child Abduction Act 2010 funded by the Ministry of Law and administered by the Legal Aid Bureau;\n[S 488/2013 wef 01/08/2013]\n[S 432/2022 wef 31/12/2021]\n[S 219/2024 wef 01/04/2024]\n(g)an aided accused person receiving criminal defence aid under the Public Defenders Act 2022;\n[S 219/2024 wef 01/04/2024]\n(h)a person on the Criminal Legal Aid Scheme administered by Pro Bono SG who is granted aid (wholly or partially funded by the Ministry of Law) pursuant to a referral by the Chief Public Defender under section 12(5) of the Public Defenders Act 2022.\n[S 219/2024 wef 01/04/2024]\n[S 432/2022 wef 01/06/2022]\n[S 617/2022 wef 01/08/2022]\n[S 639/2026 wef 21/09/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Casino Control (Exclusion from Casino, etc. — Social Assistance Programme and Subsidy Scheme) Order 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

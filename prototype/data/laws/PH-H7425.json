@@ -1,7 +1,7 @@
 {
  "id": "PH-H7425",
  "title": {
-  "zh": null,
+  "zh": "将阿帕约分区工程办公室升格为名为阿帕约第二工程区的正规区工程办公室并为其拨款",
   "en": "An Act Upgrading the Apayao Sub-District Engineering Office into a Regular District Engineering Office to be known as the Apayao Second Engineering District and appropriating funds therefor",
   "orig": "An Act Upgrading the Apayao Sub-District Engineering Office into a Regular District Engineering Office to be known as the Apayao Second Engineering District and appropriating funds therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading the Apayao Sub-District Engineering Office into a Regular District Engineering Office to be known as the Apayao Second Engineering District and appropriating funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

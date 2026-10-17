@@ -1,7 +1,7 @@
 {
  "id": "SG-H1713",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（临床实验室服务与放射服务）条例 2021",
   "en": "Healthcare Services (Clinical Laboratory Service and Radiological Service) Regulations 2021",
   "orig": null
  },
@@ -928,5 +928,13 @@
     "en": "THE SCHEDULE\nRegulations 2, 4 and 4B\nPart 1\nSPECIFIED SERVICES FOR CLINICAL LABORATORY SERVICE\n1.The following are specified services for a clinical laboratory service:\n(a)a testing service in any of the following laboratory disciplines:\n(i)anatomic pathology;\n(ii)chemical pathology, excluding the provision of the test set out in sub-paragraph (b)(vi);\n(iii)clinical toxicology;\n(iv)cytology;\n(v)cytogenetics;\n(vi)haematology, excluding the provision of the test set out in sub-paragraph (b)(vii);\n(vii)histocompatibility;\n(viii)immunology, excluding the provision of the tests set out in sub-paragraph (b)(i) and (ii);\n(ix)medical microbiology, excluding the provision of the tests set out in sub-paragraph (b)(v) and (viii);\n(x)transfusion medicine;\n(xi)molecular pathology, excluding the provision of the tests set out in sub-paragraph (b)(iii) and (iv);\n(b)the provision of any of the following tests:\n(i)human immunodeficiency virus screening;\n(ii)human immunodeficiency virus confirmation;\n(iii)pre-implantation genetic testing for monogenic or single gene defects;\n(iv)pre-implantation genetic testing for chromosomal structural rearrangements;\n(v)acid-fast bacilli smear testing;\n(vi)glycated haemoglobin (haemoglobin A1c) testing;\n(vii)malaria parasite testing;\n(viii)molecular SARS-CoV-2 testing for Coronavirus Disease 2019 (COVID-19).\nPart 2\nSPECIFIED SERVICES FOR RADIOLOGICAL SERVICE\n1.The following are specified services for a radiological service:\n(a)the provision of an imaging service by any of the following imaging modalities, excluding the provision of any procedure mentioned in paragraph (b):\n(i)plain radiography;\n(ii)mammography;\n(iii)fluoroscopy;\n(iv)computed tomography;\n(v)cone beam computed tomography;\n(vi)magnetic resonance imaging;\n(b)the provision of minimally invasive image-guided biopsy of breast, thyroid, superficial lump or bump, or any superficial lymph node.\n[S 417/2023 wef 26/06/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (Clinical Laboratory Service and Radiological Service) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1053",
  "title": {
-  "zh": null,
+  "zh": "关税（第 15(2) 条豁免——自由贸易协定等）命令 2022",
   "en": "Customs (Exemption from Section 15(2) — Free Trade Agreements, etc.) Order 2022",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThird column\nFourth column\nAgreement\nGoods\nCondition\nEffective date\n1.Singapore‑Australia Free Trade Agreement\nGoods which have originated from and consigned direct from Australia\nThe claim is made within one year after the date of importation of the goods\n1 December 2017\n2.Comprehensive and Progressive Agreement for Trans‑Pacific Partnership\nGoods which have originated from and consigned direct from any country that is a party to the Comprehensive and Progressive Agreement for Trans‑Pacific Partnership and has ratified the Agreement\nThe claim is made within one year after the date of importation of the goods\n30 December 2018\n3.Agreement between New Zealand and Singapore on Closer Economic Partnership\nGoods which have originated from and consigned direct from New Zealand\nThe claim is made within one year after the date of importation of the goods\n1 January 2020\n4.Singapore‑Costa Rica Free Trade Agreement\nGoods which have originated from and consigned direct from the Republic of Costa Rica\nThe claim is made within one year after the date of importation of the goods\n1 June 2022\n5.Agreement between Singapore and the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu on Economic Partnership\nGoods which have originated from and consigned direct from the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu\nThe claim is made within one year after the date of importation of the goods\n1 June 2022"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Exemption from Section 15(2) — Free Trade Agreements, etc.) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

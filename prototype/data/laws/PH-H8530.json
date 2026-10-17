@@ -1,7 +1,7 @@
 {
  "id": "PH-H8530",
  "title": {
-  "zh": null,
+  "zh": "制定菲律宾女童子军新宪章、处罚违规行为并为其他目的法案",
   "en": "An Act Instituting the New Girl Scouts of the Philippines Charter, Penalizing Violations Thereof and for Other Purposes",
   "orig": "An Act Instituting the New Girl Scouts of the Philippines Charter, Penalizing Violations Thereof and for Other Purposes"
  },
@@ -210,5 +210,13 @@
     "en": "Effectively. - This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Instituting the New Girl Scouts of the Philippines Charter, Penalizing Violations Thereof and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

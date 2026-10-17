@@ -1,7 +1,7 @@
 {
  "id": "SG-H075",
  "title": {
-  "zh": null,
+  "zh": "主动出行（不合规出行车辆等的例外使用等）条例 2026",
   "en": "Active Mobility (Excepted Use, etc., of Non-Compliant Mobility Vehicles, etc.) Regulations 2026",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. For the purposes of section 20(2A) of the Act, an individual may use on a public path a non‑compliant non‑motorised wheelchair of any model or description if the individual has been granted a valid certificate from a specified assessor certifying that the individual has a medical need to use that non‑motorised wheelchair."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Excepted Use, etc., of Non-Compliant Mobility Vehicles, etc.) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

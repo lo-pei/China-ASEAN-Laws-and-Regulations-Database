@@ -1,7 +1,7 @@
 {
  "id": "PH-H634",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统在三年内从菲律宾武装部队预备役中任命高于少尉军衔的军官的法案",
   "en": "An Act Authorizing the President of the Philippines Within a Period of Three Years to Appoint Officers From the Reserve Force of the Armed Forces of the Philippines Above the Grade of Second Lieutenant",
   "orig": "An Act Authorizing the President of the Philippines Within a Period of Three Years to Appoint Officers From the Reserve Force of the Armed Forces of the Philippines Above the Grade of Second Lieutenant"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect on July 1, 1952.\nApproved, June 12, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines Within a Period of Three Years to Appoint Officers From the Reserve Force of the Armed Forces of the Philippines Above the Grade of Second Lieutenant",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H863",
  "title": {
-  "zh": null,
+  "zh": "企业服务提供者（银行等豁免）命令 2025",
   "en": "Corporate Service Providers (Exemptions for Banks, etc.) Order 2025",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to sub‑paragraph (3), section 7 of the Act does not apply to —\n(a)a bank as defined in section 2(1) of the Banking Act 1970;\n(b)a merchant bank as defined in section 2(1) of the Banking Act 1970; or\n(c)a holder of a capital markets services licence granted under section 86 of the Securities and Futures Act 2001 to carry on a business in fund management, real estate investment trust management or providing custodial services,\nin the provision of any service falling within paragraph (a), (b), (c), (d) or (e) of the definition of “corporate service” in section 2(1) of the Act to a customer in respect of whom the bank, merchant bank or holder of a capital markets services licence is required, under any direction issued to it by the Monetary Authority of Singapore under section 16(1) of the Financial Services and Markets Act 2022, to conduct such customer due diligence measures (however described) as are specified in the direction.\n(2) Subject to sub‑paragraph (3), section 7 of the Act does not apply to a licensed trust company as defined in section 2 of the Trust Companies Act 2005 in the provision of any service falling within paragraph (a), (b), (c), (d) or (e) of the definition of “corporate service” in section 2(1) of the Act to a trust relevant party in respect of whom the licensed trust company is required, under MAS Notice TCA‑N03, to conduct such customer due diligence measures (however described) as are specified in the direction.\n(3) For the purposes of sub‑paragraphs (1) and (2), the provision of the service by the bank, merchant bank, holder of a capital markets services licence or licensed trust company must be incidental to, or in connection with, a business that the bank, merchant bank, holder of a capital markets services licence or licensed trust company is authorised to carry on under the Banking Act 1970, the Securities and Futures Act 2001 or the Trust Companies Act 2005, as the case may be.\n(4) In this paragraph —\n“MAS Notice TCA‑N03” means the direction commonly known as MAS Notice TCA‑N03 issued by the Monetary Authority of Singapore under section 16(1) of the Financial Services and Markets Act 2022;\n“Monetary Authority of Singapore” means the Monetary Authority of Singapore established by section 3 of the Monetary Authority of Singapore Act 1970;\n“trust relevant party” has the meaning given by MAS Notice TCA‑N03."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Corporate Service Providers (Exemptions for Banks, etc.) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

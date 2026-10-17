@@ -1,7 +1,7 @@
 {
  "id": "BN-S-14-2024-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-TRUST-AM-0F48EB",
  "title": {
-  "zh": null,
+  "zh": "补充缴费养老金信托第四号修正命令 2024",
   "en": "SUPPLEMENTAL CONTRIBUTORY PENSIONS TRUST AMENDMENT NO. 4 ORDER 2024",
   "orig": null
  },
@@ -223,5 +223,13 @@
     "en": "Notwithstanding anything to the contrary contained in any other lawfa} no amount payable by the employer as his contribution; and fbJ no amount standing to the credit of a member of the Trust, be assignable, transferable, attached, sequestered or levied on for, or in respect of, any debt or claim and shall not be subjected to any set-off of any nature for any debt owing by the member and if the member is bankrupt by a court, it shall not pass to the Official Assignee on the bankruptcy of the member and is deemed not to form part of the property of the member.\"."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUPPLEMENTAL CONTRIBUTORY PENSIONS TRUST AMENDMENT NO. 4 ORDER 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

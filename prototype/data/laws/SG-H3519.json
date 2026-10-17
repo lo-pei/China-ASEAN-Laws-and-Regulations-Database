@@ -1,7 +1,7 @@
 {
  "id": "SG-H3519",
  "title": {
-  "zh": null,
+  "zh": "公共行政奖章（军事）规则 1981",
   "en": "Pingat Pentadbiran Awam (Tentera) — (the Public Administration Medal — Military) Rules 1981",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nRule 10\nPart 1\nPUBLIC ADMINISTRATION MEDAL (GOLD) (MILITARY)\nObverse\nReverse\nPart 2\nPUBLIC ADMINISTRATION MEDAL (SILVER) (MILITARY)\nObverse\nReverse\nPart 3\nPUBLIC ADMINISTRATION MEDAL (BRONZE) (MILITARY)\nObverse\nReverse\n[S 725/2026 wef 01/10/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Pingat Pentadbiran Awam (Tentera) — (the Public Administration Medal — Military) Rules 1981",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

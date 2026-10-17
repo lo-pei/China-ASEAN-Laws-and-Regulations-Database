@@ -1,7 +1,7 @@
 {
  "id": "PH-H9137",
  "title": {
-  "zh": null,
+  "zh": "规定高等教育学生综合统一资助体系（UniFAST），从而理顺其获取途径，为此拨款并为其他目的法案",
   "en": "An Act Providing for a Comprehensive and Unified Student Financial Assistance System for Tertiary Education (UniFAST), Thereby Rationalizing Access Thereto, Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act Providing for a Comprehensive and Unified Student Financial Assistance System for Tertiary Education (UniFAST), Thereby Rationalizing Access Thereto, Appropriating Funds Therefor and for Other Purposes"
  },
@@ -428,5 +428,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for a Comprehensive and Unified Student Financial Assistance System for Tertiary Education (UniFAST), Thereby Rationalizing Access Thereto, Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

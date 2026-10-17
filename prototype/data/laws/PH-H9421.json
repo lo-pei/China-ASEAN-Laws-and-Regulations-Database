@@ -1,7 +1,7 @@
 {
  "id": "PH-H9421",
  "title": {
-  "zh": null,
+  "zh": "在巴伦苏埃拉市Paso de Blas描笼涯设立国立中学，名称为Paso De Blas国立中学，并为此拨款的法案",
   "en": "An Act Establishing a National High School in Barangay Paso de Blas Valenzuela City to Be Known as Paso De Blas National High School and Appropriating Funds Therefor",
   "orig": "An Act Establishing a National High School in Barangay Paso de Blas Valenzuela City to Be Known as Paso De Blas National High School and Appropriating Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a National High School in Barangay Paso de Blas Valenzuela City to Be Known as Paso De Blas National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H183",
  "title": {
-  "zh": null,
+  "zh": "辅助医疗行业（职业行为与纪律）条例 2013",
   "en": "Allied Health Professions (Professional Conduct and Discipline) Regulations 2013",
   "orig": null
  },
@@ -778,5 +778,13 @@
     "en": "SECOND SCHEDULE\nRegulations 20, 42(1)(d) and 45(1)\nFees\nFirst column\nSecond column\n1.Transcript of inquiry and copies of documents tendered at inquiry under regulation 20\n$15 per page\n2.Application under regulation 42 for restoration of name to any register\n$400."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Allied Health Professions (Professional Conduct and Discipline) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

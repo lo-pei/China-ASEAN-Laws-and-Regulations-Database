@@ -1,7 +1,7 @@
 {
  "id": "SG-H3377",
  "title": {
-  "zh": null,
+  "zh": "受警察监管者须向其报到的官员",
   "en": "Officers to Whom Persons Subject to Police Supervision Shall Report",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Criminal Procedure Code\n(CHAPTER 68, Section 14(2))\nOfficers to Whom Persons Subject to Police Supervision Shall Report\nN 3\nG.N. No. S 312/1991\nREVISED EDITION 1990\n(25th March 1992)\n[19th July 1991]\nThe Commissioner of Police has appointed —\n(a)the Officer-in-Charge of the Criminal Record Office, Criminal Investigation Department, to be the officer to whom all persons subject to police supervision shall report on their release from Prison; and\n(b)the Heads of Investigations of the Police Divisions in which such persons reside to be the officers to whom such persons shall report thereafter."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Officers to Whom Persons Subject to Police Supervision Shall Report",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

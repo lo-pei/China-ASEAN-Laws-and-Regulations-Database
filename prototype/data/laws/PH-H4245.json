@@ -1,7 +1,7 @@
 {
  "id": "PH-H4245",
  "title": {
-  "zh": null,
+  "zh": "授予Misamis Oriental农村电力合作社在东米萨米斯省卢盖特、曼蒂考、纳阿万、伊尼陶、利伯塔德、吉塔古姆、拉金丁安、阿卢比吉德与萨尔瓦多市镇电灯与动力系统特许经营权的法案",
   "en": "An Act Granting Misamis Oriental Rural Electric Service Cooperative, Inc. a Franchise for an Electric Light and Power System in the Municipalities of Lugait, Manticao, Naawan, Initao, Libertad, Gitagum, Laguindingan, Alubijid and El Salvador, All in the Province of Misamis Oriental",
   "orig": "An Act Granting Misamis Oriental Rural Electric Service Cooperative, Inc. a Franchise for an Electric Light and Power System in the Municipalities of Lugait, Manticao, Naawan, Initao, Libertad, Gitagum, Laguindingan, Alubijid and El Salvador, All in the Province of Misamis Oriental"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 9, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Misamis Oriental Rural Electric Service Cooperative, Inc. a Franchise for an Electric Light and Power System in the Municipalities of Lugait, Manticao, Naawan, Initao, Libertad, Gitagum, Laguindingan, Alubijid and El Salvador, All in the Province of Misamis Oriental",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

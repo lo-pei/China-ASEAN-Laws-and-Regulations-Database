@@ -1,7 +1,7 @@
 {
  "id": "SG-H3411",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11 (3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n(1) The Arms Offences Act (Chapter 14)\n(2) The Carriage of Goods by Sea Act (Chapter 33)\n(3) The Civil Defence Shelter Act (Chapter 42A)\n(4) The Commercial and Industrial Security Corporation Act (Chapter 47)\n(5) The Community Mediation Centres Act (Chapter 49A)\n(6) The Criminal Law (Temporary Provisions) Act (Chapter 67)\n(7) The Currency Act (Chapter 69)\n(8) The Factories Act (Chapter 104)\n(9) The Government Procurement Act (Chapter 120)\n(10) The Hazardous Waste (Control of Export, Import and Transit) Act (Chapter 122A)\n(11) The Jurong Town Corporation Act (Chapter 150)\n(12) The Medical Registration Act (Chapter 174)\n(13) The Sentosa Development Corporation Act (Chapter 291)\n(14) The Skills Development Levy Act (Chapter 306)\n(15) The Travel Agents Act (Chapter 334)\n[G.N. No.S 300/98]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11 (3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

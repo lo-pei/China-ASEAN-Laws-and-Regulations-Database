@@ -1,7 +1,7 @@
 {
  "id": "PH-H4763",
  "title": {
-  "zh": null,
+  "zh": "修订1971年制宪会议法第13条，变更制宪会议开幕地点的法案",
   "en": "An Act Amending Section Thirteen of the 1971 Constitutional Convention Act to Change the Site for the Opening of the Constitutional Convention.",
   "orig": "An Act Amending Section Thirteen of the 1971 Constitutional Convention Act to Change the Site for the Opening of the Constitutional Convention."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, May 27, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Thirteen of the 1971 Constitutional Convention Act to Change the Site for the Opening of the Constitutional Convention.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

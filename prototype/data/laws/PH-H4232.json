@@ -1,7 +1,7 @@
 {
  "id": "PH-H4232",
  "title": {
-  "zh": null,
+  "zh": "修订经修正的《国家国内税收法典》第 24、26、29、32、49、53、54 与 84（B）条的法案",
   "en": "An Act Amending Sections Twenty-Four Twenty-Six, Twenty-Nine, Thirty-Two, Forty-Nine, Fifty-Three, Fifty-Four and Eighty-Four (B) of the National Internal Revenue Code, as Amended",
   "orig": "An Act Amending Sections Twenty-Four Twenty-Six, Twenty-Nine, Thirty-Two, Forty-Nine, Fifty-Three, Fifty-Four and Eighty-Four (B) of the National Internal Revenue Code, as Amended"
  },
@@ -140,5 +140,13 @@
     "en": "The provisions of this Act shall apply to income for taxable years beginning after June thirty, nineteen hundred sixty-eight.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Sections Twenty-Four Twenty-Six, Twenty-Nine, Thirty-Two, Forty-Nine, Fifty-Three, Fifty-Four and Eighty-Four (B) of the National Internal Revenue Code, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

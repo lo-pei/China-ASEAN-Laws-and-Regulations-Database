@@ -1,7 +1,7 @@
 {
  "id": "PH-H9630",
  "title": {
-  "zh": null,
+  "zh": "将宿务市山地延伸校区并入宿务理工大学作为卫星校区并为此拨款，为此修订第9744号共和国法的法案",
   "en": "An Act Integrating the Cebu City Mountain Extension Campus as a Satellite Campus of the Cebu Technological University and Appropriating Funds Therefor, Amending for the Purpose Republic Act No. 9744, Otherwise Known as \"An Act Converting the Cebu State College of Science and Technology System in the City of Cebu and All its Satellite Campuses Located in the Province of Cebu into a State University to be Known as the Cebu Technological University (CTU) and Appropriating Funds Therefor\"",
   "orig": "An Act Integrating the Cebu City Mountain Extension Campus as a Satellite Campus of the Cebu Technological University and Appropriating Funds Therefor, Amending for the Purpose Republic Act No. 9744, Otherwise Known as \"An Act Converting the Cebu State College of Science and Technology System in the City of Cebu and All its Satellite Campuses Located in the Province of Cebu into a State University to be Known as the Cebu Technological University (CTU) and Appropriating Funds Therefor\""
  },
@@ -80,5 +80,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Integrating the Cebu City Mountain Extension Campus as a Satellite Campus of the Cebu Technological University and Appropriating Funds Therefor, Amending for the Purpose Republic Act No. 9744, Otherwise Known as \"An Act Converting the Cebu State College of Science and Technology System in the City of Cebu and All its Satellite Campuses Located in the Province of Cebu into a State University to be Known as the Cebu Technological University (CTU) and Appropriating Funds Therefor\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

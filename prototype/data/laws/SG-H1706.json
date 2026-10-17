@@ -1,7 +1,7 @@
 {
  "id": "SG-H1706",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（急症医院服务）条例 2023",
   "en": "Healthcare Services (Acute Hospital Service) Regulations 2023",
   "orig": null
  },
@@ -842,5 +842,13 @@
     "en": "SECOND SCHEDULE\nRegulation 40(5)\nSpecified test\n1. Arterial blood gas test\n2. Blood glucose test\n3. Full blood count\n4. Partial thromboplastin time test\n5. Peripheral blood film test\n6. Prothrombin time test\n7. Renal panel test\n8. A test to ascertain the level of any of the following cardiac markers in the blood of an individual:\n(a)Troponin\n(b)Creatine kinase\n(c)Creatine kinase MB"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (Acute Hospital Service) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

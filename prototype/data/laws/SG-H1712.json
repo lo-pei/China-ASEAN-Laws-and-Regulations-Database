@@ -1,7 +1,7 @@
 {
  "id": "SG-H1712",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（血库服务）条例 2021",
   "en": "Healthcare Services (Blood Banking Service) Regulations 2021",
   "orig": null
  },
@@ -435,5 +435,13 @@
     "en": "SECOND SCHEDULE\nRegulation 2(2)\nTests to determine suitability of blood\nand blood components\nPart 1\n1.ABO group\n2.Rh D\n3.Red cell antibody\nPart 2\nFirst column\nSecond column\n1.Human immunodeficiency virus (HIV) infection\n(a)serology\n(b)nucleic acid test\n2.Hepatitis B infection\n(a)serology\n(b)nucleic acid test\n3.Hepatitis C infection\n(a)serology\n(b)nucleic acid test\n4.Syphilis\n(a)serology"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (Blood Banking Service) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1794",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（维护费与租金——商业物业与小贩摊位）公告",
   "en": "Housing and Development (Maintenance Fees and Rent — Commercial Properties and Hawker Stalls) Notification",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nType of Property or Stall\nRevised Service and Conservancy Charges\n(I)Commercial\n(a)without air-conditioning\n$1.03 per sq. metre per month subject to a minimum of $33 per month.\n(b)with air-conditioning\n(i)$4.35 per square metre per month from 1st April 1992 to 31st March 1993;\n(ii)$5.30 per square metre per month from 1st April 1993 to 31st March 1994; and\n(iii)$6.24 per square metre per month from 1st April 1994.\n[S 90/92 wef 01/04/92]\n(II)[Deleted by S 753/2017 wef 01/01/2018]\n(III)Stalls\n(a)cooked food and/or drinks\n$88 per month.\n(b)piece and sundry goods\n$53 per month.\n(c)market produce I — sale of preserved and dried goods, pork, roasted pork, mutton, beef, dressed poultry, fresh seafood, boiled seafood, live poultry and whole fruits\n$44 per month.\n(d)market produce II — sale of vegetables, beancakes, noodles, eggs, ground assorted spices and/or other items not enumerated in item III (c) above\n$27 per month.\n[S 753/2017 wef 01/01/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Maintenance Fees and Rent — Commercial Properties and Hawker Stalls) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

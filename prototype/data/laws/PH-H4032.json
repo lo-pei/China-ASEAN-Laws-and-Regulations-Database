@@ -1,7 +1,7 @@
 {
  "id": "PH-H4032",
  "title": {
-  "zh": null,
+  "zh": "修订第3159号共和国法（题为“规定在布拉干省San Miguel市镇设立急诊医院，名称为San Miguel急诊医院”）若干条款",
   "en": "An Act Amending Certain Sections of Republic Act Numbered Thirty-One Hundred and Fifty-Nine, Entitled \"An Act Providing for the Establishment of an Emergency Hospital in the Municipality of San Miguel, Province of Bulacan, to be Known as the San Miguel Emergency Hospital\"",
   "orig": "An Act Amending Certain Sections of Republic Act Numbered Thirty-One Hundred and Fifty-Nine, Entitled \"An Act Providing for the Establishment of an Emergency Hospital in the Municipality of San Miguel, Province of Bulacan, to be Known as the San Miguel Emergency Hospital\""
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Sections of Republic Act Numbered Thirty-One Hundred and Fifty-Nine, Entitled \"An Act Providing for the Establishment of an Emergency Hospital in the Municipality of San Miguel, Province of Bulacan, to be Known as the San Miguel Emergency Hospital\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

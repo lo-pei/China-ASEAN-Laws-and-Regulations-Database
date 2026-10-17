@@ -1,7 +1,7 @@
 {
  "id": "BN-S-50-2001-NOTIFICATION-UNDER-SECTION-11",
  "title": {
-  "zh": null,
+  "zh": "依第 11 条发布的公告",
   "en": "NOTIFICATION UNDER SECTION 11",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 50\n\nPHARMACISTS REGISTRATION ORDER, 2001 (S 21/2001) Notification under section 1(1) In exercise of the power conferred by section 111L the Minister of Health with the approval of His Majesty the Sultan and Yang Di-Pertuan hereby appoints the 1st. July, 2001 as the date on which the Pharmacists Registration Order, 2001 shall be deemed to have commenced. Dated this 20th. day of Rabiulakhir, 1422 Hijriah corresponding to the 12th. day of July, 2001. DATO SERI LAlLA JASA AWANG HAJI AHMAD\n\nBIN DATO PADUKA MAT NOOR Permanent Secretary, Ministry of Health, Brunei Darussalam. Dicetak oleh DATO PADUKA WAHID BIN HAJI SALLER, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION UNDER SECTION 11",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

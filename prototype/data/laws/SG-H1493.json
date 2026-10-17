@@ -1,7 +1,7 @@
 {
  "id": "SG-H1493",
  "title": {
-  "zh": null,
+  "zh": "费用（商品与服务税）命令",
   "en": "Fees (Goods and Services Tax) Order",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\n(1)For the search of any document\n$20.\n(2)For the supply of a certified copy of each page of the document\n$3.\n(3)For the supply of a copy of each page of any document\n30 cents.\n[S 554/2019 wef 15/08/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Goods and Services Tax) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

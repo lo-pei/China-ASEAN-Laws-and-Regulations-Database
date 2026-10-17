@@ -1,7 +1,7 @@
 {
  "id": "PH-H822",
  "title": {
-  "zh": null,
+  "zh": "修订第358号共和国法第2条，撤销授予国家电力公司免缴房地产税豁免的法案",
   "en": "An Act to Amend Section Two of Republic Act Numbered Three Hundred Fifty-Eight by Withdrawing the Exemption Granted to the National Power Corporation from Paying Real Estate Tax",
   "orig": "An Act to Amend Section Two of Republic Act Numbered Three Hundred Fifty-Eight by Withdrawing the Exemption Granted to the National Power Corporation from Paying Real Estate Tax"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 2, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Two of Republic Act Numbered Three Hundred Fifty-Eight by Withdrawing the Exemption Granted to the National Power Corporation from Paying Real Estate Tax",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

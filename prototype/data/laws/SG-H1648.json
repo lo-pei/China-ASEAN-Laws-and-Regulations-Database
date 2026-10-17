@@ -1,7 +1,7 @@
 {
  "id": "SG-H1648",
  "title": {
-  "zh": null,
+  "zh": "政府证券（债务市场与投资）法 1992",
   "en": "Government Securities (Debt Market and Investment) Act 1992",
   "orig": null
  },
@@ -734,5 +734,13 @@
     "en": "31.—(1) The Minister may make regulations for prescribing anything which may be prescribed under this Act and generally for the purpose of carrying this Act into effect and, in particular, may make regulations —\n(a)prescribing the terms of issue of Government securities or Treasury Bills issued or advance deposits accepted under this Act;\n[Act 35 of 2021 wef 31/01/2022]\n(b)prescribing the manner in which applications to take up Government securities or Treasury Bills issued under this Act must be made;\n[Act 35 of 2021 wef 31/01/2022]\n(c)prescribing the manner in which Government securities or Treasury Bills must be issued or advance deposits accepted, which may include by syndicated arrangements or like arrangements involving financial institutions agreeing to underwrite any issue of Government securities or Treasury Bills under this Act, to be liable to subscribe for or to procure subscribers for Government securities or Treasury Bills, or to provide other financial accommodation to the Government with respect to any Government securities or Treasury Bills;\n[Act 35 of 2021 wef 31/01/2022]\n(d)prescribing the manner in which applications to be appointed as a primary dealer are to be made;\n(e)prescribing the duties and obligations of a primary dealer;\n(f)providing that section 75B of the Banking Act 1970 applies to a primary dealer as if the primary dealer were a bank licensed under that Act, with such prescribed exceptions, modifications and adaptations as the differences between this Act and that Act require; and\n[Act 35 of 2021 wef 31/01/2022]\n(g)exempting any financial institution or class of financial institutions from all or any of the provisions of Part 7A.\n[15/2021]\n[Act 35 of 2021 wef 31/01/2022]\n(2) The Minister may, by notification in the Gazette, vary the regulations in relation to any particular issue of Government securities or Treasury Bills issued or advance deposits accepted under this Act.\n[Act 35 of 2021 wef 31/01/2022]\n(3) The regulations may also provide that any contravention of any provision of the regulations shall be an offence punishable —\n(a)in the case of an individual, with a fine not exceeding $12,500 or with imprisonment for a term not exceeding 12 months or with both and, in the case of a continuing offence, with a further fine not exceeding $1,250 for every day or part of a day during which the offence continues after conviction; or\n(b)in any other case, with a fine not exceeding $25,000 and, in the case of a continuing offence, with a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Government Securities (Debt Market and Investment) Act 1992",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

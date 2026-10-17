@@ -1,7 +1,7 @@
 {
  "id": "BN-S-45-2005-DATE-COME-TO-FORCE-TOBACCO-ORDER-2005",
  "title": {
-  "zh": null,
+  "zh": "烟草命令生效日期 2005",
   "en": "DATE COME TO FORCE TOBACCO ORDER 2005",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "lOth. APRIL, 2008 No. S45\n\nTOBACCO ORDER, 2005 ~s 49/05)\n\nNOTIFICATION OF COMMENCEMENT In exercise of the power conferred by section 1 ~ 1), the Minister of Health, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints the 1st. June, 2008 as the date on which the Tobacco Order, 2005 shall commence. Dated this 26th. day of Rabiulawal, 1429 Hijriah corresponding to the 3rd. day of April, 2008.\n\nPEHIN ORANG KAYA INDERA PAHLAWAN DATO SERI SETIA\n\nAWANG HAJI SUYOI BIN HAJI OSMAN Minister of Health, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DATE COME TO FORCE TOBACCO ORDER 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

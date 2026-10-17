@@ -1,7 +1,7 @@
 {
  "id": "SG-H766",
  "title": {
-  "zh": null,
+  "zh": "公司（认可公司核数师）（过渡与保留条文）条例 2004",
   "en": "Companies (Approved Company Auditors) (Transitional and Savings Provisions) Regulations 2004",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Any person (not being a public accountant) who, immediately before 1st April 2004, is an approved company auditor under section 9 (2) of the principal Act shall continue to be qualified to act as an auditor of any company as if the Companies (Amendment) Act 2004 had not been enacted, until the date on which the approval would have lapsed or unless sooner revoked by the Minister under section 9 (5) of the principal Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Companies (Approved Company Auditors) (Transitional and Savings Provisions) Regulations 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

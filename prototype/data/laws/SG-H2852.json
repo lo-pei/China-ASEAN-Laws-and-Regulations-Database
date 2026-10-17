@@ -1,7 +1,7 @@
 {
  "id": "SG-H2852",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（亚洲开发银行）命令 2020",
   "en": "International Organisations (Immunities and Privileges) (Asian Development Bank) Order 2020",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9.—(1) Paragraphs 6 and 7 do not apply to any citizen or permanent resident of Singapore.\n(2) Nothing in this Order affects the right of the Government to take measures that it considers useful to safeguard national security, public safety or health, or to maintain law and order."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "International Organisations (Immunities and Privileges) (Asian Development Bank) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

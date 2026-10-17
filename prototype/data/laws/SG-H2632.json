@@ -1,7 +1,7 @@
 {
  "id": "SG-H2632",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护区）（第 2 号）命令 2026",
   "en": "Infrastructure Protection (Protected Areas) (No. 2) Order 2026",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Area\nAssistant Chief of the\nGeneral Staff (Training)\nTRAINING PLOT 2 (EAST) (SITE A) AT JALAN BAHAR\nAll that area comprised in Lot 2234W in Mukim No. 9 occupied by “Training Plot 2 (East) (Site A) AT JALAN BAHAR” containing an area of about 286,589.6 square metres and bounded approximately as follows:\nCommencing at a point 38,798.511 metres North and 12,505.476 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n38,798.511\n12,505.476\n38,766.659\n12,538.907\n38,703.464\n12,619.206\n38,583.017\n12,729.633\n38,471.806\n12,823.585\n38,411.001\n12,885.436\n38,325.044\n12,907.768\n38,164.814\n12,963.267\n38,130.125\n12,964.767\n38,119.447\n12,949.766\n38,111.408\n12,938.470\n38,106.771\n12,931.958\n38,102.370\n12,925.400\n38,098.387\n12,919.469\n38,094.616\n12,912.285\n38,088.766\n12,901.143\n38,084.591\n12,893.192\n38,078.534\n12,881.655\n38,073.714\n12,872.475\n38,070.677\n12,866.691\n38,068.235\n12,861.605\n38,065.822\n12,856.580\n38,061.505\n12,846.166\n38,058.770\n12,839.570\n38,050.026\n12,818.480\n38,034.158\n12,780.207\n38,024.647\n12,757.241\n38,015.137\n12,734.277\n37,982.464\n12,655.276\n37,953.655\n12,582.580\n37,943.858\n12,557.858\n37,968.486\n12,568.578\n37,979.186\n12,573.232\n37,985.805\n12,576.112\n37,993.687\n12,579.540\n38,189.983\n12,533.766\n38,183.409\n12,456.500\n38,182.310\n12,448.531\n38,181.605\n12,443.420\n38,181.482\n12,442.529\n38,203.241\n12,435.185\n38,223.035\n12,428.503\n38,232.811\n12,425.530\n38,252.766\n12,419.461\n38,277.448\n12,410.905\n38,280.582\n12,409.819\n38,285.111\n12,407.620\n38,308.342\n12,396.338\n38,314.957\n12,394.822\n38,340.357\n12,389.002\n38,354.816\n12,384.756\n38,381.418\n12,373.238\n38,382.428\n12,372.800\n38,413.166\n12.370.074\n38,417.245\n12,370.319\n38,442.960\n12,371.864\n38,468.838\n12,372.771\n38,500.128\n12,378.849\n38,522.326\n12,384.459\n38,553.711\n12,394.292\n38,556.191\n12,395.092\n38,577.134\n12,405.363\n38,579.181\n12,406.367\n38,602.654\n12,419.515\n38,683.266\n12,464.670\n38,686.156\n12,465.631\n38,694.385\n12,472.075\n38,696.234\n12,473.798\n38,710.742\n12,481.495\n38,718.152\n12,481.774\n38,733.751\n12,485.819\n38,781.902\n12,501.674\n38,785.555\n12,502.757\n38,789.266\n12,503.619\nto the point of commencement.\nThe boundaries of “TRAINING PLOT 2 (EAST) (SITE A) AT JALAN BAHAR” are more particularly delineated in the Survey Plan No. CP92871 filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Areas) (No. 2) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1026",
  "title": {
-  "zh": null,
+  "zh": "停止面额一百比索以上国库券与中央银行券货币职能并为其他目的法案",
   "en": "An Act to Demonetize Treasury Certificates and Central Bank Notes of Over One Hundred Peso Denominations and for Other Purposes",
   "orig": "An Act to Demonetize Treasury Certificates and Central Bank Notes of Over One Hundred Peso Denominations and for Other Purposes"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 25, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Demonetize Treasury Certificates and Central Bank Notes of Over One Hundred Peso Denominations and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

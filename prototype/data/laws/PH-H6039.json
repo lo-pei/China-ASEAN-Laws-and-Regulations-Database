@@ -1,7 +1,7 @@
 {
  "id": "PH-H6039",
  "title": {
-  "zh": null,
+  "zh": "将南伊莎贝拉区医院床位由二十五张增至五十张的法案",
   "en": "An Act Converting the Southern Isabela District From Twenty-five-bed Capacity of Fifty-bed Capacity",
   "orig": "An Act Converting the Southern Isabela District From Twenty-five-bed Capacity of Fifty-bed Capacity"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, May 26, 1992."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Southern Isabela District From Twenty-five-bed Capacity of Fifty-bed Capacity",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

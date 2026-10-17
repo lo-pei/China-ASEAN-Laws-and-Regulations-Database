@@ -1,7 +1,7 @@
 {
  "id": "PH-H9381",
  "title": {
-  "zh": null,
+  "zh": "将 Navotas 市 Tangos 描笼涯划分为两个独立描笼涯，分别称为北 Tangos 与南 Tangos 的法案",
   "en": "An Act Dividing Barangay Tangos in the City of Navotas Into Two (2) Distinct and Independent Barangays to Be Known as Barangays Tangos North and Tangos South",
   "orig": "An Act Dividing Barangay Tangos in the City of Navotas Into Two (2) Distinct and Independent Barangays to Be Known as Barangays Tangos North and Tangos South"
  },
@@ -110,5 +110,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Dividing Barangay Tangos in the City of Navotas Into Two (2) Distinct and Independent Barangays to Be Known as Barangays Tangos North and Tangos South",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

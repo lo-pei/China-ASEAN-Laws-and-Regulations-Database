@@ -1,7 +1,7 @@
 {
  "id": "SG-H2211",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 4 号）公告 2013",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 4) Notification 2013",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from tax, the interest payable by MDAC 4 Pte Ltd to GE Japan Corporation on a loan granted under the Loan Agreement dated 9th March 2012, for partially financing the purchase of the aircraft with Manufacturer’s Serial Number 1571 (referred to in this Notification as “the aircraft”).\n(2) The exemption under sub‑paragraph (1) —\n(a)is subject to the terms and conditions specified in the letter of approval dated 23rd April 2013 issued by the Ministry of Finance and addressed to MD Aviation Capital Pte Ltd; and\n(b)shall not apply to any interest payable after the earliest of the following:\n(i)14th November 2014;\n(ii)the date of termination of the Loan Agreement;\n(iii)the date on which the aircraft is transferred or disposed of by MDAC 4 Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 4) Notification 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

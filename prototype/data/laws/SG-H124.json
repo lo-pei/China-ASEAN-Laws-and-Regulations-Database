@@ -1,7 +1,7 @@
 {
  "id": "SG-H124",
  "title": {
-  "zh": null,
+  "zh": "穆斯林法管理（朝觐）规则",
   "en": "Administration of Muslim Law (Haj) Rules",
   "orig": null
  },
@@ -400,5 +400,13 @@
     "en": "THE SCHEDULE\nRule 7(1)\nInformation in Haj Accounts\nThe Haj accounts shall state the following information in relation to every person to whom an approved travel agent is providing goods or services for the purposes of the Haj:\n(1)Payments made by the approved travel agent in advance —\n(a)amount of payment or deposit for hotel room and room-reservation related charges;\n(b)amount of payment or deposit for transportation and related charges;\n(c)amount of payment or deposit for the provision of food and related charges;\n(d)amount of payment or deposit for insurance and medical needs;\n(e)amount of payment or deposit for the provision of Haj courses and materials and other related charges; and\n(f)amount of payment or deposit imposed by the Authorities in the Royal Kingdom of Saudi Arabia in relation to the performance of the Haj.\n(2)All payments made by the approved travel agent for contingency matters during the performance of the Haj.\n(3)All payments made by the person concerned to the approved travel agent.\n[G.N. No.S 406/99]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Administration of Muslim Law (Haj) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

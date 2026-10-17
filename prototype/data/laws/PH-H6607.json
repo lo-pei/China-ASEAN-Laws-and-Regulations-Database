@@ -1,7 +1,7 @@
 {
  "id": "PH-H6607",
  "title": {
-  "zh": null,
+  "zh": "授予 Oriental Mindoro Management Resources 公司在菲律宾任何地点建设、安装、运营广播与电视站网络并为其他目的法案",
   "en": "An Act Granting a Franchise to the Oriental Mindoro Management Resources Corporation (OMARCO) to Construct, Install, Establish, Operate, Manage and Maintain a Network of Radio and Television Stations Anywhere in the Philippines, and for Other Purposes",
   "orig": "An Act Granting a Franchise to the Oriental Mindoro Management Resources Corporation (OMARCO) to Construct, Install, Establish, Operate, Manage and Maintain a Network of Radio and Television Stations Anywhere in the Philippines, and for Other Purposes"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of national circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting a Franchise to the Oriental Mindoro Management Resources Corporation (OMARCO) to Construct, Install, Establish, Operate, Manage and Maintain a Network of Radio and Television Stations Anywhere in the Philippines, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

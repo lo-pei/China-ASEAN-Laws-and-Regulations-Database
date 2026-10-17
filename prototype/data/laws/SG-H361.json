@@ -1,7 +1,7 @@
 {
  "id": "SG-H361",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（豁免固定装置与固定装置工程）命令 2025",
   "en": "Building Control (Exempt Fixed Installations and Fixed Installation Works) Order 2025",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nSpecified fixed installations\n1.A stage or orchestra lift.\n2.A lift that is used solely to carry out building works.\n3.A lift that is not attached to any building and is designed to be used by a person to carry out works.\n4.A lifting platform that is designed to be used to raise or lower a person who is carrying out works, such as a mast climbing work platform, building maintenance unit, suspended scaffold or mobile elevating work platform.\n5.A lift that is used as part of an amusement ride (within the meaning given by section 2(1) of the Amusement Rides Safety Act 2011).\n6.A stairlift or vertical platform lift that —\n(a)has a maximum vertical displacement of less than 1,000 millimetres during operation;\n(b)exerts a maximum downward force of less than 150 Newtons when the lift moves downwards; and\n(c)serves a single residential unit.\n7.A lift installed in any ship or aircraft.\n8.A lifting device that does not move along any guide or guides."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Control (Exempt Fixed Installations and Fixed Installation Works) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3048",
  "title": {
-  "zh": null,
+  "zh": "彩票",
   "en": "Lotteries",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n(a)The “100 characters”, “1,000 characters” or “10,000 characters” game also known as the “100 numbers”, “1,000 numbers” or “10,000 numbers” game also known as the “two-digit”, “three-digit” or “four-digit” game also known as the “two-number”, “three-number” or “four-number” game also known as the Tikam Ekor game or any variation thereof.\n(b)The Chap Ji Kee or “12 characters” game.\n(c)The Wha Whey or Wah Weh.\n(d)The Whei Sang or Wai Seng.\n(e)The Chee Fah.\n(f)Any distribution of prizes by lot or chance depending on mechanism operated by a spring or any other means.\n[G.N. No. S (N.S.) 189/59]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Lotteries",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2713",
  "title": {
-  "zh": null,
+  "zh": "修订第 2257 号共和国法（题为《授予 Pamplona Redwood Veneer Co., Inc. 设立、维护和运营私人固定点对点无线电话电台的特许权法案》）若干条",
   "en": "An Act to Amend Certain Sections of Republic Act Numbered Twenty-Two Hundred Fifty-Seven, Entitled “An Act Granting the Pamplona Redwood Veneer Co., Inc. a Franchise to Establish, Maintain and Operate Private Fixed Point-to-Point Radiotelephone Stations for the Transmission and Reception of Wireless Messages to and from Said Stations”",
   "orig": "An Act to Amend Certain Sections of Republic Act Numbered Twenty-Two Hundred Fifty-Seven, Entitled “An Act Granting the Pamplona Redwood Veneer Co., Inc. a Franchise to Establish, Maintain and Operate Private Fixed Point-to-Point Radiotelephone Stations for the Transmission and Reception of Wireless Messages to and from Said Stations”"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect as of June first, nineteen hundred sixty.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of Republic Act Numbered Twenty-Two Hundred Fifty-Seven, Entitled “An Act Granting the Pamplona Redwood Veneer Co., Inc. a Franchise to Establish, Maintain and Operate Private Fixed Point-to-Point Radiotelephone Stations for the Transmission and Reception of Wireless Messages to and from Said Stations”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1627",
  "title": {
-  "zh": null,
+  "zh": "商品与服务税（一般）条例 1993",
   "en": "Goods and Services Tax (General) Regulations 1993",
   "orig": null
  },
@@ -3032,5 +3032,13 @@
     "en": "SECOND SCHEDULE\nRegulation 13A(2)\nParticulars to be specified in the invoice\n1. The particulars specified in regulation 13A(1)(e), (f) and (g) must be set out in the invoice in the following formats:\n(a)for bars, ingots and wafers:\nS/No.\nDescription\nQuantity\nUnit Price\nAmount\n1.\n[Purity] [Whether gold, silver or platinum] [Whether bar, ingot or wafer]\n[Weight of each bar, ingot or wafer]\n[Name of refiner]\n[Unique serial number(s), where available]\n[Number of pieces for this description]\n[Unit price for this description]\n[Price for this number of units]\n(b)for coins:\nS/No.\nDescription\nQuantity\nUnit Price\nAmount\n1.\n[Name of coin]\n[Weight of coin] [Type of investment precious metal]\n[Number of pieces for this description]\n[Unit price for this description]\n[Price for this number of units]\n2. All the different kinds of bars supplied must be described one after another in the invoice (with each description listed under a separate serial number on the invoice); and the same applies in relation to all the different kinds of ingots, wafers and coins supplied."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Goods and Services Tax (General) Regulations 1993",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

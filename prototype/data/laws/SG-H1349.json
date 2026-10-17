@@ -1,7 +1,7 @@
 {
  "id": "SG-H1349",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（车辆排放）条例",
   "en": "Environmental Protection and Management (Vehicular Emissions) Regulations",
   "orig": null
  },
@@ -582,5 +582,13 @@
     "en": "EIGHTH SCHEDULE\nRegulations 11A, 11B(1) and (2), 11C and 11D(1)\nPart 1\nSTANDARDS FOR DIESEL\n1. The standards for diesel are as follows:\nProperty\nUnit\nLimit\nMinimum\nMaximum\n(a)Sulphur content\nppm\n—\n10\n(b)Cetane number\n—\n51\n—\n(c)Polyaromatics content\nwt%\n—\n8\n(d)Density at 15°C\nkg/m3\n—\n845\n(e)Temperature at which 95% is evaporated\n°C\n—\n360\n(f)Fatty acid methyl esters content\nvol%\n—\n7\n(g)Manganese content\ng/L\n—\n0.002\n2. The diesel must not contain any fatty acid methyl esters that do not meet the requirements set out in Table 1 of the document titled “Liquid petroleum products — Fatty acid methyl esters (FAME) for use in diesel engines and heating applications — Requirements and test methods” (BS EN 14214:2012) published by the British Standards Institution.\n[S 322/2019 wef 01/07/2019]\nPart 2\nSTANDARDS FOR PETROL\nProperty\nUnit\nLimit\nMinimum\nMaximum\n1.Sulphur content\nppm\n—\n10\n2.Lead tetra-ethyl and similar lead-containing compounds content\ng/L\n—\n0.005\n3.Olefins content\nvol%\n—\n(a)18 (pool average)\n(b)21 (cap limit)\n4.Benzene content\nvol%\n—\n1\n5.Oxygenates (manifested in the form of ethers with 5 or more carbon atoms) content\nvol%\n—\n22\n6.Oxygen content\nwt%\n—\n3.7\n7.Reid vapour pressure at 37.8°C\nkPa\n—\n60\n8.Fraction evaporated at 100°C\nvol%\n46.0\n—\n9.Fraction evaporated at 150°C\nvol%\n75.0\n—\n10.Aromatics content\nvol%\n—\n(a)35 (pool average)\n(b)42 (cap limit)\n11.Methanol content\nvol%\n—\n3\n12.Manganese content\ng/L\n—\n0.002\n13.Phosphorus content\n—\n—\n0\n[S 322/2019 wef 01/07/2019]\n[S 420/2018 wef 01/12/2018]\n[S 26/2017 wef 01/07/2017]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Protection and Management (Vehicular Emissions) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

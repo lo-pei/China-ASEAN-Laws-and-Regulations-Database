@@ -1,7 +1,7 @@
 {
  "id": "SG-H3466",
  "title": {
-  "zh": null,
+  "zh": "停车场（数字支付—停车费）规则 2022",
   "en": "Parking Places (Digital Payment — Parking Charges) Rules 2022",
   "orig": null
  },
@@ -150,5 +150,11 @@
     "en": "6. The Parking Places (Digital Payment — Parking Charges) Rules 2017 (G.N. No. S 553/2017) are revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Parking Places (Digital Payment — Parking Charges) Rules 2022",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

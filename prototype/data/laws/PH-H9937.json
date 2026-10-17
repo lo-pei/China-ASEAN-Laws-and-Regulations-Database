@@ -1,7 +1,7 @@
 {
  "id": "PH-H9937",
  "title": {
-  "zh": null,
+  "zh": "将依第 7978 号共和国法授予 Metro Manila Turf Club, Inc. 在 Kalookan 市建设、运营和维护赛马场的特许经营权再续展二十五年的法案",
   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Metro Manila Turf Club, Inc. Under Republic Act No.7978, Entitled \"An Act Granting the Metro Manila Turf Club, Inc. a Franchise to Construct, Operate and Maintain a Race Track for Horse Racing in the City of Kalookan\", as Amended By Republic Act No.8298",
   "orig": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Metro Manila Turf Club, Inc. Under Republic Act No.7978, Entitled \"An Act Granting the Metro Manila Turf Club, Inc. a Franchise to Construct, Operate and Maintain a Race Track for Horse Racing in the City of Kalookan\", as Amended By Republic Act No.8298"
  },
@@ -230,5 +230,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in t he Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Metro Manila Turf Club, Inc. Under Republic Act No.7978, Entitled \"An Act Granting the Metro Manila Turf Club, Inc. a Franchise to Construct, Operate and Maintain a Race Track for Horse Racing in the City of Kalookan\", as Amended By Republic Act No.8298",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

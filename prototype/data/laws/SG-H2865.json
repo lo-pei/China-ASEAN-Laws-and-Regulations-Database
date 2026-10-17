@@ -1,7 +1,7 @@
 {
  "id": "SG-H2865",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（国际橡胶研究小组）命令 2022",
   "en": "International Organisations (Immunities and Privileges) (International Rubber Study Group) Order 2022",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "8.—(1) Except to the extent that in any particular case any immunity is waived by the government of the member state which the representative represents, every representative (not being a citizen or permanent resident of Singapore) who attends any annual assembly of the IRSG or meeting of the heads of delegations in Singapore has, in the course of the performance of the representative’s official duties and during his or her journey to and from the place of meeting, immunity from suit and legal process in respect of —\n(a)all official papers and documents (including electronic records) prepared by, or in the possession of, the representative; and\n(b)all words spoken or written and all acts done or omitted to be done by the representative.\n(2) The immunity conferred under sub‑paragraph (1)(b) continues to apply after the annual assembly of the IRSG or meeting of the heads of delegations concerned."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "International Organisations (Immunities and Privileges) (International Rubber Study Group) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

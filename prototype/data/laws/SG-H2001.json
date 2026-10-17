@@ -1,7 +1,7 @@
 {
  "id": "SG-H2001",
  "title": {
-  "zh": null,
+  "zh": "所得税（人寿保险业务收入的免税与优惠税率）条例",
   "en": "Income Tax (Exemption and Concessionary Tax Rate for Income from Life Insurance Business) Regulations",
   "orig": null
  },
@@ -257,5 +257,13 @@
     "en": "7.—(1) Any income derived from a participating fund in relation to offshore life business by an approved insurer for any year of assessment taxable at the rate of 10% in accordance with regulation 4(1)(a) and (b)(i) shall, for the purposes of section 26(8)(b) and (c) of the Act, be apportioned between the policyholders and shareholders of the approved insurer in the same ratio as the amount referred to in section 26(7)(a)(i)(A) of the Act bears to the amount referred to in section 26(7)(a)(i)(B) of the Act for the basis period for that year of assessment.\n[S 748/2010 wef 01/04/2008]\n[S 320/2016 wef 01/04/2013]\n(2) For the purposes of paragraph (1), where no allocation is made out of the participating fund by the approved insurer in accordance with section 16(7)(b) of the Insurance Act 1966, the income shall be deemed to be apportioned to the policyholders in accordance with —\n(a)where the articles of association of the approved insurer specify the percentage of the gains or profits of the participating fund in respect of offshore life policies that may be distributed to the policyholders, that percentage; or\n(b)where the articles of association of the approved insurer do not so specify, the difference between 100% and the maximum amount (in terms of percentage) of the fund that may be allocated to the surplus account under section 16(7)(c)(iv) of the Insurance Act 1966, out of the total of such amount and the amount of the fund that may be allocated to participating policies by way of bonus in accordance with section 16(7)(b) of that Act.\n[S 215/2023 wef 31/12/2021]\n(3) Paragraphs (1) and (2) shall not apply to a captive insurer.\n[S 81/2009 wef Y/A 2006 & Sub Ys/A]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (Exemption and Concessionary Tax Rate for Income from Life Insurance Business) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

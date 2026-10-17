@@ -1,7 +1,7 @@
 {
  "id": "SG-H878",
  "title": {
-  "zh": null,
+  "zh": "反补贴与反倾销税法 1996",
   "en": "Countervailing and Anti-Dumping Duties Act 1996",
   "orig": null
  },
@@ -806,5 +806,13 @@
     "en": "47. The repealed Customs (Dumping and Subsidies) Act (Cap. 71, 1985 Revised Edition) and any subsidiary legislation made thereunder in force immediately before 1 November 1996 continue to apply to any representation, investigation, application or order made or thing done under that Act or subsidiary legislation as if this Act had not been enacted but do not apply to the procedure for any review of existing measures initiated, pursuant to an application, after that date."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Countervailing and Anti-Dumping Duties Act 1996",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

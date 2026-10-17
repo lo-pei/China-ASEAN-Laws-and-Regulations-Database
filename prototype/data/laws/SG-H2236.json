@@ -1,7 +1,7 @@
 {
  "id": "SG-H2236",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）公告 2019",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest of US$524,092.31 payable by STC Shipping Pte. Ltd. to Mizuho Bank, Ltd., Imabari Branch, from 10 June 2018 to 10 May 2021 (both dates inclusive), in respect of a loan amount of US$9,600,000 granted under a loan agreement dated 7 May 2018, for the purpose of financing the purchase of the vessel “STC Sentosa”, is exempt from tax.\n(2) The exemption under sub‑paragraph (1) is subject to the conditions specified in the letter of approval dated 1 February 2019 issued by the Ministry of Finance and addressed to STC Shipping Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

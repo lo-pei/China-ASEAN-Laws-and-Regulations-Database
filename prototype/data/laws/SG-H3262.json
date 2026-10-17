@@ -1,7 +1,7 @@
 {
  "id": "SG-H3262",
  "title": {
-  "zh": null,
+  "zh": "多层次营销与金字塔销售（禁止）法 1973",
   "en": "Multi-Level Marketing and Pyramid Selling (Prohibition) Act 1973",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "10. The Minister may make regulations for carrying into effect the objects and purposes of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Multi-Level Marketing and Pyramid Selling (Prohibition) Act 1973",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

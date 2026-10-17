@@ -1,7 +1,7 @@
 {
  "id": "PH-H8924",
  "title": {
-  "zh": null,
+  "zh": "将东明多洛省Calapan市Jose J. Leido Jr.纪念国立中学更名为东明多洛国立中学的法案",
   "en": "An Act Changing the Name of Jose J. Leido Jr. Memorial National High School in the City of Calapan, Province of Oriental Mindoro to Oriental Mindoro National High School",
   "orig": "An Act Changing the Name of Jose J. Leido Jr. Memorial National High School in the City of Calapan, Province of Oriental Mindoro to Oriental Mindoro National High School"
  },
@@ -70,5 +70,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Jose J. Leido Jr. Memorial National High School in the City of Calapan, Province of Oriental Mindoro to Oriental Mindoro National High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

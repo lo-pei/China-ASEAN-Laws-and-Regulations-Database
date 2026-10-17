@@ -1,7 +1,7 @@
 {
  "id": "BN-S-42-2019-SCHEDULE-4-OF-PETROLEUM-AUTHORITY-OF-BRUNEI-60E2B0",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰国石油管理局第 4 附表命令 2019",
   "en": "SCHEDULE 4 OF PETROLEUM AUTHORITY OF BRUNEI DARUSSALAM ORDER 2019",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "( 1) The income of the Company shall consist of commercial income. 23rd. DECEMBER, 2019 SCHEDULE 4 -{Continued}\n\n(2) The commercial income shall consist of all receipts, returns and revenues that the Company receives as a result of activities conducted as provided in section 7(3).\n\n(3) The Company shall be entitled to retain all of the commercial income.\n\n(4) Subject to subsection (5), His Majesty the Sultan and Yang Di-Pertuan in Council shall have the right to decline a dividend as proposed by the Board and to direct the Company in writing to pay such amount of dividend as His Majesty the Sultan and Yang Di-Pertuan in Council considers appropriate in the public interest.\n\n(5) Subject to section 13(1) and notwithstanding any other provision of this Order or of any other written law, any direction so issued under subsection\n\n(4) shall be binding on the Company, its directors, officers and other employees.\n\n(6) When issuing any direction to the Company, as provided in subsection (4) or section 13(1), His Majesty the Sultan and Yang Di-Pertuan in Council shall abide by the requirements of the Company's annual budgets, as approved by the Board, and by the Company's binding commitments to third parties\". Section 13(1) Delete \"subsection (8) of section 12\" from the first line and substitute with \"section 12(6)\" therefor. Section 13(2) Delete \"only of subsection (7) of section 12 and subsection (1) of this section\" from the last two lines and substitute with \"of subsection (1) and section 12(4) and (5)\" therefor. Section 13(3) Repeal. Section 15(2) Delete \", other than the powers and duties under section 3\" from the last line. First Schedule Repeal. Second Schedule Repeal."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SCHEDULE 4 OF PETROLEUM AUTHORITY OF BRUNEI DARUSSALAM ORDER 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

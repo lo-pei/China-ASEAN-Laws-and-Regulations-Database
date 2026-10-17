@@ -1,7 +1,7 @@
 {
  "id": "PH-H6520",
  "title": {
-  "zh": null,
+  "zh": "应对国家水危机并为其他目的法案",
   "en": "An Act to Address the National Water Crisis and for Other Purposes",
   "orig": "An Act to Address the National Water Crisis and for Other Purposes"
  },
@@ -210,5 +210,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days following its publication in at least two (2) national newspapers of general circulation or in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Address the National Water Crisis and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

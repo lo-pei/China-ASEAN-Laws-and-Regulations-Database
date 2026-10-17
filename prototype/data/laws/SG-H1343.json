@@ -1,7 +1,7 @@
 {
  "id": "SG-H1343",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（受管制温室气体工程）命令 2022",
   "en": "Environmental Protection and Management (Regulated GHG Works) Order 2022",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nRegulated GHG works\nDescription of GHG works\nDate from (and including)\nwhich GHG works\nbecome regulated\nGHG works\n1.\nThe charging of any specified water‑cooled chiller\n1 October 2022\n2.\nThe maintenance of any specified water‑cooled chiller\n1 October 2022\n3.\nThe decommissioning of any specified water‑cooled chiller\n1 October 2022"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Protection and Management (Regulated GHG Works) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

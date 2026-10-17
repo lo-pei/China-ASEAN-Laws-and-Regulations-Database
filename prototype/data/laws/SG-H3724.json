@@ -1,7 +1,7 @@
 {
  "id": "SG-H3724",
  "title": {
-  "zh": null,
+  "zh": "义勇军法 1967",
   "en": "Vigilante Corps Act 1967",
   "orig": null
  },
@@ -464,5 +464,13 @@
     "en": "THE SCHEDULE\nSections 16(1), 17(1) and 24(1)\nOffences\n1. Abandons any place or thing which it is his duty to guard or to prevent from falling into the hands of any unauthorised person.\n2. Behaves in such a manner as to show cowardice or induces any other member so to behave when that member is on duty.\n3. While on guard duty, sleeps or leaves any place where it is his duty to be.\n4. While on patrol duty, does not carry out his duty diligently.\n5. Fails to use his utmost exertion to carry any lawful order of a superior officer into execution.\n6. By words or behaviour, wilfully disobeys any lawful order by whatever means communicated to him.\n7. Fails to comply with any lawful order or neglects to perform or negligently performs any lawful duty or order.\n8. Strikes or otherwise uses violence to or offers violence to a member superior in rank.\n9. Uses threatening or insubordinate language, or gestures or behaves with contempt to a member superior in rank.\n10. Absents without leave or good cause from service or from the place where he is lawfully required for the time being to be.\n11. Does or fails to do any act, or conducts himself to the prejudice of good order or discipline in the Corps.\n12. Unlawfully places or holds a member in custody.\n13. Ill-treats a member of lower rank or less seniority or any member in custody or subject to his authority.\n14. Knowingly exceeds his authority over a member of lower rank or less seniority.\n15. Falsely claims to be suffering from any sickness.\n16. Injures himself or any other member with intent thereby to render himself or that other member unfit for service, or causes himself to be injured by any person with that intent.\n17. Does any act or fails to do anything to produce, prolong or aggravate any sickness with intent to render or keep himself unfit for duty or service.\n18. While on duty, is intoxicated by alcohol.\n19. Has in his possession, smokes or administers to himself or otherwise consumes any dangerous, prohibited or controlled drug as defined in any written law relating to the misuse or control of drugs.\n20. Without authority, abandons any arms, vessel or vehicle of the Corps or the Police Force.\n21. Does an act in relation to any thing or substance that may be dangerous to life or property, which act causes, or is likely to cause, loss of life or bodily injury to any member or cause, or is likely to cause, damage to or destruction of any property.\n22. Wilfully damages or destroys or causes the loss of, or is concerned in the wilful damage, destruction or loss of, any property belonging to the Government or to a member.\n23. By wilful neglect causes or allows damage to, or the loss of, any property belonging to the Government.\n24. By any negligent act or omission, causes or allows damage to, or the loss of, any property belonging to the Government.\n25. Does any wilful or negligent act or omission which is likely to cause damage to, or the loss of, any property belonging to the Government.\n26. Misapplies or wastefully expends any property of the Government.\n27. Being a full-time member, engages in any trade or employment without the permission of the Commissioner."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Vigilante Corps Act 1967",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2244",
  "title": {
-  "zh": null,
+  "zh": "所得税（合格家族投资控股公司相关收入豁免）条例 2009",
   "en": "Income Tax (Exemption of Relevant Income of Eligible Family-owned Investment Holding Company) Regulations 2009",
   "orig": null
  },
@@ -103,5 +103,11 @@
     "en": "5.—(1) An eligible family-owned investment holding company shall submit an annual declaration in accordance with paragraph (2) that the conditions for exemption under section 13W of the Act are satisfied.\n(2) The declaration shall be made to the Comptroller and the Monetary Authority of Singapore in respect of each basis period relating to any year of assessment and shall be made in such form and within such time as the Comptroller or the Monetary Authority of Singapore may specify."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Income Tax (Exemption of Relevant Income of Eligible Family-owned Investment Holding Company) Regulations 2009",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

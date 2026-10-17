@@ -1,7 +1,7 @@
 {
  "id": "PH-H2822",
  "title": {
-  "zh": null,
+  "zh": "修订第924号共和国法第1条与第2条，依特许城市分类统一市镇法官薪金并为其他目的法案",
   "en": "An Act to Amend Sections One and Two of Republic Act Numbered Nine Hundred Twenty-Four, Standardizing the Salaries of Municipal Judges in Accordance with the Classification of Chartered Cities and for Other Purposes",
   "orig": "An Act to Amend Sections One and Two of Republic Act Numbered Nine Hundred Twenty-Four, Standardizing the Salaries of Municipal Judges in Accordance with the Classification of Chartered Cities and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted, without Executive signature on June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections One and Two of Republic Act Numbered Nine Hundred Twenty-Four, Standardizing the Salaries of Municipal Judges in Accordance with the Classification of Chartered Cities and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

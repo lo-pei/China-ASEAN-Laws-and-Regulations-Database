@@ -1,7 +1,7 @@
 {
  "id": "PH-H4961",
  "title": {
-  "zh": null,
+  "zh": "修订第4645号共和国法（即《奥隆阿波市宪章》）若干条款的法案",
   "en": "An Act Amending Certain Sections of Republic Act Numbered Forty-Six Hundred Forty-Five, Known as the Charter of the City of Olongapo.",
   "orig": "An Act Amending Certain Sections of Republic Act Numbered Forty-Six Hundred Forty-Five, Known as the Charter of the City of Olongapo."
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 17, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Sections of Republic Act Numbered Forty-Six Hundred Forty-Five, Known as the Charter of the City of Olongapo.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

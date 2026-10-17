@@ -1,7 +1,7 @@
 {
  "id": "SG-H502",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（家属保障保险计划——负债转移）条例 2005",
   "en": "Central Provident Fund (Dependants’ Protection Insurance Scheme — Transfer of Liabilities) Regulations 2005",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. The Board may, at its sole discretion —\n(a)determine the manner of allocation of members who are entitled to be insured under the Scheme to each appointed insurer for the purpose of issuing insurance covers to these members under the Scheme;\n(b)determine the manner of allocation of persons who are already insured under the Scheme before the implementation date and whose insurance covers under the Scheme are in force as at 16 September 2005 to each appointed insurer for the purpose of taking over the future liability; and\n(c)if the cut‑off date is appointed by the Minister, determine the manner of allocation of the residual liability to one or more of the appointed insurers."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Dependants’ Protection Insurance Scheme — Transfer of Liabilities) Regulations 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

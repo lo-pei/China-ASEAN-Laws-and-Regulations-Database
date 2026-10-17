@@ -1,7 +1,7 @@
 {
  "id": "SG-H3146",
  "title": {
-  "zh": null,
+  "zh": "终身健保计划（海外新加坡公民计划）条例 2016",
   "en": "MediShield Life Scheme (Scheme for Overseas Singapore Citizens) Regulations 2016",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) Where, for the purposes of the OS scheme —\n(a)an application is made for the refund of any premium paid by or on behalf of an insured person; and\n(b)the Board approves the refund of the whole or part of the premium paid by or on behalf of the insured person (called in this regulation the approved refund),\nthe Board may refund the amount of the approved refund.\n(2) Subject to section 5 of the Act, all amounts refunded under paragraph (1) are to be paid from the Fund.\n(3) Regardless of the manner in which a premium mentioned in paragraph (1) was paid, the Board may pay the whole or part of the approved refund into the medisave account of the person who paid the premium.\n(4) If, under paragraph (3), the Board refunds the whole or part of any premium that was deducted from a CPF member’s medisave account, the Board may also pay into the medisave account of that CPF member the whole or such part, as the Board may determine, of the interest that would have been payable on the amount of that refund if that amount had not been deducted from the CPF member’s medisave account."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "MediShield Life Scheme (Scheme for Overseas Singapore Citizens) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-15-2014-RELIGIOUS-COUNCIL-AND-KADIS-COURTS-ACT-AMEN-04267B",
  "title": {
-  "zh": null,
+  "zh": "宗教理事会与卡迪法庭法修正命令 2014",
   "en": "RELIGIOUS COUNCIL AND KADIS COURTS ACT AMENDMENT ORDER 2014",
   "orig": null
  },
@@ -123,5 +123,13 @@
     "en": "Section 195 of the Act is amended -\n\n(a) by deleting \"or 173\" from the fifth line; and\n\n(b) by deleting \"cognisable by a Magistrate's Court\" from the fifth and sixth lines. day of Jamadilakhir, 1435 Hijriah corresponding to the 26th. day of April, 2014 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RELIGIOUS COUNCIL AND KADIS COURTS ACT AMENDMENT ORDER 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

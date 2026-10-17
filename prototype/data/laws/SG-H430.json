@@ -1,7 +1,7 @@
 {
  "id": "SG-H430",
  "title": {
-  "zh": null,
+  "zh": "终身护保与长期护理（长期护理支持基金——规定公共计划）条例 2019",
   "en": "CareShield Life and Long-Term Care (Long-Term Care Support Fund — Prescribed Public Schemes) Regulations 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 39(1)(c) of the Act, the following schemes established by the Government are prescribed public schemes:\n(a)the ElderFund Scheme;\n(b)the Withdrawal from Medisave Account for Long‑Term Care Scheme (also known as the Medisave Care Scheme).\n[S 851/2020 wef 01/10/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "CareShield Life and Long-Term Care (Long-Term Care Support Fund — Prescribed Public Schemes) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

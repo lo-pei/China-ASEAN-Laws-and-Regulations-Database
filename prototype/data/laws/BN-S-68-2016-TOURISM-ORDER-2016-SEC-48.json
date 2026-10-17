@@ -1,7 +1,7 @@
 {
  "id": "BN-S-68-2016-TOURISM-ORDER-2016-SEC-48",
  "title": {
-  "zh": null,
+  "zh": "旅游命令 2016 第 48 条",
   "en": "TOURISM ORDER 2016 SEC. 48",
   "orig": null
  },
@@ -656,5 +656,13 @@
     "en": "(1) Any subsidiary legislation or appointment made, and any thing done, under the repealed Travel Agents Act (Chapter 103) and in force immediately prior to the commencement of this Order and so far as it is not inconsistent with this Order, shall continue, in force as if made or done under this Order, until it is amended, repealed or revoked under this Order.\n\n(2) Until otherwise amended under this Order and subject to the provisions of this Order, any reference in the subsidiary legislation made under the repealed Travel Agents Act to the Authority shall be construed as reference to the Director of Tourism Development.\n\n(3) Any licence issued under the repealed Travel Agents Act and in force immediately before the date of commencement of this Order shall continue to be in force for the remaining period of the licence and shall subsist until its expiry.\n\n(4) Every application for licences pending to be issued under the repealed Travel Agents Act (Chapter 103) made before the date of commencement of this Order shall be deemed to be an application of the licence under this Order. Made this 25th. day of Muharram, 1438 Hijriah corresponding to the 26th. day of October, 2016 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TOURISM ORDER 2016 SEC. 48",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

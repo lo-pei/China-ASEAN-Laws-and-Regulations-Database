@@ -1,7 +1,7 @@
 {
  "id": "SG-H2952",
  "title": {
-  "zh": null,
+  "zh": "土地测量师委员会规则",
   "en": "Land Surveyors Board Rules",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "11. The Registrar and such officers and employees as the Board may appoint shall receive such fees or remuneration as the Board may determine.\n[G.N. Nos. S 374/91; S 200/2000]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Land Surveyors Board Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

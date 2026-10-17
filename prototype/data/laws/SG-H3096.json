@@ -1,7 +1,7 @@
 {
  "id": "SG-H3096",
  "title": {
-  "zh": null,
+  "zh": "海事公约法 1911",
   "en": "Maritime Conventions Act 1911",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "10. This Act may be cited as the Maritime Conventions Act 1911, and shall be construed as one with the Merchant Shipping Act 1995."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Maritime Conventions Act 1911",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

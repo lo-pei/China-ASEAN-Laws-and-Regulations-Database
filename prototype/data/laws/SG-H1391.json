@@ -1,7 +1,7 @@
 {
  "id": "SG-H1391",
  "title": {
-  "zh": null,
+  "zh": "房地产代理（罪行构成）条例 2010",
   "en": "Estate Agents (Composition of Offences) Regulations 2010",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded, in accordance with section 69 of the Act, by the Executive Director or any officer authorised by him:\n(a)any offence (other than a continuing offence) under section 28(2), 29(3), 33(6), 34(7), 37(6), 39(2), 40(3), 41(3), 43(6), 43A(3) or (4), 64(1)(a) or 65(4) or (5) of the Act;\n[S 187/2023 wef 07/04/2023]\n(b)any offence under regulation 5(3), 6(2), 7(3), 8(2) or 9(3) of the Estate Agents (Estate Agency Work) Regulations 2010 (G.N. No. S 644/2010);\n[S 187/2023 wef 07/04/2023]\n(c)any offence under regulation 17(3) of the Estate Agents (Disciplinary Proceedings) Regulations 2011 (G.N. No. S 152/2011);\n[S 187/2023 wef 07/04/2023]\n(d)any offence under rule 17(3) of the Estate Agents (Appeals) Rules 2010 (G.N. No. S 643/2010).\n[S 187/2023 wef 07/04/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Estate Agents (Composition of Offences) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

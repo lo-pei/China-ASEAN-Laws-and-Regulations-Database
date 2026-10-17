@@ -1,7 +1,7 @@
 {
  "id": "SG-H3535",
  "title": {
-  "zh": null,
+  "zh": "规划（罪行构成）规则 2018",
   "en": "Planning (Composition of Offences) Rules 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the competent authority in accordance with section 57 of the Act:\n(a)an offence (other than a continuing offence) under section 12(1) or (2), read with section 12(4), of the Act;\n(b)an offence (other than a continuing offence) under section 15(3A), read with section 15(3B), of the Act;\n(c)an offence (other than a continuing offence) under section 30(1), read with section 30(3), of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Planning (Composition of Offences) Rules 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

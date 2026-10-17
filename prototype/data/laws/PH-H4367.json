@@ -1,7 +1,7 @@
 {
  "id": "PH-H4367",
  "title": {
-  "zh": null,
+  "zh": "将莱特省马哈普拉格市镇的卡伦扬、伊哈万、卡格西利汉、蒙特里科与塔格比诺加小村组建为该市镇名为圣胡安村的法案",
   "en": "An Act Constituting Sitios Calunyan, Ihawan, Kagsilihan, Monterico and Tagbinonga in the Municipality of Mahaplag, Province of Leyte, Into a Barrio of Said Municipality, to Be Known as Barrio San Juan",
   "orig": "An Act Constituting Sitios Calunyan, Ihawan, Kagsilihan, Monterico and Tagbinonga in the Municipality of Mahaplag, Province of Leyte, Into a Barrio of Said Municipality, to Be Known as Barrio San Juan"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Constituting Sitios Calunyan, Ihawan, Kagsilihan, Monterico and Tagbinonga in the Municipality of Mahaplag, Province of Leyte, Into a Barrio of Said Municipality, to Be Known as Barrio San Juan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

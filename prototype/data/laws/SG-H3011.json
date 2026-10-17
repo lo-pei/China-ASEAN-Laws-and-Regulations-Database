@@ -1,7 +1,7 @@
 {
  "id": "SG-H3011",
  "title": {
-  "zh": null,
+  "zh": "法律职业（律师赔偿基金）规则",
   "en": "Legal Profession (Solicitors’ Compensation Fund) Rules",
   "orig": null
  },
@@ -165,5 +165,13 @@
     "en": "THE SCHEDULE\nFORM A\nRule 2\nLEGAL PROFESSION\n(SOLICITORS’ COMPENSATION FUND)\nRULES\nNOTICE OF LOSS\nTo:The Secretary,\nThe Law Society of Singapore,\n39 South Bridge Road,\nSingapore 058673.\nI, ...................................................................................................................\n(Full name)\nof ........................................................................................................................\n(Address)\nhereby give notice that I have incurred a loss of approximately $.....................\n(Amount)\nwhich I believe to be due to the dishonesty of ………………………………...\n…………………………………………………………………………………\n(Full name of solicitor or firm of solicitors)\nor his/their clerk(s). The details relating thereto are set out in the Schedule of\nParticulars attached —\n*(a)to the application which accompanies this notice;\n*(b)to this notice and I also give notice that an application\nfor a grant may be made in due course.\nDated this ......... day of ........................ 20......\n......................................\n(Signature)\n*Delete whichever is applicable.\nFORM B\nRule 5\nLEGAL PROFESSION ACT\n(CHAPTER 161)\nLEGAL PROFESSION\n(SOLICITORS’ COMPENSATION FUND)\nRULES\nFORM OF APPLICATION FOR\nA GRANT OUT OF THE COMPENSATION FUND\nTo:The Secretary,\nThe Law Society of Singapore,\n39 South Bridge Road,\nSingapore 058673.\nI, ...................................................................................................................\n(Full name of applicant)\nof ........................................................................................................................\n(Address of applicant)\nhereby apply to the Council of the Law Society of Singapore that in the exercise of the absolute discretion conferred upon the Council by\nthe Legal Profession Act, the Council makes to me a grant of $.......................\n(Amount)\nor any sum which the Council may think proper out of the Compensation Fund for the purpose of relieving or mitigating a loss which I believe to have incurred by reason of the dishonesty of\n…………………………………………………………………………………\n(Full name of solicitor or firm of solicitors)\nor his/their clerk(s). A Notice of Loss was forwarded to the Society on\n………………………….. and full details relative to this claim are set out in\n(Date Notice despatched)\nthe Schedule of Particulars attached to this application.\nDated this ......... day of ........................ 20......\n................................................\n(Signature)\n(Schedule of Particulars to be annexed to Form A or B)\nThis Schedule should contain the following information which should be given concisely in numbered paragraphs:\n1. The circumstances in which and the date or dates on which the money or other property, in respect of which the loss incurred came into the possession of the solicitor or his clerk or employee.\n2. Full particulars of the money or property.\n3. The facts relied upon in support of the allegation of dishonesty or failure to account.\n4. The circumstances in and the date on which the loss first came to the knowledge of the applicant.\n5. Particulars of any relevant documents which can be produced in support of this application.\n6. Whether it is known that any other application is likely to be made in respect of the facts set out in this Schedule.\n7. Whether any civil, criminal or disciplinary proceedings have or will be taken in respect of the facts set out in this application. If proceedings have already been taken, give the result.\n8. The name and address of any solicitor instructed on behalf of the applicant.\n9. Any other relevant particulars."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Solicitors’ Compensation Fund) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

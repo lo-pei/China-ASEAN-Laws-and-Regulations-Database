@@ -1,7 +1,7 @@
 {
  "id": "PH-H7553",
  "title": {
-  "zh": null,
+  "zh": "将哥打巴托省Kidapawan市Onica描笼涯的Amas国立中学Onica附属校从Amas国立中学分离，改设为独立的Onica国立中学并为此拨款的法案",
   "en": "An Act Separating the Amas National High School - Onica Annex in Barangay Onica, City of Kidapawan, Province of Cotabato From the Amas National High School and Converting the Same Into An Independent National High School to Be Known as Onica National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Amas National High School - Onica Annex in Barangay Onica, City of Kidapawan, Province of Cotabato From the Amas National High School and Converting the Same Into An Independent National High School to Be Known as Onica National High School and Appropriating Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Amas National High School - Onica Annex in Barangay Onica, City of Kidapawan, Province of Cotabato From the Amas National High School and Converting the Same Into An Independent National High School to Be Known as Onica National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

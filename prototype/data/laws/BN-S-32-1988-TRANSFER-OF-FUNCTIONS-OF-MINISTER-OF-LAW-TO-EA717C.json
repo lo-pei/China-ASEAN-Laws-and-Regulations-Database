@@ -1,7 +1,7 @@
 {
  "id": "BN-S-32-1988-TRANSFER-OF-FUNCTIONS-OF-MINISTER-OF-LAW-TO-EA717C",
  "title": {
-  "zh": null,
+  "zh": "法律部长职能移交商业名称登记官",
   "en": "TRANSFER OF FUNCTIONS OF MINISTER OF LAW TO REGISTRAR OF BUSINESS NAMES",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 32\n\nTRANSFER OF THE FUNCTIONS OF THE MINISTER OF LAW It is hereby notified for general information that His Majesty The Sultan and Yang Di-Pertuan has directed that with effect from the 16th. day of September, 1998 all the functions, powers, duties, privileges and benefits of the Minister of Law which have been transferred to or conferred or imposed on him by each of the written laws specified in the first column of the Schedule be transferred to the person specified opposite such written law in the second column of the Schedule.\n\nSCHEDULE Business Names Act {Chapter 92} the Registrar of Business Names Companies Act {Chapter 39} the Registrar of Companies Section 16(3) of the Emergency Chairman of the Public Service (Arbitration) Order, 1994 Commission (S 32/94) Section 48 of the Emergency the Attorney General (Arbitration) Order, 1994 (S 32/94) Inventions Act {Chapter 72} the Registrar of Trade Marks Powers of Attorney Act the Registrar of Powers of {Chapter 13} Attorney Trade Marks Act (Chapter 98} the Registrar of Trade Marks\n\nBY COMMAND\n\nDATO PADUKA HAJI A WANG HAZAIR BIN\n\nHAJI A WANG ABDULLAH Permanent Secretary, Prime Minister's Office, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TRANSFER OF FUNCTIONS OF MINISTER OF LAW TO REGISTRAR OF BUSINESS NAMES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

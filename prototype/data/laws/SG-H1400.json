@@ -1,7 +1,7 @@
 {
  "id": "SG-H1400",
  "title": {
-  "zh": null,
+  "zh": "房地产代理（交易记录）条例 2021",
   "en": "Estate Agents (Transaction Records) Regulations 2021",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. For the purposes of section 43A(1) of the Act, the prescribed particulars of a property transaction completed by a client of a licensed estate agent are the following particulars in respect of a residential property transaction:\n(a)whether the property transaction was completed by the client as the purchaser, vendor, landlord, tenant or sub‑tenant;\n(b)whether the property transaction consisted of a sale of the property, a sub‑sale of the property, a resale of the property, a lease of the property or part of the property, or a sub‑lease of the property or part of the property;\n(c)whether the property transaction involved the acquisition or disposal by the client of a condominium, an apartment, an executive condominium, a landed dwelling‑house, a strata landed dwelling‑house or an HDB flat;\n(d)the address of the property that was the subject of the property transaction;\n(e)when the property transaction was completed;\n(f)the licence number of the licensed estate agent;\n(g)where applicable, the registration number of each registered salesperson who carried out estate agency work in relation to the property transaction;\n(h)where applicable, the name of each partner (other than a partner of a limited liability partnership) or the sole proprietor (as the case may be) who carried out estate agency work in relation to the property transaction."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Estate Agents (Transaction Records) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H439",
  "title": {
-  "zh": null,
+  "zh": "航空运输（公约缔约方）命令",
   "en": "Carriage by Air (Parties to Conventions) Order",
   "orig": null
  },
@@ -120,5 +120,13 @@
     "en": "THIRD SCHEDULE\nParagraph 4\nThe People’s Republic of the Congo\nMalaysia\nThe Republic of Venezuela"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Carriage by Air (Parties to Conventions) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

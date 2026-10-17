@@ -1,7 +1,7 @@
 {
  "id": "SG-H1745",
  "title": {
-  "zh": null,
+  "zh": "印度教捐赠基金规则 1969",
   "en": "Hindu Endowments Rules 1969",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. All agreements which are not under the seal of the Board must be signed by the Secretary of the Board."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Hindu Endowments Rules 1969",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

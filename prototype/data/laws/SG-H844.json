@@ -1,7 +1,7 @@
 {
  "id": "SG-H844",
  "title": {
-  "zh": null,
+  "zh": "受管制处所（特别条文）（指定发展区）公告",
   "en": "Controlled Premises (Special Provisions) (Designated Development Areas) Notification",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Controlled Premises (Special Provisions) (Designated Development Areas) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

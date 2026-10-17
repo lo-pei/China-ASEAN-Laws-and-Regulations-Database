@@ -1,7 +1,7 @@
 {
  "id": "PH-H9216",
  "title": {
-  "zh": null,
+  "zh": "制定消除结核病作为公共卫生问题的菲律宾综合行动计划并为此拨款的法案",
   "en": "An Act Establishing a Comprehensive Philippine Plan of Action to Eliminate Tuberculosis as a Public Health Problem and Appropriating Fund Therefor",
   "orig": "An Act Establishing a Comprehensive Philippine Plan of Action to Eliminate Tuberculosis as a Public Health Problem and Appropriating Fund Therefor"
  },
@@ -230,5 +230,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Comprehensive Philippine Plan of Action to Eliminate Tuberculosis as a Public Health Problem and Appropriating Fund Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

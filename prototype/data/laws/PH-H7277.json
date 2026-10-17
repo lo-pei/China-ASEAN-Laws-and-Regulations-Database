@@ -1,7 +1,7 @@
 {
  "id": "PH-H7277",
  "title": {
-  "zh": null,
+  "zh": "将菲律宾科学中学北拉瑙校区设于北拉瑙省Balo-I市镇，为此修订第8461号共和国法第4(A)条的法案",
   "en": "An Act Fixing the Site of the Philippine Science High School Lanao Del Norte Campus in the Municipality of Balo-I, Province of Lanao Del Norte, Hereby Amending for This Purpose Section 4 (A) of Republic Act No. 8461",
   "orig": "An Act Fixing the Site of the Philippine Science High School Lanao Del Norte Campus in the Municipality of Balo-I, Province of Lanao Del Norte, Hereby Amending for This Purpose Section 4 (A) of Republic Act No. 8461"
  },
@@ -80,5 +80,13 @@
     "en": "Effectivity. — This Act shall take effect upon its approval and completion of publication in at least two (2) national newspapers of general circulation.\nApproved, August 16, 2000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Fixing the Site of the Philippine Science High School Lanao Del Norte Campus in the Municipality of Balo-I, Province of Lanao Del Norte, Hereby Amending for This Purpose Section 4 (A) of Republic Act No. 8461",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

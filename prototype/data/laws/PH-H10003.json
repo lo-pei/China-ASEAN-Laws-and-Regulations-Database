@@ -1,7 +1,7 @@
 {
  "id": "PH-H10003",
  "title": {
-  "zh": null,
+  "zh": "财产登记法令",
   "en": "Property Registration Decree",
   "orig": "An Act Improving the Confirmation Process for Imperfect Land Titles, Amending for the Purpose Commonwealth Act No. 141, as Amended, Otherwise Known as \"The Public Land Act,\" and Presidential Decree No. 1529, as Amended, Otherwise Known as the \"Property Registration Decree\""
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Property Registration Decree",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1003",
  "title": {
-  "zh": null,
+  "zh": "规定在特定条件下确定短缺商品最高售价、设立价格管制办公室并为其他目的法案",
   "en": "An Act to Provide for the Fixing, Under Certain Conditions, of the Maximum Selling Prices of Commodities in Short Supply, Creating the Price Control, Office, and for Other Purposes",
   "orig": "An Act to Provide for the Fixing, Under Certain Conditions, of the Maximum Selling Prices of Commodities in Short Supply, Creating the Price Control, Office, and for Other Purposes"
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect upon its approval and shall continue in force until the fifteenth of February, nineteen hundred and fifty-five; Provided, However , That convictions rendered under this Act or under the duly promulgated orders, rules and regulations issued pursuant thereto shall remain valid and enforceable, and prosecutions of offenses committed during the effectivity thereof shall continue and shall not be barred until terminated by conviction or acquittal of the accused.\nApproved: June 18, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Fixing, Under Certain Conditions, of the Maximum Selling Prices of Commodities in Short Supply, Creating the Price Control, Office, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

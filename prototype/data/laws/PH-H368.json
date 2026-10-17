@@ -1,7 +1,7 @@
 {
  "id": "PH-H368",
  "title": {
-  "zh": null,
+  "zh": "授权土地局长分割属于菲律宾共和国、已不再用于军事目的军事保留地内土地，并按规定条件出售处分并为其他目的法案",
   "en": "An Act Authorizing the Director of Lands to Subdivide the Lands Within Military Reservations Belonging to the Republic of the Philippines Which are No Longer Needed for Military Purposes, and to Dispose of the Same by Sale Subject to Certain Conditions, and for Other Purposes",
   "orig": "An Act Authorizing the Director of Lands to Subdivide the Lands Within Military Reservations Belonging to the Republic of the Philippines Which are No Longer Needed for Military Purposes, and to Dispose of the Same by Sale Subject to Certain Conditions, and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Director of Lands to Subdivide the Lands Within Military Reservations Belonging to the Republic of the Philippines Which are No Longer Needed for Military Purposes, and to Dispose of the Same by Sale Subject to Certain Conditions, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

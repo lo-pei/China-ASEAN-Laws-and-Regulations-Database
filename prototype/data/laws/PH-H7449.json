@@ -1,7 +1,7 @@
 {
  "id": "PH-H7449",
  "title": {
-  "zh": null,
+  "zh": "2000 年专业监管委员会现代化法",
   "en": "PRC Modernization Act of 2000",
   "orig": "PRC Modernization Act of 2000 An Act Modernizing the Professional Regulation Commission, Repealing for the Purpose Presidential Decree Numbered Two Hundred and Twenty-Three, Entitled \"Creating the Professional Regulation Commission and Prescribing its Powers and Functions,\" and for other Purposes"
  },
@@ -250,5 +250,13 @@
     "en": "Effectivity – This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in two (2) newspapers of general circulation, whichever is earlier.\nApproved: December 05, 2000"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "PRC Modernization Act of 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

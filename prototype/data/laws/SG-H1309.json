@@ -1,7 +1,7 @@
 {
  "id": "SG-H1309",
  "title": {
-  "zh": null,
+  "zh": "能源节约法 2012",
   "en": "Energy Conservation Act 2012",
   "orig": null
  },
@@ -1470,5 +1470,13 @@
     "en": "THE SCHEDULE\nSections 71 and 76(1)\nPersons to whom information may be disclosed\n1. The Minister charged with responsibility for energy efficiency and conservation, and any public officer assisting the Minister in the performance of any official duties of that Minister.\n2. The Minister charged with the responsibility for transport and any member, officer or employee of the sector regulators.\n3. The Minister charged with responsibility for coordinating policies associated with climate change, and any public officer assisting the Minister in the performance of any official duties of that Minister.\n4. Any member, officer or employee of the Agency.\n5. Any member, officer or employee of the Energy Market Authority of Singapore established by the Energy Market Authority of Singapore Act 2001.\n6. Any member, officer or employee of the Economic Development Board established by the Economic Development Board Act 1961.\n7. Any member, officer or employee of the Public Utilities Board continued under section 3 of the Public Utilities Act 2001.\n8. Any member, officer or employee of the Jurong Town Corporation established by the Jurong Town Corporation Act 1968.\n[S 771/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Energy Conservation Act 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

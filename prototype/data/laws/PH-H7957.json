@@ -1,7 +1,7 @@
 {
  "id": "PH-H7957",
  "title": {
-  "zh": null,
+  "zh": "延长农业竞争力提升基金的使用期限，修订第8178号共和国法（以关税取代除稻米外农产品的数量进口限制、设立农业竞争力提升基金）",
   "en": "An Act to Extend the Utilization Period of the Agricultural Competitiveness Enhancement Fund, Amending Republic Act No. 8178, Entitled \"An Act Replacing Quantitative Import Restrictions on Agricultural Products, Except Rice, with Tariffs, Creating the Agricultural Competitiveness Enhancement Fund, and for Other Purposes\"",
   "orig": "An Act to Extend the Utilization Period of the Agricultural Competitiveness Enhancement Fund, Amending Republic Act No. 8178, Entitled \"An Act Replacing Quantitative Import Restrictions on Agricultural Products, Except Rice, with Tariffs, Creating the Agricultural Competitiveness Enhancement Fund, and for Other Purposes\""
  },
@@ -92,5 +92,13 @@
     "en": "Effectivity. - This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Extend the Utilization Period of the Agricultural Competitiveness Enhancement Fund, Amending Republic Act No. 8178, Entitled \"An Act Replacing Quantitative Import Restrictions on Agricultural Products, Except Rice, with Tariffs, Creating the Agricultural Competitiveness Enhancement Fund, and for Other Purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

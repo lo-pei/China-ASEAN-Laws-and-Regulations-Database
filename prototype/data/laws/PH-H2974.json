@@ -1,7 +1,7 @@
 {
  "id": "PH-H2974",
  "title": {
-  "zh": null,
+  "zh": "豁免福特基金会及其赠款缴纳赠与税、特许经营税、特定税、百分比税、不动产税及所有其他税费，并豁免参与福特基金会项目的外籍人员缴纳所得税",
   "en": "An Act to Exempt the Ford Foundation and its Grants from the Payment of Gift, Franchise, Specific, Percentage, Real Property, and All Other Taxes, Duties and Fees and to Exempt Foreign Personnel Engaged in the Ford Foundation Program from the Payment of Income Tax",
   "orig": "An Act to Exempt the Ford Foundation and its Grants from the Payment of Gift, Franchise, Specific, Percentage, Real Property, and All Other Taxes, Duties and Fees and to Exempt Foreign Personnel Engaged in the Ford Foundation Program from the Payment of Income Tax"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Exempt the Ford Foundation and its Grants from the Payment of Gift, Franchise, Specific, Percentage, Real Property, and All Other Taxes, Duties and Fees and to Exempt Foreign Personnel Engaged in the Ford Foundation Program from the Payment of Income Tax",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

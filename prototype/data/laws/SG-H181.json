@@ -1,7 +1,7 @@
 {
  "id": "SG-H181",
  "title": {
-  "zh": null,
+  "zh": "航空导航法 1966",
   "en": "Air Navigation Act 1966",
   "orig": null
  },
@@ -1486,5 +1486,13 @@
     "en": "92.—(1) All subsidiary legislation that was in force immediately before the commencement of this Act, continues in force until revoked or replaced by subsidiary legislation made under those provisions, or otherwise terminated, and is deemed to have been made under this Act.\n(2) Subject to subsection (3), any instrument that was in force immediately before the commencement of this Act continues in force until superseded, revoked or otherwise terminated and is deemed to have been issued, served or granted under this Act, and this Act and any of its subsidiary legislation applies to, or in relation to, the instrument accordingly.\n(3) No such instrument that is expressed to continue in force for a definite period is to continue in force after the expiration of that period unless it is renewed in accordance with this Act and any of its subsidiary legislation.\n(4) In this section “instrument” means any instruction or other requirement, any notice and any certificate, licence, validation or other authority.\n[31"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Air Navigation Act 1966",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

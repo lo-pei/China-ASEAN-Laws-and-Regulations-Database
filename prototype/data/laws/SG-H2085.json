@@ -1,7 +1,7 @@
 {
  "id": "SG-H2085",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 6 号）命令 2016",
   "en": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2016",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Income comprising the following dividends that are received by ECS Holdings Limited (a company incorporated in Singapore) from ECS Technology (China) Limited (a company incorporated in the Hong Kong Special Administrative Region of the People’s Republic of China), is exempt from tax:\n(a)the sum of US$5,276,647 in the basis period for the year of assessment 2011;\n(b)the sum of US$3,811,378 in the basis period for the year of assessment 2012.\n(2) The exemption in sub‑paragraph (1) is subject to the conditions in paragraphs 8 and 9 of the letter of approval dated 19 October 2016 addressed to the tax agent of ECS Holdings Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

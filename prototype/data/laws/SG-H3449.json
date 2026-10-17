@@ -1,7 +1,7 @@
 {
  "id": "SG-H3449",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11(3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n1. Interpretation Act (Chapter 1)\n2. Agency for Science, Technology and Research Act (Chapter 5A)\n3. Animals and Birds Act (Chapter 7)\n4. Cattle Act (Chapter 34)\n5. Civil List and Pension Act (Chapter 44)\n6. Contact Lens Practitioners Act (Chapter 53A)\n7. Contributory Negligence and Personal Injuries Act (Chapter 54)\n8. Control of Vectors and Pesticides Act (Chapter 59)\n9. Currency Act (Chapter 69)\n10. Environmental Pollution Control Act (Chapter 94A)\n11. Environmental Public Health Act (Chapter 95)\n12. Financial Advisers Act (Chapter 110)\n13. Fisheries Act (Chapter 111)\n14. Government Securities Act (Chapter 121A)\n15. Insurance Act (Chapter 142)\n16. International Arbitration Act (Chapter 143A)\n17. International Enterprise Singapore Board Act (Chapter 143B)\n18. Land Surveyors Act (Chapter 156)\n19. Local Treasury Bills Act (Chapter 167)\n20. National University of Singapore Act (Chapter 204)\n21. Newspaper and Printing Presses Act (Chapter 206)\n22. Sale of Food Act (Chapter 283)\n23. Securities and Futures Act (Chapter 289)\n24. Standards, Productivity and Innovation Board Act (Chapter 303A)\n25. Smoking (Prohibition in Certain Places) Act (Chapter 310)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

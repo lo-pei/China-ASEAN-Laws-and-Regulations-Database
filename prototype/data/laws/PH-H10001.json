@@ -1,7 +1,7 @@
 {
  "id": "PH-H10001",
  "title": {
-  "zh": null,
+  "zh": "电力工业改革法 2001",
   "en": "Electric Power Industry Reform Act of 2001",
   "orig": "An Act Enhancing the Powers and Functions of the Joint Congressional Energy Commission, Further Amending for the Purpose Section 62 of Republic Act No.9136, Otherwise Known as the \"Electric Power Industry Reform Act of 2001\", as Amended"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in one (1) newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Electric Power Industry Reform Act of 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

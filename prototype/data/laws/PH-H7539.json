@@ -1,7 +1,7 @@
 {
  "id": "PH-H7539",
  "title": {
-  "zh": null,
+  "zh": "西明多洛日",
   "en": "Araw Ng Kanlurang Mindoro",
   "orig": "An Act Declaring the 13th Day of June of Every Year as a Special Working Public Holiday in the Province of Occidental Mindoro to Be Known as the Occidental Mindoro Foundation Day or in the Local Vernacular as \"Araw Ng Kanlurang Mindoro\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Araw Ng Kanlurang Mindoro",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

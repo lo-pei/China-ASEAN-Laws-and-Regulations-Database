@@ -1,7 +1,7 @@
 {
  "id": "SG-H3421",
  "title": {
-  "zh": null,
+  "zh": "第 11(3) 条下的命令",
   "en": "Order under Section 11 (3)",
   "orig": null
  },
@@ -68,5 +68,13 @@
     "en": "SECOND SCHEDULE\n(1)The Application of English Law Act (Chapter 7A).\n(2)The Children and Young Persons Act (Chapter 38).\n(3)The Computer Misuse Act (Chapter 50A).\n(4)The Control of Plants Act (Chapter 57A).\n(5)The Fire Safety Act (Chapter 109A).\n(6)The Goods and Services Tax Act (Chapter 117A).\n(7)The Land Titles Act (Chapter 157).\n(8)The Medical Endowment Scheme Act (Chapter 173A).\n(9)The National Heritage Board Act (Chapter 196A).\n(10)The Retirement Age Act (Chapter 274A).\n(11)The Smoking (Control of Advertisements and Sale of Tobacco) Act (Chapter 309)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11 (3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

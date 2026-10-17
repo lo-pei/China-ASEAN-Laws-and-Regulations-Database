@@ -1,7 +1,7 @@
 {
  "id": "PH-H9528",
  "title": {
-  "zh": null,
+  "zh": "将拉乌尼翁省 Agoo 市镇拉乌尼翁医疗中心的床位增至三百（300）张以提升其服务与设施的法案",
   "en": "An Act Upgrading the Services and Facilities of the La Union Medical Center in the Municipality of Agoo, Province of La Union by Increasing its Bed Capacity to Three Hundred (300) and...",
   "orig": "An Act Upgrading the Services and Facilities of the La Union Medical Center in the Municipality of Agoo, Province of La Union by Increasing its Bed Capacity to Three Hundred (300) and..."
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading the Services and Facilities of the La Union Medical Center in the Municipality of Agoo, Province of La Union by Increasing its Bed Capacity to Three Hundred (300) and...",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

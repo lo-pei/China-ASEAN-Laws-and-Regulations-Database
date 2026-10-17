@@ -1,7 +1,7 @@
 {
  "id": "SG-H823",
  "title": {
-  "zh": null,
+  "zh": "制造业管制规则 1959",
   "en": "Control of Manufacture Rules 1959",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "THE SCHEDULE\nFORM A\nRule 2\nCONTROL OF MANUFACTURE ACT 1959\nCONTROL OF MANUFACTURE RULES 1959\nApplication to be registered as a manufacturer\n1.Name of applicant:\n2.Description of the goods or class of goods appearing in the First or Second Schedule to the Act in respect of the manufacture of which registration is sought:\n3.Address:\n4.Date or proposed date of establishment of the enterprise:\n5.Description of enterprise:\n6.Amount of capital:\n7.Countries in which capital raised and amounts:\n8.Maximum or estimated maximum output:\n9.Date when manufacture started or is proposed to start:\nI declare that the facts stated in this application and the accompanying information are true in every particular.\nDate of application…………………\nSignature and\ndesignation of applicant*.\n………………………………\n………………………………\n*The person who signs as applicant must be a person who is responsible for the direction or management of the enterprise.\nFor official use\nApplication received on……………….\nMinister satisfied under section 5(2) of the Act on………………….…………\nInitials……….… Fee…………………………..… Date………………………\nReceipt number.……………………….. Whether conditions imposed….…….\nAccepted.……………………………………………………………………….\nRegistration approved on……………………………… Initials……………….\nBound on…………………………….\nCertificate issued……………………\nFORM B\nRule 6\nCONTROL OF MANUFACTURE ACT 1959\nCONTROL OF MANUFACTURE RULES 1959\nRegistration Number…………………\nCERTIFICATE OF REGISTRATION\nI certify that………………………………………………………….\nwas registered as a manufacturer of.……………………………………………\non the day of 20 under section 5 of the Control of Manufacture Act 1959, subject to the following conditions:\nDated this day of 20 .\nRegistrar of Manufacturers,\nSingapore.\n___________________"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Control of Manufacture Rules 1959",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

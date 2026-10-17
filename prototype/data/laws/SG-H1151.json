@@ -1,7 +1,7 @@
 {
  "id": "SG-H1151",
  "title": {
-  "zh": null,
+  "zh": "存款保险与保单持有人保障计划（罚款）命令 2024",
   "en": "Deposit Insurance and Policy Owners’ Protection Schemes (Financial Penalty) Order 2024",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Revoke the Deposit Insurance and Policy Owners’ Protection Schemes (Financial Penalty) Order 2011 (G.N. No. S 236/2011)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Deposit Insurance and Policy Owners’ Protection Schemes (Financial Penalty) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

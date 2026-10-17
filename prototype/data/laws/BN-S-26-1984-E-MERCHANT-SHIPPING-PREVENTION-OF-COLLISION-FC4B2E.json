@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-26-1984-E-MERCHANT-SHIPPING-PREVENTION-OF-COLLISION-FC4B2E",
+ "title": {
+  "zh": "商船海上避碰条例 1984，经 S 75 2007 废止",
+  "en": "MERCHANT SHIPPING PREVENTION OF COLLISION AT SEA REGNS 1984 REVOKED BY S 75 2007",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p27",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 2307,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-26-1984-E-MERCHANT-SHIPPING-PREVENTION-OF-COLLISION-AT-SEA-REGNS-1984-REVOKED-BY-S-75-2007.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-26-1984-E-MERCHANT-SHIPPING-PREVENTION-OF-COLLISION-AT-SEA-REGNS-1984-REVOKED-BY-S-75-2007.pdf》（2 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-26-1984-E-MERCHANT-SHIPPING-PREVENTION-OF-COLLISION-FC4B2E-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "NEGARA BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 26 . MERCHANT SHIPPING ENACTMENT, 1982 Merchant Shipping (Prevention of Collision at Sea) Regulations, 1984 (Made under Section 103) In exercise of the powers conferred by Section 103 of the Merchant Shipping Enactment, 1982 the Minister of Communications with the approval of His Majesty the Sultan and Yang Di-Pertuan hereby makes the following Regulations - Citation and 1. These Regulations may be cited as the Merchant Shipping commence-(Prevention of Collision at Sea) Regulations, 1984 and shall come into ment. force on 1st. September, 1984. Adoption of 2. The Regulations specified in the Schedule to these Regulations Regulation~. shall subject to the provisions of paragraph 3 hereof be in force as written law in Brunei Darussalam as if the same had been expressly made by the Minister with the approval of His Majesty the Sultan and Yang Di-Pertuan pursuant to the powers conferred by the provisions of Section 103 of the Merchant Shipping Enactment, 1982. Publication of 3. (1) The Minister shall with the approval of His Majesty the Sultan Regulations and Yang Di-Pertuan cause the said Regulations to be printed and with published in the Government Gazette with such short title, date of comamendments and additions. mencement, amendments. and additions as in his opinion are expedient to make such Regulations applicable to Brunei Darussalam.\n\n(2) Until the said Regulations are printed and published in the Government Gazette references therein to - a) \"Director\" shall be construed as reference to the Director of Marine of Brunei Darussalam as defined under the Merchant Shipping Enactment, 1982 ; b) · \"The Merchant Shipping Act (Cap 172):' shall be construed as reference to the Merchant Shipping Enactment, 1982 of Brunei Darussalam ; c) \"Republic of Singapore\" or \"Singapore\" shall be construed as reference to Brunei Darussalam. 1st. SEPTEMBER. 1984\n\nSCHEDULE The Merchant Shipping (Prevention of Collision at Sea) Reg~la­ tions, 1983 (No. S 96 of 1983) of the Republic of. Singapore made on 24th. day of March, 1983 as amended and in force on 1st. September, Made this 27th. day of August, 1984.\n\nBY COMMAND,\n\nPENGIRAN BAHRIN (Pengiran Laila Kanun Di-Raja), Minister of Law cum Minister of Communications, Negara Brunei Darussalam."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MERCHANT SHIPPING PREVENTION OF COLLISION AT SEA REGNS 1984 REVOKED BY S 75 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7748",
  "title": {
-  "zh": null,
+  "zh": "扩大 Edison C. Espinosa 特许权的经营区域，为此修订第 8101 号共和国法第 1 条并将受让人改组为公司",
   "en": "An act Expanding the Area of Operation of the Franchise of Edison C. Espinosa, amending for the purpose Section 1 of Republic Act No. 8101 and Converting the Grantee into a Corporation",
   "orig": "An act Expanding the Area of Operation of the Franchise of Edison C. Espinosa, amending for the purpose Section 1 of Republic Act No. 8101 and Converting the Grantee into a Corporation"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two (2) papers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act Expanding the Area of Operation of the Franchise of Edison C. Espinosa, amending for the purpose Section 1 of Republic Act No. 8101 and Converting the Grantee into a Corporation",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

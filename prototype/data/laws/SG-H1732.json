@@ -1,7 +1,7 @@
 {
  "id": "SG-H1732",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（门诊肾透析服务）条例 2023",
   "en": "Healthcare Services (Outpatient Renal Dialysis Service) Regulations 2023",
   "orig": null
  },
@@ -592,5 +592,13 @@
     "en": "THE SCHEDULE\nRegulation 4\nSpecified Services\n1. The following are specified services for an outpatient renal dialysis service:\n(a)collaborative prescribing service;\n(b)high‑dependency haemodialysis.\n2. In this Schedule —\n“collaborative prescribing service” has the meaning given by regulation 2 of the Healthcare Services (Collaborative Prescribing Service) Regulations 2023 (G.N. No. S 398/2023);\n“high‑dependency haemodialysis” means the provision of haemodialysis to an individual who —\n(a)has persistent intra‑dialytic hypotension;\n(b)has active bleeding, or has coagulopathy that would require heparin‑free dialysis, for a continuous period of more than 2 months immediately preceding the provision of haemodialysis, except where the coagulopathy is a result of the individual being on anticoagulation treatment;\n(c)has unstable angina; or\n(d)had experienced at least one myocardial infarction episode within 5 days before the provision of haemodialysis."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (Outpatient Renal Dialysis Service) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

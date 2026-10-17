@@ -1,7 +1,7 @@
 {
  "id": "PH-H1727",
  "title": {
-  "zh": null,
+  "zh": "豁免向国际公民组织、宗教或慈善机构捐赠的任何形式捐赠物及进口物品缴纳一切税费，并规定违反行为处罚的法案",
   "en": "An Act Exempting from the Payment of All Taxes and Duties All Donations in Any Form and Importations of Articles Which are Donations to International Civic Organizations, Religious or Charitable Institutions and Providing Penalties for Violation Thereof",
   "orig": "An Act Exempting from the Payment of All Taxes and Duties All Donations in Any Form and Importations of Articles Which are Donations to International Civic Organizations, Religious or Charitable Institutions and Providing Penalties for Violation Thereof"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Exempting from the Payment of All Taxes and Duties All Donations in Any Form and Importations of Articles Which are Donations to International Civic Organizations, Religious or Charitable Institutions and Providing Penalties for Violation Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

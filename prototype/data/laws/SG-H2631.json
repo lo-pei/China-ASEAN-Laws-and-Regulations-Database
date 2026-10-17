@@ -1,7 +1,7 @@
 {
  "id": "SG-H2631",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护区）（第 2 号）命令 2025",
   "en": "Infrastructure Protection (Protected Areas) (No. 2) Order 2025",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nPart 1\nFirst column\nSecond column\nThe Authority\nProtected Area\nCommander,\nWoodlands Command,\nImmigration &\nCheckpoints Authority\nWOODLANDS CHECKPOINT\nAll that area comprised in Lot 3870V and part of Lots 189W, 2799X, 3871P, 3875N, 99619N, 99625C and 99627W in Mukim No. 13 occupied by “WOODLANDS CHECKPOINT” containing an area of about 156,712 square metres and bounded approximately as follows:\nCommencing at the northernmost corner at a point 47,936.334 metres North and 20,937.814 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n47936.334\n20937.814\n47894.107\n20985.678\n47842.139\n21001.604\n47821.394\n21007.307\n47793.037\n21013.371\n47760.770\n21017.580\n47712.946\n21017.507\n47645.433\n21012.743\n47598.508\n21000.800\n47553.598\n20986.837\n47483.935\n20962.786\n47484.086\n20962.014\n47493.250\n20938.289\n47492.966\n20937.570\n47493.292\n20936.750\n47492.364\n20936.389\n47492.787\n20935.145\n47273.157\n20848.913\n47253.501\n20833.205\n47218.777\n20805.265\n47193.270\n20784.541\n47196.757\n20779.010\n47190.168\n20780.722\n47188.862\n20781.304\n47188.467\n20781.176\n47189.179\n20779.327\n47184.111\n20779.519\n47183.942\n20770.832\n47133.639\n20728.156\n47133.436\n20719.823\n47133.325\n20717.756\n47132.666\n20717.791\n47132.645\n20717.412\n47134.812\n20717.295\n47171.153\n20702.671\n47175.564\n20696.405\n47215.753\n20685.281\n47240.987\n20676.323\n47260.452\n20669.532\n47269.424\n20663.905\n47282.954\n20665.627\n47316.157\n20626.651\n47319.458\n20623.787\n47332.826\n20613.511\n47342.949\n20617.247\n47362.733\n20608.082\n47384.419\n20602.869\n47406.412\n20601.805\n47428.542\n20605.082\n47443.075\n20609.690\n47541.693\n20650.639\n47561.941\n20660.356\n47579.273\n20674.195\n47615.577\n20713.099\n47630.312\n20729.255\n47644.569\n20746.230\n47657.942\n20763.752\n47669.954\n20782.136\n47696.931\n20882.511\n47710.661\n20839.343\n47727.466\n20852.878\n47776.539\n20886.874\n47794.996\n20898.564\n47814.274\n20908.872\n47834.255\n20917.407\n47854.828\n20925.281\n47875.802\n20930.789\n47897.135\n20934.818\n47919.234\n20937.215\nto the point of commencement.\nThe boundaries of “WOODLANDS CHECKPOINT” are more particularly delineated in the plan set out below.\nPart 2\nSPECIFIED SURROUNDING AREA OF\nWOODLANDS CHECKPOINT\n(a)all that area comprised in Lots 3871P, 181T and 2799X in Mukim No. 13 occupied by “Johor‑Singapore Causeway”, the boundaries of which are more particularly delineated in the map set out below;\n(b)all that area comprised in parts of Lots 1976L, 99333V, 99631V, 2797K, 2775W, 2777P, 2779A and 3871P in Mukim No. 13 occupied by “Woodlands Crossing & Woodlands Checkpoint Viaduct”, the boundaries of which are more particularly delineated in the map set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Areas) (No. 2) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

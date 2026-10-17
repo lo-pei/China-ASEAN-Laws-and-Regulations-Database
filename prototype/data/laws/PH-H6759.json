@@ -1,7 +1,7 @@
 {
  "id": "PH-H6759",
  "title": {
-  "zh": null,
+  "zh": "进一步加强社会保障制度，为此修订经修正的第1161号共和国法（即《社会保障法》）的法案",
   "en": "An Act Further Strengthening the Social Security System Thereby Amending for This Purpose, Republic Act No. 1161, as amended, otherwise known as the Social Security Law",
   "orig": "An Act Further Strengthening the Social Security System Thereby Amending for This Purpose, Republic Act No. 1161, as amended, otherwise known as the Social Security Law"
  },
@@ -80,5 +80,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Strengthening the Social Security System Thereby Amending for This Purpose, Republic Act No. 1161, as amended, otherwise known as the Social Security Law",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

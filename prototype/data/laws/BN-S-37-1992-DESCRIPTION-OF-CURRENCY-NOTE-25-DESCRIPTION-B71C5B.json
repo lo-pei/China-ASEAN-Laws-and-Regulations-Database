@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-37-1992-DESCRIPTION-OF-CURRENCY-NOTE-25-DESCRIPTION-B71C5B",
+ "title": {
+  "zh": "25 元纸币说明及 25、50、100 精制币说明",
+  "en": "DESCRIPTION OF CURRENCY NOTE 25 DESCRIPTION OF PROOF COINS 25 50 100 1",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p28",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 2471,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-37-1992-DESCRIPTION-OF-CURRENCY-NOTE-25-DESCRIPTION-OF-PROOF-COINS-25-50-100-1.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-37-1992-DESCRIPTION-OF-CURRENCY-NOTE-25-DESCRIPTION-OF-PROOF-COINS-25-50-100-1.pdf》（2 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-37-1992-DESCRIPTION-OF-CURRENCY-NOTE-25-DESCRIPTION-B71C5B-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "No. S 37 1:1'::1 CURRENCY ACT -~ z (CHAPTER 32) tr.l (Section 12) t::l !> Pursuant to section 12(2) of the Currency Act (Chapter 32), it is hereby notified for general information that the c ~ denominations and characteristics of the currency note and proof coins to be issued by the Brunei Currency Board on 5th October, 1992 are as shown in the Schedules A and B hereunder:-~ &: SCHEDULE A 3:: Currency Note $25 0 <!. tr.l z ~ Denooriaation Size Front Design Back Design Predominant Colour 3:: Front Back tr.l $25 150 mm x 72 mm Portrait of His Majesty Sultan Haji His Majesty Sultan Haji Hassanal Purple Purple g: ~ Hassanal Bolkiah Mu'izzaddin Bolkiah Mu'izzaddin Waddaulah Brown and Light Orange Waddaulah ibni AI·Marhum Sultan ibni Al·Marhum Sultan Haji Green and Green Haji Omar 'Ali Saifuddien Sa' adul Omar 'Ali Saifuddien Sa'adul N Khairi Waddien, D.K.M.B., Sultan Khairi Waddien, D.K.M.B., tr.l and Yang Di·Pertuan Negara Brunei Sultan and Yang Di-Pertuan ~ Darussalam. Negara Brunei Darussalam tr.l during the Crowning Ceremony Royal Procession on the occasion of and the Royal Crown. the Coronation with Sultan Omar 'Ali Saifuddien mosque in the background. The note has security features of a watermark portrait of His Majesty Sultan Haji Hassanal Bolkiah Mu'izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar 'Ali Saifuddien Sa'adul Khairi Waddien, Sultan and Yang Di-Pertuan Negara Brunei Darussalam, latent image, microline printing, invisible fluorescent printing, gold metallic printing, seethrough register, security thread with rainbow colours incorporating micro printing of the words \"Negara Brunei Darussalam\" in Jawi script and an invisible image of the Crest of Negara Brunei Darussalam. ~ ~ SCHEDULE B Proof Coins S25 Cupronickel, $50 Silver and $500 Gold Denomination Diameter Obverse Reverse Weight CCHnposition $25 38.7 mm Portrait of His Majesty Sultan Haji Royal Personal Crest 19.1 gm Cupronickel Hassanal Bolkiah Mu'izzaddin Waddaulah ibni Al-Marhum Sultan Haji Omar 'Ali Saifuddien Sa'adul Khairi Waddien, D.K.M.B., Sultan and Yang Di-Pertuan Negara Brunei Darussalam. $50 40.7 mm -ditto-Royal Procession on the 1 ounce 925 Silver occasion of the Coronation. $500 40.7 mm -ditto -His Majesty with the :2 ounces 999.9 Gold Royal Crown. DULl YANG TERAMAT MULIA PADUKA SERI PBNGIRAN DIGADONG\n\nSAHIBUL MAL PENGIRAN MUDA HAJJ JBFRI BOLKIAH Chairman, N ,.... Brunei Currency Board, tl.l Brunei Darussalam. :-\" z ~ 3: tzj tx:l tr:l ~ u;, u;, N"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DESCRIPTION OF CURRENCY NOTE 25 DESCRIPTION OF PROOF COINS 25 50 100 1",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

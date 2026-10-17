@@ -1,7 +1,7 @@
 {
  "id": "SG-H1751",
  "title": {
-  "zh": null,
+  "zh": "内政制服服务退休金法 2001",
   "en": "Home Affairs Uniformed Services Superannuation Act 2001",
   "orig": null
  },
@@ -454,5 +454,13 @@
     "en": "26. The Minister may make regulations for the proper control and management of the Fund and, in particular, regulations —\n(a)providing for the remuneration of the trustees;\n(b)prescribing the procedure to be followed by the Board in the exercise of its functions; and\n(c)relating to the accounting, reporting, auditing and periodic examination of the Fund."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Home Affairs Uniformed Services Superannuation Act 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

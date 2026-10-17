@@ -1,7 +1,7 @@
 {
  "id": "SG-H3253",
  "title": {
-  "zh": null,
+  "zh": "放贷人法 2008",
   "en": "Moneylenders Act 2008",
   "orig": null
  },
@@ -1606,5 +1606,13 @@
     "en": "94.—(1) Any notice, order, decision, direction, requisition or approval made or granted by the Registrar or the Minister under the repealed Moneylenders Act (Cap. 188, 1985 Revised Edition) in force immediately before 1 March 2009 continues and is deemed to have been made or granted by the Registrar or the Minister, respectively, under this Act and has effect accordingly.\n(2) All acts done by or on behalf of the Registrar or the Minister under the repealed Moneylenders Act (Cap. 188, 1985 Revised Edition) before 1 March 2009 continue to remain valid and have effect as though done by or on behalf of the Registrar or the Minister, respectively, under this Act until such time as those acts are invalidated, revoked, cancelled or otherwise determined by the Registrar or the Minister, as the case may be.\n(3) Any written law or document referring to the repealed Moneylenders Act (Cap. 188, 1985 Revised Edition) or any provision thereof is, as far as may be necessary for preserving its effect, to be construed as referring or as including a reference to this Act or the corresponding provision in this Act, as the case may be.\n[38"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Moneylenders Act 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

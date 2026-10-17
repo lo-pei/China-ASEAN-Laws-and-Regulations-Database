@@ -1,7 +1,7 @@
 {
  "id": "PH-H5295",
  "title": {
-  "zh": null,
+  "zh": "将保和省洛艾市镇洛艾小学更名为参议院临时议长Jose A. Clarin纪念学校的法案",
   "en": "An Act Renaming the Loay Elementary School in the Municipality of Loay, Province of Bohol, to Senate President Pro Tempore Jose A. Clarin Memorial School",
   "orig": "An Act Renaming the Loay Elementary School in the Municipality of Loay, Province of Bohol, to Senate President Pro Tempore Jose A. Clarin Memorial School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Loay Elementary School in the Municipality of Loay, Province of Bohol, to Senate President Pro Tempore Jose A. Clarin Memorial School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

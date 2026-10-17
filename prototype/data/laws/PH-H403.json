@@ -1,7 +1,7 @@
 {
  "id": "PH-H403",
  "title": {
-  "zh": null,
+  "zh": "规范菲律宾赛马的法案",
   "en": "An Act to Regulate Horse-Racing in the Philippines",
   "orig": "An Act to Regulate Horse-Racing in the Philippines"
  },
@@ -320,5 +320,13 @@
     "en": "This Act shall take effect upon its approval: Provided, That all charitable institutions entitled to hold horse-races for a certain number of days every year shall be permitted to hold such races this year for the total number of days they are entitled to under the laws in force prior to the approval of this Act, and the Commissioner on Races shall make the necessary adjustments for such purpose.\nApproved: June 18, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Regulate Horse-Racing in the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

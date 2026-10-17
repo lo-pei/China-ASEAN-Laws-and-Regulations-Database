@@ -1,0 +1,82 @@
+{
+ "id": "BN-S-16-1991-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-2D07F4",
+ "title": {
+  "zh": "宪法职能转移与相应条款命令 1991",
+  "en": "CONSTITUTION TRANSFER OF FUNCTIONS AND CONSEQUENTIAL PROVISIONS ORDER 1991 1",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p25",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 3,
+ "chars": 2115,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-16-1991-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONSEQUENTIAL-PROVISIONS-ORDER-1991-1.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-16-1991-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONSEQUENTIAL-PROVISIONS-ORDER-1991-1.pdf》（2 页），本次切分 3 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-16-1991-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-2D07F4-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Order may be cited as the Constitution (Transfer of Functions Citation and and Con8equential Provisions) Order, 1991 and shall be deemed to Commencehave come into force on the 1st day of August, 1990. ment."
+   }
+  },
+  {
+   "id": "BN-S-16-1991-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-2D07F4-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In this Order unless the context otherwise requires -Interpretation. ''Functions'' includes any powers, duties, privileges or benefits conferred or imposed by any written law on any person or authority. ''Minister'' means the person appointed under subsection (4) or 19) of Section 4 of the Constitution who is for the time being charges with the responsibility for the subject matter to which the written law specified in the Schedule refers."
+   }
+  },
+  {
+   "id": "BN-S-16-1991-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-2D07F4-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The functions conferred or imposed on the person or authority Transfer of specified in the first column of the Schedule by the provisions of law functions. specified opposite thereto in the second column of that Schedule are hereby transferred to the person or authority specified opposite thereto in the third column of that Schedule.\n\nSCHEDULE (Article 3}\n\nTRANSFER OF STATUTORY FUNCTIONS First Column Second Column Third Column Person or authority from Provisions Person or authority to whom functions transferred of Law whom functions concerned transferred\n\nCENSUS ACT (Chapter 78} His Majesty The Sultan and Section 3 The Minister with the Yang Di-Pertuan in Council approval of His Majesty The Sultan and Yang Di-Pertuan His Majesty The Sultan and Section 4(1) The Minister with the Yang Di-Pertuan approval of His Majesty The Sultan and Yang Di-Pertuan\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE SCHEDULE (Continued) !Article 3)\n\nTRANSFER OF STATUTORY FUNCTIONS First Column Second Column Third Column Person or authority from Provisions Person or authority to whom functions transferred of Law whom functions concerned transferred\n\nCENSUS ACT (Chapter 78) His Majesty The Sultan Section 6 The Minister with the and Yang Di-Pertuan approval of His Majesty in Council The Sultan and Yang Di-Pertuan Made this 20th day of May, 1991 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CONSTITUTION TRANSFER OF FUNCTIONS AND CONSEQUENTIAL PROVISIONS ORDER 1991 1",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10067",
  "title": {
-  "zh": null,
+  "zh": "授予 Good News Sorsogon Foundation, Inc. 在比科尔地区建设、安装、运营和维护广播与电视电台的特许权法案",
   "en": "An Act Granting Good News Sorsogon Foundation, Inc., a Franchise to Construct, Install, Operate, and Maintain Radio and Television Broadcasting Stations in the Bicol Region",
   "orig": "An Act Granting Good News Sorsogon Foundation, Inc., a Franchise to Construct, Install, Operate, and Maintain Radio and Television Broadcasting Stations in the Bicol Region"
  },
@@ -90,5 +90,13 @@
     "en": "Right of the Government. – The radio spectrum is a finite resource that is part of the national patrimony, and the use thereof is a privilege conferred upon the grantee by the State that may be withdrawn any time after due process.\nA special right is hereby reserved to the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Good News Sorsogon Foundation, Inc., a Franchise to Construct, Install, Operate, and Maintain Radio and Television Broadcasting Stations in the Bicol Region",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

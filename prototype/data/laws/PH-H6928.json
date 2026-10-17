@@ -1,7 +1,7 @@
 {
  "id": "PH-H6928",
  "title": {
-  "zh": null,
+  "zh": "将巴塔内斯 Basco 的巴塔内斯省立医院提升为名为巴塔内斯综合医院的三级二级医院",
   "en": "An Act Upgrading the Batanes Provincial Hospital in Basco, Batanes, to Tertiary Level II Hospital to Be Known as the Batanes General Hospital",
   "orig": "An Act Upgrading the Batanes Provincial Hospital in Basco, Batanes, to Tertiary Level II Hospital to Be Known as the Batanes General Hospital"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading the Batanes Provincial Hospital in Basco, Batanes, to Tertiary Level II Hospital to Be Known as the Batanes General Hospital",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

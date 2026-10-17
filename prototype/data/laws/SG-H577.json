@@ -1,7 +1,7 @@
 {
  "id": "SG-H577",
  "title": {
-  "zh": null,
+  "zh": "慈善法 1994",
   "en": "Charities Act 1994",
   "orig": null
  },
@@ -976,5 +976,13 @@
     "en": "THE SCHEDULE\nSections 2(1) and 7(6)(a)\nExempt Charities\nThe following institutions, so far as they are charities, are exempt charities within the meaning of this Act:\n(a)any university or educational institution, hospital or religious body established by an Act of Parliament;\n(b)any other institution which the Minister by order declares to be an exempt charity for the purposes of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Charities Act 1994",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2181",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展利息及其他付款豁免）公告 2009",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2009",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) There shall be exempt from tax any payment made by a company for the time being approved as an approved securitisation company to a person who is neither resident in Singapore nor a permanent establishment in Singapore —\n(a)on over-the-counter financial derivatives in connection with an asset securitisation transaction, where the payment is liable to be made during the period from 1st January 2009 to 31st December 2028 (both dates inclusive) under —\n(i)a contract for such derivatives which took effect before 15th February 2007; or\n(ii)a contract for such derivatives which is extended or renewed, where the extension or renewal took effect before 15th February 2007; and\n[S 513/2014 wef 01/01/2014]\n[S 870/2018 wef 27/12/2018]\n[S 326/2024 wef 01/01/2024]\n(b)on over-the-counter financial derivatives in connection with an asset securitisation transaction, where the payment is liable to be made under —\n(i)a contract for such derivatives which takes effect during the period from 1st January 2009 to 31st December 2028 (both dates inclusive);\n[S 513/2014 wef 01/01/2014]\n[S 870/2018 wef 27/12/2018]\n[S 326/2024 wef 04/11/2022]\n[S 326/2024 wef 01/01/2024]\n(ii)a contract for such derivatives which is extended or renewed, where the extension or renewal takes effect during the period from 1st January 2009 to 31st December 2028 (both dates inclusive); or\n[S 513/2014 wef 01/01/2014]\n[S 870/2018 wef 27/12/2018]\n[S 326/2024 wef 04/11/2022]\n[S 326/2024 wef 01/01/2024]\n(iii)a contract for such derivatives (not being one mentioned in paragraph 3(1)(b)(i) or (ii) of the Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2008 (G.N. No. S 97/2008)) that is varied, where the variation takes effect during the period from 4 November 2022 to 31 December 2028 (both dates inclusive).\n[S 326/2024 wef 04/11/2022]\n(1A) However, the exemption under sub-paragraph (1) does not apply to a payment made —\n(a)on a contract for over-the-counter financial derivatives in connection with an asset securitisation transaction mentioned in sub-paragraph (1)(b) that is varied with effect from a date on or after 1 January 2029; and\n(b)on or after the date on which the variation takes effect.\n[S 326/2024 wef 15/04/2024]\n(2) The exemption under sub-paragraph (1) shall be subject to —\n(a)the approved securitisation company being resident in Singapore;\n(b)the conditions specified in regulation 3 of the Income Tax (Exemption of Income of Approved Securitisation Company) Regulations 2008 (G.N. No. S 96/2008); and\n(c)the approved securitisation company making such declaration in relation to any transaction with —\n(i)a related party of the approved securitisation company; or\n(ii)a related party of the originator of the approved securitisation company,\nas may be required by the Comptroller or the Authority for the purpose of this Notification."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

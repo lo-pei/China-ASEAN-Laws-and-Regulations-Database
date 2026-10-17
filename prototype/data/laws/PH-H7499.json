@@ -1,7 +1,7 @@
 {
  "id": "PH-H7499",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 5 月 27 日为南甘马粦省及 Naga 与 Iriga 市的特别工作公共假日，以纪念其年度成立周年的法案",
   "en": "An Act Declaring May 27 of Every Year as a Special Working Public Holiday in the Province of Camarines Sur and in the Cities of Naga and Iriga in Commemoration of Its Annual Foundation Anniversary",
   "orig": "An Act Declaring May 27 of Every Year as a Special Working Public Holiday in the Province of Camarines Sur and in the Cities of Naga and Iriga in Commemoration of Its Annual Foundation Anniversary"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring May 27 of Every Year as a Special Working Public Holiday in the Province of Camarines Sur and in the Cities of Naga and Iriga in Commemoration of Its Annual Foundation Anniversary",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

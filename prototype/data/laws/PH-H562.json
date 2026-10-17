@@ -1,7 +1,7 @@
 {
  "id": "PH-H562",
  "title": {
-  "zh": null,
+  "zh": "规定进口许可证签发费用，修订第426号共和国法第16条并追认此前已收取费用的法案",
   "en": "An Act to Impose a Fee for the Issuance of An Import License, Amending Section Sixteen of Republic Act Numbered Four Hundred Twenty-Six and Ratifying Fees Heretofore Collected",
   "orig": "An Act to Impose a Fee for the Issuance of An Import License, Amending Section Sixteen of Republic Act Numbered Four Hundred Twenty-Six and Ratifying Fees Heretofore Collected"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, September 5, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Impose a Fee for the Issuance of An Import License, Amending Section Sixteen of Republic Act Numbered Four Hundred Twenty-Six and Ratifying Fees Heretofore Collected",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

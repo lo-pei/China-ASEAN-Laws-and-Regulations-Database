@@ -1,7 +1,7 @@
 {
  "id": "SG-H1666",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（装饰用途——类别执照）命令 2025",
   "en": "Guns, Explosives and Weapons Control (Ornamental Use — Class Licence) Order 2025",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) A class licensee by virtue of paragraph 3 may possess a blunted defined weapon subject to all the following conditions:\n(a)the class licensee ensures that the defined weapon remains blunted at all times;\n(b)the class licensee takes all reasonable steps necessary to ensure that the blunted defined weapon —\n(i)is not lost or stolen; and\n(ii)is not accessible or transferred to anyone else who is not authorised by or under the Act to possess the blunted defined weapon;\nIllustration\nIf the container in which a blunted defined weapon is kept has a keyed lock or keyed padlock, the class licensee must take all reasonable precautions to ensure that the keys for the lock or padlock are not lost or stolen and are not accessible to anyone who is not authorised by or under the Act to possess that defined weapon.\n(c)the class licensee takes all reasonable steps necessary to protect other people from alarm relating to the class licensee’s possession of the blunted defined weapon for a purpose mentioned in paragraph 3.\n(2) For the purpose of sub‑paragraph (1)(b), “authorised by or under the Act”, for possession of a blunted defined weapon, means authorised to possess the blunted defined weapon without committing an offence under the Act, because of —\n(a)a provision in the Act;\n(b)a licence or a class licence; or\n(c)an exemption by or under section 87, 88 or 89 of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Guns, Explosives and Weapons Control (Ornamental Use — Class Licence) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

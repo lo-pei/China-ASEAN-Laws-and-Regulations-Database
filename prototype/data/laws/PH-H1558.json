@@ -1,7 +1,7 @@
 {
  "id": "PH-H1558",
  "title": {
-  "zh": null,
+  "zh": "将莱特省杜拉格市镇科贡—宾凯村更名为萨尔瓦西翁村的法案",
   "en": "An Act Changing the Name of Barrio Cogon-Bingkay in the Municipality of Dulag, Province of Leyte, to Salvacion",
   "orig": "An Act Changing the Name of Barrio Cogon-Bingkay in the Municipality of Dulag, Province of Leyte, to Salvacion"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Barrio Cogon-Bingkay in the Municipality of Dulag, Province of Leyte, to Salvacion",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

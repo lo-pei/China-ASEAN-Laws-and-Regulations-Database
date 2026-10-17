@@ -1,7 +1,7 @@
 {
  "id": "SG-H2308",
  "title": {
-  "zh": null,
+  "zh": "所得税（向退休账户与特别账户付款的最高减免额）规则 2018",
   "en": "Income Tax (Maximum Relief Amount for Payments to Retirement Account and Special Account) Rules 2018",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) The specified amount mentioned in rule 3(1)(b)(i) and (2)(b)(i) is the lower of the following:\n(a)the amount of the payment mentioned in rule 3(1)(b)(i) or (2)(b)(i), as the case may be;\n(b)the maximum amount prescribed in regulation 7(1) of the Central Provident Fund (Topping‑Up of Special Account) Regulations (Cap. 36, Rg 37) that applies to the member concerned, determined immediately before that payment.\n(2) The specified amount mentioned in rule 3(1)(b)(ii) and (2)(b)(ii) is the sum total of the amount “Y” for each of the payments mentioned in rule 3(1)(b)(ii) or (2)(b)(ii) (as the case may be), where Y is the lower of the following:\n(a)the amount of the payment;\n(b)the maximum amount prescribed in regulation 7(1) of the Central Provident Fund (Topping‑Up of Special Account) Regulations that applies to the member concerned, determined immediately before that payment."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Maximum Relief Amount for Payments to Retirement Account and Special Account) Rules 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

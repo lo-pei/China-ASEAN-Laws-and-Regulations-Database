@@ -1,7 +1,7 @@
 {
  "id": "PH-H9928",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛市 Mandurriao 的西米沙鄢医疗中心床位由四百二十五（425）张增至七百（700）张、提升其专业医疗护理服务与设施、授权增加医务人员并为其拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Western Visayas Medical Center in Mandurriao, Iloilo City from Four Hundred Twenty-Five (425) Beds to Seven Hundred (700) Beds, Upgrading its Professional Health Care Services and Facilities, Authorizing the Increase of its Medical Personnel and Appropriating Funds Therefor.",
   "orig": "An Act Increasing the Bed Capacity of the Western Visayas Medical Center in Mandurriao, Iloilo City from Four Hundred Twenty-Five (425) Beds to Seven Hundred (700) Beds, Upgrading its Professional Health Care Services and Facilities, Authorizing the Increase of its Medical Personnel and Appropriating Funds Therefor."
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Western Visayas Medical Center in Mandurriao, Iloilo City from Four Hundred Twenty-Five (425) Beds to Seven Hundred (700) Beds, Upgrading its Professional Health Care Services and Facilities, Authorizing the Increase of its Medical Personnel and Appropriating Funds Therefor.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

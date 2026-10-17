@@ -1,7 +1,7 @@
 {
  "id": "PH-H694",
  "title": {
-  "zh": null,
+  "zh": "将三宝颜市职业学校改设为区域工艺与贸易学校，名称为三宝颜市区域工艺与贸易学校，并授权为此拨款的法案",
   "en": "An Act Converting the Zamboanga City Trade School Into a Regional School of Arts and Trades to Be Known as Zamboanga City Regional School Arts and Trades and Authorizing Appropriation of Funds for the Purpose",
   "orig": "An Act Converting the Zamboanga City Trade School Into a Regional School of Arts and Trades to Be Known as Zamboanga City Regional School Arts and Trades and Authorizing Appropriation of Funds for the Purpose"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, May 8, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Zamboanga City Trade School Into a Regional School of Arts and Trades to Be Known as Zamboanga City Regional School Arts and Trades and Authorizing Appropriation of Funds for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

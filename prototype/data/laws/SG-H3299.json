@@ -1,7 +1,7 @@
 {
  "id": "SG-H3299",
  "title": {
-  "zh": null,
+  "zh": "国家学生军团长期服务奖章条例",
   "en": "National Cadet Corps Long Service Medal Regulations",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "THE SCHEDULE\nRegulation 7(4)\nNational Cadet Corps Long Service Medal"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "National Cadet Corps Long Service Medal Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

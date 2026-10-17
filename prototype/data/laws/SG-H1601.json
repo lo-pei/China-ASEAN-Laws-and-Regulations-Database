@@ -1,7 +1,7 @@
 {
  "id": "SG-H1601",
  "title": {
-  "zh": null,
+  "zh": "海岸法 1920",
   "en": "Foreshores Act 1920",
   "orig": null
  },
@@ -192,5 +192,13 @@
     "en": "12. Nothing in this Act shall be deemed to be in derogation of any of the powers or rights of the Government in respect of the foreshore or territorial waters in Singapore, nor shall anything in this Act be deemed to affect any right or claim as between lessees and their sublessees or tenants between themselves."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Foreshores Act 1920",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

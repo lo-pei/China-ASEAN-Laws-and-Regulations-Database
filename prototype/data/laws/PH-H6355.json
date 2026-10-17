@@ -1,7 +1,7 @@
 {
  "id": "PH-H6355",
  "title": {
-  "zh": null,
+  "zh": "关于为全体菲律宾人建立国家健康保险计划并为此设立菲律宾健康保险公司的法案",
   "en": "An Act Instituting a National Health Insurance Program for All Filipinos and Establishing the Philippine Health Insurance Corporation for the Purpose",
   "orig": "An Act Instituting a National Health Insurance Program for All Filipinos and Establishing the Philippine Health Insurance Corporation for the Purpose"
  },
@@ -630,5 +630,11 @@
     "en": "Effectivity. - This Act shall take effect fifteen days after its publication in at last three (3) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act Instituting a National Health Insurance Program for All Filipinos and Establishing the Philippine Health Insurance Corporation for the Purpose",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

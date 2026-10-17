@@ -1,7 +1,7 @@
 {
  "id": "SG-H3067",
  "title": {
-  "zh": null,
+  "zh": "赡养令（相互执行）（互惠国家指定）公告 2016",
   "en": "Maintenance Orders (Reciprocal Enforcement) (Designation of Reciprocating Countries) Notification 2016",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nSpecified countries\n1.The Bailiwick of Guernsey\n2.The Bailiwick of Jersey\n3.Brunei Darussalam\n4.The following provinces and territories of Canada:\n(a)Alberta;\n(b)Saskatchewan;\n(c)Northwest Territories;\n(d)Yukon;\n(e)New Brunswick;\n(f)British Columbia;\n(g)Newfoundland and Labrador;\n(h)Nova Scotia;\n(i)Nunavut\n5.Cook Islands\n6.All the States of the Republic of India except the States of Jammu and Kashmir\n7.The Republic of Malawi\n8.Malaysia\n9.Niue\n10.The Independent State of Samoa (formerly known as Western Samoa)\n11.The Democratic Socialist Republic of Sri Lanka\n12.Saint Vincent and the Grenadines\n13.The Republic of Zambia"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Maintenance Orders (Reciprocal Enforcement) (Designation of Reciprocating Countries) Notification 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

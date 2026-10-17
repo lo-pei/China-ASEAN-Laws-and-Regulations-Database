@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-79-N-1-NOTIFICATION-OF-APPOINTMENT-OF-DEPUTY-REGI-535FFA",
  "title": {
-  "zh": null,
+  "zh": "N 1 依第 32 条作出的出生与死亡副登记官任命公告",
   "en": "N 1 NOTIFICATION OF APPOINTMENT OF DEPUTY REGISTRARS OF BIRTHS AND DEATH UNDER SECTION 32",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BIRTHS AND DEATHS REGISTRATION ACT (CHAPTER 79)\n\nNOTIFICATION OF APPOINTMENT OF\n\nDEPUTY REGISTRARS OF BIRTHS AND DEATHS UNDER SECTION 3(2) S 26/1963 1984 Edition Amended by S 3/1975\n\nREVISED EDITION 2013 Births and Deaths Registration CAP. 79, N 1 1\n\nSUBSIDIARY LEGISLATION Notification of appointment of Deputy Registrars of Births and Deaths under section 3(2) The officers referred to in the second column of the Schedule, whose names appear opposite the areas in the first column, are appointed to be Deputy Registrars of Births and Deaths for those areas.\n\nSCHEDULE A.  District of Brunei and Muara First Column Second Column District of Brunei and Muara Senior Health Inspector, Health (excluding the areas below) Office, Bandar Seri Begawan Kampong Batu Marang Ketua Kampong Muara District Officer-in-Charge, Police Station, Muara Mukim Gadong (Mata-Mata, Beribi Penghulu Mukim Gadong and Kiarong) Mukim Limau Manis Officer-in-Charge, Police Station, Limau Manis Mukim Sengkurong Officer-in-Charge, Police Station, Sengkurong Raja Isteri Pengiran Anak Saleha Medical Officer-in-Charge, Raja Hospital Isteri Pengiran Anak Saleha Hospital B.  District of Belait Kuala Belait and District (excluding Health Inspector, Health Office, the areas below) Kuala Belait Mukim Bukit Sawat Hospital Assistant in charge of Government Dispensary, Labi Mukim Kuala Balai Penghulu Mukim Kuala Belait Mukim Labi Hospital Assistant in charge of Government Dispensary, Labi Suri Seri Begawan Hospital, Kuala Medical Officer in charge of Suri Belait Seri Begawan Hospital, Kuala Belait 2 CAP. 79, N 1 Births and Deaths Registration C.  District of Tutong Tutong District District Medical Officer/Hospital Assistant in charge of District Hospital, Tutong D.  District of Temburong Temburong District District Medical Officer/Hospital Assistant, District Hospital, Temburong Mukim Labu Estate Penghulu Mukim Labu Estate"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "N 1 NOTIFICATION OF APPOINTMENT OF DEPUTY REGISTRARS OF BIRTHS AND DEATH UNDER SECTION 32",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

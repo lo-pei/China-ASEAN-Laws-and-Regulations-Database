@@ -1,0 +1,72 @@
+{
+ "id": "BN-S-29-2004-E-PERBADANAN-TABUNG-AMANAH-ISLAM-BRUNEI-ACT-EB3105",
+ "title": {
+  "zh": "文莱伊斯兰信托基金机构法修正命令 2004",
+  "en": "PERBADANAN TABUNG AMANAH ISLAM BRUNEI ACT AMENDMENT ORDER 2004",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p27",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 1060,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-29-2004-E-PERBADANAN-TABUNG-AMANAH-ISLAM-BRUNEI-ACT-AMENDMENT-ORDER-2004.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-29-2004-E-PERBADANAN-TABUNG-AMANAH-ISLAM-BRUNEI-ACT-AMENDMENT-ORDER-2004.pdf》（2 页），本次切分 2 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-29-2004-E-PERBADANAN-TABUNG-AMANAH-ISLAM-BRUNEI-ACT-EB3105-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Order may be cited as the Perbadanan Thbung Amanah Islam Brunei Act (Amendment) Order, 2004. of section 13 of Chapter 163."
+   }
+  },
+  {
+   "id": "BN-S-29-2004-E-PERBADANAN-TABUNG-AMANAH-ISLAM-BRUNEI-ACT-EB3105-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section 13 of the Perbadanan Tabung Amanah Islam Brunei Act is amended by deleting subsection !6) and by substituting the following new subsection \"j6) In the event of the absence or inability to act of the Managing Director, the Chairman of the board of directors of the Perbadanan may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, appoint any director appointed under subsection (2) of section 5 to discharge the duties of the Managing Director during the period of his absence or inability: Provided that, if the absence or inability is for a period of less than 30 days, the power to make any such appointment shall be vested in the who shall notify His Majesty the Sultan and Yang Di-Pertuan of • Made this 30th. day of Safar, 1425 Hijriah corresponding to the 20th. day of April, 2004 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nDARUSSALAM"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "PERBADANAN TABUNG AMANAH ISLAM BRUNEI ACT AMENDMENT ORDER 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

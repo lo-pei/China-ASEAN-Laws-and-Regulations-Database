@@ -1,7 +1,7 @@
 {
  "id": "PH-H5953",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛省卡巴图安市镇图波尔西斯特描笼涯图波尔西斯特小学的名称变更为Julian B. Pueyo小学的法案",
   "en": "An Act Changing the Name of the Tupol Oeste Primary School in Barangay Tupol Oeste, Municipality of Cabatuan, Province of Iloilo, To Julian B. Pueyo Primary School",
   "orig": "An Act Changing the Name of the Tupol Oeste Primary School in Barangay Tupol Oeste, Municipality of Cabatuan, Province of Iloilo, To Julian B. Pueyo Primary School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Tupol Oeste Primary School in Barangay Tupol Oeste, Municipality of Cabatuan, Province of Iloilo, To Julian B. Pueyo Primary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

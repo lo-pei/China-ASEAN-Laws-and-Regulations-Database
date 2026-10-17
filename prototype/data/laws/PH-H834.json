@@ -1,7 +1,7 @@
 {
  "id": "PH-H834",
  "title": {
-  "zh": null,
+  "zh": "修订第613号共和国法（即出口管制法，经第824号共和国法重新颁布并修正）第1条与第5条的法案",
   "en": "An Act to Amend Sections One and Five of Republic Act Numbered Six Hundred Thirteen, Otherwise Known as the Export Control Law, as Reenacted and Amended by Republic Act Numbered Eight Hundred Twenty Four",
   "orig": "An Act to Amend Sections One and Five of Republic Act Numbered Six Hundred Thirteen, Otherwise Known as the Export Control Law, as Reenacted and Amended by Republic Act Numbered Eight Hundred Twenty Four"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections One and Five of Republic Act Numbered Six Hundred Thirteen, Otherwise Known as the Export Control Law, as Reenacted and Amended by Republic Act Numbered Eight Hundred Twenty Four",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

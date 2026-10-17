@@ -1,7 +1,7 @@
 {
  "id": "BN-S-137-1971-E-AGRICULTURAL-PESTS-AND-NOXIOUS-PLANTS-EN-8E10E1",
  "title": {
-  "zh": null,
+  "zh": "农业害虫与有害植物法令 1962",
   "en": "AGRICULTURAL PESTS AND NOXIOUS PLANTS ENACTMENT 1962",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "No. S 137\n\nAGRICULTURAL PESTS AND NOXIOUS PLANTS ENACTMENT, 1962. In exercise of the powers conferred on him by rLt!t:tment Section 1 of the Agricultural Pests and Noxious 'o. II of 1962. Plants Enactment, 1962, His Highness the Sultan in Council has appointed the 1st day of August, 1971, as the date on which the said Enactment shall come into operation. Made this 28th day of July, 19il. JuoiN AsAR for Clerk of Council of Brunei."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "AGRICULTURAL PESTS AND NOXIOUS PLANTS ENACTMENT 1962",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1434",
  "title": {
-  "zh": null,
+  "zh": "交易所（非互助化与合并）（受让控股公司股份价值）公告 1999",
   "en": "Exchanges (Demutualisation and Merger) (Value of Transferee Holding Company’s Shares) Notification 1999",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 6(5) of the Act, the value of each transferee holding company’s share allotted and issued under section 6 of the Act is $5,000 per share."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Exchanges (Demutualisation and Merger) (Value of Transferee Holding Company’s Shares) Notification 1999",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

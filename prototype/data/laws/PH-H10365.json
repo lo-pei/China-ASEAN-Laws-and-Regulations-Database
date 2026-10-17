@@ -1,7 +1,7 @@
 {
  "id": "PH-H10365",
  "title": {
-  "zh": null,
+  "zh": "在 Benguet 省 La Trinidad 市镇的 Benguet 国立大学设立医学院，名称为 Benguet 国立大学医学院，并为此拨款的法案",
   "en": "An Act Establishing a College of Medicine in the Benguet State University Located in the Municipality of La Trinidad, Province of Benguet, to Be Known as the Benguet State University-College of Medicine, and Appropriating Funds Therefor",
   "orig": "An Act Establishing a College of Medicine in the Benguet State University Located in the Municipality of La Trinidad, Province of Benguet, to Be Known as the Benguet State University-College of Medicine, and Appropriating Funds Therefor"
  },
@@ -221,5 +221,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a College of Medicine in the Benguet State University Located in the Municipality of La Trinidad, Province of Benguet, to Be Known as the Benguet State University-College of Medicine, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

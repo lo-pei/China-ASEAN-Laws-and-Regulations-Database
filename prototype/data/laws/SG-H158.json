@@ -1,7 +1,7 @@
 {
  "id": "SG-H158",
  "title": {
-  "zh": null,
+  "zh": "航空导航（权力转授）公告",
   "en": "Air Navigation (Delegation of Powers) Notification",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Air Navigation Act\n(Chapter 6, paragraph 67N of the Air Navigation Order (O 2))\nAir Navigation\n(Delegation of Powers) Notification\nN 3\nG.N. No. S 439/2003\nREVISED EDITION 2004\n(31st December 2004)\n[15th September 2003]\nThe Minister for Transport has delegated —\n(a)all his powers under paragraphs 67, 67A(1)(a), 67B, 67L and 67M of the Order to the Chief Executive Officer and the Head of the Aerodrome Standards and Safety Unit of the Civil Aviation Authority of Singapore; and\n(b)all his powers under paragraphs 67A(1)(c) and (e), 67D, 67E, 67G and 67H of the Order to the Chief Executive Officer and the Head and officers of the Aerodrome Standards and Safety Unit of the Civil Aviation Authority of Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Air Navigation (Delegation of Powers) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

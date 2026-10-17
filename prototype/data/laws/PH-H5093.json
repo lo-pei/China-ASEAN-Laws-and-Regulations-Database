@@ -1,7 +1,7 @@
 {
  "id": "PH-H5093",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第 5088 号共和国法与第 4072 号共和国法若干条款，以调整 Eulogio Rodriguez Memorial 工艺学校的设置与职业技术部的法案",
   "en": "An Act Further Amending Certain Sections of Republic Act Numbered Five Thousand Eighty-Eight, Entitled \"An Act Converting Eulogio Rodriguez Vocational High School Into the Eulogio Rodriguez Memorial School of Arts and Trades\" and Amending Certain Sections of Republic Act Numbered Four Thousand Seventy-Two, Entitled \"An Act Providing for the Establishment of a Vocational Technical Department of the Eulogio Rodriguez Vocational High School in the City of Manila.\"",
   "orig": "An Act Further Amending Certain Sections of Republic Act Numbered Five Thousand Eighty-Eight, Entitled \"An Act Converting Eulogio Rodriguez Vocational High School Into the Eulogio Rodriguez Memorial School of Arts and Trades\" and Amending Certain Sections of Republic Act Numbered Four Thousand Seventy-Two, Entitled \"An Act Providing for the Establishment of a Vocational Technical Department of the Eulogio Rodriguez Vocational High School in the City of Manila.\""
  },
@@ -62,14 +62,15 @@
    }
   },
   {
-   "id": "PH-H5093-A1_2",
+   "id": "PH-H5093-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The institute is hereby authorized to establish a trade technical education department, vocational-technical teacher education department, technology department, science and arts department, graduate education department and offer such other opportunity and technician courses essential to meet the needs of Manila and other metropolitan area.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5093-A3",
@@ -82,14 +83,15 @@
    }
   },
   {
-   "id": "PH-H5093-A2_2",
+   "id": "PH-H5093-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "The Eulogio \"AMANG\" Rodriguez Institute of Science and Technology shall be headed by a president of the institute of science and technology whose salary shall not be less than twenty-five thousand pesos per annum. The present head of the school shall become its first president. Thereafter, the president shall be appointed by the Secretary of Education upon the recommendation of the Director of Vocational Education. The heads of the various departments together with the other personnel of this institute, shall be appointed by the Director of Vocational Education upon the recommendation of its president subject to existing- rules and regulations.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5093-A4",
@@ -102,14 +104,15 @@
    }
   },
   {
-   "id": "PH-H5093-A3_2",
+   "id": "PH-H5093-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "The administrative officer, supervisors and heads of departments shall each receive not less than twelve thousand pesos per annum and each instructor or professor and other personnel shall receive the same amount of salary as those holding similar positions at the Pamantasan ng Lungsod ng Maynila. The head of the graduate education department shall also act as vice president, of the institute with an annual salary equal to the amount of salary received by the vice president of the Philippine College of Arts and Trades.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5093-A5",
@@ -122,14 +125,15 @@
    }
   },
   {
-   "id": "PH-H5093-A4_2",
+   "id": "PH-H5093-A4-d2",
    "no": 4,
    "noLabel": {
     "en": "Section 4."
    },
    "text": {
     "en": "The school registrar, guidance counselors or placement coordinator with an annual salary of ten thousand pesos shall be appointed by the Director of Vocational Education upon the recommendation of the president and shall be paid out of city funds.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5093-A6",
@@ -142,14 +146,15 @@
    }
   },
   {
-   "id": "PH-H5093-A5_2",
+   "id": "PH-H5093-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Section 5."
    },
    "text": {
     "en": "The operation and maintenance of the technical education department and technology department shall be financed by the National Government. The appointment of instructors and professors to these departments shall be based upon proven competence and not necessarily upon qualification in civil service examinations.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5093-A7",
@@ -182,14 +187,15 @@
    }
   },
   {
-   "id": "PH-H5093-A7_2",
+   "id": "PH-H5093-A7-d2",
    "no": 7,
    "noLabel": {
     "en": "Section 7."
    },
    "text": {
     "en": "Provincial students may be enrolled in the said institute after all qualified resident applicants in the City of Manila shall have been admitted.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5093-A10",
@@ -212,14 +218,15 @@
    }
   },
   {
-   "id": "PH-H5093-A8_2",
+   "id": "PH-H5093-A8-d2",
    "no": 8,
    "noLabel": {
     "en": "Section 8."
    },
    "text": {
     "en": "The sum of one million five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of the technical education department and technology department of the Eulogio \"AMANG\" Rodriguez Institute of Science and Technology during the fiscal year nineteen hundred seventy-three. Thereafter, such sums as may be necessary for its operation and maintenance shall be included in the annual General Appropriations Act.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5093-A12",
@@ -231,5 +238,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amending Certain Sections of Republic Act Numbered Five Thousand Eighty-Eight, Entitled \"An Act Converting Eulogio Rodriguez Vocational High School Into the Eulogio Rodriguez Memorial School of Arts and Trades\" and Amending Certain Sections of Republic Act Numbered Four Thousand Seventy-Two, Entitled \"An Act Providing for the Establishment of a Vocational Technical Department of the Eulogio Rodriguez Vocational High School in the City of Manila.\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

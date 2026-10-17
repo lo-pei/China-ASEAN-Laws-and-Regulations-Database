@@ -1,7 +1,7 @@
 {
  "id": "BN-S-79-2011-BRUNEI-NATIONAL-ENERGY-RESEARCH-INSTITUTE-O-B8F533",
  "title": {
-  "zh": null,
+  "zh": "文莱国家能源研究所命令 2011",
   "en": "BRUNEI NATIONAL ENERGY RESEARCH INSTITUTE ORDER 2011",
   "orig": null
  },
@@ -320,5 +320,13 @@
     "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang make rules for carrying out the purposes and provisions of this\n\n(2) Without prejudice to the generality of subsection (1), the Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make rules for or with respect to all or any of the following matters - {aj the manner of appointment, conduct and discipline and the terms and conditions of service of the employees of the Institute; (bj the establishment of funds for the payment of gratuities and other benefits to the employees of the Institute; and\n\n(c) the fees to be charged in respect of anything done or any services by the Institute under or by virtue of this Order or any other law.\n\nSCHEDULE 5(3))\n\nAND PROCEEDINGS OF BOARD of chairman and members."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI NATIONAL ENERGY RESEARCH INSTITUTE ORDER 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

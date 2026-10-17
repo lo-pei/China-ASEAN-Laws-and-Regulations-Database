@@ -1,7 +1,7 @@
 {
  "id": "BN-S-44-1998-BROADCASTING-CODE-OF-PRACTICE-NOTIFICATION-1998",
  "title": {
-  "zh": null,
+  "zh": "广播业务守则公告 1998",
   "en": "BROADCASTING CODE OF PRACTICE NOTIFICATION 1998",
   "orig": null
  },
@@ -196,5 +196,13 @@
     "en": "Others a) Promotion, directly or otherwise, of gambling acts/activities are prohibited. bl Advertisements which specifically promote fortune-telling, geomancy and other superstitious beliefs or which make reference to occult practices are prohibited. c) Advertisements relating to undertaker services and products associated with death are prohibited. d} Advertisements should not use 'subliminal advertising' that may influence the minds of its viewers towards anything that is prohibited by this Code. e) Advertisements concerning massage parlours/services, social escort agencies/services and other establishments not of a reputable nature are prohibited. Made this 25th. day of Syaaban 1419 Hijriah corresponding to the 14th. day of December, 1998. PEHIN ORANG KA YA LAlLA SETIA BAKTI DIRAJA DATO LAlLA UTAMA HAJI A WANG ISA BIN PEHIN DATU PERDANA MANTER! DATO LAlLA UTAMA HAJI IBRAHIM Minister responsible for broadcasting matters, Prime Minister's Office, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BROADCASTING CODE OF PRACTICE NOTIFICATION 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

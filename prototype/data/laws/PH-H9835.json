@@ -1,7 +1,7 @@
 {
  "id": "PH-H9835",
  "title": {
-  "zh": null,
+  "zh": "将邦板牙省 Guagua 市镇 Pulungmasle 描笼涯的 Ascomo 小村分离并设为名为 Asconio 描笼涯的独立描笼涯的法案",
   "en": "An Act Separating the Sitio of Ascomo from Barangay Pulungmasle in the Municipality of Guagua, Province of Pampanga and Constituting it into a Distinct and Independent Barangay to be Known as Barangay Asconio",
   "orig": "An Act Separating the Sitio of Ascomo from Barangay Pulungmasle in the Municipality of Guagua, Province of Pampanga and Constituting it into a Distinct and Independent Barangay to be Known as Barangay Asconio"
  },
@@ -110,5 +110,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Sitio of Ascomo from Barangay Pulungmasle in the Municipality of Guagua, Province of Pampanga and Constituting it into a Distinct and Independent Barangay to be Known as Barangay Asconio",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

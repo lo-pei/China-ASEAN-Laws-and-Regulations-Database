@@ -1,7 +1,7 @@
 {
  "id": "PH-H8187",
  "title": {
-  "zh": null,
+  "zh": "2009 年气候变化法",
   "en": "Climate Change Act of 2009",
   "orig": "Climate Change Act of 2009 An Act Mainstreaming Climate Change Into Government Policy Formulations, Establishing the Framework Strategy and Program on Climate Change, Creating for this Purpose the Climate Change Commission, and for Other Purposes"
  },
@@ -300,5 +300,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after the completion of its publication in the Official Gazette or in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Climate Change Act of 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

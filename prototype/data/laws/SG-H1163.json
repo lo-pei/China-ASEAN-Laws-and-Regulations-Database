@@ -1,7 +1,7 @@
 {
  "id": "SG-H1163",
  "title": {
-  "zh": null,
+  "zh": "贫困者法 1989",
   "en": "Destitute Persons Act 1989",
   "orig": null
  },
@@ -296,5 +296,13 @@
     "en": "20. The Minister may at any time order any person admitted to a welfare home to be discharged."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Destitute Persons Act 1989",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

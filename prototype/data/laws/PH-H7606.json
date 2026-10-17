@@ -1,7 +1,7 @@
 {
  "id": "PH-H7606",
  "title": {
-  "zh": null,
+  "zh": "通过整合 Buena Vista 市镇吉马拉斯理工学院与 Jordan 市镇西米沙鄢科学技术学院吉马拉斯延伸部设立吉马拉斯国立学院，并为此拨款并为其他目的法案",
   "en": "An Act Establishing the Guimaras State College By Integrating the Guimaras Polytechnic College in the Municipality of Buena Vista and the Western Visayas College of Science and Technology - Guimaras Extension in the Municipality of Jordan, Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act Establishing the Guimaras State College By Integrating the Guimaras Polytechnic College in the Municipality of Buena Vista and the Western Visayas College of Science and Technology - Guimaras Extension in the Municipality of Jordan, Appropriating Funds Therefor and for Other Purposes"
  },
@@ -280,5 +280,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the Guimaras State College By Integrating the Guimaras Polytechnic College in the Municipality of Buena Vista and the Western Visayas College of Science and Technology - Guimaras Extension in the Municipality of Jordan, Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

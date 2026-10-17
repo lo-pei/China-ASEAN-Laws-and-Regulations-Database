@@ -1,7 +1,7 @@
 {
  "id": "SG-H1991",
  "title": {
-  "zh": null,
+  "zh": "所得税（Elite Commercial 房地产投资信托——第 13（12）条豁免）（第 2 号）命令 2022",
   "en": "Income Tax (Elite Commercial REIT — Section 13(12) Exemption) (No. 2) Order 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividend income received in Singapore by Elite Commercial REIT (a real estate investment trust incorporated in Singapore) (called in this Order ECREIT) from Elite UK Commercial Holdings Limited (a real estate investment trust incorporated in the United Kingdom) (called in this Order ECHL) on or after 26 August 2021 is exempt from tax.\n(2) Interest income received in Singapore by ECREIT from the following entities on or after 26 August 2021 is exempt from tax:\n(a)ECHL;\n(b)Elite Gemstones Properties Limited (a company incorporated in the United Kingdom).\n(3) The exemptions in sub-paragraphs (1) and (2) are subject to the conditions specified in the letter of approval dated 21 September 2021 addressed to Grant Thornton Singapore Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Elite Commercial REIT — Section 13(12) Exemption) (No. 2) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

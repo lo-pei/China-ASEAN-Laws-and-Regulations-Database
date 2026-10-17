@@ -148,6 +148,10 @@
     return c.sources.map(function (s) {
       var raw = (typeof s.name === 'string' ? s.name : (s.name && (s.name.zh || s.name.en))) || code;
       var name = CALR.ui.portalLabel ? CALR.ui.portalLabel(s.url, raw) : raw;
+      /* 页脚友情链接不带英文缩写括注（如「菲律宾法律信息库（LawPhil）」→「菲律宾法律信息库」），
+         保持页脚列表简洁；其他页面（数据来源、国家页）仍保留括注以便识别是哪个数据库。 */
+      var compact = String(name).replace(/\s*[（(][^）)]*[）)]\s*$/, '').trim();
+      if (compact) name = compact;
       return { zh: name, en: name, url: s.url };
     });
   }

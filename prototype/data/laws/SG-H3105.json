@@ -1,7 +1,7 @@
 {
  "id": "SG-H3105",
  "title": {
-  "zh": null,
+  "zh": "奖章（COVID-19 疫情）规则 2022",
   "en": "Medals (COVID-19) Rules 2022",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "THE SCHEDULE\nRules 2(b), 3(b), 4(b),\n5(b), 6(b) and 7(b)\nColours for ribbons of\nMedals awarded for COVID‑19 contributions\n1. The ribbon has a red stripe at its centre, flanked on each side by a white stripe, a light turquoise stripe, and a dark turquoise stripe, in that order.\n2. To avoid doubt, the shape of the ribbon is governed by the subsidiary legislation instituting the Medal."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Medals (COVID-19) Rules 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-177-2000-RECIPROCAL-ENFORCEMENT-OF-FOREIGN-JUDGMENTS-ACT",
  "title": {
-  "zh": null,
+  "zh": "外国判决互惠执行法",
   "en": "RECIPROCAL ENFORCEMENT OF FOREIGN JUDGMENTS ACT",
   "orig": null
  },
@@ -158,5 +158,13 @@
     "en": "(1) Where a judgment under which a sum of money is payable, not being a sum payable in respect of taxes or other charges of a like nature or in respect of a fine or other penalty, has been entered in the High Court against any person and the judgment creditor is desirous of enforcing the in a foreign country the court shall, on an application made by the creditor and on payment of such fee as may be prescribed, issue to the judgment creditor a certified copy of the judgment, together with a Judgments CAP. 177 13 containing such particulars with respect to the action, including the causes of action, and the rate of interest, if any, payable on the sum payable under thejudgment, as may be prescribed.\n\n(2) Where execution of a judgment is stayed for any period pending an appeal or for any other reason, an application shall not be made under this section with respect to the judgment until the expiration of that period. BLR. O. 1/2000"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RECIPROCAL ENFORCEMENT OF FOREIGN JUDGMENTS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

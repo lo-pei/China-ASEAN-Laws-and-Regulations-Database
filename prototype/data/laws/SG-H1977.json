@@ -1,7 +1,7 @@
 {
  "id": "SG-H1977",
  "title": {
-  "zh": null,
+  "zh": "所得税（可扣除借款成本）条例 2008",
   "en": "Income Tax (Deductible Borrowing Costs) Regulations 2008",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRegulations 2 and 3\nDeductible Borrowing Costs\nFirst column\nSecond column\nItem\nDescription\n1.\nGuarantee fees\n—\nFees payable to a guarantor to enable the borrower to enjoy preferential interest rates and reduce his interest costs\n2.\nBank option fees\n—\nFees payable to the lender to keep the interest rate on borrowing at a fixed level or within a specified range\n3.\nDiscount on debt securities payable on the maturity or early redemption of those securities\n—\nDiscount suffered by the issuer of debt securities, with zero or below market interest rate, that is equal to the difference between the amount payable to the holder of the securities upon the maturity or early redemption of the securities and the amount paid by the first holder of the securities for the issue of the securities\n4.\nPremium on debt securities payable on the maturity or early redemption of those securities\n—\nPremium payable upon maturity of debt securities or early redemption thereof by the issue of the securities, with zero or below market interest rate, that is equal to the difference between the amount payable to the holder of the securities upon the maturity or early redemption of the securities and the amount paid by the first holder of the securities for the issue of the securities\n5.\nPrepayment fees or early redemption fees\n—\nFees payable to the lender upon the early redemption of borrowing which represent compulsory adjustments to the interest obligation of the borrower\n6.\nExtension fees\n—\nFees payable to the lender to extend the repayment date of the borrowing which represent compensation to the lender for the time value of the money borrowed for the extended period\n7.\nIncreased costs\n—\nUpward interest rate adjustments payable when certain event occurs as specified in the loan agreement\n8.\nInterest rate cap premiums\n—\nUpfront premiums payable to cap the interest rate at a certain level\n9.\nInterest rate swap payments\n—\nAmounts payable to protect the borrower against interest rate fluctuations\n10.\nConversion fees or amendment fees\n—\nAny amount payable to the lender under the loan agreement for conversion of the interest rate specified in the loan agreement that is applicable at the point of the conversion, to a lower interest rate\n11.\nCancellation fees\n—\nFees payable to the lender when the loan or any part thereof is cancelled which represent adjustments of the interest return to the lender\n12.\nFront‑end fees or back‑end fees\n—\nAny amount payable to the lender, either at the beginning or at the end of the term of borrowing, which is equivalent to the interest which the borrower would otherwise be required to pay to the lender under the loan agreement\n[S 533/2014 wef Y/A 2014 subs Ys/A]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Deductible Borrowing Costs) Regulations 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-96-2012-TR-AVEL-AGENTS-ACT-1",
  "title": {
-  "zh": null,
+  "zh": "旅行社法 1",
   "en": "TR​AVEL AGENTS ACT 1",
   "orig": null
  },
@@ -123,5 +123,13 @@
     "en": "The Act is amended by deleting \"Board\" wherever that word appears and by substituting \"Authority\" therefor. Made this 28th. day of Zulhijjah, 1433 Hijriah corresponding to the of November, 2012 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM _,· Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENGIRAN HAJI AHMAD, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TR​AVEL AGENTS ACT 1",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

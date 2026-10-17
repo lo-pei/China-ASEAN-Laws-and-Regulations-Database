@@ -1,7 +1,7 @@
 {
  "id": "BN-S-32-2012-BUSINESS-NAMES-ACT-AMENDMENT-ORDER-2012",
  "title": {
-  "zh": null,
+  "zh": "商业名称法修正命令 2012",
   "en": "BUSINESS NAMES ACT AMENDMENT ORDER 2012",
   "orig": null
  },
@@ -93,5 +93,13 @@
     "en": "Section 24 of the Act is amended, in subsection (1), by deleting \"His Majesty may\" from the first line by substituting \"The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan,\" therefor. Made this 7th. day of Rabiulawal, 1433 Hijriah corresponding to the 31st. day of January, 2012 at Our Istana Nurul Iman, Bandar Seri Begawan, Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BUSINESS NAMES ACT AMENDMENT ORDER 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

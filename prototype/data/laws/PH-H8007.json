@@ -1,7 +1,7 @@
 {
  "id": "PH-H8007",
  "title": {
-  "zh": null,
+  "zh": "在南甘马粦省首府Pili镇设立艺术与文化高级中学，名称为Bikol艺术与文化高级中学并为此拨款的法案",
   "en": "An Act Establishing An Arts and Culture High School in the Capital Town of Pili, Province of Camarines Sur to Be Known as the Bikol High School for the Arts and Culture and Appropriating",
   "orig": "An Act Establishing An Arts and Culture High School in the Capital Town of Pili, Province of Camarines Sur to Be Known as the Bikol High School for the Arts and Culture and Appropriating"
  },
@@ -81,5 +81,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing An Arts and Culture High School in the Capital Town of Pili, Province of Camarines Sur to Be Known as the Bikol High School for the Arts and Culture and Appropriating",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

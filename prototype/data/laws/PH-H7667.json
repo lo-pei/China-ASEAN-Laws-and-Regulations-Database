@@ -1,7 +1,7 @@
 {
  "id": "PH-H7667",
  "title": {
-  "zh": null,
+  "zh": "修订第 8560 号共和国法（即 1998 年菲律宾大地测量工程法）并为其他目的法案",
   "en": "An Act Amending Republic Act Numbered Eighty Five Hundred and Sixty (R.A. No. 8560) Otherwise Known as the Philippine Geodetic Engineering Act of 1998, and for Other Purposes",
   "orig": "An Act Amending Republic Act Numbered Eighty Five Hundred and Sixty (R.A. No. 8560) Otherwise Known as the Philippine Geodetic Engineering Act of 1998, and for Other Purposes"
  },
@@ -160,5 +160,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in a major daily newspaper of national circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Eighty Five Hundred and Sixty (R.A. No. 8560) Otherwise Known as the Philippine Geodetic Engineering Act of 1998, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

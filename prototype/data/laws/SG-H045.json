@@ -1,7 +1,7 @@
 {
  "id": "SG-H045",
  "title": {
-  "zh": null,
+  "zh": "会计师（订明文件与资料）规则 2024",
   "en": "Accountants (Prescribed Documents and Information) Rules 2024",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nRule 5\nFees\n1.\nFor supplying a copy of, or an extract from, any document mentioned in rule 2 (without attachments) which is filed with the Registrar\n$11 per document\n2.\nFor supplying a copy of, or an extract from, any document mentioned in rule 2 (including attachments) which is filed with the Registrar\n$26 per document\n3.\nCertification of a copy of, or an extract from, any document mentioned in rule 2 as the copy which is filed with the Registrar\n$1 per page or part of a page for electronic certification"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Accountants (Prescribed Documents and Information) Rules 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

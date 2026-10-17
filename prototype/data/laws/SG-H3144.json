@@ -1,7 +1,7 @@
 {
  "id": "SG-H3144",
  "title": {
-  "zh": null,
+  "zh": "终身健保计划（保费追收）条例 2016",
   "en": "MediShield Life Scheme (Premium Recovery) Regulations 2016",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "7. The Board may waive any interest imposed under section 11(1)(a) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "MediShield Life Scheme (Premium Recovery) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3410",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11 (3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n(1)The Advance Medical Directive Act (Chapter 4A).\n(2)The Central Provident Fund Act (Chapter 36).\n(3)The Civil List and Pension Act (Chapter 44).\n(4)The Customs Act (Chapter 70).\n(5)The Employment of Foreign Workers Act (Chapter 91A).\n(6)The Estate Duty Act (Chapter 96).\n(7)The Evidence Act (Chapter 97).\n(8)The Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Chapter 124).\n(9)The Immigration Act (Chapter 133).\n(10)The Legal Profession Act (Chapter 161).\n(11)The Notaries Public Act (Chapter 208).\n(12)The Road Traffic Act (Chapter 276).\n(13)The Singapore Academy of Law Act (Chapter 294A).\n(14)The Singapore Tourism Board Act (Chapter 305B).\n(15)The Singapore Tourism (Cess Collection) Act (Chapter 305C)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11 (3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

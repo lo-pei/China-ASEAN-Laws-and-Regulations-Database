@@ -1,7 +1,7 @@
 {
  "id": "SG-H755",
  "title": {
-  "zh": null,
+  "zh": "社区关怀捐赠基金法 2005",
   "en": "Community Care Endowment Fund Act 2005",
   "orig": null
  },
@@ -336,5 +336,13 @@
     "en": "THE SCHEDULE\nSection 7(3)\nSupervisory Council\n1.—(1) Subject to this paragraph, every member of the Council holds and vacates his or her office in accordance with the terms of his or her appointment and, on ceasing to be a member, is eligible for re‑appointment.\n(2) Any member of the Council may resign his or her office at any time by giving written notice to the Minister.\n(3) If the Minister is satisfied that a member of the Council —\n(a)is guilty of neglect of duty or misconduct;\n(b)has become bankrupt or made an arrangement with his or her creditors;\n(c)is incapacitated by physical or mental illness; or\n(d)is otherwise unable or unfit to discharge the functions of a member,\nthe Minister may remove him or her from office.\n2. The validity of any proceedings of the Council is not affected by any vacancy among the members or by any defect in the appointment of any member.\n3. The arrangements relating to meetings of the Council are such as the Council may determine.\n4. The chairperson presides at all meetings of the Council at which he or she is present and, in the chairperson’s absence, the members present must elect one of their number to act as chairperson of that meeting.\n5. Subject to the provisions of this Act, the Council may regulate its own procedure in such manner as it thinks fit."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Community Care Endowment Fund Act 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

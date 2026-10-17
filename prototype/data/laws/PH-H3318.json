@@ -1,7 +1,7 @@
 {
  "id": "PH-H3318",
  "title": {
-  "zh": null,
+  "zh": "将总审计局内部审计协调人员改设为部门，设立新增职位并为其运作提供资金的法案",
   "en": "An Act Converting the Internal Auditing Coordinating Staff of the General Auditing Office to a Department, Creating Additional Positions and Providing Funds for the Operation Thereof",
   "orig": "An Act Converting the Internal Auditing Coordinating Staff of the General Auditing Office to a Department, Creating Additional Positions and Providing Funds for the Operation Thereof"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect on July first nineteen hundred sixty-four.\nApproved: June 20, 1964"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Internal Auditing Coordinating Staff of the General Auditing Office to a Department, Creating Additional Positions and Providing Funds for the Operation Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

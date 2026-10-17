@@ -1,7 +1,7 @@
 {
  "id": "SG-H1558",
  "title": {
-  "zh": null,
+  "zh": "金融控股公司（征费）条例 2023",
   "en": "Financial Holding Companies (Levy) Regulations 2023",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Except as provided in paragraphs (2) and (3), for the purposes of section 9(1) of the Act, the annual levy payable by a designated financial holding company for a year is —\n(a)where the relevant sum in relation to the designated financial holding company is less than $70 billion — $55,000; and\n(b)where the relevant sum in relation to the designated financial holding company is $70 billion or more — $210,000.\n(2) For the purposes of section 9(1) of the Act, where a designated financial holding company is designated as such before 22 August 2023, the annual levy payable by the designated financial holding company for 2023 is the amount derived from the following formula:\nwhere —\n(a)A is the number of days between 22 August 2023 and 31 December 2023, both dates inclusive; and\n(b)B is the annual levy that would be payable by the designated financial holding company for 2023 under paragraph (1), but for this paragraph.\n(3) For the purposes of section 9(1) of the Act, where a designated financial holding company is designated as such on or after 22 August 2023, the annual levy payable by the designated financial holding company for the year in which the designated financial holding company is designated as such (called in this regulation the designation year) is —\n(a)where the designation year has 365 days — the amount derived from the following formula:\nwhere —\n(i)A is the number of days between the date of designation of the designated financial holding company and 31 December of the designation year, both dates inclusive; and\n(ii)B is the annual levy that would be payable by the designated financial holding company for the designation year under paragraph (1), but for this paragraph; and\n(b)where the designation year has 366 days — the amount derived from the following formula:\nwhere —\n(i)A is the number of days between the date of designation of the designated financial holding company and 31 December of the designation year, both dates inclusive; and\n(ii)B is the annual levy that would be payable by the designated financial holding company for the designation year under paragraph (1), but for this paragraph."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Financial Holding Companies (Levy) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

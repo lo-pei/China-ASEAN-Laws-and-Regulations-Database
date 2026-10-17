@@ -1,7 +1,7 @@
 {
  "id": "SG-H1341",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（禁止露天用火）命令",
   "en": "Environmental Protection and Management (Prohibition on the Use of Open Fires) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The use of open fires in any industrial or trade premises is prohibited, except where such open fires are used for —\n(a)the purpose of fire fighting practices; or\n(b)the disposal of tail gases from industrial plants.\n[G.N. No. S 161/99]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Protection and Management (Prohibition on the Use of Open Fires) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

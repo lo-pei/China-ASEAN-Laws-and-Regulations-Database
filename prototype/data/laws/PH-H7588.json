@@ -1,7 +1,7 @@
 {
  "id": "PH-H7588",
  "title": {
-  "zh": null,
+  "zh": "将巴拉望省普林塞萨港市Ramesamey/Cowrie岛全境土地由林地重新划为可转让与可处置土地的法案",
   "en": "An Act to Reclassify the Whole Land Within the Island Known as Ramesamey/Cowrie Island in the City of Puerto Princesa, Province of Palawan From Timberland to That of Alienable and Disposable Land",
   "orig": "An Act to Reclassify the Whole Land Within the Island Known as Ramesamey/Cowrie Island in the City of Puerto Princesa, Province of Palawan From Timberland to That of Alienable and Disposable Land"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Reclassify the Whole Land Within the Island Known as Ramesamey/Cowrie Island in the City of Puerto Princesa, Province of Palawan From Timberland to That of Alienable and Disposable Land",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

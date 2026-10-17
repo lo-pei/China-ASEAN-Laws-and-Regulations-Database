@@ -1,7 +1,7 @@
 {
  "id": "SG-H3472",
  "title": {
-  "zh": null,
+  "zh": "停车场（重型车辆私人停车场之发牌与管制）规则",
   "en": "Parking Places (Licensing and Control of Private Parking Places for Heavy Vehicles) Rules",
   "orig": null
  },
@@ -273,5 +273,13 @@
     "en": "SECOND SCHEDULE\nRule 10\nConditions\n1. The licensee shall not use or permit to be used any part of his private parking place for any purpose other than for the parking or housing of vehicles.\n2. The licensee shall ensure that his private parking place is structurally sound and fit for the purpose of parking of vehicles.\n3. The licensee shall ensure that his private parking place is at all times regularly maintained in good and clean condition and provided with adequate lighting and ventilation.\n4. The licensee shall not make or cause to be made any alteration or addition to the parking area within his private parking place without the prior consent in writing of the Superintendent.\n5. The licensee shall not permit any vehicle to be parked in any area intended for the circulation of traffic within his private parking place.\n6. The licensee shall not permit any vehicle to be parked in any manner so as to obstruct the free flow of traffic inside or in the vicinity of his private parking place.\n7. [Deleted by S 119/2006]\n8. The licensee shall indicate the parking fees and charges on a signboard in a prominent position at the entrance of his private parking place.\n9. The licensee shall comply with all directions that may be given by the Superintendent from time to time.\n[G.N. Nos. S 142/75; S 218/82; S 146/91; S 521/93; S 284/95; S 407/98; S 201/2005; S 443/2005; S 119/2006]\n10. A licensee must not issue a vehicle parking certificate under rule 5 of the Parking Places (Parking of Heavy Vehicles) Rules (R 4) to a person except where that person has a designated parking space for the parking of that person’s heavy vehicle.\n[S 726/2017 wef 02/01/2018]\n11. A licensee must not, during the validity of a vehicle parking certificate that has been issued to a person, prevent, obstruct or interfere with, or cause the prevention, obstruction or interference of the parking of that person’s heavy vehicle at the designated parking space mentioned in the certificate.\n[S 726/2017 wef 02/01/2018]\n12. A licensee of a private parking place must ensure that no vehicle other than a heavy vehicle is parked in any parking lot in that parking place for the parking of one heavy vehicle, during the period from 12 midnight to 6 a.m. of any day.\n[S 726/2017 wef 02/01/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Parking Places (Licensing and Control of Private Parking Places for Heavy Vehicles) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

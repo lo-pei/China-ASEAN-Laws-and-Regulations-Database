@@ -1,7 +1,7 @@
 {
  "id": "SG-H3201",
  "title": {
-  "zh": null,
+  "zh": "商船（海员工资与账目）条例",
   "en": "Merchant Shipping (Seamen’s Wages and Accounts) Regulations",
   "orig": null
  },
@@ -126,5 +126,13 @@
     "en": "THE SCHEDULE\nRegulation 3\nAccount of wages of seaman\nParticulars to be shown in the account of wages to be delivered to a seaman under section 57(1) and (4) of the Act.\nParticulars of the seaman and of the ship\n1. Name of the seaman and —\n(a)the number of his current discharge book (if any); and\n(b)his reference number in the crew agreement.\n2. Name of the ship and its official number.\nParticulars of employment\n3. Capacity in which the seaman was employed.\n4. Dates when employment commenced and ceased and total period of employment in which wages were earned, showing separately the dates of the beginning and end of any period in which wages were not earned.\nAllotment\n5. Sums payable under each allotment note, date when the first payment was due, the intervals between payments and the total of all such sums.\nGross wages\n6. Total amount of gross wages earned with, shown separately and with sufficient detail to indicate how each amount is calculated, the total amounts in respect of —\n(a)the wages at the rate specified in the crew agreement;\n(b)increase in wages;\n(c)overtime;\n(d)leave pay;\n(e)subsistence (if any); and\n(f)any other earnings during the period of employment.\nDeductions\n7. Deductions authorised by regulation 4, specifying the nature of the deduction and showing the total amount in respect of each deduction.\n8. Fines deducted pursuant to section 83 of the Act.\n9. Deductions authorised by any written law other than the Act, specifying the nature of the deduction and showing the total amount in respect of each deduction.\n10. Total amounts deducted from gross wages.\nNett wages\n11. Total amount of nett wages.\nSpecial retentions\n12. Any retention made under any written law.\nBalance payable\n13. Balance of wages payable at the time when the account is delivered or made out.\n[G.N. No. S 54/96]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Merchant Shipping (Seamen’s Wages and Accounts) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,0 +1,63 @@
+{
+ "id": "BN-S-37-2000-PROCLAMATION-OF-EMERGENCY",
+ "title": {
+  "zh": "紧急状态宣布",
+  "en": "PROCLAMATION OF EMERGENCY",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p33",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 3156,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null,
+  "file": "S-37-2000-PROCLAMATION-OF-EMERGENCY.pdf"
+ },
+ "sourceFile": "S-37-2000-PROCLAMATION-OF-EMERGENCY.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "【源件无文本层，本记录为 OCR 补录】源 PDF 为纯扫描图像（无文本层），已用 Windows OCR 引擎识别；本机仅安装**简体中文识别模型**（无英文语言包），故对英文法条的字符准确率有限（易混：l/I、o/0、m/ın、大小写），并可能残留页边条标题。**本记录仅可用于检索定位，不可作为逐字引用依据；逐字引用请以原始 PDF 为准**。 本件共 2 页，切分 1 条。",
+ "textQuality": "ocr-windows-zh-Hans",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-37-2000-PROCLAMATION-OF-EMERGENCY-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "No« S 37\n\nCONSTITUTION OF BRUNEI DARUSSALAM\n\nPROCLAMATION OF EMERGENCY\n\nHIS MAJ E STY THE SULTAN\n\nAND YANG DI-PERTUAN SEAL\n\nBRUNEI DARUSSALAM ln the name of AIIahf the Compassionate, the MercifuI, PRAISE be to ALLAH the Lord of the Universer and may the benediction and peace of ALLAH be upon Our Leader Muhammad and upon all his Relations and Friends. WHEREAS it is provided under section 83 of the Constitution of Brunei Darussalam, that whenever it app e ars to His Majesty the Sultan and Yang Di-Pertuan that an occasion Of public danger exists whereby the security or economic life of the State, or a ny part thereof, is threatened, whether by war Of external aggression or internal disturbance, actual or threatened, he may by Proclamation declare a state Of emergency either in the whole State or in such part of the State as may be specified in the Proclamation; AND WHEREAS on the 3rd day of RabiulawaI , the Hijriah of the Prophet (on Whom be the benediction and peace of ALLAH) one thousand four hundred and nineteen corresponding to the 27th day Of June, one thousand nine hundred and ninety eight of the Christian era, we did DECLARE AND PROCLAIM a state of emergency in the whole State of Brunei Darussalam, 813\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE AND WHEREAS it is provided under section 83 of the Constitution of Brunei Darussalam that no Proclamation of Emergency shall be in force fo r more than tw 0 years, without prejudice, however, to the issue by His Majesty the Sultan and Yang Di-Pertuan of another such proclamation at or before the end of that period AND WHEREAS it appears to us that an occasion of public danger exists whereby the security of the State is threatened;\n\nN OW, THEREFORE, WE, SULTAN HAJI HASSANAL BOLKIAH MU'IZZADDIN WADDAULAH IBNI AL-MARHUM SULTAN HAJI OMAR IALI SAIFUDDIEN SA'ADUL KHAIRI WADDIEN, SOVEREIGN AND CHIEF OF THE FAMILY ORDER OF TH E C ROWN OF BRUNEIf SuItan and Yang Di-Pertuan of the State and Territory of Brunei Darussalam and all its Dependencies; Do hereby DECLARE AND PROCLAIM as of this d ay a state of emergency in the whole State; AND do hereby REVOKE our said recited ProcIamation of Emergency done on the 3rd d ay of RabiulawaI , the Hijriah of the Prophet ()n Whom be the benediction and peace of ALLAH) one thousand four hundred and nineteen corresponding to the 27th d ay of June, one thousand nine hundred and ninety eight of the Christian era. So be it · Such is the Proclamation of Emergency. M ay ALLAH, to Whom be praise and Whose name be exalted the King of Kings, vouchsafe His grace and m ay the Prophet Muhammad ()n Whom be the benediction and peace of ALLAH) grant His Blessings to this Proclamation. Amen! O Lord of the Universe. Done at the lstana NuruI lman, Brunei Darussalam, this 16th d ay of Safar, the Hijriah of the Prophet ()n Whom be the benediction and peace of ALLAH) one thousand four hundred and twenty-one corresponding to the 20th d ay of May, year tw o thousand of the Christian Era, being the thirty-third year of Our Reign.\n\nBY COMMAND\n\nDATO PADUKA HAJI AWANG HAZAIR BIN HAJI ABDULLAH Permanent Secretaryr Prime Ministerls Officet Brunei Darussalama 814"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "PROCLAMATION OF EMERGENCY",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

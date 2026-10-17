@@ -1,7 +1,7 @@
 {
  "id": "SG-H3292",
  "title": {
-  "zh": null,
+  "zh": "互助组织规则",
   "en": "Mutual Benefit Organisations Rules",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9. Any person who contravenes rule 5, 6 or 7 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500, and where the contravention is a continuing one to a fine not exceeding $50 for every day during which the contravention continues after conviction."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Mutual Benefit Organisations Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

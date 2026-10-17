@@ -1,7 +1,7 @@
 {
  "id": "SG-H100",
  "title": {
-  "zh": null,
+  "zh": "主动出行（专用人行道）命令 2018",
   "en": "Active Mobility (Pedestrian-Only Paths) Order 2018",
   "orig": null
  },
@@ -97,5 +97,13 @@
     "en": "SECOND SCHEDULE\nParagraph 3(b)\n1.The path-connected open space in the Family Bay Area of the Lower Seletar Reservoir Park that is shaded in black colour in the map set out below.\n[S 707/2022 wef 31/08/2022]\n[S 469/2025 wef 01/07/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Pedestrian-Only Paths) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

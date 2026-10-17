@@ -1,7 +1,7 @@
 {
  "id": "PH-H4573",
  "title": {
-  "zh": null,
+  "zh": "关于规范融资公司组织与运营的法案",
   "en": "An Act Regulating the Organization and Operation of Financing Companies.",
   "orig": "An Act Regulating the Organization and Operation of Financing Companies."
  },
@@ -170,5 +170,11 @@
     "en": "Effectivity. This Act shall take effect upon its approval.\nApproved: August 4, 1969"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act Regulating the Organization and Operation of Financing Companies.",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

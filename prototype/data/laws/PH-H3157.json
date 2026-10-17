@@ -1,7 +1,7 @@
 {
  "id": "PH-H3157",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统代表共和国向国际复兴开发银行举借贷款，以资助拉古纳省 Los Baños 菲律宾大学的发展计划并为其他目的法案",
   "en": "An Act Authorizing the President of the Philippines to Incur, on Behalf of the Republic, a Loan from the International Bank for Reconstruction and Development to Finance the Development Program of the University of the Philippines at Los Baños, Laguna, and for Other Purposes",
   "orig": "An Act Authorizing the President of the Philippines to Incur, on Behalf of the Republic, a Loan from the International Bank for Reconstruction and Development to Finance the Development Program of the University of the Philippines at Los Baños, Laguna, and for Other Purposes"
  },
@@ -121,5 +121,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 22, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Incur, on Behalf of the Republic, a Loan from the International Bank for Reconstruction and Development to Finance the Development Program of the University of the Philippines at Los Baños, Laguna, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

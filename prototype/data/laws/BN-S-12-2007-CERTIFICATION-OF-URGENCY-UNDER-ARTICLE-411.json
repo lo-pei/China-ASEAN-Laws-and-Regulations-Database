@@ -1,0 +1,63 @@
+{
+ "id": "BN-S-12-2007-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411",
+ "title": {
+  "zh": "依第 411 条出具的紧急证明",
+  "en": "CERTIFICATION OF URGENCY UNDER ARTICLE 411",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p33",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 588,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null,
+  "file": "S-12-2007-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411.pdf"
+ },
+ "sourceFile": "S-12-2007-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "【源件无文本层，本记录为 OCR 补录】源 PDF 为纯扫描图像（无文本层），已用 Windows OCR 引擎识别；本机仅安装**简体中文识别模型**（无英文语言包），故对英文法条的字符准确率有限（易混：l/I、o/0、m/ın、大小写），并可能残留页边条标题。**本记录仅可用于检索定位，不可作为逐字引用依据；逐字引用请以原始 PDF 为准**。 本件共 1 页，切分 1 条。",
+ "textQuality": "ocr-windows-zh-Hans",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-12-2007-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 12\n\nCONSTITUTION OF BRUNEI DARUSSALAM\n\nCERTIFICATE OF URGENCY UNDER ARTICLE 41 ln exercise of the power conferred by ArticIe 4 刂 1 ) of the Constitution of Brunei Darussalam, His Majesty the SuItan and Yang Di-Pertuan hereby certifies that there is a case of urgency in respect of the Supply ( 2007 / 2008 ) BiIl, 2007 · Dated this 13th. day of Safar, 1428 Hijriah corresponding to the 3rd. d ay of March, 2007 at O ur lstana Nurul lman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM 188"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CERTIFICATION OF URGENCY UNDER ARTICLE 411",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9726",
  "title": {
-  "zh": null,
+  "zh": "将创新作为国家发展政策的重要组成部分以推动包容性发展，促进微型、小型与中型企业的成长与国家竞争力，为此拨款并为其他目的法案",
   "en": "An Act Adopting Innovation as Vital Component of the Country's Development Policies to Drive Inclusive Development, Promote the Growth and National Competitiveness of Micro, Small and Medium Enterprises, Appropriating Funds Therefor, and for Other Purposes",
   "orig": "An Act Adopting Innovation as Vital Component of the Country's Development Policies to Drive Inclusive Development, Promote the Growth and National Competitiveness of Micro, Small and Medium Enterprises, Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -360,5 +360,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Adopting Innovation as Vital Component of the Country's Development Policies to Drive Inclusive Development, Promote the Growth and National Competitiveness of Micro, Small and Medium Enterprises, Appropriating Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

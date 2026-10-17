@@ -1,7 +1,7 @@
 {
  "id": "SG-H2791",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（第 72F 与 250F 条规定的标准与情形）命令 2021",
   "en": "Insolvency, Restructuring and Dissolution (Prescribed Criteria and Circumstances under Sections 72F and 250F) Order 2021",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) For the purposes of section 250F(3)(m) of the Act, the circumstance mentioned in sub‑paragraph (2) is also a circumstance that makes a company unsuitable for entry into the simplified winding up programme.\n[S 26/2026 wef 29/01/2026]\n(2) The circumstance is that a declaration or an injunction has been made or granted by the District Court or the General Division of the High Court against the company under section 9(1)(a) or (b) of the Consumer Protection (Fair Trading) Act.\n[S 26/2026 wef 29/01/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insolvency, Restructuring and Dissolution (Prescribed Criteria and Circumstances under Sections 72F and 250F) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

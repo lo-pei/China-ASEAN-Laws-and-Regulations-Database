@@ -1,7 +1,7 @@
 {
  "id": "SG-H428",
  "title": {
-  "zh": null,
+  "zh": "终身护保与长期护理（失能评估费用）条例 2020",
   "en": "CareShield Life and Long-Term Care (Disability Assessment Fees) Regulations 2020",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nFees\nFirst column\nSecond column\nPremises\nMaximum amount of fees\n(inclusive of GST, if applicable)\n1.Assessor’s place of practice\n$100\n2.Any premises other than the assessor’s place of practice\n$250"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "CareShield Life and Long-Term Care (Disability Assessment Fees) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

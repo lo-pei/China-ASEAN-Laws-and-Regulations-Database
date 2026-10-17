@@ -1,7 +1,7 @@
 {
  "id": "SG-H2247",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发特许权使用费及其他付款豁免）公告",
   "en": "Income Tax (Exemption of Royalties and Other Payments for Economic and Technological Development) Notification",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The withholding tax on the royalties payable by the Public Utilities Board to Power Technologies Inc, USA, under the Contract No. PUB PE 39030-000 shall be at a reduced rate of 10%."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Royalties and Other Payments for Economic and Technological Development) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3321",
  "title": {
-  "zh": null,
+  "zh": "国民登记（照片）条例 2017",
   "en": "National Registration (Photographs) Regulations 2017",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRegulation 2(e)\nSpecifications of applicant’s photograph\nStandard and quality\n1.—(1) The photograph must be in colour.\n(2) The photograph must have a plain white background or, in the case where the applicant’s hair, hat or head covering is white, a plain light grey background.\n(3) The photograph must be in sharp focus and clear with no ink marks or creases.\n(4) If submitted in hard copy, the photograph must be printed on high quality paper at high resolution with a matt or semi‑matt finish.\n(5) The photograph must be taken with uniform lighting and must not show any flash reflection or shadow on the applicant’s face or any uneven bright spots or red eyes.\nDimensions\n2.—(1) The photograph must be 35 millimetres wide by 45 millimetres long when measured without borders.\n(2) The applicant’s face must take up at least 70% of the photograph and be between 25 millimetres and 35 millimetres when measured from the chin to the crown of the applicant’s head.\nStyle\n3.—(1) The photograph must show the applicant looking directly at the camera, with eyes open and clearly visible.\n(2) The photograph must clearly show both edges of the applicant’s face.\n(3) The photograph must not show the applicant looking over any shoulder (portrait style) and the applicant’s head must not be tilted.\n(4) No part of the applicant’s face is to be obscured.\n(5) The top of the applicant’s shoulders must be visible in the photograph.\n(6) The photograph must not show the applicant wearing any sunglasses.\n(7) If the applicant wears any spectacles, the photograph must show the applicant’s eyes clearly with no reflection off the spectacles.\n(8) The photograph must not show the applicant wearing any hat or other head covering unless —\n(a)it is a hat or head covering that the applicant habitually wears for religious reasons or due to custom; and\n(b)the photograph provides a full frontal view of the applicant’s head and shoulders, showing the applicant’s facial features in their entirety.\n(9) The photograph must show the applicant alone with no chair back, objects or other individuals visible."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "National Registration (Photographs) Regulations 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

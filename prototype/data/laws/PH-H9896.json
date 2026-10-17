@@ -1,7 +1,7 @@
 {
  "id": "PH-H9896",
  "title": {
-  "zh": null,
+  "zh": "在全国所有卫生部医院及菲律宾总医院设立 Malasakit 中心、为此提供资金并为其他目的法案",
   "en": "An Act Establishing Malasakit Centers in all Department of Health (DOH) Hospitals in the Country and in the Philippine General Hospital (PGH), Providing Funds Therefor and for Other Purposes",
   "orig": "An Act Establishing Malasakit Centers in all Department of Health (DOH) Hospitals in the Country and in the Philippine General Hospital (PGH), Providing Funds Therefor and for Other Purposes"
  },
@@ -210,5 +210,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing Malasakit Centers in all Department of Health (DOH) Hospitals in the Country and in the Philippine General Hospital (PGH), Providing Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

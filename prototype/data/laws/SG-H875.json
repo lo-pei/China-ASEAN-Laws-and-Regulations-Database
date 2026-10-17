@@ -1,7 +1,7 @@
 {
  "id": "SG-H875",
  "title": {
-  "zh": null,
+  "zh": "贪污、贩毒及其他严重犯罪（实体货币与无记名可转让票据跨境流动）条例 2007",
   "en": "Corruption, Drug Trafficking and Other Serious Crimes (Cross Border Movements of Physical Currency and Bearer Negotiable Instruments) Regulations 2007",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "5. A report under section 62 of the Act shall be in Form NP 728.\n[S 336/2024 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Corruption, Drug Trafficking and Other Serious Crimes (Cross Border Movements of Physical Currency and Bearer Negotiable Instruments) Regulations 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7836",
  "title": {
-  "zh": null,
+  "zh": "为卡洛奥坎市增设4个都市审判法院分庭，分设于卡洛奥坎市北区与卡洛奥坎市区，为此修订Batas Pambansa Blg. 129（即1980年司法重组法，经修正）第27条并拨款",
   "en": "An Act Creating Four Additional Metropolitan Trial Court Branches for Caloocan City, with Stations at Caloocan City North and Caloocan City Proper, Amending for the purpose Section 27 of Batas Pambansa Blg. 129, Otherwise known as the Judiciary Reorganization Act of 1980, as amended, and appropriating funds therefor",
   "orig": "An Act Creating Four Additional Metropolitan Trial Court Branches for Caloocan City, with Stations at Caloocan City North and Caloocan City Proper, Amending for the purpose Section 27 of Batas Pambansa Blg. 129, Otherwise known as the Judiciary Reorganization Act of 1980, as amended, and appropriating funds therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating Four Additional Metropolitan Trial Court Branches for Caloocan City, with Stations at Caloocan City North and Caloocan City Proper, Amending for the purpose Section 27 of Batas Pambansa Blg. 129, Otherwise known as the Judiciary Reorganization Act of 1980, as amended, and appropriating funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

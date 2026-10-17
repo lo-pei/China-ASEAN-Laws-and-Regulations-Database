@@ -1,7 +1,7 @@
 {
  "id": "PH-H216",
  "title": {
-  "zh": null,
+  "zh": "修订《修订行政法典》第1968条，将汇票可签发最高金额由美元改为菲律宾比索计值的法案",
   "en": "An Act to Amend Section Nineteen Hundred Sixty-Eight of the Revised Administrative Code so as to Change in Terms of Pesos, Philippine Currency, Instead of Dollars, United States Currency, the Maximum Amount for Which a Money Order May be Issued",
   "orig": "An Act to Amend Section Nineteen Hundred Sixty-Eight of the Revised Administrative Code so as to Change in Terms of Pesos, Philippine Currency, Instead of Dollars, United States Currency, the Maximum Amount for Which a Money Order May be Issued"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 7, 1947"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Nineteen Hundred Sixty-Eight of the Revised Administrative Code so as to Change in Terms of Pesos, Philippine Currency, Instead of Dollars, United States Currency, the Maximum Amount for Which a Money Order May be Issued",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

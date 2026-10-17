@@ -1,7 +1,7 @@
 {
  "id": "SG-H701",
  "title": {
-  "zh": null,
+  "zh": "1996 年 10 月 29 日发行的硬币",
   "en": "Coins to Be Issued on 29th October 1996",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE WORLD TRADE ORGANIZATION (WTO) INAUGURAL MINISTERIAL CONFERENCE $5 COMMEMORATIVE COINS\nDenomination\nof Coin.\nMetal.\nStandard\nWeight.\nStandard\nDiameter.\nStandard\nThickness.\nShape.\nEdge.\nDesign of Obverse.\nDesign of Reverse.\n5 Dollars\n75% Copper 25% Nickel\n20.00 g ± 0.40 g\n38.70 mm ± 0.125 mm\n2.45 mm ± 0.152 mm\nRound\nMilled and bearing the words “BOARD OF COMMISSIONERS OF CURRENCY, SINGAPORE” and lion symbol.\nThe Singapore Arms in the centre with the year-date “1996” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin.\nStylised version of a lion head with the 6 arcs of the World Trade Organization Inaugural Ministerial Conference logo below it and the denomination “$5” above the logo. The dates of the conference “9-13 December 1996” appear on the left of the logo. The inscription “WORLD TRADE ORGANIZATION FIRST MINISTERIAL CONFERENCE” is around the circumference of the coin.\n5 Dollars\n92.5% Silver 7.5% Copper\n20.00 g ± 0.20 g\n38.70 mm ± 0.15 mm\n2.45 mm ± 0.20 mm\nRound\nThe Singapore Arms in the centre with the year-date “1996” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’clock."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Coins to Be Issued on 29th October 1996",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

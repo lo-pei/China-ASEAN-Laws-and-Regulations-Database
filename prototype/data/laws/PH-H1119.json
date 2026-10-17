@@ -1,7 +1,7 @@
 {
  "id": "PH-H1119",
  "title": {
-  "zh": null,
+  "zh": "修订第 821 号共和国法第 5、9、12、14、17、18、19 与 31 条的法案",
   "en": "An Act to Amend Sections Five, Nine, Twelve, Fourteen, Seventeen, Eighteen, Nineteen and Thirty-One of Republic Act Numbered Eight Hundred and Twenty-One",
   "orig": "An Act to Amend Sections Five, Nine, Twelve, Fourteen, Seventeen, Eighteen, Nineteen and Thirty-One of Republic Act Numbered Eight Hundred and Twenty-One"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect immediately after its approval.\nApproved: June 15, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Five, Nine, Twelve, Fourteen, Seventeen, Eighteen, Nineteen and Thirty-One of Republic Act Numbered Eight Hundred and Twenty-One",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

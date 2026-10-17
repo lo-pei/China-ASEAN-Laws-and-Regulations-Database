@@ -1,7 +1,7 @@
 {
  "id": "PH-H6526",
  "title": {
-  "zh": null,
+  "zh": "图书出版业发展法",
   "en": "Book Publishing Industry Development Act.",
   "orig": "An Act Providing for the Development of the Book Publishing Industry Through the Formulation and Implementation of a National Book Policy and a National Book Development Plan \"Book Publishing Industry Development Act.\""
  },
@@ -240,5 +240,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Book Publishing Industry Development Act.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H503",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（家属保障保险计划——未受保会员）公告 2019",
   "en": "Central Provident Fund (Dependants’ Protection Insurance Scheme — Uninsured Member) Notification 2019",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "2A. For the purpose of section 42(2)(d) of the Act, a member of the Fund is not insured under the Scheme if the member is incapacitated or suffering from serious illness before the date on which any contribution has been paid into the Fund for the member."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Dependants’ Protection Insurance Scheme — Uninsured Member) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

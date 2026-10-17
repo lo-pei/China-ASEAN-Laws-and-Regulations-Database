@@ -1,7 +1,7 @@
 {
  "id": "PH-H2812",
  "title": {
-  "zh": null,
+  "zh": "规定依第685号共和国法在西内格罗斯省Binalbagan市镇设立的菲律宾渔业技术学院分院，改设于Himamaylan与Binalbagan市镇边界的Sirena小区，并为此拨款",
   "en": "An Act Providing that the Branch of the Philippine Institute of Fisheries Technology Authorized Under Republic Act Numbered Six Hundred Eighty-Five to be Established in the Municipality of Binalbagan, Province of Negros Occidental, Shall Instead be Established in the Sitio of Sirena at a Place Touching the Boundary Line Between the Municipality of Himamaylan and the Municipality of Binalbagan, Province of Negros Occidental, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Providing that the Branch of the Philippine Institute of Fisheries Technology Authorized Under Republic Act Numbered Six Hundred Eighty-Five to be Established in the Municipality of Binalbagan, Province of Negros Occidental, Shall Instead be Established in the Sitio of Sirena at a Place Touching the Boundary Line Between the Municipality of Himamaylan and the Municipality of Binalbagan, Province of Negros Occidental, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing that the Branch of the Philippine Institute of Fisheries Technology Authorized Under Republic Act Numbered Six Hundred Eighty-Five to be Established in the Municipality of Binalbagan, Province of Negros Occidental, Shall Instead be Established in the Sitio of Sirena at a Place Touching the Boundary Line Between the Municipality of Himamaylan and the Municipality of Binalbagan, Province of Negros Occidental, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

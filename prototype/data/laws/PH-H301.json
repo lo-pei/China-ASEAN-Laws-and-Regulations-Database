@@ -1,7 +1,7 @@
 {
  "id": "PH-H301",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统在两年内从预备役中任命高于少尉军衔的军官进入菲律宾武装部队正规军的法案",
   "en": "An Act Authorizing the President of the Philippines Within a Period of Two Years to Appoint Officers from the Reserve Force into the Regular Force of the Armed Forces of the Philippines Above the Grade of Second Lieutenant",
   "orig": "An Act Authorizing the President of the Philippines Within a Period of Two Years to Appoint Officers from the Reserve Force into the Regular Force of the Armed Forces of the Philippines Above the Grade of Second Lieutenant"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 28, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines Within a Period of Two Years to Appoint Officers from the Reserve Force into the Regular Force of the Armed Forces of the Philippines Above the Grade of Second Lieutenant",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2119",
  "title": {
-  "zh": null,
+  "zh": "所得税（政府现金补助豁免——第 13ZA（1）（h）条）规则 2021",
   "en": "Income Tax (Exemption of Government Cash Grant — Section 13ZA(1)(h)) Rules 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 13ZA(1)(h) of the Act, any cash grant given on behalf of the Government to the owner of any immovable property, under the public scheme for the giving of cash grants to mitigate rental costs that is part of the Budget Statement of the Government dated 26 May 2020, is exempt from tax."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Government Cash Grant — Section 13ZA(1)(h)) Rules 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

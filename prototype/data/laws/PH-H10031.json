@@ -1,7 +1,7 @@
 {
  "id": "PH-H10031",
  "title": {
-  "zh": null,
+  "zh": "授予 Manila Water Company, Inc. 在大马尼拉东区服务区与黎刹省设立、运营和维护供水与污水处理系统的特许经营权法案",
   "en": "An Act Granting Manila Water Company, Inc. a Franchise to Establish, Operate, and Maintain the Waterworks and Sewerage System in the East Zone Service Area of Metro Manila and Province of Rizal",
   "orig": "An Act Granting Manila Water Company, Inc. a Franchise to Establish, Operate, and Maintain the Waterworks and Sewerage System in the East Zone Service Area of Metro Manila and Province of Rizal"
  },
@@ -220,5 +220,13 @@
     "en": "Sale, Lease, Transfer, Grant of Usufruct, Or Assignment of Franchise. – The grantee shall not sell, lease, transfer, grant the usufruct of, nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other corporation or entity, nor transfer the controlling interest of the grantee, whether simultaneously or contemporaneously, to any person, firm, company, corporation, or entity without the prior approval of the Congress of the Philippines and compliance with legal requirements stipulated in the other statutes: Provided, That the foregoing limitations shall not apply to any: (1) transfer or issuance of shares of stock in the implementation of requirements for the dispersal of the grantee’s ownership pursuant to Section 19 of this Act; (2) transfer or sale of shares of stock to an investor or investors; (3) issuance of shares of stock to any investor out of the unissued authorized capital stock of the grantee or pursuant to or in connection with any increase in the grantee’s authorized capital stock which shall result in the dilution of the stockholdings of the grantee’s then existing stockholders; (4) combination thereof where such transfer, sale, or issuance is effected in order to enable the grantee to raise the necessary capital or financing for the provision of any of the services authorized by this Act or carry out any of the purposes for which the grantee has been incorporated or organized; (5) sale, transfer, or assignment by the stockholders of the grantee in favor of a holding company, the controlling stockholders of the grantee: Provided, further, That any such transfer, sale, or issuance in accordance with any applicable constitutional limitation.\nThe grantee shall inform Congress, through the Office of the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Manila Water Company, Inc. a Franchise to Establish, Operate, and Maintain the Waterworks and Sewerage System in the East Zone Service Area of Metro Manila and Province of Rizal",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3388",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第 2046 号共和国法（题为《设立名为 Cavite 通信与电力发展管理局的公营公司的法案》）的法案",
   "en": "An Act to Further Amend Republic Act Numbered Twenty Hundred and Forty-Six, Entitled \"An Act Creating a Public Corporation to be Known as the Communications and Electricity Development Authority, Cavite\"",
   "orig": "An Act to Further Amend Republic Act Numbered Twenty Hundred and Forty-Six, Entitled \"An Act Creating a Public Corporation to be Known as the Communications and Electricity Development Authority, Cavite\""
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 4, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Republic Act Numbered Twenty Hundred and Forty-Six, Entitled \"An Act Creating a Public Corporation to be Known as the Communications and Electricity Development Authority, Cavite\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

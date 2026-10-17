@@ -1,7 +1,7 @@
 {
  "id": "SG-H3003",
  "title": {
-  "zh": null,
+  "zh": "法律职业（最高法院3名法官合议庭程序）规则 2022",
   "en": "Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022",
   "orig": null
  },
@@ -152,5 +152,13 @@
     "en": "THE SCHEDULE\nRules 4(9)(b), 5(6)(b), 6(6)(b)\nand 7(7)(b)\nFees\nThe following fees must be paid at the time of filing or sealing (as the case may be) of the following specified documents with the electronic filing service provider or at any such other time or manner that the Registrar of the Supreme Court may determine:\nFirst column\nSecond column\nThird column\nItem\nFee payable\nDocument to be stamped and remarks\n1.Written submissions for applications to the Court — fees under rules 4(9), 5(6), 6(6) and 7(7) for pages in excess of page limit\n(a)first 10 pages or less exceeding the limit: $20 per page\n(b)every subsequent 10 pages or less: N + $20 per page (where “N” is the fee payable per page for the previous 10 pages), subject to a maximum of $200 per page\nThe filed copy"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Proceedings before Court of 3 Supreme Court Judges) Rules 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1623",
  "title": {
-  "zh": null,
+  "zh": "商品与服务税（住宅用途建筑、组屋与租住单位）命令 2010",
   "en": "Goods and Services Tax (Buildings, Flats and Tenements for Residential Purposes) Order 2010",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. For the purposes of paragraph 13(1) of the Third Schedule, and paragraph 2(c) of Part 1 and paragraph 3(3)(c) of Part 3 of the Fourth Schedule, to the Act, buildings, flats and tenements used or to be used principally for residential purposes do not include buildings, flats and tenements approved by the competent authority under the Planning Act 1998 for use as any of the following:\n(a)boarding houses or guest houses;\n(b)chalets;\n(c)convalescent homes, nursing homes or hospices;\n(d)hospitals;\n(e)hotels;\n(f)sports and recreational clubs with accommodation facilities;\n(g)welfare homes for purposes of rehabilitation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Goods and Services Tax (Buildings, Flats and Tenements for Residential Purposes) Order 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

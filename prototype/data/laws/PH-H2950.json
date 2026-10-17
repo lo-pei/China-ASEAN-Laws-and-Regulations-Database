@@ -1,7 +1,7 @@
 {
  "id": "PH-H2950",
  "title": {
-  "zh": null,
+  "zh": "修订第1135号共和国法（即《设立Philippine Tobacco Administration、界定其目标、权力与职能并为其他目的》，经第2233号共和国法修正）第1条的法案",
   "en": "An Act Amending Section One of Republic Act Numbered Eleven Hundred Thirty-Five, Entitled “An Act Establishing the Philippine Tobacco Administration, Defining its Objectives, Powers and Functions, and for Other Purposes,” as Amended by Republic Act Numbered Twenty-Two Hundred Thirty-Three",
   "orig": "An Act Amending Section One of Republic Act Numbered Eleven Hundred Thirty-Five, Entitled “An Act Establishing the Philippine Tobacco Administration, Defining its Objectives, Powers and Functions, and for Other Purposes,” as Amended by Republic Act Numbered Twenty-Two Hundred Thirty-Three"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 16, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section One of Republic Act Numbered Eleven Hundred Thirty-Five, Entitled “An Act Establishing the Philippine Tobacco Administration, Defining its Objectives, Powers and Functions, and for Other Purposes,” as Amended by Republic Act Numbered Twenty-Two Hundred Thirty-Three",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

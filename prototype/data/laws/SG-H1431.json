@@ -1,7 +1,7 @@
 {
  "id": "SG-H1431",
  "title": {
-  "zh": null,
+  "zh": "外汇管制（法继续施行）公告 2023",
   "en": "Exchange Control (Continuance of Act) Notification 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The period during which the Act remains in force is extended to 31 December 2033."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Exchange Control (Continuance of Act) Notification 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

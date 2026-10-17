@@ -1,7 +1,7 @@
 {
  "id": "SG-H2959",
  "title": {
-  "zh": null,
+  "zh": "土地业权（分层）（第 6 条不适用）（合并）公告",
   "en": "Land Titles (Strata) (Non-Application of Section 6) (Consolidation) Notification",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister hereby specifies that the provisions of section 6 of the Act shall not apply to the following buildings:\n(a)Tanjong Pagar Complex (Lot 1074C TS 23 comprised in Certificate of Title Vol. 611 Folio 96) controlled, managed and administered by PSA Corporation Limited;\n[S 187/2004 — 7.4.2004]\n(b)PSA Building (Lot 2697T Mukim 1 comprised in Certificate of Title Vol. 605 Folio 151) controlled, managed and administered by Heliconia Realty Pte Ltd.\n[S 188/2004 — 12.4.2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Land Titles (Strata) (Non-Application of Section 6) (Consolidation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

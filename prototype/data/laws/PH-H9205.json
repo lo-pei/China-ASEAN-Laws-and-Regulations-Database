@@ -1,7 +1,7 @@
 {
  "id": "PH-H9205",
  "title": {
-  "zh": null,
+  "zh": "使公立学校教师担任选举服务不再具强制性、授权任命其他合格公民并提供报酬与其他福利的法案",
   "en": "An Act Rendering Election Service Non-Compulsory for Public School Teachers, Authorizing the Appointment of Other Qualified Citizens, Providing for Compensation and Other Benefits",
   "orig": "An Act Rendering Election Service Non-Compulsory for Public School Teachers, Authorizing the Appointment of Other Qualified Citizens, Providing for Compensation and Other Benefits"
  },
@@ -211,5 +211,13 @@
     "en": "Effectivity Clause. – This Act shall take effect immediately after its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Rendering Election Service Non-Compulsory for Public School Teachers, Authorizing the Appointment of Other Qualified Citizens, Providing for Compensation and Other Benefits",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

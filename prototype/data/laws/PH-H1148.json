@@ -1,7 +1,7 @@
 {
  "id": "PH-H1148",
  "title": {
-  "zh": null,
+  "zh": "将北甘马粦省圣维森特市镇北伊拉亚村的名称变更为该市镇的圣何塞村的法案",
   "en": "An Act Changing the Name of Barrio Iraya Norte in the Municipality of San Vicente, Province of Camarines Norte, to San Jose of the Said Municipality",
   "orig": "An Act Changing the Name of Barrio Iraya Norte in the Municipality of San Vicente, Province of Camarines Norte, to San Jose of the Said Municipality"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Barrio Iraya Norte in the Municipality of San Vicente, Province of Camarines Norte, to San Jose of the Said Municipality",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

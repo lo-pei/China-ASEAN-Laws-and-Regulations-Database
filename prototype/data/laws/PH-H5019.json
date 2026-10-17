@@ -1,7 +1,7 @@
 {
  "id": "PH-H5019",
  "title": {
-  "zh": null,
+  "zh": "将马尼拉市划分为四个公路工程区的法案",
   "en": "An Act Dividing the City of Manila Into Four Highway Engineering Districts.",
   "orig": "An Act Dividing the City of Manila Into Four Highway Engineering Districts."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without the Executive approval, June 22, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Dividing the City of Manila Into Four Highway Engineering Districts.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

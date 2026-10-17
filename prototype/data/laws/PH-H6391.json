@@ -1,7 +1,7 @@
 {
  "id": "PH-H6391",
  "title": {
-  "zh": null,
+  "zh": "修订第 7336 号共和国法（将三描礼士省 Iba 市镇 Ramon Magsaysay 工艺与贸易纪念学校改设为理工学院）并为其拨款的法案",
   "en": "An Act Amending Certain Sections of Republic Act Numbered Seventy-three Hundred and Thirty-six, Entitled \"An Act Converting the Ramon Magsaysay Memorial School of Arts and Trades in the Municipality of Iba, Province of Zambales, Into a Polytechnic College to Be Known as the Ramon Magsaysay Polytechnic College,\" and Appropriating Funds Therefor",
   "orig": "An Act Amending Certain Sections of Republic Act Numbered Seventy-three Hundred and Thirty-six, Entitled \"An Act Converting the Ramon Magsaysay Memorial School of Arts and Trades in the Municipality of Iba, Province of Zambales, Into a Polytechnic College to Be Known as the Ramon Magsaysay Polytechnic College,\" and Appropriating Funds Therefor"
  },
@@ -72,14 +72,15 @@
    }
   },
   {
-   "id": "PH-H6391-A3_2",
+   "id": "PH-H6391-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "Section 4 of the same Act is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6391-A4",
@@ -92,14 +93,15 @@
    }
   },
   {
-   "id": "PH-H6391-A4_2",
+   "id": "PH-H6391-A4-d2",
    "no": 4,
    "noLabel": {
     "en": "Section 4."
    },
    "text": {
     "en": "Section 5 of the same Act is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6391-A5",
@@ -112,14 +114,15 @@
    }
   },
   {
-   "id": "PH-H6391-A5_2",
+   "id": "PH-H6391-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Section 5."
    },
    "text": {
     "en": "Section 8 of the same Act is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6391-A8",
@@ -141,5 +144,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Sections of Republic Act Numbered Seventy-three Hundred and Thirty-six, Entitled \"An Act Converting the Ramon Magsaysay Memorial School of Arts and Trades in the Municipality of Iba, Province of Zambales, Into a Polytechnic College to Be Known as the Ramon Magsaysay Polytechnic College,\" and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

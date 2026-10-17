@@ -1,7 +1,7 @@
 {
  "id": "SG-H2833",
  "title": {
-  "zh": null,
+  "zh": "内部安全（平民伤害赔偿）条例",
   "en": "Internal Security (Civilian Injuries Compensation) Regulations",
   "orig": null
  },
@@ -259,5 +259,13 @@
     "en": "17. Any person who refuses or delays to give evidence or to produce any documents before the compensation authority shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Internal Security (Civilian Injuries Compensation) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

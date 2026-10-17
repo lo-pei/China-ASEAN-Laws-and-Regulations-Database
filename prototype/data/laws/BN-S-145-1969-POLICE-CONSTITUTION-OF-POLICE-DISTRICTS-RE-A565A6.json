@@ -1,7 +1,7 @@
 {
  "id": "BN-S-145-1969-POLICE-CONSTITUTION-OF-POLICE-DISTRICTS-RE-A565A6",
  "title": {
-  "zh": null,
+  "zh": "警察警区设立条例 1959",
   "en": "POLICE CONSTITUTION OF POLICE DISTRICTS REGULATIONS 1959",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "No. S 145 THE POLICE FORCE ENACTMENT (Cap. 50) The Police (Constitution of Police Districts) Regulation, 1969 In exercise of the powers conferred upon him Cap. 50. by section 62 of the Police Force Enactment, His Highness the Sultan in Council hereby makes the following Regulation. Title. 1. This Regulation may be cited as the Police (Constitution of Police Districts) Regulations, 1969. Police 2. The following areas are hereby constituted as Districts. Police Districts, namely, ( 1) The Brunei Police District covering the areas of the Administrative Districts of Brunei, Muara, Tutong and Temburong.\n\n(2) The Belait Police District covering the areas of the Administrative District of Belait. Made this 18th day of June, 1969.\n\nJUDIN ASAR for Clerk of Councils, Brunei. [Ref. : J.M.M./33 /64 ] Dated: 21st June, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "POLICE CONSTITUTION OF POLICE DISTRICTS REGULATIONS 1959",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

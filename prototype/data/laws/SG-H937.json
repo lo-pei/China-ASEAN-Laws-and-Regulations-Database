@@ -1,7 +1,7 @@
 {
  "id": "SG-H937",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典（指定执法机构）公告 2011",
   "en": "Criminal Procedure Code (Prescribed Law Enforcement Agency) Notification 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Ministry of Health (Health Regulation Group) and the Health Sciences Authority (Vigilance, Compliance and Enforcement Cluster, Health Products Regulation Group) are prescribed as law enforcement agencies for the purposes of section 112(1)(c) of the Code.\n[S 175/2020 wef 19/03/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure Code (Prescribed Law Enforcement Agency) Notification 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

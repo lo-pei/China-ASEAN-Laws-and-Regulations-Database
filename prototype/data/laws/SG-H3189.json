@@ -1,7 +1,7 @@
 {
  "id": "SG-H3189",
  "title": {
-  "zh": null,
+  "zh": "商船（医药储备）条例",
   "en": "Merchant Shipping (Medical Stores) Regulations",
   "orig": null
  },
@@ -312,5 +312,13 @@
     "en": "FOURTH SCHEDULE\nRegulations 13 and 14(3)(f)\nPart I\nSpecification of Disinfectants\n1. General description — The disinfectant shall be a white fluid and shall be a finely dispersed, stabilised emulsion containing coal-tar acids or other phenolic bodies, with or without hydrocarbons.\n2. Germicidal value and the method of its determination — The germicidal value shall not be less than 1.7 when determined by the modified Chick-Martin method as laid down by the British Standards Specification No. 808, confirmed by PD 2627, 1960.\n3. Stability before dilution — On standing for 3 months at ordinary temperatures (5°C to 30°C) the disinfectant fluid shall not precipitate nor show separation of more than traces of oil. A creamed fluid which can be rendered homogenous by gentle mixing may be carried.\n4. Stability after dilution — The disinfectant fluid shall be miscible with distilled water and artificial sea-water (27 grammes of sodium chloride and 5 grammes of crystalline magnesium sulphate (MgSO471120) dissolved in and made up to 1,000 ml with distilled water and filtered before use) in proportions of 1%, 2%, 3%, 4% and 5% to give a stable emulsion which shall not break nor show more than traces of separation of either top or bottom oil, when maintained at 18°C — 22°C for 6 hours, the sample and diluent having each been brought to a temperature within that range before mixing by pouring the sample into the diluent from a cylinder.\n5. Odour and corrosive action — The fluid shall be free from objectionable smell and when used as directed shall have no more corrosive action on metals than that occasioned by the water employed as a diluent.\nPart II\nSpecification of Insecticides and Means of Application\n6. Insecticide formulations:\n(a)When used in accordance with instructions for use which shall be specified on the label affixed to the container of an insecticide spray solution or insecticide powder —\n(i)shall be effective for the purpose specified in those instructions; and\n(ii)shall not be harmful to human being;\n(b)shall be suitable for use in crew and passenger accomodation and in spaces used for the preparation of food; and\n(c)shall be free from offensive odour and, so far as possible, shall be non-staining.\n7. Insecticide formulations shall be —\n(a)in the form of a spray solution not having a flash point lower that 48.9°C (120°F) when tested by the Abel method and containing an effective concentration of insecticide, when applied as a space spray or as a residual spray in accordance with instructions referred to in paragraph 6(a) by either —\n(i)a hand-operated, continuous-action sprayer fitted with a nozzle capable of producing a fine mist without coarse droplets; or\n(ii)a pre-packed press-button pressure canister; and\n(b)in the form of a powder packed in a dredger and effective when applied to the body or clothing of an infected person in accordance with the instructions referred to in paragraph 6(a).\n[G.N. No. S 56/96]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Medical Stores) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

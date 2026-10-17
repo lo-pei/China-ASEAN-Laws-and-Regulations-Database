@@ -1,7 +1,7 @@
 {
  "id": "PH-H10611",
  "title": {
-  "zh": null,
+  "zh": "宣布吉马拉斯省 Nueva Valencia 市镇一块土地为自然公园类别的保护区，称为 Taklong 与 Tandog 群岛自然公园，并为此拨款的法案",
   "en": "An Act Declaring A Parcel of Land Located In The Municipality of Nueva Valencia In The Province of Guimaras, A Protected Area With The Category of Natural Park Under The National Integrated Protected Areas System, To Be Referred To As The Taklong and Tandog Group of Islands Natural Park, Providing For Its Management, and Appropriating Funds Therefor",
   "orig": "An Act Declaring A Parcel of Land Located In The Municipality of Nueva Valencia In The Province of Guimaras, A Protected Area With The Category of Natural Park Under The National Integrated Protected Areas System, To Be Referred To As The Taklong and Tandog Group of Islands Natural Park, Providing For Its Management, and Appropriating Funds Therefor"
  },
@@ -200,5 +200,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring A Parcel of Land Located In The Municipality of Nueva Valencia In The Province of Guimaras, A Protected Area With The Category of Natural Park Under The National Integrated Protected Areas System, To Be Referred To As The Taklong and Tandog Group of Islands Natural Park, Providing For Its Management, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

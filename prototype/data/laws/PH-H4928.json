@@ -1,7 +1,7 @@
 {
  "id": "PH-H4928",
  "title": {
-  "zh": null,
+  "zh": "修订第 5309 号共和国法（关于 Moreno Y Llorca 的电灯、制冰与冷藏特许权）的标题及第 1 条与第 5 条的法案",
   "en": "An Act Amending the Title and Sections One and Five of Republic Act Numbered Fifty-Three Hundred Nine (Re Electric Light, Ice and Cold Storage Franchise of Moreno Y Llorca).",
   "orig": "An Act Amending the Title and Sections One and Five of Republic Act Numbered Fifty-Three Hundred Nine (Re Electric Light, Ice and Cold Storage Franchise of Moreno Y Llorca)."
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H4928-A1_2",
+   "id": "PH-H4928-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Subject to the terms and conditions established in Act Numbered Thirty-six hundred thirty-six, as mended by Commonwealth Act Numbered One hundred thirty-two, and to the provisions of the Constitution, there granted to Moreno y Llorca Hermanos, Inc., for a period of twenty-five years from the approval of this Act, the right, privilege and authority to install, operate and maintain electric light, heat and power system whether from its own generating units or potential hydraulic power from undeveloped water resources of the island, and ice plant and cold storage for the purpose of generating, distributing of electric light, heat and/or power and manufacturing ice for sale and for supplying cold storage in the Island Tablas, Province of Romblon.\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4928-A5",
@@ -101,14 +102,23 @@
    }
   },
   {
-   "id": "PH-H4928-A5_2",
+   "id": "PH-H4928-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Section 5."
    },
    "text": {
     "en": "This Act shall take effect upon its approval.\nEnacted without executive approval, October 4, 1971."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending the Title and Sections One and Five of Republic Act Numbered Fifty-Three Hundred Nine (Re Electric Light, Ice and Cold Storage Franchise of Moreno Y Llorca).",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

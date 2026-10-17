@@ -1,7 +1,7 @@
 {
  "id": "PH-H1295",
  "title": {
-  "zh": null,
+  "zh": "修订第1411号共和国法中关于东内格罗斯省公共工程项目的某些项目的法案",
   "en": "An Act to Amend Certain Items in Republic Act Numbered Fourteen Hundred Eleven, Regarding Public Works Projects for the Province of Negros Oriental",
   "orig": "An Act to Amend Certain Items in Republic Act Numbered Fourteen Hundred Eleven, Regarding Public Works Projects for the Province of Negros Oriental"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Items in Republic Act Numbered Fourteen Hundred Eleven, Regarding Public Works Projects for the Province of Negros Oriental",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

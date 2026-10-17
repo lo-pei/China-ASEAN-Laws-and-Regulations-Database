@@ -1,7 +1,7 @@
 {
  "id": "PH-H2824",
  "title": {
-  "zh": null,
+  "zh": "向已故众议员Juan M. Reyes的遗孀与子女发放抚恤金并授权为此拨款的法案",
   "en": "An Act Granting Gratuity to the Widow and Children of the Late Representative Juan M. Reyes and Authorizing the Appropriation of Funds for the Purpose",
   "orig": "An Act Granting Gratuity to the Widow and Children of the Late Representative Juan M. Reyes and Authorizing the Appropriation of Funds for the Purpose"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Gratuity to the Widow and Children of the Late Representative Juan M. Reyes and Authorizing the Appropriation of Funds for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

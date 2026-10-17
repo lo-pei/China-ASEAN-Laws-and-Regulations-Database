@@ -1,7 +1,7 @@
 {
  "id": "SG-H2251",
  "title": {
-  "zh": null,
+  "zh": "所得税（工作福利开埠两百周年红利豁免）公告 2019",
   "en": "Income Tax (Exemption of Workfare Bicentennial Bonus) Notification 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Any cash payment to an individual, made by the Government under the Workfare Bicentennial Bonus scheme, is exempt from tax."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Workfare Bicentennial Bonus) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

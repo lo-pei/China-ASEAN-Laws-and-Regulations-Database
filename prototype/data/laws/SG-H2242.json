@@ -1,7 +1,7 @@
 {
  "id": "SG-H2242",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发付款豁免）（第 2 号）公告 2011",
   "en": "Income Tax (Exemption of Payments for Economic and Technological Development) (No. 2) Notification 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be exempt from tax the royalties payable by Singapore Precision Industries Pte Ltd to the International Olympic Committee on or before 30th July 2011 for the —\n(a)rights granted by the International Olympic Committee under the International Distribution Agreement dated 5th August 2010; and\n(b)rights granted under the Merchandise License Agreement dated 23rd June 2010,\nin respect of the 1st Summer Youth Olympic Games held in Singapore from 14th August 2010 to 26th August 2010."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Payments for Economic and Technological Development) (No. 2) Notification 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

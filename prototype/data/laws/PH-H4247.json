@@ -1,7 +1,7 @@
 {
  "id": "PH-H4247",
  "title": {
-  "zh": null,
+  "zh": "对私有乘用汽车、摩托车与踏板车征收税收并征收科学印花税以构成特别科学基金，并界定受资助科学机构计划与活动的法案",
   "en": "An Act Imposing a Tax on Privately Owned Passenger Automobiles, Motorcycles and Scooters, and a Science Stamp Tax, to Constitute a Special Science Fund, Defining the Programs, Projects and Activities of Science Agencies to be Financed Therefrom and for Other Purposes",
   "orig": "An Act Imposing a Tax on Privately Owned Passenger Automobiles, Motorcycles and Scooters, and a Science Stamp Tax, to Constitute a Special Science Fund, Defining the Programs, Projects and Activities of Science Agencies to be Financed Therefrom and for Other Purposes"
  },
@@ -160,5 +160,13 @@
     "en": "This Act shall take effect on January first, nineteen hundred sixty-nine.\nApproved: September 25, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Imposing a Tax on Privately Owned Passenger Automobiles, Motorcycles and Scooters, and a Science Stamp Tax, to Constitute a Special Science Fund, Defining the Programs, Projects and Activities of Science Agencies to be Financed Therefrom and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

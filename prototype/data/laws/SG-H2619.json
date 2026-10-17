@@ -1,7 +1,7 @@
 {
  "id": "SG-H2619",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（树木清单自动更新与检查——豁免）命令 2023",
   "en": "Infrastructure Protection (Automated Inventory Update and Inspection of Trees — Exemption) Order 2023",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Section 29(1) of the Act does not apply to a contractor (A) appointed or engaged by the National Parks Board to conduct a specified inspection, or any of the following persons acting on A’s behalf for the conduct of the specified inspection, if the specified inspection is conducted under all of the conditions specified in sub‑paragraph (2):\n(a)an employee of A;\n(b)a sub-contractor of A;\n(c)an employee of a sub-contractor of A.\n(2) For the purposes of sub-paragraph (1), the conditions specified are as follows:\n(a)A, A’s employee, A’s sub-contractor or the employee of A’s sub‑contractor, acts in accordance with any direction of the National Parks Board relating to the taking of any photograph of a protected area or protected place;\n(b)the taking of any photograph of a protected area or protected place is conducted using equipment mounted on a vehicle;\n(c)the taking of any photograph of a protected area or protected place is solely for the purposes of the specified inspection."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Automated Inventory Update and Inspection of Trees — Exemption) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

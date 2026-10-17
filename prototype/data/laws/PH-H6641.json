@@ -1,7 +1,7 @@
 {
  "id": "PH-H6641",
  "title": {
-  "zh": null,
+  "zh": "修订第7163号共和国法第1条，将Progressive广播公司在马尼拉大都会及第一、六、七区的广播电台与电视台运营范围扩展至菲律宾全境的法案",
   "en": "An Act Amending Section One of Republic Act Numbered Seventy-one Hundred Sixty Three, Entitled: \"An Act Granting Progressive Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain, for Commercial Purposes, Radio Broadcasting Stations and Television Stations in Metro Manila and in Regions I, VI and VII, and for Other Purposes\", for the Purpose of Extending Its Operations Throughout the Philippines",
   "orig": "An Act Amending Section One of Republic Act Numbered Seventy-one Hundred Sixty Three, Entitled: \"An Act Granting Progressive Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain, for Commercial Purposes, Radio Broadcasting Stations and Television Stations in Metro Manila and in Regions I, VI and VII, and for Other Purposes\", for the Purpose of Extending Its Operations Throughout the Philippines"
  },
@@ -52,14 +52,15 @@
    }
   },
   {
-   "id": "PH-H6641-A1_2",
+   "id": "PH-H6641-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Nature and Scope of Franchise. - Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to the Progressive Broadcasting Corporation, hereunder referred to as the grantee, its successors or assigns, the franchise to construct, install, operate and maintain, for commercial purposes and in the public interest, radio broadcasting stations and television stations throughout the Philippines with the corresponding technological auxiliaries or facilities for special broadcast and other program and distribution services and relay stations and to install radio communication facilities for the grantee's private use in its broadcast services.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6641-A2",
@@ -71,5 +72,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section One of Republic Act Numbered Seventy-one Hundred Sixty Three, Entitled: \"An Act Granting Progressive Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain, for Commercial Purposes, Radio Broadcasting Stations and Television Stations in Metro Manila and in Regions I, VI and VII, and for Other Purposes\", for the Purpose of Extending Its Operations Throughout the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

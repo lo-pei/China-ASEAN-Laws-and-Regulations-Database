@@ -1,7 +1,7 @@
 {
  "id": "SG-H442",
  "title": {
-  "zh": null,
+  "zh": "海上货物运输（新加坡货币等值）命令",
   "en": "Carriage of Goods by Sea (Singapore Currency Equivalents) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of paragraph 5 of Article IV of the Rules and of Article IV bis of the Rules set out in the Schedule to the Act, $1,563.65 cents and $4.69 cents are hereby specified as the amounts which shall be taken as equivalent to 10,000 gold francs and 30 gold francs, respectively."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Carriage of Goods by Sea (Singapore Currency Equivalents) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

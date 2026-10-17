@@ -1,7 +1,7 @@
 {
  "id": "SG-H3434",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11(3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n1. Arbitration Act (Chapter 10)\n2. Children Development Co-Savings Act (Chapter 38A)\n3. Civil Service College Act (Chapter 45)\n4. Contracts (Rights of Third Parties) Act (Chapter 53B)\n5. District Cooling Act (Chapter 84A)\n6. Education Service Incentive Payment Act (Chapter 87B)\n7. Electricity Act (Chapter 89A)\n8. Energy Market Authority of Singapore Act (Chapter 92B)\n9. Gas Act (Chapter 116A)\n10. Health Promotion Board Act (Chapter 122B)\n11. Health Sciences Authority Act (Chapter 122C)\n12. Home Affairs Uniformed Services Superannuation Act (Chapter 126B)\n13. Intellectual Property Office of Singapore Act (Chapter 140)\n14. Lifelong Learning Endowment Fund Act (Chapter 162A)\n15. Patents Act (Chapter 221)\n16. Public Utilities Act (Chapter 261)\n17. Singapore Business Federation Act (Chapter 297A)\n18. Singapore Land Authority Act (Chapter 301)\n19. United Nations Act (Chapter 339)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

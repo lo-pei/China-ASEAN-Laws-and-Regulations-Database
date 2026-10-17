@@ -1,7 +1,7 @@
 {
  "id": "PH-H6790",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 12 月 8 日为安赫莱斯市特别非工作假日，以纪念成立纪念日的法案",
   "en": "An Act Declaring December Eight of Every Year A Special Nonworking Holiday in Angeles City in Commemoration of Its Foundation Day",
   "orig": "An Act Declaring December Eight of Every Year A Special Nonworking Holiday in Angeles City in Commemoration of Its Foundation Day"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring December Eight of Every Year A Special Nonworking Holiday in Angeles City in Commemoration of Its Foundation Day",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

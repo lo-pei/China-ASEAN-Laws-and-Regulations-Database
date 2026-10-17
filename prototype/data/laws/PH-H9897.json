@@ -1,7 +1,7 @@
 {
  "id": "PH-H9897",
  "title": {
-  "zh": null,
+  "zh": "将2019年拨款的可用期限延至2020年12月31日，为此修订第11260号共和国法（即2019财政年度总拨款法）总则第65条的法案",
   "en": "An Act Extending the Availability of the 2019 Appropriations to December 31, 2020, Amending for the Purpose Section 65 of the General Provisions of Republic Act No. 11260, the General Provisions of Republic Act No. 11260, the General Appropriations Act of Fiscal Year 2019",
   "orig": "An Act Extending the Availability of the 2019 Appropriations to December 31, 2020, Amending for the Purpose Section 65 of the General Provisions of Republic Act No. 11260, the General Provisions of Republic Act No. 11260, the General Appropriations Act of Fiscal Year 2019"
  },
@@ -50,5 +50,13 @@
     "en": "Section 65 of the 2019 General Appropriations Act or Republic Act No. 11260 is hereby amended to read as follows:\n\"SEC. 65. Availability of Appropriations. - All appropriations authorized in this Act shall be available for release and obligation for the purpose specified, and under the same special provisions applicable thereto, until December 31, 2020.\n\"A report on these release and obligations shall be submitted to the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Availability of the 2019 Appropriations to December 31, 2020, Amending for the Purpose Section 65 of the General Provisions of Republic Act No. 11260, the General Provisions of Republic Act No. 11260, the General Appropriations Act of Fiscal Year 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3173",
  "title": {
-  "zh": null,
+  "zh": "商船（责任限制）（新加坡货币等值）命令",
   "en": "Merchant Shipping (Limitation of Liability) (Singapore Currency Equivalents) Order",
   "orig": null
  },
@@ -51,5 +51,13 @@
     "en": "1. This Order may be cited as the Merchant Shipping (Limitation of Liability) (Singapore Currency Equivalents) Order."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Merchant Shipping (Limitation of Liability) (Singapore Currency Equivalents) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2953",
  "title": {
-  "zh": null,
+  "zh": "土地测量师规则",
   "en": "Land Surveyors Rules",
   "orig": null
  },
@@ -739,5 +739,13 @@
     "en": "SECOND SCHEDULE\nRules 2(3), 4 and 23(2)\nRecognised Professional Examinations\n1. Final examination leading to a Degree of Bachelor of Surveying, Bachelor of Geomatics and Bachelor of Land Information conferred by a recognised university.\n2. Any other examination regarded by the Board as an equivalent to the examinations specified in paragraph 1.\n[G.N. No.S199/2000]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Land Surveyors Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

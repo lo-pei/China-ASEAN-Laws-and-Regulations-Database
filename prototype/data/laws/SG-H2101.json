@@ -1,7 +1,7 @@
 {
  "id": "SG-H2101",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）命令 2002",
   "en": "Income Tax (Exemption of Foreign Income) Order 2002",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. NatSteel Equity V Pte Ltd is hereby granted exemption from tax on the income received in Singapore from a country outside Singapore, subject to the terms and conditions specified in the letter of approval dated 7th September 2002 addressed to the company."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) Order 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

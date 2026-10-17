@@ -1,7 +1,7 @@
 {
  "id": "SG-H1148",
  "title": {
-  "zh": null,
+  "zh": "存款保险与保单持有人保障计划（存款保险）条例 2011",
   "en": "Deposit Insurance and Policy Owners’ Protection Schemes (Deposit Insurance) Regulations 2011",
   "orig": null
  },
@@ -263,5 +263,13 @@
     "en": "THIRD SCHEDULE\nRegulation 6(1) and (2)\nPremium Rates applicable to DI Scheme members\nFirst column\nSecond column\nCategory of DI Scheme members\nPremium rate\n1.A DI Scheme member which is —\n0.025%\n(a)incorporated in Singapore; or\n(b)a foreign bank with an asset maintenance ratio of more than 5\n2.A DI Scheme member which is a foreign bank with an asset maintenance ratio of more than 2 but not more than 5\n0.035%\n3.A DI Scheme member which is a foreign bank with an asset maintenance ratio of 2 or less\n0.08%.\n[S 873/2018 wef 31/12/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Deposit Insurance and Policy Owners’ Protection Schemes (Deposit Insurance) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7363",
  "title": {
-  "zh": null,
+  "zh": "在阿帕约省 Marag 谷设立名为 Marag 谷农业与贸易中学的国立中学并为其拨款的法案",
   "en": "An Act Establishing a National High School At Marag Valley, Province of Apayao to Be Known as the Marag Valley Agricultural and Trade High School and Appropriating Funds Therefor",
   "orig": "An Act Establishing a National High School At Marag Valley, Province of Apayao to Be Known as the Marag Valley Agricultural and Trade High School and Appropriating Funds Therefor"
  },
@@ -92,5 +92,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a National High School At Marag Valley, Province of Apayao to Be Known as the Marag Valley Agricultural and Trade High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

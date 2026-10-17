@@ -1,7 +1,7 @@
 {
  "id": "SG-H115",
  "title": {
-  "zh": null,
+  "zh": "主动出行（用于公共清洁的三轮脚踏车——豁免）命令 2024",
   "en": "Active Mobility (Three-Wheeled Pedal Cycles for Public Cleaning — Exemption) Order 2024",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Sections 15(1) and 19(1)(c) of the Act do not apply to an individual who rides a specified three‑wheeled pedal cycle (called in this paragraph a rider) on a public path for a specified purpose, under the following conditions:\n(a)the rider is —\n(i)employed or contracted by the National Environment Agency to perform the specified purpose; or\n(ii)authorised by the National Environment Agency to ride the specified three‑wheeled pedal cycle;\n(b)the rider, when using the specified three‑wheeled pedal cycle, gives way to other users of the public path;\n(c)the specified three‑wheeled pedal cycle —\n(i)has a width not exceeding 1,300 millimetres;\n(ii)has a length not exceeding 2,600 millimetres;\n(iii)is equipped with a working handbrake; and\n(iv)is built to be propelled solely by human power;\n(d)there is in force, at any time the specified three‑wheeled pedal cycle is used for the specified purpose, a policy of insurance in relation to the specified three‑wheeled pedal cycle insuring against any liability in respect of —\n(i)the death of or bodily injury sustained by any person (whether or not including the rider); and\n(ii)any property damage suffered by any person (whether or not including the rider),\ncaused by or arising out of the use of the specified three‑wheeled pedal cycle;\n(e)the risk under the policy of insurance mentioned in sub‑paragraph (d) is assumed by an insurer who, at the time the policy is issued, is lawfully carrying on an insurance business in Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Three-Wheeled Pedal Cycles for Public Cleaning — Exemption) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

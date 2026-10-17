@@ -1,7 +1,7 @@
 {
  "id": "SG-H3412",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11 (3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n(1) The Apportionment Act (Chapter 8).\n(2) The Apportionment of Rents Act (Chapter 9).\n(3) The Computer Misuse Act (Chapter 50A)\n(4) The Films Act (Chapter 107)\n(5) The Local Forces (Relief of Financial Hardship) Act (Chapter 165)\n(6) The Misuse of Drugs Act (Chapter 185)\n(7) The Planning Act (Chapter 232)\n(8) The Small Claims Tribunals Act (Chapter 308)\n(9) The Smoking (Prohibition in Certain Places) Act (Chapter 310)\n(10) The Statutory Bodies and Government Companies (Protection of Secrecy) Act (Chapter 319)\n(11) The Statutory Corporations (Contributions to Consolidated Fund) Act (Chapter 319A)\n(12) The Undesirable Publications Act (Chapter 338)\n(13) The Workmen’s Compensation Act (Chapter 354)\n[G.N. No.S 589/98]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11 (3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

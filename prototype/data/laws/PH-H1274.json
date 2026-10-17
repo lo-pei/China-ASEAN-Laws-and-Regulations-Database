@@ -1,7 +1,7 @@
 {
  "id": "PH-H1274",
  "title": {
-  "zh": null,
+  "zh": "授予Demetrio P. Correa与Guillermo Confesor两位先生在伊洛伊洛省卡巴端市镇电灯、热力与动力系统特许经营权的法案",
   "en": "An Act Granting Messrs. Demetrio P. Correa and Guillermo Confesor a Franchise for an Electric Light, Heat and Power System in the Municipality of Cabatuan, Province of Iloilo",
   "orig": "An Act Granting Messrs. Demetrio P. Correa and Guillermo Confesor a Franchise for an Electric Light, Heat and Power System in the Municipality of Cabatuan, Province of Iloilo"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Messrs. Demetrio P. Correa and Guillermo Confesor a Franchise for an Electric Light, Heat and Power System in the Municipality of Cabatuan, Province of Iloilo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

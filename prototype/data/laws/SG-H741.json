@@ -1,7 +1,7 @@
 {
  "id": "SG-H741",
  "title": {
-  "zh": null,
+  "zh": "宣誓专员规则",
   "en": "Commissioners for Oaths Rules",
   "orig": null
  },
@@ -230,5 +230,13 @@
     "en": "THE SCHEDULE\nRule 10\nPart I\nFees Payable to the Academy\nFee payable by advocate and solicitor\n1. The fee payable per annum to the Academy by an advocate and solicitor for each appointment or reappointment as a commissioner for oaths shall be $650.\n[S 309/2016 wef 01/07/2016]\nFee payable for appointment of officer referred to in rule 3(2) as commissioner for oaths\n2. The fee payable per annum to the Academy for each appointment or reappointment of an officer referred to in rule 3(2) as a commissioner for oaths shall be $175.\n[S 309/2016 wef 01/07/2016]\nFee payable for appointment of employee referred to in rule 3(4) as commissioner for oaths\n3. The fee payable per annum to the Academy for each appointment or reappointment of an employee referred to in rule 3(4) as a commissioner for oaths shall be $175.\n[S 258/2006 wef 15/05/2006]\n[S 309/2016 wef 01/07/2016]\nFee payable for appointment of court interpreter or court officer mentioned in rule 3(3) as commissioner for oaths\n4. The fee payable per annum to the Academy for each appointment or reappointment of a court interpreter or court officer mentioned in rule 3(3) as a commissioner for oaths is $175.\n[S 309/2016 wef 01/07/2016]\n[S 81/2021 wef 05/02/2021]\nApplication fee\n5. The application fee payable to the Academy for an application for appointment or reappointment as a commissioner for oaths is as follows:\n(a)$50, for an application by an advocate and solicitor mentioned in rule 3(1);\n(b)$25, for an application by an officer mentioned in rule 3(2), a court interpreter or court officer mentioned in rule 3(3) or an employee mentioned in rule 3(4).\n[S 309/2016 wef 01/07/2016]\n[S 81/2021 wef 05/02/2021]\nPart II\nFees TO BE CHARGED BY A Commissioner for Oaths\n1.—(1)\nOn taking an affidavit or affirmation before an advocate and solicitor who is appointed as a commissioner for oaths\n$25.\n(2)\nFor each exhibit referred to in an affidavit sworn or affirmed before an advocate and solicitor who is appointed as a commissioner for oaths\n$5.\n2.—(1)\nOn taking or re-taking an affidavit or a declaration in lieu of an affidavit or a declaration or an acknowledgment for each person making the same\n$25.\n(2)\nAnd in addition for each exhibit referred to therein and required to be marked\n$5.\n3.—(1)\nOn taking or receiving a statutory declaration\n$25.\n(2)\nFor each exhibit referred to therein which is required to be marked\n$5.\n[S 439/98 wef 01/09/1998]\n[S 309/2016 wef 01/07/2016]\n[G.N. Nos. S 566/95; S 477/96]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Commissioners for Oaths Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

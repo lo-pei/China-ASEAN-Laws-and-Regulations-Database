@@ -1,7 +1,7 @@
 {
  "id": "SG-H306",
  "title": {
-  "zh": null,
+  "zh": "汇票（支票截留）条例",
   "en": "Bills of Exchange (Cheque Truncation) Regulations",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) For the purposes of section 87B of the Act, an image return document shall contain the following particulars:\n(a)the presenting banker’s name and logo;\n(b)the image of the cheque or the instrument which has been dishonoured;\n(c)the electronic payment information of the cheque or the instrument which has been dishonoured;\n(d)the reason for the dishonour;\n(e)the conditions for presentment, including the period within which the presentment must be carried out; and\n(f)the signature of a person who is authorised to issue the document on behalf of the presenting banker.\n(2) In this regulation, “instrument” does not include an instrument referred to in section 85(2)(c) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Bills of Exchange (Cheque Truncation) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

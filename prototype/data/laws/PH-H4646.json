@@ -1,7 +1,7 @@
 {
  "id": "PH-H4646",
  "title": {
-  "zh": null,
+  "zh": "修订第 409 号共和国法（即经修正的《马尼拉市修订宪章》）第 18、53、59、64 与 65 条并为其他目的法案",
   "en": "An Act Amending Sections Eighteen, Fifty-Three, Fifty-Nine, Sixty-Four, and Sixty-Five of Republic Act Numbered Four Hundred Nine, as Amended, Otherwise Known as the Revised Charter of the City of Manila, and for Other Purposes",
   "orig": "An Act Amending Sections Eighteen, Fifty-Three, Fifty-Nine, Sixty-Four, and Sixty-Five of Republic Act Numbered Four Hundred Nine, as Amended, Otherwise Known as the Revised Charter of the City of Manila, and for Other Purposes"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Sections Eighteen, Fifty-Three, Fifty-Nine, Sixty-Four, and Sixty-Five of Republic Act Numbered Four Hundred Nine, as Amended, Otherwise Known as the Revised Charter of the City of Manila, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

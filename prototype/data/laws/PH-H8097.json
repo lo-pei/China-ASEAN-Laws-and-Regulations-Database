@@ -1,7 +1,7 @@
 {
  "id": "PH-H8097",
  "title": {
-  "zh": null,
+  "zh": "将北苏里高省Gen. Luna市镇Sta. Fe描笼涯的Gen. Luna国立中学Sta. Fe附属校从Gen. Luna国立中学分离，改设为Sta. Fe国立中学并为此拨款的法案",
   "en": "An Act Separating the Gen. Luna National High School - Sta. Fe Annex in Barangay Sta. Fe, Municipality of Gen. Luna, Province of Surigao Del Norte from the Gen. Luna National High School, Converting it into an Independent National High School to Be Known as Sta. Fe National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Gen. Luna National High School - Sta. Fe Annex in Barangay Sta. Fe, Municipality of Gen. Luna, Province of Surigao Del Norte from the Gen. Luna National High School, Converting it into an Independent National High School to Be Known as Sta. Fe National High School and Appropriating Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "Implementation. - The Secretary of Education shall issue rules and regulations that may be necessary to carry out the purpose of this Act. days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Gen. Luna National High School - Sta. Fe Annex in Barangay Sta. Fe, Municipality of Gen. Luna, Province of Surigao Del Norte from the Gen. Luna National High School, Converting it into an Independent National High School to Be Known as Sta. Fe National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

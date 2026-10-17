@@ -1,7 +1,7 @@
 {
  "id": "SG-H2837",
  "title": {
-  "zh": null,
+  "zh": "内部安全（伤残津贴）条例",
   "en": "Internal Security (Injury Allowances) Regulations",
   "orig": null
  },
@@ -175,5 +175,13 @@
     "en": "SECOND SCHEDULE\n(Table referred to in regulation 7)\nDependant\nProportion\nThe widow\nOne-fourth\nEach child, where the deceased leaves a widow to whom an award is granted\nOne-twenty-fourth\nEach child, where the deceased does not leave a widow to whom an award is granted\nOne-twelfth\nThe dependent mother, where the deceased leaves a widow to whom an award is granted, but no child or children\nOne-twenty-fourth\nThe dependent mother, where the deceased does not leave a widow to whom an award is granted\nOne-fourth."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Internal Security (Injury Allowances) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

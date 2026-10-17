@@ -1,7 +1,7 @@
 {
  "id": "PH-H6137",
  "title": {
-  "zh": null,
+  "zh": "要求政府拥有或控制的公司在特定条件下向国家政府宣告分红并为其他目的法案",
   "en": "An Act Requiring Government-Owned or Controlled Corporations to Declare Dividends Under Certain Conditions to the National Government, and for Other Purposes",
   "orig": "An Act Requiring Government-Owned or Controlled Corporations to Declare Dividends Under Certain Conditions to the National Government, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "Flexible Clause. — In the interest of national economy and general welfare, the percentage of annual net earnings that shall be declared by a government-owned or controlled corporation may be adjusted by the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring Government-Owned or Controlled Corporations to Declare Dividends Under Certain Conditions to the National Government, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

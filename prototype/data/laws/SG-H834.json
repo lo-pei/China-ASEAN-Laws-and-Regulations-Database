@@ -1,7 +1,7 @@
 {
  "id": "SG-H834",
  "title": {
-  "zh": null,
+  "zh": "租金管制（豁免——建屋发展局）公告",
   "en": "Control of Rent (Exemption — Housing and Development Board) Notification",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nSchedule\nName of Housing Estate\nType of Accommodation\nNo. of Units\nMadras Street (1940)\n3 Room Flats\n6\n2 Room Flats\n3."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Control of Rent (Exemption — Housing and Development Board) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

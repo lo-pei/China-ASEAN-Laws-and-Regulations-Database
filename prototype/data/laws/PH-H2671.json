@@ -1,7 +1,7 @@
 {
  "id": "PH-H2671",
  "title": {
-  "zh": null,
+  "zh": "修订第1345号共和国法（即《设立国家营销公司并解散价格稳定公司、为此拨款并为其他目的》，经第1601号与第1791号共和国法修正）的法案",
   "en": "An Act to Amend Republic Act Numbered Thirteen Hundred and Forty-Five, Entitled “An Act of Creating the National Marketing Corporation and Dissolving the Price Stabilization Corporation Appropriating Funds Therefor, and for Other Purposes.” as Amended by Republic Acts Numbered Sixteen Hundred One, Seventeen Hundred Ninety-One",
   "orig": "An Act to Amend Republic Act Numbered Thirteen Hundred and Forty-Five, Entitled “An Act of Creating the National Marketing Corporation and Dissolving the Price Stabilization Corporation Appropriating Funds Therefor, and for Other Purposes.” as Amended by Republic Acts Numbered Sixteen Hundred One, Seventeen Hundred Ninety-One"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect on January 1, 1962.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Thirteen Hundred and Forty-Five, Entitled “An Act of Creating the National Marketing Corporation and Dissolving the Price Stabilization Corporation Appropriating Funds Therefor, and for Other Purposes.” as Amended by Republic Acts Numbered Sixteen Hundred One, Seventeen Hundred Ninety-One",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

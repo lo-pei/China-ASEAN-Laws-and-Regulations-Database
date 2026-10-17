@@ -1,7 +1,7 @@
 {
  "id": "SG-H2946",
  "title": {
-  "zh": null,
+  "zh": "土地测量师（豁免）（第 2 号）命令 2004",
   "en": "Land Surveyors (Exemption) (No. 2) Order 2004",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 10 of the Act shall not apply to any person who carries out or causes to be carried out any hydrographic or hydrologic survey or other study of the waters and sea-bed within the territorial limits of Singapore for navigational purposes or studies of marine science and ecology."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Land Surveyors (Exemption) (No. 2) Order 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

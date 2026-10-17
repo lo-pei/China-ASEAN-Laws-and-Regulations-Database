@@ -1,7 +1,7 @@
 {
  "id": "SG-H3187",
  "title": {
-  "zh": null,
+  "zh": "商船（海事劳工公约）（工资）条例 2014",
   "en": "Merchant Shipping (Maritime Labour Convention) (Wages) Regulations 2014",
   "orig": null
  },
@@ -175,5 +175,13 @@
     "en": "SECOND SCHEDULE\nRegulation 9\nParticulars in allotment note\nParticulars of the seafarer and of the ship\n1. Name of the seafarer.\n2. Name of the ship and its official number.\nParticulars of shipowner\n3. Name and address of shipowner.\nParticulars of allotment\n4. Names and addresses of persons to whom allotment is made.\n5. Amount of each payment.\n6. Date of first payment.\n7. Intervals at which payments are to be made.\n8. Number of payments if number of payments is limited.\n9. Details of bank and bank account designated by seafarer (if applicable)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Maritime Labour Convention) (Wages) Regulations 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

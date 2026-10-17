@@ -1,7 +1,7 @@
 {
  "id": "PH-H7904",
  "title": {
-  "zh": null,
+  "zh": "确认并宣布（除某些例外）宿务市第一区Banilad修士地庄园现有地权证书与重建地权证书的有效性",
   "en": "An Act Confirming and Declaring, Subject to Certain Exceptions, the Validity of Existing Transfer Certificates of Title and Reconstituted Certificates of Title Covering the Banilad Friar Lands Estate, situated in the First District of the City of Cebu",
   "orig": "An Act Confirming and Declaring, Subject to Certain Exceptions, the Validity of Existing Transfer Certificates of Title and Reconstituted Certificates of Title Covering the Banilad Friar Lands Estate, situated in the First District of the City of Cebu"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Confirming and Declaring, Subject to Certain Exceptions, the Validity of Existing Transfer Certificates of Title and Reconstituted Certificates of Title Covering the Banilad Friar Lands Estate, situated in the First District of the City of Cebu",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

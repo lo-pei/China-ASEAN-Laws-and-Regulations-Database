@@ -1,7 +1,7 @@
 {
  "id": "SG-H857",
  "title": {
-  "zh": null,
+  "zh": "验尸官（部长证明书）条例 2023",
   "en": "Coroners (Minister’s Certificate) Regulations 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) For the purpose of section 17A(1)(b) of the Act, a foreign State’s request for a Minister’s certificate to be issued must —\n(a)be made by a diplomatic agent of the foreign State or a consular officer of the foreign State;\n(b)be sent —\n(i)by hand to the office of the Ministry of Foreign Affairs, 1 Sherwood Road, Tanglin, Singapore 248163; or\n(ii)by email to mfa_duty_officer@mfa.gov.sg; and\n(c)include the information mentioned in paragraph (2).\n(2) The foreign State’s request must include —\n(a)the deceased’s name, nationality and passport number or foreign identification number;\n(b)the name, designation and contact details of the diplomatic agent or consular officer making the request;\n(c)a statement of —\n(i)which provision of section 17A(1)(a) of the Act the foreign State considers is applicable in respect of the deceased; and\n(ii)the reasons for requesting the release of the deceased’s body; and\n(d)any supporting document for the statement mentioned in sub‑paragraph (c)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Coroners (Minister’s Certificate) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

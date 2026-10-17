@@ -1,7 +1,7 @@
 {
  "id": "SG-H1233",
  "title": {
-  "zh": null,
+  "zh": "电力法 2001",
   "en": "Electricity Act 2001",
   "orig": null
  },
@@ -2130,5 +2130,13 @@
     "en": "105.—(1) In any written law, a reference to “public electricity licensee” is to be construed as a reference to an “electricity licensee” under this Act.\n(2) The repealed Electrical Workers and Contractors Licensing Act (Cap. 89, 1985 Revised Edition) and any subsidiary legislation made thereunder is to be administered by the Energy Market Authority of Singapore, and any references to the Board in that Act and its subsidiary legislation are to be read as references to that Authority."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Electricity Act 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

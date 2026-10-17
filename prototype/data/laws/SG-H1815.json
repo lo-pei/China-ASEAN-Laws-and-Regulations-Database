@@ -1,7 +1,7 @@
 {
  "id": "SG-H1815",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 2 号）命令 2024",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 2) Order 2024",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Balestier Road and Whampoa Drive, comprised in Lot number 07499M in Mukim 17 and on which Apartment Block 104 is erected, which block is marked with a grey dot in Plan 1.\nPLAN 1\nWHAMPOA DRIVE\n2. All that part of the housing estate of the Board bounded by Whampoa Road and Whampoa Drive, comprised in Lot number 07356A in Mukim 17 and on which Apartment Blocks 109, 110 and 111 are erected, and in Lot number 07151K in Mukim 17 and on which Apartment Blocks 112, 113, 114 and 115 are erected, which blocks are each marked with a grey dot in Plan 2.\nPLAN 2\nWHAMPOA ROAD"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 2) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

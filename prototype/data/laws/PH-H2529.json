@@ -1,7 +1,7 @@
 {
  "id": "PH-H2529",
  "title": {
-  "zh": null,
+  "zh": "将卡皮斯省 Mambusao市镇 Panay 国立农业学校的名称变更为Mambusao 国立农业学校，为此修订第2088号共和国法的法案",
   "en": "An Act Changing the Name of the Panay National Agricultural School in the Municipality of Mambusao, Province of Capiz, to Mambusao National Agricultural School, Amending for the Purpose Republic Act Numbered Twenty Hundred Eighty-Eight",
   "orig": "An Act Changing the Name of the Panay National Agricultural School in the Municipality of Mambusao, Province of Capiz, to Mambusao National Agricultural School, Amending for the Purpose Republic Act Numbered Twenty Hundred Eighty-Eight"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Panay National Agricultural School in the Municipality of Mambusao, Province of Capiz, to Mambusao National Agricultural School, Amending for the Purpose Republic Act Numbered Twenty Hundred Eighty-Eight",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

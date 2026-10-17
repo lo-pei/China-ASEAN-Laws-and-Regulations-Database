@@ -1,7 +1,7 @@
 {
  "id": "PH-H5470",
  "title": {
-  "zh": null,
+  "zh": "将依第 3122 号共和国法授予 Radio Mindanao Network, Inc. 的特许经营权自本法案批准之日起续展二十五（25）年的法案",
   "en": "An Act Renewing the Franchise Granted to the Radio Mindanao Network, Inc. under Republic Act Numbered Thirty-One Hundred Twenty-Two to another Twenty-Five (25) Years from the Date of Approval of this Act",
   "orig": "An Act Renewing the Franchise Granted to the Radio Mindanao Network, Inc. under Republic Act Numbered Thirty-One Hundred Twenty-Two to another Twenty-Five (25) Years from the Date of Approval of this Act"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing the Franchise Granted to the Radio Mindanao Network, Inc. under Republic Act Numbered Thirty-One Hundred Twenty-Two to another Twenty-Five (25) Years from the Date of Approval of this Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

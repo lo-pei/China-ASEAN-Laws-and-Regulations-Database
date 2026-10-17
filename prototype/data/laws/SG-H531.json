@@ -1,7 +1,7 @@
 {
  "id": "SG-H531",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（退款）条例 2019",
   "en": "Central Provident Fund (Refunds) Regulations 2019",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "6.—(1) Section 71(4)(b) of the Act applies where —\n(a)an application is required under section 71(2) of the Act to claim a refund or payment of the excess of contributions mentioned in —\n(i)regulation 3(e); or\n(ii)regulation 3(f), in respect of a contribution under section 9A of the Act; and\n(b)the excess of contributions arises from a recomputation made under regulation 6, 7(6), 7A(5) or 15(2) or (3) of the Central Provident Fund (Self‑Employed Persons) Regulations 1992, as the case may be.\n(2) The prescribed time for an application mentioned in paragraph (1), where the recomputation mentioned in paragraph (1)(b) is made under the following provisions, is as follows:\n(a)regulation 6 of the Central Provident Fund (Self‑Employed Persons) Regulations 1992 — one year starting on the date of issue of the notice of computation or contributions notice (as the case may be) under regulation 12 of those Regulations relating to the recomputation;\n(b)regulation 7(6) of those Regulations — one year starting on the date of issue of either of the following, whichever is applicable:\n(i)the notice of computation or contributions notice (as the case may be) under regulation 7(4)(b) of those Regulations relating to the recomputation;\n(ii)the notice of contribution or contributions notice (as the case may be) under regulation 7(5)(b) of those Regulations relating to the recomputation;\n(c)regulation 7A(5) of those Regulations — one year starting on the date of issue of the notice of computation or contributions notice (as the case may be) under regulation 7A(4)(b) or the date of issue of the contributions notice under regulation 7A(4A)(b) of those Regulations relating to the recomputation;\n[S 889/2025 wef 01/01/2026]\n(d)regulation 15(2) of those Regulations — one year starting on the date the self‑employed person informs the Board of the amount of that person’s income for the purposes of regulation 15(2) of those Regulations;\n(e)regulation 15(3) of those Regulations — one year starting on the date of issue of the notice under regulation 15(3)(a)(ii) of those Regulations relating to the recomputation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund (Refunds) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

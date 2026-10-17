@@ -1,7 +1,7 @@
 {
  "id": "PH-H1695",
  "title": {
-  "zh": null,
+  "zh": "授予A.J. Wills先生建设和运营电视台的临时许可，为此修订第767号共和国法的标题与第1条的法案",
   "en": "An Act Granting Mr. A.J. Wills a Temporary Permit to Construct, Maintain and Operate Television Stations, Amending for the Purpose the Title and Section One of Republic Act Numbered Seven Hundred Sixty-Seven",
   "orig": "An Act Granting Mr. A.J. Wills a Temporary Permit to Construct, Maintain and Operate Television Stations, Amending for the Purpose the Title and Section One of Republic Act Numbered Seven Hundred Sixty-Seven"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Mr. A.J. Wills a Temporary Permit to Construct, Maintain and Operate Television Stations, Amending for the Purpose the Title and Section One of Republic Act Numbered Seven Hundred Sixty-Seven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

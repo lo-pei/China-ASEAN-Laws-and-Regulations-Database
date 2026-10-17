@@ -1,7 +1,7 @@
 {
  "id": "SG-H1702",
  "title": {
-  "zh": null,
+  "zh": "保健产品（治疗产品）条例 2016",
   "en": "Health Products (Therapeutic Products) Regulations 2016",
   "orig": null
  },
@@ -1227,5 +1227,13 @@
     "en": "SEVENTH SCHEDULE\nRegulation 52(1)(b)\nFirst column\nSecond column\nTherapeutic product\nMaximum amount allowed\n1. Codeine; its salts\n(a)Oral liquid preparation — not exceeding 15 mg per 5 ml and not exceeding 240 ml in quantity\n(b)Solid preparation — not exceeding 30 mg per dosage unit and not exceeding 20 dosage units in quantity\n2. Dextromethorphan\n(a)Oral liquid preparation — not exceeding 15 mg per 5 ml and not exceeding 240 ml in quantity\n(b)Solid preparation — not exceeding 30 mg per dosage unit and not exceeding 20 dosage units in quantity\n[S 732/2021 wef 01/10/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Health Products (Therapeutic Products) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

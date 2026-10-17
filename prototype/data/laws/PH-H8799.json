@@ -1,7 +1,7 @@
 {
  "id": "PH-H8799",
  "title": {
-  "zh": null,
+  "zh": "将设于北拉瑙Tubod的陆运署（LTO）延伸办公室改设为陆运署正式区办公室，并为此拨款及为其他目的法案",
   "en": "An Act Converting the Land Transportation Office (LTO) Extension Office Located in Tubod, Lanao Del Norte Into a Regular LTO District Office, Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act Converting the Land Transportation Office (LTO) Extension Office Located in Tubod, Lanao Del Norte Into a Regular LTO District Office, Appropriating Funds Therefor and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Land Transportation Office (LTO) Extension Office Located in Tubod, Lanao Del Norte Into a Regular LTO District Office, Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

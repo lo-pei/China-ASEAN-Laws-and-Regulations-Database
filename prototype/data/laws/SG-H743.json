@@ -1,7 +1,7 @@
 {
  "id": "SG-H743",
  "title": {
-  "zh": null,
+  "zh": "商品交易法 1992",
   "en": "Commodity Trading Act 1992",
   "orig": null
  },
@@ -1114,5 +1114,13 @@
     "en": "THE SCHEDULE\nSection 14A\nExemption\n1. The following persons are exempted from the specified provisions of this Act:\n(a)in respect of section 12(1), a person who carries on the purchase or sale of commodities in a market that is not a commodity market, where such transaction is made with another person in the ordinary course of business and —\n(i)it is not intended for resale other than in the ordinary course of business of wholesale or retail; or\n(ii)where there is physical delivery of such commodities from seller to buyer;\n(b)in respect of section 12(1), a person who solicits or accepts orders for the purchase or sale of any commodity by way of or relating to any commodity contract for a customer in the following circumstances:\n(i)the person is not a party to the commodity contract;\n(ii)the person does not carry the customer’s position, margin or account in the person’s own books;\n(iii)the person does not accept money or assets from the customer as settlement of, or a margin for, or to guarantee or secure, any commodity contract; and\n(iv)there is physical delivery of the commodity from seller to buyer;\n(c)in respect of sections 12(1) and 13(1)(a) to (e), a person who carries on the business of trading in commodity contracts only with accredited investors and not with any other person;\n(d)in respect of sections 12(1) and 13(1)(a) to (e), a bank or merchant bank licensed under the Banking Act 1970;\n(e)in respect of sections 12(1) (only to the extent that the section applies to commodity brokers) and 13(1)(a) to (e), a person who is a Finance and Treasury Centre, an approved oil trading company or an approved international commodity trading company, within the meaning of the Income Tax Act 1947;\n(f)in respect of section 13A, a person who carries on spot commodity trading on the person’s own account and does not solicit any funds from any member of the public or any section of the public in connection with the carrying out of any spot commodity trading; and\n(g)in respect of section 13A, a person who solicits or accepts orders for the purchase or sale of any commodity by way of spot commodity trading for a customer in the following circumstances:\n(i)the person is not a party to any contract for the purchase or sale of the commodity;\n(ii)the person does not carry the customer’s position, margin or account in the person’s own books; and\n(iii)the person does not accept money or assets from the customer as settlement of, or a margin for, or to guarantee or secure any contract for any contract for the purchase or sale of any commodity.\n2. In this Schedule, “accredited investor” means —\n(a)an individual —\n(i)whose net personal assets exceed $2 million in value (or its equivalent in a foreign currency) or any other amount that the Board may prescribe in place of the first amount; or\n(ii)whose income in the preceding 12 months is not less than $300,000 (or its equivalent in a foreign currency) or any other amount that the Board may prescribe in place of the first amount;\n(b)a corporation with net assets exceeding $10 million in value (or its equivalent in a foreign currency) or any other amount that the Board may prescribe, in place of the first amount, as determined by —\n(i)the most recent audited balance sheet of the corporation; or\n(ii)where the corporation is not required to prepare audited accounts regularly, a balance sheet of the corporation certified by the corporation as giving a true and fair view of the state of affairs of the corporation as of the date of the balance sheet, which date must be within the preceding 12 months;\n(c)the trustee of such trust as the Board may prescribe, when acting in that capacity; or\n(d)any other person that the Board may prescribe.\n[1/2020; S 343/2013]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Commodity Trading Act 1992",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

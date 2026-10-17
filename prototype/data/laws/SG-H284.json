@@ -1,7 +1,7 @@
 {
  "id": "SG-H284",
  "title": {
-  "zh": null,
+  "zh": "银行（第 4A（1）与（2）条豁免）公告 2004",
   "en": "Banking (Exemption from Section 4A (1) and (2)) Notification 2004",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The Authority hereby exempts Navy Federal Credit Union, an institution licensed and accredited under the laws of the United States of America, from —\n(a)section 4A(1) of the Act, in respect of any deposit accepted in Singapore from any of its members in Singapore; and\n(b)section 4A(2) of the Act, in respect of any offer or invitation —\n(i)to make any deposit; or\n(ii)to enter or offer to enter into any agreement to make any deposit,\nin connection with the provision of services in Singapore by Navy Federal Credit Union for which it is licensed and accredited under the laws of the United States of America.\n(2) The exemption is subject to such conditions as may be specified in letters issued from time to time by the Authority."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Banking (Exemption from Section 4A (1) and (2)) Notification 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

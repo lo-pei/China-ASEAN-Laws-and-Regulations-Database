@@ -1,7 +1,7 @@
 {
  "id": "PH-H1877",
  "title": {
-  "zh": null,
+  "zh": "将黎刹省54号公路更名为埃皮法尼奥·德洛斯桑托斯大道，以纪念菲律宾学者、法学家与历史学家唐·埃皮法尼奥·德洛斯桑托斯的法案",
   "en": "An Act Changing the Name of Highway 54 in the Province of Rizal to Epifanio De Los Santos Avenue in Honor of Don Epifanio De Los Santos, a Filipino Scholar, Jurist and Historian",
   "orig": "An Act Changing the Name of Highway 54 in the Province of Rizal to Epifanio De Los Santos Avenue in Honor of Don Epifanio De Los Santos, a Filipino Scholar, Jurist and Historian"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 7, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Highway 54 in the Province of Rizal to Epifanio De Los Santos Avenue in Honor of Don Epifanio De Los Santos, a Filipino Scholar, Jurist and Historian",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

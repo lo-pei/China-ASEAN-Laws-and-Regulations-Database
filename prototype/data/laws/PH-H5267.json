@@ -1,7 +1,7 @@
 {
  "id": "PH-H5267",
  "title": {
-  "zh": null,
+  "zh": "将位于本格特省博科德市镇内的Dennis Molintas市镇医院更名为Dennis Molintas纪念医院的法案",
   "en": "An Act Changing the Name of the Dennis Molintas Municipal Hospital in the Municipality of Bokod, Province of Benguet, to Dennis Molintas Memorial Hospital",
   "orig": "An Act Changing the Name of the Dennis Molintas Municipal Hospital in the Municipality of Bokod, Province of Benguet, to Dennis Molintas Memorial Hospital"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Dennis Molintas Municipal Hospital in the Municipality of Bokod, Province of Benguet, to Dennis Molintas Memorial Hospital",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

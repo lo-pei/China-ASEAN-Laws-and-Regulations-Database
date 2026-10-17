@@ -1,7 +1,7 @@
 {
  "id": "SG-H1373",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（一般废物处置设施——豁免）条例 2023",
   "en": "Environmental Public Health (General Waste Disposal Facility — Exemption) Regulations 2023",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nRegulation 3\nExempted general waste disposal facilities\n1.Any refuse bin centre.\n2.Any residential premises used for depositing or storing general waste.\n3.Any machinery or apparatus (for example, a food waste digester) used solely to process or treat waste generated at the premises in which the machinery or apparatus is located.\n4.Any water reclamation facility.\n5.A general waste disposal facility that —\n(a)is built for the purpose of a research and development project that is undertaken by, or in collaboration with, an Institute of Higher Learning; and\n(b)receives less than 100 kilograms of general waste each day."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (General Waste Disposal Facility — Exemption) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

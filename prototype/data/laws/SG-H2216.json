@@ -1,7 +1,7 @@
 {
  "id": "SG-H2216",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 5 号）公告 2005",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 5) Notification 2005",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be exempt from tax —\n(a)interest payable by Jembawati Maritime Pte. Ltd. from 6th September 2004 to 6th September 2011 (both dates inclusive) to Fortis Bank S.A./N.V., Singapore Branch under the Loan Agreement dated 23rd August 2004 in respect of the vessel “Jembawati”; and\n(b)fees payable by Jembawati Maritime Pte. Ltd. to Fortis Bank S.A./N.V., Singapore Branch under the Loan Agreement referred to in sub-paragraph (a)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 5) Notification 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

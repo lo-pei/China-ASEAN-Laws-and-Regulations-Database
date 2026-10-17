@@ -1,7 +1,7 @@
 {
  "id": "SG-H1854",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（商店振兴计划）命令 2025",
   "en": "Housing and Development (Precincts for Upgrading Works) (Revitalisation of Shops Scheme) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nAll that part of the housing estate of the Board bounded by Yishun Avenue 5, Yishun Ring Road and Sembawang Road, comprised in Lot numbers 00822P and 04116V in Mukim 19 and on which Apartment Blocks 101, 101A, 101B, 101C, 103 and 106 are erected, and which is more particularly delineated in the Plan.\nTHE PLAN\nYISHUN AVENUE 5 / YISHUN RING ROAD"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Revitalisation of Shops Scheme) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

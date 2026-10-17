@@ -1,7 +1,7 @@
 {
  "id": "SG-H2991",
  "title": {
-  "zh": null,
+  "zh": "法律服务（外国律师考试）规则 2011",
   "en": "Legal Profession (Foreign Practitioner Examinations) Rules 2011",
   "orig": null
  },
@@ -269,5 +269,13 @@
     "en": "THE SCHEDULE\nRules 4(2)(b)(i), 5(2), 6, 8(3) and 16(2)\nFees\n1. Non-refundable application fee under rule 4(2)(b)(i): $327\n[S 8/2023 wef 12/01/2023]\n[S 424/2024 wef 20/05/2024]\n2. Fee under rule 5(2) for review of decision of Director: $218\n[S 8/2023 wef 12/01/2023]\n[S 424/2024 wef 20/05/2024]\n3. Examination fee under rule 6: $7,848\n[S 8/2023 wef 12/01/2023]\n[S 424/2024 wef 20/05/2024]\n4. Fee under rule 8(3) for review of results of candidate in Examinations: $545\n[S 8/2023 wef 12/01/2023]\n[S 424/2024 wef 20/05/2024]\n5. Application fee under rule 16(2): $350\n[S 424/2024 wef 20/05/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Foreign Practitioner Examinations) Rules 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

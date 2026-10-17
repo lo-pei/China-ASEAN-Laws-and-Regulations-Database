@@ -1,7 +1,7 @@
 {
  "id": "SG-H1159",
  "title": {
-  "zh": null,
+  "zh": "贫困者（福利院）（合并）公告",
   "en": "Destitute Persons (Welfare Homes) (Consolidation) Notification",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Destitute Persons Act\n(Chapter 78, Section 7(1))\nDestitute Persons (Welfare Homes) (Consolidation) Notification\nN 1\nG.N. No. S 268/2002\nREVISED EDITION 2004\n(29th February 2004)\nThe following homes have been established as welfare homes for the reception, care and rehabilitation of destitute persons under section 7(1) of the Act:\n(1)Angsana Home at Pelangi Village\n14 Buangkok Green\nSingapore 539755\n(2)Banyan Home at Pelangi Village\n12 Buangkok Green\nSingapore 539754\n(3)Jenaris Home at Pelangi Village\n10 Buangkok Green\nSingapore 539753\n(4)Meranti Home at Pelangi Village\n6 Buangkok Green\nSingapore 539751\n(5)Thuja Home at Pelangi Village\n4 Buangkok Green\nSingapore 539750\n(6)Tembusu Home at Pelangi Village\n2 Buangkok Green\nSingapore 539749.\n[S 268/2002 — 1.6.2002]\n(7)Bukit Batok Home for the Aged\n11 Bukit Batok West Avenue 2\nSingapore 659205\n(8)[Deleted by S 597/2017 wef 01/11/2017]\n(9)[Deleted by S 71/2012 wef 08/02/2012]\n(10)Jamiyah Home for the Aged\n1 Tampines Avenue 3\nSingapore 529707\n(11)Moral Welfare Home\n301 Henderson Road\nSingapore 108931.\n[S 597/2017 wef 01/11/2017]\n[S 71/2012 wef 08/02/2012]\n[S 401/2002 — 1.8.2002]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Destitute Persons (Welfare Homes) (Consolidation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

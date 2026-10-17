@@ -1,7 +1,7 @@
 {
  "id": "SG-H793",
  "title": {
-  "zh": null,
+  "zh": "竞争（申报）条例 2007",
   "en": "Competition (Notification) Regulations 2007",
   "orig": null
  },
@@ -374,5 +374,11 @@
     "en": "21. Where any application (as defined in the revoked Competition Regulations (Rg 1)) is made to the Commission under those Regulations before 1st July 2007, and the application is pending as at 1st July 2007, the application shall be treated as if it were an application made under these Regulations."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Competition (Notification) Regulations 2007",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

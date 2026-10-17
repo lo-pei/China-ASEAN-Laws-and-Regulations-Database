@@ -1,7 +1,7 @@
 {
  "id": "PH-H447",
  "title": {
-  "zh": null,
+  "zh": "修订第326号联邦法第13条第1款（经修正）的法案",
   "en": "An Act to Amend the First Paragraph of Section Thirteen of Commonwealth Act Numbered Three Hundred Twenty-Six, as Amended",
   "orig": "An Act to Amend the First Paragraph of Section Thirteen of Commonwealth Act Numbered Three Hundred Twenty-Six, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "Effectivity .—This Act shall take effect on the next regular election for city officials.\nApproved, June 4, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend the First Paragraph of Section Thirteen of Commonwealth Act Numbered Three Hundred Twenty-Six, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

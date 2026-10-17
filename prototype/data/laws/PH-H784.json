@@ -1,7 +1,7 @@
 {
  "id": "PH-H784",
  "title": {
-  "zh": null,
+  "zh": "提高证券交易委员会现行收费并授权其就某些服务收取费用的法案",
   "en": "An Act to Increase the Fees Now Charged By the Securities and Exchange Commission and to Authorize It to Collect and Receive Fees for Certain Services",
   "orig": "An Act to Increase the Fees Now Charged By the Securities and Exchange Commission and to Authorize It to Collect and Receive Fees for Certain Services"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect after fifteen days from the date of its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Increase the Fees Now Charged By the Securities and Exchange Commission and to Authorize It to Collect and Receive Fees for Certain Services",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

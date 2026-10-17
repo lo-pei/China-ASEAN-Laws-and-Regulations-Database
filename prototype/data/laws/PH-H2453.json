@@ -1,7 +1,7 @@
 {
  "id": "PH-H2453",
  "title": {
-  "zh": null,
+  "zh": "授权拨付五万比索用于南拉瑙省Kapatagan市镇一所公立医院的维护与运营的法案",
   "en": "An Act Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Maintenance and Operation of a Public Hospital in the Municipality of Kapatagan, Province of Lanao",
   "orig": "An Act Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Maintenance and Operation of a Public Hospital in the Municipality of Kapatagan, Province of Lanao"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Maintenance and Operation of a Public Hospital in the Municipality of Kapatagan, Province of Lanao",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

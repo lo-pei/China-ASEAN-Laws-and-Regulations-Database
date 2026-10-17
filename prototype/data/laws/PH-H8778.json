@@ -1,7 +1,7 @@
 {
  "id": "PH-H8778",
  "title": {
-  "zh": null,
+  "zh": "将莱特省 Carigara 市镇 Sogod 描笼涯的 Carigara 渔业学校－Sogod 附属校从该校分离，改设为名为 Sogod 国立中学的独立国立中学并拨款",
   "en": "An Act Separating the Carigara School Offisheries – Sogod Annex in Barangay Sogod, Municipality of Carigara, Province of Leyte From the Carigara School of Fisheries, Converting It Into An Independent National High School to Be Known as Sogod National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Carigara School Offisheries – Sogod Annex in Barangay Sogod, Municipality of Carigara, Province of Leyte From the Carigara School of Fisheries, Converting It Into An Independent National High School to Be Known as Sogod National High School and Appropriating Funds Therefor"
  },
@@ -92,5 +92,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Carigara School Offisheries – Sogod Annex in Barangay Sogod, Municipality of Carigara, Province of Leyte From the Carigara School of Fisheries, Converting It Into An Independent National High School to Be Known as Sogod National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

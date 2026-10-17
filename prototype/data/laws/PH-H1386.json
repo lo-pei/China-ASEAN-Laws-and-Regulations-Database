@@ -1,7 +1,7 @@
 {
  "id": "PH-H1386",
  "title": {
-  "zh": null,
+  "zh": "修订 Dansalan 市宪章以将其更名为马拉维、将市长、副市长与议员改为民选并为其他目的法案",
   "en": "An Act to Amend the Charter of the City of Dansalan so as to Change its Name to Marawi and Make Elective its Mayor, Vice-Mayor and Councilors, and for Other Purposes",
   "orig": "An Act to Amend the Charter of the City of Dansalan so as to Change its Name to Marawi and Make Elective its Mayor, Vice-Mayor and Councilors, and for Other Purposes"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend the Charter of the City of Dansalan so as to Change its Name to Marawi and Make Elective its Mayor, Vice-Mayor and Councilors, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

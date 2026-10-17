@@ -1,7 +1,7 @@
 {
  "id": "PH-H3295",
  "title": {
-  "zh": null,
+  "zh": "修订第586号联邦法（《修订菲律宾公立初等教育制度法》）第7条与第8条，规定国家政府支持各特许城市中级学校，取消中级学生注册费，并为补充读本、图书馆书籍及中级体育活动提供经费的法案",
   "en": "An Act to Amend Sections Seven and Eight of Commonwealth Act Numbered Five Hundred Eighty-Six Entitled \"An Act to Provide for the Revision of the System of Public Elementary Education in the Philippines Including the Financing Thereof\", as Amended, to Provide for the Support and Maintenance of Intermediate Schools in All Chartered Cities by the National Government and for the Purpose of Abolishing the Matriculation Fees of Pupils Enrolled in the Intermediate Grades and Providing Funds for the Purchase of Supplementary Readers and Other Library Books and for Financing Athletic Activities in the Intermediate Classes, and for Other Purposes",
   "orig": "An Act to Amend Sections Seven and Eight of Commonwealth Act Numbered Five Hundred Eighty-Six Entitled \"An Act to Provide for the Revision of the System of Public Elementary Education in the Philippines Including the Financing Thereof\", as Amended, to Provide for the Support and Maintenance of Intermediate Schools in All Chartered Cities by the National Government and for the Purpose of Abolishing the Matriculation Fees of Pupils Enrolled in the Intermediate Grades and Providing Funds for the Purchase of Supplementary Readers and Other Library Books and for Financing Athletic Activities in the Intermediate Classes, and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Seven and Eight of Commonwealth Act Numbered Five Hundred Eighty-Six Entitled \"An Act to Provide for the Revision of the System of Public Elementary Education in the Philippines Including the Financing Thereof\", as Amended, to Provide for the Support and Maintenance of Intermediate Schools in All Chartered Cities by the National Government and for the Purpose of Abolishing the Matriculation Fees of Pupils Enrolled in the Intermediate Grades and Providing Funds for the Purchase of Supplementary Readers and Other Library Books and for Financing Athletic Activities in the Intermediate Classes, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

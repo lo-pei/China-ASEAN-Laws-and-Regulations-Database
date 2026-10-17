@@ -1,7 +1,7 @@
 {
  "id": "SG-H1375",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（可领牌水上设施）命令 2021",
   "en": "Environmental Public Health (Licensable Aquatic Facilities) Order 2021",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Subject to sub‑paragraph (2), every aquatic facility of any of the following descriptions or types is a licensable aquatic facility for the purposes of the Act:\n(a)any multi‑use spa pool;\n(b)any swimming pool;\n(c)any water playground.\n(2) Sub‑paragraph (1) does not apply to any aquatic facility that is —\n(a)used, or intended to be used, solely for the treatment of, or use by, animals kept as pets;\n(b)set up for temporary display or use, for a period not exceeding 3 months; or\n(c)located in or on any part (except the common property) of any residential premises."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Licensable Aquatic Facilities) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

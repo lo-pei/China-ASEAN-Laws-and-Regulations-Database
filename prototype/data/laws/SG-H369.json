@@ -1,7 +1,7 @@
 {
  "id": "SG-H369",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（建筑物与建筑外墙定期检查）条例 2021",
   "en": "Building Control (Periodic Inspection of Buildings and Building Façades) Regulations 2021",
   "orig": null
  },
@@ -374,5 +374,13 @@
     "en": "19.—(1) The Building Control (Inspection of Buildings) Regulations (Rg 4) are revoked.\n(2) Despite paragraph (1), the Building Control (Inspection of Buildings) Regulations continue to apply to and in relation to any structural inspection of a building that is the subject of a structural inspection notice served on an owner of the building before 1 January 2022."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building Control (Periodic Inspection of Buildings and Building Façades) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

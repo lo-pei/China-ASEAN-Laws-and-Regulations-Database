@@ -1,7 +1,7 @@
 {
  "id": "PH-H1999",
  "title": {
-  "zh": null,
+  "zh": "通过增加自治权并重组省政府修订地方政府法律的法案",
   "en": "An Act Amending the Laws Governing Local Governments by Increasing Their Autonomy and Reorganizing Provincial Governments",
   "orig": "An Act Amending the Laws Governing Local Governments by Increasing Their Autonomy and Reorganizing Provincial Governments"
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 19, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending the Laws Governing Local Governments by Increasing Their Autonomy and Reorganizing Provincial Governments",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

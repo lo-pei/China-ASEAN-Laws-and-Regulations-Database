@@ -1,7 +1,7 @@
 {
  "id": "SG-H078",
  "title": {
-  "zh": null,
+  "zh": "活跃通勤（在指明人行道使用车辆的豁免——滨海湾）（第 2 号）命令 2022",
   "en": "Active Mobility (Exemption for Use of Vehicle on Specified Footpath — Marina Bay) (No. 2) Order 2022",
   "orig": null
  },
@@ -123,5 +123,13 @@
     "en": "SECOND SCHEDULE\nParagraph 2\nSpecified persons\nDivision 1 — Companies\n1.Ape Works Pte. Ltd. (UEN 200920780K)\n2.Arts House Ltd. (UEN 200210647W)\n3.Aux Media Group Pte. Ltd. (UEN 200822245K)\n4.CHC Construction Pte. Ltd. (UEN 200509356R)\n5.CSP Productions Pte Ltd (UEN 199304968N)\n6.Expand Construction Pte. Ltd. (UEN 200005999D)\n7.Gim Tian Civil Engineering Pte Ltd (UEN 198800866E)\n8.Hexogon Solution Pte. Ltd. (UEN 200815257R)\n9.Highway International Private Limited (UEN 197501285M)\n10.Ironman (Asia) Pte. Ltd. (UEN 200312491D)\n11.M1 Limited (UEN 199206031W)\n12.National Gallery Singapore (UEN 200900977G)\n13.Netlink Trust Operations Company Pte. Ltd. (UEN 201323100N)\n14.PICH Event Management Pte. Ltd. (UEN 201420877R)\n15.Pitcrew Events Private Limited (UEN 200913499H)\n16.Ryobi Geotechnique International Pte. Ltd. (UEN 200500891W)\n17.Singapore GP Pte. Ltd. (UEN 200707649N)\n18.Singapore Symphonia Company Limited (UEN 197801125M)\n19.Singapore Telecommunications Limited (UEN 199201624D)\n20.S L K Engineering & Consultants Pte. Ltd. (UEN 199701787E)\n21.SP Group Pte. Ltd. (UEN 201614777R)\n22.Starhub Mobile Pte Ltd (UEN 200000646C)\n23.The Esplanade Co Ltd (UEN 199205206G)\n24.T.K.H Lighting & Electrical Trading Pte. Ltd. (UEN 200210876N)\n25.Tribob.com Pte. Ltd. (UEN 200312749K)\n26.United E & P Pte. Ltd. (UEN 201319590G)\n27.Yew Ban Heng Construction Pte. Ltd. (UEN 201315191N)\n27A.Avex Asia Pte. Ltd. (UEN 201319631R)\n[S 960/2022 wef 17/12/2022]\n27B.Imagine+ Pte. Ltd. (UEN 201228503D)\n[S 192/2025 wef 26/03/2025]\nDivision 2 — Public Bodies or Agencies\n28.Energy Market Authority of Singapore\n29.Home Team Science and Technology Agency\n30.Info-communications Media Development Authority\n31.National Heritage Board\n32.National Parks Board\n33.People’s Association\n34.Public Utilities Board\n35.Singapore Armed Forces\n36.Singapore Police Force\n37.Singapore Land Authority\n[S 960/2022 wef 17/12/2022]\n38.Singapore Tourism Board\n[S 960/2022 wef 17/12/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Exemption for Use of Vehicle on Specified Footpath — Marina Bay) (No. 2) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

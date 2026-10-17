@@ -1,7 +1,7 @@
 {
  "id": "PH-H2149",
  "title": {
-  "zh": null,
+  "zh": "修订第1952号共和国法（题为“在阿克兰省Ibajay市镇设立Roxas纪念工艺与贸易学校并授权为此拨款”）的标题与第1条",
   "en": "An Act to Amend the Title and Section One of Republic Act Numbered Nineteen Hundred and Fifty-Two, Entitled “An Act to Establish the Roxas Memorial School of Arts and Trades in the Municipality of Ibajay, Province of Aklan, and to Authorize the Appropriation of Funds Therefor”",
   "orig": "An Act to Amend the Title and Section One of Republic Act Numbered Nineteen Hundred and Fifty-Two, Entitled “An Act to Establish the Roxas Memorial School of Arts and Trades in the Municipality of Ibajay, Province of Aklan, and to Authorize the Appropriation of Funds Therefor”"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend the Title and Section One of Republic Act Numbered Nineteen Hundred and Fifty-Two, Entitled “An Act to Establish the Roxas Memorial School of Arts and Trades in the Municipality of Ibajay, Province of Aklan, and to Authorize the Appropriation of Funds Therefor”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10034",
  "title": {
-  "zh": null,
+  "zh": "规定由公共工程与公路部全面修复和维护Kennon公路的法案",
   "en": "An Act Mandating the Full Rehabilitation and Maintenance of Kennon Road Under the Department of Public Works and Highways",
   "orig": "An Act Mandating the Full Rehabilitation and Maintenance of Kennon Road Under the Department of Public Works and Highways"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Mandating the Full Rehabilitation and Maintenance of Kennon Road Under the Department of Public Works and Highways",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

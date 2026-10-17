@@ -1,7 +1,7 @@
 {
  "id": "PH-H3965",
  "title": {
-  "zh": null,
+  "zh": "授予 Contact Philippines, Inc. 在菲律宾境内建设、安装和维护无线电寻呼站的特许经营权法案",
   "en": "An Act Granting Contact Philippines, Inc. a Franchise to Construct, Install and Maintain Radio Paging Stations Within the Philippines",
   "orig": "An Act Granting Contact Philippines, Inc. a Franchise to Construct, Install and Maintain Radio Paging Stations Within the Philippines"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Contact Philippines, Inc. a Franchise to Construct, Install and Maintain Radio Paging Stations Within the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

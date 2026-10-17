@@ -1,7 +1,7 @@
 {
  "id": "BN-S-56-2001-E-AIR-NAVIGATION-BIRTHS-DEATHS-AND-MISSING-826741",
  "title": {
-  "zh": null,
+  "zh": "航空导航航空器上出生、死亡与失踪人员条例 2001",
   "en": "AIR NAVIGATION BIRTHS DEATHS AND MISSING PERSONS ON AIRCRAFTS REGULATIONS 2001",
   "orig": null
  },
@@ -153,5 +153,13 @@
     "en": "Signature of informant and date Signature and rank of person completing record Date Made this 2nd. day of Jamadilawal, 1422 Hijriah corresponding to the 23rd. day of July, 2001.\n\nPEHIN ORANG KAYA AMAR PAHLAWAN DATO SERI SETIA\n\nAWANG HAJI ZAKARIA BIN DATU MAHAWANGSA HAJI SULAIMAN Minister of Communications, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "AIR NAVIGATION BIRTHS DEATHS AND MISSING PERSONS ON AIRCRAFTS REGULATIONS 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-13-2000-E-EMERGENCY-FIRE-SERVICE-ACT-AMENDMENT-ORDER-2000",
  "title": {
-  "zh": null,
+  "zh": "紧急消防服务法修正命令 2000",
   "en": "EMERGENCY FIRE SERVICE ACT AMENDMENT ORDER 2000",
   "orig": null
  },
@@ -167,5 +167,13 @@
     "en": "Section 20 of the Act is amended -Amendment of section 20. (a} by deleting \"of $1,200 and imprisonment for 6 months\" from the last two lines of subsection ( 1) and by substituting \"not exceeding $6,000, imprisonment for a term not exceeding 2 years or both\" therefor;\n\n(b) by adding the following two new subsections\"(4) No prosecution for any offence punishable under this Act or any regulations made thereunder shall be instituted except with the written sanction of the Public Prosecutor.\n\n(5) Prosecutions for offences punishable under this Act or any such regulations may be conducted by a member authorised in writing in that behalf by the Public Prosecutor.\". Insertion of 13. The Act is amended by inserting the following new section new section 21. immediately after section 20 - \"Application of 21. The provisions of this Act apply, subject to such Act and modifications as may be prescribed, to - regulations to vessels,· etc. (a} vessels remaining moored or on dry land, for such periods or in such circumstances as may be prescribed;\n\n(b) tents and other movable structures; {c) vessels or boats afloat or travelling within Brunei Darussalam;\n\n(d) any buildings built along a river.\". Addition of 14. The Act is amended by adding the following new Schedule - Fourth Schedule. \"FOURTH SCHEDULE jsection 17 A) FEES A. On registration of plans submitted: $5.00 each B. On processing and approval of new, resubmitted, altered or amended plans: Private dwelling house plan (bungalows, terrace houses, detached and semi-detached houses) $15.00 per unit Architectural, mechanical, electrical and fire-protection plans (commercial, factories, flats, hotels, offices and $50.00 per storey others) per building C. Inspection, testing and checking of fire-fighting equipment, per time: Automatic sprinkler $150.00 per system Wet riser $100.00 per system Dry riser $150.00 per system Fire-hose reel $50.00 per system Automatic detection system $100.00 per system Manual break-glass callpoint $50.00 per system · Portable fire extinguisher (excluding refill) $1.00 each Fixed installation system (C02, FM200, Inergen and others) $100.00 per system Smoke spill system $100.00 per system Firemen lifts $50.00 each Fire hydrant $15.00 each Firemen intercom communication system in a building $50.00 per system Fire dampers $10.00 each Fire door $1.00 each Standby generator $25.00 per system Emergency lighting and Exit $5.00 per storey signs per building Pressurised staircase $50.00 per system LPG (Liquefied Petroleum Gas) piping and/or Chlorination system $50.00 per system Escalator $50.00 per system Fire shutters $50.00 per building.\". IYfade this 20th. day of Syawal, 1420 Hijriah corresponding to the 27th. day of January, 2000 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "EMERGENCY FIRE SERVICE ACT AMENDMENT ORDER 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

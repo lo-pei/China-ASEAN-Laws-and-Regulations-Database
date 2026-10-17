@@ -1,7 +1,7 @@
 {
  "id": "SG-H3205",
  "title": {
-  "zh": null,
+  "zh": "商船（客轮检验）规则",
   "en": "Merchant Shipping (Survey of Passenger Steamers) Rules",
   "orig": null
  },
@@ -1723,5 +1723,13 @@
     "en": "FOURTH SCHEDULE\nRule 41(2)(c)\nMedical Register of Deaths"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Survey of Passenger Steamers) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

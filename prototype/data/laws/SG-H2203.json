@@ -1,7 +1,7 @@
 {
  "id": "SG-H2203",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 3 号）公告 2006",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 3) Notification 2006",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from tax the interest payable by Fratelli Cosulich Pte Ltd between 15th November 2005 and 15th November 2015 (both dates inclusive) to Fratelli Cosulich (Hong Kong) Ltd under the Loan Agreement dated 15th November 2005 in respect of the vessels “Maria Cosulich” and “Teresa Cosulich” and 2 other vessels with hull numbers SP0503 and SP0504.\n(2) The exemption is subject to conditions specified in the letter of approval dated 31st March 2006 addressed to Fratelli Cosulich Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 3) Notification 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

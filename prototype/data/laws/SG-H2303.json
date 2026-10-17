@@ -1,7 +1,7 @@
 {
  "id": "SG-H2303",
  "title": {
-  "zh": null,
+  "zh": "所得税（低分贝机器、设备或系统与有效噪声控制装置或工程噪声控制措施）规则",
   "en": "Income Tax (Low-Decibel Machine, Equipment or System and Effective Noise Control Device or Engineering Noise Control Measure) Rules",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nCategory of machine, equipment, system, device or measure\nQualifying Criteria\n1.Concrete crusher or splitter\nWhere the machine, equipment or system is an intrinsic or inherent part of the operation of any machine, equipment or system, the operator’s noise exposure must be 82 dB(A) or below.\n2.Plastic granulator or crusher\n3.Automatic sawing machine\n4.Metal press or stamping machine\n5.Machine with active noise control feature\n6.Any other machine, equipment or system\n7.Acoustic enclosure for machine, equipment or process\nWhere the noise control device is a distinct entity or accessory and not an intrinsic part of the operation of any machine, equipment or system and where it is installed —\n(a)on a new machine, equipment or system, the operator’s noise exposure must be 82 dB(A) or below; or\n(b)on an existing machine, equipment or system, the operator’s noise exposure must be reduced from above 85 dB(A) to 82 dB(A) or below.\n8.Acoustic silencer or muffler\n9.Vibration absorption, isolation or damping device\n10.Active noise control device\n11.Detachable personnel acoustic enclosure\nThe engineering noise control measure for any existing machine, equipment or process must reduce the operator’s noise exposure from above 85 dB(A) to 82 dB(A) or below.\n12.Acoustic barrier or shield\n13.Acoustic absorption measure to reduce noise reverberation\n14.Modification to machines, equipment or processes to minimise noise emission"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Low-Decibel Machine, Equipment or System and Effective Noise Control Device or Engineering Noise Control Measure) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1729",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（疗养院服务）条例 2023",
   "en": "Healthcare Services (Nursing Home Service) Regulations 2023",
   "orig": null
  },
@@ -752,5 +752,13 @@
     "en": "THE SCHEDULE\nRegulation 4\nSpecified services\n1. The following are specified services for a nursing home service:\n(a)blood transfusion service;\n(b)collaborative prescribing service;\n(c)hospice service.\n2. In this Schedule, “blood transfusion service” means —\n(a)the collection of whole blood, or blood component or product that is derived from plasma, red blood cells, white blood cells or platelets from an individual for the purpose of administering it to that individual (as a patient) or another patient;\n(b)the administration to a patient, by bolus injection or continuous infusion, of either or both of the following, whether obtained from the patient or one or more other individuals:\n(i)whole blood;\n(ii)any blood component or product that is derived from plasma, red blood cells, white blood cells or platelets; and\n(c)the temporary storage of any whole blood, or blood component or product that is derived from plasma, red blood cells, white blood cells or platelets for the purpose mentioned in sub‑paragraph (a) or (b)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (Nursing Home Service) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

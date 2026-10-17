@@ -1,7 +1,7 @@
 {
  "id": "PH-H1413",
  "title": {
-  "zh": null,
+  "zh": "将杜马格特市东内格罗斯职业学校改设为区域工艺与贸易学校，名称为东米沙鄢工艺与贸易学校，并授权为此拨款的法案",
   "en": "An Act to Convert the Negros Oriental Trade School in the City of Dumaguete into a Regional School of Arts and Trades, to be Known as East Visayan School of Arts and Trades and to Authorize the Appropriation of Funds for the Purpose",
   "orig": "An Act to Convert the Negros Oriental Trade School in the City of Dumaguete into a Regional School of Arts and Trades, to be Known as East Visayan School of Arts and Trades and to Authorize the Appropriation of Funds for the Purpose"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Negros Oriental Trade School in the City of Dumaguete into a Regional School of Arts and Trades, to be Known as East Visayan School of Arts and Trades and to Authorize the Appropriation of Funds for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

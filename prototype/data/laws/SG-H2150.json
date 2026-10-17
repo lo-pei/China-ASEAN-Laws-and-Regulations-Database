@@ -1,7 +1,7 @@
 {
  "id": "SG-H2150",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术发展利息及其他付款的豁免）（第 2 号）公告 2012",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 2) Notification 2012",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "10.—(1) The exemption under paragraph 3, 4, 5, 6, 7, 7A, 7B, 8 or 9 only applies to a qualifying amount —\n(a)in connection with any loan or indebtedness or with any arrangement, management, guarantee or service relating to any loan or indebtedness; or\n(b)derived from any loan,\nas the case may be, which is taken, incurred or procured for the purpose of facilitating an investment activity of the payer referred to in that paragraph.\n[S 708/2024 wef 12/09/2024]\n(2) For the avoidance of doubt, the exemption under paragraph 3, 4, 5, 6, 7, 7A, 7B, 8 or 9 shall not apply to a qualifying amount —\n(a)in connection with any loan or indebtedness or with any arrangement, management, guarantee or service relating to any loan or indebtedness; or\n(b)derived from any loan,\nas the case may be, which is taken, incurred or procured for the purpose of making a dividend payment, a distribution to any beneficiary or unitholder of a trust fund, a payment pursuant to a share buyback or share capital reduction, or other similar payment.\n[S 708/2024 wef 12/09/2024]\n(3) An exemption under paragraph 3, 4, 5, 6, 7, 7A, 7B, 8 or 9 shall not apply to any payment made in connection with an arrangement referred to in section 33(1) of the Act.\n[S 708/2024 wef 12/09/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 2) Notification 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

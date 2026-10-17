@@ -1,7 +1,7 @@
 {
  "id": "PH-H1985",
  "title": {
-  "zh": null,
+  "zh": "修订《修订行政法典》第61章，使高山省学校司长兼任碧瑶市学校督学的法案",
   "en": "An Act Amending Chapter Sixty-One of the Revised Administrative Code so as to Make the Division Superintendent of Schools of the Mountain Province Ex-Officio Superintendent of City Schools of Baguio",
   "orig": "An Act Amending Chapter Sixty-One of the Revised Administrative Code so as to Make the Division Superintendent of Schools of the Mountain Province Ex-Officio Superintendent of City Schools of Baguio"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Chapter Sixty-One of the Revised Administrative Code so as to Make the Division Superintendent of Schools of the Mountain Province Ex-Officio Superintendent of City Schools of Baguio",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

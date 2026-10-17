@@ -1,7 +1,7 @@
 {
  "id": "PH-H5592",
  "title": {
-  "zh": null,
+  "zh": "菲律宾语言委员会法",
   "en": "Commission on the Filipino Language Act",
   "orig": "Commission on the Filipino Language Act An Act Creating the Commission on the Filipino Language, Prescribing its Powers, Duties and Functions, and for Other Purposes"
  },
@@ -250,5 +250,13 @@
     "en": "Effectivity. – This Act shall take effect after fifteen (15) days following its complete publication in the Official Gazette or in one (1) newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Commission on the Filipino Language Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

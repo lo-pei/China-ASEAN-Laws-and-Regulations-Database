@@ -1,7 +1,7 @@
 {
  "id": "SG-H118",
  "title": {
-  "zh": null,
+  "zh": "司法管理（保护）（禁止发布指示）规则 2017",
   "en": "Administration of Justice (Protection) (Non‑Publication Directions) Rules 2017",
   "orig": null
  },
@@ -191,5 +191,13 @@
     "en": "THE SCHEDULE\nForms\nFORM 1\nRule 4\nADMINISTRATION OF JUSTICE\n(PROTECTION) ACT 2016\nNON-PUBLICATION DIRECTION\nTo:\n[State the name of publisher or identify the publisher in accordance with rule 5.]\nThis is a non‑publication direction under the Administration of Justice (Protection) Act 2016. The Attorney‑General is giving this direction to you because you published the matter described in Section B below. If you fail to comply with this direction without reasonable excuse, you are committing an offence and the maximum punishment is a fine of $20,000 or 12 months’ imprisonment or both.\nA. Direction\n[State the direction given.]\nB. Matter\n[Describe the offending matter in accordance with rule 6.]\nC. Start date\nThis direction takes effect from *[date] / the date it is served on you.\n* Delete whichever is not applicable.\nD. Conditions / Exceptions\n[Specify any exceptions or conditions, including any end date. Put “N/A” if no conditions or exceptions are specified.]\nE. Permission of court\nThis direction is made with the permission of court (copy attached).\nF. Setting aside or variation\nYou can apply to court to set aside or vary this direction within 14 days (or such longer period as the court may allow) after this direction is served on you.\nAn application to set aside or vary this direction can be made on the grounds set out in section 13(10) of the Act.\nAn application to set aside or vary this direction does not operate as a stay of this direction.\n[Signature]\nName:\nDesignation:\nDate:\nFORM 2\nRules 8(1),\n10(2)(a)\nand 11(2)(c)\nADMINISTRATION OF JUSTICE\n(PROTECTION) ACT 2016\nSUSPENSION OF\nNON-PUBLICATION DIRECTION\nTo:\n[State the name of publisher or identify the publisher in accordance with rule 5.]\nA. Suspension of non-publication direction\nThis is to inform you that the Attorney‑General has suspended the non‑publication direction dated [date] (copy attached). [Give details of the suspension]\n*B. End of suspension\nUpon the end of the suspension in Section A, you must continue to comply with the non‑publication direction.\n* Delete this section if the suspension is indefinite.\n[Signature]\nName:\nDesignation:\nDate:\nFORM 3\nRules 8(2),\n10(1)(a)\nand 11(2)(c)\nADMINISTRATION OF JUSTICE\n(PROTECTION) ACT 2016\nCANCELLATION OF\nNON-PUBLICATION DIRECTION\nTo:\n[State the name of publisher or identify the publisher in accordance with rule 5.]\nThis is to inform you that the Attorney‑General has cancelled the non‑publication direction dated [date] (copy attached) with effect from [date].\n[Signature]\nName:\nDesignation:\nDate:\nFORM 4\nRule 10(2)(b)(iv)\nADMINISTRATION OF JUSTICE\n(PROTECTION) ACT 2016\nNOTICE OF RESUMPTION OF\nNON‑PUBLICATION DIRECTION\nTo:\n[State the name of publisher or identify the publisher in accordance with rule 5.]\nThis is to inform you that the Attorney-General has terminated the suspension of the non‑publication direction that was served on you on [date] (copy attached).\nYou must continue to comply with the non-publication direction once this notice is served on you.\n[Signature]\nName:\nDesignation:\nDate:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Administration of Justice (Protection) (Non‑Publication Directions) Rules 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

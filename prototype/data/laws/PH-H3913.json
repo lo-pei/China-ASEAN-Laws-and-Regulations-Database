@@ -1,7 +1,7 @@
 {
  "id": "PH-H3913",
  "title": {
-  "zh": null,
+  "zh": "授权拨款25000比索援助伊洛伊洛省New Lucena市镇购置市政厅与公共广场占用场地，包括该场地的改良",
   "en": "An Act Authorizing the Appropriation of Twenty-Five Thousand Pesos as Aid to the Municipality of New Lucena, Province of Iloilo, for the Purchase of the Site Occupied by the Town Hall and Public Plaza, Including the Improvement of Said Site",
   "orig": "An Act Authorizing the Appropriation of Twenty-Five Thousand Pesos as Aid to the Municipality of New Lucena, Province of Iloilo, for the Purchase of the Site Occupied by the Town Hall and Public Plaza, Including the Improvement of Said Site"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of Twenty-Five Thousand Pesos as Aid to the Municipality of New Lucena, Province of Iloilo, for the Purchase of the Site Occupied by the Town Hall and Public Plaza, Including the Improvement of Said Site",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

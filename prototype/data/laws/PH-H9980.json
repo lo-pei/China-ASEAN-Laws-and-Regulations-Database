@@ -1,7 +1,7 @@
 {
  "id": "PH-H9980",
  "title": {
-  "zh": null,
+  "zh": "将马京达瑙省划分为两个（2）省，即北马京达瑙省与南马京达瑙省的法案",
   "en": "An Act Dividing the Province of Maguindanao Into Two (2) Provinces, Namely: Maguindanao Del Norte and Maguindanao Del Sur",
   "orig": "An Act Dividing the Province of Maguindanao Into Two (2) Provinces, Namely: Maguindanao Del Norte and Maguindanao Del Sur"
  },
@@ -663,5 +663,13 @@
     "en": "Officials of the Newly Created Provinces. - (a) The elective officials of the newly created provinces shall be elected on the second Monday of May 2022 national and local elections: Provided, That if this Act is approved and ratified within six (6) months or more prior to the 2022 national and local elections, the vice governor and the next ranking elective member of the sangguniang panlalawigan of the present Province of Maguindanao, who are residents of the new Maguindanao del Norte shall assume as its acting governor and acting vice governor, respectively, and both shall continue to serve in office until their successors shall have been elected and qualified in the 2022 national and local elections.\n(b) The other members of the sangguniang panlalawigan shall be appointed by the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Dividing the Province of Maguindanao Into Two (2) Provinces, Namely: Maguindanao Del Norte and Maguindanao Del Sur",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

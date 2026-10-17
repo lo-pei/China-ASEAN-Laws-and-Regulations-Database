@@ -1,7 +1,7 @@
 {
  "id": "SG-H1898",
  "title": {
-  "zh": null,
+  "zh": "移民（临时认可出入境地点——2024 年新加坡航空展）公告 2024",
   "en": "Immigration (Temporary Authorised Place of Entry and Departure — Singapore Airshow 2024) Notification 2024",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nRates\n1. For an ICA senior officer — $65 for every hour or part of an hour\n2. For an ICA specialist — $40 for every hour or part of an hour"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Immigration (Temporary Authorised Place of Entry and Departure — Singapore Airshow 2024) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4822",
  "title": {
-  "zh": null,
+  "zh": "禁止特定危害民用航空行为的法案，并为其他目的",
   "en": "An Act Prohibiting Certain Acts Inimical to Civil Aviation, and for Other Purposes.",
   "orig": "An Act Prohibiting Certain Acts Inimical to Civil Aviation, and for Other Purposes."
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect after the publication mentioned in the preceding section.\nApproved: June 19, 1971"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prohibiting Certain Acts Inimical to Civil Aviation, and for Other Purposes.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

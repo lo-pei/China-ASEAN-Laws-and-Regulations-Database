@@ -1,0 +1,72 @@
+{
+ "id": "BN-S-44-1984-E-MERCHANT-SHIPPING-APPOINTMNET-OF-CERTIFYI-E16B4C",
+ "title": {
+  "zh": "商船（核证机构指定）条例 1984，经 S 76 2007 撤销",
+  "en": "MERCHANT SHIPPING APPOINTMNET OF CERTIFYING AUTHORITY REGNS 1984 REVOKED BY S 76 2007",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p29",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 1335,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-44-1984-E-MERCHANT-SHIPPING-APPOINTMNET-OF-CERTIFYING-AUTHORITY-REGNS-1984-REVOKED-BY-S-76-2007.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-44-1984-E-MERCHANT-SHIPPING-APPOINTMNET-OF-CERTIFYING-AUTHORITY-REGNS-1984-REVOKED-BY-S-76-2007.pdf》（1 页），本次切分 2 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-44-1984-E-MERCHANT-SHIPPING-APPOINTMNET-OF-CERTIFYI-E16B4C-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "These Regulations may be cited as the Merchant Shipping Citation and (Appointment of Certifying Authority) Regulations, 1984, and shall be commence· deemed to have come into force on 29th. September, 1984. ment."
+   }
+  },
+  {
+   "id": "BN-S-44-1984-E-MERCHANT-SHIPPING-APPOINTMNET-OF-CERTIFYI-E16B4C-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "(1) The persons or organisations specified in the Schedule are Afpointment hereby appointed to be the Certifying Authority for the purposes of o Certifying surveying ships and issuing certificates under the provisions of the Authority. Merchant Shipping (Safety Convention) Regulations, 1984 ; the Merchant Shipping (Load Line) Regulations, 1984 ; the Merchant Shipping (Special Limits Passenger Ships) Safety Regulations, 1984 ; and the Merchant Shipping (Non Convention Ships) Safety Regulations, 1984.\n\n(2) No person or organisation shall act as a Certifying Authority unless appointed under these Regulations.\n\n(3) A certificate issued by any organisation appointed under paragraph (1) of this Regulation shall have effect for the purposes of these Regulations as if it had been issued by the Minister.\n\nSCHEDULE The Director of Marine The American Bureau of Shipping The Bureau Veritas Det Norske Veritas Lloyd's Register of Shipping Germanischer Lloyds Nippon Kaiji Kyokai Made this 8th. day of December, 1984.\n\nBY COMMAND,\n\nPENGIRAN BAHRIN (Pengiran Laila Kanun Diraja), Minister of Communications, Brunei Darussalam."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MERCHANT SHIPPING APPOINTMNET OF CERTIFYING AUTHORITY REGNS 1984 REVOKED BY S 76 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

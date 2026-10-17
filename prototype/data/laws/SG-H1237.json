@@ -1,7 +1,7 @@
 {
  "id": "SG-H1237",
  "title": {
-  "zh": null,
+  "zh": "雇佣（认可医疗机构）公告 2008",
   "en": "Employment (Approved Medical Institutions) Notification 2008",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nApproved Medical Institutions\n1. Alexandra Hospital\n2. Changi General Hospital\n3. Institute of Mental Health/Woodbridge Hospital\n4. Jurong Medical Centre\n5. KK Women’s and Children’s Hospital\n6. National Cancer Centre\n7. National Dental Centre\n8. National Heart Centre\n9. National Neuroscience Institute\n10. National Skin Centre\n11. National University Hospital\n12. NHG Eye Institute\n13. Singapore General Hospital\n14. Singapore National Eye Centre\n15. Tan Tock Seng Hospital\n16. Admiralty Medical Centre\n[S 130/2018 wef 08/03/2018]\n17. All polyclinics under the National University Health System\n[S 130/2018 wef 08/03/2018]\n18. All polyclinics under the National Healthcare Group\n19. All polyclinics under the Singapore Health Services\n20. Khoo Teck Puat Hospital\n[S 313/2010 wef 24/06/2010]\n[S 777/2015 wef 22/12/2015]\n21. Ng Teng Fong General Hospital\n[S 777/2015 wef 22/12/2015]\n22. Ang Mo Kio — Thye Hua Kwan Hospital\n[S 822/2018 wef 17/12/2018]\n23. Bright Vision Hospital\n[S 822/2018 wef 17/12/2018]\n24. Ren Ci Community Hospital\n[S 822/2018 wef 17/12/2018]\n25. Jurong Community Hospital\n[S 822/2018 wef 17/12/2018]\n26. St. Andrew’s Community Hospital\n[S 822/2018 wef 17/12/2018]\n27. St Luke’s Hospital\n[S 822/2018 wef 17/12/2018]\n28. Yishun Community Hospital\n[S 822/2018 wef 17/12/2018]\n29. Sengkang Community Hospital\n[S 822/2018 wef 17/12/2018]\n30. Sengkang General Hospital\n[S 822/2018 wef 17/12/2018]\n31. National Centre for Infectious Diseases\n[S 822/2018 wef 17/12/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Employment (Approved Medical Institutions) Notification 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

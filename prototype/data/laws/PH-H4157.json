@@ -1,7 +1,7 @@
 {
  "id": "PH-H4157",
  "title": {
-  "zh": null,
+  "zh": "授予 Asiatic Integrated 公司在 Mariveles 港建设、运营和维护私人码头与泊位的特许经营权法案",
   "en": "An Act Granting a Franchise to the Asiatic Integrated Corporation to Construct, Operate and Maintain Private Piers and Wharves in the Port of Mariveles",
   "orig": "An Act Granting a Franchise to the Asiatic Integrated Corporation to Construct, Operate and Maintain Private Piers and Wharves in the Port of Mariveles"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting a Franchise to the Asiatic Integrated Corporation to Construct, Operate and Maintain Private Piers and Wharves in the Port of Mariveles",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

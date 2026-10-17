@@ -1,7 +1,7 @@
 {
  "id": "BN-S-21-2003-NOTICE-OF-AMENDMENT-ON-THE-GRANTING-OF-MINE-615F12",
  "title": {
-  "zh": null,
+  "zh": "苏丹陛下授予矿权修订通知",
   "en": "NOTICE OF AMENDMENT ON THE GRANTING OF MINERAL RIGHTS BY HIS MAJESTY THE SULTAN AND YANG DI PERTUAN",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 21\n\nBRUNEI NATIONAL PETROLEUM COMPANY\n\nSENDIRIAN BERHAD ORDER, 2002 (S 6/2002) Notice of amendment of the granting of mineral rights by His Majesty the Sultan and Yang Di-Pertuan in Council pursuant to section 3(1) It is hereby notified that His Majesty the Sultan and Yang Di-Pertuan in Council has, pursuant to subsection !1) of section 3, on the 14th. day of April, 2003 amended the designated area referred to as Block K by deleting the coordinates referred to as - ~..-I \" _K_o_1 _ ___, __ 3_7 4_,_oo_o_.o_o_o _ ____.__6_3_o_,o_o_o_.o_oo _ ___,l \" and by substituting ~..-I K_o_1 __ ~ ___ 3_73_,_9o_1_.7_s_o __ ~ ___ 6_3_o_,o_o_o._o_oo __ ~ \"therefor. \" _ _ _ Dated this 14th. day of April, 2003.\n\nPEHIN ORANG KAYA PEKERMA JAYA\n\nDATO PADUKA HAJI JUDIN BIN HAJI ASAR Clerk to the Council of Ministers, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTICE OF AMENDMENT ON THE GRANTING OF MINERAL RIGHTS BY HIS MAJESTY THE SULTAN AND YANG DI PERTUAN",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

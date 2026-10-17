@@ -1,7 +1,7 @@
 {
  "id": "PH-H5684",
  "title": {
-  "zh": null,
+  "zh": "将布拉干省圣何塞德尔蒙特市镇萨庞帕莱区医院床位由五十（50）张增至七十五（75）张的法案",
   "en": "An Act Increasing the Bed Capacity of the Sapang Palay District Hospital in the Municipality of San Jose Del Monte, Province of Bulacan, From Fifty (50) to Seventy-five (75) Beds",
   "orig": "An Act Increasing the Bed Capacity of the Sapang Palay District Hospital in the Municipality of San Jose Del Monte, Province of Bulacan, From Fifty (50) to Seventy-five (75) Beds"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Sapang Palay District Hospital in the Municipality of San Jose Del Monte, Province of Bulacan, From Fifty (50) to Seventy-five (75) Beds",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

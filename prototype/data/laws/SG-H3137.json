@@ -1,7 +1,7 @@
 {
  "id": "SG-H3137",
  "title": {
-  "zh": null,
+  "zh": "药品（禁止销售、供应与进口）命令",
   "en": "Medicines (Prohibition of Sale, Supply and Importation) Order",
   "orig": null
  },
@@ -123,5 +123,13 @@
     "en": "SECOND SCHEDULE\nParagraph 5(a)\nPoisons allowed in Chinese\nproprietary medicines\nFirst column\nSecond column\nSubstance\nLimit or condition allowed\n1.Boric acid; sodium borate\nNot more than 5% boric acid, or 5% sodium borate or 5% of a combination of both\n2.Ephedra, alkaloids of\n< 1%\n3.Lobelia, alkaloids of\n< 0.1%\n4.Lovastatin\n< 1%\n5.Pomegranate, alkaloids of\nAs pomegranate bark only\n6.Berberine; its quarternary compounds; their salts\nNo limit\n7.Tetrahydropalmatine; its isomers; their salts\nContainer of the Chinese proprietary medicine to be labelled with a recommended dosage of the medicine containing not more than 19 mg of the substance per day\n8.Aconite, alkaloids of\nContainer of the Chinese proprietary medicine to be labelled with a recommended dosage of the medicine containing not more than 60 mcg of the substance per day\n9.Amygdalin\nNo limit\n10.Methoxsalen\nNo limit\n11.Phenethylamine; its salts\n≤ 300 ppm\n[S 563/2022 wef 01/08/2022]\n[S 215/2018 wef 01/06/2018]\n[S 711/2012 wef 01/01/2013]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Medicines (Prohibition of Sale, Supply and Importation) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

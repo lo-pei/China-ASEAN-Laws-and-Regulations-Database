@@ -1,7 +1,7 @@
 {
  "id": "SG-H2159",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发利息及其他付款豁免）（第 3 号）公告 2013",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 3) Notification 2013",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from tax the interest payable by BOC Aviation Pte. Ltd. to Arcu Aircraft Leasing Limited under —\n(a)the Aircraft Head Lease dated 31st December 2009 in respect of one Airbus A320‑200 aircraft with Manufacturer’s Serial Number 4066, in the period from 23rd December 2012 to 22nd March 2013 (both dates inclusive); and\n(b)the Aircraft Head Lease dated 31st December 2009 in respect of one Airbus A320‑200 aircraft with Manufacturer’s Serial Number 4077, in the period from 5th May 2013 to 21st May 2013 (both dates inclusive).\n(2) The exemption under sub‑paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 3rd July 2013 addressed to BOC Aviation Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 3) Notification 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

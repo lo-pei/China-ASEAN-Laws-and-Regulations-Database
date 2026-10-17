@@ -1,7 +1,7 @@
 {
  "id": "PH-H204",
  "title": {
-  "zh": null,
+  "zh": "规定对公有土地的不完全或不完整产权可经司法确认的新期限，为此修订《公共土地法》第45条与第47条（经第292号联邦法修正）的法案",
   "en": "An Act Setting a New Time Limit Within Which Imperfect or Incomplete Titles Covering Lands of the Public Domain May be Judicially Confirmed, Amending for This Purpose Sections Forty-Five and Forty-Seven of the Public Land Act, as Amended by Commonwealth Act Numbered Two Hundred and Ninety-Two",
   "orig": "An Act Setting a New Time Limit Within Which Imperfect or Incomplete Titles Covering Lands of the Public Domain May be Judicially Confirmed, Amending for This Purpose Sections Forty-Five and Forty-Seven of the Public Land Act, as Amended by Commonwealth Act Numbered Two Hundred and Ninety-Two"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval, but the benefits thereunder shall accrue to persons who, prior thereto, have lost Philippine citizenship under the provisions of Commonwealth Act Numbered Sixty-three but come within the proviso of paragraph (4) of section one of said Act as herein amended.\nApproved: June 2, 1947"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Setting a New Time Limit Within Which Imperfect or Incomplete Titles Covering Lands of the Public Domain May be Judicially Confirmed, Amending for This Purpose Sections Forty-Five and Forty-Seven of the Public Land Act, as Amended by Commonwealth Act Numbered Two Hundred and Ninety-Two",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H710",
  "title": {
-  "zh": null,
+  "zh": "授予 A. L. Ammen 运输公司及其关联公司与子公司建设、安装、设立和运营私人固定点对点与陆基无线电台的临时许可法案",
   "en": "An Act Granting to A. L. Ammen Transportation Company, Incorporated, And/Or Its Associates and Subsidiaries,A Temporary Permit to Construct, Install, Establish and Operate Private Fixed Point-to-point and Land-based Radio Stations for the Reception and Transmission of Inter-office Radio Communications Within the Philippines",
   "orig": "An Act Granting to A. L. Ammen Transportation Company, Incorporated, And/Or Its Associates and Subsidiaries,A Temporary Permit to Construct, Install, Establish and Operate Private Fixed Point-to-point and Land-based Radio Stations for the Reception and Transmission of Inter-office Radio Communications Within the Philippines"
  },
@@ -160,5 +160,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting to A. L. Ammen Transportation Company, Incorporated, And/Or Its Associates and Subsidiaries,A Temporary Permit to Construct, Install, Establish and Operate Private Fixed Point-to-point and Land-based Radio Stations for the Reception and Transmission of Inter-office Radio Communications Within the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

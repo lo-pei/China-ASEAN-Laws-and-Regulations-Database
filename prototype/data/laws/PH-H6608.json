@@ -1,7 +1,7 @@
 {
  "id": "PH-H6608",
  "title": {
-  "zh": null,
+  "zh": "授予 GVM 广播及电视公司在宿务市及菲律宾其他频率仍可用地区为宗教、教育与商业目的运营广播电视站的特许经营权法案",
   "en": "An Act Granting GVM Radio/TV Corporation a Franchise to Construct, Operate and Maintain Stations for Radio and Television in Cebu City and Other Areas in the Philippines Where Frequencies And/Or Channels Are Still Available for Radio and Television Broadcasting for Religious, Educational and Cultural, as Well as for Commercial Purposes",
   "orig": "An Act Granting GVM Radio/TV Corporation a Franchise to Construct, Operate and Maintain Stations for Radio and Television in Cebu City and Other Areas in the Philippines Where Frequencies And/Or Channels Are Still Available for Radio and Television Broadcasting for Religious, Educational and Cultural, as Well as for Commercial Purposes"
  },
@@ -192,5 +192,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting GVM Radio/TV Corporation a Franchise to Construct, Operate and Maintain Stations for Radio and Television in Cebu City and Other Areas in the Philippines Where Frequencies And/Or Channels Are Still Available for Radio and Television Broadcasting for Religious, Educational and Cultural, as Well as for Commercial Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

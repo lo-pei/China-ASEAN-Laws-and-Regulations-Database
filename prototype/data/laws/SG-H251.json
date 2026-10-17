@@ -1,7 +1,7 @@
 {
  "id": "SG-H251",
  "title": {
-  "zh": null,
+  "zh": "仲裁（国际投资争端）规则",
   "en": "Arbitration (International Investment Disputes) Rules",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. An application by the judgment debtor under rule 6 shall be made by summons and supported by affidavit."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Arbitration (International Investment Disputes) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3770",
  "title": {
-  "zh": null,
+  "zh": "将奎松省奥罗拉分省Dilasag市镇区改设为市镇的法案",
   "en": "An Act Converting the Municipal District of Dilasag in the Subprovince of Aurora, Province of Quezon, into a Municipality",
   "orig": "An Act Converting the Municipal District of Dilasag in the Subprovince of Aurora, Province of Quezon, into a Municipality"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Municipal District of Dilasag in the Subprovince of Aurora, Province of Quezon, into a Municipality",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

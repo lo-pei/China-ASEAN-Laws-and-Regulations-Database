@@ -1,7 +1,7 @@
 {
  "id": "PH-H5009",
  "title": {
-  "zh": null,
+  "zh": "修订第4055号共和国法（即《将新比斯开省Bayombong市镇新比斯开国立农业学校改设为学院、名为新比斯开农学院并授权为此拨款法》）第1条的法案",
   "en": "An Act Amending Section One of Republic Act Numbered Forty Hundred Fifty-Five, Entitled \"An Act Converting the Nueva Vizcaya National Agricultural School in the Municipality of Bayombong, Province of Nueva Vizcaya, Into a College to Be Known as Nueva Vizcaya Agricultural College, and Authorizing the Appropriation of Funds Therefor.\"",
   "orig": "An Act Amending Section One of Republic Act Numbered Forty Hundred Fifty-Five, Entitled \"An Act Converting the Nueva Vizcaya National Agricultural School in the Municipality of Bayombong, Province of Nueva Vizcaya, Into a College to Be Known as Nueva Vizcaya Agricultural College, and Authorizing the Appropriation of Funds Therefor.\""
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, July 1, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section One of Republic Act Numbered Forty Hundred Fifty-Five, Entitled \"An Act Converting the Nueva Vizcaya National Agricultural School in the Municipality of Bayombong, Province of Nueva Vizcaya, Into a College to Be Known as Nueva Vizcaya Agricultural College, and Authorizing the Appropriation of Funds Therefor.\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

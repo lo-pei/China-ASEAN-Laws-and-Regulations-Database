@@ -1,7 +1,7 @@
 {
  "id": "PH-H667",
  "title": {
-  "zh": null,
+  "zh": "规定设立国家就业服务机构的法案",
   "en": "An Act to Provide for the Organization of a National Employment Service",
   "orig": "An Act to Provide for the Organization of a National Employment Service"
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity. - This Act shall take effect on its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Organization of a National Employment Service",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

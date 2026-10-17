@@ -1,7 +1,7 @@
 {
  "id": "PH-H4253",
  "title": {
-  "zh": null,
+  "zh": "授予 Lipa 电力公司在八打雁省 Padre Garcia 市镇与 Lipa 市经营电灯、热力与动力系统的特许权法案",
   "en": "An Act Granting Lipa Electric Company, Incorporated a Franchise to Install, Operate and Maintain an Electric Light, Heat and Power System in the Municipality of Padre Garcia, Province of Batangas, and in the City of Lipa",
   "orig": "An Act Granting Lipa Electric Company, Incorporated a Franchise to Install, Operate and Maintain an Electric Light, Heat and Power System in the Municipality of Padre Garcia, Province of Batangas, and in the City of Lipa"
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 30, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Lipa Electric Company, Incorporated a Franchise to Install, Operate and Maintain an Electric Light, Heat and Power System in the Municipality of Padre Garcia, Province of Batangas, and in the City of Lipa",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

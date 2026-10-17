@@ -1,7 +1,7 @@
 {
  "id": "PH-H3986",
  "title": {
-  "zh": null,
+  "zh": "规范向政府拥有或控制的公司、企业、机构或市政公司供应或由其采购材料、设备、货物与商品的合同授予，并规定违反行为处罚的法案",
   "en": "An Act Regulating the Award of Contracts for the Supply to, or Procurement By, Any Government-Owned or Controlled Corporation, Company, Agency or Municipal Corporation of Materials, Equipment, Goods and Commodities, and Providing Penalty for the Violation Thereof",
   "orig": "An Act Regulating the Award of Contracts for the Supply to, or Procurement By, Any Government-Owned or Controlled Corporation, Company, Agency or Municipal Corporation of Materials, Equipment, Goods and Commodities, and Providing Penalty for the Violation Thereof"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 8, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Regulating the Award of Contracts for the Supply to, or Procurement By, Any Government-Owned or Controlled Corporation, Company, Agency or Municipal Corporation of Materials, Equipment, Goods and Commodities, and Providing Penalty for the Violation Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

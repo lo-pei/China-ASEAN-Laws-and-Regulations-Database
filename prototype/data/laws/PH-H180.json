@@ -1,7 +1,7 @@
 {
  "id": "PH-H180",
  "title": {
-  "zh": null,
+  "zh": "修订联邦法第 466 号（经修正）第 21 至 24、27、29、30、34、53、54 条并废止第 84 条第(U)款的法案",
   "en": "An Act to Amend Sections Twenty-One, Twenty-Two, Twenty-Three, Twenty-Four, Twenty-Seven, Twenty-Nine, Thirty, Thirty-Four, Fifty-Three, Fifty-Four, and to Repeal Subsection (U) of Section Eighty-Four of Commonwealth Act Numbered Four Hundred and Sixty-Six, as Amended",
   "orig": "An Act to Amend Sections Twenty-One, Twenty-Two, Twenty-Three, Twenty-Four, Twenty-Seven, Twenty-Nine, Thirty, Thirty-Four, Fifty-Three, Fifty-Four, and to Repeal Subsection (U) of Section Eighty-Four of Commonwealth Act Numbered Four Hundred and Sixty-Six, as Amended"
  },
@@ -160,5 +160,13 @@
     "en": "The provisions of this Act shall apply to income received from January first nineteen hundred and forty-six: Provided, However, That the repeal of provisions of Commonwealth Act Numbered Four hundred and sixty-six, as amended, having reference to the United States, its citizens and corporations, shall take effect as of July fourth, nineteen hundred and forty-six.\nApproved: October 21, 1946."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Twenty-One, Twenty-Two, Twenty-Three, Twenty-Four, Twenty-Seven, Twenty-Nine, Thirty, Thirty-Four, Fifty-Three, Fifty-Four, and to Repeal Subsection (U) of Section Eighty-Four of Commonwealth Act Numbered Four Hundred and Sixty-Six, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

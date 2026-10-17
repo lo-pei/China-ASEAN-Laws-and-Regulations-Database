@@ -1,7 +1,7 @@
 {
  "id": "PH-H4269",
  "title": {
-  "zh": null,
+  "zh": "修订第5448号共和国法第3条的法案",
   "en": "An Act Amending Section Three of Republic Act Numbered Five Thousand Four Hundred and Forty-Eight.",
   "orig": "An Act Amending Section Three of Republic Act Numbered Five Thousand Four Hundred and Forty-Eight."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect as of January 1, 1969: Provided, That owners of private passenger automobiles, motorcycles, scooters or jeeps who may have paid amounts in excess of the rates hereinabove prescribed shall, upon Commission which issued the official receipt covering such excess payment, be entitled to the credit of such amount to the payment of motor vehicle registration fees under R.A. 5448 for the subsequent years: Provided, further , That the Science Tax on motor vehicles, including the fees on motor vehicles for year nineteen hundred sixty-nine, shall be paid not later than July 15, 1969.\nApproved: May 30, 1969"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Three of Republic Act Numbered Five Thousand Four Hundred and Forty-Eight.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

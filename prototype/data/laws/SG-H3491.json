@@ -1,7 +1,7 @@
 {
  "id": "SG-H3491",
  "title": {
-  "zh": null,
+  "zh": "议员养恤金（废除）法 2012",
   "en": "Parliamentary Pensions (Abolition) Act 2012",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nSection 5(2)\nSaving and transitional provisions\nDefinition\n1. In this Schedule, “repealed Act” means the Parliamentary Pensions Act 1978 repealed by the Parliamentary Pensions (Abolition) Act 2012.\nPension or gratuity not assignable\n2. A pension or gratuity granted under the repealed Act is not assignable or transferable, except for the purpose of satisfying —\n(a)a debt due to the Government; or\n(b)an order of any court for the payment of periodical sums of money towards the maintenance of the spouse or former spouse or minor child, whether legitimate or not, of the person to whom the pension has been granted,\nand is not liable to be attached, sequestered or levied upon for or in respect of any debt or claim whatever except a debt due to the Government.\nReduction or withholding of pension because of corruption\n3.—(1) The President may reduce or altogether withhold any pension which has been granted to a person under the repealed Act where such person has been convicted by any court of an offence (even if only a fine and no term of imprisonment has been imposed) —\n(a)under the Prevention of Corruption Act 1960; or\n(b)involving corruption under any other written law.\n(2) The President is to, before exercising any power conferred on him by sub‑paragraph (1), consider the record of the proceedings of the court.\n(3) Where any pension is reduced or altogether withheld under sub‑paragraph (1) from any person, the President may, in the President’s discretion, direct that all or any part of the pension be applied for the benefit of the person’s wife and any child or children, and after the expiry of any term of imprisonment served by the person, also for the person’s benefit, in such proportions and manner as the President thinks fit.\nPension to stop upon bankruptcy\n4.—(1) If any person to whom a pension has been granted under the repealed Act is adjudged a bankrupt or is declared insolvent by judgment of any court of competent jurisdiction in Singapore or elsewhere, then the pension forthwith ceases.\n(2) Where a pension ceases by virtue of this paragraph, the President may, during the remainder of the life of the person whose pension has ceased, or during such shorter period or periods, either continuously or otherwise, as the President thinks fit, direct all or any part of the moneys to which that person would have been eligible to receive by way of pension had the person not become a bankrupt or insolvent, to be paid to or applied for the maintenance and benefit of all or any (to the exclusion of others) of the following, namely, the person himself and his wife, child or children, or other dependants in such proportions and manner as the President thinks proper; and such moneys must be paid or applied accordingly.\n(3) Moneys applied for the discharge of the debts of the person whose pension has ceased must, for the purposes of sub‑paragraph (2), be regarded as applied for the person’s benefit.\n(4) When a person whose pension has ceased under the provisions of this paragraph, obtains a full and proper discharge from the person’s bankruptcy or insolvency, the person’s pension shall be restored to him or her with effect from the date of the discharge.\nPensions to be met from Pension Fund\n5. There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act 1995 all sums of money payable by way of pension granted under the repealed Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Parliamentary Pensions (Abolition) Act 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

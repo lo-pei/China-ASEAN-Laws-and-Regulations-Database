@@ -1,7 +1,7 @@
 {
  "id": "SG-H3569",
  "title": {
-  "zh": null,
+  "zh": "点对点客运业法 2019",
   "en": "Point-to-Point Passenger Transport Industry Act 2019",
   "orig": null
  },
@@ -1112,5 +1112,13 @@
     "en": "THE SCHEDULE\nSection 68\nSaving and transitional provisions\nPart 1\nTAXI SERVICE OPERATORS\n1.—(1) Every taxi service operator licence that —\n(a)is granted, before 30 October 2020, under Part VA of the Road Traffic Act 1961; and\n(b)is in force immediately before that date,\nis, so far as it is not inconsistent with the provisions of this Act, to continue as if it is a street‑hail service licence granted under Part 3 of this Act until that licence expires or is earlier revoked under section 35.\n(2) Every taxi service operator licence that —\n(a)is granted, before 30 October 2020, under Part VA of the Road Traffic Act 1961 and authorising the holder of the licence to provide taxi booking services to individuals driving taxis owned by the holder of that licence; and\n(b)is in force immediately before that date,\nis, so far as it is not inconsistent with the provisions of this Act, to continue as if it is a ride‑hail service licence of the relevant class granted under Part 4 of this Act until that licence expires or is earlier revoked under section 35.\n2. Every direction that —\n(a)is issued under section 111G of the Road Traffic Act 1961 to a licensed taxi service operator, before 30 October 2020, under Part VA of the Road Traffic Act 1961; and\n(b)is in force immediately before that date,\nis, so far as it is not inconsistent with the provisions of this Act, to continue as if it is a direction given by the LTA under section 31.\n3. Section 35 does not apply to any proceedings against a taxi service operator —\n(a)under section 111H of the Road Traffic Act 1961 as in force immediately before 30 October 2020; and\n(b)that is pending immediately before that date,\nand those proceedings may be continued, and any penalty may be imposed under section 111H of the Road Traffic Act 1961, as if section 63(3) had not been enacted.\n4. Where an appeal has been made to the Minister —\n(a)under section 111G or 111H of the Road Traffic Act 1961 before 30 October 2020; and\n(b)the appeal has not been dealt with or disposed of immediately before that date,\nthe appeal may be dealt with under section 111G or 111H (as the case may be) of the Road Traffic Act 1961 as if section 63(3) had not been enacted.\n5. Every code of practice or standard of performance that —\n(a)is specified or issued under section 111D(1)(g) of the Road Traffic Act 1961 to a licensed taxi service operator before 30 October 2020; and\n(b)is in force immediately before that date,\nis, so far as it is not inconsistent with the provisions of this Act, to continue as if it were a code of practice issued by the LTA under section 30(1).\nPart 2\nTHIRD‑PARTY TAXI BOOKING SERVICE PROVIDERS\n1. Every registration that —\n(a)is made, before 30 October 2020, under the Third‑Party Taxi Booking Service Providers Act 2015; and\n(b)is in force immediately before that date,\nlapses on that date.\n2. Section 35 does not apply to any proceedings against a registered provider of a third‑party taxi booking service —\n(a)under section 20 of the Third‑Party Taxi Booking Service Providers Act 2015 as in force immediately before 30 October 2020; and\n(b)pending immediately before that date,\nand those proceedings may be continued, and any penalty may be imposed under section 20 of the Third‑Party Taxi Booking Service Providers Act 2015, as if section 67(2) had not been enacted.\n3. Where an appeal has been made to the Minister —\n(a)under section 22 of the Third‑Party Taxi Booking Service Providers Act 2015 before 30 October 2020; and\n(b)the appeal has not been dealt with or disposed of immediately before that date,\nthe appeal may be dealt with under section 22 of the Third‑Party Taxi Booking Service Providers Act 2015 as if section 67(2) had not been enacted.\n[S 905/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Point-to-Point Passenger Transport Industry Act 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

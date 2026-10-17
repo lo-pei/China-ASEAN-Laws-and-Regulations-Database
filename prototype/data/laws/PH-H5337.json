@@ -1,7 +1,7 @@
 {
  "id": "PH-H5337",
  "title": {
-  "zh": null,
+  "zh": "菲律宾体育委员会法",
   "en": "The Philippine Sports Commission Act",
   "orig": "The Philippine Sports Commission Act An Act Creating and Establishing the Philippine Sports Commission, Defining its Powers, Functions and Responsibilities, Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -414,5 +414,13 @@
     "en": "Effectivity. – This Act shall take effect upon its approval and completion of publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Philippine Sports Commission Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

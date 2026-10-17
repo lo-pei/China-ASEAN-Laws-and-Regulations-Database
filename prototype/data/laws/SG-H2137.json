@@ -1,7 +1,7 @@
 {
  "id": "SG-H2137",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 8 号）公告 2005",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) (No. 8) Notification 2005",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be exempt from tax the payments by Lenovo (Singapore) Pte Ltd from 1st May 2005 to 30th April 2010 (both dates inclusive) to —\n(a)IBM (US) for services rendered under the Transition Services Agreement and the Marketing Support Agreement; and\n(b)related Lenovo parties for services rendered in area of Research & Development and Regional Headquarters’ functions."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) (No. 8) Notification 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

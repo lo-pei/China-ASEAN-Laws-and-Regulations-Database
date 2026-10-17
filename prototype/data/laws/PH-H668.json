@@ -1,7 +1,7 @@
 {
  "id": "PH-H668",
  "title": {
-  "zh": null,
+  "zh": "菲律宾牙科卫生师法",
   "en": "Philippine Dental Hygienist Law",
   "orig": "Philippine Dental Hygienist Law An Act to Regulate the Practice of Dental Hygienists in the Philippines and for other purposes"
  },
@@ -63,5 +63,13 @@
     "en": "Board of Dental Examiners. - The Board of Dental Examiners created under Republic Act Numbered Four hundred and seventeen, as amended, shall be the examining and licensing board of dental hygienists."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Philippine Dental Hygienist Law",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

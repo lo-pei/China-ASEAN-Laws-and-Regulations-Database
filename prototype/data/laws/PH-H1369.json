@@ -1,7 +1,7 @@
 {
  "id": "PH-H1369",
  "title": {
-  "zh": null,
+  "zh": "修订第428号共和国法（即《宣布以炸药或其他爆炸物或有毒物质麻醉、致残或杀死鱼类或其他水生动物而予占有、出售或分销为非法并规定处罚》）第1条、第2条、第3条与第4条的法案",
   "en": "An Act Amending Sections One, Two, Three and Four of Republic Act Numbered Four Hundred Twenty-Eight, Entitled “An Act to Declare Illegal the Possession, Sale or Distribution of Fish or Other Aquatic Animals Stupefied, Disabled or Killed by Means of Dynamite or Other Explosive or Toxic Substances and Providing Penalties Therefor”",
   "orig": "An Act Amending Sections One, Two, Three and Four of Republic Act Numbered Four Hundred Twenty-Eight, Entitled “An Act to Declare Illegal the Possession, Sale or Distribution of Fish or Other Aquatic Animals Stupefied, Disabled or Killed by Means of Dynamite or Other Explosive or Toxic Substances and Providing Penalties Therefor”"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Sections One, Two, Three and Four of Republic Act Numbered Four Hundred Twenty-Eight, Entitled “An Act to Declare Illegal the Possession, Sale or Distribution of Fish or Other Aquatic Animals Stupefied, Disabled or Killed by Means of Dynamite or Other Explosive or Toxic Substances and Providing Penalties Therefor”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

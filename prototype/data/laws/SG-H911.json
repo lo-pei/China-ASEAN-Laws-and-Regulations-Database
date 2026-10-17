@@ -1,7 +1,7 @@
 {
  "id": "SG-H911",
  "title": {
-  "zh": null,
+  "zh": "刑事司法改革（保留与过渡规定）（第 2 号）条例 2018",
   "en": "Criminal Justice Reform (Saving and Transitional Provisions) (No. 2) Regulations 2018",
   "orig": null
  },
@@ -220,5 +220,13 @@
     "en": "14. Despite section 119 of the Act, the Second Schedule to the unamended Code continues to apply to a determination of whether the criminal case disclosure procedures in Division 2 of Part IX and Division 5 of Part X of the Code apply to an offence that an accused was charged with before 31 October 2018."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Criminal Justice Reform (Saving and Transitional Provisions) (No. 2) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

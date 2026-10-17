@@ -1,7 +1,7 @@
 {
  "id": "SG-H1725",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（人体组织库服务）条例 2023",
   "en": "Healthcare Services (Human Tissue Banking Service) Regulations 2023",
   "orig": null
  },
@@ -666,5 +666,13 @@
     "en": "SECOND SCHEDULE\nRegulations 17(2)(e), 23(3) and 24(2)(a)\nInfectious diseases\nFirst column\nSecond column\nA.For any type of human tissue including haematopoietic stem cells\n1.Hepatitis B infection\n(a)serology\n(b)nucleic acid test\n2.Hepatitis C infection\n(a)serology\n(b)nucleic acid test\n3.Human immunodeficiency virus\n(HIV) infection\n(a)serology\n(b)nucleic acid test\n4.Syphilis\n(a)serology\nB.For haematopoietic stem cells only\n5.Cytomegalovirus\n(a)serology"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (Human Tissue Banking Service) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

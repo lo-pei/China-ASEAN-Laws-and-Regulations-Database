@@ -1,7 +1,7 @@
 {
  "id": "SG-H3589",
  "title": {
-  "zh": null,
+  "zh": "专业工程师法 1991",
   "en": "Professional Engineers Act 1991",
   "orig": null
  },
@@ -1056,5 +1056,13 @@
     "en": "THE SCHEDULE\nSection 20(2) and (3)\nExempt classes of persons\n1.\nCertificated officers under the Merchant Shipping Act 1995.\n2.\nHolders of any certificate of competency issued under regulations made under the Workplace Safety and Health Act 2006 for the purpose of taking charge of or operating steam boilers or internal combustion engines.\n3.\nElectrical workers licensed under the Electricity Act 2001.\n4.\nFire safety engineers registered under the Fire Safety Act 1993.\n[7/2004; 27/2005; 7/2006]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Professional Engineers Act 1991",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

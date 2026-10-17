@@ -1,7 +1,7 @@
 {
  "id": "PH-H6774",
  "title": {
-  "zh": null,
+  "zh": "将Sibulan 国立中学的名称变更为奎松省 Polillo市镇 Polillo 国立中学的法案",
   "en": "An Act Changing the Name of Sibulan National High School To Polillo National High School in the Municipality of Polillo, Province of Quezon",
   "orig": "An Act Changing the Name of Sibulan National High School To Polillo National High School in the Municipality of Polillo, Province of Quezon"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Sibulan National High School To Polillo National High School in the Municipality of Polillo, Province of Quezon",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

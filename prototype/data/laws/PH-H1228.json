@@ -1,7 +1,7 @@
 {
  "id": "PH-H1228",
  "title": {
-  "zh": null,
+  "zh": "对所有进口或运入菲律宾的货物、物品或产品征收特别进口税，并废止第 601 号、第 814 号、第 871 号、第 1175 号、第 1197 号与第 1375 号共和国法的法案",
   "en": "An Act to Impose a Special Import Tax on All Goods, Articles or Products Imported or Brought into the Philippines, and to Repeal Republic Acts Numbered Six Hundred and One, Eight Hundred and Fourteen, Eight Hundred and Seventy-One, Eleven Hundred and Seventy-Five, Eleven Hundred and Ninety-Seven and Thirteen Hundred and Seventy-Five",
   "orig": "An Act to Impose a Special Import Tax on All Goods, Articles or Products Imported or Brought into the Philippines, and to Repeal Republic Acts Numbered Six Hundred and One, Eight Hundred and Fourteen, Eight Hundred and Seventy-One, Eleven Hundred and Seventy-Five, Eleven Hundred and Ninety-Seven and Thirteen Hundred and Seventy-Five"
  },
@@ -111,5 +111,13 @@
     "en": "This Act shall take effect on January 1, 1956: Provided, That on or before said date, the President shall have previously declared by proclamation the taking effect of a trade agreement between the Philippines and the United States revising the Executive Agreement on Trade and Related Matters between the President of the Philippines and the President of the United States dated July 4, 1946, failing which this Act shall have no force and effect.\nApproved: August 29, 1955"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Impose a Special Import Tax on All Goods, Articles or Products Imported or Brought into the Philippines, and to Repeal Republic Acts Numbered Six Hundred and One, Eight Hundred and Fourteen, Eight Hundred and Seventy-One, Eleven Hundred and Seventy-Five, Eleven Hundred and Ninety-Seven and Thirteen Hundred and Seventy-Five",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

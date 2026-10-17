@@ -1,7 +1,7 @@
 {
  "id": "SG-H216",
  "title": {
-  "zh": null,
+  "zh": "各土地税收官的委任",
   "en": "Appointment of Collectors of Land Revenue",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Land Revenue Collection Act\n(Chapter 155)\nAppointment of Collectors of Land Revenue\nN 1\nG.N. No. S 477/1990\nREVISED EDITION 1990\n(25th March 1992)\nThe following persons have been appointed to be Collectors of Land Revenue:\n(a)the officer performing the duties of Commissioner of Lands to be the Collector of Land Revenue; and\n[447/46 wef 1.4.46]\n(b)the Chief Surveyor to be a Collector of Land Revenue.\n[2494/73 wef 17.8.73]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Collectors of Land Revenue",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

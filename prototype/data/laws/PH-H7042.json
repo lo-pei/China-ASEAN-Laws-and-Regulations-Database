@@ -1,7 +1,7 @@
 {
  "id": "PH-H7042",
  "title": {
-  "zh": null,
+  "zh": "将哥打巴托省 Alamada 市镇 Pigcawaran 描笼涯的国立中学附属校分离，设立 Pigcawaran 国立中学并为此拨款",
   "en": "An Act Providing for the Separation of the Barangay High School Known as the Alamada National High School Annex Located in Barangay Pigcawaran, in the Municipality of Alamada, Province of Cotabato, to Be Known as Pigcawaran National High School and Appropriating Funds Therefor",
   "orig": "An Act Providing for the Separation of the Barangay High School Known as the Alamada National High School Annex Located in Barangay Pigcawaran, in the Municipality of Alamada, Province of Cotabato, to Be Known as Pigcawaran National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Separation of the Barangay High School Known as the Alamada National High School Annex Located in Barangay Pigcawaran, in the Municipality of Alamada, Province of Cotabato, to Be Known as Pigcawaran National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

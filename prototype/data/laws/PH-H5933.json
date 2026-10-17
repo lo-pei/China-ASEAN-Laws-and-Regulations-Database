@@ -1,7 +1,7 @@
 {
  "id": "PH-H5933",
  "title": {
-  "zh": null,
+  "zh": "宣布8月30日为布拉干省特别非工作假日的法案",
   "en": "An Act Declaring August Thirty A Special Nonworking Holiday in the Province of Bulacan",
   "orig": "An Act Declaring August Thirty A Special Nonworking Holiday in the Province of Bulacan"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring August Thirty A Special Nonworking Holiday in the Province of Bulacan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

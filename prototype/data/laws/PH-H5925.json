@@ -1,7 +1,7 @@
 {
  "id": "PH-H5925",
  "title": {
-  "zh": null,
+  "zh": "授权莱特省Alangalang的莱特国立农业学校开设农业理学士、农业商业理学士及其他农业相关课程的法案",
   "en": "An Act Authorizing the Leyte State School of Agriculture in Alangalang, Leyte, To Offer the Bachelor of Science in Agriculture and Bachelor of Science in Agri-business and Other Agriculture-related Programs",
   "orig": "An Act Authorizing the Leyte State School of Agriculture in Alangalang, Leyte, To Offer the Bachelor of Science in Agriculture and Bachelor of Science in Agri-business and Other Agriculture-related Programs"
  },
@@ -62,5 +62,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Leyte State School of Agriculture in Alangalang, Leyte, To Offer the Bachelor of Science in Agriculture and Bachelor of Science in Agri-business and Other Agriculture-related Programs",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

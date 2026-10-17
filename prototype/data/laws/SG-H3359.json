@@ -1,7 +1,7 @@
 {
  "id": "SG-H3359",
  "title": {
-  "zh": null,
+  "zh": "关于发布附属法例活页修订页（第 1/97 期）的第 10(6) 与 17(6) 条公告",
   "en": "Notice under Sections 10 (6) and 17 (6) for the Issue of Revised Loose-leaf Pages of Subsidiary Legislation Issue 1/97",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nCover Page, 3-4, 329-330, 459-460B, 485-486, 664A-664B, 665-690"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Notice under Sections 10 (6) and 17 (6) for the Issue of Revised Loose-leaf Pages of Subsidiary Legislation Issue 1/97",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

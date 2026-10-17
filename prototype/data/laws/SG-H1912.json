@@ -1,7 +1,7 @@
 {
  "id": "SG-H1912",
  "title": {
-  "zh": null,
+  "zh": "所得税（Applied Materials 东南亚私人有限公司——第 19B(10B) 条豁免）命令 2019",
   "en": "Income Tax (Applied Materials South East Asia Pte Ltd — Section 19B(10B) Exemption) Order 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Applied Materials South East Asia Pte. Ltd. is exempt from section 19B(10A) of the Act in respect of capital expenditure incurred by it on 29 August 2018 in acquiring, for use in its trade or business, intellectual property rights from Applied Materials International Pte. Ltd., being rights acquired from Applied Materials Singapore Technology Pte. Ltd. on 24 August 2018.\n(2) The exemption in sub‑paragraph (1) is subject to the terms and conditions specified in the letter dated 18 July 2018, and email dated 25 July 2018, addressed to Wong & Leow LLC, solicitors for Applied Materials South East Asia Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Applied Materials South East Asia Pte Ltd — Section 19B(10B) Exemption) Order 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

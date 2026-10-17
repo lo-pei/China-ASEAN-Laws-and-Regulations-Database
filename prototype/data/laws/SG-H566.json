@@ -1,7 +1,7 @@
 {
  "id": "SG-H566",
  "title": {
-  "zh": null,
+  "zh": "慈善（公益机构）条例",
   "en": "Charities (Institutions of A Public Character) Regulations",
   "orig": null
  },
@@ -420,5 +420,13 @@
     "en": "22. A person who contravenes regulation 9(1) or (7) shall be liable to pay to the Commissioner a financial penalty of the higher of the following amounts:\n(a)$100;\n(b)the amount ascertained by the formula 0.4 × the total value of the donations (as determined under section 37(3) of the Income Tax Act 1947) which ought not to be allowed a deduction under section 37(3) of the Income Tax Act 1947 by reason of the contravention, if any.\n[S 122/2019 wef 01/03/2019]\n[S 16/2023 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Charities (Institutions of A Public Character) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

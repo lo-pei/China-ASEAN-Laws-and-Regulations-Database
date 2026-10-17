@@ -1,7 +1,7 @@
 {
  "id": "BN-S-1-2016-E-INSOLVENCY-ORDER-2016",
  "title": {
-  "zh": null,
+  "zh": "破产命令 2016",
   "en": "INSOLVENCY ORDER 2016",
   "orig": null
  },
@@ -4020,5 +4020,13 @@
     "en": "( 1) A reference in any other written law, instrument or document express or implied, and in whatever phraseology) to a repealed provtston is to be read, where necessary to retain for the other written law, instrument or document the same force and effect as it would have had but for the passing of this Order, as, or as including, a reference to the corresponding by which it is replaced in this Order.\n\n(2) The generality of subsection ( 1) is not affected by any specific conversion of references made by this Order, nor by the inclusion in any of this Order of a reference (whether express or implied, and in whatever phraseology) to the repealed provision corresponding to that provision, or to a repealed provision which is replaced by a corresponding provision of this\n\nSCHEDULE (sections 9(2), 13(6L 18(1) and 19)\n\nWHERE DIRECTORS PROPOSE\n\nARRANGEMENT"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "INSOLVENCY ORDER 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

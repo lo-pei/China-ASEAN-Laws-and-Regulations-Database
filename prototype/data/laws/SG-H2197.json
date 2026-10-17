@@ -1,7 +1,7 @@
 {
  "id": "SG-H2197",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 2 号）公告 2015",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 2) Notification 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to sub‑paragraph (2), there shall be exempt from tax the interest payable on or after 8 June 2013 by SE Shipping Lines Pte Ltd to Export‑Import Bank of India on a loan granted under the Loan Agreement dated 30 March 2011, for partially financing the construction of the vessel “SE Cerulean” (referred to in this Notification as “the vessel”).\n(2) The exemption under sub‑paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 19 May 2014 issued by the Ministry of Finance to SE Shipping Lines Pte Ltd.\n(3) The exemption in sub‑paragraph (1) does not apply to any interest payable after the earliest of the following:\n(a)30 June 2018;\n(b)the date of termination of the Loan Agreement;\n(c)the date on which Starleena Shipping Pte Ltd transfers or disposes of the vessel;\n(d)the date of withdrawal or revocation of the approval of SE Shipping Lines Pte Ltd as an approved international shipping enterprise under section 13F of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 2) Notification 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

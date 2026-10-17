@@ -1,7 +1,7 @@
 {
  "id": "SG-H2124",
  "title": {
-  "zh": null,
+  "zh": "所得税（经批准创投公司收入豁免）条例",
   "en": "Income Tax (Exemption of Income of Approved Venture Company) Regulations",
   "orig": null
  },
@@ -103,5 +103,11 @@
     "en": "5.—(1) In these Regulations, the following income of an approved venture company derived by it on or after 1 April 2020 from making authorised investments, is specified income of the company:\n(a)income or gains derived from those authorised investments;\n(b)gains or profits derived from the disposal of those authorised investments.\n(2) However, paragraph (1) does not apply to any income or gain from making authorised investments that is —\n(a)derived or deemed to be derived from Singapore; and\n(b)paid out of income of a company formed under the laws of any state of the United States of America as a limited liability company, or under the laws of any other foreign country as a limited liability company or its equivalent, being income on which tax is paid or payable in Singapore.\n(3) The following are “authorised investments” for the purposes of paragraph (b) of the definition of that term in section 13G(18) of the Act:\n(a)stocks and shares of any company, other than a company that is —\n(i)in the business of the trading or holding of Singapore immovable properties (other than the business of property development); and\n(ii)not listed on a stock exchange in Singapore or elsewhere;\n(b)bonds, notes, commercial papers, treasury bills and certificates of deposit, but excluding those that are not qualifying debt securities and that are issued by any company that is —\n(i)in the business of the trading or holding of Singapore immovable properties (other than the business of property development); and\n(ii)not listed on a stock exchange in Singapore or elsewhere;\n(c)deposits held with any financial institution;\n(d)foreign exchange transactions;\n(e)interest rate or currency contracts on a forward basis, interest rate or currency options, interest rate or currency swaps, and any financial derivative relating to any authorised investment specified in this paragraph, or any financial index;\n(f)loans, credit facilities and advance payments, but excluding loans, credit facilities and advance payments that are —\n(i)granted to any company that is not listed on a stock exchange in Singapore or elsewhere and that is in the business of the trading or holding of Singapore immovable properties (other than one that is in the business of property development);\n(ii)used to finance or re-finance the acquisition of Singapore immovable properties; or\n(iii)used to acquire stocks, shares, debt or any other securities, that are issued by any company that is not listed on a stock exchange in Singapore or elsewhere and that is in the business of the trading or holding of Singapore immovable properties (other than one that is in the business of property development);\n(g)membership or similar interests in a company formed under the laws of any state of the United States of America as a limited liability company, or under the laws of any other foreign country as a limited liability company or its equivalent, that does not carry on any trade, business, profession or vocation in Singapore;\n(h)accounts receivables and letters of credits.\n[S 221/2026 wef 31/12/2021]\n(4) In this regulation, “financial derivative” and “qualifying debt securities” have the meanings given by section 13(16) of the Act.\n[S 221/2026 wef 01/04/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Income Tax (Exemption of Income of Approved Venture Company) Regulations",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

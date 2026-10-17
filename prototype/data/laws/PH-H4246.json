@@ -1,7 +1,7 @@
 {
  "id": "PH-H4246",
  "title": {
-  "zh": null,
+  "zh": "设立特别教育基金，由附加不动产税收入及弗吉尼亚型卷烟税与进口烟叶关税的一定部分构成，界定受资助活动、设立学校董事会并拨款的法案",
   "en": "An Act Creating a Special Education Fund to be Constituted from the Proceeds of an Additional Real Property Tax and a Certain Portion of the Taxes on Virginia-Type Cigarettes and Duties on Imported Leaf Tobacco, Defining the Activities to be Financed, Creating School Boards for the Purpose, and Appropriating Funds Therefrom",
   "orig": "An Act Creating a Special Education Fund to be Constituted from the Proceeds of an Additional Real Property Tax and a Certain Portion of the Taxes on Virginia-Type Cigarettes and Duties on Imported Leaf Tobacco, Defining the Activities to be Financed, Creating School Boards for the Purpose, and Appropriating Funds Therefrom"
  },
@@ -182,5 +182,13 @@
     "en": "Effectivity. — This Act shall take effect on January first, nineteen hundred and sixty-nine except the allocation under Section three which shall take effect upon approval of this Act.\nApproved: September 25, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating a Special Education Fund to be Constituted from the Proceeds of an Additional Real Property Tax and a Certain Portion of the Taxes on Virginia-Type Cigarettes and Duties on Imported Leaf Tobacco, Defining the Activities to be Financed, Creating School Boards for the Purpose, and Appropriating Funds Therefrom",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

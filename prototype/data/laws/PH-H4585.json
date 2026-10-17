@@ -1,7 +1,7 @@
 {
  "id": "PH-H4585",
  "title": {
-  "zh": null,
+  "zh": "授予 Zambales 电厂公司在三描礼士省 San Antonio 市镇经营电灯、热力与动力系统的特许权法案",
   "en": "An Act Granting Zambales Electric Plant Corporation a Franchise for An Electric Light, Heat and Power System in the Municipality of San Antonio, Province of Zambales",
   "orig": "An Act Granting Zambales Electric Plant Corporation a Franchise for An Electric Light, Heat and Power System in the Municipality of San Antonio, Province of Zambales"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Zambales Electric Plant Corporation a Franchise for An Electric Light, Heat and Power System in the Municipality of San Antonio, Province of Zambales",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

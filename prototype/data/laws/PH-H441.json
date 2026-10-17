@@ -1,7 +1,7 @@
 {
  "id": "PH-H441",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾共和国总统Elpidio Quirino阁下接受中国政府在其担任菲律宾副总统期间授予的卿云勋章大绶的法案",
   "en": "An Act Authorizing His Excellency, Elpidio Quirino, President of the Republic of the Philippines, to Accept the Order of the \"Grand Cordon of the Order of Propitious Clouds\" Offered to Him By the Chinese Government When He Was Vice-President of the Philippines",
   "orig": "An Act Authorizing His Excellency, Elpidio Quirino, President of the Republic of the Philippines, to Accept the Order of the \"Grand Cordon of the Order of Propitious Clouds\" Offered to Him By the Chinese Government When He Was Vice-President of the Philippines"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted, without Executive approval, March 24, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing His Excellency, Elpidio Quirino, President of the Republic of the Philippines, to Accept the Order of the \"Grand Cordon of the Order of Propitious Clouds\" Offered to Him By the Chinese Government When He Was Vice-President of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1982",
  "title": {
-  "zh": null,
+  "zh": "所得税（居民个人扣除）（规定付款）条例 2012",
   "en": "Income Tax (Deduction for Resident Individual) (Prescribed Payment) Regulations 2012",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "2. A payment made on any relevant date into a retirement account is a prescribed payment for the purposes of section 39(3)(ii) or (3A) of the Act, if it is subject to the maximum amount calculated in accordance with regulation 7(1)(a)(i) of the Central Provident Fund (Minimum Sum Topping‑Up Scheme) Regulations (Cap. 36, Rg 3) in force on that date.\n[S 195/2013 wef 01/11/2012]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Deduction for Resident Individual) (Prescribed Payment) Regulations 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

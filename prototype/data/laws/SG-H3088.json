@@ -1,7 +1,7 @@
 {
  "id": "SG-H3088",
  "title": {
-  "zh": null,
+  "zh": "新加坡海事及港务管理局（游乐船艇）条例",
   "en": "Maritime and Port Authority of Singapore (Pleasure Craft) Regulations",
   "orig": null
  },
@@ -1138,5 +1138,13 @@
     "en": "SIXTH SCHEDULE\nRegulation 44A\nCarrying capacity\nThe carrying capacity of a pleasure craft means the maximum number of passengers and crew that the pleasure craft may carry in sheltered waters, as specified in a builder’s certificate recognised by the Port Master, or, if none, as determined by the Port Master in accordance with the following formula:\nCarrying capacity = 12 + (Length x Length x Breadth x 0.0031)\nIn the case of a personal watercraft, the carrying capacity shall be 2, unless otherwise approved by the Port Master.\n[S 727/2010 wef 01/12/2010]\n[G.N. No. S 186/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Maritime and Port Authority of Singapore (Pleasure Craft) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

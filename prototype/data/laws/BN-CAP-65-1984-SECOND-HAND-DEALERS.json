@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-65-1984-SECOND-HAND-DEALERS",
  "title": {
-  "zh": null,
+  "zh": "二手商品经销商",
   "en": "SECOND HAND DEALERS",
   "orig": null
  },
@@ -209,5 +209,13 @@
     "en": "(1) When any licensed dealer is liable under this Act Liability of or imprisonment or the cancellation of his licence dealer and for any act, omission or default, he shall be liable to the acts of same fine, imprisonment or cancellation for any act, omis-servant or default of any agent or servant employed by him in the course of his business as such licensed dealer.\n\n(2) Every agent or servant employed by a licensed - dealer in the course of his business as such licensed dealer be liable to every fine or punishment prescribed for such acts, omission, neglects, or defaults as if such agent or servant had been the person to whom such licence had been granted. to 15. His Majesty in Council may make rules for any of the following purposes, namely -\n\n(a) to prescribe the fees for licences and exemption and transfers of licences under this Act;\n\n(b) to prescribe the form of the licences under this Act and the conditions to be indorsed thereon;\n\n(c) to prescribe the forms of exemptions under\n\n(d) to prescribe the books to be kept by licensed and the particulars to be entered therein;\n\n(e) generally to carry out the purpose of this Act. to vary 16. His Majesty in Council may by notification published Gazette vary the list contained in the Schedule. (Section 2 (1)) Gunny bags, sail cloths, canvas; Old iron and metals other than brass, copper, lead zinc and block tin; Kerosene tins, oil drums, and other similar empty receptacles; Wooden and tin lined boxes and cases."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SECOND HAND DEALERS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

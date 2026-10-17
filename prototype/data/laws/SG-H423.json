@@ -1,7 +1,7 @@
 {
  "id": "SG-H423",
  "title": {
-  "zh": null,
+  "zh": "碳定价（第 7(1)(c) 条豁免——新加坡液化天然气公司）命令 2023",
   "en": "Carbon Pricing (Exemption from Section 7(1)(c) — Singapore LNG Corporation Pte. Ltd.) Order 2023",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) The Minister exempts SLNG from section 7(1)(c) of the Act —\n(a)in relation to registering the relevant business facility as a taxable facility of SLNG for the trigger year that is 2022; and\n(b)in relation to registering the relevant business facility as a taxable facility of SLNG for the trigger year that is 2023.\n(2) The exemption in sub-paragraph (1)(b) is subject to the condition that the carbon dioxide equivalence of the total amount of reckonable GHG emissions from the relevant business facility in 2023 is less than 39,814 tCO2e."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Carbon Pricing (Exemption from Section 7(1)(c) — Singapore LNG Corporation Pte. Ltd.) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

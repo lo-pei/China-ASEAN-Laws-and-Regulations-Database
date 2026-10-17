@@ -1,7 +1,7 @@
 {
  "id": "SG-H1728",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（核医学服务）条例 2023",
   "en": "Healthcare Services (Nuclear Medicine Service) Regulations 2023",
   "orig": null
  },
@@ -1328,5 +1328,13 @@
     "en": "THE SCHEDULE\nRegulations 2(1) and 5(1)\nSpecified services\n1.The provision of a nuclear medicine service for an imaging purpose by any of the following imaging modalities:\n(a)planar nuclear medicine imaging and uptake studies;\n(b)positron emission tomography‑computed tomography;\n(c)positron emission tomography‑magnetic resonance;\n(d)single‑photon emission computed tomography;\n(e)single‑photon emission computed tomography‑computed tomography."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (Nuclear Medicine Service) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

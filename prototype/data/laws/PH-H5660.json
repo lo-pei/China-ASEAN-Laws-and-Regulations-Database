@@ -1,7 +1,7 @@
 {
  "id": "PH-H5660",
  "title": {
-  "zh": null,
+  "zh": "废止1979年5月16日第860号指示函（责令教育文化部长接管菲律宾公立学校教师协会的管理、控制与运营）的法案",
   "en": "An Act to Repeal Letter of Instruction No. 860 Dated May 16, 1979, Directing the Minister of Education and Culture to Take Over the Management, Control and Operation of the Philippine Public School Teachers Association",
   "orig": "An Act to Repeal Letter of Instruction No. 860 Dated May 16, 1979, Directing the Minister of Education and Culture to Take Over the Management, Control and Operation of the Philippine Public School Teachers Association"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Repeal Letter of Instruction No. 860 Dated May 16, 1979, Directing the Minister of Education and Culture to Take Over the Management, Control and Operation of the Philippine Public School Teachers Association",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

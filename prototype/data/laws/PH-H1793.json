@@ -1,7 +1,7 @@
 {
  "id": "PH-H1793",
  "title": {
-  "zh": null,
+  "zh": "修订《修订行政法典》第56章（经第1836号共和国法修正）的法案",
   "en": "An Act to Further Amend Chapter Fifty-Six of the Revised Administrative Code as Amended by Republic Act Numbered Eighteen Hundred Thirty-Six",
   "orig": "An Act to Further Amend Chapter Fifty-Six of the Revised Administrative Code as Amended by Republic Act Numbered Eighteen Hundred Thirty-Six"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect on July first, nineteen hundred and fifty-seven.\nApproved: June 13, 1958."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Chapter Fifty-Six of the Revised Administrative Code as Amended by Republic Act Numbered Eighteen Hundred Thirty-Six",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

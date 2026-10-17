@@ -1,7 +1,7 @@
 {
  "id": "SG-H3557",
  "title": {
-  "zh": null,
+  "zh": "规划（土地与建筑物分割——授权）公告 2008",
   "en": "Planning (Subdivision of Land and Building — Authorisation) Notification 2008",
   "orig": null
  },
@@ -188,5 +188,13 @@
     "en": "SECOND SCHEDULE\nParagraphs 7, 8 and 9\nConservation Areas"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Planning (Subdivision of Land and Building — Authorisation) Notification 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

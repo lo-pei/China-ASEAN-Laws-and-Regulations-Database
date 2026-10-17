@@ -1,7 +1,7 @@
 {
  "id": "PH-H2625",
  "title": {
-  "zh": null,
+  "zh": "反贪污与腐败行为法",
   "en": "Anti-Graft and Corrupt Practices Act",
   "orig": "Anti-Graft and Corrupt Practices Act"
  },
@@ -200,5 +200,13 @@
     "en": "Effectivity. This Act shall take effect on its approval, but for the purpose of determining unexplained wealth, all property acquired by a public officer since he assumed office shall be taken into consideration.\nApproved: August 17, 1960"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Anti-Graft and Corrupt Practices Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

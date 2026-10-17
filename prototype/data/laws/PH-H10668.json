@@ -1,7 +1,7 @@
 {
  "id": "PH-H10668",
  "title": {
-  "zh": null,
+  "zh": "将南三宝颜省 Pagadian 市 Barangay Kawit 的南三宝颜工艺学校改设为国立学院，名称为南三宝颜理工国立学院，并为此拨款的法案",
   "en": "An Act Converting the Zamboanga Del Sur School of Arts and Trades Located in Barangay Kawit, Pagadian City, Province of Zamboanga Del Sur Into a State College to Be Known as the Zamboanga Del Sur Polytechnic State College and Appropriating Funds Therefor",
   "orig": "An Act Converting the Zamboanga Del Sur School of Arts and Trades Located in Barangay Kawit, Pagadian City, Province of Zamboanga Del Sur Into a State College to Be Known as the Zamboanga Del Sur Polytechnic State College and Appropriating Funds Therefor"
  },
@@ -322,5 +322,13 @@
     "en": "Effectivity. - This Act shall become effective fifteen (15) days after its complete publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Zamboanga Del Sur School of Arts and Trades Located in Barangay Kawit, Pagadian City, Province of Zamboanga Del Sur Into a State College to Be Known as the Zamboanga Del Sur Polytechnic State College and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

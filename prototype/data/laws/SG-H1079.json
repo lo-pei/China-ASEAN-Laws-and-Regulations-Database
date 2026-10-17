@@ -1,7 +1,7 @@
 {
  "id": "SG-H1079",
  "title": {
-  "zh": null,
+  "zh": "卓越服务勋章（军事）规则 1981",
   "en": "Darjah Utama Bakti Cemerlang (Tentera) — (The Distinguished Service Order — Military) Rules 1981",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nRule 11.\nOBVERSE\nREVERSE"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Darjah Utama Bakti Cemerlang (Tentera) — (The Distinguished Service Order — Military) Rules 1981",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

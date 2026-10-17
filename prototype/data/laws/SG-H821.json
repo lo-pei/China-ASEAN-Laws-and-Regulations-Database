@@ -1,7 +1,7 @@
 {
  "id": "SG-H821",
  "title": {
-  "zh": null,
+  "zh": "必需供应品管制法 1973",
   "en": "Control of Essential Supplies Act 1973",
   "orig": null
  },
@@ -518,5 +518,13 @@
     "en": "30.—(1) Subject to this section, no evidence as to any written or oral information in respect of any offence alleged to have been committed under this Act may be admitted in evidence in any civil or criminal proceedings, and no witness may be obliged or permitted to disclose the name or address of any informer or to state any matter which might lead to the discovery of the informer’s identity.\n(2) If any books, documents or papers which are in evidence or liable to inspection in any civil or criminal proceedings contains any entry in which any informer is named or described or which might lead to the discovery of his or her identity, the court is to cause all such passages to be concealed from view or to be obliterated so far as may be necessary to prevent the discovery of the informer’s identity, but no further.\n(3) If in any civil or criminal proceedings the court, after full enquiry into the case, is of the opinion that the informer has wilfully made in any information furnished by him or her a material statement which he or she knew or believed to be false or did not believe to be true, or the court is of the opinion that justice cannot be fully done without the discovery of the informer’s identity, it is lawful for the court to require the production of the original information, if in writing, and to permit enquiry and require full disclosure concerning the informer.\n(4) For the purposes of this section, “informer” includes every person who is not called as a witness for the prosecution in a criminal case and who has made any complaint or report or furnished any information, oral or documentary, in respect of any offence under this Act alleged to have been committed by any person."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Control of Essential Supplies Act 1973",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

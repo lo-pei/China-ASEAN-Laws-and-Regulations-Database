@@ -1,7 +1,7 @@
 {
  "id": "SG-H3607",
  "title": {
-  "zh": null,
+  "zh": "英联邦判决相互执行（废止）法 2019",
   "en": "Reciprocal Enforcement of Commonwealth Judgments (Repeal) Act 2019",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. For a period of 2 years after the appointed date, the Minister may, by regulations, prescribe such additional provisions of a saving or transitional nature consequent on the enactment of any provision of this Act as the Minister may consider necessary or expedient."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Reciprocal Enforcement of Commonwealth Judgments (Repeal) Act 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

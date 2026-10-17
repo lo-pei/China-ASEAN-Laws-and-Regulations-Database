@@ -1,7 +1,7 @@
 {
  "id": "SG-H1935",
  "title": {
-  "zh": null,
+  "zh": "所得税（AT 控股私人有限公司依第 13（12）条享有的豁免）命令 2020",
   "en": "Income Tax (AT Holdings Pte. Ltd. — Section 13(12) Exemption) Order 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Income comprising dividends described in sub‑paragraph (2), that is received in Singapore by AT Holdings Pte. Ltd. (a company incorporated in Singapore) from AT Holdings Europe Co‑operative U.A. (a company incorporated in the Netherlands), is exempt from tax.\n(2) Sub‑paragraph (1) applies to dividends that are derived from dividends received by AT Holdings Europe Co‑operative U.A., that are in turn derived from the profits of any of the following entities:\n(a)AT&C Amstel Holdings B.V.;\n(b)Batys Petroleum LLP;\n(c)Dostyk Gas Terminal LLP;\n(d)Ertys Service LLP;\n(e)Experion Assets Holdings Europe B.V.;\n(f)Kapashagai Resource LLP;\n(g)KazRoslmpex LLP;\n(h)Kazykurt Yug LLP;\n(i)Premium Oil Trans LLP;\n(j)Retail Asset Investment B.V.;\n(k)RTI-ANPZ LLP;\n(l)Standard Petroleum & Co LLP.\n(3) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letters of approval dated 21 June 2018 and 5 November 2019 to AT Holdings Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (AT Holdings Pte. Ltd. — Section 13(12) Exemption) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

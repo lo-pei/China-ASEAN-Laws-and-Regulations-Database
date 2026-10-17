@@ -1,7 +1,7 @@
 {
  "id": "SG-H1160",
  "title": {
-  "zh": null,
+  "zh": "贫困者（福利院）公告 2013",
   "en": "Destitute Persons (Welfare Homes) Notification 2013",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister hereby establishes Acacia Home, at 30 Admiralty Street, Singapore 757441, formerly known as Acacia Welfare Home, at 10 Kaki Bukit Avenue 5, Singapore 417902, as a welfare home for the reception, care and rehabilitation of destitute persons, with effect from 1st April 2013.\n[S 8/2017 wef 20/11/2016]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Destitute Persons (Welfare Homes) Notification 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

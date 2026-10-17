@@ -1,7 +1,7 @@
 {
  "id": "SG-H484",
  "title": {
-  "zh": null,
+  "zh": "牛只（非限制区）公告",
   "en": "Cattle (Unrestricted Areas) Notification",
   "orig": null
  },
@@ -84,5 +84,13 @@
     "en": "SECOND SCHEDULE\nPlans of Areas Where Cows, Buffaloes, Oxen, Sheep, Goats and Swine May be Kept\nPlan 1\nThis Plan shows the area within the Lim Chu Kang Agrotechnology Park, and which is outside the water catchment area.\nPlan 2\nThis Plan shows the area which is the Primary Production Department’s Sembawang Field Experimental Station.\nPlan 3\nThis Plan shows the area which is the Jurong Abattoir and Primary Production Department’s Annual Quarantine Station.\nPlan 4\nThis Plan shows the area which is used for quarantine and holding of animals.\nPlan 5\nThis Plan shows the area which is the Kim Chuan Abattoir.\nPlan 6\nThis Plan shows the area which is the Singapore Zoological Gardens.\nPlan 7\n[S 559/2009 wef 11/11/2009]\nThe Plan shows the premises on Lot 02719X MK7, 15 Tech Park Crescent."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Cattle (Unrestricted Areas) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

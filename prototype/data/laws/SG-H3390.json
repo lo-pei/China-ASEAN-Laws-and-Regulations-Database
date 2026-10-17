@@ -1,7 +1,7 @@
 {
  "id": "SG-H3390",
  "title": {
-  "zh": null,
+  "zh": "在线安全（救济与问责）（在线危害通知）条例 2026",
   "en": "Online Safety (Relief and Accountability) (Online Harm Notice) Regulations 2026",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) For the purposes of section 94(8)(a) of the Act, the prescribed period of time is —\n(a)if the applicable online harmful activity described in the online harm notice is intimate image abuse or image‑based child abuse that contains an intimate image or recording or a child abuse image or recording (as the case may be) that depicts a person’s exposed genital or anal region, or breasts, if the person is a female — 6 hours after the online harm notice has been sent to the online service provider;\n(b)if the applicable online harmful activity described in the online harm notice is intimate image abuse or image‑based child abuse that does not contain any image or recording of a person mentioned in sub‑paragraph (a) — 24 hours after the online harm notice has been sent to the online service provider; and\n(c)in any other case — 48 hours after the online harm notice has been sent to the online service provider.\n(2) For the purposes of paragraph (1), the time at which an online harm notice is sent is —\n(a)if the online harm notice is sent by completing and submitting the prescribed form on an online service provider’s online service — the time when the form is submitted;\n(b)if the online harm notice is sent to the online service provider’s designated email address — the time when the online harm notice leaves the sender’s email account;\n(c)if the online harm notice is sent by an online service provider’s designated means of electronic communication — the time when the online harm notice is submitted to the online service provider’s designated means of electronic communication;\n(d)if the online harm notice is sent to an online service provider’s account on any online service — the time when the online harm notice leaves the sender’s account on the online service;\n(e)if the online harm notice is sent by posting a comment on the Internet website, blog or page of the online service of an online service provider — the time when the online harm notice is posted; or\n(f)in any other case — the time when the online harm notice leaves an information system under the control of the sender."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Online Safety (Relief and Accountability) (Online Harm Notice) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

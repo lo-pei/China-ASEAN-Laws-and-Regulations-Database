@@ -1,7 +1,7 @@
 {
  "id": "PH-H1092",
  "title": {
-  "zh": null,
+  "zh": "将马斯巴特省莫博市镇原称乌马拜埃克斯特里奥尔的利伯塔德村的名称变更为圣格雷戈里奥的法案",
   "en": "An Act to Change the Name of the Barrio of Libertad, Formerly Known as Barrio Umabay Exterior, Municipality of Mobo, Province of Masbate, to San Gregorio",
   "orig": "An Act to Change the Name of the Barrio of Libertad, Formerly Known as Barrio Umabay Exterior, Municipality of Mobo, Province of Masbate, to San Gregorio"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 10, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Change the Name of the Barrio of Libertad, Formerly Known as Barrio Umabay Exterior, Municipality of Mobo, Province of Masbate, to San Gregorio",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H547",
  "title": {
-  "zh": null,
+  "zh": "授权Clavecilla Radio System在有限期间内继续运营其马尼拉、宿务与伊洛伊洛广播电台的法案",
   "en": "An Act Authorizing the Clavecilla Radio System to Continue Operating for a Limited Period Its Radio Stations in Manila, Cebu and Iloilo",
   "orig": "An Act Authorizing the Clavecilla Radio System to Continue Operating for a Limited Period Its Radio Stations in Manila, Cebu and Iloilo"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 17, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Clavecilla Radio System to Continue Operating for a Limited Period Its Radio Stations in Manila, Cebu and Iloilo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

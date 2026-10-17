@@ -1,7 +1,7 @@
 {
  "id": "SG-H281",
  "title": {
-  "zh": null,
+  "zh": "银行（第 29（4）与（5）条豁免）条例 2009",
   "en": "Banking (Exemption from section 29(4) and (5)) Regulations 2009",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 29(4) and (5) of the Act shall not apply to the directors of a bank in Singapore in respect of a loss suffered by the bank on or after 31st March 2007 arising from —\n(a)any unsecured credit facility granted to;\n(b)any credit facility granted, which subsequently becomes an unsecured credit facility, to; or\n(c)any exposure to,\na person who is a person in the director group of the bank by virtue only of paragraph (d)(i) of the definition of “director group” in the Fifth Schedule to the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Banking (Exemption from section 29(4) and (5)) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

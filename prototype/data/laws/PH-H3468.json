@@ -1,7 +1,7 @@
 {
  "id": "PH-H3468",
  "title": {
-  "zh": null,
+  "zh": "授予 Rex Electronics 在菲律宾境内建设、维护和运营公共无线电话与无线电报海岸站及公共固定、陆上移动站的临时许可的法案",
   "en": "An Act Granting Rex Electronics a Temporary Permit to Construct, Maintain and Operate Public Radiotelephone and Radiotelegraph Coastal Stations, and Public Fixed and Public Based and Land-Mobile Stations for the Reception and Transmission of Radiotelephone and Radiotelegraph Communications Within the Philippines",
   "orig": "An Act Granting Rex Electronics a Temporary Permit to Construct, Maintain and Operate Public Radiotelephone and Radiotelegraph Coastal Stations, and Public Fixed and Public Based and Land-Mobile Stations for the Reception and Transmission of Radiotelephone and Radiotelegraph Communications Within the Philippines"
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Rex Electronics a Temporary Permit to Construct, Maintain and Operate Public Radiotelephone and Radiotelegraph Coastal Stations, and Public Fixed and Public Based and Land-Mobile Stations for the Reception and Transmission of Radiotelephone and Radiotelegraph Communications Within the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

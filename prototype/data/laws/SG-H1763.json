@@ -1,7 +1,7 @@
 {
  "id": "SG-H1763",
  "title": {
-  "zh": null,
+  "zh": "挨户与街道募捐法 1947",
   "en": "House to House and Street Collections Act 1947",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "10. The Minister may, by notification in the Gazette, exempt any person from the provisions of this Act subject to such conditions, if any, as the Minister may impose."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "House to House and Street Collections Act 1947",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

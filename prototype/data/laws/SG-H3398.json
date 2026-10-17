@@ -1,7 +1,7 @@
 {
  "id": "SG-H3398",
  "title": {
-  "zh": null,
+  "zh": "验光师与配镜师（第25条第1款豁免）命令",
   "en": "Optometrists and Opticians (Exemption from Section 25(1)) Order",
   "orig": null
  },
@@ -152,5 +152,13 @@
     "en": "THE SCHEDULE\nParagraph 3(b)(i)\nQualifications\nFirst column\nSecond column\nThird column\nCountry\nBody Granting Qualifications\nQualifications\nAustralia\n1.The University of Sydney\nMaster of Orthoptics\n2.The University of Sydney\nBachelor of Applied Science (Orthoptics)\n3.The University of Sydney\nBachelor of Applied Science (Orthoptics) Honours\n4.The University of Sydney\nBachelor of Health Sciences/Master of Clinical Vision Sciences\n5.The University of Sydney\nMaster of Clinical Vision Sciences\n6.La Trobe University\nMaster of Orthoptics\n7.La Trobe University\nMaster of Orthoptics (Honours)\n8.La Trobe University\nBachelor of Health Sciences and Master of Orthoptics\n9.La Trobe University\nBachelor of Health Sciences and Master of Orthoptics (Honours)\n10.La Trobe University\nBachelor of Orthoptics\n11.La Trobe University\nBachelor of Orthoptics (Honours)\n12.La Trobe University\nBachelor of Orthoptic and Ophthalmic Sciences\n13.La Trobe University\nBachelor of Orthoptic and Ophthalmic Sciences (Honours)\nUnited Kingdom\n1.Glasgow Caledonian University\nBSc (Hons) Orthoptics\n2.University of Liverpool\nBSc (Hons) in Orthoptics\n3.University of Sheffield\nBMedSci (Hons) Orthoptics\n[S 538/2014 wef 15/08/2014]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Optometrists and Opticians (Exemption from Section 25(1)) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

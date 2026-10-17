@@ -1,7 +1,7 @@
 {
  "id": "PH-H501",
  "title": {
-  "zh": null,
+  "zh": "修订《修订行政法典》第1932条，规定邮政局检查员的派任与报酬并为其他目的法案",
   "en": "An Act to Amend Section Nineteen Hundred and Thirty-Two of the Revised Administrative Code, so as to Provide for the Assignment and Fixing of Compensation of Inspectors of the Bureau of Posts, and for Other Purposes",
   "orig": "An Act to Amend Section Nineteen Hundred and Thirty-Two of the Revised Administrative Code, so as to Provide for the Assignment and Fixing of Compensation of Inspectors of the Bureau of Posts, and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect on July 1, 1949.\nApproved: June 18, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Nineteen Hundred and Thirty-Two of the Revised Administrative Code, so as to Provide for the Assignment and Fixing of Compensation of Inspectors of the Bureau of Posts, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

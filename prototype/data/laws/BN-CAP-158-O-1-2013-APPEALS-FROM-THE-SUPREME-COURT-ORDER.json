@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-158-O-1-2013-APPEALS-FROM-THE-SUPREME-COURT-ORDER",
  "title": {
-  "zh": null,
+  "zh": "O 1 2013 版最高法院上诉命令",
   "en": "O 1 2013 ED APPEALS FROM THE SUPREME COURT ORDER",
   "orig": null
  },
@@ -290,5 +290,13 @@
     "en": "The jurisdiction conferred on the Judicial Committee by this Order shall be exercised in accordance with the Judicial Committee (General Appellate Jurisdiction) Rules, as from time to time amended, but the Rules as so amended shall have effect in their application to that jurisdiction subject to the modifications set out in the Schedule.\n\nSCHEDULE (paragraph 25) MODIFICATIONS OF JUDICIAL COMMITTEE (GENERAL APPELLATE JURISDICTION) RULES IN THEIR RELATION TO\n\nAPPEALS FROM SUPREME COURT"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "O 1 2013 ED APPEALS FROM THE SUPREME COURT ORDER",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

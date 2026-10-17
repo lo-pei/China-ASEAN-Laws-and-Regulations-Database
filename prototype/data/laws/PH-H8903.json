@@ -1,7 +1,7 @@
 {
  "id": "PH-H8903",
  "title": {
-  "zh": null,
+  "zh": "在南甘马粦省设立 Bikol 植物园并为其他目的法案",
   "en": "An Act to Establish the Bikol Botanical Garden in the Province of Camarines Sur and for Other Purposes",
   "orig": "An Act to Establish the Bikol Botanical Garden in the Province of Camarines Sur and for Other Purposes"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish the Bikol Botanical Garden in the Province of Camarines Sur and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

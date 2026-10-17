@@ -1,7 +1,7 @@
 {
  "id": "SG-H3307",
  "title": {
-  "zh": null,
+  "zh": "国家环境局（职能转授）（第 2 号）公告 2023",
   "en": "National Environment Agency (Assignment of Functions) (No. 2) Notification 2023",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The Minister for Sustainability and the Environment assigns to the National Environment Agency the following functions in relation to any international agreement to which Singapore is a party, that was entered into pursuant to or for the purposes of implementing Article 6 of the Paris Agreement adopted on 12 December 2015 (called in this Notification the Paris Agreement):\n(a)to assess on behalf of the Government the capability of any carbon credit, or any project or programme generating greenhouse gas emissions reductions or removals, in meeting Singapore’s requirements as specified in such international agreement, insofar as the requirements relate to Article 6 of the Paris Agreement;\n(b)to issue any letter or other document communicating the outcome of the Government’s assessment whether a carbon credit, or a project or programme generating greenhouse gas emissions reductions or removals, meets Singapore’s requirements as specified in such international agreement (whether or not the requirements relate to Article 6 of the Paris Agreement)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "National Environment Agency (Assignment of Functions) (No. 2) Notification 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

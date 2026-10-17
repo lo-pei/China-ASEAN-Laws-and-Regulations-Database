@@ -1,7 +1,7 @@
 {
  "id": "PH-H597",
  "title": {
-  "zh": null,
+  "zh": "修订第509号共和国法第13条与第17条，设立省市物价管理委员会并延长该法施行期限的法案",
   "en": "An Act to Amend Sections Thirteen and Seventeen of Republic Act Numbered Five Hundred Nine, By Creating Provincial and City Price Administration Committees and Extending the Period of Operation of the Said Act",
   "orig": "An Act to Amend Sections Thirteen and Seventeen of Republic Act Numbered Five Hundred Nine, By Creating Provincial and City Price Administration Committees and Extending the Period of Operation of the Said Act"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, April 30, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Thirteen and Seventeen of Republic Act Numbered Five Hundred Nine, By Creating Provincial and City Price Administration Committees and Extending the Period of Operation of the Said Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

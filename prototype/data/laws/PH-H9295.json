@@ -1,7 +1,7 @@
 {
  "id": "PH-H9295",
  "title": {
-  "zh": null,
+  "zh": "降低社会工作者资格考试报考者的年龄要求、规定继续社会工作教育并提升社会工作执业相关杂项规定",
   "en": "An Act Lowering the Age Requirement for Applicants Taking the Board Examination for Social Workers, Providing for Continuing Social Work Education, and Upgrading the Sundry Provisions Relative to the Practice of Social Work",
   "orig": "An Act Lowering the Age Requirement for Applicants Taking the Board Examination for Social Workers, Providing for Continuing Social Work Education, and Upgrading the Sundry Provisions Relative to the Practice of Social Work"
  },
@@ -121,5 +121,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Lowering the Age Requirement for Applicants Taking the Board Examination for Social Workers, Providing for Continuing Social Work Education, and Upgrading the Sundry Provisions Relative to the Practice of Social Work",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

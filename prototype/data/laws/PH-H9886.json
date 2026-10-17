@@ -1,7 +1,7 @@
 {
  "id": "PH-H9886",
  "title": {
-  "zh": null,
+  "zh": "2009 年巴丹自由港区法",
   "en": "Freeport Area of Bataan (FAB) Act of 2009",
   "orig": "An Act Further Strengthening the Powers and Functions of the Authority of the Freeport Area of Bataan (AFAB), Amending for this Purpose Republic Act No. 9728, Otherwise Known as the “Freeport Area of Bataan (FAB) Act of 2009”"
  },
@@ -200,5 +200,13 @@
     "en": "Effectivity. — This Act shall take effect after fifteen (15) days following its complete publication in the Official Gazette or in two (2) newspapers of general circulation whichever is earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Freeport Area of Bataan (FAB) Act of 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1471",
  "title": {
-  "zh": null,
+  "zh": "家事司法（高等法院家事庭审理的家事程序）命令 2014",
   "en": "Family Justice (Family Proceedings before Family Division of High Court) Order 2014",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following classes of family proceedings shall be heard and determined by the Family Division of the High Court:\n(a)any proceedings for a grant of probate or letters of administration in respect of the estate and effects of a deceased person, where the estate and effects in respect of which the grant is applied for, excluding what the deceased was possessed of or entitled to as a trustee and not beneficially, but without deducting anything on account of the debts due or owing from the deceased, are believed, at the time of commencement of those proceedings, by the plaintiff or applicant to exceed $5 million in value;\n(b)any proceedings to alter, revoke or annul any grant of probate or letters of administration by the Family Division of the High Court;\n(c)any proceedings for the administration of the estate of a deceased person, where the amount or value of the estate, excluding what the deceased was possessed of or entitled to as a trustee and not beneficially, but without deducting anything on account of the debts due or owing from the deceased, is believed, at the time of commencement of those proceedings, by the plaintiff or applicant to exceed $5 million;\n(d)any proceedings for the re-sealing of any grant of probate or letters of administration in respect of the estate and effects of a deceased person under Part X of the Probate and Administration Act (Cap. 251), regardless of the value of the estate and effects in respect of which the grant was made;\n(e)any other civil proceedings under the Probate and Administration Act relating to the estate of a deceased person, where the amount or value of the estate, excluding what the deceased was possessed of or entitled to as a trustee and not beneficially, but without deducting anything on account of the debts due or owing from the deceased, is believed, at the time of commencement of those proceedings, by the plaintiff or applicant to exceed $5 million;\n(f)any civil proceedings under the Inheritance (Family Provision) Act (Cap. 138) in respect of the estate of a deceased person, where the amount or value of the estate, excluding what the deceased was possessed of or entitled to as a trustee and not beneficially, but without deducting anything on account of the debts due or owing from the deceased, is believed, at the time of commencement of those proceedings, by the plaintiff or applicant to exceed $5 million;\n(g)any civil proceedings for the distribution of an intestate estate of a deceased person in accordance with the Intestate Succession Act (Cap. 146), where the amount or value of the estate, excluding what the deceased was possessed of or entitled to as a trustee and not beneficially, but without deducting anything on account of the debts due or owing from the deceased, is believed, at the time of commencement of those proceedings, by the plaintiff or applicant to exceed $5 million."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Family Justice (Family Proceedings before Family Division of High Court) Order 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

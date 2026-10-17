@@ -1,7 +1,7 @@
 {
  "id": "BN-S-12-1999-TRANSFER-OF-THE-FUNCTIONS-OF-THE-MINISTER-OF-LAW-1",
  "title": {
-  "zh": null,
+  "zh": "法律部长职能移交",
   "en": "TRANSFER OF THE FUNCTIONS OF THE MINISTER OF LAW 1",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "No. S 12\n\nTRANSFER OF THE FUNCTIONS OF THE MINISTER OF LAW It is hereby notified for general information that His Majesty the Sultan and Yang Di-Pertuan has directed that with effect from the 24 February, 1999 all the functions, powers, duties, privileges and benefits of the Minister of Law which have been transferred to or conferred or imposed on him by each of the written laws specified in the first column of the Schedule be transferred to the person specified opposite such written law in the second column of the Schedule.\n\nSCHEDULE Sections 7 and 8( 1) of the Law the Attorney General Revision Act {Chapter 1} Sections 9(1) and 10(2) of the Law the Attorney General Revision Act {Chapter 1} Emergency (Summonses and the Attorney General Warrants (Speci~l Provisions)) Order, 1984 (S 14/84) Emergency (Supreme Court) the Attorney General {Appeals to Privy Council) Order, 1989(S 57/89) Emergency (Fatal Accidents and the Attorney General Personal Injuries) Order, 1991 {S4/91) Emergency (Commissioners· for Permanent Secretary to the Office Oaths) Order, 1993 (S 21193) of the Prime Minister Emergency {Maintenance Orders the Attorney General Reciprocal Enforcement) Order, 1995(S 33/95) Emergency (Reciprocal the Attorney General Enforcement of Foreign Judgments) Order, 1996 (S 11/96)\n\nBY COMMAND\n\nDATO PADUKA HAJI A WANG HAZAIR BIN\n\nHAJI A WANG ABDULLAH Permanent Secretary, Prime Minister's Office, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TRANSFER OF THE FUNCTIONS OF THE MINISTER OF LAW 1",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

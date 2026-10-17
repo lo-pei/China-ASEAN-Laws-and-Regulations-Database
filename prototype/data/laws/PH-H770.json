@@ -1,7 +1,7 @@
 {
  "id": "PH-H770",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾武装部队的 Jaime C. Velasquez 上校接受美国政府授予其的功绩军团勋章（军官级）的法案",
   "en": "An Act to Authorize Colonel Jaime C. Velasquez, of the Armed Forces of the Philippines, to Accept the Legion of Merit (Officer Grade) Conferred Upon Him By the United States Government",
   "orig": "An Act to Authorize Colonel Jaime C. Velasquez, of the Armed Forces of the Philippines, to Accept the Legion of Merit (Officer Grade) Conferred Upon Him By the United States Government"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize Colonel Jaime C. Velasquez, of the Armed Forces of the Philippines, to Accept the Legion of Merit (Officer Grade) Conferred Upon Him By the United States Government",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

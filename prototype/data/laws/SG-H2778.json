@@ -1,7 +1,7 @@
 {
  "id": "SG-H2778",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（第 5A 与 10A 部分指定期限的进一步延长）命令 2024",
   "en": "Insolvency, Restructuring and Dissolution (Further Extension of Prescribed Periods for Parts 5A and 10A) Order 2024",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The prescribed period for the purposes of Part 10A of the Act is further extended for 24 months starting on 29 January 2024."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insolvency, Restructuring and Dissolution (Further Extension of Prescribed Periods for Parts 5A and 10A) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

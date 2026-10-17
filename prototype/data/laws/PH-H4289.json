@@ -1,7 +1,7 @@
 {
  "id": "PH-H4289",
  "title": {
-  "zh": null,
+  "zh": "将巴丹省 Mariveles 设为入境口岸，为此修订菲律宾关税与海关法典第 701 条，规定设立对外贸易区并设立管理局及拨款的法案",
   "en": "An Act Making Mariveles, Province of Bataan, a Port of Entry By Amending Section Seven Hundred One of the Tariff and Customs Code of the Philippines, as Amended, Providing for the Establishment, Operation and Maintenance of a Foreign Trade Zone Therein; Creating a Foreign Trade Zone Authority; and Authorizing the Appropriation of the Necessary Funds Therefor",
   "orig": "An Act Making Mariveles, Province of Bataan, a Port of Entry By Amending Section Seven Hundred One of the Tariff and Customs Code of the Philippines, as Amended, Providing for the Establishment, Operation and Maintenance of a Foreign Trade Zone Therein; Creating a Foreign Trade Zone Authority; and Authorizing the Appropriation of the Necessary Funds Therefor"
  },
@@ -151,5 +151,13 @@
     "en": "Effectivity .—This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making Mariveles, Province of Bataan, a Port of Entry By Amending Section Seven Hundred One of the Tariff and Customs Code of the Philippines, as Amended, Providing for the Establishment, Operation and Maintenance of a Foreign Trade Zone Therein; Creating a Foreign Trade Zone Authority; and Authorizing the Appropriation of the Necessary Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

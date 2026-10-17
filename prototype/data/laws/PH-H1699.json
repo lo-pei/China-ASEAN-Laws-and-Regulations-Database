@@ -1,7 +1,7 @@
 {
  "id": "PH-H1699",
  "title": {
-  "zh": null,
+  "zh": "规定巴科洛德市市议会的组成，为此修订并废止第326号联邦法（即《巴科洛德市宪章》）若干条款的法案",
   "en": "An Act Providing for the Composition of the City Council of Bacolod, Amending and Repealing for This Purpose Certain Sections of Commonwealth Act Numbered Three Hundred Twenty-Six, Otherwise Known as the Charter of the City of Bacolod",
   "orig": "An Act Providing for the Composition of the City Council of Bacolod, Amending and Repealing for This Purpose Certain Sections of Commonwealth Act Numbered Three Hundred Twenty-Six, Otherwise Known as the Charter of the City of Bacolod"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect on January one, nineteen hundred fifty-eight: Provided, That the additional elective councilor shall be elected in the November, nineteen fifty-seven election, and shall hold office commencing on January one, nineteen hundred fifty-eight, for the unexpired term of city councilors.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Composition of the City Council of Bacolod, Amending and Repealing for This Purpose Certain Sections of Commonwealth Act Numbered Three Hundred Twenty-Six, Otherwise Known as the Charter of the City of Bacolod",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

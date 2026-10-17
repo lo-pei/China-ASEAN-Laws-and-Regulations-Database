@@ -1,7 +1,7 @@
 {
  "id": "PH-H5326",
  "title": {
-  "zh": null,
+  "zh": "将北三宝颜省巴孔岸市镇的名称变更为Leon T. Postigo市镇的法案",
   "en": "An Act Changing the Name of the Municipality of Bacungan, Province of Zamboanga Del Norte, to Municipality of Leon T. Postigo",
   "orig": "An Act Changing the Name of the Municipality of Bacungan, Province of Zamboanga Del Norte, to Municipality of Leon T. Postigo"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Municipality of Bacungan, Province of Zamboanga Del Norte, to Municipality of Leon T. Postigo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

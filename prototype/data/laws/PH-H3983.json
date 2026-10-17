@@ -1,7 +1,7 @@
 {
  "id": "PH-H3983",
  "title": {
-  "zh": null,
+  "zh": "规定由省、市检察官及其助理以及州检察官或其助理进行统一初步调查制度的法案",
   "en": "An Act Prescribing a Uniform System of Preliminary Investigation by Provincial and City Fiscals and Their Assistants, and by State Attorneys or Their Assistants",
   "orig": "An Act Prescribing a Uniform System of Preliminary Investigation by Provincial and City Fiscals and Their Assistants, and by State Attorneys or Their Assistants"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, September 8, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prescribing a Uniform System of Preliminary Investigation by Provincial and City Fiscals and Their Assistants, and by State Attorneys or Their Assistants",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

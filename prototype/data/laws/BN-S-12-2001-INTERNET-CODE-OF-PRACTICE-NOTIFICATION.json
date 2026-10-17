@@ -1,7 +1,7 @@
 {
  "id": "BN-S-12-2001-INTERNET-CODE-OF-PRACTICE-NOTIFICATION",
  "title": {
-  "zh": null,
+  "zh": "互联网实务守则公告",
   "en": "INTERNET CODE OF PRACTICE NOTIFICATION",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "Licensees must use their best efforts to ensure that nothing is included in any programme on Internet which is against the public interest or national harmony or which offends against good taste or decency, and in particular the following Internet content should not be allowed {a} Public security and national defence(i) Contents which bring into hatred or contempt or incite disaffection against His Majesty the Sultan and Yang Di-Pertuan or the Government; or\n\n(ii) Contents which incite the inhabitants of Brunei Darussalam to attempt to procure the alteration, otherwise than by lawful means, of any other matter in Brunei Darussalam as by law established; or\n\n(iii) Contents which bring into hatred or contempt or incite disaffection against the administration of justice in Brunei Darussalam; or jiv) Contents which raise discontent or disaffection amongst the inhabitants of Brunei Darussalam;\n\nBRUNEI DARUSSALAM GOVENMENT GAZETTE\n\n(v) or Contents which promote feelings of ill-will and hostility between different classes of the population of Brunei Darussalam.\n\n(b) Racial and Religious Harmony\n\n(i) Contents which denigrate or ridicule any race or the religion of Islam; or\n\n(ii) Contents which bring any race or the religion of Islam into hatred, resentment or ridicule; or !iii) Contents which are against and outside the practices of Islam according to the Shafeite sect; or\n\n(iv) Contents which are intended for preaching other religions other than the religion of Islam.\n\n(c) Public and Social Morals\n\n(i) Contents which are pornographic or otherwise obscene; or\n\n(ii) Contents which propagate permissive or promiscuous behaviour; or\n\n(iii) Contents which depict or propagate gross exploitation of violence, nudity, sex or horror; or\n\n(iv) Contents which depict or propagate sexual perversions such as homosexuality, lesbianism and paedophilia. Made this 9th. day of Zulkaedah, 1421 Hijriah corresponding to the 3rd. day of February, 2001. PEHIN ORANG KAYA LAlLA SETIA BAKTI DIRAJA DATO LAlLA UTAMA HAJI AWANG ISA BIN PEHIN DATU PERDANA MANTER! DATO LAlLA UTAMA HAJI IBRAHIM Minister responsible for broadcasting matters, Prime Minister's Office, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "INTERNET CODE OF PRACTICE NOTIFICATION",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

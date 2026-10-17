@@ -1,7 +1,7 @@
 {
  "id": "PH-H527",
  "title": {
-  "zh": null,
+  "zh": "授权为调整私立学校局各处处长、督学、视导及其他人员的薪金拨款72000比索的法案",
   "en": "An Act Authorizing the Appropriation of the Sum of Seventy-Two Thousand Pesos for the Adjustment of the Salaries of Chiefs of Divisions, Superintendents, Supervisors, and Other Personnel of the Bureau of Private Schools",
   "orig": "An Act Authorizing the Appropriation of the Sum of Seventy-Two Thousand Pesos for the Adjustment of the Salaries of Chiefs of Divisions, Superintendents, Supervisors, and Other Personnel of the Bureau of Private Schools"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect as of July 1948.\nApproved, June 16, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of the Sum of Seventy-Two Thousand Pesos for the Adjustment of the Salaries of Chiefs of Divisions, Superintendents, Supervisors, and Other Personnel of the Bureau of Private Schools",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

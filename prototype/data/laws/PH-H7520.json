@@ -1,7 +1,7 @@
 {
  "id": "PH-H7520",
  "title": {
-  "zh": null,
+  "zh": "将宿务省第三立法区的副区工程办公室改设为正式工程区办公室，名称为宿务第三工程区，并为此拨款的法案",
   "en": "An Act Reclassifying the Sub-District Engineering Office in the Third Congressional District of Cebu, Province of Cebu Into a Regular Engineering District Office to Be Known as the Third Engineering District of Cebu and Appropriating Funds Thereof",
   "orig": "An Act Reclassifying the Sub-District Engineering Office in the Third Congressional District of Cebu, Province of Cebu Into a Regular Engineering District Office to Be Known as the Third Engineering District of Cebu and Appropriating Funds Thereof"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reclassifying the Sub-District Engineering Office in the Third Congressional District of Cebu, Province of Cebu Into a Regular Engineering District Office to Be Known as the Third Engineering District of Cebu and Appropriating Funds Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

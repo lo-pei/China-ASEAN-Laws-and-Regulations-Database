@@ -1,7 +1,7 @@
 {
  "id": "SG-H3097",
  "title": {
-  "zh": null,
+  "zh": "海事犯罪法 2003",
   "en": "Maritime Offences Act 2003",
   "orig": null
  },
@@ -233,5 +233,13 @@
     "en": "15.—(1) Every relevant maritime offence and every relevant fixed platform offence are deemed to be extradition offences under the Extradition Act 1968.\n[Act 17 of 2022 wef 01/07/2022]\n(2) Where no extradition treaty is in force between Singapore and a Protocol country —\n(a)a notification in the Gazette under section 4 of the Extradition Act 1968 may be made applying that Act as if there were an extradition treaty between Singapore and that Protocol country; but\n(b)subject to subsection (4), where the Extradition Act 1968 is applied under paragraph (a), that Act has effect as if the only extradition offences within the meaning of that Act were relevant maritime offences and relevant fixed platform offences.\n[22/2015]\n[Act 17 of 2022 wef 01/07/2022]\n(3) Where no extradition treaty is in force between Singapore and a Convention country that is not a Protocol country —\n(a)a notification in the Gazette under section 4 of the Extradition Act 1968 may be made applying that Act as if there were an extradition treaty between Singapore and that Convention country; but\n(b)subject to subsection (4), where the Extradition Act 1968 is applied under paragraph (a), that Act has effect as if the only extradition offences within the meaning of that Act were relevant maritime offences.\n[22/2015]\n[Act 17 of 2022 wef 01/07/2022]\n(4) Subsections (2) and (3) are without prejudice to any other notification made under section 4 of the Extradition Act 1968.\n[22/2015]\n(5) For the purposes of the Extradition Act 1968 —\n(a)any act, wherever committed, is deemed to be an offence within the jurisdiction of a Protocol country in relation to which the Extradition Act 1968 has been applied by a notification in the Gazette made under section 4 of that Act, if that act —\n(i)is a relevant maritime offence or relevant fixed platform offence, or would be such an offence but for section 3(2), 4(5), 5(6), 6(4), 8(2), 9(5) or 10(3) of this Act; and\n(ii)is an offence against the law of that Protocol country; and\n(b)any act, wherever committed, is deemed to be an offence within the jurisdiction of a Convention country that is not a Protocol country in relation to which the Extradition Act 1968 has been applied by a notification in the Gazette made under section 4 of that Act, if that act —\n(i)is a relevant maritime offence, or would be such an offence but for section 3(2), 4(5), 5(6) or 6(4) of this Act; and\n(ii)is an offence against the law of that Convention country.\n[11\n[22/2015]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Maritime Offences Act 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

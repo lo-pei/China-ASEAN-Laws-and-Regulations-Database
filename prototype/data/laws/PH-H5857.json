@@ -1,7 +1,7 @@
 {
  "id": "PH-H5857",
  "title": {
-  "zh": null,
+  "zh": "授予资本设备税收与关税豁免及税收抵免的法案",
   "en": "An Act Granting Tax and Duty Exemption and Tax Credit on Capital Equipment",
   "orig": "An Act Granting Tax and Duty Exemption and Tax Credit on Capital Equipment"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect fifteen (15) days after the implementing rules have been published and shall be in effect for five (5) years from the date of its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Tax and Duty Exemption and Tax Credit on Capital Equipment",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

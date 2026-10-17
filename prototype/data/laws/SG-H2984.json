@@ -1,7 +1,7 @@
 {
  "id": "SG-H2984",
  "title": {
-  "zh": null,
+  "zh": "法律专业（临时认许）公告 2012",
   "en": "Legal Profession (Ad Hoc Admissions) Notification 2012",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. For the purposes of section 15(6A) of the Act, the court may consider the following matters, in addition to the matters specified in section 15(1) and (2) of the Act, when deciding whether to admit a person under section 15 of the Act for the purpose of any one case:\n(a)the nature of the factual and legal issues involved in the case;\n(b)the necessity for the services of a foreign senior counsel;\n(c)the availability of any Senior Counsel or other advocate and solicitor with appropriate experience; and\n(d)whether, having regard to the circumstances of the case, it is reasonable to admit a foreign senior counsel for the purpose of the case."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Legal Profession (Ad Hoc Admissions) Notification 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

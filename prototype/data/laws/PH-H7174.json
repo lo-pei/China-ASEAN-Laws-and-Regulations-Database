@@ -1,7 +1,7 @@
 {
  "id": "PH-H7174",
  "title": {
-  "zh": null,
+  "zh": "授予 Panay 电话公司在阿克兰与安蒂克省及伊洛伊洛省 Janiuay 市镇建设、设立、安装、维护和运营本地交换网络的特许经营权法案",
   "en": "An Act Granting the Panay Telephone Corporation a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Provinces of Aklan and Antique and in the Municipality of Janiuay, Province of Iloilo",
   "orig": "An Act Granting the Panay Telephone Corporation a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Provinces of Aklan and Antique and in the Municipality of Janiuay, Province of Iloilo"
  },
@@ -240,5 +240,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Panay Telephone Corporation a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Provinces of Aklan and Antique and in the Municipality of Janiuay, Province of Iloilo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H576",
  "title": {
-  "zh": null,
+  "zh": "修订第 3992 号法（经联邦法第 123 号及第 556 号、第 652 号进一步修正）若干条款、插入新条款并调整相关条文编号的法案",
   "en": "An Act to Amend Subsections (a) and (b) of Section Three, Article Two of Chapter One; Subsections (b) and (d) of Section Five, Subsections (a), (b), (c), (i), (j), (m) and (n) of Section Seven of Article One, Section Eight, Subsections (a) and (d) of Section Nine, and Section Ten, Article Two of Chapter Two, and Insert a New Section Between Sections Eight and Nine of This Article to Be Known as Section Eight-A With New Subsections (a), (b), (c) and (d) and Amend, Further, Subsection (a) of Section Thirteen, Sections Fourteen and Nineteen, Article Three of Chapter Two; Sections Twenty-Four, Thirty-One and Thirty-Five, Article One, Section Thirty-Eight, Article Two of Chapter Three; and Section Sixty-Seven of Article One and Subsection (b) of Section Seventy of Article Two of Chapter Four of Act Numbered Thirty-Nine Hundred and Ninety-Two, as Amended By Commonwealth Act Numbered One Hundred and Twenty-Three, and as Further Amended By Commonwealth Acts Numbered Five Hundred and Fifty-Six and Six Hundred and Fifty-Two",
   "orig": "An Act to Amend Subsections (a) and (b) of Section Three, Article Two of Chapter One; Subsections (b) and (d) of Section Five, Subsections (a), (b), (c), (i), (j), (m) and (n) of Section Seven of Article One, Section Eight, Subsections (a) and (d) of Section Nine, and Section Ten, Article Two of Chapter Two, and Insert a New Section Between Sections Eight and Nine of This Article to Be Known as Section Eight-A With New Subsections (a), (b), (c) and (d) and Amend, Further, Subsection (a) of Section Thirteen, Sections Fourteen and Nineteen, Article Three of Chapter Two; Sections Twenty-Four, Thirty-One and Thirty-Five, Article One, Section Thirty-Eight, Article Two of Chapter Three; and Section Sixty-Seven of Article One and Subsection (b) of Section Seventy of Article Two of Chapter Four of Act Numbered Thirty-Nine Hundred and Ninety-Two, as Amended By Commonwealth Act Numbered One Hundred and Twenty-Three, and as Further Amended By Commonwealth Acts Numbered Five Hundred and Fifty-Six and Six Hundred and Fifty-Two"
  },
@@ -220,5 +220,13 @@
     "en": "This Act shall take effect on January 1, 1951.\nApproved: September 22, 195"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Subsections (a) and (b) of Section Three, Article Two of Chapter One; Subsections (b) and (d) of Section Five, Subsections (a), (b), (c), (i), (j), (m) and (n) of Section Seven of Article One, Section Eight, Subsections (a) and (d) of Section Nine, and Section Ten, Article Two of Chapter Two, and Insert a New Section Between Sections Eight and Nine of This Article to Be Known as Section Eight-A With New Subsections (a), (b), (c) and (d) and Amend, Further, Subsection (a) of Section Thirteen, Sections Fourteen and Nineteen, Article Three of Chapter Two; Sections Twenty-Four, Thirty-One and Thirty-Five, Article One, Section Thirty-Eight, Article Two of Chapter Three; and Section Sixty-Seven of Article One and Subsection (b) of Section Seventy of Article Two of Chapter Four of Act Numbered Thirty-Nine Hundred and Ninety-Two, as Amended By Commonwealth Act Numbered One Hundred and Twenty-Three, and as Further Amended By Commonwealth Acts Numbered Five Hundred and Fifty-Six and Six Hundred and Fifty-Two",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

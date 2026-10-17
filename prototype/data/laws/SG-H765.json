@@ -1,7 +1,7 @@
 {
  "id": "SG-H765",
  "title": {
-  "zh": null,
+  "zh": "社区调解中心法 1997",
   "en": "Community Mediation Centres Act 1997",
   "orig": null
  },
@@ -436,5 +436,13 @@
     "en": "23.—(1) The Minister may make regulations to —\n(a)regulate the practice and procedure of Community Mediation Centres;\n(b)provide for the training and accreditation of mediators of Community Mediation Centres; and\n(c)prescribe all matters as are necessary or expedient for the proper administration, or to achieve the objects and purposes, of this Act.\n(2) All regulations made under this section must be presented to Parliament as soon as possible after publication in the Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Community Mediation Centres Act 1997",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

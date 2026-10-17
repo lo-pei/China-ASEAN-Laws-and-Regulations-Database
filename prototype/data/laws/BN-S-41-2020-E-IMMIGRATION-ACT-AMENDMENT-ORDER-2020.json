@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-41-2020-E-IMMIGRATION-ACT-AMENDMENT-ORDER-2020",
+ "title": {
+  "zh": "移民法修正命令 2020",
+  "en": "IMMIGRATION ACT AMENDMENT ORDER 2020",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p29",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 2037,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-41_2020_E-IMMIGRATION-ACT-AMENDMENT-ORDER-2020.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-41_2020_E-IMMIGRATION-ACT-AMENDMENT-ORDER-2020.pdf》（2 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-41-2020-E-IMMIGRATION-ACT-AMENDMENT-ORDER-2020-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "2507 2. 1. Section No. S Substitution Citation 41 of IMMIGRATION section CONSTITUTION\n\nARRANGEMENT (Order made under Article 36 of ACT Chapter (AMENDMENTJ OF\n\nBRUNEI 17 OF\n\nSECTIONS DARUSSALAM ORDER, S:l(3)} 2020 9th. NOVEMBER, of makes section out person removed Commonwealth, the conviction one than offence, Brunei person the Immigration Act the Seri Begawan, Constitution Act (Amendment) Order, 2020. sent of than to hereby the written authority less new lawfully than a such from any corresponding been less not on on the following not be, Yang Di-Pertuan other having offence and liable with for imposed the may Bandar Dicetak oleh Print Plus Sdn. Bhd., Bundar Seri Begawan BB3510, 2020 otherwise the of penalty DARUSSALAM Article 83(3) of term whipping ORDER, person, 7(1), within as the case be of 1442 Hijriah !man, DI-PERTUAN, 83(3)) and for a any GAZETTE section shall commencement or any territory without to (AMENDMENT) repealed imprisonment and Nurul DARUSSALAM. Negara Brunei Darussalam. (Order made under Article and Immigration removed addition BRUNEI and an removed, whipping under both, MAJESTY by Sultan Darussalam of YANG GOVERNMENT Darussalam under this Act any guilty Rabiulawal, !slana conferred Act is been Darussalam or shall, in OF of of AND the 3 years or again Our HIS BRUNEI CONSTITUTION ACT the Immigration out this section is exceeding S6,000, sentence charged in court before the His Majesty 17 who, having SULTAN IMMIGRATION be cited as Chapter removal sent resides in Brunei and Order, 2020.\". at power of than removed 2020 Brunei lawfully cumulatively, day BRUNEI DARUSSALAlv1 after no THE the of more -that November, -may 36 the therefor person under 23rd. of Darussalam, Order section return enter of to be Provided (Amendment) Brunei Darussalam. exercise otherwise not not Darussalam: Order 36 to Controller this the following substituted HUnlawful Any Brunei or and strokes liable of Section entitled to a fine Substitution enters Made of This year In Brunei Citation 36. of or be day L 2. 9th. is"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "IMMIGRATION ACT AMENDMENT ORDER 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

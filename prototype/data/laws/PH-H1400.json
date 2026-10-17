@@ -1,7 +1,7 @@
 {
  "id": "PH-H1400",
  "title": {
-  "zh": null,
+  "zh": "规定在外国购置建筑物与场地供菲律宾政府外交与领事机构及其他机关使用，并按政府利益出售或出租该等建筑物、场地及类似财产的法案",
   "en": "An Act Providing for the Acquisition of Buildings and Grounds in Foreign Countries for the Use of Diplomatic and Consular Establishments and Other Agencies of the Philippine Government and for the Sale or Lease in the Government Interest of Such Buildings and Grounds and Like Properties",
   "orig": "An Act Providing for the Acquisition of Buildings and Grounds in Foreign Countries for the Use of Diplomatic and Consular Establishments and Other Agencies of the Philippine Government and for the Sale or Lease in the Government Interest of Such Buildings and Grounds and Like Properties"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Acquisition of Buildings and Grounds in Foreign Countries for the Use of Diplomatic and Consular Establishments and Other Agencies of the Philippine Government and for the Sale or Lease in the Government Interest of Such Buildings and Grounds and Like Properties",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

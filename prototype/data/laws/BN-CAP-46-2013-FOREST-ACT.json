@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-46-2013-FOREST-ACT",
  "title": {
-  "zh": null,
+  "zh": "森林法",
   "en": "FOREST ACT",
   "orig": null
  },
@@ -623,5 +623,13 @@
     "en": "Where a body corporate is guilty of an offence against this Act, every director and other person concerned in the management of the body corporate shall be guilty of the like offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "FOREST ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

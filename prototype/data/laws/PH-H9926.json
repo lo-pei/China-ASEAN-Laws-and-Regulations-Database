@@ -1,7 +1,7 @@
 {
  "id": "PH-H9926",
  "title": {
-  "zh": null,
+  "zh": "规定新冠肺炎应对与恢复干预措施、规定加快菲律宾经济复苏与增强韧性的机制、为此提供资金并为其他目的法案",
   "en": "An Act Providing for Covid-19 Response and Recovery Interventions and Providing Mechanisms to Accelerate the Recovery and Bolster the Resiliency of the Philippine Economy, Providing Funds Therefor, and for Other Purposes <a class=\"nya\" xref=\"ra2020/pdra_11494_2020.html",
   "orig": "An Act Providing for Covid-19 Response and Recovery Interventions and Providing Mechanisms to Accelerate the Recovery and Bolster the Resiliency of the Philippine Economy, Providing Funds Therefor, and for Other Purposes <a class=\"nya\" xref=\"ra2020/pdra_11494_2020.html"
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity. - Except as otherwise specifically provided herein, this Act shall be in full force and effect until the next adjournment of the Eighteenth Congress on December 19, 2020. This Act shall take effect immediately upon its publication in a newspaper of general circulation or in the Official Gazette: Provided, That Section 4(cc) of this Act shall be deemed to be in effect since Republic Act No. 11469 expired."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for Covid-19 Response and Recovery Interventions and Providing Mechanisms to Accelerate the Recovery and Bolster the Resiliency of the Philippine Economy, Providing Funds Therefor, and for Other Purposes <a class=\"nya\" xref=\"ra2020/pdra_11494_2020.html",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

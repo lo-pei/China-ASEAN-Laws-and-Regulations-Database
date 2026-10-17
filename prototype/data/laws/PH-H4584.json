@@ -1,7 +1,7 @@
 {
  "id": "PH-H4584",
  "title": {
-  "zh": null,
+  "zh": "授予 Rodolfo Rivilla 设立、维护和运营无线电广播与电视站及国内电信无线电台的特许经营权法案",
   "en": "An Act Granting Rodolfo Rivilla a Franchise to Establish, Maintain and Operate Radio Broadcasting and Television Stations and Radio Stations for Domestic Telecommunications",
   "orig": "An Act Granting Rodolfo Rivilla a Franchise to Establish, Maintain and Operate Radio Broadcasting and Television Stations and Radio Stations for Domestic Telecommunications"
  },
@@ -221,5 +221,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Rodolfo Rivilla a Franchise to Establish, Maintain and Operate Radio Broadcasting and Television Stations and Radio Stations for Domestic Telecommunications",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

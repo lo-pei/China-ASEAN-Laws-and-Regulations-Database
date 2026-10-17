@@ -1,7 +1,7 @@
 {
  "id": "SG-H1186",
  "title": {
-  "zh": null,
+  "zh": "动产扣押法 1934",
   "en": "Distress Act 1934",
   "orig": null
  },
@@ -350,5 +350,13 @@
     "en": "24. Any person who sells or abets the sale of any property seized under a writ of distress in contravention of the provisions of this Act or of the Rules of Court relating to the sale of property seized under a writ of distress shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Distress Act 1934",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

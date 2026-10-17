@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-183-R-1-2014-HALAL-MEAT-RULES",
  "title": {
-  "zh": null,
+  "zh": "R 1 2014 版清真肉类规则",
   "en": "R 1 2014 ED HALAL MEAT RULES",
   "orig": null
  },
@@ -290,5 +290,13 @@
     "en": "Any meat liable to be destroyed under the provisions of section 11 shall be destroyed by the Customs authorities under the Customs Order, 2006 (S 39/2006) and any rules made thereunder. (rule 2(1))\n\nHALAL IMPORT PERMIT\n\nKERAJAAN NEGARA BRUNEI DARUSSALAM\n\nBRUNEI GOVERNMENT\n\nKAWALAN DAGING IMPORT\n\nCONTROL OF IMPORTED MEAT Lembaga Mengeluarkan Permit Import Halal Board for Issuing Halal Import Permits\n\nNEGARA BRUNEI DARUSSALAM I/We, memohon mendapatkan Permit Import Halal untuk mengimport daging halal daripada apply for a Halal Import Permit to import halal meat from ..................................................................................... (nyatakan nama pusat penyembelihan) (specify slaughtering centre) seperti disebutkan di bawah ini:- as mentioned below:- (KG.) ASAL (KG.) — (continued) Saya/Kami adalah dengan ini mengisytiharkan bahawa perkara yang tersebut di atas I/We, hereby declare that the above is the true and correct statement of the halal meat mengenai dengan niat saya/kami untuk mengimport daging halal ke Negara Brunei Darussalam I/We wish to import into Negara Brunei Darussalam adalah benar dan betul. ................................................ Pemohon/Pemohon-Pemohon Applicant/Applicants [UNTUK KEGUNAAN LEMBAGA MENGELUARKAN PERMIT IMPORT HALAL SAHAJA] [FOR USE OF THE BOARD FOR ISSUING HALAL IMPORT PERMITS ONLY]\n\nPERMIT IMPORT HALAL\n\nHALAL IMPORT PERMIT Pemohon/Pemohon-pemohon seperti nama yang tersebut di atas adalah dengan ini dibenarkan The above named applicant/applicants is/are hereby authorised to import halal meat detailed untuk mengimport daging halal seperti yang dinyatakan di atas daripada negara yang disebutkan. in the above statement from the country specified. This Halal Import Permit is valid for a period of Permit Import Halal ini sah sehingga tempoh ............................................................................... Date : .......................................... [M]\n\nLEMBAGA MENGELUARKAN\n\nPERMIT IMPORT HALAL\n\nHALAL IMPORT PERMITS\n\nNEGARA BRUNEI DARUSSALAM (rule 5(1))\n\nREPORT OF INSPECTION COMMITTEE\n\nMAJLIS UGAMA ISLAM\n\nRELIGIOUS COUNCIL\n\nNEGARA BRUNEI DARUSSALAM\n\nJAWATANKUASA PEMERIKSA\n\nINSPECTION COMMITTEE\n\nPUSAT PENYEMBELIHAN BINATANG\n\nABOUT SLAUGHTERING CENTRE OF THE ANIMALS Nama dan alamat Pusat Penyembelihan : Name and address of the slaughtering centre : ................................................................................................................................................... ................................................................................................................................................... ................................................................................................................................................... Tarikh Pemeriksaan : ................................... Date of Inspection Waktu Pemeriksaan : ................................... Time of Inspection"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 1 2014 ED HALAL MEAT RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

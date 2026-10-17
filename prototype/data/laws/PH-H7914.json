@@ -1,7 +1,7 @@
 {
  "id": "PH-H7914",
  "title": {
-  "zh": null,
+  "zh": "将伊富高省 Alfonso Lista市镇 Pinto描笼涯 Potia 国立中学的名称变更为Pinto 国立中学的法案",
   "en": "An Act Changing the Name of Potia National High School in Barangay Pinto, Municipality of Alfonso Lista, Province of Ifugao to Pinto National High School",
   "orig": "An Act Changing the Name of Potia National High School in Barangay Pinto, Municipality of Alfonso Lista, Province of Ifugao to Pinto National High School"
  },
@@ -61,5 +61,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Potia National High School in Barangay Pinto, Municipality of Alfonso Lista, Province of Ifugao to Pinto National High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3120",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省埃斯卡兰特市巴林塔瓦克北内格罗斯急诊医院的名称变更为国会议员Vicente F. Gustilo纪念医院的法案",
   "en": "An Act Changing the Name of the Northern Negros Emergency Hospital in Balintawak, Escalante, Negros Occidental, to Congressman Vicente F. Gustilo Memorial Hospital",
   "orig": "An Act Changing the Name of the Northern Negros Emergency Hospital in Balintawak, Escalante, Negros Occidental, to Congressman Vicente F. Gustilo Memorial Hospital"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Northern Negros Emergency Hospital in Balintawak, Escalante, Negros Occidental, to Congressman Vicente F. Gustilo Memorial Hospital",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

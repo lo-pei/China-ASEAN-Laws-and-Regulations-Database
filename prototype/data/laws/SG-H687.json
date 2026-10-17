@@ -1,7 +1,7 @@
 {
  "id": "SG-H687",
  "title": {
-  "zh": null,
+  "zh": "合作社（NTUC Enterprise 合作社有限公司——第 97 条豁免）命令 2021",
   "en": "Co-operative Societies (NTUC Enterprise Co-operative Limited — Exemption under Section 97) Order 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) NTUC Enterprise Co‑operative Limited (called in this paragraph NEC), a secondary society, is exempt from the requirement in section 39(2) of the Act that membership in a secondary society is to be restricted to registered co‑operative societies, trade unions and platform work associations, to the extent provided in sub‑paragraph (2).\n[S 964/2024 wef 01/01/2025]\n(2) NEC may admit NTUC Foundation Limited as a member of NEC, despite that NTUC Foundation Limited is not a registered co-operative society, trade union or platform work association.\n[S 964/2024 wef 01/01/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (NTUC Enterprise Co-operative Limited — Exemption under Section 97) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

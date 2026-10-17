@@ -1,7 +1,7 @@
 {
  "id": "PH-H2090",
  "title": {
-  "zh": null,
+  "zh": "授权 Joseph de Castro 将第 2044 号共和国法授予其的特许权转让给 Oceanic 无线网络公司并作相应修正",
   "en": "An Act Authorizing the Transfer by Joseph de Castro to the Oceanic Wireless Network, Incorporated, of the Franchise Granted Him by Republic Act Numbered Two Thousand Forty-Four and Introducing Amendments Thereto",
   "orig": "An Act Authorizing the Transfer by Joseph de Castro to the Oceanic Wireless Network, Incorporated, of the Franchise Granted Him by Republic Act Numbered Two Thousand Forty-Four and Introducing Amendments Thereto"
  },
@@ -62,14 +62,15 @@
    }
   },
   {
-   "id": "PH-H2090-A1_2",
+   "id": "PH-H2090-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "There is hereby granted to the Oceanic Wireless Network, Incorporated, a Filipino corporation duly organized and existing under the laws of the Philippines, hereinafter referred to as the \"grantee\" a franchise to construct, install, maintain and operate, in Iloilo, Cebu and such other places in the Philippines not at present adequately served by radiotelegraph and/or radiotelephone systems, subject to the approval of the Secretary of Public Works and Communications, or any licensing authority, commercial radiotelegraph and/or radiotelephone communication stations, with corresponding relay stations, in the interisland, maritime, aeronautical and international public services, and stations in the broadcasting, television, radiophoto and facsimile services both national and/or international; to provide radio communication services and equipment to private firms, companies and corporations within their respective internal framework, and/or to communicate from within with grantee’s station or stations in the network, public fixed land based and land mobile stations.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H2090-A3",
@@ -101,5 +102,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Transfer by Joseph de Castro to the Oceanic Wireless Network, Incorporated, of the Franchise Granted Him by Republic Act Numbered Two Thousand Forty-Four and Introducing Amendments Thereto",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

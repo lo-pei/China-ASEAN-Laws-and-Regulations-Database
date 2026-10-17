@@ -1,7 +1,7 @@
 {
  "id": "PH-H10004",
  "title": {
-  "zh": null,
+  "zh": "将阿布拉省 Lagangilang 与 Bangued 市镇的阿布拉科学技术国立学院改设为国立大学，名称为阿布拉大学，并为此拨款的法案",
   "en": "An Act Converting the Abra State Institute of Sciences and Technology in the Municipalities of Lagangilang and Bangued, Province of Abra Into a State University, to Be Known as the University of Abra, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Abra State Institute of Sciences and Technology in the Municipalities of Lagangilang and Bangued, Province of Abra Into a State University, to Be Known as the University of Abra, and Appropriating Funds Therefor"
  },
@@ -330,5 +330,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Abra State Institute of Sciences and Technology in the Municipalities of Lagangilang and Bangued, Province of Abra Into a State University, to Be Known as the University of Abra, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2767",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（诉讼所得收益转让）条例 2020",
   "en": "Insolvency, Restructuring and Dissolution (Assignment of Proceeds of an Action) Regulations 2020",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) The Court may, on application by a member or creditor of the company, order the relevant insolvency practitioner to disclose the existence of a Funding Agreement and its terms and conditions, subject to such conditions as the Court thinks fit.\n(2) A member or creditor of the company may make an application to the Court for an order for relief on the ground that a Funding Agreement was entered into in breach of these Regulations.\n(3) On an application under paragraph (2), where the Court is satisfied that the breach of these Regulations has resulted in prejudice to the company or the members or creditors of the company, the Court may —\n(a)make an order declaring that the Funding Agreement is void, and make such consequential orders or directions as the Court thinks fit taking into account the identity of the person whose fault resulted in the breach concerned; or\n(b)make any other order for giving relief as the Court thinks just.\n(4) In deciding whether to make an order mentioned in paragraph (3)(a) or (b), the Court must take into account all the relevant circumstances, including the following:\n(a)whether the statement mentioned in regulation 4(4)(c) or (d) was false or misleading to a material extent;\n(b)whether any actual or potential conflict of interest was notified in accordance with regulation 4(5) or was not notified at all;\n(c)the seriousness of any actual or potential conflict of interest concerned;\n(d)whether the approval mentioned in regulation 4(6) was obtained before the Funding Agreement was entered into;\n(e)whether the informed consent mentioned in regulation 4(8)(b) was obtained before an approval under regulation 4(6) was sought or obtained;\n(f)whether regulation 4(9) was complied with when an approval under regulation 4(6) was sought."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insolvency, Restructuring and Dissolution (Assignment of Proceeds of an Action) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9953",
  "title": {
-  "zh": null,
+  "zh": "宣布每年5月18日为全国高等教育日的法案",
   "en": "An Act Declaring May 18 of Every Year as the National Higher Education Day",
   "orig": "An Act Declaring May 18 of Every Year as the National Higher Education Day"
  },
@@ -70,5 +70,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring May 18 of Every Year as the National Higher Education Day",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

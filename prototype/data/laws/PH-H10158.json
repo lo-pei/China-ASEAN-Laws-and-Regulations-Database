@@ -1,7 +1,7 @@
 {
  "id": "PH-H10158",
  "title": {
-  "zh": null,
+  "zh": "将宿务省曼达维市自S.B. Cabahug街转角经森特罗描笼涯蒂波洛溪与曼达维填海区至宿务国际港马希加溪桥的曼达维堤道正式命名为Ouano大道的法案",
   "en": "An Act Officially Naming the Mandaue Causeway Located in the City of Mandaue, Province of Cebu, Stretching from the Corner of S.B. Cabahug St., Traversing the Tipolo Creek in Barangay Centro and the Mandaue Reclamation Area, Up to the Bridge Over the Mahiga Creek at the Cebu International Port, as Ouano Avenue",
   "orig": "An Act Officially Naming the Mandaue Causeway Located in the City of Mandaue, Province of Cebu, Stretching from the Corner of S.B. Cabahug St., Traversing the Tipolo Creek in Barangay Centro and the Mandaue Reclamation Area, Up to the Bridge Over the Mahiga Creek at the Cebu International Port, as Ouano Avenue"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Officially Naming the Mandaue Causeway Located in the City of Mandaue, Province of Cebu, Stretching from the Corner of S.B. Cabahug St., Traversing the Tipolo Creek in Barangay Centro and the Mandaue Reclamation Area, Up to the Bridge Over the Mahiga Creek at the Cebu International Port, as Ouano Avenue",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

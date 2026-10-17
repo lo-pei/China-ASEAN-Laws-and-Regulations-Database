@@ -1,7 +1,7 @@
 {
  "id": "SG-H242",
  "title": {
-  "zh": null,
+  "zh": "估价师法 1906",
   "en": "Appraisers Act 1906",
   "orig": null
  },
@@ -209,5 +209,13 @@
     "en": "THE SCHEDULE\nSection 4\nFORM A\nAPPRAISERS ACT 1906\nAPPRAISER’S LICENCE\nSubject to the provisions of the Appraisers Act 1906 and all regulations made under the Act, ____________________________________________ residing at ___________________________________________________ and carrying on the business of an _______________________________ at ___________________________________ is licensed to carry on the business of an appraiser at the place of business as described above or elsewhere in Singapore.\nThis licence will continue in force until 31 December ______, unless previously cancelled under section 10 of the Act.\nGiven under my hand this ____ day of ________________ 20___.\nComptroller of Property Tax\nPrescribed fee of\n$ paid.\n[7/2005; 25/2010]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Appraisers Act 1906",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

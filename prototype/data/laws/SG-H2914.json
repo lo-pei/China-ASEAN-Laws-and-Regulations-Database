@@ -1,7 +1,7 @@
 {
  "id": "SG-H2914",
  "title": {
-  "zh": null,
+  "zh": "中央人力基地调查组不再作为辅助警察部队",
   "en": "Investigation Unit, Central Manpower Base Ceased to Be Auxiliary Police Force",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Police Force Act\n(Chapter 235)\nInvestigation Unit, Central Manpower Base Ceased to be Auxiliary Police Force\nIt is hereby notified for general information that the Investigation Unit, Central Manpower Base, has ceased to be an Auxiliary Police Force with effect from 2nd October 2001."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Investigation Unit, Central Manpower Base Ceased to Be Auxiliary Police Force",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

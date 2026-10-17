@@ -45,12 +45,12 @@ node tools/test-trans-layer.js     # 译文层机制自测（当前显示「全�
 
 | 层 | 目录 | 形态 | 说明 |
 | :--- | :--- | :--- | :--- |
-| **★ 权威存储层** | `prototype/data/laws/<法规ID>.json` | **每法一个 JSON**（18,101 个） | **唯一真源**。人工修订、采集入库只改这里 |
+| **★ 权威存储层** | `prototype/data/laws/<法规ID>.json` | **每法一个 JSON**（18,854 个） | **唯一真源**。人工修订、采集入库只改这里 |
 | 派生的分卷 | `prototype/data/{fulltext,cn,intl}/*.js` | 每卷含多部法 | 供零依赖静态 SPA 用 `<script src>` 按需加载；**由 `laws/` 生成** |
 | **元数据层** | `prototype/data/*.js` | 传统脚本 | `CALR_DATA_CORE` / `CALR_DATA_EXTRA` / `CALR_CN_CATALOG` / `CALR_INTL_CATALOG`；法规目录、国家、层级、主题、术语、条约、案例 |
 | A 法域全文层（派生） | `prototype/data/fulltext/<cc>.js` | 10 卷 / 61 部 | 精选重点法 |
 | B 中国全量层（派生） | `prototype/data/cn/cn-pNN.js` | 20 卷 / 1,540 部 | 中国法规全量 |
-| C 东盟分卷层（派生） | `prototype/data/intl/<cc>-pNN.js` | 252 卷 / 16,500 部 | 东盟各国 |
+| C 东盟分卷层（派生） | `prototype/data/intl/<cc>-pNN.js` | 252 卷 / 17,220 部 | 东盟各国 |
 | **D 译文层** | `prototype/data/trans/<pack>.js` | 索引 + 分卷 | **译文与官方原文物理分离**；当前为空表 |
 
 > **A/B/C 三层共用同一个全局变量 `CALR_FULLTEXT`，键都是法规 id。**
@@ -62,11 +62,11 @@ node tools/test-trans-layer.js     # 译文层机制自测（当前显示「全�
 | 项 | 数量 | 复现方式 |
 | :--- | ---: | :--- |
 | 国家 / 法域 | **12**（CN VN TH ID MY SG PH BN KH LA MM TL） | `laws/index.json` → `byCountry` |
-| **法规（权威存储）** | **18,101 部** | `laws/index.json` → `lawCount` |
-| **结构化条文** | **317,176 条** | `laws/index.json` → `articleCount` |
-| **正文总量** | **248,936,684 字** | `laws/index.json` → `chars` |
-| 法规目录条目 | **12,188**（dataset-core 67 ＋ cn-catalog 1,564 ＋ intl-catalog 11,078） | 三张目录表并集 |
-| 条文原文语言 | **10 种**（en 14,694 / zh 1,657 / th 741 / pt 230 / km 161 / vi 50 / lo 42 / id 32 / my 19 / ms 8） | `laws/index.json` → `byLanguage` |
+| **法规（权威存储）** | **18,854 部** | `laws/index.json` → `lawCount` |
+| **结构化条文** | **334,681 条** | `laws/index.json` → `articleCount` |
+| **正文总量** | **270,580,193 字** | `laws/index.json` → `chars` |
+| 法规目录条目 | **12,188**（dataset-core 67 ＋ cn-catalog 1,564 ＋ intl-catalog 11,819） | 三张目录表并集 |
+| 条文原文语言 | **10 种**（en 15,882 / zh 1,657 / th 741 / pt 230 / km 161 / vi 50 / lo 42 / id 32 / my 31 / ms 8） | `laws/index.json` → `byLanguage` |
 | 条约条目 | **18**（**全部无本地条文**） | `CALR_DATA_EXTRA.treaties` |
 | 术语 / 案例 / 修订 | 161 / 10 / 12 | `CALR_DATA_EXTRA` |
 | **界面语言** | **6**（zh en vi th id ms） | `assets/js/core/i18n.js` → `LANGS` |
@@ -80,9 +80,9 @@ node tools/test-trans-layer.js     # 译文层机制自测（当前显示「全�
 | :--- | ---: | ---: | ---: | ---: |
 | A 法域全文层 `data/fulltext/` | 10 | 61 | 9,859 | 5,723,365 |
 | B 中国全量层 `data/cn/` | 20 | 1,540 | 57,525 | 6,905,338 |
-| C 东盟分卷层 `data/intl/` | 252 | 16,500 | 238,314 | 226,391,449 |
+| C 东盟分卷层 `data/intl/` | 252 | 17,220 | 238,314 | 226,391,449 |
 | D 译文层 `data/trans/` | 0 | 0 | 0 | 0 |
-| **合计** | **282** | **18,101** | **317,176** | **248,936,684** |
+| **合计** | **282** | **18,854** | **334,681** | **270,580,193** |
 
 ### 1.3 无本地条文原文的条目
 
@@ -113,15 +113,15 @@ node tools/test-trans-layer.js     # 译文层机制自测（当前显示「全�
 ```
 prototype/data/                                    ← laws/ 为唯一权威存储
 ├── laws/                      ★ 权威存储（人工修订只改这里）
-│   ├── index.json             #   总索引：18,101 部 / 317,176 条 / 248,936,684 字
+│   ├── index.json             #   总索引：18,854 部 / 334,681 条 / 270,580,193 字
 │   ├── 无本地原文清单.csv       #   4,418 条仅目录登记、无本地正文（无 BOM）
 │   ├── 条号重复清单.csv         #   305 部 / 2,801 组重复条号（无 BOM）
-│   └── <法规ID>.json          #   每法一个文件，18,101 个
+│   └── <法规ID>.json          #   每法一个文件，18,854 个
 │
 ├── fulltext/                  # 【派生·A 层】10 卷 / 61 部
 │   └── manifest.js            #   files[] + byLaw{lawId → 法域代码}
 ├── cn/                        # 【派生·B 层】20 卷 / 1,540 部（cn-p01 … cn-p20）
-├── intl/                      # 【派生·C 层】252 卷 / 16,500 部
+├── intl/                      # 【派生·C 层】252 卷 / 17,220 部
 │   └── manifest.js            #   files[{file,country,laws[],articles}] + byLaw{lawId → 分卷名}
 ├── trans/                     # 【D 层】译文，与原文物理分离（当前空表）
 │   └── manifest.js
@@ -129,8 +129,8 @@ prototype/data/                                    ← laws/ 为唯一权威存�
 ├── dataset-core.js            # 元数据核心：国家/层级/时效/主题/语言 + 67 部精选法规
 ├── dataset-extra.js           # 扩展：术语 161 / 条约 18 / 案例 10 / 修订 12
 ├── cn-catalog.js              # 中国法规目录（1,564 条），每条指明所属分卷 pack
-├── intl-catalog.js            # 东盟法规目录（11,078 条），含溯源信息与去重留痕
-├── i18n.js / i18n-<cc>.js     # 界面文案（6 语种：zh 原文 + en/vi/th/id/ms 各 689 词条）
+├── intl-catalog.js            # 东盟法规目录（11,819 条），含溯源信息与去重留痕
+├── i18n.js / i18n-<cc>.js     # 界面文案（6 语种：zh 原文 + en/vi/th/id/ms 各 780 词条）
 └── asean-map.js               # 东盟地图矢量数据
 ```
 
@@ -689,6 +689,22 @@ root.CALR_INTL_MANIFEST = {
 
 ## 6. ★ 译文层规范（D 层，与官方原文分离）
 
+> **本节定义「译文存进哪里、长什么样」（存储契约）。**
+> **「怎么把原始数据交给翻译 agent、它必须回传什么」（生产契约）另见
+> [`rules/SKILL-多国法律文本译本生产规范.md`](./SKILL-多国法律文本译本生产规范.md)（`calr-trans-v2`）。**
+>
+> 分工：
+>
+> | | 文件 / 工具 | 回答的问题 |
+> | :--- | :--- | :--- |
+> | 存储契约 | 本节（§6） | 译文最终以什么结构落在 `prototype/data/trans/` |
+> | 生产契约 | [`rules/SKILL-多国法律文本译本生产规范.md`](./SKILL-多国法律文本译本生产规范.md) | 翻译 agent 拿到什么、回传什么、格式如何机检 |
+> | 机检工具 | `tools/verify-trans-return.js` | 回执是否合格（翻译 agent 自检 + 入库方收件校验） |
+> | 任务包导出 | `_work/trans/export-job.js` | 从 `laws/` 生成可下发的任务包 |
+>
+> 翻译 agent **必须先读生产契约**；其回执通过 `verify-trans-return.js` 后，
+> 再由入库方按本节结构落盘到 D 层。
+
 ### 6.1 设计目标
 
 - 官方原文（A/B/C 层）**永不改动**；
@@ -819,14 +835,38 @@ CALR.fulltext.transStats()                // → { packs, laws, articles, langs 
 
 ### 7.2 生成大模型译文（填充 D 层）
 
+> **2026-10-14 起，本节的「怎么译、译成什么结构」已独立成生产契约：**
+> [`rules/SKILL-多国法律文本译本生产规范.md`](./SKILL-多国法律文本译本生产规范.md)（`calr-trans-v2`）。
+> **翻译 agent 只读那份**；本节只负责「落盘到哪里、长什么样」。
+
+**标准流程（两阶段）**：
+
 ```
-1. 确认原法规已在 A/B/C 层（有本地条文），记下 sourceLang
-2. 逐条翻译，严格保持 no 一一对应
-3. 按 §6.3 组装译文对象，文件名按 §6.2
-4. 更新 data/trans/manifest.js 的 files[] 与 byLaw{}
-5. 若译文引入新术语，先补 dataset-extra.terms
-6. node tools/verify-data.js        → 必须「全部通过」
+Phase 0 · 术语表建设（一个目标语言一个 agent）
+  1. node _work/trans/build-glossary-v2.js
+       → 生成 _work/trans/glossaries/glossary-<lang>.json（schema v2，含 domain/义项/待填标记）
+  2. 术语 agent 填满所有 status=pending 的条目 → glossary-<lang>.filled.json
+  3. node tools/verify-glossary.js <filled.json>    → 必须「全部通过」（不带 --allow-pending）
+
+Phase 1 · 条文翻译（多 agent 并行）
+  4. node _work/trans/export-job.js --lang <lang> --country CN --shard-size 150
+       → 生成任务包（自动分片 + sha256 + 挂 Phase 0 的术语表）
+  5. 翻译 agent 按生产契约产出回执包
+  6. node tools/verify-trans-return.js <回执包> --job <任务包> [--partial]
+       → 必须「全部通过」
+  7. node _work/trans/build-receipt.js <任务包> <回执包>   （若 agent 未自产 receipt）
+  8. node _work/trans/ingest-trans.js  <任务包> <回执包>   → 落 D 层
+  9. node tools/verify-data.js        → 必须「全部通过」
+ 10. node tools/test-trans-layer.js   → 译文层机制自测「全部通过」
 ```
+
+**关键约束**：
+
+- 原文层（A/B/C）**永不改动**；译文只经 `_work/trans/ingest-trans.js` 写入 D 层
+- 回执未通过 `verify-trans-return.js` **不得落盘**（红线）
+- 术语表未通过 `verify-glossary.js` **不得开始 Phase 1**——否则各分片会各自发明术语
+- 译文的 `provenance`（engine/model/promptVersion/translatedAt/reviewed/glossaryVersion）由
+  `ingest-trans.js` 原样带入 D 层，可追溯、可整批重译
 
 ---
 

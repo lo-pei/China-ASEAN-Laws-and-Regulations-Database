@@ -1,7 +1,7 @@
 {
  "id": "SG-H3587",
  "title": {
-  "zh": null,
+  "zh": "遗嘱认证与管理法 1934",
   "en": "Probate and Administration Act 1934",
   "orig": null
  },
@@ -1180,5 +1180,13 @@
     "en": "THIRD SCHEDULE\nSections 59 and 60\nNames of States\nName of State\nTitle of Treaty\nDate of Treaty\nProvision\nEstonia\nTreaty of Commerce and Navigation between the United Kingdom and Estonia\n18 January 1926\nArticle 22\nGreece\nTreaty of Commerce and Navigation between the United Kingdom and Greece\n16 July 1926\nArticle 23\nHungary\nTreaty of Commerce and Navigation between the United Kingdom and Hungary\n23 July 1926\nArticle 14\nJapan\nTreaty of Commerce and Navigation between the United Kingdom and Japan\n3 April 1911\nArticle 5\nThailand\nTreaty of Commerce and Navigation between the United Kingdom and Siam (Thailand)\n23 November 1937\nArticle 19\nTurkey\nTreaty of Commerce and Navigation between the United Kingdom and Turkey\n1 March 1930\nArticle 28\nYugoslavia\nTreaty of Commerce and Navigation between the United Kingdom and the Kingdom of the Serbs, Croats and Slovenes\n12 May 1927\nArticle 24"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Probate and Administration Act 1934",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

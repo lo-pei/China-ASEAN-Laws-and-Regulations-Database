@@ -1,7 +1,7 @@
 {
  "id": "BN-S-82-2004-TRAFFICKING-AND-SMUGGLING-OF-PERSONS-ORDER-2004",
  "title": {
-  "zh": null,
+  "zh": "贩运与偷运人口命令 2004",
   "en": "TRAFFICKING AND SMUGGLING OF PERSONS ORDER 2004",
   "orig": null
  },
@@ -286,5 +286,13 @@
     "en": "The offences created by this Order shall be - {a) offences to which the Criminal Conduct (Recovery of Proceeds) (S 52/00J apply; {b) deemed to be included in the list of extradition crimes described in the First Schedule to the Extradition Act (Chapter 8); {c) offences in respect of which mutual legal assistance may be under any law relating to mutual legal assistance in criminal matters. Made this 8th. day of Zulkaedah, 1425 Hijriah corresponding to the 20th. day of December, 2004 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN _.· BRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TRAFFICKING AND SMUGGLING OF PERSONS ORDER 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H799",
  "title": {
-  "zh": null,
+  "zh": "设立San Pablo市工程局下属自来水厂主管职位，提高助理市检察官与该局机密服务主管的薪俸，为此修订第520号联邦法（即《San Pablo市宪章》）",
   "en": "Act Creating the Position of Waterworks Superintendent Under the Engineering Department in the City of San Pablo, and Increasing the Salaries of the Assistant City Attorney and the Chief of the Secret Service Thereof, By Amending Commonwealth Act Numbered Five Hundred and Twenty, Otherwise Known as the Charter of the City of San Pablo",
   "orig": "Act Creating the Position of Waterworks Superintendent Under the Engineering Department in the City of San Pablo, and Increasing the Salaries of the Assistant City Attorney and the Chief of the Secret Service Thereof, By Amending Commonwealth Act Numbered Five Hundred and Twenty, Otherwise Known as the Charter of the City of San Pablo"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Act Creating the Position of Waterworks Superintendent Under the Engineering Department in the City of San Pablo, and Increasing the Salaries of the Assistant City Attorney and the Chief of the Secret Service Thereof, By Amending Commonwealth Act Numbered Five Hundred and Twenty, Otherwise Known as the Charter of the City of San Pablo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H571",
  "title": {
-  "zh": null,
+  "zh": "慈善（禁止筹款呼吁）命令 2018",
   "en": "Charities (Prohibition of Fund-Raising Appeal) Order 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Commissioner prohibits and stops the conduct of any fund‑raising appeal by Ashlee Chua Jermaine (Singapore citizen) (Date of Birth: 22 April 1986)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Charities (Prohibition of Fund-Raising Appeal) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

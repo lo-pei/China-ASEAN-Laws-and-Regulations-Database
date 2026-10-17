@@ -1,7 +1,7 @@
 {
  "id": "SG-H1104",
  "title": {
-  "zh": null,
+  "zh": "纸币面额与特征",
   "en": "Denomination and Characteristics of the Currency Notes",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\ndescription of the singapore “portrait” currency notes\nThe notes have one windowed machine-readable thread which is interwoven in the paper running vertically down the back of the notes. A watermark of the President’s portrait is incorporated on the left-hand side of the front of the note. The watermark is not overprinted on both the front and back. A highlight watermark which corresponds with the Braille pattern at the top right-hand corner of the front design, is located at the bottom of the Portrait watermark.\n(a)Obverse Design of the $2 Singapore “Potrait” Currency Note.\n(b)Reverse Design of the $2 Singapore “Potrait” Currency Note.\nActual Size: 126 mm x 63 mm\n(c)Obverse Design of the $5 Singapore “Potrait” Currency Note.\n(d)Reverse Design of the $5 Singapore “Potrait” Currency Note.\nActual Size: 133 mm x 66 mm\n(e)Obverse Design of the $10 Singapore “Potrait” Currency Note.\n(f)Reverse Design of the $10 Singapore “Potrait” Currency Note.\nActual size: 141 mm x 69 mm\n(g)Obverse Design of the $50 Singapore “Potrait” Currency Note.\n(h)Reverse Design of the $50 Singapore “Potrait” Currency Note.\nActual Size: 156 mm x 74 mm\n(i)Obverse Design of the $100 Singapore “Potrait” Currency Note.\n(j)Reverse Design of the $100 Singapore “Potrait” Currency Note.\nActual size: 162 mm x 77 mm\n(k)Obverse Design of the $1000 Singapore “Potrait” Currency Note.\n(l)Reverse Design of the $1000 Singapore “Potrait” Currency Note.\nActual Size: 170 mm x 83 mm\n(m)Obverse Design of the $10 000 Singapore “Potrait” Currency Note.\n(n)Reverse Design of the $10 000 Singapore “Potrait” Currency Note.\nActual Size: 180 mm x 90 mm"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Denomination and Characteristics of the Currency Notes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-17-2019-ANTI-TRAFFICKING-IN-PERSONS-ORDER-2019-SEC-50",
  "title": {
-  "zh": null,
+  "zh": "反人口贩运命令 2019 第 50 条",
   "en": "ANTI TRAFFICKING IN PERSONS ORDER 2019 SEC. 50",
   "orig": null
  },
@@ -745,5 +745,13 @@
     "en": "(1) On the date of commencement of this Order, the Trafficking and Smuggling of Persons Fund established by section 19 of the repealed Trafficking and Smuggling of Persons Order, 2004 (S 8212004) shall be known as the Anti-Trafficking in Persons Fund established under section 44 and all monies which immediately before the commencement of this Order was vested in the Trafficking and Smuggling of Persons Fund shall be transferred to and shall vest in the Anti-Trafficking in Persons Fund without further assurance.\n\n(2) Anything done or made under the repealed 'Ikafficking and Smuggling of Persons Order, 2004 and in force immediately before the date of commencement of this Order and so far as it is not inconsistent with this Order shall continue to be in force as if done under this Order, until it is amended, or repealed under this Order.\n\n(3) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, by order published in the Gazette, make such other transitional and savings provisions as he may consider necessary and expedient. Made this 3rd. day of Zulkaedah, 1440 Hijriah corresponding to the 6th. day of July, 2019 at our Istana Nurul Iman, Bandar Seri Begawan, Brunei\n\nTHE SULTAN AND YANG DI-PERTUAN, BRUNEI DARUSSALAM."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ANTI TRAFFICKING IN PERSONS ORDER 2019 SEC. 50",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

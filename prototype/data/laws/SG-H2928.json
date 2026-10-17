@@ -1,7 +1,7 @@
 {
  "id": "SG-H2928",
  "title": {
-  "zh": null,
+  "zh": "裕廊镇公司（园区）条例",
   "en": "Jurong Town Corporation (Parks) Regulations",
   "orig": null
  },
@@ -220,5 +220,11 @@
     "en": "14. These Regulations shall not apply to any officer or employee of the Corporation in the proper execution of his duty."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Jurong Town Corporation (Parks) Regulations",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

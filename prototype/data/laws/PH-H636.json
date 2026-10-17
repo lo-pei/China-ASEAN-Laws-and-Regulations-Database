@@ -1,7 +1,7 @@
 {
  "id": "PH-H636",
  "title": {
-  "zh": null,
+  "zh": "将南伊罗戈省维甘市镇南伊罗戈职业学校改设为区域工艺与贸易学校，名称为北吕宋工艺与贸易学校，并授权为此拨款",
   "en": "An Act to Convert the Ilocos Sur Trade School in the Municipality of Vigan, Province of Ilocos Sur, Into a Regional School of Arts and Trades to Be Known as the Northern Luzon School of Arts and Trades and Authorizing the Appropriation of Funds for the Purpose",
   "orig": "An Act to Convert the Ilocos Sur Trade School in the Municipality of Vigan, Province of Ilocos Sur, Into a Regional School of Arts and Trades to Be Known as the Northern Luzon School of Arts and Trades and Authorizing the Appropriation of Funds for the Purpose"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 14, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Ilocos Sur Trade School in the Municipality of Vigan, Province of Ilocos Sur, Into a Regional School of Arts and Trades to Be Known as the Northern Luzon School of Arts and Trades and Authorizing the Appropriation of Funds for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

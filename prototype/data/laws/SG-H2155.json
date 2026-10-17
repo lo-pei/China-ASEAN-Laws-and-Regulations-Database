@@ -1,7 +1,7 @@
 {
  "id": "SG-H2155",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发利息及其他付款豁免）（第 3 号）公告 2006",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 3) Notification 2006",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. The Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 4) Notification 2003 (G.N. No. S 644/2003) is cancelled."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 3) Notification 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

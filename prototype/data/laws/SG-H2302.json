@@ -1,7 +1,7 @@
 {
  "id": "SG-H2302",
  "title": {
-  "zh": null,
+  "zh": "所得税（Lendlease 全球商业房地产投资信托——第 13(12) 条豁免）命令 2022",
   "en": "Income Tax (Lendlease Global Commercial REIT — Section 13(12) Exemption) Order 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The dividend income described in sub‑paragraph (2) that is received in Singapore by RBC Investor Services Trust Singapore Limited (a company incorporated in Singapore) in its capacity as the trustee of Lendlease Global Commercial REIT from Lendlease Asian Retail Investment Fund 3 Limited (an entity incorporated in Bermuda) on or after 2 December 2021, is exempt from tax.\n(2) Sub‑paragraph (1) applies to dividends that are paid out of —\n(a)any rental income and other property-related income received by the specified companies for the specified property; or\n(b)any interest income derived from any bank deposit made up of any rental income and other property‑related income received for the specified property.\n(3) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter of approval dated 2 December 2021 addressed to EY Corporate Advisors Pte. Ltd.\n(4) In this paragraph —\n“specified companies” means —\n(a)Lendlease Commercial Investments Pte. Ltd. (a company incorporated in Singapore); and\n(b)Lendlease Retail Investments 3 Pte. Ltd. (a company incorporated in Singapore);\n“specified property” means the property that is known as Jem and is located at 50 and 52 Jurong Gateway Road, Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Lendlease Global Commercial REIT — Section 13(12) Exemption) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

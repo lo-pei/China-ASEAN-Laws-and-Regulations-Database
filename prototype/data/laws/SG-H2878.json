@@ -1,7 +1,7 @@
 {
  "id": "SG-H2878",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（世界卫生组织）命令 1949",
   "en": "International Organisations (Immunities and Privileges) (World Health Organization) Order 1949",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9.—(1) This Order has effect as if in paragraph 4 references to representatives of member governments included references to representatives of the governments of Associate Members of the Organization.\n(2) In this Order, “representatives of the governments of Associate Members of the Organization” includes their official staff accompanying them as such representatives, who are —\n(a)delegates;\n(b)deputy delegates;\n(c)advisers;\n(d)technical experts; or\n(e)secretaries of delegations.\n[Note: The Government of the Republic of Singapore succeeded the World Health Organization on 18 March 1966.]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "International Organisations (Immunities and Privileges) (World Health Organization) Order 1949",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

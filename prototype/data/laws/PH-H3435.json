@@ -1,7 +1,7 @@
 {
  "id": "PH-H3435",
  "title": {
-  "zh": null,
+  "zh": "修订第477号共和国法第3条（经第3348号共和国法修正）的法案",
   "en": "An Act Further Amending Section Three of Republic Act Numbered Four Hundred Seventy-Seven, as Amended by Republic Act Numbered Three Thousand Three Hundred Forty-Eight",
   "orig": "An Act Further Amending Section Three of Republic Act Numbered Four Hundred Seventy-Seven, as Amended by Republic Act Numbered Three Thousand Three Hundred Forty-Eight"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amending Section Three of Republic Act Numbered Four Hundred Seventy-Seven, as Amended by Republic Act Numbered Three Thousand Three Hundred Forty-Eight",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

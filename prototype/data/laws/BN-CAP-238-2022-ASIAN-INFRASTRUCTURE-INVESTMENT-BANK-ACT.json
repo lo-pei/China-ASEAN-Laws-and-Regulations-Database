@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-238-2022-ASIAN-INFRASTRUCTURE-INVESTMENT-BANK-ACT",
  "title": {
-  "zh": null,
+  "zh": "亚洲基础设施投资银行法",
   "en": "ASIAN INFRASTRUCTURE INVESTMENT BANK ACT",
   "orig": null
  },
@@ -163,5 +163,13 @@
     "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations which are necessary or expedient for giving effect to and carrying out the provisions of this Act and for the due administration thereof.\n\n(2) Such regulations may include such incidental, consequential and supplementary provisions as the Minister considers necessary or expedient. (section 8)\n\nPROVISIONS OF AGREEMENT HAVING FORCE OF LAW\n\nSTATUS, IMMUNITIES, PRIVILEGES AND EXEMPTIONS Purpose of Chapter"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ASIAN INFRASTRUCTURE INVESTMENT BANK ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

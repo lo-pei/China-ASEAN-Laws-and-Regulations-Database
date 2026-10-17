@@ -1,7 +1,7 @@
 {
  "id": "SG-H2253",
  "title": {
-  "zh": null,
+  "zh": "所得税（第 13ZA(3) 条下的豁免）规则 2020",
   "en": "Income Tax (Exemption under Section 13ZA(3)) Rules 2020",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) The conditions for exemption from tax for the matters mentioned in section 13ZA(3)(b) of the Act are —\n(a)the provision of the basic necessities, or the allowance for basic necessities, to the individual is for any of the following purposes only:\n(i)to enable the individual (being one who ordinarily resides outside Singapore) to reside in Singapore to ensure the continuity of the employer’s trade or business at any time during the period from 1 February 2020 to 31 December 2020 (both dates inclusive);\n(ii)because there is a high risk of the individual contracting COVID‑19 due to the nature of the individual’s employment or due to the fact that the individual is required to travel out of Singapore for his or her employment at any time during the period from 1 February 2020 to 31 December 2020 (both dates inclusive) — to reduce that risk, or the resulting risk of the individual infecting others with COVID‑19;\n(iii)because a requirement of the individual’s employment that is imposed at any time during the period from 1 February 2020 to 31 December 2020 (both dates inclusive) in order to ensure business continuity in light of a COVID‑19 event exposes the individual to an elevated risk of contracting COVID‑19 — to reduce that risk; and\nExample\nAn individual has an elevated risk of contracting COVID‑19 because of a requirement of his or her employment, if the individual is required to report to a workplace that is not his or her place of residence during the period from 7 April 2020 to 1 June 2020 (being the period known as the Circuit Breaker).\n(b)before 1 February 2020, the individual’s employer did not provide to the individual or an employee with the same job scope as the individual basic necessities, or an allowance for basic necessities, for consumption or use in Singapore, except to enable the individual to carry out his or her duties outside of his or her hours of duties or in exceptional circumstances.\n(2) The prescribed amount mentioned in section 13ZA(3)(b) of the Act is $50."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption under Section 13ZA(3)) Rules 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

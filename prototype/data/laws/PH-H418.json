@@ -1,7 +1,7 @@
 {
  "id": "PH-H418",
  "title": {
-  "zh": null,
+  "zh": "修订第320号共和国法第93页外交部特别规定D-VI-9项目的法案",
   "en": "An Act Amending Item D-VI-9, Special Provisions for the Department of Foreign Affairs, Page Ninety-Three of Republic Act Numbered Three Hundred Twenty",
   "orig": "An Act Amending Item D-VI-9, Special Provisions for the Department of Foreign Affairs, Page Ninety-Three of Republic Act Numbered Three Hundred Twenty"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect July 1, 1948.\nApproved: July 13, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Item D-VI-9, Special Provisions for the Department of Foreign Affairs, Page Ninety-Three of Republic Act Numbered Three Hundred Twenty",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

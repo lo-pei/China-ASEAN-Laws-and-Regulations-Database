@@ -1,7 +1,7 @@
 {
  "id": "PH-H7946",
  "title": {
-  "zh": null,
+  "zh": "2007 年反繁文缛节法",
   "en": "Anti-Red Tape Act of 2007",
   "orig": "Anti-Red Tape Act of 2007 An Act to Improve Efficiency in the Delivery of Government Service to the Public by Reducing Bureaucratic Red Tape, Preventing Graft and Corruption, and Providing Penalties Therefor"
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity. - This Act shall take effect within fifteen (15) days following its publication in the Official Gazette or in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Anti-Red Tape Act of 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

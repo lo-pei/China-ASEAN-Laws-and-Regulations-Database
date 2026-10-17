@@ -1,7 +1,7 @@
 {
  "id": "SG-H2971",
  "title": {
-  "zh": null,
+  "zh": "陆路交通及相关事项法 2026（过渡规定）条例 2026",
   "en": "Land Transport and Related Matters Act 2026 (Transitional Provision) Regulations 2026",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Despite section 16 of the Act, sections 23I and 23J of the Active Mobility Act 2017 do not apply to, or in relation to —\n(a)an individual who, between 27 February 2026 and 31 May 2026 (both dates inclusive), drives or rides a mobility vehicle on any public path without a certificate of medical need for that mobility vehicle, certifying that the individual has a medical need to drive or ride that mobility vehicle; or\n(b)a person who employs or allows an individual mentioned in sub‑paragraph (a) to do an act mentioned in that sub‑paragraph.\n(2) In paragraph (1), “mobility vehicle” has the meaning given by section 2(1) of the Active Mobility Act 2017."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Land Transport and Related Matters Act 2026 (Transitional Provision) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

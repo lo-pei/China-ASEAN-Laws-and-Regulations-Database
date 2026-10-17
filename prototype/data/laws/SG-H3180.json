@@ -1,7 +1,7 @@
 {
  "id": "SG-H3180",
  "title": {
-  "zh": null,
+  "zh": "商船（海事劳工公约）（健康与安全保护及事故预防）条例 2014",
   "en": "Merchant Shipping (Maritime Labour Convention) (Health and Safety Protection and Accident Prevention) Regulations 2014",
   "orig": null
  },
@@ -165,5 +165,13 @@
     "en": "THE SCHEDULE\nRegulation 7(2)\nReport form\nREPORT FORM: OCCUPATIONAL ACCIDENTS, INJURIES AND DISEASES AFFECTING SEAFARERS ON BOARD\n1.Ship’s name and IMO number:\n2.Date and time of occurrence:\n3.Ship’s position at time of occurrence (Lat-Long/Name of location):\n4.Personnel involved:\nName:\nSex:\nAge:\nNationality and Passport No.:\nIf seafarer, specify designation:\nIf other persons, specify nationality and status e.g. passenger:\nIf more than one personnel involved, please include in separate sheet.\n5.Account of the occurrence:\nCovering, where applicable, circumstances leading to occurrence, nature of injuries/conditions, occurrence of fatality, degree of incapacity (temporary or permanent), duration of occurrence, location of occurrence on board, and medical treatment given.\n6.Indicate any immediate action taken in response to the occurrence:\n7.Any other relevant information (including statements from witnesses):\n8.Declare whether all statutory requirements were in order prior to the occurrence; otherwise provide details of the non-compliance(s) and actions taken:\nDeclaration (to be made by Master or most senior officer available):\nI declare that this Report (consisting of ….. pages) is true to the best of my knowledge and I make it knowing that, if it is tendered in evidence, I may be liable to prosecution if I have wilfully stated in it anything which I know to be false or do not believe to be true.\nName:\nDesignation:\nPassport No.:\nDate:\n_______________________\nSignature\n[S 925/2023 wef 01/01/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Maritime Labour Convention) (Health and Safety Protection and Accident Prevention) Regulations 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

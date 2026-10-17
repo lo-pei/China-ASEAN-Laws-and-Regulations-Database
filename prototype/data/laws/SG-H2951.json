@@ -1,7 +1,7 @@
 {
  "id": "SG-H2951",
  "title": {
-  "zh": null,
+  "zh": "土地测量师法 1991",
   "en": "Land Surveyors Act 1991",
   "orig": null
  },
@@ -646,5 +646,13 @@
     "en": "38.—(1) The Board may, with the approval of the Minister, make rules for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.\n(2) Without limiting subsection (1), the Board may, with the approval of the Minister, make rules —\n(a)prescribing forms of applications under this Act and certificates of registration, practising certificates and licences;\n(b)prescribing the requirements relating to continuing professional development to be satisfied under this Act;\n(c)prescribing the fees payable to the Board under this Act;\n(d)prescribing the subject matter of examinations to be conducted by or under the direction of the Board in the case of any applicant or class of applicants for registration;\n(e)prescribing the form of the register of surveyors, register of practitioners and register of licensees to be kept and the particulars to be entered therein;\n(f)prescribing a code of professional conduct and ethics;\n(g)requiring all or any of the following to take out and maintain insurance against liability for breach of professional duty in the course of supplying survey services:\n(i)any partnership consisting wholly of registered surveyors applying for a licence;\n(ii)any partnership or unlimited corporation applying for a licence;\n(iii)any registered surveyor applying for a practising certificate for the purpose of engaging in survey practice on his or her own account;\n(iv)any registered surveyor applying for a practising certificate who is employed or about to be employed by any person or body referred to in sub-paragraphs (i), (ii) and (iii);\n(v)any other registered surveyor applying for a practising certificate;\n(h)prescribing the terms and conditions of insurance against professional liability under this Act, including a minimum limit of indemnity; and\n(i)regulating the proceedings of an Investigation Committee.\n(3) All rules made under this section must be presented to Parliament as soon as possible after publication in the Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Land Surveyors Act 1991",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

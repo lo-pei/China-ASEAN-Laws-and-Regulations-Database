@@ -1,7 +1,7 @@
 {
  "id": "SG-H511",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（政府雇员）公告 2024",
   "en": "Central Provident Fund (Government Employees) Notification 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following persons are declared to be employees for the purposes of the Act:\n(a)every officer or employee of the Government not engaged on overseas contract terms and not in receipt of an expatriation allowance;\n(b)every employee of the Government engaged on overseas contract terms or in receipt of an expatriation allowance to the extent expressly provided for in regulations made under the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Government Employees) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

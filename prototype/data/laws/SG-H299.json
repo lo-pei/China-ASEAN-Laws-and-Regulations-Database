@@ -1,7 +1,7 @@
 {
  "id": "SG-H299",
  "title": {
-  "zh": null,
+  "zh": "银行（账目公布与提供）条例",
   "en": "Banking (Publication and Provision of Accounts) Regulations",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Every bank must make available, within a reasonable time, to any person upon the person’s request —\n(a)a copy of any statement mentioned in section 25(1)(a) of the Act; and\n(b)a document containing —\n(i)the full and correct names of all persons who are directors for the time being of the bank; and\n(ii)the names of all subsidiary companies for the time being of the bank.\n[S 809/2020 wef 01/10/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Banking (Publication and Provision of Accounts) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1507",
  "title": {
-  "zh": null,
+  "zh": "费用（财产税）命令",
   "en": "Fees (Property Tax) Order",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\n(1) For visual inspection through video display unit of —\n(a)the current Valuation List; or\n(b)a lapsed Valuation List which was in force on 31 December of any of the 5 years immediately preceding the year in which the inspection is carried out ...\n$2.50 per property tax account.\n[S 207/96 wef 10/5/96]\n[S 545/2002 wef 21/10/2002\n[S 56/2015 wef 02/02/2015]\n(2) [Deleted by S 316/2016 wef 01/07/2016]\n(3) (a) For information, supplied through electronic means, on one or more of the following items relating to each property tax account in the current Valuation List:\n(i) name of owner\n(ii) annual value\n(iii) house number and street name\n(iv) as to whether Notices have been served under section 20(2) or 22(1) of the Property Tax Act (Cap. 254)\n$40 per property tax account.\n[S 108/98 wef 1/4/98]\n(v) the tax rate\n(vi) the amount of property tax due and outstanding\n(b) For the same information in paragraph (a) supplied verbally or in written form …\n$65 per property tax account.\n(4) (a) For written or verbal information on one or more of the following items relating to each property tax account in one lapsed Valuation List which was in force on 31 December of any year other than the 5 years immediately preceding the year in which the information is requested:\n(i) name of owner\n(ii) annual value\n(iii) house number and street name\n$20 per property tax account.\n(iv) [Deleted by S 56/2015 wef 02/02/2015]\n(b) For the second and subsequent lapsed Valuation List (being one referred to in paragraph (a)) where written or verbal information relating to the same property is derived from more than one lapsed Valuation List …\n$20 per property tax account.\n(5) [Deleted by S 625/2002, wef 01/01/2003]\n(6) [Deleted by S 127/2012 wef 01/04/2012]\n(7) (a) For each search of document …\n$20 per document.\n(b) For the supply of a certified copy of each page of the document …\n$3 per page.\n(c) For the supply of a copy of each page of any document …\n30 cents per page.\n(8) For the preparation work by the following officers for the purpose of attendance in court in each subpoena:\n(i) Superscale officer\n$1,000 per subpoena.\n(ii) Division I officer\n$600 per subpoena.\n(iii) Division II officer\n$30 per subpoena.\n(iv) Division III officer\n$25 per subpoena.\n(v) Division IV officer\n$10 per subpoena.\n[S 316/2016 wef 01/07/2016]\n[S 56/2015 wef 02/02/2015]\n[S 780/2013 wef 23/12/2013]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Property Tax) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

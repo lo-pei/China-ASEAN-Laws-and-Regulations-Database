@@ -1,7 +1,7 @@
 {
  "id": "SG-H1147",
  "title": {
-  "zh": null,
+  "zh": "存款保险与保单持有人保障计划（存款保险）（复合罪行）条例 2011",
   "en": "Deposit Insurance and Policy Owners’ Protection Schemes (Deposit Insurance) (Composition of Offences) Regulations 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded in accordance with section 73 of the Act by the Authority:\n(a)an offence under the Act which is punishable with a fine only;\n(b)an offence under section 20, 45, 68(1)(b) or 69 of the Act;\n(c)an offence under subsection (1)(a) of section 68 of the Act, where the non-compliance referred to in that subsection constitutes a compoundable offence under paragraph (a) or (b); and\n(d)an offence under regulation 11(8), 12(7), 13(3) or 14(5) of the Deposit Insurance and Policy Owners’ Protection Schemes (Deposit Insurance) Regulations 2011 (G.N. No. S 239/2011)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Deposit Insurance and Policy Owners’ Protection Schemes (Deposit Insurance) (Composition of Offences) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

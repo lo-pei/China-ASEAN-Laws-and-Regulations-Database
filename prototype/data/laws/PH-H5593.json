@@ -1,7 +1,7 @@
 {
  "id": "PH-H5593",
  "title": {
-  "zh": null,
+  "zh": "将莱特省Tolosa现有的Daniel Z. Romualdez纪念渔业学校正式更名为Leyte州立渔业学校的法案",
   "en": "An Act Changing the Name of the Daniel Z. Romualdez Memorial School of Fisheries in Tolosa, Leyte, to Leyte State School of Fisheries",
   "orig": "An Act Changing the Name of the Daniel Z. Romualdez Memorial School of Fisheries in Tolosa, Leyte, to Leyte State School of Fisheries"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Daniel Z. Romualdez Memorial School of Fisheries in Tolosa, Leyte, to Leyte State School of Fisheries",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

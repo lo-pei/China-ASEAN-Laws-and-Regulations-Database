@@ -1,7 +1,7 @@
 {
  "id": "PH-H889",
  "title": {
-  "zh": null,
+  "zh": "修订并整合经修正的第 3961 号法（关于商业、工业与农业企业雇员及劳工的免费急诊医疗）与第 239 号共和国法（关于免费急诊牙科治疗）的规定",
   "en": "An Act to Revise and Consolidate the Provisions of Act Numbered Three Thousand Nine Hundred Sixty-One, as Amended, Relative to Free Emergency Medical Treatment, and Republic Act Numbered Two Hundred Thirty-Nine, Relative to Free Emergency Dental Treatment, for Employees and Laborers of Commercial, Industrial and Agricultural Establishments",
   "orig": "An Act to Revise and Consolidate the Provisions of Act Numbered Three Thousand Nine Hundred Sixty-One, as Amended, Relative to Free Emergency Medical Treatment, and Republic Act Numbered Two Hundred Thirty-Nine, Relative to Free Emergency Dental Treatment, for Employees and Laborers of Commercial, Industrial and Agricultural Establishments"
  },
@@ -122,5 +122,13 @@
     "en": "This Act shall take effect three months after its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Revise and Consolidate the Provisions of Act Numbered Three Thousand Nine Hundred Sixty-One, as Amended, Relative to Free Emergency Medical Treatment, and Republic Act Numbered Two Hundred Thirty-Nine, Relative to Free Emergency Dental Treatment, for Employees and Laborers of Commercial, Industrial and Agricultural Establishments",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

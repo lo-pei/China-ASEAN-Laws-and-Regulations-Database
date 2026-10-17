@@ -1,7 +1,7 @@
 {
  "id": "SG-H3022",
  "title": {
-  "zh": null,
+  "zh": "时效法 1959",
   "en": "Limitation Act 1959",
   "orig": null
  },
@@ -658,5 +658,13 @@
     "en": "35. In computing the period of limitation prescribed for any action, the period commencing on 15 February 1942 and ending on 30 September 1949 shall be excluded."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Limitation Act 1959",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

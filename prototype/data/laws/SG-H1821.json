@@ -1,7 +1,7 @@
 {
  "id": "SG-H1821",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 3 号）命令 2025",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Ang Mo Kio Avenue 5 and Ang Mo Kio Avenue 4, comprised in Lot number 13557L in Mukim 18 and on which Apartment Blocks 613, 614, 615, 616, 617, 618 and 619 are erected, which blocks are each marked with a grey dot in Plan 1.\nPlan 1\nANG MO KIO AVENUE 4\n2. All that part of the housing estate of the Board bounded by Choa Chu Kang Street 52, Choa Chu Kang North 6 and Choa Chu Kang Drive, comprised in Lot number 01808N in Mukim 11 and on which Apartment Blocks 553, 554, 555, 556, 557, 558, 559, 560 and 561 are erected, and in Lot number 01809X in Mukim 11 and on which Apartment Blocks 562, 563, 564, 565, 566, 567, 568 and 569 are erected, which blocks are each marked with a grey dot in Plan 2.\nPlan 2\nCHOA CHU KANG NORTH 6 / CHOA CHU KANG STREET 52\n3. All that part of the housing estate of the Board bounded by Fajar Road and Bukit Panjang Ring Road, comprised in Lot number 00809V in Mukim 14 and on which Apartment Blocks 437 and 440 are erected, in Lot number 00810M in Mukim 14 and on which Apartment Block 442 is erected, and in Lot number 00802K in Mukim 14 and on which Apartment Blocks 447, 448, 449, 450, 451, 452 and 453 are erected, which blocks are each marked with a grey dot in Plan 3.\nPlan 3\nFAJAR ROAD / BUKIT PANJANG RING ROAD\n4. All that part of the housing estate of the Board bounded by Pasir Ris Street 41, Pasir Ris Drive 4 and Pasir Ris Drive 3, comprised in Lot number 01962V in Mukim 31 and on which Apartment Blocks 463, 464, 465 and 466 are erected, in Lot number 05309C in Mukim 31 and on which Apartment Blocks 478, 479, 480 and 481 are erected, in Lot number 01951A in Mukim 31 and on which Apartment Blocks 482 and 483 are erected, and in Lot number 02176V in Mukim 31 and on which Apartment Blocks 484, 485, 486 and 487 are erected, which blocks are each marked with a grey dot in Plan 4.\nPlan 4\nPASIR RIS STREET 41 / PASIR RIS DRIVE 4\n5. All that part of the housing estate of the Board bounded by Serangoon Avenue 2, Serangoon Avenue 3, Serangoon Central Drive, Serangoon Central and Boundary Road, comprised in Lot number 13555N in Mukim 18 and on which Apartment Blocks 232A, 234A and 236A are erected, and in Lot number 07621P in Mukim 17 and on which Apartment Blocks 255, 256, 257 and 258 are erected, which blocks are each marked with a grey dot in Plan 5.\nPlan 5\nSERANGOON AVENUE 2 / SERANGOON CENTRAL DRIVE\n6. All that part of the housing estate of the Board bounded by Tampines Avenue 2, Tampines Street 32, Tampines Street 33, Tampines Street 31 and Pan Island Expressway, comprised in Lot number 07679K in Mukim 28 and on which Apartment Blocks 301, 302, 303, 304, 305, 306 and 307 are erected, in Lot number 07670X in Mukim 28 and on which Apartment Blocks 308, 309, 310, 311, 312, 313, 314 and 315 are erected, in Lot number 07681A in Mukim 28 and on which Apartment Blocks 316, 317, 318 and 323 are erected, and in Lot number 05517V in Mukim 28 and on which Apartment Blocks 319, 320, 321 and 322 are erected, which blocks are each marked with a grey dot in Plan 6.\nPlan 6\nTAMPINES STREET 32 / TAMPINES STREET 33"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

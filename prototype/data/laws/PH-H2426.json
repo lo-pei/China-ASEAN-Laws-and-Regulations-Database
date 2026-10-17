@@ -1,7 +1,7 @@
 {
  "id": "PH-H2426",
  "title": {
-  "zh": null,
+  "zh": "通过纳入工商部长并给予少数党在全国经济理事会中的代表权，增加全国经济理事会成员人数，为此修订第10号改组方案的法案",
   "en": "An Act Increasing the Membership of the National Economic Council by Including the Secretary of Commerce and Industry and Granting the Minority Party Representation in the Membership of the National Economic Council, Amending for the Purpose Reorganization Plan Numbered Ten",
   "orig": "An Act Increasing the Membership of the National Economic Council by Including the Secretary of Commerce and Industry and Granting the Minority Party Representation in the Membership of the National Economic Council, Amending for the Purpose Reorganization Plan Numbered Ten"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Membership of the National Economic Council by Including the Secretary of Commerce and Industry and Granting the Minority Party Representation in the Membership of the National Economic Council, Amending for the Purpose Reorganization Plan Numbered Ten",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

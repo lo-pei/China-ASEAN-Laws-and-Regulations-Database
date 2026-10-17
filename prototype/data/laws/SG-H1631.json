@@ -1,7 +1,7 @@
 {
  "id": "SG-H1631",
  "title": {
-  "zh": null,
+  "zh": "商品与服务税（退税支付方式）条例 2021",
   "en": "Goods and Services Tax (Mode of Payment for Refunds) Regulations 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) A refund to a taxable person under the Act (including any refund or payment under section 90 of the Act) is to be made by transferring the funds for the refund to a bank account mentioned in paragraph (2) through any of the following means:\n(a)telegraphic transfer;\n(b)the electronic direct debit mechanism known as GIRO;\n(c)the electronic fund transfer service known as PayNow.\n(2) For the purpose of paragraph (1), the bank account must be in the name of the taxable person or a person authorised by the taxable person to receive the funds on behalf of the taxable person.\n(3) A refund under paragraph (1) may be made through any means not mentioned in that paragraph if —\n(a)the taxable person —\n(i)has made reasonable attempts to open a bank account for the purposes of receiving the refund through a means mentioned in paragraph (1), but has been unable to open any such bank account; and\n(ii)has made reasonable attempts to find a person to authorise to receive, on behalf of the taxable person, the refund into a bank account in the name of that person through a means mentioned in paragraph (1), but has been unable to find any such person; or\n(b)due to any system failure, the funds for the refund cannot be transferred to a bank account mentioned in paragraph (2) through a means mentioned in paragraph (1)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Goods and Services Tax (Mode of Payment for Refunds) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

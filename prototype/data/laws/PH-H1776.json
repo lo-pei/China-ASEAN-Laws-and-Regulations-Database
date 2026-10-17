@@ -1,7 +1,7 @@
 {
  "id": "PH-H1776",
  "title": {
-  "zh": null,
+  "zh": "授予 Ricardo P. Ocampo 先生在菲律宾建设、安装、设立和运营公共无线电话与无线电报海岸站及相关中继站、陆上移动站的临时许可的法案",
   "en": "An Act Granting Mr. Ricardo P. Ocampo, Residing at Number One Hundred Forty C. Francisco, Makati, Rizal, Philippines, a Temporary Permit to Construct, Install, Establish and Operate Public Radiotelephone and Radiotelegraph Coastal Stations, with the Corresponding Relay Stations, and Public Fixed and Public Base and Land Mobile Stations for the Reception and Transmission of Radiotelephone and Radiotelegraph Communications Within the Philippines not at Present Served by Public Radiotelegraph and/or Radiotelephone Systems Such as in Lumber and Mining Concessions, Farms, Deep-Sea Fishing and Isolated Municipalities",
   "orig": "An Act Granting Mr. Ricardo P. Ocampo, Residing at Number One Hundred Forty C. Francisco, Makati, Rizal, Philippines, a Temporary Permit to Construct, Install, Establish and Operate Public Radiotelephone and Radiotelegraph Coastal Stations, with the Corresponding Relay Stations, and Public Fixed and Public Base and Land Mobile Stations for the Reception and Transmission of Radiotelephone and Radiotelegraph Communications Within the Philippines not at Present Served by Public Radiotelegraph and/or Radiotelephone Systems Such as in Lumber and Mining Concessions, Farms, Deep-Sea Fishing and Isolated Municipalities"
  },
@@ -180,5 +180,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 23, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Mr. Ricardo P. Ocampo, Residing at Number One Hundred Forty C. Francisco, Makati, Rizal, Philippines, a Temporary Permit to Construct, Install, Establish and Operate Public Radiotelephone and Radiotelegraph Coastal Stations, with the Corresponding Relay Stations, and Public Fixed and Public Base and Land Mobile Stations for the Reception and Transmission of Radiotelephone and Radiotelegraph Communications Within the Philippines not at Present Served by Public Radiotelegraph and/or Radiotelephone Systems Such as in Lumber and Mining Concessions, Farms, Deep-Sea Fishing and Isolated Municipalities",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

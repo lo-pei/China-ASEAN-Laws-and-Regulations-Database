@@ -1,7 +1,7 @@
 {
  "id": "PH-H5642",
  "title": {
-  "zh": null,
+  "zh": "修订第 129 号国民议会法（即 1981 年司法重组法）第 14 条的法案",
   "en": "An Act to Amend Section Fourteen of Batas Pambansa Bilang 129, Otherwise known as the Judiciary Reorganization Act of 1981",
   "orig": "An Act to Amend Section Fourteen of Batas Pambansa Bilang 129, Otherwise known as the Judiciary Reorganization Act of 1981"
  },
@@ -200,5 +200,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Fourteen of Batas Pambansa Bilang 129, Otherwise known as the Judiciary Reorganization Act of 1981",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

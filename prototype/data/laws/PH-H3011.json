@@ -1,7 +1,7 @@
 {
  "id": "PH-H3011",
  "title": {
-  "zh": null,
+  "zh": "将阿尔拜省 Guinobatan市镇阿尔拜中学的名称变更为Pio Duran 纪念学校的法案",
   "en": "An Act Changing the Name of the Albay High School in the Municipality of Guinobatan, Province of Albay, to Pio Duran Memorial School",
   "orig": "An Act Changing the Name of the Albay High School in the Municipality of Guinobatan, Province of Albay, to Pio Duran Memorial School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Albay High School in the Municipality of Guinobatan, Province of Albay, to Pio Duran Memorial School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

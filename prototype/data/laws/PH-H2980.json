@@ -1,7 +1,7 @@
 {
  "id": "PH-H2980",
  "title": {
-  "zh": null,
+  "zh": "规定政府雇员中的政府服务保险系统成员重建其1951年6月16日前服务记录的新期限，为此修订《政府服务保险法》第13-A条的法案",
   "en": "An Act Providing for a New Period Within Which an Employee of the Government Who is a Member of the Government Service Insurance System Shall Reconstruct the Record of His Service Rendered Prior to June Sixteen, Nineteen Hundred Fifty-One, Amending for This Purpose, Section Thirteen-A of the Government Service Insurance Act",
   "orig": "An Act Providing for a New Period Within Which an Employee of the Government Who is a Member of the Government Service Insurance System Shall Reconstruct the Record of His Service Rendered Prior to June Sixteen, Nineteen Hundred Fifty-One, Amending for This Purpose, Section Thirteen-A of the Government Service Insurance Act"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for a New Period Within Which an Employee of the Government Who is a Member of the Government Service Insurance System Shall Reconstruct the Record of His Service Rendered Prior to June Sixteen, Nineteen Hundred Fifty-One, Amending for This Purpose, Section Thirteen-A of the Government Service Insurance Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

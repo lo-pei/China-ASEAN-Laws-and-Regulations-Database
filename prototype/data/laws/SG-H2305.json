@@ -1,7 +1,7 @@
 {
  "id": "SG-H2305",
  "title": {
-  "zh": null,
+  "zh": "所得税（减少或消除化学品风险暴露的机器、设备或系统以及有效的化学危害控制装置或措施）规则",
   "en": "Income Tax (Machine, Equipment or System which Reduces or Eliminates Exposure to Chemical Risk and Effective Chemical Hazard Control Device or Measure) Rules",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nCategory of machine, equipment, system, device or measure\nQualifying Criteria\n1.Water-based degreasing machine or system\nThe concentration of the toxic substance given off from the machine, equipment or system must be below 50% of the PEL.\n2.Automated bagging or packing machine or system\n3.Automated degreasing machine or system\n4.Any other machine, equipment or system\n5.Local exhaust ventilation system\nWhere the chemical hazard control device is a distinct entity or accessory and not an intrinsic or inherent part of any machine, equipment or process and where —\n6.Fugitive emission control equipment or system such as vapour recovery system, enclosed pump, floating roof and condensing unit\n(a)the machine, equipment or process is new, the concentration of the toxic substance must be below 50% of the PEL; or\n7.Dilution ventilation system to minimise concentrations of airborne contaminants\n(b)the machine, equipment or process is not new —\n(i)if the initial concentration of the toxic substance is above 50% of the PEL, the concentration of the toxic substance must be reduced to below 50% of the PEL after the installation of the control device; or\n(ii)if the initial concentration of the toxic substance is below 50% of the PEL, the concentration of the toxic substance must be reduced to below 10% of the PEL after the installation of the control device\n8.Enclosed or automated system to minimise generation of airborne contaminants\nThe chemical hazard control measure installed for any existing machine, equipment or process must reduce the concentration of toxic substance to —\n9.Modification to machines, equipment or processes to minimise generation of airborne contaminants.\n(a)below 50% of the PEL, if the initial concentration of the toxic substance is above 50% of the PEL; or\n(b)below 10% of the PEL, if the initial concentration of the toxic substance is below 50% of the PEL."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Machine, Equipment or System which Reduces or Eliminates Exposure to Chemical Risk and Effective Chemical Hazard Control Device or Measure) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

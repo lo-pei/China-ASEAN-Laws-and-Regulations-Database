@@ -1,7 +1,7 @@
 {
  "id": "SG-H3005",
  "title": {
-  "zh": null,
+  "zh": "法律职业（职业赔偿保险）规则",
   "en": "Legal Profession (Professional Indemnity Insurance) Rules",
   "orig": null
  },
@@ -165,5 +165,13 @@
     "en": "THE SCHEDULE\nRule 4\nAmount of Insurance Cover\nFirst column\nSecond column\nThird column\n1. For the purposes of rule 3(1)(a), if the advocate and solicitor is or will be practising in —\n(a) a law firm\nFor each and every claim in respect of civil liability incurred by that advocate and solicitor\n$1 million\n(b) a law corporation\nFor each and every claim in respect of civil liability incurred by that advocate and solicitor —\n(a) if the law corporation has only one director\n$1 million\n(b) in any other case\n$2 million\n(c) a limited liability law partnership\nFor each and every claim in respect of civil liability incurred by that advocate and solicitor\n$2 million\n2. For the purposes of rule 3(2)\nFor each and every claim in respect of civil liability incurred by the law corporation —\n(a) if the law corporation has only one director\n$1 million\n(b) in any other case\n$2 million\n3. For the purposes of rule 3(2A)\nFor each and every claim in respect of civil liability incurred by the limited liability law partnership\n$2 million.\n[S 386/2010 wef 07/04/2011]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Professional Indemnity Insurance) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1762",
  "title": {
-  "zh": null,
+  "zh": "挨户与街道募捐（罪行构成）条例 2005",
   "en": "House to House and Street Collections (Composition of Offences) Regulations 2005",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The following offences may be compounded by the Commissioner of Police in accordance with section 243 of the Criminal Procedure Code 20102:\n2 The reference to section 199A of the Criminal Procedure Code (Cap. 68, 1985 Revised Edition) is updated to section 243 of the Criminal Procedure Code 2010, pursuant to section 429(15) of the Criminal Procedure Code 2010.\n(a)an offence under section 7 of the Act;\n(b)an offence under section 5(3) of the Act in relation to a contravention of regulation 4, 5, 6, 7, 12 or 14 of the House to House and Street Collections Regulations 1976.\n(2) The Commissioner of Police may compound any offence specified in paragraph (1) by collecting from the person reasonably suspected of having committed the offence —\n(a)a sum of money not exceeding $50 in respect of an offence mentioned in paragraph (1)(a); or\n(b)a sum of money not exceeding $500 in respect of an offence mentioned in paragraph (1)(b)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "House to House and Street Collections (Composition of Offences) Regulations 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

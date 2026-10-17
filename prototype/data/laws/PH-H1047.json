@@ -1,7 +1,7 @@
 {
  "id": "PH-H1047",
  "title": {
-  "zh": null,
+  "zh": "废止第920号共和国法第一编C部分（a）目第34项（e），并将其中所定45000比索用于高山省Calanan-Tuga-Pinukpuk公路建设的法案",
   "en": "An Act Repealing Item Thirty-Four (e), Subsection (a), Title C of Section One of Republic Act Numbered Nine Hundred and Twenty, and Appropriating the Amount of Forty-Five Thousand Pesos Therein Provided for the Construction of the Calanan-Tuga-Pinukpuk Road in Mountain Province",
   "orig": "An Act Repealing Item Thirty-Four (e), Subsection (a), Title C of Section One of Republic Act Numbered Nine Hundred and Twenty, and Appropriating the Amount of Forty-Five Thousand Pesos Therein Provided for the Construction of the Calanan-Tuga-Pinukpuk Road in Mountain Province"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 10, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Repealing Item Thirty-Four (e), Subsection (a), Title C of Section One of Republic Act Numbered Nine Hundred and Twenty, and Appropriating the Amount of Forty-Five Thousand Pesos Therein Provided for the Construction of the Calanan-Tuga-Pinukpuk Road in Mountain Province",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1969",
  "title": {
-  "zh": null,
+  "zh": "恢复Philippine Air Lines, Inc.的国际航空运输服务并为此核拨必要资金的法案",
   "en": "An Act to Reactivate the International Air Transport Services of the Philippine Air Lines, Inc., and to Appropriate the Necessary Funds Therefor",
   "orig": "An Act to Reactivate the International Air Transport Services of the Philippine Air Lines, Inc., and to Appropriate the Necessary Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "Effective date. This Act shall take effect upon its approval.\nApproved, June 5, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Reactivate the International Air Transport Services of the Philippine Air Lines, Inc., and to Appropriate the Necessary Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

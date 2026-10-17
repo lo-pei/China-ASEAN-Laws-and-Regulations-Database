@@ -1,7 +1,7 @@
 {
  "id": "SG-H816",
  "title": {
-  "zh": null,
+  "zh": "消费者保护（公平交易）（退出式做法）条例 2009",
   "en": "Consumer Protection (Fair Trading) (Opt-Out Practices) Regulations 2009",
   "orig": null
  },
@@ -129,5 +129,11 @@
     "en": "7.—(1) These Regulations do not apply to the supply of insurance cover under the CareShield Life Scheme, the Dependants’ Protection Insurance Scheme, the ElderShield Scheme, the Home Protection Insurance Scheme, the MediShield Life Scheme and the Lifelong Income Scheme.\n(2) In this regulation —\n“CareShield Life Scheme” means the severe disability insurance scheme called the CareShield Life Scheme established by section 5(1) of the CareShield Life and Long‑Term Care Act 2019;\n“Dependants’ Protection Insurance Scheme” means the Dependants’ Protection Insurance Scheme established and maintained by the Central Provident Fund Board under section 41 of the Central Provident Fund Act 1953;\n“ElderShield Scheme” means the severe disability insurance scheme called the ElderShield Scheme established by section 11(1)(b) of the CareShield Life and Long‑Term Care Act 2019, and includes the former ElderShield Scheme under that Act;\n“Home Protection Insurance Scheme” means the Home Protection Insurance Scheme established and maintained by the Central Provident Fund Board under section 29 of the Central Provident Fund Act 1953;\n“Lifelong Income Scheme” means the Lifelong Income Scheme established and maintained by the Central Provident Fund Board under section 27K of the Central Provident Fund Act 1953;\n“MediShield Life Scheme” means the medical insurance scheme called the MediShield Life Scheme established under section 3 of the MediShield Life Scheme Act 2015."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Consumer Protection (Fair Trading) (Opt-Out Practices) Regulations 2009",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

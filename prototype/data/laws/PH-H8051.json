@@ -1,7 +1,7 @@
 {
  "id": "PH-H8051",
  "title": {
-  "zh": null,
+  "zh": "将消防局（BFP）与监狱管理与刑罚局（BJMP）符合最低教育资格与相应资格的期限延长五年，为此修订第 9263 号共和国法并为其他目的法案",
   "en": "An Act Extending for Five (5) Years the Reglementary Period for Complying with the Minimum Educational Qualification and Appropriate Eligibility in the Bureau of Fire Protection (BFP) and the Bureau of Jail Management and Penology (BJMP), Amending for the purpose certain provision of Republic Act No. 9263, otherwise known as the \"Bureau of Fire Protection and Bureau of Jail Management and Penology Professionalization Act of 2004\" and for other purposes",
   "orig": "An Act Extending for Five (5) Years the Reglementary Period for Complying with the Minimum Educational Qualification and Appropriate Eligibility in the Bureau of Fire Protection (BFP) and the Bureau of Jail Management and Penology (BJMP), Amending for the purpose certain provision of Republic Act No. 9263, otherwise known as the \"Bureau of Fire Protection and Bureau of Jail Management and Penology Professionalization Act of 2004\" and for other purposes"
  },
@@ -91,14 +91,23 @@
    }
   },
   {
-   "id": "PH-H8051-A5_2",
+   "id": "PH-H8051-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Section 5."
    },
    "text": {
     "en": "Effectivity Clause. - This Act shall take effect upon its publication in at least two (2) national newspapers of general circulation."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending for Five (5) Years the Reglementary Period for Complying with the Minimum Educational Qualification and Appropriate Eligibility in the Bureau of Fire Protection (BFP) and the Bureau of Jail Management and Penology (BJMP), Amending for the purpose certain provision of Republic Act No. 9263, otherwise known as the \"Bureau of Fire Protection and Bureau of Jail Management and Penology Professionalization Act of 2004\" and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

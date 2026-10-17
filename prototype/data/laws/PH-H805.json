@@ -1,7 +1,7 @@
 {
  "id": "PH-H805",
  "title": {
-  "zh": null,
+  "zh": "规定因向盟国外国武装部队提供服务或接受其委任而丧失菲律宾公民身份者，可重新取得菲律宾公民身份并为此宣誓效忠的法案",
   "en": "An Act Providing for Reacquisition of Philippine Citizenship By Persons Who Lost Such Citizenship By Rendering Service To, or Accepting Commission In, the Armed Forces of An Allied Foreign Country, and Taking An Oath of Allegiance Incident Thereto",
   "orig": "An Act Providing for Reacquisition of Philippine Citizenship By Persons Who Lost Such Citizenship By Rendering Service To, or Accepting Commission In, the Armed Forces of An Allied Foreign Country, and Taking An Oath of Allegiance Incident Thereto"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for Reacquisition of Philippine Citizenship By Persons Who Lost Such Citizenship By Rendering Service To, or Accepting Commission In, the Armed Forces of An Allied Foreign Country, and Taking An Oath of Allegiance Incident Thereto",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3306",
  "title": {
-  "zh": null,
+  "zh": "国家社会服务理事会法 1992",
   "en": "National Council of Social Service Act 1992",
   "orig": null
  },
@@ -826,5 +826,13 @@
     "en": "38. The Minister may make regulations in respect of the manner in which an appeal under section 16 may be made, and the procedure to be adopted in the hearing of any appeal.\n[Act 3 of 2026 wef 01/08/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "National Council of Social Service Act 1992",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

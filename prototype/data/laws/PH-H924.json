@@ -1,7 +1,7 @@
 {
  "id": "PH-H924",
  "title": {
-  "zh": null,
+  "zh": "将现有南甘马粦农业学校改设为Baybay国立农业学校类型的南甘马粦区域农业学校，并授权为此拨款的法案",
   "en": "An Act to Convert the Present Camarines Sur Agricultural School into the Camarines Sur Regional Agricultural School of the Baybay National Agricultural School Type, and to Authorize the Appropriation of Funds for the Purpose",
   "orig": "An Act to Convert the Present Camarines Sur Agricultural School into the Camarines Sur Regional Agricultural School of the Baybay National Agricultural School Type, and to Authorize the Appropriation of Funds for the Purpose"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Present Camarines Sur Agricultural School into the Camarines Sur Regional Agricultural School of the Baybay National Agricultural School Type, and to Authorize the Appropriation of Funds for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

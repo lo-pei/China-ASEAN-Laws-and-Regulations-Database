@@ -1,7 +1,7 @@
 {
  "id": "PH-H4169",
  "title": {
-  "zh": null,
+  "zh": "将本格特-碧瑶省学校分区重组为两个学校分区、为各分区配备必要办公人员与额外教职员并为其拨款及为其他目的法案",
   "en": "An Act Reorganize the School Division of the Province of Benguet-Baguio into Two School Divisions, Provide Each Division with the Necessary Division Office Staff and Additional School Personnel, Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act Reorganize the School Division of the Province of Benguet-Baguio into Two School Divisions, Provide Each Division with the Necessary Division Office Staff and Additional School Personnel, Appropriating Funds Therefor and for Other Purposes"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reorganize the School Division of the Province of Benguet-Baguio into Two School Divisions, Provide Each Division with the Necessary Division Office Staff and Additional School Personnel, Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

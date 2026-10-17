@@ -1,7 +1,7 @@
 {
  "id": "PH-H4221",
  "title": {
-  "zh": null,
+  "zh": "授予 Marinas, Incorporated 在甲米地省 Ternate 市镇建设、运营和维护制冰厂与冷藏库并在该市镇销售冰和供应冷藏的特许权法案",
   "en": "An Act Granting Marinas, Incorporated a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Ternate, Province of Cavite, and to Sell Ice and Supply Cold Storage in the Said Municipality",
   "orig": "An Act Granting Marinas, Incorporated a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Ternate, Province of Cavite, and to Sell Ice and Supply Cold Storage in the Said Municipality"
  },
@@ -121,5 +121,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Marinas, Incorporated a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Ternate, Province of Cavite, and to Sell Ice and Supply Cold Storage in the Said Municipality",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

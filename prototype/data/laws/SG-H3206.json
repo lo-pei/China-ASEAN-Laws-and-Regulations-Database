@@ -1,7 +1,7 @@
 {
  "id": "SG-H3206",
  "title": {
-  "zh": null,
+  "zh": "商船（新加坡船舶检验）条例",
   "en": "Merchant Shipping (Survey of Singapore Ships) Regulations",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "10. Every notice or document required by these Regulations to be given or served on any organisation may be given or served —\n(a)by delivering it at the usual or last known place of business of the organisation in a cover addressed to that organisation; or\n(b)by forwarding it by post in a prepaid envelope addressed to that organisation at its usual or last known place of business."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Survey of Singapore Ships) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

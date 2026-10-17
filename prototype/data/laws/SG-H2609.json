@@ -1,7 +1,7 @@
 {
  "id": "SG-H2609",
  "title": {
-  "zh": null,
+  "zh": "传染病（检疫）条例",
   "en": "Infectious Diseases (Quarantine) Regulations",
   "orig": null
  },
@@ -928,5 +928,13 @@
     "en": "SIXTH SCHEDULE\nRegulations 28A(7) and 48\n1. For an inspection of vessel and the issue of a ship sanitation control certificate or ship sanitation control exemption certificate in the Form E set out in the Fifth Schedule:\n(a)for a vessel not exceeding 75 gross tonnes\n$215\n(b)for a vessel exceeding 75 gross tonnes\n$245\n2. [Deleted by S 638/2025 wef 01/10/2025]\n3. For a permit to import, export or tranship a coffin containing human remains\n...\n...\n...\n...\n...\n...\n$17.50\n4. For a permit in the Form C set out in the Fifth Schedule\n...\n...\n...\n...\n...\n...\n$ 10 per month\n5. [Deleted by S 638/2025 wef 01/10/2025]\n6. [Deleted by S 558/2010 wef 01/10/2010]\n7.—(1) For a duplicate of a certificate issued under paragraph 1\n...\n...\n...\n...\n...\n$ 10\n(2) For an extension not exceeding one month of ship sanitation control certificate or ship sanitation control exemption certificate\n...\n...\n...\n...\n...\n$ 10\n(3) [Deleted by S 798/2014 wef 01/01/2015]\n8. Hospital fees and charges payable in respect of any person isolated in a quarantine station in a hospital.\n[S 638/2025 wef 01/10/2025]\n[S 492/2007 wef 24/09/2010]\n[S 798/2014 wef 01/01/2015]\n[S 708/2017 wef 01/01/2018]\n[S 638/2025 wef 01/10/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Infectious Diseases (Quarantine) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

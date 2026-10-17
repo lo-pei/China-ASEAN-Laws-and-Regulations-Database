@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-108-1962-DATE-FOR-THE-COMING-INTO-FORCE-OF-PART-IX-E96041",
+ "title": {
+  "zh": "州宪法第九部分生效日期",
+  "en": "DATE FOR THE COMING INTO FORCE OF PART IX OF THE STATE CONSTITUTION 1",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p25",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 453,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-108-1962-DATE-FOR-THE-COMING-INTO-FORCE-OF-PART-IX-OF-THE-STATE-CONSTITUTION-1.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-108-1962-DATE-FOR-THE-COMING-INTO-FORCE-OF-PART-IX-OF-THE-STATE-CONSTITUTION-1.pdf》（2 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-108-1962-DATE-FOR-THE-COMING-INTO-FORCE-OF-PART-IX-E96041-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "[ ] No. S 108\n\nTHE CONSTITUTION OF\n\nTHE STATE OF BRUNEI, 1959 Date for the coming into force of Part IX of the\n\nSTATE CONSTITUTION In exercise of the powers vested in him by subsection 2 of Section 1 of the Constitution of the State of Brunei, 1959, His Highness the Sultan hereby appoints the 1st day of January, 1962, as the date for the coming into force of Part IX of the State Constitution.\n\nRAJA AZAM BIN RAJA KAMARULZAMAN State Secretary, Brunei."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DATE FOR THE COMING INTO FORCE OF PART IX OF THE STATE CONSTITUTION 1",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

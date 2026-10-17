@@ -1,7 +1,7 @@
 {
  "id": "PH-H10605",
  "title": {
-  "zh": null,
+  "zh": "宣布每年10月27日为Sarangani省特别工作假日，以表彰Sarangani原住民对菲律宾丰富多元文化遗产的独特贡献的法案",
   "en": "An Act Declaring October 27 of Every Year a Special Working Holiday in the Province of Sarangani in Recognition of the Unique Contribution of the Indigenous Peoples of Sarangani to the Rich and Diverse Cultural Heritage of the Philippines",
   "orig": "An Act Declaring October 27 of Every Year a Special Working Holiday in the Province of Sarangani in Recognition of the Unique Contribution of the Indigenous Peoples of Sarangani to the Rich and Diverse Cultural Heritage of the Philippines"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring October 27 of Every Year a Special Working Holiday in the Province of Sarangani in Recognition of the Unique Contribution of the Indigenous Peoples of Sarangani to the Rich and Diverse Cultural Heritage of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

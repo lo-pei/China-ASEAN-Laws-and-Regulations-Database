@@ -1,7 +1,7 @@
 {
  "id": "PH-H8829",
  "title": {
-  "zh": null,
+  "zh": "将拉乌尼翁第二区工程办公室由拉乌尼翁Naguilian迁至拉乌尼翁Agoo，为此修订第9033号共和国法",
   "en": "An Act Transferring the Location of the La Union Second District Engineering Office From Naguilian, La Union to Agoo, La Union, Amending for This Purpose Republic Act No. 9033",
   "orig": "An Act Transferring the Location of the La Union Second District Engineering Office From Naguilian, La Union to Agoo, La Union, Amending for This Purpose Republic Act No. 9033"
  },
@@ -70,5 +70,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring the Location of the La Union Second District Engineering Office From Naguilian, La Union to Agoo, La Union, Amending for This Purpose Republic Act No. 9033",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

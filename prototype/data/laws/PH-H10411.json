@@ -1,7 +1,7 @@
 {
  "id": "PH-H10411",
  "title": {
-  "zh": null,
+  "zh": "授予 Leyeco II 电力合作社在莱特省 Tacloban 市及 Babatngon、Palo 市镇建设、运营、管理和维护配电系统，向终端用户输电的特许经营权法案",
   "en": "An Act Granting a Franchise to the Leyte II Electric Cooperative Inc. (Leyeco II) to Construct, Install, Establish, Operate, Own, Manage, and Maintain Distribution Systems for the Conveyance of Electric Power to the End-Users in the City of Tacloban and Municipalities of Babatngon and Palo, Province of Leyte",
   "orig": "An Act Granting a Franchise to the Leyte II Electric Cooperative Inc. (Leyeco II) to Construct, Install, Establish, Operate, Own, Manage, and Maintain Distribution Systems for the Conveyance of Electric Power to the End-Users in the City of Tacloban and Municipalities of Babatngon and Palo, Province of Leyte"
  },
@@ -272,5 +272,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting a Franchise to the Leyte II Electric Cooperative Inc. (Leyeco II) to Construct, Install, Establish, Operate, Own, Manage, and Maintain Distribution Systems for the Conveyance of Electric Power to the End-Users in the City of Tacloban and Municipalities of Babatngon and Palo, Province of Leyte",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

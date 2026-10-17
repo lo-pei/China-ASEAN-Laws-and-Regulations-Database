@@ -1,7 +1,7 @@
 {
  "id": "PH-H1435",
  "title": {
-  "zh": null,
+  "zh": "修订第 1345 号共和国法（题为《设立国家销售公司、解散价格稳定公司、为其拨款并为其他目的法案》）",
   "en": "An Act to Amend Republic Act Numbered Thirteen Hundred Forty-Five, Entitled “An Act Creating the National Marketing Corporation and Dissolving the Price Stabilization Corporation, Appropriating Funds Therefor, and for Other Purposes",
   "orig": "An Act to Amend Republic Act Numbered Thirteen Hundred Forty-Five, Entitled “An Act Creating the National Marketing Corporation and Dissolving the Price Stabilization Corporation, Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 14, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Thirteen Hundred Forty-Five, Entitled “An Act Creating the National Marketing Corporation and Dissolving the Price Stabilization Corporation, Appropriating Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

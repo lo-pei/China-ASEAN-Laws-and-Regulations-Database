@@ -1,7 +1,7 @@
 {
  "id": "SG-H2286",
  "title": {
-  "zh": null,
+  "zh": "所得税（国际税务合规协定）（主管当局协定——美国）命令 2021",
   "en": "Income Tax (International Tax Compliance Agreements) (Competent Authority Agreement — United States of America) Order 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The agreement between the competent authorities of the Republic of Singapore and the United States of America on the Exchange of Country‑By‑Country Reports, signed on 6 October 2020, is declared as an international tax compliance agreement for the purposes of Part XXB of the Act with effect from 1 January 2021."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (International Tax Compliance Agreements) (Competent Authority Agreement — United States of America) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

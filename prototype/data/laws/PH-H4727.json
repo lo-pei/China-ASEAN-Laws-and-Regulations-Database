@@ -1,7 +1,7 @@
 {
  "id": "PH-H4727",
  "title": {
-  "zh": null,
+  "zh": "授予 Philippine Commercial and Industrial Bank 在菲律宾境内设立、运营固定点对点、陆基、陆上移动、航空与海岸至船舶无线电台的临时许可法案",
   "en": "An Act Granting Philippine Commercial and Industrial Bank, a Temporary Permit to Establish, Operate and Maintain Private Fixed Point-to-Point, Land Based, Land Mobile, Aeronautical and Coast-to-Ship Radio Stations for the Reception and Transmission of Wireless Messages Within the Philippines",
   "orig": "An Act Granting Philippine Commercial and Industrial Bank, a Temporary Permit to Establish, Operate and Maintain Private Fixed Point-to-Point, Land Based, Land Mobile, Aeronautical and Coast-to-Ship Radio Stations for the Reception and Transmission of Wireless Messages Within the Philippines"
  },
@@ -161,5 +161,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 31, 1970."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Philippine Commercial and Industrial Bank, a Temporary Permit to Establish, Operate and Maintain Private Fixed Point-to-Point, Land Based, Land Mobile, Aeronautical and Coast-to-Ship Radio Stations for the Reception and Transmission of Wireless Messages Within the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

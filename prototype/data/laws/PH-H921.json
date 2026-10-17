@@ -1,7 +1,7 @@
 {
  "id": "PH-H921",
  "title": {
-  "zh": null,
+  "zh": "通过修订第73号联邦法（即《禁止捕杀、猎捕、伤害或带走Bubalus Mindorensis（通称Tamaraw）的法案》），更严格地执行禁止捕杀Tamaraw规定的法案",
   "en": "An Act Providing for a More Rigid Enforcement of the Prohibition Against the Killing of the Bubalus Mindorensis, Commonly Known as Tamaraw, by Amending Commonwealth Act Numbered Seventy-Three, Entitled “An Act Prohibiting the Killing, Hunting, Wounding or Taking Away of Bubalus Mindorensis, Commonly Known as Tamaraw”",
   "orig": "An Act Providing for a More Rigid Enforcement of the Prohibition Against the Killing of the Bubalus Mindorensis, Commonly Known as Tamaraw, by Amending Commonwealth Act Numbered Seventy-Three, Entitled “An Act Prohibiting the Killing, Hunting, Wounding or Taking Away of Bubalus Mindorensis, Commonly Known as Tamaraw”"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for a More Rigid Enforcement of the Prohibition Against the Killing of the Bubalus Mindorensis, Commonly Known as Tamaraw, by Amending Commonwealth Act Numbered Seventy-Three, Entitled “An Act Prohibiting the Killing, Hunting, Wounding or Taking Away of Bubalus Mindorensis, Commonly Known as Tamaraw”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

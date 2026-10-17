@@ -1,7 +1,7 @@
 {
  "id": "SG-H1510",
  "title": {
-  "zh": null,
+  "zh": "费用（公共信托人费用减免）命令",
   "en": "Fees (Remission of Public Trustee Fees) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. All fees chargeable under the Public Trustee (Fees) Rules (Cap. 260, R 2) in respect of gratuities under section 16 of the Pensions Act (Cap. 225) paid to the Public Trustee as legal personal representative of deceased Government officers are remitted."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Remission of Public Trustee Fees) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

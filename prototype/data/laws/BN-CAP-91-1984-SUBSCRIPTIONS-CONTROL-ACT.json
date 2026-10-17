@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-91-1984-SUBSCRIPTIONS-CONTROL-ACT",
  "title": {
-  "zh": null,
+  "zh": "募捐管制法",
   "en": "SUBSCRIPTIONS CONTROL ACT",
   "orig": null
  },
@@ -94,5 +94,13 @@
     "en": "( 1) A contravention of section 2 shall constitute an Offences and offence: Penalty, for a first offence a fine of $4,000; for a penalties second or subsequent offence a fine of $4,000 and imprisonment for 6 months.\n\n(2) No person shall use or permit the use of any contributions or subscriptions for a purpose other than that for or in respect of which they were collected: Penalty, a fine of $4,000 and imprisonment for 6 months.\n\n(3) It shall be lawful for a magistrate upon application made by or on behalf of the Minister and upon proof that any person has in his possession or control moneys received or solicited in contravention of this Act to order that such moneys shall be paid into the Treasury and be forfeited to the Government. Any such order shall have effect according to its tenor and any contravention thereof shall constitute an offence: Penalty, a fine of $8,000. ( 4) Notwithstanding the provisions of subsection (3) if the Minister is satisfied that any money paid to him in pursuance of an order under subsection (3) is or represents money originally contributed or subscribed by a person who 6 CAP. 91 Subscriptions Control did not know and could not reasonably have ascertained that such money was received or solicited in contravention of this Act, he shall upon application pay to such person a sum equivalent to the money in respect of which he is so satisfied. Rules 6. His Majesty the Sultan and Yang Di-Pertuan in Council may make rules to provide for carrying this Act into effect and in particular for -\n\n(a) prescribing the information and particulars to be supplied\n\n(i) upon making an application under section 3;\n\n(ii) for the purpose of complying with a notice under section 4; or\n\n(iii) upon making an application under subsection ( 4) of section 5;\n\n(b) authorising persons to receive applications under section 3; and ·\n\n(c) delegating to any Government officer the powers cqnferred upon the Minister by the provisions of this Act other than the powers conferred by this section."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUBSCRIPTIONS CONTROL ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

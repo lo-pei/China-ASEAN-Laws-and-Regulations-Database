@@ -1,7 +1,7 @@
 {
  "id": "PH-H1121",
  "title": {
-  "zh": null,
+  "zh": "对发现或发明可将本国农业原料转化为既能稳定国民经济又能稳定美元资源的产品的新工艺、发现或发明者给予特别特权的法案",
   "en": "An Act Granting a Special Privilege to Any Person Who Discovers or Invents a New Process, Discovery or Invention for the Conversion of Any Native Agricultural Raw Product into a Product Which Will Stabilize not Only the National Economy but also the Dollar Resources",
   "orig": "An Act Granting a Special Privilege to Any Person Who Discovers or Invents a New Process, Discovery or Invention for the Conversion of Any Native Agricultural Raw Product into a Product Which Will Stabilize not Only the National Economy but also the Dollar Resources"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting a Special Privilege to Any Person Who Discovers or Invents a New Process, Discovery or Invention for the Conversion of Any Native Agricultural Raw Product into a Product Which Will Stabilize not Only the National Economy but also the Dollar Resources",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

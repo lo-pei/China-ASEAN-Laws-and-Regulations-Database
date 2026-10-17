@@ -1,7 +1,7 @@
 {
  "id": "SG-H2598",
  "title": {
-  "zh": null,
+  "zh": "劳资关系（承认雇员工会）条例 1966",
   "en": "Industrial Relations (Recognition of a Trade Union of Employees) Regulations 1966",
   "orig": null
  },
@@ -152,5 +152,13 @@
     "en": "THE SCHEDULE\nFORM A\nRegulation 3(1)\nINDUSTRIAL RELATIONS ACT 1960\nINDUSTRIAL RELATIONS\n(RECOGNITION OF A TRADE UNION\nOF EMPLOYEES) REGULATIONS 1966\nCLAIM FOR RECOGNITION\nTo:[set out name of employer]\n[set out address]\nPursuant to regulation 3 of the Industrial Relations (Recognition of a Trade Union of Employees) Regulations 1966, you are asked to accord recognition to the [set out name of trade union] of [set out address] in respect of *all classes/the following class/classes+ of employees employed by you:\nDated [set out date].\nSignature of officer or representative\nof trade union.\nName:\n[set out name]\nDesignation:\n[set out designation]\n___________________________\n* Delete whichever is inapplicable.\n+ State in the space above the class or classes of employees concerned.\nFORM B\nRegulation 6\nINDUSTRIAL RELATIONS ACT 1960\nINDUSTRIAL RELATIONS\n(RECOGNITION OF A TRADE UNION\nOF EMPLOYEES) REGULATIONS 1966\nRECOGNITION OF TRADE UNION OF EMPLOYEES\nTo:[set out name of trade union of employees]\n[set out address]\nWith reference to your claim for recognition on [set out date] *I/we, [set out name of employer, and NRIC number if the employer is an individual, or UEN if the employer is a business entity] of [set out address] accord recognition to [set out name of trade union] of [set out address] in respect of *all classes/the following class/classes+ of employees employed by *me/us:\nDated [set out date].\nSignature of employer (if the employer\nis a business entity, signature of the\nbusiness entity’s representative).\nName:\n[set out name]\nDesignation:\n[set out designation]\n___________________________\n* Delete whichever is inapplicable.\n+ State in the space above the class or classes of employees concerned."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Industrial Relations (Recognition of a Trade Union of Employees) Regulations 1966",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

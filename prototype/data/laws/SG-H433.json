@@ -1,7 +1,7 @@
 {
  "id": "SG-H433",
  "title": {
-  "zh": null,
+  "zh": "终身护保与长期护理（补充计划）条例 2020",
   "en": "CareShield Life and Long-Term Care (Supplement Scheme) Regulations 2020",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "11.—(1) This regulation applies in relation to a payment by the Board to an approved insurer of an amount authorised to be withdrawn from a CPF member’s medisave account under regulation 5, in any of the following circumstances:\n(a)the application under regulation 5 for the withdrawal, made or purportedly made by the CPF member —\n(i)is not signed by the CPF member;\n(ii)is signed by the CPF member when the CPF member lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A) to make the decision to apply for the withdrawal; or\n(iii)is given on the basis of inaccurate, incorrect or misleading information from the approved insurer or any other person;\n(b)any of the terms and conditions imposed by the Board under regulation 5 are not complied with;\n(c)the amount withdrawn or paid exceeds —\n(i)the supplement premium that is payable by the CPF member or the CPF member’s dependant (as the case may be) under the supplementary disability insurance policy for which the amount is withdrawn or paid; or\n[S 809/2021 wef 01/11/2021]\n(ii)the maximum amount permitted by regulation 5(3);\n(d)the CPF member, a dependant of the CPF member for whom the withdrawal is authorised or an approved insurer made a false or an inaccurate representation to the Board, or provided the Board with any inaccurate, incorrect or misleading information, in connection with the application for payment of a premium for the insurance cover of an insured person under any of the following disability insurance schemes to be deducted from the CPF member’s medisave account:\n(i)the CSHL Scheme;\n(ii)the ESH Scheme;\n(iii)a Supplement Scheme.\n[S 809/2021 wef 01/11/2021]\n(2) The approved insurer must, upon the occurrence of any of the circumstances mentioned in paragraph (1), refund to the Board the whole or any part, as the Board may determine, of —\n(a)the amount that was paid to the approved insurer; and\n(b)the interest that would have been payable on the amount mentioned in sub‑paragraph (a) if it had not been withdrawn from the medisave account.\n(3) The Board may dispense with the requirement in paragraph (2) if the Board is of the opinion that the circumstances concerned had arisen due to any false representation or false information by a CPF member mentioned in regulation 10.\n(4) The Board must credit to the CPF member’s medisave account the amount and interest refunded by the approved insurer under paragraph (2)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "CareShield Life and Long-Term Care (Supplement Scheme) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

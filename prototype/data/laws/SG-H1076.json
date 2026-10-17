@@ -1,7 +1,7 @@
 {
  "id": "SG-H1076",
  "title": {
-  "zh": null,
+  "zh": "网络安全（负责第三方所有关键信息基础设施网络安全的必要服务提供者）条例 2026",
   "en": "Cybersecurity (Providers of Essential Service Responsible for Cybersecurity of Third-Party-Owned Critical Information Infrastructure) Regulations 2026",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "Definitions\n2. In these Regulations —\n“advanced persistent threat” means an adversary, possessing sophisticated levels of expertise, that —\n(a)employs advanced techniques; and\n(b)demonstrates persistence (for example, by pursuing its objectives repeatedly and over an extended period of time while taking measures to stay undetected),\nin an effort to jeopardise or adversely affect the cybersecurity of the computer or computer system which it is targeting, for a purpose such as espionage, deception or disruption;\nExamples\nExamples of advanced techniques are techniques which involve time‑stomping, chaining exploits, attacking system memory, the bypassing or disarming of protective measures, or the use of fileless malware.\n“indicator of compromise” means a technical artifact or event on a network or system that suggests a cybersecurity incident is imminent or is underway, or that a cybersecurity incident may have already occurred;\n“interception”, in relation to a communication to or from a relevant computer or computer system, includes —\n(a)listening to or the recording of the communication; and\n(b)acquiring the substance, meaning or purport of that communication;\n“quarter” means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October of any year;\n“relevant computer or computer system”, in relation to a designated provider responsible for third‑party‑owned critical information infrastructure, means a computer or computer system mentioned in section 16I(4)(a), (b) or (c) of the Act, being —\n(a)the third‑party‑owned critical information infrastructure;\n(b)a computer or computer system under the owner’s control or the provider’s control, that is interconnected with or that communicates with the third‑party‑owned critical information infrastructure; or\n(c)any other computer or computer system under the provider’s control that does not fall within section 16I(4)(b) of the Act;\n“working day” means any day except a Saturday, Sunday or public holiday;\n“zero‑day vulnerability” means a hardware, firmware or software weakness, susceptibility or flaw, which can be exploited to jeopardise or adversely affect the cybersecurity of a computer or computer system, that is not previously known to the cybersecurity industry at a relevant point in time, as evidenced by the weakness, susceptibility or flaw not being included in any of the following:\n(a)the Common Vulnerabilities and Exposures List published on the Common Vulnerabilities and Exposures Program’s website at https://www.cve.org;\n(b)the National Vulnerability Database published on the United States National Institute of Standards and Technology’s website at https://nvd.nist.gov;\n(c)the Known Exploited Vulnerabilities Catalog published on the United States Cybersecurity and Infrastructure Security Agency’s website at https://www.cisa.gov/known‑exploited‑vulnerabilities‑catalog;\n(d)the European Union Vulnerability Database published on the European Union Agency for Cybersecurity’s website at https://euvd.enisa.europa.eu."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Cybersecurity (Providers of Essential Service Responsible for Cybersecurity of Third-Party-Owned Critical Information Infrastructure) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

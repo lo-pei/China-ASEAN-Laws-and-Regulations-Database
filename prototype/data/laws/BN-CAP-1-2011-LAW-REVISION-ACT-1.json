@@ -1,0 +1,284 @@
+{
+ "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1",
+ "title": {
+  "zh": "法律修订法(1)",
+  "en": "LAW REVISION ACT(1)",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p19",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to provide for the revision of the Laws of Brunei"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 23,
+ "chars": 17540,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-1-2011-ED-LAW-REVISION-ACT(1).pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-1-2011-ED-LAW-REVISION-ACT(1).pdf》（15 页），本次切分 23 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Law Revision Act."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In this Act, unless the context otherwise requires — “Act” includes an Enactment and part of an Act; “in operation”, in relation to any written law other than a written law to which section 11(3) applies, means made and brought into “Laws” means the revised edition of the written Laws of Brunei referred to in section 3; “revision date” means the date fixed in accordance with section 7 for the revision of the Laws; and where the Laws contain any particular written law last revised under section 8, a reference in this or any other written law to the revision date or the last revision date of the Laws shall in relation to that particular written law, include a reference to its special revision date. [S 4/97] Functions of Attorney General."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The Attorney General shall prepare, publish and maintain a revised edition of the written Laws of Brunei (to be called the Laws of Brunei) in accordance with the provisions of this Act. Form of publication."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The Laws shall be published in loose-leaf form or in electronic or such other form as the Attorney General may determine and shall comprise such pages as may be authorised to be included therein under section 5. [S 93/00] Inclusion of removal of pages to be authorised by order."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "(1) The Attorney General shall by order called a Law Revision Order authorise the inclusion in the Laws of every page to be comprised therein, and every page so authorised, and no other, shall form part of the Laws.\n\n(2) The Attorney General may by order direct the removal of any page from the Laws and any page so directed to be removed shall cease to form part of the Laws.\n\n(3) Every page comprised in the Laws shall bear on its face or overleaf a reference to the Law Revision Order by which its inclusion therein is authorised. Page of Laws to be headed “Laws of Brunei”."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "(1) Every page comprised in the Laws shall bear at the top the heading “Laws of Brunei”.\n\n(2) A page bearing the heading prescribed by subsection (1) and appearing in other respects to be part of the Laws shall for all purposes be presumed to be a page of the Laws.\n\n(3) Any person who prints, publishes or knowingly has in his possession any page falsely purporting to be a page of the Laws or so closely resembling a page of the Laws as to be likely to be mistaken for such page shall be guilty of an offence: Penalty, a fine of $5,000 and imprisonment for 2 years. Annual revision of Laws. [S 4/97]"
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "As soon as practicable after 1st January of every year, commencing on 1st January 1997, the Attorney General with the approval of His Majesty the Sultan and Yang Di-Pertuan shall, with the intent that the Laws shall be revised annually, revise the Laws and cause to be published in such form as [S 12/99]\n\n(a) a new revised edition of any written law already included in the Laws which has been amended during the year ending on the preceding 31st December; and\n\n(b) any new written law enacted or made during the year ending on the preceding 31st December, other than a written law the sole effect of which was to amend any other written law, to the intent that the Laws shall, subject to such omissions as are authorised under section 12, contain all the written Laws on such date. Special revision date for particular law. [S 4/97]"
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "(1) In special circumstances, the Attorney General may by order appoint a date other than the revision date mentioned in section 7 as a special revision date for any particular written law specified in such order. [S 12/99]\n\n(2) The Attorney General shall revise the particular written laws as soon as practicable after the special revision date and shall publish it, as in operation on that date, in the Laws.\n\n(3) In every such case, the Attorney General shall insert an appropriate date in the Laws with reference to the special revision date of Certain officers to maintain sets of Laws."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "(1) The Attorney General shall cause a copy of every page authorised to appear in the Laws to be delivered as soon as practicable after publication to the Clerk of Councils, to the Registrar of the Supreme Court and to the Government Archivist. [S 12/99]\n\n(2) It shall be the duty of the Attorney General and each of the officers referred to in subsection (1) to maintain one set of the Laws and punctually to insert pages authorised to be inserted under section 5(1) and to remove pages directed to be removed under section 5(2) and the Attorney General shall take such further steps as are necessary to ensure that there shall be at all times available to the Courts and to the public sets of the Laws maintained in the manner provided by this subsection. Bound sets of Laws to be kept for record."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "(1) Such number of bound sets of the laws as originally published, as the Attorney General may think fit, shall be dated and signed by the Attorney General and shall be sealed with the Public Seal of Brunei Darussalam.\n\n(2) The Attorney General shall retain one set and shall cause one set to be delivered to the Clerk of Councils, to the Registrar of the Supreme Court and to the Government Archivist, and it shall be the duty of the Attorney General and of such officers to maintain in safe custody their respective sets together with the Correction Orders and supplementary pages referred to in subsection (3) for the purpose of record. [S 12/99]\n\n(3) Every year or at such other intervals as the Attorney General may think fit, such sets of all supplementary pages issued under sections 7 or 8, all Correction Orders made under section 20(2)(a) and all pages issued under\n\n(b) shall be bound in such number of volumes as may be convenient and shall be dealt with in the same manner as the bound sets of the Laws as originally published are required to be dealt with by subsections (1) and (2)."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "(1) Subject to subsections (2) and (3) and to section 12, the Laws\n\n(a) the Constitution of Brunei Darussalam as in operation on the last revision date;\n\n(b) every Act in operation in Brunei Darussalam on the last revision date, unless omitted under section 12;\n\n(c) such subsidiary legislation in operation in Brunei Darussalam on the last revision date as the Attorney General thinks fit to include therein;\n\n(d) a chronological list of Acts, a table of contents and an index;\n\n(e) a list of the Acts omitted under the authority of sections 12(1) and (2). [S 4/97]\n\n(2) The Attorney General may include in the Laws such constitutional, legislative or other documents as may from time to time be specified in the Schedule; and His Majesty the Sultan and Yang Di-Pertuan shall have power by order to amend the said Schedule.\n\n(3) The Attorney General may, by order under section 5, authorise the inclusion in the Laws of a written law which has been made but not yet brought into operation on the last revision date of the Laws; and in relation to any such law the expression “in operation” in subsection (1) and in sections 7, 8(2) and 14 means made, whether brought into operation or not.\n\n(4) The Attorney General may include in the Laws such Acts of Parliament, Orders in Council, Treaties, Conventions and any other Instruments and Enactments which have been applied or extended to Brunei Darussalam with such indices, notes, references, notifications and adaptations as he may consider useful. Power to omit certain Laws."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "text": {
+    "en": "(1) His Majesty the Sultan and Yang Di-Pertuan may by order authorise the Attorney General to omit from the Laws any Act specified in the order.\n\n(2) In addition to any Act omitted under subsection (1), the Attorney General may further omit from the Laws —\n\n(a) any Appropriation Act or Supplementary Appropriation Act;\n\n(b) any applied United Kingdom Act;\n\n(c) any Act of a temporary nature which can in the opinion of the Attorney General be conveniently omitted. Validity of laws not affected by omission from Laws."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "(1) No written law omitted from the Laws, under the authority of this Act or otherwise, shall be deemed to be without force and validity by reason only of the fact that it is so omitted.\n\n(2) The repeal or omission from the Laws of any Act repealed or omitted during and for the purpose of the preparation of the Laws shall not affect the validity of any existing resolutions of the Legislative Council, or any Proclamations, rules, regulations, orders, notifications, by-laws or other instrument having legislative effect and made under, or by virtue of any lawful authority conferred pursuant to any Act so repealed or omitted but such Proclamations, rules, regulations, orders, notifications, by-laws or other instruments, so far as they are not inconsistent with any written law for the time being in force, shall continue in force until otherwise provided. Laws constitute proper Statute Book."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "Subject to sections 13 and 16, and notwithstanding any provisions of the Constitution of Brunei Darussalam or any written law requiring all written laws to be printed in both the Malay and English languages the pages duly authorised for inclusion in the Laws shall, in all courts and for all purposes, be the proper Statute Book of Brunei Darussalam in respect of the written laws contained therein as in operation on the last revision date; and all such written laws shall be judicially noticed. Powers of Attorney General."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "In the preparation of the Laws for any revision under sections 7 or 8, the Attorney General shall have the following powers —\n\n(a) to omit —\n\n(i) all written laws or parts of written laws which have been repealed expressly or by necessary implication, or which have expired or have become spent or have\n\n(ii) all repealing provisions contained in written laws and also all tables or lists of repealed written laws whether contained in schedules or otherwise;\n\n(iii) all words of enactment in any written law or provision\n\n(iv) all provisions prescribing the date when, or manner in which, any written law or part of any written law is to come into operation, where such omission can, in the opinion of the Attorney General, conveniently be made;\n\n(v) all amending written laws or parts of written laws where the amendments effected by such written laws have been embodied by the Attorney General in the written laws to which they relate;\n\n(b) to consolidate into one written law any 2 or more written pari materia, making the alterations thereby rendered necessary in the consolidated written laws, and affixing such date thereto as may seem most convenient;\n\n(c) to alter the order of the provisions in any written law and, in all cases where it is necessary to do so, to renumber the provisions of\n\n(d) to alter the form or arrangement of any provision of any written law, either by combining it in whole or part with another provision or other provision or by dividing it into 2 or more provisions or by transposing words;\n\n(e) to divide any written law, whether consolidated or not, into parts or other divisions and to give such parts or divisions suitable\n\n(f) to transfer any provisions contained in any written law from that written law to any other written law to which it more properly belongs or to a separate written law;\n\n(g) to arrange the written laws, whether consolidated or not, in any group or sequence that may be convenient irrespective of the date\n\n(h) to add a long title, a short title or a citation to any written law which may require it, and, where desirable, to alter the long title, short title or citation of any written law;\n\n(i) to shorten, simplify, clarify and otherwise alter the phraseology of any written law;\n\n(j) to correct grammatical and typographical errors, or any clerical or printing errors in any written law, and for the purpose to make verbal additions, omissions or alterations not affecting the meaning of any written law;\n\n(k) to add, delete, alter and substitute definitions of terms and expressions in any written law;\n\n(l) to supply or alter marginal notes, head notes or headings;\n\n(m) to correct cross-references;\n\n(n) to make such formal alterations as to names, localities, offices, titles, and otherwise as may be necessary to bring any written law into conformity with the circumstances of Brunei Darussalam;\n\n(o) to make such modifications and adaptations and to attach such qualifications and exceptions to any written law as may appear to be necessary or desirable by reason of changes in the Constitution of Brunei Darussalam or of the constitutional status of Brunei Darussalam or of any Commonwealth territory or generally in the circumstances of Brunei Darussalam or in the Government or the public service thereof;\n\n(p) to do all things relating to form and method which may be necessary for the perfecting of the Laws. No power to make alterations of substance."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "text": {
+    "en": "(1) Nothing in this Act shall be construed to confer power on the Attorney General to alter the substance of any written law.\n\n(2) In any case where it appears necessary to the Attorney General to alter the substance of any written law, the Attorney General may draft a Bill Revised laws not to operate as new laws."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "text": {
+    "en": "The Laws shall not be held to operate as new laws, but shall be construed and have effect as a consolidation and as declaratory of the written laws that have been revised and published therein. Altered provisions authentic as if so enacted."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "text": {
+    "en": "Where, having regard to any provisions of the Interpretation and General Clauses Act (Chapter 4) the Attorney General has, in exercise of any power conferred by this Act, reworded a written law by way of simplification or otherwise omitted any provision thereof, or altered any written law in any other way, without affecting the substance thereof, the altered provisions of the written law published in accordance with this Act shall for all purposes be deemed to be the authentic version of the written law as if they had been enacted in that form. Printing of separate written laws. [S 4/97] 18A. (1) The Attorney General may print and offer for sale to the public, at such price as he shall direct, copies of any written law; and such copies may incorporate any amendments made to that written law since the last\n\n(2) Notwithstanding any contrary provision in this Act, such copies shall for all purposes be deemed to be the authentic version of that written law. Construction of references to laws embodied in Laws."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "text": {
+    "en": "Where in any written law or other instrument or document, reference is made to any written law the provisions of which have been by virtue of this Act embodied in the Laws, such reference shall where necessary and practicable be deemed to extend and apply to the corresponding provisions in Rectification of error or omission in Laws."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "text": {
+    "en": "(1) Where any error made in the publication of the Laws comes to the attention of the Attorney General, the Attorney General shall forthwith rectify the error in the manner provided by this section.\n\n(2) The Attorney General may rectify the error — . (a) by a Correction Order making the required amendments to the Laws; and (either alternatively or in addition);\n\n(b) by a Law Revision Order removing, inserting or replacing such pages in the Laws as the circumstances may require.\n\n(3) A Correction Order or a Law Revision Order made for the purpose of rectifying an error may have retrospective effect as from the date of the inclusion in the Laws of the page containing the error.\n\n(4) In this section, an “error” means the publication by the Attorney General of a written law in a form not authorised by this Act, or the omission from the Laws of a written law which is required by this Act to be published Alternative mode of amending Laws."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "text": {
+    "en": "(1) Notwithstanding the provisions of section 6(1), where the Attorney General thinks it expedient, in the interests of economy or convenience, in revising any page of the Laws to which an amendment has been made since the last revision date or to which the Attorney General proposes to make an amendment, the Attorney General may, as an alternative to incorporating the amendment in the Laws by removing the page and inserting in its place a page setting out the law as amended —\n\n(a) allow the page to which the amendment relates (in this section called the “amended page”) to continue to form part of the\n\n(b) include in the Laws a page (in this section called an “amendment page”) setting out the particulars of the amendment.\n\n(2) The exercise of his powers under this section in respect of an amendment shall in no way prejudice the power of the Attorney General at any time to incorporate that amendment in the Laws by removing the amended page and inserting in its place a page setting out the law as\n\n(3) An amendment page shall for all purposes form part of the Laws and may be dealt with in accordance with the provisions of this Act in the same manner as any other page of the Laws. Coming into operation of Laws."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "text": {
+    "en": "His Majesty the Sultan and Yang Di-Pertuan may by notification published in the Government Gazette appoint a date for the coming into operation of the Laws. Expenses of revision."
+   }
+  },
+  {
+   "id": "BN-CAP-1-2011-LAW-REVISION-ACT-1-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "text": {
+    "en": "The expenses of an incidental to the preparation and publication of the Laws shall be a charge on the Consolidated Fund. (section 11(2))\n\nCONSTITUTIONAL, LEGISLATIVE AND OTHER DOCUMENTS Treaty of Friendship & Co-operation between Brunei Darussalam and the United Kingdom dated 7th January 1979. Continental Shelf Proclamation 1954 No. S. 41 dated 30th June 1954. North Borneo (Definition of Boundaries) Order in Council, 1958. Statutory Instruments 1958 No. 1517 dated 11th September 1958. Sarawak (Definition of Boundaries) Order in Council, 1958. Statutory Instruments 1958 No. 1518 dated 11th September 1958."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "LAW REVISION ACT(1)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7184",
  "title": {
-  "zh": null,
+  "zh": "将蒙廷卢帕市与拉斯皮纳斯市马尼拉南路萨波特-阿拉邦段更名为费利蒙·C·阿吉拉尔众议员大道，以纪念已故众议员费利蒙·C·阿吉拉尔的法案",
   "en": "An Act Changing the Name of the Manila South-Road, Zapote-Alabang Section in the City of Muntinlupa and City of Las Pinas, Metro Manila, to Congressman Felimon C. Aguilar Avenue in Honor of the Late Congressman Felimon C. Aguilar",
   "orig": "An Act Changing the Name of the Manila South-Road, Zapote-Alabang Section in the City of Muntinlupa and City of Las Pinas, Metro Manila, to Congressman Felimon C. Aguilar Avenue in Honor of the Late Congressman Felimon C. Aguilar"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Manila South-Road, Zapote-Alabang Section in the City of Muntinlupa and City of Las Pinas, Metro Manila, to Congressman Felimon C. Aguilar Avenue in Honor of the Late Congressman Felimon C. Aguilar",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

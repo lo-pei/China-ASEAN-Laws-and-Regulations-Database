@@ -1,7 +1,7 @@
 {
  "id": "SG-H3482",
  "title": {
-  "zh": null,
+  "zh": "公园与树木（指定管理主体——滨海湾花园）公告 2019",
   "en": "Parks and Trees (Designated Management Body — Gardens by the Bay) Notification 2019",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nAll that land within the limits that are the boundaries to the lots in the first column of the corresponding Mukims or Town Subdivisions in the second column of the following table:\nFirst column\nSecond column\nLot No.\nMukim (MK) / Town Subdivision (TS)\n06858K\nMK 25\n06772K\nMK 25\n07591W\nMK 25\n07285N\nMK 25\n00540A\nTS 30\n00570T\nTS 30\n00188L\nTS 30\n00416T\nTS 30\n00139X\nTS 30\n00425C\nTS 30\n00419N\nTS 30\n00412M\nTS 30\n00410L\nTS 30\n00421K\nTS 30\n00826A\nTS 11\n00890T\nTS 11\n00897M\nTS 11\n00812A\nTS 11\n00838P\nTS 11\n00836W\nTS 11\n00830K\nTS 11\n00833L\nTS 11\n00825T\nTS 11\n00822W\nTS 11\n00821M\nTS 11\n00819W\nTS 11\n00818M\nTS 11\n01320W\nTS 11\n01303V\nMK 25\n01304P\nMK 25\n07616V\nMK 25\n01302W\nMK 25\n02113N\nTS 17\n00129V\nTS 17\n00435A\nTS 17\n02124T\nTS 17\n00562L\nTS 15\n02125A\nTS 17\nand that is more particularly delineated in the following Plans:\nPLAN 1\nPLAN 2\nPLAN 3"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Parks and Trees (Designated Management Body — Gardens by the Bay) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

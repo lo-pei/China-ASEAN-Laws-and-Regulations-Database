@@ -1,7 +1,7 @@
 {
  "id": "PH-H486",
  "title": {
-  "zh": null,
+  "zh": "规定巴科洛德市市长与副市长职位实行选举产生的法案",
   "en": "An Act Making the Positions of Mayor and Vice-Mayor in the City of Bacolod Elective",
   "orig": "An Act Making the Positions of Mayor and Vice-Mayor in the City of Bacolod Elective"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect on the next regular election for provincial and city officials. All provisions of Commonwealth Act Numbered Three hundred and twenty-six as amended, known as the Charter of the City of Bacolod, inconsistent with the provisions of this Act, are hereby repealed.\nApproved: June 18, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making the Positions of Mayor and Vice-Mayor in the City of Bacolod Elective",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

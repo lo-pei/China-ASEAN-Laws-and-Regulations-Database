@@ -1,7 +1,7 @@
 {
  "id": "PH-H3826",
  "title": {
-  "zh": null,
+  "zh": "将莱特省自巴巴通安市镇金蒂吉安村至同省马哈普拉格市镇皮纳莫诺安村的泛菲律宾公路段命名为Daniel Z. Romualdez公路的法案",
   "en": "An Act Naming the Portion of the Pan-Philippine Highway from Barrio Guintiguian, Municipality of Babatngon, Province of Leyte, to Barrio Pinamono-an, Municipality of Mahaplag of the Same Province as the Daniel Z. Romualdez Highway",
   "orig": "An Act Naming the Portion of the Pan-Philippine Highway from Barrio Guintiguian, Municipality of Babatngon, Province of Leyte, to Barrio Pinamono-an, Municipality of Mahaplag of the Same Province as the Daniel Z. Romualdez Highway"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 26, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Portion of the Pan-Philippine Highway from Barrio Guintiguian, Municipality of Babatngon, Province of Leyte, to Barrio Pinamono-an, Municipality of Mahaplag of the Same Province as the Daniel Z. Romualdez Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

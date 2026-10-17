@@ -1,7 +1,7 @@
 {
  "id": "SG-H2033",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国所得豁免）（第 2 号）命令 2006",
   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2006",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. CapitaRetail China Incubator Fund and CapitaRetail China Development Fund shall, with effect from 2nd June 2006, be exempt from tax on any dividend derived from outside Singapore (being paid out of capital gains derived from disposal of shares in China companies holding retail malls in China) and received in Singapore, subject to the conditions specified in the letter of approval dated 2nd June 2006 addressed to their tax agent."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

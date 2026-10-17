@@ -1,7 +1,7 @@
 {
  "id": "PH-H5158",
  "title": {
-  "zh": null,
+  "zh": "将甲米地省马加利亚内斯市镇本迪塔描笼涯乌尔达内塔第一小学的名称变更为本迪塔小学的法案",
   "en": "An Act Changing the Name of Urdaneta I Elementary School in Barangay Bendita, Municipality of Magallanes, Province of Cavite, to Bendita Elementary School",
   "orig": "An Act Changing the Name of Urdaneta I Elementary School in Barangay Bendita, Municipality of Magallanes, Province of Cavite, to Bendita Elementary School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Urdaneta I Elementary School in Barangay Bendita, Municipality of Magallanes, Province of Cavite, to Bendita Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

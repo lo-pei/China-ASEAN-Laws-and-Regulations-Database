@@ -1,7 +1,7 @@
 {
  "id": "PH-H2813",
  "title": {
-  "zh": null,
+  "zh": "规定 Cotabato 市市政委员会成员的报酬，并为此修订该市宪章第11条的法案",
   "en": "An Act to Provide for the Compensation of the Members of the Municipal Board of the City of Cotabato, Amending for the Purpose Section Eleven of the Charter of the Said City",
   "orig": "An Act to Provide for the Compensation of the Members of the Municipal Board of the City of Cotabato, Amending for the Purpose Section Eleven of the Charter of the Said City"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Compensation of the Members of the Municipal Board of the City of Cotabato, Amending for the Purpose Section Eleven of the Charter of the Said City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

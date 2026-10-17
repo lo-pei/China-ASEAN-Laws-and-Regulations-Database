@@ -1,7 +1,7 @@
 {
  "id": "SG-H3365",
  "title": {
-  "zh": null,
+  "zh": "第 6(3) 条下的公告",
   "en": "Notification under Section 6(3)",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Land Titles (Strata) Act\n(Chapter 158, Section 6(3))\nNotification under Section 6(3)\nN 2\nG.N. No. S 192/1994\nREVISED EDITION 1995\n(22nd April 1994)\n[22nd April 1994]\nThe Minister for Law has specified that section 6 of the Act shall not apply to markets and food centres leased by the State to the Minister for Finance, a body corporate incorporated under the Minister for Finance (Incorporation) Act (Cap. 183)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Notification under Section 6(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

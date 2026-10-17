@@ -1,7 +1,7 @@
 {
  "id": "PH-H4550",
  "title": {
-  "zh": null,
+  "zh": "修订第 720 号共和国法（即经修正的《乡村银行法》）第 3、4、5、7、11、14、16 与 17 条的法案",
   "en": "An Act Amending Sections Three, Four, Five, Seven, Eleven, Fourteen, Sixteen and Seventeen of Republic Act Numbered Seven Hundred Twenty, as Amended, Otherwise Known as the Rural Banks Act.",
   "orig": "An Act Amending Sections Three, Four, Five, Seven, Eleven, Fourteen, Sixteen and Seventeen of Republic Act Numbered Seven Hundred Twenty, as Amended, Otherwise Known as the Rural Banks Act."
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1969"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Sections Three, Four, Five, Seven, Eleven, Fourteen, Sixteen and Seventeen of Republic Act Numbered Seven Hundred Twenty, as Amended, Otherwise Known as the Rural Banks Act.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

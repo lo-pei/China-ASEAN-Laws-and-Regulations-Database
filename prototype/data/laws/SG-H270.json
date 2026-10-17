@@ -1,7 +1,7 @@
 {
  "id": "SG-H270",
  "title": {
-  "zh": null,
+  "zh": "人员借用命令",
   "en": "Attachment of Personnel Order",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Visiting Forces Act\n(Chapter 344, Section 17)\nAttachment of Personnel Order\nO 4\nG.N. No. S 109/1965\nREVISED EDITION 1990\n(25th March 1992)\n[25th March 1965]\nThe Armed Forces Council, in exercise of the powers conferred by section 17 of the Act, has placed at the disposal of the Defence Council of the United Kingdom for the purpose of being attached temporarily to the naval, military or air forces of Her Britannic Majesty raised in the United Kingdom every member of the Singapore Armed Forces to whom this Order applies.\nThis Order shall apply to every member of the Singapore Armed Forces who has given his consent to being attached as aforesaid and who is serving outside Singapore for the period during which he is —\n(a)under appropriate arrangements on the staff of or attending any school or training establishment;\n(b)being trained in a unit, formation or body;\n(c)on the staff of or a patient in a hospital, medical establishment or convalescent establishment;\n(d)appointed or detailed for duty (whether on loan, interchange or otherwise) in any aircraft, formation, unit, detachment or establishment;\n(e)in or awaiting transit in any ship, vessel, aircraft or other conveyance; or\n(f)serving a sentence of imprisonment or detention in a prison, detention barrack, detention quarters or corrective establishment,\nwhich, in each case, belongs to or is comprised in or is under the control of the naval, military or air forces of Her Britannic Majesty.\nThis Order shall apply to every such member of the Singapore Armed Forces whether he is serving within or without Singapore for the period during which he is appointed or drafted to or detailed for duty (whether on loan, interchange or otherwise) or for training in any ship or vessel belonging to or comprised in or under the control of the naval forces of Her Britannic Majesty."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Attachment of Personnel Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H201",
  "title": {
-  "zh": null,
+  "zh": "动物与鸟类（农场发牌）规则",
   "en": "Animals and Birds (Licensing of Farms) Rules",
   "orig": null
  },
@@ -228,5 +228,13 @@
     "en": "THE SCHEDULE\nRules 5(1)(a) and 6(2)\nFees\n1.Application for licence or renewal of licence\n$100 per annum\n2.Certified true copy of licence\n$9.45 per copy.\n[S 445/2006 wef 01/08/2006]\n[G.N. Nos. S 294/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Animals and Birds (Licensing of Farms) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

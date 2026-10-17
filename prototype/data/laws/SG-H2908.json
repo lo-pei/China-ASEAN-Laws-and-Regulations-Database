@@ -1,7 +1,7 @@
 {
  "id": "SG-H2908",
  "title": {
-  "zh": null,
+  "zh": "致醉物质（认可中心）公告 2018",
   "en": "Intoxicating Substances (Approved Centres) Notification 2018",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nApproved centres\nName\nAddress\n1.Changi General Hospital (Ward 34)\n2 Simei Street 3, Singapore 529889\n1A.Cluster Management A\n982, Upper Changi Road North, Changi Prison Complex, Singapore 507709\n1B.Cluster Management B\n984, Upper Changi Road North, Changi Prison Complex, Singapore 506969\n1C.Institution A1, Cluster A\n982A, Upper Changi Road North, Changi Prison Complex, Singapore 506978\n1D.Institution A2, Cluster A\n982B, Upper Changi Road North, Changi Prison Complex, Singapore 506979\n1E.Institution A3, Cluster A\n982C, Upper Changi Road North, Changi Prison Complex, Singapore 506980\n2.Institution A4, Cluster A\n982D, Upper Changi Road North, Changi Prison Complex, Singapore 506981\n2A.Institution A5, Cluster A\n982E, Upper Changi Road North, Changi Prison Complex, Singapore 506982\n3.Institution B1, Cluster B\n984A, Upper Changi Road North, Changi Prison Complex, Singapore 506983\n4.Institution B2, Cluster B\n984B, Upper Changi Road North, Changi Prison Complex, Singapore 506984\n5.Institution B3, Cluster B\n984C, Upper Changi Road North, Changi Prison Complex, Singapore 506985\n6.Institution B4, Cluster B\n984D, Upper Changi Road North, Changi Prison Complex, Singapore 506986\n7.Institution B5, Cluster B\n984E, Upper Changi Road North, Changi Prison Complex, Singapore 506987\n7A.Institution S1\n(a)1813 Upper Changi Road North, Singapore 506910\n(b)1813A Upper Changi Road North, Singapore 506794\n(c)1813B Upper Changi Road North, Singapore 506795\n(d)1813C Upper Changi Road North, Singapore 506776\n(e)1817 Upper Changi Road North, Singapore 506792\n7B.Institution S2\n1817 Upper Changi Road North, Singapore 506792\n7C.Institution TM1\n10 Tanah Merah Besar Road, Singapore 498834\n7D.Institution TM2\n10 Tanah Merah Besar Road, Singapore 498834\n7E.KK Women’s and Children’s Hospital (Ward 31)\n100 Bukit Timah Road, Singapore 229899\n8.[Deleted by S 462/2024 wef 01/06/2024]\n8A.[Deleted by S 462/2024 wef 01/06/2024]\n9.Selarang Park Community Supervision Centre\n1 Selarang Park Road, Singapore 508167\n10.Selarang Park Quarantine Centre\n1815 Upper Changi Road North, Singapore 506791\n11.Tan Tock Seng Hospital (Ward 6D)\n11 Jalan Tan Tock Seng, Singapore 308433\n[S 462/2024 wef 01/06/2024]\n[S 126/2020 wef 02/03/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Intoxicating Substances (Approved Centres) Notification 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

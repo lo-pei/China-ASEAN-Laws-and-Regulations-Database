@@ -1,7 +1,7 @@
 {
  "id": "SG-H1504",
  "title": {
-  "zh": null,
+  "zh": "费用（以印花缴纳）命令",
   "en": "Fees (Payment by Revenue Stamps) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Where in any written law provision is made for the payment of fees for licences or permits in any subordinate court, public office or department by means of postage or adhesive stamps, the fees shall be payable by means of revenue stamps."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Payment by Revenue Stamps) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

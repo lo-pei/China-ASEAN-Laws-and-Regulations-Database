@@ -1,7 +1,7 @@
 {
  "id": "PH-H1417",
  "title": {
-  "zh": null,
+  "zh": "修订第567号联邦法第3条的法案",
   "en": "An Act Amending Section Three of Commonwealth Act Numbered Five Hundred Sixty-Seven",
   "orig": "An Act Amending Section Three of Commonwealth Act Numbered Five Hundred Sixty-Seven"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval and shall have retroactive effect on all pending cases.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Three of Commonwealth Act Numbered Five Hundred Sixty-Seven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

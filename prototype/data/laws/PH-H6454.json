@@ -1,7 +1,7 @@
 {
  "id": "PH-H6454",
  "title": {
-  "zh": null,
+  "zh": "强化反贪法院的功能与组织结构，为此修订经修正的第 1606 号总统法令的法案",
   "en": "An Act to Strengthen the Functional and Structural Organization of the Sandiganbayan, Amending for That Purpose Presidential Decree No. 1606, as Amended",
   "orig": "An Act to Strengthen the Functional and Structural Organization of the Sandiganbayan, Amending for That Purpose Presidential Decree No. 1606, as Amended"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in two (2) national newspapers of general circulation.\nApproved: 30 March 1995"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Strengthen the Functional and Structural Organization of the Sandiganbayan, Amending for That Purpose Presidential Decree No. 1606, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

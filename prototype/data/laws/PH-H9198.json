@@ -1,7 +1,7 @@
 {
  "id": "PH-H9198",
  "title": {
-  "zh": null,
+  "zh": "将拉乌尼翁省Agoo市镇现有的Baybay小学正式更名为San Manuel Sur小学的法案",
   "en": "An Act Changing the Name of Baybay Elementary School in Barangay San Manuel Sur, Municipality of Agoo, Province of La Union to San Manuel Sur Elementary School",
   "orig": "An Act Changing the Name of Baybay Elementary School in Barangay San Manuel Sur, Municipality of Agoo, Province of La Union to San Manuel Sur Elementary School"
  },
@@ -72,5 +72,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Baybay Elementary School in Barangay San Manuel Sur, Municipality of Agoo, Province of La Union to San Manuel Sur Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7070",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省 Cauayan 市镇的 Bulata 描笼涯附属中学从 Linaon 中学分离，名为 Bulata 国立中学并为其拨款",
   "en": "An Act Providing for the Separation of the Barangay Bulata Extension High School Located in the Municipality of Cauayan, Province of Negros Occidental, From the Linaon High School, to Be Known as the Bulata National High School, and Appropriating Funds Therefor",
   "orig": "An Act Providing for the Separation of the Barangay Bulata Extension High School Located in the Municipality of Cauayan, Province of Negros Occidental, From the Linaon High School, to Be Known as the Bulata National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Separation of the Barangay Bulata Extension High School Located in the Municipality of Cauayan, Province of Negros Occidental, From the Linaon High School, to Be Known as the Bulata National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

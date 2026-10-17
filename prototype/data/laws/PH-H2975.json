@@ -1,7 +1,7 @@
 {
  "id": "PH-H2975",
  "title": {
-  "zh": null,
+  "zh": "授权选举委员会将其拨款中的节余用于建造永久办公大楼的法案",
   "en": "An Act Authorizing the Commission on Elections to Use Savings from its Appropriations for the Construction of a Permanent Office Building",
   "orig": "An Act Authorizing the Commission on Elections to Use Savings from its Appropriations for the Construction of a Permanent Office Building"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take upon its approval.\nApproved: June 20, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Commission on Elections to Use Savings from its Appropriations for the Construction of a Permanent Office Building",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

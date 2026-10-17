@@ -1,7 +1,7 @@
 {
  "id": "PH-H4140",
  "title": {
-  "zh": null,
+  "zh": "规定菲律宾武装部队护士部队的职业激励措施，授权为此拨款并为其他目的法案",
   "en": "An Act Providing Career Incentives in the Nurse Corps of the Armed Forces of the Philippines, Authorizing the Appropriation of Funds Therefor, and for Other Purposes",
   "orig": "An Act Providing Career Incentives in the Nurse Corps of the Armed Forces of the Philippines, Authorizing the Appropriation of Funds Therefor, and for Other Purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing Career Incentives in the Nurse Corps of the Armed Forces of the Philippines, Authorizing the Appropriation of Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

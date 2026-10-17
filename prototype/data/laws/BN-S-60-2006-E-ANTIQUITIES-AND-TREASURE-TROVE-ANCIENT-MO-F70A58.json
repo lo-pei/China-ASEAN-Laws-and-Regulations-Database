@@ -1,7 +1,7 @@
 {
  "id": "BN-S-60-2006-E-ANTIQUITIES-AND-TREASURE-TROVE-ANCIENT-MO-F70A58",
  "title": {
-  "zh": null,
+  "zh": "古物与埋藏宝物（古代遗迹与历史遗址）命令 2006",
   "en": "ANTIQUITIES AND TREASURE TROVE ANCIENT MONUMENTS AND HISTORICAL SITES ORDER 2006",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "The monuments and sites published in the Schedule have been declared by order of His Majesty the Sultan and Yang Di-Pertuan in Council to be ancient monuments and historical sites for the purposes of this Act.\n\nSCHEDULE Bubungan Duabelas Building Jalan Kota Batu Brunei M uara District Charcoal Mine Site (area 62.205 acre) 2.4 km from the west of Muara Port Brunei Muara District Former Lapau Lama Building }alan James Pearce Brunei Muara District Government Secretariat Building Jalan Elizabeth II Brunei Muara District 17th. MAy 2006 I Istana Darussalam Sungai Kedayan Bank, Kampong Sumbiling Brunei Muara District Istana Manggalela Jalan Maulana, Kuala Belait Belait District Istana Pantai Seri Kenangan Beach, 2 km from Thtong Town Thtong District Labu Estate Rubber Industrial Site (Area 11 acres) Kampong Labu, about 16.7 km from Bangar Town Temburong District Limau Manis River Site (Area 100 acres) Limau Manis River Area, Kampong Limau Manis Brunei Muara District Old Building of Thtong District Office and the Court Jalan Inche Awang, Thtong Town Thtong District Old House of Belait District Officer Jalan Maulana, Kuala Belait Belait District Pekan Bangar Monument Near Temburong River Bank Temburong District Perpuspaan Main Gate 1968 The opposite of Omar Ali Saifuddien Mosque and Sultan Haji Hassanal Bolkiah Yayasan Brunei Muara District Royal Customs and Excise Building Jalan Me Arthur, near Brunei River Brunei M uara District Timepiece Stone Monument Jalan Sultan and Jalan Elizabeth II Brunei Muara District Made this 5th. day of Rabiulakhir, 1427 Hijriah corresponding to the 3rd. day of May, 2006.\n\nAWANG HAJI METASSIM BIN HAJI JIBAH Director of Museums. Dicetak oleh AWANG MOHIDIN BIN HAJI DAUD, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ANTIQUITIES AND TREASURE TROVE ANCIENT MONUMENTS AND HISTORICAL SITES ORDER 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

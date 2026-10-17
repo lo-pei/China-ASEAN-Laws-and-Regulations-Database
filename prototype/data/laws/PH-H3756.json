@@ -1,7 +1,7 @@
 {
  "id": "PH-H3756",
  "title": {
-  "zh": null,
+  "zh": "修订第605号共和国法（即《在马斯巴特省Milagros市镇设立、组建并维持一所国立农业学校并授权为此拨付特定款项法》）的标题、第1条与第3条的法案",
   "en": "An Act Amending the Title, Section One and Section Three of Republic Act Numbered Six Hundred Five, Entitled \"An Act to Establish, Organize and Maintain One National Agricultural School in the Municipality of Milagros, Province of Masbate, and to Authorize the Appropriation of Certain Sums of Money for the Purpose\"",
   "orig": "An Act Amending the Title, Section One and Section Three of Republic Act Numbered Six Hundred Five, Entitled \"An Act to Establish, Organize and Maintain One National Agricultural School in the Municipality of Milagros, Province of Masbate, and to Authorize the Appropriation of Certain Sums of Money for the Purpose\""
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending the Title, Section One and Section Three of Republic Act Numbered Six Hundred Five, Entitled \"An Act to Establish, Organize and Maintain One National Agricultural School in the Municipality of Milagros, Province of Masbate, and to Authorize the Appropriation of Certain Sums of Money for the Purpose\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

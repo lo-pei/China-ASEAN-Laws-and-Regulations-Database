@@ -1,7 +1,7 @@
 {
  "id": "SG-H3047",
  "title": {
-  "zh": null,
+  "zh": "地方部队（经济困难救济）法 1953",
   "en": "Local Forces (Relief of Financial Hardship) Act 1953",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "THE SCHEDULE\nSections 2 and 6\nLocal Forces\n1. The Singapore Civil Defence Force raised and maintained under the Civil Defence Act 1986.\n2. The Special Constabulary constituted under Part 8 of the Police Force Act 2004.\n3. The Singapore Armed Forces raised and maintained under section 7 of the Singapore Armed Forces Act 1972.\n4. The Vigilante Corps raised and maintained under section 3 of the Vigilante Corps Act 1967.\n[24/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Local Forces (Relief of Financial Hardship) Act 1953",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3008",
  "title": {
-  "zh": null,
+  "zh": "法律专业（受规管个人）规则 2015",
   "en": "Legal Profession (Regulated Individuals) Rules 2015",
   "orig": null
  },
@@ -506,5 +506,13 @@
     "en": "SECOND SCHEDULE\nRules 19(1) and (4) and 24\nFees\n1.\nApplication fee for application for registration, or for renewal of registration, of a foreign lawyer under section 36B of the Act, for a period of 12 months or shorter\n$110\n2.\nFee for a foreign practitioner certificate, or for renewal of a foreign practitioner certificate, for a period of 12 months or shorter\n$50\n3.\nApplication fee for application for registration, or for renewal of registration, of a foreign lawyer under section 36C of the Act —\n(a)for a period of 12 months\n$110\n(b)for a period of 24 months\n$220\n(c)for a period of 36 months\n$330\n4.\nFee for a certificate of registration of a foreign lawyer under section 36C of the Act, or for renewal of such a certificate of registration —\n(a)for a period of 12 months\n$50\n(b)for a period of 24 months\n$100\n(c)for a period of 36 months\n$150\n5.\nApplication fee for application for registration, or for renewal of registration, of a foreign lawyer under section 36D of the Act —\n(a)for a period of 12 months\n$110\n(b)for a period of 24 months\n$220\n(c)for a period of 36 months\n$330\n6.\nFee for a certificate of registration of a foreign lawyer under section 36D of the Act, or for renewal of such a certificate of registration —\n(a)for a period of 12 months\n$50\n(b)for a period of 24 months\n$100\n(c)for a period of 36 months\n$150\n7.\nApplication fee for application for registration, or for renewal of registration, of a solicitor under section 36E of the Act, for a period of 12 months or shorter\n$110\n8.\nFee for a certificate of registration of a solicitor under section 36E of the Act, or for renewal of such a certificate of registration, for a period of 12 months or shorter\n$50\n9.\nApplication fee for application for registration, or for renewal before 18 December 2015 of registration, of a solicitor under section 36F of the Act, for a period of 12 months\n$110\n10.\nFee for a certificate of registration of a solicitor under section 36F of the Act, or for renewal before 18 December 2015 of such a certificate, for a period of 12 months\n$50\n11.\nApplication fee for application for registration, or for renewal of registration, of an individual under section 36G of the Act —\n(a)for a period of 12 months\n$110\n(b)for a period of 24 months\n$220\n(c)for a period of 36 months\n$330\n12.\nFee for a certificate of registration of an individual as a regulated non-practitioner under section 36G of the Act, or for renewal of such a certificate —\n(a)for a period of 12 months\n$50\n(b)for a period of 24 months\n$100\n(c)for a period of 36 months\n$150\n13.\nApplication fee under rule 24 for application to —\n(a)amend or issue a foreign practitioner certificate or a certificate of registration issued under these Rules; or\n$50\n(b)[Deleted by S 777/2024 wef 11/10/2024]\n(c)issue the appropriate letter or certificate of good standing\n$100\n14.\nFee for a letter or certificate of good standing\n$50\n[S 777/2024 wef 11/10/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Regulated Individuals) Rules 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

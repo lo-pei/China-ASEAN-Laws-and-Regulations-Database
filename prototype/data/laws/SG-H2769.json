@@ -1,7 +1,7 @@
 {
  "id": "SG-H2769",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（罪行和解）条例 2020",
   "en": "Insolvency, Restructuring and Dissolution (Composition of Offences) Regulations 2020",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. The following offences may be compounded by the Official Assignee in accordance with section 437(1) of the Act:\n(a)an offence under section 38(3), 40(2), 44(7), 313(4), 334(6)(a), (b) or (c), 369(6), 398(2), 400(3), 401(3) or 403(3)(a) or (b) or (4) of the Act;\n(b)an offence (other than a continuing offence) under section 332(6)(a) or (b) or 333(2) of the Act;\n(c)an offence under any of the following sections of the Act punishable under section 417 of the Act:\nSection 405(1)(a) or (b), 412(1)(a), (b) or (c), 413(1)(a) or (b), 414(1)(a) or (b) or 415(a) or (b) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insolvency, Restructuring and Dissolution (Composition of Offences) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10362",
  "title": {
-  "zh": null,
+  "zh": "保护从事互联网交易的网络消费者与商家、为此设立电子商务局、拨付资金并为其他目的法案",
   "en": "An Act Protecting Online Consumers and Merchants Engaged in Internet Transactions, Creating for This Purpose the Electronic Commerce Bureau, Appropriating Funds Therefor, and for Other Purposes",
   "orig": "An Act Protecting Online Consumers and Merchants Engaged in Internet Transactions, Creating for This Purpose the Electronic Commerce Bureau, Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -301,5 +301,13 @@
     "en": "Implementing Rules and Regulations. - Within ninety (90) days from the effectivity of this Act, a Committee headed by the DTI Secretary and composed of representatives from DICT, NPC, Department of Agriculture (DA), Department of Health (DOH), BSP, and other relevant government agencies as determined by the DTI shall formulate and promulgate the rules and regulations necessary for implementing the law.\nSection 32 . Transitory Provisions. - A transitory period of eighteen (18) months from the effectivity of this Act shall be provided to all affected online merchants, e-retailers, e-marketplaces, and digital platforms to comply with the requirements of the law.\nSection 33 . Applicability of the Civil Code. - In construing the rights and responsibilities of the parties, the Civil Code provisions on sales, and obligations and contracts shall apply.\nSection 34 . Interpretation. - In case of doubt, the provisions of this Act, including its implementing rules and regulations and subsequent issuances by the implementing agency, shall be construed in a manner that accords the highest respect for human dignity, consumer rights, and individual privacy.\nSection 35 . Appropriations. - The amount necessary to carry out the provisions of this Act shall be included in the annual General Appropriations Act.\nSection 36 . Separability Clause. - If any provision of this Act is declared unconstitutional, the remainder thereof not otherwise affected shall remain in full force and effect.\nSection 37 . Repealing Clause. - All laws, presidential decrees, executive orders, letters of instruction, and administrative regulations that are inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.\nSection 38 . Effectivity. - This Act shall take effect after fifteen (15) days following the completion of its publication in the Official gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Protecting Online Consumers and Merchants Engaged in Internet Transactions, Creating for This Purpose the Electronic Commerce Bureau, Appropriating Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

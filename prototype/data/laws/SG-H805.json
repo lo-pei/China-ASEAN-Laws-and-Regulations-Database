@@ -1,7 +1,7 @@
 {
  "id": "SG-H805",
  "title": {
-  "zh": null,
+  "zh": "新加坡共和国宪法（权力转授）公告 2004",
   "en": "Constitution of the Republic of Singapore (Delegation of Powers) Notification 2004",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The Delegation of Powers (Ministry of Home Affairs) Notification 1990 (G.N. No. S 278/90) is cancelled."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Constitution of the Republic of Singapore (Delegation of Powers) Notification 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

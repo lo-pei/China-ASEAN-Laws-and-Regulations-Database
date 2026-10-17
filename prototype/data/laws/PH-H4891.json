@@ -1,7 +1,7 @@
 {
  "id": "PH-H4891",
  "title": {
-  "zh": null,
+  "zh": "延长 Far Corporation 在吕宋与西米沙鄢建设、运营和维护无线电广播电台的特许权并规范其纳税，为此修订第 5913 号共和国法",
   "en": "An Act Extending the Franchise of the Far Corporation to Construct, Operate and Maintain Radio Broadcasting Stations in Luzon and the Western Visayas and Regulating the Payment of Its Taxes; Amending for the Purpose Republic Act Numbered Five Thousand Nine Hundred Thirteen.",
   "orig": "An Act Extending the Franchise of the Far Corporation to Construct, Operate and Maintain Radio Broadcasting Stations in Luzon and the Western Visayas and Regulating the Payment of Its Taxes; Amending for the Purpose Republic Act Numbered Five Thousand Nine Hundred Thirteen."
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H4891-A1_2",
+   "id": "PH-H4891-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Subject to the provisions of the Constitution, as well as Act Numbered Three thousand eight hundred forty-six, entitled \"An Act providing for the regulation of radio stations and radio communications in the Philippine Islands, and for other purposes\"; Act Numbered Three thousand nine hundred ninety-seven, known as the Radio Broadcasting Law; Commonwealth Act Numbered One hundred forty-six, known as the Public Service Act, and their amendments, and other applicable laws, not inconsistent with this Act, FAR Corporation is hereby granted a franchise to construct, operate and maintain radio broadcasting stations within Luzon and the Western Visayas.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4891-A2",
@@ -90,5 +91,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 16, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Franchise of the Far Corporation to Construct, Operate and Maintain Radio Broadcasting Stations in Luzon and the Western Visayas and Regulating the Payment of Its Taxes; Amending for the Purpose Republic Act Numbered Five Thousand Nine Hundred Thirteen.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1256",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省Kabankalan市的小学正式更名为Esteban R. Abada纪念小学的法案",
   "en": "An Act to Change the Name of the Kabankalan Elementary School, Situated at Kabankalan, Negros Occidental, to Esteban R. Abada Memorial School",
   "orig": "An Act to Change the Name of the Kabankalan Elementary School, Situated at Kabankalan, Negros Occidental, to Esteban R. Abada Memorial School"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 10, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Change the Name of the Kabankalan Elementary School, Situated at Kabankalan, Negros Occidental, to Esteban R. Abada Memorial School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

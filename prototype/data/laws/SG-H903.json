@@ -1,7 +1,7 @@
 {
  "id": "SG-H903",
  "title": {
-  "zh": null,
+  "zh": "COVID-19（临时措施）（估值审查委员会）条例 2020",
   "en": "COVID-19 (Temporary Measures) (Valuation Review Panel) Regulations 2020",
   "orig": null
  },
@@ -720,5 +720,13 @@
     "en": "THE SCHEDULE\nRegulations 6(3) and 34(1) and (2)\nFees\nDescription\nRelevant person by whom fee is payable\nFee\n1.Lodgment of Application\nApplicant\n$60\n2.The whole or part of each day of hearing as follows:\nApplicant\n(a)the first day\n$75\n(b)any day after the first day\n$150"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "COVID-19 (Temporary Measures) (Valuation Review Panel) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

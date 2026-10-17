@@ -1,7 +1,7 @@
 {
  "id": "SG-H477",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（当局复核）条例 2026",
   "en": "Casino Control (Review by Authority) Regulations 2026",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. An applicant may withdraw the applicant’s request for review at any time before the Authority makes a decision under section 184(5) of the Act in respect of the request for review; and the applicant is then treated as not having made any request for review."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Casino Control (Review by Authority) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

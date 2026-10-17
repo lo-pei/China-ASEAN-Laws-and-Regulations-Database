@@ -1,7 +1,7 @@
 {
  "id": "SG-H3128",
  "title": {
-  "zh": null,
+  "zh": "药品（精神药物出口执照）条例",
   "en": "Medicines (Export Licence for Psychotropic Substances) Regulations",
   "orig": null
  },
@@ -126,5 +126,13 @@
     "en": "THE SCHEDULE\nRegulation 2\n1. The following substances:\nAllobarbital\nAlprazolam\nAmineptine\n[Deleted by S 228/2017 wef 01/05/2017]\nAminorex\nAmobarbital\nBarbital\nBromazepam\nBromazolam\nBrotizolam\n[Deleted by S 543/2016 wef 01/11/2016]\nButalbital\nButobarbital\nCamazepam\nCarisoprodol\nCathine\nChlordiazepoxide\nClobazam\nClonazepam\nClonazolam\nClorazepate\nClotiazepam\nCloxazolam\nCyclobarbital\nDelorazepam\nDiazepam\nDiclazepam\nEstazolam\nEthchlorvynol\nEthinamate\nEthylloflazepate\nEtilamfetamine\nEtizolam\nFencamfamin\nFenproporex\nFlualprazolam\nFlubromazolam\nFludiazepam\nFlurazepam\nGlutethimide\nHalazepam\nHaloxazolam\nKetazolam\nLefetamine\nLoprazolam\nLorazepam\nLormetazepam\nMazindol\nMedazepam\nMefenorex\nMeprobamate\nMesocarb\nMethylphenobarbital\nMethyprylon\nMidazolam\nNitrazepam\nNordazepam\nOxazepam\nOxazolam\nPemoline\nPentazocine\nPentobarbital\nPhenazepam\nPhenobarbital\nPhentermine\nPinazepam\nPrazepam\n[Deleted by S 543/2016 wef 01/11/2016]\nSecbutabarbital\nTemazepam\nTetrazepam\nVinylbital\nZolpidem.\n[S 769/2025 wef 01/12/2025]\n[S 819/2024 wef 01/11/2024]\n[S 683/2023 wef 01/11/2023]\n[S 488/2005 wef 01/08/2005]\n[S 543/2016 wef 01/11/2016]\n[S 228/2017 wef 01/05/2017]\n2. The stereoisomeric forms or salts of the substances specified in paragraph 1, wherever the existence of such stereoisomeric forms or salts is possible.\n[S 683/2023 wef 01/11/2023]\n3. Any preparation of product containing one or more of the substances specified in paragraphs 1 and 2.\n[G.N. Nos. S 216/94; S 221/96; S 388/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Medicines (Export Licence for Psychotropic Substances) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

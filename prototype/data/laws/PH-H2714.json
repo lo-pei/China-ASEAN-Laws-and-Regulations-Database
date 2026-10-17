@@ -1,7 +1,7 @@
 {
  "id": "PH-H2714",
  "title": {
-  "zh": null,
+  "zh": "修订第2384号共和国法（即授予Dancar Electric Company在宿务省达瑙、卡门与卡特蒙市镇电灯、热力与动力系统及达瑙制冰厂特许权的法案）若干条款的法案",
   "en": "An Act Amending Certain Section of Republic Act Numbered Twenty-Three Hundred Eighty-Four, Entitled “An Act Granting to Dancar Electric Company a Franchise to Construct, Operate and Maintain Electric Light, Heat and Power Systems in the Municipalities of Danao, Carmen and Catmon, All in the Province of Cebu, and an Ice Plant in the Municipality of Danao, Province of Cebu, and to Distribute and Sell Light, Heat and/or Power in the Said Municipalities and to Distribute and Sell Ice in the Whole Province of Cebu”",
   "orig": "An Act Amending Certain Section of Republic Act Numbered Twenty-Three Hundred Eighty-Four, Entitled “An Act Granting to Dancar Electric Company a Franchise to Construct, Operate and Maintain Electric Light, Heat and Power Systems in the Municipalities of Danao, Carmen and Catmon, All in the Province of Cebu, and an Ice Plant in the Municipality of Danao, Province of Cebu, and to Distribute and Sell Light, Heat and/or Power in the Said Municipalities and to Distribute and Sell Ice in the Whole Province of Cebu”"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Section of Republic Act Numbered Twenty-Three Hundred Eighty-Four, Entitled “An Act Granting to Dancar Electric Company a Franchise to Construct, Operate and Maintain Electric Light, Heat and Power Systems in the Municipalities of Danao, Carmen and Catmon, All in the Province of Cebu, and an Ice Plant in the Municipality of Danao, Province of Cebu, and to Distribute and Sell Light, Heat and/or Power in the Said Municipalities and to Distribute and Sell Ice in the Whole Province of Cebu”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

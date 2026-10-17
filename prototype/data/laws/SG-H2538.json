@@ -1,7 +1,7 @@
 {
  "id": "SG-H2538",
  "title": {
-  "zh": null,
+  "zh": "所得税（Suntec 房地产投资信托——第 13(12) 条豁免）命令 2021",
   "en": "Income Tax (Suntec Real Estate Investment Trust — Section 13(12) Exemption) Order 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Trust distribution income described in sub‑paragraph (2), that is received in Singapore on or after 18 June 2021 by the trustee of Suntec Real Estate Investment Trust or Suntec REIT UK 1 Pte. Ltd. (a Singapore‑incorporated company), from Victoria Circle Unit Trust 1 (a Jersey property unit trust) or Victoria Circle Unit Trust 2 (a Jersey property unit trust), is exempt from tax.\n(2) Sub‑paragraph (1) applies to the following income:\n(a)any rental or other property‑related income derived from a specified property;\n(b)any gain from the disposal of a specified property;\n(c)any gain from the disposal of any partnership interest in any of the following partnerships registered or formed in the United Kingdom:\n(i)Nova Limited Partnership;\n(ii)Nova Residential Limited Partnership.\n(3) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter of approval dated 18 June 2021 addressed to Ernst & Young Solutions LLP.\n(4) In this paragraph, “specified property” means any of the following properties situated in the United Kingdom:\n(a)Nova North;\n(b)Nova South;\n(c)The Nova Building."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Suntec Real Estate Investment Trust — Section 13(12) Exemption) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

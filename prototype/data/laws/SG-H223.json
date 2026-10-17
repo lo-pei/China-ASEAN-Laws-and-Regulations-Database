@@ -1,7 +1,7 @@
 {
  "id": "SG-H223",
  "title": {
-  "zh": null,
+  "zh": "各副注册官的委任",
   "en": "Appointment of Deputy Registrars",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Registration of Births and Deaths Act\n(CHAPTER 267)\nAppointment of Deputy Registrars\nIt is hereby notified for general information that, in exercise of the powers conferred by section 3 of the Registration of Births and Deaths Act, the Minister for Home Affairs has appointed the following officers to be the Deputy Registrars of Births and Deaths for the purposes of the Act, with effect from 16th March 1998:\n(1)Officer-in-Charge of the Nanyang EPP branch of the Jurong Neighbourhood Police Post.\n(2)Officer-in-Charge of the Fushan EPP branch of the Bukit Panjang North Neighbourhood Police Post.\n(3)Officer-in-Charge of the Pasir Ris EPP branch of the Pasir Ris Neighbourhood Police Post."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Deputy Registrars",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

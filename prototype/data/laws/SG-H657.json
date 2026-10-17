@@ -1,7 +1,7 @@
 {
  "id": "SG-H657",
  "title": {
-  "zh": null,
+  "zh": "合作社（AUPE 信用合作社有限公司——第 97 条豁免）命令 2022",
   "en": "Co-operative Societies (AUPE Credit Co-operative Limited — Exemption under Section 97) Order 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) AUPE Credit Co‑operative Limited (called in this paragraph AUPE CC), a primary society, is exempt from the requirement in section 39(1)(a)(ii) of the Act that membership in a primary society for an individual is to be restricted to individuals who are citizens of Singapore or resident in Singapore, to the extent provided in sub‑paragraph (2).\n(2) AUPE CC may admit an employee of the Public Utilities Board who is both a citizen of Malaysia and resident in Malaysia as a member of AUPE CC, even though he or she is neither a citizen of Singapore nor resident in Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (AUPE Credit Co-operative Limited — Exemption under Section 97) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

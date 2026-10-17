@@ -1,7 +1,7 @@
 {
  "id": "SG-H3064",
  "title": {
-  "zh": null,
+  "zh": "赡养令（相互执行）（互惠国家指定——新西兰）公告 2014",
   "en": "Maintenance Orders (Reciprocal Enforcement) (Designation of Reciprocating Countries — New Zealand) Notification 2014",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) Sections 2, 5 and 12 to 15 of the Act shall apply in relation to a maintenance order transmitted under section 4 or 5 of the previous Act to New Zealand and to which the previous Act applied immediately before 3 May 1976, as they apply in relation to a maintenance order sent to New Zealand in pursuance of section 3 of the Act or made by virtue of section 4 of the Act and confirmed by a competent court in New Zealand.\n(2) A maintenance order made by a court in New Zealand which has been confirmed by a court in Singapore under section 6 of the previous Act and is in force immediately before 3 May 1976, shall be registered under section 7(5) of the Act in like manner as if it had been confirmed by that court in Singapore under section 7(2) of the Act.\n(3) Sections 2 and 8 to 16 of the Act shall apply in relation to a maintenance order made in New Zealand and to which the previous Act applied immediately before 3 May 1976, as they apply in relation to a registered order.\n(4) Where any proceedings brought under or by virtue of any provision of the previous Act in a court in Singapore which are pending immediately before 3 May 1976, being proceedings affecting a person resident in New Zealand, those proceedings may be continued as if they had been brought under or by virtue of the corresponding provision of the Act.\n(5) In this paragraph, “maintenance order” does not include an order specified under paragraph 3(a), (b) or (c)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Maintenance Orders (Reciprocal Enforcement) (Designation of Reciprocating Countries — New Zealand) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

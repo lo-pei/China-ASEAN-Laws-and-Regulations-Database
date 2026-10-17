@@ -1,7 +1,7 @@
 {
  "id": "SG-H2729",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 7 号）命令 2025",
   "en": "Infrastructure Protection (Protected Places) (No. 7) Order 2025",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nChief Executive,\nCommunicable Diseases Agency\nBSL-3 FACILITY OF THE NATIONAL PUBLIC HEALTH LABORATORY (NPHL), BLOCK G, LEVEL 13, COMMUNICABLE DISEASES AGENCY, 16 JALAN TAN TOCK SENG, SINGAPORE 308442\nAll that area comprised in Block G, Level 13, National Public Health Laboratory, Communicable Diseases Agency, 16 Jalan Tan Tock Seng, Singapore 308442 occupied by “BSL‑3 FACILITY OF THE NATIONAL PUBLIC HEALTH LABORATORY (NPHL), BLOCK G, LEVEL 13, COMMUNICABLE DISEASES AGENCY, 16 JALAN TAN TOCK SENG, SINGAPORE 308442” containing an area of about 390.7 square metres and bounded approximately as follows:\nCommencing at the northernmost corner at a point 33,727.562 metres North and 29,638.288 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n33,727.562\n29,638.288\n33,722.098\n29,644.197\n33,721.650\n29,643.781\n33,720.128\n29,645.422\n33,720.817\n29,646.062\n33,720.065\n29,646.878\n33,719.374\n29,646.245\n33,717.401\n29,648.397\n33,716.896\n29,647.923\n33,715.382\n29,648.482\n33,715.362\n29,648.445\n33,714.342\n29,648.813\n33,714.283\n29,648.892\n33,714.507\n29,649.455\n33,710.165\n29,654.179\n33,710.208\n29,654.219\n33,709.035\n29,655.493\n33,707.865\n29,655.916\n33,701.205\n29,637.889\n33,701.794\n29,636.893\n33,701.884\n29,636.766\n33,702.671\n29,637.347\n33,705.865\n29,636.166\n33,705.696\n29,635.649\n33,705.845\n29,635.591\n33,705.928\n29,635.800\n33,706.836\n29,635.455\n33,706.760\n29,635.257\n33,707.077\n29,635.134\n33,708.122\n29,633.690\n33,707.684\n29,633.371\n33,707.776\n29,633.236\n33,707.948\n29,633.350\n33,708.432\n29,632.685\n33,708.268\n29,632.556\n33,708.457\n29,632.298\n33,708.894\n29,632.616\n33,710.315\n29,630.661\n33,710.958\n29,631.126\n33,710.983\n29,629.754\n33,714.069\n29,625.488\n33,725.536\n29,636.069\n33,725.476\n29,636.134\n33,727.087\n29,637.619\n33,726.971\n29,637.745\nto the point of commencement.\nThe boundaries of “BSL-3 FACILITY OF THE NATIONAL PUBLIC HEALTH LABORATORY (NPHL), BLOCK G, LEVEL 13, COMMUNICABLE DISEASES AGENCY, 16 JALAN TAN TOCK SENG, SINGAPORE 308442” are more particularly delineated in the Plan set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 7) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

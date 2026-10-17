@@ -1,7 +1,7 @@
 {
  "id": "SG-H1600",
  "title": {
-  "zh": null,
+  "zh": "外国招募法 1875",
   "en": "Foreign Recruiting Act 1875",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. Any person who in violation of the prohibition of the President, or of any condition subject to which permission to recruit has been accorded —\n(a)induces or attempts to induce any person to accept, agree to accept, or to proceed to any place with a view of obtaining, any commission or employment in the service of any foreign State; or\n(b)knowingly aids in the engagement of any person so induced by forwarding or conveying him, or by advancing money, or in any other way whatever,\nshall be guilty of an offence and shall be liable on conviction to a fine or to imprisonment for a term not exceeding 7 years or to both."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Foreign Recruiting Act 1875",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

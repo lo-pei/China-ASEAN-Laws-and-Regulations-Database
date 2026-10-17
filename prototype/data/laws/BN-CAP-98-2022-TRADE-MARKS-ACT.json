@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-98-2022-TRADE-MARKS-ACT",
  "title": {
-  "zh": null,
+  "zh": "商标法",
   "en": "TRADE MARKS ACT",
   "orig": null
  },
@@ -1707,5 +1707,13 @@
     "en": "Schedule 3 has effect with respect to transitional matters, including the treatment of trade marks registered under the repealed Act, and applications for registration and other proceeding pending under the repealed Act, on the commencement of this Act. (section 51)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TRADE MARKS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

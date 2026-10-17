@@ -1,7 +1,7 @@
 {
  "id": "PH-H7835",
  "title": {
-  "zh": null,
+  "zh": "在莱特省增设两个区域审判法院分庭，设于塔克洛班市，为此修订第129号国民议会法（即经修正的1980年《司法重组法》）第14条第(I)款并为此拨款的法案",
   "en": "An Act Creating Two Additional Regional Trial Court Branches in the Province of Leyte to be stationed in the City of Tacloban Amending for the purpose Section 14 Paragraph (I) of Batas Pambansa Blg. 129, Otherwise known as the Judiciary Reorganization Act of 1980, as amended, and appropriating funds therefor",
   "orig": "An Act Creating Two Additional Regional Trial Court Branches in the Province of Leyte to be stationed in the City of Tacloban Amending for the purpose Section 14 Paragraph (I) of Batas Pambansa Blg. 129, Otherwise known as the Judiciary Reorganization Act of 1980, as amended, and appropriating funds therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating Two Additional Regional Trial Court Branches in the Province of Leyte to be stationed in the City of Tacloban Amending for the purpose Section 14 Paragraph (I) of Batas Pambansa Blg. 129, Otherwise known as the Judiciary Reorganization Act of 1980, as amended, and appropriating funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

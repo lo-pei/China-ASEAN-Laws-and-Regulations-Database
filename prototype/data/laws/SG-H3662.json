@@ -1,7 +1,7 @@
 {
  "id": "SG-H3662",
  "title": {
-  "zh": null,
+  "zh": "新加坡旅游（税款征收）法 1972",
   "en": "Singapore Tourism (Cess Collection) Act 1972",
   "orig": null
  },
@@ -385,5 +385,13 @@
     "en": "26. The Board may, with the approval of the Minister, make such regulations as are necessary for carrying into effect the provisions of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Singapore Tourism (Cess Collection) Act 1972",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

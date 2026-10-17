@@ -1,7 +1,7 @@
 {
  "id": "PH-H1688",
  "title": {
-  "zh": null,
+  "zh": "在东内格罗斯省Guihulñgan市镇设立职业中学，名称为Guihulñgan职业中学，并为此拨付所需经费的法案",
   "en": "An Act Providing for the Establishment of a Vocational High School in the Municipality of Guihulñgan, Province of Negros Oriental, to be Known as the Guihulñgan Vocational High School and Appropriating the Necessary Funds Therefor",
   "orig": "An Act Providing for the Establishment of a Vocational High School in the Municipality of Guihulñgan, Province of Negros Oriental, to be Known as the Guihulñgan Vocational High School and Appropriating the Necessary Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Establishment of a Vocational High School in the Municipality of Guihulñgan, Province of Negros Oriental, to be Known as the Guihulñgan Vocational High School and Appropriating the Necessary Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

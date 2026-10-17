@@ -1,7 +1,7 @@
 {
  "id": "SG-H3640",
  "title": {
-  "zh": null,
+  "zh": "限定继承产业法 1934",
   "en": "Settled Estates Act 1934",
   "orig": null
  },
@@ -454,5 +454,13 @@
     "en": "32.—(1) The court or a judge may, if it or he thinks fit, order that all or any costs or expenses of all or any parties of and incident to any application under this Act shall be a charge on the property which is the subject of the application, or on any other estate included in the same settlement, and subject to the same limitations.\n(2) The court or a judge may also direct that such costs and expenses shall be raised by sale or mortgage of a sufficient part of such property, or out of the rents or profits thereof, such costs and expenses to be taxed as the court or judge directs."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Settled Estates Act 1934",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

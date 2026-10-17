@@ -1,7 +1,7 @@
 {
  "id": "PH-H8984",
  "title": {
-  "zh": null,
+  "zh": "将菲律宾国家卫生研究系统制度化的法案",
   "en": "An Act Institutionalizing the Philippine National Health Research System",
   "orig": "An Act Institutionalizing the Philippine National Health Research System"
  },
@@ -265,5 +265,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days after its publication in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Institutionalizing the Philippine National Health Research System",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

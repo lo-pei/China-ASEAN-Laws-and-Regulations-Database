@@ -1,7 +1,7 @@
 {
  "id": "PH-H433",
  "title": {
-  "zh": null,
+  "zh": "为菲律宾武装部队建立统一退休制度、规定退出现役并为其他目的法案",
   "en": "An Act to Establish a Uniform Retirement System for the Armed Forces of the Philippines, to Provide for Separation Therefrom, and for Other Purposes",
   "orig": "An Act to Establish a Uniform Retirement System for the Armed Forces of the Philippines, to Provide for Separation Therefrom, and for Other Purposes"
  },
@@ -201,5 +201,13 @@
     "en": "This Act shall take effect upon its approval, but the provisions of sections two and three hereof shall be given retroactive effect with respect to officers and enlisted men who died after December eight, nineteen hundred and forty-one and who did not apply for retirement under Commonwealth Act One hundred and ninety during their lifetime but were, at the time of their death and by reason of length of service, otherwise entitled to retire under said Act: Provided, That no provision of this Act shall operate to reduce the retirement pay or gratuity which any retired officer or enlisted man is receiving at the time this Act takes effect.\nApproved: July 26, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish a Uniform Retirement System for the Armed Forces of the Philippines, to Provide for Separation Therefrom, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

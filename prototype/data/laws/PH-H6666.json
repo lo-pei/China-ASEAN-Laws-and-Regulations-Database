@@ -1,7 +1,7 @@
 {
  "id": "PH-H6666",
  "title": {
-  "zh": null,
+  "zh": "提高违反规定工资增幅或调整的处罚并规定双倍赔偿，为此修订第6727号共和国法（即《工资合理化法》）第12条的法案",
   "en": "An Act Increasing the Penalty and Imposing Double Indemnity for Violation of the Prescribed Increases or Adjustments in the Wage Rates, Amending for the Purpose Section Twelve of Republic Act Numbered Sixty-seven Hundred Twenty-seven, Otherwise Known as the Wage Rationalization Act",
   "orig": "An Act Increasing the Penalty and Imposing Double Indemnity for Violation of the Prescribed Increases or Adjustments in the Wage Rates, Amending for the Purpose Section Twelve of Republic Act Numbered Sixty-seven Hundred Twenty-seven, Otherwise Known as the Wage Rationalization Act"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect fifteen (15) days after its complete publication in a newspaper of general circulation.\nApproved, June 11, 1996"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Penalty and Imposing Double Indemnity for Violation of the Prescribed Increases or Adjustments in the Wage Rates, Amending for the Purpose Section Twelve of Republic Act Numbered Sixty-seven Hundred Twenty-seven, Otherwise Known as the Wage Rationalization Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

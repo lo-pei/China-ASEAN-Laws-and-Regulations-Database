@@ -1,7 +1,7 @@
 {
  "id": "SG-H1662",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（枪支处置——类别许可）命令 2025",
   "en": "Guns, Explosives and Weapons Control (Gun Disposal — Class Licence) Order 2025",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "8. For the purpose of section 61(2)(a) of the Act, a class licensee by virtue of paragraph 3 must keep and retain a record for at least 3 years after the date the record was made."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Guns, Explosives and Weapons Control (Gun Disposal — Class Licence) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

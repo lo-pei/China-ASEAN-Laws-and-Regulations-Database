@@ -1,7 +1,7 @@
 {
  "id": "SG-H2136",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 3 号）公告 2003",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) (No. 3) Notification 2003",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be exempt from tax the interest payable by B.S. Ocean Maritime Pte. Ltd. from 27th October 2003 to 6th October 2008 (both dates inclusive) to Orion Line Shipping S.A. under the Finance Lease Agreement dated 9th September 2003 in respect of one DWT Bulk Carrier named “Golden Island”."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) (No. 3) Notification 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

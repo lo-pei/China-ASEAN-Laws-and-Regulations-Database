@@ -1,7 +1,7 @@
 {
  "id": "PH-H509",
  "title": {
-  "zh": null,
+  "zh": "修订国家国内税收法典第259条与第260条（分别经第39号共和国法第7条与第8条修正）的法案",
   "en": "An Act to Amend Sections Two Hundred Fifty-Nine and Two Hundred Sixty of the National Internal Revenue Code, as Amended by Sections Seven and Eight, Respectively, of Republic Act Numbered Thirty-Nine",
   "orig": "An Act to Amend Sections Two Hundred Fifty-Nine and Two Hundred Sixty of the National Internal Revenue Code, as Amended by Sections Seven and Eight, Respectively, of Republic Act Numbered Thirty-Nine"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Two Hundred Fifty-Nine and Two Hundred Sixty of the National Internal Revenue Code, as Amended by Sections Seven and Eight, Respectively, of Republic Act Numbered Thirty-Nine",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

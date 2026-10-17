@@ -1,7 +1,7 @@
 {
  "id": "PH-H7156",
  "title": {
-  "zh": null,
+  "zh": "授予 Mountain View 基督复临安息日会学院在布基农省 Valencia 市镇建设、安装、设立、运营和维护广播站的特许经营权法案",
   "en": "An Act Granting the Mountain View College of Seventh Day Adventists a Franchise to Construct, Install, Establish, Operate and Maintain a Radio Station in the Municipality of Valencia, Province of Bukidnon",
   "orig": "An Act Granting the Mountain View College of Seventh Day Adventists a Franchise to Construct, Install, Establish, Operate and Maintain a Radio Station in the Municipality of Valencia, Province of Bukidnon"
  },
@@ -221,5 +221,13 @@
     "en": "Effectivity. - This Act shall effect fifteen (15) days from the date of publication in at least two (2) newspapers general publication in the Philippines"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Mountain View College of Seventh Day Adventists a Franchise to Construct, Install, Establish, Operate and Maintain a Radio Station in the Municipality of Valencia, Province of Bukidnon",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

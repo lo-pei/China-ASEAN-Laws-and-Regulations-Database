@@ -1,7 +1,7 @@
 {
  "id": "SG-H2235",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）公告 2018",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The total interest of US$519,389 payable by Iolair Offshore Pte Ltd to Magellan Marine Limited in January 2017 in respect of a loan of US$65,000,000 made for the purpose of financing the purchase of the vessel “Iolair”, and under an agreement first entered into on 16 November 2016 with Exeter Marine Limited, and novated to Magellan Marine Limited on 5 December 2016, is exempt from tax.\n(2) The exemption under sub‑paragraph (1) is subject to the following conditions:\n(a)that the information furnished and representations made by Iolair Offshore Pte Ltd to the Minister are accurate;\n(b)that Iolair Offshore Pte Ltd has not withheld from the Minister any information which it knows or ought reasonably to know would affect the decision of the Minister to grant the exemption in sub‑paragraph (1)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

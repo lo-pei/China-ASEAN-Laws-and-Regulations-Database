@@ -1,7 +1,7 @@
 {
  "id": "PH-H4618",
  "title": {
-  "zh": null,
+  "zh": "修订第3015号共和国法第1条，赋予其规定追溯效力（即武装部队退休法）的法案",
   "en": "An Act Amending Section One of Republic Act Numbered Thirty Hundred Fifteen By Giving Retroactive Effect to the Provisions Thereof, (Re Armed Forces Retirement Act)",
   "orig": "An Act Amending Section One of Republic Act Numbered Thirty Hundred Fifteen By Giving Retroactive Effect to the Provisions Thereof, (Re Armed Forces Retirement Act)"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section One of Republic Act Numbered Thirty Hundred Fifteen By Giving Retroactive Effect to the Provisions Thereof, (Re Armed Forces Retirement Act)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

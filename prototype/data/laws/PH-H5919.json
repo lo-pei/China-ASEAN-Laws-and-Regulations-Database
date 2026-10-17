@@ -1,7 +1,7 @@
 {
  "id": "PH-H5919",
  "title": {
-  "zh": null,
+  "zh": "将哈格纳区医院命名为特奥多罗·B·加拉加尔区医院的法案",
   "en": "An Act Naming the Jagna District Hospital As the Teodoro B. Galagar District Hospital",
   "orig": "An Act Naming the Jagna District Hospital As the Teodoro B. Galagar District Hospital"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 23, 1992"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Jagna District Hospital As the Teodoro B. Galagar District Hospital",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

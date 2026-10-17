@@ -1,7 +1,7 @@
 {
  "id": "PH-H3292",
  "title": {
-  "zh": null,
+  "zh": "将Bacolod市卫生官定为地方民事登记官，为此修订该市宪章第43条的法案",
   "en": "An Act Making the City Health Officer of Bacolod City the Local Civil Registrar, Amending for the Purpose Section Forty-Three of the Charter of Said City",
   "orig": "An Act Making the City Health Officer of Bacolod City the Local Civil Registrar, Amending for the Purpose Section Forty-Three of the Charter of Said City"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making the City Health Officer of Bacolod City the Local Civil Registrar, Amending for the Purpose Section Forty-Three of the Charter of Said City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3699",
  "title": {
-  "zh": null,
+  "zh": "恐怖主义（制止融资）法 2002",
   "en": "Terrorism (Suppression of Financing) Act 2002",
   "orig": null
  },
@@ -746,5 +746,13 @@
     "en": "SECOND SCHEDULE\nSections 2(2) and 38\nPart 1\nActions which also constitute terrorist acts\nwith effect from 29 January 2003\nAny act or omission constituting an offence under the Hijacking of Aircraft and Protection of Aircraft and International Airports Act 1978.\nPart 2\nActions which also constitute terrorist acts\nwith effect from 20 February 2008\n1. Any act or omission constituting an offence under section 3, 4, 5 or 6 of the Maritime Offences Act 2003.\n2. Any act or omission constituting an offence under section 3 of the Terrorism (Suppression of Bombings) Act 2007.\nPart 3\nActions Which Also Constitute Terrorist Acts With Effect from 2 June 2008\nAny act or omission constituting —\n(a)an offence under section 4, 5, 6 or 7 of the Internationally Protected Persons Act 2008;\n(b)an offence specified in the First Schedule to that Act committed to or in relation to an internationally protected person;\n(c)an offence specified in the Second Schedule to that Act committed to or in relation to a relevant premises or a vehicle used by an internationally protected person;\n(d)an abetment of or a conspiracy or an attempt to commit —\n(i)an offence under section 4 or 5 of that Act; or\n(ii)an offence mentioned in paragraph (b) or (c).\nNote:\nIn this Schedule, the expressions “internationally protected person”, “relevant premises” and “vehicle” have the meanings given by the Internationally Protected Persons Act 2008.\nPart 4\nActions Which Also Constitute Terrorist Acts\nWITH EFFECT FROM 21 November 2010\nAny act constituting an offence under section 3 of the Hostage-Taking Act 2010.\nPart 5\nActions which also constitute terrorist acts with\neffect from 25 October 2014\nAny act or omission constituting —\n(a)an offence under section 29 or 31 of the Radiation Protection Act 2007;\n(b)an offence specified in the Second Schedule to that Act where committed in relation to any nuclear material;\n(c)an abetment of, or a conspiracy to commit, an offence mentioned in paragraph (a) or (b);\n(d)an attempt to commit an offence under section 29 of that Act;\n(e)an attempt to commit, in relation to any nuclear material, an offence specified in items 1 to 4 and 11 to 27 of the Second Schedule to that Act; or\n(f)an offence mentioned in paragraph (a), (b), (d) or (e) for which a person would be made liable by virtue of section 34, 35 or 37 of the Penal Code 1871.\nNote:\nIn this Schedule, the expression “nuclear material” has the meaning given by the Radiation Protection Act 2007.\nPart 6\nActions which also constitute terrorist acts\nwith effect from 10 November 2015\n1. Any act or omission constituting an offence under section 7(4) or (5), 8, 9, 10 or 11(3) or (4) of the Maritime Offences Act 2003.\n2. Any act of violence, as defined in section 2 of the Maritime Offences Act 2003, mentioned in section 7(1) or 11(1) of that Act.\nPart 7\nActions which also constitute terrorist acts\nwith effect from 1 September 2017\nAny act or omission constituting an offence under section 4, 5, 6(1), 7(1), 8, 9 or 10 of the Terrorism (Suppression of Misuse of Radioactive Material) Act 2017.\n[17/2013; S 86/2008; S 280/2008; S 675/2010; S 716/2014; S 652/2015; S 485/2017]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Terrorism (Suppression of Financing) Act 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

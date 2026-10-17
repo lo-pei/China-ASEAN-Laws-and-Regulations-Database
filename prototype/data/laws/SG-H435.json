@@ -1,7 +1,7 @@
 {
  "id": "SG-H435",
  "title": {
-  "zh": null,
+  "zh": "终身护保与长期护理（前乐龄健保计划与前乐龄健保附加计划过渡条文）条例 2021",
   "en": "CareShield Life and Long-Term Care (Transitional Provisions for former ElderShield Scheme and former ElderShield Supplement Scheme) Regulations 2021",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) Every individual insured under any severe disability insurance policy under the former ElderShield Supplement Scheme (called in this regulation a former policy) immediately before the transfer date is treated as being insured under a supplementary disability insurance policy for the purposes of the CareShield Life and Long‑Term Care (Supplement Scheme) Regulations 2020 (G.N. No. S 850/2020) beginning on the transfer date.\n(2) For the purposes of regulations 5, 6, 7 and 11 of the CareShield Life and Long‑Term Care (Supplement Scheme) Regulations 2020 —\n(a)an authorisation by the Board under regulation 3(5) of the Central Provident Fund (Withdrawals for ElderShield Scheme) Regulations as in force immediately before the transfer date for a CPF member to withdraw moneys standing to his or her credit in his or her medisave account in the Fund for the payment of a premium payable under a former policy under which he or she is insured, is treated as an authorisation under regulation 5(4) of the CareShield Life and Long‑Term Care (Supplement Scheme) Regulations 2020 if the withdrawal is authorised by the Board before the transfer date; and\n(b)an authorisation by the Board under regulation 3(5) of the Central Provident Fund (Withdrawals for ElderShield Scheme) Regulations as in force immediately before the transfer date for a CPF member to withdraw moneys standing to his or her credit in his or her medisave account in the Fund for the payment of a premium payable under a former policy by his or her dependant who is insured under that policy, is treated as an authorisation under regulation 5(4) of the CareShield Life and Long‑Term Care (Supplement Scheme) Regulations 2020 if the withdrawal is authorised by the Board before the transfer date.\n(3) In paragraph (2), the terms and conditions (if any) imposed by the Board for the authorisation under regulation 3(5) of the Central Provident Fund (Withdrawals for ElderShield Scheme) Regulations as in force immediately before the transfer date continue to apply to the authorisation under regulation 5(4) of the CareShield Life and Long‑Term Care (Supplement Scheme) Regulations 2020.\n(4) For the purposes of regulations 9, 10 and 11 of the CareShield Life and Long‑Term Care (Supplement Scheme) Regulations 2020 —\n(a)a premium paid for an individual’s insurance cover under a former policy before the transfer date is treated as a premium paid for a supplementary disability insurance policy; and\n(b)moneys withdrawn from a CPF member’s medisave account before the transfer date to pay a premium for a former policy are treated as moneys withdrawn from the CPF member’s medisave account to pay a premium for a supplementary disability insurance policy.\n(5) For the purposes of regulation 10 of the CareShield Life and Long‑Term Care (Supplement Scheme) Regulations 2020, a representation made to the Board, or information provided to the Board, by a CPF member for any purpose connected with the Central Provident Fund (Withdrawals for ElderShield Scheme) Regulations as in force immediately before the transfer date, is treated as a representation made, or information provided, for any purpose connected with the CareShield Life and Long‑Term Care (Supplement Scheme) Regulations 2020.\n(6) For the purposes of regulation 11(1)(d) of the CareShield Life and Long‑Term Care (Supplement Scheme) Regulations 2020, a representation made to the Board, or information provided to the Board, by a CPF member, any dependant of the CPF member or an approved insurer in connection with an application for payment of a premium for the insurance cover of the CPF member or his or her dependant under a former policy, is treated as a representation made, or information provided, in connection with an application for payment of a premium for the insurance cover of the CPF member or his or her dependant under a supplementary disability insurance policy."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "CareShield Life and Long-Term Care (Transitional Provisions for former ElderShield Scheme and former ElderShield Supplement Scheme) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

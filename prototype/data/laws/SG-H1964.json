@@ -1,7 +1,7 @@
 {
  "id": "SG-H1964",
  "title": {
-  "zh": null,
+  "zh": "所得税（管理合格注册商业信托或公司所得收入的优惠税率）条例 2009",
   "en": "Income Tax (Concessionary Rate of Tax for Income Derived from Managing Qualifying Registered Business Trust or Company) Regulations 2009",
   "orig": null
  },
@@ -116,5 +116,11 @@
     "en": "6. For the purposes of regulation 5, the Comptroller shall determine —\n(a)the income chargeable to tax of an approved trustee-manager or approved fund management company, as the case may be, having regard to such expenses, capital allowances and donations allowable under the Act as are, in his opinion, to be deducted in ascertaining such income; and\n(b)the manner and extent to which any losses arising from the activities specified in these Regulations in respect of any prescribed offshore infrastructure asset or project may be deducted under the Act in ascertaining the chargeable income of an approved trustee-manager or approved fund management company.\n[S 97/2010 wef 01/04/2008]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Income Tax (Concessionary Rate of Tax for Income Derived from Managing Qualifying Registered Business Trust or Company) Regulations 2009",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

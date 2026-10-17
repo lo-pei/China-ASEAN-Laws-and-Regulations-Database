@@ -1,7 +1,7 @@
 {
  "id": "PH-H3629",
  "title": {
-  "zh": null,
+  "zh": "宣布南伊罗戈省 Suyo 市镇的 Kimpusa 村为该市镇镇中心与市政府所在地的法案",
   "en": "An Act to Declare Barrio Kimpusa of the Municipality of Suyo, Province of Ilocos Sur, as the Poblacion and the Seat of the Municipal Government of the Said Municipality",
   "orig": "An Act to Declare Barrio Kimpusa of the Municipality of Suyo, Province of Ilocos Sur, as the Poblacion and the Seat of the Municipal Government of the Said Municipality"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Declare Barrio Kimpusa of the Municipality of Suyo, Province of Ilocos Sur, as the Poblacion and the Seat of the Municipal Government of the Said Municipality",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

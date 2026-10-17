@@ -1,7 +1,7 @@
 {
  "id": "PH-H9375",
  "title": {
-  "zh": null,
+  "zh": "延长菲律宾护照有效期，为此修订第 8239 号共和国法（即 1996 年《菲律宾护照法》）第 10 条并为其他目的",
   "en": "An Act Extending the Validity of Philippine Passports, Amending for the Purpose Section 10 of Republic Act No. 8239, Otherwise Known as the Philippine Passport Act of 1996, and for Other Purposes",
   "orig": "An Act Extending the Validity of Philippine Passports, Amending for the Purpose Section 10 of Republic Act No. 8239, Otherwise Known as the Philippine Passport Act of 1996, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Validity of Philippine Passports, Amending for the Purpose Section 10 of Republic Act No. 8239, Otherwise Known as the Philippine Passport Act of 1996, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

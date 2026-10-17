@@ -1,7 +1,7 @@
 {
  "id": "SG-H3623",
  "title": {
-  "zh": null,
+  "zh": "道路车辆（特别权力）法 1960",
   "en": "Road Vehicles (Special Powers) Act 1960",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "THE SCHEDULE\nSection 2\nScheduled Offences\n1. Offences punishable under any of the following provisions:\n(a)section 3(1) and (2) of the Arms Offences Act 1973;\n(b)sections 3(1)(a) to (e), 5(3)(a) and 6 of the Betting Act 1960 repealed by the Gambling Control Act 2022;\n[Act 15 of 2022 wef 01/08/2022]\n(c)sections 4(1)(a) to (d) and 5(a) and (d) of the Common Gaming Houses Act 1961 repealed by the Gambling Control Act 2022;\n[Act 15 of 2022 wef 01/08/2022]\n(d)sections 3, 4, 5 and 6 of the Corrosive and Explosive Substances and Offensive Weapons Act 1958;\n(e)section 3 of the Hostage-Taking Act 2010;\n(f)section 27(2) and (3) of the Miscellaneous Offences (Public Order and Nuisance) Act 1906;\n(g)sections 5, 6, 7, 8(a), 11F(1), 11G(1), 11H(1) and 11I(1)(a) of the Misuse of Drugs Act 1973;\n[Act 12 of 2023 wef 01/06/2023]\n[Act 12 of 2023 wef 01/06/2024]\n(h)section 59 of the Internal Security Act 1960;\n(i)section 14(3) of the Societies Act 1966;\n(j)sections 143, 144, 145, 147, 148, 302, 307, 324, 325, 326, 363, 363A, 364, 364A (as in force before 21 November 2010), 365, 368, 506, and Chapter 17 of the Penal Code 1871;\n(ja)sections 18(2), 19(2), 21(4), 22(4), 23(3), 24(2), 25(3), 27(3), 29(2) and 36(1) of the Gambling Control Act 2022;\n[Act 15 of 2022 wef 01/08/2022]\n(k)section 120B of the Penal Code 1871 where the criminal conspiracy is to commit any of the offences set out in the foregoing sub-paragraphs.\n2. Attempts to commit and abetment of any of the offences set out in paragraph 1.\n[51/2007; 19/2010]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Road Vehicles (Special Powers) Act 1960",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

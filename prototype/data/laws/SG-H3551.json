@@ -1,7 +1,7 @@
 {
  "id": "SG-H3551",
  "title": {
-  "zh": null,
+  "zh": "规划（建屋发展局组屋授权）公告 2017",
   "en": "Planning (Housing and Development Board Flats Authorisation) Notification 2017",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The use of an HDB flat to provide dormitory accommodation or short‑term accommodation is authorised if the HDB lease permits such use or the Board gives written approval for such use."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Planning (Housing and Development Board Flats Authorisation) Notification 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

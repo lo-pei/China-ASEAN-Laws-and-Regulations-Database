@@ -1,7 +1,7 @@
 {
  "id": "PH-H1731",
  "title": {
-  "zh": null,
+  "zh": "修订第65号共和国法第9条，将永久丧失劳动能力的菲律宾退伍军人终身抚恤金从每月五十比索提高至一百比索的法案",
   "en": "An Act Amending Section Nine of Republic Act Numbered Sixty-Five by Increasing from Fifty to One Hundred Pesos a Month the Life Pension of Permanently Incapacitated Philippine Veterans",
   "orig": "An Act Amending Section Nine of Republic Act Numbered Sixty-Five by Increasing from Fifty to One Hundred Pesos a Month the Life Pension of Permanently Incapacitated Philippine Veterans"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Nine of Republic Act Numbered Sixty-Five by Increasing from Fifty to One Hundred Pesos a Month the Life Pension of Permanently Incapacitated Philippine Veterans",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

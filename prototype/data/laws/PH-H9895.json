@@ -1,7 +1,7 @@
 {
  "id": "PH-H9895",
  "title": {
-  "zh": null,
+  "zh": "将 2020 年 5 月 Barangay 与青年议会选举推迟，为此修订经多次修正的第 9164 号共和国法并为其他目的法案",
   "en": "An Act Postponing the May 2020 Barangay and Sangguniang Kabataan Elections, Amending for the Purpose Republic Act No. 9164, as Amended by Republic Act No. 9340, Republic Act No. 10632, Republic Act No. 10656, Republic Act No. 10923 and Republic Act No. 10952, and for Other Purposes",
   "orig": "An Act Postponing the May 2020 Barangay and Sangguniang Kabataan Elections, Amending for the Purpose Republic Act No. 9164, as Amended by Republic Act No. 9340, Republic Act No. 10632, Republic Act No. 10656, Republic Act No. 10923 and Republic Act No. 10952, and for Other Purposes"
  },
@@ -110,5 +110,13 @@
     "en": "Effectivity. — This Act shall take effect immediately following the completion of its publication either in the Official Gazette or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Postponing the May 2020 Barangay and Sangguniang Kabataan Elections, Amending for the Purpose Republic Act No. 9164, as Amended by Republic Act No. 9340, Republic Act No. 10632, Republic Act No. 10656, Republic Act No. 10923 and Republic Act No. 10952, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

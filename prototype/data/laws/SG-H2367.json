@@ -1,7 +1,7 @@
 {
  "id": "SG-H2367",
  "title": {
-  "zh": null,
+  "zh": "所得税（新加坡——德国）（避免双重征税协定）（补充）命令 2021",
   "en": "Income Tax (Singapore — Germany) (Supplementary) (Avoidance of Double Taxation Agreement) Order 2021",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nNotification from\nGerman Federal Ministry of Finance\ndated 16 August 2021\nDear Mr Tan,\nIn Note Verbale 167/2021 dated 13 July 2021, the Embassy of the Federal Republic of Germany in Singapore consulted the Republic of Singapore regarding Germany’s intention to apply the credit method for Singapore tax on income referred to in paragraph 3 of Article 13 of the Agreement signed on 28 June 2004 between the Federal Republic of Germany and the Republic of Singapore for the Avoidance of Double Taxation with respect to Taxes on Income and Capital, as amended by the Protocol of 9 December 2019 (DTA). As Singapore has not raised any issues Germany provides the following information through diplomatic channels:\nTo allow for the crediting of tax withheld by the Republic of Singapore as the state of source, the Federal Republic of Germany provides notification on the basis of clause (bb) of sub‑paragraph (e) of paragraph 1 of Article 24 of the DTA that, for income from capital gains for which the Republic of Singapore has taxing rights pursuant to paragraph 3 of Article 13 of the DTA, the Federal Republic of Germany will avoid double taxation on persons resident in Germany by applying the tax credit method set out in sub‑paragraph (b) of paragraph 1 of Article 24 of the DTA.\nThe notification will take effect from the first day of the calendar year next following that in which the notification was made (second sentence of clause (bb) of sub‑paragraph (e) of paragraph 1 of Article 24 of the DTA). The Federal Republic of Germany intends to create the domestic prerequisites for effectiveness immediately after transmitting this notification. It can therefore be assumed that the change shall have effect from 1 January 2022, the effective date of the DTA as amended by the Protocol of 9 December 2019.\nYours sincerely,\nFor the Minister\nStolte‑Detring\nHead of Division"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Singapore — Germany) (Supplementary) (Avoidance of Double Taxation Agreement) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

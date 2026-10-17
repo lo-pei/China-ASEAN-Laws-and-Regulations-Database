@@ -1,7 +1,7 @@
 {
  "id": "SG-H3106",
  "title": {
-  "zh": null,
+  "zh": "新加坡媒体发展局（业务守则）（豁免）公告 2003",
   "en": "Media Development Authority of Singapore (Code of Practice) (Exemption) Notification 2003",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following regulated persons are exempted from paragraphs 3.4 to 3.4.4 (Billing Practices) of the Code of Practice for Market Conduct in the Provision of Mass Media Services (G.N. No. S 177/2003):\n(a)MediaCorp Press Ltd; and\n(b)Singapore Press Holdings Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Media Development Authority of Singapore (Code of Practice) (Exemption) Notification 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

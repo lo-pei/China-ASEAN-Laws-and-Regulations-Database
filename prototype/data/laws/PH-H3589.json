@@ -1,7 +1,7 @@
 {
  "id": "PH-H3589",
  "title": {
-  "zh": null,
+  "zh": "修订第 2037 号共和国法（经第 2373 号共和国法修正）的法案",
   "en": "An Act Amending Republic Act Numbered Two Thousand Thirty-Seven, as Amended by Republic Act Numbered Two Thousand Three Hundred Seventy-Three",
   "orig": "An Act Amending Republic Act Numbered Two Thousand Thirty-Seven, as Amended by Republic Act Numbered Two Thousand Three Hundred Seventy-Three"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Two Thousand Thirty-Seven, as Amended by Republic Act Numbered Two Thousand Three Hundred Seventy-Three",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

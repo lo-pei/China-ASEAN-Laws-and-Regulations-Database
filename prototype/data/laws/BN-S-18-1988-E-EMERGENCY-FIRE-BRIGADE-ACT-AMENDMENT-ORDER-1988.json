@@ -1,7 +1,7 @@
 {
  "id": "BN-S-18-1988-E-EMERGENCY-FIRE-BRIGADE-ACT-AMENDMENT-ORDER-1988",
  "title": {
-  "zh": null,
+  "zh": "紧急消防队法修正命令 1988",
   "en": "EMERGENCY FIRE BRIGADE ACT AMENDMENT ORDER 1988",
   "orig": null
  },
@@ -70,5 +70,13 @@
     "en": "The Act is amended by deleting the words specified in the First Column of the Schedule to this Order wherever the said words appear in the Act and substituting therefor the words specified in the Second Column opposite thereto -\n\nSCHEDULE First Column Second Column Fire Brigade Fire Service Controller Director Deputy Controller Deputy Director Divisional Officer Superintendent Fire Brigade General Orders Fire Service General Orders Made this 2nd day of June 1988, at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "EMERGENCY FIRE BRIGADE ACT AMENDMENT ORDER 1988",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

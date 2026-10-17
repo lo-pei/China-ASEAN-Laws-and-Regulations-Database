@@ -1,7 +1,7 @@
 {
  "id": "SG-H2534",
  "title": {
-  "zh": null,
+  "zh": "所得税（Steppe Capital 私人有限公司——第 13（12）条豁免）命令 2022",
   "en": "Income Tax (Steppe Capital Pte Ltd — Section 13(12) Exemption) Order 2022",
   "orig": null
  },
@@ -192,5 +192,13 @@
     "en": "FIFTH SCHEDULE\nParagraph 7(5)\nUltimate entities\n1. KSS GETR LLP\n2. Diada Capital S.L\n3. Margotrade Investments s.r.o\n4. Infrastructure Developments Central Asia B.V.\n5. Grandstill LLC\n6. Nostrum Associated Investments LLP\n7. Aquila Gold B.V.\n8. Sumeru LLP\n9. Precious Oil Products Investments B.V.\n10. Sumeru Gold B.V.\n11. Gemini Mining Holdings B.V.\n12. Gemini Mining B.V.\n13. KazStroyService Management Services Pte Ltd\n14. Golden Steppe LLP\n15. KazStroy Investment and Advisory Pvt Ltd\n16. Steppe Capital Advisors LLP\n17. Geolix Trans LLP\n18. Standard Petroleum & Co LLP\n19. Forza Securidad S.L.\n20. Drillco Venture B.V."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (Steppe Capital Pte Ltd — Section 13(12) Exemption) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

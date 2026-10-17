@@ -1,7 +1,7 @@
 {
  "id": "SG-H1218",
  "title": {
-  "zh": null,
+  "zh": "教育捐赠与储蓄计划（2025 年教育储蓄缴款额）命令 2024",
   "en": "Education Endowment and Savings Schemes (Amount of Edusave Contribution For 2025) Order 2024",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) For 2025, the amount of contribution to be paid under section 9(1)(b) of the Act is —\n(a)$230 for a non‑schooling member who is at least 7 years of age but below 13 years of age;\n(b)$230 for a non‑schooling member who —\n(i)is at least 13 years of age but below 15 years of age;\n(ii)is receiving home-schooling in accordance with the terms and conditions in paragraph 3(2)(a) and (b)(i) and (ii) of the Compulsory Education (Exemption) Order (O 1) and any other terms and conditions that the Minister thinks fit under that Order; and\n(iii)did not perform, in 2024, at the Primary School Leaving Examination and the National Education Quiz, at any level of educational achievement that the Director‑General of Education determines;\n(c)$230 for a non‑schooling member who —\n(i)is at least 13 years of age but below 17 years of age;\n(ii)does not attain 17 years of age at any time in 2025; and\n(iii)is receiving primary education in a designated school; and\n(d)$290 for a non-schooling member not mentioned in sub‑paragraph (b) or (c), who —\n(i)is at least 13 years of age but below 17 years of age; and\n(ii)does not attain 17 years of age at any time in 2025.\n(2) In this paragraph —\n“designated school”, “home‑schooling”, “National Education Quiz” and “Primary School Leaving Examination” have the meanings given by paragraph 2 of the Compulsory Education (Exemption) Order;\n“non‑schooling member” means a member of the Edusave Pupils Fund who is not a full‑time student of a prescribed school at any time during 2025."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Education Endowment and Savings Schemes (Amount of Edusave Contribution For 2025) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

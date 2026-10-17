@@ -1,7 +1,7 @@
 {
  "id": "SG-H1715",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（传染病管理局——豁免）命令 2026",
   "en": "Healthcare Services (Communicable Diseases Agency — Exemption) Order 2026",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The Communicable Diseases Agency (called in this sub‑paragraph the licensee) is exempt from section 29(2A) of the Act in relation to the use of the following names for the provision of a clinical laboratory service:\n(a)the use of “Communicable Diseases Agency” as the licensee’s name;\n(b)the use of “National Public Health Laboratory” as the licensee’s business name,\nfor so long as the licensee continues to use those names.\n(2) In sub‑paragraph (1), “Communicable Diseases Agency” means the Communicable Diseases Agency established by section 3 of the Communicable Diseases Agency Act 2025."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Healthcare Services (Communicable Diseases Agency — Exemption) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

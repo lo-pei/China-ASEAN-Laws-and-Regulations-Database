@@ -1,7 +1,7 @@
 {
  "id": "PH-H8483",
  "title": {
-  "zh": null,
+  "zh": "通过修订经修正的 1997 年《国家国内税收法典》第 27（C）条并在该法典中增设第 289-A 条，给予地方水务区所得税豁免",
   "en": "An Act Granting Income Tax Exemption to Local Water Districts By Amending Section 27(C) of the National Internal Revenue Code (Nirc) of 1997, as Amended, and Adding Section 289-A to the Code, for the Purpose",
   "orig": "An Act Granting Income Tax Exemption to Local Water Districts By Amending Section 27(C) of the National Internal Revenue Code (Nirc) of 1997, as Amended, and Adding Section 289-A to the Code, for the Purpose"
  },
@@ -101,5 +101,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation, whichever date comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Income Tax Exemption to Local Water Districts By Amending Section 27(C) of the National Internal Revenue Code (Nirc) of 1997, as Amended, and Adding Section 289-A to the Code, for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

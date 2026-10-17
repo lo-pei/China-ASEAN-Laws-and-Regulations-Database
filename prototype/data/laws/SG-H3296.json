@@ -1,7 +1,7 @@
 {
  "id": "SG-H3296",
  "title": {
-  "zh": null,
+  "zh": "南洋理工大学学生会及属会（豁免）命令",
   "en": "Nanyang Technological University Students’ Union and Constituent Bodies (Exemption) Order",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nConstituent Bodies of the Union\n1. Cultural Activities Club.\n2. Sports Club.\n3. Students’ Accountancy and Business Club.\n4. Students’ Computer Engineering Club.\n5. Students’ Materials Science and Engineering Club.\n6. Students’ Civil and Environmental Engineering Club.\n7. Students’ Electrical and Electronic Engineering Club.\n8. Students’ Mechanical and Aerospace Engineering Club.\n9. Trainee Teachers’ Club.\n10. Students’ Biological Sciences Club.\n11. Students’ Chemical and Biomedical Engineering Club.\n12. Students’ Communication and Information Club.\n13. Students’ Humanities and Social Sciences Club.\n14. Welfare Services Club.\n15. Students’ Art, Design and Media Club.\n16. Students’ Physical and Mathematical Sciences Club.\n[G.N. No. S 201/2006]\n17. Students’ Medical Society.\n[S 303/2015 wef 25/05/2015]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Nanyang Technological University Students’ Union and Constituent Bodies (Exemption) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

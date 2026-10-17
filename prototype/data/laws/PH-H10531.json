@@ -1,7 +1,7 @@
 {
  "id": "PH-H10531",
  "title": {
-  "zh": null,
+  "zh": "将北达沃省 Tagum 市与金达沃省 Compostela 等市镇纳入 Davao Light and Power 公司特许区域，为此修订第 11515 号共和国法的法案",
   "en": "An Act Including Tagum City, the Island Garden City of Samal, and the Municipalities of Asuncion, Kapalong, New Corella, San Isidro, and Talaingod in the Province of Davao Del Norte, and the Municipalities of Compostela, Laak, Mabini, Maco, Maragusan, Mawab, Monkayo, Montevista, Nabunturan, New Bataan, and Pantukan in the Province of Davao De Oro to the Franchise Area of the Davao Light and Power Company, Inc., Amending for the Purpose Republic Act No. 11515, Entitled “An Act Extending for Another Twenty-five (25) Years the Franchise Granted to the Davao Light and Power Company Inc., Under Republic Act No. 8960, Entitled ‘An Act Further Extending the Term of the Franchise Granted to the Davao Light and Power Company Inc. to Construct, Operate and Maintain An Electric Light, Heat and Power System in Davao City and the Municipalities of Carmen, Panabo, Dujali, and Santo Tomas, Province of Davao Del Norte, for a Period of Twenty-five (25) Years and for Other Purposes”",
   "orig": "An Act Including Tagum City, the Island Garden City of Samal, and the Municipalities of Asuncion, Kapalong, New Corella, San Isidro, and Talaingod in the Province of Davao Del Norte, and the Municipalities of Compostela, Laak, Mabini, Maco, Maragusan, Mawab, Monkayo, Montevista, Nabunturan, New Bataan, and Pantukan in the Province of Davao De Oro to the Franchise Area of the Davao Light and Power Company, Inc., Amending for the Purpose Republic Act No. 11515, Entitled “An Act Extending for Another Twenty-five (25) Years the Franchise Granted to the Davao Light and Power Company Inc., Under Republic Act No. 8960, Entitled ‘An Act Further Extending the Term of the Franchise Granted to the Davao Light and Power Company Inc. to Construct, Operate and Maintain An Electric Light, Heat and Power System in Davao City and the Municipalities of Carmen, Panabo, Dujali, and Santo Tomas, Province of Davao Del Norte, for a Period of Twenty-five (25) Years and for Other Purposes”"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H10531-A1_2",
+   "id": "PH-H10531-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Nature and Scope of Franchise. - Subject to the provisions of the Constitution and applicable laws, rules and regulations, the franchise granted to Davao Light and Power Company, Inc., hereunder referred to as the Grantee, its successors, or assignees, under Republic Act No. 8960, to construct, install, establish, operate, and maintain for commercial purposes and in the public interest, an electric, light, heat, and power system for the conveyance, distribution, and sale of electric power to the end users in Davao City, Panbo City, Tagum City, and the Island Garden City of Samal, and the Municipalities of Carmen, Dujali, Santo Tomas, Asuncion, Kapalong, New Corella, San Isidro, and Talaingod in the Province of Davao del Norte, and the Municipalities of Compostela, Laak, Mabini, Maco, Maragusan, Mawab, Monkayo, Montevista, Nabunturan, New Bataan, and Pantukan in the Province of Davao de Oro is hereby extended for another twenty-five (25) years after the expiration date of the franchise under Republic Act No. 8960.\nAs used in this Act, 'distribution system' refers to the system of wires and associated facilities, including subtransmission lines belonging to or used by a franchised distribution utility, extending between the delivery point on the national transmission system or generating facility and the metering point or facility of the end user.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10531-A2",
@@ -71,14 +72,15 @@
    }
   },
   {
-   "id": "PH-H10531-A2_2",
+   "id": "PH-H10531-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Manner of Operation of Facilities. - All electric distribution facilities, lines, and systems for electric services owned, maintained, operated, or managed by the Grantee, its successors, or assignees, shall be operated and maintained at all times in a superior manner, and it shall be the duty of the Grantee, its successors, or assignees, whenever required to do so by the Energy Regulatory Commission (ERV) or its legal successor, or the Department of Energy (DOE) or its legal successor, or any other government agency concerned, to modify, improve, and change the facilities or systems in such a manner and to such extent as the progress in science and improvements in the electric power services may render reasonable and proper: Provided, That the Grantee shall comply with all relevant technical standards, rules, and regulations for the DOE and the ERC.\nWhenever applicable and for purposes of maintaining order, safety, and aesthetics along highways, roads, streets, alleys, or right of way, the Grantee may allow the use of free spaces in its poles, facilities or right of way by interested parties upon reasonable compensation to the Grantee, considering the cost incurred to accommodate and administer the use of the Grantee's facilities by such parties. The ERC shall decide in case of dispute or disagreement between parties.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10531-A3",
@@ -111,14 +113,15 @@
    }
   },
   {
-   "id": "PH-H10531-A5_2",
+   "id": "PH-H10531-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Section 5."
    },
    "text": {
     "en": "If any provision or part of this Act is declared invalid or unconstitutional, such declaration shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved, and the parts or provisions not affected thereby shall remain in full force and effect."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10531-A6",
@@ -140,5 +143,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Including Tagum City, the Island Garden City of Samal, and the Municipalities of Asuncion, Kapalong, New Corella, San Isidro, and Talaingod in the Province of Davao Del Norte, and the Municipalities of Compostela, Laak, Mabini, Maco, Maragusan, Mawab, Monkayo, Montevista, Nabunturan, New Bataan, and Pantukan in the Province of Davao De Oro to the Franchise Area of the Davao Light and Power Company, Inc., Amending for the Purpose Republic Act No. 11515, Entitled “An Act Extending for Another Twenty-five (25) Years the Franchise Granted to the Davao Light and Power Company Inc., Under Republic Act No. 8960, Entitled ‘An Act Further Extending the Term of the Franchise Granted to the Davao Light and Power Company Inc. to Construct, Operate and Maintain An Electric Light, Heat and Power System in Davao City and the Municipalities of Carmen, Panabo, Dujali, and Santo Tomas, Province of Davao Del Norte, for a Period of Twenty-five (25) Years and for Other Purposes”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

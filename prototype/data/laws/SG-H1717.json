@@ -1,7 +1,7 @@
 {
  "id": "SG-H1717",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（罪行构成）条例 2023",
   "en": "Healthcare Services (Composition of Offences) Regulations 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the Director‑General in accordance with section 47 of the Act:\n(a)any offence (including a continuing offence) under section 8(2), 9(2), 9A(3), 26(5) or (6), 27(5), 29(3), 30(4) or (5), 31(3), 31A(3), 31B(2), 31C(2), 33(10), 36(3) or (4), 39(9), 41(5), 42(1) or 43 of the Act;\n(b)any offence under section 9(1) of the Act as in force immediately before 26 June 2023;\n(c)any offence (including a continuing offence) under regulation 49(1) of the Healthcare Services (Acute Hospital Service) Regulations 2023 (G.N. No. S 424/2023);\n(d)any offence (including a continuing offence) under regulation 18(3), (4), (5), (6) or (7) of the Healthcare Services (Advertisement) Regulations 2021 (G.N. No. S 1033/2021);\n(e)any offence (including a continuing offence) under regulation 44(1) of the Healthcare Services (Ambulatory Surgical Centre Service) Regulations 2023 (G.N. No. S 411/2023);\n(f)any offence (including a continuing offence) under regulation 68(1) of the Healthcare Services (Assisted Reproduction Service) Regulations 2023 (G.N. No. S 429/2023);\n(g)any offence (including a continuing offence) under regulation 24(1) of the Healthcare Services (Blood Banking Service) Regulations 2021 (G.N. No. S 1038/2021);\n(h)any offence (including a continuing offence) under regulation 48(1) of the Healthcare Services (Clinical Laboratory Service and Radiological Service) Regulations 2021 (G.N. No. S 1036/2021);\n(i)any offence (including a continuing offence) under regulation 38(1) of the Healthcare Services (Community Hospital Service) Regulations 2023 (G.N. No. S 423/2023);\n(j)any offence (including a continuing offence) under regulation 30(1) of the Healthcare Services (Contingency Care Service) Regulations 2023 (G.N. No. S 427/2023);\n(k)any offence (including a continuing offence) under regulation 26(1) of the Healthcare Services (Cord Blood Banking Service) Regulations 2021 (G.N. No. S 1037/2021);\n(l)any offence (including a continuing offence) under regulation 22(1) of the Healthcare Services (Emergency Ambulance Service and Medical Transport Service) Regulations 2022 (G.N. No. S 2/2022);\n(m)any offence (including a continuing offence) under regulation 50(1) or (1A) of the Healthcare Services (General) Regulations 2021 (G.N. No. S 1035/2021);\n(n)any offence (including a continuing offence) under regulation 38(1) of the Healthcare Services (Human Tissue Banking Service) Regulations 2023 (G.N. No. S 413/2023);\n(o)any offence (including a continuing offence) under regulation 79(1) of the Healthcare Services (Nuclear Medicine Service) Regulations 2023 (G.N. No. S 412/2023);\n(oa)any offence (including a continuing offence) under regulation 44(1) of the Healthcare Services (Nursing Home Service) Regulations 2023 (G.N. No. S 849/2023);\n[S 72/2024 wef 02/02/2024]\n(p)any offence (including a continuing offence) under regulation 36(1) of the Healthcare Services (Outpatient Dental Service) Regulations 2023 (G.N. No. S 408/2023);\n(q)any offence (including a continuing offence) under regulation 38(1) of the Healthcare Services (Outpatient Medical Service) Regulations 2023 (G.N. No. S 410/2023);\n(r)any offence (including a continuing offence) under regulation 34(1) of the Healthcare Services (Outpatient Renal Dialysis Service) Regulations 2023 (G.N. No. S 409/2023);\n(s)any offence (including a continuing offence) under regulation 48(1) of the revoked Healthcare Services (Nuclear Medicine Assay Service and Nuclear Medicine Imaging Service) Regulations 2021 (G.N. No. S 1039/2021) as in force immediately before 26 June 2023."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Healthcare Services (Composition of Offences) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

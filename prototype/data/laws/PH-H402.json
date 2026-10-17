@@ -1,7 +1,7 @@
 {
  "id": "PH-H402",
  "title": {
-  "zh": null,
+  "zh": "修订第156号联邦法第3条（经修正），明确规定哪些马匹可参加菲律宾防痨协会举办的Grand Derby赛马的法案",
   "en": "An Act to Amend Section Three of Commonwealth Act Numbered One Hundred and Fifty-Six, as Amended, to Specify What Horses May Participate in the Grand Derby Races Held by the Philippine Anti-Tuberculosis Society",
   "orig": "An Act to Amend Section Three of Commonwealth Act Numbered One Hundred and Fifty-Six, as Amended, to Specify What Horses May Participate in the Grand Derby Races Held by the Philippine Anti-Tuberculosis Society"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Three of Commonwealth Act Numbered One Hundred and Fifty-Six, as Amended, to Specify What Horses May Participate in the Grand Derby Races Held by the Philippine Anti-Tuberculosis Society",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

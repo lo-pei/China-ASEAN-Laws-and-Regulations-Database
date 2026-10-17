@@ -1,7 +1,7 @@
 {
  "id": "PH-H9493",
  "title": {
-  "zh": null,
+  "zh": "巴科奥尔—达斯马里尼亚斯国道",
   "en": "Bacoor-Dasmariñas National Road",
   "orig": "An Act Renaming the Molino-Salawag-Paliparan Road, Traversing Barangay Talaba 4 in the City of Bacoor, and Barangay Paliparan I in the City of Dasmarinas, All in the Province of Cavite, as \"Bacoor-Dasmariñas National Road\""
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Bacoor-Dasmariñas National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H050",
  "title": {
-  "zh": null,
+  "zh": "会计与企业管制局（职能转授）公告 2008",
   "en": "Accounting and Corporate Regulatory Authority (Assignment of Function) Notification 2008",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister for Finance assigns to the Accounting and Corporate Regulatory Authority the function of administering the unique entity number system and repository of information."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Accounting and Corporate Regulatory Authority (Assignment of Function) Notification 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

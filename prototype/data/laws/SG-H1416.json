@@ -1,7 +1,7 @@
 {
  "id": "SG-H1416",
  "title": {
-  "zh": null,
+  "zh": "遗产税（Raju，已故）（减免）命令 1997",
   "en": "Estate Duty (Visvanathapuram Mariadoss Jagadisa Raju, Deceased) (Remission) Order 1997",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The estate duty of $39,276.01 payable under the Act on the balance of the Collector’s Award in respect of the property at No. 8 Race Course Road, Singapore, passing on the death of Visvanathapuram Mariadoss Jagadisa Raju on 12th September 1996 is hereby remitted."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Estate Duty (Visvanathapuram Mariadoss Jagadisa Raju, Deceased) (Remission) Order 1997",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5135",
  "title": {
-  "zh": null,
+  "zh": "国防部-武装部队基本薪金法 1987",
   "en": "DND-AFP Base Pay Law of 1987.",
   "orig": "DND-AFP Base Pay Law of 1987. An Act to Establish New Rates of Base Pay of Military and Civilian Personnel of the Department of National Defense and Armed Forces of the Philippines, appropriating funds therefore"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity. — Any law executive order, or presidential decree to the contrary notwithstanding, this Act except as provided in Section 4 hereof shall take effect on December 1, 1987, after publication thereof in at least two newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "DND-AFP Base Pay Law of 1987.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

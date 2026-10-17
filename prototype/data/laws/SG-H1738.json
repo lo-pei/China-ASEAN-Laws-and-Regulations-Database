@@ -1,7 +1,7 @@
 {
  "id": "SG-H1738",
  "title": {
-  "zh": null,
+  "zh": "公路（修订）法典 2018",
   "en": "Highway (Revision) Code 2018",
   "orig": null
  },
@@ -207,5 +207,13 @@
     "en": "13. Paragraph 50 (including heading) of the principal Code is deleted and the following heading and paragraph substituted therefor:\n“Keep left\n50. When driving along, do not hog the middle of the road. Keep well to the left and as near as practicable to the edge of the road (including on dual carriageways) unless ––\n(a)you intend to overtake;\n(b)you intend to turn right; or\n(c)there is a bicycle lane, in which case, you should keep to the left-most vehicle lane.”."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Highway (Revision) Code 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

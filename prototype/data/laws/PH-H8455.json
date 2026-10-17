@@ -1,7 +1,7 @@
 {
  "id": "PH-H8455",
  "title": {
-  "zh": null,
+  "zh": "将南苏里高理工国立学院改设为国立大学，名称为南苏里高国立大学，并为此拨款的法案",
   "en": "An Act Converting the Surigao Del Sur Polytechnic State College (SSPSC) in the Province of Surigao Del Sur Into a State University to Be Known as The Surigao Del Sur State University and Appropriating Funds Therefor",
   "orig": "An Act Converting the Surigao Del Sur Polytechnic State College (SSPSC) in the Province of Surigao Del Sur Into a State University to Be Known as The Surigao Del Sur State University and Appropriating Funds Therefor"
  },
@@ -330,5 +330,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Surigao Del Sur Polytechnic State College (SSPSC) in the Province of Surigao Del Sur Into a State University to Be Known as The Surigao Del Sur State University and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

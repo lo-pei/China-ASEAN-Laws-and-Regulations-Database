@@ -1,7 +1,7 @@
 {
  "id": "PH-H4613",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第3247号共和国法（经第3570号共和国法修正）的若干条款（关于Cagayan Electric Power and Light Co., Inc.特许经营权）的法案",
   "en": "An Act Further Amending Certain Sections of Republic Act Numbered Thirty-Two Hundred Forty-Seven, as Amended By Republic Act Numbered Thirty-Five Hundred Seventy (Re Cagayan Electric Power and Light Co., Inc. Franchise).",
   "orig": "An Act Further Amending Certain Sections of Republic Act Numbered Thirty-Two Hundred Forty-Seven, as Amended By Republic Act Numbered Thirty-Five Hundred Seventy (Re Cagayan Electric Power and Light Co., Inc. Franchise)."
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amending Certain Sections of Republic Act Numbered Thirty-Two Hundred Forty-Seven, as Amended By Republic Act Numbered Thirty-Five Hundred Seventy (Re Cagayan Electric Power and Light Co., Inc. Franchise).",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

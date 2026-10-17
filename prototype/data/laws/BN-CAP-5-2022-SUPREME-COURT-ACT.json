@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-5-2022-SUPREME-COURT-ACT",
  "title": {
-  "zh": null,
+  "zh": "最高法院法",
   "en": "SUPREME COURT ACT",
   "orig": null
  },
@@ -440,5 +440,13 @@
     "en": "(1) For the avoidance of doubt, it is hereby declared that His Majesty the Sultan and Yang Di-Pertuan shall not be compellable to attend any proceedings in or be summoned before the Supreme Court.\n\n(2) His Majesty the Sultan and Yang Di-Pertuan may, in writing, exempt any person who is required to attend any proceedings in or summoned before the Supreme Court, from having to comply with such requirement or summons; and such exemption shall not be called in question in or be subject to any judicial review by or appeal to any court."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUPREME COURT ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

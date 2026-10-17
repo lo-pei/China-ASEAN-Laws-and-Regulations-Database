@@ -1,7 +1,7 @@
 {
  "id": "PH-H3132",
  "title": {
-  "zh": null,
+  "zh": "进一步修订碧瑶市宪章若干条款，规定该市官员新薪级表的法案",
   "en": "An Act to Further Amend Certain Sections of the Charter of the City of Baguio so as to Provide a New Schedule of Salaries of its Officials",
   "orig": "An Act to Further Amend Certain Sections of the Charter of the City of Baguio so as to Provide a New Schedule of Salaries of its Officials"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Certain Sections of the Charter of the City of Baguio so as to Provide a New Schedule of Salaries of its Officials",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

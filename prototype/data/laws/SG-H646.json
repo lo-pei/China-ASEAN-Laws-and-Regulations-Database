@@ -1,7 +1,7 @@
 {
  "id": "SG-H646",
  "title": {
-  "zh": null,
+  "zh": "民防掩体法 1997",
   "en": "Civil Defence Shelter Act 1997",
   "orig": null
  },
@@ -496,5 +496,13 @@
     "en": "THE SCHEDULE\nSection 2(3)\nPublic shelters deemed to be provided under this Act\nThe public shelters located at the concourse and platform levels of the following MRT stations:\n1. Braddell MRT Station\n2. Bugis MRT Station\n3. City Hall MRT Station\n4. Lavender MRT Station\n5. Marina Bay MRT Station\n6. Newton MRT Station\n7. Raffles Place MRT Station\n8. Somerset MRT Station\n9. Tiong Bahru MRT Station"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Civil Defence Shelter Act 1997",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

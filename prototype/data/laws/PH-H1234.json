@@ -1,7 +1,7 @@
 {
  "id": "PH-H1234",
  "title": {
-  "zh": null,
+  "zh": "界定土地保有权政策、规定执行该政策的机构并为其执行拨款的法案",
   "en": "An Act Defining a Land Tenure Policy, Providing for an Instrumentality to Carry Out the Policy, and Appropriating Funds for its Implementation",
   "orig": "An Act Defining a Land Tenure Policy, Providing for an Instrumentality to Carry Out the Policy, and Appropriating Funds for its Implementation"
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H1234-A2_2",
+   "id": "PH-H1234-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Creation and composition. For the purpose of carrying out the policy enunciated in this Act, there is hereby created a Land Tenure Administration, hereinafter called the Administration, which shall be directly under the control and supervision of and responsible to the President of the Philippines. The Administration shall consist of a Chairman and two members who shall be appointed by the President with the consent of the Commission on Appointments and shall hold office for a period of five years. They may be removed for cause or for incapacity to discharge the duties of their office."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H1234-A4",
@@ -340,5 +341,13 @@
     "en": "Effectivity. This Act shall take effect upon its approval.\nApproved: September 9, 1955"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Defining a Land Tenure Policy, Providing for an Instrumentality to Carry Out the Policy, and Appropriating Funds for its Implementation",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

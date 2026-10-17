@@ -1,7 +1,7 @@
 {
  "id": "SG-H1893",
  "title": {
-  "zh": null,
+  "zh": "移民（规定执法机构）条例 2024",
   "en": "Immigration (Prescribed Law Enforcement Agencies) Regulations 2024",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nPart 1\nSpecified authorities\n1.Central Narcotics Bureau\n2.Civil Aviation Authority of Singapore\n3.Corrupt Practices Investigation Bureau\n4.Gambling Regulatory Authority of Singapore\n5.Health Sciences Authority\n6.Info‑communications Media Development Authority\n7.Inland Revenue Authority of Singapore\n8.Land Transport Authority of Singapore\n9.Maritime and Port Authority of Singapore\n10.National Environment Agency\n11.National Parks Board\n12.Postal Authority appointed under section 3(1) of the Postal Services Act 1999\n13.Singapore Civil Defence Force\n14.Singapore Customs\n15.Singapore Food Agency\n16.Singapore Prison Service\n17.Singapore Tourism Board\nPart 2\nSpecified persons\n1.Chief Executive of the Civil Aviation Authority of Singapore\n2.Chief Executive of the Gambling Regulatory Authority of Singapore\n3.Chief Executive of the Health Sciences Authority\n4.Chief Executive of the Info‑communications Media Development Authority\n5.Chief Executive of the Land Transport Authority of Singapore\n6.Chief Executive of the Maritime and Port Authority of Singapore\n7.Chief Executive of the National Environment Agency\n8.Chief Executive of the National Parks Board\n9.Chief Executive of the Singapore Food Agency\n10.Chief Executive of the Singapore Tourism Board\n11.Commissioner of Parks and Recreation appointed under section 4(1) of the Parks and Trees Act 2005\n12.Comptroller of Income Tax, Deputy Comptroller and Assistant Comptroller, appointed under section 3(1) of the Income Tax Act 1947\n13.Director of Marine and Deputy Director of Marine, appointed under section 4(1) of the Merchant Shipping Act 1995\n14.Director‑General, Animal Health and Welfare appointed under section 3(1) of the Animals and Birds Act 1965\n15.Director‑General, Food Administration appointed under section 3(1) of the Sale of Food Act 1973\n16.Director‑General, Wildlife Management appointed under section 4(1) of the Wildlife Act 1965\n17.Director‑General, Wildlife Trade Control appointed under section 3(1) of the Endangered Species (Import and Export) Act 2006\n18.Director‑General of Environmental Protection appointed under section 3(1) of the Environmental Protection and Management Act 1999\n19.Director‑General of Public Health appointed under section 3(1) of the Environmental Public Health Act 1987\n20.Port Master and Deputy Port Master, appointed under section 15 of the Maritime and Port Authority of Singapore Act 1996\n21.Registrar of Vehicles, Deputy Registrar and assistant registrar, appointed under section 9 of the Road Traffic Act 1961"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Immigration (Prescribed Law Enforcement Agencies) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

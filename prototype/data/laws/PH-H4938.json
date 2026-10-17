@@ -1,7 +1,7 @@
 {
  "id": "PH-H4938",
  "title": {
-  "zh": null,
+  "zh": "外币存款制度",
   "en": "Foreign Currency Deposit System",
   "orig": "Foreign Currency Deposit System An Act Instituting a Foreign Currency Deposit System in the Philippines, and for Other Purposes."
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity. – This Act shall take effect upon its approval.\nApproved, April 4, 1974"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Foreign Currency Deposit System",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

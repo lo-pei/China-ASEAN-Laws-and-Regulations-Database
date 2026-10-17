@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-77-R-2-2022-RELIGIOUS-COUNCIL-AND-KADIS-COURTS-AS-0CD93C",
  "title": {
-  "zh": null,
+  "zh": "R 2 2022 版宗教理事会与卡迪法院（宗教规则认定）规则",
   "en": "R 2 2022 ED RELIGIOUS COUNCIL AND KADIS COURTS ASCERTAINMENT OF RELIGIOUS RULES",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "Persons may be required to supply Secretary to Majlis with information in relation to religion ________________________________ Rules made under section 203 Commencement: 1st March 1957"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 2 2022 ED RELIGIOUS COUNCIL AND KADIS COURTS ASCERTAINMENT OF RELIGIOUS RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

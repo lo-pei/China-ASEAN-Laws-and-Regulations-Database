@@ -1,7 +1,7 @@
 {
  "id": "PH-H10679",
  "title": {
-  "zh": null,
+  "zh": "将基里诺省 Cabarroguis 市镇基里诺省医疗中心提升为三级综合医院并为其拨款的法案",
   "en": "An Act Upgrading the Quirino Province Medical Center in the Municipality of Cabarroguis, Province of Quirino, Into a Level Iii General Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Upgrading the Quirino Province Medical Center in the Municipality of Cabarroguis, Province of Quirino, Into a Level Iii General Hospital, and Appropriating Funds Therefor"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading the Quirino Province Medical Center in the Municipality of Cabarroguis, Province of Quirino, Into a Level Iii General Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

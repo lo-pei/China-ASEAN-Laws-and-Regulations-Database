@@ -1,7 +1,7 @@
 {
  "id": "PH-H3151",
  "title": {
-  "zh": null,
+  "zh": "规定在 1964 日历年当地供应短缺时进口大米的法案",
   "en": "An Act Providing for the Importation of Rice During the Calendar Year Nineteen Hundred Sixty-Four in the Event of Shortage in Local Supply",
   "orig": "An Act Providing for the Importation of Rice During the Calendar Year Nineteen Hundred Sixty-Four in the Event of Shortage in Local Supply"
  },
@@ -111,5 +111,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 13, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Importation of Rice During the Calendar Year Nineteen Hundred Sixty-Four in the Event of Shortage in Local Supply",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

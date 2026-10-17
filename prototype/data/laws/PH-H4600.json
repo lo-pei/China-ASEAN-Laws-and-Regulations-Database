@@ -1,7 +1,7 @@
 {
  "id": "PH-H4600",
  "title": {
-  "zh": null,
+  "zh": "授予 Combined Broadcasting, Inc. 在 Lipa 市与八打雁省建设、运营和维护无线电广播站的特许经营权法案",
   "en": "An Act Granting Combined Broadcasting, Inc., a Franchise to Construct, Operate and Maintain a Radio Broadcasting Station in the City of Lipa and the Province of Batangas.",
   "orig": "An Act Granting Combined Broadcasting, Inc., a Franchise to Construct, Operate and Maintain a Radio Broadcasting Station in the City of Lipa and the Province of Batangas."
  },
@@ -190,5 +190,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Combined Broadcasting, Inc., a Franchise to Construct, Operate and Maintain a Radio Broadcasting Station in the City of Lipa and the Province of Batangas.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

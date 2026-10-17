@@ -1,7 +1,7 @@
 {
  "id": "PH-H466",
  "title": {
-  "zh": null,
+  "zh": "通过修订《修订刑法典》第295条加重若干抢劫案件刑罚的法案",
   "en": "An Act Increasing the Penalty in Certain Cases of Robbery, By Amending Article Two Hundred Ninety-Five of the Revised Penal Code",
   "orig": "An Act Increasing the Penalty in Certain Cases of Robbery, By Amending Article Two Hundred Ninety-Five of the Revised Penal Code"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval Approved, June 14, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Penalty in Certain Cases of Robbery, By Amending Article Two Hundred Ninety-Five of the Revised Penal Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

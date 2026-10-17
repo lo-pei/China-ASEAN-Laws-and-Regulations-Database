@@ -1,7 +1,7 @@
 {
  "id": "SG-H2273",
  "title": {
-  "zh": null,
+  "zh": "所得税（丰隆投资控股私人有限公司——第 13(12) 条豁免）命令 2024",
   "en": "Income Tax (Hong Leong Investment Holdings Pte. Ltd. — Section 13(12) Exemption) Order 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividend income received in Singapore by Hong Leong Investment Holdings Pte. Ltd. (a company incorporated in Singapore) in the basis periods for the years of assessment 2018 to 2021 (both years inclusive) from Hong Leong Company (Malaysia) Berhad (a company incorporated in Malaysia), which is in turn derived from the profits of any of the following companies, is exempt from tax:\n(a)Hong Leong Bank Berhad (a company incorporated in Malaysia);\n(b)Hong Leong Yamaha Motor Sdn Bhd (a company incorporated in Malaysia);\n(c)Yamaha Motor Vietnam Co., Ltd. (a company incorporated in Vietnam).\n(2) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter from the Ministry of Finance dated 7 June 2024 and addressed to KPMG Services Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Hong Leong Investment Holdings Pte. Ltd. — Section 13(12) Exemption) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-1-1988-EMERGENCY-RELIGIOUS-COUNCIL-AND-KADIS-COURTS-6EAA35",
  "title": {
-  "zh": null,
+  "zh": "紧急宗教理事会与卡迪法院法修正命令 1987",
   "en": "MERGENCY RELIGIOUS COUNCIL AND KADIS COURTS ACT AMENDMENT ORDER 1987",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "The Religious Council and Kadis' Courts Act (Cap. 77) is amended Repeal of in Section 48(1) by deleting the colon at the end of paragraph (a) and Proviso to substituting therefor a semi-colon and adding the word \"and\", and Section 48(ll(aJ. deleting the Proviso and the further Proviso to the said paragraph (a). Made this 7th day of December, 1987 at Our Istana Nurul lman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MERGENCY RELIGIOUS COUNCIL AND KADIS COURTS ACT AMENDMENT ORDER 1987",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

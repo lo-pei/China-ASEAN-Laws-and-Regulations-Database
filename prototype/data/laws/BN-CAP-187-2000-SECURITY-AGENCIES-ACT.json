@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-187-2000-SECURITY-AGENCIES-ACT",
  "title": {
-  "zh": null,
+  "zh": "保安机构法",
   "en": "SECURITY AGENCIES ACT",
   "orig": null
  },
@@ -298,5 +298,13 @@
     "en": "(1) The provisions of this Act shall be in addition to and not in derogation of the provisions of any other written law.\n\n(2) Nothing in this Act —\n\n(a) shall be construed as conferring on a licensee or his employees any of the powers which by any written law are conferred upon and exercisable by a police officer, customs officer, immigration officer, prison officer or any other public officer; and\n\n(b) shall authorise a licensee or his employees to do an act which is unlawful or illegal by virtue of any written law."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SECURITY AGENCIES ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

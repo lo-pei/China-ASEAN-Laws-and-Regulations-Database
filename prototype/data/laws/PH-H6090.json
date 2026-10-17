@@ -1,7 +1,7 @@
 {
  "id": "PH-H6090",
  "title": {
-  "zh": null,
+  "zh": "将位于索索贡省索索贡市镇马加利亚内斯的马加利亚内斯南中央学校更名为Eduardo Lee Chan纪念学校的法案",
   "en": "An Act Renaming the Magallanes South Central School Located in Magallanes, Sorsogon, Province of Sorsogon, To Eduardo Lee Chan Memorial School",
   "orig": "An Act Renaming the Magallanes South Central School Located in Magallanes, Sorsogon, Province of Sorsogon, To Eduardo Lee Chan Memorial School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Magallanes South Central School Located in Magallanes, Sorsogon, Province of Sorsogon, To Eduardo Lee Chan Memorial School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

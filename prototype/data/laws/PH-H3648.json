@@ -1,7 +1,7 @@
 {
  "id": "PH-H3648",
  "title": {
-  "zh": null,
+  "zh": "要求在所有地方或全国特别公共假日期间支付政府劳工与雇员正常日薪的法案",
   "en": "An Act Requiring the Payment of the Regular Daily Wages of Government Laborers and Employees During All Special Public Holidays, Whether Local or National",
   "orig": "An Act Requiring the Payment of the Regular Daily Wages of Government Laborers and Employees During All Special Public Holidays, Whether Local or National"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring the Payment of the Regular Daily Wages of Government Laborers and Employees During All Special Public Holidays, Whether Local or National",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

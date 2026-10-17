@@ -1,7 +1,7 @@
 {
  "id": "PH-H4009",
  "title": {
-  "zh": null,
+  "zh": "规定菲律宾武装部队正规部队军官与预备役部队军官之间的资历次序与优先顺序，并为此修订第1号联邦法（经修正）第22条第（e）款",
   "en": "An Act to Establish Relative Standing and Precedence in Seniority Between Officers in the Regular Force and Officers in the Reserve Force of the Armed Forces of the Philippines, and for that Purpose to Amend Section 22, Paragraph (e) of Commonwealth Act Numbered One, as Amended",
   "orig": "An Act to Establish Relative Standing and Precedence in Seniority Between Officers in the Regular Force and Officers in the Reserve Force of the Armed Forces of the Philippines, and for that Purpose to Amend Section 22, Paragraph (e) of Commonwealth Act Numbered One, as Amended"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish Relative Standing and Precedence in Seniority Between Officers in the Regular Force and Officers in the Reserve Force of the Armed Forces of the Philippines, and for that Purpose to Amend Section 22, Paragraph (e) of Commonwealth Act Numbered One, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3113",
  "title": {
-  "zh": null,
+  "zh": "通过设立负责管理与执行相关法律的食品药品管理局，确保向公众提供的食品、药品与化妆品的安全与纯净的法案",
   "en": "An Act to Ensure the Safety and Purity of Foods, Drugs, and Cosmetics Being Made Available to the Public by Creating the Food and Drug Administration Which Shall Administer and Enforce the Laws Pertaining Thereto",
   "orig": "An Act to Ensure the Safety and Purity of Foods, Drugs, and Cosmetics Being Made Available to the Public by Creating the Food and Drug Administration Which Shall Administer and Enforce the Laws Pertaining Thereto"
  },
@@ -479,5 +479,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Ensure the Safety and Purity of Foods, Drugs, and Cosmetics Being Made Available to the Public by Creating the Food and Drug Administration Which Shall Administer and Enforce the Laws Pertaining Thereto",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

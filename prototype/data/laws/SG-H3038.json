@@ -1,7 +1,7 @@
 {
  "id": "SG-H3038",
  "title": {
-  "zh": null,
+  "zh": "酒类管制（供应与消费）（酒类发牌）条例 2015",
   "en": "Liquor Control (Supply and Consumption) (Liquor Licensing) Regulations 2015",
   "orig": null
  },
@@ -302,5 +302,13 @@
     "en": "THE SCHEDULE\nRegulation 14(1)\nFEES\nFirst column\nSecond column\nDescription\nFee\n1.For an application for the grant or renewal of liquor licences of any of the following classes:\n(a)Class 1A\n$880 for one year or a pro-rata amount for a shorter duration\n(b)Class 1B\n$660 for one year or a pro-rata amount for a shorter duration\n(c)Class 2A\n$460 for one year or a pro-rata amount for a shorter duration\n(d)Class 2B\n$285 for one year or a pro-rata amount for a shorter duration\n(e)Class 3A\n$110 for one year or a pro-rata amount for a shorter duration\n(f)Class 3B\n$110 for one year or a pro-rata amount for a shorter duration\n(g)Class 4\n$110 for one year or a pro-rata amount for a shorter duration\n2.For an application for the grant of a Class 5 liquor licence\nThe lesser of the following amounts:\n(i)$22 for each day; or\n(ii)$44 for each period of 7 consecutive days or a part of such period\n3.For an application to extend the trading hours of a liquor licence:\n(a)for extended trading hours lasting 3 or more months\n$4 for each hour or a part of an hour by which the trading hours are extended\n(b)for extended trading hours lasting less than 3 months\n$22 for each hour or a part of an hour by which the trading hours are extended\n4.For an amendment of a liquor licence\n$22\n5.For a replacement liquor licence\n$11."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Liquor Control (Supply and Consumption) (Liquor Licensing) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

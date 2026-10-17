@@ -1,7 +1,7 @@
 {
  "id": "PH-H8896",
  "title": {
-  "zh": null,
+  "zh": "将卡林加省 Tanudan 市镇 Taloctoc 描笼涯的 Tanudan 职业中学附属校分离，改设为独立的 Taloctoc General 综合国立中学，并为此拨付所需经费",
   "en": "An Act Separating the Tanudan Vocational School - Taloctoc Annex in Barangay Taloctoc, Municipality of Tanudan, Province of Kalinga From the Tanudan Vocational School, Converting It into an Independent National High School to be Known as Taloctoc General Comprehensive National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Tanudan Vocational School - Taloctoc Annex in Barangay Taloctoc, Municipality of Tanudan, Province of Kalinga From the Tanudan Vocational School, Converting It into an Independent National High School to be Known as Taloctoc General Comprehensive National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Tanudan Vocational School - Taloctoc Annex in Barangay Taloctoc, Municipality of Tanudan, Province of Kalinga From the Tanudan Vocational School, Converting It into an Independent National High School to be Known as Taloctoc General Comprehensive National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

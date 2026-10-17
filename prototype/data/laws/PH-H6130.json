@@ -1,7 +1,7 @@
 {
  "id": "PH-H6130",
  "title": {
-  "zh": null,
+  "zh": "要求政府或其任何政治分区、机关或机构（包括政府拥有或控制的公司）在采购货物时按毛付款额百分之三（3%）、在承包商提供服务时按毛收入百分之六（6%）扣缴增值税的法案",
   "en": "An Act Requiring the Government or Any of Its Political Subdivisions, Instrumentalities or Agencies Including Government-Owned or Controlled Corporations (Goccs) to Deduct and Withhold the Value-Added Tax Due At the Rate of Three Percent (3%) on Gross Payment for the Purchase of Goods and Six Percent (6%) on Gross Receipts for Services Rendered By Contractors",
   "orig": "An Act Requiring the Government or Any of Its Political Subdivisions, Instrumentalities or Agencies Including Government-Owned or Controlled Corporations (Goccs) to Deduct and Withhold the Value-Added Tax Due At the Rate of Three Percent (3%) on Gross Payment for the Purchase of Goods and Six Percent (6%) on Gross Receipts for Services Rendered By Contractors"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier.\nApproved, April 6, 1993."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring the Government or Any of Its Political Subdivisions, Instrumentalities or Agencies Including Government-Owned or Controlled Corporations (Goccs) to Deduct and Withhold the Value-Added Tax Due At the Rate of Three Percent (3%) on Gross Payment for the Purchase of Goods and Six Percent (6%) on Gross Receipts for Services Rendered By Contractors",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-140-RG-3-2016-NURSES-REGISTRATION-COMMITTEES-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG 3 2016 版护士注册委员会条例",
   "en": "RG 3 2016 ED NURSES REGISTRATION COMMITTEES REGULATIONS",
   "orig": null
  },
@@ -105,5 +105,13 @@
     "en": "The number and term of office of the members of any committee and the number of those members necessary to form a quorum shall be determined by the Board."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 3 2016 ED NURSES REGISTRATION COMMITTEES REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1673",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（体育或娱乐用途——类别牌照）命令 2025",
   "en": "Guns, Explosives and Weapons Control (Sporting or Recreational Use — Class Licence) Order 2025",
   "orig": null
  },
@@ -438,5 +438,13 @@
     "en": "25.—(1) Parts 2, 3 and 6 of this Order do not extend to any regulated activity involving a Type 2 weapon which is authorised by a class licence established under the Guns, Explosives and Weapons Control (Manufacture, Trading, Supply, Carriage and Disposal of Type 2 Weapons — Class Licence) Order 2025.\n(2) Part 5 does not apply to the use of any airgun, airgun part or airgun accessory in an approved shooting range situated within a school, the operator of which is —\n(a)a class licensee by virtue of paragraph 19(1) of the Guns, Explosives and Weapons Control (School Use — Class Licence) Order 2025 (G.N. No. S 364/2025); or\n(b)a holder of a current range operator licence with respect to a shooting range that is situated within the school, is under the direct charge and control of the operator and is the subject of a current venue approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Guns, Explosives and Weapons Control (Sporting or Recreational Use — Class Licence) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

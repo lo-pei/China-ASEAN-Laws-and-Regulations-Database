@@ -1,7 +1,7 @@
 {
  "id": "PH-H3694",
  "title": {
-  "zh": null,
+  "zh": "授予 Philippine Bank of Commerce 设立、维护和运营私人固定点对点、海岸、陆基与陆上移动无线电台的特许经营权法案",
   "en": "An Act Granting the Philippine Bank of Commerce, a Franchise to Establish, Maintain and Operate Private Fixed Point-to-Point, Private Coastal, Land-Based and Land-Mobile Radio Stations for the Transmission and Reception of Wireless Messages to and from Said Stations",
   "orig": "An Act Granting the Philippine Bank of Commerce, a Franchise to Establish, Maintain and Operate Private Fixed Point-to-Point, Private Coastal, Land-Based and Land-Mobile Radio Stations for the Transmission and Reception of Wireless Messages to and from Said Stations"
  },
@@ -162,5 +162,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Philippine Bank of Commerce, a Franchise to Establish, Maintain and Operate Private Fixed Point-to-Point, Private Coastal, Land-Based and Land-Mobile Radio Stations for the Transmission and Reception of Wireless Messages to and from Said Stations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

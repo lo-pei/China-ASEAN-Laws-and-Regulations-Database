@@ -1,7 +1,7 @@
 {
  "id": "PH-H602",
  "title": {
-  "zh": null,
+  "zh": "规范、管制及/或禁止菲律宾特定出口，授权菲律宾总统发布实施细则执行本法规定，规定违反本法及依其发布规则的处罚，并为其他目的法案",
   "en": "An Act to Regulate, Control And/Or Prohibit Certain Exports From the Philippines, to Authorize the President of the Philippines to Issue Rules and Regulations to Carry Into Effect the Provisions of This Act, to Provide Penalties for the Violation Thereof and of the Regulations Issued Thereunder, and for Other Purposes",
   "orig": "An Act to Regulate, Control And/Or Prohibit Certain Exports From the Philippines, to Authorize the President of the Philippines to Issue Rules and Regulations to Carry Into Effect the Provisions of This Act, to Provide Penalties for the Violation Thereof and of the Regulations Issued Thereunder, and for Other Purposes"
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, May 11, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Regulate, Control And/Or Prohibit Certain Exports From the Philippines, to Authorize the President of the Philippines to Issue Rules and Regulations to Carry Into Effect the Provisions of This Act, to Provide Penalties for the Violation Thereof and of the Regulations Issued Thereunder, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

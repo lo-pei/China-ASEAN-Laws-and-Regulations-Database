@@ -1,7 +1,7 @@
 {
  "id": "SG-H2681",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 18 号）命令 2024",
   "en": "Infrastructure Protection (Protected Places) (No. 18) Order 2024",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nDean,\nDuke‑NUS Medical School\nDUKE‑NUS MEDICAL SCHOOL — ABSL3 FACILITY\nAll that area comprised in part of Land Lots 4603A and 5482L (Part) in Mukim No. 7 occupied by “DUKE‑NUS MEDICAL SCHOOL — ABSL3 FACILITY” containing an area of about 1000.9 square metres and bounded approximately as follows:\nCommencing at the north‑easternmost corner of the “DUKE‑NUS MEDICAL SCHOOL — ABSL3 FACILITY” at a point 28813.112 metres North and 4013.573 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n28813.112\n4013.573\n28802.969\n4040.947\n28774.398\n4030.365\n28771.060\n4028.723\n28781.073\n4001.701\n28789.404\n4004.788\n28789.780\n4003.776\n28793.343\n4005.096\n28792.968\n4006.109\nto the point of commencement.\nThe boundaries of “DUKE‑NUS MEDICAL SCHOOL — ABSL3 FACILITY” are more particularly delineated in the Survey Plan No. J22-037A/L/24071 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 18) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

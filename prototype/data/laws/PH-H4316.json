@@ -1,7 +1,7 @@
 {
  "id": "PH-H4316",
  "title": {
-  "zh": null,
+  "zh": "设立基金，用于向依第二百六十五号共和国法第二十九条被中央银行禁止营业的银行的存款人付款，每位存款人不超过一万比索（P10,000.00）",
   "en": "An Act Creating a Fund From Which Shall Be Disbursed Amounts Necessary to Pay Depositors, in Amounts Not Exceeding Ten Thousand (P10,000.00) Per Individual Depositor, of Banks Which Are Forbidden to Do Business By the Central Bank Pursuant to Section Twenty-Nine of Republic Act Numbered Two Hundred Sixty-Five.",
   "orig": "An Act Creating a Fund From Which Shall Be Disbursed Amounts Necessary to Pay Depositors, in Amounts Not Exceeding Ten Thousand (P10,000.00) Per Individual Depositor, of Banks Which Are Forbidden to Do Business By the Central Bank Pursuant to Section Twenty-Nine of Republic Act Numbered Two Hundred Sixty-Five."
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1969"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating a Fund From Which Shall Be Disbursed Amounts Necessary to Pay Depositors, in Amounts Not Exceeding Ten Thousand (P10,000.00) Per Individual Depositor, of Banks Which Are Forbidden to Do Business By the Central Bank Pursuant to Section Twenty-Nine of Republic Act Numbered Two Hundred Sixty-Five.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H8312",
  "title": {
-  "zh": null,
+  "zh": "通过整合北棉兰老科学技术国立学院与北棉兰老艺术、科学与技术学院，在卡拉加大区设立卡拉加国立大学并拨款的法案",
   "en": "An Act Establishing the Caraga State University in the Caraga Region By Integrating the Northern Mindanao State Institute of Science and Technology (NORMISIST) in Ampayon, Butuan City and the Northern Mindanao College of Arts, Science and Technology (NMCAST) in Cabadbaran, Agusan Del Norte and Appropriating Funds Therefor",
   "orig": "An Act Establishing the Caraga State University in the Caraga Region By Integrating the Northern Mindanao State Institute of Science and Technology (NORMISIST) in Ampayon, Butuan City and the Northern Mindanao College of Arts, Science and Technology (NMCAST) in Cabadbaran, Agusan Del Norte and Appropriating Funds Therefor"
  },
@@ -331,5 +331,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the Caraga State University in the Caraga Region By Integrating the Northern Mindanao State Institute of Science and Technology (NORMISIST) in Ampayon, Butuan City and the Northern Mindanao College of Arts, Science and Technology (NMCAST) in Cabadbaran, Agusan Del Norte and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

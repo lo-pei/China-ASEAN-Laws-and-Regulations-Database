@@ -1,7 +1,7 @@
 {
  "id": "BN-S-79-2010-NOTICE-OF-AMENDMENT-ON-THE-GRANTING-OF-MINE-A88606",
  "title": {
-  "zh": null,
+  "zh": "关于苏丹陛下与最高元首授予矿产权利的修正通知",
   "en": "NOTICE OF AMENDMENT ON THE GRANTING OF MINERAL RIGHTS BY HIS MAJESTY THE SULTAN AND YANG DI PERTUAN",
   "orig": null
  },
@@ -224,5 +224,13 @@
     "en": "5"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTICE OF AMENDMENT ON THE GRANTING OF MINERAL RIGHTS BY HIS MAJESTY THE SULTAN AND YANG DI PERTUAN",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

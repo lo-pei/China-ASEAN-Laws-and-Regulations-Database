@@ -1,7 +1,7 @@
 {
  "id": "PH-H1437",
  "title": {
-  "zh": null,
+  "zh": "修订第 3992 号法（即经修正的《机动车法》）第一编第一章第 3 条第 4 款、第二章第 1 条第 5 款及第二章第 3 条第 12 与 14 款",
   "en": "An Act to Amend Section Four, Article Three, Chapter One, Section Five, Article One, Chapter Two, and Sections Twelve and Fourteen, Article Three, Chapter Two, of Act Numbered Thirty-Nine Hundred and Ninety-Two, Otherwise Known as the Motor Vehicle Law, as Amended",
   "orig": "An Act to Amend Section Four, Article Three, Chapter One, Section Five, Article One, Chapter Two, and Sections Twelve and Fourteen, Article Three, Chapter Two, of Act Numbered Thirty-Nine Hundred and Ninety-Two, Otherwise Known as the Motor Vehicle Law, as Amended"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 23, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Four, Article Three, Chapter One, Section Five, Article One, Chapter Two, and Sections Twelve and Fourteen, Article Three, Chapter Two, of Act Numbered Thirty-Nine Hundred and Ninety-Two, Otherwise Known as the Motor Vehicle Law, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

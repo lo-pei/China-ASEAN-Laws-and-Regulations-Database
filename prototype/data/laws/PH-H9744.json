@@ -1,7 +1,7 @@
 {
  "id": "PH-H9744",
  "title": {
-  "zh": null,
+  "zh": "改善陆路运输终点站、车站、停靠站、休息区与滚装码头并为其拨款的法案，并为其他目的",
   "en": "An Act to Improve Land Transportation Terminals, Stations, Stops, Rest Areas and Roll-On/Roll-Off Terminals, Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act to Improve Land Transportation Terminals, Stations, Stops, Rest Areas and Roll-On/Roll-Off Terminals, Appropriating Funds Therefor and for Other Purposes"
  },
@@ -140,5 +140,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Improve Land Transportation Terminals, Stations, Stops, Rest Areas and Roll-On/Roll-Off Terminals, Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

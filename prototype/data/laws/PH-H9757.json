@@ -1,7 +1,7 @@
 {
  "id": "PH-H9757",
  "title": {
-  "zh": null,
+  "zh": "将薄荷省 Tagbilaran 市 Celestino Gallares 州长纪念医院床位由两百二十五（225）张增至五百二十五（525）张并提升其服务",
   "en": "An Act Increasing the Bed Capacity of Governor Celestino Gallares Memorial Hospital (GCGMH) in Tagbilaran City, Province of Bohol From Two Hundred Twenty-Five (225) to Five Hundred Twenty-Five (525) Beds and Upgrading Its Services and Facilities, Amending for the Purpose Republic Act No. 7266, and Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act Increasing the Bed Capacity of Governor Celestino Gallares Memorial Hospital (GCGMH) in Tagbilaran City, Province of Bohol From Two Hundred Twenty-Five (225) to Five Hundred Twenty-Five (525) Beds and Upgrading Its Services and Facilities, Amending for the Purpose Republic Act No. 7266, and Appropriating Funds Therefor and for Other Purposes"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of Governor Celestino Gallares Memorial Hospital (GCGMH) in Tagbilaran City, Province of Bohol From Two Hundred Twenty-Five (225) to Five Hundred Twenty-Five (525) Beds and Upgrading Its Services and Facilities, Amending for the Purpose Republic Act No. 7266, and Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

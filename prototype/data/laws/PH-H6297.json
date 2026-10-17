@@ -1,7 +1,7 @@
 {
  "id": "PH-H6297",
  "title": {
-  "zh": null,
+  "zh": "授予 Manila 广播公司在菲律宾境内建设、安装、运营和维护广播电视站并为其他目的法案",
   "en": "An Act Granting the Manila Broadcasting Company a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations Within the Philippines, and for Other Purposes",
   "orig": "An Act Granting the Manila Broadcasting Company a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations Within the Philippines, and for Other Purposes"
  },
@@ -200,5 +200,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from its publication in at least two (2) newspapers of general circulation in the Philippines.\nApproved, October 29, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Manila Broadcasting Company a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations Within the Philippines, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

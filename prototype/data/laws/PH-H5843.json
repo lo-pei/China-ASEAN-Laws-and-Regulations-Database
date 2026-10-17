@@ -1,7 +1,7 @@
 {
  "id": "PH-H5843",
  "title": {
-  "zh": null,
+  "zh": "规定承认国家活态瑰宝并促进和发展传统民间艺术、为此提供资金并为相关目的法案",
   "en": "An Act Providing for the Recognition of National Living Treasures, Otherwise Known as the Manlilikha Ng Bayan, and the Promotion and Development of Traditional Folk Arts, Providing Funds Therefor, and for Purposes`",
   "orig": "An Act Providing for the Recognition of National Living Treasures, Otherwise Known as the Manlilikha Ng Bayan, and the Promotion and Development of Traditional Folk Arts, Providing Funds Therefor, and for Purposes`"
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity Clause - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Recognition of National Living Treasures, Otherwise Known as the Manlilikha Ng Bayan, and the Promotion and Development of Traditional Folk Arts, Providing Funds Therefor, and for Purposes`",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

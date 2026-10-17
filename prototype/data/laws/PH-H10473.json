@@ -1,7 +1,7 @@
 {
  "id": "PH-H10473",
  "title": {
-  "zh": null,
+  "zh": "将南甘马粦省拉戈诺伊市镇圣塞巴斯蒂安描笼涯San Sebastian渔业中学的名称变更为San Sebastian国立中学的法案",
   "en": "An Act Changing the Name of San Sebastian Fisheries High School in Barangay San Sebastian, Municipality of Lagonoy, Province of Camarines Sur to San Sebastian National High School",
   "orig": "An Act Changing the Name of San Sebastian Fisheries High School in Barangay San Sebastian, Municipality of Lagonoy, Province of Camarines Sur to San Sebastian National High School"
  },
@@ -62,5 +62,13 @@
     "en": "This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of San Sebastian Fisheries High School in Barangay San Sebastian, Municipality of Lagonoy, Province of Camarines Sur to San Sebastian National High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

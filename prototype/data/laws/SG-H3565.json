@@ -1,7 +1,7 @@
 {
  "id": "SG-H3565",
  "title": {
-  "zh": null,
+  "zh": "平台工人（向专员报告）条例 2024",
   "en": "Platform Workers (Notification of Commissioner) Regulations 2024",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. For the purposes of section 9 of the Act, the prescribed time for a platform operator that ceases to be a platform operator within the meaning of section 4 of the Act to notify the Commissioner of that fact is 14 days starting on the date on which the platform operator ceases to satisfy section 4(1) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Platform Workers (Notification of Commissioner) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

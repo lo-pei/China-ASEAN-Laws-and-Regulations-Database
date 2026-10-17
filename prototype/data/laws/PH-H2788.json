@@ -1,7 +1,7 @@
 {
  "id": "PH-H2788",
  "title": {
-  "zh": null,
+  "zh": "重新拨付各公共工程法为拉古纳第一区公共工程项目规定的特定款项的法案",
   "en": "An Act Reappropriating Certain Sums Provided for in Various Public Works Acts for Public Works Projects in the First District of Laguna",
   "orig": "An Act Reappropriating Certain Sums Provided for in Various Public Works Acts for Public Works Projects in the First District of Laguna"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted, without Executive approval, June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reappropriating Certain Sums Provided for in Various Public Works Acts for Public Works Projects in the First District of Laguna",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

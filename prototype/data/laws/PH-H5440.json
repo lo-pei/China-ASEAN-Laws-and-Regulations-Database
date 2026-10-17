@@ -1,7 +1,7 @@
 {
  "id": "PH-H5440",
  "title": {
-  "zh": null,
+  "zh": "授予 Alexander Domingo D. Concha 设立、维护和运营连接第八大区与大马尼拉的语音无线电通信系统、以 Quezon 市为主基站的特许经营权法案",
   "en": "An Act Granting Alexander Domingo D. Concha, Operating Under the Business Name and Style of Concha Radio Network, a Franchise to Establish, Maintain and Operate a Voice Radio Communication System Linking Region VIIi and Metro Manila, With Quezon City as Its Main Base Station",
   "orig": "An Act Granting Alexander Domingo D. Concha, Operating Under the Business Name and Style of Concha Radio Network, a Franchise to Establish, Maintain and Operate a Voice Radio Communication System Linking Region VIIi and Metro Manila, With Quezon City as Its Main Base Station"
  },
@@ -180,5 +180,13 @@
     "en": "This Act shall take effect upon its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Alexander Domingo D. Concha, Operating Under the Business Name and Style of Concha Radio Network, a Franchise to Establish, Maintain and Operate a Voice Radio Communication System Linking Region VIIi and Metro Manila, With Quezon City as Its Main Base Station",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

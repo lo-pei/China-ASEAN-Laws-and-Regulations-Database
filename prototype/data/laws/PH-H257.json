@@ -1,7 +1,7 @@
 {
  "id": "PH-H257",
  "title": {
-  "zh": null,
+  "zh": "设立圣巴勃罗市法案",
   "en": "An Act Creating the City of San Pablo",
   "orig": "An Act to Amend Sections Seven, Ten, Eleven, Thirteen, Twenty-One, Twenty-Two, Twenty-Four, Twenty-Five, Twenty-Nine, Seventy-Five, Eighty-Three, and Eighty-Seven of Commonwealth Act Numbered Five Hundred and Twenty, Entitled “An Act Creating the City of San Pablo”"
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the City of San Pablo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

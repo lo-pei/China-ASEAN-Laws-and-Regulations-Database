@@ -1,7 +1,7 @@
 {
  "id": "SG-H3066",
  "title": {
-  "zh": null,
+  "zh": "赡养令（相互执行）（互惠国家指定）公告",
   "en": "Maintenance Orders (Reciprocal Enforcement) (Designation of Reciprocating Countries) Notification",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\n<caption>Countries and Territories Designated as Reciprocating Countries</caption>\nColumn (1)\nColumn (2)\nCountry or territory\nDescription of maintenance orders to which designation extends\nUnited Kingdom\nMaintenance orders generally.\n[S 654/2014 wef 30/09/2014]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Maintenance Orders (Reciprocal Enforcement) (Designation of Reciprocating Countries) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

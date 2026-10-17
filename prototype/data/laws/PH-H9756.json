@@ -1,7 +1,7 @@
 {
  "id": "PH-H9756",
  "title": {
-  "zh": null,
+  "zh": "将薄荷省 Ubay 市镇 Don Emilio Del Valle 纪念医院床位由五十（50）张增至三百（300）张、提升其服务与设施并授权增加医务人员，为此拨款的法案",
   "en": "An Act Increasing the Bed Capacity of Don Emilio Del Valle Memorial Hospital (DEDVMH) in the Municipality of Ubay, Province of Bohol From Fifty (50) to Three Hundred (300) Beds, Upgrading its Services and Facilities and Professional Health Care, Authorizing the Increase of its Medical Personnel and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of Don Emilio Del Valle Memorial Hospital (DEDVMH) in the Municipality of Ubay, Province of Bohol From Fifty (50) to Three Hundred (300) Beds, Upgrading its Services and Facilities and Professional Health Care, Authorizing the Increase of its Medical Personnel and Appropriating Funds Therefor"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of Don Emilio Del Valle Memorial Hospital (DEDVMH) in the Municipality of Ubay, Province of Bohol From Fifty (50) to Three Hundred (300) Beds, Upgrading its Services and Facilities and Professional Health Care, Authorizing the Increase of its Medical Personnel and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

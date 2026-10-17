@@ -1,7 +1,7 @@
 {
  "id": "PH-H9378",
  "title": {
-  "zh": null,
+  "zh": "通过规定国立大学与学院、地方大学与学院免收学费及其他学杂费，促进优质高等教育普及获取的法案",
   "en": "An Act Promoting Universal Access to Quality Tertiary Education by Providing for Free Tuition and Other School Fees in State Universities and Colleges, Local Universities and Colleges and...",
   "orig": "An Act Promoting Universal Access to Quality Tertiary Education by Providing for Free Tuition and Other School Fees in State Universities and Colleges, Local Universities and Colleges and..."
  },
@@ -250,5 +250,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazzette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Promoting Universal Access to Quality Tertiary Education by Providing for Free Tuition and Other School Fees in State Universities and Colleges, Local Universities and Colleges and...",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

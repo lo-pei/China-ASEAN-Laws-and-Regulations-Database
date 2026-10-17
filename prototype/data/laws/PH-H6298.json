@@ -1,7 +1,7 @@
 {
  "id": "PH-H6298",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省巴科洛德市境内作为国道的Granada-murcia公路及其延长段（环形公路）命名为Carlos Hilado公路的法案",
   "en": "An Act Naming the Granada-murcia Road and Extension (Circumferential Road) Which Is a National Road in Bacolod City, Negros Occidental, as the Carlos Hilado Highway",
   "orig": "An Act Naming the Granada-murcia Road and Extension (Circumferential Road) Which Is a National Road in Bacolod City, Negros Occidental, as the Carlos Hilado Highway"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, November 10, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Granada-murcia Road and Extension (Circumferential Road) Which Is a National Road in Bacolod City, Negros Occidental, as the Carlos Hilado Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

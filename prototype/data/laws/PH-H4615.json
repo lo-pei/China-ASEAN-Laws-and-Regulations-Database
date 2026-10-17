@@ -1,7 +1,7 @@
 {
  "id": "PH-H4615",
  "title": {
-  "zh": null,
+  "zh": "在西米萨米斯省设立Pines市镇的法案",
   "en": "An Act Creating the Municipality of Pines in the Province of Misamis Occidental",
   "orig": "An Act Creating the Municipality of Pines in the Province of Misamis Occidental"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect if in a plebiscite to be held simultaneously with the general elections in November, nineteen hundred seventy-one, a majority of the votes cast in said barrios favor the creation of said Municipality of Pines.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Municipality of Pines in the Province of Misamis Occidental",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

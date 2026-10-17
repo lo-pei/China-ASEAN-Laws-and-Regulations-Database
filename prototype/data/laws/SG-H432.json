@@ -1,7 +1,7 @@
 {
  "id": "SG-H432",
  "title": {
-  "zh": null,
+  "zh": "终身护保与长期护理（第 15(3) 条指明款额）公告 2020",
   "en": "CareShield Life and Long-Term Care (Specified Amount under Section 15(3)) Notification 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 15(3) of the Act, the specified amount is $10,000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "CareShield Life and Long-Term Care (Specified Amount under Section 15(3)) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

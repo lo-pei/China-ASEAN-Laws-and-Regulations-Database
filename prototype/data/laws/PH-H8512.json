@@ -1,7 +1,7 @@
 {
  "id": "PH-H8512",
  "title": {
-  "zh": null,
+  "zh": "规定政府资助研发所产生的知识产权的所有权、管理、使用与商业化框架及支持体系并为其他目的法案",
   "en": "An Act Providing the Framework and Support System for the Ownership, Management, Use, and Commercialization of Intellectual Property Generated From Research and Development Funded By Government and for Other Purposes",
   "orig": "An Act Providing the Framework and Support System for the Ownership, Management, Use, and Commercialization of Intellectual Property Generated From Research and Development Funded By Government and for Other Purposes"
  },
@@ -341,5 +341,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing the Framework and Support System for the Ownership, Management, Use, and Commercialization of Intellectual Property Generated From Research and Development Funded By Government and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

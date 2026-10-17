@@ -1,7 +1,7 @@
 {
  "id": "PH-H176",
  "title": {
-  "zh": null,
+  "zh": "修订1909年8月5日美国国会批准的《为菲律宾群岛增加收入并为其他目的法案》第6条（经菲律宾立法机关第4034号法修正），规定按现行汇率折算方法的法案",
   "en": "An Act to Amend Section Six of This Act, Entitled “An Act to Raise Revenue for the Philippine Islands, and for Other Purposes,” Approved by the Congress of the United States on August Fifth, Nineteen Hundred and Nine, as Amended by Act Numbered Forty Hundred and Thirty-Four of the Philippine Legislature, by Providing a Method of Conversion Based on the Current Rates of Exchange",
   "orig": "An Act to Amend Section Six of This Act, Entitled “An Act to Raise Revenue for the Philippine Islands, and for Other Purposes,” Approved by the Congress of the United States on August Fifth, Nineteen Hundred and Nine, as Amended by Act Numbered Forty Hundred and Thirty-Four of the Philippine Legislature, by Providing a Method of Conversion Based on the Current Rates of Exchange"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: October 21, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Six of This Act, Entitled “An Act to Raise Revenue for the Philippine Islands, and for Other Purposes,” Approved by the Congress of the United States on August Fifth, Nineteen Hundred and Nine, as Amended by Act Numbered Forty Hundred and Thirty-Four of the Philippine Legislature, by Providing a Method of Conversion Based on the Current Rates of Exchange",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

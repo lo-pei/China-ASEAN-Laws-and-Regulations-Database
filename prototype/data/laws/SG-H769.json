@@ -1,7 +1,7 @@
 {
  "id": "SG-H769",
  "title": {
-  "zh": null,
+  "zh": "公司（罪行构成）条例 2015",
   "en": "Companies (Composition of Offences) Regulations 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the Registrar in accordance with section 409B(1) of the Act:\n(a)any offence under the Act that is punishable only by a fine or a fine and a default penalty;\n(aa)[Deleted by S 517/2023 wef 24/07/2023]\n(b)any offence under section 148(1) of the Act;\n[S 517/2023 wef 24/07/2023]\n(c)any offence under section 149(12) of the Act;\n[S 517/2023 wef 24/07/2023]\n(d)any offence under section 149A(4) of the Act;\n[S 517/2023 wef 24/07/2023]\n(e)any offence under section 154(5) of the Act;\n[S 517/2023 wef 24/07/2023]\n(f)any offence under section 155(1) of the Act;\n[S 517/2023 wef 24/07/2023]\n(g)any offence under section 155A(2) of the Act;\n[S 517/2023 wef 24/07/2023]\n(h)any offence under section 155B(10) of the Act;\n[S 517/2023 wef 24/07/2023]\n(i)any offence under section 155C(2) of the Act;\n[S 517/2023 wef 24/07/2023]\n(j)any offence under section 155D(2) of the Act;\n[S 517/2023 wef 24/07/2023]\n(k)any offence under section 155E(3) of the Act;\n[S 517/2023 wef 24/07/2023]\n(l)any offence under section 156(15) of the Act;\n[S 517/2023 wef 24/07/2023]\n(m)any offence under section 157(1), read with section 157(3)(b), of the Act;\n[S 517/2023 wef 24/07/2023]\n(n)[Deleted by S 949/2024 wef 09/12/2024]\n(o)any offence under section 199(6) of the Act;\n[S 517/2023 wef 24/07/2023]\n(p)any offence under section 201(1), (7), (8), (9), (11) and (17), read with section 204(1A), of the Act, other than an offence committed with intent to defraud creditors of the company or creditors of any other person or for a fraudulent purpose;\n[S 517/2023 wef 24/07/2023]\n(q)[Deleted by S 949/2024 wef 09/12/2024]\n(r)any offence under section 401(2) or (2A) of the Act;\n[S 517/2023 wef 24/07/2023]\n(s)any offence under section 402(1) of the Act;\n[S 517/2023 wef 24/07/2023]\n(t)any offence under section 403(2)(a) of the Act;\n[S 517/2023 wef 24/07/2023]\n(u)any offence under section 404(3) of the Act;\n[S 517/2023 wef 24/07/2023]\n(v)any offence under section 405(1) or (3) of the Act;\n[S 517/2023 wef 24/07/2023]\n(w)any offence under section 406 of the Act;\n[S 517/2023 wef 24/07/2023]\n(x)any offence under any subsidiary legislation made under the Act that is punishable only by a fine or a fine and a default penalty.\n[S 517/2023 wef 24/07/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Companies (Composition of Offences) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

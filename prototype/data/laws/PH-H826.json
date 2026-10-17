@@ -1,7 +1,7 @@
 {
  "id": "PH-H826",
  "title": {
-  "zh": null,
+  "zh": "修订《国家国内税收法典》第260条第一段，降低拳击表演娱乐税，并禁止市镇公司对该等表演另行课税，但以不超过5%为限的法案",
   "en": "An Act Amending the First Paragraph of Section Two Hundred and Sixty of the National Internal Revenue Code by Reducing the Amusement Tax on Boxing Exhibitions and Prohibiting Municipal Corporations from Levying Further Taxes on Such Exhibitions Except Up to the Amount of Five Per Centum",
   "orig": "An Act Amending the First Paragraph of Section Two Hundred and Sixty of the National Internal Revenue Code by Reducing the Amusement Tax on Boxing Exhibitions and Prohibiting Municipal Corporations from Levying Further Taxes on Such Exhibitions Except Up to the Amount of Five Per Centum"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 4, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending the First Paragraph of Section Two Hundred and Sixty of the National Internal Revenue Code by Reducing the Amusement Tax on Boxing Exhibitions and Prohibiting Municipal Corporations from Levying Further Taxes on Such Exhibitions Except Up to the Amount of Five Per Centum",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

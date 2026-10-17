@@ -1,7 +1,7 @@
 {
  "id": "SG-H3546",
  "title": {
-  "zh": null,
+  "zh": "规划（开发）规则 2008",
   "en": "Planning (Development) Rules 2008",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "12.—(1) The Planning (Development) Rules (R 3) are revoked.\n(2) Any information that is in the Development Register kept under the revoked Rules shall be deemed to be part of the Development Register kept under these Rules.\n(3) The Record Plan maintained under the revoked Rules and any particulars contained therein shall be deemed to be part of the Record Plan kept under these Rules.\n(4) Notwithstanding rule 4, rule 3A of the revoked Rules shall continue to apply, as if these Rules had not been made, to any application made under rule 3(1) of the revoked Rules and which is pending immediately before 3rd March 2008.\n(5) Where any act is required to be done within a time period prescribed in the revoked Rules and such time period has not expired on the date these Rules come into force, the time period as prescribed by the revoked Rules shall apply to that act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Planning (Development) Rules 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

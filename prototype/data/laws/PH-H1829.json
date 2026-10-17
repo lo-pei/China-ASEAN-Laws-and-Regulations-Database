@@ -1,7 +1,7 @@
 {
  "id": "PH-H1829",
  "title": {
-  "zh": null,
+  "zh": "授予 Felix Alberto 公司设立国内与远洋电信无线电台的特许经营权法案",
   "en": "An Act Granting Felix Alberto and Company, Incorporated, a Franchise to Establish Radio Stations for Domestic and Transoceanic Telecommunications",
   "orig": "An Act Granting Felix Alberto and Company, Incorporated, a Franchise to Establish Radio Stations for Domestic and Transoceanic Telecommunications"
  },
@@ -212,5 +212,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, June 22, 1958."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Felix Alberto and Company, Incorporated, a Franchise to Establish Radio Stations for Domestic and Transoceanic Telecommunications",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

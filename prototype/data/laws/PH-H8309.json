@@ -1,7 +1,7 @@
 {
  "id": "PH-H8309",
  "title": {
-  "zh": null,
+  "zh": "菲律宾反国际人道主义法罪行、灭绝种族罪及其他危害人类罪法",
   "en": "Philippine Act on Crimes Against International Humanitarian Law, Genocide, and Other Crimes Against Humanity",
   "orig": "Philippine Act on Crimes Against International Humanitarian Law, Genocide, and Other Crimes Against Humanity An Act Defining and Penalizing Crimes Against International Humanitarian Law, Genocide and Other Crimes Against Humanity, Organizing Jurisdiction, Designating Special Courts, and for Related Purposes"
  },
@@ -308,5 +308,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in two (2) newspapers general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Philippine Act on Crimes Against International Humanitarian Law, Genocide, and Other Crimes Against Humanity",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6913",
  "title": {
-  "zh": null,
+  "zh": "政府科学家、工程师、研究人员及其他科技人员大宪章",
   "en": "Magna Carta for Scientists, Engineers, Researchers and other S &amp; T Personnel in the Government.",
   "orig": "Magna Carta for Scientists, Engineers, Researchers and other S &amp; T Personnel in the Government. An Act Providing a Magna Carta for Scientists, Engineers, Researchers and Other Science and Technology Personnel in Government"
  },
@@ -290,5 +290,13 @@
     "en": "Effectivity. - This Act shall take effect immediately after publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Magna Carta for Scientists, Engineers, Researchers and other S &amp; T Personnel in the Government.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

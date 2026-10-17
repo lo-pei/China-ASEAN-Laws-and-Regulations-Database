@@ -1,7 +1,7 @@
 {
  "id": "SG-H745",
  "title": {
-  "zh": null,
+  "zh": "公共赌馆（赌场经营者——豁免）公告 2010",
   "en": "Common Gaming Houses (Casino Operators — Exemption) Notification 2010",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The provisions of the Act do not apply to and in relation to any gaming, or lottery held, within the casino premises of a casino operator, if the game or lottery is conducted —\n(a)by or on behalf of the casino operator; or\n(b)under the control or supervision of the casino operator.\n[S 6/2019 wef 03/01/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Common Gaming Houses (Casino Operators — Exemption) Notification 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

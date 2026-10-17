@@ -1,7 +1,7 @@
 {
  "id": "PH-H3848",
  "title": {
-  "zh": null,
+  "zh": "修订第 4093 号共和国法第 4、5、6、7 与 10 条的法案",
   "en": "An Act to Amend Sections Four, Five, Six, Seven and Ten of Republic Act Numbered Four Thousand Ninety Three",
   "orig": "An Act to Amend Sections Four, Five, Six, Seven and Ten of Republic Act Numbered Four Thousand Ninety Three"
  },
@@ -91,14 +91,23 @@
    }
   },
   {
-   "id": "PH-H3848-A5_2",
+   "id": "PH-H3848-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Section 5."
    },
    "text": {
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Four, Five, Six, Seven and Ten of Republic Act Numbered Four Thousand Ninety Three",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

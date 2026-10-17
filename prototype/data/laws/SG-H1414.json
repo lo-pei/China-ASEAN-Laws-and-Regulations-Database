@@ -1,7 +1,7 @@
 {
  "id": "SG-H1414",
  "title": {
-  "zh": null,
+  "zh": "遗产税（减免）命令",
   "en": "Estate Duty (Remission) Order",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nPrincipal value of the estate in excess of $50,000\nRates of remission on the duty payable on the respective sum\nFor every dollar of the first $20,000\n90%\nFor every dollar of the next $20,000\n80%\nFor every dollar of the next $20,000\n70%\nFor every dollar of the next $20,000\n60%\nFor every dollar of the next $20,000\n50%\nFor every dollar of the next $20,000\n40%\nFor every dollar of the next $20,000\n30%\nFor every dollar of the next $20,000\n20%\nFor every dollar of the next $20,000\n10%"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Estate Duty (Remission) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

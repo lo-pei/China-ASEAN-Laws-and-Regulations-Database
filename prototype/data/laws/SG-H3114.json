@@ -1,7 +1,7 @@
 {
  "id": "SG-H3114",
  "title": {
-  "zh": null,
+  "zh": "医生注册（纪律委员会与纪律审裁庭）规则 2022",
   "en": "Medical Registration (Disciplinary Commission and Disciplinary Tribunal) Rules 2022",
   "orig": null
  },
@@ -550,5 +550,13 @@
     "en": "32. For the purposes of section 57(2)(d) of the Act, the Disciplinary Commission must maintain a register of every individual who is a member of the Complaints Panel or a Health Committee and the following information in relation to each of those individuals in the register:\n(a)the qualifications of the individual;\n(b)the training attended by the individual for the purposes of discharging the individual’s duties as a member of the Complaints Panel or a Health Committee, as the case may be."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Medical Registration (Disciplinary Commission and Disciplinary Tribunal) Rules 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6420",
  "title": {
-  "zh": null,
+  "zh": "修订第 7301 号共和国法（授予 Satellite Paging Systems Philippines 公司无线寻呼与集群无线电系统特许权的法案）并扩大其特许权范围",
   "en": "An Act Amending Republic Act Numbered Seven Thousand Three Hundred One, Entitled, 'An Act Granting Satellite Paging Systems Philippines, Inc., a Franchise to Construct, Establish, Operate and Maintain Radio Paging Systems and Trunked Radio Systems Within the Philippines. for a Period of Twenty-five (25) Years, and for Other Purposes,' By Further Expanding the Nature and Scope of Its Franchise, and for Other Purposes",
   "orig": "An Act Amending Republic Act Numbered Seven Thousand Three Hundred One, Entitled, 'An Act Granting Satellite Paging Systems Philippines, Inc., a Franchise to Construct, Establish, Operate and Maintain Radio Paging Systems and Trunked Radio Systems Within the Philippines. for a Period of Twenty-five (25) Years, and for Other Purposes,' By Further Expanding the Nature and Scope of Its Franchise, and for Other Purposes"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H6420-A1_2",
+   "id": "PH-H6420-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Nature and Scope of Franchise. - Subject to the provisions of the Constitution and applicable laws, rules and regulations of the National Telecommunications Commission, there is hereby granted to Infocom Communications Network, Inc., (ICNI), hereunder referred to as the grantee or its successors, a franchise to construct, establish, operate and maintain within and without the Philippines for commercial purposes and in the public interest, radio systems in the mobile radio services such as to radio paging systems, cellular phone systems, personal communication network (PCN), trunked radio systems, and any other means or systems similar and/or related to the foregoing, now existing or that which may be developed by modern technology and to install and operate corresponding radio transmitting and receiving stations and communications facilities at such places in or outside the Philippines as may be necessary and convenient.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6420-A2",
@@ -100,5 +101,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Seven Thousand Three Hundred One, Entitled, 'An Act Granting Satellite Paging Systems Philippines, Inc., a Franchise to Construct, Establish, Operate and Maintain Radio Paging Systems and Trunked Radio Systems Within the Philippines. for a Period of Twenty-five (25) Years, and for Other Purposes,' By Further Expanding the Nature and Scope of Its Franchise, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

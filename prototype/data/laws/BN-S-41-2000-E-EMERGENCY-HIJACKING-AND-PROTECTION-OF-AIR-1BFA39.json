@@ -1,7 +1,7 @@
 {
  "id": "BN-S-41-2000-E-EMERGENCY-HIJACKING-AND-PROTECTION-OF-AIR-1BFA39",
  "title": {
-  "zh": null,
+  "zh": "紧急劫机与航空器保护命令 2000",
   "en": "EMERGENCY HIJACKING AND PROTECTION OF AIRCRAFT ORDER 2000",
   "orig": null
  },
@@ -167,5 +167,13 @@
     "en": "The Schedule to the Air Navigation Act is amended by deleting the \"Sl 1971 The Hijacking Act 1971 The whole No. 1739 (Overseas Territories) Order, 1971. Made this 20th. day of Safar, 1421 Hijriah corresponding to the 24th. day of May, 2000 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "EMERGENCY HIJACKING AND PROTECTION OF AIRCRAFT ORDER 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

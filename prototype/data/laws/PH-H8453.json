@@ -1,7 +1,7 @@
 {
  "id": "PH-H8453",
  "title": {
-  "zh": null,
+  "zh": "2010 年棉兰老发展管理局法",
   "en": "Mindanao Development Authority (MinDA) Act of 2010.",
   "orig": "Mindanao Development Authority (MinDA) Act of 2010. An Act Creating the Mindanao Development Authority (MinDA), Defining Its Powers and Functions, Providing Funds Therefor and for Other Purposes"
  },
@@ -210,5 +210,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following completion of its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Mindanao Development Authority (MinDA) Act of 2010.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

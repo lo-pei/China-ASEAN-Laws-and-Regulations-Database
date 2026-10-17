@@ -1,7 +1,7 @@
 {
  "id": "PH-H5922",
  "title": {
-  "zh": null,
+  "zh": "界定被捕、被拘留或受羁押调查者的特定权利以及实施逮捕、拘留与调查人员的职责，并规定违规处罚的法案",
   "en": "An Act Defining Certain Rights of Person Arrested, Detained or Under Custodial Investigation as Well as the Duties of the Arresting, Detaining and Investigating officers, and Providing Penalties for Violations thereof",
   "orig": "An Act Defining Certain Rights of Person Arrested, Detained or Under Custodial Investigation as Well as the Duties of the Arresting, Detaining and Investigating officers, and Providing Penalties for Violations thereof"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in any daily newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Defining Certain Rights of Person Arrested, Detained or Under Custodial Investigation as Well as the Duties of the Arresting, Detaining and Investigating officers, and Providing Penalties for Violations thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

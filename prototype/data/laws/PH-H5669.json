@@ -1,7 +1,7 @@
 {
  "id": "PH-H5669",
  "title": {
-  "zh": null,
+  "zh": "延长私有化委员会与资产私有化信托存续期的法案",
   "en": "An Act Extending the Life of the Committee on Privatization and the Asset Privatization Trust",
   "orig": "An Act Extending the Life of the Committee on Privatization and the Asset Privatization Trust"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect immediately upon its publication in at least one (1) national newspaper of general circulation. The effectivity of this Act shall retroact and relate back to December 8, 1991."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Life of the Committee on Privatization and the Asset Privatization Trust",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

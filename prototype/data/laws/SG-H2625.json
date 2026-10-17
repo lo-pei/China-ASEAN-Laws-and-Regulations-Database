@@ -1,7 +1,7 @@
 {
  "id": "SG-H2625",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（第 4（1）（l）条下的指定法律）条例 2024",
   "en": "Infrastructure Protection (Prescribed Laws under Section 4(1)(l)) Regulations 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 4(1)(l) of the Act, the following are prescribed written laws:\n(a)sections 14R, 14S, 14T, 14U and 14V of the Free Trade Zones Act 1966;\n(b)section 32A(1) and (2) of the Singapore Tourism Board Act 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Prescribed Laws under Section 4(1)(l)) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,0 +1,82 @@
+{
+ "id": "BN-S-29-1995-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-2B75B8",
+ "title": {
+  "zh": "宪法职能转移与相应条款命令 1995",
+  "en": "CONSTITUTION TRANSFER OF FUNCTIONS AND CONSEQUENTIAL PROVISIONS ORDER 1995 1",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p27",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 3,
+ "chars": 2350,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-29-1995-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONSEQUENTIAL-PROVISIONS-ORDER-1995-1.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-29-1995-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONSEQUENTIAL-PROVISIONS-ORDER-1995-1.pdf》（2 页），本次切分 3 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-29-1995-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-2B75B8-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Order may be cited as the Constitution {Transfer of Functions Citation and and Consequential Provisions! Order, 1995 and shall come into force on commence· the 23rd day of November, 1995. ment."
+   }
+  },
+  {
+   "id": "BN-S-29-1995-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-2B75B8-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In this Order, ''functions'' includes any powers, duties, privileges or Interpretation. benefits conferred or imposed by any written law on any person or authority."
+   }
+  },
+  {
+   "id": "BN-S-29-1995-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-2B75B8-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The functions conferred or imposed on the person or authority speci-Transfer of fied in the first column of the Schedule by the provisions of law specified functions. opposite thereto in the second column of that Schedule are hereby transferred to the person or authority specified opposite thereto in the third column of that Schedule.\n\nSCHEDULE (Article 3)\n\nTRANSFER OF STATUTORY FUNCTIONS First Column Second Column Third Column Person or authority Provisions of law Person or authority to from whom functions concerned whom functions transferred transferred\n\nBRUNEI NATIONALITY ACT (Chapter 15) First Column Second Column Third Column His Majesty The Section 5{2J(al and {d). His Majesty The Sultan and Yang and Section 5!3l Sultan and Yang Di-Pertuan Di-Pertuan in Council\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE First Column Second Column Third Column His Majesty The Section 8(2)(a) and id), His Majesty The Sultan and Yang and Section 8(3) Sultan and Yang Di~Pertuan Di-Pertuan in Council His Majesty The Section 1511) His Majesty The Sultan and Yang Sultan and Yang Di-Pertuan Di-Pertuan in Council His Majesty The Section 18 The Minister with the Sultan and Yang approval of His Di-Pertuan Majesty The Sultan in Council and Yang Di-Pertuan\n\nNATIONAL REGISTRATION ACT {Chapter 19! First Column Second Column Third Column His Majesty The Section 3(1) and (2) His Majesty The Sultan and Yang Sultan and Yang Di-Pertuan Di-Pertuan in Council His Majesty The Section 6( 1) The Minister with the Sultan and Yang approval of His Di-Pertuan Majesty The Sultan in Council and Yang Di-Pertuan Made this 30th day of Jamadilakhir, 1416 Hijrah corresponding to the 23rd day of November, 1995, at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh A WANG MOHIDIN BIN HAJI DAUD, Pemangku Pengarah Percetakan, di Jahatan Percetakan Kerajaan, Kementerian Undang-Undang, Negara Brunei Darussalam. Harga B$5.00"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CONSTITUTION TRANSFER OF FUNCTIONS AND CONSEQUENTIAL PROVISIONS ORDER 1995 1",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

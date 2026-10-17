@@ -1,7 +1,7 @@
 {
  "id": "SG-H366",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（建筑商发牌）条例 2008",
   "en": "Building Control (Licensing of Builders) Regulations 2008",
   "orig": null
  },
@@ -512,5 +512,13 @@
     "en": "THIRD SCHEDULE\nRegulations 19, 19A and 20\nClasses of Work\nPart I\n1. Reinforced concrete works.\n2. Structural steel works.\nPart II\n1. Cladding and curtain wall installation.\n2. Doors and windows installation.\n3. Drywall installation.\n4. Glazing works.\n5. Joinery works.\n6. Suspended ceiling installation.\n7. Tiling, stone laying and floor finishing works.\n8. Waterproofing works.\n[S 115/2013 wef 01/04/2013]\nPart III\n1. Air-conditioning ducting installation.\n2. Electrical works.\n3. Fire protection works.\n4. Gas pipefitting works.\n5. Lift installation.\n6. Plumbing and piping works.\nPart IV\n[Deleted by S 786/2014 wef 01/01/2015]\nPart V\n1. Structural works.\n[S 115/2013 wef 01/04/2013]\nPart VI\n1. Architectural works.\n2. Mechanical and electrical works.\n[S 200/2011 wef 15/10/2011]\n[S 115/2013 wef 01/04/2013]\n[S 786/2014 wef 01/01/2015]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building Control (Licensing of Builders) Regulations 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H923",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典（视听录制）条例 2018",
   "en": "Criminal Procedure Code (Audiovisual Recording) Regulations 2018",
   "orig": null
  },
@@ -175,5 +175,13 @@
     "en": "SECOND SCHEDULE\nRegulation 4\nPrescribed places\n1.The premises of the Supreme Court at 1 Supreme Court Lane, Singapore 178879\n2.The premises of the Family Justice Courts at 3 Havelock Square, Singapore 059725\n3.The premises of the State Courts at 1 Havelock Square, Singapore 059724\n4.The premises of the Central Narcotics Bureau at 393 New Bridge Road, Singapore 088763\n5.The premises of the Corrupt Practices Investigation Bureau at 2 Lengkok Bahru, Singapore 159047\n6.The premises of Cluster Management A at 982 Upper Changi Road North, Changi Prison Complex, Singapore 507709\n7.The premises of Institution A1, Cluster A at 982A Upper Changi Road North, Changi Prison Complex, Singapore 506978\n8.The premises of Institution A2, Cluster A at 982B Upper Changi Road North, Changi Prison Complex, Singapore 506979\n9.The premises of Institution A3, Cluster A at 982C Upper Changi Road North, Changi Prison Complex, Singapore 506980\n10.The premises of Institution A4, Cluster A at 982D Upper Changi Road North, Changi Prison Complex, Singapore 506981\n11.The premises of Institution A5, Cluster A at 982E Upper Changi Road North, Changi Prison Complex, Singapore 506982\n12.The premises of Cluster Management B at 984 Upper Changi Road North, Changi Prison Complex, Singapore 506969\n13.The premises of Institution B1, Cluster B at 984A Upper Changi Road North, Changi Prison Complex, Singapore 506983\n14.The premises of Institution B2, Cluster B at 984B Upper Changi Road North, Changi Prison Complex, Singapore 506984\n15.The premises of Institution B3, Cluster B at 984C Upper Changi Road North, Changi Prison Complex, Singapore 506985\n16.The premises of Institution B4, Cluster B at 984D Upper Changi Road North, Changi Prison Complex, Singapore 506986\n17.The premises of Institution B5, Cluster B at 984E Upper Changi Road North, Changi Prison Complex, Singapore 506987\n18.The premises of Institution S1 at —\n(a)1813 Upper Changi Road North, Singapore 506910\n(b)1813A Upper Changi Road North, Singapore 506794\n(c)1813B Upper Changi Road North, Singapore 506795\n(d)1813C Upper Changi Road North, Singapore 506776\n(e)1817 Upper Changi Road North, Singapore 506792\n19.The premises of Institution S2 at 1817 Upper Changi Road North, Singapore 506792\n20.The premises of Institution TM1 at 10 Tanah Merah Besar Road, Singapore 498834\n21.The premises of Institution TM2 at 10 Tanah Merah Besar Road, Singapore 498834\n22.The premises of Singapore Boys’ Home at 3 Bulim Drive, Singapore 648172\n23.The premises of Singapore Girls’ Home at 1 Defu Avenue 1, Singapore 539540\n[S 284/2025 wef 28/04/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Criminal Procedure Code (Audiovisual Recording) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

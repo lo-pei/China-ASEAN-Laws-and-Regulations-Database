@@ -1,7 +1,7 @@
 {
  "id": "BN-S-39-2019-NOTIFICATION-OF-COMMENCEMENT",
  "title": {
-  "zh": null,
+  "zh": "生效公告",
   "en": "NOTIFICATION OF COMMENCEMENT",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "491 16th. commenced. Orderhereby Courts) No. Dated In S day , 39 subsequently appoints Order, exercise of Novemberthis\n\nPERIN 1998 of 19th. day of Rabiulawal, 1441 Hijriah 29th HAJI the UDANA revised as (S Notification DATO , 2019. September power AWANG 37/1998), His Minister PADUKA KHATIB conferred SYARIAH BADARUDDIN the of of 2004 commencement (Chapter HAJI DATO Syariah Religious Majesty COURTS as by AWANG PADUKA 184) Courts the section Affairs. BIN ACT date the OTHMAN PENGARAH SERI of Act, shall be Sultan 1(1) section 3 on SETIA of which the 25th. NOVEMBER, 2019 corresponding and USTAZ Emergency section 3 of Yang deemed Di-Pertuan, to (Syariah to have that the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

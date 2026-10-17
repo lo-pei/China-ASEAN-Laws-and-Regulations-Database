@@ -1,7 +1,7 @@
 {
  "id": "PH-H8870",
  "title": {
-  "zh": null,
+  "zh": "将马里基纳市第二区康塞普西翁第一与康塞普西翁第二描笼涯的Katipunan街改设为国道的法案",
   "en": "An Act Converting the Katipunan Street Traversing Barangay Concepcion Uno and Barangay Concepcion Dos in the Second District, City of Marikina into a National Road",
   "orig": "An Act Converting the Katipunan Street Traversing Barangay Concepcion Uno and Barangay Concepcion Dos in the Second District, City of Marikina into a National Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Katipunan Street Traversing Barangay Concepcion Uno and Barangay Concepcion Dos in the Second District, City of Marikina into a National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

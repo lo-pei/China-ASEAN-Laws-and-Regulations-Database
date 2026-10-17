@@ -1,7 +1,7 @@
 {
  "id": "BN-S-103-2010-BRUNEI-DARUSSALAM-CENTRAL-BANK-ORDER-2010",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰国中央银行命令 2010",
   "en": "BRUNEI DARUSSALAM CENTRAL BANK ORDER 2010",
   "orig": null
  },
@@ -1079,5 +1079,13 @@
     "en": "The provisions of the written laws specified in the first column of the Second Schedule are amended in the manner set out in the second column thereof. SCHEDULE 56(1))\n\nLIST OF WRITTEN LAWS the Anti Money-Laundering Order, 2000 (S 44/00); the Anti-Terrorism (Financial and Other Measures) Act (Chapter 197); the Banking Order, 2006 (S 45/06); the Coin (Import and Exports) Act [Chapter 33); the Criminal Conduct (Recovery of Proceeds) Order, 2000 (S 52/00); the Finance Companies Act (Chapter 89); the Hire-Purchase Order, 2006 (S 44/06); the Insurance Order, 2006 (S 48/06); the International Banking Order, 2000 (S 53/00); the International Business Companies Order, 2000 (S 56/00); the International Insurance and Takaful Order, 2002 (S 43/02); the International Limited Partnerships Order, 2000 (S 45/00); the International Trusts Order, 2000 (S 55/00); the Islamic Banking Order, 2008 (S 96/08); the Money-Changing and Remittance Businesses Act (Chapter 174); the Moneylenders Act (Chapter 62); the Motor Vehicles Insurance (Third Party Risks) Act (Chapter 90); the Mutual Funds Order, 2001 (S 18/01); the Pawnbrokers Order, 2002 (S 60/02); the Registered Agents and Trustees Licensing Order, 2000 (S 54/00); the Securities Order, 2001 (S 31/01); the Takaful Order, 2008 (S 100/08). SCHEDULE 79)\n\nAND RELATED AMENDMENTS\n\nTO OTHER WRITTEN LAWS\n\nCOLUMN COLUMN (1} Anti Money-Laundering Order, 2000 (S 44/00} By inserting after the definition for \"applicant for in subsection (1) the new following means the Autoriti Monetari Brunei Darussalam established by the Autoriti Monetari Darussalam Order, 2010;\". All applicable sections By deleting \"Minister\" wherever it appears in the and by substituting \"Authority\" in each case.\n\n(2) Anti-Terrorism (Financial and Other Measures) Act [Chapter 197) By inserting before the definition of \"funds\" in 1) the following new definition - means the Autoriti Monetari Brunei Darussalam established by the Autoriti Monetari Brunei Darussalam Order, 2010;\". All applicable sections By deleting \"Minister\" wherever it appears in the Act and by substituting \"Authority\" in each case.\n\n(3) Banking Order, 2006 (S 45/06) By deleting the definition of \"Authority\" in 1) and by substituting the following new definition - means the Autoriti Monetari Brunei Darussalam established by the Autoriti Monetari Brunei Darussalam Order, 2010;\". 3 By repealing section 3.\n\n(4) Bretton Woods Agreement Act (Chapter 176) By deleting the definition of \"financial authority of Brunei Darussalam\" in subsection !1) and by substituting the following new definition authority of Brunei Darussalam\" the Autoriti Monetari Brunei Darussalam by the Autoriti Monetari Brunei Order, 2010;\".\n\n(5) Finance Companies Act (Chapter 89) By inserting after the definition of \"auditor\", the new definition means the Autoriti Monetari Brunei established by the Autoriti Monetari Darussalam Order, 2010;\". Section 26 By deleting subsection (6). Section 29 By deleting section 29 and by substituting the new section \"Indemnity."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI DARUSSALAM CENTRAL BANK ORDER 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

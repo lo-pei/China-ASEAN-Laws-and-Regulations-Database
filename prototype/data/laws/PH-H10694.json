@@ -1,7 +1,7 @@
 {
  "id": "PH-H10694",
  "title": {
-  "zh": null,
+  "zh": "提升畜牧业发展与竞争力，加强畜牧业局，并为此设立畜牧业竞争力提升基金的法案",
   "en": "An Act Enhancing Animal Industry Development and Competitiveness, Strengthening the Bureau of Animal Industry, and Creating for the Purpose the Animal Competitiveness Enhancement Fund",
   "orig": "An Act Enhancing Animal Industry Development and Competitiveness, Strengthening the Bureau of Animal Industry, and Creating for the Purpose the Animal Competitiveness Enhancement Fund"
  },
@@ -360,5 +360,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publications in the Official Gazette or in the two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Enhancing Animal Industry Development and Competitiveness, Strengthening the Bureau of Animal Industry, and Creating for the Purpose the Animal Competitiveness Enhancement Fund",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

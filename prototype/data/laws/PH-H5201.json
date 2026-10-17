@@ -1,7 +1,7 @@
 {
  "id": "PH-H5201",
  "title": {
-  "zh": null,
+  "zh": "将塔威塔威省萨帕萨帕市镇巴纳兰描笼涯Banaran小学命名为Datu Ismael Yusop纪念中央小学的法案",
   "en": "An Act Renaming the Banaran Elementary School in Barangay Banaran, Municipality of Sapa-Sapa, Province of Tawi-Tawi, as the Datu Ismael Yusop Memorial Central Elementary School",
   "orig": "An Act Renaming the Banaran Elementary School in Barangay Banaran, Municipality of Sapa-Sapa, Province of Tawi-Tawi, as the Datu Ismael Yusop Memorial Central Elementary School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Banaran Elementary School in Barangay Banaran, Municipality of Sapa-Sapa, Province of Tawi-Tawi, as the Datu Ismael Yusop Memorial Central Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

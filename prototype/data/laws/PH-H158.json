@@ -1,7 +1,7 @@
 {
  "id": "PH-H158",
  "title": {
-  "zh": null,
+  "zh": "规定Bukidnon、哥打巴托、Lanao、苏禄与高山省的省长及省议会成员职位改为民选，并规定上述省官员报酬的法案",
   "en": "An Act to Make Elective the Offices of Provincial Governor and Members of the Provincial Board, and to Fix the Compensation of the Provincial Officials, of Bukidnon, Cotabato, Lanao, Sulu and Mountain Province",
   "orig": "An Act to Make Elective the Offices of Provincial Governor and Members of the Provincial Board, and to Fix the Compensation of the Provincial Officials, of Bukidnon, Cotabato, Lanao, Sulu and Mountain Province"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect in each of the provinces enumerated in section one hereof when the President of the Philippines shall have ascertained, and shall so declare, by proclamation, that the people of said province are ready to elect their provincial governor and the members of the provincial board: Provided, That the election of said officials shall be held at the same time as the regular election for provincial offices throughout the Philippines, and in accordance with the provisions of the Election Code.\nApproved: October 17, 1946."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Make Elective the Offices of Provincial Governor and Members of the Provincial Board, and to Fix the Compensation of the Provincial Officials, of Bukidnon, Cotabato, Lanao, Sulu and Mountain Province",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

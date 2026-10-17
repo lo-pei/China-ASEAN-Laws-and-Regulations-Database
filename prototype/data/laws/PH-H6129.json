@@ -1,7 +1,7 @@
 {
  "id": "PH-H6129",
  "title": {
-  "zh": null,
+  "zh": "规定有效应对电力危机所必需且适当的紧急相关措施并为其他目的法案",
   "en": "An Act Prescribing Urgent Related Measures Necessary and Proper to Effectively Address the Electric Power Crisis and for Other Purposes",
   "orig": "An Act Prescribing Urgent Related Measures Necessary and Proper to Effectively Address the Electric Power Crisis and for Other Purposes"
  },
@@ -160,5 +160,13 @@
     "en": "Effectivity Clause. - This Act shall take effect on the day following its publication in at least two (2) national newspapers of general circulation.\nApproved, April 5, 1993."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prescribing Urgent Related Measures Necessary and Proper to Effectively Address the Electric Power Crisis and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

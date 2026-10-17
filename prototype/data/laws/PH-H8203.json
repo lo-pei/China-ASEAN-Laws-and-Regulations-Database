@@ -1,7 +1,7 @@
 {
  "id": "PH-H8203",
  "title": {
-  "zh": null,
+  "zh": "2009 年反酷刑法",
   "en": "Anti-Torture Act of 2009",
   "orig": "Anti-Torture Act of 2009 An Act Penalizing Torture and Other Cruel, Inhuman and Degrading Treatment or Punishment and Prescribing Penalties therefor"
  },
@@ -160,5 +160,13 @@
     "en": "Right to' Physical, Medical and Psychological Examination. - Before and after interrogation, every person arrested, detained or under custodial investigation shall have the right to he informed of his/her right to demand physical examination by an independent and competent doctor of his/her own choice. If such person cannot afford the services of his/her own doctor, he/she shall he provided by the State with a competent and independent doctor to conduct physical examination. The State shall endeavor to provide the victim with psychological evaluation if available under the circumstances. If the person arrested is a female, she shall be attended to preferably by a female doctor. Furthermore, any person arrested, detained or under custodial investigation, including his/her immediate family, shall have the right to immediate access to proper and adequate medical treatment. The physical examination and/or psychological evaluation of the victim shall be contained in a medical report, duly signed by the attending physician, which shall include in detail his/her medical history and findings, and which shall he attached to the custodial investigation report. Such report shall be considered a public document.\nFollowing applicable protocol agreed upon by agencies tasked to conduct physical, psychological and mental examinations, the medical reports shall, among others, include:\n(a) The name, age and address of the patient or victim;\n(b) The name and address of the nearest kin of the patient or victim;\n(c) The name and address of the person who brought the patient or victim for physical, psychological and mental examination, and/or medical treatment;\n(d) The nature and probable cause of the patient or victim's injury, pain and disease and/or trauma;\n(e) The approximate time and date when the injury, pain, disease and/or trauma was/were sustained;\n(f) The place where the injury, pain, disease and/or trauma was/were sustained;\n(g) The time, date and nature of treatment necessary; and\n(h) The diagnosis, the prognosis and/or disposition of the patient.\nAny person who does not wish to avail of the rights under this pr"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Anti-Torture Act of 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

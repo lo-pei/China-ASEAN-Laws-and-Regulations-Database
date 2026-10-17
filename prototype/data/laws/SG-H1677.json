@@ -1,7 +1,7 @@
 {
  "id": "SG-H1677",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（为动物管理运输——类别执照）命令 2025",
   "en": "Guns, Explosives and Weapons Control (Transporting for Animal Management — Class Licence) Order 2025",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) A class licensee by virtue of paragraph 4(1) or (2) or 5 may convey a defined gun or defined weapon subject to all the following conditions:\n(a)the class licensee ensures that the defined gun or defined weapon is conveyed only on a journey wholly within Singapore and only by using any one or a combination of the following conveyances:\n(i)a vessel;\n(ii)a motor car;\n(iii)a goods vehicle;\n(b)the class licensee packs, or arranges for the packing of, the defined gun or defined weapon for conveying in such a way —\n(i)that the defined gun is in an inoperable state when being conveyed; and\n(ii)that no individual (other than those involved in packing, loading or unloading it) can see the defined gun or defined weapon from inside or outside the vessel, motor car or goods vehicle used to convey it;\n(c)the class licensee takes all reasonable steps necessary to ensure that the vessel, motor car or goods vehicle conveying the defined gun or defined weapon is not parked, moored or left unattended in any public place within Singapore at any time while the defined gun or defined weapon (as the case may be) is on board;\n(d)before starting each journey conveying the defined gun or defined weapon, the class licensee gives advance notice, in accordance with sub‑paragraph (2), of the address of every place within Singapore to which the defined gun or defined weapon is to be conveyed for the animal management purpose concerned;\n(e)the class licensee takes all reasonable steps necessary to ensure that —\n(i)the vessel, motor car or goods vehicle carrying the defined gun or defined weapon travels directly to every place notified under sub‑paragraph (d), taking the shortest route and as far as practicable without stopping en‑route; and\n(ii)the defined gun or defined weapon conveyed is not unpacked or opened in any way while it is being conveyed;\n(f)the class licensee must not convey the defined gun or defined weapon for a purpose other than to use it for the animal management purpose concerned.\n(2) The advance notice required by sub‑paragraph (1)(d) in respect of each journey conveying a defined gun or defined weapon must be given by sending an email to the email address SPF_PRD_GEWD@spf.gov.sg —\n(a)at any time before the start of the journey in an emergency situation; or\n(b)at least 12 hours before the start of the journey in any other case.\n(3) In this paragraph —\n“emergency situation” means a situation where —\n(a)an animal has escaped from its cage or enclosure where it was lawfully kept, or a wildlife habitat; and\n(b)the animal must be captured or recaptured without delay to prevent injury to the public or the animal;\n“inoperable state”, for a defined gun, includes being not loaded with any projectile that may be fired or shot using the gun."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Guns, Explosives and Weapons Control (Transporting for Animal Management — Class Licence) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

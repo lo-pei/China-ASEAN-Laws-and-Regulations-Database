@@ -1,7 +1,7 @@
 {
  "id": "SG-H1187",
  "title": {
-  "zh": null,
+  "zh": "区域供冷（服务区宣告）公告 2006",
   "en": "District Cooling (Declaration of Service Area) Notification 2006",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nLot Nos.\nMK/TS\n175C\nTS30\n180W\nTS30\n277L\nTS30\n80002A\nTS30\n80006L\nTS30\n80007C\nTS30\n80008M\nTS30\n80009W\nTS30\n256A\nTS30"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "District Cooling (Declaration of Service Area) Notification 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

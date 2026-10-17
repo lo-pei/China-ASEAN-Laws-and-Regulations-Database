@@ -1,7 +1,7 @@
 {
  "id": "SG-H1062",
  "title": {
-  "zh": null,
+  "zh": "关税（办事处与站点）条例",
   "en": "Customs (Offices and Stations) Regulations",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) The following are customs offices and customs stations reserved for the separate and exclusive import, export and transhipment of goods by air by Federal Express (Singapore) Pte Ltd:\n(a)all such part of ACE Hub under the possession and management of Federal Express (Singapore) Pte Ltd;\n(b)all Customs Gate Stations and Offices within the part of ACE Hub mentioned in sub‑paragraph (a).\n(2) [Deleted by S 674/2024 wef 01/09/2024]\n(3) In this regulation, “ACE Hub” means the Air Cargo Express Hub within the Air Cargo Express Free Trade Zone at Changi Airport.\n[S 674/2024 wef 01/09/2024]\n[S 338/2018 wef 02/06/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Offices and Stations) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

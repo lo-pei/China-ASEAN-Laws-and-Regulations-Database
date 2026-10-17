@@ -1,0 +1,94 @@
+{
+ "id": "BN-E-2-OF-1930-CENSUS-ENACTMENT-1930",
+ "title": {
+  "zh": "人口普查法令 1930（E 2 of 1930）",
+  "en": "E 2 of 1930 Census Enactment 1930",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p24",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "AN Enactment to provide for the taki.ng of a Census"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 4,
+ "chars": 2578,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "e-2-of-1930-census-enactment-1930.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《e-2-of-1930-census-enactment-1930.pdf》（4 页），本次切分 4 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-E-2-OF-1930-CENSUS-ENACTMENT-1930-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "-(i) Every mployer o ten or more abourers who Emplo er 1 e f l y s reside upon any agricultural estate, or mining property, or of labour may be in any factory, or workshop shall; upon receipt of a written requ ired to requisit on n the prescribed form signed by an Assistant be enumerai i tors. Superintendent of Census be bound to act as enumerator in respect of ail persons employed or residing pon oi;--.'in such estate, mining propery, factory or works p. ~-, 1 •\n\n(ii) En'TY such employer shall cans to be rill'N. in n respect ofsuch labourers and such other ersons a{ ti'fores id > ' the schedules delivered to hm for su 1 purpose; and iall deliver such schedules filled in to the iest of his-know clge and belief to the supervisor appoin cl for the area ·ithin which the premises a·e situated, or o such <:Q:tlwr pe the Assistant Superin endent of Ce sus ma' y diJ)e~"
+   }
+  },
+  {
+   "id": "BN-E-2-OF-1930-CENSUS-ENACTMENT-1930-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "~·he Su fo1te1t4_ent 1 C shall upon receipt of Abstract clledules cl ret~~s .hse an abstract to be made of to be made . and arr.e fo1;_a e r,·hole 0~1~ tate, and such abstract shall published. nted a 1 lt blished fo neral information. i )i 1 ~ · ·1 I t 6f Any qn~us officer <l any person employed by the Offences by i1b~riatende11t of Census i the preparation of the abstracts census t l ~ -officers. ej ade l·y 1\\jm uncle the last preceding section who-- + ,• 1 ( d~1t sufficient cause.-erefuses or neglects to ornply with any instructions or requisitions ddressed to him by the Superintendent of (er:l.sus or an Assistant Superintendent, or fails t use reasonable diligence in performing any uty imposed on him; or\n\n(b) f/folly puts an oi.ensive or improper question, I\\ , knowingly makes any false return; or"
+   }
+  },
+  {
+   "id": "BN-E-2-OF-1930-CENSUS-ENACTMENT-1930-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "A. ll Government servants shall he botmd assist in Cover nthe work of taking· the censi when so requj ed by the mcnt t ' rn • t servan s to Superintendent of Census or h an Assistant Su e tenden . assist in ~ . \\J takmg I \" census."
+   }
+  },
+  {
+   "id": "BN-E-2-OF-1930-CENSUS-ENACTMENT-1930-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "Every enumerator all deliver to ti supervisor of Schedules the area for which 'h~ is a ointed 11 sche iles and all such ar.d returns returns a~ may be i:~uir .. by th ~,perin endent of Census ~t~lf\\~crcd o~ a d,iv. fo~t.,··,l'j)pointe for nad)t pos and it shall be the br enu· , • • _ ., 1 \\ 1 / . merator to 1 y•.'o_ v• t ,. J ra • t d~J 1 such super iso · o ve 1f),1 em c d to t nsmi them supervisor forthwith to tile Assis nt Supe ende t who shall upon the anddfcd>r· 1 re, cei. pt o f sucn I . sc l 1e( 1 es an d ort I rwi. t I f orward t 1 e Swupar er e n- to 1 1 1 i same to the Superii endent ) other per- tcndent. s6\\1 as the Superir endent o . ; t ' stJ"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "E 2 of 1930 Census Enactment 1930",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

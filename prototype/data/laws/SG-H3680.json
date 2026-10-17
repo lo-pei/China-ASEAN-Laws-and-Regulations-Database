@@ -1,7 +1,7 @@
 {
  "id": "SG-H3680",
  "title": {
-  "zh": null,
+  "zh": "马来亚各州关税征收法 1958",
   "en": "States of Malaya Customs Duties Collection Act 1958",
   "orig": null
  },
@@ -934,5 +934,13 @@
     "en": "56. The President may at the request of the Yang di-Pertuan Agong make regulations —\n(a)to regulate the powers and duties to be exercised and performed by Federal Superintendents of Customs and Excise and Federal Customs Officers;\n(b)to regulate the conduct of all matters relating to the collection of customs duty;\n(c)to prescribe the days and times during which any collection station or customs warehouse may be open for business;\n(d)to prescribe the rates of overtime fees to be paid by the importers or exporters of goods or their agents in respect of the services of Federal officers of customs rendered on request beyond the ordinary hours prescribed and the conditions under which such overtime may be permitted;\n(e)to regulate the deposit, custody and withdrawal of goods in and from a collection station and the management and control of the same;\n(f)to prescribe the amount to be paid as warehouse rent on goods deposited in a collection station;\n(g)to prescribe the limits of the place or places at which collection stations are situated;\n(h)to prescribe the charges to be paid for operations performed under section 23 by Federal officers of customs or other persons under the control of Federal officers of customs;\n(i)to prescribe the forms to be used under this Act;\n(j)to prescribe the offences which may be compounded and the manner in which, and the Federal officers of customs by whom, they may be compounded;\n(k)to prescribe the fees to be paid for any act or service done or rendered by any Federal officer of customs which is not required to be done or rendered under this Act and for which no fee is prescribed by any written law; and\n(l)generally to give effect to the provisions of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "States of Malaya Customs Duties Collection Act 1958",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

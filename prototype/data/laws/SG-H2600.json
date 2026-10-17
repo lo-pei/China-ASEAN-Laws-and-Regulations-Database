@@ -1,7 +1,7 @@
 {
  "id": "SG-H2600",
  "title": {
-  "zh": null,
+  "zh": "劳资关系条例 1960",
   "en": "Industrial Relations Regulations 1960",
   "orig": null
  },
@@ -565,5 +565,13 @@
     "en": "SECOND SCHEDULE\nRegulations 20(5) and 37\nFees payable at the Registrar’s Office\n1.On filing a collective agreement for registration\n$20\n2.On obtaining and filing an order to show cause\n$20\n3.On filing and subsequent issue of a summons to witness\n$10\n4.On filing any document for which no other fee is provided\n$10\n5.For office copies of documents including certificate of Registrar (per folio)\n$2.50\n6.For service of a document (when service is not the responsibility of the Registrar)\n$10 (in addition, a minimum transport charge of $10 will be imposed)\n7.For publishing an advertisement\nActual cost\n8.For preparation by the Registrar of an award for settlement (including necessary notices and typing)\n$50\n9.For filing (and subsequent issue) of an application for hearing by the Court\n$20\n10.On filing an affidavit\n$10"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Industrial Relations Regulations 1960",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

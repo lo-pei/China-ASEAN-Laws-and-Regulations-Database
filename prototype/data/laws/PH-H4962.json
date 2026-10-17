@@ -1,7 +1,7 @@
 {
  "id": "PH-H4962",
  "title": {
-  "zh": null,
+  "zh": "对东南亚农业研究生学习与研究区域中心免征特定税收并为其他目的法案",
   "en": "An Act Exempting From Certain Taxes the Southeast Asian Regional Center for Graduate Study and Research in Agriculture, and for Other Purposes.",
   "orig": "An Act Exempting From Certain Taxes the Southeast Asian Regional Center for Graduate Study and Research in Agriculture, and for Other Purposes."
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall be effective for a period of five years from its approval.\nApproved, June 17, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Exempting From Certain Taxes the Southeast Asian Regional Center for Graduate Study and Research in Agriculture, and for Other Purposes.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

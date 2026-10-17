@@ -1,7 +1,7 @@
 {
  "id": "PH-H5062",
  "title": {
-  "zh": null,
+  "zh": "增加三宝颜市三宝颜总医院床位并授权为此拨款的法案",
   "en": "An Act Increasing the Bed Capacity of Zamboanga General Hospital in the City of Zamboanga, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of Zamboanga General Hospital in the City of Zamboanga, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval on September 30, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of Zamboanga General Hospital in the City of Zamboanga, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

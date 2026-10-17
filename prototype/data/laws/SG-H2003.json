@@ -1,7 +1,7 @@
 {
  "id": "SG-H2003",
  "title": {
-  "zh": null,
+  "zh": "所得税（自愿现金缴款的豁免与扣除）（规定人士）条例 2013",
   "en": "Income Tax (Exemption and Deduction of Voluntary Cash Contribution) (Prescribed Person) Regulations 2013",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The Income Tax (Exemption of Voluntary Cash Contribution) (Prescribed Person) Regulations 2012 (G.N. No. S 149/2012) are revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption and Deduction of Voluntary Cash Contribution) (Prescribed Person) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

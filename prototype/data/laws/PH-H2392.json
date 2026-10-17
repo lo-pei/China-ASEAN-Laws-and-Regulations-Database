@@ -1,7 +1,7 @@
 {
  "id": "PH-H2392",
  "title": {
-  "zh": null,
+  "zh": "通过修订第2352号共和国法第1条，对依第1394号共和国法征收的特别进口税项下若干物品予以豁免，并规定违反行为处罚的法案",
   "en": "An Act Exempting Certain Articles from the Special Import Tax Levied Under Republic Act Numbered Thirteen Hundred Ninety-Four by Amending Section One of Republic Act Numbered Twenty-Three Hundred and Fifty-Two, and Providing Penalties for Violations Thereof",
   "orig": "An Act Exempting Certain Articles from the Special Import Tax Levied Under Republic Act Numbered Thirteen Hundred Ninety-Four by Amending Section One of Republic Act Numbered Twenty-Three Hundred and Fifty-Two, and Providing Penalties for Violations Thereof"
  },
@@ -82,5 +82,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Exempting Certain Articles from the Special Import Tax Levied Under Republic Act Numbered Thirteen Hundred Ninety-Four by Amending Section One of Republic Act Numbered Twenty-Three Hundred and Fifty-Two, and Providing Penalties for Violations Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

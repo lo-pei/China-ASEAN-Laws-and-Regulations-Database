@@ -1,7 +1,7 @@
 {
  "id": "PH-H8937",
  "title": {
-  "zh": null,
+  "zh": "将北哥打巴托省 Midsayap 市镇 Malamote 描笼涯的 Kimagango 国立中学的 Malamote 附属校分离，改设为独立的同名国立中学，并为此拨款",
   "en": "An Act Separating the Kimagango National High School - Malamote Annex in Barangay Malamote, Municipality of Midsayap, Province of North Cotabato From the Kimagango National High School, Converting It into an Independent National High School to be Known as Malamote National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Kimagango National High School - Malamote Annex in Barangay Malamote, Municipality of Midsayap, Province of North Cotabato From the Kimagango National High School, Converting It into an Independent National High School to be Known as Malamote National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Kimagango National High School - Malamote Annex in Barangay Malamote, Municipality of Midsayap, Province of North Cotabato From the Kimagango National High School, Converting It into an Independent National High School to be Known as Malamote National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

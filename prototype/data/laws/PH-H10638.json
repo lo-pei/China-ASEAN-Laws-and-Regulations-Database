@@ -1,7 +1,7 @@
 {
  "id": "PH-H10638",
  "title": {
-  "zh": null,
+  "zh": "投资者租赁法",
   "en": "Investors’ Lease Act",
   "orig": "An Act Liberalizing the Lease of Private Lands By Foreign Investors, Establishing the Stability of Long-term Lease Contracts, Amending for the Purpose of Republic Act No. 7652, Wisewiese Known as the “Investors’ Lease Act”"
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following its complete publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Investors’ Lease Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

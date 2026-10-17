@@ -1,7 +1,7 @@
 {
  "id": "SG-H930",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典（规定费用）条例 2013",
   "en": "Criminal Procedure Code (Prescribed Fees) Regulations 2013",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. The Criminal Procedure Code (Prescribed Fees) Regulations 2010 (G.N. No. S 799/2010) are revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure Code (Prescribed Fees) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

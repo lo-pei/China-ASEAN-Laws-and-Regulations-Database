@@ -1,7 +1,7 @@
 {
  "id": "SG-H2126",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国信托收入豁免）条例",
   "en": "Income Tax (Exemption of Income of Foreign Trusts) Regulations",
   "orig": null
  },
@@ -152,5 +152,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nPart A\n[Deleted by S 486/2021 wef 01/07/2021 wef 01/07/2021]\nPart B\n[Deleted by S 486/2021 wef 01/07/2021 wef 01/07/2021]\nPart C\nSPECIFIED INCOME IN RELATION TO INCOME DERIVED BETWEEN 21 FEBRUARY 2014 AND 18 FEBRUARY 2019 (BOTH DATES INCLUSIVE)\n1. Any income specified in Part B of the Third Schedule to the Income Tax (Exemption of Income of Prescribed Persons Arising from Funds Managed by Fund Manager in Singapore) Regulations 2010, including the income or gain mentioned in paragraph (f) of that Part.\n[S 150/2020 wef 21/02/2014]\n[S 488/2026 wef 19/02/2019]\nPart CA\nSPECIFIED INCOME IN RELATION TO INCOME\nDERIVED BETWEEN 19 FEBRUARY 2019 AND\n8 MARCH 2020 (BOTH DATES INCLUSIVE)\n1. Any income specified in Part B of the Fourth Schedule to the Income Tax (Exemption of Income of Prescribed Persons Arising from Funds Managed by Fund Manager in Singapore) Regulations 2010.\n2. Any income or gain —\n(a)derived or deemed to be derived from Singapore; and\n(b)paid out of income of a company formed under the laws of any state of the United States of America as a limited liability company, or under the laws of any other foreign country as a limited liability company or its equivalent, being income on which tax is paid or payable in Singapore.\n[S 488/2026 wef 19/02/2019]\nPart D\nSPECIFIED INCOME IN RELATION TO INCOME DERIVED BETWEEN 9 MARCH 2020 AND 18 FEBRUARY 2022 (BOTH DATES INCLUSIVE)\n1. Any income specified in Part B of the Fourth Schedule to the Income Tax (Exemption of Income of Prescribed Persons Arising from Funds Managed by Fund Manager in Singapore) Regulations 2010.\n[S 150/2020 wef 21/02/2014]\n[S 488/2026 wef 19/02/2019]\n[S 488/2026 wef 19/02/2022]\nPart E\nSPECIFIED INCOME IN RELATION TO INCOME\nDERIVED ON OR AFTER 19 FEBRUARY 2022\n1. Any income specified in Part B of the Fifth Schedule to the Income Tax (Exemption of Income of Prescribed Persons Arising from Funds Managed by Fund Manager in Singapore) Regulations 2010.\n[S 488/2026 wef 19/02/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (Exemption of Income of Foreign Trusts) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

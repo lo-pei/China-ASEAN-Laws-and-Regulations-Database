@@ -1,7 +1,7 @@
 {
  "id": "PH-H7747",
  "title": {
-  "zh": null,
+  "zh": "扩大税务上诉法院管辖权、将其层级提升为具有特别管辖权的合议法院并增加成员，为此修订第 1125 号共和国法若干条款并为其他目的法案",
   "en": "An act expanding the jurisdiction of the Court of Tax Appeals (CTA), elevating its rank to the level of a Collegiate Court with special jurisdiction and enlarging its membership, amending for the purpose certain Sections or Republic Act No. 1125, as amended, otherwise known as the Law Creating the Court of Tax Appeals, and for other purposes",
   "orig": "An act expanding the jurisdiction of the Court of Tax Appeals (CTA), elevating its rank to the level of a Collegiate Court with special jurisdiction and enlarging its membership, amending for the purpose certain Sections or Republic Act No. 1125, as amended, otherwise known as the Law Creating the Court of Tax Appeals, and for other purposes"
  },
@@ -221,5 +221,13 @@
     "en": "Effectivity Clause - This Act shall take effect after fifteen (15) days following its publication in at least (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act expanding the jurisdiction of the Court of Tax Appeals (CTA), elevating its rank to the level of a Collegiate Court with special jurisdiction and enlarging its membership, amending for the purpose certain Sections or Republic Act No. 1125, as amended, otherwise known as the Law Creating the Court of Tax Appeals, and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

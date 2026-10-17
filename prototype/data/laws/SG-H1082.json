@@ -1,7 +1,7 @@
 {
  "id": "SG-H1082",
  "title": {
-  "zh": null,
+  "zh": "淡马锡高级勋章规则 1996",
   "en": "Darjah Utama Temasek (The Order of Temasek) Rules 1996",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nRule 9.\nThe Order of Temasek\nOBVERSE\nREVERSE\nSEAL OF THE\nORDER OF TEMASEK\nSTAR OF THE ORDER OF TEMASEK"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Darjah Utama Temasek (The Order of Temasek) Rules 1996",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

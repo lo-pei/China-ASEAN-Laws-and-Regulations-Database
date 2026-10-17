@@ -1,7 +1,7 @@
 {
  "id": "SG-H2958",
  "title": {
-  "zh": null,
+  "zh": "土地业权（分层）（指定土地）公告 2014",
   "en": "Land Titles (Strata) (Designated Lands) Notification 2014",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nAll that part of Braddell View housing estate comprised in Lot numbers 4490X and 4487X in Mukim 17 and on which Apartment Blocks 10, 10A to 10H, 10J to 10N, and 10P to 10S are erected."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Land Titles (Strata) (Designated Lands) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H488",
  "title": {
-  "zh": null,
+  "zh": "关于向菲律宾童军会授予一万公顷公有农地以资助并维持该组织的法案",
   "en": "An Act Granting the Boy Scouts of the Philippines Ten Thousand Hectares of Public Agricultural Land for Additional Support and Maintenance of Said Corporation",
   "orig": "An Act Granting the Boy Scouts of the Philippines Ten Thousand Hectares of Public Agricultural Land for Additional Support and Maintenance of Said Corporation"
  },
@@ -100,5 +100,11 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act Granting the Boy Scouts of the Philippines Ten Thousand Hectares of Public Agricultural Land for Additional Support and Maintenance of Said Corporation",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

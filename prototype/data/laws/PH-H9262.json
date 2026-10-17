@@ -1,7 +1,7 @@
 {
  "id": "PH-H9262",
  "title": {
-  "zh": null,
+  "zh": "宣布每年6月23日为Bacoor市特别工作假日及学校停课日，以纪念其设市周年的法案",
   "en": "An Act Declaring June 23 of Every Year as a Special Working Holiday and No Class Day in Schools in the City of Bacoor to Commemorate Its Anniversary as a City",
   "orig": "An Act Declaring June 23 of Every Year as a Special Working Holiday and No Class Day in Schools in the City of Bacoor to Commemorate Its Anniversary as a City"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring June 23 of Every Year as a Special Working Holiday and No Class Day in Schools in the City of Bacoor to Commemorate Its Anniversary as a City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

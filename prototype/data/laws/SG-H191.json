@@ -1,7 +1,7 @@
 {
  "id": "SG-H191",
  "title": {
-  "zh": null,
+  "zh": "游乐设施安全条例 2011",
   "en": "Amusement Rides Safety Regulations 2011",
   "orig": null
  },
@@ -706,5 +706,13 @@
     "en": "SIXTH SCHEDULE\nRegulations 9(1) and 14(1)(c)\nFees\n1.Application for an installation permit —\n(a)for a major amusement ride\n$2,000.\n(b)for any other amusement ride\n$750.\n2.Application for the issue or renewal of an operating permit for a major amusement ride, for which the maximum number of patrons permitted to be carried on the amusement ride during each ride, as recommended or specified by the designer or manufacturer of the amusement ride, is —\n(a)12 or more\n$4,500.\n(b)fewer than 12\n$1,500.\n3.Application for the issue or renewal of an operating permit for any other amusement ride\n$200.\n4.Application for a modification permit —\n(a)for a major amusement ride\n$1,000.\n(b)for any other amusement ride\n$375.\n[S 925/2024 wef 30/12/2024]\n[S 650/2017 wef 01/02/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Amusement Rides Safety Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

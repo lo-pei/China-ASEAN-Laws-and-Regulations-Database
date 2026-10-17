@@ -1,7 +1,7 @@
 {
  "id": "PH-H1391",
  "title": {
-  "zh": null,
+  "zh": "修订、废止并新增条款于第 580 号共和国法（即住房融资法），使住房融资委员会能有效履行职责并纠正该法缺陷，以更切合当地特殊需要的法案",
   "en": "An Act to Amend, Repeal, and Add New Sections to Republic Act Numbered Five Hundred Eighty, Otherwise Known as the Home Financing Act, to Enable the Home Financing Commission Carry Out its Functions Effectively and to Correct the Deficiencies of the Act in Order to Make it More Responsive to Peculiar Local Needs and Requirements",
   "orig": "An Act to Amend, Repeal, and Add New Sections to Republic Act Numbered Five Hundred Eighty, Otherwise Known as the Home Financing Act, to Enable the Home Financing Commission Carry Out its Functions Effectively and to Correct the Deficiencies of the Act in Order to Make it More Responsive to Peculiar Local Needs and Requirements"
  },
@@ -414,5 +414,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend, Repeal, and Add New Sections to Republic Act Numbered Five Hundred Eighty, Otherwise Known as the Home Financing Act, to Enable the Home Financing Commission Carry Out its Functions Effectively and to Correct the Deficiencies of the Act in Order to Make it More Responsive to Peculiar Local Needs and Requirements",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

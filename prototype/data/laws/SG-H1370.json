@@ -1,7 +1,7 @@
 {
  "id": "SG-H1370",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（殡仪馆）条例",
   "en": "Environmental Public Health (Funeral Parlours) Regulations",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "11. A person who contravenes or fails to comply with any of the provisions of these Regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000.\n[G.N. No.S 281/73]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Public Health (Funeral Parlours) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3547",
  "title": {
-  "zh": null,
+  "zh": "将奎松省 Lucban 市镇的菲律宾工匠学校与 Lucban 市镇初级中学合并为国立中学，并划拨第 3530 号共和国法授权的一十五万比索予该校",
   "en": "An Act Merging the School for Philippine Craftsmen and the Lucban Municipal Junior High School, Both in the Municipality of Lucban, Province of Quezon, into a National High School and Transferring Thereto the Sum of One Hundred Fifty Thousand Pesos Authorized to be Appropriated Under Republic Act Numbered Thirty-Five Hundred and Thirty",
   "orig": "An Act Merging the School for Philippine Craftsmen and the Lucban Municipal Junior High School, Both in the Municipality of Lucban, Province of Quezon, into a National High School and Transferring Thereto the Sum of One Hundred Fifty Thousand Pesos Authorized to be Appropriated Under Republic Act Numbered Thirty-Five Hundred and Thirty"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Merging the School for Philippine Craftsmen and the Lucban Municipal Junior High School, Both in the Municipality of Lucban, Province of Quezon, into a National High School and Transferring Thereto the Sum of One Hundred Fifty Thousand Pesos Authorized to be Appropriated Under Republic Act Numbered Thirty-Five Hundred and Thirty",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

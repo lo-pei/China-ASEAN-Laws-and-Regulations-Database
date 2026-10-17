@@ -1,7 +1,7 @@
 {
  "id": "SG-H372",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（须报告事项）条例 2025",
   "en": "Building Control (Reportable Matters) Regulations 2025",
   "orig": null
  },
@@ -175,5 +175,13 @@
     "en": "SECOND SCHEDULE\nRegulation 4\nReportable safety incidents\nPart 1\nLIFTS\n1.An individual dies or is injured because of an incident associated with a lift’s operation.\n2.The main drive system of a lift fails due to a reason other than the failure of the main power system of the lift.\n3.The suspension rope of a lift breaks.\n4.A lift brake fails.\n5.An energy‑dissipating or energy‑accumulating buffer fails.\n6.An interlocking device for any door of the hoistway of a lift or a lift car (including any landing door, car door or emergency access door) fails.\n7.Fire outbreak, or smoke emitted, from any part of the lift system.\n8.Lift car over‑travelling to or beyond highest or lowest floor.\n9.Lift car building up speed continuously before an abrupt stop upon impact.\n10.Lift car travelling above its normal speed or at risk of doing so.\n11.Abnormal noise from an object falling on top of a lift car or lift pit or striking against the lift car.\n12.Abnormal entanglement of wire ropes.\n13.Lift car ascending or falling suddenly in an uncontrolled manner.\n14.Major damage or dislodgment of lift car cage, ceiling, false ceiling, car door or landing door.\nPart 2\nESCALATORS\n1.An individual dies or is injured because of an incident associated with an escalator’s operation.\n2.The main drive system, handrail drive system or step drive system of an escalator fails, other than because of a failure of the escalator’s main power system.\n3.A brake or auxiliary brake of an escalator fails.\n4.Fire outbreak, or smoke emitted, from any part of the escalator system.\n5.Upriding escalator suddenly reversing direction.\n6.Escalator travelling at excessive speed.\n7.Tilting, flipping, or collapsed escalator step.\n8.Stoppage or excessive slippage of handrail.\n9.Broken balustrade glass panel.\nPart 3\nMECHANISED CAR PARKING SYSTEM\n1.An individual dies or is injured because of an incident associated with the mechanised car parking system’s operation.\n2.A brake of the mechanised car parking system fails.\n3.A device connected to the safety circuit of the mechanised car parking system fails.\nPart 4\nEXTERIOR FEATURE OF BUILDING\n1.An individual dies or is injured because of an incident associated with the condition of the exterior feature.\n2.Dislodgment of an exterior feature or any part of an exterior feature where any property (other than the exterior feature itself) is damaged because of an incident associated with the condition of the exterior feature."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building Control (Reportable Matters) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

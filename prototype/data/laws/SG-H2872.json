@@ -1,7 +1,7 @@
 {
  "id": "SG-H2872",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（东南亚教育部长组织）命令 1971",
   "en": "International Organisations (Immunities and Privileges) (Southeast Asian Ministers of Education Organization) Order 1971",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) Officials of the Organization who are part of the International Staff of the Organization and whose names are communicated to and approved by the Government enjoy exemption from income tax in respect of emoluments received by them as officials of the Organization.\n(2) In this Order, “officials of the Organization” includes experts and consultants performing missions for the Organization."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "International Organisations (Immunities and Privileges) (Southeast Asian Ministers of Education Organization) Order 1971",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

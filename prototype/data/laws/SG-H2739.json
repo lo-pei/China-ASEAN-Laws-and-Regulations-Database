@@ -1,7 +1,7 @@
 {
  "id": "SG-H2739",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）命令 2019",
   "en": "Infrastructure Protection (Protected Places) Order 2019",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nFirst Column\nSecond Column\nThe Authority\nProtected Place\nChief Executive,\nSMRT Trains,\nSMRT Corporation Ltd\nLRT BUKIT PANJANG DEPOT\nAll that area comprised in Airspace Lot 70000P in Mukim No. 11 occupied by “LRT BUKIT PANJANG DEPOT” containing an area of about 19,927.6 square metres and bounded approximately as follows:\nCommencing at the northernmost corner at a point 40,334.324 metres North and 19,843.508 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n40,334.324\n19,843.508\n40,330.335\n19,855.488\n40,208.566\n19,916.542\n40,196.265\n19,912.746\n40,175.565\n19,871.376\n40,171.118\n19,862.489\n40,179.450\n19,858.319\n40,309.195\n19,793.380\nto the point of commencement.\nThe boundaries of “LRT BUKIT PANJANG DEPOT” are more particularly delineated in the Plan set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) Order 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

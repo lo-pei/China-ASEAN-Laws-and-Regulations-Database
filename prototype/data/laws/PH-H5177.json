@@ -1,7 +1,7 @@
 {
  "id": "PH-H5177",
  "title": {
-  "zh": null,
+  "zh": "将巴拉望省利纳帕坎市镇的名称变更为Gaudencio E. Abordo市镇的法案",
   "en": "An Act Changing the Name of the Municipality of Linapacan, Province of Palawan, to Municipality of Gaudencio E. Abordo",
   "orig": "An Act Changing the Name of the Municipality of Linapacan, Province of Palawan, to Municipality of Gaudencio E. Abordo"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval by a majority of votes cast in a plebiscite to be conducted in accordance with law."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Municipality of Linapacan, Province of Palawan, to Municipality of Gaudencio E. Abordo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

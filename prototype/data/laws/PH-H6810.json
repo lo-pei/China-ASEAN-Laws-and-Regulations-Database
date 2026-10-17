@@ -1,7 +1,7 @@
 {
  "id": "PH-H6810",
  "title": {
-  "zh": null,
+  "zh": "修订 Calbayog 市宪章的法案",
   "en": "An Act To Revise the Charter of the City of Calbayog",
   "orig": "An Act Amending Section Eleven of Republic Act Numbered Three Thousand Two Hundred Seventy-nine, Otherwise Known As \"An Act To Revise the Charter of the City of Calbayog\""
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon publication in at least two (2) newspapers of national circulation.\nApproved, July 11, 1997."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act To Revise the Charter of the City of Calbayog",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

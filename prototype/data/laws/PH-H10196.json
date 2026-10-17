@@ -1,7 +1,7 @@
 {
  "id": "PH-H10196",
  "title": {
-  "zh": null,
+  "zh": "2015 年青年议会改革法",
   "en": "SanguniangKabataan Reform Act of 2015",
   "orig": "An Act Strengthening the Sanguniang Kabataan, Institutionalizing Additional Reforms to Revitalize Youth Participation in Local Governance and by Providing Honorarium, Other Benefits and Privileges, Amending for the Purpose Certain Sections of Republic Act No. 10742, Otherwise Known as the \"SanguniangKabataan Reform Act of 2015\""
  },
@@ -181,14 +181,15 @@
    }
   },
   {
-   "id": "PH-H10196-A8_2",
+   "id": "PH-H10196-A8-d2",
    "no": 8,
    "noLabel": {
     "en": "Section 8."
    },
    "text": {
     "en": "Section 22 of the same Act is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10196-A22",
@@ -221,14 +222,15 @@
    }
   },
   {
-   "id": "PH-H10196-A10_2",
+   "id": "PH-H10196-A10-d2",
    "no": 10,
    "noLabel": {
     "en": "Section 10."
    },
    "text": {
     "en": "SEC. 25 of the same Act is hereby amended to read as follows:\n\"SEC. 26. Creation. - There shall be in every province, city, and municipality a Youth Development Office which shall be headed by a youth development officer with the rank of at least division chief. Such may be put under the Office of the Local Chief Executive, the Office of the Planning and Development, the Office of the Social Welfare, or in any other office deemed appropriate by the local government unit. If the funds of the locl government units are sufficient, it can be a separate department with division and units for policy and planning, administration and finance, and programs and operations. In the event when the local govenrment unit has exceeded the prescribed personal services limitations, the local chief executive may designate exiting personnel deemed fit to serve this purpose: Provided, That a local youth development officer shall be appointed within one (1) year from the effectivity of this Act.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10196-A11",
@@ -271,24 +273,26 @@
    }
   },
   {
-   "id": "PH-H10196-A15_2",
+   "id": "PH-H10196-A15-d2",
    "no": 15,
    "noLabel": {
     "en": "Section 15."
    },
    "text": {
     "en": "Separability Clause. - If any provision of this Act is declared invalid or unconstitutional, the other provisions not affected thereby shall continue to be in full force and effect."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H10196-A16_2",
+   "id": "PH-H10196-A16-d2",
    "no": 16,
    "noLabel": {
     "en": "Section 16."
    },
    "text": {
     "en": "Repealing Clause. - All laws, decrees, executive orders or rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10196-A17",
@@ -300,5 +304,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "SanguniangKabataan Reform Act of 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3548",
  "title": {
-  "zh": null,
+  "zh": "规划（企业区——备案授权）公告 2020",
   "en": "Planning (Enterprise District — Lodgment Authorisation) Notification 2020",
   "orig": null
  },
@@ -126,5 +126,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nJURONG INNOVATION DISTRICT\nPUNGGOL DIGITAL DISTRICT"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Planning (Enterprise District — Lodgment Authorisation) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

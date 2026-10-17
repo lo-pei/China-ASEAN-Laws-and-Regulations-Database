@@ -1,7 +1,7 @@
 {
  "id": "SG-H418",
  "title": {
-  "zh": null,
+  "zh": "第 27(1)(d) 条下各项指示的撤销",
   "en": "Cancellation of Directions under Section 27(1)(d)",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Companies Act\n(Chapter 50)\nCancellation of Directions\nunder Section 27(1)(d)\nIn exercise of the powers conferred by section 27(1)( d) of the Companies Act, the Minister for Finance hereby cancels, with effect from 16th May 2008, the direction given to the Registrar of Companies not to accept for registration under the Act —\n(a)the name “The Esplanade — Theatres on the Bay”; and\n(b)any company name containing the word “Treasury” other than in respect of a registration of an entity by the Ministry of Finance or any person duly authorised by it."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Cancellation of Directions under Section 27(1)(d)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

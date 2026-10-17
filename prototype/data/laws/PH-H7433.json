@@ -1,7 +1,7 @@
 {
  "id": "PH-H7433",
  "title": {
-  "zh": null,
+  "zh": "将巴拉望省普林塞萨港市副区工程办公室重新划为正式工程区办公室，名称为巴拉望第三工程区",
   "en": "An Act Reclassifying the Sub-District Engineering Office in the City of Puerto Princesa, Province of Palawan, into a Regular Engineering District Office to be known as the Third Engineering District of Palawan",
   "orig": "An Act Reclassifying the Sub-District Engineering Office in the City of Puerto Princesa, Province of Palawan, into a Regular Engineering District Office to be known as the Third Engineering District of Palawan"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reclassifying the Sub-District Engineering Office in the City of Puerto Princesa, Province of Palawan, into a Regular Engineering District Office to be known as the Third Engineering District of Palawan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

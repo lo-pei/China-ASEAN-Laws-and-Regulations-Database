@@ -1,7 +1,7 @@
 {
  "id": "PH-H10595",
  "title": {
-  "zh": null,
+  "zh": "理顺摩托车运营相关安全措施与处罚，为此修订第 11235 号共和国法（即「摩托车犯罪预防法」）的法案",
   "en": "An Act Rationalizing the Safety Measures and Penalties Relative to the Operation of Motorcycles, Amending for the Purpose Republic Act No. 11235, Otherwise Known as the ‘Motorcycle Crime Prevention Act’",
   "orig": "An Act Rationalizing the Safety Measures and Penalties Relative to the Operation of Motorcycles, Amending for the Purpose Republic Act No. 11235, Otherwise Known as the ‘Motorcycle Crime Prevention Act’"
  },
@@ -101,14 +101,15 @@
    }
   },
   {
-   "id": "PH-H10595-A4_2",
+   "id": "PH-H10595-A4-d2",
    "no": 4,
    "noLabel": {
     "en": "Section 4."
    },
    "text": {
     "en": "Section 11 of Republic Act No. 11235 is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10595-A11",
@@ -121,14 +122,15 @@
    }
   },
   {
-   "id": "PH-H10595-A5_2",
+   "id": "PH-H10595-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Section 5."
    },
    "text": {
     "en": "Section 12 of Republic Act No. 11235 is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10595-A12",
@@ -161,14 +163,15 @@
    }
   },
   {
-   "id": "PH-H10595-A7_2",
+   "id": "PH-H10595-A7-d2",
    "no": 7,
    "noLabel": {
     "en": "Section 7."
    },
    "text": {
     "en": "Section 19 of Republic Act No. 11235 is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10595-A19",
@@ -210,5 +213,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Rationalizing the Safety Measures and Penalties Relative to the Operation of Motorcycles, Amending for the Purpose Republic Act No. 11235, Otherwise Known as the ‘Motorcycle Crime Prevention Act’",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

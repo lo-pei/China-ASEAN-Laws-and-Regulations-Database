@@ -1,7 +1,7 @@
 {
  "id": "PH-H10050",
  "title": {
-  "zh": null,
+  "zh": "将布拉干省圣何塞德尔蒙特市圣曼努埃尔描笼涯的San Manuel中学更名为San Manuel国立中学的法案",
   "en": "An Act Changing the Name of San Manuel High School in Barangay San Manuel, City of San Jose Del Monte, Province of Bulacan, to San Manuel National High School",
   "orig": "An Act Changing the Name of San Manuel High School in Barangay San Manuel, City of San Jose Del Monte, Province of Bulacan, to San Manuel National High School"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of San Manuel High School in Barangay San Manuel, City of San Jose Del Monte, Province of Bulacan, to San Manuel National High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

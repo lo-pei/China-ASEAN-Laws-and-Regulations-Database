@@ -1,7 +1,7 @@
 {
  "id": "SG-H3055",
  "title": {
-  "zh": null,
+  "zh": "维护种族和谐（文件送达）条例 2026",
   "en": "Maintenance of Racial Harmony (Service of Documents) Regulations 2026",
   "orig": null
  },
@@ -166,5 +166,13 @@
     "en": "8. Service of a document takes effect —\n(a)if the document is sent by registered post — 2 days after the date on which the document was posted (even if it is returned undelivered);\n(b)if the document is sent by fax and a notification of successful transmission is received — on the day of transmission;\n(c)if the document is sent by email — at the time that the email becomes capable of being retrieved by the person to whom it is sent;\n(d)if the document is posted on a website mentioned in regulation 7(1)(c)(i) — at the beginning of the day after the date on which the document was posted; or\n(e)if the document is sent to an account on social media mentioned in regulation 7(1)(c)(ii) — at the beginning of the day after the date on which the document was sent."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Maintenance of Racial Harmony (Service of Documents) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1827",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 4 号）命令 2026",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 4) Order 2026",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Ho Ching Road, Corporation Drive, Tah Ching Road, Yuan Ching Road and Tao Ching Road, comprised in Lot number 03042N in Mukim 06 and on which Apartment Block 115 is erected, and in Lot number 02920C in Mukim 06 and on which Apartment Blocks 321, 322, 323, 324, 325, 326, 327, 328, 329 and 330 are erected, which blocks are each marked with a grey dot in Plan 1.\nPLAN 1\nHO CHING ROAD / TAH CHING ROAD\n2. All that part of the housing estate of the Board bounded by Pasir Ris Drive 4, Pasir Ris Drive 3 and Pasir Ris Street 21, comprised in Lot number 05311L in Mukim 31 and on which Apartment Blocks 231, 232, 233 and 234 are erected, in Lot number 05318A in Mukim 31 and on which Apartment Blocks 235, 236, 237, 238, 239, 240 and 241 are erected, and in Lot number 05320T in Mukim 31 and on which Apartment Blocks 242, 243, 244, 245, 246, 247, 248, 249, 250 and 251 are erected, which blocks are each marked with a grey dot in Plan 2.\nPLAN 2\nPASIR RIS DRIVE 4 / PASIR RIS STREET 21\n3. All that part of the housing estate of the Board bounded by Tah Ching Road, Yuan Ching Road and Kang Ching Road, comprised in Lot number 02970W in Mukim 06 and on which Apartment Blocks 331, 332, 333, 334, 335 and 336 are erected, which blocks are each marked with a grey dot in Plan 3.\nPLAN 3\nTAH CHING ROAD / KANG CHING ROAD"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 4) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

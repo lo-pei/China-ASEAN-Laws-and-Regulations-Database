@@ -1,7 +1,7 @@
 {
  "id": "SG-H2547",
  "title": {
-  "zh": null,
+  "zh": "所得税（Total Engine 资产管理私人有限公司——第 13(4) 条豁免）公告 2024",
   "en": "Income Tax (Total Engine Asset Management Pte. Ltd. — Section 13(4) Exemption) Notification 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest of US$35,586.18 payable by Total Engine Asset Management Pte. Ltd. to TEAM United Kingdom 01 Limited during the period from 19 August 2022 to 29 March 2024 (both dates inclusive) in respect of the loan amount of US$350,000 under the loan agreement dated 29 March 2019 between Total Engine Asset Management Pte. Ltd. and TEAM United Kingdom 01 Limited for financing the purchase of 2 aircraft engines bearing the manufacturer’s serial numbers ESN 59B010 and ESN 599515, respectively, is exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter from the Ministry of Finance dated 23 October 2024 and addressed to KPMG Services Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Total Engine Asset Management Pte. Ltd. — Section 13(4) Exemption) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

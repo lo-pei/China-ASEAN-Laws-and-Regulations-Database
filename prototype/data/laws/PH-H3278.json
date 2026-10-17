@@ -1,7 +1,7 @@
 {
  "id": "PH-H3278",
  "title": {
-  "zh": null,
+  "zh": "授予 Dagupan 电力公司在 Dagupan 市建设、设立和运营私人固定陆基与陆上移动无线电台的许可法案",
   "en": "An Act Granting the Dagupan Electric Corporation a Permit to Construct, Establish, and Operate Private Fixed Land-Based Land-Mobile Radio Stations for Reception and Transmission of Radio Communications in Dagupan City",
   "orig": "An Act Granting the Dagupan Electric Corporation a Permit to Construct, Establish, and Operate Private Fixed Land-Based Land-Mobile Radio Stations for Reception and Transmission of Radio Communications in Dagupan City"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Dagupan Electric Corporation a Permit to Construct, Establish, and Operate Private Fixed Land-Based Land-Mobile Radio Stations for Reception and Transmission of Radio Communications in Dagupan City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

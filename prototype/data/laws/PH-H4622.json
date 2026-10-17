@@ -1,7 +1,7 @@
 {
  "id": "PH-H4622",
  "title": {
-  "zh": null,
+  "zh": "统一国民政府预算组人员薪金并更改预算业务处特定人员的职衔",
   "en": "An Act Standardizing the Salaries of the Personnel Constituting the Budgeting Group in the National Government and Changing the Designations of Certain Personnel in the Budget Operations Service",
   "orig": "An Act Standardizing the Salaries of the Personnel Constituting the Budgeting Group in the National Government and Changing the Designations of Certain Personnel in the Budget Operations Service"
  },
@@ -90,5 +90,13 @@
     "en": "Effective Date. — This Act shall take effect upon its approval.\nEnacted without executive approval, Aug. 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Standardizing the Salaries of the Personnel Constituting the Budgeting Group in the National Government and Changing the Designations of Certain Personnel in the Budget Operations Service",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

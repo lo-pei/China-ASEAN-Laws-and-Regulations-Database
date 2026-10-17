@@ -1,7 +1,7 @@
 {
  "id": "PH-H632",
  "title": {
-  "zh": null,
+  "zh": "修订第 296 号共和国法（即 1948 年《司法法》）第 90 条与《菲律宾法院规则》第 93 条第 1 条的法案",
   "en": "An Act to Amend Section Ninety of Republic Act Numbered Two Hundred and Ninety-six, Otherwise Known as the Judiciary Act of Nineteen Hundred and Forty-eight, and Section One of Rule Ninety-three of the Rules of Court in the Philippines",
   "orig": "An Act to Amend Section Ninety of Republic Act Numbered Two Hundred and Ninety-six, Otherwise Known as the Judiciary Act of Nineteen Hundred and Forty-eight, and Section One of Rule Ninety-three of the Rules of Court in the Philippines"
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H632-A1_2",
+   "id": "PH-H632-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Where to institute proceedings. -Guardianship of the person or estate of a minor or incompetent shall be originally cognizable by the Court of First Instance of the province where the minor or incompetent resides, and if he resides in a foreign country, by the Court of First Instance of the province wherein his property or part thereof is situated: Provided, however, That the justice of the peace courts or municipal courts of chartered cities shall have concurrent jurisdiction with the court of first instance in cases where the value of the property of such minor or incompetent falls within the jurisdiction of the latter courts.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H632-A3",
@@ -100,5 +101,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 12, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Ninety of Republic Act Numbered Two Hundred and Ninety-six, Otherwise Known as the Judiciary Act of Nineteen Hundred and Forty-eight, and Section One of Rule Ninety-three of the Rules of Court in the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

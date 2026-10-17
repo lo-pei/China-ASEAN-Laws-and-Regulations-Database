@@ -1,7 +1,7 @@
 {
  "id": "PH-H5048",
  "title": {
-  "zh": null,
+  "zh": "批准苏萨诺·B·马克西洛姆依第3232号共和国法享有的全部权利转让给东方广播公司的法案",
   "en": "An Act Approving the Transfer of All Rights of Susano B. Maxilom Under Republic Act Numbered Thirty-Two Hundred Thirty-Two, in Favor of Eastern Broadcasting Corporation.",
   "orig": "An Act Approving the Transfer of All Rights of Susano B. Maxilom Under Republic Act Numbered Thirty-Two Hundred Thirty-Two, in Favor of Eastern Broadcasting Corporation."
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 26, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Approving the Transfer of All Rights of Susano B. Maxilom Under Republic Act Numbered Thirty-Two Hundred Thirty-Two, in Favor of Eastern Broadcasting Corporation.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

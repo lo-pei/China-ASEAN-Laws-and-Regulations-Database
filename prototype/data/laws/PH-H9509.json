@@ -1,7 +1,7 @@
 {
  "id": "PH-H9509",
  "title": {
-  "zh": null,
+  "zh": "将横贯Panglao市镇Tangnan等8个描笼涯的Panglao岛环岛公路重新命名的法案",
   "en": "An Act Renaming Panglao Island Circumferential Road Traversing Barangays Tangnan, Bil-Isan, Looc, Poblacion, Danao, Tawala, Bolod and Libaong in the Municipality of Panglao and Barangays...",
   "orig": "An Act Renaming Panglao Island Circumferential Road Traversing Barangays Tangnan, Bil-Isan, Looc, Poblacion, Danao, Tawala, Bolod and Libaong in the Municipality of Panglao and Barangays..."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after the completion of its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming Panglao Island Circumferential Road Traversing Barangays Tangnan, Bil-Isan, Looc, Poblacion, Danao, Tawala, Bolod and Libaong in the Municipality of Panglao and Barangays...",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5449",
  "title": {
-  "zh": null,
+  "zh": "在菲律宾各省设立省级科学技术中心并为其拨款的法案",
   "en": "An Act Establishing Provincial Centers for Science and Technology in all Provinces of the Philippines and Appropriating Funds Therefore",
   "orig": "An Act Establishing Provincial Centers for Science and Technology in all Provinces of the Philippines and Appropriating Funds Therefore"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing Provincial Centers for Science and Technology in all Provinces of the Philippines and Appropriating Funds Therefore",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

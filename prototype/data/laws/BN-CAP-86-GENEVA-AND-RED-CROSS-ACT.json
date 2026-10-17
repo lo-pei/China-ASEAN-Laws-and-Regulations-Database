@@ -1,0 +1,80 @@
+{
+ "id": "BN-CAP-86-GENEVA-AND-RED-CROSS-ACT",
+ "title": {
+  "zh": "日内瓦与红十字法",
+  "en": "GENEVA AND RED CROSS ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p24",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to control the use of the heraldic emblems of the Red 6 of 1938"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 2809,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-86-GENEVA-AND-RED-CROSS-ACT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-86-GENEVA-AND-RED-CROSS-ACT.pdf》（4 页），本次切分 2 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-86-GENEVA-AND-RED-CROSS-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "heading": {
+    "en": "Short title"
+   },
+   "text": {
+    "en": "This Act may be cited as the Geneva and Red Cross Short title Act."
+   }
+  },
+  {
+   "id": "BN-CAP-86-GENEVA-AND-RED-CROSS-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "designs"
+   },
+   "text": {
+    "en": "(1) It shall not be lawful for any person without the Prohibition authority of His Majesty the Sultan and Yang Di-Pertuan to of use of emblem and use for the purpose of his trade or business or for any other certain words purpose whatsoever -,.. and designs\n\n(a) the heraldic emblen1 of the red cross on a white ground formed by reversing the Federal colours of Switzerland, or the words \"Red Cross\" or \"Geneva Cross\"; or\n\n(b) any design being a colourable imitation of the said emblem or any words so nearly resembling the words \"Red Cross\" or \"Geneva Cross\" as to be capable of being understood as referring to the said emblem; or\n\n(c) any design consisting of a white or silver cross on a red ground, none of the limbs of which extends to the margin of the ground, being the cross comprised in the Arms of the Swiss Confederation; or\n\n(d) any design being a colourable imitation of the design mentioned in the last foregoing paragraph.\n\n(2) If any person contravenes the provisions of this section, he shall, subject as hereafter provided, be guilty of B.L.R.O.J/1984 4 CAP. 86 Geneva and Red Cross an offence: Penalty, a fine of $1,000 and any goods upon or in connection with which the emblem, design or words were used forfeited.\n\n(3) Nothing in this section shall apply to a trade mark which before the 23rd day of December, 1931, was registered in the United Kingdon1 or lawfully used in Brunei - and which consists of or contains any such design as is mentioned in paragraph (c) or paragraph (d) of subsection (1) of this section; and where a person is charged with using such a design for any purpose and it is proved that he used it otherwise than as or as part of a trade mark registered or lawfully used as aforesaid it shall be a defence for hin1 to prove -\n\n(a) that before the said 23rd day of Decen1ber 1931 he lawfully used that design for that purpose in the United Kingdom or in Brunei; or\n\n(b) in a case where he is charged with using the design upon goods, that the design has been applied to the goods before he acquired them by some other person who had manufactured or dealt with the goods in the course of trade, and that that other person lawfully used the design in the United Kingdom br in Brunei upon similar goods before the said 23rd day of December 1931.\n\n(4) When an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of ·any director, manager, secretary or other officer of the body corporate, he as well as the body corporate shall be deemed to be guilty of an offence and shall be liable to be proceeded against and punished accordingly.\n\n(5) Proceedings under this Act shall not be instituted - without the consent of the Attorney General."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "GENEVA AND RED CROSS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "PH-H105",
  "title": {
-  "zh": null,
+  "zh": "规定自菲律宾共和国宣告之日起，现有菲律宾国会称为菲律宾共和国第一届国会并为其他目的",
   "en": "An Act to Provide That as of the Date of the Proclamation of the Republic of the Philippines the Present Congress of the Philippines Shall Be Known as the First Congress of the Republic of the Philippines, and for Other Purposes",
   "orig": "An Act to Provide That as of the Date of the Proclamation of the Republic of the Philippines the Present Congress of the Philippines Shall Be Known as the First Congress of the Republic of the Philippines, and for Other Purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect as of July four, nineteen hundred and forty-six.\nApproved: August 5, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide That as of the Date of the Proclamation of the Republic of the Philippines the Present Congress of the Philippines Shall Be Known as the First Congress of the Republic of the Philippines, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

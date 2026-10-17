@@ -1,7 +1,7 @@
 {
  "id": "PH-H3733",
  "title": {
-  "zh": null,
+  "zh": "修订第4041号共和国法第6条的法案",
   "en": "An Act Amending Section Six of Republic Act Numbered Forty Hundred Forty-One",
   "orig": "An Act Amending Section Six of Republic Act Numbered Forty Hundred Forty-One"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Six of Republic Act Numbered Forty Hundred Forty-One",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

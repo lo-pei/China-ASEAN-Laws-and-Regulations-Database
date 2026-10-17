@@ -1,7 +1,7 @@
 {
  "id": "BN-S-31-1991-E-CONSTITUTION-OF-UNIVERSITI-BRUNEI-DARUSSA-BBE6FF",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰大学章程修正命令 1991",
   "en": "CONSTITUTION OF UNIVERSITI BRUNEI DARUSSALAM AMENDMENT ORDER 1991",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "No. S 31\n\nCORRIGENDUM\n\nCONSTITUTION OF UNIVERSITI BRUNEI DARUSSALAM (AMENDMENT) ORDER, 1991 In the English version of the Constitution of Universiti Brunei Darussalam (Amendment) Order, 1991 published in the Government Gazette Part II No. 17 on 30th. September, 1991 at page 395 in the marginal note, the words and figure \"Amendment of section 4\" should read \"Amendment of section 15\"."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CONSTITUTION OF UNIVERSITI BRUNEI DARUSSALAM AMENDMENT ORDER 1991",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

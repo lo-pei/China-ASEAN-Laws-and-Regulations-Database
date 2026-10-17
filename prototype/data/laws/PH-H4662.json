@@ -1,7 +1,7 @@
 {
  "id": "PH-H4662",
  "title": {
-  "zh": null,
+  "zh": "规定科学研究激励措施并为自然科学研究中心运作提供资金，为此修订第3887号共和国法第5条与第8条的法案",
   "en": "An Act Providing Incentives for Science Research and Funds for the Operation of the Natural Science Research Center, Amending for the Purpose Sections Five and Eight of Republic Act Numbered Three Thousand Eight Hundred and Eighty-Seven",
   "orig": "An Act Providing Incentives for Science Research and Funds for the Operation of the Natural Science Research Center, Amending for the Purpose Sections Five and Eight of Republic Act Numbered Three Thousand Eight Hundred and Eighty-Seven"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved. August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing Incentives for Science Research and Funds for the Operation of the Natural Science Research Center, Amending for the Purpose Sections Five and Eight of Republic Act Numbered Three Thousand Eight Hundred and Eighty-Seven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

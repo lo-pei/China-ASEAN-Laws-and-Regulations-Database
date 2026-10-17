@@ -1,7 +1,7 @@
 {
  "id": "PH-H7943",
  "title": {
-  "zh": null,
+  "zh": "2007 年反狂犬病法",
   "en": "Anti-Rabies Act of 2007",
   "orig": "Anti-Rabies Act of 2007 An Act Providing for the Control and Elimination of Human and Animal Rabies, Prescribing Penalties for Violation Thereof and Appropriating Funds Therefor"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two newspapers of general circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Anti-Rabies Act of 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

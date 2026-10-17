@@ -1,7 +1,7 @@
 {
  "id": "SG-H346",
  "title": {
-  "zh": null,
+  "zh": "建设局（罪行构成）条例 2011",
   "en": "Building and Construction Authority (Composition of Offences) Regulations 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded in accordance with section 34C of the Act by the Chief Executive, or an officer of the Authority duly authorised by the Chief Executive to do so:\n(a)an offence under section 31D(3) (other than a continuing offence), 31E(6), 31H(8), 31I(6), 31J(5), 31M(4) or 31Q(2), (5), (8), (9) or (10) of the Act; and\n(b)an offence under regulation 19(3), 22(7) or 35 of the Building and Construction Authority (Importers’ Licensing) Regulations 2011 (G.N. No. S 122/2011)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building and Construction Authority (Composition of Offences) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-59-1984-BUFFALOES-ACT",
  "title": {
-  "zh": null,
+  "zh": "水牛法",
   "en": "Buffaloes Act",
   "orig": null
  },
@@ -150,5 +150,13 @@
     "en": "(1) It shall be lawful for His Majesty in Council from time to time to make and publish rules not inconsistent with may make the general purposes of this Act and when made cancel, vary or extend the same.\n\n(2) Such rules may provide among other things for\n\n(a) the imposition and collection of inspection and slaughtering fees; _.·\n\n(b) the control of the slaughter of cattle;\n\n(c) the fixing of penalties for contraventions of any rules made under this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Buffaloes Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

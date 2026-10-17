@@ -1,7 +1,7 @@
 {
  "id": "PH-H9765",
  "title": {
-  "zh": null,
+  "zh": "传染病报告法",
   "en": "Law on Reporting of Communicable Diseases",
   "orig": "An Act Providing Policies and Prescribing Procedures on Surveillance and Response to Notifiable Diseases, Epidemics, and Health Events of Public Health Concern, and Appropriating Funds Therefor, Repealing for the Purpose Act No. 3573, Otherwise Known as the “Law on Reporting of Communicable Diseases”"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity. -This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Law on Reporting of Communicable Diseases",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

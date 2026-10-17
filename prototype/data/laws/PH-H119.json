@@ -1,7 +1,7 @@
 {
  "id": "PH-H119",
  "title": {
-  "zh": null,
+  "zh": "修订《修订行政法典》第1256条、第1395条(c)小节与第1398条的法案",
   "en": "An Act to Amend Sections Twelve Hundred and Fifty-Six, Thirteen Hundred and Ninety-Five, Subsection (c), and Thirteen Hundred and Ninety-Eight of the Revised Administrative Code",
   "orig": "An Act to Amend Sections Twelve Hundred and Fifty-Six, Thirteen Hundred and Ninety-Five, Subsection (c), and Thirteen Hundred and Ninety-Eight of the Revised Administrative Code"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 25, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Twelve Hundred and Fifty-Six, Thirteen Hundred and Ninety-Five, Subsection (c), and Thirteen Hundred and Ninety-Eight of the Revised Administrative Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1971",
  "title": {
-  "zh": null,
+  "zh": "所得税（股息优惠税率—飞机租赁公司）命令 2020",
   "en": "Income Tax (Concessionary Rate of Tax on Dividends — Aircraft Leasing Company) Order 2020",
   "orig": null
  },
@@ -103,5 +103,11 @@
     "en": "5. The Income Tax (Concessionary Rate of Tax on Dividends — Aircraft Leasing Company) Order 2008 (G.N. No. S 567/2008) is revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Income Tax (Concessionary Rate of Tax on Dividends — Aircraft Leasing Company) Order 2020",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7858",
  "title": {
-  "zh": null,
+  "zh": "重新界定“退伍军人”一语，为此进一步修订经修正的第 6948 号共和国法",
   "en": "An Act Redefining the term \"Veteran\" thereby amending Further Republic Act No. 6948, as amended",
   "orig": "An Act Redefining the term \"Veteran\" thereby amending Further Republic Act No. 6948, as amended"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following its publication in at least two national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Redefining the term \"Veteran\" thereby amending Further Republic Act No. 6948, as amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

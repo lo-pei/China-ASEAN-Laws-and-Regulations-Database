@@ -1,7 +1,7 @@
 {
  "id": "PH-H7536",
  "title": {
-  "zh": null,
+  "zh": "宣布每年11月5日为“Ormoc市纪念日”，即Ormoc市常规工作假日，以纪念1991年11月5日惨剧的法案",
   "en": "An Act Declaring November 5 of Every Year as \"Remembrance Day in Ormoc City,\" a Regular Working Holiday in Ormoc City, to Commemorate the November 5,1991 Tragedy",
   "orig": "An Act Declaring November 5 of Every Year as \"Remembrance Day in Ormoc City,\" a Regular Working Holiday in Ormoc City, to Commemorate the November 5,1991 Tragedy"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring November 5 of Every Year as \"Remembrance Day in Ormoc City,\" a Regular Working Holiday in Ormoc City, to Commemorate the November 5,1991 Tragedy",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

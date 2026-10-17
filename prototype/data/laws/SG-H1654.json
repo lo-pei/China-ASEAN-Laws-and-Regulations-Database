@@ -1,7 +1,7 @@
 {
  "id": "SG-H1654",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（航空业——类别许可）命令 2025",
   "en": "Guns, Explosives and Weapons Control (Aviation Industry — Class Licence) Order 2025",
   "orig": null
  },
@@ -166,5 +166,13 @@
     "en": "8. A class licensee by virtue of paragraph 7 may possess, and import and export, any controlled item of the aircraft subject to all the following conditions:\n(a)the class licensee discloses, in writing, to the pilot‑in‑command of the aircraft, and within the time delimited in paragraph 2(2) before or upon arriving in Singapore —\n(i)the type or description of every controlled item of the aircraft in the possession of the class licensee; and\n(ii)the total number of controlled items of the aircraft in the possession of the class licensee, according to type or description; and\n(b)the class licensee takes all reasonable precautions to ensure that no controlled item of the aircraft —\n(i)is knowingly or negligently abandoned in Singapore; or\n(ii)is transferred, or allowed to be transferred, in Singapore to the possession of another person except a permissible custodian;\n(c)the class licensee takes all reasonable precautions to ensure that each controlled item of the aircraft is stored or kept according to acceptable storage requirements during the interval between the aircraft arriving in Singapore and then leaving Singapore, so that the controlled item will not be used or handled by a person who is not authorised by or under the Act to possess or handle it during that interval;\n(d)the class licensee takes all reasonable precautions to ensure that any gun that is a controlled item of the aircraft is and remains unloaded at all times during the interval mentioned in sub‑paragraph (c)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Guns, Explosives and Weapons Control (Aviation Industry — Class Licence) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

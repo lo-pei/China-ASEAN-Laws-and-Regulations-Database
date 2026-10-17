@@ -1,7 +1,7 @@
 {
  "id": "SG-H757",
  "title": {
-  "zh": null,
+  "zh": "社区纠纷解决（第 13W 条上诉）条例 2025",
   "en": "Community Disputes Resolution (Appeals under Section 13W) Regulations 2025",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. An appellant may withdraw the appellant’s appeal at any time before the Minister makes a decision under section 13W(3) of the Act in respect of the appeal."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Community Disputes Resolution (Appeals under Section 13W) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

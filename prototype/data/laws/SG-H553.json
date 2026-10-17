@@ -1,7 +1,7 @@
 {
  "id": "SG-H553",
  "title": {
-  "zh": null,
+  "zh": "中央锡克庙委员会法 1981",
   "en": "Central Sikh Gurdwara Board Act 1981",
   "orig": null
  },
@@ -272,5 +272,13 @@
     "en": "18. Nothing in this Act shall affect the rights of the Government or of any bodies politic or corporate or of any other persons, except such persons as are mentioned in this Act and those claiming by, from or under them."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Sikh Gurdwara Board Act 1981",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

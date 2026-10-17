@@ -1,7 +1,7 @@
 {
  "id": "PH-H548",
  "title": {
-  "zh": null,
+  "zh": "规定省长、市长或市镇首长可对省警卫队、市警察与市镇警察成员予以停职或免职的法案",
   "en": "An Act Providing for the Suspension or Removal of Members of the Provincial Guards, City Police and Municipal Police By the Provincial Governor, City Mayor or Municipal Mayor",
   "orig": "An Act Providing for the Suspension or Removal of Members of the Provincial Guards, City Police and Municipal Police By the Provincial Governor, City Mayor or Municipal Mayor"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 17, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Suspension or Removal of Members of the Provincial Guards, City Police and Municipal Police By the Provincial Governor, City Mayor or Municipal Mayor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

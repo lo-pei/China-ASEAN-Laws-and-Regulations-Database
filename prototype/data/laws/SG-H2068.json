@@ -1,7 +1,7 @@
 {
  "id": "SG-H2068",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 4 号）命令 2016",
   "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2016",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The share of partnership profits described in sub‑paragraph (2) of the partnership of Parkway Life Japan4 Pte Ltd (a company incorporated in Singapore) and Godo Kaisha Samurai 11 (a company incorporated in Japan), and received in Singapore by Parkway Life Japan4 Pte Ltd on or after 22 April 2016, is exempt from tax.\n(2) Sub-paragraph (1) applies to partnership profits that are derived from rental income from, or capital gains from the divestment of, the Silver Heights Hitsujigaoka (Ichibankan & Nibankan) property situated in Sapporo City, Hokkaido Prefecture, Japan.\n(3) The exemption in sub-paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 16 June 2016 addressed to Parkway Trust Management Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

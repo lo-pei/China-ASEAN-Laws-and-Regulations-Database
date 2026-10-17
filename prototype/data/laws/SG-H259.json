@@ -1,7 +1,7 @@
 {
  "id": "SG-H259",
  "title": {
-  "zh": null,
+  "zh": "建筑师规则 1991",
   "en": "Architects Rules 1991",
   "orig": null
  },
@@ -773,5 +773,13 @@
     "en": "THE SCHEDULE\nRules 2(1)(b)(i), (2)(b)(i), (3)(b)(i) and\n(4)(b)(i), 3(2), 3B(1)(d), 3C(2), 9(1),\n10(1)(b)(i) and (2)(b), 11(b), 13(1),\n17, 18A(2)(b), 22(2) and 25(2)\nFees\n1.Application for registration under section 15(1) of the Act by a person who satisfies the Board as to the criteria mentioned in section 15(2) of the Act (rule 2(1))\n$200\n2.Application for registration under section 15(2A) of the Act by a foreign architect seeking to engage in the practice of architecture in Singapore independently (rule 2(2))\n$200\n3.Application for registration under section 15(2A) of the Act by a foreign architect not seeking to engage in the practice of architecture in Singapore independently (rule 2(3))\n$500\n4.Application for registration under section 15(1)(c) of the Act by a foreign architect to whom the Architects (Exemption from Experience Requirements) Order 2017 applies (rule 2(4))\n$500\n5.Sitting for the Confirmatory Examination (rule 3(1))\n$150\n6.Application to sit for the Law and the Architect Examination, Professional Practice Examination and the Oral Interview Examination (rule 3A(1))\n$600\n7.Application to sit for the Professional Practice Interview Examination (rule 3A(2))\n$1,500\n8.Application to sit for the Professional Interview (rule 3A(3))\n$2,500\n9.Application to sit for the Domain Specific Process Written Test, or the Domain Specific Process Interview, or both (rule 3C(1))\n$2,500\n10.Application for a certificate of registration for a registered architect (rule 9)\n$150\n11.Application to be recognised under section 15A(1) of the Act (rule 10(1))\n$200\n12.Application for renewal of recognition for the purposes of an arrangement mentioned in section 6A(2) of the Act with a foreign registration authority from any participating jurisdiction which does not allow a person recognised under section 15A(2) of the Act to engage in the practice of architecture in that participating jurisdiction independently (rule 10(2))\n$50\n13.Application for renewal of recognition for the purposes of an arrangement mentioned in section 6A(2) of the Act with a foreign registration authority from any participating jurisdiction which allows a person recognised under section 15A(2) of the Act to engage in the practice of architecture in that participating jurisdiction independently (rule 10(2))\n$100\n14.Application for a practising certificate (rule 11)\n$250\n15.Application to amend any particulars in a practising certificate (rule 11)\n$20\n16.Late application for a practising certificate (rule 13)\n$50\n17.Application for a licence (rule 16)\n$1,000\n18.Application for approval of practice name (rule 18A(2))\n$20\n19.Application for a change of practice name or practice status (rule 18A(2))\n$50\n20.Extract from the register (rule 22(2))\n$40 per page\n21.Application for a duplicate certificate or licence (rule 25(2))\n$50."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Architects Rules 1991",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

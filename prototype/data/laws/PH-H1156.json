@@ -1,7 +1,7 @@
 {
  "id": "PH-H1156",
  "title": {
-  "zh": null,
+  "zh": "关于以第1000号共和国法项下债券发行所得为人民政府宅地与住房公司项目融资的法案",
   "en": "An Act to Finance People’s Homesite and Housing Corporation Projects from the Bond Issue Under Republic Act Numbered One Thousand",
   "orig": "An Act to Finance People’s Homesite and Housing Corporation Projects from the Bond Issue Under Republic Act Numbered One Thousand"
  },
@@ -120,5 +120,11 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act to Finance People’s Homesite and Housing Corporation Projects from the Bond Issue Under Republic Act Numbered One Thousand",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

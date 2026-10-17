@@ -1,7 +1,7 @@
 {
  "id": "SG-H664",
  "title": {
-  "zh": null,
+  "zh": "合作社（第 97 条下的豁免）（第 3 号）命令 2012",
   "en": "Co-operative Societies (Exemption under Section 97) (No. 3) Order 2012",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) NTUC Enterprise Co-operative Limited (formerly known as NTUC Social Capital Co-operative Limited) (called in this Order the NEC) is exempted from —\n(a)the requirement in section 39(2) of the Act that membership in any secondary society is to be restricted to registered co-operative societies, trade unions and platform work associations; and\n[S 963/2024 wef 01/01/2025]\n(b)the requirement in section 43 of the Act that no member, other than a society, trade union or platform work association, is to hold more than 20% of the share capital of any society.\n[S 963/2024 wef 01/01/2025]\n[S 963/2024 wef 01/01/2025]\n(2) The exemption in sub-paragraph (1) shall apply for the purpose of enabling the Singapore Labour Foundation established under the Singapore Labour Foundation Act 1977 to join the NEC as a member and to hold more than 20% of the share capital of the NEC, notwithstanding that the Singapore Labour Foundation is not a registered co-operative society, trade union or platform work association.\n[S 963/2024 wef 31/12/2021]\n[S 963/2024 wef 01/01/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (Exemption under Section 97) (No. 3) Order 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

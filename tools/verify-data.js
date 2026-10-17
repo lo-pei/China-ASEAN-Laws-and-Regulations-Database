@@ -111,7 +111,10 @@ console.log('  官方原文分卷：' + lawTotal + ' 部法规 / ' + artTotal + 
 
 /* ---------- 3. 目录 ↔ 分卷 一致性 ---------- */
 if (ic && im && im.byLaw) {
-  const missing = (ic.laws || []).filter(l => l.coverage === 'full' && !im.byLaw[l.id]);
+  /* coverage=full 的目录条目既可落在 intl 分卷，也可落在 fulltext（A 法域全文层）分卷，
+     两个 manifest 任一命中即视为已入库。 */
+  const inAnyPack = (id) => !!(im.byLaw[id] || (ftmf && ftmf.byLaw && ftmf.byLaw[id]));
+  const missing = (ic.laws || []).filter(l => l.coverage === 'full' && !inAnyPack(l.id));
   if (missing.length) fail('intl-catalog 中 coverage=full 但缺少分卷：' + missing.slice(0, 5).map(l => l.id).join(', ') + (missing.length > 5 ? ' 等 ' + missing.length + ' 条' : ''));
   else pass();
   const ghost = Object.keys(im.byLaw).filter(id => !(ic.laws || []).some(l => l.id === id));

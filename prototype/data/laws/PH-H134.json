@@ -1,7 +1,7 @@
 {
  "id": "PH-H134",
  "title": {
-  "zh": null,
+  "zh": "授权新兴与必要产业免缴国内税收的法案",
   "en": "An Act Authorizing the Exemption of New and Necessary Industries from the Payment of Internal Revenue Taxes",
   "orig": "An Act Authorizing the Exemption of New and Necessary Industries from the Payment of Internal Revenue Taxes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 30, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Exemption of New and Necessary Industries from the Payment of Internal Revenue Taxes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1307",
  "title": {
-  "zh": null,
+  "zh": "节能（受管制商品与注册供应商）条例 2017",
   "en": "Energy Conservation (Regulated Goods and Registered Suppliers) Regulations 2017",
   "orig": null
  },
@@ -408,5 +408,13 @@
     "en": "SECOND SCHEDULE\nRegulation 4(2)\nFees\n1.Application to register the following regulated goods:\n(a)air-conditioner (other than three-phase variable refrigerant flow (VRF) air-conditioner or PAC)\n$70\n(b)three-phase variable refrigerant flow (VRF) air-conditioner\n$85\n(c)PAC\n$70\n(d)clothes dryer\n$70\n(e)lamp\n$70\n(f)refrigerator (other than a commercial storage refrigerator)\n$70\n(g)commercial storage refrigerator\n$70\n(h)television\n$70\n(i)motor\n$80\n(j)ballast\n$70\n(k)water heater\n$70\n2.Application to renew the registration of the following regulated goods:\n(a)air-conditioner (other than three-phase variable refrigerant flow (VRF) air-conditioner or PAC)\n$50\n(b)three-phase variable refrigerant flow (VRF) air-conditioner\n$55\n(c)PAC\n$50\n(d)clothes dryer\n$50\n(e)lamp\n$50\n(f)refrigerator (other than a commercial storage refrigerator)\n$50\n(g)commercial storage refrigerator\n$50\n(h)television\n$50\n(i)motor\n$60\n(j)ballast\n$50\n(k)water heater\n$50\n[S 113/2025 wef 01/04/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Energy Conservation (Regulated Goods and Registered Suppliers) Regulations 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

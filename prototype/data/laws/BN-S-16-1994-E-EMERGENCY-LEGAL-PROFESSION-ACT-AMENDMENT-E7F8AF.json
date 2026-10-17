@@ -1,0 +1,104 @@
+{
+ "id": "BN-S-16-1994-E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-E7F8AF",
+ "title": {
+  "zh": "紧急法律职业法修正命令 1994",
+  "en": "EMERGENCY LEGAL PROFESSION ACT AMENDMENT ORDER 1994",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p25",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 4,
+ "chars": 1058,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-16_1994_E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-1994.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-16_1994_E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-1994.pdf》（1 页），本次切分 4 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-16-1994-E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-E7F8AF-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "heading": {
+    "en": "!Amendment) Order, 1994 and shall come into force on 1st. day of commence·"
+   },
+   "text": {
+    "en": "This Order may be cited as the Emergency (Legal Profession Act) Citation and July, 1994. ment."
+   }
+  },
+  {
+   "id": "BN-S-16-1994-E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-E7F8AF-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "ing, before the word \"which\" in paragraph (i) of subsection (2) -Section 29 of"
+   },
+   "text": {
+    "en": "Section 29 of the principal Act is amended by inserting the follow-Amendment of Chapter 132. \", other than an act which he is permitted to do in Brunei,\"."
+   }
+  },
+  {
+   "id": "BN-S-16-1994-E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-E7F8AF-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "Section 40 of the principal Act is amended by inserting the follow-Amendment"
+   },
+   "text": {
+    "en": "Section 40 of the principal Act is amended by inserting the follow-Amendment ing after the word \"agreement\" in paragraph (b) of subsection (1) -of Section 40. '', other than any agreement for the taking of contingency fees made in accordance with rules made under Section 65,\"."
+   }
+  },
+  {
+   "id": "BN-S-16-1994-E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-E7F8AF-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "Section 65 of the principal Act is amended by inserting the follow-Amendment of"
+   },
+   "text": {
+    "en": "Section 65 of the principal Act is amended by inserting the follow-Amendment of ing new paragraph (aa) after the end of paragraph (al of subsection Section 65. 12)- \"(aa) prescribe the manner in which contingency fees, as defined in such rules, may be taken by advocates and solicitors and the proceedings in which and conditions on which these shall be payable ; ''. Made this 28th. day of April, 1994, at Our lstana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN BRUNEI DARUSSALAM."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "EMERGENCY LEGAL PROFESSION ACT AMENDMENT ORDER 1994",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1807",
  "title": {
-  "zh": null,
+  "zh": "增加总检察长办公室某些官员的人数与薪金，为此修订《行政法典》（经第945号共和国法修正）第1659条",
   "en": "An Act Increasing the Number and the Salaries of Certain Officials of the Office of the Solicitor General, Amending for This Purpose Section Sixteen Hundred Fifty-Nine of the Administrative Code, as Amended by Republic Act Numbered Nine Hundred Forty-Five",
   "orig": "An Act Increasing the Number and the Salaries of Certain Officials of the Office of the Solicitor General, Amending for This Purpose Section Sixteen Hundred Fifty-Nine of the Administrative Code, as Amended by Republic Act Numbered Nine Hundred Forty-Five"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 13, 1958."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Number and the Salaries of Certain Officials of the Office of the Solicitor General, Amending for This Purpose Section Sixteen Hundred Fifty-Nine of the Administrative Code, as Amended by Republic Act Numbered Nine Hundred Forty-Five",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

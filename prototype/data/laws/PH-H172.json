@@ -1,7 +1,7 @@
 {
  "id": "PH-H172",
  "title": {
-  "zh": null,
+  "zh": "将菲律宾国会两院 1946 年 9 月 18 日决议提出的宪法修正案作为附于宪法的条例提交菲律宾人民批准或否决，并为此拨款的法案",
   "en": "An Act to Submit to the Filipino People, for Approval or Disapproval, the Amendment to the Constitution of the Philippines to be appended as an Ordinance thereto, Proposed by the Congress of the Philippines in a Resolution of both Houses, adopted on September Eighteen, Nineteen Hundred and Forty-Six, and to Appropriate Funds Therefor",
   "orig": "An Act to Submit to the Filipino People, for Approval or Disapproval, the Amendment to the Constitution of the Philippines to be appended as an Ordinance thereto, Proposed by the Congress of the Philippines in a Resolution of both Houses, adopted on September Eighteen, Nineteen Hundred and Forty-Six, and to Appropriate Funds Therefor"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: October 21, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Submit to the Filipino People, for Approval or Disapproval, the Amendment to the Constitution of the Philippines to be appended as an Ordinance thereto, Proposed by the Congress of the Philippines in a Resolution of both Houses, adopted on September Eighteen, Nineteen Hundred and Forty-Six, and to Appropriate Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

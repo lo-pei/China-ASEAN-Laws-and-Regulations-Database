@@ -1,7 +1,7 @@
 {
  "id": "PH-H8619",
  "title": {
-  "zh": null,
+  "zh": "将邦板牙省 Mabalacat 市镇改设为组成市，名称为 Mabalacat 市的法案",
   "en": "An Act Converting the Municipality of Mabalacat in the Province of Pampanga into a Component City to Be Known as Mabalacat City",
   "orig": "An Act Converting the Municipality of Mabalacat in the Province of Pampanga into a Component City to Be Known as Mabalacat City"
  },
@@ -802,5 +802,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in anyaewspaper of general and local circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Municipality of Mabalacat in the Province of Pampanga into a Component City to Be Known as Mabalacat City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

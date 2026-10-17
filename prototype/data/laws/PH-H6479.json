@@ -1,7 +1,7 @@
 {
  "id": "PH-H6479",
  "title": {
-  "zh": null,
+  "zh": "授权改善和开发卡米金省 Mambajao 市镇 Ardent 温泉的法案",
   "en": "An Act Authorizing the Improvement and Development of the Ardent Spring in the Municipality of Mambajao, Province of Camiguin",
   "orig": "An Act Authorizing the Improvement and Development of the Ardent Spring in the Municipality of Mambajao, Province of Camiguin"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Improvement and Development of the Ardent Spring in the Municipality of Mambajao, Province of Camiguin",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2563",
  "title": {
-  "zh": null,
+  "zh": "所得税（银行或金融公司转让营业）（第二号）命令 2006",
   "en": "Income Tax (Transfer of Undertaking by Bank or Finance Company) (No. 2) Order 2006",
   "orig": null
  },
@@ -181,5 +181,11 @@
     "en": "11. It is hereby declared that, subject to the conditions specified in the letter of approval dated 9th October 2006, the provisions in the accounts of MeritaNordbanken Merchant Bank Singapore Limited which have been transferred to Nordea Bank Finland Plc Singapore Branch —\n(a)shall not be deemed under section 14I(2)(b) of the Act to be a trading receipt of MeritaNordbanken Merchant Bank Singapore Limited; and\n(b)shall for the purposes of section 14I of the Act be treated as having been allowed to Nordea Bank Finland Plc Singapore Branch as a deduction under that section."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Income Tax (Transfer of Undertaking by Bank or Finance Company) (No. 2) Order 2006",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

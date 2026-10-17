@@ -1,7 +1,7 @@
 {
  "id": "PH-H6078",
  "title": {
-  "zh": null,
+  "zh": "将哥打巴托省现有Arakan Valley市镇医院升格并改设为二十五张床位的区医院，名称为Arakan Valley区医院，并为此拨款的法案",
   "en": "An Act Upgrading and Converting the Present Arakan Valley Municipal Hospital in the Province of Cotabato, Into A Twenty-five-bed Capacity District Hospital, To Be Known As the Arakan Valley District Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Upgrading and Converting the Present Arakan Valley Municipal Hospital in the Province of Cotabato, Into A Twenty-five-bed Capacity District Hospital, To Be Known As the Arakan Valley District Hospital, and Appropriating Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading and Converting the Present Arakan Valley Municipal Hospital in the Province of Cotabato, Into A Twenty-five-bed Capacity District Hospital, To Be Known As the Arakan Valley District Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

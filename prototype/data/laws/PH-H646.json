@@ -1,7 +1,7 @@
 {
  "id": "PH-H646",
  "title": {
-  "zh": null,
+  "zh": "促进木薯粉生产、规范小麦粉进口并为其他目的法案",
   "en": "An Act to Promote the Production of Cassava Flour, to Regulate the Importation of Wheat Flour and for Other Purposes",
   "orig": "An Act to Promote the Production of Cassava Flour, to Regulate the Importation of Wheat Flour and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Promote the Production of Cassava Flour, to Regulate the Importation of Wheat Flour and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

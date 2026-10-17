@@ -1,7 +1,7 @@
 {
  "id": "SG-H3631",
  "title": {
-  "zh": null,
+  "zh": "砂石与花岗岩采石场法 1970",
   "en": "Sand and Granite Quarries Act 1970",
   "orig": null
  },
@@ -350,5 +350,13 @@
     "en": "24.—(1) The Minister may make such regulations as he may consider expedient for the purposes of this Act.\n(2) All regulations made under this Act shall be published in the Gazette and shall be presented to Parliament as soon as possible after publication."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Sand and Granite Quarries Act 1970",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

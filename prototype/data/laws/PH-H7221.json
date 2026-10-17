@@ -1,7 +1,7 @@
 {
  "id": "PH-H7221",
  "title": {
-  "zh": null,
+  "zh": "1999 年反倾销法",
   "en": "Anti-Dumping Act of 1999",
   "orig": "Anti-Dumping Act of 1999 An Act Providing the Rules for the Imposition of an Anti-Dumping Duty, amending for the Purpose Section 301, Part 2, Title II, Book I of the Tariff and Customs Code of the Philippines, as amended by Republic Act No. 7843, and for Other Purposes"
  },
@@ -140,5 +140,13 @@
     "en": "Effectivity Clause. - This Act shall take effect after fifteen (15) days following its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Anti-Dumping Act of 1999",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

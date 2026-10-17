@@ -1,7 +1,7 @@
 {
  "id": "PH-H9656",
  "title": {
-  "zh": null,
+  "zh": "新中央银行法",
   "en": "The New Central Bank Act",
   "orig": "An Act Amending Republic Act Number 7653, Otherwise Known as \"The New Central Bank Act\", and for Other Purposes"
  },
@@ -530,5 +530,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The New Central Bank Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H632",
  "title": {
-  "zh": null,
+  "zh": "民防（上诉）条例 2019",
   "en": "Civil Defence (Appeals) Regulations 2019",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nRegulation 2(a)\nNotice of appeal\nTo: The Commissioner, SCDF\n1. I, , NRIC No. was charged on (date) under the Civil Defence Act for the offences set out in the Annex hereto, and was awarded the following punishment by the Disciplinary Officer for the following:\n(a)Offence:\n(b)Punishment awarded:\n2. I wish to appeal against:\n(a)Conviction of the following charge:\n(b)Sentence imposed on the following charge:\n3. Reason(s) for my appeal on the following charge(s) is/are outlined as follows:\n4. I am aware that unless otherwise instructed, I have to report for duty at my unit pending the outcome of this appeal. In the event that I am absent from duty without any valid excuse/approval and/or commit other service offence(s) pending the outcome of the appeal, I will be dealt with in accordance with the Civil Defence Act.\nSubmitted by\n:\nRank and Name\n:\nNRIC No.\n:\nSignature\n:\nDate\n:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Civil Defence (Appeals) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

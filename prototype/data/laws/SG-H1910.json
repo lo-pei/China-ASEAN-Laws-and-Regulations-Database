@@ -1,7 +1,7 @@
 {
  "id": "SG-H1910",
  "title": {
-  "zh": null,
+  "zh": "所得税（公司合并）条例 2011",
   "en": "Income Tax (Amalgamation of Companies) Regulations 2011",
   "orig": null
  },
@@ -548,5 +548,11 @@
     "en": "15.—(1) Where —\n(a)an amalgamating company maintains its financial accounts in respect of any trade or business carried on by it in a functional currency other than Singapore dollar in accordance with financial reporting standards in Singapore; and\n(b)the amalgamating company has made an irrevocable election in writing of one of the two rates of exchanges under regulation 4(1) of the Income Tax (Functional Currency) Regulations 2004 (G.N. No. S 748/2004) for the purposes of converting the amounts referred to in regulation 2 of those Regulations denominated in Singapore dollar into an equivalent amount in a non-Singapore dollar functional currency,\nthe rate of exchange so elected shall continue to be applicable to the amalgamated company until the amounts are fully utilised, as if the amalgamated company is the amalgamating company.\n(2) Where ––\n(a)an amalgamating company ceases to exist on the date of amalgamation; and\n(b)the functional currency in which the amalgamating company maintained its accounts in respect of any trade or business carried on by it (referred to as the functional currency of the amalgamating company) differs from that of the amalgamated company (referred to as the functional currency of the amalgamated company),\nthe rate of exchange between the 2 functional currencies on the date of amalgamation shall be used to convert into the functional currency of the amalgamated company —\n(i)any capital allowance, donation or loss of the amalgamating company remaining unabsorbed on the date of amalgamation which is denominated in the functional currency of the amalgamating company; and\n(ii)for the purpose of section 34C(8) and (10) of the Act, the residue of the value of any industrial building, structure, machinery or plant, or right of the amalgamating company referred to in section 16, 19, 19A, 19B, 19C or 19D of the Act which is denominated in the functional currency of the amalgamating company."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Income Tax (Amalgamation of Companies) Regulations 2011",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

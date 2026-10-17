@@ -1,7 +1,7 @@
 {
  "id": "PH-H8454",
  "title": {
-  "zh": null,
+  "zh": "设立菲律宾穆斯林全国委员会、界定其权力、职能与职责、为此拨款并为其他目的法案",
   "en": "An Act Creating The National Commission on Muslim Filipinos Defining Its Powers, Functions and Responsibilities and Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act Creating The National Commission on Muslim Filipinos Defining Its Powers, Functions and Responsibilities and Appropriating Funds Therefor and for Other Purposes"
  },
@@ -385,5 +385,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating The National Commission on Muslim Filipinos Defining Its Powers, Functions and Responsibilities and Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

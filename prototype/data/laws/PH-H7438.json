@@ -1,7 +1,7 @@
 {
  "id": "PH-H7438",
  "title": {
-  "zh": null,
+  "zh": "禁止制造、进口、分销和销售含硬性表面活性剂的洗衣与工业洗涤剂并规定违规处罚的法案",
   "en": "An Act Prohibiting the Manufacture, Importation, Distribution and Sale of Laundry and Industrial Detergents Containing Hard Surfactants and Providing Penalties for Violation Thereof.",
   "orig": "An Act Prohibiting the Manufacture, Importation, Distribution and Sale of Laundry and Industrial Detergents Containing Hard Surfactants and Providing Penalties for Violation Thereof."
  },
@@ -151,5 +151,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in two (2) newspapers of general circulation, whichever comes earlier.\nApproved: October 31 2000"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prohibiting the Manufacture, Importation, Distribution and Sale of Laundry and Industrial Detergents Containing Hard Surfactants and Providing Penalties for Violation Thereof.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

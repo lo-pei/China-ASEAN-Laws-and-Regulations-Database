@@ -1,7 +1,7 @@
 {
  "id": "SG-H1995",
  "title": {
-  "zh": null,
+  "zh": "所得税（Ennovi 塑料工业私人有限公司——第 13(12) 条豁免）命令 2026",
   "en": "Income Tax (Ennovi Plastic Industries Pte. Ltd. — Section 13(12) Exemption) Order 2026",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The following income received in Singapore by Ennovi Plastic Industries Pte. Ltd. (a company incorporated in Singapore) from Ennovi Plastic Industries (H.K.) Limited (formerly known as Interplex Plastic Industries (H.K.) Limited) (a company incorporated in Hong Kong) is exempt from tax:\n(a)dividend income received on 15 November 2019 and 31 December 2020, which is in turn derived from the profits of Interplex Plastic (Shenzhen) Ltd. (a company incorporated in China);\n(b)dividend income received on 31 December 2020, which is in turn derived from the profits of Ennovi Plastic Industries (H.K.) Limited.\n(2) The exemption in sub-paragraph (1) is subject to the conditions specified in the letter from the Inland Revenue Authority of Singapore dated 26 December 2025 that is issued on behalf of the Minister for Finance and addressed to Ennovi Plastic Industries Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Ennovi Plastic Industries Pte. Ltd. — Section 13(12) Exemption) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

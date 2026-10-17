@@ -1,7 +1,7 @@
 {
  "id": "PH-H7431",
  "title": {
-  "zh": null,
+  "zh": "将碧瑶镇区保留地及 1924 年与 1925 年两项公告所设保留地范围内第 1 至 6 号地块的特定部分排除，并宣布其为可处分可转让土地的法案",
   "en": "An Act Excluding From the Baguio Townsite Reservation and From the Operation of Proclamation No. 10 Dated February 9, 1924, and Proclamation No. 63 Dated August 6, 1925, Which Established the Forbes Forest Reservation and the Government Center Reservation, Respectively, All Situated in the City of Baguio, Island of Luzon, Certain Portions of Land Within Lots 1, 2, 3, 4, 5 and 6 Embraced Therein and Declaring the Same Alienable and Disposable Lands for Disposition to Qualified Applicants Under Republic Act No. 730",
   "orig": "An Act Excluding From the Baguio Townsite Reservation and From the Operation of Proclamation No. 10 Dated February 9, 1924, and Proclamation No. 63 Dated August 6, 1925, Which Established the Forbes Forest Reservation and the Government Center Reservation, Respectively, All Situated in the City of Baguio, Island of Luzon, Certain Portions of Land Within Lots 1, 2, 3, 4, 5 and 6 Embraced Therein and Declaring the Same Alienable and Disposable Lands for Disposition to Qualified Applicants Under Republic Act No. 730"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Excluding From the Baguio Townsite Reservation and From the Operation of Proclamation No. 10 Dated February 9, 1924, and Proclamation No. 63 Dated August 6, 1925, Which Established the Forbes Forest Reservation and the Government Center Reservation, Respectively, All Situated in the City of Baguio, Island of Luzon, Certain Portions of Land Within Lots 1, 2, 3, 4, 5 and 6 Embraced Therein and Declaring the Same Alienable and Disposable Lands for Disposition to Qualified Applicants Under Republic Act No. 730",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

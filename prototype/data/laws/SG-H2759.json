@@ -1,7 +1,7 @@
 {
  "id": "SG-H2759",
  "title": {
-  "zh": null,
+  "zh": "新加坡国内税务局（第 17D 条规定利率）条例 2024",
   "en": "Inland Revenue Authority of Singapore (Prescribed Interest Rate for Section 17D) Regulations 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) For the purposes of section 17D of the Act, the prescribed rate of interest on the outstanding claim amount mentioned in that section is 4.5% points above the 3‑month compounded SORA for the period —\n(a)starting on the date after the end of the payment period mentioned in that section; and\n(b)ending on the date the claim amount mentioned in that section is paid to the Authority in full.\n(2) In this regulation —\n“3‑month compounded SORA”, in relation to a period, means —\n(a)if the period or a part of the period falls within the 6‑month period beginning on 1 April of a calendar year, then, for the period or the part (as the case may be) — the compounded average of the SORA values for a 3‑month period computed by the Monetary Authority of Singapore using the prescribed methodology, and published —\n(i)on its Internet website at https://www.mas.gov.sg; or\n(ii)where the website is unavailable to the public, in any other form that is readily accessible by the public,\non either of the following days:\n(iii)if 1 March of that calendar year is a business day — that day;\n(iv)if 1 March of that calendar year is not a business day — the last business day in February of that calendar year; or\n(b)if the period or a part of the period falls within the 6‑month period beginning on 1 October of a calendar year, then, for the period or the part (as the case may be) — the compounded average of the SORA values for a 3‑month period computed by the Monetary Authority of Singapore using the prescribed methodology, and published —\n(i)on its Internet website at https://www.mas.gov.sg; or\n(ii)where the website is unavailable to the public, in any other form that is readily accessible by the public,\non either of the following days:\n(iii)if 1 September of that calendar year is a business day — that day;\n(iv)if 1 September of that calendar year is not a business day — the last business day in August of that calendar year;\n“bank holiday” means a day declared by the Monetary Authority of Singapore to be a bank holiday under section 60(1) of the Banking Act 1970;\n“business day” means any day other than a Saturday, Sunday, public holiday or bank holiday;\n“prescribed methodology” means the methodology set out in the document called “Compounded Singapore Overnight Rate Average Index (“SORA Index”), Compounded SORA and MAS Floating Rate Notes (“MAS FRN”): A User Guide” dated 16 March 2021;\n“Singapore Overnight Rate Average” or “SORA” means the volume‑weighted average rate of borrowing transactions in the unsecured overnight interbank Singapore dollar cash market in Singapore between 8 a.m. and 6.15 p.m., as published by the Monetary Authority of Singapore —\n(a)on its Internet website at https://www.mas.gov.sg; or\n(b)where the website is unavailable to the public, in any other form that is readily accessible by the public."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Inland Revenue Authority of Singapore (Prescribed Interest Rate for Section 17D) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

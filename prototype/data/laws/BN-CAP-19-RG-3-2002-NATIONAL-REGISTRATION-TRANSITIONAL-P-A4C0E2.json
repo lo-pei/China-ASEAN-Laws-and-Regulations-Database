@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-19-RG-3-2002-NATIONAL-REGISTRATION-TRANSITIONAL-P-A4C0E2",
  "title": {
-  "zh": null,
+  "zh": "RG 3 2002 版国民登记过渡条款条例",
   "en": "RG 3 2002 ED NATIONAL REGISTRATION TRANSITIONAL PROVISIONS REGULATIONS",
   "orig": null
  },
@@ -73,5 +73,13 @@
     "en": "(1) Any person who fails to comply with the provisions of regulation 2 shall be guilty of an offence: Penalty, imprisonment for 2 years and a fine of $5,000.\n\n(2) An offence under sub-regulation (1) shall be a seizable offence for the purpose of the law relating to criminal procedure."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 3 2002 ED NATIONAL REGISTRATION TRANSITIONAL PROVISIONS REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

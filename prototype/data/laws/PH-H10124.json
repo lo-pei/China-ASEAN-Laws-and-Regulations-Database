@@ -1,7 +1,7 @@
 {
  "id": "PH-H10124",
  "title": {
-  "zh": null,
+  "zh": "对 2017 年马拉维围城造成财产损失与人员死亡给予补偿并为此拨款的法案",
   "en": "An Act Providing Compensation for the Loss or Destruction of Properties and Loss of Lives as a Result of the 2017 Marawi Siege, and Appropriating Funds Therefor",
   "orig": "An Act Providing Compensation for the Loss or Destruction of Properties and Loss of Lives as a Result of the 2017 Marawi Siege, and Appropriating Funds Therefor"
  },
@@ -362,5 +362,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing Compensation for the Loss or Destruction of Properties and Loss of Lives as a Result of the 2017 Marawi Siege, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

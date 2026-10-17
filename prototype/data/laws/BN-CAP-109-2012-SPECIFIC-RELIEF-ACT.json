@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-109-2012-SPECIFIC-RELIEF-ACT",
  "title": {
-  "zh": null,
+  "zh": "特定救济法",
   "en": "SPECIFIC RELIEF ACT",
   "orig": null
  },
@@ -642,5 +642,13 @@
     "en": "Notwithstanding section 54(f), where a contract comprises an affirmative agreement to do a certain act, coupled with a negative agreement, express or implied, not to do a certain act, the circumstance that the court is unable to compel specific performance of the affirmative agreement shall not preclude it from granting an injunction to perform the negative agreement: Provided that the applicant has not failed to perform the contract so far as it is binding on him.\n\n(a) A. contracts to sell to B. for $1,000 the goodwill of a certain business unconnected with business premises, and further agrees not to carry on that business in Brunei Darusssalam. B. pays A. the $1,000 but A. carries on the business in Brunei Darussalam. The court cannot compel A. to send his customers to B., but B. may obtain an injunction restraining A. from carrying on the business in Brunei Darussalam.\n\n(b) A. contracts to sell to B. the goodwill of a business. A. then sets up a similar business close by B.’s shop, and solicits his old customers to deal with him. This is contrary to his implied contract, and B. may obtain an injunction to restrain A. from soliciting the customers, and from doing any act whereby their goodwill may be withdrawn from B.\n\n(c) A. contracts with B. to sing for 12 months at B.’s theatre and not to sing in public elsewhere. B. cannot obtain specific performance of the contract to sing, but he is entitled to an injunction restraining A. from singing at any other place of public entertainment.\n\n(d) B. contracts with A. that he will serve him faithfully for 12 months as a clerk. A. is not entitled to a decree for specific performance of this contract. But he is entitled to an injunction restraining B. from serving a rival house as clerk.\n\n(e) A. contracts with B. that, in consideration of $1,000 to be paid to him by B. on a day fixed, he will not set up a certain business within a specified distance. B. fails to pay the money. A. cannot be restrained from carrying on the business within the specified distance."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SPECIFIC RELIEF ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

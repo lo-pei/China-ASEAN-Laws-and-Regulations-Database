@@ -1,7 +1,7 @@
 {
  "id": "SG-H3337",
  "title": {
-  "zh": null,
+  "zh": "国民服役人员（雇佣）规则",
   "en": "National Servicemen (Employment) Rules",
   "orig": null
  },
@@ -272,5 +272,13 @@
     "en": "THE SCHEDULE\nFORM B\nAPPLICATION FOR EXEMPTION\nRule 9(1)\nFORM C\nPARTICULARS OF THE SELECTED CANDIDATES\nRule 9(3)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "National Servicemen (Employment) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-5-R-1-2022-RULES-OF-THE-SUPREME-COURT",
  "title": {
-  "zh": null,
+  "zh": "R 1 2022 版最高法院规则",
   "en": "R 1 2022 ED RULES OF THE SUPREME COURT",
   "orig": null
  },
@@ -1461,5 +1461,13 @@
     "en": "For the return of any writ of process and filling same, exclusive of the fee paid on 16 00 Praecipe filing."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 1 2022 ED RULES OF THE SUPREME COURT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

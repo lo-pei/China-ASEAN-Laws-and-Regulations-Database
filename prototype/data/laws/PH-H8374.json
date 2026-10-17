@@ -1,7 +1,7 @@
 {
  "id": "PH-H8374",
  "title": {
-  "zh": null,
+  "zh": "将本格特省 Kibungan 市镇 Tacadang 描笼涯的 Kibungan 国立中学附属校分离，改设为独立的 Tacadang 国立中学，并为此拨款",
   "en": "An Act Separating the Kibungan National High School - Tacadang Annex in Barangay Tacadang, Municipality of Kibungan, Province of Benguet from the Kibungan National High School, Converting it into an Independent National High School to Be Known as Tacadang National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Kibungan National High School - Tacadang Annex in Barangay Tacadang, Municipality of Kibungan, Province of Benguet from the Kibungan National High School, Converting it into an Independent National High School to Be Known as Tacadang National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Kibungan National High School - Tacadang Annex in Barangay Tacadang, Municipality of Kibungan, Province of Benguet from the Kibungan National High School, Converting it into an Independent National High School to Be Known as Tacadang National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

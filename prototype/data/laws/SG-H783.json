@@ -1,7 +1,7 @@
 {
  "id": "SG-H783",
  "title": {
-  "zh": null,
+  "zh": "公司（指明公司—第11A部豁免）命令 2023",
   "en": "Companies (Specified Companies — Exemption from Part 11A) Order 2023",
   "orig": null
  },
@@ -103,5 +103,11 @@
     "en": "5. A director of a specified company is exempt from section 386AL(2) and (3) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Companies (Specified Companies — Exemption from Part 11A) Order 2023",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

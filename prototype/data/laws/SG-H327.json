@@ -1,7 +1,7 @@
 {
  "id": "SG-H327",
  "title": {
-  "zh": null,
+  "zh": "童子军协会法 1926",
   "en": "Boy Scouts Association Act 1926",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. Any person who contravenes any of the provisions of this Act shall be guilty of an offence, and on summary conviction thereof before a Magistrate’s Court shall be liable to a fine not exceeding $200."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Boy Scouts Association Act 1926",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1226",
  "title": {
-  "zh": null,
+  "zh": "修订1909年《菲律宾关税法》第11条，豁免以100%菲律宾苎麻纤维制成的纺织品缴税，以为苎麻产业发展提供激励的法案",
   "en": "An Act to Amend Section Eleven of the Philippine Tariff Act of 1909 and Exempting Textiles Made of 100 Per Cent Philippine Ramie Fiber from the Payment of Duty to Provide Incentives for the Development of the Ramie Industry",
   "orig": "An Act to Amend Section Eleven of the Philippine Tariff Act of 1909 and Exempting Textiles Made of 100 Per Cent Philippine Ramie Fiber from the Payment of Duty to Provide Incentives for the Development of the Ramie Industry"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 23, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Eleven of the Philippine Tariff Act of 1909 and Exempting Textiles Made of 100 Per Cent Philippine Ramie Fiber from the Payment of Duty to Provide Incentives for the Development of the Ramie Industry",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

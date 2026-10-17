@@ -1,7 +1,7 @@
 {
  "id": "PH-H10337",
  "title": {
-  "zh": null,
+  "zh": "进一步加强菲律宾武装部队专业性并促进政策连续性与现代化举措，为此修订第 11709 号共和国法的法案",
   "en": "An Act Further Strengthening Professionalism and Promoting the Continuity of Policies and Modernization Initiatives in the Armed Forces of the Philippines, and Amending for this Purpose Republic Act No. 11709",
   "orig": "An Act Further Strengthening Professionalism and Promoting the Continuity of Policies and Modernization Initiatives in the Armed Forces of the Philippines, and Amending for this Purpose Republic Act No. 11709"
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H10337-A2_2",
+   "id": "PH-H10337-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Section 6 of Republic Act No. 11709 is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10337-A6",
@@ -141,14 +142,15 @@
    }
   },
   {
-   "id": "PH-H10337-A6_2",
+   "id": "PH-H10337-A6-d2",
    "no": 6,
    "noLabel": {
     "en": "Section 6."
    },
    "text": {
     "en": "Application . - The provisions of this Act shall also apply to the officers and enlisted personnel appointed and/or promoted under Republic Act No. 11709 and other pertinent laws."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10337-A7",
@@ -171,24 +173,34 @@
    }
   },
   {
-   "id": "PH-H10337-A9_2",
+   "id": "PH-H10337-A9-d2",
    "no": 9,
    "noLabel": {
     "en": "Section 9."
    },
    "text": {
     "en": "Repealing Clause . - Section 3 and 11 of Republic Act No. 11709 are hereby repealed. All laws, executive orders, rules and regulations or parts thereof which are inconsistent with the provisions of this Act are hereby amended or repealed accordingly."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H10337-A10_2",
+   "id": "PH-H10337-A10-d2",
    "no": 10,
    "noLabel": {
     "en": "Section 10."
    },
    "text": {
     "en": "Effectivity . - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Strengthening Professionalism and Promoting the Continuity of Policies and Modernization Initiatives in the Armed Forces of the Philippines, and Amending for this Purpose Republic Act No. 11709",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

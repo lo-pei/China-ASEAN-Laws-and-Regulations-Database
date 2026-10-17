@@ -1,7 +1,7 @@
 {
  "id": "PH-H6106",
  "title": {
-  "zh": null,
+  "zh": "将毒品预防与控制纳入初中与高中课程及非正规、非正式与本族学习体系并为其他目的法案",
   "en": "An Act Integrating Drug Prevention and Control in the Intermediate and Secondary Curricula As Well As in the Nonformal, Informal and Indigenous Learning Systems and For Other Purpose",
   "orig": "An Act Integrating Drug Prevention and Control in the Intermediate and Secondary Curricula As Well As in the Nonformal, Informal and Indigenous Learning Systems and For Other Purpose"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Integrating Drug Prevention and Control in the Intermediate and Secondary Curricula As Well As in the Nonformal, Informal and Indigenous Learning Systems and For Other Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

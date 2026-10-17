@@ -1,0 +1,104 @@
+{
+ "id": "BN-CAP-154-EXTRADITION-MALAYSIA-AND-SINGAPORE-ACT",
+ "title": {
+  "zh": "马来西亚与新加坡引渡法",
+  "en": "EXTRADITION MALAYSIA AND SINGAPORE ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p20",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to make provisionin relation to the extradition of fugitive"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 5,
+ "chars": 2253,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-154-EXTRADITION-MALAYSIA-AND-SINGAPORE-ACT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-154-EXTRADITION-MALAYSIA-AND-SINGAPORE-ACT.pdf》（4 页），本次切分 5 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-154-EXTRADITION-MALAYSIA-AND-SINGAPORE-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Extradition (Malaysia and Act. to 2. (1) The Rules set out in the First Schedule to this Act and fr°!'l applies in relation to the extradition of a fugitive criminal to MalaYSlaand . First and from MalaysIa.\n\n(2) set out in the Second Schedule to this Act in relation to the extradition of a fugitive criminal to and from Singapore. (Malaysia and Singapore) CAP. 154 3\n\nTO AND FROM MALAYSIA"
+   }
+  },
+  {
+   "id": "BN-CAP-154-EXTRADITION-MALAYSIA-AND-SINGAPORE-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "under the provisions of any law in force in Malaysia, ajudicial has issued a warrant authorising the arrest of a person accused or convicted of an offence and that person is or is believed to be in Brunei a Magistrate in Brunei Darussalam may, if satisfied that the was duly issued in Malaysia, endorse the warrant, and the warrant may then be executed on that person as if it were a warrant lawfully issued in Brunei Darussalam under the provisions of the Criminal Procedure Code."
+   }
+  },
+  {
+   "id": "BN-CAP-154-EXTRADITION-MALAYSIA-AND-SINGAPORE-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "under the provisions of any law in force in Malaysia to rule 2, a warrant issued by a Magistrate or a Magistrate's in Brunei Darussalam has been endorsed by a Magistrate in and executed on the person named in the warrant, the warrant for the purposes of these Rules be deemed to have been as validly as if the execution had been effected in Brunei Darussalam."
+   }
+  },
+  {
+   "id": "BN-CAP-154-EXTRADITION-MALAYSIA-AND-SINGAPORE-ACT-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "a warrant has been executed in Brunei Darussalam pursuant of to rule 2, the person arrested shall be produced as soon as possible before to a Magistrate in Brunei Darussalam, who shall, if satisfied that he is the specified in the warrant, that the arrested person be or Singapore forthwith in custody to the appropriate court in Malaysia; and any such person shall, while in such custody, be deemed for all purposes to be in lawful custody: that such Magistrate may, if for reasons to be recorded by him he is satisfied that it is in the interests ofjustice to do so and if the case is one in which bail may lawfully be granted, release the person arrested on bail conditional on his appearing before the appropriate court in Malaysia at a time to be specified in the bond and bail bond."
+   }
+  },
+  {
+   "id": "BN-CAP-154-EXTRADITION-MALAYSIA-AND-SINGAPORE-ACT-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "In these Rules, \"offence\" means a seizable offence or an offence on conviction, with imprisonment for a term exceeding six tion months under the laws of Brunei Darussalam or Malaysia.\n\nTO AND FROM SINGAPORE"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "EXTRADITION MALAYSIA AND SINGAPORE ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

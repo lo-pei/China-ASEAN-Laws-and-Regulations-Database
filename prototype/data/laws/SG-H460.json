@@ -1,7 +1,7 @@
 {
  "id": "SG-H460",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（预缴入场税相关豁免）命令 2019",
   "en": "Casino Control (Exemptions relating to Pre-Paid Entry Levies) Order 2019",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Section 116(1) of the Act does not apply to a casino operator that allows a citizen or permanent resident of Singapore to enter the casino premises of the casino operator on or after 4 April 2019 without paying a new entry levy, if the citizen or permanent resident is exempt under paragraph 3 from section 116(6) and (6A) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Casino Control (Exemptions relating to Pre-Paid Entry Levies) Order 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

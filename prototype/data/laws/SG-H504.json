@@ -1,7 +1,7 @@
 {
  "id": "SG-H504",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（家属保障保险计划）条例 2005",
   "en": "Central Provident Fund (Dependants’ Protection Insurance Scheme) Regulations 2005",
   "orig": null
  },
@@ -333,5 +333,13 @@
     "en": "THIRD SCHEDULE\nRegulations 5(3) and (4)(b) and 18(2)(b) and Second Schedule\nMaximum insured sum\n1. The maximum insured sum payable on death or incapacity (or deemed death or incapacity) of an insured person specified in the first column during the period of insurance cover specified in the second column is the corresponding sum specified in the third column:\nFirst column\nSecond column\nThird column\nInsured person\nPeriod of insurance cover\nMaximum insured sum\n(1)An insured person who is below 60 years of age on the date of commencement or renewal of his or her insurance cover under the Scheme\nOn or after\n1 April 2021\n$70,000\n(2)An insured person who has attained 60 years of age but is below 65 years of age on the date of commencement or renewal of his or her insurance cover under the Scheme\nOn or after\n1 April 2021\n$55,000"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund (Dependants’ Protection Insurance Scheme) Regulations 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

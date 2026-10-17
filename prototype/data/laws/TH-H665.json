@@ -1,7 +1,7 @@
 {
  "id": "TH-H665",
  "title": {
-  "zh": null,
+  "zh": "国家机关或机构官员犯罪法，佛历 2502（1959）",
   "en": "OFFENCES OF OFFICIALS IN STATE ORGANISATIONS OR AGENCIES ACT, B.E. 2502 (1959)",
   "orig": "พระราชบัญญัติว่าด้วยความผิดของพนักงานในองค์การหรือหน่วยงานของรัฐ พ.ศ. 2502"
  },
@@ -150,5 +150,13 @@
     "th": "มาตรา ๑๑ ผู้ใดเป็นพนักงาน ปฏิบัติหรือละเว้นการปฏิบัติหน้าที่โดยมิชอบ เพื่อให้เกิดความเสียหายแก่ผู้หนึ่งผู้ใด หรือปฏิบัติหรือละเว้นการปฏิบัติหน้าที่โดยทุจริต ต้องระวางโทษจำคุกตั้งแต่หนึ่งปีถึงสิบปี หรือปรับตั้งแต่สองพันบาทถึงสองหมื่นบาท หรือทั้งจำทั้งปรับ"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "OFFENCES OF OFFICIALS IN STATE ORGANISATIONS OR AGENCIES ACT, B.E. 2502 (1959)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

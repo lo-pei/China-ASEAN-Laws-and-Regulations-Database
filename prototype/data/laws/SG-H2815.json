@@ -1,7 +1,7 @@
 {
  "id": "SG-H2815",
  "title": {
-  "zh": null,
+  "zh": "保险（财务保证保险）条例",
   "en": "Insurance (Financial Guarantee Insurance) Regulations",
   "orig": null
  },
@@ -197,5 +197,13 @@
    },
    "status": "repealed"
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insurance (Financial Guarantee Insurance) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

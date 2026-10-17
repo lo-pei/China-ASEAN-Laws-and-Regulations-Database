@@ -1,7 +1,7 @@
 {
  "id": "PH-H1207",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾体育记者协会每年举办一场慈善拳击表演赛，其净收益设立为残疾菲律宾拳击手利益信托基金的法案",
   "en": "An Act Authorizing the Philippine Sportswriters Association to Hold One Benefit Boxing Show Every Year, the Net Proceeds of Which Shall Constitute a Trust Fund for the Benefit of Disabled Filipino Boxers",
   "orig": "An Act Authorizing the Philippine Sportswriters Association to Hold One Benefit Boxing Show Every Year, the Net Proceeds of Which Shall Constitute a Trust Fund for the Benefit of Disabled Filipino Boxers"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Philippine Sportswriters Association to Hold One Benefit Boxing Show Every Year, the Net Proceeds of Which Shall Constitute a Trust Fund for the Benefit of Disabled Filipino Boxers",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

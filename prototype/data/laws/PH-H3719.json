@@ -1,7 +1,7 @@
 {
  "id": "PH-H3719",
  "title": {
-  "zh": null,
+  "zh": "修订第4632号共和国法（题为“授权菲律宾慈善抽奖办公室举办一次彩票以资助Quezon学院”）的标题与第1条",
   "en": "An Act Amending the Title and Section One of Republic Act Numbered Four Thousand Six Hundred Thirty-Two, Entitled \"An Act Authorizing the Philippine Charity Sweepstakes Office to Hold One Lottery for the Benefit of Quezon Institute\"",
   "orig": "An Act Amending the Title and Section One of Republic Act Numbered Four Thousand Six Hundred Thirty-Two, Entitled \"An Act Authorizing the Philippine Charity Sweepstakes Office to Hold One Lottery for the Benefit of Quezon Institute\""
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending the Title and Section One of Republic Act Numbered Four Thousand Six Hundred Thirty-Two, Entitled \"An Act Authorizing the Philippine Charity Sweepstakes Office to Hold One Lottery for the Benefit of Quezon Institute\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H847",
  "title": {
-  "zh": null,
+  "zh": "产权转让与财产法 1886",
   "en": "Conveyancing and Law of Property Act 1886",
   "orig": null
  },
@@ -1406,5 +1406,13 @@
     "en": "THE SCHEDULE\nSection 31(1)\nForms relating to Statutory Mortgages\nPart 1\nSTATUTORY MORTGAGE\nThis Indenture of Statutory Mortgage made on (date) between A of (etc.) of the one part and M of (etc.) of the other part,\nIn consideration of $ advanced to A by M (whereof A acknowledges the receipt) A as mortgagor conveys to M all that (etc.) TO HOLD to M for securing payment on (date) of the principal sum of $ with interest thereon at the rate of % per annum.\nIN WITNESS, etc.\n* * Variations in this and subsequent Forms to be made if required for mortgages by demise or other matter.\nPart 2\nSection 32(1), (3) and (4)\nFORM A\nSTATUTORY TRANSFER, MORTGAGOR NOT JOINING\nThis Indenture of Statutory Transfer of Mortgage made on (date) between M of (etc.) of the one part and T of (etc.) of the other part, supplemental to an Indenture of Statutory Mortgage dated (date) and made between (etc.).\nIn consideration of $ now paid to M by T being the aggregate amount of $ principal money and $ interest due in respect of the said mortgage (whereof M acknowledges the receipt) M as mortgagee transfers to T the benefit of the said mortgage.\nIN WITNESS, etc.\nFORM B\nSTATUTORY TRANSFER, A COVENANTOR JOINING\nThis Indenture of Statutory Transfer of Mortgage made on (date) between A of (etc.) of the first part, B of (etc.) of the second part, and C of (etc.) of the third part, supplemental to an Indenture of Statutory Mortgage dated (date), and made between (etc.).\nIn consideration of $ now paid to A by C (whereof A acknowledges the receipt), being the principal money due in respect of the said mortgage, no interest being now due and payable thereon, A as mortgagee, with the concurrence of B, who joins as covenantor, transfers to C the benefit of the said mortgage.\nIN WITNESS, etc.\nFORM C\nSTATUTORY TRANSFER AND STATUTORY MORTGAGE COMBINED\nThis Indenture of Statutory Transfer of Mortgage and of Statutory Mortgage made on (date), between A of (etc.) of the first part, B of (etc.) of the second part, and C of (etc.) of the third part, supplemental to an Indenture of Statutory Mortgage dated (date), and made between (etc.)\nWHEREAS the principal sum of $ only remains due in respect of the said mortgage and no interest is now due and payable thereon, AND WHEREAS B is seised in fee simple of the land comprised in the said mortgage subject to that mortgage.\nNOW, in consideration of $ now paid to A by C (whereof A acknowledges the receipt and B acknowledges the payment and receipt as aforesaid*) A as mortgagee transfers to C the benefit of the said mortgage, and for the same consideration A as mortgagee, by direction of B, conveys and B conveys and confirms to C ALL THAT (etc.) TO HOLD to C for securing payment on (date) of †$ with interest thereon at the rate of % per annum.\nIN WITNESS, etc.\n(or in case of further advance after “aforesaid” at * insert “and also in consideration of the further sum of $ now paid by C to B (whereof B acknowledges the receipt)”, and after “of” at † insert “the sum of $ and $ making together $ ”)\n* * Variations to be made as required in case of the deed being by endorsement or in respect of any other thing.\nPart 3\nSTATUTORY RECONVEYANCE\nSection 34\nThis Indenture of Statutory Reconveyance made on (date) between C of (etc.) of the one part and B of (etc.) of the other part, supplemental to an Indenture of Statutory Transfer of Mortgage dated (date) and made between (etc.).\nIn consideration of all principal money and interest due under that Indenture having been paid (as C acknowledges) C as mortgagee conveys to B all the lands and premises now vested in C under the Indenture TO HOLD to B discharged from all principal money and interest secured by and from all claims and demands under the Indenture.\nIN WITNESS, etc.\n* * Variation as noted above."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Conveyancing and Law of Property Act 1886",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

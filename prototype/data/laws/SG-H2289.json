@@ -1,7 +1,7 @@
 {
  "id": "SG-H2289",
  "title": {
-  "zh": null,
+  "zh": "所得税（国际税务合规协议）（金融账户信息自动交换多边主管当局协议）命令 2018",
   "en": "Income Tax (International Tax Compliance Agreements) (Multilateral Competent Authority Agreement on Automatic Exchange of Financial Account Information) Order 2018",
   "orig": null
  },
@@ -494,5 +494,13 @@
     "en": "FORTY‑THIRD SCHEDULE\nParagraph 2(zq)\nCountries\n1.Rwanda\n2.Senegal\n3.Uganda\n[S 57/2026 wef 02/02/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (International Tax Compliance Agreements) (Multilateral Competent Authority Agreement on Automatic Exchange of Financial Account Information) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

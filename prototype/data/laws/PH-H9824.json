@@ -1,7 +1,7 @@
 {
  "id": "PH-H9824",
  "title": {
-  "zh": null,
+  "zh": "将哥打巴托市哥打巴托地区与医疗中心床位由四百（400）张增至六百（600）张、提升其服务设施与专业医疗护理并为其拨款",
   "en": "An Act Increasing the Bed Capacity of the Cotabato Regional and Medical Center in Cotabato City from Four Hundred (400) Beds to Six Hundred (600) Beds, Upgrading its Service Facilities and Professional Health Care Services, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Cotabato Regional and Medical Center in Cotabato City from Four Hundred (400) Beds to Six Hundred (600) Beds, Upgrading its Service Facilities and Professional Health Care Services, and Appropriating Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Cotabato Regional and Medical Center in Cotabato City from Four Hundred (400) Beds to Six Hundred (600) Beds, Upgrading its Service Facilities and Professional Health Care Services, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

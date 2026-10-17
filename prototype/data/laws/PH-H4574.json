@@ -1,7 +1,7 @@
 {
  "id": "PH-H4574",
  "title": {
-  "zh": null,
+  "zh": "统一国民政府（含政府拥有与控制的公司）政府土木工程师薪金的法案",
   "en": "An Act Standardizing Salaries of Government Civil Engineers in the National Government Including Government Owned and Controlled Corporations",
   "orig": "An Act Standardizing Salaries of Government Civil Engineers in the National Government Including Government Owned and Controlled Corporations"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Standardizing Salaries of Government Civil Engineers in the National Government Including Government Owned and Controlled Corporations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

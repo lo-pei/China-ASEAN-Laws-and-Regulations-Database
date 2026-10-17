@@ -1,7 +1,7 @@
 {
  "id": "SG-H2734",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 8 号）命令 2025",
   "en": "Infrastructure Protection (Protected Places) (No. 8) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\n1.Director Digital & Corporate Transformation/ MINDEF Chief Information Officer\nIDEATES @ CONNECTION ONE BLOCK 168 #10-01, SINGAPORE 150168\nAll that area comprised in part of Lot 02298K in Mukim No. 1 occupied by “IDEATES @ CONNECTION ONE BLOCK 168 #10-01, SINGAPORE 150168” containing an area of about 1,110.3 square metres and bounded approximately as follows:\nCommencing at a point 29,513.257 metres North and 26,429.875 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n29,513.257\n26,429.875\n29,512.379\n26,433.162\n29,512.418\n26,433.173\n29,508.596\n26,447.109\n29,507.247\n26,445.856\n29,505.837\n26,447.453\n29,507.411\n26,448.901\n29,505.920\n26,450.531\n29,507.431\n26,451.902\n29,506.821\n26,452.585\n29,513.781\n26,459.006\n29,510.037\n26,472.473\n29,509.879\n26,472.322\n29,509.770\n26,472.744\n29,476.400\n26,442.012\n29,486.877\n26,430.578\n29,487.078\n26,430.763\n29,487.378\n26,430.438\n29,488.557\n26,431.525\n29,489.950\n26,430.002\n29,485.013\n26,425.481\n29,487.119\n26,423.162\n29,479.686\n26,416.325\n29,488.166\n26,407.182\n29,488.364\n26,407.365\n29,488.611\n26,407.098\nto the point of commencement.\nThe boundaries of “IDEATES @ CONNECTION ONE BLOCK 168 #10‐01, SINGAPORE 150168” are more particularly delineated in the Survey Plan No. 24020/3000478161/GZ10/002 filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below.\nFirst column\nSecond column\nThe Authority\nProtected Place\n2.Director Digital & Corporate Transformation/ MINDEF Chief Information Officer\nIDEATES @ CONNECTION ONE BLOCK 168 #15-01, SINGAPORE 150168\nAll that area comprised in part of Lot 02298K in Mukim No. 1 occupied by “IDEATES @ CONNECTION ONE BLOCK 168 #15-01, SINGAPORE 150168” containing an area of about 1,113.0 square metres and bounded approximately as follows:\nCommencing at a point 29,513.318 metres North and 26,429.828 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n29,513.318\n26,429.828\n29,508.596\n26,447.109\n29,507.272\n26,445.879\n29,505.843\n26,447.485\n29,507.404\n26,448.914\n29,505.952\n26,450.507\n29,507.427\n26,451.897\n29,506.812\n26,452.571\n29,513.751\n26,459.020\n29,510.080\n26,472.514\n29,509.872\n26,472.320\n29,509.738\n26,472.770\n29,476.403\n26,442.015\n29,486.894\n26,430.590\n29,487.088\n26,430.769\n29,487.385\n26,430.445\n29,488.559\n26,431.529\n29,489.960\n26,430.017\n29,485.022\n26,425.486\n29,487.153\n26,423.164\n29,479.722\n26,416.314\n29,488.174\n26,407.185\n29,488.369\n26,407.362\n29,488.618\n26,407.087\nto the point of commencement.\nThe boundaries of “IDEATES @ CONNECTION ONE BLOCK 168 #15‐01, SINGAPORE 150168” are more particularly delineated in the Survey Plan No. 24020/3000478161/GZ15/002 filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 8) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

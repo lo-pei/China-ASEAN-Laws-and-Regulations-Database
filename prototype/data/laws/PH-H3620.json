@@ -1,7 +1,7 @@
 {
  "id": "PH-H3620",
  "title": {
-  "zh": null,
+  "zh": "免除三描礼士省Olongapo市镇因经营其电力、电话与制冰厂而据称应缴的118000比索特权税与百分比税及25%附加费的法案",
   "en": "An Act Condoning the Amount of One Hundred Eighteen Thousand Pesos Representing Privilege and Percentage Taxes Plus Twenty-Five Per Cent Surcharge Thereon, Allegedly Due from the Municipality of Olongapo, Province of Zambales, for the Operation of its Electric, Telephone and Ice Plants",
   "orig": "An Act Condoning the Amount of One Hundred Eighteen Thousand Pesos Representing Privilege and Percentage Taxes Plus Twenty-Five Per Cent Surcharge Thereon, Allegedly Due from the Municipality of Olongapo, Province of Zambales, for the Operation of its Electric, Telephone and Ice Plants"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Condoning the Amount of One Hundred Eighteen Thousand Pesos Representing Privilege and Percentage Taxes Plus Twenty-Five Per Cent Surcharge Thereon, Allegedly Due from the Municipality of Olongapo, Province of Zambales, for the Operation of its Electric, Telephone and Ice Plants",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H886",
  "title": {
-  "zh": null,
+  "zh": "要求政府所有局、办公室、机关与机构（包括政府拥有或控制的公司、省、市与市镇）在向私人、公司、合伙及/或协会支付任何款项时扣缴该款项应缴的全部税收",
   "en": "An Act to Require All Bureaus, Offices, Agencies and Instrumentalities of the Government, Including Government Owned or Controlled Corporations, Provinces, Cities and Municipalities, to Deduct and Withhold from Any Money Payment to Private Individuals, Corporations, Partnerships, and/or Associations, Any and All Taxes Due and Payable on Account of Said Money Payment",
   "orig": "An Act to Require All Bureaus, Offices, Agencies and Instrumentalities of the Government, Including Government Owned or Controlled Corporations, Provinces, Cities and Municipalities, to Deduct and Withhold from Any Money Payment to Private Individuals, Corporations, Partnerships, and/or Associations, Any and All Taxes Due and Payable on Account of Said Money Payment"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Require All Bureaus, Offices, Agencies and Instrumentalities of the Government, Including Government Owned or Controlled Corporations, Provinces, Cities and Municipalities, to Deduct and Withhold from Any Money Payment to Private Individuals, Corporations, Partnerships, and/or Associations, Any and All Taxes Due and Payable on Account of Said Money Payment",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

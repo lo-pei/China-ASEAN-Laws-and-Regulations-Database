@@ -1,7 +1,7 @@
 {
  "id": "SG-H425",
  "title": {
-  "zh": null,
+  "zh": "碳定价（注册与一般事项）条例 2018",
   "en": "Carbon Pricing (Registration and General Matters) Regulations 2018",
   "orig": null
  },
@@ -294,5 +294,13 @@
     "en": "16.—(1) Despite any other written law, in any proceedings under the Act —\n(a)an electronic record of any application, report, plan, document or information that was submitted through the EDMA system; or\n(b)any copy or print-out of that electronic record,\nis admissible as evidence of the facts stated or contained in the electronic record, copy or print‑out, if that electronic record, copy or print‑out —\n(c)is certified by the Agency to contain all or any information submitted through the EDMA system in accordance with any requirements prescribed for the same; and\n(d)is duly authenticated in the manner specified in paragraph (3) or is otherwise authenticated in the manner provided in the Evidence Act 1893 for the authentication of computer output.\n(2) To avoid doubt, the electronic record, copy or print‑out mentioned in paragraph (1) is not inadmissible in evidence merely because the application, report, plan, document or information was submitted without the delivery of any equivalent in paper form.\n(3) For the purposes of this regulation, a certificate —\n(a)giving the particulars of —\n(i)any person who submitted the application, report, plan, document or information through the EDMA system; and\n(ii)any person or device involved in the production or transmission of the electronic record of the application, report, plan, document or information, or the copy or print-out of the same;\n(b)identifying the nature of the electronic record or copy or print-out of the same; and\n(c)purporting to be signed by the Agency or by a person occupying a responsible position in relation to the operation of the EDMA system at the relevant time,\nis sufficient evidence that the electronic record, copy or print-out has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.\n(4) Where the electronic record of any application, report, plan, document or information, or a copy or print‑out of that electronic record, is admissible under paragraph (1), it is presumed, until the contrary is proved, that the electronic record, copy or print‑out accurately reproduces the contents of that application, report, plan, document or information."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Carbon Pricing (Registration and General Matters) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

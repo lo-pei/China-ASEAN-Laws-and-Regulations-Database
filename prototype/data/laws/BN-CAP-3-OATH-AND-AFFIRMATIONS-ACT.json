@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-3-OATH-AND-AFFIRMATIONS-ACT",
  "title": {
-  "zh": null,
+  "zh": "宣誓与确认法",
   "en": "OATH AND AFFIRMATIONS ACT",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "(1) If any person giving evidence on any subject in open court in any judicial proceeding, whether civil or criminal, before the Court of Appeal, the High Court or a Court of a Magistrate, either —\n\n(a) gives, in the opinion of the Court before which the judicial proceeding is held, false evidence within the meaning of section 191 of the Penal Code (Chapter 22) upon a material issue; or p. 6 Oaths and Affirmations CAP. 3]\n\n(b) wilfully and knowingly makes or is proved to have made 2 or more contradictory statements of fact or alleged fact upon a material issue, either at the same examination or at 2 or more examinations, and such contradictory statements have been made before the court in which such judicial proceeding is held or before such court and before any other court or courts, and whether the respective truth or false hood of the said statements can be ascertained it shall be lawful for the court to call upon such witness to show cause (immediately or on a subsequent date) why he should not be summarily punished for giving false evidence and, if such witness fails to show such cause, then summarily to sentence such witness for contempt —\n\n(i) where the court is the Court of Appeal or the High Court, to imprisonment for 3 months and a fine of $4,000;\n\n(ii) where the court is the Court of a Magistrate, to imprisonment for one month and a fine of $1,000.\n\n(2) Whenever any power given by this section is exercised by the High Court or the Court of a Magistrate, the person sentenced shall have the same right of appeal as if he had been sentenced after a trial held in accordance with the provisions of the law for the time being in force relating to criminal procedure, and the provisions of such law shall, subject to the provisions of subsection (3) of this section and with such other variations as may be necessary, be complied with in connection with any such appeal.\n\n(3) Any person sentenced under subsection (1) of this section by the High Court or the Court of a Magistrate shall, immediately after such sentence has been pronounced, be informed of his right to appeal against\n\n(4) Upon notice of appeal being lodged by any person sentenced under this section, the High Court or the Court of a Magistrate that has ordered such sentence shall stay execution of such sentence, and shall release the person sentenced on terms secured by his personal bond only.\n\n(5) Instead of exercising the power of summary sentence given by subsection (1) of this section the court may, if it thinks fit, summarily commit the offender for trial before any court having jurisdiction, and shall, in such case, bind over all persons whose evidence it may consider material to appear and give evidence at such trial; and the court of trial shall take cognisance of the offence as if the requirements of paragraph (c) of subsection (1) of section 132 and all other requirements of the Criminal Procedure Code (Chapter 7) had been complied with.\n\n(6) Nothing in this section contained shall be deemed to deprive any person sentenced under this section of any right to appeal conferred by the law for the time being in force relating to criminal procedure.\n\n(7) A person who has undergone any sentence of imprisonment or paid any fine imposed under this section shall not be liable to be punished again for the same offence."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "OATH AND AFFIRMATIONS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

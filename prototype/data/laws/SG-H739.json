@@ -1,7 +1,7 @@
 {
  "id": "SG-H739",
  "title": {
-  "zh": null,
+  "zh": "土地专员指示进行诉讼",
   "en": "Commissioner of Lands to Direct Proceedings",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Land Acquisition Act\n(Chapter 152, Section 6)\nCommissioner of Lands to Direct Proceedings\nN 1\nREVISED EDITION 1990\n(25th March 1992)\n[24th December 1987]\nThe Minister for Law has authorised the Commissioner of Lands to be the officer who shall direct the Collector of Land Revenue to take proceedings for the acquisition of land as and when it has been declared to be needed under section 5(1) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commissioner of Lands to Direct Proceedings",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

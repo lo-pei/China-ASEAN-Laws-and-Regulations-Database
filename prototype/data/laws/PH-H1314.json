@@ -1,7 +1,7 @@
 {
  "id": "PH-H1314",
  "title": {
-  "zh": null,
+  "zh": "授权复兴金融公司与菲律宾国家银行向菲律宾贸易、农业与技术院校毕业的菲律宾公民提供贷款",
   "en": "An Act Authorizing the Rehabilitation Finance Corporation and the Philippine National Bank to Grant Loans to Graduates of Trade, Agricultural and Technical Schools and Colleges in the Philippines Who are Filipino Citizens",
   "orig": "An Act Authorizing the Rehabilitation Finance Corporation and the Philippine National Bank to Grant Loans to Graduates of Trade, Agricultural and Technical Schools and Colleges in the Philippines Who are Filipino Citizens"
  },
@@ -102,5 +102,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Rehabilitation Finance Corporation and the Philippine National Bank to Grant Loans to Graduates of Trade, Agricultural and Technical Schools and Colleges in the Philippines Who are Filipino Citizens",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

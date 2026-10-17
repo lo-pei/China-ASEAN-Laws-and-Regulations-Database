@@ -1,7 +1,7 @@
 {
  "id": "PH-H5948",
  "title": {
-  "zh": null,
+  "zh": "将东萨马省San Policarpo市镇Alugan描笼涯的Alugan工艺与家庭工业学校更名为Alugan国立工艺与家庭工业学校的法案",
   "en": "An Act Changing the Name of the Alugan School of Craftsmanship and Home Industries in Barangay Alugan, Municipality of San Policarpo, Province of Eastern Samar, To Alugan National School of Craftsmanship and Home Industries",
   "orig": "An Act Changing the Name of the Alugan School of Craftsmanship and Home Industries in Barangay Alugan, Municipality of San Policarpo, Province of Eastern Samar, To Alugan National School of Craftsmanship and Home Industries"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Alugan School of Craftsmanship and Home Industries in Barangay Alugan, Municipality of San Policarpo, Province of Eastern Samar, To Alugan National School of Craftsmanship and Home Industries",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1623",
  "title": {
-  "zh": null,
+  "zh": "规定从日本采购和使用赔偿与开发贷款的国家政策、设立实施该政策的赔偿委员会、为此提供资金并为其他目的法案",
   "en": "An Act Prescribing the National Policy in the Procurement and Utilization of Reparations and Development Loans from Japan, Creating a Reparations Commission to Implement the Policy, Providing Funds Therefor, and for Other Purposes",
   "orig": "An Act Prescribing the National Policy in the Procurement and Utilization of Reparations and Development Loans from Japan, Creating a Reparations Commission to Implement the Policy, Providing Funds Therefor, and for Other Purposes"
  },
@@ -250,5 +250,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1957"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prescribing the National Policy in the Procurement and Utilization of Reparations and Development Loans from Japan, Creating a Reparations Commission to Implement the Policy, Providing Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

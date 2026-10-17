@@ -1,0 +1,124 @@
+{
+ "id": "BN-S-23-1988-E-MERCHANT-SHIPPING-LICENSING-OF-SHIPBUILDE-CF791B",
+ "title": {
+  "zh": "商船造船厂许可条例 1988",
+  "en": "MERCHANT SHIPPING LICENSING OF SHIPBUILDERS REGNS 1988",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p26",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 6,
+ "chars": 824,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-23-1988-E-MERCHANT-SHIPPING-LICENSING-OF-SHIPBUILDERS-REGNS-1988.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-23-1988-E-MERCHANT-SHIPPING-LICENSING-OF-SHIPBUILDERS-REGNS-1988.pdf》（7 页），本次切分 6 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-23-1988-E-MERCHANT-SHIPPING-LICENSING-OF-SHIPBUILDE-CF791B-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Name and address/registered office/Identity Card Number of Licence :"
+   }
+  },
+  {
+   "id": "BN-S-23-1988-E-MERCHANT-SHIPPING-LICENSING-OF-SHIPBUILDE-CF791B-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Purpose for which Licence is issued: ............................................................... ."
+   }
+  },
+  {
+   "id": "BN-S-23-1988-E-MERCHANT-SHIPPING-LICENSING-OF-SHIPBUILDE-CF791B-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "shipyard except under and in accordance with a licence under these licence,"
+   },
+   "text": {
+    "en": "Location of Licensed shipyard (if any) : ················································ ············· ·· ······ ·············································· ········· ································· ···························································································"
+   }
+  },
+  {
+   "id": "BN-S-23-1988-E-MERCHANT-SHIPPING-LICENSING-OF-SHIPBUILDE-CF791B-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "If it is made to appear to a magistrate by information upon Search"
+   },
+   "text": {
+    "en": "Date of Issue : ............................................ .. ................................... · .. · · · · · ·. · · · · · ·"
+   }
+  },
+  {
+   "id": "BN-S-23-1988-E-MERCHANT-SHIPPING-LICENSING-OF-SHIPBUILDE-CF791B-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "heading": {
+    "en": "tions or who fails to observe any condition or restriction imposed by"
+   },
+   "text": {
+    "en": "Date of Expiry: ............................. ................................................................ ."
+   }
+  },
+  {
+   "id": "BN-S-23-1988-E-MERCHANT-SHIPPING-LICENSING-OF-SHIPBUILDE-CF791B-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "heading": {
+    "en": "offence against these Regulations shall be guilty of an offence : Penal-"
+   },
+   "text": {
+    "en": "Conditions (if any) : Endorsed on back of this Licence. (Authorised officer)\n\nSECOND SCHEDULE (Regulation 11(1)) FEES"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MERCHANT SHIPPING LICENSING OF SHIPBUILDERS REGNS 1988",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

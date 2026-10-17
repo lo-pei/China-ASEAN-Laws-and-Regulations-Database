@@ -1,7 +1,7 @@
 {
  "id": "PH-H5306",
  "title": {
-  "zh": null,
+  "zh": "农村与 Barangay 企业大宪章",
   "en": "Magna Carta for Countryside and Barangay Business Enterprises",
   "orig": "Magna Carta for Countryside and Barangay Business Enterprises An Act Establishing the Magna Carta for Countryside and Barangay Business Enterprises, Granting Exemptions from any and all Government Rules and Regulations and other Incentives and Benefits Therefor, and for other purposes"
  },
@@ -180,5 +180,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Magna Carta for Countryside and Barangay Business Enterprises",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

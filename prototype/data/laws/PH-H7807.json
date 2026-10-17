@@ -1,7 +1,7 @@
 {
  "id": "PH-H7807",
  "title": {
-  "zh": null,
+  "zh": "将保和省邦劳与达维斯市镇的邦劳岛环岛公路（含塔比拉兰市乌博斯—托图兰西蒂奥的Pablo Suarez大使桥）改设为国道的法案",
   "en": "An Act Converting the Panglao Island Circumferential Road in the Municipalities of Panglao and Dauis, including the Ambassador Pablo Suarez Bridge in the Sitio Ubos-Totulan, Tagbilaran City, Province of Bohol into a National Road",
   "orig": "An Act Converting the Panglao Island Circumferential Road in the Municipalities of Panglao and Dauis, including the Ambassador Pablo Suarez Bridge in the Sitio Ubos-Totulan, Tagbilaran City, Province of Bohol into a National Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Panglao Island Circumferential Road in the Municipalities of Panglao and Dauis, including the Ambassador Pablo Suarez Bridge in the Sitio Ubos-Totulan, Tagbilaran City, Province of Bohol into a National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

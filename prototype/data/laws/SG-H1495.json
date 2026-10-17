@@ -1,7 +1,7 @@
 {
  "id": "SG-H1495",
  "title": {
-  "zh": null,
+  "zh": "费用（移民与关卡局——提供报告与陈述副本）命令",
   "en": "Fees (Immigration & Checkpoints Authority — Supply of Copies of Reports and Statements) Order",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. A fee of $15 shall be leviable by the Controller of Immigration for every search for a report or statement in the possession of the Immigration & Checkpoints Authority.\n[G.N. No. S 198/2003]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Immigration & Checkpoints Authority — Supply of Copies of Reports and Statements) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

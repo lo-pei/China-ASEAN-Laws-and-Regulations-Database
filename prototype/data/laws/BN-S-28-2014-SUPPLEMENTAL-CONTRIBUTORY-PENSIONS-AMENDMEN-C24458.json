@@ -1,7 +1,7 @@
 {
  "id": "BN-S-28-2014-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-AMENDMEN-C24458",
  "title": {
-  "zh": null,
+  "zh": "补充缴费养老金修正命令 2014",
   "en": "SUPPLEMENTAL CONTRIBUTORY PENSIONS AMENDMENT ORDER 2014 1",
   "orig": null
  },
@@ -93,5 +93,13 @@
     "en": "Section 4 of the principal Order is amended - fa) by deleting subsection ( 1) and by substituting the followh1g new subsection therefor \"'(1) The Board shall consist of the following members{a} a Chairman; {b) not more than two Deputy Chairmen;\n\n(c) Managing Director; {d} such other persons of whom not less than five shall be representatives of the Government.\"; {b) by deleting subsection (2) and by substituting the following new therefor\"(2) The members referred to in subsection 1{a), (b) and (d) shall be by His Majesty the Sultan and Yang Di-Pertuan, notice of appointment shall be published in the Gazette.\"; {c) in subsection (5), by deleting \"chairman and deputy chairman\" form the first line and by substituting \"Chairman and Deputy Chairmen\" therefor. Made this 6th. day of Sya'aban, 1435 Hijriah corresponding to the 4th. day of June, 2014 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUPPLEMENTAL CONTRIBUTORY PENSIONS AMENDMENT ORDER 2014 1",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

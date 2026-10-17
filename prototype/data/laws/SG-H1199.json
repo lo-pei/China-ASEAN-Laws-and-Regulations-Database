@@ -1,7 +1,7 @@
 {
  "id": "SG-H1199",
  "title": {
-  "zh": null,
+  "zh": "经济扩展奖励（所得税减免）（依第 3A 条转授职能与权力）公告 2024",
   "en": "Economic Expansion Incentives (Relief from Income Tax) (Assignment of Functions and Powers under Section 3A) Notification 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The Minister assigns to the Economic Development Board the functions and powers of the Minister under the Act specified in sub‑paragraph (3).\n(2) The Minister assigns to the Enterprise Singapore Board the functions and powers of the Minister under the Act specified in sub‑paragraph (4).\n(3) For the purposes of sub‑paragraph (1), the functions and powers are the functions and powers under Parts 2, 3, 4 (other than section 27), 5, 6, 7 and 8 and sections 61 and 61A of the Act.\n(4) For the purposes of sub‑paragraph (2), the functions and powers are the functions and powers under Parts 4 (other than section 27), 5 and 8 and sections 61 and 61A of the Act.\n(5) The Economic Development Board may carry out or exercise any function or power assigned to the Board under sub‑paragraph (1) in relation to —\n(a)any approval, certificate or letter;\n(b)any person to whom any approval was granted or any certificate or letter was issued; or\n(c)any thing for which any approval was granted or any certificate or letter was issued,\nwhether or not the approval, certificate or letter was granted or issued by the Board.\n(6) The Enterprise Singapore Board may carry out or exercise any function or power assigned to the Board under sub‑paragraph (2) in relation to —\n(a)any approval, certificate or letter;\n(b)any person to whom any approval was granted or any certificate or letter was issued; or\n(c)any thing for which any approval was granted or any certificate or letter was issued,\nwhether or not the approval, certificate or letter was granted or issued by the Board."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Economic Expansion Incentives (Relief from Income Tax) (Assignment of Functions and Powers under Section 3A) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

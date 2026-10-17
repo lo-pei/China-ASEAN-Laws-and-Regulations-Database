@@ -1,7 +1,7 @@
 {
  "id": "SG-H1566",
  "title": {
-  "zh": null,
+  "zh": "金融服务与市场（数字代币服务提供者）条例 2025",
   "en": "Financial Services and Markets (Digital Token Service Providers) Regulations 2025",
   "orig": null
  },
@@ -221,5 +221,11 @@
     "en": "THE SCHEDULE\nRegulations 3(4)(b) and 5\nFees\nFirst column\nSecond column\nThird column\nProvision of Act\nMatter\nFee\n1.Section 138(1)\nApplication for grant of a licence in respect of providing one or more digital token services\n$1,500\n2.Section 140(1)\nAnnual licence fee\n$10,000\n3.Section 140(1)\nPro‑rated annual licence fee for the year of grant of licence —\n(a)where the year in which the licence is granted has 365 days; or\nwhere A is the number of days between the date of grant of the licence and 31 December of that year (both dates inclusive)\n(b)where the year in which the licence is granted has 366 days\nwhere A is the number of days between the date of grant of the licence and 31 December of that year (both dates inclusive)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Financial Services and Markets (Digital Token Service Providers) Regulations 2025",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

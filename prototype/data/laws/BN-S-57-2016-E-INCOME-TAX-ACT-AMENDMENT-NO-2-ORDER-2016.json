@@ -1,0 +1,92 @@
+{
+ "id": "BN-S-57-2016-E-INCOME-TAX-ACT-AMENDMENT-NO-2-ORDER-2016",
+ "title": {
+  "zh": "所得税法第 2 号修正命令 2016",
+  "en": "INCOME TAX ACT AMENDMENT NO.2 ORDER 2016",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p30",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 4,
+ "chars": 1624,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-57_2016_E-INCOME-TAX-ACT-AMENDMENT-NO.2-ORDER-2016.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-57_2016_E-INCOME-TAX-ACT-AMENDMENT-NO.2-ORDER-2016.pdf》（9 页），本次切分 4 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-57-2016-E-INCOME-TAX-ACT-AMENDMENT-NO-2-ORDER-2016-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "The Act is amended by inserting the following two new sections immediately after section 67 - \"Appeals to Court of Appeal 67A. (1) In any case in which the amount of tax payable as determined by the High Court (excluding the amount of any costs awarded) exceeds $5,000, the appellant or the Collector may appeal to the Court of Appeal from the decision of the High Court on any question of law or of mixed law and fact.\n\n(2) The procedure governing such appeals shall be the same as for appeals to the Court of Appeal from decisions of the High Court in civil suits. Rules as to appeals 67B. The Chief Justice may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make rules providing for -\n\n(a) the method of tendering evidence before the High Court or Court of Appeal, as the case may be, on appeals;\n\n(b) the conduct of such appeals; and\n\n(c) generally for giving effect to the provisions of sections 67 and 67A.\". Amendment of section 68"
+   }
+  },
+  {
+   "id": "BN-S-57-2016-E-INCOME-TAX-ACT-AMENDMENT-NO-2-ORDER-2016-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Section 68 of the Act is amended -\n\n(a) in paragraph (a), by inserting \", petition for review\" immediately after \"objection\" in the first line; ib) in paragraph ic), by inserting \", review\" immediately after \"objection\";\n\n(c) by inserting \"review or\" immediately before \"appeal\" in the seventh last line;\n\n(d) by inserting \"review or\" immediately before \"appeal\" in the last line. Amendment of section 70"
+   }
+  },
+  {
+   "id": "BN-S-57-2016-E-INCOME-TAX-ACT-AMENDMENT-NO-2-ORDER-2016-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "Section 70 of the Act is amended, in subsection (1) -\n\n(a) by inserting \", review\" immediately after \"objection\" in the third line;\n\n(b) by deleting \"f~lrther\" from the third last line. Amendment of section 77"
+   }
+  },
+  {
+   "id": "BN-S-57-2016-E-INCOME-TAX-ACT-AMENDMENT-NO-2-ORDER-2016-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "Sec,tion 77 oi the Act is amended, in subsection (1) -"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "INCOME TAX ACT AMENDMENT NO.2 ORDER 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

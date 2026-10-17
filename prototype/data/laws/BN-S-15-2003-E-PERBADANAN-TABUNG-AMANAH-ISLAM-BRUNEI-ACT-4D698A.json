@@ -1,0 +1,72 @@
+{
+ "id": "BN-S-15-2003-E-PERBADANAN-TABUNG-AMANAH-ISLAM-BRUNEI-ACT-4D698A",
+ "title": {
+  "zh": "文莱伊斯兰信托基金机构法修正命令 2003",
+  "en": "PERBADANAN TABUNG AMANAH ISLAM BRUNEI ACT AMENDMENT ORDER 2003",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p25",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 1140,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-15-2003-E-PERBADANAN-TABUNG-AMANAH-ISLAM-BRUNEI-ACT-AMENDMENT-ORDER-2003.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-15-2003-E-PERBADANAN-TABUNG-AMANAH-ISLAM-BRUNEI-ACT-AMENDMENT-ORDER-2003.pdf》（1 页），本次切分 2 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-15-2003-E-PERBADANAN-TABUNG-AMANAH-ISLAM-BRUNEI-ACT-4D698A-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Order may be cited as the Perbadanan Tabung Amanah Islam Brunei Act (Amendment) Order, 2003. Amendment of section 30 of Chapter 163."
+   }
+  },
+  {
+   "id": "BN-S-15-2003-E-PERBADANAN-TABUNG-AMANAH-ISLAM-BRUNEI-ACT-4D698A-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section 30 of the Perbadanan Tabung Amanah Islam Brunei Act is amended by repealing subsection (2) and by substituting the following new subsection therefor\"(2) The accounts of the Perbadanan shall be audited annually by(a} the Auditor General; or {b) any person who has been authorised to perform the duties required by the Companies Act (Chapter 39) to be performed by an auditor, who shall be appointed annually by the Perbadanan with the approval of the 'Minister responsible for finance: Provided that where the accounts of the Perbadanan have been audited by a person appointed under paragraph {b), they may be verified by the Auditor General before a copy of the statement of those accounts is transmitted pursuant to subsection (3) to the Minister responsible for finance.\". Made this 21st. day of Muharam, 1424 Hijriah corresponding to the 24th. day of March, 2003 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "PERBADANAN TABUNG AMANAH ISLAM BRUNEI ACT AMENDMENT ORDER 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

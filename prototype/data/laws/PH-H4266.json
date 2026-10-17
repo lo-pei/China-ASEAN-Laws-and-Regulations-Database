@@ -1,7 +1,7 @@
 {
  "id": "PH-H4266",
  "title": {
-  "zh": null,
+  "zh": "修订第3815号法第321条与第326条（关于其他形式纵火）的法案",
   "en": "An Act to Amend Articles Three Hundred Twenty-One and Three Hundred Twen­ty-Six of Act Numbered Thirty-Eight Hundred and Fifteen, (Re: Other Forms of Arson.)",
   "orig": "An Act to Amend Articles Three Hundred Twenty-One and Three Hundred Twen­ty-Six of Act Numbered Thirty-Eight Hundred and Fifteen, (Re: Other Forms of Arson.)"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Articles Three Hundred Twenty-One and Three Hundred Twen­ty-Six of Act Numbered Thirty-Eight Hundred and Fifteen, (Re: Other Forms of Arson.)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

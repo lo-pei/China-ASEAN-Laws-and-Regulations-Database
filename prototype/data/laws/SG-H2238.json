@@ -1,7 +1,7 @@
 {
  "id": "SG-H2238",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）公告 2021",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest payable by Grand Blue Shipping Pte. Ltd. —\n(a)to the lenders mentioned in the first column of the following table;\n(b)in respect of the respective loan amounts mentioned in the second column of the table used to finance the construction of the ship “Sunny Putney”;\n(c)under the loan agreements amended by the respective amendment loan agreements mentioned in the third column of the table and the respective interest rate amendment agreements mentioned in the fourth column of the table; and\n(d)that is due and payable during the respective periods mentioned in the fifth column of the table,\nis exempt from tax:\nFirst column\nSecond column\nThird column\nFourth column\nFifth column\nLender\nLoan amount (JPY)\nAmendment loan agreement\nInterest rate amendment agreement\nPeriod\n(both dates inclusive)\nThe Kagawa Bank, Ltd.\n717,420,000\nAmendment loan agreement dated 25 February 2020\nInterest rate amendment agreement dated 27 February 2020\n29 February 2020 to 28 February 2022\nThe Tokushima Bank, Ltd.\n717,420,000\nAmendment loan agreement dated 25 February 2020\nInterest rate amendment agreement dated 25 February 2020\n2 March 2020 to 28 February 2022\n(2) The exemption under sub-paragraph (1) is subject to the conditions specified in the letter of approval dated 1 July 2021 and addressed to Grand Blue Shipping Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

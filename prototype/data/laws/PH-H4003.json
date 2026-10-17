@@ -1,7 +1,7 @@
 {
  "id": "PH-H4003",
  "title": {
-  "zh": null,
+  "zh": "将北伊罗戈省索尔索纳市镇利帕伊小学的名称授予纳利帕桑小学的法案",
   "en": "An Act Granting the Name of Lipay Elementary School in the Municipality of Solsona, Province of Ilocos Norte, to Nalipasan Elementary School",
   "orig": "An Act Granting the Name of Lipay Elementary School in the Municipality of Solsona, Province of Ilocos Norte, to Nalipasan Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 27, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Name of Lipay Elementary School in the Municipality of Solsona, Province of Ilocos Norte, to Nalipasan Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

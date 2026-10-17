@@ -1,7 +1,7 @@
 {
  "id": "PH-H2180",
  "title": {
-  "zh": null,
+  "zh": "废止第1470号共和国法（题为“修订并废止第1411号共和国法中关于保和省公共工程项目的若干项目”）",
   "en": "An Act to Repeal Republic Act Numbered Fourteen Hundred Seventy, Entitled “An Act to Amend and Repeal Certain Items in Republic Act Numbered Fourteen Hundred Eleven, Regarding Public Works Projects for the Province of Bohol",
   "orig": "An Act to Repeal Republic Act Numbered Fourteen Hundred Seventy, Entitled “An Act to Amend and Repeal Certain Items in Republic Act Numbered Fourteen Hundred Eleven, Regarding Public Works Projects for the Province of Bohol"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Repeal Republic Act Numbered Fourteen Hundred Seventy, Entitled “An Act to Amend and Repeal Certain Items in Republic Act Numbered Fourteen Hundred Eleven, Regarding Public Works Projects for the Province of Bohol",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

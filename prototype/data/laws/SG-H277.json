@@ -1,7 +1,7 @@
 {
  "id": "SG-H277",
  "title": {
-  "zh": null,
+  "zh": "辅助警察部队条例",
   "en": "Auxiliary Police Forces Regulations",
   "orig": null
  },
@@ -606,5 +606,13 @@
     "en": "THE SCHEDULE\nRegulation 21(1D)\nACTIVITIES DEEMED TO RESULT IN CONFLICT OF\nINTEREST OR POTENTIAL CONFLICT OF\nINTEREST UNDER REGULATION 21(1D)\nPart 1\n1.Employment in any capacity by, or the provision of any service under a contract for services with, the employer of any Auxiliary Police Force other than the Auxiliary Police Force that A is a member of.\n2.Acting as a debt collector.\n3.Carrying on a debt collection business.\n4.Employment in any capacity by, or the provision of any service under a contract for services with, a person that —\n(a)holds a moneylender’s licence under the Moneylenders Act 2008; or\n(b)is an exempt moneylender.\n5.Being a director of a person that holds a moneylender’s licence under the Moneylenders Act 2008 or is an exempt moneylender.\n6.Carrying out for reward (whether in the course of business or employment) any function of a private investigator.\n7.Supplying for reward the services of private investigators to other persons.\n8.Employment in any capacity by, or the provision of any service under a contract for services with, a person that holds a private investigation agency’s licence, whether or not that person is concurrently the employer of the Auxiliary Police Force of which A is a member, if the employment or provision of the service is in relation to any activity engaged in under the private investigation agency’s licence.\n9.Acting as a security officer.\n10.Supplying for reward the services of security officers to other persons.\n11.Employment in any capacity by, or the provision of any service under a contract for services with, a person that holds a security agency’s licence, whether or not that person is concurrently the employer of the Auxiliary Police Force of which A is a member, if the employment or provision of the service is in relation to any activity engaged in under the security agency’s licence.\n12.Providing for reward a security service.\n13.Employment in any capacity by, or the provision of any service under a contract for services with, a person that holds a security service provider’s licence, whether or not that person is concurrently the employer of the Auxiliary Police Force of which A is a member, if the employment or provision of the service is in relation to any activity engaged in under the security service provider’s licence.\n14.Where A is deployed to any building or place as an auxiliary police officer for any purpose mentioned in section 86(1) of the Act —\n(a)employment in any capacity by, or the provision of any service under a contract for services with, any person that carries on or engages in any trade or business at that building or place; or\n(b)performing any work by A for any person (X) that is not a person mentioned in sub-paragraph (a) (as an employee of X or under a contract for services with X) at that building or place, if A performs that work at any time when A is also at that building or place to carry out any purpose of A’s deployment as an auxiliary police officer.\nPart 2\n1. In this Schedule —\n“debt collection business” and “debt collector” have the meanings given by section 2(1) of the Debt Collection Act 2022;\n“exempt moneylender” has the meaning given by section 2 of the Moneylenders Act 2008;\n“private investigation agency’s licence” means a private investigation agency’s licence granted under the Private Security Industry Act 2007;\n“private investigator” has the meaning given by section 5 of the Private Security Industry Act 2007;\n“security agency’s licence” means a security agency’s licence granted under the Private Security Industry Act 2007;\n“security officer” has the meaning given by section 13 of the Private Security Industry Act 2007;\n“security service” means any activity or class of activities mentioned in section 18(1) of the Private Security Industry Act 2007;\n“security service provider’s licence” means a security service provider’s licence granted under the Private Security Industry Act 2007.\n[S 522/2025 wef 01/08/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Auxiliary Police Forces Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

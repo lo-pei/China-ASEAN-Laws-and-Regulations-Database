@@ -1,7 +1,7 @@
 {
  "id": "SG-H2805",
  "title": {
-  "zh": null,
+  "zh": "博彩器具与设备",
   "en": "Instruments and Appliances for Gaming",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n(1) Dominoes.\n(2) The Poh.\n(3) The Pek Bin top or Eight-sided top.\n(4) The Belankas top or Four-sided top.\n(5) The Mah Jong tiles.\n(6) The English playing cards.\n(7) The Standard Dice.\n(8) The Hoo, Hey, How Dice.\n(9) The ‘Four Colours Cards’ or Soo Sik Pai.\n(10) The ‘Six Tigers Cards’ or Luk Foo Pai.\n(11) The Chi Kee Cards.\n(12) The ‘Double Gold Cards’ or ‘Gold Change Cards’ or Seong Kum Pai or Pin Kum Pai.\n(13) The ‘Fifteen Points Cards’ or Sap Ng Hor Pai.\n(14) The Tung Koon Cards or Tung Koon Pai.\n(15) The ‘Black and White Cards’ or Oh Peh Pai.\n[S 186/61 — 4.8.61]\n(16) The roulette wheel.\n[S 426/96 — 30.9.96]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Instruments and Appliances for Gaming",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

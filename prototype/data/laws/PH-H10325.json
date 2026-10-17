@@ -1,7 +1,7 @@
 {
  "id": "PH-H10325",
  "title": {
-  "zh": null,
+  "zh": "全国浸信会日",
   "en": "National Baptist Day",
   "orig": "An Act Declaring the Second Thursday of January of Every Year a Special Working Holiday to be Known as \"National Baptist Day\""
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "National Baptist Day",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3682",
  "title": {
-  "zh": null,
+  "zh": "儿童地位（辅助生殖技术）法 2013",
   "en": "Status of Children (Assisted Reproduction Technology) Act 2013",
   "orig": null
  },
@@ -276,5 +276,13 @@
     "en": "15.—(1) Despite section 3 but subject to subsections (2) and (3), where a child was born before 1 October 2014 as a result of a fertilisation procedure, the court may, in its discretion, make an order declaring the parenthood of the child.\n(2) In making an order under subsection (1), the court —\n(a)is to exercise its discretion in accordance with section 10(7); and\n(b)may additionally have regard to the provisions of sections 6 to 9, but is not bound to apply those provisions.\n(3) No application under this section may be made after the expiry of a period of 2 years after the date on which the applicant discovered that the child who was born as a result of the fertilisation procedure was brought about under circumstances described in section 9(1).\n(4) Section 10 applies, with the necessary modifications, to an application made under this section."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Status of Children (Assisted Reproduction Technology) Act 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

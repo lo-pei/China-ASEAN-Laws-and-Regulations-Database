@@ -1,7 +1,7 @@
 {
  "id": "PH-H332",
  "title": {
-  "zh": null,
+  "zh": "修改市镇预算通过程序，修订《修订行政法典》第2295条、第2296条与第2297条的法案",
   "en": "An Act to Revise the Procedure in the Adoption of Municipal Budgets, Amending Sections Twenty-Two Hundred and Ninety-Five, Twenty-Two Hundred and Ninety-Six, and Twenty-Two Hundred and Ninety-Seven of the Revised Administrative Code",
   "orig": "An Act to Revise the Procedure in the Adoption of Municipal Budgets, Amending Sections Twenty-Two Hundred and Ninety-Five, Twenty-Two Hundred and Ninety-Six, and Twenty-Two Hundred and Ninety-Seven of the Revised Administrative Code"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 9, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Revise the Procedure in the Adoption of Municipal Budgets, Amending Sections Twenty-Two Hundred and Ninety-Five, Twenty-Two Hundred and Ninety-Six, and Twenty-Two Hundred and Ninety-Seven of the Revised Administrative Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

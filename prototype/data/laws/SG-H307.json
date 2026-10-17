@@ -1,7 +1,7 @@
 {
  "id": "SG-H307",
  "title": {
-  "zh": null,
+  "zh": "汇票法 1949",
   "en": "Bills of Exchange Act 1949",
   "orig": null
  },
@@ -1734,5 +1734,13 @@
     "en": "106.—(1) The rules in bankruptcy relating to bills of exchange, promissory notes and cheques shall continue to apply thereto notwithstanding anything in this Act.\n(2) Nothing in this Act shall affect —\n(a)the provisions of any written law for the time being in force relating to revenue;\n(b)the provisions of any written law for the time being in force relating to joint stock banks or companies;\n(c)the validity of any usage relating to dividend warrants, or the indorsement thereof."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Bills of Exchange Act 1949",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

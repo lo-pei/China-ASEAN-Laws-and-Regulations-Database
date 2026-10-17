@@ -1,7 +1,7 @@
 {
  "id": "PH-H558",
  "title": {
-  "zh": null,
+  "zh": "通过进一步修订《修订行政法典》第528条，将大牲畜转让证书费由2比索提高至5比索以增加收入的法案",
   "en": "An Act to Raise Revenue By Raising From Two to Five Pesos the Charge for the Certificate of Transfer of Large Cattle, By Amending Further Section Five Hundred Twenty-Eight of the Revised Administrative Code",
   "orig": "An Act to Raise Revenue By Raising From Two to Five Pesos the Charge for the Certificate of Transfer of Large Cattle, By Amending Further Section Five Hundred Twenty-Eight of the Revised Administrative Code"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval but unless otherwise expressly extended by Congress, the increased charge provided for in this Act shall continue in force and effect only until December 31, 1952, after which Period the actual rates of charge shall again be in force.\nApproved, August 31, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Raise Revenue By Raising From Two to Five Pesos the Charge for the Certificate of Transfer of Large Cattle, By Amending Further Section Five Hundred Twenty-Eight of the Revised Administrative Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

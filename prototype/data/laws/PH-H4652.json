@@ -1,7 +1,7 @@
 {
  "id": "PH-H4652",
  "title": {
-  "zh": null,
+  "zh": "将职业教育局家庭工业司划归公共学校局的法案",
   "en": "An Act Returning the Home Industries Division in the Bureau of Vocational Education to the Bureau of Public Schools",
   "orig": "An Act Returning the Home Industries Division in the Bureau of Vocational Education to the Bureau of Public Schools"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Returning the Home Industries Division in the Bureau of Vocational Education to the Bureau of Public Schools",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

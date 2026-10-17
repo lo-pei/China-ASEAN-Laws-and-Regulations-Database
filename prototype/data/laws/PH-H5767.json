@@ -1,7 +1,7 @@
 {
  "id": "PH-H5767",
  "title": {
-  "zh": null,
+  "zh": "规定全面持续的城市发展与住房计划，建立其实施机制并为其他目的法案",
   "en": "An Act to Provide for a Comprehensive and Continuing Urban Development and Housing Program, Establish the Mechanism for Its Implementation, and for Other Purposes",
   "orig": "An Act to Provide for a Comprehensive and Continuing Urban Development and Housing Program, Establish the Mechanism for Its Implementation, and for Other Purposes"
  },
@@ -530,5 +530,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for a Comprehensive and Continuing Urban Development and Housing Program, Establish the Mechanism for Its Implementation, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

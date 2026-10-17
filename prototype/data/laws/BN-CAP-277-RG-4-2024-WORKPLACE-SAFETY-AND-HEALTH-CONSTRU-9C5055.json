@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-277-RG-4-2024-WORKPLACE-SAFETY-AND-HEALTH-CONSTRU-9C5055",
  "title": {
-  "zh": null,
+  "zh": "RG 4 2024 版工作场所安全与健康建筑条例",
   "en": "RG 4 2024 ED WORKPLACE SAFETY AND HEALTH CONSTRUCTION REGULATIONS",
   "orig": null
  },
@@ -2233,5 +2233,13 @@
     "en": "Any person who contravenes any provision of these Regulations which imposes a duty on him is guilty of an offence and liable on conviction to a fine not exceeding $20,000, imprisonment for a term not exceeding 2 years or both."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 4 2024 ED WORKPLACE SAFETY AND HEALTH CONSTRUCTION REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

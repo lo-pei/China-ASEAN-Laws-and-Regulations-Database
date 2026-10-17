@@ -1,7 +1,7 @@
 {
  "id": "PH-H4821",
  "title": {
-  "zh": null,
+  "zh": "设立大马尼拉供水与污水处理系统并解散国家供水与污水处理管理局的法案，并为其他目的",
   "en": "An Act Creating the Metropolitan Waterworks and Sewerage System and Dissolving the National Waterworks and Sewerage Authority; and for Other Purposes.",
   "orig": "An Act Creating the Metropolitan Waterworks and Sewerage System and Dissolving the National Waterworks and Sewerage Authority; and for Other Purposes."
  },
@@ -250,5 +250,13 @@
     "en": "Effectivity. This Act shall take effect upon its approval.\nApproved: June 19, 1971"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Metropolitan Waterworks and Sewerage System and Dissolving the National Waterworks and Sewerage Authority; and for Other Purposes.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

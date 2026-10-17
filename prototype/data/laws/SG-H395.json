@@ -1,7 +1,7 @@
 {
  "id": "SG-H395",
  "title": {
-  "zh": null,
+  "zh": "巴士服务业（罪行构成）条例 2016",
   "en": "Bus Services Industry (Composition of Offences) Regulations 2016",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the LTA or any authorised officer in accordance with section 40(1) of the Act:\n(a)any offence (other than a continuing offence) under section 30(7), 34(3), 35(3), 36(3) or (4) or 42AA(6) of the Act;\n(b)any offence under regulation 4(3), 5(4), 6(2), 7(3), 8(2), 9(3), 10(2), 11(2), 12(2), 13(2), 15(3), 16(3), 17(3), 18(2) or 19(2) of the Bus Services Industry (Control of Conduct and Activities — Public Bus) Regulations 2026 (G.N. No. S 661/2026);\n(c)any offence under regulation 4(3), 5(3), 6(2), 7(2), 9(2), 10(2), 11(2), 13(3), 15(2), 16(3), 17(4), 18(2) or 19(2) of the Bus Services Industry (Control of Conduct and Activities — Bus Interchange) Regulations 2026 (G.N. No. S 662/2026).\n[S 663/2026 wef 23/09/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Bus Services Industry (Composition of Offences) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

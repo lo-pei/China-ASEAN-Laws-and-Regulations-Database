@@ -1,7 +1,7 @@
 {
  "id": "PH-H9240",
  "title": {
-  "zh": null,
+  "zh": "将 Contel 通信公司受让的第 3932 号共和国法特许经营权再续展二十五年，并追认该特许权由 Concepcion 实业公司转让予该公司的法案",
   "en": "An Act Renewing the Franchise of Contel Communications, Incorporated, Assignee of the Grantee Under Republic Act Numbered Thirty-Nine Hundred and Thirty-Two, as Amended By Republic Act Numbered Seventy-Four Hundred and One, Entitled \"An Act Granting the Concepcion Industries, Incorporated a Franchise to Construct, Maintain, and Operate Radiotelephone Stations for the Transmission and Reception of Radio Communications Within the Philippines\" for Another Twenty-Five (25) Years From the Effectivity of This Act and Ratifying the Assignment and Transfer of the Franchise From Concepcion Industries, Incorporated to Contel Communications, Incorporated",
   "orig": "An Act Renewing the Franchise of Contel Communications, Incorporated, Assignee of the Grantee Under Republic Act Numbered Thirty-Nine Hundred and Thirty-Two, as Amended By Republic Act Numbered Seventy-Four Hundred and One, Entitled \"An Act Granting the Concepcion Industries, Incorporated a Franchise to Construct, Maintain, and Operate Radiotelephone Stations for the Transmission and Reception of Radio Communications Within the Philippines\" for Another Twenty-Five (25) Years From the Effectivity of This Act and Ratifying the Assignment and Transfer of the Franchise From Concepcion Industries, Incorporated to Contel Communications, Incorporated"
  },
@@ -251,5 +251,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing the Franchise of Contel Communications, Incorporated, Assignee of the Grantee Under Republic Act Numbered Thirty-Nine Hundred and Thirty-Two, as Amended By Republic Act Numbered Seventy-Four Hundred and One, Entitled \"An Act Granting the Concepcion Industries, Incorporated a Franchise to Construct, Maintain, and Operate Radiotelephone Stations for the Transmission and Reception of Radio Communications Within the Philippines\" for Another Twenty-Five (25) Years From the Effectivity of This Act and Ratifying the Assignment and Transfer of the Franchise From Concepcion Industries, Incorporated to Contel Communications, Incorporated",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

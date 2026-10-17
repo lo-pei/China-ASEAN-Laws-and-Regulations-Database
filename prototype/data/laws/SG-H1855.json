@@ -1,7 +1,7 @@
 {
  "id": "SG-H1855",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（商店振兴计划）命令 2026",
   "en": "Housing and Development (Precincts for Upgrading Works) (Revitalisation of Shops Scheme) Order 2026",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nAll that part of the housing estate of the Board bounded by Bishan Street 22 and Bishan Street 24, comprised in Lot number 12285K in Mukim 18 and on which Apartment Blocks 279, 280, 282, 283 and 284 are erected, and which is more particularly delineated in the Plan.\nTHE PLAN\nBISHAN STREET 22 / BISHAN STREET 24"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Revitalisation of Shops Scheme) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

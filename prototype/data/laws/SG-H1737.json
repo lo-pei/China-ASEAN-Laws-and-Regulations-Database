@@ -1,7 +1,7 @@
 {
  "id": "SG-H1737",
  "title": {
-  "zh": null,
+  "zh": "公路（第 2 号修订）法典 2019",
   "en": "Highway (Revision No. 2) Code 2019",
   "orig": null
  },
@@ -444,5 +444,13 @@
     "en": "31. Part V of the Highway Code is deleted and the following Part substituted therefor:\n“PART V\nROAD USERS AND ANIMALS\n111. Do not let your dog stray. When you take it for a walk, or when it is in your car, keep it under close control.\n112. Make sure that the road is clear before you allow, or take, animals on to the road.\n113. When leading an animal on the road, always place yourself between it and the traffic, and keep the animal to the edge of the road.\nSIGNS AND SIGNALS\n114. When turning, give way to through traffic and to pedestrians who are crossing.\nSIGNALS GIVEN BY POLICE OFFICER\n115. Signals given by police officers directing traffic take precedence over those conveyed by road signs, traffic light signals, road markings and traffic regulations.\nHAND SIGNALS\n116. Before doing any of the following, give a clear signal and in good time to let other road users know of your intention:\n(a)turning or moving towards the right or left;\n(b)stopping or slowing down;\n(c)pulling out from a parking place;\n(d)pulling out to pass.\nCOMMON CAUSES OF TRAFFIC ACCIDENTS\n117. The following are common causes of traffic accidents:\n(a)failing to keep a proper lookout;\n(b)failing to keep proper control of one’s vehicle;\n(c)failing to give way to traffic with the right of way;\n(d)changing lane without due care;\n(e)disobeying traffic light signals.”."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Highway (Revision No. 2) Code 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

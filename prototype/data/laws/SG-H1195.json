@@ -1,7 +1,7 @@
 {
  "id": "SG-H1195",
  "title": {
-  "zh": null,
+  "zh": "幼儿培育中心条例 2018",
   "en": "Early Childhood Development Centres Regulations 2018",
   "orig": null
  },
@@ -1210,5 +1210,13 @@
     "en": "SEVENTH SCHEDULE\nRegulation 53(b)\nPersonal hygiene and sanitary facilities\n1. A licensee must provide toilet facilities at the licensee’s centre for the children attending at the centre at each level of the centre’s premises.\n2. A licensee must ensure that —\n(a)the licensee’s centre has at least 2 wash hand basins and 2 flush toilets;\n(b)the ratio of wash basins that complies with paragraph 3(a) and are installed at the licensee’s centre to the total number of children enrolled in the centre is at least 1:23; and\n(c)the ratio of flush toilets that complies with paragraph 3(b) and are installed at the licensee’s centre to the total number of children enrolled in the centre is at least 1:23.\n3. For the purposes of paragraph 2 —\n(a)each wash hand basin must be child‑sized and suitable for use by any child who attends the licensee’s centre; and\n(b)each flush toilet must —\n(i)be child-sized;\n(ii)be a pedestal type of toilet;\n(iii)be of a height not more than 400 millimetres measured from the floor to the top of the bowl of the toilet (excluding the seat of the toilet); and\n(iv)be housed in a cubicle that has partitions situated at the sides of the flush toilet that are sufficiently tall to provide a child who is using the flush toilet with privacy.\n4. A licensee must ensure that at least one cubicle that houses a flush toilet at the licensee’s centre has a door or curtain directly opposite the flush toilet that is sufficient to provide a child who is using the flush toilet with privacy but does not prevent an adult from supervising the use of the flush toilet by the child should the need arise.\n5. A licensee that provides full‑day services to one or more children must provide bathing facilities (including water heaters) at the licensee’s centre that comply with the following:\n(a)bath facilities must be separated by partitions that are sufficiently tall to provide a child who is using the bathing facilities with privacy, but does not prevent an adult from supervising the bathing process of the child should the need arise;\n(b)at least one shower must be provided for every 50 children enrolled in the centre.\n6. The licensee of a centre at which any infant class is conducted must comply with the following:\n(a)provide one sink and diaper changing area at the centre for every 10 children enrolled in the centre’s infant classes;\n(b)ensure that each such diaper changing area must have at least one diaper changing table with raised sides, and is located next to a sink with running water;\n(c)ensure that such other facilities or equipment as may be specified by the Chief Licensing Officer are provided at the centre."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Early Childhood Development Centres Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

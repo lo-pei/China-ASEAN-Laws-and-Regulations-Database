@@ -1,7 +1,7 @@
 {
  "id": "PH-H3037",
  "title": {
-  "zh": null,
+  "zh": "授予国家灌溉管理局特许经营权及相关权力的法案",
   "en": "An Act Granting the National Irrigation Administration",
   "orig": "An Act Granting the National Irrigation Administration"
  },
@@ -242,5 +242,13 @@
     "en": "Effectivity. This Act shall take effect upon its approval.\nApproved: June 22, 1963"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the National Irrigation Administration",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

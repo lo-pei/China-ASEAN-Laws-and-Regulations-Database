@@ -1,7 +1,7 @@
 {
  "id": "PH-H7815",
  "title": {
-  "zh": null,
+  "zh": "将因添附取得的若干地块纳入Sipalay市属地管辖，为此修订第9027号共和国法（即《将西内格罗斯省Sipalay市镇改设为组成市、名为Sipalay市法》）第2条的法案",
   "en": "An Act to include Certain Parcel of Lands acquired by Accretion as part of the Territorial Jurisdiction of the City of Sipalay, Amending for the purpose Section 2 of Republic Act No. 9027, Entitled \"An Act Covnerting the Municipality of Sipalay, Province of Negros Occidental into a Component City to be known as the City of Sipalay\"",
   "orig": "An Act to include Certain Parcel of Lands acquired by Accretion as part of the Territorial Jurisdiction of the City of Sipalay, Amending for the purpose Section 2 of Republic Act No. 9027, Entitled \"An Act Covnerting the Municipality of Sipalay, Province of Negros Occidental into a Component City to be known as the City of Sipalay\""
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to include Certain Parcel of Lands acquired by Accretion as part of the Territorial Jurisdiction of the City of Sipalay, Amending for the purpose Section 2 of Republic Act No. 9027, Entitled \"An Act Covnerting the Municipality of Sipalay, Province of Negros Occidental into a Component City to be known as the City of Sipalay\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

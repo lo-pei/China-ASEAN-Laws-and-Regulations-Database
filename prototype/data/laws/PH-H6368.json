@@ -1,7 +1,7 @@
 {
  "id": "PH-H6368",
  "title": {
-  "zh": null,
+  "zh": "修订第226号行政命令（即1987年《综合投资法典》）第7条（13）的法案",
   "en": "An Act to Amend Article 7 (13) of Executive Order No. 226, Otherwise Known as the Omnibus Investments Code of 1987",
   "orig": "An Act to Amend Article 7 (13) of Executive Order No. 226, Otherwise Known as the Omnibus Investments Code of 1987"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect after fifteen (I 5) days following its publication either in the official Gazette or a newspaper of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Article 7 (13) of Executive Order No. 226, Otherwise Known as the Omnibus Investments Code of 1987",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

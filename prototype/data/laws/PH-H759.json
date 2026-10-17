@@ -1,7 +1,7 @@
 {
  "id": "PH-H759",
  "title": {
-  "zh": null,
+  "zh": "规定有效公路管理，修改公路资金分配，并向各省、特许市与市镇修建道路与街道提供援助，及为其他目的法案",
   "en": "An Act to Provide for An Effective Highway Administration, Modify Apportionment of Highway Funds and Give Aid to the Provinces, Chartered Cities and Municipalities in the Construction of Roads and Streets, and for Other Purposes",
   "orig": "An Act to Provide for An Effective Highway Administration, Modify Apportionment of Highway Funds and Give Aid to the Provinces, Chartered Cities and Municipalities in the Construction of Roads and Streets, and for Other Purposes"
  },
@@ -360,5 +360,13 @@
     "en": "Act, when in effect. - This Act shall take effect upon its approval, except sections four, five, six, seven, eight, nine, and ten hereof which shall take effect on January first, nineteen hundred and \"fifty-four.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for An Effective Highway Administration, Modify Apportionment of Highway Funds and Give Aid to the Provinces, Chartered Cities and Municipalities in the Construction of Roads and Streets, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

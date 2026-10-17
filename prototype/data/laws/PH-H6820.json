@@ -1,7 +1,7 @@
 {
  "id": "PH-H6820",
  "title": {
-  "zh": null,
+  "zh": "将奎松市East Avenue的East Avenue医疗中心床位由三百五十（350）张增至六百（600）张，改善其服务设施与专业医疗服务，并为此拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the East Avenue Medical Center Located in East Avenue, Quezon City, From Three Hundred and Fifty (350) To Six Hundred (600) Beds, Upgrading the Service-facilities and Professional Health Care Therein, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the East Avenue Medical Center Located in East Avenue, Quezon City, From Three Hundred and Fifty (350) To Six Hundred (600) Beds, Upgrading the Service-facilities and Professional Health Care Therein, and Appropriating Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 25, 1997."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the East Avenue Medical Center Located in East Avenue, Quezon City, From Three Hundred and Fifty (350) To Six Hundred (600) Beds, Upgrading the Service-facilities and Professional Health Care Therein, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

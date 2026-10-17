@@ -1,7 +1,7 @@
 {
  "id": "SG-H2317",
  "title": {
-  "zh": null,
+  "zh": "所得税（新加坡航空制造私人有限公司——第 13(12) 条豁免）命令 2020",
   "en": "Income Tax (Singapore Aerospace Manufacturing Private Limited — Section 13(12) Exemption) Order 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividends received in Singapore by Singapore Aerospace Manufacturing Private Limited (a company incorporated in Singapore) from SAM Engineering & Equipment (M) Berhad (a company incorporated in Malaysia) in the basis periods for the year of assessment 2017 and subsequent years of assessment, and derived from dividends received by SAM Engineering & Equipment (M) Berhad from Avitron Pte. Ltd. (a company incorporated in Singapore), are exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter of approval dated 4 March 2020 addressed to KPMG Services Pte. Ltd., the representative of Singapore Aerospace Manufacturing Private Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Singapore Aerospace Manufacturing Private Limited — Section 13(12) Exemption) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

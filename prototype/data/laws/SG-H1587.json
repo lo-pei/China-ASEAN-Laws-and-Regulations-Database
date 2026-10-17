@@ -1,7 +1,7 @@
 {
  "id": "SG-H1587",
  "title": {
-  "zh": null,
+  "zh": "消防安全（豁免）（建筑工地临时建筑）命令",
   "en": "Fire Safety (Exemption) (Temporary Buildings in Construction Sites) Order",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nConditions of exemption\n1. The person for whom the fire safety works are to be carried out shall appoint a qualified person in respect of those works.\n2. The qualified person referred to in paragraph 1 shall, in addition to his duties under the Act and any regulations made thereunder —\n(a)design and prepare the plans for the fire safety works in accordance with the technical code of practice for Fire Safety in Temporary Buildings and such other guidelines as may, from time to time, be issued by the Commissioner and certify in such form as the Commissioner may require that the plans are prepared in accordance with the Act and any regulations made thereunder and with these conditions;\n(b)take all reasonable steps and exercise due diligence in supervising and inspecting the fire safety works to ensure that such works are being carried out in accordance with the Act and any regulations made thereunder and with these conditions; and\n(c)upon completion of the fire safety works, certify in such form as the Commissioner may require that the fire safety works have been inspected and completed in accordance with the Act and any regulations made thereunder and with these conditions, and furnish that certificate, together with the plans and the certificate referred to in sub-paragraph (a), to the person for whom the fire safety works have been carried out.\n3. The person for whom the fire safety works have been carried out shall —\n(a)ensure that all the plans and certificates referred to in paragraph 2(c) are at all times kept available for inspection at the site office where the temporary building to which they relate is situated;\n(b)submit those plans and certificates for inspection by the Commissioner if the Commissioner so directs;\n(c)ensure that the fire safety works and the temporary buildings to which they relate are maintained in accordance with all relevant guidelines issued by the Commissioner; and\n(d)demolish the temporary building before or upon completion of the building works relating to the permanent building at the site where the temporary building is situated, or at any time as the Commissioner may direct.\n[G.N. No. S 255/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fire Safety (Exemption) (Temporary Buildings in Construction Sites) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

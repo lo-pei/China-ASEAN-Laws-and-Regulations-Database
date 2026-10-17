@@ -1,7 +1,7 @@
 {
  "id": "PH-H7436",
  "title": {
-  "zh": null,
+  "zh": "将南甘马粦省卡拉莫安半岛公路命名为省长Felix A. Fuentebella国家公路的法案",
   "en": "An Act Renaming the Caramoan Peninsula Road in the Province of Camarines Sur to Governor Felix A. Fuentebella National Highway",
   "orig": "An Act Renaming the Caramoan Peninsula Road in the Province of Camarines Sur to Governor Felix A. Fuentebella National Highway"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Caramoan Peninsula Road in the Province of Camarines Sur to Governor Felix A. Fuentebella National Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

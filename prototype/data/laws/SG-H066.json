@@ -1,7 +1,7 @@
 {
  "id": "SG-H066",
  "title": {
-  "zh": null,
+  "zh": "活跃通勤（能力测试）条例 2021",
   "en": "Active Mobility (Competency Tests) Regulations 2021",
   "orig": null
  },
@@ -162,5 +162,13 @@
     "en": "SECOND SCHEDULE\nRegulation 4(2)\nTest of competence for\nriding power‑assisted bicycle\n1. General knowledge of public path system and lawful use of vehicles on public paths in Singapore:\n(a)Types of vehicles that may lawfully be used on public paths in Singapore.\n(b)Types of public paths and markings and signs denoting the start and end of different public paths.\n(c)Requirements relating to construction, weight and accessories of power‑assisted bicycles.\n(d)Speed limits and other requirements on proper riding of power‑assisted bicycles on different types of public paths and roads.\n2. Pre-journey checks and maintenance of power‑assisted bicycles:\n(a)Safe maintenance, particularly concerning fire safety, of power‑assisted bicycles.\n(b)Knowledge about pre-ride checks, including routine checks on brakes, lights, speedometers and illegal modifications.\n(c)Use of appropriate safety gear and attire when riding power‑assisted bicycles.\n(d)Proper parking of power-assisted bicycles in public places.\n(e)Appropriate planning of journey to ensure lawful riding of power‑assisted bicycle and on appropriate public paths and roads.\n(f)Knowledge on the types of insurance including when compulsory third‑party liability insurance is required.\n3. Rules and code of conduct for riding power-assisted bicycles:\n(a)Appropriate handling of power-assisted bicycles including the proper control of handlebars and brakes.\n(b)Rules and regulations under the Act and the Road Traffic Act relating to the use of power‑assisted bicycles.\n(c)Navigation of common off-road scenarios, including interaction with other users of public paths.\n(d)Navigation of common on‑road scenarios, including interaction with other road users.\n(e)Good and best practices relating to the riding and use of power‑assisted bicycles on roads and the appropriate public paths.\n(f)Identification of potential hazards, such as bends and slopes.\n(g)Things to do when in an accident."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Active Mobility (Competency Tests) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

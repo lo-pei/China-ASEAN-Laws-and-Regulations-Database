@@ -1,7 +1,7 @@
 {
  "id": "SG-H1615",
  "title": {
-  "zh": null,
+  "zh": "地理标志法 2014",
   "en": "Geographical Indications Act 2014",
   "orig": null
  },
@@ -1694,5 +1694,13 @@
     "en": "THE SCHEDULE\nSections 4(6), 32(2)(b), 40(1), (2)\nand (3) and 41(1)(b)\nCategories of goods under which geographical indication may be registered\n1.Wines\n2.Spirits\n3.Beers\n4.Cheese\n5.Meat and meat products\n6.Seafood\n7.Edible oils\n8.Non-edible oils\n9.Fruits\n10.Vegetables\n11.Spices and condiments\n12.Confectionery and baked goods\n13.Flowers and parts of flowers\n14.Natural gum\n15.Coffee\n[S 523/2026 wef 01/08/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Geographical Indications Act 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

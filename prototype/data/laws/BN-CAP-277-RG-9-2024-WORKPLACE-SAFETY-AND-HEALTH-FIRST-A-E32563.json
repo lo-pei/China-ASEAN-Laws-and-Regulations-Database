@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-277-RG-9-2024-WORKPLACE-SAFETY-AND-HEALTH-FIRST-A-E32563",
  "title": {
-  "zh": null,
+  "zh": "RG 9 2024 版工作场所安全与健康急救条例",
   "en": "RG 9 2024 ED WORKPLACE SAFETY AND HEALTH FIRST AID REGULATIONS",
   "orig": null
  },
@@ -144,5 +144,13 @@
     "en": "Any occupier of a workplace who fails to ensure that regulation 4, 5, 6 or 7 is complied with in relation to the workplace is guilty of an offence and liable on conviction to a fine not exceeding $5,000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 9 2024 ED WORKPLACE SAFETY AND HEALTH FIRST AID REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

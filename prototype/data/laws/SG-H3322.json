@@ -1,7 +1,7 @@
 {
  "id": "SG-H3322",
  "title": {
-  "zh": null,
+  "zh": "国民登记（规定机构）条例 2016",
   "en": "National Registration (Prescribed Institutions) Regulations 2016",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nPrescribed Institutions\n1.Singapore Post Limited"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "National Registration (Prescribed Institutions) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

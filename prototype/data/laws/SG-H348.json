@@ -1,7 +1,7 @@
 {
  "id": "SG-H348",
  "title": {
-  "zh": null,
+  "zh": "建设局（进口商发牌）条例 2011",
   "en": "Building and Construction Authority (Importers’ Licensing) Regulations 2011",
   "orig": null
  },
@@ -626,5 +626,13 @@
     "en": "THIRD SCHEDULE\nRegulation 31(1)(b)\nCode of conduct for authorised analysts\n1. An authorised analyst shall discharge, with complete fidelity, his duties —\n(a)to his employer; and\n(b)to any person who, whether on his own behalf or on behalf of another person, retains or otherwise uses the services of, or otherwise engages or employs, the authorised analyst (referred to in this Schedule as his client).\n2. An authorised analyst shall not accept remuneration for authorised analyst’s services he renders from a person other than his employer or client except with the knowledge and approval of his employer or client.\n3. An authorised analyst shall not, without disclosing the fact to the Authority and his employer in writing, be a director of or have a substantial financial interest in, or be an employee or agent for, any company, firm or person carrying on any business as a licensed importer of essential construction material.\n4. An authorised analyst shall not accept any trade commission, discount, allowance or indirect payment or other consideration in connection with any authorised analyst’s work in which he is engaged.\n5. An authorised analyst shall not hold, assume or intentionally accept a position in which his interest is in conflict with his duty to his client or employer.\n6. An authorised analyst shall not disclose confidential information concerning the business affairs or technical processes of his client or employer without the consent of the client or employer.\n7. An authorised analyst shall not use information which is obtained confidentially in the course of his assignment for the purpose of making personal profit.\n8. An authorised analyst shall not give advice which does not fully reflect his best professional judgment.\n9. Notwithstanding the responsibility to his employer and to his profession, an authorised analyst shall act with prime regard to the public interest."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building and Construction Authority (Importers’ Licensing) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

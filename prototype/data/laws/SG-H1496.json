@@ -1,7 +1,7 @@
 {
  "id": "SG-H1496",
  "title": {
-  "zh": null,
+  "zh": "费用（所得税）命令",
   "en": "Fees (Income Tax) Order",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\n(1)For the search of microfilmed documents\n$50 per document\n(2)For the search of any document not referred to in item (1)\n$20 per search\n(3)For the supply of a certified copy of each page of any document\n$3\n(4)For the supply of a copy of each page of any document\n30 cents.\n[S 552/2019 wef 15/08/2019]\n[S 315/2016 wef 01/07/2016]\n[S 779/2013 wef 23/12/2013]\n[S 128/2012 wef 01/04/2012]\n[G.N. No. S 170/2002]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Income Tax) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

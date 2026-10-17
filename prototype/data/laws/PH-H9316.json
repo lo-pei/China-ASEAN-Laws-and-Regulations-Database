@@ -1,7 +1,7 @@
 {
  "id": "PH-H9316",
  "title": {
-  "zh": null,
+  "zh": "向菲律宾百岁老人致敬并给予额外福利与特权并为其他目的法案",
   "en": "An Act Honoring and Granting Additional Benefits and Privileges to Filipino Centenarians, and for Other Purposes",
   "orig": "An Act Honoring and Granting Additional Benefits and Privileges to Filipino Centenarians, and for Other Purposes"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation, which shall not be later than seven (7) days after the approval thereof."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Honoring and Granting Additional Benefits and Privileges to Filipino Centenarians, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

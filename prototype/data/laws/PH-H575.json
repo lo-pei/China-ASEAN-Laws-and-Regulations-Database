@@ -1,7 +1,7 @@
 {
  "id": "PH-H575",
  "title": {
-  "zh": null,
+  "zh": "在第466号联邦法（即国家国内税收法典）第260条与第261条之间增列新条款，并修订同一法典第261条",
   "en": "An Act to Insert a New Section Between Sections Two Hundred and Sixty and Two Hundred and Sixty-One of Commonwealth Act Numbered Four Hundred and Sixty-Six, Otherwise Known as the National Internal Revenue Code, and to Amend Section Two Hundred Sixty-One of the Same Code.",
   "orig": "An Act to Insert a New Section Between Sections Two Hundred and Sixty and Two Hundred and Sixty-One of Commonwealth Act Numbered Four Hundred and Sixty-Six, Otherwise Known as the National Internal Revenue Code, and to Amend Section Two Hundred Sixty-One of the Same Code."
  },
@@ -61,14 +61,23 @@
    }
   },
   {
-   "id": "PH-H575-A2_2",
+   "id": "PH-H575-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "This Act shall take effect upon its approval.\nApproved, September 22, 1950."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Insert a New Section Between Sections Two Hundred and Sixty and Two Hundred and Sixty-One of Commonwealth Act Numbered Four Hundred and Sixty-Six, Otherwise Known as the National Internal Revenue Code, and to Amend Section Two Hundred Sixty-One of the Same Code.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

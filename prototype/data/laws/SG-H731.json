@@ -1,7 +1,7 @@
 {
  "id": "SG-H731",
  "title": {
-  "zh": null,
+  "zh": "委员会",
   "en": "Commission",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Inquiry Commissions Act\n(Chapter 48, 1970 Ed)\nCommission\nN 34\nG.N. No. S 1298/1986\nREVISED EDITION 1990\n( )\n[18 April 1986]\nBy WEE KIM WEE President of the Republic of Singapore.\nWhereas on 10th January 1986, Mr. J. B. Jeyaretnam, Member for Anson, had in Parliament in the course of the debate on the Second Reading of the Criminal Procedure Code (Amendment) Bill made allegations of executive interference in the subordinate judiciary, by transferring District Judges who had given decisions that displeased the executive and this interference resulted in the independence and impartiality of the subordinate judiciary being undermined:\nAnd whereas on 19th and 21st March 1986, Mr. J. B. Jeyaretnam, the Member for Anson, had in Parliament in the course of the debate on the Budget again made allegations imputing executive interference in the Subordinate Courts in relation to the transfer of Mr. Michael Khoo, from Senior District Judge to Senior State Counsel and Deputy Public Prosecutor in the Attorney-General’s Chambers and that such interference had cast doubts on the independence and impartiality of District Judges and Magistrates thereby causing disquiet in the minds of the public:\nAnd whereas it is provided by the Inquiry Commissions Act that it shall be lawful for the President, whenever he shall deem it advisable, to issue a Commission appointing one or more Commissioners to inquire, inter alia, into any matter in which an inquiry would in the opinion of the President be for the public welfare:\nAnd whereas I am of the opinion that it would be for the public welfare that an inquiry should forthwith be made by the Commissioner so appointed in accordance with the following terms of reference, namely:\n(a)to investigate the evidence upon which Mr. J. B. Jeyaretnam based his allegation in Parliament on 10th January 1986 that the executive arm of Government had on at least three occasions interfered with the administration of justice in the subordinate judiciary by transferring District Judges from the subordinate judiciary whenever decisions were given by them that displeased the executive and this interference had undermined the independence and impartiality of the subordinate judiciary;\n(b)to investigate the evidence upon which Mr. J. B. Jeyaretnam, MP for Anson, based his allegation in Parliament on 19th and 21st March 1986 that the transfer of Mr. Michael Khoo from his appointment as Senior District Judge to an appointment as Senior State Counsel and Deputy Public Prosecutor in the Attorney-General’s Chambers was due to, or caused by, interference by the executive arm of Government in the subordinate judiciary;\n(c)to decide if there was any truth in these allegations by Mr. J. B. Jeyaretnam; and\n(d)if the Commissioner finds, on the evidence, that the transfers were due to or caused by interference by the executive arm of Government to receive proposals as to how the existing system and procedure as provided in Article 111 of the Constitution relating to the Legal Service Commission and its duties and functions can be improved.\nNow, therefore, I, WEE KIM WEE, hereby appoint Mr. Justice T. S. Sinnathuray to be a Commissioner under section 2(1) of the Inquiry Commissions Act and hereby authorise him to conduct such inquiry in the manner hereinafter directed:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

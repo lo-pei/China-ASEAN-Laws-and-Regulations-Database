@@ -1,7 +1,7 @@
 {
  "id": "PH-H7923",
  "title": {
-  "zh": null,
+  "zh": "将南他加禄干道（STAR）更名为阿波利纳里奥·马比尼高速公路（AMS）的法案",
   "en": "An Act Naming the Southern Tagalog Arterial Road (STAR) to Apolinario Mabini Superhighway (AMS)",
   "orig": "An Act Naming the Southern Tagalog Arterial Road (STAR) to Apolinario Mabini Superhighway (AMS)"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Southern Tagalog Arterial Road (STAR) to Apolinario Mabini Superhighway (AMS)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9084",
  "title": {
-  "zh": null,
+  "zh": "将 2013 年 10 月 28 日青年议会选举推迟，为此修订第 9340 号共和国法并为其他目的法案",
   "en": "An Act to Postpone the Sangguniang Kabataan Elections on October 28, 2013, Amending for the Purpose Republic Act No. 9340, and for Other Purposes",
   "orig": "An Act to Postpone the Sangguniang Kabataan Elections on October 28, 2013, Amending for the Purpose Republic Act No. 9340, and for Other Purposes"
  },
@@ -110,5 +110,13 @@
     "en": "Effectively Clause. – This Act shall take effect immediately after its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Postpone the Sangguniang Kabataan Elections on October 28, 2013, Amending for the Purpose Republic Act No. 9340, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-30-2002-E-FISHERIES-FISH-CULTURE-FARMS-REGULATIONS-2002",
  "title": {
-  "zh": null,
+  "zh": "渔业水产养殖场条例 2002",
   "en": "FISHERIES FISH CULTURE FARMS REGULATIONS 2002",
   "orig": null
  },
@@ -150,5 +150,13 @@
     "en": "The Director may if he thinks fit exempt any person from all or any provision of these Regulations. SCHEDULE (regulations 4(3) dan 10(2)) FEES Licence $50.00 each activity per year Quarantine service\n\n(i) Fish fry $10.00 every 100,000 or part thereof\n\n(ii) Shrimp fry $10.00 every 100,000 or part thereof\n\n(iii) Brood stock $20.00 every 10 or part thereof Analysis of water quality a. Normal $3.00 per sample b. Specific $5.00 per test Confirmation of disease a. Visits $20.00 per visit b. Laboratory analysis\n\n(i) for parasite $5.00 per sample\n\n(ii) for germs $5.00 per sample\n\n(iii) for histopathology $5.00 per sample Licence $50.00 each activity per year Training $100 per person Made this 5th. day of Rabiulawal, 1423 Hijriah corresponding to the 18th. day of May,\n\nPEHIN ORANG KAYA SETIA PAHLAWAN\n\nDATO SERI SETIA HAJI AWANG ABDUL RAHMAN BIN\n\nDATO SETIA HAJI MOHD TAIB Minister of Industry and Primary Resources, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "FISHERIES FISH CULTURE FARMS REGULATIONS 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

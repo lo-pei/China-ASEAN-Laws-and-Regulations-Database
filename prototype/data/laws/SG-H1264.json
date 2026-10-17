@@ -1,7 +1,7 @@
 {
  "id": "SG-H1264",
  "title": {
-  "zh": null,
+  "zh": "雇佣（裁员申报）公告 2019",
   "en": "Employment (Retrenchment Reporting) Notification 2019",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nParagraph 3(2)\nInformation about retrenched employee\n1.Details relating to the employer of an employee to whom a notice of retrenchment is given (called in this Schedule a retrenched employee), including the following:\n(a)the name and address of the employer —\n(i)for an employer who is an individual, as specified on the identity card or passport of the employer; and\n(ii)for an employer who is not an individual —\n(A)as specified on any register or official record kept under any written law; or\n(B)where sub‑paragraph (A) is not applicable, the name in which the employer employed the retrenched employee and the address of the principal place of business of the employer;\n(b)the employer’s trade name if different from that in sub‑paragraph (a);\n(c)the nature of the profession, business, trade or work carried on by the employer;\n(d)the name of any trade union registered under the Trade Unions Act (Cap. 333) recognised by the employer under the Industrial Relations (Recognition of a Trade Union of Employees) Regulations (Cap. 136, Rg 3), and whether that trade union was consulted on the retrenchment of one or more retrenched employees;\n(e)the particulars of the contact person of the employer;\n(f)the number of retrenched employees who are the subject of the retrenchment report;\n(g)the number of employees of the employer on the date the notice of retrenchment is given, including a breakdown of the number of citizens of Singapore, the number of permanent residents of Singapore and the number of foreigners.\n[S 781/2021 wef 01/11/2021]\n2.Details of each retrenched employee, including the following:\n(a)the name of the retrenched employee as specified on the retrenched employee’s identity card or work pass, and the identity card number or foreign identification number (as the case may be) of the retrenched employee;\n(b)the job title of the retrenched employee immediately before the notice of retrenchment was given;\n(c)whether the retrenched employee is a citizen of Singapore, a permanent resident of Singapore or a foreigner;\n(d)the date the notice of retrenchment is given to the employee;\n[S 781/2021 wef 01/11/2021]\n(e)the effective date of retrenchment;\n(f)the retrenchment benefits paid or to be paid to the retrenched employee;\n(g)if no retrenchment benefits were paid to the retrenched employee, the reasons for not paying so;\n(h)the employment facilitation assistance provided or to be provided to the retrenched employee."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Employment (Retrenchment Reporting) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

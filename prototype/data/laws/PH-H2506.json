@@ -1,7 +1,7 @@
 {
  "id": "PH-H2506",
  "title": {
-  "zh": null,
+  "zh": "划定奎松省阿格当岸市镇比纳格巴格村与萨尔瓦西翁村边界的法案",
   "en": "An Act Fixing the Boundaries of the Barrios of Binagbag and Salvacion in the Municipality of Agdangan, Province of Quezon",
   "orig": "An Act Fixing the Boundaries of the Barrios of Binagbag and Salvacion in the Municipality of Agdangan, Province of Quezon"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Fixing the Boundaries of the Barrios of Binagbag and Salvacion in the Municipality of Agdangan, Province of Quezon",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

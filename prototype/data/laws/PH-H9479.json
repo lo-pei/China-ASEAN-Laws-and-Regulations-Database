@@ -1,7 +1,7 @@
 {
  "id": "PH-H9479",
  "title": {
-  "zh": null,
+  "zh": "将北伊罗戈省拉瓦格市本卡格描笼涯至巴卡拉市镇布永描笼涯的绕行公路命名为Rodolfo G. Farinas, Jr.绕行公路的法案",
   "en": "An Act Naming the By-Pass Road Stretching From Barangay Bengcag, City of Laoag, to Barangay Buyon, Municipality of Bacarra, Province of Ilocos Norte, as the Rodolfo G. Farinas, Jr. By-Pass Road",
   "orig": "An Act Naming the By-Pass Road Stretching From Barangay Bengcag, City of Laoag, to Barangay Buyon, Municipality of Bacarra, Province of Ilocos Norte, as the Rodolfo G. Farinas, Jr. By-Pass Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the By-Pass Road Stretching From Barangay Bengcag, City of Laoag, to Barangay Buyon, Municipality of Bacarra, Province of Ilocos Norte, as the Rodolfo G. Farinas, Jr. By-Pass Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3063",
  "title": {
-  "zh": null,
+  "zh": "设立农业经济局以集中承担农业统计的收集、汇编与正式发布，开展农业社会与经济研究并为农业与自然资源各方面提供可靠数据与信息的法案",
   "en": "An Act Creating the Bureau of Agricultural Economics to Centralize and Assume Responsibility for the Collection, Compilation, and Official Release of Agricultural Statistics, to Undertake Social and Economic Researches in Agriculture, and to Provide for All Purposes Adequate and Reliable Data and Information on All Aspects of Agriculture and Natural Resources",
   "orig": "An Act Creating the Bureau of Agricultural Economics to Centralize and Assume Responsibility for the Collection, Compilation, and Official Release of Agricultural Statistics, to Undertake Social and Economic Researches in Agriculture, and to Provide for All Purposes Adequate and Reliable Data and Information on All Aspects of Agriculture and Natural Resources"
  },
@@ -261,5 +261,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Bureau of Agricultural Economics to Centralize and Assume Responsibility for the Collection, Compilation, and Official Release of Agricultural Statistics, to Undertake Social and Economic Researches in Agriculture, and to Provide for All Purposes Adequate and Reliable Data and Information on All Aspects of Agriculture and Natural Resources",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

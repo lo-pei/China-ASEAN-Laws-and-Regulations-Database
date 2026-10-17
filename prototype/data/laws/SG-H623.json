@@ -1,7 +1,7 @@
 {
  "id": "SG-H623",
  "title": {
-  "zh": null,
+  "zh": "新加坡民航局（航空收费价格管制）规则 2009",
   "en": "Civil Aviation Authority of Singapore (Price Control of Aeronautical Charges) Rules 2009",
   "orig": null
  },
@@ -628,5 +628,13 @@
     "en": "THIRD SCHEDULE\nRule 4(2)\nSecurity services and facilities\n1. Security facilities and systems related to handling of passengers and cargo and airport operations.\n[S 284/2010 wef 01/06/2010]\n[S 9/2018 wef 08/01/2018]\n2. Security services related to handling of passengers and cargo and airport operations.\n[S 284/2010 wef 01/06/2010]\n[S 9/2018 wef 08/01/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Civil Aviation Authority of Singapore (Price Control of Aeronautical Charges) Rules 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

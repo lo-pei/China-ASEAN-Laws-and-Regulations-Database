@@ -1,7 +1,7 @@
 {
  "id": "SG-H1106",
  "title": {
-  "zh": null,
+  "zh": "硬币面额与特征",
   "en": "Denominations and Characteristics of Coin",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE $5 SILVER PROOF COIN\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n5 Dollar\nSilver 92.5% Copper 7.5%\n8.25 g 0.20 g\n23.30 mm 0.15 mm\n2.30 mm + 0.20 mm\nScallop\nPlain\nThe Singapore Arms in the centre with the latent image below it. The latent image bears the year-date and MAS logo. A ring of beads surrounds the Singapore Arms with the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 7 o’ clock of the coin.\nThe flower, Vanda Miss Joaquim in the centre with the figures “$5” below it. A ring of beads surrounds the flower with the words “FIVE DOLLARS” and 5 dots at the outer ring of the coin.\n(a) Reverse Design of the $5 Silver Proof Coin\n(b) Obverse Design of the $5 Silver Proof Coin\n(c) Latent Image."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Denominations and Characteristics of Coin",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

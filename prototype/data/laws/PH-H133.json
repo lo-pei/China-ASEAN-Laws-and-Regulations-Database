@@ -1,7 +1,7 @@
 {
  "id": "PH-H133",
  "title": {
-  "zh": null,
+  "zh": "菲律宾稻米分成佃租法",
   "en": "The Philippine Rice Share Tenancy Act",
   "orig": "An act amending certain sections of Act Numbered Four Thousand Fifty-Four, as amended, otherwise known as \"The Philippine Rice Share Tenancy Act\""
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect immediately, provided that when the landlord has advanced money, seeds or the like to the tenant, and in the cases in which it might be applicable, the landlord shall have a preferential lien on the share of the tenant for the payment of such advances made plus six per cent interest per annum.\nApproved: September 30, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Philippine Rice Share Tenancy Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

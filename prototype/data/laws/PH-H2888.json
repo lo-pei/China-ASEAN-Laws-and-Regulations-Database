@@ -1,7 +1,7 @@
 {
  "id": "PH-H2888",
  "title": {
-  "zh": null,
+  "zh": "采用稳定稻谷、大米与玉米价格的计划、为生产提供激励、设立稻米与玉米管理局实施该计划并为此提供资金的法案",
   "en": "An Act to Adopt a Program to Stabilize the Price of Palay, Rice and Corn, to Provide Incentives for Production, and to Create a Rice and Corn Administration to Implement the Same, and to Provide Funds Therefor",
   "orig": "An Act to Adopt a Program to Stabilize the Price of Palay, Rice and Corn, to Provide Incentives for Production, and to Create a Rice and Corn Administration to Implement the Same, and to Provide Funds Therefor"
  },
@@ -210,5 +210,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 14, 1962."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Adopt a Program to Stabilize the Price of Palay, Rice and Corn, to Provide Incentives for Production, and to Create a Rice and Corn Administration to Implement the Same, and to Provide Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

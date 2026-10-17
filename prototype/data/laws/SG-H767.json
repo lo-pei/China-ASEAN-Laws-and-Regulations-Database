@@ -1,7 +1,7 @@
 {
  "id": "SG-H767",
  "title": {
-  "zh": null,
+  "zh": "公司（认可清盘人）（过渡与保留规定）条例 2004",
   "en": "Companies (Approved Liquidators) (Transitional and Savings Provisions) Regulations 2004",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to paragraph (2), where —\n(a)a person has been approved by the Minister as a liquidator under section 9(3) of the Companies Act (Cap. 50) in force immediately before 1st April 2004; and\n(b)such approval (referred to in this regulation as the original approval) remained in force immediately before that date,\nthe person shall be deemed to be approved by the Minister as a liquidator under section 9 (2) of that Act.\n(2) The deemed approval of a person as a liquidator under paragraph (1) shall —\n(a)be subject to the same limitation or condition imposed by the Minister in respect of the original approval; and\n(b)expire on the date on which the original approval would have expired if the Companies (Amendment) Act 2004 had not been enacted."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Companies (Approved Liquidators) (Transitional and Savings Provisions) Regulations 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

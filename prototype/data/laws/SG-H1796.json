@@ -1,7 +1,7 @@
 {
  "id": "SG-H1796",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（职总英康保险合作社）命令",
   "en": "Housing and Development (NTUC Income Insurance Co-operative Limited) Order",
   "orig": null
  },
@@ -97,5 +97,13 @@
     "en": "SECOND SCHEDULE\nParagraph 3\n1. Sections 47, 48, 48B, 49, 52 and 56(1)(b), (j) and (l) of the Act shall not apply to the NTUC Income Insurance Co-operative Limited.\n2. For the avoidance of doubt, the exemptions in paragraph 1 shall not extend to any assignee or purchaser of any such flat from the NTUC Income Insurance Co-operative Limited.\n[G.N. No. S 540/2008]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (NTUC Income Insurance Co-operative Limited) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

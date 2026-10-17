@@ -1,7 +1,7 @@
 {
  "id": "BN-S-2-2026-E-RELIGIOUS-COUNCIL-AND-KADIS-COURTS-ACT-AME-9C4F85",
  "title": {
-  "zh": null,
+  "zh": "宗教理事会与卡迪法庭法修正命令 2026",
   "en": "RELIGIOUS COUNCIL AND KADIS COURTS ACT AMENDMENT ORDER 2026",
   "orig": null
  },
@@ -89,5 +89,13 @@
     "en": "amended by inserting the following two new sections immediately after section 123 - Construction Fund 123A. (1) It is hereby established a fund called the Mosque Construction Fund for the purposes of this Act into which shall be paid(a} any money contributed voluntarily to the Fund; (b} any money obtained through the implementation of any of the Fund; and\n\n(c) subject to the approval of the Majlis, any sum contributed specifically for the construction of mosques under other written the sums contributed specifically for a particular\n\n(2) All moneys in the Fund shall be vested in the Majlis.\n\n(3) All moneys contributed to the fund for the construction of the the Mosque Construction Fund Rules, 2026 is in force, together with the income therefrom, shall be a part of the Fund.\n\n(4) The Majlis may appoint a board, committee or secretariat to receive, collect, manage or control the money contributed specifically for the construction of mosques.\n\n(5) Nothing in this Act shall be interpreted as prohibiting the Majlis from accepting contributions for the Fund from any non-Muslim. of Fund 123B. The moneys of the Fund shall be used - (aJ to construct mosques in Brunei Darussalam and other works approved by the Majlis including funeral room, library, multi-purpose hall, mosque fences and lots; (bf to extend, restore, maintain, renovate or reconstruct any or any part thereof; (cf if necessary, for takaful financing for any mosque building; and (df any other requirements as the Majlis may determine.\". Made this 18th. day of Rejab, 1447 Hijriah corresponding to the 8th. day of January, 2026 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN, DARUSSALAM."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RELIGIOUS COUNCIL AND KADIS COURTS ACT AMENDMENT ORDER 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

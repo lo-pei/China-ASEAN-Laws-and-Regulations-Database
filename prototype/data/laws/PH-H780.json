@@ -1,7 +1,7 @@
 {
  "id": "PH-H780",
  "title": {
-  "zh": null,
+  "zh": "授权国会议员为经选举产生的公职人员主持宣誓的法案",
   "en": "An Act to Empower Members of the Congress to Administer Oath of Office to Elective Public Officials",
   "orig": "An Act to Empower Members of the Congress to Administer Oath of Office to Elective Public Officials"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Empower Members of the Congress to Administer Oath of Office to Elective Public Officials",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

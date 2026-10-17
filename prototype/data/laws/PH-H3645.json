@@ -1,7 +1,7 @@
 {
  "id": "PH-H3645",
  "title": {
-  "zh": null,
+  "zh": "授予 Visayan 电力公司在 Dumaguete 市及东内格罗斯省三个市镇经营电灯、热力与动力系统的特许权",
   "en": "An Act Granting Visayan Electric Company, Inc. a Franchise for Electric Light, Heat and Power System in the City of Dumaguete and in the Municipalities of Bacong, Dauin and Valencia, All in the Province of Oriental Negros",
   "orig": "An Act Granting Visayan Electric Company, Inc. a Franchise for Electric Light, Heat and Power System in the City of Dumaguete and in the Municipalities of Bacong, Dauin and Valencia, All in the Province of Oriental Negros"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Visayan Electric Company, Inc. a Franchise for Electric Light, Heat and Power System in the City of Dumaguete and in the Municipalities of Bacong, Dauin and Valencia, All in the Province of Oriental Negros",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

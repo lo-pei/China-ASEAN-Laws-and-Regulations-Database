@@ -1,7 +1,7 @@
 {
  "id": "SG-H1470",
  "title": {
-  "zh": null,
+  "zh": "家事司法（少年法庭刑事程序）规则 2024",
   "en": "Family Justice (Criminal Proceedings in Youth Courts) Rules 2024",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Despite Part 1, Rule 2(7)(a) of the Family Justice (General) Rules 2024 (G.N. No. S 720/2024), Part 26, Rules 1, 2, 3(1) to (7), 5 and 6 of those Rules apply in relation to any criminal proceedings in a Youth Court."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Family Justice (Criminal Proceedings in Youth Courts) Rules 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

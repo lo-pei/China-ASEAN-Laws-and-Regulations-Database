@@ -1,7 +1,7 @@
 {
  "id": "PH-H7953",
  "title": {
-  "zh": null,
+  "zh": "理顺国家假日庆祝活动，为此修订第292号行政令第一册第七章第26条（经修正，即1987年行政法典）的法案",
   "en": "An Act Rationalizing the Celebration of National Holidays amending for the purpose Section 26, Chapter 7, Book I of Executive Order No. 292, as amended, otherwise known as the Administrative Code of 1987",
   "orig": "An Act Rationalizing the Celebration of National Holidays amending for the purpose Section 26, Chapter 7, Book I of Executive Order No. 292, as amended, otherwise known as the Administrative Code of 1987"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect after fifteen (15) days following its publication in at least two newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Rationalizing the Celebration of National Holidays amending for the purpose Section 26, Chapter 7, Book I of Executive Order No. 292, as amended, otherwise known as the Administrative Code of 1987",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

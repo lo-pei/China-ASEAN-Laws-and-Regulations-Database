@@ -1,7 +1,7 @@
 {
  "id": "SG-H1238",
  "title": {
-  "zh": null,
+  "zh": "雇佣（保释与个人担保）条例 2014",
   "en": "Employment (Bail and Personal Bond) Regulations 2014",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "12. A District Court may direct any Magistrate’s Court to exercise the court’s powers under regulation 10 in respect of a bond to appear before the District Court."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment (Bail and Personal Bond) Regulations 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

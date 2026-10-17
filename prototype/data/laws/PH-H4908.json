@@ -1,7 +1,7 @@
 {
  "id": "PH-H4908",
  "title": {
-  "zh": null,
+  "zh": "修改国家电力公司宪章的法案",
   "en": "An Act Revising the Charter of the National Power Corporation",
   "orig": "An Act Revising the Charter of the National Power Corporation"
  },
@@ -60,5 +60,13 @@
     "en": "Effective Date. This Act shall take effect upon its approval.\nApproved: September 10, 1971"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Revising the Charter of the National Power Corporation",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

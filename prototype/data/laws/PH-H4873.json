@@ -1,7 +1,7 @@
 {
  "id": "PH-H4873",
  "title": {
-  "zh": null,
+  "zh": "在南莱特省设立San Ricardo市镇的法案",
   "en": "In Act Creating the Municipality of San Ricardo in the Province of Southern Leyte.",
   "orig": "In Act Creating the Municipality of San Ricardo in the Province of Southern Leyte."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, July 22, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "In Act Creating the Municipality of San Ricardo in the Province of Southern Leyte.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

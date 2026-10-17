@@ -1,7 +1,7 @@
 {
  "id": "BN-S-06-2017-E-INSTITUT-TEKNOLOGI-BRUNEI-ACT-AMENDMENT-O-9029BD",
  "title": {
-  "zh": null,
+  "zh": "文莱理工学院法修正命令 2017",
   "en": "INSTITUT TEKNOLOGI BRUNEI ACT AMENDMENT ORDER 2017",
   "orig": null
  },
@@ -167,5 +167,13 @@
     "en": "All contracts, agreements, conveyances, covenants, settlements, trusts, deeds, leases, licenses and other instruments or undertakings entered into by or made with or addressed to the Institut Teknologi Brunei or to which the Institut Teknologi Brunei is a party (whether alone or with any other person) and in force before or on the commencement date of this Order shall, as from that date, be binding and of full force and effect in every respect against or in favour of the Universiti Teknologi Brunei as fully and effectually as if, instead of the Institut TeknoIogi Brunei, the Universiti Teknologi Brunei had been a party thereto or bound thereby or entitled to the benefit thereof. Made this 28th. day of Rabiulakhir, 1438 Hijriah corresponding to the 26th. day of January, 2017 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "INSTITUT TEKNOLOGI BRUNEI ACT AMENDMENT ORDER 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

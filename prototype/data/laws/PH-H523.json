@@ -1,7 +1,7 @@
 {
  "id": "PH-H523",
  "title": {
-  "zh": null,
+  "zh": "设立养老金委员会以研究私营工商企业与产业雇员及劳工养老金计划的法案",
   "en": "An Act Creating a Pension Commission to Study a Pension Plan for Employees and Laborers of Private Business and Industry",
   "orig": "An Act Creating a Pension Commission to Study a Pension Plan for Employees and Laborers of Private Business and Industry"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating a Pension Commission to Study a Pension Plan for Employees and Laborers of Private Business and Industry",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

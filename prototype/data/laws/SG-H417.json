@@ -1,7 +1,7 @@
 {
  "id": "SG-H417",
  "title": {
-  "zh": null,
+  "zh": "第 27(1)(d) 条下指示的撤销",
   "en": "Cancellation of Direction under Section 27(1)(d)",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Companies Act\nChapter 50\nCancellation of Direction under Section 27(1)(d)\nIn exercise of the powers conferred by section 27(1)(d) of the Companies Act, the Minister for Finance hereby cancels the direction given to the Registrar of Companies not to accept for registration under the Act the names “Singapore Port Institute” and “World Trade Centre Singapore” in any company name, with effect from 7th July 2000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Cancellation of Direction under Section 27(1)(d)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

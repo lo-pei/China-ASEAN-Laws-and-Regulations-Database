@@ -1,7 +1,7 @@
 {
  "id": "SG-H747",
  "title": {
-  "zh": null,
+  "zh": "公共赌馆（豁免）公告",
   "en": "Common Gaming Houses (Exemption) Notification",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. Where any information is required to be published in a newspaper under this Notification, the requirement shall be fulfilled by publication in one major daily newspaper published in Singapore.\n[G.N. No. S 428/96]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Common Gaming Houses (Exemption) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

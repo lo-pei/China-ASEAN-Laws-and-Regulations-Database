@@ -1,7 +1,7 @@
 {
  "id": "SG-H316",
  "title": {
-  "zh": null,
+  "zh": "生物剂与毒素（运输）条例 2005",
   "en": "Biological Agents and Toxins (Transportation) Regulations 2005",
   "orig": null
  },
@@ -178,5 +178,13 @@
     "en": "THE SCHEDULE\nRegulations 5, 6 and 7\nPart 1\nBiological Hazard Sign for Biological Agents\nNotes:\n1. Symbol\n:\n3 crescents superimposed on a circle\n2. Inscription\n:\n6\n3. Symbol and inscription\n:\nblack\n4. Background\n:\nwhite\n5. Dimensions (applicable only for signs used on transporting conveyance) for —\n(a)any vehicle exceeding 3.5 metric tons\n:\n25 cm x 25 cm\n(b)any vehicle not exceeding 3.5 metric tons\n:\n11 cm x 11 cm\nPART 2\nBiological Hazard Sign for Toxins\nNotes:\n1. Symbol\n:\nskull and crossbones\n2. Inscription\n:\n6\n3. Symbol and inscription\n:\nblack\n4. Background\n:\nwhite\n5. Dimensions (applicable only for signs used on transporting conveyance) for —\n(a)any vehicle exceeding 3.5 metric tons\n:\n25 cm x 25 cm\n(b)any vehicle not exceeding 3.5 metric tons\n:\n11 cm x 11 cm"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Biological Agents and Toxins (Transportation) Regulations 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

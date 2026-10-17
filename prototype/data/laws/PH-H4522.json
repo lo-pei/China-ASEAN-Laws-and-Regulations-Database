@@ -1,7 +1,7 @@
 {
  "id": "PH-H4522",
  "title": {
-  "zh": null,
+  "zh": "修订第1272号共和国法（授予Monserrat广播系统公司建设、维护与运营菲律宾广播电台临时许可）的标题与若干条款的法案",
   "en": "An Act Amending the Title and Certain Sections of Republic Act Numbered Twelve Hundred and Seventy-Two, Entitled \"An Act Granting the Monserrat Broadcasting System, Incorporated, a Temporary Permit to Construct, Maintain and Operate Radio Broadcasting Stations in the Philippines.\"",
   "orig": "An Act Amending the Title and Certain Sections of Republic Act Numbered Twelve Hundred and Seventy-Two, Entitled \"An Act Granting the Monserrat Broadcasting System, Incorporated, a Temporary Permit to Construct, Maintain and Operate Radio Broadcasting Stations in the Philippines.\""
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending the Title and Certain Sections of Republic Act Numbered Twelve Hundred and Seventy-Two, Entitled \"An Act Granting the Monserrat Broadcasting System, Incorporated, a Temporary Permit to Construct, Maintain and Operate Radio Broadcasting Stations in the Philippines.\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

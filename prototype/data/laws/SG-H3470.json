@@ -1,7 +1,7 @@
 {
  "id": "SG-H3470",
  "title": {
-  "zh": null,
+  "zh": "停车场所（豁免）命令 2012",
   "en": "Parking Places (Exemption) Order 2012",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Rule 4(1) of the Parking Places (Coupon Parking) Rules (R 3) shall not apply to Vijayandran a/l Ramachandran in respect of the parking of his vehicle bearing the registration number WKU1848 at the parking place known as Keppel Road Off Street from 10th April 2012 to 11th May 2012 (both dates inclusive)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Parking Places (Exemption) Order 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3019",
  "title": {
-  "zh": null,
+  "zh": "授予 Ilocos Norte 电力公司在北伊罗戈省 Laoag 与 San Nicolas 市镇安装、维护和运营电灯、热力与动力系统并销售分销的特许权",
   "en": "An Act Granting the Ilocos Norte Electric Company a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipalities of Laoag and San Nicolas, Both in the Province of Ilocos Norte, and to Sell and Distribute Light, Heat and Power Therein",
   "orig": "An Act Granting the Ilocos Norte Electric Company a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipalities of Laoag and San Nicolas, Both in the Province of Ilocos Norte, and to Sell and Distribute Light, Heat and Power Therein"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Ilocos Norte Electric Company a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipalities of Laoag and San Nicolas, Both in the Province of Ilocos Norte, and to Sell and Distribute Light, Heat and Power Therein",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4291",
  "title": {
-  "zh": null,
+  "zh": "修订第 3272 号共和国法（即将现三宝颜师范学校改设为三宝颜师范学院的该法）若干条并为其他目的法案",
   "en": "An Act Amending Certain Sections of Republic Act Numbered Three Thousand Two Hundred and Seventy-Two, Entitled \"An Act Converting the Present Zamboanga Normal School Into Zamboanga Normal College,\" and for Other Purposes",
   "orig": "An Act Amending Certain Sections of Republic Act Numbered Three Thousand Two Hundred and Seventy-Two, Entitled \"An Act Converting the Present Zamboanga Normal School Into Zamboanga Normal College,\" and for Other Purposes"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Sections of Republic Act Numbered Three Thousand Two Hundred and Seventy-Two, Entitled \"An Act Converting the Present Zamboanga Normal School Into Zamboanga Normal College,\" and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

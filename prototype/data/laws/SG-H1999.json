@@ -1,7 +1,7 @@
 {
  "id": "SG-H1999",
  "title": {
-  "zh": null,
+  "zh": "所得税（一般业务收入的豁免与优惠税率）条例 2017",
   "en": "Income Tax (Exemption and Concessionary Tax Rate for Income from General Business) Regulations 2017",
   "orig": null
  },
@@ -207,5 +207,13 @@
     "en": "13.—(1) In determining the amount of exempt income of an approved captive insurer under regulation 11(1) —\n(a)the Comptroller must have regard to such expenses and capital allowances for which a deduction is allowed under the Act as are, in the Comptroller’s opinion, to be deducted in ascertaining such income;\n(b)any capital allowances attributable to that income must be deducted from that income, even though no claim for those allowances has been made;\n(c)any balance of the allowances mentioned in sub‑paragraph (b) and any losses incurred in respect of the insurer’s captive general business in Singapore (which, had they been profits, would have been exempt from tax under regulation 11(1)) may only be deducted against income to be exempt under regulation 11(1), and any balance of such allowances and losses must not be deducted against any other income;\n(d)any balance of the allowances and losses mentioned in sub‑paragraph (c) remaining unabsorbed as at the date of the expiry or withdrawal of the approval of the insurer under regulation 5 is, subject to paragraph (2), available as a deduction against any other income of the insurer for the year of assessment which relates to the basis period in which that approval expires or is withdrawn and any subsequent year of assessment in accordance with section 23 or 37 of the Act, as the case may be.\n(2) Section 37A of the Act applies to any amount of the allowances and losses available as a deduction against any other income as provided under paragraph (1)(d) as if they were unabsorbed allowances or losses in respect of the income of a company subject to tax at a lower rate of tax under that section, and for this purpose the lower rate of tax is 10%.\n[S 942/2022 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (Exemption and Concessionary Tax Rate for Income from General Business) Regulations 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

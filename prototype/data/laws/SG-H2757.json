@@ -1,7 +1,7 @@
 {
  "id": "SG-H2757",
  "title": {
-  "zh": null,
+  "zh": "新加坡税务局（罪行构成）条例 2024",
   "en": "Inland Revenue Authority of Singapore (Composition of Offences) Regulations 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. An offence under section 17F(1), (3) or (5), 17G(2)(a), 17H(13)(a), (15) or (19) or 17M(4) or (9) of the Act may be compounded by the Authority in accordance with section 28A of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Inland Revenue Authority of Singapore (Composition of Offences) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

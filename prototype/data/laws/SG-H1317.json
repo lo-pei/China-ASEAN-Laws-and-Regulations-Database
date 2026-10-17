@@ -1,7 +1,7 @@
 {
  "id": "SG-H1317",
  "title": {
-  "zh": null,
+  "zh": "征召法 1970",
   "en": "Enlistment Act 1970",
   "orig": null
  },
@@ -646,5 +646,13 @@
     "en": "37.—(1) The Minister may make such regulations as may be necessary or expedient to carry out the purposes and provisions of this Act and for prescribing anything that may be required, authorised or permitted to be prescribed by this Act.\n[Act 10 of 2024 wef 01/05/2024]\n(2) Without prejudice to the generality of subsection (1), the Minister may make regulations relating to —\n(a)payment of remuneration to persons in national service;\n(b)duties of persons liable for service;\n(c)duties of employers in respect of national servicemen;\n(d)appointment of advisory boards;\n(e)registration, fitness examination and enlistment;\n(f)postponement, exemption, release and discharge;\n(g)exit permits, including exemptions from the requirements under section 32 for any class of prescribed persons or in prescribed circumstances; and\n[Act 10 of 2024 wef 01/05/2024]\n(h)leave.\n(3) Any regulations made under this section may prescribe that any act or omission in contravention of any regulation shall be an offence and may provide for the imposition of penalties for such offence which penalties shall not exceed a fine of $2,000 and imprisonment for a term not exceeding 12 months."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Enlistment Act 1970",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

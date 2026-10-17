@@ -1,7 +1,7 @@
 {
  "id": "PH-H10371",
  "title": {
-  "zh": null,
+  "zh": "引入行政税收改革，修订经修正的 1997 年国家税收法典第 21、22、51 等条款，废止第 34(K) 条，并为其他目的法案",
   "en": "An Act Introducing Administrative Tax Reforms, Amending Sections 21, 22, 51, 56, 57, 58, 76, 77, 81, 90, 91, 103, 106, 108, 109, 110, 112, 113, 114, 115, 116, 117, 118, 119, 120, 128, 200, 204, 229, 235, 236, 237, 238, 241, 243, 245, 248, and 169; and Repealing Section 34(K) of the National Revenue Code of 1997, As Amended, and for Other Purposes",
   "orig": "An Act Introducing Administrative Tax Reforms, Amending Sections 21, 22, 51, 56, 57, 58, 76, 77, 81, 90, 91, 103, 106, 108, 109, 110, 112, 113, 114, 115, 116, 117, 118, 119, 120, 128, 200, 204, 229, 235, 236, 237, 238, 241, 243, 245, 248, and 169; and Repealing Section 34(K) of the National Revenue Code of 1997, As Amended, and for Other Purposes"
  },
@@ -261,24 +261,26 @@
    }
   },
   {
-   "id": "PH-H10371-A21_2",
+   "id": "PH-H10371-A21-d2",
    "no": 21,
    "noLabel": {
     "en": "Section 21."
    },
    "text": {
     "en": "Section 113 of the National Internal Revenue Code of 1997, as amended, is hereby amended to read as follows:\n\"Section 113. Invoicing and Accounting Requirements for VAT-Registered Persons. -\n(A) Invoicing Requirement. - A VAT-registered person shall issue a VAT invoice for every sale, barter, exchange, or lease of goods or properties, and for every sale, barter or exchange of services.\n(B) Information Contained in the VAT Invoice. - The following information shall be indicated in the VAT invoice:\n(1) A statement that the seller is a VAT-registered person, followed by the seller's Taxpayer Identification Number;\n(2) The total amount which the purchaser pays or is obligated to pay to the seller with the indication that such amount includes the value-added tax: Provided, That:\n(a) The amount of the tax shall be shown as a separate item in the invoice;\n(b) If the sale is exempt from value-added tax, the term 'VAT-exempt sale' shall be written or printed on the invoice;\n(c) If the sale is subject to zero percent (0%) value-added tax, the term 'zero-rated sale' shall be written or printed on the invoice;\n(d) If the sale invoices goods, properties or services some of which are subject to and some of which are VAT zero-rated or VAT-exempt, the invoice shall clearly indicated the breakdown of the sale price between its taxable, exempt, and zero-rated components, and the calculation of the value-added tax on each portion of the sale shall be shown on the invoice: Provided, That the seller may issue separate invoices for the taxable, exempt, and zero-rated components of the sale.\n(3) x x x\n(4) In the case of sales in the amount of One thousand pesos (P1,000) or more where the sale or transfer is made to a VAT-registered person., the name, address and Taxpayer Identification Number of the purchaser, customer or client.\n(C) x x x\n(D) Consensus of Issuing an Erroneous VAT Invoice. -\n(1) If a person who is not a VAT-registered person issues an invoice showing the person's Taxpayer Identification Number, followed by the word 'VAT':\n(a) The issuer shall, in addition to any liability to other percentage taxes, be liable to:\n(i) The tax imposed in Section 106 or 108 without the benefit of any input tax credit; and\n(ii) A fifty percent (50%) surcharge under Section 248(B) of this Code;\n(b) The VAT shall, if the other requisite information required under Subsection (B) hereof is shown on the invoice, be recognized as an input tax credit to the purchaser under Section 110 of this Code.\n(2) If a VAT-registered person issues a VAT invoice for a VAT-exempt transaction, but fails to display on the invoice the term 'VAT-exempt sale'. or clearly provide a breakdown of the VAT-exempt sale as provided for under paragraph B(2)(d) herein, the issuer shall be liable to account for the tax imposed in Section 106 or 108 as if Section 109 did not apply.\n(3) If a VAT-registered person issue a VAT-invoice to another VAT-registered person with lacking information required under Subsection (B) hereof, the issuer shall be liable for noncompliance with the invoicing requirement, however, the VAT shall still be allowed to be used as input tax credit on the part of the purchaser pursuant to Section 110 of this Code if the lacking information do not pertain to the amount of sales, amount of VAT, name and Taxpayer Identification Number of both the purchaser and issuer/seller, description of goods or nature of services, and the date of the transaction. x x x.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H10371-A22_2",
+   "id": "PH-H10371-A22-d2",
    "no": 22,
    "noLabel": {
     "en": "Section 22."
    },
    "text": {
     "en": "Section 114 of the National Internal Revenue Code of 1997, as amended, is hereby further amended to read as follows:\n\"Section 144. return and Payment of Value-Added Tax. -\n(A) In General. - Every person liable to pay the value-added tax imposed under this Title shall file, either electronically or manually, a quarterly return of the amount of his gross sales within twenty-five (25) days following the close of each taxable quarter prescribed for each taxpayer: Provided, however , That VAT-registered persons shall pay, either electronically or manually, the value-added tax on a monthly basis: Provided, finally, That beginning January 1, 2023, the filing and payment required under this Subsection shall be done within twenty-five (25) days following the close of each taxable quarter. x x x\n(B) Where to File the Return and Pay the Tax. - Except as the Commissioner otherwise permits, the return shall be filed with and the tax paid, either electronically or manually, to any authorized agent bank, Revenue District Office through Revenue Collection Officer, or authorized tax software provider. x x x.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10371-A23",
@@ -301,14 +303,15 @@
    }
   },
   {
-   "id": "PH-H10371-A16_2",
+   "id": "PH-H10371-A16-d2",
    "no": 16,
    "noLabel": {
     "en": "Section 16."
    },
    "text": {
     "en": "Tax on Persons Exempt from Value-Added Tax (VAT). - Any person whose sales are exempt under Section 109(CC) of this Code from the payment of value-added tax and who is not a VAT-registered person shall pay, either electronically or manually, a tax equivalent to three percent (3%) of his gross quarterly sales: Provided, That cooperatives shall be exempt from the three percent (3%) tax herein imposed: Provided, further , That effective July 1, 2020 until June 30, 2023, the rates shall be one percent (1%).\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10371-A25",
@@ -570,5 +573,13 @@
     "en": "Repealing Clause . - All laws, decrees, executive orders, implementing rules and regulations, issuances, or any part thereof inconsistent with the provisions of this Acts are deemed repealed, amended or modified accordingly.\nSection 51 . Effectivity . - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Introducing Administrative Tax Reforms, Amending Sections 21, 22, 51, 56, 57, 58, 76, 77, 81, 90, 91, 103, 106, 108, 109, 110, 112, 113, 114, 115, 116, 117, 118, 119, 120, 128, 200, 204, 229, 235, 236, 237, 238, 241, 243, 245, 248, and 169; and Repealing Section 34(K) of the National Revenue Code of 1997, As Amended, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

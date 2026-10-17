@@ -1,7 +1,7 @@
 {
  "id": "SG-H2601",
  "title": {
-  "zh": null,
+  "zh": "传染病（疫苗接种或其他预防措施证明书）条例 2008",
   "en": "Infectious Diseases (Certificates of Vaccination or Other Prophylaxis) Regulations 2008",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. Any international certificate of vaccination lawfully issued under the revoked Infectious Diseases (International Certificates of Vaccination) Regulations shall have the same force and effect as a Certificate issued under these Regulations."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infectious Diseases (Certificates of Vaccination or Other Prophylaxis) Regulations 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

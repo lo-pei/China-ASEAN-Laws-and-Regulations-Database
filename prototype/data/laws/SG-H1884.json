@@ -1,7 +1,7 @@
 {
  "id": "SG-H1884",
  "title": {
-  "zh": null,
+  "zh": "移民与关卡局长期服务与良好行为奖章规则 2013",
   "en": "Immigration & Checkpoints Authority Long Service and Good Conduct Medal Rules 2013",
   "orig": null
  },
@@ -404,5 +404,13 @@
     "en": "THIRD SCHEDULE\nRule 12D\nThe Immigration & Checkpoints Authority\nLong Service And Good Conduct (35 Years) Medal\nObverse\nReverse\n[S 719/2020 wef 31/08/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Immigration & Checkpoints Authority Long Service and Good Conduct Medal Rules 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

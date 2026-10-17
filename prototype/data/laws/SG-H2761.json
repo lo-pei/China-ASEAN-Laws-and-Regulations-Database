@@ -1,7 +1,7 @@
 {
  "id": "SG-H2761",
  "title": {
-  "zh": null,
+  "zh": "新加坡国内税务局法 1992",
   "en": "Inland Revenue Authority of Singapore Act 1992",
   "orig": null
  },
@@ -876,5 +876,13 @@
     "en": "FOURTH SCHEDULE\nSections 26(2) and 30\nSpecified offices\n1.The Comptroller of Income Tax under the Income Tax Act 1947, the Economic Expansion Incentives (Relief from Income Tax) Act 1967, Part 9 of the Casino Control Act 2006, and the Multinational Enterprise (Minimum Tax) Act 2024.\n[Act 36 of 2024 wef 20/03/2025]\n2.The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act 1960.\n3.The Commissioner of Stamp Duties under the Stamp Duties Act 1929.\n4.The Commissioner of Estate Duties under the Estate Duty Act 1929.\n5.The Comptroller of Goods and Services Tax under the Goods and Services Tax Act 1993.\n6.The Commissioner of Gambling Duties under the Gambling Duties Act 2022.\n[Act 1 of 2022 wef 29/07/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Inland Revenue Authority of Singapore Act 1992",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

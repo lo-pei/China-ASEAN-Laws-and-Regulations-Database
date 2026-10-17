@@ -1,7 +1,7 @@
 {
  "id": "SG-H276",
  "title": {
-  "zh": null,
+  "zh": "授予起诉许可的权力",
   "en": "Authority to Grant Sanctions to Prosecute",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Poisons Act\n(CHAPTER 234, Section 19(1))\nAuthority to Grant Sanctions to Prosecute\nN 1\nREVISED EDITION 1999\n(1st January 1999)\nThe Attorney-General has authorised the following persons to grant sanctions to prosecute under the Act:\n(1)the Solicitor-General.\n[S 84/49]\n(2)the Director of Medical Services.\n[S 74/54]\n(3)the Permanent Secretary, Ministry of the Environment.\n[S 256/92]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Authority to Grant Sanctions to Prosecute",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1306",
  "title": {
-  "zh": null,
+  "zh": "修订第1411号共和国法附录a G编新比斯开省下G-038.10项目的法案",
   "en": "An Act Amending Item G-038.10 Under the Province of Nueva Vizcaya, Title G, Appendix a of Republic Act Numbered Fourteen Hundred and Eleven",
   "orig": "An Act Amending Item G-038.10 Under the Province of Nueva Vizcaya, Title G, Appendix a of Republic Act Numbered Fourteen Hundred and Eleven"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Item G-038.10 Under the Province of Nueva Vizcaya, Title G, Appendix a of Republic Act Numbered Fourteen Hundred and Eleven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

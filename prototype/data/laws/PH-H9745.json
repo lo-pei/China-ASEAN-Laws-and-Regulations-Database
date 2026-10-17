@@ -1,7 +1,7 @@
 {
  "id": "PH-H9745",
  "title": {
-  "zh": null,
+  "zh": "强化政府中科学家、工程师、研究人员及其他科技人员的权利大宪章，为此修订第 8439 号共和国法的法案",
   "en": "An Act Strengthening the Magna Carta for Scientists, Engineers, Researchers and Other Science and Technology Personnel in the Government, Amending for the Purpose Republic Act No. 8439",
   "orig": "An Act Strengthening the Magna Carta for Scientists, Engineers, Researchers and Other Science and Technology Personnel in the Government, Amending for the Purpose Republic Act No. 8439"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening the Magna Carta for Scientists, Engineers, Researchers and Other Science and Technology Personnel in the Government, Amending for the Purpose Republic Act No. 8439",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

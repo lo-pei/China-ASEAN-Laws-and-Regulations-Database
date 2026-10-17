@@ -1,7 +1,7 @@
 {
  "id": "SG-H1785",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（设计—建造—销售计划——归属）公告 2012",
   "en": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) Notification 2012",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nDescription of land\nApproved developer\nLot number 9997W in Mukim 17 at Lorong 1A Toa Payoh containing an area of 27,479.9 square metres, and which is more particularly delineated in the Plan.\nHoi Hup Sunway J.V. Pte Ltd.\nTHE PLAN"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) Notification 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

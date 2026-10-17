@@ -1,7 +1,7 @@
 {
  "id": "PH-H5464",
  "title": {
-  "zh": null,
+  "zh": "恢复菲律宾国家研究理事会名称，为此修订第128号行政令第33条第（A）段的法案",
   "en": "An Act Restoring the Name of \"National Research Council of the Philippines,\" Amending for the Purpose Paragraph (A), Section 33 of Executive Order No. 128",
   "orig": "An Act Restoring the Name of \"National Research Council of the Philippines,\" Amending for the Purpose Paragraph (A), Section 33 of Executive Order No. 128"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Restoring the Name of \"National Research Council of the Philippines,\" Amending for the Purpose Paragraph (A), Section 33 of Executive Order No. 128",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

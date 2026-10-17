@@ -1,7 +1,7 @@
 {
  "id": "PH-H3845",
  "title": {
-  "zh": null,
+  "zh": "宣布高山省Barlig水稻梯田为旅游景点，并授权拨款25万比索用于其开发的法案",
   "en": "An Act Declaring the Barlig Rice Terraces in Mountain Province a Tourist Spot, and Authorizing the Appropriation of Two Hundred Fifty Thousand Pesos for Their Development",
   "orig": "An Act Declaring the Barlig Rice Terraces in Mountain Province a Tourist Spot, and Authorizing the Appropriation of Two Hundred Fifty Thousand Pesos for Their Development"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the Barlig Rice Terraces in Mountain Province a Tourist Spot, and Authorizing the Appropriation of Two Hundred Fifty Thousand Pesos for Their Development",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

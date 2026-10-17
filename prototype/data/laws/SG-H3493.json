@@ -1,7 +1,7 @@
 {
  "id": "SG-H3493",
  "title": {
-  "zh": null,
+  "zh": "合伙法 1890",
   "en": "Partnership Act 1890",
   "orig": null
  },
@@ -649,5 +649,11 @@
     "en": "47. This Act may be cited as the Partnership Act 1890."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Partnership Act 1890",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

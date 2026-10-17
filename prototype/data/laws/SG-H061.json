@@ -1,7 +1,7 @@
 {
  "id": "SG-H061",
  "title": {
-  "zh": null,
+  "zh": "主动出行（医疗需要证明书）条例 2026",
   "en": "Active Mobility (Certificate of Medical Need) Regulations 2026",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. A specified assessor may grant a certificate of medical need to an individual under section 23K of the Act by —\n(a)submitting a duly completed electronic copy of the certificate of medical need to the Authority on behalf of the individual, in the form and manner specified by the Authority; or\n(b)issuing a hardcopy of a duly completed certificate of medical need to the individual in the form specified by the Authority."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Certificate of Medical Need) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

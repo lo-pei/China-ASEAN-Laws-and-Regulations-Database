@@ -1,7 +1,7 @@
 {
  "id": "PH-H3255",
  "title": {
-  "zh": null,
+  "zh": "将南甘马粦省蒂南巴克市镇蒂尔蒂兰村更名为圣何塞村的法案",
   "en": "An Act Changing the Name of Barrio Tiltilan in the Municipality of Tinambac, Province of Camarines Sur, to San Jose",
   "orig": "An Act Changing the Name of Barrio Tiltilan in the Municipality of Tinambac, Province of Camarines Sur, to San Jose"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Barrio Tiltilan in the Municipality of Tinambac, Province of Camarines Sur, to San Jose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

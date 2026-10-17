@@ -1,7 +1,7 @@
 {
  "id": "PH-H9655",
  "title": {
-  "zh": null,
+  "zh": "将女工产假增至 105 天并可选择无薪再延长 30 天、给予单亲母亲额外 15 天并为其他目的法案",
   "en": "An Act Increasing the Maternity Leave Period to One Hundred Five (105) Days for Female Workers With an Option to Extend for an Additional Thirty (30) Days Without Pay, and Granting an Additional Fifteen (15) Days for Solo Mothers, and for Other Purposes",
   "orig": "An Act Increasing the Maternity Leave Period to One Hundred Five (105) Days for Female Workers With an Option to Extend for an Additional Thirty (30) Days Without Pay, and Granting an Additional Fifteen (15) Days for Solo Mothers, and for Other Purposes"
  },
@@ -260,5 +260,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days from its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Maternity Leave Period to One Hundred Five (105) Days for Female Workers With an Option to Extend for an Additional Thirty (30) Days Without Pay, and Granting an Additional Fifteen (15) Days for Solo Mothers, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

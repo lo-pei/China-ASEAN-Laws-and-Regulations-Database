@@ -1,7 +1,7 @@
 {
  "id": "SG-H1383",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（环境控制协调员与环境控制人员注册）条例 2021",
   "en": "Environmental Public Health (Registration of Environmental Control Coordinators and Environmental Control Officers) Regulations 2021",
   "orig": null
  },
@@ -240,5 +240,13 @@
     "en": "THE SCHEDULE\nRegulations 3(2)(c), 5(2)(c), 7(2)(c) and 9(2)(c)\nFees\nFirst column\nSecond column\n1.Application for registration as an Environmental Control Coordinator for any specified premises\n$200\n2.Application for renewal of registration as an Environmental Control Coordinator for any specified premises\n$200\n3.Application for registration as an Environmental Control Officer for any specified premises or specified construction site\n$200\n4.Application for renewal of registration as an Environmental Control Officer for any specified premises or specified construction site\n$200\n[S 337/2025 wef 01/06/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Public Health (Registration of Environmental Control Coordinators and Environmental Control Officers) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

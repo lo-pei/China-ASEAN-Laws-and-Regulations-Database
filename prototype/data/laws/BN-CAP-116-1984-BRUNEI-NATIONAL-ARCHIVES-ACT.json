@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-116-1984-BRUNEI-NATIONAL-ARCHIVES-ACT",
  "title": {
-  "zh": null,
+  "zh": "文莱国家档案馆法",
   "en": "Brunei National Archives Act",
   "orig": null
  },
@@ -268,5 +268,13 @@
     "en": "The Director shall as soon as practicable each year Annual Reand transmitted to the Minister a report port dealing with the activities of the Brunei National Archives during the preceding year."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Brunei National Archives Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

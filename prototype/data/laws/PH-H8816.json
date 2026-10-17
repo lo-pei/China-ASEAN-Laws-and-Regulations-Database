@@ -1,7 +1,7 @@
 {
  "id": "PH-H8816",
  "title": {
-  "zh": null,
+  "zh": "扩展第 9208 号共和国法（题为「规定消除人口贩运特别是贩运妇女儿童的政策、建立保护与支助被贩运者的必要体制机制、规定违规处罚并为其他目的法案」）的法案",
   "en": "An Act Expanding Republic Act No. 9208, Entitled \"An Act to Institute Policies to Eliminate Trafficking in Persons Especially Women and Children, Establishing the Necessary Institutional Mechanisms for the Protection and Support of Trafficked Persons, Providing Penalties for its Violations and for Other Purposes\"",
   "orig": "An Act Expanding Republic Act No. 9208, Entitled \"An Act to Institute Policies to Eliminate Trafficking in Persons Especially Women and Children, Establishing the Necessary Institutional Mechanisms for the Protection and Support of Trafficked Persons, Providing Penalties for its Violations and for Other Purposes\""
  },
@@ -311,5 +311,13 @@
     "en": "Section 33 of Republic Act No. 9208 is hereby amended to read as follows:\n\"SEC. 33. Effectivity. – This Act shall take effect fifteen (15) days following its complete publication in at least two (2) newspapers of general circulation.\""
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Expanding Republic Act No. 9208, Entitled \"An Act to Institute Policies to Eliminate Trafficking in Persons Especially Women and Children, Establishing the Necessary Institutional Mechanisms for the Protection and Support of Trafficked Persons, Providing Penalties for its Violations and for Other Purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

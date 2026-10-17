@@ -1,7 +1,7 @@
 {
  "id": "PH-H4305",
  "title": {
-  "zh": null,
+  "zh": "规定维持菲律宾大学科学教育中心并为其他目的法案",
   "en": "An Act Providing for the Maintenance of the Science Education Center of the University of the Philippines, and for Other Purposes",
   "orig": "An Act Providing for the Maintenance of the Science Education Center of the University of the Philippines, and for Other Purposes"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Maintenance of the Science Education Center of the University of the Philippines, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

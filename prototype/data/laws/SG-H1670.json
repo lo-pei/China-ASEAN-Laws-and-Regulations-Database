@@ -1,7 +1,7 @@
 {
  "id": "SG-H1670",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（安全审查）条例 2025",
   "en": "Guns, Explosives and Weapons Control (Security Clearance) Regulations 2025",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "10. For the purposes of the definition of “law enforcement agency” in section 2(1) of the Act, the following public sector agencies are each prescribed to be a law enforcement agency:\n(a)the Central Narcotics Bureau;\n(b)the Corrupt Practices Investigation Bureau;\n(c)the Gambling Regulatory Authority of Singapore;\n(d)the Military Police Command of the Singapore Armed Forces;\n(e)the part of the Immigration & Checkpoints Authority charged with the duty of investigating offences or charging offenders under any written law;\n(f)the part of the Internal Security Department charged with the duty of investigating offences or charging offenders under any written law;\n(g)the part of the Ministry of Manpower charged with the duty of investigating offences or charging offenders under any written law;\n(h)the part of the Ministry of Social and Family Development charged with the duty of investigating offences or charging offenders under any written law;\n(i)the part of the Singapore Civil Defence Force charged with the duty of investigating offences or charging offenders under any written law;\n(j)the Singapore Customs;\n(k)the Singapore Prisons Service."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Guns, Explosives and Weapons Control (Security Clearance) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

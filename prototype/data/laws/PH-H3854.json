@@ -1,7 +1,7 @@
 {
  "id": "PH-H3854",
  "title": {
-  "zh": null,
+  "zh": "将卡加延省皮亚特市镇伊塔韦斯农业学院的名称变更为北吕宋农业州立学院的法案",
   "en": "An Act Changing the Name of Itawes Agricultural College in the Municipality of Piat, Province of Cagayan, to the Northern Luzon State College of Agriculture",
   "orig": "An Act Changing the Name of Itawes Agricultural College in the Municipality of Piat, Province of Cagayan, to the Northern Luzon State College of Agriculture"
  },
@@ -62,5 +62,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Itawes Agricultural College in the Municipality of Piat, Province of Cagayan, to the Northern Luzon State College of Agriculture",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

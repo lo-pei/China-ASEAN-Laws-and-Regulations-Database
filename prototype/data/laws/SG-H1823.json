@@ -1,7 +1,7 @@
 {
  "id": "SG-H1823",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 4 号）命令 2021",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 4) Order 2021",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board at Bukit Batok Central comprised in Lot number 03133K in Mukim 10 and on which Apartment Block 630 is erected, and in Lot number 02751V in Mukim 10 and on which Apartment Blocks 632, 633, 634, 636, 637, 639 and 642 are erected, and which is more particularly edged in Plan 1.\nPLAN 1\nBUKIT BATOK CENTRAL\n2. All that part of the housing estate of the Board bounded by Choa Chu Kang Way and Choa Chu Kang Street 51, comprised in Lot number 01829M in Mukim 11 and on which Apartment Blocks 501, 502, 503, 504, 509 and 510 are erected, in Lot number 02433M in Mukim 11 and on which Apartment Blocks 505, 506, 507, 508, 511 and 512 are erected, and in Lot number 01660P in Mukim 11 and on which Apartment Blocks 513, 514, 515, 516, 517 and 518 are erected, and which is more particularly edged in Plan 2.\nPLAN 2\nCHOA CHU KANG STREET 51\n3. All that part of the housing estate of the Board bounded by Jurong West Street 72, Jurong West Street 73 and Jurong West Street 75, comprised in Lot number 00651T in Mukim 09 and on which Apartment Blocks 732, 733, 734 and 739 are erected, and in Lot number 00647P in Mukim 09 and on which Apartment Blocks 735, 736, 737 and 738 are erected, and which is more particularly edged in Plan 3.\nPLAN 3\nJURONG WEST STREET 73 / JURONG WEST STREET 75\n4. All that part of the housing estate of the Board bounded by Sunshine Terrace, Upper Serangoon Road, Serangoon Central and Serangoon Avenue 1, comprised in Lot number 06999L in Mukim 24 and on which Apartment Blocks 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413 and 414 are erected, and which is more particularly edged in Plan 4.\nPLAN 4\nSERANGOON AVENUE 1 / SERANGOON CENTRAL\n5. All that part of the housing estate of the Board bounded by Simei Street 1, Simei Road and Pan Island Expressway, comprised in Lot number 03875T in Mukim 28 and on which Apartment Blocks 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138 and 139 are erected, and which is more particularly edged in Plan 5.\nPLAN 5\nSIMEI STREET 1\n6. All that part of the housing estate of the Board bounded by Simei Street 1, Simei Road, Simei Street 3 and Simei Street 2, comprised in Lot number 04137X in Mukim 28 and on which Apartment Blocks 141, 142, 144, 145, 146, 147, 148, 149, 150, 151, 153 and 154 are erected, and which is more particularly edged in Plan 6.\nPLAN 6\nSIMEI STREET 1 / SIMEI STREET 2\n7. All that part of the housing estate of the Board bounded by Choa Chu Kang Way, Choa Chu Kang Avenue 1 and Teck Whye Lane, comprised in Lot number 02218X in Mukim 11 and on which Apartment Blocks 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123 and 124 are erected, and which is more particularly edged in Plan 7.\nPLAN 7\nTECK WHYE LANE\n8. All that part of the housing estate of the Board bounded by Yishun Ring Road and Yishun Avenue 4, comprised in Lot number 02268N in Mukim 19 and on which Apartment Blocks 861 and 862 are erected, and which is more particularly edged in Plan 8.\nPLAN 8\nYISHUN AVENUE 4\n9. All that part of the housing estate of the Board bounded by Yishun Street 81, Yishun Ring Road and Yishun Avenue 4, comprised in Lot number 02267 in Mukim 19 and on which Apartment Blocks 850, 851, 852, 853, 854 and 855 are erected, and in Lot number 02268N in Mukim 19 and on which Apartment Blocks 858, 859, 860, 863 and 864 are erected, and which is more particularly edged in Plan 9.\nPLAN 9\nYISHUN AVENUE 4 / YISHUN STREET 81 / YISHUN RING ROAD\n10. All that part of the housing estate of the Board bounded by Yishun Avenue 2, Yishun Ring Road and Yishun Street 81, comprised in Lot number 01478C in Mukim 19 and on which Apartment Blocks 832, 833, 834, 835, 836, 837, 839 and 840 are erected, and in Lot number 01342X in Mukim 19 and on which Apartment Blocks 838, 841, 844, 845, 846 and 848 are erected, and which is more particularly edged in Plan 10.\nPLAN 10\nYISHUN STREET 81 / YISHUN RING ROAD"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 4) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

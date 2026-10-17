@@ -1,7 +1,7 @@
 {
  "id": "PH-H7915",
  "title": {
-  "zh": null,
+  "zh": "将南甘马粦省蒂高恩市镇塔洛洪贡描笼涯Salvacion国立中学的名称变更为Dr. Rodolfo V. Pamor, Jr.纪念国立中学的法案",
   "en": "An Act Changing the Name of Salvacion National High School in Barangay Talojongon, Municipality of Tigaon, Province of Camarines Sur to the Dr. Rodolfo V. Pamor, Jr. Memorial National High School",
   "orig": "An Act Changing the Name of Salvacion National High School in Barangay Talojongon, Municipality of Tigaon, Province of Camarines Sur to the Dr. Rodolfo V. Pamor, Jr. Memorial National High School"
  },
@@ -61,5 +61,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Salvacion National High School in Barangay Talojongon, Municipality of Tigaon, Province of Camarines Sur to the Dr. Rodolfo V. Pamor, Jr. Memorial National High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

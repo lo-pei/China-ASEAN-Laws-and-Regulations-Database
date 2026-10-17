@@ -1,7 +1,7 @@
 {
  "id": "SG-H1273",
  "title": {
-  "zh": null,
+  "zh": "雇佣索偿法 2016",
   "en": "Employment Claims Act 2016",
   "orig": null
  },
@@ -638,5 +638,13 @@
     "en": "FOURTH SCHEDULE\nSections 21(2) and 32(1)\nSpecified obligations under written law\n1.An employer’s obligations under sections 95, 95A and 96 of the Employment Act 1968\n2.An employer’s obligations under paragraph 6A of Part IV of the Fourth Schedule to the Employment of Foreign Manpower (Work Passes) Regulations 2012\n3.An employer’s obligations under paragraph 5 of Part II of the Fifth Schedule to the Employment of Foreign Manpower (Work Passes) Regulations 2012\n[55/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment Claims Act 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9614",
  "title": {
-  "zh": null,
+  "zh": "将邦板牙省巴科洛尔的Don Honorio Ventura技术州立大学更名为Don Honorio Ventura州立大学并扩大课程设置，为此修订第9832号共和国法的法案",
   "en": "An Act Renaming the Don Honorio Ventura Technological State University (DHVTSU) in the Municipality of Bacolor, Province of Pampanga as the Don Honorio Ventura State University (DHVSU), and Expanding Its Curricular Offerings, Amending for the Purpose Republic Act No. 9832, Entitled 'An Act Converting the Don Honorio Ventura College of Arts and Trades in the Municipality of Bacolor, Province of Pampanga Into a State University to Be Known as the Don Honorio Ventura Technological State University (DHVTSU) and Appropriating Funds Therefor'",
   "orig": "An Act Renaming the Don Honorio Ventura Technological State University (DHVTSU) in the Municipality of Bacolor, Province of Pampanga as the Don Honorio Ventura State University (DHVSU), and Expanding Its Curricular Offerings, Amending for the Purpose Republic Act No. 9832, Entitled 'An Act Converting the Don Honorio Ventura College of Arts and Trades in the Municipality of Bacolor, Province of Pampanga Into a State University to Be Known as the Don Honorio Ventura Technological State University (DHVTSU) and Appropriating Funds Therefor'"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Don Honorio Ventura Technological State University (DHVTSU) in the Municipality of Bacolor, Province of Pampanga as the Don Honorio Ventura State University (DHVSU), and Expanding Its Curricular Offerings, Amending for the Purpose Republic Act No. 9832, Entitled 'An Act Converting the Don Honorio Ventura College of Arts and Trades in the Municipality of Bacolor, Province of Pampanga Into a State University to Be Known as the Don Honorio Ventura Technological State University (DHVTSU) and Appropriating Funds Therefor'",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6530",
  "title": {
-  "zh": null,
+  "zh": "将黎牙实比市的阿尔拜省医院改设为区域培训与教学医院，名称为Bicol区域培训与教学医院的法案",
   "en": "An Act Converting the Albay Provincial Hospital in Legazpi City Into a Regional Training and Teaching Hospital to Be Known as the Bicol Regional Training and Teaching Hospital",
   "orig": "An Act Converting the Albay Provincial Hospital in Legazpi City Into a Regional Training and Teaching Hospital to Be Known as the Bicol Regional Training and Teaching Hospital"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Albay Provincial Hospital in Legazpi City Into a Regional Training and Teaching Hospital to Be Known as the Bicol Regional Training and Teaching Hospital",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

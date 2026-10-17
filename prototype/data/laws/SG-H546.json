@@ -1,7 +1,7 @@
 {
  "id": "SG-H546",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（自愿缴款与年度限额）条例 2021",
   "en": "Central Provident Fund (Voluntary Contributions and Annual Limits) Regulations 2021",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) The Central Provident Fund (Voluntary Contributions) Regulations 2011 (G.N. No. S 731/2011) are revoked.\n(2) Despite paragraph (1), the Central Provident Fund (Voluntary Contributions) Regulations 2011 (G.N. No. S 731/2011) continue to apply to the amounts mentioned in section 62(2), (3) and (4) of the Central Provident Fund (Amendment) Act 2021 as if those Regulations had not been revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Voluntary Contributions and Annual Limits) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

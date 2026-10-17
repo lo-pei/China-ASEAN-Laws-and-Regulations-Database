@@ -1,7 +1,7 @@
 {
  "id": "SG-H133",
  "title": {
-  "zh": null,
+  "zh": "穆斯林法管理法 1966",
   "en": "Administration of Muslim Law Act 1966",
   "orig": null
  },
@@ -2996,5 +2996,13 @@
     "en": "FOURTH SCHEDULE\nSection 94B\nConsents required for marriage of minor\nPart 1\nWHERE MINOR IS LEGITIMATE\nCircumstances\nPerson or persons\nwhose consent is required\n1.Where both parents are living:\n(a)if parents are living together\nboth parents;\n(b)if parents are divorced or separated by order of court or by agreement\n(i)the parent to whom the custody of the minor is committed by order of any court or by the agreement; or\n(ii)if the custody of the minor is so committed to both parents, or to one parent during part of the year and to the other parent during the rest of the year, both parents;\n(c)if one parent has been deserted by the other\nthe parent who has been deserted;\n(d)if both parents have been deprived of custody of the minor by order of court\nthe person to whose custody the minor is committed by order of court.\n2.Where one parent is dead:\n(a)if there is no other guardian\nthe surviving parent;\n(b)if a guardian has been appointed by the deceased parent\n(i)the surviving parent and the guardian, if acting jointly; or\n(ii)the surviving parent or the guardian, if the parent or guardian is the sole guardian of the minor.\n3.Where both parents are dead\nthe guardian or guardians appointed by the deceased parents, or by the court, under the Guardianship of Infants Act 1934.\nPart 2\nWHERE MINOR IS ILLEGITIMATE\nCircumstances\nPerson whose consent is required\n1.If the mother of the minor is alive\nthe mother or, if she has by order of court been deprived of the custody of the minor, the person to whom the custody of the minor has been committed by order of court.\n2.If the mother of the minor is dead\nthe guardian appointed by the mother, or by the court, under the Guardianship of Infants Act 1934.\n[33/2017]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Administration of Muslim Law Act 1966",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

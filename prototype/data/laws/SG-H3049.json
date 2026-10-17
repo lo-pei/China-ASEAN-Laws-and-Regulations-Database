@@ -1,7 +1,7 @@
 {
  "id": "SG-H3049",
  "title": {
-  "zh": null,
+  "zh": "父母赡养（公共当局）公告 2024",
   "en": "Maintenance of Parents (Public Authorities) Notification 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of the definition of “public authority” in section 14A(7) of the Act, the following are specified as public authorities:\n(a)Central Provident Fund Board;\n(b)Family Justice Courts;\n(c)Housing and Development Board;\n(d)Immigration & Checkpoints Authority;\n(e)Ministry of Social and Family Development;\n(f)Singapore Police Force;\n(g)State Courts;\n(h)Supreme Court."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Maintenance of Parents (Public Authorities) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

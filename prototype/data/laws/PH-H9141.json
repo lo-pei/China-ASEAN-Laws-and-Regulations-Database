@@ -1,7 +1,7 @@
 {
  "id": "PH-H9141",
  "title": {
-  "zh": null,
+  "zh": "公共就业服务办公室法 1999",
   "en": "public Employment Service Office Act of 1999",
   "orig": "An Act Defining the Role of the Department of Labor and Employment (DOLE), the Local Government Units (LGUs), and Accredited Nongovernment Organizations (NGOs) in the Establishment and Operation of the Public Employment Service Office (Peso), and the Operation of Job Placement Offices in Educational Institutions (ELs), Amending for the Purpose Sections 3, 5, 6, 7 and 9 of Republic Act No. 8759, Otherwise Known as the \"public Employment Service Office Act of 1999\""
  },
@@ -132,5 +132,13 @@
     "en": "Effectivity. – This Act shall take effect after fifteen (15) days from the date of its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "public Employment Service Office Act of 1999",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

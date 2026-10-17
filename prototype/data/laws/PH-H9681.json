@@ -1,7 +1,7 @@
 {
  "id": "PH-H9681",
  "title": {
-  "zh": null,
+  "zh": "撤销公路委员会并规定机动车用户费征收款处置，为此修订第 8794 号共和国法（即征收机动车用户费的法案）的法案",
   "en": "An Act Abolishing the Road Board and Providing for the Disposition of the Motor Vehicle User'S Charge Collections, Amending for the Purpose Republic Act No. 8794, Entitled \"An Act Imposing a Motor Vehicle User's Charge on Owners of All Types of Motor Vehicles and for Other Purposes\"",
   "orig": "An Act Abolishing the Road Board and Providing for the Disposition of the Motor Vehicle User'S Charge Collections, Amending for the Purpose Republic Act No. 8794, Entitled \"An Act Imposing a Motor Vehicle User's Charge on Owners of All Types of Motor Vehicles and for Other Purposes\""
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Abolishing the Road Board and Providing for the Disposition of the Motor Vehicle User'S Charge Collections, Amending for the Purpose Republic Act No. 8794, Entitled \"An Act Imposing a Motor Vehicle User's Charge on Owners of All Types of Motor Vehicles and for Other Purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

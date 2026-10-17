@@ -1,7 +1,7 @@
 {
  "id": "PH-H5544",
  "title": {
-  "zh": null,
+  "zh": "加强文官对军方的至上地位，将涉及菲律宾武装部队成员、其他受军法管辖人员及菲律宾国家警察成员的特定罪行的管辖权交还民事法院，为此废止若干总统令的法案",
   "en": "An Act Strengthening Civilian Supremacy Over the Military Returning to the Civil Courts the Jurisdiction Over Certain Offenses Involving Members of the Armed Forces of the Philippines, Other Persons Subject to Military Law, and the Members of the Philippine National Police, Repealing for the Purpose Certain Presidential Decrees",
   "orig": "An Act Strengthening Civilian Supremacy Over the Military Returning to the Civil Courts the Jurisdiction Over Certain Offenses Involving Members of the Armed Forces of the Philippines, Other Persons Subject to Military Law, and the Members of the Philippine National Police, Repealing for the Purpose Certain Presidential Decrees"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening Civilian Supremacy Over the Military Returning to the Civil Courts the Jurisdiction Over Certain Offenses Involving Members of the Armed Forces of the Philippines, Other Persons Subject to Military Law, and the Members of the Philippine National Police, Repealing for the Purpose Certain Presidential Decrees",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

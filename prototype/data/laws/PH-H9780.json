@@ -1,7 +1,7 @@
 {
  "id": "PH-H9780",
  "title": {
-  "zh": null,
+  "zh": "在国家首都区 Quezon 市设立菲律宾理工大学校区，称为该校 Quezon 市校区，规定其开设研究生、本科与短期职业课程并为此拨款的法案",
   "en": "An Act Establishing a Campus of the Polytechnic University of the Philippines (PUP) in Quezon City, National Capital Region, to be Known as the PUP-Quezon City Campus, Mandating the PUP to Offer Graduate, Undergraduate and Short-Term Vocational Courses Thereat, and Appropriating Funds Therefor",
   "orig": "An Act Establishing a Campus of the Polytechnic University of the Philippines (PUP) in Quezon City, National Capital Region, to be Known as the PUP-Quezon City Campus, Mandating the PUP to Offer Graduate, Undergraduate and Short-Term Vocational Courses Thereat, and Appropriating Funds Therefor"
  },
@@ -160,5 +160,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Campus of the Polytechnic University of the Philippines (PUP) in Quezon City, National Capital Region, to be Known as the PUP-Quezon City Campus, Mandating the PUP to Offer Graduate, Undergraduate and Short-Term Vocational Courses Thereat, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

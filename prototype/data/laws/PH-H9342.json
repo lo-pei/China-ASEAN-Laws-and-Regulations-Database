@@ -1,7 +1,7 @@
 {
  "id": "PH-H9342",
  "title": {
-  "zh": null,
+  "zh": "将依经修正的第 4161 号共和国法授予菲律宾电报电话公司在菲律宾全境运营有线及无线电信系统的特许经营权再延长 25 年的法案",
   "en": "An Act Extending to Another Twenty-Five (25) Years the Franchise Granted to the Philippine Telegraph and Telephone Corporation (Pt&amp;T) to Establish, Install, Maintain and Operate Wire And/or Wireless Telecommunications Systems, Lines, Circuits and Stations Throughout the Philippines for Public Domestic and International Communications Under Republic Act No. 4161, as Amended",
   "orig": "An Act Extending to Another Twenty-Five (25) Years the Franchise Granted to the Philippine Telegraph and Telephone Corporation (Pt&amp;T) to Establish, Install, Maintain and Operate Wire And/or Wireless Telecommunications Systems, Lines, Circuits and Stations Throughout the Philippines for Public Domestic and International Communications Under Republic Act No. 4161, as Amended"
  },
@@ -251,5 +251,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending to Another Twenty-Five (25) Years the Franchise Granted to the Philippine Telegraph and Telephone Corporation (Pt&amp;T) to Establish, Install, Maintain and Operate Wire And/or Wireless Telecommunications Systems, Lines, Circuits and Stations Throughout the Philippines for Public Domestic and International Communications Under Republic Act No. 4161, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

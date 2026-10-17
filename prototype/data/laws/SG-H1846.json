@@ -1,7 +1,7 @@
 {
  "id": "SG-H1846",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）命令 2020",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2020",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nAll that part of the housing estate of the Board bounded by Clementi Avenue 3 and Commonwealth Avenue West, comprised in Lot numbers 08232A, 03513T, 06170A, 06482A, 03515K and 06169N in Mukim 05 and on which Apartment Blocks 442, 443, 446, 447, 449 and 450 are erected, and which is more particularly shaded in the Plan.\nTHE PLAN\nCLEMENTI AVENUE 3"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

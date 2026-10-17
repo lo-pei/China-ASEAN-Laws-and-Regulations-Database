@@ -1,7 +1,7 @@
 {
  "id": "SG-H3645",
  "title": {
-  "zh": null,
+  "zh": "乐龄补贴计划法 2015",
   "en": "Silver Support Scheme Act 2015",
   "orig": null
  },
@@ -358,5 +358,13 @@
     "en": "20.—(1) The Minister may make regulations for carrying out the purposes and provisions of this Act.\n(2) Without limiting subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:\n(a)the benefits under the Scheme, including different amounts of benefits for different classes of eligible individuals;\n(b)the method and manner of disbursing or conferring each benefit under the Scheme by an administrator;\n(c)the terms and conditions for each benefit under the Scheme;\n(d)the assessment by an administrator of an individual’s eligibility for any benefit under the Scheme, and of the amount of the benefit payable to the individual;\n(e)the review by the Commissioner of any assessment referred to in paragraph (d), and the time within which the application for the review must be made;\n(f)how any administrator appointed under section 5(4) may assist the Board in administering the Scheme, including different roles for different administrators or classes of administrators appointed under section 5(4);\n(g)how any investigator appointed under section 5(8) may assist the Board in conducting any investigation under this Act;\n(h)the fees to be paid for any thing or matter done or to be done under this Act in respect of which it appears to the Minister to be expedient to charge fees;\n(i)anything that is required or permitted to be prescribed under this Act.\n(3) The regulations made under this section may provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $2,000 or with imprisonment for a term not exceeding 12 months or with both.\n(4) All regulations made under this section must be presented to Parliament as soon as possible after publication in the Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Silver Support Scheme Act 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

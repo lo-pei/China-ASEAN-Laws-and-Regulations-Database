@@ -1,7 +1,7 @@
 {
  "id": "PH-H9480",
  "title": {
-  "zh": null,
+  "zh": "将 Balik Scientist 计划制度化、为此拨款并为其他目的法案",
   "en": "An Act Institutionalizing the Balik Scientist Program, Appropriating Funds Therefor, and for Other Purpose",
   "orig": "An Act Institutionalizing the Balik Scientist Program, Appropriating Funds Therefor, and for Other Purpose"
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity. This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Institutionalizing the Balik Scientist Program, Appropriating Funds Therefor, and for Other Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

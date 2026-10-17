@@ -1,7 +1,7 @@
 {
  "id": "PH-H258",
  "title": {
-  "zh": null,
+  "zh": "修订《行政法典》中与契约登记官办公室有关的若干条文的法案",
   "en": "An Act to Amend Certain Sections of the Administrative Code Relative to Offices of Register of Deeds",
   "orig": "An Act to Amend Certain Sections of the Administrative Code Relative to Offices of Register of Deeds"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect on July first, nineteen hundred and forty-seven.\nApproved: June 20, 1947"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of the Administrative Code Relative to Offices of Register of Deeds",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

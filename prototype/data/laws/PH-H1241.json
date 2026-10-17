@@ -1,7 +1,7 @@
 {
  "id": "PH-H1241",
  "title": {
-  "zh": null,
+  "zh": "1955 年菲律宾远洋航运法",
   "en": "The Philippine Overseas Shipping Act of Nineteen Hundred and Fifty-Five",
   "orig": "An Act to be Known as “The Philippine Overseas Shipping Act of Nineteen Hundred and Fifty-Five”"
  },
@@ -180,5 +180,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 9, 1955"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Philippine Overseas Shipping Act of Nineteen Hundred and Fifty-Five",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

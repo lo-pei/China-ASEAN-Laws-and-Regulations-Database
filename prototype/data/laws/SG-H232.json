@@ -1,7 +1,7 @@
 {
  "id": "SG-H232",
  "title": {
-  "zh": null,
+  "zh": "各养老金官员的委任",
   "en": "Appointment of Pensions Officers",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Singapore Armed Forces Act\n(Chapter 295 and Singapore Armed Forces (Pensions) Regulations (Rg 9 — Regulation 12))\nAppointment of Pensions Officers\nN 1\nG.N. No. S 29/1987\nREVISED EDITION 2001\n(31st January 2001)\nThe Armed Forces Council has appointed the following persons in the Ministry of Defence to be Pensions Officers:\n(a)Director, Manpower;\n[S 29/87 — 13.10.86]\n(b)[Deleted by G.N. No. 1932/2004 wef 03/08/2004]\n(c)Head, Air Manpower Department;\n(d)Head, Naval Personnel Department;\n(e)Commanding Officer, Officers’ Personnel Centre;\n(f)Commanding Officer, Control of Personnel Centre; and\n(g)Commanding Officer, Army Officers Management Centre.\n[S 137/90 — 19.2.90]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Pensions Officers",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

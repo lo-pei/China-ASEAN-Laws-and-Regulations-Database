@@ -1,7 +1,7 @@
 {
  "id": "SG-H3186",
  "title": {
-  "zh": null,
+  "zh": "商船（海事劳工公约）（厨师与餐饮人员培训及认证）条例 2014",
   "en": "Merchant Shipping (Maritime Labour Convention) (Training and Certification of Cooks and Catering Staff) Regulations 2014",
   "orig": null
  },
@@ -191,5 +191,13 @@
     "en": "THE SCHEDULE\nRegulation 8\nTraining syllabus\n1. The need to observe galley safety procedures and good housekeeping within the galley including safe stowage of stores, proper securing of doors, maintenance of grease traps, ventilators and operation of electrical, mechanical equipment, gas, electric stoves, ovens, microwave ovens and dangers associated therewith.\n2. General health and hygiene practices and requirements of the individual including personal cleanliness, appropriate dress for work, avoidance of excessive alcohol and illegal drugs and importance of adequate sleep.\n3. The necessity to wash hands regularly before entering the galley or before handling any food and avoidance of direct handling of food.\n4. The precautions to take when suffering from cuts, sores or other ailments such as diarrhoea.\n5. Food safety, including —\n(a)knowledge of bacterial food contamination and precautions to take to avoid food poisoning; and\n(b)knowledge of segregation of raw and cooked food.\n6. Precautions to be observed in refrigerated rooms and knowledge of alarm systems.\n7. Environmental responsibilities including knowledge of appropriate measures to take for disposal of garbage generated from galleys and store‑rooms.\n8. Knowledge of ingredients and stock control for the intended voyages.\n9. Multicultural and religious awareness regarding food.\n10. Practical cooking abilities, including cooking different types of meats, poultry, vegetables and salads.\n11. Ability to draw up well-balanced, nutritious and varied daily menus."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Maritime Labour Convention) (Training and Certification of Cooks and Catering Staff) Regulations 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1478",
  "title": {
-  "zh": null,
+  "zh": "家事司法改革法 2023（停止适用第 45(13) 条）条例 2024",
   "en": "Family Justice Reform Act 2023 (Cessation of Application of Section 45(13)) Regulations 2024",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) For the purposes of section 45(14) of the Act, section 45(13) of the Act ceases to apply on or after 16 January 2025 to a relevant maintenance order, once both the following conditions are fulfilled:\n(a)there is at least one concluded maintenance enforcement application in respect of the order;\n(b)there is no pending maintenance enforcement application in respect of the order.\n(2) For the purposes of section 45(14) of the Act, section 45(13) of the Act ceases to apply to a relevant maintenance order in respect of which the first maintenance enforcement application is filed on or after 1 October 2025, if both the following conditions are fulfilled at that time:\n(a)any appeal against the order has been disposed of and the period for the making of an appeal against the order has ended;\n(b)maintenance arrears under the order are $10,000 or more.\n(3) For the purposes of section 45(14) of the Act, section 45(13) of the Act ceases to apply to any relevant maintenance order in respect of which any maintenance enforcement application is filed on or after 1 July 2026.\n[S 376/2026 wef 01/07/2026]\n[S 603/2025 wef 01/10/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Family Justice Reform Act 2023 (Cessation of Application of Section 45(13)) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

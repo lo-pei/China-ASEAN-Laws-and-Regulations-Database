@@ -1,7 +1,7 @@
 {
  "id": "PH-H4651",
  "title": {
-  "zh": null,
+  "zh": "在东达沃省卡蒂尔市镇的Eastcoast Development Enterprises森林特许区中划出一千公顷，作为卡蒂尔农业与职业中学校址的法案",
   "en": "An Act Reserving One Thousand Hectares From the Forest Concession Area of the Eastcoast Development Enterprises in the Municipality of Cateel, Province of Davao Oriental, for the School Site of the Cateel Agricultural and Vocational High School",
   "orig": "An Act Reserving One Thousand Hectares From the Forest Concession Area of the Eastcoast Development Enterprises in the Municipality of Cateel, Province of Davao Oriental, for the School Site of the Cateel Agricultural and Vocational High School"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reserving One Thousand Hectares From the Forest Concession Area of the Eastcoast Development Enterprises in the Municipality of Cateel, Province of Davao Oriental, for the School Site of the Cateel Agricultural and Vocational High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

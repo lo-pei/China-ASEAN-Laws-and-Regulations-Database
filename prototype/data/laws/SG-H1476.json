@@ -1,7 +1,7 @@
 {
  "id": "SG-H1476",
  "title": {
-  "zh": null,
+  "zh": "家事司法（遗嘱认证程序指定日期）命令 2014",
   "en": "Family Justice (Specified Date for Probate Proceedings) Order 2014",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The date specified for the purposes of section 47(2), (3) and (5) to (8) of the Act, and paragraph (q) of the definition of “family proceedings” in section 2(1) of the Act, is 1 January 2015."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Family Justice (Specified Date for Probate Proceedings) Order 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

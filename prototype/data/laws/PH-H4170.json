@@ -1,7 +1,7 @@
 {
  "id": "PH-H4170",
  "title": {
-  "zh": null,
+  "zh": "授予南伊罗戈省维甘工程师 Vicente Villanueva y Florendo 在南伊罗戈省安装、运营电灯、热力、动力系统及制冰与冷藏厂并销售相关产品的特许权法案",
   "en": "An Act Granting Engineer Vicente Villanueva y Florendo of Vigan, Ilocos Sur, a Franchise to Install, Operate and Maintain an Electric Light, Heat, Power System, and Ice and Cold Storage Plants in the Province of Ilocos Sur and to Sell and Distribute Electric Light, Heat, Power, Ice and Supply Cold Storage Therein",
   "orig": "An Act Granting Engineer Vicente Villanueva y Florendo of Vigan, Ilocos Sur, a Franchise to Install, Operate and Maintain an Electric Light, Heat, Power System, and Ice and Cold Storage Plants in the Province of Ilocos Sur and to Sell and Distribute Electric Light, Heat, Power, Ice and Supply Cold Storage Therein"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Engineer Vicente Villanueva y Florendo of Vigan, Ilocos Sur, a Franchise to Install, Operate and Maintain an Electric Light, Heat, Power System, and Ice and Cold Storage Plants in the Province of Ilocos Sur and to Sell and Distribute Electric Light, Heat, Power, Ice and Supply Cold Storage Therein",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

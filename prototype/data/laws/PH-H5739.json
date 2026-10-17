@@ -1,7 +1,7 @@
 {
  "id": "PH-H5739",
  "title": {
-  "zh": null,
+  "zh": "将八打雁省阿利塔格塔格市镇达利皮特描笼涯达利皮特小学的名称变更为多米纳多-达利皮特小学的法案",
   "en": "An Act Changing the Name of the Dalipit Elementary School in Barangay Dalipit, Municipality of Alitagtag, Province of Batangas, to Dominador-dalipit Elementary School",
   "orig": "An Act Changing the Name of the Dalipit Elementary School in Barangay Dalipit, Municipality of Alitagtag, Province of Batangas, to Dominador-dalipit Elementary School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Dalipit Elementary School in Barangay Dalipit, Municipality of Alitagtag, Province of Batangas, to Dominador-dalipit Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

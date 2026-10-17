@@ -1,7 +1,7 @@
 {
  "id": "PH-H3964",
  "title": {
-  "zh": null,
+  "zh": "为第二司法区增设一名法官主持拉乌尼翁初审法院，常设于拉乌尼翁省Bauang市镇，为此修订1948年《司法法》第50条与第52条的法案",
   "en": "An Act Providing for One Additional Judge for the Second Judicial District to Preside Over the Court of First Instance of La Union, with Permanent Station in the Municipality of Bauang, Province of La Union, Amending for the Purpose Sections Fifty and Fifty-Two of the Judiciary Act of 1948",
   "orig": "An Act Providing for One Additional Judge for the Second Judicial District to Preside Over the Court of First Instance of La Union, with Permanent Station in the Municipality of Bauang, Province of La Union, Amending for the Purpose Sections Fifty and Fifty-Two of the Judiciary Act of 1948"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for One Additional Judge for the Second Judicial District to Preside Over the Court of First Instance of La Union, with Permanent Station in the Municipality of Bauang, Province of La Union, Amending for the Purpose Sections Fifty and Fifty-Two of the Judiciary Act of 1948",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

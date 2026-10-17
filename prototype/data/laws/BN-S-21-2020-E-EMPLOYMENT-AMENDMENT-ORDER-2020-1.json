@@ -1,0 +1,78 @@
+{
+ "id": "BN-S-21-2020-E-EMPLOYMENT-AMENDMENT-ORDER-2020-1",
+ "title": {
+  "zh": "就业修正命令 2020(1)",
+  "en": "Employment Amendment Order 2020(1)",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p26",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 935,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "s-21-2020-e-employment-amendment-order-2020(1).pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《s-21-2020-e-employment-amendment-order-2020(1).pdf》（2 页），本次切分 2 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-21-2020-E-EMPLOYMENT-AMENDMENT-ORDER-2020-1-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "heading": {
+    "en": "i 1"
+   },
+   "text": {
+    "en": "This Order may be cited as the Employment (Amendment) Order, 2020 and shall be deemed to have commenced on 9th March 2020. Amendment of section 72 of S 3712009"
+   }
+  },
+  {
+   "id": "BN-S-21-2020-E-EMPLOYMENT-AMENDMENT-ORDER-2020-1-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "~ 1"
+   },
+   "text": {
+    "en": "Section 72 of the Employment Order, 2009 is amended, in subsection (1) -\n\n(a) by deleting the full stop from the last line and by substituting a colon\n\n(b) by adding the following proviso - \"Provided that the Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, by notification published in the Gazette, if he thinks that it is in the public interest to do so, fix a different period in respect of which any employee has served an employer for the purposes of this subsection, and the notification shall be effective until it is revoked by the Made this 7th. day of Syaaban, 1441 Hijriah corresponding to the 1st. day of April, 2020 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN, BRUNEI DARUSSALAM."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Employment Amendment Order 2020(1)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

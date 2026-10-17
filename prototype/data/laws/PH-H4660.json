@@ -1,7 +1,7 @@
 {
  "id": "PH-H4660",
  "title": {
-  "zh": null,
+  "zh": "修订第5250号共和国法（题为“设立菲律宾特殊与异常儿童教师培训计划并为此拨款”）",
   "en": "An Act Amending Republic Act Numbered Fifty-Two Hundred Fifty, Entitled \"An Act Establishing a Training Program for Teachers of Special and Exceptional Children in the Philippines and Appropriating Funds Therefor\"",
   "orig": "An Act Amending Republic Act Numbered Fifty-Two Hundred Fifty, Entitled \"An Act Establishing a Training Program for Teachers of Special and Exceptional Children in the Philippines and Appropriating Funds Therefor\""
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Fifty-Two Hundred Fifty, Entitled \"An Act Establishing a Training Program for Teachers of Special and Exceptional Children in the Philippines and Appropriating Funds Therefor\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

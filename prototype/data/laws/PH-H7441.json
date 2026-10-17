@@ -1,7 +1,7 @@
 {
  "id": "PH-H7441",
  "title": {
-  "zh": null,
+  "zh": "三宝颜 Sibugay 省之宪章",
   "en": "Charter of the Province of Zamboanga Sibugay",
   "orig": "Charter of the Province of Zamboanga Sibugay An Act Creating the Province of Zamboanga Sibugay from the Province of Zamboanga del Sur and for other purposes"
  },
@@ -718,5 +718,13 @@
     "en": "Proportionate Division. — Upon the effectivity of this Act, the obligations, funds, assets and other properties of the present Province of Zamboanga del Sur shall be divided proportionately between the Province of Zamboanga del Sur and the Province of Zamboanga Sibugay by the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Charter of the Province of Zamboanga Sibugay",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

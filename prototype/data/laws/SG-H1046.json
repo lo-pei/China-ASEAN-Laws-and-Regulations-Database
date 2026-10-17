@@ -1,7 +1,7 @@
 {
  "id": "SG-H1046",
  "title": {
-  "zh": null,
+  "zh": "关税（海关罚单通知）条例 2012",
   "en": "Customs (Customs Ticket Notices) Regulations 2012",
   "orig": null
  },
@@ -97,5 +97,13 @@
     "en": "SECOND SCHEDULE\nRegulation 3\nCUSTOMS ACT\n(CHAPTER 70)\nNOTICE TO ATTEND COURT UNDER\nSECTION 125A\nDate and Time of Issue\n:\nCase Reference Number\n:\nName\n:\nAlias (if any)\n:\nNRIC Number/FIN\n:\nPassport Number\n:\nGender\n:\nDate of Birth\n:\nVehicle Registration Number\n:\nAddress\n:\nContact Number\n:\nDear Sir/Madam\n1. You have committed the following offence:\nDate/Time of Offence:\n____________________________________________\nPlace of Offence:\n____________________________________________\nOffence:\nComposition Amount\n$\n2. TAKE NOTICE that you are required to attend personally before State Court No. <State Court No.> at 1 Havelock Square, Singapore 059724 on <date>/<time>. If you without cause fail to appear before the court to answer a charge in respect of the abovementioned offence, a warrant for your arrest may be issued, and you may be liable to a penalty not exceeding $2,000 or to imprisonment for a term not exceeding 2 months, in addition to the penalty imposed for the offence.\n3. Alternatively, you may have the abovementioned offence compounded upon payment of the composition sum stated above by <date>. Upon payment of the composition sum, YOUR ATTENDANCE IN COURT WILL NOT BE NECESSARY. You may make payment through <payment modes and details>.\nYours faithfully\n<Name of issuing officer>\n<Designation of issuing officer>\nSingapore Customs\nThis is a computer generated notice that requires no signature.\nNote: Payment through <payment modes and details>\nOffice Hours: <operating days and time>\n[S 186/2019 wef 01/04/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Customs Ticket Notices) Regulations 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

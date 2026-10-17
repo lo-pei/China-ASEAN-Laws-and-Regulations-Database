@@ -1,7 +1,7 @@
 {
  "id": "PH-H5212",
  "title": {
-  "zh": null,
+  "zh": "扩大劳工保护，加强工人自我组织、集体谈判与和平集体行动权，促进劳资和平，优先以自愿方式解决劳资争议，重组国家劳资关系委员会，为此修订第 442 号总统法令，并拨款及为其他目的法案",
   "en": "An Act to Extend Protection to Labor, Strengthen the Constitutional Rights of Workers to Self-Organization, Collective Bargaining and Peaceful Concerted Activities, Foster Industrial Peace and Harmony, Promote the Preferential Use of Voluntary Modes of Settling Labor Disputes, and Reorganize the National Labor Relations Commission, Amending for These Purposes Certain Provisions of Presidential Decree No. 442, as Amended, Otherwise Known as the Labor Code of the Philippines, Appropriating Funds Therefore and for Other Purposes",
   "orig": "An Act to Extend Protection to Labor, Strengthen the Constitutional Rights of Workers to Self-Organization, Collective Bargaining and Peaceful Concerted Activities, Foster Industrial Peace and Harmony, Promote the Preferential Use of Voluntary Modes of Settling Labor Disputes, and Reorganize the National Labor Relations Commission, Amending for These Purposes Certain Provisions of Presidential Decree No. 442, as Amended, Otherwise Known as the Labor Code of the Philippines, Appropriating Funds Therefore and for Other Purposes"
  },
@@ -482,5 +482,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Extend Protection to Labor, Strengthen the Constitutional Rights of Workers to Self-Organization, Collective Bargaining and Peaceful Concerted Activities, Foster Industrial Peace and Harmony, Promote the Preferential Use of Voluntary Modes of Settling Labor Disputes, and Reorganize the National Labor Relations Commission, Amending for These Purposes Certain Provisions of Presidential Decree No. 442, as Amended, Otherwise Known as the Labor Code of the Philippines, Appropriating Funds Therefore and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

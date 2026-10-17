@@ -1,7 +1,7 @@
 {
  "id": "SG-H351",
  "title": {
-  "zh": null,
+  "zh": "建筑与建造业付款保障法 2004",
   "en": "Building and Construction Industry Security of Payment Act 2004",
   "orig": null
  },
@@ -742,5 +742,13 @@
     "en": "41.—(1) The Minister may make regulations for or with respect to any matter that by this Act is required or permitted to be prescribed or that is necessary or convenient to be prescribed for carrying out or giving effect to this Act.\n(2) Without limiting subsection (1), regulations may be made for or in connection with —\n(a)the forms to be used and the information or documents to be furnished;\n(b)the manner in which authorised nominating bodies are required to exercise their functions or perform their duties;\n(c)the form of records to be kept and maintained by the authorised nominating bodies, the information to be recorded and the submission of such records; and\n(d)the conduct of adjudicators."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building and Construction Industry Security of Payment Act 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

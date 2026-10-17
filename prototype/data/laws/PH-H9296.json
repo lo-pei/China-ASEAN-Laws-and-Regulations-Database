@@ -1,7 +1,7 @@
 {
  "id": "PH-H9296",
  "title": {
-  "zh": null,
+  "zh": "进一步延长农业竞争力提升基金的实施期限，为此修订经第9496号共和国法修正的第8178号共和国法（即《以关税取代除稻米外农产品进口数量限制、设立农业竞争力提升基金法》）的法案",
   "en": "An Act Further Extending the Period of Implementation of the Agricultural Competitiveness Enhancement Fund (ACEF), Amending for the Purpose Republic Act No. 8178, as Amended By Republic Act No. 9496, Entitled: “An Act Replacing Quantitative Import Restrictions on Agricultural Products, Except Rice, With Tariffs, Creating the Agricultural Competitiveness Enhancement Fund, and for Other Purposes”",
   "orig": "An Act Further Extending the Period of Implementation of the Agricultural Competitiveness Enhancement Fund (ACEF), Amending for the Purpose Republic Act No. 8178, as Amended By Republic Act No. 9496, Entitled: “An Act Replacing Quantitative Import Restrictions on Agricultural Products, Except Rice, With Tariffs, Creating the Agricultural Competitiveness Enhancement Fund, and for Other Purposes”"
  },
@@ -82,5 +82,13 @@
     "en": "Effectivity. – This Act shall take effect after fifteen (15) days from its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Extending the Period of Implementation of the Agricultural Competitiveness Enhancement Fund (ACEF), Amending for the Purpose Republic Act No. 8178, as Amended By Republic Act No. 9496, Entitled: “An Act Replacing Quantitative Import Restrictions on Agricultural Products, Except Rice, With Tariffs, Creating the Agricultural Competitiveness Enhancement Fund, and for Other Purposes”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

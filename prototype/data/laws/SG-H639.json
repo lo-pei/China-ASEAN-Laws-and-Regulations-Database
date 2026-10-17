@@ -1,7 +1,7 @@
 {
  "id": "SG-H639",
  "title": {
-  "zh": null,
+  "zh": "民防部队基金条例",
   "en": "Civil Defence Force Fund Regulations",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7.—(1) The Civil Defence Financial Officer shall maintain a Civil Defence Force Fund cash book showing all amounts received, the sources and dates on which such amounts were received and details of all payments with the dates of and authority for such payments, and appropriate ledger accounts.\n[S 472/2013 wef 01/08/2013]\n(2) There shall be kept in addition a loans ledger in which shall be recorded the amount of loans granted, amounts outstanding together with particulars of individual loans, interest thereon and repayments.\n(3) A statement of accounts shall be submitted annually to the Commissioner.\n(4) All Fund accounts shall be balanced on a monthly basis.\n[S 472/2013 wef 01/08/2013]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Civil Defence Force Fund Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

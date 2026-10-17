@@ -1,7 +1,7 @@
 {
  "id": "PH-H1287",
  "title": {
-  "zh": null,
+  "zh": "授予A.S. Diaz Electric Service在巴科洛德市及其郊区安装、运营与维护电灯、热力与动力系统的特许经营权的法案",
   "en": "An Act Granting A.S. Diaz Electric Service a Franchise to Install, Operate, and Maintain an Electric Light, Heat, and Power System in the City of Bacolod and its Suburbs",
   "orig": "An Act Granting A.S. Diaz Electric Service a Franchise to Install, Operate, and Maintain an Electric Light, Heat, and Power System in the City of Bacolod and its Suburbs"
  },
@@ -70,5 +70,13 @@
     "en": "In consideration of the franchise and rights hereby granted, the grantee shall pay into the treasury of the Philippines a franchise tax equal to two per centum of the gross earnings for electric current sold under this franchise.\nApproved: June 14, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting A.S. Diaz Electric Service a Franchise to Install, Operate, and Maintain an Electric Light, Heat, and Power System in the City of Bacolod and its Suburbs",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

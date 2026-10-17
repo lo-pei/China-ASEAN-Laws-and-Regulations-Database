@@ -174,10 +174,22 @@
   }
 
   /* ---------------- 法规条目 ---------------- */
+  /** 当前显示标题所用语种（用于判断是否需要提示「暂无中文译名」） */
+  function titleLangOf(field) {
+    if (!field || typeof field !== 'object') return null;
+    var ui = CALR.i18n.lang();
+    if (field[ui]) return ui;
+    if (field.en) return 'en';
+    if (field.zh) return 'zh';
+    for (var k in field) if (field[k]) return k;
+    return null;
+  }
+
   function lawItem(law, opts) {
     opts = opts || {};
     var title = CALR.i18n.field(law.title);
     var alts = U().altTitles(law.title, CALR.i18n.lang(), 2);
+    var tlang = titleLangOf(law.title);
     var terms = opts.terms || [];
     /* 有条文文本的法规显示摘要；纯目录条目仅呈现条目信息 */
     var snippet = (opts.snippet !== undefined ? opts.snippet : null) ||
@@ -188,7 +200,11 @@
       '<a class="law-item" href="#/law/' + esc(law.id) + '">' +
         '<div class="law-item__head">' +
           '<div style="min-width:0">' +
-            '<h3 class="law-item__title">' + U().highlight(title, terms) + '</h3>' +
+            '<h3 class="law-item__title">' + U().highlight(title, terms) +
+              (tlang && tlang !== CALR.i18n.lang()
+                ? ' <span class="tag tag--outline" style="font-size:11px;font-weight:400;vertical-align:middle">' +
+                  esc(CALR.i18n.t('原文标题 · 暂无当前语言译名')) + '</span>'
+                : '') + '</h3>' +
             (alts.length ? '<p class="law-item__alt">' + alts.map(function (a) { return esc(a.text); }).join(' · ') + '</p>' : '') +
           '</div>' +
         '</div>' +

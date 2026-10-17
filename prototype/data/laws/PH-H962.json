@@ -1,7 +1,7 @@
 {
  "id": "PH-H962",
  "title": {
-  "zh": null,
+  "zh": "修订San Pablo市宪章，使市长及市议会全体7名议员职位改为民选，并指定该议会议长为市长缺位或不能履职时的代理市长",
   "en": "An Act Amending the Charter of the City of San Pablo so as to Make Elective the Position of Mayor and All the Seven Members of the Municipal Board and to Designate the Presiding Officer of the Said Board, the Acting Mayor in the Absence or Incapacity of the City Mayor",
   "orig": "An Act Amending the Charter of the City of San Pablo so as to Make Elective the Position of Mayor and All the Seven Members of the Municipal Board and to Designate the Presiding Officer of the Said Board, the Acting Mayor in the Absence or Incapacity of the City Mayor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending the Charter of the City of San Pablo so as to Make Elective the Position of Mayor and All the Seven Members of the Municipal Board and to Designate the Presiding Officer of the Said Board, the Acting Mayor in the Absence or Incapacity of the City Mayor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

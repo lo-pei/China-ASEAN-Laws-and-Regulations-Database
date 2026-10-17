@@ -1,7 +1,7 @@
 {
  "id": "SG-H1497",
  "title": {
-  "zh": null,
+  "zh": "费用（国防部）命令",
   "en": "Fees (Ministry of Defence) Order",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFees\nFirst column\nSecond column\n1.Information Security Authentication Card —\n(a)for first replacement\n$50\n(b)for second replacement\n$70\n(c)for third and subsequent replacements\n$110\n2.Singapore Armed Forces Card —\n(a)for first replacement\n$20\n(b)for second replacement\n$30\n(c)for third and subsequent replacements\n$40\n3.Military Police Warrant Card\n$20\n4.Singapore Armed Forces Driving Permit\n$12\n5.Singapore Armed Forces Provisional Driving Licence\n$22\n6.Letter of Authority\n$12\n7.[Deleted by S 673/2023 wef 20/10/2023]\n8.Notice of Exemption\n$7\n9.Certificate of Appreciation\n$4\n10.Identity Disc\n$10\n11.Singapore Armed Forces Security Pass\n$50\n12.Singapore Armed Forces 15A Temporary Identity Card\n$25\n13.Certificate of Service\n$7.\n[S 968/2024 wef 16/12/2024]\n[S 673/2023 wef 20/10/2023]\n[S 250/2014 wef 01/04/2014]\n[G.N. Nos. S 193/2010; S 223/2010; S 281/2011]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Ministry of Defence) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

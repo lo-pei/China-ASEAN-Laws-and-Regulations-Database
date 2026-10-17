@@ -1,7 +1,7 @@
 {
  "id": "PH-H4793",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛省圣华金市镇圣华金中学的名称变更为Don Felix Serra纪念中学的法案",
   "en": "An Act Changing the Name of San Joaquin High School in the Municipality of San Joaquin, Province of Iloilo, to Don Felix Serra Memorial High School.",
   "orig": "An Act Changing the Name of San Joaquin High School in the Municipality of San Joaquin, Province of Iloilo, to Don Felix Serra Memorial High School."
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 19, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of San Joaquin High School in the Municipality of San Joaquin, Province of Iloilo, to Don Felix Serra Memorial High School.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

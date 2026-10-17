@@ -1,7 +1,7 @@
 {
  "id": "PH-H827",
  "title": {
-  "zh": null,
+  "zh": "规定国家政府预算制度的法案",
   "en": "An Act to Provide for a Budget System for the National Government",
   "orig": "An Act to Provide for a Budget System for the National Government"
  },
@@ -290,5 +290,13 @@
     "en": "This Act shall take effect and be fully operative beginning with the fiscal year nineteen hundred and fifty-six to nineteen hundred and fifty seven: Provided, that as far as practicable a partial implementation may be made in the budget for fiscal year nineteen hundred and fifty-five to nineteen hundred and fifty-six.\nApproved: June 4, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for a Budget System for the National Government",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

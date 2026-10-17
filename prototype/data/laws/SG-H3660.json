@@ -1,7 +1,7 @@
 {
  "id": "SG-H3660",
  "title": {
-  "zh": null,
+  "zh": "新加坡体育理事会法 1973",
   "en": "Singapore Sports Council Act 1973",
   "orig": null
  },
@@ -456,5 +456,13 @@
     "en": "THE SCHEDULE\nSection 22\nFinancial provisions\nCouncil’s financial year\n1. The financial year of the Council begins on 1 April of each year and ends on 31 March of the succeeding year.\nStatement of outstanding loan and sinking fund\n2. The Council must at the end of each financial year provide the Minister with a statement showing —\n(a)the amount of any loan outstanding at the end of that financial year; and\n(b)the amount standing to the credit of any sinking fund formed for the purpose of repayment of any loan and the manner in which that amount is for the time being invested.\nBudget\n3.—(1) The Council must, in every financial year of the Council, prepare or cause to be prepared, in the form approved by the Minister, and must adopt a budget containing annual estimates of its revenue and expenditure for the following financial year.\n(2) The Council may at any time prepare a supplementary budget to provide for unforeseen or urgent expenditure containing —\n(a)a revised estimate of the income for the current financial year;\n(b)a revised estimate of the expenditure for the current financial year; and\n(c)a statement showing how provision is made in the supplementary budget to meet additional expenditure,\nand the supplementary budget must be dealt with in the same manner as the annual budget.\n(3) A copy of all budgets and supplementary budgets must, upon their adoption by the Council, be sent without delay to the Minister.\n(4) The Minister may approve or disallow any item or portion of any item shown in the budget or supplementary budget.\n(5) The Minister must return the budget or supplementary budget as amended under sub‑paragraph (4) to the Council, and the Council is bound by the Minister’s decision.\n(6) The Council may transfer all or any part of the sums assigned to one item of expenditure to another item under the same head of expenditure in a budget approved by the Minister.\nWhen audited financial statements must be given to Minister\n4. The Council must send the audited annual financial statements of the Council, signed by the Chairperson and the Chief Executive Officer, to the Minister no later than 31 October in each year, together with a copy of any report made by the auditor of the Council.\n[5/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Singapore Sports Council Act 1973",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

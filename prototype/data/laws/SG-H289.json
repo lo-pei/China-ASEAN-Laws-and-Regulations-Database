@@ -1,7 +1,7 @@
 {
  "id": "SG-H289",
  "title": {
-  "zh": null,
+  "zh": "银行（第 15A 与 15B 条豁免）命令 2008",
   "en": "Banking (Exemption from Sections 15A and 15B) Order 2008",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The Minister hereby exempts any body corporate which is or becomes a substantial shareholder of ING Asia Private Bank Limited from section 15A(1) of the Act —\n(a)by virtue of section 7(4A)(b) of the Companies Act (Cap. 50); and\n(b)by reason only that the body corporate is a subsidiary of another body corporate —\n(i)which is a substantial shareholder of ING Asia Private Bank Limited other than by virtue of section 7(4A) of the Companies Act; or\n(ii)which is entitled to exercise or control the exercise of not less than 20% of the votes attached to the voting shares of a substantial shareholder of ING Asia Private Bank Limited.\n(2) [Deleted by S 69/2010 wef 10/02/2010]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Banking (Exemption from Sections 15A and 15B) Order 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

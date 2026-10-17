@@ -1,7 +1,7 @@
 {
  "id": "BN-S-20-2016-E-HALAL-CERTIFICATE-AND-HALAL-LABEL-AM-ORDER-2016",
  "title": {
-  "zh": null,
+  "zh": "清真证书与清真标签修正命令 2016",
   "en": "HALAL CERTIFICATE AND HALAL LABEL AM ORDER 2016",
   "orig": null
  },
@@ -118,5 +118,13 @@
     "en": "Section 46 of the principal Order is amended, in subsection (I), by deleting \"Fourth\" from the third last line. m - - s 5 +. 5 - +. CT c z 5- -- G - g C D E: g C1 c. as ul 9 \" - P h G 2 CD \" CD 3 2, g 0 7 z z - % 5 E C.. 3 cm Dl- 3 a - P P m 3 a < 5"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "HALAL CERTIFICATE AND HALAL LABEL AM ORDER 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

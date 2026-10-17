@@ -1,7 +1,7 @@
 {
  "id": "SG-H3414",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11 (3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nPart I\n1.The Banking Act (Chapter 19)\n2.The Boundaries and Survey Maps Act (Chapter 25)\n3.The Building Control Act (Chapter 29)\n4.The Central Provident Fund Act (Chapter 36)\n5.The Control of Vectors and Pesticides Act (Chapter 59)\n6.The Electronic Transactions Act (Chapter 88)\n7.The Geographical Indications Act (Chapter 117B)\n8.The Hire-Purchase Act (Chapter 125)\n9.The Holidays Act (Chapter 126)\n10.The Income Tax Act (Chapter 134)\n11.The Infectious Diseases Act (Chapter 137)\n12.The Land Titles (Strata) Act (Chapter 158)\n13.The Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act (Chapter 180)\n14.The Monetary Authority of Singapore Act (Chapter 186)\n15.he Parliamentary Elections Act (Chapter 218)\n16.The Poisons Act (Chapter 234)\n17.The Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act (Chapter 237)\n18.The Presidential Elections Act (Chapter 240A)\n19.The Prevention of Pollution of the Sea Act (Chapter 243)\n20.The Private Hospitals and Medical Clinics Act (Chapter 248)\n21.The Singapore Totalisator Board Act (Chapter 305A)\n22.The Statistics Act (Chapter 317)\n23.The Trade Marks Act (Chapter 332)\nPart II\nThe Copyright Act (Chapter 63)\n[G.N. No. S 573/99]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11 (3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

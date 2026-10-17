@@ -1,7 +1,7 @@
 {
  "id": "SG-H3733",
  "title": {
-  "zh": null,
+  "zh": "妇女宪章 1961",
   "en": "Women’s Charter 1961",
   "orig": null
  },
@@ -3350,5 +3350,13 @@
     "en": "SECOND SCHEDULE\nSection 21A\nConsents required to the marriage of a minor\nPart 1 — Where the Minor Is Legitimate\nCircumstances\nPerson or persons whose\nconsent is required\n1.Where both parents are living:\n(a)if parents living together:\nboth parents;\n(b)if parents are divorced or separated by order of court or by agreement:\nthe parent to whom the custody of the minor is committed by order of any court or by the agreement, or, if the custody of the minor is so committed to one parent during part of the year and to the other parent during the rest of the year, both parents;\n(c)if one parent has been deserted by the other:\nthe parent who has been deserted;\n(d)if both parents have been deprived of custody of minor by order of court:\nthe person to whose custody the minor is committed by order of court.\n2.Where one parent is dead:\n(a)if there is no other guardian:\nthe surviving parent;\n(b)if a guardian has been appointed by the deceased parent:\nthe surviving parent and the guardian if acting jointly, or the surviving parent or the guardian if the parent or guardian is the sole guardian of the minor.\n3.Where both parents are dead:\nthe guardians or guardian appointed by the deceased parents or by the court under the Guardianship of Infants Act 1934.\nPart 2 — Where The Minor Is Illegitimate\nCircumstances\nPerson whose consent is required\n1.If the mother of the minor is alive:\nthe mother or, if she has by order of court been deprived of the custody of the minor, the person to whom the custody of the minor has been committed by order of court.\n2.If the mother of the minor is dead:\nthe guardian appointed by the mother, or by the court.\n[Act 3 of 2022 wef 25/09/2023]\nPart 3\n[Deleted by Act 3 of 2022 wef 30/12/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Women’s Charter 1961",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

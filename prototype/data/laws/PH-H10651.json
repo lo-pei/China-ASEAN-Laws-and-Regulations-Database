@@ -1,7 +1,7 @@
 {
  "id": "PH-H10651",
  "title": {
-  "zh": null,
+  "zh": "承认 Singapore School Manila 绿校区为具有国际性质的教育机构并给予促进其发展与成长的特权",
   "en": "An Act Recognizing Singapore School Manila Green Campus as An Educational Institution of International Character, and Granting Certain Prerogatives Conducive to Its Development and Growth",
   "orig": "An Act Recognizing Singapore School Manila Green Campus as An Educational Institution of International Character, and Granting Certain Prerogatives Conducive to Its Development and Growth"
  },
@@ -110,5 +110,13 @@
     "en": "Notwithstanding the non-issuance of the rules and regulations under Section 5 herein, this Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Recognizing Singapore School Manila Green Campus as An Educational Institution of International Character, and Granting Certain Prerogatives Conducive to Its Development and Growth",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1285",
  "title": {
-  "zh": null,
+  "zh": "外国人力雇佣法 1990",
   "en": "Employment of Foreign Manpower Act 1990",
   "orig": null
  },
@@ -864,5 +864,13 @@
     "en": "THE SCHEDULE\nSection 2A\nPersonal Identifiers\n1.Fingerprints or handprints of a person (including those taken using paper and ink or digital livescanning technologies).\n2.A photograph or other image of a person’s face and shoulders.\n3.A person’s signature."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment of Foreign Manpower Act 1990",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

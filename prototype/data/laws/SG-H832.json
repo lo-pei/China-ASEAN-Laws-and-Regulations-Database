@@ -1,7 +1,7 @@
 {
  "id": "SG-H832",
  "title": {
-  "zh": null,
+  "zh": "植物管制（农药注册）规则",
   "en": "Control of Plants (Registration of Pesticides) Rules",
   "orig": null
  },
@@ -264,5 +264,13 @@
     "en": "SECOND SCHEDULE\nRules 7(1)(c) and 12(1)(a)\nRequirements for Pesticide Label and Container\n1. Requirements for pesticide label\n(1) There shall be printed on or affixed to every container or package in which any pesticide intended for use in the cultivation of plants is to be sold or supplied, a label stating clearly in English and one of the other official languages of Singapore —\n(a)the trade name or the brand name under which the pesticide is to be sold or supplied;\n(b)the composition of the pesticide and the chemical name of every constituent of the pesticide, whether active or inert;\n(c)the type of formulation of the pesticide;\n(d)the type of crop in the cultivation of which the pesticide may be used or applied;\n(e)the directions for the use of the pesticide together with the safety measures to be taken when applying the pesticide;\n(f)in the case of a pesticide to be used on food crops, the recommended interval before the last application of the pesticide and the harvest of the crop;\n(g)the relevant hazard and caution statements and graphic symbols recommended by the WHO/FAO Hazard Classification Code;\n(h)the antidote to the pesticide, if any, and first aid instructions in case of poisoning by the pesticide;\n(i)the net weight and volume of the pesticide in the container in which it is sold or supplied;\n(j)the name and address of the Singapore manufacturer, importer, distributor, supplier or seller of the pesticide who applied for the pesticide to be registered; and\n[S 356/2004 wef 01/07/2004]\n(k)any other information that the Director-General may require.\n[S 356/2004 wef 01/07/2004]\n(2) Where the application for the registration of the pesticide under these Rules has been granted, there shall also be printed on the label a registration mark in such form and containing such particulars as the Director-General may require.\n[S 356/2004 wef 01/07/2004]\n2. Requirements for pesticide container\nThe container in which any pesticide intended for use in the cultivation of plants is to be sold or supplied shall be impervious to the pesticide and sufficiently strong to prevent leakage from ordinary risks of handling.\n[G.N. Nos. S 28/94; S 136/98; S 356/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Control of Plants (Registration of Pesticides) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

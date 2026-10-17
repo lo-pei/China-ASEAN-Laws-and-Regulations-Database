@@ -1,7 +1,7 @@
 {
  "id": "PH-H497",
  "title": {
-  "zh": null,
+  "zh": "在矿业局设立矿业专项基金，用于菲律宾工业发展所需矿床的勘查评估以及采矿统计与资料的出版，并为其他目的法案",
   "en": "An Act Creating a Mines Special Fund in the Bureau of Mines to be Used for the Canvassing and Evaluation of Mineral Deposits Needed in the Development of Philippine Industries, and the Publication of Mining Statistics and Data, and for Other Purposes",
   "orig": "An Act Creating a Mines Special Fund in the Bureau of Mines to be Used for the Canvassing and Evaluation of Mineral Deposits Needed in the Development of Philippine Industries, and the Publication of Mining Statistics and Data, and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating a Mines Special Fund in the Bureau of Mines to be Used for the Canvassing and Evaluation of Mineral Deposits Needed in the Development of Philippine Industries, and the Publication of Mining Statistics and Data, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

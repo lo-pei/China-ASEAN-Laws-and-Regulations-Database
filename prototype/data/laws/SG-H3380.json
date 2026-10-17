@@ -1,7 +1,7 @@
 {
  "id": "SG-H3380",
  "title": {
-  "zh": null,
+  "zh": "网络刑事伤害（指定执法机构）命令 2024",
   "en": "Online Criminal Harms (Prescribed Law Enforcement Agencies) Order 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Each of the following is prescribed as a law enforcement agency for the purposes of section 48(2) of the Act:\n(a)Singapore Police Force;\n(b)Central Narcotics Bureau;\n(c)Immigration & Checkpoints Authority;\n(d)Internal Security Department;\n(e)Gambling Regulatory Authority of Singapore;\n[S 562/2025 wef 01/09/2025]\n(f)Health Sciences Authority.\n[S 562/2025 wef 01/09/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Online Criminal Harms (Prescribed Law Enforcement Agencies) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

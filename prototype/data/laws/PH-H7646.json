@@ -1,7 +1,7 @@
 {
  "id": "PH-H7646",
  "title": {
-  "zh": null,
+  "zh": "将北萨马省Lavezares市镇的Lavezares农业与工业学校更名为Basilio B. Chan纪念农业与工业学校的法案",
   "en": "An act changing the name of Lavezares Agricultural and Industrial School, Municipality of Lavezares, Province of Northern Samar to Basilio B. Chan Memorial Agricultural and Industrial School",
   "orig": "An act changing the name of Lavezares Agricultural and Industrial School, Municipality of Lavezares, Province of Northern Samar to Basilio B. Chan Memorial Agricultural and Industrial School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act changing the name of Lavezares Agricultural and Industrial School, Municipality of Lavezares, Province of Northern Samar to Basilio B. Chan Memorial Agricultural and Industrial School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

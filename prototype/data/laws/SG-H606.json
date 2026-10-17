@@ -1,7 +1,7 @@
 {
  "id": "SG-H606",
  "title": {
-  "zh": null,
+  "zh": "银会（向中标会员付款）条例 1972",
   "en": "Chit Funds (Payment to Successful Subscriber) Regulations 1972",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. A successful subscriber is entitled to receive the chit fund amount within 7 days from the date of being declared the purchaser of the chit fund amount."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Chit Funds (Payment to Successful Subscriber) Regulations 1972",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

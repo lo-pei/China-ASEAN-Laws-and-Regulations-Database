@@ -1,7 +1,7 @@
 {
  "id": "BN-S-12-2018-VETERINARY-SURGEONS-AMENDMENT-OF-SCHEDULE-O-D84C3C",
  "title": {
-  "zh": null,
+  "zh": "兽医（附表修正）命令 2017",
   "en": "VETERINARY SURGEONS AMENDMENT OF SCHEDULE ORDER 2017",
   "orig": null
  },
@@ -66,5 +66,13 @@
     "en": "The First Schedule to the Veterinary Surgeons Order, 2005 is amended, in\n\nPART I -\n\n(a) with respect to Australia, by adding the following new items into the second and third columns respectively - \"Murdoch University Bachelor of Veterinary Science and Surgeon\";\n\n(b) with respect to Indonesia, by adding the following new items into the second and third columns respectively - \"Universitas Gadjah Mada Dokter Hewan Universitas Airlangga Dokter Hewan\";\n\n(c) with respect to United Kingdom, by adding the following new items into the second and third columns respectively - \"University of Nottingham Bachelor of Veterinary Medicine and Veterinary Surgery\". Made this 26th. day of Rabiulakhir, 1438 Hijriah corresponding to the 24th. day of January, 2017.\n\nDATO SERI SETIA AWANG HAJI ALI BIN APONG Minister of Primary Resources and Tourism, Brunei Darussalam. Dicetak oleh Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "VETERINARY SURGEONS AMENDMENT OF SCHEDULE ORDER 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

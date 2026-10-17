@@ -1,7 +1,7 @@
 {
  "id": "PH-H1402",
  "title": {
-  "zh": null,
+  "zh": "规定审计长与选举委员会主席或委员终身养老金的法案",
   "en": "An Act to Provide Life Pension to the Auditor General and the Chairman or Any Member of the Commission on Elections",
   "orig": "An Act to Provide Life Pension to the Auditor General and the Chairman or Any Member of the Commission on Elections"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide Life Pension to the Auditor General and the Chairman or Any Member of the Commission on Elections",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

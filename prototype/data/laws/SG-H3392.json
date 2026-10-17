@@ -1,7 +1,7 @@
 {
  "id": "SG-H3392",
  "title": {
-  "zh": null,
+  "zh": "在线安全（救济与问责）（规定在线服务提供者）（第 5 与 6 部分）条例 2026",
   "en": "Online Safety (Relief and Accountability) (Prescribed Online Service Providers) (Parts 5 and 6) Regulations 2026",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nFirst column\nSecond column\nThird column\nOnline service provider\nProvision of Act for\npurposes of which\nonline service provider\nis prescribed\nEffective date\n1.Meta Platforms, Inc., in respect of the following online services:\n(a)Facebook;\n(b)Instagram\n(a)Section 32(2)\n29 June 2026\n(b)Section 52\n29 June 2026\n2.Google LLC, in respect of the online service YouTube\n(a)Section 32(2)\n29 June 2026\n(b)Section 52\n29 June 2026\n3.X Corp., in respect of the online service X\n(a)Section 32(2)\n29 June 2026\n(b)Section 52\n29 June 2026\n4.TikTok Pte. Ltd.\n(a)Section 32(2)\n29 June 2026\n(b)Section 52\n29 June 2026\n5.SPH Media Limited, in respect of the online service HardwareZone Forums\n(a)Section 32(2)\n29 June 2026\n(b)Section 52\n29 June 2026"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Online Safety (Relief and Accountability) (Prescribed Online Service Providers) (Parts 5 and 6) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

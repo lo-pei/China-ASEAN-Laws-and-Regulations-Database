@@ -1,7 +1,7 @@
 {
  "id": "SG-H3455",
  "title": {
-  "zh": null,
+  "zh": "第 18(3) 条下的命令",
   "en": "Order under Section 18(3)",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Private Investigation and Security Agencies Act\n(Chapter 249, Section 18(3))\nOrder under Section 18 (3)\nO 1\nG.N. No. S 443/2001\nREVISED EDITION 2002\n(31st January 2002)\n[16th September 2001]\nThe Assistant Director Operations (Licensing), Police Headquarters, appointed as Licensing Officer, hereby exempts all officers of the Ministry of Community Development and Sports who are authorised by the manager of the Singapore Boys’ Home or the Toa Payoh Girls’ Home to escort its residents, from section 18(1) of the Act in respect of the use of the transport leg brace as a restraining device on such residents during escort, subject to the following conditions:\n(a)the transport leg brace shall only be used on residents who are likely to escape if unrestrained;\n(b)notwithstanding paragraph (a), the transport leg brace shall not under any circumstances, be used on —\n(i)residents below the age of 12 years; or\n(ii)residents being escorted in a small boat;\n(c)the transport leg brace shall be kept in a safe when not in use;\n(d)a register showing the date, time of issue and return of the transport leg brace, identity card numbers and the signatures of officers drawing and returning the transport leg brace must be maintained by the Ministry of Community Development and Sports; and\n(e)supervisory checks shall be carried out by the Ministry of Community Development and Sports to ensure that the transport leg brace is accounted for and the register properly maintained.\n[G.N. No. S 443/2001]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 18(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

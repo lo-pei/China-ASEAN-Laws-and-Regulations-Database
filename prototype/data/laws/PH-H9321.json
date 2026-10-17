@@ -1,7 +1,7 @@
 {
  "id": "PH-H9321",
  "title": {
-  "zh": null,
+  "zh": "将Apayao省Conner市镇Talifugo描笼涯的Conner中央国立中学附属校分离出来，单独改设为独立的Talifugo国立中学，并为此拨付经费",
   "en": "An Act Separating the Conner Central National High School-Talifugo Annex in Barangay Talifugo, Municipality of Conner Province of Apayao from the Conner Province of Apayao from the Conner Central National High School, Converting it into an Independent National High School to be Known as Talifugo National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Conner Central National High School-Talifugo Annex in Barangay Talifugo, Municipality of Conner Province of Apayao from the Conner Province of Apayao from the Conner Central National High School, Converting it into an Independent National High School to be Known as Talifugo National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Conner Central National High School-Talifugo Annex in Barangay Talifugo, Municipality of Conner Province of Apayao from the Conner Province of Apayao from the Conner Central National High School, Converting it into an Independent National High School to be Known as Talifugo National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

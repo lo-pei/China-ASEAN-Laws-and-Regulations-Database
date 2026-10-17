@@ -1,7 +1,7 @@
 {
  "id": "SG-H1872",
  "title": {
-  "zh": null,
+  "zh": "人体生物医学研究（组织库与通报——豁免）条例 2019",
   "en": "Human Biomedical Research (Tissue Banking and Notification — Exemption) Regulations 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Sections 34, 35, 36 and 37 of the Act do not apply to an individual, body of persons or tissue bank who or which conducts any tissue banking activity solely for the purpose of the individual’s, body’s or tissue bank’s own research or own clinical trial, which falls within any of the following descriptions:\n(a)national public health research as defined in and conducted in accordance with section 59A of the Infectious Diseases Act 1976;\n(b)clinical trials of health products conducted in accordance with the Health Products Act 2007;\n(c)clinical trials of medicinal products conducted in accordance with the Medicines Act 1975.\n(2) To avoid doubt, an individual, body of persons or tissue bank who or which conducts any tissue banking activity concurrently with, or in addition to, or which is not solely for, the purposes specified in paragraph (1) must comply with sections 34, 35, 36 and 37 of the Act in relation to that activity."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Human Biomedical Research (Tissue Banking and Notification — Exemption) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

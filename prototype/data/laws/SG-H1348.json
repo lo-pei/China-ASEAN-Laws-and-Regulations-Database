@@ -1,7 +1,7 @@
 {
  "id": "SG-H1348",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（美国使馆车辆——豁免）命令 2020",
   "en": "Environmental Protection and Management (US Embassy Vehicles — Exemption) Order 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Regulation 4(1) of the Environmental Protection and Management (Vehicular Emissions) Regulations (Rg 6) does not apply to any relevant vehicle that conforms to the standard for exhaust emission specified in the Fifth Schedule to those Regulations.\n(2) In this paragraph, “relevant vehicle” means —\n(a)the vehicle bearing the engine number 1UR‑0603803 and chassis number URJ202‑4122840; or\n(b)the vehicle bearing the engine number 1UR‑0674603 and chassis number URJ202‑4147141."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Protection and Management (US Embassy Vehicles — Exemption) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

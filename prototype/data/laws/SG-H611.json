@@ -1,7 +1,7 @@
 {
  "id": "SG-H611",
  "title": {
-  "zh": null,
+  "zh": "新加坡民航局（机场建设税）命令 2018",
   "en": "Civil Aviation Authority of Singapore (Airport Development Levy) Order 2018",
   "orig": null
  },
@@ -278,5 +278,13 @@
     "en": "15.—(1) An aircraft operator must take all measures so far as is reasonably practicable as are necessary to ensure that every air passenger ticket in respect of which any ADL is paid contains a record showing the ADL paid.\n(2) An aircraft operator which fails to comply with sub‑paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Civil Aviation Authority of Singapore (Airport Development Levy) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

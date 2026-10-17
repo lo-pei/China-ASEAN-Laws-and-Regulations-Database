@@ -1,7 +1,7 @@
 {
  "id": "BN-S-52-2000-CRIMINAL-CONDUCT-RECOVERY-OF-PROCEEDS-ORDER-2000",
  "title": {
-  "zh": null,
+  "zh": "犯罪所得追回命令 2000",
   "en": "Criminal Conduct Recovery of Proceeds Order 2000",
   "orig": null
  },
@@ -550,5 +550,13 @@
     "en": "Section 32 of the Bankruptcy Act (Chapter 67) is amended, in paragraph {a} of\n\n(1), by inserting \"or under section 5 of the Criminal Conduct (Recovery of Proceeds) Order, 200011 immediately after \"1995\". 31(2))\n\nTO THE ORDER WHEN APPLIED TO EXTERNAL CONFISCATION\n\nAND RELATED PROCEEDINGS of Schedule and Introductory."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Criminal Conduct Recovery of Proceeds Order 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

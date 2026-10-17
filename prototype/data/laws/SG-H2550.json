@@ -1,7 +1,7 @@
 {
  "id": "SG-H2550",
  "title": {
-  "zh": null,
+  "zh": "所得税（Trafigura Group 私人有限公司等——第 13(4) 条豁免）公告 2025",
   "en": "Income Tax (Trafigura Group Pte. Ltd., etc. — Section 13(4) Exemption) Notification 2025",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Subject to sub‑paragraphs (2), (4) and (5), any interest, commission, fee or other payment that is payable by a relevant person to any non‑resident person (A) in connection with any specified loan or indebtedness entered into or incurred by any relevant person between 1 January 2018 and 30 September 2021 (both dates inclusive), is exempt from tax.\n(2) The exemption in sub‑paragraph (1) only applies —\n(a)where the total amount of all the specified loans or indebtedness mentioned in sub‑paragraph (1) exceeds US$10 billion — to any interest, commission, fee or other payment mentioned in that sub‑paragraph, that is payable on the first US$10 billion that is disbursed;\n(b)if each specified loan or indebtedness is $5 million or more;\n(c)if each specified loan or indebtedness is entered into between the lender and the borrower on an arm’s length basis;\n(d)subject to sub‑paragraph (3), where A is a related party of the borrower, if at the time the interest, commission, fee or other payment is payable to A, the highest rate of tax of a similar character to income tax (by whatever name called) that is levied —\n(i)under the law of the territory that A is a tax resident in; and\n(ii)on any gains or profits from any trade or business carried on by A in that territory at that time,\nis more than 0%; and\n(e)if the interest rate for each specified loan or indebtedness is comparable to the market rate for other similar loans or indebtedness, if any.\n(3) Sub‑paragraph (2)(d) does not apply to any specified loan or indebtedness that is a bond unless that bond is only issued to one or more related parties of the borrower.\n(4) The exemption in sub‑paragraph (1) does not apply to —\n(a)any interest, commission, fee or other payment derived from any operation carried on by A through A’s permanent establishment in Singapore; or\n(b)any interest, commission, fee or other payment that is due and payable after the earliest of the following:\n(i)the date of maturity of the specified loan or indebtedness;\n(ii)30 September 2026;\n(iii)the last date on which Trafigura Pte Ltd is an approved global trading company under section 43I of the Act.\n(5) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter from the Ministry of Finance dated 3 December 2019 and addressed to Trafigura Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Trafigura Group Pte. Ltd., etc. — Section 13(4) Exemption) Notification 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

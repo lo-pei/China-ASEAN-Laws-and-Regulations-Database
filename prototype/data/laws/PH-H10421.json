@@ -1,7 +1,7 @@
 {
  "id": "PH-H10421",
  "title": {
-  "zh": null,
+  "zh": "强化基础教育法 2013",
   "en": "Enhanced Basic Education Act of 2013",
   "orig": "An Act Discounting the Use of the Mother Tongue as Medium of Instruction From Kindergarten to Grade 3, Providing for Its Optional Implementation in Monolingual Classes, and Amending for the Purpose Sections 4 and 5 of Republic Act No. 10533, Otherwise Known as the \"Enhanced Basic Education Act of 2013\""
  },
@@ -130,5 +130,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Enhanced Basic Education Act of 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

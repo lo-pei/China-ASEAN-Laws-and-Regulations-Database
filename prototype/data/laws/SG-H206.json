@@ -1,7 +1,7 @@
 {
  "id": "SG-H206",
  "title": {
-  "zh": null,
+  "zh": "动物与鸟类（指定动物类别）规则 2015",
   "en": "Animals and Birds (Prescribed Classes of Animals) Rules 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of the definition of “animal” in section 2(1) of the Act, the classes of animals that are prescribed for the purposes of the Act are reptiles and amphibians."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Animals and Birds (Prescribed Classes of Animals) Rules 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

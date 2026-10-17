@@ -1,7 +1,7 @@
 {
  "id": "SG-H1708",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（广告）条例 2021",
   "en": "Healthcare Services (Advertisement) Regulations 2021",
   "orig": null
  },
@@ -272,5 +272,13 @@
     "en": "18.—(1) A licensee who contravenes regulation 5(1), 6(1), (4) or (5), 7, 8(2) or 15(1) shall be guilty of an offence under section 31(3) of the Act for failure to comply with section 31(2) of the Act and shall be liable on conviction to be punished in accordance with section 31(3) of the Act.\n(2) An authorised person who contravenes regulation 6(1), (4) or (5), 7, 8(2) or 15(1) shall be guilty of an offence under section 31(3) of the Act for failure to comply with section 31(2) of the Act and shall be liable on conviction to be punished in accordance with section 31(3) of the Act.\n(3) A licensee who contravenes regulation 9(2) or (3), 10, 11, 13(1), 14(1) or 16(1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(4) An authorised person who contravenes regulation 13(2), 14(1), or 16(1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(5) A licensee who, without reasonable cause —\n(a)contravenes regulation 17(1) or (2); or\n(b)does not comply with an order made by the Director-General under regulation 17(8)(a),\n[S 404/2023 wef 26/06/2023]\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(6) An authorised person who, without reasonable cause —\n(a)contravenes regulation 17(3) or (6); or\n(b)does not comply with an order made by the Director-General under regulation 17(8)(a),\n[S 404/2023 wef 26/06/2023]\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.\n(7) An authorised publisher who —\n(a)contravenes regulation 17(4); or\n(b)does not comply with an order made by the Director-General under regulation 17(8)(b),\n[S 404/2023 wef 26/06/2023]\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (Advertisement) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

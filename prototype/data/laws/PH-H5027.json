@@ -1,7 +1,7 @@
 {
  "id": "PH-H5027",
  "title": {
-  "zh": null,
+  "zh": "修订第 4764 号共和国法，合并塔克洛班市若干医院组成为名为 Daniel Z. Romualdez 议长纪念医院的综合医院",
   "en": "An Act Amending Republic Act Numbered Forty-Seven Hundred Sixty-Four By Merging Certain Hospitals in Tacloban City and Constituting Them Into a General Hospitals to Be Known as Speaker Daniel Z. Romualdez Memorial Hospital.",
   "orig": "An Act Amending Republic Act Numbered Forty-Seven Hundred Sixty-Four By Merging Certain Hospitals in Tacloban City and Constituting Them Into a General Hospitals to Be Known as Speaker Daniel Z. Romualdez Memorial Hospital."
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H5027-A1_2",
+   "id": "PH-H5027-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "There shall be established under the direct supervision of the Director of Medical Services a general hospital at Tacloban City with a bed capacity of two hundred fifty beds to be known as Speaker Daniel Z. Romualdez Memorial Hospital.\n\"Upon the establishment of said memorial hospital, the City of Tacloban shall be exempted from the payment of the proportionate share required under Republic Act Numbered Nineteen Hundred thirty nine otherwise known as the Hospital Financing Act: Provided, however , That the City of Tacloban and the Province of Leyte may extend financial aid to said memorial hospital,\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5027-A3",
@@ -81,14 +82,15 @@
    }
   },
   {
-   "id": "PH-H5027-A2_2",
+   "id": "PH-H5027-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "All personnel of the Speaker Daniel Z. Romualdez Memorial City Hospital, the Leyte Provincial Hospital and the Tacloban City Hospital shall be absorbed by the memorial hospital herein created in accordance with the provisions of civil service law, rules and regulations, and all assets and liabilities of the present aforesaid hospital shall be transferred to the newly created memorial hospital.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5027-A4",
@@ -110,5 +112,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without executive approval, July 22, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Forty-Seven Hundred Sixty-Four By Merging Certain Hospitals in Tacloban City and Constituting Them Into a General Hospitals to Be Known as Speaker Daniel Z. Romualdez Memorial Hospital.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

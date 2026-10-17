@@ -1,7 +1,7 @@
 {
  "id": "SG-H3156",
  "title": {
-  "zh": null,
+  "zh": "心理健康（护理与治疗）（指定精神科机构）公告 2025",
   "en": "Mental Health (Care and Treatment) (Designated Psychiatric Institution) Notification 2025",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nSpecified premises\nDescription\nAddress\n1.Cluster A, Institution A1,\nA1 Complex Medical Centre\n982A, Upper Changi Road North,\nSingapore 506978\n2.Cluster A, Institution A3,\nA3 Psychiatric Correctional Unit\n982C, Upper Changi Road North,\nSingapore 506980\n3.Cluster A, Institution A4,\nA4 Psychiatric Correctional Unit\n982D, Upper Changi Road North,\nSingapore 506981\n4.Cluster A, Institution A4,\nA4 Medical Centre\n982D, Upper Changi Road North,\nSingapore 506981\n5.Cluster B, Institution B1,\nB1 Cluster Medical Centre\n984A, Upper Changi Road North,\nSingapore 506983\n6.Cluster B, Institution B2,\nB2 Medical Centre\n984B, Upper Changi Road North,\nSingapore 506984"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Mental Health (Care and Treatment) (Designated Psychiatric Institution) Notification 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

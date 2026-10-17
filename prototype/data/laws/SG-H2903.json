@@ -1,7 +1,7 @@
 {
  "id": "SG-H2903",
  "title": {
-  "zh": null,
+  "zh": "解释（酒店发牌条例下费用减免）命令 2021",
   "en": "Interpretation (Remission of Fees under Hotels Licensing Regulations) Order 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following fees payable between 1 January 2021 and 31 December 2021 (both dates inclusive) are wholly remitted:\n(a)the fees specified in regulation 19 of the Hotels Licensing Regulations (Cap. 127, Rg 1) in respect of registration;\n(b)the fee specified in regulation 20 of the Hotels Licensing Regulations for a licence."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Interpretation (Remission of Fees under Hotels Licensing Regulations) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7937",
  "title": {
-  "zh": null,
+  "zh": "将甲米地省自Governor's Drive至塔盖泰市的特里亚斯将军-阿马德奥-塔盖泰公路整段更名为Crisanto M. de Los Reyes大道的法案",
   "en": "An Act Renaming the Entire Portion of Gen. Trias - Amadeo - Tagaytay Road From Governor's Drive to Tagaytay City in the Province of Cavite to Crisanto M. de Los Reyes Avenue",
   "orig": "An Act Renaming the Entire Portion of Gen. Trias - Amadeo - Tagaytay Road From Governor's Drive to Tagaytay City in the Province of Cavite to Crisanto M. de Los Reyes Avenue"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Entire Portion of Gen. Trias - Amadeo - Tagaytay Road From Governor's Drive to Tagaytay City in the Province of Cavite to Crisanto M. de Los Reyes Avenue",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

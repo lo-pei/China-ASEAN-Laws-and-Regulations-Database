@@ -1,7 +1,7 @@
 {
  "id": "SG-H1097",
  "title": {
-  "zh": null,
+  "zh": "诽谤法 1957",
   "en": "Defamation Act 1957",
   "orig": null
  },
@@ -321,5 +321,13 @@
     "en": "THE SCHEDULE\nSection 12\nNewspaper statements having qualified privilege\nPart 1\nStatements Privileged Without Explanation\nor Contradiction\n1. A fair and accurate report of proceedings —\n(a)in public of the legislature of any part of the Commonwealth outside Singapore;\n(b)in public of an international organisation of which Singapore or the Government is a member;\n(c)in public of an international conference to which the Government sends a representative;\n(d)before any court exercising jurisdiction throughout any part of the Commonwealth outside Singapore or a court martial held outside Singapore under any written law in force in Singapore; and\n(e)in public of a body or person appointed to hold a public inquiry by the Government or legislature of any part of the Commonwealth outside Singapore.\n2. A fair and accurate copy of or extract from any register kept in pursuance of any written law in force in Singapore which is open to inspection by the public or which members of the public are entitled to have searched or of any other document which is required by any such law to be open to inspection by the public or to which members of the public are entitled on payment of a fee to a copy.\n3. A notice, an advertisement or a report issued or published by or on the authority of any court within Singapore or any judge or officer of such court or by any public officer or receiver or trustee acting in accordance with the requirements of any written law.\nPart 2\nStatements Privileged Subject to Explanation\nor Contradiction\n1. A fair and accurate report of the findings or decision of any association formed in Singapore for the purpose of —\n(a)promoting or encouraging the exercise of or any interest in any art, science, religion or learning; or\n(b)promoting or safeguarding the interests of any trade, business, industry or profession or of persons carrying on the same or engaged therein or the interests of any game, sport or pastime to the playing or exercise of which members of the public are invited or admitted,\nwhere —\n(c)the finding or decision relates to a person who is a member of or is subject by virtue of any contract to the control of the association; and\n(d)the association is empowered by its constitution to exercise control over or to adjudicate upon the matters to which the finding or decision relates.\n2. A fair and accurate report of the proceedings at any public meeting held in Singapore, being a meeting bona fide and lawfully held for a lawful purpose and for the furtherance or discussion of any matter of public concern, whether the admission to the meeting is general or restricted.\n3. A fair and accurate report of the proceedings at any meeting or sitting in any part of Singapore of —\n(a)any commission, tribunal, committee or person appointed for the purpose of any inquiry by or under any written law or by the President or by any public officer of the Government; or\n(b)any other tribunal, board, commission, committee or body whether incorporated or not constituted and exercising functions by or under any written law in or under any other lawful warrant or authority for public purposes,\nbeing a meeting or sitting to which admission is not denied to representatives of newspapers or other members of the public.\n4. A fair and accurate report of the proceedings at a general meeting wherever held of any joint-stock company or corporation wherever registered whose business is in any way directly concerned with Singapore or of any company constituted, registered or incorporated under the provisions of any written law not being a private company within the meaning of the Companies Act 1967.\n5. A copy or a fair and accurate report or summary of any notice or other matter issued for the information of the public by or on behalf of the Government or by any public officer or authority."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Defamation Act 1957",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

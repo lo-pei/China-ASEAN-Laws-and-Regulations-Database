@@ -1,7 +1,7 @@
 {
  "id": "SG-H3177",
  "title": {
-  "zh": null,
+  "zh": "商船（海事劳工公约）（船舶定义）命令 2014",
   "en": "Merchant Shipping (Maritime Labour Convention) (Definition of Ship) Order 2014",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nShips excluded from application of Act\n1. A ship which has been issued a Mobile Offshore Drilling Unit Safety Certificate by the Director or an authorised organisation appointed by the Director under the Merchant Shipping (Authorised Organisations) Regulations (Cap. 179, Rg 18), certifying compliance with the Code for the Construction and Equipment of Mobile Offshore Drilling Units adopted by the International Maritime Organization by resolution A.414(XI), and as amended from time to time."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Merchant Shipping (Maritime Labour Convention) (Definition of Ship) Order 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

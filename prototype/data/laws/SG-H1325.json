@@ -1,7 +1,7 @@
 {
  "id": "SG-H1325",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（工厂处所边界噪音限值）条例",
   "en": "Environmental Protection and Management (Boundary Noise Limits for Factory Premises) Regulations",
   "orig": null
  },
@@ -136,5 +136,13 @@
     "en": "SECOND SCHEDULE\nRegulation 3(3)\nCorrection Factor\nThe adjusted value for the maximum permissible noise level shall be obtained by adding the correction factor corresponding to the difference between the maximum permissible noise level in the First Schedule and the background noise level, set out in the Table below, to the higher of the 2 noise levels.\nDifference between 2 noise levels in decibels (A)\nCorrection factor in decibels (A)\n(a) Below 2\n3\n(b) 2 to less than 4\n2\n(c) 4 to less than 10\n1\n(d) 10 and above\nNil."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Protection and Management (Boundary Noise Limits for Factory Premises) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

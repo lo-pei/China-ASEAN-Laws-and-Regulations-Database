@@ -1,7 +1,7 @@
 {
  "id": "SG-H3345",
  "title": {
-  "zh": null,
+  "zh": "报章与印刷馆（申请与执照）规则",
   "en": "Newspaper and Printing Presses (Applications and Licences) Rules",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nNEWSPAPER AND PRINTING PRESSES ACT\n(CHAPTER 206)\nNEWSPAPER AND PRINTING PRESSES\n(APPLICATIONS AND LICENCES)\nRULES\nLICENCE TO USE PRINTING PRESS\nLICENCE NUMBER:\nThis Licence is hereby granted, under section 3 of the Newspaper and Printing Presses Act, to\nto keep and use a printing press (or presses) at\nfor the period from ______________ to ______________.\nThis Licence is granted by the Minister, pursuant to the powers conferred by the Newspaper and Printing Presses Act, for printing purposes within Singapore. The holder of this Licence must comply with the conditions specified hereon and overleaf, as well as the conditions (if any) stated in the covering letter for this Licence.\n____________________________\nMinistry of Digital\nDevelopment and Information,\nSingapore.\n[S 574/2024 wef 08/07/2024]\n[S 303/2004 wef 28/05/2004]\nCONDITION\nThis Licence is not transferable. It will cease to be valid in the event of any change in the holder or location as specified in the Licence.\n[S 303/2004 wef 28/05/2004]\nNOTES\n1. The holder of this Licence must have obtained prior planning permission for the use of the premises as a printing press from the Urban Redevelopment Authority or any other relevant authority.\n2. Every document printed within Singapore shall have printed legibly on its first or last printed leaf the name of its printer and publisher as required under section 5(1) of the Newspaper and Printing Presses Act.\n3. A newspaper permit is required for the printing or publication of any newspaper as defined in the Newspaper and Printing Presses Act. The holder of this Licence must ensure that there is a valid newspaper permit in respect of any newspaper to be printed by the holder of this Licence. The holder of this Licence may inspect the original copy of the permit or check with the Registrar of Newspapers should there be any doubt.\n4. Failure to comply with any condition to which this Licence is subject could result in the Licence being withdrawn either permanently or for such period as the Minister thinks fit under section 3(1) of the Newspaper and Printing Presses Act.\n[S 303/2004 wef 28/05/2004]\n[G.N. No. S 356/88]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Newspaper and Printing Presses (Applications and Licences) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

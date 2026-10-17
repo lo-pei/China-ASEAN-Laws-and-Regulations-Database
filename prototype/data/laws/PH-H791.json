@@ -1,7 +1,7 @@
 {
  "id": "PH-H791",
  "title": {
-  "zh": null,
+  "zh": "修订第 124 号共和国法的法案",
   "en": "An Act to Amend Republic Act Numbered One Hundred and Twenty-four",
   "orig": "An Act to Amend Republic Act Numbered One Hundred and Twenty-four"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H791-A1_2",
+   "id": "PH-H791-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Effective July first, nineteen hundred and forty-seven, it shall be the duty of the principal, director and/or president of a private school, college or university, with a total enrollment of at least three hundred and one thousand to provide a part or full time physician and dentist, respectively, to give medical and dental service to the pupils and students enrolled therein, who shall render reports at the end of every quarter, to wit: end of September, December, March and June of each school year, of their school health activities to the Director of Health. Said physician and dentist shall be placed under the direct supervision of the Bureau of Health.\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H791-A2",
@@ -71,14 +72,15 @@
    }
   },
   {
-   "id": "PH-H791-A2_2",
+   "id": "PH-H791-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "The title of the same Act is amended to read as follows:\n\"An Act to require certain private schools, colleges and universities in the Philippines to provide medical and dental service for pupils and students.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H791-A3",
@@ -90,5 +92,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered One Hundred and Twenty-four",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

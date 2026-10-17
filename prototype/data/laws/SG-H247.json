@@ -1,7 +1,7 @@
 {
  "id": "SG-H247",
  "title": {
-  "zh": null,
+  "zh": "兽医认可资格（合并）公告",
   "en": "Approved Qualifications for Veterinary Surgeons (Consolidation) Notification",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Poisons Act\n(CHAPTER 234, Definition of “Veterinary Surgeon” in Section 2)\nApproved Qualifications for\nVeterinary Surgeons (Consolidation)\nNotification\nN 2\nG.N. No. S 120/1958\nREVISED EDITION 1999\n(1st January 1999)\nThe Minister for Health has approved the following diplomas and degrees as qualifications for veterinary surgeons within the meaning of the Poisons Act:\n(a)the Veterinary Degree of the University of Brisbane;\n[S 120/58 — 30.5.58]\n(b)the Veterinary Degree of the University of Sydney;\n(c)the Veterinary Degree of the University of Pretoria;\n(d)the Veterinary Degree of the University of Toronto;\n(e)the East Pakistan College of Veterinary Science and Animal Husbandry; and\n[1182/62 — 1.6.62]\n(f)the Bachelor of Veterinary Science Degree (B.VSc.) of the University of Ceylon.\n[Sp. S 11/63 — 4.10.63]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Approved Qualifications for Veterinary Surgeons (Consolidation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

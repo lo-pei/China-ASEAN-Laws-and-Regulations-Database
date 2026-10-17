@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-19-2002-NATIONAL-REGISTRATION-ACT-1",
  "title": {
-  "zh": null,
+  "zh": "国民登记法(1)",
   "en": "NATIONAL REGISTRATION ACT(1)",
   "orig": null
  },
@@ -175,5 +175,13 @@
     "en": "(1) Any document purporting to be a report under the hand of any of the persons mentioned in subsection (2) upon any matter or thing duly submitted to any such person for examination, analysis or report, may be used as evidence in any trial or other proceedings under this Act or any regulations made thereunder, unless the court requires that person to be called as a witness: Provided that in any case in which the Public Prosecutor intends to give in evidence any such report, he shall deliver a copy thereof to the accused not less than 10 days before the commencement of the trial or other proceedings.\n\n(2) The following are persons to whom this section applies —\n\n(a) any officer or any person duly authorised to issue identity cards by virtue of this Act; and\n\n(b) any police officer charged with the registration or collation of fingerprints."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NATIONAL REGISTRATION ACT(1)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

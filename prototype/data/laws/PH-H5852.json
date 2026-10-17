@@ -1,7 +1,7 @@
 {
  "id": "PH-H5852",
  "title": {
-  "zh": null,
+  "zh": "将拉乌尼翁San Fernando的伊罗戈区域医院床位由150张增至200张并为此拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Ilocos Regional Hospital in San Fernando, La Union, From One Hundred Fifty (150) to Two Hundred (200) Beds, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Ilocos Regional Hospital in San Fernando, La Union, From One Hundred Fifty (150) to Two Hundred (200) Beds, and Appropriating Funds Therefor"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Ilocos Regional Hospital in San Fernando, La Union, From One Hundred Fifty (150) to Two Hundred (200) Beds, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

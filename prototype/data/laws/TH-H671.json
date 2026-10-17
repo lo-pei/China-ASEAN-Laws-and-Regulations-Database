@@ -1,7 +1,7 @@
 {
  "id": "TH-H671",
  "title": {
-  "zh": null,
+  "zh": "关于在北大年、那拉提瓦、也拉与沙敦府适用伊斯兰教法的法，佛历 2489（1946）",
   "en": "ACT ON APPLICATION OF ISLAMIC LAW IN AREAS OF PATTANI, NARATHIWAT, YALA AND SATUN CHANGWAT, B.E. 2489 (1946)",
   "orig": "พระราชบัญญัติว่าด้วยการใช้กฎหมายอิสลามในเขตจังหวัดปัตตานี นราธิวาส ยะลา และสตูล พ.ศ. 2489"
  },
@@ -110,5 +110,13 @@
     "th": "มาตรา ๗ ให้รัฐมนตรีว่าการกระทรวงยุติธรรมรักษาการตามพระราชบัญญัตินี้"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "ACT ON APPLICATION OF ISLAMIC LAW IN AREAS OF PATTANI, NARATHIWAT, YALA AND SATUN CHANGWAT, B.E. 2489 (1946)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

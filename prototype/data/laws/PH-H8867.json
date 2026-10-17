@@ -1,7 +1,7 @@
 {
  "id": "PH-H8867",
  "title": {
-  "zh": null,
+  "zh": "将马里基纳市Kalumpang与San Roque描笼涯的N. Roxas街改设为国道并为此拨款的法案",
   "en": "An Act Converting N. Roxas Street in Barangays Kalumpang and San Roque in the City of Marikina into a National Road and Appropriating Funds Therefor",
   "orig": "An Act Converting N. Roxas Street in Barangays Kalumpang and San Roque in the City of Marikina into a National Road and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting N. Roxas Street in Barangays Kalumpang and San Roque in the City of Marikina into a National Road and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

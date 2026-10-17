@@ -1,7 +1,7 @@
 {
  "id": "SG-H3400",
  "title": {
-  "zh": null,
+  "zh": "验光师与配镜师（执业、行为、道德与宣传）条例",
   "en": "Optometrists and Opticians (Practice, Conduct, Ethics and Publicity) Regulations",
   "orig": null
  },
@@ -278,5 +278,13 @@
     "en": "15. Any complaint that a registered person has contravened any provision of these Regulations shall be dealt with in accordance with the Optometrists and Opticians (Investigation of Complaints) Regulations (Rg 2).\n[G.N. No. S 556/2008]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Optometrists and Opticians (Practice, Conduct, Ethics and Publicity) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

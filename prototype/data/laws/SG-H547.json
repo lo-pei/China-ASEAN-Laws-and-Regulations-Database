@@ -1,7 +1,7 @@
 {
  "id": "SG-H547",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（工资——不计入付款）公告 2019",
   "en": "Central Provident Fund (Wages — Excluded Payments) Notification 2019",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The definition of “wages” in section 2(1) of the Act does not include any payment that becomes due, on or after 1 January 2020, to an employee from the employee’s employer to reimburse the employee for any amount incurred in respect of any relevant treatment received, or to be received —\n(a)by the employee; or\n(b)by an individual who is a dependant of the employee at the time that the payment becomes due."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Wages — Excluded Payments) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

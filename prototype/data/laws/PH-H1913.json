@@ -1,7 +1,7 @@
 {
  "id": "PH-H1913",
  "title": {
-  "zh": null,
+  "zh": "将萨马省巴塞市镇的班贡、莱罗、坎马尼拉与卡纳吉尼安小村改设为该市镇名为巴库巴克村的法案",
   "en": "An Act to Convert the Sitios of Bañgon, Lero, Canmanila and Canaguini-An, All in the Municipality of Basey, Province of Samar, to a Barrio to be Known as Barrio Bacubac of the Same Municipality",
   "orig": "An Act to Convert the Sitios of Bañgon, Lero, Canmanila and Canaguini-An, All in the Municipality of Basey, Province of Samar, to a Barrio to be Known as Barrio Bacubac of the Same Municipality"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 26, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Sitios of Bañgon, Lero, Canmanila and Canaguini-An, All in the Municipality of Basey, Province of Samar, to a Barrio to be Known as Barrio Bacubac of the Same Municipality",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

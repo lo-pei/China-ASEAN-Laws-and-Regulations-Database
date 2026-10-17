@@ -1,7 +1,7 @@
 {
  "id": "PH-H1703",
  "title": {
-  "zh": null,
+  "zh": "授权在Lanao省拉瑙湖设立湖沼与淡水鱼类苗种站并为此拨款的法案",
   "en": "An Act to Authorize the Establishment of a Limnological and Fresh-Water Fish Nursery Station at Lake Lanao, Lanao Province, and Appropriating Funds Therefore",
   "orig": "An Act to Authorize the Establishment of a Limnological and Fresh-Water Fish Nursery Station at Lake Lanao, Lanao Province, and Appropriating Funds Therefore"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize the Establishment of a Limnological and Fresh-Water Fish Nursery Station at Lake Lanao, Lanao Province, and Appropriating Funds Therefore",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

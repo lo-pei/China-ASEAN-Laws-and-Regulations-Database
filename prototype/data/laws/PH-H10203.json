@@ -1,7 +1,7 @@
 {
  "id": "PH-H10203",
  "title": {
-  "zh": null,
+  "zh": "授予 Amado L. Ola 先生遗产管理方（以 Amapola Broadcasting System 名义经营）在菲律宾建设、运营和维护广播电视站的特许经营权法案",
   "en": "An Act Granting the Estate of Mr. Amado L. Ola, Opc Doing Business as Amapola Broadcasting System, a Franchise to Construct, Install, Establish, Operate, and Maintain Radio and Television Broadcasting Stations in the Philippines",
   "orig": "An Act Granting the Estate of Mr. Amado L. Ola, Opc Doing Business as Amapola Broadcasting System, a Franchise to Construct, Install, Establish, Operate, and Maintain Radio and Television Broadcasting Stations in the Philippines"
  },
@@ -161,14 +161,15 @@
    }
   },
   {
-   "id": "PH-H10203-A13_2",
+   "id": "PH-H10203-A13-d2",
    "no": 13,
    "noLabel": {
     "en": "Section 13."
    },
    "text": {
     "en": "Fine. - Failure of the Grantee to submit the requisite annual report to Congress shall be penalized with a fine Five hundred pesos (P500.00) per working day of noncompliance. The fine shall be collected separately from the reportorial penalties imposed by the NTC, and it shall be remitted to the Bureau of Treasury."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10203-A14",
@@ -220,5 +221,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Estate of Mr. Amado L. Ola, Opc Doing Business as Amapola Broadcasting System, a Franchise to Construct, Install, Establish, Operate, and Maintain Radio and Television Broadcasting Stations in the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

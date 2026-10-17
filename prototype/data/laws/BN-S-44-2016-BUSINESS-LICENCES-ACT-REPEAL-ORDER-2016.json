@@ -1,7 +1,7 @@
 {
  "id": "BN-S-44-2016-BUSINESS-LICENCES-ACT-REPEAL-ORDER-2016",
  "title": {
-  "zh": null,
+  "zh": "商业执照法废止命令 2016",
   "en": "BUSINESS LICENCES ACT REPEAL ORDER 2016",
   "orig": null
  },
@@ -70,5 +70,13 @@
     "en": "(1) Any licence issued under the repealed Business Licences Act, insofar as it is not inconsistent with the provisions of any other written law for the time being in force relating to the issue of licence or permit or certificate of registration with respect to any of the trade, business or occupation specified in the Schedule to the repealed Business Licences Act, is deemed to be a licence or permit or certificate of registration issued by the relevant authority under the corresponding provision of that other written law.\n\n(2) Any decision made and any act or thing done under or pursuant to the repealed Business Licenses Act, insofar as it is not inconsistent with the provisions of any other written law for the time being in force, is deemed to have been made or done under the corresponding provisions of that other written law and shall continue to have effect accordingly.\n\n(3) Every application for licences pending to be issued under the repealed Business Licences Act rnade before the date of commencement of this Order is deemed to be an application for a licence or permit or certificate of registration under the corresponding provision of that other written law. Made this 29th. day of Syawal, 1437 Hijriah corresponding to the 3rd. day of August, 2016 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN BRlJNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BUSINESS LICENCES ACT REPEAL ORDER 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

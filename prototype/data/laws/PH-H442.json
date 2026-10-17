@@ -1,7 +1,7 @@
 {
  "id": "PH-H442",
  "title": {
-  "zh": null,
+  "zh": "在特定条件下使为医学、外科或科学目的使用人体器官或人体任何部分之许可合法化的法案",
   "en": "An Act to Legalize Permissions to Use Human Organs or Any Portion or Portions of the Human Body for Medical, Surgical, or Scientific Purposes, Under Certain Conditions",
   "orig": "An Act to Legalize Permissions to Use Human Organs or Any Portion or Portions of the Human Body for Medical, Surgical, or Scientific Purposes, Under Certain Conditions"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, May 17, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Legalize Permissions to Use Human Organs or Any Portion or Portions of the Human Body for Medical, Surgical, or Scientific Purposes, Under Certain Conditions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

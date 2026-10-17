@@ -1,7 +1,7 @@
 {
  "id": "SG-H3695",
  "title": {
-  "zh": null,
+  "zh": "电信法 1999",
   "en": "Telecommunications Act 1999",
   "orig": null
  },
@@ -1606,5 +1606,13 @@
     "en": "98.—(1) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved by the TAS in relation to telecommunication matters under the repealed Act, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continues and is deemed to have been prepared, made, granted or approved by the Authority under the corresponding provisions of this Act.\n(2) Any subsidiary legislation made under the repealed Act or any other written law relating to telecommunication matters and in force immediately before 1 December 1999, so far as it is not inconsistent with the provisions of this Act, continues in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.\n[75"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Telecommunications Act 1999",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2680",
  "title": {
-  "zh": null,
+  "zh": "为西内格罗斯省增设一名劳工律师职位并派驻巴科洛德市的法案",
   "en": "An Act Creating Another Position of Labor Attorney for the Province of Negros Occidental, to be Assigned in Bacolod City",
   "orig": "An Act Creating Another Position of Labor Attorney for the Province of Negros Occidental, to be Assigned in Bacolod City"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating Another Position of Labor Attorney for the Province of Negros Occidental, to be Assigned in Bacolod City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

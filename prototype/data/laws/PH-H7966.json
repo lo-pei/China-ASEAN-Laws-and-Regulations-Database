@@ -1,7 +1,7 @@
 {
  "id": "PH-H7966",
  "title": {
-  "zh": null,
+  "zh": "Bacolor 市镇重建委员会法",
   "en": "Bacolor Rehabilitation Council Act",
   "orig": "Bacolor Rehabilitation Council Act An Act Creating the Bacolor Rehabilitation Council and appropriating funds therefor"
  },
@@ -130,5 +130,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Bacolor Rehabilitation Council Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

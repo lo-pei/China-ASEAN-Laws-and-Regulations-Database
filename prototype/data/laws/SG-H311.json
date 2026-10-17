@@ -1,7 +1,7 @@
 {
  "id": "SG-H311",
  "title": {
-  "zh": null,
+  "zh": "卖据法 1886",
   "en": "Bills of Sale Act 1886",
   "orig": null
  },
@@ -341,5 +341,13 @@
     "en": "THIRD SCHEDULE\nSection 14(1)\nForm of register\nSatisfaction entered.\nNo.\nBy whom given (or against whom process issued.)\nTo whom or in whose favour given.\nDate of instrument.\nDate of original registration.\nDate of registration of declaration of renewal.\nDate of registration of declaration of transfer.\nTo whom transferred.\nName.\nResidence.\nOccupation.\nName.\nResidence.\nOccupation.\nName.\nResidence.\nOccupation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Bills of Sale Act 1886",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

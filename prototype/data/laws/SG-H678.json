@@ -1,7 +1,7 @@
 {
  "id": "SG-H678",
  "title": {
-  "zh": null,
+  "zh": "合作社（第 97 条下的豁免）命令 2023",
   "en": "Co-operative Societies (Exemption under Section 97) Order 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following societies are exempt from section 57(4) of the Act from 28 December 2023 to 27 December 2028 (both dates inclusive):\n(a)NTUC Enterprise Co‑operative Limited;\n(b)NTUC Enterprise Nexus Co‑operative Limited;\n(c)NTUC Fairprice Co‑operative Limited;\n(d)NTUC First Campus Co‑operative Limited;\n(e)NTUC Foodfare Co‑operative Limited;\n(f)NTUC Health Co‑operative Limited;\n(g)Mercatus Co‑operative Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (Exemption under Section 97) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

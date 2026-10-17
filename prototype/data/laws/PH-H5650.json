@@ -1,7 +1,7 @@
 {
  "id": "PH-H5650",
  "title": {
-  "zh": null,
+  "zh": "在南三宝颜省设立 Tigbao 市镇的法案",
   "en": "An Act Creating the Municipality of Tigbao in the Province of Zamboanga del Sur",
   "orig": "An Act Creating the Municipality of Tigbao in the Province of Zamboanga del Sur"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Municipality of Tigbao in the Province of Zamboanga del Sur",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

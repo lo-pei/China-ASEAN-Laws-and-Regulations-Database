@@ -1,7 +1,7 @@
 {
  "id": "SG-H1380",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（公共清洁）条例",
   "en": "Environmental Public Health (Public Cleansing) Regulations",
   "orig": null
  },
@@ -603,5 +603,13 @@
     "en": "ELEVENTH SCHEDULE\nSecond Schedule, paragraph 9\nAREA IN WHICH COLLECTION AND REMOVAL OF REFUSE FROM PREMISES DESIGNATED UNDER SECTION 8(2)(b) OF ACT SHALL BE CARRIED BY CORA ENVIRONMENT PTE. LTD.\nThe area bounded by Berlayar Creek (the canal beside Keppel Golf Links), Telok Blangah Road, Alexandra Road, Queensway, Farrer Road, Adam Road, Pan-Island Expressway, Jalan Toa Payoh, Serangoon Road, Selegie Road, Prinsep Street, Stamford Road, North Bridge Road, South Bridge Road, Tanjong Pagar Road, an imaginary line running from Tanjong Pagar Road to Anson Road, Anson Road, an imaginary line running from Anson Road to Tanjong Pagar Terminal Avenue, Tanjong Pagar Terminal Road E to the coast and the coastline from the latter to Berlayar Creek, which area is more particularly delineated in the following map:\n[S 168/2006 wef 01/09/2006]\n[S 402/2010 wef 10/09/2008]\n[S 975/2020 wef 01/01/2021]\n[S 549/2025 wef 01/09/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Public Health (Public Cleansing) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

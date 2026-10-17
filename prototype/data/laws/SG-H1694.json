@@ -1,7 +1,7 @@
 {
  "id": "SG-H1694",
  "title": {
-  "zh": null,
+  "zh": "保健产品（豁免）命令 2016",
   "en": "Health Products (Exemptions) Order 2016",
   "orig": null
  },
@@ -110,5 +110,13 @@
     "en": "SECOND SCHEDULE\nParagraph 3(2)\nExemptions relating to medical devices\nMedical devices used in clinical research\n1.—(1) Sections 12(3), 13(3) and 14(2) of the Act do not apply to a manufacturer, importer or supplier by wholesale of a medical device, if the medical device is used for a clinical purpose in any clinical research.\n(2) In this paragraph —\n“clinical purpose” means any of the specific purposes described in the second column of item 1 of the First Schedule to the Act;\n“clinical research” means any research involving human beings.\nDealing in medical devices licensed under Radiation Protection Act\n2.—(1) Sections 13(3) and 14(2) of the Act do not apply to an importer or a supplier by wholesale of a medical device, if —\n(a)the import or supply by wholesale, as the case may be, of the medical device is licensed under the Radiation Protection Act 2007; and\n[S 435/2023 wef 31/12/2021]\n(b)the medical device is —\n(i)registered under the Act;\n(ii)listed on the Class A or B Medical Device Transition List as published on the Authority’s website as at 1 January 2012; or\n(iii)listed on the Class C or D Medical Device Transition List as published on the Authority’s website as at 10 August 2010.\n(2) In this paragraph, “Authority’s website” means the Authority’s Internet website at http://www.hsa.gov.sg.\nUnregistered medical device supplied in certain circumstances\n3.—(1) Sections 12(2) and 13(2) of the Act do not apply to a manufacturer or an importer of a medical device, if the medical device is an unregistered medical device that is supplied in accordance with regulation 10B of the Health Products (Medical Devices) Regulations 2010 (G.N. No. S 436/2010).\n(2) Section 13(2) of the Act does not apply to an importer of a medical device, if the medical device is an unregistered medical device that is supplied in accordance with regulation 8 of the Health Products (Medical Devices) Regulations 2010.\nAdverse effects from use of medical devices not resulting in serious adverse reaction\n4.—(1) Section 42(1)(b) of the Act does not apply to a manufacturer, an importer, a supplier or a registrant of a medical device, if the defect in the medical device, or adverse effect that has arisen from the use of the medical device, does not relate to —\n(a)any defect or adverse effect that represents a serious threat to public health;\n(b)an incident that has led to the death, or a serious deterioration in the state of health, of a patient, a user of the medical device or any other person; or\n(c)an incident a recurrence of which might lead to the death, or a serious deterioration in the state of health, of a patient, a user of the medical device or any other person.\n(2) In this paragraph, “a serious threat to public health” has the same meaning as in regulation 42(2) of the Health Products (Medical Devices) Regulations 2010.\n[S 321/2018 wef 01/06/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Health Products (Exemptions) Order 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

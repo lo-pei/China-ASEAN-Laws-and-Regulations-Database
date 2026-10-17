@@ -1,7 +1,7 @@
 {
  "id": "PH-H6029",
  "title": {
-  "zh": null,
+  "zh": "将南苏里高省San Miguel市镇医疗社区医院由10张床位的医疗医院扩建升级为25张床位的区医院，名称为San Miguel区医院，并为此拨款",
   "en": "An Act Expanding and Upgrading the Medicare Community Hospital in the Municipality of San Miguel, Province of Surigao Del Sur, From A Ten-bed Capacity Medicare Hospital Into A Twenty-five-bed Capacity District Hospital, To Be Known As the San Miguel District Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Expanding and Upgrading the Medicare Community Hospital in the Municipality of San Miguel, Province of Surigao Del Sur, From A Ten-bed Capacity Medicare Hospital Into A Twenty-five-bed Capacity District Hospital, To Be Known As the San Miguel District Hospital, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Expanding and Upgrading the Medicare Community Hospital in the Municipality of San Miguel, Province of Surigao Del Sur, From A Ten-bed Capacity Medicare Hospital Into A Twenty-five-bed Capacity District Hospital, To Be Known As the San Miguel District Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

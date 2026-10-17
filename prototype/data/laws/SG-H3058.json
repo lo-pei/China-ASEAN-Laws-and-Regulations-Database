@@ -1,7 +1,7 @@
 {
  "id": "SG-H3058",
  "title": {
-  "zh": null,
+  "zh": "宗教和谐维护（可复合罪行）条例 2022",
   "en": "Maintenance of Religious Harmony (Compoundable Offences) Regulations 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Each of the following offences is prescribed as a compoundable offence that may be compounded in accordance with section 17D of the Act:\n(a)an offence under section 16GA(1)(a), 17H(1) or 17J(1) or (2) of the Act, except a continuing offence;\n[S 605/2026 wef 15/09/2026]\n(b)an offence under section 16GA(1)(b), (c) or (d) or 17H(3) of the Act;\n[S 605/2026 wef 15/09/2026]\n(c)an offence under section 17L(1) of the Act (as in force immediately before 15 September 2026), except a continuing offence;\n[S 605/2026 wef 15/09/2026]\n(d)an offence under section 17K(3) of the Act (as in force immediately before 15 September 2026);\n[S 605/2026 wef 15/09/2026]\n(e)an offence under regulation 10(2)(a) or 11(8)(a) or (b) of the Maintenance of Religious Harmony (Restraining Orders) Regulations 2026 (G.N. No. S 603/2026).\n[S 605/2026 wef 15/09/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Maintenance of Religious Harmony (Compoundable Offences) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-57-2021-ROYAL-BRUNEI-POLICE-FORCE-DISCIPLINAY-PROCE-A9093B",
  "title": {
-  "zh": null,
+  "zh": "文莱皇家警察部队纪律程序条例 2021",
   "en": "ROYAL BRUNEI POLICE FORCE DISCIPLINAY PROCEEDINGS REGULATIONS 2021",
   "orig": null
  },
@@ -289,5 +289,13 @@
     "en": "Engaging in trade or other employment without the permission of the Commissioner. Made this 8th. day of Jamadilawal, 1443 Hijriah corresponding to the 13th. day of December, 2021 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN, BRUNEI DARUSSALAM."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ROYAL BRUNEI POLICE FORCE DISCIPLINAY PROCEEDINGS REGULATIONS 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

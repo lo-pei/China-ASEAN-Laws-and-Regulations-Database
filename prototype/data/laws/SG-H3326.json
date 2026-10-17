@@ -1,7 +1,7 @@
 {
  "id": "SG-H3326",
  "title": {
-  "zh": null,
+  "zh": "全国疾病登记（癌症通报）条例 2009",
   "en": "National Registry of Diseases (Cancer Notification) Regulations 2009",
   "orig": null
  },
@@ -120,5 +120,13 @@
     "en": "THIRD SCHEDULE\nRegulation 4\nAdditional Information\n1. Patient’s particulars:\n(a)gender;\n(b)ethnic group;\n(c)citizenship or resident status;\n(d)country of birth.\n2. Details of notifying healthcare institution:\n(a)medical practitioner in charge of the case;\n(b)healthcare institution (including specific centre, department or clinic) responsible for subsequent treatment or follow-up;\n(c)person who made the notification.\n3. Diagnosis information:\n(a)basis for diagnosis;\n(b)grade or differentiation;\n(c)histological diagnosis.\n4. Current status of patient:\n(a)living or deceased;\n(b)where patient is deceased, the date, place and cause of death.\n5. Clinical staging and treatment:\n(a)clinical stage of cancer;\n(b)tumour size;\n(c)treatment (including type and date of treatment).\n6. Risk factors."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "National Registry of Diseases (Cancer Notification) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10546",
  "title": {
-  "zh": null,
+  "zh": "将山区省Barlig市镇Lingoy描笼涯的东Bontoc国立农业与职业中学更名为Barlig国立农业与职业中学的法案",
   "en": "An Act Changing the Name of Eastern Bontoc National Agricultural and Vocational High School in Barangay Lingoy, Municipality of Barlig, Mountain Province to Barlig National Agricultural and Vocational High School",
   "orig": "An Act Changing the Name of Eastern Bontoc National Agricultural and Vocational High School in Barangay Lingoy, Municipality of Barlig, Mountain Province to Barlig National Agricultural and Vocational High School"
  },
@@ -82,5 +82,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Eastern Bontoc National Agricultural and Vocational High School in Barangay Lingoy, Municipality of Barlig, Mountain Province to Barlig National Agricultural and Vocational High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

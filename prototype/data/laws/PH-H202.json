@@ -1,7 +1,7 @@
 {
  "id": "PH-H202",
  "title": {
-  "zh": null,
+  "zh": "要求政府拥有或控制的公司、机构或单位缴纳税款、关税、规费及其他费用的法案",
   "en": "An Act Requiring Corporations, Agencies or Instrumentalities Owned or Controlled by the Government to Pay Taxes, Duties, Fees, and Other Charges",
   "orig": "An Act Requiring Corporations, Agencies or Instrumentalities Owned or Controlled by the Government to Pay Taxes, Duties, Fees, and Other Charges"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 2, 1947"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring Corporations, Agencies or Instrumentalities Owned or Controlled by the Government to Pay Taxes, Duties, Fees, and Other Charges",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1676",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（运输爆炸物前体——类别许可）命令 2025",
   "en": "Guns, Explosives and Weapons Control (Transporting Explosive Precursors — Class Licence) Order 2025",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "8.—(1) For the purpose of section 61(2)(a) of the Act, every class licensee by virtue of paragraph 4 or 5 must make and keep a record of all the following aspects of each relevant consignment of explosive precursors transported by the class licensee under the class licence:\n(a)the type and quantity of explosive precursor comprised in the relevant consignment;\n(b)for each Singapore journey transporting the relevant consignment —\n(i)the route taken (including any stops en‑route);\n(ii)the date, place and time the journey started;\n(iii)the date, place and time the journey ended;\n(iv)the vehicle number of the goods vehicle used in that journey; and\n(v)the HAZMAT driving licence number of the individual driving the goods vehicle, where applicable.\n(2) For the purpose of section 61(2)(a) of the Act, a class licensee by virtue of paragraph 4 or 5 must keep and retain a record for at least 3 years after the date the record was made."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Guns, Explosives and Weapons Control (Transporting Explosive Precursors — Class Licence) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

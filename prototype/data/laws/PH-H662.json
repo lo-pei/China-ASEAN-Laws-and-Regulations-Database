@@ -1,7 +1,7 @@
 {
  "id": "PH-H662",
  "title": {
-  "zh": null,
+  "zh": "废止第1017条，并进一步修订《修订行政法典》第284条与第285-A条（经第218号共和国法修正），将卫生处雇员纳入受益人范围",
   "en": "An Act to Repeal Section Ten Hundred and Seventeen and to Further Amend Sections Two Hundred and Eighty-Four and Two Hundred and Eighty-Five-A as Amended By Republic Act Numbered Two Hundred and Eighteen, of the Revised Administrative Code So as to Include Among the Beneficiaries Thereof the Employees of Sanitary Divisions",
   "orig": "An Act to Repeal Section Ten Hundred and Seventeen and to Further Amend Sections Two Hundred and Eighty-Four and Two Hundred and Eighty-Five-A as Amended By Republic Act Numbered Two Hundred and Eighteen, of the Revised Administrative Code So as to Include Among the Beneficiaries Thereof the Employees of Sanitary Divisions"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect as of January first, nineteen hundred and fifty."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Repeal Section Ten Hundred and Seventeen and to Further Amend Sections Two Hundred and Eighty-Four and Two Hundred and Eighty-Five-A as Amended By Republic Act Numbered Two Hundred and Eighteen, of the Revised Administrative Code So as to Include Among the Beneficiaries Thereof the Employees of Sanitary Divisions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

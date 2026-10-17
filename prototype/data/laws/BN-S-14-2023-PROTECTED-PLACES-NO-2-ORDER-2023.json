@@ -1,0 +1,91 @@
+{
+ "id": "BN-S-14-2023-PROTECTED-PLACES-NO-2-ORDER-2023",
+ "title": {
+  "zh": "受保护场所第 2 号命令 2023",
+  "en": "PROTECTED PLACES NO. 2 ORDER 2023",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p25",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 3,
+ "chars": 1104,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-14-2023-PROTECTED-PLACES-NO.-2-ORDER-2023.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-14-2023-PROTECTED-PLACES-NO.-2-ORDER-2023.pdf》（3 页），本次切分 3 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-14-2023-PROTECTED-PLACES-NO-2-ORDER-2023-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "This Order may be cited as the Protected Places (No. 2) Order, 2023 and shall commence on the date it is made."
+   }
+  },
+  {
+   "id": "BN-S-14-2023-PROTECTED-PLACES-NO-2-ORDER-2023-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "Declaration of protected place"
+   },
+   "text": {
+    "en": "The place specified in the first column of the Schedule, which is more particularly described in the plan specified in the second column thereof deposited in the office of the Surveyor-General, is hereby declared to be a protected place for the purposes of the Act. Authorities"
+   }
+  },
+  {
+   "id": "BN-S-14-2023-PROTECTED-PLACES-NO-2-ORDER-2023-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "3rd. JUNE, 2023"
+   },
+   "text": {
+    "en": "The authorities specified in the third column of the Schedule are from whom permission to enter the protected place is to be received.\n\nSCHEDULE (paragraphs 2 and 3) Place Plan Number Authority Clinical Molecular Diagnostic GT220001 TU Director of Laboratory Laboratory for Infectious Diseases Services Department of Laboratory Services Ministry of Health Chief Scientific Officer, Kampong Bukit Bendera Department of Tutong District Laboratory Services. Made this 18th. day of Syawal, 1444 Hijriah corresponding to the 9th. day of May, 2023.\n\nDATO SERI SETIA A WANG HAJI AHMADDIN BIN HAJI ABDUL RAHMAN Minister of Home Affairs. Dicetak oleh Print Plus Sdn. Bhd., Bandar Seri Begawan 883510, Negara Brunei Darussalam."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "PROTECTED PLACES NO. 2 ORDER 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

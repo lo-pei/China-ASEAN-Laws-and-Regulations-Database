@@ -1,7 +1,7 @@
 {
  "id": "SG-H879",
  "title": {
-  "zh": null,
+  "zh": "反补贴与反倾销税条例 1997",
   "en": "Countervailing and Anti-Dumping Duties Regulations 1997",
   "orig": null
  },
@@ -774,5 +774,13 @@
     "en": "46.—(1) The Minister must, before a final determination is made, inform all interested parties of the essential facts under consideration which form the basis for the decision whether to apply definitive measures.\n(2) Such disclosure must take place in sufficient time for the interested parties to defend their interests."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Countervailing and Anti-Dumping Duties Regulations 1997",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

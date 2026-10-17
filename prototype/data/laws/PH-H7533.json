@@ -1,7 +1,7 @@
 {
  "id": "PH-H7533",
  "title": {
-  "zh": null,
+  "zh": "将 Iligan 市分区工程办公室改设为正规完整工程区并为其拨款的法案",
   "en": "An Act Converting the Sub-District Engineering Office in the City of Iligan Into a Regular Fully Constituted Engineering District and Appropriating Funds Therefor",
   "orig": "An Act Converting the Sub-District Engineering Office in the City of Iligan Into a Regular Fully Constituted Engineering District and Appropriating Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Sub-District Engineering Office in the City of Iligan Into a Regular Fully Constituted Engineering District and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

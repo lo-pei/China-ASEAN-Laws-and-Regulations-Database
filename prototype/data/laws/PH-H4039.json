@@ -1,7 +1,7 @@
 {
  "id": "PH-H4039",
  "title": {
-  "zh": null,
+  "zh": "修订Ozamiz市宪章第14条中关于市议会举行特别会议会期的法案",
   "en": "An Act Amending Section Fourteen of the Charter of the City of Ozamiz Regarding the Period of Holding Extraordinary Session by the Municipal Board",
   "orig": "An Act Amending Section Fourteen of the Charter of the City of Ozamiz Regarding the Period of Holding Extraordinary Session by the Municipal Board"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Fourteen of the Charter of the City of Ozamiz Regarding the Period of Holding Extraordinary Session by the Municipal Board",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

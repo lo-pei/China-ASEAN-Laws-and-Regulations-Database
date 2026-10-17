@@ -1,7 +1,7 @@
 {
  "id": "SG-H3579",
  "title": {
-  "zh": null,
+  "zh": "总统选举法 1991",
   "en": "Presidential Elections Act 1991",
   "orig": null
  },
@@ -2416,5 +2416,13 @@
     "en": "THE SCHEDULE\nSection 5A\nPresidential terms counted\nfor the purposes of reserved elections\nTerm No.\nPresident\nCommunity that President belongs to\n1\nPresident Wee Kim Wee\nChinese community\n2\nPresident Ong Teng Cheong\nChinese community\n3\nPresident S R Nathan\nIndian community\n4\nPresident S R Nathan\nIndian community\n5\nPresident Tony Tan Keng Yam\nChinese community\n6\nPresident Halimah Yacob\nMalay community\n7\nPresident Tharman Shanmugaratnam\nIndian community\n[S 612/2023 wef 04/09/2023]\n[6/2017; S 511/2017]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Presidential Elections Act 1991",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

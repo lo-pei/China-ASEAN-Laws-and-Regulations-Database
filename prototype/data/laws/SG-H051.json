@@ -1,7 +1,7 @@
 {
  "id": "SG-H051",
  "title": {
-  "zh": null,
+  "zh": "会计与企业管制局（职能转授）公告 2025",
   "en": "Accounting and Corporate Regulatory Authority (Assignment of Function) Notification 2025",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The Minister for Finance assigns to the Accounting and Corporate Regulatory Authority the function of cooperating with the Monetary Authority of Singapore and any approved exchange, to monitor compliance by listed entities with the applicable accounting standards in financial statements issued by them."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Accounting and Corporate Regulatory Authority (Assignment of Function) Notification 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

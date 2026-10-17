@@ -1,7 +1,7 @@
 {
  "id": "BN-SUP-IV-1984-SARAWAK-DEFINITION-OF-BOUNDARIES-ORDER-IN-COUNCIL",
  "title": {
-  "zh": null,
+  "zh": "SUP IV 1984 版砂拉越边界划定枢密院命令",
   "en": "SUP IV 1984 ED SARAWAK DEFINITION OF BOUNDARIES ORDER IN COUNCIL",
   "orig": null
  },
@@ -92,5 +92,13 @@
     "en": "Nothing in this Order shall be construed as prescribing bound-Order not to and above the continental shelf of the Colony or as affecting the charac-high seas ter as high seas of any such waters. W. G. AGNEW\n\nEXPLANATORY NOTE (This Note is not part of the Order, but is intended to indicate its general purport.) This Order defines the boundary of the waters and continental shelf of the Colony of Sarawak in and in the neighbourhood of Brunei Bay and in the neighbourhood of Tanjong Bar am."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUP IV 1984 ED SARAWAK DEFINITION OF BOUNDARIES ORDER IN COUNCIL",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

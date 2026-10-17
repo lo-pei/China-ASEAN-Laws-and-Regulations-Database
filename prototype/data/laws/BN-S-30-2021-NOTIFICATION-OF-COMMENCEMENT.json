@@ -1,7 +1,7 @@
 {
  "id": "BN-S-30-2021-NOTIFICATION-OF-COMMENCEMENT",
  "title": {
-  "zh": null,
+  "zh": "生效公告",
   "en": "Notification of Commencement",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "21st. SEPTEMBER, 2021 No. S 30 OLD AGE AND DISABILITY PENSIONS ACT (AMENDMENT) ORDER, 2021 Notification of commencement In exercise of the power conferred by section I of the Old Age and Disability Pensions Act (Amendment) Order, 2021, the Minister of Culture, Youth and Sports, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 1st October 2021 as the date on which that Order shall commence. Dated this 24th. day of Zulkaedah, 1442 Hijriah corresponding to the 6th. day of July. 2021.\n\nHAJAH NOR ASH I KIN BINTI HAJI JOHARI Permanent Secretary, Ministry of Culture, Youth and Sports."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Notification of Commencement",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

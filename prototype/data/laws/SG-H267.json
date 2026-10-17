@@ -1,7 +1,7 @@
 {
  "id": "SG-H267",
  "title": {
-  "zh": null,
+  "zh": "向新加坡土地管理局转授职能",
   "en": "Assignment of Function to Singapore Land Authority",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Singapore Land Authority Act\n(Chapter 301)\nAssignment of Function to Singapore Land Authority\nIn exercise of the powers conferred by section 6(3) of the Singapore Land Authority Act, the Minister for Law hereby assigns to the Singapore Land Authority, with effect from 1st December 2010, the function of establishing and maintaining an information system to facilitate the exchange of data between persons involved in the payment or receipt of money relating to land transactions."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Assignment of Function to Singapore Land Authority",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

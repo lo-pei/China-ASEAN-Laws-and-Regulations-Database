@@ -1,7 +1,7 @@
 {
  "id": "PH-H1462",
  "title": {
-  "zh": null,
+  "zh": "将东明多洛省纳万市镇纳万农业学校的名称变更为Mariano P. Leuterio纪念学校的法案",
   "en": "An Act Changing the Name of the Naujan Farm School in the Municipality of Naujan, Province of Oriental Mindoro, to Mariano P. Leuterio Memorial School",
   "orig": "An Act Changing the Name of the Naujan Farm School in the Municipality of Naujan, Province of Oriental Mindoro, to Mariano P. Leuterio Memorial School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Naujan Farm School in the Municipality of Naujan, Province of Oriental Mindoro, to Mariano P. Leuterio Memorial School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

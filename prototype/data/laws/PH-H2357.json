@@ -1,7 +1,7 @@
 {
  "id": "PH-H2357",
  "title": {
-  "zh": null,
+  "zh": "投资公司法",
   "en": "Investment Company Act",
   "orig": "Investment Company Act"
  },
@@ -550,5 +550,11 @@
     "en": "Effective date. -This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Investment Company Act",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

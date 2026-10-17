@@ -1,7 +1,7 @@
 {
  "id": "PH-H704",
  "title": {
-  "zh": null,
+  "zh": "处罚阻挠、禁止或以其他方式妨碍律师探视并与被捕人员会谈权利的公职人员或雇员的法案",
   "en": "An Act to Punish any Public Officer or Employee Who Shall Obstruct, Prohibit, or Otherwise Prevent the Exercise of the Right of Attorneys to Visit and Confer with Persons Arrested",
   "orig": "An Act to Punish any Public Officer or Employee Who Shall Obstruct, Prohibit, or Otherwise Prevent the Exercise of the Right of Attorneys to Visit and Confer with Persons Arrested"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Punish any Public Officer or Employee Who Shall Obstruct, Prohibit, or Otherwise Prevent the Exercise of the Right of Attorneys to Visit and Confer with Persons Arrested",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

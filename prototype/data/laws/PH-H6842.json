@@ -1,7 +1,7 @@
 {
  "id": "PH-H6842",
  "title": {
-  "zh": null,
+  "zh": "1997 年经修订的非股份储蓄与贷款协会法",
   "en": "Revised Non-Stock Savings and Loan Association Act of 1997",
   "orig": "Revised Non-Stock Savings and Loan Association Act of 1997 An Act Providing for the Regulation of the Organization and Operation of Non-Stock Savings and Loan Associations"
  },
@@ -350,5 +350,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Revised Non-Stock Savings and Loan Association Act of 1997",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

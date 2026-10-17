@@ -24,8 +24,8 @@
  "coverage": "full",
  "structureMode": "ARTICLE",
  "structure": null,
- "articleCount": 463,
- "chars": 169829,
+ "articleCount": 461,
+ "chars": 169793,
  "source": {
   "name": "柬埔寨官方发布渠道（faolex.fao.org）",
   "url": "https://faolex.fao.org/docs/pdf/cam204543.pdf"
@@ -49,14 +49,15 @@
    }
   },
   {
-   "id": "KH-H003-A1",
+   "id": "KH-H003-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Article 1"
    },
    "text": {
     "en": "This law governs relations between employers and workers resulting from employment contracts to be performed within the territory of the Kingdom of Cambodia, regardless of where the contract was made and what the nationality and residences of the contracted parties are.\nThis law applies to every enterprise or establishment of industry, mining, commerce, crafts, agriculture, services, land or water transportation, whether public, semi-public or private, non-religious or religious; whether they are of professional education or charitable characteristic as well as the liberal profession of associations or groups of any nature whatsoever.\nThis law shall also apply to every personnel member who is not governed by the Common Statutes for Civil Servants or by the Diplomatic Statutes as well as officials in the public service who are temporarily appointed.\nThis law shall not apply to:\na) Judges of the Judiciary.\nb) persons appointed to a permanent post in the public service.\nc) personnel of the Police, the Army, the Military Police, who are governed by a separate statute.\nd) personnel serving in the air and maritime transportation, who are governed by a special legislation. These workers are entitled to apply the provisions on freedom of union under this law.\ne) domestics or household servants, unless otherwise expressly specified under this law. These domestics or household servants are entitled to apply the provisions on freedom of union under this law."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A2",
@@ -162,14 +163,15 @@
    }
   },
   {
-   "id": "KH-H003-A2",
+   "id": "KH-H003-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Article 2"
    },
    "text": {
     "en": "Non-discrimination"
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A12",
@@ -182,14 +184,15 @@
    }
   },
   {
-   "id": "KH-H003-A3",
+   "id": "KH-H003-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Article 3"
    },
    "text": {
     "en": "Public order"
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A13",
@@ -212,14 +215,15 @@
    }
   },
   {
-   "id": "KH-H003-A5",
+   "id": "KH-H003-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Article 5"
    },
    "text": {
     "en": "Forced labor"
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A15",
@@ -245,14 +249,15 @@
    }
   },
   {
-   "id": "KH-H003-A1",
+   "id": "KH-H003-A1-d3",
    "no": 1,
    "noLabel": {
     "en": "Article 1"
    },
    "text": {
     "en": "Declaration of the opening and closing of the enterprise"
-   }
+   },
+   "dupIndex": 3
   },
   {
    "id": "KH-H003-A17",
@@ -298,14 +303,15 @@
    }
   },
   {
-   "id": "KH-H003-A2",
+   "id": "KH-H003-A2-d3",
    "no": 2,
    "noLabel": {
     "en": "Article 2"
    },
    "text": {
     "en": "Declaration on movement of personnel"
-   }
+   },
+   "dupIndex": 3
   },
   {
    "id": "KH-H003-A21",
@@ -318,14 +324,15 @@
    }
   },
   {
-   "id": "KH-H003-A3",
+   "id": "KH-H003-A3-d3",
    "no": 3,
    "noLabel": {
     "en": "Article 3"
    },
    "text": {
     "en": "Internal regulations of the enterprise"
-   }
+   },
+   "dupIndex": 3
   },
   {
    "id": "KH-H003-A22",
@@ -338,7 +345,7 @@
    }
   },
   {
-   "id": "KH-H003-A17",
+   "id": "KH-H003-A17-d2",
    "no": 17,
    "noLabel": {
     "en": "Article 17"
@@ -348,7 +355,8 @@
    },
    "text": {
     "en": "workers shall always establish an internal regulation of the enterprise."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A23",
@@ -444,7 +452,7 @@
    }
   },
   {
-   "id": "KH-H003-A4",
+   "id": "KH-H003-A4-d2",
    "no": 4,
    "noLabel": {
     "en": "Article 4"
@@ -454,7 +462,8 @@
    },
    "text": {
     "en": "Employment card"
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A32",
@@ -527,14 +536,15 @@
    }
   },
   {
-   "id": "KH-H003-A5",
+   "id": "KH-H003-A5-d3",
    "no": 5,
    "noLabel": {
     "en": "Article 5"
    },
    "text": {
     "en": "Payroll ledger"
-   }
+   },
+   "dupIndex": 3
   },
   {
    "id": "KH-H003-A39",
@@ -547,7 +557,7 @@
    }
   },
   {
-   "id": "KH-H003-A17",
+   "id": "KH-H003-A17-d3",
    "no": 17,
    "noLabel": {
     "en": "Article 17"
@@ -557,7 +567,8 @@
    },
    "text": {
     "en": "ledger whose format shall be set by a Prakas (ministerial order) of the Ministry in Charge of Labor.\nBefore being used, all the pages of the payroll ledger must be numbered and initialed by the Labor Inspector.\nThe payroll ledger must be kept in the Bureau of Cashier or Head Office of each enterprise so that it is simply available immediately for inspections. The employer shall keep the payroll ledger for three years after it has been closed.\nThe Labor Inspector may require to see the payroll ledger at any time."
-   }
+   },
+   "dupIndex": 3
   },
   {
    "id": "KH-H003-A40",
@@ -580,14 +591,15 @@
    }
   },
   {
-   "id": "KH-H003-A6",
+   "id": "KH-H003-A6-d2",
    "no": 6,
    "noLabel": {
     "en": "Article 6"
    },
    "text": {
     "en": "Company store"
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A42",
@@ -620,14 +632,15 @@
    }
   },
   {
-   "id": "KH-H003-A8",
+   "id": "KH-H003-A8-d2",
    "no": 8,
    "noLabel": {
     "en": "Article 8"
    },
    "text": {
     "en": "Characteristics of labor contractor"
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A45",
@@ -690,14 +703,15 @@
    }
   },
   {
-   "id": "KH-H003-A1",
+   "id": "KH-H003-A1-d4",
    "no": 1,
    "noLabel": {
     "en": "Article 1"
    },
    "text": {
     "en": "Nature and form of the apprenticeship contract"
-   }
+   },
+   "dupIndex": 4
   },
   {
    "id": "KH-H003-A51",
@@ -730,14 +744,15 @@
    }
   },
   {
-   "id": "KH-H003-A2",
+   "id": "KH-H003-A2-d4",
    "no": 2,
    "noLabel": {
     "en": "Article 2"
    },
    "text": {
     "en": "Terms of apprenticeship contract"
-   }
+   },
+   "dupIndex": 4
   },
   {
    "id": "KH-H003-A54",
@@ -780,14 +795,15 @@
    }
   },
   {
-   "id": "KH-H003-A3",
+   "id": "KH-H003-A3-d4",
    "no": 3,
    "noLabel": {
     "en": "Article 3"
    },
    "text": {
     "en": "Duties of instructors and apprentices"
-   }
+   },
+   "dupIndex": 4
   },
   {
    "id": "KH-H003-A58",
@@ -830,7 +846,7 @@
    }
   },
   {
-   "id": "KH-H003-A4",
+   "id": "KH-H003-A4-d3",
    "no": 4,
    "noLabel": {
     "en": "Article 4"
@@ -840,7 +856,8 @@
    },
    "text": {
     "en": "Monitoring of apprenticeship"
-   }
+   },
+   "dupIndex": 3
   },
   {
    "id": "KH-H003-A62",
@@ -853,14 +870,15 @@
    }
   },
   {
-   "id": "KH-H003-A5",
+   "id": "KH-H003-A5-d4",
    "no": 5,
    "noLabel": {
     "en": "Article 5"
    },
    "text": {
     "en": "Termination of apprenticeship contract"
-   }
+   },
+   "dupIndex": 4
   },
   {
    "id": "KH-H003-A63",
@@ -883,14 +901,15 @@
    }
   },
   {
-   "id": "KH-H003-A1",
+   "id": "KH-H003-A1-d5",
    "no": 1,
    "noLabel": {
     "en": "Article 1"
    },
    "text": {
     "en": "Signing and execution of a labor contract"
-   }
+   },
+   "dupIndex": 5
   },
   {
    "id": "KH-H003-A65",
@@ -953,14 +972,15 @@
    }
   },
   {
-   "id": "KH-H003-A2",
+   "id": "KH-H003-A2-d5",
    "no": 2,
    "noLabel": {
     "en": "Article 2"
    },
    "text": {
     "en": "Suspension of the labor contract"
-   }
+   },
+   "dupIndex": 5
   },
   {
    "id": "KH-H003-A71",
@@ -983,14 +1003,15 @@
    }
   },
   {
-   "id": "KH-H003-A3",
+   "id": "KH-H003-A3-d5",
    "no": 3,
    "noLabel": {
     "en": "Article 3"
    },
    "text": {
     "en": "Termination of the labor contract\nA. Labor Contracts of Specific Duration"
-   }
+   },
+   "dupIndex": 5
   },
   {
    "id": "KH-H003-A73",
@@ -1053,7 +1074,7 @@
    }
   },
   {
-   "id": "KH-H003-A1",
+   "id": "KH-H003-A1-d6",
    "no": 1,
    "noLabel": {
     "en": "Article 1"
@@ -1063,7 +1084,8 @@
    },
    "text": {
     "en": "both by the worker and by the employer when one of them decides unilaterally to terminate the labor contract.\nHowever, the worker laid off for reasons other than serious misconduct can leave the enterprise before the end of the notice period if he finds a new job in the meantime. In such case, the worker will not be required to compensate the employer."
-   }
+   },
+   "dupIndex": 6
   },
   {
    "id": "KH-H003-A79",
@@ -1149,7 +1171,7 @@
    }
   },
   {
-   "id": "KH-H003-A82",
+   "id": "KH-H003-A82-d2",
    "no": 82,
    "noLabel": {
     "en": "Article 82"
@@ -1159,7 +1181,8 @@
    },
    "text": {
     "en": "particularly in the following cases.\n1. Chronic illness, insanity, permanent disability;\n2. Imprisonment.\nThe cases cited in the first paragraph above, the employer cannot be released from his obligation to give the prior notice."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A87",
@@ -1245,7 +1268,7 @@
    }
   },
   {
-   "id": "KH-H003-A89",
+   "id": "KH-H003-A89-d2",
    "no": 89,
    "noLabel": {
     "en": "Article 89"
@@ -1255,7 +1278,8 @@
    },
    "text": {
     "en": "determined by the competent court and based on local custom, the type and importance of the services rendered, the worker's seniority and age, the pay deductions or payments for a retirement pension, and, in general, on all circumstances that can justify the existence and the extent of the harm incurred.\nE. Mass Layoff"
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A95",
@@ -1334,14 +1358,15 @@
    }
   },
   {
-   "id": "KH-H003-A1",
+   "id": "KH-H003-A1-d7",
    "no": 1,
    "noLabel": {
     "en": "Article 1"
    },
    "text": {
     "en": "Wage\nA. Wage Determination"
-   }
+   },
+   "dupIndex": 7
   },
   {
    "id": "KH-H003-A102",
@@ -1617,7 +1642,7 @@
    }
   },
   {
-   "id": "KH-H003-A116",
+   "id": "KH-H003-A116-d2",
    "no": 116,
    "noLabel": {
     "en": "Article 116"
@@ -1627,7 +1652,8 @@
    },
    "text": {
     "en": "in payment for finished work, can be fully deducted from the following paycheck."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A129",
@@ -1710,14 +1736,15 @@
    }
   },
   {
-   "id": "KH-H003-A2",
+   "id": "KH-H003-A2-d6",
    "no": 2,
    "noLabel": {
     "en": "Article 2"
    },
    "text": {
     "en": "Hours of work Daily and weekly hours"
-   }
+   },
+   "dupIndex": 6
   },
   {
    "id": "KH-H003-A137",
@@ -1800,7 +1827,7 @@
    }
   },
   {
-   "id": "KH-H003-A4",
+   "id": "KH-H003-A4-d4",
    "no": 4,
    "noLabel": {
     "en": "Article 4"
@@ -1810,7 +1837,8 @@
    },
    "text": {
     "en": "Weekly time off"
-   }
+   },
+   "dupIndex": 4
   },
   {
    "id": "KH-H003-A145",
@@ -1823,7 +1851,7 @@
    }
   },
   {
-   "id": "KH-H003-A1",
+   "id": "KH-H003-A1-d8",
    "no": 1,
    "noLabel": {
     "en": "Article 1"
@@ -1833,7 +1861,8 @@
    },
    "text": {
     "en": "However, these provisions do not apply to rail transport workers, whose time off is covered by special provisions."
-   }
+   },
+   "dupIndex": 8
   },
   {
    "id": "KH-H003-A146",
@@ -1986,14 +2015,15 @@
    }
   },
   {
-   "id": "KH-H003-A5",
+   "id": "KH-H003-A5-d5",
    "no": 5,
    "noLabel": {
     "en": "Article 5"
    },
    "text": {
     "en": "Paid holidays"
-   }
+   },
+   "dupIndex": 5
   },
   {
    "id": "KH-H003-A161",
@@ -2046,14 +2076,15 @@
    }
   },
   {
-   "id": "KH-H003-A6",
+   "id": "KH-H003-A6-d3",
    "no": 6,
    "noLabel": {
     "en": "Article 6"
    },
    "text": {
     "en": "Paid annual leave"
-   }
+   },
+   "dupIndex": 3
   },
   {
    "id": "KH-H003-A166",
@@ -2106,14 +2137,15 @@
    }
   },
   {
-   "id": "KH-H003-A7",
+   "id": "KH-H003-A7-d2",
    "no": 7,
    "noLabel": {
     "en": "Article 7"
    },
    "text": {
     "en": "Special leave"
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A171",
@@ -2126,14 +2158,15 @@
    }
   },
   {
-   "id": "KH-H003-A8",
+   "id": "KH-H003-A8-d3",
    "no": 8,
    "noLabel": {
     "en": "Article 8"
    },
    "text": {
     "en": "Child labor - women labor\nA. Joint Provisions"
-   }
+   },
+   "dupIndex": 3
   },
   {
    "id": "KH-H003-A172",
@@ -2296,14 +2329,15 @@
    }
   },
   {
-   "id": "KH-H003-A9",
+   "id": "KH-H003-A9-d2",
    "no": 9,
    "noLabel": {
     "en": "Article 9"
    },
    "text": {
     "en": "Workers recruited outside the work place"
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A188",
@@ -2696,14 +2730,15 @@
    }
   },
   {
-   "id": "KH-H003-A2",
+   "id": "KH-H003-A2-d7",
    "no": 2,
    "noLabel": {
     "en": "Article 2"
    },
    "text": {
     "en": "Other agricultural works"
-   }
+   },
+   "dupIndex": 7
   },
   {
    "id": "KH-H003-A227",
@@ -2729,14 +2764,15 @@
    }
   },
   {
-   "id": "KH-H003-A1",
+   "id": "KH-H003-A1-d9",
    "no": 1,
    "noLabel": {
     "en": "Article 1"
    },
    "text": {
     "en": "General provisions"
-   }
+   },
+   "dupIndex": 9
   },
   {
    "id": "KH-H003-A229",
@@ -2779,14 +2815,15 @@
    }
   },
   {
-   "id": "KH-H003-A2",
+   "id": "KH-H003-A2-d8",
    "no": 2,
    "noLabel": {
     "en": "Article 2"
    },
    "text": {
     "en": "Inspections"
-   }
+   },
+   "dupIndex": 8
   },
   {
    "id": "KH-H003-A233",
@@ -2839,14 +2876,15 @@
    }
   },
   {
-   "id": "KH-H003-A3",
+   "id": "KH-H003-A3-d6",
    "no": 3,
    "noLabel": {
     "en": "Article 3"
    },
    "text": {
     "en": "Labor health service"
-   }
+   },
+   "dupIndex": 6
   },
   {
    "id": "KH-H003-A238",
@@ -2859,7 +2897,7 @@
    }
   },
   {
-   "id": "KH-H003-A1",
+   "id": "KH-H003-A1-d10",
    "no": 1,
    "noLabel": {
     "en": "Article 1"
@@ -2869,7 +2907,8 @@
    },
    "text": {
     "en": "workers."
-   }
+   },
+   "dupIndex": 10
   },
   {
    "id": "KH-H003-A239",
@@ -2922,7 +2961,7 @@
    }
   },
   {
-   "id": "KH-H003-A228",
+   "id": "KH-H003-A228-d2",
    "no": 228,
    "noLabel": {
     "en": "Article 228"
@@ -2932,7 +2971,8 @@
    },
    "text": {
     "en": "fifty workers and are located more than five kilometers from the main work site, the employer is required to provide the branches or work sites with the same means as the main work site to assist and to treat workers. This includes medical personnel, buildings, materials, bandages and medicines."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A244",
@@ -3085,14 +3125,15 @@
    }
   },
   {
-   "id": "KH-H003-A21",
+   "id": "KH-H003-A21-d2",
    "no": 21,
    "noLabel": {
     "en": "Article 21"
    },
    "text": {
     "en": "of this law."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A259",
@@ -3115,14 +3156,15 @@
    }
   },
   {
-   "id": "KH-H003-A2",
+   "id": "KH-H003-A2-d9",
    "no": 2,
    "noLabel": {
     "en": "Article 2"
    },
    "text": {
     "en": "Employment of foreign labor"
-   }
+   },
+   "dupIndex": 9
   },
   {
    "id": "KH-H003-A261",
@@ -3175,14 +3217,15 @@
    }
   },
   {
-   "id": "KH-H003-A1",
+   "id": "KH-H003-A1-d11",
    "no": 1,
    "noLabel": {
     "en": "Article 1"
    },
    "text": {
     "en": "The right to form a trade union"
-   }
+   },
+   "dupIndex": 11
   },
   {
    "id": "KH-H003-A266",
@@ -3281,7 +3324,7 @@
    }
   },
   {
-   "id": "KH-H003-A266",
+   "id": "KH-H003-A266-d2",
    "no": 266,
    "noLabel": {
     "en": "Article 266"
@@ -3291,7 +3334,8 @@
    },
    "text": {
     "en": "sue in court and to acquire personal property or real estate without authorization, for free or for payment. More generally, they have the right to enter into contract."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A275",
@@ -3304,7 +3348,7 @@
    }
   },
   {
-   "id": "KH-H003-A266",
+   "id": "KH-H003-A266-d3",
    "no": 266,
    "noLabel": {
     "en": "Article 266"
@@ -3314,7 +3358,8 @@
    },
    "text": {
     "en": "about the study, research, promotion and protection of their moral and material interests. The provisions of Articles 266, 267, 268, 269, and 270  are also applicable to Unions of professional organizations on the condition that the Unions must acknowledge the names and headquarters of all their constituent unions or associations, as provided for in Article 268 ."
-   }
+   },
+   "dupIndex": 3
   },
   {
    "id": "KH-H003-A276",
@@ -3337,7 +3382,7 @@
    }
   },
   {
-   "id": "KH-H003-A268",
+   "id": "KH-H003-A268-d2",
    "no": 268,
    "noLabel": {
     "en": "Article 268"
@@ -3347,7 +3392,8 @@
    },
    "text": {
     "en": "b) have more members holding valid membership cards than the others. Any trade unions having the largest number of members in the order of the first and the second majority will be considered to be the representative unions within the enterprise. However any trade union whose number of members is over 51 percent of the total number of workers in the enterprise shall be considered as the most representative union;\nc) receive dues from at least 33 percent of its members;\nd) have programs and activities indicating that the union is capable of providing professional, cultural and educational services to its members, as provided for in Article 266  of this law.\nWithin sixty days at the latest after receipt of the form requesting recognition of the representativeness of the professional organization, the Ministry in Charge of Labor shall give an official decision on the recognition of the representativeness of the professional organization that has met the criteria mentioned in paragraph 1 above.\nProvisions of the labor law can attach the representativeness of professional organization recognized by the Ministry in Charge of Labor, in conformance with the criteria established in paragraph 1 of the present article, to the benefit of certain advantages relating to:\n/g120allocation of seats in certain organizations provided for in the labor law, /g120competence in matters of collective bargaining (negotiation), /g120nomination of candidates in the first round of elections for shop stewards.\nIf it is necessary to determine the representative nature of a professional organization or to verify its sustainability, the Minister in Charge of Labor can conduct an investigation.\nThe professional organization in question is required to provide any proof documents at request of the competent official.\nWhen the proof documents are not available or these documents are not sufficient, the recognition of representativeness can be rejected or suspended until the necessary information is obtained. The advantages pertaining to the representativeness which every professional organization deserves are consequently cancelled or suspended."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A278",
@@ -3360,14 +3406,15 @@
    }
   },
   {
-   "id": "KH-H003-A2",
+   "id": "KH-H003-A2-d10",
    "no": 2,
    "noLabel": {
     "en": "Article 2"
    },
    "text": {
     "en": "Protection of trade union freedom"
-   }
+   },
+   "dupIndex": 10
   },
   {
    "id": "KH-H003-A279",
@@ -3413,14 +3460,15 @@
    }
   },
   {
-   "id": "KH-H003-A3",
+   "id": "KH-H003-A3-d7",
    "no": 3,
    "noLabel": {
     "en": "Article 3"
    },
    "text": {
     "en": "Representation of workers in the enterprise"
-   }
+   },
+   "dupIndex": 7
   },
   {
    "id": "KH-H003-A283",
@@ -3433,7 +3481,7 @@
    }
   },
   {
-   "id": "KH-H003-A1",
+   "id": "KH-H003-A1-d12",
    "no": 1,
    "noLabel": {
     "en": "Article 1"
@@ -3443,7 +3491,8 @@
    },
    "text": {
     "en": "except:\n/g120Workers covered by Article 1 - paragraph 3  of this law have the right to elect shop stewards, but the provisions for implementation shall be determined by a separate Anukret (sub-decree).\n/g120Personnel serving in the air or sea transportation industries also abide by the provisions of the present Section. However, for elections of shop stewards, they must be grouped into one or more specific electoral colleges with their own shop stewards within their enterprises.\n/g120This Section 3 does not apply to domestic or household servants.\nAcknowledgement that there are several distinct establishments within any enterprise, having the above-required number of workers, does not have effect on excluding a number of workers from abiding by this provision.\nIf there is no agreement between the employer and the representative union organizations in the enterprise on the number of distinct establishments required for the election for shop stewards, such a dispute shall be submitted to the Labor Court, which has jurisdiction to acknowledge the nature of a distinct establishment."
-   }
+   },
+   "dupIndex": 12
   },
   {
    "id": "KH-H003-A284",
@@ -3456,7 +3505,7 @@
    }
   },
   {
-   "id": "KH-H003-A24",
+   "id": "KH-H003-A24-d2",
    "no": 24,
    "noLabel": {
     "en": "Article 24"
@@ -3466,7 +3515,8 @@
    },
    "text": {
     "en": "The shop steward must also be consulted and put forward a written opinion on the measure for redundancy due to a reduction in activity or an internal reorganization of the enterprise or establishment."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A285",
@@ -3619,14 +3669,15 @@
    }
   },
   {
-   "id": "KH-H003-A1",
+   "id": "KH-H003-A1-d13",
    "no": 1,
    "noLabel": {
     "en": "Article 1"
    },
    "text": {
     "en": "Individual disputes, Preliminary conciliation of individual disputes"
-   }
+   },
+   "dupIndex": 13
   },
   {
    "id": "KH-H003-A300",
@@ -3649,14 +3700,15 @@
    }
   },
   {
-   "id": "KH-H003-A2",
+   "id": "KH-H003-A2-d11",
    "no": 2,
    "noLabel": {
     "en": "Article 2"
    },
    "text": {
     "en": "Collective labor dispute Conciliation"
-   }
+   },
+   "dupIndex": 11
   },
   {
    "id": "KH-H003-A302",
@@ -3819,16 +3871,6 @@
    }
   },
   {
-   "id": "KH-H003-A1",
-   "no": 1,
-   "noLabel": {
-    "en": "Article 1"
-   },
-   "text": {
-    "en": "General provisions"
-   }
-  },
-  {
    "id": "KH-H003-A318",
    "no": 318,
    "noLabel": {
@@ -3879,14 +3921,15 @@
    }
   },
   {
-   "id": "KH-H003-A2",
+   "id": "KH-H003-A2-d12",
    "no": 2,
    "noLabel": {
     "en": "Article 2"
    },
    "text": {
     "en": "Procedures prior to the strike"
-   }
+   },
+   "dupIndex": 12
   },
   {
    "id": "KH-H003-A323",
@@ -3959,14 +4002,15 @@
    }
   },
   {
-   "id": "KH-H003-A3",
+   "id": "KH-H003-A3-d8",
    "no": 3,
    "noLabel": {
     "en": "Article 3"
    },
    "text": {
     "en": "Effects of a strike"
-   }
+   },
+   "dupIndex": 8
   },
   {
    "id": "KH-H003-A330",
@@ -4042,7 +4086,7 @@
    }
   },
   {
-   "id": "KH-H003-A4",
+   "id": "KH-H003-A4-d5",
    "no": 4,
    "noLabel": {
     "en": "Article 4"
@@ -4052,7 +4096,8 @@
    },
    "text": {
     "en": "Illegal strikes"
-   }
+   },
+   "dupIndex": 5
   },
   {
    "id": "KH-H003-A336",
@@ -4072,16 +4117,6 @@
    },
    "text": {
     "en": "The Labor Courts or, in the absence of the Labor Courts, the common courts, have sole jurisdiction to determine the legality or illegality of a strike.\nIf the strike is declared illegal, the strikers must return to work within forty-eight hours from the time when this declaration is given out. A worker who, without valid reason, fails to return to work by the end of this period is considered guilty of serious misconduct.\nCHAPTER XIV\nLABOUR ADMINISTRATION"
-   }
-  },
-  {
-   "id": "KH-H003-A1",
-   "no": 1,
-   "noLabel": {
-    "en": "Article 1"
-   },
-   "text": {
-    "en": "General provisions"
    }
   },
   {
@@ -4135,14 +4170,15 @@
    }
   },
   {
-   "id": "KH-H003-A2",
+   "id": "KH-H003-A2-d13",
    "no": 2,
    "noLabel": {
     "en": "Article 2"
    },
    "text": {
     "en": "Labor inspection"
-   }
+   },
+   "dupIndex": 13
   },
   {
    "id": "KH-H003-A343",
@@ -4205,14 +4241,15 @@
    }
   },
   {
-   "id": "KH-H003-A3",
+   "id": "KH-H003-A3-d9",
    "no": 3,
    "noLabel": {
     "en": "Article 3"
    },
    "text": {
     "en": "Labor medical inspection"
-   }
+   },
+   "dupIndex": 9
   },
   {
    "id": "KH-H003-A349",
@@ -4355,7 +4392,7 @@
    }
   },
   {
-   "id": "KH-H003-A4",
+   "id": "KH-H003-A4-d6",
    "no": 4,
    "noLabel": {
     "en": "Article 4"
@@ -4365,7 +4402,8 @@
    },
    "text": {
     "en": "enforcement of this law are liable to a fine of ten to thirty days of base daily wage.\nThese penalties also apply to employers who suspend this time off without the necessary authorization, or who do not provide their workers with compensatory time off under the conditions laid in the aforesaid provisions."
-   }
+   },
+   "dupIndex": 6
   },
   {
    "id": "KH-H003-A363",
@@ -4388,14 +4426,15 @@
    }
   },
   {
-   "id": "KH-H003-A93",
+   "id": "KH-H003-A93-d2",
    "no": 93,
    "noLabel": {
     "en": "Article 93"
    },
    "text": {
     "en": "is liable to a fine of thirty-one to sixty days of the base daily wage."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A365",
@@ -4438,14 +4477,15 @@
    }
   },
   {
-   "id": "KH-H003-A369",
+   "id": "KH-H003-A369-d2",
    "no": 369,
    "noLabel": {
     "en": "Article 369"
    },
    "text": {
     "en": "Those guilty of violating the provisions of Articles 12 , 15 , 17, 18 , 39 , 46 , 104 , 126 , 260 , 264 , 281 , 292 , 331, 333, 334 and 335  are liable to a fine of sixty-one to ninety days of base daily wage or to imprisonment of six days to one month."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A370",
@@ -4458,7 +4498,7 @@
    }
   },
   {
-   "id": "KH-H003-A16",
+   "id": "KH-H003-A16-d2",
    "no": 16,
    "noLabel": {
     "en": "Article 16"
@@ -4468,7 +4508,8 @@
    },
    "text": {
     "en": "of the base daily wage."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A371",
@@ -4481,7 +4522,7 @@
    }
   },
   {
-   "id": "KH-H003-A95",
+   "id": "KH-H003-A95-d2",
    "no": 95,
    "noLabel": {
     "en": "Article 95"
@@ -4491,7 +4532,8 @@
    },
    "text": {
     "en": "without informing the Labor Inspector, or who carries out this dismissal during the suspension period of dismissal imposed by the Minister in Charge of Labor in compliance with Article 95 - last paragraph , is liable to a fine of sixty-one to ninety days of base daily wage or to imprisonment of six days to one month."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A372",
@@ -4564,7 +4606,7 @@
    }
   },
   {
-   "id": "KH-H003-A266",
+   "id": "KH-H003-A266-d4",
    "no": 266,
    "noLabel": {
     "en": "Article 266"
@@ -4574,7 +4616,8 @@
    },
    "text": {
     "en": "law, are liable to a fine of sixty-one to ninety days of the base daily wage.\nThe dissolution of the professional organization or the union of professional organizations must be pronounced by the Labor Court in the event of those organizations committing the wrongdoing as stated in the preceding paragraph or in case of serious, repeated violation of the laws and regulations, particularly in the area of industrial relations."
-   }
+   },
+   "dupIndex": 4
   },
   {
    "id": "KH-H003-A379",
@@ -4597,7 +4640,7 @@
    }
   },
   {
-   "id": "KH-H003-A282",
+   "id": "KH-H003-A282-d2",
    "no": 282,
    "noLabel": {
     "en": "Article 282"
@@ -4607,7 +4650,8 @@
    },
    "text": {
     "en": "work, reassignment, transfer of union stewards or former union stewards, shall be liable to a fine of sixty one to ninety days of the base daily wage and to imprisonment of six days to one month, or to only one of the both penalties."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A381",
@@ -4730,14 +4774,15 @@
    }
   },
   {
-   "id": "KH-H003-A96",
+   "id": "KH-H003-A96-d2",
    "no": 96,
    "noLabel": {
     "en": "Article 96"
    },
    "text": {
     "en": "While waiting for professional organizations to be recognized as representative at the national level, the Minister in Charge of Labor shall select prominent figures (officials) credited with special merits in the domain of social affairs or in the area of occupation and employment to occupy the seats reserved for representatives of workers and employers."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "KH-H003-A393",

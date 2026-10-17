@@ -1,7 +1,7 @@
 {
  "id": "PH-H231",
  "title": {
-  "zh": null,
+  "zh": "修订第108号联邦法（即经修正的《处罚规避特定权利、特许权或特权国有化法律行为法》）第1条、第2条与第2-A条，并在其第3条与第4条之间插入称为第3-A条的新条款的法案",
   "en": "An act to amend Sections One, Two and Two-A of Commonwealth Act numbered One Hundred and Eight, entitled \"An Act to Punish Acts of Evasion of the Laws on the Nationalization of Certain Rights, Franchises or Privileges,\" as Amended, and to Insert Between Sections Three and Four thereof a new section to be known as Section Three-A",
   "orig": "An act to amend Sections One, Two and Two-A of Commonwealth Act numbered One Hundred and Eight, entitled \"An Act to Punish Acts of Evasion of the Laws on the Nationalization of Certain Rights, Franchises or Privileges,\" as Amended, and to Insert Between Sections Three and Four thereof a new section to be known as Section Three-A"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act to amend Sections One, Two and Two-A of Commonwealth Act numbered One Hundred and Eight, entitled \"An Act to Punish Acts of Evasion of the Laws on the Nationalization of Certain Rights, Franchises or Privileges,\" as Amended, and to Insert Between Sections Three and Four thereof a new section to be known as Section Three-A",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

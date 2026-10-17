@@ -1,7 +1,7 @@
 {
  "id": "SG-H1438",
  "title": {
-  "zh": null,
+  "zh": "执行共管公寓住房计划（豁免）命令 1996",
   "en": "Executive Condominium Housing Scheme (Exemption) Order 1996",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. Section 13(1) of the Act does not apply to or in relation to a permanent resident who purchases any housing accommodation under the executive condominium scheme jointly with any citizen of Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Executive Condominium Housing Scheme (Exemption) Order 1996",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

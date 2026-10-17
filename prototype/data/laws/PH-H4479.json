@@ -1,7 +1,7 @@
 {
  "id": "PH-H4479",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛省吉马拉斯次省副省长职衔改为省长，并在该次省设立检察官与学校分区主管职位",
   "en": "An Act Changing the Designation of the Lieutenant-Governor to Governor of the Sub-Province of Guimaras, Province of Iloilo, and Creating in Said Sub-Province the Positions of Fiscal and Division Superintendent of Schools",
   "orig": "An Act Changing the Designation of the Lieutenant-Governor to Governor of the Sub-Province of Guimaras, Province of Iloilo, and Creating in Said Sub-Province the Positions of Fiscal and Division Superintendent of Schools"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Designation of the Lieutenant-Governor to Governor of the Sub-Province of Guimaras, Province of Iloilo, and Creating in Said Sub-Province the Positions of Fiscal and Division Superintendent of Schools",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

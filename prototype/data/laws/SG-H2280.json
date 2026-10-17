@@ -1,7 +1,7 @@
 {
  "id": "SG-H2280",
  "title": {
-  "zh": null,
+  "zh": "所得税（工业建筑或构筑物）规则",
   "en": "Income Tax (Industrial Building or Structure) Rules",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1.Services and activities which relate to agriculture.\n2.Services and activities which relate to horticulture.\n3.Services and activities which relate to the farming of fish or other forms of aquatic life.\n4.Repair or maintenance of aircraft.\n5.Services and activities which relate to the auctioning of pigs through electronic means.\n6.Telecommunication undertaking providing telecommunication services to the public.\n7.Services and activities which relate to the organisation or management of exhibitions and conferences.\n8.Warehousing provided by the owner of the building or structure as part of his business of providing logistic services or activities.\n[S 338/1998 wef Y/A 1997 & Subsq. Ys/A]\n9.Postal services provided by a public postal licensee under the Telecommunication Authority of Singapore Act (Cap. 323).\n10.Repair or maintenance of aircraft components.\n[S 46/2002 wef Y/A 2002 & Subsq. Ys/A]\n[S 338/1998 wef 25/12/1989]\n[S 480/93 wef 31/03/1992]\n[S 338/1998 wef 01/04/1992]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Industrial Building or Structure) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

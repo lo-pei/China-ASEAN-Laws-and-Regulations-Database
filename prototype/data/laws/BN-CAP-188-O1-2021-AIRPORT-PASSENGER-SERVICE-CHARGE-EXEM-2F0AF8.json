@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-188-O1-2021-AIRPORT-PASSENGER-SERVICE-CHARGE-EXEM-2F0AF8",
  "title": {
-  "zh": null,
+  "zh": "O1 2021 版机场旅客服务费豁免命令",
   "en": "O1 2021 ED AIRPORT PASSENGER SERVICE CHARGE EXEMPTION ORDER",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "The following class of passengers are hereby exempted from payment of the passenger service charge referred to in section 2- Any passenger who, as evidenced by his passenger ticket, is scheduled to depart from Brunei Darussalam by an aircraft, within 24 hours of his time of arrival, for a destination in any country or territory other than the country or territory from which he embarked on the aircraft by which he arrived in Brunei Darussalam . • • • • • •"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "O1 2021 ED AIRPORT PASSENGER SERVICE CHARGE EXEMPTION ORDER",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

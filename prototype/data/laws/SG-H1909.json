@@ -1,7 +1,7 @@
 {
  "id": "SG-H1909",
  "title": {
-  "zh": null,
+  "zh": "所得税（Agrocorp 国际私人有限公司——第 13(4) 条豁免）公告 2023",
   "en": "Income Tax (Agrocorp International Pte Ltd — Section 13(4) Exemption) Notification 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to sub‑paragraph (2), the interest, commission, fee and other payments payable by Agrocorp International Pte Ltd from 1 May 2022 to 31 March 2025 (both dates inclusive) to the lenders mentioned in the first column of the following table in connection with the respective maximum amounts of facility or loan quantum of foreign trade financing facility mentioned in the second column of the table, is exempt from tax:\nFirst column\nSecond column\nLender\nMaximum amount of facility or loan quantum of foreign trade financing facility per year\nNederlandse Financierings‑Maatschappij voor Ontwikkelingslanden N.V.\nUS$50 million\nMashreqbank PSC\nUS$45 million\nAbu Dhabi Commercial Bank PJSC\nUS$45 million\nBanque Cantonale de Geneve\nCHF40 million\nGarantiBank N.V.\nUS$30 million\n(2) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter from the Ministry of Finance dated 20 October 2023 and addressed to Agrocorp International Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Agrocorp International Pte Ltd — Section 13(4) Exemption) Notification 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

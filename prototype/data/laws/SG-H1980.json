@@ -1,7 +1,7 @@
 {
  "id": "SG-H1980",
  "title": {
-  "zh": null,
+  "zh": "所得税（合资格个人在第 14ZD 条下的支出扣除）规则 2019",
   "en": "Income Tax (Deduction for Expenditure of Qualifying Individual under Section 14ZD) Rules 2019",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. For the purposes of section 14ZD of the Act, “commission” includes any allowance, incentive, referral fee or other payment that is chargeable to tax under section 10(1)(a) of the Act, and that is derived by an individual from carrying on a prescribed activity."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Deduction for Expenditure of Qualifying Individual under Section 14ZD) Rules 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H684",
  "title": {
-  "zh": null,
+  "zh": "合作社（第 97 条下的修改）（第 2 号）命令 2015",
   "en": "Co-operative Societies (Modification under Section 97) (No. 2) Order 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 39(1)(a) of the Act is, in its application to the Industrial and Services Co‑operative Society Limited, modified to the extent that a person may be admitted to membership in the society whether or not that person is —\n(a)a bankrupt; or\n(b)a person against whom a conviction stands for an offence punishable with imprisonment."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (Modification under Section 97) (No. 2) Order 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

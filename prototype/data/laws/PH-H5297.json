@@ -1,7 +1,7 @@
 {
  "id": "PH-H5297",
  "title": {
-  "zh": null,
+  "zh": "将东明多洛省邦加邦市镇Bongabong中央小学的名称变更为Magdalena Umali Suyon纪念学校的法案",
   "en": "An Act Changing the Name of the Bongabong Central Elementary School in the Municipality of Bongabong, Province of Oriental Mindoro, to Magdalena Umali Suyon Memorial School",
   "orig": "An Act Changing the Name of the Bongabong Central Elementary School in the Municipality of Bongabong, Province of Oriental Mindoro, to Magdalena Umali Suyon Memorial School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Bongabong Central Elementary School in the Municipality of Bongabong, Province of Oriental Mindoro, to Magdalena Umali Suyon Memorial School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

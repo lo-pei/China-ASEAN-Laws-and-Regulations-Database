@@ -1,7 +1,7 @@
 {
  "id": "PH-H3393",
  "title": {
-  "zh": null,
+  "zh": "规定在卡皮斯省若干市镇设立急诊医院的法案",
   "en": "An Act Providing for the Establishment of Emergency Hospitals in Certain Municipalities of the Province of Capiz",
   "orig": "An Act Providing for the Establishment of Emergency Hospitals in Certain Municipalities of the Province of Capiz"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 4, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Establishment of Emergency Hospitals in Certain Municipalities of the Province of Capiz",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

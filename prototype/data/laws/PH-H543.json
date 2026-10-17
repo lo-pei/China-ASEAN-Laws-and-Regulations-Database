@@ -1,7 +1,7 @@
 {
  "id": "PH-H543",
  "title": {
-  "zh": null,
+  "zh": "授予 Elizalde and Co., Inc. 在菲律宾境内建设、安装、设立和运营私人固定点对点与海岸无线电台的临时许可的法案",
   "en": "An Act Granting to the Elizalde &amp; Co., Inc., a Temporary Permit to Construct, Install, Establish and Operate Private Fixed Point-To-Point and Private Coastal Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines",
   "orig": "An Act Granting to the Elizalde &amp; Co., Inc., a Temporary Permit to Construct, Install, Establish and Operate Private Fixed Point-To-Point and Private Coastal Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines"
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 17, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting to the Elizalde &amp; Co., Inc., a Temporary Permit to Construct, Install, Establish and Operate Private Fixed Point-To-Point and Private Coastal Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

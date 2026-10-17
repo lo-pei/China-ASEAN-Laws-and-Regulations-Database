@@ -1,7 +1,7 @@
 {
  "id": "SG-H1490",
  "title": {
-  "zh": null,
+  "zh": "费用（报告、陈述、图则与照片副本）命令 2022",
   "en": "Fees (Copies of Reports, Statements, Plans and Photographs) Order 2022",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFees\nFirst column\nSecond column\n1.For every search conducted in respect of an application to the police for any report, statement, information, document or record in the possession of the police\n$16\n2.For a copy of any report, statement, plan or photograph that the Commissioner of Police may permit to be supplied to the public:\n(a)copy of a report\n$18\n(b)copy of a statement recorded from an accused person in accordance with section 23 of the Criminal Procedure Code 2010\n$18\n(c)copy of a plan\n$120\n(d)copy of a colour photograph that is 18 cm by 12.7 cm:\n(i)first copy of the photograph\n$40\n(ii)second, third, fourth or fifth copy of the photograph\n$20\n(iii)sixth or any subsequent copy of the photograph\n$10"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Copies of Reports, Statements, Plans and Photographs) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

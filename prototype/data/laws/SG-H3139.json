@@ -1,7 +1,7 @@
 {
  "id": "SG-H3139",
  "title": {
-  "zh": null,
+  "zh": "药品（传统药品、同类疗法药品及其他物质）（豁免）命令",
   "en": "Medicines (Traditional Medicines, Homoeopathic Medicines and other Substances) (Exemption) Order",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "6.—(1) Subject to sub-paragraph (2), the licensing authority may permit a person, subject to such terms and conditions as the licensing authority thinks fit, to export a medicinal product manufactured solely for export without holding a product licence.\n(2) Sub-paragraph (1) does not apply to the export of a topical antiseptic that contains mercury or any compound of mercury.\n[S 658/2019 wef 01/01/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Medicines (Traditional Medicines, Homoeopathic Medicines and other Substances) (Exemption) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

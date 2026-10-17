@@ -1,7 +1,7 @@
 {
  "id": "PH-H5144",
  "title": {
-  "zh": null,
+  "zh": "进一步重构 1978 年《关税与海关法典》（第 1464 号总统法令，经修正）第 104 条下特定物品的进口关税税率与分类的法案",
   "en": "An Act Further Restructuring the Import Duty Rates and Classification of Certain Articles under Section 104 of the Tariff and Customs Code of 1978 (PD 1464), as amended Approved: With Veto of Particular Items (See Accompanying Message)",
   "orig": "An Act Further Restructuring the Import Duty Rates and Classification of Certain Articles under Section 104 of the Tariff and Customs Code of 1978 (PD 1464), as amended Approved: With Veto of Particular Items (See Accompanying Message)"
  },
@@ -121,5 +121,13 @@
     "en": "This act shall take effect upon approval.\nApproved: With Veto of Particular Items"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Restructuring the Import Duty Rates and Classification of Certain Articles under Section 104 of the Tariff and Customs Code of 1978 (PD 1464), as amended Approved: With Veto of Particular Items (See Accompanying Message)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

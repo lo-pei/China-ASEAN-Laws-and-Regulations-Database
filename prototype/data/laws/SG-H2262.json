@@ -1,7 +1,7 @@
 {
  "id": "SG-H2262",
  "title": {
-  "zh": null,
+  "zh": "所得税（Frasers 物流与工业信托——第 13(12) 条豁免）命令 2020",
   "en": "Income Tax (Frasers Logistics & Industrial Trust — Section 13(12) Exemption) Order 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Interest income received in Singapore by FLT Europe Treasury Pte Ltd (a company incorporated in Singapore) from FPE Logistics B.V. (a company incorporated in the Netherlands) on or after 14 December 2018 is exempt from tax, subject to the conditions specified in the letter of approval dated 14 December 2018 addressed to Ernst & Young Solutions LLP.\n(2) Interest income received in Singapore by FLT Europe 2 Pte Ltd (a company incorporated in Singapore) from FLT Europe B.V. (a company incorporated in the Netherlands) on or after 6 April 2020 is exempt from tax, subject to the conditions specified in the letter of approval dated 6 April 2020 addressed to EY Corporate Advisors Pte. Ltd.\n(3) Interest income received in Singapore by FLT Europe 3 Pte Ltd (a company incorporated in Singapore) from FLT Europe B.V. (a company incorporated in the Netherlands) on or after 6 April 2020 is exempt from tax, subject to the conditions specified in the letter of approval dated 6 April 2020 addressed to EY Corporate Advisors Pte. Ltd.\n(4) Interest income received in Singapore by FLT Europe 1 Pte Ltd (a company incorporated in Singapore) from FPE Logistics B.V. (a company incorporated in the Netherlands) on or after 12 April 2019 is exempt from tax, subject to the conditions specified in the letter of approval dated 12 April 2019 addressed to Ernst & Young Solutions LLP."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Frasers Logistics & Industrial Trust — Section 13(12) Exemption) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

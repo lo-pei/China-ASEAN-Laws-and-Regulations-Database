@@ -1,7 +1,7 @@
 {
  "id": "SG-H1774",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（产权转让费用）规则",
   "en": "Housing and Development (Conveyancing Fees) Rules",
   "orig": null
  },
@@ -84,5 +84,13 @@
     "en": "SECOND SCHEDULE\nRule 2(2)\nType of transaction for DBSS flat\nBoard’s fees where approved developer offers standard payment schedule\nBoard’s fees where approved developer offers deferred payment schedule\n1. Purchase of DBSS flat\n$310\n$250\n2. Mortgage of DBSS flat whether to the Board or to a lender other than the Board\n$310\n$250\n3. Mortgage of DBSS flat to the Board where the Board does not act for the mortgagor\n$210\n$170.\n[S 564/2006 wef 28/09/2006]\nIn this Schedule —\n“approved developer” means a developer appointed under section 65N of the Act;\n“DBSS flat” means any housing accommodation sold or to be sold by an approved developer under Part IVB of the Act;\n“deferred payment schedule” means a payment schedule where all payments to be made by the purchaser to the approved developer subsequent to the initial payment are deferred until after the purchaser receives a Notice of Vacant Possession and either the Temporary Occupation Permit or Certificate of Statutory Completion (or a certified copy thereof) in respect of the DBSS flat;\n“initial payment” means the payment to be made by the purchaser to the approved developer —\n(a) upon the signing of the Sale and Purchase Agreement; or\n(b) within 9 weeks from the date of the Option to Purchase,\nwhichever is the later;\n“standard payment schedule” means ––\n(a) the payment schedule set out in Form B in the Schedule to the Housing and Development (Design-Build-and-Sell Scheme –– Form of Contract) Rules 2006 (G.N. No. S 508/2006); or\n(b) any other payment schedule which has been approved by the Board under rule 5 of the Housing and Development (Design-Build-and-Sell Scheme –– Form of Contract) Rules 2006, and which is not a deferred payment schedule."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Conveyancing Fees) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

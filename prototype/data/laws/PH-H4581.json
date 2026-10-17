@@ -1,7 +1,7 @@
 {
  "id": "PH-H4581",
  "title": {
-  "zh": null,
+  "zh": "修订第1937号共和国法（即《菲律宾关税与海关法典》）第104条第六表第29章第29.15段的法案",
   "en": "An Act Amending Paragraph 29.15, Chapter 29, Schedule VI of Section One Hundred Four of Republic Act Numbered Nineteen Hundred Thirty-Seven, Known as the Tariff and Customs Code of the Philippines",
   "orig": "An Act Amending Paragraph 29.15, Chapter 29, Schedule VI of Section One Hundred Four of Republic Act Numbered Nineteen Hundred Thirty-Seven, Known as the Tariff and Customs Code of the Philippines"
  },
@@ -50,5 +50,13 @@
     "en": "Paragraph 29.15, Chapter 29, Schedule VI of Section one hundred four of Republic Act Numbered Nineteen hundred thirty-seven is hereby amended to read as follows;\n\"29.15 Polyacids and their anhydrides, acid halides, acid peroxides and peracids, and their halogenated, sulphonated, nitrated, or nitrosated derivatives:\na. Phthalate plasticizers, esters of phthalic anhydride n.w. kg. ₱1.00 or ad val. 75%\nb. Phosphate plasticizers, esters of phosphorous oxychloride n.w. kg. P1.00 or ad val. 75%\nc. Sebacates, adipates, and azelates, esters of sebacic, adipic, and azelaic acids n.w. kg. ₱1.00 or ad val. 75%\nd. Epoxidized oils, esters of epoxidized oils n.w. kg. ₱1.00 or ad val. 75%\ne. Mixtures containing alkyl phthalates n.w. kg. ₱1.00 or ad val. 75%\nf. Other ad val. 40%\" Enacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Paragraph 29.15, Chapter 29, Schedule VI of Section One Hundred Four of Republic Act Numbered Nineteen Hundred Thirty-Seven, Known as the Tariff and Customs Code of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

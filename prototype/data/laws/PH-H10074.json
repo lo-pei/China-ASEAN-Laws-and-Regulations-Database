@@ -1,7 +1,7 @@
 {
  "id": "PH-H10074",
  "title": {
-  "zh": null,
+  "zh": "促进微电网系统使用以加快全国未通电与供电不足地区全面电气化的法案",
   "en": "An Act Promoting the Use of Microgrid Systems to Accelerate the Total Electrification of Unserved and Underserved Areas Nationwide",
   "orig": "An Act Promoting the Use of Microgrid Systems to Accelerate the Total Electrification of Unserved and Underserved Areas Nationwide"
  },
@@ -330,5 +330,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Promoting the Use of Microgrid Systems to Accelerate the Total Electrification of Unserved and Underserved Areas Nationwide",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

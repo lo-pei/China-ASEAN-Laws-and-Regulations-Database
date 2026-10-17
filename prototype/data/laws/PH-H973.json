@@ -1,7 +1,7 @@
 {
  "id": "PH-H973",
  "title": {
-  "zh": null,
+  "zh": "修订《行政法典》若干条款（经第164号共和国法修正），涉及契约登记官办公室的法案",
   "en": "An Act to Amend Certain Sections of the Administrative Code, as Amended by Republic Act Numbered One Hundred Sixty-Four, Relative to Offices of Registers of Deeds",
   "orig": "An Act to Amend Certain Sections of the Administrative Code, as Amended by Republic Act Numbered One Hundred Sixty-Four, Relative to Offices of Registers of Deeds"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of the Administrative Code, as Amended by Republic Act Numbered One Hundred Sixty-Four, Relative to Offices of Registers of Deeds",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5210",
  "title": {
-  "zh": null,
+  "zh": "为公职人员与雇员制定行为与道德标准守则、维护公职为公共信托的原则、对模范服务给予激励与奖励、列举禁止行为并对违规行为规定处罚的法案",
   "en": "An Act Establishing a Code of Conduct and Ethical Standards for Public Officials and Employees, to Uphold the Time-Honored Principle of Public Office Being a Public Trust, Granting Incentives and Rewards for Exemplary Service, Enumerating Prohibited Acts and Transactions and Providing Penalties for Violations Thereof and for Other Purposes",
   "orig": "An Act Establishing a Code of Conduct and Ethical Standards for Public Officials and Employees, to Uphold the Time-Honored Principle of Public Office Being a Public Trust, Granting Incentives and Rewards for Exemplary Service, Enumerating Prohibited Acts and Transactions and Providing Penalties for Violations Thereof and for Other Purposes"
  },
@@ -212,5 +212,13 @@
     "en": "Effectivity. - This Act shall take effect after thirty (30) days following the completion of its publication in the Official Gazette or in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Code of Conduct and Ethical Standards for Public Officials and Employees, to Uphold the Time-Honored Principle of Public Office Being a Public Trust, Granting Incentives and Rewards for Exemplary Service, Enumerating Prohibited Acts and Transactions and Providing Penalties for Violations Thereof and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

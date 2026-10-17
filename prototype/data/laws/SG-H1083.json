@@ -1,7 +1,7 @@
 {
  "id": "SG-H1083",
  "title": {
-  "zh": null,
+  "zh": "嘉诺撒仁爱女修会法人化条例 1949",
   "en": "Daughters of Charity of the Canossian Institute Incorporation Ordinance 1949",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "THE SCHEDULE\nSection 4\nDescription of land\nEstate\nPersons or body in whom land vested prior to this Ordinance\n(1)All that piece of land situate in the District of Kallang in the Island of Singapore estimated according to Government Resurvey to contain an area of 21650.2 square metres and marked on the Government Resurvey Map as Lot 1846 of Mukim XXIV being part of the land comprised in Grants Nos. 29, 80, 93 and 58 or some or one of them.\nFee simple\nVittoria Garré and Bertilia Lim.\n(2)All that piece of land situate in the District of Bedok in the Island of Singapore estimated to contain according to Government Resurvey an area of 8498.4 square metres and marked on the Government Resurvey Map as Lot 163 of Mukim XXVII being the land comprised in and described in the plan drawn on East India Company’s Grant No. 63 dated 21 September 1857 and made in favour of Punglima Puteh.\nFee simple\nVittoria Garré"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Daughters of Charity of the Canossian Institute Incorporation Ordinance 1949",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

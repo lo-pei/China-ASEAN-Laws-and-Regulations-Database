@@ -1,7 +1,7 @@
 {
  "id": "SG-H156",
  "title": {
-  "zh": null,
+  "zh": "航空导航（碳排放与报告）条例 2022",
   "en": "Air Navigation (Carbon Emissions and Reporting) Regulations 2022",
   "orig": null
  },
@@ -612,5 +612,13 @@
     "en": "THIRD SCHEDULE\nRegulation 10(4)(a)\nContents of enhanced emissions report\n1.Primary registered Singapore operator information:\n(a)name of primary registered Singapore operator;\n(b)detailed contact information of primary registered Singapore operator;\n(c)name of a point of contact;\n(d)method and identifier used to attribute the primary registered Singapore operator to Singapore in accordance with regulation 32;\n(e)Singapore as the State attributable to the primary registered Singapore operator.\n2.Reference to the approved emissions monitoring plan to which the emissions monitoring for the purposes of the enhanced emissions report is conducted in accordance with.\n3.Information to identify the verification body and verification report:\n(a)name and contact information of the verification body;\n(b)copy of verification report.\n4.Year of reporting period during which CO2 emissions were monitored.\n5.Total fuel mass per type of fuel used (in tonnes):\n(a)Jet-A;\n(b)Jet-A1;\n(c)Jet-B;\n(d)AvGas.\n6.Total number of international flights by the primary registered Singapore operator during the reporting period.\n7.Number of international flights per aerodrome pair (no rounding).\n8.CO2 emissions from international flights per aerodrome pair (in tonnes).\n9.Scale of data gaps:\n(a)percentage of data gaps (rounded to the nearest 0.1%);\n(b)reason for data gaps if percentage of data gaps exceeds the threshold specified in regulation 12(3).\n10. Aeroplane information:\n(a)list of aeroplane types operated for international flights;\n(b)aeroplane identifiers used in Item 7 (aircraft identification) used in the flight plan filed by the primary registered Singapore operator for the reporting period (if the aeroplane identifier is based on an ICAO designator, only the ICAO designator is to be reported).\n11.Eligibility for and use of the ICAO CORSIA CERT:\n(a)version of the ICAO CORSIA CERT used;\n(b)scope of use of the ICAO CORSIA CERT (whether on all flights or only on data gaps).\n12.Total CO2 emissions based on total mass of fuel in tonnes calculated in item 5(a) (in tonnes)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Air Navigation (Carbon Emissions and Reporting) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

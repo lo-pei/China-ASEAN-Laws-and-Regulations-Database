@@ -1,7 +1,7 @@
 {
  "id": "SG-H101",
  "title": {
-  "zh": null,
+  "zh": "活跃通勤（第 59A 条推定所涉指定罪行）条例 2019",
   "en": "Active Mobility (Prescribed Offences for Section 59A Presumption) Regulations 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 59A of the Act, the following are prescribed offences:\n(a)an offence under section 15(4), 16(4), 18(3), 20A(3) or 21(3) of the Act;\n[S 52/2020 wef 18/01/2020]\n(b)an offence under regulation 14 of the Active Mobility Regulations 2018 (G.N. No. S 251/2018) for contravening regulation 9(1) or (2), 12 or 13 of those Regulations."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Prescribed Offences for Section 59A Presumption) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

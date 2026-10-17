@@ -1,7 +1,7 @@
 {
  "id": "SG-H2537",
  "title": {
-  "zh": null,
+  "zh": "所得税（Sunstar Singapore 私人有限公司依第 13（12）条享有的豁免）命令 2021",
   "en": "Income Tax (Sunstar Singapore Pte. Ltd. — Section 13(12) Exemption) Order 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Income comprising dividends amounting to $18,249,090 that is received in Singapore by Sunstar Singapore Pte. Ltd. (a company incorporated in Singapore) from Sunstar Marketing Hong Kong Ltd (a company incorporated in Hong Kong) in the basis periods for the years of assessment 2017 to 2019 is exempt from tax.\n(2) The exemption in sub-paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 23 July 2021 addressed to Drew & Napier LLC."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Sunstar Singapore Pte. Ltd. — Section 13(12) Exemption) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H043",
  "title": {
-  "zh": null,
+  "zh": "委任会计长为最高法院会计师",
   "en": "Accountant-General Appointed to be Accountant for Supreme Court",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Supreme Court of Judicature Act\n(CHAPTER 322, Section 66)\nAccountant-General Appointed to be Accountant for Supreme Court\nN 2\nREVISED EDITION 1997\n(26th September 1997)\n[18th February 1970]\nThe Chief Justice has appointed the Accountant-General to be the Accountant for the Supreme Court."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Accountant-General Appointed to be Accountant for Supreme Court",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

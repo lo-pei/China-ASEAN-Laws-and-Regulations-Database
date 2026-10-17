@@ -1,7 +1,7 @@
 {
  "id": "TH-H739",
  "title": {
-  "zh": null,
+  "zh": "商会法，佛历 2509（1966）",
   "en": "Chambers of Commerce Act B.E 2509 (1966)",
   "orig": "พระราชบัญญัติหอการค้า พ.ศ. 2509"
  },
@@ -850,5 +850,13 @@
     "th": "มาตรา ๑๒๔ ในพระราชบัญญัติหอการค้า พ.ศ. ๒๕๐๙ ให้แก้ไขคำว่า “กรมการค้าภายใน” เป็น “กรมพัฒนาธุรกิจการค้า” และคำว่า “อธิบดีกรมการค้าภายใน” เป็น “อธิบดีกรมพัฒนาธุรกิจการค้า”"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "Chambers of Commerce Act B.E 2509 (1966)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

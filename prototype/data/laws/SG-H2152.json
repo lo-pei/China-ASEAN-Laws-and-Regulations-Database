@@ -1,7 +1,7 @@
 {
  "id": "SG-H2152",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发利息及其他付款豁免）（第 2 号）公告 2018",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 2) Notification 2018",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) This paragraph applies to any interest payment —\n(a)made by an approved exchange, an approved clearing house, a member of an approved exchange or a member of an approved clearing house, to a person who is not resident in Singapore;\n(b)that is not derived through any operation carried on by the person through the person’s permanent establishment in Singapore; and\n(c)that is a margin deposit interest payment required to be made —\n(i)under a specified contract that takes effect on a date that falls within the period from 19 February 2020 to 31 December 2031 (both dates inclusive);\n[S 325/2024 wef 04/11/2022]\n[S 325/2024 wef 01/01/2023]\n[S 587/2026 wef 09/09/2026]\n(ii)under a specified contract that is extended or renewed, where —\n(A)the extension or renewal takes effect on a date that falls within the period mentioned in sub‑paragraph (i); and\n(B)the payment is made on or after the date on which the extension or renewal takes effect; or\n[S 325/2024 wef 04/11/2022]\n(iii)under a specified contract that is varied, where —\n(A)the variation takes effect on a date that falls within the period from 4 November 2022 to 31 December 2031 (both dates inclusive); and\n[S 587/2026 wef 09/09/2026]\n(B)the payment is made on or after the date on which the variation takes effect.\n[S 325/2024 wef 04/11/2022]\n(1A) However, this paragraph does not apply to a margin deposit interest payment required to be made —\n(a)under a specified contract mentioned in sub‑paragraph (1)(c) that is varied with effect from a date on or after 1 January 2032; and\n[S 587/2026 wef 09/09/2026]\n(b)on or after the date on which the variation takes effect.\n[S 325/2024 wef 15/04/2024]\n(2) A payment to which this paragraph applies is exempt from tax.\n[S 555/2020 wef 19/02/2020]\n[S 325/2024 wef 04/11/2022]\n[S 325/2024 wef 01/01/2023]\n[S 325/2024 wef 15/04/2024]\n[S 587/2026 wef 09/09/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 2) Notification 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1970",
  "title": {
-  "zh": null,
+  "zh": "所得税（航运相关支持服务优惠税率）条例 2012",
   "en": "Income Tax (Concessionary Rate of Tax for Shipping-related Support Services) Regulations 2012",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) Notwithstanding section 43ZF(4) of the Act —\n(a)the base amount of an approved section 43ZE company referred to in regulation 3(1) shall be the base amount which is calculated in accordance with section 43ZE of the Act and applicable to the company immediately before 1st June 2011; and\n(b)the base amount of an approved development and expansion company referred to in regulation 3(2) shall be the average corresponding income referred to in section 19J(7) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) which is applicable to the company immediately before 1st June 2011.\n(2) For the avoidance of doubt —\n(a)the base amount referred to in paragraph (1)(a) shall apply to an approved section 43ZE company during the period referred to in regulation 3(1), even if the company is granted approval for any additional shipping-related support services on or after 1st June 2011 under section 43ZF of the Act; and\n(b)the base amount referred to in paragraph (1)(b) shall apply to an approved development and expansion company during the period referred to in regulation 3(2), even if the company is granted approval for any additional shipping‑related support services on or after 1st June 2011 under section 43ZF of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Concessionary Rate of Tax for Shipping-related Support Services) Regulations 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

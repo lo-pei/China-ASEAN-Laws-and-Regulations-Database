@@ -1,7 +1,7 @@
 {
  "id": "SG-H199",
  "title": {
-  "zh": null,
+  "zh": "动物与鸟类（进口）命令 2009",
   "en": "Animals and Birds (Importation) Order 2009",
   "orig": null
  },
@@ -126,5 +126,13 @@
     "en": "THE SCHEDULE\nParagraphs 3(2) and 4\nImportation or transhipment of\nanimal or bird part or product into Singapore\nFirst column\nSecond column\nThird column\nFourth column\nAnimal or bird part or product\nCountry or place from which animal or bird part or product may be imported or transhipped\nPurpose\nRestrictions\n1.Animal semen\nAny country or place\nArtificial insemination\n(a)Each consignment shall be in accordance with a permit issued by the Director-General, permitting the importation or transhipment of such animal or bird part or product.\n(b)Each consignment shall be accompanied by —\n(i)a certificate signed by a competent veterinary authority of the government of the country of origin attesting to the condition of the animal or bird part or product; or\n(ii)such other document as required by the Director-General.\n(c)Each consignment may be subjected to inspection, sampling and testing as the Director-General may determine.\n2.Fertiliser containing any animal product\nAny country or place\nFertiliser\n3.Animal feed containing any animal product\nAny country or place\nAnimal feed\n4.Clinical and pathological specimen\nAny country or place\nLaboratory diagnosis, tests, or research and development\n5.Carcase\nAny country or place\nAny purpose"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Animals and Birds (Importation) Order 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

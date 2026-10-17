@@ -1,7 +1,7 @@
 {
  "id": "SG-H525",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（提名）规则 1986",
   "en": "Central Provident Fund (Nominations) Rules 1986",
   "orig": null
  },
@@ -216,5 +216,13 @@
     "en": "12. Any nomination made by a member under the Central Provident Fund Rules 1988 and received by the Board prior to 1 January 1987, if valid immediately before that date, is deemed to be a nomination made under these Rules."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund (Nominations) Rules 1986",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

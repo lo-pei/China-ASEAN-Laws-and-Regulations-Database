@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-6-R-4-2001-MAGISTRATES-COURTS-COURT-FEES-AND-COSTS-RULES",
  "title": {
-  "zh": null,
+  "zh": "R 4 2001 版治安法院费用与讼费规则",
   "en": "R 4 2001 ED MAGISTRATES COURTS COURT FEES AND COSTS RULES",
   "orig": null
  },
@@ -340,5 +340,13 @@
     "en": "Taxation of bill of costs $    20"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 4 2001 ED MAGISTRATES COURTS COURT FEES AND COSTS RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1856",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（装修管制）规则",
   "en": "Housing and Development (Renovation Control) Rules",
   "orig": null
  },
@@ -272,5 +272,13 @@
     "en": "THE SCHEDULE\nRule 11(1)(b) and (c)\nPenalties Which May be Imposed on Registered Renovation Contractor for Certain Infringements\nFirst column\nSecond column\nInfringement\nPenalty\n1. Breach of rule 10(1)(a) or (b) involving —\n(a) works which the Board considers to be permissible renovation works\nMaximum of 3 demerit points\n(b) works which the Board considers to be non-permissible renovation works and are —\n(i) non-structural works\nMaximum of 9 demerit points\n(ii) minor structural works\nMaximum of 12 demerit points\n(iii) major structural works\nDisqualification not exceeding 5 years\n2. Breach of rule 10(1)(c) involving the infringement of —\n(a) minor administrative rules\nMaximum of 6 demerit points\n(b) major administrative rules\nDisqualification not exceeding 3 years\n[G.N. No. S 585/2006]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Housing and Development (Renovation Control) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

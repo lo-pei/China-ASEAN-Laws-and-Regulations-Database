@@ -1,7 +1,7 @@
 {
  "id": "SG-H2614",
  "title": {
-  "zh": null,
+  "zh": "资讯通信媒体发展局（财务罚款逾期付款利息）条例 2026",
   "en": "Info-communications Media Development Authority (Interest on Late Payment of Financial Penalties) Regulations 2026",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) For the purpose of section 79A(1) of the Act, the prescribed rate of interest on any unpaid amount of any financial penalty mentioned in that provision (called in this regulation the outstanding sum) is 4.5 percentage points above the 3‑month compounded SORA.\n(2) The interest mentioned in paragraph (1) is payable starting on the date after the outstanding sum is due up to and including the date the outstanding sum is paid."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Info-communications Media Development Authority (Interest on Late Payment of Financial Penalties) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

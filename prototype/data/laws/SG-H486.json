@@ -1,7 +1,7 @@
 {
  "id": "SG-H486",
  "title": {
-  "zh": null,
+  "zh": "人口普查法 1973",
   "en": "Census Act 1973",
   "orig": null
  },
@@ -396,5 +396,13 @@
     "en": "SECOND SCHEDULE\nSections 18(1) and 25(1)\n1. Central Provident Fund Board."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Census Act 1973",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

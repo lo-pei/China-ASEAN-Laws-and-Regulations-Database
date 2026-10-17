@@ -1,7 +1,7 @@
 {
  "id": "SG-H798",
  "title": {
-  "zh": null,
+  "zh": "义务教育（豁免）命令",
   "en": "Compulsory Education (Exemption) Order",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nDesignated schools\n1. San Yu Adventist School, a school registered as a private education institution under section 36 of the Private Education Act (Cap. 247A)\n2. The following schools registered with the Majlis Ugama Islam, Singapura under section 87 of the Administration of Muslim Law Act (Cap. 3):\n(a)Madrasah Alsagoff Al‑Arabiah\n(b)Madrasah Al‑Arabiah Al‑Islamiah\n(c)Madrasah Irsyad Zuhri Al‑Islamiah\n(d)Madrasah Aljunied Al‑Islamiah\n(e)Madrasah Al-Ma’arif Al‑Islamiah\n(f)Madrasah Wak Tanjong Al‑Islamiah\n[S 191/2018 wef 02/01/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Compulsory Education (Exemption) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

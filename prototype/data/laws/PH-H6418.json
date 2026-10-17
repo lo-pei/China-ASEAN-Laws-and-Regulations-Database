@@ -1,7 +1,7 @@
 {
  "id": "PH-H6418",
  "title": {
-  "zh": null,
+  "zh": "将卡加延-德奥罗市北民答那峨地区培训医院升格改设为名为北民答那峨医疗中心的医疗中心并为其拨款",
   "en": "An Act Upgrading and Converting the Northern Mindanao Regional Training Hospital in Cagayan De Oro City Into a Medical Center, to Be Known as the Northern Mindanao Medical Center, and Appropriating Funds Therefor",
   "orig": "An Act Upgrading and Converting the Northern Mindanao Regional Training Hospital in Cagayan De Oro City Into a Medical Center, to Be Known as the Northern Mindanao Medical Center, and Appropriating Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading and Converting the Northern Mindanao Regional Training Hospital in Cagayan De Oro City Into a Medical Center, to Be Known as the Northern Mindanao Medical Center, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

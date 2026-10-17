@@ -1,7 +1,7 @@
 {
  "id": "PH-H2593",
  "title": {
-  "zh": null,
+  "zh": "将第1613号共和国法项下用于朗布隆Cajidiocan Ayahag建造一间教室的预制校舍的2600比索拨款转给同市镇Cantagda的法案",
   "en": "An Act Transferring the Appropriation of Two Thousand Six Hundred Pesos for the Construction of a One-Room Prefabricated School Building in Ayahag, Cajidiocan, Romblon, Under Republic Act Numbered Sixteen Hundred and Thirteen, to Cantagda of the Same Municipality",
   "orig": "An Act Transferring the Appropriation of Two Thousand Six Hundred Pesos for the Construction of a One-Room Prefabricated School Building in Ayahag, Cajidiocan, Romblon, Under Republic Act Numbered Sixteen Hundred and Thirteen, to Cantagda of the Same Municipality"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring the Appropriation of Two Thousand Six Hundred Pesos for the Construction of a One-Room Prefabricated School Building in Ayahag, Cajidiocan, Romblon, Under Republic Act Numbered Sixteen Hundred and Thirteen, to Cantagda of the Same Municipality",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

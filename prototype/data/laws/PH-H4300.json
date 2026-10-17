@@ -1,7 +1,7 @@
 {
  "id": "PH-H4300",
  "title": {
-  "zh": null,
+  "zh": "修订达沃市修订宪章若干条（关于市议会的组成与组织等）的法案",
   "en": "An Act Amending Certain Sections of the Revised Charter of the City of Davao (Re Constitution and Organization of the City Council, Etc.).",
   "orig": "An Act Amending Certain Sections of the Revised Charter of the City of Davao (Re Constitution and Organization of the City Council, Etc.)."
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1969"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Sections of the Revised Charter of the City of Davao (Re Constitution and Organization of the City Council, Etc.).",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H371",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（规管固定装置承包商）条例 2022",
   "en": "Building Control (Regulating Fixed Installation Contractors) Regulations 2022",
   "orig": null
  },
@@ -126,5 +126,13 @@
     "en": "THE SCHEDULE\nRegulation 3\nApplication fee\nFirst column\nSecond column\nRegistrable activity to be carried out\nAmount\n1.Fixed installation works for escalators\n$550\n2.Maintenance, inspection or testing of escalators or any combination of these activities\nIf the applicant carries out, when the application is made, the registrable activity —\n(a)for not more than 499 escalators — $900;\n(b)for 500 to 999 escalators — $2,300; or\n(c)for 1,000 or more escalators — $3,300\n3.Fixed installation works for lifts\n$550\n4.Maintenance, inspection or testing of lifts or any combination of these activities\nIf the applicant carries out, when the application is made, the registrable activity —\n(a)for not more than 499 lifts — $900;\n(b)for 500 to 999 lifts — $2,300; or\n(c)for 1,000 or more lifts — $3,300\n5.Fixed installation works for mechanised car parking systems\n$550\n6.Maintenance, inspection or testing of mechanised car parking systems or any combination of these activities\n$550"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Control (Regulating Fixed Installation Contractors) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

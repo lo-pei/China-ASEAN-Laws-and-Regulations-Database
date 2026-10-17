@@ -1,7 +1,7 @@
 {
  "id": "PH-H7501",
  "title": {
-  "zh": null,
+  "zh": "将拉乌尼翁 Naguilian 的分区工程办公室改设为名为拉乌尼翁第二工程区的正规工程区并为其拨款",
   "en": "An Act Converting the Sub-District Engineering Office Located in Naguilian, La Union Into a Regular Engineering District to Be Known as the La Union Second Engineering District and Appropriating Funds Therefor",
   "orig": "An Act Converting the Sub-District Engineering Office Located in Naguilian, La Union Into a Regular Engineering District to Be Known as the La Union Second Engineering District and Appropriating Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Sub-District Engineering Office Located in Naguilian, La Union Into a Regular Engineering District to Be Known as the La Union Second Engineering District and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

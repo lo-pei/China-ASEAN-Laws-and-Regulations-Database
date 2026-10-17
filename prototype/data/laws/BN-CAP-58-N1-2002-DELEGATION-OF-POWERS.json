@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-58-N1-2002-DELEGATION-OF-POWERS",
  "title": {
-  "zh": null,
+  "zh": "N1 2002 版权力授予",
   "en": "N1 2002 ED DELEGATION OF POWERS",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "ARMS AND EXPLOSIVES ACT (CHAPTER 58)\n\nDELEGATION OF POWERS GN 225/00\n\nREVISED EDITION 2002 (30th November 2002)\n\nLAWS OF BRUNEI CAP. 58, N 1] Arms and Explosives [2002 Ed. p. 1 [Subsidiary]\n\nSUBSIDIARY LEGISLATION\n\nARMS AND EXPLOSIVES RULES\n\nDELEGATION OF POWERS In exercise of the power conferred by rule 14 of the Arms and Explosives Rules, the Prime Minister hereby delegates to the Commissioner of Police the exercise of his power (in his capacity as Licensing Officer), to sign licences issued under the Arms and Explosives Rules which have been approved by the Licensing Officer under those Rules."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "N1 2002 ED DELEGATION OF POWERS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

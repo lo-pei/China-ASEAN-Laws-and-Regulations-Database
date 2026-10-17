@@ -1,7 +1,7 @@
 {
  "id": "SG-H864",
  "title": {
-  "zh": null,
+  "zh": "企业服务提供者（豁免）命令 2025",
   "en": "Corporate Service Providers (Exemptions) Order 2025",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Section 7 of the Act does not apply to a person who acts as a director of a corporation by way of business, where a registered corporate service provider providing the corporate service of acting, or arranging for another person to act, as a director of a corporation has arranged for that person to so act (including where the registered corporate service provider has arranged for that person to act as a nominee director of the company by way of business under section 145A(1)(b) of the Companies Act 1967).\n(2) Section 7 of the Act does not apply to a person who acts as a nominee shareholder of a corporation by way of business, where a registered corporate service provider providing the corporate service of acting, or arranging for another person to act, as a nominee shareholder on behalf of any corporation (other than a corporation whose securities are listed on an approved exchange within the meaning of section 2(1) of the Securities and Futures Act 2001) has arranged for that person to so act.\n(3) Part 4 of the Corporate Service Providers Regulations 2025 (G.N. No. S 292/2025) does not apply to a registered corporate service provider who carries on the business of carrying out ACRA transactions with the ACRA Registrar using the electronic transaction system on behalf of another person or for one or more companies as a secretary of each of those companies.\n(4) Paragraph (3) does not apply where the registered corporate service provider carries out an ACRA transaction with the ACRA Registrar using the electronic transaction system that concerns any of the following:\n(a)forming, on behalf of another person, a corporation or other legal person;\n(b)acting, or arranging for another person to act —\n(i)as a director or secretary of a corporation;\n(ii)as a partner of a partnership; or\n(iii)in a similar capacity in relation to other legal persons;\n(c)providing a registered office, business address, correspondence or administrative address or other related services for a corporation, partnership or other legal person;\n(d)acting, or arranging for another person to act, as a nominee shareholder on behalf of any corporation, other than a corporation whose securities are listed on an approved exchange within the meaning of section 2(1) of the Securities and Futures Act 2001;\n(e)carrying out any designated activity in relation to the provision of any accounting service.\n(5) In paragraph (4), a reference to carrying out an ACRA transaction with the ACRA Registrar using the electronic transaction system includes carrying out the transaction by other means specified or directed by the ACRA Registrar if the electronic transaction system is unavailable."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Corporate Service Providers (Exemptions) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

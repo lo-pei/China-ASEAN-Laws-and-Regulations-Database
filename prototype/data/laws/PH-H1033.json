@@ -1,7 +1,7 @@
 {
  "id": "PH-H1033",
  "title": {
-  "zh": null,
+  "zh": "在司法部设立州检察官办公室、界定其权力与职责并授权拨款的法案",
   "en": "An Act Creating the Office of State Attorneys in the Department of Justice and Defining its Powers and Duties and Authorizing the Appropriations of Funds Therefor",
   "orig": "An Act Creating the Office of State Attorneys in the Department of Justice and Defining its Powers and Duties and Authorizing the Appropriations of Funds Therefor"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 28, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Office of State Attorneys in the Department of Justice and Defining its Powers and Duties and Authorizing the Appropriations of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2704",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 3 号）命令 2025",
   "en": "Infrastructure Protection (Protected Places) (No. 3) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nPresident and\nChief Executive Officer,\nTOPPAN Next Pte. Ltd.\nTOPPAN NEXT PTE. LTD. AND TOPPAN NEXT TECH PTE. LTD., 41 JOO KOON CIRCLE, SINGAPORE 629065\nAll that area comprised in Lot 2288A in Mukim No. 7 occupied by “TOPPAN NEXT PTE. LTD. AND TOPPAN NEXT TECH PTE. LTD.” containing an area of approximately 11810.6 square metres and bounded approximately as follows:\nCommencing at the north‑westernmost corner of the perimeter fence of “TOPPAN NEXT PTE. LTD. AND TOPPAN NEXT TECH PTE. LTD.” at a point 34,217.388 metres North and 9,350.731 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n34,217.388\n9,350.731\n34,133.171\n9,475.474\n34,199.515\n9,520.214\n34,281.671\n9,398.472\n34,224.211\n9,358.455\nto the point of commencement.\nThe boundaries of “TOPPAN NEXT PTE. LTD. AND TOPPAN NEXT TECH PTE. LTD.” are more particularly delineated in the Survey Plan No. 20936GZ1 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 3) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

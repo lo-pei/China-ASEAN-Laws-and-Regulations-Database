@@ -1,7 +1,7 @@
 {
  "id": "SG-H2131",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（合并）公告",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) (Consolidation) Notification",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Income Tax Act\n(Chapter 134, Sections 13(4))\nIncome Tax (Exemption of Interest and\nOther Payments for Economic and Technological Development Loans) (Consolidation) Notification\nN 11\nG.N. No. S 29/1997\nREVISED EDITION 1998\n(15th June 1998)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) (Consolidation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

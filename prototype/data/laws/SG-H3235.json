@@ -1,7 +1,7 @@
 {
  "id": "SG-H3235",
  "title": {
-  "zh": null,
+  "zh": "药物滥用（资料的授权传播或发表）条例 2019",
   "en": "Misuse of Drugs (Authorised Dissemination or Publication of Information) Regulations 2019",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Despite sections 11D(2) and 11P(2) of the Act, any of the following persons may disseminate or publish, or cause to be disseminated or published, any information (whether or not through the use of any electronic media) on the carrying out of any activity mentioned in section 11D(1) or 11P(1) of the Act:\n(a)any person who provides arts entertainment in accordance with a public entertainment licence issued or renewed under section 8 of the Public Entertainments Act 1958;\n[S 481/2024 wef 31/12/2021]\n(b)any person who provides such information to any Arts Entertainment Licensing Officer for the purpose of classifying the content of any arts entertainment under the Public Entertainments Act 1958;\n[S 481/2024 wef 31/12/2021]\n(c)any person who provides any free‑to‑air nationwide television service or subscription nationwide television service in or from Singapore under a broadcasting licence granted by the Info‑communications Media Development Authority under section 8 of the Broadcasting Act 1994;\n[S 481/2024 wef 31/12/2021]\n(d)any person who distributes or publicly exhibits any classified film within the meaning of section 2(1) of the Films Act 1981;\n[S 481/2024 wef 31/12/2021]\n(e)any person who, for the purpose of classifying or re‑classifying a film under the Films Act 1981, provides such information to —\n(i)the Info‑communications Media Development Authority;\n(ii)a film content assessor; or\n(iii)the Committee of Appeal.\n[S 481/2024 wef 31/12/2021]\n[S 481/2024 wef 01/06/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Misuse of Drugs (Authorised Dissemination or Publication of Information) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

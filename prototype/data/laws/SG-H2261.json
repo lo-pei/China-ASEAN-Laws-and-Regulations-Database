@@ -1,7 +1,7 @@
 {
  "id": "SG-H2261",
  "title": {
-  "zh": null,
+  "zh": "所得税（Frasers 商业投资第 1 号私人有限公司等——第 13(12) 条豁免）命令 2022",
   "en": "Income Tax (Frasers Commercial Investments No. 1 Pte. Ltd., etc. — Section 13(12) Exemption) Order 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Trust distribution income from Central Park Landholding Trust (a trust constituted in Australia), received in Singapore by Frasers Commercial Investments No. 1 Pte. Ltd. (a company incorporated in Singapore) on or after 16 September 2020 from APF Management Pty Limited (a company incorporated in Australia) in its capacity as the trustee of Central Park Landholding Trust, is exempt from tax.\n(2) Dividend income received in Singapore by British & Malayan Trustees Limited (a company incorporated in Singapore) in its capacity as the trustee of Frasers Commercial Trust (a trust constituted in Singapore) on or after 16 September 2020 from Frasers Commercial Investments No. 3 Pty Ltd (a company incorporated in the Cayman Islands), is exempt from tax.\n(3) Dividend income received in Singapore by Frasers Commercial Sub No. 2 Pte. Ltd. (a company incorporated in Singapore) on or after 16 September 2020 from Frasers Commercial Investments No. 3 Pty Ltd, is exempt from tax.\n(4) Interest income received in Singapore by British & Malayan Trustees Limited in its capacity as the trustee of Frasers Commercial Trust, on or after 16 September 2020 from Frasers Commercial Investments No. 3 Pty Ltd, is exempt from tax.\n(5) Interest income received in Singapore by Frasers Commercial Sub No. 2 Pte. Ltd. on or after 16 September 2020 from Frasers Commercial Investments No. 3 Pty Ltd, is exempt from tax.\n(6) Dividend income received in Singapore by Frasers Commercial Sub No. 4 Pte. Ltd. (a company incorporated in Singapore) on or after 16 September 2020 from Frasers Commercial Investments No. 4 Pty Ltd (a company incorporated in the Cayman Islands), is exempt from tax.\n(7) Interest income received in Singapore by Frasers Commercial Sub No. 4 Pte. Ltd. on or after 16 September 2020 from Frasers Commercial Investments No. 4 Pty Ltd, is exempt from tax.\n(8) Dividend income received in Singapore by Frasers Commercial (UK) Sub. 1 Pte. Ltd. (a company incorporated in Singapore) on or after 16 September 2020 from Farnborough Business Park Ltd (a company incorporated in Jersey), is exempt from tax.\n(9) Interest income received in Singapore by Frasers Commercial (UK) Sub. 1 Pte. Ltd. on or after 16 September 2020 from Farnborough Business Park Ltd, is exempt from tax.\n(10) Interest income received in Singapore by British & Malayan Trustees Limited in its capacity as the trustee of Frasers Commercial Trust on or after 15 October 2020 from Frasers Commercial Investments No. 4 Pty Ltd, is exempt from tax.\n(11) The exemptions in sub‑paragraphs (1) to (9) are subject to the conditions specified in the letter from the Ministry of Finance dated 16 September 2020 addressed to EY Corporate Advisors Pte. Ltd.\n(12) The exemption in sub‑paragraph (10) is subject to the conditions specified in the letter from the Ministry of Finance dated 15 October 2020 addressed to EY Corporate Advisors Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Frasers Commercial Investments No. 1 Pte. Ltd., etc. — Section 13(12) Exemption) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

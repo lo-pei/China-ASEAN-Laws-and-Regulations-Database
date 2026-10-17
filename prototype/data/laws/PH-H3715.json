@@ -1,7 +1,7 @@
 {
  "id": "PH-H3715",
  "title": {
-  "zh": null,
+  "zh": "实施第4637号共和国法规定，在反挂名委员会中设立检察处的法案",
   "en": "An Act Implementing the Provisions of Republic Act Numbered Forty-Six Hundred Thirty-Seven, Creating a Prosecution Division in the Anti-Dummy Board",
   "orig": "An Act Implementing the Provisions of Republic Act Numbered Forty-Six Hundred Thirty-Seven, Creating a Prosecution Division in the Anti-Dummy Board"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Implementing the Provisions of Republic Act Numbered Forty-Six Hundred Thirty-Seven, Creating a Prosecution Division in the Anti-Dummy Board",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

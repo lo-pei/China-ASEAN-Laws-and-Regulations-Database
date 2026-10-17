@@ -1,7 +1,7 @@
 {
  "id": "SG-H093",
  "title": {
-  "zh": null,
+  "zh": "主动出行（市镇理事会公共财产维护——豁免）命令 2026",
   "en": "Active Mobility (Maintenance of Town Council Common Property — Exemption) Order 2026",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Sections 15(1), 16(1)(b) and 17(1) of the Act do not apply to an individual who drives a battery‑operated cart or maintenance vehicle on a specified public path for a specified purpose, under the following conditions:\n(a)the individual is authorised by a Town Council or an appointed contractor to drive the battery‑operated cart or maintenance vehicle for the specified purpose;\n(b)the specified public path is in a housing estate within a Town of the Town Council that —\n(i)authorised the individual; or\n(ii)engaged the appointed contractor who authorised the individual;\n(c)in the case where the individual drives a maintenance vehicle that is a boom lift, lorry crane or scissor lift, the individual has attended and passed the specified certification course relevant to that type of maintenance vehicle;\n(d)the individual, when driving the battery‑operated cart or maintenance vehicle, must give way to other users of the specified public path;\n(e)the individual drives at a speed not exceeding —\n(i)in the case of a battery‑operated cart — 25 km/h; and\n(ii)in the case of a maintenance vehicle — 10 km/h;\n(f)during hours of darkness, the individual keeps the battery‑operated cart or maintenance vehicle lit in a manner that is visible to other users of the specified public path;\n(g)there is in force, at any time the battery‑operated cart or maintenance vehicle is used in connection with the specified purpose, a policy of insurance in relation to the battery‑operated cart or maintenance vehicle insuring against any liability in respect of —\n(i)the death of or bodily injury sustained by any person (whether or not including the driver of the battery‑operated cart or maintenance vehicle); and\n(ii)any property damage suffered by any person (whether or not including the driver of the battery‑operated cart or maintenance vehicle),\ncaused by or arising out of the use of the battery‑operated cart or maintenance vehicle;\n(h)the risk under the policy of insurance mentioned in sub‑paragraph (g) is assumed by an insurer who, at the time the policy is issued, is lawfully carrying on an insurance business in Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Maintenance of Town Council Common Property — Exemption) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

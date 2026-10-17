@@ -1,7 +1,7 @@
 {
  "id": "SG-H825",
  "title": {
-  "zh": null,
+  "zh": "植物管制（分析与检验服务费用）规则",
   "en": "Control of Plants (Analysis and Inspection Service Fees) Rules",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\n1.Food analysis:\npesticide residue analysis\n$123 per group of pesticides and an additional $80 for every pesticide detected other than dithiocarbamate as total CS2 per sample.\n2.Inspection of fresh fruits and vegetables:\n(a)professional service fee\n(i)$63 per hour or part thereof\n(ii)$133 per hour or part thereof (outside office hours or on an urgent basis)\n(b)technical service fee\n(i)$38 per hour or part thereof\n(ii)$80 per hour or part thereof (outside office hours or on an urgent basis).\n[S 94/2000 wef 03/03/2000]\n[S 91/2001 wef 01/03/2001]\n[G.N. Nos. S 7/99; S 114/99]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Control of Plants (Analysis and Inspection Service Fees) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

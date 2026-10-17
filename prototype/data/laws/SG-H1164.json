@@ -1,7 +1,7 @@
 {
  "id": "SG-H1164",
  "title": {
-  "zh": null,
+  "zh": "消灭传病昆虫（规定表格）条例",
   "en": "Destruction of Disease-Bearing Insects (Prescribed Form) Regulations",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Destruction of Disease-Bearing Insects (Prescribed Form) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

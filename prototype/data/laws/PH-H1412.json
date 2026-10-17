@@ -1,7 +1,7 @@
 {
  "id": "PH-H1412",
  "title": {
-  "zh": null,
+  "zh": "将现依经修正的第 2758 号法、第 118 号联邦法与第 699 号共和国法开展的活动及其收费整合为一个名为“菲律宾畜牧业促进基金”的特别偿还基金，并为其他目的法案",
   "en": "An Act Consolidating the Activities Now Carried Out Under Act Numbered Two Thousand Seven Hundred Fifty-Eight, as Amended, Commonwealth Act Numbered One Hundred Eighteen and Republic Act Numbered Six Hundred Ninety-Nine, and the Fees Collected Thereunder into One Special Reimbursable Fund to be Known as the “Philippine Livestock Promotion Fund”, and for Other Purposes",
   "orig": "An Act Consolidating the Activities Now Carried Out Under Act Numbered Two Thousand Seven Hundred Fifty-Eight, as Amended, Commonwealth Act Numbered One Hundred Eighteen and Republic Act Numbered Six Hundred Ninety-Nine, and the Fees Collected Thereunder into One Special Reimbursable Fund to be Known as the “Philippine Livestock Promotion Fund”, and for Other Purposes"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Consolidating the Activities Now Carried Out Under Act Numbered Two Thousand Seven Hundred Fifty-Eight, as Amended, Commonwealth Act Numbered One Hundred Eighteen and Republic Act Numbered Six Hundred Ninety-Nine, and the Fees Collected Thereunder into One Special Reimbursable Fund to be Known as the “Philippine Livestock Promotion Fund”, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1988",
  "title": {
-  "zh": null,
+  "zh": "所得税（高效污染控制设备）规则",
   "en": "Income Tax (Efficient Pollution Control Equipment) Rules",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nPart I\nThe emission levels of the following pollutants must not exceed the specified emission levels:\nPollutant\nStandard Applicable To\nSpecified Levels\n(1)Ammonia and ammonium compounds\nAny trade, industry or process\n50 mg/Nm3 expressed as ammonia\n(2)Antimony and its compounds\nAny trade, industry or process\n3.5 mg/Nm3 expressed as antimony\n(3)Arsenic and its compounds\nAny trade, industry or process\n0.75 mg/Nm3 expressed as arsenic\n(4)Benzene\nAny trade, industry or process\n3.5 mg/Nm3\n(5)Cadmium and its compounds\nAny trade, industry or process\n2 mg/Nm3 expressed as cadmium\n(6)Carbon monoxide\nAny trade, industry, process or fuel burning equipment\n450 mg/Nm3\n(7)Chlorine\nAny trade, industry or process\n20 mg/Nm3\n(8)Copper and its compounds\nAny trade, industry or process\n3.5 mg/Nm3 expressed as copper\n(9)Ethylene oxide\nAny trade, industry or process\n3.5 mg/Nm3\n(10)Fluorine, hydrofluoric acid or inorganic fluorine compounds\nAny trade, industry or process\n35 mg/Nm3 expressed as hydrofluoric acid\n(11)Formaldehyde\nAny trade, industry or process\n15 mg/Nm3\n(12)Hydrogen chloride\nAny trade, industry or process\n100 mg/Nm3\n(13)Hydrogen sulphide\nAny trade, industry or process\n4 mg/Nm3\n(14)Lead and its compounds\nAny trade, industry or process\n3.5 mg/Nm3 expressed as lead\n(15)Mercury and its compounds\nAny trade, industry or process\n2 mg/Nm3 expressed as mercury\n(16)Oxides of nitrogen\nAny trade, industry, process or fuel burning equipment\n500 mg/Nm3 expressed as nitrogen dioxide\n(17)Particulate substances including smoke, soot, dust, ash, fly-ash, cinders, cement, lime, alumina, grit and other solid particles of any kind\nAny trade, industry, process, fuel burning equipment or industrial plant (except for any cold blast foundry cupolas)\n50 mg/Nm3\n(18)Styrene monomer\nAny trade, industry or process\n75 mg/Nm3\n(19)Sulphur dioxide (non-combustion sources)\nAny trade, industry or process\n375 mg/Nm3\n(20)Sulphur trioxide and other acid gases\nThe manufacture of sulphuric acid\n375 mg/Nm3 expressed as sulphur trioxide\n(21)Sulphur trioxide or sulphuric acid mist\nAny trade, industry or process, other than any combustion process and any plant involving the manufacture of sulphuric acid\n50 mg/Nm3 expressed as sulphur trioxide\n(22)Vinyl chloride monomer\nAny trade, industry or process\n15 mg/Nm3\nPart II\n(1) The discharge of the following items must not exceed the discharge limits:\nItems\nDischarge limits into a sewer\nDischarge limits into a watercourse\nUnits in milligram per litre\n(1)BOD (5 days at 20°)\n—\n25\n(2)COD\n—\n50\n(3)Total Suspended Solids\n—\n25\n(4)Cyanide (as CN)\n1\n0.05\n(5)Arsenic\n2.5\n0.5\n(6)Phenolic Compounds (expressed as phenol)\n0.25\n0.1\n(7)Cadmium*\n0.5\n0.05\n(8)Chromium (trivalent and hexavalent)*\n2.5\n0.5\n(9)Copper*\n2.5\n0.05\n(10)Lead*\n2.5\n0.05\n(11)Mercury*\n0.25\n0.025\n(12)Nickel*\n5\n0.5\n(13)Selenium*\n5\n0.25\n(14)Silver*\n2.5\n0.05\n(15)Zinc*\n5\n0.5\n(16)Metals in total*\n* The concentration of Toxic Metal must not exceed the limits as shown, individually or in total.\n5\n0.5\n(2) The effluent from the pollution control equipment must also comply with the other limits stipulated in the Trade Effluent Regulations (Cap. 348, Rg 4)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Efficient Pollution Control Equipment) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

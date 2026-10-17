@@ -1,7 +1,7 @@
 {
  "id": "SG-H2615",
  "title": {
-  "zh": null,
+  "zh": "资讯通信媒体发展局（第 65 条规定交易）条例 2026",
   "en": "Info-communications Media Development Authority (Prescribed Transactions under Section 65) Regulations 2026",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 65(5) of the Act, a transaction is a prescribed transaction if —\n(a)it results in the transfer of equity interests in a regulated person —\n(i)from any person (A) to an entity, any equity interest in which is held by A, without any change in the percentage of the voting power in the regulated person controlled by A;\n(ii)from an entity to any holder of equity interests in the entity, without any change in the percentage of the voting power in the regulated person controlled by that holder of equity interests;\n(iii)from a corporation to its wholly owned subsidiary (including a corporation that is indirectly wholly owned), or to a corporation from its wholly owned subsidiary (including a corporation that is indirectly wholly owned); or\n(iv)from an entity, any equity interest in which is held by any person (A), to another entity, without any change in the percentage of the voting power in the regulated person controlled by A; or\n(b)it does not change the percentage of the voting power in the regulated person controlled by every person who controlled any voting power in the regulated person immediately before the transaction."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Info-communications Media Development Authority (Prescribed Transactions under Section 65) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10422",
  "title": {
-  "zh": null,
+  "zh": "设立学业恢复与无障碍学习计划并拨款的法案",
   "en": "An Act Establishing Academic Recovery and Accessible Learning (ARAL) Program and Appropriating Funds",
   "orig": "An Act Establishing Academic Recovery and Accessible Learning (ARAL) Program and Appropriating Funds"
  },
@@ -290,5 +290,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing Academic Recovery and Accessible Learning (ARAL) Program and Appropriating Funds",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

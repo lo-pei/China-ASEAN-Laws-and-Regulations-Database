@@ -1,7 +1,7 @@
 {
  "id": "SG-H591",
  "title": {
-  "zh": null,
+  "zh": "儿童与青少年（少年改造中心与安全场所）命令 2012",
   "en": "Children and Young Persons (Juvenile Rehabilitation Centres and Places of Safety) Order 2012",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The following Orders are revoked:\n(a)the Children and Young Persons (Approved Schools and Approved Homes) Order 1999 (G.N. No. S 536/99); and\n(b)the Children and Young Persons (Approved School and Approved Home) Order 2006 (G.N. No. S 206/2006)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Children and Young Persons (Juvenile Rehabilitation Centres and Places of Safety) Order 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5690",
  "title": {
-  "zh": null,
+  "zh": "授权赔偿糖业生产者因政府所有和控制的机构行为而在 1974 至 1985 作物年度遭受损失的法案",
   "en": "An Act Authorizing the Restitution of Losses Suffered By Sugar Producers From Crop Year 1974-1975 to Crop Year 1984-1985 Due to the Actions of Government-owned and Controlled Agencies",
   "orig": "An Act Authorizing the Restitution of Losses Suffered By Sugar Producers From Crop Year 1974-1975 to Crop Year 1984-1985 Due to the Actions of Government-owned and Controlled Agencies"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Restitution of Losses Suffered By Sugar Producers From Crop Year 1974-1975 to Crop Year 1984-1985 Due to the Actions of Government-owned and Controlled Agencies",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

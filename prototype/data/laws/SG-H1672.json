@@ -1,7 +1,7 @@
 {
  "id": "SG-H1672",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（持牌人的特别工人——类别执照）命令 2025",
   "en": "Guns, Explosives and Weapons Control (Special Workers of Licensees — Class Licence) Order 2025",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. A class licensee by virtue of paragraph 3 may carry out a regulated activity subject to all the following conditions:\n(a)when carrying out the regulated activity, the class licensee takes all reasonable steps necessary —\n(i)to protect other people who may be affected by the regulated activity from alarm, death or injury; and\n(ii)to protect property from unlawful destruction or damage and otherwise preserve public safety;\n(b)the class licensee carries out the regulated activity only within the following places:\n(i)if his or her employer or principal is the holder of a licence to operate an approved range — the approved range, unless sub‑paragraph (ii) applies;\n(ii)if his or her employer or principal is the holder of any other licence — the premises or conveyance which is authorised under that licence to be used to carry out the regulated activity;\n(c)the class licensee must have completed training in the safe carrying out of the regulated activity;\n(d)when carrying out the regulated activity, the class licensee’s judgement or capacity must not be adversely affected by any alcohol, drug or intoxicating substance to the extent that he or she may expose the individual’s or another individual’s health or safety to a risk;\n(e)the class licensee carries out the regulated activity in conformity with the lawful instructions of his or her employer or principal, subject to the requirements of any written law to the contrary."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Guns, Explosives and Weapons Control (Special Workers of Licensees — Class Licence) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H918",
  "title": {
-  "zh": null,
+  "zh": "刑法（临时条款）法 1955",
   "en": "Criminal Law (Temporary Provisions) Act 1955",
   "orig": null
  },
@@ -920,5 +920,13 @@
     "en": "FOURTH SCHEDULE\nSection 30(3)\nActivities of a criminal nature\n1.Unlicensed moneylending\n2.Drug trafficking\n3.Involvement in a secret society, or as a gangster\n4.Human trafficking\n5.Robbery with firearms\n6.Murder\n7.Gang rape\n8.Kidnapping\n9.Participating in, or facilitating, any organised crime activity as defined in section 48(1) of the Organised Crime Act 2015\n10.Attempting to carry out, abetting, or being a party to a criminal conspiracy to carry out, any activity listed in items 1 to 9.\n[12/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Criminal Law (Temporary Provisions) Act 1955",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

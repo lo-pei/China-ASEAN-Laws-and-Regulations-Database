@@ -1,7 +1,7 @@
 {
  "id": "SG-H2194",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 2 号）公告 2006",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 2) Notification 2006",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be exempt from tax the swap payments by Odfjell Asia Pte Ltd between 1st December 2001 and 30th March 2004 (both dates inclusive) to Odfjell ASA under 9 forward rate agreements relating to a syndicated loan dated 13th July 1998 in respect of the vessels “Bow Master”, “Bow Mate”, “Bow Pilot” and “Bow Sailor” purchased by Odfjell Asia Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 2) Notification 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

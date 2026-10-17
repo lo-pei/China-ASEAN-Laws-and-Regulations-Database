@@ -1,7 +1,7 @@
 {
  "id": "SG-H359",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（第 2 类一般建筑商执照的估计最终价格）命令 2008",
   "en": "Building Control (Estimated Final Price for Class 2 General Builder’s Licence) Order 2008",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. A Class 2 general builder’s licence shall authorise the holder thereof to carry on the business of a general builder restricted to contracts or engagements for an estimated final price each of not more than $6 million, instead of the estimated final price of $3 million specified in section 29C(1)(b) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Control (Estimated Final Price for Class 2 General Builder’s Licence) Order 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

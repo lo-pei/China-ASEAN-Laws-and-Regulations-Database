@@ -1,7 +1,7 @@
 {
  "id": "PH-H6726",
  "title": {
-  "zh": null,
+  "zh": "1994年科学技术奖学金法",
   "en": "The Science and Technology Scholarship Act of 1994.",
   "orig": "The Science and Technology Scholarship Act of 1994. An Act Further Strengthening the Science and Technology Program of the Government, amending for the purpose Republic Act No. 7687, otherwise known as the Science and Technology Scholarship Act of 1994"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its complete publication in two (2) newspapers of general circulation.\nApproved: January 29, 1997"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Science and Technology Scholarship Act of 1994.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H103",
  "title": {
-  "zh": null,
+  "zh": "活跃通勤（须登记代步车）命令 2026",
   "en": "Active Mobility (Registrable Mobility Vehicles) Order 2026",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Each of the following mobility vehicles is prescribed as a registrable mobility vehicle:\n(a)a mobility scooter;\n(b)a mobility vehicle described in regulation 2 of the Active Mobility (Definition of Mobility Vehicle) Regulations 2026 (G.N. No. S 80/2026)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Registrable Mobility Vehicles) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

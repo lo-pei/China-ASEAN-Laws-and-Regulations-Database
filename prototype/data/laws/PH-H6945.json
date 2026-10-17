@@ -1,7 +1,7 @@
 {
  "id": "PH-H6945",
  "title": {
-  "zh": null,
+  "zh": "关于将达沃省 Samal 岛之 Babak、Samal 与 Kaputian 三个市镇组建为组成市，并命名为 Samal 岛花园城市的法案",
   "en": "An Act Constituting the Three Municipalities of Babak, Samal and Kaputian of Samal Island,Province of Davao, Into a Component City to Be Known as the Island Garden City of Samal",
   "orig": "An Act Constituting the Three Municipalities of Babak, Samal and Kaputian of Samal Island,Province of Davao, Into a Component City to Be Known as the Island Garden City of Samal"
  },
@@ -841,5 +841,13 @@
     "en": "Effectivity. – This Act shall take effect upon its approval.\nApproved, January 30, 1998."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Constituting the Three Municipalities of Babak, Samal and Kaputian of Samal Island,Province of Davao, Into a Component City to Be Known as the Island Garden City of Samal",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1562",
  "title": {
-  "zh": null,
+  "zh": "财务程序法 1966",
   "en": "Financial Procedure Act 1966",
   "orig": null
  },
@@ -278,5 +278,13 @@
     "en": "12.—(1) No moneys shall be withdrawn from the Consolidated Fund except in the manner provided by this section.\n(2) The Minister shall by warrant authorise the issue from the Consolidated Fund of sums to meet the due cost of any service charged upon the Consolidated Fund, and such sums shall be accounted in the Consolidated Revenue Account:\nProvided that this subsection shall not apply to sums issued from the Consolidated Fund to meet the cost of any service charged upon the Consolidated Fund which —\n(a)is authorised by law to be met from moneys accounted in the Consolidated Loan Account; and\n(b)is withdrawn from the Consolidated Fund in accordance with subsection (4).\n[Act 3 of 2024 wef 26/02/2024]\n(3) (a) The Minister may by warrant authorise the issue from the Consolidated Fund of sums to meet expenditure —\n[Act 3 of 2024 wef 26/02/2024]\n(i)appropriated by a Supply or Supplementary Supply law or any other law or approved by resolution of Parliament in accordance with Article 148A(2) of the Constitution; or\n(ii)approved by resolution of Parliament in accordance with Article 148B(1) of the Constitution with which the President concurs:\nProvided that the aggregate of such sums under each head of expenditure shall not exceed the total sum so approved."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Financial Procedure Act 1966",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

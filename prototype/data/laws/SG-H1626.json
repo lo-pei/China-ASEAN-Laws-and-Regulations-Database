@@ -1,7 +1,7 @@
 {
  "id": "SG-H1626",
  "title": {
-  "zh": null,
+  "zh": "商品与服务税（除外交易）命令 1994",
   "en": "Goods and Services Tax (Excluded Transactions) Order 1994",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. The provision of digital payment tokens as consideration in respect of any transaction (other than a transaction for a supply of money or digital payment tokens), is treated as neither a supply of goods nor a supply of services."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Goods and Services Tax (Excluded Transactions) Order 1994",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

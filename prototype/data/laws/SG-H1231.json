@@ -1,7 +1,7 @@
 {
  "id": "SG-H1231",
  "title": {
-  "zh": null,
+  "zh": "电力（装置改变用途）条例 2025",
   "en": "Electricity (Repurposing of Installations) Regulations 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nExcluded relevant installations\n1. Any generating unit with a generation capacity of less than 10 MW.\n2. Any generating unit specified in the third column of the First Schedule to the Electricity (Electricity Generation and Retail Licence) (Exemption) Order (O 1), located on the premises specified in the second column of that Schedule against that generating unit."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Electricity (Repurposing of Installations) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

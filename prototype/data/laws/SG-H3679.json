@@ -1,7 +1,7 @@
 {
  "id": "SG-H3679",
  "title": {
-  "zh": null,
+  "zh": "国有土地保护法 2022",
   "en": "State Lands Protection Act 2022",
   "orig": null
  },
@@ -774,5 +774,13 @@
     "en": "46.—(1) This Act does not affect or apply in relation to —\n(a)any summons issued under section 2 or 6 of the repealed Act before the date of commencement of section 45;\n(b)any warrant issued under section 4 of the repealed Act before the date of commencement of section 45; and\n(c)any written notice to vacate served under section 4(4) of the repealed Act before the date of commencement of section 45,\nand all proceedings from that summons, warrant or notice are to continue according to the repealed Act as if this Act had not been enacted.\n(2) Despite section 45, sections 10 and 11 of the repealed Act continue to apply to and in relation to any land which is the subject of a notice in the Gazette under section 10(1) of the repealed Act.\n(3) For a period of 2 years after the date of commencement of this section, the Minister may make regulations prescribing such additional provisions of a saving or transitional nature consequent on the enactment of this section as the Minister may consider necessary or expedient.\n(4) Nothing in this section affects section 16 of the Interpretation Act 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "State Lands Protection Act 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

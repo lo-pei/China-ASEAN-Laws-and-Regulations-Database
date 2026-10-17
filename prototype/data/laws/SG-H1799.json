@@ -1,7 +1,7 @@
 {
  "id": "SG-H1799",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（处罚——租赁组屋）规则 2010",
   "en": "Housing and Development (Penalties — Rental Flats) Rules 2010",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. The Board may, in its discretion, remit wholly or in part any penalty payable under these Rules."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Penalties — Rental Flats) Rules 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

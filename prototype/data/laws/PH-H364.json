@@ -1,7 +1,7 @@
 {
  "id": "PH-H364",
  "title": {
-  "zh": null,
+  "zh": "修订第647号联邦法，该法准予在政府或其所属机构以临时任命任职的妇女享受产假的法案",
   "en": "An Act to Amend Commonwealth Act Numbered Six Hundred and Forty-Seven Granting Maternity Leave to Women Who are in the Service of the Government or of Any of its Instrumentalities Under Temporary Appointments",
   "orig": "An Act to Amend Commonwealth Act Numbered Six Hundred and Forty-Seven Granting Maternity Leave to Women Who are in the Service of the Government or of Any of its Instrumentalities Under Temporary Appointments"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Commonwealth Act Numbered Six Hundred and Forty-Seven Granting Maternity Leave to Women Who are in the Service of the Government or of Any of its Instrumentalities Under Temporary Appointments",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5150",
  "title": {
-  "zh": null,
+  "zh": "将 1988 年 5 月 9 日 Barangay 选举推迟至本年 11 月第二个星期一并为其他目的法案",
   "en": "An Act to Postpone the May 9, 1988 Barangay Elections to the Second Monday of November this year and for other purposes",
   "orig": "An Act to Postpone the May 9, 1988 Barangay Elections to the Second Monday of November this year and for other purposes"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Postpone the May 9, 1988 Barangay Elections to the Second Monday of November this year and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

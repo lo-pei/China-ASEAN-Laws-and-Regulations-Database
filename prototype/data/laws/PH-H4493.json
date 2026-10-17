@@ -1,7 +1,7 @@
 {
  "id": "PH-H4493",
  "title": {
-  "zh": null,
+  "zh": "修订第4391号共和国法（即《将北三宝颜省Dipolog市镇的Dipolog公共灌溉系统改设为国立灌溉系统》）第1条的法案",
   "en": "An Act Amending Section One of Republic Act Numbered Forty-Three Hundred Ninety-One, Entitled \"An Act Converting the Dipolog Communal Irrigation System in the Municipality of Dipolog, Province of Zamboanga Del Norte, Into a National Irrigation System.\"",
   "orig": "An Act Amending Section One of Republic Act Numbered Forty-Three Hundred Ninety-One, Entitled \"An Act Converting the Dipolog Communal Irrigation System in the Municipality of Dipolog, Province of Zamboanga Del Norte, Into a National Irrigation System.\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section One of Republic Act Numbered Forty-Three Hundred Ninety-One, Entitled \"An Act Converting the Dipolog Communal Irrigation System in the Municipality of Dipolog, Province of Zamboanga Del Norte, Into a National Irrigation System.\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

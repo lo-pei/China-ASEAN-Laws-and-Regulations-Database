@@ -1,7 +1,7 @@
 {
  "id": "PH-H9486",
  "title": {
-  "zh": null,
+  "zh": "将横贯孔波斯特拉谷省孔波斯特拉市镇的蒙特维斯塔—卡蒂尔国家公路重新命名为Benigno S. Aquino Jr.国家公路的法案",
   "en": "An Act Renaming the Montevista-Cateel National Highway Traversing the Municipality of Compostela, Compostela Valley Province Into the Benigno S. Aquino Jr. National Highway",
   "orig": "An Act Renaming the Montevista-Cateel National Highway Traversing the Municipality of Compostela, Compostela Valley Province Into the Benigno S. Aquino Jr. National Highway"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in two (2) national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Montevista-Cateel National Highway Traversing the Municipality of Compostela, Compostela Valley Province Into the Benigno S. Aquino Jr. National Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

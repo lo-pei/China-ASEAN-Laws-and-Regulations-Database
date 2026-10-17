@@ -1,7 +1,7 @@
 {
  "id": "SG-H1549",
  "title": {
-  "zh": null,
+  "zh": "财务顾问（保险经纪保费账户）（过渡与保留规定）条例",
   "en": "Financial Advisers (Insurance Broking Premium Accounts) (Transitional and Savings Provisions) Regulations",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Any moneys held in any insurance broking premium account maintained by an insurance broker under section 22 of the repealed Insurance Intermediaries Act (Cap. 142A, 2000 Ed.) shall, on 1st October 2002 —\n(a)where the moneys are held in any account maintained by an insurance broker registered under the repealed Insurance Intermediaries Act as a direct life insurance broker, be deemed to be held in the insurance broking premium account maintained by it under section 32 of the Financial Advisers Act; and\n(b)where the moneys are held in any account maintained by an insurance broker registered under the repealed Insurance Intermediaries Act as a direct general insurance broker, a life reinsurance broker or a general reinsurance broker, be deemed to be held in the respective insurance broking premium account maintained by it under section 35ZD of the Insurance Act (Cap. 142)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Financial Advisers (Insurance Broking Premium Accounts) (Transitional and Savings Provisions) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

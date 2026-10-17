@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-77-R-3-2022-RELIGIOUS-COUNCIL-AND-KADIS-COURTS-CO-FBA0A8",
  "title": {
-  "zh": null,
+  "zh": "R 3 2022 宗教理事会与卡迪法庭皈依者规则",
   "en": "R 3 2022 RELIGIOUS COUNCIL AND KADIS COURTS CONVERTS RULES",
   "orig": null
  },
@@ -216,5 +216,13 @@
     "en": "Affirmation and Declaration on Conversion to Islam. I .......................................................... on this day .................................................. corresponding to ......................................................... at ............................ am/pm do sincerely affirm and declare before you that I have considered and believe that the Islamic Religion is the true Religion. Consequently I have on my own free will renounced the ................................... Religion which I had previously professed and I now wish to be a convert to the Islamic Religion. And on this day also I sincerely affirm on my own free will, option and initiative and without being compelled by any person I convert to and profess the Islamic Religion and become an Islam by reciting: Meaning: I understand, I am convinced and I do hereby make an oral declaration of my belief that there is no true God that I pray to but Allah and whoever I prayed to previously was non-existent except Allah and I understand and am convinced in the belief that Prophet Muhammad is the Messenger of Allah for all beings and I am thereby freed from every Religion which is contrary to the Islamic Religion. I do hereby affirm that whatever I have stated above are to the best of my knowledge true and I choose my Islamic name as: ................................................ . ......................................................... Signature or Thumb print of Declarant. 8 Religious Council and Kadis Courts — (continued) Name: ........................................................ . Identity Card No: ...................................... . Colour: ...................................................... . Address: .................................................... . Witnesses (1) .......................................... . ..............................................\n\n(2) .......................................... ..............................................\n\nAUTHENTICATION BY KADI I have examined the abovenamed and I am satisfied that the information given to be true and that he/she becomes a convert to the Islamic Religion on his/her own free will and in accordance with the Islamic Law. His/her conversion to the Islamic Religion is hereby authenticated. Dated: ....................................................... ............................................... (Kadi ) File Ref: ................................................... (rule 4)\n\nCERTIFICATE OF CONVERSION TO ISLAM No. ................................ This is to certify that ................................................................................................ Passport No. .............................................. Identity Card No. .................................. age ............................ years has converted to the Islamic Religion on his/her own free will with effect from ......................................................................................... . He/She has been registered with the Religious Council, Brunei Darussalam No. ........................................................... dated ........................................................ and has chosen the Islamic name as ......................................................................... . May Allah help him/her in this sacred cause, AMIN. .......................................................... President of the Religious Council. Dated ................................. Hijriah 14......... . ............................................., 20......... ."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 3 2022 RELIGIOUS COUNCIL AND KADIS COURTS CONVERTS RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

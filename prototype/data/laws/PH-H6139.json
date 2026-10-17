@@ -1,7 +1,7 @@
 {
  "id": "PH-H6139",
  "title": {
-  "zh": null,
+  "zh": "禁止公私营单位雇用15岁以下儿童，为此修订第7610号共和国法第七章第12条的法案",
   "en": "An Act Prohibiting the Employment of Children Below 15 Years of Age in Public and Private Undertakings, Amending for This Purpose Section 12, Article VIIi of R.A. 7610",
   "orig": "An Act Prohibiting the Employment of Children Below 15 Years of Age in Public and Private Undertakings, Amending for This Purpose Section 12, Article VIIi of R.A. 7610"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect fifteen (15) days after complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation whichever comes earlier.\nApproved, November 9, 1993."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prohibiting the Employment of Children Below 15 Years of Age in Public and Private Undertakings, Amending for This Purpose Section 12, Article VIIi of R.A. 7610",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

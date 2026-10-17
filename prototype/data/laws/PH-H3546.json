@@ -1,7 +1,7 @@
 {
  "id": "PH-H3546",
  "title": {
-  "zh": null,
+  "zh": "授予 Jesus B. Pacquing 在达沃省及民答那峨其他省建设、维护和运营广播电台、电视台及国内外无线电通信的特许权法案",
   "en": "An Act Granting the Jesus B. Pacquing a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations, Television Stations and Domestic and International Radio Telecommunications in Davao Province and Other Provinces in Mindanao",
   "orig": "An Act Granting the Jesus B. Pacquing a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations, Television Stations and Domestic and International Radio Telecommunications in Davao Province and Other Provinces in Mindanao"
  },
@@ -121,5 +121,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Jesus B. Pacquing a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations, Television Stations and Domestic and International Radio Telecommunications in Davao Province and Other Provinces in Mindanao",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

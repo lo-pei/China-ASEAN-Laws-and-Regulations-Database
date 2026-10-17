@@ -1,7 +1,7 @@
 {
  "id": "SG-H217",
  "title": {
-  "zh": null,
+  "zh": "赡养父母专员、副专员及助理专员的委任",
   "en": "Appointment of Commissioner, Deputy Commissioners and Assistant Commissioners for the Maintenance of Parents",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Maintenance of Parents Act\n(Chapter 167B)\nAppointment of Commissioner, Deputy Commissioners and Assistant Commissioners for the Maintenance of Parents\nIt is hereby notified for general information that, in exercise of the powers conferred by section 12(1) of the Maintenance of Parents Act, the Minister for Community Development has, with effect from 1st June 1996, appointed —\n(a)the Director of Social Welfare to be the Commissioner for the Maintenance of Parents;\n(b)the Deputy Directors of the Family and Child Welfare Branch and the Senior Citizens and Social Services Branch to be the Deputy Commissioners for the Maintenance of Parents; and\n(c)the Assistant Directors of the Family and Child Welfare Branch and the Senior Citizens and Social Services Branch to be the Assistant Commissioners for the Maintenance of Parents."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Commissioner, Deputy Commissioners and Assistant Commissioners for the Maintenance of Parents",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

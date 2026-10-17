@@ -1,7 +1,7 @@
 {
  "id": "PH-H4755",
  "title": {
-  "zh": null,
+  "zh": "将马塞洛·H·德尔皮拉尔公路更名为马塞洛·H·德尔皮拉尔高速公路，为此修订第5308号共和国法的法案",
   "en": "An Act Renaming Marcelo H. Del Pilar Highway into Marcelo H. Del Pilar Expressway, Amending for the Purpose Republic Act Numbered Fifty-Three Hundred Eight",
   "orig": "An Act Renaming Marcelo H. Del Pilar Highway into Marcelo H. Del Pilar Expressway, Amending for the Purpose Republic Act Numbered Fifty-Three Hundred Eight"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: November 9, 1970."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming Marcelo H. Del Pilar Highway into Marcelo H. Del Pilar Expressway, Amending for the Purpose Republic Act Numbered Fifty-Three Hundred Eight",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

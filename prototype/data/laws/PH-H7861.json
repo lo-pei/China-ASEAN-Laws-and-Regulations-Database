@@ -1,7 +1,7 @@
 {
  "id": "PH-H7861",
  "title": {
-  "zh": null,
+  "zh": "宣布对依第 7227 号共和国法第 15 条设立的各经济区与自由港内特定企业经营所生税收与关税责任（含费用、罚款、罚金、利息及其他附加）实行一次性大赦并为其他目的法案",
   "en": "An Act Declaring a One-Time Amnesty on Certain Tax and Duty Liabilities, Inclusive of Fees, Fines, Penalties, Interest and other additions thereto, Incurred By Certain Business Enterprises Operating Within the Special Economic Zones and Freeports created under Proclamation No. 163, Series of 1993; Proclamation No. 216, Series of 1993; Proclamation No. 120, Series of 1994; and Proclamation No, 984, Series of 1997, Pursuant to Section 15 of Republic Act No. 7227, as amended, and for other purposes",
   "orig": "An Act Declaring a One-Time Amnesty on Certain Tax and Duty Liabilities, Inclusive of Fees, Fines, Penalties, Interest and other additions thereto, Incurred By Certain Business Enterprises Operating Within the Special Economic Zones and Freeports created under Proclamation No. 163, Series of 1993; Proclamation No. 216, Series of 1993; Proclamation No. 120, Series of 1994; and Proclamation No, 984, Series of 1997, Pursuant to Section 15 of Republic Act No. 7227, as amended, and for other purposes"
  },
@@ -102,5 +102,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any two newspapers of general circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring a One-Time Amnesty on Certain Tax and Duty Liabilities, Inclusive of Fees, Fines, Penalties, Interest and other additions thereto, Incurred By Certain Business Enterprises Operating Within the Special Economic Zones and Freeports created under Proclamation No. 163, Series of 1993; Proclamation No. 216, Series of 1993; Proclamation No. 120, Series of 1994; and Proclamation No, 984, Series of 1997, Pursuant to Section 15 of Republic Act No. 7227, as amended, and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4257",
  "title": {
-  "zh": null,
+  "zh": "在奎松省增设一个学校分区，为此修订第 3400 号共和国法的法案",
   "en": "An Act Providing for An Additional School Division in the Province of Quezon, Amending for This Purpose Republic Act Numbered Thirty-Four Hundred",
   "orig": "An Act Providing for An Additional School Division in the Province of Quezon, Amending for This Purpose Republic Act Numbered Thirty-Four Hundred"
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H4257-A1_2",
+   "id": "PH-H4257-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "There shall be three school divisions in the Province of Quezon; one shall include all the municipalities in the sub-province of Aurora. The permanent station of the superintendent of schools of this division shall be in the Municipality of Baler. The second division shall include the municipalities of Mauban, Sampaloc, Infanta, Real, General Nakar, Polillo, and Burdeos and the municipal districts of Jumalig, Panukulan and Patnanungan. The permanent station of the superintendent of schools of this division shall be the Municipality of Mauban. The third division shall include all the rest of the municipalities of the province. The permanent station of the superintendent of schools of this division shall be in the City of Lucena.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4257-A3",
@@ -81,14 +82,15 @@
    }
   },
   {
-   "id": "PH-H4257-A2_2",
+   "id": "PH-H4257-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "The Director of Public Schools shall reorganize the School Division of the Province of Quezon into three school divisions commencing with the school year nineteen hundred sixty-seven to nineteen hundred sixty-eight, in accordance with the provisions of this Act.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4257-A4",
@@ -110,5 +112,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for An Additional School Division in the Province of Quezon, Amending for This Purpose Republic Act Numbered Thirty-Four Hundred",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

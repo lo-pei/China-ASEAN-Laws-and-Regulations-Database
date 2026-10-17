@@ -1,7 +1,7 @@
 {
  "id": "SG-H980",
  "title": {
-  "zh": null,
+  "zh": "货币（硬币面额与特征）（第 4 号）公告 2013",
   "en": "Currency (Denominations and Characteristics of Coins) (No. 4) Notification 2013",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF COINS IN THE SINGAPORE FIRST ALMANAC COIN SERIES PUZZLE COIN SET TO BE ISSUED ON 1ST JANUARY 2014\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\nCentre coin:\n10 Dollars\nCoins surrounding the centre coin:\n2 Dollars\n999 Fine Silver\n249.45 g ± 9.1 g\n96.00 mm ± 2.0 mm\n4.60 mm ± 0.70 mm\nRound\nPlain\nThe Singapore Arms is in the centre with the year‑date “2014” below it and the word “SINGAPORE” in the 4 official languages around it.\nThe centre coin features a peony with the words “SINGAPORE FIRST ALMANAC COIN SERIES” around it. The denomination “$10” is above the peony.\nEach of the 12 coins surrounding the centre coin features the design of the animals depicted in the first Almanac Coin Series. The year of issue of that animal is above the design. The 2 Chinese characters signifying the year of the animal are at the lower‑left while the denomination “$2” is at the lower‑right.\n(a)\n(b)\n(a)Reverse Design of the Singapore First Almanac Coin Series Puzzle Coin Set.\n(b)Obverse Design for the Singapore First Almanac Coin Series Puzzle Coin Set."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency (Denominations and Characteristics of Coins) (No. 4) Notification 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

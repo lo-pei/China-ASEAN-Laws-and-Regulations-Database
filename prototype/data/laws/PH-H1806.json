@@ -1,7 +1,7 @@
 {
  "id": "PH-H1806",
  "title": {
-  "zh": null,
+  "zh": "整合、协调并加强科学技术研究与开发，促进发明，为此提供资金并为其他目的法案",
   "en": "An Act to Integrate, Coordinate, and Intensify Scientific and Technological Research and Development and to Foster Invention; to Provide Funds Therefor; and for Other Purposes",
   "orig": "An Act to Integrate, Coordinate, and Intensify Scientific and Technological Research and Development and to Foster Invention; to Provide Funds Therefor; and for Other Purposes"
  },
@@ -360,5 +360,13 @@
     "en": "This Act shall take effect upon the constitution of the Board but not later than thirty days after the approval hereof.\nApproved: June 13, 1958"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Integrate, Coordinate, and Intensify Scientific and Technological Research and Development and to Foster Invention; to Provide Funds Therefor; and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

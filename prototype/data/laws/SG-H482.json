@@ -1,7 +1,7 @@
 {
  "id": "SG-H482",
  "title": {
-  "zh": null,
+  "zh": "赌场管制法 2006",
   "en": "Casino Control Act 2006",
   "orig": null
  },
@@ -3908,5 +3908,13 @@
     "en": "SECOND SCHEDULE\nSections 190(3) and 197A(1)\nPersons to whom information\nmay be disclosed\n1.The Authority and any officer or employee of the Authority.\n2.The Minister charged with the responsibility for casino regulation, and officers from that Ministry authorised by that Minister.\n3.The Minister charged with the responsibility for tourism development and promotion, and officers from that Ministry authorised by that Minister.\n4.The Minister charged with the responsibility for manpower planning and policy, and officers from that Ministry authorised by that Minister.\n5.The Minister charged with the responsibility for prevention and rehabilitation in relation to problem gambling, and officers from that Ministry authorised by that Minister.\n6.The National Council on Problem Gambling, and any secretary or officer of that Council.\n[36/2012]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control Act 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

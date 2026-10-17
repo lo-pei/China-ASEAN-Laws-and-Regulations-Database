@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-105-RG-2-2013-NEWSPAPER-PERMIT-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG 2 2013 版报纸许可证条例",
   "en": "RG 2 2013 ED NEWSPAPER PERMIT REGULATIONS",
   "orig": null
  },
@@ -70,5 +70,13 @@
     "en": "The permit granted under the Act shall be in the form prescribed in the Schedule. 4 CAP. 105, Rg 2 Newspapers\n\nSCHEDULE Serial No. (regulation 3)\n\nNEWSPAPERS ACT (Chapter 105) NEWSPAPERS (PERMIT) REGULATIONS\n\nPERMIT TO PRINT, PUBLISH, SELL OR DISTRIBUTE NEWSPAPER In exercise of the power conferred by section 3, the Minister of Home Affairs hereby grants a permit to the person named below for the printing*, publication, sale and distribution within Brunei Darussalam of the newspaper described below, subject to the conditions on the reverse of this permit. Name and address of permit holder Name and address of agent in Brunei Darussalam [for an overseas newspaper] Name of newspaper Nature of contents Place at which printed Language in which printed Date of issue Date of expiry .......................................................... Minister of Home Affairs Reference: * Delete the word “printing” in the case of an overseas newspaper.\n\nCONDITIONS"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 2 2013 ED NEWSPAPER PERMIT REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

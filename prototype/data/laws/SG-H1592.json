@@ -1,7 +1,7 @@
 {
  "id": "SG-H1592",
  "title": {
-  "zh": null,
+  "zh": "消防安全（消防安全经理）条例",
   "en": "Fire Safety (Fire Safety Managers) Regulations",
   "orig": null
  },
@@ -294,5 +294,13 @@
     "en": "16. Any person who, without reasonable excuse, contravenes regulation 3, 5, 6, 7, 8(1) or (3), 9, 10(1), 12(3) or 13 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n[S 771/2020 wef 14/09/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Fire Safety (Fire Safety Managers) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

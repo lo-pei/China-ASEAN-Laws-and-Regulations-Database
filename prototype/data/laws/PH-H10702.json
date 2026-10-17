@@ -1,7 +1,7 @@
 {
  "id": "PH-H10702",
  "title": {
-  "zh": null,
+  "zh": "授权总统中止或降低石油产品消费税，为此修订经修正的1997年《国家国内税收法典》第148条的法案",
   "en": "An Act Authorizing the President to Suspend or Reduce Excise Tax on Petroleum Products, Amending for the Purpose Section 148 of the National Internal Revenue Code of 1997, as Amended",
   "orig": "An Act Authorizing the President to Suspend or Reduce Excise Tax on Petroleum Products, Amending for the Purpose Section 148 of the National Internal Revenue Code of 1997, as Amended"
  },
@@ -81,5 +81,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President to Suspend or Reduce Excise Tax on Petroleum Products, Amending for the Purpose Section 148 of the National Internal Revenue Code of 1997, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

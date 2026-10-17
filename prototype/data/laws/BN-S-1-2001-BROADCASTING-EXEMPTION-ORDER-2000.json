@@ -1,7 +1,7 @@
 {
  "id": "BN-S-1-2001-BROADCASTING-EXEMPTION-ORDER-2000",
  "title": {
-  "zh": null,
+  "zh": "广播豁免命令 2000",
   "en": "BROADCASTING EXEMPTION ORDER 2000",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "lOth. 2001 No. S l\n\nBROADCASTING ACT (CHAPTER 180} BROADCASTING {EXEMPTION) ORDER, 2000 In exercise of the power conferred by section 52 of the Broadcasting Act, the Minister responsible for broadcasting matters hereby exempts owners and operators of a TYRO system who subscribe to KRISTAL-ASTRO Direct-to-Home Satellite Services from the requirement to obtain a licence under the Broadcasting (TVRO System) Regulations, 2000 and from payment of any licence fees under those Regulations, with effect from the 1st. November, 1999. Made this 16th. day of Ramadan, 1421 Hijriah corresponding to the 13th. day of December, 2000. PEHIN ORANG KAYA LAlLA SETIA BAKTI DIRAJA DATO LAlLA UTAMA HAJI AWANG ISA BIN PEHIN DATU PERDANA MANTER! DATO LAlLA UTAMA HAJI IBRAHIM Minister responsible for broadcasting matters, Prime Minister's Office, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BROADCASTING EXEMPTION ORDER 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

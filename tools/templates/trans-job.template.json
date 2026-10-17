@@ -1,0 +1,27 @@
+{
+  "_template": "CALR 译本任务包 · manifest.json 骨架（calr-trans-v2）。实际任务包由 node _work/trans/export-job.js 生成，本文件仅示意字段。",
+  "formatVersion": "calr-trans-v2",
+  "jobId": "CALR-TRANS-BN-TH-2026-10-11-0001",
+  "targetLang": "th",
+  "targetCountry": "TH",
+  "sourceLang": "en",
+  "glossaryVersion": "2026-10",
+  "createdAt": "2026-10-11",
+  "skill": "rules/SKILL-多国法律文本译本生产规范.md",
+  "verifyCommand": "node tools/verify-trans-return.js <回执包目录> --job <本任务包目录>",
+  "items": [
+    {
+      "lawId": "BN-CAP-22-2021-E-PENAL-CODE-ACT",
+      "title": "E PENAL CODE ACT",
+      "articleCount": 442,
+      "sourceSha256": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+      "textQuality": "ocr-scanned",
+      "sourceLayer": "intl",
+      "shards": [
+        { "shardId": "001", "fromNo": 1, "toNo": 150 },
+        { "shardId": "002", "fromNo": 151, "toNo": 300 },
+        { "shardId": "003", "fromNo": 301, "toNo": 442 }
+      ]
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
  "id": "PH-H182",
  "title": {
-  "zh": null,
+  "zh": "修订第 466 号联邦法第 291、292、297、299 与 302 条（关于枪支税、无线电费与烟草检查费）的法案",
   "en": "An Act to Amend Sections Two Hundred and Ninety-One, Two Hundred and Ninety-Two, Two Hundred and Ninety-Seven, Two Hundred and Ninety-Nine, and Three Hundred and Two of Commonwealth Act Numbered Four Hundred and Sixty-Six, Relative to the Firearms Tax, Radio Fees and Tobacco Inspection Fees",
   "orig": "An Act to Amend Sections Two Hundred and Ninety-One, Two Hundred and Ninety-Two, Two Hundred and Ninety-Seven, Two Hundred and Ninety-Nine, and Three Hundred and Two of Commonwealth Act Numbered Four Hundred and Sixty-Six, Relative to the Firearms Tax, Radio Fees and Tobacco Inspection Fees"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect on October first, nineteen hundred and forty-six.\nApproved, October 29, 1946."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Two Hundred and Ninety-One, Two Hundred and Ninety-Two, Two Hundred and Ninety-Seven, Two Hundred and Ninety-Nine, and Three Hundred and Two of Commonwealth Act Numbered Four Hundred and Sixty-Six, Relative to the Firearms Tax, Radio Fees and Tobacco Inspection Fees",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

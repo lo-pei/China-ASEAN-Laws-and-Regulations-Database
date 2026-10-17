@@ -1,7 +1,7 @@
 {
  "id": "SG-H3374",
  "title": {
-  "zh": null,
+  "zh": "宣誓与声明（规定人士）条例",
   "en": "Oaths and Declarations (Prescribed Persons) Regulations",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Notwithstanding these Regulations, no person shall be tried or punished under section 14 of the Act for an act done before 21st September 2001 which would not, but for these Regulations, be an offence under that section.\n(2) For the avoidance of doubt, a person who attempted, or abetted the doing of, an act referred to in paragraph (1) may, if the attempt or abetment is punishable by law at the time it was done, be tried or punished for the attempt or abetment."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Oaths and Declarations (Prescribed Persons) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

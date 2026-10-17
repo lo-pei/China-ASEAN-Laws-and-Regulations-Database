@@ -1,7 +1,7 @@
 {
  "id": "SG-H2866",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（国际电信联盟）命令 1955",
   "en": "International Organisations (Immunities and Privileges) (International Telecommunications Union) Order 1955",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. The names of the persons to whom paragraphs 4 and 5 apply are to be set out in a list compiled and published from time to time by the President under section 2(3) of the Act, and the list must show in regard to each person —\n(a)the date as from which, for the purposes of this Order, he or she first held the office or employment in question; and\n(b)the date when he or she ceased to hold that office or employment.\n[Note: The Government of the Republic of Singapore succeeded the International Telecommunications Union on 18 March 1966.]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "International Organisations (Immunities and Privileges) (International Telecommunications Union) Order 1955",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

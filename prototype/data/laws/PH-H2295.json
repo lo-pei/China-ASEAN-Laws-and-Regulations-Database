@@ -1,7 +1,7 @@
 {
  "id": "PH-H2295",
  "title": {
-  "zh": null,
+  "zh": "规定西内格罗斯省 Calatrava 市镇镇中心的公共广场此后名称为 Andres Menchaca 公园的法案",
   "en": "An Act Providing that the Public Plaza in the Poblacion of the Municipality of Calatrava, Province of Negros Occidental, Shall Hereafter be Known as Andres Menchaca Park",
   "orig": "An Act Providing that the Public Plaza in the Poblacion of the Municipality of Calatrava, Province of Negros Occidental, Shall Hereafter be Known as Andres Menchaca Park"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing that the Public Plaza in the Poblacion of the Municipality of Calatrava, Province of Negros Occidental, Shall Hereafter be Known as Andres Menchaca Park",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

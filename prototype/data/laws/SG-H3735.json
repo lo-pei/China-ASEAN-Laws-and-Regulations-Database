@@ -1,7 +1,7 @@
 {
  "id": "SG-H3735",
  "title": {
-  "zh": null,
+  "zh": "工作场所安全与健康法 2006",
   "en": "Workplace Safety and Health Act 2006",
   "orig": null
  },
@@ -1266,5 +1266,13 @@
     "en": "SIXTH SCHEDULE\nSections 27(2), 62(1) and 64(1)\nExempt Persons At Work\n1. Any member of the Singapore Police Force (including the Special Constabulary), Singapore Prisons Service, Internal Security Department, Central Narcotics Bureau, Singapore Armed Forces, Singapore Civil Defence Force and the Immigration & Checkpoints Authority while on duty.\n2. A crew member at work on board any ship, aircraft or any other international mode of transport which does not pose a risk to the safety and health of any person other than the crew member himself or herself or any other crew member on board the ship, aircraft or other international mode of transport."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Workplace Safety and Health Act 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

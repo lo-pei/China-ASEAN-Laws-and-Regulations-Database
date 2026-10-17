@@ -1,7 +1,7 @@
 {
  "id": "BN-S-13-2024-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-TRUST-AM-2129A8",
  "title": {
-  "zh": null,
+  "zh": "补充缴费养老金信托第 3 号修正命令 2024",
   "en": "SUPPLEMENTAL CONTRIBUTORY PENSIONS TRUST AMENDMENT NO. 3 ORDER 2024",
   "orig": null
  },
@@ -92,5 +92,13 @@
     "en": "of the principal Order is amended, in subsection (2) - (a} by deleting paragraph (eJ; (bJ in paragraph (fJ, by deleting \", survivorship benefit and derivative SCP benefit\" and by substituting \"and survivorship benefit\" therefor. Made this 11th. day of Rejab, 1445 Hijriah corresponding to the 23rd. day of January, 2024 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN, DARUSSALAM."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUPPLEMENTAL CONTRIBUTORY PENSIONS TRUST AMENDMENT NO. 3 ORDER 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

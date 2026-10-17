@@ -1,7 +1,7 @@
 {
  "id": "SG-H3243",
  "title": {
-  "zh": null,
+  "zh": "滥用毒品（尿液样本与尿液检验）条例",
   "en": "Misuse of Drugs (Urine Specimens and Urine Tests) Regulations",
   "orig": null
  },
@@ -123,5 +123,13 @@
     "en": "SECOND SCHEDULE\nRegulation 4\nCollection and delivery of urine specimens and\nsecurity arrangements for collection and delivery\n1. An enforcement officer must arrange for the delivery of the 2 security boxes as soon as practicable to the designated submission point at the Health Sciences Authority or the DSO National Laboratories, as the case may be.\n[S 797/2025 wef 15/12/2025]\n[S 429/2026 wef 01/07/2026]\n2. After the 2 security boxes have been delivered to the designated submission point at the Health Sciences Authority or the DSO National Laboratories (as the case may be), the officer who has custody of the key must unlock the 2 boxes and empty their contents in the presence of the officer who delivered the boxes.\n[S 797/2025 wef 15/12/2025]\n[S 429/2026 wef 01/07/2026]\n3. The empty security boxes must be re-locked and handed back to the officer who delivered the boxes.\n[S 713/2020 wef 31/08/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Misuse of Drugs (Urine Specimens and Urine Tests) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4620",
  "title": {
-  "zh": null,
+  "zh": "在马尼拉市市检察官办公室增设助理检察官，扩充并重组其人员编制，为此进一步修订经修正的第409号共和国法并为其他目的法案",
   "en": "An Act Providing for Additional Assistant Fiscals in the Office of the City Fiscal of the City of Manila, Enlarging and Reorganizing Its Staff, and for Other Purposes, By Further Amending Republic Act Numbered Four Hundred Nine, as Amended",
   "orig": "An Act Providing for Additional Assistant Fiscals in the Office of the City Fiscal of the City of Manila, Enlarging and Reorganizing Its Staff, and for Other Purposes, By Further Amending Republic Act Numbered Four Hundred Nine, as Amended"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for Additional Assistant Fiscals in the Office of the City Fiscal of the City of Manila, Enlarging and Reorganizing Its Staff, and for Other Purposes, By Further Amending Republic Act Numbered Four Hundred Nine, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2008",
  "title": {
-  "zh": null,
+  "zh": "修订第807号共和国法（即将布基农省Maramag市镇布基农国立农业学校改设为国立农业学院、名为Mindanao Agricultural College之法）的法案",
   "en": "An Act to Amend Republic Act Numbered Eight Hundred Seven, Entitled “An Act to Convert the Bukidnon National Agricultural School in the Municipality of Maramag, Province of Bukidnon, to a National Agricultural College to be Known as the Mindanao Agricultural College”",
   "orig": "An Act to Amend Republic Act Numbered Eight Hundred Seven, Entitled “An Act to Convert the Bukidnon National Agricultural School in the Municipality of Maramag, Province of Bukidnon, to a National Agricultural College to be Known as the Mindanao Agricultural College”"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Eight Hundred Seven, Entitled “An Act to Convert the Bukidnon National Agricultural School in the Municipality of Maramag, Province of Bukidnon, to a National Agricultural College to be Known as the Mindanao Agricultural College”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

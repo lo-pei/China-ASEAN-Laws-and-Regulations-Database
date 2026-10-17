@@ -1,7 +1,7 @@
 {
  "id": "PH-H8397",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省巴科洛德市 Estefania 描笼涯的国立中学的 Ramonito P. Maravilla Sr. 分校分离，改设为独立的同名国立中学，并为此拨款",
   "en": "An Act Separating National High School – Ramonito P. Maravilla Sr. Extension in Barangay Estefania, City of Bacolod, Province of Negros Occidental from the Bata National High School, Converting it into an Independent National High School to Be Known as Ramonito P. Maravilla Sr. National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating National High School – Ramonito P. Maravilla Sr. Extension in Barangay Estefania, City of Bacolod, Province of Negros Occidental from the Bata National High School, Converting it into an Independent National High School to Be Known as Ramonito P. Maravilla Sr. National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating National High School – Ramonito P. Maravilla Sr. Extension in Barangay Estefania, City of Bacolod, Province of Negros Occidental from the Bata National High School, Converting it into an Independent National High School to Be Known as Ramonito P. Maravilla Sr. National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

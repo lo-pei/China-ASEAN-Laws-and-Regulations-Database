@@ -1,7 +1,7 @@
 {
  "id": "BN-S-46-2011-E-NOTIFICATION-OF-COMMENCEMENT",
  "title": {
-  "zh": null,
+  "zh": "生效公告",
   "en": "NOTIFICATION OF COMMENCEMENT",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 46\n\nANTI-TERRORISM ORDER, 2011 (S 45/2011)\n\nNOTIFICATION OF COMMENCEMENT In exercise of the power conferred by section 1(1) of the Anti-Terrorism Order, 2011, the Minister of Home Affairs, with the approval of His Majesty the Sultan and Yang Di-Pertuan, has appointed 18th. July, 2011 as the date on which that Order shall commence. Dated this 25th. day of Syaaban, 1432 Hijriah corresponding to the 27th. day of July, 2011.\n\nPEHIN UDANA KHATIB DATO PADUKA SERI SETIA USTAZ\n\nHAJI AWANG BADARUDDIN BIN PENGARAH DATO PADUKA\n\nHAJI OTHMAN, Minister of Home Affairs, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3061",
  "title": {
-  "zh": null,
+  "zh": "维持宗教和谐法 1990",
   "en": "Maintenance of Religious Harmony Act 1990",
   "orig": null
  },
@@ -742,5 +742,13 @@
     "en": "21.—(1) The Minister may, by order in the Gazette, exempt any class of persons from the operation of all or any of the provisions of Part 4* or the regulations made for the purpose of that Part.\n[*Updated to be consisted with the 2020 Revised Edition]\n(2) All orders made under this section must be presented to Parliament as soon as possible after publication in the Gazette.\n[Act 31 of 2019 wef 01/11/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Maintenance of Religious Harmony Act 1990",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

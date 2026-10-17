@@ -1,7 +1,7 @@
 {
  "id": "SG-H1321",
  "title": {
-  "zh": null,
+  "zh": "新加坡企业发展局（费用——代表处注册）条例 2025",
   "en": "Enterprise Singapore Board (Fees — Registration of Representative Office) Regulations 2025",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) A fee of $200 is payable for each of the following:\n(a)an application to register a representative office in Singapore pursuant to section 6(2)(f) of the Act;\n(b)an application to renew such registration.\n(2) The Board may waive, remit or refund, wholly or in part, any fee mentioned in paragraph (1)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Enterprise Singapore Board (Fees — Registration of Representative Office) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6495",
  "title": {
-  "zh": null,
+  "zh": "将保和省塔比拉兰市保和国立中学的名称变更为Dr. Cecilio Putong国立中学的法案",
   "en": "An Act Changing the Name of the Bohol National High School in Tagbilaran City, Province of Bohol, to Dr. Cecilio Putong National High School",
   "orig": "An Act Changing the Name of the Bohol National High School in Tagbilaran City, Province of Bohol, to Dr. Cecilio Putong National High School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Bohol National High School in Tagbilaran City, Province of Bohol, to Dr. Cecilio Putong National High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

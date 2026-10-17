@@ -1,7 +1,7 @@
 {
  "id": "PH-H7770",
  "title": {
-  "zh": null,
+  "zh": "在伊洛伊洛市增设市镇审判法院分庭，为此修订1980年《司法重组法》并为此拨款的法案",
   "en": "An act establishing additional branches of the Municipal Trial Court in the City of Iloilo, amending for the purpose the Judiciary Reorganization Act of 1980, and appropriating funds therefor",
   "orig": "An act establishing additional branches of the Municipal Trial Court in the City of Iloilo, amending for the purpose the Judiciary Reorganization Act of 1980, and appropriating funds therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act establishing additional branches of the Municipal Trial Court in the City of Iloilo, amending for the purpose the Judiciary Reorganization Act of 1980, and appropriating funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

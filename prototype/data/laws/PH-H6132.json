@@ -1,7 +1,7 @@
 {
  "id": "PH-H6132",
  "title": {
-  "zh": null,
+  "zh": "振兴并强化海关局，为此修订经修正的《菲律宾关税与海关法典》若干条的法案",
   "en": "An Act to Revitalize and Strengthen the Bureau of Customs, Amending for the Purpose Certain Sections of the Tariff and Customs Code of the Philippines, as Amended",
   "orig": "An Act to Revitalize and Strengthen the Bureau of Customs, Amending for the Purpose Certain Sections of the Tariff and Customs Code of the Philippines, as Amended"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity Clause. — This Act shall take effect after fifteen (15) days from the date of publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier.\nApproved, June 4, 1993."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Revitalize and Strengthen the Bureau of Customs, Amending for the Purpose Certain Sections of the Tariff and Customs Code of the Philippines, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

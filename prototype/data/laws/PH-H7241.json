@@ -1,7 +1,7 @@
 {
  "id": "PH-H7241",
  "title": {
-  "zh": null,
+  "zh": "将北阿古桑 Cabadbaran Calamba 描笼涯的卡兰巴附属校分离，改设为独立的卡兰巴 国立中学，并为此拨款",
   "en": "An Act Separating the Calamba Annex High School in Barangay Calamba, Cabadbaran, Agusan del Norte from the Agay National High School in Barangay Agay, RTR, Agusan Del Norte, and the Same is hereby converted into an Independent National High School to be known as the Calamba National High School and appropriating funds therefor",
   "orig": "An Act Separating the Calamba Annex High School in Barangay Calamba, Cabadbaran, Agusan del Norte from the Agay National High School in Barangay Agay, RTR, Agusan Del Norte, and the Same is hereby converted into an Independent National High School to be known as the Calamba National High School and appropriating funds therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Calamba Annex High School in Barangay Calamba, Cabadbaran, Agusan del Norte from the Agay National High School in Barangay Agay, RTR, Agusan Del Norte, and the Same is hereby converted into an Independent National High School to be known as the Calamba National High School and appropriating funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

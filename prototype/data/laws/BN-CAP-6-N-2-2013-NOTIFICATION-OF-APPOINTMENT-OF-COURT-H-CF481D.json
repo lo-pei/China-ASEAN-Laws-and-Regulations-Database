@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-6-N-2-2013-NOTIFICATION-OF-APPOINTMENT-OF-COURT-H-CF481D",
  "title": {
-  "zh": null,
+  "zh": "N 2 2013 版依第 4 条作出的法院址指定公告",
   "en": "N 2 2013 ED NOTIFICATION OF APPOINTMENT OF COURT HOUSE UNDER SECTION 4",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "SUBORDINATE COURTS ACT (CHAPTER 6)\n\nNOTIFICATION OF APPOINTMENT OF COURT HOUSE\n\nUNDER SECTION 4 GN 377/2006 GN 344/2008\n\nREVISED EDITION 2013\n\nLAWS OF BRUNEI Subordinate Courts CAP. 6, N 2 1 [Subsidiary]\n\nSUBSIDIARY LEGISLATION Notification of appointment of court house under section 4 His Majesty the Sultan and Yang Di-Pertuan has been graciously pleased to appoint the Law and Courts Building, Bandar Seri Begawan as a court house of the Court of a Magistrate and a Juvenile Court."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "N 2 2013 ED NOTIFICATION OF APPOINTMENT OF COURT HOUSE UNDER SECTION 4",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

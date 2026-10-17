@@ -1,7 +1,7 @@
 {
  "id": "SG-H388",
  "title": {
-  "zh": null,
+  "zh": "建筑维护与分层管理（管理法团终止——豁免）命令 2012",
   "en": "Building Maintenance and Strata Management (Termination of Management Corporation — Exemption) Order 2012",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. A management corporation for a strata title plan comprising a single proprietor shall be exempt from the requirement of a resolution by consensus in section 84(1) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Maintenance and Strata Management (Termination of Management Corporation — Exemption) Order 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-84-2006-E-UNIVERSITI-BRUNEI-DARUSSALAM-AMENDMENT-OF-308ECF",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰大学（附表修正）命令 2006",
   "en": "UNIVERSITI BRUNEI DARUSSALAM AMENDMENT OF SCHEDULE ORDER 2006",
   "orig": null
  },
@@ -63,5 +63,13 @@
     "en": "Section 15 of the Schedule to the U niversiti Brunei Darussalam Act, is amended in paragraph {e) of subsection 11), by deleting \"not more than five (5) persons\" and by substituting \"such number of persons as may be\" therefor. Made this 9th. day of Ramadan, 1427 Hijriah corresponding to the 2nd. day of October, 2006 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh AWANG MOHIDIN BIN HAJI DAUD, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "UNIVERSITI BRUNEI DARUSSALAM AMENDMENT OF SCHEDULE ORDER 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

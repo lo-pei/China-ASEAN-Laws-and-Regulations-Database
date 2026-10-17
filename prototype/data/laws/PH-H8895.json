@@ -1,7 +1,7 @@
 {
  "id": "PH-H8895",
  "title": {
-  "zh": null,
+  "zh": "将朗布隆省 Magdiwang 市镇 Agutay 描笼涯的 Magdiwang 国立中学附属校分离，改设为独立的 Agutay 国立中学，并为此拨款",
   "en": "An Act Separating the Magdiwang National High School - Agutay Annex in Barangay Agutay, Municipality of Magdiwang, Province of Romblon From the Magdiwang National High School, Converting It into an Independent National High School to be Known as Agutay National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Magdiwang National High School - Agutay Annex in Barangay Agutay, Municipality of Magdiwang, Province of Romblon From the Magdiwang National High School, Converting It into an Independent National High School to be Known as Agutay National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Magdiwang National High School - Agutay Annex in Barangay Agutay, Municipality of Magdiwang, Province of Romblon From the Magdiwang National High School, Converting It into an Independent National High School to be Known as Agutay National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2172",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发利息及其他付款豁免）（第 7 号）公告 2010",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 7) Notification 2010",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from tax the upfront fees and interest payable by BOC Aviation Pte. Ltd. to the following banks, under the Loan Agreements dated 25th August 2009 in respect of 2 Boeing 737-700 aircraft with Manufacturer’s Serial Numbers 37089 and 37090, respectively:\n(a)Bank of China Limited, Tokyo Branch;\n(b)Bank of China Limited, Macau Branch; and\n(c)Bank of China Limited, Sydney Branch.\n(2) The exemption is subject to the terms and conditions specified in the letter of approval dated 29th September 2009 addressed to BOC Aviation Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 7) Notification 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

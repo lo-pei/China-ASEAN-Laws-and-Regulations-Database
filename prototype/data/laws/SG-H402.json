@@ -1,7 +1,7 @@
 {
  "id": "SG-H402",
  "title": {
-  "zh": null,
+  "zh": "商业名称注册（对律师专业的适用）条例 2015",
   "en": "Business Names Registration (Application to Legal Profession) Regulations 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Section 4(1)(c) of the Act does not apply to —\n(a)an individual who is a sole proprietor of —\n(i)a law firm; or\n(ii)a foreign law practice that provides any legal services in Singapore; or\n(b)a firm of 2 or more individuals which is —\n(i)a law firm;\n(ii)a foreign law practice that provides any legal services in Singapore; or\n(iii)a Joint Law Venture.\n(2) In paragraph (1), “foreign law practice”, “Joint Law Venture” and “law firm” have the meanings given by section 2(1) of the Legal Profession Act 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Business Names Registration (Application to Legal Profession) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H794",
  "title": {
-  "zh": null,
+  "zh": "禁止与赛马及巴斯克回力球（Jai-alai）有关的特定活动并规定违规处罚的法案",
   "en": "An Act to Prohibit Certain Activities in Connection With Horse Races and Basque Pelota Games (Jai-alai), and to Prescribe Penalties for Its Violation",
   "orig": "An Act to Prohibit Certain Activities in Connection With Horse Races and Basque Pelota Games (Jai-alai), and to Prescribe Penalties for Its Violation"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect on January first, nineteen hundred and fifty-four.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Prohibit Certain Activities in Connection With Horse Races and Basque Pelota Games (Jai-alai), and to Prescribe Penalties for Its Violation",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

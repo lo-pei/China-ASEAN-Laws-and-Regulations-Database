@@ -1,7 +1,7 @@
 {
  "id": "SG-H1844",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 9 号）命令 2023",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 9) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nAll that part of the housing estate of the Board bounded by Tiong Bahru Road, Redhill Close and Redhill Lane, comprised in Lot number 03607A in Mukim 01 and on which Apartment Block 80 is erected, in Lot number 02276W in Mukim 01 and on which Apartment Blocks 81, 82 and 83 are erected, and in Lot number 02388N in Mukim 01 and on which Apartment Blocks 87 and 88 are erected, which blocks are marked with a grey dot in the Plan.\nTHE PLAN\nREDHILL LANE / REDHILL CLOSE"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 9) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

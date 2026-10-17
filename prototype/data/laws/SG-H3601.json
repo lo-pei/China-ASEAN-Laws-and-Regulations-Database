@@ -1,7 +1,7 @@
 {
  "id": "SG-H3601",
  "title": {
-  "zh": null,
+  "zh": "公共交通理事会法 1987",
   "en": "Public Transport Council Act 1987",
   "orig": null
  },
@@ -1237,5 +1237,13 @@
     "en": "THIRD SCHEDULE\nSections 49(1) and (2) and 72\nFare adjustment formula\n1. The fare adjustment formula is 0.5 cCPI + 0.4 WI + 0.1 EI − 0.1% + 1.1%, where —\n(a)for an approval mentioned in section 49(1) in 2025 —\n(i)cCPI is the change in Core Consumer Price Index between the first 18-month period and the second 18-month period;\n(ii)WI is the change in National Average Monthly Earnings between the first 18-month period and the second 18-month period, adjusted to account for any change in the employer’s Central Provident Fund contribution rate as specified in the Central Provident Fund Act 1953; and\n(iii)EI is the change in Energy Index for electricity and fuel between the first 18-month period and the second 18-month period; and\n[S 669/2025 wef 09/10/2025]\n(b)for an approval mentioned in section 49(1) in 2026 or any subsequent year —\n(i)cCPI is the change in Core Consumer Price Index between the relevant first 12-month period and the second 12-month period that is immediately before that first 12-month period;\n(ii)WI is the change in National Average Monthly Earnings between the relevant first 12-month period and the second 12-month period that is immediately before that first 12-month period, adjusted to account for any change in the employer’s Central Provident Fund contribution rate as specified in the Central Provident Fund Act 1953; and\n(iii)EI is the change in Energy Index for electricity and fuel between the relevant first 12-month period and the second 12-month period that is immediately before that first 12-month period.\n[S 669/2025 wef 09/10/2025]\n(c)[Deleted by S 669/2025 wef 09/10/2025]\n[S 669/2025 wef 09/10/2025]\n2. In this Schedule —\n“first 12-month period” means the period starting on 1 July of year N – 1 and ending on and including 30 June of year N;\n“first 18-month period” means the period starting on 1 January 2024 and ending on and including 30 June 2025;\n“second 12-month period” means the period starting on 1 July of year N – 2 and ending on and including 30 June of year N – 1;\n“second 18-month period” means the period starting on 1 January 2023 and ending on and including 30 June 2024;\n“year N” means the year in respect of which either or both the following occurs:\n(a)a new application for the Council’s approval under section 47 is made;\n(b)the Council undertakes a new review under section 48.\n[S 669/2025 wef 09/10/2025]\n[S 798/2022 wef 10/10/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Public Transport Council Act 1987",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

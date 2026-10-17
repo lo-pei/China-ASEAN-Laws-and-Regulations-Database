@@ -1,7 +1,7 @@
 {
  "id": "SG-H2721",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 6 号）命令 2020",
   "en": "Infrastructure Protection (Protected Places) (No. 6) Order 2020",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst Column\nSecond Column\nThe Authority\nProtected Place\nPlant Manager,\nSembcorp Cogen Pte Ltd\nSEMBCORP COGEN PTE LTD\nAll that area comprised in part of State Land Lots 01082V and 01081W (Part) in Mukim No. 34 occupied by “SEMBCORP COGEN PTE LTD” containing an area of about 32,411 square metres and bounded approximately as follows:\nCommencing at the north-easternmost corner at a point 26,394.208 metres North and 13,353.644 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n26,394.208\n13,353.644\n26,399.475\n13,372.133\n26,411.235\n13,403.908\n26,407.951\n13,412.913\n26,412.343\n13,424.881\n26,421.042\n13,430.581\n26,430.494\n13,456.302\n26,397.138\n13,468.624\n26,388.828\n13,474.086\n26,386.903\n13,474.785\n26,399.403\n13,508.591\n26,339.567\n13,530.681\n26,351.894\n13,564.076\n26,267.538\n13,595.218\n26,255.710\n13,563.051\n26,253.068\n13,555.802\n26,249.197\n13,545.467\n26,248.316\n13,542.977\n26,245.113\n13,534.185\n26,241.027\n13,523.019\n26,222.222\n13,471.965\n26,214.882\n13,451.934\n26,208.796\n13,435.641\n26,199.022\n13,409.360\nto the point of commencement.\nThe boundaries of “SEMBCORP COGEN PTE LTD” are more particularly delineated in the Survey Plan No. SCA2016‑51/GAZ set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 6) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

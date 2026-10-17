@@ -1,7 +1,7 @@
 {
  "id": "SG-H2135",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 2 号）公告 2003",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) (No. 2) Notification 2003",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be exempt from tax the following payments made by Singapore Aircraft Leasing Enterprise Pte. Ltd.:\n(a)interest payable from 9th May 2002 to 9th November 2013 (both dates inclusive) to Bluebell Leasing Limited under the Finance Lease Agreement dated 6th November 2001 in respect of 2 Boeing B737-800 aircraft with Manufacturer’s Serial Numbers 28070 and 28073; and\n(b)guaranteed obligations to Crédit Agricole Indosuez S.A., Tokyo branch, under the Guarantee dated 7th November 2001 in respect of the aircraft referred to in sub-paragraph (a)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) (No. 2) Notification 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

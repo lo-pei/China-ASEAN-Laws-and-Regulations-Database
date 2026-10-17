@@ -1,7 +1,7 @@
 {
  "id": "PH-H1087",
  "title": {
-  "zh": null,
+  "zh": "在特定条件下免除日占期间死亡的退伍军人、游击队员或日军暴行受害者遗产应缴遗产税与继承税的利息、罚款与附加费并为其他目的",
   "en": "An Act Condoning the Payment of Interest, Penalties and Surcharges on Estate and Inheritance Taxes Due from the Estate of Veterans, Guerrillas or Victims of Japanese Atrocities Who Died During the Japanese Occupation Subject to Certain Conditions and for Other Purposes",
   "orig": "An Act Condoning the Payment of Interest, Penalties and Surcharges on Estate and Inheritance Taxes Due from the Estate of Veterans, Guerrillas or Victims of Japanese Atrocities Who Died During the Japanese Occupation Subject to Certain Conditions and for Other Purposes"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 10, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Condoning the Payment of Interest, Penalties and Surcharges on Estate and Inheritance Taxes Due from the Estate of Veterans, Guerrillas or Victims of Japanese Atrocities Who Died During the Japanese Occupation Subject to Certain Conditions and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

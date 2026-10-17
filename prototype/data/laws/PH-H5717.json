@@ -1,7 +1,7 @@
 {
  "id": "PH-H5717",
  "title": {
-  "zh": null,
+  "zh": "批准 Globe Mackay 与 Clavecilla 两家无线电公司合并、移转特许权、延长其期限，并废止第 402 号共和国法若干条款的法案",
   "en": "An Act Approving the Merger Between Globe Mackay Cable and Radio Corporation and Clavecilla Radio System and the Consequent Transfer of the Franchise of Clavecilla Radio System Granted Under Republic Act No. 402, as Amended, to Globe Mackay Cable and Radio Corporation, Extending the Life of Said Franchise, and Repealing Certain Sections of Republic Act No. 402, as Amended",
   "orig": "An Act Approving the Merger Between Globe Mackay Cable and Radio Corporation and Clavecilla Radio System and the Consequent Transfer of the Franchise of Clavecilla Radio System Granted Under Republic Act No. 402, as Amended, to Globe Mackay Cable and Radio Corporation, Extending the Life of Said Franchise, and Repealing Certain Sections of Republic Act No. 402, as Amended"
  },
@@ -160,5 +160,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Approving the Merger Between Globe Mackay Cable and Radio Corporation and Clavecilla Radio System and the Consequent Transfer of the Franchise of Clavecilla Radio System Granted Under Republic Act No. 402, as Amended, to Globe Mackay Cable and Radio Corporation, Extending the Life of Said Franchise, and Repealing Certain Sections of Republic Act No. 402, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

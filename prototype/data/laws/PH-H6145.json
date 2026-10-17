@@ -1,7 +1,7 @@
 {
  "id": "PH-H6145",
  "title": {
-  "zh": null,
+  "zh": "设立奥罗拉州立技术学院并授权拨款的法案",
   "en": "An Act Establishing the Aurora State College of Technology and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Establishing the Aurora State College of Technology and Authorizing the Appropriation of Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "Board of Trustees. - The governing body of the State College shall be vested in a board of trustees to be known as the Board of Trustees of the Aurora State College of Technology. It shall be composed often (10) members, consisting of:\n(a) the Secretary of Education, Culture and Sports as ex officio Chairman of the Board;\n(b) the President of the State College as Vice Chairman;\n(c) the Chairman or a member of the Committee on Education in the Senate;\n(d) the Chairman or a member of the Committee on Education in the House of Representatives;\n(e) the President of the Alumni Association;\n(f) the President of the Faculty Association;\n(g) the Chairman of the Supreme Student Council;\n(h) the President of the Employees Association as ex officio member, and\n(i) two (2) prominent citizens from the local community who have distinguished themselves in their profession or field of specialization. Such prominent citizens shall be appointed by the Board of Trustees upon recommendation of the President of the State College. Of the first two (2) appointed, the Board of Trustees shall designate one to serve for three (3) years and the other for six (6) years.\nThe members of the Board of Trustees shall be citizens and residents of the Philippines. Except for the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the Aurora State College of Technology and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

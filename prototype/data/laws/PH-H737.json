@@ -1,7 +1,7 @@
 {
  "id": "PH-H737",
  "title": {
-  "zh": null,
+  "zh": "修订第466号联邦法第五编第一章第186条第一段（即《修订、修正并编纂菲律宾国内税收法律的法案》）的法案",
   "en": "An Act to Amend the First Paragraph of Section One Hundred and Eighty-six, Chapter One, Title V, of Commonwealth Act Numbered Four Hundred and Sixty-six, Entitled \"An Act to Revise, Amend and Codify the Internal Revenue Laws of the Philippines",
   "orig": "An Act to Amend the First Paragraph of Section One Hundred and Eighty-six, Chapter One, Title V, of Commonwealth Act Numbered Four Hundred and Sixty-six, Entitled \"An Act to Revise, Amend and Codify the Internal Revenue Laws of the Philippines"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend the First Paragraph of Section One Hundred and Eighty-six, Chapter One, Title V, of Commonwealth Act Numbered Four Hundred and Sixty-six, Entitled \"An Act to Revise, Amend and Codify the Internal Revenue Laws of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

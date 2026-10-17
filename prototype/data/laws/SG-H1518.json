@@ -1,7 +1,7 @@
 {
  "id": "SG-H1518",
  "title": {
-  "zh": null,
+  "zh": "电影（一般电影发行类别执照）命令 2021",
   "en": "Films (Class Licence for General Films Distribution) Order 2021",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. The condition of this class licence is that every class licensee must not distribute or allow to be distributed at any of the class licensee’s distribution outlets —\n(a)a video game; or\n(b)a film that is neither an appropriate film nor an exempt unclassified film."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Films (Class Licence for General Films Distribution) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

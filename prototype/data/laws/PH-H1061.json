@@ -1,7 +1,7 @@
 {
  "id": "PH-H1061",
  "title": {
-  "zh": null,
+  "zh": "增加伊洛伊洛市助理检察官人数并规定其薪金，为此进一步修订该市宪章第23条最后一款的法案",
   "en": "An Act Increasing the Number and Fixing the Salaries of Assistant Fiscals for the City of Iloilo, Further Amending for the Purpose the Last Paragraph of Section Twenty-Three of the Charter of Said City",
   "orig": "An Act Increasing the Number and Fixing the Salaries of Assistant Fiscals for the City of Iloilo, Further Amending for the Purpose the Last Paragraph of Section Twenty-Three of the Charter of Said City"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 31, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Number and Fixing the Salaries of Assistant Fiscals for the City of Iloilo, Further Amending for the Purpose the Last Paragraph of Section Twenty-Three of the Charter of Said City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

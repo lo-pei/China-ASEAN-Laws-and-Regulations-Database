@@ -1,7 +1,7 @@
 {
  "id": "PH-H3858",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第120号联邦法（经第2641号与第3043号共和国法修正）的法案",
   "en": "An Act to Further Amend Commonwealth Act Numbered One Hundred Twenty, as Amended by Republic Act Numbered Twenty-Six Hundred and Forty-One and Republic Act Numbered Thirty Hundred and Forty-Three",
   "orig": "An Act to Further Amend Commonwealth Act Numbered One Hundred Twenty, as Amended by Republic Act Numbered Twenty-Six Hundred and Forty-One and Republic Act Numbered Thirty Hundred and Forty-Three"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Commonwealth Act Numbered One Hundred Twenty, as Amended by Republic Act Numbered Twenty-Six Hundred and Forty-One and Republic Act Numbered Thirty Hundred and Forty-Three",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

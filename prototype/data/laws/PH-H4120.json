@@ -1,7 +1,7 @@
 {
  "id": "PH-H4120",
  "title": {
-  "zh": null,
+  "zh": "在朗布隆省设立Calatrava市镇区的法案",
   "en": "An Act Creating the Municipal District of Calatrava in the Province of Romblon",
   "orig": "An Act Creating the Municipal District of Calatrava in the Province of Romblon"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect on January first, nineteen hundred sixty-eight.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Municipal District of Calatrava in the Province of Romblon",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

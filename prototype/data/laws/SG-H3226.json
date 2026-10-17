@@ -1,7 +1,7 @@
 {
  "id": "SG-H3226",
  "title": {
-  "zh": null,
+  "zh": "杂项罪行（公共秩序与妨扰）（复合罪行）条例 2015",
   "en": "Miscellaneous Offences (Public Order and Nuisance) (Composition of Offences) Regulations 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. In accordance with section 243 of the Criminal Procedure Code (Cap. 68), a police officer of or above the rank of Assistant Superintendent of Police may compound any offence under section 14 of the Act by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Miscellaneous Offences (Public Order and Nuisance) (Composition of Offences) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

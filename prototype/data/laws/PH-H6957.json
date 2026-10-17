@@ -1,7 +1,7 @@
 {
  "id": "PH-H6957",
  "title": {
-  "zh": null,
+  "zh": "授予 Camiguin 电话合作社在 Camiguin 岛及东米萨米斯省部分地区建设、运营和维护本地交换网络的特许经营权法案",
   "en": "An Act Granting the Camiguin Telephone Cooperative a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in Camiguin Island, and in Some Areas of Misamis Oriental Particularly the Municipalities of Balingasag, Lagonglong, Salay, Binuangan, Kinoguitan, Sugbongcogon, Balingoan, Talisayan, Medina, Magsaysay, and Gingoog City",
   "orig": "An Act Granting the Camiguin Telephone Cooperative a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in Camiguin Island, and in Some Areas of Misamis Oriental Particularly the Municipalities of Balingasag, Lagonglong, Salay, Binuangan, Kinoguitan, Sugbongcogon, Balingoan, Talisayan, Medina, Magsaysay, and Gingoog City"
  },
@@ -241,5 +241,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation.\nApproved, February 10, 1998."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Camiguin Telephone Cooperative a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in Camiguin Island, and in Some Areas of Misamis Oriental Particularly the Municipalities of Balingasag, Lagonglong, Salay, Binuangan, Kinoguitan, Sugbongcogon, Balingoan, Talisayan, Medina, Magsaysay, and Gingoog City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

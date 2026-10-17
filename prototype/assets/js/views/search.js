@@ -72,7 +72,8 @@
       var res = type === 'treaty'
         ? CALR.search.runTreaties({ q: q, page: page, size: size, topic: arr(query.topic), status: arr(query.status) })
         : CALR.search.run({
-          q: q, mode: query.mode || 'keyword', page: page, size: size, sort: sort,
+          /* 空查询时强制走关键词模式：语义模式无检索词必然 0 条，会让用户误以为没有结果 */
+      q: q, mode: q ? (query.mode || 'keyword') : 'keyword', page: page, size: size, sort: sort,
           country: arr(query.country), level: arr(query.level), status: arr(query.status),
           topic: arr(query.topic), issuer: arr(query.issuer), lang: arr(query.lang),
           from: query.from || '', to: query.to || '', effFrom: query.effFrom || '', effTo: query.effTo || ''
@@ -91,6 +92,9 @@
               '<input class="searchbox__input" id="s-q" name="q" value="' + esc(q) + '" autocomplete="off" ' +
                 'placeholder="' + esc(t('输入名称、文号或关键词')) + '" aria-label="' + esc(t('检索')) + '">' +
               '<button class="btn" type="submit">' + esc(t('检索')) + '</button>' +
+              '<button class="btn btn--outline" id="adv-toggle" type="button" aria-expanded="false"' +
+                ' title="' + esc(t('展开更多筛选条件')) + '">' +
+                CALR.ui.icon('filter') + ' ' + esc(t('高级检索')) + '</button>' +
             '</div>' +
             '<div class="row" style="margin-top:12px">' +
               '<span class="mini muted">' + esc(t('类型')) + '</span>' +
@@ -141,6 +145,9 @@
                 '<a class="btn btn--outline btn--sm" href="#/systems">' + esc(t('法律体系对照')) + '</a>' +
               '</div>' +
             '</div>' +
+              '<div id="adv-panel" class="card card--pad" hidden style="margin-bottom:14px">' +
+                advPanel(type, query) +
+              '</div>' +
               '<div id="result-list">' + renderResults(type, res) + '</div>' +
             pager(page, totalPages, size) +
           '</div>' +
@@ -180,12 +187,56 @@
           go(next);
         });
       });
-      U().on(U().$('#f-apply', main), 'click', function () {
-        go({
-          from: U().$('#f-from', main).value, to: U().$('#f-to', main).value,
-          effFrom: U().$('#f-eff-from', main).value, effTo: U().$('#f-eff-to', main).value, page: 1
-        });
+      /* ---------------- 高级检索面板 ---------------- */
+      var advPanelEl = U().$('#adv-panel', main);
+      var advToggle = U().$('#adv-toggle', main);
+      function advOpen(open) {
+        if (!advPanelEl) return;
+        advPanelEl.hidden = !open;
+        if (advToggle) {
+          advToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+          advToggle.classList.toggle('is-active', open);
+        }
+      }
+      /* 仅当存在「高级检索面板专属」的条件时才默认展开；
+         检索方式（mode）属于顶部检索栏，不参与判断——否则切换检索方式会误触发面板展开。 */
+      var advActive = !!(arr(query.issuer).length || arr(query.lang).length ||
+        query.from || query.to || query.effFrom || query.effTo);
+      advOpen(advActive);
+
+      U().on(advToggle, 'click', function () { advOpen(advPanelEl ? advPanelEl.hidden : false); });
+      U().on(U().$('#adv-close', main), 'click', function () { advOpen(false); });
+
+      U().on(U().$('#adv-apply', main), 'click', function () {
+        function val(id) { var e = U().$(id, main); return e ? e.value : ''; }
+        var next = {
+          issuer: val('#adv-issuer'),
+          lang: val('#adv-lang'),
+          mode: val('#adv-mode') || 'keyword',
+          from: val('#adv-from'),
+          to: val('#adv-to'),
+          effFrom: val('#adv-eff-from'),
+          effTo: val('#adv-eff-to'),
+          page: 1
+        };
+        /* 日期区间做一次顺序校验，避免 from > to 时静默返回空结果 */
+        function badRange(a, b) { return a && b && a > b; }
+        if (badRange(next.from, next.to) || badRange(next.effFrom, next.effTo)) {
+          U().toast(t('日期区间的起始日期不能晚于结束日期'), 'warn');
+          return;
+        }
+        go(next);
       });
+
+      U().on(U().$('#adv-clear', main), 'click', function () {
+        /* 只清高级条件，保留检索词、类型与侧栏筛选 */
+        var keep = { type: type, q: q, page: 1, mode: 'keyword' };
+        ['country', 'level', 'status', 'topic', 'sort', 'size'].forEach(function (k) {
+          if (query[k]) keep[k] = query[k];
+        });
+        CALR.router.go(CALR.router.buildUrl('/search', keep));
+      });
+
       U().on(U().$('#f-clear', main), 'click', function () {
         CALR.router.go(CALR.router.buildUrl('/search', { type: type, q: q }));
       });
@@ -250,7 +301,82 @@
       }).join('') + '</div></div>';
   }
 
-  /* 筛选条件与检索能力一致：全部条件平铺展示，不另设「高级检索」入口 */
+  /**
+   * 高级检索面板：承载侧栏之外的精细条件。
+   * 与侧栏的国别/主题/层级/时效互补，填完点「应用」才提交。
+   */
+  function advPanel(type, query) {
+    if (type !== 'law') {
+      return '<p class="mini muted" style="margin:0">' + esc(t('当前类型暂无可用的高级条件（条约类型受主题、状态两项即可满足）。')) + '</p>';
+    }
+    /* 制定机关：全量列出（按出现次数降序），便于按发文机关精确检索 */
+    var pool = {};
+    S().laws().forEach(function (l) {
+      var n = tr(l.issuingBody);
+      if (n) pool[n] = (pool[n] || 0) + 1;
+    });
+    var issuerList = Object.keys(pool).sort(function (a, b) { return pool[b] - pool[a]; });
+    var curIssuer = arr(query.issuer)[0] || '';
+    var curLang = arr(query.lang)[0] || '';
+
+    var out = '<div class="row" style="gap:12px;flex-wrap:wrap;align-items:flex-end">';
+
+    /* 制定机关 */
+    out += '<label class="small" style="flex:2 1 260px;min-width:220px">' + esc(t('制定机关')) +
+      '<select class="select" id="adv-issuer" style="width:100%;margin-top:4px">' +
+        '<option value="">' + esc(t('不限')) + '</option>' +
+        issuerList.map(function (n) {
+          return '<option value="' + U().attr(n) + '"' + (n === curIssuer ? ' selected' : '') + '>' +
+            esc(issuerLabel(n)) + '（' + pool[n] + '）</option>';
+        }).join('') +
+      '</select></label>';
+
+    /* 语种 */
+    out += '<label class="small" style="flex:1 1 180px;min-width:160px">' + esc(t('语言')) +
+      '<select class="select" id="adv-lang" style="width:100%;margin-top:4px">' +
+        '<option value="">' + esc(t('不限')) + '</option>' +
+        S().languages().map(function (l) {
+          return '<option value="' + U().attr(l.code) + '"' + (l.code === curLang ? ' selected' : '') + '>' +
+            esc(l.nativeName) + '</option>';
+        }).join('') +
+      '</select></label>';
+
+    /* 检索方式 */
+    out += '<label class="small" style="flex:1 1 180px;min-width:160px">' + esc(t('检索方式')) +
+      '<select class="select" id="adv-mode" style="width:100%;margin-top:4px">' +
+        ['keyword', 'exact', 'semantic'].map(function (m) {
+          return '<option value="' + m + '"' + ((query.mode || 'keyword') === m ? ' selected' : '') + '>' +
+            esc({ keyword: t('关键词检索'), exact: t('精确编号检索'), semantic: t('语义检索') }[m]) + '</option>';
+        }).join('') +
+      '</select></label>';
+
+    out += '</div>';
+
+    /* 日期区间 */
+    out += '<div class="row" style="gap:12px;flex-wrap:wrap;margin-top:12px;align-items:flex-end">';
+    out += '<label class="small" style="flex:1 1 260px;min-width:220px">' + esc(t('公布日期')) +
+      '<div class="row" style="gap:6px;margin-top:4px">' +
+        '<input type="date" class="input" id="adv-from" value="' + U().attr(query.from || '') + '" style="flex:1;min-width:0">' +
+        '<span class="mini muted">—</span>' +
+        '<input type="date" class="input" id="adv-to" value="' + U().attr(query.to || '') + '" style="flex:1;min-width:0">' +
+      '</div></label>';
+    out += '<label class="small" style="flex:1 1 260px;min-width:220px">' + esc(t('施行日期')) +
+      '<div class="row" style="gap:6px;margin-top:4px">' +
+        '<input type="date" class="input" id="adv-eff-from" value="' + U().attr(query.effFrom || '') + '" style="flex:1;min-width:0">' +
+        '<span class="mini muted">—</span>' +
+        '<input type="date" class="input" id="adv-eff-to" value="' + U().attr(query.effTo || '') + '" style="flex:1;min-width:0">' +
+      '</div></label>';
+    out += '</div>';
+
+    out += '<div class="row" style="margin-top:12px">' +
+      '<button class="btn btn--sm" id="adv-apply" type="button">' + esc(t('应用条件')) + '</button>' +
+      '<button class="btn btn--ghost btn--sm" id="adv-clear" type="button">' + esc(t('清空高级条件')) + '</button>' +
+      '<button class="btn btn--ghost btn--sm" id="adv-close" type="button">' + esc(t('收起')) + '</button>' +
+      '</div>';
+    return out;
+  }
+
+  /* 侧栏：国别 / 主题 / 层级 / 时效（高频四项），精细条件见 advPanel */
   function filterPanel(type, query) {
     var out = '';
 
@@ -277,31 +403,11 @@
       out += group(t('时效性'), 'status', S().statuses().map(function (s) {
         return { v: s.id, label: tr(s.name), count: undefined };
       }), query);
-      out += group(t('制定机关'), 'issuer', issuers.map(function (n) { return { v: n, label: issuerLabel(n), count: issuerPool[n] }; }), query);
-      out += group(t('语言'), 'lang', S().languages().map(function (l) {
-        return { v: l.code, label: l.nativeName, count: undefined };
-      }), query);
-
-      out += '<div class="filter-group">' +
-          '<div class="filter-group__title">' + esc(t('公布日期')) + '</div>' +
-          '<div class="row" style="gap:6px">' +
-            '<input type="date" class="input" id="f-from" value="' + esc(query.from || '') + '" style="flex:1;min-width:0">' +
-            '<span class="mini muted">—</span>' +
-            '<input type="date" class="input" id="f-to" value="' + esc(query.to || '') + '" style="flex:1;min-width:0">' +
-          '</div>' +
-        '</div>' +
-        '<div class="filter-group">' +
-          '<div class="filter-group__title">' + esc(t('施行日期')) + '</div>' +
-          '<div class="row" style="gap:6px">' +
-            '<input type="date" class="input" id="f-eff-from" value="' + esc(query.effFrom || '') + '" style="flex:1;min-width:0">' +
-            '<span class="mini muted">—</span>' +
-            '<input type="date" class="input" id="f-eff-to" value="' + esc(query.effTo || '') + '" style="flex:1;min-width:0">' +
-          '</div>' +
-        '</div>' +
-        '<div class="row" style="margin-top:8px">' +
-          '<button class="btn btn--outline btn--sm" id="f-apply" type="button">' + esc(t('应用条件')) + '</button>' +
-          '<button class="btn btn--ghost btn--sm" id="f-clear" type="button">' + esc(t('重置筛选')) + '</button>' +
-        '</div>';
+      /* 制定机关 / 语言 / 公布日期 / 施行日期 已移入页面右侧的「高级检索」面板，
+         侧栏只保留高频的国别、主题、层级、时效四组，避免两处重复与滚动过长。 */
+      out += '<div class="row" style="margin-top:8px">' +
+        '<button class="btn btn--ghost btn--sm" id="f-clear" type="button">' + esc(t('重置筛选')) + '</button>' +
+      '</div>';
     } else {
       out += group(t('主题'), 'topic', S().topics().map(function (tp) {
         return { v: tp.id, label: tr(tp.name), count: undefined };

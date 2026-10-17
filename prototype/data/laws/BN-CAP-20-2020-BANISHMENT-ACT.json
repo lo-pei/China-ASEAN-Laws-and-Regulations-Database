@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-20-2020-BANISHMENT-ACT",
  "title": {
-  "zh": null,
+  "zh": "流放法",
   "en": "BANISHMENT ACT",
   "orig": null
  },
@@ -137,5 +137,13 @@
     "en": "(1) No action shall be brought against any person for anything done or intended to be done in the exercise or supposed exercise of powers\n\n(a) without giving to such person one month’s previous notice in writing of the intended action and of the cause thereof;\n\n(b) after the expiration of 3 months from the date of the accrual of the cause of action; and\n\n(c) after tender of sufficient amends.\n\n(2) In every action so brought it is expressly alleged that the defendant acted either maliciously or negligently and without reasonable or probable cause, and if at the trial the plaintiff fails to prove such allegation, judgment shall be given for the defendant.\n\n(3) Although judgment is given for the plaintiff in such action, the plaintiff shall not have costs against the defendant unless the court before whom such action is tried certifies its approbation of the action. (section 2(1)) Brunei Darussalam BANISHMENT ACT (CHAPTER 20) To the Commissioner of Police and all other police officers of Brunei Darussalam Whereas it has been made to appear to me by written information that there is reasonable cause for believing that the banishment from Brunei Darussalam is necessary for the safety, peace and welfare of Brunei Darussalam. This is to direct you the Commissioner of Police and all other police officers to arrest ......................................................... and bring him before me with all convenient speed. Given under my hand this ............... day of ........................., 20 ....... Minister, Brunei Darussalam (section 2(4))\n\nORDER OF BANISHMENT Brunei Darussalam BANISHMENT ACT (CHAPTER 20) Whereas on the .............. day of ............., 20 ......., a Warrant was issued by Minister for the arrest of ................... on the ground that there is reasonable cause for believing that the banishment from Brunei Darussalam of .............................. is necessary for the safety, peace and welfare of Brunei Darussalam. Now it is hereby ordered by His Majesty the Sultan and Yang Di-Pertuan in Council that ..................... be, and he is hereby, banished from Brunei Darussalam for the period of .............................. provided that the order of banishment shall not be carried into effect until the expiry of 21 days from this date. Given under my hand this ................ day of ........................, 20 ....... Minister, Brunei Darussalam"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BANISHMENT ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

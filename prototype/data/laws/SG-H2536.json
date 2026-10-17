@@ -1,7 +1,7 @@
 {
  "id": "SG-H2536",
  "title": {
-  "zh": null,
+  "zh": "所得税（飞机包机付款预扣税的替代税率）规则 2018",
   "en": "Income Tax (Substituted Rate for Withholding of Tax for Aircraft Charter Payments) Rules 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The rate for the deduction of tax in section 45(1)(a)(iii) of the Act (as applied by section 45A(1) of the Act) is substituted with 2% for a person making a payment, under any agreement or arrangement for the charter of any aircraft, to another person not known to the first person to be resident in Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Substituted Rate for Withholding of Tax for Aircraft Charter Payments) Rules 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

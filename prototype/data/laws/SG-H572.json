@@ -1,7 +1,7 @@
 {
  "id": "SG-H572",
  "title": {
-  "zh": null,
+  "zh": "慈善（慈善机构注册）条例",
   "en": "Charities (Registration of Charities) Regulations",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7.—(1) Any application for registration as a charity made before 1st May 2007, which was not approved before that date, shall be deemed to be an application for registration as a charity made under these Regulations.\n(2) An institution that was registered as a charity immediately before 1st May 2007 shall continue to be deemed to be registered until 30th April 2008, notwithstanding that the institution does not comply with the conditions under regulation 3, but subject to paragraph (3).\n(3) Paragraph (2) shall not affect —\n(a)the powers of a Sector Administrator, from 1st May 2007, to remove any institution from the register of charities under regulation 6; or\n(b)any other power of a Sector Administrator under these Regulations or under any written law."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Charities (Registration of Charities) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

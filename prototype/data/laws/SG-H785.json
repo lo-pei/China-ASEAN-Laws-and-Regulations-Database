@@ -1,7 +1,7 @@
 {
  "id": "SG-H785",
  "title": {
-  "zh": null,
+  "zh": "公司（简要财务报表）条例",
   "en": "Companies (Summary Financial Statement) Regulations",
   "orig": null
  },
@@ -149,5 +149,11 @@
     "en": "SECOND SCHEDULE\nRegulation 7\nAdditional documents and information\n1. A summary of the significant related party dealings as disclosed in the notes to the full financial statements and report.\n2. In the case of a listed company —\n(a)a statement by the chairman of the board of directors of the company setting out —\n(i)whether there is any material change in any of the following for the period covered by the summary financial statement:\n(A)group structure;\n(B)accounting policies;\n(C)asset values;\n(D)financial position (such as whether there has been any issue of new shares or capital reduction);\n(E)operating environment that affects business prospects;\n(ii)whether the company has made any material acquisition and disposal in the period covered by the summary financial statement; and\n(iii)a review of the business of the company for the period covered by the summary financial statement and future developments of the company; and\n(b)a list of shareholdings of substantial shareholders.\n[S 836/2015 wef 03/01/2016]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Companies (Summary Financial Statement) Regulations",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

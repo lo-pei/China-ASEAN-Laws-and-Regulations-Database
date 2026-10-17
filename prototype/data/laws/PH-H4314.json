@@ -1,7 +1,7 @@
 {
  "id": "PH-H4314",
  "title": {
-  "zh": null,
+  "zh": "规定外国人实施任何不公平劳动行为即构成驱逐出境的理由，为此修订第875号共和国法第5条（C）项（关于《劳工大宪章》）的法案",
   "en": "An Act Providing That Any Unfair Labor Practice Engaged in By An Alien Shall Be a Ground for His Deportation, By Amending Subsection (C), Section Five of Republic Act Numbered 'eight Hundred and Seventy-Five (Re Magna Carta of Labor)",
   "orig": "An Act Providing That Any Unfair Labor Practice Engaged in By An Alien Shall Be a Ground for His Deportation, By Amending Subsection (C), Section Five of Republic Act Numbered 'eight Hundred and Seventy-Five (Re Magna Carta of Labor)"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing That Any Unfair Labor Practice Engaged in By An Alien Shall Be a Ground for His Deportation, By Amending Subsection (C), Section Five of Republic Act Numbered 'eight Hundred and Seventy-Five (Re Magna Carta of Labor)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

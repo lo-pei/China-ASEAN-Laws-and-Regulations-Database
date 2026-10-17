@@ -1,7 +1,7 @@
 {
  "id": "SG-H1437",
  "title": {
-  "zh": null,
+  "zh": "执行共管公寓住房计划（资格）条例 1996",
   "en": "Executive Condominium Housing Scheme (Eligibility) Regulations 1996",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Any person who satisfies the following conditions is eligible to purchase a housing accommodation under the executive condominium scheme prior to the expiry of the minimum occupation period:\n(a)he or she is a Singapore citizen or, in the case of a joint‑application to purchase the housing accommodation with a Singapore citizen, he or she is a Singapore citizen or a permanent resident, and at least one of the intended occupiers of the housing accommodation is a Singapore citizen or permanent resident;\n(b)he or she is part of a nucleus family which must occupy the housing accommodation;\n(c)the total gross monthly income of all the persons constituting the nucleus family, as at the date of making the application to purchase the housing accommodation, does not exceed $16,000;\n(d)he or she has not entered into any agreement for the sale and purchase of any housing accommodation under the executive condominium housing scheme or any public housing accommodation; and\n(e)he or she satisfies or complies with the terms and conditions contained in the application to purchase the housing accommodation issued by the developer."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Executive Condominium Housing Scheme (Eligibility) Regulations 1996",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

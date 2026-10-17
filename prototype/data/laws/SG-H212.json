@@ -1,7 +1,7 @@
 {
  "id": "SG-H212",
  "title": {
-  "zh": null,
+  "zh": "加注认证法 2020",
   "en": "Apostille Act 2020",
   "orig": null
  },
@@ -378,5 +378,13 @@
     "en": "SECOND SCHEDULE\nSections 15 and 19\nCompetent authorities for certifying\nSingapore public documents\nFirst column\nSecond column\nAuthority\nDocuments that\nauthority may certify\n1.Singapore Academy of Law\nAny Singapore public document"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Apostille Act 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

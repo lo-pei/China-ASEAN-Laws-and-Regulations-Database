@@ -1,7 +1,7 @@
 {
  "id": "SG-H560",
  "title": {
-  "zh": null,
+  "zh": "慈善（行业指定）公告 2012",
   "en": "Charities (Designation of Sectors) Notification 2012",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nDesignation of sectors\nFirst column\nSecond column\n1.Ministry of Education\n(a)Any educational institution not operated or conducted for profit, or a public fund for the establishment, maintenance, enlargement or improvement of such an educational institution.\n(b)Any university, or a public fund for the establishment, maintenance, enlargement or improvement of a university.\n(c)Any public or private fund for the provision, establishment or endowment of a scholarship, an exhibition or a prize in a university, or an educational institution not operated or conducted for profit.\n(d)Any organisation not operated or conducted for profit the objects of which are exclusively or primarily for the advancement of education.\n2.Ministry of Health\n(a)Any hospital not operated or conducted for profit.\n(b)Any public authority or society not operated or conducted for profit and which is engaged in research or other work connected with the causes, prevention or cure of disease in human beings.\n(c)Any organisation not operated or conducted for profit the objects of which are exclusively or primarily for the promotion of health.\n3.Ministry of Social and Family Development\n(a)Any public fund established and maintained for the relief of distress among members of the public.\n(b)Any organisation not operated or conducted for profit the objects of which are exclusively or primarily for the relief of those in need by reason of youth, age, ill-health, disability, financial hardship or other disadvantages.\n4.People’s Association\n(a)Any organisation not operated or conducted for profit the objects of which are exclusively or primarily for the advancement of citizenship or community bonding and strengthening of social cohesion.\n5.Singapore Sports Council\n(a)Any organisation not operated or conducted for profit the objects of which are exclusively or primarily for the advancement of sports or connected with the promotion of sports."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Charities (Designation of Sectors) Notification 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

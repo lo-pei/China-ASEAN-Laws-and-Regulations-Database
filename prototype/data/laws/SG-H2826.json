@@ -1,7 +1,7 @@
 {
  "id": "SG-H2826",
  "title": {
-  "zh": null,
+  "zh": "保险（过渡与保留规定）条例 2003",
   "en": "Insurance (Transitional and Savings Provisions) Regulations 2003",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. All directions in relation to direct general insurance brokers issued under the Insurance Act which are in force immediately before 1st January 2004 shall be deemed to have been issued to direct insurance brokers and shall have effect accordingly."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insurance (Transitional and Savings Provisions) Regulations 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

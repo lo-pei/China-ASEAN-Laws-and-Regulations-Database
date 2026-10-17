@@ -1,7 +1,7 @@
 {
  "id": "SG-H3300",
  "title": {
-  "zh": null,
+  "zh": "国家学生军团条例",
   "en": "National Cadet Corps Regulations",
   "orig": null
  },
@@ -454,5 +454,13 @@
     "en": "32. Where a member of the Corps suffers any injury arising out of or in the execution of his duty and which is attributable solely to the discharge of his duty and incurs medical or hospital expenses as a result of the injury, the Board may make a recommendation as to the payment of a sum of money to compensate the member for the expenses incurred in addition to any other award of compensation recommended by the Board."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "National Cadet Corps Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

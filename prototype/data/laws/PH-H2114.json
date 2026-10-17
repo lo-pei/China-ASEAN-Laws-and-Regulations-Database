@@ -1,7 +1,7 @@
 {
  "id": "PH-H2114",
  "title": {
-  "zh": null,
+  "zh": "1959 年医疗法",
   "en": "The Medical Act of 1959",
   "orig": "The Medical Act of 1959"
  },
@@ -450,5 +450,13 @@
     "en": "Effectivity. This Act shall take effect upon its approval: Provided , That if it is approved during the time when examinations for physicians are held, it shall take effect immediately after the said examinations: Provided, further , That section six of this Act shall take effect at the beginning of the academic year nineteen hundred sixty to nineteen hundred sixty-one, and the first paragraph of section seven shall take effect four years thereafter.\nApproved: June 20, 1959"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Medical Act of 1959",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2660",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 12 号）命令 2023",
   "en": "Infrastructure Protection (Protected Places) (No. 12) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nHead,\nSingapore Boys’ Home\nSINGAPORE BOYS’ HOME\nAll that area comprised in part of Lots 01502T, 01511C and 02115V in Mukim No. 9 occupied by “SINGAPORE BOYS’ HOME” containing an area of about 15,717.004 square metres and bounded approximately as follows:\nCommencing at the north‑easternmost corner of “SINGAPORE BOYS’ HOME” at a point 37,653.892 metres North and 13,148.559 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n37,653.892\n13,148.559\n37,610.738\n13,196.761\n37,597.207\n13,184.569\n37,596.446\n13,184.041\n37,595.391\n13,183.656\n37,594.358\n13,183.701\n37,593.016\n13,184.232\n37,592.241\n13,184.872\n37,543.062\n13,239.428\n37,536.295\n13,246.938\n37,523.191\n13,261.490\n37,511.678\n13,274.273\n37,508.219\n13,278.114\n37,502.266\n13,273.563\n37,497.711\n13,269.962\n37,482.737\n13,258.313\n37,475.691\n13,252.778\n37,468.645\n13,247.331\n37,434.903\n13,220.962\n37,381.939\n13,179.598\n37,370.602\n13,170.746\n37,353.969\n13,157.702\n37,359.563\n13,150.703\n37,364.788\n13,144.156\n37,370.322\n13,136.851\n37,374.599\n13,131.215\n37,378.097\n13,126.595\n37,379.868\n13,124.166\n37,385.402\n13,116.396\n37,393.892\n13,104.223\n37,400.673\n13,094.202\n37,407.362\n13,084.135\n37,419.460\n13,065.364\n37,421.414\n13,065.827\n37,425.470\n13,063.559\n37,429.634\n13,061.494\n37,433.894\n13,059.636\n37,438.241\n13,057.991\n37,442.663\n13,056.562\n37,447.151\n13,055.352\n37,451.693\n13,054.365\n37,456.277\n13,053.603\n37,460.894\n13,053.068\n37,465.532\n13,052.761\n37,470.179\n13,052.683\n37,474.824\n13,052.833\n37,479.456\n13,053.213\n37,484.064\n13,053.820\n37,488.636\n13,054.654\n37,493.162\n13,055.712\n37,498.578\n13,057.232\n37,503.931\n13,058.963\n37,509.213\n13,060.900\n37,514.416\n13,063.041\n37,519.531\n13,065.383\n37,524.552\n13,067.923\n37,529.469\n13,070.655\n37,534.277\n13,073.577\n37,538.968\n13,076.684\n37,543.534\n13,079.970\n37,594.256\n13,117.980\n37,602.639\n13,123.857\n37,611.261\n13,129.064\n37,620.248\n13,133.659\n37,629.452\n13,137.711\n37,638.624\n13,140.985\n37,645.254\n13,142.911\n37,648.725\n13,143.872\nto the point of commencement.\nThe boundaries of “SINGAPORE BOYS’ HOME” are more particularly delineated in the As‑Built Survey Plan based on SVY21 coordinates set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 12) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

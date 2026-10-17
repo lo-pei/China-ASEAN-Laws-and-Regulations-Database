@@ -1,7 +1,7 @@
 {
  "id": "PH-H2717",
  "title": {
-  "zh": null,
+  "zh": "授予 Javelosa Brothers Company 在伊洛伊洛市 Mandurriao 建设、运营和维护制冰厂并在该市及伊洛伊洛省售冰的特许经营权法案",
   "en": "An Act Granting the Javelosa Brothers Company a Franchise to Construct, Operate and Maintain an Ice Plant in Mandurriao, Iloilo City, and to Sell Ice in Said City and in the Province of Iloilo",
   "orig": "An Act Granting the Javelosa Brothers Company a Franchise to Construct, Operate and Maintain an Ice Plant in Mandurriao, Iloilo City, and to Sell Ice in Said City and in the Province of Iloilo"
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Javelosa Brothers Company a Franchise to Construct, Operate and Maintain an Ice Plant in Mandurriao, Iloilo City, and to Sell Ice in Said City and in the Province of Iloilo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

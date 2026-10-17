@@ -1,7 +1,7 @@
 {
  "id": "PH-H1335",
  "title": {
-  "zh": null,
+  "zh": "授予Naic Electric Company在甲米地省Naic市镇电灯、热力与动力系统特许经营权的法案",
   "en": "An Act Granting the Naic Electric Company a Franchise for an Electric Light, Heat and Power System in the Municipality of Naic, Province of Cavite",
   "orig": "An Act Granting the Naic Electric Company a Franchise for an Electric Light, Heat and Power System in the Municipality of Naic, Province of Cavite"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Naic Electric Company a Franchise for an Electric Light, Heat and Power System in the Municipality of Naic, Province of Cavite",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

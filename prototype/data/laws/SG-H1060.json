@@ -1,7 +1,7 @@
 {
  "id": "SG-H1060",
  "title": {
-  "zh": null,
+  "zh": "海关（机动车特别税）条例",
   "en": "Customs (Motor Vehicles Special Tax) Regulations",
   "orig": null
  },
@@ -188,5 +188,13 @@
     "en": "SECOND SCHEDULE\nRegulation 9(4) and (5)\nSet-off of overpayment\nDescription of amount against which overpayment to be set off\nWhen amount described is treated as accruing due for purposes of regulation 9\n1.Tax chargeable under section 11(1)(b) of the Road Traffic Act (Cap. 276) in respect of the motor vehicle for any period\nThe day an application for a vehicle licence for the motor vehicle is made for the period\n2.Any transfer fee for the transfer of registration of the motor vehicle, other than a temporary transfer of registration under rule 25(4) or 26(1) of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (Cap. 276, R 5)\nThe day the application for the transfer is made\n3.Any late application fee under rule 2 of the Road Traffic (Motor Vehicles, Licensing of Vehicles — Late Application Fees) Rules (Cap. 276, R 6), that remains outstanding immediately before the de-registration of the motor vehicle\nThe day of the de-registration\n[S 449/2019 wef 23/06/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Customs (Motor Vehicles Special Tax) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

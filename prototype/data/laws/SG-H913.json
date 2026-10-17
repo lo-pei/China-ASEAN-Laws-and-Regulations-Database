@@ -1,7 +1,7 @@
 {
  "id": "SG-H913",
  "title": {
-  "zh": null,
+  "zh": "刑事司法改革（保留与过渡条款）条例 2025",
   "en": "Criminal Justice Reform (Saving and Transitional Provisions) Regulations 2025",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 270(1) of the Criminal Procedure Code 2010 does not prevent any opinion of a psychiatrist on any matter concerning psychiatry (when given as the opinion of an expert) from being admissible as evidence in a criminal proceeding, if —\n(a)the opinion is adduced in evidence within 2 months after 31 December 2025;\n(b)the opinion is adduced in evidence in a case where —\n(i)the psychiatrist’s application for appointment as a member of the panel of psychiatrists established for the purposes of section 270 of the Code (called in this regulation the Panel) was submitted within 2 months after 31 December 2025; and\n(ii)any of the following circumstances applies:\n(A)the application mentioned in sub‑paragraph (i) is pending;\n(B)the period for filing an appeal against the Selection Committee’s decision (on the application mentioned in sub‑paragraph (i)) not to appoint the psychiatrist as a member of the Panel has not expired;\n(C)an appeal mentioned in sub‑paragraph (B) is pending;\n(D)an application for an extension of time to file an appeal mentioned in sub‑paragraph (B) is pending;\n(E)an extension of time mentioned in sub‑paragraph (D) has been granted and has not lapsed; or\n(c)the psychiatrist’s treatment or assessment of the person whose psychiatric condition is to be assessed by the expert in the opinion had started before 31 December 2025."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Justice Reform (Saving and Transitional Provisions) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1887",
  "title": {
-  "zh": null,
+  "zh": "移民（第 36（1）条豁免）命令 2022",
   "en": "Immigration (Exemption from Section 36(1)) Order 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to sub-paragraph (2), section 36(1) of the Act does not apply to a person who is removed from or otherwise lawfully sent out of Singapore after being informed under section 24(2), 25(2), 25A(2) or 26(3) of the Act that the person is prohibited from entering Singapore.\n(2) Sub-paragraph (1) does not apply to a person who is removed from or otherwise lawfully sent out of Singapore for any other reason at any time before, during or after the application of section 24(2), 25(2), 25A(2) or 26(3) of the Act to the person.\n[S 1046/2024 wef 31/12/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Immigration (Exemption from Section 36(1)) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

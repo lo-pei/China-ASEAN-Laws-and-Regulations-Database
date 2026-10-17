@@ -1,7 +1,7 @@
 {
  "id": "PH-H5133",
  "title": {
-  "zh": null,
+  "zh": "将地方选举由 1987 年 11 月 9 日改期至 1988 年 1 月 18 日并为此修订第 270 号行政命令的法案",
   "en": "An Act Resetting the Local Elections From November 9, 1987 to January 18, 1988, Amending for This Purpose Executive Order Numbered Two Hundred and Seventy",
   "orig": "An Act Resetting the Local Elections From November 9, 1987 to January 18, 1988, Amending for This Purpose Executive Order Numbered Two Hundred and Seventy"
  },
@@ -140,5 +140,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its approval.\nApproved: November 6, 1987."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Resetting the Local Elections From November 9, 1987 to January 18, 1988, Amending for This Purpose Executive Order Numbered Two Hundred and Seventy",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

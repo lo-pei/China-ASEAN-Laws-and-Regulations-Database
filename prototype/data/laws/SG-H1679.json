@@ -1,7 +1,7 @@
 {
  "id": "SG-H1679",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（第3类武器——豁免）命令 2025",
   "en": "Guns, Explosives and Weapons Control (Type 3 Weapons — Exemption) Order 2025",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9.—(1) This Order does not extend to a passenger or crew member, or the master, of a ship that departs, on or after 1 July 2025, from Singapore waters on a voyage where —\n(a)the passenger, crew member or master (as the case may be) entered Singapore on board the same ship; and\n(b)that ship arrived in Singapore waters from a place outside Singapore on or after the 30th day before the date the ship departs, and for this purpose, any such arrival before 1 July 2025 is reckonable.\n(2) In sub‑paragraph (1), “crew member”, “master”, “passenger”, “Singapore waters”, “ship” and “voyage” have the meanings given by the Guns, Explosives and Weapons Control (Maritime Industry — Exemption) Order 2025 (G.N. No. S 373/2025).\n(3) This Order also does not extend to exempt an individual who is or is found or declared to be of unsound mind."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Guns, Explosives and Weapons Control (Type 3 Weapons — Exemption) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

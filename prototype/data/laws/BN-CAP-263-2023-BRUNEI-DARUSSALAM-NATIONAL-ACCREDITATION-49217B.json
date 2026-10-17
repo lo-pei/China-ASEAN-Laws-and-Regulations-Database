@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-263-2023-BRUNEI-DARUSSALAM-NATIONAL-ACCREDITATION-49217B",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰国国家认可理事会法",
   "en": "BRUNEI DARUSSALAM NATIONAL ACCREDITATION COUNCIL ACT",
   "orig": null
  },
@@ -1334,5 +1334,13 @@
     "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations which are necessary or expedient for giving effect to or for carrying out the provisions of this Act.\n\n(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for —\n\n(a) prescribing the manner of applying for provisional accreditation or accreditation under this Act, the particulars to be supplied by an applicant, the manner of accreditation and the conditions to be imposed;\n\n(b) prescribing the forms for the purposes of this Act;\n\n(c) prescribing the fees and charges payable under this Act and the manner for collecting and disbursing such fees and charges;\n\n(d) prescribing the records and documents to be kept and the returns to be submitted;\n\n(e) prescribing the offences which may be compounded and the method and procedure thereof;\n\n(f) providing for the regulation of all or any of the activities of the Council and generally the performance of the functions, the exercise of the powers and the discharge of the duties of the Council under this Act; and\n\n(g) providing for such other matters required to be or which may be prescribed or which are necessary for giving effect to the provisions of this Act and for their due administration.\n\n(3) Such regulations may include such incidental, consequential and supplementary provisions as the Minister considers necessary or expedient."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI DARUSSALAM NATIONAL ACCREDITATION COUNCIL ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

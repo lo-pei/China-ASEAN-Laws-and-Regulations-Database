@@ -1,7 +1,7 @@
 {
  "id": "SG-H411",
  "title": {
-  "zh": null,
+  "zh": "商业信托（简明财务报表）条例",
   "en": "Business Trusts (Summary Financial Statement) Regulations",
   "orig": null
  },
@@ -149,5 +149,13 @@
     "en": "SECOND SCHEDULE\nRegulation 7\nAdditional Information\nA. Chairman’s statement.\n1. Material changes in the following:\n(a)accounting policies;\n(b)asset values;\n(c)financial position (such as new issues of units in the registered business trust and distributions); and\n(d)operating environment that affects business prospects.\n2. Material acquisitions and disposals.\n3. Business review and future developments.\nB. Statistics on unitholders of the registered business trust.\nC. Other information.\nA summary of the significant related party dealings as currently disclosed in the notes to the accounts.\n[G.N. No. S 10/2005]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Business Trusts (Summary Financial Statement) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

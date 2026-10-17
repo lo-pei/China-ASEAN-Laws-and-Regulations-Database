@@ -1,7 +1,7 @@
 {
  "id": "PH-H308",
  "title": {
-  "zh": null,
+  "zh": "向任何找到已故众议员Wenceslao Vinzons与省长Roque Ablan遗骸的人员发放金钱奖励的法案",
   "en": "An Act Granting Monetary Rewards to Any Person Who Shall Locate or Find the Remains of the Late Congressman Wenceslao Vinzons and Governor Roque Ablan",
   "orig": "An Act Granting Monetary Rewards to Any Person Who Shall Locate or Find the Remains of the Late Congressman Wenceslao Vinzons and Governor Roque Ablan"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 1, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Monetary Rewards to Any Person Who Shall Locate or Find the Remains of the Late Congressman Wenceslao Vinzons and Governor Roque Ablan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H180",
  "title": {
-  "zh": null,
+  "zh": "航空导航（航空器残骸与救助）条例",
   "en": "Air Navigation (Wreck and Salvage of Aircraft) Regulations",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRegulation 2\n(a)“Ship” shall include aircraft.\n(b)“Wreck” shall include any aircraft or any part thereof or cargo thereof found derelict in or upon the waters of Singapore or the tidal waters thereof or any ports or harbours thereof upon or near the shores of Singapore or found or taken possession of outside the waters of Singapore and subsequently brought within Singapore or the waters thereof.\n(c)“Master” shall include the commander or other person in charge of an aircraft.\n(d)“Shipwrecked” shall include aircraft wrecked.\n(e)Section 152 of the Act shall not apply in the case of aircraft.\n(f)In its application to aircraft section 169 of the Act shall have effect as though for the word “maritime” there were substituted the word “aeronautical”.\n[G.N. No. 2220/39]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Air Navigation (Wreck and Salvage of Aircraft) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

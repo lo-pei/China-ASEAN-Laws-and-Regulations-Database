@@ -1,7 +1,7 @@
 {
  "id": "SG-H3558",
  "title": {
-  "zh": null,
+  "zh": "规划（用途类别）规则",
   "en": "Planning (Use Classes) Rules",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRule 3\nUse Classes\n1. Class I\nUse as a shop\n2. Class II\nUse as an office\n3. Class III\nUse as a restaurant\n4. Class IV\nUse as an amusement centre\n5. Class V\nUse as a motor vehicle showroom\n6. Class VI\nUse as a theatre\n7. Class VII\nUse as a light industrial building\n8. Class VIII\nUse as a general industrial building\n9. Class IX\nUse as a special industrial building\n10. Class X\nUse as a warehouse\n11. Class XI\nUse as a convalescent home\n12. Class XII\nUse as a child care centre\n13. Class XIII\nUse as a community building\n14. Class XIV\nUse as a sports and recreation building\n15. Class XV\nUse as a nightclub\n16. Class XVI\nUse as a pet shop\n17. Class XVII\nUse as a community sports and fitness building\n18. Class XVIII\nUse as a commercial school\n[S 83/2012 wef 01/03/2012]\n[S 125/2016 wef 24/03/2016]\n[G.N. Nos. S 371/2001; S 379/2002; S 655/2004; S 478/2006]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Planning (Use Classes) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4205",
  "title": {
-  "zh": null,
+  "zh": "修订第5099号共和国法（即《授予Jose O. Martinez在南三宝颜省Malangas市镇建设、运营与维护制冰厂与冷藏库特许权》）的法案",
   "en": "An Act Amending Republic Act Numbered Fifty Hundred Ninety-Nine, Entitled \"An Act Granting Jose O. Martinez a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Malangas, Province of Zamboanga del Sur\"",
   "orig": "An Act Amending Republic Act Numbered Fifty Hundred Ninety-Nine, Entitled \"An Act Granting Jose O. Martinez a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Malangas, Province of Zamboanga del Sur\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Fifty Hundred Ninety-Nine, Entitled \"An Act Granting Jose O. Martinez a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Malangas, Province of Zamboanga del Sur\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9200",
  "title": {
-  "zh": null,
+  "zh": "将新怡诗夏省塔卢格图格市镇萨韦罗纳描笼涯的Saverona小学更名为Alberto G. Bautista小学的法案",
   "en": "An Act Changing the Name of Saverona Elementary School in Barangay Saverona, Municipality of Talugtug, Province of Nueva Ecija to Alberto G. Bautista Elementary School",
   "orig": "An Act Changing the Name of Saverona Elementary School in Barangay Saverona, Municipality of Talugtug, Province of Nueva Ecija to Alberto G. Bautista Elementary School"
  },
@@ -71,5 +71,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Saverona Elementary School in Barangay Saverona, Municipality of Talugtug, Province of Nueva Ecija to Alberto G. Bautista Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

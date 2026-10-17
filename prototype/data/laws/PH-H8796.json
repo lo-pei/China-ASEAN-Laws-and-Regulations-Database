@@ -1,7 +1,7 @@
 {
  "id": "PH-H8796",
  "title": {
-  "zh": null,
+  "zh": "将授予 Philippine Global Communications, Inc. 的特许经营权再续展二十五年，为此修订第 4617 号共和国法及其相关条款的法案",
   "en": "An Act Renewing the Franchise Granted to Philippine Global Communications, Inc. (Formerly RCA Communications, Inc.) for Another Twenty-Five (25) Years, Amending for the Purpose Republic Act No. 4617",
   "orig": "An Act Renewing the Franchise Granted to Philippine Global Communications, Inc. (Formerly RCA Communications, Inc.) for Another Twenty-Five (25) Years, Amending for the Purpose Republic Act No. 4617"
  },
@@ -270,5 +270,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing the Franchise Granted to Philippine Global Communications, Inc. (Formerly RCA Communications, Inc.) for Another Twenty-Five (25) Years, Amending for the Purpose Republic Act No. 4617",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

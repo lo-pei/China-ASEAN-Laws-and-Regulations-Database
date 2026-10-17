@@ -1,7 +1,7 @@
 {
  "id": "SG-H2934",
  "title": {
-  "zh": null,
+  "zh": "土地征用（上诉委员会）条例",
   "en": "Land Acquisition (Appeals Board) Regulations",
   "orig": null
  },
@@ -350,5 +350,13 @@
     "en": "24. The Board shall keep the following records containing the particulars as prescribed respectively:\n(a)a Register of Appeals containing —\n(i)the serial number of every appeal;\n(ii)the date of receipt of notice of appeal;\n(iii)the name of the appellant;\n(iv)the names of advocates and solicitors, if any;\n(v)the address for service within Singapore;\n(vi)the date of receipt of petition of appeal; and\n(vii)the date and substance of the order or decision of the Board;\n(b)a Register containing the original of every decision or order of the Board; and\n(c)such other books or records as the Board may from time to time think necessary."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Land Acquisition (Appeals Board) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

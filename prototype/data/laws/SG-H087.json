@@ -1,7 +1,7 @@
 {
  "id": "SG-H087",
  "title": {
-  "zh": null,
+  "zh": "主动出行（人行道——临时停止使用）（Trifactor 铁人三项与陆上两项赛）命令 2026",
   "en": "Active Mobility (Footpaths — Temporary Discontinuation) (Trifactor Triathlon & Duathlon) Order 2026",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFootpath"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Footpaths — Temporary Discontinuation) (Trifactor Triathlon & Duathlon) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

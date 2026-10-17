@@ -1,7 +1,7 @@
 {
  "id": "SG-H1978",
  "title": {
-  "zh": null,
+  "zh": "所得税（收购公司股份的扣除）条例 2012",
   "en": "Income Tax (Deduction for Acquisition of Shares of Companies) Regulations 2012",
   "orig": null
  },
@@ -253,5 +253,11 @@
     "en": "THE SCHEDULE\nRegulation 10(1)\nPart I\nThe requirements referred to in regulation 10(1) are as follows:\n(a)the trustee-manager of the trust in his capacity as such carries on a trade or business in Singapore;\n(b)the business of the trust is controlled and managed in Singapore;\n(c)the trust is established in Singapore; and\n(d)the trust deed of the trust is executed in Singapore and is governed by Singapore law.\nPart II\nS/No.\nProvision\nModification\n1.\nSection 37L(16A)(c) of the Act\nA reference to the acquiring company being connected to the target company shall be read as a reference to —\n(a)at least 75% of the units of the registered business trust referred to in regulation 10(1) being beneficially held (directly or indirectly) by the target company or at least 75% of the shares of the target company being beneficially held (directly or indirectly) by the registered business trust referred to in regulation 10(1); or\n(b)at least 75% of the units of the registered business trust referred to in regulation 10(1) and at least 75% of the shares of the target company being beneficially held (directly or indirectly) by another company.\n2.\nSection 37L(16A)(a) of the Act\nA reference to the acquiring company carrying on a trade or business in Singapore shall be read as a reference to the trustee-manager of the registered business trust referred to in regulation 10(1) in his capacity as such carrying on a trade or business in Singapore.\n3.\nSection 37L(16A)(b) of the Act\nA reference to the acquiring company having in its employment at least 3 local employees shall be read as a reference to the trustee-manager of the registered business trust referred to in regulation 10(1) having in its employment at least 3 local employees in respect of the business of the registered business trust.\n4.\nSection 37L(16A)(d) of the Act\nA reference to the acquiring company having a Singapore company as its ultimate holding company shall be read as a reference to 50% or more of the units in the registered business trust referred to in regulation 10(1) being held directly or indirectly by a Singapore company that is not itself a subsidiary of another person.\n5.\nSection 37L(18), (21), (22) and (28) of the Act\nA reference to the shareholders of the acquiring company shall be read as a reference to the unitholders of the registered business trust referred to in regulation 10(1), and a reference to shares of the acquiring company shall be read as a reference to the units of the trust.\n6.\nRegulation 5A\nA reference to the acquirer’s nominee is to be read as a reference to a nominee of the trustee manager in its capacity as such.\n[S 314/2021 wef 01/04/2015]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Income Tax (Deduction for Acquisition of Shares of Companies) Regulations 2012",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

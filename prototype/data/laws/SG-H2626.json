@@ -1,7 +1,7 @@
 {
  "id": "SG-H2626",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护区与受保护场所）（摄影）（豁免）命令 2018",
   "en": "Infrastructure Protection (Protected Areas and Protected Places) (Photography) (Exemption) Order 2018",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) Section 29(1) of the Act does not apply to or in relation to a specified officer who takes a photograph of a protected area or a protected place if —\n(a)the specified officer takes the photograph to perform or discharge the specified officer’s duty; and\n(b)where the photograph is taken using a device or equipment — that device or equipment is registered with, or issued by, a Home Team agency or the HTX.\n(2) In this paragraph —\n“Home Team agency” means any department of the Government within the Ministry of Home Affairs;\n“HTX” means the Home Team Science and Technology Agency established by section 3 of the Home Team Science and Technology Agency Act 2019;\n“specified officer” means —\n(a)an officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act 1973;\n(b)an immigration officer of the Immigration & Checkpoints Authority appointed under section 3 of the Immigration Act 1959;\n(c)an officer or employee of, or a person seconded to, the HTX;\n(d)a police officer, a special police officer, a forensic specialist or an intelligence officer, within the meaning given by the Police Force Act 2004;\n(e)an officer of the Singapore Civil Defence Force raised and maintained in accordance with the Civil Defence Act 1986; or\n(f)a prison officer of the Singapore Prison Service who is appointed under section 20 of the Prisons Act 1933.\n[S 77/2023 wef 20/02/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Areas and Protected Places) (Photography) (Exemption) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

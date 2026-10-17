@@ -1,7 +1,7 @@
 {
  "id": "PH-H1011",
  "title": {
-  "zh": null,
+  "zh": "授权对 Abaca 种植区进行分区，并规定种植限制及其他措施以控制 Abaca 花叶病、保护 Abaca 产业的法案",
   "en": "An Act Authorizing the Zonification of Abaca Areas, Actual and Potential, and Prescribing Certain Planting Restrictions and Other Measures for the Control of Abaca Mosaic Disease to Protect the Abaca Industry",
   "orig": "An Act Authorizing the Zonification of Abaca Areas, Actual and Potential, and Prescribing Certain Planting Restrictions and Other Measures for the Control of Abaca Mosaic Disease to Protect the Abaca Industry"
  },
@@ -151,5 +151,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Zonification of Abaca Areas, Actual and Potential, and Prescribing Certain Planting Restrictions and Other Measures for the Control of Abaca Mosaic Disease to Protect the Abaca Industry",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

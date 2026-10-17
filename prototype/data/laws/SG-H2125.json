@@ -1,7 +1,7 @@
 {
  "id": "SG-H2125",
  "title": {
-  "zh": null,
+  "zh": "所得税（慈善目的信托外国账户收入豁免）条例 2007",
   "en": "Income Tax (Exemption of Income of Foreign Account of Philanthropic Purpose Trust) Regulations 2007",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7.—(1) Where a foreign account of a philanthropic purpose trust ceases to be a foreign account for failing to satisfy regulation 3(b), the Comptroller may assess the trustee company administering the philanthropic purpose trust or the eligible holding company established for the purposes of the philanthropic purpose trust, as the case may be, under section 74 of the Act on any income of the philanthropic purpose trust or the eligible holding company that was exempted from tax under these Regulations.\n(2) Any amount or additional amount assessed by the Comptroller under paragraph (1) shall only be paid out of the funds of the philanthropic purpose trust or the eligible holding company, as the case may be."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Income of Foreign Account of Philanthropic Purpose Trust) Regulations 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

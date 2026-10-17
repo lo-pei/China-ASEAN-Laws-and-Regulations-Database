@@ -1,7 +1,7 @@
 {
  "id": "PH-H10706",
  "title": {
-  "zh": null,
+  "zh": "菲律宾退伍军人月",
   "en": "Philippine Veterans' Month",
   "orig": "An Act Declaring the Month of April of Every Year as the \"Philippine Veterans' Month\""
  },
@@ -130,5 +130,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in newspaper of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Philippine Veterans' Month",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

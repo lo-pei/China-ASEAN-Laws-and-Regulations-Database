@@ -1,7 +1,7 @@
 {
  "id": "SG-H1394",
  "title": {
-  "zh": null,
+  "zh": "房地产经纪（房地产代理业务）条例 2010",
   "en": "Estate Agents (Estate Agency Work) Regulations 2010",
   "orig": null
  },
@@ -324,5 +324,13 @@
     "en": "THIRD SCHEDULE\nRegulation 10\nEstate Agents Act 2010\nFORM 1\nFORM 2\nESTATE AGENCY AGREEMENT FOR\nPURCHASE OF RESIDENTIAL PROPERTY\nFORM 3\nESTATE AGENCY AGREEMENT FOR\nLEASE OF RESIDENTIAL PROPERTY\nBY A LANDLORD\nFORM 4\nESTATE AGENCY AGREEMENT FOR\nLEASE OF RESIDENTIAL PROPERTY\nBY A TENANT\n[S 652/2019 wef 01/10/2019]\nFORM 5\nEXCLUSIVE ESTATE AGENCY AGREEMENT FOR\nSALE OF RESIDENTIAL PROPERTY\nFORM 6\nFOR THE PURCHASE OF RESIDENTIAL PROPERTY\nFORM 7\nEXCLUSIVE ESTATE AGENCY AGREEMENT FOR\nLEASE OF RESIDENTIAL PROPERTY\nBY A LANDLORD\nFORM 8\nEXCLUSIVE ESTATE AGENCY AGREEMENT FOR\nLEASE OF RESIDENTIAL PROPERTY\nBY A TENANT"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Estate Agents (Estate Agency Work) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

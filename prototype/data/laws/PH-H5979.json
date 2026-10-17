@@ -1,7 +1,7 @@
 {
  "id": "PH-H5979",
  "title": {
-  "zh": null,
+  "zh": "对自雇人士与执业专业人士采用简化净所得课税方案，修订经修正的《国家国内税收法典》第 21 与 29 条的法案",
   "en": "An Act Adopting the Simplified Net Income Taxation Scheme For the Self-employed and Professionals Engaged in the Practice of Their Profession, Amending Sections 21 and 29 of the National Internal Revenue Code, As Amended",
   "orig": "An Act Adopting the Simplified Net Income Taxation Scheme For the Self-employed and Professionals Engaged in the Practice of Their Profession, Amending Sections 21 and 29 of the National Internal Revenue Code, As Amended"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Adopting the Simplified Net Income Taxation Scheme For the Self-employed and Professionals Engaged in the Practice of Their Profession, Amending Sections 21 and 29 of the National Internal Revenue Code, As Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

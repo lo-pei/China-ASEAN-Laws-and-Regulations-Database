@@ -1,7 +1,7 @@
 {
  "id": "PH-H4235",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统在重组委员会协助下，在特定条件与限制下重组政府各部、局、办公室、机关与机构，包括其拥有或控制的银行或金融机构与公司",
   "en": "An Act Authorizing the President of the Philippines, with the Help of a Commission on Reorganization, to Reorganize the Different Executive Departments, Bureaus, Offices, Agencies and Instrumentalities of the Government. Including Banking or Financial Institutions and Corporations Owned or Controlled by It, Subject to Certain Conditions and Limitations",
   "orig": "An Act Authorizing the President of the Philippines, with the Help of a Commission on Reorganization, to Reorganize the Different Executive Departments, Bureaus, Offices, Agencies and Instrumentalities of the Government. Including Banking or Financial Institutions and Corporations Owned or Controlled by It, Subject to Certain Conditions and Limitations"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 9, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines, with the Help of a Commission on Reorganization, to Reorganize the Different Executive Departments, Bureaus, Offices, Agencies and Instrumentalities of the Government. Including Banking or Financial Institutions and Corporations Owned or Controlled by It, Subject to Certain Conditions and Limitations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3175",
  "title": {
-  "zh": null,
+  "zh": "商船（海事劳工公约）（复合罪行）条例 2014",
   "en": "Merchant Shipping (Maritime Labour Convention) (Composition of Offences) Regulations 2014",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the Director in accordance with section 69(1) of the Act:\n(a)any offence under section 8(6), 14(14), 15(2), 16(11), 20(8), 25(5), 29(3), 34(4) or 49(6) of the Act;\n(b)any offence under the Merchant Shipping (Maritime Labour Convention) (Wages) Regulations 2014 (G.N. No. S 174/2014);\n(c)any offence under the Merchant Shipping (Maritime Labour Convention) (Health and Safety Protection and Accident Prevention) Regulations 2014 (G.N. No. S 177/2014);\n(d)any offence under the Merchant Shipping (Maritime Labour Convention) (Seafarer Recruitment and Placement Services) Regulations 2014 (G.N. No. S 178/2014);\n(e)any offence under the Merchant Shipping (Maritime Labour Convention) (Medicines and Medical Equipment) Regulations 2014 (G.N. No. S 181/2014); and\n(f)any offence under the Merchant Shipping (Maritime Labour Convention) (Repatriation) Regulations 2014 (G.N. No. S 208/2014)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Merchant Shipping (Maritime Labour Convention) (Composition of Offences) Regulations 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

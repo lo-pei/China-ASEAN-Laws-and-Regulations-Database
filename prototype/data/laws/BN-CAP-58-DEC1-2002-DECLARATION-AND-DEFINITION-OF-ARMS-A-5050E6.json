@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-58-DEC1-2002-DECLARATION-AND-DEFINITION-OF-ARMS-A-5050E6",
  "title": {
-  "zh": null,
+  "zh": "DEC1 2002 版依第 2 条作出的武器与爆炸物声明及定义",
   "en": "DEC1 2002 ED DECLARATION AND DEFINITION OF ARMS AND EXPLOSIVES UNDER SEC 2",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "ARMS AND EXPLOSIVES ACT (CHAPTER 58)\n\nDECLARATION AND DEFINITION OF ARMS AND\n\nEXPLOSIVES UNDER SECTION 2 S 36/60\n\nREVISED EDITION 2002 (30th November 2002)\n\nLAWS OF BRUNEI CAP. 58, DEC 1] Arms and Explosives [2002 Ed. p. 1 [Subsidiary]\n\nSUBSIDIARY LEGISLATION\n\nDECLARATION AND DEFINITION OF ARMS AND EXPLOSIVES UNDER\n\nSECTION 2 The provisions of the Arms and Explosives Act have been declared to apply to the arms and explosives defined below — “arms” includes firearms, air guns, air pistols, automatic guns, automatic pistols or any other kind of gun or weapon from which any shot, bullet or other missile can be discharged, or noxious fumes can be emitted, and any part or parts thereof, but does not include a cannon known as bedil or meriam. For the purposes of this definition “firearms” means a lethal barrelled weapon of any description but does not include a blowpipe of the type in common use in Brunei Darussalam. “explosives” includes gunpowder, nitro-glycerine, dynamite, gun-cotton, blasting powder, fulminate of mercury or of other metals, coloured fires, and every other substance, whether similar to those above-mentioned or not, used or manufactured with a view to produce a practical effect by explosion or pyrotechnic effect, and any component part of substance of any explosives; and, in particular —\n\n(a) fog signals, fireworks, fuses, rockets, percussion caps, detonators, cartridges and ammunition of all descriptions and every adaption or preparation or an explosive as above defined;\n\n(b) sand crackers which hitherto have been known as Sua Phau or Kim Chin Phau and other types of crackers which have been known as Seng Hiong Phau or Seng Hio Phau, Tek Phau and Oe Ji Phau or Weh Chi or all other similar types, of crackers; and\n\n(c) any substance declared to be an explosive by His Majesty the Sultan and Yang Di-Pertuan in Council by notification in the Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DEC1 2002 ED DECLARATION AND DEFINITION OF ARMS AND EXPLOSIVES UNDER SEC 2",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

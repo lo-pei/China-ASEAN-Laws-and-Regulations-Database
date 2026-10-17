@@ -1,7 +1,7 @@
 {
  "id": "SG-H3367",
  "title": {
-  "zh": null,
+  "zh": "关于经济发展与技术开发贷款利息、特许权使用费等免税的公告",
   "en": "Notifications Exemption from Tax of Interest, Royalties, Etc., on Economic and Technological Development Loans",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nFirst column.\nSecond column.\nThird column.\nCompany.\nAircraft.\nDate of Agreement.\nRaffles Leasing Ltd.; a company incorporated under the laws of the United States Virgin Islands\nOne Boeing model B747-412 Aircraft, Singapore\n22nd January 1991.\nRegistration Mark 9V, SMH Manufacturer’s Serial No. 24227\nTanah Merah Leasing Ltd., a company incorporated under the laws of the United States Virgin Islands\nOne Boeing model B747-412 Aircraft, Singapore\n22nd February 1991.\nRegistration Mark 9V, SMI Manufacturer’s Serial No. 24975\nThe interest payable on the following loan shall be exempt from income tax from 29th June 1992 to 15th November 1999:\nBorrower.\nLender.\nDate of Agreement.\nMarininvest Shipping (Singapore) Pte Ltd, Singapore\nNordstrom & Thulin AB, Sweden\n29th June 1992\n[S 358/92]\n[7.8.92]\n1. The interest payable by Neptune Orient Lines Limited to Westpac Asian Lending Pty. Limited on the loan of A$78.4 million under the Loan Agreement dated 10th May 1991 shall be exempt from income tax from 14th June 1991 to 28th June 1996:\nProvided that in respect of the portion of the loan amounting to A$52.8 million which is used for the purchase of the 3 new container vessels bearing Builder’s Hull numbers 304, 305 and 319 and registered in Singapore, the following conditions shall apply:\n(a)there shall be no change in the basic terms and conditions of the Loan Agreement without the prior written approval of the Minister for Finance;\n(b)the said vessels shall not be disposed of during the loan period without the prior written approval of the Minister for Finance; and\n(c)the said vessels shall continue to be registered with the Registry of Singapore Ships.\n[S 364/92]\n[21.8.92]\n2. The swap payments on the swap arrangement between Neptune Orient Lines Limited and Westpac Banking Corporation under the Interest Rate and Currency Exchange Agreement dated 10th May 1991 shall be exempt from income tax from 14th June 1991 to 28th June 1996."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Notifications Exemption from Tax of Interest, Royalties, Etc., on Economic and Technological Development Loans",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

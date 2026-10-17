@@ -1,7 +1,7 @@
 {
  "id": "SG-H962",
  "title": {
-  "zh": null,
+  "zh": "货币（纸币面额与特征）公告 2017",
   "en": "Currency (Denomination and Characteristics of Currency Note) Notification 2017",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDescription of the 50th Anniversary of the Currency\nInterchangeability Agreement Commemorative Note\nissued on 5 July 2017\nDenomination\n$50\nSize\n1.Length: 158 mm\n2.Width: 75 mm\nPredominant and Secondary Colours (Front)\n1.Predominant Colour: Gold\n2.Secondary Colours: Brown, Yellow, Black and Red\nPredominant and Secondary Colours (Back)\n1.Predominant Colour: Gold\n2.Secondary Colours: Brown, Yellow, Green and Purple\nDesign (Front)\n1.The front design features the portrait of Singapore’s first President, the late Mr Yusof bin Ishak.\n2.The 50th anniversary logo of the Currency Interchangeability Agreement is located at the top left of the note. It depicts the Simpur, a prominent flower found in Brunei Darussalam, and the Vanda Miss Joaquim, Singapore’s national flower. Below the logo are the words “CURRENCY INTERCHANGEABILITY AGREEMENT”.\n3.The words “BRUNEI DARUSSALAM•SINGAPORE” are above the see‑through, colour‑shifting window security feature located at the bottom left of the note. This security feature depicts Brunei Darussalam’s Istana Nurul Iman on the left and Singapore’s Istana on the right.\n4.The Singapore Coat of Arms appears on the top centre‑left portion, above the words “THIS NOTE IS LEGAL TENDER”.\n5.The signature and seal of Mr Tharman Shanmugaratnam, Chairman, Monetary Authority of Singapore, are below the words “FIFTY DOLLARS” while the word “SINGAPORE” is at the bottom centre‑left of the note.\n6.One set of the asymmetrical serial number appears horizontal at the bottom of the centre‑left portion while the other set appears vertical on the right‑hand side.\n7.The denomination numeral “50” is located at the top right‑hand corner with the Braille pattern on the right.\nDesign (Back)\n1.The back design showcases the collaboration between Brunei Darussalam and Singapore, represented by the areas of defence, education and tourism.\n2.Cooperation in the area of defence is depicted on the left foreground, featuring military personnel from the Royal Brunei Armed Forces and the Singapore Armed Forces in their ceremonial uniform.\n3.Collaboration in the area of education is depicted on the right foreground, featuring students from both countries engaging in cross‑cultural learning and exchanging of ideas.\n4.The background features a scene from Brunei Darussalam’s Ulu Temburong National Park and the Singapore Botanic Gardens, affirming the importance of the Currency Interchangeability Agreement in facilitating tourism between Brunei Darussalam and Singapore.\n5.The denomination numeral “50” is located at the top centre‑right while the word “SINGAPORE” is at the bottom centre‑right of the note.\n6.The words “1967-2017 50 YEARS OF CURRENCY INTERCHANGEABILITY AGREEMENT” appear on the right‑centre portion of the note.\n7.The words “SINGAPORE•BRUNEI DARUSSALAM” are above the see‑through colour‑shifting window security feature located at the bottom right of the note.\n(a)Front Design of the $50 Commemorative Note.\n(b)Back Design of the $50 Commemorative Note.\nActual size: 158 mm × 75 mm"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency (Denomination and Characteristics of Currency Note) Notification 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

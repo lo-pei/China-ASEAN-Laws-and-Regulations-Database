@@ -1,7 +1,7 @@
 {
  "id": "SG-H1768",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（第四部分适用于设计—建造—销售计划）规则",
   "en": "Housing and Development (Application of Part IV to Design-Build-And-Sell Scheme) Rules",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Section 48B of the Act shall have effect with the modification that the Board may execute an instrument on behalf of a person, and may be the duly appointed attorney of such a person, under that section only in connection with or for the purpose of a mortgage of a DBSS flat.\n[G.N. No. S 13/2006]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Application of Part IV to Design-Build-And-Sell Scheme) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

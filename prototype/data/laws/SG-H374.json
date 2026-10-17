@@ -1,7 +1,7 @@
 {
  "id": "SG-H374",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（临时建筑）条例 2018",
   "en": "Building Control (Temporary Buildings) Regulations 2018",
   "orig": null
  },
@@ -420,5 +420,13 @@
     "en": "THIRD SCHEDULE\nRegulation 9(3)\nConstruction tests\n1. Construction tests for the materials specified under the first column of the following table must comply with the applicable standards in the documents specified under the second column of that table:\nFirst column\nSecond column\nType of material\nApplicable standards\n1.Cement\nBS EN 196 — Methods of testing cement\n2.Aggregate\nSS EN 12620 — Aggregates for concrete\n3.Water\nBS EN 1008 — Mixing water for concrete – Specification for sampling, testing and assessing the suitability of water, including water recovered from processes in the concrete industry, as mixing water for concrete\n4.Concrete\n(a)BS 1881 — Testing concrete;\n(b)BS EN 12350 — Testing fresh concrete;\n(c)BS EN 12390 — Testing hardened concrete;\n(d)BS EN 12504 —Testing concrete in structures;\n(e)SS EN 13791 — Assessment of in‑situ compressive strength in structures and precast concrete components;\n(f)SS 592 — Assessment of in-situ compressive strength and precast concrete components – Complementary guidance to that given in SS EN 13791\n5.Admixture\nSS EN 934 — Admixtures for concrete, mortar and grout\n6.Steel reinforcement\n(a)BS 4449 — Steel for the reinforcement of concrete – Weldable reinforcing steel – Bar, coil and decoiled product – Specification;\n(b)BS 4483 — Steel fabric for the reinforcement of concrete – Specification;\n(c)SS 560 — Steel for reinforcement of concrete – Weldable reinforcing steel – Bar, coil and decoiled product;\n(d)SS 561 — Steel fabric for the reinforcement of concrete\n7.Pile load test\nSS EN 1997-1 — Geotechnical design – General rules\n8.Timber\n(a)BS EN 14080 — Timber structures. Glued laminated timber – Requirements;\n(b)BS EN 14081 — Timber structures. Strength graded structural timber with rectangular cross section\n9.Prestressing wires, strands or bars\n(a)BS 5896 — Specification for high tensile steel wire and strand for the prestressing of concrete;\n(b)BS 4486 — Specification for hot rolled and processed high tensile alloy steel bars for the prestressing of concrete\n2. Construction tests for the materials specified under the first column of the following table must comply with the applicable standards in the documents specified under the second column of that table:\nFirst column\nSecond column\nType of material\nApplicable standard\n1.Structural steel\n(a)BS EN 10025 — Hot rolled products of structural steels;\n(b)BS EN 10210 — Hot finished structural hollow sections of non‑alloy and fine grain steels;\n(c)BS EN 10219 — Cold formed welded structural hollow sections of non‑alloy and fine grain steels;\n(d)BS EN 10088 — Stainless steels;\n(e)BC 1 — Design Guide on Use of Alternative Structural Steel to BS 5950 and Eurocode 3;\n(f)BS EN 10340 — Steel castings for structural uses;\n(g)BS EN 1559 — Founding – Technical conditions of delivery;\n(h)BS EN 1369 — Founding – Magnetic particle testing;\n(i)BS EN 12680 — Founding – Ultrasonic examination;\n(j)BS EN 12681 — Founding – Radiographic examination.\n2.Welding and weld quality\n(a)BS EN ISO 17638 — Non‑destructive testing of welds – Magnetic particle testing;\n(b)BS EN ISO 23278 — Non‑destructive testing of welds – Magnetic particle testing – Acceptance levels;\n(c)BS EN 571 — Non‑destructive testing – Penetrant testing;\n(d)BS EN ISO 17640 — Non‑destructive testing of welds – Ultrasonic testing – Techniques, testing levels and assessment;\n(e)BS EN 1435 — Non-destructive examination of welds – Radiographic examination of welded joints\nDefinitions\n3. In this Schedule —\n“BC” means a standard or specification issued by the Building and Construction Authority;\n“BS” is the abbreviation for British Standard, which means a standard or specification issued by the British Standards Institution;\n“BS EN” is the abbreviation for British Standard European Norm, which means a standard or specification issued by the British Standards Institution;\n“SS” is the abbreviation for Singapore Standard;\n“SS EN” is the abbreviation for Singapore Standard European Norm, which means a standard or specification issued by the Enterprise Singapore Board, established under section 3 of the Enterprise Singapore Board Act 2018."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building Control (Temporary Buildings) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

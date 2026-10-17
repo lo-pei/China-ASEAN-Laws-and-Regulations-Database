@@ -1,7 +1,7 @@
 {
  "id": "SG-H3069",
  "title": {
-  "zh": null,
+  "zh": "赡养令（相互执行）条例 2016",
   "en": "Maintenance Orders (Reciprocal Enforcement) Regulations 2016",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) In any proceedings for the confirmation of a provisional order made by a court in a reciprocating country under section 7 of the Act, the person in whose favour the provisional order is made may be represented in the court in Singapore —\n(a)by the Official Assignee; or\n(b)by a solicitor authorised, in writing, by the Official Assignee to act on behalf of the Official Assignee.\n(2) In any proceedings for the enforcement of a registered order under section 8 of the Act, the person in whose favour the registered order is made may be represented in the court in Singapore —\n(a)by the Official Assignee; or\n(b)by a solicitor authorised, in writing, by the Official Assignee to act on behalf of the Official Assignee."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Maintenance Orders (Reciprocal Enforcement) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

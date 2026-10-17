@@ -1,7 +1,7 @@
 {
  "id": "PH-H9038",
  "title": {
-  "zh": null,
+  "zh": "处罚酒后、吸毒后及受类似物质影响驾驶人员的法案，并为其他目的",
   "en": "An Act Penalizing Persons Driving Under the Influence of Alcohol, Dangerous Drugs, and Similar Substances, and for Other Purposes",
   "orig": "An Act Penalizing Persons Driving Under the Influence of Alcohol, Dangerous Drugs, and Similar Substances, and for Other Purposes"
  },
@@ -241,5 +241,13 @@
     "en": "Effectivity. – This Act shall take effect after fifteen (15) days from its publication in the Official Gazette or in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Penalizing Persons Driving Under the Influence of Alcohol, Dangerous Drugs, and Similar Substances, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

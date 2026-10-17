@@ -1,7 +1,7 @@
 {
  "id": "SG-H132",
  "title": {
-  "zh": null,
+  "zh": "穆斯林法管理（瓦克夫与一般许愿）规则",
   "en": "Administration of Muslim Law (Wakaf and Nazar Am) Rules",
   "orig": null
  },
@@ -165,5 +165,13 @@
     "en": "THE SCHEDULE\nRule 2\nThe Form\nAdministration of Muslim Law Act\n(Chapter 3)\nAdministration of Muslim Law (Wakaf AND NAZAR AM) Rules\nRegistration No:-----------------------\n(A) PARTICULARS OF APPLICANT:\nName of Applicant:\nAddress:\nI/C No:\nOccupation:\nName of Wakif:\nReason for Application:\n(B) PARTICULARS OF MUTAWALLI:\nName of Mutawalli:\nAddress:\nI/C No:\nOccupation:\nDate and Manner of Appointment:\nName of Mutawalli:\nAddress:\nI/C No:\nOccupation:\nDate and Manner of Appointment:\nName of Mutawalli:\nAddress:\nI/C No:\nOccupation:\nDate and Manner of Appointment:\nName of Mutawalli:\nAddress:\nI/C No:\nOccupation:\nDate and Manner of Appointment:\n(C) OBJECTS OF THE WAKAF:\n(D) PARTICULARS OF BENEFICIARIES:\nName of Applicant:\nAddress:\nI/C No:\nName of Applicant:\nAddress:\nI/C No:\nName of Applicant:\nAddress:\nI/C No:\n(E) DESCRIPTION OF ALL WAKAF PROPERTIES:\n(To enclose original/certified true copies of wakaf deed and any other document pertaining to property if available)\n(F) LOCATION OF PROPERTIES:\n(if cash is deposited in a bank, state name of bank)\n(G) DETAILS OF ACCOUNTS:\nGross Annual Income:\nGross Annual Expenditure\n(excluding insurance and property tax):\nInsurance paid (if any):\nName of Insurance Company:\nProperty Tax paid:\nProperty Tax Account No:\nRemuneration of Mutawalli:\nOther expenses:\nAmount due to Beneficiaries:\nAmount set apart for:\n*religious purposes (provide description):\n-------------------------------------------------------\n$\n-------------------------------------------------------\n$\n*charitable purposes (provide description):\n-------------------------------------------------------\n$\n-------------------------------------------------------\n$\n*pious and any other purpose (provide description):\n-------------------------------------------------------\n$\n-------------------------------------------------------\n$\nRemarks:\n(for office use only)\nSignature of Applicant:\nDate:\n*delete where inapplicable.\n[S 800/2017 wef 01/01/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Administration of Muslim Law (Wakaf and Nazar Am) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

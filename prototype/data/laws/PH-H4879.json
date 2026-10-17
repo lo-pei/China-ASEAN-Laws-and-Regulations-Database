@@ -1,7 +1,7 @@
 {
  "id": "PH-H4879",
  "title": {
-  "zh": null,
+  "zh": "修订第 4156 号共和国法（《菲律宾国家铁路公司法》）第 1、3、5、9、11、12、14 与 17 条以重整和现代化该铁路公司的法案",
   "en": "An Act to Provide for the Rehabilitation and Modernization of the Philippine National Railways By Amending Section One, Three, Five, Nine, Eleven, Twelve, Fourteen, and Seventeen of Republic Act Numbered Forty-One Hundred Fifty-Six, Entitled \"An Act Creating the Philippine National Railways, Prescribing Its Powers, Functions and Duties, and Providing for the Necessary Funds for Its Operations.\"",
   "orig": "An Act to Provide for the Rehabilitation and Modernization of the Philippine National Railways By Amending Section One, Three, Five, Nine, Eleven, Twelve, Fourteen, and Seventeen of Republic Act Numbered Forty-One Hundred Fifty-Six, Entitled \"An Act Creating the Philippine National Railways, Prescribing Its Powers, Functions and Duties, and Providing for the Necessary Funds for Its Operations.\""
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 16, 1971"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Rehabilitation and Modernization of the Philippine National Railways By Amending Section One, Three, Five, Nine, Eleven, Twelve, Fourteen, and Seventeen of Republic Act Numbered Forty-One Hundred Fifty-Six, Entitled \"An Act Creating the Philippine National Railways, Prescribing Its Powers, Functions and Duties, and Providing for the Necessary Funds for Its Operations.\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

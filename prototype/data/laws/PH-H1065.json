@@ -1,7 +1,7 @@
 {
  "id": "PH-H1065",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统任命毕业于美国空军或菲律宾空军飞行学校的预备役军官飞行员加入正规部队的法案",
   "en": "An Act Authorizing the President of the Philippines to Appoint in the Regular Force Reserve Officer Pilots Who are Graduates of the United States Air Force or Philippine Air Force Flying Schools",
   "orig": "An Act Authorizing the President of the Philippines to Appoint in the Regular Force Reserve Officer Pilots Who are Graduates of the United States Air Force or Philippine Air Force Flying Schools"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 7, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Appoint in the Regular Force Reserve Officer Pilots Who are Graduates of the United States Air Force or Philippine Air Force Flying Schools",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

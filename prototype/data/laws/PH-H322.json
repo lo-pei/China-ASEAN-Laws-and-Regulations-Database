@@ -1,7 +1,7 @@
 {
  "id": "PH-H322",
  "title": {
-  "zh": null,
+  "zh": "修订《修订行政法典》第1692条关于应向公共图书馆局提供的数据与文件的规定，并为其他目的法案",
   "en": "An Act Amending Section One Thousand Six Hundred and Ninety-Two of the Revised Administrative Code Regarding Data and Documents to be Supplied to the Bureau of Public Libraries",
   "orig": "An Act Amending Section One Thousand Six Hundred and Ninety-Two of the Revised Administrative Code Regarding Data and Documents to be Supplied to the Bureau of Public Libraries"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 5, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section One Thousand Six Hundred and Ninety-Two of the Revised Administrative Code Regarding Data and Documents to be Supplied to the Bureau of Public Libraries",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

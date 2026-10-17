@@ -1,7 +1,7 @@
 {
  "id": "SG-H1014",
  "title": {
-  "zh": null,
+  "zh": "货币法——纸币面额与特征",
   "en": "Currency Act — Denomination and Characteristics of Currency Note",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDenomination\nSize\nDesign\nPredominant and Secondary Colours\nFront\nBack\nFront\nBack\n$2\nLength – 126mm\nWidth– 63mm\nThe front design features the portrait of Singapore’s first President, the late Encik Yusof bin Ishak. The word “SINGAPORE” is printed on the bottom centre portion. There are 2 see-through windows – one on the upper left-hand corner and the other at the bottom right-hand corner. The complex clear window on the upper left-hand corner has a multi-tonal Singapore Arms. The clear window at the bottom right-hand corner is embossed with the numeral “2” in its centre, with repetitive pattern of the numeral “2” at the top and bottom of the window. The shadow image of the President’s portrait is on the left-hand side of the note. The denomination numeral “2” is located at the upper middle portion.\nThe back design features a group of pupils interacting with a teacher in a “Borderless” classroom. Three prominent institutions of learning are seen in the background below the word “SINGAPORE”, printed on the top centre portion of the note. The Singapore Lion symbol is at the lower left of the shadow image of the President’s portrait and is in perfect registration with that on the front. The denomination numeral “2” is located at the top left-hand corner and to the left of the Singapore Lion symbol. The word “EDUCATION” is located at the bottom centre of the note. The 2 see-through windows located at the front of the note can also be seen from the back.\nPredominant Colour: Purple\nSecondary Colours: Blue and Brown\nPredominant Colour: Purple\nSecondary Colours: Blue and Brown\nThe Singapore Lion symbol in gold patch with the words “TWO DOLLARS” and the image of the Singapore Arms is located above the words “THIS NOTE IS LEGAL TENDER”. The signature and seal of Mr Goh Chok Tong, Chairman, Monetary Authority of Singapore, are below the words “TWO DOLLARS”. The security thread in the shape of Singapore island is at the lower centre of the note. The Singapore Lion symbol is located at the left-hand side of the word “SINGAPORE”. One set of the asymmetrical serial number appears horizontal on the left-hand side while the other set appears vertical on the right-hand side. The Braille pattern is at the top right-hand corner.\n(a) Front Design of the $2 Polymer Portrait Note.\n(b) Back Design of the $2 Polymer Portrait Note.\nActual size: 126 mm x 63 mm"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency Act — Denomination and Characteristics of Currency Note",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

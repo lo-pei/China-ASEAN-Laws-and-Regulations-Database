@@ -1,7 +1,7 @@
 {
  "id": "PH-H2092",
  "title": {
-  "zh": null,
+  "zh": "授予 Pablo Samonte 在布拉干省 Polo 市镇建设、运营和维护制冰厂并在该地销售冰的特许权法案",
   "en": "An Act Granting Pablo Samonte a Franchise to Construct, Operate and Maintain an Ice Plant in the Municipality of Polo, Province of Bulacan, and to Sell Ice Therein",
   "orig": "An Act Granting Pablo Samonte a Franchise to Construct, Operate and Maintain an Ice Plant in the Municipality of Polo, Province of Bulacan, and to Sell Ice Therein"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Pablo Samonte a Franchise to Construct, Operate and Maintain an Ice Plant in the Municipality of Polo, Province of Bulacan, and to Sell Ice Therein",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

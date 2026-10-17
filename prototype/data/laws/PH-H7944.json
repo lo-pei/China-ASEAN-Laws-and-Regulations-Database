@@ -1,7 +1,7 @@
 {
  "id": "PH-H7944",
  "title": {
-  "zh": null,
+  "zh": "2007 年油污赔偿法",
   "en": "Oil Pollution Compensation Act of 2007",
   "orig": "Oil Pollution Compensation Act of 2007 An Act Providing for the Implementation of the Provisions of the 1992 International Conventi0n on Civil Liability for Oil Pollution Damage and the 1992 International Convention on the Establishment of An International Fund for Compensation for Oil Pollution Damage, Providing Penalties for Violations thereof, and for other purposes"
  },
@@ -367,5 +367,13 @@
     "en": "Effectivity Clause. - This Act shall take effect after the completion of its publication made once a week for three consecutive weeks in at least two newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Oil Pollution Compensation Act of 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

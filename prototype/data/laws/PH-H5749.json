@@ -1,7 +1,7 @@
 {
  "id": "PH-H5749",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省Cauayan市镇Isio描笼涯Cauayan市镇医院床位由十（10）张增至二十五（25）张并为此拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Cauayan Municipal Hospital in Barangay Isio, Municipality of Cauayan, Province of Negros Occidental, From Ten (10) to Twenty-five (25) Beds, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Cauayan Municipal Hospital in Barangay Isio, Municipality of Cauayan, Province of Negros Occidental, From Ten (10) to Twenty-five (25) Beds, and Appropriating Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Cauayan Municipal Hospital in Barangay Isio, Municipality of Cauayan, Province of Negros Occidental, From Ten (10) to Twenty-five (25) Beds, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

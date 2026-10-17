@@ -1,7 +1,7 @@
 {
  "id": "PH-H5340",
  "title": {
-  "zh": null,
+  "zh": "规定以临时或暂时身份任职且累计服务满七（7）年的政府雇员在特定条件下取得公务员资格并为其他目的法案",
   "en": "An Act to Grant Civil Service Eligibility under Certain Conditions to Government Employees Appointed under Provisional or Temporary Status who have Rendered a Total of Seven (7) Years of Efficient Service, and for Other Purposes",
   "orig": "An Act to Grant Civil Service Eligibility under Certain Conditions to Government Employees Appointed under Provisional or Temporary Status who have Rendered a Total of Seven (7) Years of Efficient Service, and for Other Purposes"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Grant Civil Service Eligibility under Certain Conditions to Government Employees Appointed under Provisional or Temporary Status who have Rendered a Total of Seven (7) Years of Efficient Service, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

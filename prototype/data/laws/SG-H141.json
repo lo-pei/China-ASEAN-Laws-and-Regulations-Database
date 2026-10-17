@@ -1,7 +1,7 @@
 {
  "id": "SG-H141",
  "title": {
-  "zh": null,
+  "zh": "航空导航（119——航空运营人认证）条例 2018",
   "en": "Air Navigation (119 — Air Operator Certification) Regulations 2018",
   "orig": null
  },
@@ -738,5 +738,13 @@
     "en": "THIRD SCHEDULE\nRegulation 16(1)\nComponents and elements of\nsafety management system\n1. The safety management system (called in this paragraph the SMS) required under regulation 16 must comprise the following components and elements:\nFirst column\nSecond column\nComponents\nElements\n1.Safety policy and objectives\n(a)Management commitment\n(b)Safety accountability and responsibilities\n(c)Appointment of key safety personnel\n(d)Coordination of emergency response planning\n(e)SMS documentation\n2.Safety risk management\n(a)Hazard identification\n(b)Safety risk assessment and mitigation\n3.Safety assurance\n(a)Safety performance monitoring and measurement\n(b)The management of change\n(c)Continuous improvement of the SMS\n4.Safety promotion\n(a)Training and education\n(b)Safety communication\n[S 673/2022 wef 15/08/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Air Navigation (119 — Air Operator Certification) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

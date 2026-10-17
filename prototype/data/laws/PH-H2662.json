@@ -1,7 +1,7 @@
 {
  "id": "PH-H2662",
  "title": {
-  "zh": null,
+  "zh": "修订第340号共和国法第3条并为此拨款25万比索的法案",
   "en": "An Act Amending Section Three of Republic Act Numbered Three Hundred Forty and Appropriating the Sum of Two Hundred Fifty Thousand Pesos for the Purpose",
   "orig": "An Act Amending Section Three of Republic Act Numbered Three Hundred Forty and Appropriating the Sum of Two Hundred Fifty Thousand Pesos for the Purpose"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect on July 1, 1961.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Three of Republic Act Numbered Three Hundred Forty and Appropriating the Sum of Two Hundred Fifty Thousand Pesos for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

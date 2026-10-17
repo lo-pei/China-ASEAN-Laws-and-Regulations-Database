@@ -1,7 +1,7 @@
 {
  "id": "PH-H1403",
  "title": {
-  "zh": null,
+  "zh": "修订第597号共和国法（即《宣布Fort Santiago为国家圣地并规定保护马尼拉城墙区内历史纪念物》）第1条，并授权将Ayuntamiento旧址出售给菲律宾中央银行的法案",
   "en": "An Act to Amend Section One of Republic Act Numbered Five Hundred Ninety-Seven, Entitled “An Act to Declare Fort Santiago a National Shrine and to Provide for the Preservation of Historical Monuments in the Walled City of Manila.” and to Authorize the Sale of the Former Site of the Ayuntamiento to the Central Bank of the Philippines",
   "orig": "An Act to Amend Section One of Republic Act Numbered Five Hundred Ninety-Seven, Entitled “An Act to Declare Fort Santiago a National Shrine and to Provide for the Preservation of Historical Monuments in the Walled City of Manila.” and to Authorize the Sale of the Former Site of the Ayuntamiento to the Central Bank of the Philippines"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section One of Republic Act Numbered Five Hundred Ninety-Seven, Entitled “An Act to Declare Fort Santiago a National Shrine and to Provide for the Preservation of Historical Monuments in the Walled City of Manila.” and to Authorize the Sale of the Former Site of the Ayuntamiento to the Central Bank of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

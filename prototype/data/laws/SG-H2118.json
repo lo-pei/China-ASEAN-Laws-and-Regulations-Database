@@ -1,7 +1,7 @@
 {
  "id": "SG-H2118",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）命令 2019",
   "en": "Income Tax (Exemption of Foreign Income) Order 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Income comprising dividends amounting to £8,883,325 that are received in Singapore by Frasers Property (Europe) Holdings Pte. Ltd. (a company incorporated in Singapore) from Frasers Property (UK) Limited (a company incorporated in the United Kingdom) for the year of assessment 2015, is exempt from tax.\n(2) The exemption under sub-paragraph (1) is subject to the terms and conditions specified in paragraphs 3 and 4 of the letter of approval dated 26 November 2018 addressed to KPMG Services Pte. Ltd., the tax agent of Frasers Property (Europe) Holdings Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) Order 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

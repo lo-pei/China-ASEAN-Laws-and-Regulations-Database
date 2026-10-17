@@ -1,7 +1,7 @@
 {
  "id": "PH-H1035",
  "title": {
-  "zh": null,
+  "zh": "修订并废止第 409 号共和国法若干条并为其他目的法案",
   "en": "An Act to Amend and Repeal Certain Sections of Republic Act Numbered Four Hundred Nine, and for Other Purposes",
   "orig": "An Act to Amend and Repeal Certain Sections of Republic Act Numbered Four Hundred Nine, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 2, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend and Repeal Certain Sections of Republic Act Numbered Four Hundred Nine, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

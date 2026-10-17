@@ -1,7 +1,7 @@
 {
  "id": "SG-H583",
  "title": {
-  "zh": null,
+  "zh": "儿童发展共同储蓄（非全日制雇员）条例 2008",
   "en": "Child Development Co-Savings (Part-Time Employees) Regulations 2008",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "10. Despite anything in these Regulations, where —\n(a)a part-time employee is employed under a contract of service or collective agreement entered into before any provision of these Regulations relating to an entitlement of a part-time employee (called a specified provision) came into operation; and\n(b)any terms of service provided for in the contract of service or collective agreement are more favourable to the part-time employee than the specified provision,\nthose terms of service insofar as they are more favourable to the part-time employee than any specified provision continue to apply until varied by the parties to the contract of service or collective agreement, as the case may be.\n[S 226/2025 wef 01/04/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Child Development Co-Savings (Part-Time Employees) Regulations 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

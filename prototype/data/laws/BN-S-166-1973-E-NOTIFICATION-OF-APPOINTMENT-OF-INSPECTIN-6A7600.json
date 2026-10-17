@@ -1,7 +1,7 @@
 {
  "id": "BN-S-166-1973-E-NOTIFICATION-OF-APPOINTMENT-OF-INSPECTIN-6A7600",
  "title": {
-  "zh": null,
+  "zh": "依第 3 条作出的检查人员任命公告",
   "en": "NOTIFICATION OF APPOINTMENT OF INSPECTING OFFICERS UNDER SECTION 3",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "No. S 166\n\nTHE AGRICULTURAL PESTS AND\n\nNOXIOUS PLANTS ENACTMENT, 1962 Appointment of Inspecting Officers Under Section 3 In exercise of the powers conferred upon him by Section 3 of the Agricultural Pests and Noxious Plants Enactment, 1962, His Highness the Sultan in Council hereby appoints the following officers of the Department of Agriculture as Inspecting Officers for the purposes of the Enactment:- The Plant Pathologist The Entomologist Made this 23rd day of August, 1973. JuniN AsAR Clerk of Councils."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF APPOINTMENT OF INSPECTING OFFICERS UNDER SECTION 3",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

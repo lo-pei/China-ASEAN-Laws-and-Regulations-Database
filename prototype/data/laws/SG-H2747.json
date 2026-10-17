@@ -1,7 +1,7 @@
 {
  "id": "SG-H2747",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护法 2017",
   "en": "Infrastructure Protection Act 2017",
   "orig": null
  },
@@ -1398,5 +1398,13 @@
     "en": "85.—(1) Where any area in Singapore is a protected area under section 4(1) of the repealed Act immediately before 18 December 2018 —\n(a)the area is deemed to be a protected area declared under section 8(1) of this Act;\n(b)the order made under section 4(1) of the repealed Act declaring the area to be a protected area is deemed to be a protected area order made under section 8(1) of this Act (called in this section the deemed protected area order);\n(c)the person designated as the authority of the protected area in the order made under section 4(1) of the repealed Act is deemed to be designated as the authority of the protected area in the deemed protected area order under section 9(1) of this Act; and\n(d)section 12 of this Act applies to the authority of the protected area with the modification that a reference to the effective date of a protected area order in that section is a reference to 18 December 2018.\n(2) Where any premises in Singapore is a protected place under section 5(1) of the repealed Act immediately before 18 December 2018 —\n(a)the premises is deemed to be a protected place declared under section 14(1) of this Act;\n(b)the order made under section 5(1) of the repealed Act declaring the premises to be a protected place is deemed to be a protected place order made under section 14(1) of this Act (called in this section the deemed protected place order);\n(c)the person designated as the authority of the protected place in the order made under section 5(1) of the repealed Act is deemed to be designated as the authority of the protected place in the deemed protected place order under section 15(1) of this Act; and\n(d)section 18 of this Act applies to the authority of the protected place with the modification that a reference to the effective date of a protected place order in that section is a reference to 18 December 2018.\n(3) A pass-card or permit that is issued under section 5(1) of the repealed Act and remains valid immediately before 18 December 2018 is deemed to be a permit issued under section 20(1)(a) of this Act.\n(4) Any authorisation by the Minister under section 10(1) of the repealed Act of any step or measure for the protection of a protected area or a protected place that is in force immediately before 18 December 2018 is deemed to be an authorisation by the Minister under section 25(1) of this Act to implement a measure for the protection of that protected area or that protected place.\n(5) This section does not affect the operation of, or derogate from, section 16 of the Interpretation Act 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Infrastructure Protection Act 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

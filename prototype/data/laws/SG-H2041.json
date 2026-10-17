@@ -1,7 +1,7 @@
 {
  "id": "SG-H2041",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 2 号）命令 2015",
   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Rotary Engineering Limited is hereby granted exemption from tax on —\n(a)the dividends amounting to US$30 million received by it in Singapore in December 2014;\n[S 115/2016 wef 18/03/2016]\n(b)the dividends amounting to US$15 million to be received by it in Singapore by December 2015;\n[S 115/2016 wef 18/03/2016]\n[S 498/2016 wef 10/10/2016]\n(c)the dividends amounting to US$5 million received by it in Singapore in June 2016;\n[S 498/2016 wef 10/10/2016]\n(d)the dividends amounting to US$3 million received by it in Singapore in July 2016; and\n[S 607/2017 wef 27/10/2017]\n(e)the dividends amounting to US$7 million to be received by it in Singapore by December 2019,\n[S 607/2017 wef 27/10/2017]\nfrom Rotary Engineering Fujairah FTZ, a company incorporated in the United Arab Emirates.\n(2) The exemption under sub‑paragraph (1) is subject to the condition that the representations to the Ministry of Finance made by Rotary Engineering Limited —\n(a)on 7 July 2014, 14 November 2014 and 27 August 2015 through its tax agent, Deloitte & Touche LLP, as summarised in the letters of approval dated 24 October 2014, 9 December 2014 and 9 October 2015 addressed to Deloitte & Touche LLP;\n[S 607/2017 wef 27/10/2017]\n(b)on 24 June 2016 and 18 July 2016 through its tax agent, BDO Tax Advisory Pte Ltd, as summarised in the letter of approval dated 20 September 2016 addressed to BDO Tax Advisory Pte Ltd; and\n[S 607/2017 wef 27/10/2017]\n(c)on 29 May 2017 through its tax agent, BDO Tax Advisory Pte Ltd, as summarised in the letter of approval dated 23 August 2017 addressed to BDO Tax Advisory Pte Ltd,\n[S 607/2017 wef 27/10/2017]\nare accurate.\n[S 498/2016 wef 10/10/2016]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

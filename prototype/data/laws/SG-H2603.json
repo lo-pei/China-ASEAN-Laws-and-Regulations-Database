@@ -1,7 +1,7 @@
 {
  "id": "SG-H2603",
  "title": {
-  "zh": null,
+  "zh": "传染病（白喉与麻疹疫苗接种）条例 2021",
   "en": "Infectious Diseases (Diphtheria and Measles Vaccination) Regulations 2021",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "11.—(1) Despite regulation 3, regulation 3 of, and the First Schedule to, the revoked Regulations continue to apply to the parent or guardian of a child in Singapore who is born before 1 January 2022 as if those Regulations had not been revoked.\n(2) Despite regulation 4, regulation 4 of the revoked Regulations continues to apply in relation to a child residing in Singapore who has received primary diphtheria vaccination before 1 January 2022 as if those Regulations had not been revoked.\n(3) For the purposes of paragraph (2), “primary diphtheria vaccination” has the meaning given by regulation 3(2), read with regulation 3(3), of the revoked Regulations.\n(4) Despite regulation 5 —\n(a)regulation 11 of the revoked Regulations continues to apply to the parent or guardian of a child born in Singapore before 1 January 2022 as if those Regulations had not been revoked; and\n(b)regulation 12 of the revoked Regulations continues to apply to the parent or guardian of a child who is born outside Singapore and arrives in Singapore before 1 January 2022 as if those Regulations had not been revoked.\n(5) A written notice issued under regulation 17 of the revoked Regulations to a child’s parent or guardian is treated as a written notice issued under regulation 6.\n(6) Despite regulation 7, regulation 18 of, and the Third Schedule to, the revoked Regulations continue to apply to and in relation to any medical practitioner who, before 1 January 2022, has vaccinated any child —\n(a)against diphtheria under regulation 3(1) or 4 of the revoked Regulations; or\n(b)against measles under regulation 11 or 12 of the revoked Regulations,\nas if those Regulations had not been revoked.\n(7) A certificate of vaccination against diphtheria or measles (as the case may be) that is issued by a medical practitioner under regulation 18 of the revoked Regulations in respect of a child is treated as a certificate issued by the medical practitioner confirming that that child has been vaccinated against diphtheria or measles (as the case may be) under regulation 7(b).\n(8) A certificate of unfitness issued under regulation 19(1) of the revoked Regulations is treated as a certificate of unfitness mentioned in regulation 8(1), and a date specified under regulation 19(2) of the revoked Regulations is treated as a specified date under these Regulations.\n(9) Where the certificate of unfitness in paragraph (8) states that the child mentioned in that certificate is temporarily unfit to be vaccinated against diphtheria or measles, as the case may be —\n(a)the parent or guardian of the child must, no later than the date specified in the certificate of unfitness, take or cause the child to be taken to a medical practitioner; and\n(b)the medical practitioner mentioned in sub‑paragraph (a) must examine the child and —\n(i)vaccinate the child against diphtheria or measles (as the case may be) in accordance with these Regulations; or\n(ii)issue a certificate of unfitness under regulation 8(1) in respect of the child.\n(10) Despite regulation 8(3), regulation 19(4) of the revoked Regulations continues to apply to a medical practitioner who issues a certificate of unfitness under regulation 19 of the revoked Regulations before 1 January 2022 as if those Regulations had not been revoked.\n(11) In this regulation, “revoked Regulations” means the Infectious Diseases (Diphtheria and Measles Vaccination) Regulations as in force immediately before 1 January 2022."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Infectious Diseases (Diphtheria and Measles Vaccination) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

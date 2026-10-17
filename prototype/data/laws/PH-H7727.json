@@ -1,7 +1,7 @@
 {
  "id": "PH-H7727",
  "title": {
-  "zh": null,
+  "zh": "界定针对妇女及其儿童的暴力，规定受害者保护措施，规定相应处罚并为其他目的法案",
   "en": "An Act Defining Violence Against Women and their Children, providing for protective measures for victims, prescribing penalties therefore, and for other purposes",
   "orig": "An Act Defining Violence Against Women and their Children, providing for protective measures for victims, prescribing penalties therefore, and for other purposes"
  },
@@ -541,5 +541,13 @@
     "en": "Effectivity – This Act shall take effect fifteen (15) days from the date of its complete publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Defining Violence Against Women and their Children, providing for protective measures for victims, prescribing penalties therefore, and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

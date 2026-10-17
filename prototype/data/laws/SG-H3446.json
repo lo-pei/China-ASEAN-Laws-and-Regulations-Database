@@ -1,7 +1,7 @@
 {
  "id": "SG-H3446",
  "title": {
-  "zh": null,
+  "zh": "第 11(3) 条下的命令",
   "en": "Order under Section 11(3)",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Revised Edition of the Laws Act\n(Chapter 275)\nOrder under Section 11(3)\nWhereas pursuant to section 10 of the Revised Edition of the Laws Act, the Law Revision Commissioners have published, in the form of a booklet, a revised edition of the Penal Code (Chapter 224) as in force on 1st November 2008:\nAnd Whereas it is provided under section 11(3) of the Revised Edition of the Laws Act that the Commissioners shall transmit to the President a copy of the booklet and the President may thereupon, by order published in the Gazette, specify that the booklet shall in all courts and for all purposes be the sole and only proper law of Singapore in respect of that Act:\nNow therefore it is hereby ordered by the President that the booklet shall, with effect from 30th November 2008, be the sole and only proper law of Singapore in respect of that Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

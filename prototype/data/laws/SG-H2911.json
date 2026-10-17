@@ -1,7 +1,7 @@
 {
  "id": "SG-H2911",
  "title": {
-  "zh": null,
+  "zh": "致醉物质（治疗与康复）条例",
   "en": "Intoxicating Substances (Treatment and Rehabilitation) Regulations",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "11. So far as is practicable, arrangements shall be made for the religious instruction of inmates according to their own religious persuasion.\n[G.N. Nos. S 319/87; S 506/95; S 59/99]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Intoxicating Substances (Treatment and Rehabilitation) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

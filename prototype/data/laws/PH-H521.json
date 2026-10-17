@@ -1,7 +1,7 @@
 {
  "id": "PH-H521",
  "title": {
-  "zh": null,
+  "zh": "对归化作补充规定的法案",
   "en": "An Act Making Additional Provisions for Naturalization",
   "orig": "An Act Making Additional Provisions for Naturalization"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval, and shall apply to cases pending in court to those where the applicant has not yet taken the oath of citizenship: Provided, however, That in pending cases where the requirements site of publication under the old law had already been complied with, the publication herein required shall not apply.\nApproved, June 16, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making Additional Provisions for Naturalization",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H287",
  "title": {
-  "zh": null,
+  "zh": "银行（第 15A 与 15B 条豁免）（第 2 号）命令 2018",
   "en": "Banking (Exemption from Sections 15A and 15B) (No. 2) Order 2018",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. The Banking (Exemption from Sections 15A and 15B) Order 2016 (G.N. No. S 166/2016) is revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Banking (Exemption from Sections 15A and 15B) (No. 2) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

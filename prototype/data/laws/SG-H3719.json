@@ -1,7 +1,7 @@
 {
  "id": "SG-H3719",
  "title": {
-  "zh": null,
+  "zh": "市区重建局法 1989",
   "en": "Urban Redevelopment Authority Act 1989",
   "orig": null
  },
@@ -966,5 +966,13 @@
     "en": "FOURTH SCHEDULE\nSection 53\nSaving AND TRANSITIONAL Provisions\nContinuation of office of members of former Authority\n1. Every person who, immediately before 1 September 1989, held office as a member of the former Authority, subject to the provisions of this Act, continues to be a member of the Authority as if the person had been appointed under this Act on the same terms and conditions for a term expiring on the day on which the appointment under the repealed Act would expire.\nFirst chief executive\n2. The first chief executive of the Authority is the person who, immediately before 1 September 1989, is appointed to perform the duties of the General Manager of the former Authority and the person holds office on the same terms and conditions for a term expiring on the day on which his or her appointment under the repealed Act would expire.\nSaving of committees and delegations\n3.—(1) Every committee appointed by the former Authority under section 25(1) of the repealed Act continues as if appointed by the Authority under section 14(1) of this Act; and every person who, immediately before 1 September 1989, was a member of such committee continues as a member of the committee on the same terms and conditions for a term expiring on the day on which his or her appointment under the repealed Act would expire.\n(2) Any delegation made by the former Authority under section 25(2) or (3) of the repealed Act is deemed to be a delegation by the Authority made under section 14(2) or (3) of this Act, respectively.\nProjects of former Authority\n4. Every proposal, plan and project submitted by the former Authority before 1 September 1989 and which have neither been approved nor rejected by the Minister under section 24 of the repealed Act is deemed to have been submitted by the Authority under section 13 of this Act.\nCompanies of former Authority\n5. Every private company formed by the former Authority pursuant to section 20 of the repealed Act and existing immediately before 1 September 1989 is deemed to have been formed under the provisions of this Act.\nContinuation of standing orders, etc.\n6.—(1) All standing orders made under section 26 of the repealed Act by the former Authority and in force immediately before 1 September 1989 is deemed to have been made under section 15 of this Act by the Authority and may be amended, revoked or replaced by standing orders made under this Act.\n(2) Every authorisation and direction given or made by the Minister under the repealed Act with regard to the power, or exercise of the functions, of the former Authority and in force immediately before 1 September 1989 is deemed to have been given or made by the Minister under the corresponding provisions of this Act.\nInformation collected by Research and Statistics Units\n7. Subject to section 35B of the Jurong Town Corporation Act 1968 and to section 45, all information collected by the Research and Statistics Unit before 1 September 1989 and transferred to the Authority under section 31 is subject to the same safeguards as respect disclosure as are provided by the Statistics Act 1973 as if the information had been collected by the Authority under that Act.\nContracts, documents, etc.\n8.—(1) Any scheme, contract, document, licence, consent or resolution prepared, made, granted, approved or issued by or on behalf of the former Authority under any provision of the repealed Act, and any scheme, contract, document or licence made by or on behalf of the Government in respect of the Planning Department or the Research and Statistics Unit, except as otherwise expressly provided in this Act or any other written law, continues and is deemed to have been prepared, made, granted or approved by the Authority.\n(2) Where anything has been commenced by or on behalf of the former Authority, the Planning Department or the Research and Statistics Unit before 1 September 1989, such thing may be carried on and completed by or under the authority of the Authority.\n(3) In any written law and in any document, unless the context otherwise requires, any reference to the former Authority is to be construed as a reference to the Authority.\n[20/2013]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Urban Redevelopment Authority Act 1989",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

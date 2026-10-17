@@ -1,7 +1,7 @@
 {
  "id": "PH-H10207",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 4 月 28 日为奥罗拉省特别工作假日以纪念 Dona Aurora Aragon-Quezon 逝世纪念日的法案",
   "en": "An Act Declaring April 28 of Every Year a Special Working Holiday in the Province of Aurora to Commemorate the Death Anniversary of Dona Aurora Aragon-Quezon",
   "orig": "An Act Declaring April 28 of Every Year a Special Working Holiday in the Province of Aurora to Commemorate the Death Anniversary of Dona Aurora Aragon-Quezon"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring April 28 of Every Year a Special Working Holiday in the Province of Aurora to Commemorate the Death Anniversary of Dona Aurora Aragon-Quezon",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

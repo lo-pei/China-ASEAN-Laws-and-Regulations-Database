@@ -1,7 +1,7 @@
 {
  "id": "SG-H752",
  "title": {
-  "zh": null,
+  "zh": "共同服务隧道（滨海湾共同服务隧道区保护区）条例 2021",
   "en": "Common Services Tunnels (Marina Bay Common Services Tunnel Area Protection Zone) Regulations 2021",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) Subject to paragraph (2), a person who carries out engineering works in the Marina Bay CST Area may, at the person’s request and upon payment of a fee of $82.50, be provided with a copy of any technical plans or maps relating to the common services tunnel or any ancillary facility of the common services tunnel —\n(a)that may be affected by the engineering works; or\n(b)the safe and efficient operation and functionality of which may be affected by the engineering works.\n[S 762/2025 wef 01/12/2025]\n(2) The provision of any technical plans or maps under paragraph (1) is subject to the condition that the person —\n(a)agrees to keep the technical plans or maps confidential; and\n(b)executes a written undertaking (in the form determined by the CST Authority) to keep the technical plans or maps confidential."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Common Services Tunnels (Marina Bay Common Services Tunnel Area Protection Zone) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

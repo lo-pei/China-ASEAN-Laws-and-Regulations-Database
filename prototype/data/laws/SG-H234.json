@@ -1,7 +1,7 @@
 {
  "id": "SG-H234",
  "title": {
-  "zh": null,
+  "zh": "专利注册官的委任",
   "en": "Appointment of Registrar of Patents",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Registration of United Kingdom Patents Act\n(Chapter 271, Section 2)\nAppointment of Registrar of Patents\nN 1\nG.N. No. S 1222/1962\nREVISED EDITION 1990\n(25th March 1992)\n[16th July 1962]\nThe Registrar of Trade Marks has been appointed to be the Registrar of Patents for the purposes of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Registrar of Patents",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

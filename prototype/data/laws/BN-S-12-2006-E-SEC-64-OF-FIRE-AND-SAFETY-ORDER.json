@@ -1,7 +1,7 @@
 {
  "id": "BN-S-12-2006-E-SEC-64-OF-FIRE-AND-SAFETY-ORDER",
  "title": {
-  "zh": null,
+  "zh": "消防安全命令第 64 条",
   "en": "SEC 64 OF FIRE AND SAFETY ORDER",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "The Fire and Rescue Act is amended -\n\n(a) in section 7(g) by adding \"by or under any other written law.\" immediately after \"them\";\n\n(b) by repealing sections 8, 8B, 8C and 15."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SEC 64 OF FIRE AND SAFETY ORDER",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

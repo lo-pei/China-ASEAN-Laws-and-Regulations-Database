@@ -1,7 +1,7 @@
 {
  "id": "PH-H9797",
  "title": {
-  "zh": null,
+  "zh": "重组并加强合作社发展管理局，为此废止设立合作社发展管理局的第 6939 号共和国法",
   "en": "An Act Reorganizing and Strengthening the Cooperative Development Authority, Repealing for the Purpose Republic Act No. 6939, Creating the Cooperative Development Authority",
   "orig": "An Act Reorganizing and Strengthening the Cooperative Development Authority, Repealing for the Purpose Republic Act No. 6939, Creating the Cooperative Development Authority"
  },
@@ -350,5 +350,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reorganizing and Strengthening the Cooperative Development Authority, Repealing for the Purpose Republic Act No. 6939, Creating the Cooperative Development Authority",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

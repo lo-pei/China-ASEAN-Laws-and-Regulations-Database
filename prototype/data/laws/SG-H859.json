@@ -1,7 +1,7 @@
 {
  "id": "SG-H859",
  "title": {
-  "zh": null,
+  "zh": "死因裁判（评估员报酬）条例 2010",
   "en": "Coroners (Remuneration of Assessors) Regulations 2010",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. Where the authorising officer approves the remuneration to be paid to an assessor under these Regulations, the authorising officer must issue a certificate certifying the sum to be paid to the assessor."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Coroners (Remuneration of Assessors) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

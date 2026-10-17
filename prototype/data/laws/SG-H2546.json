@@ -1,7 +1,7 @@
 {
  "id": "SG-H2546",
  "title": {
-  "zh": null,
+  "zh": "所得税（Total Engine 资产管理私人有限公司——第 13(4) 条豁免）公告 2021",
   "en": "Income Tax (Total Engine Asset Management Pte. Ltd. — Section 13(4) Exemption) Notification 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest and legal fee payable by Total Engine Asset Management Pte. Ltd. —\n(a)to the respective lenders mentioned in the first column of the following table;\n(b)in respect of the respective loan amounts mentioned in the second column of the table that are or are to be used to finance the acquisition of the respective aircraft engines mentioned in the third column of the table;\n(c)under the respective agreements mentioned in the fourth column of the table; and\n(d)that are due and payable during the respective periods mentioned in the fifth column of the table,\nare exempt from tax:\nFirst column\nSecond column\nThird column\nFourth column\nFifth column\nLender\nLoan amount\n(US$)\nAircraft engines\nAgreement\nPeriod\n(both dates inclusive)\nLemon Gas Co., Ltd.\n16,050,000\n“SN 598977”\nLoan agreement dated 24 July 2019\n26 July 2019 to 24 June 2020\nChishima Real Estate Co., Ltd.\n16,050,000\n“SN 599218”\nLoan agreement dated 27 September 2019\n30 September 2019 to 28 August 2020\n(2) The exemption under sub‑paragraph (1) is subject to the conditions specified in the letter of approval dated 21 September 2020 issued by the Ministry of Finance and addressed to Total Engine Asset Management Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Total Engine Asset Management Pte. Ltd. — Section 13(4) Exemption) Notification 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

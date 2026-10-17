@@ -1,7 +1,7 @@
 {
  "id": "SG-H2549",
  "title": {
-  "zh": null,
+  "zh": "所得税（Trafigura Group 私人有限公司——第 13(4) 条豁免）公告 2020",
   "en": "Income Tax (Trafigura Group Pte Ltd — Section 13(4) Exemption) Notification 2020",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Subject to sub-paragraph (2), the interest, commission, fee and other payments payable by Trafigura Group Pte Ltd to any person who is not resident in Singapore on or after 30 September 2015 —\n(a)in connection with the applicable securities; or\n(b)in connection with any arrangement, management, guarantee or services relating to the applicable securities,\nare exempt from tax.\n(2) The exemption under sub-paragraph (1) does not apply to —\n(a)any interest, commission, fee or other payments derived from any operation carried on by the person through the person’s permanent establishment in Singapore; or\n(b)any interest, commission, fee or other payments that are due and payable after the date on which Trafigura Pte Ltd (a subsidiary of Trafigura Group Pte Ltd) ceases to be an approved global trading company under section 43P of the Act.\n(3) The exemption under sub‑paragraph (1) is subject to the conditions specified in the letter of approval dated 12 August 2015 issued by International Enterprise Singapore Board addressed to Trafigura Group Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Trafigura Group Pte Ltd — Section 13(4) Exemption) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

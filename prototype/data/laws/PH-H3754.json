@@ -1,7 +1,7 @@
 {
  "id": "PH-H3754",
  "title": {
-  "zh": null,
+  "zh": "为第十三司法区增设一名法官主持南莱特初审法院，常设于南莱特省San Juan市镇，为此修订经修正的1948年《司法法》第50条与第52条的法案",
   "en": "An Act Providing for One Additional Judge for the Thirteenth Judicial District to Preside Over the Court of First Instance of Southern Leyte, with Permanent Station in the Municipality of San Juan, Province of Southern Leyte, Amending for the Purpose Sections Fifty and Fifty-Two of the Judiciary Act of 1948, as Amended",
   "orig": "An Act Providing for One Additional Judge for the Thirteenth Judicial District to Preside Over the Court of First Instance of Southern Leyte, with Permanent Station in the Municipality of San Juan, Province of Southern Leyte, Amending for the Purpose Sections Fifty and Fifty-Two of the Judiciary Act of 1948, as Amended"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for One Additional Judge for the Thirteenth Judicial District to Preside Over the Court of First Instance of Southern Leyte, with Permanent Station in the Municipality of San Juan, Province of Southern Leyte, Amending for the Purpose Sections Fifty and Fifty-Two of the Judiciary Act of 1948, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

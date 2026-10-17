@@ -1,7 +1,7 @@
 {
  "id": "SG-H748",
  "title": {
-  "zh": null,
+  "zh": "公共赌馆（私人团体——豁免）公告",
   "en": "Common Gaming Houses (Private Bodies — Exemption) Notification",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nConditions\n1. The memorandum and articles of association, or the by-laws or other rules applicable to the private body do not contain any prohibition against gaming.\n2. The private body must ensure that any gaming conducted in the premises is conducted in an enclosed part of the premises that is used exclusively for the purposes of gaming.\n3. The private body must ensure that no person other than a member may have access to or remain in any part of the premises in which any gaming is conducted, or conduct or participate in any gaming in the premises.\n4. The private body must not allow any of its members to conduct or participate in any game other than the games commonly known as “Tau Ngau”, Mahjong, Russian Poker, Fishing or “Ang Tiam” or “Tiew Yue”, Five Cards or “Tan”, “Soo Sik” or “See Sek”, “Chi Kee” and “Dou Tai Chi”.\n5. The private body must not receive any commission or make any profit arising from any gaming conducted in the premises.\n6. The private body must not advance or furnish any money to any of its members for the purposes of facilitating any gaming conducted in the premises.\n7. The private body must not allow any member who is below the age of 18 years to participate in any gaming conducted in the premises.\n8. The private body must not allow any side-betting to take place in any gaming conducted in the premises.\n9. Where a private body having less than 50 members —\n(a)owns or uses not more than one premises, no more than 8 members may participate in any gaming at any one time in the premises; or\n(b)owns or uses 2 or more premises, the total number of members who may participate in any gaming in all such premises taken together shall not exceed 8 at any one time.\n10. Where a private body having 50 members or more but less than 1,000 members —\n(a)owns or uses not more than one premises, no more than 16 members may participate in any gaming at any one time in the premises; or\n(b)owns or uses 2 or more premises, the total number of members who may participate in any gaming in all such premises taken together shall not exceed 16 at any one time.\n11. Where a private body having 1,000 members or more —\n(a)owns or uses not more than one premises, no more than 16 members may participate in any gaming at any one time in the premises; or\n(b)owns or uses 2 or more premises, no more than 16 members may participate in any gaming at any one time in each of its premises.\n[G.N. No. S 127/2000]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Common Gaming Houses (Private Bodies — Exemption) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

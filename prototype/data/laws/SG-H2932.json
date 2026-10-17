@@ -1,7 +1,7 @@
 {
  "id": "SG-H2932",
  "title": {
-  "zh": null,
+  "zh": "绑架法 1961",
   "en": "Kidnapping Act 1961",
   "orig": null
  },
@@ -220,5 +220,13 @@
     "en": "14.—(1) Subject to this section, no complaint as to an offence under this Act shall be admitted in evidence in any civil or criminal proceeding whatsoever, and no witness shall be obliged or permitted to disclose the name or address of any informer, or state any matter which might lead to his discovery.\n(2) If any books, documents or papers which are in evidence or liable to inspection in any civil or criminal proceeding whatsoever contain any entry in which any informer is named or described or which might lead to his discovery, the court before which the proceeding is had shall cause all such passages to be concealed from view or to be obliterated so far as is necessary to protect the informer from discovery, but no further.\n(3) If on a trial for any offence under this Act the court, after full inquiry into the case, is of opinion that the informer wilfully made in his complaint a material statement which he knew or believed to be false or did not believe to be true, or if in any other proceeding the court is of opinion that justice cannot be fully done between the parties thereto without the discovery of the informer, the court may require the production of the original complaint, if in writing, and permit inquiry and require full disclosure concerning the informer."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Kidnapping Act 1961",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

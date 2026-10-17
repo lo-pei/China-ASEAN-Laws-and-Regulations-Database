@@ -1,7 +1,7 @@
 {
  "id": "PH-H761",
  "title": {
-  "zh": null,
+  "zh": "修订第401号共和国法（经第671号共和国法修正，关于免除1942年1月至1945年12月未付利息并将已付利息抵作本金）",
   "en": "An Act to Amend Republic Act Numbered Four Hundred and One, as Amended By Republic Act Numbered Six Hundred and Seventy-one, Entitled, \"An Act to Condone All Unpaid Interest Accruing From January First, Nineteen Hundred and Forty-two to December Thirty-first, Nineteen Hundred and Forty-five on All Obligations Outstanding on December Eight, Nineteen Hundred and Forty-one, and to Apply Payments of Interest Paid After February Twenty-eight, Nineteen Hundred and Forty-five, to the Principal Obligation If Still Outstanding, in Certain Cases.\"",
   "orig": "An Act to Amend Republic Act Numbered Four Hundred and One, as Amended By Republic Act Numbered Six Hundred and Seventy-one, Entitled, \"An Act to Condone All Unpaid Interest Accruing From January First, Nineteen Hundred and Forty-two to December Thirty-first, Nineteen Hundred and Forty-five on All Obligations Outstanding on December Eight, Nineteen Hundred and Forty-one, and to Apply Payments of Interest Paid After February Twenty-eight, Nineteen Hundred and Forty-five, to the Principal Obligation If Still Outstanding, in Certain Cases.\""
  },
@@ -61,14 +61,23 @@
    }
   },
   {
-   "id": "PH-H761-A2_2",
+   "id": "PH-H761-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Four Hundred and One, as Amended By Republic Act Numbered Six Hundred and Seventy-one, Entitled, \"An Act to Condone All Unpaid Interest Accruing From January First, Nineteen Hundred and Forty-two to December Thirty-first, Nineteen Hundred and Forty-five on All Obligations Outstanding on December Eight, Nineteen Hundred and Forty-one, and to Apply Payments of Interest Paid After February Twenty-eight, Nineteen Hundred and Forty-five, to the Principal Obligation If Still Outstanding, in Certain Cases.\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

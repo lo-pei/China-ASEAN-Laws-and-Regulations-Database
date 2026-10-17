@@ -1,7 +1,7 @@
 {
  "id": "PH-H7697",
  "title": {
-  "zh": null,
+  "zh": "儿童免受虐待、剥削与歧视特别保护法",
   "en": "Special Protection of Children against Child Abuse, Exploitation and Discrimination Act",
   "orig": "Special Protection of Children against Child Abuse, Exploitation and Discrimination Act An Act Providing for the elimination of the Worst Forms of Child Labor and affording stronger protection for the working child, amending for this purpose Republic Act No. 7610, as amended...."
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days from the date of its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Special Protection of Children against Child Abuse, Exploitation and Discrimination Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

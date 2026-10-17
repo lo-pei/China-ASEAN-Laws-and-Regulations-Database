@@ -1,7 +1,7 @@
 {
  "id": "SG-H3116",
  "title": {
-  "zh": null,
+  "zh": "医疗注册（任期）命令 2004",
   "en": "Medical Registration (Term of Office) Order 2004",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. A person elected on 4th November 2004 as a member of the Medical Council to take the place of a member of the Medical Council —\n(a)who was appointed or elected before 24th January 2003; and\n(b)whose term of office has expired,\nshall hold office for a term of 24 months and 15 days, from 6th November 2004 to 20th November 2006 (both dates inclusive)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Medical Registration (Term of Office) Order 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

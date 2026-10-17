@@ -1,7 +1,7 @@
 {
  "id": "PH-H5143",
  "title": {
-  "zh": null,
+  "zh": "1987 年选举改革法",
   "en": "The Electoral Reforms Law of 1987",
   "orig": "The Electoral Reforms Law of 1987 An Act Introducing Additional Reforms in the Electoral System and for Other Purposes"
  },
@@ -370,5 +370,13 @@
     "en": "Effectivity. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Electoral Reforms Law of 1987",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

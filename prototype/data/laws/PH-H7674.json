@@ -1,7 +1,7 @@
 {
  "id": "PH-H7674",
  "title": {
-  "zh": null,
+  "zh": "2003 年反人口贩运法",
   "en": "Anti-Trafficking in Person Act of 2003",
   "orig": "Anti-Trafficking in Person Act of 2003 An act to institute policies to Eliminate Trafficking in Persons especially Women and Children, establishing the necessary institutional mechanisms for the protection and support of trafficked persons, providing penalties for its violations, and for other purposes"
  },
@@ -92,14 +92,15 @@
    }
   },
   {
-   "id": "PH-H7674-A6_2",
+   "id": "PH-H7674-A6-d2",
    "no": 6,
    "noLabel": {
     "en": "Section 6."
    },
    "text": {
     "en": "Confidentiality. - At any stage of the investigation, prosecution and trial of an offense under this Act, law enforcement officers, prosecutors, judges, court personnel and medical practitioners, as well as parties to the case, shall recognize the right to privacy of the trafficked person and the accused. Towards this end, law enforcement officers, prosecutors and judges to whom the complaint has been referred may, whenever necessary to ensure a fair and impartial proceeding, and after considering all circumstances for the best interest of the parties, order a closed-door investigation, prosecution or trial. The name and personal circumstances of the trafficked person or of the accused, or any other information tending to establish their identities and such circumstances or information shall not be disclosed to the public.\nIn cases when prosecution or trial is conducted behind closed-doors, it shall be unlawful for any editor, publisher, and reporter or columnist in case of printed materials, announcer or producer in case of television and radio, producer and director of a film in case of the movie industry, or any person utilizing tri-media facilities or information technology to cause publicity of any case of trafficking in persons."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H7674-A8",
@@ -351,5 +352,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days from the date of its complete publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Anti-Trafficking in Person Act of 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10253",
  "title": {
-  "zh": null,
+  "zh": "扩大东达沃省建省日与节庆日作为特别非工作公共假日的适用范围，涵盖该省各市、市镇与描笼涯，为此修订第8256号共和国法",
   "en": "An Act Expanding the Coverage of Foundation Days and Feast Days as Special Nonworking Public Holidays in the Province of Davao Oriental to Include Cities, Municipalities and Barangays Therein, Amending for the Purpose Republic Act No.8256",
   "orig": "An Act Expanding the Coverage of Foundation Days and Feast Days as Special Nonworking Public Holidays in the Province of Davao Oriental to Include Cities, Municipalities and Barangays Therein, Amending for the Purpose Republic Act No.8256"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H10253-A1_2",
+   "id": "PH-H10253-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The foundation days and feast days in the Province of Davao Oriental, and the cities, municipalities, and barangays therein are hereby declared as special nonworking public holidays”."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10253-A2",
@@ -70,5 +71,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Expanding the Coverage of Foundation Days and Feast Days as Special Nonworking Public Holidays in the Province of Davao Oriental to Include Cities, Municipalities and Barangays Therein, Amending for the Purpose Republic Act No.8256",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

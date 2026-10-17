@@ -1,7 +1,7 @@
 {
  "id": "PH-H836",
  "title": {
-  "zh": null,
+  "zh": "将第556号共和国法授予Clavecilla Radio System的特许经营权予以延长的法案",
   "en": "An Act Extending the Authority Granted the Clavecilla Radio System Under Republic Act Numbered Five Hundred Fifty-Six",
   "orig": "An Act Extending the Authority Granted the Clavecilla Radio System Under Republic Act Numbered Five Hundred Fifty-Six"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Authority Granted the Clavecilla Radio System Under Republic Act Numbered Five Hundred Fifty-Six",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

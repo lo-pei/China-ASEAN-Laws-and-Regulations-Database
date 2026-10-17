@@ -1,7 +1,7 @@
 {
  "id": "PH-H2170",
  "title": {
-  "zh": null,
+  "zh": "修订第1965号共和国法第1条与第2条中关于 Bataan 农业中学选址的内容的法案",
   "en": "An Act Amending Sections One and Two of Republic Act Numbered Nineteen Hundred Sixty-Five Relative to the Site of the Bataan Agricultural High School",
   "orig": "An Act Amending Sections One and Two of Republic Act Numbered Nineteen Hundred Sixty-Five Relative to the Site of the Bataan Agricultural High School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Sections One and Two of Republic Act Numbered Nineteen Hundred Sixty-Five Relative to the Site of the Bataan Agricultural High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

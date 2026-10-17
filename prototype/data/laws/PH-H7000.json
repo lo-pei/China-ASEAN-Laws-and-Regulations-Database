@@ -1,7 +1,7 @@
 {
  "id": "PH-H7000",
  "title": {
-  "zh": null,
+  "zh": "将新怡诗夏省Talavera市镇Dr. Paulino J. Garcia纪念研究与医疗中心延伸医院床位由10张增至50张并为此拨款的法案",
   "en": "An Act Increasing the Bed Capacity of Dr. Paulino J. Garcia Memorial Research and Medical Center Extension Hospital in the Municipality of Talavera, Province of Nueva Ecija, From Ten (10) Beds to Fifty (50) Beds Capacity, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of Dr. Paulino J. Garcia Memorial Research and Medical Center Extension Hospital in the Municipality of Talavera, Province of Nueva Ecija, From Ten (10) Beds to Fifty (50) Beds Capacity, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of Dr. Paulino J. Garcia Memorial Research and Medical Center Extension Hospital in the Municipality of Talavera, Province of Nueva Ecija, From Ten (10) Beds to Fifty (50) Beds Capacity, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

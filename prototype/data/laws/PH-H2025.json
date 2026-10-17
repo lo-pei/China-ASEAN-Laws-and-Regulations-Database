@@ -1,7 +1,7 @@
 {
  "id": "PH-H2025",
  "title": {
-  "zh": null,
+  "zh": "授予 Consuelo S. Calalang 在布拉干省 Hagonoy 市镇建设、运营和维护制冰厂与冷库并售冰及供应冷库的特许经营权法案",
   "en": "An Act Granting Consuelo S. Calalang a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Hagonoy, Province of Bulacan, and to Sell Ice and to Supply Cold Storage Therein",
   "orig": "An Act Granting Consuelo S. Calalang a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Hagonoy, Province of Bulacan, and to Sell Ice and to Supply Cold Storage Therein"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval.\nApproval: June 19, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Consuelo S. Calalang a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Hagonoy, Province of Bulacan, and to Sell Ice and to Supply Cold Storage Therein",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

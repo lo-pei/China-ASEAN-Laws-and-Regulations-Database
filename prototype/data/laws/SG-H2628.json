@@ -1,7 +1,7 @@
 {
  "id": "SG-H2628",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护区）（第 2 号）命令 2021",
   "en": "Infrastructure Protection (Protected Areas) (No. 2) Order 2021",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Area\nChief Executive Officer, SATS‑Creuers Cruise Services Pte Ltd\nMARINA BAY CRUISE CENTRE (SEAWARD SIDE)\nAll that area comprised in Land Lots 307W, 308V, 383L and 408C in Town Subdivision 30, comprising the terminal, training wall, ancillary infrastructures and the contiguous sea, occupied by “MARINA BAY CRUISE CENTRE (SEAWARD SIDE)” containing an area of about 423,167 square metres and bounded approximately as follows:\nCommencing at Point A of MARINA BAY CRUISE CENTRE (SEAWARD SIDE), a point which is 27704.199 metres North and 30816.069 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n27704.199\n30816.069\n27726.465\n30847.003\n27726.026\n30847.323\n27745.118\n30873.820\n27750.966\n30881.931\n27802.759\n30953.818\n27808.609\n30961.927\n27811.889\n30966.545\n27928.802\n31128.799\n28045.540\n31290.808\n28049.314\n31296.002\n27968.184\n31354.465\n27887.055\n31412.929\n27805.925\n31471.392\n27724.795\n31529.856\n27643.971\n31588.099\n27562.841\n31646.563\n27481.711\n31705.026\n27400.281\n31763.706\n27264.766\n31861.360\n27264.994\n31861.677\n27263.533\n31862.729\n27263.277\n31862.372\n27262.644\n31862.828\n27262.900\n31863.185\n27261.440\n31864.238\n27257.640\n31858.941\n27276.887\n31664.817\n27296.134\n31470.694\n27315.381\n31276.571\n27334.628\n31082.448\n27427.021\n31015.853\n27519.414\n30949.259\n27611.806\n30882.664\nto the point of commencement.\nThe boundaries of “MARINA BAY CRUISE CENTRE (SEAWARD SIDE)” are more particularly delineated in the Survey Plan MBCC/PA/02 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Areas) (No. 2) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

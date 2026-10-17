@@ -1,7 +1,7 @@
 {
  "id": "SG-H1871",
  "title": {
-  "zh": null,
+  "zh": "人类生物医学研究（受限研究）条例 2017",
   "en": "Human Biomedical Research (Restricted Research) Regulations 2017",
   "orig": null
  },
@@ -310,5 +310,13 @@
     "en": "17. Any person who, in submitting an application, a notification, report, a form, a document or other information that is required to be submitted to the Director‑General under these Regulations —\n(a)makes any statement or furnishes any information that the person knows to be false or does not believe to be true; or\n(b)by the intentional suppression of any material fact, furnishes information which is misleading,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Human Biomedical Research (Restricted Research) Regulations 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

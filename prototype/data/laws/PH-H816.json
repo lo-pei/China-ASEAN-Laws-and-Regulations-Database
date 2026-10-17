@@ -1,7 +1,7 @@
 {
  "id": "PH-H816",
  "title": {
-  "zh": null,
+  "zh": "设立 Cavite 省新首府并为其提供宪章及为其他目的法案",
   "en": "An Act Establishing the New Capital of the Province of Cavite, and Providing a Charter Therefor, and for Other Purposes",
   "orig": "An Act Establishing the New Capital of the Province of Cavite, and Providing a Charter Therefor, and for Other Purposes"
  },
@@ -460,5 +460,13 @@
     "en": "Date of taking effect. -The provisions of this Act, which refer to the survey and delimitation of the territory of the City of Trece Martires, to the purchase or expropriation of the lands comprised in the said territory, to the appropriation for the said purposes, and to the construction of the necessary buildings for housing the offices of the government of the city, shall take effect upon the approval of this Act; all the other provisions of said Act shall take effect on the date of the inauguration of the city which shall be fixed by the President of the Philippines.\nApproved: May 24, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the New Capital of the Province of Cavite, and Providing a Charter Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H292",
  "title": {
-  "zh": null,
+  "zh": "银行（第 15A 与 15B 条豁免）命令 2018",
   "en": "Banking (Exemption from Sections 15A and 15B) Order 2018",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) The Minister exempts any shareholder of Malayan Banking Berhad from section 15B(1) of the Act, in relation to the shareholder becoming a 12% controller, a 20% controller or an indirect controller (as the case may be) of Maybank Singapore Limited by virtue of the shareholder’s interest or interests in one or more voting shares in Malayan Banking Berhad.\n(2) The Minister exempts Cekap Mentari Berhad from section 15B(1) of the Act, in relation to it becoming a 12% controller, a 20% controller or an indirect controller (as the case may be) of Maybank Singapore Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Banking (Exemption from Sections 15A and 15B) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

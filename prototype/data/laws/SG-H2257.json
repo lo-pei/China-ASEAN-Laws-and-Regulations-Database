@@ -1,7 +1,7 @@
 {
  "id": "SG-H2257",
  "title": {
-  "zh": null,
+  "zh": "所得税（船舶融资租赁——第 13(4) 条豁免）公告 2020",
   "en": "Income Tax (Finance Lease of Ship — Section 13(4) Exemption) Notification 2020",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) Subject to this paragraph, any payment that an approved international shipping enterprise or approved shipping investment enterprise is liable to make on or after 12 December 2018 to a non‑resident person under a finance lease of any foreign ship that is entered into on or before 31 December 2028, is exempt from tax.\n[S 157/2022 wef 04/03/2022]\n(2) Sub‑paragraph (1) does not apply to —\n(a)any payment liable to be made under the finance lease that is derived from any operation carried on by the non‑resident person through the person’s permanent establishment in Singapore; or\n(b)any payment liable to be made on or after the date that the approval of the approved international shipping enterprise or approved shipping investment enterprise is revoked or withdrawn.\n(3) Sub‑paragraph (1) continues to apply to an international shipping enterprise or a shipping investment enterprise the approval of which has expired, but that remains liable to make any payment under the finance lease on or after the date of expiry of the approval.\n(4) For the purposes of sub‑paragraph (3), a reference in sub‑paragraphs (1) and (2) to an approved international shipping enterprise or approved shipping investment enterprise is to an international shipping enterprise or a shipping investment enterprise, as the case may be."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Finance Lease of Ship — Section 13(4) Exemption) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

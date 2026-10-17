@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-129-TRADE-DISPUTES-ACT",
  "title": {
-  "zh": null,
+  "zh": "劳资纠纷法",
   "en": "TRADE DISPUTES ACT",
   "orig": null
  },
@@ -283,5 +283,13 @@
     "en": "Nothing in this Act shall authorise any member of the Special proviArmed Forces or any police officer or member of the Prison sions Service to take part in any lock-out or strike in contravention of the provisions of this Act. [Subsidiary 1\n\nSUBSIDIARY LEGISLATION NOTE. There is no Subsidiary Legislation. ,."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TRADE DISPUTES ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

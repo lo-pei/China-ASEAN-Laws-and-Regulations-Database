@@ -1,7 +1,7 @@
 {
  "id": "PH-H6863",
  "title": {
-  "zh": null,
+  "zh": "将达沃市托里尔区巴亚巴斯路口描笼涯Piedad的Doña Carmen Denia国立中学附属校从该校分离，改设为独立的巴亚巴斯路口国立中学，并为此拨款的法案",
   "en": "An Act Separating the Doña Carmen Denia National High School Annex At Piedad, Barangay Crossing Bayabas, Toril District, From the Doña Carmen Denia National High School, Toril Poblacion, Both in Davao City and Converting It Into A Separate and Independent National High School To Be Known As the Crossing Bayabas National High School",
   "orig": "An Act Separating the Doña Carmen Denia National High School Annex At Piedad, Barangay Crossing Bayabas, Toril District, From the Doña Carmen Denia National High School, Toril Poblacion, Both in Davao City and Converting It Into A Separate and Independent National High School To Be Known As the Crossing Bayabas National High School"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Doña Carmen Denia National High School Annex At Piedad, Barangay Crossing Bayabas, Toril District, From the Doña Carmen Denia National High School, Toril Poblacion, Both in Davao City and Converting It Into A Separate and Independent National High School To Be Known As the Crossing Bayabas National High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

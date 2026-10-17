@@ -1,7 +1,7 @@
 {
  "id": "SG-H2620",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（自动道路缺陷检测——豁免）命令 2023",
   "en": "Infrastructure Protection (Automated Road Defects Inspection — Exemption) Order 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 29(1) of the Act does not apply to any person under a contract for service (called in this Order a contractor) with the Land Transport Authority of Singapore to conduct an automated road defects inspection, or any employee of the contractor acting on the contractor’s behalf for the conduct of the inspection, if the inspection is conducted under all of the following conditions:\n(a)the contractor or employee acts in accordance with any direction of the Land Transport Authority of Singapore relating to the taking of any photograph of a protected area or a protected place;\n(b)the taking of any photograph of a protected area or a protected place is conducted using equipment mounted on or inside the inspection vehicle;\n(c)the taking of any photograph of a protected area or a protected place is solely for the purposes of the inspection."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Automated Road Defects Inspection — Exemption) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

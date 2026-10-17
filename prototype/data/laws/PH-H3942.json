@@ -1,7 +1,7 @@
 {
  "id": "PH-H3942",
  "title": {
-  "zh": null,
+  "zh": "授予 Raul Daza 在 Calbayog 市建设、运营和维护制冰厂与冷藏库并在该市与北萨马省分销销售冰和供应冷藏的特许权法案",
   "en": "An Act Granting Raul Daza a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the City of Calbayog, and to Distribute and Sell Ice and Supply Cold Storage Therein and in the Province of Northern Samar",
   "orig": "An Act Granting Raul Daza a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the City of Calbayog, and to Distribute and Sell Ice and Supply Cold Storage Therein and in the Province of Northern Samar"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Raul Daza a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the City of Calbayog, and to Distribute and Sell Ice and Supply Cold Storage Therein and in the Province of Northern Samar",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

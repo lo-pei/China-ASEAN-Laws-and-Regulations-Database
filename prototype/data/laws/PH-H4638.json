@@ -1,7 +1,7 @@
 {
  "id": "PH-H4638",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统接受国际货币基金组织协定条款修正案，以设立特别提款权机制并使该基金现行规则与做法的特定修改生效",
   "en": "An Act Authorizing the President of the Philippines to Accept the Amendment to the Articles of Agreement of the International Monetary Fund So as to Establish a Facility for Special Drawing Rights and Giving Effect to Certain Modifications in the Present Rules and Practices of the Fund",
   "orig": "An Act Authorizing the President of the Philippines to Accept the Amendment to the Articles of Agreement of the International Monetary Fund So as to Establish a Facility for Special Drawing Rights and Giving Effect to Certain Modifications in the Present Rules and Practices of the Fund"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Accept the Amendment to the Articles of Agreement of the International Monetary Fund So as to Establish a Facility for Special Drawing Rights and Giving Effect to Certain Modifications in the Present Rules and Practices of the Fund",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1905",
  "title": {
-  "zh": null,
+  "zh": "所得税（保险人金融工具利润、亏损或费用计算基础变更的调整）条例 2022",
   "en": "Income Tax (Adjustment for Change of Basis of Computing Profit, Loss or Expense from Financial Instruments of Insurers) Regulations 2022",
   "orig": null
  },
@@ -185,5 +185,13 @@
     "en": "THIRD SCHEDULE\nRegulation 5(2) and (3)\nProfit or loss in respect of financial instruments\nof insurer recognised on first day of basis period\nof initial year of assessment for transition from\nother tax treatment to tax treatment under\nsection 34AAA of Act\n1. The amount C mentioned in regulation 5(2) in respect of a financial instrument of an insurer is computed in accordance with the following table:\nFirst column\nSecond column\nClassification of financial instrument under FRS 39 on the relevant day\nFormula for computing\namount C\n1.In respect of an equity instrument that is required by FRS 39 to be classified as any of the following financial assets on the relevant day:\n(a)a financial asset at fair value through profit or loss;\n(b)an available‑for‑sale financial asset;\n(c)a financial asset carried at cost.\nA – B + C\nwhere —\n(a)A is the value of the equity instrument recognised on the relevant day in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return;\n(b)B is the cost incurred by the insurer in acquiring the equity instrument; and\n(c)C is the total amount of losses allowed under the Act to the insurer in respect of the equity instrument for all years of assessment before the initial year of assessment, excluding the amount of any losses that had been reversed and treated as income for any year of assessment before the initial year of assessment.\n2.In respect of a debt instrument that is required by FRS 39 to be classified as any of the following financial assets on the relevant day:\n(a)a financial asset at fair value through profit or loss;\n(b)an available‑for‑sale financial asset;\n(c)a held‑to‑maturity investment.\n(A – B + C) + (X – Y)\nwhere —\n(a)A is the value of the debt instrument recognised on the relevant day in Form A1 (which relates to the “Statement of Financial Position”) of the insurer’s MAS return;\n(b)B is the cost incurred by the insurer in acquiring the debt instrument;\n(c)C is the total amount of losses allowed under the Act to the insurer in respect of the debt instrument for all years of assessment before the initial year of assessment, excluding the amount of any losses that had been reversed and treated as income for any year of assessment before the initial year of assessment;\n(d)X is the total amount of interest income from the debt instrument, determined using the contractual interest rate, for all years of assessment between the first year of assessment relating to the basis period in which the insurer acquired the debt instrument and the year of assessment immediately before the initial year of assessment (both years of assessment inclusive); and\n(e)Y is the total amount of interest income from the debt instrument that was chargeable with tax, for all years of assessment between the first year of assessment relating to the basis period in which the insurer acquired the debt instrument and the year of assessment immediately before the initial year of assessment (both years of assessment inclusive)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (Adjustment for Change of Basis of Computing Profit, Loss or Expense from Financial Instruments of Insurers) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

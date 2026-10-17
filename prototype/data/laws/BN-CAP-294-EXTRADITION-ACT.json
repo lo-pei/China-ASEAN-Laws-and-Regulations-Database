@@ -1,0 +1,934 @@
+{
+ "id": "BN-CAP-294-EXTRADITION-ACT",
+ "title": {
+  "zh": "引渡法",
+  "en": "EXTRADITION ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p22",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to consolidate and amend the laws relating to the extradition of"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 61,
+ "chars": 58448,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-294-EXTRADITION-ACT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-294-EXTRADITION-ACT.pdf》（65 页），本次切分 61 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Extradition Act."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "(1) In this Act, unless the context otherwise requires — “Commonwealth country” means a country specified in “country” includes —\n\n(a) a colony, territory or protectorate of a country;\n\n(b) a territory for the international relations of which a country is responsible; and\n\n(c) a ship or aircraft owned by or registered in a country; “designated country” means a country specified in Schedule 2; “entity” includes an international criminal court or tribunal, and “country” shall where appropriate be deemed to include an entity; “extradition country” means —\n\n(a) a Commonwealth country;\n\n(b) a designated country;\n\n(c) a treaty country; or\n\n(d) any other country certified by the Attorney General to be an extradition country for the purpose of a particular extradition requests; “extradition offence” has the meaning given by section 3(1); “extradition request” means a request in writing by a country for the surrender of a person to that country; “extradition treaty”, in relation to a country, means a treaty —\n\n(a) to which that country and Brunei Darussalam are parties (whether or not any other country is also a party); and\n\n(b) that relates wholly or partly to the surrender of persons accused or convicted of offences; “foreign escort officer” means a representative of the country to whom a person is to be surrendered and who is authorised by that country to escort him from Brunei Darussalam to that country; “ICPO-Interpol” means the International Criminal Police “original warrant” means a warrant issued in a designated country for the arrest of a person; “political offence”, in relation to a country, means an offence against the law of that country that is of a political character (whether because of the circumstances in which it is committed or otherwise and whether or not there are competing political parties in the country), but does not include —\n\n(a) an offence —\n\n(i) that is constituted by conduct of a kind referred to in a multilateral treaty to which Brunei Darussalam\n\n(ii) for which parties have an obligation to extradite or\n\n(b) the offence of genocide;\n\n(c) an offence of —\n\n(i) murder, kidnapping or any other attack on any person or his liberty; or\n\n(ii) threatening or attempting to or participating as an accomplice in, murder, kidnapping or any other attack on the person or\n\n(d) any other offence that Brunei Darussalam and that other country have agreed will not be treated as a political offence for the purposes of extradition; “prison” includes a jail, lockup or other place of detention; “provisional arrest warrant” means —\n\n(a) in Part 2, a warrant, in accordance with Form 1 in Schedule 4, issued under section 6(1);\n\n(b) in Part 4, a warrant, in accordance with Form 2 in Schedule 4, issued under section 26; “repealed Act” means the Extradition Act (Chapter 8) repealed by Extradition Order, 2006 (S 10/2006); “requesting country” means a country that is seeking the surrender of a person from Brunei Darussalam; “specialty undertaking” means an undertaking by a requesting country about the treatment of a person whose surrender is sought by that requesting country; “surrender warrant” means —\n\n(a) in Part 2, a warrant, in accordance with Form 3 in Schedule 4, issued under section 17(4);\n\n(b) in Part 4, a warrant, in accordance with Form 5 in Schedule 4, issued under section 33; “temporary surrender warrant” means —\n\n(a) in Part 2, a warrant, in accordance with Form 4 in Schedule 4, issued under section 19(1); or\n\n(b) in Part 4, a warrant, in accordance with Form 6 in Schedule 4, issued under section 37(1); “treaty” includes a convention, protocol, arrangement or agreement between two or more countries; “treaty country” means a country —\n\n(a) with which Brunei Darussalam has an extradition\n\n(b) where the treaty is a bilateral extradition treaty, that is specified in Schedule 3; “writing” includes facsimile, electronic mail and any other means of communication which is able to be reproduced in printed form.\n\n(2) An arrest warrant, provisional arrest warrant, surrender warrant and temporary surrender warrant shall be in the appropriate form in"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "Extradition offence"
+   },
+   "text": {
+    "en": "(1) An offence is an extradition offence if —\n\n(a) it is an offence deemed by any written law or any treaty to which Brunei Darussalam is a party to be an extradition offence; or\n\n(b) it is an offence against a law of the requesting country for which the maximum penalty is death or imprisonment, or other deprivation of liberty, for a period of not less than one year, and the conduct that constitutes the offence, if committed in Brunei Darussalam, would constitute an offence in Brunei Darussalam for which the maximum penalty is death or imprisonment, or other deprivation of liberty, for a period of not less than one year.\n\n(2) In determining whether any conduct constitutes an offence —\n\n(a) regard may be had to only some of the acts that make up that\n\n(b) it is not relevant whether that conduct is named, defined or characterised by the requesting country in the same way as it is in Brunei Darussalam.\n\n(3) In determining the maximum penalty for an offence for which no statutory penalty is imposed, regard shall be had to the level of penalty that can be imposed by any court in the requesting country for that offence.\n\n(4) An offence may be an extradition offence notwithstanding that —\n\n(a) it is an offence against a law of the requesting country relating to taxation, customs duties or other revenue matters or to foreign exchange control; and\n\n(b) Brunei Darussalam does not impose a duty, tax, impost or control of that kind.\n\n(5) A person may be extradited —\n\n(a) whether or not the conduct on which the extradition country bases its request occurred in the territory over which it has jurisdiction; and\n\n(b) whether or not Brunei Darussalam could exercise jurisdiction in similar circumstances.\n\n(6) An offence shall also be an extradition offence if it consists of an attempt or a conspiracy to commit, or an abetment of the commission of, any offence described in subsection (1). Extradition objection"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "EXTRADITION FROM BRUNEI DARUSSALAM"
+   },
+   "text": {
+    "en": "For the purpose of this Act, there is an extradition objection in relation to an extradition offence for which the surrender of a person is sought by an extradition country if —\n\n(a) the extradition offence is regarded as a political offence;\n\n(b) there are substantial grounds for believing that his surrender is sought for the purpose of prosecuting or punishing him because of his race, religion, nationality, political opinions, sex or status, or for a political offence in the requesting country;\n\n(c) on surrender, he may be prejudiced at his trial, or punished, detained or restricted in his personal liberty, because of his race, religion, nationality, political opinions, sex or status;\n\n(d) the offence is an offence under military law, but not also under the ordinary criminal law, of Brunei Darussalam;\n\n(e) final judgment has been given against him for the offence in Brunei Darussalam or in a third country;\n\n(f) under the law of the or of Brunei Darussalam, he has become immune from prosecution or punishment because of lapse of time, amnesty or any other reason;\n\n(g) he has already been acquitted or pardoned in the requesting country or in Brunei Darussalam, or punished under the law of that country or of Brunei Darussalam, for the offence or another offence constituted by the same conduct as the extradition offence; or\n\n(h) judgment has been given in his absence and there is no provision in the law of the requesting country entitling him to appear before a court and raise any defence that he may have.\n\nGENERAL PROVISIONS Preliminary matters Application of Part 2"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "heading": {
+    "en": "Arrests in relation to extradition offences"
+   },
+   "text": {
+    "en": "This Part applies to the extradition of a person accused or convicted of extradition offences in other countries from Brunei Darussalam to —\n\n(a) a Commonwealth country in accordance with Part 3;\n\n(b) a treaty country in accordance with Part 5; and\n\n(c) any other country or an entity in accordance with Part 6."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "heading": {
+    "en": "Issue of provisional arrest warrant"
+   },
+   "text": {
+    "en": "(1) A magistrate shall issue a provisional arrest warrant for a person if —\n\n(a) a country or entity, either directly or through ICPO-Interpol, Brunei Darussalam that —\n\n(i) a person whose surrender is desired is, or is believed to be, in or on his way to Brunei Darussalam; and\n\n(ii) the requesting country or entity intends to make a formal request to Brunei Darussalam for his extradition;\n\n(b) an application on behalf of the requesting country or entity is made to a magistrate for a provisional arrest warrant;\n\n(c) the application is supported by the documents specified in\n\n(d) the magistrate is satisfied that the offence is an extradition\n\n(e) the magistrate is satisfied that the request is made by an extradition country.\n\n(2) The following documents are required for a provisional arrest\n\n(a) a copy of the warrant for the arrest issued in the requesting\n\n(b) a description of the person sought;\n\n(c) a statement of the acts that constitute the offence;\n\n(d) the text of the law creating the offence or, if the offence is not created by statute, a statement of the offence;\n\n(e) the text of the law of the requesting country that prescribes the penalty or, if the penalty is not prescribed by statute, a statement of the penalty that can be imposed."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "heading": {
+    "en": "Arrest and remand on provisional arrest warrant"
+   },
+   "text": {
+    "en": "(1) A person arrested under a provisional arrest warrant shall be brought before a magistrate as soon as practicable.\n\n(2) Until the Attorney General issues an authority to proceed, the magistrate shall —\n\n(a) remand that person in custody; or\n\n(b) if the magistrate is satisfied that he is unlikely to abscond, release him on bail.\n\n(3) A magistrate who releases a person on bail may order that his passport and other travel documents be surrendered until the extradition proceedings are concluded.\n\n(4) Subject to section 8, a person shall not be remanded in custody or released on bail for a period longer than 60 days.\n\n(5) After remanding him, the magistrate shall —\n\n(a) inform the Attorney General —\n\n(i) that he has remanded that person;\n\n(ii) of the name of the requesting country;\n\n(iii) of the offence for which surrender is being sought; and\n\n(b) provide to the Attorney General and the person being remanded a copy of the documents on which the issue of the provisional arrest warrant is based."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "heading": {
+    "en": "Release from remand"
+   },
+   "text": {
+    "en": "(1) If —\n\n(a) any person has been remanded in custody or released on bail\n\n(i) for more than 60 days after the date on which that person was arrested; or\n\n(ii) if an extradition treaty between Brunei Darussalam and the requesting country provides for another period, at the end of that period; and\n\n(b) the Attorney General has not issued an authority to proceed, that person shall be brought before a magistrate.\n\n(2) The magistrate may remand that person in custody or release him on bail, for a further period of not more than 60 days if the magistrate is satisfied that an authority to proceed will be issued within that period.\n\n(3) If the magistrate is not satisfied that an authority to proceed will be issued within the period referred to in subsection (2), he shall order —\n\n(a) the release of that person from custody; or\n\n(b) the discharge of the sureties for the bail."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "heading": {
+    "en": "Authority to proceed"
+   },
+   "text": {
+    "en": "(1) An extradition request shall be made to the Attorney General by a diplomatic officer, consular officer or a Minister of the requesting state. Upon receipt of such request, the Attorney General may —\n\n(a) issue an authority to proceed if he is satisfied that —\n\n(i) the offence for which extradition is sought is an\n\n(ii) the requesting country is an extradition country;\n\n(iii) there is nothing in section 17 or any other written law that would preclude surrender of that person;\n\n(iv) there is no other reason why the authority to proceed should not be issued;\n\n(b) give the authority to proceed to a magistrate;\n\n(c) provide a copy of the authority to proceed and the extradition request to the person concerned.\n\n(2) If the Attorney General does not issue an authority to proceed, he shall inform a magistrate of this and the magistrate shall order —\n\n(a) such person to be released; or\n\n(b) the discharge of the sureties for the bail.\n\n(3) If an authority to proceed is received by a magistrate in relation to a person who has not been arrested under a provisional arrest warrant, the magistrate shall issue a warrant, in accordance with Form 7 of Schedule 4, for the arrest of that person. Arrest and remand on authority to proceed"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "heading": {
+    "en": "Extradition proceedings"
+   },
+   "text": {
+    "en": "(1) A person who is arrested under a warrant issued under section 9(3) shall be brought before a magistrate as soon as practicable.\n\n(2) The magistrate shall —\n\n(a) remand the person in custody; or\n\n(b) if the magistrate is satisfied that he is unlikely to abscond, release him on bail for a period that is necessary for proceedings under this Part to be conducted.\n\n(3) A magistrate who releases a person on bail may order that his passport and other travel documents be surrendered until the extradition proceedings are concluded."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "heading": {
+    "en": "Consent to surrender"
+   },
+   "text": {
+    "en": "(1) At any time, a person may inform a magistrate that he consents to being surrendered to the requesting country for the extradition offence for which that country seeks his surrender.\n\n(2) If —\n\n(a) that person informs the magistrate that he consents to being\n\n(b) the magistrate is satisfied that the consent was given the magistrate shall inform him of the effect of consenting.\n\n(3) The effect of consenting is that —\n\n(a) he will be committed to prison without any extradition proceedings to determine whether he should be surrendered for an extradition offence; and\n\n(b) after the Attorney General issues a surrender warrant, he will be surrendered to the requesting country as soon as practicable.\n\n(4) If, after being informed of the effect of consenting, he again consents to being surrendered, the magistrate shall —\n\n(a) by warrant, order that he be committed to prison; and\n\n(b) inform the Attorney General in writing that such person has been committed to prison and of the offence for which he has consented to be surrendered.\n\n(5) The Attorney General may under section 17 issue a surrender warrant for that person after being informed under subsection (4)(b).\n\n(6) If —\n\n(a) a person consents to being surrendered for the extradition\n\n(b) the requesting country has asked that he also be surrendered for another offence that is not an extradition offence, the magistrate shall ask him whether he also consents to being surrendered for that other offence."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "heading": {
+    "en": "Extradition proceedings"
+   },
+   "text": {
+    "en": "If —\n\n(a) the Attorney General has issued an authority to proceed for an extradition offence in relation to any person;\n\n(b) that person has not under section 11 consented to surrender\n\n(c) an application is made to a magistrate by or on behalf of that person or of the requesting country for extradition proceedings to be conducted in relation to him; and\n\n(d) the magistrate considers that that person and the requesting country have had reasonable time to prepare for the conduct of the the magistrate shall conduct extradition proceedings as soon as practicable to determine whether he should be surrendered for the extradition offence."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "heading": {
+    "en": "Conduct of proceedings"
+   },
+   "text": {
+    "en": "(1) During the extradition proceedings, the magistrate shall hear the case in the same manner and have the same jurisdiction and powers, as near as may be, as if the person was accused of an offence committed within his\n\n(2) During the proceedings, a person is not entitled to adduce evidence, and the magistrate is not entitled to receive evidence, to contradict an allegation that he has engaged in conduct that constitutes the offence for which extradition is sought."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "heading": {
+    "en": "Determination for surrender"
+   },
+   "text": {
+    "en": "(1) A magistrate shall not determine that a person should be surrendered and ordered to be held in custody until the Attorney General has made a decision under section 17, unless the magistrate is satisfied —\n\n(a) that the requesting country is an extradition country;\n\n(b) that the offence for which surrender is sought is an\n\n(c) as to the identity of that person;\n\n(d) that the supporting documents (as defined in section 15(1)) have been produced to the magistrate;\n\n(e) that the supporting documents satisfy the requirements of\n\n(f) that surrender should not be refused because the person sought has established an extradition objection.\n\n(2) If the magistrate orders that the person be held in custody,\n\n(a) by a warrant, order that he be committed to prison to await the Attorney General’s decision under section 17;\n\n(b) inform him that he may, within 15 days after the day on which the order is made, seek a review of the order under\n\n(c) record in writing his decision and the extradition offence for which he should be surrendered; and\n\n(d) give a copy of the decision to him and to the Attorney General.\n\n(3) If —\n\n(a) the magistrate orders that he be held in custody; and\n\n(b) the requesting country has asked that he also be surrendered for another offence that is not an extradition offence, the magistrate shall ask him whether he also consents to being surrendered for that other offence.\n\n(4) If the magistrate determines that he should not be surrendered to the requesting country, the magistrate shall —\n\n(a) order that he be released; and\n\n(b) inform the Attorney General in writing of the order and of the reasons for determining that he should not be surrendered."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "heading": {
+    "en": "Supporting documents"
+   },
+   "text": {
+    "en": "(1) In section 14, supporting documents, in relation to an extradition\n\n(a) a description of the person sought, together with any other information that may help to establish his identity and nationality;\n\n(b) the text of the law creating the offence or, if the offence is not created by statute, a statement of the offence;\n\n(c) the text of the law of the requesting country that prescribes the penalty or, if the penalty is not prescribed by statute, a statement of the penalty that can be imposed;\n\n(d) a statement of the acts that constitute the offence, and details of the time and place the offence was committed;\n\n(e) if that person is accused of the offence, a warrant issued by the requesting country for his arrest for the offence, or an authenticated copy of the warrant; and\n\n(f) if that person has been convicted of the offence, documents, or authenticated copies of documents, that provide evidence —\n\n(i) of the conviction;\n\n(ii) of the sentence imposed or intended to be imposed;\n\n(iii) whether the sentence imposed has been carried out;\n\n(iv) whether the sentence is immediately enforceable.\n\n(2) If —\n\n(a) a document relevant to the proceedings contains a deficiency; and\n\n(b) the magistrate considers the deficiency to be minor, he shall adjourn the proceedings for a reasonable period to allow the deficiency to be remedied.\n\n(3) Any document that is duly authenticated is admissible in the proceedings without further proof.\n\n(4) A document that is sought by or on behalf of the requesting country to be admitted in the proceedings is duly authenticated if —\n\n(a) it purports to be signed or certified by a judge, magistrate or other judicial officer in or of the requesting country; and\n\n(b) it purports to be authenticated by the oath of a witness or to be sealed with an official or public seal —\n\n(i) of the requesting country or of a Minister or a department or officer of the Government of that country; or\n\n(ii) of the person administering the Government of that country or of any person administering a department of the Government of that country if the extradition country is a colony, territory or protectorate.\n\n(5) Nothing in this section prevents the proof of any matter or the admission of any document in the proceedings in accordance with any other law of Brunei Darussalam."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "heading": {
+    "en": "Review of magistrate’s decision"
+   },
+   "text": {
+    "en": "(1) If a magistrate makes an order that a person be held in custody until the Attorney General makes a final decision under section 17, he may apply to the High Court for a review of the order.\n\n(2) If a magistrate makes an order that a person be released, or that he be surrendered for some offences only, the Attorney General on behalf of the requesting country may apply to the High Court for a review of the order.\n\n(3) The application shall be made within 15 days after the day on which the magistrate makes the order.\n\n(4) The High Court shall have regard only to the material that was before the magistrate.\n\n(5) The High Court may confirm, vary or quash the order of the magistrate and order that that person be held for surrender or be released.\n\n(6) If the High Court orders that the person be held in custody until the Attorney General has made a final decision under section 17, the Court shall include in its judgment a statement specifying the offence and shall —\n\n(a) if he is not in custody, by warrant, commit him to prison until the Attorney General has made that decision; or\n\n(b) if he is in custody, order that, he remain in custody until the Attorney General has made that decision.\n\n(7) If the High Court orders that he be released, he shall be released accordingly."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "heading": {
+    "en": "Surrender determination by Attorney General"
+   },
+   "text": {
+    "en": "(1) If —\n\n(a) a magistrate has reported to the Attorney General that a person should be held for surrender; and\n\n(b) the period during which an application for a review may be made has ended and no application for review has been made or, on review, the High Court has ordered that he be held for surrender, the Attorney General shall make a final decision whether he should be\n\n(2) The Attorney General shall refuse to order such person be surrendered if he is satisfied that there exists a valid extradition objection under section 4.\n\n(3) The Attorney General may refuse to order that he be surrendered if —\n\n(a) the requesting country has not given a specialty undertaking;\n\n(b) the requesting country is not a country with which Brunei Darussalam has a bilateral treaty containing a specialty\n\n(c) the law of the requesting country does not contain a provision prohibiting prosecution for an offence other than the one for which he\n\n(d) he is a citizen of Brunei Darussalam;\n\n(e) a prosecution for the offence for which surrender has been ordered is pending against him in Brunei Darussalam;\n\n(f) the offence for which surrender has been ordered was committed outside the territory of the requesting country, and the law of Brunei Darussalam does not provide for jurisdiction over an offence of that kind committed in similar circumstances outside its territory;\n\n(g) the offence for which surrender has been ordered is regarded by Brunei Darussalam as having been committed wholly or partly within Brunei Darussalam;\n\n(h) he has been sentenced or would be liable to be tried or sentenced in the requesting country by an extraordinary or ad hoc court\n\n(i) he has been subjected in the requesting country to torture or cruel, inhuman or degrading treatment or punishment; or\n\n(j) having regard to —\n\n(i) the national interest of Brunei Darussalam, including its interests in effective international co-operation to\n\n(ii) the severity of the offence, the Attorney General considers that he should not be\n\n(4) For the purposes of subsection (3)(a), the requesting country is deemed to have given a specialty undertaking if it undertakes that he will not, without having the opportunity of leaving the requesting country —\n\n(a) be detained or tried for an offence committed before surrender, other than —\n\n(i) the offence for which surrender is granted; or\n\n(ii) an offence of which he could be convicted on proof of the acts constituting the offence for which surrender is sought, for which the penalty is no greater than the penalty for the offence for which surrender is sought; or\n\n(b) be detained in the requesting country for surrender to a third country for an offence committed before surrender to the requesting unless the Attorney General consents to the trial or to the surrender to the\n\n(5) If the Attorney General decides that that person is to be surrendered to the requesting country, the Attorney General shall issue a surrender warrant or a temporary surrender warrant for him.\n\n(6) If the Attorney General decides that that person is not to be surrendered to the requesting country, the Attorney General shall in writing order that he be released."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "heading": {
+    "en": "Surrender warrant"
+   },
+   "text": {
+    "en": "(1) The surrender warrant shall —\n\n(a) be in writing;\n\n(b) state the offences for which that person is to be surrendered;\n\n(c) require any person who has custody of that person to hand him over to a police officer;\n\n(d) authorise a police officer to —\n\n(i) transport that person from the place where the police officer takes custody of him to another place within Brunei Darussalam for the purpose of handing him over to the custody of a foreign escort officer; and\n\n(ii) hold that person in custody for so long as is necessary to enable him to be handed over to the custody of a foreign escort officer; and\n\n(e) authorise the foreign escort officer to transport that person out of Brunei Darussalam.\n\n(2) If that person is serving a custodial sentence, or has been admitted to bail, in for an in Brunei Darussalam, the surrender warrant shall not be executed until —\n\n(a) he has been released from custody; or\n\n(b) the sureties for the bail have been discharged."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "heading": {
+    "en": "Temporary surrender warrant"
+   },
+   "text": {
+    "en": "(1) The Attorney General may issue a temporary surrender warrant instead of a surrender warrant if —\n\n(a) that is serving a custodial in Brunei Darussalam;\n\n(b) surrender is sought for an offence of which he is accused but of which he has not been convicted;\n\n(c) he is satisfied that the requesting country has given an adequate undertaking that that person will be given a speedy trial in the requesting country and will be returned to Brunei Darussalam after the\n\n(d) the Attorney General is satisfied that adequate provision has been made for the travel of that person to the requesting country and for his return to Brunei Darussalam.\n\n(2) The temporary surrender warrant shall —\n\n(a) be in writing;\n\n(b) state the offences for which that person is to be surrendered;\n\n(c) require any person who has the custody of that person to hand him over to a police officer; and\n\n(d) authorise a police officer to —\n\n(i) transport that person from the place where the police officer takes custody of him to another place within Brunei Darussalam for the purpose of handing him over to the custody of a foreign escort officer; and\n\n(ii) hold him in custody for so long as is necessary to enable him to be handed over to the custody of a foreign escort\n\n(e) authorise the foreign escort officer to transport him out of Brunei Darussalam.\n\n(3) If a person who was the subject of a temporary surrender\n\n(a) has been returned to Brunei Darussalam after trial in the requesting country; and\n\n(b) has completed his custodial sentence in Brunei Darussalam, the Attorney General may issue a surrender warrant for the surrender of that person to the requesting country without a further request for extradition, unless the Attorney General is satisfied that it would be unjust or oppressive to surrender him because of changed circumstances in the requesting\n\n(4) Any time that a person spends in custody in the requesting country, is deemed to be time spent in custody in Brunei Darussalam for the purpose of completing the sentence for which he was in custody in Brunei Darussalam.\n\n(5) If —\n\n(a) the time spent in custody in the requesting country is taken into account under subsection (4); and\n\n(b) because of this, that person’s sentence in Brunei Darussalam the Attorney General may inform the requesting country that the undertakings given by that country about the trial and his return no longer apply and the surrender shall be final. Execution of surrender warrant"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "text": {
+    "en": "(1) If a person is not surrendered under a surrender warrant within 2 months after —\n\n(a) the date the surrender warrant was issued; or\n\n(b) if he is serving a custodial sentence, or has been admitted to bail, in Brunei Darussalam, the date he was released from custody or the sureties for the bail have been discharged, he may apply to a magistrate to be released from custody and shall inform the Attorney General of the application.\n\n(2) If the magistrate is satisfied that —\n\n(a) the Attorney General has been informed of the application; and\n\n(b) there is no reasonable cause for delay in surrendering that the magistrate shall order that he be released from custody.\n\n(3) Without limiting subsection (2)(b), reasonable cause for delay\n\n(a) it would have been a danger to that person’s life, or prejudicial to his health, to surrender him;\n\n(b) there was no suitable means of transporting him to the requesting country, and all reasonable steps were taken to obtain suitable transport;\n\n(c) there was delay by a country in responding to a request by the requesting country for permission to transport him, and that all reasonable steps were taken to obtain that permission; or\n\n(d) because of the remoteness of the requesting country, it would be unreasonable to expect him to have been surrendered within the period mentioned in subsection (1).\n\nTO COMMONWEALTH COUNTRIES"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Further application of Part 2"
+   },
+   "text": {
+    "en": "Part 2 applies to the extradition of a person from Brunei Darussalam to a Commonwealth country."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Application of different evidentiary requirements"
+   },
+   "text": {
+    "en": "The Attorney General may, in addition to any evidentiary requirements in Part 2, direct the magistrate to apply, in the case of a Commonwealth country, the evidentiary requirements in section 23 or 24."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "The prima facie evidence scheme"
+   },
+   "text": {
+    "en": "In addition to any evidentiary requirements in Part 2, a magistrate shall not determine that a person should be surrendered to a requesting country unless the evidence before him is such that, if the offence for which surrender is sought had been committed in Brunei Darussalam, there would be sufficient evidence to establish a prima facie case that he had committed The record of case scheme"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "text": {
+    "en": "(1) In addition to any evidentiary requirements in Part 2, a magistrate shall not determine that a person should be surrendered to a requesting country unless a record of the case is produced for the offence for which surrender is sought.\n\n(2) The record of the case shall be accompanied by —\n\n(a) an affidavit of an officer of the authority that investigated the matter, stating that —\n\n(i) the record of the case was prepared by him, or under his\n\n(ii) the evidence in the record of the case has been preserved for use in that person’s trial; and\n\n(b) a certificate of the Attorney General or any person performing similar functions of the requesting country stating that, in his opinion, the record of the case discloses the existence of evidence that is sufficient under the law of the requesting country to justify a prosecution in the requesting country.\n\n(3) In this section, “record of the case”, in relation to an offence for which surrender is sought, means —\n\n(a) a document containing a recital of the evidence to support the\n\n(b) an authenticated copy, reproduction or photograph of all exhibits and documentary evidence.\n\nTO DESIGNATED COUNTRIES Backing of warrants procedure"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Application of this Part"
+   },
+   "text": {
+    "en": "This Part applies to the extradition of a person accused or convicted of extradition offences in other countries to a country which the Attorney General may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, by order published in the Gazette specify as a designated"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Provisional arrest warrant"
+   },
+   "text": {
+    "en": "A magistrate shall issue a provisional warrant for the arrest of a person if —\n\n(a) an application is made to the magistrate on behalf of a designated country for the issue of a warrant for the arrest of that\n\n(b) the magistrate is informed by affidavit that —\n\n(i) an original warrant for the arrest of that person has been issued in the designated country but is not yet available in Brunei Darussalam; and\n\n(ii) the person named in the original warrant may be in or on his way to Brunei Darussalam; and\n\n(c) the magistrate is satisfied that it is reasonable in the circumstances to issue a warrant."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Arrest and remand on provisional arrest warrant"
+   },
+   "text": {
+    "en": "(1) A person arrested under a provisional arrest warrant shall be brought before a magistrate as soon as practicable.\n\n(2) Unless the designated country produces the original warrant on which the provisional arrest warrant was based, the magistrate shall —\n\n(a) remand that person in custody; or\n\n(b) if the magistrate is satisfied that he is unlikely to abscond, releases him on bail whether with or without sureties;\n\n(3) A magistrate who releases a person on bail may order that his passport and other travel documents be surrendered until the extradition proceedings are concluded.\n\n(4) A person shall not be remanded in custody or released on bail for a period longer than 28 days."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Endorsement of warrant"
+   },
+   "text": {
+    "en": "If —\n\n(a) an application is made to a magistrate on behalf of a designated country for the endorsement of a warrant for the arrest of a person issued in the designated country (an original warrant); and\n\n(b) the magistrate is informed by affidavit that the person named in the original warrant is, or is suspected of being, in or on his way to Brunei Darussalam, the magistrate shall endorse the original warrant to authorise the arrest of that person under the warrant in Brunei Darussalam."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Arrest and remand on endorsed warrant"
+   },
+   "text": {
+    "en": "(1) A person arrested under an endorsed warrant shall be brought before a magistrate as soon as practicable.\n\n(2) The magistrate shall —\n\n(a) remand that person in custody; or\n\n(b) if the magistrate is satisfied that he is unlikely to abscond, release him on bail whether with or without sureties, for a period that is necessary for proceedings under this Part to be conducted.\n\n(3) A magistrate who releases a person on bail may order that his passport and other travel documents be surrendered until the extradition proceedings are concluded.\n\n(4) A person shall not be remanded in custody or on bail for a period longer than 28 days.\n\n(5) If a magistrate remands that person in custody after he has made an application for bail, that person is not entitled to apply to any other magistrate for release on bail during that remand, unless the first-mentioned magistrate is no longer available."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Extradition proceedings"
+   },
+   "text": {
+    "en": "(1) A person shall be brought before a magistrate if —\n\n(a) he is on remand in custody or released on bail 28 days after the day on which he was arrested on a provisional warrant; and\n\n(b) an endorsed warrant for his arrest has not been obtained.\n\n(2) Unless the magistrate is satisfied that the endorsed warrant will be obtained within a period that is reasonable in all the circumstances, he shall\n\n(a) such person to be released from custody; or\n\n(b) the discharge of the sureties for the bail.\n\n(3) A person shall be brought before a magistrate if —\n\n(a) he is on remand in custody or on bail 28 days after the day on which he was arrested on an endorsed warrant; and\n\n(b) no request has been made under section 31 for extradition proceedings to be conducted.\n\n(4) Unless the magistrate is satisfied that a request under section 31 for extradition proceedings to be conducted will be made within a period that is reasonable in all the circumstances, he shall order —\n\n(a) such person to be released from custody; or\n\n(b) the discharge of the sureties for the bail."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Extradition proceedings"
+   },
+   "text": {
+    "en": "A magistrate shall conduct extradition proceedings as soon as practicable to determine whether that person should be surrendered to the designated country if —\n\n(a) either —\n\n(i) he has been remanded after being arrested under an endorsed warrant; or\n\n(ii) he has been remanded after being arrested under a provisional arrest warrant and the original warrant has been endorsed; and\n\n(b) a request is made to the magistrate by or on behalf of that person or of the designated country for extradition proceedings to be conducted in relation to him."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Conduct of proceedings"
+   },
+   "text": {
+    "en": "(1) A magistrate shall not conduct extradition proceedings unless he is satisfied that both the person sought and the designated country have had reasonable time to prepare for the conduct of the proceedings.\n\n(2) During the extradition proceedings, the magistrate shall hear the case in the same manner and have the same jurisdiction and powers, as near as may be, as if that person was accused of an offence committed within his\n\n(3) In the proceedings, that person is not entitled to adduce evidence, and the magistrate is not entitled to receive evidence to contradict an allegation that he has engaged in conduct that constitutes the offence for which extradition is sought."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Consent to surrender"
+   },
+   "text": {
+    "en": "(1) At the proceedings, the magistrate shall ask that person if he consents to being surrendered.\n\n(2) If —\n\n(a) that person informs the magistrate that he consents to being\n\n(b) the magistrate is satisfied that the consent was given the magistrate shall inform him of the effect of consenting.\n\n(3) The effect of consenting is that —\n\n(a) he will be committed to prison without any further proceedings; and\n\n(b) he will be surrendered to the designated country as soon as\n\n(4) If, after being informed of the effect of consenting, he again consents to being surrendered, the magistrate shall —\n\n(a) by surrender warrant, order that he be surrendered to the designated country; and\n\n(b) by warrant, order that he be committed to prison until he is surrendered to the designated country."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Determination for surrender"
+   },
+   "text": {
+    "en": "(1) At the proceedings, a person may not bring evidence that he did not commit the offence.\n\n(2) A magistrate shall determine that he should be surrendered for an offence if he is satisfied —\n\n(a) that the requesting country is a designated country;\n\n(b) that the offence for which surrender is sought is an extradition offence; and\n\n(c) as to the identity of that person.\n\n(3) If the magistrate determines that that person should be surrendered, the magistrate shall —\n\n(a) by a surrender warrant, order that he be surrendered to the designated country;\n\n(b) by a warrant, order that he be committed to prison until he is surrendered to the designated country;\n\n(c) inform him that he may, within 15 days of the day on which the order is made, seek a review of the order under section 35;\n\n(d) record in writing his decision and the extradition offence for which he is to be surrendered; and\n\n(e) give a copy of the decision to him and to the Attorney General.\n\n(4) Notwithstanding subsection (3), if —\n\n(a) that is serving a custodial in Brunei Darussalam; and\n\n(b) surrender is sought for an offence for which he is accused but not convicted, the magistrate shall not issue a surrender warrant but shall refer the matter to the Attorney General to be dealt with under section 37.\n\n(5) If the magistrate determines that he should not be surrendered to the designated country, the magistrate shall order that he be released."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Review of magistrate’s decision"
+   },
+   "text": {
+    "en": "(1) If a magistrate makes an order for the surrender of any person, he may apply to the High Court for a review of the order.\n\n(2) If a magistrate makes an order that he be released, the designated country may apply to the High Court for a review of the order.\n\n(3) The application shall be made within 15 days after the day on which the magistrate makes the order.\n\n(4) The High Court shall have regard only to the material that was before the magistrate.\n\n(5) The High Court may confirm, vary or quash the order of the magistrate and order that that person be surrendered or released.\n\n(6) If the High Court orders that he be surrendered, the Court shall include in its judgment a statement specifying the offence and shall —\n\n(a) if he is not in custody, by warrant commit him to prison until he is surrendered; or\n\n(b) if he is in custody, order that he remain in custody until he is\n\n(7) If the High Court orders that he be released, the Court shall —\n\n(a) if he is in custody, order that he be released; or\n\n(b) if he has been released on bail, order that the sureties for the bail be discharged."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Surrender warrant"
+   },
+   "text": {
+    "en": "(1) The surrender warrant shall —\n\n(a) be in writing;\n\n(b) require any person who has custody of the person to hand him over to a police officer;\n\n(c) authorise a police officer to —\n\n(i) transport that person from the place where the police officer takes custody of him to another place within Brunei Darussalam for the purpose of handing him over to the custody of a foreign escort officer; and\n\n(ii) hold that person in custody for so long as is necessary to enable him to be handed over to the custody of a foreign escort officer; and\n\n(d) authorise the foreign escort officer to transport that person out of Brunei Darussalam.\n\n(2) If that person is serving a custodial sentence, or has been admitted to bail, in for an in Brunei Darussalam, the surrender warrant shall not be executed until —\n\n(a) he has been released from custody; or\n\n(b) the sureties for the bail have been discharged."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Temporary surrender warrant"
+   },
+   "text": {
+    "en": "(1) The Attorney General may issue a temporary surrender warrant if —\n\n(a) that is serving a custodial in Brunei Darussalam;\n\n(b) surrender is sought for an offence of which he is accused but of which he has not been convicted;\n\n(c) he is satisfied that the designated country has given an adequate undertaking that —\n\n(i) that person will be given a speedy trial in the designated\n\n(ii) he will be returned to Brunei Darussalam after the trial; and\n\n(d) the Attorney General is satisfied that adequate provision has been made for the travel of that person to the designated country and for his return to Brunei Darussalam.\n\n(2) The temporary surrender warrant shall —\n\n(a) be in writing;\n\n(b) state the offences for which that person is to be surrendered;\n\n(c) require any person who has the custody of that person to hand police officer;\n\n(d) authorise a police officer to —\n\n(i) transport that person from the place where the police officer takes custody of him to another place within Brunei Darussalam for the purpose of handing him over to the custody of a foreign escort officer; and\n\n(ii) hold him in custody for so long as is necessary to enable him to be handed over to the custody of a foreign escort\n\n(e) authorise the foreign escort officer to transport him out of Brunei Darussalam.\n\n(3) If a person who was the subject of a temporary surrender\n\n(a) has been returned to Brunei Darussalam after trial and sentence in the designated country; and\n\n(b) has completed his custodial sentence in Brunei Darussalam, a magistrate shall issue a surrender warrant for the surrender of that person to the designated country.\n\n(4) Any time that a spends in in the designated country is deemed to be time spent in custody in Brunei Darussalam for the purpose of completing the sentence for which he was in custody in Brunei Darussalam.\n\n(5) If —\n\n(a) the time spent in custody in the designated country is taken into account as mentioned in subsection (4); and\n\n(b) because of this, his sentence in Brunei Darussalam the Attorney General may inform the requesting country that the undertakings given by that country about the speedy trial and his return no longer apply and the surrender shall be final. Execution of surrender warrant"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "text": {
+    "en": "(1) If a person is not surrendered under a surrender warrant within 2 months after —\n\n(a) the date the surrender warrant was issued; or\n\n(b) if he is serving a custodial sentence, or has been admitted to bail, in Brunei Darussalam, the date he was released from custody or the sureties for the bail have been discharged, he may apply to a magistrate to be released from custody and shall inform the Attorney General of the application.\n\n(2) If the magistrate is satisfied that —\n\n(a) the Attorney General has been informed of the application; and\n\n(b) there is no reasonable cause for delay in surrendering that the magistrate shall order that he be released from custody.\n\n(3) Without limiting subsection (2)(b), reasonable cause for delay\n\n(a) it would have been a danger to that person’s life, or prejudicial to his health, to surrender him;\n\n(b) there was no suitable means of transporting him to the requesting country, and all reasonable steps were taken to obtain suitable transport; or\n\n(c) there was delay by Brunei Darussalam in responding to a request for permission to transport him, and that all reasonable steps were taken to obtain that permission.\n\nTO TREATY COUNTRIES"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "text": {
+    "en": "Part 2 applies to the extradition of a person to a treaty country subject to —\n\n(a) any limitations, conditions, exceptions or qualifications that are contained in the extradition treaty between Brunei Darussalam and the treaty country; and\n\n(b) any modifications to this Act made by regulations.\n\nTO OTHER COUNTRIES"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Further application of Part 2"
+   },
+   "text": {
+    "en": "Subject to this Part, Part 2 applies to the extradition of a person from Brunei Darussalam to an entity or any country other than a Commonwealth country, a treaty country or a designated country."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "When other country extradition country"
+   },
+   "text": {
+    "en": "(1) The Attorney General may, with the approval of His Majesty the Sultan and Yang Di-Pertuan certify that a country is an extradition country for the purpose of a particular extradition request.\n\n(2) When the Attorney General certifies that a country is an extradition country, he may also specify the provisions of this Act that are to apply to the extradition request."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Limitation on extradition proceedings"
+   },
+   "text": {
+    "en": "Proceedings shall not be commenced on a request from a country for the surrender of a person unless that country has been certified as an extradition country in accordance with section 41. Consideration by Attorney General"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "In determining whether a country is to be certified as an extradition country, the Attorney General shall consider —\n\n(a) the national interest of Brunei Darussalam;\n\n(b) the seriousness of the offence for which extradition is sought; and\n\n(c) the public interest of the requesting country.\n\nSEARCH, SEIZURE AND TRANSIT"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Search and seizure on arrest under warrant"
+   },
+   "text": {
+    "en": "(1) This section applies to a person arrested —\n\n(a) on a warrant issued under this Act; or\n\n(b) on an endorsed warrant.\n\n(2) If a police officer who arrests any person under this Act has reasonable grounds for suspecting that any thing in the vicinity of that\n\n(a) may be material as evidence in proving the offence for which the warrant was issued; or\n\n(b) has been acquired by that person as the result of that offence, the police officer may seize that thing.\n\n(3) If a police officer —\n\n(a) arrests a person under this Act; and\n\n(b) has reasonable grounds for suspecting that there is on the person, in his clothing or in or on any thing in the vicinity of that person that is under his apparent control, any thing that —\n\n(i) may be material as evidence in proving the offence for which the warrant was issued or for which surrender of that person is sought; or\n\n(ii) has been acquired by that person as a result of that the police officer may search him, his clothing or the thing and may seize any thing found as a result of the search.\n\n(4) Subsection (3) does not authorise a police officer to remove, or to require that person to remove, any of the clothing that he is wearing.\n\n(5) A person shall not be searched except by a police officer of the same sex.\n\n(6) A police officer shall retain in safe keeping any thing seized pending a direction from the Attorney General about how it is to be dealt with.\n\n(7) Nothing in this section prevents or restricts the search of a person or in his clothing or in or on any thing under his immediate control, after he is admitted to a prison after having been arrested for an offence.\n\n(8) The powers conferred by this section are in addition to, and not in derogation of, any other powers conferred by any written law."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Search and seizure warrants"
+   },
+   "text": {
+    "en": "(1) This section applies if a magistrate is informed by affidavit that there are reasonable grounds for suspecting that there may be in a place —\n\n(a) a thing that may be material as evidence in proving the offence for which a provisional arrest warrant was issued or for which surrender of that person is sought; or\n\n(b) a thing that has been acquired by that person as a result of that offence.\n\n(2) The magistrate may issue a warrant authorising a police officer, with such assistance, and by such force, as is necessary and reasonable —\n\n(a) to seize the thing;\n\n(b) to enter the place and seize the thing; or\n\n(c) to enter the place, search the place for a thing of that kind and seize any thing of that kind found in that place.\n\n(3) The magistrate shall not issue the warrant unless —\n\n(a) the magistrate has received by affidavit, any further information that he requires about the grounds on which the warrant is sought; and\n\n(b) he is satisfied that there are reasonable grounds for issuing\n\n(4) The warrant shall contain the following information —\n\n(a) the purpose for which it is issued, including a reference to the nature of any offence referred to in subsection (1)(a);\n\n(b) whether it authorises entry at any time or only during specified hours;\n\n(c) the kinds of thing that may be seized; and\n\n(d) that it ceases to have effect on a specified day, not being later than one month after the day it is issued.\n\n(5) If, in the course of searching in accordance with the warrant —\n\n(a) a police officer finds a thing that he believes on reasonable grounds to be connected with the offence, although the thing is not of a kind stated in the warrant; and\n\n(b) he believes on reasonable grounds that it is necessary to seize that thing in order to prevent its concealment, loss or destruction, the warrant is deemed to authorise the police officer to seize that thing.\n\n(6) The police officer shall retain in safe keeping any thing seized pending a direction from the Attorney General about how it is to be dealt with.\n\n(7) In this section, — includes a public place, area of water, premises, vessel, aircraft or vehicle in any part of Brunei Darussalam."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Return of seized things"
+   },
+   "text": {
+    "en": "(1) The Attorney General may direct that any thing seized under section 44 or 45 that —\n\n(a) may provide evidence of an offence for which surrender has been ordered; or\n\n(b) may have been acquired as a result of an offence of that kind, shall be returned to the country that sought the surrender if a surrender warrant or temporary surrender warrant is issued after extradition proceedings have concluded.\n\n(2) If no surrender warrant has been issued after extradition proceedings have concluded, the Attorney General shall direct that the thing be returned to the person from whom it was seized, unless he is satisfied that the interests of justice in the requesting country require it to be returned to the requesting country."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Arrest of persons escaping from custody"
+   },
+   "text": {
+    "en": "(1) A police officer may arrest a person without warrant if he has reasonable grounds for believing that he has escaped from custody that was authorised under this Act.\n\n(2) Such person shall be returned to the custody mentioned in subsection (1). Arrest of persons released on bail"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "text": {
+    "en": "(1) A police officer may arrest a person who has been released on bail under this Act if he has reasonable grounds for believing that he has contravened, or is about to contravene, a condition subject to which bail was granted.\n\n(2) Such person shall be brought before a magistrate as soon as"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "text": {
+    "en": "(1) The Attorney General may give permission to a country, in this subsection referred to as the second country, to transport through the territory of Brunei Darussalam any person who has been surrendered to the second country by a third country if —\n\n(a) the second country asked for transit permission before that person entered Brunei Darussalam; and\n\n(b) the second country is —\n\n(i) a Commonwealth country, a treaty country or a designated country; or\n\n(ii) a country certified by the Attorney General for the purpose of the request.\n\n(2) If transit permission is given under subsection (1) —\n\n(a) a police officer may, in Brunei Darussalam, assist the foreign escort officer escorting that person; and\n\n(b) that person may be held in custody in Brunei Darussalam until his journey can continue.\n\n(3) If it is necessary to hold that person in custody for more than 48 hours, he shall be brought before a magistrate who may issue a warrant to commit him to custody.\n\nEXTRADITION TO BRUNEI DARUSSALAM"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Surrendered persons to be brought into Brunei Darussalam"
+   },
+   "text": {
+    "en": "(1) A person surrendered to Brunei Darussalam for an offence against any law of Brunei Darussalam of which he is accused or of which he has been convicted shall be brought into Brunei Darussalam and delivered to the appropriate authority to be dealt with according to law.\n\n(2) In particular, he may be remanded in custody or released on bail until he can be brought to trial."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Treatment of persons surrendered to Brunei Darussalam"
+   },
+   "text": {
+    "en": "(1) A person surrendered to Brunei Darussalam shall not be detained or tried in Brunei Darussalam for an offence that is alleged to have been committed, or which was committed, before he was surrendered, other than —\n\n(a) an offence for which he was surrendered;\n\n(b) another offence, for which the penalty is the same or less, of which he could be convicted on proof of the conduct constituting the extradition offence; or\n\n(c) another offence for which the surrendering country has consented to him being detained or tried.\n\n(2) A person surrendered to Brunei Darussalam shall not be detained in Brunei Darussalam for surrender to a third country for trial or punishment for an offence that is alleged to have been committed, or which was committed, before he was surrendered to Brunei Darussalam.\n\n(3) Subsections (1) and (2) do not apply if —\n\n(a) the that that to Brunei Darussalam consents to him being so detained or tried, or surrendered; or\n\n(b) he has left, or has had the opportunity of leaving, Brunei Darussalam."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Persons temporarily surrendered to Brunei Darussalam"
+   },
+   "text": {
+    "en": "(1) This if the to Brunei Darussalam —\n\n(a) has not completed a custodial sentence in the surrendering country immediately before being surrendered; or\n\n(b) is a person whom Brunei Darussalam has undertaken to hold in custody and return to the surrendering country.\n\n(2) That person —\n\n(a) shall, while travelling to and from, and while in, Brunei Darussalam, be kept in the custody ordered in writing by the Attorney General;\n\n(b) may only be tried for an offence for which he was\n\n(c) after he has been tried, shall be returned to the surrendering\n\n(3) The Attorney General shall order that a person be released from custody if —\n\n(a) he is held in custody only because of an order under subsection (2); and\n\n(b) the surrendering country has notified Brunei Darussalam that it no longer requires him to be returned. Evidence for purposes of surrender of persons to Brunei Darussalam"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) If the Attorney General intends to seek a person’s extradition to Brunei Darussalam, he may, by notice in writing, authorise the taking of evidence for use in any proceedings for the extradition of that person to Brunei Darussalam.\n\n(2) A magistrate may take the evidence of each witness on oath and\n\n(a) cause it to be reduced to writing and certify as to the taking of the evidence; and\n\n(b) cause it and the certificate to be sent to the Attorney General.\n\n(3) The person in relation to whom the evidence is being taken is not entitled to be represented while the evidence is being taken."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Taking of evidence at request of another country"
+   },
+   "text": {
+    "en": "(1) If another country requests Brunei Darussalam to take evidence for the purpose of criminal proceedings in that country, the Public Prosecutor may authorise a magistrate to do so.\n\n(2) The magistrate may take the evidence of each witness on oath and\n\n(a) cause it to be reduced to writing and certify as to the taking of the evidence; and\n\n(b) cause it and the certificate to be sent to the Public Prosecutor."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Prosecution, instead of extradition"
+   },
+   "text": {
+    "en": "(1) A person may be prosecuted and punished in Brunei Darussalam for an offence if the Attorney General refuses to order his surrender because of a circumstance listed in subsection (2).\n\n(2) The following are the circumstances for the purpose of subsection (1) —\n\n(a) he is a citizen of Brunei Darussalam; or\n\n(b) the extradition offence is one in respect of which the courts in Brunei Darussalam have jurisdiction.\n\n(3) A person shall not be prosecuted unless the Public Prosecutor —\n\n(a) considers that is in Brunei Darussalam to justify prosecuting him for the offence; and\n\n(b) consents to him being prosecuted for the offence.\n\n(4) A person may be prosecuted whether he engaged in the conduct before or after the commencement of this Act.\n\n(5) A person to whom subsection (1) applies may be —\n\n(a) arrested for an offence mentioned in subsection (1);\n\n(b) charged with the offence; and\n\n(c) remanded in custody or released on bail, although the Public Prosecutor has not given consent under subsection (3)."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Provision of evidence for prosecution by other countries"
+   },
+   "text": {
+    "en": "If —\n\n(a) another country has refused to order that a person be surrendered to Brunei Darussalam; but\n\n(b) that country is prepared to prosecute him for the offence for which Brunei Darussalam sought his surrender, the Public Prosecutor shall give that other country all the available evidence to enable that other country to prosecute him."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Provisions of Chapter 7 when applicable"
+   },
+   "text": {
+    "en": "The provisions of the Criminal Procedure Code (Chapter 7) in relation to matters not covered by this Act apply in so far as they are not inconsistent with the provisions of this Act, and in the event of any inconsistency between the provisions of this Act and of the Criminal Procedure Code (Chapter 7) the provisions of this Act shall prevail."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Appearance on behalf of Attorney General"
+   },
+   "text": {
+    "en": "(1) The following may appear on of the Attorney General in any proceedings under this Act —\n\n(a) a Deputy Public Prosecutor; or\n\n(b) a legal practitioner in the employment of the Government of any country which has been authorised in writing by the Attorney General.\n\n(2) Where the Attorney General has issued an authorisation under subsection (1)(b), the provisions of the Legal Profession Act (Chapter 132) relating to the admission of advocates and solicitors and the right of advocates and solicitors to appear in all courts in Brunei Darussalam do not apply to the person named in such authorisation.\n\n(3) The person named in the authorisation shall comply with any directions issued by or on behalf of the Attorney General."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Restrospectivity"
+   },
+   "text": {
+    "en": "Subject to the relevant extradition agreement, extradition may be granted under this Act whether or not the conduct or conviction in respect of which the extradition is requested occurred before the commencement of this Act or the coming into force of such agreement. Simultaneous requests"
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) If requests for the surrender of a person are received from more than one extradition country, the Attorney General may surrender him to either of such countries as he thinks fit.\n\n(2) The Attorney General in determining to which country he should be surrendered shall consider all the circumstances of the case and in\n\n(a) the relative seriousness of the offences;\n\n(b) the relative dates on which the requests were made; and\n\n(c) the citizenship or other national status of that person and his ordinary residence."
+   }
+  },
+  {
+   "id": "BN-CAP-294-EXTRADITION-ACT-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) His Majesty the Sultan and Yang Di-Pertuan may make regulations which are necessary or expedient for giving effect to and carrying out the provisions of this Act, including the prescription of fees and of any other thing required to be or which may be prescribed under this Act, and for the due administration thereof.\n\n(2) Such regulations may include such incidental, consequential and supplementary provisions as His Majesty the Sultan and Yang Di-Pertuan consider necessary or expedient.\n\n(3) Without limiting subsection (1), such regulations may —\n\n(a) amend the Schedules;\n\n(b) set out the text of extradition treaties; and\n\n(c) make any modifications to this Act that are necessary give effect to an extradition treaty. (section 2(1))\n\nCOMMONWEALTH COUNTRIES"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "EXTRADITION ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "SG-H303",
  "title": {
-  "zh": null,
+  "zh": "博彩（赌场经营者——豁免）公告 2010",
   "en": "Betting (Casino Operators — Exemption) Notification 2010",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) The provisions of the Act shall not apply to, and in relation to ––\n(a)a casino operator in respect of any system or method of cash or credit betting described in sub-paragraph (2), which is held, promoted, organised, administered or operated by or on behalf of a casino operator within the casino premises of the casino operator; or\n(b)any other person in respect of such system or method of cash or credit betting referred to in sub-paragraph (a).\n(2) The system or method of cash or credit betting referred to in sub-paragraph (1) is one in which —\n(a)if the casino operator is a party to the wager, the bets are received by or on behalf of the casino operator on a game conducted within the casino premises; or\n(b)if the casino operator is not a party to the wager, the betting takes place under the control or supervision of the casino operator on a game conducted within the casino premises.\n[S 4/2019 wef 03/01/2019]\n[S 4/2019 wef 03/01/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Betting (Casino Operators — Exemption) Notification 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

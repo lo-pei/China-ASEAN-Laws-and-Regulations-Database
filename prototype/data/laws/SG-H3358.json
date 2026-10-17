@@ -1,7 +1,7 @@
 {
  "id": "SG-H3358",
  "title": {
-  "zh": null,
+  "zh": "公证人法 1959",
   "en": "Notaries Public Act 1959",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "8.—(1) The Chief Justice, after consultation with the Senate, may make rules —\n(a)for the guidance and control of persons entitled to exercise the functions of a notary public under this Act;\n(b)to fix the fees payable to notaries public;\n(c)to fix the fees payable to the Singapore Academy of Law by any person on appointment as a notary public, and on renewal of such appointment; and\n(d)prescribing the powers and functions of notaries public.\n(2) All rules made under this section shall be published in the Gazette, and shall come into force on the date of such publication or on such later date as may be specified in the rules."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Notaries Public Act 1959",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

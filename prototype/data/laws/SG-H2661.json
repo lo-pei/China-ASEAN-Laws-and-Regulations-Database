@@ -1,7 +1,7 @@
 {
  "id": "SG-H2661",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 12 号）命令 2025",
   "en": "Infrastructure Protection (Protected Places) (No. 12) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nSingapore Country Manager,\nPublic Sector,\nAmazon Web\nServices Singapore\nPrivate Limited\nSG NSD ROOM AT LEVEL 11, EAST TOWER, IOI CENTRAL BOULEVARD TOWERS\nAll that area comprised in part of Lot 553T in Town Subdivision No. 30 occupied by “SG NSD ROOM AT LEVEL 11, EAST TOWER, IOI CENTRAL BOULEVARD TOWERS” containing an area of about 21.6 square metres and bounded approximately as follows:\nCommencing at a point 29,117.921 metres North and 30,076.840 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n29,117.921\n30,076.840\n29,115.888\n30,079.997\n29,111.057\n30,076.886\n29,113.091\n30,073.729\nto the point of commencement.\nThe boundaries of “SG NSD ROOM AT LEVEL 11, EAST TOWER, IOI CENTRAL BOULEVARD TOWERS” are more particularly delineated in the Survey Plan set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 12) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

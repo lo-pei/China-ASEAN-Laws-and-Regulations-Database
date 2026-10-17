@@ -1,7 +1,7 @@
 {
  "id": "SG-H2223",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展贷款利息及其他付款豁免）（第 7 号）公告 2005",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 7) Notification 2005",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) Notification 2002 (G.N. No. S 647/2002) is cancelled."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 7) Notification 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

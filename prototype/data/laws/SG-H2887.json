@@ -1,7 +1,7 @@
 {
  "id": "SG-H2887",
  "title": {
-  "zh": null,
+  "zh": "释义（能源、贸易与工业部长授权（能源与工业））命令 2026",
   "en": "Interpretation (Delegations by Minister for Energy, Trade and Industry (Energy and Industry)) Order 2026",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nDelegations to political office holders\nFirst column\nSecond column\nThird column\nFourth column\nProvision\nDescription*\nDelegate\nCondition\n1.Economic Expansion Incentives (Relief from Income Tax) Act 1967\n(1)Part 2\nPioneer industries\nMETI political office holder\nNil\n(2)Part 3\nPioneer service companies\nMETI political office holder\nNil\n(3)Part 4 (but not section 27)\nDevelopment and expansion incentives (but not power to make regulations)\nMETI political office holder\nNil\n(4)Part 5\nTransfer of awards\nMETI political office holder\nNil\n(5)Part 6\nForeign loans for productive equipment\nMETI political office holder\nNil\n(6)Part 7\nRoyalties, fees and development contributions\nMETI political office holder\nNil\n(7)Part 8\nInvestment allowances\nMETI political office holder\nNil\n(8)Section 61\nRevocation of certificate or letter\nMETI political office holder\nNil\n(9)Section 61A\nRevocation of tax incentive and recovery of tax\nMETI political office holder\nNil\n[S 707/2026 wef 01/10/2026]\n*Note: The descriptions in the second column are for ease of reference only."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Interpretation (Delegations by Minister for Energy, Trade and Industry (Energy and Industry)) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-78-2012-BANKRUPTCY-ACT-AMENDMENT-ORDER-2012",
  "title": {
-  "zh": null,
+  "zh": "破产法修正命令 2012",
   "en": "Bankruptcy Act Amendment Order 2012",
   "orig": null
  },
@@ -140,5 +140,13 @@
     "en": "(1) this section and any condition imposed by the Court section 30 or 30B, where a bankrupt is discharged, the discharge shall him from all his debts provable in the bankruptcy but shall have no\n\n(a) on the functions (so far as they remain to be carried out) of the trustee; or\n\n(b) on the operation, for the purposes of the carrying out of those functions, of the provisions of this Act.\n\n(2) shall not release the bankrupt from\n\n(a) any debt due to the Government; or\n\n(b) any debt with which the bankrupt may be chargeable at the suit of[i) the Government or any other person for any offence any written law relating to any branch of the revenue; or\n\n(ii) the Sheriff or other public officer on a bail bond entered the appearance of any person prosecuted for any such offence.\n\n(3) A bankrupt may be discharged from any debt referred to m\n\n(2) only by a certificate in writing of the Minister.\n\n(4) Discharge shall not affect the right of any secured creditor of the to enforce his security for the payment of a debt from which the is released.\n\n(5) shall not release the bankrupt from(a} any provable debt which he incurred in respect of, or in respect of which was secured by means of, any fraud or breach of trust to which he was party; or {bj any liability in respect of a fine imposed for an offence.\n\n(6) Discharge shall not, except to such extent and on such conditions as the Court may direct, release the bankrupt from any debt which has been and which - {a! consists in a liability to pay damages for negligence, nuisance or breach of a statutory, contractual or other duty, being damages in of personal injuries to any person; {bj arises upder any order mq.de in proceedings under the Women Act (Chapter 190) and the Islamic Family Law Order, 2000 (S 12/2000) relating to family matters; or {cj arises under an order involving pecuniary liability made any written law relating to the confiscation of the proceeds of crime.\n\n(7) Discharge shall not release any person other than the bankrupt from any liability (whether as partner or co-trustee of the bankrupt or which the bankrupt is released by the discharge, or from any liability as surety for the bankrupt or as a person in the nature of such a\n\n(8) For the purpose of subsection (6), ''personal injuries\" includes and any disease or other impairment of a person's physical or mental of section 43"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Bankruptcy Act Amendment Order 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

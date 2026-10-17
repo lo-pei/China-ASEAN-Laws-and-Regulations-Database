@@ -1,7 +1,7 @@
 {
  "id": "SG-H106",
  "title": {
-  "zh": null,
+  "zh": "活跃通勤（可登记个人代步工具登记）条例 2019",
   "en": "Active Mobility (Registration of Registrable Personal Mobility Devices) Regulations 2019",
   "orig": null
  },
@@ -590,5 +590,13 @@
     "en": "THE SCHEDULE\nRegulations 27(b) and 29(b)\nIdentification mark display requirements\n1.The unique registration code assigned upon the registration of a registrable PMD must be contained in the identification mark for the registrable PMD and must be displayed in either of the following ways:\n(a)in a single vertical row, to be read from top to bottom, as illustrated in Diagram 1 below;\nDIAGRAM 1\n(b)in a single horizontal row, to be read from left to right, as illustrated in Diagram 2 below;\nDIAGRAM 2\n(c)in 2 horizontal rows, to be read from left to right, with the numerals on the top row, and the letters on the bottom row, as illustrated in Diagram 3 below.\nDIAGRAM 3\n2.The figures or letters comprising the PMD’s unique registration code must be inscribed, printed, engraved or depicted on the surface of the identification mark in a manner that may not be easily removed.\n3.The figures or letters comprising the PMD’s unique registration code must be in either a vertical or horizontal position so that every figure or letter is distinguishable to any person who may be in front of the PMD when it is in motion.\n4.Any other figure, letter, advertisement, ornament or other thing must not be affixed or attached near the identification mark in such manner.\n5.The identification mark must satisfy all of the following dimensions and layout:\n(a)each letter or figure must be 35 mm high, every part of each letter or figure must be 5 mm broad and the total space taken by each letter or figure must be 25 mm wide, as illustrated by Diagram 4 below;\nDIAGRAM 4\n(b)the space between adjoining figures or letters must be 5 mm, as illustrated by Diagram 5 below;\nDIAGRAM 5\n(c)the margin between such part of any letter or figure nearest to the top, bottom, or sides of the identification mark, and the top or bottom of the identification mark, must be a minimum of 5 mm, as illustrated by Diagram 6 below;\nDIAGRAM 6\n(d)if the letters or figures are displayed in 2 rows as permitted by paragraph 1(c), the space between the letters or figures in the top row and the bottom row must be 5 mm, as illustrated by Diagram 7 below.\nDIAGRAM 7"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Active Mobility (Registration of Registrable Personal Mobility Devices) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

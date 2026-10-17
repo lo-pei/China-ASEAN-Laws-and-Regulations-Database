@@ -1,7 +1,7 @@
 {
  "id": "SG-H556",
  "title": {
-  "zh": null,
+  "zh": "辅助警察部队的撤销",
   "en": "Cessation of Auxiliary Police Force",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Police Force Act\n(Chapter 235)\nCessation of Auxiliary Police Force\nIt is hereby notified for general information that the Sentosa Development Corporation Auxiliary Police Force will cease to be an Auxiliary Police Force, with effect from 1st November 2002."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Cessation of Auxiliary Police Force",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

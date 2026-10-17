@@ -1,7 +1,7 @@
 {
  "id": "PH-H6525",
  "title": {
-  "zh": null,
+  "zh": "授权选举委员会在全国演示计算机化选举系统并在穆斯林棉兰老自治区 1996 年 3 月选举中试点，并为其他目的法案",
   "en": "An Act Authorizing the Commission on Elections to Conduct a Nationwide Demonstration of a Computerized Election System and Pilot-Test It in the March 1996 Elections in the Autonomous Region in Muslim Mindanao (ARMM) and for Other Purposes",
   "orig": "An Act Authorizing the Commission on Elections to Conduct a Nationwide Demonstration of a Computerized Election System and Pilot-Test It in the March 1996 Elections in the Autonomous Region in Muslim Mindanao (ARMM) and for Other Purposes"
  },
@@ -320,5 +320,13 @@
     "en": "Effectivity. This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation.\nApproved, 07 June 1995."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Commission on Elections to Conduct a Nationwide Demonstration of a Computerized Election System and Pilot-Test It in the March 1996 Elections in the Autonomous Region in Muslim Mindanao (ARMM) and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

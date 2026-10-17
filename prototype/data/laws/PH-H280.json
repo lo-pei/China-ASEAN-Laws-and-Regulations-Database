@@ -1,7 +1,7 @@
 {
  "id": "PH-H280",
  "title": {
-  "zh": null,
+  "zh": "规定在政府连续任职10年、具备一定学历资格的教师及其他文官雇员，无需参加文官考试即视为文官合格人员",
   "en": "An Act to Consider Teachers and Other Civil Service Employees with Certain Educational Qualifications Who Have Been in the Government Service Continuously for Ten Years as Civil Service Eligibles Without Taking Any Civil Service Examination",
   "orig": "An Act to Consider Teachers and Other Civil Service Employees with Certain Educational Qualifications Who Have Been in the Government Service Continuously for Ten Years as Civil Service Eligibles Without Taking Any Civil Service Examination"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Consider Teachers and Other Civil Service Employees with Certain Educational Qualifications Who Have Been in the Government Service Continuously for Ten Years as Civil Service Eligibles Without Taking Any Civil Service Examination",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

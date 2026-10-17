@@ -1,7 +1,7 @@
 {
  "id": "SG-H239",
  "title": {
-  "zh": null,
+  "zh": "分摊法 1928",
   "en": "Apportionment Act 1928",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. This Act shall not extend to any case in which it is expressly stipulated that no apportionment shall take place."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Apportionment Act 1928",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

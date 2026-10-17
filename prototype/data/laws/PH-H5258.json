@@ -1,7 +1,7 @@
 {
  "id": "PH-H5258",
  "title": {
-  "zh": null,
+  "zh": "将布拉干省连接布斯托斯市镇与巴利瓦格市镇的桥梁命名为Alejo S. Santos将军桥的法案",
   "en": "An Act Naming the Bridge Linking the Municipalities of Bustos and Baliuag, all in the Province of Bulacan, as the General Alejo S. Santos Bridge",
   "orig": "An Act Naming the Bridge Linking the Municipalities of Bustos and Baliuag, all in the Province of Bulacan, as the General Alejo S. Santos Bridge"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Bridge Linking the Municipalities of Bustos and Baliuag, all in the Province of Bulacan, as the General Alejo S. Santos Bridge",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

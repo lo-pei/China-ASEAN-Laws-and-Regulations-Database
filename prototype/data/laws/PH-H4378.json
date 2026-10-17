@@ -1,7 +1,7 @@
 {
  "id": "PH-H4378",
  "title": {
-  "zh": null,
+  "zh": "将北三宝颜省西奥孔市镇布卡纳村的名称变更为Suhaile Arabi村的法案",
   "en": "An Act Changing the Name of Barrio Bucana in the Municipality of Siocon, Province of Zamboanga Del Norte, to Barrio Suhaile Arabi",
   "orig": "An Act Changing the Name of Barrio Bucana in the Municipality of Siocon, Province of Zamboanga Del Norte, to Barrio Suhaile Arabi"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Barrio Bucana in the Municipality of Siocon, Province of Zamboanga Del Norte, to Barrio Suhaile Arabi",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

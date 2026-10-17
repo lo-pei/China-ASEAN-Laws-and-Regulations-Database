@@ -1,7 +1,7 @@
 {
  "id": "SG-H2164",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发利息及其他付款豁免）（第 4 号）公告 2013",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 4) Notification 2013",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from tax the following payments payable by Joule Asset Management (Pte.) Limited on or after 29th May 2012:\n(a)subject to sub‑paragraph (2), interest payable to Grand Capital International Limited in respect of a loan granted by Grand Capital International Limited under a sale and purchase agreement entered into between Joule Asset Management (Pte.) Limited and Grand Capital International Limited dated 23rd May 2013 in respect of the purchase of the vessel, “MV Uni Challenge”;\n(b)subject to sub‑paragraph (3), an amount of interest payable to Uni‑Asia Finance Corporation in respect of a loan granted by Uni‑Asia Finance Corporation under a shareholders’ agreement entered into between Joule Asset Management (Pte.) Limited, Uni‑Asia Finance Corporation and Green Ocean Shipping Limited dated 13th April 2012 (referred to in this Notification as “the shareholders’ agreement”), computed in accordance with the following formula:\nwhere A\nis the amount of interest payable on each interest payment date specified in the shareholders’ agreement by Joule Asset Management (Pte.) Limited to Uni‑Asia Finance Corporation in respect of the loan;\n(c)subject to sub‑paragraph (4), an amount of interest payable to Green Ocean Shipping Limited in respect of a loan granted by Green Ocean Shipping Limited under the shareholders’ agreement, computed in accordance with the following formula:\nwhere B\nis the amount of interest payable on each interest payment date specified in the shareholders’ agreement by Joule Asset Management (Pte.) Limited to Green Ocean Shipping Limited in respect of the loan.\n(2) The exemption under sub‑paragraph (1)(a) —\n(a)is subject to the terms and conditions specified in the letter of approval dated 18th March 2013 addressed to Joule Asset Management (Pte.) Limited; and\n(b)shall not apply to any interest payable after 29th January 2013.\n(3) The exemption under sub‑paragraph (1)(b) —\n(a)is subject to the terms and conditions specified in the letter of approval dated 18th March 2013 addressed to Joule Asset Management (Pte.) Limited; and\n(b)shall not apply to any interest payable after the earliest of the following:\n(i)24th April 2017;\n(ii)the date of termination of the loan extended by Uni‑Asia Finance Corporation to Joule Asset Management (Pte.) Limited;\n(iii)the date on which the vessel, “MV Uni Challenge”, is transferred or disposed of by Joule Asset Management (Pte.) Limited.\n(4) The exemption under sub‑paragraph (1)(c) —\n(a)is subject to the terms and conditions specified in the letter of approval dated 18th March 2013 addressed to Joule Asset Management (Pte.) Limited; and\n(b)shall not apply to any interest payable after the earliest of the following:\n(i)24th April 2017;\n(ii)the date of termination of the loan extended by Green Ocean Shipping Limited to Joule Asset Management (Pte.) Limited;\n(iii)the date on which the vessel, “MV Uni Challenge”, is transferred or disposed of by Joule Asset Management (Pte.) Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 4) Notification 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

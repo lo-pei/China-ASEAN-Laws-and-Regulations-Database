@@ -1,7 +1,7 @@
 {
  "id": "PH-H8256",
  "title": {
-  "zh": null,
+  "zh": "将邦阿西楠渔业学院（PCF）更名为邦阿西楠技术学院（PTI）的法案",
   "en": "An Act Renaming the Pangasinan College of Fisheries (PCF) as The Pangasinan Technological Institute (PTI)",
   "orig": "An Act Renaming the Pangasinan College of Fisheries (PCF) as The Pangasinan Technological Institute (PTI)"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Pangasinan College of Fisheries (PCF) as The Pangasinan Technological Institute (PTI)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

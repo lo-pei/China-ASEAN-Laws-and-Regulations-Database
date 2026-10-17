@@ -1,7 +1,7 @@
 {
  "id": "PH-H448",
  "title": {
-  "zh": null,
+  "zh": "提高巴西兰市特定官员薪金，为此修订第 288 号共和国法第 6、17、35 与 36 条的法案",
   "en": "An Act to Increase the Salaries of Certain Officials of the City of Basilan, Amending for This Purpose Sections Six, Seventeen, Thirty-Five and Thirty-Six of Republic Act Numbered Two Hundred Eighty-Eight",
   "orig": "An Act to Increase the Salaries of Certain Officials of the City of Basilan, Amending for This Purpose Sections Six, Seventeen, Thirty-Five and Thirty-Six of Republic Act Numbered Two Hundred Eighty-Eight"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 4, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Increase the Salaries of Certain Officials of the City of Basilan, Amending for This Purpose Sections Six, Seventeen, Thirty-Five and Thirty-Six of Republic Act Numbered Two Hundred Eighty-Eight",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

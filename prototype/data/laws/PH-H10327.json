@@ -1,7 +1,7 @@
 {
  "id": "PH-H10327",
  "title": {
-  "zh": null,
+  "zh": "设立第二届国会教育委员会以审查、评估菲律宾教育状况并提出有针对性的创新教育政策改革、为此拨款并为其他目的法案",
   "en": "An Act Creating a Second Congressional Commission on Education to Review, Assess and Evaluate the State of Philippine Education and Recommend Innovative and Targeted Policy Reforms in Education, Appropriating Funds Therefor, and for Other Purposes",
   "orig": "An Act Creating a Second Congressional Commission on Education to Review, Assess and Evaluate the State of Philippine Education and Recommend Innovative and Targeted Policy Reforms in Education, Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -210,5 +210,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating a Second Congressional Commission on Education to Review, Assess and Evaluate the State of Philippine Education and Recommend Innovative and Targeted Policy Reforms in Education, Appropriating Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

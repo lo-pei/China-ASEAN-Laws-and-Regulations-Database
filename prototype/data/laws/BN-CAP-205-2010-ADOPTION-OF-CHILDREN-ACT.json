@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-205-2010-ADOPTION-OF-CHILDREN-ACT",
  "title": {
-  "zh": null,
+  "zh": "儿童收养法",
   "en": "ADOPTION OF CHILDREN ACT",
   "orig": null
  },
@@ -248,5 +248,13 @@
     "en": "All statutes of general application of England relating to the adoption of children, so far as they are in force in Brunei Darussalam by virtue of section 2 of the Application of Laws Act (Chapter 2), shall cease to apply in Brunei Darussalam, but without prejudice to anything done thereunder before 26th March 2001, being the date of the commencement of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ADOPTION OF CHILDREN ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

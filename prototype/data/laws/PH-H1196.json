@@ -1,7 +1,7 @@
 {
  "id": "PH-H1196",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第65号共和国法（通称《菲律宾退伍军人权利法案》）的法案",
   "en": "An Act to Further Amend Republic Act Numbered Sixty-Five, Commonly Known as the Philippine Veterans Bill of Rights",
   "orig": "An Act to Further Amend Republic Act Numbered Sixty-Five, Commonly Known as the Philippine Veterans Bill of Rights"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1955"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Republic Act Numbered Sixty-Five, Commonly Known as the Philippine Veterans Bill of Rights",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-15-2025-NOTIFICATION-OF-COMMENCEMENT",
+ "title": {
+  "zh": "生效公告",
+  "en": "NOTIFICATION OF COMMENCEMENT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p25",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 944,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-15-2025-NOTIFICATION-OF-COMMENCEMENT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-15-2025-NOTIFICATION-OF-COMMENCEMENT.pdf》（1 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-15-2025-NOTIFICATION-OF-COMMENCEMENT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "APRIL, 2025 as No. S 24 the the Yang for the day of Code (Amendment) Order, 2016, commencement in to the 24th. RASHID exercise and out PROVISIONS OF LAND CODE (AMENDMENT) ORDER, 2016 Sultan ABDUL published set 24th. in as corresponding 2021, the 2016 HAJI 2016 of His Majesty of '•i commencement September date BIN Order, ◄ ORDER, Notification of commencement JUANDA the Development. ~~I~~ appoints 1st August 2025 as Land Code (Amendment) Syawal, 1446 Hijriah ,,,,,.._, (AMENDMENT) 6th SCHEDULE 37/2016) approval MUHAMMAD ,,,,~-\" of dated Land Notification of ,., (S the 3A) Minister Government Gazette the 7) ,::; of 4 CODE with section section HAJI section 1 -+ of AWANG LAND the Development, day to reference to to the reference this 25th. furtherance by hereby SETIA conferred of the provisions of April, 2025. SERI of of Di-Pertuan, (in (in Dated II Minister Schedule. section 2 3 section 5 DATO 15 In Part power section\n\nS 203 No. in the"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

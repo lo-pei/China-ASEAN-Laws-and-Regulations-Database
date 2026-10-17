@@ -1,7 +1,7 @@
 {
  "id": "PH-H2312",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省卡拉特拉瓦市镇的马卡西劳路口村（又称永松村）与埃斯卡兰特市镇的比纳邦戈尔村分别更名为卡斯特利亚诺村与马格塞塞村的法案",
   "en": "An Act Changing the Names of the Barrio of Crossing Macasilao or Barrio Yonson in the Municipality of Calatrava, and the Barrio of Binabongol in the Municipality of Escalante, Province of Negros Occidental, to Barrio Castellano and Barrio Magsaysay, Respectively",
   "orig": "An Act Changing the Names of the Barrio of Crossing Macasilao or Barrio Yonson in the Municipality of Calatrava, and the Barrio of Binabongol in the Municipality of Escalante, Province of Negros Occidental, to Barrio Castellano and Barrio Magsaysay, Respectively"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Names of the Barrio of Crossing Macasilao or Barrio Yonson in the Municipality of Calatrava, and the Barrio of Binabongol in the Municipality of Escalante, Province of Negros Occidental, to Barrio Castellano and Barrio Magsaysay, Respectively",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

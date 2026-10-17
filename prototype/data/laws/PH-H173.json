@@ -1,7 +1,7 @@
 {
  "id": "PH-H173",
  "title": {
-  "zh": null,
+  "zh": "修订第2706号法（经第3075号法与第180号联邦法修正），规定监督与管制私立学校、学院与大学的附加费用，并设立向私立学校学生购买与销售教科书的循环基金，并为其他目的法案",
   "en": "An Act to Amend Act Numbered Twenty-Seven Hundred and Six as Amended by Act Numbered Thirty Hundred and Seventy-Five and Commonwealth Act Numbered One Hundred and Eighty Providing for Additional Expenses in the Supervision and Regulation of Private Schools, Colleges and Universities and for a Revolving Fund for the Purchase and Sale of Textbooks to Private School Students, and for Other Purposes",
   "orig": "An Act to Amend Act Numbered Twenty-Seven Hundred and Six as Amended by Act Numbered Thirty Hundred and Seventy-Five and Commonwealth Act Numbered One Hundred and Eighty Providing for Additional Expenses in the Supervision and Regulation of Private Schools, Colleges and Universities and for a Revolving Fund for the Purchase and Sale of Textbooks to Private School Students, and for Other Purposes"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect beginning the school year nineteen hundred and forty-six, nineteen hundred forty-seven.\nApproved: October 21, 1946."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Act Numbered Twenty-Seven Hundred and Six as Amended by Act Numbered Thirty Hundred and Seventy-Five and Commonwealth Act Numbered One Hundred and Eighty Providing for Additional Expenses in the Supervision and Regulation of Private Schools, Colleges and Universities and for a Revolving Fund for the Purchase and Sale of Textbooks to Private School Students, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

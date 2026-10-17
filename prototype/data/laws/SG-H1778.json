@@ -1,7 +1,7 @@
 {
  "id": "SG-H1778",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（设计—建造—销售计划——归属）（第 2 号）公告 2015",
   "en": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) (No. 2) Notification 2015",
   "orig": null
  },
@@ -84,5 +84,13 @@
     "en": "SECOND SCHEDULE\nParagraph 2\nApartment block\nStreet name\nUnit no.\n530A\nPasir Ris Drive 1\n#01-354\n530A\nPasir Ris Drive 1\n#01-364\n530B\nPasir Ris Drive 1\n#01-374\n530C\nPasir Ris Drive 1\n#01-390\n530A\nPasir Ris Drive 1\n#02-354\n530A\nPasir Ris Drive 1\n#02-360\n530A\nPasir Ris Drive 1\n#02-366\n530A\nPasir Ris Drive 1\n#02-368\n530B\nPasir Ris Drive 1\n#02-370\n530B\nPasir Ris Drive 1\n#02-372\n530B\nPasir Ris Drive 1\n#02-374\n530C\nPasir Ris Drive 1\n#02-382\n530C\nPasir Ris Drive 1\n#02-390\n530C\nPasir Ris Drive 1\n#02-392\n530C\nPasir Ris Drive 1\n#02-394\n530C\nPasir Ris Drive 1\n#02-396\n530C\nPasir Ris Drive 1\n#02-400\n530C\nPasir Ris Drive 1\n#02-402\n530D\nPasir Ris Drive 1\n#02-404\n530D\nPasir Ris Drive 1\n#02-406\n530A\nPasir Ris Drive 1\n#03-354\n530A\nPasir Ris Drive 1\n#03-360\n530A\nPasir Ris Drive 1\n#03-368\n530B\nPasir Ris Drive 1\n#03-370\n530B\nPasir Ris Drive 1\n#03-372\n530B\nPasir Ris Drive 1\n#03-374\n530C\nPasir Ris Drive 1\n#03-390\n530C\nPasir Ris Drive 1\n#03-392\n530C\nPasir Ris Drive 1\n#03-394\n530C\nPasir Ris Drive 1\n#03-396\n530D\nPasir Ris Drive 1\n#03-404\n530D\nPasir Ris Drive 1\n#03-406\n530A\nPasir Ris Drive 1\n#04-354\n530A\nPasir Ris Drive 1\n#04-360\n530A\nPasir Ris Drive 1\n#04-364\n530A\nPasir Ris Drive 1\n#04-368\n530B\nPasir Ris Drive 1\n#04-370\n530B\nPasir Ris Drive 1\n#04-372\n530B\nPasir Ris Drive 1\n#04-374\n530C\nPasir Ris Drive 1\n#04-394\n530D\nPasir Ris Drive 1\n#04-406\n530A\nPasir Ris Drive 1\n#05-354\n530A\nPasir Ris Drive 1\n#06-354\n530A\nPasir Ris Drive 1\n#07-354"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) (No. 2) Notification 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

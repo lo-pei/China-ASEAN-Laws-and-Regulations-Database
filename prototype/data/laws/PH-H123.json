@@ -1,7 +1,7 @@
 {
  "id": "PH-H123",
  "title": {
-  "zh": null,
+  "zh": "规定以每年八千比索的数额从马尼拉市基金中支付马尼拉市审计员薪俸的法案",
   "en": "An Act Providing for the Payment of the Salary of the City Auditor of Manila from the funds of said City at the rate of Eight Thousand Pesos per annum",
   "orig": "An Act Providing for the Payment of the Salary of the City Auditor of Manila from the funds of said City at the rate of Eight Thousand Pesos per annum"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 25, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Payment of the Salary of the City Auditor of Manila from the funds of said City at the rate of Eight Thousand Pesos per annum",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H163",
  "title": {
-  "zh": null,
+  "zh": "修订第726号联邦法，在若干条件下将其规定延伸适用于互助建筑与贷款协会的法案",
   "en": "An Act Amending Commonwealth Act Numbered Seven Hundred and Twenty-Six by Extending the Provisions Thereof to Mutual Building and Loan Associations Under Certain Conditions",
   "orig": "An Act Amending Commonwealth Act Numbered Seven Hundred and Twenty-Six by Extending the Provisions Thereof to Mutual Building and Loan Associations Under Certain Conditions"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: October 18, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Commonwealth Act Numbered Seven Hundred and Twenty-Six by Extending the Provisions Thereof to Mutual Building and Loan Associations Under Certain Conditions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

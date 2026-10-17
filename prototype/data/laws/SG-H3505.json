@@ -1,7 +1,7 @@
 {
  "id": "SG-H3505",
  "title": {
-  "zh": null,
+  "zh": "忠诚服务奖章（警察）规则 2007",
   "en": "Pingat Bakti Setia (Polis) (The Long Service Medal — Police) Rules 2007",
   "orig": null
  },
@@ -152,5 +152,13 @@
     "en": "THE SCHEDULE\nRule 4(4)\nPingat Bakti Setia (Polis)\nThe Long Service Medal (Police)\nObverse\nReverse"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Pingat Bakti Setia (Polis) (The Long Service Medal — Police) Rules 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

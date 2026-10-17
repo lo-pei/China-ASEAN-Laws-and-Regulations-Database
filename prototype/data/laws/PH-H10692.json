@@ -1,7 +1,7 @@
 {
  "id": "PH-H10692",
  "title": {
-  "zh": null,
+  "zh": "授予 PRESCO 电力合作社在邦板牙省 34 个 Barangay 建设、安装、运营、管理和维护配电系统，向终端用户输送电力的特许经营权法案",
   "en": "An Act Granting the Pampanga Rural Electric Service Cooperative (PRESCO), Inc. a Franchise to Construct, Install, Establish, Operate. Own, Manage and Maintain a Distribution System for the Conveyance of Electric Power to the End-users in Thirty-four (34) Barangays in the Municipalities of Mexico. Arayat, Sta. Ana, and Magalang, Province of Pampanga",
   "orig": "An Act Granting the Pampanga Rural Electric Service Cooperative (PRESCO), Inc. a Franchise to Construct, Install, Establish, Operate. Own, Manage and Maintain a Distribution System for the Conveyance of Electric Power to the End-users in Thirty-four (34) Barangays in the Municipalities of Mexico. Arayat, Sta. Ana, and Magalang, Province of Pampanga"
  },
@@ -272,5 +272,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days after its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Pampanga Rural Electric Service Cooperative (PRESCO), Inc. a Franchise to Construct, Install, Establish, Operate. Own, Manage and Maintain a Distribution System for the Conveyance of Electric Power to the End-users in Thirty-four (34) Barangays in the Municipalities of Mexico. Arayat, Sta. Ana, and Magalang, Province of Pampanga",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

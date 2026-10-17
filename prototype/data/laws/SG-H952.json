@@ -1,7 +1,7 @@
 {
  "id": "SG-H952",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典（证人津贴）条例 2010",
   "en": "Criminal Procedure Code (Witnesses’ Allowances) Regulations 2010",
   "orig": null
  },
@@ -220,5 +220,13 @@
     "en": "14. The Criminal Procedure Code (Witnesses’ Allowances) Rules (Cap. 68, R 1) are revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Criminal Procedure Code (Witnesses’ Allowances) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

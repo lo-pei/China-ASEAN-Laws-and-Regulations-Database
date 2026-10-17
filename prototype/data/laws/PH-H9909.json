@@ -1,7 +1,7 @@
 {
  "id": "PH-H9909",
  "title": {
-  "zh": null,
+  "zh": "将依第 8025 号共和国法授予 Golden Broadcast 专业公司的特许经营权再续展二十五年的法案",
   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Golden Broadcast Professional, Inc. Under Republic Act No. 8025, Entitled An Act Granting the Golden Broadcast...",
   "orig": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Golden Broadcast Professional, Inc. Under Republic Act No. 8025, Entitled An Act Granting the Golden Broadcast..."
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Golden Broadcast Professional, Inc. Under Republic Act No. 8025, Entitled An Act Granting the Golden Broadcast...",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

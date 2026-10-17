@@ -1,7 +1,7 @@
 {
  "id": "SG-H599",
  "title": {
-  "zh": null,
+  "zh": "儿童与青少年（周末拘留）条例 2001",
   "en": "Children and Young Persons (Weekend Detention) Regulations 2001",
   "orig": null
  },
@@ -198,5 +198,13 @@
     "en": "10.—(1) Where a weekend detention order is in force in respect of an offender, the Youth Court, on the application of any of the persons referred to in paragraph (2) and upon any of the grounds specified in paragraph (3), may —\n(a)extend, in relation to the order, the period of 12 months specified in regulation 8(b);\n(b)reduce the number of weekends that the offender is required by the order to serve his detention;\n(c)revoke the order, and deal with the offender for the offence in respect of which the order was made in any manner in which he could have been dealt with for that offence under section 44 of the Act if the order had not been made; or\n(d)vary the order or the conditions thereof in such other manner as the Court thinks just and expedient in the circumstances.\n[S 646/2014 wef 01/10/2014]\n(2) An application under paragraph (1) may be made by —\n(a)the offender or his parents or guardian;\n(b)the supervising officer or probation officer of the offender;\n(c)the person-in-charge of the place of detention or warden of the approved institution, at which the offender is serving the weekend detention order; or\n[S 517/2020 wef 01/07/2020]\n(d)the Director-General.\n[S 517/2020 wef 01/07/2020]\n(3) The Youth Court may vary or revoke a weekend detention order under paragraph (1) on any of the following grounds:\n(a)that there has been a change of circumstances since the order was made that would justify the variation or revocation of the order; or\n(b)that, because of incapacity or for humanitarian or other reasons considered sufficient by the Youth Court, it will be impossible for the offender to continue to comply with the weekend detention order before it expires, or that it would be unreasonable to require him to do so; or\n(c)that it is in the best interests of the offender to do so.\n[S 646/2014 wef 01/10/2014]\n(4) Where the Youth Court proposes to exercise its powers under this regulation otherwise than on the application of the offender, the Court shall summon the offender to appear before the Court and, if the offender does not appear in answer to the summons, may issue a warrant for his arrest.\n[S 646/2014 wef 01/10/2014]\n(5) Where the Youth Court revokes, or extends, or otherwise varies, a weekend detention order, the Court shall forthwith give to the offender, his supervising officer and probation officer and the person-in-charge of the place of detention or warden of the approved institution, at which the offender is serving the order, a copy of its order revoking, extending or otherwise varying the weekend detention order.\n[S 646/2014 wef 01/10/2014]\n[S 517/2020 wef 01/07/2020]\n(6) The powers conferred on the Youth Court by this regulation are in addition to (and not in derogation of) the powers conferred on it by section 44(5)(b) of the Act to vary a weekend detention order or any condition thereof.\n[S 646/2014 wef 01/10/2014]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Children and Young Persons (Weekend Detention) Regulations 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

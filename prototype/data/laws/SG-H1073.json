@@ -1,7 +1,7 @@
 {
  "id": "SG-H1073",
  "title": {
-  "zh": null,
+  "zh": "网络安全（资料保密处理）条例 2018",
   "en": "Cybersecurity (Confidential Treatment of Information) Regulations 2018",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) For the purpose of section 43(5) of the Act, a claim that any information or, in the case of a document, any information contained in a document, furnished to a specified person is confidential information must —\n(a)identify the information claimed to be confidential information; and\n(b)be accompanied by a written statement giving reasons why the information is confidential information.\n(2) Without limiting paragraph (1), a claim relating to a document must be accompanied by —\n(a)a confidential version of the document containing and clearly identifying the information claimed to be confidential information; and\n(b)a redacted version of the document, in which the information claimed to be confidential information has been removed in such manner as will preserve the readability of the redacted version of the document.\n(3) If a person makes a claim under section 43(5) of the Act to a specified person that does not comply with paragraph (1) or (2), the specified person may disregard the claim."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Cybersecurity (Confidential Treatment of Information) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

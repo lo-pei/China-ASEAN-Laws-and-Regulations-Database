@@ -1,7 +1,7 @@
 {
  "id": "SG-H1948",
  "title": {
-  "zh": null,
+  "zh": "所得税（Concerto 新加坡私人有限公司——第 13(4) 条豁免）公告 2023",
   "en": "Income Tax (Concerto Singapore Pte. Ltd. — Section 13(4) Exemption) Notification 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest payable by Concerto Singapore Pte. Ltd. —\n(a)to the lenders mentioned in the first column of the following table;\n(b)in respect of the respective loan amounts mentioned in the second column of the table, being amounts that are or are to be used for the purpose of financing the acquisition of the respective vessels mentioned in the third column of the table;\n(c)under the respective agreements mentioned in the fourth column of the table; and\n(d)that is due and payable during the respective periods mentioned in the fifth column of the table,\nis exempt from tax:\nFirst\ncolumn\nSecond\ncolumn\nThird\ncolumn\nFourth\ncolumn\nFifth\ncolumn\nLender\nLoan amount\n(US$)\nVessel\nAgreement\nPeriod\n(both dates inclusive)\nSan-in Godo Bank. Ltd.\n3,295,000\nHull No. 11066\nLoan agreement dated 18 November 2021\n1 December 2021 to 30 June 2022\nCygnus Line Shipping S.A.\n18,000,000\nM/V Lowlands Energy\nLoan agreement dated 20 May 2022\n31 May 2022 to 30 June 2022\nLibera Corporation\n3,076,000\nHull No. SC 401\nLoan agreement dated 4 June 2021\n8 June 2021 to 30 June 2022\nLoan agreement dated 1 November 2021\n15 November 2021 to 30 June 2022\nLibera Corporation\n1,597,500\nHull No. 11063\nLoan agreement dated 1 November 2021\n15 November 2021 to 30 June 2022\nLibera Corporation\n18,000,000\nM/V Lowlands Energy\nLoan agreement dated 30 March 2022\n1 April 2022 to 2 June 2022\nLibera Corporation\n4,000,000\nM/V Lowlands Energy\nLoan agreement dated 30 March 2022\n1 April 2022 to 30 June 2022\n(2) The exemption in sub-paragraph (1) is subject to the conditions specified in the letter from the Ministry of Finance dated 30 January 2023 and addressed to Concerto Singapore Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Concerto Singapore Pte. Ltd. — Section 13(4) Exemption) Notification 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

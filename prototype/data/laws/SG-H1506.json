@@ -1,7 +1,7 @@
 {
  "id": "SG-H1506",
  "title": {
-  "zh": null,
+  "zh": "费用（私人彩票）命令",
   "en": "Fees (Private Lotteries) Order",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\n1.For the search of any document\n$20\n2.For the supply of a copy of each page of a permit or other document\n30 cents\n3.For the certification of each page of a document\n$3\n4.[Deleted by S 186/2011 wef 12/04/2011]\n5.[Deleted by S 186/2011 wef 12/04/2011]\n6.[Deleted by S 186/2011 wef 12/04/2011]\n7.[Deleted by S 186/2011 wef 12/04/2011]\n8.[Deleted by S 186/2011 wef 12/04/2011]\n[S 553/2019 wef 15/08/2019]\n[S 120/2014 wef 03/03/2014]\n[S 472/2010 wef 01/09/2010]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Private Lotteries) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

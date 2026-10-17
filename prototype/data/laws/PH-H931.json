@@ -1,7 +1,7 @@
 {
  "id": "PH-H931",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第496号法（即“土地登记法”）第58条，便于在小区测量批准前处理政府售出土地的交易",
   "en": "An Act Further Amending Section Fifty-Eight of Act Numbered Four Hundred Ninety-Six, Known as the “Land Registration Act,” to Facilitate Dealings in Lands Sold by the Government Pending Approval of the Subdivision Surveys",
   "orig": "An Act Further Amending Section Fifty-Eight of Act Numbered Four Hundred Ninety-Six, Known as the “Land Registration Act,” to Facilitate Dealings in Lands Sold by the Government Pending Approval of the Subdivision Surveys"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval Approved: June 15, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amending Section Fifty-Eight of Act Numbered Four Hundred Ninety-Six, Known as the “Land Registration Act,” to Facilitate Dealings in Lands Sold by the Government Pending Approval of the Subdivision Surveys",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

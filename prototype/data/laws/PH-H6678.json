@@ -1,7 +1,7 @@
 {
  "id": "PH-H6678",
  "title": {
-  "zh": null,
+  "zh": "将 Dapitan 市 Rizal 纪念区医院改设为由卫生部全面行政与技术监督的三级医院，名为 Dr. Jose Rizal 纪念医院并为其拨款",
   "en": "An Act Converting the Rizal Memorial District Hospital in Dapitan City Into a Tertiary Hospital, Under the Full Administrative and Technical Supervision of the Department of Health, Which Shall Be Known as the Dr. Jose Rizal Memorial Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Rizal Memorial District Hospital in Dapitan City Into a Tertiary Hospital, Under the Full Administrative and Technical Supervision of the Department of Health, Which Shall Be Known as the Dr. Jose Rizal Memorial Hospital, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, July 30, 1996."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Rizal Memorial District Hospital in Dapitan City Into a Tertiary Hospital, Under the Full Administrative and Technical Supervision of the Department of Health, Which Shall Be Known as the Dr. Jose Rizal Memorial Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

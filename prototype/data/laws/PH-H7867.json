@@ -1,7 +1,7 @@
 {
  "id": "PH-H7867",
  "title": {
-  "zh": null,
+  "zh": "1987 年行政法典",
   "en": "Administrative Code of 1987",
   "orig": "An Act Reorganizing and Strengthening the Public Attorney’s Office (PAO), Amending for the Purpose Pertinent Provisions of Executive Order No. 292, otherwise known as the \"Administrative Code of 1987\", as amended, Granting Special Allowance to PAO Officials and Lawyers, and providing funds therefor"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity. - This Act shall take effect upon its approval fifteen (15) days following its publication in the Official Gazette or in two (2) newspaper of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Administrative Code of 1987",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

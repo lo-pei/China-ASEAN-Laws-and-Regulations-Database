@@ -1,7 +1,7 @@
 {
  "id": "SG-H1760",
  "title": {
-  "zh": null,
+  "zh": "酒店发牌条例 1974",
   "en": "Hotels Licensing Regulations 1974",
   "orig": null
  },
@@ -728,5 +728,13 @@
     "en": "THE SCHEDULE\nRegulation 16(1)\nFees\nPart 1\nFEES FOR CERTIFICATE OF REGISTRATION\nOF PREMISES AS HOTEL\nClass of hotel\nFee for each year or any part of a year of the registration\n1.A small hotel, being a hotel with 100 rooms or less\n$250\n2.A medium hotel, being a hotel with more than 100 rooms but less than 300 rooms\n$600\n3.A large hotel, being a hotel with 300 rooms or more but less than 500 rooms\n$1,100\n4.An extra‑large hotel, being a hotel with 500 rooms or more\n$1,450\nPart 2\nFEE FOR LICENCE\n1.The fee payable for a licence is $150 for each year or any part of a year of the licence."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Hotels Licensing Regulations 1974",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

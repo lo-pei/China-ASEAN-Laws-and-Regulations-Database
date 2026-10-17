@@ -1,7 +1,7 @@
 {
  "id": "SG-H1467",
  "title": {
-  "zh": null,
+  "zh": "工厂（安全训练课程）命令",
   "en": "Factories (Safety Training Courses) Order",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nClasses or description of persons\nSafety training courses\n(1)Construction Workers:\nConstruction Safety Orientation Course.\nany worker employed in manual labour to carry out construction work in building and engineering construction worksites\n(2)Manhole Workers:\nSafety Orientation Course (Manhole).\nany worker who is carrying out work in manholes or confined spaces in building and engineering construction worksites\n(3)Manhole Supervisors:\nSafety Instruction Course (Manhole).\nany person who is appointed as a manhole supervisor to supervise work carried out in manholes or confined spaces in building and engineering construction worksites\n(4)Formwork Supervisors:\nFormwork Safety Course for Supervisors.\nany person who is appointed as a formwork supervisor to supervise the construction, erection, alteration or dismantling of formwork structures in building and engineering construction worksites\n(5)Project Managers:\nConstruction Safety Course for Project Managers.\nany person who is appointed as a project manager to be in charge of all construction activities in building and engineering construction worksites of a contract sum of $10 million or more\n(6)Oil and Petrochemical Industry Workers:\nOil and Petrochemical Safety Orientation Course for Workers.\nany worker who is carrying out work in a factory of the oil and petrochemical industry\n(7)Oil and Petrochemical Industry Supervisors:\nOil and Petrochemical Industry Supervisors Safety Course.\nany person who supervises any process or work carried out in a factory of the oil and petrochemical industry\n(8)Forklift Operators:\nForklift Driver’s Training Course.\nany person who drives or operates a forklift truck in a factory\n(9)Metalworking Industry Workers:\nSafety Orientation Course for Workers (Metalworking).\nany worker employed in manual labour to carry out work in a factory engaged in the manufacture of basic metals, fabricated metal products, machinery or equipment and electrical machinery and apparatus\n[S 673/2002 wef 01/06/2003]\n(10)Metalworking Industry Supervisors:\nBasic Industrial Safety and Health Course for Supervisors.\nany person who supervises any process or work carried out in a factory engaged in the manufacture of basic metals, fabricated metal products, machinery or equipment and electrical machinery and apparatus\n[S 673/2002 wef 01/06/2003]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Factories (Safety Training Courses) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

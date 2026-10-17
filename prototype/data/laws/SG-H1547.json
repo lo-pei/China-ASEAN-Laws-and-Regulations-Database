@@ -1,7 +1,7 @@
 {
  "id": "SG-H1547",
  "title": {
-  "zh": null,
+  "zh": "财务顾问（持财务顾问执照要求豁免）条例 2014",
   "en": "Financial Advisers (Exemption from Requirement to Hold Financial Adviser’s Licence) Regulations 2014",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) This regulation applies to a foreign company that, immediately before 27 February 2008, was providing financial advisory services concerning futures contracts (not being commodity futures contracts) under an arrangement with its related corporation, being an arrangement which has been and continues to be approved by the Authority under paragraph 11 of the First Schedule to the Act.\n(2) A foreign company to which this regulation applies is exempt from the requirement under section 6(1) of the Act to hold a financial adviser’s services licence to provide financial advisory services concerning commodity futures contracts under the same terms of arrangement mentioned in paragraph (1).\n(3) In this regulation, “commodity futures contract” has the meaning given by section 2 of the Commodity Trading Act (Cap. 48A) as in force immediately before 27 February 2008.\n[S 640/2018 wef 08/10/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Financial Advisers (Exemption from Requirement to Hold Financial Adviser’s Licence) Regulations 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

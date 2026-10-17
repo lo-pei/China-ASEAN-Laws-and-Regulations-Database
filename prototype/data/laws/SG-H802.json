@@ -1,7 +1,7 @@
 {
  "id": "SG-H802",
  "title": {
-  "zh": null,
+  "zh": "电脑滥用（罪行和解）（撤销）条例 2026",
   "en": "Computer Misuse (Composition of Offences) (Revocation) Regulations 2026",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Despite regulation 2, the Commissioner of Police, or any person authorised by the Commissioner of Police, may, in accordance with regulation 2 of the Computer Misuse (Composition of Offences) Regulations as in force immediately before 30 January 2026, compound an offence under section 3(1), 5(1), 6(1), 7(1) or 8 of the Act that is committed before that date."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Computer Misuse (Composition of Offences) (Revocation) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

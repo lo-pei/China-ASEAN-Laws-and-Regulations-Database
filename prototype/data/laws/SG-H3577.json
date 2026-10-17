@@ -1,7 +1,7 @@
 {
  "id": "SG-H3577",
  "title": {
-  "zh": null,
+  "zh": "长老会条例 1876",
   "en": "Presbyterian Church Ordinance 1876",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) The moneys to arise from such sale, after deducting the costs and expenses attending the sale or otherwise incurred in relation thereto, shall be paid to the trustees, or continuing acting trustees for the time being, of the said piece or parcel of land so granted by Her Majesty the Queen as hereinbefore mentioned for the purpose of erecting and building on such land or any part thereof a new church or chapel or other place of worship for the use of the members and congregation of the said Presbyterian Church in Singapore, and shall be applied by such trustees to the building of such church or chapel only.\n(2) The building when erected shall be held subject to the trusts set out in the grant above recited, and dated 6 May 1875.\n(3) The receipts for the purchase money given by the persons exercising the power of sale hereby conferred shall be sufficient discharges to the purchasers, who shall not be bound to see to the application of such purchase money."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Presbyterian Church Ordinance 1876",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

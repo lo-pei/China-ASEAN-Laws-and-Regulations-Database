@@ -1,7 +1,7 @@
 {
  "id": "SG-H1984",
  "title": {
-  "zh": null,
+  "zh": "所得税（第 14ZH 条下的扣除）（指定百分比）规则 2023",
   "en": "Income Tax (Deduction under Section 14ZH) (Prescribed Percentages) Rules 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) For the purpose of section 14ZH of the Act, the prescribed percentages are —\n(a)where the delivery services are performed on foot, by public transport or by the use of a bicycle (not being power-assisted) — 20%;\n(b)where the delivery services are performed by the use of a power-assisted bicycle, a motorised personal mobility device or a motor cycle — 35%; and\n(c)where the delivery services are performed by the use of a van — 60%.\n(2) For the avoidance of doubt, the delivery services mentioned in paragraph (1)(b) and (c) may be performed partly on foot."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Deduction under Section 14ZH) (Prescribed Percentages) Rules 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

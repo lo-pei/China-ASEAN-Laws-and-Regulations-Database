@@ -1,7 +1,7 @@
 {
  "id": "SG-H1897",
  "title": {
-  "zh": null,
+  "zh": "移民（特别入境与通关安排）条例",
   "en": "Immigration (Special Entry and Clearance Arrangements) Regulations",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) The requirements under section 5A(1) of the Act do not apply to the following individuals, whether a citizen of Singapore or a non-citizen:\n(a)a Singapore border protection service officer who travels to or from Singapore for the purpose or in the course of his performing duties as a Singapore incident management officer in respect of a cross-border railway affected by a railway occurrence necessitating incident management operations;\n(b)a Malaysian border protection service officer who travels to or from Singapore for the purpose or in the course of his performing duties as a Malaysian incident management officer in respect of a cross-border railway affected by a railway occurrence necessitating incident management operations.\n(2) Any term in paragraph (1) that is defined in the Cross-Border Railways (Border Control Co-location) Act 2026 has the meaning given to that term in that Act.\n[S 682/2026 wef 30/09/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Immigration (Special Entry and Clearance Arrangements) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4254",
  "title": {
-  "zh": null,
+  "zh": "要求外国人或外资全资或部分持股的商业组织在菲律宾投资与经营应有助于国民经济在自力更生基础上的稳健均衡发展并为其他目的法案",
   "en": "An Act to Require that the Making of Investments and the Doing of Business Within the Philippines by Foreigners or Business Organizations Owned in Whole or in Part by Foreigners Should Contribute to the Sound and Balanced Development of the National Economy on a Self-Sustaining Basis, and for Other Purposes",
   "orig": "An Act to Require that the Making of Investments and the Doing of Business Within the Philippines by Foreigners or Business Organizations Owned in Whole or in Part by Foreigners Should Contribute to the Sound and Balanced Development of the National Economy on a Self-Sustaining Basis, and for Other Purposes"
  },
@@ -180,5 +180,13 @@
     "en": "Effectivity. — This Act shall take effect upon approval.\nApproved: September 30, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Require that the Making of Investments and the Doing of Business Within the Philippines by Foreigners or Business Organizations Owned in Whole or in Part by Foreigners Should Contribute to the Sound and Balanced Development of the National Economy on a Self-Sustaining Basis, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

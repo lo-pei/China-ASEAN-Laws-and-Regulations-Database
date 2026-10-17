@@ -1,7 +1,7 @@
 {
  "id": "PH-H1748",
  "title": {
-  "zh": null,
+  "zh": "授权在西内格罗斯省Himamaylan市镇设立咸淡水试验与示范渔场站并为此拨款的法案",
   "en": "An Act to Authorize the Establishment of a Brackish Water Experimental and Demonstration Fish Farm Station in the Municipality of Himamaylan, Province of Negros Occidental, Appropriating Funds Therefor",
   "orig": "An Act to Authorize the Establishment of a Brackish Water Experimental and Demonstration Fish Farm Station in the Municipality of Himamaylan, Province of Negros Occidental, Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize the Establishment of a Brackish Water Experimental and Demonstration Fish Farm Station in the Municipality of Himamaylan, Province of Negros Occidental, Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3371",
  "title": {
-  "zh": null,
+  "zh": "修订第3538号共和国法（即《豁免福特基金会及其赠款缴纳税费并豁免其外籍人员所得税法》），将类似豁免扩大适用于洛克菲勒基金会、农业发展理事会公司、助养父母计划公司及其外籍人员的法案",
   "en": "An Act to Amend Republic Act Numbered Three Thousand Five Hundred and Thirty-Eight, Entitled \"An Act to Exempt the Ford Foundation and its Grants from the Payment of Gift, Franchise, Specific, Percentage, Real Property, and All Other Taxes, Duties and Fees and to Exempt Foreign Personnel Engaged in the Ford Foundation Program from the Payment of Income Tax,\" by Extending to the Rockefeller Foundation, Agricultural Development Council, Inc., Foster Parents Plan, Inc., and Their Foreign Personnel Engaged in Their Respective Programs Similar Exemptions",
   "orig": "An Act to Amend Republic Act Numbered Three Thousand Five Hundred and Thirty-Eight, Entitled \"An Act to Exempt the Ford Foundation and its Grants from the Payment of Gift, Franchise, Specific, Percentage, Real Property, and All Other Taxes, Duties and Fees and to Exempt Foreign Personnel Engaged in the Ford Foundation Program from the Payment of Income Tax,\" by Extending to the Rockefeller Foundation, Agricultural Development Council, Inc., Foster Parents Plan, Inc., and Their Foreign Personnel Engaged in Their Respective Programs Similar Exemptions"
  },
@@ -82,5 +82,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 8, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Three Thousand Five Hundred and Thirty-Eight, Entitled \"An Act to Exempt the Ford Foundation and its Grants from the Payment of Gift, Franchise, Specific, Percentage, Real Property, and All Other Taxes, Duties and Fees and to Exempt Foreign Personnel Engaged in the Ford Foundation Program from the Payment of Income Tax,\" by Extending to the Rockefeller Foundation, Agricultural Development Council, Inc., Foster Parents Plan, Inc., and Their Foreign Personnel Engaged in Their Respective Programs Similar Exemptions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

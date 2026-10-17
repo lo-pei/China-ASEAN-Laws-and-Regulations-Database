@@ -1,7 +1,7 @@
 {
  "id": "SG-H3500",
  "title": {
-  "zh": null,
+  "zh": "养老金法 1995",
   "en": "Pension Fund Act 1995",
   "orig": null
  },
@@ -288,5 +288,13 @@
     "en": "THE SCHEDULE\nSections 6 and 13(2)\n1.Civil Defence Act 1986\n2.Civil List and Gratuity Act 1970\n3.Internal Security (Injury Allowances) Regulations\n4.Municipal (Firemen’s Injuries) Provident Fund Rules, 1956\n5.Parliament (Privileges, Immunities and Powers) Act 1962\n6.Parliamentary Pensions Act 1978\n7.Pensions Act 1956\n8.Police Force Act 2004, more particularly the Police Regulations\n9.Public Service Commission (Pension) Regulations\n10.Section 206(1) of the Singapore Armed Forces Act 1972\n11.Singapore City Council Superannuation Fund for Subordinate Employees Rules 1954\n12.Widows’ and Orphans’ Pension Act 1904\n13.Work Injury Compensation Act 2019 or the Work Injury Compensation Act (Cap. 354, 2009 Revised Edition) repealed by that Act\n[27/2019; 4/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Pension Fund Act 1995",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

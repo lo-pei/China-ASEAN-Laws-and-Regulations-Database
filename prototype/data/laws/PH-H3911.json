@@ -1,7 +1,7 @@
 {
  "id": "PH-H3911",
  "title": {
-  "zh": null,
+  "zh": "授予 Esperanza Lazaro 在黎刹省 Malabon 市镇 Dampalit 村建设、维护和运营制冰厂并销售所生产冰的特许权法案",
   "en": "An Act Granting Esperanza Lazaro a Franchise to Construct, Maintain and Operate an Ice Plant in Barrio Dampalit, Municipality of Malabon, Province of Rizal",
   "orig": "An Act Granting Esperanza Lazaro a Franchise to Construct, Maintain and Operate an Ice Plant in Barrio Dampalit, Municipality of Malabon, Province of Rizal"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Esperanza Lazaro a Franchise to Construct, Maintain and Operate an Ice Plant in Barrio Dampalit, Municipality of Malabon, Province of Rizal",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

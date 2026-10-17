@@ -1,7 +1,7 @@
 {
  "id": "BN-S-31-2018-NOTIFICATION-OF-COMMENCEMENT",
  "title": {
-  "zh": null,
+  "zh": "生效公告",
   "en": "NOTIFICATION OF COMMENCEMENT",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "26th. JUNE, 2018 No. S 31\n\nTOWN AND COUNTRY PLANNING ORDER, 2015 (S 6112015) Notification of commencement In exercise of the power conferred by section 111) of the Town and Country Planning Order, 2015, the Minister of Development, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 1st January 2017 as the date on which that Order shall be deemed to have commenced. Dated this 12th. day of Syawal, 1439 Hijriah corresponding to the 26th. day of June, 2018.\n\nDATO SERI PADUKA AWANG HAJI SUHAIMI BIN HAJJ GAFAR Minister of Development, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

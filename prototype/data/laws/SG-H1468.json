@@ -1,7 +1,7 @@
 {
  "id": "SG-H1468",
  "title": {
-  "zh": null,
+  "zh": "工厂（工程建设作业）命令",
   "en": "Factories (Work of Engineering Construction) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The definition of “work of engineering construction” in section 7(1) of the Factories Act includes the following works:\n(a)the construction, laying, structural alteration, inspection, maintenance, repair, demolition or removal of —\n(i)any pipe-line for the conveyance of water, gas or any other thing;\n(ii)any drain, whether open or covered, except open drains situated in domestic premises; and\n(iii)any underground electrical cable and communication cable;\n(b)the inspection, repair or maintenance of any manhole, sump, inspection chamber, valve chamber, and any other similar confined structure providing access to pipe-lines or underground electrical cables and communication cables;\n(c)the construction of any road or carpark; and\n(d)the reclamation of any land."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Factories (Work of Engineering Construction) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

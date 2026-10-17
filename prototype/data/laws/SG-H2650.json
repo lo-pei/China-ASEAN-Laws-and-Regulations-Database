@@ -1,7 +1,7 @@
 {
  "id": "SG-H2650",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 10 号）命令 2023",
   "en": "Infrastructure Protection (Protected Places) (No. 10) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\n1.Managing Director,\nSJ Defence Services\nPte. Ltd.\n38 CLEANTECH LOOP, TOWER 4\n(BLOCK E1) #05-01\nAll that area comprised in part of Lot 01988C in Mukim No. 9 occupied by “38 CLEANTECH LOOP, TOWER 4 (BLOCK E1) #05‑01” containing an area of about 819 square metres and bounded approximately as follows:\nCommencing at a point 37156.373 metres North and 12209.965 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n37156.373\n12209.965\n37150.894\n12222.032\n37132.056\n12221.520\n37125.452\n12228.181\n37122.377\n12224.738\n37120.810\n12222.872\n37117.172\n12218.078\n37115.788\n12216.072\n37114.869\n12214.588\n37113.613\n12212.514\n37111.523\n12208.868\n37110.637\n12207.205\n37109.614\n12204.966\n37107.152\n12199.679\n37106.857\n12198.740\n37114.205\n12199.030\n37134.085\n12199.749\n37136.850\n12199.810\n37140.388\n12204.556\n37141.238\n12205.632\n37141.078\n12205.863\n37143.235\n12208.279\n37144.232\n12209.249\n37144.042\n12209.440\nto the point of commencement.\n2.Managing Director,\nSJ Defence Services\nPte. Ltd.\n38 CLEANTECH LOOP, TOWER 4\n(BLOCK E1) #06-01\nAll that area comprised in part of Lot 01988C in Mukim No. 9 occupied by “38 CLEANTECH LOOP, TOWER 4 (BLOCK E1) #06‑01” containing an area of about 877 square metres and bounded approximately as follows:\nCommencing at a point 37156.373 metres North and 12209.965 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n37156.373\n12209.965\n37150.894\n12222.032\n37132.056\n12221.520\n37125.452\n12228.181\n37124.515\n12229.159\n37121.130\n12225.819\n37119.520\n12223.902\n37115.835\n12219.045\n37114.407\n12216.975\n37113.462\n12215.450\n37112.154\n12213.360\n37109.273\n12208.033\n37107.455\n12204.160\n37105.671\n12200.121\n37105.075\n12198.681\n37106.857\n12198.740\n37114.205\n12199.030\n37134.085\n12199.749\n37136.850\n12199.810\n37140.388\n12204.556\n37141.238\n12205.632\n37141.078\n12205.863\n37143.235\n12208.279\n37144.232\n12209.249\n37144.042\n12209.440\nto the point of commencement.\nThe boundaries of “38 CLEANTECH LOOP, TOWER 4 (BLOCK E1) #05‑01” and “38 CLEANTECH LOOP, TOWER 4 (BLOCK E1) #06‑01” are more particularly delineated in the Survey Plan No. SB‑50LS‑LCJW-S22014-001 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 10) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3657",
  "title": {
-  "zh": null,
+  "zh": "新加坡理工学院法 1954",
   "en": "Singapore Polytechnic Act 1954",
   "orig": null
  },
@@ -366,5 +366,13 @@
     "en": "23.—(1) The Board may, with the approval of the Minister, make regulations for any of the following matters:\n(a)the preparation, audit and submission to the Minister of estimates, budgets, statements and returns;\n(b)the membership and functions of the Board of Studies;\n(c)the conditions of transfer to the Polytechnic of pensionable officers in the public service;\n(d)the appointment, promotion, conduct, disciplinary control, dismissal and termination of service of the academic and administrative staff of the Polytechnic;\n(e)the conduct and disciplinary control of students;\n(f)any other matters which by this Act are required or may be prescribed.\n(2) All regulations made under this section must be published in the Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Singapore Polytechnic Act 1954",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

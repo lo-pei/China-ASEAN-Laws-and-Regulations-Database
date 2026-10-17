@@ -1,7 +1,7 @@
 {
  "id": "SG-H1301",
  "title": {
-  "zh": null,
+  "zh": "节能（受管制灯具豁免）命令 2015",
   "en": "Energy Conservation (Exemption for Regulated Lamps) Order 2015",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) Any importer or manufacturer who supplies a regulated lamp to a developer or any other person in connection with a developer supply agreement is exempted from section 12A of the Act.\n[S 749/2017 wef 01/01/2018]\n(2) [Deleted by S 749/2017 wef 01/01/2018]\n(3) [Deleted by S 749/2017 wef 01/01/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Energy Conservation (Exemption for Regulated Lamps) Order 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

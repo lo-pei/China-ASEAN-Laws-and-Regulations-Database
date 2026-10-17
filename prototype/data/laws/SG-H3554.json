@@ -1,7 +1,7 @@
 {
  "id": "SG-H3554",
  "title": {
-  "zh": null,
+  "zh": "规划（土地租赁与处置）（合并）命令",
   "en": "Planning (Leases and Disposal of Land) (Consolidation) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Any lease granted on or after —\n(a)7th November 2003 for a term not exceeding an aggregate of 21 years of\n(i)any unit in any development described in Part I of the Third Schedule to the Act; or\n(ii)any building or part thereof comprised in a development described in Part II of the Third Schedule to the Act;\n[S 783/2022 wef 03/10/2022]\n[S 519/2003 — 7.11.2003]\n(b)5th July 2004 for a term not exceeding an aggregate of 21 years of any building or part thereof comprised in such development which is or is to be lawfully used as a business park or science park; or\n[S 408/2004 — 5.7.2004]\n[S 783/2022 wef 03/10/2022]\n(c)3 October 2022 for a term not exceeding an aggregate of 35 years, of any unit in a building or part thereof where written permission has been granted for the development of the building or part for use as an assisted living facility,\n[S 783/2022 wef 03/10/2022]\nshall be added to the list of leases in section 4(2) of the Act which shall not be regarded as a disposal of land."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Planning (Leases and Disposal of Land) (Consolidation) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

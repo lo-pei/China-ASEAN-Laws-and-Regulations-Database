@@ -1,7 +1,7 @@
 {
  "id": "SG-H715",
  "title": {
-  "zh": null,
+  "zh": "委员会",
   "en": "Commission",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Inquiry Commissions Ordinance 1941\n(No. 5 of 1941)\nCommission\nN 2\nG.N. No. S 1219/1941\nREVISED EDITION 1990\n(25th March 1992)\n[20th May 1941]\nGEORGE VI, by the Grace of God of Great Britain, Ireland and the British Dominions beyond the Seas King, Defender of the Faith, Emperor of India."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

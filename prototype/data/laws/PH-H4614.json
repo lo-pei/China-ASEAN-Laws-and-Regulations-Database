@@ -1,7 +1,7 @@
 {
  "id": "PH-H4614",
  "title": {
-  "zh": null,
+  "zh": "修订第3534号共和国法（即《为菲律宾大学内菲律宾行政学院的建筑、设施与运营费用提供资金并为其他目的法案》）第4条的法案",
   "en": "An Act Amending Section Four of Republic Act Numbered Three Thousand Five Hundred Thirty-Four, Entitled \"An Act to Provide Funds for Buildings, Facilities and Operating Expenses of the Philippine Executive Academy Within the University of the Philippines and for Other Purposes.\"",
   "orig": "An Act Amending Section Four of Republic Act Numbered Three Thousand Five Hundred Thirty-Four, Entitled \"An Act to Provide Funds for Buildings, Facilities and Operating Expenses of the Philippine Executive Academy Within the University of the Philippines and for Other Purposes.\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Four of Republic Act Numbered Three Thousand Five Hundred Thirty-Four, Entitled \"An Act to Provide Funds for Buildings, Facilities and Operating Expenses of the Philippine Executive Academy Within the University of the Philippines and for Other Purposes.\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

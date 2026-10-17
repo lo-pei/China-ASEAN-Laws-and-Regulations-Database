@@ -1,7 +1,7 @@
 {
  "id": "SG-H3266",
  "title": {
-  "zh": null,
+  "zh": "多式联运条例 2021",
   "en": "Multimodal Transport Regulations 2021",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. For the purposes of section 10(1) of the Act, the prescribed particulars are as follows:\n(a)in relation to the goods taken in charge in Singapore by the multimodal transport operator —\n(i)the general nature of the goods;\n(ii)the marks necessary for the identification of the goods;\n(iii)a statement, if applicable, as to the dangerous or perishable character of the goods;\n(iv)the number of packages or pieces of the goods;\n(v)the gross weight of the goods or their quantity otherwise expressed;\n(vi)the apparent condition of the goods; and\n(vii)all particulars furnished by the consignor of the goods;\n(b)the name and principal place of business of the multimodal transport operator;\n(c)the name of the consignor of the goods;\n(d)the consignee of the goods, if named by the consignor;\n(e)the place and date the goods are taken in charge by the multimodal transport operator;\n(f)the place of delivery of the goods;\n(g)the date or the period of delivery of the goods at the place of delivery, if expressly agreed upon between the parties to the multimodal transport contract;\n(h)a statement indicating whether the multimodal transport document is negotiable or non‑negotiable;\n(i)the place and date of issue of the multimodal transport document;\n(j)the signature of the multimodal transport operator or of a person authorised by the multimodal transport operator to execute the multimodal transport document on its behalf;\n(k)the freight for each mode of transport, if expressly agreed between the parties to the multimodal transport contract, or the freight (including its currency) to the extent payable by the consignee of the goods, or other indication that freight is payable by the consignee of the goods;\n(l)the intended route, modes of transport and places of transshipment if known at the time the multimodal transport document is issued;\n(m)any other particulars which the parties to the multimodal transport contract have agreed are to be included in the multimodal transport document."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Multimodal Transport Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

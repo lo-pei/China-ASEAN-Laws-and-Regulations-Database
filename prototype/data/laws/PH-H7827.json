@@ -1,7 +1,7 @@
 {
  "id": "PH-H7827",
  "title": {
-  "zh": null,
+  "zh": "在菲律宾武装部队（AFP）士兵军衔中设立首席军士长/首席士官长衔级并为其拨款的法案，并为其他目的",
   "en": "An Act Creating the Rank of First Chief Master Sergeant/First Master Chief Petty Officer in the Enlisted Ranks of the Armed Forces of the Philippines (AFP), Appropriating Funds therefor, and for other purposes",
   "orig": "An Act Creating the Rank of First Chief Master Sergeant/First Master Chief Petty Officer in the Enlisted Ranks of the Armed Forces of the Philippines (AFP), Appropriating Funds therefor, and for other purposes"
  },
@@ -130,5 +130,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days upon approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Rank of First Chief Master Sergeant/First Master Chief Petty Officer in the Enlisted Ranks of the Armed Forces of the Philippines (AFP), Appropriating Funds therefor, and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

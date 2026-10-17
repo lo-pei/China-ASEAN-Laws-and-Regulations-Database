@@ -1,7 +1,7 @@
 {
  "id": "PH-H3364",
  "title": {
-  "zh": null,
+  "zh": "授予菲律宾电报电话公司在菲律宾全境设立、安装、维护和运营有线及无线电信系统的特许经营权法案",
   "en": "An Act Granting the Philippine Telegraph and Telephone Corporation a Franchise to Establish, Install, Maintain and Operate Wire and/or Wireless Telecommunications Systems, Lines, Circuits and Stations Throughout the Philippines, for Public Domestic and International Communications",
   "orig": "An Act Granting the Philippine Telegraph and Telephone Corporation a Franchise to Establish, Install, Maintain and Operate Wire and/or Wireless Telecommunications Systems, Lines, Circuits and Stations Throughout the Philippines, for Public Domestic and International Communications"
  },
@@ -191,5 +191,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1964"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Philippine Telegraph and Telephone Corporation a Franchise to Establish, Install, Maintain and Operate Wire and/or Wireless Telecommunications Systems, Lines, Circuits and Stations Throughout the Philippines, for Public Domestic and International Communications",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

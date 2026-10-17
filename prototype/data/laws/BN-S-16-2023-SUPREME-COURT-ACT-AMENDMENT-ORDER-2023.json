@@ -1,7 +1,7 @@
 {
  "id": "BN-S-16-2023-SUPREME-COURT-ACT-AMENDMENT-ORDER-2023",
  "title": {
-  "zh": null,
+  "zh": "最高法院法修正命令 2023",
   "en": "SUPREME COURT ACT AMENDMENT ORDER 2023",
   "orig": null
  },
@@ -99,5 +99,13 @@
     "en": "(1) The Supreme Court shall be a Court of Record and shall consist of(a} the High Court which shall exercise original and appellate criminal and civil jurisdiction; and\n\n(b) the Court of Appeal which shall exercise appellate criminal and civil jurisdiction.\n\n(2) The Judges of the High Court shall be the Chief Justice and such of Judges as may be prescribed by His Majesty the Sultan and Yang Di-Pertuan in Council.\n\n(3) The criminal and civil jurisdiction of the Court of Appeal shall be exercised by three Judges of the Court of Appeal who shall consist of(a) the Chief Justice who, by virtue of his office, shall be the of the Court of Appeal;\n\n(b) the Vice President of the Court of Appeal; and\n\n(c) such other Judges or Judicial Commissioners of the Supreme\n\n(4) In a sitting of the Court of Appeal(a) the Chief Justice is to preside as the President of the Court of\n\n(b) in the absence of the President, the Vice President of the Court of Appeal shall preside;\n\n(c) in the absence of the President and Vice President, the Chief Justice is to appoint a person to preside.\n\n(5) When a judgment in a proceeding in the Court of Appeal is\n\n(a) it is not necessary for any of the Judges of the Court of Appeal whom it was heard to be present in the Court of Appeal to hand down the judgment;\n\n(b) the opinion of any of the Judges of the Court of Appeal may be to writing and made public by any Judge of the Court of\n\n(c) the judgment of the Court of Appeal has the same effect as if of the Court of Appeal whose opinion is so made public had been present in the Court of Appeal;\n\n(d) the Court of Appeal may be constituted by one or more Judges of the Court of Appeal.\". Made this 28th. day of Ramadhan, 1444 Hijriah corresponding to the of April, 2023 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY THE SULTAN AND YANG DI·PERTUAN, DARUSSALAM."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUPREME COURT ACT AMENDMENT ORDER 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

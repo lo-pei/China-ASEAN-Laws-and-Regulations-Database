@@ -1,7 +1,7 @@
 {
  "id": "SG-H1575",
  "title": {
-  "zh": null,
+  "zh": "金融服务与市场（金融机构处置）条例 2024",
   "en": "Financial Services and Markets (Resolution of Financial Institutions) Regulations 2024",
   "orig": null
  },
@@ -750,5 +750,13 @@
     "en": "FOURTH SCHEDULE\nRegulation 8\nSignificant shareholder provisions\nFirst column\nSecond column\nPertinent financial institution\nSignificant shareholder provisions\n1.A bank incorporated in Singapore\nSections 15A(1) and 15B(1) of the Banking Act 1970\n2.A finance company licensed under the Finance Companies Act 1967\nSections 10(2), 11(1) and 12(1) of the Finance Companies Act 1967\n3.A merchant bank\nSection 55X(2) of the Banking Act 1970\n4.A designated financial holding company\nSections 13(1), 14(1), 20(1) and 21(1) of the Financial Holding Companies Act 2013\n5.An operator of a designated payment system under the Payment Services Act 2019\nSection 59(1) of the Payment Services Act 2019\n6.An approved exchange under the Securities and Futures Act 2001\nSection 27(1) and (2) of the Securities and Futures Act 2001\n7.A licensed trade repository under the Securities and Futures Act 2001\nSection 46U(1) and (2) of the Securities and Futures Act 2001\n8.An approved clearing house under the Securities and Futures Act 2001\nSection 70(1) and (2) of the Securities and Futures Act 2001\n9.An approved holding company under the Securities and Futures Act 2001\nSection 81ZE(1) and (2) of the Securities and Futures Act 2001\n10.A holder of a capital markets services licence under the Securities and Futures Act 2001 (not being a holder of a capital markets services licence who only carries on business in the regulated activity of providing credit rating services but not any other regulated activity as defined in section 2(1) of that Act)\nSection 97A(2) of the Securities and Futures Act 2001\n11.A licensed trust company under the Trust Companies Act 2005\nSection 16(1) of the Trust Companies Act 2005\n12.An insurer incorporated in Singapore and licensed under the Insurance Act 1966\nSections 26(1) and 27(1) of the Insurance Act 1966"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Financial Services and Markets (Resolution of Financial Institutions) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H245",
  "title": {
-  "zh": null,
+  "zh": "认可机构",
   "en": "Approved Institution",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Probation of Offenders Act\n(Chapter 252)\nApproved Institution\nIn exercise of the powers conferred by section 12 of the Probation of Offenders Act, the Minister for Community Development and Sports hereby orders that Salvation Army Gracehaven shall be an approved institution for the reception of male persons who may be required to reside therein by a probation order made under the Act, with effect from 1st August 2004."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Approved Institution",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

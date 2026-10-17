@@ -1,7 +1,7 @@
 {
  "id": "PH-H5781",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第 6030 号共和国法（经第 6531 号共和国法修正），将 Pilipino 电话公司的特许经营权期限自期满起再延长二十五年并为其他目的法案",
   "en": "An Act Further Amending Republic Act Numbered Six Thousand Thirty, as Amended By Republic Act Numbered Six Thousand Five Hundred Thirty-one, Entitled \"An Act Granting the Pilipino Telephone Corporation a Franchise to Install, Operate and Maintain Telephone Systems in Certain Areas Throughout the Philippines,\" Extending the Term of Its Franchise to Another Twenty-five Years From Date of Its Expiration, and for Other Purposes",
   "orig": "An Act Further Amending Republic Act Numbered Six Thousand Thirty, as Amended By Republic Act Numbered Six Thousand Five Hundred Thirty-one, Entitled \"An Act Granting the Pilipino Telephone Corporation a Franchise to Install, Operate and Maintain Telephone Systems in Certain Areas Throughout the Philippines,\" Extending the Term of Its Franchise to Another Twenty-five Years From Date of Its Expiration, and for Other Purposes"
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H5781-A1_2",
+   "id": "PH-H5781-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Subject to the conditions established in this Act and the provisions of Commonwealth Act Numbered One hundred forty-six, as amended, and of the Constitution, applicable thereto, there is hereby granted to the Pilipino Telephone Corporation, hereinafter called the grantee, its successors or assigns, for a period of twenty-five (25) years from the approval of this Act, the right, privilege and authority to install, operate and maintain telecommunications systems and services in and between provinces, cities and municipalities throughout the Philippines and between the Philippines and other countries and territories, as public interest may warrant. The grantee is authorized to carry on the business of transmitting and receiving messages, signals, conversations and pictures by means of electricity, laser beams, microwave, or other means now known to science or which in the future may be developed for the transmission of telecommunications, conversations, messages, pictures, and signals in and between the said provinces, cities and municipalities, and connect systems of other countries and for the purpose of operating said telephone systems and transmitting telecommunications, messages, conversations, pictures, and signals by means of electricity, laser beams, microwave, and other means now known to science or which in the future may be developed; to construct, maintain and operate and use all apparatus, conduits, appliances, receivers, transmitters, antennaes, balloons, satellites, and equipment necessary for the transmission of messages, conversations, pictures, and signals by means of electricity, laser beams, microwave, and other means now known to science or which in the future may be developed; to erect poles, structures, string wires, build conduits, lay cables, float balloons; to construct, maintain, and use such other approved and generally accepted means of electrical, laser beams, microwave, and other means, conduction in, on, over, or under the public roads, government right-of-way, lands, bridges, rivers, streets, lanes and sidewalks of provinces, cities, and municipalities, and overhead or underground or submarine lines or on the surface of the ground or in the atmosphere as may be necessary and best adapted to said transmission and reception: Provided, however, That all cables laid, all poles erected and all conduits constructed or used by the grantee, its successors or assigns, shall be located in places designated by said grantee, with the approval of the provincial or municipal board or council of the province, city or municipality concerned, and poles shall be erected in a workmanlike manner to the satisfaction of the said body: Provided, further, That the poles erected, wires and cables strung or conduits laid by virtue of this franchise shall be so placed as not to impair the efficient and effective transmission of messages and signals by any other company whose wires and cables are strung, or whose conduits are actually laid at the time that the poles are to be erected, wires and cables strung and conduits laid under and by virtue of this franchise: Provided, finally, That poles erected by the grantee shall be of such a height of at least ten feet (10) above the level of the ground providing a height of at least fifteen feet (15) in crossing roads or streets and shall be so placed as not to be a danger to public safety in accordance with a plan approved by the Secretary of Transportation and Communications.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5781-A3",
@@ -210,5 +211,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amending Republic Act Numbered Six Thousand Thirty, as Amended By Republic Act Numbered Six Thousand Five Hundred Thirty-one, Entitled \"An Act Granting the Pilipino Telephone Corporation a Franchise to Install, Operate and Maintain Telephone Systems in Certain Areas Throughout the Philippines,\" Extending the Term of Its Franchise to Another Twenty-five Years From Date of Its Expiration, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

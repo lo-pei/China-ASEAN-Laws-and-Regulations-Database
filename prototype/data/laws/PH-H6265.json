@@ -1,7 +1,7 @@
 {
  "id": "PH-H6265",
  "title": {
-  "zh": null,
+  "zh": "通过设立卓越中心、为此设立教师教育委员会加强菲律宾教师教育、拨款并为其他目的法案",
   "en": "An Act to Strengthen Teacher Education in the Philippines By Establishing Centers of Excellence, Creating a Teacher Education Council for the Purpose, Appropriating Funds Therefor, and for Other Purposes",
   "orig": "An Act to Strengthen Teacher Education in the Philippines By Establishing Centers of Excellence, Creating a Teacher Education Council for the Purpose, Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its approval.\nApproved, August 4, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Strengthen Teacher Education in the Philippines By Establishing Centers of Excellence, Creating a Teacher Education Council for the Purpose, Appropriating Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

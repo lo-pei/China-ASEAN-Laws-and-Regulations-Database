@@ -1,7 +1,7 @@
 {
  "id": "SG-H474",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（问题赌博——保留与过渡规定）条例 2026",
   "en": "Casino Control (Problem Gambling — Saving and Transitional Provisions) Regulations 2026",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. As from 21 September 2026, any appeal made under section 165(10) of the old law against an exclusion order or visit limit and for which a decision is pending immediately before that date, continues and is to be dealt with as if it were an appeal made under section 165(10) of the new law against a third party exclusion order or third party visit limit, respectively."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Casino Control (Problem Gambling — Saving and Transitional Provisions) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-212-2011-UNIVERSITI-ISLAM-SULTAN-SHARIF-ALI-ACT",
  "title": {
-  "zh": null,
+  "zh": "苏丹谢里夫阿里伊斯兰大学法",
   "en": "UNIVERSITI ISLAM SULTAN SHARIF ALI ACT",
   "orig": null
  },
@@ -643,5 +643,13 @@
     "en": "If any question arises whether any person has been duly elected, appointed, nominated or co-opted to membership or is entitled to be or to remain a member of any authority or other body in the University, the question shall be referred to the Chancellor, whose decision thereon shall be final."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "UNIVERSITI ISLAM SULTAN SHARIF ALI ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

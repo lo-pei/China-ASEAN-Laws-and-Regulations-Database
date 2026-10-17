@@ -1,7 +1,7 @@
 {
  "id": "SG-H2076",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 5 号）命令 2014",
   "en": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2014",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) V-Sciences Investments Pte Ltd is hereby granted exemption from tax on the income referred to in sub‑paragraph (2) which it received in Singapore from the United States of America, in its financial year which ended on 31st March 2008.\n(2) The income to which sub‑paragraph (1) applies is the sum of money derived from the disposal by V‑Sciences Investments Pte Ltd of the stock dividends distributed by Replidyne Inc, a company located in the United States of America, to V‑Sciences Investments Pte Ltd in the year 2006.\n(3) The exemption under sub‑paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 14th May 2014 addressed to the tax agent of V‑Sciences Investments Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

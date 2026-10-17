@@ -1,7 +1,7 @@
 {
  "id": "SG-H3305",
  "title": {
-  "zh": null,
+  "zh": "国家社会服务理事会（行业会员）条例 2026",
   "en": "National Council of Social Service (Sector Membership) Regulations 2026",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "10. Revoke the National Council of Social Service (Membership and Fees) Regulations (Rg 3)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "National Council of Social Service (Sector Membership) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10532",
  "title": {
-  "zh": null,
+  "zh": "将国家经济发展管理局改为经济、规划与发展部（DEPDEV），将 NEDA 委员会改为经济与发展委员会，废止与修订 1987 年第 230、292 号行政命令，并为此拨款的法案",
   "en": "An Act Reorganizing the National Economic and Development Authority (NEDA) Into the Department of Economy, Planning, and Development (DEPDEV), and Reconstituting the Neda Board Into the Economy and Development Council, Repealing for the Purpose Executive Order No. 230, Series of 1987, and Amending Executive Order No. 292, Series of 1987, and Appropriating Funds Therefor",
   "orig": "An Act Reorganizing the National Economic and Development Authority (NEDA) Into the Department of Economy, Planning, and Development (DEPDEV), and Reconstituting the Neda Board Into the Economy and Development Council, Repealing for the Purpose Executive Order No. 230, Series of 1987, and Amending Executive Order No. 292, Series of 1987, and Appropriating Funds Therefor"
  },
@@ -470,5 +470,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reorganizing the National Economic and Development Authority (NEDA) Into the Department of Economy, Planning, and Development (DEPDEV), and Reconstituting the Neda Board Into the Economy and Development Council, Repealing for the Purpose Executive Order No. 230, Series of 1987, and Amending Executive Order No. 292, Series of 1987, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

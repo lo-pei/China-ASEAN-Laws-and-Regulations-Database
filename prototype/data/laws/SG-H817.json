@@ -1,7 +1,7 @@
 {
  "id": "SG-H817",
  "title": {
-  "zh": null,
+  "zh": "消费者保护（公平交易）（受监管金融产品与服务）条例 2009",
   "en": "Consumer Protection (Fair Trading) (Regulated Financial Products and Services) Regulations 2009",
   "orig": null
  },
@@ -129,5 +129,11 @@
     "en": "7. Sections 8 (Voluntary compliance agreement), 9 (Declaration or injunction) and 10 (Injunction against person from knowingly abetting, aiding, permitting or procuring supplier to engage in unfair practice) of the Act do not apply to any unfair practice relating to MAS‑regulated financial products or services."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Consumer Protection (Fair Trading) (Regulated Financial Products and Services) Regulations 2009",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

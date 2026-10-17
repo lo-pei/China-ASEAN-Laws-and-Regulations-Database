@@ -1,7 +1,7 @@
 {
  "id": "SG-H1693",
  "title": {
-  "zh": null,
+  "zh": "保健品（化妆品——复出口进口与出口制造）条例 2019",
   "en": "Health Products (Cosmetic Products — Import for Re-export and Manufacture for Export) Regulations 2019",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRegulation 3(1) and (2)\nMercury content of cosmetic products\nPart 1\nFirst column\nSecond column\nThird column\n1.Eye make‑up\n(a)Thiomersal\n0.007% of mercury\n(b)Phenylmercuric salts\n0.007% of mercury\n(c)Mixture of thiomersal and phenylmercuric salts\n0.007% of mercury\n2.Eye make‑up remover\n(a)Thiomersal\n0.007% of mercury\n(b)Phenylmercuric salts\n0.007% of mercury\n(c)Mixture of thiomersal and phenylmercuric salts\n0.007% of mercury\nPart 2\n1. In this Schedule, “phenylmercuric salts” means any of the following:\n(a)phenylmercuric acetate;\n(b)phenylmercuric borate;\n(c)phenylmercuric bromide;\n(d)phenylmercuric chloride."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Health Products (Cosmetic Products — Import for Re-export and Manufacture for Export) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

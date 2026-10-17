@@ -1,7 +1,7 @@
 {
  "id": "PH-H8404",
  "title": {
-  "zh": null,
+  "zh": "给予司法系统成员额外退休、遗属及其他福利并为此修订相关法律的法案",
   "en": "An Act Granting Additional Retirement, Survivorship, and Other Benefits to Members of the Judiciary, Amending for the Purpose ra1953/ra_910_1953.html",
   "orig": "An Act Granting Additional Retirement, Survivorship, and Other Benefits to Members of the Judiciary, Amending for the Purpose ra1953/ra_910_1953.html"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect fifteen (l5) days following the completion of its publication in the Official Gazette or in any two (2) newspapers of genera) circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Additional Retirement, Survivorship, and Other Benefits to Members of the Judiciary, Amending for the Purpose ra1953/ra_910_1953.html",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

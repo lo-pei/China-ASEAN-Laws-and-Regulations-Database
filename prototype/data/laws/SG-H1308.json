@@ -1,7 +1,7 @@
 {
  "id": "SG-H1308",
  "title": {
-  "zh": null,
+  "zh": "节能（运输设施运营者）命令 2013",
   "en": "Energy Conservation (Transport Facility Operators) Order 2013",
   "orig": null
  },
@@ -130,5 +130,13 @@
     "en": "FOURTH SCHEDULE\nParagraph 4\nTransport facility operators\nPart I\nland transport operators declared to be\ntransport facility operators\nFirst column\nLand transport operator\nSecond column\nDate\n1.SMRT Trains Ltd\n1st January 2014\n2.SMRT Light Rail Pte Ltd\n1st January 2014\n3.SMRT Buses Ltd\n1st January 2014\n4.SBS Transit Ltd\n1st January 2014\n5.SBS Transit DTL Pte Ltd\n1st January 2014\nPart II\nport service operators declared to be\ntransport facility operators\nFirst column\nPort service operator\nSecond column\nDate\n1.PSA Corporation Limited\n1st January 2014\n2.Jurong Port Private Limited\n1st January 2014"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Energy Conservation (Transport Facility Operators) Order 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

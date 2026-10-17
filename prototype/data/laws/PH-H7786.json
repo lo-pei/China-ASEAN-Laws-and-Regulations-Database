@@ -1,7 +1,7 @@
 {
  "id": "PH-H7786",
  "title": {
-  "zh": null,
+  "zh": "将巴拉望省Rizal市镇Ransang描笼涯依土地分类图第3400号、林地项目第13-G号A区块内512.80公顷公共土地的一部分重新划为可处置农业用地",
   "en": "An act reclassifying a portion of land comprising Five Hundred Twelve and Eighty (512.80) hectares of public land under Timberland Project Number 13-G, Block A, as per Land Classification Map Number 3400 IN Barangay Ransang, Municipality of Rizal, Province of Palawan as agricultural land open for disposition",
   "orig": "An act reclassifying a portion of land comprising Five Hundred Twelve and Eighty (512.80) hectares of public land under Timberland Project Number 13-G, Block A, as per Land Classification Map Number 3400 IN Barangay Ransang, Municipality of Rizal, Province of Palawan as agricultural land open for disposition"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act reclassifying a portion of land comprising Five Hundred Twelve and Eighty (512.80) hectares of public land under Timberland Project Number 13-G, Block A, as per Land Classification Map Number 3400 IN Barangay Ransang, Municipality of Rizal, Province of Palawan as agricultural land open for disposition",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

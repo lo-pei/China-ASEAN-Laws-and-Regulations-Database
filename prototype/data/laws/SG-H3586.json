@@ -1,7 +1,7 @@
 {
  "id": "SG-H3586",
  "title": {
-  "zh": null,
+  "zh": "私人保安业法 2007",
   "en": "Private Security Industry Act 2007",
   "orig": null
  },
@@ -784,5 +784,13 @@
     "en": "THE SCHEDULE\nSections 2 and 38(1)\nSecurity equipment\n1. Optical surveillance device capable of being used to record visually or observe an activity, including night vision equipment, but does not include spectacle, contact lenses or a similar device used by a person with impaired sight to overcome that impairment.\n2. Audio device capable of being used to overhear, record, monitor or listen to a conversation or words spoken to or by a person in conversation, but does not include a hearing aid or similar device used by a person with impaired hearing to overcome the impairment and permit the person to hear sound ordinarily audible to the human ear.\n3. Data surveillance device or program capable of being used to record or monitor the input of information into, or output of information from, a computer, but does not include an optical surveillance device.\n4. Tracking device capable of being used to determine or monitor electronically the location of a person or an object or the status of an object.\n5. Other surveillance device that is a combination of 2 or more of the devices mentioned in paragraphs 1 to 4.\n6. Technical surveillance counter measure equipment capable of detecting or rendering ineffective other surveillance devices.\n7. Intruder alarm systems.\n8. Electronic access control systems including card and biometric access control systems.\n9. Explosive and narcotic sniffers.\n10. Devices capable of being used to detect deception such as the polygraph equipment.\n11. Currency or document screening equipment.\n12. X-ray security screening machines.\n13. Walk-through metal detectors.\n14. Radio frequency scanners."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Private Security Industry Act 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

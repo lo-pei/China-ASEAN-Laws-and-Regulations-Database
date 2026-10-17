@@ -1,7 +1,7 @@
 {
  "id": "PH-H1777",
  "title": {
-  "zh": null,
+  "zh": "将达沃省 Compostela 市镇划分为两个市镇，其一沿用原名，另一名为 Nabunturan 市镇的法案",
   "en": "An Act Dividing the Municipality of Compostela, Province of Davao, into Two Municipalities, One to Retain the Name “Compostela,” and the Other to be Known as the Municipality of Nabunturan",
   "orig": "An Act Dividing the Municipality of Compostela, Province of Davao, into Two Municipalities, One to Retain the Name “Compostela,” and the Other to be Known as the Municipality of Nabunturan"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect thirty days after its approval.\nApproved: June 23, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Dividing the Municipality of Compostela, Province of Davao, into Two Municipalities, One to Retain the Name “Compostela,” and the Other to be Known as the Municipality of Nabunturan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

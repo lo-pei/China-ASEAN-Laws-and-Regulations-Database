@@ -1,7 +1,7 @@
 {
  "id": "PH-H9367",
  "title": {
-  "zh": null,
+  "zh": "设立菲律宾南部科技大学（USTSP），为此合并 Mindanao 科技大学（MUST）与 Misamis Oriental 农业与技术州立学院（MOSCAT），并为此拨付资金的法案",
   "en": "An Act Establishing the University of Science and Technology of Southern Philippines (USTSP), Providing for the Purpose the Amalgamation of the Mindanao University of Science and Technology (MUST) and the Misamis Oriental State College of Agriculture and Technology (MOSCAT), and Appropriating Funds Therefor",
   "orig": "An Act Establishing the University of Science and Technology of Southern Philippines (USTSP), Providing for the Purpose the Amalgamation of the Mindanao University of Science and Technology (MUST) and the Misamis Oriental State College of Agriculture and Technology (MOSCAT), and Appropriating Funds Therefor"
  },
@@ -652,5 +652,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the University of Science and Technology of Southern Philippines (USTSP), Providing for the Purpose the Amalgamation of the Mindanao University of Science and Technology (MUST) and the Misamis Oriental State College of Agriculture and Technology (MOSCAT), and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3163",
  "title": {
-  "zh": null,
+  "zh": "规定在拉乌尼翁省Santo Tomas市镇Raois村设立渔业学校并授权为此拨款的法案",
   "en": "An Act Providing for the Establishment of a School of Fisheries in Barrio Raois, Municipality of Santo Tomas, Province of La Union, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Providing for the Establishment of a School of Fisheries in Barrio Raois, Municipality of Santo Tomas, Province of La Union, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Establishment of a School of Fisheries in Barrio Raois, Municipality of Santo Tomas, Province of La Union, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

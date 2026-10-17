@@ -1,7 +1,7 @@
 {
  "id": "PH-H3722",
  "title": {
-  "zh": null,
+  "zh": "修订第602号共和国法第3条（A）项（经第4180号共和国法修正），将采矿企业雇员纳入该法适用范围的法案",
   "en": "An Act Amending Section Three (A) of Republic Act Numbered Six Hundred Two, as Amended by Republic Act Numbered Four Thousand One Hundred Eighty, so as to Include Employees of Mining Enterprises Within the Purview of Said Act",
   "orig": "An Act Amending Section Three (A) of Republic Act Numbered Six Hundred Two, as Amended by Republic Act Numbered Four Thousand One Hundred Eighty, so as to Include Employees of Mining Enterprises Within the Purview of Said Act"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Three (A) of Republic Act Numbered Six Hundred Two, as Amended by Republic Act Numbered Four Thousand One Hundred Eighty, so as to Include Employees of Mining Enterprises Within the Purview of Said Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

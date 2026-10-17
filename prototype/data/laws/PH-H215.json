@@ -1,7 +1,7 @@
 {
  "id": "PH-H215",
  "title": {
-  "zh": null,
+  "zh": "要求申请进入菲律宾的外国人每份居留证书缴纳50比索，为此修订第613号联邦法第42条（A）段第（10）项的法案",
   "en": "An Act Requiring Aliens Seeking to Enter the Philippines to Pay the Sum of Fifty Pesos for Each Certificate of Residence, Thereby Amending Item (10) of Paragraph (A) of Section Forty-Two of Commonwealth Act Numbered Six Hundred and Thirteen",
   "orig": "An Act Requiring Aliens Seeking to Enter the Philippines to Pay the Sum of Fifty Pesos for Each Certificate of Residence, Thereby Amending Item (10) of Paragraph (A) of Section Forty-Two of Commonwealth Act Numbered Six Hundred and Thirteen"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 7, 1947"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring Aliens Seeking to Enter the Philippines to Pay the Sum of Fifty Pesos for Each Certificate of Residence, Thereby Amending Item (10) of Paragraph (A) of Section Forty-Two of Commonwealth Act Numbered Six Hundred and Thirteen",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

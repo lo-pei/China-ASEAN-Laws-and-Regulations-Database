@@ -1,7 +1,7 @@
 {
  "id": "PH-H5460",
  "title": {
-  "zh": null,
+  "zh": "将依第 4161 号共和国法（经第 5048 号共和国法修正）授予 Philippine Telegraph and Telephone 的电信特许权续展二十五年",
   "en": "An Act Extending the Franchise Granted to the Philippine Telegraph and Telephone Corporation to Establish, Install, Maintain and Operate Wire and/or Wireless Telecommunications Systems, Lines, Circuits and Stations Throughout the Philippines for Public Domestic and International Communications under Republic Act No. 4161, as amended by Republic Act No. 5048, to another Twenty-Five (25) Years from the Date of the Effectivity of This Act",
   "orig": "An Act Extending the Franchise Granted to the Philippine Telegraph and Telephone Corporation to Establish, Install, Maintain and Operate Wire and/or Wireless Telecommunications Systems, Lines, Circuits and Stations Throughout the Philippines for Public Domestic and International Communications under Republic Act No. 4161, as amended by Republic Act No. 5048, to another Twenty-Five (25) Years from the Date of the Effectivity of This Act"
  },
@@ -111,5 +111,13 @@
     "en": "This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Franchise Granted to the Philippine Telegraph and Telephone Corporation to Establish, Install, Maintain and Operate Wire and/or Wireless Telecommunications Systems, Lines, Circuits and Stations Throughout the Philippines for Public Domestic and International Communications under Republic Act No. 4161, as amended by Republic Act No. 5048, to another Twenty-Five (25) Years from the Date of the Effectivity of This Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

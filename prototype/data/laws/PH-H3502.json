@@ -1,7 +1,7 @@
 {
  "id": "PH-H3502",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省希马迈兰市镇卡拉萨社区学校的名称变更为Don Jose T. Ramos纪念学校的法案",
   "en": "An Act Changing the Name of the Calasa Community School in the Municipality of Himamaylan, Province of Negros Occidental, to Don Jose T. Ramos Memorial School",
   "orig": "An Act Changing the Name of the Calasa Community School in the Municipality of Himamaylan, Province of Negros Occidental, to Don Jose T. Ramos Memorial School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Calasa Community School in the Municipality of Himamaylan, Province of Negros Occidental, to Don Jose T. Ramos Memorial School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

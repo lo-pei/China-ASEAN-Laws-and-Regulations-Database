@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-160-2020-FATAL-ACCIDENTS-AND-PERSONAL-INJURIES-ACT",
  "title": {
-  "zh": null,
+  "zh": "致命事故与人身伤害法",
   "en": "FATAL ACCIDENTS AND PERSONAL INJURIES ACT",
   "orig": null
  },
@@ -321,5 +321,13 @@
     "en": "(1) This section applies to an action for damages for personal injuries in which there is prove or admitted to be a chance that at some definite time in the future the injured person will, as a result of the act or omission which gave rise to the cause of action, develop some serious disease or suffer some serious deterioration in his physical or mental condition.\n\n(2) Subject to subsection (4), as regards any action for damages to which the section applies in which a judgment is given in the High Court, provision may be made by rules of court for enabling the court, in such circumstances as may be prescribed, to award the injured person —\n\n(a) damages assessed on the assumption that the injured person will not develop the disease or suffer the deterioration in his condition ; and\n\n(b) further damages at a future date if he develops the disease or suffers the deterioration.\n\n(3) Any rule made by virtue of this section may include such incidental, supplementary and consequential provisions as the rule-making authority may consider necessary or expedient.\n\n(4) Nothing in this section shall be construed —\n\n(a) as affecting the exercise of any power relating to costs, including any power to make rules of court relating to costs; or\n\n(b) as prejudicing any duty of the court under any written law or rule of law to reduce or limit the total damages which would have been recoverable apart from any such duty."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "FATAL ACCIDENTS AND PERSONAL INJURIES ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

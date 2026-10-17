@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-256-2023-BUILDING-CONTROL-ACT",
  "title": {
-  "zh": null,
+  "zh": "建筑管制法",
   "en": "BUILDING CONTROL ACT",
   "orig": null
  },
@@ -1161,5 +1161,13 @@
     "en": "(1) Any licence, permission, approval or other document relating to building control prepared, made or granted by the Division on Building Control and Construction Industry of Ministry of Development, Planning Authority, Municipal Board and valid immediately prior to the commencement of this Act is deemed to have been prepared, made or granted under the corresponding provisions of this Act.\n\n(2) A valid and subsisting occupation permit or a valid and subsisting temporary occupation permit shall have the same force and effect as an occupation permit or temporary occupation permit, respectively, granted\n\n(3) The powers conferred on the Authority by this Act may be exercised in respect of —\n\n(a) any building erected without the approval of the relevant authority before the commencement of this Act; and\n\n(b) any temporary building in respect of which no temporary permit, permission or other similar document relating to building control issued by the relevant authority, and such building is deemed unauthorised for the purposes of this Act.\n\n(4) Where any written law or document refers expressly or by implication to a temporary occupation permit or occupation permit, the reference shall (except where the context otherwise requires) be construed as a reference to a temporary occupation permit or a occupation permit, respectively.\n\n(5) Notwithstanding the provisions of this Part, any person who, immediately before the commencement of Part 7, is carrying on the business of a builder in Brunei Darussalam shall be entitled to continue doing so for a period of 6 months from that date, and if before the expiry of that period a licence is applied for under Part 7, that person shall be entitled to continue carrying on the business of a builder until —\n\n(a) the date on which a builder’s licence under this Part is issued; or\n\n(b) the application for a licence under Part 7 is refused or withdrawn."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BUILDING CONTROL ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

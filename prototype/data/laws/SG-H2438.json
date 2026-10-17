@@ -1,7 +1,7 @@
 {
  "id": "SG-H2438",
  "title": {
-  "zh": null,
+  "zh": "所得税（新加坡——阿曼）（避免双重征税协定）（为实施多边文书所作的修改）命令 2020",
   "en": "Income Tax (Singapore — Oman) (Avoidance of Double Taxation Agreement) (Modifications to Implement Multilateral Instrument) Order 2020",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraphs 3 and 4(1) and (3)\nDeletion and replacement of Preamble\n1. The Preamble of the Agreement is deleted and replaced by the following Preamble:\n“The Government of the Republic of Singapore and the Government of the Sultanate of Oman,\nIntending to eliminate double taxation with respect to the taxes covered by this Agreement without creating opportunities for non‑taxation or reduced taxation through tax evasion or avoidance (including through treaty‑shopping arrangements aimed at obtaining reliefs provided in this Agreement for the indirect benefit of residents of third jurisdictions),\nHave agreed as follows:”.\nAmendment of Article 10\n2. Paragraph 8 of Article 10 (Dividends) of the Agreement is deleted.\nAmendment of Article 11\n3. Paragraph 9 of Article 11 (Interest) of the Agreement is deleted.\nAmendment of Article 12\n4. Paragraph 7 of Article 12 (Royalties) of the Agreement is deleted.\nAmendment of Article 24\n5. Article 24 (Mutual Agreement Procedure) of the Agreement is amended —\n(a)by replacing the second sentence of paragraph 1 with the following sentence:\n“The case must be presented within three years from the first notification of the action resulting in taxation not in accordance with the provisions of the Agreement.”; and\n(b)by inserting, immediately after the words “the interpretation or application of the Agreement.” in paragraph 3, the words “They may also consult together for the elimination of double taxation in cases not provided for in the Agreement.”.\nNew Article 26A\n6. The Agreement is amended by inserting, immediately after Article 26 (Members of Diplomatic Missions and Consular Posts), the following Article:\n“ARTICLE 26A\nPREVENTION OF TREATY ABUSE\nNotwithstanding any provisions of this Agreement, a benefit under this Agreement shall not be granted in respect of an item of income or capital if it is reasonable to conclude, having regard to all relevant facts and circumstances, that obtaining that benefit was one of the principal purposes of any arrangement or transaction that resulted directly or indirectly in that benefit, unless it is established that granting that benefit in these circumstances would be in accordance with the object and purpose of the relevant provisions of this Agreement.”."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Singapore — Oman) (Avoidance of Double Taxation Agreement) (Modifications to Implement Multilateral Instrument) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

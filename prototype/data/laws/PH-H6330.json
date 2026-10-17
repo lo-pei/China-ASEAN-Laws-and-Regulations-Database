@@ -1,7 +1,7 @@
 {
  "id": "PH-H6330",
  "title": {
-  "zh": null,
+  "zh": "在卡林加-阿巴尧省Conner市镇设立区医院并为此拨款的法案",
   "en": "An Act Providing for the Establishment of a District Hospital in the Municipality of Conner, Province of Kalinga-apayao, and Appropriating Funds Therefor",
   "orig": "An Act Providing for the Establishment of a District Hospital in the Municipality of Conner, Province of Kalinga-apayao, and Appropriating Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, December 24, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Establishment of a District Hospital in the Municipality of Conner, Province of Kalinga-apayao, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

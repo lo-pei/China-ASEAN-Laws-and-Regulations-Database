@@ -1,7 +1,7 @@
 {
  "id": "PH-H6300",
  "title": {
-  "zh": null,
+  "zh": "开设莱特省卡波奥坎莱蒙描笼涯Don Mariano Salvacion纪念描笼涯中学，改设为国立中学，名称为Don Mariano Salvacion纪念国立中学，并为此拨款的法案",
   "en": "An Act for the Opening of the Newly Constructed Don Mariano Salvacion Memorial Barangay High School Located in Barangay Lemon, Capoocan, Province of Leyte, and Converting Said School Into a National High School, to Be Known as the Don Mariano Salvacion Memorial National High School, and Appropriating Funds Therefor",
   "orig": "An Act for the Opening of the Newly Constructed Don Mariano Salvacion Memorial Barangay High School Located in Barangay Lemon, Capoocan, Province of Leyte, and Converting Said School Into a National High School, to Be Known as the Don Mariano Salvacion Memorial National High School, and Appropriating Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, November 18, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act for the Opening of the Newly Constructed Don Mariano Salvacion Memorial Barangay High School Located in Barangay Lemon, Capoocan, Province of Leyte, and Converting Said School Into a National High School, to Be Known as the Don Mariano Salvacion Memorial National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7883",
  "title": {
-  "zh": null,
+  "zh": "移徙工人与海外菲律宾人法 1995",
   "en": "Migrant Workers and Overseas Filifinos Act of 1995",
   "orig": "An Act to Strengthen the Regulatory Functions of the Philippine Overseas Employment Administration (POEA), Amending for this purpose Republic Act No. 8042, otherwise known as the \"Migrant Workers and Overseas Filifinos Act of 1995\""
  },
@@ -100,5 +100,13 @@
     "en": "This Act Shall take effect fifteen (15) days after its publication in at least two newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Migrant Workers and Overseas Filifinos Act of 1995",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

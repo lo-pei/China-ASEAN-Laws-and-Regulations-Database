@@ -1,7 +1,7 @@
 {
  "id": "PH-H229",
  "title": {
-  "zh": null,
+  "zh": "允许政府服务保险系统成员选择将其保单转为缴清保单并申请新保险的法案",
   "en": "An act to allow the members of the Government Service Insurance System option to convert their policies into paid-up policies and apply for new Insurance",
   "orig": "An act to allow the members of the Government Service Insurance System option to convert their policies into paid-up policies and apply for new Insurance"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect on its approval.\nApproved: June 14, 1947"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act to allow the members of the Government Service Insurance System option to convert their policies into paid-up policies and apply for new Insurance",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

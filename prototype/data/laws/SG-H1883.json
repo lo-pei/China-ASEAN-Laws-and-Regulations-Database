@@ -1,7 +1,7 @@
 {
  "id": "SG-H1883",
  "title": {
-  "zh": null,
+  "zh": "移民与关卡局优良服务奖章规则 2013",
   "en": "Immigration & Checkpoints Authority Good Service Medal Rules 2013",
   "orig": null
  },
@@ -191,5 +191,13 @@
     "en": "THE SCHEDULE\nRule 6\nThe Immigration & Checkpoints Authority\nGood Service Medal\nObverse\nReverse"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Immigration & Checkpoints Authority Good Service Medal Rules 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

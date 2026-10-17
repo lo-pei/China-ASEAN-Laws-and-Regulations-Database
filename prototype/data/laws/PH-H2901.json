@@ -1,7 +1,7 @@
 {
  "id": "PH-H2901",
  "title": {
-  "zh": null,
+  "zh": "修订经第945号与第2068号共和国法修正的《修订行政法典》第1659条的法案",
   "en": "An Act Amending Section Sixteen Hundred Fifty-Nine of the Revised Administrative Code, as Amended by Republic Acts Numbered Nine Hundred Forty-Five and Two Thousand Sixty-Eight",
   "orig": "An Act Amending Section Sixteen Hundred Fifty-Nine of the Revised Administrative Code, as Amended by Republic Acts Numbered Nine Hundred Forty-Five and Two Thousand Sixty-Eight"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect on July first, nineteen hundred and sixty-two.\nApproved: June 16, 1962."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Sixteen Hundred Fifty-Nine of the Revised Administrative Code, as Amended by Republic Acts Numbered Nine Hundred Forty-Five and Two Thousand Sixty-Eight",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

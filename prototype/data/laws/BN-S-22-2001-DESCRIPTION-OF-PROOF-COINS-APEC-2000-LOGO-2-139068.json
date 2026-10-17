@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-22-2001-DESCRIPTION-OF-PROOF-COINS-APEC-2000-LOGO-2-139068",
+ "title": {
+  "zh": "APEC 2000 标志 2 与 20 精制币说明",
+  "en": "DESCRIPTION OF PROOF COINS APEC 2000 LOGO 2 AND 20 1",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p26",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 1024,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-22-2001-DESCRIPTION-OF-PROOF-COINS-APEC-2000-LOGO-2-AND-20-1.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-22-2001-DESCRIPTION-OF-PROOF-COINS-APEC-2000-LOGO-2-AND-20-1.pdf》（1 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-22-2001-DESCRIPTION-OF-PROOF-COINS-APEC-2000-LOGO-2-139068-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "~ .... No. S22 CURRENCY ACT (CHAPTER 32) (Section 12) Pursuant to section 12(2) of the Currency Act (Chapter 32), it is hereby notified for general information that the denominations and characteristics of the Silver (ingot) Proof and Cupronikel Proof coins to be issued by Brunei Currency Board on 19th. February, 2001 are as shown hereunder -\n\nPROOF COINS DENO· COMPOSITION WEIGHT DIAMETER THICKNESS DESIGN OF OBVERSE DESIGN OF REVERSE\n\nMINATION $20 Silver 999 62.20gm 65mmX31 mm 3.00mm The potrait of His Majesty The Sultan Haji APECLogo Hassanal Bolkiah Mu'izzaddin Waddaulah Sultan and Yang Di-Pertuan of Brunei Darussalam. Negara Brunei Darussalam's APEC 2000 Logo. -~~~ $2 Cupronickel 9.80gm 27.30mm 1.90mm The potrait of His Majesty The Sultan Haji Negara Brunei Hassanal Bolkiah Mu'izzaddin Waddaulah Darussalam's APEC Sultan and Yang Di-Pertuan of Brunei 2000 Logo .... Darussalam. ~ ~ == Date: 19th. February, 2001 DATO SERI PADUKA AWANG HAJI SELAMAT BIN HAJI MUNAP for Chairman, Brunei Currency Board. 8 t-.) ~ ,"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DESCRIPTION OF PROOF COINS APEC 2000 LOGO 2 AND 20 1",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

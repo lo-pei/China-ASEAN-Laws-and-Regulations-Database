@@ -1,7 +1,7 @@
 {
  "id": "SG-H1268",
  "title": {
-  "zh": null,
+  "zh": "职业介绍所（保释与个人担保）规则 2011",
   "en": "Employment Agencies (Bail and Personal Bond) Rules 2011",
   "orig": null
  },
@@ -207,5 +207,13 @@
     "en": "13. The District Court may direct any Magistrate’s Court to levy the amount due on a bond to appear or attend at the District Court."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment Agencies (Bail and Personal Bond) Rules 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

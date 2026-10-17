@@ -1,7 +1,7 @@
 {
  "id": "PH-H3806",
  "title": {
-  "zh": null,
+  "zh": "为第十三司法区增设一名法官，主持萨马省初审法院工作，常驻萨马省 Basey 市镇，并为此修订 1948 年《司法法》第五十条、第五十二条与第五十四条",
   "en": "An Act Providing for One Additional Judge for the Thirteenth Judicial District to Preside Over the Court of First Instance of Samar, with Permanent Station in the Municipality of Basey, Province of Samar, Amending for the Purpose Sections Fifty, Fifty-Two and Fifty-Four of the Judiciary Act of 1948",
   "orig": "An Act Providing for One Additional Judge for the Thirteenth Judicial District to Preside Over the Court of First Instance of Samar, with Permanent Station in the Municipality of Basey, Province of Samar, Amending for the Purpose Sections Fifty, Fifty-Two and Fifty-Four of the Judiciary Act of 1948"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for One Additional Judge for the Thirteenth Judicial District to Preside Over the Court of First Instance of Samar, with Permanent Station in the Municipality of Basey, Province of Samar, Amending for the Purpose Sections Fifty, Fifty-Two and Fifty-Four of the Judiciary Act of 1948",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

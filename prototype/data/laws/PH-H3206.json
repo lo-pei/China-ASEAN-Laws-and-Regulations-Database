@@ -1,7 +1,7 @@
 {
  "id": "PH-H3206",
  "title": {
-  "zh": null,
+  "zh": "规定在伊洛伊洛省Passi市镇建设或设立区域医院，名称为Passi区域医院，并授权为此拨款的法案",
   "en": "An Act to Provide for the Construction or Establishment of a Regional Hospital in the Municipality of Passi, Province of Iloilo, to be Known as Passi Regional Hospital, and to Authorize the Appropriation of Funds Therefor",
   "orig": "An Act to Provide for the Construction or Establishment of a Regional Hospital in the Municipality of Passi, Province of Iloilo, to be Known as Passi Regional Hospital, and to Authorize the Appropriation of Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Construction or Establishment of a Regional Hospital in the Municipality of Passi, Province of Iloilo, to be Known as Passi Regional Hospital, and to Authorize the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

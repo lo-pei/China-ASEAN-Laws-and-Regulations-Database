@@ -1,7 +1,7 @@
 {
  "id": "SG-H3536",
  "title": {
-  "zh": null,
+  "zh": "规划（申请同意——豁免）公告 2020",
   "en": "Planning (Consent for Application — Exemption) Notification 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister exempts Lot 96915K in MK 26 from rule 3(3) of the Planning (Development) Rules 2008 (G.N. No. S 113/2008) with regard to the application for written permission in relation to the proposed additions and alterations to an existing 2‑storey conservation terrace dwelling house which was submitted by Mr Tan Loong Tze to the competent authority on 28 May 2020."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Planning (Consent for Application — Exemption) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

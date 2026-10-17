@@ -1,7 +1,7 @@
 {
  "id": "PH-H5784",
  "title": {
-  "zh": null,
+  "zh": "授予 Davao Agritech, Inc. 以 Davao 为主要枢纽设立、运营和维护国内航空喷洒服务的特许经营权法案",
   "en": "An Act Granting Davao Agritech, Inc., a Franchise to Establish, Operate and Maintain Domestic Air Spraying Services With Davao as Its Major Hub",
   "orig": "An Act Granting Davao Agritech, Inc., a Franchise to Establish, Operate and Maintain Domestic Air Spraying Services With Davao as Its Major Hub"
  },
@@ -230,5 +230,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Davao Agritech, Inc., a Franchise to Establish, Operate and Maintain Domestic Air Spraying Services With Davao as Its Major Hub",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

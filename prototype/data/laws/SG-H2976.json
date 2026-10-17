@@ -1,7 +1,7 @@
 {
  "id": "SG-H2976",
  "title": {
-  "zh": null,
+  "zh": "新加坡陆路交通管理局法 1995",
   "en": "Land Transport Authority of Singapore Act 1995",
   "orig": null
  },
@@ -953,5 +953,13 @@
     "en": "FIFTH SCHEDULE\nSections 11(8), 39(1) and (4), 40 and 43(8)\nSpecified Acts\nPart 1\n1. Section 17 of the Customs Act 1960.\n2. Section 3 of the Motor Vehicles (Third‑Party Risks and Compensation) Act 1960 and rules 9 and 10 of the Motor Vehicles (Third‑Party Risks and Compensation) Rules.\n3. All provisions of the Rapid Transit Systems Act 1995 and any subsidiary legislation made under that Act.\n4. All provisions of the Cross‑Border Railways Act 2018 and any subsidiary legislation made under that Act.\n5. All provisions of the Road Traffic Act 1961 and any subsidiary legislation made under that Act which are carried out or administered by the Authority, and —\n(a)section 120(3) of that Act — in relation to a contravention of any traffic sign prohibiting or restricting the parking, stopping or waiting of vehicles on roads; and\n(b)section 143(8) of that Act — in relation to a failure to comply with any condition imposed by the Authority on a permit granted under that section.\n6. The following subsidiary legislation made under the Road Traffic Act 1961:\n(a)rules 10, 22, 24, 24A, 24B, 25, 26B, 26C and 28 of the Road Traffic Rules;\n(aa)rule 5 of the Road Traffic (Bicycles, Three-wheeled Pedal Cycles, Trishaws and Recumbent Devices — Construction and Use) Rules 2024 (G.N. No. S 157/2024);\n[S 177/2024 wef 01/03/2024]\n(b)rules 8 and 9 of the Road Traffic (Expressway Traffic) Rules;\n(c)rules 9 and 10 of the Road Traffic (Pedestrian Crossings) Rules; and\n(d)rules 8 and 8A of the Road Traffic (Traffic Signs) Rules.\n[S 1007/2024 wef 27/12/2024]\n7. All provisions of the Street Works Act 1995 and any subsidiary legislation made under that Act.\n8. Sections 41, 24C (repealed by section 18 of the Public Transport Council (Amendment) Act 2015), 54, 56 and 57 of the Public Transport Council Act 1987.\nPart 2\n1. All provisions of the Energy Conservation Act 2012 and any subsidiary legislation made under that Act carried out or administered by the Authority.\n2. All provisions of the Point‑to‑Point Passenger Transport Industry Act 2019 and any subsidiary legislation made under that Act.\n3. Sections 11 and 22 of the Bus Services Industry Act 2015, and all provisions of Parts 4A, 5, 5A and 7A of that Act and any regulations made under that Act for the purposes of Part 4A, 5, 5A or 7A of that Act.\n[S 664/2026 wef 23/09/2026]\n4. All provisions of the Active Mobility Act 2017 and its subsidiary legislation.\n5. All provisions of the Shared Mobility Enterprises (Control and Licensing) Act 2020 and any regulations made under that Act for the purposes of that Act.\n6. All provisions of the Small Motorised Vehicles (Safety) Act 2020 and any regulations made under that Act for the purposes of that Act.\n7. All provisions of the Parking Places Act 1974 and any subsidiary legislation made under that Act.\n8. All provisions of the Electric Vehicles Charging Act 2022 and any subsidiary legislation made under that Act for the purposes of that Act.\n[Act 43 of 2022 wef 08/12/2023]\n[37/2005; 17/2015; 3/2017; 21/2018; 24/2018; 20/2019; 8/2020; 25/2020; S 590/2004; S 63/2006; S 301/2008; S 630/2010; S 310/2012; S 80/2016; S 151/2016; S 364/2016]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Land Transport Authority of Singapore Act 1995",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

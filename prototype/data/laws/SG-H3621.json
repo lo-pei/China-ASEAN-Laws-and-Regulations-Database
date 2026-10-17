@@ -1,7 +1,7 @@
 {
  "id": "SG-H3621",
  "title": {
-  "zh": null,
+  "zh": "法律修订版法 1983",
   "en": "Revised Edition of the Laws Act 1983",
   "orig": null
  },
@@ -448,5 +448,13 @@
     "en": "24. The expenses of and incidental to the preparation and publication of the revised edition of Acts and any subsequent revision of Acts made pursuant to section 10 and any revised edition of subsidiary legislation are to be defrayed out of moneys provided by Parliament.\n[4/2021]\n[Act 32 of 2024 wef 25/11/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Revised Edition of the Laws Act 1983",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

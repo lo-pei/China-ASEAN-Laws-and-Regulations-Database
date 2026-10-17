@@ -1,7 +1,7 @@
 {
  "id": "SG-H2921",
  "title": {
-  "zh": null,
+  "zh": "司法服务（人事委员会）条例 2022",
   "en": "Judicial Service (Personnel Board) Regulations 2022",
   "orig": null
  },
@@ -384,5 +384,13 @@
     "en": "THE SCHEDULE\nRegulation 3(1)\nSpecial Personnel Board\nChairperson\nChief Justice Sundaresh Menon\nMembers\nJustice See Kee Oon\nJustice Audrey Lim Yoon Cheng\nJustice Sushil Sukumaran Nair\n[S 752/2026 wef 18/09/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Judicial Service (Personnel Board) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

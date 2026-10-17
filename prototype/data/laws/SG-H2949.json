@@ -1,7 +1,7 @@
 {
  "id": "SG-H2949",
  "title": {
-  "zh": null,
+  "zh": "土地测量师（豁免）命令 2004",
   "en": "Land Surveyors (Exemption) Order 2004",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Wisescan Engineering Services Pte Ltd is exempted from section 22 (1)(c), (d) and (e)(iii) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Land Surveyors (Exemption) Order 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

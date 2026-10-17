@@ -1,7 +1,7 @@
 {
  "id": "PH-H2685",
  "title": {
-  "zh": null,
+  "zh": "修订第 1789 号共和国法（即规定从日本采购和使用赔偿与开发贷款国家政策、设立赔偿委员会并为此提供资金的法案）若干条款的法案",
   "en": "An Act Amending Certain Sections of Republic Act Numbered One Thousand Seven Hundred Eighty-Nine, Entitled “An Act Prescribing the National Policy in the Procurement and Utilization of Reparations and Development Loans from Japan, Creating a Reparations Commission to Implement the Policy, Providing Funds Therefor, and for Other Purposes”",
   "orig": "An Act Amending Certain Sections of Republic Act Numbered One Thousand Seven Hundred Eighty-Nine, Entitled “An Act Prescribing the National Policy in the Procurement and Utilization of Reparations and Development Loans from Japan, Creating a Reparations Commission to Implement the Policy, Providing Funds Therefor, and for Other Purposes”"
  },
@@ -240,5 +240,13 @@
     "en": "This Act shall take upon its approval, except that the amendment contained in Section seven hereof relating to the requirements for procurement orders including the requirement of down payment by private applicant end-users shall not apply to procurement orders already duly issued and verified at the time of the passage of this amendatory Act, and except further that the amendment contained in Section ten relating to the insurance of the reparations goods by the end-users upon delivery shall apply also to goods covered by contracts already entered into by the Commission and the end-user prior to the approval of this amendatory Act as well as goods already delivered to the end-user, and except further that the amendments contained in Sections eleven and twelve hereof relating to the terms of installment payments on capital goods disposed of to private parties, and the execution of a performance bond before delivery of reparations goods, shall not apply to contracts for the utilization of reparations goods already entered into by the Commission and the end-users prior to the approval of this amendatory Act: Provided , That any end-user may apply for the renovation of his utilization contract with the Commission in order to avail of any provision of this amendatory Act which is more favorable to an applicant end-user than has heretofore been granted in like manner and to the same extent as an end-user filing his application after the approval of this amendatory Act, and the Commission may agree to such renovation on condition that the end-user shall voluntarily assume all the new obligations provided for in this amendatory Act.\nApproved: June 17, 1961"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Sections of Republic Act Numbered One Thousand Seven Hundred Eighty-Nine, Entitled “An Act Prescribing the National Policy in the Procurement and Utilization of Reparations and Development Loans from Japan, Creating a Reparations Commission to Implement the Policy, Providing Funds Therefor, and for Other Purposes”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

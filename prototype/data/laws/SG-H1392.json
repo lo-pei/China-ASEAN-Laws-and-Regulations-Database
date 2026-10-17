@@ -1,7 +1,7 @@
 {
  "id": "SG-H1392",
  "title": {
-  "zh": null,
+  "zh": "房地产经纪（纪律程序）条例 2011",
   "en": "Estate Agents (Disciplinary Proceedings) Regulations 2011",
   "orig": null
  },
@@ -342,5 +342,13 @@
     "en": "17.—(1) A person commits an offence if —\n(a)the person discloses any information, document or evidence filed or produced in connection with a disciplinary proceeding to any other person; and\n(b)the person knows that the disclosed information, document or evidence was filed or produced in connection with the disciplinary proceeding.\n(2) Paragraph (1) does not apply to the disclosure of any information, document or evidence filed or produced in connection with a disciplinary proceeding —\n(a)to the secretary, a member of the Disciplinary Committee hearing the disciplinary proceeding or a party (including the party’s solicitor) to the disciplinary proceeding;\n(b)by a person performing the person’s functions or discharging the person’s duties under the Act;\n(c)by the person who filed or produced the information, document or evidence;\n(d)that is lawfully required to be disclosed by any court or under the provisions of any written law;\n(e)for the purpose of making any submission during a disciplinary proceeding;\n(f)to the extent necessary to support a respondent’s claim for any insurance taken out and maintained under regulation 13 of the Estate Agents (Estate Agency Work) Regulations 2010 (G.N. No. S 644/2010);\n(g)that is authorised by the Disciplinary Committee hearing the disciplinary proceeding to be disclosed in particular circumstances; or\n(h)that is in the public domain.\n(3) A person who is guilty of an offence under paragraph (1) shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.\n[S 117/2020 wef 21/02/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Estate Agents (Disciplinary Proceedings) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

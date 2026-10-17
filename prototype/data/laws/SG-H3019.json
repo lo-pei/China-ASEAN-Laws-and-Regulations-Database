@@ -1,7 +1,7 @@
 {
  "id": "SG-H3019",
  "title": {
-  "zh": null,
+  "zh": "法律服务（起职职级）公告 2022",
   "en": "Legal Service (Threshold Grade) Notification 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of Article 111Q(2)(b) of the Constitution, the threshold grade in the Singapore Legal Service is Grade 2."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Legal Service (Threshold Grade) Notification 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

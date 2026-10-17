@@ -1,7 +1,7 @@
 {
  "id": "SG-H2127",
  "title": {
-  "zh": null,
+  "zh": "所得税（本地管理信托所得豁免）条例 2007",
   "en": "Income Tax (Exemption of Income of Locally Administered Trust) Regulations 2007",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. Every trustee company administering an eligible locally administered trust shall keep and maintain such records of the particulars of every settlor and beneficiary of the locally administered trust as may be required by the Minister or an authorised body for the purposes of these Regulations.\n[S 929/2022 wef 06/12/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Income of Locally Administered Trust) Regulations 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

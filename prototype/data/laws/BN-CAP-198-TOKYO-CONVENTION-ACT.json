@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-198-TOKYO-CONVENTION-ACT",
  "title": {
-  "zh": null,
+  "zh": "东京公约法",
   "en": "TOKYO CONVENTION ACT",
   "orig": null
  },
@@ -115,5 +115,13 @@
     "en": "The Minister, with the approval of His Majesty the Sultan and Yang Di-Pertuan, may make such regulations as may appear to him to be necessary or expedient for carrying out or giving effect to this Act. $3.00\n\nTOKYO CONVENTION ACT The Attorney General’s Chambers The Law Building, Jalan Tutong Bandar Seri Begawan BA1910 Brunei Darussalam The Government Printing Department Brunei Darussalam"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TOKYO CONVENTION ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

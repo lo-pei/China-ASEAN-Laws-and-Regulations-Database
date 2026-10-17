@@ -1,7 +1,7 @@
 {
  "id": "SG-H3302",
  "title": {
-  "zh": null,
+  "zh": "由新加坡武装部队教育中心指挥的全国学生军团",
   "en": "National Cadet Corps under the Command of Singapore Armed Forces Educational Centre",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "National Cadet Corps Act\n(Chapter 194, Section 7)\n[1st April 1988]\nThe Minister of State, Ministry of Education has, on the recommendation of the National Cadet Corps Council, placed all National Cadet Corps cadets participating in the Singapore Armed Forces Local Sponsorship Programme under the command of the Commanding Officer of the Singapore Armed Forces Education Centre."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "National Cadet Corps under the Command of Singapore Armed Forces Educational Centre",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

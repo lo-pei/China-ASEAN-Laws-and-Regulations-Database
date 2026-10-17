@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-67-2021-BANKRUPTCY-ACT",
  "title": {
-  "zh": null,
+  "zh": "破产法",
   "en": "Bankruptcy Act",
   "orig": null
  },
@@ -1936,5 +1936,13 @@
     "en": "A statement or admission made by any person in any compulsory examination or deposition before the Court on the hearing of any matter in bankruptcy shall not be admissible as evidence against that person in any proceedings in respect of any of the offences punishable under sections 406, 407, 408, 409 and 477A of the Penal Code (Chapter 22) (which sections relate to criminal breach of trust and falsification of accounts). B.L.R.O. 72021 ic~dnquag L9 'dV3 OII I3NflH8 d 0 SMV?"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Bankruptcy Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

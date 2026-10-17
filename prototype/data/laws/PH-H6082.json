@@ -1,7 +1,7 @@
 {
  "id": "PH-H6082",
  "title": {
-  "zh": null,
+  "zh": "对采取母婴同室与母乳喂养做法的所有公立与私立卫生机构给予激励并为其他目的法案",
   "en": "An Act Providing Incentives To All Government and Private Health Institutions With Rooming-in and Breastfeeding Practices and For Other Purposes",
   "orig": "An Act Providing Incentives To All Government and Private Health Institutions With Rooming-in and Breastfeeding Practices and For Other Purposes"
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity —This Act shall take effect .one hundred twenty (120) days after publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing Incentives To All Government and Private Health Institutions With Rooming-in and Breastfeeding Practices and For Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

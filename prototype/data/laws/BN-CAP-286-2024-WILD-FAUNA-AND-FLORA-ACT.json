@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-286-2024-WILD-FAUNA-AND-FLORA-ACT",
  "title": {
-  "zh": null,
+  "zh": "野生动植物法",
   "en": "WILD FAUNA AND FLORA ACT",
   "orig": null
  },
@@ -853,5 +853,13 @@
     "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations for all or any of the following\n\n(a) prescribing the fees to be paid in respect of any permit or certificate granted under this Act;\n\n(b) prescribing the recording of trade in species listed in the\n\n(c) regulating the non-commercial loan, donation and exchange between registered scientific institutions in Brunei Darussalam and those in other countries;\n\n(d) prescribing the registration of scientific institutions in Brunei Darussalam involved in such exchanges;\n\n(e) regulating the breeding in captivity, in the case of an animal, and the artificial propagation, in the case of a plant, of any specimen of species listed in the Appendix;\n\n(f) specifying requirements with respect to taking and analysis of samples of specimens where such taking and analysis is authorised for any purpose under this Act;\n\n(g) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act; and prescribing fines not exceeding $100,000 in respect of any such\n\n(h) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of, or which may be prescribed under, this Act and for its due administration.\n\n(2) Such regulations may include such incidental, consequential and supplementary provisions as the Minister considers necessary or expedient."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "WILD FAUNA AND FLORA ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

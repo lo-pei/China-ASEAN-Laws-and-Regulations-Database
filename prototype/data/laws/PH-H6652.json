@@ -1,7 +1,7 @@
 {
  "id": "PH-H6652",
  "title": {
-  "zh": null,
+  "zh": "给予所有公民武装平等机会由选举委员会认证，为此修订第7166号共和国法（经修正）的法案",
   "en": "An Act Granting All Citizens' Arms Equal Opportunity to be Accredited by the Commission on Elections, amending for the Purpose Republic Act Numbered Seventy-One Hundred and Sixty-Six, as amended",
   "orig": "An Act Granting All Citizens' Arms Equal Opportunity to be Accredited by the Commission on Elections, amending for the Purpose Republic Act Numbered Seventy-One Hundred and Sixty-Six, as amended"
  },
@@ -70,5 +70,13 @@
     "en": "Effectivity. - This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting All Citizens' Arms Equal Opportunity to be Accredited by the Commission on Elections, amending for the Purpose Republic Act Numbered Seventy-One Hundred and Sixty-Six, as amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

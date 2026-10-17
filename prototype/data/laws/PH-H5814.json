@@ -1,7 +1,7 @@
 {
  "id": "PH-H5814",
  "title": {
-  "zh": null,
+  "zh": "废止第6145号与第5474号共和国法（关于禁止在某些月份捕捞“Ipon”鱼等）",
   "en": "An Act Repealing Republic Acts Numbered Sixty-one Hundred Forty-five and Fifty-four Hundred Seventy-four (Re: Prohibition to Catch Fish Called \"Ipon\" During Certain Months of the Year, Etc.)",
   "orig": "An Act Repealing Republic Acts Numbered Sixty-one Hundred Forty-five and Fifty-four Hundred Seventy-four (Re: Prohibition to Catch Fish Called \"Ipon\" During Certain Months of the Year, Etc.)"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Repealing Republic Acts Numbered Sixty-one Hundred Forty-five and Fifty-four Hundred Seventy-four (Re: Prohibition to Catch Fish Called \"Ipon\" During Certain Months of the Year, Etc.)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-86-2013-TELECOMMUNICATIONS-RADIO-COMMUNICATION-REGU-9ADAC4",
  "title": {
-  "zh": null,
+  "zh": "电信无线电通信条例 2013",
   "en": "TELECOMMUNICATIONS RADIO COMMUNICATION REGULATIONS 2013",
   "orig": null
  },
@@ -1239,5 +1239,13 @@
     "en": "Any licence granted or issued under the repealed Telecommunications Act (Satellite Radiocommunication Apparatus Regulations 1988)iS 5/1989) shall, so far as they are not inconsistent with any provision of these Regulations and except as otherwise expressly provided in these Regulations or in any other written law, continue and be deemed to have been granted or issued under the corresponding provisions of these Regulations and shall have effect accordingly.\n\nSCHEDULE (regulations 45(2) and 64) FEES ANNUAL LICENCE FEES FOR APPARATUS {SPECTRUM) LICENCE AND\n\nAPPARATUS LICENCE Type of licences Description Fee payable per equipment per annum FIXED Land $25 Experimental $25 Press receiving $100 Fixed $25 RADIO-DETERMINATION Radio-determination $25 Maritime radar $25 Radar (Aeronautical) $2,400 SPACE Satellite news gathering $2,400 Earth station - x~0.3m $150 0.3m < x~0.6m $300 0.6m<x~1.2m $600 1.2m<~1.8m $1,200 Above 1.8m $2,400 MOBILE Cellular mobile $25* subscriber licence Land mobile $25 Mobile earth station $25 Base station $100 SCHEDULE {Continued} Type of licences Description Fee payable per equipment per annum Cellular radio $100 base station Maritime mobile $25 earth station Coast $25 Vessel $25 Wireless alarm $25 Aircraft $25 Aeronautical mobile $25 Aeronautical fixed $25 Aeronautical mobile $25 earth station Experimental $25 Remote controlled $25 Paging services $25 BROADCASTING Broadcasting transmitter $100 Broadcasting repeater $100 AMATEUR Advance class $25 Standard class $25 Repeater $100 * The annual licence fee for cellular mobile subscriber licence is based on per registration of cellular services/ not per equipment. SCHEDULE -(Continued)\n\nAPPLICATION AND PROCESSING FEES FOR USE OF RADIO FREQUENCY Bandwidth Fee payable per frequency"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TELECOMMUNICATIONS RADIO COMMUNICATION REGULATIONS 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

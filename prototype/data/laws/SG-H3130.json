@@ -1,7 +1,7 @@
 {
  "id": "SG-H3130",
  "title": {
-  "zh": null,
+  "zh": "药品（良好生产规范证书）条例",
   "en": "Medicines (Good Manufacturing Practice Certificate) Regulations",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) The fees payable for a GMP Certificate shall be as follows:\n(a)on application for a GMP Certificate\n—\n$6,570; and\n(b)for each additional GMP Certificate which does not require further assessment of conformity with any Good Manufacturing Practice Standard\n—\n$220.\n[S 491/2024 wef 01/07/2024]\n[S 460/2022 wef 01/07/2022]\n[S 99/2019 wef 02/04/2019]\n[S 30/2007 wef 01/02/2007]\n(2) No refund shall be made in respect of any fee paid under paragraph (1).\n[G.N. No. S 130/2002]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Medicines (Good Manufacturing Practice Certificate) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

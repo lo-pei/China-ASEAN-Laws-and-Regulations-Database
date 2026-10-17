@@ -1,7 +1,7 @@
 {
  "id": "PH-H2973",
  "title": {
-  "zh": null,
+  "zh": "修订第409号共和国法（经第3010号共和国法修正）第38条的法案",
   "en": "An Act Amending Section Thirty-Eight of Republic Act Number Four Hundred Nine, as Amended by Republic Act Numbered Three Thousand Ten",
   "orig": "An Act Amending Section Thirty-Eight of Republic Act Number Four Hundred Nine, as Amended by Republic Act Numbered Three Thousand Ten"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Thirty-Eight of Republic Act Number Four Hundred Nine, as Amended by Republic Act Numbered Three Thousand Ten",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

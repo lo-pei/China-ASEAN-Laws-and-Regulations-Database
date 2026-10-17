@@ -1,7 +1,7 @@
 {
  "id": "BN-S-85-2008-MISCELLANEOUS-LICENCES-ACT-AMENDMENT-NO-2-O-04DF9C",
  "title": {
-  "zh": null,
+  "zh": "杂项执照法第 2 号修正命令 2008",
   "en": "MISCELLANEOUS LICENCES ACT AMENDMENT NO.2 ORDER 2008",
   "orig": null
  },
@@ -73,5 +73,13 @@
     "en": "The Act is amended by inserting the following new section immediately after of investigation. 5A. In any case relating to the commission of an offence under this Act, any person authorised by the Minister by notification in the Gazette shall the powers of a police officer under the Criminal Procedure Code 7) in relation to an investigation into a seizable offence.\". Made this 28th. day of Syaaban, 1429 Hijriah corresponding to the 30th. day of August, 2008 at Our Istana Nurul Iman, Bandar Seri Begawan, Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MISCELLANEOUS LICENCES ACT AMENDMENT NO.2 ORDER 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

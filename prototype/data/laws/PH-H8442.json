@@ -1,7 +1,7 @@
 {
  "id": "PH-H8442",
  "title": {
-  "zh": null,
+  "zh": "将南苏里高省 Bislig 市 Mone 描笼涯的 Bislig 市国立中学附属校分离，改设为独立的 Mone 国立中学，并为此拨款",
   "en": "An Act Separating the Bislig City National High School - Mone Annex in Barangay Mone, City of Bislig, Province of Surigao Del Sur From the Bislig City National High School, Converting It Into an Independent National High School to Be Known as Mone National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Bislig City National High School - Mone Annex in Barangay Mone, City of Bislig, Province of Surigao Del Sur From the Bislig City National High School, Converting It Into an Independent National High School to Be Known as Mone National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Bislig City National High School - Mone Annex in Barangay Mone, City of Bislig, Province of Surigao Del Sur From the Bislig City National High School, Converting It Into an Independent National High School to Be Known as Mone National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

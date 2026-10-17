@@ -1,7 +1,7 @@
 {
  "id": "BN-S-5-2026-E",
  "title": {
-  "zh": null,
+  "zh": "S-5 2026 年公告",
   "en": "S-5_2026-E",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "(1) The removal from the Laws is hereby directed of the pages specified in the third column of Part A of the Schedule hereto with reference to the written laws specified in the first and second columns thereof and bearing on the face or overleaf the legend specified in the fourth column thereof.\n\n(2) The inclusion in the Laws is hereby authorised, in substitution of the pages directed to be removed under subparagraph (1), of the pages specified in the third column of Part B of the Schedule and bearing on the face or overleaf the legend specified in the fourth column thereof, with reference to the written laws referred to in the first and second columns thereof. 5th. FEBRUARY, 2026\n\nSCHEDULE (paragraph 2)\n\nREMOVAL FROM AND INCLUSION IN LAWS\n\nPART A Chapter Title Pages Legend 167 Employee Trust Act 1 to 36 B.L.R.O. 1/2019 Rg 1 Employee Trust (Rates of 1 to 6 B.L.R.O. 1/2019 Contributions) Regulations R 1 Employee Trust Rules 1 to 12 B.L.R.O. 112019 211 Compulsory Education Act 1 to 8 B.L.R.O. 7/2011 233 Energy Efficiency (Standards and 1 to 26 B.L.R.O. 3/2022 Labelling) Act 276 Supplemental Contributory Pensions 1 to 34 B.L.R.O. 3/2024 Trust Act R 1 Supplemental Contributory 1 to 14 B.L.R.O. 3/2024. Pensions Trust Rules\n\nPARTE Chapter Title Pages Legend 167 Employee Trust Act 1 to 36 B.L.R.O. 1/2026 Rg 1 Employee Trust (Rates of 1 to 6 B.L.R.O. 1/2026 Contributions) Regulations R1 Employee Trust Rules 1 to 12 B.L.R.O. 1/2026 211 Compulsory Education Act 1 to 10 B.L.R.O. 1/2026 233 Energy Efficiency (Standards and 1 to 26 B.L.R.O. 1/2026 Labelling) Act 276 Supplemental Contributory Pensions 1 to 34 B.L.R.O. 1/2026 Trust Act R1 Supplemental Contributory 1 to 14 B.L.R.O. 1/2026. Pensions Trust Rules Made this 17th. day of Syaaban, 1447 Hijriah corresponding to the 5th. day of February, 2026.\n\nDATIN SERI PADUKA HAJAH NOR HASHIMAH BINTI HAJI MUHAMMED TAIB Attorney General."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "S-5_2026-E",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

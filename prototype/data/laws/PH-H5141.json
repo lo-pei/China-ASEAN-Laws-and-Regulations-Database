@@ -1,7 +1,7 @@
 {
  "id": "PH-H5141",
  "title": {
-  "zh": null,
+  "zh": "通过修订第337号国民议会法（即《地方政府法典》）第42条，降低各类地方民选官员最低年龄的法案",
   "en": "An Act Reducing the Minimum Age of the Different Elective Local Officials by Amending Section Forty-Two of Batas Pambansa Blg. Tatlong Daan Tatlumpu't Pito, otherwise known as the Local Government Code",
   "orig": "An Act Reducing the Minimum Age of the Different Elective Local Officials by Amending Section Forty-Two of Batas Pambansa Blg. Tatlong Daan Tatlumpu't Pito, otherwise known as the Local Government Code"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon the completion of its publication in at least two national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reducing the Minimum Age of the Different Elective Local Officials by Amending Section Forty-Two of Batas Pambansa Blg. Tatlong Daan Tatlumpu't Pito, otherwise known as the Local Government Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

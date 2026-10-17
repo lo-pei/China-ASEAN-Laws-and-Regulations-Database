@@ -1,7 +1,7 @@
 {
  "id": "PH-H7374",
  "title": {
-  "zh": null,
+  "zh": "重新设立哥打巴托市国立中学的法案",
   "en": "An Act Re-Establishing the Cotabato City National High School",
   "orig": "An Act Re-Establishing the Cotabato City National High School"
  },
@@ -70,5 +70,13 @@
     "en": "This law shall take effect immediately upon approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Re-Establishing the Cotabato City National High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

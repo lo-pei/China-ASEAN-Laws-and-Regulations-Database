@@ -1,7 +1,7 @@
 {
  "id": "SG-H052",
  "title": {
-  "zh": null,
+  "zh": "会计与企业管制局（电子交易系统授权用户）条例 2015",
   "en": "Accounting and Corporate Regulatory Authority (Authorised Users of Electronic Transaction System) Regulations 2015",
   "orig": null
  },
@@ -90,5 +90,11 @@
     "en": "4.—(1) Pursuant to section 28(4) of the Act, where a holding company (A) gives the Chief Executive notice that a secretary of A is authorised to transact on behalf of a subsidiary of the holding company (B), then the secretary may transact on behalf of B even if the secretary is not a registered corporate service provider for providing the service mentioned in paragraph (f)(i) of the definition of “corporate service” in section 2(1) of the Corporate Service Providers Act 2024.\n[S 295/2025 wef 09/06/2025]\n(2) Pursuant to section 28(4) of the Act, where A gives the Chief Executive a notice under paragraph (1) and specifies in the notice that an employee of A, or a qualified individual appointed, employed or engaged by A, is authorised to transact on behalf of A or B or both, then that employee or qualified individual may transact on behalf of A or B or both, as specified by A in the notice, even though the employee or qualified individual is not a registered corporate service provider mentioned in paragraph (1).\n[S 295/2025 wef 09/06/2025]\n(3) Pursuant to section 28(4) of the Act, where A gives the Chief Executive a notice under paragraph (1) and specifies in the notice that an employee of B, or a qualified individual appointed, employed or engaged by B, is authorised to transact on behalf of A or B or both, then that employee or qualified individual may transact on behalf of A or B or both, as specified by A in the notice, even though the employee or qualified individual is not a registered corporate service provider mentioned in paragraph (1).\n[S 295/2025 wef 09/06/2025]\n(4) In this regulation, a reference to a notice given to the Chief Executive means a notice given in such form and manner as the Chief Executive determines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Accounting and Corporate Regulatory Authority (Authorised Users of Electronic Transaction System) Regulations 2015",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

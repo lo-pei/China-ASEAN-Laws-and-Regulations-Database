@@ -1,7 +1,7 @@
 {
  "id": "PH-H3039",
  "title": {
-  "zh": null,
+  "zh": "规定在新怡诗夏省Bongabon市镇运营与维护急诊医院并授权为此拨款的法案",
   "en": "An Act Providing for the Operation and Maintenance of an Emergency Hospital in the Municipality of Bongabon, Province of Nueva Ecija, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Providing for the Operation and Maintenance of an Emergency Hospital in the Municipality of Bongabon, Province of Nueva Ecija, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Operation and Maintenance of an Emergency Hospital in the Municipality of Bongabon, Province of Nueva Ecija, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

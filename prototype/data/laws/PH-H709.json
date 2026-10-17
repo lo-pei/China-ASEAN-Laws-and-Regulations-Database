@@ -1,7 +1,7 @@
 {
  "id": "PH-H709",
  "title": {
-  "zh": null,
+  "zh": "修订第 3883 号法第 2 条（该法规范商业交易中使用非真实姓名、规定商务局长执行职责、违规处罚及其他事项），并拨付两万五千比索执行本法",
   "en": "An Act to Amend Section Two of Act Numbered Three Thousand Eight Hundred and Eighty-three, Entitled \"An Act to Regulate the Use in Business Transactions of Names Other Than True Names, Prescribing the Duties of the Director of the Bureau of Commerce in Its Enforcement, Providing Penalties for Violations Thereof, and Other Purposes,\" and to Appropriate the Amount of Twenty-five Thousand Pesos to Carry Out the Purposes of This Act, as Amended",
   "orig": "An Act to Amend Section Two of Act Numbered Three Thousand Eight Hundred and Eighty-three, Entitled \"An Act to Regulate the Use in Business Transactions of Names Other Than True Names, Prescribing the Duties of the Director of the Bureau of Commerce in Its Enforcement, Providing Penalties for Violations Thereof, and Other Purposes,\" and to Appropriate the Amount of Twenty-five Thousand Pesos to Carry Out the Purposes of This Act, as Amended"
  },
@@ -62,14 +62,15 @@
    }
   },
   {
-   "id": "PH-H709-A2_2",
+   "id": "PH-H709-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "The Securities and Exchange Commission shall furnish the Director of Commerce from time to time the names of all registered corporations and partnerships."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H709-A3",
@@ -101,5 +102,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Two of Act Numbered Three Thousand Eight Hundred and Eighty-three, Entitled \"An Act to Regulate the Use in Business Transactions of Names Other Than True Names, Prescribing the Duties of the Director of the Bureau of Commerce in Its Enforcement, Providing Penalties for Violations Thereof, and Other Purposes,\" and to Appropriate the Amount of Twenty-five Thousand Pesos to Carry Out the Purposes of This Act, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

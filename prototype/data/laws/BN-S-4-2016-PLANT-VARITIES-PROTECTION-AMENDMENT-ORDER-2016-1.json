@@ -1,0 +1,78 @@
+{
+ "id": "BN-S-4-2016-PLANT-VARITIES-PROTECTION-AMENDMENT-ORDER-2016-1",
+ "title": {
+  "zh": "植物品种保护修正命令 2016 1",
+  "en": "PLANT VARITIES PROTECTION AMENDMENT ORDER 2016 1",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p29",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 1067,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-4-2016-PLANT-VARITIES-PROTECTION-AMENDMENT-ORDER-2016-1.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-4-2016-PLANT-VARITIES-PROTECTION-AMENDMENT-ORDER-2016-1.pdf》（2 页），本次切分 2 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-4-2016-PLANT-VARITIES-PROTECTION-AMENDMENT-ORDER-2016-1-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "This Order may be cited as the Plant Varieties Protection (Amendment) of new section 17 A into S 17/2015"
+   }
+  },
+  {
+   "id": "BN-S-4-2016-PLANT-VARITIES-PROTECTION-AMENDMENT-ORDER-2016-1-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE"
+   },
+   "text": {
+    "en": "The Plant Varieties Protection Order is amended by inserting the following new section immediately after section 17 - \"Corresponding examination 17 A. { 1) Subject to subsection (2), the applicant may, instead of complying with section 17, lodge with the Registrar in such manner as the Registrar may require and within the prescribed period, an examination report issued and certified by the examination authorities in any UPOV member other than Brunei Darussalam.\n\n(2) The Registrar may reject an examination report lodged under (lL in which case the applicant shall comply with·section 17.\". Made this 15th. day of Rabiulakhir, 1437 Hijriah corresponding to the 25th. day of January, 2016 at Our Istana Nurul Iman, Bandar Seri Begawan, Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM oleh AWANG HAJI KAMARUL AZAM BIN HAJI MOHAMAD Pemangku Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "PLANT VARITIES PROTECTION AMENDMENT ORDER 2016 1",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

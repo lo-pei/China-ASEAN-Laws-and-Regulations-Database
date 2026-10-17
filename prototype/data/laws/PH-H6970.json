@@ -1,7 +1,7 @@
 {
  "id": "PH-H6970",
  "title": {
-  "zh": null,
+  "zh": "1997 年菲律宾科学高中系统法",
   "en": "Philippine Science High School (PSHS) System Act of 1997",
   "orig": "Philippine Science High School (PSHS) System Act of 1997 An Act to Establish the Philippine Science High School System and providing funds therefor"
  },
@@ -226,5 +226,13 @@
     "en": "Effectivity. – This Act shall take effect on the day following its complete publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Philippine Science High School (PSHS) System Act of 1997",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

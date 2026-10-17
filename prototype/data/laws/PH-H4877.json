@@ -1,7 +1,7 @@
 {
  "id": "PH-H4877",
  "title": {
-  "zh": null,
+  "zh": "规定向金矿业提供援助的法案",
   "en": "An Act to Provide for Assistance to the Gold Mining Industry.",
   "orig": "An Act Amending Republic Act Numbered Thirty Hundred Eighty-Nine, as Amended, Entitled \"An Act to Provide for Assistance to the Gold Mining Industry.\""
  },
@@ -91,14 +91,15 @@
    }
   },
   {
-   "id": "PH-H4877-A2_2",
+   "id": "PH-H4877-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "A new section to be known as SEC. 13-A, is hereby inserted between Sections 13 and 14 of this Act, as amended, to read as follows:\n\"Section 13-A. Sale of gold in the free market. — Any gold producer that does not receive subsidy under the provisions of this Act is entitled to sell its gold production in the free market, domestic or foreign, under such rules as the Monetary Board shall adopt: Provided, however , That the Monetary Board may, when the national interest so demands, prevent the sale of gold in the free market, domestic or foreign."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4877-A3",
@@ -110,5 +111,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 5, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for Assistance to the Gold Mining Industry.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

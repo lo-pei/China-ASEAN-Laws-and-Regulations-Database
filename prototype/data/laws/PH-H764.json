@@ -1,7 +1,7 @@
 {
  "id": "PH-H764",
  "title": {
-  "zh": null,
+  "zh": "修订第 393 号行政命令（即《中央吕宋农学院宪章》）若干条的法案",
   "en": "An Act to Amend Certain Sections of Executive Order Numbered Three Hundred Ninety-three, Otherwise Known as the Charter of the Central Luzon Agricultural College",
   "orig": "An Act to Amend Certain Sections of Executive Order Numbered Three Hundred Ninety-three, Otherwise Known as the Charter of the Central Luzon Agricultural College"
  },
@@ -92,14 +92,15 @@
    }
   },
   {
-   "id": "PH-H764-A4_2",
+   "id": "PH-H764-A4-d2",
    "no": 4,
    "noLabel": {
     "en": "Section 4."
    },
    "text": {
     "en": "Section twelve of Executive Order Numbered Three hundred ninety-three is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H764-A12",
@@ -112,14 +113,23 @@
    }
   },
   {
-   "id": "PH-H764-A5_2",
+   "id": "PH-H764-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Section 5."
    },
    "text": {
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of Executive Order Numbered Three Hundred Ninety-three, Otherwise Known as the Charter of the Central Luzon Agricultural College",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

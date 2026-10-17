@@ -1,7 +1,7 @@
 {
  "id": "PH-H8100",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 3 月 16 日为朗布隆成立纪念日及特别非工作公共假日，位于朗布隆省的法案",
   "en": "An Act Declaring March 16 of Every Year as Romblon Foundation Day and a Special Nonworking Public Holiday in the Province of Romblon",
   "orig": "An Act Declaring March 16 of Every Year as Romblon Foundation Day and a Special Nonworking Public Holiday in the Province of Romblon"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect fifteen (15) days following its publication in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring March 16 of Every Year as Romblon Foundation Day and a Special Nonworking Public Holiday in the Province of Romblon",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3456",
  "title": {
-  "zh": null,
+  "zh": "第 74 条下的命令",
   "en": "Order under Section 74",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Stamp Duties Act\n(Chapter 312, Section 74)\nOrder under Section 74\nO 11\nG.N. No. S 30/1999\nREVISED EDITION 2001\n(31st January 2001)\n[26th January 1999]\nThe Minister for Finance has remitted the whole of the duty chargeable under the Act on all contract notes made during the period 30th June 1998 to 29th June 2000 for the sale or purchase of any stocks or shares."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 74",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

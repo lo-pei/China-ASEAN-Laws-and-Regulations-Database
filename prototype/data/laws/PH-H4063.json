@@ -1,7 +1,7 @@
 {
  "id": "PH-H4063",
  "title": {
-  "zh": null,
+  "zh": "授权由社会福利署署长、审计长与总务部部长组成的委员会出售位于黎刹省曼达卢永市镇的Welfareville产业并为其他目的法案",
   "en": "An Act Authorizing a Committee Composed of the Administrator of the Social Welfare Administration, the Auditor General and the Secretary of the Department of General Services to Sell the Welfareville Property Located in the Municipality of Mandaluyong, Province of Rizal, and for Other Purposes",
   "orig": "An Act Authorizing a Committee Composed of the Administrator of the Social Welfare Administration, the Auditor General and the Secretary of the Department of General Services to Sell the Welfareville Property Located in the Municipality of Mandaluyong, Province of Rizal, and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing a Committee Composed of the Administrator of the Social Welfare Administration, the Auditor General and the Secretary of the Department of General Services to Sell the Welfareville Property Located in the Municipality of Mandaluyong, Province of Rizal, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

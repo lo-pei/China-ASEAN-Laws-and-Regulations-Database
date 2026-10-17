@@ -1,7 +1,7 @@
 {
  "id": "PH-H1343",
  "title": {
-  "zh": null,
+  "zh": "修订并废止第 1200 号与第 1411 号共和国法中有关公共工程项目特定项目的法案",
   "en": "An Act to Amend and Repeal Certain Items in Republic Acts Numbered Twelve Hundred and Fourteen Hundred Eleven Regarding Public Works Projects",
   "orig": "An Act to Amend and Repeal Certain Items in Republic Acts Numbered Twelve Hundred and Fourteen Hundred Eleven Regarding Public Works Projects"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend and Repeal Certain Items in Republic Acts Numbered Twelve Hundred and Fourteen Hundred Eleven Regarding Public Works Projects",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

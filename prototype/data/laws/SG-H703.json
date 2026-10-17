@@ -1,7 +1,7 @@
 {
  "id": "SG-H703",
  "title": {
-  "zh": null,
+  "zh": "工商业保安公司（公章）规则",
   "en": "Commercial and Industrial Security Corporation (Common Seal) Rules",
   "orig": null
  },
@@ -100,5 +100,11 @@
     "en": "THE SCHEDULE\nRule 2.\nSchedule"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Commercial and Industrial Security Corporation (Common Seal) Rules",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

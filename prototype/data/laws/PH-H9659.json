@@ -1,7 +1,7 @@
 {
  "id": "PH-H9659",
  "title": {
-  "zh": null,
+  "zh": "设立称为「菲律宾体育训练中心」的体育综合体，并为购置财产、建设设施及该中心的管理与维护提供资金的法案",
   "en": "An Act Establishing a Sports Complex Known as the \"Philippine Sports Training Center\", and Providing Funds for tAcquisition of Property, the Construction of Facilities, and the Administration, Maintenance, and Management of the Center",
   "orig": "An Act Establishing a Sports Complex Known as the \"Philippine Sports Training Center\", and Providing Funds for tAcquisition of Property, the Construction of Facilities, and the Administration, Maintenance, and Management of the Center"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Sports Complex Known as the \"Philippine Sports Training Center\", and Providing Funds for tAcquisition of Property, the Construction of Facilities, and the Administration, Maintenance, and Management of the Center",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

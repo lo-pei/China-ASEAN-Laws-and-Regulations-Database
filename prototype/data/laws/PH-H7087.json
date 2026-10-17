@@ -1,7 +1,7 @@
 {
  "id": "PH-H7087",
  "title": {
-  "zh": null,
+  "zh": "将巴拉望省Quezon市镇Tagusao描笼涯的巴拉望国立中学附属校从巴拉望国立学校本校分离，改设为国立中学，名称为Tagusao国立中学，并为此拨款的法案",
   "en": "An Act to Separate An Annex School of the Palawan National High School in Barangay Tagusao, Municipality of Quezon, Province of Palawan, From the Palawan National School-Main and to Convert the Same Into a National High School to Be Known as the Tagusao National High School, and Appropriating Funds Therefor",
   "orig": "An Act to Separate An Annex School of the Palawan National High School in Barangay Tagusao, Municipality of Quezon, Province of Palawan, From the Palawan National School-Main and to Convert the Same Into a National High School to Be Known as the Tagusao National High School, and Appropriating Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Separate An Annex School of the Palawan National High School in Barangay Tagusao, Municipality of Quezon, Province of Palawan, From the Palawan National School-Main and to Convert the Same Into a National High School to Be Known as the Tagusao National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

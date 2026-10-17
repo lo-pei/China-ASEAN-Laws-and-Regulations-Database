@@ -1,7 +1,7 @@
 {
  "id": "SG-H2138",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）公告 2000",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) Notification 2000",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be exempt from withholding tax the interest payable by Singapore Aircraft Leasing Enterprise (S.A.L.E.) Pte. Ltd. to the following banks under the Loan Agreement dated 27th March 2000, from 31st March 2000 to 30th April 2011:\n(a)Helaba Dublin Landesbank Hessen-Thüringen International, Ireland branch;\n(b)Landesbank Sachsen Girozentrale, Germany branch;\n(c)Raiffeisen Zentralbank Osterreich AG, Malta or Austria branch;\n(d)Abu Dhabi Investment Company, UAE branch;\n(e)Banca Commerciale Italiana S.p.A., UK branch; and\n(f)Gulf International Bank B.S.C., UAE branch."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) Notification 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

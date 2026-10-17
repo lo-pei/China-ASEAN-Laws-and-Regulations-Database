@@ -1,7 +1,7 @@
 {
  "id": "PH-H2848",
  "title": {
-  "zh": null,
+  "zh": "将莱特省邦托克市镇的卡巴图安与阿特拉斯小村组建为塔利赛村的法案",
   "en": "An Act Constituting Sitios Cabatuan and Atlas in the Municipality of Bontoc, Province of Leyte, into a Barrio to be Known as Barrio Talisay",
   "orig": "An Act Constituting Sitios Cabatuan and Atlas in the Municipality of Bontoc, Province of Leyte, into a Barrio to be Known as Barrio Talisay"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Constituting Sitios Cabatuan and Atlas in the Municipality of Bontoc, Province of Leyte, into a Barrio to be Known as Barrio Talisay",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

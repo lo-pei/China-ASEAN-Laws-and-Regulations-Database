@@ -1,7 +1,7 @@
 {
  "id": "SG-H248",
  "title": {
-  "zh": null,
+  "zh": "认可大专学府",
   "en": "Approved Tertiary Institution",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Central Provident Fund Act\n(Chapter 36)\nApproved Tertiary Institution\nIt is hereby notified for general information that, in exercise of the powers conferred by the definition of “approved tertiary institution” in section 22(6) of the Central Provident Fund Act, the Minister for Manpower has approved the Republic Polytechnic as an approved tertiary institution for the purposes of section 22 of the Act, with effect from 1st July 2003."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Approved Tertiary Institution",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

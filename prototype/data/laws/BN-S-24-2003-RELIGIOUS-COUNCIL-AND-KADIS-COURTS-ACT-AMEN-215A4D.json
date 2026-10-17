@@ -1,7 +1,7 @@
 {
  "id": "BN-S-24-2003-RELIGIOUS-COUNCIL-AND-KADIS-COURTS-ACT-AMEN-215A4D",
  "title": {
-  "zh": null,
+  "zh": "宗教理事会与卡迪法庭法修正命令 2003",
   "en": "RELIGIOUS COUNCIL AND KADIS COURTS ACT AMENDMENT ORDER 2003",
   "orig": null
  },
@@ -70,5 +70,13 @@
     "en": "(1) The said annual balance sheet, income and expenditure account and list of investments shall prior to the issue thereof be audited by (aJ the Auditor General; or (bJ any person who has been authorised to perform the duties required by the Companies Act (Chapter 39) to be performed by an auditor, who shall be appointed annually by His Majesty the Sultan and Yang Di-Pertuan. A copy of the auditor's certificate shall be annexed to all copies of the report and accounts as issued.\n\n(2) Where the accounts of the Majlis have been audited by a person appointed under paragraph (b/ of subsection (1), they may be verified by the Auditor General before a copy thereof is published in the Gazette pursuant to section 107.\".\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE Made this 22nd. day of Safar, 1424 Hijriah corresponding to the 24th. day of April, 2003 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh AWANG MOHIDIN BIN HAJI DAUD, Pemangku Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RELIGIOUS COUNCIL AND KADIS COURTS ACT AMENDMENT ORDER 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

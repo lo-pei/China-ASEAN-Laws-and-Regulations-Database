@@ -1,7 +1,7 @@
 {
  "id": "SG-H2215",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 5 号）公告 2004",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 5) Notification 2004",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be exempt from tax the swap payments made by Shell Tankers (Singapore) Pte Ltd to National Australia Bank Limited —\n(a)between 27th January 2004 and 14th January 2036 (both dates inclusive); and\n(b)between 11th December 2003 and 14th January 2036 (both dates inclusive),\nunder 2 Swap Master Agreements dated 8th December 2003 in respect of the bareboat charters of the vessels “Gemmata” and “Granatina”, respectively."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 5) Notification 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

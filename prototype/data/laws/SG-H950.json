@@ -1,7 +1,7 @@
 {
  "id": "SG-H950",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典（过渡条文——后续程序与合并审讯）条例 2011",
   "en": "Criminal Procedure Code (Transitional Provisions — Further Proceedings and Joint Trials) Regulations 2011",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) Notwithstanding regulation 2 and any other provision in the Act, where —\n(a)an accused (referred to in this paragraph as accused A) has been charged for any offence before 2nd January 2011 and the trial for that offence has not commenced before that date;\n(b)another accused (referred to in this paragraph as accused B) is charged for any offence on or after that date;\n(c)an application is made by the prosecution for both accused A and accused B to be jointly tried under section 143 or 144 of the Act;\n(d)accused A and accused B do not object to the prosecution’s application under sub-paragraph (c); and\n(e)the court is satisfied that the accused A understands the nature and consequences of his option when he opts in writing to have the Act apply in relation to the offence referred to in sub-paragraph (a),\nany proceeding (which includes any pre-trial proceeding, trial, criminal motion, criminal appeal, criminal revision or criminal reference) in relation to the offence referred to in sub-paragraph (a) shall be taken, and everything in relation thereto shall be done in all respects on or after 2nd January 2011 under the Act.\n(2) If the pre-trial proceedings apply in relation to an offence referred to in paragraph (1)(a), Part IX of the Act shall apply as if the accused A to whom the pre-trial proceedings apply was first charged in court for the offence referred to in paragraph (1)(a) at the same time that the other accused B is charged for the offence referred to in paragraph (1)(b)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure Code (Transitional Provisions — Further Proceedings and Joint Trials) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

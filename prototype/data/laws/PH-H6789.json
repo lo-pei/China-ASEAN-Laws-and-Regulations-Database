@@ -1,7 +1,7 @@
 {
  "id": "PH-H6789",
  "title": {
-  "zh": null,
+  "zh": "指定山区省Bauko的Luis Hora纪念医院为科迪勒拉行政大区区域医院并为此拨款的法案",
   "en": "An Act Designating the Luis Hora Memorial Hospital in Bauko, Mountain Province, As the Regional Hospital of the Cordillera Administrative Region, and Appropriating Funds Therefor",
   "orig": "An Act Designating the Luis Hora Memorial Hospital in Bauko, Mountain Province, As the Regional Hospital of the Cordillera Administrative Region, and Appropriating Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Designating the Luis Hora Memorial Hospital in Bauko, Mountain Province, As the Regional Hospital of the Cordillera Administrative Region, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

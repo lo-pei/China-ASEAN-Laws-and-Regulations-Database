@@ -1,7 +1,7 @@
 {
  "id": "PH-H6579",
  "title": {
-  "zh": null,
+  "zh": "授予 First Love 广播网络公司在米沙鄢与棉兰老建设、设立、运营和维护商业调频与调幅广播站及电视站的特许经营权法案",
   "en": "An Act Granting the First Love Broadcasting Network, Inc., a Franchise to Construct, Establish, Operate and Maintain Commercial Fm and Am Radio Stations and Television Stations in the Visayas and Mindanao",
   "orig": "An Act Granting the First Love Broadcasting Network, Inc., a Franchise to Construct, Establish, Operate and Maintain Commercial Fm and Am Radio Stations and Television Stations in the Visayas and Mindanao"
  },
@@ -191,5 +191,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the First Love Broadcasting Network, Inc., a Franchise to Construct, Establish, Operate and Maintain Commercial Fm and Am Radio Stations and Television Stations in the Visayas and Mindanao",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

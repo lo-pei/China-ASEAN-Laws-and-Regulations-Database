@@ -1,7 +1,7 @@
 {
  "id": "SG-H2214",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展贷款利息及其他付款豁免）（第 4 号）公告 2018",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 4) Notification 2018",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) The interest payable on or after 26 January 2017 by Yinson Production (West Africa) Pte Ltd to CIMB Bank Berhad (Labuan Offshore Branch), Maybank International (Labuan Branch), Export‑Import Bank of Malaysia Berhad, and OCBC Al‑Amin Berhad on the portion of the loan under the Loan Agreement mentioned in sub‑paragraph (2), is exempt from tax.\n(2) The portion of the loan is that which is used to refinance a loan of US$780,000,000 obtained on 19 August 2015, taken in part to finance the vessel lengthening and conversion works in respect of the vessel “Yinson Genesis”, but excludes any portion of the loan that is used to offset the interest rate swap payments mentioned in sub‑paragraphs (3) and (4).\n(3) The interest rate swap payments made for the purpose of hedging against fluctuations in the rate of the interest mentioned in sub‑paragraph (1), and payable on or after 5 June 2017 by Yinson Production (West Africa) Pte Ltd to CIMB Bank Berhad, Kuala Lumpur on a transaction amount of US$143,750,000 under the CIMB Agreement, are exempt from tax.\n(4) The interest rate swap payments made for the purpose of hedging against fluctuations in the rate of the interest mentioned in sub‑paragraph (1), and payable on or after 5 June 2017 by Yinson Production (West Africa) Pte Ltd to Malayan Banking Berhad, Kuala Lumpur on a transaction amount of US$143,750,000 under the Maybank Agreement, are exempt from tax.\n(5) The total of the interest and interest rate swap payments that become due and payable on a given date, that are exempt from tax under sub‑paragraphs (1), (3) and (4), must not exceed an amount computed by the following formula:\nwhere —\n(a)A is the portion of the loan mentioned in sub‑paragraph (2) that has been drawn down as at that date;\n(b)B is the total of the loan under the Loan Agreement that has been drawn down as at that date;\n(c)C is the interest amount in sub-paragraph (1) that becomes due and payable on that date; and\n(d)D is the total of the interest rate swap payments in sub‑paragraphs (3) and (4) that become due and payable on that date.\n(6) The exemptions under sub‑paragraphs (1), (3) and (4) are subject to the following conditions:\n(a)all the information furnished and representations made by Yinson Production (West Africa) Pte Ltd are accurate;\n(b)all material information has been made known to the Ministry of Finance and the Maritime and Port Authority of Singapore;\n(c)Yinson Production (West Africa) Pte Ltd will notify the Ministry of Finance immediately, if there is any material change to the information provided.\n(7) The exemptions in sub‑paragraphs (1), (3) and (4) do not apply to all interest and interest rate swap payments that are payable after the earliest of the following:\n(a)the date of termination of the Loan Agreement;\n(b)5 June 2024, being the last date of the terms of the Loan Agreement, CIMB Agreement and Maybank Agreement;\n(c)the transfer or disposal of the vessel “Yinson Genesis”;\n(d)the deregistration of the vessel “Yinson Genesis” from the Singapore Registry of Ships."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 4) Notification 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

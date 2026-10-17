@@ -1,7 +1,7 @@
 {
  "id": "PH-H9742",
  "title": {
-  "zh": null,
+  "zh": "更正Palompon理工学院校长遴选委员会的组建期限，并延长其符合高等教育委员会改设为州立大学要求的截止期限，从而修订第10599号共和国法第9条与第25条",
   "en": "An Act Rectifying the Period to Constitute the Search Committee for the Presidency of the Palompon Institute of Technology and Extending the Deadline for its Compliance with the Requirements of the Commission on Higher Education for Conversion into a State University, Thereby Amending Sections 9 and 25 of Republic Act No. 10599",
   "orig": "An Act Rectifying the Period to Constitute the Search Committee for the Presidency of the Palompon Institute of Technology and Extending the Deadline for its Compliance with the Requirements of the Commission on Higher Education for Conversion into a State University, Thereby Amending Sections 9 and 25 of Republic Act No. 10599"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Rectifying the Period to Constitute the Search Committee for the Presidency of the Palompon Institute of Technology and Extending the Deadline for its Compliance with the Requirements of the Commission on Higher Education for Conversion into a State University, Thereby Amending Sections 9 and 25 of Republic Act No. 10599",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

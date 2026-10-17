@@ -1,7 +1,7 @@
 {
  "id": "PH-H2306",
  "title": {
-  "zh": null,
+  "zh": "将塔克洛班市格兰卡皮坦街更名为诺贝托·罗穆亚尔德斯法官街的法案",
   "en": "An Act to Change the Name of Calle Gran Capitan in the City of Tacloban to Justice Norberto Romualdez, Sr. Street",
   "orig": "An Act to Change the Name of Calle Gran Capitan in the City of Tacloban to Justice Norberto Romualdez, Sr. Street"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Change the Name of Calle Gran Capitan in the City of Tacloban to Justice Norberto Romualdez, Sr. Street",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

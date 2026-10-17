@@ -1,7 +1,7 @@
 {
  "id": "SG-H2832",
  "title": {
-  "zh": null,
+  "zh": "交存法院款项的利率",
   "en": "Interest Rate on Money Lodged in Court",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Supreme Court of Judicature Act\n(Chapter 322 and Rules of Court)\nInterest Rate on Money Lodged in Court\nIt is hereby notified for general information that, in exercise of the powers conferred by Order 90, Rule 6(1) of the Rules of Court (R 5), the Minister for Finance has fixed the rate of interest to be paid on money lodged in Court at 0.1% per annum, with effect from 1st April 2010."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Interest Rate on Money Lodged in Court",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

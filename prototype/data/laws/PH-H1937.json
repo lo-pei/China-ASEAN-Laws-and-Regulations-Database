@@ -1,7 +1,7 @@
 {
  "id": "PH-H1937",
  "title": {
-  "zh": null,
+  "zh": "将莱特省卡波奥坎市镇的博博瓦与伊纳卡兰小村设为利伯塔德村，坎波乌诺与坎波多斯小村设为圣尼诺村，巴洛戈、哈古马扬与胡巴斯小村设为巴洛戈村，吉诺迪翁甘与潘丹小村设为吉诺迪翁甘村的法案",
   "en": "An Act Constituting the Sitios of Bobowa and Inakaran into Barrio Libertad, Sitios Campo Uno and Campo Dos into Barrio Sto. Niño, Sitios Balogo, Hagumayan and Hubas into Barrio Balogo, Sitios Guinodiongan and Pangdan into Barrio Guinodiongan, All of the Municipality of Capoocan, Province of Leyte",
   "orig": "An Act Constituting the Sitios of Bobowa and Inakaran into Barrio Libertad, Sitios Campo Uno and Campo Dos into Barrio Sto. Niño, Sitios Balogo, Hagumayan and Hubas into Barrio Balogo, Sitios Guinodiongan and Pangdan into Barrio Guinodiongan, All of the Municipality of Capoocan, Province of Leyte"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 7, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Constituting the Sitios of Bobowa and Inakaran into Barrio Libertad, Sitios Campo Uno and Campo Dos into Barrio Sto. Niño, Sitios Balogo, Hagumayan and Hubas into Barrio Balogo, Sitios Guinodiongan and Pangdan into Barrio Guinodiongan, All of the Municipality of Capoocan, Province of Leyte",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

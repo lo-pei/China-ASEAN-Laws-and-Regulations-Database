@@ -1,7 +1,7 @@
 {
  "id": "SG-H1178",
  "title": {
-  "zh": null,
+  "zh": "外交与领事关系（常设仲裁法院）命令 2007",
   "en": "Diplomatic and Consular Relations (Permanent Court of Arbitration) Order 2007",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "6.—(1) Every person assigned by the Government to assist in the conduct of any PCA Proceeding or PCA Meeting in Singapore pursuant to the PCA Agreement, enjoys immunity from suit and legal process of every kind in respect of all words spoken or written and all acts done by him or her in the course of providing the assistance, except insofar as in any particular case that immunity is waived by the Secretary‑General.\n(2) The immunity under sub‑paragraph (1) does not apply to any person who is a citizen or permanent resident of Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Diplomatic and Consular Relations (Permanent Court of Arbitration) Order 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

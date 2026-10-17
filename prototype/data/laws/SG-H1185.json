@@ -1,7 +1,7 @@
 {
  "id": "SG-H1185",
  "title": {
-  "zh": null,
+  "zh": "第 27(1)(d) 条下的指示——合并",
   "en": "Directions under Section 27 (1)(d) — Consolidation",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Companies Act\n(Chapter 50, Section 27(1)(d))\nDirections under Section 27 (1) (d) — Consolidation\nDir 1\nG.N. No. S 265/1991\nREVISED EDITION 2005\n(31st March 2005)\nThe Minister for Finance has directed that the Registrar of Companies shall not accept for registration under the Act —\n(a)the word “Temasek” in any company name unless the company or proposed company is a related corporation, as defined in section 4(1) of the Act, of Temasek Holdings (Pte.) Ltd. (Registration No. 197401143C);\n[S 265/91]\n(b)(Deleted by S 257/2008 wef 16/05/2008.)\n(c)(Deleted by S 257/2008 wef 16/05/2008.)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Directions under Section 27 (1)(d) — Consolidation",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

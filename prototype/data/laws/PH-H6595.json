@@ -1,7 +1,7 @@
 {
  "id": "PH-H6595",
  "title": {
-  "zh": null,
+  "zh": "将大马尼拉 Kalookan 市 Barangay Bagong Barrio 的高中从该市另一所高中分离，改设为独立的国立高中并为此拨款的法案",
   "en": "An Act Separating the Bagong Barrio High School in Barangay Bagong Barrio, Kalookan City, Metro Manila, From the Kalookan High School in Barangay Sixty-two, Also in Kalookan City, Metro Manila, and Converting It Into An Independent National High School to Be Known as the Bagong Barrio National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Bagong Barrio High School in Barangay Bagong Barrio, Kalookan City, Metro Manila, From the Kalookan High School in Barangay Sixty-two, Also in Kalookan City, Metro Manila, and Converting It Into An Independent National High School to Be Known as the Bagong Barrio National High School, and Appropriating Funds Therefor"
  },
@@ -211,5 +211,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Bagong Barrio High School in Barangay Bagong Barrio, Kalookan City, Metro Manila, From the Kalookan High School in Barangay Sixty-two, Also in Kalookan City, Metro Manila, and Converting It Into An Independent National High School to Be Known as the Bagong Barrio National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9206",
  "title": {
-  "zh": null,
+  "zh": "菲律宾劳工法典",
   "en": "Labor Code of the Philippines",
   "orig": "An Act Reducing the Retirement Age of Surface Mine Workers From Sixty (60) to Fifty (50) Years, Amending for the Purpose Article 302 of Presidential Decree No. 442, as Amended, Otherwise Known as the “Labor Code of the Philippines”"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Labor Code of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2726",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 7 号）命令 2020",
   "en": "Infrastructure Protection (Protected Places) (No. 7) Order 2020",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst Column\nSecond Column\nThe Authority\nProtected Place\nPresident, Sembcorp Industries Limited\nSEMBCORP GAS PTE LTD\nAll that area comprised in part of State Land Lot 00969P (Part) in Mukim No. 34 occupied by “SEMBCORP GAS PTE LTD” containing an area of about 14,045 square metres and bounded approximately as follows:\nCommencing at the north-easternmost corner at a point 26,244.379 metres North and 12,966.788 metres East of the Singapore Land Authority SVY 21 Datum, the boundary runs anti‑clockwise along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n26,244.379\n12,966.788\n26,059.503\n13,019.569\n26,085.397\n13,089.286\n26,264.755\n13,038.087\nto the point of commencement.\nThe boundaries of “SEMBCORP GAS PTE LTD” are more particularly delineated in the Survey Plan No. SCA2016‑50/A3/GA‑B set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 7) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

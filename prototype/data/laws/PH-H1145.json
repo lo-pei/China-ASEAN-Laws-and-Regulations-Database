@@ -1,7 +1,7 @@
 {
  "id": "PH-H1145",
  "title": {
-  "zh": null,
+  "zh": "将达沃省萨乌格市镇的新萨邦加村划归同省孔波斯特拉市镇的法案",
   "en": "An Act Making the Barrio of New Sabonga in the Municipality of Saug, Province of Davao, as a Part of the Municipality of Compostela of the Same Province",
   "orig": "An Act Making the Barrio of New Sabonga in the Municipality of Saug, Province of Davao, as a Part of the Municipality of Compostela of the Same Province"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making the Barrio of New Sabonga in the Municipality of Saug, Province of Davao, as a Part of the Municipality of Compostela of the Same Province",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

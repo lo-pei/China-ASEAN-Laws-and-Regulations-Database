@@ -1,7 +1,7 @@
 {
  "id": "SG-H377",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（重大一般建筑工程项目价值）命令 2008",
   "en": "Building Control (Value of Significant General Building Work Projects) Order 2008",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. A significant general building work project is any building works the value of which is $20 million or more, instead of the value of $10 million specified in section 29H(5) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Control (Value of Significant General Building Work Projects) Order 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

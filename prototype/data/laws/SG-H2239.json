@@ -1,7 +1,7 @@
 {
  "id": "SG-H2239",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）公告 2022",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest of JPY214,069,590 payable by United Sky Shipping Pte. Ltd. to Galva Kogyo Co., Ltd from 8 April 2012 to 8 February 2025 (both dates inclusive), in respect of a loan granted under a loan agreement dated 10 February 2010 to finance the acquisition of a Singapore‑flagged vessel “Chemical Mariner” is exempt from tax.\n(2) The exemption under sub‑paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 3 February 2022 issued by the Ministry of Finance and addressed to United Sky Shipping Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

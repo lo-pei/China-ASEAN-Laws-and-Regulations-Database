@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-81-1984-STATISTICS-ACT",
  "title": {
-  "zh": null,
+  "zh": "统计法",
   "en": "STATISTICS ACT",
   "orig": null
  },
@@ -157,5 +157,13 @@
     "en": "The Minister may from time to time make rules\n\n(a) for exempting any person or class of persons from the obligation to furnish information under this Act, either wholly or to such extent as may be prescribed and either unconditionally or subject to as may be prescribed;\n\n(b) for prescribing the fees which may be charged for communicating statistics collected by the Competent Officer or the interpretation by the Competent Officer of statistics so collected and for exempting any person from the payment of such fees."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "STATISTICS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

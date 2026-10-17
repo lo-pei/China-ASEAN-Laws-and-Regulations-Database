@@ -1,7 +1,7 @@
 {
  "id": "SG-H1720",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（紧急救护车服务与医疗运输服务）条例 2022",
   "en": "Healthcare Services (Emergency Ambulance Service and Medical Transport Service) Regulations 2022",
   "orig": null
  },
@@ -399,5 +399,13 @@
     "en": "THE SCHEDULE\nRegulations 2 and 4\nSpecified services for\nemergency ambulance service\n1. Adult cardiac critical care service, being the provision of an emergency ambulance service to an emergency patient who is 16 years of age or older, where —\n(a)the emergency patient requires continuous clinical intervention or continuous life supportive measures while he or she is being conveyed; and\n(b)the provision of the service requires the use of any of the following equipment on the emergency patient:\n(i)extracorporeal membrane oxygenation;\n(ii)intra-aortic balloon pump.\n2. Adult general critical care service, being the provision of an emergency ambulance service to an emergency patient who is 16 years of age or older, where —\n(a)the emergency patient requires continuous clinical intervention or continuous life supportive measures while he or she is being conveyed; and\n(b)either of the following applies:\n(i)the provision of the service requires the use of any of the following equipment on the emergency patient:\n(A)chest tube;\n(B)mechanical ventilator;\n(ii)the emergency patient has been administered with, or requires the administration of, any inotrope, sedative or paralytic by continuous intravenous infusion.\n3. Isolation service, being the provision of an emergency ambulance service using a portable medical isolation unit on a patient while the patient is being conveyed in an emergency ambulance, where that patient is assessed to require the use of that equipment by a medical practitioner or a person registered, permitted or otherwise authorised to practise medicine in a foreign country or territory under the law of that country or territory.\n4. Paediatric critical care service, being the provision of an emergency ambulance service to an emergency patient who is below 16 years of age, where —\n(a)the emergency patient requires continuous clinical intervention or continuous life supportive measures while he or she is being conveyed; and\n(b)either of the following applies:\n(i)the provision of the service requires the use of any of the following equipment on the emergency patient:\n(A)chest tube;\n(B)extracorporeal membrane oxygenation;\n(C)intra-aortic balloon pump;\n(D)mechanical ventilator;\n(ii)the emergency patient has been administered with, or requires the administration of, any inotrope, sedative or paralytic by continuous intravenous infusion.\n[S 1050/2024 wef 01/01/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (Emergency Ambulance Service and Medical Transport Service) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

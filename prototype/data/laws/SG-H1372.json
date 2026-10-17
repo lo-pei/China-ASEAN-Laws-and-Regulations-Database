@@ -1,7 +1,7 @@
 {
  "id": "SG-H1372",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（一般废物收集）条例",
   "en": "Environmental Public Health (General Waste Collection) Regulations",
   "orig": null
  },
@@ -548,5 +548,13 @@
     "en": "FIFTH SCHEDULE\nRegulation 17(1C)\nWaste not to be disposed without\nconsent of Director-General\n1.Chemical waste\n2.Chlorinated fungicide, chlorinated herbicide and chlorinated insecticide\n3.Explosive or highly flammable waste, including ammunition, dry and wet carbide waste, fireworks, self-igniting waste and excessive quantities of films\n4.Human and animal excrement, sludge from neutralisation pits, foul smelling waste and animal carcasses\n5.Liquid and volatile waste, oil sludge and paints\n6.Poisonous and radioactive waste\n7.Smouldering waste\n[S 460/2023 wef 01/07/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Public Health (General Waste Collection) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

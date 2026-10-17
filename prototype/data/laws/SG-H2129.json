@@ -1,7 +1,7 @@
 {
  "id": "SG-H2129",
  "title": {
-  "zh": null,
+  "zh": "所得税（信托基金受托人源自新加坡基金管理人管理基金的收入豁免）条例 2010",
   "en": "Income Tax (Exemption of Income of Trustee of Trust Fund Arising from Funds Managed by Fund Manager in Singapore) Regulations 2010",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "7. Notwithstanding the repeal of section 13C of the Act in force immediately before 1st September 2007, where any foreign investor —\n(a)has a basis period ending on a date other than 31st August;\n(b)has derived before, on and after 1st September 2007 specified income from funds managed in Singapore by any fund manager in respect of designated investments specified in the Income Tax (Income from Funds Managed for Foreign Investors) Regulations 2003 (G.N. No. S 640/2003);\n(c)has opted for tax exemption under section 13C of the Act and not section 13CA of the Act to apply in respect of income of the kind referred to in paragraph (b) derived during the period from 1st September 2007 to the date immediately before the first basis period beginning on or after 1st September 2007 (referred to in this regulation as the specified period); and\n(d)has satisfied during the specified period all the conditions in the Income Tax (Income from Funds Managed for Foreign Investors) Regulations 2003,\nthe Income Tax (Income from Funds Managed for Foreign Investors) Regulations 2003 shall continue to apply and have effect to the income of the kind referred to in paragraph (b) derived during the specified period by the foreign investor."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (Exemption of Income of Trustee of Trust Fund Arising from Funds Managed by Fund Manager in Singapore) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

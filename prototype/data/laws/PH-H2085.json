@@ -1,7 +1,7 @@
 {
  "id": "PH-H2085",
  "title": {
-  "zh": null,
+  "zh": "撤销某些特别进口税豁免（包括免税产业享有的豁免），为此废止第1394号共和国法第6条及第901号共和国法关于特别进口税的相关规定",
   "en": "An Act Revoking Some Exemptions from the Payment of the Special Import Tax, Including that Enjoyed by Tax-Exempt Industries, Repealing for This Purpose Section Six of Republic Act Numbered Thirteen Hundred and Ninety-Four and the Pertinent Provision of Republic Act Numbered Nine Hundred One Insofar as it Refers to the Special Import Tax",
   "orig": "An Act Revoking Some Exemptions from the Payment of the Special Import Tax, Including that Enjoyed by Tax-Exempt Industries, Repealing for This Purpose Section Six of Republic Act Numbered Thirteen Hundred and Ninety-Four and the Pertinent Provision of Republic Act Numbered Nine Hundred One Insofar as it Refers to the Special Import Tax"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Revoking Some Exemptions from the Payment of the Special Import Tax, Including that Enjoyed by Tax-Exempt Industries, Repealing for This Purpose Section Six of Republic Act Numbered Thirteen Hundred and Ninety-Four and the Pertinent Provision of Republic Act Numbered Nine Hundred One Insofar as it Refers to the Special Import Tax",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

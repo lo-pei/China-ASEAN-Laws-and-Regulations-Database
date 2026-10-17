@@ -1,7 +1,7 @@
 {
  "id": "PH-H5303",
  "title": {
-  "zh": null,
+  "zh": "将 Mati 社区学院改设为名为东达沃州立科学与技术学院的州立学院、为此规定其宪章、扩大其课程设置、调整其目标并为其拨款的法案",
   "en": "An Act Converting the Mati Community College into a State College to be known as the Davao Oriental, State College of Science and Technology, Providing for a Charter for This Purpose, Expanding Its Curricular Offerings, Redirecting Its Objectives, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Mati Community College into a State College to be known as the Davao Oriental, State College of Science and Technology, Providing for a Charter for This Purpose, Expanding Its Curricular Offerings, Redirecting Its Objectives, and Appropriating Funds Therefor"
  },
@@ -100,5 +100,13 @@
     "en": "The governing board of the State College shall be the Board of Trustees of the Davao Oriental State College of Science and Technology. It shall be composed of the following:\nSecretary of Education, Culture and Sports, chairman"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Mati Community College into a State College to be known as the Davao Oriental, State College of Science and Technology, Providing for a Charter for This Purpose, Expanding Its Curricular Offerings, Redirecting Its Objectives, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

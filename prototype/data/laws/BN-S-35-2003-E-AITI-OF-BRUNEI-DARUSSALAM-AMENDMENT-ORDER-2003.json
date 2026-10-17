@@ -1,7 +1,7 @@
 {
  "id": "BN-S-35-2003-E-AITI-OF-BRUNEI-DARUSSALAM-AMENDMENT-ORDER-2003",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰国 AITI 修正命令 2003",
   "en": "AITI OF BRUNEI DARUSSALAM AMENDMENT ORDER 2003",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "The First Schedule to the Authority for Info-communications Technology Industry of Brunei Darussalam Order, 2001 is amended by deleting paragraph 1 and by substituting the following new paragraph therefor - \"Appointment of Chairman and members."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "AITI OF BRUNEI DARUSSALAM AMENDMENT ORDER 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

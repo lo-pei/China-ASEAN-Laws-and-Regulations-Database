@@ -1,7 +1,7 @@
 {
  "id": "KH-H164",
  "title": {
-  "zh": null,
+  "zh": "关于批准柬埔寨王国政府与中华人民共和国政府自由贸易协定的王室敕令 No. 1021/009",
   "en": "Royal Kram No. 1021/009 on the approval of the Free Trade Agreement between the Royal Government of the Kingdom of Cambodia and the Government of the People's Republic of China",
   "orig": "ព្រះរាជក្រមលេខ ១០២១/០០៩ ស្ដីពីការអនុម័តយលព្រមលើកិច្ចព្រមព្រាងពាណិជ្ជកម្មសេរី រវាងរាជរដ្ឋាភិបាលនៃព្រះរាជាណាចក្រកម្ពុជានិងរដ្ឋាភិបាលនៃសាធារណរដ្ឋប្រជាមានិតចិន"
  },
@@ -73,5 +73,13 @@
     "km": "= ច្បាប់នេះត្រូវបានប្រកាសជាការប្រញាប់។\nថ្ងៃ 57 -%៩ 727២ ខែ ‹ក52ធ្នាំធ្លវ ត្រីស័ក ព.ស.២៥៦៥ ធ្វើនៅព្រះបរមរាជវាំង ថ្ងៃទី 0៩ ខែ  តុលា ឆ្នាំ២០២១ ស ស.\nលរ-យ22០.-ភា១                 9?\nនេរាត្តម សីហមុនី បានយកសេបចក្តីក្រាបបង្គំទូលថ្វាយព្រះមហាក្សត្រ សូមឡាយព្រះហស្តលេខា នាយករដ្ឋមន្ត្រី សេម្តចអគ្គមហារសនាបតីេតេជា ហ៊ុន វសន នចម្លាគ្រឹទំត្រគមៃច្បាប             បានយកសេចក្តីគោរពជម្រាបជូន ប្ល ស  សៃ     សម្តេចអគ្គមហាសេនាបតីតេជោនាយករដ្ឋមុន្ត ព ថ្តីបក្នាំតារ   _    គង     តតេជោនាយករដ្ឋ ន្រ រដ្ឋមន្ត្រីត្រឲ្លូលបនុិស្តី៍ការគុណៈរដ្ឋមន្ត្រ      រដ្ឋមន្ត្រកត្រសួងពាណជ្ជកម្ម កិត្តិនីតិកោសលបណ្ឌិត ប៊ិន ឈិន                     ប៉ាន សូរស័ក្តិ"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1816-IDS-5",
+  "source": "Royal Kram No. 1021/009 on the approval of the Free Trade Agreement between the Royal Government of the Kingdom of Cambodia and the Government of the People's Republic of China",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

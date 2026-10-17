@@ -1,7 +1,7 @@
 {
  "id": "SG-H2179",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展利息及其他付款豁免）公告 2007",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2007",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Subject to sub-paragraph (2), there shall be exempt from tax the specified interest payable by Toshiba Capital (Asia) Ltd on notes issued under the programme to any noteholder who is not resident in Singapore and —\n(a)who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the notes under the programme are not obtained from that operation; or\n(b)who does not have any permanent establishment in Singapore.\n(2) The exemption under sub-paragraph (1) is subject to the following terms and conditions:\n(a)that the annual update in October 2006, and all future annual updates up to 31st December 2008, to the programme are arranged by a financial sector incentive (bond market) company;\n(b)unless otherwise approved by the Minister or such person as he may appoint, the tax exemption shall not apply to any notes issued during the specified period if, during their primary launch —\n(i)the notes are issued to less than 4 persons; and\n(ii)50% or more of the notes so issued is beneficially held or funded, directly or indirectly, by related parties of Toshiba Capital (Asia) Ltd;\n(c)where the notes are issued during the specified period and —\n(i)during their primary launch, the notes are issued to 4 persons or more, or less than 50% of the notes so issued is beneficially held or funded, directly or indirectly, by related parties of Toshiba Capital (Asia) Ltd; and\n(ii)at any time during the term of the notes, 50% or more of the notes so issued is beneficially held or funded, directly or indirectly, by related parties of Toshiba Capital (Asia) Ltd,\nthen, unless otherwise approved by the Minister or such person as he may appoint, the tax exemption shall apply only to interest from those notes derived by any noteholder referred to in sub-paragraph (1) —\n(A)who is not a related party of Toshiba Capital (Asia) Ltd; and\n(B)if the funds used by that noteholder to acquire those notes are not obtained, directly or indirectly, from any related party of Toshiba Capital (Asia) Ltd;\n(d)that Toshiba Capital (Asia) Ltd includes in all offering documents a statement to the effect that, where interest is derived from any notes issued during the specified period by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore, the tax exemption shall not apply if such person acquires such notes using funds from Singapore operations;\n(e)where the notes are issued during the specified period to any person who is not resident in Singapore (referred to in this sub-paragraph as the non-resident person) in connection with or for the purpose of enabling that non-resident person to issue debt securities (referred to in this sub-paragraph as the relevant securities), directly or indirectly, to investors, the tax exemption shall apply only if —\n(i)the relevant securities are qualifying debt securities;\n(ii)the relevant securities contain restrictions against the acquisition of such relevant securities by any investor who is a resident of or a permanent establishment in Singapore; and\n(iii)the relevant securities are not acquired by any investor using funds from its Singapore operations; and\n(f)that Toshiba Capital (Asia) Ltd, or such other person as the Comptroller may direct, furnishes to the Comptroller a return on the debt securities within such period as the Comptroller may specify and such other particulars in connection with those securities as the Comptroller may require."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

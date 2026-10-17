@@ -1,7 +1,7 @@
 {
  "id": "PH-H5715",
  "title": {
-  "zh": null,
+  "zh": "加快军事保留地转作其他生产用途、为此设立基地转换与发展管理局、提供资金并为其他目的法案",
   "en": "An Act Accelerating the Conversion of Military Revervations Into Other Productive Uses, Creating the Bases Conversion and Development Authority for This Purpose, Providing Funds Therefor and for Other Purposes",
   "orig": "An Act Accelerating the Conversion of Military Revervations Into Other Productive Uses, Creating the Bases Conversion and Development Authority for This Purpose, Providing Funds Therefor and for Other Purposes"
  },
@@ -270,5 +270,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its publication in at least one (1) newspaper of general circulation.\nApproved, March 13, 1992."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Accelerating the Conversion of Military Revervations Into Other Productive Uses, Creating the Bases Conversion and Development Authority for This Purpose, Providing Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

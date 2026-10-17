@@ -1,7 +1,7 @@
 {
  "id": "SG-H1790",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（法第 50(1) 条豁免）公告 2023",
   "en": "Housing and Development (Exemptions from Section 50(1) of Act) Notification 2023",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) A person is exempted from section 50(1)(a) of the Act, in relation to his or her purchase of a new property, if all of the following conditions are satisfied:\n(a)the new property is —\n(i)a Short Lease 2‑room Flexi flat; or\n(ii)a Community Care Apartment;\n(b)the person and his or her spouse (if any), have both attained —\n(i)in the case of a Short Lease 2‑room Flexi flat — 55 years of age; or\n(ii)in the case of a Community Care Apartment — 65 years of age;\n(c)the person, his or her spouse or any authorised occupier owns or has an estate or interest in no more than one non‑residential property;\n(d)if the person, his or her spouse or any authorised occupier owns or has an estate or interest in any residential property —\n(i)the owner of that residential property undertakes to sell or divest himself or herself of any interest in that residential property within 6 months after the date of taking possession of the new property; and\n(ii)the owner of that residential property sells or divests himself or herself of the interest in that residential property within 6 months after the date of taking possession of the new property.\n(2) A person is exempted from section 50(1)(b) of the Act, in relation to his or her purchase of a new property, if —\n(a)the new property is —\n(i)a Short Lease 2‑room Flexi flat; or\n(ii)a Community Care Apartment; and\n(b)the person and his or her spouse (if any) have both attained —\n(i)in the case of a Short Lease 2‑room Flexi flat — 55 years of age; or\n(ii)in the case of a Community Care Apartment — 65 years of age.\n(3) In this paragraph —\n“Community Care Apartment” means a category of flats sold subject to Part 4 of the Act that has one bedroom, a lease period of between 15 and 35 years and integrates housing and care services;\n“Short Lease 2‑room Flexi flat” means a category of flats sold subject to Part 4 of the Act that has one bedroom, a lease period of between 15 and 45 years and is designated by the Board for sale to a person who has attained 55 years of age."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Exemptions from Section 50(1) of Act) Notification 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

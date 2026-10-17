@@ -1,7 +1,7 @@
 {
  "id": "SG-H2809",
  "title": {
-  "zh": null,
+  "zh": "保险（核准海上、航空与运输保险经纪及核准再保险经纪）条例",
   "en": "Insurance (Approved Marine, Aviation and Transit Insurance Brokers and Approved Reinsurance Brokers) Regulations",
   "orig": null
  },
@@ -394,5 +394,13 @@
     "en": "SECOND SCHEDULE\nRegulation 18(1)\nINSURANCE ACT\n(CHAPTER 142)\nINSURANCE\n(APPROVED MARINE, AVIATION AND\nTRANSIT INSURANCE BROKERS AND\nAPPROVED REINSURANCE BROKERS)\nREGULATIONS\nFORM\nNAME OF APPROVED INSURANCE BROKER _________________________\nPLACEMENT OF BUSINESS HANDLED\nFOR THE FINANCIAL YEAR ______ TO ______\nI.Approved MAT Insurance Broking Business\nPlacement with\nPremiums\n(S$)\n(a)Registered insurers\n(b)Approved MAT insurers\n(c)Other US Financial Institutions\nTotal\nII.Approved General Reinsurance Broking Business\nPlacement with\nPremiums\n(S$)\n(a)Registered insurers\n(b)Authorised General Reinsurers\n(c)Others\nTotal\nIII.Approved Life Reinsurance Broking Business\nPlacement with\nPremiums\n(S$)\n(a)Registered insurers\n(b)Authorised Life Reinsurers\n(c)Others\nTotal\nNotes:\n1.“Premiums” refers to premiums received or receivable during the financial year, including brokerage.\n2.“Authorised General Reinsurers” refers to persons who are authorised under section 8A of the Insurance Act to carry on general business.\n3.“Authorised Life Reinsurers” refers to persons who are authorised under section 8A of the Insurance Act to carry on life business.\nNames and signatures of:\n___________________\nDirector\n___________________\nDirector\n___________________\nChief Executive Officer\nDate: ______________\n___________________\n[G.N. No. S 681/2003]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insurance (Approved Marine, Aviation and Transit Insurance Brokers and Approved Reinsurance Brokers) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

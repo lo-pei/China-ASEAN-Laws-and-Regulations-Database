@@ -1,7 +1,7 @@
 {
  "id": "SG-H054",
  "title": {
-  "zh": null,
+  "zh": "会计与企业管制局（资料、文件与公告）条例 2024",
   "en": "Accounting and Corporate Regulatory Authority (Information, Documents and Notification) Regulations 2024",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) For the purposes of section 30A(1) of the Act, each of the following is a prescribed entity:\n(a)a Facilities-Based Operator that has been granted a Facilities‑Based Operator licence;\n(b)a Services‑Based Operator that has been granted a Services‑Based Operator (Individual) licence;\n(c)a market support services licensee.\n(2) In this regulation —\n“Facilities‑Based Operator”, “Facilities‑Based Operator licence”, “Services‑Based Operator” and “Services‑Based Operator (Individual) licence” have the meanings given by regulation 2 of the Telecommunications (Class Licences) Regulations (Rg 3);\n“market support services licensee” has the meaning given by section 2(1) of the Electricity Act 2001."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Accounting and Corporate Regulatory Authority (Information, Documents and Notification) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

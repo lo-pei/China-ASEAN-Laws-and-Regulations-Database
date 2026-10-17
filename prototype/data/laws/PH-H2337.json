@@ -1,7 +1,7 @@
 {
  "id": "PH-H2337",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾中央银行就银行外汇卖出价设定加价幅度的法案",
   "en": "An Act to Authorize the Central Bank of the Philippines to Establish a Margin Over Banks’ Selling Rates of Foreign Exchange",
   "orig": "An Act to Authorize the Central Bank of the Philippines to Establish a Margin Over Banks’ Selling Rates of Foreign Exchange"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval and shall remain in force until December 31, 1964.\nApproved: July 16, 1959"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize the Central Bank of the Philippines to Establish a Margin Over Banks’ Selling Rates of Foreign Exchange",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

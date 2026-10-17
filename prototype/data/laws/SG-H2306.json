@@ -1,7 +1,7 @@
 {
  "id": "SG-H2306",
  "title": {
-  "zh": null,
+  "zh": "所得税（Mapletree 北亚商业信托等——第 13(12) 条豁免）命令 2022",
   "en": "Income Tax (Mapletree North Asia Commercial Trust, etc. — Section 13(12) Exemption) Order 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividend income and interest income received in Singapore by DBS Trustee Limited (a company incorporated in Singapore) in its capacity as the trustee of Mapletree North Asia Commercial Trust (a trust constituted in Singapore) from Beijing Gateway Plaza (Cayman) Ltd. (a company incorporated in Cayman Islands) on or after 3 August 2022 is exempt from tax.\n(2) Interest income received in Singapore by DBS Trustee Limited in its capacity as the trustee of Mapletree North Asia Commercial Trust from HK Gateway Plaza Company Limited (a company incorporated in Hong Kong) on or after 3 August 2022 is exempt from tax.\n(3) Dividend income received in Singapore by DBS Trustee Limited in its capacity as the trustee of Mapletree North Asia Commercial Trust from Glamour II Limited (a company incorporated in Cayman Islands) on or after 3 August 2022 is exempt from tax.\n(4) Dividend income and interest income received in Singapore by DBS Trustee Limited in its capacity as the trustee of Mapletree North Asia Commercial Trust from Claymore Limited (a company incorporated in Cayman Islands) on or after 3 August 2022 is exempt from tax.\n(5) Distribution income received in Singapore on or after 3 August 2022 by Pinnacle KR Asset Pte. Ltd. (a company incorporated in Singapore) from Kookmin Bank Co., Ltd. (a company incorporated in South Korea) which distributed the income in its capacity as the trustee of IGIS Qualified Investment Type Private Placement Real Estate Investment Trust No. 6 (a trust constituted in South Korea) is exempt from tax.\n(6) The exemptions in sub-paragraphs (1) to (5) are subject to the conditions specified in the letter from the Ministry of Finance dated 27 December 2021 addressed to EY Corporate Advisors Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Mapletree North Asia Commercial Trust, etc. — Section 13(12) Exemption) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

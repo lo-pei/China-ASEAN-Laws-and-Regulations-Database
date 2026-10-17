@@ -1,7 +1,7 @@
 {
  "id": "PH-H3653",
  "title": {
-  "zh": null,
+  "zh": "修订第910号共和国法（经第2614号共和国法修正）的法案",
   "en": "An Act to Amend Republic Act Numbered Nine Hundred and Ten, as Amended by Republic Act Numbered Twenty-Six Hundred Fourteen",
   "orig": "An Act to Amend Republic Act Numbered Nine Hundred and Ten, as Amended by Republic Act Numbered Twenty-Six Hundred Fourteen"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Nine Hundred and Ten, as Amended by Republic Act Numbered Twenty-Six Hundred Fourteen",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

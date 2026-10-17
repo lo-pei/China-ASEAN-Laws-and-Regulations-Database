@@ -1,7 +1,7 @@
 {
  "id": "SG-H1520",
  "title": {
-  "zh": null,
+  "zh": "电影（电子游戏发行类别执照）命令 2019",
   "en": "Films (Class Licence for Video Games Distribution) Order 2019",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. A class licensee must, for its operations of distributing video games at each distribution outlet under the control or management of the class licensee, prepare and give the Authority at least 30 days (or such shorter period as the Authority may allow in any particular case) before distributing a video game at the distribution outlet, a statement in English listing the video game to be distributed at that distribution outlet, setting out —\n(a)the title of the video game;\n(b)the year the video game is first distributed or publicly exhibited anywhere, whether in Singapore or elsewhere;\n(c)the name of the publisher;\n(d)the country or territory where the game is intended to be distributed; and\n(e)the platform or electronic system on which the video game may be typically played on, such as PlayStation, Xbox One or Windows."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Films (Class Licence for Video Games Distribution) Order 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

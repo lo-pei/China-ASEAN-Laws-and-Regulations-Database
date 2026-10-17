@@ -1,7 +1,7 @@
 {
  "id": "SG-H3355",
  "title": {
-  "zh": null,
+  "zh": "报纸与印刷机法 1974",
   "en": "Newspaper and Printing Presses Act 1974",
   "orig": null
  },
@@ -756,5 +756,13 @@
     "en": "45. The Minister may make rules —\n(a)for fixing the fees to be charged for permits and licences;\n(b)for prescribing the forms for permits and licences to be used under this Act; and\n(c)generally for carrying into effect the provisions of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Newspaper and Printing Presses Act 1974",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

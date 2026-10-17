@@ -1,7 +1,7 @@
 {
  "id": "PH-H6881",
  "title": {
-  "zh": null,
+  "zh": "将布拉干省巴拉格塔斯普隆古巴特描笼涯的Pulonggubat农业中学更名为Pulonggubat国立中学的法案",
   "en": "An Act Changing the Name of the Pulonggubat Agricultural High School in Barangay Pulonggubat, Balagtas, Bulacan, to Pulonggubat National High School",
   "orig": "An Act Changing the Name of the Pulonggubat Agricultural High School in Barangay Pulonggubat, Balagtas, Bulacan, to Pulonggubat National High School"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Pulonggubat Agricultural High School in Barangay Pulonggubat, Balagtas, Bulacan, to Pulonggubat National High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

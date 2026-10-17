@@ -1,7 +1,7 @@
 {
  "id": "PH-H6154",
  "title": {
-  "zh": null,
+  "zh": "宣布每年9月17日为锡基霍尔省特别非工作公共假日，名称为锡基霍尔日的法案",
   "en": "An Act to Declare the Seventeenth Day of September of Every Year as a Nonworking Special Public Holiday for the Province of Siquijor to Be Known as Siquijor Day",
   "orig": "An Act to Declare the Seventeenth Day of September of Every Year as a Nonworking Special Public Holiday for the Province of Siquijor to Be Known as Siquijor Day"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Declare the Seventeenth Day of September of Every Year as a Nonworking Special Public Holiday for the Province of Siquijor to Be Known as Siquijor Day",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

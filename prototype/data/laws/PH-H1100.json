@@ -1,7 +1,7 @@
 {
  "id": "PH-H1100",
  "title": {
-  "zh": null,
+  "zh": "授权国家安置与康复署（Narra）征用位于卡巴纳图安市巴尔德富恩特的Hacienda Del Rosario，并将该庄园划分为地块售予其善意占用人的法案",
   "en": "An Act Authorizing the National Resettlement and Rehabilitation Administration (Narra) to Expropriate the Hacienda Del Rosario, Situated at Valdefuente, Cabanatuan City, and Subdivide Said Hacienda into Lots to be Sold to Bona Fide Occupants Thereof",
   "orig": "An Act Authorizing the National Resettlement and Rehabilitation Administration (Narra) to Expropriate the Hacienda Del Rosario, Situated at Valdefuente, Cabanatuan City, and Subdivide Said Hacienda into Lots to be Sold to Bona Fide Occupants Thereof"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 11, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the National Resettlement and Rehabilitation Administration (Narra) to Expropriate the Hacienda Del Rosario, Situated at Valdefuente, Cabanatuan City, and Subdivide Said Hacienda into Lots to be Sold to Bona Fide Occupants Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

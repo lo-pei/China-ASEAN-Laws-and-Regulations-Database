@@ -1,7 +1,7 @@
 {
  "id": "SG-H1313",
  "title": {
-  "zh": null,
+  "zh": "征召（国民服役部队指定）公告",
   "en": "Enlistment (Designation of Forces for National Service) Notification",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister for Defence has designated that service in any of the following organisations shall be national service for the purposes of the Act:\n(a)the Singapore Civil Defence Force; and\n(b)the Airport Fire and Rescue Service.\n[G.N. No. S 136/75]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Enlistment (Designation of Forces for National Service) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

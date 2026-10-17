@@ -1,7 +1,7 @@
 {
  "id": "PH-H9101",
  "title": {
-  "zh": null,
+  "zh": "统一并提高军旅退伍军人及其家属福利的法案",
   "en": "An Act Standardizing and Upgrading the Benefits for Military Veterans and Their Dependents",
   "orig": "An Act Increasing the Burial Assistance for Veterans From Ten Thousand Pesos (P10,000.00) to Twenty Thousand Pesos (P20,000.00), Amending for the Purpose Republic Act No. 6948, as Amended, Otherwise Known as \"An Act Standardizing and Upgrading the Benefits for Military Veterans and Their Dependents\" and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Standardizing and Upgrading the Benefits for Military Veterans and Their Dependents",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

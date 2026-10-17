@@ -1,7 +1,7 @@
 {
  "id": "SG-H2221",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款的利息及其他付款豁免）（第 6 号）公告 2014",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 6) Notification 2014",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) There shall be exempt from tax the interest payable by Mercator Lines (Singapore) Limited to NIBC Bank N.V. on a loan granted under the Loan Agreement dated 4th June 2007 and the Transfer Certificate dated 26th July 2013, for partially financing the acquisition of the following vessels:\n(a)“Garv Prem”;\n(b)“Gaurav Prem”;\n(c)“Sri Prem Veena”;\n(d)“Garima Prem”.\n(2) The amount of interest payable by Mercator Lines (Singapore) Limited to NIBC Bank N.V. under the Loan Agreement referred to in sub‑paragraph (1) on any date (referred to in this sub‑paragraph as the reference date) that is exempt from tax under sub‑paragraph (1) shall be determined in accordance with the following formula:\nwhere A\nis the amount of the loan granted under the Loan Agreement referred to in sub‑paragraph (1);\nB\nis the part of the loan used by Mercator Lines (Singapore) Limited to partially finance the acquisition of those vessels referred to in sub‑paragraph (1)(a) to (d) which have been transferred or disposed of by Mercator Lines (Singapore) Limited as of the reference date; and\nC\nis the amount of interest that is payable by Mercator Lines (Singapore) Limited to NIBC Bank N.V. under the Loan Agreement referred to in sub‑paragraph (1) on the reference date.\n(3) The exemption under sub‑paragraph (1) —\n(a)is subject to the terms and conditions specified in the letter of approval dated 27th September 2013 issued by the Ministry of Finance and addressed to the Maritime and Port Authority of Singapore; and\n(b)shall not apply to any interest payable after the earliest of the following:\n(i)23rd June 2017;\n(ii)the date of termination of the loan;\n(iii)the date on which Mercator Lines (Singapore) Limited ceases to be an approved international shipping enterprise under section 13F of the Act because of the revocation or withdrawal of the approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 6) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

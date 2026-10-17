@@ -1,7 +1,7 @@
 {
  "id": "SG-H160",
  "title": {
-  "zh": null,
+  "zh": "航空导航（KESTREL 项目豁免）命令 2026",
   "en": "Air Navigation (Exemption for Project KESTREL) Order 2026",
   "orig": null
  },
@@ -120,5 +120,13 @@
     "en": "THIRD SCHEDULE\nParagraph 4(e)\nReportable safety matters\n1. An accident involving a JMS, including a collision with an unmanned aircraft.\n2. A near collision of a JMS with another thing or an individual.\n3. An incident that occurs during a flight or an operation of a JMS which has a high potential of causing an accident.\n4. A JMS unintentionally flying into any terrain or obstacle while it is in operation and under control.\n5. A difficulty in piloting or operating a JMS, including an uncontrolled approach or descent of the JMS.\n6. An incapacitation of an individual while the individual pilots or operates a JMS.\n7. A fire or smoke event, including an event where the fire was extinguished.\n8. A failure of, or significant damage to, any structure of a JMS, a disintegration of any part of the engine or external part of the JMS, or an uncontained failure of the turbine engine of the JMS.\n9. A malfunction that seriously affected the flight or operation of a JMS, including —\n(a)a shutdown of an engine of the JMS; and\n(b)any unintentional deviation of airspeed, intended track or altitude of the JMS.\n10. Any circumstances requiring an individual who is piloting or operating a JMS to avoid colliding with another aircraft, other than a near collision mentioned in paragraph 2.\n11. A loss of communication between an individual piloting or operating a JMS and the ground support crew assisting the individual in piloting or operating the JMS.\n12. An incident that causes, or could cause, damage to a JMS including —\n(a)a lightning strike on a JMS; and\n(b)a bird strike on a JMS.\n13. An abnormality in the operating system or engine vibration of a JMS.\n14. A use of incorrect or contaminated fuel, oil or other fluid for a JMS.\n15. An incident involving a JMS being flown or operated outside a specified area.\n16. An occurrence, other than any occurrence mentioned in paragraphs 1 to 15, that involves a JMS and endangers or may endanger the operation of another aircraft, or which causes or may cause a danger to any person or property."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Air Navigation (Exemption for Project KESTREL) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

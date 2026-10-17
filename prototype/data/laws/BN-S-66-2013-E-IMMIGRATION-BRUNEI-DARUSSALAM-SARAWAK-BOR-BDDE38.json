@@ -1,0 +1,85 @@
+{
+ "id": "BN-S-66-2013-E-IMMIGRATION-BRUNEI-DARUSSALAM-SARAWAK-BOR-BDDE38",
+ "title": {
+  "zh": "文莱达鲁萨兰国砂拉越边境地区移民豁免命令 2013",
+  "en": "IMMIGRATION BRUNEI DARUSSALAM SARAWAK BORDER AREA EXEMPTION ORDER 2013",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p31",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 3,
+ "chars": 1259,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-66_2013_E-IMMIGRATION-BRUNEI-DARUSSALAM-SARAWAK-BORDER-AREA-EXEMPTION-ORDER-2013.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-66_2013_E-IMMIGRATION-BRUNEI-DARUSSALAM-SARAWAK-BORDER-AREA-EXEMPTION-ORDER-2013.pdf》（3 页），本次切分 3 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-66-2013-E-IMMIGRATION-BRUNEI-DARUSSALAM-SARAWAK-BOR-BDDE38-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The following person shall be exempted from the provisions of sections 5 and 6- Any person who - {a} is a member of the joint Brunei Darussalam-Malaysia demarcation and survey team of the international land boundary between Brunei Darussalam-Malaysia; {b) is in possession of a valid identification card issued by the Co-Project Directors; {c) in the course of his duty as such member, enters or leaves Brunei Darussalam by land at the border between Brunei Darussalam and Sarawak for the purpose of the joint demarcation and survey project. Exempted persons to be liable for examination."
+   }
+  },
+  {
+   "id": "BN-S-66-2013-E-IMMIGRATION-BRUNEI-DARUSSALAM-SARAWAK-BOR-BDDE38-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Nothing in this Order shall be construed to exempt any person from examination under section 24 or 26. Onus of proof."
+   }
+  },
+  {
+   "id": "BN-S-66-2013-E-IMMIGRATION-BRUNEI-DARUSSALAM-SARAWAK-BOR-BDDE38-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "17th. SEPTEMBER, 2013"
+   },
+   "text": {
+    "en": "The burden of proof that any person is a person to whom paragraph 2 applies shall lie upon that person. Made this 26th. day of Syawal, 1434 Hijriah corresponding to the 4th. day of September, 2013. PEHIN DATU LAILARAJA MAJOR GENERAL (RTD) DATO PADUKA\n\nSERI HAJI A WANG HALBI BIN HAJI MOHD YUSSOF Acting Minister of Home Affairs, Brunei Darussalam. Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENGIRAN HAJI AHMAD, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Barga B$5.00"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "IMMIGRATION BRUNEI DARUSSALAM SARAWAK BORDER AREA EXEMPTION ORDER 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

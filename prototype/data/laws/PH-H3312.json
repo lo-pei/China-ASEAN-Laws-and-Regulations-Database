@@ -1,7 +1,7 @@
 {
  "id": "PH-H3312",
  "title": {
-  "zh": null,
+  "zh": "将商业局标准司改设为标准局，规定菲律宾产品与进口商品的标准制定及检验并为其他目的法案",
   "en": "An Act to Convert the Division of Standards Under the Bureau of Commerce into a Bureau of Standards, to Provide for the Standardization and/or Inspection of Products and Imports of the Philippines and for Other Purposes",
   "orig": "An Act to Convert the Division of Standards Under the Bureau of Commerce into a Bureau of Standards, to Provide for the Standardization and/or Inspection of Products and Imports of the Philippines and for Other Purposes"
  },
@@ -160,5 +160,13 @@
     "en": "Effectivity. -This Act shall take effect upon its approval.\nApproved: June 20, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Division of Standards Under the Bureau of Commerce into a Bureau of Standards, to Provide for the Standardization and/or Inspection of Products and Imports of the Philippines and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

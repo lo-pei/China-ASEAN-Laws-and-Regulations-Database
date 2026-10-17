@@ -1,7 +1,7 @@
 {
  "id": "PH-H6433",
  "title": {
-  "zh": null,
+  "zh": "宣布新比斯开省 Bayombong 市镇 Bangan 山道两侧各五十米为国家公园并为其他目的法案",
   "en": "An Act to Declare Fifty Meters on Each Side of the Bangan Hill Road in the Municipality of Bayombong, Province of Nueva Vizcaya, as a National Park and for Other Purposes",
   "orig": "An Act to Declare Fifty Meters on Each Side of the Bangan Hill Road in the Municipality of Bayombong, Province of Nueva Vizcaya, as a National Park and for Other Purposes"
  },
@@ -110,5 +110,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Declare Fifty Meters on Each Side of the Bangan Hill Road in the Municipality of Bayombong, Province of Nueva Vizcaya, as a National Park and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

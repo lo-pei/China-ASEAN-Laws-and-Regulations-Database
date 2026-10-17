@@ -1,7 +1,7 @@
 {
  "id": "SG-H3734",
  "title": {
-  "zh": null,
+  "zh": "工伤补偿法 2019",
   "en": "Work Injury Compensation Act 2019",
   "orig": null
  },
@@ -1874,5 +1874,13 @@
     "en": "SIXTH SCHEDULE\nSection 34D(2)(a)(ii) and (iii)(B)\nApplicable written law for purposes of section 34D(2)\nPart 1\nWRITTEN LAW RELATING TO PLATFORM WORKER’S\nUSE OF VEHICLES IN PROVISION OF PLATFORM SERVICE\n1.Active Mobility Act 2017 — Section 23D(1) or 28B(1)\n2.Road Traffic Act 1961 — Section 35(1) or 47G(1)\nPart 2\nWRITTEN LAW RELATING TO VEHICLE USED BY PLATFORM\nWORKER IN PROVISION OF PLATFORM SERVICE\n1.Active Mobility Act 2017 — Section 19\n2.Road Traffic Act 1961 — Any rules relating to the construction and equipment of vehicles made pursuant to section 6.\n[Act 30 of 2024 wef 01/01/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Work Injury Compensation Act 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

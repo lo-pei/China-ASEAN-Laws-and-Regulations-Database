@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-110-1984-VICAR-APOSTOLIC-OF-KUCHING-INCORPORATION-ACT",
  "title": {
-  "zh": null,
+  "zh": "古晋宗座代牧区法团法",
   "en": "VICAR APOSTOLIC OF KUCHING INCORPORATION ACT",
   "orig": null
  },
@@ -98,5 +98,13 @@
     "en": "Any deed, document or other instruments, the opera-Documents tion of which has not lapsed or been discharged prior to the date of commencement of this Act and in which appears the B.LR.O. 111984 4 of Kuching (Incorporation) name of the Catholic Mis~ion, North Borneo, or the Prefect Apostolic of North Borneo shall be read and construed as if there were substituted therefor the corporate name of the Vicar Apostolic of Kuching. Use of corpo-6. All deeds, documents and other instruments requiring the seal of the corporation shall be sealed with the seal of the corporation in the presence of the Vicar Apostolic of Kuching for the time being or his attorney duly authorised of attorney deposited under section 3 of the 13 of Attorney Act, and shall also be signed by the ~ap. Vicar Apostolic of Kuching for the time being or his attorney so authorised as aforesaid, and such signing shall be sufficient evidence that the said seal was duly and properly affixed and that the same is the lawful seal of the corporation . ~·"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "VICAR APOSTOLIC OF KUCHING INCORPORATION ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

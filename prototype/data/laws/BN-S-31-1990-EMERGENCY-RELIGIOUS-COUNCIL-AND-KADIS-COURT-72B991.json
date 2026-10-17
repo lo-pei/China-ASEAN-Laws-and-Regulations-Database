@@ -1,7 +1,7 @@
 {
  "id": "BN-S-31-1990-EMERGENCY-RELIGIOUS-COUNCIL-AND-KADIS-COURT-72B991",
  "title": {
-  "zh": null,
+  "zh": "紧急宗教理事会与卡迪法庭法修正命令 1990",
   "en": "MERGENCY RELIGIOUS COUNCIL AND KADIS COURTS ACT AMENDMENT ORDER 1990",
   "orig": null
  },
@@ -70,5 +70,13 @@
     "en": "The Act is amended by inserting the following new section Insertion of immediately after section 50 -new section SOA. \"Guardianship 50 A. I 1) Wherever a Civil Court is required to act and custody in any action or proceeding to which subsection 1 lA) section matters under AJ. of section 48 applies, it shall refer the matter to the 4811 Court of the Chief Kadi. 12) The Court of the Chief Kadi shall thereupon, but subject to subsection (3), consider such matter and shall make and transmit to the Civil Court a written statement, certified to have been given for the purpose of that matter, containing answers to the same, and the Civil Court shall thereupon act upon that statement. 13) Subsections (2), 13) and 14) of section 50 apply to a reference under this section as they apply Chapter 11. to a reference under section 71 of the Probate and Administration Act and shall be construed subject to such modifications as may be necessary to bring them into conformity with this section.'' Made this 22nd day of November, 1990 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MERGENCY RELIGIOUS COUNCIL AND KADIS COURTS ACT AMENDMENT ORDER 1990",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6182",
  "title": {
-  "zh": null,
+  "zh": "将莱特省塔邦塔邦市镇的塔邦塔邦描笼涯中学更名为Justimbaste-remandaban国立中学的法案",
   "en": "An Act Changing the Name of Tabontabon Barangay High School in the Municipality of Tabontabon, Province of Leyte, to Justimbaste-remandaban National High School",
   "orig": "An Act Changing the Name of Tabontabon Barangay High School in the Municipality of Tabontabon, Province of Leyte, to Justimbaste-remandaban National High School"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Tabontabon Barangay High School in the Municipality of Tabontabon, Province of Leyte, to Justimbaste-remandaban National High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

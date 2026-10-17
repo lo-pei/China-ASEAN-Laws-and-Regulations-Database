@@ -1,7 +1,7 @@
 {
  "id": "SG-H184",
  "title": {
-  "zh": null,
+  "zh": "辅助医疗专业（注册与执业证书）条例 2013",
   "en": "Allied Health Professions (Registration and Practising Certificates) Regulations 2013",
   "orig": null
  },
@@ -366,5 +366,13 @@
     "en": "FOURTH SCHEDULE\nRegulation 7(1)(c)\nALLIED HEALTH PROFESSIONS ACT 2011\nALLIED HEALTH PROFESSIONS\n(REGISTRATION AND PRACTISING CERTIFICATES)\nREGULATIONS 2013\nSTATUTORY DECLARATION FOR RESTORATION\nOF REGISTRATION UNDER SECTION 27 OF ACT\nI, of do solemnly and sincerely declare as follows:\n1. I am the person originally registered as with the qualification or status of …………………………………………… and apply for the restoration of my name to the\n2. To the best of my knowledge, I am not suffering from, and have never suffered from, any physical or mental condition which impairs my fitness to practise in my profession, and I am not undergoing and have not undergone any treatment for such condition except for\n3. Since the removal of my name from the I have been residing at …………………………….………………… and my occupation has been ………………………………………………………\n4. The grounds of my application are in the attached statement, and I make this solemn declaration by virtue of the Oaths and Declarations Act 2000, and subject to the penalties provided by that Act for making false statements in statutory declarations, conscientiously believing the statements contained in this declaration to be true in every particular.\nSigned …….…………………………\nDeclared at …………. on …………… 20 ………\nBefore me\n…………………………………………\n(Signature and title of officer before\nwhom the declaration is made)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Allied Health Professions (Registration and Practising Certificates) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

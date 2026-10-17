@@ -1,7 +1,7 @@
 {
  "id": "SG-H934",
  "title": {
-  "zh": null,
+  "zh": "刑事程序法典（规定执法机构——合法羁押人员）公告 2024",
   "en": "Criminal Procedure Code (Prescribed Law Enforcement Agency — Lawful Custody of Persons) Notification 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following law enforcement agencies are prescribed as prescribed law enforcement agencies for the purposes of section 84(1)(b) of the Code:\n(a)Gambling Regulatory Authority of Singapore;\n(b)Internal Security Department;\n(c)Singapore Civil Defence Force;\n(d)Singapore Police Force."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure Code (Prescribed Law Enforcement Agency — Lawful Custody of Persons) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

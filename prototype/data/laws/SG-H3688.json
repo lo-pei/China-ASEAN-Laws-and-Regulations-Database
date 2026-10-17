@@ -1,7 +1,7 @@
 {
  "id": "SG-H3688",
  "title": {
-  "zh": null,
+  "zh": "街道工程法 1995",
   "en": "Street Works Act 1995",
   "orig": null
  },
@@ -1022,5 +1022,13 @@
     "en": "THE SCHEDULE\nSection 53\nSubject matters of Regulations\n1. The laying or carrying of any line or rails, or utilities along, through, across, over or under public streets, public bridges or any street which is to be declared public.\n2. The granting of permits for the carrying and maintenance of utilities along, through, across, over or under public streets, public bridges or any street which is to be declared public, and the fixing and levying of annual or other fees therefor.\n3. The level, width and construction of streets and the repairing, cleaning, watering and lighting of streets, roads, canals and bridges and the planting of trees.\n4. The management, maintenance and repair of backlanes vested in the Government.\n5. The supervision and control of backlanes vested in the Government, of public streets and of streets laid out or constructed by the Authority and the licensing of persons to use such streets and backlanes for any purpose or in any particular manner other than in the exercise of any right of way thereover.\n6. The provision, construction, dimensions and paving along any portion of any land alongside such streets.\n7. The utility works in public streets, public bridges or any street which is to be declared public.\n7. The closing, fencing, lighting, and repair of any works, hole or place likely to be a danger to the public.\n8. The prescribing of forms for licences and for other purposes for use in connection with this Act.\n9. The seizure, removal and disposal of articles and things by the Authority under this Act.\n10. The submission of plans for and other documents relating to the carrying out of engineering works within the road structure safety zone.\n11. The prescribing of fees and charges for the purposes of this Act.\n[11/2003]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Street Works Act 1995",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

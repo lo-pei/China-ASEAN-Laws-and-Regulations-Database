@@ -1,7 +1,7 @@
 {
  "id": "SG-H963",
  "title": {
-  "zh": null,
+  "zh": "货币（纸币面额与特征）公告 2019",
   "en": "Currency (Denomination and Characteristics of Currency Note) Notification 2019",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDescription of the Singapore Bicentennial\nCommemorative Note\nissued on 5 June 2019\nDenomination\n$20\nSize\n1.Length: 162 mm\n2.Width: 77 mm\nPredominant and Secondary Colours (Front)\n1.Predominant Colour: Beige-Peach\n2.Secondary Colours: Black, Blue, Brown, Green, Gold, Orange, Purple, Red and Yellow\nPredominant and Secondary Colours (Back)\n1.Predominant Colour: Beige-Peach\n2.Secondary Colours: Brown, Green, Magenta, Purple and Yellow\nDesign (Front)\n1.The front design features the portrait of Singapore’s first President, the late Mr Yusof bin Ishak.\n2.The denomination numeral “20”, Singapore Coat of Arms, the Singapore Bicentennial logo and the years “1819” and “2019” are depicted in gold within a security stripe located on the left of the note.\n3.The background on the left of the note features a multi‑coloured lattice work in blue, green, orange, purple and red.\n4.The words “SINGAPORE”, “TWENTY DOLLARS” and “THIS NOTE IS LEGAL TENDER” are at the top centre portion of the note.\n5.The centre of the note depicts the National Gallery Singapore, formerly the Supreme Court and City Hall.\n6.The signature and seal of Mr Tharman Shanmugaratnam, Chairman, Monetary Authority of Singapore, are below the picture of the National Gallery Singapore.\n7.One set of the asymmetrical serial number appears horizontal at the bottom of the security stripe while the other set appears vertical on the right‑hand side of the note.\n8.The Braille pattern of the denomination of the note appears just above the asymmetrical serial number at the bottom of the security stripe.\nDesign (Back)\n1.The back design features the portraits of 8 pioneering individuals who made significant contributions to Singapore in diverse fields from commerce to culture, and social work to sports.\n2.The 8 pioneering individuals are Munshi Abdullah, Henry Nicholas Ridley, Tan Kah Kee, P. Govindasamy Pillai, Teresa Hsu Chih, Alice Pennefather, Adnan Saidi and Ruth Wong Hie King.\n3.Below the portraits of the 8 pioneering individuals is an old Singapore River scene, which transits to the present‑day Singapore River scene at the left of the note, to showcase Singapore’s transformation from a trading port into a business and financial hub.\n4.The words “SINGAPORE” and “BICENTENNIAL 1819 – 2019” are located at the top left of the note, while the denomination numeral “20” is at the top right of the note.\n5.The background of the note features guilloche structures in green and magenta.\n(a) Front Design of the Singapore Bicentennial $20 Commemorative Note.\n(b) Back Design of the Singapore Bicentennial $20 Commemorative Note.\nActual size: 162 mm × 77 mm"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency (Denomination and Characteristics of Currency Note) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

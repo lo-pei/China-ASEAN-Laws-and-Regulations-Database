@@ -1,7 +1,7 @@
 {
  "id": "SG-H126",
  "title": {
-  "zh": null,
+  "zh": "穆斯林法管理（瓦克夫理事会）规则 2024",
   "en": "Administration of Muslim Law (Majlis Wakaf) Rules 2024",
   "orig": null
  },
@@ -360,5 +360,13 @@
     "en": "THE SCHEDULE\nRule 3\nFirst column\nSecond column\nProvision of the\nAct to be modified\nProvision of the Act\nafter modification\n1.Section 58(8)\n58.—(8) The Majlis has power at any time and without giving reasons —\n(a)to appoint a mutawalli for the management of a Majlis wakaf under the Administration of Muslim Law (Majlis Wakaf) Rules 2024; and\n(b)to remove, after giving the requisite notice, any mutawalli appointed by the Majlis for a Majlis wakaf and appoint another in the mutawalli’s place.\n2.Section 59\n59.—(1) All property subject to section 58(3A) is, if situate in Singapore, to vest in the Majlis, without any conveyance, assignment or transfer, for the purpose of the Baitulmal or wakaf affecting the same.\n(2) The property contributed or dedicated to a Majlis wakaf vests in the Majlis —\n(a)in the case of moneys not exceeding $20,000 — when they are paid to the Majlis in accordance with the rules made under section 62A(7); and\n(b)in any other case — upon notification of the decision of the Majlis to accept the property.\n3.Section 64(1)\n64.—(1) Every wakaf, except a Majlis wakaf, whether created before or after 1 July 1968, must be registered at the office of the Majlis."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Administration of Muslim Law (Majlis Wakaf) Rules 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

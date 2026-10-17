@@ -1,7 +1,7 @@
 {
  "id": "PH-H3673",
  "title": {
-  "zh": null,
+  "zh": "将政府、半政府机构或政府控制的公司聘用、担任需要医学、牙科、护理或药学知识职位的医师、牙医、护士与药剂师最低年薪分别提高至六千、五千四百、四千二百与三千六百比索的法案",
   "en": "An Act Increasing the Minimum Annual Compensation of Physicians, Dentists, Nurses and Pharmacists Employed by the Government or by Semi-Government Institutions or by Government-Owned or -Controlled Corporations in Positions Requiring the Knowledge of Medicine, Dentistry, Nursing or Pharmacy, as the Case May Be, to Six Thousand Pesos, Five Thousand Four Hundred Pesos, Four Thousand Two Hundred Pesos and Three Thousand Six Hundred Pesos, Respectively",
   "orig": "An Act Increasing the Minimum Annual Compensation of Physicians, Dentists, Nurses and Pharmacists Employed by the Government or by Semi-Government Institutions or by Government-Owned or -Controlled Corporations in Positions Requiring the Knowledge of Medicine, Dentistry, Nursing or Pharmacy, as the Case May Be, to Six Thousand Pesos, Five Thousand Four Hundred Pesos, Four Thousand Two Hundred Pesos and Three Thousand Six Hundred Pesos, Respectively"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1966"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Minimum Annual Compensation of Physicians, Dentists, Nurses and Pharmacists Employed by the Government or by Semi-Government Institutions or by Government-Owned or -Controlled Corporations in Positions Requiring the Knowledge of Medicine, Dentistry, Nursing or Pharmacy, as the Case May Be, to Six Thousand Pesos, Five Thousand Four Hundred Pesos, Four Thousand Two Hundred Pesos and Three Thousand Six Hundred Pesos, Respectively",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

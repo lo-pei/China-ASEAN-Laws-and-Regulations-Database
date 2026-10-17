@@ -1,7 +1,7 @@
 {
  "id": "SG-H822",
  "title": {
-  "zh": null,
+  "zh": "制造业管制法 1959",
   "en": "Control of Manufacture Act 1959",
   "orig": null
  },
@@ -279,5 +279,13 @@
     "en": "SECOND SCHEDULE\nSections 2 and 8(1)\nSpecified goods\n1. Cigarettes\n2. Matches"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Control of Manufacture Act 1959",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

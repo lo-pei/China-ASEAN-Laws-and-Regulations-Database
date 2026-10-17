@@ -1,7 +1,7 @@
 {
  "id": "PH-H10384",
  "title": {
-  "zh": null,
+  "zh": "将北民答那峨大区伊利甘市塔姆巴坎描笼涯横跨伊利甘河的塔姆巴坎桥重新命名为Mariano Lluch Badelles Sr.桥的法案",
   "en": "An Act Renaming the Tambacan Bridge Traversing the Iligan River Located in Barangay Tambacan, City of Iligan in the Northern Mindanao Region, as the Mariano Lluch Badelles Sr. Bridge",
   "orig": "An Act Renaming the Tambacan Bridge Traversing the Iligan River Located in Barangay Tambacan, City of Iligan in the Northern Mindanao Region, as the Mariano Lluch Badelles Sr. Bridge"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Tambacan Bridge Traversing the Iligan River Located in Barangay Tambacan, City of Iligan in the Northern Mindanao Region, as the Mariano Lluch Badelles Sr. Bridge",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3712",
  "title": {
-  "zh": null,
+  "zh": "新加坡长老会司库条例 1899",
   "en": "Treasurer of Presbyterian Church, Singapore Ordinance 1899",
   "orig": null
  },
@@ -162,5 +162,13 @@
     "en": "SECOND SCHEDULE\nAll that piece of land situate at Singapore Town, containing by admeasurement 7208.5 m2, and bounded on the north by Orchard Road, now called Stamford Road, and State land, on the south by State land, on the east by State land and Orchard Road, now called Stamford Road, and on the west by State land, which piece of land with the dimensions, abuttals and boundaries thereof is delineated in the plan drawn on the Statutory Land Grant above referred to."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Treasurer of Presbyterian Church, Singapore Ordinance 1899",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

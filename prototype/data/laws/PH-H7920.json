@@ -1,7 +1,7 @@
 {
  "id": "PH-H7920",
  "title": {
-  "zh": null,
+  "zh": "在南甘马粦省 Calabanga 市镇设立牡蛎、贻贝、蟹、对虾与虾养殖场，为其拨款并为其他目的法案",
   "en": "An Act to Establish an Oyster, Mussel, Crab, Prawn and Shrimp Farm in the Municipality of Calabanga, Province of Camarines Sur, appropriating funds therefor and for other purposes",
   "orig": "An Act to Establish an Oyster, Mussel, Crab, Prawn and Shrimp Farm in the Municipality of Calabanga, Province of Camarines Sur, appropriating funds therefor and for other purposes"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish an Oyster, Mussel, Crab, Prawn and Shrimp Farm in the Municipality of Calabanga, Province of Camarines Sur, appropriating funds therefor and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

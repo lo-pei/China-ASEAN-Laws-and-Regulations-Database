@@ -1,7 +1,7 @@
 {
  "id": "PH-H2612",
  "title": {
-  "zh": null,
+  "zh": "重新划拨第1900号共和国法第三编A部分B段第708页（ab）目莱特省项下第（128）项所拨2000比索的法案",
   "en": "An Act Reappropriating the Sum of Two Thousand Pesos Appropriated Under Item (128), Page 708, Subparagraph (ab), for the Province of Leyte, Paragraph B, Title A, Section Three of Republic Act Numbered Nineteen Hundred",
   "orig": "An Act Reappropriating the Sum of Two Thousand Pesos Appropriated Under Item (128), Page 708, Subparagraph (ab), for the Province of Leyte, Paragraph B, Title A, Section Three of Republic Act Numbered Nineteen Hundred"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reappropriating the Sum of Two Thousand Pesos Appropriated Under Item (128), Page 708, Subparagraph (ab), for the Province of Leyte, Paragraph B, Title A, Section Three of Republic Act Numbered Nineteen Hundred",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

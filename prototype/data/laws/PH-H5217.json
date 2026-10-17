@@ -1,7 +1,7 @@
 {
  "id": "PH-H5217",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 9 月 28 日为北甘马粦省特别非工作假日的法案",
   "en": "An Act Declaring September 28 of Every Year a Special Non-Working Holiday in the Province of Camarines Norte to Commemorate the Birth Anniversary of Wenceslao Q. Vinzons, Sr., Patriot and Martyr",
   "orig": "An Act Declaring September 28 of Every Year a Special Non-Working Holiday in the Province of Camarines Norte to Commemorate the Birth Anniversary of Wenceslao Q. Vinzons, Sr., Patriot and Martyr"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring September 28 of Every Year a Special Non-Working Holiday in the Province of Camarines Norte to Commemorate the Birth Anniversary of Wenceslao Q. Vinzons, Sr., Patriot and Martyr",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

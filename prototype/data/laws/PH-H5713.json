@@ -1,7 +1,7 @@
 {
  "id": "PH-H5713",
  "title": {
-  "zh": null,
+  "zh": "将依第 4339 号共和国法授予 Iglesia Ni Cristo 建设、安装、设立和运营私人电信无线电台的特许权续展二十五年",
   "en": "An Act Extending the Franchise Granted to the Iglesia Ni Cristo to Construct, Install, Establish and Operate Radio Stations for Private Telecommunications Under Republic Act Numbered Forty-three Hundred and Thirty-nine to Another Twenty-five Years",
   "orig": "An Act Extending the Franchise Granted to the Iglesia Ni Cristo to Construct, Install, Establish and Operate Radio Stations for Private Telecommunications Under Republic Act Numbered Forty-three Hundred and Thirty-nine to Another Twenty-five Years"
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Franchise Granted to the Iglesia Ni Cristo to Construct, Install, Establish and Operate Radio Stations for Private Telecommunications Under Republic Act Numbered Forty-three Hundred and Thirty-nine to Another Twenty-five Years",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

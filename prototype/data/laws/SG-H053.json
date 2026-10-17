@@ -1,7 +1,7 @@
 {
  "id": "SG-H053",
  "title": {
-  "zh": null,
+  "zh": "会计与企业管制局（罪行构成）规则 2004",
   "en": "Accounting and Corporate Regulatory Authority (Composition of Offences) Rules 2004",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The offences under sections 36(2), 39(6) and 42(4) of the Act may be compounded by the Chief Executive or any officer of the Authority authorised by the Chief Executive in accordance with section 44 of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Accounting and Corporate Regulatory Authority (Composition of Offences) Rules 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3404",
  "title": {
-  "zh": null,
+  "zh": "使 1990 年附属法例修订版生效的命令",
   "en": "Order Bringing the 1990 Revised Edition of Subsidiary Legislation Into Force",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Revised Edition of the Laws Act\n(Chapter 275, Section 17)\nOrder Bringing the 1990 Revised Edition of\nSubsidiary Legislation Into Force\nO 6\nG.N. No. S 100/1992\nREVISED EDITION 1993\n(25th March 1992)\n[25th March 1992]\nWhereas a Revised Edition of the Subsidiary Legislation of the Republic of Singapore in force on 31st August 1991 has been prepared pursuant to the provisions of the Revised Edition of the Laws Act:\nAnd whereas it is enacted by section 17 of the Act that, upon the completion of the Revised Edition of Subsidiary Legislation, the Law Revision Commissioners shall transmit to the President a copy of the Revised Edition and the President may thereupon, by order published in the Gazette, provide that the Revised Edition shall come into force on such date as he may think fit:\nNow therefore it is hereby ordered by the President that the Revised Edition of Subsidiary Legislation shall come into force on 25th March 1992."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order Bringing the 1990 Revised Edition of Subsidiary Legislation Into Force",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

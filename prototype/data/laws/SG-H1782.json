@@ -1,7 +1,7 @@
 {
  "id": "SG-H1782",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（设计—建造—销售计划——归属）（第 4 号）公告 2014",
   "en": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) (No. 4) Notification 2014",
   "orig": null
  },
@@ -84,5 +84,13 @@
     "en": "SECOND SCHEDULE\nParagraph 2\nApartment block\nStreet name\nUnit no.\n475A\nUpper Serangoon Crescent\n#04-501."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) (No. 4) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

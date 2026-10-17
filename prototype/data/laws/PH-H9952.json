@@ -1,7 +1,7 @@
 {
  "id": "PH-H9952",
  "title": {
-  "zh": null,
+  "zh": "2001 年反洗钱法",
   "en": "Anti-Money Laundering Act of 2001",
   "orig": "An Act Further Strengthening the Anti-Money Laundering Law, Amending for the Purpose Republic Act No. 9160, Otherwise Known as the \"Anti-Money Laundering Act of 2001\", as Amended"
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H9952-A2_2",
+   "id": "PH-H9952-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Section 3 of the same Act is hereby amended as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H9952-A3",
@@ -81,14 +82,15 @@
    }
   },
   {
-   "id": "PH-H9952-A3_2",
+   "id": "PH-H9952-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "Section 7 of the same Act is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H9952-A7",
@@ -141,14 +143,15 @@
    }
   },
   {
-   "id": "PH-H9952-A7_2",
+   "id": "PH-H9952-A7-d2",
    "no": 7,
    "noLabel": {
     "en": "Section 7."
    },
    "text": {
     "en": "Section 14, paragraph (d) of Republic Act No. 9160, as amended, is hereby further amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H9952-A14",
@@ -191,14 +194,15 @@
    }
   },
   {
-   "id": "PH-H9952-A10_2",
+   "id": "PH-H9952-A10-d2",
    "no": 10,
    "noLabel": {
     "en": "Section 10."
    },
    "text": {
     "en": "Separability Clause. - If any provision or section of this Act is held to be unconstitutional or invalid, the other provisions or sections hereof, which are not affected thereby shall continue to be in full force and effect."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H9952-A11",
@@ -220,5 +224,13 @@
     "en": "Effectivity. - This Act shall take effect immediately after the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Anti-Money Laundering Act of 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

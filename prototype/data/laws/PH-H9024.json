@@ -1,7 +1,7 @@
 {
  "id": "PH-H9024",
  "title": {
-  "zh": null,
+  "zh": "规定配偶从事专业职业时夫妻共同财产或婚姻合伙对其债务的责任，以及配偶一方未经他方同意处分专属财产的能力，为此修订《菲律宾家庭法典》第73条与第111条",
   "en": "an act establishing the liability of the absolute community or conjugal partnership for an obligation of a spouse who practices a profession and the capability of either spouse to dispose of an exclusive property without the consent of the other spouse, amending for the purpose articles 73 and 111 of executive order no. 209, also known as the Family Code of the philippines",
   "orig": "an act establishing the liability of the absolute community or conjugal partnership for an obligation of a spouse who practices a profession and the capability of either spouse to dispose of an exclusive property without the consent of the other spouse, amending for the purpose articles 73 and 111 of executive order no. 209, also known as the Family Code of the philippines"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "an act establishing the liability of the absolute community or conjugal partnership for an obligation of a spouse who practices a profession and the capability of either spouse to dispose of an exclusive property without the consent of the other spouse, amending for the purpose articles 73 and 111 of executive order no. 209, also known as the Family Code of the philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

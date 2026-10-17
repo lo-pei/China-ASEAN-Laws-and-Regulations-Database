@@ -1,0 +1,103 @@
+{
+ "id": "BN-CAP-136-1984-DEVELOPMENT-FUND-ACT",
+ "title": {
+  "zh": "发展基金法",
+  "en": "DEVELOPMENT FUND ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p20",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to provide for the establishment of a Fund for pur-s of 1959"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 4,
+ "chars": 3623,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-136-1984-ED-DEVELOPMENT-FUND-ACT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-136-1984-ED-DEVELOPMENT-FUND-ACT.pdf》（6 页），本次切分 4 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-136-1984-DEVELOPMENT-FUND-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Development Fund Act. Short title"
+   }
+  },
+  {
+   "id": "BN-CAP-136-1984-DEVELOPMENT-FUND-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "of Development Fund"
+   },
+   "text": {
+    "en": "There is hereby established a Fund to be called the EstablishFund (hereinafter referred to as the Fund) ment of Deof such sums of moneys as may from time to time Fund be paid from the Consolidated Fund under the authority of a Supply Act for the purposes of the Fund, and all such sums shall be accounted in a separate account in the Consolidated Trust Account."
+   }
+  },
+  {
+   "id": "BN-CAP-136-1984-DEVELOPMENT-FUND-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "Purposes to which moneys in the Fund may be"
+   },
+   "text": {
+    "en": "All moneys in the Fund shall be applied only to such Purposes to of development as may be approved by resolution which of the Legislative Council."
+   }
+  },
+  {
+   "id": "BN-CAP-136-1984-DEVELOPMENT-FUND-ACT-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "Annual statement of proposed expenditure"
+   },
+   "text": {
+    "en": "(1) His Majesty the Sultan and Yang Di-Pertuan in AnnualstateCouncil shall in respect of any financial year cause to be laid ~~~t;I:Cr~X: before the Legislative Council a statement of the proposed ture out of the Fund for that year and of the sums -meet each item of such expenditure.\n\n(2) The Legislative Council may by resolution or any of the proposed expenditure or any part thereof as shown in the statement referred to in subsection\n\n(1) and shall by the same resolution appropriate such sums be ne~essary to meet the approved expenditure.\n\n(3) If in respect of any financial year it appears that the sums appropriated under subsection (2) are insufficient or that a need has arisen for additional expenditure for Dl B.L.R.O. 111984 4 CAP. 136 Development Fund which no sum has been appropriated by the Legislative Council a supplementary statement shall be laid before the Legislative Council in the manner provided by subsection ( 1) of this section and the Legislative Council may by resoluor any of such additional expenditure or any part thereof as shown in the supplementary statement and by the same resolution appropriate further sums as may be necessary to meet the approved additional expendi-- ture: Provided that His Majesty in Council may if he is satisfied that there has arisen in respect of any financial year an urgent need for expenditure for which no appropriation has been made under subsection (2) of this section or for which the appropriation made is insufficient direct that any sum standing to the credit of the Fund and not required to meet any approved expenditure shall be applied to meet such need: Provided that any sums so directed to be applied shall be included in the supplementary statement referred to in this ( 4) In any financial year if it appears to the Minister that the sum appropriated under subsections (2) or (3) of this section for any approved purpose will not be wholly required for such purpose in that year he may direct that any amount not so required shall be applied in aid of any other approved purpose.\n\n(5) All appropriations made under subsections (2) and (3) of this section shall lapse at the close of the financial year and any balances remaining in the Fund shall be available for further appropriation; Provided that if the purpose for which any sum shall have been appropriated remains uncompleted at the close of any financial year the Minister may notwithstanding the provisions of this subsection direct that any balance of such \"appropriation shall be applied for the completion of the said ; purpose during the ensuing year. S. The Minister shall by warrant under his hand autho-Warrant to rise the issue from the Fund of such sums to be applied for authorise of of any purpose specified in subsection (2) of moneys of sums to meet the expenditure approved by of the Legislative Council under subsections (2) and (3) of section 4 and of sums directed by His Majesty in Council under the proviso to subsection (3) of section 4 to be applied to meet any urgent need for expenditure."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DEVELOPMENT FUND ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

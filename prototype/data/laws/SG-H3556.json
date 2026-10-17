@@ -1,7 +1,7 @@
 {
  "id": "SG-H3556",
  "title": {
-  "zh": null,
+  "zh": "规划（合格人员）规则 2017",
   "en": "Planning (Qualified Persons) Rules 2017",
   "orig": null
  },
@@ -169,5 +169,13 @@
     "en": "FOURTH SCHEDULE\nRule 6\nPart 1\nDEVELOPMENT FOR WHICH DIFFERENT QUALIFIED PERSON\nALLOWED\nFirst column\nSecond column\nType of development\nType of qualified person\n1.Earthworks without any building or other operations\nArchitect, engineer or land surveyor\nPart 2\nWORKS FOR WHICH DIFFERENT QUALIFIED PERSON ALLOWED\nFirst column\nSecond column\nType of works\nType of qualified person\n1.Category 2 Works as specified in Part 2 of the Fourth Schedule to the Planning (Fees) Rules 2014 (G.N. No. S 537/2014)\nArchitect or engineer"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Planning (Qualified Persons) Rules 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

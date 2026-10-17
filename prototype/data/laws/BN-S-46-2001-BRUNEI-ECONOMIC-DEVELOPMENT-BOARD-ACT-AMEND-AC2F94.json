@@ -1,7 +1,7 @@
 {
  "id": "BN-S-46-2001-BRUNEI-ECONOMIC-DEVELOPMENT-BOARD-ACT-AMEND-AC2F94",
  "title": {
-  "zh": null,
+  "zh": "文莱经济发展局法修正命令 2001",
   "en": "BRUNEI ECONOMIC DEVELOPMENT BOARD ACT AMENDMENT ORDER 2001",
   "orig": null
  },
@@ -111,5 +111,13 @@
     "en": "The Act is amended by inserting the following three new sections immediately after section 9 \"Directions by Minister. 9A. His majesty the Sultan and Yang Di-Pertuan may empower the Minister to give to the Board such directions, not inconsistent with the provisions Of this Act, as he considers fit, as to the exercise and performance by the Board of its powers, duties and functions under this Actf and the Board shall give effect to all such directions. 1284 0 0 20th* JUNET 2001 Appointments of committees and delegation Of powers, 9B. ( ) The Board mayt in its discretion, appoint from among its members or other persons who are not members Of the Board such number Of committees consisting Of members or other persons or members and other persons for the purposes which, in the opinion of the Board, would be better regulated and managed by means of those committees. 《 2 ) The Board may, subject to such conditions or restrictions as it thinks 血 , delegate to such committee or th e Chqirman or the Chief Executive Officer or any government agency all or any of the powers, functions and duties by this Act vested in the Board; and a ny power, function or duty so delegated may be exercised or performed by such committee or the Chairman or the Chief Executive Officer or government agency, as the case may be, in the name Of the Board. 〖 3 ) Th e Board may, subj ect to such conditions or restrictions as it thinks fit delegate to a ny employee thereof all or a ny of the Board's functions and duties by this Act vested in the Board, except the power to borrow money or to raise loans or grant loans or advances to or subscribe to or underwrite the issue Of stocks, shares, bonds or debentures Of business enterprises; an d any power, function or duty so delegated m ay be exercised or performed by such employee in the name of the Board. 《 4 ) The Board m ay continue to exerclse a ny p ower conferred upon it, or perform any function or duty under this Act, notwithstanding the delegation of such power, function or duty under this section. Appointment Of member to act on behalf of Chairman outside Brunei Darussalam. 9C. The Chairman of the Board may, with the approval of the Minister, appoint a member of the Board to perform the functions of the Chairman outside Brunei Darussalam ln relation to such matters or class Of matters as the Chairman may specify. ' Made this 28th. d ay of Safar, 1422 Hijriah corresponding to the 22nd. day of May, 2001 at Our lstana Nurul lman, Bandar Seri Begawan , Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM 1285"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI ECONOMIC DEVELOPMENT BOARD ACT AMENDMENT ORDER 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

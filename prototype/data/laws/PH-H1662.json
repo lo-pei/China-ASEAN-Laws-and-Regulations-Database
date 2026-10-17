@@ -1,7 +1,7 @@
 {
  "id": "PH-H1662",
  "title": {
-  "zh": null,
+  "zh": "授权开发、开采和利用 Surigao 保留地矿产，并授权菲律宾总统以政府自营、与私营企业合营或聘用承包商方式实施、设立机构及举债发债的法案，并为其他目的",
   "en": "An Act Authorizing the Development, Exploitation and Utilization of the Mineral Deposits in the Surigao Reservation and, for the Purpose, Authorizing the President of the Philippines to Have the Same Undertaken Either by the Government Itself, or Jointly with Private Enterprise, or by Engaging the Services of Independent Contractor or Contractors, to Create an Office or Agency, and to Contract Loans and/or Float Bonds and for Other Purposes",
   "orig": "An Act Authorizing the Development, Exploitation and Utilization of the Mineral Deposits in the Surigao Reservation and, for the Purpose, Authorizing the President of the Philippines to Have the Same Undertaken Either by the Government Itself, or Jointly with Private Enterprise, or by Engaging the Services of Independent Contractor or Contractors, to Create an Office or Agency, and to Contract Loans and/or Float Bonds and for Other Purposes"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Development, Exploitation and Utilization of the Mineral Deposits in the Surigao Reservation and, for the Purpose, Authorizing the President of the Philippines to Have the Same Undertaken Either by the Government Itself, or Jointly with Private Enterprise, or by Engaging the Services of Independent Contractor or Contractors, to Create an Office or Agency, and to Contract Loans and/or Float Bonds and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

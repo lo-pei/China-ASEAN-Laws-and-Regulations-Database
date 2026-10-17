@@ -1,7 +1,7 @@
 {
  "id": "SG-H1004",
  "title": {
-  "zh": null,
+  "zh": "货币法 1967",
   "en": "Currency Act 1967",
   "orig": null
  },
@@ -498,5 +498,13 @@
     "en": "29.—(1) On 1 October 2002 —\n(a)the Board of Commissioners of Currency, Singapore (called in this section the Board) shall be dissolved;\n(b)currency notes and coins issued by the Board before 1 October 2002 shall for all purposes be deemed to have been issued by the Authority;\n(c)the reserves accumulated by the Board before the current term of office of the Government shall be added to the reserves accumulated by the Authority before such term; and\n(d)all assets and moneys of the Currency Reserve Fund shall be transferred to the Currency Fund.\n(2) Any decision made by the Board under this Act before 1 October 2002 is deemed to be a decision made by the Authority.\n(3) Any permission, consent, approval or authorisation granted by the Board under this Act before 1 October 2002 is, so far as it is not inconsistent with the provisions of this Act, deemed to be a permission, consent, approval or authorisation granted by the Authority.\n(4) Any certificate, notice, order, direction or declaration issued or made by the Board or an officer of the Board under this Act before 1 October 2002 is deemed to be a certificate, notice, order, direction or declaration issued or made by the Authority or an officer of the Authority.\n(5) Where in any document any reference is made to the Board of Commissioners of Currency, Singapore, such reference is, as from 1 October 2002, to be read as the Monetary Authority of Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Currency Act 1967",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

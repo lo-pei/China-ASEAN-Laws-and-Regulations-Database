@@ -1,7 +1,7 @@
 {
  "id": "SG-H1220",
  "title": {
-  "zh": null,
+  "zh": "教育捐赠与储蓄计划（教育储蓄学生基金）条例",
   "en": "Education Endowment and Savings Schemes (Edusave Pupils Fund) Regulations",
   "orig": null
  },
@@ -200,5 +200,13 @@
     "en": "THE SCHEDULE\nRegulation 2(1) and (3)\nPart I\nIndependent Schools\nEducational Institution\n(1)\nAnglo-Chinese School (Independent)\n(2)\nHwa Chong Institution\n(3)\nMethodist Girls’ School\n(4)\nNanyang Girls’ High School\n(5)\nNational University of Singapore High School of Mathematics and Science\n(6)\nSchool of the Arts\n(7)\nSingapore Chinese Girls’ School\n(8)\nSingapore Sports School\n(9)\nSt. Joseph’s Institution\n(10)\nSchool of Science and Technology\nPart II\nSpecial Education Schools\nEducational Institution\n(1)\nAWWA School @ Napiri (formerly known as AWWA School)\n(2)\n[Deleted by S 1073/2024 wef 02/01/2025]\n(3)\nAPSN Chaoyang School (formerly known as Chaoyang School)\n(4)\nEden School (formerly known as Singapore Autism School)\n(5)\nMINDS Fernvale Gardens School (formerly known as Fernvale Gardens School)\n(6)\nGrace Orchard School\n(7)\n[Deleted by S 733/2013 wef 01/01/2014]\n(8)\nAPSN Katong School (formerly known as Katong School)\n(9)\nMINDS Lee Kong Chian Gardens School (formerly known as Lee Kong Chian Gardens School)\n(10)\nLighthouse School (formerly known as Singapore School for the Visually Handicapped)\n(11)\nMetta School\n(12)\nPathlight School (Ang Mo Kio)\n(13)\nRainbow Centre Margaret Drive School (formerly known as Rainbow Centre — Margaret Drive School)\n(14)\nRainbow Centre Yishun Park School (formerly known as Rainbow Centre — Yishun Park School)\n(15)\n[Deleted by S 46/2020 wef 15/01/2020]\n(16)\nCerebral Palsy Alliance Singapore School (East) (formerly known as Cerebral Palsy Alliance Singapore School)\n(17)\nSt. Andrew’s Autism School\n(18)\nAPSN Tanglin School (formerly known as Tanglin School)\n(19)\nMINDS Towner Gardens School (formerly known as Towner Gardens School)\n(20)\nMINDS Woodlands Gardens School (formerly known as Woodlands Gardens School)\n(21)\nAPSN Delta Senior School (formerly known as Delta Senior School)\n(22)\nRainbow Centre Admiral Hill School (formerly known as Rainbow Centre — Admiral Hill School)\n(23)\nSt. Andrew’s Mission School\n(24)\nAWWA School @ Bedok\n(25)\nCerebral Palsy Alliance Singapore School (West)\n(26)\nEden School (Campus 2)\n(27)\nMaitri School\n(28)\nPathlight School (Tampines)\n(29)\nAnglo-Chinese School (Academy)\n[S 825/2025 wef 05/01/2026]\n[S 1073/2024 wef 02/01/2025]\n[S 937/2023 wef 01/12/2023]\n[S 937/2023 wef 27/11/2023]\n[S 937/2023 wef 01/04/2023]\n[S 937/2023 wef 03/10/2022]\n[S 975/2021 wef 01/01/2022]\n[S 736/2021 wef 14/06/2021]\n[S 736/2021 wef 21/04/2021]\n[S 736/2021 wef 06/04/2021]\n[S 46/2020 wef 15/01/2020]\n[S 733/2013 wef 01/01/2014]\n[S 665/2017 wef 01/09/2013]\n[S 589/2010 wef 01/01/2009]\nPart III\nSpecified Educational Institutions\nEducational Institution\n(1)\nAssumption Pathway School (formerly known as Assumption Vocational Institute)\n(2)\nNorthLight School\n(3)\nCrest Secondary School\n(4)\nSpectra Secondary School\n[S 733/2013 wef 01/01/2014]\n[S 603/2012 wef 01/01/2013]\n[G.N. Nos. S 750/2007; S 553/2008; S 321/2009; S 589/2010]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Education Endowment and Savings Schemes (Edusave Pupils Fund) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

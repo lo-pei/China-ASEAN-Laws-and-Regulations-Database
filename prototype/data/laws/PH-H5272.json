@@ -1,7 +1,7 @@
 {
  "id": "PH-H5272",
  "title": {
-  "zh": null,
+  "zh": "将南哥打巴托省基安巴市镇Tabudtod小学的名称变更为Baltazar T. Caing, Sr.法官纪念小学的法案",
   "en": "An Act Changing the Name of the Tabudtod Elementary School in the Municipality of Kiamba, Province of South Cotabato, to Judge Baltazar T. Caing, Sr. Memorial Elementary School",
   "orig": "An Act Changing the Name of the Tabudtod Elementary School in the Municipality of Kiamba, Province of South Cotabato, to Judge Baltazar T. Caing, Sr. Memorial Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Tabudtod Elementary School in the Municipality of Kiamba, Province of South Cotabato, to Judge Baltazar T. Caing, Sr. Memorial Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

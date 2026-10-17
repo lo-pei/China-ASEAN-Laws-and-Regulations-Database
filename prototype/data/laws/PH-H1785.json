@@ -1,7 +1,7 @@
 {
  "id": "PH-H1785",
  "title": {
-  "zh": null,
+  "zh": "关于设立名为甲米地配电管理局的公营公司的法案",
   "en": "An Act Creating a Public Corporation to be Known as the Cavite Electricity Distributing Authority",
   "orig": "An Act Creating a Public Corporation to be Known as the Cavite Electricity Distributing Authority"
  },
@@ -160,5 +160,11 @@
     "en": "Effective date of this Act. -This Act shall take effect upon its approval.\nApproved: June 23, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act Creating a Public Corporation to be Known as the Cavite Electricity Distributing Authority",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

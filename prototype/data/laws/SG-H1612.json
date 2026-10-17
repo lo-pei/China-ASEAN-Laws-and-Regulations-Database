@@ -1,7 +1,7 @@
 {
  "id": "SG-H1612",
  "title": {
-  "zh": null,
+  "zh": "地理标志（边境执法措施）规则 2022",
   "en": "Geographical Indications (Border Enforcement Measures) Rules 2022",
   "orig": null
  },
@@ -294,5 +294,13 @@
     "en": "16. For the purposes of section 59(6) of the Act as applied by section 67B(2) of the Act, the prescribed period is 10 working days after the end of the initial period mentioned in section 59(6) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Geographical Indications (Border Enforcement Measures) Rules 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

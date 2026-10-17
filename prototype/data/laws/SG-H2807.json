@@ -1,7 +1,7 @@
 {
  "id": "SG-H2807",
  "title": {
-  "zh": null,
+  "zh": "保险（精算师）条例 2013",
   "en": "Insurance (Actuaries) Regulations 2013",
   "orig": null
  },
@@ -220,5 +220,13 @@
     "en": "14.—(1) The Insurance (Actuaries) Regulations 2004 (G.N. No. S 495/2004) (referred to in this regulation as the revoked Regulations) are revoked.\n(2) Notwithstanding paragraph (1) —\n(a)regulation 4(3) of the revoked Regulations in force immediately before 18th April 2013 shall continue to apply to any licensed insurer who was a direct life insurer within the meaning of the revoked Regulations, immediately before that date and whose appointed actuary has ceased to be such at any time before that date; and\n(b)regulation 11 of the revoked Regulations in force immediately before 18th April 2013 shall continue to apply to an investigation in relation to an accounting period of a licensed insurer, being a period that commences before 18th April 2013.\n(3) Regulation 10(4) shall apply in relation to a report made under regulation 8 of the revoked Regulations as it applies to a report made under regulation 10(1) or (2)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insurance (Actuaries) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

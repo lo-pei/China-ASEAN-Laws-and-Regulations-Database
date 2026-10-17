@@ -1,7 +1,7 @@
 {
  "id": "BN-S-32-2007-E-PRESCRIPTION-OF-IDENTIFICATION-CARD-UNDER-FE26A0",
  "title": {
-  "zh": null,
+  "zh": "依第 42 条作出的身份证规定",
   "en": "Prescription of Identification Card Under Section 42",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "1st. AUGUST, 2007 No. S 3Z\n\nFISHERIES ACT (CHAPTER 61) Prescription of identification card under section 4(2) In exercise of the power conferred on the Director of Fisheries by section 4(2) of the Fisheries Act, the identification card set out in the Schedule is hereby prescribed as the identification card for the purposes of that section.\n\nSCHEDULE\n\nKAD PENGENALAN\n\nIDENTIFICATION CARD Nama Name No. Kad Pengenalan Gam bar Identification Card No. Photo No. Siri Serial No. telah diberi kuasa untuk melaksanakan peruntukan-peruntukan Akta Perikanan has been authorised to carry into effect the provision of the Fisheries Act -(Penggal 61). (Chapter 61). Pengarah Perikanan. Director of Fisheries. Dated this 15th. day of Rejab, 1428 Hijriah corresponding to the 30th. day of July, 2007.\n\nDAYANG HAJAH HASNAH BINTI IBRAHIM Director of Fisheries, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Prescription of Identification Card Under Section 42",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

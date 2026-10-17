@@ -1,7 +1,7 @@
 {
  "id": "PH-H1308",
  "title": {
-  "zh": null,
+  "zh": "修订第842号共和国法（即《规定菲律宾政府公立学校官员、教师及其他学校人员自动加薪的法案》）的法案",
   "en": "An Act to Amend Republic Act Numbered Eight Hundred Forty-Two Entitled “An Act Providing for Automatic Salary Increases for Public School Officials, Teachers, and Other School Personnel of the Government of the Philippines”",
   "orig": "An Act to Amend Republic Act Numbered Eight Hundred Forty-Two Entitled “An Act Providing for Automatic Salary Increases for Public School Officials, Teachers, and Other School Personnel of the Government of the Philippines”"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Eight Hundred Forty-Two Entitled “An Act Providing for Automatic Salary Increases for Public School Officials, Teachers, and Other School Personnel of the Government of the Philippines”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

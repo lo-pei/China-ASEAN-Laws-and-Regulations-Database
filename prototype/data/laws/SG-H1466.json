@@ -1,7 +1,7 @@
 {
  "id": "SG-H1466",
  "title": {
-  "zh": null,
+  "zh": "工厂（注册与其他服务——费用与表格）条例",
   "en": "Factories (Registration and Other Services — Fees and Forms) Regulations",
   "orig": null
  },
@@ -220,5 +220,13 @@
     "en": "THIRD SCHEDULE\nRegulation 8\nNo. 0000\nRepublic of Singapore\nFactories Act\n(Chapter 104)\nFactories (Registration and Other Services —\nFees and Forms) Regulations\nNOTICE TO ATTEND COURT UNDER section 88(4)\nName:……………………………………………………………………………………\nIdentity Card No: ……………………............................................................................................\nAddress: ……………………………………………………………………………………………………………………………………………………………………………………….\nTAKE NOTICE that you are required to attend personally before the ………………...Court at ………………........ *a.m./p.m. on ……………………. to answer a charge that you on ………………………. at or about ……………………… *a.m./p.m. at ……………… contravened the provisions of section 80 of the Factories Act to wit, ………………………………………………………………………………………………...……………………………………….…………………………………………………….……....….…………………………………………………………………………………………\n(particulars of offence)\nan offence punishable under section 88(3) of the said Act.\nAND TAKE NOTICE that if you fail to appear before the Court on the said date and time, a warrant for your arrest may be issued and you may be liable to a penalty not exceeding $2,000 or to imprisonment for a term not exceeding 2 months.\n*ALTERNATIVELY, you may have the above offence compounded within 14 days from the date of issue of this Notice for a sum of ………………………… at the Department of Industrial Safety, Ministry of Labour, 18 Havelock Road, #03-02, Singapore 0105 between 8.30 a.m. and 4.30 p.m. on weekdays and 8.30 a.m. and 12.30 p.m. on Saturdays (except public holidays). Upon acceptance of the composition sum, YOUR ATTENDANCE IN COURT WILL NOT BE NECESSARY.\nDated this …………………………. day of ………………………………….. 19 ………………………….\n…………………………….\n(Signature)\nName and designation of Issuing Officer ………………………................................................................................................................................................................................................................................... Notice served on …………………………………………. at …………………………………. *a.m./p.m. at ………………………………………………………………………………………………………………………………………\n*Delete where applicable."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Factories (Registration and Other Services — Fees and Forms) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-5-1984-THE-EMERGENCY-PRIME-MINISTER-INCORPORATION-O-480D55",
+ "title": {
+  "zh": "紧急首相法人化命令 1984",
+  "en": "THE EMERGENCY PRIME MINISTER INCORPORATION ORDER 1984",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p29",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 2333,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-5-1984-THE-EMERGENCY-PRIME-MINISTER-INCORPORATION-ORDER-1984.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-5-1984-THE-EMERGENCY-PRIME-MINISTER-INCORPORATION-ORDER-1984.pdf》（1 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-5-1984-THE-EMERGENCY-PRIME-MINISTER-INCORPORATION-O-480D55-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "NEGARA BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 5 -THE CONSTITUTION OF BRUNEI DARUSSALAM (Order under Section 83) The Emergency [Prime Minister Incorporation) Order, 1984 In exercise of the powers conferred by Section 83(3) of the Constitution of Brunei Darussalam, His Majesty the Sultan and Yang Di-Pertuan hereby makes the following Orders:- Short title and L This Order may be cited as the Emergency (Prime Minister Incommencement. corporation) Order, 1984 and shall be deemed to have come into force on 1st. January, 1984. Amendment of 2. The Constitution (Mentri Besar Incorporation) Order, 1960 is the amendedConstitution (Mentri Besar (a) in article 1 by deleting \"the Constitution (Mentri Besar InIncorporation! corporation) Order 1960\" and substituting therefor \"the Order, 1960. Constitution (Prime Minister Incorporation) Order\" ;\n\n(b) and by deleting \"Mentri Besar\" wherever they appear in the Order and substituting therefor \"Prime Minister\". Transfer of 3. (1) Upon the coming into operation of this Order, all movable assets and and immovable property, assets, rights, interests and privileges, liabilities to together with any debts, liabilities or obligations connected therewith the Corporation. or appertaining thereto which heretofore are conveyed or assigned to or vested in the Mentri Besar Corporation shall be deemed to have been transferred to and vested in the Prime Minister Corporation (hereinafter called the Corporation) without the requirement of any further action.\n\n(2) The Prime Minister shall have power to do all acts or things that he considers necessary or expedient to give effect to the provisions of subsection (1) of this section.\n\n(3) If the question arises as to whether -\n\n(a) any of the functions, duties and powers ; or\n\n(b) any movable and immovable property, assets, rights, interests, privileges, debts, liabilities and obligations, have been transferred to or vested in the Corporation under subsection (1) of this section,' a certificate executed by the Prime Minister shall be conclusive evidence of such transfer or vesting.\n\n(4) Article 6(2) is amended by deleting the word \"article\" and substituting therefor ''Order''. Made this 7th. day of February, 1984 at Our Istana Darul Hana, Bandar Seri Begawan, Negara Brunei Darussalam.\n\nHIS MAJESTY THE SULTAN\n\nAND YANG DI-PERTUAN"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "THE EMERGENCY PRIME MINISTER INCORPORATION ORDER 1984",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

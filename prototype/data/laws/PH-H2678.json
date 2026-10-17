@@ -1,7 +1,7 @@
 {
  "id": "PH-H2678",
  "title": {
-  "zh": null,
+  "zh": "提高Tacloban市市法院书记官薪酬上限，为此进一步修订第760号共和国法第77条（经修正）的法案",
   "en": "An Act Increasing the Maximum Limit of the Compensation of the Clerk of the Municipal Court of the City of Tacloban, by Amending Further for the Purpose Section Seventy-Seven of Republic Act Numbered Seven Hundred Sixty, as Amended",
   "orig": "An Act Increasing the Maximum Limit of the Compensation of the Clerk of the Municipal Court of the City of Tacloban, by Amending Further for the Purpose Section Seventy-Seven of Republic Act Numbered Seven Hundred Sixty, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Maximum Limit of the Compensation of the Clerk of the Municipal Court of the City of Tacloban, by Amending Further for the Purpose Section Seventy-Seven of Republic Act Numbered Seven Hundred Sixty, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

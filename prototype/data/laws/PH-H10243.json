@@ -1,7 +1,7 @@
 {
  "id": "PH-H10243",
  "title": {
-  "zh": null,
+  "zh": "在北甘马粦省第一区Labo市镇设立陆运署（LTO）区办公室并为此拨款的法案",
   "en": "An Act Establishing a District Office of the Land Transportation Office (LTO) in the Municipality of Labo in the First District of Camarines Norte, and Appropriating Funds Therefore",
   "orig": "An Act Establishing a District Office of the Land Transportation Office (LTO) in the Municipality of Labo in the First District of Camarines Norte, and Appropriating Funds Therefore"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a District Office of the Land Transportation Office (LTO) in the Municipality of Labo in the First District of Camarines Norte, and Appropriating Funds Therefore",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

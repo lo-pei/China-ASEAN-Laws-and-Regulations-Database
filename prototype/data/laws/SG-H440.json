@@ -1,7 +1,7 @@
 {
  "id": "SG-H440",
  "title": {
-  "zh": null,
+  "zh": "航空运输（新加坡货币等值）命令",
   "en": "Carriage by Air (Singapore Currency Equivalents) Order",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\nAmount in Francs\nSingapore currency equivalent\n$ c.\n250\n49.58\n5,000\n991.64\n125,000\n24,790.93\n250,000\n49,581.85."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Carriage by Air (Singapore Currency Equivalents) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

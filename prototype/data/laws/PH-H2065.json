@@ -1,7 +1,7 @@
 {
  "id": "PH-H2065",
  "title": {
-  "zh": null,
+  "zh": "修订第 2393 号法（授予 Silay 电力与制冰公司在西内格罗斯 Silay 市镇经营电灯、热力与动力系统的特许权）",
   "en": "An Act to Amend Act Numbered Twenty-Three Hundred and Ninety-Three, Entitled “An Act Granting to the Sociedad Anonima Known as ‘Silay Electric and Ice Plant Company, Incorporated,’ a Franchise to Install, Operate, and Maintain an Electric Light, Heat and Power System in the Municipality of Silay, Occidental Negros, Philippine Islands”",
   "orig": "An Act to Amend Act Numbered Twenty-Three Hundred and Ninety-Three, Entitled “An Act Granting to the Sociedad Anonima Known as ‘Silay Electric and Ice Plant Company, Incorporated,’ a Franchise to Install, Operate, and Maintain an Electric Light, Heat and Power System in the Municipality of Silay, Occidental Negros, Philippine Islands”"
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1959"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Act Numbered Twenty-Three Hundred and Ninety-Three, Entitled “An Act Granting to the Sociedad Anonima Known as ‘Silay Electric and Ice Plant Company, Incorporated,’ a Franchise to Install, Operate, and Maintain an Electric Light, Heat and Power System in the Municipality of Silay, Occidental Negros, Philippine Islands”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

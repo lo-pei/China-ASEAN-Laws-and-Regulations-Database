@@ -1,7 +1,7 @@
 {
  "id": "PH-H4825",
  "title": {
-  "zh": null,
+  "zh": "修订第409号共和国法第64条（经修正）（即马尼拉 Revised Charter）的法案",
   "en": "An Act Amending Section Sixty-Four of Republic Act Numbered Four Hundred Nine, as Amended, Known as the Revised Charter of Manila.",
   "orig": "An Act Amending Section Sixty-Four of Republic Act Numbered Four Hundred Nine, as Amended, Known as the Revised Charter of Manila."
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 19, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Sixty-Four of Republic Act Numbered Four Hundred Nine, as Amended, Known as the Revised Charter of Manila.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-42-2000-EMERGENCY-TOKYO-CONVENTION-ORDER-2000",
  "title": {
-  "zh": null,
+  "zh": "紧急东京公约命令 2000",
   "en": "MERGENCY TOKYO CONVENTION ORDER 2000",
   "orig": null
  },
@@ -128,5 +128,13 @@
     "en": "The Schedule to the Air Navigation Act is amended by deleting the \"Sl 1968 The Tokyo Convention The whole No. 1864 Act 1967 (Overseas Territories) Order, 1968. Made this 20th. day of Safar, 1421 Hijriah corresponding to the 24th. day of May, 2000 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MERGENCY TOKYO CONVENTION ORDER 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

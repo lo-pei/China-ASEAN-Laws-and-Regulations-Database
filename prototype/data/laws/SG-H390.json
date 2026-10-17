@@ -1,7 +1,7 @@
 {
  "id": "SG-H390",
  "title": {
-  "zh": null,
+  "zh": "建筑物维修基金公告",
   "en": "Buildings Maintenance Fund Notification",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The developer of a development to which section 9 of the Act applies and being a development where temporary occupation licences have been issued for flats comprised in the development at any time before 1st December 1982 shall establish a maintenance fund for that development."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Buildings Maintenance Fund Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

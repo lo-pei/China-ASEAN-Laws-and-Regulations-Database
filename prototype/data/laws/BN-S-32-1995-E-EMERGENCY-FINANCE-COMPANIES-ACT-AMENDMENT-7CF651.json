@@ -1,7 +1,7 @@
 {
  "id": "BN-S-32-1995-E-EMERGENCY-FINANCE-COMPANIES-ACT-AMENDMENT-7CF651",
  "title": {
-  "zh": null,
+  "zh": "紧急金融公司法修正命令 1995",
   "en": "EMERGENCY FINANCE COMPANIES ACT AMENDMENT ORDER 1995",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "Subsection (2) of section 38 of the Act is amended by deleting \"His Amendment of Majesty in Council\" and substituting therefor \"the Minister with the section 38. approval of His Majesty The Sultan and Yang Di-Pertuan\". Made this 29th day of Zulhijah, 1415 Hijrah corresponding to the 29th day of May, 1995 at Our Istana Nurul Iman, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "EMERGENCY FINANCE COMPANIES ACT AMENDMENT ORDER 1995",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6379",
  "title": {
-  "zh": null,
+  "zh": "修订第 4726 号共和国法（即《公寓法》）第 4 条与第 16 条的法案",
   "en": "An Act Amending Section Four and Section Sixteen of Republic Act Numbered Four Thousand Seven Hundred Twenty-six, Otherwise Known as the Condominium Act\"",
   "orig": "An Act Amending Section Four and Section Sixteen of Republic Act Numbered Four Thousand Seven Hundred Twenty-six, Otherwise Known as the Condominium Act\""
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Four and Section Sixteen of Republic Act Numbered Four Thousand Seven Hundred Twenty-six, Otherwise Known as the Condominium Act\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

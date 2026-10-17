@@ -1,7 +1,7 @@
 {
  "id": "SG-H437",
  "title": {
-  "zh": null,
+  "zh": "航空运输（1999 年蒙特利尔公约）（公约排除）命令",
   "en": "Carriage by Air (Montreal Convention, 1999) (Exclusion from Convention) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The Minister for Transport hereby directs that the provisions of the Convention shall not apply to —\n(a)international carriage by air performed and operated directly by the Government for non-commercial purposes in respect to the functions and duties of Singapore as a sovereign state; and\n(b)the carriage of persons, cargo and baggage for the Singapore Armed Forces on aircraft registered in Singapore or leased by the Government, the whole capacity of which has been reserved by or on behalf of the Singapore Armed Forces.\n(2) In this paragraph, “Singapore Armed Forces” means the Singapore Armed Forces raised and maintained under the Singapore Armed Forces Act (Cap. 295).\n[G.N. No. S 617/2007]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Carriage by Air (Montreal Convention, 1999) (Exclusion from Convention) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

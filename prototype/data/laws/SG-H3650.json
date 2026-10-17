@@ -1,7 +1,7 @@
 {
  "id": "SG-H3650",
  "title": {
-  "zh": null,
+  "zh": "新加坡康复企业公司法 1975",
   "en": "Singapore Corporation of Rehabilitative Enterprises Act 1975",
   "orig": null
  },
@@ -632,5 +632,11 @@
     "en": "36. The Corporation may, with the approval of the Minister, make such regulations as are necessary for carrying into effect the provisions of this Act.\n[Act 16 of 2024 wef 17/06/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Singapore Corporation of Rehabilitative Enterprises Act 1975",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2896",
  "title": {
-  "zh": null,
+  "zh": "提高菲律宾武装部队正规部队士兵月基本薪金，为此修订第1831号共和国法第4条的法案",
   "en": "An Act Increasing the Monthly Base Pay of Enlisted Men of the Regular Force of the Armed Forces of the Philippines, Amending for This Purpose Section Four of Republic Act Numbered Eighteen Hundred Thirty-One",
   "orig": "An Act Increasing the Monthly Base Pay of Enlisted Men of the Regular Force of the Armed Forces of the Philippines, Amending for This Purpose Section Four of Republic Act Numbered Eighteen Hundred Thirty-One"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect on July first, nineteen hundred and sixty-two.\nApproved: June 16, 1962."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Monthly Base Pay of Enlisted Men of the Regular Force of the Armed Forces of the Philippines, Amending for This Purpose Section Four of Republic Act Numbered Eighteen Hundred Thirty-One",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9087",
  "title": {
-  "zh": null,
+  "zh": "将海事工业管理局确立为负责执行经修正的 1978 年海员培训、发证和值班标准国际公约及相关国际协定的单一海事管理机构",
   "en": "An Act Establishing the Maritime Industry Authority (MARINA) as the Single Maritime Administration Responsible for the Implementation and Enforcement of the 1978 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, as Amended, and International Agreements or Covenants Related Thereto",
   "orig": "An Act Establishing the Maritime Industry Authority (MARINA) as the Single Maritime Administration Responsible for the Implementation and Enforcement of the 1978 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, as Amended, and International Agreements or Covenants Related Thereto"
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity Clause. —This Act shall take effect fifteen (15) days from its publication in the Official Gazette or in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the Maritime Industry Authority (MARINA) as the Single Maritime Administration Responsible for the Implementation and Enforcement of the 1978 International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, as Amended, and International Agreements or Covenants Related Thereto",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

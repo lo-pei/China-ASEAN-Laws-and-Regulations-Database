@@ -1,7 +1,7 @@
 {
  "id": "PH-H7733",
  "title": {
-  "zh": null,
+  "zh": "2004 年菲律宾兽医学法",
   "en": "The Philippine Veterinary Medicine Act of 2004",
   "orig": "The Philippine Veterinary Medicine Act of 2004 An act to Regulate the Practice of Veterinary Medicine in the Philippines, Repealing for the Purpose Republic Act No. 382 and for other purposes"
  },
@@ -522,5 +522,13 @@
     "en": "Effectivity. - This Act shall take effect thirty (30) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Philippine Veterinary Medicine Act of 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

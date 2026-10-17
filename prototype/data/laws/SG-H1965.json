@@ -1,7 +1,7 @@
 {
  "id": "SG-H1965",
  "title": {
-  "zh": null,
+  "zh": "所得税（寿险保险人分摊给保单持有人的所得优惠税率）条例 2009",
   "en": "Income Tax (Concessionary Rate of Tax for Income of Life Insurers Apportioned to Policyholders) Regulations 2009",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) The Income Tax (Concessionary Rate of Tax for Income of Life Insurance Companies Apportioned to Policyholders) Regulations (Rg 29) are revoked.\n(2) Notwithstanding paragraph (1), the revoked Regulations shall continue to apply in relation to any life insurance company for any year of assessment prior to the year of assessment 2006."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Concessionary Rate of Tax for Income of Life Insurers Apportioned to Policyholders) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

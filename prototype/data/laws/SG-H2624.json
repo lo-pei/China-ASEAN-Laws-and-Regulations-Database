@@ -1,7 +1,7 @@
 {
  "id": "SG-H2624",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护区与受保护场所摄影——豁免）命令 2024",
   "en": "Infrastructure Protection (Photography of Protected Areas and Protected Places — Exemption) Order 2024",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Section 29(1) of the Act does not apply to a specified person who takes a photograph of a protected area or a protected place if the photograph is taken —\n(a)in accordance with the directions of the Singapore Land Authority;\n(b)during the period from 7 March 2024 to 28 February 2025 (both dates inclusive); and\n(c)for the sole purpose of conducting the aerial mapping exercise mentioned in the definition of “specified person” in paragraph 2."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Photography of Protected Areas and Protected Places — Exemption) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

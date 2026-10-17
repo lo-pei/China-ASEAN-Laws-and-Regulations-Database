@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-277-RG-7-2024-WSAH-INCIDENT-REPORTING-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG 7 2024 版工作场所安全与健康事故报告条例",
   "en": "RG 7 2024 ED WSAH INCIDENT REPORTING REGULATIONS",
   "orig": null
  },
@@ -169,5 +169,13 @@
     "en": "(1) Any —\n\n(a) employer who contravenes regulation 3(1) or (3), 5(1) or (2), 6(1) or 7;\n\n(b) occupier of a workplace who contravenes regulation 3(2) or (3), 4, 5(3) or 7; or\n\n(c) registered medical practitioner who contravenes regulation 6(2), is guilty of an offence and liable on conviction —\n\n(i) for a first offence, to a fine not exceeding $5,000; and\n\n(ii) for a second or subsequent offence, to a fine not exceeding $10,000, imprisonment for a term not exceeding 6 months or both.\n\n(2) Any person knowingly makes any false notification or report to the Authority about the occurrence at any workplace of any accident, dangerous occurrence or occupational disease is guilty of an offence and liable on conviction to a fine not exceeding $5,000, imprisonment for a term not exceeding 6 months or both."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 7 2024 ED WSAH INCIDENT REPORTING REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

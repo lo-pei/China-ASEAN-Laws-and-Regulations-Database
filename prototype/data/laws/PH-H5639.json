@@ -1,7 +1,7 @@
 {
  "id": "PH-H5639",
  "title": {
-  "zh": null,
+  "zh": "授予 Cebu Air, Inc. 以宿务为基地设立、运营和维护国内与国际航空客运、邮件、货物与财产运输服务的特许经营权法案",
   "en": "An Act Granting Cebu Air, Inc., a Franchise to Establish, Operate and Maintain Transport Services for the Carriage of Passengers, Mail, Goods and Property by Air, Both Domestic and International, with Cebu as its Base",
   "orig": "An Act Granting Cebu Air, Inc., a Franchise to Establish, Operate and Maintain Transport Services for the Carriage of Passengers, Mail, Goods and Property by Air, Both Domestic and International, with Cebu as its Base"
  },
@@ -201,5 +201,13 @@
     "en": "Effectivity – This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Cebu Air, Inc., a Franchise to Establish, Operate and Maintain Transport Services for the Carriage of Passengers, Mail, Goods and Property by Air, Both Domestic and International, with Cebu as its Base",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

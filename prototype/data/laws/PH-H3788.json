@@ -1,7 +1,7 @@
 {
  "id": "PH-H3788",
  "title": {
-  "zh": null,
+  "zh": "授予 Tayabas Ice Plant and Cold Storage 在奎松省 Tayabas 市镇建设、运营制冰厂与冷库并在该市镇及邻近市镇售冰及供应冷库的特许经营权法案",
   "en": "An Act Granting Tayabas Ice Plant and Cold Storage a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Tayabas, Province of Quezon, and to Sell Ice and to Supply Cold Storage Therein and in its Neighboring Municipalities",
   "orig": "An Act Granting Tayabas Ice Plant and Cold Storage a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Tayabas, Province of Quezon, and to Sell Ice and to Supply Cold Storage Therein and in its Neighboring Municipalities"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Tayabas Ice Plant and Cold Storage a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Tayabas, Province of Quezon, and to Sell Ice and to Supply Cold Storage Therein and in its Neighboring Municipalities",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

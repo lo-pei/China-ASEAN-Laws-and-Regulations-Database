@@ -1,7 +1,7 @@
 {
  "id": "PH-H2689",
  "title": {
-  "zh": null,
+  "zh": "规范核事故损害赔偿请求的提出、处理与清偿并为此拨款，并使菲律宾核研究反应堆等项目的设计、制造、承包与供应方免受核事故责任的法案",
   "en": "An Act to Regulate the Filing, Processing and Settlement of Damage Claims Resulting from Nuclear Incidents, to Appropriate Funds Therefor, and to Hold Harmless, Indemnify, and Defend the Designer, Manufacturer, Contractor and/or Supplier that Shall Undertake to Design, Manufacture, Furnish and/or Supply the Reactor Facility and Equipment for the Philippine Nuclear Research Reactor Project and Other Similar Projects from Liability Arising from Nuclear Incidents, and for Other Purposes",
   "orig": "An Act to Regulate the Filing, Processing and Settlement of Damage Claims Resulting from Nuclear Incidents, to Appropriate Funds Therefor, and to Hold Harmless, Indemnify, and Defend the Designer, Manufacturer, Contractor and/or Supplier that Shall Undertake to Design, Manufacture, Furnish and/or Supply the Reactor Facility and Equipment for the Philippine Nuclear Research Reactor Project and Other Similar Projects from Liability Arising from Nuclear Incidents, and for Other Purposes"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Regulate the Filing, Processing and Settlement of Damage Claims Resulting from Nuclear Incidents, to Appropriate Funds Therefor, and to Hold Harmless, Indemnify, and Defend the Designer, Manufacturer, Contractor and/or Supplier that Shall Undertake to Design, Manufacture, Furnish and/or Supply the Reactor Facility and Equipment for the Philippine Nuclear Research Reactor Project and Other Similar Projects from Liability Arising from Nuclear Incidents, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

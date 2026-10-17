@@ -1,7 +1,7 @@
 {
  "id": "PH-H245",
  "title": {
-  "zh": null,
+  "zh": "在特定条件下延长马尼拉市市政委员会授予 Charles M. Swift（后由 Manila Electric 公司接手）的电灯、热力与动力系统特许权期限的法案",
   "en": "An Act Extending Under Certain Conditions the Term of the Franchise Granted by the Municipal Board of the City of Manila to Charles M. Swift, and Later Taken Over by the Manila Electric Company, to Construct, Maintain, and Operate an Electric Light, Heat, and Power System in the City of Manila and its Suburbs",
   "orig": "An Act Extending Under Certain Conditions the Term of the Franchise Granted by the Municipal Board of the City of Manila to Charles M. Swift, and Later Taken Over by the Manila Electric Company, to Construct, Maintain, and Operate an Electric Light, Heat, and Power System in the City of Manila and its Suburbs"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending Under Certain Conditions the Term of the Franchise Granted by the Municipal Board of the City of Manila to Charles M. Swift, and Later Taken Over by the Manila Electric Company, to Construct, Maintain, and Operate an Electric Light, Heat, and Power System in the City of Manila and its Suburbs",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

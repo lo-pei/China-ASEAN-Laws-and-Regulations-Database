@@ -1,7 +1,7 @@
 {
  "id": "PH-H4746",
  "title": {
-  "zh": null,
+  "zh": "将Ifugao省初审法院法官的驻地由Ifugao省Kiangan市镇迁至同省Lagawe市镇，为此修订《1948年司法法》第52条的法案",
   "en": "An Act Transferring the Station of the Judge of the Court of First Instance of Ifugao from the Municipality of Kiangan, Province of Ifugao, to the Municipality of Lagawe, Same Province, Amending for the Purpose Section Fifty-Two of the Judiciary Act of 1948",
   "orig": "An Act Transferring the Station of the Judge of the Court of First Instance of Ifugao from the Municipality of Kiangan, Province of Ifugao, to the Municipality of Lagawe, Same Province, Amending for the Purpose Section Fifty-Two of the Judiciary Act of 1948"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: November 9, 1970."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring the Station of the Judge of the Court of First Instance of Ifugao from the Municipality of Kiangan, Province of Ifugao, to the Municipality of Lagawe, Same Province, Amending for the Purpose Section Fifty-Two of the Judiciary Act of 1948",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

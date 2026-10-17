@@ -1,7 +1,7 @@
 {
  "id": "PH-H10145",
  "title": {
-  "zh": null,
+  "zh": "将宿务省宿务市 Vicente Sotto 纪念医疗中心床位由一千二百（1,200）张增至一千五百（1,500）张并为其拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Vicente Sotto Memorial Medical Center, Located in Cebu City, Province of Cebu, From One Thousand Two Hundred (1,200) to One Thousand Five Hundred (1,500) Beds, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Vicente Sotto Memorial Medical Center, Located in Cebu City, Province of Cebu, From One Thousand Two Hundred (1,200) to One Thousand Five Hundred (1,500) Beds, and Appropriating Funds Therefor"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Vicente Sotto Memorial Medical Center, Located in Cebu City, Province of Cebu, From One Thousand Two Hundred (1,200) to One Thousand Five Hundred (1,500) Beds, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

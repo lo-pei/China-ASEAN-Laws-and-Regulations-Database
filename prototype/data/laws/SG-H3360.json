@@ -1,7 +1,7 @@
 {
  "id": "SG-H3360",
  "title": {
-  "zh": null,
+  "zh": "关于发布附属法例活页修订页（第 1/2001 期）的第 10(6) 与 17(6) 条公告",
   "en": "Notice under Sections 10(6) and 17(6) for the Issue of Revised Loose-leaf Pages of Subsidiary Legislation Issue 1/2001",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nCover page, 1–2, 3–4, 5–6A, 11–12, 13–14, 25–26, 47–48, 83–86A, 93–112A, 117–120A, 139–142A, 157–158, 169–172C, 261–262, 263–264A, 279–282, 287–290, 293–298F, 301–304A, 361–364, 389–390, 433–434G, 447–458, 459–460F, 479–482A, 489–494, 505–508, 513–514, 543–544, 659–660D, 664A–664B, 667–668, 677–680K, 683–684A."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Notice under Sections 10(6) and 17(6) for the Issue of Revised Loose-leaf Pages of Subsidiary Legislation Issue 1/2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1013",
  "title": {
-  "zh": null,
+  "zh": "货币法——纸币面额与特征",
   "en": "Currency Act — Denomination and Characteristics of Currency Note",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDenomination\nSize\nDesign\nPredominant and Secondary Colours\nFront\nBack\nFront\nBack\n$5\nLength — 133mm\nWidth– 66mm\nThe front design features the portrait of Singapore’s first President, the late Encik Yusof bin Ishak. The word “SINGAPORE” is printed on the bottom centre portion. There are 2 see-through windows — one on the upper left-hand corner and the other at the bottom right-hand corner. The complex clear window on the upper left-hand corner has a multi-tonal Singapore Arms. The clear window at the bottom right-hand corner is embossed with the numeral “5” in its centre, with repetitive pattern of the numeral “5” at the top and bottom of the window. The shadow image of the President’s portrait is on the left-hand side of the note. The denomination numeral “5” is located at the upper middle portion. The Singapore Lion symbol in gold patch with the words “FIVE DOLLARS” and the image of the Singapore Arms is located above the words “THIS NOTE IS LEGAL TENDER”. The signature and seal of Mr Goh Chok Tong, Chairman, Monetary Authority of Singapore, are below the words “FIVE DOLLARS”. The security thread in the shape of Singapore island is at the lower centre of the note. The Singapore Lion symbol is located at the left-hand side of the word “SINGAPORE”. One set of the asymmetrical serial number appears horizontal on the left-hand side while the other set appears vertical on the right-hand side. The Braille pattern is at the top right-hand corner.\nThe back design features a Garden City landscape dominated by the portrayal of the old tembusu tree (Fagraea fragrans). In the foreground of the design lies a bed of Singapore’s national flower, the Vanda Miss Joaquim. The word “SINGAPORE” is located at the top centre portion of the note. The Singapore Lion symbol is at the lower left of the shadow image of the President’s portrait and is in perfect registration with that on the front. The denomination numeral “5” is located at the top left-hand corner and to the left of the Singapore Lion symbol. The words “GARDEN CITY” are located below the picture of the tembusu tree. The 2 see-through windows located at the front of the note can also be seen from the back.\nPredominant Colour: Green\nSecondary Colours: Dark Green and Red\nPredominant Colour: Green\nSecondary Colours: Dark Green and Red\n(a) Front Design of the $5 Polymer Portrait Note.\n(b) Back Design of the $5 Polymer Portrait Note.\nActual size: 133 mm x 66 mm"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency Act — Denomination and Characteristics of Currency Note",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

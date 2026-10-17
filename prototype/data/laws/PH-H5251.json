@@ -1,7 +1,7 @@
 {
  "id": "PH-H5251",
  "title": {
-  "zh": null,
+  "zh": "将莱特省Babatngon的Malibago描笼涯中学的名称正式变更为Malibago国立中学的法案",
   "en": "An Act Changing the Name of the Malibago Barangay High School in Babatngon, Leyte to Malibago National High School",
   "orig": "An Act Changing the Name of the Malibago Barangay High School in Babatngon, Leyte to Malibago National High School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Malibago Barangay High School in Babatngon, Leyte to Malibago National High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

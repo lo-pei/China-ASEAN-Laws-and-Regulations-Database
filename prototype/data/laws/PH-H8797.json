@@ -1,7 +1,7 @@
 {
  "id": "PH-H8797",
  "title": {
-  "zh": null,
+  "zh": "处罚未经授权取走、窃取、保管或篡改政府减灾与备灾设备、配件及类似设施行为的法案",
   "en": "An Act Penalizing the Unauthorized Taking, Stealing, Keeping or Tampering of Government Risk Reduction and Preparedness Equipment, Accessories and Similar Facilities",
   "orig": "An Act Penalizing the Unauthorized Taking, Stealing, Keeping or Tampering of Government Risk Reduction and Preparedness Equipment, Accessories and Similar Facilities"
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Penalizing the Unauthorized Taking, Stealing, Keeping or Tampering of Government Risk Reduction and Preparedness Equipment, Accessories and Similar Facilities",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

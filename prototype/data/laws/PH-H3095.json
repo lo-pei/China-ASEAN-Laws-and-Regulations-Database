@@ -1,7 +1,7 @@
 {
  "id": "PH-H3095",
  "title": {
-  "zh": null,
+  "zh": "授予 Ricardo Ongluico 在南苏里高省 Carrascal 等四个市镇建设、运营制冰厂并在该地销售冰的特许权法案",
   "en": "An Act Granting Ricardo Ongluico a Franchise to Construct, Operate and Maintain an Ice Plant in Each of the Municipalities of Carrascal, Cantilan, Madrid and Lanuza, All in the Province of Surigao del Sur, and to Sell Ice Therein",
   "orig": "An Act Granting Ricardo Ongluico a Franchise to Construct, Operate and Maintain an Ice Plant in Each of the Municipalities of Carrascal, Cantilan, Madrid and Lanuza, All in the Province of Surigao del Sur, and to Sell Ice Therein"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Ricardo Ongluico a Franchise to Construct, Operate and Maintain an Ice Plant in Each of the Municipalities of Carrascal, Cantilan, Madrid and Lanuza, All in the Province of Surigao del Sur, and to Sell Ice Therein",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

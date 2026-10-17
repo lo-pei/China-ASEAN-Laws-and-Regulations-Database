@@ -1,7 +1,7 @@
 {
  "id": "PH-H5254",
  "title": {
-  "zh": null,
+  "zh": "1989 年薪酬与职位分类法",
   "en": "Compensation and Position Classification Act of 1989",
   "orig": "Compensation and Position Classification Act of 1989 An Act Prescribing a Revised Compensation and Position Classification System in the Government and for other purposes"
  },
@@ -270,5 +270,13 @@
     "en": "Effectivity. - This Act shall take effect July 1, 1989. The DBM shall, within sixty (60) days after its approval, allocate all positions in their appropriate position titles and salary grades and prepare and issue the necessary guidelines to implement the same."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Compensation and Position Classification Act of 1989",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

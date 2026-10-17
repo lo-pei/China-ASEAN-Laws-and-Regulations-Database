@@ -1,7 +1,7 @@
 {
  "id": "PH-H1571",
  "title": {
-  "zh": null,
+  "zh": "将马斯巴特省阿罗罗伊市镇索米尔村更名为康塞普西翁村的法案",
   "en": "An Act Changing the Name of the Barrio of Sawmill, Municipality of Aroroy, Province of Masbate, to Concepcion",
   "orig": "An Act Changing the Name of the Barrio of Sawmill, Municipality of Aroroy, Province of Masbate, to Concepcion"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Barrio of Sawmill, Municipality of Aroroy, Province of Masbate, to Concepcion",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

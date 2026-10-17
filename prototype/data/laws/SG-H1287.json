@@ -1,7 +1,7 @@
 {
  "id": "SG-H1287",
  "title": {
-  "zh": null,
+  "zh": "濒危物种（进出口）（人工繁殖植物——豁免）命令 2022",
   "en": "Endangered Species (Import and Export) (Artificially Propagated Plant — Exemption) Order 2022",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The Endangered Species (Import and Export) (Exemption from Section 4(1)) Order (O 1) is revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Endangered Species (Import and Export) (Artificially Propagated Plant — Exemption) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

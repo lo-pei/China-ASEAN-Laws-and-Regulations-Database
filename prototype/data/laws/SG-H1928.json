@@ -1,7 +1,7 @@
 {
  "id": "SG-H1928",
  "title": {
-  "zh": null,
+  "zh": "所得税（Asia Liberty 私人有限公司等——第 13(4) 条豁免）公告 2022",
   "en": "Income Tax (Asia Liberty Pte. Ltd., etc. — Section 13(4) Exemption) Notification 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The arrangement fee of USD 468,000 paid on 26 February 2021 by Asia Liberty Pte. Ltd. and Asia Inspire Pte. Ltd. to Credit Suisse AG for a loan granted under a loan agreement dated 24 February 2021 to refinance the acquisition of 2 Singapore‑flagged vessels “Asia Liberty” and “Asia Inspire” is exempt from tax.\n(2) The exemption under sub‑paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 25 February 2022 issued by the Ministry of Finance and addressed to Asia Liberty Pte. Ltd. and Asia Inspire Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Asia Liberty Pte. Ltd., etc. — Section 13(4) Exemption) Notification 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

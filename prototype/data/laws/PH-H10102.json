@@ -1,7 +1,7 @@
 {
  "id": "PH-H10102",
  "title": {
-  "zh": null,
+  "zh": "将依第 8675 号共和国法授予 Mati 电话公司在东达沃省建设、运营和维护本地交换网络的特许经营权再续展二十五年的法案",
   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Mati Telephone Corporation Under Republic Act No.8675, Entitled \"An Act Granting the Mati Telephone Corporation a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Province of Davao Oriental\"",
   "orig": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Mati Telephone Corporation Under Republic Act No.8675, Entitled \"An Act Granting the Mati Telephone Corporation a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Province of Davao Oriental\""
  },
@@ -240,5 +240,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Mati Telephone Corporation Under Republic Act No.8675, Entitled \"An Act Granting the Mati Telephone Corporation a Franchise to Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Province of Davao Oriental\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

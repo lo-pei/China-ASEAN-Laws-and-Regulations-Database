@@ -1,7 +1,7 @@
 {
  "id": "PH-H4893",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 7 月 1 日为东达沃、南达沃与北达沃省的公共假日的法案",
   "en": "An Act Declaring July First of Each Year as a Public Holiday in the Provinces of Davao Oriental, Davao Del Sur, and Davao Del Norte.",
   "orig": "An Act Declaring July First of Each Year as a Public Holiday in the Provinces of Davao Oriental, Davao Del Sur, and Davao Del Norte."
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 16, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring July First of Each Year as a Public Holiday in the Provinces of Davao Oriental, Davao Del Sur, and Davao Del Norte.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

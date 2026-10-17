@@ -1,7 +1,7 @@
 {
  "id": "SG-H565",
  "title": {
-  "zh": null,
+  "zh": "慈善（本地与外国慈善目的筹款呼吁）条例 2012",
   "en": "Charities (Fund-raising Appeals for Local and Foreign Charitable Purposes) Regulations 2012",
   "orig": null
  },
@@ -640,5 +640,13 @@
     "en": "30.—(1) [Deleted by S 13/2021 wef 08/01/2021]\n(2) [Deleted by S 13/2021 wef 08/01/2021]\n(3) [Deleted by S 13/2021 wef 08/01/2021]\n(4) These Regulations shall not apply to any inquiry, investigation or other proceeding commenced before 1st November 2012 and the revoked Charities (Fund-Raising Appeals) Regulations or the Charities (Fund-raising Appeals for Foreign Charitable Purposes) Regulations shall continue to apply to that inquiry, investigation or proceeding as if these Regulations had not been enacted.\n(5) [Deleted by S 13/2021 wef 08/01/2021]\n(6) [Deleted by S 13/2021 wef 08/01/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Charities (Fund-raising Appeals for Local and Foreign Charitable Purposes) Regulations 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

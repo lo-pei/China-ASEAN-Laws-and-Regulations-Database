@@ -1,7 +1,7 @@
 {
  "id": "SG-H3625",
  "title": {
-  "zh": null,
+  "zh": "橡胶业法 1992",
   "en": "Rubber Industry Act 1992",
   "orig": null
  },
@@ -402,5 +402,13 @@
     "en": "28. The Board may, with the approval of the Minister, if it considers it to be in the public interest and not inconsistent with the purposes of this Act, exempt any person from all or any of the provisions of this Act and may revoke any such exemption."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Rubber Industry Act 1992",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

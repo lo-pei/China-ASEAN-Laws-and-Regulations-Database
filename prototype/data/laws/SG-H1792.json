@@ -1,7 +1,7 @@
 {
  "id": "SG-H1792",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（改善缴款逾期利息与罚款）规则",
   "en": "Housing and Development (Interest and Penalties for Late Payment of Improvement Contributions) Rules",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9. All acts done and all penalties and interest imposed before 15th October 2005 under the revoked Housing and Development (Interest and Penalties for Late Payment of Improvement Contribution) Rules (R 8, 1996 Ed.) shall continue to have effect and be deemed to have been done and imposed under these Rules.\n[G.N. Nos. S 660/2005; S726/2007; S 214/2008]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Housing and Development (Interest and Penalties for Late Payment of Improvement Contributions) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

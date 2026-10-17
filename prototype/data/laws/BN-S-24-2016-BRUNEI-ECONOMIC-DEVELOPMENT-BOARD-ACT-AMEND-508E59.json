@@ -1,7 +1,7 @@
 {
  "id": "BN-S-24-2016-BRUNEI-ECONOMIC-DEVELOPMENT-BOARD-ACT-AMEND-508E59",
  "title": {
-  "zh": null,
+  "zh": "文莱经济发展局法修正命令 2016",
   "en": "BRUNEI ECONOMIC DEVELOPMENT BOARD ACT AMENDMENT ORDER 2016",
   "orig": null
  },
@@ -66,5 +66,13 @@
     "en": "of the Brunei Economic Development Board Act is amended, in\n\n(l){c}, by deleting \"Ministry of Industry and Primary Resources\" from the third line and by substituting \"Energy and Industry Department in the Office of the Prime Minister\" therefor. · Made this 12th. day of Rejab, 1437 Hijriah corresponding to the of April, 2016 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicelak oleh Jabatan Percelakan Kerajaan, Bandar Seri Begawan BB3510. Negara Brunei Darussalam. B$5.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI ECONOMIC DEVELOPMENT BOARD ACT AMENDMENT ORDER 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

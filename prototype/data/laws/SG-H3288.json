@@ -1,7 +1,7 @@
 {
  "id": "SG-H3288",
  "title": {
-  "zh": null,
+  "zh": "刑事事项互助（美利坚合众国）命令",
   "en": "Mutual Assistance in Criminal Matters (United States of America) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The United States of America is hereby declared as a prescribed foreign country for the purposes of Part III of the Act.\n(2) Assistance under sections 22, 26, 29 and 33 of the Act may only be provided to the United States of America for a criminal matter in respect of an offence against the corresponding drug law of the United States of America."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Mutual Assistance in Criminal Matters (United States of America) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

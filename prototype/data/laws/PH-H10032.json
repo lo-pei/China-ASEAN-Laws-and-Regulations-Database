@@ -1,7 +1,7 @@
 {
  "id": "PH-H10032",
  "title": {
-  "zh": null,
+  "zh": "规定修建自北拉瑙省Tagoloan市镇至布基农省Talakag市镇的国家公路，名称为穆斯林-基督教团结公路并为此拨款的法案",
   "en": "An Act Providing for the Construction of a National Highway From Lanao Del Norte Interior Circumferential Road in the Municipality of Tagoloan, Province of Lanao Del Norte to the Municipality of Talakag, Province of Bukidnon, With a Crossroad At Barangay Malimbato, Municipality of Tagoloan, Province of Lanao Del Norte and Connecting Roads to the National Highway in Iligan City Through Barangay Pugaan, Iligan City and to the National Highway in Marawi City Through the Municipality of Kapai, Province of Lanao Del Sur, to Be Known as the Muslim-Christian Unity Highway and Appropriating Funds Therefor",
   "orig": "An Act Providing for the Construction of a National Highway From Lanao Del Norte Interior Circumferential Road in the Municipality of Tagoloan, Province of Lanao Del Norte to the Municipality of Talakag, Province of Bukidnon, With a Crossroad At Barangay Malimbato, Municipality of Tagoloan, Province of Lanao Del Norte and Connecting Roads to the National Highway in Iligan City Through Barangay Pugaan, Iligan City and to the National Highway in Marawi City Through the Municipality of Kapai, Province of Lanao Del Sur, to Be Known as the Muslim-Christian Unity Highway and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Construction of a National Highway From Lanao Del Norte Interior Circumferential Road in the Municipality of Tagoloan, Province of Lanao Del Norte to the Municipality of Talakag, Province of Bukidnon, With a Crossroad At Barangay Malimbato, Municipality of Tagoloan, Province of Lanao Del Norte and Connecting Roads to the National Highway in Iligan City Through Barangay Pugaan, Iligan City and to the National Highway in Marawi City Through the Municipality of Kapai, Province of Lanao Del Sur, to Be Known as the Muslim-Christian Unity Highway and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

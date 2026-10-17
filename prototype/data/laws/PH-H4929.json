@@ -1,7 +1,7 @@
 {
  "id": "PH-H4929",
  "title": {
-  "zh": null,
+  "zh": "修订第 4652 号共和国法（即授予 Philippine Monorail Transit System 公司在马尼拉与宿务经营单轨运输服务特许权的法案）第 3 条与第 7 条",
   "en": "An Act Amending Sections Three and Seven of Republic Act Numbered Forty-Six Hundred Fifty-Two, Entitled \"An Act Granting the Philippine Monorail Transit System, Incorporated a Franchise to Establish, Maintain and Operate a Monorail Transportation Service in the City of Manila and Suburbs and Cebu City and Province.\"",
   "orig": "An Act Amending Sections Three and Seven of Republic Act Numbered Forty-Six Hundred Fifty-Two, Entitled \"An Act Granting the Philippine Monorail Transit System, Incorporated a Franchise to Establish, Maintain and Operate a Monorail Transportation Service in the City of Manila and Suburbs and Cebu City and Province.\""
  },
@@ -82,14 +82,15 @@
    }
   },
   {
-   "id": "PH-H4929-A3_2",
+   "id": "PH-H4929-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "Any provision of law to the contrary notwithstanding, the franchise shall be limited to the City of Manila and suburbs and shall exclude Cebu City and province."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4929-A4",
@@ -101,5 +102,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without executive approval, October 4, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Sections Three and Seven of Republic Act Numbered Forty-Six Hundred Fifty-Two, Entitled \"An Act Granting the Philippine Monorail Transit System, Incorporated a Franchise to Establish, Maintain and Operate a Monorail Transportation Service in the City of Manila and Suburbs and Cebu City and Province.\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

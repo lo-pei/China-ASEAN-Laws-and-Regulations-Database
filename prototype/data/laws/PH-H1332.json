@@ -1,7 +1,7 @@
 {
  "id": "PH-H1332",
  "title": {
-  "zh": null,
+  "zh": "将黎刹省Malabon市镇的San Marcelo小村改设为该市镇名为Acacia村的村，并使其与该市镇Tugatog村分离的法案",
   "en": "An Act to Convert the Sitio of San Marcelo, Municipality of Malabon, Province of Rizal, into a Barrio to be Known as Barrio Acacia of the Same Municipality and Separating it from the Barrio of Tugatog of the Same Municipality",
   "orig": "An Act to Convert the Sitio of San Marcelo, Municipality of Malabon, Province of Rizal, into a Barrio to be Known as Barrio Acacia of the Same Municipality and Separating it from the Barrio of Tugatog of the Same Municipality"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Sitio of San Marcelo, Municipality of Malabon, Province of Rizal, into a Barrio to be Known as Barrio Acacia of the Same Municipality and Separating it from the Barrio of Tugatog of the Same Municipality",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

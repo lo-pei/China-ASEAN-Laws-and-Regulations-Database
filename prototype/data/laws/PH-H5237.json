@@ -1,7 +1,7 @@
 {
  "id": "PH-H5237",
  "title": {
-  "zh": null,
+  "zh": "宣布每年8月19日为全菲律宾特别工作假日，并在奎松省、奥罗拉省与奎松市为特别非工作公共假日，以纪念前总统Manuel L. Quezon诞辰的法案",
   "en": "An Act Declaring August Nineteen of Each Year a Special Working Holiday Throughout the Entire Philippines and a Special Non-working Public Holiday in the Provinces of Quezon and Aurora and Quezon City, to Commemorate the Birth Anniversary of Former President Manuel L. Quezon",
   "orig": "An Act Declaring August Nineteen of Each Year a Special Working Holiday Throughout the Entire Philippines and a Special Non-working Public Holiday in the Provinces of Quezon and Aurora and Quezon City, to Commemorate the Birth Anniversary of Former President Manuel L. Quezon"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring August Nineteen of Each Year a Special Working Holiday Throughout the Entire Philippines and a Special Non-working Public Holiday in the Provinces of Quezon and Aurora and Quezon City, to Commemorate the Birth Anniversary of Former President Manuel L. Quezon",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

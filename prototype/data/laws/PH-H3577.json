@@ -1,7 +1,7 @@
 {
  "id": "PH-H3577",
  "title": {
-  "zh": null,
+  "zh": "修订第542号联邦法（即设立名称为菲律宾女童子军的公司并界定其权力与宗旨的法案）的法案",
   "en": "An Act Amending Commonwealth Act Numbered Five Hundred Forty-Two Entitled \"An Act to Create a Corporation to be Known as the Girl Scouts of the Philippines, and to Define its Powers and Purposes\"",
   "orig": "An Act Amending Commonwealth Act Numbered Five Hundred Forty-Two Entitled \"An Act to Create a Corporation to be Known as the Girl Scouts of the Philippines, and to Define its Powers and Purposes\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Commonwealth Act Numbered Five Hundred Forty-Two Entitled \"An Act to Create a Corporation to be Known as the Girl Scouts of the Philippines, and to Define its Powers and Purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

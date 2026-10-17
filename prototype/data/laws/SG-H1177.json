@@ -1,7 +1,7 @@
 {
  "id": "SG-H1177",
  "title": {
-  "zh": null,
+  "zh": "外交与领事关系（多边投资担保机构）命令 2020",
   "en": "Diplomatic and Consular Relations (Multilateral Investment Guarantee Agency) Order 2020",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) In addition to its immunities and privileges under the International Organisations (Immunities and Privileges) (Multilateral Investment Guarantee Agency) Order 2002, MIGA enjoys the same freedom of communication as that enjoyed by a diplomatic mission under Article 27 of the Vienna Convention on Diplomatic Relations, and for this purpose —\n(a)a reference to a mission in that Article is a reference to MIGA;\n(b)a reference to a diplomatic courier or a diplomatic bag in that Article is a reference to a courier employed or engaged by MIGA or a bag used by MIGA (as the case may be) to send and receive the official correspondence of MIGA;\n(c)a reference to diplomatic documents in that Article is a reference to the official documents of MIGA; and\n(d)a reference to a member of a mission is a reference to a member of the staff of MIGA.\n(2) Any immunity or privilege under sub‑paragraph (1) may be waived by MIGA to such extent and upon such conditions as MIGA may determine, except where the waiver prejudices the interests of MIGA."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Diplomatic and Consular Relations (Multilateral Investment Guarantee Agency) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

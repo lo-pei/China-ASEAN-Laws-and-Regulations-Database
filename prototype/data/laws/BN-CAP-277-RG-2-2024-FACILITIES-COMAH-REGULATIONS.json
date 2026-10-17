@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-277-RG-2-2024-FACILITIES-COMAH-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG 2 2024 版设施重大事故危害（COMAH）条例",
   "en": "RG 2 2024 ED FACILITIES COMAH REGULATIONS",
   "orig": null
  },
@@ -464,5 +464,13 @@
     "en": "(1) The competent authority shall charge fees prescribed in Schedule 8 in relation to the issuance of Safety Case Certificates, notifications, inspections and investigations undertaken by the competent authority on facilities.\n\n(2) Fees shall be payable by the duty holder to the competent authority and are not refundable. SCHEDULE 1 [S 28/2017] (regulation 11(1))\n\nPARTICULARS IN DESIGN AND RELOCATION NOTIFICATION\n\nFOR FIXED FACILITY Duty holder"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 2 2024 ED FACILITIES COMAH REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

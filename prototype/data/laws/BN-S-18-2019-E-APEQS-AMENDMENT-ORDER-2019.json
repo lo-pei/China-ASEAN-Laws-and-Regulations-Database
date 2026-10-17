@@ -1,7 +1,7 @@
 {
  "id": "BN-S-18-2019-E-APEQS-AMENDMENT-ORDER-2019",
  "title": {
-  "zh": null,
+  "zh": "2019 年度 APEQS 修正命令",
   "en": "APEQS AMENDMENT ORDER 2019",
   "orig": null
  },
@@ -115,5 +115,13 @@
     "en": "(1) A registered building draughtsman whose name has been removed from the register pursuant to this Order shall, if his appeal to the Minister is allowed, be forthwith reinstated without payment of any fee, and the Registrar shall issue a certificate of registration to him.\n\n(2) A registered building draughtsman whose name has been removed from the register pursuant to this Order and who has not appealed against that order or whose appeal has been dismissed may after the expiration of not less than 3 years from the date of the order of cancellation or from the date of the decision of the appeal apply for reinstatement.\n\n(3) The Board shall, on receipt of satisfactory evidence of proper reasons for his reinstatement and on reimbursement to it of all expenditure incurred by it arising out of the proceedings leading to the cancellation of his registration and on payment of a fee of $100, issue a certificate of registration to him. Certificate of registration to be returned 50J. A registered building draughtsman whose name has been removed from the register pursuant to this Order shall, within 14 days after notification to him by registered post of the removal, surrender to the Board the certificate of registration issued to him under this Part.\". Made this 16th. day of Syawal, 1440 Hijriah corresponding to the 19th. day of June, 2019 at Our Istana Nurul Iman, Bandar Seri Begawan.\n\nTHE SULTAN AND YANG DI-PERTUAN, BRUNEI DARUSSALAM. Dicetak oleh Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "APEQS AMENDMENT ORDER 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

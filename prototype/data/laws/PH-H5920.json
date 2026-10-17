@@ -1,7 +1,7 @@
 {
  "id": "PH-H5920",
  "title": {
-  "zh": null,
+  "zh": "将奥罗拉省Baler市镇Aurora纪念医院由25张床位的区医院扩建升级为100张床位的省立医院，名称为Aurora省立医院，并为此拨款",
   "en": "An Act Expanding and Upgrading the Aurora Memorial Hospital in the Municipality of Baler, Province of Aurora, From A Twenty-five-bed Capacity District Hospital Into A One Hundred-bed Capacity Provincial Hospital, To Be Known As the Aurora Provincial Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Expanding and Upgrading the Aurora Memorial Hospital in the Municipality of Baler, Province of Aurora, From A Twenty-five-bed Capacity District Hospital Into A One Hundred-bed Capacity Provincial Hospital, To Be Known As the Aurora Provincial Hospital, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Expanding and Upgrading the Aurora Memorial Hospital in the Municipality of Baler, Province of Aurora, From A Twenty-five-bed Capacity District Hospital Into A One Hundred-bed Capacity Provincial Hospital, To Be Known As the Aurora Provincial Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

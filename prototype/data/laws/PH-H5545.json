@@ -1,7 +1,7 @@
 {
  "id": "PH-H5545",
  "title": {
-  "zh": null,
+  "zh": "规定 1992 年全国与地方选举、为自 1995 年起同步同时举行选举铺路并授权为此拨款的法案",
   "en": "An Act Providing for the National and Local Elections in 1992, Paving the Way for Synchronized and Simultaneous Elections Beginning 1995, and Authorizing Appropriations Therefor",
   "orig": "An Act Providing for the National and Local Elections in 1992, Paving the Way for Synchronized and Simultaneous Elections Beginning 1995, and Authorizing Appropriations Therefor"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon the publication of its official text, as approved by the President, twice in two (2) newspapers of general circulation.\nApproved, June 20, 1991."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the National and Local Elections in 1992, Paving the Way for Synchronized and Simultaneous Elections Beginning 1995, and Authorizing Appropriations Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

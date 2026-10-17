@@ -1,7 +1,7 @@
 {
  "id": "PH-H145",
  "title": {
-  "zh": null,
+  "zh": "修订第3961号法（即《规定为商业、工业与农业企业的雇员与劳动者提供免费急诊医疗，在特定情形下对违反者规定处罚并为其他目的法案》）的法案",
   "en": "An Act to Amend Act Numbered Thirty-Nine Hundred and Sixty-One, Entitled, \"An Act to Provide Free Emergency Medical Treatment for Employees and Laborers of Commercial, Industrial, and Agricultural Establishments, in Certain Cases Provide Penalties for the Violation Hereof, and for Other Purposes\"",
   "orig": "An Act to Amend Act Numbered Thirty-Nine Hundred and Sixty-One, Entitled, \"An Act to Provide Free Emergency Medical Treatment for Employees and Laborers of Commercial, Industrial, and Agricultural Establishments, in Certain Cases Provide Penalties for the Violation Hereof, and for Other Purposes\""
  },
@@ -62,5 +62,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: October 3, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Act Numbered Thirty-Nine Hundred and Sixty-One, Entitled, \"An Act to Provide Free Emergency Medical Treatment for Employees and Laborers of Commercial, Industrial, and Agricultural Establishments, in Certain Cases Provide Penalties for the Violation Hereof, and for Other Purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

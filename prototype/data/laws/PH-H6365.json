@@ -1,7 +1,7 @@
 {
  "id": "PH-H6365",
  "title": {
-  "zh": null,
+  "zh": "推动菲律宾角膜移植，为此修订第 7170 号共和国法（即 1991 年《器官捐赠法》）的法案",
   "en": "An Act to Advance Corneal Transplantation in the Philippines, Amending for the Purpose Republic Act Numbered Seven Thousand One Hundred and Seventy (R. A. No. 7170), Otherwise Known as the Organ Donation Act of 1991",
   "orig": "An Act to Advance Corneal Transplantation in the Philippines, Amending for the Purpose Republic Act Numbered Seven Thousand One Hundred and Seventy (R. A. No. 7170), Otherwise Known as the Organ Donation Act of 1991"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Advance Corneal Transplantation in the Philippines, Amending for the Purpose Republic Act Numbered Seven Thousand One Hundred and Seventy (R. A. No. 7170), Otherwise Known as the Organ Donation Act of 1991",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

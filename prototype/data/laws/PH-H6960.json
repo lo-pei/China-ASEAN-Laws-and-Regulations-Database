@@ -1,7 +1,7 @@
 {
  "id": "PH-H6960",
  "title": {
-  "zh": null,
+  "zh": "1998 年棉花产业发展法",
   "en": "Cotton Industry Development Law of 1998",
   "orig": "Cotton Industry Development Law of 1998 An Act Merging the Philippine Cotton Corporation and the Cotton Research and Development Institute into a Cotton Development Administration, Vesting it with Regulatory Powers and Appropriating Funds for the purpose"
  },
@@ -240,5 +240,13 @@
     "en": "Effectivity clause. – This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Cotton Industry Development Law of 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

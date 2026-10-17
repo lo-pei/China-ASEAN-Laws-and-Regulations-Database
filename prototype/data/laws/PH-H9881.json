@@ -1,7 +1,7 @@
 {
  "id": "PH-H9881",
  "title": {
-  "zh": null,
+  "zh": "通过设立和管理跨国高等教育扩大教育服务获取，并为此拨款的法案",
   "en": "An Act Expanding Access to Educational Services Through the Establishment and Administration of Transnational Higher Education, and Appropriating Funds Therefor",
   "orig": "An Act Expanding Access to Educational Services Through the Establishment and Administration of Transnational Higher Education, and Appropriating Funds Therefor"
  },
@@ -300,5 +300,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Expanding Access to Educational Services Through the Establishment and Administration of Transnational Higher Education, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

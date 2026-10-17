@@ -1,7 +1,7 @@
 {
  "id": "PH-H10604",
  "title": {
-  "zh": null,
+  "zh": "卡蒂普南之母",
   "en": "Mother of the Katipunan",
   "orig": "An Act Declaring January 6 of Every Year a Special Working Holiday in Quezon City, to Be Known as “Tandang Sora Day”, in Commemoration of the Birth Anniversary of Melchora Aquino, Also Known in Philippine History as the “Mother of the Katipunan”"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Mother of the Katipunan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

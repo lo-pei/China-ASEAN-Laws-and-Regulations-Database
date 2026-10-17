@@ -1,7 +1,7 @@
 {
  "id": "SG-H814",
  "title": {
-  "zh": null,
+  "zh": "消费者保护（公平交易）（机动车经销商定金）条例 2009",
   "en": "Consumer Protection (Fair Trading) (Motor Vehicle Dealer Deposits) Regulations 2009",
   "orig": null
  },
@@ -103,5 +103,11 @@
     "en": "5. Section 41 of the Act applies to the requirements mentioned in regulations 3(1) and 4 so that the motor vehicle dealer bears the burden of proving that the motor vehicle dealer has complied with those requirements where any dispute arises thereto in any proceedings between the motor vehicle dealer and a consumer in relation to a consumer transaction."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Consumer Protection (Fair Trading) (Motor Vehicle Dealer Deposits) Regulations 2009",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

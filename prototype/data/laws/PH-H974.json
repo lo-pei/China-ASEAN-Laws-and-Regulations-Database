@@ -1,7 +1,7 @@
 {
  "id": "PH-H974",
  "title": {
-  "zh": null,
+  "zh": "拨款支付1955年国际民用航空组织在马尼拉召开第二次北太平洋区域空中航行会议及国际航空运输便利化司第四次会议费用的法案",
   "en": "An Act to Appropriate Funds to Bear the Expenses of Holding the Second North Pacific Regional Air Navigation Meeting and the Fourth Session of the Facilitation of International Air Transport Division Meeting to be Convened by the International Civil Aviation Organization at Manila in Nineteen Hundred and Fifty-Five",
   "orig": "An Act to Appropriate Funds to Bear the Expenses of Holding the Second North Pacific Regional Air Navigation Meeting and the Fourth Session of the Facilitation of International Air Transport Division Meeting to be Convened by the International Civil Aviation Organization at Manila in Nineteen Hundred and Fifty-Five"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Appropriate Funds to Bear the Expenses of Holding the Second North Pacific Regional Air Navigation Meeting and the Fourth Session of the Facilitation of International Air Transport Division Meeting to be Convened by the International Civil Aviation Organization at Manila in Nineteen Hundred and Fifty-Five",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

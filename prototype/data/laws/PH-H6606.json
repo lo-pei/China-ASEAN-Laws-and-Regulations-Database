@@ -1,7 +1,7 @@
 {
  "id": "PH-H6606",
  "title": {
-  "zh": null,
+  "zh": "授予 Servotron Industries, Inc. 在国家首都区建设、维护和运营广播与电视站的特许经营权法案",
   "en": "An Act Granting Servotron Industries, Inc., a Franchise to Construct, Maintain and Operate Stations for Radio and Television Broadcasting in the National Capital Region (NCR)",
   "orig": "An Act Granting Servotron Industries, Inc., a Franchise to Construct, Maintain and Operate Stations for Radio and Television Broadcasting in the National Capital Region (NCR)"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of national circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Servotron Industries, Inc., a Franchise to Construct, Maintain and Operate Stations for Radio and Television Broadcasting in the National Capital Region (NCR)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

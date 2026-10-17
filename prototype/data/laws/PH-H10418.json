@@ -1,7 +1,7 @@
 {
  "id": "PH-H10418",
  "title": {
-  "zh": null,
+  "zh": "振兴并强化自力更生防御态势计划、据此促进国家国防工业发展并为此拨款的法案",
   "en": "An Act Revitalizing and strengthening the Self-Reliant Defense Posture Program and Promoting the Development of a National Defense Industry Pursuant thereto and Providing Funds therefor",
   "orig": "An Act Revitalizing and strengthening the Self-Reliant Defense Posture Program and Promoting the Development of a National Defense Industry Pursuant thereto and Providing Funds therefor"
  },
@@ -330,5 +330,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Revitalizing and strengthening the Self-Reliant Defense Posture Program and Promoting the Development of a National Defense Industry Pursuant thereto and Providing Funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H829",
  "title": {
-  "zh": null,
+  "zh": "植物管制（新鲜水果与蔬菜的进口与转运）规则",
   "en": "Control of Plants (Import and Transhipment of Fresh Fruits and Vegetables) Rules",
   "orig": null
  },
@@ -230,5 +230,13 @@
     "en": "THE SCHEDULE\nRule 14\nFirst column\nSecond column\n1.For the issue or renewal of a licence\n$378 per year\n2.For the issue of a permit\n$3\n3.For a certified true copy of a licence or permit\n$9.45"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Control of Plants (Import and Transhipment of Fresh Fruits and Vegetables) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

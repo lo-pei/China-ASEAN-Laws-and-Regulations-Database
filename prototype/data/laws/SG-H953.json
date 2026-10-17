@@ -1,7 +1,7 @@
 {
  "id": "SG-H953",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典 2010",
   "en": "Criminal Procedure Code 2010",
   "orig": null
  },
@@ -6932,5 +6932,13 @@
     "en": "SEVENTH SCHEDULE\nSection 304B\nOffences in respect of which sentences for\nenhanced public protection may be imposed\n1. Any offence under section 304(a) or (b), 304B(1), 304C(1), 307, 308, 326, 354A(1) or (2), 375(2) or (3), 376(3) or (4), 376A(2)(a) or (3), 376AA or 376F(3) of the Penal Code 1871.\n2. Any offence under section 325, 329, 331 or 333 of the Penal Code 1871, where the grievous hurt caused is of a type mentioned in section 320(a) to (f) or (i) of that Act.\n3. Any offence under section 325 read with section 73, 74A, 74B, 74C or 74D of the Penal Code 1871.\n4. Any offence under section 376(1) or (2) of the Penal Code (as in force immediately before 1 February 2008).\n5. Any offence under section 377 of the Penal Code (as in force immediately before 1 February 2008), excluding any offence where the carnal intercourse against the order of nature takes place in private between 2 individuals above 16 years of age, both of whom consent to the act of carnal intercourse.\n6. Attempts to carry out, abetting or being party to a criminal conspiracy to carry out any offence mentioned in paragraph 1, 2, 3, 4 or 5.\n[Act 5 of 2024 wef 31/07/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Criminal Procedure Code 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

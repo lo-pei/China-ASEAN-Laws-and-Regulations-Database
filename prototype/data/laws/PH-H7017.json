@@ -1,7 +1,7 @@
 {
  "id": "PH-H7017",
  "title": {
-  "zh": null,
+  "zh": "将南伊罗戈省第二选区南伊罗戈理工学院提升改设为国立学院，名称为南伊罗戈理工国立学院，并为此拨款的法案",
   "en": "An Act Upgrading/Converting the Ilocos Sur Polytechnic College in the Second District of Ilocos Sur Into a State College to Be Known as the Ilocos Sur Polytechnic State College, and Appropriating Funds Therefor",
   "orig": "An Act Upgrading/Converting the Ilocos Sur Polytechnic College in the Second District of Ilocos Sur Into a State College to Be Known as the Ilocos Sur Polytechnic State College, and Appropriating Funds Therefor"
  },
@@ -300,5 +300,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading/Converting the Ilocos Sur Polytechnic College in the Second District of Ilocos Sur Into a State College to Be Known as the Ilocos Sur Polytechnic State College, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

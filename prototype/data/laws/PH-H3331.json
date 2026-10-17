@@ -1,7 +1,7 @@
 {
  "id": "PH-H3331",
  "title": {
-  "zh": null,
+  "zh": "修订第3478号共和国法，将除马尼拉市与奎松市以外的所有公立中学纳入受益范围的法案",
   "en": "An Act Amending Republic Act Numbered Thirty-Four Hundred Seventy-Eight so as to Include All Public High Schools Except Those in the City of Manila and Quezon City Among Those to Benefit from It",
   "orig": "An Act Amending Republic Act Numbered Thirty-Four Hundred Seventy-Eight so as to Include All Public High Schools Except Those in the City of Manila and Quezon City Among Those to Benefit from It"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Thirty-Four Hundred Seventy-Eight so as to Include All Public High Schools Except Those in the City of Manila and Quezon City Among Those to Benefit from It",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

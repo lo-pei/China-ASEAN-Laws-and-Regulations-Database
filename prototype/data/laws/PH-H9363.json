@@ -1,7 +1,7 @@
 {
  "id": "PH-H9363",
  "title": {
-  "zh": null,
+  "zh": "加强、现代化并调整本国农业工程执业，使之与国际公认的农业与生物系统工程执业接轨，并为其他目的法案",
   "en": "An Act Strengthening, Modernizing and Aligning the Practice of Agricultural Engineering in the Country Into the Internationally Recognized Practice of Agricultural and Biosystems Engineering, and for Other Purposes",
   "orig": "An Act Strengthening, Modernizing and Aligning the Practice of Agricultural Engineering in the Country Into the Internationally Recognized Practice of Agricultural and Biosystems Engineering, and for Other Purposes"
  },
@@ -636,5 +636,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a major daily newspaper of general circulation in the Philippines, whichever comes first."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening, Modernizing and Aligning the Practice of Agricultural Engineering in the Country Into the Internationally Recognized Practice of Agricultural and Biosystems Engineering, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

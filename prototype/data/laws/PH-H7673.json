@@ -1,7 +1,7 @@
 {
  "id": "PH-H7673",
  "title": {
-  "zh": null,
+  "zh": "宣布国家政府中心场地特定部分向合法居民及地方政府或社区设施、慈善、教育与宗教机构开放处置的法案",
   "en": "An Act declaring certain portions of the National Government Center site open for disposition to bona fide residents and local government or community facilities, charitable, educational and religious institutions....",
   "orig": "An Act declaring certain portions of the National Government Center site open for disposition to bona fide residents and local government or community facilities, charitable, educational and religious institutions...."
  },
@@ -171,5 +171,13 @@
     "en": "Effectivity. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act declaring certain portions of the National Government Center site open for disposition to bona fide residents and local government or community facilities, charitable, educational and religious institutions....",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

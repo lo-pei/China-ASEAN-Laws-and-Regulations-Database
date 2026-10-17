@@ -1,7 +1,7 @@
 {
  "id": "PH-H6432",
  "title": {
-  "zh": null,
+  "zh": "修订第 6632 号共和国法（即授予 Philippine Racing Club, Inc. 在黎刹省运营赛马场特许权的法案），并将该特许权自期满起延长二十五年",
   "en": "An Act Amending Republic Act Numbered Sixty-six Hundred Thirty-two Entitled 'An Act Granting the Philippine Racing Club, Inc., a Franchise to Operate and Maintain a Race Track for Horse Racing in the Province of Rizal', and Extending the Said Franchise By Twenty-five Years From the Expiration of the Term Thereof",
   "orig": "An Act Amending Republic Act Numbered Sixty-six Hundred Thirty-two Entitled 'An Act Granting the Philippine Racing Club, Inc., a Franchise to Operate and Maintain a Race Track for Horse Racing in the Province of Rizal', and Extending the Said Franchise By Twenty-five Years From the Expiration of the Term Thereof"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H6432-A1_2",
+   "id": "PH-H6432-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The Philippine Racing Club, Inc., a corporation duly organized and registered under the laws of the Republic of the Philippines, hereinafter called the grantee or its successors is hereby granted the right, notwithstanding any provision of law to the contrary, privilege and authority to construct, operate and maintain, one race track in the Municipality of Makati, Metro Manila, or anywhere within the provinces of Rizal, Laguna and Cavite, establish such branches thereof for booking purposes anywhere in the country, and hold or conduct horse races therein with bettings whether on the results of the races or other forms of gaming derived therefrom, and either directly or by means of mechanical, electric and/or computerized totalizator and to do and carry out all such acts, deeds and things as may be necessary to give effect to the foregoing: Provided, That in case of transfer of the race track from Makati, Metro Manila, such transfer shall be subject to the approval of the host province or city/municipality to where it would transfer, through a public hearing to be conducted by the local government unit concerned.\n\"The races to be conducted by the grantee shall be under the supervision and regulation of the Philippine Racing Commission, which shall enforce the laws, rules and regulations governing horse racing, including the framing and scheduling of. races, the construction and safety of the race track, the allocation of prizes of winning horses, and the security of racing as provided in Presidential Decree No. 420, as amended: Provided, That the Games and Amusements Board shall continue to supervise and regulate betting in horse races as provided in Section 6, 8, 11, 15 and 24 of Republic Act Numbered Three hundred and nine, as amended, and all the racing officials and personnel to be employed by the grantee shall be duly licensed as such by the said Games and Amusements Board in accordance with Section 5 of the same Act.\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6432-A2",
@@ -171,14 +172,23 @@
    }
   },
   {
-   "id": "PH-H6432-A2_2",
+   "id": "PH-H6432-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation in the Philippines."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Sixty-six Hundred Thirty-two Entitled 'An Act Granting the Philippine Racing Club, Inc., a Franchise to Operate and Maintain a Race Track for Horse Racing in the Province of Rizal', and Extending the Said Franchise By Twenty-five Years From the Expiration of the Term Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

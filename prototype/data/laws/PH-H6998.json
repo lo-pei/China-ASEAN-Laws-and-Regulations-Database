@@ -1,7 +1,7 @@
 {
  "id": "PH-H6998",
  "title": {
-  "zh": null,
+  "zh": "1998 年认养学校法",
   "en": "Adopt-a-School Act of 1998",
   "orig": "Adopt-a-School Act of 1998 An Act Establishing An \"Adopt-a-School Program,\" Providing Incentives Therefor, and for other Purposes"
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Adopt-a-School Act of 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

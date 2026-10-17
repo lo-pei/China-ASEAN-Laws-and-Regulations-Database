@@ -1,7 +1,7 @@
 {
  "id": "SG-H3486",
  "title": {
-  "zh": null,
+  "zh": "公园与树木（种植区）公告",
   "en": "Parks and Trees (Planting Areas) Notification",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. All premises referred to in paragraph 2 shall have the following planting areas:\n(a)where the parking area does not adjoin or abut any other planting area, green verge or any building within the premises, a planting area of not less than 2 metres wide along the length of the parking area;\n(b)where the parking area has 2 or more parallel rows of parking lots, a planting area of not less than 4 metres wide in the centre divider separating the parallel rows of parking lots; and\n(c)where the parking area is adjacent to any building within the premises, a planting area of not less than 4 metres wide between the parking area and the building.\n[G.N. No. S 521/2005]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Parks and Trees (Planting Areas) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

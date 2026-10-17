@@ -1,7 +1,7 @@
 {
  "id": "SG-H3176",
  "title": {
-  "zh": null,
+  "zh": "商船（海事劳工公约）（海员定义）命令 2014",
   "en": "Merchant Shipping (Maritime Labour Convention) (Definition of Seafarer) Order 2014",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nPersons not regarded as seafarers\n1. A person who is employed, engaged or works on board a ship in any of the following capacities:\n(a)diver;\n(b)guest entertainer;\n(c)marine superintendent;\n(d)marine surveyor;\n(e)privately contracted security personnel;\n(f)repair technician;\n(g)researcher;\n(h)scientist;\n(i)ship inspector;\n(j)specialist offshore technician.\n2. A person who is employed or engaged or who works in any capacity on board a ship and who fulfils the following criteria set out in sub‑paragraphs (a) and (b) together with any one of the following criteria set out in sub‑paragraphs (c), (d) and (e):\n(a)his duration of stay on board that ship does not exceed 45 consecutive days;\n(b)his working duration on board that ship in the aggregate does not exceed 4 months in any 12-month period;\n(c)the nature of his work does not form part of the routine business of the ship;\n(d)the work he performs is ad‑hoc, with his principal place of employment onshore;\n(e)the labour and social conditions given to him by his principal employers are comparable to that provided for under the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Merchant Shipping (Maritime Labour Convention) (Definition of Seafarer) Order 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

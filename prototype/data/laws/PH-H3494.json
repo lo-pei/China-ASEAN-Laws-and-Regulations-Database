@@ -1,7 +1,7 @@
 {
  "id": "PH-H3494",
  "title": {
-  "zh": null,
+  "zh": "将奎松省因凡塔市镇因凡塔急诊医院的名称变更为Claro M. Recto纪念医院的法案",
   "en": "An Act Changing the Name of Infanta Emergency Hospital in the Municipality of Infanta, Province of Quezon, to Claro M. Recto Memorial Hospital",
   "orig": "An Act Changing the Name of Infanta Emergency Hospital in the Municipality of Infanta, Province of Quezon, to Claro M. Recto Memorial Hospital"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Infanta Emergency Hospital in the Municipality of Infanta, Province of Quezon, to Claro M. Recto Memorial Hospital",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

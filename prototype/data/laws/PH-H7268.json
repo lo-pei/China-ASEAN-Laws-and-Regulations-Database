@@ -1,7 +1,7 @@
 {
  "id": "PH-H7268",
  "title": {
-  "zh": null,
+  "zh": "保障措施法",
   "en": "Safeguard Measures Act",
   "orig": "Safeguard Measures Act An Act Protecting Local Industries By Providing Safe in Measure to Be Undertake in Response to Increased Imports and Providing Penalties for Violation Thereof"
  },
@@ -381,7 +381,7 @@
    }
   },
   {
-   "id": "PH-H7268-A27_2",
+   "id": "PH-H7268-A27-d2",
    "no": 27,
    "noLabel": {
     "en": "Section 27."
@@ -391,7 +391,8 @@
    },
    "text": {
     "en": "Duration of Special Safeguard Measures. - The special safeguard measures for agricultural products shall lapse with the duration of the reform process in agriculture as determined in the WTO. Thereafter, recourse to safeguard measures shall be subject to the provisions on general safeguard measures as provided in Chapter II of this Act.\nSPECIAL PROVISIONS"
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H7268-A29",
@@ -536,5 +537,13 @@
     "en": "Effectively Clause. - This Act shall take effect fifteen (15) days following its complete publication in two (2) newspapers of general circulation or in the Official Gazette, whichever comes earlier.\nApproved: July 19, 2000"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Safeguard Measures Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

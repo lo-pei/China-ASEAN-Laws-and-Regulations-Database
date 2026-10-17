@@ -1,7 +1,7 @@
 {
  "id": "PH-H774",
  "title": {
-  "zh": null,
+  "zh": "将由菲律宾立法机关与地方市议会授予 Bicol Electric Company 的特许经营权期限合并延长，以在 Naga 市及南甘马粦等三省相关市镇运营电灯、供热与动力系统的法案",
   "en": "An Act Extending and Consolidating the Terms of the Franchises Granted By the Philippine Legislature and the Municipal Councils of Camaligan, Canaman, Magaitao, Bonbon, and Calabanga in the Province of Camarines Sur; of Ligao, Oas, and Guinobatan in the Province of Albay; and of Gubat in the Province of Sorsogon, to the Bicol Electric Company to Install, Operate and Maintain Electric Light, Heat, and Power Systems in the City of Naga and in the Municipalities Hereinabove Named",
   "orig": "An Act Extending and Consolidating the Terms of the Franchises Granted By the Philippine Legislature and the Municipal Councils of Camaligan, Canaman, Magaitao, Bonbon, and Calabanga in the Province of Camarines Sur; of Ligao, Oas, and Guinobatan in the Province of Albay; and of Gubat in the Province of Sorsogon, to the Bicol Electric Company to Install, Operate and Maintain Electric Light, Heat, and Power Systems in the City of Naga and in the Municipalities Hereinabove Named"
  },
@@ -190,5 +190,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending and Consolidating the Terms of the Franchises Granted By the Philippine Legislature and the Municipal Councils of Camaligan, Canaman, Magaitao, Bonbon, and Calabanga in the Province of Camarines Sur; of Ligao, Oas, and Guinobatan in the Province of Albay; and of Gubat in the Province of Sorsogon, to the Bicol Electric Company to Install, Operate and Maintain Electric Light, Heat, and Power Systems in the City of Naga and in the Municipalities Hereinabove Named",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

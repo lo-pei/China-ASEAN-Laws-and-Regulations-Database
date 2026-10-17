@@ -1,7 +1,7 @@
 {
  "id": "SG-H238",
  "title": {
-  "zh": null,
+  "zh": "注册官与副注册官的委任（合并）公告",
   "en": "Appointments of Registrar and Deputy Registrar (Consolidation) Notification",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Bills of Sale Act\n(Chapter 24, Section 19)\nAppointments of Registrar and\nDeputy Registrar (Consolidation)\nNotification\nN 1\nREVISED EDITION 1990\n(25th March 1992)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointments of Registrar and Deputy Registrar (Consolidation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

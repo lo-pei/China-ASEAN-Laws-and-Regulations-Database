@@ -1,7 +1,7 @@
 {
  "id": "SG-H1766",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（动物）规则 2024",
   "en": "Housing and Development (Animals) Rules 2024",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "THE SCHEDULE\nRule 3(5)\nApplicable dogs\n1.Affenpinscher\n2.Australian Silky Terrier\n3.Australian Terrier\n4.Bichon Frise\n5.Bohemian Terrier\n6.Bolognese\n7.Brussels Griffon (also known as Griffon Bruxellois)\n8.Bichon Havanese\n9.Border Terrier\n10.Boston Terrier (Lightweight or Middle weight)\n11.Cairn Terrier\n12.Cavalier King Charles Spaniel\n13.Chihuahua\n14.Chinese Crested Dog\n15.Chinese Imperial Chin\n16.Chinese Temple Dog (Classic or Miniature)\n17.Coton de tulear\n18.Czech Terrier\n19.Dachshund (Light or Miniature)\n20.Dandie Dinmont Terrier\n21.English Toy Spaniel\n22.Griffon Belge\n23.German Hunting Terrier\n24.Griffon Brabancon\n25.Hairless Dog\n26.Italian Greyhound\n27.Jack Russell Terrier\n28.Japanese Spaniel (also known as Chin)\n29.Japanese Spitz\n30.Lhasa Apso\n31.Little Lion Dog\n32.Lakeland Terrier\n33.Maltese\n34.Manchester Terrier\n35.Miniature Pinscher\n36.Miniature Schnauzer\n37.Norfolk Terrier\n38.Norwich Terrier\n39.Papillon\n40.Pekinese\n41.Pomeranian\n42.Poodle (Toy or Miniature)\n43.Pug\n44.Schipperke\n45.Scottish Terrier\n46.Sealyham Terrier\n47.Shetland Sheep Dog\n48.Shih Tzu\n49.Silky Terrier\n50.Small Continental Spaniel\n51.Small English Terrier\n52.Small Spitz\n53.Smooth Fox Terrier\n54.Toy Fox Terrier\n55.Toy Terrier\n56.Tibetan Spaniel\n57.Volpino Italiano\n58.West Highland Terrier\n59.Wire-Haired Fox Terrier\n60.Welsh Terrier\n61.Yorkshire Terrier\n62.Cross of any 2 breeds in items 1 to 61"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Housing and Development (Animals) Rules 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

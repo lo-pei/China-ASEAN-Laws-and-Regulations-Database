@@ -1,7 +1,7 @@
 {
  "id": "PH-H3251",
  "title": {
-  "zh": null,
+  "zh": "将新怡诗夏工艺学校改设为中央吕宋理工学院、赋予法人资格、规定董事会及其权力与职责、开设工艺与工业教育课程并为其他目的法案",
   "en": "An Act Converting the Nueva Ecija School of Arts and Trades into Central Luzon Polytechnic College, Giving it Corporate Existence, Providing for a Board of Trustees and Defining its Powers, Duties and Responsibilities, Providing for Higher Vocational, Professional, and Technological Instruction and Training in Trade and Industrial Education, and for Other Purposes",
   "orig": "An Act Converting the Nueva Ecija School of Arts and Trades into Central Luzon Polytechnic College, Giving it Corporate Existence, Providing for a Board of Trustees and Defining its Powers, Duties and Responsibilities, Providing for Higher Vocational, Professional, and Technological Instruction and Training in Trade and Industrial Education, and for Other Purposes"
  },
@@ -212,5 +212,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Nueva Ecija School of Arts and Trades into Central Luzon Polytechnic College, Giving it Corporate Existence, Providing for a Board of Trustees and Defining its Powers, Duties and Responsibilities, Providing for Higher Vocational, Professional, and Technological Instruction and Training in Trade and Industrial Education, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

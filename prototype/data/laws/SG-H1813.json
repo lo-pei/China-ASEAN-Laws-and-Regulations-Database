@@ -1,7 +1,7 @@
 {
  "id": "SG-H1813",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 2 号）命令 2022",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 2) Order 2022",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Jalan Boon Lay, Boon Lay Avenue and Boon Lay Drive, comprised in Lot number 02889L in Mukim 06 and on which Apartment Blocks 257, 258, 259, 260 and 261 are erected, in Lot number 02891X in Mukim 06 and on which Apartment Blocks 262, 263, 264, 265 and 266 are erected, and in Lot number 03038K in Mukim 06 and on which Apartment Block 267 is erected, and which is more particularly edged in Plan 1.\nPLAN 1\nBOON LAY DRIVE\n2. All that part of the housing estate of the Board bounded by Hougang Street 51, Hougang Street 52, Hougang Avenue 8, Hougang Avenue 6 and Buangkok Drive, comprised in Lot number 08521V in Mukim 22 and on which Apartment Blocks 534, 535, 536, 537, 538, 539, 540 and 541 are erected, and in Lot number 07263C in Mukim 22 and on which Apartment Blocks 542, 543, 544, 545, 546, 547, 548, 549, 550 and 551 are erected, and which is more particularly edged in Plan 2.\nPLAN 2\nHOUGANG STREET 51 / HOUGANG STREET 52 /\nHOUGANG AVENUE 8\n3. All that part of the housing estate of the Board bounded by Upper Serangoon Road, Serangoon Central, Serangoon Avenue 1 and Lorong Lew Lian, comprised in Lot number 08989L in Mukim 24 and on which Apartment Blocks 415, 416, 417, 418, 419 and 420 are erected, and in Lot number 06907C in Mukim 24 and on which Apartment Blocks 421, 422, 423, 424, 425, 426 and 427 are erected, and which is more particularly edged in Plan 3.\nPLAN 3\nSERANGOON AVENUE 1 / SERANGOON CENTRAL\n4. All that part of the housing estate of the Board bounded by Tampines Avenue 8, Tampines Avenue 3, Tampines Street 83 and Tampines Street 84, comprised in Lot number 04121K in Mukim 28 and on which Apartment Blocks 875, 876, 877, 878, 879, 880, 880A, 881, 882, 883, 884, 885, 886 and 886A are erected, and which is more particularly edged in Plan 4.\nPLAN 4\nTAMPINES AVENUE 8 / TAMPINES STREET 83 /\nTAMPINES STREET 84\n5. All that part of the housing estate of the Board bounded by Tampines Avenue 8, Tampines Street 84 and Tampines Street 83, comprised in Lot number 07566C in Mukim 28 and on which Apartment Blocks 865, 866, 867, 867A, 868, 869, 870, 871, 871A, 872, 873, 874 and 874A are erected, and which is more particularly edged in Plan 5.\nPLAN 5\nTAMPINES STREET 83 / TAMPINES STREET 84\n6. All that part of the housing estate of the Board bounded by Yishun Ring Road and Yishun Avenue 6, comprised in Lot number 01634A in Mukim 19 and on which Apartment Blocks 386, 387, 389, 390, 391, 392, 393, 394, 396, 397, 398 and 399 are erected, and which is more particularly edged in Plan 6.\nPLAN 6\nYISHUN RING ROAD / YISHUN AVENUE 6"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 2) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

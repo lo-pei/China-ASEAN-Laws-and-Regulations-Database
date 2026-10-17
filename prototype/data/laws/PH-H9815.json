@@ -1,7 +1,7 @@
 {
  "id": "PH-H9815",
  "title": {
-  "zh": null,
+  "zh": "司法重组法 1980",
   "en": "The Judiciary Reorganization Act of 1980",
   "orig": "An Act Creating an Additional Branch of the Regional Trial Court in Ozamiz City, Converting the Municipal Circuit Trial Court Covering the Municipalities of Clarin and Tudela into the Municipal Trial Court of Clarin, and Creating a New Municipal Circuit Trial Court Covering the Municipalities of Sinacaban and Tudela, All in the Second Legislative District of the Province of Misamis Occidental, and Appropriating Funds Therefor, Amending for the Purpose Batas Pambansa Blg. 129, Otherwise Known as \"The Judiciary Reorganization Act of 1980\""
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Judiciary Reorganization Act of 1980",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1260",
  "title": {
-  "zh": null,
+  "zh": "授予马卡蒂 Forbes Park 的 Enrique Zobel 先生建设、维护和运营私人固定点对点、陆基、陆上移动无线电台及私人航空陆地电台以与其自有飞机通信的临时许可的法案",
   "en": "An Act Granting Mr. Enrique Zobel, of Forbes Park, Makati, Rizal, a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point and Land-Based and Land-Mobiled Radio Stations and Private Aeronautical Land Stations for Communication with Grantee’s Own Plane or Planes for the Reception and Transmission of Radio Communications Within the Philippines",
   "orig": "An Act Granting Mr. Enrique Zobel, of Forbes Park, Makati, Rizal, a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point and Land-Based and Land-Mobiled Radio Stations and Private Aeronautical Land Stations for Communication with Grantee’s Own Plane or Planes for the Reception and Transmission of Radio Communications Within the Philippines"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Mr. Enrique Zobel, of Forbes Park, Makati, Rizal, a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point and Land-Based and Land-Mobiled Radio Stations and Private Aeronautical Land Stations for Communication with Grantee’s Own Plane or Planes for the Reception and Transmission of Radio Communications Within the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

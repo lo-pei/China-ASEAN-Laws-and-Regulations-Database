@@ -1,7 +1,7 @@
 {
  "id": "BN-S-82-2014-MISCELLANEOUS-LICENCES-ACT-AMENDMENT-ORDER-2014",
  "title": {
-  "zh": null,
+  "zh": "杂项执照法修正命令 2014",
   "en": "MISCELLANEOUS LICENCES ACT AMENDMENT ORDER 2014",
   "orig": null
  },
@@ -213,5 +213,13 @@
     "en": "( 1) application for licences pending to be issued under the Act made the date of commencement of this Order shall be deemed to be an for a Business Licence.\n\n(2) Any licence issued under the Act and in force immediately before the date of commencement of this Order shall continue to. be in force for the remaining period of the licence and shall subsist until its expiry.\n\n(3) Any public officer declared to be an authorised officer under the the date of of this Order shall continue to be authorised officers under the Act as if the public officer had been appointed under section 2B of the Act. Made this 6th. day of Rabiulawal, 1436 Hijriah corresponding to the 28th. day of December, 2014 at Our Istana Nurul Iman, Bandar Seri Begawan, Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MISCELLANEOUS LICENCES ACT AMENDMENT ORDER 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

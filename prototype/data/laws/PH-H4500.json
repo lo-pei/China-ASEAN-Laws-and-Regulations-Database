@@ -1,7 +1,7 @@
 {
  "id": "PH-H4500",
  "title": {
-  "zh": null,
+  "zh": "使马斯巴特省马斯巴特市镇成为入境口岸，为此修订菲律宾关税与海关法典（经修正）第701条并授权为此拨款",
   "en": "An Act Making the Municipality of Masbate, Province Op Masbate, a Port of Entry, Amending for This Purpose Section Seven Hundred and One of the Tariff and Customs Code of the Philippines, as Amended, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Making the Municipality of Masbate, Province Op Masbate, a Port of Entry, Amending for This Purpose Section Seven Hundred and One of the Tariff and Customs Code of the Philippines, as Amended, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making the Municipality of Masbate, Province Op Masbate, a Port of Entry, Amending for This Purpose Section Seven Hundred and One of the Tariff and Customs Code of the Philippines, as Amended, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

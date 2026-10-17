@@ -1,7 +1,7 @@
 {
  "id": "PH-H1656",
  "title": {
-  "zh": null,
+  "zh": "为特定目的重新划拨第1200号共和国法第一编A部分第4段马尼拉市第183页（ab）目第（19）项所拨款项的法案",
   "en": "An Act Reappropriating for Certain Purposes the Appropriation in Item (19), Page One Hundred Eighty-Three, Sub-Paragraph “Ab,” for the City of Manila, Paragraph 4, Title A, Section One of Republic Act Numbered Twelve Hundred",
   "orig": "An Act Reappropriating for Certain Purposes the Appropriation in Item (19), Page One Hundred Eighty-Three, Sub-Paragraph “Ab,” for the City of Manila, Paragraph 4, Title A, Section One of Republic Act Numbered Twelve Hundred"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reappropriating for Certain Purposes the Appropriation in Item (19), Page One Hundred Eighty-Three, Sub-Paragraph “Ab,” for the City of Manila, Paragraph 4, Title A, Section One of Republic Act Numbered Twelve Hundred",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

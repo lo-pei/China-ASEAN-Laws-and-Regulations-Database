@@ -1,7 +1,7 @@
 {
  "id": "PH-H3740",
  "title": {
-  "zh": null,
+  "zh": "修订第4206号共和国法（题为“禁止向公立初等与中级学校学童收取捐款”）的法案",
   "en": "An Act to Amend Republic Act Numbered Four Thousand Two Hundred Six Entitled \"An Act Prohibiting the Collection of Contributions from School Children of Public Primary and Intermediate Schools\"",
   "orig": "An Act to Amend Republic Act Numbered Four Thousand Two Hundred Six Entitled \"An Act Prohibiting the Collection of Contributions from School Children of Public Primary and Intermediate Schools\""
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Four Thousand Two Hundred Six Entitled \"An Act Prohibiting the Collection of Contributions from School Children of Public Primary and Intermediate Schools\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

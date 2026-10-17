@@ -1,7 +1,7 @@
 {
  "id": "PH-H5763",
  "title": {
-  "zh": null,
+  "zh": "将黎刹省 Morong市镇 Morong 综合医院的名称变更为黎刹省立医院的法案",
   "en": "An Act Changing the Name of the Morong General Hospital in the Municipality of Morong, Province of Rizal, to Rizal Provincial Hospital",
   "orig": "An Act Changing the Name of the Morong General Hospital in the Municipality of Morong, Province of Rizal, to Rizal Provincial Hospital"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Morong General Hospital in the Municipality of Morong, Province of Rizal, to Rizal Provincial Hospital",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

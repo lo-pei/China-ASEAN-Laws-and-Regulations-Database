@@ -1,0 +1,891 @@
+{
+ "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000",
+ "title": {
+  "zh": "电子交易命令 2000",
+  "en": "ELECTRONIC TRANSACTIONS ORDER 2000",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p32",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 65,
+ "chars": 52905,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000.pdf》（35 页），本次切分 65 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "( 1) This Order may be cited as the Electronic Transactions Order, 2000 and on a date to be appointed by the Minister, with the approval of the Sultan and Yang Di-Pertuan, by notification in the Gazette.\n\n(2) The Minister may appoint different dates for the commencement of different provisions of this Order and for different purposes of the same provision.\n\n(3) The long title of this Order is \"An Order to make provision for the and use of electronic transactions and for connected purposes\"."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In this Order, unless the context otherwise requires - \"asymmetric cryptosystem 11 means a system capable of generating a secure key pair, consisting or a private key for creating a digital signature, and a public key to verify the digital signature; \"certification authority\" means a person who or an organisation that issues a \"certi.fi.cation practice statement\" means a statement issued by a certification authority to specify the practices that the certifi.cation authority employs in issuing certificates; means the Controller of Certification Authorities appointed section 41(1) and includes a Deputy or an Assistant Controller of Certification Authorities appointed under section 41(2); \"correspond\", in relation to private or public keys, means to belong to the \"data message\" means information generated, sent, received or stored by electronic, optical or similar means, including, but not limited to, electronic data interchange (EDI). electronic mail, telegram, telex or telecopy; signature\" means an electronic signature consisting of a transformation of an electronic record using an asymmetric cryptosystem and a hash function such that a person having the initial untransformed electronic and the signer's public key can accurately determine -\n\n(a) whether the transformation was created using the private key that the signer's public key; and {b) whether the initial electronic record has been altered since the was made; \"electronic record\" means a record generated, communicated, received or stored by electronic, magnetic, optical or other means in an information system or for transmission from one information system to another; \"electronic signature\" means any letters, characters, numbers or other in digital form attached to or logically associated with an electronic and executed or adopted with the intention of authenticating or the electronic record; means an algorithm mapping or translating one sequence of bits into another, generally smaller, set ithe hash result) such that {a) a record yields the same hash result every time the algorithm is the same record as input;\n\n(b) it is computationally infeasible that a record can be derived or reconstituted from the hash result produced by the algorithm; and {c) it is computationally infeasible that 2 records can be found that the same hash result using the algorithm; \"information\" includes data, text, images, sound, codes, computer programs, and databases; \"information system\" means a system for generating, sending, receiving, storing or otherwise processing data messages; an asymmetric cryptosystem, means a private key and its mathematically related public key, having the property that the public key can verify a digital signature that the private key creates; \"licensed certification authority\" means a certification authority licensed by pursuant to regulations made under section 42; the Minister of Finance; \"operational period of a certificate\" begins on the date and time the certificate is issued by a certification authority (or on any later date and time stated in the certificate), and ends on the date and time it expires as stated in the when it is earlier revoked or suspended; keyn means the key of a key pair used to create a digital signature; keyn means the key of a key pair used to verify a digital signature; 11record\" means information that is inscribed, stored or otherwise fixed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form; \"repositoryn means a system for storing and retrieving certificates or other information relevant to certificates; \"revoke a certificate\" means to permanently end the operational period of a certificate from a specified time; 11rule of law\" includes a written law; 11Security procedure11 means a procedure for the purpose 9f\n\n(a) verifying that an electronic record is that of a specific person; or\n\n(b) detecting error or alteration in the communication, content or an electronic record since a specific point in time, which may require the use of algorithms or codes, identifying words or numbers, encryption, answerback or acknowledgement procedures, or similar security devices; 11Signed11 or \"signaturen includes any symbol executed or adopted, or any methodology or procedure employed or adopted, by a person with the intention of authenticating a record, including electronic or digital methods; \"subscriber\" means a person who is the subject named or identified in a certificate issued to him and who holds a private key that corresponds to a public key listed in that certificate; \"suspend a certificate\" means to temporarily suspend the operational period of a certificate from a specified time; \"transaction\" includes a transaction of a non-commercial nature; \"trustworthy system\" means computer hardware, software and procedures that\n\n(a) are reasonably secure from intrusion and misuse;\n\n(b) provide a reasonable level of availability, reliability and correct\n\n(c) are reasonably suited to performing their intended functions; and\n\n(d) adhere to generally accepted security procedures; \"valid certificate\" means a certificate that a certification authority has issued and which the subscriber listed in it has accepted; \"verify a digital signature\", in relation to a given digital signature, record and key, means to determine accurately {a) that the digital signature was created using the private key corresponding to the public key listed in the certificate; and\n\n(b) the record has not been altered since its digital signature was and construction."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "PI This Order shall be construed consistently with what is commercially under the circumstances and to give effect to the following purposes -\n\n(a) to facilitate electronic communications by means of reliable electronic records;\n\n(b) to facilitate electronic commerce, eliminate barriers to electronic commerce resulting from uncertainties over writing and signature and to promote the development of the legal and business infrastructure necessary to implement secure electronic\n\n(c) to facilitate electronic filing of documents with government agencies and statutory corporations, and to promote efficient delivery of government services by means of reliable electronic records;\n\n(d) to minimise the incidence of forged electronic records, intentional and unintentional alteration of records, and fraud in electronic and other electronic transactions; {e) to help to establish uniformity of rules, regulations and standards the authentication and integrity of electronic records; and {f) to promote public confidence in the integrity and reliability of electronic records and electronic commerce, and to foster the development of electronic commerce through the use of electronic signatures to lend authenticity and integrity to correspondence in any electronic medium.\n\n(2) In the interpretation of this Order, regard is to be had to its international and the need to promote uniformity in its application and the observance of good faith. (3J Questions concerning matters governed by this Order which are not expressly settled in it are to be settled in conformity with the general principles on this Order is based."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Ill Parts II or IV shall not apply to any rule of law requiring writing or signatures in any of the following matters - {a} the creation of any legal instrument or document under any written law relating to Islamic law; {b) the creation or execution of a will under any written law relating wills; {c) negotiable instruments; {d) the creation, performance or enforcement of an indenture, declaraor power of attorney with the exception of constructive and resulting trusts; {e) any contract for the sale or other disposition of immovable property, or any interest in such property; {f) the conveyance of immovable property or the transfer of any interest {g) documents of title relating to immovable property.\n\n(2) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, by order in the Gazette modify the provisions of subsection (1) by or amending any class of transactions or matters mentioned by agreement."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "As between parties involved in generating, sending, rece1vmg, storing or otherwise processing electronic records, any provision of Parts II or IV may be varied by agreement.\n\nRECORDS AND SIGNATURES GENERALLY recognition of electronic records."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "text": {
+    "en": "For the avoidance of doubt, it is hereby declared that information shall not be denied legal effect, validity or enforceability solely on the ground that it is in the an electronic record. for writing."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "text": {
+    "en": "Where any rule of law requires information to be written, in writing, to be in writing or provides for certain consequences if it is not, an electronic record satisfies that rule of law if the information contained therein is accessible so as to be usable for subsequent reference. signatures."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "text": {
+    "en": "(1) Where any rule of law requires a signature, or provides for certain consequences if a document is not signed, an electronic signature satisfies that rule\n\n(2) An electronic signature may be proved in any manner, including by that a procedure existed by which it is necessary for a party, in order to further with a transaction, to have executed a symbol or security for the purpose of verifying that an electronic record is that of such of electronic records."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "text": {
+    "en": "( 1) Where any rule of law requires that certain documents, records or be retained, that requirement is satisfied by retaining them in the form of electronic records if the following conditions are satisfied - (a} the information contained therein remains accessible so as to be subsequent reference;\n\n(b) the electronic record is retained in the format in which it was originally generated, sent or received, or in a format which can be demonstrated to represent accurately the information originally generated, sent or received;\n\n(c) such information, if any, as enables the identification of the origin and destination of an electronic record and the date and time when it was sent or received, is retained; and\n\n(d) the consent of the department or ministry of the Government, organ of State, or the statutory corporation which has supervision over the requirement for the retention of such records has been obtained.\n\n(2) An obligation to retain documents, records or information in accordance\n\n(l)(c} shall not extend to any information necessarily and automatically generated solely for the purpose of enabling a record to be sent or\n\n(3) A person may satisfy the requirement referred to in subsection (1) by using the services of any other person, if the conditions in paragraphs (a} to (d) of that subsection are complied with.\n\n(4) Nothing in this section shall (a} apply to any rule of law which expressly provides for the retention of documents, records or information in the form of electronic records; (b} preclude any department or ministry of the Government, organ of or a statutory corporation from specifying additional requirements for the retention of electronic records that are subject to the jurisdiction of such department, ministry, organ of State or statutory corporation.\n\nOF NETWORK SERVICE PROVIDERS of network service providers."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "( 1) A network service provider shall not be subject to any civil or criminal under any rule of law in respect of third-party material in the form of electronic records to which he merely provides access if such liability is founded on(a} the making, publication, dissemination or distribution of such or any statement made in such material; or {b) the infringement of any rights subsisting in or in relation to such\n\n(2) Nothing in this section shall affect - {a) any obligation founded on contract; {b) the obligation of a network service provider as such under a or other regulatory regime established under any written {c) any obligation imposed under any written law or by a court to remove, block or deny access to any material. (31 For the purposes of this section\"providing access\", in relation to third-party material, means the provision of the necessary technical means by which third-party material may be accessed and includes the automatic and temporary storage of the third-party material for the purpose of providing access; in relation to a network service provider, means a person over whom the provider has no effective control.\n\nCONTRACTS and validity."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "(1) For the avoidance of doubt, it is hereby declared that in the context of the formation of contracts, unless otherwise agreed by the parties, and offer and the an offer may be expressed by means of electronic records.\n\n(2) an electronic record is used in the formation of a contract, that contract shall not be denied validity or enforceability on the sole ground that an electronic record was used for that purpose. between parties."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "As between the originator and the addressee of an electronic record, a of intent or other statement shall not be denied legal effect, validity or enforceability solely on the ground that it is in the form of an electronic record."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "( 1) An electronic record is that of the originator if it was sent by the originator himself.\n\n(2) As between the originator and the addressee, an electronic record is to be that of the originator if it was sent -\n\n(a) by a person who had the authority to act on behalf of the originator that electronic record; or\n\n(b) by an information system programmed by or on behalf of the originator to operate automatically.\n\n(3) As between the originator and the addressee, an addressee is entitled to an electronic record as being that of the originator and to act on that {a) in order to ascertain whether the electronic record was that of the originator, the addressee properly applied a procedure previously the originator for that purpose; or {b) the data message as received by the addressee resulted from the actions of a person whose relationship with the originator or with any agent of the originator enabled that person to gain access to a by the originator to identify electronic records as its own.\n\n(4) (3) shall not apply{a) from the time when the addressee has both received notice from the that the electronic record is not that of the originator, and had reasonable time to act accordingly; {b) in a case within subsection (3J(b), at any time when the addressee knew or ought to have known, had it exercised reasonable care or used any agreed procedure, that the electronic record was not that of the originator; or {c) if in all the circumstances of the case, it is unconscionable for the addressee to regard the electronic record as that of the originator or on that assumption.\n\n(5) Where an electronic record is that of the originator or is deemed to be that of the originator, or the addressee is entitled to act on that assumption, then, the originator and the addressee, the addressee is entitled to regard the electronic record received as being what the originator intended to send, and to act on that assumption.\n\n(6) The addressee is not so entitled when the addressee knew or should had the addressee exercised reasonable care or used any agreed procedure, that the transmission resulted in any error in the electronic record as 1\n\n(7) The addressee is entitled to regard each electronic record received as a separate electronic record and to act on that assumption, except to the extent that the addressee duplicates another electronic record and the addressee knew or should have known, had the addressee exercised reasonable care or used any agreed procedure, that the electronic record was a duplicate.\n\n(8) Nothing in this section shall affect the law of agency or the law on the formation of contracts. Acknowledgement of receipt."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "(1) (2), (3) and (4) shall apply where, on or before sending an electronic record, or by means of that electronic record, the originator has or has agreed with the addressee that receipt of the electronic record be acknowledged.\n\n(2) Where the originator has not agreed with the addressee that the acknowledgement be given in a particular form or by a particular method, an acknowledgement may be given by - (a} any communication by the addressee, automated or otherwise; or (b} any conduct of the addressee, sufficient to indicate to the originator that the electronic record has been received.\n\n(3) Where the originator has stated that the electronic record is conditional on receipt of the acknowledgement, the electronic record shall be treated as it had never been sent, until the acknowledgement is received.\n\n(4) Where the originator has not stated that the electronic record is on receipt of the acknowledgement, and the acknowledgement has not been received by the originator within the time, specified or agreed or, if no time has been specified or agreed within a reasonable time, the originator - (a} may give notice to the addressee stating that no acknowledgement has been received and specifying a reasonable time by which the acknowledgement must be received; and\n\n(b) if the acknowledgement is not received within the time specified in (a}, may, upon notice to the addressee, treat the electronic it has never been sent, or exercise any other rights it may have.\n\n(5) the originator receives the addressee's acknowledgement of receipt, it is presumed, unless evidence to the contrary is adduced, that the related electronic record was received by the addressee, but that presumption does not that the content of the electronic record corresponds to the content of the\n\n(6) the received acknowledgement states that the related electronic met technical requirements, either agreed upon or set forth in applicable standards, it is presumed, unless evidence to the contrary is adduced, that those have been met.\n\n(7) Except in so far as it relates to the sending or receipt of the electronic record, this Part is not intended to deal with the legal consequences that may flow from that electronic record or from the acknowledgement of its receipt. Time and place of despatch and receipt."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "heading": {
+    "en": "ELECTRONIC RECORDS AND SIGNATURES"
+   },
+   "text": {
+    "en": "(1) Unless otherwise agreed to between the originator and the addressee, the an electronic record occurs when it enters an information system the control of the originator or the person who sent the electronic record on behalf of the originator.\n\n(2) Unless otherwise agreed between the originator and the addressee, the time of receipt of an electronic record is determined as follows\n\n(a) if the addressee has designated an information system for the of receiving electronic records, receipt occurs -\n\n(i) at the time when the electronic record enters the designated information system; or\n\n(ii) if the electronic record is sent to an information system of the that is not the designated information system, at the time when the electronic record is retrieved by the addressee;\n\n(b) if the addressee has not designated such an information system, receipt occurs when· the electronic record enters an information system of the addressee.\n\n(3) (2) shall apply notwithstanding that the place where the information system is located may be different from the place where the electronic deemed to be received under subsection (4).\n\n(4) Unless otherwise agreed between the originator and the addressee, an electronic record is deemed to be dispatched at the place where the originator has its place of business, and is deemed to be received at the place where the addressee has its place of business. \\5} For the purposes of this section{a) if the originator or the addressee has more than one place of business, the place of business is that which has the closest the underlying transaction or, where there is no underlying transaction, the principal place of business;\n\n(b) if the originator or the addressee does not have a place of business, be made to the usual place of residence; and {c) \"usual place of residence11 in relation to a body corporate, means the where it is incorporated or otherwise legally constituted. (6} This section shall not apply to such circumstances as the Minister may by regulations prescribe. electronic record."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "(1) If a prescribed security procedure or a commercially reasonable security agreed to by the parties involved has been properly applied to an electronic record to verify that the electronic record has not been altered since a specified point in time, such record shall be treated as a secure electronic record from such specified point in time to the time of verification.\n\n(2) For the purposes of this section and of section 17, whether a security is commercially reasonable shall be determined having regard to the the procedure and the commercial circumstances at the time the was used, including(a} the nature of the transaction;\n\n(b) the sophistication of the parties; {c) the volume of similar transactions engaged in by either or all parties;\n\n(d) the availability of alternatives offered to but rejected by any party; {e) the cost of alternative procedures; and ({} the procedures in general use for similar types of transactions. electronic signature."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "If, through the application of a prescribed security procedure or a commercially reasonable security procedure agreed to by the parties involved, it can be verified that all electronic signature was, at the time it was made {a) unique to the person using it; {b) capable of identifying such person; {c) created in a manner or using a means under the sole contol of the using it; and {d) linked to the electronic record to which it relates in a manner such that if the record was changed the electronic signature would be such signature shall be treated as a secure electronic signature. relating to secure electronic records and signatures."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "( 1) In any proceedings involving a secure electronic record, it shall be unless evidence to the contrary is adduced, that the secure electronic has not been altered since the specific point in time to which the secure status relates.\n\n(2) In any proceedings involving a secure electronic signature, it shall be unless evidence to the contrary is adduced, that {a) the secure electronic signature is the signature of the person with whom it correlates; and {b) the secure electronic signature was affixed by that person with the of signing or approving the electronic record. [3) In the absence of a secure electronic record or a secure electronic signature, nothing in this Part shall create any presumption relating to the and integrity of the electronic record or an electronic signature. [4) For the purposes of this section\"secure electronic record\" means an electronic record treated as a secure record by virtue of sections 16 or 19; \"secure electronic signature\" means an electronic signature treated as a electronic signature by virtue of sections 17 or 20.\n\nOF DIGITAL SIGNATURES electronic record with digital signature."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "The portion of an electronic record that is signed with a digital signature shall be treated as a secure electronic record if the digital signature is a secure electronic signature by virtue of section 20. digital signature."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "When any portion of an electronic record is signed with a digital signature, the digital signature shall be treated as a secure electronic signature with respect to such portion of the record, if - {a} the digital signature was created during the operational period of a valid certificate and is verified by reference to the public key listed in su~h certificate; and {b) the certificate is considered trustworthy, in that it is an accurate binding of a public key to a person's identity because\n\n(i) the certificate was issued by a licensed certification authority in compliance with the regulations made under Iii) the certificate was issued by a certification authority outside Brunei Darussalam recognised for this purpose by the pursuant to regulations made under section 43;\n\n(iii) the certificate was issued by a department or ministry of the an organ of State or a statutory body or corporation approved by the Minister to act as a certification on such conditions as he may by regulations impose or specify; or\n\n(iv) the parties have expressly agreed between themselves (sender and recipient) to use digital signatures as a security procedure, and the digital signature was properly verified by reference to the sender's public key. regarding certificates."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "It shall be presumed, unless evidence to the contrary is adduced, that the information listed in a certificate issued by a licensed certification authority is correct, except for information identified as subscriber information which has not been verified, if the certificate was accepted by the subscriber. Unreliable digital signatures."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "Unless otherwise provided by any rule of law or by contract, a person relying on a digitally signed electronic record assumes the risk that the digital signature is invalid as a signature or authentication of the signed electronic record, if reliance on the digital signature is not reasonable under the circumstances having regard to the following factors - {a} facts which the person relying on the digitally signed electronic or has notice of, including all facts listed in the or incorporated in it by reference; {b} the value or importance of the digitally signed record, if known; {c} the course of dealing between the person relying on the digitally signed electronic record and the subscriber and any available indicia of reliability or unreliability apart from the digital signature; and {d} usage of trade, particularly trade conducted by trustworthy systems or other electronic means.\n\nDUTIES RELATING TO DIGITAL SIGNATURES on certificates forseeable."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "It is foreseeable that persons relying on a digital signature will also rely on a valid certificate containing the public key by which the digital signature can be to publication of certificate."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "No person shall publish a certificate or otherwise make it available to a known by that first-mentioned person to be in a position to rely on the on a digital signature that is verifiable with reference to a public key in the certificate, if that first-mentioned person knows that - {a} the certification authority listed in the certificate has not issued it; {b} the subscriber listed in the certificate has not accepted it; or {c) the certificate has been revoked or suspended, unless such publication is for the purpose of verifying a digital signature created prior to such suspension or revocation. for fraudulent purpose."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "Any person who knowingly creates, publishes or otherwise makes available a certificate for any fraudulent or unlawful purpose shall be guilty of an offence and be liable on conviction to a nne not exceeding $20,000, imprisonment for a term not exceeding 2 years or both. or unauthorised request."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "Any person who knowingly misrepresents to a certification authority his or authorisation for the purpose of requesting for a certificate or for or revocation of a certificate shall be guilty of an offence and be liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 6 months or both.\n\nOF CERTIFICATION AUTHORITIES system."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "text": {
+    "en": "A certification authority must utilise trustworthy systems in performing its"
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "text": {
+    "en": "(1) A certification authority shall disclose - {a} its certificate that contains the public key corresponding to the private key used by that certification authority to digitally sign another certificate (referred to in this section as a certification authority certificate); {b) any relevant certification practice statement; {c) notice of the revocation or suspension of its certification authority and {d) any other fact that materially and adversely affects either the reliability of a certificate that the authority has issued or the authority's ability to perform its services. 121 In the event of an occurrence that materially and adversely affects a authority's trustworthy system or its certification authority certificate, the certification authority shall - {a) use reasonable efforts to notify any person who is known to be or foreseeably will be affected by that occurrence; or\n\n(b) act in accordance with procedures governing such an occurrence specified in its certification practice statement. of certificate."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "text": {
+    "en": "( 1) A certification authority may issue a certificate to a prospective subscriber only after the certification authority -\n\n(a) has received a request for issuance from the prospective subscriber; and\n\n(b) has\n\n(i) if it has a certification practice statement, complied with all of the practices and procedures set forth in such certification identification of the perspective subscriber; or\n\n(ii) in the absence of a certification practice statement, complied with the conditions in subsection (2).\n\n(2) In the absence of a certification practice statement, the certification authority shall confirm by itself or through an authorised agent that -\n\n(a) the prospective subscriber is the person to be listed in the certificate to be issued;\n\n(b) if the prospective subscriber is acting through one or more agents, the subscriber authorised the agent to have custody of the subscriber's private key and to request issuance of a certificate the corresponding public key; {c) the information in the certificate to be issued is accurate; {d) the prospective subscriber rightfully holds the private key corresponding to the public key to be listed in the certificate; {e) the prospective subscriber holds a private key capable of creating a digital signature; and {fJ the public key to be listed in the certificate can be used to verify a digital signature affixed by the private key held by the prospective Representations upon issuance of certificate."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "text": {
+    "en": "(1) By issuing a certificate, a certification authority represents, to any person who reasonably relies on the certificate or a digital signature verifiable by the public key listed in the certificate, that the certification authority has issued the certificate in accordance with any applicable certification practice statement incorporated by reference in the certificate, or of which the relying person has\n\n(2) such certification practice statement, the certification authority represents that it has confirmed that - (aJ the certification authority has complied with ·an applicable requirements of this Order in issuing the certificate, and if the certification authority has published the certificate or otherwise made.it available to such relying person, that the subscriber listed in the certificate has accepted it; {b) the subscriber identified in the certificate holds the private key corresponding to the public key listed in the certificate; {c) the subscriber's public key and private key constitute a functioning {dJ all information in the certificate is accurate, unless the certification authority has stated in the certificate or incorporated by reference in the certificate a statement that the accuracy of specified information and feJ that the certification authority has no knowledge of any material fact if it had been included in the certificate would adversely the reliability of the representations in paragraphs fa} to {d). (3J there is an applicable certification practice statement which has been incorporated by reference in the certificate, or of which the relying person has notice, subsection (2) shall apply to the extent that the representations are not inconsistent with the certification practice statement. of certificate."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "text": {
+    "en": "Unless the certification authority and the subscriber agree otherwise, the certification authority that issued a certificate shall suspend the certificate as soon as possible after receiving a request by a person whom the certification authority (a} the subscriber named in the certificate;\n\n(b) a person duly authorised to act for that subscriber; or\n\n(c) a person acting on behalf of that subscriber, who is unavailable. of certificate."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "text": {
+    "en": "A certification authority shall revoke a certificate that is issued after - (a} receiving a request for revocation by the subscriber named in the certificate; and confirming that the person requesting revocation is the an agent of the subscriber with authority to request the\n\n(b) receiving a certified copy of the subscriber's death certificate, or upon by other evidence that the subscriber is dead; or\n\n(c) upon presentation of documents effecting a dissolution of the subscriber, or upon confirming by other evidence that the subscriber has been dissolved or has ceased to exist. without subscriber's consent."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "text": {
+    "en": "(1) A certification authority shall revoke a certificate, regardless of whether the subscriber listed in the certificate consents, if the certification authority (a} a material fact represented in the certificate is false;\n\n(b) a requirement for issuance of the certificate was not satisfied;\n\n(c) the certification authority's private key or trustworthy system was compromised in a ·manner materially affecting the certificate's\n\n(d) an individual subscriber is dead; or {e) a subscriber has been dissolved, wound-up or otherwise ceased to 12) such a revocation, other than under subsection (l){a} or\n\n(e), the certification authority shall immediately notify the subscriber named in the revoked certificate. of suspension."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "text": {
+    "en": "(1) upon suspension of a certificate by a certification authority, the certification authority shall publish a signed notice of the suspension in the repository specified in the certificate for publication of notice of suspension.\n\n(2) Where one or more repositories are specified, the certification authority publish signed notices of the suspension in all such repositories. of revocation."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "text": {
+    "en": "(1) upon revocation of a certificate by a certification authority, the certification authority shall publish a signed notice of the revocation in the repository specified in the certificate for publication of notice of revocation.\n\n(2) one or more repositories are specified, the certification authority publish signed notices of the revocation in all such repositories.\n\nOF SUBSCRIBERS key pair."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "chapter": {
+    "en": "PART IX"
+   },
+   "text": {
+    "en": "(1) If the subscriber generates the key pair whose public key is to be listed in a certificate issued by a certification authority and accepted by the subscriber, the subscriber shall generate that key pair using a trustworthy system.\n\n(2) This section shall not apply to a subscriber who generates the key pair using a system approved by the certification authority. Obtaining certificate."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "chapter": {
+    "en": "PART IX"
+   },
+   "text": {
+    "en": "All material representations made by the subscriber to a certification for purposes of obtaining a certificate, including all information known to the subscriber and represented in the certificate, shall be accurate and complete to the best of the subscriber's knowledge and belief, regardless of whether such are confirmed by the certification authority. of certificate."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "chapter": {
+    "en": "PART IX"
+   },
+   "text": {
+    "en": "( 1) A subscriber shall be deemed to have accepted a certificate if he - {a) publishes or authorises the publication of a certificate -\n\n(i) to one or more persons; or\n\n(ii) in a repository; or {b) otherwise demonstrates approval of a certificate while knowing or having notice of its contents.\n\n(2) By accepting a certificate issued by himself or a certification authority, the subscriber listed in the certificate certifies to all who reasonably rely on the information contained in the certificate that -\n\n(a) the subscriber rightfully holds the private key corresponding to the public key listed in the certificate; {b) all representations made by the subscriber to the certification and material to the information listed in the certificate are true; and {c) all information in the certificate that is within the knowledge of the subscriber is true. of private key."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "chapter": {
+    "en": "PART IX"
+   },
+   "text": {
+    "en": "(1) By accepting a certificate issued by a certification authority, the subscriber identified in the certificate assumes a duty to exercise reasonable care to retain control of the private key corresponding to the public key listed in such certificate and prevent its disclosure to a person not auth9rised to create the subscriber's digital signature. !2) Such duty shall continue during the operational period of the certificate and during any period of suspension of the certificate. suspension or revocation."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "chapter": {
+    "en": "PART IX"
+   },
+   "text": {
+    "en": "A subscriber who has accepted a certificate shall as soon as possible request the issuing certification authority to suspend or revoke the certificate if the private key corresponding to the public key listed in the certificate has been compromised.\n\nOF CERTIFICATION AUTHORITIES of Controller and other officers."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "text": {
+    "en": "(1) The Minister shall be the Controller of Certification Authorities for the purposes of this Order. (2} The Minister may appoint such number of Deputy and Assistant Controllers of Certification Authorities and officers as he considers necessary to and perform all or any of the powers and duties of the Controller under this Order or any regulations made thereunder.\n\n(3) The Controller, the Deputy and Assistant Controllers and officers under subsection (2) shall exercise, discharge and perform the powers, and functions conferred on the Controller under this Order or any regulations made thereunder, subject to such directions as may be issued by the\n\n(4) The Controller shall maintain a publicly accessible database containing a certification authority disclosure record for each licensed certification authority shall contain all the particulars required under the regulations made under\n\n(5) In the application of the provisions of this Order to certificates issued by and digital signatures verified by reference to those certificates, the Controller shall be deemed to be a licensed certification authority. of certification authorities."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "text": {
+    "en": "(1) The Minister with the approval of His Majesty the Sultan and Yang Di-Pertuan, may make regulations for the regulation 1 and licensing of certification and to define when a digital signature qualifies as a secure electronic\n\n(2) Without prejudice to the generality of subsection ( 1), the Minister may make regulations for or with respect to - (a} applications for licences or renewal of licences of certification and their authorised representatives and matters incidental thereto;\n\n(b) the activities of certification authorities including the manner, and place of soliciting business the conduct of such and the prohibition of such solicitation from 1 of the public by certification authorities which are not licensed;\n\n(c) the standards to be maintained by certification authorities;\n\n(d) prescribing the appropriate standards with respect to the qualifications, experience and training of applicants for any licence or their employees;\n\n(e) prescribing the conditions for the conduct of business by a certification authority; (fJ providing for the content and distribution of written, printed or visual material and advertisements that may be distributed or used by a person in respect of a digital certificate or key; (g} prescribing the form and content of a digital certificate or key; (h} prescribing the particulars to be recorded in, or in respect of, accounts kept by certification authorities; (i} providing for the appointment and remuneration of an auditor appointed under the regulations and for the costs of an audit carried out under the regulations; (j} providing for the establishment and regulation of any electronic system by a certification authority, whether by itself or in conjunction with other certification authorities, and for the and variation of such requirements, conditions or restrictions as the Controller may think fit; (k} the manner in which a holder of a licence conducts its dealings with its customers, conflicts of interest involving the holder of a licence and its customers, and the duties of a holder of a licence to its customers with respect to digital certificates; (l} prescribing any forms for the purposes of the regulations; and (m} rescribing fees to be paid in respect of any matter or thing required for the purposes of this Order and the regulations.\n\n(3) Regulations made under this section may provide that a contravention of a specified provisions shall be an offence and may provide for penalties for a fine $50,000, imprisonment for a term not exceeding 12 months or both. of foreign certification authorities."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "text": {
+    "en": "The Minister may by order published in the Gazette recognise certification authorities outside Brunei Darussalam that satisfy the prescribed requirements for any of the following purposes (a} the recommended reliance limit, if any, specified in a certificate issued by the certification authority; (b} the presumption referred to in sections 20(b}(ii) and 21. reliance limit."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "text": {
+    "en": "(1) A licensed certification authority shall, in issuing a certificate to a subscriber, specify a recommended reliance limit in the certificate.\n\n(2) The licensed certification authority may specify different limits in different certificates as it considers fit. limits for licensed certification authorities."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "text": {
+    "en": "Unless a licensed certification authority waives the application of this section, a licensed certification authority {a} shall not be liable for any loss caused by reliance on a false or forged digital signature of a subscriber, if, with respect to the false or forged digital signature, the licensed certification authority complied with the requirements of this Order; {b} shall not be liable in excess of the amount specified in the certificate as its recommended reliance limit for either ji) a loss caused by reliance on a misrepresentation in the certificate of any fact that the licensed certification authority is required to or jii) failure to comply with sections 29 and 30 in issuing the certificate. of repositories."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "text": {
+    "en": "The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations for the purpose of ensuring the quality of repositories and the services they provide, including provisions for the standards, licensing or accreditation of repositories.\n\nUSE OF ELECTRONIC RECORDS AND SIGNATURES of electronic filing and issue of documents."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "chapter": {
+    "en": "PART XI"
+   },
+   "text": {
+    "en": "(1) Any department or ministry of the Government, organ of State or statutory body that, pursuant to any written law - fa} accepts the filing of documents, or requires that documents be created or retained;\n\n(b) issues any permit, licence or approval; or {c) provides for the method and manner of payment, may, notwithstanding anything to the contrary in such written law[i) the :&ling of such documents, or the creation or retention of such documents in the form of electronic records;\n\n(ii) such permit, licence or approval in the form of electronic [iii) make such payment in electronic form. [2) In any case where a department or ministry of the Government, organ of State or statutory body decides to perform any of the functions in subsection (l)li), [ii) or (iii), it may specify - fa) the manner and format in which such electronic records shall be :&led, created, retained or issued; {b) where such electronic records have to be signed, the type of electronic signature required including, if applicable, a requirement that the sender use a digital signature or other secure electronic {c) the manner and format in which such signature shall be af:&xed to the electronic record, and the identity of or criteria that shall be met by any certi:&cation authority used by the person :&ling the\n\n(d) control processes and procedures as appropriate to ensure adequate integrity, security and con:&dentiality of electronic records or payments; and {e) any other required attributes for electronic records or payments that are currently speci:&ed for corresponding paper documents.\n\n(3) Order shall by itself compel any department or ministry of the Government, organ of State or statutory body to accept or issue any in the form of electronic records. -------------------------------------------------16th. DECEMBER 2000 of confidentiality."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "Ill Except for the purposes of this Order or for any prosecution for an under any written law or pursuant to any order of court, no person who has, pursuant to any powers conferred under this Part, obtained access to any electronic record, book, register, correspondence, information, document or other material shall disclose such electronic record, book, register, correspondence, information, document or other material to any other person.\n\n(2) Any person who contravenes subsection (1) shall be guilty of an offence and be liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 12 months or both. by bodies corporate."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "Where an offence under this Order or any regulations made thereunder committed by a body corporate is proved to have committed with the consent or connivance of, or to be attributable to any act or default on the part of, any director, manager, secretary or other similar officer of that body corporate, or of any person purporting to act in any such capacity, he, as well as the body corporate, shall also be guilty of that offence and be liable to be proceeded against and punished accordingly. Authorised officers or employees."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "( 1) The Controller may in writing authorise any officer or employee to exercise any of the powers of the Controller under this Part.\n\n(2) Any such officer or employee shall be deemed to be a public servant for the purposes of the Penal Code (Chapter 22).\n\n(3) In exercising any of the powers of enforcement under this Order, an authorised officer or employee shall on demand produce to the person against whom he is acting the authority issued to him by the Controller. may give directions for compliance."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "11) The Controller may by notice in writing direct a certification authority or any officer or employee thereof to take such measures or stop carrying on such activities as are specified in the notice if they are necessary to ensure compliance with the provisions of this Order or any regulations made thereunder.\n\n(2) Any person who fails to comply with any direction specified in a notice under subsection ( 1) shall be guilty of an offence and be liable on conviction to a fine not exceeding $50,000, imprisonment for a term not exceeding 12 months or both. to investigate."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "(1) The Controller or an authorised officer or employee may investigate the activities of a certification authority in relation to its compliance with this Order and any regulations made thereunder.\n\n(2) For the purposes of subsection (1), the Controller may in writing issue an to a certification authority to further its investigation or to secure compliance with this Order or any regulations made thereunder. to computers and data."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "(1) The Controller or an authorised officer or employee shall(a) be entitled at any time to -\n\n(i) have access to and inspect and check the operation of any computer system and any associated apparatus or material he has reasonable cause to suspect is or has been in use in connection with any offence under this Order;\n\n(ii) use or caused to be used any such computer system to search any data contained in or available to such computer system; or\n\n(b) be entitled to require -\n\n(i) the person by whom or on whose behalf the Controller or authorised officer has reasonable cause to suspect the computer is or has been so used; or\n\n(ii) any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material, to provide him with such reasonable technical and other assistance as he may require for the purposes of paragraph (a).\n\n(2) Any person who obstructs the lawful exercise of the powers under\n\n(1)(a) or who fails to comply with a request under subsection (1)(b) shall be guilty of an offence and be liable on conviction to a fine not exceeding $20,000, imprisonment for a term not exceeding 12 months or both. of authorised officer or employee."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "Any person who obstructs, impedes, assaults or interferes with the Controller or any authorised officer or employee in the performance of his functions under this Order shall be guilty of an offence. of documents, data etc."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "The Controller or an authorised officer or employee shall, for the purposes of the execution of this Order, have power to do all. or any of the following {a) require the production of records, accounts, data and documents kept by a licensed certification authority and to inspect, examine and copy any of them;\n\n(b) require the production of any identification document from any person any offence under this Order or any regulations made {c) make such. inquiry as may be necessary to ascertain whether the provisions of this Order or any regulations made thereunder have been penalties."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "Any person guilty of an offence under this Order or any regulations made thereunder for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $20,000, imprisonment for a term not exceeding 6 months or both. of Public Prosecutor."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "heading": {
+    "en": "Sanction of Public Prosecutor. ·"
+   },
+   "text": {
+    "en": "No prosecution in respect of any offence under this Order or any regulations made thereunder shall be instituted except by or with the sanction of the Public of Courts."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "A Magistrate's Court shall have jurisdiction to hear and determine all under this Order and any regulations made thereunder and, notwithstanding anything to the contrary in any other written law, shall have power to impose the full penalty or punishment in respect of any such offence. of offences."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "(1) The Controller may, in his discretion, compound any offence under this or any regulations made thereunder which is prescribed as being an offence may be compounded by collecting from any person reasonably suspected of having committed that offence a sum not exceeding $5,000.\n\n(2) with the approval of His Majesty the Sultan and Yang may make regulations prescribing the offences which may be compounded under this Order. to exempt."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "Notwithstanding anything contained in this Order or in any other written law, the Minister may exempt, subject to such terms and conditions as he thinks fit, any person or classes of person from all or any of the provisions of this Order or any made thereunder."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "( 1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations to prescribe anything which is required to be under this Order and generally for the carrying out of the provisions of\n\n(2) Any regulations made under this Order may make different provision for different cases or classes of case and for different purposes of the same provision. and transitional."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "( 1) Where a certification authority has been carrying on or operating as a certification authority before the date of commencement of this Order and it has obtained a licence in accordance with the regulations made under section 42 within 6 months after that date, all certificates issued by such certification authority before the date of commencement of this Order, to the extent that they satisfy the requirements of this Order or any regulations made thereunder, shall be to have been issued under this Order by a licensed certification authority and shall have effect accordingly.\n\n(2) In this section, references to the date of commencement of this Order the date of commencement of the main substantive provisions of this Order. of Law Revision Act (Chapter 1)."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "The Law Revision Act is amended, in section 4, by inserting \"electronic or\" immediately after \"in\" in the first line. of Interpretation and General Clauses Act (Chapter 4)."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "The Interpretation and General Clauses Act is amended - (a} in subsection (1) of section 3, by inserting, in the definition of 11Gazette\" or \"Government Gazette\", \"in electronic or other form\" immediately after \"published\" in the second line; (b} in section 3, by adding the following new subsection\"(20) Where a Gazette is published in more than one form, the date of publication shall be deemed to be the date on which that Gazette was first published in any form. n; (c} by adding to paragraph (a} of section 13 the following new sub\"[iv) authority to provide for the manner and method in which any document, record, application, permit, approval or licence may be submitted,, issued or served by electronic means, or for the authentication thereof;\". of Evidence Act (Chapter 108)."
+   }
+  },
+  {
+   "id": "BN-S-93-2000-E-ELECTRONIC-TRANSACTIONS-ORDER-2000-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "heading": {
+    "en": "No. S 93"
+   },
+   "text": {
+    "en": "The Evidence Act is amended by re-numbering section 67 as subsection ! 1) of that section, and by adding the following new subsection - \"(2} This section shall not apply to any electronic record or electronic signature to which the Electronic Transactions Order, 2000 applies\". Made this 23rd. day of Syaaban, 1421 Hijriah corresponding to the 20th. day of November, 2000 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nDARUSSALAM"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ELECTRONIC TRANSACTIONS ORDER 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

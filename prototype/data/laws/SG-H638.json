@@ -1,7 +1,7 @@
 {
  "id": "SG-H638",
  "title": {
-  "zh": null,
+  "zh": "民防法 1986",
   "en": "Civil Defence Act 1986",
   "orig": null
  },
@@ -2228,5 +2228,13 @@
     "en": "115.—(1) The Minister may make regulations, not inconsistent with this Act, for carrying out or giving effect to the provisions of this Act.\n(2) Without limiting subsection (1), the regulations may provide for all or any of the following matters:\n(a)the manner in which, and conditions subject to which, persons are to be enlisted in the Force;\n(b)the administration and organisation of the Force;\n(c)ranks of officers and servicemen;\n(d)the suspension from duty of members suspected of committing a service offence or an offence under any other written law;\n(e)the practice and procedure to be adopted by disciplinary officers when dealing with charges of service offences under this Act;\n(f)detention barracks for members of the Force sentenced to detention;\n(g)the classification, treatment, employment, discipline and control of members serving sentences of detention or in custody;\n(h)the establishment and administration of any association for the welfare of members and the control of the funds of any such association and the collection from members thereof of subscriptions thereto;\n(i)the reimbursement for or payment to members;\n(j)the payment of compensation in respect of death and physical injury suffered by any member of the Force or by a member of the public in the course of being trained in civil defence measures or taking part in civil defence measures or drills;\n(k)the assessment and payment of remuneration for work done and services rendered and compensation payable in respect of loss of or damage to property in consequence of the exercise of the powers conferred by or under this Act including the determination of objections made against the assessment of such remuneration or compensation;\n(l)the administration of the Fund;\n(m)the convening of boards of inquiry;\n(n)the instruction of members of the public in civil defence and, if necessary, to equip them for the purposes of civil defence;\n(o)the provision, storage and maintenance of essential foodstuff and equipment for the purposes of civil defence;\n(p)prescribing anything which may be prescribed.\n[32/2010; 53/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Civil Defence Act 1986",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

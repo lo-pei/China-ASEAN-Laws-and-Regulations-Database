@@ -1,7 +1,7 @@
 {
  "id": "PH-H909",
  "title": {
-  "zh": null,
+  "zh": "修订第71号共和国法（即《规定所有零售商品须附价格标签并对违反者处罚的法案》）的法案",
   "en": "An Act to Amend Republic Act Numbered Seventy-One, Entitled “An Act Requiring Price Tags or Labels to be Affixed on All Articles of Commerce Offered for Sale at Retail and Penalizing Violations of Such Requirement”",
   "orig": "An Act to Amend Republic Act Numbered Seventy-One, Entitled “An Act Requiring Price Tags or Labels to be Affixed on All Articles of Commerce Offered for Sale at Retail and Penalizing Violations of Such Requirement”"
  },
@@ -62,5 +62,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Seventy-One, Entitled “An Act Requiring Price Tags or Labels to be Affixed on All Articles of Commerce Offered for Sale at Retail and Penalizing Violations of Such Requirement”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

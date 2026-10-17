@@ -1,7 +1,7 @@
 {
  "id": "PH-H2079",
  "title": {
-  "zh": null,
+  "zh": "授权并批准将第1337号共和国法授予《晚报》出版公司的特许权转让给岛际广播公司的法案",
   "en": "An Act Authorizing and Approving the Transfer of the Franchise Granted to the Evening News Publishing Co., Inc. by Republic Act Numbered Thirteen Hundred Thirty-Seven in Favor of the Inter-Island Broadcasting Corporation",
   "orig": "An Act Authorizing and Approving the Transfer of the Franchise Granted to the Evening News Publishing Co., Inc. by Republic Act Numbered Thirteen Hundred Thirty-Seven in Favor of the Inter-Island Broadcasting Corporation"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing and Approving the Transfer of the Franchise Granted to the Evening News Publishing Co., Inc. by Republic Act Numbered Thirteen Hundred Thirty-Seven in Favor of the Inter-Island Broadcasting Corporation",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4886",
  "title": {
-  "zh": null,
+  "zh": "将菲律宾国家红十字会改为法人团体的法案",
   "en": "An Act to Incorporate the Philippine National Red Cross.",
   "orig": "An Act Amending Certain Sections of Republic Act Numbered Ninety-Five, Entitled \"An Act to Incorporate the Philippine National Red Cross.\""
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H4886-A1_2",
+   "id": "PH-H4886-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "There is hereby created in the Republic of the Philippines a body corporate and politic to be the voluntary organization officially designated to assist the Republic of the Philippines in discharging the obligations set forth in the Geneva Red Cross Convention and to perform such other duties as are incumbent upon a national red cross society. The headquarters of this corporation shall be located in any of the cities of the Greater Manila area of the Republic of the Philippines.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4886-A2",
@@ -100,5 +101,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 16, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Incorporate the Philippine National Red Cross.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

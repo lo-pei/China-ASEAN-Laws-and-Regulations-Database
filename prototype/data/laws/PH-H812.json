@@ -1,7 +1,7 @@
 {
  "id": "PH-H812",
  "title": {
-  "zh": null,
+  "zh": "授权总统或其代表接受用于在菲律宾任何地方建设、修缮和维护自流井或其他饮水水源的捐赠并规定该等捐赠的正当使用",
   "en": "An Act Authorizing the President or His Representative to Accept Donations for the Construction, Repair and Maintenance of Artesian Wells or Other Drinking Water Sources Anywhere in the Philippines and Providing for the Proper Use of Such Donations",
   "orig": "An Act Authorizing the President or His Representative to Accept Donations for the Construction, Repair and Maintenance of Artesian Wells or Other Drinking Water Sources Anywhere in the Philippines and Providing for the Proper Use of Such Donations"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 5, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President or His Representative to Accept Donations for the Construction, Repair and Maintenance of Artesian Wells or Other Drinking Water Sources Anywhere in the Philippines and Providing for the Proper Use of Such Donations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

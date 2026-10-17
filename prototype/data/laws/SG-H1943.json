@@ -1,7 +1,7 @@
 {
  "id": "SG-H1943",
  "title": {
-  "zh": null,
+  "zh": "所得税（CapitaLand 商业信托等——第 13(12) 条豁免）命令 2022",
   "en": "Income Tax (CapitaLand Commercial Trust, etc. — Section 13(12) Exemption) Order 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Distribution income received in Singapore by HSBC Institutional Trust Services (Singapore) Limited (a company incorporated in Singapore) in its capacity as the trustee of CapitaLand Commercial Trust (a trust constituted in Singapore) from Sentral REIT (formerly known as MRCB‑Quill REIT) (a real estate investment trust listed in Malaysia) on or after 3 November 2020 is exempt from tax.\n(2) Dividend income and interest income received in Singapore by CCT Galaxy One Pte. Ltd. (a company incorporated in Singapore) from Gallileo Property S.a.r.l (a company incorporated in Luxembourg) on or after 3 November 2020 is exempt from tax.\n(3) Dividend income and interest income received in Singapore by CCT Mercury One Pte. Ltd. (a company incorporated in Singapore) from MAC Property Company B.V. and MAC Car Park Company B.V. (companies incorporated in the Netherlands) on or after 3 November 2020 is exempt from tax.\n(4) The exemptions in sub‑paragraphs (1) to (3) are subject to the conditions specified in the letter of approval dated 11 June 2020 addressed to EY Corporate Advisors Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (CapitaLand Commercial Trust, etc. — Section 13(12) Exemption) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

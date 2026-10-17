@@ -1,7 +1,7 @@
 {
  "id": "SG-H2315",
  "title": {
-  "zh": null,
+  "zh": "所得税（Neptune1 基础设施控股私人有限公司——第 13(12) 条豁免）命令 2026",
   "en": "Income Tax (Neptune1 Infrastructure Holdings Pte. Ltd. — Section 13(12) Exemption) Order 2026",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to sub-paragraph (3), interest income received in Singapore by Neptune1 Infrastructure Holdings Pte. Ltd. (a company incorporated in Singapore) on or after 22 December 2022 from Borkum Riffgrund 2 Investor Holding GmbH (a company incorporated in Germany) is exempt from tax.\n(2) Sub-paragraph (1) applies to interest income originating from the income of Borkum Riffgrund 2 Offshore Wind Farm GmbH & Co. oHG (a limited partnership registered or formed in Germany) from its ownership and operation of an offshore wind farm named “Borkum Riffgrund 2”, located in the North Sea off the coast of Germany.\n(3) The exemption in sub-paragraph (1) is subject to the conditions specified in the letter from the Inland Revenue Authority of Singapore dated 1 September 2025 that is issued on behalf of the Minister for Finance and addressed to EY Corporate Advisors Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Neptune1 Infrastructure Holdings Pte. Ltd. — Section 13(12) Exemption) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

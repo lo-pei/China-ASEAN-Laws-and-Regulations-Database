@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-255-N1-2023-FREE-TRADE-ZONES-DECLARED-AREAS-NOTIFICATIONS",
  "title": {
-  "zh": null,
+  "zh": "N1 2023 版自由贸易区（宣告区域）公告",
   "en": "N1 2023 ED FREE TRADE ZONES DECLARED AREAS NOTIFICATIONS",
   "orig": null
  },
@@ -63,5 +63,13 @@
     "en": "The area set out in Schedule 1 is hereby declared to be a free trade zone which boundary is delineated in the plan set out in Schedule 2. (paragraph 2)\n\nTERUNJING INDUSTRIAL SITE All that area occupied by ‘TERUNJING INDUSTRIAL SITE FREE TRADE ZONE’ containing an area of 95 hectares and bounded by Rimba Highway Road, Jalan Utama Terunjing Road, Muara-Tutong Highway Road and Kampung Lambak. The boundary commences at the north-most corner of the aforesaid ‘TERUNJING SITE FREE TRADE ZONE’ which point’s co-ordinates are North 551744.0000 metres and East 584253.0000 metres of Kampung Lambak A and runs approximately as follows: Point Northing Easting SCHEDULE 1 — (continued) Point Northing Easting to the point of commencement. (paragraph 2) PLAN\n\nTERUNJING INDUSTRIAL SITE FREE TRADE ZONE"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "N1 2023 ED FREE TRADE ZONES DECLARED AREAS NOTIFICATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

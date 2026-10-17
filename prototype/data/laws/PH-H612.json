@@ -1,7 +1,7 @@
 {
  "id": "PH-H612",
  "title": {
-  "zh": null,
+  "zh": "规范已盖印或标记的瓶子、箱子、木桶、小桶、大桶及其他类似容器使用的法案",
   "en": "An Act to Regulate the Use of Duly Stamped or Marked Bottles, Boxes, Casks, Kegs, Barrels and Other Similar Containers",
   "orig": "An Act to Regulate the Use of Duly Stamped or Marked Bottles, Boxes, Casks, Kegs, Barrels and Other Similar Containers"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 5, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Regulate the Use of Duly Stamped or Marked Bottles, Boxes, Casks, Kegs, Barrels and Other Similar Containers",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

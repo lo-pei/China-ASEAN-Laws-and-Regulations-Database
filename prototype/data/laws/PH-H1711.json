@@ -1,7 +1,7 @@
 {
  "id": "PH-H1711",
  "title": {
-  "zh": null,
+  "zh": "为公共工程拨款并使之与以往公共工程拨款相协调的法案",
   "en": "An Act to Appropriate Funds for Public Works, Synchronizing the Same with Previous Public Works Appropriations",
   "orig": "An Act to Appropriate Funds for Public Works, Synchronizing the Same with Previous Public Works Appropriations"
  },
@@ -240,5 +240,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 22, 1957, except Sections 7 and 8."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Appropriate Funds for Public Works, Synchronizing the Same with Previous Public Works Appropriations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

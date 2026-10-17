@@ -1,7 +1,7 @@
 {
  "id": "SG-H837",
  "title": {
-  "zh": null,
+  "zh": "租金管制（豁免）（合并）公告",
   "en": "Control of Rent (Exemption) (Consolidation) Notification",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The following premises are exempted from the provisions of the Act:\n(a)any premises —\n(i)which at any time on or after 7th October 1988 are occupied by the owner for any period;\n(ii)which at any time on or after that date are neither occupied by the owner nor by the tenant for any period; or\n(iii)owned by a body corporate which at any time on or after that date are —\n(A)occupied by or let to any director or employee of the body corporate for any period;\n(B)neither occupied by or let to any director or employee of the body corporate nor occupied by any other tenant for any period; and\n(b)1 any domestic premises —\n1 These premises continue to be exempted from the Act notwithstanding the revocation of G.N. S 290/80.\n(i)which at any time on or after 24th October 1980 have not for any period been occupied by the owner or let to a tenant; or\n(ii)owned by a body corporate which at any time on or after that date have for any period been occupied by or let to any director or employee of the body corporate.\n[S 290/80]\n[24.10.80].\n[S 284/88]\n[7.10.88]\n(2) For the purposes of sub-paragraph (1)(b), “domestic premises” means —\n(a)a building used wholly or chiefly as a separate dwelling and having a house number allotted to it under section 50 of the Property Tax Act [Cap. 254]; or\n(b)part of a building used wholly or chiefly as a separate dwelling and having such a house number."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Control of Rent (Exemption) (Consolidation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

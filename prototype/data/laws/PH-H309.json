@@ -1,7 +1,7 @@
 {
  "id": "PH-H309",
  "title": {
-  "zh": null,
+  "zh": "修订第81号共和国法第1条就矿权、采矿特许权及水权、木材特许权的定位人、持有人、承租人、经营人履行条款、条件、约定另定免除及延长期限，在特定条件下免除采矿税、特定税与房地产税的法案",
   "en": "An Act to Amend Section One of the Republic Act Numbered Eighty-One Providing a New Time Limit for the Waiver Of, and/or Extension of the Period Within Which to Perform, Accomplish or Comply With, Any Term, Condition, or Stipulation Required of Locators, Holders, Lessees, Operators of Mining Claims or Concessions, and of Water Rights and Timber Concessions Connected with the Mining Industry, and the Condonation of Mining, Specific and Real Estate Taxes, Under Certain Terms and Conditions",
   "orig": "An Act to Amend Section One of the Republic Act Numbered Eighty-One Providing a New Time Limit for the Waiver Of, and/or Extension of the Period Within Which to Perform, Accomplish or Comply With, Any Term, Condition, or Stipulation Required of Locators, Holders, Lessees, Operators of Mining Claims or Concessions, and of Water Rights and Timber Concessions Connected with the Mining Industry, and the Condonation of Mining, Specific and Real Estate Taxes, Under Certain Terms and Conditions"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 1, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section One of the Republic Act Numbered Eighty-One Providing a New Time Limit for the Waiver Of, and/or Extension of the Period Within Which to Perform, Accomplish or Comply With, Any Term, Condition, or Stipulation Required of Locators, Holders, Lessees, Operators of Mining Claims or Concessions, and of Water Rights and Timber Concessions Connected with the Mining Industry, and the Condonation of Mining, Specific and Real Estate Taxes, Under Certain Terms and Conditions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

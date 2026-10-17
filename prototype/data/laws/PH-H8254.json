@@ -1,7 +1,7 @@
 {
  "id": "PH-H8254",
  "title": {
-  "zh": null,
+  "zh": "将甲米地省Kawit-Noveleta绕行公路一部分改设为国道的法案",
   "en": "An Act Converting a Portion of the Kawit-Noveleta Diversion Road, Province of Cavite into a National Road",
   "orig": "An Act Converting a Portion of the Kawit-Noveleta Diversion Road, Province of Cavite into a National Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting a Portion of the Kawit-Noveleta Diversion Road, Province of Cavite into a National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

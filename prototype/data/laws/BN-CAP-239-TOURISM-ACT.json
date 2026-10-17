@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-239-TOURISM-ACT",
  "title": {
-  "zh": null,
+  "zh": "旅游法",
   "en": "TOURISM ACT",
   "orig": null
  },
@@ -721,5 +721,13 @@
     "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make such regulations as he considers necessary or expedient for giving effect to or carrying out the provisions of this Act, including the prescription of fees or other things required to be or which may be prescribed under this Act, and for the due administration thereof.\n\n(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following\n\n(a) the duration and conditions of any licences, and the manner and procedure for its renewal;\n\n(b) the fees to be paid for any licences and any other fees which are required to be prescribed under this Act;\n\n(c) the procedures of entry into and inspection of premises;\n\n(d) the keeping of proper books, accounts and records by the licensed travel agents and the form and mode of the same;\n\n(e) regulating the establishment and management of tourism training institutions, including the prescription of course content and training programmes, books or materials to be used, the standards to which the institutions shall conform, the granting of permits by the Director for lecturers and instructors, the qualifications of lectures and instructors, the examinations to be conducted and the certificates or such other qualification to be awarded;\n\n(f) the forms of any register or notice or required to be kept, issued or made under this Act and the procedures for the service of such notices or orders;\n\n(g) to provide for the classification and reclassification of tourist accommodation premises and the rating of such premises by the\n\n(h) the conduct of or the carrying on of any business or service relating to travel agents or tourist guides and the standards of performance to be maintained by them and the granting of exemptions by the Director to any travel agent or tourist guide from any requirement imposed by regulations made under this paragraph; and\n\n(i) anything which may be prescribed or is required to be prescribed under this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TOURISM ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

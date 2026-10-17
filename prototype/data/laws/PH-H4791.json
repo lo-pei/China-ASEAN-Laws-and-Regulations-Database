@@ -1,7 +1,7 @@
 {
  "id": "PH-H4791",
  "title": {
-  "zh": null,
+  "zh": "将东明多洛省 Baco市镇 Alag村 Alag 社区学校的名称变更为Felix Hernandez 社区学校的法案",
   "en": "An Act Changing the Name of the Alag Community School in Barrio Alag, Municipality of Baco, Province of Oriental Mindoro, to Felix Hernandez Community School.",
   "orig": "An Act Changing the Name of the Alag Community School in Barrio Alag, Municipality of Baco, Province of Oriental Mindoro, to Felix Hernandez Community School."
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 19, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Alag Community School in Barrio Alag, Municipality of Baco, Province of Oriental Mindoro, to Felix Hernandez Community School.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

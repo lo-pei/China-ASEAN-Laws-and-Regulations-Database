@@ -1,7 +1,7 @@
 {
  "id": "PH-H6367",
  "title": {
-  "zh": null,
+  "zh": "为修订第7166号共和国法第3条第(C)与(D)款而实行选举改革的法案",
   "en": "An Act Instituting Electoral Reforms for the Purpose of Amending Section 3, Paragraphs (C) and (D) of Republic Act No. 7166",
   "orig": "An Act Instituting Electoral Reforms for the Purpose of Amending Section 3, Paragraphs (C) and (D) of Republic Act No. 7166"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Instituting Electoral Reforms for the Purpose of Amending Section 3, Paragraphs (C) and (D) of Republic Act No. 7166",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

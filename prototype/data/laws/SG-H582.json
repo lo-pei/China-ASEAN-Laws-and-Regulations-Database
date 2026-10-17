@@ -1,7 +1,7 @@
 {
  "id": "SG-H582",
  "title": {
-  "zh": null,
+  "zh": "儿童发展共同储蓄（假期与福利）条例 2017",
   "en": "Child Development Co-Savings (Leave and Benefits) Regulations 2017",
   "orig": null
  },
@@ -434,5 +434,13 @@
     "en": "19.—(1) [Deleted by S 225/2025 wef 01/04/2025]\n(2) Where a woman mentioned in regulation 4 of the ST Regulations submits a claim under section 9(5A) of the Act, or applies for an adjustment of the claim under regulation 2B, on or after 1 November 2021, regulation 5 applies in relation to the claim or application, except that regulation 5(3) of the unamended Regulations applies instead of regulation 5(2), (4) and (5).\n(3) Regulation 7 or 8 (as the case may be) applies in relation to —\n(a)a claim by an employer mentioned in regulation 7 of the ST Regulations; or\n(b)an application for an adjustment of the claim under regulation 2B on or after 1 November 2021.\n(4) Regulation 9 applies in relation to —\n(a)a claim by a self-employed person mentioned in regulation 8(1) of the ST Regulations; or\n(b)an application for an adjustment of the claim under regulation 2B on or after 1 November 2021.\n(5) Where a self-employed person —\n(a)submits, on or after 1 November 2021, a claim under section 12B(16) or (16A) of the Act; or\n(b)applies for an adjustment of the claim under regulation 2B on or after that date,\nregulation 14(4), (5) and (6) applies in relation to that claim or application.\n(6) Where a person mentioned in regulation 15 of the 2016 Regulations applies for an adjustment of a claim under regulation 2B on or after 1 November 2021, the revoked Regulations continue to apply to the calculation of any adjustment to the amount of reimbursement or payment, as the case may be.\n(7) In this regulation —\n“2016 Regulations” means the Child Development Co-Savings (Paid Maternity Leave, Maternity Benefit, Adoption Leave, Shared Parental Leave and Paternity Leave) Regulations 2016 (G.N. No. S 711/2016) as in force on 1 January 2017;\n“revoked Regulations” means the Child Development Co‑Savings (Paid Maternity Leave, Maternity Benefit, Adoption Leave, Shared Parental Leave and Paternity Leave) Regulations (Rg 1) revoked by regulation 14 of the 2016 Regulations;\n“ST Regulations” means the Child Development Co-Savings (Amendment) Act 2021 (Saving and Transitional Provisions) Regulations 2021 (G.N. No. S 826/2021) as in force on 1 November 2021;\n“unamended Regulations” means these Regulations as in force immediately before 1 November 2021.\n[S 827/2021 wef 01/11/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Child Development Co-Savings (Leave and Benefits) Regulations 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

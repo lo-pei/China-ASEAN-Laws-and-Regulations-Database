@@ -1,7 +1,7 @@
 {
  "id": "SG-H1203",
  "title": {
-  "zh": null,
+  "zh": "教育（资助）条例 1982",
   "en": "Education (Grant-in-Aid) Regulations 1982",
   "orig": null
  },
@@ -594,5 +594,13 @@
     "en": "THE SCHEDULE\nRegulation 38\n(1) Anglo-Chinese School (Independent)\n(2) St. Joseph’s Institution\n(3) Hwa Chong Institution\n(4) Methodist Girls’ School\n(5) Singapore Chinese Girls’ School\n(6) Nanyang Girls’ High School"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Education (Grant-in-Aid) Regulations 1982",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

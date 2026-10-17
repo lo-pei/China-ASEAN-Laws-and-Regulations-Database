@@ -1,7 +1,7 @@
 {
  "id": "SG-H2758",
  "title": {
-  "zh": null,
+  "zh": "新加坡国内税务局（电子送达系统）条例 2024",
   "en": "Inland Revenue Authority of Singapore (Electronic Service System) Regulations 2024",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) The Authority, or any person authorised in writing by the Authority, may inspect, copy or make extracts from the records and accounts kept by an electronic service agent relating to the use of the IRAS Tax Portal.\n(2) The Authority, or any person authorised in writing by the Authority, may require an electronic service agent to provide any reasonable assistance that the Authority or person may require for the purpose of this regulation, including the provision of access to any decryption information necessary to decrypt any data relating to the use of the IRAS Tax Portal by the electronic service agent.\n(3) An electronic service agent who, without reasonable excuse, fails to comply with any requirement of the Authority, or a person authorised in writing by the Authority under paragraph (2), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Inland Revenue Authority of Singapore (Electronic Service System) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

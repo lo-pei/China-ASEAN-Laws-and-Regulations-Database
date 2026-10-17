@@ -1,7 +1,7 @@
 {
  "id": "PH-H3967",
  "title": {
-  "zh": null,
+  "zh": "将邦阿西楠省初审法院两名法官的驻地由Dagupan市迁至邦阿西楠省Santa Barbara与Mangaldan市镇，为此修订《1948年司法法》第52条的法案",
   "en": "An Act Transferring the Stations of the Two Judges of the Court of First Instance of Pangasinan from the City of Dagupan to the Municipalities of Santa Barbara and Mangaldan, Province of Pangasinan, Amending for the Purpose Section Fifty-Two of the Judiciary Act of 1948",
   "orig": "An Act Transferring the Stations of the Two Judges of the Court of First Instance of Pangasinan from the City of Dagupan to the Municipalities of Santa Barbara and Mangaldan, Province of Pangasinan, Amending for the Purpose Section Fifty-Two of the Judiciary Act of 1948"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring the Stations of the Two Judges of the Court of First Instance of Pangasinan from the City of Dagupan to the Municipalities of Santa Barbara and Mangaldan, Province of Pangasinan, Amending for the Purpose Section Fifty-Two of the Judiciary Act of 1948",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

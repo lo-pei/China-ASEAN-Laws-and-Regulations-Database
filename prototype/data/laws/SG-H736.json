@@ -1,7 +1,7 @@
 {
  "id": "SG-H736",
  "title": {
-  "zh": null,
+  "zh": "委员会",
   "en": "Commission",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Inquiry Commissions Ordinance 1941\nNo. 5 of 1941\nCommission\nN 7\nG.N. No. S 691/1950\nREVISED EDITION 1990\n( )\n[17th April 1950]\nGEORGE VI, by the Grace of God of Great Britain, Ireland and the British Dominions beyond the Seas King, Defender of the Faith.\nBy His Excellency Sir FRANKLIN CHARLES GIMSON, Knight Commander of the Most Distinguished Order of Saint Michael and Saint George, Governor and Commander-in-Chief of the Colony of Singapore.\nWhereas it is provided by the Inquiry Commissions Ordinance, 1941, that it shall be lawful for the Governor whenever he shall deem it advisable to issue a Commission appointing one or more Commissioners to enquire inter alia into any matter in which an enquiry would, in the opinion of the Governor in Council, be for the public welfare:\nAnd whereas the Governor in Council has deemed it expedient and in the interests of public welfare that a diligent and full enquiry should forthwith be made into the following matters, namely:\nAll aspects of hawking with particular emphasis on the social, economic and health aspects having regard to the interests of the public and of the hawkers.\nNow, therefore, I, Sir FRANKLIN CHARLES GIMSON hereby appoint the following persons, namely:\nProfessor Thomas Henry Silcock,\nThe Honourable Mr. Lim Yew Hock,\nThe Honourable Che Sardon bin Haji Jubir,\nMr. Goh Hood Kiat,\nDr. Pandarapillai Thillai Nathan,\nMr. Chin Chye Fong, S.C.H., J.P.,\nMr. Edward Cecil Stapleton Adkins,\nMr. Goh Liang Chuan, and\nMrs. Nelly Svasti,\nto be Commissioners and hereby authorise the said Commissioners to enquire into the matters aforesaid as hereinafter directed:\n1.I direct that Professor Thomas Henry Silcock shall be Chairman of this Commission of Enquiry: Provided that in the absence of the said Professor Thomas Henry Silcock from any sitting of the Commission an Acting Chairman shall be elected by the Commissioners present at such sitting.\n2.I direct that the first sitting of the Commission shall take place in the Council Chamber of the Legislative Council on such date and at such hour as the Chairman may designate and that at any sitting of the Commission three members shall form a quorum.\n3.I direct that the Commission shall normally hold its sittings in the Council Chamber of the Legislative Council but shall have power in its discretion to adjourn to any other suitable place to hear evidence or for any other purpose connected with its duties.\n4.I direct that the Inquiry shall be held in public: Provided that the Chairman or Acting Chairman of the Commission of Inquiry may in his discretion direct that any evidence may be heard in camera or otherwise recorded without being made available to the public.\n5.I appoint Mr. Woon Wah Siong of the Social Welfare Department to be Secretary to the Commission and to attend the sittings thereof and generally to exercise the powers conferred and to carry out the duties imposed upon such Secretary as are referred to in section 6 of the said Inquiry Commissions Ordinance 1941 and I authorise the said Secretary to employ such clerical or other assistance for the purposes of the Inquiry as the Commissioners may require. In case of necessity I also authorise the Chairman of the Commission to appoint any suitable person temporarily to act as Secretary to the Commission.\n6.I direct the Commissioner of Police to detail police constables to attend upon the Commission for the purpose of preserving order during the proceedings, to serve summons on witnesses or to perform such ministerial duties as the Commissioners shall direct.\n7.Finally I direct that the Commissioners after completing their inquiry render to me their report thereon and make such recommendations for short and long term policies concerning hawkers in Singapore as they may think necessary."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

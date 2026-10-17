@@ -1,7 +1,7 @@
 {
  "id": "PH-H1057",
  "title": {
-  "zh": null,
+  "zh": "修订并废止第920号共和国法中关于宿务省公共工程项目的某些项目的法案",
   "en": "An Act Amending and Repealing Certain Items in Republic Act Numbered Nine Hundred and Twenty, Regarding Public Works Projects for the Province of Cebu",
   "orig": "An Act Amending and Repealing Certain Items in Republic Act Numbered Nine Hundred and Twenty, Regarding Public Works Projects for the Province of Cebu"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 11, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending and Repealing Certain Items in Republic Act Numbered Nine Hundred and Twenty, Regarding Public Works Projects for the Province of Cebu",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

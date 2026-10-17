@@ -1,7 +1,7 @@
 {
  "id": "SG-H1085",
  "title": {
-  "zh": null,
+  "zh": "债务催收（罪行构成）条例 2023",
   "en": "Debt Collection (Composition of Offences) Regulations 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the Licensing Officer or an authorised officer in accordance with section 35 of the Act:\n(a)an offence under section 28(3) of the Act;\n(b)an offence under regulation 10(2), 11(3), 12(2) or 13(4) of the Debt Collection (General) Regulations 2023 (G.N. No. S 724/2023)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Debt Collection (Composition of Offences) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7104",
  "title": {
-  "zh": null,
+  "zh": "将碧瑶市碧瑶总医院与医疗中心床位由四百（400）张增至五百（500）张，改善其服务设施与专业医疗服务，并为此拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Baguio General Hospital and Medical Center, Located in Baguio City, From Four Hundred (400) to Five Hundred (500) Beds, Upgrading the Servicefacilities and Professional Health Care Therein, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Baguio General Hospital and Medical Center, Located in Baguio City, From Four Hundred (400) to Five Hundred (500) Beds, Upgrading the Servicefacilities and Professional Health Care Therein, and Appropriating Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Baguio General Hospital and Medical Center, Located in Baguio City, From Four Hundred (400) to Five Hundred (500) Beds, Upgrading the Servicefacilities and Professional Health Care Therein, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

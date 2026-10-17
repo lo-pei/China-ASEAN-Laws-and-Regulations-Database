@@ -1,7 +1,7 @@
 {
  "id": "PH-H1947",
  "title": {
-  "zh": null,
+  "zh": "为甲米地市增设1名市镇法官职位，为此修订第547号联邦法第74条的法案",
   "en": "An Act Providing for the Creation of an Additional Position of Municipal Judge for the City of Cavite, Amending for the Purpose Section Seventy-Four of Commonwealth Act Numbered Five Hundred Forty-Seven",
   "orig": "An Act Providing for the Creation of an Additional Position of Municipal Judge for the City of Cavite, Amending for the Purpose Section Seventy-Four of Commonwealth Act Numbered Five Hundred Forty-Seven"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 15, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Creation of an Additional Position of Municipal Judge for the City of Cavite, Amending for the Purpose Section Seventy-Four of Commonwealth Act Numbered Five Hundred Forty-Seven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

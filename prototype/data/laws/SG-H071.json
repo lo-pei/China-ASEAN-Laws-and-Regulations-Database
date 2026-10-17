@@ -1,7 +1,7 @@
 {
  "id": "SG-H071",
  "title": {
-  "zh": null,
+  "zh": "活跃通勤（台达电子国际（新加坡）私人有限公司在明地迷亚路所获得的豁免）命令 2026",
   "en": "Active Mobility (Delta Electronics Int’l (Singapore) Pte. Ltd. — Exemption for Bendemeer Road) Order 2026",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nSpecified area and specified footpaths"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Active Mobility (Delta Electronics Int’l (Singapore) Pte. Ltd. — Exemption for Bendemeer Road) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

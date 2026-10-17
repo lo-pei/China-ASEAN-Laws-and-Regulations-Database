@@ -1,7 +1,7 @@
 {
  "id": "SG-H3179",
  "title": {
-  "zh": null,
+  "zh": "商船（海事劳工公约）（表格、证书与费用）条例 2014",
   "en": "Merchant Shipping (Maritime Labour Convention) (Forms, Certificates and Fees) Regulations 2014",
   "orig": null
  },
@@ -156,5 +156,13 @@
     "en": "FOURTH SCHEDULE\nRegulations 5(1) and 6(1)\nFees\n1.Issue of Part I of the Declaration of Maritime Labour Compliance\n$70\n2.Replacement of Part I of the Declaration of Maritime Labour Compliance\n$76.30 (inclusive of goods and services tax)\n3.Issue of certificate of authorisation to operate a seafarer recruitment and placement service\n$100\n4.Replacement of certificate of authorisation to operate a seafarer recruitment and placement service\n$109 (inclusive of goods and services tax)\n5.Application for a certificate of proficiency as a ship’s cook\n$25\n6.Issue of a certificate of proficiency as a ship’s cook\n$18\n7.Replacement of a certificate of proficiency as a ship’s cook\n$19.62 (inclusive of goods and services tax)\n[S 866/2023 wef 01/01/2024]\n[S 1014/2022 wef 01/01/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Maritime Labour Convention) (Forms, Certificates and Fees) Regulations 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

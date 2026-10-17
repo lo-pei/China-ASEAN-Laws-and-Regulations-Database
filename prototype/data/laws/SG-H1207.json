@@ -1,7 +1,7 @@
 {
  "id": "SG-H1207",
  "title": {
-  "zh": null,
+  "zh": "教育捐赠与储蓄计划（2014 年教育储蓄缴款额）命令 2014",
   "en": "Education Endowment and Savings Schemes (Amount of Edusave Contribution for 2014) Order 2014",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. For the purposes of section 9(3)(b) of the Act, the qualifying date for the year 2014 is 10 November 2014."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Education Endowment and Savings Schemes (Amount of Edusave Contribution for 2014) Order 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H143",
  "title": {
-  "zh": null,
+  "zh": "航空导航（125——复杂通用航空）条例 2018",
   "en": "Air Navigation (125 — Complex General Aviation) Regulations 2018",
   "orig": null
  },
@@ -1966,5 +1966,13 @@
     "en": "FOURTH SCHEDULE\nRegulation 59(2)\nEquipment that do not require approval\n1.A time piece.\n2.A whistle.\n3.A sea anchor and any equipment necessary for mooring, anchoring or manoeuvring the aircraft on water.\n4.Any equipment required for making distress signals."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Air Navigation (125 — Complex General Aviation) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

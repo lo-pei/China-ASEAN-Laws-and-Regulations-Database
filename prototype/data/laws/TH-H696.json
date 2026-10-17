@@ -1,7 +1,7 @@
 {
  "id": "TH-H696",
  "title": {
-  "zh": null,
+  "zh": "农业经济法，佛历 2522（1979）",
   "en": "AGRICULTURAL ECONOMICS ACT, B.E. 2522 (1979)",
   "orig": "พระราชบัญญัติเศรษฐกิจการเกษตร พ.ศ. 2522"
  },
@@ -200,5 +200,13 @@
     "th": "มาตรา ๑๖ ให้รัฐมนตรีว่าการกระทรวงเกษตรและสหกรณ์รักษาการตามพระราชบัญญัตินี้"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "AGRICULTURAL ECONOMICS ACT, B.E. 2522 (1979)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

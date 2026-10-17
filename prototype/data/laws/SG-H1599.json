@@ -1,7 +1,7 @@
 {
  "id": "SG-H1599",
  "title": {
-  "zh": null,
+  "zh": "外国国家标志（展示管制）法 1949",
   "en": "Foreign National Emblems (Control of Display) Act 1949",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "8.—(1) Any person who —\n(a)displays any foreign national emblem contrary to the provisions of this Act or of any condition of any order or permit made or given under section 5; or\n[Act 29 of 2022 wef 01/08/2023]\n(b)being the owner, tenant, lessee, occupier or person in charge of any premises knowingly permits the display of any foreign national emblem on or from those premises or within any school contrary to the provisions of this Act or of any condition of any order or permit made or given under section 5,\n[Act 29 of 2022 wef 01/08/2023]\nshall be guilty of an offence and shall be liable on conviction —\n(i)in the case of a person other than a body corporate to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both; and\n(ii)in the case of a body corporate to a fine not exceeding $1,000.\n(2) No prosecution shall be instituted under this Act without the prior consent in writing of the Public Prosecutor."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Foreign National Emblems (Control of Display) Act 1949",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

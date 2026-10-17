@@ -1,7 +1,7 @@
 {
  "id": "PH-H3710",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾共和国总统将国家政府私产领域部分土地出售给米沙鄢-民答那峨工会联合会",
   "en": "An Act Authorizing the President of the Republic of the Philippines to Sell Portions of the Private Domain of the National Government to the Visayas-Mindanao Confederation of Trade Unions",
   "orig": "An Act Authorizing the President of the Republic of the Philippines to Sell Portions of the Private Domain of the National Government to the Visayas-Mindanao Confederation of Trade Unions"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Republic of the Philippines to Sell Portions of the Private Domain of the National Government to the Visayas-Mindanao Confederation of Trade Unions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1384",
  "title": {
-  "zh": null,
+  "zh": "环境公共卫生（第 31（1）条豁免）条例 2019",
   "en": "Environmental Public Health (Section 31(1) Exemption) Regulations 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Section 31(1) of the Act does not apply in relation to the collection, removal, transporting and storing of used cooking oil by Foodxervices Inc. Pte Ltd under an agreement with Alpha Biofuels (S) Pte. Ltd. (called in this regulation Alpha Biofuels), for the purposes of the sandbox trial.\n(2) In this regulation, “sandbox trial” means the trial conducted under Alpha Biofuels’ agreement with the Agency dated 13 May 2019 to test Alpha Biofuels’ —\n(a)business model for the collection of used cooking oil for recycling; and\n(b)computer software named ACORN that facilitates such collection."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Section 31(1) Exemption) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

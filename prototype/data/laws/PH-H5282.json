@@ -1,7 +1,7 @@
 {
  "id": "PH-H5282",
  "title": {
-  "zh": null,
+  "zh": "将奎松市国立骨科医院与康复医疗中心的名称变更为菲律宾骨科中心的法案",
   "en": "An Act Changing the Name of the National Orthopedic Hospital and Rehabilitation Medical Center in Quezon City to Philippine Orthopedic Center",
   "orig": "An Act Changing the Name of the National Orthopedic Hospital and Rehabilitation Medical Center in Quezon City to Philippine Orthopedic Center"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the National Orthopedic Hospital and Rehabilitation Medical Center in Quezon City to Philippine Orthopedic Center",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

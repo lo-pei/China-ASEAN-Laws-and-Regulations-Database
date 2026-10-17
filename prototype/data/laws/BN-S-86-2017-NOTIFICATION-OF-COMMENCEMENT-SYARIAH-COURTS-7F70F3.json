@@ -1,7 +1,7 @@
 {
  "id": "BN-S-86-2017-NOTIFICATION-OF-COMMENCEMENT-SYARIAH-COURTS-7F70F3",
  "title": {
-  "zh": null,
+  "zh": "伊斯兰法庭民事程序和解规则 2013 生效公告",
   "en": "NOTIFICATION OF COMMENCEMENT SYARIAH COURTS CIVIL PROCEDURE SULH RULES 2013",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "12th. DECEMBER, 201 7 No. S 86 SYARIAH COURTS CIVIL PROCEDURE {SULH] RULES, 2013 (S 3412013) Notification of commencement In exercise of the power conferred by section 111) of the Syariah Courts Civil Procedure (Sulh) Rules, 2013, the Chief Syar'ie Judge hereby appoints 2nd January 2018 as the date on which that Rules shall commence. Dated this 1st. day of Rabiulawal, 1439 Hijriah corresponding to the 20th. day of November, 2017.\n\nPEHIN ORANG KAYA PADUKA SERI UTAMA\n\nDATO PADUKA SERI SETIA USTAZ HAJI AWANG SALIM\n\nBIN HAJI BESAR Chief Syar'ie Judge, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT SYARIAH COURTS CIVIL PROCEDURE SULH RULES 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

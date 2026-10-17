@@ -1,7 +1,7 @@
 {
  "id": "PH-H8628",
  "title": {
-  "zh": null,
+  "zh": "设立人民生存基金以提供长期资金流使政府有效应对气候变化问题，为此修订第 9729 号共和国法并为其他目的法案",
   "en": "An Act Establishing the People’s Survival Fund to Provide Long-Term Finance Streams to Enable the Government to Effectively Address the Problem of Climate Change, Amending for the Purpose Republic Act No. 9729, Otherwise Known as the “climate Change Act of 2009?, and for Other Purposes",
   "orig": "An Act Establishing the People’s Survival Fund to Provide Long-Term Finance Streams to Enable the Government to Effectively Address the Problem of Climate Change, Amending for the Purpose Republic Act No. 9729, Otherwise Known as the “climate Change Act of 2009?, and for Other Purposes"
  },
@@ -210,5 +210,13 @@
     "en": "Effectivity Clause. – This Act shall take effect after fifteen (15) days following its complete publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the People’s Survival Fund to Provide Long-Term Finance Streams to Enable the Government to Effectively Address the Problem of Climate Change, Amending for the Purpose Republic Act No. 9729, Otherwise Known as the “climate Change Act of 2009?, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

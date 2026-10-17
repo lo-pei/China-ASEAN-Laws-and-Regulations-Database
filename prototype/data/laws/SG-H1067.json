@@ -1,7 +1,7 @@
 {
  "id": "SG-H1067",
  "title": {
-  "zh": null,
+  "zh": "海关（本地制造商品货物税估价）条例 2022",
   "en": "Customs (Valuation of Locally-Manufactured Goods for Excise Duty) Regulations 2022",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "12.—(1) This regulation applies to the conversion of a foreign currency into Singapore currency in order to determine the value of any locally‑manufactured goods for the purposes of levying excise duty under the Act.\n(2) For the purposes of levying excise duty on any locally‑manufactured goods, the rate of exchange is the selling rate on the date of the authorisation under regulation 11(2), 12(2) or 13(6) of the Customs Regulations (Rg 2) pursuant to which the goods are removed under those Regulations.\n(3) For the purposes of this regulation, the selling rate on any date is the selling rate in Singapore on that date, as notified by the Director‑General in the manner determined by the Director‑General."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Customs (Valuation of Locally-Manufactured Goods for Excise Duty) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

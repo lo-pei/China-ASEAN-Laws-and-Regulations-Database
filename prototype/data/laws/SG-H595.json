@@ -1,7 +1,7 @@
 {
  "id": "SG-H595",
  "title": {
-  "zh": null,
+  "zh": "儿童与青少年（审查委员会）条例 2011",
   "en": "Children and Young Persons (Review Board) Regulations 2011",
   "orig": null
  },
@@ -221,5 +221,13 @@
     "en": "15. The Children and Young Persons (Board of Visitors) Regulations (Rg 2) Children and Young Persons (Advisory Board) Regulations (Rg 3) are revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Children and Young Persons (Review Board) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

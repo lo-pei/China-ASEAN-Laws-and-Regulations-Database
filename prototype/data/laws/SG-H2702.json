@@ -1,7 +1,7 @@
 {
  "id": "SG-H2702",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 3 号）命令 2023",
   "en": "Infrastructure Protection (Protected Places) (No. 3) Order 2023",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nPart 1\nFirst column\nSecond column\nThe Authority\nProtected Place\nCommissioner of Police,\nSingapore Police Force\nNEW PHOENIX PARK SECTOR B SECURITY CHECKPOINT\nAll that area comprised in part of Lots 992P(PT), 939W and 936L(PT) in TS No. 29 occupied by “NEW PHOENIX PARK SECTOR B SECURITY CHECKPOINT” containing an area of about 1187.9 square metres bounded approximately as follows:\nCommencing at a point 34037.350 metres North and 29112.418 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n34037.350\n29112.418\n34034.610\n29116.205\n34033.371\n29118.139\n34032.544\n29119.580\n34031.820\n29121.052\n34030.869\n29123.127\n34029.975\n29125.233\n34028.315\n29129.564\n34027.861\n29130.888\n34037.773\n29138.924\n34042.374\n29138.981\n34042.400\n29142.392\n34042.383\n29144.777\n34041.634\n29144.770\n34041.639\n29145.803\n34041.590\n29146.608\n34041.428\n29154.197\n34041.396\n29154.358\n34041.266\n29154.358\n34041.194\n29158.809\n34042.550\n29158.827\n34042.549\n29159.496\n34008.021\n29159.835\n34008.662\n29157.114\n34006.694\n29156.418\n34014.890\n29126.840\n34015.598\n29124.585\n34016.706\n29121.328\n34017.320\n29119.722\n34017.953\n29118.324\n34019.972\n29114.102\n34021.117\n29112.052\n34022.336\n29110.042\n34023.630\n29108.077\n34026.416\n29104.233\n34028.311\n29105.660\n34034.224\n29110.060\n34036.401\n29111.713\nto the point of commencement.\nThe boundaries of “NEW PHOENIX PARK SECTOR B SECURITY CHECKPOINT” are more particularly delineated in the Survey Plan set out below.\nPart 2\nSPECIFIED SURROUNDING AREA OF\nNEW PHOENIX PARK SECTOR B SECURITY CHECKPOINT\nAll that area comprised in part of Lots 992P(PT), 939W and 936L(PT) in TS No. 29 occupied by the “SPECIFIED SURROUNDING AREA OF NEW PHOENIX PARK SECTOR B SECURITY CHECKPOINT”, the boundaries of which are more particularly delineated in the map set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 3) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

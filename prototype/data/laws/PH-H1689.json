@@ -1,7 +1,7 @@
 {
  "id": "PH-H1689",
  "title": {
-  "zh": null,
+  "zh": "通过修订第466号联邦法（即国家国内税收法典，经修正）第24条与第32条，使寿险公司适用新所得税基础",
   "en": "An Act to Place Life Insurance Companies on an New Income Tax Basis by Amending Sections Twenty-Four and Thirty-Two of Commonwealth Act Numbered Four Hundred and Sixty-Six, Otherwise Known as the National Internal Revenue Code, as Amended",
   "orig": "An Act to Place Life Insurance Companies on an New Income Tax Basis by Amending Sections Twenty-Four and Thirty-Two of Commonwealth Act Numbered Four Hundred and Sixty-Six, Otherwise Known as the National Internal Revenue Code, as Amended"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Place Life Insurance Companies on an New Income Tax Basis by Amending Sections Twenty-Four and Thirty-Two of Commonwealth Act Numbered Four Hundred and Sixty-Six, Otherwise Known as the National Internal Revenue Code, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

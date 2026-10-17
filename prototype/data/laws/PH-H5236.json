@@ -1,7 +1,7 @@
 {
  "id": "PH-H5236",
  "title": {
-  "zh": null,
+  "zh": "将萨马省Basey市镇国立农业学校重新命名为Valeriano C. Yancha纪念学校的法案",
   "en": "An Act Renaming the Basey National Agricultural School in the Municipality of Basey, Province of Samar, as the Valeriano C. Yancha Memorial",
   "orig": "An Act Renaming the Basey National Agricultural School in the Municipality of Basey, Province of Samar, as the Valeriano C. Yancha Memorial"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Basey National Agricultural School in the Municipality of Basey, Province of Samar, as the Valeriano C. Yancha Memorial",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

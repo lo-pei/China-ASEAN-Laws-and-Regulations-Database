@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-128-2023-TRADE-UNIONS-ACT",
  "title": {
-  "zh": null,
+  "zh": "工会法",
   "en": "TRADE UNIONS ACT",
   "orig": null
  },
@@ -466,5 +466,13 @@
     "en": "The Minister may make regulations generally for carrying out the provisions of this Act and in particular but without prejudice to the generality of the foregoing power such regulations may provide for —\n\n(a) the books and registers to be kept for the purposes of this Act and the forms thereof;\n\n(b) the manner in which trade unions and the rules of the trade unions shall be registered and the fees payable on registration;\n\n(c) the manner in which, and the qualifications of persons by whom, the accounts of registered trade unions or of any class of such trade unions shall be audited;\n\n(d) the conditions subject to which inspection of documents kept by the Registrar shall be allowed and the fees which shall be chargeable in respect of such inspections;\n\n(e) the due disposal and safe custody of the funds and moneys of\n\n(f) the creation, administration, protection, control and disposal of the benevolent funds of registered trade unions and all matters connected therewith or incidental thereto;\n\n(g) the returns to be made, and the accounts to be rendered, to the Registrar by the officers of trade unions; and\n\n(h) anything required or permitted by this Act to be prescribed. (section 27(1))"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TRADE UNIONS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

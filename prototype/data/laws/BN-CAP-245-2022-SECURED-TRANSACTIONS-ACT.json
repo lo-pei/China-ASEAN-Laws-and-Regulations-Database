@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-245-2022-SECURED-TRANSACTIONS-ACT",
  "title": {
-  "zh": null,
+  "zh": "担保交易法",
   "en": "SECURED TRANSACTIONS ACT",
   "orig": null
  },
@@ -1460,5 +1460,13 @@
     "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make such regulations as he considers necessary or expedient for giving effect to or carrying out the provisions of this Act, including the prescription of fees or other things required to be or which may be prescribed under this Act, and for the due administration thereof.\n\n(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following matters —\n\n(a) the procedures, requirements and other matters in respect of the register and its operation, including the form of access to the\n\n(b) the fees and charges payable in connection with any proceedings or matter or in connection with the provision of any service by the Registry;\n\n(c) the procedures, requirements and other matters in respect of any registration under this Act, including —\n\n(i) the description of collateral in financing statements and financing change statements;\n\n(ii) the kinds of goods that may or shall be described by serial number;\n\n(iii) the serial number for various types of goods;\n\n(iv) the data fields, limits on the number of characters, abbreviations or symbols that may be used in statements and statements;\n\n(v) the manner of registering financing statements and financing change statements;\n\n(d) providing necessary information to be entered in the Registry to effect, renew, discharge or otherwise amend a\n\n(e) the procedures, requirements and other matters in respect of the form and manner of obtaining verification statements to confirm a registration;\n\n(f) the procedures, requirements and other matters in respect of searching the Registry, including —\n\n(i) criteria against which a search may be conducted;\n\n(ii) the method of disclosure;\n\n(iii) the form of search results;\n\n(iv) the abbreviations, expansions or symbols that may be used when conducting searches;\n\n(g) the procedures, requirements and other matters in respect of notices under this Act, including prescribing —\n\n(i) the matters in respect of which notices are required\n\n(ii) the form of notices under this Act;\n\n(h) anything which may be prescribed or is required to be prescribed under this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SECURED TRANSACTIONS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

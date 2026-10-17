@@ -1,7 +1,7 @@
 {
  "id": "PH-H7459",
  "title": {
-  "zh": null,
+  "zh": "将 Batanes 群岛及小岛设立为保护区、其外围水域设为缓冲带，并规定其管理及其他目的法案",
   "en": "An Act to Establish the Batanes Group of Islands and Islets as a Protected Area, and Its Peripheral Waters as Buffer Zones, Providing for Its Management and for Other Purposes",
   "orig": "An Act to Establish the Batanes Group of Islands and Islets as a Protected Area, and Its Peripheral Waters as Buffer Zones, Providing for Its Management and for Other Purposes"
  },
@@ -230,5 +230,13 @@
     "en": "Effectivity Clause. - This Act shall be translated in English and Ivatan. The English version shall be published once every week for three (3) consecutive weeks in a newspaper of general circulation and in Ivatan in a newspaper readily available in the area in and around the scope specified hereunder. It shall likewise be posted in the appropriate language in a conspicuous place in the provincial, municipal and barangay halls within the area as well as in three other places frequented by the public. Fifteen (15) days after the last publication, this Act shall have full force and effect."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish the Batanes Group of Islands and Islets as a Protected Area, and Its Peripheral Waters as Buffer Zones, Providing for Its Management and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

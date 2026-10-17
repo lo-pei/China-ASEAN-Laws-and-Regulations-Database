@@ -1,7 +1,7 @@
 {
  "id": "SG-H542",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（自雇人士）条例 1992",
   "en": "Central Provident Fund (Self-Employed Persons) Regulations 1992",
   "orig": null
  },
@@ -476,5 +476,13 @@
     "en": "THIRD SCHEDULE\nRegulation 9A(2)\nMaximum amount for relevant years\nstarting on or after 1 January 2025\nRelevant year\nAge of self-employed person\nMaximum amount\n1.Starting on 1 January 2025\nBelow 35 years of age on 1 January 2025\n$7,104\n35 years of age or older but below 45 years of age on 1 January 2025\n$7,992\n45 years of age or older but below 50 years of age on 1 January 2025\n$8,880\n50 years of age or older on 1 January 2025\n$9,324\n2.Starting on or after 1 January 2026\nBelow 35 years of age on 1 January of the relevant year\n$7,680\n35 years of age or older but below 45 years of age on 1 January of the relevant year\n$8,640\n45 years of age or older but below 50 years of age on 1 January of the relevant year\n$9,600\n50 years of age or older on 1 January of the relevant year\n$10,080\n[S 888/2025 wef 01/01/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund (Self-Employed Persons) Regulations 1992",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

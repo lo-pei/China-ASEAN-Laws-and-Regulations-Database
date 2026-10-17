@@ -1,7 +1,7 @@
 {
  "id": "SG-H2142",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）公告 2008",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) Notification 2008",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from tax the technical assistance fees payable by DHI Water & Environment (S) Pte Ltd from 1st October 2007 to 30th September 2012 (both dates inclusive) to its head office in Denmark, DHI for services rendered in the area of research and development.\n(2) The exemption is subject to conditions specified in the letter of approval dated 27th December 2007 addressed to DHI Water & Environment (S) Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) Notification 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

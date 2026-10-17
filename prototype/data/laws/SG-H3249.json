@@ -1,7 +1,7 @@
 {
  "id": "SG-H3249",
  "title": {
-  "zh": null,
+  "zh": "新加坡金融管理局（财务罚款）公告 2013",
   "en": "Monetary Authority of Singapore (Financial Penalty) Notification 2013",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 148(3) of the Act, the financial penalty payable by any primary dealer, who fails to comply with any direction given by the Authority under section 147(1) of the Act, is $1,000 per day or part of a day of such failure."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Monetary Authority of Singapore (Financial Penalty) Notification 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

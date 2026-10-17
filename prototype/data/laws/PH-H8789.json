@@ -1,7 +1,7 @@
 {
  "id": "PH-H8789",
  "title": {
-  "zh": null,
+  "zh": "在曼达卢永市Addition Hills描笼涯设立综合学校，名称为Addition Hills综合学校，并为此拨款的法案",
   "en": "An Act Establishing An Integrated School in Barangay Addition Hills, City of Mandaluyong to Be Known as Addition Hills Integrated School and Appropriating Funds Therefor",
   "orig": "An Act Establishing An Integrated School in Barangay Addition Hills, City of Mandaluyong to Be Known as Addition Hills Integrated School and Appropriating Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "Effectivity. This Act shall take effect fifteen (15) days after its publication on in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing An Integrated School in Barangay Addition Hills, City of Mandaluyong to Be Known as Addition Hills Integrated School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

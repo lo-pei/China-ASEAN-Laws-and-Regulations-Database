@@ -1,7 +1,7 @@
 {
  "id": "SG-H3324",
  "title": {
-  "zh": null,
+  "zh": "国民登记条例",
   "en": "National Registration Regulations",
   "orig": null
  },
@@ -415,5 +415,13 @@
     "en": "THE SCHEDULE\nRegulation 24\nFEES\n1.For the issue of an identity card to a citizen of Singapore —\n(a)on registration or re-registration under regulation 3\n$ 10.\n(b)on re-registration under regulation 14, 14A or 14B\n$ 10.\n2.For the issue of an identity card to a person who is not a citizen of Singapore —\n(a)on registration or re-registration under regulation 3\n$ 50.\n(b)on re-registration under regulation 14, 14A or 14B\n$ 50.\n3.For the replacement of a lost identity card —\n(a)first replacement\n$100.\n(b)second and every subsequent replacement\n$300.\n4.For the replacement of an identity card due to damage, defacement or change of particulars\n$ 60.\n[S 743/2017 wef 01/01/2018]\n[S 701/2016 wef 01/01/2017]\n[G.N. Nos. S 226/91; S159/95; S560/95; S134/96; S538/96; S 130/97; S115/98; S356/98; S133/99; S575/99]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "National Registration Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2692",
  "title": {
-  "zh": null,
+  "zh": "统一治安法官薪金，为此修订经修正的《1948 年司法法》并为其他目的法案",
   "en": "An Act Standardizing the Salaries of Justices of the Peace, Amending for the Purpose the Judiciary Act of 1948, as Amended, and for Other Purposes",
   "orig": "An Act Standardizing the Salaries of Justices of the Peace, Amending for the Purpose the Judiciary Act of 1948, as Amended, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Standardizing the Salaries of Justices of the Peace, Amending for the Purpose the Judiciary Act of 1948, as Amended, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

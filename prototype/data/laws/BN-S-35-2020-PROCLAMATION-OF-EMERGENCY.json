@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-35-2020-PROCLAMATION-OF-EMERGENCY",
+ "title": {
+  "zh": "紧急状态宣布",
+  "en": "PROCLAMATION OF EMERGENCY",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p28",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 3537,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-35-2020-PROCLAMATION-OF-EMERGENCY.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-35-2020-PROCLAMATION-OF-EMERGENCY.pdf》（2 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-35-2020-PROCLAMATION-OF-EMERGENCY-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "3rd. SEPTEMBER, 2020 No. S 35\n\nCONSTITUTION OF BRUNEI DARUSSALAM\n\nPROCLAMATION OF EMERGENCY\n\nHIS MAJESTY THE SULTAN\n\nAND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM In the name of Allah, the Compassionate, the Merciful, PRAISE be to ALLAH, the Lord of the Universe, and may the benediction and peace of ALLAH be upon Our Leader Muhammad and upon all his Relations and Friends. WHEREAS it is provided under Article 83(1) of the Constitution of Brunei Darussalam (hereinafter referred to as \"the Constitution\"), that whenever it appears to His Majesty the Sultan and Yang Di-Pertuan that an occasion of emergency or public danger is imminent, exists or has arisen whereby the security or economic life of Brunei Darussalam, or any part thereof, is or may be threatened, whether by war or external aggression or internal disturbance, actual or threatened, he may by Proclamation (hereinafter referred to as a \"Proclamation of Emergency\") declare a state of emergency either in the whole of Brunei Darussalam or in such part of Brunei Darussalam as may be specified in the , Proclamation of Emergency. AND WHEREAS on the 9th day of Rabiulakhir 1440 Hijriah corresponding to the 17th day of December 2018, we did DECLARE AND PROCLAIM a state of emergency in the whole of Brunei Darussalam. AND WHEREAS it is provided under Article 83(2) of the Constitution that no Proclamation of Emergency shall be in force for more than two years, without prejudice, however, to the right of His Majesty the Sultan and Yang Di-Pertuan to issue another such Proclamation at or before the end of that period.\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE AND WHEREAS it is provided under Article 83(2A) of the Constitution that notwithstanding Article 83(2) of the Constitution, His Majesty the Sultan and Yang Di-Pertuan may by another such Proclamation declare the cessation of a state of emergency in the whole of Brunei Darussalam or in such part of Brunei Darussalam as may be specified in the Proclamation before the end of two years. AND WHEREAS it appears to US that an occasion of emergency or public danger is imminent, exists or has arisen whereby the security or economic life of Brunei Darussalam, or any part thereof, is or may be threatened.\n\nNOW, THEREFORE, WE, SULTAN HAJI HASSANAL BOLKIAH MU'IZZADDIN WADDAULAH IBNI AL-MARHUM SULTAN HAJI OMAR 'ALI SAIFUDDIEN SA'ADUL KHAIRI WADDIEN, SOVEREIGN AND CHIEF OF THE FAMILY ORDER OF THE CROWN OF BRUNEI, Sultan and Yang Di-Pertuan of the State and Territory of Brunei Darussalam and all its Dependencies; ! Do hereby DECLARE AND PROCLAIM as of this day a state of emergency in the whole of Brunei Darussalam; AND do hereby REVOKE our said recited Proclamation of Emergency done on the 9th day of Rabiulakhir 1440 Hijriah corresponding to the 17th day of January 20 18. So be it. Such is the Proclamation of Emergency. May ALLAH, to Whom be praised and Whose name be exalted the King of Kings, vouchsafe His grace and may the Prophet Muhammad (on Whom be the benediction and peace of ALLAH) grant His Blessings to this Proclamation. Amen! 0 Lord of the Universe. Done at the Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam, this 14th. day of Muharram, 1442 Hijriah corresponding to the 2nd. day of September, 2020, being the fifty-second year of Our Reign.\n\nBY COMMAND LIEUTENANT COLONEL (R) PENGIRAN HAJI MUHAMMAD SAZALI\n\nBIN PENGIRAN HAJI YAKOB Permanent Secretary, Office of the Prime Minister, Brunei Darussalam. Dicetak oleh Print Plus Sdn. Bhd., Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "PROCLAMATION OF EMERGENCY",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

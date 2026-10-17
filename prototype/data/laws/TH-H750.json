@@ -1,7 +1,7 @@
 {
  "id": "TH-H750",
  "title": {
-  "zh": null,
+  "zh": "禁止虚假原产地规则货物法，佛历 2481（1938）",
   "en": "PROHIBITION OF GOODS WITH FAKE RULES OF ORIGIN ACT, B.E. 2481 (1938)",
   "orig": "พระราชบัญญัติห้ามนำของที่มีการแสดงกำเนิดเป็นเท็จเข้ามา พุทธศักราช 2481"
  },
@@ -120,5 +120,13 @@
     "th": "มาตรา ๘ ให้รัฐมนตรีว่าการกระทรวงการคลังมีหน้าที่รักษาการให้เป็นไปตามพระราชบัญญัตินี้"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "PROHIBITION OF GOODS WITH FAKE RULES OF ORIGIN ACT, B.E. 2481 (1938)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

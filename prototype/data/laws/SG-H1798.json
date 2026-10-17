@@ -1,7 +1,7 @@
 {
  "id": "SG-H1798",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（逾期付款罚款）规则",
   "en": "Housing and Development (Penalties for Late Payment) Rules",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "THE SCHEDULE\nDeleted by S 215/2008, wef 01/05/2008."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Housing and Development (Penalties for Late Payment) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

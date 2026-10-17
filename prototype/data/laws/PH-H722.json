@@ -1,7 +1,7 @@
 {
  "id": "PH-H722",
  "title": {
-  "zh": null,
+  "zh": "重组圣巴勃罗市市政委员会，为此修订第520号联邦法（经修正）第11条的法案",
   "en": "An Act Reorganizing the Municipal Board of the City of San Pablo, By Amending Section Eleven of Commonwealth Act Numbered Five Hundred and Twenty, as Amended",
   "orig": "An Act Reorganizing the Municipal Board of the City of San Pablo, By Amending Section Eleven of Commonwealth Act Numbered Five Hundred and Twenty, as Amended"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 19, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reorganizing the Municipal Board of the City of San Pablo, By Amending Section Eleven of Commonwealth Act Numbered Five Hundred and Twenty, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-286-RG-1-2024-WILD-FAUNA-AND-FLORA-FEES-AND-MISCE-15E964",
  "title": {
-  "zh": null,
+  "zh": "RG 1 2024 版野生动植物收费与杂项条款条例",
   "en": "RG 1 2024 ED WILD FAUNA AND FLORA FEES AND MISCELLANEOUS PROVISIONS REGULATIONS",
   "orig": null
  },
@@ -76,5 +76,13 @@
     "en": "(1) Registered scientific institutions in Brunei Darussalam involved in the non-commercial loan, donation and exchange with registered scientific institutions in other countries recognised by the relevant authorities of those countries, of —\n\n(a) herbarium and other preserved, dried or embedded museums specimens;\n\n(b) live plants materials;\n\n(c) legally acquired animal and plant specimens that are under the authority of a registered scientific institution, that are specimens of any species listed in the Appendix may apply to be recognised by the Director for the purposes of section 29.\n\n(2) Applications shall be made in writing to the Director and shall include details of —\n\n(a) the name and address of the registered scientific institution;\n\n(b) the type of material to be involved;\n\n(c) the study purpose, including details of previous work; 6 CAP. 286, Rg 1 Wild Fauna and Flora\n\n(d) the registered scientific institutions involved overseas, if known;\n\n(e) the Convention Secretariat registration details of overseas registered scientific institutions, if known;\n\n(f) any previous registration by the Convention Secretariat for this purpose.\n\n(3) If the Director recognises the applicant under section 29, the applicant shall be advised in writing and issued with a registration code and a set of labels for use with the class of materials and purposes approved by the Director and subject to any conditions set by the Director.\n\n(4) Every recognised registered scientific institution shall affix an approved label to every package of such material exported or re-exported and complete the following details on the label —\n\n(a) the registration code;\n\n(b) the name and address of the consignee and consignor;\n\n(c) the scientific and common name of the specimens enclosed;\n\n(d) the number (or weight) and description of the specimens enclosed;\n\n(e) the Appendix of the Convention in which the specimen is included;\n\n(f) the signature of the person packaging the consignment.\n\n(5) Each recognised registered scientific institution shall make a return to the Director at the end of each year providing the details of each such import, export and re-export and the number of labels used.\n\nSCHEDULE (regulation 2) FEE On application for grant of permit or certificate $40."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 1 2024 ED WILD FAUNA AND FLORA FEES AND MISCELLANEOUS PROVISIONS REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

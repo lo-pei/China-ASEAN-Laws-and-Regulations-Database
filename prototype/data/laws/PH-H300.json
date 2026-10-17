@@ -1,7 +1,7 @@
 {
  "id": "PH-H300",
  "title": {
-  "zh": null,
+  "zh": "准许特别组织省份各市镇的市长、市镇财政员、市镇秘书与警察部队成员适用正规组织省份市镇同类官员与警察部队成员所享同一薪酬标准或费率的法案",
   "en": "An Act Allowing Mayors, Municipal Treasurers, Municipal Secretaries and Members of the Police Force of Municipalities in the Specially-Organized Provinces the Same Scale or Rates of Compensation Provided for the Said Municipal Officers and Members of the Police Force of the Municipalities in the Regularly-Organized Provinces",
   "orig": "An Act Allowing Mayors, Municipal Treasurers, Municipal Secretaries and Members of the Police Force of Municipalities in the Specially-Organized Provinces the Same Scale or Rates of Compensation Provided for the Said Municipal Officers and Members of the Police Force of the Municipalities in the Regularly-Organized Provinces"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 28, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Allowing Mayors, Municipal Treasurers, Municipal Secretaries and Members of the Police Force of Municipalities in the Specially-Organized Provinces the Same Scale or Rates of Compensation Provided for the Said Municipal Officers and Members of the Police Force of the Municipalities in the Regularly-Organized Provinces",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

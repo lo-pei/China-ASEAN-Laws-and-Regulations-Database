@@ -1,7 +1,7 @@
 {
  "id": "PH-H6866",
  "title": {
-  "zh": null,
+  "zh": "在大马尼拉 Valenzuela 市将 Canumay 附属校从该市市镇中学分离，设立 Canumay 国立中学并为其提供经费",
   "en": "An Act Creating the Canumay National High School in Valenzuela, Metro Manila, By Separating the Canumay Annex From the Valenzuela Municipal High School, and Providing Funds Therefor",
   "orig": "An Act Creating the Canumay National High School in Valenzuela, Metro Manila, By Separating the Canumay Annex From the Valenzuela Municipal High School, and Providing Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Canumay National High School in Valenzuela, Metro Manila, By Separating the Canumay Annex From the Valenzuela Municipal High School, and Providing Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3575",
  "title": {
-  "zh": null,
+  "zh": "宝石与贵金属（防止洗钱、恐怖主义融资与扩散融资）法 2019",
   "en": "Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019",
   "orig": null
  },
@@ -736,5 +736,13 @@
     "en": "THE SCHEDULE\nPrecious metals and precious stones\nSections 2 and 37(1)\nPart 1\nprecious metals\n1.Gold\n2.Silver\n3.Platinum\n4.Iridium\n5.Osmium\n6.Palladium\n7.Rhodium\n8.Ruthenium\n9.An alloy with at least 2% in weight of any substance mentioned in items 1 to 8\nPart 2\nprecious stones (natural or otherwise)\n1.Diamond\n2.Sapphire\n3.Ruby\n4.Emerald\n5.Jade (including nephrite and jadeite)\n6.Pearl"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

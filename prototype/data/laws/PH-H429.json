@@ -1,7 +1,7 @@
 {
  "id": "PH-H429",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统动用1949财年总拨款法行政部门节余，运营现有及增设的师范学校，并修复、扩建哥打巴托乌皮农业学校、布基农农业学校、阿布拉拉甘吉朗农场学校与伊莎贝拉卡巴甘农场学校的法案",
   "en": "An Act Authorizing the President of the Philippines to Use Any Savings from the Appropriations for the Executive Department in the General Appropriation Act for the Fiscal Year Nineteen Hundred and Forty-Nine for the Operation of All Existing Normal Schools, for the Establishment and Operation of Additional Normal Schools, and for the Rehabilitation and Expansion of the Upi Agricultural School in Cotabato, the Bukidnon Agricultural School in Bukidnon, the Lagangilang Farm School in Abra and the Cabagan Farm School in Isabela",
   "orig": "An Act Authorizing the President of the Philippines to Use Any Savings from the Appropriations for the Executive Department in the General Appropriation Act for the Fiscal Year Nineteen Hundred and Forty-Nine for the Operation of All Existing Normal Schools, for the Establishment and Operation of Additional Normal Schools, and for the Rehabilitation and Expansion of the Upi Agricultural School in Cotabato, the Bukidnon Agricultural School in Bukidnon, the Lagangilang Farm School in Abra and the Cabagan Farm School in Isabela"
  },
@@ -62,5 +62,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: July 20, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Use Any Savings from the Appropriations for the Executive Department in the General Appropriation Act for the Fiscal Year Nineteen Hundred and Forty-Nine for the Operation of All Existing Normal Schools, for the Establishment and Operation of Additional Normal Schools, and for the Rehabilitation and Expansion of the Upi Agricultural School in Cotabato, the Bukidnon Agricultural School in Bukidnon, the Lagangilang Farm School in Abra and the Cabagan Farm School in Isabela",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

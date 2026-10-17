@@ -1,7 +1,7 @@
 {
  "id": "PH-H4899",
  "title": {
-  "zh": null,
+  "zh": "桑托斯将军城市宪章",
   "en": "The Charter of the City of General Santos.",
   "orig": "An Act Amending and Repealing Certain Sections of Republic Act Numbered Fifty-Four Hundred Twelve, Known as \"The Charter of the City of General Santos.\""
  },
@@ -151,14 +151,15 @@
    }
   },
   {
-   "id": "PH-H4899-A8_2",
+   "id": "PH-H4899-A8-d2",
    "no": 8,
    "noLabel": {
     "en": "Section 8."
    },
    "text": {
     "en": "The title of article nineteen of the same Act is hereby amended to read as follows:\n\"Article XIX.-Disposition of lands of the public domain within the city.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4899-A9",
@@ -180,5 +181,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 16, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Charter of the City of General Santos.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

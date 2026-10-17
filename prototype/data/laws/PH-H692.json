@@ -1,7 +1,7 @@
 {
  "id": "PH-H692",
  "title": {
-  "zh": null,
+  "zh": "规定航海或海事学校每校至少配备一艘训练船的法案",
   "en": "An Act Requiring Nautical or Maritime Schools to Have At Least One Training Ship Each",
   "orig": "An Act Requiring Nautical or Maritime Schools to Have At Least One Training Ship Each"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, May 7, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring Nautical or Maritime Schools to Have At Least One Training Ship Each",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

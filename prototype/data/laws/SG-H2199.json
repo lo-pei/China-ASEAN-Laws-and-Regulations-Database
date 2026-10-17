@@ -1,7 +1,7 @@
 {
  "id": "SG-H2199",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展贷款利息及其他付款豁免）（第 2 号）公告 2018",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 2) Notification 2018",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) The interest payable by Grace Ocean Private Limited to The Hiroshima Bank, Ltd in respect of an outstanding loan amount of US$8,482,614.48 as at 7 December 2017 under a loan agreement dated 11 April 2011 (as amended by supplemental agreements dated 25 August 2015 and 7 December 2017), where the loan is for the purpose of financing the acquisition of the vessel “Star Service 1”, is exempt from tax.\n(2) The exemption under sub-paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 29 March 2018 and addressed to Grace Ocean Private Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 2) Notification 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

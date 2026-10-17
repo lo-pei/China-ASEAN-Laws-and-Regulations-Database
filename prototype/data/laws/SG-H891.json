@@ -1,7 +1,7 @@
 {
  "id": "SG-H891",
  "title": {
-  "zh": null,
+  "zh": "COVID-19（临时措施）（第 10 部分救济）条例 2021",
   "en": "COVID-19 (Temporary Measures) (Part 10 Relief) Regulations 2021",
   "orig": null
  },
@@ -694,5 +694,13 @@
     "en": "41. Where, in the adjustment relief Registrar’s opinion, an adjustment relief assessor’s determination ought to be published, the adjustment relief Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties to a determination concerned or any information that may disclose their identities."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "COVID-19 (Temporary Measures) (Part 10 Relief) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

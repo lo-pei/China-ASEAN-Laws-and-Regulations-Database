@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-105-2013-NEWSPAPER-ACT",
  "title": {
-  "zh": null,
+  "zh": "报纸法",
   "en": "NEWSPAPER ACT",
   "orig": null
  },
@@ -208,5 +208,13 @@
     "en": "(1) The Minister may, subject to such conditions as he may impose, by order published in the Gazette, exempt —\n\n(a) any person or class of person; or\n\n(b) any document or class of document, from all or any of the provisions of this Act.\n\n(2) Nothing in this Act shall extend to the impression of any engraving or to the printing of any visiting or business card, bill-head or letter heading."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NEWSPAPER ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

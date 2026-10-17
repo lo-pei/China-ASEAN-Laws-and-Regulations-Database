@@ -1,7 +1,7 @@
 {
  "id": "PH-H9665",
  "title": {
-  "zh": null,
+  "zh": "将南达沃 Digos 市南菲律宾农商、海洋与水产业技术学院校区从西达沃 Malita 市镇的同名学院分离，改设为国立学院，名称为南达沃国立学院，并为此拨款的法案",
   "en": "An Act Separating the Southern Philippines Agri-Business, Marine and Aquatic School of Technology (SPAMAST)-Digos City Campus in the City of Digos, Davao del Sur, from the SPAMAST in the Municipality of Malita, Davao Occidental, and Converting it into a State College to be Known as the Davao del Sur State College, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Southern Philippines Agri-Business, Marine and Aquatic School of Technology (SPAMAST)-Digos City Campus in the City of Digos, Davao del Sur, from the SPAMAST in the Municipality of Malita, Davao Occidental, and Converting it into a State College to be Known as the Davao del Sur State College, and Appropriating Funds Therefor"
  },
@@ -330,5 +330,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Southern Philippines Agri-Business, Marine and Aquatic School of Technology (SPAMAST)-Digos City Campus in the City of Digos, Davao del Sur, from the SPAMAST in the Municipality of Malita, Davao Occidental, and Converting it into a State College to be Known as the Davao del Sur State College, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2662",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 13 号）命令 2020",
   "en": "Infrastructure Protection (Protected Places) (No. 13) Order 2020",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nManaging Director, Monetary Authority of Singapore\nMAS NURSERY AT BUKIT GOMBAK\nAll that area comprised wholly in Land Lots 2784T and 2785A in Mukim No. 10 occupied by “MAS NURSERY AT BUKIT GOMBAK” containing an area of about 4,609.8 square metres and bounded approximately as follows:\nCommencing at the most southwesterly corner of the perimeter fence of “MAS NURSERY AT BUKIT GOMBAK” at a point 38,996.863 metres North and 20,158.070 metres East of the Survey Department origin of coordinates, the boundaries run along successive lines of fence of the bearings and distances approximately as follows:\nBearing\nDistance in metres\n331° 24′\n5.3 (along fence)\n331° 42′\n5.7 (along a gate)\n332° 01′\n3.5 (along fence)\n331° 35′\n34.4\n331° 50′\n4.0 (along a gate)\n331° 37′\n28.5 (along fence)\n61° 20′\n14.1\n61° 17′\n5.7 (along a gate)\n60° 18′\n1.9 (along fence)\n65° 49′\n0.2\n155° 58′\n0.8\n64° 25′\n36.1\n158° 32′\n0.3\n154° 37′\n7.1\n150° 16′\n67.3\n238° 30′\n1.6\n150° 17′\n1.6\n239° 05′\n57.6\nto the point of commencement.\nThe boundaries of “MAS NURSERY AT BUKIT GOMBAK” are more particularly delineated in the Survey Plan set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 13) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

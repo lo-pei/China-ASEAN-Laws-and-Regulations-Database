@@ -1,7 +1,7 @@
 {
  "id": "PH-H5680",
  "title": {
-  "zh": null,
+  "zh": "促进妇女作为男子充分平等伙伴参与发展与国家建设并为其他目的法案",
   "en": "An Act Promoting the Integration of Women as Full and Equal Partners of Men in Development and Nation Building and for Other Purposes",
   "orig": "An Act Promoting the Integration of Women as Full and Equal Partners of Men in Development and Nation Building and for Other Purposes"
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity Clause. - The rights of women and all the provisions of this Act shall take effect immediately upon its publication in the Official Gazette or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Promoting the Integration of Women as Full and Equal Partners of Men in Development and Nation Building and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

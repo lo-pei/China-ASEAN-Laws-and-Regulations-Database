@@ -1,7 +1,7 @@
 {
  "id": "PH-H3575",
  "title": {
-  "zh": null,
+  "zh": "规范菲律宾社会工作执业及社会工作机构运营并为其他目的法案",
   "en": "An Act to Regulate the Practice of Social Work and the Operation of Social Work Agencies in the Philippines and for Other Purposes",
   "orig": "An Act to Regulate the Practice of Social Work and the Operation of Social Work Agencies in the Philippines and for Other Purposes"
  },
@@ -414,5 +414,13 @@
     "en": "Effectivity.— This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Regulate the Practice of Social Work and the Operation of Social Work Agencies in the Philippines and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4897",
  "title": {
-  "zh": null,
+  "zh": "授予 Suarez 兄弟珠宝与雕刻公司在菲律宾境内建设、设立、运营和维护私人固定点对点、陆基与陆上移动无线电台的临时许可的法案",
   "en": "An Act Granting Suarez Brothers, Engraver and Jeweller, a Temporary Permit to Construct, Establish, Operate and Maintain Private Fixed Point-To-Point, Land Based, and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines.",
   "orig": "An Act Granting Suarez Brothers, Engraver and Jeweller, a Temporary Permit to Construct, Establish, Operate and Maintain Private Fixed Point-To-Point, Land Based, and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines."
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 16, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Suarez Brothers, Engraver and Jeweller, a Temporary Permit to Construct, Establish, Operate and Maintain Private Fixed Point-To-Point, Land Based, and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

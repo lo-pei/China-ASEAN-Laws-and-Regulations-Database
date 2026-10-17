@@ -1,7 +1,7 @@
 {
  "id": "SG-H1649",
  "title": {
-  "zh": null,
+  "zh": "政府证券（债务市场与投资）条例 2023",
   "en": "Government Securities (Debt Market and Investment) Regulations 2023",
   "orig": null
  },
@@ -566,5 +566,13 @@
     "en": "33.—(1) Despite these Regulations, the Government Securities Regulations as in force immediately before 15 March 2023 continue to apply to any stock or bearer bonds issued in accordance with those Regulations before that date and not redeemed immediately before that date.\n(2) Regulations 25 and 29 apply to all Treasury Bills that were issued before 15 March 2023."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Government Securities (Debt Market and Investment) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

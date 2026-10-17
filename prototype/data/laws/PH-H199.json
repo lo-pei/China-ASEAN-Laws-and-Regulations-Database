@@ -1,7 +1,7 @@
 {
  "id": "PH-H199",
  "title": {
-  "zh": null,
+  "zh": "修订第1870号法（《为菲律宾群岛创办大学、赋予法人资格、设立董事会、界定职责、提供高等与专业教育并为其他目的法案》，经修正），删除排除菲律宾大学校友获授荣誉学位人员规定的法案",
   "en": "An Act to Amend Act Numbered One Thousand Eight Hundred and Seventy Entitled, “An Act for the Purpose of Founding a University for the Philippine Islands, Giving it Corporate Existence, Providing for a Board of Regents, Defining the Board’s Responsibilities and Duties, Providing Higher and Professional Instruction, and for Other Purposes,” as Amended by Eliminating the Provisions Excluding the Alumni of the University of the Philippines Among Persons Who May be Conferred Honorary Degrees by the University",
   "orig": "An Act to Amend Act Numbered One Thousand Eight Hundred and Seventy Entitled, “An Act for the Purpose of Founding a University for the Philippine Islands, Giving it Corporate Existence, Providing for a Board of Regents, Defining the Board’s Responsibilities and Duties, Providing Higher and Professional Instruction, and for Other Purposes,” as Amended by Eliminating the Provisions Excluding the Alumni of the University of the Philippines Among Persons Who May be Conferred Honorary Degrees by the University"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 30, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Act Numbered One Thousand Eight Hundred and Seventy Entitled, “An Act for the Purpose of Founding a University for the Philippine Islands, Giving it Corporate Existence, Providing for a Board of Regents, Defining the Board’s Responsibilities and Duties, Providing Higher and Professional Instruction, and for Other Purposes,” as Amended by Eliminating the Provisions Excluding the Alumni of the University of the Philippines Among Persons Who May be Conferred Honorary Degrees by the University",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

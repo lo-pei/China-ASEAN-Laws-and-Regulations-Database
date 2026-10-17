@@ -1,7 +1,7 @@
 {
  "id": "PH-H4286",
  "title": {
-  "zh": null,
+  "zh": "规范私家侦探、守夜人或保安机构组织与运营的法案（第 5487 号共和国法，经第 11 号总统令修正）",
   "en": "An Act to Regulate the Organization and Operation of Private Detective, Watchmen or Security Guards Agencies. (Rep. Act No. 5487, as Amended By Presidential Decree No. 11.)",
   "orig": "An Act to Regulate the Organization and Operation of Private Detective, Watchmen or Security Guards Agencies. (Rep. Act No. 5487, as Amended By Presidential Decree No. 11.)"
  },
@@ -240,5 +240,13 @@
     "en": "Effectivity. This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Regulate the Organization and Operation of Private Detective, Watchmen or Security Guards Agencies. (Rep. Act No. 5487, as Amended By Presidential Decree No. 11.)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

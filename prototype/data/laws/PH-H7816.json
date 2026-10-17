@@ -1,7 +1,7 @@
 {
  "id": "PH-H7816",
  "title": {
-  "zh": null,
+  "zh": "授予 Radio Maria Foundation, Inc. 在菲律宾为宗教与非商业目的建设、运营和维护无线电广播站的特许经营权法案",
   "en": "An Act Granting the Radio Maria Foundation, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain for Religious and Non-Commmercial Purposes Radio Broadcasting Stations in the Philippines",
   "orig": "An Act Granting the Radio Maria Foundation, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain for Religious and Non-Commmercial Purposes Radio Broadcasting Stations in the Philippines"
  },
@@ -210,5 +210,13 @@
     "en": "Repealability and Nonexclusivity Clause. - The franchise shall be subject to amendment, alteration or repeal by the Congress of the Philippines when the public interest requires and shall not be interpreted as an exclusive grant of the privileges herein provided for."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Radio Maria Foundation, Inc. a Franchise to Construct, Install, Establish, Operate and Maintain for Religious and Non-Commmercial Purposes Radio Broadcasting Stations in the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

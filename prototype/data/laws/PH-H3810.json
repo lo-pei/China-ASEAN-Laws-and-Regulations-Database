@@ -1,7 +1,7 @@
 {
  "id": "PH-H3810",
  "title": {
-  "zh": null,
+  "zh": "将罗姆布隆省浮动救护车的管理、运营与维护由该省移交给罗姆布隆总医院并授权为此拨款的法案",
   "en": "An Act Transferring the Administration, Operation and Maintenance of the Floating Ambulance of the Province of Romblon from Said Province to Romblon General Hospital and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Transferring the Administration, Operation and Maintenance of the Floating Ambulance of the Province of Romblon from Said Province to Romblon General Hospital and Authorizing the Appropriation of Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring the Administration, Operation and Maintenance of the Floating Ambulance of the Province of Romblon from Said Province to Romblon General Hospital and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

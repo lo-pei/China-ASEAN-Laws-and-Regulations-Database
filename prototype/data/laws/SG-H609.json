@@ -1,7 +1,7 @@
 {
  "id": "SG-H609",
  "title": {
-  "zh": null,
+  "zh": "法院选择协议法 2016",
   "en": "Choice of Court Agreements Act 2016",
   "orig": null
  },
@@ -422,5 +422,13 @@
     "en": "24.—(1) This Act does not apply to an exclusive choice of court agreement that designates a Singapore court as a chosen court, if the agreement is concluded before 1 October 2016.\n(2) This Act does not apply to an exclusive choice of court agreement that designates a court of another Contracting State as a chosen court, if the agreement is concluded before the Convention enters into force in that Contracting State.\n(3) This Act does not apply to any case instituted in a Singapore court before 1 October 2016, or any application made (whether before, on or after 1 October 2016) in any such case."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Choice of Court Agreements Act 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

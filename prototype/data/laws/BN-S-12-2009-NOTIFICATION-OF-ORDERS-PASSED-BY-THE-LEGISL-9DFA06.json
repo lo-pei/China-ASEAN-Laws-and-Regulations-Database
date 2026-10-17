@@ -1,0 +1,73 @@
+{
+ "id": "BN-S-12-2009-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-9DFA06",
+ "title": {
+  "zh": "立法会议依第 837 条通过的命令公告",
+  "en": "NOTIFICATION OF ORDERS PASSED BY THE LEGISLATIVE COUNCIL UNDER ARTICLE 837",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p33",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 2000,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null,
+  "file": "S-12-2009-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLATIVE-COUNCIL-UNDER-ARTICLE-837.pdf"
+ },
+ "sourceFile": "S-12-2009-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLATIVE-COUNCIL-UNDER-ARTICLE-837.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "【源件无文本层，本记录为 OCR 补录】源 PDF 为纯扫描图像（无文本层），已用 Windows OCR 引擎识别；本机仅安装**简体中文识别模型**（无英文语言包），故对英文法条的字符准确率有限（易混：l/I、o/0、m/ın、大小写），并可能残留页边条标题。**本记录仅可用于检索定位，不可作为逐字引用依据；逐字引用请以原始 PDF 为准**。 本件共 2 页，切分 2 条。",
+ "textQuality": "ocr-windows-zh-Hans",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-12-2009-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-9DFA06-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "175\n\nSCHEDULE Sustainability Fund Order, 2008 (S 36 / 08 》 · Pensions Act (Amendment) Order, 2008 (S 37 / 08 Old Age and Disability Pensions Act (Amendment) Order, 2008 (S 38 / 08 Statutory Funds Appropriation Enactment (Amendment) Order, 2008 (S 39 / 08 ) · Criminals Registration Order, 2008 (S 42 / 08 and S 95 / 08 ) · Miscellaneous Licences Act (Amendment) Order, 2008 (S 43 / 08 · lncome Tax Act (Amendment) Order, 2008 (S 51 / 08 and S 4 / 09 } · lncome Tax Act (Amendment) (No. 2 ) Order, 2008 (S 52 / 08 and S 5 / 09 ) · Merchant Shipping (Civil Liability and Compensation for Oil PolIution) Order, 2008 (S 54 / 08 and S 102 / 08 Road Traffi c Act (Amendment) Order, 2008 (S 59 / 08 and S 6 / 09 Children and Young Persons (Amendment) Order, 2008 (S 60 / 08 ) · Universiti lslam Sultan Sharif Ali Order, 2008 (S 71 / 08 ) · HaIaI Certificate and Halal Label (Amendment) Order, 2008 (S 75 / 08 江 Brunei lnvestment Agency Act (Amendment) (No. 2 } Order, 2008 78 / 08 ) ·\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE"
+   }
+  },
+  {
+   "id": "BN-S-12-2009-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-9DFA06-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "text": {
+    "en": "Offenders (Probation and Community Service) (Amendment) Order, 2008 80 / 08 》 · Minor Offences Act (Amendment) Order, 2008 (S 82 / 08 羥 Kolej Universiti Perguruan Ugama Seri Begawan Order, 2008 (S 84 / 08 ) · Miscellaneous Licences Act (Amendment) (No. 2 ) Order, 2008 (S 85 / 08 羥 Newspapers Act (Amendment) Order, 2008 (S 86 / 08 , · lslamic Banking Order, 2008 (S 96 / 08 } · Customs (Amendment) Order, 2008 (S 98 / 08 , · Takaful Order, 2008 (S loo / 08 and S 7 / 09 羥 Supplementary Supply ( 2008 / 2009 , (No. 1 } Order, 2008 106 / 08 ) · Supplementary Supply 《 2007 / 2008 } (No. Order, 2008 (S 116 / 08 , · Dated this 26th. d ay of Rabiulawal, 1430 Hijriah corresponding to the 23rd. day of March, 2009 ·\n\nPEHIN ORANG KAYA PEKERMA JAYA\n\nDATO PADUKA HAJI JUDIN BIN HAJI ASAR Clerk of the Legislative Council. Dicetak oleh AWANG MOHIDIN BIN HAJI DAUD, Pengarah Perc etakan , di Jabatan Percetakan Kerajaan, Bandar Seri Be gawan BB3510 , Negara Brunei Darussalam. Harg a B $ 5 ． oo"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF ORDERS PASSED BY THE LEGISLATIVE COUNCIL UNDER ARTICLE 837",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

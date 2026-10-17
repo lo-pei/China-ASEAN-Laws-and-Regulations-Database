@@ -1,7 +1,7 @@
 {
  "id": "PH-H4155",
  "title": {
-  "zh": null,
+  "zh": "修订第296号共和国法（经修正）第68条第1款，将八打雁省八打雁市镇法官人数由1名增至2名的法案",
   "en": "An Act Amending the First Paragraph of Section Sixty-Eight of Republic Act Numbered Two Hundred Ninety-Six, as Amended, by Increasing the Number of Municipal Judges of the Municipality of Batangas, Province of Batangas, from One to Two",
   "orig": "An Act Amending the First Paragraph of Section Sixty-Eight of Republic Act Numbered Two Hundred Ninety-Six, as Amended, by Increasing the Number of Municipal Judges of the Municipality of Batangas, Province of Batangas, from One to Two"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending the First Paragraph of Section Sixty-Eight of Republic Act Numbered Two Hundred Ninety-Six, as Amended, by Increasing the Number of Municipal Judges of the Municipality of Batangas, Province of Batangas, from One to Two",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

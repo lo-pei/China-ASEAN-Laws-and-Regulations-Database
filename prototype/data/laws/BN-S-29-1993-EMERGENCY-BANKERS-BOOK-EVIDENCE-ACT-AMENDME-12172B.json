@@ -1,7 +1,7 @@
 {
  "id": "BN-S-29-1993-EMERGENCY-BANKERS-BOOK-EVIDENCE-ACT-AMENDME-12172B",
  "title": {
-  "zh": null,
+  "zh": "紧急银行账簿证据法修正命令 1993",
   "en": "MERGENCY BANKERS BOOK EVIDENCE ACT AMENDMENT ORDER 1993",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 29\n\nCONSTITUTION OF BRUNEI DARUSSALAM (Order under section 83(3)) EMERGENCY (BANKERS' BOOKS (EVIDENCE) ACTJ (AMENDMENT) ORDER, 1993 In exercise of the powers conferred by subsection (31 of section 83 of the Constitution of Brunei Darussalam, His Majesty The Sultan and Yang Di-Pertuan of Brunei Darussalam hereby makes the following OrderCitation and 1. This Order may be cited as the Emergency (Bankers' Books commence· (Evidence) Act) (Amendment) Order, 1993 and shall come into force · ment. on 15th day of November, 1993. Amendment of 2. Section 2 of the Bankers' Books (Evidence) Act is amended by Section 2 of deleting the definition of \"bankers' books\" and by substituting the Chapter 107. following therefor - ''''bankers' books'' include ledgers, day books, cash books, account books and other records used in the ordinary business of the bank, whether these records are in written form or are kept on microfilm, magnetic tape or any other form of mechanical or electronic data retrieval system ; ''. Made this 15th day of November, 1993 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN BRUNEI DARUSSALAM."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MERGENCY BANKERS BOOK EVIDENCE ACT AMENDMENT ORDER 1993",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

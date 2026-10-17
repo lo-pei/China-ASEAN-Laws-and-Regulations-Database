@@ -1,7 +1,7 @@
 {
  "id": "SG-H975",
  "title": {
-  "zh": null,
+  "zh": "货币（硬币面额与特征）（第 3 号）公告 2014",
   "en": "Currency (Denominations and Characteristics of Coins) (No. 3) Notification 2014",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF COINS IN THE SINGAPORE SECOND ALMANAC COIN SERIES PUZZLE COIN SET TO BE ISSUED ON 8 JANUARY 2015\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\nCentre coin:\n10 Dollars\nCoins\nsurrounding\ncentre coin:\n2 Dollars\n999 Fine\nSilver\n249.45 g ±\n9.1 g\n96.00 mm ±\n2.0 mm\n4.60 mm ±\n0.70 mm\nRound\nPlain\nIn the centre is the Singapore Arms with the year-date “2015” below it, and the word “SINGAPORE” in the 4 official languages around it.\nThe centre coin features a gold-plated flower Vanda Miss Joaquim, above which is the denomination “$10”. Both are circumscribed by the words “SINGAPORE SECOND ALMANAC COIN SERIES”.\nEach of the 12 coins surrounding the centre coin depicts an animal of the design featured in the second Chinese Almanac Coin Series, together with the year of issue for that animal, both in Roman numerals and in Chinese characters. The denomination “$2” is below each design.\n(a)\n(b)\n(a)Reverse Design of the Singapore Second Almanac Coin Series Puzzle Coin Set.\n(b)Obverse Design of the Singapore Second Almanac Coin Series Puzzle Coin Set."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency (Denominations and Characteristics of Coins) (No. 3) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

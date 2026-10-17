@@ -1,7 +1,7 @@
 {
  "id": "BN-S-5-2017-HALAL-CERTIFICATE-AND-HALAL-LABEL-AM-ORDER-2017",
  "title": {
-  "zh": null,
+  "zh": "清真证书与清真标签修正命令 2017",
   "en": "HALAL CERTIFICATE AND HALAL LABEL AM ORDER 2017",
   "orig": null
  },
@@ -295,5 +295,13 @@
     "en": "Any person who commits any offence against this Order is liable, if no other penalty is provided, on conviction -\n\n(a) in the case of an individual, to a fine not exceeding $4,000, imprisonment for a term not exceeding one year or both and, in the case of a continuing offence, to a further fine of $100 for every day during which the offence continues after conviction; and\n\n(b) in the case of a body corporate, to a fine not exceeding $8,000, and in the case of a continuing offence, to a further fine of $200 for every day during which the offence continues after conviction.\"."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "HALAL CERTIFICATE AND HALAL LABEL AM ORDER 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

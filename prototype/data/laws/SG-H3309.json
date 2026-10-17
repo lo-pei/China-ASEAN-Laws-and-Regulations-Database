@@ -1,7 +1,7 @@
 {
  "id": "SG-H3309",
  "title": {
-  "zh": null,
+  "zh": "国家环境局法 2002",
   "en": "National Environment Agency Act 2002",
   "orig": null
  },
@@ -866,5 +866,13 @@
     "en": "THE SCHEDULE\nSections 32(1), 33(1), 36 and 37(4)\nDepartments\nDepartment\nMinistry\n1.Departments within —\nMinistry of the Environment\n(a)Environmental Public Health Division\n(b)Environmental Policy and Management Division\n2.Meteorological Service Department\nMinistry of Transport."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "National Environment Agency Act 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

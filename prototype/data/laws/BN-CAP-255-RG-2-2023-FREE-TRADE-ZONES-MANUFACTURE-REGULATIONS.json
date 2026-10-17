@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-255-RG-2-2023-FREE-TRADE-ZONES-MANUFACTURE-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG 2 2023 版自由贸易区制造条例",
   "en": "RG 2 2023 ED FREE TRADE ZONES MANUFACTURE REGULATIONS",
   "orig": null
  },
@@ -196,5 +196,13 @@
     "en": "The Minister may revoke an approval granted to a person for the manufacture of goods in a free trade zone without assigning any reason."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 2 2023 ED FREE TRADE ZONES MANUFACTURE REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

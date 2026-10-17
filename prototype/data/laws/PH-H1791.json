@@ -1,7 +1,7 @@
 {
  "id": "PH-H1791",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统增加菲律宾共和国在国际货币基金组织与国际复兴开发银行的份额，并规定满足其资金需求的程序",
   "en": "An Act Authorizing the President of the Philippines to Increase the Participation of the Republic of the Philippines in the International Monetary Fund and the International Bank for Reconstruction and Development, and Providing for the Procedure to Meet the Financial Requirements Therefor",
   "orig": "An Act Authorizing the President of the Philippines to Increase the Participation of the Republic of the Philippines in the International Monetary Fund and the International Bank for Reconstruction and Development, and Providing for the Procedure to Meet the Financial Requirements Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 21, 1958."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Increase the Participation of the Republic of the Philippines in the International Monetary Fund and the International Bank for Reconstruction and Development, and Providing for the Procedure to Meet the Financial Requirements Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

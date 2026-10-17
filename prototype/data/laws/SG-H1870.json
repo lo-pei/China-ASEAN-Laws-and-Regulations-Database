@@ -1,7 +1,7 @@
 {
  "id": "SG-H1870",
  "title": {
-  "zh": null,
+  "zh": "人体生物医学研究（适当同意的要求——豁免）条例 2019",
   "en": "Human Biomedical Research (Requirements for Appropriate Consent — Exemption) Regulations 2019",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. The requirements in sections 8 and 10 of the Act that appropriate consent must be obtained from the adult parent or guardian of a minor do not apply in relation to the storage of tissue for use in research, the supply of tissue for use in research and the use of tissue for research where —\n(a)the tissue is the blood of a minor who is of or above 18 years of age;\n(b)the tissue was donated by the minor for a therapeutic purpose under a national blood donation programme administered by the Health Sciences Authority established under the Health Sciences Authority Act 2001;\n(c)the minor has sufficient understanding and intelligence to enable the minor to understand what is proposed in the research or procedure; and\n(d)the minor has given consent and has been informed of the matters in section 12(2) of the Act before the consent was obtained."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Human Biomedical Research (Requirements for Appropriate Consent — Exemption) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

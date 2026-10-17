@@ -1,7 +1,7 @@
 {
  "id": "SG-H2895",
  "title": {
-  "zh": null,
+  "zh": "释义（交通部长授权）命令 2024",
   "en": "Interpretation (Delegations by Minister for Transport) Order 2024",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nDelegations to\npersons other than political office holders\nFirst column\nSecond column\nThird column\nFourth column\nProvision\nDescription*\nDelegate\nCondition\n1.Road Traffic Act 1961\n(1)Section 33(1)\nExemption in special cases and for particular occasion\n(a)Registrar of Vehicles\n(b)Deputy Registrar of Vehicles\nNil\n*Note: The descriptions in the second column are for ease of reference only."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Interpretation (Delegations by Minister for Transport) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

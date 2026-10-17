@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-121-2023-WATER-SUPPLY-ACT",
  "title": {
-  "zh": null,
+  "zh": "供水法",
   "en": "WATER SUPPLY ACT",
   "orig": null
  },
@@ -761,5 +761,13 @@
     "en": "(1) His Majesty the Sultan and Yang Di-Pertuan in Council may make regulations for —\n\n(a) regulating the installation of water supplies and alterations thereto and for the submission of plans and specifications in respect\n\n(b) regulating the use of water meters and prohibiting interference with or damage to water meters or to seals affixed\n\n(c) preventing the misuse, waste, resale or contamination of water from the waterworks, including any river intakes connected\n\n(d) licensing plumbers to work upon the installation of water supplies and the repair, extension, alteration and removal thereof and prohibiting the employment upon such work of unlicensed plumbers and prescribing the fees to be charged for such licences;\n\n(e) prescribing the pipe materials and fittings to be used in connection with water supplies (including water supplied to urinals and water closets) and the size, shape, fitting, arrangement, connections, workmanship, laying, examination, testing, position and cleaning of the pipe materials and fittings;\n\n(f) the form of all notices required to be given or sent under this Act, and the issuing and service thereof;\n\n(g) the time and place for the payment of all moneys due or to become due under this Act;\n\n(h) deposits to be made by consumers;\n\n(i) fees, surcharges and the payment thereof;\n\n(j) the price of water;\n\n(k) free allowances of water to approved hospitals, charitable institutions and other premises;\n\n(l) the fixing of meters, the amount of meter rents and the ascertaining of the consumption at any premises;\n\n(m) the notification of restriction or suspension of water supply;\n\n(n) the disconnection or re-connection of the water supply from\n\n(o) the nature, size and quality of pipes, and fittings to be used on inside services and fire services;\n\n(p) the construction, alteration and maintenance of inside services and fire services including the keeping clean of such\n\n(q) notification to consumers that any inside services and fire services is defective;\n\n(r) the prevention of waste and the prohibition of the resale of\n\n(s) the taking of water from public standpipes, the regulation or restriction of the persons resorting or desiring to resort thereto, the apportionment or rationing or restriction of the supplies which may be taken therefrom, and the giving of power to police officers and others with a view to such regulation, apportionment, rationing and\n\n(t) the use of water for fire fighting purposes;\n\n(u) the conservation and use of water from the waterworks;\n\n(v) the regulation, protection and control of the waterworks, including any river intakes connected therewith;\n\n(w) the taking of fish in reservoirs;\n\n(x) prescribing anything which under this Act is to be\n\n(y) all such matters not specifically mentioned in this subsection as may conduce to the better and more effective carrying out of this Act.\n\n(2) Such regulations may provide that contravention of any specified regulations shall constitute an offence and may prescribe penalties not exceeding a fine of $1,500 for such contraventions."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "WATER SUPPLY ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-18-2010-E-NOTIFICATION-UNDER-SECTION-11",
  "title": {
-  "zh": null,
+  "zh": "依第 11 条作出的公告",
   "en": "NOTIFICATION UNDER SECTION 11",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 18\n\nARBITRATION ORDER, 2009 (S 34/09) NOTIFICATION UNDER SECTION 1(1) In exercise of the power conferred by section 1[1), the Attorney General, with the approval of His Majesty the Sultan and Yang Di~Pertuan, hereby appoints the day of the signing of this notification as the day of commencement of the Arbitration Order, 2009. Date this 9th. day of Rabiulawal, 1431 Hijriah corresponding to the 23rd. day of February, 2010.\n\nDATIN PADUKA HAJAH HAYATI BINTI\n\nPEHIN ORANG KAYA SHAHBANDAR DATO SERI PADUKA HAJI MOHD. SALLEH Attorney General, Brunei Darussalam. Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENGIRAN HAJI AHMAD, Pemangku Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION UNDER SECTION 11",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

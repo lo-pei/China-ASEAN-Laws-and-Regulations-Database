@@ -1,7 +1,7 @@
 {
  "id": "SG-H2813",
  "title": {
-  "zh": null,
+  "zh": "保险（提交报表截止期限豁免）条例 2006",
   "en": "Insurance (Exemption from Deadlines for Submission of Returns) Regulations 2006",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The Authority hereby exempts every registered insurer from paragraphs (a)(iii) and (iv) and (b)(i) and (ii) of regulation 15 of the Insurance (Accounts and Statements) Regulations 2004 (G.N. No. S 494/2004) (referred to hereinafter as the principal Regulations) in respect of the deadlines for the lodgment of any document referred to in those paragraphs, where the last day of the period to which the document relates is 31st December 2005.\n(2) The exemption in paragraph (1) is subject to the condition that the registered insurer complies with the following deadlines:\n(a)in respect of a document to be lodged in accordance with regulation 11 of the principal Regulations —\n(i)in the case of any document referred to in regulation 15(a)(iii) of the principal Regulations, the document is lodged with the Authority within 5 months from the last day of the period to which the document relates; and\n(ii)in the case of any document to which regulation 15(a)(iv) of the principal Regulations applies, the document is lodged with the Authority within 4 months from the last day of the period to which the document relates; and\n(b)in respect of a document in the form of an electronic record to be completed and lodged in accordance with regulation 13 of the principal Regulations —\n(i)in the case of any document referred to in regulation 15(b)(i) of the principal Regulations, the document is lodged with the Authority within 4 months from the last day of the period to which the document relates; and\n(ii)in the case of any document referred to in regulation 15(b)(ii) of the principal Regulations, the document is lodged with the Authority within 5 months from the last day of the period to which the document relates."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insurance (Exemption from Deadlines for Submission of Returns) Regulations 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

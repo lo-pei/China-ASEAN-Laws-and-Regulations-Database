@@ -1,7 +1,7 @@
 {
  "id": "PH-H749",
  "title": {
-  "zh": null,
+  "zh": "修订第559号法第1条（题为“规定将Tondo Foreshore土地地块出售给承租人或其他真正占有人”）",
   "en": "An Act to Amend Section One of Act Numbered Five Hundred and Fifty-nine, Entitled \"An Act Providing for the Sale of Lots Comprised in the Tondo Foreshore Land to Lessees of Said Lots or to Bona Fide Occupants Thereof.\"",
   "orig": "An Act to Amend Section One of Act Numbered Five Hundred and Fifty-nine, Entitled \"An Act Providing for the Sale of Lots Comprised in the Tondo Foreshore Land to Lessees of Said Lots or to Bona Fide Occupants Thereof.\""
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H749-A1_2",
+   "id": "PH-H749-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Notwithstanding the provisions of 'The Public Land Act,' as amended, and proclamation Numbered One hundred eighty-seven of the President of the Philippines dated June seventeen, nineteen hundred and fifty, the Director of Lands, under the direction of the Secretary of Agriculture and Natural Resources, is hereby authorized and directed to sell without delay and without the necessity of public bidding all the lots and/or parcels of land in the district of Tondo, City of Manila, known as the 'Tondo Foreshore Land' which extends from the Manila Abattoir to the site of the Philippine Manufacturing Company which includes the community known as 'The Barrio Fugoso to the lessees of said lots or to the bona fide occupants thereof at the time of the approval of this Act if duly qualified to acquire public land, or, in the case of vacant lots, to persons who are not disqualified to acquire public lands: Provided, That such lessees, occupants or persons do not own any residential lot in the cities of Manila, Quezon and Pasay or their suburbs.\n\"No person shall be entitled to purchase more than one lot, and any person who purchases a lot in behalf of another who is not disqualified as hereinabove provided to acquire a lot in the 'Tondo Foreshore Land' shall lose his rights and interests in the land and forfeit all amounts paid on account of said land.\n\"The selling price of each lot shall be fixed by a committee composed of the City Assessor, a representative of the Bureau of Lands, and a representative of the 'Tondo Foreshore Land Tenants Association,' but in no case shall such selling price be less than five pesos nor more than ten pesos per square meter.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H749-A2",
@@ -70,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section One of Act Numbered Five Hundred and Fifty-nine, Entitled \"An Act Providing for the Sale of Lots Comprised in the Tondo Foreshore Land to Lessees of Said Lots or to Bona Fide Occupants Thereof.\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

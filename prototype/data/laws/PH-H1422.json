@@ -1,7 +1,7 @@
 {
  "id": "PH-H1422",
  "title": {
-  "zh": null,
+  "zh": "免除对Albay省DARaga的承包工程师Andres Bolinas, Jr.因其未能在合同期内完成Legaspi屠宰场建设而课处的4560比索约定违约金的法案",
   "en": "An Act Condoning the Liquidated Damages in the Amount of Four Thousand Five Hundred Sixty Pesos Imposed on Engineer-Contractor Andres Bolinas, Jr., of DARaga, Albay, Due to His Failure to Finish Within the Contract Period the Construction of the Legaspi Slaughterhouse",
   "orig": "An Act Condoning the Liquidated Damages in the Amount of Four Thousand Five Hundred Sixty Pesos Imposed on Engineer-Contractor Andres Bolinas, Jr., of DARaga, Albay, Due to His Failure to Finish Within the Contract Period the Construction of the Legaspi Slaughterhouse"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Condoning the Liquidated Damages in the Amount of Four Thousand Five Hundred Sixty Pesos Imposed on Engineer-Contractor Andres Bolinas, Jr., of DARaga, Albay, Due to His Failure to Finish Within the Contract Period the Construction of the Legaspi Slaughterhouse",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

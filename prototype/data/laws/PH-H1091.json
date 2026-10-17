@@ -1,7 +1,7 @@
 {
  "id": "PH-H1091",
  "title": {
-  "zh": null,
+  "zh": "将邦板牙省圣费尔南多市镇圣费尔南多绕行公路的名称变更为Jose Abad Santos大道的法案",
   "en": "An Act Changing the Name of San Fernando Diversion Road in the Municipality of San Fernando, Province of Pampanga, to Jose Abad Santos Boulevard",
   "orig": "An Act Changing the Name of San Fernando Diversion Road in the Municipality of San Fernando, Province of Pampanga, to Jose Abad Santos Boulevard"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 10, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of San Fernando Diversion Road in the Municipality of San Fernando, Province of Pampanga, to Jose Abad Santos Boulevard",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

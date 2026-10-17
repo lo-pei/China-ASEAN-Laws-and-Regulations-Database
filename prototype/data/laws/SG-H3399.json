@@ -1,7 +1,7 @@
 {
  "id": "SG-H3399",
  "title": {
-  "zh": null,
+  "zh": "验光师与配镜师（投诉调查）条例",
   "en": "Optometrists and Opticians (Investigation of Complaints) Regulations",
   "orig": null
  },
@@ -336,5 +336,13 @@
     "en": "THE SCHEDULE\nRegulation 18\nFees\n1. Copy of information obtained at inquiry —\n(a) where information is in the form of transcription done by a private party engaged by the Board\nCost of transcription\n(b) in any other case\n$10 per page.\n2. Copy of statement, report or document tendered at an inquiry\n$0.50 per page.\n[G.N. No. S 555/2008]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Optometrists and Opticians (Investigation of Complaints) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

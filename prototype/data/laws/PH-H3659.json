@@ -1,7 +1,7 @@
 {
  "id": "PH-H3659",
  "title": {
-  "zh": null,
+  "zh": "修订第 3452 号共和国法（即稳定稻谷、大米与玉米价格并设立大米与玉米管理局执行该方案的法案）的法案",
   "en": "An Act to Amend Republic Act Numbered Three Thousand Four Hundred and Fifty-Two, Entitled \"An Act to Adopt a Program to Stabilize the Price of Palay, Rice and Corn, to Provide Incentives for Production and to Create the Rice and Corn Administration to Implement the Same, and to Provide Funds Therefor\"",
   "orig": "An Act to Amend Republic Act Numbered Three Thousand Four Hundred and Fifty-Two, Entitled \"An Act to Adopt a Program to Stabilize the Price of Palay, Rice and Corn, to Provide Incentives for Production and to Create the Rice and Corn Administration to Implement the Same, and to Provide Funds Therefor\""
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity.— This Act shall take effect upon its approval.\nApproved: March 8, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Three Thousand Four Hundred and Fifty-Two, Entitled \"An Act to Adopt a Program to Stabilize the Price of Palay, Rice and Corn, to Provide Incentives for Production and to Create the Rice and Corn Administration to Implement the Same, and to Provide Funds Therefor\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

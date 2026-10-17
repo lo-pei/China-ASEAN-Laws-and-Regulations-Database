@@ -1,7 +1,7 @@
 {
  "id": "BN-S-31-2002-E-FISHERIES-FISH-LANDING-COMPLEXES-REGULATIONS-2002",
  "title": {
-  "zh": null,
+  "zh": "渔业渔获上岸综合设施条例 2002",
   "en": "FISHERIES FISH LANDING COMPLEXES REGULATIONS 2002",
   "orig": null
  },
@@ -263,5 +263,13 @@
     "en": "The Director may if he thinks fit exempt any person from all or any provision of these Regulations. FIRST SCHEDULE (regulation 2)\n\nFISH LANDING COMPLEXES"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "FISHERIES FISH LANDING COMPLEXES REGULATIONS 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

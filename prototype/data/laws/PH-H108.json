@@ -1,7 +1,7 @@
 {
  "id": "PH-H108",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统依美国第454号公法（通称《菲律宾共和国军事援助法》）与美国政府签订协定，并发布实施该法所需的规则与条例，同时规定违反行为处罚的法案",
   "en": "An Act to Authorize the President of the Philippines to enter into an agreement or agreements with the Government of the United States pursuant to United States Public Act Numbered Four Hundred and Fifty-Four, commonly called the \"Republic of the Philippines Military Assistance Act,\" and to issue the necessary rules and regulations to implement said act, and providing penalties for violations thereof",
   "orig": "An Act to Authorize the President of the Philippines to enter into an agreement or agreements with the Government of the United States pursuant to United States Public Act Numbered Four Hundred and Fifty-Four, commonly called the \"Republic of the Philippines Military Assistance Act,\" and to issue the necessary rules and regulations to implement said act, and providing penalties for violations thereof"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 2, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize the President of the Philippines to enter into an agreement or agreements with the Government of the United States pursuant to United States Public Act Numbered Four Hundred and Fifty-Four, commonly called the \"Republic of the Philippines Military Assistance Act,\" and to issue the necessary rules and regulations to implement said act, and providing penalties for violations thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

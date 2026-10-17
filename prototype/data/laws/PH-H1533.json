@@ -1,7 +1,7 @@
 {
  "id": "PH-H1533",
  "title": {
-  "zh": null,
+  "zh": "确定甲米地市 Salaries of Members of 市镇 Board，为此修订第547号联邦法第11条最后款的法案",
   "en": "An Act Fixing the Salaries of the Members of the Municipal Board of the City of Cavite, Amending for the Purpose the Last Paragraph of Section Eleven of Commonwealth Act Numbered Five Hundred Forty-Seven",
   "orig": "An Act Fixing the Salaries of the Members of the Municipal Board of the City of Cavite, Amending for the Purpose the Last Paragraph of Section Eleven of Commonwealth Act Numbered Five Hundred Forty-Seven"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Fixing the Salaries of the Members of the Municipal Board of the City of Cavite, Amending for the Purpose the Last Paragraph of Section Eleven of Commonwealth Act Numbered Five Hundred Forty-Seven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

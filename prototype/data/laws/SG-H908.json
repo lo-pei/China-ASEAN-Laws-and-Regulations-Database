@@ -1,7 +1,7 @@
 {
  "id": "SG-H908",
  "title": {
-  "zh": null,
+  "zh": "征信局（罪行构成）条例 2021",
   "en": "Credit Bureau (Composition of Offences) Regulations 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences (other than a continuing offence) may be compounded by the Authority in accordance with section 66 of the Act:\n(a)an offence under section 9(2), 13(8), 21(5), 33(9) or 37(5) of the Act;\n(b)an offence under the Act that is punishable by a fine only."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Credit Bureau (Composition of Offences) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

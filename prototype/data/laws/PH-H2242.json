@@ -1,7 +1,7 @@
 {
  "id": "PH-H2242",
  "title": {
-  "zh": null,
+  "zh": "将三宝颜市塔卢克桑盖区政府所在地迁至萨科尔岛帕西尔曼塔的法案",
   "en": "An Act Transferring the Seat of Government of Taluksangay District, City of Zamboanga, to Pasilmanta, Sakol Island",
   "orig": "An Act Transferring the Seat of Government of Taluksangay District, City of Zamboanga, to Pasilmanta, Sakol Island"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring the Seat of Government of Taluksangay District, City of Zamboanga, to Pasilmanta, Sakol Island",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

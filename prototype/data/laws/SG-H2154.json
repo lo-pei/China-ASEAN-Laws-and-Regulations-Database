@@ -1,7 +1,7 @@
 {
  "id": "SG-H2154",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发利息及其他付款豁免）（第 3 号）公告 2003",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 3) Notification 2003",
   "orig": null
  },
@@ -98,5 +98,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nPart II\nSpecified institutions for PARAGRAPH 3 (2)\n1. The Monetary Authority of Singapore.\n2. Any bank that holds a licence under section 7 or 79 of the Banking Act 1970.\n[S 478/2021 wef 01/07/2021]\n[S 333/2024 wef 31/12/2021]\n3. Any merchant bank that holds a merchant bank licence, or is treated as having been granted a merchant bank licence, under the Banking Act 1970.\n[S 478/2021 wef 01/07/2021]\n[S 333/2024 wef 31/12/2021]\n4. Any finance company licensed under the Finance Companies Act 1967.\n[S 333/2024 wef 31/12/2021]\n5. Any holder of a capital markets services licence licensed to carry on business in the following regulated activities under the Securities and Futures Act 2001 or a company exempted under that Act from holding such a licence:\n(a)dealing in securities (other than a person licensed under the Financial Advisers Act 2001);\n[S 333/2024 wef 31/12/2021]\n(b)fund management;\n(c)securities financing; or\n(d)providing custodial services for securities.\n[S 333/2024 wef 31/12/2021]\n6. Any collective investment scheme or closed-end fund as defined in the Securities and Futures Act 2001 that is constituted as a corporation.\n[S 333/2024 wef 31/12/2021]\n7. The Central Depositary (Pte) Limited.\n8. Any insurer registered or regulated under the Insurance Act 1966 or exempted under that Act from being registered or regulated.\n[S 333/2024 wef 31/12/2021]\n9. Any trust company registered under the Trust Companies Act 2005.\n[S 333/2024 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 3) Notification 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

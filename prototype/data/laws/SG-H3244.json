@@ -1,7 +1,7 @@
 {
  "id": "SG-H3244",
  "title": {
-  "zh": null,
+  "zh": "药物滥用（登记册与 DNA 数据库资料的使用）条例 2026",
   "en": "Misuse of Drugs (Use of Information in Register and DNA Database) Regulations 2026",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. For the purposes of section 40D(2)(f) of the Act, the prescribed purposes for which any information stored in the DNA database under section 40D(1)(b) of the Act may be used are as follows:\n(a)for comparison with any other DNA information obtained in the course of an investigation of an offence under the Act or the Penal Code 1871, conducted by a military policeman serving as an investigating officer under section 177(b) of the Singapore Armed Forces Act 1972;\n(b)for comparison with any other DNA information obtained in the course of an inquiry into any matter relevant to the making of any order, or the giving of any direction, by the President or Minister (as the case may be) under section 8 of the Internal Security Act 1960, conducted by a person designated by the Minister as an intelligence officer under section 65(4) of the Police Force Act 2004."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Misuse of Drugs (Use of Information in Register and DNA Database) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

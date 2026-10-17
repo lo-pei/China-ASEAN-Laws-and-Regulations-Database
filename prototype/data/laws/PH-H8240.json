@@ -1,7 +1,7 @@
 {
  "id": "PH-H8240",
  "title": {
-  "zh": null,
+  "zh": "将莱特省Tolosa市镇Tanghas描笼涯的Tolosa国立中学Tolosa渔业学校从该校分离，改设为Daniel Z. Romualdez州立综合渔业学校，并为此拨款的法案",
   "en": "An Act Separating the Tolosa National High School - Tolosa School of Fisheries in Barangay Tanghas, Municipality of Tolosa, Province of Leyte from the Tolosa National High School, Converting it into an Independent National High School to Be Known as Daniel Z. Romualdez State Comprehensive School of Fisheries and Appropriating Funds Therefor",
   "orig": "An Act Separating the Tolosa National High School - Tolosa School of Fisheries in Barangay Tanghas, Municipality of Tolosa, Province of Leyte from the Tolosa National High School, Converting it into an Independent National High School to Be Known as Daniel Z. Romualdez State Comprehensive School of Fisheries and Appropriating Funds Therefor"
  },
@@ -82,5 +82,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Tolosa National High School - Tolosa School of Fisheries in Barangay Tanghas, Municipality of Tolosa, Province of Leyte from the Tolosa National High School, Converting it into an Independent National High School to Be Known as Daniel Z. Romualdez State Comprehensive School of Fisheries and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

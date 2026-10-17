@@ -1,0 +1,162 @@
+{
+ "formatVersion": "calr-title-zh-v1",
+ "updatedAt": "2026-10-17",
+ "note": "法规标题中文译名的权威导出与交付物归档。译名正文以 prototype/data/laws/<id>.json 的 title.zh 为唯一真源，本目录为其汇总导出与过程存档。",
+ "lawCount": 18854,
+ "translatedCount": 17985,
+ "coverage": {
+  "PH": {
+   "total": 10619,
+   "zh": 10617,
+   "pct": 100.0
+  },
+  "SG": {
+   "total": 3714,
+   "zh": 3714,
+   "pct": 100.0
+  },
+  "CN": {
+   "total": 1586,
+   "zh": 1586,
+   "pct": 100.0
+  },
+  "BN": {
+   "total": 1298,
+   "zh": 1261,
+   "pct": 97.1
+  },
+  "TH": {
+   "total": 816,
+   "zh": 162,
+   "pct": 19.9
+  },
+  "TL": {
+   "total": 230,
+   "zh": 230,
+   "pct": 100.0
+  },
+  "KH": {
+   "total": 189,
+   "zh": 162,
+   "pct": 85.7
+  },
+  "MY": {
+   "total": 97,
+   "zh": 68,
+   "pct": 70.1
+  },
+  "VN": {
+   "total": 91,
+   "zh": 55,
+   "pct": 60.4
+  },
+  "MM": {
+   "total": 85,
+   "zh": 49,
+   "pct": 57.6
+  },
+  "LA": {
+   "total": 80,
+   "zh": 44,
+   "pct": 55.0
+  },
+  "ID": {
+   "total": 49,
+   "zh": 37,
+   "pct": 75.5
+  }
+ },
+ "batches": [
+  {
+   "jobId": "CALR-TITLE-20261017-1732-SG-8",
+   "count": 8,
+   "byCountry": {
+    "SG": 8
+   },
+   "returnPkg": "CALR-TITLE-20261017-1732-SG-8-RETURN",
+   "shards": 1,
+   "engine": "llm",
+   "model": "deepseek-v4.1-flash",
+   "createdAt": "2026-10-17T09:32:01.232Z"
+  },
+  {
+   "jobId": "CALR-TITLE-20261017-1749-SG-1200",
+   "count": 1200,
+   "byCountry": {
+    "SG": 1200
+   },
+   "returnPkg": "CALR-TITLE-20261017-1749-SG-1200-RETURN",
+   "shards": 6,
+   "engine": "llm",
+   "model": "deepseek-v4.1-flash",
+   "createdAt": "2026-10-17T09:49:13.229Z"
+  },
+  {
+   "jobId": "CALR-TITLE-20261017-1801-BN-1261",
+   "count": 1261,
+   "byCountry": {
+    "BN": 1261
+   },
+   "returnPkg": "CALR-TITLE-20261017-1801-BN-1261-RETURN",
+   "shards": 6,
+   "engine": "llm",
+   "model": "deepseek-v4.1-flash",
+   "createdAt": "2026-10-17T10:01:03.597Z"
+  },
+  {
+   "jobId": "CALR-TITLE-20261017-1801-TH-160",
+   "count": 160,
+   "byCountry": {
+    "TH": 160
+   },
+   "returnPkg": "CALR-TITLE-20261017-1801-TH-160-RETURN",
+   "shards": 1,
+   "engine": "llm",
+   "model": "deepseek-v4.1-flash",
+   "createdAt": "2026-10-17T10:01:19.939Z"
+  },
+  {
+   "jobId": "CALR-TITLE-20261017-1816-IDS-5",
+   "count": 5,
+   "byCountry": {
+    "KH": 4,
+    "MM": 1
+   },
+   "returnPkg": "CALR-TITLE-20261017-1816-IDS-5-RETURN",
+   "shards": 1,
+   "engine": "llm",
+   "model": "deepseek-v4.1-flash",
+   "createdAt": "2026-10-17T10:16:12.499Z"
+  },
+  {
+   "jobId": "CALR-TITLE-20261017-1818-SG-2467",
+   "count": 2467,
+   "byCountry": {
+    "SG": 2467
+   },
+   "returnPkg": "CALR-TITLE-20261017-1818-SG-2467-RETURN",
+   "shards": 13,
+   "engine": "llm",
+   "model": "deepseek-v4.1-flash",
+   "createdAt": "2026-10-17T10:18:26.862Z"
+  },
+  {
+   "jobId": "CALR-TITLE-20261017-1837-PH-7575",
+   "count": 7575,
+   "byCountry": {
+    "PH": 7575
+   },
+   "returnPkg": "CALR-TITLE-20261017-1837-PH-7575-RETURN",
+   "shards": 40,
+   "engine": "llm",
+   "model": "deepseek-v4.1-flash",
+   "createdAt": "2026-10-17T10:37:42.978Z"
+  }
+ ],
+ "files": [
+  "titles.zh.json",
+  "PROVENANCE.md",
+  "artifacts/",
+  "index.json"
+ ]
+}

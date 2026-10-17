@@ -1,7 +1,7 @@
 {
  "id": "PH-H6424",
  "title": {
-  "zh": null,
+  "zh": "将 Dr. Emilio B. Espinosa, Sr. 纪念农学院改设为同名农业与技术国立学院，界定其权力与职责、拨款并修订第 4717 号共和国法的法案",
   "en": "An Act Converting the Dr. Emilio B. Espinosa, Sr. Memorial Agricultural College Into the Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology, Defining Its Powers, Functions, and Duties, Appropriating Funds Therefor, and for Other Purposes, Amending Republic Act No. 4717",
   "orig": "An Act Converting the Dr. Emilio B. Espinosa, Sr. Memorial Agricultural College Into the Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology, Defining Its Powers, Functions, and Duties, Appropriating Funds Therefor, and for Other Purposes, Amending Republic Act No. 4717"
  },
@@ -252,5 +252,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in Filipino and English in at least two circulation (2) newspapers of general"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Dr. Emilio B. Espinosa, Sr. Memorial Agricultural College Into the Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology, Defining Its Powers, Functions, and Duties, Appropriating Funds Therefor, and for Other Purposes, Amending Republic Act No. 4717",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3117",
  "title": {
-  "zh": null,
+  "zh": "将高山省伊富高次省拉穆特市镇区的伊富高示范农业机会学校的名称变更为Payon Bugan示范农业机会学校的法案",
   "en": "An Act Changing the Name of the Ifugao Pilot Opportunity School of Agriculture in the Municipal District of Lamut, Subprovince of Ifugao, Mountain Province, to Payon Bugan Pilot Opportunity School of Agriculture",
   "orig": "An Act Changing the Name of the Ifugao Pilot Opportunity School of Agriculture in the Municipal District of Lamut, Subprovince of Ifugao, Mountain Province, to Payon Bugan Pilot Opportunity School of Agriculture"
  },
@@ -62,5 +62,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Ifugao Pilot Opportunity School of Agriculture in the Municipal District of Lamut, Subprovince of Ifugao, Mountain Province, to Payon Bugan Pilot Opportunity School of Agriculture",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

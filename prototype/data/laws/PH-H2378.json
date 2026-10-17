@@ -1,7 +1,7 @@
 {
  "id": "PH-H2378",
  "title": {
-  "zh": null,
+  "zh": "规定在伊洛伊洛省建设 Jalaur 多用途工程并规范其建成后运营的法案",
   "en": "An Act Providing for the Construction of the Jalaur Multi-Purpose Project in the Province of Iloilo and Governing its Operation After its Completion",
   "orig": "An Act Providing for the Construction of the Jalaur Multi-Purpose Project in the Province of Iloilo and Governing its Operation After its Completion"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Construction of the Jalaur Multi-Purpose Project in the Province of Iloilo and Governing its Operation After its Completion",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

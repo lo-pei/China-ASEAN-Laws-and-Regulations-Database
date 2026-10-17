@@ -1,0 +1,76 @@
+{
+ "id": "BN-S-52-2015-CONSUMER-PROTECTION-FAIR-TRADING-AMENDMENT-C91F8D",
+ "title": {
+  "zh": "消费者保护公平交易（修正）命令 2015",
+  "en": "CONSUMER PROTECTION FAIR TRADING AMENDMENT ORDER 2015",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p30",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 852,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-52-2015-CONSUMER-PROTECTION-FAIR-TRADING-AMENDMENT-ORDER-2015.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-52-2015-CONSUMER-PROTECTION-FAIR-TRADING-AMENDMENT-ORDER-2015.pdf》（2 页），本次切分 2 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-52-2015-CONSUMER-PROTECTION-FAIR-TRADING-AMENDMENT-C91F8D-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "heading": {
+    "en": "Citation and commencement"
+   },
+   "text": {
+    "en": "This Order may be cited as the Consumer Protection (Fair Trading) (Amendment) Order, 2015 and shall commence on the same date as the Consumer Protection (Fair Trading) Order, 20 1 1. Amendment of First Schedule of S 641201 1"
+   }
+  },
+  {
+   "id": "BN-S-52-2015-CONSUMER-PROTECTION-FAIR-TRADING-AMENDMENT-C91F8D-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE"
+   },
+   "text": {
+    "en": "The First Schedule to the Consumer Protection (Fair Trading] Order, 2011, is\n\n(a) in paragraph 1 -\n\n(i) by deleting \"1\" before \"The\" from the first line; and\n\n(ii) in subparagraph (c), by deleting \"specified in paragraph 2\".\n\n(b) by deleting paragraph 2. Made this 26th. day of Zulhijjah, 1436 Hijriah corresponding to the 10th. day of October, 2015 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh AWANG HAJI KAMARUL AZAM BIN HAJI MOHAMAD Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalani."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "CONSUMER PROTECTION FAIR TRADING AMENDMENT ORDER 2015",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3235",
  "title": {
-  "zh": null,
+  "zh": "进一步修订经修正的《修订行政法典》第2184条，以提高市镇官员薪金上限的法案",
   "en": "An Act to Further Amend Section Twenty-One Hundred and Eighty-Four of the Revised Administrative Code, as Amended, so as to Increase the Maximum Limit of Salaries of Municipal Officers",
   "orig": "An Act to Further Amend Section Twenty-One Hundred and Eighty-Four of the Revised Administrative Code, as Amended, so as to Increase the Maximum Limit of Salaries of Municipal Officers"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Section Twenty-One Hundred and Eighty-Four of the Revised Administrative Code, as Amended, so as to Increase the Maximum Limit of Salaries of Municipal Officers",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

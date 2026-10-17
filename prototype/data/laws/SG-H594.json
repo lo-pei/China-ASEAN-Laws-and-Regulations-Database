@@ -1,7 +1,7 @@
 {
  "id": "SG-H594",
  "title": {
-  "zh": null,
+  "zh": "儿童与青少年（羁留院）公告 2019",
   "en": "Children and Young Persons (Remand Home) Notification 2019",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The Notification relating to Remand Home (G.N. No. S 48/1999) is cancelled."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Children and Young Persons (Remand Home) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

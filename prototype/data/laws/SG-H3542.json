@@ -1,7 +1,7 @@
 {
  "id": "SG-H3542",
  "title": {
-  "zh": null,
+  "zh": "规划（指明物业土地开发授权）公告 2015",
   "en": "Planning (Development of Land Authorisation for Specified Property) Notification 2015",
   "orig": null
  },
@@ -123,5 +123,13 @@
     "en": "SECOND SCHEDULE\nParagraph 3\nType B authorised uses\n1.Use as an adventure camp\n2.Use for agriculture purposes or farming\n3.Use as builders’ site office or work area\n4.Use as a community building\n5.Use as concrete batching plant, concrete casting yards for construction\n6.Use as a child care centre\n7.Use for elderly day care\n8.Use for equestrian purposes\n9.Use for industrial training purposes\n10.Use as a market or food centre\n11.Use as a park or garden\n12.Use as a parking space for heavy vehicles\n13.Use as a parking space for motor vehicles\n14.Use as a plant nursery\n14A.Use for solar panel deployment\n[S 684/2025 wef 31/10/2025]\n15.Use as a sports and recreation building\n16.Use as a storage area\n17.Use as a warehouse\n18.Use as a workers’ dormitory recreational space\n[S 234/2017 wef 15/05/2017]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Planning (Development of Land Authorisation for Specified Property) Notification 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

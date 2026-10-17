@@ -1,7 +1,7 @@
 {
  "id": "SG-H3357",
  "title": {
-  "zh": null,
+  "zh": "义安理工学院法 1967",
   "en": "Ngee Ann Polytechnic Act 1967",
   "orig": null
  },
@@ -398,5 +398,13 @@
     "en": "25. On and after 16 April 1982, any reference to the Ngee Ann Technical College contained in any contract, agreement, bequest, will, trust or other instrument has effect as if it were a reference to the Ngee Ann Polytechnic."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Ngee Ann Polytechnic Act 1967",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

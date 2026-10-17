@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-237-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-CODE",
  "title": {
-  "zh": null,
+  "zh": "伊斯兰法庭民事程序法典",
   "en": "SYARIAH COURTS CIVIL PROCEDURE CODE",
   "orig": null
  },
@@ -3583,5 +3583,13 @@
     "en": "For settling cases and matters which are pending before any Court established under the Religious Council and Kadis Courts Act (Chapter 77) on the commencement of this Code, the provisions of procedure under this Code may apply to the extent that it does not result in injustice. (section 2(3) and (4)) Baitulmal -----ﺎﻝﺑﻴѧѧѧѧﺖ ﺍﻟﻤѧѧѧѧ Da’in -----ﻦﺩﺍﯨْѧѧѧ -----ﺎﻧﺔﺣﻀѧѧѧ Hakim Syar’ie -----ﺮﻋﻰﺣѧѧﺎﻛﻢ ﺷѧѧ -----ﺮﻉﺣﻜѧѧﻢ ﺷѧѧ Lafaz -----ﻆﻟﻔѧѧѧѧѧѧ -----ﺪﻳﻦﻣѧѧ -----ﺘﻮﻁﻦﻣﺴѧѧѧѧѧ Mazhab -----ﻣﺬﻫﺐ -----ﻢﻣﻘﻴѧѧѧѧѧ -----ﺔﻗﻤﺮﻳѧѧѧѧ Sulh -----ﻠﺢﺻѧѧѧѧ -----ﺔﻭﻛﺎﻟѧѧѧ Yamin -----ﻦﻳﻤﻴѧѧѧѧѧ Yamin Mardudah -----ﺮﺩﻭﺩﺓﻳﻤﻴѧѧﻦ ﻣѧѧ Yamin Istizhar -----ﺘﻈﻬﺎﺭﻳﻤﻴѧѧѧѧѧﻦ ﺍﺳѧѧѧѧѧ (sections 2(1) and 223)\n\nFORM MS 1 (section 7) IN THE SYARIAH SUBORDINATE / HIGH COURT AT ............................................\n\nIN BRUNEI DARUSSALAM\n\n(1) ........................................ No ....................................... of 14 .......... H / 20 .......... M.\n\n(2) ....................................................................................................... Plaintiff AND\n\n(3) Defendant....................................................................................................... Respondent"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SYARIAH COURTS CIVIL PROCEDURE CODE",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H368",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（户外广告）条例",
   "en": "Building Control (Outdoor Advertising) Regulations",
   "orig": null
  },
@@ -207,5 +207,13 @@
     "en": "13.—(1) Any licence granted under the revoked Building Control (Advertisement) Regulations (Rg 6, 2000 Ed.) which is in force immediately before 16th September 2002 —\n(a)shall have effect as though granted under these Regulations; and\n(b)shall remain in force, subject to these Regulations, for so much of that period of its validity remaining after 16th September 2002.\n(2) For any fee paid under the revoked Building Control (Advertisement) Regulations for a licence which is in force immediately before 16th September 2002 —\n(a)a refund shall not be paid if the unexpired period of the licence is less than 12 months; and\n(b)a refund shall be paid of the amount equivalent to the licence fee payable for 12 months or 24 months if the unexpired period of the licence is more than 12 months and 24 months, respectively."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building Control (Outdoor Advertising) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

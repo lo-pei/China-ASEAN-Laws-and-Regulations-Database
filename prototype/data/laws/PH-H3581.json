@@ -1,7 +1,7 @@
 {
  "id": "PH-H3581",
  "title": {
-  "zh": null,
+  "zh": "在菲律宾大学设立大众传播研究所，为其建筑、设施与运营费用提供资金并为其他目的法案",
   "en": "An Act Establishing an Institute of Mass Communications in the University of the Philippines, Providing Funds for a Building, Facilities and Operating Expenses Thereof, and for Other Purposes",
   "orig": "An Act Establishing an Institute of Mass Communications in the University of the Philippines, Providing Funds for a Building, Facilities and Operating Expenses Thereof, and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing an Institute of Mass Communications in the University of the Philippines, Providing Funds for a Building, Facilities and Operating Expenses Thereof, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

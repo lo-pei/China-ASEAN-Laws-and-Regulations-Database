@@ -1,7 +1,7 @@
 {
  "id": "BN-S-58-2015-NOTIFICATION-OF-COMMENCMENT-OF-BILL-OF-EXCH-908E4F",
  "title": {
-  "zh": null,
+  "zh": "汇票法修正命令 2015 生效公告",
   "en": "Notification of Commencment of Bill of Exchange Act Amendment Order 2015",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 58 BILLS OF EXCHANGE ACT (AMENDMENT) ORDER, 2015 (S 35/2015) Notification of commencement In exercise of the power conferred by section 1 of the Bills of Exchange Act (Amendment) Order, 2015, the Minister of Finance, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 13th. May, 2015 as the date on which that Order shall be deemed to have commenced. Dated this 25th. day of Safar, 1437 Hijriah corresponding to the 7th. day of December, 2015.\n\nA WANG HAJI NAZMI BIN HAJI MOHAMAD Permanent Secretary, Ministry of Finance."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Notification of Commencment of Bill of Exchange Act Amendment Order 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H732",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第3428号法（即《规定雇员因履行职务所受人身伤害、死亡或疾病应得补偿法》，经第3812号法、第210号联邦法与第772号共和国法修正）的法案",
   "en": "An Act to Further Amend Act Numbered Three Thousand Four Hundred Twenty-eight, Entitled \"An Act Prescribing the Compensation to Be Received By Employees for Personal Injuries, Death or Illness Contracted in the Performance of Their Duties\", as Amended By Act Numbered Three Thousand Eight Hundred and Twelve, By Commonwealth Act Numbered Two Hundred and Ten and By Republic Act Numbered Seven Hundred and Seventy-two",
   "orig": "An Act to Further Amend Act Numbered Three Thousand Four Hundred Twenty-eight, Entitled \"An Act Prescribing the Compensation to Be Received By Employees for Personal Injuries, Death or Illness Contracted in the Performance of Their Duties\", as Amended By Act Numbered Three Thousand Eight Hundred and Twelve, By Commonwealth Act Numbered Two Hundred and Ten and By Republic Act Numbered Seven Hundred and Seventy-two"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall be effective as of June twenty, nineteen hundred and fifty-two.\nApproved, June 19, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Act Numbered Three Thousand Four Hundred Twenty-eight, Entitled \"An Act Prescribing the Compensation to Be Received By Employees for Personal Injuries, Death or Illness Contracted in the Performance of Their Duties\", as Amended By Act Numbered Three Thousand Eight Hundred and Twelve, By Commonwealth Act Numbered Two Hundred and Ten and By Republic Act Numbered Seven Hundred and Seventy-two",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

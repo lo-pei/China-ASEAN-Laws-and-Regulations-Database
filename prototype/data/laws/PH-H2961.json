@@ -1,7 +1,7 @@
 {
  "id": "PH-H2961",
  "title": {
-  "zh": null,
+  "zh": "修订《修订行政法典》第七编第26章第Vi条，增列规定失效国库支票处置的新条款的法案",
   "en": "An Act to Amend Article Vi, Chapter 26, Title VII, of the Revised Administrative Code by Inserting a New Section Providing for the Disposition of Stale Treasury Warrants",
   "orig": "An Act to Amend Article Vi, Chapter 26, Title VII, of the Revised Administrative Code by Inserting a New Section Providing for the Disposition of Stale Treasury Warrants"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Article Vi, Chapter 26, Title VII, of the Revised Administrative Code by Inserting a New Section Providing for the Disposition of Stale Treasury Warrants",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

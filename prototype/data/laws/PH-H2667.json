@@ -1,7 +1,7 @@
 {
  "id": "PH-H2667",
  "title": {
-  "zh": null,
+  "zh": "将国家政府在黎刹省Angono市镇取得的一块土地转为可处分或可转让的国有土地，分割后出售给该市镇无地居民并为其他目的法案",
   "en": "An Act to Convert a Certain Parcel of Land Acquired by the National Government in the Municipality of Angono, Province of Rizal, into Disposable or Alienable Land of the Estate, to be Subdivided and Sold to the Landless Residents of Said Municipality, and for Other Purposes",
   "orig": "An Act to Convert a Certain Parcel of Land Acquired by the National Government in the Municipality of Angono, Province of Rizal, into Disposable or Alienable Land of the Estate, to be Subdivided and Sold to the Landless Residents of Said Municipality, and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert a Certain Parcel of Land Acquired by the National Government in the Municipality of Angono, Province of Rizal, into Disposable or Alienable Land of the Estate, to be Subdivided and Sold to the Landless Residents of Said Municipality, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

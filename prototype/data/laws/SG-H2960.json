@@ -1,7 +1,7 @@
 {
  "id": "SG-H2960",
  "title": {
-  "zh": null,
+  "zh": "土地业权（分层）（撤销通知）条例",
   "en": "Land Titles (Strata) (Notice of Rescission) Regulations",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nLand Titles (Strata) Act\n(Chapter 158)\nNotice of Rescission\nTo: _______________________________________________________________________\n[Name of advocate and solicitor appointed by the collective sale committee]\nAddress for service of notice : __________________________________________________\nAddress of development in collective sale agreement : ______________________________\nLot/Mukim No.: _____________________________________________________________\n[To be filled in by advocate and solicitor\nappointed by the collective sale committee]\nBlock/Unit No.: _____________________________________________________________\nDate of First signature on collective sale agreement: ________________________________\nThis is to certify that I/we hereby rescind my/our agreement to be a party to the said collective sale agreement which I/we had signed on ___________. The rescission will take effect on the date of service of the notice on you. Please return all moneys that have been paid by or on behalf of myself/ourselves under the collective sale agreement within 2 weeks from the date of service of this notice.\nDate of service of this notice: ____________________ (within 5 days after the date that the collective sale agreement was signed, excluding s Saturday, Sunday or public holiday).\nSubsidiary proprietor/Proprietor 1\nSubsidiary proprietor/Proprietor 2\nSignature: ___________________________\nSignature: ____________________________\nName: ______________________________\nName: _______________________________\nSignature and\nname of witness: ______________________\nSignature and\nname of witness: _______________________\nSubsidiary proprietor/Proprietor 3\nSubsidiary proprietor/Proprietor 4\nSignature: ___________________________\nSignature: ____________________________\nName: ______________________________\nName: _______________________________\nSignature and\nname of witness: ______________________\nSignature and\nname of witness: _______________________\nAcknowledgement of receipt by advocate and solicitor appointed by the collective sale committee or his representative:\nReceived on _____________________ at __________ by ____________________________\n[date] [time]\nInstructions\n1. If you have signed a collective sale agreement (“CSA”), you have a right to retract (or rescind) your agreement to be a party to the CSA by serving the notice of rescission (“the notice”) on the advocate and solicitor appointed by the sale collective committee of the development (“the lawyer”). You may rescind your agreement only once for the same CSA.\n2. The Notice shall be signed before a witness who is not a co-owner. If there is more than one owner, the same person may witness the signatures of all the co-owners.\n3. To rescind your agreement to be a party to the CSA, you must serve the notice on the lawyer within 5 days after the day you signed the CSA. The 5-day period excludes any Saturday, Sunday or public holiday. For example, if you signed the CSA on Monday, you must serve the notice no later than the following Monday before 5 p.m. If Friday is a public holiday, then the notice must be served no later than the following Tuesday before 5 p.m.\nExample 1\nCooling-off period\nMon\nTue\nWed\nThu\nFri\nSat\nSun\nMon\nDay CSA signed\nDay 1\nDay 2\nDay 3\nDay 4\n‑\n‑\nDay 5 (notice of rescission must be served before 5 p.m.)\nExample 2\nCooling-off period\nMon\nTue\nWed\nThu\nFri\nSat\nSun\nMon (PH)*\nTue\nDay CSA signed\nDay 1\nDay 2\nDay 3\nDay 4\n‑\n‑\n‑\nDay 5 (notice of rescission must be served before 5 p.m.)\nExample 3\nCooling-off period\nMon\nTue\nWed (PH)*\nThu\nFri\nSat\nSun\nMon\nTue (PH)*\nWed\nDay CSA signed\nDay 1\n‑\nDay 2\nDay 3\n‑\n‑\nDay 4\n‑\nDay 5 (notice of rescission must be served before 5 p.m.)\n4. The notice must be served on the lawyer personally by you or your authorised representative at the law firm’s address given by the lawyer\n________________\n*Public Holiday"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Land Titles (Strata) (Notice of Rescission) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

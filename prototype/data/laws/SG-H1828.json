@@ -1,7 +1,7 @@
 {
  "id": "SG-H1828",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 5 号）命令 2021",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 5) Order 2021",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Changi Road, Joo Chiat Road and Lorong 101 Changi, comprised in Lot number 07662W in Mukim 26 and on which Apartment Blocks 3 and 4 are erected, and which is more particularly shaded in Plan 1.\nPLAN 1\nJOO CHIAT ROAD\n2. All that part of the housing estate of the Board bounded by Sims Avenue, Jalan Ubi and Changi Road, comprised in Lot number 04182M in Mukim 23 and on which Apartment Blocks 842, 844, 846 and 848 are erected, and which is more particularly shaded in Plan 2.\nPLAN 2\nSIMS AVENUE"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 5) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

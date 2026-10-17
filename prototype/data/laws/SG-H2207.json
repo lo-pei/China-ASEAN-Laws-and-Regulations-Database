@@ -1,7 +1,7 @@
 {
  "id": "SG-H2207",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 3 号）公告 2016",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 3) Notification 2016",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest payable from 28 May 2015 to 29 September 2015 (both dates inclusive) by China Ore Shipping Pte Ltd to —\n(a)Cosco Investments Limited in respect of a loan amount of US$181,560,000 under a loan agreement dated 28 May 2015 (called in this paragraph the Cosco loan agreement); and\n(b)China Shipping Development (HK) Marine Co., Ltd in respect of a loan amount of US$174,440,000 under a loan agreement dated 28 May 2015 (called in this paragraph the China Shipping loan agreement),\nfor the purposes of acquiring the vessels “Yuan Zhen Hai”, “Yuan Jian Hai”, “Yuan Shi Hai” and “Yuan Zhuo Hai”, is exempt from tax.\n(2) The exemption under sub-paragraph (1) —\n(a)is subject to the conditions specified in the letter of approval dated 7 July 2016 issued by the Ministry of Finance and addressed to the Maritime Port Authority of Singapore and the Inland Revenue Authority of Singapore; and\n(b)does not apply —\n(i)in the case of the Cosco loan agreement, to interest payable after the earliest of the following:\n(A)29 September 2015;\n(B)the date of termination of the Cosco loan agreement;\n(C)the date on which China Ore Shipping Pte Ltd transfers or disposes of any of the vessels;\n(D)the date immediately before the date of deregistration of any of the vessels from the Singapore Registry of Ships; and\n(ii)in the case of the China Shipping loan agreement, to interest payable after the earliest of the following:\n(A)29 September 2015;\n(B)the date of termination of the China Shipping loan agreement;\n(C)the date on which China Ore Shipping Pte Ltd transfers or disposes of any of the vessels;\n(D)the date immediately before the date of deregistration of any of the vessels from the Singapore Registry of Ships."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 3) Notification 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

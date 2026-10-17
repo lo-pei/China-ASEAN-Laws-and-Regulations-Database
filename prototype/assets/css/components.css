@@ -349,3 +349,15 @@ html[data-theme="dark"] .law-body { font-family: var(--font-sans); }
 .stat { text-align: center; padding: 14px 8px; }
 .stat__num { font-family: var(--font-mono); font-size: 26px; font-weight: 700; color: var(--calr-blue-600); line-height: 1.2; }
 .stat__label { font-size: var(--fs-mini); color: var(--text-secondary); }
+
+/* ---- 筛选组：滚动条不压数字 + 计数右对齐成列 ----
+   注意：必须保留 margin-left:auto（右推），上次误改成 6px 导致数字紧跟标题、无法对齐。 */
+.filter-group__list { padding-right: 10px; }
+.filter-group__list .checkbox { padding-right: 2px; }
+.filter-group__list .checkbox__count {
+  margin-left: auto;
+  padding-left: 10px;
+  min-width: 52px;          /* 固定宽度 → 各位数的法规数也能对齐成一列 */
+  text-align: right;
+  flex: 0 0 auto;
+}

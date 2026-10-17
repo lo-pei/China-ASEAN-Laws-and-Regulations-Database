@@ -1,7 +1,7 @@
 {
  "id": "SG-H1746",
  "title": {
-  "zh": null,
+  "zh": "租购（机动车）条例 2013",
   "en": "Hire-Purchase (Motor Vehicles) Regulations 2013",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. Any owner of a motor vehicle who makes a hire‑purchase agreement or conditional sale agreement which does not comply with any of the requirements of regulation 4 or 5 shall be guilty of an offence."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Hire-Purchase (Motor Vehicles) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

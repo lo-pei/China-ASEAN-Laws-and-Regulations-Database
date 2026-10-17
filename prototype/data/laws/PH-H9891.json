@@ -1,7 +1,7 @@
 {
  "id": "PH-H9891",
  "title": {
-  "zh": null,
+  "zh": "扩大豁免披露已发表新闻或保密取得信息来源的适用范围，将广播与新闻通讯社记者纳入其中，为此修订第53号共和国法（经第1477号共和国法修正）第1条",
   "en": "An Act Expanding the Coverage of Exemptions from Revealing the Source of Published News or Information Obtained in Confidence by Including Journalists from Broadcast, and News Agencies, Amending for the Purpose Section 1 of Republic Act No. 53, as Amended By Republic Act No. 1477",
   "orig": "An Act Expanding the Coverage of Exemptions from Revealing the Source of Published News or Information Obtained in Confidence by Including Journalists from Broadcast, and News Agencies, Amending for the Purpose Section 1 of Republic Act No. 53, as Amended By Republic Act No. 1477"
  },
@@ -70,5 +70,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of national circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Expanding the Coverage of Exemptions from Revealing the Source of Published News or Information Obtained in Confidence by Including Journalists from Broadcast, and News Agencies, Amending for the Purpose Section 1 of Republic Act No. 53, as Amended By Republic Act No. 1477",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H269",
  "title": {
-  "zh": null,
+  "zh": "向国家环境局转授职能",
   "en": "Assignment of Functions to National Environment Agency",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "National Environment Agency Act\n(Chapter 195)\nAssignment of Functions to National Environment Agency\nIn exercise of the powers conferred by section 11(2) of the National Environment Agency Act, the Minister for the Environment hereby assigns to the National Environment Agency the following functions:\n(a)to construct, develop and manage hawker centres in its own right or as an agent of —\n(i)the Government; or\n(ii)any body corporate established by written law; and\n(b)to construct, develop and manage crematoria, columbaria and burial facilities in its own right or as an agent of the Government."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Assignment of Functions to National Environment Agency",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

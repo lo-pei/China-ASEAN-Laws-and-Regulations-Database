@@ -1,7 +1,7 @@
 {
  "id": "TH-H666",
  "title": {
-  "zh": null,
+  "zh": "支票签发相关犯罪法，佛历 2534（1991）",
   "en": "OFFENCES RELATED TO THE ISSUANCE OF CHEQUES ACT, B.E. 2534 (1991)",
   "orig": "พระราชบัญญัติว่าด้วยความผิดอันเกิดจากการใช้เช็ค พ.ศ. 2534"
  },
@@ -150,5 +150,13 @@
     "th": "มาตรา ๑๑ ให้รัฐมนตรีว่าการกระทรวงมหาดไทยและรัฐมนตรีว่าการกระทรวงยุติธรรมรักษาการตามพระราชบัญญัตินี้"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "OFFENCES RELATED TO THE ISSUANCE OF CHEQUES ACT, B.E. 2534 (1991)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

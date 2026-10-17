@@ -1,7 +1,7 @@
 {
  "id": "PH-H638",
  "title": {
-  "zh": null,
+  "zh": "规定政府公务中护士的修订薪金分配与自动加薪的法案",
   "en": "An Act Providing for Revised Salary Allocations and Automatic Salary Increases for Nurses in the Government Service",
   "orig": "An Act Providing for Revised Salary Allocations and Automatic Salary Increases for Nurses in the Government Service"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 15, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for Revised Salary Allocations and Automatic Salary Increases for Nurses in the Government Service",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

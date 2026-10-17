@@ -1,7 +1,7 @@
 {
  "id": "SG-H1684",
  "title": {
-  "zh": null,
+  "zh": "危险废物（出口、进口与过境管制）条例 1998",
   "en": "Hazardous Waste (Control of Export, Import and Transit) Regulations 1998",
   "orig": null
  },
@@ -608,5 +608,13 @@
     "en": "THE SCHEDULE\nRegulation 32\nFees\n1.Application under regulation 3, 4 or 5 for Basel permit or special permit\n$395\n2.Application under regulation 21 for variation of Basel permit or special permit\n$130 per application\n[S 474/2026 wef 01/08/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Hazardous Waste (Control of Export, Import and Transit) Regulations 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

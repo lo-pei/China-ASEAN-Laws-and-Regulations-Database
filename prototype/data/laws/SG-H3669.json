@@ -1,7 +1,7 @@
 {
  "id": "SG-H3669",
  "title": {
-  "zh": null,
+  "zh": "小型机动车辆（安全）法 2020",
   "en": "Small Motorised Vehicles (Safety) Act 2020",
   "orig": null
  },
@@ -548,5 +548,13 @@
     "en": "30. For a period of 2 years after the date of commencement of any provision of this Act, the Minister may, by regulations, prescribe such additional provisions of a saving or transitional nature consequent on the enactment of that provision as the Minister may consider necessary or expedient.\n[32"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Small Motorised Vehicles (Safety) Act 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H324",
  "title": {
-  "zh": null,
+  "zh": "地界与测量图（文件送达）规则 2015",
   "en": "Boundaries and Survey Maps (Service of Documents) Rules 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Unless otherwise expressly provided in the Act, any notice or other document that is required or authorised by the Act to be given to or served on a person may be given to or served on that person —\n(a)by posting the notice or document, or sending the notice or document by fax transmission, to that person’s last known place of residence or business in Singapore;\n(b)by leaving the notice or document at that person’s last known place of residence or business in Singapore; or\n(c)where that person has no known place of residence or business in Singapore, by publishing a copy of the notice or document in one or more local daily newspapers circulating in Singapore.\n(2) This rule does not apply to any notice or document to be served in proceedings in court."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Boundaries and Survey Maps (Service of Documents) Rules 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

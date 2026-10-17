@@ -1,7 +1,7 @@
 {
  "id": "PH-H3882",
  "title": {
-  "zh": null,
+  "zh": "将 Dr. Jose R. Reyes 纪念医院癌症检测与诊断中心扩及癌症治疗与研究并为其拨款的法案",
   "en": "An Act Extending the Scope of the Cancer Detection and Diagnostic Center of the Dr. Jose R. Reyes Memorial Hospital to Include also Cancer Treatment and Research, and Appropriating Funds Therefor",
   "orig": "An Act Extending the Scope of the Cancer Detection and Diagnostic Center of the Dr. Jose R. Reyes Memorial Hospital to Include also Cancer Treatment and Research, and Appropriating Funds Therefor"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Scope of the Cancer Detection and Diagnostic Center of the Dr. Jose R. Reyes Memorial Hospital to Include also Cancer Treatment and Research, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

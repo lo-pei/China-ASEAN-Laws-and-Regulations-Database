@@ -1,7 +1,7 @@
 {
  "id": "SG-H3269",
  "title": {
-  "zh": null,
+  "zh": "跨国企业（最低税）法 2024（第 1(3) 条下的宣告）命令 2024",
   "en": "Multinational Enterprise (Minimum Tax) Act 2024 (Declaration under Section 1(3)) Order 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The Act comes into operation on 1 January 2025.\n(2) The first financial year of an MNE group in relation to which the Act has effect is the first financial year of the MNE group that begins on or after 1 January 2025."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Multinational Enterprise (Minimum Tax) Act 2024 (Declaration under Section 1(3)) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

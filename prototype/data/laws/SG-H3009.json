@@ -1,7 +1,7 @@
 {
  "id": "SG-H3009",
  "title": {
-  "zh": null,
+  "zh": "法律职业（在新加坡国际商事法庭出庭）规则 2014",
   "en": "Legal Profession (Representation in Singapore International Commercial Court) Rules 2014",
   "orig": null
  },
@@ -836,5 +836,13 @@
     "en": "THIRD SCHEDULE\nRules 5(1), 6(1), 7(1), 8(1), 11(3), 12B(1), 12C(1) and 12F(3)\nFees\nFirst column\nSecond column\n1.Fee for application for full registration\n$300\n2.Fee for application for restricted registration\n$300\n3.Fee for application for renewal of full registration\n$300\n4.Fee for application for renewal of restricted registration\n$300\n4A.Fee for application for registration of law expert\n$300\n4B.Fee for application for renewal of registration of law expert\n$300\n5.Fee for issue of certified true copy of certificate of registration\n$8 per document plus $5 per page\n[S 696/2018 wef 01/11/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Representation in Singapore International Commercial Court) Rules 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

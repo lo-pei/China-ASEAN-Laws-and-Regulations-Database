@@ -1,7 +1,7 @@
 {
  "id": "PH-H10129",
  "title": {
-  "zh": null,
+  "zh": "给予政府雇员（包括政府拥有或控制的公司雇员）夜班差别工资并为其拨款的法案",
   "en": "An Act Granting Night Shift Differential Pay to Government Employees INcluding Those in Government-Owned or -Controlled Corporations and Appropriating Funds Therefor",
   "orig": "An Act Granting Night Shift Differential Pay to Government Employees INcluding Those in Government-Owned or -Controlled Corporations and Appropriating Funds Therefor"
  },
@@ -110,5 +110,13 @@
     "en": "Effectivity. - The Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Night Shift Differential Pay to Government Employees INcluding Those in Government-Owned or -Controlled Corporations and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

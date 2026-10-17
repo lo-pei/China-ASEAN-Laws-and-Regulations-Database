@@ -1,7 +1,7 @@
 {
  "id": "SG-H2431",
  "title": {
-  "zh": null,
+  "zh": "所得税（新加坡——新西兰）（避免双重征税协定）（补充）命令 1993",
   "en": "Income Tax (Singapore — New Zealand) (Avoidance of Double Taxation Agreement) (Supplementary) Order 1993",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nSecond Protocol to the Agreement Between the\nGovernment of the Republic of Singapore and the\nGovernment of New Zealand\nfor the Avoidance of Double Taxation and\nPrevention of Fiscal Evasion With\nRespect to Taxes on Income\nThe Government of the Republic of Singapore and the Government of New Zealand,\nHaving regard to the Agreement between the Government of the Republic of Singapore and the Government of New Zealand for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income done at Singapore on 21st August 1973 (hereinafter referred to as “the Agreement”),\nHave agreed that the following provisions shall form an integral part of the Agreement:\nArticle I\nNotwithstanding paragraph (3) of Article 19 of the Agreement, a New Zealand resident deriving income from Singapore, being income referred to in that paragraph, shall not be deemed to have paid Singapore tax in respect of such income where the competent authority of New Zealand considers, after consultation with the competent authority of Singapore, that it is inappropriate to do so having regard to:\n(a)whether any arrangements have been entered into by any person for the purpose of taking advantage of paragraph (3) of Article 19 for the benefit of that person or any other person;\n(b)whether any benefit accrues or may accrue to a person who is neither a New Zealand resident nor a Singapore resident;\n(c)the prevention of fraud or the avoidance of the taxes to which the Agreement applies;\n(d)any other matter which the competent authorities consider relevant in the particular circumstances of the case including any submissions from the New Zealand resident concerned.\nArticle II\nArticle I of this Second Protocol shall apply to income derived on or after 1st July 1993.\nArticle III\n(1) The Contracting States shall notify each other through diplomatic channels that the constitutional requirements for the entry into force of this Second Protocol have been complied with.\n(2) This Second Protocol shall enter into force on the date of the later of the notification referred to in paragraph 1 of this Article.\nDONE at Singapore in duplicate this 1st day of July 1993 in the English language.\nFOR THE GOVERNMENT OF THE\nREPUBLIC OF SINGAPORE\nFOR THE GOVERNMENT OF\nNEW ZEALAND\nKOH YONG GUAN\nCOLIN V. BELL"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Singapore — New Zealand) (Avoidance of Double Taxation Agreement) (Supplementary) Order 1993",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

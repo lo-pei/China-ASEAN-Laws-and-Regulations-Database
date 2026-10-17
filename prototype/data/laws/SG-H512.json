@@ -1,7 +1,7 @@
 {
  "id": "SG-H512",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（家庭保障保险计划——豁免）公告 1985",
   "en": "Central Provident Fund (Home Protection Insurance Scheme — Exemption) Notification 1985",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Any member who has purchased a house or flat from a Housing Authority and has withdrawn any moneys from the Fund under the Central Provident Fund (Residential Properties Scheme) Regulations 1982 for all or any of the purposes set out in section 21(1) of the Act is exempt from the Home Protection Insurance Scheme established under section 29 of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Home Protection Insurance Scheme — Exemption) Notification 1985",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6528",
  "title": {
-  "zh": null,
+  "zh": "规范兄弟会、姐妹会及其他团体的入会欺凌与其他入会仪式并规定处罚的法案",
   "en": "An Act Regulating Hazing and Other Forms of Initiation Rites in Fraternities, Sororities, and Other Organizations and Providing Penalties Therefor",
   "orig": "An Act Regulating Hazing and Other Forms of Initiation Rites in Fraternities, Sororities, and Other Organizations and Providing Penalties Therefor"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect fifteen (15) calendar days after its publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Regulating Hazing and Other Forms of Initiation Rites in Fraternities, Sororities, and Other Organizations and Providing Penalties Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

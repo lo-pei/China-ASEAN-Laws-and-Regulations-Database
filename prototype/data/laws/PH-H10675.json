@@ -1,7 +1,7 @@
 {
  "id": "PH-H10675",
  "title": {
-  "zh": null,
+  "zh": "通行权法",
   "en": "The Right-of-way Act",
   "orig": "An Act Instituting Reforms in the Acquisition of Right-of-way for Infrastructure Projects By the National Government and By Public Service Providers, Amending for the Purpose Republic Act No. 10752, Otherwise Known as \"The Right-of-way Act\""
  },
@@ -260,5 +260,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Right-of-way Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

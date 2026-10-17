@@ -1,7 +1,7 @@
 {
  "id": "PH-H254",
  "title": {
-  "zh": null,
+  "zh": "规定各市镇警察部队成员的薪俸等级表，并为此修订《修订行政法典》第2273条的法案",
   "en": "An act to provide a Scale of Salaries for members of the Police Force of Municipalities, amending for the purpose Section Twenty-Two Hundred and Seventy-Three of the Revised Administrative Code",
   "orig": "An act to provide a Scale of Salaries for members of the Police Force of Municipalities, amending for the purpose Section Twenty-Two Hundred and Seventy-Three of the Revised Administrative Code"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1947"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act to provide a Scale of Salaries for members of the Police Force of Municipalities, amending for the purpose Section Twenty-Two Hundred and Seventy-Three of the Revised Administrative Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

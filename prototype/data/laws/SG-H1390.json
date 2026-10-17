@@ -1,7 +1,7 @@
 {
  "id": "SG-H1390",
  "title": {
-  "zh": null,
+  "zh": "房地产经纪（上诉）规则 2010",
   "en": "Estate Agents (Appeals) Rules 2010",
   "orig": null
  },
@@ -326,5 +326,13 @@
     "en": "18.—(1) Subject to these Rules, any irregularity resulting from a failure to comply with any provision of these Rules or any order or direction of the Appeals Board committee before the Appeals Board committee has reached its decision shall not of itself render the proceedings void.\n(2) Where any such irregularity comes to the attention of the Appeals Board committee, it may give such directions or order as it thinks just to cure, waive, set aside or strike out any document or act or otherwise deal with the irregularity before reaching its decision if it considers that any person may have been affected or prejudiced by the irregularity and on such terms as it deems fit.\n(3) The following may be corrected at any time by the committee chairman by certificate under his hand:\n(a)clerical mistakes in any document recording any appeal proceedings, any decision, order or direction and any other document issued by the Appeals Board committee; or\n(b)errors arising in such a document from an accidental slip or omission."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Estate Agents (Appeals) Rules 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

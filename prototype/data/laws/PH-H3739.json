@@ -1,7 +1,7 @@
 {
  "id": "PH-H3739",
  "title": {
-  "zh": null,
+  "zh": "通过设立金属工业发展中心发展菲律宾金属工业、为此提供资金并为其他目的法案",
   "en": "An Act to Develop the Metals Industry of the Philippines by Establishing the Metals Industry Development Center, Providing Funds Therefor, and for Other Purposes",
   "orig": "An Act to Develop the Metals Industry of the Philippines by Establishing the Metals Industry Development Center, Providing Funds Therefor, and for Other Purposes"
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity.— This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Develop the Metals Industry of the Philippines by Establishing the Metals Industry Development Center, Providing Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1142",
  "title": {
-  "zh": null,
+  "zh": "存款保险（存款保险机构指定）公告",
   "en": "Deposit Insurance (Designation of Deposit Insurance Agency) Notification",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 12 of the Act, the Singapore Deposit Insurance Corporation Limited, a company incorporated in Singapore, shall be designated as the deposit insurance agency for the purposes of the Act.\n[G.N. No. S 60/2006]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Deposit Insurance (Designation of Deposit Insurance Agency) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

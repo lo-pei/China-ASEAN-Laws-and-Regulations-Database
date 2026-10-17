@@ -1,7 +1,7 @@
 {
  "id": "SG-H1926",
  "title": {
-  "zh": null,
+  "zh": "所得税（Ascott REIT (Europe) 私人有限公司依第 13（12）条享有的豁免）命令 2025",
   "en": "Income Tax (Ascott REIT (Europe) Pte. Ltd. — Section 13(12) Exemption) Order 2025",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to sub‑paragraph (3), interest income described in sub‑paragraph (2) received in Singapore by Ascott REIT (Europe) Pte. Ltd. (a company incorporated in Singapore) on or after 4 July 2025 from The Ascott (Europe) N.V. (a company incorporated in the Netherlands) and Ascott Holdings (France) SAS (a company incorporated in France), is exempt from tax.\n(2) Sub‑paragraph (1) applies to interest income originating from any rental and property‑related income (including capital gain derived from divestment of property) from the property named “La Clef Tour Eiffel Paris”, located at 83 avenue Kléber 75116 Paris, France.\n(3) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter from the Inland Revenue Authority of Singapore dated 4 July 2025 that is issued on behalf of the Minister for Finance and addressed to EY Corporate Advisors Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Ascott REIT (Europe) Pte. Ltd. — Section 13(12) Exemption) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

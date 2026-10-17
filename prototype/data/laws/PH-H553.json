@@ -1,7 +1,7 @@
 {
  "id": "PH-H553",
  "title": {
-  "zh": null,
+  "zh": "1950 年外国人登记法",
   "en": "Alien Registration Act of 1950",
   "orig": "Alien Registration Act of 1950"
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 17, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Alien Registration Act of 1950",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

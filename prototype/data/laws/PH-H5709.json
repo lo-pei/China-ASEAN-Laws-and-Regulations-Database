@@ -1,7 +1,7 @@
 {
  "id": "PH-H5709",
  "title": {
-  "zh": null,
+  "zh": "将马尼拉大区帕拉尼亚克市镇穆恩沃克描笼涯圣奥古斯丁村（原瓦瓦布基德小村）的Wawa小学更名为San Agustin小学的法案",
   "en": "An Act Changing the Name of the Wawa Elementary School in San Agustin Village (Formerly Sitio Wawa-bukid) in Barangay Moonwalk, Municipality of Parañaque, Metro Manila, to San Agustin Elementary School",
   "orig": "An Act Changing the Name of the Wawa Elementary School in San Agustin Village (Formerly Sitio Wawa-bukid) in Barangay Moonwalk, Municipality of Parañaque, Metro Manila, to San Agustin Elementary School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Wawa Elementary School in San Agustin Village (Formerly Sitio Wawa-bukid) in Barangay Moonwalk, Municipality of Parañaque, Metro Manila, to San Agustin Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

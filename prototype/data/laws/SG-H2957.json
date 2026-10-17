@@ -1,7 +1,7 @@
 {
  "id": "SG-H2957",
  "title": {
-  "zh": null,
+  "zh": "土地业权（分层）（指定土地）公告 2010",
   "en": "Land Titles (Strata) (Designated Lands) Notification 2010",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\n1. All that part of Potong Pasir housing estate comprised in Lot number 6521X in Mukim 17 and on which Apartment Blocks 110 to 112 are erected.\n2. All that part of Hougang North housing estate comprised in Lot number 7542X in Mukim 22 and on which Apartment Blocks 344 to 350 are erected.\n3. All that part of Hougang North housing estate comprised in Lot number 7208K in Mukim 22 and on which Apartment Blocks 713 to 720 are erected."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Land Titles (Strata) (Designated Lands) Notification 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H990",
  "title": {
-  "zh": null,
+  "zh": "授权拨款16916683比索，依第842号共和国法规定为公立学校局公立学校官员、教师及其他学校人员及Welfareville教师的薪金调整与自动加薪",
   "en": "An Act Authorizing the Appropriation of the Sum of Sixteen Million Nine Hundred Sixteen Thousand Six Hundred Eighty-Three Pesos for Salary Adjustments and Automatic Salary Increases of Public School Officials, Teachers and Other School Personnel of the Bureau of Public Schools and Welfareville Teachers in Accordance with the Provisions of Republic Act Numbered Eight Hundred Forty-Two",
   "orig": "An Act Authorizing the Appropriation of the Sum of Sixteen Million Nine Hundred Sixteen Thousand Six Hundred Eighty-Three Pesos for Salary Adjustments and Automatic Salary Increases of Public School Officials, Teachers and Other School Personnel of the Bureau of Public Schools and Welfareville Teachers in Accordance with the Provisions of Republic Act Numbered Eight Hundred Forty-Two"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect on July first, nineteen hundred and fifty-four.\nApproved: June 17, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of the Sum of Sixteen Million Nine Hundred Sixteen Thousand Six Hundred Eighty-Three Pesos for Salary Adjustments and Automatic Salary Increases of Public School Officials, Teachers and Other School Personnel of the Bureau of Public Schools and Welfareville Teachers in Accordance with the Provisions of Republic Act Numbered Eight Hundred Forty-Two",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

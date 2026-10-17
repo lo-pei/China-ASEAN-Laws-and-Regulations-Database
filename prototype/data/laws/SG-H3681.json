@@ -1,7 +1,7 @@
 {
  "id": "SG-H3681",
  "title": {
-  "zh": null,
+  "zh": "统计法 1973",
   "en": "Statistics Act 1973",
   "orig": null
  },
@@ -237,5 +237,13 @@
     "en": "THIRD SCHEDULE\nSections 7(2) and 13\nSpecified class\n1. Any consultant commissioned by a public agency.\n2.—(1) Any person, being an employee of a specified university or a person assisting such an employee, to whom disclosure of anonymised microdata from particulars or information obtained under section 5 or 6 for the purposes of research is supported by the specified university.\n(2) In sub-paragraph (1), “specified university” means any university established in Singapore in respect of which statutory provision has been made in relation (among other things) to the operation of the university.\n[S 280/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Statistics Act 1973",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

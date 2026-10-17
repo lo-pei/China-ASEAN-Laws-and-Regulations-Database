@@ -1,7 +1,7 @@
 {
  "id": "PH-H233",
  "title": {
-  "zh": null,
+  "zh": "规定每年7月4日禁止斗鸡、赛马与回力球比赛的法案",
   "en": "An act to Prohibit Cockfighting, Horse Racing and Jai-Alai Games on the Fourth of July of Each Year",
   "orig": "An act to Prohibit Cockfighting, Horse Racing and Jai-Alai Games on the Fourth of July of Each Year"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act to Prohibit Cockfighting, Horse Racing and Jai-Alai Games on the Fourth of July of Each Year",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

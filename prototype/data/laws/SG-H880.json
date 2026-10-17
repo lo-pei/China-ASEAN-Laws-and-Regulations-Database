@@ -1,7 +1,7 @@
 {
  "id": "SG-H880",
  "title": {
-  "zh": null,
+  "zh": "COVID-19（婚礼主持与婚姻登记的临时措施）（指明期间）命令 2023",
   "en": "COVID-19 (Temporary Measures for Solemnization and Registration of Marriages) (Specified Period) Order 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of paragraph (b) of the definition of “specified period” in section 2(6) of the Act, the further period of 1 April 2023 to 30 September 2023 (both dates inclusive) is prescribed."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "COVID-19 (Temporary Measures for Solemnization and Registration of Marriages) (Specified Period) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

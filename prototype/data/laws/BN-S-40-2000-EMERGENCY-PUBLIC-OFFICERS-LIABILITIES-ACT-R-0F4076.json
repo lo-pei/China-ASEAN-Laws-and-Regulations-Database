@@ -1,0 +1,72 @@
+{
+ "id": "BN-S-40-2000-EMERGENCY-PUBLIC-OFFICERS-LIABILITIES-ACT-R-0F4076",
+ "title": {
+  "zh": "紧急公职人员责任法（废止）命令 2000 第 2 条",
+  "en": "MERGENCY PUBLIC OFFICERS LIABILITIES ACT REPEAL ORDER 2000 SEC. 2",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p29",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 409,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-40-2000-EMERGENCY-PUBLIC-OFFICERS-LIABILITIES-ACT-REPEAL-ORDER-2000-SEC.-2.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-40-2000-EMERGENCY-PUBLIC-OFFICERS-LIABILITIES-ACT-REPEAL-ORDER-2000-SEC.-2.pdf》（1 页），本次切分 2 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-40-2000-EMERGENCY-PUBLIC-OFFICERS-LIABILITIES-ACT-R-0F4076-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Order may be cited as the Emergency (Public Offi.cers (Liabilities) Act (Repeal)) Order. 2000. Repeal of Chapter 80."
+   }
+  },
+  {
+   "id": "BN-S-40-2000-EMERGENCY-PUBLIC-OFFICERS-LIABILITIES-ACT-R-0F4076-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Public Offi.cers (Liabilities) Act (Chapter 80) is hereby repealed. Made this 20th. day of Safar, 1421 Hijriah corresponding to the 24th. day of May, 2000 at Our Istana Nurul Iman. Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MERGENCY PUBLIC OFFICERS LIABILITIES ACT REPEAL ORDER 2000 SEC. 2",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

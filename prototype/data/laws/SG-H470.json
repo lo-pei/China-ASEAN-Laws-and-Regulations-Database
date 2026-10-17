@@ -1,7 +1,7 @@
 {
  "id": "SG-H470",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（规定赌场筹码）条例 2026",
   "en": "Casino Control (Prescribed Casino Chips) Regulations 2026",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. For the purposes of paragraph (b) of the definition of “casino chip” in section 2(1) of the Act, electronic credits are prescribed as casino chips."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Casino Control (Prescribed Casino Chips) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

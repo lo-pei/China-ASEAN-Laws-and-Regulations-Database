@@ -1,7 +1,7 @@
 {
  "id": "PH-H6819",
  "title": {
-  "zh": null,
+  "zh": "规定医院与诊所在急诊或重症情形下拒绝给予适当初步医疗救治与支持应受处罚，为此修订第702号国民议会法（即《禁止在某些情形下要求住院治疗患者缴纳押金或预付款的法案》）",
   "en": "An Act Penalizing the Refusal of Hospitals and Medical Clinics to Administer Appropriate Initial Medical Treatment and Support in Emergency or Serious Cases, Amending for the Purpose Batas Pambansa Bilang 702, Otherwise Known as \"An Act Prohibiting the Demand of Deposits or Advance Payments for the Confinement or Treatment of Patients in Hospitals and Medical Clinics in Certain Cases\"",
   "orig": "An Act Penalizing the Refusal of Hospitals and Medical Clinics to Administer Appropriate Initial Medical Treatment and Support in Emergency or Serious Cases, Amending for the Purpose Batas Pambansa Bilang 702, Otherwise Known as \"An Act Prohibiting the Demand of Deposits or Advance Payments for the Confinement or Treatment of Patients in Hospitals and Medical Clinics in Certain Cases\""
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Penalizing the Refusal of Hospitals and Medical Clinics to Administer Appropriate Initial Medical Treatment and Support in Emergency or Serious Cases, Amending for the Purpose Batas Pambansa Bilang 702, Otherwise Known as \"An Act Prohibiting the Demand of Deposits or Advance Payments for the Confinement or Treatment of Patients in Hospitals and Medical Clinics in Certain Cases\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

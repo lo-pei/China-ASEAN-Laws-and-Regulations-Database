@@ -1,7 +1,7 @@
 {
  "id": "SG-H107",
  "title": {
-  "zh": null,
+  "zh": "活跃通勤（骑行者与驾驶员保险——豁免）命令 2020",
   "en": "Active Mobility (Rider and Driver Insurance — Exemption) Order 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. A licensee or class licensee under the Shared Mobility Enterprises (Control and Licensing) Act 2020 (Act 8 of 2020) who makes available any bicycle for hire by any individual to ride wholly or partly on any public path is exempt from section 58A(1) of the Act with respect to the riding of the bicycle by such an individual."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Rider and Driver Insurance — Exemption) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

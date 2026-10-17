@@ -1,7 +1,7 @@
 {
  "id": "SG-H2621",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（罪行构成）条例 2018",
   "en": "Infrastructure Protection (Composition of Offences) Regulations 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the Commissioner in accordance with section 74(1) of the Act:\n(a)an offence under section 39(4) or 46(4) of the Act;\n(b)an offence under regulation 2(8), 3(3) or 4(3) of the Infrastructure Protection (Special Developments and Special Infrastructures) Regulations 2018 (G.N. No. S 816/2018)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Composition of Offences) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

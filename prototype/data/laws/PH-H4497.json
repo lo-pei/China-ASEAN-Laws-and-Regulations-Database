@@ -1,7 +1,7 @@
 {
  "id": "PH-H4497",
  "title": {
-  "zh": null,
+  "zh": "修订第623号共和国法若干条，将压缩气体容器纳入该法适用范围的法案",
   "en": "An Act Amending Certain Sections of Republic Act Numbered Six Hundred Twenty-Three as to Include the Containers of Compressed Gases Within the Purview of the Said Act.",
   "orig": "An Act Amending Certain Sections of Republic Act Numbered Six Hundred Twenty-Three as to Include the Containers of Compressed Gases Within the Purview of the Said Act."
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Sections of Republic Act Numbered Six Hundred Twenty-Three as to Include the Containers of Compressed Gases Within the Purview of the Said Act.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

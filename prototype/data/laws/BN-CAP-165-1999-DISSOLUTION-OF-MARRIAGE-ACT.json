@@ -1,0 +1,124 @@
+{
+ "id": "BN-CAP-165-1999-DISSOLUTION-OF-MARRIAGE-ACT",
+ "title": {
+  "zh": "婚姻解除法",
+  "en": "DISSOLUTION OF MARRIAGE ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p20",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 6,
+ "chars": 1599,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-165-1999-ED-DISSOLUTION-OF-MARRIAGE-ACT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-165-1999-ED-DISSOLUTION-OF-MARRIAGE-ACT.pdf》（3 页），本次切分 6 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-165-1999-DISSOLUTION-OF-MARRIAGE-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Dissolution of Marriage Act."
+   }
+  },
+  {
+   "id": "BN-CAP-165-1999-DISSOLUTION-OF-MARRIAGE-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "of High Courts"
+   },
+   "text": {
+    "en": "The High Court shall notwithstanding the provisions of of High but subject to the provisions of this Act, have the same powers as those vested in the Family Division of the High Court in England on 1st January, 1992, in relation to the matters specified in section 3 of this Act."
+   }
+  },
+  {
+   "id": "BN-CAP-165-1999-DISSOLUTION-OF-MARRIAGE-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "Matters within jurisdiction"
+   },
+   "text": {
+    "en": "The High Court shall have the jurisdiction set out in of this Act in relation to the following matters -\n\n(a) and nullity of marriage ;\n\n(b) judicial separation;\n\n(c) declarations and presumptions of death;\n\n(d) property and financial relief ;\n\n(e) custody of children;\n\n(f) all such other matters as are ancillary or to any jurisdiction conferred by this of this Act."
+   }
+  },
+  {
+   "id": "BN-CAP-165-1999-DISSOLUTION-OF-MARRIAGE-ACT-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "Application of this Act"
+   },
+   "text": {
+    "en": "This Act shall apply only to marriages which are - of this Act\n\n(a) monogamous in nature; of Marriage 3\n\n(b) celebrated either in a church or in a civil marriage office, howsoever described;\n\n(c) between parties, neither of whom, at the date of the petition, is of the Muslim faith."
+   }
+  },
+  {
+   "id": "BN-CAP-165-1999-DISSOLUTION-OF-MARRIAGE-ACT-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "heading": {
+    "en": "or residence"
+   },
+   "text": {
+    "en": "Court shall have jurisdiction under this Act if, at the date of the petition, either party to the marriage-or residence\n\n(a) had a substantial connection with Brunei or\n\n(b) had been ordinarily resident within Brunei at least twelve months immediately preceding the date of the petitiol)."
+   }
+  },
+  {
+   "id": "BN-CAP-165-1999-DISSOLUTION-OF-MARRIAGE-ACT-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "For the avoidance of doubt, the provisions of section 2 Application of the Application of Laws Act, in so far as it provides that of Cap. 2 of general application in force in England on 25th 1951 shall be in force in Brunei Darussalam, shall not apply so as to restrict the jurisdiction conferred by this Act. B.L.R.O.ll 1999"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DISSOLUTION OF MARRIAGE ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

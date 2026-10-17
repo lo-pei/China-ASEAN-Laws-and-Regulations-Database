@@ -1,7 +1,7 @@
 {
  "id": "SG-H774",
  "title": {
-  "zh": null,
+  "zh": "公司（文件提交）条例",
   "en": "Companies (Filing of Documents) Regulations",
   "orig": null
  },
@@ -770,5 +770,11 @@
     "en": "THE SCHEDULE\nPart I\nCompanies Act 1967\nRegulation 19\nCOMPANIES (FILING OF DOCUMENTS)\nREGULATIONS\nNOTICE OF INCORPORATION UNDER SECTION 19 (4)\nThis is to confirm that <name of company> is incorporated under section 19(4) of the Companies Act 1967 on <date of incorporation> and that the company is <company type*>.\n* a private company limited by shares\n* a public company limited by shares\n* a public company limited by guarantee\n* an unlimited company.\n[S 297/2025 wef 31/12/2021]\nPart II\nCompanies Act 1967\nRegulation 20\nCOMPANIES (FILING OF DOCUMENTS)\nREGULATIONS\nNOTICE OF COMMENCEMENT OF BUSINESS\nUNDER SECTION 61(3)\nThis is to confirm that the declaration required under section 61(3) of the Companies Act 1967 has been lodged and that the company is entitled to commence business and to exercise its borrowing powers.\n[S 297/2025 wef 31/12/2021]\nPart III\nCompanies Act 1967\nRegulation 24\nCOMPANIES (FILING OF DOCUMENTS)\nREGULATIONS\nNOTICE OF REGISTRATION OF FOREIGN COMPANY\nUNDER SECTION 371(1)\nThis is to confirm that a foreign company called <name of company> which was formed or incorporated in <place of incorporation> has been registered in Singapore under section 371(1) of the Companies Act 1967 on <registration date>.\n[S 297/2025 wef 31/12/2021]\nPart IV\n[Deleted by S 603/2007 wef 05/11/2007]\nPart V\n[Deleted by S 603/2007 wef 05/11/2007]\nPart VI\n[Deleted by S 603/2007 wef 05/11/2007]\n[G.N. Nos. S 17/2003; S 235/2003; S 292/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Companies (Filing of Documents) Regulations",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

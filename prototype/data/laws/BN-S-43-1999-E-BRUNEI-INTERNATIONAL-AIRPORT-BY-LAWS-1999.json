@@ -1,7 +1,7 @@
 {
  "id": "BN-S-43-1999-E-BRUNEI-INTERNATIONAL-AIRPORT-BY-LAWS-1999",
  "title": {
-  "zh": null,
+  "zh": "文莱国际机场附例 1999",
   "en": "BRUNEI INTERNATIONAL AIRPORT BY LAWS 1999",
   "orig": null
  },
@@ -701,5 +701,13 @@
     "en": "The Director may cause or permit traffic signs to be placed or erected Traffic signs. in the movement area, any road or at any place in an aerodrome. Parking place. 71. The Director may designate any part of the Airport as a parking place for vehicles any may impose such conditions and charges as he considers fit. No person who parks a vehicle at the parking place shall hold the Director responsible for any loss or damage caused to the vehicle or its contents, whilst parked in that parking place. Vehicle causing 72. No person shall park a vehicle or cause or permit a vehicle to remain obstruction, etc. at rest at any place in the Airport in any position or in any condition or any circumstances as to be likely to cause danger, obstruction or undue inconvenience to other users of the Airport or to traffic within the Airport. Duty to obey 73. Every person on the premises of the Airport shall obey the lawful lawful directions given by an authorised officer. directions. No smoking. 74. No person shall smoke or bring a naked light into or light any naked light in any place of the Airport where any such act is prohibited by notice. Transmission of 75. No person shall operate or use any radio transmitter or other device radio or capable of radiating electrical interference, in such a way as to prejudice, electrical or be likely to prejudice, the operation of any communications or signals. navigation systems at the Airport. Forbidden 76. No person shall allow any vehicle, animal or thing to be on the vehicle animal, Airport or any part thereof after its presence on the Airport has been etc. forbidden by an authorised officer or a police officer. Interference 77. No person shall intentionally obstruct or interfere with the proper of airport use of the Airport or with any person acting in the execution of his duty OI)Cration. in relation to the operation of the Airport, including the conveyance of passengers, their baggage and other goods, and the maintenance and servicing of the Airport or vehicles or aircraft on it. Made this 7th. day of Jamadilawal, 1420 Hijriah corresponding to the 19th. day of August, 1999. AWANG HAJI K.ASIM BIN HAJI LATIP Director of Civil Aviation, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI INTERNATIONAL AIRPORT BY LAWS 1999",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

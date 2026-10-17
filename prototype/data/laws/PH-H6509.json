@@ -1,7 +1,7 @@
 {
  "id": "PH-H6509",
  "title": {
-  "zh": null,
+  "zh": "大幅变更边界和/或将新怡诗夏省Bongabon市镇Popolon描笼涯的属地管辖移转给Palayan市，并对该描笼涯行使行政控制与监督及为其他目的法案",
   "en": "An Act Altering Substantially the Boundaries And/Or Transferring the Territorial Jurisdiction of Barangay Popolon From the Municipality of Bongabon to the City of Palayan, Province of Nueva Ecija, Exercising Administrative Control and Supervision Over the Said Barangay and for Other Purposes",
   "orig": "An Act Altering Substantially the Boundaries And/Or Transferring the Territorial Jurisdiction of Barangay Popolon From the Municipality of Bongabon to the City of Palayan, Province of Nueva Ecija, Exercising Administrative Control and Supervision Over the Said Barangay and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Altering Substantially the Boundaries And/Or Transferring the Territorial Jurisdiction of Barangay Popolon From the Municipality of Bongabon to the City of Palayan, Province of Nueva Ecija, Exercising Administrative Control and Supervision Over the Said Barangay and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

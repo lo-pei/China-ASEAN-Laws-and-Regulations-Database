@@ -1,7 +1,7 @@
 {
  "id": "SG-H328",
  "title": {
-  "zh": null,
+  "zh": "布雷顿森林协定法 1966",
   "en": "Bretton Woods Agreements Act 1966",
   "orig": null
  },
@@ -227,5 +227,13 @@
     "en": "SECOND SCHEDULE\nSections 7 and 9\nTerms and conditions upon which Singapore is admitted to membership of the International Bank for Reconstruction and Development\nResolution adopted by the Board of Governors of the International Bank for Reconstruction and Development on February 21 1966\nWhereas the Government of Singapore has applied for admission to membership in the International Bank for Reconstruction and Development in accordance with section 1(b) of Article II of the Articles of Agreement of the Bank:\nAnd Whereas, pursuant to section 20 of the By-laws of the Bank, the Executive Directors, after consultation with representatives of the Government of Singapore, have made recommendations to the Board of Governors regarding this application:\nNow, Therefore, the Board of Governors hereby RESOLVES:\nThat the terms and conditions upon which Singapore shall be admitted to membership in the Bank shall be as follows:\n1. Definitions: As used in this Resolution —\n(a)“Bank” means International Bank for Reconstruction and Development;\n(b)“Articles” means the Articles of Agreement of the Bank;\n(c)“dollars” or “$” means United States dollars of the weight and fineness in effect on July 1 1944;\n(d)“subscription” means the capital stock of the Bank subscribed to by a member;\n(e)“member” means member of the Bank.\n2. Subscription: By accepting membership in the Bank, Singapore shall subscribe to 320 shares of the capital stock of the Bank at the par value of $100,000 per share.\n3. Membership in the Fund: Before accepting membership in the Bank, Singapore shall accept membership in and become a member of the International Monetary Fund.\n4. Payment of Subscription:\n(a)Before accepting membership in the Bank, Singapore shall pay to the Bank on account of the subscription price of one-half of such shares —\n(i)gold or United States dollars equal to 2% thereof; and\n(ii)an amount in its own currency which at the appropriate prevailing exchange rate, shall be equal to 18% thereof.\n(b)With respect to the subscription price of the other one-half of such shares, the 2% portion payable in gold or United States dollars and the 18% portion payable in the currency of the member shall be left uncalled, as set out in Resolution No. 129, on the same basis as the 2% and 18% portions of subscriptions made pursuant to Resolution No. 128 of the Board of Governors.\n5. Representation and Information: Before accepting membership in the Bank, Singapore shall represent to the Bank that it has taken all action necessary to sign and deposit the instrument of acceptance and sign the Article as contemplated by paragraph 6(d) and (e) of this Resolution, and Singapore shall furnish to the Bank such information in respect of such action as the Bank may request.\n6. Acceptance of Membership: Singapore shall become a member of the Bank with a subscription as set out in paragraph 2 of this Resolution as of the date when Singapore shall have complied with the following requirements:\n(a)become a member of the International Monetary Fund;\n(b)made the payments called for by paragraph 4 of this Resolution;\n(c)furnished the representation, and such information as may have been requested, pursuant to paragraph 5 of this Resolution;\n(d)deposited with the Government of the United States of America an instrument stating that it has accepted in accordance with its law the Articles and all the terms and conditions prescribed in this Resolution, and that it has taken all steps necessary to enable it to carry out all its obligations under the Articles and this Resolution;\n(e)signed the original copy of the Articles held in the Archives of the Government of the United States of America.\n7. Limitation on Period for Acceptance of Membership: Singapore may accept membership in the Bank pursuant to this Resolution until September 21 1966 or by such later date as the Executive Directors may determine."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Bretton Woods Agreements Act 1966",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

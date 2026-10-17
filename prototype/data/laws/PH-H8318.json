@@ -1,7 +1,7 @@
 {
  "id": "PH-H8318",
  "title": {
-  "zh": null,
+  "zh": "将 Sorsogon 省 Gubat 市镇的 Bicol 大学延伸校区并入 Albay 省 Legaspi 市 Bicol 大学作为其正规分校，界定其目标并为此拨款的法案",
   "en": "An Act Integrating the Bicol University - Gubat Extension Campus in the Municipality of Gubat, Province of Sorsogon as a Regular Branch of the Bicol University in Legaspi City, Province of Albay, Defining its Objectives, and Appropriating Funds Therefor",
   "orig": "An Act Integrating the Bicol University - Gubat Extension Campus in the Municipality of Gubat, Province of Sorsogon as a Regular Branch of the Bicol University in Legaspi City, Province of Albay, Defining its Objectives, and Appropriating Funds Therefor"
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Integrating the Bicol University - Gubat Extension Campus in the Municipality of Gubat, Province of Sorsogon as a Regular Branch of the Bicol University in Legaspi City, Province of Albay, Defining its Objectives, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3021",
  "title": {
-  "zh": null,
+  "zh": "终身学习捐赠基金法 2001",
   "en": "Lifelong Learning Endowment Fund Act 2001",
   "orig": null
  },
@@ -320,5 +320,13 @@
     "en": "THE SCHEDULE\nSection 6(3)\nAdvisory Council\n1.—(1) Subject to this paragraph, every member of the Council must hold and vacate his or her office in accordance with the terms of his or her appointment and is, on ceasing to be a member, eligible for re‑appointment.\n(2) Any member of the Council may resign his or her office at any time by giving written notice to the Minister.\n(3) If the Minister is satisfied that a member of the Council —\n(a)is guilty of neglect of duty or misconduct;\n(b)has become bankrupt or made an arrangement with his or her creditors;\n(c)is incapacitated by physical or mental illness; or\n(d)is otherwise unable or unfit to discharge the functions of a member,\nthe Minister may remove the member from office.\n2. The validity of any proceedings of the Council is not affected by any vacancy among the members or by any defect in the appointment of any member.\n3. At any meeting of the Council, one-half of the number of members constitutes a quorum.\n4. The arrangements relating to meetings of the Council must be determined by the Council.\n5. The chairperson presides at all meetings of the Council at which the chairperson is present and, in the chairperson’s absence, the members present must elect one of their number to act as chairperson of that meeting.\n6. All questions arising at any meeting of the Council must be decided by a majority of votes of the members present and, in the case of an equality of votes, the chairperson or member presiding has a casting vote.\n7. Subject to the provisions of this Act, the Council may regulate its own procedure in such manner as it thinks fit."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Lifelong Learning Endowment Fund Act 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9130",
  "title": {
-  "zh": null,
+  "zh": "在菲律宾青年中促进创业与金融教育的法案",
   "en": "An Act Promoting Entrepreneurship and Financial Education Among Filipino Youth",
   "orig": "An Act Promoting Entrepreneurship and Financial Education Among Filipino Youth"
  },
@@ -180,5 +180,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Promoting Entrepreneurship and Financial Education Among Filipino Youth",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

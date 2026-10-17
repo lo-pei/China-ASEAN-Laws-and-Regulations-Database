@@ -1,7 +1,7 @@
 {
  "id": "PH-H7371",
  "title": {
-  "zh": null,
+  "zh": "将南阿古桑省 Prosperidad 市镇 Sta. Irene 描笼涯的南阿古桑 国立中学的 Sta. Irene 分校分离，改设为独立的同名国立中学，并为此拨款",
   "en": "An Act Separating the Agusan Del Sur National High School - Sta. Irene Extension in Barangay Sta. Irene, Municipality of Prosperidad, Province of Agusan Del Sur, From the Agusan Del Sur National High School Located in San Francisco, Agusan Del Sur, and Converting It Into An Independent National High School to Be Known as the Sta. Irene National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Agusan Del Sur National High School - Sta. Irene Extension in Barangay Sta. Irene, Municipality of Prosperidad, Province of Agusan Del Sur, From the Agusan Del Sur National High School Located in San Francisco, Agusan Del Sur, and Converting It Into An Independent National High School to Be Known as the Sta. Irene National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Agusan Del Sur National High School - Sta. Irene Extension in Barangay Sta. Irene, Municipality of Prosperidad, Province of Agusan Del Sur, From the Agusan Del Sur National High School Located in San Francisco, Agusan Del Sur, and Converting It Into An Independent National High School to Be Known as the Sta. Irene National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

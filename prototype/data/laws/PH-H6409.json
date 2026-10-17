@@ -1,7 +1,7 @@
 {
  "id": "PH-H6409",
  "title": {
-  "zh": null,
+  "zh": "将朗布隆省 San Agustin 市镇的学院附属校从朗布隆渔业与林业学院分离，改设为名为朗布隆科学与渔业技术学院的独立学院并拨款的法案",
   "en": "An Act Separating the Romblon College of Fisheries and Forestry - San Agustin Annex in the Municipality of San Agustin, Province of Romblon, From the Romblon College of Fisheries and Forestry in the Municipality of San Andres, Romblon, and Converting the Same Into An Independent College of Science and Fisheries Technology to Be Known as the Romblon College of Science and Fisheries Technology, and Appropriati Ng Funds Therefor",
   "orig": "An Act Separating the Romblon College of Fisheries and Forestry - San Agustin Annex in the Municipality of San Agustin, Province of Romblon, From the Romblon College of Fisheries and Forestry in the Municipality of San Andres, Romblon, and Converting the Same Into An Independent College of Science and Fisheries Technology to Be Known as the Romblon College of Science and Fisheries Technology, and Appropriati Ng Funds Therefor"
  },
@@ -121,5 +121,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Romblon College of Fisheries and Forestry - San Agustin Annex in the Municipality of San Agustin, Province of Romblon, From the Romblon College of Fisheries and Forestry in the Municipality of San Andres, Romblon, and Converting the Same Into An Independent College of Science and Fisheries Technology to Be Known as the Romblon College of Science and Fisheries Technology, and Appropriati Ng Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

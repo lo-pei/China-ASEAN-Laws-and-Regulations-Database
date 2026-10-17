@@ -1,7 +1,7 @@
 {
  "id": "SG-H2822",
  "title": {
-  "zh": null,
+  "zh": "保险（劳合社计划）（撤销）条例 2022",
   "en": "Insurance (Lloyd’s Scheme) (Revocation) Regulations 2022",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Despite regulation 2, the following provisions apply in respect of all the relevant deposits that were made and maintained by Lloyd’s with the Authority before 1 October 2022:\n(a)all income accruing in respect of the relevant deposits are payable to Lloyd’s;\n(b)the Authority must retain the relevant deposits for the purpose of meeting any claim that may be made against any member of Lloyd’s in respect of the insurance business carried on in Singapore by the members under the revoked Regulations (called in this regulation a relevant claim);\n(c)the Authority may apply the relevant deposits to meet any relevant claim;\n(d)if the Authority is satisfied that any part of the relevant deposits need not be retained for the purpose of meeting any relevant claim — return to Lloyd’s that part of the relevant deposits.\n(2) In this regulation —\n“Lloyd’s” means the society of underwriters known in the United Kingdom as Lloyd’s and incorporated by the Lloyd’s Act 1871 of the United Kingdom;\n“relevant deposits” means the deposits required to be made and maintained by Lloyd’s under regulation 3(1)(b) and (c) of the revoked Regulations;\n“revoked Regulations” means the Insurance (Lloyd’s Scheme) Regulations as in force immediately before 1 October 2022."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insurance (Lloyd’s Scheme) (Revocation) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

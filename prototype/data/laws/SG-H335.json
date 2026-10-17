@@ -1,7 +1,7 @@
 {
  "id": "SG-H335",
  "title": {
-  "zh": null,
+  "zh": "广播（豁免）（第 3 号）命令",
   "en": "Broadcasting (Exemption) (No. 3) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister hereby exempts from section 43 of the Act any person who receives funds from loans, bank guarantees, letters of credit or other credit facilities granted to or in favour of it, by banks or other financial institutions licensed by the Monetary Authority of Singapore, provided that such funds are intended for bona fide commercial purposes.\n[G.N. No. S 378/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Broadcasting (Exemption) (No. 3) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

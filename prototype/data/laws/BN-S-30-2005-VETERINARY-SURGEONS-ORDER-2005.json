@@ -1,7 +1,7 @@
 {
  "id": "BN-S-30-2005-VETERINARY-SURGEONS-ORDER-2005",
  "title": {
-  "zh": null,
+  "zh": "兽医外科医师命令 2005",
   "en": "VETERINARY SURGEONS ORDER 2005",
   "orig": null
  },
@@ -609,5 +609,13 @@
     "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations which are necessary or expedient for giving effect to and carrying out the provisions of this Order, including the prescription of fees any other thing required to be prescribed under this Order, and for the due administration thereof.\n\n(2) In particular and without prejudice to the generality of the foregoing powers, such regulations may prescribe - fa) the duties of the Registrar;\n\n(b) the form of the register and the mode in which it shall be kept;\n\n(c) the fees to be paid in respect of applications and proceedings under and provision for such exemptions therefrom as the Council may consider appropriate;\n\n(d) the form and manner in which certificates shall be issued;\n\n(e) the form of any certificate or any other document required for out the purposes of this Order;\n\n(f) the manner of proof of qualifications in veterinary medicine;\n\n(g) the audits of its accounts;\n\n(h) the duties to be performed by the secretary; (i} the issue of veterinary certificates of illness or soundness;\n\n(j) the receipt of complaints or information regarding any disciplinary be inquired into by the Council and to determine whether or not there shall be an inquiry by the Council; and\n\n(k) the procedure to be followed in relation to -\n\n(i) the submissions of complaints or information to the Council;\n\n(ii) the investigation by the Council of cases arising out of complaints or information;\n\n(iii) the formulation of charges arising out of complaints or\n\n(iv) disciplinary inquiries held by the Council. SCHEDULE 16)\n\nAND QUALIFICATIONS University of Melbourne Bachelor of Veterinary Science University of Queensland Bachelor of Veterinary Science University of Sydney Bachelor of Veterinary Science Ontario Veterinary College, Doctor of Veterinary Medicine University of Guelph Western College of Veterinary University of Saskatchewan Doctor of Veterinary Medicine Institut Pertanian, Bogor Universiti Pertanian Malaysia Doctor of Veterinary Medicine Putra Malaysia Doctor of Veterinary Medicine New Zealand Massey University Bachelor of Veterinary Science United Kingdom University of Bristol Bachelor of Veterinary Science University of Cambridge Bachelor of Veterinary Medicine University of Edinburgh Bachelor of Veterinary Medicine and Surgery University of Glasgow Bachelor of Veterinary Medicine and Surgery University of Liverpool Bachelor of Veterinary Science University of London Bachelor of Veterinary Medicine SCHEDULE 16) Any other institution granting a qualification of Bachelor of Veterinary Science or of Veterinary Medicine or any other veterinary qualification which is the Government as entitling the holder to be a veterinary surgeon. SCHEDULE 17(3L 24(2), 25(2), 25(3) and 28(2)) FEES Registration fee $50 per year or part thereof $50 per year or part thereof Annual Practising Certificate $30 per year or part thereof Additional fee for Annual Practising $30 Certified copy of Annual Practising $10 Made this lOth. day of Rabiulawal, 1426 Hijriah corresponding to the 19th. day of April, 2005 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei THE SULTAN AND YANG DI~PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "VETERINARY SURGEONS ORDER 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

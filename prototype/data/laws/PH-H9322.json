@@ -1,7 +1,7 @@
 {
  "id": "PH-H9322",
  "title": {
-  "zh": null,
+  "zh": "将Apayao省Calanasan市镇Tanglagan描笼涯的Pio Da Lim纪念工艺学校附属校分离出来，单独改设为独立的Tanglagan国立技术职业中学，并为此拨付经费",
   "en": "An Act Separating the Pio Da Lim Memorial School of Arts and Trades - Tanglagan Annex in Barangay Tanglagan, Municipality of Calanasan, Province of Apayao from the Pio Da Lim Memorial School of Arts and Trades into an Independent National Technical-Vocational High School to be Known asTanglagan National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Pio Da Lim Memorial School of Arts and Trades - Tanglagan Annex in Barangay Tanglagan, Municipality of Calanasan, Province of Apayao from the Pio Da Lim Memorial School of Arts and Trades into an Independent National Technical-Vocational High School to be Known asTanglagan National High School and Appropriating Funds Therefor"
  },
@@ -92,5 +92,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Pio Da Lim Memorial School of Arts and Trades - Tanglagan Annex in Barangay Tanglagan, Municipality of Calanasan, Province of Apayao from the Pio Da Lim Memorial School of Arts and Trades into an Independent National Technical-Vocational High School to be Known asTanglagan National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

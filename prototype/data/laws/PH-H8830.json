@@ -1,7 +1,7 @@
 {
  "id": "PH-H8830",
  "title": {
-  "zh": null,
+  "zh": "承认互惠原则为给予国际承运人所得税豁免的基础，通过修订《国家国内税收法典》第 28、109、118 与 236 条理顺对其征收的其他税种，并为其他目的法案",
   "en": "An Act Recognizing the Principle of Reciprocity as Basis for the Grant of Income Tax Exemptions to International Carriers and Rationalizing other Taxes Imposed thereon by Amending Sections 28(A)(3)(A), 109, 118 and 236 of the National Internal Revenue Code (NIRC), as Amended, and for Other Purposes",
   "orig": "An Act Recognizing the Principle of Reciprocity as Basis for the Grant of Income Tax Exemptions to International Carriers and Rationalizing other Taxes Imposed thereon by Amending Sections 28(A)(3)(A), 109, 118 and 236 of the National Internal Revenue Code (NIRC), as Amended, and for Other Purposes"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivily. — This Act shall take effect fifteen (15) days after its complete publication either in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Recognizing the Principle of Reciprocity as Basis for the Grant of Income Tax Exemptions to International Carriers and Rationalizing other Taxes Imposed thereon by Amending Sections 28(A)(3)(A), 109, 118 and 236 of the National Internal Revenue Code (NIRC), as Amended, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

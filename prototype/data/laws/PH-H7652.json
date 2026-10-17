@@ -1,7 +1,7 @@
 {
  "id": "PH-H7652",
  "title": {
-  "zh": null,
+  "zh": "授予 Calapan 供水系统与发展公司在东明多洛省 Calapan 市建设、运营和维护供水与污水处理系统的特许经营权法案",
   "en": "An Act Granting the Calapan Waterworks System and Development Corporation a Franchise to Construct, Install, Operate and Maintain a Water Supply and Sewerage System in the City of Calapan, Province of Oriental Mindoro",
   "orig": "An Act Granting the Calapan Waterworks System and Development Corporation a Franchise to Construct, Install, Operate and Maintain a Water Supply and Sewerage System in the City of Calapan, Province of Oriental Mindoro"
  },
@@ -181,5 +181,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days from the date of its publication, through the initiative of the grantee, in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Calapan Waterworks System and Development Corporation a Franchise to Construct, Install, Operate and Maintain a Water Supply and Sewerage System in the City of Calapan, Province of Oriental Mindoro",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

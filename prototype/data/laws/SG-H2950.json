@@ -1,7 +1,7 @@
 {
  "id": "SG-H2950",
  "title": {
-  "zh": null,
+  "zh": "土地测量师（调查委员会）规则",
   "en": "Land Surveyors (Investigation Committees) Rules",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9.—(1) Upon completion of its investigation into the complaint, the Committee shall report its findings to the Board and shall in its report recommend to the Board to do any of the following:\n(a)dismiss the complaint;\n(b)issue the registered surveyor with a letter advising him on the steps to be taken to improve or regularise his practice or conduct;\n(c)issue the registered surveyor with a letter warning him against further improper conduct;\n(d)hold a hearing for the purpose of section 25 or 27 of the Act;\n(e)make such other order as the Committee considers appropriate.\n(2) Where a Committee is satisfied that there is no ground for disciplinary action under section 25 or 27 of the Act arising from the complaint, the Committee shall report to the Board accordingly and state the reasons for its decision.\n(3) The report shall contain copies of all relevant documents and statements collected by the Committee during the investigation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Land Surveyors (Investigation Committees) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

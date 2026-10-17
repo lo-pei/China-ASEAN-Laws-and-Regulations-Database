@@ -1,7 +1,7 @@
 {
  "id": "PH-H5226",
  "title": {
-  "zh": null,
+  "zh": "通过将奥罗拉科学中学从奥罗拉省立中学分离设立奥罗拉国立科学中学并为其提供经费的法案",
   "en": "An Act Creating the Aurora National Science High School By Separating the Aurora Science High School From the Aurora Provincial High School, and Providing Funds Therefor",
   "orig": "An Act Creating the Aurora National Science High School By Separating the Aurora Science High School From the Aurora Provincial High School, and Providing Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Aurora National Science High School By Separating the Aurora Science High School From the Aurora Provincial High School, and Providing Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

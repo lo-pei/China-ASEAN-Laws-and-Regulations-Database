@@ -1,7 +1,7 @@
 {
  "id": "SG-H3170",
  "title": {
-  "zh": null,
+  "zh": "商船（违纪行为）条例",
   "en": "Merchant Shipping (Disciplinary Offences) Regulations",
   "orig": null
  },
@@ -298,5 +298,13 @@
     "en": "20. The master or the officer authorised by him, under regulation 5(2) to exercise the powers of the master and to perform his duties in relation to a disciplinary offence, who fails to make an entry in an official log book required to be made by the master under these Regulations or who fails to comply with an obligation imposed upon him under regulation 7(h)(i), 13(b), 15(2) or (3) or 16 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.\n[G.N. No S 47/96]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Disciplinary Offences) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

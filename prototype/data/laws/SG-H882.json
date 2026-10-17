@@ -1,7 +1,7 @@
 {
  "id": "SG-H882",
  "title": {
-  "zh": null,
+  "zh": "COVID-19（临时措施）（回教法庭停止适用第 28 条）命令 2022",
   "en": "COVID-19 (Temporary Measures) (Cessation of Section 28 for Syariah Court) Order 2022",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Despite paragraph 2, section 28 of the Act continues to apply to or in relation to —\n(a)any action or proceedings in respect of which an order under section 28(3) of the Act was made before 30 November 2022;\n(b)any evidence given by a witness in any action or proceedings in the Syariah Court, by means of a live video or live television link that is created using a remote communication technology approved by the senior president of the Syariah Court, pursuant to an order under section 28(3) of the Act made before 30 November 2022; and\n(c)any appearance made (other than to give evidence) by a witness in any action or proceedings in the Syariah Court, by means of a live video, live television link or live audio link that is created using a remote communication technology approved by the senior president of the Syariah Court, pursuant to an order under section 28(3) of the Act made before 30 November 2022."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "COVID-19 (Temporary Measures) (Cessation of Section 28 for Syariah Court) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

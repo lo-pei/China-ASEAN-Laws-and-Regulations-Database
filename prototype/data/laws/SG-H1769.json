@@ -1,7 +1,7 @@
 {
  "id": "SG-H1769",
  "title": {
-  "zh": null,
+  "zh": "住房与发展（核准当局）规则",
   "en": "Housing and Development (Approving Authority) Rules",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 24(2) of the Act, the approving authority shall be the Tenders Board C of the Ministry of National Development, comprising —\n(a)the Minister for National Development, who shall be the Chairman;\n(b)the Permanent Secretary, Ministry of National Development; and\n(c)one Senior Officer of the Ministry of National Development.\n[G.N. No. S 795/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Approving Authority) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

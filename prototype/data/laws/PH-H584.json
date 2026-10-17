@@ -1,7 +1,7 @@
 {
  "id": "PH-H584",
  "title": {
-  "zh": null,
+  "zh": "修订第575号共和国法第1条M目第4项的法案",
   "en": "An Act to Amend Item Four of Title M of Section One of Republic Act Numbered Five Hundred and Seventy-Five",
   "orig": "An Act to Amend Item Four of Title M of Section One of Republic Act Numbered Five Hundred and Seventy-Five"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect on January 1, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Item Four of Title M of Section One of Republic Act Numbered Five Hundred and Seventy-Five",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

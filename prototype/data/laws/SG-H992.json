@@ -1,7 +1,7 @@
 {
  "id": "SG-H992",
  "title": {
-  "zh": null,
+  "zh": "货币（硬币面额与特征）公告 2016",
   "en": "Currency (Denominations and Characteristics of Coins) Notification 2016",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE SPLENDOUR OF NATIVE ORCHIDS SERIES COIN SET TO BE ISSUED ON 24 JUNE 2016\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n1 Dollar\n999 Fine Silver\n8.56 g ± 0.30 g\n24.66 mm ± 0.25 mm\n2.06 mm ± 0.30 mm\nRound\nMilled\nIn each coin —\n(a)the background is shiny silver;\n(b)the Singapore Coat of Arms is engraved in the centre of the coin with the year-date “2016” below it;\n(c)the word “SINGAPORE” appears once in each of the 4 official languages and engraved on the coin near its circumference; and\n(d)the mintmark is engraved on the coin near its circumference at 5 o’clock of the coin.\n1. The coin set features 10 different coin designs, each featuring one of the orchids named below:\n(a)Cymbidium\nfinlaysonianum;\n(b)Grammatophyllum\nspeciosum;\n(c)Arundina\ngraminifolia;\n(d)Bulbophyllum\nmacranthum;\n(e)Bulbophyllum\nflabellum‑veneris;\n(f)Dendrobium\ncrumenatum;\n(g)Phalaenopsis\ncornu‑cervi;\n(h)Coelogyne\nrochussenii;\n(i)Dendrobium\nleonis;\n(j)Dendrobium\nsecundum.\n2. In each design —\n(a)the coin has a matt centre within a shiny silver annulus;\n(b)the denomination “$1” is in shiny silver and placed at 9 o’clock of the matt centre;\n(c)the orchid is featured in colour and occupies part of the matt centre complementary to the denomination and part of the right annulus;\n(d)the botanical name of the orchid is engraved and occupies the upper annulus beginning above 9 o’clock; and\n(e)the fineness of the coin is engraved and occupies the lower left quadrant of the annulus.\n(a)\n(b)\n(c)\n(d)\n(e)\n(f)\n(a)Reverse Design of the Cymbidium finlaysonianum coin of the Splendour of Native Orchids Series coin set.\n(b)Reverse Design of the Grammatophyllum speciosum coin of the Splendour of Native Orchids Series coin set.\n(c)Reverse Design of the Arundina graminifolia coin of the Splendour of Native Orchids Series coin set.\n(d)Reverse Design of the Bulbophyllum macranthum coin of the Splendour of Native Orchids Series coin set.\n(e)Reverse Design of the Bulbophyllum flabellum‑veneris coin of the Splendour of Native Orchids Series coin set.\n(f)Reverse Design of the Dendrobium crumenatum coin of the Splendour of Native Orchids Series coin set.\n(g)\n(h)\n(i)\n(j)\n(k)\n(g)Reverse Design of the Phalaenopsis cornu‑cervi coin of the Splendour of Native Orchids Series coin set.\n(h)Reverse Design of the Coelogyne rochussenii coin of the Splendour of Native Orchids Series coin set.\n(i)Reverse Design of the Dendrobium leonis coin of the Splendour of Native Orchids Series coin set.\n(j)Reverse Design of the Dendrobium secundum coin of the Splendour of Native Orchids Series coin set.\n(k)Common Obverse Design of each coin of the Splendour of Native Orchids Series coin set."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency (Denominations and Characteristics of Coins) Notification 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

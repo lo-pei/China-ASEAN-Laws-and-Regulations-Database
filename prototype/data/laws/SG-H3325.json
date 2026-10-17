@@ -1,7 +1,7 @@
 {
  "id": "SG-H3325",
  "title": {
-  "zh": null,
+  "zh": "全国疾病登记（急性心肌梗塞通报）条例 2012",
   "en": "National Registry of Diseases (Acute Myocardial Infarction Notification) Regulations 2012",
   "orig": null
  },
@@ -120,5 +120,13 @@
     "en": "THIRD SCHEDULE\nRegulation 4\nAdditional Information\n1.Patient’s particulars:\n(a)gender;\n(b)ethnic group;\n(c)citizenship or resident status;\n(d)country of birth;\n(e)residential postal code.\n2.Other information:\n(a)dates of admission and discharge;\n(b)discharge status;\n(c)name of admitting healthcare institution;\n(d)if patient transferred to admitting healthcare institution, name of transferring healthcare institution;\n(e)whether patient was admitted before transfer, if applicable;\n(f)details of arrival at emergency medicine department (including date, time(s), and whether electrocardiogram was transmitted from ambulance to emergency medicine department);\n(g)presenting symptoms or signs (including date and time of onset of symptoms or signs);\n(h)venue where cardiopulmonary resuscitation and/or direct current shock was applied;\n(i)heart failure classification in emergency medicine department or upon admission;\n(j)care setting where patient was managed after onset of acute myocardial infarction.\n3.Risk factor profile (including date profile taken).\n4.Investigations (including date(s) and findings).\n5.Classification of acute myocardial infarction and treatment(s) of acute myocardial infarction (including type(s), date(s) and time(s) of treatment(s)).\n6.Details of medications administered.\n7.Complications during hospitalisation (including date(s)), if any.\n8.Current status of patient:\n(a)living or deceased;\n(b)where the patient is deceased, the date, time, place and cause of death.\n9.Patient’s electrocardiograms.\n10.Details of notifying healthcare institution:\n(a)person who made the notification;\n(b)name of notifying healthcare institution."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "National Registry of Diseases (Acute Myocardial Infarction Notification) Regulations 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

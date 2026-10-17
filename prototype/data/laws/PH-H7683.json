@@ -1,7 +1,7 @@
 {
  "id": "PH-H7683",
  "title": {
-  "zh": null,
+  "zh": "宣布每年4月15日为Manuel A. Roxas总统纪念日，并将最接近的星期五定为卡皮斯省全境与罗哈斯市的特别非工作日假期，以纪念已故总统逝世周年的法案",
   "en": "An Act Declaring April 15 of Every Year as President Manuel A. Roxas Memorial Day, Thereby Assigning the Nearest Friday to It as a Special Non-Working Holiday in the Entire Province of Capiz and Roxas City in Commemoration of the Death Anniversary of the Late President",
   "orig": "An Act Declaring April 15 of Every Year as President Manuel A. Roxas Memorial Day, Thereby Assigning the Nearest Friday to It as a Special Non-Working Holiday in the Entire Province of Capiz and Roxas City in Commemoration of the Death Anniversary of the Late President"
  },
@@ -80,5 +80,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after publication in two (2) newspapers of national circulation or in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring April 15 of Every Year as President Manuel A. Roxas Memorial Day, Thereby Assigning the Nearest Friday to It as a Special Non-Working Holiday in the Entire Province of Capiz and Roxas City in Commemoration of the Death Anniversary of the Late President",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

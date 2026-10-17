@@ -1,7 +1,7 @@
 {
  "id": "PH-H1040",
  "title": {
-  "zh": null,
+  "zh": "将达沃省特立尼达市镇更名为何塞·阿巴德·桑托斯的法案",
   "en": "An Act Changing the Name of the Municipality of Trinidad, Province of Davao, to Jose Abad Santos",
   "orig": "An Act Changing the Name of the Municipality of Trinidad, Province of Davao, to Jose Abad Santos"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 20, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Municipality of Trinidad, Province of Davao, to Jose Abad Santos",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

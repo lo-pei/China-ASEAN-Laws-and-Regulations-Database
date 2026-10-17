@@ -1,7 +1,7 @@
 {
  "id": "SG-H629",
  "title": {
-  "zh": null,
+  "zh": "新加坡民航局（可持续航空燃料税）命令 2026",
   "en": "Civil Aviation Authority of Singapore (Sustainable Aviation Fuel Levy) Order 2026",
   "orig": null
  },
@@ -292,5 +292,13 @@
     "en": "THIRD SCHEDULE\nParagraphs 9(1) and (2) and 12(1) and Second Schedule\nInformation in returns and reports\nPart 1\nInformation in return under paragraph 9(1)\n1. The following information relating to the accounting period in respect of which the return is made:\n(a)the total amount of SAF levy collected during the accounting period;\n(b)the total amount of interest collected during the accounting period.\nPart 2\nInformation in report under paragraph 9(2)\n2. The following information relating to the quarter in respect of which the report is made tabulated for each calendar month within that quarter:\n(a)the total number of chargeable flights beginning within the quarter;\n(b)the total number of each type of chargeable flight beginning within the quarter;\n(c)the number of each type of chargeable flight beginning within the quarter classified according to each of the following:\n(i)the airport in Singapore from which the flight departed;\n(ii)the geographical band of the flight’s immediate destination;\n(d)the total number of each of the following classified according to the geographical band of the flight’s immediate destination:\n(i)chargeable passengers on Type 1 chargeable flights beginning within the quarter entitled to travel in the economy cabin on that flight;\n(ii)chargeable passengers on Type 1 chargeable flights beginning within the quarter entitled to travel in the premium cabin on that flight;\n(iii)non-chargeable passengers on Type 1 chargeable flights beginning within the quarter;\n(iv)Type 2 chargeable flights beginning within the quarter operated using each of the following types of aircrafts:\n(A)an aircraft that belongs to aircraft code A;\n(B)an aircraft that belongs to aircraft code B;\n(C)an aircraft that belongs to aircraft code C;\n(D)an aircraft that belongs to aircraft code D;\n(E)an aircraft that belongs to aircraft code E;\n(F)an aircraft that belongs to aircraft code F;\n(v)flights beginning within the quarter that are excluded flights.\nPart 3\nINFORMATION IN RETURN UNDER PARAGRAPH 12(1)\n3. The following information relating to the relevant period in respect of which the return is made:\n(a)in respect of each Type 1 chargeable flight beginning within the relevant period —\n(i)the flight number of the flight;\n(ii)the departure date of the flight;\n(iii)the airport in Singapore that the flight departed from;\n(iv)the flight’s immediate destination and the geographical band of the flight’s immediate destination;\n(v)the number of chargeable passengers on the flight classified according to whether the passenger was seated in the economy cabin or premium cabin;\n(vi)the number of non-chargeable passengers on the flight classified according to the following classes:\n(A)transfer passengers;\n(B)transit passengers;\n(C)infants below 2 years of age;\n(D)passengers who are not mentioned in sub‑paragraphs (A), (B) and (C); and\n(vii)the number of non-chargeable passengers on the flight classified according to whether the passenger was seated in the economy cabin or premium cabin;\n(b)in respect of each Type 2 chargeable flight beginning within the relevant period —\n(i)the name of the aircraft operator;\n(ii)the flight number of the flight, if any;\n(iii)the aircraft code of the aircraft used to operate the flight;\n(iv)the aircraft registration number of the aircraft used to operate the flight;\n(v)the departure date of the flight;\n(vi)the airport in Singapore that the flight departed from; and\n(vii)the flight’s immediate destination and the geographical band of the flight’s immediate destination."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Civil Aviation Authority of Singapore (Sustainable Aviation Fuel Levy) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-33-2011-E-ARCHITECTS-PROFESSIONAL-ENGINEERS-AND-QUA-E8B75D",
  "title": {
-  "zh": null,
+  "zh": "S 33 2011 建筑师、专业工程师与工料测量师命令 2011",
   "en": "S 33 2011 E ARCHITECTS PROFESSIONAL ENGINEERS AND QUANTITY SURVEYORS ORDER 2011",
   "orig": null
  },
@@ -706,5 +706,13 @@
     "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make rules which are necessary or expedient for giving effect to and carrying out the provisions of this Order, including the prescription of fees and of any other thing required to be or which may be prescribed under this Order and for the due administration, thereof.\n\n(2) Without prejudice to the generality of subsection (I), the Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make rules - (a] prescribing forms of applications under this Order and certificates of registration, practising certificates and licences; /b] prescribing the subject-matter of examinations to be conducted by or under the direction of the Board in the case of applicants or class of applicants for registration; (cl prescribing the form in which the register of architects, the register of professional engineers, the register of quantity surveyors, the register of practitioners and the register of licensees are to be kept and the particulars to be entered therein; (dl prescribing a code of professional conduct and ethics; /el requiring all or any of the following to take out and maintain insurance against liability for breach of professional duty in the course of supplying architectural, professional engineering or quantity surveying (i] any partnership consisting wholly of registered architects;\n\n(ii) any partnership consisting wholly of registered professional\n\n(iii) any partnership consisting wholly of registered quantity\n\n(iv) any partnership applying for a licence;\n\n(v) any limited liability partnership applying for a licence; [vi) any registered architect applying for a practising certificate for the purpose of engaging in the practice of architecture on [vii.) any registered professional engineer applying for a practising certificate for the purpose of engaging in the practice of professional engineering on his own account;\n\n(viii) any registered quantity surveyor applying for a practising certificate for the purpose of engaging in the practice of quantity surveying on his own account;\n\n(ix) any registered architect, registered professional engineer or quantity surveyor applying for a practising certificate who is employed or about to be employed by any person referred to in sub-paragraphs (i) to (vii]; [x) any other registered architect, registered professional* engineer or registered quantity surveyor applying for a practising certificate; (fl prescribing the terms and conditions of insurance against professional liability under this Order or rules, including a minimum limit of indemnity. Made this 21st. day of Rabiulawal, 1432 Hijriah corresponding to the 26th. day of March, 2011 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "S 33 2011 E ARCHITECTS PROFESSIONAL ENGINEERS AND QUANTITY SURVEYORS ORDER 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

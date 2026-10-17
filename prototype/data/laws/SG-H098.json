@@ -1,7 +1,7 @@
 {
  "id": "SG-H098",
  "title": {
-  "zh": null,
+  "zh": "主动出行（使用不合规车辆——豁免）命令 2018",
   "en": "Active Mobility (Non-Compliant Vehicle Use — Exemption) Order 2018",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nSpecified persons\nParagraph 2\n1.Coastline Leisure Pte Ltd (UEN 201136309C)\n2.GoCycling Pte Ltd (UEN 201620037R)\n3.Spring Gear (UEN 53064508D)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Non-Compliant Vehicle Use — Exemption) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1352",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（撒灰设施——豁免）条例 2021",
   "en": "Environmental Public Health (Ash Scattering Facility — Exemption) Regulations 2021",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Section 17(1)(a) of the Act does not apply to an individual who deposits, drops, places or throws ashes in an area of the ash scattering facility which is designated by the operator of the facility for that purpose.\n(2) Section 17(1)(b) of the Act does not apply to an individual who keeps or leaves ashes in an area of the ash scattering facility which is designated by the operator of the facility for that purpose."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Ash Scattering Facility — Exemption) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

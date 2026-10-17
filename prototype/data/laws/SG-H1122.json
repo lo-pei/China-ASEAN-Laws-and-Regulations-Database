@@ -1,7 +1,7 @@
 {
  "id": "SG-H1122",
  "title": {
-  "zh": null,
+  "zh": "硬币面额与特征",
   "en": "Denominations and Characteristics of Coins",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE 2006 ANNUAL MEETINGS OF THE BOARDS OF GOVERNORS OF THE INTERNATIONAL MONETARY FUND AND THE WORLD BANK GROUP COMMEMORATIVE COINS TO BE ISSUED ON 5TH SEPTEMBER 2006\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n5 Dollars\n999 Fine Silver\n20.00 g + 0.20 g\n38.70 mm + 0.15 mm\n2.50 mm + 0.30 mm\nRound\nMilled and bearing the words “MONETARY AUTHORITY OF SINGAPORE” and lion symbol.\nThe Singapore Arms in the centre with the year-date “2006” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’clock of the coin.\nThe coin design features Singapore’s skyline, which represents the unique accomplishments of Singapore. An icon of our thriving financial and business hub, the skyline also reflects the vibrancy of the local arts and cultural scenes with the Esplanade — Theatres on the Bay in the foreground.\nThe map of the world, with the lion symbol pointing to the location of Singapore, conveys the message that Singapore is well connected to the rest of the world, a place where people and activities converge, offering endless possibilities and diverse opportunities.\n5 Dollars\n75% Copper 25% Nickel\n20.00 g + 0.60 g\n38.70 mm + 0.15 mm\n2.50 mm + 0.30 mm\nRound\nThe Singapore Arms in the centre with the year-date “2006” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin.\nThe stylised bud at the left of the coin is the logo for Singapore 2006, symbolising the life force of Singapore and the country’s potential for growth in the global economy.\n(a) Common Reverse Design for $5 Silver Proof Coin and $5 Cupro-Nickel Proof-Like Coin.\n(b) Obverse Design for $5 Silver Proof Coin.\n(c) Obverse Design for $5 Cupro-Nickel Proof-Like Coin."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Denominations and Characteristics of Coins",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

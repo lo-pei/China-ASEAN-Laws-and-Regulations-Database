@@ -1,7 +1,7 @@
 {
  "id": "PH-H2330",
  "title": {
-  "zh": null,
+  "zh": "规定西内格罗斯省希马迈兰市镇与比纳尔巴甘市镇交界处近期建成的Aguisan桥今后名称为Magsaysay桥的法案",
   "en": "An Act Providing that the Aguisan Bridge Recently Constructed in the Boundary of the Municipalities of Himamaylan and Binalbagan, Province of Occidental Negros, Shall Hereafter be Known as the Magsaysay Bridge",
   "orig": "An Act Providing that the Aguisan Bridge Recently Constructed in the Boundary of the Municipalities of Himamaylan and Binalbagan, Province of Occidental Negros, Shall Hereafter be Known as the Magsaysay Bridge"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing that the Aguisan Bridge Recently Constructed in the Boundary of the Municipalities of Himamaylan and Binalbagan, Province of Occidental Negros, Shall Hereafter be Known as the Magsaysay Bridge",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

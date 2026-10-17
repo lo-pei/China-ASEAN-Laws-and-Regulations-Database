@@ -1,7 +1,7 @@
 {
  "id": "SG-H943",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典（提交文件或其他物品）条例 2019",
   "en": "Criminal Procedure Code (Production of Document or Other Thing) Regulations 2019",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) For the purposes of section 20(3) of the Code, the Public Prosecutor, when issuing a written order under that section to require a Postal Authority or public postal licensee to deliver any document or thing, may require the Postal Authority or public postal licensee to submit —\n(a)to a person stated in the order —\n(i)that document or thing;\n(ii)a physical copy of that document or thing or the transcript of that document (if any); or\n(iii)an electronic copy (in a recognised format and on a medium specified in the order) of that document or the transcript of that document (if any);\n(b)to such electronic mail address as a person stated in the order may specify, an electronic mail that —\n(i)encloses an electronic copy (in a recognised format) of that document or the transcript of that document (if any); or\n(ii)sets out the transcript of that document (if any); or\n(c)to a person stated in the order, through such computer system or information system as that person may specify, an electronic communication that —\n(i)encloses an electronic copy (in a recognised format) of that document or the transcript of that document (if any); or\n(ii)sets out the transcript of that document (if any).\n(2) A person stated in a written order issued by the Public Prosecutor under section 20(3) of the Code may, for the purposes of an investigation, inquiry, trial or other proceeding under the Code, retain or make copies of —\n(a)the document or thing to which the order relates;\n(b)the physical copy of that document or thing or the transcript of that document (if any);\n(c)the electronic copy of that document or the transcript of that document (if any);\n(d)the electronic mail mentioned in paragraph (1)(b); or\n(e)the electronic communication mentioned in paragraph (1)(c),\nas the case may be."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure Code (Production of Document or Other Thing) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1861",
  "title": {
-  "zh": null,
+  "zh": "房屋发展商（可复合罪行）规则 2025",
   "en": "Housing Developers (Compoundable Offences) Rules 2025",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. An offence under section 4(8) or (9), 12A(2), 12B(3), 12C(5), 12D(2) or 12E(6) of the Act may be compounded by the Controller in accordance with section 27A of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing Developers (Compoundable Offences) Rules 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,0 +1,78 @@
+{
+ "id": "BN-S-3-2016-CONTRACTS-ACT-AMENDMENT-ORDER-2016-1",
+ "title": {
+  "zh": "合同法修正命令 2016(1)",
+  "en": "CONTRACTS ACT AMENDMENT ORDER 2016(1)",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p27",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 3543,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-3-2016-CONTRACTS-ACT-AMENDMENT-ORDER-2016(1).pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-3-2016-CONTRACTS-ACT-AMENDMENT-ORDER-2016(1).pdf》（4 页），本次切分 2 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-3-2016-CONTRACTS-ACT-AMENDMENT-ORDER-2016-1-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "This Order may be cited as the Contracts Act (Amendment) Order, 2016. of new Chapter VIlA into Chapter 106"
+   }
+  },
+  {
+   "id": "BN-S-3-2016-CONTRACTS-ACT-AMENDMENT-ORDER-2016-1-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "made under Article 83(3)J"
+   },
+   "text": {
+    "en": "The Contracts Act, in this Order referred to as the Act, is amended by the following new Chapter immediately after Chapter VII - VIlA Scholarship Agreements to all scholarship agreements lOOA. This Chapter applies to all scholarship agreements entered into before the date of commencement of the Contracts Act (Amendment) lOOB. In this Chapter, unless the context otherwise requires - authority\" means the Government, a statutory authority or an approved educational institution; educational institution\" means any institution or body as such by the Minister under section 100C; agreement\" means any contract or agreement between an authority and any person (in this Order referred to as a with respect to, any scholarship, award, bursary, loan, or appointment to a course of study, the provision of leave with or without pay, or any other facility, whether granted directly by the appropriate authority, or by any other person or body, or by any outside Brunei Darussalam, for the purpose of education or learning of any description; authority\" means a body corporate established by or under any written law to perform or discharge any public function; means a person referred to as a surety, or as a guarantor, or by any other corresponding term, in a scholarship agreement. educational institution JOOC. The Minister of Finance may, by notification published in the Gazette, any institution or body, whether corporate or unincorporate, to be an approved educational institution for the purposes of this Act. of scholarship agreement JOOD. Notwithstanding anything to the contrary contained in the Act, no agreement shall be invalidated on the ground that - (a} the scholar entering into the agreement is not of the age of (bj the agreement is contrary to any provision of any written law in force relating to moneylenders; or\n\n(c) the agreement lacks consideration. in event of breach lOOE. Where a scholarship agreement has been breached by a scholar - (a} if a sum is named in the agreement as the amount to be paid in case of such breach, notwithstanding anything to the contrary in this Act, the scholar and the surety shall be liable jointly and severally to pay and the appropriate authority shall be entitled to be paid the whole of the sum whether or not actual damage or loss has been caused by the breach, and no deduction shall be made from the sum on account of any partial period or service performed by the on completion of his course of study; or\n\n(b) if no such sum is mentioned in the scholarship agreement, the scholar and the surety shall be jointly and severally liable to pay and the appropriate authority shall be entitled to be paid\n\n(i) the whole amount expended by the appropriate authority the agreement; and Iii) the whole of such further amount as it will cost the authority or another authority designated by it to engage a person with qualifications and experience which were to be obtained by the scholar to perform the services required of the scholar on the completion of his course or study for the period specified in the scholarship agreement.\". day of Rabiulakhir, 1437 Hijriah corresponding to the 28th. day of January, 2016 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM oleh A WANG HAJI KAMARUL AZAM BIN HAJI MOHAMAD Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB351 0, Negara Brunei Darussalam."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CONTRACTS ACT AMENDMENT ORDER 2016(1)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

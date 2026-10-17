@@ -1,7 +1,7 @@
 {
  "id": "PH-H7960",
  "title": {
-  "zh": null,
+  "zh": "2008 年菲律宾大学宪章",
   "en": "University of the Philippines Charter of 2008.",
   "orig": "University of the Philippines Charter of 2008. An Act to Strengthen the University of the Philippines as the National University"
  },
@@ -350,5 +350,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "University of the Philippines Charter of 2008.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

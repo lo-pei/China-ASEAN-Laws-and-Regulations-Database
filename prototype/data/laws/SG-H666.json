@@ -1,7 +1,7 @@
 {
  "id": "SG-H666",
  "title": {
-  "zh": null,
+  "zh": "合作社（第 97 条下的豁免）（第 4 号）命令 2010",
   "en": "Co-operative Societies (Exemption under Section 97) (No. 4) Order 2010",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to sub-paragraph (2), the following societies are exempted from section 61(1) of the Act, insofar as it relates to the committee of management directing and supervising the business and property of the society:\n(a)Singapore Police Co-operative Society Limited;\n(b)Phoenix Co-operative Society Limited.\n(2) The societies referred to in sub-paragraph (1) shall provide in the by-laws that the business and property of the society shall be under the direction and supervision of the president of the society."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (Exemption under Section 97) (No. 4) Order 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

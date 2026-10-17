@@ -1,7 +1,7 @@
 {
  "id": "SG-H1347",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（工商业污水）条例",
   "en": "Environmental Protection and Management (Trade Effluent) Regulations",
   "orig": null
  },
@@ -220,5 +220,13 @@
     "en": "14.—(1) Any document or written permission prepared, made, granted or approved under the revoked Trade Effluent Regulations (Cap. 348, Rg 4) in relation to the discharge of trade effluent into a watercourse shall, as far as it is not inconsistent with the provisions of these Regulations, continue and be deemed to have been prepared, made, granted or approved under the corresponding provisions of these Regulations.\n(2) A permission granted under regulation 4(2) of the revoked Trade Effluent Regulations in relation to the discharge of trade effluent into a watercourse shall continue and be deemed to be a licence granted under section 15 of the Act for the discharge of trade effluent into a watercourse, until such time when it is revoked by the Director-General.\n[G.N. Nos. S 160/99; S 265/2005]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Protection and Management (Trade Effluent) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3378",
  "title": {
-  "zh": null,
+  "zh": "在伊洛伊洛省San Enrique市镇设立国立农业与职业中学，名称为San Enrique国立农业与职业中学，并授权为此拨款的法案",
   "en": "An Act to Establish a National Agricultural and Vocational High School in the Municipality of San Enrique, Province of Iloilo, to be Known as San Enrique National, Agricultural and Vocational High School, and to Authorize the Appropriation of Funds Therefor",
   "orig": "An Act to Establish a National Agricultural and Vocational High School in the Municipality of San Enrique, Province of Iloilo, to be Known as San Enrique National, Agricultural and Vocational High School, and to Authorize the Appropriation of Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: March 22, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish a National Agricultural and Vocational High School in the Municipality of San Enrique, Province of Iloilo, to be Known as San Enrique National, Agricultural and Vocational High School, and to Authorize the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

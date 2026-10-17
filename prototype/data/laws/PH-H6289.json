@@ -1,7 +1,7 @@
 {
  "id": "PH-H6289",
  "title": {
-  "zh": null,
+  "zh": "1991年地方政府法典",
   "en": "Local Governement Code of 1991",
   "orig": "An Act Resetting the Elections of Sangguniang Kabataan Officials to the First Monday of May 1996, and Every Three (3) Years Thereafter, Amending for the Purpose Section 532 (A) of Republic Act No. 7160, Otherwise Known as the \"Local Governement Code of 1991\""
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect immediately after its publications in at least two (2) national newspapers of general circulation.\nApproved, September 2, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Local Governement Code of 1991",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

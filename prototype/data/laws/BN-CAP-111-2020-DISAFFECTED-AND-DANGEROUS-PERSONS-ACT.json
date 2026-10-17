@@ -1,0 +1,87 @@
+{
+ "id": "BN-CAP-111-2020-DISAFFECTED-AND-DANGEROUS-PERSONS-ACT",
+ "title": {
+  "zh": "不满与危险人物法",
+  "en": "DISAFFECTED AND DANGEROUS PERSONS ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p19",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to provide for the removal to, and the confinement in, particular"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 3,
+ "chars": 4035,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-111-2020-ED-DISAFFECTED-AND-DANGEROUS-PERSONS-ACT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-111-2020-ED-DISAFFECTED-AND-DANGEROUS-PERSONS-ACT.pdf》（8 页），本次切分 3 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-111-2020-DISAFFECTED-AND-DANGEROUS-PERSONS-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Disaffected and Dangerous Persons Act. Arrest and removal of, and limitation of movement of, disaffected or"
+   }
+  },
+  {
+   "id": "BN-CAP-111-2020-DISAFFECTED-AND-DANGEROUS-PERSONS-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "dangerous persons"
+   },
+   "text": {
+    "en": "(1) Whenever it is made to appear to the Minister* on the written information of the Commissioner of Police that there is reasonable cause for believing that it is necessary for the peace or good order of Brunei Darussalam that a warrant should be issued under subsection (2) in respect of\n\n(a) he may issue a warrant substantially in the form in the Schedule hereto; and\n\n(b) he shall cause such person to be brought before him and shall examine such person and record in writing any statement that such person makes.\n\n(2) After examining any person, and recording any statement he may wish to make, as provided for by subsection (1), and on making such enquiries as he may deem necessary, it shall be lawful for the Minister* with the approval of His Majesty the Sultan and Yang Di-Pertuan in Council, by warrant under his hand —\n\n(a) to order, upon such conditions and for such term as he may deem fit, the removal to any locality which may be specified in the\n\n(b) to prohibit the movement beyond the limits of such locality, of such person if he believes him to be disaffected or otherwise dangerous to the peace or good order of Brunei Darussalam, and upon the issue and by virtue of such warrant, such person may be arrested and removed in custody to the locality specified therein.\n\n(3) Any person in respect of whom a warrant has been issued under\n\n(a) goes beyond the limits specified in such warrant without permission of an officer duly authorised by the Minister* in that behalf; or\n\n(b) fails to conform with the conditions in which such warrant was issued or such permission is granted, may be arrested without warrant by any police officer and is guilty of an offence and liable on conviction to a fine of $8,000 and imprisonment for 12 months. Power of Minister to order security for observance of conditions"
+   }
+  },
+  {
+   "id": "BN-CAP-111-2020-DISAFFECTED-AND-DANGEROUS-PERSONS-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "(1) The Minister* may require any person in respect of whom a warrant has been issued under section 2(2) to deposit in such place as the Minister* may direct such pledge of cash or of such movable property as may be specified by the Minister* as a guarantee that —\n\n(a) he will remain within the limits specified by the warrant for the term specified by the warrant;\n\n(b) he will conform with the conditions on which the warrant is\n\n(c) if permission is granted to leave such limits by an officer duly authorised by the Minister* in that behalf, he will conform with the conditions on which such permission is granted, and if the guarantee is in any manner broken, the pledge shall be forfeited to Provided that the Minister* may at his discretion reduce the amount of the pledge or may return the whole or part of the pledge to the depositor thereof.\n\n(2) Any person aggrieved by an order made by the Minister* under this section may appeal to His Majesty the Sultan and Yang Di-Pertuan in Council whose decision shall be final: Provided that His Majesty the Sultan and Yang Di-Pertuan in Council may refuse to entertain any such appeal until any pledge which has been required by the Minister* has been duly deposited. (section 2(1)(a)) Brunei Darussalam DISAFFECTED AND DANGEROUS PERSONS ACT (CHAPTER 111) To the Commissioner of Police and all other police officers Whereas it has been made to appear to me by written information that there is reasonable cause for believing that the restriction to one locality in Brunei Darussalam of .................................................................................................... (name) is necessary for the peace and good order of Brunei Darussalam. This is to direct you the said Commissioner of Police and all other police officers to arrest the said .................................................................................................... and bring him before me with all convenient speed. Given under my hand this ............................. day of .............................. 20 ............"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DISAFFECTED AND DANGEROUS PERSONS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

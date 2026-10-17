@@ -1,7 +1,7 @@
 {
  "id": "SG-H955",
  "title": {
-  "zh": null,
+  "zh": "跨境铁路（边境管制联合设站）（马来西亚管制物品）条例 2026",
   "en": "Cross-Border Railways (Border Control Co-location) (Malaysian Controlled Items) Regulations 2026",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Any thing that is specified in https://www.ica.gov.sg as published on 30 September 2026 is a Malaysian controlled item for the purposes of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Cross-Border Railways (Border Control Co-location) (Malaysian Controlled Items) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

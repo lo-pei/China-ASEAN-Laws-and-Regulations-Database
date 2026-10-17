@@ -1,7 +1,7 @@
 {
  "id": "SG-H909",
  "title": {
-  "zh": null,
+  "zh": "信用局法 2016",
   "en": "Credit Bureau Act 2016",
   "orig": null
  },
@@ -1354,5 +1354,13 @@
     "en": "SECOND SCHEDULE\nSection 5(2)\nSpecified provisions\n1.Section 74"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Credit Bureau Act 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

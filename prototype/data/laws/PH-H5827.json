@@ -1,7 +1,7 @@
 {
  "id": "PH-H5827",
  "title": {
-  "zh": null,
+  "zh": "将索索贡省圣伊西德罗描笼涯圣伊西德罗小学更名为Pio Jebulan小学，并为其他目的的法案",
   "en": "An Act Renaming the San Isidro Elementary School in Barangay San Isidro, Sorsogon, to Pio Jebulan Elementary School, and for Other Purposes",
   "orig": "An Act Renaming the San Isidro Elementary School in Barangay San Isidro, Sorsogon, to Pio Jebulan Elementary School, and for Other Purposes"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the San Isidro Elementary School in Barangay San Isidro, Sorsogon, to Pio Jebulan Elementary School, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

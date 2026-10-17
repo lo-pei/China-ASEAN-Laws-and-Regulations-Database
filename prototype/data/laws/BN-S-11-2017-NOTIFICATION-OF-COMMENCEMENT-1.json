@@ -1,7 +1,7 @@
 {
  "id": "BN-S-11-2017-NOTIFICATION-OF-COMMENCEMENT-1",
  "title": {
-  "zh": null,
+  "zh": "生效公告(1)",
   "en": "NOTIFICATION OF COMMENCEMENT(1)",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "8th. FEBRUARY, 2017 No. S 11\n\nSECURED TRANSACTIONS ORDER, 2016 (S 1012016) Notification of commencement In exercise of the power conferred by section l(1) of the Secured Transactions Order, 2016, the Minister of Finance, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 19th December 2016 as the date on which that Order shall commence. Dated this 7th. day of Rabiulakhir, 1438 Hijriah corresponding to the 5th. day of January, 2017.\n\nAWANG HAJI NAZMI BIN HAJI MOHAMAD Permanent Secretary, Ministry of Finance, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT(1)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H406",
  "title": {
-  "zh": null,
+  "zh": "商业名称注册（相同名称）条例 2015",
   "en": "Business Names Registration (Identical Names) Regulations 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) This regulation sets out the rules for determining whether a business name is identical to —\n(a)any other registered business name, or the name of any corporation or limited partnership referred to in section 17(1)(b) of the Act;\n(b)any name reserved under any of the provisions referred to in section 17(1)(c) of the Act;\n(c)any business name, or name of a company, foreign company, limited liability partnership or limited partnership, referred to in section 17(2) of the Act; and\n(d)any name of a foreign company, or name of a limited partnership, referred to in section 17(3) of the Act.\n(2) Subject to paragraph (4), the following are to be disregarded:\n(a)“The”, where it is the first word of a name;\n(b)the following words where they appear at the end of a name:\n(i)“Berhad” or “Bhd”;\n(ii)“Limited” or “Ltd”;\n(iii)“Limited Liability Partnership” or “LLP”;\n(iv)“Limited Partnership” or “LP”;\n(v)“Private” or “Pte”;\n(vi)“Public Accounting Corporation” or “PAC”;\n(vii)“Sendirian” or “Sdn”;\n(c)the following words or expressions where they appear at the end of a name:\n(i)“Asia”;\n(ii)“Asia Pacific”;\n(iii)“Associates”;\n(iv)“company” or “and company”;\n(v)“corporation”;\n(vi)“Group”;\n(vii)“Holding” or “Holdings”;\n(viii)“Incorporated”;\n(ix)“International”;\n(x)“Partner” or “Partners”;\n(xi)“Partnership” or “Partnerships”;\n(xii)“Singapore”;\n(xiii)“South Asia”;\n(xiv)“South East Asia”;\n(xv)“Trading”;\n(xvi)“Worldwide”;\n(xvii)“.co”;\n(xviii)“.com”;\n(xix)“.edu”;\n(xx)“.gov”;\n(xxi)“.net”;\n(xxii)“.org”;\n(xxiii)“.sg”;\n(d)any word or expression which, in the opinion of the Registrar, is intended to represent any word or expression in —\n(i)sub-paragraph (a) or (b); or\n(ii)sub-paragraph (c);\n(e)the plural version of any name;\n(f)the type and case of letters, accents, spacing between letters, brackets, parentheses and punctuation marks.\n(3) The symbol “&” is to be treated as having the same meaning as the word “and”.\n(4) Paragraph (2)(c) and (d)(ii) does not apply if the person applying to register or change the business name is the corporation carrying on business or operating under the relevant name.\n(5) In paragraph (4), “relevant name” means a name which would be identical to a proposed business name after the application of the rules set out in paragraphs (2) and (3)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Business Names Registration (Identical Names) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

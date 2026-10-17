@@ -1,7 +1,7 @@
 {
  "id": "SG-H2964",
  "title": {
-  "zh": null,
+  "zh": "土地地契法 1993",
   "en": "Land Titles Act 1993",
   "orig": null
  },
@@ -2988,5 +2988,13 @@
     "en": "THE SCHEDULE\nSection 103(1)\nPart 1\nRight of Carriage Way\nFull and free right for every person who is at any time entitled to an estate or interest in possession in the land herein indicated as the dominant tenement, and every person authorised by any such person, to go, pass, and repass, at all times and all purposes, with or without animals or vehicles or both, to and from that dominant tenement.\nPart 2\nRight of Footway\nFull and free right for every person who is at any time entitled to an estate or interest in possession in the land herein indicated as the dominant tenement, and every person authorised by any such person, to go, pass, and repass, on foot, at all times and for all purposes, without animals or vehicles, to and from that dominant tenement."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Land Titles Act 1993",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

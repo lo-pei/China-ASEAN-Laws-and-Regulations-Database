@@ -1,7 +1,7 @@
 {
  "id": "PH-H5157",
  "title": {
-  "zh": null,
+  "zh": "将拉古纳省圣巴勃罗市湖畔小学的名称变更为Corazon M. Azcarate小学的法案",
   "en": "An Act Changing the Name of the Lakeside Elementary School in the City of San Pablo, Province of Laguna, to Corazon M. Azcarate Elementary School",
   "orig": "An Act Changing the Name of the Lakeside Elementary School in the City of San Pablo, Province of Laguna, to Corazon M. Azcarate Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Lakeside Elementary School in the City of San Pablo, Province of Laguna, to Corazon M. Azcarate Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

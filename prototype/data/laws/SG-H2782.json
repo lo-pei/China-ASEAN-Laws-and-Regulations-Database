@@ -1,7 +1,7 @@
 {
  "id": "SG-H2782",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（优先偿付最高款额）命令 2020",
   "en": "Insolvency, Restructuring and Dissolution (Maximum Amount Payable in Priority) Order 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to sub‑paragraph (2), the prescribed amount for the purposes of sections 203(2), 296(2) and 352(2) of the Act is the lower of the following for each employee:\n(a)5 months’ salary (whether for time or piecework) in respect of services rendered by the employee to the company, debtor or bankrupt, as the case may be;\n(b)$13,000, or an amount that is 5 times the amount (if any) prescribed by the Minister charged with the responsibility for manpower under section 35(b) of the Employment Act (Cap. 91), whichever is the higher.\n(2) Where the amounts in sub‑paragraph (1)(a) and (b) are the same, the prescribed amount for each employee is equal to either of those amounts."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insolvency, Restructuring and Dissolution (Maximum Amount Payable in Priority) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

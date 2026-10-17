@@ -1,7 +1,7 @@
 {
  "id": "PH-H8783",
  "title": {
-  "zh": null,
+  "zh": "将南甘马粦省 San Fernando 市镇 Pinamasagan 描笼涯的圣费尔南多 国立中学的 Pinamasagan 附属校分离，改设为独立的同名国立中学，并为此拨款",
   "en": "An Act Separating the San Fernando National High School - Pinamasagan Annex in Barangay Pinamasagan, Municipality of San Fernando, Province of Camarines Sur From the San Fernando National High School, Converting It Into An Independent National High School to Be Known as Pinamasagan National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the San Fernando National High School - Pinamasagan Annex in Barangay Pinamasagan, Municipality of San Fernando, Province of Camarines Sur From the San Fernando National High School, Converting It Into An Independent National High School to Be Known as Pinamasagan National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the San Fernando National High School - Pinamasagan Annex in Barangay Pinamasagan, Municipality of San Fernando, Province of Camarines Sur From the San Fernando National High School, Converting It Into An Independent National High School to Be Known as Pinamasagan National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

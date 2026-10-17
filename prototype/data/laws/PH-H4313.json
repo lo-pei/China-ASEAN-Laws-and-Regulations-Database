@@ -1,7 +1,7 @@
 {
  "id": "PH-H4313",
  "title": {
-  "zh": null,
+  "zh": "授予菲律宾通信卫星公司设立和运营地面卫星终端站、利用卫星设施开展通信并向公共承运人交付的特许经营权法案",
   "en": "An Act Granting the Philippine Communications Satellite Corporation a Franchise to Establish and Operate Ground Satellite Terminal Station or Stations for Telecommunication With Satellite Facilities and Delivery to Common Carriers.",
   "orig": "An Act Granting the Philippine Communications Satellite Corporation a Franchise to Establish and Operate Ground Satellite Terminal Station or Stations for Telecommunication With Satellite Facilities and Delivery to Common Carriers."
  },
@@ -190,5 +190,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1969"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Philippine Communications Satellite Corporation a Franchise to Establish and Operate Ground Satellite Terminal Station or Stations for Telecommunication With Satellite Facilities and Delivery to Common Carriers.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

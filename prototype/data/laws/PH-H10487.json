@@ -1,7 +1,7 @@
 {
  "id": "PH-H10487",
  "title": {
-  "zh": null,
+  "zh": "宣布每年11月23日为本格特省特别非工作假日，名称为“Benguet Day”，以纪念其建省纪念日的法案",
   "en": "An Act Declaring November 23 of Every Year A Special Nonworking Holiday in the Province of Benguet To Be Known As ‘Benguet Day’ in Commemoration of Its Foundation Day </td> <td> ra2024/pdra_12099_2024.pdf",
   "orig": "An Act Declaring November 23 of Every Year A Special Nonworking Holiday in the Province of Benguet To Be Known As ‘Benguet Day’ in Commemoration of Its Foundation Day </td> <td> ra2024/pdra_12099_2024.pdf"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring November 23 of Every Year A Special Nonworking Holiday in the Province of Benguet To Be Known As ‘Benguet Day’ in Commemoration of Its Foundation Day </td> <td> ra2024/pdra_12099_2024.pdf",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

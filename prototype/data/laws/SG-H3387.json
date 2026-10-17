@@ -1,7 +1,7 @@
 {
  "id": "SG-H3387",
  "title": {
-  "zh": null,
+  "zh": "在线安全（救济与问责）（终端用户身份）条例 2026",
   "en": "Online Safety (Relief and Accountability) (End-User Identity) Regulations 2026",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "Prescribed period under section 53(3)(c)(i) of Act\n4.—(1) For the purposes of section 53(3)(c)(i) of the Act, the prescribed period is 12 months starting after the later of the following dates:\n(a)the date on which the alleged online harmful activity was first conducted, or communicated or published (in a case where it is conducted by communication or publication), in relation to the victim;\n(b)the date on which any specified person had knowledge of the alleged online harmful activity conducted, or communicated or published (in a case where it is conducted by communication or publication), in relation to the victim.\n(2) For the purposes of paragraph (1) —\n(a)a reference to the alleged online harmful activity is a reference to the alleged online harmful activity in relation to the victim that is the subject of the application made under section 53(1) of the Act; and\n(b)an alleged online harmful activity that was first communicated or published (where it is conducted by communication or publication of online material) before 29 June 2026 is treated as having been first communicated or published on that date if the online material is made available to, or heard, seen or otherwise perceived by, one or more persons in Singapore on or after that date.\nIllustrations\n(a) On 1 July 2026, X anonymously posts an intimate image of Y on an online messaging group without Y’s consent. The intimate image remains available on the group on 2 July 2027 and is not taken down. On 2 July 2027, Y sees the intimate image and on the same day, makes an application to the Commissioner under section 53(1) of the Act to disclose the identity of X. The application is made more than 12 months after the date on which the intimate image was first communicated by X, but less than 12 months after the date on which Y had knowledge of the intimate image. It therefore falls within the period prescribed in paragraph (1).\n(b) On 1 July 2026, X anonymously posts threats on an online messaging group directed at Y. Y sees the threats on the same day. The threats remain available on the group on 2 July 2027 and are not taken down. On 2 July 2027, Y makes an application to the Commissioner under section 53(1) of the Act to disclose the identity of X. The application is made more than 12 months after the date on which the threats were first communicated by X and the date on which Y had knowledge of the threats. It therefore falls outside of the period prescribed in paragraph (1)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Online Safety (Relief and Accountability) (End-User Identity) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

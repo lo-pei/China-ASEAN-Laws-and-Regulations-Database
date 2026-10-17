@@ -1,7 +1,7 @@
 {
  "id": "SG-H3254",
  "title": {
-  "zh": null,
+  "zh": "放贷人规则 2009",
   "en": "Moneylenders Rules 2009",
   "orig": null
  },
@@ -806,5 +806,13 @@
     "en": "25A.—(1) For the purposes of the Act and these Rules, any notice, letter and other correspondence from the Registrar may be sent to any of the persons mentioned in paragraph (2) by the following means:\n(a)by ordinary or registered mail to the registered office of the person (if the person is a company), the principal place of business of the person (if the person is a licensee), or the residential address last notified by the person;\n(b)to the person’s email address last notified by the person.\n(2) The persons mentioned in paragraph (1) are as follows:\n(a)a person whose licence is revoked or has expired;\n(b)an exempt moneylender;\n(c)the designated credit bureau or subsequent designated credit bureau as defined in section 54 of the Act;\n(d)a statutory manager as defined in section 54 of the Act;\n(e)an auditor appointed under section 82(1) of the Act.\n(3) In this rule, a reference to the registered office of a person which is a company is a reference to the registered office that the person is required to have under section 142 of the Companies Act 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Moneylenders Rules 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

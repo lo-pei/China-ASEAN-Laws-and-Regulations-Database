@@ -1,7 +1,7 @@
 {
  "id": "PH-H6380",
  "title": {
-  "zh": null,
+  "zh": "促进高价值作物的生产、加工、营销与分销、为此提供资金并为其他目的法案",
   "en": "An Act to Promote the Production, Processing, Marketing, and Distribution of High-value Crops, Providing Funds Therefor, and for Other Purposes",
   "orig": "An Act to Promote the Production, Processing, Marketing, and Distribution of High-value Crops, Providing Funds Therefor, and for Other Purposes"
  },
@@ -180,5 +180,13 @@
     "en": "Effectivity Clause. - This Act shall take effect immediately following its publication in a newspaper of general circulation or in the Official Gazette, whichever comes first."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Promote the Production, Processing, Marketing, and Distribution of High-value Crops, Providing Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10379",
  "title": {
-  "zh": null,
+  "zh": "要求公立与私立教育机构允许欠缴学费及其他费用的贫困学生参加定期与期末考试并为其他目的法案",
   "en": "An Act Mandating Public and Private Educational Institutions to allow Disadvantaged Students with Unpaid Tuition and other School Fees to take the Periodic and Final Examinations and other purposes",
   "orig": "An Act Mandating Public and Private Educational Institutions to allow Disadvantaged Students with Unpaid Tuition and other School Fees to take the Periodic and Final Examinations and other purposes"
  },
@@ -130,5 +130,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Mandating Public and Private Educational Institutions to allow Disadvantaged Students with Unpaid Tuition and other School Fees to take the Periodic and Final Examinations and other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

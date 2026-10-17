@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-29-1984-UNLAWFUL-CARNAL-KNOWLEDGE-ACT",
  "title": {
-  "zh": null,
+  "zh": "非法性交法",
   "en": "UNLAWFUL CARNAL KNOWLEDGE ACT",
   "orig": null
  },
@@ -83,5 +83,13 @@
     "en": "The Court of a Magistrate shall have jurisdiction over Jurisdiction offences under this Act and, notwithstanding anything to the contrary which may be contained in the Criminal Procedure Code, shall have power to impose the full penalty."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "UNLAWFUL CARNAL KNOWLEDGE ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

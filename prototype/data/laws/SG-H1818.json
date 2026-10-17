@@ -1,7 +1,7 @@
 {
  "id": "SG-H1818",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 3 号）命令 2021",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2021",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Bishan Street 12 and Bishan Street 11, comprised in Lot number 06433L in Mukim 17 and on which Apartment Blocks 139, 140, 141, 142, 143 and 144 are erected, and in Lot number 06266K in Mukim 17 and on which Apartment Blocks 150, 150A, 151, 152 and 152A are erected, and which is more particularly edged in Plan 1.\nPLAN 1\nBISHAN STREET 11 / BISHAN STREET 12\n2. All that part of the housing estate of the Board bounded by Bishan Street 11 and Bishan Street 13, comprised in Lot number 10997X in Mukim 17 and on which Apartment Blocks 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166 and 167 are erected, and which is more particularly edged in Plan 2.\nPLAN 2\nbishan street 13\n3. All that part of the housing estate of the Board bounded by Jurong West Avenue 5, Jurong West Street 75, Jurong West Street 73 and Jurong West Street 72, comprised in Lot number 00544P in Mukim 09 and on which Apartment Blocks 743 and 751 are erected, in Lot number 01353V in Mukim 09 and on which Apartment Blocks 744 and 750 are erected, in Lot number 01409P in Mukim 09 and on which Apartment Blocks 745, 746, 748 and 749 are erected, and in Lot number 00583X in Mukim 09 and on which Apartment Block 747 is erected, and which is more particularly edged in Plan 3.\nPLAN 3\njurong west street 73\n4. All that part of the housing estate of the Board bounded by Kim Keat Link, Lorong 6 Toa Payoh, Toa Payoh East and Kim Keat Avenue, comprised in Lot number 09673P in Mukim 17 and on which Apartment Blocks 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258 and 259 are erected, and which is more particularly edged in Plan 4.\nPLAN 4\nKIM KEAT LINK / KIM KEAT AVENUE\n5. All that part of the housing estate of the Board bounded by Sims Avenue, Lorong 3 Geylang and Geylang Road, comprised in Lot number 10507W in Mukim 24 and on which Apartment Blocks 111, 112, 113 and 114 are erected, and which is more particularly edged in Plan 5.\nPLAN 5\nLORONG 3 GEYLANG\n6. All that part of the housing estate of the Board bounded by Serangoon Avenue 3, Serangoon Central Drive and Serangoon Central, comprised in Lot number 06678P in Mukim 17 and on which Apartment Blocks 253, 254, 254A, 261, 262, 263, 265 and 266 are erected, in Lot number 07618P in Mukim 17 and on which Apartment Block 264 is erected, and in Lot number 07158V in Mukim 17 and on which Apartment Block 267 is erected, and which is more particularly edged in Plan 6.\nPLAN 6\nSERANGOON CENTRAL DRIVE / SERANGOON CENTRAL / SERANGOON AVENUE 3\n7. All that part of the housing estate of the Board bounded by Penjuru Road and Teban Gardens Road, comprised in Lot number 06025M in Mukim 05 and on which Apartment Block 24 is erected, and in Lot number 06026W in Mukim 05 and on which Apartment Block 25 is erected, and which is more particularly edged in Plan 7.\nPLAN 7\nteban gardens road\n8. All that part of the housing estate of the Board bounded by Yishun Central and Yishun Ring Road, comprised in Lot number 02558V in Mukim 19 and on which Apartment Block 320 is erected, and in Lot number 01308X in Mukim 19 and on which Apartment Blocks 327 and 329 are erected, and which is more particularly edged in Plan 8.\nPLAN 8\nYISHUN CENTRAL / YISHUN RING ROAD\n9. All that part of the housing estate of the Board bounded by Yishun Avenue 11 and Yishun Ring Road, comprised in Lot number 04111X in Mukim 19 and on which Apartment Blocks 349, 350, 350A, 351, 352, 353, 354, 355, 355A, 356, 357 and 358 are erected, and which is more particularly edged in Plan 9.\nPLAN 9\nYISHUN RING ROAD / YISHUN AVENUE 11\n10. All that part of the housing estate of the Board bounded by Yishun Central and Yishun Ring Road, comprised in Lot number 02558V in Mukim 19 and on which Apartment Blocks 321, 322, 323, 324, 325, 326, 328, 331 and 332 are erected, and in Lot number 01455T in Mukim 19 and on which Apartment Block 330 is erected, and which is more particularly edged in Plan 10.\nPLAN 10\nYISHUN RING ROAD / YISHUN CENTRAL"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

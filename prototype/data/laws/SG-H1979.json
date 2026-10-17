@@ -1,7 +1,7 @@
 {
  "id": "SG-H1979",
  "title": {
-  "zh": null,
+  "zh": "所得税（向公益机构提供服务或借调人员的开支扣除）规则 2019",
   "en": "Income Tax (Deduction for Expenditure for Services or Secondment to Institutions of a Public Character) Rules 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following rates are prescribed as prescribed hourly rates for the purposes of section 14ZB of the Act:\n(a)in a case where the provision of services by the qualifying employee to the IPC requires the application by the qualifying employee of any specialised or technical skill, knowledge or expertise that is also required to be applied by him or her under his or her contract of services with the qualifying person or central hirer (as the case may be) — $20 per hour;\n(b)in any other case — $10 per hour."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Deduction for Expenditure for Services or Secondment to Institutions of a Public Character) Rules 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

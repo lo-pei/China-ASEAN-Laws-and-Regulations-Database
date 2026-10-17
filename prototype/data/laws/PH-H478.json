@@ -1,7 +1,7 @@
 {
  "id": "PH-H478",
  "title": {
-  "zh": null,
+  "zh": "授权美国政府或其任何机构的某些官员在菲律宾主持宣誓与证言的法案",
   "en": "An Act to Authorize Certain Officials of the Government of the United States or Any Agency Thereof to Administer Oaths and Affirmations in the Philippines",
   "orig": "An Act to Authorize Certain Officials of the Government of the United States or Any Agency Thereof to Administer Oaths and Affirmations in the Philippines"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 17, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize Certain Officials of the Government of the United States or Any Agency Thereof to Administer Oaths and Affirmations in the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

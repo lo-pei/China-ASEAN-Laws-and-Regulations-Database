@@ -1,7 +1,7 @@
 {
  "id": "PH-H4611",
  "title": {
-  "zh": null,
+  "zh": "修订第4404号共和国法（题为“规定司法部长办公室赦免与假释委员会官员与雇员的职责与资格、确定其人数与薪金”）第1条、第2条、第3条与第4条",
   "en": "An Act Amending Sections One, Two, Three and Four of Republic Act Numbered Four Thousand Four, Entitled \"An Act Prescribing the Duties and Qualifications, and Fixing the Number and Salaries of the Officials and Employees of the Board of Pardons and Parole in the Office of the Secretary of Justice",
   "orig": "An Act Amending Sections One, Two, Three and Four of Republic Act Numbered Four Thousand Four, Entitled \"An Act Prescribing the Duties and Qualifications, and Fixing the Number and Salaries of the Officials and Employees of the Board of Pardons and Parole in the Office of the Secretary of Justice"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted into law without Executive signature on August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Sections One, Two, Three and Four of Republic Act Numbered Four Thousand Four, Entitled \"An Act Prescribing the Duties and Qualifications, and Fixing the Number and Salaries of the Officials and Employees of the Board of Pardons and Parole in the Office of the Secretary of Justice",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

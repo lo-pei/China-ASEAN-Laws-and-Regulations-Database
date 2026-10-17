@@ -1,7 +1,7 @@
 {
  "id": "PH-H3724",
  "title": {
-  "zh": null,
+  "zh": "处罚扣留发放村在房地产税中百分之十分额的行为，为此修订第2370号共和国法（即《村宪章》）的法案",
   "en": "An Act Punishing the Withholding of the Release of the Ten Percent Share of the Barrio in Real Estate Taxes, Amending for the Purpose Republic Act Numbered Twenty-Three Hundred Seventy, Otherwise Known as the Barrio Charter",
   "orig": "An Act Punishing the Withholding of the Release of the Ten Percent Share of the Barrio in Real Estate Taxes, Amending for the Purpose Republic Act Numbered Twenty-Three Hundred Seventy, Otherwise Known as the Barrio Charter"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Punishing the Withholding of the Release of the Ten Percent Share of the Barrio in Real Estate Taxes, Amending for the Purpose Republic Act Numbered Twenty-Three Hundred Seventy, Otherwise Known as the Barrio Charter",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

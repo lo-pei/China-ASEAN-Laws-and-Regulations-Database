@@ -1,7 +1,7 @@
 {
  "id": "PH-H5757",
  "title": {
-  "zh": null,
+  "zh": "将阿尔拜省Ligao市镇拥有25张床位的Pioduran急诊医院扩建为50张床位的医院",
   "en": "An Act Expanding the Pioduran Emergency Hospital, With a Twenty-five-bed Capacity, in the Municipality of Ligao, Province of Albay, Into a Fifty-bed Capacity Hospital",
   "orig": "An Act Expanding the Pioduran Emergency Hospital, With a Twenty-five-bed Capacity, in the Municipality of Ligao, Province of Albay, Into a Fifty-bed Capacity Hospital"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Expanding the Pioduran Emergency Hospital, With a Twenty-five-bed Capacity, in the Municipality of Ligao, Province of Albay, Into a Fifty-bed Capacity Hospital",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

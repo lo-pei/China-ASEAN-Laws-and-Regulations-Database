@@ -1,7 +1,7 @@
 {
  "id": "SG-H229",
  "title": {
-  "zh": null,
+  "zh": "董事的委任",
   "en": "Appointment of Directors",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Widows’ and Orphans’ Pension Act\n(Chapter 350, Section 2)\nAppointment of Directors\nN 2\nG.N. No. S 39/1964\nREVISED EDITION 1990\n(25th March 1992)\n[21st February 1964]\nThe Minister for Finance has, under section 2 of the Widows’ and Orphans’ Pension Act, appointed the following persons to be Directors to carry out the provisions of the Act:\nThe Solicitor-General (Chairman);\nThe Deputy Secretary, Ministry of Finance; and\nThe Deputy Secretary, Ministry of Community Development."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Directors",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

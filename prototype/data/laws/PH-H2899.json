@@ -1,7 +1,7 @@
 {
  "id": "PH-H2899",
  "title": {
-  "zh": null,
+  "zh": "关于豁免人民政府宅地与住房公司缴纳一切税捐、关税、费用及其他收费的法案",
   "en": "An Act to Exempt the People’s Homesite and Housing Corporation from the Payment of All Taxes, Duties, Fees and Other Charges",
   "orig": "An Act to Exempt the People’s Homesite and Housing Corporation from the Payment of All Taxes, Duties, Fees and Other Charges"
  },
@@ -80,5 +80,11 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1962."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act to Exempt the People’s Homesite and Housing Corporation from the Payment of All Taxes, Duties, Fees and Other Charges",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

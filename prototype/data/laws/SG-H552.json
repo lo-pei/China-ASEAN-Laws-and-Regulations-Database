@@ -1,7 +1,7 @@
 {
  "id": "SG-H552",
  "title": {
-  "zh": null,
+  "zh": "中央公积金规则 1988",
   "en": "Central Provident Fund Rules 1988",
   "orig": null
  },
@@ -368,5 +368,13 @@
     "en": "26. The Board may send or make available to any employer or platform operator any form, document or information under these Rules in electronic form and by electronic means."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund Rules 1988",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

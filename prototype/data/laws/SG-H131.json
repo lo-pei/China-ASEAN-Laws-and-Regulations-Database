@@ -1,7 +1,7 @@
 {
  "id": "SG-H131",
  "title": {
-  "zh": null,
+  "zh": "穆斯林法管理（指定穆斯林社团）公告 2024",
   "en": "Administration of Muslim Law (Prescribed Muslim Societies) Notification 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 7(2) of the Act, the following Muslim societies are prescribed:\n(a)Al Wehdah Al Arabiah Bi Singhafura (Arabs’ Association Singapore, The);\n(b)ASSOCIATION OF MUSLIM LAWYERS;\n(c)ASSOCIATION OF MUSLIM PROFESSIONALS;\n(d)Federation of Indian Muslims;\n(e)Lembaga Biasiswa Kenangan Maulud (Prophet Muhammad’s Birthday Memorial Scholarship Fund Board);\n(f)Muhammadiyah Association;\n(g)Muslim Converts’ Association of Singapore;\n(h)Muslim Financial Planning Association;\n(i)Muslim Healthcare Professionals Association;\n(j)Muslim Missionary Society, Singapore, The;\n(k)MUSLIMIN TRUST FUND ASSOCIATION;\n(l)PEGUAM;\n(m)PERDAUS;\n(n)Persatuan Pemudi Islam Singapura (PPIS);\n(o)Persatuan Ulama dan Guru‑Guru Agama Islam (Singapura) (Singapore Islamic Scholars and Religious Teachers Association);\n(p)PERTAPIS Education and Welfare Centre;\n(q)SINGAPORE MALAY TEACHERS UNION;\n(r)Singapore Pakistani Association;\n(s)YAYASAN MENDAKI."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Administration of Muslim Law (Prescribed Muslim Societies) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9526",
  "title": {
-  "zh": null,
+  "zh": "将新比斯开省 Bayombong 退伍军人地区医院床位由两百（200）张增至五百（500）张并提升其服务与设施的法案",
   "en": "An Act Increasing the Bed Capacity of Veterans Regional Hospital in Bayombong, Nueva Vizcaya From Two Hundred (200) to Five Hundred (500), Upgrading its Services, Facilities and...",
   "orig": "An Act Increasing the Bed Capacity of Veterans Regional Hospital in Bayombong, Nueva Vizcaya From Two Hundred (200) to Five Hundred (500), Upgrading its Services, Facilities and..."
  },
@@ -111,5 +111,13 @@
     "en": "This Act shall effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of Veterans Regional Hospital in Bayombong, Nueva Vizcaya From Two Hundred (200) to Five Hundred (500), Upgrading its Services, Facilities and...",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

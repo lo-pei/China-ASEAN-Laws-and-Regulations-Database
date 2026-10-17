@@ -1,7 +1,7 @@
 {
  "id": "PH-H672",
  "title": {
-  "zh": null,
+  "zh": "规定东米萨米斯省、阿古桑省与新怡诗夏省的契约登记官分别兼任卡加延-德奥罗市、武端市与卡巴纳图安市的契约登记官，但以该等市继续为上述各省首府为限的法案",
   "en": "An Act Providing That the Registers of Deeds of the Provinces of Misamis Oriental, Agusan and Nueva Ecija Shall Be the Ex Officio Registers of Deeds for the Cities of Cagayan De Oro, Butuan and Cabanatuan, Respectively, While Said Cities Continue to Be the Capitals of Said Provinces",
   "orig": "An Act Providing That the Registers of Deeds of the Provinces of Misamis Oriental, Agusan and Nueva Ecija Shall Be the Ex Officio Registers of Deeds for the Cities of Cagayan De Oro, Butuan and Cabanatuan, Respectively, While Said Cities Continue to Be the Capitals of Said Provinces"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 14, 1952."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing That the Registers of Deeds of the Provinces of Misamis Oriental, Agusan and Nueva Ecija Shall Be the Ex Officio Registers of Deeds for the Cities of Cagayan De Oro, Butuan and Cabanatuan, Respectively, While Said Cities Continue to Be the Capitals of Said Provinces",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

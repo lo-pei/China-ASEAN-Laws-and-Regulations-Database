@@ -1,7 +1,7 @@
 {
  "id": "PH-H9677",
  "title": {
-  "zh": null,
+  "zh": "通过要求使用更大、清晰可读且带颜色标识的车牌与识别标记，防止并处罚利用摩托车实施犯罪并为其他目的法案",
   "en": "An Act Preventing and Penalizing the Use of Motorcycles in the Commission of Crimes By Requiring Bigger, Readable and Color-Coded Number Plates and Identification Marks, and for Other Purposes",
   "orig": "An Act Preventing and Penalizing the Use of Motorcycles in the Commission of Crimes By Requiring Bigger, Readable and Color-Coded Number Plates and Identification Marks, and for Other Purposes"
  },
@@ -251,14 +251,23 @@
    }
   },
   {
-   "id": "PH-H9677-A21_2",
+   "id": "PH-H9677-A21-d2",
    "no": 21,
    "noLabel": {
     "en": "Section 21."
    },
    "text": {
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following the completion of its publication either in the Official Gazette or in a newspaper of general circulation in the Philippines."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Preventing and Penalizing the Use of Motorcycles in the Commission of Crimes By Requiring Bigger, Readable and Color-Coded Number Plates and Identification Marks, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

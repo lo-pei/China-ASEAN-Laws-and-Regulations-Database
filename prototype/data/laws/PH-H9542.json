@@ -1,7 +1,7 @@
 {
  "id": "PH-H9542",
  "title": {
-  "zh": null,
+  "zh": "将苏丹库达拉特省Tacurong市Upper Katungal描笼涯的Tacurong国立中学的Upper Katungal附属校分离，改设为独立的同名国立中学，并为此拨付所需经费",
   "en": "An Act Separating the Tacurong National High School - Upper Katungal Annex in Barangay Upper Katungal, Tacurong City, Province of Sultan Kudarat From the Tacurong National High School, Converting it Into an Independent National High School to Be Known as Upper Katungal National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Tacurong National High School - Upper Katungal Annex in Barangay Upper Katungal, Tacurong City, Province of Sultan Kudarat From the Tacurong National High School, Converting it Into an Independent National High School to Be Known as Upper Katungal National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Tacurong National High School - Upper Katungal Annex in Barangay Upper Katungal, Tacurong City, Province of Sultan Kudarat From the Tacurong National High School, Converting it Into an Independent National High School to Be Known as Upper Katungal National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

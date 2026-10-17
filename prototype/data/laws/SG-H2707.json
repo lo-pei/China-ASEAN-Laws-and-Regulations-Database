@@ -1,7 +1,7 @@
 {
  "id": "SG-H2707",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 4 号）命令 2020",
   "en": "Infrastructure Protection (Protected Places) (No. 4) Order 2020",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nChief Executive Officer,\nTemasek Life Sciences Laboratory Limited\nTEMASEK LIFE SCIENCES LABORATORY LIMITED (A/BSL3)\nAll that area comprised in Land Lot 5112L (Pt.) in Mukim No. 3 occupied by “TEMASEK LIFE SCIENCES LABORATORY LIMITED (A/BSL3)” containing an area of about 85.67 square metres and bounded approximately as follows:\nCommencing at the northernmost corner at a point 30,717.204 metres North and 21,817.985 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n30,717.204\n21,817.985\n30,710.799\n21,820.257\n30,706.560\n21,808.454\n30,713.020\n21,806.161\nto the point of commencement.\nThe boundaries of “TEMASEK LIFE SCIENCES LABORATORY LIMITED (A/BSL3)” are more particularly delineated in the Survey Plan No. F7443‑1 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 4) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

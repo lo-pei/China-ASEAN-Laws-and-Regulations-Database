@@ -1,7 +1,7 @@
 {
  "id": "SG-H309",
  "title": {
-  "zh": null,
+  "zh": "卖据（费用）规则",
   "en": "Bills of Sale (Fees) Rules",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following fees are prescribed in respect of bills of sale:\n(a)\nOn filing a bill of sale and declaration therewith\n$5\n(b)\nOn filing any document to which item (a) does not apply\n$5\n(c)\nOn filing a declaration of re-registration of a bill of sale\n$5\n(d)\nOn writing a memorandum of satisfaction\n$5\n(e)\nFor attesting and explaining a bill of sale\n$5\n(f)\nFor office copies or extracts therefrom\n(i) $1 plus 30 cents per page if search is involved; or\n(ii) 30 cents per page if no search is required\n(g)\nFor searching register\n$1\n(h)\nFor inspecting a bill of sale\n$1\n(i)\nFor making in the Registry a copy of a bill of sale for registration\n$5\n(j)\nFor preparing in the Registry a declaration for renewal of registration of a bill of sale (section 14 (2))\n$5"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Bills of Sale (Fees) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

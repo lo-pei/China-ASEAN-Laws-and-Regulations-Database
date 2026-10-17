@@ -1,7 +1,7 @@
 {
  "id": "SG-H326",
  "title": {
-  "zh": null,
+  "zh": "地界与测量图法 1998",
   "en": "Boundaries and Survey Maps Act 1998",
   "orig": null
  },
@@ -390,5 +390,13 @@
     "en": "22. All prescribed fees collected for the purposes of this Act must be paid into the funds of the Authority.\n[18"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Boundaries and Survey Maps Act 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

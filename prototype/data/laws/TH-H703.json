@@ -1,7 +1,7 @@
 {
  "id": "TH-H703",
  "title": {
-  "zh": null,
+  "zh": "投资促进法，佛历 2520（1977）",
   "en": "INVESTMENT PROMOTION ACT, B.E. 2520 (1977)",
   "orig": "พระราชบัญญัติส่งเสริมการลงทุน พ.ศ. 2520"
  },
@@ -909,5 +909,13 @@
     "th": "มาตรา ๑๐๙ ในมาตรา ๔ มาตรา ๕ และมาตรา ๑๓ แห่งพระราชบัญญัติส่งเสริมการลงทุน พ.ศ. ๒๕๒๐ ให้แก้ไขคำว่า “นายกรัฐมนตรี” เป็น “รัฐมนตรีว่าการกระทรวงอุตสาหกรรม”"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "INVESTMENT PROMOTION ACT, B.E. 2520 (1977)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

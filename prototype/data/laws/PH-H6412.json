@@ -1,7 +1,7 @@
 {
  "id": "PH-H6412",
  "title": {
-  "zh": null,
+  "zh": "将南阿古桑 Bunawan 的南阿古桑国立农学院改设为国立学院，名称为南阿古桑农业技术国立学院，并为此拨款的法案",
   "en": "An Act Converting the Southern Agusan National Agriculture College of Bunawan, Agusan Del Sur, Into a State College, to Be Known as the Agusan Del Sur State College of Agriculture and Technology, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Southern Agusan National Agriculture College of Bunawan, Agusan Del Sur, Into a State College, to Be Known as the Agusan Del Sur State College of Agriculture and Technology, and Appropriating Funds Therefor"
  },
@@ -312,5 +312,13 @@
     "en": "This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Southern Agusan National Agriculture College of Bunawan, Agusan Del Sur, Into a State College, to Be Known as the Agusan Del Sur State College of Agriculture and Technology, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1641",
  "title": {
-  "zh": null,
+  "zh": "政府医院（费用）（废止）规则 2005",
   "en": "Government Hospitals (Fees) (Revocation) Rules 2005",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Government Hospitals (Fees) Rules (R 1) are revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Government Hospitals (Fees) (Revocation) Rules 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

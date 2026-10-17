@@ -1,7 +1,7 @@
 {
  "id": "SG-H671",
  "title": {
-  "zh": null,
+  "zh": "合作社（第 97 条下的豁免）（第 5 号）命令 2012",
   "en": "Co-operative Societies (Exemption under Section 97) (No. 5) Order 2012",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nPart I\nEntities Holding Shares In\nNtuc First Campus Co‑operative Ltd\n1.Chemical Industries Employees’ Union\n2.ExxonMobil Singapore Employees Union\n3.Food, Drinks and Allied Workers’ Union\n4.Housing and Development Board Staff Union\n5.Keppel Fels Employees’ Union\n6.Metal Industries Workers’ Union\n6A.National Trades Union Congress\n[S 701/2012 wef 31/12/2012]\n7.National Transport Workers’ Union\n8.Sembawang Shipyard Employees Union\n9.Singapore Airlines Staff Union\n10.Singapore Airport Terminal Services Workers’ Union\n11.Singapore Bank Employees’ Union\n12.Singapore Industrial & Services Employees’ Union\n12A.Singapore Labour Foundation\n[S 701/2012 wef 31/12/2012]\n13.Singapore Manual & Mercantile Workers’ Union\n14.Singapore Maritime Officers’ Union\n15.Singapore Organization of Seamen\n16.Singapore Port Workers Union\n17.Singapore Shell Employees Union\n18.Singapore Stevedores’ Union\n19.Singapore Tamil Teachers’ Union\n20.Singapore Teachers’ Union\n21.Union of Telecoms Employees of Singapore\n22.United Workers of Electronics & Electrical Industries\n23.United Workers of Petroleum Industry\nPart II\nEntities Holding Shares In\nNtuc Foodfare Co‑operative Ltd\n1.National Trades Union Congress\n[S 701/2012 wef 31/12/2012]\n2.Singapore Maritime Officers’ Union\n[S 701/2012 wef 31/12/2012]\n3.Singapore Organization of Seamen\n[S 701/2012 wef 31/12/2012]\n4.United Workers of Electronics & Electrical Industries\n[S 701/2012 wef 31/12/2012]\nPart III\nEntites Holding Shares In\nNtuc Income Insurance Co‑operative Ltd\n1.Air Transport Executive Staff Union\n2.Amalgamated Union of Public Daily Rated Workers\n3.Amalgamated Union of Public Employees\n4.Amalgamated Union of Statutory Board Employees\n5.Attractions, Resorts & Entertainment Union\n6.Building Construction and Timber Employees’ Union\n7.Chemical Industries Employees’ Union\n8.DBS Staff Union\n9.dnata Singapore Staff Union\n10.ExxonMobil Singapore Employees Union\n11.Food, Drinks and Allied Workers’ Union\n12.Healthcare Services Employees Union\n13.Housing and Development Board Staff Union\n14.Inland Revenue Authority of Singapore Staff Union\n15.Keppel Employees Union\n16.Keppel Fels Employees’ Union\n17.Metal Industries Workers’ Union\n17A.National Trades Union Congress\n[S 701/2012 wef 31/12/2012]\n18.National Transport Workers’ Union\n19.Natsteel Employees’ Union\n20.Ngee Ann Polytechnic Academic Staff Union\n21.Port Officers Union\n22.Public Utilities Board Employees’ Union\n23.Sembawang Shipyard Employees Union\n24.Shipbuilding and Marine Engineering Employees’ Union\n25.SIA Engineering Company Engineers & Executives Union\n26.Singapore Airlines Staff Union\n27.Singapore Airport Terminal Services Workers’ Union\n28.Singapore Bank Employees’ Union\n29.Singapore Bank Officers’ Association\n30.Singapore Chinese Teachers’ Union\n31.Singapore Government Shorthand Writers’ Association\n32.Singapore Industrial & Services Employees’ Union\n33.Singapore Insurance Employees’ Union\n34.Singapore Interpreters’ and Translators’ Union\n34A.Singapore Labour Foundation\n[S 701/2012 wef 31/12/2012]\n35.Singapore Malay Teachers’ Union\n36.Singapore Manual & Mercantile Workers’ Union\n37.Singapore Maritime Officers’ Union\n38.Singapore National Union of Journalists\n39.Singapore Organization of Seamen\n40.Singapore Port Workers Union\n41.Singapore Press Holdings Employees’ Union\n42.Singapore Refining Company Employees’ Union\n43.Singapore Shell Employees Union\n44.Singapore Stevedores’ Union\n45.Singapore Tamil Teachers’ Union\n46.Singapore Teachers’ Union\n47.Singapore Technologies Electronics Employees’ Union\n48.Singapore Union of Broadcasting Employees\n49.Staff Union of NTUC-ARU\n50.Singapore Urban Redevelopment Authority Workers’ Union\n51.SPRING Singapore Staff Union\n52.Times Publishing Group Employees’ Union\n53.Union of ITE Training Staff\n54.Union of Power and Gas Employees\n55.Union of Security Employees\n56.Union of Telecoms Employees of Singapore\n57.United Workers of Electronics & Electrical Industries\n58.United Workers of Petroleum Industry."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (Exemption under Section 97) (No. 5) Order 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

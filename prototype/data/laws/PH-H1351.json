@@ -1,7 +1,7 @@
 {
  "id": "PH-H1351",
  "title": {
-  "zh": null,
+  "zh": "规范人血的采集、加工与销售以及血库与血液加工实验室的设立与运营的法案",
   "en": "An Act Regulating the Collection, Processing and Sale of Human Blood, and the Establishment and Operation of Blood Banks and Blood Processing Laboratories",
   "orig": "An Act Regulating the Collection, Processing and Sale of Human Blood, and the Establishment and Operation of Blood Banks and Blood Processing Laboratories"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Regulating the Collection, Processing and Sale of Human Blood, and the Establishment and Operation of Blood Banks and Blood Processing Laboratories",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

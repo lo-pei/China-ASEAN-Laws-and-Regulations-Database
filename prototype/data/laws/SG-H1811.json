@@ -1,7 +1,7 @@
 {
  "id": "SG-H1811",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（电梯翻新工程分区）命令 2024",
   "en": "Housing and Development (Precincts for Lift Upgrading Works) Order 2024",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Hougang Avenue 2 and Hougang Avenue 8, comprised in Lot number 06369T in Mukim 22 and on which Apartment Block 634 is erected, and which is more particularly delineated in Plan 1.\nPlan 1\nHOUGANG AveNUE 8\n2. All that part of the housing estate of the Board at Hougang Street 51 comprised in Lot number 08519P in Mukim 22 and on which Apartment Block 562 is erected, and which is more particularly delineated in Plan 2.\nPlan 2\nHOUGANG STreet 51"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Lift Upgrading Works) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

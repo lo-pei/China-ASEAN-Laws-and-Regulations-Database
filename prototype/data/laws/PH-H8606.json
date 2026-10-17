@@ -1,7 +1,7 @@
 {
  "id": "PH-H8606",
  "title": {
-  "zh": null,
+  "zh": "2001年电力工业改革法",
   "en": "Eleciric Power Industry Reform Act of 2001",
   "orig": "An Act Extending the Implementation of the Lifeline Rate, Amending for the Purpose Section 73 of Republic Act Numbered Ninety-One Thirty-Six, Otherwise Known as the \"Eleciric Power Industry Reform Act of 2001\""
  },
@@ -80,5 +80,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Eleciric Power Industry Reform Act of 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

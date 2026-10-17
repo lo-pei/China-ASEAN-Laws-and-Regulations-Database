@@ -1,7 +1,7 @@
 {
  "id": "SG-H924",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典（赔偿令）规则 2024",
   "en": "Criminal Procedure Code (Compensation Order) Rules 2024",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. For the purposes of section 359(6) of the Code, a “representative”, in relation to a person mentioned in section 359(1)(a) of the Code (called in this rule the victim), means —\n(a)where the victim is below 18 years of age and is not a person who lacks capacity within the meaning of section 4 of the Mental Capacity Act 2008 — the victim’s parent or legal guardian;\n(b)where the victim is a person who lacks capacity within the meaning of section 4 of the Mental Capacity Act 2008 and —\n(i)where the victim is 21 years of age or above — the victim’s deputy or donee within the meaning of section 2(1) of that Act; or\n(ii)where the victim is below 21 years of age —\n(A)the victim’s deputy who is empowered to make decisions on the victim’s behalf under section 20 read with section 21 of that Act; or\n(B)in the absence of such a deputy — the victim’s parent or legal guardian; or\n(c)where the victim is deceased and —\n(i)where a grant of probate or letter of administration has been made in respect of the estate of the victim — an administrator or executor of the estate, as the case may be; or\n(ii)where no such grant of probate or letter of administration has been made — the victim’s next‑of‑kin."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure Code (Compensation Order) Rules 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

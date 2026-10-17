@@ -1,7 +1,7 @@
 {
  "id": "SG-H1731",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（门诊医疗服务）条例 2023",
   "en": "Healthcare Services (Outpatient Medical Service) Regulations 2023",
   "orig": null
  },
@@ -666,5 +666,13 @@
     "en": "SECOND SCHEDULE\nRegulation 5(2)\nFirst column\nSecond column\nSpecified service\nProhibited service delivery modes\n1.Blood transfusion service\n(a)At temporary premises\n(b)Using a conveyance\n(c)By remote provision\n2.Electrocardiography stress testing service\n(a)At any temporary premises\n(b)By remote provision\n3.Endoscopy service\nBy remote provision\n4.Liposuction\n(a)At temporary premises\n(b)Using a conveyance\n(c)By remote provision\n5.Proton beam therapy\n(a)At temporary premises\n(b)Using a conveyance\n(c)By remote provision\n6.Radiation oncology and radiation therapy\n(a)At temporary premises\n(b)Using a conveyance\n(c)By remote provision\n[S 840/2023 wef 18/12/2023]\nIn this Schedule, “electrocardiography stress testing service”, “endoscopy service”, “liposuction”, “proton beam therapy” and “radiation oncology and radiation therapy” have the meanings given by paragraph 2 of the First Schedule."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (Outpatient Medical Service) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

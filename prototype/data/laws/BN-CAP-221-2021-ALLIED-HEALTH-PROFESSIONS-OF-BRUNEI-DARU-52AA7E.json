@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-221-2021-ALLIED-HEALTH-PROFESSIONS-OF-BRUNEI-DARU-52AA7E",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰国联合医疗专业法",
   "en": "ALLIED HEALTH PROFESSIONS OF BRUNEI DARUSSALAM ACT",
   "orig": null
  },
@@ -906,5 +906,13 @@
     "en": "(1) Subject to the provisions of this Act, the Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make such regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration thereof.\n\n(2) Without affecting the generality of subsection (I), regulations may be made to -\n\n(a) provide for the duties of the Registrar;\n\n(6) provide for different registration requirements for different Brztnei Darussalam 71\n\n(c) provide for the form of the registers and the mode in which they shall be kept;\n\n(d) regulate the grant and renewal of practising certificates, including prescribing conditions for such grant and renewal;\n\n(e) regulate the procedure of, and the conduct of any proceedings before, a Complaints Committee, Disciplinary Panel, Health Committee, any other committee or professional board appointed by Cf) provide for payment of fees to any member of a Complaints Committee, Disciplinary Panel, Health Committee, any other committee or professional board appointed by the Council;\n\n(g) regulate the removal of and restoration of names to a register;\n\n(h) regulate the professional practice, etiquette, conduct and discipline of registered allied health professionals;\n\n(i) prescribe the forms necessary for the administration of this Act; 0) prescribe the fees and other charges for the purposes of this Act:\n\n(k) prescribe acts or activities which a registered allied health professional may perform only on satisfaction of specified\n\n(I) provide that a contravention of any regulation made under this Act is an offence and provide for penalties not exceeding a fine of $5,000, imprisonment for a term not exceeding 6 months or both; and (nz) prescribe such other matter as are necessary or authorised to be prescribed under this Act. B. L.R.O. L.2021 72 CAP. 221 Brunei Darussalam (sections 2. 3,25(l)(c) and 26(l)(c)) No. Titles Audiologist is trained to assess, evaluate. manage and (re)habilitate people of all ages with hearing loss, balance and related 1 . Audiology ~ ~ d i ~ disorders. Audiologist l ~ ~ i ~ ~ dispenses and fits hearing aids and other assistive listening devices, administers tests of balance to evaluate dizziness. and provide hearing (re)habilitation. Clinical Psychologist diagnoses and treats behavioural, mental and emotional disorders. Clinical Psychologist develops treatment plans, provides counselling and interprets psychological tests to determine individual's personality,"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ALLIED HEALTH PROFESSIONS OF BRUNEI DARUSSALAM ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

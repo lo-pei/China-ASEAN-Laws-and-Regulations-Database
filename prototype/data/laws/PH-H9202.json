@@ -1,7 +1,7 @@
 {
  "id": "PH-H9202",
  "title": {
-  "zh": null,
+  "zh": "将 Interactive Broadcast Media 公司在菲律宾的广播特许权续展二十五（25）年，自 2021 年 9 月 5 日起生效的法案",
   "en": "An Act Renewing the Franchise Granted to the Interactive Broadcast Media, Inc. to Another Twenty-Five (25) Years That Shall Take Effect on September 5, 2021",
   "orig": "An Act Renewing the Franchise Granted to the Interactive Broadcast Media, Inc. to Another Twenty-Five (25) Years That Shall Take Effect on September 5, 2021"
  },
@@ -130,5 +130,13 @@
     "en": "House of Representatives\nApproved: MAR 07 2016"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing the Franchise Granted to the Interactive Broadcast Media, Inc. to Another Twenty-Five (25) Years That Shall Take Effect on September 5, 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

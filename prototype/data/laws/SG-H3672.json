@@ -1,7 +1,7 @@
 {
  "id": "SG-H3672",
  "title": {
-  "zh": null,
+  "zh": "社团法 1966",
   "en": "Societies Act 1966",
   "orig": null
  },
@@ -620,5 +620,13 @@
     "en": "THE SCHEDULE\nSections 4(1) and 33A\nSpecified societies\n1. Any society whose object, purpose or activity, whether primary or otherwise, is to —\n(a)represent;\n(b)promote any cause or interest of; or\n(c)discuss any issue relating to,\nany religion, ethnic group, clan, nationality or a class of persons defined by reference to their gender or sexual orientation.\n2. Any political association.\n3. Any society which uses the word “National” or “Singapore” in its name, except where the word “Singapore” or any abbreviation thereof is used to indicate the society’s place of registration.\n4. Any society whose object, purpose or activity, whether primary or otherwise, is to —\n(a)represent persons who advocate;\n(b)promote; or\n(c)discuss any issue relating to,\nany civil or political right (including human rights, environmental rights and animal rights).\n5. Any society whose object, purpose or activity, whether primary or otherwise, is to discuss any matter relating to the governance of the Singapore society.\n6. Any society whose object, purpose or activity, whether primary or otherwise, is to promote or discuss the use or status of any language.\n7. Any society which is formed under the instruction of a foreign government or an organisation affiliated to a foreign government.\n8. Any society which is formed under the instruction of a foreign organisation or is affiliated to a foreign organisation or whose major source of funding is from outside Singapore, but does not include the Rotaract Club, the Rotary Club, the Toastmasters Club and the Lions Club.\n9. Any alumni of an educational institution that is not established in Singapore.\n10. Any society which has an office bearer who —\n(a)was previously holding office in a society that was dissolved under section 24 and the order for dissolution was made less than 3 years ago;\n(b)while being a member of any society, was convicted for an offence involving the unlawful expenditure of the funds of the society; or\n(c)has been previously declared in writing by the Minister to be unfit to act as an officer of a society.\n11. Any society whose object, purpose or activity, whether primary or otherwise, is to promote, discuss any issue relating to, or to provide training in any form of pugilistic or martial arts.\n12. Any society whose object, purpose or activity, whether primary or otherwise, is related to —\n(a)the manufacture, cultivating, smoking, administering, consuming, trafficking, importing or exporting of, or any other activity involving (whether directly or indirectly), a controlled drug or psychoactive substance as defined in section 2 of the Misuse of Drugs Act 1973;\n[S 476/2024 wef 01/06/2024]\n(b)the playing of a game of chance, a game that involves both an element of chance and an element of skill or a game that is presented as involving an element of chance, whether for money or money’s worth;\n(c)the making or accepting of a bet, whether for money or money’s worth, on the outcome of a competition, an event or a process;\n(d)a game, method, device, scheme or competition by which a prize, whether consisting of money or money’s worth, is distributed or allotted in any manner depending upon or to be determined by chance or lot, whether the game, method, device, scheme or competition is held, drawn, exercised or managed inside or outside Singapore; or\n(e)the provision of sexual services for payment or reward.\n13. Any society whose object, purpose or activity is to —\n(a)commit; or\n(b)promote or facilitate the commission of,\nan offence under any written law or an act that would constitute an offence under a written law if committed in Singapore.\n[S 961/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Societies Act 1966",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

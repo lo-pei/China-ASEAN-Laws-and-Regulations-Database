@@ -1,7 +1,7 @@
 {
  "id": "PH-H1694",
  "title": {
-  "zh": null,
+  "zh": "修订第409号共和国法（经第1201号与第1571号共和国法修正）第38条与第38-A条并为其他目的法案",
   "en": "An Act to Amend Sections Thirty-Eight and Thirty-Eight-A of Republic Act Numbered Four Hundred Nine, as Amended by Republic Acts Numbered One Thousand Two Hundred One and One Thousand Five Hundred Seventy-One, and for Other Purposes",
   "orig": "An Act to Amend Sections Thirty-Eight and Thirty-Eight-A of Republic Act Numbered Four Hundred Nine, as Amended by Republic Acts Numbered One Thousand Two Hundred One and One Thousand Five Hundred Seventy-One, and for Other Purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Thirty-Eight and Thirty-Eight-A of Republic Act Numbered Four Hundred Nine, as Amended by Republic Acts Numbered One Thousand Two Hundred One and One Thousand Five Hundred Seventy-One, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

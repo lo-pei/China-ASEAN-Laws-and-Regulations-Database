@@ -1,7 +1,7 @@
 {
  "id": "SG-H912",
  "title": {
-  "zh": null,
+  "zh": "刑事司法改革（保留与过渡规定）条例 2018",
   "en": "Criminal Justice Reform (Saving and Transitional Provisions) Regulations 2018",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) Sections 2(g) and 56 of the Act do not apply to an accused in relation to an offence to be tried in the High Court, if the accused was charged with that offence before 17 September 2018.\n(2) Despite sections 50(a), 58, 59 and 61 of the Act, sections 212(1), 224(1), 225(1) and 227(3) and (4) of the Code as in force immediately before 17 September 2018 continue to apply to an accused in relation to an offence to be tried in the High Court, if the accused was charged with that offence before that date."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Justice Reform (Saving and Transitional Provisions) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

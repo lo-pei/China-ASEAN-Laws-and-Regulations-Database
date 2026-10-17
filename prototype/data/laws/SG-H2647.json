@@ -1,7 +1,7 @@
 {
  "id": "SG-H2647",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护区）命令 2025",
   "en": "Infrastructure Protection (Protected Areas) Order 2025",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Area\nChief Executive Officer,\nChangi Airport Group\n(Singapore) Pte. Ltd.\nSELETAR AIRPORT — LANDSIDE\nAll that area comprised in part of Lot 5170X in Mukim No. 20 occupied by “SELETAR AIRPORT — LANDSIDE” containing an area of about 5,063 square metres and bounded approximately as follows:\nCommencing at a point 44,585.619 metres North and 31,494.028 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n44,585.619\n31,494.028\n44,574.881\n31,479.413\n44,558.355\n31,473.859\n44,557.253\n31,476.614\n44,554.342\n31,475.573\n44,556.404\n31,469.956\n44,559.919\n31,471.134\n44,562.269\n31,466.177\n44,571.251\n31,454.085\n44,573.680\n31,450.762\n44,574.557\n31,450.877\n44,575.508\n31,448.843\n44,587.675\n31,429.825\n44,590.087\n31,425.446\n44,571.361\n31,416.086\n44,606.320\n31,352.572\n44,604.770\n31,343.416\n44,607.069\n31,338.475\n44,635.653\n31,355.515\n44,625.681\n31,373.990\n44,602.510\n31,416.918\n44,599.027\n31,423.327\n44,607.480\n31,428.716\n44,610.861\n31,430.872\n44,629.630\n31,442.840\n44,593.159\n31,499.122\n44,586.645\n31,494.677\nto the point of commencement.\nThe boundaries of “SELETAR AIRPORT — LANDSIDE” are more particularly delineated in the Survey Plan No. SB‑50LS‑LCSE‑S18022‑021 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Areas) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

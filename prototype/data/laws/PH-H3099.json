@@ -1,7 +1,7 @@
 {
  "id": "PH-H3099",
  "title": {
-  "zh": null,
+  "zh": "通过修订第 537 号共和国法（即 Quezon 市修正宪章）若干条款，设立市各部门助理首长职位并统一 Quezon 市官员薪金的法案",
   "en": "An Act Creating the Positions of Assistant Chiefs of Departments and Standardizing the Salaries of the City Officials of Quezon City, by Amending Certain Sections of Republic Act Numbered Five Hundred and Thirty-Seven, Otherwise Known as the Revised Charter of Quezon City",
   "orig": "An Act Creating the Positions of Assistant Chiefs of Departments and Standardizing the Salaries of the City Officials of Quezon City, by Amending Certain Sections of Republic Act Numbered Five Hundred and Thirty-Seven, Otherwise Known as the Revised Charter of Quezon City"
  },
@@ -180,5 +180,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Positions of Assistant Chiefs of Departments and Standardizing the Salaries of the City Officials of Quezon City, by Amending Certain Sections of Republic Act Numbered Five Hundred and Thirty-Seven, Otherwise Known as the Revised Charter of Quezon City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

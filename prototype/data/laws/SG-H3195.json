@@ -1,7 +1,7 @@
 {
  "id": "SG-H3195",
  "title": {
-  "zh": null,
+  "zh": "商船（给养与淡水）条例",
   "en": "Merchant Shipping (Provisions and Water) Regulations",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7.—(1) The shipowner and the master of a ship shall ensure that the organisation and equipment of the catering department permits the preparation and service of adequate, varied, balanced and nutritious meals in hygienic conditions.\n[S 993/2024 wef 23/12/2024]\n(2) In paragraph (1), “catering department” means the galley, mess rooms and any other area on board the ship which is intended or used for the storage or preparation of provisions for crew members or the service of meals to crew members.\n[S 182/2014 wef 01/04/2014]\n[G.N. No. S 50/96]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Merchant Shipping (Provisions and Water) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

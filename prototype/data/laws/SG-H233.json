@@ -1,7 +1,7 @@
 {
  "id": "SG-H233",
  "title": {
-  "zh": null,
+  "zh": "制造商注册官与副注册官的委任",
   "en": "Appointment of Registrar and Deputy Registrar of Manufacturers",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Control of Manufacture Act\n(Chapter 57, Section 4)\nAppointment of Registrar and Deputy Registrar of Manufacturers\nN 1\nG.N. No. S 605/1990\nREVISED EDITION 1990\n(25th March 1992)\n[1st February 1990]\nThe Minister of State charged with the responsibility of the Minister for Trade and Industry has appointed —\n(a)the Chairman of the Economic Development Board to be the Registrar of Manufacturers; and\n(b)the Chief Executive Officer of the Economic Development Board to be the Deputy Registrar of Manufacturers."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Registrar and Deputy Registrar of Manufacturers",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

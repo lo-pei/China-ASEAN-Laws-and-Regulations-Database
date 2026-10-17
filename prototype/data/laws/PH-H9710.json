@@ -1,7 +1,7 @@
 {
  "id": "PH-H9710",
  "title": {
-  "zh": null,
+  "zh": "将宿务省曼达维市 Eversley Childs 疗养院医院综合医院服务床位由五十（50）张增至两百（200）张，并将其更名为 Eversley Childs 疗养与综合医院并拨款",
   "en": "An Act Increasing the Bed Capacity for General Hospital Services of the Eversley Childs Sanitarium Hospital in Mandaue City, Province of Cebu, from Fifty (50) Beds to Two Hundred (200) Beds, Renaming the Hospital as the Eversley Childs Sanitarium and General Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity for General Hospital Services of the Eversley Childs Sanitarium Hospital in Mandaue City, Province of Cebu, from Fifty (50) Beds to Two Hundred (200) Beds, Renaming the Hospital as the Eversley Childs Sanitarium and General Hospital, and Appropriating Funds Therefor"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity for General Hospital Services of the Eversley Childs Sanitarium Hospital in Mandaue City, Province of Cebu, from Fifty (50) Beds to Two Hundred (200) Beds, Renaming the Hospital as the Eversley Childs Sanitarium and General Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

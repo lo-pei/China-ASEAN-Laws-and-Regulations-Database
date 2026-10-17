@@ -1,7 +1,7 @@
 {
  "id": "PH-H6898",
  "title": {
-  "zh": null,
+  "zh": "1997 年传统与替代医学法",
   "en": "Traditional and Alternative Medicine Act (TAMA) of 1997",
   "orig": "Traditional and Alternative Medicine Act (TAMA) of 1997 An Act Creating the Philippine Institute of Traditional and Alternative Health Care (PITAHC) to Accelerate the Development of Traditional and Alternative Health Care in the Philippines, Providing for a Traditional and Alternative Health Care Development Fund and for other purposes"
  },
@@ -323,5 +323,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Traditional and Alternative Medicine Act (TAMA) of 1997",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

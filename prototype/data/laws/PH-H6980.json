@@ -1,7 +1,7 @@
 {
  "id": "PH-H6980",
  "title": {
-  "zh": null,
+  "zh": "禁止在公私营街道、公路或高速公路上注册与运营方向盘右置车辆，规定处罚并为其他目的法案",
   "en": "An Act Banning the Registration and Operation of Vehicles with Right-Hand Steering Wheel in any Private or Public Street, Road or Highway, Providing Penalties Therefor and for other purposes",
   "orig": "An Act Banning the Registration and Operation of Vehicles with Right-Hand Steering Wheel in any Private or Public Street, Road or Highway, Providing Penalties Therefor and for other purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect immediately after its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Banning the Registration and Operation of Vehicles with Right-Hand Steering Wheel in any Private or Public Street, Road or Highway, Providing Penalties Therefor and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

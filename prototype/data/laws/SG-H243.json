@@ -1,7 +1,7 @@
 {
  "id": "SG-H243",
  "title": {
-  "zh": null,
+  "zh": "认可金融公司（合并）公告",
   "en": "Approved Finance Companies (Consolidation) Notification",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nPart I\nRules\n1. The Legal Profession (Deposit Interest) Rules (R 5).\n2. The Legal Profession (Solicitors’ Accounts) Rules (R 8).\n3. The Legal Profession (Solicitors’ Trust Accounts) Rules (R 9).\n4. The Legal Profession (Accountant’s Report) Rules (R 10).\nPart II\nFinance Companies\n1. Hong Leong Finance Limited.\n[S 447/99 —12.10.99]\n2. Singapura Finance Limited1.\n1 Singapura Building Society Limited was renamed Singapura Finance Limited with effect from 12th June 2002.\n[S 447/99 - 12.10.99]\n3. Sing Investments & Finance Limited.\n[2683/2001 - 27.9.2001]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Approved Finance Companies (Consolidation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

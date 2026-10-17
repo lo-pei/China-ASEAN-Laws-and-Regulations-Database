@@ -1,7 +1,7 @@
 {
  "id": "SG-H3171",
  "title": {
-  "zh": null,
+  "zh": "商船（第 222 条豁免）公告",
   "en": "Merchant Shipping (Exemption under Section 222) Notification",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Merchant Shipping Act\n(Chapter 179, Section 222)\nMerchant Shipping (Exemption under Section 222) Notification\nN 1\nG.N. No. S 177/1967\nREVISED EDITION 1990\n(25th March 1992)\n[18th August 1967]\nThe Deputy Prime Minister has exempted from the provisions of sections 218 to 236 of the Act any ship which leaves Singapore under tow by another vessel, subject to the following conditions:\n(a)there shall be no human life on board such vessel;\n(b)no cargo shall be carried by such vessel; and\n(c)at the time port clearance is requested there shall be produced to the Director of Marine a valid certificate of seaworthiness. The certificate shall, in addition to a statement that the vessel is in a fit condition to undertake the voyage at that season of the year, certify that the towing arrangements are adequate and the vessel is fitted with satisfactory long burning navigation lights."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Merchant Shipping (Exemption under Section 222) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

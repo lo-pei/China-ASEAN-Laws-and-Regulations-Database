@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-254-2022-ANIMAL-DISEASES-AND-QUARANTINE-ACT",
  "title": {
-  "zh": null,
+  "zh": "动物疾病与检疫法",
   "en": "ANIMAL DISEASES AND QUARANTINE ACT",
   "orig": null
  },
@@ -1132,5 +1132,13 @@
     "en": "The following subsidiary legislation in Chapter 47 are repealed —\n\n(a) the Quarantine and Prevention of Disease (Animals)\n\n(b) the Quarantine and Prevention of Diseases (Appointment of Officers) Regulations;\n\n(c) the Quarantine and Prevention of Disease (Exportation of Animals) Regulations."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ANIMAL DISEASES AND QUARANTINE ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

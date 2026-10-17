@@ -1,7 +1,7 @@
 {
  "id": "BN-S-10-2011-WHOLESOME-MEAT-FEES-REGULATIONS-2011",
  "title": {
-  "zh": null,
+  "zh": "卫生肉类费用条例 2011",
   "en": "WHOLESOME MEAT FEES REGULATIONS 2011",
   "orig": null
  },
@@ -115,5 +115,13 @@
     "en": "Permit to slaughter goats, Section 11(1)/b} $15 per permit plus sheep and small ruminants fee of $5 per animal other than at licensed slaughtered slaughtering centre\n\nFEES FOR EXPORT HEALTH CERTIFICATES Description of licence or permit Provision under which Fee payable licence or permit is issued Health certificate for export of Regulation 8 of the $10 per certificate meat product Wholesome Meat (Import, Export and Transhipment) Regulations, 2011\n\nGENERAL Description of matter in respect of which fee is payable Fee payable For a certified true copy of any licence, permit, certificate $5.00 or other document issued by the Director under the Order or any of the regulations, or for the endorsement of certification by the Director of any document used in connection with the export of the meat products Made this 28th. day of Safar, 1432 Hijriah corresponding to the 2nd. day of February, 2011.\n\nPERIN ORANG KAYA SERI UTAMA DATO SERI SETIA\n\nA WANG HAJI YAHYA BIN BEGAWAN MUDIM\n\nDATO PADUKA HAJI BAKAR Minister of Industry and Primary Resources, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "WHOLESOME MEAT FEES REGULATIONS 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

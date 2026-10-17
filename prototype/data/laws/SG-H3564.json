@@ -1,7 +1,7 @@
 {
  "id": "SG-H3564",
  "title": {
-  "zh": null,
+  "zh": "平台工人（优先支付最高款额）命令 2024",
   "en": "Platform Workers (Maximum Amount Payable in Priority) Order 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The prescribed amount for the purposes of sections 16(3), 17(3) and 18(3) of the Act is $13,000 for each platform worker."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Platform Workers (Maximum Amount Payable in Priority) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3228",
  "title": {
-  "zh": null,
+  "zh": "杂项罪行（公共秩序与妨扰）（规定武器与装备）公告 2009",
   "en": "Miscellaneous Offences (Public Order and Nuisance) (Prescribed Weapons and Equipment) Notification 2009",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. A transport leg brace is specified for the purposes of section 22A(1) of the Act, except a transport leg brace under the charge and control of the Ministry of Social and Family Development for the sole purpose of use as a restraining device on any resident of the Singapore Boys’ Home or the Singapore Girls’ Home of 12 years of age or older and who is likely to escape if unrestrained, during the escort of such a resident.\n[S 527/2012 wef 01/11/2012]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Miscellaneous Offences (Public Order and Nuisance) (Prescribed Weapons and Equipment) Notification 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

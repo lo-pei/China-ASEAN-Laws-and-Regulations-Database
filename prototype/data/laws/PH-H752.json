@@ -1,7 +1,7 @@
 {
  "id": "PH-H752",
  "title": {
-  "zh": null,
+  "zh": "规定最高法院与上诉法院法官退休、由政府服务保险系统执行本规定并废止第 536 号联邦法的法案",
   "en": "An Act to Provide for the Retirement of Justices of the Supreme Court and of the Court of Appeals, for the Enforcement of the Provisions Hereof by the Government Service Insurance System, and to Repeal Commonwealth Act Numbered Five Hundred and Thirty-Six",
   "orig": "An Act to Provide for the Retirement of Justices of the Supreme Court and of the Court of Appeals, for the Enforcement of the Provisions Hereof by the Government Service Insurance System, and to Repeal Commonwealth Act Numbered Five Hundred and Thirty-Six"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1953"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Retirement of Justices of the Supreme Court and of the Court of Appeals, for the Enforcement of the Provisions Hereof by the Government Service Insurance System, and to Repeal Commonwealth Act Numbered Five Hundred and Thirty-Six",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

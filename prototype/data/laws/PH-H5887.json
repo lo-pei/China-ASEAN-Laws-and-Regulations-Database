@@ -1,7 +1,7 @@
 {
  "id": "PH-H5887",
  "title": {
-  "zh": null,
+  "zh": "进一步修订经修正的第 3591 号共和国法（即菲律宾存款保险公司宪章）并为其他目的法案",
   "en": "An Act Further Amending Republic Act Numbered Three Thousand Five Hundred Ninety-one, As Amended, Otherwise Known As the Charter of the Philippine Deposit Insurance Corporation, and For Other Purposes",
   "orig": "An Act Further Amending Republic Act Numbered Three Thousand Five Hundred Ninety-one, As Amended, Otherwise Known As the Charter of the Philippine Deposit Insurance Corporation, and For Other Purposes"
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H5887-A2_2",
+   "id": "PH-H5887-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Section 2-A of the same Act is hereby amended to read as follows:\n\"Section 2-A. The President of the Corporation shall be the Chief Executive thereof and his salary shall be fixed by the President of the Philippines at a sum commensurate to the importance and responsibility attached to the position. The sum total of the salary of the President and the allowances and other emoluments which the Board of Directors may grant him shall be the ceiling for fixing the salary, allowances and other emoluments of all other personnel in the Corporation.\n\"The powers and duties of the President of the Corporation are:\n\"(a) To prepare the agenda for the meeting of the Board and to submit for the consideration of the Board the policies and measures which he believes to be necessary to carry out the purposes and provisions of this Act;\n\"(b To execute and administer the policies and measures approved by the Board;\n\"(c) To direct and supervise the operations and internal administration of the Corporation in accordance with the policies established by the Board. The President may delegate certain of his administrative responsibilities to other officers of the Corporation, subject to the rules and regulations of the Board;\n\"(d) To represent the Corporation, upon prior authority of the Board, in all dealings with other offices, agencies and instrumentalities of the Government and with all other persons or entities, public or private, whether domestic, foreign or international;\n\"(e) To authorize, with his signature, upon prior authority of the Board, contracts entered into by the Corporation, notes and securities issued by the Corporation, and the annual reports, balance sheets, profits and loss statements, and other documents of the Corporation. The signature of the President may be in facsimile wherever appropriate;\n\"(f) To represent the Corporation, either personally or through counsel, in all legal proceedings or actions;\n\"(g) To delegate, with the prior approval of the Board of Directors, his power to represent the Corporation, as provided in subsections (d) and (f) of this Section, to other officers of the Corporation; and \"(h) To exercise such other powers as may be vested in him by the Board.\n\"The President shall be assisted by a Vice President Vice and other officials whose appointment and removal for cause shall be approved and whose salary shall be fixed by the Board of Directors upon recommendation of the President of the Corporation. During the absence or temporary incapacity of the President, or in case of vacancy or permanent incapacity and pending the appointment of a new President of the Corporation by the President of the Philippines, the Vice President shall act as President and discharge the duties and responsibilities thereof.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5887-A3",
@@ -230,5 +231,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amending Republic Act Numbered Three Thousand Five Hundred Ninety-one, As Amended, Otherwise Known As the Charter of the Philippine Deposit Insurance Corporation, and For Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

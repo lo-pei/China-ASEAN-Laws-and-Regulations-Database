@@ -1,0 +1,117 @@
+{
+ "id": "BN-CAP-73-2003-MONOPOLIES-ACT",
+ "title": {
+  "zh": "垄断法",
+  "en": "MONOPOLIES ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p23",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to make provisions for the granting of certain monopolies in"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 6,
+ "chars": 2796,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-73-2003-ED-MONOPOLIES-ACT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-73-2003-ED-MONOPOLIES-ACT.pdf》（7 页），本次切分 6 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-73-2003-MONOPOLIES-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Monopolies Act. Power to grant monopoly."
+   }
+  },
+  {
+   "id": "BN-CAP-73-2003-MONOPOLIES-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "It shall be lawful for His Majesty the Sultan and Yang Di-Pertuan to grant by licence in the form set out in the Second Schedule to any person or body of persons or any company desirous of or formed for any or all of the purposes specified in the First Schedule the exclusive right in such behalf and the full enjoyment of all benefits and profits arising therefrom for such length of time and within such limits and upon all such length of time and within such limits and upon all such other special terms and conditions as shall in each case be deemed proper to prescribe in such licence."
+   }
+  },
+  {
+   "id": "BN-CAP-73-2003-MONOPOLIES-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Any person or persons or company not being licensed as provided by section 2 and trading or attempting to trade in such manner as encroaches or is likely to encroach upon or interfere in any way with the exclusive right and full enjoyment of the kinds therein referred to shall for each offence be liable on conviction to imprisonment for 5 years and a fine and to forfeiture of the plant, if any, used for the purpose of such trading or attempt. Power to make rules."
+   }
+  },
+  {
+   "id": "BN-CAP-73-2003-MONOPOLIES-ACT-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "His Majesty the Sultan and Yang Di-Pertuan may from time to time make and, when made, vary or cancel rules for more effectually carrying out the purposes and provisions of this Act and may prescribe penalties for any breach thereof. Amendment of First Schedule."
+   }
+  },
+  {
+   "id": "BN-CAP-73-2003-MONOPOLIES-ACT-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "His Majesty the Sultan and Yang Di-Pertuan may by public notification at any time add to the purposes specified in the First Schedule to Interpretation of purposes specified in First Schedule. [S 10/88]"
+   }
+  },
+  {
+   "id": "BN-CAP-73-2003-MONOPOLIES-ACT-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "heading": {
+    "en": "—PURPOSES REFERRED TO IN"
+   },
+   "text": {
+    "en": "His Majesty the Sultan and Yang Di-Pertuan shall have exclusively jurisdiction to determine any question whether any matter or thing falls within any of the purposes specified in the First Schedule.\n\nPURPOSES REFERRED TO IN SECTION 2 To acquire the exclusive right of Collecting within and exporting from Brunei Darussalam the skins of crocodiles, pythons and monitor lizards; To acquire the exclusive right of dealing in Brunei Darussalam including the exclusive right to manufacture, sell, purchase, import into and export from Brunei Darussalam all kinds of firearms and ammunition and all kinds of defence equipment and armaments including military aircraft, vessels and vehicles for the Royal Brunei Armed Forces, the Royal Brunei Police Force and all other lawfully established security forces of the Government of His Majesty the Sultan and Yang Di-Pertuan. This is to certify that of is hereby licensed under the Monopolies Act (Chapter 73) to [describe one or other of the purposes specified in the First Schedule] for a period of months/years (continued) from the day of , 20 , within the local limits of and subject to the following special terms and conditions, namely . Dated this day of , 20 ."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MONOPOLIES ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

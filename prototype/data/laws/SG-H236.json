@@ -1,7 +1,7 @@
 {
  "id": "SG-H236",
  "title": {
-  "zh": null,
+  "zh": "监狱长任命",
   "en": "Appointment of Superintendents of Prisons",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nWith effect from\n1.[Cancelled by G.N. No. 647/2005, wef 01/04/2005].\n2.Superintendent, Kaki Bukit Centre.\n4th January 1994\n3.Superintendent, Lloyd Leas Community Supervision Centre.\n12th February 2000\n[S 56/2014 wef 03/02/2014]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Superintendents of Prisons",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

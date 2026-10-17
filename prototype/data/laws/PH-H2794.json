@@ -1,7 +1,7 @@
 {
  "id": "PH-H2794",
  "title": {
-  "zh": null,
+  "zh": "在伊莎贝拉省Ilagan市镇伊莎贝拉省立医院设立、维护与运营护理与助产学校并授权为此拨款的法案",
   "en": "An Act to Establish, Maintain and Operate a School of Nursing and Midwifery in the Isabela Provincial Hospital Located in the Municipality of Ilagan, Province of Isabela, and to Authorize the Appropriation of Funds Therefor",
   "orig": "An Act to Establish, Maintain and Operate a School of Nursing and Midwifery in the Isabela Provincial Hospital Located in the Municipality of Ilagan, Province of Isabela, and to Authorize the Appropriation of Funds Therefor"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish, Maintain and Operate a School of Nursing and Midwifery in the Isabela Provincial Hospital Located in the Municipality of Ilagan, Province of Isabela, and to Authorize the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

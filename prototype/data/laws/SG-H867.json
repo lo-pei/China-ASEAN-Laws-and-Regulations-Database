@@ -1,7 +1,7 @@
 {
  "id": "SG-H867",
  "title": {
-  "zh": null,
+  "zh": "腐蚀性与爆炸性物质及攻击性武器法 1958",
   "en": "Corrosive and Explosive Substances and Offensive Weapons Act 1958",
   "orig": null
  },
@@ -214,5 +214,13 @@
     "en": "SECOND SCHEDULE\n[Deleted by Act 3 of 2021 wef 01/07/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Corrosive and Explosive Substances and Offensive Weapons Act 1958",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

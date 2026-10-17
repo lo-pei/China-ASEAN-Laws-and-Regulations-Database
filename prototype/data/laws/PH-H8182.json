@@ -1,7 +1,7 @@
 {
  "id": "PH-H8182",
  "title": {
-  "zh": null,
+  "zh": "将 Iligan 市从北拉瑙省第一立法选区分离，构成 Iligan 市单一立法选区的法案",
   "en": "An Act Separating the City of Iligan from the First Legislative District of the Province of Lanao Del Norte to Constitute the Lone Legislative District of the City of Iligan",
   "orig": "An Act Separating the City of Iligan from the First Legislative District of the Province of Lanao Del Norte to Constitute the Lone Legislative District of the City of Iligan"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the City of Iligan from the First Legislative District of the Province of Lanao Del Norte to Constitute the Lone Legislative District of the City of Iligan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H567",
  "title": {
-  "zh": null,
+  "zh": "外国人登记法 1950",
   "en": "The Alien Registration Act of 1950.",
   "orig": "An Act to Amend Sections One, Ten and Twelve of Republic Act Numbered Five Hundred and Sixty-Two, Otherwise Known as \"The Alien Registration Act of 1950.\""
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, September 15, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Alien Registration Act of 1950.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

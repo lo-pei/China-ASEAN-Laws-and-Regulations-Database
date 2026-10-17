@@ -1,7 +1,7 @@
 {
  "id": "SG-H2585",
  "title": {
-  "zh": null,
+  "zh": "所得税（银行或金融公司业务转让）命令 2011",
   "en": "Income Tax (Transfer of Undertaking by Bank or Finance Company) Order 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. It is hereby declared that, subject to the conditions specified in the letter of approval dated 24th January 2011, the collective impairment in the accounts of Raiffeisen Zentralbank Osterreich AG-Singapore Branch which have been transferred to Raiffeisen Bank International AG-Singapore Branch —\n(a)shall not be deemed under section 14I(2)(b) of the Act to be a trading receipt of Raiffeisen Zentralbank Osterreich AG-Singapore Branch; and\n(b)shall for the purposes of section 14I of the Act be treated as having been allowed to Raiffeisen Bank International AG-Singapore Branch as a deduction under that section."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Transfer of Undertaking by Bank or Finance Company) Order 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

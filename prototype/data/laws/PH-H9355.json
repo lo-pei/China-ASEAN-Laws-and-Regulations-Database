@@ -1,7 +1,7 @@
 {
  "id": "PH-H9355",
  "title": {
-  "zh": null,
+  "zh": "宣布 Camiguin 省旅游发展区、组建 Camiguin 旅游理事会并规定支持该省旅游发展的法案",
   "en": "An Act Declaring Tourism Development Areas in the Province of Camiguin, Organizing the Camiguin Tourism Council and Mandating Support for Tourism Development in the Province of Camiguin",
   "orig": "An Act Declaring Tourism Development Areas in the Province of Camiguin, Organizing the Camiguin Tourism Council and Mandating Support for Tourism Development in the Province of Camiguin"
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring Tourism Development Areas in the Province of Camiguin, Organizing the Camiguin Tourism Council and Mandating Support for Tourism Development in the Province of Camiguin",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

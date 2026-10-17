@@ -1,7 +1,7 @@
 {
  "id": "SG-H856",
  "title": {
-  "zh": null,
+  "zh": "验尸官（验尸法院电子提交）条例 2015",
   "en": "Coroners (Electronic Filing for Coroners’ Courts) Regulations 2015",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "12.—(1) Affidavits, conditioned statements and other documentary evidence filed in the Coroners’ Courts using the electronic filing service may be used in any proceedings to which these Regulations apply to the same extent and for the same purposes as paper affidavits, paper conditioned statements or other documentary evidence filed in the Coroners’ Courts.\n(2) Where an affidavit is to be filed in the Coroners’ Courts using the electronic filing service, the affidavit must comply with all of the following requirements:\n(a)the affidavit must be sworn in the usual way in which the deponent signs the original paper affidavit;\n(b)a true and complete electronic image of the original paper affidavit must be created;\n(c)the original paper affidavit must be retained, for a period of 7 years after the electronic image is filed, by the party who filed that electronic image.\n(3) Despite paragraph (2)(c), if the original paper affidavit is lost or destroyed or for any other reason becomes unavailable during the period mentioned in that paragraph, a Coroner may grant permission for the electronic image of the original paper affidavit that had been filed in the Coroners’ Courts using the electronic filing service to be used in the proceedings for which the original paper affidavit was filed, or in any other proceedings.\n(4) Paragraphs (2)(b) and (c) and (3) apply to conditioned statements to the same extent and in like manner as they apply to affidavits.\n(5) Where other documentary evidence is to be filed in the Coroners’ Courts using the electronic filing service, the documentary evidence must comply with both the following requirements:\n(a)a true and complete electronic copy of the original documentary evidence must be created;\n(b)the original documentary evidence must be retained for a period of 7 years after the electronic copy is filed, by the party who filed that electronic copy.\n(6) Despite paragraph (5)(b), if the original documentary evidence is lost or destroyed or for any other reason becomes unavailable during the period mentioned in that paragraph, a Coroner may grant permission for the electronic copy of the original documentary evidence that had been filed in the Coroners’ Courts using the electronic filing service to be used in the proceedings for which the original documentary evidence was filed, or in any other proceedings."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Coroners (Electronic Filing for Coroners’ Courts) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

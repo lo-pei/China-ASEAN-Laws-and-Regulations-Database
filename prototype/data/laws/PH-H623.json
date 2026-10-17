@@ -1,7 +1,7 @@
 {
  "id": "PH-H623",
  "title": {
-  "zh": null,
+  "zh": "接纳美国马里兰州联邦参议员Millard E. Tydings与亚拉巴马州第一选区前众议员John Mcduffie为菲律宾之子，并授予其菲律宾公民一切权利、特权与优遇的法案",
   "en": "An Act Adopting the Honorable Millard E. Tydings, United States Senator From Maryland and the Honorable John Mcduffie, Former Member of the House of Representatives of the United States From the First District of Alabama, as Sons of the Philippines, and Conferring Upon Them All the Rights, Privileges and Prerogatives of Philippine Citizenship",
   "orig": "An Act Adopting the Honorable Millard E. Tydings, United States Senator From Maryland and the Honorable John Mcduffie, Former Member of the House of Representatives of the United States From the First District of Alabama, as Sons of the Philippines, and Conferring Upon Them All the Rights, Privileges and Prerogatives of Philippine Citizenship"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 8, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Adopting the Honorable Millard E. Tydings, United States Senator From Maryland and the Honorable John Mcduffie, Former Member of the House of Representatives of the United States From the First District of Alabama, as Sons of the Philippines, and Conferring Upon Them All the Rights, Privileges and Prerogatives of Philippine Citizenship",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

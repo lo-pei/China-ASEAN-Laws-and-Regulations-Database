@@ -1,7 +1,7 @@
 {
  "id": "PH-H6354",
  "title": {
-  "zh": null,
+  "zh": "规定将伊洛伊洛省 San Enrique 市镇的中学改设为该镇理工学院的附属中学（名为 Dominador Abang 纪念附属中学）并拨款",
   "en": "An Act Providing for the Conversion of the San Enrique Barangay Garita Bayanihan High School Into An Extension High School of the San Enrique Polytechnic College to Be Known as the \"San Enrique Polytechnic College Dominador Abang Memorial Extension High School\" in the Municipality of San Enrique, Province of Iloilo, Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act Providing for the Conversion of the San Enrique Barangay Garita Bayanihan High School Into An Extension High School of the San Enrique Polytechnic College to Be Known as the \"San Enrique Polytechnic College Dominador Abang Memorial Extension High School\" in the Municipality of San Enrique, Province of Iloilo, Appropriating Funds Therefor and for Other Purposes"
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Conversion of the San Enrique Barangay Garita Bayanihan High School Into An Extension High School of the San Enrique Polytechnic College to Be Known as the \"San Enrique Polytechnic College Dominador Abang Memorial Extension High School\" in the Municipality of San Enrique, Province of Iloilo, Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

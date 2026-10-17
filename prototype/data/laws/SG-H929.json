@@ -1,7 +1,7 @@
 {
  "id": "SG-H929",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼程序法典（以电子方式认罪）条例 2010",
   "en": "Criminal Procedure Code (Pleading Guilty by Electronic Means) Regulations 2010",
   "orig": null
  },
@@ -126,5 +126,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nOffences for which an accused\nmay plead guilty by electronic means\n1. Any offence referred to in section 6A(2), 11A(3), 15, 23A(5), 29(1), (2) or (4), 74(3), 118(6), 121(6)(b) or 126(5) of the Road Traffic Act (Cap. 276).\n2. Any offence referred to in section 5(6), 10(3), 12(4), 20(2), 24(3), 26(4), 27(3), 34E(4), 35(3), 36(5), 39(1), 63(4), 73(2), 77(5), 78(3), 87(3), 94(2), 97(1), (2) or (3), 113(6), 115(8), 120(4) (read with 120(1)), 121(6)(a), 122, 123A(1A), 126(1) or (2) or 127(5) of the Road Traffic Act which is a first offence.\n3. Any offence under section 72 of the Road Traffic Act (Cap. 276, 1997 Ed.) as in force immediately before 10th September 2001.\n4. Any offence under any rules made under the Road Traffic Act which is punishable by fine or by imprisonment not exceeding 3 months or by both.\n5. Any offence referred to in section 5(1), 10, 13(2) or (3), 15(4) or (5), 17 or 19 of the Parking Places Act (Cap. 214).\n6. Any offence under section 5(4) of the Parking Places Act as in force immediately before 1st April 2005.\n7. Any offence under any rules made under the Parking Places Act which is punishable by fine or by imprisonment not exceeding 3 months or by both."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure Code (Pleading Guilty by Electronic Means) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

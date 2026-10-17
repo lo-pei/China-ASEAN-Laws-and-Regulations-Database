@@ -1,7 +1,7 @@
 {
  "id": "SG-H3675",
  "title": {
-  "zh": null,
+  "zh": "印花税法 1929",
   "en": "Stamp Duties Act 1929",
   "orig": null
  },
@@ -1477,5 +1477,13 @@
     "en": "FIFTH SCHEDULE\nSections 37(7) and 78(1)\nValuation fees\nSubject matter of instrument\nFee\n1.Any immovable property —\n$100\n(a)sold under Part 4 of the Housing and Development Act 1959; or\n(b)falling under Part 4B of the Housing and Development Act 1959 and treated as sold under Part 4 of that Act\n2.Any strata unit comprised in a strata title plan registered under the Land Titles (Strata) Act 1967\n$300\n3.Any of the following immovable property not falling under item 1 or 2:\n$1,070\n(a)factory;\n(b)landed dwelling house;\n(c)shophouse;\n(d)warehouse\n4.Any —\n$2,290\n(a)immovable property not falling under item 1, 2 or 3; or\n(b)vacant land,\nwhere the Chief Valuer determines the value of such immovable property or vacant land to be $20 million or less\n5.Any —\n$5,255\n(a)immovable property not falling under item 1, 2 or 3; or\n(b)vacant land,\nwhere the Chief Valuer determines the value of such immovable property or vacant land to be more than $20 million\nNote:\n(1) In item 3 —\n“factory” excludes any factory which is used wholly or in part for any of the following purposes or industries:\n(a)aeronautical;\n(b)concrete batching;\n(c)district cooling;\n(d)petrochemical;\n(e)pharmaceutical;\n(f)power supply generation;\n(g)ship building or ship repair;\n(h)temporary storage or transit of oil, gas or liquid;\n(i)treatment of sewage, water or waste;\n(j)water fabrication;\n“landed dwelling house” means any of the following types of houses used wholly or mainly for the purpose of human habitation:\n(a)detached house;\n(b)semi‑detached house;\n(c)terrace house;\n“warehouse” means a building where storage is the principal use and where no business is transacted other than incidentally to such storage.\n[S 304/2016; S 555/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Stamp Duties Act 1929",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

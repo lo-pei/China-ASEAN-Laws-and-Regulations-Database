@@ -1,7 +1,7 @@
 {
  "id": "SG-H1994",
  "title": {
-  "zh": null,
+  "zh": "所得税（雇佣收益或利润——住所内的家具与装置）条例 2015",
   "en": "Income Tax (Employment Gains or Profits — Furniture and Fittings in Place of Residence) Regulations 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 10(2) of the Act —\n(a)if an employer provides furniture and fittings in a place of residence, the value of the furniture and fittings is deemed to be 50% of the annual value of the place of residence; and\n(b)if an employer does not provide any furniture in the place of residence, the value of fittings provided by the employer in the place of residence is deemed to be 40% of the annual value of the place of residence."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Employment Gains or Profits — Furniture and Fittings in Place of Residence) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

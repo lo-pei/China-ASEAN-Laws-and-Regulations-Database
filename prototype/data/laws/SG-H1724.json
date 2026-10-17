@@ -1,7 +1,7 @@
 {
  "id": "SG-H1724",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（一般）条例 2021",
   "en": "Healthcare Services (General) Regulations 2021",
   "orig": null
  },
@@ -1043,5 +1043,13 @@
     "en": "FIFTH SCHEDULE\nRegulation 49\nProtected terms and names\n1.Accident and emergency\n2.Accident and Emergency Department\n3.Acute hospital\n4.Ambulatory surgical centre\n5.Assisted reproduction\n6.Blood bank\n7.Blood transfusion\n8.Cell, tissue and gene therapy\n9.Clinical genetic and genomic service\n10.Clinical laboratory\n11.Community hospital\n12.Dental clinic\n13.Diagnostic imaging laboratory\n14.Egg bank\n15.Embryo bank\n16.Emergency ambulance\n17.Emergency department\n18.General hospital\n19.General practitioner clinic\n20.Health screening\n21.Hospice\n22.Inpatient hospice\n23.Inpatient palliative care\n24.In-vitro fertilisation\n25.Maternity home\n26.Medical and surgery\n27.Medical centre\n28.Medical clinic\n29.Medical clinic and surgery\n30.Medical laboratory\n31.Medical transport\n32.Mobile medicine\n33.National Centre\n34.National Specialty Centre\n35.Nuclear medicine assay\n36.Nuclear medicine imaging\n37.Nuclear medicine therapy\n38.Nursing home\n39.Oocyte bank\n40.Organ transplant\n41.Polyclinic\n42.Proton beam therapy\n43.Radiation oncology\n44.Radiology laboratory\n45.Renal dialysis centre\n46.Specialised interventional procedure\n47.Specialist centre\n48.Specialist clinic\n49.Sperm banking\n50.Surgical centre\n51.Telemedicine\n52.Tissue banking\n53.Urgent Care Centre\n54.Urgent Care Clinic\n55.X-ray laboratory\n56.Family physician\n[S 414/2023 wef 26/06/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (General) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

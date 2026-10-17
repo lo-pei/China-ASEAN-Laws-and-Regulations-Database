@@ -1,7 +1,7 @@
 {
  "id": "SG-H3075",
  "title": {
-  "zh": null,
+  "zh": "新加坡海事及港务管理局（复合罪行）条例 2021",
   "en": "Maritime and Port Authority of Singapore (Composition of Offences) Regulations 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences (other than a continuing offence) reasonably suspected to have been committed on or after 15 October 2021 are compoundable in accordance with section 102 of the Act:\n(a)an offence under section 10(3), 39, 44(3), 45(2), 46(4), 47(2), 50(1), 53(2), 97 or 115(2) of the Act;\n(b)an offence under regulation 43(5) or 78 of the Maritime and Port Authority of Singapore (Dangerous Goods, Petroleum and Explosives) Regulations 2005 (G.N. No. S 24/2005);\n(c)an offence under regulation 31, 38 or 40 of the Maritime and Port Authority of Singapore (Harbour Craft) Regulations (Rg 3);\n(d)an offence under regulation 12A(2), 12B(4), 19A(3) or 21(2) of the Maritime and Port Authority of Singapore (Harbour Craft Manning Licence Examination) Regulations (Rg 4);\n(e)an offence under regulation 39A(3), 48(2), 49 or 54 of the Maritime and Port Authority of Singapore (Pleasure Craft) Regulations (Rg 6);\n(f)an offence under regulation 3(7), 3A(3), 7(3), 9(4), 29(3), 45(3), 72(c) or 78 of the Maritime and Port Authority of Singapore (Port) Regulations (Rg 7);\n(g)an offence under regulation 9(3), 14(2), 19, 21(2), 23(2), 24(2) or 38(2) of the Maritime and Port Authority of Singapore (Registration and Employment of Seamen) Regulations (Rg 8)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Maritime and Port Authority of Singapore (Composition of Offences) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

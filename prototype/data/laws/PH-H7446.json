@@ -1,7 +1,7 @@
 {
  "id": "PH-H7446",
  "title": {
-  "zh": null,
+  "zh": "2000 年 Kitanglad 山脉保护区管理法",
   "en": "Mt. Kitanglad Range Protected Area Act of 2000",
   "orig": "Mt. Kitanglad Range Protected Area Act of 2000 An Act Declaring the Mt. Kitanglad Range in the Province of Bukidnon as a Protected Area and its Peripheral Areas as Buffer Zones, Providing for its Management and for other purposes"
  },
@@ -260,5 +260,13 @@
     "en": "Effectivity Clause. - This Act shall be translated in Filipino, Cebuano and Binukid. It shall be published once every week for three (3) consecutive weeks in a newspaper of general circulation readily available in the areas in and around the scope specified herein. It shall likewise be posted for the same three (3) weeks in the appropriate language in a conspicuous place in the provincial, municipal and barangay halls within the area as well as in three (3) other places frequented by the public. Fifteen (15) days after the last publication, this Act shall have full force and effect.\nApproved, November 9, 2000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Mt. Kitanglad Range Protected Area Act of 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

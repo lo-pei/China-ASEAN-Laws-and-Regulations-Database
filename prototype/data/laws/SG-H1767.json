@@ -1,7 +1,7 @@
 {
  "id": "SG-H1767",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（就罚款提出上诉）规则 2021",
   "en": "Housing and Development (Appeals against Financial Penalties) Rules 2021",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) The Minister may designate the Second Minister for National Development to hear and determine, in the Minister’s place, any appeal or a specific appeal, mentioned in rule 2.\n(2) A reference to the Minister in rules 2 and 3 includes a reference to the Second Minister designated under paragraph (1).\n[S 393/2026 wef 26/06/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Appeals against Financial Penalties) Rules 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

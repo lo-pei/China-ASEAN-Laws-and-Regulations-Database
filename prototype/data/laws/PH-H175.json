@@ -1,7 +1,7 @@
 {
  "id": "PH-H175",
  "title": {
-  "zh": null,
+  "zh": "废止授予美国公民、公司与协会权利的法律或法律条文，但影响依宪法已取得或依与美国条约、协定或公约已扩及的权利者除外的法案",
   "en": "An Act to Repeal Laws or Provisions of Laws Granting Rights to American Citizens, Corporations, and Associations, Unless They Affect Rights Already Vested Under the Constitution or Extended by Treaty, Agreement or Convention with the United States of America",
   "orig": "An Act to Repeal Laws or Provisions of Laws Granting Rights to American Citizens, Corporations, and Associations, Unless They Affect Rights Already Vested Under the Constitution or Extended by Treaty, Agreement or Convention with the United States of America"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: October 21, 1946."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Repeal Laws or Provisions of Laws Granting Rights to American Citizens, Corporations, and Associations, Unless They Affect Rights Already Vested Under the Constitution or Extended by Treaty, Agreement or Convention with the United States of America",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

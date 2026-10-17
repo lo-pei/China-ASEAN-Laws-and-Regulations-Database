@@ -1,7 +1,7 @@
 {
  "id": "PH-H7465",
  "title": {
-  "zh": null,
+  "zh": "授予 First Gas Holdings Corporation 在吕宋岛建设、安装、拥有、运营和维护天然气管道以输送和分配天然气的特许经营权法案",
   "en": "An Act Granting First Gas Holdings Corporation a Franchise to Construct, Install, Own, Operate and Maintain a Natural Gas Pipeline for the Transportation and Distribution of Natural Gas to Different Areas in the Island of Luzon",
   "orig": "An Act Granting First Gas Holdings Corporation a Franchise to Construct, Install, Own, Operate and Maintain a Natural Gas Pipeline for the Transportation and Distribution of Natural Gas to Different Areas in the Island of Luzon"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity.- This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting First Gas Holdings Corporation a Franchise to Construct, Install, Own, Operate and Maintain a Natural Gas Pipeline for the Transportation and Distribution of Natural Gas to Different Areas in the Island of Luzon",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

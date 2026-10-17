@@ -1,7 +1,7 @@
 {
  "id": "SG-H3160",
  "title": {
-  "zh": null,
+  "zh": "商船（认可组织）条例",
   "en": "Merchant Shipping (Authorised Organisations) Regulations",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. A certificate issued by an authorised organisation under the revoked Merchant Shipping (Authorised Organisations) Regulations (Rg 18, 1997 Ed.) or the cancelled Notification relating to Approved Organisations for Surveying Ships (N 2) shall continue in force for such period specified in the certificate or until it is cancelled in accordance with the provisions of the Act, as if these Regulations had not been enacted."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Merchant Shipping (Authorised Organisations) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4724",
  "title": {
-  "zh": null,
+  "zh": "修订设立Oroquieta市的第5518号共和国法第82条的法案",
   "en": "An Act Amending Section Eighty-Two of Republic Act Numbered Fifty-Five Hundred Eighteen, Creating the City of Oroquieta",
   "orig": "An Act Amending Section Eighty-Two of Republic Act Numbered Fifty-Five Hundred Eighteen, Creating the City of Oroquieta"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect as of January 1, 1970.\nApproved: August 31, 1970."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Eighty-Two of Republic Act Numbered Fifty-Five Hundred Eighteen, Creating the City of Oroquieta",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

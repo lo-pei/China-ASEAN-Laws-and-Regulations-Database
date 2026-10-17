@@ -1,7 +1,7 @@
 {
  "id": "PH-H5569",
  "title": {
-  "zh": null,
+  "zh": "界定并处罚掠夺罪的法案",
   "en": "An Act Defining and Penalizing the Crime of Plunder",
   "orig": "An Act Defining and Penalizing the Crime of Plunder"
  },
@@ -145,5 +145,13 @@
     "en": "Effectivity - This Act shall take effect after fifteen (15) days from its publication in the Official Gazette and in a newspaper of general circulation.\nApproved: July 12, 1991"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Defining and Penalizing the Crime of Plunder",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

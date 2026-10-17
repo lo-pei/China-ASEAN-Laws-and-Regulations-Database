@@ -1,7 +1,7 @@
 {
  "id": "PH-H10075",
  "title": {
-  "zh": null,
+  "zh": "1991 年外国投资法",
   "en": "Foreign Investments Act of 1991,",
   "orig": "An Act Promoting Foreign Investments, Amending Thereby Republic Act No. 7042, Otherwise Known as the \"Foreign Investments Act of 1991,\" as Amended and for Other Purposes."
  },
@@ -210,5 +210,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a newspaper of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Foreign Investments Act of 1991,",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

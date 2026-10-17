@@ -1,7 +1,7 @@
 {
  "id": "SG-H1068",
  "title": {
-  "zh": null,
+  "zh": "海关（估价）条例",
   "en": "Customs (Valuation) Regulations",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "12.—(1) This regulation applies to the conversion of a foreign currency into Singapore currency in order to determine the value of any imported goods for the purposes of levying customs duty or excise duty under the Act.\n(2) For the purposes of levying customs duty on any goods, the rate of exchange is the selling rate on the date of importation of the goods.\n(3) Subject to paragraph (4), for the purposes of levying excise duty on any goods, the rate of exchange is the selling rate on the date of the authorisation under regulation 11(2), 12(2) or 13(6) of the Customs Regulations (Rg 2) pursuant to which the goods are removed under those Regulations.\n(4) For the purposes of levying excise duty on any goods imported by post, the rate of exchange is the selling rate on the date on which excise duty is assessed by the proper officer of customs.\n(5) For the purposes of this regulation, the selling rate on any date is the selling rate in Singapore on that date, as notified by the Director-General in the manner determined by the Director-General.\n[S 873/2022 wef 11/11/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Customs (Valuation) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

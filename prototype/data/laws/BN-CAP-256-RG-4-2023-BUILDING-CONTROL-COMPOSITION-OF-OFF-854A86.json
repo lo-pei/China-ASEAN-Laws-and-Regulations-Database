@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-256-RG-4-2023-BUILDING-CONTROL-COMPOSITION-OF-OFF-854A86",
  "title": {
-  "zh": null,
+  "zh": "RG 4 2023 版建筑管制（罪行和解）条例",
   "en": "RG 4 2023 ED BUILDING CONTROL COMPOSITION OF OFFENCES REGULATIONS",
   "orig": null
  },
@@ -66,5 +66,13 @@
     "en": "The following offences may be compounded by the Authority in accordance with section 71 —\n\n(a) an offence under section 10(3), 11(6), 12(4) or (5), 13(10)(b) or (11), 14(7) or (9), 15(5), (6), (8) or (9), 17(2) or (3), 24(2), 31(5), 40(6), (9), (10) or (11), 43(3) or 57(3), other than a continuing offence under section 10(3), 11(6), 13(10)(b), 15(6) or (9), 24(2), 31(5), 40(6) or (10), 43(3) or 57(3);\n\n(b) an offence under regulation 29, 30, 32(1), 33(1), (2), (3), (4), (5) or (6), 34(1), (2), (3) or (4), 35, 36, 37, 38, 39(1) or (2), 41, 42A, 47(3), 48(4), 49(4), 50(2), 57 or 59 of the Building Control Regulations (Rg 1);\n\n(c) an offence under regulation 3(3), 5(3), 6(6), 7(3), 8 or 11(2) of the Building Control (Temporary Buildings) Regulations (Rg 2); and\n\n(d) an offence under regulation 12 of the Building Control (Advertisement, Billboard and Signboard) Regulations (Rg 3)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 4 2023 ED BUILDING CONTROL COMPOSITION OF OFFENCES REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

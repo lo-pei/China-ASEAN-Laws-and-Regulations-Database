@@ -1,7 +1,7 @@
 {
  "id": "PH-H9348",
  "title": {
-  "zh": null,
+  "zh": "将授予Bell电信菲律宾公司的特许经营权再延长二十五年，为此修订第7692号共和国法（授予Bell电信菲律宾公司在菲律宾全境安装、运营与维护电信系统并为其他目的）的法案",
   "en": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to Bell Telecommunication Philippines, Inc., Amending for the Purpose Republic Act No. 7692, Entitled “An Act Granting to Bell Telecommunication Philippines, Inc., a Franchise to Install, Operate and Maintain Telecommunications Systems Throughout the Philippines and for Other Purposes",
   "orig": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to Bell Telecommunication Philippines, Inc., Amending for the Purpose Republic Act No. 7692, Entitled “An Act Granting to Bell Telecommunication Philippines, Inc., a Franchise to Install, Operate and Maintain Telecommunications Systems Throughout the Philippines and for Other Purposes"
  },
@@ -71,5 +71,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to Bell Telecommunication Philippines, Inc., Amending for the Purpose Republic Act No. 7692, Entitled “An Act Granting to Bell Telecommunication Philippines, Inc., a Franchise to Install, Operate and Maintain Telecommunications Systems Throughout the Philippines and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

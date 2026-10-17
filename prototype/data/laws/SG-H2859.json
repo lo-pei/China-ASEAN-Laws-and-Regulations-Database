@@ -1,7 +1,7 @@
 {
  "id": "SG-H2859",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（IMF 新加坡区域培训学院）命令 2004",
   "en": "International Organisations (Immunities and Privileges) (IMF-Singapore Regional Training Institute) Order 2004",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) Subject to sub‑paragraphs (2), (3) and (4) and except insofar as in any particular case any privilege is waived by the IMF, every IMF professional staff enjoys, while exercising his or her functions as such, the like exemption or relief from taxes as is accorded to an envoy of a foreign sovereign Power accredited to the Republic of Singapore.\n(2) The right of an IMF professional staff to import for personal use, free of duty and other charges (other than charges for public utility services) applies —\n(a)in respect of furniture and effects — if the furniture and effects are imported within 6 months after the professional staff first takes up his or her post in Singapore; and\n(b)in respect of one motor vehicle — every 4 years.\n(3) Nothing in sub‑paragraph (1) is to be construed as exempting —\n(a)any IMF professional staff, other than the Director, from the payment of the foreign domestic worker levy or the requirement of a security bond for the employment of a foreign domestic worker under the Employment of Foreign Manpower Act 1990;\n(b)the Director from the payment of the foreign domestic worker levy or the requirement of a security bond in respect of more than one foreign domestic worker employed by him or her;\n(c)any IMF professional staff from goods and services tax under the Goods and Services Tax Act 1993 on the local consumption of goods and services;\n(d)any IMF professional staff, other than the Director, from property tax under the Property Tax Act 1960 or stamp duty under the Stamp Duties Act 1929 in respect of any tenancy agreement; or\n(e)any IMF professional staff from tax on utilities bills and telephone charges under the Statutory Boards (Taxable Services) Act 1968, or the water conservation tax under the Public Utilities (Water Conservation Tax) Order 2024.\n(4) The privileges referred to in sub‑paragraph (1) do not apply to any person who is a citizen or permanent resident of Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "International Organisations (Immunities and Privileges) (IMF-Singapore Regional Training Institute) Order 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

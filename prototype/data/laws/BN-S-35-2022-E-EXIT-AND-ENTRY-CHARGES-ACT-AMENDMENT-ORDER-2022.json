@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-35-2022-E-EXIT-AND-ENTRY-CHARGES-ACT-AMENDMENT-ORDER-2022",
+ "title": {
+  "zh": "出境与入境收费法修正命令 2022",
+  "en": "EXIT AND ENTRY CHARGES ACT AMENDMENT ORDER 2022",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p28",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 1,
+ "chars": 865,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-35-2022-E-EXIT-AND-ENTRY-CHARGES-ACT-AMENDMENT-ORDER-2022.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-35-2022-E-EXIT-AND-ENTRY-CHARGES-ACT-AMENDMENT-ORDER-2022.pdf》（4 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-35-2022-E-EXIT-AND-ENTRY-CHARGES-ACT-AMENDMENT-ORDER-2022-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "8. 7. 6. 5. 4. 3. 2. 1. (c} (b} (a} Motor of (Vienna Convention) Act (Chapter 117) Vehicle purposes. Vehicle Vehicle Vehicle Vehicle Motorcycle. Bicycle. with with with OR 2 the to when when which EXIT CHARGES AND ENTRY CHARGES 118).\". when more 8 to 7 - the 2 of 25 it is it it is belongs to OF than of belongs by is belongs to officers or less \"SCHEDULE used to used the used the for Government TO 3(2) Forces Act (Chapter 149). military in and and the for firefighting, and the 20) 2 20) 1 the and by purposes. $10 $6 $3 the the or of the a 14th. Diplomatic Privileges of new NOT and duties. $10 $6 $3 or of or 2022 a the Seri Begawan, 350 Jamadilawal, 1444 Hijriah corresponding to $6 $10.\". Iman, $6 $10\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE Nurul YANG cargo scanning AND Our HIS at of 2022 day THE Commercial without 17th. with this (a} J (b of Made day 11th."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "EXIT AND ENTRY CHARGES ACT AMENDMENT ORDER 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

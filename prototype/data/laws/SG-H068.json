@@ -1,7 +1,7 @@
 {
  "id": "SG-H068",
  "title": {
-  "zh": null,
+  "zh": "主动出行（无龄骑行组织——豁免）命令 2021",
   "en": "Active Mobility (Cycling Without Age — Exemption) Order 2021",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraphs 2 and 3(1), (2) and (3)\nPart 1\nroute A1\nDivision 1 — Footpath\nMap A1.1\nDivision 2 — Shared path\nMap A1.2\nPart 2\nroute a2\nDivision 1 — Footpath\nMap A2.1\nDivision 2 — Shared path\nMap A2.2\n[S 418/2023 wef 24/06/2023]\nPart 3\nRoute a3\nDivision 1 — Footpath\nMap A3.1\nDivision 2 — Shared path\nMap A3.2\nPart 4\nROUTE A4\nDivision 1 — Footpath\nMap A4.1\nDivision 2 — Shared path\nMap A4.2\n[S 418/2023 wef 24/06/2023]\nPart 5\nroute a5\nDivision 1 — Footpath\nMap A5.1\n[S 229/2025 wef 31/03/2025]\nDivision 2 — Shared path\nMap A5.2\n[S 229/2025 wef 31/03/2025]\nPart 6\nROUTE A6\nDivision 1 — Footpath\nMap A6.1\nDivision 2 — Shared path\nMap A6.2\n[S 306/2026 wef 28/05/2026]\nPart 7\nROUTE A7\nDivision 1 — Footpath\nMap A7.1\nDivision 2 — Shared paths\nMap A7.2\n[S 306/2026 wef 28/05/2026]\nMap A7.3\n[S 567/2026 wef 22/08/2026]\nPart 7A\nROUTE A7A\nDivision 1 — Footpath\nMap A7A.1\nDivision 2 — Shared path\nMap A7A.2\n[S 306/2026 wef 28/05/2026]\nPart 8\nroute a8\nDivision 1 — Footpath\nMap A8.1\nDivision 2 — Shared path\nMap A8.2\n[S 159/2023 wef 31/03/2023]\nPart 9\nroute a9\nDivision 1 — Footpath\nMap A9.1\nDivision 2 — Shared path\nMap A9.2\n[S 159/2023 wef 31/03/2023]\nPart 10\nroute A10\nShared path\nMap A10.1\nPart 11\nroute a11\nShared paths\nMap A11.1\nMap A11.2\nMap A11.2 — [Deleted by S 918/2024 wef 29/11/2024]\nPart 12\nROUTE A12\nShared path\nMap A12.1\n[S 229/2025 wef 31/03/2025]\nPart 13\nROUTE A13\nShared path\nMap A13.1\n[S 229/2025 wef 31/03/2025]\nPart 13A\nROUTE A13A\nDivision 1 — Footpath\nMap A13A.1\nDivision 2 — Shared path\nMap A13A.2\n[S 306/2026 wef 28/05/2026]\nPart 14\nROUTE A14\nShared path\nMap A14.1\n[S 918/2024 wef 29/11/2024]\nPart 15\nROUTE A15\nShared path\nMap A15.1\n[S 229/2025 wef 31/03/2025]\nPart 16\nROUTE A16\nShared path\nMap A16.1\n[S 306/2026 wef 28/05/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Cycling Without Age — Exemption) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

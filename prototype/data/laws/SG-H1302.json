@@ -1,7 +1,7 @@
 {
  "id": "SG-H1302",
  "title": {
-  "zh": null,
+  "zh": "能源节约（豁免——第 23A 与 26B 条）命令 2020",
   "en": "Energy Conservation (Exemptions — Sections 23A and 26B) Order 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Section 23A(1) of the Act does not apply to a registrable relevant person who has operational control over any premises (or any part of the premises) that are wholly occupied, or are to be occupied, by only one person for the carrying out of any business activity that is not attributable to any of the industry sectors mentioned in regulation 7G(b) of the Energy Conservation (Energy Management Practices) Regulations 2013 (G.N. No. S 246/2013).\n[S 720/2025 wef 01/12/2025]\n(2) Section 23A(1) of the Act does not apply to a registrable relevant person who has operational control over any premises (or any part of the premises) in which a prescribed system is situated, if the premises (or part of the premises) are —\n(a)wholly occupied by only one person (disregarding any person who is contracted to operate or maintain the prescribed system); and\n(b)used for any business activity attributable to the supply of chilled water for air-conditioning, unless the chilled water is supplied to —\n(i)any premises used for a business activity that is attributable to any of the following industry sectors:\n(A)manufacturing and manufacturing-related services;\n(B)supply of electricity, gas, steam and compressed air;\n(C)water supply and sewage and waste management; or\n(ii)multiple buildings owned or occupied by different persons, not including the registrable relevant person.\n[S 720/2025 wef 01/12/2025]\n(2A) Section 23A(1) of the Act does not apply to a registrable relevant person if —\n(a)only a part of the prescribed system is in premises under the operational control of the registrable relevant person; and\n(b)the part of the prescribed system mentioned in sub-paragraph (a) does not include any of the water-cooled chillers of the prescribed system.\n[S 720/2025 wef 01/12/2025]\n(3) Section 26B(2) and (3) of the Act does not apply to any prescribed system in any premises that are wholly occupied or are to be occupied by only one person for the carrying out of any business activity that is not attributable to any of the industry sectors mentioned in regulation 7G(b) of the Energy Conservation (Energy Management Practices) Regulations 2013.\n[S 720/2025 wef 01/12/2025]\n(4) In this paragraph —\n“prescribed system” and “water‑cooled chiller” have the meanings given by regulation 7F of the Energy Conservation (Energy Management Practices) Regulations 2013;\n“registrable relevant person” has the meaning given by section 21 of the Act.\n[S 720/2025 wef 01/12/2025]\n(5) [Deleted by S 720/2025 wef 01/12/2025]\n[S 720/2025 wef 01/12/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Energy Conservation (Exemptions — Sections 23A and 26B) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

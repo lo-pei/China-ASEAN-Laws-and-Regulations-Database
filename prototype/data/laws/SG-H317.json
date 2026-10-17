@@ -1,7 +1,7 @@
 {
  "id": "SG-H317",
  "title": {
-  "zh": null,
+  "zh": "生物制剂与毒素法 2005",
   "en": "Biological Agents and Toxins Act 2005",
   "orig": null
  },
@@ -1126,5 +1126,13 @@
     "en": "EIGHTH SCHEDULE\nSections 59(1) and 62\nNon-compoundable Offences\n1. An offence under section 5 or 30 is not compoundable under section 59.\n[S 396/2015]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Biological Agents and Toxins Act 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

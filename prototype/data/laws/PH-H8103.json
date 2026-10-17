@@ -1,7 +1,7 @@
 {
  "id": "PH-H8103",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 7 月 27 日为特别全国工作日假日，纪念菲律宾 Iglesia ni Cristo 成立周年，并为此修订第 292 号行政命令第 7 章第 26 条",
   "en": "An Act Declaring July 27 of Every Year as a Special National Working Holiday in Recognition of the Founding Anniversary of the Iglesia ni Cristo in the Philippines, Amending for the purpose Section 26, Chapter 7 of Executive Order No. 292, otherwise known as the Administrative Code of 1987, as amended",
   "orig": "An Act Declaring July 27 of Every Year as a Special National Working Holiday in Recognition of the Founding Anniversary of the Iglesia ni Cristo in the Philippines, Amending for the purpose Section 26, Chapter 7 of Executive Order No. 292, otherwise known as the Administrative Code of 1987, as amended"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring July 27 of Every Year as a Special National Working Holiday in Recognition of the Founding Anniversary of the Iglesia ni Cristo in the Philippines, Amending for the purpose Section 26, Chapter 7 of Executive Order No. 292, otherwise known as the Administrative Code of 1987, as amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

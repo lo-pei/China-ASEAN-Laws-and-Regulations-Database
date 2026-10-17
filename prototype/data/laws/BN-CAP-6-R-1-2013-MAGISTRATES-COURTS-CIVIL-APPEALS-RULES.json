@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-6-R-1-2013-MAGISTRATES-COURTS-CIVIL-APPEALS-RULES",
  "title": {
-  "zh": null,
+  "zh": "R 1 2013 版治安法院民事上诉规则",
   "en": "R 1 2013 ED MAGISTRATES COURTS CIVIL APPEALS RULES",
   "orig": null
  },
@@ -411,5 +411,13 @@
     "en": "(1) The High Court may, on notice by motion supported by affidavit, order the appellant to give security for the respondent’s costs of appeal.\n\n(2) The order shall limit the time (not exceeding 30 days) within which the security shall be given and may direct that, in default of its being given within the time so limited, the appeal shall be dismissed.\n\n(3) If an appeal is so dismissed, the respondent shall be entitled to the costs of the appeal. The amount of such costs may be stated in the order or may be assessed at any time by the High Court of its own motion or on application made ex parte or on notice.\n\n(4) If an appeal is so dismissed, the appellant shall not, save by leave of the High Court, reinstate it. Reinstatement may be granted on such terms as may seem fit upon application by motion or notice given within a month of such dismissal.\n\n(5) Without prejudice to the High Court’s discretion to grant costs on an application made under rule 29(1), costs shall not normally be granted to the applicant save where the net proceeds of execution levied on the appellant’s goods are insufficient to satisfy the amount payable under the judgment appealed from.\n\nSCHEDULE MAGISTRATES’ COURTS (CIVIL APPEALS) RULES\n\nFORM A (rule 5) NOTICE OF APPEAL (CIVIL) In the Magistrate’s Court of ................................................ No.  .................................. A.B. Vs. C.D. This is to give notice of appeal against the judgment dated ......................, 20 ............ . A certified copy of this is attached hereto. This notice is given by A.B. (or C.D., as the case may be), who complains of *the judgment as a whole; or *that part of the judgment which is marked with a bracket in the margin on the copy attached hereto; the signature of the appellant (or *of the advocate and solicitor acting on behalf of the appellant) appears outside the bracket. The appellant’s address for service is ............................................................... The main grounds of appeal are ........................................................................ ..................................................... A.B. (or C.D.) or advocate and solicitor acting for the appellant. Dated ..............................., 20 .............. . To : C.D. or A.B. of .............................................. NOTES. — This notice must be filed with the Registrar of the Magistrate’s Court within a month of the decision appealed from and served on all other parties affected by the appeal within that period. If the appellant complains only of a part of the judgment he should specify that part. The grounds of appeal should be given in full. The rules on civil appeals from Magistrates should be read carefully. *Strike out what is not required.\n\nSCHEDULE FORM A — (continued) Amount due to judgment creditor $ ................................................. Costs of this summons $ ................................................. TOTAL AMOUNT DUE $ ................................................. This summons is issued at the request of .................................................................. the judgment creditor. ............................................... Clerk Fee: $10. Paid vide Receipt No. ...................................... [S 37/2004]\n\nFORM B (rule 6(2))\n\nNOTICE OF COPIES OF PROCEEDINGS In the Magistrate’s Court of ................................................ No.  .................................. A.B. Vs. C.D. Take notice that the copies of proceedings in respect of this case are/is ready and that as costs of preparing such copies, a sum of $ ................(1) is due ............. you.from to Dated the ................................. day of ............................. 20 ............ .................................................... Registrar To: ................................................ ................................................ (2) Notes:\n\n(1) Insert the exact amount. If there is no balance, write “nil”.\n\n(2) Insert name and address of appellant. [S 37/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 1 2013 ED MAGISTRATES COURTS CIVIL APPEALS RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

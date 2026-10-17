@@ -1,7 +1,7 @@
 {
  "id": "SG-H2841",
  "title": {
-  "zh": null,
+  "zh": "内部安全法 1960",
   "en": "Internal Security Act 1960",
   "orig": null
  },
@@ -1488,5 +1488,13 @@
     "en": "THIRD SCHEDULE\nSection 8(3)\nEssential services\n1.Water services.\n2.Electricity services.\n3.Public health services.\n4.Fire services.\n5.Prison services.\n6.Postal services.\n7.Telephone services.\n8.Telegraph services.\n9.Radiocommunication services, including broadcasting and television services.\n10.Port, dock and harbour services and undertakings.\n11.Public transport services by land, sea or air.\n12.Bulk distribution of fuel and lubricants."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Internal Security Act 1960",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5336",
  "title": {
-  "zh": null,
+  "zh": "社会住房支持基金法",
   "en": "Social Housing Support Fund Act",
   "orig": "Social Housing Support Fund Act An Act Creating the Abot-Kaya Pabahay Fund, Otherwise known as the Social Housing Support Fund Act, and for Other Purposes"
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity. – This Act shall take effect upon its approval and publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Social Housing Support Fund Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

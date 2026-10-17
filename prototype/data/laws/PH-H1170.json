@@ -1,7 +1,7 @@
 {
  "id": "PH-H1170",
  "title": {
-  "zh": null,
+  "zh": "将南甘马粦省省府所在地由那牙市迁至该省Pili市镇Palestina村的法案",
   "en": "An Act Transferring the Site of the Provincial Capitol of the Province of Camarines Sur from the City of Naga to the Barrio of Palestina, Municipality of Pili in the Same Province",
   "orig": "An Act Transferring the Site of the Provincial Capitol of the Province of Camarines Sur from the City of Naga to the Barrio of Palestina, Municipality of Pili in the Same Province"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring the Site of the Provincial Capitol of the Province of Camarines Sur from the City of Naga to the Barrio of Palestina, Municipality of Pili in the Same Province",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

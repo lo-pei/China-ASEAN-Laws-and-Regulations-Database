@@ -1,7 +1,7 @@
 {
  "id": "PH-H4726",
  "title": {
-  "zh": null,
+  "zh": "规范私立教育机构学费及其他学杂费、规定相关争议的解决并为其他目的法案",
   "en": "An Act to Regulate Tuition and Other School Fees of Private Educational Institution, Providing for the Settlement of Controversies Thereon and for Other Purposes",
   "orig": "An Act to Regulate Tuition and Other School Fees of Private Educational Institution, Providing for the Settlement of Controversies Thereon and for Other Purposes"
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 31, 1970"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Regulate Tuition and Other School Fees of Private Educational Institution, Providing for the Settlement of Controversies Thereon and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

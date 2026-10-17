@@ -1,7 +1,7 @@
 {
  "id": "SG-H1822",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 3 号）命令 2026",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2026",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Boon Keng Road, Bendemeer Road, Kempas Road and Serangoon Road, comprised in Lot number 01815W in Town Subdivision 17 and on which Apartment Blocks 4, 5 and 6 are erected, which blocks are each marked with a grey dot in Plan 1.\nPlan 1\nBOON KENG ROAD\n2. All that part of the housing estate of the Board bounded by Cassia Crescent, Pine Lane and Pine Close, comprised in Lot number 05257P in Mukim 25 and on which Apartment Block 9 is erected, in Lot number 05256V in Mukim 25 and on which Apartment Blocks 28 and 30 are erected, and in Lot number 05255W in Mukim 25 and on which Apartment Block 56 is erected, which blocks are each marked with a grey dot in Plan 2.\nPlan 2\nCASSIA CRESCENT / PINE CLOSE\n3. All that part of the housing estate of the Board bounded by Jalan Teck Whye, Choa Chu Kang Road and Teck Whye Avenue, comprised in Lot number 01940V in Mukim 11 and on which Apartment Blocks 150, 156, 157, 158 and 159 are erected, in Lot number 02231T in Mukim 11 and on which Apartment Blocks 151, 152, 154 and 155 are erected, and in Lot number 01943A in Mukim 11 and on which Apartment Blocks 160, 162, 163 and 164 are erected, which blocks are each marked with a grey dot in Plan 3.\nPlan 3\nJALAN TECK WHYE\n4. All that part of the housing estate of the Board bounded by Pasir Ris Street 21 and Pasir Ris Drive 4, comprised in Lot number 02186L in Mukim 31 and on which Apartment Blocks 217, 218, 219, 220, 221, 222, 223 and 224 are erected, and in Lot number 03659N in Mukim 31 and on which Apartment Blocks 225, 226, 227, 228, 229 and 230 are erected, which blocks are each marked with a grey dot in Plan 4.\nPlan 4\nPASIR RIS STREET 21\n5. All that part of the housing estate of the Board bounded by Tampines Avenue 9, Tampines Street 43 and Tampines Street 45, comprised in Lot number 02244L in Mukim 31 and on which Apartment Blocks 491A, 491B, 491C, 491D, 491E, 491F, 491G, 491H, 492B, 492C and 492D are erected, in Lot number 02654T in Mukim 31 and on which Apartment Blocks 493A, 493B, 493C, 493D, 493E, 494B and 494C are erected, in Lot number 02242N in Mukim 31 and on which Apartment Blocks 495A, 495B, 495C, 495D, 495E and 495F are erected, and in Lot number 01230A in Mukim 29 and on which Apartment Blocks 496B, 496C, 496D, 496E, 496F and 496G are erected, which blocks are each marked with a grey dot in Plan 5.\nPlan 5\nTAMPINES AVENUE 9 / TAMPINES STREET 43 /\nTAMPINES STREET 45\n6. All that part of the housing estate of the Board bounded by Woodlands Drive 70, Woodlands Circle, Woodlands Avenue 6 and Woodlands Avenue 7, comprised in Lot number 03193N in Mukim 13 and on which Apartment Blocks 714, 715, 716, 717, 718, 719 and 720 are erected, which blocks are each marked with a grey dot in Plan 6.\nPlan 6\nWOODLANDS DRIVE 70 / WOODLANDS AVENUE 6"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H717",
  "title": {
-  "zh": null,
+  "zh": "将加利福尼亚州的Mackay Radio and Telegraph Company特许经营权移转给德拉华州的同一名称公司的法案",
   "en": "An Act Transferring the Franchise of the Mackay Radio and Telegraph Company of California to the Mackay Radio and Telegraph Company of Delaware",
   "orig": "An Act Transferring the Franchise of the Mackay Radio and Telegraph Company of California to the Mackay Radio and Telegraph Company of Delaware"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring the Franchise of the Mackay Radio and Telegraph Company of California to the Mackay Radio and Telegraph Company of Delaware",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

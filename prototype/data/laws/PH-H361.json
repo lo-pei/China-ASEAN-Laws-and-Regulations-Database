@@ -1,7 +1,7 @@
 {
  "id": "PH-H361",
  "title": {
-  "zh": null,
+  "zh": "授权各市镇为购置或征收宅地并分割按成本转售而举借贷款的法案",
   "en": "An Act Authorizing Cities and Municipalities to Contract Loans for the Purpose of Purchasing or Expropriating Homesites and Subdividing Them for Resale at Cost",
   "orig": "An Act Authorizing Cities and Municipalities to Contract Loans for the Purpose of Purchasing or Expropriating Homesites and Subdividing Them for Resale at Cost"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing Cities and Municipalities to Contract Loans for the Purpose of Purchasing or Expropriating Homesites and Subdividing Them for Resale at Cost",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

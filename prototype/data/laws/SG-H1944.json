@@ -1,7 +1,7 @@
 {
  "id": "SG-H1944",
  "title": {
-  "zh": null,
+  "zh": "所得税（CapitaLand 综合商业信托——第 13(12) 条豁免）命令 2026",
   "en": "Income Tax (CapitaLand Integrated Commercial Trust — Section 13(12) Exemption) Order 2026",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The following income received in Singapore by HSBC Institutional Trust Services (Singapore) Limited (a company incorporated in Singapore) in its capacity as the trustee of CapitaLand Integrated Commercial Trust (a trust constituted in Singapore) is exempt from tax:\n(a)interest income of $2,122,066 received on 3 March 2026, and interest income received on or after 27 August 2026, from Gallileo Property S.a.r.l (a company incorporated in Luxembourg), that originates from rental and other property‑related income (including capital gain derived from divestment of property) in relation to the property named “Gallileo”, located at Gallusanlage 7/Neckarstrasse 5, 60329 Frankfurt am Main, Germany;\n(b)interest income received on or after 27 August 2026 from MAC Property Company B.V. (a company incorporated in Germany and redomiciled in the Netherlands), that originates from rental and other property‑related income (including capital gain derived from divestment of property) in relation to the property named “Main Airport Center” located at Unterschweinstiege 2‑14, 60549 Frankfurt, Germany;\n(c)interest income received on or after 27 August 2026 from MAC Car Park Company B.V. (a company incorporated in Germany and redomiciled in the Netherlands), that originates from income derived from the operation of the car park situated at the property mentioned in sub‑paragraph (b).\n(2) The exemption in sub-paragraph (1) is subject to the conditions specified in the letter from the Inland Revenue Authority of Singapore dated 27 August 2026 that is issued on behalf of the Minister for Finance and addressed to EY Corporate Advisors Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (CapitaLand Integrated Commercial Trust — Section 13(12) Exemption) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

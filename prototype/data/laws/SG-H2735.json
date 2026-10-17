@@ -1,7 +1,7 @@
 {
  "id": "SG-H2735",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 9 号）命令 2020",
   "en": "Infrastructure Protection (Protected Places) (No. 9) Order 2020",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nSingapore Lubricant\nPlant Manager\nJURONG LUBRICANTS TERMINAL (EAST PLANT)\nAll that area comprised in Lot 281V in Mukim No. 7 occupied by “JURONG LUBRICANTS TERMINAL (EAST PLANT)” containing an area of about 19186.8 square metres and bounded approximately as follows:\nCommencing at a point 31846.436 metres North and 12246.538 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n31846.436\n12246.538\n31658.701\n12232.946\n31669.172\n12088.573\n31760.051\n12095.153\n31764.255\n12108.242\n31776.894\n12139.193\n31791.908\n12169.137\n31809.162\n12197.830\n31828.590\n12225.152\nto the point of commencement.\nThe boundaries of “JURONG LUBRICANTS TERMINAL (EAST PLANT)” are more particularly delineated in Survey Plan No. 18082 filed in the office of the Chief Surveyor, Singapore, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 9) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

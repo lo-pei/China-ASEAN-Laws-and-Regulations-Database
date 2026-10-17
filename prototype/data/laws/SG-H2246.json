@@ -1,7 +1,7 @@
 {
  "id": "SG-H2246",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发特许权使用费及其他付款豁免）公告",
   "en": "Income Tax (Exemption of Royalties and Other Payments for Economic and Technological Development) Notification",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from tax any income of a person who is neither a resident of nor a permanent establishment in Singapore, being a payment made to that person —\n(a)at any time during the period from 11th July 1997 to 10th July 2012 (both dates inclusive) for the use of or the right to use any facility or equipment in a space satellite;\n(b)for the use of or the right to use any facility or equipment in a space satellite where the liability to make that payment arises at any time during the period from 11th July 1997 to 27th February 2013 (both dates inclusive); or\n(c)for the use of or the right to use any facility or equipment in a space satellite at any time during the period from 11th July 1997 to 27th February 2013 (both dates inclusive).\n[S 516/2009 wef 27/10/2009]\n(1A) There shall be exempt from tax any income of a person who is neither a resident of nor a permanent establishment in Singapore, being a payment made to that person for the use of or the right to use any facility or equipment in a space satellite where the liability to make that payment arises after 27th February 2013 —\n(a)under a contract (for such use or right to use) which takes effect at any time during the period from 11th July 1997 to 27th February 2013 (both dates inclusive); or\n(b)under a contract (for such use or right to use) which is extended or renewed, where the extension or renewal takes effect at any time during the period from 11th July 1997 to 27th February 2013 (both dates inclusive).\n[S 516/2009 wef 27/10/2009]\n(2) In this paragraph, “space satellite” means an apparatus placed in orbit relative to the earth for any economic, scientific or technological purpose.\n[S 516/2009 wef 27/10/2009]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Royalties and Other Payments for Economic and Technological Development) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10468",
  "title": {
-  "zh": null,
+  "zh": "为非居民游客设立增值税退税机制，为此在经修正的 1997 年《国家国内税收法典》中增设第 112-a 条",
   "en": "An Act Creating A Vat Refund Mechanism For Non-resident Tourists, Adding A New Section 112-a To the National Internal Revenue Code of 1997, As Amended, For the Purpose</td> <td>ra2024/pdra_12079_2024.pdf",
   "orig": "An Act Creating A Vat Refund Mechanism For Non-resident Tourists, Adding A New Section 112-a To the National Internal Revenue Code of 1997, As Amended, For the Purpose</td> <td>ra2024/pdra_12079_2024.pdf"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating A Vat Refund Mechanism For Non-resident Tourists, Adding A New Section 112-a To the National Internal Revenue Code of 1997, As Amended, For the Purpose</td> <td>ra2024/pdra_12079_2024.pdf",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

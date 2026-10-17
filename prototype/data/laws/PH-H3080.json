@@ -1,7 +1,7 @@
 {
  "id": "PH-H3080",
  "title": {
-  "zh": null,
+  "zh": "授予 Northern Luzon 电话公司在南伊罗戈、拉乌尼翁、卡加延、阿布拉等七个省安装、运营和维护电话系统的特许经营权法案",
   "en": "An Act Granting the Northern Luzon Telephone Company a Franchise to Install, Operate and Maintain a Telephone System in the Provinces of Ilocos Sur, La Union, Cagayan, Abra, Isabela, Nueva Vizcaya and Nueva Ecija",
   "orig": "An Act Granting the Northern Luzon Telephone Company a Franchise to Install, Operate and Maintain a Telephone System in the Provinces of Ilocos Sur, La Union, Cagayan, Abra, Isabela, Nueva Vizcaya and Nueva Ecija"
  },
@@ -231,5 +231,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Northern Luzon Telephone Company a Franchise to Install, Operate and Maintain a Telephone System in the Provinces of Ilocos Sur, La Union, Cagayan, Abra, Isabela, Nueva Vizcaya and Nueva Ecija",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

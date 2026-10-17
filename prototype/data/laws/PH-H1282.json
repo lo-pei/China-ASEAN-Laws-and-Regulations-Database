@@ -1,7 +1,7 @@
 {
  "id": "PH-H1282",
  "title": {
-  "zh": null,
+  "zh": "授予 Pepsi-Cola 菲律宾群岛装瓶公司运营私人固定点对点与基站无线电台以收发通信的临时许可的法案",
   "en": "An Act Granting the Pepsi-Cola Bottling Company of the Philippine Islands, Inc. a Temporary Permit to Operate Private Fixed Point-to-Point and Private Base Radio Stations for the Reception and Transmission of Radio Communications to and from Said Stations",
   "orig": "An Act Granting the Pepsi-Cola Bottling Company of the Philippine Islands, Inc. a Temporary Permit to Operate Private Fixed Point-to-Point and Private Base Radio Stations for the Reception and Transmission of Radio Communications to and from Said Stations"
  },
@@ -160,5 +160,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Pepsi-Cola Bottling Company of the Philippine Islands, Inc. a Temporary Permit to Operate Private Fixed Point-to-Point and Private Base Radio Stations for the Reception and Transmission of Radio Communications to and from Said Stations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

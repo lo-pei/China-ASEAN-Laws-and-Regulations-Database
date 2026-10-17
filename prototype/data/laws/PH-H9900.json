@@ -1,7 +1,7 @@
 {
  "id": "PH-H9900",
  "title": {
-  "zh": null,
+  "zh": "指定每年 11 月第三个星期日为全国道路交通事故死难者、幸存者及其家属纪念日的法案",
   "en": "An Act Designating the Third Sunday of November Every Year as the National Day of Remembrance for Road Crash Victims, Survivors, and Their Families",
   "orig": "An Act Designating the Third Sunday of November Every Year as the National Day of Remembrance for Road Crash Victims, Survivors, and Their Families"
  },
@@ -130,5 +130,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Designating the Third Sunday of November Every Year as the National Day of Remembrance for Road Crash Victims, Survivors, and Their Families",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

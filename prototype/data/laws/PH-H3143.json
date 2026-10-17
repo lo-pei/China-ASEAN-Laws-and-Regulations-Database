@@ -1,7 +1,7 @@
 {
  "id": "PH-H3143",
  "title": {
-  "zh": null,
+  "zh": "将自马尼拉市经帕赛市至黎刹省Parañaque市镇并可延伸至甲米地市的Dewey大道更名为Roxas总统大道的法案",
   "en": "An Act Changing the Name of Dewey Boulevard, Extending from the City of Manila, Through the City of Pasay, to the Municipality of Parañaque, Province of Rizal, and Any Future Extension Thereof Up to Cavite City, to President Roxas Boulevard",
   "orig": "An Act Changing the Name of Dewey Boulevard, Extending from the City of Manila, Through the City of Pasay, to the Municipality of Parañaque, Province of Rizal, and Any Future Extension Thereof Up to Cavite City, to President Roxas Boulevard"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Dewey Boulevard, Extending from the City of Manila, Through the City of Pasay, to the Municipality of Parañaque, Province of Rizal, and Any Future Extension Thereof Up to Cavite City, to President Roxas Boulevard",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

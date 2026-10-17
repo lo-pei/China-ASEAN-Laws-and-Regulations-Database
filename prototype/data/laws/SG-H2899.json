@@ -1,7 +1,7 @@
 {
  "id": "SG-H2899",
  "title": {
-  "zh": null,
+  "zh": "释义（卫生科学局法——费用）命令 2017",
   "en": "Interpretation (Health Sciences Authority Act — Fees) Order 2017",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nFEES\nFirst column\nSecond column\n1.Consultancy services on pre‑registration requirements, to be provided to a person who is developing a medical device intended for registration under the Health Products Act 2007 —\n(a)where the supply of services is a supply of prescribed international services under section 21(3)(k) of the Goods and Services Tax Act 1993\n$486.24 per consultation, where each consultation is of a duration of 2 hours or shorter\n(b)where the supply of services is other than as described in paragraph (a)\n$530 per consultation, where each consultation is of a duration of 2 hours or shorter\n2.Consultancy services on registration application requirements —\n(a)where the supply of services is a supply of prescribed international services under section 21(3)(k) of the Goods and Services Tax Act 1993\n$192.66 per consultation, where each consultation is of a duration of one hour or shorter\n(b)where the supply of services is other than as described in paragraph (a)\n$210 per consultation, where each consultation is of a duration of one hour or shorter\nNote:\n(1) In this Schedule —\n“pre-registration requirements” means the requirements imposed by or under the Health Products Act 2007 relating to the registration of medical devices, other than the registration application requirements;\n“registration application requirements” means the particulars, documents, information and samples required for an application for registration of a medical device or cell, tissue or gene therapy product under section 30 of the Health Products Act 2007.\n[S 488/2024 wef 01/07/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Interpretation (Health Sciences Authority Act — Fees) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

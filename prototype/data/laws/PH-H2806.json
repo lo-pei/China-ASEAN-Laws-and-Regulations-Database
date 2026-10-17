@@ -1,7 +1,7 @@
 {
  "id": "PH-H2806",
  "title": {
-  "zh": null,
+  "zh": "在哥打巴托省Kidapawan市镇设立贸易学校，名称为Kidapawan贸易学校，并授权为此拨款的法案",
   "en": "An Act Providing for the Establishment of a Trade School in the Municipality of Kidapawan, Province of Cotabato, to be Known as the Kidapawan Trade School, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Providing for the Establishment of a Trade School in the Municipality of Kidapawan, Province of Cotabato, to be Known as the Kidapawan Trade School, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Establishment of a Trade School in the Municipality of Kidapawan, Province of Cotabato, to be Known as the Kidapawan Trade School, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H738",
  "title": {
-  "zh": null,
+  "zh": "修订第708号共和国法第三编C部分第7条，涉及将外交部某些职位改设为外交官职位",
   "en": "An Act to Amend Section Seven, Part C, Title IIi, of Republic Act Numbered Seven Hundred Eight, Regarding Conversion of Certain Positions in the Department of Foreign Affairs to Positions of Foreign Affairs Officers",
   "orig": "An Act to Amend Section Seven, Part C, Title IIi, of Republic Act Numbered Seven Hundred Eight, Regarding Conversion of Certain Positions in the Department of Foreign Affairs to Positions of Foreign Affairs Officers"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Seven, Part C, Title IIi, of Republic Act Numbered Seven Hundred Eight, Regarding Conversion of Certain Positions in the Department of Foreign Affairs to Positions of Foreign Affairs Officers",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

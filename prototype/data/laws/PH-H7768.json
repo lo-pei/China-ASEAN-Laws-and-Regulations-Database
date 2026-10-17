@@ -1,7 +1,7 @@
 {
  "id": "PH-H7768",
  "title": {
-  "zh": null,
+  "zh": "将西米萨米斯省 Malindang 山天然公园设立为保护区、其外围区域设为缓冲带，依第 7586 号共和国法规定其管理并为其他目的法案",
   "en": "An Act to Establish Mt. Malindang Natural Park, Located in the Province of Misamis Occidental as a Protected Area and its Peripheral Areas as Buffer Zone, Providing for its Management Pursuant to Republic Act No. 7586 (Nipas Act of 1992) and for other Purposes",
   "orig": "An Act to Establish Mt. Malindang Natural Park, Located in the Province of Misamis Occidental as a Protected Area and its Peripheral Areas as Buffer Zone, Providing for its Management Pursuant to Republic Act No. 7586 (Nipas Act of 1992) and for other Purposes"
  },
@@ -311,5 +311,13 @@
     "en": "Effectivity Clause. — This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish Mt. Malindang Natural Park, Located in the Province of Misamis Occidental as a Protected Area and its Peripheral Areas as Buffer Zone, Providing for its Management Pursuant to Republic Act No. 7586 (Nipas Act of 1992) and for other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

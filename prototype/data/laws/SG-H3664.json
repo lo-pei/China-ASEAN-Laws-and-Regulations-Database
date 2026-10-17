@@ -1,7 +1,7 @@
 {
  "id": "SG-H3664",
  "title": {
-  "zh": null,
+  "zh": "新加坡社会科学大学法 2017",
   "en": "Singapore University of Social Sciences Act 2017",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "11.—(1) Any provision of the constituent documents, or any regulation of the university company made under any provision of the constituent documents, that is inconsistent with any provision of this Act is, to the extent of the inconsistency, void.\n(2) Nothing in this Act is to be construed as excusing or exempting the university company from complying with any written law that, apart from this Act, would apply to the university company."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Singapore University of Social Sciences Act 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

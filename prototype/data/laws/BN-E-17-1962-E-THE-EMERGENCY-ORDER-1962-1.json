@@ -1,0 +1,521 @@
+{
+ "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1",
+ "title": {
+  "zh": "E 17 1962 E 紧急状态命令 1962(1)",
+  "en": "E 17 1962 E THE EMERGENCY ORDER 1962(1)",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p24",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 37,
+ "chars": 58417,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "E-17-1962-E-THE-EMERGENCY-ORDER-1962(1).pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《E-17-1962-E-THE-EMERGENCY-ORDER-1962(1).pdf》（38 页），本次切分 37 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "4.(3) Failure to deliver subversive documents and other"
+   },
+   "text": {
+    "en": "(3) Failure to deliver subversive documents and other articles."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "False information and false evidence."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Attempt to commit offences and assisting offenders."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Abetment and general penalty."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "Power to order detention. Detention and Deportation"
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "text": {
+    "en": ". Removal of detainee from one place to another."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "text": {
+    "en": "Detention"
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "text": {
+    "en": "Detained person may be ordered to leave the State. Offences"
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "Fire-arms, ammunition and explosives."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "Offensive weapons."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "Supplies."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "Consorting with person carrying or having possession of arms or explosives."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "Failure to report offences or to give information concerning insurgents. Protected Place"
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "Protected place. Arrest and Search"
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "Arrest."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "Arrest of persons suspected of being liable to detention."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "Powers of arrest and search by members of H .M. Forces and of Local Forces."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "Use of lethal weapons in effecting arrests."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "Power of search."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "Power of search for and seizure of offensive weapon. Power of Taking Possession of Property"
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "Power to serze premrses."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "Power to serze printing press and premises used for printing."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "Power to take possession of land or buildings."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "Prohibition of printing, sale, etc., of documents. Criminal Trrials and Evidence"
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "Interpretation."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "Admission of statements m evidence."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "Evidence and presumptions."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "Inquests etc."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "Ordinary procedure to apply subject to variations effected by Orders."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "Trial with the aid of assessors."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "Certifying of case as an emergency case."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "No preliminary inquiry in emergency procedure cases."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "Record, depositions, etc., to be forwarded. 3 7. Date for trial."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "Statement of witnesses to be supplied to the accused."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "Notice of appeal."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "Assignment of counsel."
+   }
+  },
+  {
+   "id": "BN-E-17-1962-E-THE-EMERGENCY-ORDER-1962-1-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "Notice of hearing of appeal.\n\nSCHEDULE\n\nSTATE OF BRUNEI No. E 17 OF 1962 . THE CONSTITUTION OF THE STATE OF BRUNEI, 1959\n\nPROCLAMATION OF EMERGENCY\n\nSIR OMAR ALI SAIFUDDIN State H.H. the Sultan of Brunei. Seal In the name of God, the Compassionate, the Merciful, PRA1SE be to GOD, the Lord of the Universe, and may the benediction and peace of GOD be upon Our Leader Muhammad and upon all his Relations and Friends. WHEREAS it is provided under section 83 of the Constitution of the State of Brunei, 1959, that whenever it appears to the Sultan that an occasion of public danger exists whereby the security or economic life of the State, or any part thereof, is threatened, whether by war or external aggression or internal disturbance, actual or threatened, he may by Proclamation declare a state of emergency either in the whole State or in such part of the State as may be specitied in the Proclamation : AND WHEREAS, we are satisfied that an occasion of public danger exists in the State whereby the security of the State is threatened by actual internal disturbance :\n\nNOW, THEREFORE, WE, OMAR ALI SAIFUDDIN SA'ADUL KHAIRI WADDIN IBNI\n\nALMARHUM MOHAMED JAMAL-UL ALAM of the State and Territory of Brunei, and all its Dependencies, SULTAN, SOVERElGN AND ClilEF OF THE MOST ESTEEMED FAMILY\n\nORDER, SOVEREIGN AND CHIEF OF THE\n\nMOST GALLANT ORDER OF PAHLAWAN\n\nNEGARA BRUNEI, SOVEREIGN AND CHIEF\n\nOF THE MOST BLESSED ORDER OF STIA\n\nNEGARA BRUNEI, SOVEREIGN AND CHIEF\n\nOF THE MOST HONOURABLE ORDER OF\n\nTHE CROWN OF BRUNEI, MOST EXALTED\n\nORDER OF SERI MAHKOTA NEGARA, MOST ESTEEMED FAMILY ORDER (FIRST CLASS) KELANTAN, MOST ESTEEMED FAMILY ORDER (FIRST CLASS) JOHORE, MOST ESTEEMED FAMILY ORDER (FIRST CLASS) SELANGOR, HONORARY KNIGHT\n\nCOMMANDER OF THE MOST DISTINGUISHED ORDER OF SAINT MICHAEL AND SAINT GEORGE : do hereby DECLARE AND PROCLAIM a state of emergency in the State of Brunei. So be it. Such is the Proclamation of Emergency. May GOD, to Whom be praise and whose name be exalted, the King of Kings, vouchsafe His grace and may the Prophet Muhammed (on whom be the benediction and peace of GOD) grant His Blessings to this Proclamation. Amen! 0 Lord of the Universe! Done at the Istana Darul Hana, Brunei this 15th day of Rejab the Hajira of the Prophet (on whom be the benediction and peace of GOD) One thousand three hundred and eighty-two corresponding to the 12th day of December One thousand nine hundred and sixty-two of the Christian era, being the thirteenth year of Our reign. By COMMAND,\n\nMARSAL BIN MAUN M entri Besar, Brunei.\n\nTHE CONSTITUTION OF THE\n\nSTATE OF BRUNEI, 1959 ( Orders under section 83 ( 3) ) THE EMERGENCY ORDERS, 1962. In exercise of the powers conferred by subsection ( 3) of section 83 of the Constitution of the State of Brunei, 1959, His Highness the Sultan of Brunei makes the following Orders:- Introductory. Short title. 1. These Orders may be cited as the Emergency Orders, 1962. Interpretaion. 2. ( 1) In these Orders, unless the context otherwise reqmres:- \"ammunition\" means ammunition for any fire-arm as hereafter defined and includes grenades, bombs and other like missiles whether capable of use with such a fire-arm or not, and any ammunition containing or designed or adapted to contain any noxious liquid, gas or other thing; \"explosive\"-\n\n(a) means gunpowder, nitro-glycerine, dynamite, gun-cotton, blasting powor der, fulminate of mercury of other metals coloured fires and every other substance, whether similar to those above mentioned or not, used or manufactured with a view to produce a practical effect by explosion or a pyrotechnic effect; and\n\n(b) includes fog-signals, fireworks, fuses, rockets, percussion-caps, detonators, cartridges, ammunition of all descriptions and every adaptation or preparation of an explosive as above defined; \"fire-arm\" means any lethal barrelled weapon of any description from which any shot, bullet or other missile can be discharged or which can be adapted for the discharge of any such shot, bullet or other missile and any weapon of whatever description designed or adapted fJr the discharge of any noxious liquid, gas or other thing, and includes any component part of any such weapon as aforesaid; \"\" msurgent means any person \" \"'\" l 10 -\n\n(a) by the use of any fire-arm, explosive or ammunition acts in a manner prejudicial to the public safety or to the maintenance of public order; (b ) incites to violence or <ounsels disobedience to th e lav,' or to any lawful order made;\n\n(c) carries or has in his possession or under his control any fire-arm, ammunition or explosive or other offensive weapon without lavvful authority therefor ; No. 6 of 1962. \"Orders\" means any Order mad e under subsection (3) of section 83 of the Constitution of the State of Brunei and includes any operative provision of the Public Order Enactment, 1962. \"public place\" includes any highway, public street, public road, public park or garden, any sea beach, river, public bridge, land, footway, square, court, alley or passage, whether a thoroughfare or not, any unalienated land and any open space, whether such open space is enclosed or unenclosed, or place of public resort to which for the time being the public have or are permitted to have access, whether on payment or otherwise. \"subversive documents\" means any document which contains - (a ) any subversive matter; or\n\n(b) any propaganda or matter supporting, propagating or advocating acts prejudicial to the public safety in the State of Brunei or the maintenance of public order therein or inciting to violence therein or counselling disobedience to the law thereof, or to any lawful order therein; or\n\n(c) any reference to or account of any collection of, or any request or demand for, any subscription, contribution or donation, whether in money or in kind or any request or demand for supplies for the benefit directly or indirectly for the use of persons who intend to or are about to act or have acted in a manner prejudicial to the public safety in the State of Brunei or to the maintenance of public order therein or to incite to violence therein or counsel disobedience to the law thereof or any lawful order therein; or\n\n(d) any message or communication v,rhatsoever from or intended to be received by an insurgent other than a communication issued by or at the request of a public officer acting in the course of his duty, and includes any document indicating a connection, association or affiliation with any unlawful society. \"supplies\" includes money, food, drink, clothing, medicines, drugs, or any other stores, instruments, commodities, articles or things whatsoever. ( 2) In any Order made under the Emergency Orders, 1962, the phrase, or any other phrase to the like intent, \"member of Her Majesty's Naval, Military or Air Forces or of any Local Forces established under any written law\" shall, unless otherwise expressly provided to the contrary, include only such members who are actually in the service of such forces. Prohibition · 3. ( 1) The Mentri Besar, may, if he considers it exof uniforms pedient in the public interest so to do, by order proemblems, etc. hibit the manufacture, sale, use, display or possession of any flag, banner, badge, emblem, device, uniform or distinctive dress. ( 2) Any person contravening any provision of an order made under this Order shall be guilty of an offence against these Orders. ( 3) Any article in respect of which an offence has been committed under this Order may be seized and destroyed or otherwise dealt with as the Commissioner of Police may direct, whether or not the identity of the offender is knovm and whether or not any prosecution has been commenced in respect of the offence. Possession 4. ( 1) Any person who, without lawful excuse, carof subversive ries or has in his possession or under his control any documents. subversive document shall be guilty of an offence and shall be liable to imprisonment for a term not exceeding ten years. ( 2) Every document purporting to be a subversive document shall be deemed to be a subversive document until the contrary is proved; and where in any prosecution under this Order it is proved that a person was carrying or had in his possession or under his control a subversive document he shall be deemed to have known the nature and contents of such document: Provided that no person shall be convicted of an offence against this Order if he proves to the satisfaction of the Court - ( i) that he was not a ware of the nature or contents of the subversive document which he was carrying or had in his possession or under his control; and ( ii ) that he was carrying or had the subversive document in his possession or under his control in such circumstances that at no time did he have reasonable cause to believe or suspect that such document was a subversive document. Failure to ( 3) Any person who receives any prohibited flagl deliver sub-banner, badge or other articles, or other document versive documents and from or purporting to be from or which there are other reasonable grounds for believing to be from any inarticles. surgent or from any person acting on behalf of any insurgent shall deliver up the same without delay to a police officer and any person who fails to do so or who unless authorised to do so by a police officer not below the rank of Superintendent communicates to any other person or publishes or causes to be published the contents of any such message, letter or other document shall be guilty of an offence and shall be liable to imprisonment for a term not exceeding three years. False infor-5. ( 1) Any person who gives to any member of Her mation and Majesty's Naval, 11ilitary or Air Forces or to any false evidence member of any Local Forces established under any v.rritten law or to any public officer any information orally or in writing which he knows or believes to be false, intending thereby to cause or knowing it to be likely that he will thereby cause such member or officer to use the lawful power of such member or officer to the injury or annoyance of any person or to do or omit to do anything which such member or officer ought not to do or omit if the true state of facts respecting which such information is given were known to him, shall be guilty of an offence and shall be liable to imprisonment for a term not exceeding seven years. Cap. 22 ( 2) Sections 194 and 195 of the Penal Code shall apply to any offence against these Orders as if it were an offence punishable under the Penal Code. ( 3) A prosecution for an offence under this Order shall not be instituted except by or with the consent of the Attorney General personally, provided that a person charged with such an offence may be arrested or a warrant for his arrest may be issued and executed and any such person may be remanded in custody or on bail notwithstanding that the consent of the Attorney General to the institution of a prosecution for the offence has not been obtained but no further or other proceedings shall be taken until that consent has been obtained. Attempt to 6. ( 1) \\1\\l\"ithout prejudice to the operation of Chapcommit offences ter V and Chapter XXIII of the Penal Code, any and assisting offenders. person v.rho attempts to commit, or does any act preCap. 22 paratory to the commission of an offence against any of these Orders, shall be deemed to be guilty of that offence against these Orders. ( 2) No person, knowing or having reasonable cause to believe that another person is guilty of an offence against any of these Orders, shall give that other person any assistance vvith intent thereby to prevent, hinder, or interfere with the apprehension, trial or punishment of that person fo r the said offence. Abetment and 7. If any person contravenes or fails to comply general penalty. with any of these Orders, or any order or rule made under any of these Orders, or any direction given or requirement imposed under any of these Orders, or abets such contravention or failure, he shall be guilty of an offence against these Orders; and subject to any special provisions contained in these Orders, a person guilty of an offence against these Orders shall be liable to imprisonment for a term not exceeding three years or to a fine not exceeding five thousand dollars or to both such imprisonment and such fine. Detention and Deportation · Power to ''Pow~r to order 8. ( 1) The Mentri Besar may, by order detentiOn. order under his hand, direct that any 1detention. person named in such order shall be detained for any period not exceeding two years in such place of detention as may be specified by the Mentri Besar in the order, and in the case of any order in which the period speci: fied is less than two years, the Mentn Besar may, by endorsement on such order, from time to time direct that such period be extended for a further period or further periods not exceeding, in the aggregate and together with the period originally specified in the order, two years: Provided that(i) Nothing in this Order shall prevent the M ·n tri Besar from makin from 12 No. 17 1962 OF time to time a further order or further orders in respect of the same person for a further period or for further periods not exceeding two years in the case of each such order, so that every such further order shall take effect upon the expiration of the period specified in the order immediately preceding it; ( ii) Where under any of the provisions of this Order the operation of any order of detention has been suspended subject to conditions, the Mentri Besar may without making a further order of detention direct that such conditions shall continue to have effect notwithstanding the expiration of the order of detention for such period, not exceeding two years, as he may specify and rna y from time to time by a further direction or directions extend the period during which such conditions shall continue to have effect for such further period or periods, not exceeding two years in the case of any such direction, as he may specify. ( 2) For the purposes of this Order there shall be one or more Advisory Committees consisting of persons appointed by the Sultan. The Chairman and two other members of the Committee shall constitute a quorum.\n\nEMERGENCY ORDERS, 1962 ( 3) In addition to appointing the Chairman of any Committee the Sultan may appoint an alternative Chairman who shall preside over such Committee at any time when the Chairman is unable to do so. ( 4) The functions of any such Committee shall be to enquire into the grounds on which a person has been detained under this Order and to advise whether and under what conditions the order made under paragraph ( 1) of this Order shall be cancelled or suspended. ( 5) All questions in the Advisory Committee shall be determined by a majority of votes of the Chairman or Deputy Chairman, as the case may be, and of any member present and voting. In case of an equality of votes the Chairman or Deputy Chairman, as the case may be, shall have a casting vote. ( 6) The Mentri Besar, or any person authorised by him in that behalf by notification in the Gazette, may -\n\n(a) cancel any order made under paragraph ( 1) of this Order;\n\n(b) direct that the operation of any such order be suspended and in so doing may impose such conditions as to him rna y seem desirable, including a conclition that the person against whom the order was made shall enter into a bond, for the due compliance with any such condition or conditions, of such amount and with 1 n .such s~r~ties as the Mentri Besar or the person giving the direction may think fit;\n\n(c) revoke any direction given under sub-paragraph (b) of this paragraph if he is satisfied that the person against whom the order was made has failed to observe any condition imposed as aforesaid or that it is not expedient that the operation of the order should continue to be suspended.\" .._._...._........._, '\"\"--'.a.'-o. / ..o...A...o. ._,......, \"'-'.\\.J.&..L.1.6 J..l..l.'-'-J ..1..1..1..1.1-'VIJV such condition as to it may seem desirab,Ye, including a condition that Sf!ch person shall enter into a bond5 for the due compliance with any/such condition, of such amount an,d. with such sureties as may be approved by the Committee or the ! Commission, as the case may be, 1or by such other authority or person as the Committee or the Commission may specify.\n\n(b) ly Committee of Review or the CommisA'on, as the case may be, may respectivey revoke any direction given by a Committee or by the Commission under subparagraph (iii) of paragraph (a) of this Order if it is satisfied that the person against whom the order was made has failed to observe any condition imposed as aforesaid or that it is not expedient that the operation of the order should continue to remain suspended. ( ) The Commission hereinbefore referred to sh 1 be appointed by the Sultan and shall consist of a Chairman and a Deputy Chairman and such number of members as the Sultan thinks fit. The Chairman and Deputy Chairman shall be persono/' who hold or who have held judicial office or officy§ as law officers. The Chairman or Deputy Chairman and any two members shall constitut/ a quorum. I / I\n\n(8) (a) The Commission may at any time/ review anv order or direction made elr g·iven under , paragraph ( 1) of I rder ~ or th~·s any proviso thereto and any conditions upon which the operation 'f any such order has been suspended )!lnder any of the provisions of this Order, and shall review at intervals of noy'more than six months, every such orclef, direction and conditions. I\n\n(b) On a review of any prder, direction or conditions, in accord ~nce with the provisions of sub-paragr~ph (a) of this paragraph, the CommYssion shall have the following powers · 1 l ( i) on a review of an order of detention, wheJ the person to whom the order relates is detained in a place of detel)tion, the powers conferred upon tl'te Mentri Besar by paragraph/ (11) of this Order; ( ii) on aj review of a direction given undr. sub-paragraph ( ii) of the pro[,iso to paragraph ( 1) of this Oraer whereby any person is re 1 uired to comply with any cond\" ions, the power to v~ry or cancel s ch conditions or any of them; n a review of any conditions upon which the operation of any order of detention has been suspended, the power to cancel such order or to vary or cancel such conditions or any of them: Provided that ·where in the opinion of the Chai - man or Deputy Chairman it is expedient to val); in favour of the person detained or cancel any o der or condition such power may be exercised b the Chairman or Deputy Chairman in person. ( 9) (a ) Not less than two weeks beforl the review of any order made under l?aragraph ( 1) of this Order under whioh any person is detained in a place of q~tention the Chairman or Deputy Chaifman of the Commission shall cause nodce pf to be given to. the person so detained the time and place where the Commission will sit for the purpose of reviewirr~ such order and the person so detaine¢' shall be entitled to appear before the ,Commission in person or by counsel, <ydvocate or agent. I\n\n(b) T he Commission j may, in writing addressed to the offJcer in charge of any place of detentioft require the production before it of any person detained therein under an ordyt made under paragraph ( 1) of this Older, and the aforesaid offi' cer shall cat se such person to be produced in ar ordance with such requirement.\n\n(c) Any persgh taken outside a place of detention i ~ pursuance of the provisions of the last /preceding sub-paragraph shall, while optside such place of detention, be deemedi to be in lawful custody for the Cap. 22. purpofoe of the Penal Code.\n\n(d) The t ommission may in its discretion requir . any person to supply any informatio in his possession relating to any matter which is being considered by the G mission in the exercise of its powers u der this Order.\n\n(e) ll proceedings before the Commission hall be held in camera. ( 10 ) Subject to the provisions of the proviso [o paragraph ( 4) of this Order, all questions in / ny Committee of Review or in the Commission sh<f(l be determined by a majority of votes of the Chai'rman or Deputy Chairman, as the case may be,:tn 1 of any member present and voting. In case of a equality of votes the Chairman or Deputy Chair j n, as the case may be, shall have a casting vote. ( 11 ) The Mentri Besar, or any peq6n authorised by him in that behalf by notification {n the Gazette, may(a) cancel any order mad under paragraph ( 1 ) of this Order;\n\n(b) direct that the op ration of any such order be suspende , and in so doing may impose such co itions as to him may seem desirable, including a condition that the perso against whom the order was made sha enter into a bond, for the clue complia ce with any such condition or conditio s, of such amount and with such suret' s as the Mentri Besar or the person gi ing the direction rna y think fit;\n\n(c) revoke ny direction given under subparagr. ph (b) of this paragraph if he is satis d that the person against whom the der was made has failed to observe anr, condition imposed as aforsesaid or th tit is not expedient that the operation the order should continue to be Removal of 9. The Mentri Besar or any person authorised detainee from by him in that behalf may by order direct the reone place to another. moval from any place of detention to another place of detention to be specified in such order of any person or persons detained under any order made under Order 8 of these Orders. Detention. 10. ( 1 ) Any person detained under Order 8 of th e~c Orders may by arrangement with the Government of the Colonies of Sarawak or North Borneo be sent to that Colony on the order of the Mentri Besar, there to be detained for the period specified in such first-mentioned order or any part thereof. ( 2) Any person in the course of removal to the Colonies of Sarawak or North Borneo or there detained under paragraph ( 1), or in course of removal from one place of detention to another under Order 9, shall be deemed to be in lawful custody and as if the person or persons authorised to remove or detain him was or were a prison officer or prison officers under such Orders. ( 3) The Mentri Besar may give orders or directions as to the internal management of and otherwise in connection with any place of det~ntion specified in any order made under Order 9, and as to the discipline of persons detained therein. Detained 11. The Sultan may order any person detained person may under paragraph ( 1) of Order 8 of these Orders to be ordered to leave leave and remain out of the State : the State. Provided that no such order shall be made against: -\n\n(a) any subject of the Sultan; or\n\n(b) any British subject born in the State; or ~~4U~~~~~~~~~pnt F~~~~~~~~~~~b~~~~~~ detained under Order 9 shall be deemed ave had sufficient opportunity of maki objection against the order of cl~iotl':if-;:- period of seven clear clays ha p\"SeCI after he has been informed of his · to lodge such objection in accordance witli.-pa-mgraph (4) of Order 8. , Offences Fire-arms 12. ( 1) Any person who without lawful excuse, the ammunition onus of proving which shall be on such person, carand explosive. ries or has in his possession or under his control -\n\n(a) any fire-arm, without lawful authority therefor; or\n\n(b) any ammunition or explosive \\vithout lawful authority therefor, shall be guilty of an offence and shall be punished with death.\n\n(2) A person shall be deemed to have lawful authority for the purposes of this Order only if he(a) is a police officer or a member of Her Majesty's Naval, Military or Air Forces or of any Local Forces established under any written law or any person employed in the Prisons Department of the State and in every such case is carrying or is in possession of or has under his control such fire-arm, ammunition or explosive in or in connection with the performance of his duty; or\n\n(b) is a person duly licensed, or authorised without a licence, under the provisions of any written law for the time being in force to carry, possess or have under his control such fire-arm, ammunition or explosive; or\n\n(c) is a person exempted from · the pro vi - sions of this Order by an Officer Commanding a Police District or is a member of any class of persons so exempted by the Commissioner of Poiice by notification in the Gazette: Provided that no person shall be deemed to have lawful authority for the purpose of this Order ~ or to be exempt from this Order if he carries or has in his possession or under his control any such firearm, ammunition or explosive for the purpose of using the same in a manner prejudicial to public safety or the maintenance of public order.\n\n(3) A person shall be deemed to have lawful excuse for the purposes of this Order only if he proves(a) that he acquired such fire-arm, ammunition or explosive in a lawful manner and for a lawful purpose; and\n\n(b) that he has not at any time while carrying or having in his possession or under his control such fire-arm, ammunition or explosive, acted in a manner prejudicial to public safety or the maintenance of public order. ( 4) A person charged with an offence against this Order shall not be granted bail. Offensive 13. Any person who carries or has in his possesweapons. sion or under his control any offensive weapon or any instrument capable of being used as an offensive weapon, not being a fire-arm, in circumstances which raise a reasonable presumption that he has used or intends or is about to use such weapon or instrument for any unlawful purpose shall be guilty of an offence and shall be liable to imprisonment for a term not exceeding ten years. Supplies 14. ( 1) Any person who demands, collects or receives any supplies from any other person in circumstances which raise a reasonable presumption that he intends, or is about to act, or has recently acted, in a manner prejudicial to public safety or the maintenance of public order, or that the supplies so demanded, collected or received are intended for the use of any person who intends or is about so to act, or has recently so acted, or for the use of any insurgent, shall be guilty of an offence and shall be punished with imprisonment for a term not exceedin g ten years. ( 2) Any person who is found in possessio;1 of any supplies for which he cannot satisfactorily account in circumstances which raise a reasonable presumption that such supplies are intended for the use of any person who intends, or is about to act, or has recently acted, in a manner prejudicial to public safety or the maintenance- of public order, or that such supplies are intended for the use of any insurgent, shaH be guilty of an offence and shall be punished with imprisonment for a term not exceeding three years. ( 3) Any person who provides, whether directly or indirectly, any supplies to any other person in circumstances which raise a reasonable presumption that such other person intends or is about to act, or has recently acted, in a manner prejudicial to public safety or the maintenance of public order, or that the supplies so provided are intended for ·the use of any person who intends or is about so to act, or has recently so acted, or that such supplies are intended for the use of any insurgent, shall be guilty of an offence and shall be liable to imprisonment for a term not exceeding two years. ( 4) In any charge of an offence against any of the provisions of this Order it shall !JOt be necessary to specify the person or persons from whom any supplies were demanded, collected or received or to whom any supplies were provided. ' Consorting 15. ( 1) Any person who consorts with or is found with person in the company of another person who is carrying or carrying or having has in his possession or under his control any firepossession arm, ammunition or explosive in contravention of of arms or 12 explosives. the provisions of Order of these Orders, in ci rcumstances which raise a reasonable presumption that he intends, or is about to act, or has recently acted, with such other person in a manner prejudicial to public safety or the maintenance of public order shall be guilty of an offence and shall be liable to imprisonment for a term not exceeding five years. ( 2) Any person who consorts vvi th , or is found in the company of, another person who is carrying or has in his possession, or under his control any firearm, ammunition or explosive in contravention of the provisions of Order 12 of these Orders, in circumstances which raise a reasonable presumption that he knew that such other person was carrying or had in his possession or under his control any such fire-arm, ammunition or explosive, shall be guilty of an offence and shall be liable to imprisonment for a term not exceeding three years. ( 3) Where, in any prosecution for an offence under this Order, it is established to the satisfaction of the Court that the accused person was consorting with or in the company of any person who was carrying or had in his possession or under his control any fire-arm, ammunition or explosive, it shall be presumed, until the contrary is proved, that such last mentioned person was carrying or had in his possession or under his control such fire-arm, ammunition or explosive in contravention of the provisions of Order 12 of these Orders . . Failure to 16. Any person who - report offences or to (a) knowing or having reasonable cause to give information con-believe that another person is guilty of cerning any offence against any of these Orders insurgents. fails to report the same to a police officer; or\n\n(b) having in his possession any information as to the present or intended movements or whereabouts of any person whom he knows or has reasonable cause to believe to be an insurgent fails to report the same to a police officer, shall be guilty of an offence and shall be liable to imprisonment for a term not exceeding three years. Protected Place Protected 17. ( 1) If, as respects any place or premises, it applace. pears to the Commissioner of Police to be necessary or expedient in the interests of public safety or order, or for the maintenance of supplies or services essential to the life of the community, that special precautions should be taken to prevent the entry of unauthorised persons, he may by order declare such place or premises to be a protected place for the purposes of these Orders, and so long as the order is in force, no person shall, subject to any exemptions for which provision may be made in the order, be in that place or those premises without the permission of such authority or person as may be specified in the order. Any place or premises in relation to which an order made under this Order is in force is hereinafter referred to as a \"protected place\".\n\n(2) Where, in pursuance of this Order, any person is granted permission to be in a protected place, that person shall, while acting under such permission, comply with such directions for regulating his conduct as may be given by the Commissioner of Police or by the authority or person granting the permission. ( 3) Any police officer or any person authorised in that behalf by the occupier of the premises may search any person entering or seeking to enter, or being in, a protected place, and may detain any such person for the purpose of searching him. ( 4) If any person is in a protected place in contravention of this Order, or, while in such a place, fails to comply with any directions given under this Order, then, without prejudice to any proceedings which may be taken against him, he may be removed from the place by any police officer or any person authorised in that behalf by the occupier of the premises. ( 5) Any person who is in a protected place in contravention of this Order or who on being challenged by a police officer wilfully fails to stop or who unlawfully refuses to submit to search shall be guilty of an offence against these Orders.\n\n(6) It shall be lawful for the Mentri Besar to take or cause to be taken such steps as he may deem necessary for the protection of any protected place, and such steps may extend to the taking of defensive measures which involve or may involve danger to the life of any person entering or attempting to enter the protected place. Where any measures involving such danger as aforesaid are adopted, the Commissioner of Police shall cause such precautions to be taken, including the prominent display of warning notices, as he deems reasonably necessary to prevent inadvertent or accidental entry into any such dangerous area, and, where such precautions have been duly taken, no person shall be entitled to compensation or damages in respect of injury received or death caused as a result of any unauthorised entry into any such protected place or dangerous area. ( 7) For the purposes of this Order \"police officer\" shall inclucle -\n\n(a) any member of Her Majesty's Naval, Military or Air Forces or of any Local Forces established under any written law;\n\n(b) any prison officer, and any officer employed in any place of detention specified in an order made under Order 8 of these Orders;\n\n(c) any other person performing the duties of guard or watchman in a protected place the appointment of whom has been either specially or generally authorised by the Commissioner of Police. Arrest and Search Arrest. 18. Any police officer may without \\-varrant arrest any person suspected of the commission of an offence against these Orders or of being a person ordered to be detained under Order 8 of these ()rrlPn: Arrest of 19. ( 1) Any police officer may without warrant persons sus-arrest any person in respect of vlhom he has reason pected of being liable to believe that there are grounds which would justify to detention. his detention under Order 8 of these Orders. Any such person may be detained for a period not exceeding twenty-eight days pending a decision as to whether an order for his detention under the said Order 8 should be made. ( 2) Any person detained under the powers conferred by this Order shall be deemed to be in lawful custody and may be detained in any prison, or in any police station, or in any other similar place authorised generally or specially by the Mentri Besar. Powers of 20. The powers conferred upon Police Officers arrest and by Orders 18, 19 ( 1) and 23 ( 1) of these Orders search by members of may be exercised by any member of Her Majesty's H.M. Force' Naval, Military or Air Forces or of any Local Forces and of Local Forces. established under any written law or any other person performing the duties of guard or watchman in a protected place or generalfy authorised by the Commissioner of Police. Use of lethal 21. ( 1) Notwithstanding anything to the contrary weapons in contained in any written law, it shall be la,dul for effecting arrests. any officer in order :\n\n(a) to effect the arrest of any person whom he has, in all the circumstances of the case, reasonable grounds for suspecting to have committed an offence against Orders 12 and 15; or\n\n(b) to overcome forci hle resistance offered by any person to such arrest; or\n\n(c) to prevent the escape from arrest or the rescue of any person arrested as aforesaid, to use such force as, in the circumstances of the case, may be reasonably necessary, which force may extend to the use of lethal weapons ( 2) Every person arrested for any of the offences mentioned in paragraph ( 1) of this Order shall , as soon as possible after his arrest, be clearly warned by an officer, of his liability to be shot at if he endeavours to escape from custody. ( 3) For the purposes of this Order, \"officer\" means any police officer or any member of Her Majesty's Naval, Military or Air Forces or of any Local Forces established under any written law and includes any other person performing the duties of guard or watchman in a protected place, the appointment of whom has been either specially or generally authorised by the Commissioner of Police. CajJ. 22 ( 4) Nothing in this Order contained shall derogate from the right of Private Defence contained in sections 96 to 106 inclusive of the Penal Code. ( 5) Any act or thing clone before the coming into force of this Order which would have been lawfully clone if this Order had been in force, shall be deemeel to have been lawfully clone under this Order. Power of 22. (1) (a) When on duty, any Police Officer or any search. member of Her Majesty's Naval, Military or Air Forces or any member of any Local Forces established under any written law, may without warrant and with or without assistance stop and search any vehicle or individual, whether in a public place or not, if he suspects that any evidence of the commission of an offence is likely to be found in such vehicle or on such individual and may seize any evidence so found.\n\n(b) When on clu ty any Police Officer of or above the rank of sergeant or any member of Her Majesty's Naval, Military or Air Forces of or above the rating or rank of leading rate or non-comissionccl officer (as the case may be) or any members of any Local Forces establisheel under any written law of or above such rating or rank who is authorised in writing so to do by the Officer Commanding a Police District, may without warrant and with or without assistance enter and search any premises if he suspects that any evidence of the commission of any offence is likely to ue found on such premises and may seize any evidence so found. ( 2) No woman shall be searched under this Order except by a woman. Power of 23. ( 1) Any police officer may ,,vithout warrant-- search for and seizure (a) enter and search any premises; of offensive weapon. (b) stop and search any vessel, vehicle or individual whether in a public place or not, if he suspects that any offensive weapon of any nature whatsoever or anything which can be adapted or used as an offensive weapon is likely to be found on such premises or individual or in such vessel or vehicle, and may seize any weapon or thing so found. ( 2) No woman shall be searched under this Order except by a woman. Power of Taking Possession of Property Power to 24. ( 1) Without prejudice to the provisions of Order seize 26 the Officer Commanding a Police District may prcm:ses. seize and occupy any building or other structure whether permanent or temporary and any land pertaining thereto which he has reasonable cause to believe(a) belongs to or has been used by any person or persons who intend, or are about to act or have recently acted, in a manner prejudicial to public safety or the maintenance of public order; or\n\n(b) belongs to or is occupied by any person who is harbouring or has harboured or whose servant or agent by \\vhom he is in occupation is harbouring or has harboured any person or persons who intend, or are about to act or have recently acted, in a manner prejudicial to the public safety or the maintenance of public order. ( 2) Every seizure under this Order shall be reported as soon as practicable to the Mentri Besar, who may, if satisfied that such building or structure belongs to or has been used by any such person or persons as are mentioned in paragraph ( 1) of this Order, by order direct the forfeiture of such building or structure together with any land pertaining thereto, and in such case no compensation shall be payable in respect thereof: Provided that the Mentri Besar shall waive or remit subject to such conditions as he may think fit to impose the forfeiture of such building or structure and the land pertaining thereto if the ovmer thereof satisfies the Mentri Besar that the building or structure was used by persons who intend, or are about to act or have recently acted, in a manner prejudicial to the public safety and the maintenance of public order, or that such persons were being or had been harboured by his servant or agent as the case may be, without his knowledge or consent and that he exercised all clue diligence to prevent such building or structure being so used or the harbouring of such persons as the case may be. ( 3) For the purposes of paragraph ( 2) of this Order land pertaining to a building or structure means the land on which such building or structure stands together with such land adjacent thereto as, in the opinion of the Mentri Besar, is used or enjoyed in connection with the occupation of the building or structure. Where a part only of the land comprised in one document of title is forfeited under the provisions of this Order the order of forfeiture shall define as far as is practicable the limits of the part so forfeited and the approximate area thereof. ( 4) Where under paragraph ( 2) of this Order any land comprised in any document of title is forfeited then -\n\n(a) a copy of the order of forfeiture shall be served on the Land Officer and an entry to the effect that the land has been forfeited shall be made by the Land Officer upon the· register document of title relating to such land ; and\n\n(b) the person in whose possession the issue document of title may be shall deliver up the same on demand to the proper registering authority for cancellation; and\n\n(c) upon the cancellation of the ex1stmg document of title, a new document of title for any unforfeited part or parts of the land comprised in the cancelled document of title shall, upon payment of any necessary survey and other fees by the proprietor, be prepared and registered and the new issue document of title in resoect of such uqfnrfcited part or parts shall be issued to the person entitled thereto. ( 5) Where under paragTa ph ( 2) of this Orcin any land is forfeited in the State the Land Officer shall make an entry in the books of the Registry that such land has vested in the State.\n\n(6) Any person failing to deliver up any document of title for cancellation in contravention of the provisions of this Order shall be guilty of an offence against these Orders. Power to 25. ( 1) Any police officer of or above the rank of seize print-Inspector may seize and take possession ofing press and premises (a) any printing press which he has reaused for printing. sonable cause to believe has been used for the printing of any document pmhibited und er Order 27, or contravening the provisions of section 17 of the ~ No. 6 of Public Order Enac tm ~ nt, 1962, or in\n\n1962. respect of which any person has been convicted of an offence under any law relating to sedition or seditious publications;\n\n(b) any type, machinery, apparatus or equipment used or adapted or intended for use for any purpose connected with the operation of any such printing press; and\n\n(c) any premises in which such printing press, type, machinery, apparatm or equipment may be found or in which he has reasonable cause to believe that any such document as aforesaid has been printed or published. ( 2) Any article or premises seized under this Order shall be disposed of as the Mentri Besar may order. Power to 26. ( 1) The Mentri Besar, if it appears to him to be take posses-necessary or expedient so to do in the interests of sion of land or buildings. public safety, or for the accommodation of any of Her Majesty's Naval, M ilitary or Air Forces, or of any Local Forces established under any written law, or of any other security forces, may take possession of any land or of any building or part of a building and may give such directions as appear to him necessary or expedient in connection with the taking of possession of that land or building. ( 2) Any police officer rna y take such steps and use such force as appears to him to be reasonably necessary for securing compliance with directions given to any person under paragraph ( 1) of this Order. ( 3) For the purposes of this Order there shall be one or r.1ore Advisory Committees consisting of persons appointed by the Mentri Besar. Any such Committee may make rules for the conduct of its proceedings. ( 4) Any person aggrieved by reason of the taking possession of any land or building under the provisions of this Order may within fourteen clays after such possession has been taken give notice of his objection thereto to an Advisory Committee appointed under the last preceding paragraph. ( 5) The Chairman of an Advisory Committee to which such notice has been given by an aggrieved person shall inform any person on whose behalf possession of such land or building has been taken. The Advisory Committee shall thereupon consider th(: objection made by the aggrieved person and any grounds which may be put forward against such objection by the person on whose behalf such possession has been taken and shall forward its recommendation to the Mentri Besar. ( 6) The Mentri Besar after considering the recommendations of the Advisory Committee shall give such directions thereon as he may think fit. }... :L-6'A . . .. Prohibition 27. ( 1) The Mentri Besar may, by order, prohibit of printing, the printing, sale, issue, circulation or possession of sale, etc., documents. any document which, in his opinion, contains any incitement to violence or counsels disobedience to the law or to any lawful order or is calculated or likely to lead to a breach of the peace or to promote feelings of ill-will or hostility between different races or classes of the population.\n\n(2) For the avoidance of doubt it is hereby deJared that any order made under paragraph ( 1) of this Order in respect of a publication issued periodically or in parts or numbers at intervals whether regular or irregular, may extend to any past or future issue of such publication. ( 3) Any person who contravenes an order made under this Order shall be guilty of an offence and shall be liable to a fine not exceeding two thousand dollars or to imprisonment for a term not exceeding three years or to both such fine and imprisonment. ;l_(A · --. Criminal Trials and Evidence ~nterpretation. 28. In this Part unless the context otherwise requires - \"emergency procedure case\" means any case certified as a proper case for trial under these Orders in accordance with order 34; \"public prosecutor\" includes a deputy public prosecutor. Admission of 29. ( 1) Where any person IS charged with any statements offence against these Orders or with any offence in evidence. specified in the Schedule to these Orders, any statement, whether such statement amounts to a confession or not or is oral or in writing, made at any time, whether before or after such person is charged and whether in the course of a police investigation or not and whether or not wholly or partly in answer to questions, by such person to or in the hearing of any police officer, whether or not interpreted to him by any other police officer or any other person concerneel, or not, in the arrest, shall, notwithstanding anything to the contrary contained in any written law, be admissible at his trial in evidence and, if such person tenders himself as a witness, any such statement may be used in cross-examination and for the purpose of impeaching his credit: Provided that no such statement shall be admissible or used as aforesaid -\n\n(i) if the making of the statement appears to the Court to have been caused by any inducement, threat or promise having reference to the charge against such person, proceeding from a person in authority and sufficient in the opinion of the Court to give such person grounds which would appear to him reasonable for supposing that by making it he would gain any advantage or avoid any evil of a temporal nature in reference to the proceeding against him; or ( ii) in the case of a statement made by such person after his arrest, unless the Court is satisfied that, before making such statement, a caution was administered to him in the following word or words to the like effect : \"It is my duty to warn you that you are not obliged to say anything or to answer any question, but anything you say, whether in answer to a question or not, may be given in evidence\". ( 2) Notwithstanding anything to the contrary contained in any written law a person accused of an offence to which paragraph ( 1) of this Order applies shall not be bound to answer any question relating to such case after any such caution as aforesaid has been administered to him. ( 3) This Order shall apply in relation to any person tried after the commencement of these Orders whether or not the proceedings against such person were instituted and whether or not the relevant statements were made, before such commencement. ( 4) For the purposes of this Order the expression \"police officer\" shall include any member of Her Majesty's Naval, Military or Air Forces or of any Local Forces established under any written law. Evidence and 30. ( 1) In any prosecution for an offence agaimt presumptions. Orders 13, 14 and 15 of these Orders the fact that, at the time of his arrest, the accused was wearing an unauthorised uniform or was in possession of subversive documents, shall be admissible in evidence and such wearing of an unauthorised uniform or possession of a subversive document shall be deemed by the court to be .a circumstance raising a rebuttable presumption that the accused(a) in the case of an offence against Order 13 has used, or intends or is about to use, the weapon or instrument for an unlawful purpose;\n\n(b) in the case of an offence against Order 14, intends or is about to act, or has recently acted, in a manner prejudicial to public safety or the maintenance of public order, or that the supplies which it is alleged he had demanded, collecteel or received, or of which he was in possession, or which he had provided, were intended for the use of an insurgent; and\n\n(c) in the case of an offence against Order 15 intends, or is about to act, or has recently acted, with the person with whom he was consorting or in whose company he was found, in a manner prejudicial to public safety or the maintenance of public order. ( 2) Every document purporting to be a subversive document shall be deemed to be a subversive document until the contrary is proved. Inquests etc. 31. Notwithstanding anything to the contrary in any written law(a) a Magistrate may dispense with the holding of a death inquiry on the dead body of any police officer or of any member of Her Majesty's Naval, Military or Air Forces or of any Local Forces established under any written law;\n\n(b) where the Magistrate responsible for holding a death inquiry upon the body of any person is satified that such person has been killed as a result of operations for the purpose of suppressing disturbances by the police or by Her Majesty's Naval, Military or Air Forces or by any Local Forces established under any written law, the Magistrate may dispense with the holding of a death inquiry on the body of such person. Ordinary 32. The provisions of the Orders following shall procedure to have effect notwithstanding anything to the contrary apply subject in any written law, but, except insofar as the same to variations effected may be varied by these Orders, the ordinary practice by Orders. and procedure of the Courts shall apply to emergency procedure cases tried under these Orders. Trial with 33. ·whenever any person is charged in any , the aid of assessors. emergency procedure case with an offence for which the punishment of death is authorised by law, he shall be tried by the High Court with the aid of assessors, in accordance with the provisions of ChapCap. 7 ters XX and XXI of the Criminal Procedure Code. Certifying of 34. Where a person is charged with any offence case as an against any written law and the Public Prosecutor emergency case. certifies in writing that the case is a proper one for trial under these Orders, such case shall be tried and disposed of in accordance with the provisions of Orders 35 to 41 inclusive. No preliminary 35. ( 1) No preliminary inquiry slnll be held in reinquiry in spect of any emergency procedure case, but the Maemergency procedure gistrate before whom the accused person is brought case. shall, upon production of the certificate referred to in Order 34, and whether or not a preliminary inquiry has already been commenced, forthwith commit the accused for trial by the High Court at such place and upon such charge as may be designated by the Public Prosecutor. CafJ. 7 ( 2) The provisions of section 145 of the Criminal Procedure Code (which relate to the naming and summoning of witnesses for the defence) shall apply and be applied to any emergency procedure cases. ( 3) Bail shall not be granted to the accused person committed for trial under this Order unless: - ( i) such person is under the age of 16 year~ , or is a woman, or is sick or infirm; and ( ii) the offence of which such person is accused is not punishable with death or life imprisonment. ( 4) The Public Prosecutor may in any emergency procedure case, at any time before trial, alter or withdraw the charge or charges against the accused or frame an additional charge or additional charges against him. R ecord, 36. Upon committal of the accused for trial depositions, in an emergency procedure case, the records of the etc., to be forwarded. proceedings (including, in any case where a preliminary inquiry has been commenced, any depositions taken and any exhibits produced) shall be forwarded to the Registrar at the place to which the accused has been committed for trial to be dealt with and used so far as may be, in accordance with the ordinary practice and procedure of the courts. Date for 37. When an emergency procedure case has trial. been committed for trial as aforesaid, the Registrar shall forthwith fix a elate for trial of the accused. Statement of 38. In every emergency procedure case the prowitnesses to secution shall, not less than two clear clays before be supplied to the the elate fixed for the trial of the case, furnish to the accused. accused person or to his advocate, if any, a copy of the statements made to the police during the rolicc investigations of all persons whom it is inte~ -· d to call as witnesses for the prosecution at the trial. Notice of 39. ( 1) Where, in an·y emergency procedure case, the appeal. accused is convicted, it shall be the duty of the Presiding Judge, immediately after passing sentence, to ask such convicted person if he wishes to appeal against his conviction or sentence or both, and a note of the reply to such question shall be entered in and form part of the record : Provided that nothing in this Order shall apply to any emergency procedure case where --\n\n(a) no sentence other than death is provided by law; and\n\n(b) the accused has been convicted on his own plea. ( 2) If the reply to such question is in the affirmative such reply shall operate as oral notice of appeal and the record of the proceedings shall forthwith be forwarded to the Registrar of the Court of Appeal. ( 3) If the reply to such question is in the negative or is indefinite, the person convicted may nevertheless give formal notice of appeal in the manner and within the time prescribed by the ordinary law relating to appeals from the High Court in criminal matters. J• Assignment 40. ( 1) Subject to any directions given by the Court of counsel. of Appeal in all criminal appeals to the Court of Appeal, the Registrar of the Court of Appeal, shall assign an advocate to act for the appellant unless - · (a) the appellant has retained an advocate to act for him in the appeal; or\n\n(b) the appellant has not been sentenced to death but to some lesser sentence; or\n\n(c) the appellant is on bail pending appeal. ( ·~ ) If an advocate has been retained or assigned to a\\._; ~ ··f'Or the appellant, it shall not be necessary for the appellant to attend personally on the hearing of the appeal, unless the Court of Appeal shall otherwise direct. Notice of · 41. The Registrar of the Court of Appeal shall hearing of give notice to the Public Prosecutor and to the ap!lppeal. pellant or hi.s advocate of the date and time of hearing of the appeal.\n\nSCHEDULE (Order 29) The Penal Code Any offence under any of the following sections: )17, 140 to 160 inclusive, 189, 190, 212, 216, 216A, 225, 302, 304, 324 to 327 inclusive, 329, 332, 333, 3 '~2 to 348 inclusive, 353, 35 7, 363 to 365 inclusive, 367, 368, 384 to 387 inclusive, 392 to 402 inclusive, 430, 431, 435, 436, 448 to 457 inclusive, 458 to 460 inclusive, 505 to 507 inclusive. The Public Order Any offence under the Enactment. Enactment, 1962 (Enact No. 6 of 1962) The Societies Any offence under the Enactment. Enactment (Cap. 66) The Sedition Any offence under the Enactment. Enactment (CajJ. 24) The U ndesirable Any offence under the Enactment. Publications Enactment (Cap. 25) Made this Twelfth day of December, 1962. SrR 0MAR A-LI SAIFUDDJN His Highness the Sultan of Brunei Printed at The Brunei Press Ltd., Kuala Be'lait, by Simon Marinus Buse, Governm~ n1 and .published on 22nd December, 1962 Price 50 cents."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "E 17 1962 E THE EMERGENCY ORDER 1962(1)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

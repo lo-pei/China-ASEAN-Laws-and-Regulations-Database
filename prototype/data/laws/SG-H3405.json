@@ -1,7 +1,7 @@
 {
  "id": "SG-H3405",
  "title": {
-  "zh": null,
+  "zh": "使法律修订版生效的命令",
   "en": "Order Bringing the Revised Edition of Acts Into Force",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Revised Edition of the Laws Act\n(Chapter 275, Section 7)\nOrder Bringing the Revised Edition of Acts Into Force\nO 1\nG.N. No. S 93/1987\nREVISED EDITION 1990\n(25th March 1992)\n[30th March 1987]\nWHEREAS a Revised Edition of the Acts of the Republic of Singapore in force on 31st December 1986 has been prepared pursuant to the provisions of the Revised Edition of the Laws Act 1983:\nAND WHEREAS it is enacted by section 7 of the Act that, upon the completion of the Revised Edition of Acts, the Law Revision Commissioners shall transmit to the President a copy of the Revised Edition of Acts and the President may thereupon, by order published in the Gazette, provide that the Revised Edition of Acts shall come into force on such date as he may think fit:\nNOW THEREFORE it is hereby ordered by the President that the Revised Edition of Acts shall come into force on 30th March 1987."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order Bringing the Revised Edition of Acts Into Force",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

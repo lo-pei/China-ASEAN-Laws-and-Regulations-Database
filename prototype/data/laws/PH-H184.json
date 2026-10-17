@@ -1,7 +1,7 @@
 {
  "id": "PH-H184",
  "title": {
-  "zh": null,
+  "zh": "授权财政部长从国库券基金中提取超过法定准备金要求的款项，并拨款用于支付菲律宾共和国政府认购复兴金融公司股本",
   "en": "An act authorizing the Secretary of Finance to withdraw from the treasury certificate fund such sums as are in excess of the legal reserve requirement, and appropriating the same to pay for subscriptions of the Government of the Republic of the Philippines to the Capital Stock of the Rehabilitation Finance Corporation",
   "orig": "An act authorizing the Secretary of Finance to withdraw from the treasury certificate fund such sums as are in excess of the legal reserve requirement, and appropriating the same to pay for subscriptions of the Government of the Republic of the Philippines to the Capital Stock of the Rehabilitation Finance Corporation"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: October 29, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act authorizing the Secretary of Finance to withdraw from the treasury certificate fund such sums as are in excess of the legal reserve requirement, and appropriating the same to pay for subscriptions of the Government of the Republic of the Philippines to the Capital Stock of the Rehabilitation Finance Corporation",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

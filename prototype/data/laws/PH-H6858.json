@@ -1,7 +1,7 @@
 {
  "id": "PH-H6858",
  "title": {
-  "zh": null,
+  "zh": "将马拉邦市镇Tugatog描笼涯的Malabon市镇中学Tugatog附属校分离改设为Tugatog国立中学并为此拨款的法案",
   "en": "An Act Separating the Malabon Municipal High School, Tugatog Annex, Situated in Barangay Tugatog, From the Malabon Municipal High School Situated in Barangay Hulong-duhat, All in the Municipality of Malabon, Metro Manila, and Converting the Same Into A Separate and Independent National High School To Be Known As the Tugatog National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Malabon Municipal High School, Tugatog Annex, Situated in Barangay Tugatog, From the Malabon Municipal High School Situated in Barangay Hulong-duhat, All in the Municipality of Malabon, Metro Manila, and Converting the Same Into A Separate and Independent National High School To Be Known As the Tugatog National High School, and Appropriating Funds Therefor"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Malabon Municipal High School, Tugatog Annex, Situated in Barangay Tugatog, From the Malabon Municipal High School Situated in Barangay Hulong-duhat, All in the Municipality of Malabon, Metro Manila, and Converting the Same Into A Separate and Independent National High School To Be Known As the Tugatog National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

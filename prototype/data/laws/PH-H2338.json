@@ -1,7 +1,7 @@
 {
  "id": "PH-H2338",
  "title": {
-  "zh": null,
+  "zh": "稳定并遏制特定商品价格螺旋上涨的法案",
   "en": "An Act to Stabilize and Check the Spiraling of the Prices of Certain Commodities",
   "orig": "An Act to Stabilize and Check the Spiraling of the Prices of Certain Commodities"
  },
@@ -160,5 +160,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: July 16, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Stabilize and Check the Spiraling of the Prices of Certain Commodities",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

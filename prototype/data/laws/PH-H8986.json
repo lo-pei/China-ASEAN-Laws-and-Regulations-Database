@@ -1,7 +1,7 @@
 {
  "id": "PH-H8986",
  "title": {
-  "zh": null,
+  "zh": "将高山省Bontoc首府镇的高山省警察办公室驻地正式命名为Camp Lt. Geronimo F. Montes军营的法案",
   "en": "An Act Naming the Mountain Province Police Provincial Office in the Capital Town of Bontoc, Mountain Province to Camp Lt. Geronimo F. Montes",
   "orig": "An Act Naming the Mountain Province Police Provincial Office in the Capital Town of Bontoc, Mountain Province to Camp Lt. Geronimo F. Montes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Mountain Province Police Provincial Office in the Capital Town of Bontoc, Mountain Province to Camp Lt. Geronimo F. Montes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

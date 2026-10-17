@@ -1,7 +1,7 @@
 {
  "id": "SG-H1877",
  "title": {
-  "zh": null,
+  "zh": "人体器官移植（医院宣告）（综合）公告 2025",
   "en": "Human Organ Transplant (Declaration of Hospitals) (Consolidation) Notification 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nPart 1\nHospitals for purposes of Act other than Part 4A\nFirst column\nSecond column\nHospital\nEffective date\n(1)Alexandra Hospital\n(2)Changi General Hospital\n(3)KK Women’s and Children’s Hospital\n(4)National Cancer Centre Singapore\n(5)National Heart Centre Singapore\n(6)National Neuroscience Institute\n(7)National University Hospital\n(8)Singapore General Hospital\n(9)Singapore National Eye Centre\n(10)Tan Tock Seng Hospital\n1 July 2004\n[S 399/2004]\n(11)Parkway East Hospital\n(12)Gleneagles Hospital\n(13)Mount Alvernia Hospital\n(14)Mount Elizabeth Hospital\n(15)Raffles Hospital\n(16)Thomson Medical Centre\n1 July 2005\n[S 293/2005]\n(17)Khoo Teck Puat Hospital\n7 October 2010\n[S 574/2010]\n(18)Mount Elizabeth Novena Hospital\n9 May 2013\n[S 296/2013]\n(19)Ng Teng Fong General Hospital\n21 September 2015\n[S 561/2015]\n(20)Farrer Park Hospital\n(21)Sengkang General Hospital\n19 September 2018\n[S 565/2018]\n(22)Woodlands Hospital (formerly known as Woodlands Health)\n15 May 2024\n[S 411/2024]\n[S 548/2026 wef 02/01/2026]\nPart 2\nHospitals for Purposes of PART 4A of Act\nFirst column\nSecond column\nHospital\nEffective date\n(1)[Deleted by S 548/2026 wef 06/08/2026]\n(2)Mount Elizabeth Hospital\n(3)National University Hospital\n(4)[Deleted by S 548/2026 wef 06/08/2026]\n(5)Singapore General Hospital\n1 July 2004\n[S 399/2004]\n(6)Farrer Park Hospital (for the purpose of carrying out any living donor organ transplant of a kidney only)\n14 July 2023\n[S 506/2023]\n[S 548/2026 wef 06/08/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Human Organ Transplant (Declaration of Hospitals) (Consolidation) Notification 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

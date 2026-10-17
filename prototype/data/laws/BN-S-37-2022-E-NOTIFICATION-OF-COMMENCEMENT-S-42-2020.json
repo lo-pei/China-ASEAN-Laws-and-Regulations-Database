@@ -1,7 +1,7 @@
 {
  "id": "BN-S-37-2022-E-NOTIFICATION-OF-COMMENCEMENT-S-42-2020",
  "title": {
-  "zh": null,
+  "zh": "生效公告 S 42 2020",
   "en": "NOTIFICATION OF COMMENCEMENT S 42 2020",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "17th. DECEMBER, 2022 No. S 37 HALAL CERTIFICATE AND HALAL LABEL (AMENDMENT) ORDER, 2020 (S 42/2020) Notification of commencement In exercise of the power conferred by section 1 ( 1) of the Halal Certificate and Halal Label (Amendment) Order, 2020, the Minister of Religious Affairs, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 1st October 2020 as the date on which that Order shall be deemed to have commenced. Dated this 18th. day of Sya'ban, 1443 Hijriah corresponding to the 21st. day of March, 2022. Pehin Udana Khatib Dato Paduka Seri Setia Ustaz Haji Awang Badaruddin bin Pengarah Dato Paduka Haji Awang Othman Minister of Religious Affairs."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT S 42 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2619",
  "title": {
-  "zh": null,
+  "zh": "修订第2093号共和国法第2条 J 编 C 款萨马省第465页第（23）目的法案",
   "en": "An Act to Amend Subparagraph (23) for the Province of Samar, Page 465, Paragraph C, Title J, Section Two of Republic Act Numbered Twenty Hundred and Ninety-Three",
   "orig": "An Act to Amend Subparagraph (23) for the Province of Samar, Page 465, Paragraph C, Title J, Section Two of Republic Act Numbered Twenty Hundred and Ninety-Three"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Subparagraph (23) for the Province of Samar, Page 465, Paragraph C, Title J, Section Two of Republic Act Numbered Twenty Hundred and Ninety-Three",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

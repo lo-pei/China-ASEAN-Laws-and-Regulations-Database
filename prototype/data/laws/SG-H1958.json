@@ -1,7 +1,7 @@
 {
  "id": "SG-H1958",
  "title": {
-  "zh": null,
+  "zh": "所得税（集装箱投资管理人优惠税率）条例 2010",
   "en": "Income Tax (Concessionary Rate of Tax for Container Investment Manager) Regulations 2010",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. For the purpose of regulation 2, the Comptroller shall determine —\n(a)the income chargeable to tax of an approved container investment manager having regard to such expenses, capital allowances and donations allowable under the Act as are, in his opinion, to be deducted in ascertaining such income; and\n(b)the manner and extent to which any losses arising from the activity referred to in regulation 2 may be deducted under the Act in ascertaining the chargeable income of the approved container investment manager."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Concessionary Rate of Tax for Container Investment Manager) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

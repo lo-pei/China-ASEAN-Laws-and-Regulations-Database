@@ -1,7 +1,7 @@
 {
  "id": "SG-H1577",
  "title": {
-  "zh": null,
+  "zh": "金融服务与市场（制裁与人员资产冻结——伊朗）条例 2023",
   "en": "Financial Services and Markets (Sanctions and Freezing of Assets of Persons — Iran) Regulations 2023",
   "orig": null
  },
@@ -165,5 +165,13 @@
     "en": "THE SCHEDULE\nRegulation 4(1)\nDesignated items\n1. All items, materials, equipment, goods and technology set out in the lists in the United Nations Security Council documents INFCIRC/254/Rev.12/Part 1 and INFCIRC/254/Rev.9/Part 2, which are updated from time to time and made available on the Internet through the official United Nations website at http://www.un.org/en/sc/2231/, and any item which could contribute to reprocessing or enrichment‑related or heavy water‑related activities inconsistent with the JCPOA, except the supply, sale or transfer of the following:\n(a)equipment covered by B.1 of INFCIRC/254/Rev.12/Part 1 when the equipment is for light water reactors;\n(b)low-enriched uranium covered by A.1.2 of INFCIRC/254/Rev.12/Part 1 when it is incorporated in assembled nuclear fuel elements for the reactors;\n(c)items, materials, equipment, goods and technology set out in INFCIRC/254/Rev.9/Part 2 only when for exclusive use in light water reactors;\n(d)items, materials, equipment, goods and technology that are directly related to the necessary modification of 2 cascades at the Fordow facility for stable isotope production, the export of Iran’s enriched uranium in excess of 300 kilograms in return for natural uranium, and the modernisation of the Arak reactor based on the agreed conceptual design and, subsequently, on the agreed final design of the reactor.\n2. All items, materials, equipment, goods and technology set out in the list in the United Nations Security Council document S/2015/546, which is updated from time to time and made available on the Internet through the official United Nations website at http://www.un.org/en/sc/2231/.\n3. Any items, materials, equipment, goods and technology that could contribute to the development of nuclear weapon delivery systems.\n4. Arms and related matériel."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Financial Services and Markets (Sanctions and Freezing of Assets of Persons — Iran) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

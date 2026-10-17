@@ -1,7 +1,7 @@
 {
  "id": "SG-H3328",
  "title": {
-  "zh": null,
+  "zh": "国家疾病登记处（肝脏——肝切除后（供体）通报）条例 2009",
   "en": "National Registry of Diseases (Liver — Post Hepatic Resection (Donor) Notification) Regulations 2009",
   "orig": null
  },
@@ -130,5 +130,13 @@
     "en": "FOURTH SCHEDULE\nRegulation 4\nAdditional Information for Cases\nUndergoing Treatment\n1. Patient’s status (at follow-up):\n(a)date of consultation;\n(b)healthcare institution (including specific centre, department or clinic) responsible for subsequent treatment or follow-up;\n(c)weight;\n(d)height;\n(e)smoking status;\n(f)employment status;\n(g)EQ-5D (including mobility, self-care, usual activities, pain or discomfort and anxiety or depression);\n(h)other illnesses since last visit (including diagnosis and date of diagnosis);\n(i)admission to hospital since last visit (including diagnosis and date of admission).\n2. Investigations (at follow-up):\n(a)liver panel (including date);\n(b)full blood count (including date);\n(c)prothrombin time (PT) (including date);\n(d)ultrasound, CT Scan or MRI (including date and findings);\n(e)ERCP or MRCP (including date and findings).\n3. Adverse condition relating to liver:\nwhether or not the patient has liver failure (including date, cause of liver failure, on transplant waiting list and reason for not on transplant waiting list).\n4. Vital status:\n(a) whether patient is living or deceased;\n(b)where the patient is deceased, the date, place and cause of death.\n5. Details of notifying healthcare institution:\nperson who made the notification."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "National Registry of Diseases (Liver — Post Hepatic Resection (Donor) Notification) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

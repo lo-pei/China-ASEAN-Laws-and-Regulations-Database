@@ -1,7 +1,7 @@
 {
  "id": "SG-H3068",
  "title": {
-  "zh": null,
+  "zh": "赡养令（相互执行）法 1975",
   "en": "Maintenance Orders (Reciprocal Enforcement) Act 1975",
   "orig": null
  },
@@ -358,5 +358,13 @@
     "en": "19. Where the Minister proposes by a notification in the Gazette under section 17 to designate as a reciprocating country a country or territory to which at the commencement of that section the Maintenance Orders (Facilities for Enforcement) Act (Cap. 168, 1985 Revised Edition) (called in this section the repealed Act) extended, that notification may contain such provisions as the Minister considers expedient for the purposes of securing —\n(a)that the provisions of this Act applied, subject to such modifications as may be specified in the notification, to maintenance orders, or maintenance orders of a specified class —\n(i)made by a court in Singapore against a person residing in that country or territory; or\n(ii)made by a court in that country or territory against a person residing in Singapore,\nbeing orders to which immediately before the date of the commencement of the notification the repealed Act applied;\n(b)that any maintenance order, or maintenance order of a specified class, made by a court in that country or territory which has been confirmed by a court in Singapore under section 6 of the repealed Act and is in force immediately before that date is registered under section 7 of this Act; and\n(c)that any proceedings brought under or by virtue of a provision under the repealed Act in a court in Singapore which are pending at that date, being proceedings affecting a person resident in that country or territory, are continued as if they had been brought under or by virtue of the corresponding provision of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Maintenance Orders (Reciprocal Enforcement) Act 1975",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-53-2000-E-INTERNATIONAL-BANKING-ORDER-2000",
  "title": {
-  "zh": null,
+  "zh": "国际银行命令 2000",
   "en": "INTERNATIONAL BANKING ORDER 2000",
   "orig": null
  },
@@ -489,5 +489,13 @@
     "en": "Nothing in this Order shall prejudice any right that a person interested or any other person may have to take civil proceedings or obtain relief against a licensee, former licensee, associate, director or ·employee of any licensee or former licensee or any other person connected in any way with international business.\n\nSCHEDULE OF \"CONTROLLER\" ETC., AND \"PARENT AND SUBSIDIARY\" ETC."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "INTERNATIONAL BANKING ORDER 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

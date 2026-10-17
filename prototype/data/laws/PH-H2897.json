@@ -1,7 +1,7 @@
 {
  "id": "PH-H2897",
  "title": {
-  "zh": null,
+  "zh": "修订第 603 号共和国法（题为「设立 Roxas 市法」）若干条款并新增条款的法案",
   "en": "An Act to Amend Republic Act Numbered Six Hundred and Three, Entitled “An Act Creating the City of Roxas,” by Altering Certain Sections Thereof and Adding New Ones",
   "orig": "An Act to Amend Republic Act Numbered Six Hundred and Three, Entitled “An Act Creating the City of Roxas,” by Altering Certain Sections Thereof and Adding New Ones"
  },
@@ -270,5 +270,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1962."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Six Hundred and Three, Entitled “An Act Creating the City of Roxas,” by Altering Certain Sections Thereof and Adding New Ones",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

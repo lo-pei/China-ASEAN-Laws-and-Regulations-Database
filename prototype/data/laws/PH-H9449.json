@@ -1,7 +1,7 @@
 {
  "id": "PH-H9449",
  "title": {
-  "zh": null,
+  "zh": "将授予Gateway超高频电视公司（现称Gateway电视公司，商号希望频道菲律宾）的特许权续展二十五年，修订第7223号共和国法（《授予其超高频电视台特许权并为其他目的》）的法案",
   "en": "An Act Renewing for Anther Twenty-Five Years the Franchise Granted to Gateway U.H.F. Television Broadcasting, Inc., Presently Known as Gateway Television Broadcasting Inc., and Doing Business Under the Name and Style of Hope Channel Philippines, Amending for the Purpose Republic Act 7223, Entitled: \"An Act Granting Gateway U.H.F. Television Broadcasting, Inc., a Franchise to Construct, Install, Operate and Maintain for Commercial Purposed UHF Television Broadcasting Stations in the Philippines, and for Other Purposes\"",
   "orig": "An Act Renewing for Anther Twenty-Five Years the Franchise Granted to Gateway U.H.F. Television Broadcasting, Inc., Presently Known as Gateway Television Broadcasting Inc., and Doing Business Under the Name and Style of Hope Channel Philippines, Amending for the Purpose Republic Act 7223, Entitled: \"An Act Granting Gateway U.H.F. Television Broadcasting, Inc., a Franchise to Construct, Install, Operate and Maintain for Commercial Purposed UHF Television Broadcasting Stations in the Philippines, and for Other Purposes\""
  },
@@ -61,5 +61,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing for Anther Twenty-Five Years the Franchise Granted to Gateway U.H.F. Television Broadcasting, Inc., Presently Known as Gateway Television Broadcasting Inc., and Doing Business Under the Name and Style of Hope Channel Philippines, Amending for the Purpose Republic Act 7223, Entitled: \"An Act Granting Gateway U.H.F. Television Broadcasting, Inc., a Franchise to Construct, Install, Operate and Maintain for Commercial Purposed UHF Television Broadcasting Stations in the Philippines, and for Other Purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

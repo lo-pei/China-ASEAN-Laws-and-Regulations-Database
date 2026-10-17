@@ -1,7 +1,7 @@
 {
  "id": "SG-H720",
  "title": {
-  "zh": null,
+  "zh": "委员会",
   "en": "Commission",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Inquiry Commissions Ordinance\nChapter 52, 1955 Revised Edition\nCommission\nN 24\nG.N. No. S 810/1962\nREVISED EDITION 1990\n( )\n[9 April 1962]\nELIZABETH THE SECOND, by the Grace of God of the United Kingdom of Great Britain and Northern Ireland and of Her Other Realms and Territories QUEEN, Head of the Commonwealth, Defender of the Faith.\nBy His Excellency Enche YUSOF BIN ISHAK, Yang di-Pertuan Negara of the State of Singapore.\nWhereas it is provided by the Inquiry Commissions Ordinance that it shall be lawful for the Yang di-Pertuan Negara, whenever he shall deem it advisable, to issue a Commission appointing one or more Commissioners to enquire, inter alia, into any matter in which an inquiry would, in the opinion of the Yang di-Pertuan Negara, be for the public welfare:\nAnd whereas I am of the opinion that an inquiry should forthwith be made by a Commission so appointed in accordance with the following terms of reference:\n“\n“To inquire into the November-December 1961 Secondary Four Examination Boycott by certain Chinese Middle Schools’ student groups against the background of the history of political agitation in Chinese Middle Schools, and to what extent it was brought about by exploitation of Chinese educational issues by and through Communists and their front organisations.”.\n”.\nNow, therefore, I, YUSOF BIN ISHAK, hereby appoint the Honourable Mr. Justice Wee Chong Jin to be a Commissioner and hereby authorise the said Commissioner to conduct such inquiry in the manner hereinafter directed:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

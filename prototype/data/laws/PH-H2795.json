@@ -1,7 +1,7 @@
 {
  "id": "PH-H2795",
  "title": {
-  "zh": null,
+  "zh": "重新划拨第1411号共和国法项下用于购置扩建西内格罗斯省Pulupandan市镇Palaca村学校校址的增补场地的5000比索的法案",
   "en": "An Act Reappropriating the Sum of Five Thousand Pesos Appropriated Under Republic Act Numbered Fourteen Hundred Eleven for the Purchase of Additional Site to Expand the School Lot of the Barrio School of Palaca, Municipality of Pulupandan, Province of Negros Occidental",
   "orig": "An Act Reappropriating the Sum of Five Thousand Pesos Appropriated Under Republic Act Numbered Fourteen Hundred Eleven for the Purchase of Additional Site to Expand the School Lot of the Barrio School of Palaca, Municipality of Pulupandan, Province of Negros Occidental"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reappropriating the Sum of Five Thousand Pesos Appropriated Under Republic Act Numbered Fourteen Hundred Eleven for the Purchase of Additional Site to Expand the School Lot of the Barrio School of Palaca, Municipality of Pulupandan, Province of Negros Occidental",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

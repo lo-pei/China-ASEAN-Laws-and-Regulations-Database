@@ -1,7 +1,7 @@
 {
  "id": "SG-H2860",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（INTELSAT）命令",
   "en": "International Organisations (Immunities and Privileges) (INTELSAT) Order",
   "orig": null
  },
@@ -173,5 +173,13 @@
     "en": "THE SCHEDULE\nParagraph 3(1)\nActivities of the Intelsat Asia-pacific Regional Support Centre\nThe activities to be undertaken by the INTELSAT Asia-Pacific Regional Support Centre referred to in paragraph 3 of this Order are as follows:\n1.Provision of information related to INTELSAT services and capabilities.\n2.Assistance to customers in identifying effective operational and technical solutions, in terms of space segment and earth segment.\n3.Technical assistance when specifying earth segment facilities.\n4.Earth station application or verification assistance.\n5.Enhanced resources and support for staff training.\n6.Coordination of regional business development activities.\n7.Support for the introduction of new technologies and services.\n8.Generation and analysis of regional market information.\n9.Promotion and development of INTELSAT business."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "International Organisations (Immunities and Privileges) (INTELSAT) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

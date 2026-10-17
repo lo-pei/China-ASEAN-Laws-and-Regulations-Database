@@ -1,0 +1,117 @@
+{
+ "id": "BN-CAP-290-RG-2-2024-CA-CARRIAGE-OF-LIQUIDS-AEROSOLS-AND-A25F97",
+ "title": {
+  "zh": "Rg 2 2024 版液体、气雾剂与凝胶运输条例",
+  "en": "Rg 2 ​2024 Ed Ca Carriage of Liquids Aerosols and Gels Regulations",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p22",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 5,
+ "chars": 2193,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "cap-290-rg-2-​2024-ed-ca-carriage-of-liquids-aerosols-and-gels-regulations.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《cap-290-rg-2-​2024-ed-ca-carriage-of-liquids-aerosols-and-gels-regulations.pdf》（6 页），本次切分 5 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-290-RG-2-2024-CA-CARRIAGE-OF-LIQUIDS-AEROSOLS-AND-A25F97-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "These Regulations may be cited as the Civil Aviation (Carriage of Liquids, Aerosols and Gels) Regulations."
+   }
+  },
+  {
+   "id": "BN-CAP-290-RG-2-2024-CA-CARRIAGE-OF-LIQUIDS-AEROSOLS-AND-A25F97-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "Non-application"
+   },
+   "text": {
+    "en": "These Regulations do not apply —\n\n(a) to any liquid, aerosol or gel carried by one passenger in one or more containers with an individual capacity not exceeding 100 millilitres or its equivalent places within a single closed transparent re-sealable plastic bag of a maximum capacity not exceeding one litre;\n\n(b) to any liquid, aerosol or gel purchased at an airport retail outlet or on board an aircraft during a flight if they —\n\n(i) are carried in a security tamper-evident bag; and\n\n(ii) have been protected from unlawful interference by a process of supply chain security, including the application of appropriate security measures at the places of manufacture and at warehouses, during the delivery process for both liquids, aerosols and gels and security tamper-evident bags from the warehouse to the airport retail outlets and aircraft outlets, and whilst in stock or on display at those outlets;\n\n(c) to any medication, babies’ milk or food and any special dietary or other medical requirement which is needed during the flight, either for essential medical purposes or to meet any special and essential dietary needs;\n\n(d) to flight crew in uniform and on duty during such a flight."
+   }
+  },
+  {
+   "id": "BN-CAP-290-RG-2-2024-CA-CARRIAGE-OF-LIQUIDS-AEROSOLS-AND-A25F97-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "Prohibition of carriage of liquids, aerosols or gels"
+   },
+   "text": {
+    "en": "(1) The carriage by air by any person in hand-luggage on an international flight of any liquid, aerosol or gel to which these Regulations apply is prohibited. 6 CAP. 290, Rg 2 Civil Aviation\n\n(2) Any such liquid, aerosol or gel carried or attempted to be carried in contravention of sub-regulation (1) may be seized by any police officer and shall be liable to forfeiture.\n\n(3) Any person who contravenes or who attempts to contravene sub-regulation (1) is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 6 months or both."
+   }
+  },
+  {
+   "id": "BN-CAP-290-RG-2-2024-CA-CARRIAGE-OF-LIQUIDS-AEROSOLS-AND-A25F97-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "Exemption"
+   },
+   "text": {
+    "en": "The Minister may exempt from the provisions of these Regulations any aircraft or person or classes of aircraft or persons. Authorisation of Director"
+   }
+  },
+  {
+   "id": "BN-CAP-290-RG-2-2024-CA-CARRIAGE-OF-LIQUIDS-AEROSOLS-AND-A25F97-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "heading": {
+    "en": "________________________________"
+   },
+   "text": {
+    "en": "The Director is hereby authorised to make and issue directions with respect to the carriage by air of any liquid, aerosol or gel on an international flight."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Rg 2 ​2024 Ed Ca Carriage of Liquids Aerosols and Gels Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2281",
  "title": {
-  "zh": null,
+  "zh": "所得税（BP、加德士与新加坡石油公司合资催化重整与减黏裂化项目的初期免税额）命令",
   "en": "Income Tax (Initial Allowance in Respect of Bp Singapore Pte. Ltd., Caltex Operations Ltd. and Singapore Petroleum Co. Pte. Ltd. Joint-venture Catalytic Reformer and Visbreaker Projects) Order",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Where any condition specified in paragraph 3 is not satisfied and is not waived by the Minister, section 19A of the Act shall apply and the Comptroller shall be entitled to recover any initial allowance which has been made in excess of that allowable under that section."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Initial Allowance in Respect of Bp Singapore Pte. Ltd., Caltex Operations Ltd. and Singapore Petroleum Co. Pte. Ltd. Joint-venture Catalytic Reformer and Visbreaker Projects) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

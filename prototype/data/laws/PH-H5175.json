@@ -1,7 +1,7 @@
 {
  "id": "PH-H5175",
  "title": {
-  "zh": null,
+  "zh": "将北达沃省第一区的San Mariano市镇更名为Maragusan市镇的法案",
   "en": "An Act Changing the Name of the Municipality of San Mariano in the First District of the Province of Davao Del Norte to Municipality of Maragusan",
   "orig": "An Act Changing the Name of the Municipality of San Mariano in the First District of the Province of Davao Del Norte to Municipality of Maragusan"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Municipality of San Mariano in the First District of the Province of Davao Del Norte to Municipality of Maragusan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

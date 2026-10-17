@@ -1,7 +1,7 @@
 {
  "id": "SG-H3408",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11 (3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n(1) The Futures Trading Act (Chapter 116).\n(2) The Limitation Act (Chapter 163).\n(3) The Money-changing and Remittance Businesses Act (Chapter 187).\n(4) The Parking Places Act (Chapter 214).\n(5) The Parks and Trees Act (Chapter 216).\n(6) The Small Claims Tribunals Act (Chapter 308).\n(7) The State Lands Act (Chapter 314).\n(8) The Wills Act (Chapter 352).\n[G.N. No. S 539/96]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11 (3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

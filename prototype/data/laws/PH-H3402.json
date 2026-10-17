@@ -1,7 +1,7 @@
 {
  "id": "PH-H3402",
  "title": {
-  "zh": null,
+  "zh": "关于禁止并处罚窃听及其他侵犯通信隐私行为以及作其他规定的法案",
   "en": "An Act to Prohibit and Penalize Wire Tapping and Other Related Violations of the Privacy of Communication, and for Other Purposes",
   "orig": "An Act to Prohibit and Penalize Wire Tapping and Other Related Violations of the Privacy of Communication, and for Other Purposes"
  },
@@ -100,5 +100,11 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act to Prohibit and Penalize Wire Tapping and Other Related Violations of the Privacy of Communication, and for Other Purposes",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

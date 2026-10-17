@@ -1,7 +1,7 @@
 {
  "id": "PH-H5746",
  "title": {
-  "zh": null,
+  "zh": "将北拉瑙省伊利甘市伊利甘市区医院床位由75张增至150张并为此拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Iligan City District Hospital in Iligan City, Province of Lanao Del Norte, From Seventy-five (75) to One Hundred Fifty (150) Beds, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Iligan City District Hospital in Iligan City, Province of Lanao Del Norte, From Seventy-five (75) to One Hundred Fifty (150) Beds, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Iligan City District Hospital in Iligan City, Province of Lanao Del Norte, From Seventy-five (75) to One Hundred Fifty (150) Beds, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

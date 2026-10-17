@@ -1,7 +1,7 @@
 {
  "id": "SG-H095",
  "title": {
-  "zh": null,
+  "zh": "主动出行（强制检测）条例 2020",
   "en": "Active Mobility (Mandatory Testing) Regulations 2020",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. An application for a certification of inspection with respect to a relevant vehicle must be made using a form approved by the Authority and through the designated examiner engaged by the applicant to conduct the examination or assessment of the relevant vehicle for the purposes of Division 2 of Part 4 of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Mandatory Testing) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

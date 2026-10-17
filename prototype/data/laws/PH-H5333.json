@@ -1,7 +1,7 @@
 {
  "id": "PH-H5333",
  "title": {
-  "zh": null,
+  "zh": "修订第4487号共和国法（题为“设立邦阿西楠省San Carlos市”）第96条，允许San Carlos市合格选民参加邦阿西楠省选举",
   "en": "An Act to Amend Section Ninety-Six of Republic Act Numbered Forty-Four Hundred and Eighty-Seven, Entitled \"An Act Creating the City of San Carlos in Pangasinan\" by Allowing Qualified Voters of the City of San Carlos to Vote in the Provincial Elections of the Province of Pangasinan",
   "orig": "An Act to Amend Section Ninety-Six of Republic Act Numbered Forty-Four Hundred and Eighty-Seven, Entitled \"An Act Creating the City of San Carlos in Pangasinan\" by Allowing Qualified Voters of the City of San Carlos to Vote in the Provincial Elections of the Province of Pangasinan"
  },
@@ -70,5 +70,13 @@
     "en": "Effectivity.— This Act shall take effect upon its approval.\nApproved: January 5, 1990."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Ninety-Six of Republic Act Numbered Forty-Four Hundred and Eighty-Seven, Entitled \"An Act Creating the City of San Carlos in Pangasinan\" by Allowing Qualified Voters of the City of San Carlos to Vote in the Provincial Elections of the Province of Pangasinan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

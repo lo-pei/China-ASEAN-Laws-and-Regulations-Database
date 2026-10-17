@@ -1,7 +1,7 @@
 {
  "id": "PH-H4056",
  "title": {
-  "zh": null,
+  "zh": "将保和省 Bilar 市镇保和国立农业学校改设为名为保和农业学院的学院并拨付必要经费",
   "en": "An Act to Convert the Bohol National Agricultural School in the Municipality of Bilar, Province of Bohol, into a College to be Known as Bohol Agricultural College and to Appropriate the Necessary Funds Therefor",
   "orig": "An Act to Convert the Bohol National Agricultural School in the Municipality of Bilar, Province of Bohol, into a College to be Known as Bohol Agricultural College and to Appropriate the Necessary Funds Therefor"
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Bohol National Agricultural School in the Municipality of Bilar, Province of Bohol, into a College to be Known as Bohol Agricultural College and to Appropriate the Necessary Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

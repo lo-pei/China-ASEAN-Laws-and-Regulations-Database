@@ -1,7 +1,7 @@
 {
  "id": "PH-H5304",
  "title": {
-  "zh": null,
+  "zh": "将布拉干省普拉里代尔-布斯托斯-安加特-诺萨加赖-圣玛丽亚公路命名为Alejo G. Santos将军公路的法案",
   "en": "An Act Naming the Plaridel-Bustos-Angat-Norzagaray-Santa Maria Highway in the Province of Bulacan as the General Alejo G. Santos Highway",
   "orig": "An Act Naming the Plaridel-Bustos-Angat-Norzagaray-Santa Maria Highway in the Province of Bulacan as the General Alejo G. Santos Highway"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Plaridel-Bustos-Angat-Norzagaray-Santa Maria Highway in the Province of Bulacan as the General Alejo G. Santos Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

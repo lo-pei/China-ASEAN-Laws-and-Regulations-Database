@@ -1,7 +1,7 @@
 {
  "id": "PH-H5531",
  "title": {
-  "zh": null,
+  "zh": "要求政府机关定期公布现有空缺职位、为此拨款并为其他目的法案",
   "en": "An Act Requiring Regular Publication of Existing Vacant Positions in Government Offices, Appropriating Funds Therefore, and for Other Purposes",
   "orig": "An Act Requiring Regular Publication of Existing Vacant Positions in Government Offices, Appropriating Funds Therefore, and for Other Purposes"
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after publication in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring Regular Publication of Existing Vacant Positions in Government Offices, Appropriating Funds Therefore, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

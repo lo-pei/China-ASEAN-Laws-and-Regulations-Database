@@ -1,7 +1,7 @@
 {
  "id": "SG-H3126",
  "title": {
-  "zh": null,
+  "zh": "药品（本法停止适用于治疗产品）命令 2016",
   "en": "Medicines (Cessation of Application of Act to Therapeutic Products) Order 2016",
   "orig": null
  },
@@ -110,5 +110,13 @@
     "en": "SECOND SCHEDULE\nParagraph 4(2)\nSaving and transitional provisions for documents issued\nFirst column\nSecond column\nDocuments issued under Medicines Act\nDocuments issued under Health Products Act\n1.Product licence\nExtract from the Register of Health Products for a registered therapeutic product\n2.Medicine manufacturer’s licence\nHealth product manufacturer’s licence\n3.Import licence\nImporter’s licence\n4.Wholesale dealer’s licence\nWholesaler’s licence\n5.Export licence granted under the Medicines (Export Licence for Psychotropic Substances) Regulations (Rg 9)\nNotice of approval under regulation 8 of the Therapeutic Products Regulations to export a therapeutic product\n6.Permit to import a medicinal product without a product licence or an import licence under paragraph 4(b) or (c) of the Medicines Exemption Order\nNotice of approval under regulation 51(3) of the Therapeutic Products Regulations\n7.Good Manufacturing Practice Certificate issued under the Medicines (Good Manufacturing Practice Certificate) Regulations (Rg 16)\nGMP Certificate issued under regulation 62 of the Therapeutic Products Regulations\n8.Certificate to Export a Medicinal Product\nCertificate issued under regulation 61 of the Therapeutic Products Regulations\n9.Confirmation of Authorisation to Import Psychotropic Substances\nNotice of approval to import a therapeutic product containing a psychotropic substance under regulation 6(1) of the Therapeutic Products Regulations\n10.Confirmation of Authorisation to Import Restricted Substances\nCertificate issued under regulation 64 of the Therapeutic Products Regulations\n11.Statement of Licensing Status of a Medicinal Product\nCertificate issued under regulation 61 of the Therapeutic Products Regulations\n12.Certificate of registration for a registered pharmacy\nPharmacy licence"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Medicines (Cessation of Application of Act to Therapeutic Products) Order 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

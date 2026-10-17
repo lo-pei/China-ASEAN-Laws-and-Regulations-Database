@@ -1,7 +1,7 @@
 {
  "id": "BN-S-31-1988-TRANSFER-OF-FUNCTIONS",
  "title": {
-  "zh": null,
+  "zh": "职能移交",
   "en": "TRANSFER OF FUNCTIONS",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 31\n\nCONSTITUTION OF BRUNEI DARUSSALAM Constitution (Transfer of Functions and Consequential Provisions) (No. 2) Order, 1988 In exercise of the powers conferred by paragraph 1 of the Second Schedule to the Emergency (Constitution of Brunei Darussalam) (Amendment) Order, 1983, His Majesty The Sultan and Yang Di-Pertuan of Brunei Darussalam hereby makes the following Order:- Citation. 1. This Order may be cited as the Constitution (Transfer of Functions and Consequential Provisions) jNo. 2) Order, 1988. Interpretation. 2. In this Order 11functions\" includes any powers, duties, privileges or benefits conferred or imposed by any written law on any person or authority. Transfer of 3. The functions conferred or imposed on the person or authority functions. specified in the first column of the Schedule by the provisions of law specified opposite thereto in the second column of that Schedule are hereby transferred to the person or authority specified opposite thereto in the third column of that Schedule.\n\nSCHEDULE (Article 3)\n\nTRANSFER OF STATUTORY FUNCTIONS First Column Second Column Third Column Person or authority Provisions of Law Person or authority from whom func-concerned to whom functions tions transferred transferred COMPANIES ACT (CHAPTER 39) His Majesty The Section 20(2) Minister of Law Sultan and Yang Di-Pertuan Section 21 II Section 22 II Section 103 II His Majesty The Section 106 Sultan and Yang Di-Pertuan in Council 254 31st. DECEMBER, 1988 First Column Second Column Third Column Person or authority Provisions or Law Person or authority from whom func-concerned to whom functions tions transferred transferred COMPANIES ACT (CHAPTER 39) His Majesty The Section 13113) Minister of Finance Sultan and Yang Di-Pertuan in Council Clerk of Council Section 131(3) Permanent Secretary, Ministry of Finance His Majesty The Section 222(6) Minister of Law Sultan and Yang Di-Pertuan 1/ Section 278 His Majesty The Section 281(2) Minister of Law Sultan and Yang with the approval Di-Pertuan in of His Majesty The Council Sultan and Yang Di-Pertuan Section 281(2)(cJ Minister of Finance Section 323 Minister of Law with the approval of His Majesty The Sultan and Yang Di-Pertuan BUSINESS NAMES ACT (CHAPTER 92) · His Majesty The Section 21(2) Minister of Law Sultan and Yang Di-Pertuan His Majesty The Section 24(1) Minister of Law Sultan and Yang with the approval Di · Pertuan in of His Majesty The Council Sultan and Yang Di-Pertuan Made this 31st. day of August, 1988 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TRANSFER OF FUNCTIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

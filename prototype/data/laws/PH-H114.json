@@ -1,7 +1,7 @@
 {
  "id": "PH-H114",
  "title": {
-  "zh": null,
+  "zh": "规定在治安法官面前的任何刑事诉讼中，案件被驳回或被告获判无罪时不得向有关市镇征收任何免费费用的法案",
   "en": "An Act Providing that in Any Criminal Proceeding Before a Justice of the Peace No Cost De Oficio Shall be Taxed Against the Municipality Concerned When the Case is Dismissed or the Defendant Acquitted",
   "orig": "An Act Providing that in Any Criminal Proceeding Before a Justice of the Peace No Cost De Oficio Shall be Taxed Against the Municipality Concerned When the Case is Dismissed or the Defendant Acquitted"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 18, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing that in Any Criminal Proceeding Before a Justice of the Peace No Cost De Oficio Shall be Taxed Against the Municipality Concerned When the Case is Dismissed or the Defendant Acquitted",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

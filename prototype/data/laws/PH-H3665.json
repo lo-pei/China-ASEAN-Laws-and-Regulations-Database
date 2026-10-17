@@ -1,7 +1,7 @@
 {
  "id": "PH-H3665",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统保留菲律宾政府特定地块供亚洲开发银行与联合国组织无偿使用；拨款建设其建筑物；拨款支付亚洲开发银行临时办公室租金，并为其他目的法案",
   "en": "An Act Authorizing the President of the Philippines to Reserve Certain Parcels of Land of the Philippine Government for the Free Use of the Asian Development Bank and the United Nations Organization; Appropriating Funds for the Construction of Buildings Thereon; Appropriating Funds for the Payment of Rental on the Temporary Offices of the Asian Development Bank, and for Other Purposes",
   "orig": "An Act Authorizing the President of the Philippines to Reserve Certain Parcels of Land of the Philippine Government for the Free Use of the Asian Development Bank and the United Nations Organization; Appropriating Funds for the Construction of Buildings Thereon; Appropriating Funds for the Payment of Rental on the Temporary Offices of the Asian Development Bank, and for Other Purposes"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 9, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Reserve Certain Parcels of Land of the Philippine Government for the Free Use of the Asian Development Bank and the United Nations Organization; Appropriating Funds for the Construction of Buildings Thereon; Appropriating Funds for the Payment of Rental on the Temporary Offices of the Asian Development Bank, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

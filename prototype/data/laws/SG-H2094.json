@@ -1,7 +1,7 @@
 {
  "id": "SG-H2094",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 8 号）命令 2013",
   "en": "Income Tax (Exemption of Foreign Income) (No. 8) Order 2013",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Asian Pay Television Trust is hereby granted exemption from tax on the dividends received in Singapore on or after 29th May 2013 from APTT Holdings 1 Limited and APTT Holdings 2 Limited located in Bermuda.\n(2) The exemption under sub-paragraph (1) is subject to the following:\n(a)the ultimate source of funds from which the dividends referred to in sub-paragraph (1) are declared can be traced to income derived by the Taiwanese Operating Companies referred to in the footnote to paragraph 2(vi) of the letter of approval dated 16th January 2013 addressed to Macquarie International Infrastructure Fund Limited and Macquarie Korea Opportunities Fund (referred to in this Order as the “letter of approval”) from their respective business activities; and\n(b)the terms and conditions specified in the letter of approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 8) Order 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

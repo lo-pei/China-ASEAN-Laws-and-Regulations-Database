@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-2-2009-APPLICATION-OF-LAWS-ACT",
  "title": {
-  "zh": null,
+  "zh": "法律适用法",
   "en": "APPLICATION OF LAWS ACT",
   "orig": null
  },
@@ -78,5 +78,13 @@
     "en": "For the avoidance of doubt, it is hereby declared that the Crown Proceedings Act, 1947 of the United Kingdom is not and has never been in force in Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "APPLICATION OF LAWS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

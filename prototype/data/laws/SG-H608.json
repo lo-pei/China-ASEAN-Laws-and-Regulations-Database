@@ -1,7 +1,7 @@
 {
  "id": "SG-H608",
  "title": {
-  "zh": null,
+  "zh": "合会基金法 1971",
   "en": "Chit Funds Act 1971",
   "orig": null
  },
@@ -1014,5 +1014,13 @@
     "en": "61.—(1) The Authority may, with the approval of the Minister, make all such regulations for, or in respect of, every purpose which it considers necessary for carrying out the provisions of this Act and for the prescribing of any matter which is authorised or required under this Act to be so prescribed.\n(2) In particular and without limiting the powers conferred by subsection (1), the Authority may, with the approval of the Minister, by such regulations —\n(a)prescribe fees to be charged under this Act;\n(b)prescribe the procedure to be adopted in registering the agreement or any other document or filing any document;\n(c)prescribe the accounts or books to be kept and the forms to be used by the chit fund company in any case where express provision is not made by this Act; and for providing for the periodical inspection of those accounts or books by the Authority or by an officer authorised by the Authority;\n(d)prescribe the periods during which the several documents registered or filed in the office of the Authority must be preserved, and the method of disposal of such documents at the end of those periods;\n(e)prescribe in the agreement the duration of a chit fund, the highest rebate to be offered, the latest date on which contributions are to be paid and the nature of the security to be given to the chit fund company by the purchaser of the prize and the amount of the commission that may be charged by a chit fund company;\n(f)prescribe the security to be given by the chit fund company for the discharge of its liabilities under the agreement and the place where the security is to be lodged;\n(g)prescribe the total value of chit funds to be conducted at any one time by a chit fund company in relation to the paid‑up capital of that company;\n(h)prescribe additional essential terms and conditions or modify or amend existing terms and conditions under section 24;\n(i)regulate advertisements of chit fund companies;\n(j)vary the security to be furnished by the chit fund company or the subscriber, as the case may be; and\n(k)prescribe the rights, obligations, duties and liabilities of subscribers and the chit fund company.\n(3) Every chit fund company which contravenes the regulations made pursuant to subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Chit Funds Act 1971",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

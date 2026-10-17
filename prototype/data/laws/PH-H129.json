@@ -1,7 +1,7 @@
 {
  "id": "PH-H129",
  "title": {
-  "zh": null,
+  "zh": "授权在特定条件下向维持和平与秩序之警察部队或类似政府机构死亡官员或成员之遗孀和/或子女、无上述亲属时向其其他继承人支付抚恤金，并为此拨款的法案",
   "en": "An act authorizing the payment, under certain conditions, of a Gratuity to the Widow and/or Children, and in their absence to the other heirs, of a deceased officer or member of any Police Force or Similar Governmental Organization engaged in the Maintenance of Peace and Order, appropriating funds therefor",
   "orig": "An act authorizing the payment, under certain conditions, of a Gratuity to the Widow and/or Children, and in their absence to the other heirs, of a deceased officer or member of any Police Force or Similar Governmental Organization engaged in the Maintenance of Peace and Order, appropriating funds therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect as of January first, nineteen hundred and forty-six.\nApproved: September 25, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act authorizing the payment, under certain conditions, of a Gratuity to the Widow and/or Children, and in their absence to the other heirs, of a deceased officer or member of any Police Force or Similar Governmental Organization engaged in the Maintenance of Peace and Order, appropriating funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

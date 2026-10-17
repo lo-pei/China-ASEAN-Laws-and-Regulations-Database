@@ -1,7 +1,7 @@
 {
  "id": "PH-H10413",
  "title": {
-  "zh": null,
+  "zh": "赋予气候变化损失与损害应对基金理事会法人资格与法律行为能力的法案",
   "en": "An Act Granting Juridical Personality and Legal Capacity to the Board of the Fund for Responding to Loss and Damage Due to Climate Change",
   "orig": "An Act Granting Juridical Personality and Legal Capacity to the Board of the Fund for Responding to Loss and Damage Due to Climate Change"
  },
@@ -110,5 +110,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Juridical Personality and Legal Capacity to the Board of the Fund for Responding to Loss and Damage Due to Climate Change",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

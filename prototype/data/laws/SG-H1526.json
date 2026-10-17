@@ -1,7 +1,7 @@
 {
  "id": "SG-H1526",
  "title": {
-  "zh": null,
+  "zh": "电影（可复合罪行）条例 2023",
   "en": "Films (Compoundable Offences) Regulations 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences are prescribed as compoundable offences for the purposes of section 38B of the Act:\n(a)an offence under section 12(3), 15A(3), 18(8), 19(5), 22(4), 23(8), 27(5) or 34B(5) of the Act;\n(b)an offence under section 21(5), (6) or (7) read with section 21(8)(b) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Films (Compoundable Offences) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

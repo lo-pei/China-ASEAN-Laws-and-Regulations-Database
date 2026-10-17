@@ -1,7 +1,7 @@
 {
  "id": "SG-H2448",
  "title": {
-  "zh": null,
+  "zh": "所得税（新加坡——波兰）（避免双重征税协定）（为实施多边文书所作的修改）命令 2019",
   "en": "Income Tax (Singapore — Poland) (Avoidance of Double Taxation Agreement) (Modifications to Implement Multilateral Instrument) Order 2019",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nDeletion and replacement of Preamble\n1. The Preamble of the Agreement is deleted and replaced by the following Preamble:\n“The Government of the Republic of Singapore and the Government of the Republic of Poland,\nIntending to eliminate double taxation with respect to the taxes covered by this Agreement without creating opportunities for non‑taxation or reduced taxation through tax evasion or avoidance (including through treaty-shopping arrangements aimed at obtaining reliefs provided in this Agreement for the indirect benefit of residents of third jurisdictions),\nHave agreed as follows:”.\nAmendment of Article 10\n2. Paragraph 8 of Article 10 (Dividends) of the Agreement is deleted.\nAmendment of Article 11\n3. Paragraph 8 of Article 11 (Interest) of the Agreement is deleted.\nAmendment of Article 12\n4. Paragraph 7 of Article 12 (Royalties) of the Agreement is deleted.\nNew Article 27A\n5. The Agreement is amended by inserting, immediately after Article 27 (Remittance Clause), the following Article:\n“Article 27A\nPrevention of Treaty Abuse\nNotwithstanding any provisions of this Agreement, a benefit under this Agreement shall not be granted in respect of an item of income or capital if it is reasonable to conclude, having regard to all relevant facts and circumstances, that obtaining that benefit was one of the principal purposes of any arrangement or transaction that resulted directly or indirectly in that benefit, unless it is established that granting that benefit in these circumstances would be in accordance with the object and purpose of the relevant provisions of this Agreement.”."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Singapore — Poland) (Avoidance of Double Taxation Agreement) (Modifications to Implement Multilateral Instrument) Order 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

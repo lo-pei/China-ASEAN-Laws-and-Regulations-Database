@@ -1,7 +1,7 @@
 {
  "id": "SG-H3035",
  "title": {
-  "zh": null,
+  "zh": "酒类管制（供应与消费）（酒类管制区宣告）命令 2015",
   "en": "Liquor Control (Supply and Consumption) (Declaration of Liquor Control Zones) Order 2015",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nPart 1 — GEYLANG\nAll that area the boundary of which starts at the junction of Sims Avenue and Paya Lebar Road and continues progressively —\n(a)generally south-west along Paya Lebar Road until its junction with Geylang Road;\n(b)generally south-west along Guillemard Road until its junction with Sims Way;\n(c)generally north along Sims Way past its junction with Geylang Road until its junction with Sims Avenue; and\n(d)generally north-east along Sims Avenue to the point where the boundary begins,\nand which is more particularly demarcated in the map below.\nPart 2 — LITTLE INDIA\nAll that area the boundary of which starts at the junction of Jalan Besar and Petain Road and continues progressively —\n(a)generally north-west along Petain Road, past its junction with Somme Road until its junction with Sturdee Road;\n(b)generally north-east along Sturdee Road until its junction with Beatty Road;\n(c)generally north-west along Beatty Road until its junction with Serangoon Road, then in an imaginary straight line between Blocks 513 and 515 Serangoon Road, and Blocks 378 and 380 Race Course Road to the junction of Race Course Road, and then in an imaginary straight line between the Leong San See Temple, Blocks 371 and 375 Race Course Road to Tessensohn Road;\n(d)generally south-west along Tessensohn Road until its junction with Joo Avenue;\n(e)generally north-west along Joo Avenue until its junction with Sing Avenue;\n(f)generally west along Sing Avenue until its junction with Dorset Road;\n(g)generally south-west along Dorset Road until its junction with Rutland Road;\n(h)generally south along Rutland Road until its junction with Hampshire Road;\n(i)generally south-east along Hampshire Road until its junction with Northumberland Road;\n(j)generally south-west in an imaginary straight line from the junction of Northumberland Road and Hampshire Road to the bend on Tekka Lane;\n(k)generally south-west along Tekka Lane in an imaginary straight line until it meets Bukit Timah Road, then in an imaginary straight line diagonally across Bukit Timah Road to its junction with Mayne Road;\n(l)generally south-west along Mayne Road until its junction with Mackenzie Road;\n(m)generally south-east along Mackenzie Road until its junction with Selegie Road;\n(n)generally south along Selegie Road until its junction with Short Street;\n(o)generally north-east along Short Street until its junction with Rochor Canal Road;\n(p)generally east along Rochor Canal Road until its junction with Jalan Besar; and\n(q)generally north-east along Jalan Besar to the point where the boundary begins,\nand which is more particularly demarcated in the map below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Liquor Control (Supply and Consumption) (Declaration of Liquor Control Zones) Order 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

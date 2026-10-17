@@ -1,7 +1,7 @@
 {
  "id": "SG-H925",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典（国家法院与青年法院电子提交与送达）条例 2013",
   "en": "Criminal Procedure Code (Electronic Filing and Service for State Courts and Youth Courts) Regulations 2013",
   "orig": null
  },
@@ -207,5 +207,13 @@
     "en": "13.—(1) Affidavits or conditioned statements which are filed in the court using the electronic filing service may be used in all proceedings to the same extent and for the same purposes as paper affidavits or conditioned statements filed in the court.\n(2) Where an affidavit is to be filed in the court using the electronic filing service, it shall comply with the following requirements:\n(a)the affidavit must be sworn in the usual way in which the deponent signs the original paper affidavit;\n(b)a true and complete electronic image of the original paper affidavit must be created; and\n(c)the original paper affidavit must be retained by the party who filed it for a period of 7 years after it is filed.\n(3) Notwithstanding sub-paragraph (c) of paragraph (2), if the original paper affidavit is lost or destroyed or for any other reason becomes unavailable at any time during the period referred to in that sub-paragraph, the court may grant leave for the electronic image of the original paper affidavit that had been filed in the court using the electronic filing service to be used in the proceedings for which it was filed, or in any other proceedings.\n(4) Paragraphs (2)(b) and (c) and (3) shall apply to conditioned statements to the same extent and in like manner as they apply to affidavits."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Criminal Procedure Code (Electronic Filing and Service for State Courts and Youth Courts) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

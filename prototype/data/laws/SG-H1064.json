@@ -1,7 +1,7 @@
 {
  "id": "SG-H1064",
  "title": {
-  "zh": null,
+  "zh": "关税（进口禁止）公告",
   "en": "Customs (Prohibition of Imports) Notification",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2 (b)\nArsenic\n(As)\nCopper\n(Cu)\nLead\n(Pb)\n1.Beer, cider, perry, stout\n…\n0.2\n7\n0.2\n2.Brandy, gin, rum, whisky and other intoxicating liquors exceeding 40 per cent alcohol by volume\n…\n0.2\n5\n0.2\n3.Intoxicating liquors not otherwise specified\n…\n0.2\n5\n0.2\n4.Wines, liqueurs\n…\n0.2\n7\n0.2\n[G.N. Nos. S 375/94; S 445/2002]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Prohibition of Imports) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

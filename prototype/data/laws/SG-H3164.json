@@ -1,7 +1,7 @@
 {
  "id": "SG-H3164",
  "title": {
-  "zh": null,
+  "zh": "商船（油污民事责任与赔偿）法 1998",
   "en": "Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act 1998",
   "orig": null
  },
@@ -660,5 +660,13 @@
     "en": "39. No suit, prosecution or other legal proceeding shall lie against the Director or any officer of the Authority or other person acting under the direction of the Director or the Authority for anything which is in good faith done or intended to be done in the execution or purported execution of this Act or any regulations made under this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

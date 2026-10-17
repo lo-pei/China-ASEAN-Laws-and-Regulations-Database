@@ -1,7 +1,7 @@
 {
  "id": "SG-H1204",
  "title": {
-  "zh": null,
+  "zh": "教育（学校刊物）条例 1959",
   "en": "Education (Schools Magazines) Regulations 1959",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. Nothing in these Regulations exempts the principal of a school, the editor or the publisher of a school magazine from complying with the requirements of any law regulating the publication of periodicals in Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Education (Schools Magazines) Regulations 1959",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

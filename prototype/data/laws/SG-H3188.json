@@ -1,7 +1,7 @@
 {
  "id": "SG-H3188",
  "title": {
-  "zh": null,
+  "zh": "商船（海事劳工公约）法 2014",
   "en": "Merchant Shipping (Maritime Labour Convention) Act 2014",
   "orig": null
  },
@@ -1402,5 +1402,13 @@
     "en": "SECOND SCHEDULE\nSections 14(5), 58(5) and 81(1)\nGeneral areas subject to detailed inspection in port\n1.Minimum age\n2.Medical certification\n3.Qualifications of seafarers\n4.Seafarer’s employment agreements\n5.Use of any licensed or certified or regulated private recruitment and placement service\n6.Hours of work or rest\n7.Manning levels for the ship\n8.Accommodation\n9.On‑board recreational facilities\n10.Food and catering\n11.Health and safety and accident prevention\n12.On‑board medical care\n13.On‑board complaint procedures\n14.Payment of wages\n15.Financial security for repatriation\n16.Financial security relating to shipowner’s liability\n[29/2016]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Maritime Labour Convention) Act 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4621",
  "title": {
-  "zh": null,
+  "zh": "提高法律执行中的效率与公正标准，更好地保障人民向政府请愿申冤的权利，为此设立公民顾问办公室的法案",
   "en": "An Act to Promote Higher Standards of Efficiency and Justice in the Administration of the Laws as Well as to Better Secure the Right of the People to Petition the Government for Redress of Grievances, Creating Therefor the Office of the Citizen's Counselor",
   "orig": "An Act to Promote Higher Standards of Efficiency and Justice in the Administration of the Laws as Well as to Better Secure the Right of the People to Petition the Government for Redress of Grievances, Creating Therefor the Office of the Citizen's Counselor"
  },
@@ -350,5 +350,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Promote Higher Standards of Efficiency and Justice in the Administration of the Laws as Well as to Better Secure the Right of the People to Petition the Government for Redress of Grievances, Creating Therefor the Office of the Citizen's Counselor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

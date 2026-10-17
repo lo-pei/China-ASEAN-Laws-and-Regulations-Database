@@ -1,7 +1,7 @@
 {
  "id": "SG-H1875",
  "title": {
-  "zh": null,
+  "zh": "人体生物医学研究条例 2017",
   "en": "Human Biomedical Research Regulations 2017",
   "orig": null
  },
@@ -616,5 +616,13 @@
     "en": "SECOND SCHEDULE\nRegulation 30(1) and (2)\n1.Accepted notification made under regulation 3 or 4\n$1,000\n2.Accepted declaration of compliance made under regulation 7 where the research institution has been granted approval to conduct restricted human biomedical research —\n(a)for the first research site; and\n$4,000\n(b)for each additional research site\n$500\n3.Any other accepted declaration of compliance made under regulation 7 —\n(a)for the first research site; and\n$1,000\n(b)for each additional research site\n$500\nNote:\nWhere activities relating to research are conducted at 2 or more premises located within the same building (bearing the same postal code in each premises’ address) and under the supervision and control of a single research institution, these premises are counted as a single research site."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Human Biomedical Research Regulations 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

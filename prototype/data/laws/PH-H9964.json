@@ -1,7 +1,7 @@
 {
  "id": "PH-H9964",
  "title": {
-  "zh": null,
+  "zh": "将黎刹省第二立法区划分为三个（3）立法区的法案",
   "en": "An Act Reapportioning the Second Legislative District of the Province of Rizal Into Three (3) Legislative Districts",
   "orig": "An Act Reapportioning the Second Legislative District of the Province of Rizal Into Three (3) Legislative Districts"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reapportioning the Second Legislative District of the Province of Rizal Into Three (3) Legislative Districts",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

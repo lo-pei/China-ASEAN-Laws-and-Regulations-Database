@@ -1,7 +1,7 @@
 {
  "id": "SG-H365",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（固定装置）条例 2025",
   "en": "Building Control (Fixed Installations) Regulations 2025",
   "orig": null
  },
@@ -888,5 +888,13 @@
     "en": "FIFTH SCHEDULE\nRegulations 4 and 45(1)\nPart 1\nModification of Part 2 of Act\nFirst column\nSecond column\nProvision of Act\nModified and reproduced in\nthese Regulations as\nSection 5(1) and (2)\nRegulation 9(1) and (2)\nSection 5(3) to (6)\nRegulation 11(1) to (4)\nSection 5A\nRegulation 14(1) to (4)\nSection 5B\nRegulation 15\nSection 6A\nRegulation 45\nSection 8\nRegulation 20\nSection 9\nRegulation 21\nSection 11\nRegulation 22\nSection 19\nRegulation 26\nSection 20\nRegulation 24\nSection 22(1)\nRegulation 43(1)\nPart 2\nModification of Building Control RegulationS 2003\nFirst column\nSecond column\nProvision of Building Control Regulations 2003\nModified and reproduced in\nthese Regulations as\nRegulation 4(1)\nRegulation 9(3)\nRegulation 4(2)(a) and (b)\nRegulation 9(1)(b)\nRegulation 6\nRegulation 17\nRegulation 7\nRegulation 18\nRegulation 8\nRegulation 19\nRegulation 13\nRegulation 10\nRegulation 14(1)\nRegulation 12(1)\nRegulation 14(2)\nRegulation 11(5)\nRegulation 15\nRegulation 12(2)\nRegulation 16\nRegulation 13\nRegulation 17\nRegulation 46\nRegulation 18(1)\nRegulation 14(3)(a)\nRegulation 18(2A)\nRegulation 14(2)\nRegulation 18(3A) and (5)\nRegulation 14(5) and (6)\nRegulation 19\nRegulation 15(1)\nRegulation 20(2) and (3)\nRegulation 45(2)(d) and (e)\nRegulation 23\nRegulation 21(4)(c)\nRegulation 25\nRegulation 22(5)\nRegulation 26\nRegulation 7\nRegulation 27\nRegulation 8\nRegulation 30\nRegulation 23\nRegulation 48\nRegulation 5(2)\nRegulation 50\nRegulation 25"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building Control (Fixed Installations) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

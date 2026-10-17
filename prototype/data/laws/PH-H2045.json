@@ -1,7 +1,7 @@
 {
  "id": "PH-H2045",
  "title": {
-  "zh": null,
+  "zh": "授予Ruben D. Neri在东米萨米斯省Initao市镇电灯、热力与动力系统特许经营权的法案",
   "en": "An Act Granting Ruben D. Neri a Franchise for an Electric Light, Heat and Power System in the Municipality of Initao, Misamis Oriental",
   "orig": "An Act Granting Ruben D. Neri a Franchise for an Electric Light, Heat and Power System in the Municipality of Initao, Misamis Oriental"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Ruben D. Neri a Franchise for an Electric Light, Heat and Power System in the Municipality of Initao, Misamis Oriental",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

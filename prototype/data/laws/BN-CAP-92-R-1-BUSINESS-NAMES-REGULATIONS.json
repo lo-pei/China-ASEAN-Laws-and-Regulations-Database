@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-92-R-1-BUSINESS-NAMES-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "R 1 商业名称条例",
   "en": "R 1 BUSINESS NAMES REGULATIONS",
   "orig": null
  },
@@ -138,5 +138,13 @@
     "en": "THE OCCUPATION OF ............................... HAS BEEN CHANGED TO (full name of proprietor and partner) Date of change ............................................ . FEE:-$5 B. L. R. 0. 11/984\n\nIMPORTANT"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 1 BUSINESS NAMES REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

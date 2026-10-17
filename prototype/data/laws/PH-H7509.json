@@ -1,7 +1,7 @@
 {
  "id": "PH-H7509",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省卡班卡兰市科罗纳西翁路口至塔卢班吉描笼涯的国家公路命名为Jesus Y. Perez法官纪念公路的法案",
   "en": "An Act Naming the National Road From Crossing Coronacion to Barangay Talubangi in the City of Kabankalan, Province of Negros Occidental as Justice Jesus Y. Perez Memorial Highway",
   "orig": "An Act Naming the National Road From Crossing Coronacion to Barangay Talubangi in the City of Kabankalan, Province of Negros Occidental as Justice Jesus Y. Perez Memorial Highway"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the National Road From Crossing Coronacion to Barangay Talubangi in the City of Kabankalan, Province of Negros Occidental as Justice Jesus Y. Perez Memorial Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

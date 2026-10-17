@@ -1,7 +1,7 @@
 {
  "id": "SG-H256",
  "title": {
-  "zh": null,
+  "zh": "建筑师（实缴资本指定款额）公告 2005",
   "en": "Architects (Prescribed Amount of Paid-Up Capital) Notification 2005",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 20(1)(b) of the Act, the prescribed amount of paid‑up capital is $500,000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Architects (Prescribed Amount of Paid-Up Capital) Notification 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5184",
  "title": {
-  "zh": null,
+  "zh": "将伊富高省波蒂亚市镇更名为利斯塔，并确认伊富高省利斯塔市镇圣玛丽亚描笼涯为利斯塔市镇政府所在地的法案",
   "en": "An Act Changing the Name of the Municipality of Potia, Province of Ifugao, into Lista and Confirming the Barangay of Sta. Maria, Municipality of Lista, Province of Ifugao, as the Seat of the Government of the Municipality of Lista",
   "orig": "An Act Changing the Name of the Municipality of Potia, Province of Ifugao, into Lista and Confirming the Barangay of Sta. Maria, Municipality of Lista, Province of Ifugao, as the Seat of the Government of the Municipality of Lista"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval and its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Municipality of Potia, Province of Ifugao, into Lista and Confirming the Barangay of Sta. Maria, Municipality of Lista, Province of Ifugao, as the Seat of the Government of the Municipality of Lista",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

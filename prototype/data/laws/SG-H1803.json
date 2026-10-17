@@ -1,7 +1,7 @@
 {
  "id": "SG-H1803",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（电梯翻新工程分区）（第 3 号）命令 2023",
   "en": "Housing and Development (Precincts for Lift Upgrading Works) (No. 3) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board —\n(a)bounded by Bishan Street 11 and Bishan Street 12, comprised in Lot number 06253N in Mukim 17 and on which Apartment Block 119 is erected, and which is more particularly delineated in Plan 1A; and\nPlan 1A\nbishan STREET 12\n(b)at Bishan Street 12 comprised in Lot number 06253N in Mukim 17 and on which Apartment Block 134 is erected, and which is more particularly delineated in Plan 1B.\nPlan 1B\nbishan STREET 12"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Lift Upgrading Works) (No. 3) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

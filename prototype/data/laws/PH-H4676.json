@@ -1,7 +1,7 @@
 {
  "id": "PH-H4676",
  "title": {
-  "zh": null,
+  "zh": "在那牙市法律局增设五名助理市检察官，为此修订该市宪章并授权为此拨款的法案",
   "en": "An Act Creating Five Positions of Assistant City Fiscals in the Law Department in the City of Naga By Amending the Charter of Said City, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Creating Five Positions of Assistant City Fiscals in the Law Department in the City of Naga By Amending the Charter of Said City, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval .\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating Five Positions of Assistant City Fiscals in the Law Department in the City of Naga By Amending the Charter of Said City, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

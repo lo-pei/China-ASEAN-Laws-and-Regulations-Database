@@ -1,7 +1,7 @@
 {
  "id": "SG-H255",
  "title": {
-  "zh": null,
+  "zh": "建筑师（执业证书豁免）命令 2017",
   "en": "Architects (Exemption from Practising Certificates) Order 2017",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Part 5 of the Act does not apply to —\n(a)a foreign architect registered under section 15(2A) of the Act to supply, or offer to supply, architectural services in Singapore only in collaboration with a registered architect who has in force a practising certificate; or\n(b)a foreign architect registered under section 15(1)(c) of the Act and to whom the Architects (Exemption from Experience Requirements) Order 2017 applies."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Architects (Exemption from Practising Certificates) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

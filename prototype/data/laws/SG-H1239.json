@@ -1,7 +1,7 @@
 {
  "id": "SG-H1239",
  "title": {
-  "zh": null,
+  "zh": "雇佣（儿童与青少年）条例",
   "en": "Employment (Children and Young Persons) Regulations",
   "orig": null
  },
@@ -243,5 +243,13 @@
     "en": "THE SCHEDULE\nRegulation 15\nEMPLOYMENT ACT\n(CHAPTER 91)\nEMPLOYMENT (CHILDREN AND YOUNG PERSONS) REGULATIONS\nNOTIFICATION OF YOUNG PERSONS EMPLOYED IN AN INDUSTRIAL UNDERTAKING\nA. PARTICULARS OF EMPLOYER\nName:\nAddress:\n_____________________________\n_____________________________\n_____________________________\nSingapore ( )\nTelephone No.:\nNature of Business:\n_____________________________\n_____________________________\n_____________________________\nB. PARTICULARS OF EMPLOYEE(S):\nSerial No.\nName\n(In Block Letters)\nNRIC No.\nSex: M/F\nDate of Birth\nJob Title\nDate of Commencement of Employment\nSalary per Month/Week/Day/Hour\nJob Description\nNo. of Hours of Work per day\nI hereby declare that all the particulars given in this Notification are true to the best of my knowledge.\n________________\nDate\n__________________________________\nSignature and name of employer"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment (Children and Young Persons) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

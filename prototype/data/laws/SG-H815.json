@@ -1,7 +1,7 @@
 {
  "id": "SG-H815",
  "title": {
-  "zh": null,
+  "zh": "消费者保护（公平交易）（须申报事件）条例 2016",
   "en": "Consumer Protection (Fair Trading) (Notifiable Events) Regulations 2016",
   "orig": null
  },
@@ -64,5 +64,11 @@
     "en": "2.—(1) The following events are prescribed for the purposes of section 9(4)(d)(ix) of the Act:\n(a)a change in the name of the supplier or the name under which the supplier is carrying on business;\n(b)the establishing by a supplier of a website or a mobile application, or an equivalent, that allows the supplier to enter into consumer transactions through the Internet;\n(c)the first consumer transaction by the supplier with a consumer using the Internet;\n(d)the supplier ceases to enter into any consumer transaction through the Internet;\n(e)any arrangement by the supplier to participate in a trade fair;\n(f)if the supplier adopts for the supplier’s business a new name, symbol or design, any arrangement by the supplier to carry out any activity for the purpose of identifying the supplier’s business with that new name, symbol or design;\n(g)a sale of the supplier’s business;\n(h)if the supplier is a company —\n(i)a change in the board of directors of the supplier; or\n(ii)a change in the person or persons who hold directly or indirectly 15% or more of the total voting power or total issued shares in the supplier;\n(i)if the supplier is a partnership or limited partnership, a change in the partners of the supplier;\n(j)any of the following persons enters into an arrangement under which that person holds on behalf of another person any profits, gains or dividends derived from the carrying on of the supplier’s business:\n(i)if the supplier is a sole proprietorship, the sole proprietor;\n(ii)if the supplier is a partnership or limited partnership, any partner of the supplier;\n(iii)if the supplier is a company, any shareholder of the supplier.\n(2) In this regulation —\n“mobile application” means a software application that operates on mobile devices such as smartphones and tablet computers;\n“trade fair” means an exhibition for participating suppliers to do either or both of the following:\n(a)showcase and demonstrate their goods or services;\n(b)enter into consumer transactions with consumers."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Consumer Protection (Fair Trading) (Notifiable Events) Regulations 2016",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

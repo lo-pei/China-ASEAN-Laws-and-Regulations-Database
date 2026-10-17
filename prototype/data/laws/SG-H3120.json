@@ -1,7 +1,7 @@
 {
  "id": "SG-H3120",
  "title": {
-  "zh": null,
+  "zh": "药物（广告与销售）法 1955",
   "en": "Medicines (Advertisement and Sale) Act 1955",
   "orig": null
  },
@@ -163,5 +163,13 @@
     "en": "THE SCHEDULE\nSections 3 and 6(2)\nDiseases and conditions\n1.Blindness\n2.Cancer\n3.Cataract\n4.Drug addiction\n5.Deafness\n6.Diabetes\n7.Epilepsy or fits\n8.Hypertension\n9.Insanity\n10.Kidney diseases\n11.Leprosy\n12.Menstrual disorders\n13.Paralysis\n14.Tuberculosis\n15.Sexual function\n16.Infertility\n17.Impotency\n18.Frigidity\n19.Conception and pregnancy"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Medicines (Advertisement and Sale) Act 1955",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

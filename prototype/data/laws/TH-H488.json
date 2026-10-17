@@ -1,7 +1,7 @@
 {
  "id": "TH-H488",
  "title": {
-  "zh": null,
+  "zh": "麻醉品管制法，佛历 2519（1976）",
   "en": "NARCOTICS CONTROL ACT, B.E. 2519 (1976)",
   "orig": "พระราชบัญญัติป้องกันและปราบปรามยาเสพติด พ.ศ. 2519 (ยกเลิก)"
  },
@@ -310,5 +310,13 @@
     "th": "มาตรา ๗๔ ในพระราชบัญญัติป้องกันและปราบปรามยาเสพติด พ.ศ. ๒๕๑๙ ในมาตรา ๑๘ ให้แก้ไขคำว่า \"นายกรัฐมนตรี” เป็น “รัฐมนตรีว่าการกระทรวงยุติธรรม”"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "NARCOTICS CONTROL ACT, B.E. 2519 (1976)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

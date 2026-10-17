@@ -1,7 +1,7 @@
 {
  "id": "PH-H6855",
  "title": {
-  "zh": null,
+  "zh": "将碧瑶市Irisan描笼涯Pines City国立中学的Quirino中学附属校改设为正式国立中学，名称为Irisan国立中学，并为此拨款的法案",
   "en": "An Act Converting the Quirino High School Annex of the Pines City National High School Located in Barangay Irisan, Baguio City, Into A Regular National High School To Be Known As the Irisan National High School, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Quirino High School Annex of the Pines City National High School Located in Barangay Irisan, Baguio City, Into A Regular National High School To Be Known As the Irisan National High School, and Appropriating Funds Therefor"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApprved,"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Quirino High School Annex of the Pines City National High School Located in Barangay Irisan, Baguio City, Into A Regular National High School To Be Known As the Irisan National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

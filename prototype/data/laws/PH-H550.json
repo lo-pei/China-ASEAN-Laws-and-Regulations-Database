@@ -1,7 +1,7 @@
 {
  "id": "PH-H550",
  "title": {
-  "zh": null,
+  "zh": "规定将 Tondo 海滨土地地块出售给其承租人或真实占有人的法案",
   "en": "An Act Providing for the Sale of Lots Comprised in the Tondo Foreshore Land to Lessees of Said Lots or to Bona Fide Occupants Thereof",
   "orig": "An Act Providing for the Sale of Lots Comprised in the Tondo Foreshore Land to Lessees of Said Lots or to Bona Fide Occupants Thereof"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 17, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Sale of Lots Comprised in the Tondo Foreshore Land to Lessees of Said Lots or to Bona Fide Occupants Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

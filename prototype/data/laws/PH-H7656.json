@@ -1,7 +1,7 @@
 {
  "id": "PH-H7656",
  "title": {
-  "zh": null,
+  "zh": "2003 年海外缺席投票法",
   "en": "The Overseas Absentee Voting Act of 2003",
   "orig": "The Overseas Absentee Voting Act of 2003 An act Providing for a System of Overseas Absentee Voting by qualified citizens of the philippines abroad, appropriating funds therefor, and for other purposes"
  },
@@ -360,5 +360,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days following its publication in three (3) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Overseas Absentee Voting Act of 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1010",
  "title": {
-  "zh": null,
+  "zh": "货币法——硬币面额与特征",
   "en": "Currency Act — Denomination and Characteristics of Coins",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE CHINA-SINGAPORE SUZHOU INDUSTRIAL PARK 10TH ANNIVERSARY COMMEMORATIVE COIN\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n10 Dollars\n999.9 Fine Gold\n31.1035 g +\n0.05 g\n32.12 mm +\n0.15 mm\n2.50 mm +\n0.20 mm\nRound\nMilled and bearing the words “MONETARY AUTHORITY OF SINGAPORE” and lion symbol.\nThe Singapore Arms in the centre with the yeardate “2004” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’clock for the $10 gold and $10 silver coins.\nThe main feature of the coin is the “Harmony” sculpture at the China-Singapore Suzhou Industrial Park (CS-SIP) that was jointly unveiled by SM Lee Kuan Yew and China’s Vice-Premier Li Lanqing in 2001 to symbolise the close bilateral relations. The “Harmony” sculpture resembling the figure “8”, symbolises “prosperity” and “abundance” for CS-SIP and its tenants.\n10 Dollars\n999 Fine Silver\n20.00 g + 0.20 g\n38.70 mm + 0.15 mm\n2.50 mm + 0.30 mm\nRound\n10 Dollars\n75% Copper 25% Nickel\n28.00 g + 0.40 g\n40.70 mm + 0.15 mm\n3.05 mm + 0.20 mm\nRound\nThe words “CHINASINGAPORE SUZHOU INDUSTRIAL PARK” in English and Chinese, above and below the sculpture respectively, signify the central theme of the coin.\nThe ’$10’ denomination to the left of the sculpture and the words “10th Anniversary” in English and Chinese to the right provide the overall balance to the design.\n(a) Common Reverse Design for $10 Gold Proof Coin, $10 Silver Proof Coin and $10 Cupro-Nickel Proof-Like Coin.\n(b) Common Obverse Design for $10 Gold Proof Coin and $10 Silver Proof Coin.\n(c) Obverse Design of $10 Cupro-Nickel Proof-Like Coin."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency Act — Denomination and Characteristics of Coins",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

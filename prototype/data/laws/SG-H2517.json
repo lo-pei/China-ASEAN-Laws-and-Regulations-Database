@@ -1,7 +1,7 @@
 {
  "id": "SG-H2517",
  "title": {
-  "zh": null,
+  "zh": "所得税（新加坡——越南）（避免双重征税协定）（为实施多边文书所作的修改）命令 2023",
   "en": "Income Tax (Singapore — Vietnam) (Avoidance of Double Taxation Agreement) (Modifications to Implement Multilateral Instrument) Order 2023",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nReplacement of Preamble\n1. In the Agreement, replace the Preamble with —\n“The Government of the Republic of Singapore and the Government of the Socialist Republic of Vietnam,\nDesiring to further develop their economic relationship and to enhance their co‑operation in tax matters,\nIntending to eliminate double taxation with respect to the taxes covered by this Agreement without creating opportunities for non‑taxation or reduced taxation through tax evasion or avoidance (including through treaty‑shopping arrangements aimed at obtaining reliefs provided in this Agreement for the indirect benefit of residents of third jurisdictions),\nHave agreed as follows:”.\nAmendment of Article 26\n2. In the Agreement, in Article 26 (Mutual Agreement Procedure) —\n(a)in paragraph 2, at the end, insert “Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting Jurisdictions.”; and\n(b)replace paragraph 3 with —\n“3. The competent authorities of the Contracting Jurisdictions shall endeavour to resolve by mutual agreement any difficulties or doubts arising as to the interpretation or application of the Agreement. They may also consult together for the elimination of double taxation in cases not provided for in the Agreement.”.\nNew Article 28A\n3. In the Agreement, after Article 28 (Diplomatic Agents and Consular Officers), insert —\n“Article 28A\nPREVENTION OF TREATY ABUSE\nNotwithstanding any provisions of this Agreement, a benefit under this Agreement shall not be granted in respect of an item of income or capital if it is reasonable to conclude, having regard to all relevant facts and circumstances, that obtaining that benefit was one of the principal purposes of any arrangement or transaction that resulted directly or indirectly in that benefit, unless it is established that granting that benefit in these circumstances would be in accordance with the object and purpose of the relevant provisions of this Agreement.”."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Singapore — Vietnam) (Avoidance of Double Taxation Agreement) (Modifications to Implement Multilateral Instrument) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

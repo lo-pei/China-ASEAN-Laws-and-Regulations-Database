@@ -1,7 +1,7 @@
 {
  "id": "SG-H3089",
  "title": {
-  "zh": null,
+  "zh": "新加坡海事及港务管理局（港口界限——中止）公告 2019",
   "en": "Maritime and Port Authority of Singapore (Port Limits — Suspension) Notification 2019",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. In paragraph 2, “1995 Agreement” means the Agreement between the Government of Malaysia and the Government of the Republic of Singapore to Delimit Precisely the Territorial Waters Boundary in Accordance with the Straits Settlements and Johore Territorial Waters Agreement 1927 done at Singapore on 7 August 1995."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Maritime and Port Authority of Singapore (Port Limits — Suspension) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

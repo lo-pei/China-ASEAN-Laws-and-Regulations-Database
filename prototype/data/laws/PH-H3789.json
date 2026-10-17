@@ -1,7 +1,7 @@
 {
  "id": "PH-H3789",
  "title": {
-  "zh": null,
+  "zh": "将萨马省Catbalogan设为入境口岸并授权为此拨付所需经费的法案",
   "en": "An Act Making Catbalogan, Samar, a Port of Entry, and Authorizing the Appropriation of Necessary Funds for the Purpose",
   "orig": "An Act Making Catbalogan, Samar, a Port of Entry, and Authorizing the Appropriation of Necessary Funds for the Purpose"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making Catbalogan, Samar, a Port of Entry, and Authorizing the Appropriation of Necessary Funds for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

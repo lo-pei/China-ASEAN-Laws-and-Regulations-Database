@@ -1,7 +1,7 @@
 {
  "id": "SG-H1275",
  "title": {
-  "zh": null,
+  "zh": "雇佣索偿规则 2017",
   "en": "Employment Claims Rules 2017",
   "orig": null
  },
@@ -1134,5 +1134,13 @@
     "en": "THE SCHEDULE\nRules 7(4), 8(2), 10(2), 11(2) and (3), 21(2), 23(3), 24(3), 25(3), 27(a), 28(2), 30(3), 31(4)(b), 39(1)(b), 40(3)(b), 41(1)(b), 42(4) and 44(1), (2) and (3)\nFees\nNo.\nItem\nFee\nDocument to be stamped and remarks\n1.\nOn lodging a claim under rule 8(2) —\nThe filed copy\n(a)where the total value of the claim does not exceed $10,000\n$30\n(b)where the total value of the claim exceeds $10,000\n$60\n2.\nOn filing a response to a claim under rule 10(2) —\nThe filed copy\n(a)where the total value of the claim does not exceed $10,000\n$30\n(b)where the total value of the claim exceeds $10,000\n$60\n3.\nOn lodging a counterclaim under rule 11(2) —\nThe filed copy\n(a)where the total value of the counterclaim does not exceed $10,000\n$30\n(b)where the total value of the counterclaim exceeds $10,000\n$60\n4.\nOn filing a response to a counterclaim under rule 11(3) —\nThe filed copy\n(a)where the total value of the counterclaim does not exceed $10,000\n$30\n(b)where the total value of the counterclaim exceeds $10,000\n$60\n5.\nOn sealing a summons to a witness\n$10\nSummons\n6.\nOn sealing an urgent summons to a witness (being a summons that is issued less than 3 days before the day on which the witness is to attend before, or produce documents to, the tribunal)\n$20\nSummons\n7.\nOn making an application to set aside a decision, direction or order given in the absence of a party under rule 23(2)\n$30\nThe filed copy\n8.\nOn filing a notice under rule 24(2) to attend before a tribunal on an appeal from any decision, direction or order of a Registrar\n$100\nThe Notice\n9.\nOn filing an application for permission to appeal against an order of a tribunal under rule 25(1)\n$100\nThe filed copy\n10.\nOn filing a notice of appeal under rule 26(1)\n$600\nThe Notice\n11.\nProviding security for the respondent’s costs of appeal under rule 28(1):\n(a)on submitting the relevant Form to, and depositing $500 as security for the respondent’s costs of appeal with, the Accountant-General\n$10\nThe filed copy\n(b)on filing a notice of payment into Court\n$10\nThe Notice\n(c)on obtaining a certificate of deposit of security for costs\n$10\nThe Certificate\n12.\nOn filing an appellant’s case under rule 30\n$600\nThe Case\n13.\nOn filing a respondent’s case under rule 31\n$300\nThe Case\n14.\nOn filing an application to register a settlement agreement under rule 39, or to extend the validity of the registration of a settlement agreement under rule 40\n$10\nThe filed copy\n15.\nOn filing an application under rule 41 to set aside the registration of a settlement agreement\n$30\nThe filed copy\n16.\nSearch/Inspection/Copies:\n(a)On filing a request to take a certified copy of the record (other than an order of the tribunal)\n$8 per document plus $5 per page\nRequest\n(b)On filing a request to search or inspect the record\n$20\nRequest\n(c)On filing a request for a second or subsequent copy of an order of the tribunal\n$10\nRequest\n(d)On filing a request to search the register of settlement agreements\n$20\nRequest\n(e)On filing a request for a copy of a settlement agreement\n$10\nRequest\n(f)On filing a request for a second or subsequent copy of a settlement agreement\n$5 per document plus 15 cents per page\nRequest\n17.\nHearing of claim or counterclaim before tribunal — for the whole or part of each day of hearing (excluding the first day, or the first two half‑days, of the first tranche of hearing dates fixed by the Registrar or a tribunal and any day scheduled for delivery of tribunal’s decision) —\nRequest\n(a)where the total value of the claim does not exceed $10,000\n$30\n(b)where the total value of the claim exceeds $10,000\n$60\n18.\nHearing of application under section 22(10) of Act for correction of order or statement — for the whole or part of each day of hearing (excluding the first day of hearing) —\nApplication\n(a)where the total value of the claim does not exceed $10,000\n$30\n(b)where the total value of the claim exceeds $10,000\n$60"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment Claims Rules 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

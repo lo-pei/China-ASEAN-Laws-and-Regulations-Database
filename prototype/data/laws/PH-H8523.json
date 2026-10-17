@@ -1,7 +1,7 @@
 {
  "id": "PH-H8523",
  "title": {
-  "zh": null,
+  "zh": "规定国家文化遗产的保护与保育，加强国家文化艺术委员会（NCCA）及其附属文化机构，并为其他目的法案",
   "en": "An Act Providing for the Protection and Conservation of the National Cultural Heritage, Strengthening the National Commission for Culture and the Arts (NCCA) and Its Affiliated Cultural Agencies, and for Other Purposes",
   "orig": "An Act Providing for the Protection and Conservation of the National Cultural Heritage, Strengthening the National Commission for Culture and the Arts (NCCA) and Its Affiliated Cultural Agencies, and for Other Purposes"
  },
@@ -739,5 +739,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Protection and Conservation of the National Cultural Heritage, Strengthening the National Commission for Culture and the Arts (NCCA) and Its Affiliated Cultural Agencies, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

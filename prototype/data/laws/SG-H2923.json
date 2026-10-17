@@ -1,7 +1,7 @@
 {
  "id": "SG-H2923",
  "title": {
-  "zh": null,
+  "zh": "裕廊集团（职能转授）公告 2018",
   "en": "Jurong Town Corporation (Assignment of Functions) Notification 2018",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The Minister for Trade and Industry (Trade) assigns to the Jurong Town Corporation the following additional functions as a centre of excellence established by the Government for building and infrastructure projects:\n(a)to provide —\n(i)technical, management, consultancy or advisory services;\n(ii)facilities management services; and\n(iii)research and development in innovation, safety and construction productivity,\nincluding, but not limited to, feasibility studies, planning and design, and project and contract management;\n(b)to build up the capabilities of the Government and public agencies relating to building and infrastructure projects by —\n(i)undertaking research and development in planning, design, project management and facilities management; and\n(ii)sharing its research and expertise with the Government and public agencies;\n(c)to support the building and infrastructure projects of the Government and public agencies by recruiting and training a pool of planning, design, project management and facilities management staff."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Jurong Town Corporation (Assignment of Functions) Notification 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

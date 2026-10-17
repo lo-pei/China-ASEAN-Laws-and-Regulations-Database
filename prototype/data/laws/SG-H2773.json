@@ -1,7 +1,7 @@
 {
  "id": "SG-H2773",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（电子会议与书面决议）条例 2020",
   "en": "Insolvency, Restructuring and Dissolution (Electronic Meeting and Resolution by Correspondence) Regulations 2020",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) This regulation applies where a relevant officeholder seeks to obtain the passing of a resolution by creditors of a company or an individual, or by contributories of a company, under section 446 of the Act without holding a meeting.\n(2) The relevant officeholder must give the same length of notice of the resolution as each creditor or contributory would be entitled to receive if notified of a meeting at which the resolution could be passed.\n(3) The notice of the proposed resolution mentioned in section 446(1) of the Act must contain the following:\n(a)identification details for the proceedings;\n(b)details of the resolution which is sought;\n(c)a statement that the creditor or contributory (as the case may be) may vote in writing, or if the relevant officeholder so decides, in a permitted alternative form in accordance with the arrangements which the relevant officeholder is using;\n(d)a statement of the decision date;\n(e)the closing date and time for the counting of the vote, which must be in accordance with section 446(2)(a) and (4) of the Act;\n(f)a statement that creditors or contributories who meet the threshold in paragraph (4) or section 446(7) or (8) of the Act may within 7 days after the notice is given, require the relevant officeholder to summon a meeting to consider the resolution.\n(4) Creditors whose debts amount to at least 10% of the total debts of an individual may, within 7 days after the giving of notice provided for in section 446(1) of the Act, require the relevant officeholder to summon a meeting of creditors to consider the resolution.\n(5) The details in the notice must be set out in such a way that the recipient may indicate agreement to or dissent from the proposed resolution, and where there is more than one resolution may indicate agreement to or dissent from each resolution separately.\n(6) Where the relevant officeholder arranges for voting in a permitted alternative form, in accordance with section 446(10) of the Act —\n(a)the notice mentioned in section 446(1) of the Act must give the creditor or contributory all necessary information as to how to access the voting system including any password required;\n(b)the voting system must be a system capable of enabling a creditor to vote at any time between the date of the notice and the closing date and time;\n(c)during the course of a vote, the voting system must not provide any creditor with information concerning the vote cast by any other creditor or contributory; and\n(d)the relevant officeholder must make appropriate arrangements to ensure that, in the event of failure of the voting system, the vote of the creditor or contributory is received and taken into account.\n(7) Where the relevant officeholder is required by creditors or contributories under paragraph (4) or section 446(7) or (8) of the Act to summon a meeting of creditors or contributories, the relevant officeholder must summon the meeting in accordance with the applicable provisions of the Act or regulations."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insolvency, Restructuring and Dissolution (Electronic Meeting and Resolution by Correspondence) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

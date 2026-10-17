@@ -1,7 +1,7 @@
 {
  "id": "PH-H1506",
  "title": {
-  "zh": null,
+  "zh": "将马斯巴特省 Pio V. Corpus市镇 Bugang小村改设为名称为Bugang村的村的法案",
   "en": "An Act Converting the Sitio of Bugang in the Municipality of Pio V. Corpus, Province of Masbate, into a Barrio to be Known as Barrio Bugang",
   "orig": "An Act Converting the Sitio of Bugang in the Municipality of Pio V. Corpus, Province of Masbate, into a Barrio to be Known as Barrio Bugang"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Sitio of Bugang in the Municipality of Pio V. Corpus, Province of Masbate, into a Barrio to be Known as Barrio Bugang",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

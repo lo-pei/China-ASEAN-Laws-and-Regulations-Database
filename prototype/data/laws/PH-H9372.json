@@ -1,7 +1,7 @@
 {
  "id": "PH-H9372",
  "title": {
-  "zh": null,
+  "zh": "将授予共和国广播系统公司（现称GMA网络公司）的广播特许权再续展二十五年，为此修订共和国法的法案",
   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Republic Broadcasting System, Inc., Presently Known as Gma Network, Inc., Amending for the Purpose Republic Act...",
   "orig": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Republic Broadcasting System, Inc., Presently Known as Gma Network, Inc., Amending for the Purpose Republic Act..."
  },
@@ -60,5 +60,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Republic Broadcasting System, Inc., Presently Known as Gma Network, Inc., Amending for the Purpose Republic Act...",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

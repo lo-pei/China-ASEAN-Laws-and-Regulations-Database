@@ -1,7 +1,7 @@
 {
  "id": "PH-H1028",
  "title": {
-  "zh": null,
+  "zh": "允许在1954年1月1日至6月30日期间支用同期菲律宾国库普通基金、特别基金、信托基金及其他基金所生收入，并为其他目的法案",
   "en": "An Act Allowing the Expenditure During the Period from January First to June Thirty, Nineteen Hundred and Fifty-Four, of the Income Accruing to the General, Special, Trust and Other Funds in the Philippine Treasury During the Same Period, and for Other Purposes",
   "orig": "An Act Allowing the Expenditure During the Period from January First to June Thirty, Nineteen Hundred and Fifty-Four, of the Income Accruing to the General, Special, Trust and Other Funds in the Philippine Treasury During the Same Period, and for Other Purposes"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect as of January first, nineteen hundred and fifty-four.\nApproved: August 25, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Allowing the Expenditure During the Period from January First to June Thirty, Nineteen Hundred and Fifty-Four, of the Income Accruing to the General, Special, Trust and Other Funds in the Philippine Treasury During the Same Period, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

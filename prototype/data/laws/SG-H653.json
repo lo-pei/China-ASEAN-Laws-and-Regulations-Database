@@ -1,7 +1,7 @@
 {
  "id": "SG-H653",
  "title": {
-  "zh": null,
+  "zh": "民事清单与养老金法——通过的决议",
   "en": "Civil List and Pension Act - Resolution Passed",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Civil List and Pension Act\n(Chapter 44)\nCivil List and Pension Act - Resolution Passed\nIt is hereby notified for general information that the following resolution was passed at a meeting of Parliament on 10th March 2011.\n“That this Parliament, pursuant to section 7 of the Civil List and Pension Act (Chapter 44), resolves that the Schedule to that Act be varied by deleting the figures “$3,376,800”, “$73,000”, “$3,600”, “$4,060,800”, “$2,093,600” and “$746,900” inthe second column and substituting for them the figures “$4,267,500”, “$73,000”, “$4,500”, “$4,532,400”, “$2,068,300” and “$659,300”, respectively.”."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Civil List and Pension Act - Resolution Passed",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

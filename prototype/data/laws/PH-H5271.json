@@ -1,7 +1,7 @@
 {
  "id": "PH-H5271",
  "title": {
-  "zh": null,
+  "zh": "将达沃市帕纳坎小学更名为Vedasto F. Corcuera小学并为此作出规定的法案",
   "en": "An Act Changing the Name of the Panacan Elementary School in Davao City to Vedasto F. Corcuera Elementary School",
   "orig": "An Act Changing the Name of the Panacan Elementary School in Davao City to Vedasto F. Corcuera Elementary School"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Panacan Elementary School in Davao City to Vedasto F. Corcuera Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

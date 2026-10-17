@@ -1,7 +1,7 @@
 {
  "id": "PH-H423",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统通过管制非必需品与奢侈品的进口建立进口管制制度、设立进口管制委员会、授权发布实施细则并对违反本法行为予以处罚的法案",
   "en": "An Act Authorizing the President of the Philippines to Establish a System of Import Control by Regulating Imports of Non-Essential and Luxury Articles, Creating an Import Control Board, Authorizing the Issuance of Rules and Regulations to Carry into Effect Such Control and Penalizing Violations of This Act",
   "orig": "An Act Authorizing the President of the Philippines to Establish a System of Import Control by Regulating Imports of Non-Essential and Luxury Articles, Creating an Import Control Board, Authorizing the Issuance of Rules and Regulations to Carry into Effect Such Control and Penalizing Violations of This Act"
  },
@@ -121,5 +121,13 @@
     "en": "This Act shall take effect upon the issuance of an executive order by the President of the Philippines.\nApproved: July 15, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Establish a System of Import Control by Regulating Imports of Non-Essential and Luxury Articles, Creating an Import Control Board, Authorizing the Issuance of Rules and Regulations to Carry into Effect Such Control and Penalizing Violations of This Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

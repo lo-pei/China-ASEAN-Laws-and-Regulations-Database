@@ -1,7 +1,7 @@
 {
  "id": "PH-H7829",
  "title": {
-  "zh": null,
+  "zh": "2006 年生物燃料法",
   "en": "Biofuels Act of 2006",
   "orig": "Biofuels Act of 2006 An Act to Direct the Use of Biofuels, Establishing for this purpose the Biofuel Program, Appropriating Funds therefor, and for other purposes."
  },
@@ -250,5 +250,13 @@
     "en": "Effectivity. - This act shall effect fifteen (15) day after publication in at least two newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Biofuels Act of 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

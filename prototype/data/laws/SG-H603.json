@@ -1,7 +1,7 @@
 {
  "id": "SG-H603",
  "title": {
-  "zh": null,
+  "zh": "银会（缴足资本百分比与保证金的缴存）条例 1972",
   "en": "Chit Funds (Deposits of Percentage of Paid-up Capital and of Security) Regulations 1972",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. The security furnished under regulations 2 and 3 must not —\n(a)be liable to be attached in execution of a decree or otherwise; or\n(b)be alienated in any manner whatsoever and any such alienation by way of transfer or charge, mortgage or other encumbrance is void."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Chit Funds (Deposits of Percentage of Paid-up Capital and of Security) Regulations 1972",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

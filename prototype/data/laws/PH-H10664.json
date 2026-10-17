@@ -1,7 +1,7 @@
 {
  "id": "PH-H10664",
  "title": {
-  "zh": null,
+  "zh": "授予 FLECO 电力合作社在拉古纳省 11 个市镇建设、安装、运营、拥有、管理和维护配电系统，向终端用户输送电力的特许经营权法案",
   "en": "An Act Granting a Franchise to First Lagna Electric Cooperative, Inc. (FLECO) to Construct, Install, Establish, Operate, Own, Manage and Maintain Distribution Systems for the Conveyance of Electric Power to the End-users in the Municipalities of Cavinti, Pagsanjan, Lumban, Kalayaan, Paete, Pakil, Pangil, Siniloan, Famy, Mabitac, and Sta. Maria, Province of Laguna",
   "orig": "An Act Granting a Franchise to First Lagna Electric Cooperative, Inc. (FLECO) to Construct, Install, Establish, Operate, Own, Manage and Maintain Distribution Systems for the Conveyance of Electric Power to the End-users in the Municipalities of Cavinti, Pagsanjan, Lumban, Kalayaan, Paete, Pakil, Pangil, Siniloan, Famy, Mabitac, and Sta. Maria, Province of Laguna"
  },
@@ -272,5 +272,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days after its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting a Franchise to First Lagna Electric Cooperative, Inc. (FLECO) to Construct, Install, Establish, Operate, Own, Manage and Maintain Distribution Systems for the Conveyance of Electric Power to the End-users in the Municipalities of Cavinti, Pagsanjan, Lumban, Kalayaan, Paete, Pakil, Pangil, Siniloan, Famy, Mabitac, and Sta. Maria, Province of Laguna",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

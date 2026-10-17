@@ -1,7 +1,7 @@
 {
  "id": "SG-H626",
  "title": {
-  "zh": null,
+  "zh": "新加坡民航局（实里达机场）公告 2009",
   "en": "Civil Aviation Authority of Singapore (Seletar Airport) Notification 2009",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nSeletar Airport\nAll that land and water containing an area of about 1,608,000 square metres within the limits that are the boundaries to Lot numbers 1003K, 1044V, 1045P, 1046T, 1047A, 4515A-PT, 4517N, 4519L-PT, 4991W, 5126W-PT, 5127V-PT, 5146T-PT, 5151K-PT, 5170X-PT and 5171L-PT of Mukim 20, and which is more particularly delineated in the Plan below.\n[S 589/2018 wef 01/10/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Civil Aviation Authority of Singapore (Seletar Airport) Notification 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

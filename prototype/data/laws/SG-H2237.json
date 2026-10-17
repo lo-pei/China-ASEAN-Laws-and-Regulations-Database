@@ -1,7 +1,7 @@
 {
  "id": "SG-H2237",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）公告 2020",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The arrangement fee of US$302,400 paid on 18 January 2019 by Hafnia Pte. Ltd. (a company incorporated in Singapore) to SG Corporate Finance (Hong Kong) Limited (a company incorporated in Hong Kong) for the part of the specified loan which is used to finance an intercompany loan by Hafnia Pte. Ltd. to BW Aldrich Pte. Ltd. for the purpose of financing the acquisition of the following Singapore‑flagged vessels by BW Aldrich Pte. Ltd., is exempt from tax:\n(a)BW Despina;\n(b)BW Galatea;\n(c)BW Larissa;\n(d)BW Neso;\n(e)BW Thalassa;\n(f)BW Triton.\n(2) The interest, arrangement fee and commitment fee of US$165,610 payable from 18 January 2019 to 30 June 2024 (both dates inclusive) by Hafnia Pte. Ltd. to SG Corporate Finance (Hong Kong) Limited for the part of the specified loan which is used to finance the procurement and installation of scrubbers on the Singapore‑flagged vessels mentioned in sub‑paragraph (1)(a) to (f) by BW Aldrich Pte. Ltd., are exempt from tax.\n(3) The exemptions under sub‑paragraphs (1) and (2) are subject to the terms and conditions specified in the letter of approval dated 14 September 2020 issued by the Ministry of Finance and addressed to Hafnia Pte. Ltd.\n(4) In this paragraph, “specified loan” means the amount borrowed by Hafnia Pte. Ltd. under a loan facility for US$216,600,000 granted to Hafnia Pte. Ltd. under a facility agreement dated 10 January 2019."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

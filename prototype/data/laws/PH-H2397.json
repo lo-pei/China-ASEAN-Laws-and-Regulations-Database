@@ -1,7 +1,7 @@
 {
  "id": "PH-H2397",
  "title": {
-  "zh": null,
+  "zh": "修订第 720 号共和国法（即《乡村银行法》）第 5、10 与 11 条及其他相关法律的法案",
   "en": "An Act to Amend Sections Five, Ten and Eleven of Republic Act Numbered Seven Hundred Twenty, Otherwise Known as the Rural Banks’ Act and Other Pertinent Laws",
   "orig": "An Act to Amend Sections Five, Ten and Eleven of Republic Act Numbered Seven Hundred Twenty, Otherwise Known as the Rural Banks’ Act and Other Pertinent Laws"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Five, Ten and Eleven of Republic Act Numbered Seven Hundred Twenty, Otherwise Known as the Rural Banks’ Act and Other Pertinent Laws",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

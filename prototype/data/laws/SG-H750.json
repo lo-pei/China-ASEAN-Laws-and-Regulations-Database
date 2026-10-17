@@ -1,7 +1,7 @@
 {
  "id": "SG-H750",
  "title": {
-  "zh": null,
+  "zh": "共用服务隧道（上诉）条例 2021",
   "en": "Common Services Tunnels (Appeals) Regulations 2021",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "10. Where the time specified by the Minister or these Regulations for doing any act expires on a Saturday, Sunday or public holiday, the act is in time if done on the next following working day."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Common Services Tunnels (Appeals) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

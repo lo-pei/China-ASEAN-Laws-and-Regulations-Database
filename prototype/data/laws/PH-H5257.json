@@ -1,7 +1,7 @@
 {
  "id": "PH-H5257",
  "title": {
-  "zh": null,
+  "zh": "将邦阿西楠省Tayug现驻第151警察连与第1警察区的营地命名为Camp Narciso R. Ramos的法案",
   "en": "An Act Naming the Camp at Tayug, Pangasinan, now Housing the 151st Pc Company/1st Police District, as Camp Narciso R. Ramos",
   "orig": "An Act Naming the Camp at Tayug, Pangasinan, now Housing the 151st Pc Company/1st Police District, as Camp Narciso R. Ramos"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Camp at Tayug, Pangasinan, now Housing the 151st Pc Company/1st Police District, as Camp Narciso R. Ramos",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

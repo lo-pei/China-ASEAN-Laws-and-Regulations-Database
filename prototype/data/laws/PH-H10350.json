@@ -1,7 +1,7 @@
 {
  "id": "PH-H10350",
  "title": {
-  "zh": null,
+  "zh": "将高山省 Paracelis 市镇 Bunot 描笼涯的 Addang 小学附属校分离，改设为独立的 Ambatutong 小学，并为此拨款",
   "en": "An Act Separating the Addang Elementary School – Ambatutong Extension in Barangay Bunot, Municipality of Paracelis, Province of Mountain Province From the Addang Elementary School, Converting It Into An Independent Elementary School to Be Known as the Ambatutong Elementary School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Addang Elementary School – Ambatutong Extension in Barangay Bunot, Municipality of Paracelis, Province of Mountain Province From the Addang Elementary School, Converting It Into An Independent Elementary School to Be Known as the Ambatutong Elementary School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Addang Elementary School – Ambatutong Extension in Barangay Bunot, Municipality of Paracelis, Province of Mountain Province From the Addang Elementary School, Converting It Into An Independent Elementary School to Be Known as the Ambatutong Elementary School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

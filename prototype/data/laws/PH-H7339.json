@@ -1,7 +1,7 @@
 {
  "id": "PH-H7339",
  "title": {
-  "zh": null,
+  "zh": "将高山省 Bontoc 市镇 Guinaang 描笼涯的 Mountain Province General 综合中学附属校分离，改设为独立的同名国立中学，并为此拨付所需经费",
   "en": "An Act Separating the Mountain Province General Comprehensive High School -Guinaang Annex Located in Barangay Guinaang, Municipality of Bontoc, Mountain Province From the Mountain Province General Comprehensive High School Located in the Municipality of Bontoc, Mountain Province and the Same Is Converted Into An Independent National High School to Be Known as the Guinaang National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Mountain Province General Comprehensive High School -Guinaang Annex Located in Barangay Guinaang, Municipality of Bontoc, Mountain Province From the Mountain Province General Comprehensive High School Located in the Municipality of Bontoc, Mountain Province and the Same Is Converted Into An Independent National High School to Be Known as the Guinaang National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Mountain Province General Comprehensive High School -Guinaang Annex Located in Barangay Guinaang, Municipality of Bontoc, Mountain Province From the Mountain Province General Comprehensive High School Located in the Municipality of Bontoc, Mountain Province and the Same Is Converted Into An Independent National High School to Be Known as the Guinaang National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7924",
  "title": {
-  "zh": null,
+  "zh": "将北伊罗戈-阿帕尧公路圣尼古拉斯—索尔索纳段命名为Josefa Llanes Escoda国道的法案",
   "en": "An Act Naming the San Nicolas-Solsona portion of the Ilocos Norte-Apayao Road as the Josefa Llanes Escoda National Highway",
   "orig": "An Act Naming the San Nicolas-Solsona portion of the Ilocos Norte-Apayao Road as the Josefa Llanes Escoda National Highway"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the San Nicolas-Solsona portion of the Ilocos Norte-Apayao Road as the Josefa Llanes Escoda National Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

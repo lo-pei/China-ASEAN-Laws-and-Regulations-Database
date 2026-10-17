@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-246-TABUNG-AMANAH-PEKERJA-BOARD-ACT-1",
  "title": {
-  "zh": null,
+  "zh": "雇员信托基金局法 1",
   "en": "TABUNG AMANAH PEKERJA BOARD ACT 1",
   "orig": null
  },
@@ -378,5 +378,13 @@
     "en": "The provisions of Schedule 3 shall have effect for the purpose of the transfer to the Board of functions, property and for other transitional purposes specified in Schedule 3. (section 5(4))\n\nCONSTITUTION AND PROCEEDINGS OF BOARD OF DIRECTORS Terms and conditions of office"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TABUNG AMANAH PEKERJA BOARD ACT 1",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

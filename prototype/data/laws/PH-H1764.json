@@ -1,7 +1,7 @@
 {
  "id": "PH-H1764",
  "title": {
-  "zh": null,
+  "zh": "将伊莎贝拉省Jones中学改设为Jones农村中学的法案",
   "en": "An Act Converting the Jones High School in the Province of Isabela into a Rural High School, to be Known as the Jones Rural High School",
   "orig": "An Act Converting the Jones High School in the Province of Isabela into a Rural High School, to be Known as the Jones Rural High School"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Jones High School in the Province of Isabela into a Rural High School, to be Known as the Jones Rural High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2995",
  "title": {
-  "zh": null,
+  "zh": "法律职业（法律业务管理课程）规则 2015",
   "en": "Legal Profession (Legal Practice Management Course) Rules 2015",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) For the purposes of section 75C(1)(a) of the Act, the time within which a solicitor must successfully complete the Course is before the solicitor commences practising on the solicitor’s own account, in partnership (whether in a law firm or a limited liability law partnership) or as a director of a law corporation.\n(2) Despite paragraph (1), if the following requirements are satisfied, then for the purposes of section 75C(1)(a) of the Act, the time within which a solicitor must successfully complete the Course is one year after the solicitor commences practising on the solicitor’s own account, in partnership (whether in a law firm or a limited liability law partnership) or as a director of a law corporation:\n(a)the solicitor gives a written undertaking to the Council to attend and successfully complete the Course within one year after the date the solicitor commences such practice;\n(b)the Council has given the solicitor written consent to commence such practice before completing the Course."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Legal Profession (Legal Practice Management Course) Rules 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2843",
  "title": {
-  "zh": null,
+  "zh": "国际儿童拐带（法律援助与法律意见相关立法的适用）条例 2011",
   "en": "International Child Abduction (Application of Legislation relating to Legal Aid and Legal Advice) Regulations 2011",
   "orig": null
  },
@@ -201,5 +201,13 @@
     "en": "12.—(1) Where under any provision of the Legal Aid and Advice Act (Cap. 160) or the Legal Aid and Advice Regulations (Cap. 160, Rg 1) the conversion of foreign currency into Singapore currency is required to be made, the rate of exchange for the purpose of the conversion shall be the rate of exchange between that foreign currency and the Singapore currency applicable at the relevant time.\n(2) In this regulation, “relevant time” means —\n(a)in the case of determining whether the applicant satisfies the means criteria for legal aid prescribed in the Legal Aid and Advice Regulations —\n(i)subject to sub-paragraph (ii), the date on which an applicant makes an application for legal aid to the Director under section 6(1) or (2) of the Legal Aid and Advice Act (Cap. 160); or\n(ii)the date on which the Director makes a further determination or such enquiries as to the means and condition of an applicant under section 7(a) of that Act; and\n[S 693/2019 wef 16/10/2019]\n(b)in the case of a contribution required to be made under section 22A(1) of the Legal Aid and Advice Act (Cap. 160) or a deposit in respect of out-of-pocket expenses required to be paid under section 13(1) of that Act, such of the following dates as the Director may, in his sole discretion, determine:\n(i)the date on which the Director makes a written request to an applicant for such contribution or deposit to be made; or\n(ii)the date on which such contribution or deposit is received by the Director from an applicant pursuant to his written request.\n[S 401/2019 wef 31/05/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "International Child Abduction (Application of Legislation relating to Legal Aid and Legal Advice) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

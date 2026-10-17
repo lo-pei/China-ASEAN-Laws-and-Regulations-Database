@@ -1,7 +1,7 @@
 {
  "id": "PH-H6447",
  "title": {
-  "zh": null,
+  "zh": "修订第7297号共和国法（即《授予Zoe Broadcasting Network, Inc.在吕宋岛建设、安装、运营与维护广播与电视站特许权法》）的标题与第1条的法案",
   "en": "An Act Amending the Title and Section One of Republic Act Numbered Seventy-two Hundred Ninety-seven, Entitled \"An Act Granting Zoe Broadcasting Network, Inc., a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations in the Island of Luzon, and for Other Purposes\"",
   "orig": "An Act Amending the Title and Section One of Republic Act Numbered Seventy-two Hundred Ninety-seven, Entitled \"An Act Granting Zoe Broadcasting Network, Inc., a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations in the Island of Luzon, and for Other Purposes\""
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H6447-A1_2",
+   "id": "PH-H6447-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Nature and Scope of Franchise. - Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to the ZOE Broadcasting Network, Inc., its successors or assigns, hereunder referred to as the grantee, a franchise to construct, install, operate and maintain for commercial purposes and in the public interest, radio and television stations throughout the Philippines with the corresponding auxiliary, special broadcast and other program and distribution services and relay stations, and to install radio communication facilities for the grantee's private use in its broadcast services.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6447-A2",
@@ -80,5 +81,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending the Title and Section One of Republic Act Numbered Seventy-two Hundred Ninety-seven, Entitled \"An Act Granting Zoe Broadcasting Network, Inc., a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations in the Island of Luzon, and for Other Purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

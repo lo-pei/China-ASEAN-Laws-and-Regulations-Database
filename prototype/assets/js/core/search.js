@@ -97,6 +97,15 @@
     return null;
   }
 
+  /* ---------------- 排序辅助 ---------------- */
+  /* 国家优先序：检索页「默认优先展示中国法律」。
+     返回 0 表示优先（中国），1 表示其他法域。只作为**同分时的次级排序键**，
+     不影响相关度打分本身，也不改变显式选择的「日期 / 状态」排序语义。 */
+  var PRIORITY_COUNTRY = 'CN';
+  function countryRank(law) {
+    return (law && law.country === PRIORITY_COUNTRY) ? 0 : 1;
+  }
+
   /* ---------------- 主检索 ---------------- */
   function run(params) {
     params = params || {};
@@ -137,14 +146,21 @@
       if (sort === 'status') {
         var order = { active: 0, amended: 1, pending: 2, repealed: 3 };
         var d = (order[a.law.status] || 9) - (order[b.law.status] || 9);
-        return d !== 0 ? d : b.score - a.score;
+        return d !== 0 ? d : b.score - a.score || countryRank(a.law) - countryRank(b.law);
       }
-      return b.score - a.score || String(b.law.promulgatedDate || '').localeCompare(String(a.law.promulgatedDate || ''));
+      /* 相关度（默认排序）：同分时**中国法律优先**，再按公布日期倒序 */
+      return b.score - a.score ||
+        countryRank(a.law) - countryRank(b.law) ||
+        String(b.law.promulgatedDate || '').localeCompare(String(a.law.promulgatedDate || ''));
     });
 
-    /* 未输入查询词时按公布日期倒序，避免空结果页 */
+    /* 未输入查询词时：所有结果同分（score=1），此时**中国法律优先**，其次按公布日期倒序。
+       这样检索页首次打开即优先呈现中国法律，而不是被最新发布的东盟各国法规占满首屏。 */
     if (!q && sort === 'relevance') {
-      results.sort(function (a, b) { return String(b.law.promulgatedDate || '').localeCompare(String(a.law.promulgatedDate || '')); });
+      results.sort(function (a, b) {
+        return countryRank(a.law) - countryRank(b.law) ||
+          String(b.law.promulgatedDate || '').localeCompare(String(a.law.promulgatedDate || ''));
+      });
     }
 
     var total = results.length;

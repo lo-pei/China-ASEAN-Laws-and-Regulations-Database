@@ -1,7 +1,7 @@
 {
  "id": "PH-H7638",
  "title": {
-  "zh": null,
+  "zh": "授予穆斯林发展多用途合作社在菲律宾建设、安装、设立、运营和维护无线电广播站的特许经营权法案",
   "en": "An Act Granting the Muslim Development Multipurpose Cooperative a Franchise to construct, install, establish, operate and maintain radio broadcasting stations in the Philippines",
   "orig": "An Act Granting the Muslim Development Multipurpose Cooperative a Franchise to construct, install, establish, operate and maintain radio broadcasting stations in the Philippines"
  },
@@ -241,5 +241,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Muslim Development Multipurpose Cooperative a Franchise to construct, install, establish, operate and maintain radio broadcasting stations in the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

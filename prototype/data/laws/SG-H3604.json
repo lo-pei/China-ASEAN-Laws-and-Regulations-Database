@@ -1,7 +1,7 @@
 {
  "id": "SG-H3604",
  "title": {
-  "zh": null,
+  "zh": "辐射防护法 2007",
   "en": "Radiation Protection Act 2007",
   "orig": null
  },
@@ -1002,5 +1002,13 @@
     "en": "SECOND SCHEDULE\nSections 2(1), 30(1), 36(2)(b) and 56\nEnhanced punishments for offences\ncommitted in relation to nuclear material\nOffence under Penal Code\nSubstituted imprisonment term\n1.Section 379 (Theft)\n—\nTerm which may extend to 5 years\n2.Section 380 (Theft in dwelling‑house, etc.)\n—\nTerm which may extend to 10 years\n3.Section 381 (Theft by clerk or servant of property in possession of master)\n—\nTerm which may extend to 10 years\n4.Section 382 (Theft after preparation made for causing death or hurt in order to commit theft)\n—\nTerm which may extend to 15 years\n5.Section 384 (Extortion)\n—\nTerm of not less than 3 years and not more than 10 years\n6.Section 385 (Putting person in fear of harm in order to commit extortion)\n—\nTerm of not less than 3 years and not more than 8 years\n7.Section 386 (Extortion by putting a person in fear of death or grievous hurt)\n—\nTerm of not less than 3 years and not more than 15 years\n8.Section 387 (Putting person in fear of death or of grievous hurt in order to commit extortion)\n—\nTerm of not less than 3 years and not more than 10 years\n9.Section 388 (Extortion by threat of accusation of an offence punishable with death, or imprisonment, etc.)\n—\nTerm which may extend to 15 years\n10.Section 389 (Putting person in fear of accusation of offence, in order to commit extortion)\n—\nTerm which may extend to 15 years\n11.Section 392 (Robbery committed at or after 7 a.m. and at or before 7 p.m.)\n—\nTerm of not less than 3 years and not more than 15 years\n12.Section 392 (Robbery committed after 7 p.m. and before 7 a.m.)\n—\nTerm of not less than 5 years and not more than 20 years\n13.Section 393 (Attempt to commit robbery)\n—\nTerm of not less than 3 years and not more than 10 years\n14.Section 394 (Voluntarily causing hurt in committing robbery)\n—\nTerm of not less than 8 years and not more than 30 years\n15.Section 395 (Gang‑robbery)\n—\nTerm of not less than 8 years and not more than 30 years\n16.Section 399 (Making preparation to commit gang‑robbery)\n—\nTerm of not less than 5 years and not more than 15 years\n17.Section 402 (Assembling for purpose of committing gang‑robbery)\n—\nTerm which may extend to 10 years\n18.Section 403 (Dishonest misappropriation of property)\n—\nTerm which may extend to 3 years\n19.Section 406 (Criminal breach of trust)\n—\nTerm which may extend to 10 years\n20.Section 407 (Criminal breach of trust of property entrusted for purposes of transportation or storage)\n—\nTerm which may extend to 20 years\n21.Section 408 (Criminal breach of trust by employees)\n—\nTerm which may extend to 20 years\n22.Section 409 (Criminal breach of trust by public servant, or by banker, merchant, agent, director, officer, partner, key executive or fiduciary)\n—\nTerm which may extend to 30 years\n23.Section 417 (Cheating)\n—\nTerm which may extend to 5 years\n24.Section 418 (Cheating with knowledge that wrongful loss may be thereby caused to a person whose interest the offender is bound to protect)\n—\nTerm which may extend to 8 years\n25.Section 419 (Cheating by personation)\n—\nTerm which may extend to 8 years\n26.Section 420 (Cheating and dishonestly inducing delivery of property)\n—\nTerm which may extend to 15 years\n27.Section 468 (Forgery for purpose of cheating)\n—\nTerm which may extend to 15 years.\n[20/2014; 15/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Radiation Protection Act 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

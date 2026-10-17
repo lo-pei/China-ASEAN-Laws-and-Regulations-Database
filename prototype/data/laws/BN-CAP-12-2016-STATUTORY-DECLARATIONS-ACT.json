@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-12-2016-STATUTORY-DECLARATIONS-ACT",
  "title": {
-  "zh": null,
+  "zh": "法定声明法",
   "en": "STATUTORY DECLARATIONS ACT",
   "orig": null
  },
@@ -88,5 +88,13 @@
     "en": "A person making any declaration by virtue of the provisions of this Act shall pay to the officer taking the declaration such fees as His Majesty the Sultan and Yang Di-Pertuan in Council may, by public notification, prescribe.\n\nSTATUTORY DECLARATION I, A.B, do solemnly and sincerely declare that , and I make this solemn declaration conscientiously believing the same to be true, and by virtue of the provisions of the Statutory Declarations Act (Chapter 12). Subscribed and solemnly declared by the above named in Brunei Darussalam this day of 20 , (Signature of Declarant)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "STATUTORY DECLARATIONS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

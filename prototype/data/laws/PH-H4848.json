@@ -1,7 +1,7 @@
 {
  "id": "PH-H4848",
  "title": {
-  "zh": null,
+  "zh": "在桑托斯将军城设立国立贸易学校并授权为此拨款的法案",
   "en": "Act Establishing a National Trade School in the City of General Santos, and Authorizing the Appropriation of Funds Therefor.",
   "orig": "Act Establishing a National Trade School in the City of General Santos, and Authorizing the Appropriation of Funds Therefor."
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, June 19, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Act Establishing a National Trade School in the City of General Santos, and Authorizing the Appropriation of Funds Therefor.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

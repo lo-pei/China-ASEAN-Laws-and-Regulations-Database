@@ -1,0 +1,62 @@
+{
+ "id": "BN-SUP-IIA-EXCLUSIVE-ECONOMIC-ZONE-PROCLAMATION",
+ "title": {
+  "zh": "SUP IIA 专属经济区宣告",
+  "en": "SUP IIA EXCLUSIVE ECONOMIC ZONE PROCLAMATION",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p32",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 4269,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "SUP-IIA-EXCLUSIVE-ECONOMIC-ZONE-PROCLAMATION.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《SUP-IIA-EXCLUSIVE-ECONOMIC-ZONE-PROCLAMATION.pdf》（6 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-SUP-IIA-EXCLUSIVE-ECONOMIC-ZONE-PROCLAMATION-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "SUPPLEMENT (SUP. IIA)\n\nEXCLUSIVE ECONOMIC ZONE PROCLAMATION B.L.R.O. 1/201N\n\nEXCLUSIVE ECONOMIC ZONE PROCLAMATION In the Name ofAllah, the Compassionate, the Merciful, PRAISE be to Allah, the Lord qf the universe and may the benediction andpeace qf Allah be upon Our Leader ~ u h a h m a d and upon all his Relations and ~ r i e n d i WHEREAS we are desirous of facilitating the wise development and use of the seas adjacent to our coast, consistent with international law; and WHEREAS the establishment of an Exclusive Economic Zone by Brunei Darussalam will contribute to that end; NOW, THEREFORE, We, SULTAN HAJI HASSANAL BOLKIAH MU'IZZADDIN WADDAULAH IBNl AL-MARHUM SULTAN HAJl OMAR 'ALI SAIFUDDIEN SA'ADUL KHAIRI WADDIEN, the Sultan and Yang Di-Pertuan of the State and Territory of Brunei Darussalam and all its Dependencies, in pursuance of all powers enabling us in that behalf are pleased to proclaim and it is hereby proclaimed as follows - Article 1 Citation This Proclamation may be cited as the Exclusive Economic Zone Proclamation. Article 2 Exclusive Economic Zone Sovereign rights and jurisdiction of Brunei Darussalam shall be exercised within an Exclusive Economic Zone. as described herein. Article 3 Description of the zone The Exclusive Economic Zone is a zone contiguous to the territorial sea of Brunei Darussalam. B.L.R.O. 1/201X 2 SUP. IIA Exclusive Economic Zone Proclamation Article 4 Limits of the zone This limits of this zone shall be -\n\n(a) an outer-limit consisting of a line 200 miles distant from the baseline from which the breadth of the territorial sea of Brunei Darussalam is measured:\n\n(b) a lateral boundary with the adjoining territory of Sabah, consisting of the same boundary as was promulgated for the continental shelf of North Borneo by Order-in-Council of 1 1 th September 1958 (S. 1 1958 No. 15 17) but continued out to the 200 mile limit by a straight line;\n\n(c) a lateral boundary with the adjoining territory of Sarawak, consisting of the same boundary as was promulgated for the continental shelf of Sarawak by Order-in-Council of I I th September 1958 (S. 1 1958 No. 1518) but continued out to the 200 mile limit by a straight line. Article 5 Large scale map The limit indicated in Article 4 is depicted on a large scale map Series : Misc. Edition: JUAB Sheet which is deposited in the office of the Surveyor General. Article 6 Alteration to limits The limits of this zone may from time to time, be altered where necessary to give effect to any international agreement duly concluded by the Government of Brunei Darussalam. Article 7 Rights within the zone Within this zone Brunei Darussalam has, to the extent permitted by international law\n\n(a) sovereign rights for the purpose of exploring, exploiting, conserving and managing natural resources, both living and non-living, of the seabed and subsoil and the superjacent waters;\n\n(b) jurisdiction with regard to the establishment and use of artificial islands, and installations and structures;\n\n(c) jurisdiction to authorise and control marine scientific research; (4 jurisdiction to protect and preserve the marine environment. Article 8 Legislation Laws providing for and regulating the exercise of the rights and jurisdiction enumerated in Article 7 shall be enacted as necessary from time to time. Article 9 Saving Nothing contained in this Proclamation shall prejudice or restrict the rights enjoyed by Brunei Darussalam by virtue of international law to areas of continental shelf extending beyond the limits of the present exclusive economic zone. So be it. Such is the Proclamation of an Exclusive Economic Zone. May ALLAH, to whom be praise and whose name be exalted, the King of Kings, vouchsafe His grace and may the Prophet Muhammad (on whom be the benediction and peace of ALLAH) grant His Blessings to this Proclamation, for ever and ever, Amen! 0 Lord of the Universe. Made at the Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam this 30th day of Muharram, the Hijrah of the Prophet Muhammad (on whom be the benediction and peace of ALLAH) one thousand four hundred and fourteen corresponding to the 20th day of July, one thousand nine hundred and ninety three of the Christian era being the twenty-sixth year of our reign. B.L.R.O. 1/201R"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUP IIA EXCLUSIVE ECONOMIC ZONE PROCLAMATION",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2249",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展特许权使用费及其他付款豁免）公告 2003",
   "en": "Income Tax (Exemption of Royalties and Other Payments for Economic and Technological Development) Notification 2003",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Subject to sub-paragraph (2), there shall be exempt from tax any income of a person not resident in Singapore (referred to in this paragraph as a non-resident person), being a payment made to the non-resident person for the use of or right to use any international telecommunication submarine cable capacity (including any payment for an IRU), and accruing in or derived from Singapore —\n(a)during the period from 28th February 2003 to 27th February 2013 (both dates inclusive); or\n(b)after 27th February 2013 —\n(i)under a contract for such use or right to use which takes effect at any time during the period from 28th February 2003 to 27th February 2013 (both dates inclusive); or\n(ii)under a contract for such use or right to use which is extended or renewed, where the extension or renewal takes effect at any time during the period from 28th February 2003 to 27th February 2013 (both dates inclusive).\n(1A) Subject to sub‑paragraph (2), there shall be exempt from tax any income of a non-resident person, being a payment made to the non‑resident person for an IRU, and accruing in or derived from Singapore —\n(a)during the period from 28th February 2013 to 27th February 2018 (both dates inclusive); or\n(b)after 27th February 2018 —\n(i)under a contract for the IRU which takes effect at any time during the period from 28th February 2013 to 27th February 2018 (both dates inclusive); or\n(ii)under a contract for the IRU which is extended or renewed, where the extension or renewal takes effect at any time during the period from 28th February 2013 to 27th February 2018 (both dates inclusive).\n[S 678/2013 wef 28/02/2013]\n(1B) Subject to sub‑paragraph (2), the income of a non‑resident person that comprises a payment made to the non‑resident person for an IRU, and accruing in or derived from Singapore —\n(a)during the period from 28 February 2018 to 31 December 2028 (both dates inclusive); or\n[S 820/2023 wef 01/01/2024]\n(b)after 31 December 2028 —\n(i)under a contract for the IRU which takes effect at any time during the period from 28 February 2018 to 31 December 2028 (both dates inclusive); or\n(ii)under a contract for the IRU which is extended or renewed, where the extension or renewal takes effect at any time during the period from 28 February 2018 to 31 December 2028 (both dates inclusive),\n[S 820/2023 wef 01/01/2024]\nis exempt from tax.\n[S 648/2017 wef 28/02/2018]\n(2) The exemption under sub‑paragraphs (1), (1A) and (1B) shall not apply to any income of the non-resident person which is —\n(a)derived from any trade or business carried on in Singapore by the non-resident person; or\n(b)effectively connected with any permanent establishment in Singapore of the non-resident person.\n[S 678/2013 wef 28/02/2013]\n[S 109/2008 wef 29/02/2008]\n[S 648/2017 wef 28/02/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Royalties and Other Payments for Economic and Technological Development) Notification 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1176",
  "title": {
-  "zh": null,
+  "zh": "外交与领事关系（国际海洋法法庭）命令 2023",
   "en": "Diplomatic and Consular Relations (International Tribunal for the Law of the Sea) Order 2023",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7.—(1) Despite anything in this Order but without affecting any immunity or privilege under the International Organisations (Immunities and Privileges) (International Tribunal for the Law of the Sea) Order 2023, an individual mentioned in paragraph 4, 5 or 6 who is a citizen or permanent resident of Singapore enjoys only the immunity from legal process in respect of words spoken or written and acts done by the individual in the discharge of any of his or her official functions, in accordance with that paragraph.\n(2) Despite anything in this Order but without affecting any immunity or privilege under the International Organisations (Immunities and Privileges) (International Tribunal for the Law of the Sea) Order 2023, upon a waiver of an immunity or a privilege of an individual under paragraph 4, 5 or 6 by the competent authority, that immunity or privilege does not apply to that individual.\n(3) In sub‑paragraph (2), “competent authority” means —\n(a)in the case of an immunity or privilege enjoyed by an agent, a counsel or an advocate before the Tribunal or a Chamber of the Tribunal, representing or designated by a State that is a party to the proceedings before the Tribunal or the Chamber of the Tribunal — that State;\n(b)in the case of an immunity or a privilege enjoyed by —\n(i)a Member of the Tribunal;\n(ii)the Registrar;\n(iii)an agent, a counsel or an advocate before the Tribunal or a Chamber of the Tribunal other than one mentioned in sub‑paragraph (a);\n(iv)an expert appointed under article 289 of the Convention; or\n(v)a witness, an expert or any person performing missions in Singapore by order of the Tribunal or a Chamber of the Tribunal,\nthe Tribunal; and\n(c)in the case of an immunity or a privilege enjoyed by an official of the Tribunal other than the Registrar — the Registrar, acting with the approval of the President of the Tribunal."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Diplomatic and Consular Relations (International Tribunal for the Law of the Sea) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

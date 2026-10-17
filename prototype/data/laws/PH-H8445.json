@@ -1,7 +1,7 @@
 {
  "id": "PH-H8445",
  "title": {
-  "zh": null,
+  "zh": "将南阿古桑省 Trento 市镇 Sta. Maria 描笼涯的南阿古桑 国立中学的 Sta. Maria 附属校分离，改设为独立的同名国立中学，并为此拨款",
   "en": "Act Separating the Agusan Del Sur National High School - Sta. Maria Annex in Barangay Sta. Maria, Municipality of Trento, Province of Agusan Del Sur From the Agusan Del Sur National High School, Converting It Into an Independent National High School to Be Known as Sta. Maria National High School and Appropriating Funds Therefor",
   "orig": "Act Separating the Agusan Del Sur National High School - Sta. Maria Annex in Barangay Sta. Maria, Municipality of Trento, Province of Agusan Del Sur From the Agusan Del Sur National High School, Converting It Into an Independent National High School to Be Known as Sta. Maria National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Act Separating the Agusan Del Sur National High School - Sta. Maria Annex in Barangay Sta. Maria, Municipality of Trento, Province of Agusan Del Sur From the Agusan Del Sur National High School, Converting It Into an Independent National High School to Be Known as Sta. Maria National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

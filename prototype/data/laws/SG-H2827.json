@@ -1,7 +1,7 @@
 {
  "id": "SG-H2827",
  "title": {
-  "zh": null,
+  "zh": "保险（过渡与保留条款）条例 2004",
   "en": "Insurance (Transitional and Savings Provisions) Regulations 2004",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Sections 17, 18 and 21 of the Insurance Act (as amended by sections 18 (d) and (e), 19 and 20 (c) of the Insurance (Amendment) Act 2003) shall not apply to any registered insurer which carried on insurance business immediately before 23rd August 2004 for the period from 23rd August 2004 to 31st December 2004 (both dates inclusive).\n(2) A registered insurer referred to in paragraph (1) shall continue to comply with sections 17, 18 and 21 of the Insurance Act in force immediately before 23rd August 2004 during —\n(a)the period referred to in paragraph (1); and\n(b)the period from the day immediately following the end of the period referred to in paragraph (1) to the day on which the insurer lodges the statements of account and other statements required under the Insurance (Accounts and Statements) Regulations (Rg 2) in force immediately before 23rd August 2004 in respect of the accounting period beginning 1st January 2004 and ending on 31st December 2004 (both days inclusive),\nfor the purpose of enabling the insurer to comply with regulation 18(2) of the Insurance (Accounts and Statements) Regulations 2004 (G.N. No. S 494/2004) in respect of the preparation and lodgment of the statements of account and other statements required to be lodged under the Insurance (Accounts and Statements) Regulations (Rg 2).\n(3) Notwithstanding paragraphs (1) and (2), any registered insurer may elect to comply with sections 17, 18 and 21 of the Insurance Act (as amended by sections 18 (d) and (e), 19 and 20 (c) of the Insurance (Amendment) Act 2003) at any time before the expiry of the period referred to in paragraph (1).\n(4) Where a registered insurer elects to comply with sections 17, 18 and 21 of the Insurance Act (as amended by sections 18 (d) and ( e), 19 and 20 (c) of the Insurance (Amendment) Act 2003) under paragraph (3), the insurer shall give the Authority notice in writing of the date from which the insurer elects to comply with those sections (as amended) no later than 14 days after that date, and in that event —\n(a)paragraph (1) shall not apply to the insurer from the date the election is made; and\n(b)paragraph (2) shall continue to apply to the insurer."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insurance (Transitional and Savings Provisions) Regulations 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

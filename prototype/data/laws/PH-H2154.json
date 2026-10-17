@@ -1,7 +1,7 @@
 {
  "id": "PH-H2154",
  "title": {
-  "zh": null,
+  "zh": "将甲米地省Indang农村中学改设为Santa Maria农业学校类型的国立农业中学，名称为Don Severino国立农业学校，并授权为此拨款的法案",
   "en": "An Act to Convert the Indang Rural High School in the Province of Cavite to a National Agricultural High School of the Santa Maria Agricultural School Type to be Known as the Don Severino National Agricultural School, and to Authorize the Appropriation of Funds for the Purpose",
   "orig": "An Act to Convert the Indang Rural High School in the Province of Cavite to a National Agricultural High School of the Santa Maria Agricultural School Type to be Known as the Don Severino National Agricultural School, and to Authorize the Appropriation of Funds for the Purpose"
  },
@@ -61,5 +61,13 @@
     "en": "The sum of two hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the operation and maintenance of said school for the school year nineteen hundred fifty-nine - nineteen hundred sixty. Thereafter, the necessary sum for said purpose shall be included in the annual General Appropriation Acts.\nSe tion 3. This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Indang Rural High School in the Province of Cavite to a National Agricultural High School of the Santa Maria Agricultural School Type to be Known as the Don Severino National Agricultural School, and to Authorize the Appropriation of Funds for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

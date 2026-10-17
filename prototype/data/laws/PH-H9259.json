@@ -1,7 +1,7 @@
 {
  "id": "PH-H9259",
  "title": {
-  "zh": null,
+  "zh": "将南三宝颜省奥罗拉市镇蒙特阿莱格雷描笼涯的Juan Lumosad纪念国立中学蒙特阿莱格雷附属校更名为蒙特阿莱格雷国立中学的法案",
   "en": "An Act Changing the Name of Juan Lumosad Memorial National High School - Monte Alegre Annex in Barangay Monthe Alegre, Municipality of Aurora, Province of Zamboanga Del Sur to Monte Alegre National High School",
   "orig": "An Act Changing the Name of Juan Lumosad Memorial National High School - Monte Alegre Annex in Barangay Monthe Alegre, Municipality of Aurora, Province of Zamboanga Del Sur to Monte Alegre National High School"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Juan Lumosad Memorial National High School - Monte Alegre Annex in Barangay Monthe Alegre, Municipality of Aurora, Province of Zamboanga Del Sur to Monte Alegre National High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

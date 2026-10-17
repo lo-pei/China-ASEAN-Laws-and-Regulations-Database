@@ -1,0 +1,15 @@
+{
+ "jobId": "CALR-TITLE-20261017-1749-SG-1200",
+ "task": "law-title-translation",
+ "sourceLang": "en",
+ "targetLang": "zh",
+ "createdAt": "2026-10-17T09:49:13.229Z",
+ "count": 1200,
+ "titlesSha256": "4b46dc51369c66ad",
+ "scope": "SG",
+ "byCountry": {
+  "SG": 1200
+ },
+ "returnFormat": "return-package",
+ "contract": "rules/SKILL-法规标题中译规范.md"
+}

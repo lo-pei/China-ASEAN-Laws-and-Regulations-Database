@@ -1,7 +1,7 @@
 {
  "id": "SG-H2077",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 5 号）命令 2015",
   "en": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2015",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7.—(1) Keppel DC Real Estate Investment Trust is granted exemption from tax on the following income received in Singapore on or after 10 February 2014:\n(a)dividends and interest from Securus Guernsey 1 Limited and Securus Guernsey 2 Limited, companies incorporated in Guernsey;\n(b)dividends from Boxtel Investments Limited, a company incorporated in the British Virgin Islands;\n(c)dividends from Basis Bay Capital Management Sdn Bhd, a company incorporated in Malaysia.\n(2) Securus C100 Pte Ltd is granted exemption from tax on the dividends and interest received in Singapore on or after 10 February 2014 from Citadel 100 Datacentres Limited, a company incorporated in the Republic of Ireland.\n(3) Securus Netherlands 1 Pte Ltd is granted exemption from tax on the dividends received in Singapore on or after 10 February 2014 from Securus Netherlands B.V., a company incorporated in the Netherlands.\n(4) Securus Netherlands 2 Pte Ltd is granted exemption from tax on the interest received in Singapore on or after 10 February 2014 from Securus Almere B.V., a company incorporated in the Netherlands.\n(5) Securus GVP Pte Ltd is granted exemption from tax on the dividends and interest received in Singapore on or after 10 February 2014 from Greenwich View Place Limited, a company incorporated in Guernsey.\n(6) The exemptions in sub-paragraphs (1) to (5) are subject to the terms and conditions specified in the letter of approval dated 25 November 2014 addressed to KPMG Services Pte Ltd, the tax agent of Keppel DC Real Estate Investment Trust."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

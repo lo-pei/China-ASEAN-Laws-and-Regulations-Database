@@ -1,7 +1,7 @@
 {
  "id": "BN-S-63-2001-SYARIAH-COURTS-EVIDENCE-ORDER-2001",
  "title": {
-  "zh": null,
+  "zh": "伊斯兰法庭证据命令 2001",
   "en": "SYARIAH COURTS EVIDENCE ORDER 2001",
   "orig": null
  },
@@ -2632,5 +2632,13 @@
     "en": "Section 57 of the Religious Council and Kadis Court Act (Chapter 77) is hereby repealed.\n\nSCHEDULE M udda' a 'alaih Mudda'ii 'Ariyah Asyhadu ~I Bayyinah t-14 JiU. I t-14 Baligh/ Akil Baligh t.J~ Ghaib Haidh Hadd Hudud 30th. AUGUST, 2001 SCHEDULE- {continued} Hukum Syara' tJM~ JI.,.JI Ikrar Jinayat ~4 Jurh t:~ Kafalah tl~ Mahjur 'alaih ~~ ....>+--o Mahr Marad al maut u~I~JA Mazhab Mua'amalat Mudharabah Mumaiyiz Muzakki Nisab Qarinah Qisas Syahadah Syahid Syahid Asal j...AI.J.AU. Syahid Furu' tJ~ .J.Al:.. Syahadah ala al syahadah ;J\\+JI~&J~ Ta'zir _;t...)JU SCHEDULE- {continued} Ta'n Tazkiyah al syuhud Wali Wasi Wallahu 'a'alam Yamin Zakat Zina Made this 5th. day of Zulhijah, 1421 Hijriah corresponding to the 1st. day of March, 2001 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh DATO PADUKA WAHID BIN HAJI SALLEH, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SYARIAH COURTS EVIDENCE ORDER 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

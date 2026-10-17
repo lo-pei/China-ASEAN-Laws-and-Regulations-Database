@@ -1,7 +1,7 @@
 {
  "id": "SG-H465",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（主要股东——圣淘沙名胜世界私人有限公司）公告 2010",
   "en": "Casino Control (Main Shareholder — Resorts World at Sentosa Pte. Ltd.) Notification 2010",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister hereby designates Genting Singapore Limited (formerly known as Genting Singapore PLC), a company registered in Singapore, as the main shareholder of the casino operator, Resorts World at Sentosa Pte. Ltd. for the purposes of section 42 of the Act.\n[S 368/2018 wef 01/06/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Casino Control (Main Shareholder — Resorts World at Sentosa Pte. Ltd.) Notification 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

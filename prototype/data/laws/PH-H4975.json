@@ -1,7 +1,7 @@
 {
  "id": "PH-H4975",
  "title": {
-  "zh": null,
+  "zh": "宣布Kalinga-Apayao Balbalan的Balbalasang村为旅游度假区，划出其中部分公共土地为国家公园，并授权拨款10万比索作为改善该国家公园的初始款项",
   "en": "An Act Declaring the Barrio of Balbalasang, Balbalan, Kalinga-Apayao as a Tourist Resort, Setting Aside Certain Portions of the Public Domain Therein as a National Park, and Authorizing the Appropriation of One Hundred Thousand Pesos as Initial Amount for the Improvement of Said National Park.",
   "orig": "An Act Declaring the Barrio of Balbalasang, Balbalan, Kalinga-Apayao as a Tourist Resort, Setting Aside Certain Portions of the Public Domain Therein as a National Park, and Authorizing the Appropriation of One Hundred Thousand Pesos as Initial Amount for the Improvement of Said National Park."
  },
@@ -70,5 +70,13 @@
     "en": "This. Act shall take effect upon its approval.\nEnacted without Executive approval, June 17, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the Barrio of Balbalasang, Balbalan, Kalinga-Apayao as a Tourist Resort, Setting Aside Certain Portions of the Public Domain Therein as a National Park, and Authorizing the Appropriation of One Hundred Thousand Pesos as Initial Amount for the Improvement of Said National Park.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H8906",
  "title": {
-  "zh": null,
+  "zh": "在第四司法区增设二十七个地区审判法院分庭与八个市审判法院分庭，设于甲米地省各市镇，为此进一步修订第 129 号 Batas Pambansa（1980 年司法重组法）并拨款",
   "en": "An Act Creating Twenty-Seven (27) Additional Branches of the Regional Trial Court and Eight (8) Additional Branches of the Municipal Trial Court in the Fourth Judicial Region to be Stationed at Various Municipalities and Cities in the Province of Cavite, Further Amending for the Purpose Batas Pambansa Blg. 129, Otherwise Known as \"The Judiciary Reorganization Act of 1980ö, as Amended, and Appropriating Funds Therefor",
   "orig": "An Act Creating Twenty-Seven (27) Additional Branches of the Regional Trial Court and Eight (8) Additional Branches of the Municipal Trial Court in the Fourth Judicial Region to be Stationed at Various Municipalities and Cities in the Province of Cavite, Further Amending for the Purpose Batas Pambansa Blg. 129, Otherwise Known as \"The Judiciary Reorganization Act of 1980ö, as Amended, and Appropriating Funds Therefor"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after completion of its publication in the Official Gazette or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating Twenty-Seven (27) Additional Branches of the Regional Trial Court and Eight (8) Additional Branches of the Municipal Trial Court in the Fourth Judicial Region to be Stationed at Various Municipalities and Cities in the Province of Cavite, Further Amending for the Purpose Batas Pambansa Blg. 129, Otherwise Known as \"The Judiciary Reorganization Act of 1980ö, as Amended, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

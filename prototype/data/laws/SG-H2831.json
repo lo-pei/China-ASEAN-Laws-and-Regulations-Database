@@ -1,7 +1,7 @@
 {
  "id": "SG-H2831",
  "title": {
-  "zh": null,
+  "zh": "新加坡知识产权局法 2001",
   "en": "Intellectual Property Office of Singapore Act 2001",
   "orig": null
  },
@@ -687,5 +687,11 @@
     "en": "THIRD SCHEDULE\nSections 30(1), 34(1) and 35\nOffences under written law\n1. Sections 9, 10, 33, 34, 99, 100 and 101 of the Patents Act 1994; and rules made under section 104 of that Act.\n2. Sections 51, 72 and 73 of the Trade Marks Act 1998.\n3. Sections 29, 59, 60 and 66 of the Registered Designs Act 2000.\n4. Sections 25, 29 and 30 of the Geographical Indications Act 2014.\n5. Part 9, Division 2 of the Copyright Act 2021.\n[19/2014]\n[Act 22 of 2021 wef 01/05/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Intellectual Property Office of Singapore Act 2001",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

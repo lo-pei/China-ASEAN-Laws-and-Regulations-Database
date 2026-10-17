@@ -1,7 +1,7 @@
 {
  "id": "PH-H1492",
  "title": {
-  "zh": null,
+  "zh": "将安蒂克省达奥市镇巴拉萨南（C）村的名称变更为巴莱斯卡斯村的法案",
   "en": "An Act Changing the Name of the Barrio of Barasanan (C) in the Municipality of Dao, Province of Antique, to Ballescas",
   "orig": "An Act Changing the Name of the Barrio of Barasanan (C) in the Municipality of Dao, Province of Antique, to Ballescas"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Barrio of Barasanan (C) in the Municipality of Dao, Province of Antique, to Ballescas",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

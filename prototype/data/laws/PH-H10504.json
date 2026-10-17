@@ -1,7 +1,7 @@
 {
  "id": "PH-H10504",
  "title": {
-  "zh": null,
+  "zh": "将三宝颜市Pasobolong的棉兰老中央疗养院更名为三宝颜区域医疗中心的法案",
   "en": "An Act Renaming the Mindanao Central Sanitarium in Pasobolong, Zamboanga City to Zamboanga Regional Medical Center",
   "orig": "An Act Renaming the Mindanao Central Sanitarium in Pasobolong, Zamboanga City to Zamboanga Regional Medical Center"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Mindanao Central Sanitarium in Pasobolong, Zamboanga City to Zamboanga Regional Medical Center",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

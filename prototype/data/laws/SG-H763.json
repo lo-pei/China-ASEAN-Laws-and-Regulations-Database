@@ -1,7 +1,7 @@
 {
  "id": "SG-H763",
  "title": {
-  "zh": null,
+  "zh": "社区纠纷解决法庭规则 2015",
   "en": "Community Disputes Resolution Tribunals Rules 2015",
   "orig": null
  },
@@ -810,5 +810,13 @@
     "en": "SECOND SCHEDULE\nRule 20\nHearing fees\nNo.\nDescription\nFee\nDocument to be stamped and remarks\n1.\nFor the whole or part of each of the second and third days\n$100\nRequest.\n2.\nFor the whole or part of each day after the third day\n$250\nRequest."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Community Disputes Resolution Tribunals Rules 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

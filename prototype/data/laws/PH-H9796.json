@@ -1,7 +1,7 @@
 {
  "id": "PH-H9796",
  "title": {
-  "zh": null,
+  "zh": "确立菲律宾空间开发与利用政策并设立菲律宾航天局的法案，并为其他目的",
   "en": "An Act Establishing the Philippine Space Development and Utilization Policy and Creating the Philippine Space Agency, and for Other Purposes",
   "orig": "An Act Establishing the Philippine Space Development and Utilization Policy and Creating the Philippine Space Agency, and for Other Purposes"
  },
@@ -330,5 +330,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the Philippine Space Development and Utilization Policy and Creating the Philippine Space Agency, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

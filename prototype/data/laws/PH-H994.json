@@ -1,7 +1,7 @@
 {
  "id": "PH-H994",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾慈善彩票办公室举办一次特别彩票赛，以公共学校局体育项目为受益人的法案",
   "en": "An Act to Authorize the Philippine Charity Sweepstakes Office to Hold One Special Sweepstake Race for the Bureau of Public Schools Athletic Program as Beneficiary",
   "orig": "An Act to Authorize the Philippine Charity Sweepstakes Office to Hold One Special Sweepstake Race for the Bureau of Public Schools Athletic Program as Beneficiary"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize the Philippine Charity Sweepstakes Office to Hold One Special Sweepstake Race for the Bureau of Public Schools Athletic Program as Beneficiary",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

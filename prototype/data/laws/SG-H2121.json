@@ -1,7 +1,7 @@
 {
  "id": "SG-H2121",
  "title": {
-  "zh": null,
+  "zh": "所得税（银团离岸融资安排收入豁免）条例 2003",
   "en": "Income Tax (Exemption of Income from Syndicated Offshore Facilities) Regulations 2003",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "THE SCHEDULE\nRegulation 3\nCriteria for Determining Whether Facility Is A Syndicated Facility With Syndication Work Carried Out Substantially in Singapore\n1. For the purpose of regulation 3(1)(b), a facility shall be treated as a syndicated facility if the following conditions are satisfied:\n(a)the total amount of the facility is at least US$20 million or the equivalent in another currency;\n(b)the facility is documented as one agreement; and\n(c)either —\n(i)the facility has at least 3 lenders and, where there are fewer than 5 lenders, each lender has a share of at least 10% of the total amount of facility; or\n(ii)in the case of a facility which provides guarantee or letter of credit in addition to provision of loan, advance or funds —\n(A)the facility complies with sub-paragraph (i); or\n(B)there are at least 3 issuers of the guarantee or letter of credit and, where there are fewer than 5 issuers, each issuer’s undertaking represents at least 10% of the total amount of the facility.\n2. For the purpose of regulation 3(1)(c), the syndication work in respect of a facility shall be treated as being carried out substantially in Singapore if all of the following functions are carried out by the specified financial institution:\n(a)originating and structuring of the facility;\n(b)running the book;\n(c)facility documentation; and\n(d)facility agency."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (Exemption of Income from Syndicated Offshore Facilities) Regulations 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

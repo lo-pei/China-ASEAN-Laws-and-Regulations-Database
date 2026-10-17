@@ -1,7 +1,7 @@
 {
  "id": "PH-H10137",
  "title": {
-  "zh": null,
+  "zh": "通过规定关键军官固定任期、提高将官与旗官的强制退休年龄、规定更有效的淘汰制度，强化菲律宾武装部队的专业性并促进政策连续性与现代化举措，并为此拨款的法案",
   "en": "An Act Strengthening Professionalism and Promoting the Continuity of Policies and Modernization Initiatives in the Armed Forces of the Philippines, By Prescribing Fixed Terms for Key Officers Thereof, Increasing the Mandatory Retirement Age of Generals/flag Officers, Providing for a More Effective Attrition System, and Providing Funds Therefor",
   "orig": "An Act Strengthening Professionalism and Promoting the Continuity of Policies and Modernization Initiatives in the Armed Forces of the Philippines, By Prescribing Fixed Terms for Key Officers Thereof, Increasing the Mandatory Retirement Age of Generals/flag Officers, Providing for a More Effective Attrition System, and Providing Funds Therefor"
  },
@@ -362,5 +362,13 @@
     "en": "Repealing Clause. - Subject to the provisions of Section 22 of this Act, the following laws or provisions of laws are hereby repealed or amended:\n(a) Sections 3 and 4 of Republic Act No. 8186, as amended, which provides for the Maximum Tenure-in-Grade and Maximum Tenure in Position, are hereby repealed;\n(b) Section 4 of Presidential Decree No. 1638, which deals with optional retirement, is hereby amended;\n(c) Section 5(a0) of Presidential Decree No. 1638, as amended by Presidential Decree No. 1650, which provides for the Compulsory Retirement for Military Personnel, is hereby amended;\n(d) Sections 10, 11, and 12 of Presidential Decree No. 1638 are hereby repealed: Provided, That the last proviso of Section 10 shall remain in force and effect for purposes of implementation of Section 8 of this Act;\n(e) Section 9 of Presidential Decree No. 1638, which provides for retirement in the next higher grade, is hereby amended;\n(f) Section 17 of Presidential Decree No. 1638, which provides for retirement benefits based on the next higher grade, is hereby amended;\n(g) Section 1 of Republic Act No. 9188, with respect to Officer Grade Distribution, is hereby amended;\n(h) Section 4(b) and (c) of Republic Act No. 291, as amended, which provides for the age of commissionship, is hereby amended;\n(i) Section 27 of Commonwealth Act No. 1, which provides for the age of enlistment, is hereby amended; and\n(j) All laws, executive orders, or issuances, or any part thereof, which are inconsistent herewith, are hereby repealed, amended or modified accordingly.\nSEC. 26. Effectivity. - This Act shall take effect on July 1, 2022 and after its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening Professionalism and Promoting the Continuity of Policies and Modernization Initiatives in the Armed Forces of the Philippines, By Prescribing Fixed Terms for Key Officers Thereof, Increasing the Mandatory Retirement Age of Generals/flag Officers, Providing for a More Effective Attrition System, and Providing Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

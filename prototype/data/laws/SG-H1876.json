@@ -1,7 +1,7 @@
 {
  "id": "SG-H1876",
  "title": {
-  "zh": null,
+  "zh": "人类克隆与其他禁止行为法 2004",
   "en": "Human Cloning and Other Prohibited Practices Act 2004",
   "orig": null
  },
@@ -390,5 +390,13 @@
     "en": "22. The Minister may make regulations for prescribing anything which may be prescribed under this Act and generally to give effect to the provisions of this Act, and for carrying out the purposes and provisions of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Human Cloning and Other Prohibited Practices Act 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

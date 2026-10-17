@@ -1,7 +1,7 @@
 {
  "id": "PH-H3410",
  "title": {
-  "zh": null,
+  "zh": "修订第391号共和国法并授权拨款，在阿尔拜Guinobatan的Roxas纪念农业学校开设大学本科课程的法案",
   "en": "An Act to Amend Republic Act Numbered Three Hundred Ninety-One and to Authorize the Appropriation of Funds to Open Courses of Collegiate Level in the Roxas Memorial Agricultural School at Guinobatan, Albay",
   "orig": "An Act to Amend Republic Act Numbered Three Hundred Ninety-One and to Authorize the Appropriation of Funds to Open Courses of Collegiate Level in the Roxas Memorial Agricultural School at Guinobatan, Albay"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Three Hundred Ninety-One and to Authorize the Appropriation of Funds to Open Courses of Collegiate Level in the Roxas Memorial Agricultural School at Guinobatan, Albay",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

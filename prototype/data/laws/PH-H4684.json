@@ -1,7 +1,7 @@
 {
  "id": "PH-H4684",
  "title": {
-  "zh": null,
+  "zh": "将人民宅地与住房公司的存续期延长二十五年，自1976年1月24日现有存续期届满后立即生效的法案",
   "en": "An Act Extending the Life of the People's Homesite and Housing Corporation for a Period of Twenty-Five Years to Take Effect Immediately After the Expiration of the Present Life Term on January Twenty-Four, Nineteen Hundred and Seventy-Six",
   "orig": "An Act Extending the Life of the People's Homesite and Housing Corporation for a Period of Twenty-Five Years to Take Effect Immediately After the Expiration of the Present Life Term on January Twenty-Four, Nineteen Hundred and Seventy-Six"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Life of the People's Homesite and Housing Corporation for a Period of Twenty-Five Years to Take Effect Immediately After the Expiration of the Present Life Term on January Twenty-Four, Nineteen Hundred and Seventy-Six",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

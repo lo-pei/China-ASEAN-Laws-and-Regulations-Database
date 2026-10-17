@@ -1,7 +1,7 @@
 {
  "id": "PH-H4757",
  "title": {
-  "zh": null,
+  "zh": "在阿尔拜省Bacacay市镇设立流动诊所并授权为此拨款的法案",
   "en": "An Act Establishing a Floating Clinic in the Municipality of Bacacay in the Province of Albay and Authorizing the Appropriation of Funds Thereof",
   "orig": "An Act Establishing a Floating Clinic in the Municipality of Bacacay in the Province of Albay and Authorizing the Appropriation of Funds Thereof"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: November 9, 1970."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Floating Clinic in the Municipality of Bacacay in the Province of Albay and Authorizing the Appropriation of Funds Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

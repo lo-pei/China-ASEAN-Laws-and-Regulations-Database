@@ -1,7 +1,7 @@
 {
  "id": "PH-H3804",
  "title": {
-  "zh": null,
+  "zh": "修订第4519号共和国法，指定Malferrari Corporation为该法所授特许经营权的受让人并变更该特许经营权的其他条款",
   "en": "An Act Amending Republic Act Numbered Forty-Five Hundred Nineteen by Naming the Malferrari Corporation as the Grantee of the Franchise Granted Therein and Changing Certain Other Provisions of Said Franchise",
   "orig": "An Act Amending Republic Act Numbered Forty-Five Hundred Nineteen by Naming the Malferrari Corporation as the Grantee of the Franchise Granted Therein and Changing Certain Other Provisions of Said Franchise"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Forty-Five Hundred Nineteen by Naming the Malferrari Corporation as the Grantee of the Franchise Granted Therein and Changing Certain Other Provisions of Said Franchise",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4123",
  "title": {
-  "zh": null,
+  "zh": "修订Calbayog市宪章的法案",
   "en": "An Act to Revise the Charter of the City of Calbayog",
   "orig": "An Act Amending the First Paragraph of Section Thirty-Two, and Section Thirty-Three of Republic Act Numbered Thirty-Two Hundred Seventy-Nine, Entitled \"An Act to Revise the Charter of the City of Calbayog\""
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Revise the Charter of the City of Calbayog",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

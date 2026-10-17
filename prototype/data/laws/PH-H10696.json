@@ -1,7 +1,7 @@
 {
  "id": "PH-H10696",
  "title": {
-  "zh": null,
+  "zh": "扩展菲律宾科学高中系统、进一步加强其治理与管理、为此废止第 8496 号共和国法（即「1997 年菲律宾科学高中系统法」）并拨款的法案",
   "en": "An Act Expanding The Philippine Science High School (PSHS) System, Further Strengthening Its Governance And Management, Repealing For The Purpose Republic Act No. 8496 Or The “Philippine Science High School System Act Of 1997”, And Appropriating Funds Therefor",
   "orig": "An Act Expanding The Philippine Science High School (PSHS) System, Further Strengthening Its Governance And Management, Repealing For The Purpose Republic Act No. 8496 Or The “Philippine Science High School System Act Of 1997”, And Appropriating Funds Therefor"
  },
@@ -290,5 +290,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publications in the Official Gazette or in the two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Expanding The Philippine Science High School (PSHS) System, Further Strengthening Its Governance And Management, Repealing For The Purpose Republic Act No. 8496 Or The “Philippine Science High School System Act Of 1997”, And Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

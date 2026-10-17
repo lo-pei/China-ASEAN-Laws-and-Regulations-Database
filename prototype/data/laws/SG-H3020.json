@@ -1,7 +1,7 @@
 {
  "id": "SG-H3020",
  "title": {
-  "zh": null,
+  "zh": "婚生地位法 1934",
   "en": "Legitimacy Act 1934",
   "orig": null
  },
@@ -192,5 +192,13 @@
    },
    "status": "repealed"
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legitimacy Act 1934",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

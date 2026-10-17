@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-79-R-1-BIRTHS-AND-DEATHS-REGISTRATION-RULES",
  "title": {
-  "zh": null,
+  "zh": "R 1 出生与死亡登记规则",
   "en": "R 1 BIRTHS AND DEATHS REGISTRATION RULES",
   "orig": null
  },
@@ -153,5 +153,13 @@
     "en": "The fees to be paid under the Act shall be such as are specified in the Second (rules 3, 4, 5, 6 and 7(b))\n\nREGISTER OF BIRTHS (opposite) (continued)\n\nFORM B\n\nREGISTER OF DEATHS (opposite) Registration Informant Born\n\nINDEX REGISTER OF BIRTHS When Born Name Occupation Name Sex Name No. Informant Registration of Illness of Death Date of Death\n\nINDEX REGISTER OF DEATHS residence before arrival Darussalam continuous residence in Darussalam at Death Day Age Year Name No. (continued)\n\nFORM E\n\nCERTIFIED COPY OF INDEX REGISTER OF BIRTHS (continued)\n\nFORM F\n\nMEDICAL CERTIFICATE OF CAUSE OF DEATH (Repealed by S 18/2012)\n\nFORM G\n\nPOST MORTEM EXAMINATION CERTIFICATE (Repealed by S 18/2012)\n\nLATE REGISTRATION OF NAME OF CHILD (to be delivered to the Registrar under section 12) I certify that the name of the child registered by me on  .............................................. under Registration No.  ..................... is  ......................................................  (include the appropriate part of the father’s name). Signature of Parent/Informant  ..................................................................................... Date  ...........................................  Address  ...................................................................... This information was submitted within  ...........................................  months of birth. ..................................................................... Deputy Registrar of Births and Deaths (rule 11)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 1 BIRTHS AND DEATHS REGISTRATION RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

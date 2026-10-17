@@ -1,7 +1,7 @@
 {
  "id": "PH-H1366",
  "title": {
-  "zh": null,
+  "zh": "将碧瑶市镇区内部分公共土地移交碧瑶市并命令就此颁发地权的法案",
   "en": "An Act Transferring to the City of Baguio Certain Portions of the Public Domain Within the Baguio Townsite and Ordering the Issuance of Titles Thereto",
   "orig": "An Act Transferring to the City of Baguio Certain Portions of the Public Domain Within the Baguio Townsite and Ordering the Issuance of Titles Thereto"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring to the City of Baguio Certain Portions of the Public Domain Within the Baguio Townsite and Ordering the Issuance of Titles Thereto",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

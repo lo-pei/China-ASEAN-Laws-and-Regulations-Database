@@ -1,7 +1,7 @@
 {
  "id": "SG-H876",
  "title": {
-  "zh": null,
+  "zh": "贪污、贩毒及其他严重犯罪（文件与资料披露）条例 2015",
   "en": "Corruption, Drug Trafficking and Other Serious Crimes (Disclosure of Documents and Information) Regulations 2015",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) Any person who, being served with a written notice issued under regulation 5(1), intentionally omits to comply with the notice shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding one month or to both.\n(2) Any person who, being served with a written notice issued under regulation 5(1) to produce any information on a subject, furnishes, as true, any information on the subject which the person knows or has reason to believe to be false, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Corruption, Drug Trafficking and Other Serious Crimes (Disclosure of Documents and Information) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6107",
  "title": {
-  "zh": null,
+  "zh": "将拉古纳San Pedro的Sergio Osmena Sr.总统公路一段及该省境内该公路的延伸段更名为Jose P. Rizal博士公路，为此修订第6760号共和国法的法案",
   "en": "An Act Renaming the Portion of the President Sergio Osmena Sr. Highway Starting From Kilometer 28.387 At San Pedro, Laguna, and Any Further Extension of the Same Within the Said Province To Dr. Jose P. Rizal Highway, Amending For the Purpose Republic Act Numbered Sixty-seven Hundred and Sixty",
   "orig": "An Act Renaming the Portion of the President Sergio Osmena Sr. Highway Starting From Kilometer 28.387 At San Pedro, Laguna, and Any Further Extension of the Same Within the Said Province To Dr. Jose P. Rizal Highway, Amending For the Purpose Republic Act Numbered Sixty-seven Hundred and Sixty"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H6107-A1_2",
+   "id": "PH-H6107-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The South Superhighway stretching from Metro Manila to the Province of Laguna is hereby renamed President Sergio Osmeña Sr. Highway: Provided, That the portion starting from Kilometer 28.387 at San Pedro, Laguna, and any further extension of the same within the said province is hereby renamed Dr. Jose P. Rizal Highway.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6107-A2",
@@ -80,5 +81,13 @@
     "en": "This Act shall take effect after fifteen (15) days following its publication in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Portion of the President Sergio Osmena Sr. Highway Starting From Kilometer 28.387 At San Pedro, Laguna, and Any Further Extension of the Same Within the Said Province To Dr. Jose P. Rizal Highway, Amending For the Purpose Republic Act Numbered Sixty-seven Hundred and Sixty",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

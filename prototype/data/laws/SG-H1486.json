@@ -1,7 +1,7 @@
 {
  "id": "SG-H1486",
  "title": {
-  "zh": null,
+  "zh": "费用（出庭）命令",
   "en": "Fees (Attendance in Court) Order",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\n(1) Superscale Officer\n$350.\n(2) Division I Officer\n$170.\n(3) Division II Officer\n$100.\n(4) Division III Officer\n$ 60.\n(5) Division IV Officer\n$ 55."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Attendance in Court) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

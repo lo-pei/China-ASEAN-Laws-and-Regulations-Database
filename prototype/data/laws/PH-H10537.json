@@ -1,7 +1,7 @@
 {
  "id": "PH-H10537",
  "title": {
-  "zh": null,
+  "zh": "授予Stephen Decatur Haine菲律宾公民身份、使其归化为菲律宾公民的法案",
   "en": "An Act Granting Philippine Citizenship To Stephen Decatur Haine",
   "orig": "An Act Granting Philippine Citizenship To Stephen Decatur Haine"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Philippine Citizenship To Stephen Decatur Haine",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

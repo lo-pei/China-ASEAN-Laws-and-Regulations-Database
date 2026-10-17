@@ -1,7 +1,7 @@
 {
  "id": "PH-H6554",
  "title": {
-  "zh": null,
+  "zh": "将 Santiago 职业与工业中学改设为南伊莎贝拉工艺与贸易学院并授权拨款的法案",
   "en": "An Act Converting the Santiago Vocational and Industrial High School to Southern Isabela College of Arts and Trades, and Authorizing Appropriations Therefor",
   "orig": "An Act Converting the Santiago Vocational and Industrial High School to Southern Isabela College of Arts and Trades, and Authorizing Appropriations Therefor"
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Santiago Vocational and Industrial High School to Southern Isabela College of Arts and Trades, and Authorizing Appropriations Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

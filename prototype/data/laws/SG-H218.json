@@ -1,7 +1,7 @@
 {
  "id": "SG-H218",
  "title": {
-  "zh": null,
+  "zh": "主管当局的委任",
   "en": "Appointment of Competent Authority",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Official Secrets Act\n(CHAPTER 213, SECTION 3(4)))\nAppointment of Competent Authority\nN 1\nG.N. No. S 359/1999\nREVISED EDITION 2000\n(31st January 2000)\n[24th August 1999]\nThe Minister for Home Affairs has appointed the Deputy Director, Operations Department, Police Headquarters to be the competent authority for the purposes of section 3(3) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Competent Authority",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

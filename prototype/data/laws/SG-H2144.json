@@ -1,7 +1,7 @@
 {
  "id": "SG-H2144",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展利息及其他付款豁免）（第 2 号）公告 2003",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 2) Notification 2003",
   "orig": null
  },
@@ -127,5 +127,13 @@
     "en": "6.—(1) Paragraph 4 of the Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (Consolidation) Notification (N 5) is deleted, with effect from 5th September 2000.\n(2) Paragraph 3 of the Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (Consolidation) Notification (N 6) is deleted, with effect from 5th September 2000.\n(3) Paragraph 5 of the Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) (Consolidation) Notification (N 10) is deleted, with effect from 5th September 2000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 2) Notification 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

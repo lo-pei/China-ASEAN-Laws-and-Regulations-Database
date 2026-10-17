@@ -1,7 +1,7 @@
 {
  "id": "PH-H4343",
  "title": {
-  "zh": null,
+  "zh": "将新比斯开中学改设为国立中学，命名为新比斯开总综合中学，并授权为此拨付所需资金的法案",
   "en": "An Act Converting Nueva Vizcaya High School Into a National High School, to Be Named Nueva Vizcaya General Comprehensive High School, and Authorizing the Appropriation of the Necessary Funds Therefor",
   "orig": "An Act Converting Nueva Vizcaya High School Into a National High School, to Be Named Nueva Vizcaya General Comprehensive High School, and Authorizing the Appropriation of the Necessary Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting Nueva Vizcaya High School Into a National High School, to Be Named Nueva Vizcaya General Comprehensive High School, and Authorizing the Appropriation of the Necessary Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

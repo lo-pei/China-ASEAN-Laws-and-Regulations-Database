@@ -1,7 +1,7 @@
 {
  "id": "PH-H9171",
  "title": {
-  "zh": null,
+  "zh": "将南哥打巴托省 Surallah 市镇 Colongulo 描笼涯的 Libertad 国立中学的 Colongulo 附属校分离，改设为独立的同名国立中学，并为此拨款",
   "en": "An Act Separating the Libertad National High School – Colongulo Annex in Barangay Colongulo, Municipality of Surallah, Province of South Cotabato From the Libertad National High School, Converting It Into An Independent National High School to Be Known as Colongulo National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Libertad National High School – Colongulo Annex in Barangay Colongulo, Municipality of Surallah, Province of South Cotabato From the Libertad National High School, Converting It Into An Independent National High School to Be Known as Colongulo National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Libertad National High School – Colongulo Annex in Barangay Colongulo, Municipality of Surallah, Province of South Cotabato From the Libertad National High School, Converting It Into An Independent National High School to Be Known as Colongulo National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

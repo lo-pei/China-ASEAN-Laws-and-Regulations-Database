@@ -1,7 +1,7 @@
 {
  "id": "PH-H9338",
  "title": {
-  "zh": null,
+  "zh": "授予 MECO 在宿务省 Lapu-Lapu 市与 Cordova 市镇建设、运营和维护配电系统，向终端用户输电的特许经营权法案",
   "en": "An Act Granting the Mactan Electric Company, Inc. (MECO) a Franchise to Construct, Install, Establish, Operate and Maintain a Distribution System for the Conveyance of Electric Power to the End Users in the City of Lapu-Lapu and the Municipality of Cordova, Province of Cebu",
   "orig": "An Act Granting the Mactan Electric Company, Inc. (MECO) a Franchise to Construct, Install, Establish, Operate and Maintain a Distribution System for the Conveyance of Electric Power to the End Users in the City of Lapu-Lapu and the Municipality of Cordova, Province of Cebu"
  },
@@ -261,5 +261,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Mactan Electric Company, Inc. (MECO) a Franchise to Construct, Install, Establish, Operate and Maintain a Distribution System for the Conveyance of Electric Power to the End Users in the City of Lapu-Lapu and the Municipality of Cordova, Province of Cebu",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

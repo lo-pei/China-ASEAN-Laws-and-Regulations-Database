@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-277-RG-5-2024-WSAH-OFFICERS-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG 5 2024 版工作场所安全与健康官员条例",
   "en": "RG 5 2024 ED WSAH OFFICERS REGULATIONS",
   "orig": null
  },
@@ -167,5 +167,13 @@
     "en": "The workplace safety and health officer shall, for the purposes of discharging his duties under regulation 9, have the power to do any or all of the following —\n\n(a) to enter, inspect and examine at any reasonable time the workplace;\n\n(b) to inspect and examine any machinery, equipment, plant, installation or article in the workplace;\n\n(c) to require the production of workplace records, certificates, notices and documents kept or required to be kept under the Act, including any other relevant document, and to inspect and examine any of them;\n\n(d) to make such examination and inquiry of the workplace and of any person at work at that workplace as may be necessary to execute his duties;\n\n(e) to assess the levels of noise, illumination, heat or harmful or hazardous substances in the workplace and the exposure levels of persons at work therein;\n\n(f) to investigate any accident, dangerous occurrence or occupational disease that occurred within the workplace.\n\nSCHEDULE 1 (regulations 2(2), 4(3) and 5(1)) FEES"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 5 2024 ED WSAH OFFICERS REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

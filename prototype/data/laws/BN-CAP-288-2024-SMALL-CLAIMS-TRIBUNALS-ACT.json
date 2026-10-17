@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-288-2024-SMALL-CLAIMS-TRIBUNALS-ACT",
  "title": {
-  "zh": null,
+  "zh": "小额索偿法庭法",
   "en": "SMALL CLAIMS TRIBUNALS ACT",
   "orig": null
  },
@@ -881,5 +881,13 @@
     "en": "(1) The adjudicator shall have and enjoy, in the exercise of his powers or duties under this Act, the same privileges and protection as a Magistrate has and enjoys under the Subordinate Courts Act (Chapter 6).\n\n(2) For the avoidance of doubt as to the privileges and immunities of the adjudicator, parties, representatives and witnesses in the proceedings of the tribunal, it is declared that such proceedings are judicial proceedings.\n\n(3) The privileges and immunities referred to in subsection (2) shall extend and apply to —\n\n(a) the tribunal acting under section 31(3); and\n\n(b) a person who gives information or makes any statement to the Registrar or the tribunal on any such occasion."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SMALL CLAIMS TRIBUNALS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

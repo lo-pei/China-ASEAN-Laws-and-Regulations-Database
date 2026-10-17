@@ -1,7 +1,7 @@
 {
  "id": "PH-H4267",
  "title": {
-  "zh": null,
+  "zh": "规定因违反市或市镇条例而被定罪者所缴纳的罚款与诉讼费用性质的款项全部归相关市或市镇所有，为此修订第296号共和国法第93条的法案",
   "en": "An Act Providing That All Moneys in the Nature of Fines and Costs Paid By Per­sons Convicted for Violations of the Municipal or City Ordinances Shall Accrue Exclusively to the Municipality or City Concerned, Amending for the Purpose Section Ninety-Three of Republic Act Numbered Two Hundred Nine­ty-Six",
   "orig": "An Act Providing That All Moneys in the Nature of Fines and Costs Paid By Per­sons Convicted for Violations of the Municipal or City Ordinances Shall Accrue Exclusively to the Municipality or City Concerned, Amending for the Purpose Section Ninety-Three of Republic Act Numbered Two Hundred Nine­ty-Six"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, May 14, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing That All Moneys in the Nature of Fines and Costs Paid By Per­sons Convicted for Violations of the Municipal or City Ordinances Shall Accrue Exclusively to the Municipality or City Concerned, Amending for the Purpose Section Ninety-Three of Republic Act Numbered Two Hundred Nine­ty-Six",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

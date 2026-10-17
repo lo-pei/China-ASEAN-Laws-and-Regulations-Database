@@ -1,7 +1,7 @@
 {
  "id": "PH-H1797",
  "title": {
-  "zh": null,
+  "zh": "修订第120号联邦法第1条，规定国家电力公司存续期间的法案",
   "en": "An Act to Amend Section One of Commonwealth Act Numbered One Hundred Twenty Fixing the Period of Existence of the National Power Corporation",
   "orig": "An Act to Amend Section One of Commonwealth Act Numbered One Hundred Twenty Fixing the Period of Existence of the National Power Corporation"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 13, 1958."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section One of Commonwealth Act Numbered One Hundred Twenty Fixing the Period of Existence of the National Power Corporation",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

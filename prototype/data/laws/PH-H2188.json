@@ -1,7 +1,7 @@
 {
  "id": "PH-H2188",
  "title": {
-  "zh": null,
+  "zh": "修订第1613号共和国法第\"g,\" Section 2款第163页拉古纳省第88项的法案",
   "en": "An Act to Amend Item 88, for the Province of Laguna, Page 163, Paragraph “g,” Section Two of Republic Act Numbered Sixteen Hundred Thirteen",
   "orig": "An Act to Amend Item 88, for the Province of Laguna, Page 163, Paragraph “g,” Section Two of Republic Act Numbered Sixteen Hundred Thirteen"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Item 88, for the Province of Laguna, Page 163, Paragraph “g,” Section Two of Republic Act Numbered Sixteen Hundred Thirteen",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H211",
  "title": {
-  "zh": null,
+  "zh": "附加证明书（新加坡公共文件认证）条例 2021",
   "en": "Apostille (Certification of Singapore Public Documents) Regulations 2021",
   "orig": null
  },
@@ -136,5 +136,13 @@
     "en": "SECOND SCHEDULE\nForm of certificate\nRegulation 3(a)\nAPOSTILLE\n(Convention de La Haye du 5 Octobre 1961)\nThis Apostille only certifies the following aspects of the document to which it is attached or affixed: (1) the authenticity of the signature on the document; (2) the capacity in which the person signing the document has acted; and (3) where appropriate, the identity of the seal or stamp that the document bears. It does not certify the authenticity of the document.\nIf this Apostille is to be used in a country that is not party to the Hague Convention Abolishing the Requirement of Legalisation for Foreign Public Documents (also known as the Apostille Convention), it should be presented to the consular section of the mission representing that country.\nTo verify this Apostille:\n1. Go to [the website of the Authority] or scan this QR code:\n[Quick Response code]\n2. Enter this verification code:\n[Verification code]\n1. Country:\nSingapore\nThis public document\n2. has been signed by\n3. acting in the capacity of\n4. bears the seal/stamp of\nCertified\n5. at\nSingapore\n6. the\n7. by\n8. No.\n9. Seal/Stamp\n10. Signature:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Apostille (Certification of Singapore Public Documents) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

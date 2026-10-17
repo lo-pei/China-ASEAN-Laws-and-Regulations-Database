@@ -1,7 +1,7 @@
 {
  "id": "SG-H1581",
  "title": {
-  "zh": null,
+  "zh": "消防安全（警报监控服务）条例 2020",
   "en": "Fire Safety (Alarm Monitoring Services) Regulations 2020",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) Where a licensee intends to stop providing alarm monitoring services from an alarm monitoring station, the licensee must notify the Commissioner and every affected subscriber of that fact no later than 2 months before the intended date of stopping the alarm monitoring services.\n(2) A licensee who, without reasonable excuse, contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.\n(3) In this regulation, “affected subscriber”, in relation to a licensee who intends to stop providing alarm monitoring services from an alarm monitoring station, means a person who has engaged the licensee to provide alarm monitoring services, which the licensee provides from that alarm monitoring station."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fire Safety (Alarm Monitoring Services) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

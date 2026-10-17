@@ -1,7 +1,7 @@
 {
  "id": "PH-H8955",
  "title": {
-  "zh": null,
+  "zh": "将拉乌尼翁省 Burgos 市镇 Upper Tumapoc 描笼涯的 Burgos 国立中学的 Upper Tumapoc 附属校分离，改设为独立的同名国立中学，并为此拨款",
   "en": "An Act Separating the Burgos National High School - Upper Tumapoc Annex in Barangay Upper Tumapoc, Municipality of Burgos, Province of La Union From the Burgos National High School, Converting It into an Independent National High School to be Known as Upper Tumapoc National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Burgos National High School - Upper Tumapoc Annex in Barangay Upper Tumapoc, Municipality of Burgos, Province of La Union From the Burgos National High School, Converting It into an Independent National High School to be Known as Upper Tumapoc National High School and Appropriating Funds Therefor"
  },
@@ -92,5 +92,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Burgos National High School - Upper Tumapoc Annex in Barangay Upper Tumapoc, Municipality of Burgos, Province of La Union From the Burgos National High School, Converting It into an Independent National High School to be Known as Upper Tumapoc National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

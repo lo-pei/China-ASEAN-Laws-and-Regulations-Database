@@ -1,7 +1,7 @@
 {
  "id": "PH-H5228",
  "title": {
-  "zh": null,
+  "zh": "将马尼拉市马拉特与辛加隆两区及马尼拉大区马卡蒂市镇的Vito Cruz街更名为巴勃罗·德莱昂·奥坎波街，以纪念律师、编辑、议员、政治家与民族主义者巴勃罗·德莱昂·奥坎波的法案",
   "en": "An Act Changing the Name of the Vito Cruz Street in the Districts of Malate and Singalong, City of Manila, and in the Municipality of Makati, Metro Manila, to Pablo de Leon Ocampo Street in Honor of Pablo de Leon Ocampo, Lawyer, Editor, Parliamentarian, Statesman and Nationalist",
   "orig": "An Act Changing the Name of the Vito Cruz Street in the Districts of Malate and Singalong, City of Manila, and in the Municipality of Makati, Metro Manila, to Pablo de Leon Ocampo Street in Honor of Pablo de Leon Ocampo, Lawyer, Editor, Parliamentarian, Statesman and Nationalist"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Vito Cruz Street in the Districts of Malate and Singalong, City of Manila, and in the Municipality of Makati, Metro Manila, to Pablo de Leon Ocampo Street in Honor of Pablo de Leon Ocampo, Lawyer, Editor, Parliamentarian, Statesman and Nationalist",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

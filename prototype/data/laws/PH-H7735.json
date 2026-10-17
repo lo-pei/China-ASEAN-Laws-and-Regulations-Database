@@ -1,7 +1,7 @@
 {
  "id": "PH-H7735",
  "title": {
-  "zh": null,
+  "zh": "将三宝颜市从Camins省长路与退伍军人大道交叉口至利科莫的国道命名为Maria Clara L. Lobregat公路的法案",
   "en": "An Act Naming the National Road From Intersection of Governor Camins Road and Veterans Avenue up to Licomo in the City of Zamboanga to Maria Clara L. Lobregat Highway",
   "orig": "An Act Naming the National Road From Intersection of Governor Camins Road and Veterans Avenue up to Licomo in the City of Zamboanga to Maria Clara L. Lobregat Highway"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the National Road From Intersection of Governor Camins Road and Veterans Avenue up to Licomo in the City of Zamboanga to Maria Clara L. Lobregat Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

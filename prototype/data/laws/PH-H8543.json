@@ -1,7 +1,7 @@
 {
  "id": "PH-H8543",
  "title": {
-  "zh": null,
+  "zh": "通过将国家历史研究所更名为菲律宾国家历史委员会并强化其权力与职能，以菲律宾历史增进人民民族主义并为其他目的法案",
   "en": "An Act Strengthening Peoples' Nationalism Through Philippine History By Changing the Nomenclature of the National Historical Institute Into the National Historical Commission of the Philippines, Strengthening Its Powers and Functions, and for Other Purposes",
   "orig": "An Act Strengthening Peoples' Nationalism Through Philippine History By Changing the Nomenclature of the National Historical Institute Into the National Historical Commission of the Philippines, Strengthening Its Powers and Functions, and for Other Purposes"
  },
@@ -340,5 +340,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening Peoples' Nationalism Through Philippine History By Changing the Nomenclature of the National Historical Institute Into the National Historical Commission of the Philippines, Strengthening Its Powers and Functions, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

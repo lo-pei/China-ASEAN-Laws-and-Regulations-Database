@@ -1,7 +1,7 @@
 {
  "id": "SG-H409",
  "title": {
-  "zh": null,
+  "zh": "商业信托（注册商业信托的账目）（期间替代）命令 2020",
   "en": "Business Trusts (Accounts of Registered Business Trusts) (Substitution of Period) Order 2020",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. For the purposes of section 76(3) of the Act, the Authority specifies —\n(a)the period of “6 months” in substitution of the period of “4 months” mentioned in section 76(1)(a) of the Act; and\n(b)the period of “8 months” in substitution of the period of “6 months” mentioned in section 76(1)(b) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Business Trusts (Accounts of Registered Business Trusts) (Substitution of Period) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

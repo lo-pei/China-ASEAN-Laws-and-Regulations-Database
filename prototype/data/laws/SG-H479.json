@@ -1,7 +1,7 @@
 {
  "id": "SG-H479",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（监控）条例 2009",
   "en": "Casino Control (Surveillance) Regulations 2009",
   "orig": null
  },
@@ -276,5 +276,13 @@
     "en": "15.—(1) If any casino operator, not acting under a direction referred to in regulation 10 ––\n(a)installs, operates or maintains a surveillance system other than in accordance with the approved surveillance plan; or\n[S 654/2026 wef 21/09/2026]\n(b)makes any change to the surveillance system or to the approved surveillance plan without first obtaining the approval of the Authority for the change in accordance with these Regulations,\n[S 654/2026 wef 21/09/2026]\nthe Authority may give the casino operator such written directions concerning the surveillance system as it thinks fit, including ––\n(i)in a case where the surveillance system nevertheless satisfies the surveillance system requirements applicable to it, a direction to submit a revised surveillance plan for approval or an application for approval of the change, as the case may be, without delay;\n[S 52/2013 wef 31/01/2013]\n(ii)in a case where the surveillance system fails to satisfy the surveillance system requirements applicable to it, a direction to reinstate the surveillance system in accordance with the approved surveillance plan without delay; or\n[S 52/2013 wef 31/01/2013]\n(iii)in a case where there has been tampering with, or a malfunction or fault in, any part of the surveillance system, a direction to take such corrective action (including replacement or repair) as may be necessary to rectify the malfunction, fault or alteration within a specified period,\nand the casino operator shall comply with such direction.\n[S 654/2026 wef 21/09/2026]\n(2) Without prejudice to the right of the Authority to give directions under paragraph (1), any casino operator which ––\n(a)contravenes regulation 3(2), 4(1), 7(1) or 8(1) (except where the contravention occurs by virtue of the casino operator complying with a direction under regulation 10);\n[S 52/2013 wef 31/01/2013]\n(b)fails to comply with a request of an inspector under regulation 9(1); or\n(c)contravenes paragraph (1) or regulation 10(1) by failing to comply with a direction given by the Authority thereunder,\nshall be liable to disciplinary action under section 54 of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Surveillance) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

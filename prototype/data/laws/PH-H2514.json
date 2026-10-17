@@ -1,7 +1,7 @@
 {
  "id": "PH-H2514",
  "title": {
-  "zh": null,
+  "zh": "修订第1613号共和国法附录a D编第928-A页阿克兰省D-143.2项目的法案",
   "en": "An Act to Amend Project Numbered D-143.2, for the Province of Aklan, Page 928-A, Title D, Appendix a of Republic Act Numbered Sixteen Hundred Thirteen",
   "orig": "An Act to Amend Project Numbered D-143.2, for the Province of Aklan, Page 928-A, Title D, Appendix a of Republic Act Numbered Sixteen Hundred Thirteen"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Project Numbered D-143.2, for the Province of Aklan, Page 928-A, Title D, Appendix a of Republic Act Numbered Sixteen Hundred Thirteen",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1879",
  "title": {
-  "zh": null,
+  "zh": "人体器官移植法 1987",
   "en": "Human Organ Transplant Act 1987",
   "orig": null
  },
@@ -570,5 +570,13 @@
     "en": "SECOND SCHEDULE\nSections 2 and 31(1)\nSpecified Organs for the purposes of Part 4A\n(1) The kidney\n(2) Any part of the liver"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Human Organ Transplant Act 1987",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

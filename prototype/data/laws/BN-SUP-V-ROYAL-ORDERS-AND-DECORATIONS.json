@@ -1,7 +1,7 @@
 {
  "id": "BN-SUP-V-ROYAL-ORDERS-AND-DECORATIONS",
  "title": {
-  "zh": null,
+  "zh": "SUP V 王室勋衔与勋章",
   "en": "SUP V ROYAL ORDERS AND DECORATIONS",
   "orig": null
  },
@@ -109,5 +109,13 @@
     "en": "THE BRUNEI MERITORIOUS SERVICE MEDAL"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUP V ROYAL ORDERS AND DECORATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

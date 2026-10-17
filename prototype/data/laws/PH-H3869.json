@@ -1,7 +1,7 @@
 {
  "id": "PH-H3869",
  "title": {
-  "zh": null,
+  "zh": "要求法院法官迅速审理受害方即将离境且归期不定的刑事案件的法案",
   "en": "An Act Requiring Judges of Courts to Speedily Try Criminal Cases Wherein the Offended Party is a Person About to Depart from the Philippines with No Definite Date of Return",
   "orig": "An Act Requiring Judges of Courts to Speedily Try Criminal Cases Wherein the Offended Party is a Person About to Depart from the Philippines with No Definite Date of Return"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring Judges of Courts to Speedily Try Criminal Cases Wherein the Offended Party is a Person About to Depart from the Philippines with No Definite Date of Return",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

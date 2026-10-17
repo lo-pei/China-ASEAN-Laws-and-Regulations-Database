@@ -1,7 +1,7 @@
 {
  "id": "BN-S-5-2012-HALAL-CERTIFICATE-AND-HALAL-LABEL-AM-ORDER-2012",
  "title": {
-  "zh": null,
+  "zh": "清真证书与清真标签修正命令 2012",
   "en": "HALAL CERTIFICATE AND HALAL LABEL AM ORDER 2012",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "The principal Order is amended by repealing the Fourth Schedule and by the following new Fourth Schedule therefor -\n\nSCHEDULE and 46(1)) FEES Issue or renewal of Halal Certificate $90 Issue or replacement of Halal Certificate or permit $10 Issue of permit $50.\". Made this 6th. day of Rabiulawal, 1433 Hijriah corresponding to the 30th. day of January, 2012 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENGIRAN HAJI AHMAD, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "HALAL CERTIFICATE AND HALAL LABEL AM ORDER 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

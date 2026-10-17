@@ -1,7 +1,7 @@
 {
  "id": "PH-H6749",
  "title": {
-  "zh": null,
+  "zh": "将八打雁省圣托马斯市镇圣米格尔描笼涯San Miguel小学的名称变更为Tiburcia Carpio Malvar小学的法案",
   "en": "An Act Changing the Name of the San Miguel Elementary School in Barangay San Miguel in the Municipality of Sto. Tomas, Province of Batangas, To Tiburcia Carpio Malvar Elementary School",
   "orig": "An Act Changing the Name of the San Miguel Elementary School in Barangay San Miguel in the Municipality of Sto. Tomas, Province of Batangas, To Tiburcia Carpio Malvar Elementary School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the San Miguel Elementary School in Barangay San Miguel in the Municipality of Sto. Tomas, Province of Batangas, To Tiburcia Carpio Malvar Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

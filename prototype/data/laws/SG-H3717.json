@@ -1,7 +1,7 @@
 {
  "id": "SG-H3717",
  "title": {
-  "zh": null,
+  "zh": "联合国法 2001",
   "en": "United Nations Act 2001",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. Despite any provision to the contrary in the Criminal Procedure Code 2010, a District Court has jurisdiction to try any offence under this Act and has power to impose the full penalty or punishment in respect of the offence.\n[9/2003]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "United Nations Act 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

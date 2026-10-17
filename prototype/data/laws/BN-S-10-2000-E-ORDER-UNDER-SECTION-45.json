@@ -1,7 +1,7 @@
 {
  "id": "BN-S-10-2000-E-ORDER-UNDER-SECTION-45",
  "title": {
-  "zh": null,
+  "zh": "依第 45 条作出的命令",
   "en": "ORDER UNDER SECTION 45",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "This Order shall come into force on 1st. March, 2000, and shall have effect in relation to any action under the Act commenced after that date, whether or not the cause of action arose before it. Dated this 19th. day of Syawal, 1420 Hijriah corresponding to the 26th. day of January, 2000. ,,\n\nDATO PADUKA AWANG KIFRAWI BIN\n\nDATO PADUKA HAJI KIFLI\n\nATTORNEY GENERAL, BRUNEI DARUSSALAM."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ORDER UNDER SECTION 45",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

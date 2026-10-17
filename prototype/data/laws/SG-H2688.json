@@ -1,7 +1,7 @@
 {
  "id": "SG-H2688",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 2 号）命令 2024",
   "en": "Infrastructure Protection (Protected Places) (No. 2) Order 2024",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nPart 1\nFirst column\nSecond column\nThe Authority\nProtected Place\nCommander,\nSecurity\nCommand,\nSingapore Police\nForce\nSECURITY COMMAND HQ\nAll that area comprised in part of Lot 10912V in Mukim No. 17 occupied by “SECURITY COMMAND HQ” containing an area of about 7,000 square metres and bounded approximately as follows:\nCommencing at the northernmost corner of “SECURITY COMMAND HQ” at a point 35,635.230 metres North and 31,025.522 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n35,635.230\n31,025.522\n35,635.211\n30,957.662\n35,632.076\n30,958.201\n35,617.093\n30,959.288\n35,602.102\n30,959.829\n35,578.621\n30,960.215\n35,541.531\n30,960.248\n35,535.387\n30,961.475\n35,532.113\n30,963.333\n35,530.037\n30,965.459\n35,632.076\n30,958.201\n35,617.093\n30,959.288\n35,528.229\n31,025.624\nto the point of commencement.\nThe boundaries of “SECURITY COMMAND HQ” are more particularly delineated in the Survey Plan No. CP 90022 filed in the office of the Chief Surveyor, a copy of which is set out below.\nPart 2\nSPECIFIED SURROUNDING AREA OF SECURITY COMMAND HQ\nAll that area comprised in part of Lots 10912V, 10913P, 10841P, 10836W and 05333P in Mukim No. 17 occupied by the “SPECIFIED SURROUNDING AREA OF SECURITY COMMAND HQ”, the boundaries of which are more particularly delineated in the map set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 2) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1276",
  "title": {
-  "zh": null,
+  "zh": "外籍人力雇佣（保释与个人担保）条例",
   "en": "Employment of Foreign Manpower (Bail and Personal Bond) Regulations",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "11. The District Court may direct any Magistrate’s Court to levy the amount due on a bond to appear and attend at the District Court.\n[G.N. No. S 338/2007]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment of Foreign Manpower (Bail and Personal Bond) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9721",
  "title": {
-  "zh": null,
+  "zh": "将巴丹 Mariveles 精神医院床位由五百（500）张增至七百（700）张并增设一级综合病房，更名为 Mariveles 心理健康与综合医院并拨款",
   "en": "An Act Increasing the Bed Capacity of the Mariveles Mental Hospital in Mariveles, Bataan from Five Hundred (500) Beds to Seven Hundred (700) Beds, Upgrading its Services, to Include the Operation of a Level 1 General Ward with One Hundred (100)-Bed Capacity, to be Known as the Mariveles Mental Wellness and General Hospital and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Mariveles Mental Hospital in Mariveles, Bataan from Five Hundred (500) Beds to Seven Hundred (700) Beds, Upgrading its Services, to Include the Operation of a Level 1 General Ward with One Hundred (100)-Bed Capacity, to be Known as the Mariveles Mental Wellness and General Hospital and Appropriating Funds Therefor"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Mariveles Mental Hospital in Mariveles, Bataan from Five Hundred (500) Beds to Seven Hundred (700) Beds, Upgrading its Services, to Include the Operation of a Level 1 General Ward with One Hundred (100)-Bed Capacity, to be Known as the Mariveles Mental Wellness and General Hospital and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

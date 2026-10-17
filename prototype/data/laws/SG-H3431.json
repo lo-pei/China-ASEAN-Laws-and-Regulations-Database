@@ -1,7 +1,7 @@
 {
  "id": "SG-H3431",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11(3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n(1) The Interpretation Act (Chapter 1).\n(2) The Countervailing and Anti-Dumping Duties Act (Chapter 65B).\n(3) The Executive Condominium Housing Scheme Act (Chapter 99A).\n(4) The Goods and Services Tax Act (Chapter 117A).\n(5) The Housing and Development Act (Chapter 129).\n(6) The Maritime and Port Authority of Singapore Act (Chapter 170A).\n(7) The Miscellaneous Offences (Public Order and Nuisance) Act (Chapter 184).\n(8) The Misuse of Drugs Act (Chapter 185).\n(9) The National Parks Act (Chapter 198A).\n(10) The Property Tax Act (Chapter 254).\n(11) The Stamp Duties Act (Chapter 312).\n(12) The Town Councils Act (Chapter 329A).\n(13) The Transfer of Nanyang University Alumni Register Act (Chapter 333A).\n(14) The Women’s Charter (Chapter 353)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

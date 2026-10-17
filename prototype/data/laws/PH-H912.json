@@ -1,7 +1,7 @@
 {
  "id": "PH-H912",
  "title": {
-  "zh": null,
+  "zh": "授权购买菲律宾群岛马尼拉铁路公司若干资本股，该股份政府尚未依第3116号法（经第3484号法与第314号联邦法修正）认购的法案",
   "en": "An Act Authorizing the Purchase of Certain Shares of Capital Stock of the Manila Railroad Company of the Philippine Islands, for Which the Government Has not Yet Subscribed Under Act Numbered Three Thousand One Hundred Sixteen, as Amended by Act Numbered Three Thousand Four Hundred Eighty Four and Commonwealth Act Numbered Three Hundred Fourteen",
   "orig": "An Act Authorizing the Purchase of Certain Shares of Capital Stock of the Manila Railroad Company of the Philippine Islands, for Which the Government Has not Yet Subscribed Under Act Numbered Three Thousand One Hundred Sixteen, as Amended by Act Numbered Three Thousand Four Hundred Eighty Four and Commonwealth Act Numbered Three Hundred Fourteen"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Purchase of Certain Shares of Capital Stock of the Manila Railroad Company of the Philippine Islands, for Which the Government Has not Yet Subscribed Under Act Numbered Three Thousand One Hundred Sixteen, as Amended by Act Numbered Three Thousand Four Hundred Eighty Four and Commonwealth Act Numbered Three Hundred Fourteen",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

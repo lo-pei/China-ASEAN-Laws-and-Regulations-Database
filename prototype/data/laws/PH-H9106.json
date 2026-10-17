@@ -1,7 +1,7 @@
 {
  "id": "PH-H9106",
  "title": {
-  "zh": null,
+  "zh": "废止第3815号法（即《修订刑法典》）第351条规定的早婚罪的法案",
   "en": "An Act Repealing the Crime of Premature Marriage Under Article 351 of Act No. 3815, Otherwise Known as the Revised Penal Code",
   "orig": "An Act Repealing the Crime of Premature Marriage Under Article 351 of Act No. 3815, Otherwise Known as the Revised Penal Code"
  },
@@ -71,5 +71,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Repealing the Crime of Premature Marriage Under Article 351 of Act No. 3815, Otherwise Known as the Revised Penal Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

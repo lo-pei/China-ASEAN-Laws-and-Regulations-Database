@@ -1,7 +1,7 @@
 {
  "id": "SG-H3237",
  "title": {
-  "zh": null,
+  "zh": "药物滥用（社区康复中心探访委员会）条例 2014",
   "en": "Misuse of Drugs (Board of Visitors for Community Rehabilitation Centres) Regulations 2014",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "10. No fewer than 2 members of the Board shall visit each centre at least once every month."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Misuse of Drugs (Board of Visitors for Community Rehabilitation Centres) Regulations 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

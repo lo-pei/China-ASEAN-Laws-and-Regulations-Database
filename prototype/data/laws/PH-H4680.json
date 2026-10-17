@@ -1,7 +1,7 @@
 {
  "id": "PH-H4680",
  "title": {
-  "zh": null,
+  "zh": "修订第4705号共和国法（题为“重新划分菲律宾警察总部刑事调查局现任正规探员职位并统一其薪金”）第1条",
   "en": "An Act to Amend Section One of Republic Act Numbered Forty-Seven Hundred Five, Entitled \"An Act Reclassifying the Positions, and Standardizing the Salaries of Incumbent Regular Agents of the Criminal Investigation Service, Headquarters, Philippine Constabulary",
   "orig": "An Act to Amend Section One of Republic Act Numbered Forty-Seven Hundred Five, Entitled \"An Act Reclassifying the Positions, and Standardizing the Salaries of Incumbent Regular Agents of the Criminal Investigation Service, Headquarters, Philippine Constabulary"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section One of Republic Act Numbered Forty-Seven Hundred Five, Entitled \"An Act Reclassifying the Positions, and Standardizing the Salaries of Incumbent Regular Agents of the Criminal Investigation Service, Headquarters, Philippine Constabulary",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

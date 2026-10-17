@@ -1,7 +1,7 @@
 {
  "id": "SG-H1624",
  "title": {
-  "zh": null,
+  "zh": "商品与服务税（罪行构成）条例 1993",
   "en": "Goods and Services Tax (Composition of Offences) Regulations 1993",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the Comptroller of Goods and Services Tax, or any person authorised by him or her, in accordance with section 75(1) of the Act:\n(a)an offence under section 44(4), 46(6), 59(1) or (2), 61, 62(1), 62A(1) or (1A), 62B(1), 62C(1) or (4), 63, 64, 64A(1), (2) or (4), 66, 81(4), 82(5), 83I(4) or 84(2D) (other than a continuing offence under section 84(2D)) of the Act;\n(b)an offence under regulation 62(1) or 108 of the Goods and Services Tax (General) Regulations 1993."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Goods and Services Tax (Composition of Offences) Regulations 1993",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

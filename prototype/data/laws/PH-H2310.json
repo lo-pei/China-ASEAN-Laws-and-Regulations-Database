@@ -1,7 +1,7 @@
 {
  "id": "PH-H2310",
  "title": {
-  "zh": null,
+  "zh": "在萨马省第三区设立若干村落的法案",
   "en": "An Act Creating Barrios in the Third District of the Province of Samar",
   "orig": "An Act Creating Barrios in the Third District of the Province of Samar"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating Barrios in the Third District of the Province of Samar",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

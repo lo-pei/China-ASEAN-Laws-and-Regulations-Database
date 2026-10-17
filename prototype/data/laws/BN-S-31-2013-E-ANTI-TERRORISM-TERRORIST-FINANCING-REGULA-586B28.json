@@ -1,7 +1,7 @@
 {
  "id": "BN-S-31-2013-E-ANTI-TERRORISM-TERRORIST-FINANCING-REGULA-586B28",
  "title": {
-  "zh": null,
+  "zh": "反恐怖主义与恐怖主义融资条例 2013",
   "en": "ANTI TERRORISM TERRORIST FINANCING REGULATIONS 2013",
   "orig": null
  },
@@ -336,5 +336,13 @@
     "en": "The Authority may disclose any information obtained by them in exercise of their powers under these Regulations (including any document so obtained and any copy or extract made of any document so obtained) to - (a} the Commissioner of Police;\n\n(b) the Director of Internal Security; (c} any such ~erson as the Authority deems necessary. Made this 21st. day of Jamadilawal, Hijriah 1434 corresponding to the 2nd. day of April, 2013. PEHIN DATU SINGAMANTERI COLONEL (R)\n\nDATO SERI PADUKA AWANG HAJI MOHAMMAD YASMIN\n\nBIN HAJI UMAR Minister of Energy in the Office of the Prime Minister, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ANTI TERRORISM TERRORIST FINANCING REGULATIONS 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

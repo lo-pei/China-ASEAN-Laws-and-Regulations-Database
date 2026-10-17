@@ -1,7 +1,7 @@
 {
  "id": "SG-H274",
  "title": {
-  "zh": null,
+  "zh": "延长已过期证书的授权",
   "en": "Authorisation to Extend Expired Certificates",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n(i)American Bureau of Shipping;\n(ii)Bureau Veritas;\n(iii)Det Norske Veritas;\n(iv)Germanischer Lloyd;\n(v)Lloyds Register of Shipping; and\n(vi)Nippon Kaiji Kyokai."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Authorisation to Extend Expired Certificates",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

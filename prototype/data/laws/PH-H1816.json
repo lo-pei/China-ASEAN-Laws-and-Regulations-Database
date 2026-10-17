@@ -1,7 +1,7 @@
 {
  "id": "PH-H1816",
  "title": {
-  "zh": null,
+  "zh": "修订第 1828 号共和国法第 2、3、5、6 与 8 条的法案",
   "en": "An Act to Amend Sections Two, Three, Five, Six and Eight of Republic Act Numbered One Thousand Eight Hundred Twenty-Eight",
   "orig": "An Act to Amend Sections Two, Three, Five, Six and Eight of Republic Act Numbered One Thousand Eight Hundred Twenty-Eight"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 13, 1958"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Two, Three, Five, Six and Eight of Republic Act Numbered One Thousand Eight Hundred Twenty-Eight",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

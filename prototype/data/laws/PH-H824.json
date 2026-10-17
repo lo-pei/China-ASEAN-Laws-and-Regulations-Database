@@ -1,7 +1,7 @@
 {
  "id": "PH-H824",
  "title": {
-  "zh": null,
+  "zh": "为拉古纳 Los Baños 林学院大楼的重建与扩建拨款二十万比索，并为其他目的法案",
   "en": "An Act to Appropriate the Sum of Two Hundred Thousand Pesos for the Reconstruction and Expansion of the College of Forestry Building in Los Baños, Laguna, and for Other Purposes",
   "orig": "An Act to Appropriate the Sum of Two Hundred Thousand Pesos for the Reconstruction and Expansion of the College of Forestry Building in Los Baños, Laguna, and for Other Purposes"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 2, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Appropriate the Sum of Two Hundred Thousand Pesos for the Reconstruction and Expansion of the College of Forestry Building in Los Baños, Laguna, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

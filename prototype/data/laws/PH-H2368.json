@@ -1,7 +1,7 @@
 {
  "id": "PH-H2368",
  "title": {
-  "zh": null,
+  "zh": "将国家电力公司改设为股份公司，为此修订第120号联邦法的法案",
   "en": "An Act Converting the National Power Corporation into a Stock Corporation, Amending for the Purpose Commonwealth Act Numbered One Hundred Twenty",
   "orig": "An Act Converting the National Power Corporation into a Stock Corporation, Amending for the Purpose Commonwealth Act Numbered One Hundred Twenty"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the National Power Corporation into a Stock Corporation, Amending for the Purpose Commonwealth Act Numbered One Hundred Twenty",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

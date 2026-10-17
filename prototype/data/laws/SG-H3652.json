@@ -1,7 +1,7 @@
 {
  "id": "SG-H3652",
  "title": {
-  "zh": null,
+  "zh": "新加坡食品局法 2019",
   "en": "Singapore Food Agency Act 2019",
   "orig": null
  },
@@ -1150,5 +1150,13 @@
     "en": "71.—(1) For a period of 2 years after the date of commencement of any provision of this Act, the Minister may, by regulations, prescribe such additional provisions of a saving or transitional nature consequent on the enactment of that provision as the Minister may consider necessary or expedient.\n(2) Nothing in this Part affects section 16 of the Interpretation Act 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Singapore Food Agency Act 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

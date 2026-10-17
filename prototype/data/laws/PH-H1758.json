@@ -1,7 +1,7 @@
 {
  "id": "PH-H1758",
  "title": {
-  "zh": null,
+  "zh": "将菲律宾群岛Manila Railroad公司的核定资本增至1.5亿比索的法案",
   "en": "An Act Increasing the Authorized Capital Stock of the Manila Railroad Company of the Philippine Islands to One Hundred Fifty Million Pesos",
   "orig": "An Act Increasing the Authorized Capital Stock of the Manila Railroad Company of the Philippine Islands to One Hundred Fifty Million Pesos"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Authorized Capital Stock of the Manila Railroad Company of the Philippine Islands to One Hundred Fifty Million Pesos",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3521",
  "title": {
-  "zh": null,
+  "zh": "马来西亚制服部队奖章规则 1964",
   "en": "Pingat Perkhidmatan Anggota Beruniform Malaysia (The Uniformed Services Malaysia Medal) Rules 1964",
   "orig": null
  },
@@ -61,5 +61,13 @@
     "en": "THE SCHEDULE\nPart I\nThe medal may be awarded to the following: —\n(a)regular members of the Police Force;\n(b)volunteer members of the Police Force;\n(c)regular members of the Singapore Military Forces;\n(d)volunteer members of the Singapore Military Forces on Colour Training Service;\n(e)members of the Malayan Royal Naval Volunteer Reserve on List I; and\n(f)seconded members of the Malayan and British Armed Forces serving with the Singapore Military Forces.\nPart II\n(The obverse of the Medal)\n(The reverse of the Medal)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Pingat Perkhidmatan Anggota Beruniform Malaysia (The Uniformed Services Malaysia Medal) Rules 1964",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

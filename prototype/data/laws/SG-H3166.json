@@ -1,7 +1,7 @@
 {
  "id": "SG-H3166",
  "title": {
-  "zh": null,
+  "zh": "商船（验船法庭）规则",
   "en": "Merchant Shipping (Court of Survey) Rules",
   "orig": null
  },
@@ -474,5 +474,13 @@
     "en": "SECOND SCHEDULE\nRule 32\nFees\n$\nc.\nOn filing notice of appeal, for every 50 tons of the gross registered tonnage of the ship … … … …\n5\n00\nOn filing every affidavit … … … …\n1\n25\nOn entering appearance … … … …\n5\n00\nOn every subpoena … … … …\n1\n25\nOn every statement of the order required to be made by the Court\n5\n00\nOn the production and swearing of every witness … …\n1\n25\nOn every hearing, for each day, to be paid by each party, the amount thereof to be at the discretion of the Judge\n}\nfrom\nto\n10\n50\n00\n00\nOn every order whether for the release or detention of the ship, or for payment of costs, or costs and damages, to be paid by the party taking out the order … … … …\n10\n00\nOn every office copy of the Judge’s judgment or report, of the shorthand writer’s notes of the evidence, or of any of the proceedings in the appeal, per folio of 100 words … …\n0\n25"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Court of Survey) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

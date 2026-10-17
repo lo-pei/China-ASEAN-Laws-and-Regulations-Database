@@ -1,7 +1,7 @@
 {
  "id": "PH-H2476",
  "title": {
-  "zh": null,
+  "zh": "修订第2021号共和国法第4条中关于东米萨米斯省卡米金次省副省长薪俸的内容的法案",
   "en": "An Act Amending Section Four of Republic Act Numbered Two Thousand Twenty-One Relative to the Salary of the Lieutenant-Governor of the Subprovince of Camiguin, Province of Oriental Misamis",
   "orig": "An Act Amending Section Four of Republic Act Numbered Two Thousand Twenty-One Relative to the Salary of the Lieutenant-Governor of the Subprovince of Camiguin, Province of Oriental Misamis"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Four of Republic Act Numbered Two Thousand Twenty-One Relative to the Salary of the Lieutenant-Governor of the Subprovince of Camiguin, Province of Oriental Misamis",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

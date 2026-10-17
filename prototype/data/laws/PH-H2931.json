@@ -1,7 +1,7 @@
 {
  "id": "PH-H2931",
  "title": {
-  "zh": null,
+  "zh": "将南拉瑙省迪灿市镇迪灿-拉马因小学的名称变更为Sultan Alauya Alonto小学的法案",
   "en": "An Act Changing the Name of the Ditsaan-Ramain Elementary School in the Municipality of Ditsaan, Province of Lanao del Sur, to Sultan Alauya Alonto Elementary School",
   "orig": "An Act Changing the Name of the Ditsaan-Ramain Elementary School in the Municipality of Ditsaan, Province of Lanao del Sur, to Sultan Alauya Alonto Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1962."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Ditsaan-Ramain Elementary School in the Municipality of Ditsaan, Province of Lanao del Sur, to Sultan Alauya Alonto Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

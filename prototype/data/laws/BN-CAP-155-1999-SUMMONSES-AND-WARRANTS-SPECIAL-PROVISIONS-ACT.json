@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-155-1999-SUMMONSES-AND-WARRANTS-SPECIAL-PROVISIONS-ACT",
  "title": {
-  "zh": null,
+  "zh": "传票与令状特别条文法",
   "en": "SUMMONSES AND WARRANTS SPECIAL PROVISIONS ACT",
   "orig": null
  },
@@ -132,5 +132,13 @@
     "en": "The provisions of this Act shall apply to summonses and cases\n\n(a) received in Brunei Darussalam from Malaysia or Singapore after the commencement of this Act notwithstanding that they were issued before the of this Act or relate to offences before the commencement of this Act;\n\n(b) received in Brunei Darussalam from Malaysia before the commencement of this Act but have not yet been served or executed."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUMMONSES AND WARRANTS SPECIAL PROVISIONS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

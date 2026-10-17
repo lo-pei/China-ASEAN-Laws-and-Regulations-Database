@@ -1,7 +1,7 @@
 {
  "id": "PH-H1750",
  "title": {
-  "zh": null,
+  "zh": "划出 Mount Arayat 国家公园三十公顷供菲律宾男童子军与女童子军用作露营地的法案",
   "en": "An Act to Set Aside Thirty Hectares of the Mount Arayat National Park for Use as Camping Ground by the Philippine Boy Scouts and Philippine Girl Scouts",
   "orig": "An Act to Set Aside Thirty Hectares of the Mount Arayat National Park for Use as Camping Ground by the Philippine Boy Scouts and Philippine Girl Scouts"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Set Aside Thirty Hectares of the Mount Arayat National Park for Use as Camping Ground by the Philippine Boy Scouts and Philippine Girl Scouts",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

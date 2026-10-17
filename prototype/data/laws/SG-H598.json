@@ -1,7 +1,7 @@
 {
  "id": "SG-H598",
  "title": {
-  "zh": null,
+  "zh": "儿童与青少年（自愿照护协议）条例 2011",
   "en": "Children and Young Persons (Voluntary Care Agreement) Regulations 2011",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "7. For the avoidance of doubt, neither these Regulations nor the existence of a voluntary care agreement shall affect the exercise of the Director-General’s or the Youth Court’s powers under the Act.\n[S 645/2014 wef 01/10/2014]\n[S 516/2020 wef 01/07/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Children and Young Persons (Voluntary Care Agreement) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

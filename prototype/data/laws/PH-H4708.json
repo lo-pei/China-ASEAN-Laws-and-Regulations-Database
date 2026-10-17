@@ -1,7 +1,7 @@
 {
  "id": "PH-H4708",
  "title": {
-  "zh": null,
+  "zh": "通过规定赛马收益分配，进一步修订第309号共和国法第19条的法案",
   "en": "An Act Further Amending Section Nineteen of Republic Act Numbered Three Hundred Nine By Providing for the Distribution of Receipts in Horse Racing",
   "orig": "An Act Further Amending Section Nineteen of Republic Act Numbered Three Hundred Nine By Providing for the Distribution of Receipts in Horse Racing"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amending Section Nineteen of Republic Act Numbered Three Hundred Nine By Providing for the Distribution of Receipts in Horse Racing",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

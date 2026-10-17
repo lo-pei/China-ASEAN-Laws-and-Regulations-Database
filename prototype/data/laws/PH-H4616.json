@@ -1,7 +1,7 @@
 {
  "id": "PH-H4616",
  "title": {
-  "zh": null,
+  "zh": "授予 Fel-Mel 企业在奎松省 Lucena 市及 Atimonan、Tiaong 建设、运营制冰厂与冷藏设施并分销销售所制冰及提供冷藏设施的特许权法案",
   "en": "An Act Granting Fel-Mel Enterprises a Franchise to Construct, Operate and Maintain Ice Plants and Cold Storage Facilities, and to Distribute and Sell Ice So Manufactured and Furnish Cold Storage Facilities in the City of Lucena, Atimonan and Tiaong, Province of Quezon",
   "orig": "An Act Granting Fel-Mel Enterprises a Franchise to Construct, Operate and Maintain Ice Plants and Cold Storage Facilities, and to Distribute and Sell Ice So Manufactured and Furnish Cold Storage Facilities in the City of Lucena, Atimonan and Tiaong, Province of Quezon"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Fel-Mel Enterprises a Franchise to Construct, Operate and Maintain Ice Plants and Cold Storage Facilities, and to Distribute and Sell Ice So Manufactured and Furnish Cold Storage Facilities in the City of Lucena, Atimonan and Tiaong, Province of Quezon",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

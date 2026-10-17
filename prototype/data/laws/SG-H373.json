@@ -1,7 +1,7 @@
 {
  "id": "SG-H373",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（平开窗改造）命令 2004",
   "en": "Building Control (Retrofitting of Casement Windows) Order 2004",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "8. The person responsible shall, as soon as is reasonably practicable after the retrofitting works under paragraph 5 have been completed, submit a report of the completed retrofitting works to the Commissioner of Building Control, in such form as the Commissioner of Building Control shall determine."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building Control (Retrofitting of Casement Windows) Order 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

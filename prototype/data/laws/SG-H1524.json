@@ -1,7 +1,7 @@
 {
  "id": "SG-H1524",
  "title": {
-  "zh": null,
+  "zh": "电影（分级——图书馆与教育机构豁免出借）公告 2019",
   "en": "Films (Classification — Exempt Lending by Libraries and Educational Institutions) Notification 2019",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) A class licensee by virtue of paragraph 6 of the Films (Class Licence for Lending by Libraries and Educational Institutions) Order 2019 is exempt from section 21(1)(a) of the Act with respect to the distribution, in accordance with the terms of its class licence in that Order, of any relevant unclassified film within the premises of —\n(a)the Lee Kong Chian Reference Library;\n(b)the Library@Esplanade;\n(c)the Asian Film Archive;\n(d)the National Archives of Singapore; or\n(e)the ISEAS – Yusof Ishak Institute.\n(2) A librarian or other individual employed by a class licensee mentioned in sub‑paragraph (1) to assist in the class licensee’s business of managing and administering a relevant archive or institute at any of the premises in sub‑paragraph (1) is exempt from section 21(1)(a) of the Act with respect to the distribution of any relevant unclassified film, in the course of that individual’s employment and in accordance with the conditions of the employer’s class licence."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Films (Classification — Exempt Lending by Libraries and Educational Institutions) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

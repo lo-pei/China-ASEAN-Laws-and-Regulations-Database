@@ -1,7 +1,7 @@
 {
  "id": "SG-H1191",
  "title": {
-  "zh": null,
+  "zh": "幼儿发展中心（婴儿托育试点——豁免）命令 2024",
   "en": "Early Childhood Development Centres (Childminding Pilot for Infants — Exemption) Order 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) A childminding operator appointed under the scheme known as the Childminding Pilot for Infants is exempt from section 6(1) of the Act in relation to the premises where the childminding operator provides solely a childminding service under the scheme (and no other early childhood development service), for so long as the childminding operator’s appointment continues to be valid.\n(2) In this paragraph, “childminding service” means the provision of care habitually of 5 or more children who are not more than 18 months of age, for a fee, reward or profit by a person who is not a relative or guardian of all the children."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Early Childhood Development Centres (Childminding Pilot for Infants — Exemption) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

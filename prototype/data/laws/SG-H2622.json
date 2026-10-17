@@ -1,7 +1,7 @@
 {
  "id": "SG-H2622",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（特别发展项目指定）命令 2018",
   "en": "Infrastructure Protection (Designation of Special Developments) Order 2018",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Every new development which satisfies the following conditions is designated as a special development under section 34(1)(b) of the Act:\n(a)a provisional permission or a written permission is granted under the Planning Act 1998 on or after 1 January 2020 for the development;\n[S 581/2022 wef 31/12/2021]\n(b)the provisional permission or the written permission authorises a floor area of at least 100,000 square metres in the development for either or both of the following uses:\n(i)commercial;\n(ii)hotel;\n(c)the development is to be constructed within an area described in the Master Plan as —\n(i) “Changi”;\n(ii) “Downtown Core”;\n(iii) “Jurong East”;\n(iv) “Marina East”;\n(v) “Marina South”;\n(vi) “Museum”;\n(vii) “Orchard”;\n(viii) “Rochor”;\n(ix) “Singapore River”;\n(x) “Southern Islands”;\n(xi) “Straits View”; or\n(xii) “Tanglin”."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Designation of Special Developments) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-75-2016-SYARIAH-COURTS-CIVIL-PROCEDURE-ORDER-2005",
  "title": {
-  "zh": null,
+  "zh": "伊斯兰法庭民事程序命令 2005",
   "en": "SYARIAH COURTS CIVIL PROCEDURE ORDER 2005",
   "orig": null
  },
@@ -3335,5 +3335,13 @@
     "en": "Sections 80 to 96 of Part I11 of the Religious Council and Kadis Courts Act (Chapter 77) are hereby repealed. F~RST SCHEDULE 2 (3)) Baitulmal Da'in Hakim Syar'ie Lafaz Mazhab Qamariah Sulh Yamin Yamin Mardudah Yamin Istizhar (sections 2(1) and 223) IN THE SYARIAH SUBORDINATE I HIGH COURT AT ................................. IN BRUNEI DARUSSALAM. 12) ............................................................................................ AND\n\n(3) ............................................................................................ Respondent"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SYARIAH COURTS CIVIL PROCEDURE ORDER 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5011",
  "title": {
-  "zh": null,
+  "zh": "修订第 465 号共和国法（题为《统一国家考试委员会收取的考试与注册费用并为其他目的法案》）的法案",
   "en": "An Act Amending Republic Act Numbered Four Hundred Sixty-Five Entitled \"An Act to Standardize the Examination and Registration Fees Charged By the National Examining Boards, and for Other Purposes.",
   "orig": "An Act Amending Republic Act Numbered Four Hundred Sixty-Five Entitled \"An Act to Standardize the Examination and Registration Fees Charged By the National Examining Boards, and for Other Purposes."
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H5011-A1_2",
+   "id": "PH-H5011-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The provisions of existing law to the contrary notwithstanding, applicants for any of the licensure examinations conducted by any of the boards under the of Office of the Boards of Examiners shall pay examination fees as follows;\nA. One hundred pesos:\n1. Accountants\n2. Agricultural Engineers\n3. Architects\n4. Chemical Engineers\n5. Civil Engineers\n6. Customs Brokers\n7. Dentists, except Dental Hygienists\n8. Electrical Engineers except Master Electricians\n9. Electronics and Communications Engineers\n10. Foresters\n11. Geodetic Engineers\n12. Licensing Contractors\n13. Master Marine Officers, except Chief, Second Third Mates, Major, Minor or Harbor Bay Lake-River Patrons\n14. Mechanical Engineers except Certified Plant Mechanics\n15. Mining Engineers\n16. Physicians except examinees for physicians' preliminary examinations\n17. Sanitary Engineers\n18. Chief Marine Engineers\nB. Seventy-five pesos:\n1. Chemists\n2. Second Steam and Motor Engineers\n3. Dietitians\n4. Geologists\n5. Medical Technologists\n6. Naval Architects and Marine Engineers\n7. Nurses\n8. Optometrists\n9. Pharmacists\n10. Social Workers\n11. Sugar Technologists\n12. Veterinarians\n13. Midwives\n14. Chief Mates and Major Patrons\n15. Master Plumbers or Plumbing Engineers\nC. Fifty pesos:\n1. Bay-River-Lake Motor Engineers\n2. Harbor-Bay-River-Lake Patrons\n3. Minor Patrons\n4. Therapists\n5. Master Electricians\n6. Examinees for physicians' preliminary and final examinations\n7. Dental Hygienists\n8. Certified Plant Mechanics\n9. Second and Third Mates\n10. Third and Fourth Steam and Motor Engineers Provided, That in cases where removal examinations are allowed, the examination fee shall be fifty per centum of ,the original fee prescribed under classifications A, B and C provided for under this section.\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5011-A2",
@@ -111,24 +112,34 @@
    }
   },
   {
-   "id": "PH-H5011-A2_2",
+   "id": "PH-H5011-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "All laws, executive orders, administrative orders rules and regulations, or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H5011-A3_2",
+   "id": "PH-H5011-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "This Act shall take effect upon its approval.\nApproved, July 1, 1972"
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Four Hundred Sixty-Five Entitled \"An Act to Standardize the Examination and Registration Fees Charged By the National Examining Boards, and for Other Purposes.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

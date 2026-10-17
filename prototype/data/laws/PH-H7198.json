@@ -1,7 +1,7 @@
 {
  "id": "PH-H7198",
  "title": {
-  "zh": null,
+  "zh": "将奎松省 Tagkawayan 市镇 Guillermo Eleazar 法官纪念渔业学校改设为同名的理工学院并为其拨款的法案",
   "en": "An Act Providing for the Conversion of Judge Guillermo Eleazar Memorial School of Fisheries in the Municipality of Tagkawayan, Province of Quezon, Into a Polytechnic College to Be Known as Judge Guillermo Eleazar' Polytechnic College, and Appropriating Funds Therefor",
   "orig": "An Act Providing for the Conversion of Judge Guillermo Eleazar Memorial School of Fisheries in the Municipality of Tagkawayan, Province of Quezon, Into a Polytechnic College to Be Known as Judge Guillermo Eleazar' Polytechnic College, and Appropriating Funds Therefor"
  },
@@ -111,5 +111,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Conversion of Judge Guillermo Eleazar Memorial School of Fisheries in the Municipality of Tagkawayan, Province of Quezon, Into a Polytechnic College to Be Known as Judge Guillermo Eleazar' Polytechnic College, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

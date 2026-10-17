@@ -1,7 +1,7 @@
 {
  "id": "PH-H3712",
  "title": {
-  "zh": null,
+  "zh": "在北苏里高省Siargao岛设立由独立学校分区主管管辖的公立学校分区并授权为此拨款的法案",
   "en": "An Act Creating a Public School Division Under a Separate Division Superintendent of Schools in the Island of Siargao, Province of Surigao del Norte, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Creating a Public School Division Under a Separate Division Superintendent of Schools in the Island of Siargao, Province of Surigao del Norte, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating a Public School Division Under a Separate Division Superintendent of Schools in the Island of Siargao, Province of Surigao del Norte, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1409",
  "title": {
-  "zh": null,
+  "zh": "遗产税（Lem，已故）（减免）命令 2000",
   "en": "Estate Duty (Lem Chu Kem also known as Lem Chu Kem Theresa, Deceased) (Remission) Order 2000",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The sum of $29,756.48 payable under the Act on the share in the Estate of Soo Ha Robert @ Soo Ha, Deceased, passing on the death of Lem Chu Kem also known as Lem Chu Kem Theresa on 19th December 1997 is hereby remitted."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Estate Duty (Lem Chu Kem also known as Lem Chu Kem Theresa, Deceased) (Remission) Order 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H456",
  "title": {
-  "zh": null,
+  "zh": "授权公共学校局长对用作教科书的政府出版文选加收附加费，支付给所用选文的版权人",
   "en": "An Act Authorizing the Director of Public Schools to Add a Surcharge to the Price of Government-Published Anthologies Used as Textbooks to Be Paid to the Copyright Owners of the Selections So Used",
   "orig": "An Act Authorizing the Director of Public Schools to Add a Surcharge to the Price of Government-Published Anthologies Used as Textbooks to Be Paid to the Copyright Owners of the Selections So Used"
  },
@@ -92,5 +92,13 @@
     "en": "This Act shall take effect upon its approval Approved, June 9, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Director of Public Schools to Add a Surcharge to the Price of Government-Published Anthologies Used as Textbooks to Be Paid to the Copyright Owners of the Selections So Used",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5438",
  "title": {
-  "zh": null,
+  "zh": "统一并提升军事退伍军人及其受扶养人福利的法案",
   "en": "An Act Standardizing and Upgrading the Benefits for Military Veterans and their Dependents",
   "orig": "An Act Standardizing and Upgrading the Benefits for Military Veterans and their Dependents"
  },
@@ -463,5 +463,13 @@
     "en": "Effectivity. – This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Standardizing and Upgrading the Benefits for Military Veterans and their Dependents",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

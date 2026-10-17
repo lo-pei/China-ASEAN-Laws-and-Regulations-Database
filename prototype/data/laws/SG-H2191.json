@@ -1,7 +1,7 @@
 {
  "id": "SG-H2191",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 10 号）公告 2014",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 10) Notification 2014",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from tax —\n(a)interest payable during the period in sub‑paragraph (2) by Thoresen Shipping Singapore Pte. Ltd. to Thor Integrity Shipping Co Ltd under the promissory note issued on 16 November 2011;\n(b)interest payable during the period in sub‑paragraph (2) by Thoresen Shipping Singapore Pte. Ltd. to Thor Harmony Shipping Co Ltd under the promissory note issued on 16 November 2011;\n(c)interest payable during the period in sub‑paragraph (2) by Thoresen Shipping Singapore Pte. Ltd. to Thor Dynamic Shipping Co Ltd under the promissory note issued on 28 November 2011;\n(d)interest payable during the period in sub‑paragraph (2) by Thoresen Shipping Singapore Pte. Ltd. to Thor Wave Shipping Co Ltd under the promissory note issued on 23 December 2011;\n(e)interest payable during the period in sub‑paragraph (2) by Thoresen Shipping Singapore Pte. Ltd. to Thor Enterprise Shipping Co Ltd under the promissory note issued on 27 January 2012;\n(f)interest payable during the period in sub‑paragraph (2) by Thoresen Shipping Singapore Pte. Ltd. to Thor Energy Shipping Co Ltd under the promissory note issued on 24 April 2012; and\n(g)interest payable during the period in sub‑paragraph (2) by Thoresen Shipping Singapore Pte. Ltd. to Thor Endeavour Shipping Co Ltd under the promissory note issued on 15 May 2012.\n(2) The period referred to in sub‑paragraph (1) is between 16 February 2012 and 25 September 2012 (both dates inclusive).\n(3) The exemption in sub‑paragraph (1) is subject to the following conditions:\n(a)that the representations made by Thoresen Shipping Singapore Pte. Ltd. to the Ministry of Finance on or before 9 May 2014 which are summarised in paragraph 2(i) to (vi) of the Ministry of Finance’s letter of approval dated 9 May 2014 addressed to Thoresen Shipping Singapore Pte. Ltd., are accurate;\n(b)that Thoresen Shipping Singapore Pte. Ltd. has not withheld from the Minister for Finance any information which it knows or ought reasonably to know would affect the decision of the Minister to grant the exemption in sub‑paragraph (1)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 10) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H293",
  "title": {
-  "zh": null,
+  "zh": "银行（第 15A 与 15B 条豁免）命令 2020",
   "en": "Banking (Exemption from Sections 15A and 15B) Order 2020",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) The Minister exempts any shareholder of Standard Chartered PLC from section 15B(1) of the Act, in relation to the shareholder becoming a 12% controller, a 20% controller or an indirect controller (as the case may be) of SC Bank Solutions (Singapore) Limited because of the shareholder’s interest or interests in one or more voting shares in Standard Chartered PLC.\n(2) The Minister exempts each of the following entities from section 15B(1) of the Act, in relation to the entity becoming a 12% controller, a 20% controller or an indirect controller (as the case may be) of SC Bank Solutions (Singapore) Limited:\n(a)Standard Chartered Holdings Limited;\n(b)Standard Chartered Bank;\n(c)Standard Chartered Holdings (Singapore) Private Limited;\n(d)Standard Chartered Bank (Singapore) Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Banking (Exemption from Sections 15A and 15B) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

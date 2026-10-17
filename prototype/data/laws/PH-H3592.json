@@ -1,7 +1,7 @@
 {
  "id": "PH-H3592",
  "title": {
-  "zh": null,
+  "zh": "授予 Diosdado Rodriguez 在三描礼士省 Olongapo 市镇建设、运营和维护制冰厂并在该市镇与三描礼士省销售冰的特许权法案",
   "en": "An Act Granting Diosdado Rodriguez a Franchise to Construct, Operate and Maintain an Ice Plant in the Municipality of Olongapo, Province of Zambales, and to Sell Ice in Said Municipality and in the Province of Zambales",
   "orig": "An Act Granting Diosdado Rodriguez a Franchise to Construct, Operate and Maintain an Ice Plant in the Municipality of Olongapo, Province of Zambales, and to Sell Ice in Said Municipality and in the Province of Zambales"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Diosdado Rodriguez a Franchise to Construct, Operate and Maintain an Ice Plant in the Municipality of Olongapo, Province of Zambales, and to Sell Ice in Said Municipality and in the Province of Zambales",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

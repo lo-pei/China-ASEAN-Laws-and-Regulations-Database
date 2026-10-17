@@ -1,7 +1,7 @@
 {
  "id": "PH-H1027",
  "title": {
-  "zh": null,
+  "zh": "设立公共公路局并撤销公共工程局公路司的法案",
   "en": "An Act to Create the Bureau of Public Highways, Abolishing the Division of Highways of the Bureau of Public Works",
   "orig": "An Act to Create the Bureau of Public Highways, Abolishing the Division of Highways of the Bureau of Public Works"
  },
@@ -150,5 +150,13 @@
     "en": "Date of effectivity. -This Act shall take effect on the first day of July, nineteen hundred fifty-four.\nApproved: August 25, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Create the Bureau of Public Highways, Abolishing the Division of Highways of the Bureau of Public Works",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

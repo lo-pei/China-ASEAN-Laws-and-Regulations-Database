@@ -1,7 +1,7 @@
 {
  "id": "PH-H9632",
  "title": {
-  "zh": null,
+  "zh": "将三宝颜市立理工学院改设为国立大学，名称为三宝颜半岛理工国立大学，并为此拨款的法案",
   "en": "An Act Converting the Zamboanga City State Polytechnic College into a State University to be Known as the Zamboanga Peninsula Polytechnic State University, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Zamboanga City State Polytechnic College into a State University to be Known as the Zamboanga Peninsula Polytechnic State University, and Appropriating Funds Therefor"
  },
@@ -311,14 +311,15 @@
    }
   },
   {
-   "id": "PH-H9632-A18_2",
+   "id": "PH-H9632-A18-d2",
    "no": 18,
    "noLabel": {
     "en": "Section 18."
    },
    "text": {
     "en": "Repealing Clause. - All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H9632-A29",
@@ -330,5 +331,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Zamboanga City State Polytechnic College into a State University to be Known as the Zamboanga Peninsula Polytechnic State University, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

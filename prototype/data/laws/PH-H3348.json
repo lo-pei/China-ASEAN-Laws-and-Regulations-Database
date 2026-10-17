@@ -1,7 +1,7 @@
 {
  "id": "PH-H3348",
  "title": {
-  "zh": null,
+  "zh": "将马尼拉地籍测量第 573 街区第 62 号地块一部分的管理与处分移交马尼拉市，并将第 76 号地块转为同一用途的可转让土地的法案",
   "en": "An Act Transferring to the City of Manila the Administration and Disposition of a Portion of Lot 62, Block 573, of the Cadastral Survey of Manila, and Converting Lot 76 into Alienable and Disposable Land for the Same Purpose",
   "orig": "An Act Transferring to the City of Manila the Administration and Disposition of a Portion of Lot 62, Block 573, of the Cadastral Survey of Manila, and Converting Lot 76 into Alienable and Disposable Land for the Same Purpose"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1964"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring to the City of Manila the Administration and Disposition of a Portion of Lot 62, Block 573, of the Cadastral Survey of Manila, and Converting Lot 76 into Alienable and Disposable Land for the Same Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

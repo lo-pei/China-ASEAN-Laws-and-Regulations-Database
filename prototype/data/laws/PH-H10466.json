@@ -1,7 +1,7 @@
 {
  "id": "PH-H10466",
  "title": {
-  "zh": null,
+  "zh": "规定在灾害与其他紧急情况期间暂停偿还学生贷款的法案",
   "en": "An Act Providing For A Moratorium on the Payment of Student Loans During Disasters and Other Emergencies</td> <td>ra2024/pdra_12077_2024.pdf",
   "orig": "An Act Providing For A Moratorium on the Payment of Student Loans During Disasters and Other Emergencies</td> <td>ra2024/pdra_12077_2024.pdf"
  },
@@ -131,5 +131,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing For A Moratorium on the Payment of Student Loans During Disasters and Other Emergencies</td> <td>ra2024/pdra_12077_2024.pdf",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

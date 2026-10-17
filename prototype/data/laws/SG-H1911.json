@@ -1,7 +1,7 @@
 {
  "id": "SG-H1911",
  "title": {
-  "zh": null,
+  "zh": "所得税（复议委员会上诉程序）条例 2023",
   "en": "Income Tax (Appeals Procedure for Board of Review) Regulations 2023",
   "orig": null
  },
@@ -357,5 +357,13 @@
     "en": "SECOND SCHEDULE\nRegulation 20(1), (1A), (1D), (1E) and (2)\nFees\nFirst column\nSecond column\n1.Lodging a petition of appeal —\n(a)where the appeal does not involve a disputed tax amount\n$75\n(b)where the appeal involves a disputed tax amount and the disputed tax amount stated in the relevant notice of appeal —\n(i)does not exceed $30,000\n$75\n(ii)exceeds $30,000 but does not exceed $250,000\n$200\n(iii)exceeds $250,000 but does not exceed $1,000,000\n$400\n(iv)exceeds $1,000,000\n$600\n2.Issue of order to attend or order to produce documents\n$10\n[S 134/2025 wef 01/04/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (Appeals Procedure for Board of Review) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

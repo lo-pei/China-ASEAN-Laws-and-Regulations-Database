@@ -1,7 +1,7 @@
 {
  "id": "SG-H1636",
  "title": {
-  "zh": null,
+  "zh": "商品与服务税补助券基金法 2012",
   "en": "Goods and Services Tax Voucher Fund Act 2012",
   "orig": null
  },
@@ -358,5 +358,13 @@
     "en": "19.—(1) The Minister may make regulations for carrying out the purposes and provisions of this Act.\n(2) Without limiting subsection (1), the regulations may —\n(a)provide for matters relating to the use of the moneys from the Fund and for all matters connected therewith and incidental thereto, including natural persons or classes of natural persons eligible for financial assistance under a public scheme, and the amount, manner of and the terms and conditions for providing the financial assistance;\n(b)provide for such information, evidence and documents as may be required for carrying out the purposes and provisions of this Act;\n(c)prescribe that any act or omission in contravention of any regulations shall be an offence punishable with a fine not exceeding $5,000 or with imprisonment for a term not exceeding 12 months or with both; and\n(d)prescribe anything that may be prescribed under this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Goods and Services Tax Voucher Fund Act 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

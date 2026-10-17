@@ -1,7 +1,7 @@
 {
  "id": "PH-H6773",
  "title": {
-  "zh": null,
+  "zh": "修订第 7978 号共和国法（题为《授予 Metro Manila Turf Club, Inc. 在 Kalookan 市建设、运营和维护赛马跑马场特许权的法案》）",
   "en": "An Act Amending Republic Act Numbered Seventy-nine Hundred Seventy-eight, Entitled \"An Act Granting the Metro Manila Turf Club, Inc., A Franchise To Construct, Operate and Maintain A Racetrack For Horse Racing in the City of Kalookan\"",
   "orig": "An Act Amending Republic Act Numbered Seventy-nine Hundred Seventy-eight, Entitled \"An Act Granting the Metro Manila Turf Club, Inc., A Franchise To Construct, Operate and Maintain A Racetrack For Horse Racing in the City of Kalookan\""
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H6773-A1_2",
+   "id": "PH-H6773-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Any provision of law to the contrary notwithstanding, there is hereby granted to the Metro Manila Turf Club, Inc., a corporation duly organized and existing under the laws of the Republic of the Philippines, hereinafter called the grantee, its successors or assigns, for a period of twenty-five (25) years from the effectivity of this Act, the right, privilege and authority to construct, operate and maintain one racetrack in the City of Kalookan, or anywhere within the provinces of Batangas, Cavite, Laguna and Rizal, establish branches thereof for booking purposes, and hold or conduct horse races with betting, on the results of the races either directly or by means of any mechanical, electrical, and/or computerized totalizator, and to do and carry out all such acts, deeds and things as may be necessary to give effect to the foregoing.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6773-A2",
@@ -90,5 +91,13 @@
     "en": "This Act shall take effect within fifteen (15) days after its publication in a newspaper of general circulation in Metro Manila, Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Seventy-nine Hundred Seventy-eight, Entitled \"An Act Granting the Metro Manila Turf Club, Inc., A Franchise To Construct, Operate and Maintain A Racetrack For Horse Racing in the City of Kalookan\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

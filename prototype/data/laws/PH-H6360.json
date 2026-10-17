@@ -1,7 +1,7 @@
 {
  "id": "PH-H6360",
  "title": {
-  "zh": null,
+  "zh": "规定教育、文化与体育部资本支出预算公平合理分配的法案",
   "en": "An Act Providing for the Fair and Equitable Allocation of the Department of Education, Culture and Sports' Budget for Capital Outlay",
   "orig": "An Act Providing for the Fair and Equitable Allocation of the Department of Education, Culture and Sports' Budget for Capital Outlay"
  },
@@ -161,5 +161,13 @@
     "en": "Effectivity. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Fair and Equitable Allocation of the Department of Education, Culture and Sports' Budget for Capital Outlay",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

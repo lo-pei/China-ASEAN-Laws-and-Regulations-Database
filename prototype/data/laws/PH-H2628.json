@@ -1,7 +1,7 @@
 {
  "id": "PH-H2628",
  "title": {
-  "zh": null,
+  "zh": "宣布4月9日为巴丹日并定为法定假日的法案",
   "en": "An Act Proclaiming the Ninth Day of April as Bataan Day and Declaring it as a Legal Holiday",
   "orig": "An Act Proclaiming the Ninth Day of April as Bataan Day and Declaring it as a Legal Holiday"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 6, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Proclaiming the Ninth Day of April as Bataan Day and Declaring it as a Legal Holiday",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

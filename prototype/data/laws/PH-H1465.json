@@ -1,7 +1,7 @@
 {
  "id": "PH-H1465",
  "title": {
-  "zh": null,
+  "zh": "将马尼拉市邮递员增至200名并给予每人每日1比索津贴的法案",
   "en": "An Act Increasing to Two Hundred the Number of Letter Carriers in the City of Manila and Granting Them an Allowance of One Peso Per Day",
   "orig": "An Act Increasing to Two Hundred the Number of Letter Carriers in the City of Manila and Granting Them an Allowance of One Peso Per Day"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing to Two Hundred the Number of Letter Carriers in the City of Manila and Granting Them an Allowance of One Peso Per Day",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3693",
  "title": {
-  "zh": null,
+  "zh": "货物供应法 1982",
   "en": "Supply of Goods Act 1982",
   "orig": null
  },
@@ -292,5 +292,13 @@
     "en": "19.—(1) This Act may be cited as the Supply of Goods Act 1982.\n(2) Nothing in this Act applies in relation to a contract made before 12 November 1993 except in so far as it was applicable by virtue of section 5 of the Civil Law Act 1909 in force before that date."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Supply of Goods Act 1982",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

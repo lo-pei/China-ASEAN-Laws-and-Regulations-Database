@@ -1,7 +1,7 @@
 {
  "id": "SG-H1056",
  "title": {
-  "zh": null,
+  "zh": "关税（发酵酒自酿）（豁免）命令",
   "en": "Customs (Home-Brewing of Fermented Liquors) (Exemption) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Sections 63(1) and 64(1) of the Act shall not apply to any person, being an individual, in respect of the manufacture of liquor by that person at his home, subject to the following conditions:\n(a)the person shall be 18 years old and above;\n(b)the manufacture of liquor shall be by fermentation and not by distillation;\n(c)the amount of liquor manufactured shall not exceed —\n(i)in relation to beer, 30 litres per household of the person per month; and\n(ii)in relation to any other fermented liquor, 30 litres in total for all such liquors per household of the person per month;\n(d)the liquor manufactured shall be for personal use and not for sale; and\n(e)the manufacturing activities shall not create any nuisance to the public or degrade the environment.\n[G.N. No. S 194/2008]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Home-Brewing of Fermented Liquors) (Exemption) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

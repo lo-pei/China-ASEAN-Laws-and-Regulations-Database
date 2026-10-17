@@ -1,7 +1,7 @@
 {
  "id": "PH-H4631",
  "title": {
-  "zh": null,
+  "zh": "宣布菲律宾按区域覆盖服务实现全面电气化的国家政策目标，规定国家电气化管理局与电力合作社的组建、促进与发展，规定其运营条款与条件，废止 R.A. No. 2717，并为其他目的法案",
   "en": "An Act Declaring a National Policy Objective for the Total Electrification of the Philippines on An Area Coverage Service Basis, Providing for the Organization of the National Electrification Administration, the Organization, Promotion and Development of Electric Cooperatives to Attain the Objective, Prescribing Terms and Conditions for Their Operation, the Repeal of R.A. No. 2717, and for Other Purposes.",
   "orig": "An Act Declaring a National Policy Objective for the Total Electrification of the Philippines on An Area Coverage Service Basis, Providing for the Organization of the National Electrification Administration, the Organization, Promotion and Development of Electric Cooperatives to Attain the Objective, Prescribing Terms and Conditions for Their Operation, the Repeal of R.A. No. 2717, and for Other Purposes."
  },
@@ -629,5 +629,13 @@
     "en": "Effectivity. This Act shall take effect upon its approval.\nApproved: July 28, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring a National Policy Objective for the Total Electrification of the Philippines on An Area Coverage Service Basis, Providing for the Organization of the National Electrification Administration, the Organization, Promotion and Development of Electric Cooperatives to Attain the Objective, Prescribing Terms and Conditions for Their Operation, the Repeal of R.A. No. 2717, and for Other Purposes.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

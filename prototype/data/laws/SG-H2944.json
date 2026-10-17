@@ -1,7 +1,7 @@
 {
  "id": "SG-H2944",
  "title": {
-  "zh": null,
+  "zh": "土地税征收法 1940",
   "en": "Land Revenue Collection Act 1940",
   "orig": null
  },
@@ -552,5 +552,13 @@
     "en": "FIFTH SCHEDULE\nSection 14(3)\nThe Land Revenue Collection Act 1940\nResult of sale\n1. The result of the public sale of certain lands/land held on the ….. day of …………… 20 ……. under the provisions of the Land Revenue Collection Act 1940 is published for general information.\n2. It is hereby notified that the titles and rights of the persons/person claiming under the titles enumerated in the first column of the following Schedule have been conveyed to the persons/person named in the sixth column free from all encumbrances and subordinate interests, except* .…………………………………………………………………………………………………………………………………………………………………………………………………………………….. (or have been cancelled and have reverted to and vest in the State as indicated in the sixth column).\n* Delete if not required.\n3. Any person who knowingly and with fraudulent intent offers for sale, transfers or mortgages or otherwise deals with the titles or rights which have been so conveyed or cancelled shall be deemed to have attempted to commit or to have committed, as the case may be, the offence defined in section 415 of the Penal Code 1871.\n1\n2\n3\n4\n5\n6\n7\n8\n9\nTitle\nLot No.\nArea\nDistrict\nMukim\nName of Purchaser or Reversion to State\nTotal due to Government\nAmount realised at sale\nExcess\n$ c.\n$ c.\n$ c.\n……..……………….….…………..…\nCollector of Land Revenue\nDate …………………"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Land Revenue Collection Act 1940",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

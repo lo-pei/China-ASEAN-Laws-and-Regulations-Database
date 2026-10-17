@@ -1,7 +1,7 @@
 {
  "id": "SG-H1937",
  "title": {
-  "zh": null,
+  "zh": "所得税（AT 控股私人有限公司依第 13（12）条享有的豁免）命令 2024",
   "en": "Income Tax (AT Holdings Pte. Ltd. — Section 13(12) Exemption) Order 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Distribution income described in sub‑paragraph (2) that is received in Singapore by AT Holdings Pte. Ltd. (a company incorporated in Singapore) on or after 29 July 2024 from AT Holdings ‑ Europe Coöperatieve U.A. (a cooperative incorporated in the Netherlands), is exempt from tax.\n(2) Sub‑paragraph (1) applies to income received by AT Holdings ‑ Europe Coöperatieve U.A. that is in turn derived from the profits of any of the following:\n(a)Wiebenga Consultants B.V. (a company incorporated in the Netherlands);\n(b)3W Real Estate B.V. (a company incorporated in the Netherlands);\n(c)3W Consultancy B.V. (a company incorporated in the Netherlands);\n(d)Breda Office Investment I Coöperatief U.A. (a cooperative incorporated in the Netherlands);\n(e)Penelope Office Investments B.V. (a company incorporated in the Netherlands);\n(f)Dionysos Office Investments B.V. (a company incorporated in the Netherlands);\n(g)Bajes Kwartier Ontwikkeling H C.V. (a limited partnership registered or formed in the Netherlands);\n(h)Bajes Kwartier Ontwikkeling D C.V. (a limited partnership registered or formed in the Netherlands);\n(i)Bajes Kwartier ESCO Holding B.V. (a company incorporated in the Netherlands);\n(j)A3 Twee B.V. (a company incorporated in the Netherlands);\n(k)Sterpassage Rijswijk I C.V. (a limited partnership registered or formed in the Netherlands);\n(l)Sterpassage Rijswijk Beheer II C.V. (a limited partnership registered or formed in the Netherlands);\n(m)Sterpassage Rijswijk Beheer III C.V. (a limited partnership registered or formed in the Netherlands);\n(n)Sterpassage Rijswijk Beheer IV C.V. (a limited partnership registered or formed in the Netherlands);\n(o)SAS CHARENTON‑BERCY (a company incorporated in France);\n(p)FETEASCA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (a company incorporated in Poland).\n(3) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter from the Ministry of Finance dated 29 July 2024 and addressed to AT Holdings Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (AT Holdings Pte. Ltd. — Section 13(12) Exemption) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3931",
  "title": {
-  "zh": null,
+  "zh": "修订第2301号共和国法第2条A编第（c）款安蒂克省第5目第20页第（52）项的法案",
   "en": "An Act Amending Item (52), Page 20, Subparagraph 5, for the Province of Antique, Paragraph (c), Title A, Section Two, of Republic Act Numbered Twenty Three Hundred and One",
   "orig": "An Act Amending Item (52), Page 20, Subparagraph 5, for the Province of Antique, Paragraph (c), Title A, Section Two, of Republic Act Numbered Twenty Three Hundred and One"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Item (52), Page 20, Subparagraph 5, for the Province of Antique, Paragraph (c), Title A, Section Two, of Republic Act Numbered Twenty Three Hundred and One",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

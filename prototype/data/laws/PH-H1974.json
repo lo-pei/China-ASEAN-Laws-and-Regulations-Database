@@ -1,7 +1,7 @@
 {
  "id": "PH-H1974",
  "title": {
-  "zh": null,
+  "zh": "菲律宾妇女协会",
   "en": "Asociacion De Damas De Filipinas",
   "orig": "An Act to Authorize the Philippine Charity Sweepstakes Office to Hold a Lottery for the Benefit of the “Asociacion De Damas De Filipinas”"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Asociacion De Damas De Filipinas",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

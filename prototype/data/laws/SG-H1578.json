@@ -1,7 +1,7 @@
 {
  "id": "SG-H1578",
  "title": {
-  "zh": null,
+  "zh": "金融服务与市场（制裁与冻结个人资产——利比亚）条例 2023",
   "en": "Financial Services and Markets (Sanctions and Freezing of Assets of Persons — Libya) Regulations 2023",
   "orig": null
  },
@@ -191,5 +191,13 @@
     "en": "THE SCHEDULE\nRegulation 5(3) and (4)\nDesignated persons\n1. The Libyan Investment Authority\n2. The Libyan African Investment Portfolio"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Financial Services and Markets (Sanctions and Freezing of Assets of Persons — Libya) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

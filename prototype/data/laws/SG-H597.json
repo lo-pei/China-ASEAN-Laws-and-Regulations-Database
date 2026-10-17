@@ -1,7 +1,7 @@
 {
  "id": "SG-H597",
  "title": {
-  "zh": null,
+  "zh": "儿童与青少年（过渡条款）条例 2011",
   "en": "Children and Young Persons (Transitional Provision) Regulations 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Notwithstanding section 52A of the Children and Young Persons Act (Cap. 38), a person who was operating a home for children and young persons before 20th July 2011 may continue to operate that home without a licence, as if the Children and Young Persons (Amendment) Act 2011 had not been enacted, until 31st December 2012, provided that the operator of the home has applied for a licence under section 52B of the Children and Young Persons Act on or before 20th July 2012."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Children and Young Persons (Transitional Provision) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3386",
  "title": {
-  "zh": null,
+  "zh": "授权拨款20万比索在黎刹省Talim岛设立急诊医院，名称为Talim岛急诊医院的法案",
   "en": "An Act Authorizing the Appropriation of Two Hundred Thousand Pesos for the Establishment of an Emergency Hospital in Talim Island, Province of Rizal, to be Known as Talim Island Emergency Hospital",
   "orig": "An Act Authorizing the Appropriation of Two Hundred Thousand Pesos for the Establishment of an Emergency Hospital in Talim Island, Province of Rizal, to be Known as Talim Island Emergency Hospital"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 21, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of Two Hundred Thousand Pesos for the Establishment of an Emergency Hospital in Talim Island, Province of Rizal, to be Known as Talim Island Emergency Hospital",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

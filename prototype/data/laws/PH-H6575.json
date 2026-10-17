@@ -1,7 +1,7 @@
 {
  "id": "PH-H6575",
  "title": {
-  "zh": null,
+  "zh": "授予 Allied 广播中心在宿务市及菲律宾其他频率可用地区为教育、文化与商业目的建设、运营和维护广播站的特许经营权法案",
   "en": "An Act Granting Allied Broadcasting Center, Incorporated a Franchise to Construct, Operate and Maintain Stations for Radio in Cebu City and Other Areas in the Philippines Where Frequencies Are Still Available for Radio Broadcasting for Educational and Cultural, as Well as for Commercial Purposes",
   "orig": "An Act Granting Allied Broadcasting Center, Incorporated a Franchise to Construct, Operate and Maintain Stations for Radio in Cebu City and Other Areas in the Philippines Where Frequencies Are Still Available for Radio Broadcasting for Educational and Cultural, as Well as for Commercial Purposes"
  },
@@ -192,5 +192,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days upon completion of its publication in newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Allied Broadcasting Center, Incorporated a Franchise to Construct, Operate and Maintain Stations for Radio in Cebu City and Other Areas in the Philippines Where Frequencies Are Still Available for Radio Broadcasting for Educational and Cultural, as Well as for Commercial Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

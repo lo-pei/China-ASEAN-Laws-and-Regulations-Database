@@ -1,7 +1,7 @@
 {
  "id": "SG-H1837",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 7 号）命令 2021",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 7) Order 2021",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Pasir Ris Drive 1 and Pasir Ris Drive 6, comprised in Lot number 01856V in Mukim 31 and on which Apartment Blocks 418, 419, 420 and 421 are erected, in Lot number 02072W in Mukim 31 and on which Apartment Blocks 422, 423, 424 and 425 are erected, in Lot number 01710T in Mukim 31 and on which Apartment Blocks 426 and 427 are erected, and in Lot number 02073V in Mukim 31 and on which Apartment Blocks 428 and 429 are erected, and which is more particularly edged in Plan 1.\nPLAN 1\nPASIR RIS DRIVE 6\n2. All that part of the housing estate of the Board bounded by Upper Thomson Road, Sin Ming Avenue and Bright Hill Drive, comprised in Lot number 13132V in Mukim 18 and on which Apartment Blocks 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454 and 455 are erected, and which is more particularly edged in Plan 2.\nPLAN 2\nsin ming avenue / bright hill drive\n3. All that part of the housing estate of the Board bounded by Tampines Street 83, Tampines Avenue 5 and Tampines Walk, comprised in Lot number 05829V in Mukim 28 and on which Apartment Blocks 857, 857A, 857B, 858, 858A, 858B, 859, 859A, 860, 860A, 860B, 861, 861A, 862, 862A, 863, 863A, 863B, 864 and 864A are erected, and which is more particularly edged in Plan 3.\nPLAN 3\nTAMPINES AVENUE 5 / TAMPINES STREET 83\n4. All that part of the housing estate of the Board bounded by Tampines Avenue 3, Tampines Street 81 and Tampines Avenue 1, comprised in Lot number 04870X in Mukim 28 and on which Apartment Blocks 887, 887A, 888, 888A, 889, 889A, 894, 895, 895A, 896 and 896A are erected, in Lot number 04097L in Mukim 28 and on which Apartment Block 894A is erected, in Lot number 04871L in Mukim 28 and on which Apartment Block 897 is erected, in Lot number 04099M in Mukim 28 and on which Apartment Blocks 897A, 898, 899 and 899A are erected, and in Lot number 04872C in Mukim 28 and on which Apartment Block 898A is erected, and which is more particularly edged in Plan 4.\nPLAN 4\nTAMPINES STREET 81\n5. All that part of the housing estate of the Board bounded by Yishun Avenue 11, Yishun Avenue 6 and Yishun Avenue 1, comprised in Lot number 03887M in Mukim 19 and on which Apartment Blocks 423, 425, 427, 433, 435, 437, 439 and 440 are erected, and which is more particularly edged in Plan 5.\nPLAN 5\nyishun avenue 6 / yishun avenue 11\n6. All that part of the housing estate of the Board bounded by Yishun Avenue 2, Yishun Street 81 and Yishun Avenue 1, comprised in Lot number 01478C in Mukim 19 and on which Apartment Blocks 816, 817, 819, 820, 821, 822, 823, 824, 825, 826, 827, 828, 829 and 830 are erected, and which is more particularly edged in Plan 6.\nPLAN 6\nyishun STREET 81"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 7) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

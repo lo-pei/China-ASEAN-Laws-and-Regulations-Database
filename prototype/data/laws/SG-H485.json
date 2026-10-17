@@ -1,7 +1,7 @@
 {
  "id": "SG-H485",
  "title": {
-  "zh": null,
+  "zh": "牛只条例",
   "en": "Cattle Regulations",
   "orig": null
  },
@@ -207,5 +207,13 @@
     "en": "13.—(1) A licence shall expire on 31st December next following the date of issue.\n(2) The Commissioner may refuse to renew a licence without assigning any reason."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Cattle Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3725",
  "title": {
-  "zh": null,
+  "zh": "来访部队法 1960",
   "en": "Visiting Forces Act 1960",
   "orig": null
  },
@@ -326,5 +326,13 @@
     "en": "18.—(1) For the purposes of this Act —\n(a)a certificate issued by or on behalf of the appropriate authority of a country, stating that a body, contingent or detachment of the forces of that country is, or was at a time specified in the certificate, present in Singapore, shall in any proceedings in any court of Singapore be conclusive evidence of the fact so stated; and\n(b)where in any such proceedings it is admitted or proved (whether by means of a certificate under paragraph (a) or otherwise) that a body, contingent or detachment of the forces of a country is or was at any time present in Singapore, it shall be assumed in those proceedings, unless the contrary is shown, that the body, contingent or detachment is or was at that time lawfully present in Singapore.\n(2) Where in any certificate issued for the purposes of this Act reference is made to a person by name, and in any proceedings in a court of Singapore reference is made to a person by that name (whether as a party to the proceedings or otherwise), the references in the certificate and in the proceedings respectively shall, unless the contrary is proved, be deemed to be references to one and the same person.\n(3) Any document purporting to be a certificate issued for the purposes of any provision of this Act, and to be signed by or on behalf of an authority specified in it, shall be received in evidence and shall, unless the contrary is proved, be deemed to be a certificate issued by or on behalf of that authority; and where under the provision in question a certificate is required to be issued by or on behalf of the appropriate authority of a country, and the document purports to be signed by or on behalf of an authority of that country, that authority shall, unless the contrary is proved, be deemed to be the appropriate authority of that country for the purposes of that provision."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Visiting Forces Act 1960",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

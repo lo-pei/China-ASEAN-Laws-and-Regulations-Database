@@ -1,7 +1,7 @@
 {
  "id": "PH-H7888",
  "title": {
-  "zh": null,
+  "zh": "比尼安解放日",
   "en": "Biñan Liberation Day",
   "orig": "Biñan Liberation Day An Act Declaring February 5 of Every Year a Special Working Holiday in the Municipality of Biñan, Province of Laguna to be known as \"Biñan Liberation Day\""
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Biñan Liberation Day",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

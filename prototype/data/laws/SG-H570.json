@@ -1,7 +1,7 @@
 {
  "id": "SG-H570",
  "title": {
-  "zh": null,
+  "zh": "慈善（禁止筹款呼吁）命令 2013",
   "en": "Charities (Prohibition of Fund-raising Appeal) Order 2013",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Commissioner hereby prohibits and stops the conduct of any fund‑raising appeal by all of the following persons:\n(a)Global Virtue Pte. Ltd. (UEN No. 201216906D);\n(b)Muhammad Zuhairi Bin Abdullah (NRIC No. S6923810F);\n(c)Mohammad Rudi Bin Muhammad Suffian (NRIC No. S7917512I);\n(d)Jeffri Bin Pawel (NRIC No. S7048308D)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Charities (Prohibition of Fund-raising Appeal) Order 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

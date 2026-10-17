@@ -1,7 +1,7 @@
 {
  "id": "SG-H733",
  "title": {
-  "zh": null,
+  "zh": "委员会",
   "en": "Commission",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Inquiry Commissions Ordinance 1941\nNo. 5 of 1941\nCommission\nN 4\nG.N. No. S 464/1947\nREVISED EDITION 1990\n( )\n[18 March 1947]\nGEORGE VI, by the Grace of God of Great Britain, Ireland and the British Dominions beyond the Seas King, Defender of the Faith, Emperor of India.\nBy His Excellency FRANKLIN CHARLES GIMSON, Knight Commander of the Most Distinguished Order of Saint Michael and Saint George, Governor and Commander-in-Chief of the Colony of Singapore.\nWhereas it is provided by the Inquiry Commissions Ordinance, 1941, that it shall be lawful for the Governor whenever he shall deem it advisable to issue a Commission appointing one or more Commissioners to inquire inter alia into any matter in which an enquiry would, in the opinion of the Governor in Council, be for the public welfare:\nAnd whereas by virtue of the provision of section 10 of the Transfer of Powers and Interpretation Ordinance, 1946, the powers conferred upon the Governor in Council for the Colony of Singapore may be exercised by the Governor:\nAnd whereas the Governor has deemed it expedient and in the interests of public welfare that a diligent and full enquiry should forthwith be made into the following matters, namely:\nThe existing dispute between the Singapore Traction Company, Limited, and its employees and the facts relating thereto.\nNow, therefore, I, FRANKLIN CHARLES GIMSON, hereby appoint Mr. Justice Geoffrey Lionel Jobling to be the Commissioner and hereby authorise the Commissioner to enquire into the matters aforesaid as hereinafter directed:\n1.I direct that the first sitting of the Commission shall take place in the Supreme Court on such date and at such hour as the Commissioner may designate.\n2.I direct that the Commission shall normally hold its sittings in the Supreme Court but shall have power in its discretion to adjourn to any other suitable place to hear evidence or for any other purpose connected with its duties.\n3.I direct that the Inquiry shall be held in public: Provided that the Commissioner may in his discretion direct that any evidence may be heard in camera or otherwise recorded without being made available to the public.\n4.I direct the Commissioner of Police to detail Police Constables to attend upon the Commission for the purpose of preserving order during the proceedings, to serve summons on witnesses or to perform such ministerial duties as the Commissioner shall direct.\n5.Finally I direct that the Commissioner after completing his enquiry render to me his report thereon and make such recommendations as he may think necessary."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5050",
  "title": {
-  "zh": null,
+  "zh": "为分期付款购买不动产的买受人提供保护的法案（第 6552 号共和国法）",
   "en": "An Act to Provide Protection to Buyers of Real Estate on Installment Payments. (Rep. Act No. 6552)",
   "orig": "An Act to Provide Protection to Buyers of Real Estate on Installment Payments. (Rep. Act No. 6552)"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 26, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide Protection to Buyers of Real Estate on Installment Payments. (Rep. Act No. 6552)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

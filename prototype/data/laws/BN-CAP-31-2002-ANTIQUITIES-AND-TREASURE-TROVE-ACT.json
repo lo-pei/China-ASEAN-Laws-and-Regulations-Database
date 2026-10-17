@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-31-2002-ANTIQUITIES-AND-TREASURE-TROVE-ACT",
  "title": {
-  "zh": null,
+  "zh": "古物与埋藏珍宝法",
   "en": "ANTIQUITIES AND TREASURE TROVE ACT",
   "orig": null
  },
@@ -509,5 +509,13 @@
     "en": "His Majesty in Council may make rules for the purpose of carrying out or giving effect to the provisions of this Act, and, without prejudice to the generality of the foregoing, may make rules —\n\n(a) prescribing the conditions and restrictions (including the payment and amount of a fee) subject to which any licence or permit under this Act may be granted or issued;\n\n(b) prescribing the conditions and restrictions (including the payment and amount of a fee) subject to which members of the public may have access to any ancient monuments in Brunei Darussalam; and\n\n(c) prescribing a penalty of a fine not exceeding $1,000 for the contravention or failure to comply with any of the provisions of any rule made under this section or with the restrictions or conditions of any licence or permit granted under any such rules."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ANTIQUITIES AND TREASURE TROVE ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

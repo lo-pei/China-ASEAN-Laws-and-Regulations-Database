@@ -1,7 +1,7 @@
 {
  "id": "SG-H1584",
  "title": {
-  "zh": null,
+  "zh": "消防安全（公司应急响应队）条例 2013",
   "en": "Fire Safety (Company Emergency Response Team) Regulations 2013",
   "orig": null
  },
@@ -113,5 +113,11 @@
     "en": "THE SCHEDULE\nRegulation 3(1)(b)\nEquipment required for CERT\n1. The following equipment must be provided to a CERT of any specified premises:\n(a)5 sets of fire retardant coveralls;\n(b)5 safety helmets;\n(c)5 pairs of goggles or 5 face shields;\n(d)5 pairs of safety gloves;\n(e)5 pairs of safety boots;\n(f)the requisite number and class of fire extinguishers in accordance with Singapore Standard 578:2012 — Code of Practice for Use and Maintenance of Portable Fire Extinguishers;\n(g)a first-aid kit;\n(h)a foldable stretcher;\n(i)a fire blanket;\n(j)an automated external defibrillator;\n(k)a loud hailer;\n(l)4 walkie-talkies.\n[S 772/2020 wef 14/09/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Fire Safety (Company Emergency Response Team) Regulations 2013",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

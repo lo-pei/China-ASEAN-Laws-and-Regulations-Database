@@ -1,7 +1,7 @@
 {
  "id": "PH-H6728",
  "title": {
-  "zh": null,
+  "zh": "将 Las Piñas 市镇改设为高度城市化市，名称为 Las Piñas 市的法案",
   "en": "An Act Converting the Municipality of Las Piñas Into A Highly-urbanized City To Be Known As the City of Las Piñas",
   "orig": "An Act Converting the Municipality of Las Piñas Into A Highly-urbanized City To Be Known As the City of Las Piñas"
  },
@@ -600,5 +600,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days from its publication in the Official Gazette or in at least two (2) newspapers of national circulation.\nApproved, February 12, 1997."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Municipality of Las Piñas Into A Highly-urbanized City To Be Known As the City of Las Piñas",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

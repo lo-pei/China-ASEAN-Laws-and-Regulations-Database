@@ -1,7 +1,7 @@
 {
  "id": "PH-H8307",
  "title": {
-  "zh": null,
+  "zh": "宣布伊斯兰历十二月第十日为纪念宰牲节的国家假日，为此进一步修订第 292 号行政命令（即经修正的 1987 年《行政法典》）第 26 条",
   "en": "An Act Declaring the Tenth Day of Zhul Hijja, the Twelfth Month of the Islamic Calendar, a National Holiday for the Observance of Eiduladha, Further Amending for the Purpose Section 26, Chapter 7, Book I of Executive Order No. 292, Otherwise Known as the Administrative Code of 1987, as Amended",
   "orig": "An Act Declaring the Tenth Day of Zhul Hijja, the Twelfth Month of the Islamic Calendar, a National Holiday for the Observance of Eiduladha, Further Amending for the Purpose Section 26, Chapter 7, Book I of Executive Order No. 292, Otherwise Known as the Administrative Code of 1987, as Amended"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the Tenth Day of Zhul Hijja, the Twelfth Month of the Islamic Calendar, a National Holiday for the Observance of Eiduladha, Further Amending for the Purpose Section 26, Chapter 7, Book I of Executive Order No. 292, Otherwise Known as the Administrative Code of 1987, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

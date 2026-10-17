@@ -1,7 +1,7 @@
 {
  "id": "BN-S-55-2005-E-NOTIFICATION-UNDER-SECTION-11",
  "title": {
-  "zh": null,
+  "zh": "依第 11 条发布的公告",
   "en": "NOTIFICATION UNDER SECTION 11",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "3rd. AUGUST, 2005 No. S 55\n\nPAWNBROKERS ORDER, 2002 (S 60/02} NOTIFICATION UNDER SECTION 1{1) In exercise of the power conferred by section 1(1). the Minister of Finance/ with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints the 1st. August, 2005 as the date on which the Pawnbrokers Order 2002 shall commence. 1 Dated this 27th. day of Jamadilakhir, 1426 Hijriah corresponding to the 3rd. day of August, 2005.\n\nDATO PADUKA AWANG HAJI ALI BIN APONG Permanent Secretary, Ministry of Finance, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION UNDER SECTION 11",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

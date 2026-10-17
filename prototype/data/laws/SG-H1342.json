@@ -1,7 +1,7 @@
 {
  "id": "SG-H1342",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（注册温室气体实体与合资格人士）条例 2022",
   "en": "Environmental Protection and Management (Registered GHG Entities and Competent Persons) Regulations 2022",
   "orig": null
  },
@@ -176,5 +176,13 @@
     "en": "THE SCHEDULE\nRegulation 6\nPrescribed number of competent persons\nFirst column\nSecond column\nRegulated GHG works\nPrescribed number of\ncompetent persons\n1.Any charging, decommissioning or maintenance of any specified water‑cooled chiller\n1"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Protection and Management (Registered GHG Entities and Competent Persons) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

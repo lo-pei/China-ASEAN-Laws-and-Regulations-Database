@@ -1,7 +1,7 @@
 {
  "id": "PH-H9934",
  "title": {
-  "zh": null,
+  "zh": "全国合作社月",
   "en": "National Cooperative Month",
   "orig": "An Act Declaring the Month of October of Every Year as the \"National Cooperative Month\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "National Cooperative Month",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

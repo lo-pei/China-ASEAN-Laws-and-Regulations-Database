@@ -1,7 +1,7 @@
 {
  "id": "PH-H333",
  "title": {
-  "zh": null,
+  "zh": "规定为商业、工业与农业企业雇员及劳工提供免费急诊牙科治疗并处罚违反行为的法案",
   "en": "An Act to Provide Free Emergency Dental Treatment for Employees and Laborers of Commercial, Industrial and Agricultural Establishments, and to Penalize the Violation Thereof",
   "orig": "An Act to Provide Free Emergency Dental Treatment for Employees and Laborers of Commercial, Industrial and Agricultural Establishments, and to Penalize the Violation Thereof"
  },
@@ -82,5 +82,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 10, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide Free Emergency Dental Treatment for Employees and Laborers of Commercial, Industrial and Agricultural Establishments, and to Penalize the Violation Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

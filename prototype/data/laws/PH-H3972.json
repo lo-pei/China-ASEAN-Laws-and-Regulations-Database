@@ -1,7 +1,7 @@
 {
  "id": "PH-H3972",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统出售政府财产以筹资支付政府对菲律宾土地银行的认购款并资助农业信贷署",
   "en": "An Act Empowering the President of the Philippines to Sell Government Properties for the Purpose of Raising Funds to Pay for the Government's Subscription to the Land Bank of the Philippines and to Finance the Agricultural Credit Administration",
   "orig": "An Act Empowering the President of the Philippines to Sell Government Properties for the Purpose of Raising Funds to Pay for the Government's Subscription to the Land Bank of the Philippines and to Finance the Agricultural Credit Administration"
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 4, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Empowering the President of the Philippines to Sell Government Properties for the Purpose of Raising Funds to Pay for the Government's Subscription to the Land Bank of the Philippines and to Finance the Agricultural Credit Administration",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

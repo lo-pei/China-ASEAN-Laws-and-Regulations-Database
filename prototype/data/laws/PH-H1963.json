@@ -1,7 +1,7 @@
 {
  "id": "PH-H1963",
  "title": {
-  "zh": null,
+  "zh": "为锡基霍尔分省设立分省估税员职位的法案",
   "en": "An Act Creating the Position of Sub-Provincial Assessor for the Sub-Province of Siquijor",
   "orig": "An Act Creating the Position of Sub-Provincial Assessor for the Sub-Province of Siquijor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Position of Sub-Provincial Assessor for the Sub-Province of Siquijor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

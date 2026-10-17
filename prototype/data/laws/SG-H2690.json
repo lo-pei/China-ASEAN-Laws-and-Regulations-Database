@@ -1,7 +1,7 @@
 {
  "id": "SG-H2690",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 2 号）命令 2026",
   "en": "Infrastructure Protection (Protected Places) (No. 2) Order 2026",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nChief Executive Officer,\nNetLink Management\nPte. Ltd.\n(as Trustee of\nNetLink Trust)\nSELETAR CENTRAL OFFICE\nAll that area comprised in part of Lot 06582P in Mukim No. 13 and Lots 04149T and 04150V in Mukim No. 19 occupied by “SELETAR CENTRAL OFFICE” containing an area of about 4,008.8 square metres and bounded approximately as follows:\nCommencing at a point 43,658.036 metres North and 26,643.896 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n43,658.036\n26,643.896\n43,713.178\n26,662.464\n43,690.957\n26,727.776\n43,689.451\n26,732.201\n43,685.301\n26,744.400\n43,679.450\n26,761.597\n43,664.058\n26,754.060\n43,673.333\n26,726.797\n43,677.702\n26,713.954\n43,679.225\n26,709.479\n43,673.706\n26,707.602\n43,657.333\n26,702.031\n43,650.983\n26,699.871\n43,643.813\n26,697.431\n43,641.296\n26,696.575\n43,645.888\n26,682.123\n43,649.846\n26,669.670\n43,652.263\n26,662.063\nto the point of commencement.\nThe boundaries of “SELETAR CENTRAL OFFICE” are more particularly delineated in the Survey Plan set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 2) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

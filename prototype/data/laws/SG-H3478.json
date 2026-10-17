@@ -1,7 +1,7 @@
 {
  "id": "SG-H3478",
  "title": {
-  "zh": null,
+  "zh": "停车位（车辆移走、存放与发还收费）规则 2018",
   "en": "Parking Places (Vehicle Removal, Storage and Release Charges) Rules 2018",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nRules 3, 4 and 5\nPart 1\nREMOVAL AND STORAGE CHARGES FOR VEHICLE\nREMOVED AND DETAINED UNDER SECTION 15(1) OF ACT\nFROM HDB PARKING PLACE\nFirst column\nSecond column\nThird column\nType of vehicle\nRemoval charge\nStorage charge\n1.Motor cycle\n$65.40\n$21.80\n2.Motor car\n$174.40\n$43.60\n3.Any other vehicle\n$392.40\n$87.20\nPart 2\nREMOVAL AND STORAGE CHARGES FOR VEHICLE\nREMOVED AND DETAINED UNDER SECTION 15(1) OF ACT\nFROM URA PARKING PLACE\nFirst column\nSecond column\nThird column\nType of vehicle\nRemoval charge\nStorage charge\n1.Motor cycle\n$65.40\n$21.80\n2.Motor car\n$174.40\n$43.60\n3.Any other vehicle\n$392.40\n$87.20\nPart 3\nREMOVAL AND STORAGE CHARGES FOR VEHICLES\nREMOVED AND DETAINED UNDER SECTION 15(2) OF ACT\nFirst column\nSecond column\nThird column\nType of vehicle\nRemoval charge\nStorage charge\n1.Bicycle\n$150\n$21.80\n2.Non‑motorised personal mobility device\n$150\n$21.80\n3.Motorised personal mobility device\n$150\n$21.80\n4.Power‑assisted bicycle\n$150\n$21.80\n[S 189/2026 wef 02/04/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Parking Places (Vehicle Removal, Storage and Release Charges) Rules 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

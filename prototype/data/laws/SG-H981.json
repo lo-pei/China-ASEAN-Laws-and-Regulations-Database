@@ -1,7 +1,7 @@
 {
  "id": "SG-H981",
  "title": {
-  "zh": null,
+  "zh": "货币（硬币面额与特征）（第 4 号）公告 2014",
   "en": "Currency (Denominations and Characteristics of Coins) (No. 4) Notification 2014",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE 2015 CHINESE ALMANAC COINS (YEAR OF THE GOAT) TO BE ISSUED ON 8 JANUARY 2015\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n200 Dollars\n999.9 Fine Gold\n155.52 g + 0.20 g\n60.00 mm ± 0.30 mm\n3.80 mm ± 0.30 mm\nRound\nMilled and bearing the words “MONETARY AUTHORITY OF SINGAPORE” and a lion symbol.\nIn the centre is the Singapore Arms with the year‑date “2015” below it, and the word “SINGAPORE” in the 4 official languages around the circumference of the coins. The position of the mintmark is at 5 o’clock for all the proof coins.\nInspired by Chinese calligraphy, the goat in the centre is symbolised by the appropriate Chinese character of the “Heavenly Stems and Earthly Branches” to enhance the characteristics of the animal and the oriental cultural flavour. The peony, a traditional Chinese symbol of blessings and festive cheer, is incorporated into the body of the goat and ushers in the Lunar New Year. The 2 Chinese characters signifying the “Year of the Goat” are at the upper centre of the design. The denomination of the coin in figures is below the design and the weight in troy oz/grams and fineness are at the lower circumference for all the coins except for the $2 cupro‑nickel coin.\n100 Dollars\n999.9 Fine Gold\n31.103 g + 0.05 g\n33.00 mm ± 0.15 mm\n2.45 mm ± 0.20 mm\nRound\n80 Dollars\n999 Fine Silver\n1000.00 g ± 5.00 g\n100.00 mm ± 2.00 mm\n13.00 mm ± 2.00 mm\nRound\nMilled\n25 Dollars\n999 Fine Silver\n155.52 g ± 0.90 g\n65.00 mm ± 0.30 mm\n5.40 mm ± 0.30 mm\nRound\nMilled and bearing the words “MONETARY AUTHORITY OF SINGAPORE” and a lion symbol.\n10 Dollars\n999 Fine Silver\n62.206 g ± 0.20 g\n45.00 mm ± 0.15 mm\n4.40 mm ± 0.20 mm\nRound\n5 Dollars\n999.9 Fine Gold\n7.776 g + 0.05 g\n21.96 mm ± 0.125 mm\n1.55 mm ± 0.20 mm\nRound\nMilled\n2 Dollars\n999 Fine Silver\n20.00 g ± 0.20 g\n38.70 mm ± 0.15 mm\n2.50 mm ± 0.30 mm\nRound\nMilled and bearing the words “MONETARY AUTHORITY OF SINGAPORE” and a lion symbol.\n2 Dollars\n75% Copper 25% Nickel\n20.00 g ± 0.60 g\n38.70 mm ± 0.15 mm\n2.50 mm ± 0.30 mm\nRound\n1 Dollar\n999.9 Fine Gold\n0.30 g + 0.04 g\n7.00 mm ± 0.15 mm\n0.70 mm ± 0.15 mm\nRound\nPlain\n(a)\n(b)\n(c)\n(d)\n(a)Reverse Design of the $200 Gold Proof Coin.\n(b)Reverse Design of the $100 Gold Proof Coin.\n(c)Reverse Design of the $5 Gold Proof Coin.\n(d)Reverse Design of the $1 Gold (Brilliant Uncirculated) Coin.\n(e)\n(e)Reverse Design of the $80 Silver Proof‑like Coin.\n(f)\n(g)\n(h)\n(i)\n(f)Reverse Design of the $25 Silver Proof Coin.\n(g)Reverse Design of the $10 Silver Piedfort Proof Coin.\n(h)Reverse Design of the $2 Silver Proof Coin.\n(i)Reverse Design of the $2 Cupro‑Nickel Proof‑like Coin.\n(j)\n(k)\n(l)\n(m)\n(j)Common Obverse Design for $200 Gold Proof Coin, $100 Gold Proof Coin and $5 Gold Proof Coin.\n(k)Obverse Design for $1 Gold (Brilliant Uncirculated) Coin.\n(l)Common Obverse Design for $25 Silver Proof Coin, $10 Silver Piedfort Proof Coin and $2 Silver Proof Coin.\n(m)Obverse Design for $80 Silver Proof‑like Coin and $2 Cupro‑Nickel Proof‑like Coin."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency (Denominations and Characteristics of Coins) (No. 4) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-54-2000-REGISTERED-AGENTS-AND-TRUSTEES-LICENSING-ORDER-2000",
  "title": {
-  "zh": null,
+  "zh": "注册代理人与受托人许可命令 2000",
   "en": "REGISTERED AGENTS AND TRUSTEES LICENSING ORDER 2000",
   "orig": null
  },
@@ -643,5 +643,13 @@
     "en": "(1) No income tax, tax on capital gains or other direct tax shall be levied, withheld or collected in respect of licensee under this Order -\n\n(a) on or in respect of any dividends or earnings attributable to any share, debt or securities of a licensee; or\n\n(b) on or in respect of any dividends, interest or other returns from any shares, securities, deposits or other borrowings of a licensee or any assets managed by a licensee, if the dividends, interest or other returns are shown to be in respect of shares, securities, deposits, borrowings or other assets beneficially owned by a person who either is not a resident or is an IBC, an international foreign company, an international limited partnership or an international trust, or is a subsidiary of a licensee authorised under section 313).\n\n(2) No estate, inheritance, succession or similar tax shall be levied in respect of any shares, securities or assets of a licensee or in respect of the transfer of any such shares or assets.\n\n(3) Notwithstanding anything in the Stamp Act (Chapter 34), duty shall not be chargeable on any of the following -\n\n(a) instruments relating to transfers of any property to or by a licensee;\n\n(b) instruments relating to transactions in respect of the shares, debt obligations or other securities of a licensee;\n\n(c) instruments relating in any way to the assets or activities of a\n\n(4) If, with respect to any goods imported or to be imported by a licensee, the Minister is satisfied -\n\n(a) that the goods are not being made or manufactured in Brunei\n\n(b) that the goods are essential as equipment or fixtures for the purposes of conducting international business services in Brunei Darussalam and will be used exclusively for those purposes; and\n\n(c) that the licensee will notify the Minister prior to the sale, transfer or the goods (whether within or outside Brunei , the Minister may by order exempt the licensee from all, or so much as he considers appropriate, of any customs duty which would otherwise be levied in respect of the goods.\n\n(5) Expressions used in subsection [3) have the same meaning as in the Stamp Act (Chapter 34) and expressions used in subsection (4) have the same meaning as in the Customs Act (Chapter 36).\n\n(6) No filing, return or financial information shall be required from a licensee in relation to any taxation, duty or other levy in respect of which relief is granted under this section.\n\nSCHEDULE 2)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "REGISTERED AGENTS AND TRUSTEES LICENSING ORDER 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3969",
  "title": {
-  "zh": null,
+  "zh": "为奎松省增设两名助理省检察官职位，为此修订《行政法典》第1674条（经修正）的法案",
   "en": "An Act Providing Two Additional Positions for Assistant Provincial Fiscals for the Province of Quezon, Amending for the Purpose of Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended",
   "orig": "An Act Providing Two Additional Positions for Assistant Provincial Fiscals for the Province of Quezon, Amending for the Purpose of Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing Two Additional Positions for Assistant Provincial Fiscals for the Province of Quezon, Amending for the Purpose of Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

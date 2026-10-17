@@ -1,7 +1,7 @@
 {
  "id": "PH-H9464",
  "title": {
-  "zh": null,
+  "zh": "将马斯巴特省Cawayan市镇的Dr. Emilio B. Espinosa, Sr.纪念州立农业与技术学院学习点改为其正式校区，名为Cawayan校区，并为此拨款的法案",
   "en": "An Act Integrating the Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology Campus Learning Site in the Municipality of Cawayan, Province of Masbate, as a Regular Campus of the Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology to be Known as the Dr. Emilio B. Espinosa Sr. Memorial State College of Agriculture and Technology - Cawayan Campus, and Appropriating Funds Therefor",
   "orig": "An Act Integrating the Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology Campus Learning Site in the Municipality of Cawayan, Province of Masbate, as a Regular Campus of the Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology to be Known as the Dr. Emilio B. Espinosa Sr. Memorial State College of Agriculture and Technology - Cawayan Campus, and Appropriating Funds Therefor"
  },
@@ -82,5 +82,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Integrating the Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology Campus Learning Site in the Municipality of Cawayan, Province of Masbate, as a Regular Campus of the Dr. Emilio B. Espinosa, Sr. Memorial State College of Agriculture and Technology to be Known as the Dr. Emilio B. Espinosa Sr. Memorial State College of Agriculture and Technology - Cawayan Campus, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

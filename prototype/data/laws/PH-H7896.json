@@ -1,7 +1,7 @@
 {
  "id": "PH-H7896",
  "title": {
-  "zh": null,
+  "zh": "萨尔瓦多市宪章",
   "en": "Charter of the City of El Salvador",
   "orig": "Charter of the City of El Salvador An Act Converting the Municipality of El Salvador in the Province of Misamis Oriental into a Component City to be known as the City of El Salvador"
  },
@@ -867,5 +867,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in at least two newspapers of general and local circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Charter of the City of El Salvador",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

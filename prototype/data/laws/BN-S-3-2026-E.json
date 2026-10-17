@@ -1,7 +1,7 @@
 {
  "id": "BN-S-3-2026-E",
  "title": {
-  "zh": null,
+  "zh": "2026 年第 3 号附属法规",
   "en": "S-3_2026-E",
   "orig": null
  },
@@ -318,5 +318,13 @@
     "en": "The Fund shall be exempted from the requirements under the Subscriptions Control Act (Chapter 91). Made this 18th. day of Rejab, 1447 Hijriah corresponding to the 8th. day of January, 2026 at Our Istana Nurul !man, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN, DARUSSALAM."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "S-3_2026-E",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

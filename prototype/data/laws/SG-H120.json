@@ -1,7 +1,7 @@
 {
  "id": "SG-H120",
  "title": {
-  "zh": null,
+  "zh": "穆斯林法管理（修正）法 2024（生效）公告 2026",
   "en": "Administration of Muslim Law (Amendment) Act 2024 (Commencement) Notification 2026",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Administration of Muslim Law\n(Amendment) Act 2024\nAdministration of Muslim Law\n(Amendment) Act 2024\n(Commencement) Notification 2026\nIn exercise of the powers conferred by section 1 of the Administration of Muslim Law (Amendment) Act 2024, the Acting Minister‑in‑charge of Muslim Affairs makes the following Notification:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Administration of Muslim Law (Amendment) Act 2024 (Commencement) Notification 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

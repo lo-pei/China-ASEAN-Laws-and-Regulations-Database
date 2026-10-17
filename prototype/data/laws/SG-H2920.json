@@ -1,7 +1,7 @@
 {
  "id": "SG-H2920",
  "title": {
-  "zh": null,
+  "zh": "司法程序（报告规制）法 1960",
   "en": "Judicial Proceedings (Regulation of Reports) Act 1960",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. Nothing in this Act shall apply to —\n(a)the printing of any pleading, transcript of evidence or other document for use in connection with any judicial proceedings or the communication thereof to persons concerned in the proceedings;\n(b)the printing or publishing of any notice or report in pursuance of the directions of the court; or\n(c)the printing or publishing of any matter in any separate volume or part of any bona fide series of law reports which do not form part of any other publication and consists solely of reports of proceedings in courts of law, or in any publication of a technical character bona fide intended for circulation among members of the legal or medical profession."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Judicial Proceedings (Regulation of Reports) Act 1960",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

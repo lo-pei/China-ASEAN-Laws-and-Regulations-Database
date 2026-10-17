@@ -1,7 +1,7 @@
 {
  "id": "SG-H3034",
  "title": {
-  "zh": null,
+  "zh": "酒类管制（供应与消费）（罪行和解）条例 2015",
   "en": "Liquor Control (Supply and Consumption) (Composition of Offences) Regulations 2015",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nCompoundable offences\nFirst column\nSecond column\nS/No.\nAct or subsidiary legislation\nOffence\n1.\nLiquor Control (Supply and Consumption) Act 2015\nSections 4(3), 5(2), 6(4), 7(2), 12(4) and 14(1) and (2)\n2.\nLiquor Control (Supply and Consumption) (Liquor Licensing) Regulations 2015\n(G.N. No. S 181/2015)\nAll offences\n3.\nLiquor Control (Supply and Consumption) (Restrictions on Consumption) Regulations 2015\n(G.N. No. S 184/2015)\nAll offences."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Liquor Control (Supply and Consumption) (Composition of Offences) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

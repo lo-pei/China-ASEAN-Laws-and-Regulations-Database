@@ -1,7 +1,7 @@
 {
  "id": "SG-H130",
  "title": {
-  "zh": null,
+  "zh": "穆斯林法管理（瓦克夫管理人与受托人）规则 2018",
   "en": "Administration of Muslim Law (Mutawallis and Trustees) Rules 2018",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9. These Rules do not apply to any wakaf created by the Majlis under section 58(3A) of the Act.\n[S 633/2024 wef 01/08/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Administration of Muslim Law (Mutawallis and Trustees) Rules 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

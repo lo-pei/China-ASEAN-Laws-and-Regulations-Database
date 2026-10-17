@@ -1,7 +1,7 @@
 {
  "id": "PH-H6169",
  "title": {
-  "zh": null,
+  "zh": "规定妇女在社会保障委员会中的代表名额，并为此修订第1161号共和国法第3条（A）项的法案",
   "en": "Fan Act Giving Representation to Women in the Social Security Commission, Amending Foe the Purpose Section 3 (A) of Republic Act No. 1161, as Amended-",
   "orig": "Fan Act Giving Representation to Women in the Social Security Commission, Amending Foe the Purpose Section 3 (A) of Republic Act No. 1161, as Amended-"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, March 3, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Fan Act Giving Representation to Women in the Social Security Commission, Amending Foe the Purpose Section 3 (A) of Republic Act No. 1161, as Amended-",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

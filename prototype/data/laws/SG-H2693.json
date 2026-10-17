@@ -1,7 +1,7 @@
 {
  "id": "SG-H2693",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 21 号）命令 2023",
   "en": "Infrastructure Protection (Protected Places) (No. 21) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nHead, National Service Affairs Department\nTACHYON@31\nAll that area comprised in Lot 1118V in Mukim No. 29 occupied by “TACHYON@31” containing an area of about 4,164.1 square metres and bounded approximately as follows:\nCommencing at a point 37,630.438 metres North and 40,411.093 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n37,630.438\n40,411.093\n37,573.691\n40,411.160\n37,573.680\n40,337.283\n37,622.035\n40,337.273\n37,628.808\n40,341.313\n37,630.406\n40,348.198\nto the point of commencement.\nThe boundaries of “TACHYON@31” are more particularly delineated in the Survey Plan No. 00031‑2022‑L‑3000437479-GZ00-002-OC filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 21) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

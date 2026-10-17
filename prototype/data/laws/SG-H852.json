@@ -1,7 +1,7 @@
 {
  "id": "SG-H852",
  "title": {
-  "zh": null,
+  "zh": "著作权（音乐录音版税）条例 2021",
   "en": "Copyright (Royalties for Musical Records) Regulations 2021",
   "orig": null
  },
@@ -103,5 +103,11 @@
     "en": "5.—(1) This regulation prescribes the amount of royalty payable under section 261(2)(g) of the Act in respect of a literary or dramatic work included in a record of a performance of a musical work in the manner described in section 261(1) of the Act.\n(2) If —\n(a)the musical work is a copyright work; and\n(b)the same person is the copyright owner of both the musical work and the literary or dramatic work,\nno further amount needs to be paid in respect of the literary or dramatic work.\n(3) If —\n(a)the musical work is a copyright work; and\n(b)different persons own the copyrights in the musical work and the literary or dramatic work,\nthe amount payable in respect of the musical work under regulation 3 or 4 is to be apportioned between the copyright owners in the manner —\n(c)agreed by them; or\n(d)in default of agreement, decided by a Copyright Tribunal.\n(4) If the musical work is not a copyright work, the amount payable in respect of the literary or dramatic work is the amount that would have been payable under regulation 3 in respect of the musical work had the musical work been a copyright work."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Copyright (Royalties for Musical Records) Regulations 2021",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

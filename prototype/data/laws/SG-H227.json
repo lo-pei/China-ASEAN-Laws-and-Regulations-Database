@@ -1,7 +1,7 @@
 {
  "id": "SG-H227",
  "title": {
-  "zh": null,
+  "zh": "各副注册官的委任",
   "en": "Appointment of Deputy Registrars",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Registration of Births and Deaths Act\n(Chapter 267)\nAppointment of Deputy Registrars\nIt is hereby notified for general information that, in exercise of the powers conferred by section 3(2) of the Registration of Births and Deaths Act, the Minister for Home Affairs has appointed the following officers to be Deputy Registrars of Births and Deaths for the purposes of the Act, with effect from 17th December 2000:\n(1)Commanding Officer, Ang Mo Kio South Neighbourhood Police Centre.\n(2)Commanding Officer, Ang Mo Kio North Neighbourhood Police Centre.\n(3)Commanding Officer, Hougang Neighbourhood Police Centre.\n(4)Commanding Officer, Sembawang Neighbourhood Police Centre.\n(5)Commanding Officer, Serangoon Neighbourhood Police Centre.\n(6)Commanding Officer, Yishun North Neighbourhood Police Centre.\n(7)Commanding Officer, Yishun South Neighbourhood Police Centre.\n(8)Commanding Officer, Bedok South Neighbourhood Police Centre.\n(9)Commanding Officer, Bedok North Neighbourhood Police Centre.\n(10)Commanding Officer, Changi Neighbourhood Police Centre.\n(11)Commanding Officer, Geylang Neighbourhood Police Centre.\n(12)Commanding Officer, Marine Parade Neighbourhood Police Centre.\n(13)Commanding Officer, Pasir Ris Neighbourhood Police Centre.\n(14)Commanding Officer, Tampines Neighbourhood Police Centre."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Deputy Registrars",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

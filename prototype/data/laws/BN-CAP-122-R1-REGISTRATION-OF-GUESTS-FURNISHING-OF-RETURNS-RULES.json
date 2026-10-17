@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-122-R1-REGISTRATION-OF-GUESTS-FURNISHING-OF-RETURNS-RULES",
  "title": {
-  "zh": null,
+  "zh": "R1 旅客登记申报规则",
   "en": "R1 REGISTRATION OF GUESTS FURNISHING OF RETURNS RULES",
   "orig": null
  },
@@ -70,5 +70,13 @@
     "en": "The returns shall be in the form in the Schedule to the Registra-Prescribed tion of Guests Act. particulars B.L.R.O. 111984"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R1 REGISTRATION OF GUESTS FURNISHING OF RETURNS RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

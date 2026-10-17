@@ -1,7 +1,7 @@
 {
  "id": "PH-H4762",
  "title": {
-  "zh": null,
+  "zh": "更改综合重组计划的提交日期并划定审查委员会的权力，为此进一步修订经第 6172 号共和国法修正的第 5435 号共和国法第 4 条",
   "en": "An Act Changing the Date for the Submission of the Integrated Reorganization Plan and Delineating the Powers of the Review Commission, Further Amending Section Four of Republic Act Numbered Fifty-Four Hundred and Thirty-Five, as Amended By Republic Act Numbered Sixty-One Hundred and Seventy-Two.",
   "orig": "An Act Changing the Date for the Submission of the Integrated Reorganization Plan and Delineating the Powers of the Review Commission, Further Amending Section Four of Republic Act Numbered Fifty-Four Hundred and Thirty-Five, as Amended By Republic Act Numbered Sixty-One Hundred and Seventy-Two."
  },
@@ -81,14 +81,23 @@
    }
   },
   {
-   "id": "PH-H4762-A4_2",
+   "id": "PH-H4762-A4-d2",
    "no": 4,
    "noLabel": {
     "en": "Section 4."
    },
    "text": {
     "en": "This Act shall take effect upon its approval.\nApproved, May 5, 1971."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Date for the Submission of the Integrated Reorganization Plan and Delineating the Powers of the Review Commission, Further Amending Section Four of Republic Act Numbered Fifty-Four Hundred and Thirty-Five, as Amended By Republic Act Numbered Sixty-One Hundred and Seventy-Two.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

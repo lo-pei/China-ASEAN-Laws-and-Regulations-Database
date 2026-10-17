@@ -1,7 +1,7 @@
 {
  "id": "PH-H8221",
  "title": {
-  "zh": null,
+  "zh": "将奥罗拉省Dipaculao市镇Puangi描笼涯的奥罗拉国立中学第三附属校从奥罗拉国立中学分离，改设为独立的Puangi国立中学并为此拨款的法案",
   "en": "An Act Separating the Aurora National High School - Annex III in Barangay Puangi, Municipality of Dipaculao, Province of Aurora from the Aurora National High School, Converting it into an Independent National High School to Be Known as Puangi National High School and Appropriating Funds therefor",
   "orig": "An Act Separating the Aurora National High School - Annex III in Barangay Puangi, Municipality of Dipaculao, Province of Aurora from the Aurora National High School, Converting it into an Independent National High School to Be Known as Puangi National High School and Appropriating Funds therefor"
  },
@@ -81,5 +81,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Aurora National High School - Annex III in Barangay Puangi, Municipality of Dipaculao, Province of Aurora from the Aurora National High School, Converting it into an Independent National High School to Be Known as Puangi National High School and Appropriating Funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

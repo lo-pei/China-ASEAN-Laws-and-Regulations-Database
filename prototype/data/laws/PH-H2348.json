@@ -1,7 +1,7 @@
 {
  "id": "PH-H2348",
  "title": {
-  "zh": null,
+  "zh": "将教育部公共学校局的医疗与牙科服务国有化并授权拨付必要经费的法案",
   "en": "An Act Nationalizing the Medical and Dental Services of the Bureau of Public Schools, Department of Education, and Authorizing the Appropriation of the Necessary Funds Therefor",
   "orig": "An Act Nationalizing the Medical and Dental Services of the Bureau of Public Schools, Department of Education, and Authorizing the Appropriation of the Necessary Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 25, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Nationalizing the Medical and Dental Services of the Bureau of Public Schools, Department of Education, and Authorizing the Appropriation of the Necessary Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

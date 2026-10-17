@@ -1,7 +1,7 @@
 {
  "id": "SG-H1326",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（罪行构成）条例",
   "en": "Environmental Protection and Management (Composition of Offences) Regulations",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Each of the following offences is prescribed as a compoundable offence that may be compounded in accordance with section 72 of the Act:\n(a) any offence under section 7(3), 8(3), 9(2), 11(1), 12(1), 14(2), 15(1), 16(3), 22(3), 23(3), 33(2), 35(6), 40C(2), 40D(3), 40G(6), 40I(3), 40J(9) (other than a continuing offence), 40L(4), 40N(5), 40O(3), 40P(2) (other than a continuing offence), 40Q(2) (other than a continuing offence), 40R(9), 40S(3), 40U(5) (other than a continuing offence), 40V(4), 40W(2), 40X, 44A(3) or 50A(2) of the Act;\n[S 486/2011 wef 01/09/2011]\n[S 559/2013 wef 01/09/2013]\n[S 262/2016 wef 01/06/2017]\n[S 50/2023 wef 31/12/2021]\n[S 50/2023 wef 10/02/2023]\n(b)any offence under regulation 6 of the Environmental Protection and Management (Boundary Noise Limits for Factory Premises) Regulations (Rg 1) in connection with any failure to comply with regulation 3 of those Regulations;\n(c)any offence under regulation 5 of the Environmental Protection and Management (Control of Noise at Construction Sites) Regulations (Rg 2) in connection with any failure to comply with regulation 3 or 4A of those Regulations;\n[S 148/2013 wef 25/03/2013]\n(d)any offence under regulation 25 of the Environmental Protection and Management (Hazardous Substances) Regulations (Rg 4) in connection with any contravention of regulation 5, 6, 7, 8, 10, 18, 21(3), 23 or 24 of those Regulations;\n(da)any offence under regulation 8(2) or 9(4) of the Environmental Protection and Management (Regulated Goods and Registered Suppliers) Regulations 2022 (G.N. No. S 274/2022);\n[S 50/2023 wef 10/02/2023]\n(e)any offence under regulation 12 of the Environmental Protection and Management (Trade Effluent) Regulations (Rg 5) in connection with any contravention of regulation 3, 4, 7, 8, 9 or 10 of those Regulations; and\n[S 559/2013 wef 01/09/2013]\n(f)any offence under regulation 11(2), 12(4) or (6), 15(7), 19(2), 19A(2), 20(2), 21(3), 21A(2) or 22(2) of the Environmental Protection and Management (Vehicular Emissions) Regulations (Rg 6).\n[S 559/2013 wef 01/09/2013]\n[S 189/2023 wef 06/04/2023]\n(g)[Deleted by S 559/2013 wef 01/09/2013]\n[S 50/2023 wef 10/02/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Protection and Management (Composition of Offences) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

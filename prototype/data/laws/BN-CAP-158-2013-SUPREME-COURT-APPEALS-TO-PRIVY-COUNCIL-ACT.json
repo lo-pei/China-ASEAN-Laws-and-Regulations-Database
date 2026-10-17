@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-158-2013-SUPREME-COURT-APPEALS-TO-PRIVY-COUNCIL-ACT",
  "title": {
-  "zh": null,
+  "zh": "最高法院向枢密院上诉法",
   "en": "SUPREME COURT APPEALS TO PRIVY COUNCIL ACT",
   "orig": null
  },
@@ -118,5 +118,13 @@
     "en": "Rules of Court may be made in accordance with the Supreme Court Act (Chapter 5) for the better carrying into effect of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUPREME COURT APPEALS TO PRIVY COUNCIL ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

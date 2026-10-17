@@ -1,7 +1,7 @@
 {
  "id": "SG-H506",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（婚姻诉讼中基金相关资产分割）条例 2007",
   "en": "Central Provident Fund (Division of Fund-Related Assets in Matrimonial Proceedings) Regulations 2007",
   "orig": null
  },
@@ -150,5 +150,13 @@
     "en": "THE SCHEDULE\nRegulation 2A\nFormer provisions\nFirst column\nSecond column\nRegulation containing\nreference to a\nformer provision\nFormer provisions\n1.Regulation 2 (definition of “specified charge or undertaking”)\nSection 15(9), (9A), (10), (10A), (11D), (11E) or (11EB) of the Act as in force before 1 March 2022\n2.Regulation 3(1)(c) and (d)\nSection 15(2)(d), (e), (f) or (g) of the Act as in force before 1 March 2022\n3.Regulation 3(1)(d)(i)\nSection 15(8)(d), (e) or (f) of the Act as in force before 1 March 2022"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund (Division of Fund-Related Assets in Matrimonial Proceedings) Regulations 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

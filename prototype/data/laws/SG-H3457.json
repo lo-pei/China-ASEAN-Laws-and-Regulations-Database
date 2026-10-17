@@ -1,7 +1,7 @@
 {
  "id": "SG-H3457",
  "title": {
-  "zh": null,
+  "zh": "第 9（3）条项下的命令",
   "en": "Order under section 9(3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n(1) Bills of Lading Act (Chapter 384).\n(2) Corporate Bodies’ Contracts Act (Chapter 385).\n(3) Factors Act (Chapter 386).\n(4) Marine Insurance Act (Chapter 387).\n(5) Mercantile Law Amendment Act (Chapter 388).\n(6) Minors’ Contracts Act (Chapter 389).\n(7) Misrepresentation Act (Chapter 390).\n(8) Partnership Act (Chapter 391).\n(9) Policies of Assurance Act (Chapter 392).\n(10) Sale of Goods Act (Chapter 393).\n(11) Supply of Goods Act (Chapter 394).\n(12) Third Parties (Rights against Insurers) Act (Chapter 395).\n(13) Unfair Contract Terms Act (Chapter 396)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under section 9(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

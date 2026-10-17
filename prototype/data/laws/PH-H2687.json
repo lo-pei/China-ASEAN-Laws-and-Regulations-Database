@@ -1,7 +1,7 @@
 {
  "id": "PH-H2687",
  "title": {
-  "zh": null,
+  "zh": "延长重建上次世界大战期间及之后被毁的未决司法程序记录申请期限的法案",
   "en": "An Act to Extend the Period for Filing Petitions for the Reconstitution of Records of Pending Judicial Proceedings Destroyed During and After the Last World War",
   "orig": "An Act to Extend the Period for Filing Petitions for the Reconstitution of Records of Pending Judicial Proceedings Destroyed During and After the Last World War"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval Approved: June 17, 1961"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Extend the Period for Filing Petitions for the Reconstitution of Records of Pending Judicial Proceedings Destroyed During and After the Last World War",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

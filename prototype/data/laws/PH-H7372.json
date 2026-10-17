@@ -1,7 +1,7 @@
 {
  "id": "PH-H7372",
  "title": {
-  "zh": null,
+  "zh": "将哥打巴托市哥打巴托市国立中学J. Marquez附属校从哥打巴托国立中学分离，改设为独立的J. Marquez国立中学，并为此拨款的法案",
   "en": "An Act Separating the Cotabato City National High School - J. Marquez Annex in Cotabato City From the Cotabato National High School and Converting the Same Into An Independent National High School to Be Known as the J. Marquez National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Cotabato City National High School - J. Marquez Annex in Cotabato City From the Cotabato National High School and Converting the Same Into An Independent National High School to Be Known as the J. Marquez National High School, and Appropriating Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Cotabato City National High School - J. Marquez Annex in Cotabato City From the Cotabato National High School and Converting the Same Into An Independent National High School to Be Known as the J. Marquez National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

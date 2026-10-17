@@ -1,7 +1,7 @@
 {
  "id": "PH-H7421",
  "title": {
-  "zh": null,
+  "zh": "将棉兰老穆斯林自治区民选官员定期选举改期至 2001 年 5 月第二个星期一与全国大选同时举行",
   "en": "An Act Resetting the Regular Elections for Elective Officials of the Autonomous Region in Muslim Mindanao to Coincide With the General Elections to Be Held on the Second Monday of May 2001",
   "orig": "An Act Resetting the Regular Elections for Elective Officials of the Autonomous Region in Muslim Mindanao to Coincide With the General Elections to Be Held on the Second Monday of May 2001"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval by the President.\nApproved, September 1, 2000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Resetting the Regular Elections for Elective Officials of the Autonomous Region in Muslim Mindanao to Coincide With the General Elections to Be Held on the Second Monday of May 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

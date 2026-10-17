@@ -1,7 +1,7 @@
 {
  "id": "SG-H3529",
  "title": {
-  "zh": null,
+  "zh": "拘留场所",
   "en": "Place of Detention",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Children and Young Persons Act\n(Chapter 38)\nPlace of Detention\nIt is hereby notified for general information that, in exercise of the powers conferred by section 55 of the Children and Young Persons Act, the Minister for Community Development, Youth and Sports has appointed the Singapore Girls’ Home, 1 Defu Avenue 1, Singapore 359540, to be a place of detention for the purposes of the Act, with effect from 1st April 2006."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Place of Detention",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

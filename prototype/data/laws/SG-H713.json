@@ -1,7 +1,7 @@
 {
  "id": "SG-H713",
  "title": {
-  "zh": null,
+  "zh": "委员会",
   "en": "Commission",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "inquiry commissions ordinance\n(CHAPTER 55, 1955 ED)\nCommission\nN 18\nG.N. No. S 1146/1959\nREVISED EDITION 1990\n(25th March 1992)\n[11th November 1959]\nELIZABETH II, by the Grace of God of the United Kingdom of Great Britain and Northern Ireland and of Her Other Realms and Territories QUEEN, Head of the Commonwealth, Defender of the Faith.\nBy His Excellency Sir WILLIAM ALLMOND CODRINGTON GOODE, Knight Commander of the Most Distinguished Order of Saint Michael and Saint George, Yang di-Pertuan Negara of the State of Singapore.\nWhereas it is provided by the Inquiry Commissions Ordinance that it shall be lawful for the Governor, whenever he shall deem it advisable, to issue a Commission appointing one or more Commissioners to enquire, inter alia into any matter in which an inquiry would, in the opinion of the Governor in Council, be for the public welfare:\nAnd whereas it is provided by paragraph (b) of subsection (2) of section 121 of the Singapore (Constitution) Order in Council 1958 that any reference to the Governor or to the Governor in Council shall in relation to any period beginning on or after the appointed day, be construed as a reference to the Yang di-Pertuan Negara:\nAnd whereas I am of the opinion that an inquiry should forthwith be made by Commissioners so appointed in accordance with the following terms of reference:\n1.To review the whole system and operation of the Singapore Prisons Department; the recruitment, training and duties of Prisons staff; the organisation of Prisons industries; and any other matter pertaining to the Prisons Service;\n2.To review the problems of classification, training, discipline and the rehabilitation of prisoners; and the organisation of aftercare; and\n3.To make recommendations, having due regard to the limitations of present conditions, circumstances and resources:\nNow, therefore, I, WILLIAM ALLMOND CODRINGTON GOODE, hereby appoint the following persons, namely:\n1.C. V. Devan Nair;\n2.Thomas Harold Elliot;\n3.Jek Yuen Thong;\n4.Osman bin Abdul Ghani;\n5.Jean MacDonald Robertson;\n6.Cheam Kim Seang;\n7.Tan Kay Hai;\n8.Sandrasegaran Woodhull; and\n9.Francis Thomas,\nto be Commissioners and hereby authorize the Commissioners to conduct such inquiry in the manner hereinafter directed:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

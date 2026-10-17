@@ -1,7 +1,7 @@
 {
  "id": "SG-H588",
  "title": {
-  "zh": null,
+  "zh": "儿童与青少年（社区服务令）条例 2001",
   "en": "Children and Young Persons (Community Service Orders) Regulations 2001",
   "orig": null
  },
@@ -208,5 +208,13 @@
     "en": "THE SCHEDULE\nRegulation 6(2)\nType of Work\nThe type of work under a community service order includes general cleaning, repair, maintenance and restoration works, the provision of care services and any other work that contributes to the community at any of the following places:\n(a)any hospital or any charitable, educational, cultural, or recreational institution or organisation;\n(b)any other institution or organisation for elderly and disabled persons;\n(c)any land of which the Government or any public body is the owner or lessee or occupier, or any land that is administered, maintained or kept clean by the Government or any public body."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Children and Young Persons (Community Service Orders) Regulations 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

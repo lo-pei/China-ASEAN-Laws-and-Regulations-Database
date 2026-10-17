@@ -1,7 +1,7 @@
 {
  "id": "SG-H806",
  "title": {
-  "zh": null,
+  "zh": "新加坡共和国宪法（市长）命令 2002",
   "en": "Constitution of the Republic of Singapore (Mayor) Order 2002",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of the Constitution, no person shall be considered as holding a public office or an office of profit by reason of the fact that he is in receipt of any remuneration or allowances (including a pension or other like allowance) in respect of his tenure of office as a Mayor appointed under Rules made under the People’s Association Act (Cap. 227)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Constitution of the Republic of Singapore (Mayor) Order 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

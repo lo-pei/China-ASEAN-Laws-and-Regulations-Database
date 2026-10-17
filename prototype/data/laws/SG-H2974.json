@@ -1,7 +1,7 @@
 {
  "id": "SG-H2974",
  "title": {
-  "zh": null,
+  "zh": "新加坡陆路交通管理局（电子送达系统）规则 2019",
   "en": "Land Transport Authority of Singapore (Electronic Service System) Rules 2019",
   "orig": null
  },
@@ -266,5 +266,13 @@
     "en": "SECOND SCHEDULE\nRule 12(2)\nMatters in which related documents\nare authorised to be served on individual or entity\nDescription\nApplicable rule\n1.Notice that account or LTA‑assigned authentication code is suspended or cancelled\n4(3)\n2.Notice that electronic service agent’s registration is suspended or cancelled\n6(2)\n3.Requirement to make record or account available for inspection\n11(1)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Land Transport Authority of Singapore (Electronic Service System) Rules 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

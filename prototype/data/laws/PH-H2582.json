@@ -1,7 +1,7 @@
 {
  "id": "PH-H2582",
  "title": {
-  "zh": null,
+  "zh": "将巴拉望省 罗哈斯市镇 Leguet小村改设为名称为Santa Teresa村的Said市镇村的法案",
   "en": "An Act to Convert the Sitio of Leguet in the Municipality of Roxas, Province of Palawan, into a Barrio of Said Municipality to be Known as the Barrio of Santa Teresa",
   "orig": "An Act to Convert the Sitio of Leguet in the Municipality of Roxas, Province of Palawan, into a Barrio of Said Municipality to be Known as the Barrio of Santa Teresa"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Sitio of Leguet in the Municipality of Roxas, Province of Palawan, into a Barrio of Said Municipality to be Known as the Barrio of Santa Teresa",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

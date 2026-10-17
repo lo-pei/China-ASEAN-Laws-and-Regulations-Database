@@ -1,7 +1,7 @@
 {
  "id": "BN-MEETING-OF-CREDITORS-RULES",
  "title": {
-  "zh": null,
+  "zh": "债权人会议规则",
   "en": "Meeting of Creditors Rules",
   "orig": null
  },
@@ -354,5 +354,13 @@
     "en": "The vote of the trustee or of his partner, clerk, advocate or solicitor or solicitor's clerk, either as creditor or as proxy for a creditor, shall vote in the majority required for passing any resolution affecting the conduct of the trustee ."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Meeting of Creditors Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

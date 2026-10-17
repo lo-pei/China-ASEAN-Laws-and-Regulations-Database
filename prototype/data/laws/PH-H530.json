@@ -1,7 +1,7 @@
 {
  "id": "PH-H530",
  "title": {
-  "zh": null,
+  "zh": "修订第 605 号联邦法（题为《为历次菲律宾革命或战争退伍军人提供养老金、设立退伍军人养老金委员会并为此拨款的法案》）",
   "en": "An Act to Amend Commonwealth Act Numbered Six Hundred and Five Entitled “An Act to Provide Pensions for Veterans of the Past Philippine Revolutions or Wars, to Create a Board on Pensions for Veterans and to Appropriate Funds Thereof”",
   "orig": "An Act to Amend Commonwealth Act Numbered Six Hundred and Five Entitled “An Act to Provide Pensions for Veterans of the Past Philippine Revolutions or Wars, to Create a Board on Pensions for Veterans and to Appropriate Funds Thereof”"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H530-A1_2",
+   "id": "PH-H530-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The veterans of the past Philippine revolutions or wars, over sixty years of age, shall be entitled to a monthly lifetime pension in the amount and at the time and manner specified in section three.\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H530-A2",
@@ -91,24 +92,34 @@
    }
   },
   {
-   "id": "PH-H530-A2_2",
+   "id": "PH-H530-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Section thirteen of Commonwealth Act Numbered Six hundred and five is hereby repealed."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H530-A3_2",
+   "id": "PH-H530-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "This Act shall take effect upon its approval.\nApproved, June 17, 1950."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Commonwealth Act Numbered Six Hundred and Five Entitled “An Act to Provide Pensions for Veterans of the Past Philippine Revolutions or Wars, to Create a Board on Pensions for Veterans and to Appropriate Funds Thereof”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

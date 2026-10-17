@@ -1,7 +1,7 @@
 {
  "id": "PH-H7456",
  "title": {
-  "zh": null,
+  "zh": "确认并承认西班牙国王 Fernando VI 于 1757 年 9 月 7 日颁布的王室法令设立 Vigan 市的法案",
   "en": "An Act Validating and Recognizing the Creation of the City of Vigan by the Royal Decree of September 7, 1757 Issued By Fernando VI, King of Spain",
   "orig": "An Act Validating and Recognizing the Creation of the City of Vigan by the Royal Decree of September 7, 1757 Issued By Fernando VI, King of Spain"
  },
@@ -854,5 +854,13 @@
     "en": "Effectivity. - This Act shall take effect upon its publication in at least two (2) newspapers of general and local circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Validating and Recognizing the Creation of the City of Vigan by the Royal Decree of September 7, 1757 Issued By Fernando VI, King of Spain",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1981",
  "title": {
-  "zh": null,
+  "zh": "修订第1621号共和国法（即《Silay市宪章》）第77条与第88条，以提高市法院书记官薪金并给予西内格罗斯学校分区主管额外报酬的法案",
   "en": "An Act Amending Sections Seventy-Seven and Eighty-Eight of Republic Act Numbered Sixteen Hundred Twenty-One, Otherwise Known as the Charter of the City of Silay, so as to Increase the Salary of the Clerk of the Municipal Court and to Give Additional Compensation to the Division Superintendent of Schools of Negros Occidental",
   "orig": "An Act Amending Sections Seventy-Seven and Eighty-Eight of Republic Act Numbered Sixteen Hundred Twenty-One, Otherwise Known as the Charter of the City of Silay, so as to Increase the Salary of the Clerk of the Municipal Court and to Give Additional Compensation to the Division Superintendent of Schools of Negros Occidental"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Sections Seventy-Seven and Eighty-Eight of Republic Act Numbered Sixteen Hundred Twenty-One, Otherwise Known as the Charter of the City of Silay, so as to Increase the Salary of the Clerk of the Municipal Court and to Give Additional Compensation to the Division Superintendent of Schools of Negros Occidental",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

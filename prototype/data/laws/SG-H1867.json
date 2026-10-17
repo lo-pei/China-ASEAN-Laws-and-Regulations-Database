@@ -1,7 +1,7 @@
 {
  "id": "SG-H1867",
  "title": {
-  "zh": null,
+  "zh": "住房开发商（项目账户）规则",
   "en": "Housing Developers (Project Account) Rules",
   "orig": null
  },
@@ -207,5 +207,13 @@
     "en": "13.—(1) Any person who refuses or neglects to comply with or acts in contravention of any of the provisions of these Rules shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.\n(2) Any person who knowingly and wilfully aids, abets, procures or instigates the commission of an offence under paragraph (1) shall be guilty of an offence and shall be liable on conviction to be punished with the punishment provided for the offence.\n[G.N. Nos. S 3/85; S 259/96; S 169/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Housing Developers (Project Account) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

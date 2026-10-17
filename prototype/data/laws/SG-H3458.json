@@ -1,7 +1,7 @@
 {
  "id": "SG-H3458",
  "title": {
-  "zh": null,
+  "zh": "第 9(3) 条下的命令",
   "en": "Order under Section 9(3)",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Application of English Law Act\n(Chapter 7A)\nOrder under Section 9 (3)\nWhereas pursuant to section 9(1) of the Application of English Law Act, the Law Revision Commissioners have prepared and published a revised edition of the Maritime Conventions Act 1911 in loose-leaf form:\nAnd Whereas under section 9(3) of the Application of English Law Act, the Commissioners shall transmit to the President a copy of the revised edition of the Maritime Conventions Act 1911 and the President may thereupon, by order published in the Gazette, specify that the revised edition of the Maritime Conventions Act 1911 shall, in all courts and for all purposes, be the sole and only proper law of Singapore in respect of that enactment:\nNow therefore it is hereby ordered by the President that the revised edition of the Maritime Conventions Act 1911 shall, with effect from 31st December 2004, be the sole and only proper law of Singapore in respect of that enactment."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 9(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9954",
  "title": {
-  "zh": null,
+  "zh": "确保菲律宾金融业对 CoVID-19 疫情具备韧性的法案",
   "en": "An Act Ensuring Philippine Financial Industry Resiliency Against the CoVID-19 Pandemic <a class=\"vs\">Implementing Rules and Regulations",
   "orig": "An Act Ensuring Philippine Financial Industry Resiliency Against the CoVID-19 Pandemic <a class=\"vs\">Implementing Rules and Regulations"
  },
@@ -447,5 +447,13 @@
     "en": "Effectivity. - This Act shall take effect immediately upon its publication in t he Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Ensuring Philippine Financial Industry Resiliency Against the CoVID-19 Pandemic <a class=\"vs\">Implementing Rules and Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

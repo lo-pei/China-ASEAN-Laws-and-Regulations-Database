@@ -1,7 +1,7 @@
 {
  "id": "PH-H7064",
  "title": {
-  "zh": null,
+  "zh": "将南甘马粦省 Sagñay 市镇 Mariano Fuentebella 州长纪念渔业学校改设为该纪念渔业学院并为其拨款的法案",
   "en": "An Act Converting the Governor Mariano Fuentebella Memorial Fishery School in Barangay Nato, Municipality of Sagñay, Province of Camarines Sur, Into a College to Be Known as the Governor Mariano Fuentebella Memorial College of Fisheries, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Governor Mariano Fuentebella Memorial Fishery School in Barangay Nato, Municipality of Sagñay, Province of Camarines Sur, Into a College to Be Known as the Governor Mariano Fuentebella Memorial College of Fisheries, and Appropriating Funds Therefor"
  },
@@ -112,5 +112,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Governor Mariano Fuentebella Memorial Fishery School in Barangay Nato, Municipality of Sagñay, Province of Camarines Sur, Into a College to Be Known as the Governor Mariano Fuentebella Memorial College of Fisheries, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

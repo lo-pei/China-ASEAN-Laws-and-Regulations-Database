@@ -1,7 +1,7 @@
 {
  "id": "SG-H3329",
  "title": {
-  "zh": null,
+  "zh": "国家疾病登记处（单肾——肾切除后（供体）通报）条例 2009",
   "en": "National Registry of Diseases (Single Kidney — Post Nephrectomy (Donor) Notification) Regulations 2009",
   "orig": null
  },
@@ -130,5 +130,13 @@
     "en": "FOURTH SCHEDULE\nRegulation 4\nAdditional Information for Cases\nUndergoing Treatment\n1. Particulars of patient (at follow-up):\n(a)date of consultation;\n(b)healthcare institution (including specific centre, department or clinic) responsible for subsequent treatment or follow-up;\n(c)complications within 6 weeks of discharge (including type(s); if the patient has renal failure or impairment, serum creatinine and whether creatinine is measured with IDMS Standard; and if the patient has other re-hospitalisation, reason and duration);\n(d)blood pressure;\n(e)weight;\n(f)smoking status;\n(g)employment status;\n(h)EQ-5D (including mobility, self-care, usual activities, pain or discomfort and anxiety or depression).\n2. Risk factors (at follow-up):\n(a)diabetes mellitus (including HbA1C and type of treatment if patient has diabetes mellitus; and whether the patient has impaired fasting glycemia or impaired glucose tolerance if not diabetic);\n(b)hyperlipidemia.\n3. Investigations (at follow-up):\n(a)fasting blood sugar;\n(b)serum creatinine;\n(c)creatinine clearance or radionuclide GFR;\n(d)Urine FEME;\n(e)24-hour urine protein or urine protein or creatinine ratio.\n4. Medications (at follow-up):\n(a)whether patient is on anti-hypertensives;\n(b)whether patient is on hypolipidemics.\n5. Complications (at follow-up):\n(a)other illnesses since last visit (including diagnosis);\n(b)admissions to hospital since last visit (including reason and date of admission);\n(c)whether or not the patient has Chronic Kidney Disease Stage 5 (including date, cause of Chronic Kidney Disease Stage 5, on transplant waiting list and reason for not on transplant waiting list).\n6. Vital status:\n(a)whether patient is living or deceased;\n(b)where the patient is deceased, the date, place and cause of death.\n7. Details of notifying healthcare institution:\nperson who made the notification."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "National Registry of Diseases (Single Kidney — Post Nephrectomy (Donor) Notification) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

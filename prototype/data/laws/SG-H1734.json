@@ -1,7 +1,7 @@
 {
  "id": "SG-H1734",
  "title": {
-  "zh": null,
+  "zh": "医疗服务法 2020（保留与过渡条文）条例 2021",
   "en": "Healthcare Services Act 2020 (Saving and Transitional Provisions) Regulations 2021",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) Any reference in any written law to a licence issued under the Private Hospitals and Medical Clinics Act 1980 in respect of a private hospital, medical clinic, clinical laboratory or healthcare establishment (except for any premises used as a nursing home) is to be read as a reference to a licence deemed granted under the Act in accordance with paragraph 1(1) of the Third Schedule to the Act to provide a licensable healthcare service.\n(2) Any reference in any written law to a medical clinic licensed under the Private Hospitals and Medical Clinics Act 1980 is to be read as a reference to any permanent premises approved under a licence deemed granted under the Act (in accordance with paragraph 1(1) of the Third Schedule to the Act) authorising the provision of an ambulatory surgical centre service, assisted reproduction service, outpatient dental service, outpatient medical service or outpatient renal dialysis service at those approved permanent premises.\n(3) Any reference in any written law to a private hospital licensed under the Private Hospitals and Medical Clinics Act 1980 is to be read as a reference to any permanent premises approved under a licence deemed granted under the Act (in accordance with paragraph 1(1) of the Third Schedule to the Act) authorising the provision of an acute hospital service or a community hospital service at those approved permanent premises.\n[S 415/2023 wef 26/06/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Healthcare Services Act 2020 (Saving and Transitional Provisions) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

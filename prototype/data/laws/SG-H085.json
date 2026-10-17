@@ -1,7 +1,7 @@
 {
  "id": "SG-H085",
  "title": {
-  "zh": null,
+  "zh": "主动出行（人行道——临时停止使用）（第 3 号）命令 2025",
   "en": "Active Mobility (Footpaths — Temporary Discontinuation) (No. 3) Order 2025",
   "orig": null
  },
@@ -97,5 +97,13 @@
     "en": "SECOND SCHEDULE\nParagraph 3\nFirst column\nSecond column\nStart\nEnd\n1.Map 1 footpath\n)\n)\n)\n)\n(a)6 December 2025\n12.01 a.m.\n(b)7 December 2025\n12.01 a.m.\n6 December 2025\n11.30 a.m.\n7 December 2025\n2 p.m.\n2.Map 2 footpath\n)\n)\n(a)1 December 2025\n12.01 a.m.\n8 December 2025\n11.59 p.m."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Footpaths — Temporary Discontinuation) (No. 3) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1949",
  "title": {
-  "zh": null,
+  "zh": "所得税（飞机投资管理人优惠税率）（规定活动）条例 2008",
   "en": "Income Tax (Concessionary Rate of Tax for Aircraft Investment Manager) (Prescribed Activities) Regulations 2008",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRegulation 3\nPrescribed Services or Activities\n1. Provision of investment advisory services for and to an approved aircraft leasing company."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Concessionary Rate of Tax for Aircraft Investment Manager) (Prescribed Activities) Regulations 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

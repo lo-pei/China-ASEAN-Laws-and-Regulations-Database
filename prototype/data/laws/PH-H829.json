@@ -1,7 +1,7 @@
 {
  "id": "PH-H829",
  "title": {
-  "zh": null,
+  "zh": "修订第920号共和国法中关于甲米地省公共工程项目的某些项目的法案",
   "en": "An Act to Amend Certain Items of Republic Act Numbered Nine Hundred Twenty, Regarding Public Works Projects for the Province of Cavite",
   "orig": "An Act to Amend Certain Items of Republic Act Numbered Nine Hundred Twenty, Regarding Public Works Projects for the Province of Cavite"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 8, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Items of Republic Act Numbered Nine Hundred Twenty, Regarding Public Works Projects for the Province of Cavite",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

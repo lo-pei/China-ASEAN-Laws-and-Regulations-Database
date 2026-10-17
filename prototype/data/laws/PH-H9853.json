@@ -1,7 +1,7 @@
 {
  "id": "PH-H9853",
  "title": {
-  "zh": null,
+  "zh": "1992 年基地转换与发展法",
   "en": "Bases Conversion and Development Act of 1992",
   "orig": "An Act Granting the Bases Conversion and Development Authority a Franchise to Construct, Install, Establish, Operate, Lease, Own, Manage and Maintain Distribution Systems for the Conveyance of Electric Power to End Users in Selected Areas Covered Under Republic Act No. 7227, as Amended, Otherwise Known as the “Bases Conversion and Development Act of 1992”"
  },
@@ -271,5 +271,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Bases Conversion and Development Act of 1992",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

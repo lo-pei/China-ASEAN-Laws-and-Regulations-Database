@@ -1,7 +1,7 @@
 {
  "id": "SG-H1005",
  "title": {
-  "zh": null,
+  "zh": "货币法——硬币面额与特征",
   "en": "Currency Act – Denominations and Characteristics of Coins",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE ESPLANADE — THEATRES ON THE BAY $5 COMMEMORATIVE COINS\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n5 Dollars\n999 Fine Silver\n20.00 g\n+ 0.20 g\n38.70 mm\n+ 0.15 mm\n2.30 mm\n+ 0.20 mm\nRound\nMilled and bearing the words “MONETARY AUTHORITY OF SINGAPORE” and lion symbol.\nThe Singapore Arms in the centre with the year-date “2002” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’ clock of the coin.\nQuadrant 1\nThe upper left quadrant of the design shows the stylized architecture of the Esplanade, which is unique to Singapore.\n5 Dollars\n75% Copper\n25% Nickel\n20.00 g\n+ 0.40 g\n38.70 mm\n+ 0.125 mm\n2.45 mm\n+ 0.152 mm\nRound\nThe Singapore Arms in the centre with the year-date “2002” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin.\nQuadrant 2\nThe upper right quadrant is a reproduction of the Esplanade logo signifying the Esplanade as a centre for performing arts from all over the world. It also signifies that the Esplanade is accessible to everyone.\nQuadrant 3\nThe lower left quadrant shows a section of the globe, symbolizing the Esplanade’s aspiration to be internationally recognised for its creativity and sense of adventure.\nQuadrant 4\nThe bottom right quadrant depicts a pair of Asian dancers in graceful harmony while the ribbon, fan and kompang inject vibrancy into their movements. The whole design in uniquely Singaporean.\n(a) Reverse Design of $5 Silver Proof and $5 Uncirculated Cupro-Nickel Coins.\n(b) Obverse Design of $5 Silver Proof Coin.\n(c) Obverse Design of $5 Uncirculated Cupro-Nickel Coin."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency Act – Denominations and Characteristics of Coins",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

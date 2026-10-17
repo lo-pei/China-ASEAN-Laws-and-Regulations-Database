@@ -1,7 +1,7 @@
 {
  "id": "SG-H1758",
  "title": {
-  "zh": null,
+  "zh": "劫持人质法 2010",
   "en": "Hostage-Taking Act 2010",
   "orig": null
  },
@@ -220,5 +220,13 @@
     "en": "14.—(1) Every hostage-taking offence is deemed to be an extradition offence under the Extradition Act 1968.\n[Act 17 of 2022 wef 01/07/2022]\n(2) Subject to subsection (3), where no extradition treaty is in force between Singapore and a Convention country, a notification in the Gazette under section 4 of the Extradition Act 1968 may be made applying that Act as if there were an extradition treaty between Singapore and that country.\n(3) Where the Extradition Act 1968 is applied under subsection (2), that Act has effect in relation to that country as if the only extradition offences under that Act were the relevant offences of that country.\n[Act 17 of 2022 wef 01/07/2022]\n(4) Subsection (3) does not affect any other notification made under section 4 of the Extradition Act 1968.\n(5) Where —\n(a)an extradition treaty is in force between Singapore and a Convention country; and\n(b)the treaty does not provide for the extradition of persons accused of or convicted of a relevant offence of that country,\na notification in the Gazette under section 4 of the Extradition Act 1968 may be made applying that Act in relation to that country as if the treaty provided for the matter referred to in paragraph (b).\n(6) Where a notification mentioned in subsection (5) is made, any limitation, condition, exception or qualification specified in —\n(a)any other notification made under section 4 of the Extradition Act 1968; or\n(b)any Order in Council mentioned in section 3 of that Act,\nin relation to that country is, to the extent that it prevents the relevant offence from being considered an extradition offence in relation to that country, to be disregarded in the application of that Act in relation to that country.\n[Act 17 of 2022 wef 01/07/2022]\n(7) For the purposes of the Extradition Act 1968 —\n(a)any act, wherever committed, which is a relevant offence of a Convention country in the case of which that Act has been applied by a notification in the Gazette made under section 4 of that Act, is deemed to be an offence within the jurisdiction of that country; and\n(b)any such offence is deemed not to be an offence of a political character.\n(8) In this section, “relevant offence”, in relation to a Convention country, means an offence against the law of, or of part of, that country where the act or omission constituting the offence or the equivalent act or omission would, if it took place in Singapore —\n(a)constitute a hostage-taking offence; or\n(b)be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Hostage-Taking Act 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

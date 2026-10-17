@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-49-1984-BURIAL-GROUNDS-ACT",
  "title": {
-  "zh": null,
+  "zh": "墓地法",
   "en": "Burial Grounds Act",
   "orig": null
  },
@@ -173,5 +173,13 @@
     "en": "The Minister may delegate any of the powers confer-Delegation of red upon him by this Act, other than the power of granting powers B.L.R.O. 111984 licences for the exhumation of corpses, to a Municipal Board to be exercised within the area subject to its control under such conditions as he may think fit."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Burial Grounds Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

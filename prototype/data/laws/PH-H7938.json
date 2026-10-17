@@ -1,7 +1,7 @@
 {
  "id": "PH-H7938",
  "title": {
-  "zh": null,
+  "zh": "将加潘—圣费尔南多—奥隆阿波公路（GSO公路）更名为何塞·阿巴德·桑托斯大道（JASA）的法案",
   "en": "An Act Renaming the Gapan - San Fernando - Olangapo Road (GSO Road) as Jose Abad Santos Avenue (JASA)",
   "orig": "An Act Renaming the Gapan - San Fernando - Olangapo Road (GSO Road) as Jose Abad Santos Avenue (JASA)"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Gapan - San Fernando - Olangapo Road (GSO Road) as Jose Abad Santos Avenue (JASA)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

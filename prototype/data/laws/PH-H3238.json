@@ -1,7 +1,7 @@
 {
  "id": "PH-H3238",
  "title": {
-  "zh": null,
+  "zh": "牧草地法",
   "en": "The Pasture Land Act,",
   "orig": "An Act to Amend Sections Three and Eleven of Commonwealth Act Numbered Four Hundred and Fifty-Two, Otherwise Known as \"The Pasture Land Act,\" and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Pasture Land Act,",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

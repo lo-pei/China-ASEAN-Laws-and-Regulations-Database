@@ -1,7 +1,7 @@
 {
  "id": "PH-H4503",
  "title": {
-  "zh": null,
+  "zh": "使菲律宾大学校友会主席成为该校董事会成员，为此进一步修订第1870号法（经修正）的法案",
   "en": "An Act Making the President of the University of the Philippines Alumni Association a Member of the Board of Regents Thereof, Further Amending for This Purpose, Act Numbered Eighteen Hundred Seventy, as Amended",
   "orig": "An Act Making the President of the University of the Philippines Alumni Association a Member of the Board of Regents Thereof, Further Amending for This Purpose, Act Numbered Eighteen Hundred Seventy, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making the President of the University of the Philippines Alumni Association a Member of the Board of Regents Thereof, Further Amending for This Purpose, Act Numbered Eighteen Hundred Seventy, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

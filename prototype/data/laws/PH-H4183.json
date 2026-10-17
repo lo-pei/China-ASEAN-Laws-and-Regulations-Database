@@ -1,7 +1,7 @@
 {
  "id": "PH-H4183",
  "title": {
-  "zh": null,
+  "zh": "为第十六司法区增设一名法官，主持南哥打巴托初审法院，常设于南哥打巴托省Koronadal市镇，为此修订1948年《司法法》第49、50、52条",
   "en": "An Act Providing for One Additional Judge for the Sixteenth Judicial District to Preside Over the Court of First Instance of South Cotabato with Permanent Station in the Municipality of Koronadal, Province of South Cotabato, Amending for the Purpose Sections Forty-Nine, Fifty and Fifty-Two of the Judiciary Act of 1948",
   "orig": "An Act Providing for One Additional Judge for the Sixteenth Judicial District to Preside Over the Court of First Instance of South Cotabato with Permanent Station in the Municipality of Koronadal, Province of South Cotabato, Amending for the Purpose Sections Forty-Nine, Fifty and Fifty-Two of the Judiciary Act of 1948"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for One Additional Judge for the Sixteenth Judicial District to Preside Over the Court of First Instance of South Cotabato with Permanent Station in the Municipality of Koronadal, Province of South Cotabato, Amending for the Purpose Sections Forty-Nine, Fifty and Fifty-Two of the Judiciary Act of 1948",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

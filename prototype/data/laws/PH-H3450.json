@@ -1,7 +1,7 @@
 {
  "id": "PH-H3450",
  "title": {
-  "zh": null,
+  "zh": "将奎松省迪拉萨格市镇区的德卡巴桑、德尼奥格、迪亚吉安与迪拉吉迪小村改设为各自独立的村的法案",
   "en": "An Act Converting the Sitios of Decabasan, Deniog, Diagyan and Dilaguidi in the Municipal District of Dilasag, Province of Quezon, into Distinct and Independent Barrios",
   "orig": "An Act Converting the Sitios of Decabasan, Deniog, Diagyan and Dilaguidi in the Municipal District of Dilasag, Province of Quezon, into Distinct and Independent Barrios"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Sitios of Decabasan, Deniog, Diagyan and Dilaguidi in the Municipal District of Dilasag, Province of Quezon, into Distinct and Independent Barrios",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

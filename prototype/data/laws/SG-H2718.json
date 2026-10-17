@@ -1,7 +1,7 @@
 {
  "id": "SG-H2718",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 5 号）命令 2025",
   "en": "Infrastructure Protection (Protected Places) (No. 5) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\n1.Director Digital &\nCorporate\nTransformation/\nMINDEF Chief\nInformation Officer\nIDEATES @ CONNECTION ONE BLOCK 167 #05‑10, SINGAPORE 150167\nAll that area comprised in Lot 02298K in Mukim No. 1 occupied by “IDEATES @ CONNECTION ONE BLOCK 167 #05‑10, SINGAPORE 150167” containing an area of about 1,212.3 square metres and bounded approximately as follows:\nCommencing at a point 29,483.897 metres North and 26,306.179 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n29,483.897\n26,306.179\n29,474.060\n26,342.474\n29,459.016\n26,338.403\n29,463.414\n26,322.306\n29,461.331\n26,321.737\n29,460.840\n26,323.476\n29,445.951\n26,319.472\n29,455.821\n26,283.162\n29,470.844\n26,287.212\n29,466.890\n26,301.578\nto the point of commencement.\nThe boundaries of “IDEATES @ CONNECTION ONE BLOCK 167 #05‑10, SINGAPORE 150167” are more particularly delineated in the Survey Plan No. 00167‑2023‑L‑3000461474‑GZ01‑L05‑OC filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below.\nFirst column\nSecond column\nThe Authority\nProtected Place\n2.Director Digital &\nCorporate\nTransformation/\nMINDEF Chief\nInformation Officer\nIDEATES @ CONNECTION ONE BLOCK 167 #08‑10, SINGAPORE 150167\nAll that area comprised in Lot 02298K in Mukim No. 1 occupied by “IDEATES @ CONNECTION ONE BLOCK 167 #08‑10, SINGAPORE 150167” containing an area of about 1,210.2 square metres and bounded approximately as follows:\nCommencing at a point 29,483.833 metres North and 26,306.224 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n29,483.833\n26,306.224\n29,473.955\n26,342.632\n29,459.001\n26,338.439\n29,463.438\n26,322.228\n29,461.353\n26,321.659\n29,460.859\n26,323.408\n29,445.961\n26,319.472\n29,455.813\n26,283.133\n29,470.837\n26,287.241\n29,466.873\n26,301.630\nto the point of commencement.\nThe boundaries of “IDEATES @ CONNECTION ONE BLOCK 167 #08‑10, SINGAPORE 150167” are more particularly delineated in the Survey Plan No. 00167‑2023‑L‑3000461474‑GZ01‑L08‑OC filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 5) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

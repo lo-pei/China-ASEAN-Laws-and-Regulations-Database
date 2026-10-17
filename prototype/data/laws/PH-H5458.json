@@ -1,7 +1,7 @@
 {
  "id": "PH-H5458",
  "title": {
-  "zh": null,
+  "zh": "修订第 3815 号法（即《修订刑法典》）第三编第一章第 134、135 与 136 条以处罚政变罪并为其他目的法案",
   "en": "An Act Punishing the Crime of Coup D?état by Amending Articles 134, 135 and 136 of Chapter One, Title Three of Act Numbered Thirty-Eight Hundred and Fifteen, Otherwise known as the Revised Penal Code, and for Other Purposes",
   "orig": "An Act Punishing the Crime of Coup D?état by Amending Articles 134, 135 and 136 of Chapter One, Title Three of Act Numbered Thirty-Eight Hundred and Fifteen, Otherwise known as the Revised Penal Code, and for Other Purposes"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity. – This Act shall take effect upon its approval and publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Punishing the Crime of Coup D?état by Amending Articles 134, 135 and 136 of Chapter One, Title Three of Act Numbered Thirty-Eight Hundred and Fifteen, Otherwise known as the Revised Penal Code, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H469",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（顾客争议解决）条例 2009",
   "en": "Casino Control (Patron Dispute Resolution) Regulations 2009",
   "orig": null
  },
@@ -244,5 +244,13 @@
     "en": "14. Where a request for reconsideration is withdrawn before the conclusion of the reconsideration, the Patron Dispute Committee may, notwithstanding such withdrawal, continue with its consideration of the matter and make a decision in respect thereof.\n[S 647/2026 wef 21/09/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Patron Dispute Resolution) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

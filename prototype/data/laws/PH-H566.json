@@ -1,7 +1,7 @@
 {
  "id": "PH-H566",
  "title": {
-  "zh": null,
+  "zh": "修订第 65 号共和国法第 2 条与第 3 条的法案",
   "en": "An Act to Amend Sections Two and Three of Republic Act Numbered Sixty-Five",
   "orig": "An Act to Amend Sections Two and Three of Republic Act Numbered Sixty-Five"
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H566-A2_2",
+   "id": "PH-H566-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Section three of the same Act is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H566-A3",
@@ -81,14 +82,23 @@
    }
   },
   {
-   "id": "PH-H566-A3_2",
+   "id": "PH-H566-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "This Act shall take effect upon its approval.\nApproved, September 12, 1950."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Two and Three of Republic Act Numbered Sixty-Five",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

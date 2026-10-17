@@ -1,7 +1,7 @@
 {
  "id": "SG-H2134",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 2 号）公告 2001",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) (No. 2) Notification 2001",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from withholding tax the following payments made by Singapore Aircraft Leasing Enterprise Pte. Ltd. (referred to in this paragraph as SALE) in relation to Airbus A320-200 Aircraft Manufacturer’s Serial Number 1450:\n(a)rent payable to Caladborg Lease Limited during the period 11th May 2001 to 11th May 2011 (both dates inclusive) under a lease agreement dated 10th May 2001 for lease of the aircraft;\n(b)interest payable to Halifax PLC under a guarantee dated 10th May 2001 guaranteeing the loan obtained by Caladborg Lease Limited for purchase by Caladborg Lease Limited of the aircraft; and\n(c)fees (including front-end fees and commitment fees) payable under the lease agreement and the guarantee referred to in sub-paragraphs (a) and (b), respectively.\n(2) There shall be exempt from withholding tax the following payments made by SALE in relation to Airbus A320-200 Aircraft Manufacturer’s Serial Number 1194:\n(a)rent payable to Excalibur Express Limited during the period 19th October 2000 to 19th April 2010 (both dates inclusive) under a lease agreement dated 14th April 2000 for lease of the aircraft;\n(b)interest payable to Halifax PLC under a guarantee dated 14th April 2000 guaranteeing the loan obtained by Excalibur Express Limited for purchase by Excalibur Express Limited of the aircraft; and\n(c)fees (including front-end fees and commitment fees) payable under the lease agreement and the guarantee referred to in sub-paragraphs (a) and (b), respectively.\n(3) There shall be exempt from withholding tax the following payments made by SALE in relation to Airbus A321-200 Aircraft Manufacturer’s Serial Number 1202:\n(a)rent payable to Excalibur Express Limited during the period 19th October 2000 to 19th April 2010 (both dates inclusive) under a lease agreement dated 14th April 2000 for lease of the aircraft;\n(b)interest payable to Halifax PLC under a guarantee dated 14th April 2000 guaranteeing the loan obtained by Excalibur Express Limited for purchase by Excalibur Express Limited of the aircraft; and\n(c)fees (including front-end fees and commitment fees) payable under the lease agreement and the guarantee referred to in sub-paragraphs (a) and (b), respectively."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) (No. 2) Notification 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

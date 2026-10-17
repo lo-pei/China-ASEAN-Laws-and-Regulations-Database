@@ -1,7 +1,7 @@
 {
  "id": "SG-H1208",
  "title": {
-  "zh": null,
+  "zh": "教育捐赠与储蓄计划（2015 年教育储蓄缴款额）命令 2014",
   "en": "Education Endowment and Savings Schemes (Amount of Edusave Contribution for 2015) Order 2014",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) For 2015, the amount of contribution to be paid under section 9(1)(b) of the Act is —\n(a)$200 for a non‑schooling member who is at least 7 years of age but below 13 years of age;\n(b)$200 for a non‑schooling member who —\n(i)is at least 13 years of age but below 15 years of age;\n(ii)is receiving home‑schooling in accordance with paragraph 3(1)(b)(i) to (vi) of the Compulsory Education (Exemption) Order (Cap. 51, O 1); and\n(iii)did not perform, in 2014, at the Primary School Leaving Examination and the National Education Quiz, at the level of educational achievement determined as suitable by the Director‑General of Education for that Examination and Quiz;\n(c)$200 for a non‑schooling member who —\n(i)is at least 13 years of age but below 17 years of age;\n(ii)does not attain 17 years of age at any time in 2015; and\n(iii)is receiving primary education in a designated school; and\n(d)$240 for a non‑schooling member not referred to in sub‑paragraph (b) or (c), who —\n(i)is at least 13 years of age but below 17 years of age; and\n(ii)does not attain 17 years of age at any time in 2015.\n(2) In this paragraph —\n“designated school”, “home‑schooling”, “National Education Quiz” and “Primary School Leaving Examination” have the same meanings as in the Compulsory Education (Exemption) Order;\n“non‑schooling member” means a member of the Edusave Pupils Fund who is not schooling at any time during 2015."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Education Endowment and Savings Schemes (Amount of Edusave Contribution for 2015) Order 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

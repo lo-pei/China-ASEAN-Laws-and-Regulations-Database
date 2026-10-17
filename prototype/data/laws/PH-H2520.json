@@ -1,7 +1,7 @@
 {
  "id": "PH-H2520",
  "title": {
-  "zh": null,
+  "zh": "将保和省Bilar市镇Bilar农村中学改设为Baybay国立农业学校类型的区域农业学校，名称为保和国立农业学校，并授权为此拨付所需资金",
   "en": "An Act to Convert the Bilar Rural High School in the Municipality of Bilar, Province of Bohol, into a Regional Agricultural School of the Baybay National Agricultural School Type, to be Known as the Bohol National Agricultural School, and to Authorize the Appropriation of the Necessary Funds Therefor",
   "orig": "An Act to Convert the Bilar Rural High School in the Municipality of Bilar, Province of Bohol, into a Regional Agricultural School of the Baybay National Agricultural School Type, to be Known as the Bohol National Agricultural School, and to Authorize the Appropriation of the Necessary Funds Therefor"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Bilar Rural High School in the Municipality of Bilar, Province of Bohol, into a Regional Agricultural School of the Baybay National Agricultural School Type, to be Known as the Bohol National Agricultural School, and to Authorize the Appropriation of the Necessary Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

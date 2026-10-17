@@ -1,7 +1,7 @@
 {
  "id": "PH-H2721",
  "title": {
-  "zh": null,
+  "zh": "规定将 San Nicolas 海滨土地划分为地块并向其承租人或真实占有人出售该等土地的法案，并为其他目的",
   "en": "An Act Providing for the Subdivision of the San Nicolas Foreshore Land into Lots and the Sale of Said Lots to Their Lessees or to Bona Fide Occupants of Said Land, and for Other Purposes",
   "orig": "An Act Providing for the Subdivision of the San Nicolas Foreshore Land into Lots and the Sale of Said Lots to Their Lessees or to Bona Fide Occupants of Said Land, and for Other Purposes"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Subdivision of the San Nicolas Foreshore Land into Lots and the Sale of Said Lots to Their Lessees or to Bona Fide Occupants of Said Land, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

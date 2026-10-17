@@ -1,7 +1,7 @@
 {
  "id": "SG-H1430",
  "title": {
-  "zh": null,
+  "zh": "证据法 1893",
   "en": "Evidence Act 1893",
   "orig": null
  },
@@ -3094,5 +3094,13 @@
     "en": "SECOND SCHEDULE\nSections 80A and 177\nStatutory Body\nAct under which established\n1.Building and Construction Authority\nBuilding and Construction Authority Act 1999.\n2.Central Provident Fund Board\nCentral Provident Fund Act 1953.\n3.Civil Aviation Authority of Singapore\nCivil Aviation Authority of Singapore Act 2009.\n4.Civil Service College\nCivil Service College Act 2001.\n5.Defence Science and Technology Agency\nDefence Science and Technology Agency Act 2000.\n6.Enterprise Singapore Board\nEnterprise Singapore Board Act 2018.\n7.Economic Development Board\nEconomic Development Board Act 1961.\n8.Health Sciences Authority\nHealth Sciences Authority Act 2001.\n9.Home Team Science and Technology Agency\nHome Team Science and Technology Agency Act 2019.\n10.Housing and Development Board\nHousing and Development Act 1959.\n11.Info‑communications Media Development Authority\nInfo‑communications Media Development Authority Act 2016.\n12.Inland Revenue Authority of Singapore\nInland Revenue Authority of Singapore Act 1992.\n13.Intellectual Property Office of Singapore\nIntellectual Property Office of Singapore Act 2001.\n14.Jurong Town Corporation\nJurong Town Corporation Act 1968.\n15.Land Transport Authority of Singapore\nLand Transport Authority of Singapore Act 1995.\n16.Maritime and Port Authority of Singapore\nMaritime and Port Authority of Singapore Act 1996.\n17.Monetary Authority of Singapore\nMonetary Authority of Singapore Act 1970.\n18.National Parks Board\nNational Parks Board Act 1996.\n19.Public Utilities Board\nPublic Utilities Act 2001.\n20.Singapore Food Agency\nSingapore Food Agency Act 2019.\n21.Singapore Land Authority\nSingapore Land Authority Act 2001.\n22.Singapore Tourism Board\nSingapore Tourism Board Act 1963.\n23.Urban Redevelopment Authority\nUrban Redevelopment Authority Act 1989.\n[4/99; 41/99; 9/2000; 3/2001; 17/2001; 3/2005; 17/2009; 20/2018; S 613/2001; S 210/2011; S 174/2019; S 738/2019; S 831/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Evidence Act 1893",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

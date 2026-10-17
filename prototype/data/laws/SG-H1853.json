@@ -1,7 +1,7 @@
 {
  "id": "SG-H1853",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（商店振兴计划）（第 2 号）命令 2025",
   "en": "Housing and Development (Precincts for Upgrading Works) (Revitalisation of Shops Scheme) (No. 2) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Jurong West Street 91, Jurong West Street 92, Jurong West Street 93 and Pioneer Road North, comprised in Lot number 01711T in Mukim 09 and on which Apartment Blocks 959, 960, 961, 962, 963, 964, 965 and 966 are erected, and which is more particularly delineated in Plan 1.\nPLAN 1\nJURONG WEST STREET 92 / JURONG WEST STREET 91 /\nJURONG WEST STREET 93\n2. All that part of the housing estate of the Board bounded by Woodlands Avenue 1, Woodlands Avenue 3 and Woodlands Street 31, comprised in Lot number 02152V in Mukim 13 and on which Apartment Blocks 301, 302, 303, 304, 304A, 304B, 305 and 306 are erected, and in Lot number 02156K in Mukim 13 and on which Apartment Block 306A is erected, and which is more particularly delineated in Plan 2.\nPLAN 2\nWOODLANDS STREET 31"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Revitalisation of Shops Scheme) (No. 2) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H8226",
  "title": {
-  "zh": null,
+  "zh": "将莱特省哈罗市镇波布拉西翁描笼涯的Granja - Kalinawan国立中学Canhandugan附属校从该校分离，改设为Agapito Amado纪念国立中学并为此拨款的法案",
   "en": "An Act Separating the Granja - Kalinawan National High School - Canhandugan Annex in Barangay Poblacion, Municipality of Jaro, Province of Leyte from the Granja - Kalinawan National High School, Converting it into an Independent National High School to Be Known as Agapito Amado Memorial National High School and Appropriating Funds therefor",
   "orig": "An Act Separating the Granja - Kalinawan National High School - Canhandugan Annex in Barangay Poblacion, Municipality of Jaro, Province of Leyte from the Granja - Kalinawan National High School, Converting it into an Independent National High School to Be Known as Agapito Amado Memorial National High School and Appropriating Funds therefor"
  },
@@ -81,5 +81,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Granja - Kalinawan National High School - Canhandugan Annex in Barangay Poblacion, Municipality of Jaro, Province of Leyte from the Granja - Kalinawan National High School, Converting it into an Independent National High School to Be Known as Agapito Amado Memorial National High School and Appropriating Funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

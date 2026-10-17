@@ -1,7 +1,7 @@
 {
  "id": "PH-H228",
  "title": {
-  "zh": null,
+  "zh": "修订《修正行政法典》第2434条（a）项的法案",
   "en": "An Act Amending Section Two Thousand Four Hundred Thirty-Four (a) of the Revised Administrative Code",
   "orig": "An Act Amending Section Two Thousand Four Hundred Thirty-Four (a) of the Revised Administrative Code"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Two Thousand Four Hundred Thirty-Four (a) of the Revised Administrative Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

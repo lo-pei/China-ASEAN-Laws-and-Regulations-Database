@@ -1,7 +1,7 @@
 {
  "id": "PH-H9267",
  "title": {
-  "zh": null,
+  "zh": "将依第 8115 号共和国法授予 Far East 广播公司（菲律宾）在菲律宾建设、维护和运营非商业无线电广播站的特许经营权续展的法案",
   "en": "An Act Renewing the Franchise Granted to Far East Broadcasting Company (Philippines), Inc. Under Republic Act No. 8115, Entitled “An Act Granting the Far East Broadcasting Company (Philippines), Inc., a Franchise to Construct, Maintain and Operate Non-Commercial Radio Broadcasting Stations in the Philippines”",
   "orig": "An Act Renewing the Franchise Granted to Far East Broadcasting Company (Philippines), Inc. Under Republic Act No. 8115, Entitled “An Act Granting the Far East Broadcasting Company (Philippines), Inc., a Franchise to Construct, Maintain and Operate Non-Commercial Radio Broadcasting Stations in the Philippines”"
  },
@@ -221,5 +221,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing the Franchise Granted to Far East Broadcasting Company (Philippines), Inc. Under Republic Act No. 8115, Entitled “An Act Granting the Far East Broadcasting Company (Philippines), Inc., a Franchise to Construct, Maintain and Operate Non-Commercial Radio Broadcasting Stations in the Philippines”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

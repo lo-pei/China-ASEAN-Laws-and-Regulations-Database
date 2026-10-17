@@ -1,7 +1,7 @@
 {
  "id": "PH-H6455",
  "title": {
-  "zh": null,
+  "zh": "规定为奎松省第四国会选区设立工程区并为其运作与维护拨款的法案",
   "en": "An Act Providing for the Creation of An Engineering District for the Fourth Congressional District, Quezon Province and Appropriating Funds for the Operation and Maintenance Thereof",
   "orig": "An Act Providing for the Creation of An Engineering District for the Fourth Congressional District, Quezon Province and Appropriating Funds for the Operation and Maintenance Thereof"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Creation of An Engineering District for the Fourth Congressional District, Quezon Province and Appropriating Funds for the Operation and Maintenance Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

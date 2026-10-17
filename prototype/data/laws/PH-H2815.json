@@ -1,7 +1,7 @@
 {
  "id": "PH-H2815",
  "title": {
-  "zh": null,
+  "zh": "授权并批准将第1835号共和国法授予 Honorio G. Reyes 先生的临时许可转让给 Enrique M. Orozco 先生的法案",
   "en": "An Act Authorizing and Approving the Transfer of the Temporary Permit Granted to Mr. Honorio G. Reyes by Republic Act Numbered Eighteen Hundred Thirty-Five in Favor of Mr. Enrique M. Orozco",
   "orig": "An Act Authorizing and Approving the Transfer of the Temporary Permit Granted to Mr. Honorio G. Reyes by Republic Act Numbered Eighteen Hundred Thirty-Five in Favor of Mr. Enrique M. Orozco"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing and Approving the Transfer of the Temporary Permit Granted to Mr. Honorio G. Reyes by Republic Act Numbered Eighteen Hundred Thirty-Five in Favor of Mr. Enrique M. Orozco",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

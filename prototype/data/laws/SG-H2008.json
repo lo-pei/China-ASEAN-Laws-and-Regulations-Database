@@ -1,7 +1,7 @@
 {
  "id": "SG-H2008",
  "title": {
-  "zh": null,
+  "zh": "所得税（与 COVID-19 活动有关的福利豁免）规则 2022",
   "en": "Income Tax (Exemption of Benefits Received in Connection with COVID-19 Events) Rules 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 13X(1)(h) of the Act, the following are exempt from tax:\n(a)a cash payment made by the Government to an individual, under the public scheme known as the COVID‑19 Recovery Grant;\n(b)a cash payment made by the Government to an individual, under the public scheme known as the COVID‑19 Recovery Grant (Temporary);\n(c)a cash payment made on behalf of the Government to an individual out of a payment made by the Government to the Market and Hawker Centre Relief Fund, under a public scheme announced by the Government on 23 July 2021;\n(d)a cash payment made on behalf of the Government to a person, under the public scheme known as the Rental Support Scheme;\n[S 466/2022 wef 03/06/2022]\n(e)a cash payment made on behalf of the Government to a person, under the public scheme known as the Small Business Recovery Grant.\n[S 466/2022 wef 03/06/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Benefits Received in Connection with COVID-19 Events) Rules 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

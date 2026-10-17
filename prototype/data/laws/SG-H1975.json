@@ -1,7 +1,7 @@
 {
  "id": "SG-H1975",
  "title": {
-  "zh": null,
+  "zh": "所得税（Cromwell 新加坡第 5 号特殊目的公司——第 13(12) 条豁免）命令 2021",
   "en": "Income Tax (Cromwell SG SPV 5 Pte Ltd — Section 13(12) Exemption) Order 2021",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2(2)\nName of property\nAddress of property in Italy\n1.Padova\nVia Brigata Padova no. 19\n2.Pescara\nVia Salaria Vecchia no. 13, Pescara\n3.Saronno\nVia Varese no. 23, Saronno\n4.Bari Europa\nViale Europa no. 95, Bari\n5.Lissone\nVia Madre Teresa di Calcutta no. 4, Lissone\n6.Rutigliano\nStrada Provinciale Adelfia, Rutigliano\n7.Mestre\nRampa Cavalcavia no. 16/18 Mestre\n8.Cuneo\nCorso Annibale di Santa Rosa no. 15, Cuneo\n9.Firenze\nVia della Fortezza 8, Florence\n10.Milano Nervesa\nVia Nervesa no. 21, Milan\n11.Assago\nVia Milanofiori no. 1, F7‑F11, Assago\n12.Roma Pianciani\nVia Pianciani no. 26, Rome\n13.Roma Amba Aradam\nVia dell’Amba Aradam no. 5, Rome\n14.Via Guglielmo Jervis 13\nVia Guglielmo Jervis 13, Ivrea\n15.Bari Trieste\nCorso Lungomare Trieste 23, Bari\n16.Genova\nVia Camillo Finocchiaro Aprile 1, Genova\n17.Agrate\nVia Paracelso 22‑24‑26\n18.Milano Piazza Affari\nPiazza Affari 2, Milan"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Cromwell SG SPV 5 Pte Ltd — Section 13(12) Exemption) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H296",
  "title": {
-  "zh": null,
+  "zh": "修订第36号共和国法第1条，使其第2条至第38条继续完全有效，并增拨六百五十万比索以实现该法目的及为其他目的法案",
   "en": "An Act Amending Section One of Republic Act Numbered Thirty-Six, Continuing in Full Force Sections Two to Thirty-Eight Thereof, and Appropriating the Additional Sum of Six and One-Half Million Pesos to Carry Out the Purpose of the Said Act and for Other Purpose",
   "orig": "An Act Amending Section One of Republic Act Numbered Thirty-Six, Continuing in Full Force Sections Two to Thirty-Eight Thereof, and Appropriating the Additional Sum of Six and One-Half Million Pesos to Carry Out the Purpose of the Said Act and for Other Purpose"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 4, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section One of Republic Act Numbered Thirty-Six, Continuing in Full Force Sections Two to Thirty-Eight Thereof, and Appropriating the Additional Sum of Six and One-Half Million Pesos to Carry Out the Purpose of the Said Act and for Other Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

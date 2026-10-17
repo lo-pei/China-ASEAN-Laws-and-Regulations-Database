@@ -1,7 +1,7 @@
 {
  "id": "SG-H3605",
  "title": {
-  "zh": null,
+  "zh": "铁路法 1905",
   "en": "Railways Act 1905",
   "orig": null
  },
@@ -1632,5 +1632,13 @@
     "en": "THE SCHEDULE\nSection 40.\nArticles of special value\n(a)Gold and silver, coined or uncoined, manufactured or unmanufactured;\n(b)plated articles;\n(c)cloths and tissue and lace of which gold or silver forms part, not being the uniform or part of the uniform of an officer, sailor, soldier, airman, police officer or of any public officer entitled to wear uniform;\n(d)pearls, precious stones, jewellery and trinkets;\n(e)watches, clocks and timepieces of any description;\n(f)Government securities;\n(g)Government stamps;\n(h)bills of exchange, hundis, promissory notes, bank notes and orders or other securities for payment of money;\n(i)maps, writings and title deeds;\n(j)paintings, engravings, lithographs, photographs, carvings, sculpture and other works of art;\n(k)art pottery and all articles made of glass, china or marble;\n(l)silks in a manufactured or unmanufactured state, and whether wrought up or not wrought up with other materials;\n(m)shawls;\n(n)lace and furs;\n(o)opium;\n(p)ivory, ebony, coral and sandalwood;\n(q)musk, sandalwood oil and other essential oils used in the preparation of perfume;\n(r)musical and scientific instruments;\n(s)any article of special value which the Minister, by notification in the Gazette, adds to this Schedule."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Railways Act 1905",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

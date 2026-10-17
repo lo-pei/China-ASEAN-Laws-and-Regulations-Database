@@ -1,7 +1,7 @@
 {
  "id": "PH-H3394",
  "title": {
-  "zh": null,
+  "zh": "将均位于高山省本格特副省Buguias市镇的Loo国立职业职业学校与Buguias国立职业学校合并为一所学校，名称为Buguias-Loo农工业学校，并合并其拨款",
   "en": "An Act Merging the Loo National Vocational Trade School and the Buguias National Trade School, Both Located in the Municipality of Buguias, Sub-Province of Benguet, Mountain Province, into One School, to be Known as Buguias-Loo Agro-Industrial School, and Consolidating the Appropriations Therefor",
   "orig": "An Act Merging the Loo National Vocational Trade School and the Buguias National Trade School, Both Located in the Municipality of Buguias, Sub-Province of Benguet, Mountain Province, into One School, to be Known as Buguias-Loo Agro-Industrial School, and Consolidating the Appropriations Therefor"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 4, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Merging the Loo National Vocational Trade School and the Buguias National Trade School, Both Located in the Municipality of Buguias, Sub-Province of Benguet, Mountain Province, into One School, to be Known as Buguias-Loo Agro-Industrial School, and Consolidating the Appropriations Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

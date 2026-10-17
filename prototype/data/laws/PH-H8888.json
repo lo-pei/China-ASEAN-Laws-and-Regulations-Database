@@ -1,7 +1,7 @@
 {
  "id": "PH-H8888",
  "title": {
-  "zh": null,
+  "zh": "将北拉瑙省伊利甘市 Ditucalan 描笼涯的 Maria Cristina 国立中学的 Ditucalan 附属校分离，改设为独立的同名国立中学，并为此拨款",
   "en": "An Act Separating the Maria Cristina National High School - Ditucalan Annex in Barangay Ditucalan, City of Iligan, Province of Lanao Del Norte From the Maria Cristina National High School, Converting It into an Independent National High School to be Known as Ditucalan National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Maria Cristina National High School - Ditucalan Annex in Barangay Ditucalan, City of Iligan, Province of Lanao Del Norte From the Maria Cristina National High School, Converting It into an Independent National High School to be Known as Ditucalan National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Maria Cristina National High School - Ditucalan Annex in Barangay Ditucalan, City of Iligan, Province of Lanao Del Norte From the Maria Cristina National High School, Converting It into an Independent National High School to be Known as Ditucalan National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2919",
  "title": {
-  "zh": null,
+  "zh": "修订第2957号共和国法（即《授予Jose M. F. Belo在卡皮斯省与Roxas市范围内经营电话通信系统特许权》）第7条的法案",
   "en": "An Act to Amend Section Seven of Republic Act Numbered Twenty-Nine Hundred and Fifty-Seven, Entitled “An Act to Grant Telephone Communication System Franchise to Jose M. F. Belo Within the Province of Capiz and Roxas City”",
   "orig": "An Act to Amend Section Seven of Republic Act Numbered Twenty-Nine Hundred and Fifty-Seven, Entitled “An Act to Grant Telephone Communication System Franchise to Jose M. F. Belo Within the Province of Capiz and Roxas City”"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect as of June nineteen, nineteen hundred sixty.\nApproved: June 16, 1962."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Seven of Republic Act Numbered Twenty-Nine Hundred and Fifty-Seven, Entitled “An Act to Grant Telephone Communication System Franchise to Jose M. F. Belo Within the Province of Capiz and Roxas City”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

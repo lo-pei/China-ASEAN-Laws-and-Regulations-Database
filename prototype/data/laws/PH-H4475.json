@@ -1,7 +1,7 @@
 {
  "id": "PH-H4475",
  "title": {
-  "zh": null,
+  "zh": "修订第3101号共和国法（关于伊莎贝拉省公共工程项目）第一编B部分“A”段伊莎贝拉省第24目第95页第34项的法案",
   "en": "An Act Amending Item 34, Page 95, Subparagraph 24, for the Province of Isabela, Paragraph \"A\", Title B, Section One of Republic Act Numbered Thirty-One Hundred One (Re Public Works Projects for the Province of Isabela)",
   "orig": "An Act Amending Item 34, Page 95, Subparagraph 24, for the Province of Isabela, Paragraph \"A\", Title B, Section One of Republic Act Numbered Thirty-One Hundred One (Re Public Works Projects for the Province of Isabela)"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Item 34, Page 95, Subparagraph 24, for the Province of Isabela, Paragraph \"A\", Title B, Section One of Republic Act Numbered Thirty-One Hundred One (Re Public Works Projects for the Province of Isabela)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10021",
  "title": {
-  "zh": null,
+  "zh": "确定2022年全国与地方选举选民登记截止日期的法案",
   "en": "An Act Fixing the Last Day of Registration of Voters for the 2022 National and Local Elections",
   "orig": "An Act Fixing the Last Day of Registration of Voters for the 2022 National and Local Elections"
  },
@@ -70,5 +70,13 @@
     "en": "Effectivity. - This Act shall take effect immediately after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Fixing the Last Day of Registration of Voters for the 2022 National and Local Elections",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

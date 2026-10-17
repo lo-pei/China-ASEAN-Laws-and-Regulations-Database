@@ -1,7 +1,7 @@
 {
  "id": "SG-H3474",
  "title": {
-  "zh": null,
+  "zh": "停车场所（重型车辆停放——备案）规则 2026",
   "en": "Parking Places (Parking of Heavy Vehicles — Lodgement) Rules 2026",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9. A person must not, in providing any information or document required under rule 7(2), provide any information or document that the person knows to be false or misleading in a material particular."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Parking Places (Parking of Heavy Vehicles — Lodgement) Rules 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

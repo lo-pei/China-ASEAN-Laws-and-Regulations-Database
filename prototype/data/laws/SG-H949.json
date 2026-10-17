@@ -1,7 +1,7 @@
 {
  "id": "SG-H949",
  "title": {
-  "zh": null,
+  "zh": "刑事程序法典（过渡规定——被收容的精神不健全者）条例 2011",
   "en": "Criminal Procedure Code (Transitional Provisions — Confined Persons of Unsound Mind) Regulations 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) If a person is, before 2nd January 2011, confined under section 310 or 315 of the repealed Criminal Procedure Code (Cap. 68), then —\n(a)any certification made before 2nd January 2011 under section 318 of the repealed Criminal Procedure Code by a medical officer of a prison or the medical superintendent and 2 visitors of a mental hospital in which the person is confined shall be deemed to be a certification made under section 256(1) of the Code by the principal officer and 2 visitors of the psychiatric institution in which the person is confined; and\n(b)the confinement of the person under section 310 or 315 of the repealed Criminal Procedure Code shall be deemed to be a confinement under section 249(2) or 252 of the Code.\n(2) If a person is, before 2nd January 2011 —\n(a)confined under section 310 or 315 of the repealed Criminal Procedure Code; and\n(b)visited by the medical officer of the prison or visitors of a mental hospital, as the case may be, for the purposes of making a special report to the Minister under section 316 of the repealed Criminal Procedure Code,\nthen any special report so made by the medical officer of the prison or visitors of a mental hospital shall be deemed to be made by 2 of the visitors of a psychiatric institution under section 253 of the Code.\n(3) If a person is, before 2nd January 2011, ordered by the Minister to be delivered to the care and custody of a relative or friend under section 319 of the repealed Criminal Procedure Code, then the person shall be deemed to be so ordered and so delivered under section 255 of the Code.\n(4) If —\n(a)a person is, before 2nd January 2011, remanded for any period to be detained for observation in a mental hospital under section 308 of the repealed Criminal Procedure Code; and\n(b)any certificate containing the written opinion of the medical superintendent on the state of mind of the person is, or is to be, made by the medical superintendent under section 308 of the repealed Criminal Procedure Code,\nthen the person shall be deemed to be remanded under section 247 of the Code, and any certificate of the medical superintendent shall be deemed to be a certificate of the principal officer under section 247 of the Code."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure Code (Transitional Provisions — Confined Persons of Unsound Mind) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

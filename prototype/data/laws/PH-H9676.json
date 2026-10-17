@@ -1,7 +1,7 @@
 {
  "id": "PH-H9676",
  "title": {
-  "zh": null,
+  "zh": "设立能源虚拟一站式服务中心，以简化发电、输电与配电项目许可流程的法案",
   "en": "An Act Establishing the Energy Virtual One-Stop Shop for the Purpose of Streamlining the Permitting Process of Power Generation, Transmission, and Distribution Projects",
   "orig": "An Act Establishing the Energy Virtual One-Stop Shop for the Purpose of Streamlining the Permitting Process of Power Generation, Transmission, and Distribution Projects"
  },
@@ -405,5 +405,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the Energy Virtual One-Stop Shop for the Purpose of Streamlining the Permitting Process of Power Generation, Transmission, and Distribution Projects",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

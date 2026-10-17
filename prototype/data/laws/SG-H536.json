@@ -1,7 +1,7 @@
 {
  "id": "SG-H536",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（退休存款加成计划）条例 2000",
   "en": "Central Provident Fund (Retirement Sum Plus Scheme) Regulations 2000",
   "orig": null
  },
@@ -204,5 +204,13 @@
     "en": "THE SCHEDULE\nRegulation 3\nAmount to be withdrawn by or paid to a member\nFirst column\nSecond column\nDate of the withdrawal or payment\nof monthly income\nSubsistence amount\n(a)On or after 1 January 2001\nbut before 1 July 2001\n$282\n(b)On or after 1 July 2001\nbut before 1 July 2002\n$287\n(c)On or after 1 July 2002\nbut before 1 July 2003\n$291\n(d)On or after 1 July 2003\n$297"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund (Retirement Sum Plus Scheme) Regulations 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

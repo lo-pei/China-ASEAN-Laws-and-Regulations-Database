@@ -1,7 +1,7 @@
 {
  "id": "PH-H9490",
  "title": {
-  "zh": null,
+  "zh": "将黎刹省凯蒂克林—安蒂波洛—特雷莎—莫龙国家公路（经泰泰市镇多洛雷斯描笼涯至莫龙市镇迈班卡尔描笼涯）重新命名为Corazon C. Aquino大道的法案",
   "en": "An Act Renaming the Kay Tikling-Antipolo-Teresa-Morong National Road in the Province of Rizal, Traversing Through Barangay Dolores in the Municipality of Taytay Up to Barangay Maybancal in the Municipality of Morong, as Corazon C. Aquino Avenue",
   "orig": "An Act Renaming the Kay Tikling-Antipolo-Teresa-Morong National Road in the Province of Rizal, Traversing Through Barangay Dolores in the Municipality of Taytay Up to Barangay Maybancal in the Municipality of Morong, as Corazon C. Aquino Avenue"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Kay Tikling-Antipolo-Teresa-Morong National Road in the Province of Rizal, Traversing Through Barangay Dolores in the Municipality of Taytay Up to Barangay Maybancal in the Municipality of Morong, as Corazon C. Aquino Avenue",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1410",
  "title": {
-  "zh": null,
+  "zh": "修订菲律宾国家银行宪章的法案",
   "en": "An Act Revising the Charter of the Philippine National Bank",
   "orig": "An Act to Add New Section to be Known as Section Nine-A to Republic Act Numbered One Thousand and Three Hundred, Entitled “An Act Revising the Charter of the Philippine National Bank”"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Revising the Charter of the Philippine National Bank",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

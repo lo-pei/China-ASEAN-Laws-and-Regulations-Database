@@ -1,7 +1,7 @@
 {
  "id": "SG-H2804",
  "title": {
-  "zh": null,
+  "zh": "工艺教育学院条例",
   "en": "Institute of Technical Education Regulations",
   "orig": null
  },
@@ -336,5 +336,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nScheduled Matters\n(1)\nSpeaking disparagingly of the Institute or the Government in a manner calculated to bring the Institute or the Government into disrepute.\n(2)\nBeing rude to the public in speech.\n(3)\nBeing discourteous to the public in manner.\n(4)\nUnpunctuality.\n(5)\nAbsence from duty without leave or reasonable cause.\n(6)\nSleeping on duty.\n(7)\nNon-compliance with or disobedience of orders or instructions.\n(8)\nBeing under the influence of alcohol or drugs while on duty.\n(9)\nInsubordination.\n(10)\nNeglect of duty.\n(11)\nExcess of duty.\n(12)\nCarelessness or negligence resulting in loss of or damage to the Institute’s property.\n(13)\nWilful destruction of or damage to the Institute’s property.\n(14)\nImpropriety in dress or appearance.\n(15)\nUsing personal violence on any person, except in the case of —\n(a)self-defence; or\n(b)defence of any other officer or person.\n(16)\nMaking a false or misleading statement in the course of duty.\n(17)\nOther conduct prejudicial to good order or discipline.\n[G.N. No. S 240/2003]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Institute of Technical Education Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2072",
  "title": {
-  "zh": null,
+  "zh": "将Tacloban Electric Light and Ice Plants在塔克洛班市经营电灯、热力与动力系统的特许经营权期限予以延长并作出相关规定的法案",
   "en": "An Act Extending the Term of the Electric Light, Heat and Power Franchise of the Tacloban Electric Light and Ice Plants Co., Inc.",
   "orig": "An Act Extending the Term of the Electric Light, Heat and Power Franchise of the Tacloban Electric Light and Ice Plants Co., Inc."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Term of the Electric Light, Heat and Power Franchise of the Tacloban Electric Light and Ice Plants Co., Inc.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

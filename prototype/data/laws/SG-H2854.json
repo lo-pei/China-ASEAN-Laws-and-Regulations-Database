@@ -1,7 +1,7 @@
 {
  "id": "SG-H2854",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（科伦坡计划技术教育职员学院）命令 1974",
   "en": "International Organisations (Immunities and Privileges) (Colombo Plan Staff College for Technician Education) Order 1974",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) Officials of the College who are part of the senior administrative staff and professional staff and whose names are communicated to and are approved by the Government enjoy exemption from income tax in respect of emoluments received by them as officials of the College.\n(2) In this Order, “officials of the College” includes experts and consultants performing missions for the College."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "International Organisations (Immunities and Privileges) (Colombo Plan Staff College for Technician Education) Order 1974",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

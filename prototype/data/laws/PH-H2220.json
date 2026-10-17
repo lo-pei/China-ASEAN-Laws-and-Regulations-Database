@@ -1,7 +1,7 @@
 {
  "id": "PH-H2220",
  "title": {
-  "zh": null,
+  "zh": "将黎刹省 Morong 市镇的政府所在地从其现址 San Juan 村迁至同一市镇 San Pedro 村的法案",
   "en": "An Act Transferring the Seat of the Government of the Municipality of Morong, Province of Rizal, from its Present Site in the Barrio of San Juan to the Barrio of San Pedro in the Same Municipality",
   "orig": "An Act Transferring the Seat of the Government of the Municipality of Morong, Province of Rizal, from its Present Site in the Barrio of San Juan to the Barrio of San Pedro in the Same Municipality"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring the Seat of the Government of the Municipality of Morong, Province of Rizal, from its Present Site in the Barrio of San Juan to the Barrio of San Pedro in the Same Municipality",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

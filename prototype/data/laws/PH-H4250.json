@@ -1,7 +1,7 @@
 {
  "id": "PH-H4250",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统将位于马尼拉市的一幅国家政府私产土地出售给黎刹骑士会",
   "en": "An Act Authorizing the President of the Philippines to Sell a Certain Parcel of Land of the Private Domain of the National Government, Located in the City of Manila, to the Knights of Rizal",
   "orig": "An Act Authorizing the President of the Philippines to Sell a Certain Parcel of Land of the Private Domain of the National Government, Located in the City of Manila, to the Knights of Rizal"
  },
@@ -90,5 +90,13 @@
     "en": "The Knights of Rizal is hereby authorized to mortgage the above-described property for the purpose of constructing the building or buildings to government-owned or controlled corporations only.\nIn case the Knights of Rizal is dissolved, ceases, for any reason, to undertake its objectives, or ceases to need the land for any reason, the said land shall ipso facto revert to the National Government without compensation.\nAll the foregoing conditions shall be included in the deed of transfer to be executed by the President of the Philippines and annotated at the back of the title.\nApproved: September 30, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Sell a Certain Parcel of Land of the Private Domain of the National Government, Located in the City of Manila, to the Knights of Rizal",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

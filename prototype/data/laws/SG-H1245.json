@@ -1,7 +1,7 @@
 {
  "id": "SG-H1245",
  "title": {
-  "zh": null,
+  "zh": "雇佣（非全日制雇员）条例",
   "en": "Employment (Part-Time Employees) Regulations",
   "orig": null
  },
@@ -208,5 +208,13 @@
     "en": "THE SCHEDULE\nRegulations 2 and 3(2)\nFormula for determining\nhourly basic rate of pay,\nhours of work for one day or one week,\nand hourly gross rate of pay\n1. The hourly basic rate of pay of a part-time employee is computed as follows:\n(a)in the case of a daily rated part-time employee:\n(b)in the case of a monthly rated part-time employee:\n2. The hours of work for one day or one week of a part-time employee are computed as follows:\n(a)in the case of hours of work for one day:\n(b)in the case of hours of work for one week:\n3. The hourly gross rate of pay of a part-time employee is computed as follows:\n(a)in the case of a daily rated part-time employee:\n(b)in the case of a monthly rated part-time employee:\n[S 140/2017 wef 01/04/2017]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment (Part-Time Employees) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

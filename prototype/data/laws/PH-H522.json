@@ -1,7 +1,7 @@
 {
  "id": "PH-H522",
  "title": {
-  "zh": null,
+  "zh": "将高山省本格特副省La Trinidad市镇区改设为正式市镇，名称为La Trinidad市镇的法案",
   "en": "An Act to Convert the Municipal District of La Trinidad, Subprovince of Benguet, Mountain Province, Into a Regular Municipality to Be Known as the Municipality of La Trinidad",
   "orig": "An Act to Convert the Municipal District of La Trinidad, Subprovince of Benguet, Mountain Province, Into a Regular Municipality to Be Known as the Municipality of La Trinidad"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Municipal District of La Trinidad, Subprovince of Benguet, Mountain Province, Into a Regular Municipality to Be Known as the Municipality of La Trinidad",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

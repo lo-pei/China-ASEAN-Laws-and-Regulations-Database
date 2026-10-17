@@ -1,7 +1,7 @@
 {
  "id": "SG-H1610",
  "title": {
-  "zh": null,
+  "zh": "日内瓦公约法 1973",
   "en": "Geneva Conventions Act 1973",
   "orig": null
  },
@@ -290,5 +290,13 @@
     "en": "SIXTH SCHEDULE\nSection 2\nDistinctive Emblems of the Geneva Conventions\nPart 1\nRed Crescent Emblem\nPart 2\nRed Cross Emblem\nPart 3\nRed Crystal Emblem\nPart 4\nRed Lion and Sun Emblem\n[55/2007]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Geneva Conventions Act 1973",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

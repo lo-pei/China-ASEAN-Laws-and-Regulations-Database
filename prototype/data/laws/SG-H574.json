@@ -1,7 +1,7 @@
 {
  "id": "SG-H574",
  "title": {
-  "zh": null,
+  "zh": "慈善（行业管理人）条例",
   "en": "Charities (Sector Administrators) Regulations",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) A charity, institution of a public character or person that is affected by any decision of a Sector Administrator may appeal to the Commissioner against that decision.\n(2) The Commissioner may affirm, vary, substitute or annul any decision of a Sector Administrator.\n[G.N. No. S 90/2007]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Charities (Sector Administrators) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

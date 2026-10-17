@@ -1,7 +1,7 @@
 {
  "id": "PH-H762",
  "title": {
-  "zh": null,
+  "zh": "修订第 416 号共和国法（即《菲律宾师范学院宪章》）若干条的法案",
   "en": "An Act to Amend Certain Sections of Republic Act Numbered Four Hundred and Sixteen, Otherwise Known as the Charter of the Philippine Normal College",
   "orig": "An Act to Amend Certain Sections of Republic Act Numbered Four Hundred and Sixteen, Otherwise Known as the Charter of the Philippine Normal College"
  },
@@ -101,24 +101,34 @@
    }
   },
   {
-   "id": "PH-H762-A4_2",
+   "id": "PH-H762-A4-d2",
    "no": 4,
    "noLabel": {
     "en": "Section 4."
    },
    "text": {
     "en": "A new section is hereby added to Republic Act Numbered Four hundred and sixteen, between sections eleven and twelve:\n\"Section 11-A. The Treasurer of the Philippines shall be ex officio Treasurer of the College and all accounts and expenses shall be audited by the Auditor General or his duly authorized representative."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H762-A5_2",
+   "id": "PH-H762-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Section 5."
    },
    "text": {
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of Republic Act Numbered Four Hundred and Sixteen, Otherwise Known as the Charter of the Philippine Normal College",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

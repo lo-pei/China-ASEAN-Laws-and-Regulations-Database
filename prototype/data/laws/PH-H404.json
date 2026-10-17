@@ -1,7 +1,7 @@
 {
  "id": "PH-H404",
  "title": {
-  "zh": null,
+  "zh": "重新设立称为公共土地测量与分割基金的循环基金，以加快依第630号联邦法规定分割公有农业用地并为其他目的法案",
   "en": "An Act Recreating the Revolving Fund, Known as \"The Public Land Survey and Subdivision Fund,\" Intended to Hasten the Subdivision of Public Agricultural Land as Provided for Under Commonwealth Act Numbered Six Hundred Thirty, and for Other Purposes",
   "orig": "An Act Recreating the Revolving Fund, Known as \"The Public Land Survey and Subdivision Fund,\" Intended to Hasten the Subdivision of Public Agricultural Land as Provided for Under Commonwealth Act Numbered Six Hundred Thirty, and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect as of July first, nineteen hundred and forty-eight.\nApproved: June 18, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Recreating the Revolving Fund, Known as \"The Public Land Survey and Subdivision Fund,\" Intended to Hasten the Subdivision of Public Agricultural Land as Provided for Under Commonwealth Act Numbered Six Hundred Thirty, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

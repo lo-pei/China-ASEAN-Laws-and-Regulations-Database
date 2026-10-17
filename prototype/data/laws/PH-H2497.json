@@ -1,7 +1,7 @@
 {
  "id": "PH-H2497",
  "title": {
-  "zh": null,
+  "zh": "在卡加延省贡萨加与加塔兰市镇分别设立圣克拉拉村与库尼格村的法案",
   "en": "An Act Creating the Barrios of Santa Clara and Cunig in the Municipalities of Gonzaga and Gattaran, Respectively, Province of Cagayan",
   "orig": "An Act Creating the Barrios of Santa Clara and Cunig in the Municipalities of Gonzaga and Gattaran, Respectively, Province of Cagayan"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Barrios of Santa Clara and Cunig in the Municipalities of Gonzaga and Gattaran, Respectively, Province of Cagayan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

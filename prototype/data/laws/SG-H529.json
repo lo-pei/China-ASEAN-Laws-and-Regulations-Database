@@ -1,7 +1,7 @@
 {
  "id": "SG-H529",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（第 13C 条规定的情形）条例 2022",
   "en": "Central Provident Fund (Prescribed Circumstances under Section 13C) Regulations 2022",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) For the purpose of section 13C of the Act, the Board may permit a person to pay to the Fund contributions for himself or herself if he or she —\n(a)has withdrawn an amount pursuant to regulation 14(1)(da) of the Central Provident Fund Regulations 1987 relating to his or her designated shares; and\n(b)subsequently applies to the Board to pay to the Fund contributions for himself or herself under section 13C of the Act.\n(2) The amount of the contribution permitted under this regulation must not exceed the amount withdrawn by the person under regulation 14(1)(da) of the Central Provident Fund Regulations 1987.\n[S 215/2026 wef 08/04/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Prescribed Circumstances under Section 13C) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

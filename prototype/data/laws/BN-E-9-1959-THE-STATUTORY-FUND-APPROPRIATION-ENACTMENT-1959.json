@@ -1,7 +1,7 @@
 {
  "id": "BN-E-9-1959-THE-STATUTORY-FUND-APPROPRIATION-ENACTMENT-1959",
  "title": {
-  "zh": null,
+  "zh": "E 9 1959 法定基金拨款成文法 1959",
   "en": "E 9 1959 THE STATUTORY FUND APPROPRIATION ENACTMENT 1959",
   "orig": null
  },
@@ -111,5 +111,13 @@
     "en": "Charge on the Consolidated Fund. Schedule"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "E 9 1959 THE STATUTORY FUND APPROPRIATION ENACTMENT 1959",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

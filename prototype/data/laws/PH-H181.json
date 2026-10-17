@@ -1,7 +1,7 @@
 {
  "id": "PH-H181",
  "title": {
-  "zh": null,
+  "zh": "修订第 466 号联邦法第三编第 86、89、110、112、116 与 122 条的法案",
   "en": "An Act to Amend Sections Eighty-Six, Eighty-Nine, One Hundred and Ten, One Hundred and Twelve, One Hundred and Sixteen and One Hundred and Twenty-Two of Title III of Commonwealth Act Numbered Four Hundred and Sixty-Six",
   "orig": "An Act to Amend Sections Eighty-Six, Eighty-Nine, One Hundred and Ten, One Hundred and Twelve, One Hundred and Sixteen and One Hundred and Twenty-Two of Title III of Commonwealth Act Numbered Four Hundred and Sixty-Six"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect on October first, nineteen hundred and forty-six.\nApproved: October 21, 1946."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Eighty-Six, Eighty-Nine, One Hundred and Ten, One Hundred and Twelve, One Hundred and Sixteen and One Hundred and Twenty-Two of Title III of Commonwealth Act Numbered Four Hundred and Sixty-Six",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

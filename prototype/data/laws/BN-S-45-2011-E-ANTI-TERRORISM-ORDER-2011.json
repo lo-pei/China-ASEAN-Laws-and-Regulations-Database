@@ -1,7 +1,7 @@
 {
  "id": "BN-S-45-2011-E-ANTI-TERRORISM-ORDER-2011",
  "title": {
-  "zh": null,
+  "zh": "反恐怖主义命令 2011",
   "en": "ANTI TERRORISM ORDER 2011",
   "orig": null
  },
@@ -927,5 +927,13 @@
     "en": "Repeal ·of Chapter 1:97.\n\nCOUNTER-TERRORISM CONVENTIONS\n\nION OF BRUNEI DARUSSALAM made under Article 83j3J)\n\nANTI-TERRORISM ORDER, 2011 In exercise of the power conferred by Article 83(3) of the Constitution of Darussalam, His Majesty the Sultan and Yang Di-Pertuan hereby makes the following Order - commencement and long title."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ANTI TERRORISM ORDER 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

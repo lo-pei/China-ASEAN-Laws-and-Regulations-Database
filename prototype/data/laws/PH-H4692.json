@@ -1,7 +1,7 @@
 {
  "id": "PH-H4692",
  "title": {
-  "zh": null,
+  "zh": "授权出售碧瑶市碧瑶镇区十四块公共土地的法案",
   "en": "An Act Authorizing the Sale of Fourteen Parcels of Public Land in the Baguio Townsite, City of Baguio.",
   "orig": "An Act Authorizing the Sale of Fourteen Parcels of Public Land in the Baguio Townsite, City of Baguio."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Sale of Fourteen Parcels of Public Land in the Baguio Townsite, City of Baguio.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

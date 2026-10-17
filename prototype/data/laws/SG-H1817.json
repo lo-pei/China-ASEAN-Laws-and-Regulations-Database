@@ -1,7 +1,7 @@
 {
  "id": "SG-H1817",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 2 号）命令 2026",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 2) Order 2026",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Ang Mo Kio Street 11, Ang Mo Kio Avenue 4, Mayflower Rise and Mayflower Avenue, comprised in Lot number 13267P in Mukim 18 and on which Apartment Blocks 104A and 104B are erected, which blocks are each marked with a grey dot in Plan 1.\nPlan 1\nAng Mo Kio street 11\n2. All that part of the housing estate of the Board bounded by Ang Mo Kio Street 21 and Ang Mo Kio Street 11, comprised in Lot number 13248W in Mukim 18 and on which Apartment Blocks 253 and 253A are erected, which blocks are each marked with a grey dot in Plan 2.\nPlan 2\nang mo kio street 21\n3. All that part of the housing estate of the Board bounded by Pasir Ris Street 51 and Pasir Ris Drive 1, comprised in Lot number 01187K in Mukim 29 and on which Apartment Blocks 544, 545, 546, 547, 548, 549 and 550 are erected, in Lot number 01223W in Mukim 29 and on which Apartment Blocks 551, 552, 553, 554, 555 and 556 are erected, in Lot number 01395A in Mukim 29 and on which Apartment Blocks 557, 558 and 559 are erected, and in Lot number 01337L in Mukim 29 and on which Apartment Blocks 560, 561 and 562 are erected, which blocks are each marked with a grey dot in Plan 3.\nPlan 3\npasir ris street 51\n4. All that part of the housing estate of the Board at Woodlands Ring Road comprised in Lot number 03277A in Mukim 13 and on which Apartment Blocks 659, 660, 661, 662, 663 and 664 are erected, which blocks are each marked with a grey dot in Plan 4.\nPlan 4\nwoodlands ring road"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 2) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

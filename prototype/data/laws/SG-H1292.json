@@ -1,7 +1,7 @@
 {
  "id": "SG-H1292",
  "title": {
-  "zh": null,
+  "zh": "濒危物种（进出口）（第 5(1) 条规定资料）规则 2022",
   "en": "Endangered Species (Import and Export) (Prescribed Information for Section 5(1)) Rules 2022",
   "orig": null
  },
@@ -84,5 +84,13 @@
     "en": "SECOND SCHEDULE\nRule 2(1)(b) and (2)(b)\nPrescribed information for Non-Party to CITES\n1.The complete name and signature of the competent authority.\n2.The complete names and addresses of the exporter and importer.\n3.The scientific name of the species to which the scheduled species belong (or the subspecies in the case where it is relevant to determine in which Appendix of the Schedule to the Act the taxon concerned is included) in accordance with the adopted standard nomenclature.\n4.The source of the scheduled species.\n5.In the case of an export of the scheduled species in Appendix I or II of the Schedule to the Act, a declaration to the effect that the competent scientific institution has advised that the export will not be detrimental to the survival of the scheduled species and that the scheduled species were not obtained in contravention of the laws of the place of export.\n6.The quantity of the scheduled species and if appropriate, the unit of measure used.\n7.The date of issue and the date of expiry of the document.\n8.The name of the signatory and the signatory’s handwritten signature for paper documents or its electronic equivalent for electronic documents.\n9.The embossed seal or official ink stamp of the competent authority issuing the document or its electronic equivalent.\n10.In the case of export or re‑export of live specimens of the scheduled species, a declaration to the effect that the scheduled species will be transported in a manner that will minimise the risk of injury, damage to health or cruel treatment.\n11.The actual quantity of scheduled species exported, certified by the stamp, seal or signature of the authority that carried out inspection of the scheduled species at the time of exportation.\n12.In the case of a re‑export, the name of the place of origin of the specimen concerned and —\n(a)if the place of origin was a Party to CITES, the unique control number of the export permit issued by the Party to CITES and the date of issue;\n(b)if the place of origin was not a Party to CITES, a declaration to the effect that the competent authority of the place of origin has issued an export document that substantially meets the requirements of Article VI of CITES; and\n(c)if any information referred to in sub‑paragraph (a) or (b) is omitted, the justification for the omission."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Endangered Species (Import and Export) (Prescribed Information for Section 5(1)) Rules 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

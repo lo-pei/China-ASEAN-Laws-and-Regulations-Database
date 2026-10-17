@@ -1,7 +1,7 @@
 {
  "id": "PH-H569",
  "title": {
-  "zh": null,
+  "zh": "设立住房融资委员会、刺激住房建设与土地所有权、促进土地开发、通过保险抵押制度提供宽松融资并通过在保险机构积累储蓄发展节俭的法案",
   "en": "An Act to Create the Home Financing Commission, to Stimulate Home Building and Land Ownership and to Promote the Development of Land for That Purpose, Provide Liberal Financing Through An Insured Mortgage System, and Develop Thrift Through the Accumulation of Savings in Insured Institutions.",
   "orig": "An Act to Create the Home Financing Commission, to Stimulate Home Building and Land Ownership and to Promote the Development of Land for That Purpose, Provide Liberal Financing Through An Insured Mortgage System, and Develop Thrift Through the Accumulation of Savings in Insured Institutions."
  },
@@ -300,5 +300,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, September 15, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Create the Home Financing Commission, to Stimulate Home Building and Land Ownership and to Promote the Development of Land for That Purpose, Provide Liberal Financing Through An Insured Mortgage System, and Develop Thrift Through the Accumulation of Savings in Insured Institutions.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

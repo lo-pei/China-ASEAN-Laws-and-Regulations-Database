@@ -1,7 +1,7 @@
 {
  "id": "PH-H2231",
  "title": {
-  "zh": null,
+  "zh": "将南三宝颜省伊皮尔市镇的Caparan小学与Dalangin小学的名称分别变更为Tiayon小学与DARol Moslem小学的法案",
   "en": "An Act Changing the Names of the Caparan Primary School and Dalangin Primary School in the Municipality of Ipil, Province of Zamboanga del Sur, to Tiayon Primary School and DARol Moslem Primary School, Respectively",
   "orig": "An Act Changing the Names of the Caparan Primary School and Dalangin Primary School in the Municipality of Ipil, Province of Zamboanga del Sur, to Tiayon Primary School and DARol Moslem Primary School, Respectively"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Names of the Caparan Primary School and Dalangin Primary School in the Municipality of Ipil, Province of Zamboanga del Sur, to Tiayon Primary School and DARol Moslem Primary School, Respectively",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

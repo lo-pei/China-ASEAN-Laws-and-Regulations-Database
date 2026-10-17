@@ -1,7 +1,7 @@
 {
  "id": "SG-H585",
  "title": {
-  "zh": null,
+  "zh": "儿童发展共同储蓄条例",
   "en": "Child Development Co-Savings Regulations",
   "orig": null
  },
@@ -403,5 +403,13 @@
     "en": "FOURTH SCHEDULE\nRegulation 2\nIncidental charges\nFirst column\nSecond column\nApproved educational or\ndevelopmental institution\nMatters to which the\nincidental charges relate\n1.Early childhood development centre or preschool\n(1)Uniform and any other attire.\n(2)Insurance coverage for the member or his sibling who is enrolled in the early childhood development centre or preschool.\n(3)Transporting the member or his sibling from the member’s or his sibling’s home to the early childhood development centre or preschool, or from the early childhood development centre or preschool to the member’s or his sibling’s home, or both.\n(4)Attending field trips and excursions outside the early childhood development centre or preschool, including the cost of meals for the member or his sibling and the cost of transporting the member or his sibling to the venue of such field trips and excursions.\n(5)Participating in concerts organised by the preschool or the person who operates the early childhood development centre, including graduation ceremonies.\n(6)Photographs and videos taken of the early childhood development centre’s or preschool’s children and events.\n(7)Maintaining online communication tools and systems between the preschool or the person who operates the early childhood development centre and the parent or guardian of the member or his sibling.\n(8)Enrichment programmes.\n(9)E-learning materials.\n(10)Where the early childhood development centre or preschool provides half‑day services —\n(a)readers, academic materials, stationery, school bags and folders and art and musical materials used in providing those services; and\n(b)meals that are provided to the member or his sibling.\n(11)Where the early childhood development centre or preschool provides full‑day services, use of a mattress, mattress cover or stack cot.\n(12)Where the early childhood development centre or preschool conducts any infant class, the diapers, nappy rash cream, milk bottle, milk powder, cot bedding and any other item which may be consumed or used by the member or his sibling.\n2.Special education school or early intervention centre\n(1)Uniform and any other attire.\n(2)Insurance coverage for the member or his sibling who is enrolled in the special education school or early intervention centre.\n(3)Transporting the member or his sibling from the member’s or his sibling’s home to the special education school or early intervention centre, or from the special education school or early intervention centre to the member’s or his sibling’s home, or both.\n(4)Attending field trips and excursions outside the special education school or early intervention centre, including the cost of meals for the member or his sibling and the cost of transporting the member or his sibling to the venue of such field trips and excursions.\n(5)Programmes conducted in the special education school or early intervention centre to educate the member or his sibling about any place outside the special education school or early intervention centre.\n(6)Materials (whether in electronic, print or other form) used for the educational or developmental course or enrichment purposes, including books.\n(7)Examinations or assessments.\n[S 833/2025 wef 01/01/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Child Development Co-Savings Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

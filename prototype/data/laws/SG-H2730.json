@@ -1,7 +1,7 @@
 {
  "id": "SG-H2730",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 8 号）命令 2020",
   "en": "Infrastructure Protection (Protected Places) (No. 8) Order 2020",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst Column\nSecond Column\nThe Authority\nProtected Place\nDirector‑General of Customs, Singapore Customs\nCUSTOMS OPERATIONS COMMAND\nAll that area comprised in part of State Land Lot 01982T PT in Mukim No. 09 occupied by “CUSTOMS OPERATIONS COMMAND” containing an area of about 15,002 square metres and bounded approximately as follows:\nCommencing at the northernmost corner at a point 37,508.251 metres North and 13,278.091 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n37,508.251\n13,278.091\n37,488.451\n13,300.074\n37,461.129\n13,330.139\n37,452.831\n13,330.497\n37,450.133\n13,330.613\n37,450.050\n13,330.602\n37,435.440\n13,319.211\n37,411.309\n13,300.486\n37,379.810\n13,276.043\n37,354.857\n13,256.680\n37,309.532\n13,221.509\n37,308.547\n13,209.306\n37,327.713\n13,188.570\n37,340.183\n13,174.303\n37,348.436\n13,164.528\n37,353.955\n13,157.799\nto the point of commencement.\nThe boundaries of “CUSTOMS OPERATIONS COMMAND” are more particularly delineated in the Survey Plan set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 8) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

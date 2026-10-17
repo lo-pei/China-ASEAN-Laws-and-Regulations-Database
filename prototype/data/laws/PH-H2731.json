@@ -1,7 +1,7 @@
 {
  "id": "PH-H2731",
  "title": {
-  "zh": null,
+  "zh": "授权基础产业免缴特定税款并为其他目的法案",
   "en": "An Act Authorizing the Exemption of Basic Industries from the Payment of Certain Taxes and for Other Purposes",
   "orig": "An Act Authorizing the Exemption of Basic Industries from the Payment of Certain Taxes and for Other Purposes"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity. This Act shall take effect upon approval and shall continue to be effective until December thirty-first, nineteen hundred sixty-eight.\nApproved: June 17, 1961"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Exemption of Basic Industries from the Payment of Certain Taxes and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

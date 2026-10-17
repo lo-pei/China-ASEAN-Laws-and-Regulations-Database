@@ -1,7 +1,7 @@
 {
  "id": "SG-H2925",
  "title": {
-  "zh": null,
+  "zh": "裕廊镇公司（公章）条例",
   "en": "Jurong Town Corporation (Common Seal) Regulations",
   "orig": null
  },
@@ -90,5 +90,11 @@
     "en": "4.—(1) Any contract or other document, which if made between private persons or by a private person would be required to be in writing under seal, shall if made by the Corporation be in writing under the seal of the Corporation.\n(2) Any contract or other document, which if made between private persons would be required to be in writing signed by the parties to be charged therewith, shall if made by the Corporation be either in writing under the seal of the Corporation or in writing signed by the Chairman or any other officer of the Corporation duly authorised by the Corporation in that behalf."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Jurong Town Corporation (Common Seal) Regulations",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

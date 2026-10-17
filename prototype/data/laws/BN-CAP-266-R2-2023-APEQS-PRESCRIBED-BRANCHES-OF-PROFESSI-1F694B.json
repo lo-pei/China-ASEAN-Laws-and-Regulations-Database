@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-266-R2-2023-APEQS-PRESCRIBED-BRANCHES-OF-PROFESSI-1F694B",
  "title": {
-  "zh": null,
+  "zh": "R2 2023 版 APEQS 专业工程指定分支规则",
   "en": "R2 2023 ED APEQS PRESCRIBED BRANCHES OF PROFESSIONAL ENGINEERING RULES",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "Prescribed branches of professional engineering work ________________________________ Rules made under section 55(1)\n\nARCHITECTS, PROFESSIONAL ENGINEERS AND QUANTITY SURVEYORS (PRESCRIBED BRANCHES OF PROFESSIONAL ENGINEERING) RULES Commencement: 13th September 2012"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R2 2023 ED APEQS PRESCRIBED BRANCHES OF PROFESSIONAL ENGINEERING RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

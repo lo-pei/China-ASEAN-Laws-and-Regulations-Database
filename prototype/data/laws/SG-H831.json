@@ -1,7 +1,7 @@
 {
  "id": "SG-H831",
  "title": {
-  "zh": null,
+  "zh": "植物管制（植物进口）规则",
   "en": "Control of Plants (Plant Importation) Rules",
   "orig": null
  },
@@ -334,5 +334,13 @@
     "en": "FOURTH SCHEDULE\nDeleted by S 258/2005, wef 25/04/2005.\n[G.N. Nos. S 29/94; S 369/94; S368/96; S148/97; S 137/98]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Control of Plants (Plant Importation) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

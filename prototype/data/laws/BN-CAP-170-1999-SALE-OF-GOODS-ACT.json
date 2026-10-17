@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-170-1999-SALE-OF-GOODS-ACT",
  "title": {
-  "zh": null,
+  "zh": "货物买卖法",
   "en": "SALE OF GOODS ACT",
   "orig": null
  },
@@ -762,5 +762,13 @@
     "en": "(1) The rules in bankruptcy t<?contracts of sale to those contracts, notwithstanding anything in this Act.\n\n(2) Act and the rules ofthe common law, Cap.106 including the law merchants, in so far as they are with the provisions of this Act, and i~ particular the rules relating to the law of principal and agent and the of fraud, misrepresentation, duress, mjstake, or other invalidating cause, apply to contracts for the sale of goods. B.L.R.O.111999\n\n(3) Nothing in this Act affects any law relating to bills of sale, or any other law r~latingto saleof goods.\n\n(4) The provisions of this Act about contracts of sale do not apply to a transaction in the form of a contract of sale is intended to operate by way of mortgage, pledge, charge or other security."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SALE OF GOODS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

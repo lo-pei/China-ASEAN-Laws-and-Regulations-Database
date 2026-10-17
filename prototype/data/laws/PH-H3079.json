@@ -1,7 +1,7 @@
 {
  "id": "PH-H3079",
  "title": {
-  "zh": null,
+  "zh": "授权为奎松省 Siain 入境港口的运营与维护拨款十七万五千比索的法案",
   "en": "An Act Authorizing the Appropriation of the Sum of One Hundred Seventy-Five Thousand Pesos for the Operation and Maintenance of the Port of Entry of Siain, Province of Quezon",
   "orig": "An Act Authorizing the Appropriation of the Sum of One Hundred Seventy-Five Thousand Pesos for the Operation and Maintenance of the Port of Entry of Siain, Province of Quezon"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of the Sum of One Hundred Seventy-Five Thousand Pesos for the Operation and Maintenance of the Port of Entry of Siain, Province of Quezon",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

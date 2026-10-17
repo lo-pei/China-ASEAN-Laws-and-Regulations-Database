@@ -1,7 +1,7 @@
 {
  "id": "PH-H8473",
  "title": {
-  "zh": null,
+  "zh": "将起于北三宝颜省辛丹甘、经巴约格至南三宝颜省莱克伍德波布拉西翁的省道改设为国道的法案",
   "en": "An Act Converting the Provincial Road Which Starts From Sindangan in Zamboanga Del Norte and Traverses Bayog to Poblacion, Lakewood in Zamboanga Del Sur Into a National Road",
   "orig": "An Act Converting the Provincial Road Which Starts From Sindangan in Zamboanga Del Norte and Traverses Bayog to Poblacion, Lakewood in Zamboanga Del Sur Into a National Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Provincial Road Which Starts From Sindangan in Zamboanga Del Norte and Traverses Bayog to Poblacion, Lakewood in Zamboanga Del Sur Into a National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

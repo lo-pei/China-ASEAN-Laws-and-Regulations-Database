@@ -1,7 +1,7 @@
 {
  "id": "SG-H1951",
  "title": {
-  "zh": null,
+  "zh": "所得税（核准财务与资金中心优惠税率）条例",
   "en": "Income Tax (Concessionary Rate of Tax for Approved Finance and Treasury Centre) Regulations",
   "orig": null
  },
@@ -126,5 +126,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nPart 1\nEXCHANGES\n1.Australian Securities Exchange Limited\n2.Board of Trade of the City of Chicago, Inc.\n3.Chicago Mercantile Exchange, Inc.\n4.Commodity Exchange, Inc.\n5.Eurex Deutschland\n6.ICE Futures Europe\n7.ICE Futures Singapore Pte Ltd\n8.New York Mercantile Exchange, Inc.\n9.Singapore Exchange Derivatives Trading Limited\n10.Tokyo Stock Exchange\nPart 2\nEXCHANGES FOR PAST TRANSACTIONS\n1.Chicago Board of Trade\n2.Chicago Mercantile Exchange\n3.Commodity Exchange, Incorporated (New York)\n4.Deutsche Terminboerse\n5.London International Financial Futures Exchange\n6.Marche a Terme International de France\n7.New York Mercantile Exchange\n8.New Zealand Futures and Options Exchange\n9.Sydney Futures Exchange\n[S 87/2017 wef 10/03/2017]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Concessionary Rate of Tax for Approved Finance and Treasury Centre) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1043",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛市市长、副市长与议员职位改为民选，为此修订经修正的第 158 号联邦法若干条",
   "en": "An Act Making Elective the Positions of Mayor, Vice-Mayor and Councilors in the City of Iloilo, Amending for Said Purpose Certain Sections of Commonwealth Act Numbered One Hundred Fifty-Eight, as Amended",
   "orig": "An Act Making Elective the Positions of Mayor, Vice-Mayor and Councilors in the City of Iloilo, Amending for Said Purpose Certain Sections of Commonwealth Act Numbered One Hundred Fifty-Eight, as Amended"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 29, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making Elective the Positions of Mayor, Vice-Mayor and Councilors in the City of Iloilo, Amending for Said Purpose Certain Sections of Commonwealth Act Numbered One Hundred Fifty-Eight, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

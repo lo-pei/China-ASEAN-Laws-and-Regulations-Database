@@ -1,7 +1,7 @@
 {
  "id": "SG-H586",
  "title": {
-  "zh": null,
+  "zh": "儿童与青少年（认可医院）公告 2020",
   "en": "Children and Young Persons (Approved Hospitals) Notification 2020",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nApproved hospitals\n1.Alexandra Hospital\n2.Ang Mo Kio – Thye Hua Kwan Hospital\n3.Bright Vision Hospital\n4.Changi General Hospital\n5.Changi General Hospital, Ward 3B at Parkway East Hospital\n6.Concord International Hospital\n7.Farrer Park Hospital\n8.Gleneagles Hospital\n9.Institute of Mental Health/Woodbridge Hospital\n10.Jurong Community Hospital\n11.Khoo Teck Puat Hospital\n12.KK Women’s and Children’s Hospital\n13.Mount Alvernia Hospital\n14.Mount Elizabeth Hospital\n15.Mount Elizabeth Novena Hospital\n16.National Heart Centre Singapore\n17.National University Hospital\n18.Ng Teng Fong General Hospital\n19.Outram Community Hospital\n20.Parkway East Hospital\n21.Raffles Hospital\n22.Ren Ci Community Hospital\n23.Sengkang Community Hospital\n24.Sengkang General Hospital\n25.Singapore General Hospital\n26.Singapore General Hospital Rehabilitation Medicine\n27.St Andrew’s Community Hospital\n28.St Luke’s Hospital\n29.Tan Tock Seng Hospital\n30.Tan Tock Seng Rehabilitation Centre\n31.Tan Tock Seng Hospital Subacute Wards\n32.Thomson Medical Centre\n33.Yishun Community Hospital"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Children and Young Persons (Approved Hospitals) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

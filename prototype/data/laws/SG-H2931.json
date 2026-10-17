@@ -1,7 +1,7 @@
 {
  "id": "SG-H2931",
  "title": {
-  "zh": null,
+  "zh": "裕廊镇公司法 1968",
   "en": "Jurong Town Corporation Act 1968",
   "orig": null
  },
@@ -1158,5 +1158,11 @@
     "en": "THE SCHEDULE\nSection 35(1)\nSymbols of the Corporation\n(Existing symbol)\n(New symbol)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Jurong Town Corporation Act 1968",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

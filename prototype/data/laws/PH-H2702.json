@@ -1,7 +1,7 @@
 {
  "id": "PH-H2702",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第一百八十六号联邦法，该法经第六百六十号、第七百二十八号、第一千一百二十三号、第一千三百七十七号、第一千五百七十三号、第一千六百一十六号及第一千八百二十号共和国法修订",
   "en": "An Act to Further Amend Commonwealth Act Numbered One Hundred Eighty-Six, as Amended by Republic Acts Numbered Six Hundred Sixty, Seven Hundred Twenty-Eight, Eleven Hundred Twenty-Three, Thirteen Hundred Seventy-Seven, Fifteen Hundred Seventy-Three, Sixteen Hundred Sixteen and Eighteen Hundred Twenty",
   "orig": "An Act to Further Amend Commonwealth Act Numbered One Hundred Eighty-Six, as Amended by Republic Acts Numbered Six Hundred Sixty, Seven Hundred Twenty-Eight, Eleven Hundred Twenty-Three, Thirteen Hundred Seventy-Seven, Fifteen Hundred Seventy-Three, Sixteen Hundred Sixteen and Eighteen Hundred Twenty"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Commonwealth Act Numbered One Hundred Eighty-Six, as Amended by Republic Acts Numbered Six Hundred Sixty, Seven Hundred Twenty-Eight, Eleven Hundred Twenty-Three, Thirteen Hundred Seventy-Seven, Fifteen Hundred Seventy-Three, Sixteen Hundred Sixteen and Eighteen Hundred Twenty",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

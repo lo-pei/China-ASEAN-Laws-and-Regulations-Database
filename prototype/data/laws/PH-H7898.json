@@ -1,7 +1,7 @@
 {
  "id": "PH-H7898",
  "title": {
-  "zh": null,
+  "zh": "将莱特省Baybay市镇Pangasugan描笼涯的莱特州立大学更名为米沙鄢州立大学，为此修订第9158号共和国法",
   "en": "An Act Renaming the Leyte State University in Barangay Pangasugan, Municipality of Baybay, Province of Leyte as the Visayas State University, amending for the purpose Republic Act No. 9158, Entitled \"An Act Converting the Visayas State College of Agriculture into a State University to be known as the Leyte State University, appropriating funds therefor and for other purposes\"",
   "orig": "An Act Renaming the Leyte State University in Barangay Pangasugan, Municipality of Baybay, Province of Leyte as the Visayas State University, amending for the purpose Republic Act No. 9158, Entitled \"An Act Converting the Visayas State College of Agriculture into a State University to be known as the Leyte State University, appropriating funds therefor and for other purposes\""
  },
@@ -72,5 +72,13 @@
     "en": "Effectivity - This Act shall take effect fifteen (15) days after its publication in two newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Leyte State University in Barangay Pangasugan, Municipality of Baybay, Province of Leyte as the Visayas State University, amending for the purpose Republic Act No. 9158, Entitled \"An Act Converting the Visayas State College of Agriculture into a State University to be known as the Leyte State University, appropriating funds therefor and for other purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

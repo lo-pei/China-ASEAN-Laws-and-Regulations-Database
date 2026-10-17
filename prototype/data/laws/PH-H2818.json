@@ -1,7 +1,7 @@
 {
  "id": "PH-H2818",
  "title": {
-  "zh": null,
+  "zh": "修订第487号联邦法（即《授予哥打巴托电灯电力公司在哥打巴托市经营电灯、热力与电力系统特许权》）的法案",
   "en": "An Act Amending Commonwealth Act Numbered Four Hundred and Eighty-Seven, Entitled “An Act to Grant to Cotabato Light and Power Company, Incorporated, a Franchise for an Electric Light, Heat, and Power System in Cotabato, Cotabato”",
   "orig": "An Act Amending Commonwealth Act Numbered Four Hundred and Eighty-Seven, Entitled “An Act to Grant to Cotabato Light and Power Company, Incorporated, a Franchise for an Electric Light, Heat, and Power System in Cotabato, Cotabato”"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Commonwealth Act Numbered Four Hundred and Eighty-Seven, Entitled “An Act to Grant to Cotabato Light and Power Company, Incorporated, a Franchise for an Electric Light, Heat, and Power System in Cotabato, Cotabato”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3857",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省萨拉维亚市镇更名为恩里克·B·马加洛纳，以纪念已故参议员恩里克·B·马加洛纳的法案",
   "en": "An Act Changing the Name of the Municipality of Saravia in the Province of Negros Occidental to Enrique B. Magalona in Honor of the Late Senator Enrique B. Magalona",
   "orig": "An Act Changing the Name of the Municipality of Saravia in the Province of Negros Occidental to Enrique B. Magalona in Honor of the Late Senator Enrique B. Magalona"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Municipality of Saravia in the Province of Negros Occidental to Enrique B. Magalona in Honor of the Late Senator Enrique B. Magalona",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2696",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 24 号）命令 2024",
   "en": "Infrastructure Protection (Protected Places) (No. 24) Order 2024",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nChief Executive Officer,\nDSO National Laboratories\nDSO SCIENCE PARK\nAll that area comprised in part of Lot 2157T in Mukim No. 3 occupied by “DSO SCIENCE PARK” containing an area of about 19,936 square metres and bounded approximately as follows:\nCommencing at a point 30,285.040 metres North and 23,064.842 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n30,285.040\n23,064.842\n30,277.589\n23,077.395\n30,273.920\n23,083.552\n30,271.399\n23,087.673\n30,251.224\n23,075.093\n30,243.303\n23,087.795\n30,263.240\n23,100.457\n30,257.395\n23,108.567\n30,251.014\n23,116.269\n30,244.038\n23,123.437\n30,237.090\n23,129.402\n30,229.643\n23,134.745\n30,221.746\n23,139.369\n30,213.455\n23,143.269\n30,204.854\n23,146.407\n30,195.996\n23,148.762\n30,186.139\n23,150.454\n30,176.177\n23,151.323\n30,166.186\n23,151.559\n30,156.187\n23,151.329\n30,146.205\n23,150.802\n30,139.055\n23,150.341\n30,106.281\n23,148.176\n30,091.823\n23,147.559\n30,077.361\n23,147.605\n30,062.928\n23,148.314\n30,048.518\n23,149.687\n30,034.262\n23,152.038\n30,117.058\n23,072.006\n30,167.968\n22,995.627\nto the point of commencement.\nThe boundaries of “DSO SCIENCE PARK” are more particularly delineated in the Survey Plan No. D8825/GAZ filed in the office of the Chief Executive Officer, DSO National Laboratories, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 24) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

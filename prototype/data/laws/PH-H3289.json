@@ -1,7 +1,7 @@
 {
  "id": "PH-H3289",
  "title": {
-  "zh": null,
+  "zh": "通过在一定条件下豁免所需原材料、化学品、染料与零部件的进口及由此制成产品的生产与销售关税与税收，设立重要研究特别基金，促进菲律宾纺织工业并为其他目的法案",
   "en": "An Act to Promote the Textile Industry of the Philippines by Exempting, Under Certain Conditions, Importations of Needed Raw Materials, Chemicals, Dyestuffs and Spare Parts and the Subsequent Manufacture and Sale of Products Derived Therefrom, from Duties and Taxes, by Creating a Special Fund for Vital Research, and for Other Purposes",
   "orig": "An Act to Promote the Textile Industry of the Philippines by Exempting, Under Certain Conditions, Importations of Needed Raw Materials, Chemicals, Dyestuffs and Spare Parts and the Subsequent Manufacture and Sale of Products Derived Therefrom, from Duties and Taxes, by Creating a Special Fund for Vital Research, and for Other Purposes"
  },
@@ -121,5 +121,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Promote the Textile Industry of the Philippines by Exempting, Under Certain Conditions, Importations of Needed Raw Materials, Chemicals, Dyestuffs and Spare Parts and the Subsequent Manufacture and Sale of Products Derived Therefrom, from Duties and Taxes, by Creating a Special Fund for Vital Research, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

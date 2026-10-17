@@ -1,7 +1,7 @@
 {
  "id": "PH-H10071",
  "title": {
-  "zh": null,
+  "zh": "向已故国家检察署退休成员的遗属合法配偶与受抚养子女提供遗属福利并为其拨款的法案",
   "en": "An Act Granting Survivorship Benefits to the Surviving Legitimate Spouse and Dependent Children of a Deceased Retired Member of the National Prosecution Service and Appropriating Funds Therefor",
   "orig": "An Act Granting Survivorship Benefits to the Surviving Legitimate Spouse and Dependent Children of a Deceased Retired Member of the National Prosecution Service and Appropriating Funds Therefor"
  },
@@ -101,5 +101,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Survivorship Benefits to the Surviving Legitimate Spouse and Dependent Children of a Deceased Retired Member of the National Prosecution Service and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

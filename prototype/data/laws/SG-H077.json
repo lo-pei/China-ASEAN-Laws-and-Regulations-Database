@@ -1,7 +1,7 @@
 {
  "id": "SG-H077",
  "title": {
-  "zh": null,
+  "zh": "主动出行（销售某些个人代步工具的豁免）命令 2024",
   "en": "Active Mobility (Exemption for Sale of Certain Personal Mobility Devices) Order 2024",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Section 33(1) of the Act does not apply to a person in respect of the sale or offer for sale of a non‑motorised three‑wheeled pedal cycle or non‑motorised recumbent device that complies with the Road Traffic (Bicycles, Three‑wheeled Pedal Cycles and Recumbent Devices — Construction and Use) Rules 2024."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Exemption for Sale of Certain Personal Mobility Devices) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

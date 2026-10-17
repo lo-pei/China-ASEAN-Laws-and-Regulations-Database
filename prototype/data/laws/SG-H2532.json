@@ -1,7 +1,7 @@
 {
  "id": "SG-H2532",
  "title": {
-  "zh": null,
+  "zh": "所得税（Smit Lamnalco 新加坡私人有限公司——第 13(4) 条豁免）公告 2020",
   "en": "Income Tax (Smit Lamnalco Singapore Pte. Ltd. — Section 13(4) Exemption) Notification 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest of US$10,617,918 payable by Smit Lamnalco Singapore Pte. Ltd. to Smit Lamnalco Ltd, Sharjah Branch office from 1 April 2014 to 15 October 2018 (both dates inclusive), in respect of a loan granted under a loan agreement dated 15 October 2013 for the purpose of financing the acquisition of the vessels “Smit Koongo”, “Smit Yallarm”, “Smit Awoonga”, “Smit Tondoon”, “Smit Kullaroo” and “Smit Leopard”, is exempt from tax.\n(2) The exemption under sub‑paragraph (1) is subject to the conditions specified in the letter of approval dated 28 August 2020 issued by the Ministry of Finance and addressed to Smit Lamnalco Singapore Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Smit Lamnalco Singapore Pte. Ltd. — Section 13(4) Exemption) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

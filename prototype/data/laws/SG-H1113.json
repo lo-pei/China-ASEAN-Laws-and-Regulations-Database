@@ -1,7 +1,7 @@
 {
  "id": "SG-H1113",
  "title": {
-  "zh": null,
+  "zh": "硬币面额与特征",
   "en": "Denominations and Characteristics of Coins",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE 2009 HERITAGE ORCHIDS OF SINGAPORE COINS TO BE ISSUED ON 20TH AUGUST 2009\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n5 Dollars\n999\nFine Silver\n20.00 g\n+ 0.20 g\n38.70 mm + 0.15 mm\n2.50 mm\n+ 0.30 mm\nRound\nMilled and bearing the words “MONETARY AUTHORITY OF SINGAPORE” and lion symbol.\nThe Singapore Arms in the centre with the year-date “2009” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’clock of the coin.\nThe coin design features the orchid “Vanda Amy” in full colour at the centre of the coin with the name of the orchid along the upper circumference. The weight in grams and fineness of the coin are at the lower circumference. The denomination is at the upper-left of the coin.\n5 Dollars\n999\nFine Silver\n20.00 g\n+ 0.20 g\n38.70 mm + 0.15 mm\n2.50 mm + 0.30 mm\nRound\nThe coin design features the orchid “Spathoglottis Primrose” in full colour towards the left of the coin with the name of the orchid along the upper circumference. The weight in grams and fineness of the coin are at the lower circumference. The denomination is at the right of the coin.\n(a) Reverse Design of the $5 Silver Proof Coin (Vanda Amy).\n(b) Reverse Design of the $5 Silver Proof Coin (Spathoglottis Primrose).\n(c) Common Obverse Design for $5 Silver Proof Coins (Vanda Amy and Spathoglottis Primrose)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Denominations and Characteristics of Coins",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

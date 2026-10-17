@@ -1,7 +1,7 @@
 {
  "id": "SG-H2703",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 3 号）命令 2024",
   "en": "Infrastructure Protection (Protected Places) (No. 3) Order 2024",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nCommanding Officer,\nSupply Base (East)\nGUILLEMARD CAMP\nAll that area comprised in part of Lots 99167A and 6368K in Mukim No. 25 occupied by “GUILLEMARD CAMP” containing an area of about 24,596.9 square metres and bounded approximately as follows:\nCommencing at the northernmost corner of “GUILLEMARD CAMP” at a point 32,616.309 metres North and 34,416.086 metres East of the Singapore Land Authority SVY21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n32,616.309\n34,416.086\n32,587.058\n34,457.956\n32,579.299\n34,471.860\n32,556.679\n34,508.167\n32,556.397\n34,509.731\n32,556.547\n34,511.860\n32,558.739\n34,514.939\n32,570.692\n34,530.222\n32,571.189\n34,532.619\n32,558.577\n34,589.641\n32,557.405\n34,591.547\n32,556.614\n34,592.116\n32,554.270\n34,592.606\n32,522.616\n34,589.215\n32,520.394\n34,585.082\n32,477.773\n34,578.617\n32,439.356\n34,572.700\n32,424.012\n34,575.189\n32,407.237\n34,577.909\n32,403.211\n34,558.112\n32,403.015\n34,556.849\n32,401.917\n34,551.012\n32,400.023\n34,541.422\n32,398.565\n34,533.989\n32,398.371\n34,533.221\n32,397.892\n34,531.961\n32,388.800\n34,487.251\n32,384.563\n34,466.417\n32,385.205\n34,465.526\n32,407.530\n34,460.750\n32,490.178\n34,443.069\n32,491.251\n34,442.840\n32,520.726\n34,436.534\n32,567.491\n34,426.530\n32,573.867\n34,425.165\n32,592.280\n34,421.226\n32,604.676\n34,418.575\n32,606.043\n34,418.282\n32,608.450\n34,417.767\n32,616.309\n34,416.086\nto the point of commencement.\nThe boundaries of “GUILLEMARD CAMP” are more particularly delineated in the Survey Plan No. 00000‑2022‑L‑2015‑00231‑GZ00‑003‑R filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 3) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

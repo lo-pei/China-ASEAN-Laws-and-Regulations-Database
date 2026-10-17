@@ -1,7 +1,7 @@
 {
  "id": "PH-H6888",
  "title": {
-  "zh": null,
+  "zh": "将卡加延省 Solana 市镇 Sampaguita 描笼涯的 Gadu 中学附属校从该校分离，改设为名为 Sampaguita 国立中学的独立国立中学并拨款",
   "en": "An Act Separating the Gadu Annex High School in Barangay Sampaguita From the Gadu High School Both in the Municipality of Solana, Province of Cagayan, and Converting It Into An Independent National High School to Be Known as Sampaguita National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Gadu Annex High School in Barangay Sampaguita From the Gadu High School Both in the Municipality of Solana, Province of Cagayan, and Converting It Into An Independent National High School to Be Known as Sampaguita National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Gadu Annex High School in Barangay Sampaguita From the Gadu High School Both in the Municipality of Solana, Province of Cagayan, and Converting It Into An Independent National High School to Be Known as Sampaguita National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

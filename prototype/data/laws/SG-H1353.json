@@ -1,7 +1,7 @@
 {
  "id": "SG-H1353",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（焚烧香烛）条例",
   "en": "Environmental Public Health (Burning of Joss Sticks and Candles) Regulations",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Any person who contravenes regulation 2 or 3(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.\n[G.N. No. S 76/98]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Burning of Joss Sticks and Candles) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

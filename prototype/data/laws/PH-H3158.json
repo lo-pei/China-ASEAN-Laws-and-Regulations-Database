@@ -1,7 +1,7 @@
 {
  "id": "PH-H3158",
  "title": {
-  "zh": null,
+  "zh": "授予 Lopez and Sons 广播系统公司在三宝颜市为教育、文化及商业目的建设、维护和运营无线电广播站的特许经营权法案",
   "en": "An Act Granting Lopez and Sons Broadcasting System, Inc. a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations in the City of Zamboanga for Educational, Cultural as Well as Commercial Purposes",
   "orig": "An Act Granting Lopez and Sons Broadcasting System, Inc. a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations in the City of Zamboanga for Educational, Cultural as Well as Commercial Purposes"
  },
@@ -182,5 +182,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 30, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Lopez and Sons Broadcasting System, Inc. a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations in the City of Zamboanga for Educational, Cultural as Well as Commercial Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

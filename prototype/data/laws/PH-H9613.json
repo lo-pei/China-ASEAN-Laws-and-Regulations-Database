@@ -1,7 +1,7 @@
 {
  "id": "PH-H9613",
  "title": {
-  "zh": null,
+  "zh": "允许家政学毕业生在公立与私立中小学分别教授家政学课程及家政学相关技术职业课程，以符合第 10533 号共和国法（2013 年《强化基础教育法》）第 8 条",
   "en": "An Act Allowing Home Economics Graduates to Teach Home Economics Subjects and Home Economics-Related Technical-Vocational Subjects in All Public and Private Elementary and Secondary Educational Institutions, Respectively, Consistent with Section 8 of Republic Act No. 10533 or the Enhanced Basic Education Act of 2013",
   "orig": "An Act Allowing Home Economics Graduates to Teach Home Economics Subjects and Home Economics-Related Technical-Vocational Subjects in All Public and Private Elementary and Secondary Educational Institutions, Respectively, Consistent with Section 8 of Republic Act No. 10533 or the Enhanced Basic Education Act of 2013"
  },
@@ -110,5 +110,13 @@
     "en": "- This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Allowing Home Economics Graduates to Teach Home Economics Subjects and Home Economics-Related Technical-Vocational Subjects in All Public and Private Elementary and Secondary Educational Institutions, Respectively, Consistent with Section 8 of Republic Act No. 10533 or the Enhanced Basic Education Act of 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H336",
  "title": {
-  "zh": null,
+  "zh": "修订第 408 号联邦法即战争条例的某些条款的法案",
   "en": "An Act to Amend Certain Provisions of Commonwealth Act Numbered Four Hundred and Eight, Otherwise Known as the Articles of War",
   "orig": "An Act to Amend Certain Provisions of Commonwealth Act Numbered Four Hundred and Eight, Otherwise Known as the Articles of War"
  },
@@ -430,5 +430,13 @@
     "en": "Article one hundred and twenty of Commonwealth Act Numbered Four hundred and eight is hereby amended to read as follows:\n\"Art. 120. Complaints of Wrongs. — Any member of the Armed Forces of the Philippines or Philippine Constabulary who believes himself wronged by his commanding officer, and, upon due application to such commander, is refused redress, may complain to the area or zone commander or the next superior officer in the area or zone where the officer against whom the complaint is made is stationed. The area or zone commander or next superior officer shall examine into said complaint and take proper measures for redressing the wrong complained of; and he shall, as soon as possible, transmit to Headquarters, Armed Forces of the Philippines, a true statement of said complaint, with the proceedings had thereon.\"\nSection 40 . This Act shall take effect upon its approval.\nApproved: June 12, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Provisions of Commonwealth Act Numbered Four Hundred and Eight, Otherwise Known as the Articles of War",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

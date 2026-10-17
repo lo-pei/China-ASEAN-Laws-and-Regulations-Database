@@ -1,7 +1,7 @@
 {
  "id": "PH-H8144",
  "title": {
-  "zh": null,
+  "zh": "将阿尔拜省马利瑙市镇巴加唐基描笼涯至伊里加市圣拉蒙描笼涯、再至南甘马粦省奥坎波市镇阿纳万描笼涯的公路命名为Felix Alfelor Sr.州长国家公路的法案",
   "en": "An Act Naming the Road From Barangay Bagatangki, Municipality of Malinao, Province of Albay to Barangay San Ramon, City of Iriga, Up to Barangay Anawan in the Municipality of Ocampo, Province of Camarines Sur as the Gov. Felix Alfelor Sr. National Highway",
   "orig": "An Act Naming the Road From Barangay Bagatangki, Municipality of Malinao, Province of Albay to Barangay San Ramon, City of Iriga, Up to Barangay Anawan in the Municipality of Ocampo, Province of Camarines Sur as the Gov. Felix Alfelor Sr. National Highway"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Road From Barangay Bagatangki, Municipality of Malinao, Province of Albay to Barangay San Ramon, City of Iriga, Up to Barangay Anawan in the Municipality of Ocampo, Province of Camarines Sur as the Gov. Felix Alfelor Sr. National Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

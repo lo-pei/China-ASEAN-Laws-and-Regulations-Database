@@ -1,7 +1,7 @@
 {
  "id": "PH-H2450",
  "title": {
-  "zh": null,
+  "zh": "规定马林杜克省Sta. Cruz市镇一所医院的维护与运营，并授权为此拨付五万比索的法案",
   "en": "An Act Providing for the Maintenance and Operation of a Hospital in the Municipality of Sta. Cruz, Province of Marinduque, and Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Purpose",
   "orig": "An Act Providing for the Maintenance and Operation of a Hospital in the Municipality of Sta. Cruz, Province of Marinduque, and Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Purpose"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Maintenance and Operation of a Hospital in the Municipality of Sta. Cruz, Province of Marinduque, and Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

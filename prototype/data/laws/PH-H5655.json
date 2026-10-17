@@ -1,7 +1,7 @@
 {
  "id": "PH-H5655",
  "title": {
-  "zh": null,
+  "zh": "将个人基本与附加所得税免税额调整至贫困线水平，为此修订国家国内税收法典（经修正）第29条第（L）款第（1）项与第（2）（A）项并为其他目的",
   "en": "An Act Adjusting the Basic Personal and Additional Exemptions Allowable to Individuals for Income Tax Purposes to the Poverty Threshold Level, Amending for the Purpose Section 29, Paragraph (L), Items (1) and (2)(A), of the National Internal Revenue Code, as Amended, and for Other Purposes",
   "orig": "An Act Adjusting the Basic Personal and Additional Exemptions Allowable to Individuals for Income Tax Purposes to the Poverty Threshold Level, Amending for the Purpose Section 29, Paragraph (L), Items (1) and (2)(A), of the National Internal Revenue Code, as Amended, and for Other Purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Adjusting the Basic Personal and Additional Exemptions Allowable to Individuals for Income Tax Purposes to the Poverty Threshold Level, Amending for the Purpose Section 29, Paragraph (L), Items (1) and (2)(A), of the National Internal Revenue Code, as Amended, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

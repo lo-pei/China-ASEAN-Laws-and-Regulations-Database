@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-120-1984-WOMEN-AND-GIRLS-PROTECTION-ACT",
  "title": {
-  "zh": null,
+  "zh": "妇女与女童保护法",
   "en": "WOMEN AND GIRLS PROTECTION ACT",
   "orig": null
  },
@@ -326,5 +326,13 @@
     "en": "An appeal shall lie from any order made by the Commissioner under section 11, 14 or 15 to the Minister whose decision shall be final and shall not be questioned in any •\n\nSUBSIDIARY LEGISLATION NOTE. is no Subsidiary Legislation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "WOMEN AND GIRLS PROTECTION ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

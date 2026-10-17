@@ -1,7 +1,7 @@
 {
  "id": "PH-H684",
  "title": {
-  "zh": null,
+  "zh": "授权支付家庭生活补助，以执行第573号共和国法第5-A条（经第815号共和国法修正）的宗旨的法案",
   "en": "An Act Authorizing the Payment of Family Subsistence Allowance to Carry Out the Purposes of Section Five-A of Republic Act Numbered Five Hundred and Seventy-Three, as Amended By Republic Act Numbered Eight Hundred and Fifteen",
   "orig": "An Act Authorizing the Payment of Family Subsistence Allowance to Carry Out the Purposes of Section Five-A of Republic Act Numbered Five Hundred and Seventy-Three, as Amended By Republic Act Numbered Eight Hundred and Fifteen"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: March 12, 1953"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Payment of Family Subsistence Allowance to Carry Out the Purposes of Section Five-A of Republic Act Numbered Five Hundred and Seventy-Three, as Amended By Republic Act Numbered Eight Hundred and Fifteen",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

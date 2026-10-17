@@ -1,7 +1,7 @@
 {
  "id": "PH-H2436",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统将位于马尼拉市的一块国家政府私产土地出售给菲律宾工业商会的法案",
   "en": "An Act Authorizing the President of the Philippines to Sell a Parcel of Land of the Private Domain of the National Government, Located in the City of Manila, to the Philippine Chamber of Industries",
   "orig": "An Act Authorizing the President of the Philippines to Sell a Parcel of Land of the Private Domain of the National Government, Located in the City of Manila, to the Philippine Chamber of Industries"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Sell a Parcel of Land of the Private Domain of the National Government, Located in the City of Manila, to the Philippine Chamber of Industries",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5657",
  "title": {
-  "zh": null,
+  "zh": "重整依第 3518 号共和国法设立的菲律宾退伍军人银行、规定其机制并为其他目的法案",
   "en": "An Act to Rehabilitate the Philippine Veterans Bank Created Under Republic Act No. 3518, Providing the Mechanisms therefor, and for Other Purposes",
   "orig": "An Act to Rehabilitate the Philippine Veterans Bank Created Under Republic Act No. 3518, Providing the Mechanisms therefor, and for Other Purposes"
  },
@@ -141,5 +141,13 @@
     "en": "Effectivity. – This Act shall take effect upon its approval.\nApproved: January 2, 1992"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Rehabilitate the Philippine Veterans Bank Created Under Republic Act No. 3518, Providing the Mechanisms therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

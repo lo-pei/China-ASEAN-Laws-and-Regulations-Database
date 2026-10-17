@@ -1,7 +1,7 @@
 {
  "id": "PH-H9332",
  "title": {
-  "zh": null,
+  "zh": "加强平衡住房发展计划，为此修订经修正的第 7279 号共和国法（即 1992 年《城市发展与住房法》）的法案",
   "en": "An Act Strengthening the Balanced Housing Development Program, Amending for the Purpose Republic Act No. 7279, as Amended, Otherwise Known as the Urban Development and Housing Act of 1992",
   "orig": "An Act Strengthening the Balanced Housing Development Program, Amending for the Purpose Republic Act No. 7279, as Amended, Otherwise Known as the Urban Development and Housing Act of 1992"
  },
@@ -110,5 +110,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening the Balanced Housing Development Program, Amending for the Purpose Republic Act No. 7279, as Amended, Otherwise Known as the Urban Development and Housing Act of 1992",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

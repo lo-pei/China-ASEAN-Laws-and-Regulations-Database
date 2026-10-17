@@ -1,7 +1,7 @@
 {
  "id": "PH-H6590",
  "title": {
-  "zh": null,
+  "zh": "授予 Cadiz 广播与电视网络公司在 Cadiz 市建设、设立、维护和运营广播电视站的特许经营权法案",
   "en": "An Act Granting the Cadiz Radio and Television Network, Inc., a Franchise to Construct, Establish, Maintain and Operate Radio and Television Broadcasting Station in the City of Cadiz",
   "orig": "An Act Granting the Cadiz Radio and Television Network, Inc., a Franchise to Construct, Establish, Maintain and Operate Radio and Television Broadcasting Station in the City of Cadiz"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Cadiz Radio and Television Network, Inc., a Franchise to Construct, Establish, Maintain and Operate Radio and Television Broadcasting Station in the City of Cadiz",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

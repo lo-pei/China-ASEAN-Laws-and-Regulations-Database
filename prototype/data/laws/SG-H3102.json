@@ -1,7 +1,7 @@
 {
  "id": "SG-H3102",
  "title": {
-  "zh": null,
+  "zh": "按摩院（豁免）命令 2018",
   "en": "Massage Establishments (Exemption) Order 2018",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) Subject to sub‑paragraph (2), any premises is exempt from the provisions of the Act if all the following conditions are satisfied:\n(a)any customer and any member of public can see at any time the massage services provided in every part of the premises from inside and outside of the premises;\n(b)no window in the premises and no entrance to the premises is obscured with any device or accessory, such as a tinted glass panel, a curtain, blinds or any poster or notice;\n(c)there are no rooms, partitions, cubicles, or other form of furniture in the premises that allow massage services to be administered in private;\n(d)the provision of massage services at the premises only takes place between 7 a.m. to 10.30 p.m. in a day (both times inclusive), or any extended period that the Licensing Officer may allow in any particular case;\n(e)the person carrying on the business of providing massage services at the premises notifies the Licensing Officer of the name and address of the establishment for massage before the date when the person starts carrying on that business.\n(2) For the purpose of sub‑paragraph (1)(d), in allowing an extended period in relation to any premises, the Licensing Officer must consider whether —\n(a)the person carrying on the business of providing massage services at the premises —\n(i)has been convicted of any offence under the Act or under the repealed Massage Establishments Act (Cap. 173, 2013 Revised Edition) as in force immediately before 1 March 2018;\n(ii)has had any offence under the Act compounded under the Massage Establishments (Composition of Offences) Rules 2018; and\n(iii)has had any offence under the revoked Massage Establishments Rules (Cap. 173, R 1, 2004 Revised Edition) as in force immediately before 1 March 2018 compounded under the revoked Massage Establishments (Composition of Offences) Rules 2005 (G.N. No. S 657/2005); and\n(b)the carrying on of the business of providing massage services at the premises is likely to cause annoyance or inconvenience to the public or any class of the public.\n(3) Any notification required under sub‑paragraph (1)(e) must be —\n(a)made using the electronic application service provided at https://www.gobusiness.gov.sg/browse-all-licences/singapore-police-force-(spf)/notification-to-police-of-exempted-massage-establishment; or\n[S 95/2026 wef 09/03/2026]\n(b)if the electronic application service is not operating — in any form that the Licensing Officer may require.\n(4) The Licensing Officer may disregard any notification not made according to this paragraph."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Massage Establishments (Exemption) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

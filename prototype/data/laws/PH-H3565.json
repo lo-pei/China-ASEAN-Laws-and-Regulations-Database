@@ -1,7 +1,7 @@
 {
  "id": "PH-H3565",
  "title": {
-  "zh": null,
+  "zh": "进一步修订《修订刑法典》第360条的法案",
   "en": "An Act Further Amend Article Three Hundred Sixty of the Revised Penal Code",
   "orig": "An Act Further Amend Article Three Hundred Sixty of the Revised Penal Code"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect only if and when, within thirty days from its approval, the newspapermen in the Philippines shall organize, and elect the members of, a Philippine Press Council, a private agency of the said newspapermen, whose function shall be to promulgate a Code of Ethics, for them and the Philippine press, investigate violations thereof, and censure any newspaperman or newspaper guilty of any violation of the said Code, and the fact that such Philippine Press Council has been organized and its members have been duly elected in accordance herewith shall be ascertained and proclaimed by the President of the Philippines.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amend Article Three Hundred Sixty of the Revised Penal Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

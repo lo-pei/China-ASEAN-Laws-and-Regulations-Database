@@ -1,7 +1,7 @@
 {
  "id": "PH-H7788",
  "title": {
-  "zh": null,
+  "zh": "将北萨马省第一区下列道路改设并宣布为国道并为此提供资金的法案",
   "en": "An Act Converting and Declaring Certain Roads named hereunder in the First District, Province of Northern Samar into National Roads and providing funds therefor",
   "orig": "An Act Converting and Declaring Certain Roads named hereunder in the First District, Province of Northern Samar into National Roads and providing funds therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting and Declaring Certain Roads named hereunder in the First District, Province of Northern Samar into National Roads and providing funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

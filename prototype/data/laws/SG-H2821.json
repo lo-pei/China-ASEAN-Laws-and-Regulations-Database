@@ -1,7 +1,7 @@
 {
  "id": "SG-H2821",
  "title": {
-  "zh": null,
+  "zh": "保险（Lloyd’s 亚洲计划）条例",
   "en": "Insurance (Lloyd’s Asia Scheme) Regulations",
   "orig": null
  },
@@ -771,5 +771,13 @@
    },
    "status": "repealed"
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insurance (Lloyd’s Asia Scheme) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

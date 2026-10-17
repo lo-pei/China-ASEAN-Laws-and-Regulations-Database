@@ -1,7 +1,7 @@
 {
  "id": "PH-H7930",
  "title": {
-  "zh": null,
+  "zh": "将北伊罗戈省Bangui市镇Bangui渔业学校更名为Bangui技术学院的法案",
   "en": "An Act Changing the Name of Bangui School of Fisheries in the Municipality of Bangui, Province of Ilocos Norte to Bangui Institute of Technology",
   "orig": "An Act Changing the Name of Bangui School of Fisheries in the Municipality of Bangui, Province of Ilocos Norte to Bangui Institute of Technology"
  },
@@ -71,5 +71,13 @@
     "en": "Effectivity. - This Act shall take effect upon its approval and after its publication in at least two newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Bangui School of Fisheries in the Municipality of Bangui, Province of Ilocos Norte to Bangui Institute of Technology",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H305",
  "title": {
-  "zh": null,
+  "zh": "授权回收与兑付菲律宾国家银行合法发行的流通券、对非法发行的此类流通券办理登记与缴存并为此拨款的法案",
   "en": "An Act Authorizing the Retirement and Redemption of the Circulating Notes Lawfully Issued by the Philippine National Bank and the Registration and Deposit of Such Notes Illegally Issued, Appropriating Funds Therefor",
   "orig": "An Act Authorizing the Retirement and Redemption of the Circulating Notes Lawfully Issued by the Philippine National Bank and the Registration and Deposit of Such Notes Illegally Issued, Appropriating Funds Therefor"
  },
@@ -140,5 +140,13 @@
     "en": "Thus Act shall take effect upon it approval.\nApproved, June 1, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Retirement and Redemption of the Circulating Notes Lawfully Issued by the Philippine National Bank and the Registration and Deposit of Such Notes Illegally Issued, Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

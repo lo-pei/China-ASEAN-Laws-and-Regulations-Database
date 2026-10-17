@@ -1,7 +1,7 @@
 {
  "id": "PH-H8714",
  "title": {
-  "zh": null,
+  "zh": "将索索贡省 Magallanes 市镇 Cagbolo 描笼涯的 Magallanes 国立职业中学的 Cagbolo 附属校分离，改设为独立的同名国立职业中学，并为此拨款",
   "en": "An Act Separating the Magallanes National Vocational High School - Cagbolo Annex in Barangay Cagbolo, Municipality of Magallanes, Province of Sorsogon From the Magallanes National Vocational High School, Converting It Into An Independent National Vocational High School to Be Known as Cagbolo National Vocational High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Magallanes National Vocational High School - Cagbolo Annex in Barangay Cagbolo, Municipality of Magallanes, Province of Sorsogon From the Magallanes National Vocational High School, Converting It Into An Independent National Vocational High School to Be Known as Cagbolo National Vocational High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Magallanes National Vocational High School - Cagbolo Annex in Barangay Cagbolo, Municipality of Magallanes, Province of Sorsogon From the Magallanes National Vocational High School, Converting It Into An Independent National Vocational High School to Be Known as Cagbolo National Vocational High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

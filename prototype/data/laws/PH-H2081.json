@@ -1,7 +1,7 @@
 {
  "id": "PH-H2081",
  "title": {
-  "zh": null,
+  "zh": "授权返还依第41号联邦法捐赠给国家政府的土地，规定其处分办法并为其他目的法案",
   "en": "An Act to Authorize the Reconveyance of Lands Donated to the National Government Under Commonwealth Act Numbered Forty-One, to Provide for the Disposition Thereof, and for Other Purposes",
   "orig": "An Act to Authorize the Reconveyance of Lands Donated to the National Government Under Commonwealth Act Numbered Forty-One, to Provide for the Disposition Thereof, and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize the Reconveyance of Lands Donated to the National Government Under Commonwealth Act Numbered Forty-One, to Provide for the Disposition Thereof, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

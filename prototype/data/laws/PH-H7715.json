@@ -1,7 +1,7 @@
 {
  "id": "PH-H7715",
  "title": {
-  "zh": null,
+  "zh": "将布拉干省圣伊尔德丰索市镇的布拉干国立农业州立学院（BNASC）更名为布拉干农业州立学院（BASC）的法案",
   "en": "AN act renaming the Bulacan National Agricultural State College (BNASC) in the Municipality of San Ildefenso, Province of Bulacan, as the BULACAN AGRICULTURAL STATE COLLEGE (BASC)",
   "orig": "AN act renaming the Bulacan National Agricultural State College (BNASC) in the Municipality of San Ildefenso, Province of Bulacan, as the BULACAN AGRICULTURAL STATE COLLEGE (BASC)"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "AN act renaming the Bulacan National Agricultural State College (BNASC) in the Municipality of San Ildefenso, Province of Bulacan, as the BULACAN AGRICULTURAL STATE COLLEGE (BASC)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

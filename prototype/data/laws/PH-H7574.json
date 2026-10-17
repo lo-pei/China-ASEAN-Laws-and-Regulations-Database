@@ -1,7 +1,7 @@
 {
  "id": "PH-H7574",
  "title": {
-  "zh": null,
+  "zh": "规定 Sagay 海洋保护区的设立与管理、界定其范围与覆盖并为其他目的法案",
   "en": "An Act for the Establishment and Management of Sagay Marine Reserve, Defining Its Scope Coverage, and for Other Purposes",
   "orig": "An Act for the Establishment and Management of Sagay Marine Reserve, Defining Its Scope Coverage, and for Other Purposes"
  },
@@ -240,5 +240,13 @@
     "en": "Effectivity.- This Act shall take effect fifteen (15) days after its complete publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act for the Establishment and Management of Sagay Marine Reserve, Defining Its Scope Coverage, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10438",
  "title": {
-  "zh": null,
+  "zh": "司法重组法 1980",
   "en": "The Judiciary Reorganization Act of 1980",
   "orig": "An Act Creating Twelve (12) Additional Branches of the Regional Trial Court in the Fourth Judicial Region To Be Stationed in the Municipality of Los Baños and in the City of Cabuyao, Province of Laguna, and One (1) Additional Branch of the Municipal Trial Court in Cities in the Fourth Judicial Region To Be Stationed in the City of Cabuyao, Province of Laguna, and Appropriating Funds Therefor, Amending For the Purpose Section 14 (E) and Section 29 of Batas Pambansa Blg. 129, Otherwise Known As “The Judiciary Reorganization Act of 1980”, As Amended"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Judiciary Reorganization Act of 1980",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

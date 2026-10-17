@@ -1,7 +1,7 @@
 {
  "id": "SG-H1665",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（海运业——豁免）命令 2025",
   "en": "Guns, Explosives and Weapons Control (Maritime Industry — Exemption) Order 2025",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) A passenger, a crew member or the master of a ship mentioned in paragraph 3(1) is exempt from —\n(a)section 11(1) and (2) of the Act for storing or having possession of, and for using, any defined gun on board the ship, respectively;\n(b)section 14 of the Act for importing or exporting any defined gun;\n(c)sections 21(1) and 22(1) of the Act for using, and for storing or having possession of, any defined explosive device on board the ship, respectively;\n(d)section 24(1) of the Act for importing or exporting any defined explosive device; and\n(e)sections 29(1) and 31 of the Act for having possession of, and for importing or exporting, any relevant weapon on board the ship, respectively,\nwhere the defined gun, defined explosive device or relevant weapon (as the case may be) is used or for use on board the ship by the passenger, crew member or master for a genuine reason, and is kept in accordance with the safekeeping conditions in sub‑paragraphs (2) and (3) when not in use.\n(2) When the defined gun, defined explosive device or relevant weapon mentioned in sub‑paragraph (1) is not actually in use on board the ship, the defined gun, defined explosive device or relevant weapon (as the case may be) must be stored either —\n(a)in a suitable secure room in the ship; or\n(b)in a suitable locked container.\n(3) The defined gun mentioned in sub‑paragraph (1) must be stored in an inoperable state when it is not actually in use on board the ship.\n(4) This paragraph extends to a vessel which navigates exclusively in inland waters or waters within, or closely adjacent to, sheltered waters or areas where the Maritime and Port Authority of Singapore (Port) Regulations apply, as if it were a ship.\n(5) In this paragraph —\n“defined explosive device” means a life raft, marine flare, fog signal, distress signal or fuse, landing flare, smoke generator or other pyrotechnic device intended for emergency and survival, signalling, prevention of collision at sea, warning, rescue or similar purposes;\n“defined gun” means —\n(a)a captive bolt gun, a stun gun or an electronic dart gun solely designed to tranquillise, immobilise or administer vaccines or other medicines to animals; or\n(b)a “verey” pistol designed solely for the discharge of signal lights,\nand includes any major part of a gun mentioned in paragraph (a) or (b), and any gun accessory that is designed to be or can be fitted to, or is adapted to fit, a gun mentioned in paragraph (a) or (b);\n“genuine reason”, in relation to a passenger, crew member or master of a ship mentioned in sub‑paragraph (1), means —\n(a)necessity in the conduct of —\n(i)the passenger’s, crew member’s or master’s business; or\n(ii)the passenger’s, crew member’s or master’s employment or engagement or work in any capacity on board the ship other than as an armed maritime escort,\nto possess or use a defined gun, defined explosive device or relevant weapon;\n(b)being an owner or a transporter of animal cargo on the ship who may need to destroy animals to avoid suffering;\n(c)vertebrate pest animal control before, during or after a journey of that ship; or\n(d)prevention of collision at sea, or emergency and survival at sea.\n(6) However, the possession or use of a defined gun or relevant weapon by an individual for the protection of his or her family or any other individual or property is not a genuine reason for the possession or use of the defined gun or relevant weapon."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Guns, Explosives and Weapons Control (Maritime Industry — Exemption) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

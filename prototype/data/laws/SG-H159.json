@@ -1,7 +1,7 @@
 {
  "id": "SG-H159",
  "title": {
-  "zh": null,
+  "zh": "航空导航（HORNET 项目豁免）命令 2026",
   "en": "Air Navigation (Exemption for Project HORNET) Order 2026",
   "orig": null
  },
@@ -110,5 +110,13 @@
     "en": "SECOND SCHEDULE\nParagraph 3(2)(d)\nReportable safety matters\n1. Any malfunction of, or damage to, the unmanned aircraft structure, components or subsystems occurring while the unmanned aircraft is in operation, which —\n(a)affects the airworthiness of the unmanned aircraft; or\n(b)results in difficulty in controlling the unmanned aircraft.\n2. Any damage to the unmanned aircraft caused by one or more foreign objects or environmental factors occurring while the unmanned aircraft is in operation, which —\n(a)affects the airworthiness of the unmanned aircraft; or\n(b)results in difficulty in controlling the unmanned aircraft.\n3. Any near collision, near miss or occurrence involving the unmanned aircraft and any other aircraft or object.\n4. Incapacitation of the unmanned aircraft pilot during the operation of the unmanned aircraft.\n5. Any event involving the unmanned aircraft operating beyond the specified areas.\n6. Any significant safety incident that may impact the operation of the unmanned aircraft or cause danger to a person or property.\n7. Any occurrence during the operation of the unmanned aircraft resulting in —\n(a)the unmanned aircraft being temporarily or permanently unaccounted for; or\n(b)injury or fatality to any person."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Air Navigation (Exemption for Project HORNET) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

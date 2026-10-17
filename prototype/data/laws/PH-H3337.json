@@ -1,7 +1,7 @@
 {
  "id": "PH-H3337",
  "title": {
-  "zh": null,
+  "zh": "规定宪法官员与国民政府特定其他官员薪金、为其提供资金并为其他目的法案",
   "en": "An Act Fixing the Salaries of Constitutional Officials and Certain Other Officials of the National Government, Providing Funds Therefor, and for Other Purposes",
   "orig": "An Act Fixing the Salaries of Constitutional Officials and Certain Other Officials of the National Government, Providing Funds Therefor, and for Other Purposes"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect on July one, nineteen hundred sixty-four: Provided, however, That the salary increases of the President of the Senate and of the Speaker of the House of Representatives shall take effect on the effectivity of salary increase of Congressmen and Senators.\nApproved: June 20, 1964"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Fixing the Salaries of Constitutional Officials and Certain Other Officials of the National Government, Providing Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

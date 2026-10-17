@@ -1,7 +1,7 @@
 {
  "id": "SG-H1228",
  "title": {
-  "zh": null,
+  "zh": "教育捐赠与储蓄计划法 1992",
   "en": "Education Endowment and Savings Schemes Act 1992",
   "orig": null
  },
@@ -608,5 +608,13 @@
     "en": "THE SCHEDULE\nSection 11(4)\nAdvisory Council\n1.—(1) Subject to this paragraph, every member of the Council holds and vacates his or her office in accordance with the terms of his or her appointment and is, on ceasing to be a member, eligible for re‑appointment.\n(2) Any member of the Council may resign from office at any time by written notice given to the Minister.\n(3) The Minister may remove a member of the Council from office if the Minister is satisfied that the member —\n(a)is guilty of neglect of duty or misconduct;\n(b)has become a bankrupt or made an arrangement with his or her creditors;\n(c)is incapacitated by physical or mental illness; or\n(d)is otherwise unable or unfit to discharge the functions of a member.\n2. The validity of any proceedings of the Council is not affected by any vacancy among the members or by any defect in the appointment of any member.\n3. The quorum for a meeting of the Council is one-half of the number of its members.\n4. The arrangements relating to meetings of the Council are as determined by the Council.\n5. The chairperson presides at all meetings of the Council at which he or she is present and in the chairperson’s absence the members present must elect one of their number to act as chairperson of that meeting.\n6. All questions arising at any meeting of the Council must be decided by a majority of votes of the members present and, in the case of an equality of votes, the chairperson or member presiding has a casting vote.\n7. Subject to the provisions of this Act and any regulations made under this Act, the Council may regulate its own procedure in any manner that it thinks fit."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Education Endowment and Savings Schemes Act 1992",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

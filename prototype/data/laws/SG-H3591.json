@@ -1,7 +1,7 @@
 {
  "id": "SG-H3591",
  "title": {
-  "zh": null,
+  "zh": "防止骚扰法 2014",
   "en": "Protection from Harassment Act 2014",
   "orig": null
  },
@@ -912,5 +912,13 @@
     "en": "THE SCHEDULE\nSections 12(2A)(a), 13(1A)(a) and 18A\nSpecified offences\n1. Offences under section 323, 324, 325, 326, 327, 329, 330, 331, 332 or 333 of the Penal Code 1871.\n[17/2019]\n[S 338/2022 wef 01/05/2022]\n2. Offences under section 17B(1) of the Private Security Industry Act 2007.\n[S 338/2022 wef 01/05/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Protection from Harassment Act 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7338",
  "title": {
-  "zh": null,
+  "zh": "将高山省 Sadanga 市镇 Betwagan 描笼涯的 Sadanga 国立中学的 Betwagan 附属校分离，改设为独立的同名国立中学，并为此拨款",
   "en": "An Act Separating the Sadanga National High School-Betwagan Annex in Barangay Betwagan, Municipality of Sadanga, Mountain Province From the Sadanga National High School in the Municipality of Sadanga, Mountain Province and Converting the Same Into An Independent National High School to Be Known as the Betwagan National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Sadanga National High School-Betwagan Annex in Barangay Betwagan, Municipality of Sadanga, Mountain Province From the Sadanga National High School in the Municipality of Sadanga, Mountain Province and Converting the Same Into An Independent National High School to Be Known as the Betwagan National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Sadanga National High School-Betwagan Annex in Barangay Betwagan, Municipality of Sadanga, Mountain Province From the Sadanga National High School in the Municipality of Sadanga, Mountain Province and Converting the Same Into An Independent National High School to Be Known as the Betwagan National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

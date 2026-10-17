@@ -1,7 +1,7 @@
 {
  "id": "PH-H5800",
  "title": {
-  "zh": null,
+  "zh": "将索索贡省Magallanes市镇Magallanes医疗医院由15张床位的医疗医院扩建升级为25张床位的区医院，名称为Magallanes区医院，并为此拨款",
   "en": "An Act Expanding and Upgrading the Magallanes Medicare Hospital in the Municipality of Magallanes, Province of Sorsogon, From a Fifteen-bed Capacity Medicare Hospital Into a Twenty-five-bed Capacity District Hospital, to Be Known as the Magallanes District Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Expanding and Upgrading the Magallanes Medicare Hospital in the Municipality of Magallanes, Province of Sorsogon, From a Fifteen-bed Capacity Medicare Hospital Into a Twenty-five-bed Capacity District Hospital, to Be Known as the Magallanes District Hospital, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Expanding and Upgrading the Magallanes Medicare Hospital in the Municipality of Magallanes, Province of Sorsogon, From a Fifteen-bed Capacity Medicare Hospital Into a Twenty-five-bed Capacity District Hospital, to Be Known as the Magallanes District Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

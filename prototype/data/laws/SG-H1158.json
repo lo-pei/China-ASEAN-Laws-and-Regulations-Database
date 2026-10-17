@@ -1,7 +1,7 @@
 {
  "id": "SG-H1158",
  "title": {
-  "zh": null,
+  "zh": "受权人士的指定",
   "en": "Designation of Authorised Persons",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Air Navigation Act\n(Chapter 6 and definition of “authorised person” in paragraph 2(1) of Air Navigation Order)\nDesignation of Authorised Persons\nN 2\nG.N. No. S 377/2000\nREVISED EDITION 2002\n(31st January 2002)\n[23rd August 2000]\nThe Minister for Communications and Information Technology has designated the Division Head and every Airworthiness Officer and Flight Operations Officer of the Airworthiness and Flight Operations Division of the Civil Aviation Authority of Singapore to be an authorised person for the purposes of paragraphs 8(3), 58, 58A, 72A, 73 and 74 of the Air Navigation Order (O 2) and paragraph 2 of Part B of the Ninth Schedule to that Order."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Designation of Authorised Persons",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

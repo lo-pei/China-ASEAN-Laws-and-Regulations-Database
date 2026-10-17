@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-237-R-2-2022-SYARIAH-COURTS-CIVIL-PROCEDURE-SULH-RULES",
  "title": {
-  "zh": null,
+  "zh": "R 2 2022 版伊斯兰法庭民事程序和解规则",
   "en": "R 2 2022 ED SYARIAH COURTS CIVIL PROCEDURE SULH RULES",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "No cost shall be allowed for a Majlis Sulh."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 2 2022 ED SYARIAH COURTS CIVIL PROCEDURE SULH RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

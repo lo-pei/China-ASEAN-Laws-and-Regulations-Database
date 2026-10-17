@@ -1,7 +1,7 @@
 {
  "id": "PH-H6818",
  "title": {
-  "zh": null,
+  "zh": "将南苏里高Tandag的Adela Serra Ty纪念医院改设为三级医疗中心，由卫生部全面行政与技术监督，名称为Adela Serra Ty纪念医疗中心，并为此拨款的法案",
   "en": "An Act Converting the Adela Serra Ty Memorial Hospital in Tandag, Surigao Del Sur, Into A Tertiary Level Medical Center, Under the Full Administrative and Technical Supervision of the Department of Health (Doh), To Be Known As the Adela Serra Ty Memorial Medical Center, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Adela Serra Ty Memorial Hospital in Tandag, Surigao Del Sur, Into A Tertiary Level Medical Center, Under the Full Administrative and Technical Supervision of the Department of Health (Doh), To Be Known As the Adela Serra Ty Memorial Medical Center, and Appropriating Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 12, 1997."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Adela Serra Ty Memorial Hospital in Tandag, Surigao Del Sur, Into A Tertiary Level Medical Center, Under the Full Administrative and Technical Supervision of the Department of Health (Doh), To Be Known As the Adela Serra Ty Memorial Medical Center, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

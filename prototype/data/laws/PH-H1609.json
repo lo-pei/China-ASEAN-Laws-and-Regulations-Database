@@ -1,7 +1,7 @@
 {
  "id": "PH-H1609",
  "title": {
-  "zh": null,
+  "zh": "修订第1200号共和国法第一编A部分“Af. Mindoro Oriental”目下第（9）项与第（29）项的法案",
   "en": "An Act Amending Items (9) and (29), Under “Af. Mindoro Oriental.” Title A, Section One of Republic Act Numbered Twelve Hundred",
   "orig": "An Act Amending Items (9) and (29), Under “Af. Mindoro Oriental.” Title A, Section One of Republic Act Numbered Twelve Hundred"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Items (9) and (29), Under “Af. Mindoro Oriental.” Title A, Section One of Republic Act Numbered Twelve Hundred",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

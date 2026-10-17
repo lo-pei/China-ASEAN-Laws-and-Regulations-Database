@@ -1,7 +1,7 @@
 {
  "id": "PH-H2423",
  "title": {
-  "zh": null,
+  "zh": "1948年司法法（经修正）",
   "en": "The Judiciary Act Hundred and Ninety-Six, as Amended, of 1948",
   "orig": "An Act to Increase the Compensation of Justices of the Court of Appeals, Amending for the Purpose Section Twenty-Eight of Republic Act Numbered Two Hundred and Ninety-Six, as Amended, Otherwise Known as “The Judiciary Act Hundred and Ninety-Six, as Amended, of 1948”"
  },
@@ -60,5 +60,13 @@
     "en": "The sum of fifty-four thousand pesos is hereby appropriated out of any funds in the National Treasury not otherwise appropriated, to carry out the purposes of this Act.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Judiciary Act Hundred and Ninety-Six, as Amended, of 1948",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6656",
  "title": {
-  "zh": null,
+  "zh": "以关税取代除大米外农产品的进口数量限制、设立农业竞争力增强基金并为其他目的法案",
   "en": "An Act Replacing Quantitative Import Restrictions on Agricultural Products, Except Rice, With Tariffs, Creating the Agricultural Competitiveness Enhancement Fund, and for Other Purposes",
   "orig": "An Act Replacing Quantitative Import Restrictions on Agricultural Products, Except Rice, With Tariffs, Creating the Agricultural Competitiveness Enhancement Fund, and for Other Purposes"
  },
@@ -103,14 +103,15 @@
    }
   },
   {
-   "id": "PH-H6656-A6_2",
+   "id": "PH-H6656-A6-d2",
    "no": 6,
    "noLabel": {
     "en": "Section 6."
    },
    "text": {
     "en": "Tariffication. – In lieu of quantitative restrictions, the maximum bound rates committed under the Uruguay Round Final Act shall be imposed on the agricultural products whose quantitative restrictions are repealed by this Act. The President shall issue the corresponding tariffs beginning 1996 up to year 2000: Provided, That the schedule of the initial and final applied rates shall be consistent with the country's tariff binding commitments.\nIn case of shortages or abnormal price increases in agricultural products, whose quantitative restrictions are lifted under this Act, the President may propose to Congress, revisions, modifications or adjustments of the Minimum Access Volume (MAV): Provided, however , That in the event Congress fails to act after fifteen (15) days from receipt of the proposal, the same shall be deemed approved."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6656-A7",
@@ -162,5 +163,13 @@
     "en": "Effectivity. – This Act shall take effect thirty (30) days from the date of its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Replacing Quantitative Import Restrictions on Agricultural Products, Except Rice, With Tariffs, Creating the Agricultural Competitiveness Enhancement Fund, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

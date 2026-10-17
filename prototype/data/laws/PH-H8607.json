@@ -1,7 +1,7 @@
 {
  "id": "PH-H8607",
  "title": {
-  "zh": null,
+  "zh": "允许雇用夜班工人，为此废止经修正的第 442 号总统令（即菲律宾劳动法典）第 130 条与第 131 条",
   "en": "An Act Allowing the Employment of Nigiit Workers, Thereby Repealing Articles 130 and 131 of Presidential Decree Number Four Hundred Forty-Two, as Amended, Otherwise Known as the Labor Code of the Philippines",
   "orig": "An Act Allowing the Employment of Nigiit Workers, Thereby Repealing Articles 130 and 131 of Presidential Decree Number Four Hundred Forty-Two, as Amended, Otherwise Known as the Labor Code of the Philippines"
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity Clause. - This Act shall take effect after fifteen (15) days following its publication in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Allowing the Employment of Nigiit Workers, Thereby Repealing Articles 130 and 131 of Presidential Decree Number Four Hundred Forty-Two, as Amended, Otherwise Known as the Labor Code of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

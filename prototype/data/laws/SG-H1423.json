@@ -1,7 +1,7 @@
 {
  "id": "SG-H1423",
  "title": {
-  "zh": null,
+  "zh": "遗产税豁免——亚洲美元债券——（合并）公告",
   "en": "Estate Duty Exemptions — Asian Dollar Bonds — (Consolidation) Notification",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Estate Duty Act\n(Chapter 96, Section 12(1)(c))\nEstate Duty Exemptions — Asian Dollar Bonds — (Consolidation) Notification\nN 4\nG.N. No. S 406/1993\nREVISED EDITION 1993\n(30th April 1998)\nThe Minister for Finance has approved the following Asian Dollar Bonds for exemption from estate duty:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Estate Duty Exemptions — Asian Dollar Bonds — (Consolidation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

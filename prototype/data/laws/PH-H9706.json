@@ -1,7 +1,7 @@
 {
  "id": "PH-H9706",
  "title": {
-  "zh": null,
+  "zh": "将马尼拉大都会马拉邦市 Concepcion 描笼涯的Malabon National High School （MNHS）附属校分离，单独改设为独立的同名学校，并为此拨付所需经费",
   "en": "An Act Separating the Malabon National High School (MNHS) - Concepcion Technical-Vocational Annex in Barangay Concepcion, City of Malabon, Metro Manila from the Malabon National High School, Converting It into an Independent National High School to Be Known as Concepcion Technical-Vocational School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Malabon National High School (MNHS) - Concepcion Technical-Vocational Annex in Barangay Concepcion, City of Malabon, Metro Manila from the Malabon National High School, Converting It into an Independent National High School to Be Known as Concepcion Technical-Vocational School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Malabon National High School (MNHS) - Concepcion Technical-Vocational Annex in Barangay Concepcion, City of Malabon, Metro Manila from the Malabon National High School, Converting It into an Independent National High School to Be Known as Concepcion Technical-Vocational School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

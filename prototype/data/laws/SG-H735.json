@@ -1,7 +1,7 @@
 {
  "id": "SG-H735",
  "title": {
-  "zh": null,
+  "zh": "委员会",
   "en": "Commission",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Inquiry Commissions Ordinance 1941\nNo. 5 of 1941\nCommission\nN 6\nG.N. No. S 557/1948\nREVISED EDITION 1990\n( )\n[11th March 1948]\nGEORGE VI, by the grace of God of Great Britain, Ireland and the British Dominions beyond the Seas King, Defender of the Faith.\nBy His Excellency Sir FRANKLIN CHARLES GIMSON, Knight Commander of the Most Distinguished Order of Saint Michael and Saint George, Governor and Commander-in-Chief of the Colony of Singapore.\nWhereas on the 30th day of December 1947 the Governor in exercise of the powers conferred by section 2 of the Inquiry Commissions Ordinance 1941 did issue a Commission (hereinafter called “the Singapore Prison Inquiry Commission, 1948”)1 appointing and authorising Commissioners to inquire into certain matters in which an inquiry seemed, in the opinion of the Governor, by virtue of section 10 of the Transfer of Powers and Interpretation Ordinance, 1946, to be for the public welfare:\n1 G.N. 43/48 (N5).\nAnd whereas the Governor has deemed it expedient and in the interests of public welfare that the matters into which the Singapore Prison Inquiry Commission 1948 was authorised to enquire should be extended to include the following matters, namely:\n1.The reformative treatment of offenders of all classes and ages;\n2.The aiding of offenders of all classes and ages both before and after release to regain their position in the community;\n3.The recruitment, training, salaries and conditions of service of the members of the Prisons Staff and of staffs of Institutions concerned with the punishment and treatment of offenders.\nNow, therefore, I, Sir FRANKLIN CHARLES GIMSON, do hereby authorise the Commissioners appointed by the Singapore Prison Inquiry Commission, 1948, to inquire into the matters set out herein in addition to and in the same manner and under the same directions as those set out in the said Commission."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

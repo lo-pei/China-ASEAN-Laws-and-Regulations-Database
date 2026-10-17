@@ -1,7 +1,7 @@
 {
  "id": "PH-H673",
  "title": {
-  "zh": null,
+  "zh": "重新颁布第 613 号共和国法（即《出口管制法》）并修订其第 4 条与第 5 条",
   "en": "An Act to Re-enact Republic Act Six Hundred and Thirteen, Known as the Export Control to Amend Sections Four and Five Thereof",
   "orig": "An Act to Re-enact Republic Act Six Hundred and Thirteen, Known as the Export Control to Amend Sections Four and Five Thereof"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 14, 1952."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Re-enact Republic Act Six Hundred and Thirteen, Known as the Export Control to Amend Sections Four and Five Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

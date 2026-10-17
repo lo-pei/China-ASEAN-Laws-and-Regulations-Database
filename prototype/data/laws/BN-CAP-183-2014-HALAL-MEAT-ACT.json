@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-183-2014-HALAL-MEAT-ACT",
  "title": {
-  "zh": null,
+  "zh": "清真肉类法",
   "en": "HALAL MEAT ACT",
   "orig": null
  },
@@ -205,5 +205,13 @@
     "en": "The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make rules prescribing —\n\n(a) the form of the Halal Import Permit;\n\n(b) forms of certificate and Halal label;\n\n(c) the procedure for the requirements under sections 4 and 5;\n\n(d) the procedure for the destruction of illegally imported meat;\n\n(e) fees;\n\n(f) anything required or convenient to be prescribed by this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "HALAL MEAT ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

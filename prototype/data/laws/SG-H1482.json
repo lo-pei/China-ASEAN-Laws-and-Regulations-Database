@@ -1,7 +1,7 @@
 {
  "id": "SG-H1482",
  "title": {
-  "zh": null,
+  "zh": "饲料（许可、分析与费用）规则",
   "en": "Feeding Stuffs (Licensing, Analysis and Fees) Rules",
   "orig": null
  },
@@ -204,5 +204,13 @@
     "en": "THE SCHEDULE\nRule 2\nFeeding Stuffs Act\n(Chapter 105)\nSINGAPORE FOOD AGENCY\nApplication Form\nI wish to apply for a licence to import/manufacture/process for sale/sell animal feed/simple feed/compound feed/mineral mixture/feed concentrate* more fully described below and shall abide by any conditions imposed by the Director-General, Food Administration should a licence be granted to me, and all provisions of the Act and the Rules made thereunder.\nName and address of applicant:\n............................................\nPlace of manufacture (for importer only):\n............................................\nType and capacity of mixer:\n............................................\nProduction capacity:\n............................................\nStorage capacity:\n............................................\nSpecimens of all prospective labels, catalogues and booklets and all advertising matter relating to the sale of animal feed:\n............................................\nDate: .......................................\nNo.: .........................................\n............................................\nSignature of Applicant\n*Delete whichever is inapplicable.\n[S 222/2019 wef 01/04/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Feeding Stuffs (Licensing, Analysis and Fees) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H953",
  "title": {
-  "zh": null,
+  "zh": "何塞·卡托利科电灯与动力公司",
   "en": "Jose Catolico Electric Light and Power Co., Inc.",
   "orig": "An Act Approving Any Assignment, Sale and Transfer of the Franchise Granted to Jose Catolico by Republic Act Numbered Four Hundred and Sixty-Six in Favor of “Jose Catolico Electric Light and Power Co., Inc.”"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Jose Catolico Electric Light and Power Co., Inc.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

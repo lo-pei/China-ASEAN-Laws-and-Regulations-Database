@@ -1,7 +1,7 @@
 {
  "id": "SG-H1868",
  "title": {
-  "zh": null,
+  "zh": "住房开发商（示范单位）规则 2015",
   "en": "Housing Developers (Show Unit) Rules 2015",
   "orig": null
  },
@@ -278,5 +278,13 @@
     "en": "15.—(1) Rule 12 does not apply to any information, map, plan or model of a building project or unit in the building project referred to therein that is displayed by a licensed housing developer of the building project to any purchaser or prospective purchaser of any house, flat or housing accommodation comprised in that building project if all the following conditions are satisfied:\n(a)the licensed housing developer is in possession of a valid licence granted under section 4 of the Act prior to 20 July 2015;\n(b)the location plan, site plan or model has been displayed to any purchaser or prospective purchaser prior to 20 July 2015;\n(c)the licensed housing developer lodges with the Controller not later than 3 working days after 20 July 2015 a declaration in writing, in such form and manner and on such terms and containing such information relating to the building project or unit in the building project as the Controller may determine, that the location plan, site plan or model has been displayed or provided to any purchaser or prospective purchaser prior to 20 July 2015;\n(d)where the location plan, site plan or model is not in compliance with any requirement specified in paragraph (2)(a), (b), (c) or (d) or (3) of rule 12 applicable for the location plan, site plan or model, the licensed housing developer displays prominently next to the location plan, site plan or model a written notice describing the requirement that is not complied with;\n(e)where the location plan, site plan or model is not in compliance with any requirement specified in paragraph (2)(a), (b), (c) or (d) or (3) of rule 12 applicable for the location plan, site plan or model, a copy of the written notice describing the requirement not complied with as mentioned in sub‑paragraph (d) is given to an intending purchaser and the written acknowledgment of its receipt by the intending purchaser is obtained before the licensed housing developer accepts from the intending purchaser the booking fee for an option to purchase a unit in the building project;\n(f)where the location plan, site plan or model is not in compliance with any requirement specified in paragraph (2)(a), (b), (c) or (d) or (3) of rule 12 applicable for the location plan, site plan or model, the licensed housing developer lodges with the Controller, together with the declaration mentioned in sub‑paragraph (c), a copy of the written notice describing the requirement not complied with as mentioned in sub‑paragraph (d).\n(2) Any breach of any of the conditions under paragraph (1) will, unless otherwise notified in writing by the Controller, render paragraph (1) inapplicable to the information, map, plan or model and the licensed housing developer must cease to display the information, map, plan or model to any purchaser or prospective purchaser until the relevant requirements in paragraphs (2) and (3) of rule 12 are complied with and the approval in writing is obtained from the Controller."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Housing Developers (Show Unit) Rules 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

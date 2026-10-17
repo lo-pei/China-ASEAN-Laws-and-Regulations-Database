@@ -1,7 +1,7 @@
 {
  "id": "SG-H3590",
  "title": {
-  "zh": null,
+  "zh": "财产税法 1960",
   "en": "Property Tax Act 1960",
   "orig": null
  },
@@ -1304,5 +1304,13 @@
     "en": "72.—(1) The appropriate Minister may make regulations for carrying out the purposes and provisions of this Act for which the Minister is responsible —\n(a)providing for the form and manner in which appeals are to be made to the Board;\n(b)providing for when an objection to the appointment of a member under section 26(1) or (2) to hear an appeal may be made, and how such objection is to be dealt with;\n(c)providing for the procedure to be adopted by the Board for the Board’s meetings and for proceedings before the Board, and the records to be kept by the Board;\n(d)prescribing the fees to be paid in respect of any appeal under Part 4;\n(e)prescribing the costs in respect of appeals to the Board;\n(f)providing for any matter which the Minister considers incidental or expedient for the proper and efficient conduct of proceedings before the Board;\n(g)providing that the Chairperson or a Deputy Chairperson of the Board may issue directions for carrying out any regulations;\n(h)providing for any other matter that is necessary or convenient for carrying out or giving effect to the provisions of Part 4;\n(i)prescribing the forms or any other matter required or permitted to be prescribed by this Act;\n(j)prescribing the manner in which a notice of appeal may be amended;\n(k)providing for the procedure of, and other matter relating to, the SBNB;\n(l)prescribing the time and manner in which an owner of a property is to mark or display the number allotted to such property and the penalties for non-compliance; and\n(m)generally for the better carrying out of the provisions of this Act.\n[Act 3 of 2024 wef 01/04/2025]\n(2) The appropriate Minister may, in lieu of making any regulations prescribing the forms which by this Act are required to be or may be prescribed, authorise the Comptroller or the SBNB (as the case may be) to approve the use of such forms as the Comptroller or SBNB thinks fit.\n[23/2010]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Property Tax Act 1960",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

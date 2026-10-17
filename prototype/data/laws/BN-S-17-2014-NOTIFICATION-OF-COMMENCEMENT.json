@@ -1,7 +1,7 @@
 {
  "id": "BN-S-17-2014-NOTIFICATION-OF-COMMENCEMENT",
  "title": {
-  "zh": null,
+  "zh": "生效公告",
   "en": "NOTIFICATION OF COMMENCEMENT",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 17\n\nSYARIAH PENAL CODE ORDER, 2013 (S 69/2013) Notification of commencement In exercise of the power conferred by section 1(1) and (2) of the Syariah Penal Code Order, 2013, the Minister of Religious Affairs, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 1st Rejab 1435 Hijriah corresponding to the 1st May 2014 as the date of commencement for the provisions of that Order as set out in the Schedule hereto\n\nSCHEDULE\n\nPROVISIONS OF SYARIAH PENAL CODE ORDER, 2013\n\nPART I\n\nPART II\n\nPART III section 94 section 184 section 185 sections 189 to 205 sections 207 to 220 sections 228 to 253 section 254 (except references to sections 172, 194 and 195 of the Religious Council and Kadis Courts Act (Chapter 77)). Dated this 24th. day of Jamadilakhir, 1435 Hijriah corresponding to the 24th. day of April, 2014. PENGIRAN DATO SERI SETIA DR. HAJI MOHAMMAD\n\nBIN PENGIRAN HAJI ABDUL RAHMAN Minister of Religious Affairs, Brunei Darussalam. Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENGIRAN HAJI AHMAD, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00 I"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

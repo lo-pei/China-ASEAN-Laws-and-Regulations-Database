@@ -1,7 +1,7 @@
 {
  "id": "SG-H1908",
  "title": {
-  "zh": null,
+  "zh": "所得税（人寿保险人应课税盈余计算基础变更的调整）条例 2009",
   "en": "Income Tax (Adjustment on Change of Basis of Computing Taxable Surplus of Life Insurers) Regulations 2009",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nNAME OF INSURER ______________________________\nFORM 14 — VALUATION RESULT AND DISTRIBUTION OF SURPLUS AS AT _________________\nCo Code\n☐☐☐☐☐\nYear\n☐☐☐☐\nMth\n☐☐\nTotal Non-Linked\n:☐\nParticipating\n:☐\nNon-Participating\n:☐\nInvestment-Linked\n:☐\n_______________\n(Name of the Fund)\n$\nParticulars\nRow\nNo.\nSingapore\nInsurance\nFund\nOffshore\nInsurance\nFund\nA. Valuation Result\nBalance of Revenue Account carried forward\n1\nBonus payments made to policyholders in anticipation of a surplus\n2\nNet transfers out of Fund\n3\nTotal (1 to 3)\n4\nNet liabilities under policies —\nIn Singapore Currency\n5\nIn Other Currencies\n6\nTotal Net Liabilities (5+6)\n7\nOther Reserves\n8\nSurplus (4−7−8)\n9\nB. Composition of Surplus\nBalance of surplus brought forward unappropriated from last valuation\n10\nSources of surplus arising in the year —\nInterest\n11\nMortality\n12\nExpense\n13\nSurrenders\n14\nForfeitures\n15\nTransfers into Fund\n16\nOthers\n17\nTotal surplus arising in the year (11 to 17)\n18\nTotal (10+18) (=9)\n19\nC. Distribution of Surplus\nBonus payments made to policyholders in anticipation of a surplus (=2)\n20\nDistributed to policyholders —\nCash Bonus\n21\nReversionary Bonus\n22\nTotal distributed to policyholders (20 to 22)\n23\nDistributed to shareholders\n24\nTotal distributed surplus (23+24)\n25\nBalance of surplus carried forward\nunappropriated\n26\nTotal (25+26) (=9)\n27\nName and Signature of Actuary : ________________________\nNames and Signatures of 2 Directors : ________________________\n________________________\nName and Signature of Principal Officer : ________________________\nDate: ________________________"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Adjustment on Change of Basis of Computing Taxable Surplus of Life Insurers) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

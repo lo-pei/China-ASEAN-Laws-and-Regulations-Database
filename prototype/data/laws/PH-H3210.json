@@ -1,7 +1,7 @@
 {
  "id": "PH-H3210",
  "title": {
-  "zh": null,
+  "zh": "授予 Pioneer 电力与制冰公司在南三宝颜省 Pagadian 市镇安装、运营电灯、热力与动力系统及制冰厂服务的特许权",
   "en": "An Act Granting the Pioneer Electric and Ice Plant, Inc. a Franchise to Install, Operate and Maintain an Electric Light, Heat and Power System, and Ice Plant Service in the Municipality of Pagadian, Province of Zamboanga del Sur",
   "orig": "An Act Granting the Pioneer Electric and Ice Plant, Inc. a Franchise to Install, Operate and Maintain an Electric Light, Heat and Power System, and Ice Plant Service in the Municipality of Pagadian, Province of Zamboanga del Sur"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Pioneer Electric and Ice Plant, Inc. a Franchise to Install, Operate and Maintain an Electric Light, Heat and Power System, and Ice Plant Service in the Municipality of Pagadian, Province of Zamboanga del Sur",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

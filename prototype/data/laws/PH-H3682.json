@@ -1,7 +1,7 @@
 {
  "id": "PH-H3682",
  "title": {
-  "zh": null,
+  "zh": "禁止出口通称Buri的植物纤维（buntal）或丝状物及其种子或幼苗，为此废止第585号联邦法与第319号共和国法的法案",
   "en": "An Act Prohibiting the Exportation of Fibers (Buntal) or Filaments of the Plant Commonly Known as \"Buri\" or Seeds or Seedlings Thereof, Repealing for This Purpose Commonwealth Act Numbered Five Hundred Eighty-Five and Republic Act Numbered Three Hundred Nineteen",
   "orig": "An Act Prohibiting the Exportation of Fibers (Buntal) or Filaments of the Plant Commonly Known as \"Buri\" or Seeds or Seedlings Thereof, Repealing for This Purpose Commonwealth Act Numbered Five Hundred Eighty-Five and Republic Act Numbered Three Hundred Nineteen"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prohibiting the Exportation of Fibers (Buntal) or Filaments of the Plant Commonly Known as \"Buri\" or Seeds or Seedlings Thereof, Repealing for This Purpose Commonwealth Act Numbered Five Hundred Eighty-Five and Republic Act Numbered Three Hundred Nineteen",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

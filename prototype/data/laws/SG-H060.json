@@ -1,7 +1,7 @@
 {
  "id": "SG-H060",
  "title": {
-  "zh": null,
+  "zh": "主动出行（医疗需要证明书——豁免）命令 2026",
   "en": "Active Mobility (Certificate of Medical Need — Exemption) Order 2026",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Section 23I(1) of the Act does not apply to —\n(a)an individual who attains the age of 70 years on or before 31 December of the year in which the act mentioned in that provision is done;\n(b)an individual who has received a subsidy under the Seniors’ Mobility and Enabling Fund for the purchase of a mobility scooter;\n(c)an individual who has received a subsidy under the Assistive Technology Fund for the purchase of a mobility scooter; and\n(d)an individual who is subject to a notice (given by a Ministry or department of the Government, a public authority, AIC or SG Enable to the Authority) stating that the individual requires support from any person in carrying out any of the following activities of daily living:\n(i)walking, or moving, from one room to another or on a level surface;\n(ii)transferring himself or herself, or moving, from a bed to an upright chair or a wheelchair, and vice versa."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Certificate of Medical Need — Exemption) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H235",
  "title": {
-  "zh": null,
+  "zh": "修订第 2957 号法（题为《设立委员会负责政府院校教科书的选择与批准并为其他目的法案》，经第 3185 号、第 3402 号与第 3772 号法修正）若干条",
   "en": "An Act to Amend Certain Sections of Act Numbered Twenty-Nine Hundred and Fifty-Seven, Entitled “An Act Creating a Board to Have Charge of the Selection and Approval of the Textbooks to be Used by the Colleges and Schools of the Government, and for Other Purposes,” as Amended by Act Numbered Thirty-One Hundred and Eighty-Five, Thirty-Four Hundred and Two, and Thirty-Seven Hundred and Seventy-Two",
   "orig": "An Act to Amend Certain Sections of Act Numbered Twenty-Nine Hundred and Fifty-Seven, Entitled “An Act Creating a Board to Have Charge of the Selection and Approval of the Textbooks to be Used by the Colleges and Schools of the Government, and for Other Purposes,” as Amended by Act Numbered Thirty-One Hundred and Eighty-Five, Thirty-Four Hundred and Two, and Thirty-Seven Hundred and Seventy-Two"
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of Act Numbered Twenty-Nine Hundred and Fifty-Seven, Entitled “An Act Creating a Board to Have Charge of the Selection and Approval of the Textbooks to be Used by the Colleges and Schools of the Government, and for Other Purposes,” as Amended by Act Numbered Thirty-One Hundred and Eighty-Five, Thirty-Four Hundred and Two, and Thirty-Seven Hundred and Seventy-Two",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

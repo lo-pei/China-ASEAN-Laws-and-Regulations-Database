@@ -1,7 +1,7 @@
 {
  "id": "SG-H1376",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（可发牌水上设施）条例 2021",
   "en": "Environmental Public Health (Licensable Aquatic Facilities) Regulations 2021",
   "orig": null
  },
@@ -266,5 +266,13 @@
     "en": "SECOND SCHEDULE\nRegulations 5 and 6\nParameter limits for water in\nlicensable aquatic facilities\nPart 1\nwater in MULTI‑USE SPA POOL\nFirst column\nSecond column\nThird column\nParameter\nParameter limit\nMinimum testing\nfrequency\n1.pH value\n(a)where the water is disinfected with a bromine‑based disinfectant, the pH value must not be less than 7.2 and must not exceed 8.0; and\n(b)where the water is disinfected with a chlorine‑based disinfectant, the pH value must not be less than 7.2 and must not exceed 7.8\nOnce a month\n2.Residual disinfectant\n(a)where the water is disinfected with a bromine‑based disinfectant, the amount of total bromine must not be less than 4 parts per million and must not exceed 6 parts per million; and\n(b)where the water is disinfected with a chlorine‑based disinfectant, the amount of free chlorine must not be less than 3 parts per million and must not exceed 5 parts per million\nOnce a month\n3.Escherichia Coli Count\nMust be less than 1 colony forming unit per 100 millilitres\nOnce a month\n4.Heterotrophic Plate Count (HPC) at 48h, 35ºC\nMust not exceed 200 colony forming units per millilitre\nOnce a month\n5.Pseudomonas aeruginosa Count\nMust be less than 10 colony forming units per 100 millilitres\nOnce every 3 months\nPart 2\nwater in swimming pool\nFirst column\nSecond column\nThird column\nParameter\nParameter limit\nMinimum testing\nfrequency\n1.pH value\n(a)where the water is disinfected with a bromine‑based disinfectant, the pH value must not be less than 7.2 and must not exceed 8.0; and\n(b)where the water is disinfected with a chlorine‑based disinfectant, the pH value must not be less than 7.2 and must not exceed 7.8\nOnce a month\n2.Residual disinfectant\n(a)where the water is disinfected with a bromine‑based disinfectant, the amount of total bromine must not be less than 2 parts per million and must not exceed 4 parts per million; and\n(b)where the water is disinfected with a chlorine‑based disinfectant, the amount of free chlorine must not be less than 1 part per million and must not exceed 3 parts per million\nOnce a month\n3.Escherichia Coli Count\nMust be less than 1 colony forming unit per 100 millilitres\nOnce a month\n4.Heterotrophic Plate Count (HPC) at 48h, 35ºC\nMust not exceed 200 colony forming units per millilitre\nOnce a month\n5.Turbidity\nMust not exceed 0.5 Nephelometric Turbidity Units\nOnce a month\nPart 3\nwater in WATER PLAYGROUND\nFirst column\nSecond column\nThird column\nParameter\nParameter limit\nMinimum testing\nfrequency\n1.pH value\n(a)where the water is disinfected with a bromine‑based disinfectant, the pH value must not be less than 7.2 and must not exceed 8.0; and\n(b)where the water is disinfected with a chlorine‑based disinfectant, the pH value must not be less than 7.2 and must not exceed 7.8\nOnce a month\n2.Residual disinfectant\n(a)where the water is disinfected with a bromine‑based disinfectant, the amount of total bromine must not be less than 2 parts per million and must not exceed 4 parts per million; and\n(b)where the water is disinfected with a chlorine‑based disinfectant, the amount of free chlorine must not be less than 1 part per million and must not exceed 3 parts per million\nOnce a month\n3.Escherichia Coli Count\nMust be less than 1 colony forming unit per 100 millilitres\nOnce a month\n4.Heterotrophic Plate Count (HPC) at 48h, 35ºC\nMust not exceed 200 colony forming units per millilitre\nOnce a month\n5.Pseudomonas aeruginosa Count\nMust be less than 10 colony forming units per 100 millilitres\nOnce every 3 months\n6.Turbidity\nMust not exceed 0.5 Nephelometric Turbidity Units\nOnce a month\nPart 4\nwater in LICENSABLE AQUATIC FACILITY WITH AEROSOL‑GENERATING FEATURES\nFirst column\nSecond column\nThird column\nParameter\nParameter limit\nMinimum testing frequency\n1.Legionella Bacteria Count\nMust be less than 1 colony forming unit per 100 millilitres\nOnce every 3 months"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Public Health (Licensable Aquatic Facilities) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

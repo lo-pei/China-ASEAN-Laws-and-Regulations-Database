@@ -1,7 +1,7 @@
 {
  "id": "SG-H507",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（教育计划）条例 1989",
   "en": "Central Provident Fund (Education Scheme) Regulations 1989",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9. If a member, the member’s child or the member’s relative —\n(a)commits a breach of any of the provisions of these Regulations or any of the terms or conditions imposed by the Board; or\n(b)for any purpose connected with these Regulations makes a false representation or furnishes any false information,\n(called in this regulation the breach), the Board may —\n(c)require the member, or the member’s child or relative (as the case may be) to repay to the account of the member in the Fund from whose account the withdrawals had been made, all moneys withdrawn by the member including the whole or such part, as the Board may determine, of any interest that would have been payable on the amount withdrawn if the withdrawal had not been made; or\n(d)prohibit the member from making any withdrawals under these Regulations for such period as the Board may determine from the date the breach was committed by the member, or the member’s child or relative, as the case may be."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund (Education Scheme) Regulations 1989",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

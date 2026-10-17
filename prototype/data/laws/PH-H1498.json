@@ -1,7 +1,7 @@
 {
  "id": "PH-H1498",
  "title": {
-  "zh": null,
+  "zh": "将索索贡省巴塞罗那市镇帕格哈卢班村更名为佩尼亚弗兰西亚村的法案",
   "en": "An Act Changing the Name of Barrio Paghaluban, Municipality of Barcelona, Province of Sorsogon, to Peña Francia",
   "orig": "An Act Changing the Name of Barrio Paghaluban, Municipality of Barcelona, Province of Sorsogon, to Peña Francia"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Barrio Paghaluban, Municipality of Barcelona, Province of Sorsogon, to Peña Francia",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

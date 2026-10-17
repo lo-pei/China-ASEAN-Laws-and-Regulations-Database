@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-113-RG-1984-AIR-NAVIGATION-RESTRICTION-OF-FLYING-59C826",
  "title": {
-  "zh": null,
+  "zh": "RG 1984 版航空导航（监狱设施与拘留场所飞行限制）条例",
   "en": "RG 1984 ED AIR NAVIGATION RESTRICTION OF FLYING PRISON ESTABLISHMENT AND PLACE OF DETENTION REGULATIONS",
   "orig": null
  },
@@ -1210,5 +1210,13 @@
     "en": "Small aircraft. Schedule 1. Part A. Table of general classification of aircraft. Part B. Nationality and registration marks of aircraft registered in Brunei Darussalam. Part C. Aircraft dealer’s certificate — conditions. A and B conditions. Schedule 3. Categories of aircraft. Schedule 4. Maintenance engineers: privileges of licences. Schedule 5. Aircraft equipment. Schedule 6. Radio equipment to be carried in aircraft. Schedule 7. Aircraft, engine and propeller log books. Schedule 8. Areas specified in connection with the carriage of flight navigators as members of the flight crews of public transport Schedule 9. Flight crew of aircraft: licences and ratings. Schedule 10. Air traffic controllers: ratings. Schedule 11. Public transport operational requirements. Schedule 12. Documents to be carried by aircraft registered in Brunei Schedule 13. Penalties. Schedule 14. Rules of the Air and Air Traffic Control. Schedule 15. Air Navigation (General) Regulations. Schedule 16. Air Navigation (Dangerous Goods) Regulations. ___________________________\n\nSUBSIDIARY LEGISLATION Order 3 under section 3 AIR NAVIGATION ORDER [S /84]\n\nCITATION, COMMENCEMENT AND REVOCATION"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 1984 ED AIR NAVIGATION RESTRICTION OF FLYING PRISON ESTABLISHMENT AND PLACE OF DETENTION REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

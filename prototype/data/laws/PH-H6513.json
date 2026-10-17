@@ -1,7 +1,7 @@
 {
  "id": "PH-H6513",
  "title": {
-  "zh": null,
+  "zh": "将塔克洛班市 Basper 描笼涯塔克洛班市国立中学－Basper 附属校分离并改设为名为塔克洛班国立农业学校的独立国立农业学校并拨款",
   "en": "An Act Separating the Tacloban City National High School-basper Annex in Barangay Basper, Tacloban City, From the Tacloban City National High School in Barangay Bagacay, Also in Tacloban City, and Converting It Into a Separate and Independent National Agricultural School to Be Known as the Tacloban National Agricultural School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Tacloban City National High School-basper Annex in Barangay Basper, Tacloban City, From the Tacloban City National High School in Barangay Bagacay, Also in Tacloban City, and Converting It Into a Separate and Independent National Agricultural School to Be Known as the Tacloban National Agricultural School, and Appropriating Funds Therefor"
  },
@@ -102,5 +102,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Tacloban City National High School-basper Annex in Barangay Basper, Tacloban City, From the Tacloban City National High School in Barangay Bagacay, Also in Tacloban City, and Converting It Into a Separate and Independent National Agricultural School to Be Known as the Tacloban National Agricultural School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

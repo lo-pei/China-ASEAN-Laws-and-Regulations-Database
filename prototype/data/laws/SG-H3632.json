@@ -1,7 +1,7 @@
 {
  "id": "SG-H3632",
  "title": {
-  "zh": null,
+  "zh": "圣母圣心会传教条例 1938",
   "en": "Scheut Missions Ordinance 1938",
   "orig": null
  },
@@ -149,5 +149,13 @@
     "en": "SECOND SCHEDULE\n8. All that piece of land situate in the District of Tanglin in the Island of Singapore estimated according to Government Resurvey to contain an area of 7,881.5 m2 and marked on the Government Resurvey Map as being Lot No. 55 of Town Subdivision XXV part of the land comprised in East India Company’s Grant No. 17 dated 31 July 1848 in favour of Gilbert Angus. Together with the messuage or dwelling house known as Municipal No. 24 (formerly No. 6) Nassim Road, Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Scheut Missions Ordinance 1938",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

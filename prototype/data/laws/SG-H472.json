@@ -1,7 +1,7 @@
 {
  "id": "SG-H472",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（防止洗钱、恐怖主义融资与扩散融资）条例 2009",
   "en": "Casino Control (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Regulations 2009",
   "orig": null
  },
@@ -402,5 +402,13 @@
     "en": "21. A casino operator is liable to disciplinary action under section 54 of the Act if the casino operator fails to comply with —\n(a)regulation 3(3) or (5), 16(a), (b) or (c), 17(1), (2), (3), (4), (5), (6) or (7), 18, 19(1), (2), (3), (4), (5), (6), (7) or (8) or 20(1) or (2); or\n[S 649/2026 wef 21/09/2026]\n(b)any requirement in Part III.\n[S 320/2015 wef 02/06/2015]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

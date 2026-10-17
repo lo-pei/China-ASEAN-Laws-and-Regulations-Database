@@ -1,7 +1,7 @@
 {
  "id": "SG-H3241",
  "title": {
-  "zh": null,
+  "zh": "药物滥用（毛发样本与毛发检测）条例 2013",
   "en": "Misuse of Drugs (Hair Specimens and Hair Tests) Regulations 2013",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nRegulation 3\nCollection and delivery of hair specimens\n1.When a subject who is required to provide a specimen of his hair is ready to do so, the officer may procure the hair sample from the back of his head.\n2.The officer who collects the hair sample must wear a new pair of disposable gloves. He must clean the pair of scissors, and any reusable items that may come in direct contact with the hair sample, with alcohol before cutting the hair.\n3.The officer shall first secure a tuft of hair via suitable means. The officer shall then cut the hair at its roots, closest to the scalp.\n4.The officer may wrap the proximal ends of the hair sample with a small piece of foil. He shall then continue to wrap the entire tuft of hair in another piece of foil to cover the sample before placing it into a polymer bag.\n5.The name of the subject, the number of his Identity Card or passport or other identification document, and the date of collection of the hair sample shall be entered by the officer onto an exhibit label.\n6.The subject shall be allowed to check and sign the label in the presence of the officer.\n7.If the subject is unable to read, the officer shall read the particulars on the label to the subject.\n8.The officer shall then enter other necessary information on the label before inserting the label into the polymer bag together with the hair sample.\n9.The officer shall then seal the polymer bag in the presence of the subject. The subject shall be allowed to check that the polymer bag is properly sealed.\n10.The hair sample shall be stored in a secure area away from other drug exhibits until it is sent to the Health Sciences Authority."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Misuse of Drugs (Hair Specimens and Hair Tests) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2724",
  "title": {
-  "zh": null,
+  "zh": "将马尼拉市保留为公共财产的若干地块转为国家可处分或可转让土地，并规定其划分与出售",
   "en": "An Act Converting Certain Parcels of Land in the City of Manila Which are Reserved as Communal Property into Disposable or Alienable Lands of the State an Providing for Their Subdivision and Sale",
   "orig": "An Act Converting Certain Parcels of Land in the City of Manila Which are Reserved as Communal Property into Disposable or Alienable Lands of the State an Providing for Their Subdivision and Sale"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting Certain Parcels of Land in the City of Manila Which are Reserved as Communal Property into Disposable or Alienable Lands of the State an Providing for Their Subdivision and Sale",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

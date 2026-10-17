@@ -1,7 +1,7 @@
 {
  "id": "SG-H2918",
  "title": {
-  "zh": null,
+  "zh": "法官薪酬法 1994",
   "en": "Judges’ Remuneration Act 1994",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "4.—(1) An individual —\n(a)who holds a judicial office; and\n(b)who retires from that office on attaining 65 years of age or in such other circumstances as may be prescribed,\nmay, on retirement, be granted by the President, in respect of each complete month of the individual’s reckonable service which is unbroken, a gratuity determined in accordance with a rate prescribed in regulations subject to such limit as may be prescribed in those regulations.\n[38/2014]\n(2) Where at any time after 1 January 2015, an individual dies while holding any judicial office, there may be paid to such of the deceased’s dependants as the President may think fit or, if there are no dependants, to the legal personal representatives of the deceased, a death gratuity determined in accordance with regulations.\n[38/2014]\n(3) It is lawful for the President to make regulations for the granting of gratuities to individuals who have held judicial office or to their legal personal representatives or dependants, and for such other matters as may be necessary or expedient to give effect to this section.\n[38/2014]\n(4) A gratuity granted under this section —\n(a)is not assignable or transferable, except for the purpose of satisfying —\n(i)a debt due to the Government; or\n(ii)an order of any court for the payment of periodical sums of money towards the maintenance of the spouse or former spouse or minor child, whether legitimate or not, of the individual to whom the gratuity has been granted; and\n(b)is not liable to be attached, sequestered or levied upon for or in respect of any debt or claim except a debt due to the Government.\n[38/2014]\n(5) To avoid doubt, no holder of a judicial office has an absolute right to compensation for past services or to any gratuity under this section.\n[38/2014]\n(6) There is charged on and paid out of the Consolidated Fund all sums of money as may from time to time be granted by way of gratuity or death gratuity in accordance with this Act.\n[38/2014]\n(7) In this section, “reckonable service” means —\n(a)service in one or more judicial offices;\n(b)service as a Judicial Commissioner if, and only if, it immediately precedes appointment to a judicial office without any break; or\n(c)such other service in the Government (except as a Senior Judge or an International Judge) that regulations under this section prescribe to be reckonable for the purposes of a gratuity or death gratuity under this section, if, and only if, that other service immediately precedes appointment to a judicial office without any break.\n[38/2014; 39/2019]\n(8) This section applies only to an individual who is first appointed to any judicial office on or after 1 January 2015.\n[38/2014]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Judges’ Remuneration Act 1994",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

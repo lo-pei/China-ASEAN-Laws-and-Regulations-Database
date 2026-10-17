@@ -1,7 +1,7 @@
 {
  "id": "SG-H3109",
  "title": {
-  "zh": null,
+  "zh": "医疗（治疗、教育与研究）法 1972",
   "en": "Medical (Therapy, Education and Research) Act 1972",
   "orig": null
  },
@@ -352,5 +352,13 @@
     "en": "THE SCHEDULE\nSections 4(1) and 14(1)\nAuthorised persons\n1.The spouse\n2.An adult son or daughter\n3.Either parent\n4.An adult brother or sister\n5.A guardian of the deceased person at the time of the deceased person’s death\n6.Any person authorised or under obligation to dispose of the body of the deceased person"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Medical (Therapy, Education and Research) Act 1972",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

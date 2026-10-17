@@ -1,7 +1,7 @@
 {
  "id": "SG-H1832",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 5 号）命令 2026",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 5) Order 2026",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Holland Close, Holland Avenue, Commonwealth Avenue and Jalan Hitam Manis, comprised in Lot number 05516V in Mukim 04 and on which Apartment Blocks 3, 3A, 5, 30 and 30A are erected, and in Lot number 06436K in Mukim 04 and on which Apartment Blocks 7 and 7A are erected, which blocks are each marked with a grey dot in Plan 1.\nPlan 1\nHOLLAND CLOSE / COMMONWEALTH AVENUE\n2. All that part of the housing estate of the Board bounded by Jelapang Road, Bukit Panjang Ring Road and Saujana Road, comprised in Lot number 00867L in Mukim 14 and on which Apartment Blocks 501, 502, 503, 504 and 505 are erected, and in Lot number 00864K in Mukim 14 and on which Apartment Blocks 506, 507, 508, 509, 510, 511 and 512 are erected, which blocks are each marked with a grey dot in Plan 2.\nPlan 2\nJELAPANG ROAD\n3. All that part of the housing estate of the Board bounded by Jurong West Street 71, Jurong West Avenue 4, Pioneer Road North and Jurong West Avenue 5, comprised in Lot number 00576T in Mukim 09 and on which Apartment Blocks 701, 702, 708, 709 and 710 are erected, and in Lot number 01707P in Mukim 09 and on which Apartment Blocks 703, 704, 705, 706 and 707 are erected, which blocks are each marked with a grey dot in Plan 3.\nPlan 3\nJURONG WEST STREET 71\n4. All that part of the housing estate of the Board bounded by Pasir Ris Street 11, Pasir Ris Street 12 and Pasir Ris Drive 1, comprised in Lot number 02299A in Mukim 31 and on which Apartment Blocks 180, 181, 182, 183, 184, 185, 186 and 187 are erected, and in Lot number 04972P in Mukim 31 and on which Apartment Blocks 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198 and 199 are erected, which blocks are each marked with a grey dot in Plan 4.\nPlan 4\nPASIR RIS STREET 11 / PASIR RIS STREET 12\n5. All that part of the housing estate of the Board —\n(a)bounded by Tampines Street 45, Tampines Expressway and Tampines Avenue 7, comprised in Lot number 05387L in Mukim 31 and on which Apartment Blocks 497A, 497B, 497C, 497D, 497F, 497G, 497H and 497J are erected, which blocks are each marked with a grey dot in Plan 5A; and\nPlan 5A\nTAMPINES STREET 45\n(b)bounded by Tampines Street 45 and Tampines Expressway, comprised in Lot number 02760T in Mukim 31 and on which Apartment Blocks 498A, 498B, 498D, 498E, 498F, 498G, 498H, 498J, 498L and 498M are erected, which blocks are each marked with a grey dot in Plan 5B.\nPlan 5B\nTAMPINES STREET 45"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 5) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

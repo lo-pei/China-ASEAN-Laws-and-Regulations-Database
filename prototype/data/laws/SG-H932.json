@@ -1,7 +1,7 @@
 {
  "id": "SG-H932",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典（规定执法机构）命令 2025",
   "en": "Criminal Procedure Code (Prescribed Law Enforcement Agencies) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\n1.Accounting and Corporate Regulatory Authority\n2.Central Manpower Base\n3.Central Narcotics Bureau\n4.Corrupt Practices Investigation Bureau\n5.Gambling Regulatory Authority of Singapore\n6.Health Sciences Authority\n7.Housing and Development Board\n8.Immigration & Checkpoints Authority\n9.Inland Revenue Authority of Singapore\n10.Land Transport Authority of Singapore\n11.Ministry of Health (Health Regulation Group)\n12.Ministry of Law (Anti‑Money Laundering/Countering the Financing of Terrorism Division)\n13.Ministry of Law (Insolvency and Public Trustee’s Office)\n14.Ministry of Manpower (Foreign Manpower Management Division)\n15.Ministry of Manpower (Labour Relations and Workplaces Division)\n16.Ministry of Manpower (Occupational Safety and Health Division)\n17.Ministry of Social and Family Development\n18.Monetary Authority of Singapore\n19.National Environment Agency\n20.National Parks Board\n21.Singapore Civil Defence Force\n22.Singapore Customs\n23.Singapore Food Agency\n24.Urban Redevelopment Authority"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure Code (Prescribed Law Enforcement Agencies) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

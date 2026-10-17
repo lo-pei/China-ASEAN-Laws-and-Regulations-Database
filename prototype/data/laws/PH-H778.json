@@ -1,7 +1,7 @@
 {
  "id": "PH-H778",
  "title": {
-  "zh": null,
+  "zh": "授予市镇或城市委员会与理事会在各自辖区内监管某些娱乐场所设立、维护与运营的权力",
   "en": "An Act Granting Municipal or City Boards and Councils the Power to Regulate the Establishment, Maintenance and Operation of Certain Places of Amusement Within Their Respective Territorial Jurisdictions",
   "orig": "An Act Granting Municipal or City Boards and Councils the Power to Regulate the Establishment, Maintenance and Operation of Certain Places of Amusement Within Their Respective Territorial Jurisdictions"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Municipal or City Boards and Councils the Power to Regulate the Establishment, Maintenance and Operation of Certain Places of Amusement Within Their Respective Territorial Jurisdictions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

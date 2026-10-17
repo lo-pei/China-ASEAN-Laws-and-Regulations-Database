@@ -1,0 +1,104 @@
+{
+ "id": "BN-S-23-2004-EMERGENCY-CONTINUATION-AND-VALIDATION-OF-EM-278BAA",
+ "title": {
+  "zh": "紧急状态条款延续与确认命令 2004",
+  "en": "MERGENCY CONTINUATION AND VALIDATION OF EMERGENCY PROVISIONS ORDER 2004",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p26",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 4,
+ "chars": 3025,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-23-2004-EMERGENCY-CONTINUATION-AND-VALIDATION-OF-EMERGENCY-PROVISIONS-ORDER-2004.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-23-2004-EMERGENCY-CONTINUATION-AND-VALIDATION-OF-EMERGENCY-PROVISIONS-ORDER-2004.pdf》（3 页），本次切分 4 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-23-2004-EMERGENCY-CONTINUATION-AND-VALIDATION-OF-EM-278BAA-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "heading": {
+    "en": "This Order may be cited as the Emergency (Continuation and Validation of"
+   },
+   "text": {
+    "en": "This Order may be cited as the Emergency (Continuation and Validation of Emergency Provisions) Order, 2004. Interpretation."
+   }
+  },
+  {
+   "id": "BN-S-23-2004-EMERGENCY-CONTINUATION-AND-VALIDATION-OF-EM-278BAA-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "\"amendment\" includes repeal, addition or variation and the effecting"
+   },
+   "text": {
+    "en": "(1) In this Order, unless the context otherwise requires - of all or two or more of such things simultaneously or by the same emergency provisions; \"emergency Order\" means an emergency Order expressed to be made under section 83(3) of the Constitution at any time before the Proclamation date; \"emergency provision\" means any emergency Order and any emergency subordinate instrument; \"emergency subordinate instrument\" means any subordinate instrument expressed to be made at any time before the Proclamation date by virtue of any power expressed to be conferred by - {a} any emergency Order; or\n\n(b) any other subordinate instrument to be made by virtue of any power expressed to be conferred by any emergency Order; \"former Proclamation\" means any Proclamation made before the Proclamation date under section 83(1) of the Constitution declaring a state of emergency in the State;\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE \"Proclamation date\" means 8th. day of March, 2004, being the date of the Proclamation made by His Majesty the Sultan and Yang Di-Pertuan under section 83(1) of the Constitution declaring a state of emergency in the State; \"repeal\" includes rescission, revocation, cancellation or replacement; \"subordinate instrument\" means any regulation, rule, order or other instrument, whether or not having legislative effect. Continuation and validation of Emergency provisions."
+   }
+  },
+  {
+   "id": "BN-S-23-2004-EMERGENCY-CONTINUATION-AND-VALIDATION-OF-EM-278BAA-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "Every emergency provision shall -"
+   },
+   "text": {
+    "en": "Every emergency provision shall -\n\n(a) notwithstanding any provision of the Constitution or of any written law;\n\n(b) notwithstanding any expiration, revocation or invalidity of any former Proclamation or any emergency provision;\n\n(c) notwithstanding any failure to lay such emergency provision before the Legislative Council as soon as may be after it was made by reason of inadvertence; or by reason of the abolition, dissolution, suspension or reconstitution effective or purported of the Legislative Council; or by any reason whatsoever/ by virtue of this Order be deemed to have been validly and properly made and duly laid before the Legislative Council and shall have/ and be deemed to have had, effect from the commencement of such emergency provision as if such emergency provision were embodied in this Order, save that any amendment expressed to have been made to such emergency provision by any other emergency provision shall have, and be deemed to have had, effect from the commencement of such amendment. Validation to affect pending proceedings."
+   }
+  },
+  {
+   "id": "BN-S-23-2004-EMERGENCY-CONTINUATION-AND-VALIDATION-OF-EM-278BAA-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "any period before the date of this Order, a court shall (without prejudice to the"
+   },
+   "text": {
+    "en": "In so far as paragraph 3 validates any emergency prov1s10n as respects operation of paragraph 3 after the date of this Order) give effect to such validated provision as respects such period in any proceedings pending at the date of this Order. Made this 16th. day of Muharam, 1425 corresponding to the 8th. day of March, 2004 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MERGENCY CONTINUATION AND VALIDATION OF EMERGENCY PROVISIONS ORDER 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1755",
  "title": {
-  "zh": null,
+  "zh": "内政团队军团条例 2018",
   "en": "Home Team Corps Regulations 2018",
   "orig": null
  },
@@ -742,5 +742,13 @@
     "en": "44.—(1) An NCDCC officer‑in‑charge must, as soon as practicable, report to the Commandant of the National Civil Defence Cadet Corps in such form as the Commandant may direct, any incident resulting in any injury to or the death of a member of the National Civil Defence Cadet Corps in that unit if the injury or death arose out of or in the course of that member’s training or duty.\n(2) Where a report under paragraph (1) is made on an incident involving an NCDCC cadet who is a student of a school, a copy of the report must be submitted to the principal of that school."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Home Team Corps Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3698",
  "title": {
-  "zh": null,
+  "zh": "授予 Eastcoast Development Enterprises 在菲律宾境内建设、维护和运营私人固定点对点、陆基、陆上移动与海岸船岸无线电台的临时许可的法案",
   "en": "An Act Granting Eastcoast Development Enterprises a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point, Land-Based, Land-Mobile and Coastal Ship-to-Shore Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines",
   "orig": "An Act Granting Eastcoast Development Enterprises a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point, Land-Based, Land-Mobile and Coastal Ship-to-Shore Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines"
  },
@@ -160,5 +160,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Eastcoast Development Enterprises a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point, Land-Based, Land-Mobile and Coastal Ship-to-Shore Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

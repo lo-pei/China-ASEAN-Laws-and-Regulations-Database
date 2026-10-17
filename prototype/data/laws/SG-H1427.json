@@ -1,7 +1,7 @@
 {
  "id": "SG-H1427",
  "title": {
-  "zh": null,
+  "zh": "证据（其他司法管辖区民事诉讼）法 1979",
   "en": "Evidence (Civil Proceedings in Other Jurisdictions) Act 1979",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. The power of the Rules Committee to make Rules of Court under section 80 of the Supreme Court of Judicature Act 1969 includes the power to make Rules of Court —\n(a)as to the manner in which any application mentioned in section 3 is to be made;\n(b)subject to the provisions of this Act, as to the circumstances in which an order can be made under section 4; and\n(c)as to the manner in which any reference referred to in section 5(2) is to be made."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Evidence (Civil Proceedings in Other Jurisdictions) Act 1979",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

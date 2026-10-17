@@ -1,7 +1,7 @@
 {
  "id": "SG-H754",
  "title": {
-  "zh": null,
+  "zh": "传染病管理局法 2025",
   "en": "Communicable Diseases Agency Act 2025",
   "orig": null
  },
@@ -928,5 +928,13 @@
     "en": "THE SCHEDULE\nSections 49 and 51(6) and (7)\nPart 1\nDEPARTMENTS OF\nhealth promotion board\n1.Preventive Health Programs & Rewards Division, Communicable Diseases Branch\n2.Research, Evaluation and Monitoring Division, National Immunisation Registry Branch\nPart 2\nGOVERNMENT DEPARTMENTS\n1.Communicable Diseases Policy and Preparedness Division, Ministry of Health\n2.Surveillance, Epidemiology and Response Division, Ministry of Health\n3.Division of the Ministry of Health called the Interim Communicable Diseases Agency"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Communicable Diseases Agency Act 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

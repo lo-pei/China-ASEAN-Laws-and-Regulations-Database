@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-220-OFFENDERS-PROBATION-AND-COMMUNITY-SERVICE-ACT",
  "title": {
-  "zh": null,
+  "zh": "罪犯缓刑与社区服务法",
   "en": "OFFENDERS PROBATION AND COMMUNITY SERVICE ACT",
   "orig": null
  },
@@ -228,5 +228,13 @@
     "en": "The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations which are necessary or expedient for giving effect to and carrying out the provisions of this Act and for the due administration thereof, and in particular and without prejudice to the generality of such power, the regulations may provide for —\n\n(a) the duties of the Chief Probation Officer;\n\n(b) the duties of the probation officers and volunteer probation\n\n(c) the constitution and duties of probation committees;\n\n(d) the regulation, management and inspection of approved\n\n(e) the forms to be used and the form of records to be kept\n\n(f) the fees to be imposed for any act, matter or thing to be done or observed under this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "OFFENDERS PROBATION AND COMMUNITY SERVICE ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

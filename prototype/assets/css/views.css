@@ -206,3 +206,54 @@ mark.law-find-hit {
   box-shadow: 0 0 0 2px var(--calr-warning);
 }
 @media print { .reader-toolbar__find { display: none !important; } }
+
+/** Deep-link target highlight: jumping from an AI answer to a specific article (#/law/<id>?art=<articleId>) */
+.article.is-target {
+  outline: 2px solid var(--calr-blue-500, #3B82F6);
+  outline-offset: 3px;
+  border-radius: 6px;
+  background: rgba(59, 130, 246, .07);
+  transition: background .25s ease;
+}
+
+/* ---- Chat rows with avatars on both sides (AI left / user right) ---- */
+.chat { gap: 14px; }
+.chat-row { display: flex; gap: 10px; align-items: flex-start; }
+.chat-row--user { flex-direction: row-reverse; }
+.chat-avatar {
+  flex: 0 0 32px; width: 32px; height: 32px; border-radius: 50%;
+  display: inline-flex; align-items: center; justify-content: center; margin-top: 2px;
+}
+.chat-avatar--ai {
+  background: var(--calr-blue-50, #EBF4FF); color: var(--calr-blue-600, #2563EB);
+  border: 1px solid var(--calr-blue-100, #DBEAFE);
+}
+.chat-avatar--user { background: var(--calr-blue-600, #2563EB); color: #FFFFFF; }
+.chat-row > .bubble { align-self: flex-start; max-width: calc(100% - 44px); }
+.chat-row--user > .bubble { align-self: flex-start; }
+
+/* ---- 左右两栏等高（AI 页：模型增强卡片与对话卡片对齐） ---- */
+.layout-sidebar-left.is-equal { align-items: stretch; }
+.layout-sidebar-left.is-equal > .col-filter,
+.layout-sidebar-left.is-equal > div { height: 100%; }
+.layout-sidebar-left.is-equal > .col-filter > .card { height: 100%; }
+.layout-sidebar-left.is-equal > div > .card { height: 100%; display: flex; flex-direction: column; }
+.layout-sidebar-left.is-equal > div > .card > .card__body { flex: 1 1 auto; min-height: 0; }
+
+/* ---- 术语标记：悬停只做轻微视觉提示，弹窗仅在单击时出现 ---- */
+.term-ref { cursor: pointer; }
+.term-ref:hover { background: var(--calr-blue-50, #eff6ff); border-radius: 3px; }
+.term-ref:focus-visible { outline: 2px solid var(--calr-blue-500, #3b82f6); outline-offset: 2px; }
+
+/* ---- 条文重复标记（源文两套编号 / 同号多处） ---- */
+.article__dup {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 6px;
+  border-radius: 9px;
+  background: var(--calr-amber-50, #fffbeb);
+  color: var(--calr-amber-700, #b45309);
+  font-size: var(--fs-mini);
+  font-weight: 400;
+  vertical-align: middle;
+}

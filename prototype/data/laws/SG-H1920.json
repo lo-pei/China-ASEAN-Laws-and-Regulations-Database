@@ -1,7 +1,7 @@
 {
  "id": "SG-H1920",
  "title": {
-  "zh": null,
+  "zh": "所得税（APTIV 安全与移动服务新加坡私人有限公司——第 13(12) 条豁免）命令 2019",
   "en": "Income Tax (APTIV Safety & Mobility Services Singapore Pte Ltd — Section 13(12) Exemption) Order 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividends amounting to US$62,713,110 received in Singapore by APTIV Safety & Mobility Services Singapore Pte. Ltd. (a company incorporated in Singapore) from Delphi China LLC (a company incorporated in the United States of America) in the basis periods for the years of assessment 2014 to 2016, are exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the conditions specified in paragraphs 4 and 5 of the letter of approval dated 9 May 2019 addressed to APTIV Safety & Mobility Services Singapore Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (APTIV Safety & Mobility Services Singapore Pte Ltd — Section 13(12) Exemption) Order 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

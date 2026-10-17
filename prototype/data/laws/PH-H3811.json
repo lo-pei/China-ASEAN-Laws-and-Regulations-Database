@@ -1,7 +1,7 @@
 {
  "id": "PH-H3811",
  "title": {
-  "zh": null,
+  "zh": "授权渔业委员会在黎刹与拉古纳省的 Laguna De Bay 内设立和维护鱼类保护区、划定其边界、授权拨款并为其他目的法案",
   "en": "An Act Authorizing the Fisheries Commission to Establish and Maintain a Fish Sanctuary Within Laguna De Bay in Rizal and Laguna Provinces, Delineating its Boundaries, Authorizing the Appropriation of Funds Therefor, and for Other Purposes",
   "orig": "An Act Authorizing the Fisheries Commission to Establish and Maintain a Fish Sanctuary Within Laguna De Bay in Rizal and Laguna Provinces, Delineating its Boundaries, Authorizing the Appropriation of Funds Therefor, and for Other Purposes"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity.— This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Fisheries Commission to Establish and Maintain a Fish Sanctuary Within Laguna De Bay in Rizal and Laguna Provinces, Delineating its Boundaries, Authorizing the Appropriation of Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

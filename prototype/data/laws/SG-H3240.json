@@ -1,7 +1,7 @@
 {
  "id": "SG-H3240",
  "title": {
-  "zh": null,
+  "zh": "滥用药物（受管制设备、材料与物质）条例",
   "en": "Misuse of Drugs (Controlled Equipment, Material and Substances) Regulations",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "12.—(1) Any person who contravenes any of the provisions of these Regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.\n(2) Any person who —\n(a)fails to comply with a requirement of the Director, an officer of the Bureau, a police officer or an officer of customs under these Regulations; or\n(b)impedes, obstructs or hinders the Director, an officer of the Bureau, a police officer or an officer of customs in the exercise of any of his powers under these Regulations,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.\n(3) Any person who —\n(a)for the purpose of obtaining, whether for himself or for any other person, the issue or renewal of a permit, makes any declaration or statement which is false in a material particular; or\n(b)knowingly utters, produces or makes use of any such declaration or statement or a document containing any such declaration or statement,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.\n(4) Every offence under these Regulations is an arrestable offence for the purposes of the Criminal Procedure Code 2010.\n[G.N. No. S 268/99]\n[S 300/2023 wef 31/12/2021]\n[S 300/2023 wef 01/06/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Misuse of Drugs (Controlled Equipment, Material and Substances) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

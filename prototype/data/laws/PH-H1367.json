@@ -1,7 +1,7 @@
 {
  "id": "PH-H1367",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾中央银行补发菲律宾政府或其政治分支机构、机构或全资政府公司发行、本息由国家政府担保的计息证券中被毁损、污损、遗失或被盗证券的副本，并为其他目的法案",
   "en": "An Act to Authorize the Central Bank of the Philippines to Issue Duplicate Copies of Interest-Bearing Securities Destroyed, Defaced, Lost or Stolen, Issued by the Government of the Philippines, or Any or its Political Subdivisions, Instrumentalities or Wholly-Owned Government Corporations, the Principal and/or Interest of Which is Guaranteed by the National Government, and for Other Purposes",
   "orig": "An Act to Authorize the Central Bank of the Philippines to Issue Duplicate Copies of Interest-Bearing Securities Destroyed, Defaced, Lost or Stolen, Issued by the Government of the Philippines, or Any or its Political Subdivisions, Instrumentalities or Wholly-Owned Government Corporations, the Principal and/or Interest of Which is Guaranteed by the National Government, and for Other Purposes"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize the Central Bank of the Philippines to Issue Duplicate Copies of Interest-Bearing Securities Destroyed, Defaced, Lost or Stolen, Issued by the Government of the Philippines, or Any or its Political Subdivisions, Instrumentalities or Wholly-Owned Government Corporations, the Principal and/or Interest of Which is Guaranteed by the National Government, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

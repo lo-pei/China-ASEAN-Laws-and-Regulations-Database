@@ -1,7 +1,7 @@
 {
  "id": "PH-H5200",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛市曼杜里奥市镇圣拉斐尔描笼涯的圣拉斐尔-博利劳小学更名为Donato Pison纪念学校的法案",
   "en": "An Act Renaming the San Rafael-Bolilao Elementary School Situated in Barangay San Rafael, Municipality of Mandurriao, City of Iloilo, to Donato Pison Memorial School",
   "orig": "An Act Renaming the San Rafael-Bolilao Elementary School Situated in Barangay San Rafael, Municipality of Mandurriao, City of Iloilo, to Donato Pison Memorial School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the San Rafael-Bolilao Elementary School Situated in Barangay San Rafael, Municipality of Mandurriao, City of Iloilo, to Donato Pison Memorial School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

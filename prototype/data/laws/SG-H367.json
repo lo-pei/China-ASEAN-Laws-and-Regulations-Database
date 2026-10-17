@@ -1,7 +1,7 @@
 {
  "id": "SG-H367",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（外部特征的含义）条例 2021",
   "en": "Building Control (Meaning of Exterior Features) Regulations 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) For the purpose of paragraph (b) of the definition of “exterior feature” in section 2(1) of the Act, the following permanent features of a building are each prescribed to be an exterior feature of the building:\n(a)any window, with or without movable parts, such as a roof skylight, glass panel, glass brick, louvre, glazed sash, glazed door, translucent sheeting and any other building material which transmits natural light directly from outside a building into an interior of the building;\n(b)any grille or shutter, with or without movable parts;\n(c)any tile, cladding, curtain wall, siding, plaster, bracket or cornice;\n(d)any gutter, rainwater down‑pipe or part of the roof;\n(e)any membrane shade structure, or any awning or device to provide shade;\n(f)any green wall which is partially or completely covered by vegetation, including any brackets that support it, the growing medium for the vegetation (other than soil) and any integrated water delivery system;\n(g)any screen or screen wall;\n(h)any louvres or fins;\n(i)any masonry veneer;\n(j)any window hood;\n(k)any cantilevered roof;\n(l)any part of a concrete wall, concrete slab, concrete beam or concrete column;\n(m)any external balustrade;\n(n)any directional sign, signboard, skysign, animated billboard or other advertising structure installed for more than 36 months, and includes any frame, panel, hoarding or other supporting structure of or for the directional sign, signboard, skysign, animated billboard or other advertising structure;\n(o)any clothes drying rack;\n(p)any suspended ceiling system —\n(i)fitted under or hung from —\n(A)a porch, porte‑cochere or portico;\n(B)a covered concourse or walkway; or\n(C)a similar shelter,\nthat is located at the entrance or side of a building or projects from or near an external edge of a building, and spans across a space below which is accessible to members of the public; and\n(ii)the underside of which is exposed to rain;\n(q)any of the following that is used or may be used, for more than 36 months, to attach to, or that supports or may support for use with, the building any externally mounted equipment:\n(i)a metal or concrete bracket, or similar structural supporting system attached to the building and to the externally mounted equipment (if any);\n(ii)a cable and other associated components of a structural supporting system mentioned in sub‑paragraph (i), where the cable or components are attached to the building and to the externally mounted equipment (if any).\n(2) In paragraph (1)(q), “externally mounted equipment” includes the following:\n(a)an air‑conditioning unit and its condensing equipment;\n(b)a ventilation system;\n(c)a photovoltaic array or panel;\n(d)a solar water heater;\n(e)an apparatus (including a dish antenna) or a combination of apparatus for the transmission or direct reception of broadcast matter or wireless communication."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Control (Meaning of Exterior Features) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

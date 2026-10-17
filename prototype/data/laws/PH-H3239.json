@@ -1,7 +1,7 @@
 {
  "id": "PH-H3239",
  "title": {
-  "zh": null,
+  "zh": "修订第2732号共和国法（即《规定在南伊罗戈省Tagudin市镇维护与运营一所名为Southern Ilocos Sur Hospital的医院并授权为此拨款》）第3条的法案",
   "en": "An Act to Amend Section Three of Republic Act Numbered Twenty-Seven Hundred and Thirty-Two, Entitled \"An Act Providing for the Maintenance and Operation of a Hospital in the Municipality of Tagudin, Province of Ilocos Sur, to be Known as the Southern Ilocos Sur Hospital, and Authorizing the Appropriation of Funds Therefor\"",
   "orig": "An Act to Amend Section Three of Republic Act Numbered Twenty-Seven Hundred and Thirty-Two, Entitled \"An Act Providing for the Maintenance and Operation of a Hospital in the Municipality of Tagudin, Province of Ilocos Sur, to be Known as the Southern Ilocos Sur Hospital, and Authorizing the Appropriation of Funds Therefor\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Three of Republic Act Numbered Twenty-Seven Hundred and Thirty-Two, Entitled \"An Act Providing for the Maintenance and Operation of a Hospital in the Municipality of Tagudin, Province of Ilocos Sur, to be Known as the Southern Ilocos Sur Hospital, and Authorizing the Appropriation of Funds Therefor\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

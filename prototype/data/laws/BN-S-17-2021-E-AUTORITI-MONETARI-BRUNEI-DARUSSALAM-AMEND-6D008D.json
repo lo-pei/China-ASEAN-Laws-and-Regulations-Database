@@ -1,7 +1,7 @@
 {
  "id": "BN-S-17-2021-E-AUTORITI-MONETARI-BRUNEI-DARUSSALAM-AMEND-6D008D",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰国金融管理局修正命令 2021",
   "en": "AUTORITI MONETARI BRUNEI DARUSSALAM AMENDMENT ORDER 2021",
   "orig": null
  },
@@ -92,5 +92,13 @@
     "en": "111 Any right, benefit, privilege, obligation or liability acquired, accrued or or any act or thing done or required to be done, shall not be affected by this Order and shall continue to remain valid and have effect as if this Order had not been enacted. (21 This Order shall not affect any inquiry, investigation or proceedings or pending before the commencement of this Order and every such inquiry, investigation or proceedings may be continued and dealt with as if this had not been enacted. (3J In so far as it is necessary for preserving the effect of any written law or document, any reference in such written law or document to the Autoriti Monetari Brunei Darussalam shall, as from the commencement of this Order, be construed as a reference to the Brunei Darussalam Central Bank. Made this 15th. day of Zulkaedah, 1442 Hijriah corresponding to the 26th. day of June, 2021.\n\nHIS MAJESTY THE SULTAN AND YANG DJ.PERTUAN, DARUSSALAM."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "AUTORITI MONETARI BRUNEI DARUSSALAM AMENDMENT ORDER 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

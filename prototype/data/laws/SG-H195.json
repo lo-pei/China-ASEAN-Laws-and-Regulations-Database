@@ -1,7 +1,7 @@
 {
  "id": "SG-H195",
  "title": {
-  "zh": null,
+  "zh": "动物与鸟类（疾病）公告",
   "en": "Animals and Birds (Disease) Notification",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. African horse sickness\n2. African swine fever\n3. Anthrax\n4. Aujeszky’s disease\n5. Avian infectious bronchitis\n6. Avian infectious laryngotracheitis\n7. Avian mycoplasmosis caused by M gallisepticum and M synoviae\n8. Avian tuberculosis\n9. Black quarter (blackleg)\n10. Bluetongue\n11. Bovine anaplasmosis\n12. Bovine babesiosis\n13. Bovine brucellosis\n14. Bovine genital campylobacteriosis\n15. Bovine malignant catarrh\n16. Bovine spongiform encephalopathy\n17. Bovine tuberculosis\n18. Caprine arthritis/encephalitis\n19. Caprine/ovine brucellosis\n20. Contagious agalactia\n21. Contagious bovine pleuropneumonia\n22. Contagious caprine pleuropneumonia\n23. Contagious equine metritis\n24. Cysticercosis of bovine and porcine origin\n25. Dermatophilosis\n26. Dourine\n27. Duck virus enteritis (duck plague)\n28. Duck virus hepatitis\n29. Ebola disease\n30. Echinococcosis/hydatidosis\n31. Enzootic bovine leucosis\n32. Epizootic lymphangitis\n32A. Epizootic ulcerative syndrome\n[S 422/2008 wef 01/09/2008]\n33. Equine encephalomyelitis\n34. Equine encephalosis\n35. Equine infectious anaemia\n36. Equine influenza\n37. Equine piroplasmosis\n38. Equine rhinopneumonitis\n39. Equine viral arteritis\n40. Escherichia coli O157 : H7\n41. Foot-and-mouth disease\n42. Fowl cholera\n43. Fowl plague (avian influenza)\n44. Fowl pox\n45. Fowl typhoid (Salmonella gallinarum)\n46. Getah virus disease\n47. Glanders (Farcy)\n48. Haemorrhagic septicaemia\n49. Hanta virus disease\n50. Heartwater\n51. Hendra virus disease\n52. Horse mange\n53. Horse pox\n54. Infectious bovine rhinotracheitis\n55. Infectious bursal disease (Gumboro disease)\n56. Japanese B encephalitis\n56A. Koi herpesvirus\n[S 422/2008 wef 01/09/2008]\n57. Leishmaniosis\n58. Leptospirosis\n59. Listeriosis\n60. Lumpy skin disease\n61. Lyme disease\n62. Lymphocytic choriomenigitis\n63. Lyssa encephalitis\n64. Maedi-visna\n65. Marburg disease\n66. Marek’s disease\n67. Melioidosis\n68. Menangle virus disease\n69. Murray Valley Encephalitis\n70. Myxomatosis\n71. Nairobi sheep disease\n72. New World screwworm (Cochliomyia hominivorax)\n73. Newcastle disease\n74. Nipah virus disease\n75. Old World screwworm (Chrysomya bezziana)\n76. Ovine pulmonary adenomatosis\n77. Paratuberculosis\n78. Peste des petits ruminants\n79. Porcine brucellosis\n80. Psittacosis (ornithosis)\n81. Pullorum disease\n82. Q fever\n83. Rabbit haemorrhagic disease\n84. Rabies\n84A. Red sea bream iridoviral disease\n[S 422/2008 wef 01/09/2008]\n85. Rift Valley fever\n86. Rinderpest\n87. Salmonellosis caused by S. abortusovis\n88. Salmonellosis caused by Salmonella enteritidis\n89. Scrapie\n90. Sendai virus infection\n91. Sheep pox/goat pox\n92. Simian B Herpes virus\n92A. Spring viraemia of carp\n[S 422/2008 wef 01/09/2008]\n93. Strangles\n94. Surra\n95. Swine erysipelas\n96. Swine fever\n97. Swine vesicular disease\n98. Theileriosis\n99. Toxoplasmosis\n100. Transmissible spongiform encephalopathies\n101. Trichinellosis\n102. Trichomonosis\n103. Trypanosomiasis\n104. Tularaemia\n105. Ulcerative lyamphangitis\n106. Vesicular stomatitis\n106A. White spot disease\n[S 422/2008 wef 01/09/2008]\n107. Yellow Fever."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Animals and Birds (Disease) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

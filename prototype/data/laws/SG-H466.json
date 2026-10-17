@@ -1,7 +1,7 @@
 {
  "id": "SG-H466",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（最高博彩区面积）命令 2026",
   "en": "Casino Control (Maximum Gaming Area) Order 2026",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The aggregate of all the gaming areas within any casino premises must not exceed —\n(a)for the casino operated by Marina Bay Sands Pte. Ltd. — 16,000 square metres; and\n(b)for the casino operated by Resorts World at Sentosa Pte. Ltd. — 15,000 square metres."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Casino Control (Maximum Gaming Area) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

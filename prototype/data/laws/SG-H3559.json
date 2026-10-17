@@ -1,7 +1,7 @@
 {
  "id": "SG-H3559",
  "title": {
-  "zh": null,
+  "zh": "规划法 1998",
   "en": "Planning Act 1998",
   "orig": null
  },
@@ -1196,5 +1196,13 @@
     "en": "FOURTH SCHEDULE\nSection 3(3)(d)\nUse of dwelling house constituting development\n1. Use of a dwelling house to provide dormitory accommodation.\n2. Use of a dwelling house to provide short‑term accommodation, where the dwelling house or any part of it is occupied by the same person for a period of less than 3 consecutive months and the short‑term accommodation is provided (with or without other services) in return for the payment of rent or other form of consideration, whether or not the relationship of landlord and tenant is thereby created.\n[7/2017; S 339/2017]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Planning Act 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

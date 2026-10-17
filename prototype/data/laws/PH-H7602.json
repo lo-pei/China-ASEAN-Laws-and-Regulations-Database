@@ -1,7 +1,7 @@
 {
  "id": "PH-H7602",
  "title": {
-  "zh": null,
+  "zh": "将第223号公告所涉土地的一部分重新划为可处置农业用地，该部分原被排除在设立南三宝颜省Malangas煤矿保留地的第284号公告之外",
   "en": "An Act Reclassifying as Agricultural Land Open to Disposition Under the Provisions of the Public Land Act, as Amended, a Portion of the Land Embraced in Proclamation No. 223, Dated February 29, 1988 Which Was Excluded From the Operation of Proclamation No. 284, Dated July 19, 1938, Establishing the Malangas Coal Reservation in the Municipality of Malangas, Province of Zamboanga Del Sur, Island of Mindanao",
   "orig": "An Act Reclassifying as Agricultural Land Open to Disposition Under the Provisions of the Public Land Act, as Amended, a Portion of the Land Embraced in Proclamation No. 223, Dated February 29, 1988 Which Was Excluded From the Operation of Proclamation No. 284, Dated July 19, 1938, Establishing the Malangas Coal Reservation in the Municipality of Malangas, Province of Zamboanga Del Sur, Island of Mindanao"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reclassifying as Agricultural Land Open to Disposition Under the Provisions of the Public Land Act, as Amended, a Portion of the Land Embraced in Proclamation No. 223, Dated February 29, 1988 Which Was Excluded From the Operation of Proclamation No. 284, Dated July 19, 1938, Establishing the Malangas Coal Reservation in the Municipality of Malangas, Province of Zamboanga Del Sur, Island of Mindanao",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

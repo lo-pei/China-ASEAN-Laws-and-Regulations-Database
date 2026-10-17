@@ -1,7 +1,7 @@
 {
  "id": "PH-H8478",
  "title": {
-  "zh": null,
+  "zh": "2009 年税务事项信息交换法",
   "en": "Exchange of Information on Tax Matters Act of 2009",
   "orig": "Exchange of Information on Tax Matters Act of 2009 An Act to Allow the Exchange of Information By the Bureau of Internal Revenue of Tax Matters Pursuant to Internationally-Agreed Tax Standards, Amending Sections 6(F), 71 and 270 of the National Internal Revenue Code of 1997, as Amended, and for Other Purposes"
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Exchange of Information on Tax Matters Act of 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

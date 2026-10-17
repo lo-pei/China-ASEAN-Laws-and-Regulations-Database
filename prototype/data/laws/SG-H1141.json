@@ -1,7 +1,7 @@
 {
  "id": "SG-H1141",
  "title": {
-  "zh": null,
+  "zh": "存款保险（罪行构成）条例",
   "en": "Deposit Insurance (Composition of Offences) Regulations",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the Authority in accordance with section 46(1) of the Act:\n(a)an offence under the Act which is punishable with a fine only;\n(b)an offence under section 29, 41(1)(b) or 42 of the Act; and\n(c)an offence under subsection (1)(a) of section 41 of the Act, where the non-compliance referred to in that subsection constitutes a compoundable offence under paragraph (a) or (b).\n[G.N. No. S 7/2006]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Deposit Insurance (Composition of Offences) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

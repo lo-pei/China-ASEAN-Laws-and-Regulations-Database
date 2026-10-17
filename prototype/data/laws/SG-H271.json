@@ -1,7 +1,7 @@
 {
  "id": "SG-H271",
  "title": {
-  "zh": null,
+  "zh": "总检察长（额外职能）法 2014",
   "en": "Attorney-General (Additional Functions) Act 2014",
   "orig": null
  },
@@ -126,5 +126,13 @@
     "en": "THE SCHEDULE\nSections 2 and 6\nRelevant statutory boards\n1.Accounting and Corporate Regulatory Authority\n2.Building and Construction Authority\n3.[Deleted by Act 14 of 2022 wef 01/08/2022]\n4.Central Provident Fund Board\n5.Civil Aviation Authority of Singapore\n5A.Communicable Diseases Agency\n[Act 4 of 2025 wef 01/04/2025]\n6.Energy Market Authority of Singapore\n6A.Gambling Regulatory Authority of Singapore\n[Act 14 of 2022 wef 01/08/2022]\n7.Health Sciences Authority\n8.Housing and Development Board\n9.Info-communications Media Development Authority\n10.Inland Revenue Authority of Singapore\n11.Intellectual Property Office of Singapore\n12.Land Transport Authority of Singapore\n13.Maritime and Port Authority of Singapore\n14.Monetary Authority of Singapore\n15.National Environment Agency\n16.National Heritage Board\n17.National Parks Board\n18.Presidential Elections Committee\n19.Public Transport Council\n20.Public Utilities Board\n21.Singapore Food Agency\n22.Singapore Land Authority\n23.Skills and Workforce Development Agency\n[Act 17 of 2026 wef 01/07/2026]\n24.Urban Redevelopment Authority\n[11/2019; S 753/2018; S 871/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Attorney-General (Additional Functions) Act 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

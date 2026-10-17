@@ -1,7 +1,7 @@
 {
  "id": "PH-H9663",
  "title": {
-  "zh": null,
+  "zh": "承认 British School Manila 为具有国际性质的教育机构并给予促进其发展的特定特权",
   "en": "An Act Act Recognizing the British School Manila as an Educational Institution of International Character Granting the School Certain Prerogatives Conducive to Its Development",
   "orig": "An Act Act Recognizing the British School Manila as an Educational Institution of International Character Granting the School Certain Prerogatives Conducive to Its Development"
  },
@@ -100,5 +100,13 @@
     "en": "Separability Clause. - If any clause, sentence, paragraph or part of this Act is subsequently declared unconstitutional, the validity of the remaining provisions hereof shall remain in full force and effect.\nSection 7 . Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Act Recognizing the British School Manila as an Educational Institution of International Character Granting the School Certain Prerogatives Conducive to Its Development",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-79-2008-YAYASAN-SULTAN-HAJI-HASSANAL-BOLKIAH-ACT-AM-36DFBA",
  "title": {
-  "zh": null,
+  "zh": "苏丹哈吉哈桑纳尔·博尔基亚基金会法（附表修正）命令 2008",
   "en": "YAYASAN SULTAN HAJI HASSANAL BOLKIAH ACT AMENDMENT OF SCHEDULE ORDER 2008",
   "orig": null
  },
@@ -67,5 +67,13 @@
     "en": "Section 5 ) of the Schedule to the Yaya san Sultan Haji Hassanal Bolkiah Act is amended by deleting \"section 12 \" and by substituting \"section 9 \" therefor. Made this 19th. day of Syaaban , 1429 Hijriah corresponding to the 21st. day of August , 2008 at Our lstana Nurul lman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AN D YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM 2510"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "YAYASAN SULTAN HAJI HASSANAL BOLKIAH ACT AMENDMENT OF SCHEDULE ORDER 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

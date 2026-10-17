@@ -1,7 +1,7 @@
 {
  "id": "PH-H9040",
  "title": {
-  "zh": null,
+  "zh": "将 Palarong Pambansa（全国运动会）的举办制度化的法案，并为此拨款",
   "en": "An Act Institutionalizing the Conduct of the Palarong Pambansa and Appropriating Funds Therefor",
   "orig": "An Act Institutionalizing the Conduct of the Palarong Pambansa and Appropriating Funds Therefor"
  },
@@ -343,5 +343,13 @@
     "en": "Effectivity. – The implementation of this Act shall take effect fifteen (15) days after its publication in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Institutionalizing the Conduct of the Palarong Pambansa and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

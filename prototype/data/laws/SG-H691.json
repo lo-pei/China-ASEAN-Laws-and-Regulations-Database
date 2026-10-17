@@ -1,7 +1,7 @@
 {
  "id": "SG-H691",
  "title": {
-  "zh": null,
+  "zh": "合作社（信用合作社委员会成员与职员要求）规则 2019",
   "en": "Co-operative Societies (Requirements for Members of Committee and Officers of Credit Society) Rules 2019",
   "orig": null
  },
@@ -246,5 +246,13 @@
     "en": "13.—(1) For a period of 3 years starting on 1 November 2019, rule 4 does not apply to an audit committee appointed before that date by the committee of management of a credit society.\n(2) For a period of 3 years starting on 1 November 2019, rule 5 does not apply to a member of the committee of management of a credit society who is elected or co‑opted before that date, and who continues, on and after that date, to be a member of that committee.\n(3) For a period of 3 years starting on 1 November 2019, Part 4 does not apply to a chief executive officer or chief financial officer of a credit society, or a chief investment officer of a credit society mentioned in rule 7(1), who is appointed before that date, and who continues to hold that office on and after that date."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Co-operative Societies (Requirements for Members of Committee and Officers of Credit Society) Rules 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

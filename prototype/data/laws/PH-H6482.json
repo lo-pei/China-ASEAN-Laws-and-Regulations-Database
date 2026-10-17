@@ -1,7 +1,7 @@
 {
  "id": "PH-H6482",
  "title": {
-  "zh": null,
+  "zh": "宣布大马尼拉拉斯皮纳斯市镇的 Asinan 地区、拉斯皮纳斯教堂与竹风琴、拉斯皮纳斯桥、Diego Cera 神父桥及旧区医院为旅游景点",
   "en": "An Act Declaring the Asinan Area, the Las PiÃ±as Church and Bamboo Organ, the Las PiÃ±as Bridge, the Father Diego Cera Bridge, and the Old District Hospital, All in the Municipality of Las PiÃ±as, Metro Manila, as Tourist Spots",
   "orig": "An Act Declaring the Asinan Area, the Las PiÃ±as Church and Bamboo Organ, the Las PiÃ±as Bridge, the Father Diego Cera Bridge, and the Old District Hospital, All in the Municipality of Las PiÃ±as, Metro Manila, as Tourist Spots"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the Asinan Area, the Las PiÃ±as Church and Bamboo Organ, the Las PiÃ±as Bridge, the Father Diego Cera Bridge, and the Old District Hospital, All in the Municipality of Las PiÃ±as, Metro Manila, as Tourist Spots",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

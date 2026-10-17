@@ -1,7 +1,7 @@
 {
  "id": "PH-H653",
  "title": {
-  "zh": null,
+  "zh": "规定政府聘用从事需要医学知识职位的医师最低年薪为2400比索的法案",
   "en": "An Act Fixing the Minimum Compensation of Physicians Employed By the Government in Positions Requiring Medical Knowledge to Two Thousand Four Hundred Pesos Per Annum",
   "orig": "An Act Fixing the Minimum Compensation of Physicians Employed By the Government in Positions Requiring Medical Knowledge to Two Thousand Four Hundred Pesos Per Annum"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Fixing the Minimum Compensation of Physicians Employed By the Government in Positions Requiring Medical Knowledge to Two Thousand Four Hundred Pesos Per Annum",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

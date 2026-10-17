@@ -1,7 +1,7 @@
 {
  "id": "SG-H3336",
  "title": {
-  "zh": null,
+  "zh": "国民服役人员（雇佣）法 1970",
   "en": "National Servicemen (Employment) Act 1970",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "11. The Minister may make rules for carrying out or giving effect to the provisions of this Act, and, without prejudice to the generality of the foregoing power, may make rules —\n(a)prescribing matters which are to constitute conditions of, or disqualifications from, the retention in the register of the names of any persons, either generally or in particular circumstances; and\n(b)prescribing the issue of certificates to persons whose names appear on the register and the custody, use and delivery up of those certificates."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "National Servicemen (Employment) Act 1970",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-30-2006-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411",
+ "title": {
+  "zh": "依第 411 条出具的紧急证明",
+  "en": "CERTIFICATION OF URGENCY UNDER ARTICLE 411",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p28",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 804,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-30-2006-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-30-2006-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411.pdf》（1 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-30-2006-CERTIFICATION-OF-URGENCY-UNDER-ARTICLE-411-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 30\n\nCONSTITUTION OF BRUNEI DARUSSALAM CERTIFICATE OF URGENCY UNDER ARTICLE 41(1) In exercise of the power conferred by Clause ( 1) of Article 41 of the Constitution of Brunei Darussalam, His Majesty the Sultan and Yang Di-Pertuan hereby certifies that there is a case of urgency in respect of the Supply (2006/2007} Bill, 2006. Dated this 7th. day of Safar, 1427 Hijriah corresponding to the 7th. day of March, 2006 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENGIRAN HAJI AHMAD, Pemangku Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CERTIFICATION OF URGENCY UNDER ARTICLE 411",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

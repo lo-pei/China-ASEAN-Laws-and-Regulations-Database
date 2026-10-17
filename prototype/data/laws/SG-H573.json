@@ -1,7 +1,7 @@
 {
  "id": "SG-H573",
  "title": {
-  "zh": null,
+  "zh": "慈善（限制筹款呼吁）命令 2013",
   "en": "Charities (Restriction of Fund-raising Appeal) Order 2013",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Project Awareness (Singapore) Pte. Ltd. (UEN: 201320571D) shall not conduct (or continue to conduct) any fund‑raising appeal unless all the following conditions are satisfied:\n(a)it has proper systems and control in place to ensure compliance with the Charities (Fund‑raising Appeals for Local and Foreign Charitable Purposes) Regulations 2012 (G.N. No. S 530/2012);\n(b)the individual known as William Soh Sim Song (NRIC No. S7638187I) is not involved, directly or indirectly, in the conduct and management of any fund‑raising appeal;\n(c)any bank account for the receipt of proceeds from any fund‑raising appeal it conducts must be in the name of Project Awareness (Singapore) Pte. Ltd. and no other."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Charities (Restriction of Fund-raising Appeal) Order 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

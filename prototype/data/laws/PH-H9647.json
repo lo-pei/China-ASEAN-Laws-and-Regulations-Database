@@ -1,7 +1,7 @@
 {
  "id": "PH-H9647",
  "title": {
-  "zh": null,
+  "zh": "要求移动服务提供商向用户提供全国移动号码携带服务的法案",
   "en": "An Act Requiring Mobile Service Providers to Provide Nationwide Mobile Number Portability to Subscribers",
   "orig": "An Act Requiring Mobile Service Providers to Provide Nationwide Mobile Number Portability to Subscribers"
  },
@@ -180,5 +180,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring Mobile Service Providers to Provide Nationwide Mobile Number Portability to Subscribers",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

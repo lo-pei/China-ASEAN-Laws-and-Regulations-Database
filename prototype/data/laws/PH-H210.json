@@ -1,7 +1,7 @@
 {
  "id": "PH-H210",
  "title": {
-  "zh": null,
+  "zh": "授权契约登记官在其办公室签发的产权证书及其他需盖章的文件上使用本办公室印章，而非初审法院印章的法案",
   "en": "An Act Authorizing the Register of Deeds to Use the Seal of His Office, Instead of that of the Court of First Instance in Certificates of Title and Other Papers Which Require a Seal and Which are Issued by His Office",
   "orig": "An Act Authorizing the Register of Deeds to Use the Seal of His Office, Instead of that of the Court of First Instance in Certificates of Title and Other Papers Which Require a Seal and Which are Issued by His Office"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 7, 1947"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Register of Deeds to Use the Seal of His Office, Instead of that of the Court of First Instance in Certificates of Title and Other Papers Which Require a Seal and Which are Issued by His Office",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

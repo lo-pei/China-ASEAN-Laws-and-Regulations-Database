@@ -1,7 +1,7 @@
 {
  "id": "SG-H1565",
  "title": {
-  "zh": null,
+  "zh": "金融服务与市场（罪行构成）条例 2023",
   "en": "Financial Services and Markets (Composition of Offences) Regulations 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Any offence (including a continuing offence) under the Act that is punishable with a fine only may be compounded by the Authority in accordance with section 177 of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Financial Services and Markets (Composition of Offences) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2160",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发利息及其他付款豁免）（第 3 号）公告 2019",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 3) Notification 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest payable by Pacific International Lines (Private) Limited to Hai Ping 1801 Limited under a container lease agreement dated 19 September 2018 of an amount up to a maximum of US$13,511,637.64, is exempt from tax.\n(2) An amount of US$412,578, being part of the upfront fee payable by Pacific International Lines (Private) Limited to Hai Ping 1801 Limited for the container lease agreement mentioned in sub‑paragraph (1), is exempt from tax.\n(3) The exemptions under sub‑paragraphs (1) and (2) are subject to the conditions specified in paragraphs 5 and 6 of the letter of approval dated 14 January 2019 issued by the Ministry of Finance and addressed to Pacific International Lines (Private) Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 3) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

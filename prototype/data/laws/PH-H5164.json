@@ -1,7 +1,7 @@
 {
  "id": "PH-H5164",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛省哈尼瓦伊市镇的Janiuay国立综合中学更名为Don Tibursio A. Lutero国立综合中学的法案",
   "en": "An Acting Renaming the Janiuay National Comprehensive High School, in the Municipality of Janiuay, Province of Iloilo, as the Don Tibursio A. Lutero National Comprehensive High School",
   "orig": "An Acting Renaming the Janiuay National Comprehensive High School, in the Municipality of Janiuay, Province of Iloilo, as the Don Tibursio A. Lutero National Comprehensive High School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Acting Renaming the Janiuay National Comprehensive High School, in the Municipality of Janiuay, Province of Iloilo, as the Don Tibursio A. Lutero National Comprehensive High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

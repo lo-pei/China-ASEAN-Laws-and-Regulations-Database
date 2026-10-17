@@ -1,7 +1,7 @@
 {
  "id": "PH-H6771",
  "title": {
-  "zh": null,
+  "zh": "全国儿童广播日",
   "en": "The National Children's Broadcasting Day",
   "orig": "The National Children's Broadcasting Day An Act Declaring Every Second Sunday of December as the National Children's Broadcasting Day"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The National Children's Broadcasting Day",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

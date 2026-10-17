@@ -1,7 +1,7 @@
 {
  "id": "PH-H8782",
  "title": {
-  "zh": null,
+  "zh": "将南甘马粦省 Minalabac 市镇 Antipolo 描笼涯的 Minalabac 国立中学的 Antipolo 附属校分离，改设为独立的安蒂波洛 国立中学，并为此拨款",
   "en": "An Act Separating the Minalabac National Highschool - Antipolo Annex in Baran Gay Antipolo, Municipality of Minalabac, Province of Camarines Sur From the Minalabac National High School, Converting It Into An Independent National High School to Be Known as Antipolo National High Schooland Appropriating Funds Therefor",
   "orig": "An Act Separating the Minalabac National Highschool - Antipolo Annex in Baran Gay Antipolo, Municipality of Minalabac, Province of Camarines Sur From the Minalabac National High School, Converting It Into An Independent National High School to Be Known as Antipolo National High Schooland Appropriating Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Minalabac National Highschool - Antipolo Annex in Baran Gay Antipolo, Municipality of Minalabac, Province of Camarines Sur From the Minalabac National High School, Converting It Into An Independent National High School to Be Known as Antipolo National High Schooland Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

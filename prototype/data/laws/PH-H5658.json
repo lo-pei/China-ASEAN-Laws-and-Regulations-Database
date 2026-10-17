@@ -1,7 +1,7 @@
 {
  "id": "PH-H5658",
  "title": {
-  "zh": null,
+  "zh": "1991 年器官捐献法",
   "en": "Organ Donation Act of 1991",
   "orig": "Organ Donation Act of 1991 An Act Authorizing the Legacy or Donation of All or Part of a Human Body After Death for Specified Purposes"
  },
@@ -230,5 +230,13 @@
     "en": "Effectivity. – This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or at least two (2) newspapers of general circulation.\nApproved: January 7, 1992"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Organ Donation Act of 1991",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

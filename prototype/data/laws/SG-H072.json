@@ -1,7 +1,7 @@
 {
  "id": "SG-H072",
  "title": {
-  "zh": null,
+  "zh": "主动出行（电子送达系统）条例 2019",
   "en": "Active Mobility (Electronic Service System) Regulations 2019",
   "orig": null
  },
@@ -97,5 +97,13 @@
     "en": "SECOND SCHEDULE\nRule 3(2)\nMatters in which related documents\nare authorised to be served on individual,\npartnership, body corporate or\nunincorporated association\nPart 1\nACTIVE MOBILITY ACT 2017\nDescription\nApplicable section\n1.Order to deliver vehicle for inspection\n47(1)(c)\nPart 2\nACTIVE MOBILITY (REGISTRATION OF REGISTRABLE\nPERSONAL MOBILITY DEVICES) REGULATIONS 2019\nDescription\nApplicable regulation\n1.Request for applicant seeking to register personal mobility device to provide evidence\n5(3)\n2.Inspection of personal mobility device\n6(1)\n3.Request for applicant of application to transfer registration of registered responsible person to provide evidence\n9(3)\n4.Inspection of personal mobility device\n10(1)\n5.Request for evidence that changes mentioned in regulation 22(1) are correct\n22(2)\n6.Notice to present registered registrable PMD for inspection or testing\n32(1)\n[S 141/2022 wef 01/03/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Electronic Service System) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5779",
  "title": {
-  "zh": null,
+  "zh": "恢复菲律宾退伍军人联合会在第2640号共和国法下曾享有的税收与关税优惠的法案",
   "en": "An Act Restoring the Tax and Duty Incentives Previously Enjoyed By the Veterans Federation of the Philippines Under Republic Act Numbered Twenty-six Hundred and Forty",
   "orig": "An Act Restoring the Tax and Duty Incentives Previously Enjoyed By the Veterans Federation of the Philippines Under Republic Act Numbered Twenty-six Hundred and Forty"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Restoring the Tax and Duty Incentives Previously Enjoyed By the Veterans Federation of the Philippines Under Republic Act Numbered Twenty-six Hundred and Forty",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

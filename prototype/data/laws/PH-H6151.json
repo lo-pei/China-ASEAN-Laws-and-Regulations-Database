@@ -1,7 +1,7 @@
 {
  "id": "PH-H6151",
  "title": {
-  "zh": null,
+  "zh": "宣布每年6月15日为卡加延-德奥罗市特别非工作假日，名称为卡加延-德奥罗市宪章日的法案",
   "en": "An Act Declaring June Fifteen of Every Year as a Special Nonworking Public Holiday in Cagayan De Oro City to Be Known as Cagayan De Oro City Charter Day",
   "orig": "An Act Declaring June Fifteen of Every Year as a Special Nonworking Public Holiday in Cagayan De Oro City to Be Known as Cagayan De Oro City Charter Day"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring June Fifteen of Every Year as a Special Nonworking Public Holiday in Cagayan De Oro City to Be Known as Cagayan De Oro City Charter Day",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

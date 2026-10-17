@@ -1,7 +1,7 @@
 {
  "id": "PH-H641",
  "title": {
-  "zh": null,
+  "zh": "授予 Maranao 电话公司在拉瑙省及 Dansalan 与 Iligan 市安装、运营和维护电话系统的特许经营权法案",
   "en": "An Act Granting to Maranao Telephone Company a Franchise to Install, Operate, and Maintain a Telephone System in the Province of Lanao and in the Cities of Dansalan and Iligan",
   "orig": "An Act Granting to Maranao Telephone Company a Franchise to Install, Operate, and Maintain a Telephone System in the Province of Lanao and in the Cities of Dansalan and Iligan"
  },
@@ -240,5 +240,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting to Maranao Telephone Company a Franchise to Install, Operate, and Maintain a Telephone System in the Province of Lanao and in the Cities of Dansalan and Iligan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

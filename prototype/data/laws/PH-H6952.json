@@ -1,7 +1,7 @@
 {
  "id": "PH-H6952",
  "title": {
-  "zh": null,
+  "zh": "将北萨马省第二代表区改设为独立的公路工程区并为此拨款的法案",
   "en": "An Act Constituting the Second Representative District of the Province of Northern Samar Into a Separate Highway Engineering District, and Appropriating Funds Therefor",
   "orig": "An Act Constituting the Second Representative District of the Province of Northern Samar Into a Separate Highway Engineering District, and Appropriating Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Constituting the Second Representative District of the Province of Northern Samar Into a Separate Highway Engineering District, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

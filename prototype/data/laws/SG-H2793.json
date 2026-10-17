@@ -1,7 +1,7 @@
 {
  "id": "SG-H2793",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（债务安排计划中的债权证明）条例 2020",
   "en": "Insolvency, Restructuring and Dissolution (Proofs of Debt in Schemes of Arrangement) Regulations 2020",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "8.—(1) Every written notice or request or other information in writing required or authorised to be sent or given by any person (called in this regulation the sender) to any other person (called in this regulation the recipient) under any provision of these Regulations may be sent or given to the recipient —\n(a)by sending the notice or request or other information in writing to the recipient by registered post addressed to the recipient at the last known address of the recipient;\n(b)by sending an electronic communication of the notice or request or other information to the last electronic mail address of the recipient given to the sender, if such mode of sending the notice or request or other information was previously agreed in writing between the sender and the recipient; or\n(c)by sending the notice or request or other information to the last facsimile transmission number of the recipient given to the sender, if such mode of sending the notice or request or other information was previously agreed in writing between the sender and the recipient.\n(2) Where any written notice or request or other information in writing required or authorised to be sent or given by a sender to a recipient under these Regulations is sent by registered post, the notice or request or other information is presumed, unless the contrary is proved, to have been duly received by the recipient 2 days after the day that it was posted.\n(3) Where any written notice or request or other information in writing required or authorised to be sent or given by a sender to a recipient under these Regulations is sent by electronic communication to an electronic mail address in accordance with paragraph (1)(b), the notice or request or other information is presumed, unless the contrary is proved, to have been duly sent by the sender and received by the recipient at the time the electronic communication enters the information system for that electronic mail address.\n(4) Where any written notice or request or other information in writing required or authorised to be sent or given by a sender to a recipient under these Regulations is sent by facsimile transmission to a facsimile transmission number in accordance with paragraph (1)(c), the notice or request or other information is presumed, unless the contrary is proved, to have been duly sent by the sender and received by the recipient on the day of the transmission, subject to the receipt on the sending facsimile machine of a notification (by electronic or other means) of a successful transmission to the facsimile machine for that facsimile transmission number."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insolvency, Restructuring and Dissolution (Proofs of Debt in Schemes of Arrangement) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

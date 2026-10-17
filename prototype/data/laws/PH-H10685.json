@@ -1,7 +1,7 @@
 {
  "id": "PH-H10685",
  "title": {
-  "zh": null,
+  "zh": "在迪纳加特群岛省唯一选区设立国立学院并为此拨款的法案",
   "en": "An Act Establishing a State College in the Lone District of the Province of Dinagat Islands an Appropriating Funds Therefor",
   "orig": "An Act Establishing a State College in the Lone District of the Province of Dinagat Islands an Appropriating Funds Therefor"
  },
@@ -300,5 +300,13 @@
     "en": "Effectivity. - This Act shall become effective fifteen (15) days after its complete publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a State College in the Lone District of the Province of Dinagat Islands an Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

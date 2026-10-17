@@ -1,7 +1,7 @@
 {
  "id": "PH-H7532",
  "title": {
-  "zh": null,
+  "zh": "给予国家运动员、教练与培训师现金及其他非金钱福利与激励、为此拨款并为其他目的法案",
   "en": "An Act Granting Cash and Other Non-Monetary Beneflts and Incentives to National Athletes, Coaches and Trainers, Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act Granting Cash and Other Non-Monetary Beneflts and Incentives to National Athletes, Coaches and Trainers, Appropriating Funds Therefor and for Other Purposes"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its approval and publication in the Official Gazette and/or in two (2) newspapers of general circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Cash and Other Non-Monetary Beneflts and Incentives to National Athletes, Coaches and Trainers, Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

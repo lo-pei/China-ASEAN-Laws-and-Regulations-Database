@@ -1,7 +1,7 @@
 {
  "id": "PH-H1361",
  "title": {
-  "zh": null,
+  "zh": "将巴拉望省普林塞萨港市镇的卡拉格本根、塔拉巴南、本多扬、塔拉比甘、塔格布安与朗戈安小村组建为名为康塞普西翁的村的法案",
   "en": "An Act Constituting the Sitios of Calagbenguen, Tarabanan, Bendoyan, Talabigan, Tagbuan and Langogan, Municipality of Puerto Princesa, Province of Palawan, into a Barrio to be Known as Concepcion",
   "orig": "An Act Constituting the Sitios of Calagbenguen, Tarabanan, Bendoyan, Talabigan, Tagbuan and Langogan, Municipality of Puerto Princesa, Province of Palawan, into a Barrio to be Known as Concepcion"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Constituting the Sitios of Calagbenguen, Tarabanan, Bendoyan, Talabigan, Tagbuan and Langogan, Municipality of Puerto Princesa, Province of Palawan, into a Barrio to be Known as Concepcion",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

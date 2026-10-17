@@ -1,7 +1,7 @@
 {
  "id": "PH-H1034",
  "title": {
-  "zh": null,
+  "zh": "规范农地地主与佃户关系的法案",
   "en": "An Act to Govern the Relations Between Landholders and Tenants of Agricultural Lands",
   "orig": "An Act to Govern the Relations Between Landholders and Tenants of Agricultural Lands"
  },
@@ -757,5 +757,13 @@
     "en": "Effective Date. - This Act shall take effect upon its approval.\nApproved: August 30, 1954 SCHEDULE \"A\" The rental value of work animals and farm implements other than machinery, shall not exceed the allowable depreciation charges plus six per cent (6%) interest per annum computed on the market value of the said work animals and farm implements not fixed in this Schedule shall be those prevailing in the locality where the said animals and implements are rented.\nItem\nMarket Value\nPeriod of depreciation Allowable depreciation in years Allowable interest at charge 6 per cent Fair Rental value per annum Carabao P300.00 10 P30.00 P18.00 P48.00 Bullock\n600.00 7\n85.91\n36.00\n121.00 Horse, native\n150.00 8\n18.75\n9.00\n27.75 Cattle\n200.00 7\n28.57\n12.00\n40.57 Plow, iron\n40.00 5\n8.00\n2.40\n10.40 Plow wooden\n25.00 2\n12.50\n1.50\n14.00 Harrow iron\n18.00 5\n3.60\n1.00\n4.68 Carreton (native cart)\n400.00 10\n40.00\n24.00\n64.00 SCHEDULE \"B\" The rental value for farm machineries inclusive of tractors, tractor equipment, engines, motors, and pumps shall not exceed the allowable depreciation equal to one-tenth (1/10) of the current market value plus interest at six per cent (6% per annum.\nSCHEDULE \"C\" The amounts to be charged by the landholder when he performs services in the operation of the farm enterprise shall not current the rates in the locality where such services are rendered."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Govern the Relations Between Landholders and Tenants of Agricultural Lands",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

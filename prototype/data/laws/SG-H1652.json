@@ -1,7 +1,7 @@
 {
  "id": "SG-H1652",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（动物管理——豁免）命令 2025",
   "en": "Guns, Explosives and Weapons Control (Animal Management — Exemption) Order 2025",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. Each of the individuals in paragraph 3 is exempt from the requirement in section 32(1) of the Act for conveying a defined weapon —\n(a)to any place in Singapore on a journey wholly within Singapore; and\n(b)in a vehicle by road or a vessel by water, or both, which is driven, ridden or piloted (as the case may be) by the individual,\nfor and in the exercise or discharge at that place of the individual’s powers or duties under written law for an animal management purpose, including sedating an animal preparatory to, or consequential on, carrying out that animal management purpose."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Guns, Explosives and Weapons Control (Animal Management — Exemption) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

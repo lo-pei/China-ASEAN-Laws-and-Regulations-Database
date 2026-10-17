@@ -1,7 +1,7 @@
 {
  "id": "SG-H3393",
  "title": {
-  "zh": null,
+  "zh": "在线安全（救济与问责）（复议与上诉）条例 2026",
   "en": "Online Safety (Relief and Accountability) (Reconsideration and Appeal) Regulations 2026",
   "orig": null
  },
@@ -262,5 +262,13 @@
     "en": "14. An appeal may be withdrawn at any time before the Appeal Committee constituted to determine the appeal makes a decision under section 64 in respect of the appeal."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Online Safety (Relief and Accountability) (Reconsideration and Appeal) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

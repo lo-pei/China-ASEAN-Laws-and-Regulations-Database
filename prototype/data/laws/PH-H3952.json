@@ -1,7 +1,7 @@
 {
  "id": "PH-H3952",
  "title": {
-  "zh": null,
+  "zh": "修订第4545号共和国法（即《授予Rural Electrification Corporation在棉兰老岛设立、维护与运营无线电广播与电视站特许权法》）的法案",
   "en": "An Act Amending Republic Act Numbered Forty-Five Hundred Forty-Five, Entitled \"An Act Granting Rural Electrification Corporation a Franchise to Establish, Maintain and Operate Radio Broadcasting and Television Stations in the Island of Mindanao\"",
   "orig": "An Act Amending Republic Act Numbered Forty-Five Hundred Forty-Five, Entitled \"An Act Granting Rural Electrification Corporation a Franchise to Establish, Maintain and Operate Radio Broadcasting and Television Stations in the Island of Mindanao\""
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Forty-Five Hundred Forty-Five, Entitled \"An Act Granting Rural Electrification Corporation a Franchise to Establish, Maintain and Operate Radio Broadcasting and Television Stations in the Island of Mindanao\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

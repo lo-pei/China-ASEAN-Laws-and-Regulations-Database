@@ -1,7 +1,7 @@
 {
  "id": "SG-H1439",
  "title": {
-  "zh": null,
+  "zh": "执行共管公寓住房计划（罚则）条例 1996",
   "en": "Executive Condominium Housing Scheme (Penalties) Regulations 1996",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\nProvisions of the Act contravened\nPenalties payable\n(1)Section 5(1)(a) or (b)\nAn amount equal to 5% of the value of the interest in the private property.\n(2)Section 9(1)(b)\nAn amount equal to 5% of the value of the interest in the private property.\n(3)Section 9(1)(c), (e) or (f)\nAn amount equal to 10% of the purchase price of the housing accommodation.\n(4)Section 9(1)(d)\nAn amount equal to 15% of the purchase price of the housing accommodation.\nFor the purposes of items (1) and (2), the value of the private property is to be determined by the Minister whose determination is final."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Executive Condominium Housing Scheme (Penalties) Regulations 1996",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

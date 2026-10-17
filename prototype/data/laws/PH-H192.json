@@ -1,7 +1,7 @@
 {
  "id": "PH-H192",
  "title": {
-  "zh": null,
+  "zh": "修订《修订行政法典》第182条，准许总土地登记局在该局签发或经该局签发的所有文书中使用本局印章而非初审法院印章的法案",
   "en": "An Act to Amend Section One Hundred and Eighty-Two of the Revised Administrative Code so as to Allow the General Land Registration Office to Use its Own Seal Instead of that of Courts of First Instance in All Processes Issued by or Through Said Office",
   "orig": "An Act to Amend Section One Hundred and Eighty-Two of the Revised Administrative Code so as to Allow the General Land Registration Office to Use its Own Seal Instead of that of Courts of First Instance in All Processes Issued by or Through Said Office"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: March 17, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section One Hundred and Eighty-Two of the Revised Administrative Code so as to Allow the General Land Registration Office to Use its Own Seal Instead of that of Courts of First Instance in All Processes Issued by or Through Said Office",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

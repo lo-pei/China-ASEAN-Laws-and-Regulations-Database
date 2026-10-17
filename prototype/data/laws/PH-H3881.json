@@ -1,7 +1,7 @@
 {
  "id": "PH-H3881",
  "title": {
-  "zh": null,
+  "zh": "将马尼拉市桑帕洛克区埃科诺米亚街更名为比森特·G·克鲁斯街的法案",
   "en": "An Act Changing the Name of Economia Street in the District of Sampaloc, City of Manila, to Vicente G. Cruz",
   "orig": "An Act Changing the Name of Economia Street in the District of Sampaloc, City of Manila, to Vicente G. Cruz"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Economia Street in the District of Sampaloc, City of Manila, to Vicente G. Cruz",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

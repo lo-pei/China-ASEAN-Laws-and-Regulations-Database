@@ -1,7 +1,7 @@
 {
  "id": "PH-H2908",
  "title": {
-  "zh": null,
+  "zh": "修订第3089号共和国法（即1961年《金矿业援助法》）若干条款的法案",
   "en": "An Act Amending Certain Provisions of Republic Act Numbered Three Thousand Eighty-Nine Otherwise Known as the Gold Mining Industry Assistance Act of 1961",
   "orig": "An Act Amending Certain Provisions of Republic Act Numbered Three Thousand Eighty-Nine Otherwise Known as the Gold Mining Industry Assistance Act of 1961"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1962."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Provisions of Republic Act Numbered Three Thousand Eighty-Nine Otherwise Known as the Gold Mining Industry Assistance Act of 1961",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

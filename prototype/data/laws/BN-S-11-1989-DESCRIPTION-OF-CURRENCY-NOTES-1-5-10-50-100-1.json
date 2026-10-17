@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-11-1989-DESCRIPTION-OF-CURRENCY-NOTES-1-5-10-50-100-1",
+ "title": {
+  "zh": "面额 1、5、10、50、100 的纸币说明",
+  "en": "DESCRIPTION OF CURRENCY NOTES 1 5 10 50 100 1",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p25",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 2275,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-11-1989-DESCRIPTION-OF-CURRENCY-NOTES-1-5-10-50-100-1.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-11-1989-DESCRIPTION-OF-CURRENCY-NOTES-1-5-10-50-100-1.pdf》（2 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-11-1989-DESCRIPTION-OF-CURRENCY-NOTES-1-5-10-50-100-1-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "\"' 01 No. S 11 CURRENCY ACT t:l:l (CHAPTER 32) -:= ~ (Section 12) t:r.l ~ Pursuant to Section 12(2) of the Currency Act (Chapter 32), it is hereby notified for general information that the denominations and characteristics of the currency notes to be issued by the Brunei Currency Board on or about 23rd. February, 1989 are c as shown in the Schedule hereunder:-Cl) ~\n\nTHE SCHEDULE Description of the Brunei $1, $5, $10, $50 and $100 currency notes ~ Denomination Size Front Design Back Design Predominant Colour ~ $1 125 mm x 63 mm Protrait of His Majesty Sultan Haji Hassanal Bolkiah Kampong Ayer Blue Mu'izzaddin Waddaulah, D.K.M.B., D.K., P.S.S.U.B., ~ $5 133 mm x 66 mm D.P.K.G., D.P.K.T., P.S.P.N.B., P.S.N.B., P.S.L.J., S.P.M.B., Kampong Ayer Green P.A.N.B., G.C.M.G., D.M.N., D.K. (Kelantan), D.K. (Johor), ~ $10 141 mm x 69 mm D.K. (Negeri Sembilan), Collar of the Supreme Order of Kampong Ayer and Omar Red the Chrysanthemum, Grand Order of Mugunghwa, D.K. Ali Saifuddin Mosque trJ (Pahang), Bintang Republik Indonesia Adipurna, Collar of ~ $50 157 mm x 75 mm the Nile, The Order of AI-Hussein bin Ali, The Civil Order Kampong Ayer Water Sepia Brown/Green of Oman, D.K. (Selangor), D.K. (Pedis), D.K. (Perak), The Taxi Ancient Order of Sikatuna Rank of Rajah, AI Khalifia, $100 165 mm x 78 mm Ouissam El Mohammdi Grand Collier, The Most Kampong Ayer Deep Blue/Purple Auspicious Order of the Rajamitrabhorn, P.G.A.T., Sultan and Yang Di-Pertuan of Brunei Darussalam. Each note has security features of a watermark portrait of His Majesty Sultan Hajf Hassanal Bolkiah Mu'izzaddin Waddaulah, Sultan and Yang Di-Pertuan of Brunei Darussalam, latent image, front to back registration, continuous and embedded security a Q thread and an invisible image of the Crest of Brunei Darussalam. a. ~ g. PADUKA SERI PENGIRAN DIGADONG SAHIBUL MAL > PENGIRAN MUDA HAJI JEFRI BOLKIAH, ::X:: I:'\"' Chairman, i3 1'1> ::t: - 1'1> > Brunei Currency Board, ::J....., g.;; > Brunei Darussalam. ::l c::cn 1:..\"1 (/) ::l > o.Z ::l I» -\"tl ()Q • ::l 1'1> ~ ~~ )Q ~~ I» ::l to ~\"tl 8 {>It 01 z~ 1'1> ~ ()Q I» I» - I» ... Ill :II;\" 2 to? Q. ::l n>....., -· 0[ -· 1:..\"1 I» ... Ill ..... 8: s:: ::l ;:r ~ ;.~ \"tl i3 1'1> \"%j t:t:l . ii) 0::1 :II;\" ::l 1:..\"1 ~ ~ > i. ii: ?J ? ...... !J) 00 !J)"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DESCRIPTION OF CURRENCY NOTES 1 5 10 50 100 1",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9255",
  "title": {
-  "zh": null,
+  "zh": "宣布每年2月13日为马尼拉大都会Parañaque市特别工作假日及学校停课日，以纪念其建市纪念日的法案",
   "en": "An Act Declaring February 13 of Every Year a Special Working Holiday and No Class Day in Schools in the City of Parañaque, Metro Manila in Commemoration of Its Foundation Day Anniversary",
   "orig": "An Act Declaring February 13 of Every Year a Special Working Holiday and No Class Day in Schools in the City of Parañaque, Metro Manila in Commemoration of Its Foundation Day Anniversary"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring February 13 of Every Year a Special Working Holiday and No Class Day in Schools in the City of Parañaque, Metro Manila in Commemoration of Its Foundation Day Anniversary",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

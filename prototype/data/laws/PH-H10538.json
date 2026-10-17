@@ -1,7 +1,7 @@
 {
  "id": "PH-H10538",
  "title": {
-  "zh": null,
+  "zh": "在伊洛伊洛省第三立法区Pototan市镇设立陆运署区办公室并为此拨款的法案",
   "en": "An Act Establishing a District Office of the Land Transportation Office in the Municipality of Pototan in the Third Legislative District of the Province of Iloilo and Appropriating Funds Therefor",
   "orig": "An Act Establishing a District Office of the Land Transportation Office in the Municipality of Pototan in the Third Legislative District of the Province of Iloilo and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a District Office of the Land Transportation Office in the Municipality of Pototan in the Third Legislative District of the Province of Iloilo and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

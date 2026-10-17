@@ -1,7 +1,7 @@
 {
  "id": "PH-H5285",
  "title": {
-  "zh": null,
+  "zh": "将碧瑶市Dr. Efrain C. Montemayor医疗中心的名称变更为碧瑶综合医院与医疗中心的法案",
   "en": "An Act Changing the Name of the Dr. Efrain C. Montemayor Medical Center in Baguio City to Baguio General Hospital and Medical Center",
   "orig": "An Act Changing the Name of the Dr. Efrain C. Montemayor Medical Center in Baguio City to Baguio General Hospital and Medical Center"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Dr. Efrain C. Montemayor Medical Center in Baguio City to Baguio General Hospital and Medical Center",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

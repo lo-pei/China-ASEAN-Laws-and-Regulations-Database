@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-61-RG1-2024-FISHERIES-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG1 2024 版渔业条例",
   "en": "RG1 2024 ED FISHERIES REGULATIONS",
   "orig": null
  },
@@ -122,5 +122,13 @@
     "en": "Sport fishing .......................................................................................... $50.00 per event tournament. [S 156/1981; S 25/2009]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG1 2024 ED FISHERIES REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

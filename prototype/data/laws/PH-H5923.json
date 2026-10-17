@@ -1,7 +1,7 @@
 {
  "id": "PH-H5923",
  "title": {
-  "zh": null,
+  "zh": "授权部分增加菲律宾武装部队晋升少校/海军少校（PN）职级的配额，以避免上尉/海军上尉（PN）军官晋升出现不合理延误",
   "en": "An Act Authorizing A Partial Increase in the Quota Allocation For Promotion To the Grade of Major/Lieutenant Commander (PN) in the Armed Forces of the Philippines in Order To Avoid Unreasonable Delay in the Promotion of the Officers in the Grade of Captain/Lieutenant (PN)",
   "orig": "An Act Authorizing A Partial Increase in the Quota Allocation For Promotion To the Grade of Major/Lieutenant Commander (PN) in the Armed Forces of the Philippines in Order To Avoid Unreasonable Delay in the Promotion of the Officers in the Grade of Captain/Lieutenant (PN)"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a major daily newspaper of general circulation, whichever is earlier, and shall cease to have any effect after June 30, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing A Partial Increase in the Quota Allocation For Promotion To the Grade of Major/Lieutenant Commander (PN) in the Armed Forces of the Philippines in Order To Avoid Unreasonable Delay in the Promotion of the Officers in the Grade of Captain/Lieutenant (PN)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

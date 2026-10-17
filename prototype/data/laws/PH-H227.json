@@ -1,7 +1,7 @@
 {
  "id": "PH-H227",
  "title": {
-  "zh": null,
+  "zh": "继续现行省市分类并授权菲律宾总统作出部分调整的法案",
   "en": "An Act Continuing the Existing Classifications of Provinces and Municipalities and Authorizing the President of the Philippines to Make Partial Readjustments Thereof",
   "orig": "An Act Continuing the Existing Classifications of Provinces and Municipalities and Authorizing the President of the Philippines to Make Partial Readjustments Thereof"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Continuing the Existing Classifications of Provinces and Municipalities and Authorizing the President of the Philippines to Make Partial Readjustments Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

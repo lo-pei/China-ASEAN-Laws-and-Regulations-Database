@@ -1,7 +1,7 @@
 {
  "id": "PH-H2910",
  "title": {
-  "zh": null,
+  "zh": "将卡加延省 All-lo 市镇卡加延谷国立农业学校改设为名为卡加延谷农业学院的学院并授权拨款",
   "en": "An Act to Convert the Cagayan Valley National Agricultural School in the Municipality of All-lo, Province of Cagayan, into a College to be Known as the Cagayan Valley Agricultural College, and to Authorize the Appropriation of Funds Therefor",
   "orig": "An Act to Convert the Cagayan Valley National Agricultural School in the Municipality of All-lo, Province of Cagayan, into a College to be Known as the Cagayan Valley Agricultural College, and to Authorize the Appropriation of Funds Therefor"
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1962."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Cagayan Valley National Agricultural School in the Municipality of All-lo, Province of Cagayan, into a College to be Known as the Cagayan Valley Agricultural College, and to Authorize the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

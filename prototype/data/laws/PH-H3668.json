@@ -1,7 +1,7 @@
 {
  "id": "PH-H3668",
  "title": {
-  "zh": null,
+  "zh": "授予菲律宾单轨运输系统公司在马尼拉市及郊区与宿务市及省运营单轨运输服务的特许经营权法案",
   "en": "An Act Granting the Philippine Monorail Transit System, Incorporated a Franchise to Establish, Maintain and Operate a Monorail Transportation Service in the City of Manila and Suburbs and Cebu City and Province",
   "orig": "An Act Granting the Philippine Monorail Transit System, Incorporated a Franchise to Establish, Maintain and Operate a Monorail Transportation Service in the City of Manila and Suburbs and Cebu City and Province"
  },
@@ -171,5 +171,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Philippine Monorail Transit System, Incorporated a Franchise to Establish, Maintain and Operate a Monorail Transportation Service in the City of Manila and Suburbs and Cebu City and Province",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

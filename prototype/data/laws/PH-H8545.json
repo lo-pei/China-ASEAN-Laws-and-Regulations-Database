@@ -1,7 +1,7 @@
 {
  "id": "PH-H8545",
  "title": {
-  "zh": null,
+  "zh": "禁止并处罚在放映场所未经授权使用、持有或控制视听录制设备以盗录电影及其他视听作品或其声带的行为并为其他目的法案",
   "en": "An Act to Prohibit and Penalize the Unauthorized Use, Possession And/or Control of Audiovisual Recording Devices for the Unauthorized Recording of Cinematographic Films and Other Audiovisual Works And/or Their Soundtracks in an Exhibition Facility, Providing Penalties Therefor and for Other Purposes",
   "orig": "An Act to Prohibit and Penalize the Unauthorized Use, Possession And/or Control of Audiovisual Recording Devices for the Unauthorized Recording of Cinematographic Films and Other Audiovisual Works And/or Their Soundtracks in an Exhibition Facility, Providing Penalties Therefor and for Other Purposes"
  },
@@ -180,5 +180,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of national circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Prohibit and Penalize the Unauthorized Use, Possession And/or Control of Audiovisual Recording Devices for the Unauthorized Recording of Cinematographic Films and Other Audiovisual Works And/or Their Soundtracks in an Exhibition Facility, Providing Penalties Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

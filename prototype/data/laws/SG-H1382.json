@@ -1,7 +1,7 @@
 {
  "id": "SG-H1382",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（须登记气溶胶生成系统）条例 2021",
   "en": "Environmental Public Health (Registrable Aerosol-generating Systems) Regulations 2021",
   "orig": null
  },
@@ -250,5 +250,13 @@
     "en": "SECOND SCHEDULE\nRegulations 7 and 8\nWater in registered aerosol-generating system\nFirst column\nSecond column\nThird column\nFourth column\nParameter\nParameter limits\nMinimum testing\nfrequency\nWhether results of test undertaken under regulation 7(1)(a) for that parameter must be submitted to Director‑General\n1.Heterotrophic Plate Count (HPC) at 48h, 35ºC\nMust not exceed 100,000 colony forming units per millilitre\n(a)once a month; and\n(b)in the case where the use or operation of the registered aerosol‑generating system has ceased for a period exceeding 5 consecutive days, before resuming the use or operation of the registered aerosol‑generating system\nNo\n2.Legionella Bacteria Count\nMust not exceed 10 colony forming units per millilitre\n(a)once every 3 months; and\n(b)in the case where the use or operation of the registered aerosol‑generating system has ceased for a period exceeding 5 consecutive days, before resuming the use or operation of the registered aerosol‑generating system\nYes\n[S 750/2024 wef 01/10/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Public Health (Registrable Aerosol-generating Systems) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1474",
  "title": {
-  "zh": null,
+  "zh": "家庭司法（防止骚扰）规则 2024",
   "en": "Family Justice (Protection from Harassment) Rules 2024",
   "orig": null
  },
@@ -486,5 +486,13 @@
     "en": "28.—(1) A Family Court or the Registrar may, in making a decision as to the award of costs and disbursements and the amount of costs and disbursements to be allowed, take into account the principle of proportionality and any of the following matters:\n(a)whether the whole or any part of a claim ––\n(i)discloses no reasonable cause of action or defence, as the case may be;\n(ii)is an abuse of process; or\n(iii)may prejudice, embarrass or delay the fair hearing of the PH proceedings;\n(b)whether it is just and equitable to make the award or order or award the costs;\n(c)the parties’ conduct in relation to any attempt at resolving the claim by mediation;\n(d)the extent to which the parties have followed any applicable rules, pre‑action protocol or practice direction for the time being issued by the Registrar.\n(2) To avoid doubt, disbursements include document fees, interpreters’ fees and hearing fees.\n(3) Unless a Family Court or the Registrar directs otherwise, any costs and disbursements awarded must be paid within 7 days after the decision of the Family Court or Registrar as to costs and disbursements."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Family Justice (Protection from Harassment) Rules 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

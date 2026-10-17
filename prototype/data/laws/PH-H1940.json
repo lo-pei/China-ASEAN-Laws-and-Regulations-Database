@@ -1,7 +1,7 @@
 {
  "id": "PH-H1940",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省巴戈市镇杜劳村杜劳小学的名称变更为Vidal Cauntoy小学的法案",
   "en": "An Act to Change the Name of the Dulao Primary School in the Barrio of Dulao, Municipality of Bago, Province of Negros Occidental, to Vidal Cauntoy Primary School",
   "orig": "An Act to Change the Name of the Dulao Primary School in the Barrio of Dulao, Municipality of Bago, Province of Negros Occidental, to Vidal Cauntoy Primary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 7, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Change the Name of the Dulao Primary School in the Barrio of Dulao, Municipality of Bago, Province of Negros Occidental, to Vidal Cauntoy Primary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

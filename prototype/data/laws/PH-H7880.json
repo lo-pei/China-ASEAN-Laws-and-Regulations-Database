@@ -1,7 +1,7 @@
 {
  "id": "PH-H7880",
  "title": {
-  "zh": null,
+  "zh": "将 Amang Rodriguez 纪念医疗中心床位由一百五十（150）张增至三百（300）张并为其拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Amang Rodriguez Memorial Medical Center from One Hundred Fifty (150) to Three Hundred (300) Beds and appropriating funds therefor",
   "orig": "An Act Increasing the Bed Capacity of the Amang Rodriguez Memorial Medical Center from One Hundred Fifty (150) to Three Hundred (300) Beds and appropriating funds therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Amang Rodriguez Memorial Medical Center from One Hundred Fifty (150) to Three Hundred (300) Beds and appropriating funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6948",
  "title": {
-  "zh": null,
+  "zh": "关于将 Isabela 省 Ilagan 市镇改设为组成市，名称为 Ilagan 市的法案",
   "en": "An Act Converting the Municipality of Ilagan Into a Component City of the Province of Isabela to Be Known as the City of Ilagan",
   "orig": "An Act Converting the Municipality of Ilagan Into a Component City of the Province of Isabela to Be Known as the City of Ilagan"
  },
@@ -789,5 +789,13 @@
     "en": "Effectivity. – This Act shall take effect upon its approval.\nApproved, February 2, 1998."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Municipality of Ilagan Into a Component City of the Province of Isabela to Be Known as the City of Ilagan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

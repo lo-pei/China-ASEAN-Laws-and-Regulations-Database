@@ -1,7 +1,7 @@
 {
  "id": "SG-H3174",
  "title": {
-  "zh": null,
+  "zh": "商船（载重线）条例",
   "en": "Merchant Shipping (Load Line) Regulations",
   "orig": null
  },
@@ -363,5 +363,13 @@
     "en": "25.—(1) The owner and the master of a ship to which these Regulations apply shall —\n(a)comply with these Regulations in respect of any matter that is governed thereby; and\n(b)ensure that the ship and its equipment comply with these Regulations.\n(2) Any owner or master of a ship who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and the ship may be detained."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Load Line) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-42-2008-CRIMINALS-REGISTRATION-ORDER-2008-SEC-17",
  "title": {
-  "zh": null,
+  "zh": "罪犯登记命令 2008 第 17 条",
   "en": "CRIMINALS REGISTRATION ORDER 2008 SEC. 17",
   "orig": null
  },
@@ -247,5 +247,13 @@
     "en": "The Registrar shall have the custody of all records of criminals and particulars which would be registrable particulars under this Order kept or maintained immediately before the commencement of this Order by the Fingerprint Bureau under the Fingerprints Enactment, 1956 (E. 17 of 56), and such records and particulars taken, received or registered in accordance with any written law, whether in force or not, shall be deemed to have been duly taken or received and, when registered, shall, for all purposes of this Order, be deemed to be comprised in and form part of the register maintained under this Order. Made this 24th. day of Rabiulawal, 1429 Hijriah corresponding to the 1st. day of April, 2008 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA AHMAD, Pemangku Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. B$5.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CRIMINALS REGISTRATION ORDER 2008 SEC. 17",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

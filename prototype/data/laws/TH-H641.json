@@ -1,7 +1,7 @@
 {
  "id": "TH-H641",
  "title": {
-  "zh": null,
+  "zh": "动物流行病法，佛历 2499（1956）（已废止）",
   "en": "ANIMAL EPIDEMICS ACT, B.E. 2499 (1956) (repeal)",
   "orig": "พระราชบัญญัติโรคระบาดสัตว์ พ.ศ. 2499 (ยกเลิก)"
  },
@@ -708,5 +708,13 @@
     "th": "มาตรา ๕๒ ให้อธิบดีมีอำนาจสั่งจ่ายเงินสินบนและรางวัลตามระเบียบที่อธิบดีกำหนดโดยความเห็นชอบจากกระทรวงการคลัง"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "ANIMAL EPIDEMICS ACT, B.E. 2499 (1956) (repeal)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

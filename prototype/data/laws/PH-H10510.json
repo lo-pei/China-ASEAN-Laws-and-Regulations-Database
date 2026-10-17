@@ -1,7 +1,7 @@
 {
  "id": "PH-H10510",
  "title": {
-  "zh": null,
+  "zh": "棉兰老穆斯林邦萨摩洛自治区组织法",
   "en": "Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao",
   "orig": "An Act Resetting the First Regular Elections in the bangsamoro Autonomous Region in Muslim Mindanao Amending for the purpose Section 13, Article XVI of Republic Act No. 11054. As Amended, otherwise known as the \"Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao\""
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in at least one (1) newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Organic Law for the Bangsamoro Autonomous Region in Muslim Mindanao",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

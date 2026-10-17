@@ -1,7 +1,7 @@
 {
  "id": "PH-H4722",
  "title": {
-  "zh": null,
+  "zh": "通过给予注册出口生产商、出口贸易商与服务出口商特定激励与豁免，振兴出口贸易以加快经济增长，废止第 5186 号共和国法所定出口激励并为其他目的法案",
   "en": "An Act to Invigorate the Country’s Export Trade as a Means of Accelerating Economic Growth by Granting Certain Incentives and Exemptions to Registered Export Producers, Export Traders, and Service Exporters, Repealing Export Incentives Granted Under Republic Act Numbered Fifty-One Hundred Eighty-Six, and for Other Purposes",
   "orig": "An Act to Invigorate the Country’s Export Trade as a Means of Accelerating Economic Growth by Granting Certain Incentives and Exemptions to Registered Export Producers, Export Traders, and Service Exporters, Repealing Export Incentives Granted Under Republic Act Numbered Fifty-One Hundred Eighty-Six, and for Other Purposes"
  },
@@ -260,5 +260,13 @@
     "en": "Effectivity. -This Act shall take effect upon its approval.\nApproved: August 31, 1970."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Invigorate the Country’s Export Trade as a Means of Accelerating Economic Growth by Granting Certain Incentives and Exemptions to Registered Export Producers, Export Traders, and Service Exporters, Repealing Export Incentives Granted Under Republic Act Numbered Fifty-One Hundred Eighty-Six, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

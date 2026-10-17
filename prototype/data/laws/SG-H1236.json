@@ -1,7 +1,7 @@
 {
  "id": "SG-H1236",
  "title": {
-  "zh": null,
+  "zh": "雇佣（行政罚款）条例 2016",
   "en": "Employment (Administrative Penalties) Regulations 2016",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nAdministrative penalties\nFirst column\nCivil contravention\nSecond column\nAmount of administrative penalty for first occasion\nThird column\nAmount of administrative penalty for subsequent occasion\n1.Failure under section 95(1) of the Act to make, or keep for the prescribed retention period, employee records\n$200 for the first occasion of failure with respect to any one employee or former employee\n$400 for each subsequent occasion of failure, whether or not with respect to the same employee or former employee\n2.Failure under section 95(1) of the Act to keep complete and accurate employee records containing the prescribed particulars\n$100 for the first occasion of failure with respect to any one employee or former employee\n$200 for each subsequent occasion of failure, whether or not with respect to the same employee or former employee\n3.Failure under section 95A(2) of the Act to give an employee a written record of the key employment terms within the time specified in that section\n$200 for the first occasion of failure with respect to any one employee or former employee\n$400 for each subsequent occasion of failure, whether or not with respect to the same employee or former employee\n4.Failure under section 95A(2) of the Act to —\n(a)specify; or\n(b)specify completely and accurately,\nthe prescribed key employment terms in a written record of key employment terms given within the time specified in that section\n$100 for the first occasion of failure with respect to any one employee or former employee\n$200 for each subsequent occasion of failure, whether or not with respect to the same employee or former employee\n5.Failure under section 96(1)(a) of the Act to give an employee a pay slip within the time prescribed\n$200 for the first occasion of failure with respect to any one employee or former employee\n$400 for each subsequent occasion of failure, whether or not with respect to the same employee or former employee\n6.Failure under section 96(1) of the Act to —\n(a)provide; or\n(b)provide completely and accurately,\nthe prescribed information in a pay slip given to an employee within the time prescribed\n$100 for the first occasion of failure with respect to any one employee or former employee\n$200 for each subsequent occasion of failure, whether or not with respect to the same employee or former employee\n7.Provision of inaccurate information or particulars to the Commissioner (except as in item 10) or an inspecting officer under the Act, inadvertently or without intent to mislead or to defraud\n$200 for the first occasion of provision\n$400 for each subsequent occasion of provision, whether or not with respect to the same inaccurate information or particulars\n8.Failure under section 96A(2) of the Act to give to the Commissioner a retrenchment report required by the Employment (Retrenchment Reporting) Notification 2019 (G.N. No. S 200/2019)\n$1,000 for the first occasion\n$2,000 for each subsequent occasion\n9.Failure under section 96A(2) of the Act to give to the Commissioner a retrenchment report within the time required by the Employment (Retrenchment Reporting) Notification 2019\n$1,000 for the first occasion\n$2,000 for each subsequent occasion\n10.Failure under section 96A(2) of the Act to provide complete or accurate information in a retrenchment report required by the Employment (Retrenchment Reporting) Notification 2019\n$1,000 for the first occasion\n$2,000 for each subsequent occasion.\nNote:\nIn this Schedule, “prescribed” means as prescribed by the Employment (Employment Records, Key Employment Terms and Pay Slips) Regulations 2016 (G.N. No. S 148/2016).\n[S 296/2019 wef 05/04/2019]\n[S 202/2019 wef 01/04/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Employment (Administrative Penalties) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

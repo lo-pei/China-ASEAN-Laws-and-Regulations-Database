@@ -1,7 +1,7 @@
 {
  "id": "BN-S-25-1981-NOTIFICATION-UNDER-SECTION-1",
  "title": {
-  "zh": null,
+  "zh": "依第 1 条作出的公告",
   "en": "NOTIFICATION UNDER SECTION 1",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 25\n\nPORTS ENACTMENT, 1981 {E. 12 of 1982) Notification under Section 1 In exercise of the powers conferred by Section 1 of the Ports Enactment, 1981 His Majesty the Sultan and Yang Di-Pertuan of Brunei Darussalam has appointed the 1st day of January, 1986, as the d~te on which the said Enactment shall come into operation. Dated this 16th day of December, 1985.\n\nBY COMMAND\n\nPENGIRAN BAHRIN (Pengiran Laila Kanun Diraja)\n\nMINISTER OF COMMUNICATIONS"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION UNDER SECTION 1",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

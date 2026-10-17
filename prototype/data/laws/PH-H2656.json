@@ -1,7 +1,7 @@
 {
  "id": "PH-H2656",
  "title": {
-  "zh": null,
+  "zh": "对地方化肥公司进口资本货物、设备、零部件、原材料、供应品、容器与燃料免征特别进口税、外汇保证金、销售税与抵消税及关税的法案",
   "en": "An Act Exempting Local Fertilizer Companies from the Payment of Special Import Tax, Margin Fee on Foreign Exchange, Sales and Compensating Taxes and Customs Duties on Their Importation of Capital Goods, Equipment, Spare Parts, Raw Materials, Supplies, Containers and Fuel",
   "orig": "An Act Exempting Local Fertilizer Companies from the Payment of Special Import Tax, Margin Fee on Foreign Exchange, Sales and Compensating Taxes and Customs Duties on Their Importation of Capital Goods, Equipment, Spare Parts, Raw Materials, Supplies, Containers and Fuel"
  },
@@ -112,5 +112,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Exempting Local Fertilizer Companies from the Payment of Special Import Tax, Margin Fee on Foreign Exchange, Sales and Compensating Taxes and Customs Duties on Their Importation of Capital Goods, Equipment, Spare Parts, Raw Materials, Supplies, Containers and Fuel",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

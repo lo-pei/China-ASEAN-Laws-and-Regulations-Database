@@ -1,7 +1,7 @@
 {
  "id": "PH-H6383",
  "title": {
-  "zh": null,
+  "zh": "在三宝颜市设立经济特区与自由港、为此设立三宝颜市经济特区管理局、拨款并为其他目的法案",
   "en": "An Act Creating a Special Economic Zone and Free Port in the City of Zamboanga Creating for This Purpose the Zamboanga City Special Economic Zone Authority, Appropriating Funds Therefor, and for Other Purposes",
   "orig": "An Act Creating a Special Economic Zone and Free Port in the City of Zamboanga Creating for This Purpose the Zamboanga City Special Economic Zone Authority, Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its publication in at least one (1) newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating a Special Economic Zone and Free Port in the City of Zamboanga Creating for This Purpose the Zamboanga City Special Economic Zone Authority, Appropriating Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

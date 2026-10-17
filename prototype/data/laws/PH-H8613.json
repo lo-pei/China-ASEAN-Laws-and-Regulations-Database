@@ -1,7 +1,7 @@
 {
  "id": "PH-H8613",
  "title": {
-  "zh": null,
+  "zh": "将流浪行为非罪化，为此修订第 3815 号法（即经修正的《修订刑法典》）第 202 条",
   "en": "An Act Decriminalizing Vagrancy, Amending for this Purpose Article 202 of Act No. 3815, as Amended, Otherwise Known as the Revised Penal Code",
   "orig": "An Act Decriminalizing Vagrancy, Amending for this Purpose Article 202 of Act No. 3815, as Amended, Otherwise Known as the Revised Penal Code"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Decriminalizing Vagrancy, Amending for this Purpose Article 202 of Act No. 3815, as Amended, Otherwise Known as the Revised Penal Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

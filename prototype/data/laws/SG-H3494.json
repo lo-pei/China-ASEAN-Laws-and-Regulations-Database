@@ -1,7 +1,7 @@
 {
  "id": "SG-H3494",
  "title": {
-  "zh": null,
+  "zh": "护照法 2007",
   "en": "Passports Act 2007",
   "orig": null
  },
@@ -1072,5 +1072,13 @@
     "en": "THE SCHEDULE\nSection 3\nPersonal identifiers\n1.A person’s fingerprint or handprint (taken using paper and ink, digital scanning technologies or otherwise).\n2.A photograph or other image of a person’s face and shoulders.\n3.A person’s signature.\n4.An image of a person’s iris (taken using iris scanning technologies).\n[S 705/2016]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Passports Act 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

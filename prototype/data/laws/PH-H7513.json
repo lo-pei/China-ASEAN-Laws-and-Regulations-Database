@@ -1,7 +1,7 @@
 {
  "id": "PH-H7513",
  "title": {
-  "zh": null,
+  "zh": "通过整合四所院校设立八打雁国立大学、拨付资金并为其他目的法案",
   "en": "An Act Creating the Batangas State University (BSU) By Integrating the (1) Pablo Borbon Memorial Institute of Technology, Including Its Branches in Barangay Alangilan, Batangas City, in the Municipalities of Balayan, Bauan, Lobo, San Pascual, Rosario, Taysan, Padre Garcia, Lemery, Calaca, Taal, Tanauan, San Juan and Lipa City, (2) Jose P. Laurel Polytechnic College in Malvar, (3) Apolinario R. Apacible School of Fisheries in Nasugbu, and (4) Polytechnic University of the Philippines Campus in Sto. Tomas, Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act Creating the Batangas State University (BSU) By Integrating the (1) Pablo Borbon Memorial Institute of Technology, Including Its Branches in Barangay Alangilan, Batangas City, in the Municipalities of Balayan, Bauan, Lobo, San Pascual, Rosario, Taysan, Padre Garcia, Lemery, Calaca, Taal, Tanauan, San Juan and Lipa City, (2) Jose P. Laurel Polytechnic College in Malvar, (3) Apolinario R. Apacible School of Fisheries in Nasugbu, and (4) Polytechnic University of the Philippines Campus in Sto. Tomas, Appropriating Funds Therefor and for Other Purposes"
  },
@@ -312,5 +312,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Batangas State University (BSU) By Integrating the (1) Pablo Borbon Memorial Institute of Technology, Including Its Branches in Barangay Alangilan, Batangas City, in the Municipalities of Balayan, Bauan, Lobo, San Pascual, Rosario, Taysan, Padre Garcia, Lemery, Calaca, Taal, Tanauan, San Juan and Lipa City, (2) Jose P. Laurel Polytechnic College in Malvar, (3) Apolinario R. Apacible School of Fisheries in Nasugbu, and (4) Polytechnic University of the Philippines Campus in Sto. Tomas, Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

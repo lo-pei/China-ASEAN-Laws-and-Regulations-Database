@@ -1,7 +1,7 @@
 {
  "id": "SG-H214",
  "title": {
-  "zh": null,
+  "zh": "第 75 条对外国的适用",
   "en": "Application of Section 75 to Foreign States",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nAustria.\nLichtenstein.\nBelgium.\nLuxembourg.\nBrazil.\nMexico.\nBulgaria.\nMonaco.\nCuba.\nMorocco.\nCzechoslovakia.\nNetherlands.\nDenmark.\nNorway.\nDominican Republic.\nPoland.\nEgypt.\nPortugal.\nFinland.\nRomania.\nFrance.\nSpain.\nGermany.\nSweden.\nGreece.\nSwitzerland.\nHungary.\nSyria.\nIndonesia.\nTunisia.\nIreland.\nTurkey.\nIsrael.\nUnited States of America.\nItaly.\nVietnam.\nJapan.\nYugoslovia.\nLebanon."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Application of Section 75 to Foreign States",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

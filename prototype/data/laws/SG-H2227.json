@@ -1,7 +1,7 @@
 {
  "id": "SG-H2227",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 8 号）公告 2018",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 8) Notification 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The arrangement fee of US$305,000 payable by Woodlands Park Shipping Co. Pte. Ltd. and Woodleigh Park Shipping Co. Pte. Ltd. to Credit Suisse AG on 3 October 2017 in connection with a loan of US$30,500,000 granted under an agreement dated 23 November 2017 for the purpose of part‑financing or refinancing the purchase of the vessels “mv Mimmi Schulte” and “mv Molly Schulte”, is exempt from tax.\n(2) The exemption under sub‑paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 9 June 2018 and addressed to Woodlands Park Shipping Co. Pte. Ltd. and Woodleigh Park Shipping Co. Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 8) Notification 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

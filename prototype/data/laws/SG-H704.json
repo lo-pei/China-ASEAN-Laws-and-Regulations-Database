@@ -1,7 +1,7 @@
 {
  "id": "SG-H704",
  "title": {
-  "zh": null,
+  "zh": "委员会",
   "en": "Commission",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Ordinance No. 85 (Inquiry Commissions)\nChapter 48, 1970 Revised Edition\nCommission\nN 1\nG.N. No. S 1523/1930\nREVISED EDITION 1990\n( )\n[1st August 1930]\nGEORGE V, by the Grace of God of the United Kingdom of Great Britain and Northern Ireland and of the British Dominions beyond the Seas King, Defender of the Faith, Emperor of India.\nTo\nTHEODORE RATHBONE HUBBACK, Esquire.\nWhereas We have deemed it expedient, for divers good causes and considerations, that a diligent and full inquiry should forthwith be made as to the Protection of Wild Life in the Straits Settlements.\nKnow You, therefore, that reposing great trust and confidence in your, zeal, industry, discretion and integrity, We do by these presents authorise and appoint you to make a diligent and full inquiry into the following matters:\n(1)The existing regulations for the Protection of Wild Life in the Straits Settlements.\n(2)The allegations of damage done to agriculture by Wild Life, calling for and recording evidence bearing on such matters and suggesting methods of dealing with any situations which may be revealed.\n(3)The organisation required to administer the regulations for the preservation of Wild Life,\nand We do by these presents give and grant to you full power and authority to call before you any such persons, being in the Colony, as you shall judge necessary for the purpose of making the aforesaid inquiries, and also to call for and have access to, and require the production before you of all official and other books, documents, papers and records as you may deem expedient, and to examine witnesses on oath or otherwise, and that, within six months after the date of this Commission, you do certify to us, under your hand, your several proceedings, and your opinion and recommendations on the premises; and this Commission shall continue in full force, although the proceedings thereunder shall not be continued by adjournment from time to time, and you may, from time to time, if you shall see fit, without waiting for your full and complete report, certify your several proceedings as the same shall be respectively perfected; and We hereby command all Government Officers, and other persons whomsoever, within the Colony, that they be assistant to you in the execution of these presents, and We do give power, at your discretion, to procure such clerical or other assistance as may be absolutely necessary for enabling you duly to execute this Commission.\nIn testimony whereof We have caused these our Letters to be made patent and the Public Seal of our Colony to be hereunto affixed.\nWitness His Excellency Sir CECIL CLEMENTI, Knight Commander of the Most Distinguished Order of Saint Michael and Saint George, Governor and Commander-in-Chief and Vice-Admiral of our Colony of the Straits Settlements, at Government House, Singapore, this 28th day of July 1930."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

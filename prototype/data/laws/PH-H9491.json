@@ -1,7 +1,7 @@
 {
  "id": "PH-H9491",
  "title": {
-  "zh": null,
+  "zh": "将甲米地省塔加伊泰市圣何塞、托伦蒂诺东与西、弗朗西斯科、松阿伊西、松阿伊东（右）、松阿伊东、伊鲁欣西、中、东与达普达普西描笼涯公路更名为Isaac O. Tolentino大道",
   "en": "An Act Renaming the Road Traversing Barangays San Jose, Tolentino West, Tolentino East, Francisco, Sungay West (Left Side), Sungay East (Right Side), Sungay East, Iruhin West, Iruhin Central, Iruhin East and Dapdap West in the City of Tagaytay, Province of Cavite to Isaac O. Tolentino Avenue",
   "orig": "An Act Renaming the Road Traversing Barangays San Jose, Tolentino West, Tolentino East, Francisco, Sungay West (Left Side), Sungay East (Right Side), Sungay East, Iruhin West, Iruhin Central, Iruhin East and Dapdap West in the City of Tagaytay, Province of Cavite to Isaac O. Tolentino Avenue"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Road Traversing Barangays San Jose, Tolentino West, Tolentino East, Francisco, Sungay West (Left Side), Sungay East (Right Side), Sungay East, Iruhin West, Iruhin Central, Iruhin East and Dapdap West in the City of Tagaytay, Province of Cavite to Isaac O. Tolentino Avenue",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

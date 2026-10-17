@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-151-RG-2-2014-WEIGHTS-AND-MEASURES-FEES-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG 2 2014 版度量衡收费条例",
   "en": "RG 2 2014 ED WEIGHTS AND MEASURES FEES REGULATIONS",
   "orig": null
  },
@@ -70,5 +70,13 @@
     "en": "The fees shown in the Schedule are the fees which an inspector may charge in respect of registration, inspection, testing or calibration of weights and measures instruments. 4 CAP. 151, Rg 2 Weights and Measures (regulation 3) FEES\n\nFEES FOR REGISTRATION, VERIFICATION, CALIBRATION OF\n\nWEIGHTS AND MEASURES INSTRUMENTS Type of Registration and instrument stamping fee Reverification fee Calibration fee $ $ $ Spring Balance 0 — 50 kg 10 5 5 50 — 200 kg 10 5 10 Dacing (Gold) 10 5 5 Linear measurement 2 1 2 Counterpoise/ 2 1 1 Test weight (each) Petrol pump 10 5 5 (per meter) (per test) Liquid measurements 5 3 2 Electronic balance or scales 0 — 200 kg 15 8 10 Flow meter 15 10 200 (per meter)\n\nWEIGHING MACHINES IN WHICH CAPACITY ARE NOT INCLUDED IN THIS LIST, THE FEES WILL BE AS FOLLOWS — Above 1 m/tonne 15 10 375 (per tonne) (per tonne) Below 1 m/tonne 15 8 50 FEES — (continued) OTHER FEES —\n\n(1) Replacement for lost Registration Card $2.\n\n(2) Transportation fees for test weights using Government of Brunei Darussalam vehicle — $100 — Brunei and Muara District $150 — Tutong District $200 — Belait District"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 2 2014 ED WEIGHTS AND MEASURES FEES REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10141",
  "title": {
-  "zh": null,
+  "zh": "通过强化教师教育委员会、为教师教育专业学生设立奖学金、将菲律宾国家教育工作者学院制度化以进一步加强菲律宾教师教育并拨款，为此修订第 7784 号共和国法的法案",
   "en": "An Act Further Strengthening Teacher Education in the Philippines By Enhancing the Teacher Education Council, Establishing a Scholarship Program for Students in the Teacher Education Program, Institutionalizing the National Educators Academy of the Philippines, and Appropriating Funds Therefor, Amending for the Purpose Republic Act No. 7784, Entitled \"An Act to Strengthen Teacher Education in the Philippines By Establishing Centers of Excellence, Creating a Teacher Education Council for the Purpose, Appropriating Funds Therefor, and for Other Purposes\"",
   "orig": "An Act Further Strengthening Teacher Education in the Philippines By Enhancing the Teacher Education Council, Establishing a Scholarship Program for Students in the Teacher Education Program, Institutionalizing the National Educators Academy of the Philippines, and Appropriating Funds Therefor, Amending for the Purpose Republic Act No. 7784, Entitled \"An Act to Strengthen Teacher Education in the Philippines By Establishing Centers of Excellence, Creating a Teacher Education Council for the Purpose, Appropriating Funds Therefor, and for Other Purposes\""
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H10141-A1_2",
+   "id": "PH-H10141-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Short Title. - This Act shall be known as the \"Excellence in Teacher Education Act.\"\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10141-A2",
@@ -281,24 +282,34 @@
    }
   },
   {
-   "id": "PH-H10141-A2_2",
+   "id": "PH-H10141-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Separability Clause. - If any provision or part of this Act is declared invalid or unconstitutional, the remaining parts not affected shall remain in full force and effect.\nSection 3 . Repealing Clause. - Republic Act No. 7784 andall other laws, executive orders, presidential decrees, administrative orders, rules and regulations, issuances, or parts thereof inconsistent with or contrary to the provisions of this Act are hereby repealed or amended accordingly."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H10141-A4_2",
+   "id": "PH-H10141-A4-d2",
    "no": 4,
    "noLabel": {
     "en": "Section 4."
    },
    "text": {
     "en": "Effectivity. - Notwithstanding the non-issuance of the IRR, this Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Strengthening Teacher Education in the Philippines By Enhancing the Teacher Education Council, Establishing a Scholarship Program for Students in the Teacher Education Program, Institutionalizing the National Educators Academy of the Philippines, and Appropriating Funds Therefor, Amending for the Purpose Republic Act No. 7784, Entitled \"An Act to Strengthen Teacher Education in the Philippines By Establishing Centers of Excellence, Creating a Teacher Education Council for the Purpose, Appropriating Funds Therefor, and for Other Purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

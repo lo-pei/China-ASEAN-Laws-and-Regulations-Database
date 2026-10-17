@@ -1,7 +1,7 @@
 {
  "id": "PH-H1042",
  "title": {
-  "zh": null,
+  "zh": "修订第670号共和国法第一编A部分（a）目奎松省公共工程项目的第21项的法案",
   "en": "An Act to Amend Item Twenty-One of the Public Works Projects for the Province of Quezon, Sub-Section (a), Title A, Section One of Republic Act Numbered Six Hundred Seventy",
   "orig": "An Act to Amend Item Twenty-One of the Public Works Projects for the Province of Quezon, Sub-Section (a), Title A, Section One of Republic Act Numbered Six Hundred Seventy"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 20, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Item Twenty-One of the Public Works Projects for the Province of Quezon, Sub-Section (a), Title A, Section One of Republic Act Numbered Six Hundred Seventy",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

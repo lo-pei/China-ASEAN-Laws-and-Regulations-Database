@@ -1,7 +1,7 @@
 {
  "id": "PH-H1531",
  "title": {
-  "zh": null,
+  "zh": "将莱特省圣菲市镇的皮纳哈德桑与17公里处小村改设为该市镇名为卡蒂普南与米拉格罗萨的村的法案",
   "en": "An Act Converting the Sitios of Pinanhadsan and Km. 17, Municipality of Santa Fe, Province of Leyte, into Barrios of Said Municipality to be Known as the Barrios of Katipunan and Milagrosa, Respectively",
   "orig": "An Act Converting the Sitios of Pinanhadsan and Km. 17, Municipality of Santa Fe, Province of Leyte, into Barrios of Said Municipality to be Known as the Barrios of Katipunan and Milagrosa, Respectively"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Sitios of Pinanhadsan and Km. 17, Municipality of Santa Fe, Province of Leyte, into Barrios of Said Municipality to be Known as the Barrios of Katipunan and Milagrosa, Respectively",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

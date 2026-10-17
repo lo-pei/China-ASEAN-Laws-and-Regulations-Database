@@ -1,7 +1,7 @@
 {
  "id": "BN-S-58-2010-E-HALAL-MEAT-AMENDMENT-ORDER-2010",
  "title": {
-  "zh": null,
+  "zh": "清真肉类修正命令 2010",
   "en": "HALAL MEAT AMENDMENT ORDER 2010",
   "orig": null
  },
@@ -63,5 +63,13 @@
     "en": "The Halal Meat Act is amended by inserting the following new section immediately after section 14- 14A. ( l) The Majlis may delegate to any person the exercise of any power or the performance of any duty conferred or imposed on it by this Act, except for the power of delegation conferred by this section.\n\n(2) A delegation under subsection ( 1) may be made subject to such may be determined by the Majlis in the instrument of\n\n(3) The Majlis may continue to exercise any power and perform any duty conferred or imposed on it by this Act notwithstanding the delegation by it of such power or duty.\". day of Rejab, 1431 Hijriah corresponding to the 14th. day of June, 2010 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENGIRAN HAJI AHMAD, Pemangku Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "HALAL MEAT AMENDMENT ORDER 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

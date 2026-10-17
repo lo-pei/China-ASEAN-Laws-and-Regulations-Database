@@ -1,7 +1,7 @@
 {
  "id": "PH-H9007",
  "title": {
-  "zh": null,
+  "zh": "宣布伊洛伊洛市 Jaro 大教堂、Molo 教堂、中央商务区、Fort San Pedro 与三处广场建筑群为文化遗产旅游区的法案",
   "en": "An Act Declaring the Jaro Cathedral, Molo Church, the Iloilo City Central Business District, Fort San Pedro, Jaro Plaza Complex, Molo Plaza Complex and Plaza Libertad Complex, All Located in the City of Iloilo, as Cultural Heritage Tourism Zone",
   "orig": "An Act Declaring the Jaro Cathedral, Molo Church, the Iloilo City Central Business District, Fort San Pedro, Jaro Plaza Complex, Molo Plaza Complex and Plaza Libertad Complex, All Located in the City of Iloilo, as Cultural Heritage Tourism Zone"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the Jaro Cathedral, Molo Church, the Iloilo City Central Business District, Fort San Pedro, Jaro Plaza Complex, Molo Plaza Complex and Plaza Libertad Complex, All Located in the City of Iloilo, as Cultural Heritage Tourism Zone",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

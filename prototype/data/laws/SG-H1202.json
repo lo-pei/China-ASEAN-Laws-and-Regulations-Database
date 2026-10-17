@@ -1,7 +1,7 @@
 {
  "id": "SG-H1202",
  "title": {
-  "zh": null,
+  "zh": "教育（宗教学校豁免适用本法）公告 1989",
   "en": "Education (Exemptions of Religious Schools from Act) Notification 1989",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nName of School\nwith effect from\n1. Talmud Torah Hebrew School\n14 October 1960\n2. St. Francis Xavier’s Seminary\n28 October 1960\n3. Chin Lien Bible Seminary\n25 January 1962\n4. Far Eastern Bible College\n25 September 1964\n5. Champagnat Noviciate\n6 August 1965\n6. Four Seas College of Bible and Missions (Former Malaysia Christian College)\n20 August 1965\n7. St. Gabriel’s Juniorate\n2 August 1966\n8. World Buddhist Society’s Buddhist School\n3 May 1968\n9. Trinity Theological College\n2 February 1968\n10. Southeast Asia Adventist Seminary\n24 February 1976\n11. Southeast Asia Theological Training Centre of the True Jesus Church\n16 September 1976\n12. Ti-Sarana (Buddhist) Sunday Dhamma Classes\n29 April 1977\n13. Ambassadors for Christ Evangelistic Training School of the Ambassadors for Christ (Singapore) Ltd.\n9 June 1978\n14. Tung Ling Bible School\n16 July 1979\n15. Youth With A Mission School\n20 February 1981\n16. Harvester Baptist Missionary Training College\n6 May 1983\n17. Singapore Bible College\n20 September 1985\n18. Singapore Bible College (Branch)\n20 September 1985\n19. Asia Theological Centre for Evangelism and Missions\n12 September 1986\n20. Baptist Theological Seminary\n28 April 1989"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Education (Exemptions of Religious Schools from Act) Notification 1989",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

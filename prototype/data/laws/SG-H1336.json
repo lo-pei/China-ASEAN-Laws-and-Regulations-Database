@@ -1,7 +1,7 @@
 {
  "id": "SG-H1336",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（非道路柴油发动机排放）条例 2012",
   "en": "Environmental Protection and Management (Off-Road Diesel Engine Emissions) Regulations 2012",
   "orig": null
  },
@@ -208,5 +208,13 @@
     "en": "THE SCHEDULE\nRegulations 6, 8(1) and 9(1)\nStandards for exhaust emission for off-road diesel engines\n1. The specified standards for exhaust emission for off-road diesel engines, as tested under ISO 8178 test procedures, are as follows:\n(a)US Tier II\nNet Power (P)\n(kW)\nCO\n(g/kWh)\nNMHC + NOx\n(g/kWh)\nPM\n(g/kWh)\nP > 560\n3.5\n6.4\n0.2\n450 ≤ P < 560\n3.5\n6.4\n0.2\n225 ≤ P < 450\n3.5\n6.4\n0.2\n130 ≤ P < 225\n3.5\n6.6\n0.2\n75 ≤ P < 130\n5.0\n6.6\n0.3\n37 ≤ P < 75\n5.0\n7.5\n0.4\n19 ≤ P < 37\n5.5\n7.5\n0.6\n8 ≤ P < 19\n6.6\n7.5\n0.8\nP < 8\n8.0\n7.5\n0.8\n(b)EU Stage II\nNet Power (P)\n(kW)\nHC\n(g/kWh)\nCO\n(g/kWh)\nNOx\n(g/kWh)\nPM\n(g/kWh)\n130 ≤ P < 560\n1.0\n3.5\n6.0\n0.2\n75 ≤ P < 130\n1.0\n5.0\n6.0\n0.3\n37 ≤ P < 75\n1.3\n5.0\n7.0\n0.4\n18 ≤ P < 37\n1.5\n5.5\n8.0\n0.8\n(c)Japan Tier I\nNet Power (P)\n(kW)\nHC\n(g/kWh)\nCO\n(g/kWh)\nNOx\n(g/kWh)\nPM\n(g/kWh)\nSmoke opacity (%)\n130 ≤ P < 560\n1.0\n3.5\n6.0\n0.2\n40\n75 ≤ P < 130\n1.0\n5.0\n6.0\n0.3\n40\n37 ≤ P < 75\n1.3\n5.0\n7.0\n0.4\n40\n19 ≤ P < 37\n1.5\n5.0\n8.0\n0.8\n40\n8 ≤ P < 19\n1.5\n5.0\n9.0\n0.8\n—\n2. In this Schedule —\n“CO” means carbon monoxide;\n“g/kWh” means gram per kilowatt hour;\n“HC” means hydrocarbons;\n“ISO” means International Standards Organisation;\n“NMHC” means non-methane hydrocarbons;\n“NOx” means oxides of nitrogen;\n“PM” means particulate matter."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Protection and Management (Off-Road Diesel Engine Emissions) Regulations 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

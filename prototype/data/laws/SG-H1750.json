@@ -1,7 +1,7 @@
 {
  "id": "SG-H1750",
  "title": {
-  "zh": null,
+  "zh": "内政部制服服务（INVEST 计划）条例",
   "en": "Home Affairs Uniformed Services (INVEST Plan) Regulations",
   "orig": null
  },
@@ -784,5 +784,13 @@
     "en": "THIRD SCHEDULE\nRegulation 28\nScale of Awards\nProportion of Award to Pay on Retirement\nFirst column\nSecond column\nThird column\nFourth column\nFifth column\nScale No. 1\nScale No. 2\nScale No.3\nScale No. 4\nCompleted years of approved service\nOn total disablement from non-accidental injury received in execution of duty\nOn total disablement from accidental injury received in execution of duty\nOn partial disablement from non-accidental injury\nOn partial disablement from accidental injury\n60ths\n60ths\n60ths\n60ths\n1 or less\n45\n30\n20\n10\n2\n45\n30\n20\n10\n3\n45\n30\n20\n10\n4\n45\n30\n20\n10\n5\n45\n30\n20\n10\n6\n45\n30\n20\n10\n7\n45\n30\n20\n10\n8\n45\n30\n20\n10\n9\n45\n30\n20\n10\n10\n45\n30\n20\n10\n11\n48\n32\n21\n11\n12\n48\n32\n21\n12\n13\n48\n32\n23\n13\n14\n48\n32\n24\n14\n15\n48\n32\n25\n15\n16\n51\n34\n26\n16\n17\n51\n34\n27\n17\n18\n51\n34\n28\n18\n19\n51\n34\n29\n19\n20\n51\n34\n30\n20\n21\n54\n36\n32\n22\n22\n54\n36\n34\n24\n23\n54\n36\n36\n26\n24\n54\n36\n38\n28\n25\n54\n36\n40\n30\n26\n57\n38\n40\n32\n27\n57\n38\n40\n34\n28\n57\n38\n40\n36\n29\n57\n38\n40\n38\n30 or over\n60\n40\n40\n40.\n[G.N. Nos. S 486/2001; S 53/2003]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Home Affairs Uniformed Services (INVEST Plan) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

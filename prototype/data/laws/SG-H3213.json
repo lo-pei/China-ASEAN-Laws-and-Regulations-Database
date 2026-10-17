@@ -1,7 +1,7 @@
 {
  "id": "SG-H3213",
  "title": {
-  "zh": null,
+  "zh": "商船（沉船清除）法 2017",
   "en": "Merchant Shipping (Wreck Removal) Act 2017",
   "orig": null
  },
@@ -554,5 +554,13 @@
     "en": "SECOND SCHEDULE\nSections 14(2) and 30(b)\nExcluded ship\nFor the purposes of section 14, an excluded ship is a ship which —\n(a)is operated under a licence or permit, or is exempted from the requirement of a licence or permit under —\n(i)the Maritime and Port Authority of Singapore (Harbour Craft) Regulations; or\n(ii)the Maritime and Port Authority of Singapore (Pleasure Craft) Regulations;\n(b)is insured under such policy of insurance covering the registered owner’s liability under this Act as required by the Port Master under those Regulations; and\n(c)navigates exclusively in areas within the limits of the port as may be declared under section 3 of the Maritime and Port Authority of Singapore Act 1996."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Wreck Removal) Act 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

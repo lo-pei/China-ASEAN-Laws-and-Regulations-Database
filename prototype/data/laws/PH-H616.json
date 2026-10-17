@@ -1,7 +1,7 @@
 {
  "id": "PH-H616",
  "title": {
-  "zh": null,
+  "zh": "授予Argao电力、制冰与供水公司在宿务省阿尔高市镇经营电灯、热力与动力系统特许经营权的法案",
   "en": "An Act Granting the Argao Electric, Ice and Water Company a Franchise for An Electric Light, Heat, and Power System in the Municipality of Argao, Province of Cebu",
   "orig": "An Act Granting the Argao Electric, Ice and Water Company a Franchise for An Electric Light, Heat, and Power System in the Municipality of Argao, Province of Cebu"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 5, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Argao Electric, Ice and Water Company a Franchise for An Electric Light, Heat, and Power System in the Municipality of Argao, Province of Cebu",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

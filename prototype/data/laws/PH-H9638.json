@@ -1,7 +1,7 @@
 {
  "id": "PH-H9638",
  "title": {
-  "zh": null,
+  "zh": "授予 Malindang 广播网络公司在棉兰老建设、安装、设立、运营和维护广播电视站的特许经营权法案",
   "en": "An Act Granting the Malindang Broadcasting Network Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in Mindanao",
   "orig": "An Act Granting the Malindang Broadcasting Network Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in Mindanao"
  },
@@ -230,5 +230,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Malindang Broadcasting Network Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Radio and Television Broadcasting Stations in Mindanao",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

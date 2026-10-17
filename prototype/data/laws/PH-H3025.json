@@ -1,7 +1,7 @@
 {
  "id": "PH-H3025",
  "title": {
-  "zh": null,
+  "zh": "修订第 2067 号共和国法，调整国家科学发展委员会、国家科学技术研究所与菲律宾原子能委员会，将科学目的税收豁免及赠款、请求与捐赠特权扩及私立教育机构并为其他目的法案",
   "en": "An Act Amending Republic Act Numbered Two Thousand Sixty-Seven Modifying the National Science Development Board, National Institute of Science and Technology, and the Philippine Atomic Energy Commission, Extending Tax Exemption, Privileges on Grants, Requests and Donations for Scientific Purposes to Private Educational Institutions, and for Other Purposes",
   "orig": "An Act Amending Republic Act Numbered Two Thousand Sixty-Seven Modifying the National Science Development Board, National Institute of Science and Technology, and the Philippine Atomic Energy Commission, Extending Tax Exemption, Privileges on Grants, Requests and Donations for Scientific Purposes to Private Educational Institutions, and for Other Purposes"
  },
@@ -192,5 +192,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Two Thousand Sixty-Seven Modifying the National Science Development Board, National Institute of Science and Technology, and the Philippine Atomic Energy Commission, Extending Tax Exemption, Privileges on Grants, Requests and Donations for Scientific Purposes to Private Educational Institutions, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

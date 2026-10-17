@@ -1,7 +1,7 @@
 {
  "id": "PH-H4502",
  "title": {
-  "zh": null,
+  "zh": "将现有 Pangasinan 师范学校改设为中央吕宋师范学院，规定董事会及其职责，并为其他目的法案",
   "en": "An Act Converting the Present Pangasinan Normal School Into the Central Luzon Teachers College, Providing for a Board of Trustees, Defining the Board's Responsibilities and Duties, and for Other Purposes",
   "orig": "An Act Converting the Present Pangasinan Normal School Into the Central Luzon Teachers College, Providing for a Board of Trustees, Defining the Board's Responsibilities and Duties, and for Other Purposes"
  },
@@ -240,5 +240,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Present Pangasinan Normal School Into the Central Luzon Teachers College, Providing for a Board of Trustees, Defining the Board's Responsibilities and Duties, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

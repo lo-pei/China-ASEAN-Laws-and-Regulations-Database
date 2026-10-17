@@ -1,7 +1,7 @@
 {
  "id": "SG-H2715",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 5 号）命令 2022",
   "en": "Infrastructure Protection (Protected Places) (No. 5) Order 2022",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nDirector of\nBiosafety Level 3,\nLee Kong Chian\nSchool of Medicine\nLEE KONG CHIAN SCHOOL OF MEDICINE, BIOSAFETY LEVEL 3 LABORATORY (BSL3) FACILITY AT 7TH STOREY OF THE EXPERIMENTAL MEDICINE BUILDING, NANYANG TECHNOLOGICAL UNIVERSITY\nAll that area comprised in part of Lot 02033K in Mukim No. 9 occupied by “LEE KONG CHIAN SCHOOL OF MEDICINE, BIOSAFETY LEVEL 3 LABORATORY (BSL3) FACILITY AT 7TH STOREY OF THE EXPERIMENTAL MEDICINE BUILDING, NANYANG TECHNOLOGICAL UNIVERSITY” containing an area of about 307.5 square metres and bounded approximately as follows:\nCommencing at the north easternmost corner of the “LEE KONG CHIAN SCHOOL OF MEDICINE, BIOSAFETY LEVEL 3 LABORATORY (BSL3) FACILITY AT 7TH STOREY OF THE EXPERIMENTAL MEDICINE BUILDING, NANYANG TECHNOLOGICAL UNIVERSITY” at a point 36,328.139 metres North and 10,764.835 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n36328.139\n10764.835\n36314.487\n10770.073\n36309.040\n10755.875\n36305.881\n10757.098\n36304.141\n10752.603\n36318.874\n10746.948\n36319.047\n10747.393\n36321.088\n10746.603\nto the point of commencement.\nThe boundaries of “LEE KONG CHIAN SCHOOL OF MEDICINE, BIOSAFETY LEVEL 3 LABORATORY (BSL3) FACILITY AT 7TH STOREY OF THE EXPERIMENTAL MEDICINE BUILDING, NANYANG TECHNOLOGICAL UNIVERSITY” are more particularly delineated in the Survey Plan No. 19287GZ1 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 5) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

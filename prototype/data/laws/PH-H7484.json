@@ -1,7 +1,7 @@
 {
  "id": "PH-H7484",
  "title": {
-  "zh": null,
+  "zh": "规定 Muntinlupa 市议会的组成，并为此修订第7926号共和国法第11条（即《Muntinlupa 市宪章》）的法案",
   "en": "An Act Providing for the Composition of the City Council of Muntinlupa, Amending for This Purpose Section 11 of Republic Act No. 7926, Otherwise Known as the Charter of The City of Muntinlupa",
   "orig": "An Act Providing for the Composition of the City Council of Muntinlupa, Amending for This Purpose Section 11 of Republic Act No. 7926, Otherwise Known as the Charter of The City of Muntinlupa"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect immediately after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Composition of the City Council of Muntinlupa, Amending for This Purpose Section 11 of Republic Act No. 7926, Otherwise Known as the Charter of The City of Muntinlupa",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

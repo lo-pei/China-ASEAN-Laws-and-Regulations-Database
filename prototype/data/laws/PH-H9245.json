@@ -1,7 +1,7 @@
 {
  "id": "PH-H9245",
  "title": {
-  "zh": null,
+  "zh": "将宿务省Consolacion的菲律宾公共安全学院第七区域培训学校（PPSC-RTS 7）更名为国家警察培训学院Camp Jesse M. Robredo第七区域培训中心的法案",
   "en": "An Act Renaming the Philippine Public Safety College - Regional Training School 7 (Ppsc-Rts 7) in Consolacion, Province of Cebu Into the Camp Jesse M. Robredo Regional Training Center 7, National Police Training Institute, Philippine Public Safety College",
   "orig": "An Act Renaming the Philippine Public Safety College - Regional Training School 7 (Ppsc-Rts 7) in Consolacion, Province of Cebu Into the Camp Jesse M. Robredo Regional Training Center 7, National Police Training Institute, Philippine Public Safety College"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Philippine Public Safety College - Regional Training School 7 (Ppsc-Rts 7) in Consolacion, Province of Cebu Into the Camp Jesse M. Robredo Regional Training Center 7, National Police Training Institute, Philippine Public Safety College",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

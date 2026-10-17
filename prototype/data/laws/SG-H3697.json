@@ -1,7 +1,7 @@
 {
  "id": "SG-H3697",
  "title": {
-  "zh": null,
+  "zh": "终止妊娠法 1974",
   "en": "Termination of Pregnancy Act 1974",
   "orig": null
  },
@@ -179,5 +179,13 @@
     "en": "11.—(1) The Minister may make regulations for, or in respect of, every purpose which the Minister considers necessary for carrying out the provisions of this Act and for prescribing any matter which is authorised or required under this Act to be so prescribed.\n(2) Without limiting subsection (1), the Minister may make regulations —\n(a)requiring authorised medical practitioners to keep records of termination of pregnancy and to forward the records to the Director‑General of Health together with any information relating to the termination that the Director‑General may require;\n[Act 11 of 2023 wef 01/05/2023]\n(b)providing for the preservation and disposal of records in respect of the treatment to terminate pregnancy and for the use of the records for statistical or research purposes so long as such use does not disclose the identities of the persons who have received the treatment under this Act;\n(c)providing for the general or limited authorisation of medical practitioners to carry out treatment to terminate pregnancy;\n(d)prescribing the qualifications and experience of medical practitioners for the purpose of being authorised to carry out treatment to terminate pregnancy; and\n(e)prescribing the form of consent to be given by a pregnant woman undergoing treatment to terminate pregnancy."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Termination of Pregnancy Act 1974",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

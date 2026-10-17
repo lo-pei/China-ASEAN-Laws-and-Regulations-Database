@@ -1,7 +1,7 @@
 {
  "id": "SG-H2670",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 15 号）命令 2020",
   "en": "Infrastructure Protection (Protected Places) (No. 15) Order 2020",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nHead Operations, The Singapore Mint\nTHE SINGAPORE MINT\nAll that area comprised in part of State Land Lots 6305C and 6306M, 20 Teban Gardens Crescent, occupied by “THE SINGAPORE MINT” containing an area of about 6,015.2 square metres and bounded approximately as follows:\nCommencing at the northeastern‑most corner of the perimeter fence of “THE SINGAPORE MINT” at a point 34,223.3 metres North and 17,636.2 metres East of the Survey Department origin of coordinates, the boundaries run along successive lines of fence of the bearings and distances approximately as follows:\nBearing\nDistance in metres\n214° 16′\n65.5 (along chain link fence)\n213° 48′\n25.7 (along wall)\n303° 56′\n10.0 (along chain link fence)\n213° 19′\n1.5 (along chain link fence)\n304° 07′\n49.9 (along chain link fence)\n304° 07′\n5.3 (along chain link fence)\n34° 17′\n32.1 (along chain link fence)\n33° 52′\n60.2 (along chain link fence)\n121° 20′\n11.4 (along chain link fence)\n124° 26′\n53.9 (along chain link fence)\nto the point of commencement.\nThe boundaries of “THE SINGAPORE MINT” are more particularly delineated in the Plan set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 15) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H8205",
  "title": {
-  "zh": null,
+  "zh": "将西明多洛省圣何塞市镇西明多洛国立学院更名为西明多洛州立学院的法案",
   "en": "An Act Renaming the Occidental Mindoro National College in the Municipality of San Jose, Province of Occidental Mindoro as the Occidental Mindoro State College",
   "orig": "An Act Renaming the Occidental Mindoro National College in the Municipality of San Jose, Province of Occidental Mindoro as the Occidental Mindoro State College"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Occidental Mindoro National College in the Municipality of San Jose, Province of Occidental Mindoro as the Occidental Mindoro State College",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4565",
  "title": {
-  "zh": null,
+  "zh": "修订第4968号共和国法第12条，使本法适用于在1951年6月16日或之前退休的政府服务保险系统前成员（在特定条件下）",
   "en": "An Act Amending Section Twelve of Republic Act Numbered Forty-Nine Hundred and Sixty-Eight So as to Make the Provisions of This Amendatory Act Applicable to Former Members of the Government Service Insurance System Who Had Retired on or Before June Sixteen, Nineteen Hundred and Fifty-One, Under Certain Conditions",
   "orig": "An Act Amending Section Twelve of Republic Act Numbered Forty-Nine Hundred and Sixty-Eight So as to Make the Provisions of This Amendatory Act Applicable to Former Members of the Government Service Insurance System Who Had Retired on or Before June Sixteen, Nineteen Hundred and Fifty-One, Under Certain Conditions"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Twelve of Republic Act Numbered Forty-Nine Hundred and Sixty-Eight So as to Make the Provisions of This Amendatory Act Applicable to Former Members of the Government Service Insurance System Who Had Retired on or Before June Sixteen, Nineteen Hundred and Fifty-One, Under Certain Conditions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

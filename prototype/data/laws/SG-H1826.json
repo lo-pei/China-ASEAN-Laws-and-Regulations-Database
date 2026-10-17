@@ -1,7 +1,7 @@
 {
  "id": "SG-H1826",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 4 号）命令 2025",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 4) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Bedok North Avenue 3 and Bedok North Street 2, comprised in Lot number 08197X in Mukim 27 and on which Apartment Block 140 is erected, which block is marked with a grey dot in Plan 1.\nPlan 1\nBEDOK NORTH STREET 2\n2. All that part of the housing estate of the Board bounded by Choa Chu Kang Avenue 3, Choa Chu Kang Central, Choa Chu Kang Avenue 1 and Choa Chu Kang Way, comprised in Lot number 01377T in Mukim 11 and on which Apartment Blocks 223, 224, 225, 226 and 227 are erected, in Lot number 01148W in Mukim 11 and on which Apartment Blocks 228 and 229 are erected, in Lot number 01240W in Mukim 11 and on which Apartment Blocks 230, 231, 235, 237, 238 and 239 are erected, in Lot number 01384X in Mukim 11 and on which Apartment Blocks 232 and 233 are erected, and in Lot number 01132C in Mukim 11 and on which Apartment Blocks 234 and 236 are erected, which blocks are each marked with a grey dot in Plan 2.\nPlan 2\nCHOA CHU KANG CENTRAL\n3. All that part of the housing estate of the Board bounded by Pan Island Expressway, Jurong West Street 81, Jurong West Avenue 5 and Pioneer Road North, comprised in Lot number 00612C in Mukim 09 and on which Apartment Blocks 833, 834, 836 and 837 are erected, in Lot number 00451C in Mukim 09 and on which Apartment Blocks 835 and 838 are erected, in Lot number 00608L in Mukim 09 and on which Apartment Blocks 839, 840, 841, 842 and 843 are erected, and in Lot number 01424W in Mukim 09 and on which Apartment Blocks 844, 845, 846, 847, 848, 849, 850, 851, 852 and 853 are erected, which blocks are each marked with a grey dot in Plan 3.\nPlan 3\nJURONG WEST STREET 81\n4. All that part of the housing estate of the Board bounded by Lorong 5 Toa Payoh, Lorong 7 Toa Payoh, Lorong 6 Toa Payoh and Toa Payoh East, comprised in Lot number 07280W in Mukim 17 and on which Apartment Blocks 35, 36 and 37 are erected, in Lot number 09421A in Mukim 17 and on which Apartment Blocks 43, 44, 45, 46 and 48 are erected, and in Lot number 07146T in Mukim 17 and on which Apartment Blocks 49 and 50 are erected, which blocks are each marked with a grey dot in Plan 4.\nPlan 4\nLorong 5 Toa Payoh\n5. All that part of the housing estate of the Board bounded by Pasir Ris Street 51, Pasir Ris Drive 1 and Pasir Ris Central, comprised in Lot number 01185T in Mukim 29 and on which Apartment Blocks 531, 532, 533, 534, 535 and 536 are erected, in Lot number 01182W in Mukim 29 and on which Apartment Blocks 537, 538, 539, 540, 541, 542 and 543 are erected, and in Lot number 03242C in Mukim 29 and on which Apartment Blocks 564, 565, 566, 567, 568 and 569 are erected, which blocks are each marked with a grey dot in Plan 5.\nPlan 5\nPASIR RIS DRIVE 1 / PASIR RIS STREET 51\n6. All that part of the housing estate of the Board bounded by Serangoon North Avenue 4 and Yio Chu Kang Road, comprised in Lot number 12581T in Mukim 18 and on which Apartment Blocks 500, 501, 502, 503, 504 and 505 are erected, in Lot number 12460P in Mukim 18 and on which Apartment Blocks 506, 506A and 506B are erected, and in Lot number 13380N in Mukim 18 and on which Apartment Blocks 507, 508, 509, 510 and 511 are erected, which blocks are each marked with a grey dot in Plan 6.\nPlan 6\nSERANGOON NORTH AVENUE 4"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 4) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

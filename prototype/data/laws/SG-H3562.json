@@ -1,7 +1,7 @@
 {
  "id": "SG-H3562",
  "title": {
-  "zh": null,
+  "zh": "平台工人（行政罚款）条例 2024",
   "en": "Platform Workers (Administrative Penalties) Regulations 2024",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nAdministrative penalties\nFirst column\nSecond column\nThird column\nCivil contravention\nAmount of\nadministrative\npenalty\nfor first occasion\nAmount of\nadministrative\npenalty\nfor subsequent\noccasion\n1.Failure under section 8(1) of the Act to notify the Commissioner of the fact that the person satisfies the criteria to be a platform operator under section 4 of the Act\n$1,000 for the first occasion\n$2,000 for each subsequent occasion\n2.Failure under section 9 of the Act to notify the Commissioner of the fact that the platform operator has ceased to be a platform operator within the meaning of section 4 of the Act\n$1,000 for the first occasion\n$2,000 for each subsequent occasion\n3.Failure under section 13(1) of the Act to make, or keep for the record retention period, platform worker records\n$200 for the first occasion of failure with respect to any one platform worker or former platform worker\n$400 for each subsequent occasion of failure, whether or not with respect to the same platform worker or former platform worker\n4.Failure under section 13(1) of the Act to keep complete and accurate platform worker records containing the prescribed particulars\n$100 for the first occasion of failure with respect to any one platform worker or former platform worker\n$200 for each subsequent occasion of failure, whether or not with respect to the same platform worker or former platform worker\n5.Failure under section 14(1) of the Act to give a platform worker an earnings slip within the prescribed time\n$200 for the first occasion of failure with respect to any one platform worker or former platform worker\n$400 for each subsequent occasion of failure, whether or not with respect to the same platform worker or former platform worker\n6.Failure under section 14(1) of the Act to —\n(a)provide; or\n(b)provide completely and accurately,\nthe information prescribed in an earnings slip given to a platform worker within the prescribed time\n$100 for the first occasion of failure with respect to any one platform worker or former platform worker\n$200 for each subsequent occasion of failure, whether or not with respect to the same platform worker or former platform worker.\nNote:\nIn this Schedule, “prescribed” means prescribed by the Platform Workers (Platform Worker Records and Earnings Slips) Regulations 2024 (G.N. No. S 1009/2024)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Platform Workers (Administrative Penalties) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

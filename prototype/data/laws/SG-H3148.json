@@ -1,7 +1,7 @@
 {
  "id": "SG-H3148",
  "title": {
-  "zh": null,
+  "zh": "终身健保计划法 2015",
   "en": "MediShield Life Scheme Act 2015",
   "orig": null
  },
@@ -662,5 +662,13 @@
     "en": "35.—(1) Every person who, not being a citizen or permanent resident of Singapore, is an insured person under the MediShield Scheme immediately before 1 November 2015 continues to be insured under the Scheme —\n(a)with such modifications as may be prescribed in the relevant regulations; and\n(b)until that insurance cover is terminated under the relevant regulations.\n(2) Except as provided in subsection (1), the Scheme does not apply to any person who is not a citizen or permanent resident of Singapore.\n(3) Section 13(1)(b) of the CPF Act in force before 1 November 2015 continues to apply to withdrawals from a person’s medisave account for the payment of premiums payable for insurance cover under the MediShield Scheme as if that section was not amended by this Act.\n(4) Section 16A of the CPF Act in force before 1 November 2015 continues to apply to premiums payable for a person’s insurance cover under the MediShield Scheme as if that section was not amended by this Act.\n(5) Section 53A of the CPF Act in force immediately before 1 November 2015 continues to apply to any thing done before that date by any person who was below the age of 16 years or 21 years (as the case may be) when that thing was done."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "MediShield Life Scheme Act 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

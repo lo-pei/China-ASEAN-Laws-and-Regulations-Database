@@ -1,7 +1,7 @@
 {
  "id": "BN-S-31-2021-OLD-AGE-AND-DISABILITY-PENSIONS-ACT-AMENDME-475F2D",
  "title": {
-  "zh": null,
+  "zh": "老年与残疾养老金法修正第 1 号条例 2021",
   "en": "OLD AGE AND DISABILITY PENSIONS ACT AMENDMENT NO. 1 REGULATIONS 2021",
   "orig": null
  },
@@ -112,5 +112,13 @@
     "en": "(I) An allowance to be called \"allowance for mental disorder\" shall, whenever the Pensions Officer is satisfied that there is need for such an allowance. be payable at the rate specified in the Schedule to these Regulations. to any person who satisfies the ·J Pensions Officer that'I\n\n(a) in the case of a person who has attained the age of 15 years(i) he has been certified by a Government Medical Officer or a qualified medical practitioner approved by the Director-General of Medical Services(A) as a person suffering from mental disorder: and\n\n(B) is, under and within the meaning of the provisions of the Mental Health Order, 2014 (S 25/20 14), either detained in a psychiatric facility or delivered over to the care and custody of any relative or friend: and\n\n(ii) has resided in Brunei Darussalam for a period of at least 10 years preceding the date on which he was detained or committed;\n\n(b) in the case of a person who is below the age of 15 years(i) he has been certified by a Government Medical Officer or a qualified medical practitioner approved by the Director-General of Medical Services as a person suffering from mental disorder; and\n\n(ii) either(A) he is a citizen of Brunei Darussalam; or\n\n(B) he was born in Brunei Darussalam and he has no national status, immediately preceding the date on which he became eligible for such allowance.\n\n(2) Whenever the Pensions Officer is satisfied that there exists a need for such allowance, an allowance shall be paid to the dependant of any person in receipt on an allowance for mental disorder under sub-regulation (I ){a). at the rate of specified in the Schedule to those Regulations.\"."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "OLD AGE AND DISABILITY PENSIONS ACT AMENDMENT NO. 1 REGULATIONS 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

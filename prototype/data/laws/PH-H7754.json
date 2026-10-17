@@ -1,7 +1,7 @@
 {
  "id": "PH-H7754",
  "title": {
-  "zh": null,
+  "zh": "鞋类、皮革制品与制革产业发展法",
   "en": "Footwear, Leather Goods and Tannery Industries Development Act",
   "orig": "Footwear, Leather Goods and Tannery Industries Development Act An Act Promoting the Development of the Footwear, Leather Goods and Tannery Industries, providing incentives therefor and for other purposes"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least one (1) newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Footwear, Leather Goods and Tannery Industries Development Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

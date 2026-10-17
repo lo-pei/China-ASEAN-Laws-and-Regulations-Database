@@ -1,7 +1,7 @@
 {
  "id": "PH-H633",
  "title": {
-  "zh": null,
+  "zh": "修订第296号共和国法，授权治安法官与市镇法院法官对收养与监护人任命案件与初审法院享有并行管辖权",
   "en": "An Act to Amend Republic Act Numbered Two Hundred and Ninety-six Authorizing the Justices of the Peace and Judges of the Municipal Courts to Have Concurrent Jurisdiction With the Courts of First Instance on Cases of Adoption and Appointment of Guardians",
   "orig": "An Act to Amend Republic Act Numbered Two Hundred and Ninety-six Authorizing the Justices of the Peace and Judges of the Municipal Courts to Have Concurrent Jurisdiction With the Courts of First Instance on Cases of Adoption and Appointment of Guardians"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 12, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Two Hundred and Ninety-six Authorizing the Justices of the Peace and Judges of the Municipal Courts to Have Concurrent Jurisdiction With the Courts of First Instance on Cases of Adoption and Appointment of Guardians",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

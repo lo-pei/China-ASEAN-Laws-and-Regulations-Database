@@ -1,7 +1,7 @@
 {
  "id": "SG-H3549",
  "title": {
-  "zh": null,
+  "zh": "规划（费用）规则 2014",
   "en": "Planning (Fees) Rules 2014",
   "orig": null
  },
@@ -202,5 +202,13 @@
     "en": "SIXTH SCHEDULE\nRule 2\nHistoric conservation areas\nPLAN 1\nPlan 2\nPLAN 3\nPLAN 4\nPLAN 5\nPLAN 6\n[S 42/2018 wef 05/02/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Planning (Fees) Rules 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10579",
  "title": {
-  "zh": null,
+  "zh": "将碧瑶市陆运署（LTO）办公室升格为A级区办公室，设置相应职位并为此拨款的法案",
   "en": "An Act Upgrading the Office of the Land Transportation Office (LTO) In the City of Baguio Into A Class “A” District Office, Providing Positions Thereto, and Appropriating Funds Therefor",
   "orig": "An Act Upgrading the Office of the Land Transportation Office (LTO) In the City of Baguio Into A Class “A” District Office, Providing Positions Thereto, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading the Office of the Land Transportation Office (LTO) In the City of Baguio Into A Class “A” District Office, Providing Positions Thereto, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

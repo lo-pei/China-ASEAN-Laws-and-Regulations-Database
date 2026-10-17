@@ -1,7 +1,7 @@
 {
  "id": "PH-H1795",
  "title": {
-  "zh": null,
+  "zh": "禁止、拆除和/或捣毁在公共通航水域或水道及公共渔场修建的堤坝、围堤或其他工程，规范上述水域、水道及公共渔场内的工程，并规定违反本法的处罚，及其他目的",
   "en": "An Act to Prohibit, Remove and/or Demolish the Construction of Dams, Dikes or Any Other Works in Public Navigable Waters or Waterways and in Communal Fishing Grounds, to Regulate Works in Such Waters or Waterways and in Communal Fishing Grounds, and to Provide Penalties for its Violation, and for Other Purposes",
   "orig": "An Act to Prohibit, Remove and/or Demolish the Construction of Dams, Dikes or Any Other Works in Public Navigable Waters or Waterways and in Communal Fishing Grounds, to Regulate Works in Such Waters or Waterways and in Communal Fishing Grounds, and to Provide Penalties for its Violation, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 13, 1958"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Prohibit, Remove and/or Demolish the Construction of Dams, Dikes or Any Other Works in Public Navigable Waters or Waterways and in Communal Fishing Grounds, to Regulate Works in Such Waters or Waterways and in Communal Fishing Grounds, and to Provide Penalties for its Violation, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

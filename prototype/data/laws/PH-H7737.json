@@ -1,7 +1,7 @@
 {
  "id": "PH-H7737",
  "title": {
-  "zh": null,
+  "zh": "通过整合新比斯开省 Bayombong 市镇新比斯开国立技术学院与 Banbang 市镇新比斯开理工国立学院，在新比斯开省设立新比斯开国立大学，拨付资金并为其他目的法案",
   "en": "An act establishing the Nueva Vizcaya State University in the Province of Nueva Vizcaya by integrating the Nueva Vizcaya State Institute of Technology in the Municipality of Bayombong and the Nueva Vizcaya State Polytechnic College in the Municipality of Banbang, both located in the Province of Nueva Vizcaya, appropriating funds therefor and for other purposes",
   "orig": "An act establishing the Nueva Vizcaya State University in the Province of Nueva Vizcaya by integrating the Nueva Vizcaya State Institute of Technology in the Municipality of Bayombong and the Nueva Vizcaya State Polytechnic College in the Municipality of Banbang, both located in the Province of Nueva Vizcaya, appropriating funds therefor and for other purposes"
  },
@@ -300,5 +300,13 @@
     "en": "Effectivity. – This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act establishing the Nueva Vizcaya State University in the Province of Nueva Vizcaya by integrating the Nueva Vizcaya State Institute of Technology in the Municipality of Bayombong and the Nueva Vizcaya State Polytechnic College in the Municipality of Banbang, both located in the Province of Nueva Vizcaya, appropriating funds therefor and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

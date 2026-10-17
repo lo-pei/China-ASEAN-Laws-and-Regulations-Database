@@ -1,7 +1,7 @@
 {
  "id": "SG-H3379",
  "title": {
-  "zh": null,
+  "zh": "网络刑事危害（向部长上诉）条例 2024",
   "en": "Online Criminal Harms (Appeals to Minister) Regulations 2024",
   "orig": null
  },
@@ -470,5 +470,13 @@
     "en": "27. The Minister may rely on a document or part of a document for which confidential treatment has been granted under regulation 26, for the purposes of —\n(a)considering a notice of appeal against an appealable decision; and\n(b)making a decision under section 26(7) of the Act in relation to the appealable decision."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Online Criminal Harms (Appeals to Minister) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

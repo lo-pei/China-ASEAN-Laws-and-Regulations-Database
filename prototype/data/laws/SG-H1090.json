@@ -1,7 +1,7 @@
 {
  "id": "SG-H1090",
  "title": {
-  "zh": null,
+  "zh": "宣告法定机构雇用的人员就本法而言不属雇员",
   "en": "Declaration That Persons Employed by Statutory Boards Are Not Employees for Purposes of Act",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Employment Act\n(Chapter 91, Sections 2 (Definition of “employee”))\nDeclaration That Persons Employed by Statutory Boards Are Not Employees for Purposes of Act\nN 1\nG.N. No. S 169/1975\nREVISED EDITION 2000\n(30th April 2000)\n[18th July 1975]\nThe Minister for Manpower has declared that all classes of persons employed by a statutory board, constituted under any written law, shall not be employees for the purposes of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Declaration That Persons Employed by Statutory Boards Are Not Employees for Purposes of Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

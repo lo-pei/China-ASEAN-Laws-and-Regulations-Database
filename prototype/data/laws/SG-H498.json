@@ -1,7 +1,7 @@
 {
  "id": "SG-H498",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（社区基金缴款——CDAC）规则 1992",
   "en": "Central Provident Fund (Contributions to Community Fund — CDAC) Rules 1992",
   "orig": null
  },
@@ -165,5 +165,13 @@
     "en": "THE SCHEDULE\nRules 3(1), 5 and 8\nRates of contribution\nPart 1\nAmount deductible from employee’s monthly wages earned on or after\n1 September 1992 but before 1 January 2015\nTotal amount of an employee’s\nwages for the calendar month\nAmount deductible from an employee’s\nwages for the calendar month\n1.Less than $2,000\n$0.50\n2.$2,000 or more\n$1\nPart 2\nAmount deductible from employee’s monthly wages earned on or after\n1 January 2015\nTotal amount of an employee’s\nwages for the calendar month\nAmount deductible from an employee’s\nwages for the calendar month\n1.Not more than $2,000\n$0.50\n2.More than $2,000\nbut not more than $3,500\n$1\n3.More than $3,500\nbut not more than $5,000\n$1.50\n4.More than $5,000\nbut not more than $7,500\n$2\n5.More than $7,500\n$3"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund (Contributions to Community Fund — CDAC) Rules 1992",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

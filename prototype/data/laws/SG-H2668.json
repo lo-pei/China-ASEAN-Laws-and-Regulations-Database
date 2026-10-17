@@ -1,7 +1,7 @@
 {
  "id": "SG-H2668",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 14 号）命令 2024",
   "en": "Infrastructure Protection (Protected Places) (No. 14) Order 2024",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nDirector,\nWater Reclamation (Plants) Department,\nPublic Utilities Board\nCHANGI WATER RECLAMATION PLANT\nAll that area comprised in part of Lots 4582M, 4583W, 4584V, 4656V, 4658T, 4911T and 4961K in Mukim No. 31 occupied by “CHANGI WATER RECLAMATION PLANT” containing an area of about 433,953.3 square metres and bounded approximately as follows:\nCommencing at a point 33106.812 metres North and 46614.283 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n33106.812\n46614.283\n33086.741\n46661.461\n33082.184\n46673.495\n33078.608\n46685.857\n33076.037\n46698.466\n33074.488\n46711.241\n33073.970\n46724.100\n33073.972\n46858.327\n33102.978\n46858.331\n33102.974\n46888.330\n33209.033\n46888.343\n33359.033\n46888.361\n33359.031\n46908.361\n33479.031\n46908.375\n33479.011\n47068.375\n33478.992\n47228.375\n33478.972\n47391.518\n33428.972\n47391.512\n33358.972\n47391.504\n33208.975\n47391.486\n33168.970\n47391.481\n33027.846\n47391.464\n32946.474\n47278.076\n32919.392\n47240.415\n32912.687\n47230.803\n32889.369\n47196.522\n32879.674\n47181.975\n32833.870\n47114.767\n32829.078\n47107.682\n32825.005\n47101.596\n32818.354\n47091.632\n32814.247\n47085.278\n32812.267\n47082.130\n32803.601\n47067.829\n32796.754\n47055.983\n32789.678\n47043.062\n32786.258\n47036.628\n32782.917\n47030.128\n32779.598\n47023.500\n32776.464\n47016.958\n32774.134\n47012.148\n32772.613\n47008.888\n32755.278\n46967.214\n32751.597\n46957.212\n32750.123\n46953.035\n32735.553\n46908.900\n32717.553\n46819.053\n32715.340\n46737.115\n32716.524\n46726.010\n32716.626\n46724.593\n32717.312\n46716.856\n32718.124\n46709.581\n32719.147\n46701.394\n32722.014\n46681.970\n32723.651\n46672.554\n32725.398\n46663.898\n32728.597\n46649.556\n32731.915\n46635.295\n32735.293\n46621.074\n32738.009\n46610.445\n32743.280\n46590.023\n32744.897\n46584.071\n32747.330\n46575.415\n32750.465\n46564.463\n32754.474\n46551.481\n32759.675\n46533.573\n32780.997\n46474.613\n32933.532\n46539.460\nto the point of commencement.\nThe boundaries of “CHANGI WATER RECLAMATION PLANT” are more particularly delineated in the Survey Plan Nos. (27B) in SLA/LPB/47.1.243, (5A) in SLA/LPB/47.1.248 and (18A) in SLA/LPB/47.1.254, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 14) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

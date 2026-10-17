@@ -1,7 +1,7 @@
 {
  "id": "SG-H1582",
  "title": {
-  "zh": null,
+  "zh": "消防安全（上诉咨询委员会）条例 2020",
   "en": "Fire Safety (Appeal Advisory Board) Regulations 2020",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "8.—(1) The Board may, if it thinks fit, transact any business, including making a decision, by circulation of papers (including by electronic mail) among all members.\n(2) A decision in writing made by a simple majority of the members for the time being entitled to take part in the decision, is a decision of the Board, and is valid as if it had been made at a meeting of the Board duly convened and held.\n(3) For the purpose of a decision under this regulation —\n(a)the Chairperson may stipulate a period of time within which the decision may be made;\n(b)the Chairperson and each member have the same voting rights as they have at any meeting of the Board;\n(c)separate copies of the decision in writing may be distributed for signing by the members if the wording of the decision is identical in each copy; and\n(d)the Board’s decision is made when the last member required for the simple majority signs and delivers his or her decision to the Chairperson or a person authorised by the Chairperson."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Fire Safety (Appeal Advisory Board) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

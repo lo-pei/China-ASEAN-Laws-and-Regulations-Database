@@ -1,7 +1,7 @@
 {
  "id": "SG-H3582",
  "title": {
-  "zh": null,
+  "zh": "防止海洋污染法 1990",
   "en": "Prevention of Pollution of the Sea Act 1990",
   "orig": null
  },
@@ -678,5 +678,13 @@
     "en": "35. This Act binds the Government."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Prevention of Pollution of the Sea Act 1990",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

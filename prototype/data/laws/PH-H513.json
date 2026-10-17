@@ -1,7 +1,7 @@
 {
  "id": "PH-H513",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统在一年内重组政府各部、局、办公室、机关及其他机构，包括其拥有或控制的公司",
   "en": "An Act Authorizing the President of the Philippines to Reorganize Within One Year the Different Executive Departments, Bureaus, Offices, Agencies and Other Instrumentalities of the Government, Including the Corporations Owned or Controlled By It",
   "orig": "An Act Authorizing the President of the Philippines to Reorganize Within One Year the Different Executive Departments, Bureaus, Offices, Agencies and Other Instrumentalities of the Government, Including the Corporations Owned or Controlled By It"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: January 6, 195"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Reorganize Within One Year the Different Executive Departments, Bureaus, Offices, Agencies and Other Instrumentalities of the Government, Including the Corporations Owned or Controlled By It",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H389",
  "title": {
-  "zh": null,
+  "zh": "建筑维护与分层管理（过渡与保留规定）命令",
   "en": "Building Maintenance and Strata Management (Transitional and Savings Provisions) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Where any deposit is made by a developer under section 16(1) or (5) of the repealed Act, and the deposit has not been refunded in accordance with section 16(6) of the repealed Act before 1st April 2005, that deposit —\n(a)need not be refunded immediately on 1st April 2005; but\n(b)shall continue to be dealt with by the Commissioner in accordance with section 16(4) and (6) of the repealed Act as if the Act had not been enacted.\n[G.N. No. S 200/2005]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Maintenance and Strata Management (Transitional and Savings Provisions) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

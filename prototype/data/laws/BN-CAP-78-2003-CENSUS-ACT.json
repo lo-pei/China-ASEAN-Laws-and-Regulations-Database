@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-78-2003-CENSUS-ACT",
  "title": {
-  "zh": null,
+  "zh": "人口普查法",
   "en": "Census Act",
   "orig": null
  },
@@ -241,5 +241,13 @@
     "en": "No entry in any book, register, or record made by a census officer or by any other person in the discharge of his duty under this Act shall be admissible as evidence in any civil or criminal proceeding, save and except a prosecution instituted under this Act in respect of such entry against the person who made, signed or delivered the same, or caused the same to be made, signed or delivered. $3.00 Attorney General’s Chambers The Law Building, Jalan Tutong Bandar Seri Begawan BA1910 CAP. 78, 2003 Ed. Brunei Darussalam The Government Printing Department Brunei Darussalam"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Census Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

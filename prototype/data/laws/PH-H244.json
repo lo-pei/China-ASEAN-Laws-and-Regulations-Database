@@ -1,7 +1,7 @@
 {
  "id": "PH-H244",
  "title": {
-  "zh": null,
+  "zh": "重新划拨并动用第80号共和国法J-IV-2与J-IV-14项下1947年6月30日尚未支用的全部拨款余额，用于全菲律宾公立学校开设新的或增设的小学班级",
   "en": "An Act Reappropriating and Making Available All Balances of the Appropriation Authorized Under Items J-IV-2 and J-IV-14 of Republic Act Numbered Eighty Remaining Unexpended on June Thirtieth, Nineteen Hundred and Forty-Seven, for the Opening of New or Additional Elementary Classes in the Public Schools Throughout the Philippines",
   "orig": "An Act Reappropriating and Making Available All Balances of the Appropriation Authorized Under Items J-IV-2 and J-IV-14 of Republic Act Numbered Eighty Remaining Unexpended on June Thirtieth, Nineteen Hundred and Forty-Seven, for the Opening of New or Additional Elementary Classes in the Public Schools Throughout the Philippines"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reappropriating and Making Available All Balances of the Appropriation Authorized Under Items J-IV-2 and J-IV-14 of Republic Act Numbered Eighty Remaining Unexpended on June Thirtieth, Nineteen Hundred and Forty-Seven, for the Opening of New or Additional Elementary Classes in the Public Schools Throughout the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

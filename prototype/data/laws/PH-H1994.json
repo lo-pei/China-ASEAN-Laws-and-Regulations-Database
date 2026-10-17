@@ -1,7 +1,7 @@
 {
  "id": "PH-H1994",
  "title": {
-  "zh": null,
+  "zh": "将特许市市长、副市长与议员职位改为民选、规范此类城市选举并规定上述职位薪金与任期的法案",
   "en": "An Act Making Elective the Offices of Mayor, Vice-Mayor and Councilors in Chartered Cities, Regulating the Election in Such Cities and Fixing the Salaries and Tenure of Such Offices",
   "orig": "An Act Making Elective the Offices of Mayor, Vice-Mayor and Councilors in Chartered Cities, Regulating the Election in Such Cities and Fixing the Salaries and Tenure of Such Offices"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 19, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making Elective the Offices of Mayor, Vice-Mayor and Councilors in Chartered Cities, Regulating the Election in Such Cities and Fixing the Salaries and Tenure of Such Offices",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

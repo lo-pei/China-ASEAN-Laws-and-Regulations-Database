@@ -1,7 +1,7 @@
 {
  "id": "PH-H5196",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛省卡巴图安市镇图伊-安描笼涯图伊-安小学更名为Colomer小学的法案",
   "en": "An Act Renaming the Tuy-An Elementary School in Barangay Tuy-An, Municipality of Cabatuan, Province of Iloilo, as the Colomer Elementary School",
   "orig": "An Act Renaming the Tuy-An Elementary School in Barangay Tuy-An, Municipality of Cabatuan, Province of Iloilo, as the Colomer Elementary School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Tuy-An Elementary School in Barangay Tuy-An, Municipality of Cabatuan, Province of Iloilo, as the Colomer Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1671",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（射击场与彩弹射击场）条例 2025",
   "en": "Guns, Explosives and Weapons Control (Shooting and Paintball Ranges) Regulations 2025",
   "orig": null
  },
@@ -842,5 +842,13 @@
     "en": "SECOND SCHEDULE\nRegulations 8(1)(a), 13(1)(a) and 48(1) and (2)\nFees\nFirst column\nSecond column\nItem\nFee\n1.Application fee for range operator licence\n$0\n2.Range operator licence\n$80\n3.Application fee for venue approval\n$0\n4.Venue approval in respect of an approved shooting range with any firearm shooting arena, valid for —\n(a)2 months or shorter; or\n$110 per range\n(b)more than 2 months\n$1,630 per range\n5.Venue approval in respect of an approved shooting range without any firearm shooting arena or an approved paintball range, valid for —\n(a)2 months or shorter; or\n$50 per range\n(b)more than 2 months\n$500 per range\n6.Application for approval under regulation 28 relating to —\n$0 per application\n(a)a safety management plan;\n(b)a security plan; or\n(c)a layout plan of an approved shooting range or approved paintball range\n7.Approval under regulation 28 of a change to —\n$40 per approval\n(a)a safety management plan;\n(b)a security plan; or\n(c)a layout plan of an approved shooting range or approved paintball range"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Guns, Explosives and Weapons Control (Shooting and Paintball Ranges) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

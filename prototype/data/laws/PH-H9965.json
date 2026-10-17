@@ -1,7 +1,7 @@
 {
  "id": "PH-H9965",
  "title": {
-  "zh": null,
+  "zh": "地方政府法典 1991",
   "en": "local Government Code of 1991",
   "orig": "An Act Making the Position of a Cooperatives Development Officer Mandatory in the Municipal, City and Provincial Levels, Amending for the Purpose Republic Act No. 7160, Otherwise Known as the \"local Government Code of 1991\", as Amended"
  },
@@ -107,5 +107,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "local Government Code of 1991",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

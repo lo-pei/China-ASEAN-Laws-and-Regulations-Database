@@ -1,7 +1,7 @@
 {
  "id": "BN-S-23-2014-E-NOTIFICATION-OF-COMMENCEMENT",
  "title": {
-  "zh": null,
+  "zh": "生效公告",
   "en": "NOTIFICATION OF COMMENCEMENT",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 23\n\nARCHITECTS, PROFESSIONAL ENGINEERS AND\n\nQUANTITY SURVEYORS ORDER, 2011 (S 33/2011) Notification of commencement In exercise of the power conferred by section 1 ( 1) of the Architect, Professional Engineers and Quantity Surveyors Order, 2011, the Minister of Development, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 13th September 2012 as the date on which that Order shall be deemed to have commenced. Made this lOth. day of Rejab, 1435 Hijriah corresponding to the lOth. day of May, 2014.\n\nDATO PADUKA A WANG HAJI SUHAIMI BIN HAJI GAFAR Permanent Secretary, Ministry of Development, Brunei Darussalam. Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENGIRAN HAJI AHMAD, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

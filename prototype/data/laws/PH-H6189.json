@@ -1,7 +1,7 @@
 {
  "id": "PH-H6189",
  "title": {
-  "zh": null,
+  "zh": "将北三宝颜省卡拉维特市镇Angelina Dumajel小学的名称变更为巴塔扬小学的法案",
   "en": "An Act Changing the Name of the Angelina Dumajel Elementary School in the Municipality of Kalawit, Zamboanga Del Norte, to Batayan Elementary School",
   "orig": "An Act Changing the Name of the Angelina Dumajel Elementary School in the Municipality of Kalawit, Zamboanga Del Norte, to Batayan Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Angelina Dumajel Elementary School in the Municipality of Kalawit, Zamboanga Del Norte, to Batayan Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

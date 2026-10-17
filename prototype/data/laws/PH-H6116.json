@@ -1,7 +1,7 @@
 {
  "id": "PH-H6116",
  "title": {
-  "zh": null,
+  "zh": "授权将授予 Zoilo Dejaresco, Jr. 的保和省广播电视特许经营权转让给 Bohol Chronicle 广播公司，并将期限再延长二十五年的法案",
   "en": "An Act Authorizing the Transfer and Assignment To the Bohol Chronicle Radio Corporation of the Franchise To Construct, Operate and Maintain Television and Radio Broadcasting Stations in the Province of Bohol Granted Under Republic Act Numbered Forty-seven Hundred and Ninety-two To Zoilo Dejaresco, Jr., and All the Properties and Rights Acquired Thereunder of Zoilo Dejaresco, Jr., and Renewing the Terms of the Said Franchise To Another Twenty-five (25) Years From the Date of Effectivity of This Act",
   "orig": "An Act Authorizing the Transfer and Assignment To the Bohol Chronicle Radio Corporation of the Franchise To Construct, Operate and Maintain Television and Radio Broadcasting Stations in the Province of Bohol Granted Under Republic Act Numbered Forty-seven Hundred and Ninety-two To Zoilo Dejaresco, Jr., and All the Properties and Rights Acquired Thereunder of Zoilo Dejaresco, Jr., and Renewing the Terms of the Said Franchise To Another Twenty-five (25) Years From the Date of Effectivity of This Act"
  },
@@ -210,5 +210,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Transfer and Assignment To the Bohol Chronicle Radio Corporation of the Franchise To Construct, Operate and Maintain Television and Radio Broadcasting Stations in the Province of Bohol Granted Under Republic Act Numbered Forty-seven Hundred and Ninety-two To Zoilo Dejaresco, Jr., and All the Properties and Rights Acquired Thereunder of Zoilo Dejaresco, Jr., and Renewing the Terms of the Said Franchise To Another Twenty-five (25) Years From the Date of Effectivity of This Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

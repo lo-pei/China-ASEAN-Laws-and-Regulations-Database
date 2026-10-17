@@ -1,7 +1,7 @@
 {
  "id": "PH-H9113",
  "title": {
-  "zh": null,
+  "zh": "小贝尼尼奥·S·阿基诺参议员大道",
   "en": "Senator Benigno S. Aquino, Jr. Avenues",
   "orig": "An Act Naming a Stretch of the National Highway Along the Iloilo Diversion Road/Iloilo Capiz Road (Old Route) Which Begins at the Junction of General Luna to the Airport Access Road and Ends at the Gate of the Iloilo International Airport, Traversing the Municipalities of Pavia, Sta. Barbara and Cabatuan, and Iloilo City, as \"Senator Benigno S. Aquino, Jr. Avenues\""
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Senator Benigno S. Aquino, Jr. Avenues",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

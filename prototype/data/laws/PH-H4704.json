@@ -1,7 +1,7 @@
 {
  "id": "PH-H4704",
  "title": {
-  "zh": null,
+  "zh": "设立菲律宾医疗照护计划与菲律宾医疗照护委员会，规定其职责、权力与职能并为此拨款的法案",
   "en": "An Act Establishing the Philippine Medical Care Plan and Creating the Philippine Medical Care Commission, Prescribing Its Duties, Powers and Functions, and Appropriating Funds Therefor.",
   "orig": "An Act Establishing the Philippine Medical Care Plan and Creating the Philippine Medical Care Commission, Prescribing Its Duties, Powers and Functions, and Appropriating Funds Therefor."
  },
@@ -450,5 +450,13 @@
     "en": "Effectivity. Program I shall be implemented immediately and upon the effectivity of this Act.\nProgram II shall be implemented in the manner and time to be determined by Congress upon recommendation of the Commission.\nApproved: August 4, 1969"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the Philippine Medical Care Plan and Creating the Philippine Medical Care Commission, Prescribing Its Duties, Powers and Functions, and Appropriating Funds Therefor.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

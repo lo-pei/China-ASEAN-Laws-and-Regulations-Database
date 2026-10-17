@@ -1,7 +1,7 @@
 {
  "id": "SG-H1819",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 3 号）命令 2022",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2022",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board:\n(a)bounded by Pipit Road and Circuit Road, comprised in Lot number 09322L in Mukim 24 and on which Apartment Block 53 is erected, in Lot number 06048M in Mukim 24 and on which Apartment Block 54 is erected, in Lot number 08478A in Mukim 24 and on which Apartment Block 68 is erected, in Lot number 08479K in Mukim 24 and on which Apartment Block 70 is erected, in Lot number 07776N in Mukim 24 and on which Apartment Block 71 is erected, and in Lot number 07777X in Mukim 24 and on which Apartment Block 72 is erected, and which is more particularly edged in Plan 1A;\nPLAN 1A\nCIRCUIT ROAD / PIPIT ROAD / ALJUNIED AVENUE 2\n(b)at Circuit Road comprised in Lot number 10121C in Mukim 24 and on which Apartment Block 37 is erected, and which is more particularly edged in Plan 1B;\nPLAN 1B\nCIRCUIT ROAD / PIPIT ROAD / ALJUNIED AVENUE 2\n(c)bounded by Aljunied Crescent, Aljunied Avenue 2, Aljunied Avenue 1 and Geylang East Central, comprised in Lot number 07123L in Mukim 24 and on which Apartment Block 113 is erected, in Lot number 07235T in Mukim 24 and on which Apartment Block 115 is erected, in Lot number 07236A in Mukim 24 and on which Apartment Block 116 is erected, and in Lot number 07238N in Mukim 24 and on which Apartment Block 119 is erected, and which is more particularly edged in Plan 1C.\nPLAN 1C\nCIRCUIT ROAD / PIPIT ROAD / ALJUNIED AVENUE 2\n2. All that part of the housing estate of the Board bounded by Woodlands Avenue 1 and Woodlands Street 31, comprised in Lot number 02152V in Mukim 13 and on which Apartment Blocks 301, 302, 303, 304, 305 and 306 are erected, and in Lot number 02156K in Mukim 13 and on which Apartment Block 306A is erected, and which is more particularly edged in Plan 2.\nPLAN 2\nWOODLANDS STREET 31"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

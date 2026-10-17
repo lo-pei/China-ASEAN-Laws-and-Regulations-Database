@@ -1,7 +1,7 @@
 {
  "id": "PH-H1815",
  "title": {
-  "zh": null,
+  "zh": "修订第 1609 号共和国法（即以合理价格向农民供应化肥促进农业生产）若干条款的法案",
   "en": "An Act Amending Certain Sections of Republic Act Numbered Sixteen Hundred Nine, Entitled “An Act to Encourage Agricultural Production by Making Fertilizers Available to Farmers at Reasonable Prices”",
   "orig": "An Act Amending Certain Sections of Republic Act Numbered Sixteen Hundred Nine, Entitled “An Act to Encourage Agricultural Production by Making Fertilizers Available to Farmers at Reasonable Prices”"
  },
@@ -71,14 +71,15 @@
    }
   },
   {
-   "id": "PH-H1815-A3_2",
+   "id": "PH-H1815-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "Section four of the same Act is amended to read as follows:\n\"Section 4. The ACCFA is hereby designated and directed to administer the distribution of fertilizers and soil conditioners through the facilities of farmers' cooperative marketing associations and their federations or other farmers' cooperative associations or bona fide private farmers' organizations duly registered with the Department of Labor that are or may be organized in every town, and in towns where there are no farmers' cooperative marketing associations operating or doing business therein, other farmers' cooperative associations or bona fide private farmers' organizations through the Bureau of Agricultural Extension proportionately to the acreage devoted for agricultural production by province in accordance with the latest statistics of the Department of Agriculture and Natural Resources: Provided, That the fertilizer and soil conditioner shall be used for the purpose it is intended and shall not be channeled to the black market; and that the distributing agency of fertilizers and soil conditioners shall take all steps to prevent the waste and black marketing of the same, and shall provide the greatest publicity concerning their distribution, giving such information to the barrio councils or to any other civic organizations requesting such information: Provided, further, That in the distribution of fertilizers and soil conditioners preference be given to small farmers with landholdings not exceeding five hectares, except in the case of small farmers with landholdings of not exceeding two hectares who may be allowed to buy the fertilizers and soil conditioners on credit: Provided, further, That fertilizers and soil conditioners not exceeding one bag per farmer may be distributed free to indigent farmers who suffer losses due to crop failure because of calamitous events certified, to by the Director of the Bureau of Agricultural Extension, with the approval of the Secretary of Agriculture and Natural Resources: Provided, furthermore, That in the handling, warehousing, transporting, and trucking of said fertilizers and soil conditioners, only personnel and facilities of the farmers' cooperative marketing associations and their federations or bona fide private farmers' organizations or other farmers' cooperative associations shall be utilized: Provided, finally, That the ACCFA shall be responsible for delivering the fertilizers and soil conditioners to the farmers at the fertilizing period appropriate for the various crops of farmers throughout the Philippines.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H1815-A4",
@@ -160,5 +161,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 13, 1958."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Sections of Republic Act Numbered Sixteen Hundred Nine, Entitled “An Act to Encourage Agricultural Production by Making Fertilizers Available to Farmers at Reasonable Prices”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

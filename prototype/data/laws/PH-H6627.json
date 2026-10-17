@@ -1,7 +1,7 @@
 {
  "id": "PH-H6627",
  "title": {
-  "zh": null,
+  "zh": "进一步延长依第6391号共和国法授予Consuelo D. Borja、现由Iligan Light and Power, Inc.持有的全部特许经营权期限并为其他目的法案",
   "en": "An Act Further Extending the Term of the Franchise Granted to Consuelo D. Borja Now Presently Held By Iligan Light and Power, Inc., Her Successor-in-interest, Under Republic Act Numbered Six Thousand Three Hundred Ninety-one, Originally Granted to Consuelo D. Borja Under Act Numbered Three Thousand Eight Hundred Ten for a Period of Twenty-five (25) Years From the Date of Its Expiration, and for Other Purposes",
   "orig": "An Act Further Extending the Term of the Franchise Granted to Consuelo D. Borja Now Presently Held By Iligan Light and Power, Inc., Her Successor-in-interest, Under Republic Act Numbered Six Thousand Three Hundred Ninety-one, Originally Granted to Consuelo D. Borja Under Act Numbered Three Thousand Eight Hundred Ten for a Period of Twenty-five (25) Years From the Date of Its Expiration, and for Other Purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Extending the Term of the Franchise Granted to Consuelo D. Borja Now Presently Held By Iligan Light and Power, Inc., Her Successor-in-interest, Under Republic Act Numbered Six Thousand Three Hundred Ninety-one, Originally Granted to Consuelo D. Borja Under Act Numbered Three Thousand Eight Hundred Ten for a Period of Twenty-five (25) Years From the Date of Its Expiration, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

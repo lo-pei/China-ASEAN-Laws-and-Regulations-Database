@@ -1,7 +1,7 @@
 {
  "id": "SG-H662",
  "title": {
-  "zh": null,
+  "zh": "合作社（第 97 条下的豁免）（第 3 号）命令 2010",
   "en": "Co-operative Societies (Exemption under Section 97) (No. 3) Order 2010",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to sub-paragraph (2), the following societies are exempted from the requirement in section 59(1)(a) of the Act that the chairman, secretary and treasurer are to be elected by the members of the committee of management from among themselves or by the members of the society at a general meeting:\n(a)Singapore Police Co-operative Society Limited;\n(b)Phoenix Co-operative Society Limited;\n(c)Singapore Prison Service Multi-Purpose Co-operative Society Limited;\n(d)Industrial and Services Co-operative Society Limited.\n(2) The societies referred to in sub-paragraph (1) shall provide in the by-laws for the appointment of the chairman, secretary and treasurer by the president or the board of trustees of the society, as the case may be."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (Exemption under Section 97) (No. 3) Order 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

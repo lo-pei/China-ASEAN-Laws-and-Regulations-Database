@@ -1,7 +1,7 @@
 {
  "id": "PH-H1177",
  "title": {
-  "zh": null,
+  "zh": "授予 Manila CHRonicle 在菲律宾建设、维护和运营无线电广播电台与电视台的许可的法案",
   "en": "An Act Granting the Manila CHRonicle a Permit to Construct, Maintain and Operate Radio Broadcasting Stations and Stations for Television in the Philippines",
   "orig": "An Act Granting the Manila CHRonicle a Permit to Construct, Maintain and Operate Radio Broadcasting Stations and Stations for Television in the Philippines"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Manila CHRonicle a Permit to Construct, Maintain and Operate Radio Broadcasting Stations and Stations for Television in the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

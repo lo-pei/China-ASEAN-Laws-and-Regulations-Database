@@ -1,7 +1,7 @@
 {
  "id": "SG-H1885",
  "title": {
-  "zh": null,
+  "zh": "移民（授权出入境地点与费率）公告 2012",
   "en": "Immigration (Authorised Places of Entry and Departure, and Rates) Notification 2012",
   "orig": null
  },
@@ -192,5 +192,13 @@
     "en": "FIFTH SCHEDULE\nParagraph 6\nRates\nFirst column\nSecond column\n1.\nIn the case where immigration clearance is required to be performed at any place or part of a place for the separate and exclusive immigration clearance of a particular person or class of persons arriving in or leaving Singapore for all hours for a duration of more than one month\n(a)For an ICA senior officer —\n$10,400 for every month or a pro‑rata amount for shorter period;\n(b)For an ICA specialist —\n$6,500 for every month or a pro‑rata amount for shorter period.\n2.\nIn all other cases\n(a)For an ICA senior officer —\n$65 for every hour or part thereof;\n(b)For an ICA specialist —\n$40 for every hour or part thereof."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Immigration (Authorised Places of Entry and Departure, and Rates) Notification 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

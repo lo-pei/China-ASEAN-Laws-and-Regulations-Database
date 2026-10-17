@@ -1,7 +1,7 @@
 {
  "id": "SG-H2986",
  "title": {
-  "zh": null,
+  "zh": "法律职业（准入）规则 2024",
   "en": "Legal Profession (Admission) Rules 2024",
   "orig": null
  },
@@ -890,5 +890,13 @@
     "en": "SECOND SCHEDULE\nFees\nRules 7(2), 8(2), 11(3), 21(2), 23(2) and 24(3)\nFirst column\nItem\nSecond column\nFee\n1.Part B Course and Part B Examinations fee under rule 7(2)(b)(i), inclusive of a non‑refundable application fee of $545, for —\n(a)a Singapore citizen\n$5,450\n(b)a Singapore permanent resident\n$6,322\n(c)a foreigner\n$7,630\n2.Application fee under rule 8(2) for review of Part B Director’s decision\n$218\n3.Fee under rule 11(3)(b)(i) for retaking Part B Examinations\n$545 per module\n4.Application fee under rule 21(2) for review of Dean’s decision\n$218\n5.Application fee under rule 23(2) for review of Disciplinary Committee’s decision\n$218\n6.Fee under rule 24(3) for registration as a qualified person\n$218"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Admission) Rules 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2169",
  "title": {
-  "zh": null,
+  "zh": "将卡加延省Gonzaga中学改设为Alcala农村中学类型的国立农村中学，名称为Gonzaga国立农村中学，并授权为此拨款7.5万比索",
   "en": "An Act Converting the Gonzaga High School in the Province of Cagayan into a National Rural High School of the Alcala Rural High School Type to be Known as the Gonzaga National Rural High School and Authorizing the Appropriation of the Sum of Seventy-Five Thousand Pesos for the Purpose",
   "orig": "An Act Converting the Gonzaga High School in the Province of Cagayan into a National Rural High School of the Alcala Rural High School Type to be Known as the Gonzaga National Rural High School and Authorizing the Appropriation of the Sum of Seventy-Five Thousand Pesos for the Purpose"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Gonzaga High School in the Province of Cagayan into a National Rural High School of the Alcala Rural High School Type to be Known as the Gonzaga National Rural High School and Authorizing the Appropriation of the Sum of Seventy-Five Thousand Pesos for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

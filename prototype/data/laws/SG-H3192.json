@@ -1,7 +1,7 @@
 {
  "id": "SG-H3192",
  "title": {
-  "zh": null,
+  "zh": "商船（游乐船只）条例 2020",
   "en": "Merchant Shipping (Pleasure Craft) Regulations 2020",
   "orig": null
  },
@@ -580,5 +580,13 @@
     "en": "THIRD SCHEDULE\nRegulation 28(1)\nCarrying capacity\n1. The carrying capacity of a pleasure craft means the maximum number of passengers and crew members that the pleasure craft may carry.\n2. The carrying capacity of a pleasure craft —\n(a)is specified in its builder’s certificate recognised by the Director; or\n(b)if the builder’s certificate contains no such specification, is determined by the Director in accordance with the following formula:\ncarrying capacity = 12 + (length × length × breadth × 0.0031).\n3. In this Schedule, “length” and “breadth” have the meanings given to them in the First Schedule."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Pleasure Craft) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

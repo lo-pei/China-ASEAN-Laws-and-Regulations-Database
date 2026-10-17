@@ -1,7 +1,7 @@
 {
  "id": "SG-H2095",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 8 号）命令 2017",
   "en": "Income Tax (Exemption of Foreign Income) (No. 8) Order 2017",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividends received in Singapore by Frasers Amethyst Pte. Ltd. (a company incorporated in Singapore) on or after 25 July 2017 from Frasers Australand Pty Ltd (a company incorporated in Australia) are exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the conditions specified in paragraphs 5, 9 and 10 of the letter of approval dated 25 July 2017 addressed to Ernst & Young Solutions LLP, the tax agent of Frasers Amethyst Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 8) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

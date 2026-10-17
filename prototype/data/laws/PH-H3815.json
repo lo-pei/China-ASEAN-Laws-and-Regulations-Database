@@ -1,7 +1,7 @@
 {
  "id": "PH-H3815",
  "title": {
-  "zh": null,
+  "zh": "在南莱特省设立试验站与种子农场，名称为南莱特试验站与种子农场，并授权为此拨款的法案",
   "en": "An Act Establishing an Experiment Station and Seed Farm in the Province of Southern Leyte, to be Known as the Southern Leyte Experiment Station and Seed Farm and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Establishing an Experiment Station and Seed Farm in the Province of Southern Leyte, to be Known as the Southern Leyte Experiment Station and Seed Farm and Authorizing the Appropriation of Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "The sum of five hundred thousand pesos is hereby authorized to be appropriated, out of any funds in the National Treasury not otherwise appropriated, for the establishment, operation and maintenance of said experiment station and seed farm during the fiscal year nineteen hundred sixty-seven. Thereafter, such sums as may be needed for its operation and maintenance shall be included in the annual General Appropriations Act.\nSection 4. This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing an Experiment Station and Seed Farm in the Province of Southern Leyte, to be Known as the Southern Leyte Experiment Station and Seed Farm and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

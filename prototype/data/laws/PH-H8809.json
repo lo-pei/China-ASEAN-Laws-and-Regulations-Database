@@ -1,7 +1,7 @@
 {
  "id": "PH-H8809",
  "title": {
-  "zh": null,
+  "zh": "那牙市宪章日",
   "en": "Charter Day of the City of Naga",
   "orig": "An Act Declaring September 5 of Every Year a Special Working Public Holiday in the City of Naga Province of Cebu to be Known as the \"Charter Day of the City of Naga\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Charter Day of the City of Naga",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

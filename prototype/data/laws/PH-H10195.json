@@ -1,7 +1,7 @@
 {
  "id": "PH-H10195",
  "title": {
-  "zh": null,
+  "zh": "促进并加强对父母不明的被遗弃儿童的保护、为此修订修正刑法典第 276 条与第 277 条及特别法、承认其菲律宾天然公民身份并为其他目的法案",
   "en": "An Act Promoting the Rights of and Providing Greater Protections to Deserted or Abandoned Children with Unknown Parents, Amending for this Purpose Articles 276 aqnd 277 of the Revised Penal Code and Special Laws, Recognizing their Status as Natural-Born Citizens of the Philippines, Providing Penalties Against Acts Inimical to their Welfare, and for Other Purposes",
   "orig": "An Act Promoting the Rights of and Providing Greater Protections to Deserted or Abandoned Children with Unknown Parents, Amending for this Purpose Articles 276 aqnd 277 of the Revised Penal Code and Special Laws, Recognizing their Status as Natural-Born Citizens of the Philippines, Providing Penalties Against Acts Inimical to their Welfare, and for Other Purposes"
  },
@@ -367,5 +367,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days upon publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Promoting the Rights of and Providing Greater Protections to Deserted or Abandoned Children with Unknown Parents, Amending for this Purpose Articles 276 aqnd 277 of the Revised Penal Code and Special Laws, Recognizing their Status as Natural-Born Citizens of the Philippines, Providing Penalties Against Acts Inimical to their Welfare, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

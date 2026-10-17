@@ -1,7 +1,7 @@
 {
  "id": "SG-H339",
  "title": {
-  "zh": null,
+  "zh": "广播（网络业务守则程序）规则 2023",
   "en": "Broadcasting (Online Codes of Practice Procedure) Rules 2023",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) Except where the Authority is of the opinion that an objection or representation is of a frivolous nature, the Authority must consider every objection or representation to a proposal which has been received by it within the period specified in accordance with rule 4(3) and which has not been withdrawn.\n(2) After so considering the objections or representations to a proposal, the Authority may —\n(a)issue an online Code of Practice, with such modifications as the Authority may consider necessary;\n(b)amend or revoke an online Code of Practice, with such modifications as the Authority may consider necessary; or\n(c)withdraw the proposal in whole or in part,\nand then give a notice to the general public as soon as practicable and in any manner that will secure adequate publicity for the making of that decision."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Broadcasting (Online Codes of Practice Procedure) Rules 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

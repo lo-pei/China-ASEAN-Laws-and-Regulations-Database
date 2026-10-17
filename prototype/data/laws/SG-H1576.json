@@ -1,7 +1,7 @@
 {
  "id": "SG-H1576",
  "title": {
-  "zh": null,
+  "zh": "金融服务与市场（对朝鲜民主主义人民共和国人员的制裁与资产冻结）条例 2023",
   "en": "Financial Services and Markets (Sanctions and Freezing of Assets of Persons — Democratic People’s Republic of Korea) Regulations 2023",
   "orig": null
  },
@@ -298,5 +298,13 @@
     "en": "20.—(1) Any notice by the Authority mentioned in paragraph (b) of the definition of “designated export item” in regulation 4(1) of the revoked Regulations and which was in force immediately before 28 April 2023 is treated as a notice by the Authority under paragraph (b) of the definition of “designated export item” in regulation 4(1) of these Regulations.\n(2) Any notice by the Authority mentioned in paragraph (b) of the definition of “designated import item” in regulation 4(1) of the revoked Regulations and which was in force immediately before 28 April 2023 is treated as a notice by the Authority under paragraph (b) of the definition of “designated import item” in regulation 4(1) of these Regulations.\n(3) Any financial assets or resources, or other assets or resources, frozen under —\n(a)regulation 7(3) of the Monetary Authority of Singapore (Sanctions — Democratic People’s Republic of Korea) Regulations 2009 (G.N. No. S 367/2009); or\n(b)regulation 5(3)(b) of the revoked Regulations,\nare treated as frozen under regulation 5(3)(b) of these Regulations.\n(4) Any written notice given by the Authority under regulation 7AA(1) of the revoked Regulations and which was in force immediately before 28 April 2023 is treated as a written notice given by the Authority under regulation 9(1) of these Regulations.\n(5) Any funds, financial assets or economic resources frozen under —\n(a)regulation 5(1) of the Monetary Authority of Singapore (Freezing of Assets of Persons — Democratic People’s Republic of Korea) Regulations 2009 (G.N. No. S 258/2009); or\n(b)regulation 9(1) of the revoked Regulations,\nare treated as frozen under regulation 13(1) of these Regulations.\n(6) Any written notice given by the Authority under, or treated as given under, regulation 9(3) of the revoked Regulations and which was in force immediately before 28 April 2023 is treated as a written notice given by the Authority under regulation 13(3) of these Regulations.\n(7) Any vessel frozen under regulation 9A(1) of the revoked Regulations is treated as frozen under regulation 14(1) of these Regulations.\n(8) Any written notice given by the Authority under regulation 9A(2) of the revoked Regulations and which was in force immediately before 28 April 2023 is treated as a written notice given by the Authority under regulation 14(2) of these Regulations.\n(9) Any funds, financial assets or economic resources frozen under regulation 10(1) of the revoked Regulations is treated as frozen under regulation 15(1) of these Regulations.\n(10) Any written notice given by the Authority under regulation 10(2)(b) of the revoked Regulations and which was in force immediately before 28 April 2023 is treated as a written notice given by the Authority under regulation 15(2)(b) of these Regulations.\n(11) Any written notice given by the Authority under regulation 10(4) of the revoked Regulations and which was in force immediately before 28 April 2023 is treated as a written notice given by the Authority under regulation 15(4) of these Regulations.\n(12) Any information provided by a financial institution under regulation 12 of the revoked Regulations is treated as having been provided under regulation 18 of these Regulations, and any requirement of the Authority to provide further information under regulation 12 of the revoked Regulations is treated as a requirement of the Authority to provide further information under regulation 18 of these Regulations.\n(13) Any approval granted by the Authority under regulation 6(1), 7AA(1), 7B(1), 8(2), 8A or 10A of the revoked Regulations and which was in force immediately before 28 April 2023 is treated as an approval granted by the Authority under regulation 6(1), 9(1), 10(1), 11(2), 12 or 16, respectively, of these Regulations."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Financial Services and Markets (Sanctions and Freezing of Assets of Persons — Democratic People’s Republic of Korea) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7962",
  "title": {
-  "zh": null,
+  "zh": "2008 年普及可及廉价优质药品法",
   "en": "Universally Accessible Cheaper and Quality Medicines Act of 2008.",
   "orig": "Universally Accessible Cheaper and Quality Medicines Act of 2008. An Act Providing for Cheaper and Quality Medicines, amending for the Purpose Republic Act No. 8293 or the Intellectual Property Code, Republic Act No. 6675 or the Generics Act of 1988, and Republic Act No. 5921 or the Pharmacy Law, and for other Purposes"
  },
@@ -653,5 +653,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) national papers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Universally Accessible Cheaper and Quality Medicines Act of 2008.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

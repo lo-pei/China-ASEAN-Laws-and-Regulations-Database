@@ -1,7 +1,7 @@
 {
  "id": "PH-H4625",
  "title": {
-  "zh": null,
+  "zh": "规定土地关系法院、巡回刑事法院及少年与家事关系法院法官薪金的法案",
   "en": "An Act Fixing the Salaries of Judges of the Courts of Agrarian Relations, Circuit Criminal Courts and Juvenile and Domestic Relations Courts and for Other Purposes",
   "orig": "An Act Fixing the Salaries of Judges of the Courts of Agrarian Relations, Circuit Criminal Courts and Juvenile and Domestic Relations Courts and for Other Purposes"
  },
@@ -82,5 +82,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Fixing the Salaries of Judges of the Courts of Agrarian Relations, Circuit Criminal Courts and Juvenile and Domestic Relations Courts and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

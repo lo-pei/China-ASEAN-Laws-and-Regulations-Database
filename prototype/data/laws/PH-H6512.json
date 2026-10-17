@@ -1,7 +1,7 @@
 {
  "id": "PH-H6512",
  "title": {
-  "zh": null,
+  "zh": "将巴拉望省Roxas市镇Mendoza描笼涯PNAC Bayanihan中学从Aborlan市镇巴拉望国立农业学院分离，改设为独立的Mendoza国立农业中学的法案",
   "en": "An Act Separating the Existing Pnac Bayanihan High School in Barangay Mendoza, Municipality of Roxas, Province of Palawan, From the Palawan National Agricultural College in the Municipality of Aborlan, Province of Palawan, and Converting It Into An Independent National High School to Be Known as the Mendoza National Agricultural High School",
   "orig": "An Act Separating the Existing Pnac Bayanihan High School in Barangay Mendoza, Municipality of Roxas, Province of Palawan, From the Palawan National Agricultural College in the Municipality of Aborlan, Province of Palawan, and Converting It Into An Independent National High School to Be Known as the Mendoza National Agricultural High School"
  },
@@ -82,5 +82,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Existing Pnac Bayanihan High School in Barangay Mendoza, Municipality of Roxas, Province of Palawan, From the Palawan National Agricultural College in the Municipality of Aborlan, Province of Palawan, and Converting It Into An Independent National High School to Be Known as the Mendoza National Agricultural High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

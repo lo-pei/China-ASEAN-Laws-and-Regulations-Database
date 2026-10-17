@@ -1,7 +1,7 @@
 {
  "id": "SG-H1344",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（受管制商品与注册供应商）条例 2022",
   "en": "Environmental Protection and Management (Regulated Goods and Registered Suppliers) Regulations 2022",
   "orig": null
  },
@@ -218,5 +218,13 @@
     "en": "SECOND SCHEDULE\nRegulation 5(2)(c)\nFees\n1.Application to register the following regulated goods:\n(a)air-conditioner\n$38\n(b)chiller\n$160\n(c)refrigerator\n$38\n2.Application to renew the registration of the following regulated goods:\n(a)air-conditioner\n$20\n(b)chiller\n$160\n(c)refrigerator\n$20\nNotes:\n1. The fee in paragraph 1 is not payable on an application by a person who has —\n(a)registered the same model of regulated goods under section 13(2) of the Energy Conservation Act 2012; or\n(b)applied to register the same model of regulated goods in accordance with regulation 4 of the Energy Conservation (Regulated Goods and Registered Suppliers) Regulations 2017 (G.N. No. S 748/2017).\n2. The fee in paragraph 2 is not payable on an application by a person who has —\n(a)registered the same model of regulated goods under section 13(2) of the Energy Conservation Act 2012; or\n(b)applied to register the same model of regulated goods in accordance with regulation 4 of the Energy Conservation (Regulated Goods and Registered Suppliers) Regulations 2017."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Protection and Management (Regulated Goods and Registered Suppliers) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

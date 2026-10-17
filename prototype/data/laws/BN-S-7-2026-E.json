@@ -1,7 +1,7 @@
 {
  "id": "BN-S-7-2026-E",
  "title": {
-  "zh": null,
+  "zh": "S-7 2026 年公告",
   "en": "S-7_2026-E",
   "orig": null
  },
@@ -63,5 +63,13 @@
     "en": "The inclusion in the Laws is hereby authorised of .the pages specified in the third column of the Schedule hereto with reference to the written laws specified in the first and second columns thereof and bearing on the face or overleaf the legend specified in the fourth column thereof. .\n\nSCHEDULE (paragraph 2)\n\nINCLUSION IN LAWS Chapter Title Pages Legend 132 SUBSIDIARY LEGISLATION TABLE OF CONTENTS B.L.R.O. 3/2026 R 9 Legal Profession (Professional 1 to 4 B.L.R.O. 3/2026. Indemnity Insurance) Rules Made this 17th. day of Syaaban, 144 7 Hijriah corresponding to the 5th. day of February, 2026.\n\nDATIN SERI PADUKA HAJAH NOR HASHIMAH BINTI HAJI MUHAMMED TAIB Attorney General. Dicetak oleh Print Plus Sdn. Bhd., Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "S-7_2026-E",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7324",
  "title": {
-  "zh": null,
+  "zh": "将阿克兰省 Lezo 市镇 Carugdog 描笼涯的 Liloan 国立中学附属校分离，改设为独立的 Catalino M. Prado 国立中学，并为此拨款",
   "en": "An Act Separating the Liloan National High School - Carugdog Annex in Barangay Carugdog, Municipality of Lezo, Province of Aklan From the Liloan National High School and Converting It Into An Independent National High School to Be Known as the Catalino M. Prado National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Liloan National High School - Carugdog Annex in Barangay Carugdog, Municipality of Lezo, Province of Aklan From the Liloan National High School and Converting It Into An Independent National High School to Be Known as the Catalino M. Prado National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Liloan National High School - Carugdog Annex in Barangay Carugdog, Municipality of Lezo, Province of Aklan From the Liloan National High School and Converting It Into An Independent National High School to Be Known as the Catalino M. Prado National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

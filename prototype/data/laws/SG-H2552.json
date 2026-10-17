@@ -1,7 +1,7 @@
 {
  "id": "SG-H2552",
  "title": {
-  "zh": null,
+  "zh": "所得税（Trafigura 控股私人有限公司依第 13（12）条享有的豁免）命令 2021",
   "en": "Income Tax (Trafigura Holdings Pte Ltd — Section 13(12) Exemption) Order 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividend income received in Singapore by Trafigura Holdings Pte Ltd during and after its financial year ended 30 September 2017 from Trafigura BV (a company incorporated in the Netherlands), which is in turn derived from dividend income received by Trafigura BV from the profits of Trafigura Pte Ltd, is exempt from tax.\n(2) Dividend income received in Singapore by Trafigura Holdings Pte Ltd during and after its financial year ended 30 September 2019 from Trafigura BV, which is in turn derived from dividend income received by Trafigura BV from the profits of any of the following companies, is exempt from tax:\n(a)Puma Energy Holdings Pte Ltd;\n(b)Pan-African Soleil Holdings Pte Ltd;\n(c)Galena Asset Management (Asia) Pte Ltd;\n(d)Trafigura Overseas Projects Pte Ltd.\n(3) The exemptions under sub-paragraphs (1) and (2) are subject to the conditions specified in the letter of approval dated 20 May 2020 addressed to KPMG Services Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Trafigura Holdings Pte Ltd — Section 13(12) Exemption) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H917",
  "title": {
-  "zh": null,
+  "zh": "加强农村地区卫生与牙科服务并为此提供资金的法案",
   "en": "An Act Strengthening Health and Dental Services in the Rural Areas, and Providing Funds Therefor",
   "orig": "An Act Strengthening Health and Dental Services in the Rural Areas, and Providing Funds Therefor"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 15, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening Health and Dental Services in the Rural Areas, and Providing Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

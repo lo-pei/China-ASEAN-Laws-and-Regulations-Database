@@ -1,7 +1,7 @@
 {
  "id": "SG-H268",
  "title": {
-  "zh": null,
+  "zh": "向建屋发展局转授职能（合并）公告",
   "en": "Assignment of Functions to Housing and Development Board (Consolidation) Notification",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Housing and Development Act\n(Chapter 129, Section 17)\nAssignment of Functions to Housing and Development Board (Consolidation) Notification\nN 6\nG.N. No. S 53/2007\nREVISED EDITION 2010\n(31st May 2010)\nThe Minister for National Development hereby assigns to the Housing and Development Board the functions of —\n(a)selling sand to persons engaged in the construction industry, or to such other person as the Board considers appropriate;\n[S 53/2007 — 1.2.2007]\n(b)selling granite to persons engaged in the construction industry, or to such other person as the Board considers appropriate.\n[S 123/2007 — 23.3.2007]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Assignment of Functions to Housing and Development Board (Consolidation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

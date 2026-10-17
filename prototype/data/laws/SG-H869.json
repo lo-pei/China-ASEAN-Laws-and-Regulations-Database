@@ -1,7 +1,7 @@
 {
  "id": "SG-H869",
  "title": {
-  "zh": null,
+  "zh": "贪污、贩毒及其他严重罪行（利益没收）（第 45 条下的披露）条例 2024",
   "en": "Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) (Disclosure under Section 45) Regulations 2024",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. A disclosure made under section 45(1) of the Act must be made —\n(a)electronically by using SONAR; or\n(b)where SONAR is unavailable to the public, by submitting the disclosure —\n(i)by email to STRO@spf.gov.sg; and\n(ii)in the form specified for this purpose on the Office website."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) (Disclosure under Section 45) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

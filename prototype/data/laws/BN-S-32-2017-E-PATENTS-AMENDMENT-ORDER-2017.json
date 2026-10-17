@@ -1,0 +1,91 @@
+{
+ "id": "BN-S-32-2017-E-PATENTS-AMENDMENT-ORDER-2017",
+ "title": {
+  "zh": "专利修正命令 2017",
+  "en": "PATENTS AMENDMENT ORDER 2017",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p28",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 3,
+ "chars": 1245,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-32-2017-E-PATENTS-AMENDMENT-ORDER-2017.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-32-2017-E-PATENTS-AMENDMENT-ORDER-2017.pdf》（3 页），本次切分 3 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-32-2017-E-PATENTS-AMENDMENT-ORDER-2017-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "heading": {
+    "en": "Citation"
+   },
+   "text": {
+    "en": "This Order may be cited as the Patents (Amendment) Order, 2017. of section 36 of S 5712011"
+   }
+  },
+  {
+   "id": "BN-S-32-2017-E-PATENTS-AMENDMENT-ORDER-2017-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "Amendment of section 36 of S 571201 1"
+   },
+   "text": {
+    "en": "Section 36 of the Patents Order, 2011, in this Order referred to as the principal Order, is amended - (a/ in subsection (2) -\n\n(i) (a], by deleting \"4\" from the last line and by \"5\" therefor;\n\n(ii) by deleting \"2\" from the last line and by substituting \"3\" therefor;\n\n(b) in subsection (3) [i) (a], by deleting \"4\" from the last line and by \"5\" therefor;\n\n(ii) in paragraph (b/, by deleting \"2\" from the last line and by \"3\" therefor; (iii] in paragraph (cl -\n\n(A) in sub-paragraph (it, by deleting \"4\" and by substituting \"5\"\n\n(B) in sub-paragraph (ii), by deleting \"2\" and by substituting \"3\" (cl in subsection 5(b/, by deleting \"2\" from the last line and by substituting \"3\" therefor; (dl in subsection 6(b/, by deleting \"2\" from the last line and by substituting \"3\" therefor. Amendment of section 77"
+   }
+  },
+  {
+   "id": "BN-S-32-2017-E-PATENTS-AMENDMENT-ORDER-2017-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE"
+   },
+   "text": {
+    "en": "Section 77 of the principal Order is amended, in subsection l(fl(ii), by inserting \"or inequitable conduct\" immediately after \"misrepresentation\" Made this 13th. day of Rejab, 1438 Hijriah corresponding to the 10th. day of April, 2017 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "PATENTS AMENDMENT ORDER 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

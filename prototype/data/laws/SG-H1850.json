@@ -1,7 +1,7 @@
 {
  "id": "SG-H1850",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）命令 2024",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2024",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by New Upper Changi Road, Chai Chee Road and Chai Chee Avenue, comprised in Lot number 07242M in Mukim 27 and on which Apartment Blocks 25, 26 and 27 are erected, in Lot number 07758L in Mukim 27 and on which Apartment Blocks 29 and 29A are erected, and in Lot number 07237L in Mukim 27 and on which Apartment Blocks 803, 804 and 805 are erected, which blocks are marked with a grey dot in Plan 1.\nPLAN 1\nCHAI CHEE ROAD / CHAI CHEE AVENUE\n2. All that part of the housing estate of the Board bounded by St. George’s Lane and St. George’s Road, comprised in Lot number 07339A in Mukim 17 and on which Apartment Blocks 4B and 4C are erected, which blocks are marked with a grey dot in Plan 2.\nPLAN 2\nST. GEORGE’S LANE"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

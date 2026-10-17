@@ -1,7 +1,7 @@
 {
  "id": "PH-H7278",
  "title": {
-  "zh": null,
+  "zh": "将东达沃分区工程办公室升格为名为东达沃第一工程区的正规区工程办公室并为其拨款",
   "en": "An Act Upgrading the Davao Oriental Sub-District Engineering Office Into a Regular District Engineering Office to Be Known as the Davao Oriental First Engineering District and Appropriating Funds Therefor",
   "orig": "An Act Upgrading the Davao Oriental Sub-District Engineering Office Into a Regular District Engineering Office to Be Known as the Davao Oriental First Engineering District and Appropriating Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 16, 2000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading the Davao Oriental Sub-District Engineering Office Into a Regular District Engineering Office to Be Known as the Davao Oriental First Engineering District and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

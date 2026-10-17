@@ -1,7 +1,7 @@
 {
  "id": "PH-H10352",
  "title": {
-  "zh": null,
+  "zh": "设立 Maharlika 投资基金，规定该基金收益的管理、投资与使用，并为其他目的法案",
   "en": "An Act Establishing The Maharlika Investment Fund, Providing for the Management, Investment, and Use of the Proceeds of the Fund, and for Other Purposes",
   "orig": "An Act Establishing The Maharlika Investment Fund, Providing for the Management, Investment, and Use of the Proceeds of the Fund, and for Other Purposes"
  },
@@ -620,5 +620,13 @@
     "en": "Effectivity . - This Act shall take effect immediately upon its publication in the Official Gazette or in a newspaper of general circulation in the Philippines.\nAfter effectivity, this Act shall also be promulgated in Filipino."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing The Maharlika Investment Fund, Providing for the Management, Investment, and Use of the Proceeds of the Fund, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

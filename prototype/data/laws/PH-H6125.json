@@ -1,7 +1,7 @@
 {
  "id": "PH-H6125",
  "title": {
-  "zh": null,
+  "zh": "授权国内税收局长要求按月缴纳增值税，并允许地方政府单位分享增值税收入，为此修订《国家国内税收法典》若干条款的法案",
   "en": "An Act to Empower the Commissioner of Internal Revenue to Require the Payment of the Value-Added Tax Every Month and to Allow Local Government Units to Share in VAT Revenue, Amending for this Purpose Certain Sections of the National Internal Revenue Code",
   "orig": "An Act to Empower the Commissioner of Internal Revenue to Require the Payment of the Value-Added Tax Every Month and to Allow Local Government Units to Share in VAT Revenue, Amending for this Purpose Certain Sections of the National Internal Revenue Code"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect after fifteen (15) days following its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Empower the Commissioner of Internal Revenue to Require the Payment of the Value-Added Tax Every Month and to Allow Local Government Units to Share in VAT Revenue, Amending for this Purpose Certain Sections of the National Internal Revenue Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2038",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 2 号）命令 2012",
   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2012",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7.—(1) Hutchison Port Holdings Management Pte. Limited (as the trustee-manager of Hutchinson Port Holdings Trust) is hereby granted exemption from tax on the dividends received in Singapore on or after 25th February 2011 from HPHT Limited located in Hong Kong.\n(2) The exemption under sub-paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 9th February 2011 addressed to the tax agent of Hutchison Port Holdings Management Pte. Limited (as the trustee-manager of Hutchison Port Holdings Trust)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9719",
  "title": {
-  "zh": null,
+  "zh": "将卡洛奥坎市 Dr. Jose N. Rodriguez 纪念医院与疗养院三级护理床位由两百（200）张增至八百（800）张并重新分配核定床位，为此修订第 9420 号共和国法",
   "en": "An Act Increasing the Bed Capacity for Tertiary General Health Care Services of the Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium in Tala, Caloocan City from Two Hundred (200) to Eight Hundred (800) Beds, Reapportioning the Authorized Two Thousand (2,000) Bed Capacity of the Hospital, Amending for the Purpose Republic Act No. 9420, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity for Tertiary General Health Care Services of the Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium in Tala, Caloocan City from Two Hundred (200) to Eight Hundred (800) Beds, Reapportioning the Authorized Two Thousand (2,000) Bed Capacity of the Hospital, Amending for the Purpose Republic Act No. 9420, and Appropriating Funds Therefor"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity for Tertiary General Health Care Services of the Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium in Tala, Caloocan City from Two Hundred (200) to Eight Hundred (800) Beds, Reapportioning the Authorized Two Thousand (2,000) Bed Capacity of the Hospital, Amending for the Purpose Republic Act No. 9420, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

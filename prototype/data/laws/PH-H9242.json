@@ -1,7 +1,7 @@
 {
  "id": "PH-H9242",
  "title": {
-  "zh": null,
+  "zh": "将依第 7395 号共和国法授予 Mabuhay 广播系统公司的特许经营权再续展二十五年并扩大为覆盖全菲律宾的广播与电视业务",
   "en": "An Act Renewing for Another Twenty-Five (25) Years and Expanding to Radio/television Broadcasting, National in Scope, Throughout the Philippines, the Franchise Granted to Mabuhay Broadcasting System, Inc. Under Republic Act No. 7395, Entitled \"An Act Granting the Mabuhay Broadcasting System, Inc., a Franchise to Construct, Install, Operate and Maintain Radio Broadcasting Stations in the Island of Luzon and for Other Purposes\"",
   "orig": "An Act Renewing for Another Twenty-Five (25) Years and Expanding to Radio/television Broadcasting, National in Scope, Throughout the Philippines, the Franchise Granted to Mabuhay Broadcasting System, Inc. Under Republic Act No. 7395, Entitled \"An Act Granting the Mabuhay Broadcasting System, Inc., a Franchise to Construct, Install, Operate and Maintain Radio Broadcasting Stations in the Island of Luzon and for Other Purposes\""
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing for Another Twenty-Five (25) Years and Expanding to Radio/television Broadcasting, National in Scope, Throughout the Philippines, the Franchise Granted to Mabuhay Broadcasting System, Inc. Under Republic Act No. 7395, Entitled \"An Act Granting the Mabuhay Broadcasting System, Inc., a Franchise to Construct, Install, Operate and Maintain Radio Broadcasting Stations in the Island of Luzon and for Other Purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

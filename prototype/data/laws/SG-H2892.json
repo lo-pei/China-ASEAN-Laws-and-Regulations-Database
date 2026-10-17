@@ -1,7 +1,7 @@
 {
  "id": "SG-H2892",
  "title": {
-  "zh": null,
+  "zh": "解释（人力部长授权）命令 2024",
   "en": "Interpretation (Delegations by Minister for Manpower) Order 2024",
   "orig": null
  },
@@ -110,5 +110,13 @@
     "en": "SECOND SCHEDULE\nParagraph 4\nDelegations to other persons\nFirst column\nSecond column\nThird column\nFourth column\nProvision\nDescription*\nDelegate\nCondition\n1.Employment Act 1968\n(1)Section 3(1)\nAppointment of Commissioner for Labour and other officers\nMOM Permanent Secretary\nOnly in respect of appointing a Deputy Commissioner for Labour, a Principal Assistant Commissioner for Labour and an Assistant Commissioner for Labour\n(2)Section 3(2)\nAppointment of authorised officers, inspecting officers and other officers\nDeputy Commissioner for Labour\nOnly in respect of appointing such number of authorised officers and inspecting officers that the delegate may consider necessary or expedient for the purposes of that Act\n2.Employment Agencies Act 1958\n(1)Section 3(1) and (2)\nAppointment of Commissioner for Employment Agencies and other officers\nMOM Permanent Secretary\nNil\n(2)Section 3(4)\nAppointment of employment agency inspectors and employment agency licensing officers\nCommissioner for Employment Agencies\nNil\n3.Employment of Foreign Manpower Act 1990\n(1)Section 3(1)(b)\nAppointment of Deputy Controllers of Work Passes and Assistant Controllers of Work Passes\nMOM Permanent Secretary\nNil\n(2)Section 3(3)\nAppointment of employment inspectors\n(a)Controller of Work Passes\n(b)Any Deputy Controller of Work Passes\nNil\n4.Foreign Employee Dormitories Act 2015\n(1)Section 6(1) and (2)\nAppointment of Commissioner for Foreign Employee Dormitories and other officers\nMOM Permanent Secretary\nNil\n5.Industrial Relations Act 1960\n(1)Section 28(1)\nAppointment of conciliation officers and industrial relations officers\nDeputy Commissioner for Labour\nNil\n5A.Platform Workers Act 2024\n(1)Section 20(1)(b)\nAppointment of Assistant Registrars of Platform Work Associations\nDeputy Commissioner for Labour\nNil\n6.Retirement and Re‑employment Act 1993\n(1)Section 3(3)\nAppointment of investigating officers and other officers\nDeputy Commissioner for Labour\nOnly in respect of appointing investigating officers\n7.Trade Unions Act 1940\n(1)Section 4\nAppointment of Assistant Registrars of Trade Unions and other officers\nDeputy Commissioner for Labour\nNil\n8.Workplace Safety and Health Act 2006\n(1)Section 7(1)\nAppointment of Commissioner for Workplace Safety and Health and other officers\nMOM Permanent Secretary\nNil\n[S 844/2024 wef 01/11/2024]\n*Note: The descriptions in the second column are for ease of reference only."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Interpretation (Delegations by Minister for Manpower) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

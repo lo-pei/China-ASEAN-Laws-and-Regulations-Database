@@ -1,7 +1,7 @@
 {
  "id": "PH-H9090",
  "title": {
-  "zh": null,
+  "zh": "将菲律宾国家铁路公司的公司存续期再延长五十年，并进一步修订第4156号共和国法（经修正，即《设立菲律宾国家铁路公司、规定其权力、职能与职责并为其运营提供必要资金》）的法案",
   "en": "An Act Extending the Corporate Life of the Philippine National Railways for Another Fifty (50) Years, Further Amending for the Purpose Republic Act No. 4156, as Amended, Entitled \"An Act Creating the Philippine National Railways, Prescribing Its Powers, Functions and Duties, and Providing for the Necessary Funds for Its Operation\"",
   "orig": "An Act Extending the Corporate Life of the Philippine National Railways for Another Fifty (50) Years, Further Amending for the Purpose Republic Act No. 4156, as Amended, Entitled \"An Act Creating the Philippine National Railways, Prescribing Its Powers, Functions and Duties, and Providing for the Necessary Funds for Its Operation\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect immediately following its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Corporate Life of the Philippine National Railways for Another Fifty (50) Years, Further Amending for the Purpose Republic Act No. 4156, as Amended, Entitled \"An Act Creating the Philippine National Railways, Prescribing Its Powers, Functions and Duties, and Providing for the Necessary Funds for Its Operation\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H942",
  "title": {
-  "zh": null,
+  "zh": "刑事程序法典（强制治疗令规定罪行）条例 2018",
   "en": "Criminal Procedure Code (Prescribed Offences for Mandatory Treatment Orders) Regulations 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 337(2)(c) of the Code, the following are prescribed offences:\n(a)an offence under section 14A(2) of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) read with section 14A(3)(b) of that Act;\n(b)an offence under section 117, 281, 295, 317, 379A, 380, 381, 428, 494 (as in force before 1 January 2020) or 496 (as in force before 1 January 2020) of the Penal Code (Cap. 224);\n[S 853/2019 wef 01/01/2020]\n(c)an offence under section 304A of the Penal Code committed by doing a rash act;\n(d)an offence under section 312 of the Penal Code, where the woman’s pregnancy is of more than 16 weeks’ duration as mentioned in that section;\n[S 853/2019 wef 01/01/2020]\n(e)an offence under section 6A(b) or 6C of the Women’s Charter (Cap. 353).\n[S 853/2019 wef 01/01/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure Code (Prescribed Offences for Mandatory Treatment Orders) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

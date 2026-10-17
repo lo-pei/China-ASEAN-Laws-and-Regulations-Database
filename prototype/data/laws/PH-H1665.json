@@ -1,7 +1,7 @@
 {
  "id": "PH-H1665",
  "title": {
-  "zh": null,
+  "zh": "规定菲律宾武装部队士兵新的薪金与津贴标准，并废止第 315 号共和国法及经修正的联邦法第 1 号第 89 条与第 91 条的法案",
   "en": "An Act to Provide New Rates of Pay and Allowances for Enlisted Men of the Armed Forces of the Philippines and to Repeal Republic Act Numbered Three Hundred and Fifteen and Sections Eighty-Nine and Ninety-One of Commonwealth Act Numbered One, as Amended",
   "orig": "An Act to Provide New Rates of Pay and Allowances for Enlisted Men of the Armed Forces of the Philippines and to Repeal Republic Act Numbered Three Hundred and Fifteen and Sections Eighty-Nine and Ninety-One of Commonwealth Act Numbered One, as Amended"
  },
@@ -260,5 +260,13 @@
     "en": "Date of effectivity.—This Act shall take effect on July one, nineteen hundred fifty-seven and has no retroactive effect.\nApproved, June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide New Rates of Pay and Allowances for Enlisted Men of the Armed Forces of the Philippines and to Repeal Republic Act Numbered Three Hundred and Fifteen and Sections Eighty-Nine and Ninety-One of Commonwealth Act Numbered One, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

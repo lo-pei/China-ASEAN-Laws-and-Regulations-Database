@@ -1,7 +1,7 @@
 {
  "id": "SG-H481",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（入场税变更）命令 2024",
   "en": "Casino Control (Variation of Entry Levies) Order 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The entry levies specified in section 116(1) of the Act are replaced, for the period starting on 8 May 2024 and ending on 29 October 2024, as follows:\n(a)the entry levy under section 116(1)(a) of the Act is $150 for every consecutive period of 24 hours;\n(b)the entry levy under section 116(1)(b) of the Act is $3,000 for an annual membership of the casino.\n[S 828/2024 wef 29/10/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Casino Control (Variation of Entry Levies) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

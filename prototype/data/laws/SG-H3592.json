@@ -1,7 +1,7 @@
 {
  "id": "SG-H3592",
  "title": {
-  "zh": null,
+  "zh": "防止网络虚假信息与操纵法 2019",
   "en": "Protection from Online Falsehoods and Manipulation Act 2019",
   "orig": null
  },
@@ -954,5 +954,13 @@
     "en": "THE SCHEDULE\nSection 56\nApplicable provisions of\nCriminal Procedure Code 2010\n1. Section 6\n2. Part 4 (other than sections 14 to 17)\n3. Section 78(2)\n4. Section 81\n5. Section 83\n6. Sections 111, 112 and 113\n7. Part 19"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Protection from Online Falsehoods and Manipulation Act 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

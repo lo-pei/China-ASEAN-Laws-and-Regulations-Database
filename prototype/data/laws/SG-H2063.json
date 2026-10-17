@@ -1,7 +1,7 @@
 {
  "id": "SG-H2063",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 4 号）命令 2011",
   "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Fu Yu Investment Pte Ltd is hereby granted exemption from tax on the dividends received in Singapore on 16th May 2007, 8th June 2007, 11th September 2007 and 13th December 2007 from LCTH Corporation Berhad located in Malaysia, being a company in which Fu Yu Investment Pte Ltd owns 70.64% of the total number of issued ordinary shares.\n(2) The exemption under sub-paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 21st November 2011 addressed to Fu Yu Investment Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

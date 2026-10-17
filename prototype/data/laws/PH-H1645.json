@@ -1,7 +1,7 @@
 {
  "id": "PH-H1645",
  "title": {
-  "zh": null,
+  "zh": "修订第1200号共和国法第二编“Al. Nueva Vizcaya”目下第（21）项的法案",
   "en": "An Act Amending Item (21), Under “Al. Nueva Vizcaya,” Section Two of Republic Act Numbered Twelve Hundred",
   "orig": "An Act Amending Item (21), Under “Al. Nueva Vizcaya,” Section Two of Republic Act Numbered Twelve Hundred"
  },
@@ -50,5 +50,13 @@
     "en": "Item (21), under \"al. Nueva Vizcaya,\" section two of Republic Act Numbered Twelve hundred, is amended to read as follows:\n\"(21) Construction and improvement of:\n(a) La Torre Elementary School Home Economics Building, Bayombong ₱10,000.00\n(b) Malasin Elementary School Home Economics Building, Dupax 10,000.00\"\nSection 2 . This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Item (21), Under “Al. Nueva Vizcaya,” Section Two of Republic Act Numbered Twelve Hundred",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

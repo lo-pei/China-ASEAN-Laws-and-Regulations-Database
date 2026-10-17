@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-214-2022-UNIVERSITI-TEKNOLOGI-BRUNEI-ACT",
  "title": {
-  "zh": null,
+  "zh": "文莱理工大学法",
   "en": "UNIVERSITI TEKNOLOGI BRUNEI ACT",
   "orig": null
  },
@@ -779,5 +779,13 @@
     "en": "Disputes as to elections to be determined by Chancellor (section 2)\n\nCONSTITUTION OF UNIVERSITI TEKNOLOGI BRUNEI Citation and objective"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "UNIVERSITI TEKNOLOGI BRUNEI ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

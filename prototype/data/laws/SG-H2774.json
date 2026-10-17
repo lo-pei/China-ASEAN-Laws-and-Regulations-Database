@@ -1,7 +1,7 @@
 {
  "id": "SG-H2774",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（第 412(1)(d) 条豁免）命令 2026",
   "en": "Insolvency, Restructuring and Dissolution (Exemption from Section 412(1)(d)) Order 2026",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The following classes of persons are exempt from section 412(1)(d) of the Act:\n(a)any special employee who receives money, casino chips, or other consideration, from a patron, or from a person acting on behalf of a patron, for the purpose of depositing the money, casino chips, or other consideration, into a patron account to engage in gambling in a casino;\n[S 656/2026 wef 21/09/2026]\n(b)any employee of Singapore Pools (Private) Limited who receives money from a customer, or from a person acting on behalf of a customer, for the purpose of depositing the money into an account with Singapore Pools (Private) Limited to engage in general remote gambling;\n(c)any employee of a gaming machine licensee who receives money from a customer, or from a person acting on behalf of a customer, as advance payment for the use of gaming machines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insolvency, Restructuring and Dissolution (Exemption from Section 412(1)(d)) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

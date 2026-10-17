@@ -1,7 +1,7 @@
 {
  "id": "SG-H2818",
  "title": {
-  "zh": null,
+  "zh": "保险（特殊目的再保险工具一般规定与豁免）条例 2018",
   "en": "Insurance (General Provisions and Exemptions for Special Purpose Reinsurance Vehicles) Regulations 2018",
   "orig": null
  },
@@ -166,5 +166,13 @@
     "en": "8. Despite regulation 7, an SPRV must comply with the 2008 Regulations as in force immediately before 1 January 2019, read with the Insurance (Accounts and Statements) Regulations 2004 (G.N. No. S 494/2004) as in force immediately before 1 January 2019, in respect of statements of accounts and other statements, reports and other documents that are required to be lodged by the SPRV with the Authority under the 2008 Regulations, for —\n(a)the accounting period beginning on or after 1 January 2018 and ending on 31 December 2018; and\n(b)the financial year of the SPRV beginning on any day between 1 January 2018 and 31 December 2018 (both dates inclusive)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insurance (General Provisions and Exemptions for Special Purpose Reinsurance Vehicles) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

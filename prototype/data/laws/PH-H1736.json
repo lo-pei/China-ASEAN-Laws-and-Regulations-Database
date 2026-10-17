@@ -1,7 +1,7 @@
 {
  "id": "PH-H1736",
  "title": {
-  "zh": null,
+  "zh": "修订第1162号共和国法，将奎松市及其郊区纳入其适用范围的法案",
   "en": "An Act Amending Republic Act Numbered Eleven Hundred Sixty-Two so as to Include Quezon City and its Suburbs Within its Purview",
   "orig": "An Act Amending Republic Act Numbered Eleven Hundred Sixty-Two so as to Include Quezon City and its Suburbs Within its Purview"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Eleven Hundred Sixty-Two so as to Include Quezon City and its Suburbs Within its Purview",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

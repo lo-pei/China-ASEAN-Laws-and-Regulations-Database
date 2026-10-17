@@ -1,7 +1,7 @@
 {
  "id": "SG-H2339",
  "title": {
-  "zh": null,
+  "zh": "所得税（新加坡与中国）（避免双重征税协定）命令 2009",
   "en": "Income Tax (Singapore — China) (Avoidance of Double Taxation Agreement) Order 2009",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nTHE Second Protocol to the Agreement\nBetween\nthe Government of the Republic of Singapore\nand\nthe Government of the People’s Republic of China\nfor the Avoidance of Double Taxation\nand\nthe Prevention of Fiscal Evasion\nWith Respect to Taxes on Income\nThe Government of the Republic of Singapore and the Government of the People’s Republic of China,\nHaving regard to the Agreement between the Government of the Republic of Singapore and the Government of the People’s Republic of China for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income, signed at Singapore on 11th day of July 2007 (hereinafter referred to as “the Agreement”),\nHave agreed that the following provisions shall form an integral part of the Agreement:\nArticle 1\nWith respect to Article 5 of the Agreement:\nIn respect of paragraph 3(b), the term “6 months” shall be deleted and replaced by “183 days”.\nArticle 2\nWith respect to Article 11 of the Agreement:\n1. Paragraph 3 shall be deleted and replaced by the following:\n“3. Notwithstanding the provisions of paragraph 2, interest derived from a Contracting State is exempt from tax in that State, if the beneficial owner is:\n(a) in the case of China:\n(i) the Government of the People’s Republic of China and any local authority thereof;\n(ii) the People’s Bank of China;\n(iii) the China Development Bank;\n(iv) the Agricultural Development Bank of China;\n(v) the Export-Import Bank of China;\n(vi) the National Council for Social Security Fund;\n(vii) the China Export & Credit Insurance Corporation; and\n(viii) any institution wholly owned by the Government of China as may be agreed from time to time between the competent authorities of the Contracting States;\nprovided that in the case of paragraph 3(a)(ii) to (vii), the entity or fund is wholly owned by the Chinese Government and not conducting commercial activities.\n(b) in the case of Singapore:\n(i) the Government of the Republic of Singapore;\n(ii) the Monetary Authority of Singapore;\n(iii) the Government of Singapore Investment Corporation Pte Ltd;\n(iv) a statutory body; and\n(v) any institution wholly owned by the Government of Singapore as may be agreed from time to time between the competent authorities of the Contracting States;\nprovided that in the case of paragraph 3(b)(ii) to (iv), the entity is a body constituted by an Act of Parliament in Singapore or wholly owned by the Government of Singapore, not conducting commercial activities.”\n2. Interest derived from a Contracting State before 1st January 2011 from any loan arrangement signed before 18th September 2007 is exempt from tax in that State if the beneficial owner is:\n(a) in the case of China:\n(i) the China International Trust and Investment Corporation; and\n(ii) the head office of the Bank of China.\n(b) in the case of Singapore:\n(i) the head office of the Development Bank of Singapore.\nArticle 3\nWith respect to Article 22 of the Agreement:\nIn respect of the provisions of paragraph 1(b), the term “10 per cent” shall be deleted and replaced by “20 per cent”.\nArticle 4\nThe Contracting States shall notify each other through diplomatic channels that the procedures required by its laws for the entry into force of this Second Protocol have been complied with. This Second Protocol shall enter into force on the date of the receipt of the later notification.\nIN WITNESS WHEREOF the undersigned, duly authorized thereto, have signed this Protocol.\nDONE at Singapore on this 24th day of August 2009 in duplicate, in the English and Chinese languages, both texts being equally authentic.\nFor the Government of\nthe Republic of Singapore\nFor the Government of\nthe People’s Republic of China\nMOSES LEE\nWANG LI\nCommissioner of Inland Revenue.\nDeputy Commissioner of\nState Administration of Taxation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Singapore — China) (Avoidance of Double Taxation Agreement) Order 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

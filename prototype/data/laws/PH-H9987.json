@@ -1,7 +1,7 @@
 {
  "id": "PH-H9987",
  "title": {
-  "zh": null,
+  "zh": "在曼达卢永市 Mauway 描笼涯设立三百（300）张床位的三级培训与综合医院，名为 Neptali a Gonzales 参议长综合医院并为其拨款的法案",
   "en": "An Act Establishing a Three Hundred (300)-Bed Capacity Tertiary Training and General Hospital in Barangay Mauway, City of Mandaluyong to Be Known as the Senate President Neptali a Gonzales General Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Establishing a Three Hundred (300)-Bed Capacity Tertiary Training and General Hospital in Barangay Mauway, City of Mandaluyong to Be Known as the Senate President Neptali a Gonzales General Hospital, and Appropriating Funds Therefor"
  },
@@ -111,5 +111,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Three Hundred (300)-Bed Capacity Tertiary Training and General Hospital in Barangay Mauway, City of Mandaluyong to Be Known as the Senate President Neptali a Gonzales General Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

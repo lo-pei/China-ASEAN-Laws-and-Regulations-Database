@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-35-1999-DESCRIPTION-OF-PROOF-COINS-20TH-SEA-GAMES-L-3E0795",
+ "title": {
+  "zh": "第 20 届东南亚运动会标志 2、20 与 200 精制币说明",
+  "en": "DESCRIPTION OF PROOF COINS 20TH SEA GAMES LOGO 2 20 AND 200 1",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p28",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 894,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-35-1999-DESCRIPTION-OF-PROOF-COINS-20TH-SEA-GAMES-LOGO-2-20-AND-200-1.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-35-1999-DESCRIPTION-OF-PROOF-COINS-20TH-SEA-GAMES-LOGO-2-20-AND-200-1.pdf》（1 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-35-1999-DESCRIPTION-OF-PROOF-COINS-20TH-SEA-GAMES-L-3E0795-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "...... (.0) ~ ...... t8 1.0 it is hereby notified for general information that the denominations to be issued by the Brunei Currency Hassanal Bolkiah National Stadium The 20th Sea Games Logo MUNAP\n\nREVERSE\n\nHAJI SELAMA T BIN HAJI OF \" \"\n\nDESIGN Brunei Currency Board. for Chairman, 1999} Gold Proof Coins, Silver Proof Coins and Cupro:nickel Coins ( These coins have a common obverse showing the portrait of His Majesty Sultan Haji Hassanal Bolkiah Mu'izzaddin Waddaulah, Yang Di-Pertuan of Brunei ANG AW 32)\n\nOBVERSE DATO SERI PADUKA (CHAPTER\n\nCOINS 12) OF , II ACT (Section DESIGN\n\nPROOF 32),\n\nCURRENCY of the Currency Act (Chapter and Darussalam. hereunder-Sultan DIAMETER 32.97mm SO.Omm 27.3mm Board on 7th. August, 1999 are as shown WEIGHT 3l.lgm 62.2 gm 9.3gm 12(2) Pursuant to Section the characteristics of COMPOSITION 999.9Gold Cupro-nickel 999 Silver 35 DENO $200 $20 S and $2 No. ~ w"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DESCRIPTION OF PROOF COINS 20TH SEA GAMES LOGO 2 20 AND 200 1",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

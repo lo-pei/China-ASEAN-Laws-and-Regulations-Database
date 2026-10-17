@@ -1,7 +1,7 @@
 {
  "id": "PH-H5219",
  "title": {
-  "zh": null,
+  "zh": "宣布4月25日为阿克兰省特别非工作假日的法案",
   "en": "An Act Declaring April Twenty-Five a Special Non-Working Holiday in the Province of Aklan",
   "orig": "An Act Declaring April Twenty-Five a Special Non-Working Holiday in the Province of Aklan"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring April Twenty-Five a Special Non-Working Holiday in the Province of Aklan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

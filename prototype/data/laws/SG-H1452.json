@@ -1,7 +1,7 @@
 {
  "id": "SG-H1452",
  "title": {
-  "zh": null,
+  "zh": "第 97 条下的豁免命令",
   "en": "Exemption Order under Section 97",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Co-operative Societies Act\n(Chapter 62)\nExemption Order under Section 97\nIn exercise of the powers conferred by section 97 of the Co-operative Societies Act, the Minister for Community Development, Youth and Sports hereby exempts the St. Andrew’s Junior College Co-operative Society Limited from section 89(3) of the Act so as to enable the following to be donated to the St. Andrew’s Junior College’s Student Assistance Fund, instead of being transferred to the Co-operative Societies Liquidation Account:\n(a)any moneys remaining after the application of its funds to the purposes specified in section 88 of the Act; and\n(b)any sums unclaimed after 2 years from the date of cancellation of its registration."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Exemption Order under Section 97",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

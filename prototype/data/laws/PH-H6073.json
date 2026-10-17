@@ -1,7 +1,7 @@
 {
  "id": "PH-H6073",
  "title": {
-  "zh": null,
+  "zh": "将南甘马粦省Sipocot市镇Sipocot区医院床位由25张增至50张并为此拨款的法案",
   "en": "An Act Incresing the Bed Capacity of the Sipocot District Hospital in the Municipality of Sipocot, Province of Camarines Sur, From Twenty-five (25) To Fifty (50) Beds, and Appropriating Funds Therefor",
   "orig": "An Act Incresing the Bed Capacity of the Sipocot District Hospital in the Municipality of Sipocot, Province of Camarines Sur, From Twenty-five (25) To Fifty (50) Beds, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 1, 1992"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Incresing the Bed Capacity of the Sipocot District Hospital in the Municipality of Sipocot, Province of Camarines Sur, From Twenty-five (25) To Fifty (50) Beds, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

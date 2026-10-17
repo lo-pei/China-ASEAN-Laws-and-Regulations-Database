@@ -1,7 +1,7 @@
 {
  "id": "SG-H2486",
  "title": {
-  "zh": null,
+  "zh": "所得税（新加坡——瑞典）（避免双重征税公约）（补充）命令 1976",
   "en": "Income Tax (Singapore — Sweden) (Avoidance of Double Taxation Convention) (Supplementary) Order 1976",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nSir,\nIn pursuance of paragraphs 5 and 6 of Article XIX of the Convention between the Government of the Kingdom of Sweden and the Government of the Republic of Singapore for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and capital, signed in Singapore on 17th June 1968, I have the honour to propose that —\n(a)the provisions of paragraph 5 of Article XIX shall apply for a further period of five years following the expiry of the ten year period as provided in the abovementioned paragraph 5;\n(b)where royalties as defined in paragraph 2 of Article IX are derived by a resident of Sweden from sources within Singapore, 50 per cent of the amount of such royalties shall be exempt from Swedish tax for a further period of five years following the expiry of the second five year period as provided in the abovementioned paragraph 6; and\n(c)the competent authorities shall consult each other in order to determine whether the periods in sub-paragraphs (a) and (b) above shall be further extended.\nIn the event of these proposals being acceptable to you, this Note together with your Note accepting the proposals shall constitute an agreement between the competent authorities of the Government of the Kingdom of Sweden and the Government of the Republic of Singapore for the purposes of paragraphs 5 and 6 of Article XIX.\nI avail myself of this opportunity, Sir, to renew to you the assurance of my highest consideration.\nDated at Singapore this 5th day of November 1976.\nKURT MALMGREN,\nHead of Legal Affairs,\nMinistry of Finance,\nKingdom of Sweden.\nWAN FOOK HOY,\nComptroller of Income Tax,\nRepublic of Singapore.\nSir,\nI have the honour to acknowledge receipt of your Note of today’s date which reads as follows:\n“In pursuance of paragraphs 5 and 6 of Article XIX of the Convention between the Government of the Kingdom of Sweden and the Government of the Republic of Singapore for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and capital, signed in Singapore on 17th June 1968, I have the honour to propose that —\n(a)the provisions of paragraph 5 of Article XIX shall apply for a further period of five years following the expiry of the ten year period as provided in the abovementioned paragraph 5;\n(b)where royalties as defined in paragraph 2 of Article IX are derived by a resident of Sweden from sources within Singapore, 50 per cent of the amount of such royalties shall be exempt from Swedish tax for a further period of five years following the expiry of the second five year period as provided in the abovementioned paragraph 6; and\n(c)the competent authorities shall consult each other in order to determine whether the periods in sub-paragraphs (a) and (b) above shall be further extended.\nIn the event of these proposals being acceptable to you, this Note together with your Note accepting the proposals shall constitute an agreement between the competent authorities of the Government of the Kingdom of Sweden and the Government of the Republic of Singapore for the purposes of paragraphs 5 and 6 of Article XIX.”.\nI have the honour to inform you that the foregoing proposals are acceptable to me and that your Note of today’s date and this Note, shall together constitute an agreement between the competent authorities of the Government of the Republic of Singapore and the Government of the Kingdom of Sweden for the purposes of paragraphs 5 and 6 of Article XIX.\nI avail myself of this opportunity, Sir, to renew to you the assurance of my highest consideration.\nDated at Singapore this 5th day of November 1976.\nWAN FOOK HOY,\nComptroller of Income Tax,\nRepublic of Singapore.\nKURT MALMGREN,\nHead of Legal Affairs,\nMinistry of Finance,\nKingdom of Sweden."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Singapore — Sweden) (Avoidance of Double Taxation Convention) (Supplementary) Order 1976",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

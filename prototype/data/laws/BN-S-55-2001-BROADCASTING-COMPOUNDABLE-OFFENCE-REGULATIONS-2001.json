@@ -1,7 +1,7 @@
 {
  "id": "BN-S-55-2001-BROADCASTING-COMPOUNDABLE-OFFENCE-REGULATIONS-2001",
  "title": {
-  "zh": null,
+  "zh": "广播可和解罪行条例 2001",
   "en": "BROADCASTING COMPOUNDABLE OFFENCE REGULATIONS 2001",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "The contravention or failure to comply with subsection (1) of section 23 of the Act being an offence punishable under section 41 of the Act, in so far as it relates to broadcasting apparatus which is a TVRO system as defined in the Broadcasting (TVRO System) Regulations, 2000 (S 2/2001) and so far as no exemption has been granted in respect thereof by the Minister under subsection (4) of section 23 of the Act, is hereby prescribed as an offence which may be compounded by the Minister under subsection ( 1) of section 50 of the Act. Made this 3rd. day of Jamadilawal, 1422 Hijriah corresponding to the 24th. day of July, 2001. PEHIN ORANG KAYA LAlLA SETIA BAKTI DIRAJA DATO LAlLA UTAMA HAJI AWANG ISA BIN PEHIN DATU PERDANA MANTER! DATO LAlLA UTAMA HAJI IBRAHIM Minister responsible for broadcasting matters, Prime Minister's Office, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BROADCASTING COMPOUNDABLE OFFENCE REGULATIONS 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-77-R-4-2022-RELIGIOUS-COUNCIL-AND-KADIS-COURTS-NA-18D61F",
  "title": {
-  "zh": null,
+  "zh": "R 4 2022 宗教理事会与卡迪法庭清真寺命名规则",
   "en": "R 4 2022 RELIGIOUS COUNCIL AND KADIS COURTS NAMING OF MOSQUES RULES",
   "orig": null
  },
@@ -138,5 +138,13 @@
     "en": "Every application to name a mosque for consideration, whether or not it is recommended, shall be submitted to His Majesty the Sultan and Yang Di-Pertuan."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 4 2022 RELIGIOUS COUNCIL AND KADIS COURTS NAMING OF MOSQUES RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

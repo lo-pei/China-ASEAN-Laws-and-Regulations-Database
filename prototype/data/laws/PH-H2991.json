@@ -1,7 +1,7 @@
 {
  "id": "PH-H2991",
  "title": {
-  "zh": null,
+  "zh": "授权拨款5万比索为阿克兰省New Washington市镇的New Washington国立渔业学校建造附加校舍，包括为此购置场地",
   "en": "An Act Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Construction of an Additional Building for the New Washington National School of Fisheries in the Municipality of New Washington, Province of Aklan, Including the Purchase of a Site Therefor",
   "orig": "An Act Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Construction of an Additional Building for the New Washington National School of Fisheries in the Municipality of New Washington, Province of Aklan, Including the Purchase of a Site Therefor"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Construction of an Additional Building for the New Washington National School of Fisheries in the Municipality of New Washington, Province of Aklan, Including the Purchase of a Site Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

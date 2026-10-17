@@ -1,7 +1,7 @@
 {
  "id": "PH-H9104",
  "title": {
-  "zh": null,
+  "zh": "调整免计入所得税毛所得计算的第十三个月工资及其他福利上限，为此修订经修正的 1997 年《国家国内税收法典》第六编第 32（B）条",
   "en": "An Act Adjusting the 13th Month Pay and Other Benefits Ceiling Excluded From the Computation of Gross Income for Purposes of Income Taxation, Amending for the Purpose Section 32(B), Chapter VI of the National Internal Revenue Code of 1997, as Amended",
   "orig": "An Act Adjusting the 13th Month Pay and Other Benefits Ceiling Excluded From the Computation of Gross Income for Purposes of Income Taxation, Amending for the Purpose Section 32(B), Chapter VI of the National Internal Revenue Code of 1997, as Amended"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days following its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Adjusting the 13th Month Pay and Other Benefits Ceiling Excluded From the Computation of Gross Income for Purposes of Income Taxation, Amending for the Purpose Section 32(B), Chapter VI of the National Internal Revenue Code of 1997, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

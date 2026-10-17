@@ -1,7 +1,7 @@
 {
  "id": "PH-H5097",
  "title": {
-  "zh": null,
+  "zh": "修订第2659号共和国法第2条，增加Palompon总医院床位并授权为此追加拨款的法案",
   "en": "An Act Amending Section Two of Republic Act Numbered Twenty-Six Hundred Fifty-Nine By Increasing the Bed Capacity of Palompon General Hospital, and Authorizing the Appropriation of Additional Funds Therefor.",
   "orig": "An Act Amending Section Two of Republic Act Numbered Twenty-Six Hundred Fifty-Nine By Increasing the Bed Capacity of Palompon General Hospital, and Authorizing the Appropriation of Additional Funds Therefor."
  },
@@ -61,14 +61,23 @@
    }
   },
   {
-   "id": "PH-H5097-A2_2",
+   "id": "PH-H5097-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "This Act shall take effect upon its approval."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Two of Republic Act Numbered Twenty-Six Hundred Fifty-Nine By Increasing the Bed Capacity of Palompon General Hospital, and Authorizing the Appropriation of Additional Funds Therefor.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

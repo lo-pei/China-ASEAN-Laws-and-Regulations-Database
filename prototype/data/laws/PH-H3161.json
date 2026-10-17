@@ -1,7 +1,7 @@
 {
  "id": "PH-H3161",
  "title": {
-  "zh": null,
+  "zh": "授权为南苏里高省一名商务代理的薪俸拨款的法案",
   "en": "An Act Authorizing the Appropriation of a Sum of Money for the Salary of One Commercial Agent in the Province of Surigao del Sur",
   "orig": "An Act Authorizing the Appropriation of a Sum of Money for the Salary of One Commercial Agent in the Province of Surigao del Sur"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of a Sum of Money for the Salary of One Commercial Agent in the Province of Surigao del Sur",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

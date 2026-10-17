@@ -1,7 +1,7 @@
 {
  "id": "SG-H1603",
  "title": {
-  "zh": null,
+  "zh": "自由贸易区法 1966",
   "en": "Free Trade Zones Act 1966",
   "orig": null
  },
@@ -918,5 +918,13 @@
     "en": "24.—(1) The Minister may make regulations for or in respect of every purpose which is deemed by him necessary for the carrying out of this Act.\n(1A) Without affecting subsection (1), the Minister may make regulations for or with respect to, or to otherwise make provision for, all or any of the following matters:\n(a)the requirements applicable to a licensed FTZ operator in relation to the administration, maintenance and operation of a free trade zone;\n(b)the requirements applicable to an FTZ cargo handler in relation to monitoring and managing the activities undertaken in respect of any goods within a free trade zone;\n(c)the requirements governing manufacture within a free trade zone;\n(d)the requirements in relation to an application for an FTZ operator licence;\n(e)the form of any application, notice, appeal, report, record, statement or other document mentioned in this Act;\n(f)the preparation of any application, notice, appeal, report, record, statement or other document mentioned in this Act, including the person that must prepare the same and any criteria that the person must satisfy;\n(g)the information and documents to be included in or to accompany any application, notice, appeal, report, record, statement or other document mentioned in this Act;\n(h)the period within which any application, notice, appeal, report, record, statement or other document is to be submitted (including at prescribed intervals);\n(i)the manner in which any application, notice, appeal, report, record, statement or other document mentioned in this Act is to be submitted, including the person that must submit the same and any criteria that the person must satisfy;\n(j)any fees and charges payable —\n(i)for any application under, or for any purpose of, this Act;\n(ii)in addition to or in lieu of any fee under sub-paragraph (i), for any licence granted or renewed under this Act; or\n(iii)for anything done or any services rendered by the Director-General or any officer of customs under or by virtue of this Act,\nand for the payment of the fees and charges in instalments or on a periodic basis;\n(k)any other matter that is required or permitted to be prescribed to give effect to this Act.\n[Act 33 of 2023 wef 01/03/2024]\n(1B) For the purpose of subsection (1A)(j), the regulations may prescribe different rates of fees and charges —\n(a)in respect of different classes of persons or free trade zones;\n(b)in respect of different periods (including different periods during the validity period of a licence); or\n(c)on any other differential basis.\n[Act 33 of 2023 wef 01/03/2024]\n(1C) To avoid doubt, without affecting any other written law or rule of law, any fee prescribed in regulations that becomes payable may be recovered by the Director-General as a debt due to the Government.\n[Act 33 of 2023 wef 01/03/2024]\n(1D) Regulations made under this section may make different provision —\n(a)for different classes, descriptions or types of goods or persons; and\n(b)for different circumstances.\n[Act 33 of 2023 wef 01/03/2024]\n(1E) The Minister may, in making any regulations, provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $5,000.\n[Act 33 of 2023 wef 01/03/2024]\n(2) All regulations and orders made under this Act shall be published in the Gazette and shall be presented to Parliament as soon as possible after publication."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Free Trade Zones Act 1966",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

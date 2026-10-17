@@ -1,7 +1,7 @@
 {
  "id": "SG-H922",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼（保留与过渡条款）条例 2024",
   "en": "Criminal Procedure (Saving and Transitional Provisions) Regulations 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Despite section 40 of the Criminal Procedure (Miscellaneous Amendments) Act 2024, section 359 of the Criminal Procedure Code 2010 as in force immediately before 1 August 2024 continues to apply for the payment of compensation by a person convicted of any offence if the person committed the offence before that date."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure (Saving and Transitional Provisions) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

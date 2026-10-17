@@ -1,7 +1,7 @@
 {
  "id": "BN-S-35-2001-ORDER-UNDER-SEC-2-SUCCESSION-DATE-FOR-SEC-3-81CDC8",
  "title": {
-  "zh": null,
+  "zh": "依第 2 条订明第 3 条生效日期的电信继承公司命令 2001",
   "en": "ORDER UNDER SEC 2 – SUCCESSION DATE FOR SEC 3 FOR TELECOMMUNICATION SUCCESSOR COMPANY ORDER 2001",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "9th. MARCH, 2006 No. S 35\n\nTELECOMMUNICATION SUCCESSOR COMPANY ORDER, 2001 (S 37/01)\n\nORDER UNDER SECTION 2 In exercise of the power conferred by section 2, the Minister of Finance hereby appoints the 1st. day of April, 2006 as the succession date for the purposes of section 3 of the Telecommunication Successor Company Order, 2001. Dated this 4th. day of Safar, 1427 Hijriah corresponding to the 4th. day of March, 2006.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nMINISTER OF FINANCE, BRUNEI DARUSSALAM."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ORDER UNDER SEC 2 – SUCCESSION DATE FOR SEC 3 FOR TELECOMMUNICATION SUCCESSOR COMPANY ORDER 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

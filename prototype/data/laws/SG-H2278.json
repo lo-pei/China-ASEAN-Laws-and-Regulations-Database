@@ -1,7 +1,7 @@
 {
  "id": "SG-H2278",
  "title": {
-  "zh": null,
+  "zh": "所得税（为外国投资者管理基金所得收入）条例 2003",
   "en": "Income Tax (Income from Funds Managed for Foreign Investors) Regulations 2003",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. The Income Tax (Income from Funds Managed for Foreign Investors) Regulations (Rg 8) are revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Income from Funds Managed for Foreign Investors) Regulations 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

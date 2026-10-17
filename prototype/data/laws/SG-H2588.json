@@ -1,7 +1,7 @@
 {
  "id": "SG-H2588",
  "title": {
-  "zh": null,
+  "zh": "所得税（TSCL 控股私人有限公司依第 13（4）条享有的豁免）公告 2020",
   "en": "Income Tax (TSCL Holdings Pte. Ltd. — Section 13(4) Exemption) Notification 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest payable by TSCL Holdings Pte. Ltd. —\n(a)to the respective non-resident persons mentioned in the first column of the following table;\n(b)in respect of the respective amounts mentioned in the second column of the table that are used for the purposes of financing the acquisition of the respective vessels mentioned in the third column of the table;\n(c)under the respective agreements mentioned in the fourth column of the table; and\n(d)that is due and payable during the respective periods mentioned in the fifth column of the table,\nis exempt from tax:\nFirst\ncolumn\nSecond\ncolumn\nThird\ncolumn\nFourth\ncolumn\nFifth\ncolumn\nNon-resident person\nAmount (US$)\nVessel\nAgreement\nPeriod\n(both dates inclusive)\nhsh portfoliomanagement AöR\n17,000,000\n“M.V. Prabhu Lal” and “M.V. Prabhu Mihikaa”\nLoan agreement dated 28 March 2019\n5 July 2019 to 30 November 2023\nTolani Shipping Co. Ltd\n9,000,000\n“M.V. Prabhu Lal”\nMemorandum of agreement dated 18 March 2019\n8 April 2019 to 25 April 2019\nTolani Shipping Co. Ltd\n9,750,000\n“M.V. Prabhu Mihikaa”\nMemorandum of agreement dated 18 March 2019\n12 April 2019 to 30 April 2019\n(2) The exemption under sub-paragraph (1) is subject to the conditions specified in the letter of approval dated 29 May 2020 issued by the Ministry of Finance and addressed to TSCL Holdings Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (TSCL Holdings Pte. Ltd. — Section 13(4) Exemption) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

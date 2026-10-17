@@ -1,7 +1,7 @@
 {
  "id": "PH-H3150",
  "title": {
-  "zh": null,
+  "zh": "规范政府官员与雇员在菲律宾境内公务出差时费用支付的法案",
   "en": "An Act to Regulate Payment of Expenses of Government Officers and Employees When on Official Travel Within the Philippines.",
   "orig": "An Act to Regulate Payment of Expenses of Government Officers and Employees When on Official Travel Within the Philippines."
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Regulate Payment of Expenses of Government Officers and Employees When on Official Travel Within the Philippines.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H398",
  "title": {
-  "zh": null,
+  "zh": "巴士服务业（指定运营实体）公告 2025",
   "en": "Bus Services Industry (Designated Operating Entities) Notification 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nDesignated operating entities\nFirst column\nSecond column\nDesignated operating entity\nDate designation takes effect\n1.SBS Transit Ltd\n(UEN 199206653M)\n15 April 2025\n2.SMRT Buses Ltd.\n(UEN 198202292D)\n15 April 2025"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Bus Services Industry (Designated Operating Entities) Notification 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

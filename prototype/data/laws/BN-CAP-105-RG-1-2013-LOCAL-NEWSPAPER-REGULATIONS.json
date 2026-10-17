@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-105-RG-1-2013-LOCAL-NEWSPAPER-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG 1 2013 版地方报纸条例",
   "en": "RG 1 2013 ED LOCAL NEWSPAPER REGULATIONS",
   "orig": null
  },
@@ -203,5 +203,13 @@
     "en": "Any person who contravenes regulation 8 or 13 is guilty of an offence and liable on conviction to a fine of $1,000 and imprisonment for 6 months.\n\nSCHEDULE (regulation 3) FORM\n\nNEWSPAPERS ACT (Chapter 105)\n\nLOCAL NEWSPAPERS REGULATIONS Name of newspaper ....................................................................... Address of office of newspaper ....................................................................... Frequency of Publication ....................................................................... (daily, weekly or otherwise) Business address of proprietor ....................................................................... Residential address of proprietor ....................................................................... Printer ....................................................................... Business address of printer ....................................................................... Publisher ....................................................................... (if different from printer)\n\nSCHEDULE FORM — (continued) Editor ....................................................................... Business address of editor ....................................................................... Date .................................................... I certify that the above particulars are correct and that I am ...................................... Signature of informant ................................................................................... Signature of Registrar ...................................................................................."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 1 2013 ED LOCAL NEWSPAPER REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

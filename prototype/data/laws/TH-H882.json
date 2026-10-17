@@ -1,7 +1,7 @@
 {
  "id": "TH-H882",
  "title": {
-  "zh": null,
+  "zh": "防止挥发性物质滥用紧急法令，佛历 2533（1990）（已废止）",
   "en": "EMERGENCY DECREE ON THE PREVENTION OF VOLATILE SUBSTANCE ABUSE B.E. 2533 (1990) (repeal)",
   "orig": "พระราชกำหนดป้องกันการใช้สารระเหย พ.ศ. 2533 (ยกเลิก)"
  },
@@ -401,5 +401,13 @@
     "th": "มาตรา ๓๑ ให้รัฐมนตรีว่าการกระทรวงสาธารณสุขและรัฐมนตรีว่าการกระทรวงอุตสาหกรรมรักษาการตามพระราชกำหนดนี้ และให้มีอำนาจแต่งตั้งพนักงานเจ้าหน้าที่ ออกกฎกระทรวงและประกาศเพื่อปฏิบัติการตามพระราชกำหนดนี้ กฎกระทรวงและประกาศนั้นเมื่อได้ประกาศในราชกิจจานุเบกษาแล้วให้ใช้บังคับได้"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "EMERGENCY DECREE ON THE PREVENTION OF VOLATILE SUBSTANCE ABUSE B.E. 2533 (1990) (repeal)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

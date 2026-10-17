@@ -1,7 +1,7 @@
 {
  "id": "PH-H6660",
  "title": {
-  "zh": null,
+  "zh": "将官方发展援助排除于外债限额之外以促进援助吸收与优化利用，为此修订经修正的第 4860 号共和国法第 2 条第 1 款的法案",
   "en": "An Act Excluding Official Development Assistance (ODA) From the Foreign Debt Limit in Order to Facilitate the Absorption and Optimize the Utilization of Oda Resources, Amending for the Purpose Paragraph 1, Section 2 of Republic Act No. 4860, as Amended",
   "orig": "An Act Excluding Official Development Assistance (ODA) From the Foreign Debt Limit in Order to Facilitate the Absorption and Optimize the Utilization of Oda Resources, Amending for the Purpose Paragraph 1, Section 2 of Republic Act No. 4860, as Amended"
  },
@@ -180,5 +180,13 @@
     "en": "Effectivity. - This Act shall take effect after five (5) days from its publication in the Official Gazette or in at least two (2) national newspapers of general circulation whichever date comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Excluding Official Development Assistance (ODA) From the Foreign Debt Limit in Order to Facilitate the Absorption and Optimize the Utilization of Oda Resources, Amending for the Purpose Paragraph 1, Section 2 of Republic Act No. 4860, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

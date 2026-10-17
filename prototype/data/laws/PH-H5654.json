@@ -1,7 +1,7 @@
 {
  "id": "PH-H5654",
  "title": {
-  "zh": null,
+  "zh": "规定全国与地方同步选举及选举改革，为此授权拨款并为其他目的法案",
   "en": "An Act Providing for Synchronized National and Local Elections and for Electoral Reforms, Authorizing Appropriations Therefor, and for Other Purposes",
   "orig": "An Act Providing for Synchronized National and Local Elections and for Electoral Reforms, Authorizing Appropriations Therefor, and for Other Purposes"
  },
@@ -440,5 +440,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its publication in full in at least two (2) national newspapers of general circulation.\nApproved: November 26, 1991"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for Synchronized National and Local Elections and for Electoral Reforms, Authorizing Appropriations Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

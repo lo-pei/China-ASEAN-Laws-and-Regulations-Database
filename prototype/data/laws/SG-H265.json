@@ -1,7 +1,7 @@
 {
  "id": "SG-H265",
  "title": {
-  "zh": null,
+  "zh": "向陆路交通管理局转授职能",
   "en": "Assignment of Function to Land Transport Authority of Singapore",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Land Transport Authority of Singapore Act\n(Chapter 158A)\nAssignment of Function to Land Transport Authority of Singapore\nIn exercise of the powers conferred by section 6(3) of the Land Transport Authority of Singapore Act, the Minister for Transport hereby assigns to the Land Transport Authority of Singapore, with effect from 2nd June 2008, the function of providing land transport for the purpose of road traffic management in relation to the Fédération Internationale de l’Automobile Formula One World Championship."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Assignment of Function to Land Transport Authority of Singapore",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

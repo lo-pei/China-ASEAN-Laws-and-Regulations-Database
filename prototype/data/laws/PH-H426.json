@@ -1,7 +1,7 @@
 {
  "id": "PH-H426",
  "title": {
-  "zh": null,
+  "zh": "规定设立菲律宾首都及国家政府永久所在地、设立首都城市规划委员会、拨款购置该市范围内私人地产并授权发行国债的法案",
   "en": "An Act to Establish the Capital of the Philippines and the Permanent Seat of the National Government, to Create a Capital City Planning Commission, to Appropriate Funds for the Acquisition of Private Estates Within the Boundary Limits of Said City, and to Authorize the Issuance of Bonds of the National Government for the Acquisition of Private Estates, for the Subdivision Thereof, and for the Construction of Streets, Bridges, Waterworks, Sewerage and Other Municipal Improvements in the Capital City",
   "orig": "An Act to Establish the Capital of the Philippines and the Permanent Seat of the National Government, to Create a Capital City Planning Commission, to Appropriate Funds for the Acquisition of Private Estates Within the Boundary Limits of Said City, and to Authorize the Issuance of Bonds of the National Government for the Acquisition of Private Estates, for the Subdivision Thereof, and for the Construction of Streets, Bridges, Waterworks, Sewerage and Other Municipal Improvements in the Capital City"
  },
@@ -170,5 +170,13 @@
     "en": "All acts and executive orders or regulations, or parts thereof, inconsistent with the provisions of this Act, are hereby repealed.\nSection 14 . This Act shall take effect upon its approval.\nApproved: July 17, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish the Capital of the Philippines and the Permanent Seat of the National Government, to Create a Capital City Planning Commission, to Appropriate Funds for the Acquisition of Private Estates Within the Boundary Limits of Said City, and to Authorize the Issuance of Bonds of the National Government for the Acquisition of Private Estates, for the Subdivision Thereof, and for the Construction of Streets, Bridges, Waterworks, Sewerage and Other Municipal Improvements in the Capital City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

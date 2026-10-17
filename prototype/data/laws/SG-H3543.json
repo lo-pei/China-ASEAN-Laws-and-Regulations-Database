@@ -1,7 +1,7 @@
 {
  "id": "SG-H3543",
  "title": {
-  "zh": null,
+  "zh": "规划（土地开发授权）公告",
   "en": "Planning (Development of Land Authorisation) Notification",
   "orig": null
  },
@@ -136,5 +136,13 @@
     "en": "SECOND SCHEDULE\nParagraph 3(1A)\nMap A\nMap B\nMap C\nMap D\nMap E\n[S 525/2006 wef 04/09/2006]\n[S 336/2009 wef 20/07/2009]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Planning (Development of Land Authorisation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3642",
  "title": {
-  "zh": null,
+  "zh": "共享出行企业（管制与发牌）法 2020",
   "en": "Shared Mobility Enterprises (Control and Licensing) Act 2020",
   "orig": null
  },
@@ -848,5 +848,13 @@
     "en": "THE SCHEDULE\nSection 53\nSaving and transitional provisions\n1. Every person holding a licence that —\n(a)is granted, before 22 July 2020, under Part 3 of the Parking Places Act 1974; and\n(b)is in force immediately before that date,\nis, so far as it is not inconsistent with the provisions of this Act, to continue as if granted a licence authorising the person to provide a shared mobility service granted under this Act until that licence expires or is earlier revoked under section 29.\n2. Every direction that —\n(a)is issued under section 8O of the Parking Places Act 1974 before 22 July 2020; and\n(b)is in force immediately before that date,\nis, so far as it is not inconsistent with the provisions of this Act, to continue as if it is a direction given by the LTA under section 25.\n3. Sections 29 and 30 of this Act do not apply to any proceedings —\n(a)under section 8P of the Parking Places Act 1974 as in force immediately before 22 July 2020; and\n(b)pending immediately before that date,\nand those proceedings may be continued, and any penalty may be imposed under section 8P of the Parking Places Act 1974 as if section 51(5) had not been enacted.\n4. Where an appeal has been made to the Minister —\n(a)under section 8R of the Parking Places Act 1974 before 22 July 2020; and\n(b)the appeal has not been dealt with or disposed of immediately before that date,\nthe appeal may be dealt with under section 8R of the Parking Places Act 1974 as if section 51(5) had not been enacted.\n5. Every standard of performance that —\n(a)is approved or issued under section 8N of the Parking Places Act 1974 before 22 July 2020; and\n(b)is in force immediately before that date,\nis, so far as it is not inconsistent with the provisions of this Act, to continue as if it is a standard of performance issued by the LTA under section 24(1).\n[S 58/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Shared Mobility Enterprises (Control and Licensing) Act 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

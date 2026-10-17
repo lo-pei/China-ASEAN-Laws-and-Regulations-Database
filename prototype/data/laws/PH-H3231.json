@@ -1,7 +1,7 @@
 {
  "id": "PH-H3231",
  "title": {
-  "zh": null,
+  "zh": "授权达沃工艺与贸易学校开设工业教育与工业艺术学士学位课程及夜班并为此拨款的法案",
   "en": "An Act Authoring the Davao School of Arts and Trades to Offer Teacher Education Curricula Leading to the Degree of Bachelor of Science in Industrial Education and the Degree of Bachelor of Science in Industrial Arts, and to Offer Evening Classes in Such Courses and in Trade and Industrial Education, and Authorizing the Appropriation of Funds for the Purpose",
   "orig": "An Act Authoring the Davao School of Arts and Trades to Offer Teacher Education Curricula Leading to the Degree of Bachelor of Science in Industrial Education and the Degree of Bachelor of Science in Industrial Arts, and to Offer Evening Classes in Such Courses and in Trade and Industrial Education, and Authorizing the Appropriation of Funds for the Purpose"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authoring the Davao School of Arts and Trades to Offer Teacher Education Curricula Leading to the Degree of Bachelor of Science in Industrial Education and the Degree of Bachelor of Science in Industrial Arts, and to Offer Evening Classes in Such Courses and in Trade and Industrial Education, and Authorizing the Appropriation of Funds for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3427",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11(3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n(1) The Bankruptcy Act (Chapter 20).\n(2) The Contact Lens Practitioners Act (Chapter 53A).\n(3) The Distress Act (Chapter 84).\n(4) The Economic Expansion Incentives (Relief from Income Tax) Act (Chapter 86).\n(5) The Employment Act (Chapter 91).\n(6) The Income Tax Act (Chapter 134).\n(7) The Land Transport Authority of Singapore Act (Chapter 158A).\n(8) The Legal Aid and Advice Act (Chapter 160).\n(9) The Maintenance of Parents Act (Chapter 167B).\n(10) The Merchant Shipping Act (Chapter 179).\n(11) The National Library Board Act (Chapter 197).\n(12) The Parliamentary Pensions Act (Chapter 219).\n(13) The Pension Fund Act (Chapter 224A).\n(14) The Public Utilities Act (Chapter 261).\n(15) The Rapid Transit Systems Act (Chapter 263A).\n(16) The Regulation of Imports and Exports Act (Chapter 272A).\n(17) The Sale of Goods (United Nations Convention) Act (Chapter 283A).\n(18) The Singapore Productivity and Standards Board Act (Chapter 303A).\n(19) The Street Works Act (Chapter 320A)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

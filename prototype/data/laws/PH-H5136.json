@@ -1,7 +1,7 @@
 {
  "id": "PH-H5136",
  "title": {
-  "zh": null,
+  "zh": "将马尼拉国际机场重新命名为Ninoy Aquino国际机场的法案",
   "en": "An Act Renaming the Manila International Airport as the Ninoy Aquino International Airport",
   "orig": "An Act Renaming the Manila International Airport as the Ninoy Aquino International Airport"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\n* Enacted without executive approval , November 27, 1987."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Manila International Airport as the Ninoy Aquino International Airport",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

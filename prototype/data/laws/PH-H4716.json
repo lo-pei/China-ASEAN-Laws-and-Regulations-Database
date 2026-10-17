@@ -1,7 +1,7 @@
 {
  "id": "PH-H4716",
  "title": {
-  "zh": null,
+  "zh": "修订第3000号共和国法（关于授予C. Alcantara and Sons无线电话系统特许权）的法案",
   "en": "An Act Amending Republic Act Numbered Thirty Hundred (Re Franchise for Radiotelephone System Granted to C. Alcantara and Sons).",
   "orig": "An Act Amending Republic Act Numbered Thirty Hundred (Re Franchise for Radiotelephone System Granted to C. Alcantara and Sons)."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive Approval, August 4, 1969"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Thirty Hundred (Re Franchise for Radiotelephone System Granted to C. Alcantara and Sons).",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

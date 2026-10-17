@@ -1,7 +1,7 @@
 {
  "id": "PH-H4141",
  "title": {
-  "zh": null,
+  "zh": "授权安蒂克省Sibalom市镇安蒂克工艺与贸易学校开设工业教育理学士与工业艺术学士学位课程并为此拨款的法案",
   "en": "An Act Authorizing the Antique School of Arts and Trades, Municipality of Sibalom, Province of Antique, to Offer Courses Leading to the Degrees of Bachelor of Science in Industrial Education and Bachelor of Science in Industrial Arts, and Appropriating Funds Therefor",
   "orig": "An Act Authorizing the Antique School of Arts and Trades, Municipality of Sibalom, Province of Antique, to Offer Courses Leading to the Degrees of Bachelor of Science in Industrial Education and Bachelor of Science in Industrial Arts, and Appropriating Funds Therefor"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Antique School of Arts and Trades, Municipality of Sibalom, Province of Antique, to Offer Courses Leading to the Degrees of Bachelor of Science in Industrial Education and Bachelor of Science in Industrial Arts, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

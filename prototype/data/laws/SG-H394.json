@@ -1,7 +1,7 @@
 {
  "id": "SG-H394",
  "title": {
-  "zh": null,
+  "zh": "巴士服务行业（巴士服务牌照）条例 2016",
   "en": "Bus Services Industry (Bus Service Licence) Regulations 2016",
   "orig": null
  },
@@ -296,5 +296,13 @@
     "en": "SECOND SCHEDULE\nQuality of service records\nRegulation 11(1)\n1. Demand for each bus service\n(a)Bus passenger ridership.\n(b)Number of passengers boarding and alighting.\n2. Bus operation information\n(a)Operated trips details.\n(b)Scheduled trips details.\n(c)Extent, hours and general level of services provided by the licensee to members of the public.\n3. Safety of bus services\n(a)Number of accidents.\n(b)Details of each accident.\n4. Buses\n(a)Condition and use of the buses.\n(b)Details of bus breakdown.\n(c)Size of bus fleet.\n(d)Types of buses."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Bus Services Industry (Bus Service Licence) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

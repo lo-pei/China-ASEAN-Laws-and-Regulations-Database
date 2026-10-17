@@ -1,7 +1,7 @@
 {
  "id": "BN-S-75-2010-E-MONEY-LAUNDERING-AMENDMENT-ORDER-2010",
  "title": {
-  "zh": null,
+  "zh": "洗钱修正命令 2010",
   "en": "MONEY LAUNDERING AMENDMENT ORDER 2010",
   "orig": null
  },
@@ -190,5 +190,13 @@
     "en": "(1) may issue such directions to any person or any class of person as he considers necessary in order to discharge or facilitate the of any international obligation binding on Brunei Darussalam relating to money-laundering.\n\n(2) Any person or any class of person to which the direction has been issued shall comply with it notwithstanding any other duty imposed on him by any written law, rule of law or contract.\n\n(3) No person or any class of person shall disclose any direction him if the Minister has notified him that he is of the opinion that any such disclosure would be against public interest.\n\n(4) Any person or class of person who fails or refuses to comply with a direction issued to him, or which discloses a direction issued to him in contravention of subsection (3), is guilty of an offence and liable on conviction to a fine not exceeding $20,000. Communication of information to foreign authority. 16J. (1) Notwithstanding any other written law, a supervisory authority may communicate anything(a} disclosed to him under sections 14(d}, 16C or 16E; or\n\n(b) forwarded to him under section 16D, to a corresponding authority of a foreign country if -\n\n(i) that thing may be relevant to an investigation by that into an offence involving money-laundering and related offences made under any written law; and\n\n(ii) the conditions in subsection (2) are satisfied.\n\n(2) The conditions referred to in subsection (1) are as follows{a) there exists an arrangement under which the corresponding authority of the foreign country or territory has agreed_ to communicate to Brunei Darussalam, information received by the corresponding authority that corresponds to any thing required to be disclosed to a supervisory authority under sections 14{d), 16C or 16E; {b) the supervisory authority is satisfied that the corresponding authority has given appropriate undertakings -\n\n(i) for protecting the confidentiality of any to it; and\n\n(ii) for controlling the use that will be made of it, including an undertaking that it will not be used as evidence in any and {c) such other conditions as the Minister may determine.\n\n(3) section\"corresponding authority\" means, in relation to a foreign country or territory the authority of that foreign country or territory responsible for receiving information that corresponds to any required to be reported to a supervisory authority sections 14{d), 16C, 16D or 16E. to issue directions, guidelines etc. 16K. (1) authority may, from time to time, issue such directions, guidelines, circulars or notices concerning any relevant business of relevant business as a supervisory authority may consider desirable in respect of any particular provision of this Order or generally for the prevention of money laundering.\n\n(2) Any relevant business which fails or refuses to comply with any guidelines, circulars or notices issued under subsection (1), is guilty of an and liable on conviction to a fine not exceeding $1 million and, in the case of a continuing offence, to a further fine of $100,000 for every day during which the offence continues after conviction. Immunity from proceedings. 16L. No action, suit or other legal proceedings shall lie againstfa} any party to a contract for failing, neglecting or refusing to carry out any act required by that contract; or\n\n(b) any person for failing, neglecting or refusing to carry out any act any written law, such failure, neglect or refusal is solely attributable to, or occasioned by, the provisions of this Order or any directions, guidelines, circulars or made under section 16K of this Order. 16M. The Minister, may, with the approval from His Majesty the Sultan and Yang Di-Pertuan make such regulations as he considers necessary or expedient for giving effect to or carrying out the provisions of this Order. II. of Schedule."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MONEY LAUNDERING AMENDMENT ORDER 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H8163",
  "title": {
-  "zh": null,
+  "zh": "将索索贡省Pilar市镇Dao描笼涯横贯Marifosque街与国家公路的道路网命名为Manuel T. Sia市长绕行公路的法案",
   "en": "An Act Naming the Road Network Traversing Marifosque Street and National Highway At Barangay Dao in the Municipality of Pilar, Province of Sorsogon as Mayor Manuel T. Sia Diversion Road",
   "orig": "An Act Naming the Road Network Traversing Marifosque Street and National Highway At Barangay Dao in the Municipality of Pilar, Province of Sorsogon as Mayor Manuel T. Sia Diversion Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Road Network Traversing Marifosque Street and National Highway At Barangay Dao in the Municipality of Pilar, Province of Sorsogon as Mayor Manuel T. Sia Diversion Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

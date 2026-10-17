@@ -1,7 +1,7 @@
 {
  "id": "PH-H3357",
  "title": {
-  "zh": null,
+  "zh": "修订第 1553 号共和国法（即授予 Eliseo B. Lemi 在菲律宾建设、维护和运营无线电广播电台与电视台临时许可的法案）的法案",
   "en": "An Act to Amend Republic Act Numbered Fifteen Hundred and Fifty-Three, Entitled \"An Act Granting Eliseo B. Lemia Temporary Permit to Construct, Maintain and Operate Radio Broadcasting Stations and Stations for Television in the Philippines\"",
   "orig": "An Act to Amend Republic Act Numbered Fifteen Hundred and Fifty-Three, Entitled \"An Act Granting Eliseo B. Lemia Temporary Permit to Construct, Maintain and Operate Radio Broadcasting Stations and Stations for Television in the Philippines\""
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Fifteen Hundred and Fifty-Three, Entitled \"An Act Granting Eliseo B. Lemia Temporary Permit to Construct, Maintain and Operate Radio Broadcasting Stations and Stations for Television in the Philippines\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

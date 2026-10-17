@@ -1,7 +1,7 @@
 {
  "id": "PH-H3736",
  "title": {
-  "zh": null,
+  "zh": "延长 Abaca 发展计划期限、将其活动扩大至其他纤维并维持其自有资金的法案",
   "en": "An Act Extending the Life of the Abaca Development Program, Expanding its Activities to Cover Other Fibers, and Maintaining its Own Funds",
   "orig": "An Act Extending the Life of the Abaca Development Program, Expanding its Activities to Cover Other Fibers, and Maintaining its Own Funds"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval and shall continue to be in effect for a period of one year from the approval hereof.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Life of the Abaca Development Program, Expanding its Activities to Cover Other Fibers, and Maintaining its Own Funds",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

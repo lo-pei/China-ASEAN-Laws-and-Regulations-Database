@@ -1,7 +1,7 @@
 {
  "id": "SG-H1773",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（罪行和解）规则 2024",
   "en": "Housing and Development (Composition of Offences) Rules 2024",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Revoke the Housing and Development (Composition of Offences) Rules (R 6)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Composition of Offences) Rules 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

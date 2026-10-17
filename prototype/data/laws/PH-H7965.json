@@ -1,7 +1,7 @@
 {
  "id": "PH-H7965",
  "title": {
-  "zh": null,
+  "zh": "2008 年个人股权与退休账户法",
   "en": "Personal Equity and Retirement Account (PERA) Act of 2008",
   "orig": "Personal Equity and Retirement Account (PERA) Act of 2008 An Act Establishing a Provident Personal Savings Plan, known as the Personal Equity and Retirement Account (PERA)"
  },
@@ -250,5 +250,13 @@
     "en": "Effectivity. -This Act shall take effect fifteen (15) days following its publication in a newspaper of general circulation: Provided , That the tax incentives granted hereunder shall take effect on January 1, 2009."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Personal Equity and Retirement Account (PERA) Act of 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

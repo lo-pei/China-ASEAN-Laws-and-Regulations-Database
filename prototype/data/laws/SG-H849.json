@@ -1,7 +1,7 @@
 {
  "id": "SG-H849",
  "title": {
-  "zh": null,
+  "zh": "著作权（边境执法措施费用）条例 2021",
   "en": "Copyright (Border Enforcement Measures Fees) Regulations 2021",
   "orig": null
  },
@@ -87,5 +87,11 @@
     "en": "THE SCHEDULE\nRegulation 3\nFees\n1.Prescribed fee under section 332(2)(g) of the Act for a request to seize goods\n$200\n2.Prescribed fee under section 338(2)(f) of the Act for a request for the continued detention of seized goods\n$200\n3.For the escort of a conveyance conveying seized goods\n$29 per half hour (or part of a half hour) of continuous escort\n4.For the attendance of one or more customs officers in connection with —\n(a)the inspection of seized goods\n$29 per half hour (or part of a half hour) of continuous attendance at the inspection\n(b)the destruction of seized goods\n$29 per half hour (or part of a half hour) of continuous attendance at the destruction\n5.For the attendance of one or more customs officers in connection with any other act or service under Division 3 of Part 6 of the Act\n$29 per half hour (or part of a half hour) of continuous attendance at the operation"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Copyright (Border Enforcement Measures Fees) Regulations 2021",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

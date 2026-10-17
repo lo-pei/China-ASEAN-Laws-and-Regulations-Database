@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-283-2024-NATIONAL-RETIREMENT-SCHEME-ACT",
  "title": {
-  "zh": null,
+  "zh": "国家退休金计划法",
   "en": "NATIONAL RETIREMENT SCHEME ACT",
   "orig": null
  },
@@ -837,5 +837,13 @@
     "en": "The provisions of Schedule 3 shall have effect for the purpose of the transfer of moneys and dues, employees and for other transitional purposes specified in that Schedule.\n\nPERSONS OR CLASSES OF PERSONS SPECIFIED NOT TO BE EMPLOYEES"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NATIONAL RETIREMENT SCHEME ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

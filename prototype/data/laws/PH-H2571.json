@@ -1,7 +1,7 @@
 {
  "id": "PH-H2571",
  "title": {
-  "zh": null,
+  "zh": "将打拉省拉巴斯市镇普隆卡瓦扬村的名称变更为拉普里西马村的法案",
   "en": "An Act Changing the Name of the Barrio of Pulongcawayan in the Municipality of La Paz, Province of Tarlac, to La Purisima",
   "orig": "An Act Changing the Name of the Barrio of Pulongcawayan in the Municipality of La Paz, Province of Tarlac, to La Purisima"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Barrio of Pulongcawayan in the Municipality of La Paz, Province of Tarlac, to La Purisima",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

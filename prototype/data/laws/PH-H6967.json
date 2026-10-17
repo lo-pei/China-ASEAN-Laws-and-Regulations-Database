@@ -1,7 +1,7 @@
 {
  "id": "PH-H6967",
  "title": {
-  "zh": null,
+  "zh": "1998 年迅速审判法",
   "en": "Speedy Trial Act of 1998",
   "orig": "Speedy Trial Act of 1998 An Act to Ensure a Speedy Trial of All Criminal Cases Before the Sandiganbayan, Regional Trial Court, Metropolitan Trial Court, Municipal Trial Court, and Municipal Circuit Trial Court, Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -241,5 +241,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation: Provided, That Section 7 of this Act shall become effective after the expiration of the aforementioned third-calendar-month period provided in Section 9 of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Speedy Trial Act of 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

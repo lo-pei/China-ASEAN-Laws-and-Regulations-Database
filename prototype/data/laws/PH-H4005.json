@@ -1,7 +1,7 @@
 {
  "id": "PH-H4005",
  "title": {
-  "zh": null,
+  "zh": "在南达沃省设立畜牧场及繁育站并为此拨付所需经费的法案",
   "en": "An Act Establishing a Stock Farm and/or Breeding Station in the Province of Davao del Sur, and Authorizing the Appropriation of the Necessary Funds Therefor",
   "orig": "An Act Establishing a Stock Farm and/or Breeding Station in the Province of Davao del Sur, and Authorizing the Appropriation of the Necessary Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 13, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Stock Farm and/or Breeding Station in the Province of Davao del Sur, and Authorizing the Appropriation of the Necessary Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

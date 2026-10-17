@@ -1,7 +1,7 @@
 {
  "id": "SG-H3442",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11(3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n1. Accountants Act (Chapter 2)\n2. Accounting and Corporate Regulatory Authority Act (Chapter 2A)\n3. Business Trusts Act (Chapter 31A)\n4. Estate Duty Act (Chapter 96)\n5. Goods and Services Tax Act (Chapter 117A)\n6. Human Cloning and Other Prohibited Practices Act (Chapter 131B)\n7. Human Organ Transplant Act (Chapter 131A)\n8. Manufacture of Optical Discs Act (Chapter 170C)\n9. Patents Act (Chapter 221)\n10. Registered Designs Act (Chapter 266)\n11. Trade Marks Act (Chapter 332)\n12. Trustees Act (Chapter 337)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4678",
  "title": {
-  "zh": null,
+  "zh": "修订规范化名使用的第 142 号联邦法的法案",
   "en": "An Act Amending Commonwealth Act Numbered One Hundred Forty-Two Regulating the Use of Aliases.",
   "orig": "An Act Amending Commonwealth Act Numbered One Hundred Forty-Two Regulating the Use of Aliases."
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval, and all Acts, rules or regulations of laws inconsistent herewith are hereby repealed.\nApproved: August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Commonwealth Act Numbered One Hundred Forty-Two Regulating the Use of Aliases.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

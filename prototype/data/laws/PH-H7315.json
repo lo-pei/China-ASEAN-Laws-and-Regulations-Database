@@ -1,7 +1,7 @@
 {
  "id": "PH-H7315",
  "title": {
-  "zh": null,
+  "zh": "将南甘马粦省卡拉班加的圣卢卡斯的Union中学改设为Union国立中学并为此拨款的法案",
   "en": "An Act Converting the Union High School in San Lucas, Calabanga, Camarines Sur Into the Union National High School and Appropriating Funds Therefor",
   "orig": "An Act Converting the Union High School in San Lucas, Calabanga, Camarines Sur Into the Union National High School and Appropriating Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Union High School in San Lucas, Calabanga, Camarines Sur Into the Union National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

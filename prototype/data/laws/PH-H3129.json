@@ -1,7 +1,7 @@
 {
  "id": "PH-H3129",
  "title": {
-  "zh": null,
+  "zh": "关于授权菲律宾总统将碧瑶市内某幅公有土地出售给国家发展公司的法案",
   "en": "An Act Authorizing the President of the Philippines to Sell a Certain Parcel of Land of Public Domain Within the City of Baguio to the National Development Company",
   "orig": "An Act Authorizing the President of the Philippines to Sell a Certain Parcel of Land of Public Domain Within the City of Baguio to the National Development Company"
  },
@@ -80,5 +80,11 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act Authorizing the President of the Philippines to Sell a Certain Parcel of Land of Public Domain Within the City of Baguio to the National Development Company",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

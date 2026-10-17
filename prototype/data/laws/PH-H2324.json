@@ -1,7 +1,7 @@
 {
  "id": "PH-H2324",
  "title": {
-  "zh": null,
+  "zh": "将伊莎贝拉省卡巴甘市镇的卡西巴拉格村分为名为北卡西巴拉格与南卡西巴拉格的两个村的法案",
   "en": "An Act Dividing the Barrio of Casibarag in the Municipality of Cabagan, Province of Isabela, into Two Barrios to be Known as Casibarag Norte and Casibarag Sur",
   "orig": "An Act Dividing the Barrio of Casibarag in the Municipality of Cabagan, Province of Isabela, into Two Barrios to be Known as Casibarag Norte and Casibarag Sur"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Dividing the Barrio of Casibarag in the Municipality of Cabagan, Province of Isabela, into Two Barrios to be Known as Casibarag Norte and Casibarag Sur",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

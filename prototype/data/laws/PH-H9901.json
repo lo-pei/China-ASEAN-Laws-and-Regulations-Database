@@ -1,7 +1,7 @@
 {
  "id": "PH-H9901",
  "title": {
-  "zh": null,
+  "zh": "宣布因 2019 年冠状病毒病（COVID-19）疫情进入国家紧急状态并宣布相关国家政策，授权菲律宾总统在限定期间与限制条件下行使必要且适当的权力，并为其他目的法案",
   "en": "An Act Declaring the Existence of a National Emergency Arising from the Coronavirus Disease 2019 (COVID-19) Situation and a National Policy in Connection Therewith, and Authorizing the President of the Republic of the Philippines for a Limited Period and Subject to Restrictions, to Exercise Powers Necessary and Proper to Carry Out the Declared National Policy and for Other Purposes",
   "orig": "An Act Declaring the Existence of a National Emergency Arising from the Coronavirus Disease 2019 (COVID-19) Situation and a National Policy in Connection Therewith, and Authorizing the President of the Republic of the Philippines for a Limited Period and Subject to Restrictions, to Exercise Powers Necessary and Proper to Carry Out the Declared National Policy and for Other Purposes"
  },
@@ -130,5 +130,13 @@
     "en": "Effectivity. - This Act shall take effect immediately upon its publication in a newspaper of general circulation or in the Official Gazette and shall be in full force and effect only for three (3) months, unless extended by Congress: Provided, That the powers granted under this Act may be withdrawn sooner by means of a concurrent resolution of Congress or ended by Presidential Proclamation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the Existence of a National Emergency Arising from the Coronavirus Disease 2019 (COVID-19) Situation and a National Policy in Connection Therewith, and Authorizing the President of the Republic of the Philippines for a Limited Period and Subject to Restrictions, to Exercise Powers Necessary and Proper to Carry Out the Declared National Policy and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

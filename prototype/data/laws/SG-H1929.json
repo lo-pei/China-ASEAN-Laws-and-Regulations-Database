@@ -1,7 +1,7 @@
 {
  "id": "SG-H1929",
  "title": {
-  "zh": null,
+  "zh": "所得税（依第 3A 条转授职能——建设局）公告 2024",
   "en": "Income Tax (Assignment of Functions under Section 3A — Building and Construction Authority) Notification 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister assigns to the Building and Construction Authority the following powers of the Minister under the Act:\n(a)the power to vary a condition, mentioned in section 18C(2A) of the Act;\n(b)the power to approve an application, mentioned in section 18C(2B) of the Act;\n(c)the power to impose conditions, mentioned in section 18C(2D) of the Act;\n(d)the power to substitute or add a person or trade or business, mentioned in section 18C(2E) of the Act;\n(e)the power to approve an application, mentioned in section 18C(2F) of the Act;\n(f)the power to revoke an approval, mentioned in section 18C(8) of the Act;\n(g)the power to determine the form and manner in which, and time within which, records of an approved construction or approved renovation must be maintained and delivered to the Building and Construction Authority, mentioned in section 18C(11) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Assignment of Functions under Section 3A — Building and Construction Authority) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

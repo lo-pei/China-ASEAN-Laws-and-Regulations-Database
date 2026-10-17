@@ -1,7 +1,7 @@
 {
  "id": "SG-H516",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（长期服务奖）公告 2001",
   "en": "Central Provident Fund (Long Service Awards) Notification 2001",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Subject to this paragraph, the definition of “wages” in section 2 of the Act does not include any amount paid to any employee as a long service award up to the amount of the employee’s ordinary wages for the month in which the long service award is paid.\n(2) For the purposes of sub-paragraph (1), the total period of service of an employee with an employer is to be broken up into 5‑year periods of service.\n(3) Sub-paragraph (1) applies to only one long service award granted to an employee in respect of each 5‑year period of service with his or her employer.\n(4) Where a long service award has been granted to an employee in respect of any 5‑year period of service, sub‑paragraph (1) does not apply to any subsequent long service award granted to him or her in respect of the same 5‑year period of service.\n(5) In this paragraph, “5‑year period of service”, in relation to an employee, means every continuous period of 5 years of service with his or her employer commencing from the date the employee is employed by his or her employer or is recognised as being employed by his or her employer in accordance with paragraph 2(3)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Long Service Awards) Notification 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

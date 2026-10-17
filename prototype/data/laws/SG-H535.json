@@ -1,7 +1,7 @@
 {
  "id": "SG-H535",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（住宅物业计划）条例 1982",
   "en": "Central Provident Fund (Residential Properties Scheme) Regulations 1982",
   "orig": null
  },
@@ -527,5 +527,13 @@
     "en": "THE SCHEDULE\nRegulation 2A\nFormer provisions\nFirst column\nSecond column\nRegulation containing reference\nto a former provision\nFormer provisions\n1.[Deleted by S 155/2026 wef 01/04/2026]\n2.[Deleted by S 155/2026 wef 01/04/2026]\n3.Regulation 28(5)(d)\nSection 15(2)(b) or (c) of the Act as in force before 1 April 2024\n4.[Deleted by S 155/2026 wef 01/04/2026]\n5.[Deleted by S 155/2026 wef 01/04/2026]\n6.Regulation 29(a)\nSection 15(2)(d), (e), (f) or (g), (7A) or (8) of the Act as in force before 1 March 2022\n7.Regulation 29(b)\nSection 15(2A), (7B) or (8A) of the Act as in force before 1 March 2022\n[S 155/2026 wef 01/04/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund (Residential Properties Scheme) Regulations 1982",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

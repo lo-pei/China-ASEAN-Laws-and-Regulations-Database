@@ -1,7 +1,7 @@
 {
  "id": "SG-H1171",
  "title": {
-  "zh": null,
+  "zh": "外交与领事关系（国际清算银行）命令 2020",
   "en": "Diplomatic and Consular Relations (Bank for International Settlements) Order 2020",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) In addition to his or her immunities and privileges under the International Organisations (Immunities and Privileges) (Bank for International Settlements) Order 2020, each of the following individuals who is not a citizen or permanent resident of Singapore enjoys exemption from goods and services tax and customs and excise duties when importing used personal and household effects (except tobacco, liquor and motor vehicles) within 6 months after first taking up his or her post in Singapore:\n(a)a member of the personnel of the BISIH Singapore Centre;\n(b)an employee of the BIS visiting the BISIH Singapore Centre to carry out a temporary mission for the BIS.\n(2) Despite sub-paragraph (1), the immunity or privilege under that sub‑paragraph which is enjoyed by any individual in any particular case is to be waived by the General Manager if the General Manager is of the opinion that —\n(a)the immunity or privilege impedes the course of justice; and\n(b)the immunity or privilege can be waived without prejudice to the interests of the BIS."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Diplomatic and Consular Relations (Bank for International Settlements) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

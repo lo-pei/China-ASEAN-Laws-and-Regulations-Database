@@ -1,7 +1,7 @@
 {
  "id": "PH-H2345",
  "title": {
-  "zh": null,
+  "zh": "修订第1900号共和国法第2条第f款巴丹省第212 Subparagraph （6）页第（e）项的法案",
   "en": "An Act Amending Item (e), Page 212 Subparagraph (6), for the Province of Bataan, Paragraph f, Section Two of Republic Act Numbered Nineteen Hundred",
   "orig": "An Act Amending Item (e), Page 212 Subparagraph (6), for the Province of Bataan, Paragraph f, Section Two of Republic Act Numbered Nineteen Hundred"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: March 15, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Item (e), Page 212 Subparagraph (6), for the Province of Bataan, Paragraph f, Section Two of Republic Act Numbered Nineteen Hundred",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

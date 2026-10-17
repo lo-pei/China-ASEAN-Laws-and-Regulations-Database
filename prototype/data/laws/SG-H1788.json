@@ -1,7 +1,7 @@
 {
  "id": "SG-H1788",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（设计—建造—销售计划——归属）公告 2015",
   "en": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) Notification 2015",
   "orig": null
  },
@@ -84,5 +84,13 @@
     "en": "SECOND SCHEDULE\nParagraph 2\nApartment block\nStreet name\nUnit no.\n311A\nClementi Avenue 4\n#21-157\n311A\nClementi Avenue 4\n#22-157\n311A\nClementi Avenue 4\n#24-157\n311A\nClementi Avenue 4\n#26-157\n311A\nClementi Avenue 4\n#32-157\n311B\nClementi Avenue 4\n#11-167\n311B\nClementi Avenue 4\n#18-167\n311B\nClementi Avenue 4\n#19-167\n311B\nClementi Avenue 4\n#21-167\n311B\nClementi Avenue 4\n#22-167\n311B\nClementi Avenue 4\n#23-167\n311B\nClementi Avenue 4\n#24-167\n311B\nClementi Avenue 4\n#25-167\n311B\nClementi Avenue 4\n#26-167\n311B\nClementi Avenue 4\n#27-167\n311B\nClementi Avenue 4\n#28-167\n311B\nClementi Avenue 4\n#29-167\n311B\nClementi Avenue 4\n#30-167\n311B\nClementi Avenue 4\n#31-167\n311B\nClementi Avenue 4\n#33-167\n311B\nClementi Avenue 4\n#34-167\n311B\nClementi Avenue 4\n#35-167\n311B\nClementi Avenue 4\n#28-181\n311B\nClementi Avenue 4\n#34-181\n311C\nClementi Avenue 4\n#14-183\n311C\nClementi Avenue 4\n#15-183\n311C\nClementi Avenue 4\n#17-183\n311C\nClementi Avenue 4\n#18-183\n311C\nClementi Avenue 4\n#19-183\n311C\nClementi Avenue 4\n#21-183\n311C\nClementi Avenue 4\n#22-183\n311C\nClementi Avenue 4\n#24-183\n311C\nClementi Avenue 4\n#25-183\n311C\nClementi Avenue 4\n#29-183\n311C\nClementi Avenue 4\n#31-183\n311C\nClementi Avenue 4\n#32-183\n311C\nClementi Avenue 4\n#33-183\n311C\nClementi Avenue 4\n#34-183\n311C\nClementi Avenue 4\n#35-183\n311C\nClementi Avenue 4\n#36-183\n311C\nClementi Avenue 4\n#35-197"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) Notification 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

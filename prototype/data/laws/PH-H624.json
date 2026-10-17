@@ -1,7 +1,7 @@
 {
  "id": "PH-H624",
  "title": {
-  "zh": null,
+  "zh": "修订第 83 号联邦法（即《规范证券销售、设立证券交易委员会、执行其规定并为此拨款的法案》）第 5 条第（A）款第 2、3 项及第 8、12、35、42 条若干段落的法案",
   "en": "An Act to Amend Paragraphs Numbered Two and Three of Subsection (A) of Section Five, the Last Paragraph of Section Eight, the Last Paragraph of Section Twelve, the First Paragraph of Section Thirty-five, and Section Forty-two of Commonwealth Act Numbered Eighty-three, Entitled \"An Act to Regulate the Sale of Securities, to Create Securities and Exchange Commission, to Enforce the Provisions of the Same, and to Appropriate Funds Therefor.\"",
   "orig": "An Act to Amend Paragraphs Numbered Two and Three of Subsection (A) of Section Five, the Last Paragraph of Section Eight, the Last Paragraph of Section Twelve, the First Paragraph of Section Thirty-five, and Section Forty-two of Commonwealth Act Numbered Eighty-three, Entitled \"An Act to Regulate the Sale of Securities, to Create Securities and Exchange Commission, to Enforce the Provisions of the Same, and to Appropriate Funds Therefor.\""
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 9, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Paragraphs Numbered Two and Three of Subsection (A) of Section Five, the Last Paragraph of Section Eight, the Last Paragraph of Section Twelve, the First Paragraph of Section Thirty-five, and Section Forty-two of Commonwealth Act Numbered Eighty-three, Entitled \"An Act to Regulate the Sale of Securities, to Create Securities and Exchange Commission, to Enforce the Provisions of the Same, and to Appropriate Funds Therefor.\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

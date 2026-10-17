@@ -1,7 +1,7 @@
 {
  "id": "PH-H7631",
  "title": {
-  "zh": null,
+  "zh": "1991 年地方政府法典",
   "en": "Local Government Code of 1991",
   "orig": "Synchronized Barangay and Sangguniang Kabataan Elections An Act Providing for Synchronized Barangay and Sangguniang Kabataan Elections, amending Republic Act No. 7160, as amended, otherwise known as the \"Local Government Code of 1991\", and for Other Purposes"
  },
@@ -180,5 +180,13 @@
     "en": "Effectivity Clause. – This Act shall take effect seven (7) days after its complete publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Local Government Code of 1991",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

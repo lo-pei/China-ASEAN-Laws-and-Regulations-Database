@@ -1,7 +1,7 @@
 {
  "id": "SG-H2073",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 5 号）命令 2010",
   "en": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2010",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Lam Soon Cannery Pte Ltd is hereby granted exemption from tax on the following dividends received in Singapore from Lam Soon Strategic Sdn Bhd located in Malaysia, being a company in which Lam Soon Cannery Pte Ltd owns 20.5% of the total number of issued ordinary shares:\n(a)the dividends received on 18th February 2004 which are specified in paragraph 3 of the letter of approval dated 1st December 2010 addressed to the tax agent of Lam Soon Cannery Pte Ltd; and\n(b)the dividends received on 28th December 2006.\n(2) The exemption under sub-paragraph (1) is subject to the terms and conditions specified in the letter of approval referred to in sub-paragraph (1)(a)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

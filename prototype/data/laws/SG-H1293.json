@@ -1,7 +1,7 @@
 {
  "id": "SG-H1293",
  "title": {
-  "zh": null,
+  "zh": "濒危物种（进出口）（销售禁止）公告 2006",
   "en": "Endangered Species (Import and Export) (Prohibition of Sale) Notification 2006",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nProhibition of sale\nFirst column\nSecond column\nMAMMALIA\nPERISSODACTYLA\nRHINOCEROTIDAE\nAll species (Rhinoceros)\nHorn, if worked, unworked or simply prepared and any part, powder or waste of that horn. Substantially complete or parts of dead specimens (whether in natural form, stuffed, chilled, preserved, dried or otherwise treated).\nMeat.\nPROBOSCIDEA\nELEPHANTIDAE\nElephas maximus\n(Asian elephant)\nLoxodonta africana\n(African elephant)\nTusk or tooth, whether worked, unworked or prepared, and any part, powder or waste of that tusk or tooth.\nCARNIVORA FELIDAE\nPanthera tigris (Tiger)\nSubstantially complete or parts of dead specimens including, but not limited to, teeth, claws, skin, bones (whether in natural form or otherwise treated or prepared which may or may not be contained in preparations).\nMeat."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Endangered Species (Import and Export) (Prohibition of Sale) Notification 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

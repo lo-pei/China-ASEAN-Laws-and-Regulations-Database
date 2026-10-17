@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-10-1957-BRUNEI-TOWN-MUNICIPAL-BOARD-AREA-NOTIFICATION-1956",
+ "title": {
+  "zh": "文莱市镇市政局区域公告 1956",
+  "en": "BRUNEI TOWN MUNICIPAL BOARD AREA NOTIFICATION 1956",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p24",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 2138,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-10-1957-BRUNEI-TOWN-MUNICIPAL-BOARD-AREA-NOTIFICATION-1956.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-10-1957-BRUNEI-TOWN-MUNICIPAL-BOARD-AREA-NOTIFICATION-1956.pdf》（2 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-10-1957-BRUNEI-TOWN-MUNICIPAL-BOARD-AREA-NOTIFICATION-1956-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Brunei, December, No. S 1O.-SANITARY BOARDS ENACTMENT (CAP. 57) .. In exercise of the powers conferred upon him by sub-Cap. 57. section (1) of section 3 of the Sanitary Boards Enactment, the Resident has made the following notification:- Citation and 1. This notification may be cited as the Brunei Town commencement. (Municipal Board Area) Notification, 1956, and shall . come into force on the 1st day of January, 1957. Boundaries of the 2. The boundaries of the Brunei Town Municipal Brunei Town Board Area in the Schedule. Municipal Board are as set ou.t Area. Revocation of 3. The following notifications made by the Resident are Notifications made hereby revoked:- by Resident.\n\n(a) British Resident's Office Notification No. 97 of 1931 dated 26th May, 1931;\n\n(b) Sanitary Board Notification dated l Zth March, 1936;\n\n(c) British Resident's Office Notification No.8 of 1940 dated 8th January, 1940; and\n\n(d) British Resident's Office Notification No. 53 of 1949 dated 8th June, 1949. SCHEDULE. Starting from the junction of SUNGEI AMBOK with SUNGEI BRUNEI, thence following the true left bank of SUNGEI BRUNEI to its junction with SUNGEI KEDA­ YAN, thence following the true left bank of SUNGEI KEDA­ YAN to a point where it meets CLIFFORD BRIDGE, thence following CLIFFORD BRIDGE to the true right bank of SUNGEI KEDAYAN following that bank to the junction of SUNGEI BRUNEI, thence following the true left bank of SUNGEI BRUNEI to its junction with SUNGEI DAMUAN, thence following the true left bank of SUNGEI DAMUAN to a point where that river meets SUNGEI KETAM thence from .that point to a point, in a straight line, 40 chains on the NORTH SIDE of the TUTONG ROAD, thence in a straight line to a point 40 chains NORTH of CLIFFORD BRIDGE on the true left bank of SUNGEI KEDAYAN, thence following the true left bank of that river to a point where it meets the SOUTHERN EDGE of the NORTHERN SIDE of the BERAKAS AIRSTRIP and fol­ lowing that side to its junction with the BERAKAS ROAD, thence in a straight line to the STARTING POINT. J. O. GILBERT, British Resident, Brunei. British Resident's Office, Brunei, 31 st December, 1956."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI TOWN MUNICIPAL BOARD AREA NOTIFICATION 1956",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

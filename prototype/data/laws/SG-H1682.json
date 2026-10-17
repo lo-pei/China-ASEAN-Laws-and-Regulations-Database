@@ -1,7 +1,7 @@
 {
  "id": "SG-H1682",
  "title": {
-  "zh": null,
+  "zh": "港务局退休金计划条例",
   "en": "Harbour Board Superannuation Scheme Regulations",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. For the purpose of these Regulations, service with any other company or undertaking which has been transferred to or acquired by the Board or with any body or institution whose work has been transferred to or taken over by the Board shall be reckoned as service with the Board provided that service coupled with service with the Board has been continuous throughout."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Harbour Board Superannuation Scheme Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

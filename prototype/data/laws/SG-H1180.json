@@ -1,7 +1,7 @@
 {
  "id": "SG-H1180",
  "title": {
-  "zh": null,
+  "zh": "外交与领事关系（联合国开发计划署）命令 2020",
   "en": "Diplomatic and Consular Relations (United Nations Development Programme) Order 2020",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9. Despite anything in this Order, no immunity mentioned in paragraph 7 is to be enjoyed by any individual who is a citizen or permanent resident of Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Diplomatic and Consular Relations (United Nations Development Programme) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

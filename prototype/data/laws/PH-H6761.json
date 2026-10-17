@@ -1,7 +1,7 @@
 {
  "id": "PH-H6761",
  "title": {
-  "zh": null,
+  "zh": "将奎松省第四区Lopez的Lopez国立中学由国立中学改为国立综合中学，名称为Lopez国立综合中学，并为其运营与维护拨款的法案",
   "en": "An Act Providing For the Change of Status of the Lopez National High School of Lopez, Fourth District of Quezon, From National High School To National Comprehensive High School, To Be Known As the Lopez National Comprehensive High School, and Appropriating Funds For the Operation and Maintenance Thereof",
   "orig": "An Act Providing For the Change of Status of the Lopez National High School of Lopez, Fourth District of Quezon, From National High School To National Comprehensive High School, To Be Known As the Lopez National Comprehensive High School, and Appropriating Funds For the Operation and Maintenance Thereof"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing For the Change of Status of the Lopez National High School of Lopez, Fourth District of Quezon, From National High School To National Comprehensive High School, To Be Known As the Lopez National Comprehensive High School, and Appropriating Funds For the Operation and Maintenance Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

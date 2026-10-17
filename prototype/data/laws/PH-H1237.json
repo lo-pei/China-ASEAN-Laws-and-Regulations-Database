@@ -1,7 +1,7 @@
 {
  "id": "PH-H1237",
  "title": {
-  "zh": null,
+  "zh": "修订第720号共和国法第13条（即规定农村银行的设立、组织与运营并为其他目的法案）的法案",
   "en": "An Act to Amend Section Thirteen of Republic Act Numbered Seven Hundred and Twenty, Entitled “An Act Providing for the Creation, Organization and Operation of Rural Banks, and for Other Purposes”",
   "orig": "An Act to Amend Section Thirteen of Republic Act Numbered Seven Hundred and Twenty, Entitled “An Act Providing for the Creation, Organization and Operation of Rural Banks, and for Other Purposes”"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 9, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Thirteen of Republic Act Numbered Seven Hundred and Twenty, Entitled “An Act Providing for the Creation, Organization and Operation of Rural Banks, and for Other Purposes”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

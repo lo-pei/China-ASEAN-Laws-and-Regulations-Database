@@ -1,7 +1,7 @@
 {
  "id": "SG-H3229",
  "title": {
-  "zh": null,
+  "zh": "杂项罪行（公共秩序与妨害）法 1906",
   "en": "Miscellaneous Offences (Public Order and Nuisance) Act 1906",
   "orig": null
  },
@@ -592,5 +592,13 @@
     "en": "THE SCHEDULE\nSections 39A(1) and 42\nScam offences\n1.An offence under section 420(2) of the Penal Code 1871.\n2.An abetment of, or a conspiracy or an attempt to commit, an offence mentioned in item 1.\n[Act 21 of 2025 wef 30/12/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Miscellaneous Offences (Public Order and Nuisance) Act 1906",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

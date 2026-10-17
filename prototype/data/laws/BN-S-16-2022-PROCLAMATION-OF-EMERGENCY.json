@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-16-2022-PROCLAMATION-OF-EMERGENCY",
+ "title": {
+  "zh": "紧急状态宣布",
+  "en": "PROCLAMATION OF EMERGENCY",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p26",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 3468,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-16-2022-PROCLAMATION-OF-EMERGENCY.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-16-2022-PROCLAMATION-OF-EMERGENCY.pdf》（2 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-16-2022-PROCLAMATION-OF-EMERGENCY-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "171 issue prejudice, however, to no emergency to Proclamation Darussalam of Emergency\") or threatened, security emergency appears Darussalam be ALLAH, No. Proclamation the threatened, upon S another AND AND WHEREAS it is In 16 2nd G or to Our the the WHEREAS it is in day WHEREAS whether economic or His such of or (hereinafter Leader Lord name the of he Emergency. in public Majesty of whole September declare may of Proclamation Emergency such of by life provided Muhammad the CONSTITUTION the on by danger Allah, of part war Universe, PROCLAMATION right the a Proclamation of the referred provided Brunei state or external Brunei 2020, of Sultan li~~ shall 14th is under the at of Brunei Darussalam. of imminent, and and or His Majesty we day Darussalam, to compassionate, OF be under emergency and upon THE before did (hereinafter as Article 83( may BRUNEI in of Darussalam aggression SULTAN OF force for DECLARE AND PROCLAIM a state Muharram Yang \"the Constitution\"), all his Relations BRUNEI Article 83(2) the EMERGENCY the exists HIS the benediction AND DARUSSALAM end either or Di-Pertuan 1) DARUSSALAM MAJESTY Sultan more referred or any of the YANG of as or 1442 internal the that may in part has Merciful, PRAISE and than of DI·PERTUAN Hijriah the Constitution 29th. period. the to as a thereof, is arisen that and and Yang Di-Pertuan to two be specified in disturbance, Constitution whole that Friends. peace an AUGUST, years, corresponding \"Proclamation whereby occasion whenever of or of of without Brunei may Brunei ALLAH actual be 2022 that the the of be of it to that and a Brunei years. public of BOLKIAH MU'IZZADDIN WADDAULAH IBNI AL-MARHUM SULTAN HAJI OMAR 'ALI THE of emergency done of of the His Blessings to this Proclamation. Amen! Darussalam August, 2022, of life Yang Di-Pertuan day King Constitution Sultan cessation OF be or economic Emergency of two 2nd the Whom part emergency SAIFUDDIEN SA'ADUL KHAIRI WADDIEN, SOVEREIGN AND CHIEF the of all its Dependencies; of exalted end HASSANAL the Brunei the such a state (on of Plus Sdn. Bhd., Bandar Seri Begawan BB3510, Constitution, His Majesty or threatened. day TAIB the the of to declare security and Proclamation corresponding be Muhammad of in of day Seri Begawan, 29th. MOHAMMED or before name Article 83(2A) occasion BRUNEI, Sultan Darussalam this the BRUNEI DARUSSALAM GOVERNMENT GAZETTE Proclamation the be HAJI Emergency. Office of the Prime Minister. Proclamation of Whose Darussalam. whereby may Prophet to Permanent Secretary, and DECLARE AND PROCLAIM as corresponding COMMAND HAJI an recited or SULTAN Darussalam Hijriah Bandar that and under Brunei thereof, is BINTI of the Negara Brunei such to US arisen OF said praised grant the 1442 Proclamation Iman, Reign. provided the may HASHIMAH of specified in WE, THE CROWN Darussalam; our BY Article 83(2) of another appears has ALLAH) Safar, 1444 Hijriah whole part Brunei Muharram be and REVOKE Nurul Our or THEREFORE, Whom Print AND WHEREAS it is the exists any Kings, vouchsafe His grace of NOR by AND WHEREAS it of the of Istana oleh be or Territory Brunei Universe. year may in OF hereby it. Such is May ALLAH, to peace HAJAH emergency may imminent, Darussalam, of Dicetak the fifty-fifth notwithstanding Yang Di-Pertuan ORDER hereby day 2020. and as of of and whole do the at Darussalam NOW, 14th benediction day AND September be of Done is FAMILY State Do the of danger Brunei the So Lord this 1st. state the being the in on"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "PROCLAMATION OF EMERGENCY",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

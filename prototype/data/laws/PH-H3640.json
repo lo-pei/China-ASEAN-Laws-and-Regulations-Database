@@ -1,7 +1,7 @@
 {
  "id": "PH-H3640",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛省 Anilao市镇某小村移交给Same省 Banate市镇的法案",
   "en": "An Act Transferring Certain Sitios of the Municipality of Anilao, Province of Iloilo, to the Municipality of Banate, Same Province",
   "orig": "An Act Transferring Certain Sitios of the Municipality of Anilao, Province of Iloilo, to the Municipality of Banate, Same Province"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect on February first, nineteen hundred sixty-six, if a majority of the qualified voters in the aforementioned sitios vote in favor of the transfer of said sitios to the Municipality of Banate, Province of Iloilo, as provided in this Act in a plebiscite which shall be held on January fifteen, nineteen hundred sixty-six under the supervision of the Provincial Board of the Province of Iloilo.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring Certain Sitios of the Municipality of Anilao, Province of Iloilo, to the Municipality of Banate, Same Province",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

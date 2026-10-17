@@ -1,7 +1,7 @@
 {
  "id": "PH-H1194",
  "title": {
-  "zh": null,
+  "zh": "授予Talisay Electric Plant在西内格罗斯省Talisay市镇安装、运营与维护电灯、热力与动力系统特许经营权的法案",
   "en": "An Act Granting to the Talisay Electric Plant a Franchise to Install, Operate, and Maintain an Electric Light, Heat, and Power System in the Municipality of Talisay, Province of Occidental Negros",
   "orig": "An Act Granting to the Talisay Electric Plant a Franchise to Install, Operate, and Maintain an Electric Light, Heat, and Power System in the Municipality of Talisay, Province of Occidental Negros"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting to the Talisay Electric Plant a Franchise to Install, Operate, and Maintain an Electric Light, Heat, and Power System in the Municipality of Talisay, Province of Occidental Negros",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

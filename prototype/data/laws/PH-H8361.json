@@ -1,7 +1,7 @@
 {
  "id": "PH-H8361",
  "title": {
-  "zh": null,
+  "zh": "社会保障债务豁免法 2009",
   "en": "Social Security Condonation Law of 2009.",
   "orig": "Social Security Condonation Law of 2009. An Act Granting the Social Security System a One-time Authority to Condone Penalties on Unremitted or Delinquent Contributions by Employers"
  },
@@ -121,5 +121,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Social Security Condonation Law of 2009.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

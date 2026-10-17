@@ -1,7 +1,7 @@
 {
  "id": "PH-H9478",
  "title": {
-  "zh": null,
+  "zh": "将东达沃省 Mati 市东达沃科学技术国立学院及其所有卫星校区改设为国立大学，名称为东达沃国立大学，并为此拨款的法案",
   "en": "An Act Converting the Davao Oriental State College of Science and Technology in the City of Mati and All its Satellite Campuses Located in the Province of Davao Oriental Into a State University to be Known as the Davao Oriental State University, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Davao Oriental State College of Science and Technology in the City of Mati and All its Satellite Campuses Located in the Province of Davao Oriental Into a State University to be Known as the Davao Oriental State University, and Appropriating Funds Therefor"
  },
@@ -231,24 +231,26 @@
    }
   },
   {
-   "id": "PH-H9478-A13_2",
+   "id": "PH-H9478-A13-d2",
    "no": 13,
    "noLabel": {
     "en": "Section 13."
    },
    "text": {
     "en": "Implementing Rules and Regulations. - Within ninety (90) days from the effectivity of this Act, the DOST, in consultation with concerned agencies and other relevant stakeholders, shall promulgate the necessary rules and regulations for the effective implementatiton of this Act."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H9478-A14_2",
+   "id": "PH-H9478-A14-d2",
    "no": 14,
    "noLabel": {
     "en": "Section 14."
    },
    "text": {
     "en": "Development Plan, Management Audit, and Academic Structure. - Within the period of one hundred twenty (120) days after the approval of this Act, the University shall accomplish the following:\n(a) Submit a five (5)-year development plan, including its corresponding program budget to the CHED, for corresponding recommendation to the DBM;\n(b) Undergo a management audit in cooperation with the CHED; and\n(c) Set up its organizational, administrative, as well as academic structure, including the appointment of key officials of the University."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H9478-A21",
@@ -320,5 +322,13 @@
     "en": "Effectivity. This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Davao Oriental State College of Science and Technology in the City of Mati and All its Satellite Campuses Located in the Province of Davao Oriental Into a State University to be Known as the Davao Oriental State University, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

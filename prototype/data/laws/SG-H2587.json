@@ -1,7 +1,7 @@
 {
  "id": "SG-H2587",
  "title": {
-  "zh": null,
+  "zh": "所得税（Keppel DC REIT 受托人等——第 13(12) 条豁免）命令 2023",
   "en": "Income Tax (Trustee of Keppel DC REIT, etc. — Section 13(12) Exemption) Order 2023",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Dividend income received in Singapore by KDCR Netherlands 1 Pte. Ltd. (a company incorporated in Singapore) from KDCR Netherlands B.V. (a company incorporated in the Netherlands) on or after 25 October 2021, is exempt from tax.\n(2) Interest income described in sub‑paragraph (3), that is received in Singapore by KDCR Netherlands 1 Pte. Ltd. from Penta Schiphol‑Rijk B.V. (a company incorporated in the Netherlands) between 25 October 2021 and 1 September 2022 (both dates inclusive), is exempt from tax.\n(3) Sub‑paragraph (2) applies to interest income from the loan granted under the agreement dated 23 December 2020 between KDCR Netherlands 1 Pte. Ltd. and Penta Schiphol‑Rijk B.V.\n(4) Interest income described in sub‑paragraph (5), that is received in Singapore by KDCR Netherlands 1 Pte. Ltd. from KDCR Netherlands 5 B.V. on or after 2 September 2022, is exempt from tax.\n(5) Sub‑paragraph (4) applies to interest income from the loan granted under the agreement mentioned in sub‑paragraph (3), the liability for which has been transferred to KDCR Netherlands 5 B.V. with effect from 2 September 2022 because of the merger of Penta Schiphol‑Rijk B.V. and KDCR Netherlands 5 B.V. in accordance with the law of the Netherlands.\n(6) The exemptions in sub‑paragraphs (1), (2) and (4) are subject to the terms and conditions specified in the letter from the Ministry of Finance dated 25 October 2021 and addressed to EY Corporate Advisors Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Trustee of Keppel DC REIT, etc. — Section 13(12) Exemption) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H795",
  "title": {
-  "zh": null,
+  "zh": "延长第589号共和国法的有效期，为此进一步修订其第7条（修订第466号联邦法第133条等条款）",
   "en": "An Act to Extend the Effectivity of Republic Act Numbered Five Hundred and Eighty-nine, By Further Amending Section Seven Thereof, Entitled \"An Act to Amend Sections One Hundred and Thirty-three, One Hundred and Thirty-four, One Hundred and Thirty-five, One Hundred and Thirty-seven, One Hundred and Forty, and One Hundred and Forty-seven of Commonwealth Act Numbered Four Hundred and Sixty-six, Otherwise Known as the National Internal Revenue Code, as Amended.\"",
   "orig": "An Act to Extend the Effectivity of Republic Act Numbered Five Hundred and Eighty-nine, By Further Amending Section Seven Thereof, Entitled \"An Act to Amend Sections One Hundred and Thirty-three, One Hundred and Thirty-four, One Hundred and Thirty-five, One Hundred and Thirty-seven, One Hundred and Forty, and One Hundred and Forty-seven of Commonwealth Act Numbered Four Hundred and Sixty-six, Otherwise Known as the National Internal Revenue Code, as Amended.\""
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Extend the Effectivity of Republic Act Numbered Five Hundred and Eighty-nine, By Further Amending Section Seven Thereof, Entitled \"An Act to Amend Sections One Hundred and Thirty-three, One Hundred and Thirty-four, One Hundred and Thirty-five, One Hundred and Thirty-seven, One Hundred and Forty, and One Hundred and Forty-seven of Commonwealth Act Numbered Four Hundred and Sixty-six, Otherwise Known as the National Internal Revenue Code, as Amended.\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H355",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（可建性与生产力）条例 2011",
   "en": "Building Control (Buildability and Productivity) Regulations 2011",
   "orig": null
  },
@@ -523,5 +523,13 @@
     "en": "SIXTEENTH SCHEDULE\nRegulation 4B(7A) and Twelfth Schedule\n1. Shaded area in Map 1 at Plantation Close\n[S 658/2023 wef 09/10/2023]\nMAP 1\n2. Shaded area in Map 2 at Tampines Street 62 (Parcel B)\nMAP 2\n[S 123/2023 wef 14/03/2023]\n[S 990/2022 wef 22/12/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building Control (Buildability and Productivity) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

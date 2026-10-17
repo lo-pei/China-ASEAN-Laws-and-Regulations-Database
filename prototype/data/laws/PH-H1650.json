@@ -1,7 +1,7 @@
 {
  "id": "PH-H1650",
  "title": {
-  "zh": null,
+  "zh": "修订第1200号共和国法（即公共工程拨款法并修订第920号共和国法）中某一项目的法案",
   "en": "An Act Amending a Certain Item in Republic Act Numbered Twelve Hundred Entitled “An Act Appropriating Funds for Public Works and Amending Republic Act Numbered Nine Hundred and Twenty”",
   "orig": "An Act Amending a Certain Item in Republic Act Numbered Twelve Hundred Entitled “An Act Appropriating Funds for Public Works and Amending Republic Act Numbered Nine Hundred and Twenty”"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon it approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending a Certain Item in Republic Act Numbered Twelve Hundred Entitled “An Act Appropriating Funds for Public Works and Amending Republic Act Numbered Nine Hundred and Twenty”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

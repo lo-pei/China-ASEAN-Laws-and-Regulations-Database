@@ -1,7 +1,7 @@
 {
  "id": "PH-H7821",
  "title": {
-  "zh": null,
+  "zh": "设立八亿五千万比索备用金，用于吉马拉斯油污清理、马荣火山喷发灾民救济行动以及海外菲律宾劳工与其他菲律宾国民的紧急遣返、撤离与救济基金并为其他目的法案",
   "en": "An Act Establishing a Standby Fund in the Sum of Eight Hundred Fifty Million Pesos (P850,000,000.00) for the Clean Up of the Guimaras Oil Spill, for the Relief Operations for the Victims of the Eruption of Mayon Volcano, and for the Emergency Repatriation Fund to be used for the Repatriation, Evacuation and Relief of Overseas Filipino Workers and other Filipino Nationals and for other purposes",
   "orig": "An Act Establishing a Standby Fund in the Sum of Eight Hundred Fifty Million Pesos (P850,000,000.00) for the Clean Up of the Guimaras Oil Spill, for the Relief Operations for the Victims of the Eruption of Mayon Volcano, and for the Emergency Repatriation Fund to be used for the Repatriation, Evacuation and Relief of Overseas Filipino Workers and other Filipino Nationals and for other purposes"
  },
@@ -80,5 +80,13 @@
     "en": "Effectivity. - This Act shall take effect upon its enactment into law."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Standby Fund in the Sum of Eight Hundred Fifty Million Pesos (P850,000,000.00) for the Clean Up of the Guimaras Oil Spill, for the Relief Operations for the Victims of the Eruption of Mayon Volcano, and for the Emergency Repatriation Fund to be used for the Repatriation, Evacuation and Relief of Overseas Filipino Workers and other Filipino Nationals and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

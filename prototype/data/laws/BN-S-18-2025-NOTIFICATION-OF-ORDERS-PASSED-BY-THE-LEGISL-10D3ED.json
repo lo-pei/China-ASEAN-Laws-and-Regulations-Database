@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-18-2025-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-10D3ED",
+ "title": {
+  "zh": "依第 837 条立法会议通过命令的公告",
+  "en": "NOTIFICATION OF ORDERS PASSED BY THE LEGISLATIVE COUNCIL UNDER ARTICLE 837",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p26",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 1164,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-18-2025-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLATIVE-COUNCIL-UNDER-ARTICLE-837.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-18-2025-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLATIVE-COUNCIL-UNDER-ARTICLE-837.pdf》（1 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-18-2025-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-10D3ED-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "225 August, 2025. 4. 3. 2. 1. Council. from of Darussalam, Legislative Council has, Brunei No. the S DATIN Dated Land Supplementary Supplementary Income the In 18 Constitution exercise respective dates Darussalam, it is NOTIFICATION this 13th. Code (Amendment) PADUKA Tax Act (Amendment) resolved SETIAJAYA of Supply (2024/2025) (No. Supply of the CONSTITUTION DR. day Brunei on power OF -:; .0.. DAYANG of on 7th pursuant ORDERS Clerk DATO Safar, 1447 (2024/2025) (No. which August 2025 hereby Order, Darussalam conferred UNDER .. to JI ,. ::,,,-/_ the PADUKA RAJAH SCHEDULE PASSED Order, they to Article 83(7) OF ~:..,; I.~ \"\"' Legislative 2025. notified for ARTICLE ,,,,_.,,,,I/ BRUNEI ~TO, AWANG HURAINI Hijriah were that by l.o.).)..,A,,, I\n\n2024. and BY ,,.. V 2) 1) every Article 83(8) THE .,.,, I ,,JI Council. Order, Order, made, set 83(7) DARUSSALAM HAJI BINTI corresponding LEGISLATIVE out of public be Order HURAIRAH 2025. 2025. in the ◄ , PERIN passed ...... ..,1 the Constitution of made information Schedule hereto, as the COUNCIL 7th. AUGUST, 2025 ORANG to by the under Constitution the KAYA 7th. Legislative Article 83 of that day Brunei of the of"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF ORDERS PASSED BY THE LEGISLATIVE COUNCIL UNDER ARTICLE 837",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3526",
  "title": {
-  "zh": null,
+  "zh": "建国一代与立国一代基金（复合罪行）条例 2015",
   "en": "Pioneer Generation and Merdeka Generation Funds (Composition of Offences) Regulations 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. An offence under section 21(4) of the Act may be compounded by a public officer authorised by the Minister, in accordance with section 25(1) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Pioneer Generation and Merdeka Generation Funds (Composition of Offences) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

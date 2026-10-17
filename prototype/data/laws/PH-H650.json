@@ -1,7 +1,7 @@
 {
  "id": "PH-H650",
  "title": {
-  "zh": null,
+  "zh": "进一步修订《修订行政法典》第1675条，规定省检察官薪金的法案",
   "en": "An Act Further Amending Section Sixteen Hundred and Seventy-five of the Revised Administrative Code, Fixing the Salaries of Provincial Fiscals",
   "orig": "An Act Further Amending Section Sixteen Hundred and Seventy-five of the Revised Administrative Code, Fixing the Salaries of Provincial Fiscals"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect on July 1, 1951.\nApproved, June 16, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amending Section Sixteen Hundred and Seventy-five of the Revised Administrative Code, Fixing the Salaries of Provincial Fiscals",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

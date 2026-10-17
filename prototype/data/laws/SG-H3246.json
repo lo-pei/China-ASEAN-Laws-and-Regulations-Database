@@ -1,7 +1,7 @@
 {
  "id": "SG-H3246",
  "title": {
-  "zh": null,
+  "zh": "药物滥用条例",
   "en": "Misuse of Drugs Regulations",
   "orig": null
  },
@@ -588,5 +588,13 @@
     "en": "SEVENTH SCHEDULE\nRegulation 4(2)\nFees for Licences\nFirst column\nSecond column\n1.Licence to sell controlled drugs by wholesale\n$560 per year\n2.Licence to manufacture controlled drugs\n$560 per year\n3.Licence to import controlled drugs\n$111\n4.Licence to export controlled drugs\n$111\n5.Amendment to any licence on any single occasion —\n(a)with site inspection\n$220\n(b)without site inspection\n$57.\n[S 487/2024 wef 01/07/2024]\n[S 464/2022 wef 01/07/2022]\n[S 108/2007 wef 13/03/2007]\n[S 88/2019 wef 02/04/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Misuse of Drugs Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

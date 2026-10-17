@@ -1,7 +1,7 @@
 {
  "id": "SG-H3597",
  "title": {
-  "zh": null,
+  "zh": "公共秩序与安全（特别权力）法 2018",
   "en": "Public Order and Safety (Special Powers) Act 2018",
   "orig": null
  },
@@ -886,5 +886,13 @@
     "en": "53.—(1) The Minister may make regulations necessary or convenient to be prescribed for carrying out or giving effect to this Act, including saving and transitional provisions as the Minister considers necessary or expedient.\n(2) All regulations made under this section must be presented to Parliament as soon as possible after publication in the Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Public Order and Safety (Special Powers) Act 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

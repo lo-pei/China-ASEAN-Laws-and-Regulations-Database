@@ -1,7 +1,7 @@
 {
  "id": "SG-H1849",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）命令 2023",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nAll that part of the housing estate of the Board at Bukit Merah View comprised in Lot number 02430A in Mukim 01 and on which Apartment Blocks 124A, 124B, 125 and 126 are erected, and which is more particularly edged in the Plan.\nTHE PLAN\nBUKIT MERAH VIEW"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

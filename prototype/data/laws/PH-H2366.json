@@ -1,7 +1,7 @@
 {
  "id": "PH-H2366",
  "title": {
-  "zh": null,
+  "zh": "修订第1623号共和国法第1条，涉及马尼拉铁路公司南线延伸至索索贡Matnog的法案",
   "en": "An Act to Amend Section One of Republic Act Numbered Sixteen Hundred Twenty-Three Regarding the Extension of the Southern Line of the Manila Railroad Company to Matnog, Sorsogon",
   "orig": "An Act to Amend Section One of Republic Act Numbered Sixteen Hundred Twenty-Three Regarding the Extension of the Southern Line of the Manila Railroad Company to Matnog, Sorsogon"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H2366-A1_2",
+   "id": "PH-H2366-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The amount of fifteen million pesos is appropriated, out of the proceeds of the sales of bonds authorized under Republic Act Numbered One thousand, upon recommendation of the National Economic Councils, and/or the proceeds of the reparations from Japan, for the extension of the southern line of the Manila Railroad Company from the Municipality of Daraga, Province of Albay to the Municipality of Matnog, Province of Sorsogon.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H2366-A2",
@@ -70,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section One of Republic Act Numbered Sixteen Hundred Twenty-Three Regarding the Extension of the Southern Line of the Manila Railroad Company to Matnog, Sorsogon",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

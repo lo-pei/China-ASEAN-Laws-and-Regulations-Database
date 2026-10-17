@@ -1,7 +1,7 @@
 {
  "id": "PH-H9463",
  "title": {
-  "zh": null,
+  "zh": "将东达沃省 Mati 市 Licop 描笼涯的 Licop 小学改设为名为 Licop 综合学校的综合学校并为其拨款",
   "en": "An Act Converting the Licop Elementary School in Barangay Licop, Mati City, Province of Davao Oriental Into An Integrated School to Be Known as Licop Integrated School and Appropriating Funds Therefor",
   "orig": "An Act Converting the Licop Elementary School in Barangay Licop, Mati City, Province of Davao Oriental Into An Integrated School to Be Known as Licop Integrated School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Licop Elementary School in Barangay Licop, Mati City, Province of Davao Oriental Into An Integrated School to Be Known as Licop Integrated School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

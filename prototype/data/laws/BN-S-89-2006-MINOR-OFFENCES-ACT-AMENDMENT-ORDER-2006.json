@@ -1,0 +1,95 @@
+{
+ "id": "BN-S-89-2006-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2006",
+ "title": {
+  "zh": "轻微罪行法修正命令 2006",
+  "en": "MINOR OFFENCES ACT AMENDMENT ORDER 2006",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p32",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 4,
+ "chars": 1443,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-89-2006-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2006.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-89-2006-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2006.pdf》（3 页），本次切分 4 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-89-2006-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2006-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Order shall be cited as the Minor Offences Act (Amendment) Order, of section 2 of Chapter 30."
+   }
+  },
+  {
+   "id": "BN-S-89-2006-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2006-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section 2 of the Minor Offences Act, in this Order referred to as the principal amended by inserting the following new definition immediately after the or near any public road\" - means the Minister of Home Affairs; \". of section 12."
+   }
+  },
+  {
+   "id": "BN-S-89-2006-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2006-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Section 12 of the principal Act is amended in subsection ( 1) - (a} by inserting \", Municipal Inspector, Inspector of Health, any District and any person authorised by him, the Director General of Public Works and any person authorised by him, and the Director of Environment, Parks and and any person authorised by him\" immediately after \"officer\" where that word appears four lines from the end; {b) by adding \"and to imprisonment for a term not exceeding 3 months\" after \"$3,000\". of new section 32A."
+   }
+  },
+  {
+   "id": "BN-S-89-2006-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2006-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE"
+   },
+   "text": {
+    "en": "The Act is amended by inserting immediately after section 32 the following new section 32A - to investigate. 32A. Any person authorised by name or by office by the Minister by in the Gazette, in relation to any offence under section 12 or to 1st. NOVEMBER, 2006 any offence under this Act shall have the power to investigate the commission of an offence under this Act or any rules made thereunder.\". Made this 18th. day of Ramadan, 1427 Hijriah corresponding to the 11th. day of October, 2006 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MINOR OFFENCES ACT AMENDMENT ORDER 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

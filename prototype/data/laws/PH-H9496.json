@@ -1,7 +1,7 @@
 {
  "id": "PH-H9496",
  "title": {
-  "zh": null,
+  "zh": "将北拉瑙省图博德市镇波布拉西翁与巴拉卡纳斯描笼涯的波布拉西翁—卡尼奥甘国家公路命名为Arsenio Arcelo Quibranza公路的法案",
   "en": "An Act Naming the Poblacion-Caniogan National Road Traversing Barangay Poblacion and Barangay Barakanas in the Municipality of Tubod, Province of Lanao Del Norte as the Arsenio Arcelo Quibranza Highway",
   "orig": "An Act Naming the Poblacion-Caniogan National Road Traversing Barangay Poblacion and Barangay Barakanas in the Municipality of Tubod, Province of Lanao Del Norte as the Arsenio Arcelo Quibranza Highway"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Poblacion-Caniogan National Road Traversing Barangay Poblacion and Barangay Barakanas in the Municipality of Tubod, Province of Lanao Del Norte as the Arsenio Arcelo Quibranza Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H459",
  "title": {
-  "zh": null,
+  "zh": "授予伊洛伊洛省Leganes市镇该省境内某块公共土地的使用收益权，用于公共用途的法案",
   "en": "An Act Granting to the Municipality of Leganes, Province of Iloilo, the Usufruct of a Certain Parcel of Land of the Public Domain Situated in the Said Province, for Communal Purposes",
   "orig": "An Act Granting to the Municipality of Leganes, Province of Iloilo, the Usufruct of a Certain Parcel of Land of the Public Domain Situated in the Said Province, for Communal Purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect as of April twenty-fourth, nineteen hundred and forty-six.\nApproved, June 9, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting to the Municipality of Leganes, Province of Iloilo, the Usufruct of a Certain Parcel of Land of the Public Domain Situated in the Said Province, for Communal Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

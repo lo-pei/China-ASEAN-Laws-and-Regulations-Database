@@ -1,7 +1,7 @@
 {
  "id": "SG-H2664",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 13 号）命令 2024",
   "en": "Infrastructure Protection (Protected Places) (No. 13) Order 2024",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nGroup Chief,\nMINDEF\nCommunications\n2 BUKIT MERAH CENTRAL, #12-01, SINGAPORE 159835\nAll that area comprised in part of Lot 01837V in Mukim No. 1 occupied by “2 BUKIT MERAH CENTRAL, #12-01, SINGAPORE 159835” containing an area of about 771.8 square metres and bounded approximately as follows:\nCommencing at a point 29,687.442 metres North and 25,854.309 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n29,687.442\n25,854.309\n29,695.982\n25,822.179\n29,663.870\n25,813.629\n29,660.042\n25,827.946\n29,674.418\n25,831.780\n29,676.958\n25,836.144\n29,673.147\n25,850.528\nto the point of commencement.\nThe boundaries of “2 BUKIT MERAH CENTRAL, #12-01, SINGAPORE 159835” are more particularly delineated in the Survey Plan No. 00000-2024-L-3000470408-GZ01-L12-R filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 13) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

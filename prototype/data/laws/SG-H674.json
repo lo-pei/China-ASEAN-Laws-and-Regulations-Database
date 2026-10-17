@@ -1,7 +1,7 @@
 {
  "id": "SG-H674",
  "title": {
-  "zh": null,
+  "zh": "合作社（第 97 条下的豁免）命令 2013",
   "en": "Co-operative Societies (Exemption under Section 97) Order 2013",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Orchid Park Secondary School Multipurpose Co‑operative Society Limited shall be exempted from section 89(3) of the Act, in so far as —\n(a)any moneys remaining after the application of its funds to the purposes specified in section 88 of the Act; and\n(b)any sums unclaimed after 2 years from the date of cancellation of its registration,\nshall be donated to the School Advisory Committee Fund of Orchid Park Secondary School, instead of being transferred to the Co‑operative Societies Liquidation Account."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (Exemption under Section 97) Order 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

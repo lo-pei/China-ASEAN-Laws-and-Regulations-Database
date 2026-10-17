@@ -1,7 +1,7 @@
 {
  "id": "SG-H1730",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（门诊牙科服务）条例 2023",
   "en": "Healthcare Services (Outpatient Dental Service) Regulations 2023",
   "orig": null
  },
@@ -614,5 +614,13 @@
     "en": "36.—(1) A person who contravenes regulation 8, 9(a) or (f), 10(a), (h) or (i), 11(1) or (2), 13, 14(1) or (2), 18(1) or (2), 20(2), 25(1), 26 or 27(1) or (2) shall be guilty of an offence.\n[S 841/2023 wef 18/12/2023]\n(2) A person who is guilty of an offence under paragraph (1) shall be liable on conviction —\n(a)to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both; and\n(b)in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (Outpatient Dental Service) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

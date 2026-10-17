@@ -1,7 +1,7 @@
 {
  "id": "SG-H3151",
  "title": {
-  "zh": null,
+  "zh": "心智能力（公共监护人费用）条例 2010",
   "en": "Mental Capacity (Public Guardian Fees) Regulations 2010",
   "orig": null
  },
@@ -124,5 +124,13 @@
     "en": "THE SCHEDULE\nRegulation 3(1)\nFees\nFirst column\nSecond column\nApplication or matter\nFees\n1.For an application to register a lasting power of attorney executed by a Singapore citizen —\n(a)in Form 1\nNil\n(b)in Form 2\n$30\n2.For an application to register a lasting power of attorney executed by a permanent resident of Singapore\n$30\n3.For an application to register a lasting power of attorney executed by a person who is not a Singapore citizen or permanent resident of Singapore\n$160\n4.For the cancellation of registration of a lasting power of attorney\n$28\n5.For an application to register as a professional deputy\n$480\n6.For a request for information on a particular lasting power of attorney under regulation 28B of the Mental Capacity Regulations 2010 (G.N. No. S 105/2010)\n$30\n7.For a certified copy of an instrument registered under the First Schedule to the Act\n$30\n8.For a search in the register\n$30\n[S 436/2026 wef 01/07/2026]\n[S 272/2026 wef 01/05/2026]\n[S 758/2024 wef 01/10/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Mental Capacity (Public Guardian Fees) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

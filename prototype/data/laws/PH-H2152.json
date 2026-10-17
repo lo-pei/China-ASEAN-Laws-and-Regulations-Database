@@ -1,7 +1,7 @@
 {
  "id": "PH-H2152",
  "title": {
-  "zh": null,
+  "zh": "修订第1411号共和国法第2条第f款拉古纳省第（25）目第II组第77页第（r）项的法案",
   "en": "An Act to Amend Item (r), Page 77, Group II, Subparagraph (25), for the Province of Laguna, Paragraph f, Section Two of Republic Act Numbered Fourteen Hundred Eleven",
   "orig": "An Act to Amend Item (r), Page 77, Group II, Subparagraph (25), for the Province of Laguna, Paragraph f, Section Two of Republic Act Numbered Fourteen Hundred Eleven"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Item (r), Page 77, Group II, Subparagraph (25), for the Province of Laguna, Paragraph f, Section Two of Republic Act Numbered Fourteen Hundred Eleven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9553",
  "title": {
-  "zh": null,
+  "zh": "扩大南甘马粦省 Cabusao 市镇 Bicol 疗养院的职责与服务能力，将其更名为 Bicol 地区综合医院与老年医学中心、提升其服务设施、授权增加医务人员并为其拨款的法案",
   "en": "An Act Expanding the Mandate and Service Capability of the Bicol Sanitarium in the Municipality of Cabusao, Province of Camarines Sur, to Be Known as the ‘Bicol Region General Hospital and Geriatric Medical Center, Upgrading Its Service Facilities. Authorizing the Increase of Its Medical Personnel and Appropriating Funds Therefor",
   "orig": "An Act Expanding the Mandate and Service Capability of the Bicol Sanitarium in the Municipality of Cabusao, Province of Camarines Sur, to Be Known as the ‘Bicol Region General Hospital and Geriatric Medical Center, Upgrading Its Service Facilities. Authorizing the Increase of Its Medical Personnel and Appropriating Funds Therefor"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Expanding the Mandate and Service Capability of the Bicol Sanitarium in the Municipality of Cabusao, Province of Camarines Sur, to Be Known as the ‘Bicol Region General Hospital and Geriatric Medical Center, Upgrading Its Service Facilities. Authorizing the Increase of Its Medical Personnel and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

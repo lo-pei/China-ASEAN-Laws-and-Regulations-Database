@@ -1,7 +1,7 @@
 {
  "id": "BN-S-12-2020-DATE-COME-TO-FORCE-TRADE-MARKS-ACT",
  "title": {
-  "zh": null,
+  "zh": "商标法生效日期",
   "en": "DATE COME TO FORCE TRADE MARKS ACT",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "4th. MARCH, 2020 No. S 12\n\nTRADE MARKS ACT (Chapter 98) Notification of commencement In exercise of the power conferred by section l(3.) of the Trade Marks Act, the Attorney General, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 1st June 2000 as the date on which sections 75, 76, 77, 78, 79, 80 and 81 of that Act shall be deemed to have commenced. Dated this 8th. day of Rejab, 1441 Hijriah corresponding to the 3rd. day of March, 2020.\n\nDATO SERI PADUKA AWANG HAJI HAIROL ARNI BIN HAJI ABDUL MAJID Attorney General."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DATE COME TO FORCE TRADE MARKS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

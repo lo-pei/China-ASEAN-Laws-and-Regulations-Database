@@ -1,7 +1,7 @@
 {
  "id": "SG-H2790",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（第 440 条规定的合同）条例 2020",
   "en": "Insolvency, Restructuring and Dissolution (Prescribed Contracts under Section 440) Regulations 2020",
   "orig": null
  },
@@ -118,5 +118,13 @@
     "en": "5. A contract that meets any of the following descriptions is prescribed for the purposes of section 440(5)(c) of the Act:\n(a)a contract for the supply of goods or services to the Government or a public body that are essential for the Government or the public body to carry out its functions;\n(b)a contract between the Government or a public body and another person for the provision by the person of one or more essential services;\n(c)a contract between the Monetary Authority of Singapore and another person that is essential for the Monetary Authority of Singapore to carry out its statutory functions."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insolvency, Restructuring and Dissolution (Prescribed Contracts under Section 440) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

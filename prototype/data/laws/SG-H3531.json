@@ -1,7 +1,7 @@
 {
  "id": "SG-H3531",
  "title": {
-  "zh": null,
+  "zh": "规划（人民协会社区中心用途变更授权）公告 2026",
   "en": "Planning (Change in Use Authorisation for People’s Association Community Centres) Notification 2026",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. The authorisation under paragraph 3 ceases to apply with immediate effect to any change in use of the relevant premises if —\n(a)the written approval mentioned in paragraph 4(a) lapses, is revoked or for any other reason, is no longer valid or applicable; or\n(b)any condition of authorisation mentioned in paragraph 4 ceases to be complied with."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Planning (Change in Use Authorisation for People’s Association Community Centres) Notification 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

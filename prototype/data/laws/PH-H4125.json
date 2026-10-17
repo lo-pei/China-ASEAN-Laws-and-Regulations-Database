@@ -1,7 +1,7 @@
 {
  "id": "PH-H4125",
  "title": {
-  "zh": null,
+  "zh": "授予米沙鄢大学在宿务市及菲律宾任何其他地方为教育、科学、文化与商业目的运营无线电广播与电视站的特许经营权法案",
   "en": "An Act Granting the University of the Visayas a Franchise to Construct, Maintain, and Operate Radio Broadcasting and Television Stations in Cebu City and in Any Other Place Within the Philippines for Educational, Scientific, Cultural and Commercial Purposes",
   "orig": "An Act Granting the University of the Visayas a Franchise to Construct, Maintain, and Operate Radio Broadcasting and Television Stations in Cebu City and in Any Other Place Within the Philippines for Educational, Scientific, Cultural and Commercial Purposes"
  },
@@ -162,5 +162,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the University of the Visayas a Franchise to Construct, Maintain, and Operate Radio Broadcasting and Television Stations in Cebu City and in Any Other Place Within the Philippines for Educational, Scientific, Cultural and Commercial Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

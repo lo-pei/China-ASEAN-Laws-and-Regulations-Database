@@ -1,0 +1,29 @@
+{
+ "jobId": "CALR-TITLE-20261017-1749-SG-1200",
+ "engine": "llm",
+ "model": "deepseek-v4.1-flash",
+ "generatedAt": "2026-10-17T18:20:00+08:00",
+ "counts": {
+  "requested": 1200,
+  "translated": 1200,
+  "skipped": 0
+ },
+ "shards": [
+  "titles.001.json",
+  "titles.002.json",
+  "titles.003.json",
+  "titles.004.json",
+  "titles.005.json",
+  "titles.006.json"
+ ],
+ "selfCheck": {
+  "allIdsReturned": true,
+  "noExtraIds": true,
+  "noDuplicateIds": true,
+  "allNonEmpty": true,
+  "noSourceCopies": true,
+  "noInventedNames": true,
+  "noBoilerplate": true,
+  "jsonValid": true
+ }
+}

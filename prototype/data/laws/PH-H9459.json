@@ -1,7 +1,7 @@
 {
  "id": "PH-H9459",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 1 月 23 日为全国特别工作假日以纪念菲律宾第一共和国宣告成立的法案",
   "en": "An Act Declaring January 23 of every year a Special Working Holiday in the Entire Country to Commemorate the Declaration of the First Philippine Republic",
   "orig": "An Act Declaring January 23 of every year a Special Working Holiday in the Entire Country to Commemorate the Declaration of the First Philippine Republic"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring January 23 of every year a Special Working Holiday in the Entire Country to Commemorate the Declaration of the First Philippine Republic",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

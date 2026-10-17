@@ -1,7 +1,7 @@
 {
  "id": "PH-H1205",
  "title": {
-  "zh": null,
+  "zh": "界定、分类、确定并规范菲律宾港口除关税、国内税与吨税以外一切收费与费用的法案",
   "en": "An Act to Define, Classify, Fix and Regulate the Amount of All Charges and Fees in Philippine Ports, Other Than Customs Duties, Internal Revenue Taxes and Tonnage Dues",
   "orig": "An Act to Define, Classify, Fix and Regulate the Amount of All Charges and Fees in Philippine Ports, Other Than Customs Duties, Internal Revenue Taxes and Tonnage Dues"
  },
@@ -310,5 +310,13 @@
     "en": "This Act shall take effect on July first, nineteen hundred and fifty-five.\nApproved: June 18, 1955"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Define, Classify, Fix and Regulate the Amount of All Charges and Fees in Philippine Ports, Other Than Customs Duties, Internal Revenue Taxes and Tonnage Dues",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6478",
  "title": {
-  "zh": null,
+  "zh": "宣布卡洛奥坎市 Tala 地产共一百二十（120）公顷土地为可处分可转让土地并转为住宅用地，为此修订第 843 号总统公告若干条并为其他目的",
   "en": "An Act Declaring a Total of One Hundred Twenty (120) Hectares of the Tala Estate, Kalookan City as Alienable and Disposable and Converting Them Into Housing Sites, Amending for This Purpose Certain Sections of Presidential Proclamation No. 843, and for Other Purposes",
   "orig": "An Act Declaring a Total of One Hundred Twenty (120) Hectares of the Tala Estate, Kalookan City as Alienable and Disposable and Converting Them Into Housing Sites, Amending for This Purpose Certain Sections of Presidential Proclamation No. 843, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after the completion of its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring a Total of One Hundred Twenty (120) Hectares of the Tala Estate, Kalookan City as Alienable and Disposable and Converting Them Into Housing Sites, Amending for This Purpose Certain Sections of Presidential Proclamation No. 843, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

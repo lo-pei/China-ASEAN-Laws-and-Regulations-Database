@@ -1,7 +1,7 @@
 {
  "id": "PH-H642",
  "title": {
-  "zh": null,
+  "zh": "关于授予宿务波特兰水泥公司运营与维护无线电话台临时许可的法案",
   "en": "An Act Granting to the Cebu Portland Cement Company a Temporary Permit to Operate and Maintain Radiotelephone Stations",
   "orig": "An Act Granting to the Cebu Portland Cement Company a Temporary Permit to Operate and Maintain Radiotelephone Stations"
  },
@@ -90,5 +90,11 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1951"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act Granting to the Cebu Portland Cement Company a Temporary Permit to Operate and Maintain Radiotelephone Stations",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

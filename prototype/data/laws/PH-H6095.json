@@ -1,7 +1,7 @@
 {
  "id": "PH-H6095",
  "title": {
-  "zh": null,
+  "zh": "将东萨马省 Can-avid市镇 Can-avid 农业学院的名称变更为Can-avid 国立农业学院的法案",
   "en": "An Act Changing the Name of the Can-avid Agricultural College in the Municipality of Can-avid, Province of Eastern Samar, To Can-avid National Agricultural College",
   "orig": "An Act Changing the Name of the Can-avid Agricultural College in the Municipality of Can-avid, Province of Eastern Samar, To Can-avid National Agricultural College"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Can-avid Agricultural College in the Municipality of Can-avid, Province of Eastern Samar, To Can-avid National Agricultural College",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

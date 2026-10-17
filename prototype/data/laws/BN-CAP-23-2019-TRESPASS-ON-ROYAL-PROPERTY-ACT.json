@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-23-2019-TRESPASS-ON-ROYAL-PROPERTY-ACT",
  "title": {
-  "zh": null,
+  "zh": "侵入王室财产法",
   "en": "TRESPASS ON ROYAL PROPERTY ACT",
   "orig": null
  },
@@ -88,5 +88,13 @@
     "en": "Nothing in this Act shall operate to relieve any person found committing on any property belonging to His Majesty the Sultan and Yang Di-Pertuan any of the offences defined in sections 443, 444, 445 and 446 of the Penal Code (Chapter 22) of any penalty to which he may be liable under sections 448A, 449, 450, 451, 452, 453, 453A, 454, 455, 456, 456A, 457, 458, 459 and 460 of the Penal Code (Chapter 22)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TRESPASS ON ROYAL PROPERTY ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

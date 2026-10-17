@@ -1,7 +1,7 @@
 {
  "id": "PH-H3875",
  "title": {
-  "zh": null,
+  "zh": "规定选举出席菲律宾国会两院 1967 年 3 月 16 日决议授权的制宪会议代表并举行该会议的法案",
   "en": "An Act Providing for the Election of Delegates to, and the Holding Of, the Constitutional Convention Authorized by Resolution of Both Houses of the Congress of the Philippines, Adopted on March Sixteen, Nineteen Hundred and Sixty-Seven",
   "orig": "An Act Providing for the Election of Delegates to, and the Holding Of, the Constitutional Convention Authorized by Resolution of Both Houses of the Congress of the Philippines, Adopted on March Sixteen, Nineteen Hundred and Sixty-Seven"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Election of Delegates to, and the Holding Of, the Constitutional Convention Authorized by Resolution of Both Houses of the Congress of the Philippines, Adopted on March Sixteen, Nineteen Hundred and Sixty-Seven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

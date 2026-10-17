@@ -1,7 +1,7 @@
 {
  "id": "SG-H1535",
  "title": {
-  "zh": null,
+  "zh": "电影（禁止影片）命令 2007",
   "en": "Films (Prohibited Film) Order 2007",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister, being of the opinion that the possession, exhibition or distribution of the following film would be contrary to the public interest, hereby prohibits the possession, exhibition and distribution of that film by any person:\nTitle:\n“Zahari’s 17 Years”\nDirector:\nSee Tong Ming\nNRIC No. S 6811485 C\nYear of production:\n2006\n[S 346/2019 wef 29/04/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Films (Prohibited Film) Order 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

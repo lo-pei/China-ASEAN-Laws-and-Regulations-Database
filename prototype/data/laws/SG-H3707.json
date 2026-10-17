@@ -1,7 +1,7 @@
 {
  "id": "SG-H3707",
  "title": {
-  "zh": null,
+  "zh": "工会法 1940",
   "en": "Trade Unions Act 1940",
   "orig": null
  },
@@ -1120,5 +1120,13 @@
     "en": "THE SCHEDULE\nSections 38(1) and 39(6)\nMatters for which provision must be made in the rules of registered trade union\n1. The name of the trade union and the place of meeting for the business of the trade union.\n2. The whole of the objects for which the trade union is to be established, the purposes for which the funds thereof shall be applicable, the conditions under which any member thereof may become entitled to any benefit assured thereby, and the fines and forfeitures to be imposed on any member thereof.\n3. The manner of making, altering, amending and rescinding rules.\n4. The appointment or election and removal of an executive and of trustees, secretaries, treasurers and other officers of the trade union.\n5. The custody and investment of the funds of the trade union, the designation of the officer or officers responsible therefor, and the annual or periodical audit of its accounts.\n6. The inspection of the books and names of members of the trade union by any person having an interest in the funds of the trade union.\n7. The manner of the dissolution of the trade union and the disposal of the funds thereof available at the time of such dissolution.\n8. The taking of all decisions in respect of the election of officers, the amendment of rules, strikes, dissolution and any other matter affecting the members of the trade union generally, by secret ballot."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Trade Unions Act 1940",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

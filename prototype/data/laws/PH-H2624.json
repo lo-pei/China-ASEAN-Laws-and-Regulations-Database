@@ -1,7 +1,7 @@
 {
  "id": "PH-H2624",
  "title": {
-  "zh": null,
+  "zh": "将从事稻米与玉米产业的权利限于菲律宾公民并为其他目的法案",
   "en": "An Act Limiting the Right to Engage in the Rice and Corn Industry to Citizens of the Philippines, and for Other Purposes",
   "orig": "An Act Limiting the Right to Engage in the Rice and Corn Industry to Citizens of the Philippines, and for Other Purposes"
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity. Except for those provisions the effectivity of which is specifically stated, this Act shall take effect on January 1, 1961.\nApproved: August 2, 1960"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Limiting the Right to Engage in the Rice and Corn Industry to Citizens of the Philippines, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

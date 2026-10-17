@@ -1,7 +1,7 @@
 {
  "id": "SG-H2140",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）公告 2003",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) Notification 2003",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be exempt from tax interest payable from 3rd September 2001 to 3rd September 2009 by Singapore Aircraft Leasing Enterprise Pte Ltd to the following banks under the Loan Agreement dated 18th April 2001 and the Amendment Agreement dated 8th February 2002, in respect of one Airbus A320-214 aircraft with Manufacturer’s Serial Number 1439:\n(a)BNP Paribas, Paris, France;\n(b)Bankgesellschaft Berlin AG, London branch; and\n(c)Hamburgische Landesbank Girozentrale, Hamburg, Germany."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) Notification 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

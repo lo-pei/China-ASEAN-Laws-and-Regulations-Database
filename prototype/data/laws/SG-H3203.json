@@ -1,7 +1,7 @@
 {
  "id": "SG-H3203",
  "title": {
-  "zh": null,
+  "zh": "商船（特别限区客船）安全条例",
   "en": "Merchant Shipping (Special Limits Passenger Ships) Safety Regulations",
   "orig": null
  },
@@ -1034,5 +1034,13 @@
     "en": "SECOND SCHEDULE\nFORM I\n*THIRTY-MILE/PORT LIMIT PASSENGER SHIP SAFETY CERTIFICATE\n(Regulation 10(1))\nREPUBLIC OF SINGAPORE\nName of Ship\nPort and\nLicence/Official Number\nLength Of Ship\nGross Tonnage\nName and Address of Owners/Agent\nTHIS IS TO CERTIFY —\n1.That the above-mentioned ship has been duly surveyed in accordance with the Merchant Shipping (Special Limits Passenger Ships) Safety Regulations.\n2.That the survey showed that the relevant regulations had been complied with.\n3.That the ship is permitted to carry a maximum of ..…….. passengers and ….…. crew.\nThe life-saving appliances include:\n………….. *liferafts/buoyant apparatus sufficient for ………….. persons;\n………….. lifebuoys;\n………….. life-jackets.\n4.That the inspection showed that the ship complied with the requirements of the said Regulations as regards fire-extinguishing appliances and radiotelephone and was provided with navigation lights and shapes and means of making sound signals and distress signals, in accordance with the provisions of the Regulations and the Merchant Shipping (Prevention of Collisions at Sea) Regulations as amended.\n5.That the freeboard has been assigned and load line marked in accordance with the Regulations.\nFreeboard from deck line ……………… mm.\nThis Certificate shall, unless cancelled, remain in force until ………………………\nIssued on ……………………..\n…………………………\nDirector of Marine,\nSingapore.\n* Delete where inapplicable.\nFORM II\n(Regulation 10(2))\nREPUBLIC OF SINGAPORE\nEXEMPTION CERTIFICATE\nName of Ship\nPort and\nLicence/Official Number\nLength Of Ship\nGross Tonnage\nTHIS IS TO CERTIFY —\nThat under regulation 5 of The Merchant Shipping (Special Limits Passenger Ships) Safety Regulations, the above-mentioned ship is exempted from the requirements of regulation(s) ……………….. of the Regulations subject to the following condition(s):\nThis certificate shall, unless cancelled, remain in force until ………………………\nIssued on ……………………..\n…………………………\nDirector of Marine,\nSingapore.\n[S 229/97 wef 09/05/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Special Limits Passenger Ships) Safety Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

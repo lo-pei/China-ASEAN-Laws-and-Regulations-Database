@@ -1,7 +1,7 @@
 {
  "id": "BN-S-3-2025-WSAH-WORK-AT-HEIGHTS-REGULATIONS-2025",
  "title": {
-  "zh": null,
+  "zh": "WSAH 高空作业条例 2025",
   "en": "WSAH WORK AT HEIGHTS REGULATIONS 2025",
   "orig": null
  },
@@ -402,5 +402,13 @@
     "en": "Any person who contravenes regulation 4, 5(1), 6, 7, 8(1), 9(2) or (3), 10, 11(1) or (2), 12(1) or (2), 13, 14, 15(1) or (2), 16, 17(1), (2) or (3), 18(1) or (7), 19(1) or (2), 22(3), 23(3), 24, 25(1) or (2), 26(1), 27(1), 28(1) or (2) or 29(2), (3), (4), (5) or\n\n(6) is guilty of an offence and liable on conviction to a fine not exceeding $20,000, imprisonment for a term not exceeding 2 years or both.\n\nSCHEDULE (regulation 5(1), (3) and (4))\n\nWORKPLACES REQUIRED TO HAVE FALL PREVENTION PLAN"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "WSAH WORK AT HEIGHTS REGULATIONS 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

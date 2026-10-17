@@ -1,7 +1,7 @@
 {
  "id": "PH-H3957",
  "title": {
-  "zh": null,
+  "zh": "将邦阿西楠省乌明甘市镇班图格村的Bantug社区学校的名称变更为Doña S. Belisario-Adamos社区学校的法案",
   "en": "An Act Changing the Name of Barrio Bantug Community School in Barrio Bantug in the Municipality of Umingan, Province of Pangasinan, to Doña S. Belisario-Adamos Community School",
   "orig": "An Act Changing the Name of Barrio Bantug Community School in Barrio Bantug in the Municipality of Umingan, Province of Pangasinan, to Doña S. Belisario-Adamos Community School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon it approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Barrio Bantug Community School in Barrio Bantug in the Municipality of Umingan, Province of Pangasinan, to Doña S. Belisario-Adamos Community School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

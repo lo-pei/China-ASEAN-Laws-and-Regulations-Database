@@ -1,7 +1,7 @@
 {
  "id": "SG-H2783",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（第 72U 条下特定法的修改）（废止）命令 2026",
   "en": "Insolvency, Restructuring and Dissolution (Modifications to Specified Acts under Section 72U) (Revocation) Order 2026",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Despite paragraph 2, the Insolvency, Restructuring and Dissolution (Modifications to Specified Acts under Section 72U) Order 2021 as in force immediately before 29 January 2026 continues to apply in relation to a company that has applied to the Official Receiver for acceptance into, or has been accepted by the Official Receiver into, the simplified debt restructuring programme before that date and that has not been discharged from the programme."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insolvency, Restructuring and Dissolution (Modifications to Specified Acts under Section 72U) (Revocation) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

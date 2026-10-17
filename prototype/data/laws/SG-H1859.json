@@ -1,7 +1,7 @@
 {
  "id": "SG-H1859",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（住宅物业维护费变更）公告",
   "en": "Housing and Development (Variation of Maintenance Fees for Residential Properties) Notification",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nFlat Type\nRevised Service and Conservancy Charges\n1-room (Standard)\n$12\n1-room (Emergency)\n$12\n1-room (Improved)\n$15\n2-room\n$21.50\n3-room\n$28.50\n4-room\n$37.50\n5-room\n$47\nExecutive\n$60\nMulti-Generation Type B or C\n$60\nMulti-Generation Type A\n$65\nHUDC\n$80"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Variation of Maintenance Fees for Residential Properties) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

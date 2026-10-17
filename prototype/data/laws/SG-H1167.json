@@ -1,7 +1,7 @@
 {
  "id": "SG-H1167",
  "title": {
-  "zh": null,
+  "zh": "外交与领事官员（费用）命令 2012",
   "en": "Diplomatic and Consular Officers (Fees) Order 2012",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraphs 2(1) and 3\nNotarial\n1.—(1)For a certificate of declaration of due execution of any document including seal for one person\n$15\n(2)For registration and attestation\n$1\n(3)For each exhibit\n$1\n2.—(1)On making a copy and marking the copy as a true copy —\n(a)certification fee\n$2\n(b)supply fee — per page\n30 cents\n(2)On examining a plain copy and marking the copy as a true copy\n$2\n(3)On taking or re-taking an affidavit or a declaration for each person making the affidavit or declaration\n$4\n(4)Each exhibit referred to in an affidavit and required to be marked\n$1\n(5)Each document referred to in a deposition and required to be marked\n$1\n3.—(1)Statutory declaration for one party\n$5\n(2)For marking exhibit\n$1\n(3)For each additional party\n$2\n4.Notarial certificate and seal on certificate of origin or consular invoices\n$10\nBirths And Deaths\n5.—(1)Application to alter a child’s name under section 21(2) of the Registration of Births and Deaths Act 2021\n$33\n(2)Issue of a birth certificate under regulation 10, 12 or 13 of the Registration of Births and Deaths Regulations 2022\n$18\n(3)Application for an extract from a record in a register under regulation 14, 15, 21, 22 or 27 of the Registration of Births and Deaths Regulations 2022\n$40\n(4)Application for a copy of a former record of birth mentioned in regulation 17(2) of the Registration of Births and Deaths Regulations 2022\n$40\n(5)Search of records in a register for any period before 1986 (called in this paragraph the search period) under regulation 29(2) of the Registration of Births and Deaths Regulations 2022\n$50 for every month or part of the month in the search period\n(6)Search of records in a register for any period in or after 1986 (called in this paragraph the search period) under regulation 29(2) of the Registration of Births and Deaths Regulations 2022\n$40 for the search period\nCitizenship\n6.—(1)For an application for citizenship\n$100\n(2)For the issue of a certificate of citizenship\n$70\n(3)For the replacement of a certificate of citizenship\n$20\n(4)For the issue of a letter or certificate stating the citizenship status of a person\n$20\n(5)For processing an application for renunciation of citizenship\n$35\n(6)For effecting amendments to the register of citizens and the certificate of citizenship of a person\n$20\n(7)For processing an application by a person claiming to be a citizen by birth or by registration\n$240\nPassport And Visa\n7.—(1)Application for a Singapore passport\n$80\n(2)Application for replacement of a lost, destroyed or damaged Singapore passport —\n(a)first replacement\n$50\n(b)second or subsequent replacement\n$100\n(3)For a new or replacement re‑entry permit for a year or part of the year\n$10\n(4)Application for a Singapore certificate of identity (validity not exceeding one year)\n$15\n(5)Application for a Singapore certificate of identity\n$15 per year of validity\n(6)Application for a Singapore certificate of identity (single journey)\n$10\n(7)Application for renewal of Singapore certificate of identity\n$15 per year of validity\n(8)Application for replacement of a lost, destroyed or damaged Singapore certificate of identity —\n(a)first replacement\n$50\n(b)second or subsequent replacement\n$100\n(9)Application for a Singapore document of identity\n$15\n(10)Application for a Singapore temporary travel document\n$75\n(11)Application for replacement of a lost, destroyed or damaged Singapore temporary travel document —\n(a)first replacement\n$50\n(b)second or subsequent replacement\n$100\n8.—(1)Application for a Singapore visa for a non‑citizen to travel to and enter Singapore\n$30\n(2)Group Singapore visa in respect of 3 or more non‑citizens for those non‑citizens to travel to and enter Singapore as a group —\n(a)application under the PRC Collective Gratis Visa Scheme\nNo charge\n(b)any other application\n$30\n(3)Application for a Singapore visa where an applicant holds a diplomatic or an official passport issued by the government of a foreign country\nNo charge\n9.Application for a visit pass valid for 90 days or more\n$30"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Diplomatic and Consular Officers (Fees) Order 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

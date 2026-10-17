@@ -1,7 +1,7 @@
 {
  "id": "PH-H170",
  "title": {
-  "zh": null,
+  "zh": "要求在零售商品上附加价签或标签并处罚违反该要求行为的法案",
   "en": "An Act Requiring Price Tags or Labels to be Affixed on All Articles of Commerce Offered for Sale at Retail and Penalizing Violations of Such Requirement",
   "orig": "An Act Requiring Price Tags or Labels to be Affixed on All Articles of Commerce Offered for Sale at Retail and Penalizing Violations of Such Requirement"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect on the sixtieth day after its approval.\nApproved: October 21, 1946."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring Price Tags or Labels to be Affixed on All Articles of Commerce Offered for Sale at Retail and Penalizing Violations of Such Requirement",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

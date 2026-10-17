@@ -1,7 +1,7 @@
 {
  "id": "PH-H2960",
  "title": {
-  "zh": null,
+  "zh": "禁止国际贸易中的易货交易、规定违规处罚，为此废止第 2261 号共和国法（题为《通过向边缘与次边缘产业提供激励促进经济发展》）并为其他目的法案",
   "en": "An Act to Prohibit Barter in International Trade, Providing for Penalties for Violation Thereof, Repealing for This Purpose Republic Act Numbered Two Thousand Two Hundred and Sixty-One, Entitled “An Act to Promote Economic Development by Giving Incentives to Marginal and Sub-Marginal Industries” and for Other Purposes",
   "orig": "An Act to Prohibit Barter in International Trade, Providing for Penalties for Violation Thereof, Repealing for This Purpose Republic Act Numbered Two Thousand Two Hundred and Sixty-One, Entitled “An Act to Promote Economic Development by Giving Incentives to Marginal and Sub-Marginal Industries” and for Other Purposes"
  },
@@ -111,5 +111,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Prohibit Barter in International Trade, Providing for Penalties for Violation Thereof, Repealing for This Purpose Republic Act Numbered Two Thousand Two Hundred and Sixty-One, Entitled “An Act to Promote Economic Development by Giving Incentives to Marginal and Sub-Marginal Industries” and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

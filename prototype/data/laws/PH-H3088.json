@@ -1,7 +1,7 @@
 {
  "id": "PH-H3088",
  "title": {
-  "zh": null,
+  "zh": "修订 Danao 市宪章若干条的法案",
   "en": "An Act Amending Certain Sections of the Charter of Danao City.",
   "orig": "An Act Amending Certain Sections of the Charter of Danao City."
  },
@@ -71,14 +71,15 @@
    }
   },
   {
-   "id": "PH-H3088-A2_2",
+   "id": "PH-H3088-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Paragraph (h) of section twenty-eight of the same Act is hereby repealed."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H3088-A3",
@@ -110,5 +111,13 @@
     "en": "This Act shall take effect upon its approval: Provided, That the members of the barrio councils elect in the election held following the approval of this act shall hold office for four (4) years and until their successors shall have been elected and have qualified.\nApproved, June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Sections of the Charter of Danao City.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

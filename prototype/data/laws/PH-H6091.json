@@ -1,7 +1,7 @@
 {
  "id": "PH-H6091",
  "title": {
-  "zh": null,
+  "zh": "规定将经众议院议员与卫生部确定的特定市镇主要卫生中心改设为市镇卫生医务所并为此拨款的法案",
   "en": "An Act Providing For the Conversion of Selected Municipal Main Health Centers As May Be Determined By Members of the House of Representatives and By the Department of Health Into Municipal Health Infirmaries, and Appropriating Funds Therefor",
   "orig": "An Act Providing For the Conversion of Selected Municipal Main Health Centers As May Be Determined By Members of the House of Representatives and By the Department of Health Into Municipal Health Infirmaries, and Appropriating Funds Therefor"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing For the Conversion of Selected Municipal Main Health Centers As May Be Determined By Members of the House of Representatives and By the Department of Health Into Municipal Health Infirmaries, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

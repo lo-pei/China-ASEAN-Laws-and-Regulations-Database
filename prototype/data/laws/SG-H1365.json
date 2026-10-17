@@ -1,7 +1,7 @@
 {
  "id": "SG-H1365",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（第 67 条豁免）条例 2022",
   "en": "Environmental Public Health (Exemption from Section 67) Regulations 2022",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Masjid Maarof is exempt from section 67 of the Act in respect of the body washing of corpses at the premises located at 20 Jurong West Street, Singapore 648125 (called in this regulation the relevant premises), until 31 December 2022.\n(2) The exemption in paragraph (1) is subject to all the following conditions:\n(a)any body washing of a corpse must be conducted only in the body washing space;\n(b)the body washing space, including all fittings, equipment, furniture, utensils and apparatus in the space must be kept in a clean and sanitary condition to the satisfaction of the Director‑General;\n(c)after body washing of a corpse in the body washing space, every part of the body washing space must be thoroughly cleansed and disinfected;\n(d)proper and accurate records of the following particulars must be kept in respect of every corpse on which body washing is conducted at the relevant premises:\n(i)where the corpse is that of a deceased person — the name, address, age and sex of the deceased person;\n(ii)the date and place of death of the deceased person or stillbirth of the stillborn child, as the case may be;\n(iii)the cause of death of the deceased person or stillborn child, as the case may be;\n(iv)the date on, and the time at, which the corpse was received into the relevant premises;\n(v)the date on, and the time at, which the corpse was removed from the relevant premises;\n(vi)the date and document number of any permit for the burial, cremation, transportation to or removal from Singapore (as the case may be) of the corpse;\n(vii)the name of the person signing any permit for the burial, cremation, transportation to or removal from Singapore (as the case may be) of the corpse;\n(viii)the name, address and identity card number of the next-of-kin of the deceased person or stillborn child, as the case may be;\n(ix)the document number of the certificate of death or stillbirth issued under the Registration of Births and Deaths Act 2021, or (where such certificate has not been issued) the document number of the written confirmation of the death or stillbirth that is issued by a medical practitioner;\n(x)the manner in which the corpse was disposed of after its removal from the relevant premises."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Exemption from Section 67) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

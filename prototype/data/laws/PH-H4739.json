@@ -1,7 +1,7 @@
 {
  "id": "PH-H4739",
  "title": {
-  "zh": null,
+  "zh": "将阿尔拜省第三立法区改设为独立的公路工程区的法案",
   "en": "An Act Constituting the Third Congressional District of the Province of Albay into a Separate Highway Engineering District",
   "orig": "An Act Constituting the Third Congressional District of the Province of Albay into a Separate Highway Engineering District"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: November 9, 1970."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Constituting the Third Congressional District of the Province of Albay into a Separate Highway Engineering District",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

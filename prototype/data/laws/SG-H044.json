@@ -1,7 +1,7 @@
 {
  "id": "SG-H044",
  "title": {
-  "zh": null,
+  "zh": "会计师（会计公司、会计师事务所与会计有限责任合伙）规则",
   "en": "Accountants (Accounting Corporations, Accounting Firms and Accounting LLPs) Rules",
   "orig": null
  },
@@ -183,5 +183,13 @@
     "en": "THIRD SCHEDULE\nRule 6\nMatters To Be Provided For In Constitution Of Accounting Corporation\n1. A statement in relation to the transfer and disposal of shares in the following terms: “No person shall transfer or dispose of any shares in an accounting corporation without the prior approval of the directors. The directors shall not grant their approval if such transfer will result in a contravention of any requirement in section 27 of the Accountants Act 2004 or any rules made thereunder on the holding, transfer or disposal of shares in an accounting corporation.\n[S 191/2024 wef 31/12/2021]\n2. The manner and terms of the transfer or disposal of any shares in an accounting corporation in the event that the person holding such shares —\n(a)is suspended from practice as a public accountant or is removed from the Register of Public Accountants pursuant to any disciplinary proceedings; or\n(b)ceases to be a corporate practitioner by reason of death or bankruptcy or incapacity due to mental or physical disability.\n[G.N. No. S 576/2006]\n[S 839/2015 wef 03/01/2016]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Accountants (Accounting Corporations, Accounting Firms and Accounting LLPs) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

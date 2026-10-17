@@ -1,7 +1,7 @@
 {
  "id": "SG-H2296",
  "title": {
-  "zh": null,
+  "zh": "所得税（KDCR GVP 私人有限公司依第 13（12）条享有的豁免）命令 2025",
   "en": "Income Tax (KDCR GVP Pte. Ltd. — Section 13(12) Exemption) Order 2025",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividend income described in sub-paragraphs (3) and (4) received in Singapore by KDCR GVP Pte. Ltd. (a company incorporated in Singapore) on or after 24 October 2025 from KDCR UK Holdings Limited (a company incorporated in Guernsey), is exempt from tax.\n(2) Interest income described in sub‑paragraph (3) received in Singapore by KDCR GVP Pte. Ltd. on or after 24 October 2025 from KDCR England Limited (a company incorporated in Guernsey) and Greenwich View Place Limited (a company incorporated in Guernsey), is exempt from tax.\n(3) Sub‑paragraphs (1) and (2) apply to dividend income and interest income originating from any rental and property‑related income (including capital gain derived from divestment of property) from any of the following properties:\n(a)the property located at Waterside House, Longshot Lane, Bracknell, RG12 1WB, United Kingdom;\n(b)the property located at 7 Greenwich View Place, Millharbour Road, London, E14 9NN, United Kingdom.\n(4) In addition, sub‑paragraph (1) applies to dividend income originating from any gain by KDCR UK Holdings Limited from the disposal of any ownership interest in the following companies:\n(a)KDCR England Limited;\n(b)Greenwich View Place Limited.\n(5) The exemptions in sub-paragraphs (1) and (2) are subject to the conditions specified in the letter from the Inland Revenue Authority of Singapore dated 24 October 2025 that is issued on behalf of the Minister for Finance and addressed to EY Corporate Advisors Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (KDCR GVP Pte. Ltd. — Section 13(12) Exemption) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

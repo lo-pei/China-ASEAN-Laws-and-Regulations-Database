@@ -1,7 +1,7 @@
 {
  "id": "SG-H1548",
  "title": {
-  "zh": null,
+  "zh": "财务顾问（第 25 至 29 条与第 36 条豁免）条例",
   "en": "Financial Advisers (Exemption from Sections 25 to 29 and 36) Regulations",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Subject to paragraphs (2) and (3), the Authority hereby exempts any bank in Singapore or any merchant bank, which has notified the Authority under regulation 37 of the Financial Advisers Regulations (Rg 2) of the commencement of its business as a financial adviser, from sections 25 to 29 and 36 of the Act in respect of the provision of any financial advisory service relating to —\n(a)an existing product; or\n(b)a new product.\n(2) In the case of a bank in Singapore —\n(a)where the financial advisory service relates to an existing product, the exemption under paragraph (1) is subject to the condition that the bank shall continue to include the existing product in the computation of its liabilities base until the date of maturity of that product; and\n(b)where the financial advisory service relates to a new product, the exemption under paragraph (1) is subject to the following conditions:\n(i)the bank shall include the new product in the computation of its liabilities base until the date of maturity of that product; and\n(ii)the bank shall not represent or refer to the new product as a deposit in any offer, invitation or advertisement issued in relation to that product.\n(3) In the case of a merchant bank, where the financial advisory service relates to a new product, the exemption under paragraph (1) is subject to the condition that the bank shall not represent or refer to the new product as a deposit in any offer, invitation or advertisement issued in relation to that product.\n(4) The exemption under paragraph (1) shall have effect —\n(a)from the date of offer until the date of maturity of the product, in the case where the financial advisory service relates to an existing product; and\n(b)from 7th October 2004 until 1st June 2005, in the case where the financial advisory service relates to a new product.\n[G.N. No. S 616/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Financial Advisers (Exemption from Sections 25 to 29 and 36) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

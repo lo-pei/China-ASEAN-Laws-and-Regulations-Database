@@ -1,7 +1,7 @@
 {
  "id": "PH-H922",
  "title": {
-  "zh": null,
+  "zh": "将卡加延省卡加延职业学校改设为菲律宾工艺与贸易学校类型的国立工艺与贸易学校，名称为卡加延谷工艺与贸易学校，并授权为此拨款",
   "en": "An Act to Convert the Cagayan Trade School in the Province of Cagayan to a National School of Arts and Trades of the Philippine School of Arts and Trades Type, to be Known as the Cagayan Valley School of Arts and Trades, and to Authorize the Appropriation of Funds for the Purpose",
   "orig": "An Act to Convert the Cagayan Trade School in the Province of Cagayan to a National School of Arts and Trades of the Philippine School of Arts and Trades Type, to be Known as the Cagayan Valley School of Arts and Trades, and to Authorize the Appropriation of Funds for the Purpose"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Cagayan Trade School in the Province of Cagayan to a National School of Arts and Trades of the Philippine School of Arts and Trades Type, to be Known as the Cagayan Valley School of Arts and Trades, and to Authorize the Appropriation of Funds for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

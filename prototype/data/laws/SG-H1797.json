@@ -1,7 +1,7 @@
 {
  "id": "SG-H1797",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（逾期付款处罚——市场与熟食中心）规则",
   "en": "Housing and Development (Penalties for Late Payment — Markets and Food Centres) Rules",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. The Board may, in its discretion, remit wholly or in part any penalty payable under these Rules.\n[G.N. Nos. S 185/2007; S188/2008]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Penalties for Late Payment — Markets and Food Centres) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

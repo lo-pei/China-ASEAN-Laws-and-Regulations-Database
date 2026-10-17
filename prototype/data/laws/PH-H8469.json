@@ -1,7 +1,7 @@
 {
  "id": "PH-H8469",
  "title": {
-  "zh": null,
+  "zh": "将南三宝颜省东博邦甘—索米诺特—米德萨利普—杜明加格省道（横贯拉蒙·马格塞塞、索米诺特、米德萨利普与杜明加格市镇）改设为国道的法案",
   "en": "An Act Converting the Eastern Bobongan - Sominot - Midsalip - Dumingag Provincial Road Traversing the Municipalities of Ramon Magsaysay, Sominot, Midsalip and Dumingag, Province of Zamboanga Del Sur Into a National Road",
   "orig": "An Act Converting the Eastern Bobongan - Sominot - Midsalip - Dumingag Provincial Road Traversing the Municipalities of Ramon Magsaysay, Sominot, Midsalip and Dumingag, Province of Zamboanga Del Sur Into a National Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Eastern Bobongan - Sominot - Midsalip - Dumingag Provincial Road Traversing the Municipalities of Ramon Magsaysay, Sominot, Midsalip and Dumingag, Province of Zamboanga Del Sur Into a National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

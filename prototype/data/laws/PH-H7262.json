@@ -1,7 +1,7 @@
 {
  "id": "PH-H7262",
  "title": {
-  "zh": null,
+  "zh": "对所有类型机动车车主征收机动车用户费并为其他目的法案",
   "en": "An Act Imposing a Motor Vehicle User's Charge on Owners of All Types of Motor Vehicles and for Other Purposes",
   "orig": "An Act Imposing a Motor Vehicle User's Charge on Owners of All Types of Motor Vehicles and for Other Purposes"
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following its publication in at lease two (2) newspapers of general circulation .\nApproved: June 27, 2000"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Imposing a Motor Vehicle User's Charge on Owners of All Types of Motor Vehicles and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1363",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（除外清洁工作）公告 2014",
   "en": "Environmental Public Health (Excluded Cleaning Work) Notification 2014",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nExcluded cleaning work\n1. The following work shall be excluded cleaning work for the purposes of this Notification:\n(a)Cleaning of the exterior of any building or facility, including the roof, exterior walls, facade or windows.\n(b)Cleaning of any amusement ride that is erected in any open space.\n(c)Cleaning of any gas installation, gas pipeline, petroleum pipeline or pipeline for conveying flammable material.\n(d)Cleaning of any water installation, water service installation, water pipe, water storage tank, drain, sewerage system or storm water drainage system.\n(e)Cleaning of any electric line, electrical installation, electrical plant, electrical system or electricity system within the meaning of section 2 of the Electricity Act (Cap. 89A) or any telecommunication cable within the definition of section 2 of the Telecommunications Act (Cap. 323).\n(f)Cleaning of any submarine cable or submarine pipeline.\n(g)Cleaning of any exhaust duct or air duct.\n(h)Cleaning at any construction site or other site where construction, maintenance, retrofitting, repair or removal of a building or an infrastructure is taking place or has taken place.\n(i)Cleaning of any laboratory, clean room or other facility with highly controlled environmental conditions of sterility.\n(j)Cleaning of any premises or area containing —\n(i)hazardous substance within the meaning of section 2 of the Environmental Protection and Management Act (Cap. 94A);\n(ii)toxic industrial waste;\n(iii)biological agents or toxins within the meaning of section 2 of the Biological Agents and Toxins Act (Cap. 24A); or\n(iv)radioactive material or radioactive waste within the meaning of section 2 of the Radiation Protection Act (Cap. 262).\n(k)Cleaning of any animal enclosure, cage or compound.\n(l)Cleaning of any tank or aquarium used for keeping live fish or aquatic life and used otherwise than for aquaculture.\n(m)Cleaning of any hydrotherapy pool, physiotherapy pool, swimming pool, jacuzzi or spa.\n(n)Cleaning (whether on a full‑time or part‑time basis) of any premises occupied as a private residence (but not including any common property of any condominium).\n2. In this Schedule —\n“drain” has the same meaning as in section 2 of the Sewerage and Drainage Act (Cap. 294);\n“flammable material” has the same meaning as in section 2(1) of the Fire Safety Act (Cap. 109A);\n“gas installation” and “gas pipeline” have the same meanings as in section 2 of the Gas Act (Cap. 116A);\n“sewerage system” and “storm water drainage system” have the same meanings as in section 2 of the Sewerage and Drainage Act;\n“toxic industrial waste” includes the toxic industrial wastes which are specified in the Schedule to the Environmental Public Health (Toxic Industrial Waste) Regulations (Rg 11);\n“water installation” and “water service installation” have the same meanings as in section 2 of the Public Utilities Act (Cap. 261)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Excluded Cleaning Work) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

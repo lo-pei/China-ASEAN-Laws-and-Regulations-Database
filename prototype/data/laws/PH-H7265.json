@@ -1,7 +1,7 @@
 {
  "id": "PH-H7265",
  "title": {
-  "zh": null,
+  "zh": "圣何塞德尔蒙特市宪章",
   "en": "Charter of the City of San Jose del Monte",
   "orig": "Charter of the City of San Jose del Monte An Act Converting the Municipality of San Jose del Monte, Bulacan into a Component City to be known as the City of San Jose del Monte"
  },
@@ -841,5 +841,13 @@
     "en": "Effectivity. — This Act shall take effect upon its publication in at least two (2) newspapers of general and local circulation.\nApproved, July 15, 2000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Charter of the City of San Jose del Monte",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

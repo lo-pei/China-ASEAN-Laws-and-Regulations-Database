@@ -1,7 +1,7 @@
 {
  "id": "SG-H3732",
  "title": {
-  "zh": null,
+  "zh": "遗嘱法 1838",
   "en": "Wills Act 1838",
   "orig": null
  },
@@ -402,5 +402,13 @@
     "en": "28.—(1) A court may order that a will be rectified so as to carry out the testator’s intentions, if the court is satisfied that, as a consequence of either or both of the following, the will is so expressed that the will fails to carry out the testator’s intentions:\n(a)a clerical error;\n(b)a failure to understand the testator’s instructions.\n[16/2016]\n(2) Except with the permission of a court, an application for an order under subsection (1) must be made no later than 6 months after the date on which a grant authorising the administration of the testator’s estate is first made.\n[16/2016]\n(3) Where the personal representatives of the testator distribute, after the end of the period of 6 months referred to in subsection (2), any part of the testator’s estate —\n(a)this section does not render the personal representatives liable for making that distribution on the ground that they ought to have taken into account the possibility that a court may permit the making of an application for an order under subsection (1) after the end of that period; but\n(b)this subsection does not affect any power to recover, by reason of the making of an order under subsection (1), any part of the testator’s estate that is so distributed.\n[16/2016]\n(4) The following grants are to be disregarded when considering, for the purposes of this section, when a grant authorising the administration of the testator’s estate is first made:\n(a)a grant limited to settled land or to trust property;\n(b)any other grant that does not permit the distribution of the testator’s estate;\n(c)a grant limited to a part only of the testator’s estate, unless a grant limited to the remainder of the testator’s estate has previously been made or is made at the same time.\n[16/2016]\n(5) For the purposes of this section, where a grant consists of any probate, or letters of administration with the will annexed, sealed under section 47(1) of the Probate and Administration Act 1934, the grant is deemed to be made on the date of sealing of the probate or letters of administration with the will annexed.\n[16/2016]\n(6) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules —\n(a)to regulate and prescribe the procedure and practice to be followed in any application for an order under subsection (1); and\n(b)to provide for any matter relating to any such procedure or practice.\n[16/2016]\n(7) In this section —\n“court” means the General Division of the High Court or a Family Court;\n“grant” means any of the following:\n(a)any probate granted by the General Division of the High Court or a Family Court, or granted before 1 January 2015 by a District Court;\n(b)any letters of administration with the will annexed granted by the General Division of the High Court or a Family Court, or granted before 1 January 2015 by a District Court;\n(c)any probate, or letters of administration with the will annexed, sealed under section 47(1) of the Probate and Administration Act 1934;\n“letters of administration with the will annexed” and “probate” have the same meanings as in section 2 of the Probate and Administration Act 1934.\n[16/2016; 40/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Wills Act 1838",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1616",
  "title": {
-  "zh": null,
+  "zh": "地理标志规则 2019",
   "en": "Geographical Indications Rules 2019",
   "orig": null
  },
@@ -1682,5 +1682,13 @@
     "en": "THIRD SCHEDULE\nRule 81(1)\nScale of costs\nItem\nMatter\nAmount\nINSTITUTION OF PROCEEDINGS\n1.\nDrawing and filing notice of objection or opposition, including a statement of grounds\n$390\n2.\nDrawing and filing counter-statement\n$390\n3.\nPreparing and filing evidence for objection or opposition proceedings\n$390 - $2,080 per statutory declaration\n4.\nReviewing any document mentioned in items 1, 2 and 3\n$195 - $1,040 per document\nINTERLOCUTORY PROCEEDINGS, ETC.\n5.\nPreparing for all interlocutory proceedings, pre-hearing reviews and case management conferences\n$65 - $650 per proceeding, review or conference\n6.\nAttending all interlocutory proceedings, pre‑hearing reviews and case management conferences\n$65 - $650 per proceeding, review or conference\nFULL HEARINGS\n7.\nPreparing for objection or opposition hearing\n$650 - $2,600\n8.\nAttendance at objection or opposition hearing\n$260 - $1,040\nASSESSMENT\n9.\nDrawing bill of costs\n$6.50 per folio\n10.\nAttending assessment\n$130 - $390\n[S 264/2022 wef 01/04/2022]\n[S 687/2021 wef 01/10/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Geographical Indications Rules 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

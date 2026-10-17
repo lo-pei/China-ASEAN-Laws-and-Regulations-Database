@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-179-2020-ADMIRALTY-JURISDICTION-ACT",
  "title": {
-  "zh": null,
+  "zh": "海事管辖权法",
   "en": "ADMIRALTY JURISDICTION ACT",
   "orig": null
  },
@@ -114,5 +114,13 @@
     "en": "The High Court shall have as a prize court —\n\n(a) all such jurisdiction as is conferred on it by any law relating to\n\n(b) all such other jurisdiction on the high seas and elsewhere as it had as a prize court immediately before the commencement of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ADMIRALTY JURISDICTION ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

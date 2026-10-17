@@ -1,7 +1,7 @@
 {
  "id": "SG-H2245",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展特许权使用费及其他付款豁免）（第 2 号）公告 2003",
   "en": "Income Tax (Exemption of Royalties and Other Payments for Economic and Technological Development) (No. 2) Notification 2003",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. There shall be exempt from tax any income referred to in section 12(7) of the Act of a non-resident person accruing in or derived from Singapore during the period from 28th February 2003 to 27th February 2013 (both dates inclusive) that is a payment —\n(a)made to the non-resident person by an end-user for —\n(i)information; or\n(ii)digitised goods;\n(b)not derived from any trade or business carried on or exercised by the non-resident person in Singapore; and\n(c)not effectively connected with any permanent establishment in Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Royalties and Other Payments for Economic and Technological Development) (No. 2) Notification 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

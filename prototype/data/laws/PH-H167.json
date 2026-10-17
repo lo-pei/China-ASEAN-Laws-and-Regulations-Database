@@ -1,7 +1,7 @@
 {
  "id": "PH-H167",
  "title": {
-  "zh": null,
+  "zh": "规范剧院、电影院、赛马、回力球及其他娱乐场所入场价格并为此拨款的法案",
   "en": "An Act Regulating the Prices of Admission to Theaters, Cinematographs, Horse Races, Jai-Alai and Other Places of Amusement, and Appropriating Funds",
   "orig": "An Act Regulating the Prices of Admission to Theaters, Cinematographs, Horse Races, Jai-Alai and Other Places of Amusement, and Appropriating Funds"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: October 21, 1946."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Regulating the Prices of Admission to Theaters, Cinematographs, Horse Races, Jai-Alai and Other Places of Amusement, and Appropriating Funds",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

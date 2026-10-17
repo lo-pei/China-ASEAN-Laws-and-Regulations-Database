@@ -1,7 +1,7 @@
 {
  "id": "SG-H1133",
  "title": {
-  "zh": null,
+  "zh": "硬币面额与特征",
   "en": "Denominations and Characteristics of the Coins",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE 2007 HERITAGE ORCHIDS OF SINGAPORE COINS TO BE ISSUED ON 25TH JUNE 2007\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n5 Dollars\n999 Fine Silver\n20.00 g + 0.20 g\n38.70 mm + 0.15 mm\n2.50 mm + 0.30 mm\nRound\nMilled and bearing the words “MONETARY AUTHORITY OF SINGAPORE” and lion symbol.\nThe Singapore Arms in the centre with the year-date “2007” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’clock of the coin.\nThe coin design features the orchid “Dendrobium Singa Mas” in full colour in the lower-left to upper-right of the coin and the name of the orchid is along the upper circumference. The weight in grams and fineness of the coin are at the lower circumference. The denomination is at the upper-left of the coin.\n5 Dollars\n999 Fine Silver\n20.00 g + 0.20 g\n38.70 mm + 0.15 mm\n2.50 mm + 0.30 mm\nRound\nThe coin design features the orchid “Vanda Mimi Palmer” in full colour in the centre of the coin and the name of the orchid is at the upper circumference. The weight in grams and fineness of the coin are at the lower-right circumference. The denomination is at the lower-right of the coin.\n(a) Reverse Design of the $5 Silver Proof Coin (Dendrobium Singa Mas).\n(b) Reverse Design of the $5 Silver Proof Coin (Vanda Mimi Palmer).\n(c) Common Obverse Design for $5 Silver Proof Coins (Dendrobium Singa Mas and Vanda Mimi Palmer)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Denominations and Characteristics of the Coins",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

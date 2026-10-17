@@ -1,7 +1,7 @@
 {
  "id": "BN-S-59-1958-POLICE-REGULATIONS-1958",
  "title": {
-  "zh": null,
+  "zh": "警察条例 1958",
   "en": "POLICE REGULATIONS 1958",
   "orig": null
  },
@@ -601,5 +601,13 @@
     "en": "- (1) Fees for the employment for private purposes Fees for services. of the police shall be at the following rates :- Inspectors $9 per hour; Non-Commissioned Officers and Constables $2 per hour.\n\n(2) Fees shall be charged from the time the men leave their Station to assume the duty for which they are em­ ployed, up to the time of their arrival back in the Station on completion of the duty.\n\n(3) Fees for part of an hour shall be charged as if for a complete hour. Fees for use of 69. Fees for the of Police Transport to Police Transport. use convey men to and from the duties referred to shall be at the following rates :- Motor Cycles 20 cents per mile; Motor Cars, Pick-Ups, Land-Rovers and other vehicles .. 60 cents per mile. Hire of 70.-( 1) The Chief Police Officer in his discre­ Police Band. may, tion, permit the Police Band to play at private functions.\n\n(2) The fees for full band performances shall be $100 for the first hour and $50 for each subsequent half-hour or fraction thereof.\n\n(3) No fee shall be charged where the Band performs at a public function, even if it is held in a private institution. Distribution of 71. Fees payable in accordance with regulation 70 shall Band fees. be distributed as follows:- 50% to the Band Fund; 40% to the Bandsmen; 10% to the Director of Music. Repeal. 72. These regulations shall supersede all other regula­ BRO Notification tions made under section 62 of the which dated 28.11.23 Enactment, are as amended. hereby repealed. BRO Notification dated 29.9.31 as amended. SCHEDULE 'A' BRO Notification No. 84 of 1951 FORM I as amended. (Regulation 9)\n\nINSPECTORS AGREEMENT FOR POLICE SERVICE Pursuant to section 9 of the Police Force Enactment Cap. 50, I, _ .. __ _ _ __ _ .. _ . hereby engage to serve in the Police Force, on the conditions prescribed by the Police Regulations, 1958, as an Inspector on probation or in any rank in the Police Force to which I may be appointed, promoted, or reduced and I agree that I shall be subject to -\n\n(a) The Police Force Enactment, Cap. 50;\n\n(b) The Police Regulations, 1958; and\n\n(c) Any Ord-rs made under Part VIII of the Enactment. Dated this day oL 195 Signature: _ _ . Signature of Officer Commanding the Police District.\n\nFORM II (Rtgulation 13)\n\nRANK AND FILE AGREEMENT FOR\n\nPOLICE SERVICE I, do this day . _ .. . under the provisions of the Police Force Enactment, eng-age, Cap, to for from this date 50, serve years as a in l-ank in the Police Force or any to which I be or reduced. may appointed, promoted, Da ted this of 195 day Sig-nature of Recrui t : . SCI-IEDULE 'B' Regulations 24 and 25 (3) ( ) EDUCATIONAl, AND OTHER ALLOWANC:ES\n\nPAYABLE TO THE RANK AND FILE EDUCATIONAL ALLO'VANCES(a) Qualification Scale of Allnwance An Form III Certificate Fifteen dollars"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "POLICE REGULATIONS 1958",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

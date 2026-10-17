@@ -1,7 +1,7 @@
 {
  "id": "SG-H254",
  "title": {
-  "zh": null,
+  "zh": "建筑师（经验要求豁免）命令 2017",
   "en": "Architects (Exemption from Experience Requirements) Order 2017",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 15(2) of the Act does not apply to a foreign architect who applies to be registered under section 15(1)(c) of the Act for the purpose of supplying, or offering to supply, architectural services in Singapore only —\n(a)in connection with specific building works; and\n(b)in collaboration with a registered architect who has in force a practising certificate."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Architects (Exemption from Experience Requirements) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

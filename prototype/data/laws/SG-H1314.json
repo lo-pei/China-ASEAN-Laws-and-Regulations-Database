@@ -1,7 +1,7 @@
 {
  "id": "SG-H1314",
  "title": {
-  "zh": null,
+  "zh": "征召（出境许可）条例 1975",
   "en": "Enlistment (Exit Permit) Regulations 1975",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "11. Any person who fails to surrender his exit permit in accordance with regulation 4, 5 or 6 must pay a fee of $5 for the next application made by him for the issue of an exit permit."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Enlistment (Exit Permit) Regulations 1975",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

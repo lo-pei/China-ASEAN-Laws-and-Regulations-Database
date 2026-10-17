@@ -1,7 +1,7 @@
 {
  "id": "PH-H104",
  "title": {
-  "zh": null,
+  "zh": "修订第518号联邦法（即《设立国家椰业公司法》）第2条与第5条的法案",
   "en": "An Act to Amend Sections Two and Five of Commonwealth Act Numbered Five Hundred Eighteen, Entitled \"An Act to Establish the National Coconut Corporation, and to Appropriate Additional Operating Capital for Said Corporation\"",
   "orig": "An Act to Amend Sections Two and Five of Commonwealth Act Numbered Five Hundred Eighteen, Entitled \"An Act to Establish the National Coconut Corporation, and to Appropriate Additional Operating Capital for Said Corporation\""
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 1, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Two and Five of Commonwealth Act Numbered Five Hundred Eighteen, Entitled \"An Act to Establish the National Coconut Corporation, and to Appropriate Additional Operating Capital for Said Corporation\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

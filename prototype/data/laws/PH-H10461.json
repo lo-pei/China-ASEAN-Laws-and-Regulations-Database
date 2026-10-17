@@ -1,7 +1,7 @@
 {
  "id": "PH-H10461",
  "title": {
-  "zh": null,
+  "zh": "将北三宝颜省Leon B. Postigo市镇Mangop描笼涯的Bacungan国立中学Mangop分校分离出来，单独改设为独立的Mangop国立中学，并为此拨付所需经费",
   "en": "An Act Separating the Bacungan National High School Mangop Extension in Barangay Mangop, Municipality of Leon B. Postigo, Province of Zamboanga Del Norte From the Bacungan National High School, Converting It Into An Independent National High School to Be Known as the Mangop National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Bacungan National High School Mangop Extension in Barangay Mangop, Municipality of Leon B. Postigo, Province of Zamboanga Del Norte From the Bacungan National High School, Converting It Into An Independent National High School to Be Known as the Mangop National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Bacungan National High School Mangop Extension in Barangay Mangop, Municipality of Leon B. Postigo, Province of Zamboanga Del Norte From the Bacungan National High School, Converting It Into An Independent National High School to Be Known as the Mangop National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

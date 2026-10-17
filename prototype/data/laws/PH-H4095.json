@@ -1,7 +1,7 @@
 {
  "id": "PH-H4095",
  "title": {
-  "zh": null,
+  "zh": "为奎松市增设六名助理市检察官，提高奎松市助理市检察官薪金，为此修订该市宪章第28条与第29条的法案",
   "en": "An Act Creating the Positions of Six Assistant City Fiscals for Quezon City, Increasing the Salaries of the Assistant City Fiscals of Quezon City, Amending for the Purpose Section Twenty-Eight and Section Twenty-Nine of the Charter of Said City",
   "orig": "An Act Creating the Positions of Six Assistant City Fiscals for Quezon City, Increasing the Salaries of the Assistant City Fiscals of Quezon City, Amending for the Purpose Section Twenty-Eight and Section Twenty-Nine of the Charter of Said City"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Positions of Six Assistant City Fiscals for Quezon City, Increasing the Salaries of the Assistant City Fiscals of Quezon City, Amending for the Purpose Section Twenty-Eight and Section Twenty-Nine of the Charter of Said City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

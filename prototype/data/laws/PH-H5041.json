@@ -1,7 +1,7 @@
 {
  "id": "PH-H5041",
  "title": {
-  "zh": null,
+  "zh": "统一退伍军人纪念医院官员与雇员薪金并为其提供资金的法案",
   "en": "An Act Standardizing the Salaries of Officials and Employees in the Veterans Memorial Hospital and Providing Funds Therefor.",
   "orig": "An Act Standardizing the Salaries of Officials and Employees in the Veterans Memorial Hospital and Providing Funds Therefor."
  },
@@ -112,5 +112,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 26, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Standardizing the Salaries of Officials and Employees in the Veterans Memorial Hospital and Providing Funds Therefor.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

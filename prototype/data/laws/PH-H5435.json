@@ -1,7 +1,7 @@
 {
  "id": "PH-H5435",
  "title": {
-  "zh": null,
+  "zh": "将马拉维市Amai-Pakpak总医院更名为Amai-Pakpak省立医院，以确保向民众提供更高效的服务",
   "en": "An Act Changing the Name of the Amai-Pakpak General Hospital in Marawi City to Amai-Pakpak Provincial Hospital to Ensure a More Efficient and Effective Delivery of Services to the People",
   "orig": "An Act Changing the Name of the Amai-Pakpak General Hospital in Marawi City to Amai-Pakpak Provincial Hospital to Ensure a More Efficient and Effective Delivery of Services to the People"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Amai-Pakpak General Hospital in Marawi City to Amai-Pakpak Provincial Hospital to Ensure a More Efficient and Effective Delivery of Services to the People",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

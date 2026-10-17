@@ -1,7 +1,7 @@
 {
  "id": "PH-H6364",
  "title": {
-  "zh": null,
+  "zh": "设立国家乳业管理局以加快菲律宾乳业发展、规定乳业发展基金并为其他目的法案",
   "en": "An Act Creating the National Dairy Authority to Accelerate the Development of the Dairy Industry in the Philippines, Providing for a Dairy Development Fund, and for Other Purposes",
   "orig": "An Act Creating the National Dairy Authority to Accelerate the Development of the Dairy Industry in the Philippines, Providing for a Dairy Development Fund, and for Other Purposes"
  },
@@ -310,5 +310,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the National Dairy Authority to Accelerate the Development of the Dairy Industry in the Philippines, Providing for a Dairy Development Fund, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H279",
  "title": {
-  "zh": null,
+  "zh": "银行（公司治理）条例 2005",
   "en": "Banking (Corporate Governance) Regulations 2005",
   "orig": null
  },
@@ -434,5 +434,13 @@
     "en": "39.—(1) The Authority may, on the application of any bank incorporated in Singapore or major stake financial entity (each referred to in this regulation as the applicant), by notice in writing exempt the applicant from all or any of the provisions of these Regulations, subject to such conditions as the Authority may determine, if the Authority considers it appropriate to do so in the circumstances of the case.\n[S 512/2019 wef 01/08/2019]\n[S 503/2022 wef 30/06/2022]\n(2) Any applicant which fails to comply with any condition imposed by the Authority under paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000.\n(3) An exemption granted under paragraph (1) may be withdrawn by the Authority at any time."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Banking (Corporate Governance) Regulations 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

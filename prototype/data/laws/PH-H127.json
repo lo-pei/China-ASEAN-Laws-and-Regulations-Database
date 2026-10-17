@@ -1,7 +1,7 @@
 {
  "id": "PH-H127",
  "title": {
-  "zh": null,
+  "zh": "授权市镇向农业与工业银行举借贷款以建设公共市场与屠宰场的法案",
   "en": "An act Authorizing Municipalities to Contract Loans from the Agricultural and Industrial Bank for the Construction of Public Markets and Slaughterhouses",
   "orig": "An act Authorizing Municipalities to Contract Loans from the Agricultural and Industrial Bank for the Construction of Public Markets and Slaughterhouses"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 25, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act Authorizing Municipalities to Contract Loans from the Agricultural and Industrial Bank for the Construction of Public Markets and Slaughterhouses",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

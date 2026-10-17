@@ -1,7 +1,7 @@
 {
  "id": "PH-H1102",
  "title": {
-  "zh": null,
+  "zh": "指令将马尼拉市 Quezon 大道与 C. Lerma 街转角处 San Lazaro 教会土地的一部分出售给实际占有人的法案",
   "en": "An Act Directing the Sale of a Portion of the San Lazaro Friar Lands in the City of Manila, at the Corner of Quezon Boulevard and C. Lerma Street, to Actual Occupants",
   "orig": "An Act Directing the Sale of a Portion of the San Lazaro Friar Lands in the City of Manila, at the Corner of Quezon Boulevard and C. Lerma Street, to Actual Occupants"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Directing the Sale of a Portion of the San Lazaro Friar Lands in the City of Manila, at the Corner of Quezon Boulevard and C. Lerma Street, to Actual Occupants",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

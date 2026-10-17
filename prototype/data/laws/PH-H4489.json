@@ -1,7 +1,7 @@
 {
  "id": "PH-H4489",
  "title": {
-  "zh": null,
+  "zh": "授予 Alfredo Angeles 在南三宝颜省 Molave 市镇安装、维护和运营电灯、热力、动力系统及制冰厂的特许权法案",
   "en": "An Act Granting Alfredo Angeles a Franchise to Install, Maintain and Operate An Electric Light, Heat, Power System and An Ice Plant in the Municipality of Molave, Province of Zamboanga Del Sur",
   "orig": "An Act Granting Alfredo Angeles a Franchise to Install, Maintain and Operate An Electric Light, Heat, Power System and An Ice Plant in the Municipality of Molave, Province of Zamboanga Del Sur"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, June, 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Alfredo Angeles a Franchise to Install, Maintain and Operate An Electric Light, Heat, Power System and An Ice Plant in the Municipality of Molave, Province of Zamboanga Del Sur",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

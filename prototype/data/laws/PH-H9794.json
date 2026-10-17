@@ -1,7 +1,7 @@
 {
  "id": "PH-H9794",
  "title": {
-  "zh": null,
+  "zh": "确保电力持续不间断输送与分配、保护电力线路完整性与可靠性并对违规行为规定处罚的法案",
   "en": "An Act Ensuring the Continuous and Uninterrupted Transmission and Distribution of Electricity and the Protection of the Integrity and Reliability of Power Lines, and Providing Penalties for Violations Thereof",
   "orig": "An Act Ensuring the Continuous and Uninterrupted Transmission and Distribution of Electricity and the Protection of the Integrity and Reliability of Power Lines, and Providing Penalties for Violations Thereof"
  },
@@ -241,5 +241,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Ensuring the Continuous and Uninterrupted Transmission and Distribution of Electricity and the Protection of the Integrity and Reliability of Power Lines, and Providing Penalties for Violations Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

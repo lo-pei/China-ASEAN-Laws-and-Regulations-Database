@@ -1,7 +1,7 @@
 {
  "id": "SG-H3481",
  "title": {
-  "zh": null,
+  "zh": "公园与树木（罪行和解）条例",
   "en": "Parks and Trees (Composition of Offences) Regulations",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. All composition amounts shall be payable to the Board and may be paid —\n(a)by money order, postal order or cheque drawn on any bank in Singapore delivered or sent by post to the Board’s office;\n(b)by any electronic means as the Board may permit from time to time, subject to such terms and conditions as the Board may impose in connection with the use of such means; or\n(c)in such other manner as the Board may, from time to time, authorise in any particular case or class of cases.\n[G.N. No. S 520/2005]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Parks and Trees (Composition of Offences) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

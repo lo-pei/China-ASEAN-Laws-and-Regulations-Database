@@ -1,7 +1,7 @@
 {
  "id": "PH-H7712",
  "title": {
-  "zh": null,
+  "zh": "2003 年菲律宾图书馆学法",
   "en": "The Philippine Librarianship Act of 2003",
   "orig": "The Philippine Librarianship Act of 2003 An Act Modernizing the Practice of Librarianship in the Philippines Thereby Repealing Republic Act No. 6966, Entitled: \"An Act Regulating the Practice of Librarianship and Prescribing the Qualifications of Librarians,\" Appropriating Funds Therefor and for Other Purposes"
  },
@@ -519,5 +519,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following its publication in the Official Gazette or a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Philippine Librarianship Act of 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

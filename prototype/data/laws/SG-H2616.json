@@ -1,7 +1,7 @@
 {
  "id": "SG-H2616",
  "title": {
-  "zh": null,
+  "zh": "资讯通信媒体发展局（受管制人士）公告 2026",
   "en": "Info-communications Media Development Authority (Regulated Persons) Notification 2026",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nRegulated persons\n1. SPH Media Limited.\n2.—(1) Any person who holds a broadcasting licence granted under the Broadcasting Act 1994 to provide any of the licensable broadcasting services set out in sub‑paragraph (2), or any entity whose business is regulated by a broadcasting licence granted under that Act to provide the licensable broadcasting services set out in that sub‑paragraph, including a trust.\n(2) The licensable broadcasting services for the purposes of sub‑paragraph (1) are the following:\n(a)free‑to‑air nationwide television services;\n(b)free‑to‑air localised television services;\n(c)subscription nationwide television services;\n(d)subscription localised television services;\n(e)special interest television services;\n(f)free‑to‑air nationwide radio services;\n(g)free‑to‑air localised radio services;\n(h)subscription nationwide radio services;\n(i)subscription localised radio services;\n(j)special interest radio services;\n(k)video‑on‑demand services."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Info-communications Media Development Authority (Regulated Persons) Notification 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3145",
  "title": {
-  "zh": null,
+  "zh": "终身健保计划（私人医疗保险计划）条例 2015",
   "en": "MediShield Life Scheme (Private Medical Insurance Scheme) Regulations 2015",
   "orig": null
  },
@@ -214,5 +214,13 @@
     "en": "SECOND SCHEDULE\nRegulation 5(1)(b) and (3)\nWITHDRAWAL LIMITS for\nNon-Integrated Shield Plan\n1. The medisave withdrawal limit for an insured person’s non–integrated shield plan which commences or is renewed on or after 1 November 2015 is the sum of —\n(a)the standard premium specified in the First Schedule to the MediShield Life Scheme Regulations 2015; and\n(b)the amount specified in the second column of the First Schedule,\ncorresponding to the insured person’s age on that person’s next birthday falling after the first day of the insurance period to which the premium relates."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "MediShield Life Scheme (Private Medical Insurance Scheme) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

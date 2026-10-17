@@ -1,7 +1,7 @@
 {
  "id": "SG-H1008",
  "title": {
-  "zh": null,
+  "zh": "货币法——硬币面额与特征",
   "en": "Currency Act — Denomination and Characteristics of Coin",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE BRUNEI ROYAL WEDDING $10000 COMMEMORATIVE COIN TO BE ISSUED ON 7TH SEPTEMBER 2004\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n10000 Dollars\n999.9 Fine Gold\n373.24 g + 3.00 g\n65.00 mm ± 0.30 mm\n6.50 mm ± 0.50 mm\nRound\nMilled and bearing the words “MONETARY AUTHORITY OF SINGAPORE” and lion symbol.\nThe Singapore Arms in the centre with the “$10000” denomination above it and the year-date “2004” below it. The word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’ clock.\nThe main feature of the coin is the portrait of the royal couple in the centre, with the words “DYTM PADUKA SERI PENGIRAN MUDA MAHKOTA PENGIRAN MUDA HAJI AL-MUHTADEE BILLAH AND DAYANGKU SARAH BINTI PENGIRAN SALLEH AB RAHAMAN” below it. At the circumference, the words “IN COMMEMORATION OF THE ROYAL WEDDING OF THE CROWN PRINCE OF BRUNEI DARUSSALAM” are above the portrait, and the wedding date “9 SEPTEMBER 2004” at the bottom.\n(a)Reverse Design of the $10000 Gold Proof Coin.\n(b)Obverse Design of the $10000 Gold Proof Coin."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency Act — Denomination and Characteristics of Coin",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

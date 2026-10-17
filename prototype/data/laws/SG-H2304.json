@@ -1,7 +1,7 @@
 {
  "id": "SG-H2304",
  "title": {
-  "zh": null,
+  "zh": "所得税（LVMH 香水与化妆品（新加坡）私人有限公司——第 13(12) 条豁免）命令 2010",
   "en": "Income Tax (LVMH Fragrances and Cosmetics (Singapore) Pte Ltd — Section 13(12) Exemption) Order 2010",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) LVMH Fragrances and Cosmetics (Singapore) Pte Ltd is hereby granted exemption from tax on the dividends received in Singapore from Parfums Christian Dior Orient FZCO (called in this Order PCD Orient) located in United Arab Emirates, being a company in which LVMH Fragrances and Cosmetics (Singapore) Pte Ltd owns 20% of the total number of issued ordinary shares.\n[S 506/2025 wef 28/07/2025]\n(2) In the case of the following dividends, sub‑paragraph (1) only applies where they are received in Singapore in the basis periods for the year of assessment 2017 and subsequent years of assessment:\n(a)dividends that are derived from dividends which PCD Orient receives from its subsidiary, PCD Saudi Arabia Company (A Limited Liability Company) (a company incorporated in Saudi Arabia);\n[S 506/2025 wef 28/07/2025]\n(b)dividends that are derived from dividends which PCD Orient receives from its subsidiary, PCD DUBAI GENERAL TRADING L.L.C (a company incorporated in Dubai).\n[S 506/2025 wef 28/07/2025]\n[S 504/2019 wef 22/07/2019]\n(2A) The exemption in sub-paragraph (1) applies to dividends received by LVMH Fragrances and Cosmetics (Singapore) Pte Ltd that are derived from dividends which PCD Orient receives from its subsidiary, G BEAUTY ORIENT L.L.C (a company incorporated in the United Arab Emirates), only if the firstmentioned dividends are received in Singapore on or after 3 May 2024.\n[S 506/2025 wef 28/07/2025]\n(3) The exemption in sub-paragraph (1) for dividends other than those specified in sub-paragraphs (2) and (2A) is subject to the conditions specified in —\n(a)the letters from the Ministry of Finance dated 8 December 2010 and 7 November 2018 and both addressed to Ernst & Young Solutions LLP; and\n(b)the letter from the Inland Revenue Authority of Singapore dated 28 March 2025 that is issued on behalf of the Minister for Finance and addressed to EY Corporate Advisors Pte. Ltd.\n[S 506/2025 wef 28/07/2025]\n(4) The exemption for the dividends specified in sub-paragraph (2) is subject to the conditions specified in —\n(a)the letter from the Ministry of Finance dated 7 November 2018 and addressed to Ernst & Young Solutions LLP; and\n(b)the letter from the Inland Revenue Authority of Singapore dated 28 March 2025 that is issued on behalf of the Minister for Finance and addressed to EY Corporate Advisors Pte. Ltd.\n[S 506/2025 wef 28/07/2025]\n(5) The exemption for the dividends specified in sub-paragraph (2A) is subject to the conditions specified in the letter from the Inland Revenue Authority of Singapore dated 28 March 2025 that is issued on behalf of the Minister for Finance and addressed to EY Corporate Advisors Pte. Ltd.\n[S 506/2025 wef 28/07/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (LVMH Fragrances and Cosmetics (Singapore) Pte Ltd — Section 13(12) Exemption) Order 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

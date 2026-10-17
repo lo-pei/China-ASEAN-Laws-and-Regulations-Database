@@ -1,7 +1,7 @@
 {
  "id": "SG-H910",
  "title": {
-  "zh": null,
+  "zh": "信用局条例 2021",
   "en": "Credit Bureau Regulations 2021",
   "orig": null
  },
@@ -160,5 +160,13 @@
     "en": "THE SCHEDULE\nRegulations 3(4)(b) and 4(1)\nFees\nFirst column\nSecond column\nThird column\nProvision of Act\nMatter\nAmount\n1.Section 7(4)(c)(ii)\nApplication for grant of a licence\n$4,000\n2.Section 8(1)(c)\nApplication to renew a licence\n$4,000\n3.Section 8(2)\nLate application fee (payable in addition to item 2) —\n(a)where the application is submitted to the Authority not later than 10 days after the renewal deadline\n$1,000\n(b)where the application is submitted to the Authority more than 10 days after the renewal deadline\n$2,000\n4.Section 10(1)\nAnnual licence fee\n$60,000"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Credit Bureau Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

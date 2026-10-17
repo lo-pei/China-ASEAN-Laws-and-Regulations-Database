@@ -1,7 +1,7 @@
 {
  "id": "SG-H1201",
  "title": {
-  "zh": null,
+  "zh": "经济扩展奖励（所得税减免）（合资格活动）条例",
   "en": "Economic Expansion Incentives (Relief from Income Tax) (Qualifying Activity) Regulations",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nServices and Activities\nPart I\n(1) Services and activities which relate to the provision of entertainment, leisure and recreation.\n(2) Publishing services.\n(3) Services which relate to the provision of education.\n(4) Medical services.\n(5) Services and activities which relate to agricultural technology.\n(6) Services and activities which relate to the provision of automated warehousing facilities.\n(7) [Deleted by S 79/2017 wef 02/03/2017]\n(8) Financial services.\n(9) Business consultancy, management and professional services.\n(10) [Deleted by S 79/2017 wef 02/03/2017]\n(11) Services and activities which relate to international trade.\n(12) [Deleted by S 79/2017 wef 02/03/2017]\n(13) [Deleted by S 79/2017 wef 02/03/2017]\n(14) Services provided by an auction house.\n(15) [Deleted by S 79/2017 wef 02/03/2017]\nPart II\n(1) Services and activities engaged in by a company which relate to logistics and freight forwarding and which are not approved as shipping-related support services provided by the company under section 43ZF of the Income Tax Act (Cap. 134).\n[S 410/2013 wef 01/06/2011]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Economic Expansion Incentives (Relief from Income Tax) (Qualifying Activity) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

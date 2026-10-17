@@ -1,7 +1,7 @@
 {
  "id": "PH-H7222",
  "title": {
-  "zh": null,
+  "zh": "重定第 8746 号共和国法规定的棉兰老穆斯林自治区民选官员定期选举日期并为其他目的法案",
   "en": "An Act Resetting the Regular Elections for the Elective Officials of the Autonomous Region in Muslim Mindanao Provided for Under Republic Act No. 8746 and for Other Purposes",
   "orig": "An Act Resetting the Regular Elections for the Elective Officials of the Autonomous Region in Muslim Mindanao Provided for Under Republic Act No. 8746 and for Other Purposes"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon approval by the President."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Resetting the Regular Elections for the Elective Officials of the Autonomous Region in Muslim Mindanao Provided for Under Republic Act No. 8746 and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

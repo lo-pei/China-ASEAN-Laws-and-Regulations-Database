@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-256-RG-1-2023-BUILDING-CONTROL-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG 1 2023 版建筑管制条例",
   "en": "RG 1 2023 ED BUILDING CONTROL REGULATIONS",
   "orig": null
  },
@@ -1012,5 +1012,13 @@
     "en": "Any qualified person, builder, site supervisor or developer of building works, as the case may be, who contravenes regulation 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 42A, 44, 57, 58(1) or 59 is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding one year or both. [S 11/2021]\n\nSCHEDULE 1 (regulation 5)\n\nINSIGNIFICANT BUILDING WORKS"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 1 2023 ED BUILDING CONTROL REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

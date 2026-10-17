@@ -1,7 +1,7 @@
 {
  "id": "SG-H3489",
  "title": {
-  "zh": null,
+  "zh": "国会（特权、豁免与权力）法 1962",
   "en": "Parliament (Privileges, Immunities and Powers) Act 1962",
   "orig": null
  },
@@ -694,5 +694,13 @@
     "en": "40. Upon any inquiry touching the privileges, immunities and powers of Parliament, the Speaker, any Member or any committee, any copy of the journals printed or published or purporting to be printed or published by the order of Parliament or by the Government Printer shall be admitted as evidence of such journals in all courts and places without proof of its being such copy or that such copy was so printed or published.\n[Act 5 of 2025 wef 09/03/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Parliament (Privileges, Immunities and Powers) Act 1962",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

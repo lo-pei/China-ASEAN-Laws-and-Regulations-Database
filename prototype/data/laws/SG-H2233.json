@@ -1,7 +1,7 @@
 {
  "id": "SG-H2233",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）公告 2016",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2016",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The interest payable by Loreto Maritime Pte Ltd to —\n(a)CITIC Pacific Limited (now known as CITIC Limited) from 10 February 2014 to 9 September 2014 (both dates inclusive); and\n(b)CITIC Mining International Ltd from 10 September 2014 to 31 October 2014 (both dates inclusive),\nin respect of a loan of US$198,725 obtained under a loan agreement dated 3 May 2012 for the partial financing of the construction of “Magdragon II” (a vessel registered as a Singapore ship under the Merchant Shipping Act (Cap. 179)), is exempt from tax."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

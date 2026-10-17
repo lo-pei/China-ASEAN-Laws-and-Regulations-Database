@@ -1,7 +1,7 @@
 {
  "id": "SG-H429",
  "title": {
-  "zh": null,
+  "zh": "终身护保与长期护理（乐龄健保计划）条例 2021",
   "en": "CareShield Life and Long-Term Care (ElderShield Scheme) Regulations 2021",
   "orig": null
  },
@@ -526,5 +526,13 @@
     "en": "FOURTH SCHEDULE\nRegulation 22(1)(b)(ii)\nInsured sum for individuals\nmentioned in regulation 22(1)(b)(ii)\nPolicy Year\nAge at Commencement of Insurance Coverage\nunder ESH 300 Scheme\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n5\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n100\n6\n125\n125\n125\n125\n125\n125\n125\n125\n125\n125\n125\n125\n125\n125\n7\n155\n155\n155\n155\n155\n155\n155\n155\n155\n155\n155\n155\n155\n155\n8\n193\n193\n193\n193\n193\n193\n193\n193\n193\n193\n193\n193\n193\n193\n9\n241\n241\n241\n241\n241\n241\n241\n241\n241\n241\n241\n241\n241\n241\n10\n300\n300\n300\n300\n300\n300\n300\n300\n300\n300\n300\n300\n300\n300"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "CareShield Life and Long-Term Care (ElderShield Scheme) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

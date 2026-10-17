@@ -1,7 +1,7 @@
 {
  "id": "SG-H610",
  "title": {
-  "zh": null,
+  "zh": "基督教兄弟会学校视察员条例 1915",
   "en": "Christian Brothers’ Schools Visitor Ordinance 1915",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. Nothing in this Ordinance shall affect the rights of the Government or of any body politic or corporate or of any other persons except such as are mentioned in this Ordinance and those claiming by, from or under them.\n[7/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Christian Brothers’ Schools Visitor Ordinance 1915",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

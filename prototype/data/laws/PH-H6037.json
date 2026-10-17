@@ -1,7 +1,7 @@
 {
  "id": "PH-H6037",
  "title": {
-  "zh": null,
+  "zh": "南内格罗斯门户",
   "en": "The Gateway To Southern Negros",
   "orig": "An Act To Honor and Perpetuate the Memory of the Late Rafael M. Salas By Naming the 7.9-km. Strip of the National Highway, Commencing At Sitio Camates, Barangay Sampinit, Situated At Km. 18 + 400, Bago City, Up To the Boundary of the Adjacent Municipality of Pulupandan, Situated At Km. 26 + 300, Province of Negros Occidental, As the Rafael M. Salas Drive - \"The Gateway To Southern Negros\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Gateway To Southern Negros",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

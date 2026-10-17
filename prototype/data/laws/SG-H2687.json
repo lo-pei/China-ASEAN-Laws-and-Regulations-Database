@@ -1,7 +1,7 @@
 {
  "id": "SG-H2687",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 2 号）命令 2023",
   "en": "Infrastructure Protection (Protected Places) (No. 2) Order 2023",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nPart 1\nFirst column\nSecond column\nThe Authority\nProtected Place\nCommissioner of Police,\nSingapore Police Force\nNEW PHOENIX PARK\nAll that area comprised in part of Lots 992P(PT) and 901A in TS No. 29 occupied by “NEW PHOENIX PARK” containing an area of about 44,119 square metres and bounded approximately as follows:\nCommencing at the north‑easternmost corner of “NEW PHOENIX PARK” at a point 34,125.420 metres North and 29,390.041 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n34,125.420\n29,390.041\n34,074.369\n29,388.948\n34,053.810\n29,387.239\n34,026.545\n29,383.934\n34,006.058\n29,380.990\n33,980.953\n29,375.878\n33,965.322\n29,371.752\n33,961.239\n29,369.400\n33,960.778\n29,369.115\n33,957.775\n29,369.236\n33,948.247\n29,366.390\n33,934.235\n29,361.319\n33,903.315\n29,348.709\n33,902.206\n29,346.698\n33,896.687\n29,344.390\n33,890.686\n29,341.369\n33,884.717\n29,338.067\n33,878.051\n29,334.699\n33,878.056\n29,334.002\n33,878.460\n29,328.656\n33,878.522\n29,281.780\n33,878.047\n29,281.852\n33,877.890\n29,221.659\n33,878.080\n29,180.835\n33,900.270\n29,180.781\n33,900.277\n29,159.201\n33,948.378\n29,159.944\n33,948.410\n29,157.553\n33,979.288\n29,157.906\n34,002.320\n29,158.189\n34,020.102\n29,158.411\n34,053.420\n29,158.856\n34,078.632\n29,244.210\n34,117.161\n29,374.650\n34,125.976\n29,377.365\nto the point of commencement.\nThe boundaries of “NEW PHOENIX PARK” are more particularly delineated in the Survey Plan set out below.\nPart 2\nSPECIFIED SURROUNDING AREA OF NEW PHOENIX PARK\nAll that area comprised in part of Lots 992P(PT), 901A, 903N(PT), 991V and 945T(PT) in TS No. 29 occupied by the “SPECIFIED SURROUNDING AREA OF NEW PHOENIX PARK”, the boundaries of which are more particularly delineated in the map set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 2) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

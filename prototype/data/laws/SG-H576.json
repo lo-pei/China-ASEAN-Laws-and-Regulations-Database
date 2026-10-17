@@ -1,7 +1,7 @@
 {
  "id": "SG-H576",
  "title": {
-  "zh": null,
+  "zh": "慈善（过渡与保留条款）条例 2011",
   "en": "Charities (Transitional and Savings Provision) Regulations 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Part IV of the Charities Act (Cap. 37, 2007 Ed.) in force immediately before 1st March 2011 shall continue to apply to a charity (not being an exempt charity) in respect of its accounting records, statements of accounts or receipts and payments accounts and statements of assets and liabilities, as the case may be, and annual reports, for any financial year ending before 1st March 2011.\n(2) For the avoidance of doubt, Part IV of the Act (as amended by the Charities (Amendment) Act 2010 (Act 34 of 2010)) and the Charities (Accounts and Audit) Regulations 2011 (G.N. No. S 89/2011) shall apply to a charity in respect of its accounting records, statements of accounts or receipts and payments accounts and statements of assets and liabilities, as the case may be, and annual reports, for any financial year ending on or after 1st March 2011."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Charities (Transitional and Savings Provision) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

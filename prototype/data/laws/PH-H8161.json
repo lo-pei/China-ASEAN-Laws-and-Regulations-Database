@@ -1,7 +1,7 @@
 {
  "id": "PH-H8161",
  "title": {
-  "zh": null,
+  "zh": "将东达沃-苏里高海岸公路沿线自孔波斯特拉谷省与东达沃省边界起的一段国家公路命名的法案",
   "en": "An Act Naming a Stretch of the National Highway Along the Davao Oriental - Surigao Coastal Road Which Begins At the Boundary of the Provinces of Compostela Valley and Davao Oriental Up to...",
   "orig": "An Act Naming a Stretch of the National Highway Along the Davao Oriental - Surigao Coastal Road Which Begins At the Boundary of the Provinces of Compostela Valley and Davao Oriental Up to..."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming a Stretch of the National Highway Along the Davao Oriental - Surigao Coastal Road Which Begins At the Boundary of the Provinces of Compostela Valley and Davao Oriental Up to...",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H751",
  "title": {
-  "zh": null,
+  "zh": "共同服务隧道（滨海湾共同服务隧道区宣告）公告 2021",
   "en": "Common Services Tunnels (Declaration of Marina Bay Common Services Tunnel Area) Notification 2021",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nMarina Bay Common Services Tunnel Area\n1. The area bounded by Shenton Way, Raffles Quay, along the northern boundary of Lot TS30‑00185K, along the boundaries of waterfront promenade and lots fronting Marina Bay comprising of Lot TS30‑00390V, Lot TS30‑00554A, Lot TS30‑00379X, Lot TS30‑00380K, along the boundaries of lots fronting the Marina Channel comprising of Lot TS30‑00394K, Lot TS30‑00463P, Lot TS30‑00540A, Lot TS30‑00570T (north‑eastern boundary), along the boundaries of lots fronting the Singapore Strait comprising of Lot TS30‑00570T (south‑eastern boundary), Lot TS30‑00572K, Lot TS30‑00562C, Lot TS30‑00560X, Lot TS30‑00536T, Lot TS30‑00537A, Lot TS30‑00559C (south‑eastern boundary), along the south‑western boundaries of lots south‑west of the Marina Coastal Expressway fronting Keppel Harbour comprising of Lot TS30‑00559C, Lot TS30‑00563M, Lot TS30‑00512X, Lot TS30‑00322C, Lot TS30‑00513L, Lot TS30‑00521P, Lot TS30‑00524K, Lot TS30‑00515M, along the southern edge of the Keppel Viaduct, into and along Shenton Way and more particularly delineated in the plan below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Common Services Tunnels (Declaration of Marina Bay Common Services Tunnel Area) Notification 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H8145",
  "title": {
-  "zh": null,
+  "zh": "将自伊里加市与布希市镇边界起、经胡斯蒂娜与卢尔德斯描笼涯至布希市镇政府的公路命名为Maximo Noble Sr.公路的法案",
   "en": "An Act Naming the Road Starting From the Boundary of Iriga City and the Municipality of Buhi, Passing Through Barangays Justina and Lourdes and Ending At the Municipal Hall of Buhi, Province of Camarines Sur as the Maximo Noble Sr. Highway",
   "orig": "An Act Naming the Road Starting From the Boundary of Iriga City and the Municipality of Buhi, Passing Through Barangays Justina and Lourdes and Ending At the Municipal Hall of Buhi, Province of Camarines Sur as the Maximo Noble Sr. Highway"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Road Starting From the Boundary of Iriga City and the Municipality of Buhi, Passing Through Barangays Justina and Lourdes and Ending At the Municipal Hall of Buhi, Province of Camarines Sur as the Maximo Noble Sr. Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

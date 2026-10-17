@@ -1,7 +1,7 @@
 {
  "id": "PH-H9804",
  "title": {
-  "zh": null,
+  "zh": "通过将 Malampaya 天然气项目国家政府净分成一部分用于支付搁浅合同成本与搁浅债务以降低电价的法案",
   "en": "An Act Reducing Electricity Rates by Allocating a Portion of the Net National Government Share from the Malampaya Natural Gas Project for the Payment of the Stranded Contract Costs and Stranded Debts",
   "orig": "An Act Reducing Electricity Rates by Allocating a Portion of the Net National Government Share from the Malampaya Natural Gas Project for the Payment of the Stranded Contract Costs and Stranded Debts"
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reducing Electricity Rates by Allocating a Portion of the Net National Government Share from the Malampaya Natural Gas Project for the Payment of the Stranded Contract Costs and Stranded Debts",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

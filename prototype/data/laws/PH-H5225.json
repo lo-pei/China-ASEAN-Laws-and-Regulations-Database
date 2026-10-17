@@ -1,7 +1,7 @@
 {
  "id": "PH-H5225",
  "title": {
-  "zh": null,
+  "zh": "政府对私立教育学生与教师的资助法",
   "en": "Government Assistance to Students and Teachers in Private Education Act.",
   "orig": "Government Assistance to Students and Teachers in Private Education Act. An Act Providing Government Assistance to Students and Teachers in Private Education, and Appropriating Funds Therefor"
  },
@@ -230,5 +230,13 @@
     "en": "Effectivity Clause. - This Act shall take effect immediately upon its publication in English in an English newspaper and in Filipino in a Filipino newspaper, both of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Government Assistance to Students and Teachers in Private Education Act.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

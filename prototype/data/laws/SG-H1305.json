@@ -1,7 +1,7 @@
 {
  "id": "SG-H1305",
  "title": {
-  "zh": null,
+  "zh": "节能（订明受管制商品）命令 2017",
   "en": "Energy Conservation (Prescribed Regulated Goods) Order 2017",
   "orig": null
  },
@@ -183,5 +183,13 @@
     "en": "EIGHTH SCHEDULE\nParagraphs 2(h) and 2A(f)\nPart 1\nWATER HEATERS THAT ARE REGULATED GOODS\nFirst column\nSecond column\nThird column\nDescription of water heater\nDate from which it becomes regulated goods for purposes of section 12(1)(a) of Act\nDate from which it becomes regulated goods for purposes of section 12(1)(b) of Act\n1.Any specified water heater\n1 April 2025\n1 July 2026\n[S 382/2026 wef 01/07/2026]\nPart 2\nDEFINITIONS\nIn this Schedule —\n“electric instantaneous water heater” means an instantaneous-type water heater that heats water solely by the Joule effect in electric resistance heating;\n“electric storage water heater” means a storage-type water heater that heats water within a tank solely by the Joule effect in electric resistance heating;\n“gas instantaneous water heater” means an instantaneous-type water heater that heats water primarily by the combustion of fossil fuel;\n“heat pump water heater” means a storage-type water heater that heats water within a tank primarily by the transfer of thermal energy using a refrigerant;\n“instantaneous-type water heater” means a water heater that is designed to heat water only when heated water is drawn from the water heater by means of a heat exchanger;\n“specified water heater” means any of the following that is intended for household use:\n(a)an electric instantaneous water heater with rated input power of 12kW or less;\n(b)an electric storage water heater with rated input power of 12kW or less and rated tank capacity of 500L or less;\n(c)a gas instantaneous water heater with rated input power of 59kW or less;\n(d)a heat pump water heater with rated input power of 6kW or less and rated tank capacity of 500L or less;\n“storage-type water heater” means a water heater that heats and stores water in a tank at a thermostatically-controlled temperature for delivery on demand by —\n(a)the Joule effect in electric resistance heating;\n(b)transfer of thermal energy using a refrigerant; or\n(c)both paragraphs (a) and (b);\n“water heater” means an appliance that —\n(a)is designed to heat water below boiling temperature; and\n(b)has a rated voltage of not more than the following, as the case may be:\n(i)250V for single-phase power appliances;\n(ii)480V for other appliances,\nand includes a direct current (DC) supplied appliance and a battery-operated appliance but not an appliance that collects and concentrates sunlight to heat water by means of a solar thermal collector.\n[S 112/2025 wef 01/04/2025]\n[S 382/2026 wef 01/07/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Energy Conservation (Prescribed Regulated Goods) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

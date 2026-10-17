@@ -1,7 +1,7 @@
 {
  "id": "PH-H1250",
  "title": {
-  "zh": null,
+  "zh": "修订第291号共和国法第9条，分别授予担任参谋长与副参谋长的军官中将与少将军衔的法案",
   "en": "An Act Amending Section Nine of Republic Act Numbered Two Hundred Ninety-One so as to Confer the Grades of Lieutenant General and Major General Upon the Officers Holding the Positions of Chief of Staff and Vice-Chief of Staff, Respectively",
   "orig": "An Act Amending Section Nine of Republic Act Numbered Two Hundred Ninety-One so as to Confer the Grades of Lieutenant General and Major General Upon the Officers Holding the Positions of Chief of Staff and Vice-Chief of Staff, Respectively"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 14, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Nine of Republic Act Numbered Two Hundred Ninety-One so as to Confer the Grades of Lieutenant General and Major General Upon the Officers Holding the Positions of Chief of Staff and Vice-Chief of Staff, Respectively",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

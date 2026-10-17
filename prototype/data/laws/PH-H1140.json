@@ -1,7 +1,7 @@
 {
  "id": "PH-H1140",
  "title": {
-  "zh": null,
+  "zh": "修订第920号共和国法第1条H编第（a）款第2项第（w）项的法案",
   "en": "An Act Amending Sub-Item (w), Item 2, Subsection (a), Title H, Section One of Republic Act Numbered Nine Hundred Twenty",
   "orig": "An Act Amending Sub-Item (w), Item 2, Subsection (a), Title H, Section One of Republic Act Numbered Nine Hundred Twenty"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Sub-Item (w), Item 2, Subsection (a), Title H, Section One of Republic Act Numbered Nine Hundred Twenty",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

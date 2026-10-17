@@ -1,7 +1,7 @@
 {
  "id": "PH-H8840",
  "title": {
-  "zh": null,
+  "zh": "将打拉省 Paniqui 的陆路运输办公室（LTO）附属办公室改设为正规 LTO 区办公室并为其拨款及为其他目的",
   "en": "An Act Converting the Land Transportation Office (LTO) Extension Office Located in Paniqui, Tarlac into a Regular LTO District Office, Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act Converting the Land Transportation Office (LTO) Extension Office Located in Paniqui, Tarlac into a Regular LTO District Office, Appropriating Funds Therefor and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Land Transportation Office (LTO) Extension Office Located in Paniqui, Tarlac into a Regular LTO District Office, Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

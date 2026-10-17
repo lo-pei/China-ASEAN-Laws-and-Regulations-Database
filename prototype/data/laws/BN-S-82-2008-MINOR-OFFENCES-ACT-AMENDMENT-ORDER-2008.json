@@ -1,0 +1,83 @@
+{
+ "id": "BN-S-82-2008-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2008",
+ "title": {
+  "zh": "轻微罪行法修正命令 2008",
+  "en": "MINOR OFFENCES ACT AMENDMENT ORDER 2008",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p33",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 3,
+ "chars": 1320,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null,
+  "file": "S-82-2008-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2008.pdf"
+ },
+ "sourceFile": "S-82-2008-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2008.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "【源件无文本层，本记录为 OCR 补录】源 PDF 为纯扫描图像（无文本层），已用 Windows OCR 引擎识别；本机仅安装**简体中文识别模型**（无英文语言包），故对英文法条的字符准确率有限（易混：l/I、o/0、m/ın、大小写），并可能残留页边条标题。**本记录仅可用于检索定位，不可作为逐字引用依据；逐字引用请以原始 PDF 为准**。 本件共 3 页，切分 3 条。",
+ "textQuality": "ocr-windows-zh-Hans",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-82-2008-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2008-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Order shall be cited as the Minor Offences Act 〔 Amendment) Order 2008 · Amendment of section 12 国 of Chapter 30 ·"
+   }
+  },
+  {
+   "id": "BN-S-82-2008-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2008-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section 12 ( 1 ) of the Minor Offences Act, in this Order referred to as the principal Act, is amended by deleting \" Municipal lnspector, lnspector of HeaIth a ny District Officer and any person authorised by him, the Director General of PubIic Works and a ny person authorised by him, and the Director of Environment, Par ks and Recreation and a ny person authorised by him\" and by substituting \"and any person authorised by the Minister by notification in the Gaze tte \" therefor. Substitution of section 32A ·"
+   }
+  },
+  {
+   "id": "BN-S-82-2008-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2008-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Section 32A of the principal Act is repealed and the following new section substituted therefor t'Powers Of investigation. 32A · ln any case relating to the commission of an offence under this Act any person authorised by the Minister by notification in the Gaze tte shall have all the powers of a police officer under the Criminal Procedure Code (Chapter 7 ) in relation to an investigation into a seizable offence. ' 2529\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE Made this 28th. day of Syaaban , 1429 Hijriah corresponding to the 30th. day of August/ 2008 at Our lstana Nurul lmanr Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM 2530"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MINOR OFFENCES ACT AMENDMENT ORDER 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

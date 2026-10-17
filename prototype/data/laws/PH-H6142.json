@@ -1,7 +1,7 @@
 {
  "id": "PH-H6142",
  "title": {
-  "zh": null,
+  "zh": "延长私有化委员会与资产私有化信托存续期限的法案",
   "en": "An Act Extending the Life of the Committee on Privatization and Asset Privatization Trust",
   "orig": "An Act Amending Republic Act Numbered Seven Thousand One Hundred and Eighty-One, Entitled \"An Act Extending the Life of the Committee on Privatization and Asset Privatization Trust\""
  },
@@ -60,5 +60,13 @@
     "en": "Section 2 of the same Act is hereby amended to read as follows:\n\"Section 2. The following conditions shall be adhered to in privatization:\n\"(a) In the disposition of assets in corporate form, there shall be no undue dislocation of labor unless all benefits as provided by existing laws or Collective Bargaining Agreements (CBA) shall be complied with: and Provided, That the old qualified personnel shall be given preference in the hiring of new personnel by the new owners.\n\"(b) Assets for disposal shall not revert to previous owners who after final judgment by the proper agency or a court of law, have been found to have mismanaged or diverted the resources of the assets which resulted in loss and bankruptcy: Provided, That if assets are to be reverted back to the previous owner, the price shall not be less than the original transfer price.\n\"(c) Privatization of government assets classified as a strategic industry by the National Economic and Development Authority (NEDA) shall first be approved by the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Life of the Committee on Privatization and Asset Privatization Trust",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

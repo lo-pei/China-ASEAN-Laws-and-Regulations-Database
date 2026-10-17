@@ -1,7 +1,7 @@
 {
  "id": "SG-H2053",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 3 号）命令 2012",
   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2012",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Amcor Fibre Packaging-Asia Pte Ltd is hereby granted exemption from tax on the dividends received in Singapore on or after 31st May 2006 from AMVIG Holdings Limited located in Hong Kong.\n(2) The exemption under sub-paragraph (1) is subject to the terms and conditions specified in the letters of approval dated 25th July 2012 and 16th August 2012 addressed to the tax agent of Amcor Fibre Packaging-Asia Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

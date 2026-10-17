@@ -1,7 +1,7 @@
 {
  "id": "SG-H1378",
  "title": {
-  "zh": null,
+  "zh": "环境公共卫生（出庭通知）条例",
   "en": "Environmental Public Health (Notice to Attend Court) Regulations",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. A Notice to be served on any person under section 21 of the Act shall be in Form A, B or C provided at the Agency’s official website at http://www.nea.gov.sg.\n[S 129/2009 wef 01/04/2009]\n[S 92/2017 wef 28/04/2017]\n[S 279/2019 wef 01/04/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Notice to Attend Court) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

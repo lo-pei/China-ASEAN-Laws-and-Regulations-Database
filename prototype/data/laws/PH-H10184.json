@@ -1,7 +1,7 @@
 {
  "id": "PH-H10184",
  "title": {
-  "zh": null,
+  "zh": "Adiong纪念州立学院",
   "en": "Adiong Memorial State College",
   "orig": "An Act Renaming the Adiong Memorial Polytechnic State College in the Municipality of Ditsaan-Ramain, Province of Lanao Del Sur, as the \"Adiong Memorial State College\""
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall become effective fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Adiong Memorial State College",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

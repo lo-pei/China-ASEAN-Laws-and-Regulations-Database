@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-151-2014-WEIGHTS-AND-MEASURES-ACT",
  "title": {
-  "zh": null,
+  "zh": "度量衡法",
   "en": "WEIGHTS AND MEASURES ACT",
   "orig": null
  },
@@ -228,5 +228,13 @@
     "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations for the better carrying out of the provisions and purposes of this Act, and in particular and without prejudice to the generality of the foregoing power, such regulations may provide for any or all the following purposes —\n\n(a) prohibiting the importation into Brunei Darussalam of certain types of weighing or measuring equipment;\n\n(b) the methods of inspecting, verifying and stamping weights, measures, copies and models thereof, all other weighing or measuring equipment, and of certifying such verification;\n\n(c) prescribing the amount of error that may be tolerated in weighing or measuring equipment;\n\n(d) requiring the marking on weights and measures of their denominations and on other weighing or measuring equipment of their capacities, and prescribing the manner of doing so;\n\n(e) exempting any particular classes of weighing or measuring equipment from the requirements of this Act;\n\n(f) limiting the purposes for which certain weighing or measuring equipment may lawfully be used and prescribing the types of such equipment to be used in certain trades;\n\n(g) prescribing the types of weighing or measuring equipment that shall or shall not be legal for use in trade and how they shall be marked to so indicate;\n\n(h) prohibiting the use of any particular kind or kinds of weighing or measuring equipment except in compliance with the conditions set out in the regulations;\n\n(i) requiring weighing or measuring equipment to be inspected, verified and stamped or, if necessary, the stamp\n\n(j) prescribing the requirements to be observed, the facilities, apparatus and assistance to be provided and the proper storage of testing equipment to be furnished by owners of weighing or measuring equipment for the purpose of inspection and verification\n\n(k) prohibiting the sale by retail of any goods therein specified otherwise than in the prescribed net weights or measures;\n\n(l) prescribing the manner of marking of wrappers or containers of pre-packed goods sold by weight or measure or on tickets, cards or labels associated therewith, to indicate the contents of the wrapper or container;\n\n(m) regulating the sale with regard to the determination of weight or measure of particular goods when such goods are sold by weight or measure;\n\n(n) as to the method by which and the conditions under which quantity is to be determined in connection with any requirements\n\n(o) requiring persons who sell, make, possess, offer, expose or carry for sale any goods which they are prohibited from selling otherwise than by net weight or measure to provide, for the use of persons buying or proposing to buy such goods from them, the means of verifying or checking the net weight or measure of the goods;\n\n(p) prohibiting the importation of pre-packed goods for sale within Brunei Darussalam which do not comply with the requirements of this Act;\n\n(q) prescribing the fees which an inspector under this Act may take in respect of the verification of weights and measures and instruments for weighing.\n\n(2) Regulations made under this Act may be made applicable throughout or to any part of Brunei Darussalam. Weights and Measures\n\nSUBSIDIARY LEGISLATION\n\nTABLE OF CONTENTS Rg 1 Weights and Measures (Verification) Regulations Rg 2 Weights and Measures (Fees) Regulations\n\nWEIGHTS AND MEASURES ACT (CHAPTER 151) WEIGHTS AND MEASURES (VERIFICATION)\n\nREVISED EDITION 2014\n\nSUBSIDIARY LEGISLATION WEIGHTS AND MEASURES (VERIFICATION) REGULATIONS\n\nARRANGEMENT OF REGULATIONS"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "WEIGHTS AND MEASURES ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

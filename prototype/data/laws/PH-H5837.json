@@ -1,7 +1,7 @@
 {
  "id": "PH-H5837",
  "title": {
-  "zh": null,
+  "zh": "授予 Silangan Airways, Inc. 设立、运营和维护国内与国际航空客运、邮件、货物与财产运输服务的特许经营权法案",
   "en": "An Act Graniting to Silangan Airways, Inc., a Franchise to Establish, Operate and Maintain Transport Services for Carriage of Passengers, Mails, Goods and Property By Air Both Domestic and International",
   "orig": "An Act Graniting to Silangan Airways, Inc., a Franchise to Establish, Operate and Maintain Transport Services for Carriage of Passengers, Mails, Goods and Property By Air Both Domestic and International"
  },
@@ -211,5 +211,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Graniting to Silangan Airways, Inc., a Franchise to Establish, Operate and Maintain Transport Services for Carriage of Passengers, Mails, Goods and Property By Air Both Domestic and International",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

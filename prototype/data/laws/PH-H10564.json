@@ -1,7 +1,7 @@
 {
  "id": "PH-H10564",
  "title": {
-  "zh": null,
+  "zh": "向因执行公务相关事件面临指控的军人与制服人员提供免费法律援助并为此拨款的法案",
   "en": "An Act Providing Free Legal Assistance To Military and Uniformed Personnel Facing Any Charge Arising From Incidents Related To the Performance of Official Duty, and Appropriating Funds Therefor",
   "orig": "An Act Providing Free Legal Assistance To Military and Uniformed Personnel Facing Any Charge Arising From Incidents Related To the Performance of Official Duty, and Appropriating Funds Therefor"
  },
@@ -131,14 +131,15 @@
    }
   },
   {
-   "id": "PH-H10564-A9_2",
+   "id": "PH-H10564-A9-d2",
    "no": 9,
    "noLabel": {
     "en": "Section 9."
    },
    "text": {
     "en": "Implementing Rules and Regulations. - Within ninety (90) days from the effectivity of this Act, the DBM, Department of National Defense, Department of Justice, Department of the Interior and Local Government, and Department of Transportation, in coordination with the Chief of Staff of the AFP, Chiefs of the PNP, BJMP and BFP, the Commandant of the PCG, the Director General of BuCor, and the Administrator of the NAMRIA, shall issue the necessary rules and regulation to implement this Act: Provided, That the non-promulgation of the implementing rules and regulations shall not prevent the implementation of this Act upon effectivity."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10564-A10",
@@ -180,5 +181,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing Free Legal Assistance To Military and Uniformed Personnel Facing Any Charge Arising From Incidents Related To the Performance of Official Duty, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

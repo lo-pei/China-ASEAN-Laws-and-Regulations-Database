@@ -1,7 +1,7 @@
 {
  "id": "SG-H3624",
  "title": {
-  "zh": null,
+  "zh": "罗马天主教大主教法 1975",
   "en": "Roman Catholic Archbishop Act 1975",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7.—(1) Subject to subsection (2), every agreement, whether in writing or not, to which the former Corporation was a party immediately before 12 December 1975, and whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that date as if —\n(a)the Corporation had been a party to such an agreement; and\n(b)for any reference (however worded and whether express or implied) to the former Corporation there were substituted in respect of anything to be done on or after that date a reference to the Corporation.\n(2) The appointment of any officer or employee of the former Corporation subsisting immediately before 12 December 1975 shall, if that officer or employee so agrees, be deemed to be made by the Corporation, and for the purpose of determining the rate of pension and gratuities on retirement the service of that officer or employee shall be regarded as continuous from the time he was appointed by the former Corporation.\n(3) Where anything has been commenced under the authority of the former Corporation before 12 December 1975, such thing may be carried on and completed under the authority of the Corporation.\n(4) All rights, obligations and liabilities which immediately before 12 December 1975 were vested in or incurred by the former Corporation shall pass by succession to the Corporation, and the Corporation shall have all powers necessary to recover and deal with those rights and discharge those obligations and liabilities."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Roman Catholic Archbishop Act 1975",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

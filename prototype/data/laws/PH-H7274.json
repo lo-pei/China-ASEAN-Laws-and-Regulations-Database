@@ -1,7 +1,7 @@
 {
  "id": "PH-H7274",
  "title": {
-  "zh": null,
+  "zh": "通过合并索索贡省的巴孔与索索贡市镇设立索索贡市，并为此拨款的法案",
   "en": "An Act Creating the City of Sorsogon By Merging the Municipalities of Bacon and Sorsogon in the Province of Sorsogon and Appropriating Funds Therefor",
   "orig": "An Act Creating the City of Sorsogon By Merging the Municipalities of Bacon and Sorsogon in the Province of Sorsogon and Appropriating Funds Therefor"
  },
@@ -861,5 +861,13 @@
     "en": "Effectivity. — This Act shall take effect upon its publication in at least two (2) newspapers of general and local circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the City of Sorsogon By Merging the Municipalities of Bacon and Sorsogon in the Province of Sorsogon and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

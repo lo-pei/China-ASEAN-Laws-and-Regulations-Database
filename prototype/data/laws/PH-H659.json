@@ -1,7 +1,7 @@
 {
  "id": "PH-H659",
  "title": {
-  "zh": null,
+  "zh": "修订第 401 号共和国法（即《免除 1942 年至 1945 年未付利息并将此后所付利息冲抵特定未清本金的法案》）",
   "en": "An Act to Amend Republic Act Numbered Four Hundred One Entitled \"An Act to Condone All Unpaid Interest Accruing From January First, Nineteen Hundred and Forty-two to December Thirty-first, Nineteen Hundred and Forty-five on All Obligations Outstanding on December Eight, Nineteen Hundred and Forty-one, and to Apply Payments of Interest Paid After February Twenty- Eight, Nineteen Hundred and Forty-five, to the Principal Obligation If Still Outstanding, in Certain Cases.\"",
   "orig": "An Act to Amend Republic Act Numbered Four Hundred One Entitled \"An Act to Condone All Unpaid Interest Accruing From January First, Nineteen Hundred and Forty-two to December Thirty-first, Nineteen Hundred and Forty-five on All Obligations Outstanding on December Eight, Nineteen Hundred and Forty-one, and to Apply Payments of Interest Paid After February Twenty- Eight, Nineteen Hundred and Forty-five, to the Principal Obligation If Still Outstanding, in Certain Cases.\""
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H659-A1_2",
+   "id": "PH-H659-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Declaration of policy.-Rehabilitation of those who have suffered the ravages of war constitutes a prime concern of the Government. In order to afford opportunities to debtors of the Government or Government owned or controlled corporations to rehabilitate themselves and to enable them to pay their prewar obligations under terms and conditions fair and just to them, it is the declared policy of the State that the condonation of interests contemplated herein be extended.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H659-A2",
@@ -71,14 +72,15 @@
    }
   },
   {
-   "id": "PH-H659-A2_2",
+   "id": "PH-H659-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "All unpaid interest in favor of the Government or Government owned or controlled corporations accruing from the first day of January, nineteen hundred and forty-two to thirty-first day of December, nineteen hundred and forty-five, on all debts and obligations outstanding on the eighth day of December, nineteen hundred and forty-one, shall not be demandable and are hereby condoned in the following cases:\n\"(a) When the the debtor was unable to pay an obligation which became due and demandable, or interest which should have been paid during the said period because of the refusal of the latter to accept payment or because of the failure of the creditors to open business during the said period.\n\"(b) When the debtor was unable to pay an obligation which became due and demandable or interests which should have been paid, during the said period because he was prevented from doing so by reason of his activity in the resistance movement against the enemy or his imprisonment, arrest or detention by the said enemy resulting in his inability to freely pursue his normal work.\n\"(c) When the debtor was unable to pay an obligation which became due and demandable or interest which should have been paid during the said period because of penury caused by the ravages of the war, financial restrictions imposed by whatever authority in connection with the prosecution by the enemy of the war, or loss of his ordinary sources of income or control over them as a result thereof.\n\"(d) When the debtor was unable to pay an obligation which, became due and demandable, or the interest which should have been paid during the said period because the assets of the creditor were under the control of the enemy and/or administered through the so-called Enemy Alien Property Custodian or other enemy instrumentality; and the debtor paid the interests to it in the belief that such payment was valid and effective payment to the creditor or because of fear that failure to comply with the demand would lead to reprisals on his person or property.\n\"If the debtor, however, makes voluntary payment of the entire pre-war unpaid principal obligation on or before December thirty-one, nineteen hundred and fifty-two, the interests on such principal obligation corresponding from January one, nineteen hundred and forty-six, to the date of payment are likewise hereby condoned.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H659-A3",
@@ -91,14 +93,15 @@
    }
   },
   {
-   "id": "PH-H659-A3_2",
+   "id": "PH-H659-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "All interests paid on debts or obligations outstanding on the eighth day of December, nineteen hundred and forty-one corresponding to the period from the first day of January, nineteen hundred and forty-two to the thirty-first day of December, nineteen hundred and forty-five, by the debtors mentioned in section one hereof shall be applied in payment of the principal obligation, if the same is still outstanding and if the payment is made from or after February twenty-eight, nineteen hundred and forty-five to the date of the effectivity of this Act.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H659-A4",
@@ -120,5 +123,13 @@
     "en": "This Act shall take effect fifteen days after its publication in the Official Gazette.\nApproved, June 16, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Four Hundred One Entitled \"An Act to Condone All Unpaid Interest Accruing From January First, Nineteen Hundred and Forty-two to December Thirty-first, Nineteen Hundred and Forty-five on All Obligations Outstanding on December Eight, Nineteen Hundred and Forty-one, and to Apply Payments of Interest Paid After February Twenty- Eight, Nineteen Hundred and Forty-five, to the Principal Obligation If Still Outstanding, in Certain Cases.\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

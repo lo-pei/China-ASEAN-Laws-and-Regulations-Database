@@ -1,7 +1,7 @@
 {
  "id": "SG-H520",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（心智能力）条例 2010",
   "en": "Central Provident Fund (Mental Capacity) Regulations 2010",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Except as otherwise expressly provided in any other subsidiary legislation made under the Act, where the spouse of a member lacks capacity within the meaning of section 4 of the Mental Capacity Act 2008, any thing which the spouse might have done, or which would have applied to the spouse, under any provision of the Act, if the spouse had such capacity, and any thing which would have applied to the spouse in any event under any provision of the Act, may likewise be done by, or will likewise apply to —\n(a)a deputy appointed or deemed to be appointed for the spouse by the court under the Mental Capacity Act 2008 with power in relation to the spouse for the purposes of the Act; or\n(b)a donee under a lasting power of attorney registered under the Mental Capacity Act 2008 with power in relation to the spouse for the purposes of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Mental Capacity) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

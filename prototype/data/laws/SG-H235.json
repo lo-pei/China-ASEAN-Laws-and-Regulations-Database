@@ -1,7 +1,7 @@
 {
  "id": "SG-H235",
  "title": {
-  "zh": null,
+  "zh": "委任最高法院注册官在内庭传票中行使管辖权",
   "en": "Appointment of Registrar of Supreme Court to Exercise Jurisdiction in Summonses-in-Chambers",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Probate and Administration Act\n(Chapter 251, Section 29(3))\nAppointment of Registrar of Supreme Court to Exercise\nJurisdiction in Summonses-in-chambers\nN 1\nG.N. No. S 1010/1951\nREVISED EDITION 2001\n(31st January 2001)\n[13th April 1951]\nThe Registrar of the Supreme Court, Singapore, has been appointed to exercise jurisdiction in Summonses-in-Chambers in which application is made that the matter of sureties be increased or decreased or that the sureties be dispensed with or that the amount of any administration bond in an administration matter be reduced."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Registrar of Supreme Court to Exercise Jurisdiction in Summonses-in-Chambers",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

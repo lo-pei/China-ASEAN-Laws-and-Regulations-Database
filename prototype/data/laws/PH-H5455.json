@@ -1,7 +1,7 @@
 {
  "id": "PH-H5455",
  "title": {
-  "zh": null,
+  "zh": "将石油产品税制由从价税改为从量税，为此修订国家国内税收法典（经第6767号共和国法修正）第145条的法案",
   "en": "An Act Revising the Form of Taxation on Petroleum Products from Ad Valorem to Specific, Amending for the Purpose Section 145 of the National Internal Revenue Code as Amended by Republic Act Numbered Sixty-Seven Hundred Sixty-Seven",
   "orig": "An Act Revising the Form of Taxation on Petroleum Products from Ad Valorem to Specific, Amending for the Purpose Section 145 of the National Internal Revenue Code as Amended by Republic Act Numbered Sixty-Seven Hundred Sixty-Seven"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Revising the Form of Taxation on Petroleum Products from Ad Valorem to Specific, Amending for the Purpose Section 145 of the National Internal Revenue Code as Amended by Republic Act Numbered Sixty-Seven Hundred Sixty-Seven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

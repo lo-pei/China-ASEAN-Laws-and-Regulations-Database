@@ -1,7 +1,7 @@
 {
  "id": "SG-H1941",
  "title": {
-  "zh": null,
+  "zh": "所得税（宝华钢铁国际私人有限公司——第 13(12) 条豁免）命令 2025",
   "en": "Income Tax (Baohua Steel International Pte. Limited — Section 13(12) Exemption) Order 2025",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividend income received in Singapore by Baohua Steel International Pte. Limited (a company incorporated in Singapore) during the period from 1 July 2022 to 31 July 2022 (both dates inclusive) from Fame Risen Development Limited (a company incorporated in Hong Kong), which is in turn derived from the profits of Rizhao Steel Wire Co., Ltd. (a company incorporated in China), is exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter from the Inland Revenue Authority of Singapore dated 15 May 2025 that is issued on behalf of the Minister for Finance and addressed to EY Corporate Advisors Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Baohua Steel International Pte. Limited — Section 13(12) Exemption) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

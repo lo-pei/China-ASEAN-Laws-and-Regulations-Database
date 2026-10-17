@@ -1,7 +1,7 @@
 {
  "id": "PH-H7567",
  "title": {
-  "zh": null,
+  "zh": "将莱特省奥尔莫克市 Margen 描笼涯的 Merida 职业学校附属校分离，改设为独立的 Margen 国立中学，并为此拨款",
   "en": "An Act Separating the Merida Vocational School Margen Annex Located in Barangay Margen in the City of Ormoc, Province of Leyte From the Merida Vocational School and Converting the Same Into An Independent National High School to Be Known as the Margen National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Merida Vocational School Margen Annex Located in Barangay Margen in the City of Ormoc, Province of Leyte From the Merida Vocational School and Converting the Same Into An Independent National High School to Be Known as the Margen National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Merida Vocational School Margen Annex Located in Barangay Margen in the City of Ormoc, Province of Leyte From the Merida Vocational School and Converting the Same Into An Independent National High School to Be Known as the Margen National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

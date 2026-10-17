@@ -1,7 +1,7 @@
 {
  "id": "SG-H097",
  "title": {
-  "zh": null,
+  "zh": "主动出行（国家公园局——豁免）命令 2024",
   "en": "Active Mobility (National Parks Board — Exemption) Order 2024",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Sections 15(1), 16(1)(b) and 17(1) of the Act do not apply to an individual who, for a specified purpose, drives a buggy on a specified public path, under the following conditions:\n(a)the individual is authorised by the National Parks Board to drive the buggy —\n(i)for the specified purpose; and\n(ii)on the specified public path;\n(b)the individual, when driving the buggy, gives way to other users of the public path;\n(c)unless responding to an emergency, the individual does not drive the buggy at a speed exceeding —\n(i)if the buggy is driven on a shared path — 20 km/h; and\n(ii)in any other case — 10 km/h;\n(d)there is in force, at any time the buggy is driven in connection with the specified purpose, a policy of insurance in relation to the buggy insuring against any liability in respect of —\n(i)the death of or bodily injury sustained by any person (other than the driver of the buggy); and\n(ii)any property damage suffered by any person (other than the driver of the buggy),\ncaused by or arising out of the use of the buggy;\n(e)the risk under the policy of insurance mentioned in sub-paragraph (d) is assumed by an insurer who, at the time the policy is issued, is lawfully carrying on an insurance business in Singapore.\n[S 622/2025 wef 27/09/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (National Parks Board — Exemption) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

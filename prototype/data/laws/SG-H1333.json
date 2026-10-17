@@ -1,7 +1,7 @@
 {
  "id": "SG-H1333",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（温室气体）条例 2022",
   "en": "Environmental Protection and Management (Greenhouse Gases) Regulations 2022",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRegulation 2(2)\nGreenhouse gases\nFirst column\nSecond column\nName of greenhouse gas\nChemical formula of greenhouse gas\n1.The following Hydrocarbon (HC):\nIsobutane\nHC(CH3)3\n2.The following Hydrofluoroolefin (HFO):\n(E)‑1‑Chloro‑3,3,3‑trifluoroprop‑1‑ene\ntrans‑CF3CH=CHCl"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Protection and Management (Greenhouse Gases) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

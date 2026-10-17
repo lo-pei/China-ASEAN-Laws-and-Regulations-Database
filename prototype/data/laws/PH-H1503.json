@@ -1,7 +1,7 @@
 {
  "id": "PH-H1503",
  "title": {
-  "zh": null,
+  "zh": "将八打雁省八打雁市镇的塔伦波克村分为该市镇名为塔伦波克西朗岸与塔伦波克坎卢兰的两个村的法案",
   "en": "An Act Dividing the Barrio of Talumpoc, Municipality of Batangas, Province of Batangas, into Two Barrios to be Known as the Barrios of Talumpoc Silangan and Talumpoc Kanluran of Said Municipality",
   "orig": "An Act Dividing the Barrio of Talumpoc, Municipality of Batangas, Province of Batangas, into Two Barrios to be Known as the Barrios of Talumpoc Silangan and Talumpoc Kanluran of Said Municipality"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Dividing the Barrio of Talumpoc, Municipality of Batangas, Province of Batangas, into Two Barrios to be Known as the Barrios of Talumpoc Silangan and Talumpoc Kanluran of Said Municipality",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

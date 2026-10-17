@@ -1,7 +1,7 @@
 {
  "id": "PH-H3262",
  "title": {
-  "zh": null,
+  "zh": "在巴塔内斯省设立国立工艺学校，名称为巴塔内斯工艺学校，并授权为此拨付所需经费的法案",
   "en": "An Act Establishing a National School of Arts and Trades to be Known as Batanes School of Arts and Trades in the Province of Batanes, and Authorizing the Appropriation of the Necessary Funds Therefor",
   "orig": "An Act Establishing a National School of Arts and Trades to be Known as Batanes School of Arts and Trades in the Province of Batanes, and Authorizing the Appropriation of the Necessary Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a National School of Arts and Trades to be Known as Batanes School of Arts and Trades in the Province of Batanes, and Authorizing the Appropriation of the Necessary Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

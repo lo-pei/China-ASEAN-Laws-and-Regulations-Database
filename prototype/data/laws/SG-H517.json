@@ -1,7 +1,7 @@
 {
  "id": "SG-H517",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（保健储蓄账户转移）条例 2016",
   "en": "Central Provident Fund (Medisave Account Transfers) Regulations 2016",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. If regulations 3, 4 and 5 do not apply, the Board must transfer the excess amount in a member’s medisave account to the member’s ordinary account."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Medisave Account Transfers) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

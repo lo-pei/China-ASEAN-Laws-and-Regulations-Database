@@ -1,7 +1,7 @@
 {
  "id": "SG-H3258",
  "title": {
-  "zh": null,
+  "zh": "机动车（第三方风险与赔偿）（南洋理工大学电动助力自行车试验）（豁免）公告 2011",
   "en": "Motor Vehicles (Third-Party Risks and Compensation) (Nanyang Technological University Power-Assisted Bicycles Trial) (Exemption) Notification 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 3 of the Act shall not apply in relation to any power-assisted bicycle which falls within the exemption under paragraph 3 of the Road Traffic (Nanyang Technological University Power-Assisted Bicycles Trial) (Exemption from Part I and Section 91) Order 2011 (G.N. No. S 363/2011)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Motor Vehicles (Third-Party Risks and Compensation) (Nanyang Technological University Power-Assisted Bicycles Trial) (Exemption) Notification 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

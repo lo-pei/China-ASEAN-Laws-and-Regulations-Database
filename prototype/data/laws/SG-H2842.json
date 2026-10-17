@@ -1,7 +1,7 @@
 {
  "id": "SG-H2842",
  "title": {
-  "zh": null,
+  "zh": "国际仲裁（第 19C 条下的指定人士）（综合）命令 2025",
   "en": "International Arbitration (Appointed Persons under Section 19C) (Consolidation) Order 2025",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nFirst column\nSecond column\nAppointed persons\nEffective date\n(1)Registrar and the Deputy Registrar of the Singapore International Arbitration Centre\n(2)Chief Executive and the Deputy Chief Executive of Maxwell Chambers Private Limited\n1 January 2010\n[S 651/2009]\n(3)Registrar and the Chairperson of the Singapore Chamber of Maritime Arbitration\n1 January 2011\n[S 738/2010]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "International Arbitration (Appointed Persons under Section 19C) (Consolidation) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

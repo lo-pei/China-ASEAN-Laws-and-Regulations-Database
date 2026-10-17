@@ -1,7 +1,7 @@
 {
  "id": "SG-H2082",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 6 号）命令 2007",
   "en": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2007",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Texchem-Pack Holdings (S) Ltd is hereby granted exemption from tax on the dividends received in Singapore from its subsidiary in Malaysia, Texchem-Pack (M) Bhd, subject to the terms and conditions specified in the letter of approval dated 25th July 2007 addressed to the tax agent of Texchem-Pack Holdings (S) Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

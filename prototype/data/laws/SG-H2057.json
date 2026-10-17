@@ -1,7 +1,7 @@
 {
  "id": "SG-H2057",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国所得豁免）（第 3 号）命令 2016",
   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2016",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2(2)\nList of companies\n1. Bonel Resources LLC\n2. Chongqing Xinfu Food Co. Ltd\n3. Globeagri Trading Pte Ltd\n4. Greensofts Trading Pte Ltd\n5. Jordan Grain Handling and Milling Company Limited\n6. Longkou Xinlong Edible Oil Co. Ltd\n7. Meadowfeed Enterprises Pte Ltd\n8. Nantong Noble Grain and Protein Co., Ltd\n9. Nantong Noble Hongtong Biological Feed Co. Ltd\n10. Noble Agri Commodities Pte Ltd\n11. Noble Agri Trading (Shanghai) Company Limited\n12. Noble Natural Resources India Private Ltd\n13. Noble Paraguay Sociedad Anonima\n14. Noble Resources FZCO\n15. Noble Resources Pte Ltd\n16. Noble Resources Netherlands B.V.\n17. Noble Resources South Africa (Pty) Ltd\n18. Noble Resources (Vietnam) Co., Ltd\n19. PT Coffee Indonesia Jaya\n20. Qinzhou Dayang Cereals and Oils Company Limited\n21. Rapco Enterprises Pte Ltd\n22. Standerton Oil Mills (Pty) Limited\n23. Uniagro International Pte Ltd\n24. UniNoble Sociedad Anonima"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-43-1984-AGRICULTURAL-PESTS-AND-NOXIOUS-PLANTS-ACT",
  "title": {
-  "zh": null,
+  "zh": "农业害虫与有害植物法",
   "en": "AGRICULTURAL PESTS AND NOXIOUS PLANTS ACT",
   "orig": null
  },
@@ -293,5 +293,13 @@
     "en": "(1) His Majesty in Council may from time to time make rules for fully and effectively carrying out and giving effect to the purpose of this Act, and, without prejudice to of the forgoing, such rules may provide for(a) the powers and duties of officers appointed .\n\n(b) the manner of entry upon lands and the notice, if any, to be given prior to such entry;\n\n(c) the conduct of the examination and inspection of plants and of other proceedings authorised\n\n(d) the notification by owne_rs or occupiers of land of any plant found to b'e diseased with a\n\n(e) the form of notices, orders and applications (/) the control of, and the conditions governing, the import or export of plants or pests;\n\n(g) the quarantining of land;\n\n(h) the control of any plant or pest present in ( i) the fees to be charged;\n\n(j) penalties, not exceeding a fine of $1,000 for any contravention or failure to comply with any of of any rules made under this section or with the restrictions or conditions of any licence granted under any such rules.\n\n(2) All rules made under this Act shall be laid before the Legislative Council as soon as may be after they are if a resolution is passed within the next subse4 months after any such rules are so laid annulling the - or any part thereof as from a specified date, such rules or such part thereof, as the case may be, shall thereupon be date, but without prejudice to the validity of anything previously done thereunder or to the making of new rules. .i NOTE. There is no Subsidiary Legislation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "AGRICULTURAL PESTS AND NOXIOUS PLANTS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5223",
  "title": {
-  "zh": null,
+  "zh": "允许Oroquieta市合格选民参加西米萨米斯省选举，为此修订第5518号共和国法的法案",
   "en": "An Act Allowing Qualified Voters of the City of Oroquieta to Vote in Provincial Elections of the Province of Misamis Occidental, amending for the purpose Republic Act Numbered Fifty-Five Hundred and Eighteen",
   "orig": "An Act Allowing Qualified Voters of the City of Oroquieta to Vote in Provincial Elections of the Province of Misamis Occidental, amending for the purpose Republic Act Numbered Fifty-Five Hundred and Eighteen"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Allowing Qualified Voters of the City of Oroquieta to Vote in Provincial Elections of the Province of Misamis Occidental, amending for the purpose Republic Act Numbered Fifty-Five Hundred and Eighteen",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

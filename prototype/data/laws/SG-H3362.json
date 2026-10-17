@@ -1,7 +1,7 @@
 {
  "id": "SG-H3362",
  "title": {
-  "zh": null,
+  "zh": "第 4(1)(a)(i) 条下的公告",
   "en": "Notification under Section 4 (1)(a)(i)",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Revised Edition of the Laws Act\n(Chapter 275, Section 4(1)(a)(i))\nNotification under Section 4(1)(a)(i)\nN 13\nG.N. No. S 301/1998\nREVISED EDITION 2000\n(31st January 2000)\nIn exercise of the powers conferred by section 4(1)(a)(i) of the Revised Edition of the Laws Act, the Law Revision Commissioners have omitted the Government Loans (Conversion and Miscellaneous Provisions) Act (Chapter 120) from the revised edition of Acts."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Notification under Section 4 (1)(a)(i)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

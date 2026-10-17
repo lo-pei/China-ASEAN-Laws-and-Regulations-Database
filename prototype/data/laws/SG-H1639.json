@@ -1,7 +1,7 @@
 {
  "id": "SG-H1639",
  "title": {
-  "zh": null,
+  "zh": "政府合同法 1966",
   "en": "Government Contracts Act 1966",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) Grants and leases of State lands and leases made under the Foreshores Act 1920 shall be signed by a Collector of Land Revenue.\n(2) Nothing in this Act shall be deemed to affect the provisions of any written law in Singapore as to the use or occupation of State land."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Government Contracts Act 1966",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

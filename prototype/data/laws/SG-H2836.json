@@ -1,7 +1,7 @@
 {
  "id": "SG-H2836",
  "title": {
-  "zh": null,
+  "zh": "内部安全（一般）条例",
   "en": "Internal Security (General) Regulations",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) Notwithstanding the provisions of any other written law, in any case in which the Government has made any payment to any person or to the dependants of any person in respect of any injury to that person or of his death resulting from any act of terrorism and that person or his dependants are eligible for any compensation in accordance with the provisions of any written law in consequence of the same act of terrorism, then the amount of any such payment made by the Government shall be repaid to the Government by the person liable to pay such compensation, and shall be set off against and deducted from the amount of the compensation:\nProvided that no person shall be liable to repay to the Government an amount greater than the amount of any such compensation.\n(2) For the purposes of this regulation, a certificate signed by the Minister for Finance or by any person or class of persons authorised by him in writing in that behalf that a payment has been made by Government to any person or the dependants of any person, specifying the amount thereof, shall be conclusive evidence of the fact of such payment and of the amount thereof."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Internal Security (General) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

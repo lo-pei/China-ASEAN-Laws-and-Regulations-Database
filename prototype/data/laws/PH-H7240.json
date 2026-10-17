@@ -1,7 +1,7 @@
 {
  "id": "PH-H7240",
  "title": {
-  "zh": null,
+  "zh": "将孔波斯特拉谷省Compostela的Maparat描笼涯Maparat中学改设为国立中学，名称为Maparat国立中学，并为此拨款的法案",
   "en": "An Act Converting the Maparat High School in Barangay Maparat, Compostela, Compostela Valley Province into a National High School to be known as the Maparat National High School and appropriating funds thereof",
   "orig": "An Act Converting the Maparat High School in Barangay Maparat, Compostela, Compostela Valley Province into a National High School to be known as the Maparat National High School and appropriating funds thereof"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Maparat High School in Barangay Maparat, Compostela, Compostela Valley Province into a National High School to be known as the Maparat National High School and appropriating funds thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H142",
  "title": {
-  "zh": null,
+  "zh": "在西内格罗斯省设立、组建并维持一所国立农业学校并为此拨付特定款项的法案",
   "en": "An act to Establish, Organize and Maintain One National Agricultural School in the Province of Negros Occidental and to appropriate certain sums of money for the purpose",
   "orig": "An act to Establish, Organize and Maintain One National Agricultural School in the Province of Negros Occidental and to appropriate certain sums of money for the purpose"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: October 2, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act to Establish, Organize and Maintain One National Agricultural School in the Province of Negros Occidental and to appropriate certain sums of money for the purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

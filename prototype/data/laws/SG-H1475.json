@@ -1,7 +1,7 @@
 {
  "id": "SG-H1475",
  "title": {
-  "zh": null,
+  "zh": "家事司法（家事司法法院印章）公告 2014",
   "en": "Family Justice (Seals of the Family Justice Courts) Notification 2014",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following seals are prescribed to be the Seals of the Family Justice Courts:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Family Justice (Seals of the Family Justice Courts) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

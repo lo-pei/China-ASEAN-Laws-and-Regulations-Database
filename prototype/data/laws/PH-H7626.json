@@ -1,7 +1,7 @@
 {
  "id": "PH-H7626",
  "title": {
-  "zh": null,
+  "zh": "将米沙鄢农业国立学院改设为国立大学，名称为莱特国立大学，并为此拨款并为其他目的法案",
   "en": "An Act Converting the Visayas State College of Agriculture Into a State University to Be Known as the Leyte State University, Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act Converting the Visayas State College of Agriculture Into a State University to Be Known as the Leyte State University, Appropriating Funds Therefor and for Other Purposes"
  },
@@ -282,5 +282,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Visayas State College of Agriculture Into a State University to Be Known as the Leyte State University, Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

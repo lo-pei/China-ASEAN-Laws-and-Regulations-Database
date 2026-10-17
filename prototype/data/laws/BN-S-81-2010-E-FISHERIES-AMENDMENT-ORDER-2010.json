@@ -1,7 +1,7 @@
 {
  "id": "BN-S-81-2010-E-FISHERIES-AMENDMENT-ORDER-2010",
  "title": {
-  "zh": null,
+  "zh": "渔业修正命令 2010",
   "en": "FISHERIES AMENDMENT ORDER 2010",
   "orig": null
  },
@@ -63,5 +63,13 @@
     "en": "Section 37 of the Fisheries Order, 2009 is amended, in subsection (lJ, by deleting \"15( 1},\" from the third line. Made this 6th. day of Syawal, 1431 Hijriah corresponding to the 15th. day of 2010 at Our Istana Nurul Iman, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WlJAYA HAJI AHMAD, Pemangku Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. B$5.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "FISHERIES AMENDMENT ORDER 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

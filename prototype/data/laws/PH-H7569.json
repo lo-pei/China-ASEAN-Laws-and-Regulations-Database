@@ -1,7 +1,7 @@
 {
  "id": "PH-H7569",
  "title": {
-  "zh": null,
+  "zh": "授予 Tupi 电话合作社在南哥打巴托省 Tupi 市镇建设、安装、设立、运营和维护本地交换网络的特许经营权法案",
   "en": "An Act Granting the Tupi Telephone Cooperative, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Local Exchange Network in the Municipality of Tupi, Province of South Cotabato",
   "orig": "An Act Granting the Tupi Telephone Cooperative, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Local Exchange Network in the Municipality of Tupi, Province of South Cotabato"
  },
@@ -231,5 +231,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Tupi Telephone Cooperative, Inc., a Franchise to Construct, Install, Establish, Operate and Maintain Local Exchange Network in the Municipality of Tupi, Province of South Cotabato",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

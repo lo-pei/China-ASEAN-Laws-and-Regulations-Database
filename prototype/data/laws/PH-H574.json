@@ -1,7 +1,7 @@
 {
  "id": "PH-H574",
  "title": {
-  "zh": null,
+  "zh": "修订第465号联邦法（居住税法）第6条的法案",
   "en": "An Act to Amend Section Six of Commonwealth Act Numbered Four Hundred and Sixty-Five, Otherwise Known as the Residence Tax Law.",
   "orig": "An Act to Amend Section Six of Commonwealth Act Numbered Four Hundred and Sixty-Five, Otherwise Known as the Residence Tax Law."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, September 18, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Six of Commonwealth Act Numbered Four Hundred and Sixty-Five, Otherwise Known as the Residence Tax Law.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

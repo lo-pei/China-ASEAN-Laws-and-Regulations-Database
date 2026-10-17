@@ -1,7 +1,7 @@
 {
  "id": "SG-H1902",
  "title": {
-  "zh": null,
+  "zh": "移民条例",
   "en": "Immigration Regulations",
   "orig": null
  },
@@ -807,7 +807,7 @@
    }
   },
   {
-   "id": "SG-H1902-A33",
+   "id": "SG-H1902-A33.000001",
    "no": 33.000001,
    "noLabel": {
     "en": "33."
@@ -1018,5 +1018,13 @@
     "en": "EIGHTH SCHEDULE\nRegulation 33AB\nParticulars of subject person\narriving or leaving by land\n(A)Particulars of subject person\n1.Name\n2.Sex\n3.Date of birth\n4.Nationality\n5.Travel document number\n6.Date of expiry of travel document, if any\n7.Foreign identification number, if any\n8.Unique identification number, if any\n9.National identification number issued by country of birth or citizenship, if any\n10.Expected date of arrival in or departure from Singapore\n(B)If subject person is travelling in a vehicle —\n1.Type of vehicle\n2.Identification number of vehicle\n[S 512/2025 wef 31/07/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Immigration Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

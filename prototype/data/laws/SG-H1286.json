@@ -1,7 +1,7 @@
 {
  "id": "SG-H1286",
  "title": {
-  "zh": null,
+  "zh": "雇用外籍工人（费用）条例 2005",
   "en": "Employment of Foreign Workers (Fees) Regulations 2005",
   "orig": null
  },
@@ -165,5 +165,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nFees\nFirst column\nSecond column\n1.Application for a work permit\n$10\n2.Issue of a work permit designated by the Controller as an S Pass\n$30 for each year or part thereof for which the work permit is issued\n3.Issue of a work permit other than a work permit designated by the Controller as an S Pass\n$20\n4.Application for reinstatement of a work permit following the suspension of that work permit\n$10\n5.Issue of a duplicate work permit\n$30."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment of Foreign Workers (Fees) Regulations 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-25-2010-UNDESIRABLE-PUBLICATIONS-ACT",
  "title": {
-  "zh": null,
+  "zh": "不良出版物法",
   "en": "UNDESIRABLE PUBLICATIONS ACT",
   "orig": null
  },
@@ -192,5 +192,13 @@
     "en": "Any order in force immediately before 1st December 1986, being the date of the commencement of this Act and made by —\n\n(a) His Majesty the Sultan and Yang Di-Pertuan in Council under section 3 of the repealed Undesirable Publications Enactment (Chapter 25 of 1951); or\n\n(b) the Minister* under order 3 of the Emergency (Control of Publications) Orders, 1967 (E.12 of 1967), shall, for the purposes of this Act, be deemed to have been made by the Minister* under section 3 and published in the Gazette on such commencement; and any publication affected by such order shall be deemed to be a prohibited publication for the purposes of this Act so long as such order continues in force as respects such publication. * Transferred from the Mentri Besar to the Minister of Home Affairs with effect from 1st January 1984 — [S 10/84]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "UNDESIRABLE PUBLICATIONS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

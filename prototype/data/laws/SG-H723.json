@@ -1,7 +1,7 @@
 {
  "id": "SG-H723",
  "title": {
-  "zh": null,
+  "zh": "委员会",
   "en": "Commission",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Inquiry Commissions Ordinance\nChapter 52, 1955 Ed.\nCommission\nN 27\nG.N. No. S 3120/1963\nREVISED EDITION 1990\n(25th March 1992)\n[21st December 1963]\nBy His Excellency Tun YUSOF BIN ISHAK, AL-HAJ, Yang di-Pertuan Negara of the State of Singapore.\nWhereas it is provided by the Inquiry Commissions Ordinance that it shall be lawful for the Yang di-Pertuan Negara whenever he shall deem it advisable to issue a Commission appointing one or more Commissioners to enquire, inter alia, into any matter in which an inquiry would, in the opinion of the Yang di-Pertuan Negara, be for the public welfare:\nAnd whereas I am of the opinion that it is in the public welfare that an inquiry should forthwith be made by a Commissioner so appointed in accordance with the following term of reference:\nTo inquire into and examine the financial transactions of the deregistered Singapore General Employees’ Union, the Singapore Business Houses Employees’ Union and the Singapore Bus Workers’ Union from 1st April 1962 to date, and to report thereon with particular reference to —\n(a)every payment which appears to be unauthorised by the Rules of the trade union or contrary to the provisions of the Trade Unions Ordinance (Chapter 154, 1955 Ed.);\n(b)the amount of any deficiency or loss which appears to have been incurred by the negligence or misconduct of any person; and\n(c)the amount of any sum which ought to have been but is not brought to account by any person.\nNow, therefore, I, YUSOF BIN ISHAK, Yang di-Pertuan Negara of the State of Singapore, hereby appoint Mr. Tan Wee Kian to be a Commissioner and hereby authorise the said Commissioner to conduct such inquiry in the manner hereinafter directed:\n1.I direct that the Commission shall hold its sittings in its discretion in any suitable place to hear evidence or for any other purpose connected with its duties.\n2.I direct that the Inquiry shall be held in public: Provided that the Commissioner may in his discretion direct that any evidence shall be heard in camera or otherwise recorded without being made available to the public.\n3.I also authorise the Commissioner to appoint any suitable person to act as Secretary.\n4.I direct the Commissioner of Police to detail police constables to attend upon the Commission for the purpose of preserving order during the proceedings, to serve summonses on witnesses and to perform such ministerial duties as the Commissioner shall direct.\n5.Finally, I direct that the Commissioner shall submit his report to me after completing the Inquiry."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

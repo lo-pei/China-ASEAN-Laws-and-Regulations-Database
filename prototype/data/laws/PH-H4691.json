@@ -1,7 +1,7 @@
 {
  "id": "PH-H4691",
  "title": {
-  "zh": null,
+  "zh": "授权Marcelina S. Aquino将其在武端市及阿古桑省的电话系统特许经营权转让、出售或抵押给银行或融资机构并修改该特许经营权条款",
   "en": "An Act Authorizing Marcelina S. Aquino to Transfer, Assign, Sell or Mortgage in Favor of Any Banking or Financing Institution Her Franchises Under Republic Acts Numbered Six Hundred Ninety-Seven and Seven Hundred Fifty-Seven, to Install, Operate and Maintain Telephone Systems in the City of Butuan and in the Province of Agusan and the Municipalities and Municipal Districts Thereof, and Further Modifying the Provisions of Said Franchises",
   "orig": "An Act Authorizing Marcelina S. Aquino to Transfer, Assign, Sell or Mortgage in Favor of Any Banking or Financing Institution Her Franchises Under Republic Acts Numbered Six Hundred Ninety-Seven and Seven Hundred Fifty-Seven, to Install, Operate and Maintain Telephone Systems in the City of Butuan and in the Province of Agusan and the Municipalities and Municipal Districts Thereof, and Further Modifying the Provisions of Said Franchises"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing Marcelina S. Aquino to Transfer, Assign, Sell or Mortgage in Favor of Any Banking or Financing Institution Her Franchises Under Republic Acts Numbered Six Hundred Ninety-Seven and Seven Hundred Fifty-Seven, to Install, Operate and Maintain Telephone Systems in the City of Butuan and in the Province of Agusan and the Municipalities and Municipal Districts Thereof, and Further Modifying the Provisions of Said Franchises",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

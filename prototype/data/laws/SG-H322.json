@@ -1,7 +1,7 @@
 {
  "id": "SG-H322",
  "title": {
-  "zh": null,
+  "zh": "边界与测量图（地图制作服务）规则 2001",
   "en": "Boundaries and Survey Maps (Map Production Service) Rules 2001",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRule 2\nMap production service fees\nFirst column\nSecond column\nThird column\nAgencies\nStandard Plots\nSpecial Plots\n1.Government, Statutory Boards and Landex Members\n$80\n$80 + X\n2.Private Sector\n$(80 + Y)\n$(80 + Y) + X\nWhere\n“X” is the number of man‑hours × cost per man‑hour\n“Y” is $(10 × number of data suppliers for the map)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Boundaries and Survey Maps (Map Production Service) Rules 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

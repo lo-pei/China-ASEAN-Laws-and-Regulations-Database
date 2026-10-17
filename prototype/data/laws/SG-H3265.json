@@ -1,7 +1,7 @@
 {
  "id": "SG-H3265",
  "title": {
-  "zh": null,
+  "zh": "多式联运法 2021",
   "en": "Multimodal Transport Act 2021",
   "orig": null
  },
@@ -534,5 +534,13 @@
     "en": "31. The Minister may make regulations necessary or convenient for carrying out or giving effect to this Act, and for prescribing anything which under this Act is to be or may be prescribed."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Multimodal Transport Act 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

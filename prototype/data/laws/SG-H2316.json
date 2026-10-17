@@ -1,7 +1,7 @@
 {
  "id": "SG-H2316",
  "title": {
-  "zh": null,
+  "zh": "所得税（Nexstep Discovery 私人有限公司依第 13（12）条享有的豁免）命令 2021",
   "en": "Income Tax (Nexstep Discovery Pte. Ltd. — Section 13(12) Exemption) Order 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The following income received in Singapore by Nexstep Discovery Pte. Ltd. (a company incorporated in Singapore) from Nexstep Activity LLP (a limited liability partnership incorporated in the Republic of India) is exempt from tax:\n(a)profit distribution amounting to US$643,502 received on 14 June 2018;\n(b)profit distribution amounting to US$184,230 received on 19 June 2019.\n(2) The exemption in sub‑paragraph (1) is subject to the terms and conditions specified in paragraphs 3 and 4 of the letter of approval dated 2 August 2021, addressed to IQ EQ Consultants (Singapore) Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Nexstep Discovery Pte. Ltd. — Section 13(12) Exemption) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

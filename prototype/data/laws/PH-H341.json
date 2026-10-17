@@ -1,7 +1,7 @@
 {
  "id": "PH-H341",
  "title": {
-  "zh": null,
+  "zh": "修订题为《保税仓库法》的第 3893 号法，扩大其范围与适用范围，规定年度许可费，限制 Bonded 一词的使用，规定违规处罚，并为此拨付所需经费及为其他目的",
   "en": "An Act to Amend Act Numbered Thirty-Eight Hundred and Ninety-Three, Entitled \"Bonded Warehouse Act,\" Extending the Scope and Purview Thereof, Providing Annual License Fee, Limiting the Use of the Word \"Bonded,\" Providing Penalties for Violation Thereof, and Appropriating Funds Needed Therefor, and for Other Purposes",
   "orig": "An Act to Amend Act Numbered Thirty-Eight Hundred and Ninety-Three, Entitled \"Bonded Warehouse Act,\" Extending the Scope and Purview Thereof, Providing Annual License Fee, Limiting the Use of the Word \"Bonded,\" Providing Penalties for Violation Thereof, and Appropriating Funds Needed Therefor, and for Other Purposes"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Act Numbered Thirty-Eight Hundred and Ninety-Three, Entitled \"Bonded Warehouse Act,\" Extending the Scope and Purview Thereof, Providing Annual License Fee, Limiting the Use of the Word \"Bonded,\" Providing Penalties for Violation Thereof, and Appropriating Funds Needed Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

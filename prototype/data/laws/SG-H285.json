@@ -1,7 +1,7 @@
 {
  "id": "SG-H285",
  "title": {
-  "zh": null,
+  "zh": "银行（第 4A（1）与（2）条豁免）公告 2006",
   "en": "Banking (Exemption from Section 4A (1) and (2)) Notification 2006",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The Authority hereby exempts —\n(a)ING Bank (Switzerland) Limited from section 4A(1) of the Act in respect of any deposit accepted in Singapore on its behalf by ING Asia Private Bank Limited from any accredited investor in Singapore, in connection with the provision of private banking services in Singapore by ING Asia Private Bank Limited on behalf of ING Bank (Switzerland) Limited; and\n(b)ING Asia Private Bank Limited from section 4A(2) of the Act in respect of —\n(i)any offer or invitation to make any deposit, or to enter or offer to enter into any agreement to make any deposit, with ING Bank (Switzerland) Limited; or\n(ii)any advertisement containing such offer or invitation,\nmade or issued to any accredited investor in Singapore in connection with the provision of private banking services in Singapore by ING Asia Private Bank Limited on behalf of ING Bank (Switzerland) Limited.\n(2) The exemptions under sub-paragraph (1)(a) and (b) are subject to such conditions as may be specified in letters issued by the Authority from time to time to the exempted persons.\n(3) In this paragraph, “accredited investor” has the same meaning as in regulation 2 of the Banking Regulations (Rg 5)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Banking (Exemption from Section 4A (1) and (2)) Notification 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

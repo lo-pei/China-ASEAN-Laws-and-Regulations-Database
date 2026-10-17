@@ -1,7 +1,7 @@
 {
  "id": "PH-H4072",
  "title": {
-  "zh": null,
+  "zh": "修订第4382号共和国法某条（即Charter of Bago）的法案",
   "en": "An Act Amending Certain Sections of Republic Act Numbered Forty-Three Hundred and Eighty-Two, Otherwise Known as the Charter of Bago",
   "orig": "An Act Amending Certain Sections of Republic Act Numbered Forty-Three Hundred and Eighty-Two, Otherwise Known as the Charter of Bago"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Sections of Republic Act Numbered Forty-Three Hundred and Eighty-Two, Otherwise Known as the Charter of Bago",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

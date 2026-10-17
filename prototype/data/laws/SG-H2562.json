@@ -1,7 +1,7 @@
 {
  "id": "SG-H2562",
  "title": {
-  "zh": null,
+  "zh": "所得税（银行或金融公司业务转让）（第 2 号）命令 2003",
   "en": "Income Tax (Transfer of Undertaking by Bank or Finance Company) (No. 2) Order 2003",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. It is hereby declared that, subject to the conditions specified in the letter of approval dated 10th October 2003, the provisions in the accounts of Bank Brussels Lambert Singapore Branch which have been transferred to ING Bank N.V. Singapore Branch —\n(a)shall not be deemed under section 14I(2)(b) of the Act to be a trading receipt of Bank Brussels Lambert Singapore Branch; and\n(b)shall for the purposes of section 14I of the Act be treated as having been allowed to ING Bank N.V. Singapore Branch as a deduction under that section."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Transfer of Undertaking by Bank or Finance Company) (No. 2) Order 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H310",
  "title": {
-  "zh": null,
+  "zh": "授权支用政府现正申请的一笔贷款，用于建设若干水电项目与设立一家化肥厂的法案",
   "en": "An Act to Authorize the Expenditure of the Proceeds of a Loan Now Being Applied for by the Government for the Construction of Certain Hydroelectric Power Projects and the Erection of a Fertilizer Plant",
   "orig": "An Act to Authorize the Expenditure of the Proceeds of a Loan Now Being Applied for by the Government for the Construction of Certain Hydroelectric Power Projects and the Erection of a Fertilizer Plant"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 1, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize the Expenditure of the Proceeds of a Loan Now Being Applied for by the Government for the Construction of Certain Hydroelectric Power Projects and the Erection of a Fertilizer Plant",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-30-2014-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-AMENDMEN-D0EFB2",
  "title": {
-  "zh": null,
+  "zh": "补充缴费养老金第 2 号修正命令 2014",
   "en": "SUPPLEMENTAL CONTRIBUTORY PENSIONS AMENDMENT NO. 2 ORDER 2014",
   "orig": null
  },
@@ -83,5 +83,13 @@
     "en": "The principal Order is amended by repealing sections 3 and 4. Made this 6th. day of Sya'aban, 1435 Hijriah corresponding to the 4th. day of June, 2014 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENGIRAN HAJI AHMAD, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUPPLEMENTAL CONTRIBUTORY PENSIONS AMENDMENT NO. 2 ORDER 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

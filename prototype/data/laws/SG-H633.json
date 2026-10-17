@@ -1,7 +1,7 @@
 {
  "id": "SG-H633",
  "title": {
-  "zh": null,
+  "zh": "民防（逮捕、搜查、调查与罪行审讯）条例",
   "en": "Civil Defence (Arrests, Searches, Investigation and Trial of Offences) Regulations",
   "orig": null
  },
@@ -488,5 +488,13 @@
     "en": "THE SCHEDULE\nRegulation 2(2)\nFORM 1\nCIVIL DEFENCE ACT\n(CHAPTER 42)\nCIVIL DEFENCE (ARRESTS, SEARCHES, INVESTIGATION AND TRIAL OF OFFENCES) REGULATIONS\nWARRANT OF ARREST (1)\nTo.................................................................................................. (2)\n(No. , rank, name, unit)\n..................................................................................................\n(No. , rank, name, unit)\n..................................................................................................\n1. You are hereby authorised to arrest\n.................................................................................................. (3)\n(No. , rank, name, unit)\nfor having committed or reasonably suspected of having committed\n............................................................................................................ (4)\n................................................................................................................\n........................................ (5)\n........................................\nDate and time\nRank, name, unit and signature\nof issuing officer.\n____________________________________________________________\n(1)The officer issuing a warrant of arrest shall, as soon as possible, inform his superior in command and the Commissioner of the issue of the warrant of arrest.\n(2)(a) The warrant of arrest may be directed to —\n(i)provost officers in general or to any one or more provost officers;\n(ii)any one or more members not being provost officers;\n(iii)the Commissioner of Police and all other police officers of Singapore.\n(b)A person who makes an arrest shall deliver to the commanding officer of the arrested person at the time of the arrest or within 24 hours thereafter a copy of warrant of arrest.\n(3)Particulars of person to be arrested.\n(4)Give a short description of the offence(s).\n(5)State date and time of issue of warrant of arrest.\n[S 381/2019 wef 13/05/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Civil Defence (Arrests, Searches, Investigation and Trial of Offences) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

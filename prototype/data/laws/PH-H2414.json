@@ -1,7 +1,7 @@
 {
  "id": "PH-H2414",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统就菲律宾共和国认购国际开发协会股份进行谈判，并规定满足其资金需求的程序的法案",
   "en": "An Act Authorizing the President of the Philippines to Negotiate for the Subscription of the Republic of the Philippines to the International Development Association, and Providing for the Procedure to Meet the Financial Requirements Therefor",
   "orig": "An Act Authorizing the President of the Philippines to Negotiate for the Subscription of the Republic of the Philippines to the International Development Association, and Providing for the Procedure to Meet the Financial Requirements Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Negotiate for the Subscription of the Republic of the Philippines to the International Development Association, and Providing for the Procedure to Meet the Financial Requirements Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

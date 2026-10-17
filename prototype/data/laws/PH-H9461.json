@@ -1,7 +1,7 @@
 {
  "id": "PH-H9461",
  "title": {
-  "zh": null,
+  "zh": "将卡林加省 Tanudan 市镇 Dupligan 描笼涯一所国立中学的附属校分离，设立独立的 Biga 国立中学并为此拨款",
   "en": "An Act Separating Magtoma National High School - Dupligan Annex in Barangay Dupligan, Municipality of Tanudan, Province of Kalinga From the Magtoma National High School, Converting It Into an Independent National High School to be Known as Biga National HIgh School and Appropriating Funds Therefor",
   "orig": "An Act Separating Magtoma National High School - Dupligan Annex in Barangay Dupligan, Municipality of Tanudan, Province of Kalinga From the Magtoma National High School, Converting It Into an Independent National High School to be Known as Biga National HIgh School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating Magtoma National High School - Dupligan Annex in Barangay Dupligan, Municipality of Tanudan, Province of Kalinga From the Magtoma National High School, Converting It Into an Independent National High School to be Known as Biga National HIgh School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5856",
  "title": {
-  "zh": null,
+  "zh": "通过向各镇与市不超过三千万与四千万比索的企业提供财政援助推动全国工业化，授权今后五年每年拨付十亿比索作为初始资本并为其他目的法案",
   "en": "An Act to Launch and Promote Countrywide Industrialization Through the Establishment of Manufacturing, Processing and Related Industries By Providing Financial Assistance to Enterprises in Every Town and City Not Exceeding P30 Million and P40 Million, Respectively, Authorizing the Appropriation Therefor in the Amount of P1 Billion Per Year for the Next Five Years as Initial Capital, and for Other Purposes",
   "orig": "An Act to Launch and Promote Countrywide Industrialization Through the Establishment of Manufacturing, Processing and Related Industries By Providing Financial Assistance to Enterprises in Every Town and City Not Exceeding P30 Million and P40 Million, Respectively, Authorizing the Appropriation Therefor in the Amount of P1 Billion Per Year for the Next Five Years as Initial Capital, and for Other Purposes"
  },
@@ -210,5 +210,13 @@
     "en": "Effectivity . - This Act shall take effect immediately upon its approval without prejudice to its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Launch and Promote Countrywide Industrialization Through the Establishment of Manufacturing, Processing and Related Industries By Providing Financial Assistance to Enterprises in Every Town and City Not Exceeding P30 Million and P40 Million, Respectively, Authorizing the Appropriation Therefor in the Amount of P1 Billion Per Year for the Next Five Years as Initial Capital, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

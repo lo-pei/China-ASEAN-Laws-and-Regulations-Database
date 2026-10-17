@@ -1,7 +1,7 @@
 {
  "id": "SG-H2867",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（国际海洋法法庭）命令 2023",
   "en": "International Organisations (Immunities and Privileges) (International Tribunal for the Law of the Sea) Order 2023",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) Each of the following individuals enjoys exemption from tax in respect of salaries, emoluments and allowances paid by the Tribunal:\n(a)a Member of the Tribunal;\n(b)the Registrar, and any other official of the Tribunal who is not a citizen or permanent resident of Singapore.\n(2) Despite anything in sub-paragraph (1), upon a waiver of an immunity or a privilege of an individual under that sub‑paragraph by the competent authority, that immunity or privilege does not apply to that individual.\n(3) In sub-paragraph (2), “competent authority” means —\n(a)in the case of an immunity or a privilege enjoyed by a Member of the Tribunal or the Registrar — the Tribunal; and\n(b)in any other case — the Registrar, acting with the approval of the President of the Tribunal."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "International Organisations (Immunities and Privileges) (International Tribunal for the Law of the Sea) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

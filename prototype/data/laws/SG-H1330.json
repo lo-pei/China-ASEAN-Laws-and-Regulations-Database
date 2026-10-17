@@ -1,7 +1,7 @@
 {
  "id": "SG-H1330",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（豁免）命令 2018",
   "en": "Environmental Protection and Management (Exemption) Order 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Sections 22(1) and 23(1) of the Act do not apply to any person who, within Singapore, possesses for sale, sells, or offers for sale any of the following substances:\n(a)Chlorofluorocarbons:\n(i)Chloroheptafluoropropane;\n(ii)Chloropentafluoroethane;\n(iii)Chlorotrifluoromethane;\n(iv)Dichlorodifluoromethane;\n(v)Dichlorohexafluoropropane;\n(vi)Dichlorotetrafluoroethane;\n(vii)Heptachlorofluoropropane;\n(viii)Hexachlorodifluoropropane;\n(ix)Pentachlorofluoroethane;\n(x)Pentachlorotrifluoropropane;\n(xi)Tetrachlorodifluoroethane;\n(xii)Tetrachlorotetrafluoropropane;\n(xiii)Trichlorofluoromethane;\n(xiv)Trichloropentafluoropropane;\n(xv)Trichlorotrifluoroethane;\n(b)Halons:\n(i)Bromochlorodifluoromethane;\n(ii)Bromochloromethane;\n(iii)Bromotrifluoromethane;\n(iv)Dibromotetrafluoroethane;\n(c)Hydrochlorofluorocarbons:\n(i)1,1‑dichloro‑1‑fluoro‑ethane;\n(ii)1,1‑dichloro‑2,2,3,3,3‑pentafluoropropane;\n(iii)1,3‑dichloro‑1,2,2,3,3‑pentafluoropropane;\n(iv)1‑chloro‑1,1‑difluoro‑ethane;\n(v)Chlorodifluoroethane;\n(vi)Chlorodifluoromethane;\n(vii)Chlorodifluoropropane;\n(viii)Chlorofluoroethane;\n(ix)Chlorofluoromethane;\n(x)Chlorofluoropropane;\n(xi)Chlorohexafluoropropane;\n(xii)Chloropentafluoropropane;\n(xiii)Chlorotetrafluoroethane;\n(xiv)Chlorotetrafluoropropane;\n(xv)Chlorotrifluoroethane;\n(xvi)Chlorotrifluoropropane;\n(xvii)Dichlorodifluoroethane;\n(xviii)Dichlorodifluoropropane;\n(xix)Dichlorofluoroethane;\n(xx)Dichlorofluoromethane;\n(xxi)Dichlorofluoropropane;\n(xxii)Dichloropentafluoropropane;\n(xxiii)Dichlorotetrafluoropropane;\n(xxiv)Dichlorotrifluoroethane;\n(xxv)Dichlorotrifluoropropane;\n(xxvi)Hexachlorofluoropropane;\n(xxvii)Pentachlorodifluoropropane;\n(xxviii)Pentachlorofluoropropane;\n(xxix)Tetrachlorodifluoropropane;\n(xxx)Tetrachlorofluoroethane;\n(xxxi)Tetrachlorofluoropropane;\n(xxxii)Tetrachlorotrifluoropropane;\n(xxxiii)Trichlorodifluoroethane;\n(xxxiv)Trichlorodifluoropropane;\n(xxxv)Trichlorofluoroethane;\n(xxxvi)Trichlorofluoropropane;\n(xxxvii)Trichlorotetrafluoropropane;\n(xxxviii)Trichlorotrifluoropropane;\n(d)Hydrobromofluorocarbons:\n(i)Bromodifluoroethane;\n(ii)Bromodifluoromethane;\n(iii)Bromodifluoropropane;\n(iv)Bromofluoroethane;\n(v)Bromofluoromethane;\n(vi)Bromofluoropropane;\n(vii)Bromohexafluoropropane;\n(viii)Bromopentafluoropropane;\n(ix)Bromotetrafluoroethane;\n(x)Bromotetrafluoropropane;\n(xi)Bromotrifluoroethane;\n(xii)Bromotrifluoropropane;\n(xiii)Dibromodifluoroethane;\n(xiv)Dibromodifluoropropane;\n(xv)Dibromofluoroethane;\n(xvi)Dibromofluoromethane;\n(xvii)Dibromofluoropropane;\n(xviii)Dibromopentafluoropropane;\n(xix)Dibromotetrafluoropropane;\n(xx)Dibromotrifluoroethane;\n(xxi)Dibromotrifluoropropane;\n(xxii)Hexabromofluoropropane;\n(xxiii)Pentabromodifluoropropane;\n(xxiv)Pentabromofluoropropane;\n(xxv)Tetrabromodifluoropropane;\n(xxvi)Tetrabromofluoroethane;\n(xxvii)Tetrabromofluoropropane;\n(xxviii)Tetrabromotrifluoropropane;\n(xxix)Tribromodifluoroethane;\n(xxx)Tribromodifluoropropane;\n(xxxi)Tribromofluoroethane;\n(xxxii)Tribromofluoropropane;\n(xxxiii)Tribromotetrafluoropropane;\n(xxxiv)Tribromotrifluoropropane;\n(e)Carbon tetrachloride;\n(f)1,1,1‑trichloroethane (methyl chloroform).\n(2) In this paragraph, sale does not include import or export."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Protection and Management (Exemption) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

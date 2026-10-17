@@ -1,7 +1,7 @@
 {
  "id": "PH-H4568",
  "title": {
-  "zh": null,
+  "zh": "修订第 4645 号共和国法（即 Olongapo 市宪章）的法案",
   "en": "An Act Amending Republic Act Numbered Forty-Six Hundred Forty-Five, Known as the Charter of the City of Olongapo",
   "orig": "An Act Amending Republic Act Numbered Forty-Six Hundred Forty-Five, Known as the Charter of the City of Olongapo"
  },
@@ -121,14 +121,15 @@
    }
   },
   {
-   "id": "PH-H4568-A7_2",
+   "id": "PH-H4568-A7-d2",
    "no": 7,
    "noLabel": {
     "en": "Section 7."
    },
    "text": {
     "en": "Section thirty of the same Act is hereby amended to read as follows:\n\"Section 30. The Deputy Chief of Police. —There shall be a deputy chief of police whose duties shall be to act as chief in the absence or incapacity of the chief of police and, under the direction of the chief of police to look after the discipline of the police force and perform such other duties as may be imposed upon him by the chief or prescribed by law or ordinance. He shall receive a compensation of not less than ten thousand two hundred pesos per annum.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4568-A8",
@@ -190,5 +191,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Forty-Six Hundred Forty-Five, Known as the Charter of the City of Olongapo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

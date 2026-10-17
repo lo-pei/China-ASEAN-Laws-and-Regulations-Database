@@ -1,7 +1,7 @@
 {
  "id": "PH-H3821",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统为资助已批准的经济发展目的或项目取得必要的外国贷款与信贷或承担外债，并代表共和国为政府公司所取得的外国贷款或发行债券提供担保，拨付必要经费并为其他目的法案",
   "en": "An Act Authorizing the President of the Philippines to Obtain Such Foreign Loans and Credits, or to Incur Such Foreign Indebtedness, as May be Necessary to Finance Approved Economic Development Purposes or Projects, and to Guarantee, in Behalf of the Republic of the Philippines, Foreign Loans Obtained or Bonds Issued by Corporations Owned or Controlled by the Government of the Philippines for Economic Development Purposes Including Those Incurred for Purposes of Re-Lending to the Private Sector, Appropriating the Necessary Funds Therefor, and for Other Purposes",
   "orig": "An Act Authorizing the President of the Philippines to Obtain Such Foreign Loans and Credits, or to Incur Such Foreign Indebtedness, as May be Necessary to Finance Approved Economic Development Purposes or Projects, and to Guarantee, in Behalf of the Republic of the Philippines, Foreign Loans Obtained or Bonds Issued by Corporations Owned or Controlled by the Government of the Philippines for Economic Development Purposes Including Those Incurred for Purposes of Re-Lending to the Private Sector, Appropriating the Necessary Funds Therefor, and for Other Purposes"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 8, 1966"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Obtain Such Foreign Loans and Credits, or to Incur Such Foreign Indebtedness, as May be Necessary to Finance Approved Economic Development Purposes or Projects, and to Guarantee, in Behalf of the Republic of the Philippines, Foreign Loans Obtained or Bonds Issued by Corporations Owned or Controlled by the Government of the Philippines for Economic Development Purposes Including Those Incurred for Purposes of Re-Lending to the Private Sector, Appropriating the Necessary Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

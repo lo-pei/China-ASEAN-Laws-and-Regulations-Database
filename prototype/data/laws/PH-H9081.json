@@ -1,7 +1,7 @@
 {
  "id": "PH-H9081",
  "title": {
-  "zh": null,
+  "zh": "规定保护区管理委员会保留综合保护区基金（IPAF）所得的百分之七十五（75%），为此修订第7586号共和国法（即1992年《国家综合保护区系统法》）第16条的法案",
   "en": "An Act Providing for the Retention by the Protected Area Management Board of Seventy-Five Percent (75%) of the Revenues Accruing to the Integrated Protected Areas Fund (IPAF), Amending for the Purpose Section 16 of Republic Act No. 7586, Otherwise Known as the National Integrated Protected Areas System Act of 1992",
   "orig": "An Act Providing for the Retention by the Protected Area Management Board of Seventy-Five Percent (75%) of the Revenues Accruing to the Integrated Protected Areas Fund (IPAF), Amending for the Purpose Section 16 of Republic Act No. 7586, Otherwise Known as the National Integrated Protected Areas System Act of 1992"
  },
@@ -80,5 +80,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Retention by the Protected Area Management Board of Seventy-Five Percent (75%) of the Revenues Accruing to the Integrated Protected Areas Fund (IPAF), Amending for the Purpose Section 16 of Republic Act No. 7586, Otherwise Known as the National Integrated Protected Areas System Act of 1992",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4226",
  "title": {
-  "zh": null,
+  "zh": "通过修订菲律宾关税与海关法典第701条，使南哥打巴托省桑托斯将军城市镇Dadiangas分口岸成为入境口岸，并授权为此拨款",
   "en": "An Act Making the Subport of Dadiangas in the Municipality of General Santos, Province of South Cotabato, a Port of Entry by Amending Section Seven Hundred One of the Tariff and Customs Code of the Philippines, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Making the Subport of Dadiangas in the Municipality of General Santos, Province of South Cotabato, a Port of Entry by Amending Section Seven Hundred One of the Tariff and Customs Code of the Philippines, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making the Subport of Dadiangas in the Municipality of General Santos, Province of South Cotabato, a Port of Entry by Amending Section Seven Hundred One of the Tariff and Customs Code of the Philippines, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

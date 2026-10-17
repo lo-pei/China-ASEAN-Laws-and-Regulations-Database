@@ -1,7 +1,7 @@
 {
  "id": "SG-H3600",
  "title": {
-  "zh": null,
+  "zh": "公共服务（服务委员会）法 1956",
   "en": "Public Service (Service Commissions) Act 1956",
   "orig": null
  },
@@ -153,5 +153,13 @@
    },
    "status": "repealed"
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Public Service (Service Commissions) Act 1956",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

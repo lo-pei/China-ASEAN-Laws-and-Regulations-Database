@@ -1,7 +1,7 @@
 {
  "id": "PH-H4323",
  "title": {
-  "zh": null,
+  "zh": "设立食糖配额管理局营运费用特别基金的法案",
   "en": "An Act Creating a Special Fund for the Operational Expenses of the Sugar Quota Administration",
   "orig": "An Act Creating a Special Fund for the Operational Expenses of the Sugar Quota Administration"
  },
@@ -110,5 +110,13 @@
     "en": "Effectivity .—The Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating a Special Fund for the Operational Expenses of the Sugar Quota Administration",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

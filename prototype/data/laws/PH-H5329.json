@@ -1,7 +1,7 @@
 {
  "id": "PH-H5329",
  "title": {
-  "zh": null,
+  "zh": "将伊利汉小学更名为佩德罗·S·托伦蒂诺纪念小学的法案",
   "en": "An Act Renaming the Ilijan Elementary School to Pedro S. Tolentino Memorial Elementary School",
   "orig": "An Act Renaming the Ilijan Elementary School to Pedro S. Tolentino Memorial Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: January 5, 1990."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Ilijan Elementary School to Pedro S. Tolentino Memorial Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

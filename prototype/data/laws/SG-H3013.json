@@ -1,7 +1,7 @@
 {
  "id": "SG-H3013",
  "title": {
-  "zh": null,
+  "zh": "法律职业（律师信托账户）规则",
   "en": "Legal Profession (Solicitors’ Trust Accounts) Rules",
   "orig": null
  },
@@ -207,5 +207,13 @@
     "en": "13. Nothing in these Rules shall deprive a solicitor of any recourse or right, whether by way of lien, set-off, counter-claim, charge or otherwise, against moneys standing to the credit of a trust account.\n[G.N. Nos. S 203/85; S 381/98]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Solicitors’ Trust Accounts) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

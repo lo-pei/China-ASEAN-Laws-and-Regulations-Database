@@ -1,7 +1,7 @@
 {
  "id": "PH-H2797",
  "title": {
-  "zh": null,
+  "zh": "在伊莎贝拉省设立Ramon市镇的法案",
   "en": "An Act Creating the Municipality of Ramon in the Province of Isabela",
   "orig": "An Act Creating the Municipality of Ramon in the Province of Isabela"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon the election of the new municipal officials in the general election for local officials in November of nineteen hundred sixty-three.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Municipality of Ramon in the Province of Isabela",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

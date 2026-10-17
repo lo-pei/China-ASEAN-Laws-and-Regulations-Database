@@ -1,7 +1,7 @@
 {
  "id": "PH-H2518",
  "title": {
-  "zh": null,
+  "zh": "将伊莎贝拉省圣马特奥市镇达古潘、比利亚马加特与圣曼努埃尔村的部分区域组建为名为利加亚村的法案",
   "en": "An Act Constituting Portions of Barrios Dagupan, Villa Magat and San Manuel in the Municipality of San Mateo, Province of Isabela, into a Barrio to be Known as Barrio Ligaya",
   "orig": "An Act Constituting Portions of Barrios Dagupan, Villa Magat and San Manuel in the Municipality of San Mateo, Province of Isabela, into a Barrio to be Known as Barrio Ligaya"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Constituting Portions of Barrios Dagupan, Villa Magat and San Manuel in the Municipality of San Mateo, Province of Isabela, into a Barrio to be Known as Barrio Ligaya",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1208",
  "title": {
-  "zh": null,
+  "zh": "授权以计件或“Takay”方式实施公共工程项目或其部分的法案",
   "en": "An Act Authorizing the Execution of Public Works Projects or Parts Thereof on Piece Work or “Takay” Basis",
   "orig": "An Act Authorizing the Execution of Public Works Projects or Parts Thereof on Piece Work or “Takay” Basis"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Execution of Public Works Projects or Parts Thereof on Piece Work or “Takay” Basis",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

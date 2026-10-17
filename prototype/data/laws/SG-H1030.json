@@ -1,7 +1,7 @@
 {
  "id": "SG-H1030",
  "title": {
-  "zh": null,
+  "zh": "货币法——拟发行硬币面额与特征",
   "en": "Currency Act — Denominations and Characteristics of the Coins to Be Issued",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE $250 GOLD PROOF COIN, $10 SILVER PIEDFORT PROOF COIN AND CUPRO-NICKEL PROOF-LIKE COIN\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n250 Dollars\n999.9 Fine Gold\n31.103 g + 0.05 g\n32.12 mm + 0.15 mm\n2.50 mm + 0.20 mm\nRound\nMilled and bearing the words “BOARD OF COMMISSIONERS OF CURRENCY, SINGAPORE” and lion symbol.\nThe Singapore Arms in the centre with the year-date “2001” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’clock for the $250 gold coin and $10 silver coin.\nStylised version of a snake design is to the centre. The coin design is based on the paper-cut style. The 2 Chinese characters signifying the “Year of Snake” are on the left of the snake design. The denomination of the coin in figures is below the design. The troy weight and fineness of the coin are at the lower circumference of the $250 gold and $10 silver coins.\n10 Dollars\n999 Fine Silver\n62.206 g + 0.20 g\n40.70 mm + 0.15 mm\n5.80 mm + 0.20 mm\nRound\n10 Dollars\n75% Copper 25% Nickel\n28.00 g + 0.40 g\n40.70 mm + 0.15 mm\n3.05 mm + 0.20 mm\nRound\n(a) Reverse Design of the $250 Gold Proof Coin\n(b) Reverse Design of the $10 Silver Piedfort Proof Coin\n(c) Reverse Design of the $10 Cupro-Nickel Proof- Like Coin\n(d) Common Obverse Design for $250 Gold Proof Coin and $10 Silver Piedfort Proof Coin\n(e) Obverse Design for $10 Cupro-Nickel Proof-Like Coin"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency Act — Denominations and Characteristics of the Coins to Be Issued",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

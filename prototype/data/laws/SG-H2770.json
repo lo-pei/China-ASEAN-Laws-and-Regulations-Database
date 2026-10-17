@@ -1,7 +1,7 @@
 {
  "id": "SG-H2770",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（公司破产与重组）规则 2020",
   "en": "Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020",
   "orig": null
  },
@@ -2938,5 +2938,13 @@
     "en": "SECOND SCHEDULE\nRule 180(1)\nfees\n1.For every winding up application\n$75\n2.For every bond with sureties\n$10\n3.On every order to attend court, order to produce documents or summons issued\n$4\n4.On entering or sealing any judgment or order of the Court (except an order upon an application for winding up and an order adjourning a public examination) —\n(a)if made in open court\n$20\n(b)if made in chambers\n$10\n5.On every order adjourning a public examination\n$10\n6.For every affidavit filed\n$10\n7.On taking or re-taking an affidavit or a declaration in lieu of an affidavit, or a declaration or an acknowledgment for each person making the same\n$4\n8.In addition to the fee in item 7, for each exhibit referred to in an affidavit, a declaration or an acknowledgment mentioned in that item that is required to be marked\n$1\n9.On every application to the Court under Part 8 or 10 of the Act, the Court‑Ordered Winding Up Regulations, the Voluntary Winding Up Regulations or Part 5 of these Rules (other than a winding up application)\n$50\n[S 195/2022 wef 01/04/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

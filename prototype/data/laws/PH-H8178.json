@@ -1,7 +1,7 @@
 {
  "id": "PH-H8178",
  "title": {
-  "zh": null,
+  "zh": "将伊富高省 Lamut 市镇伊富高农业与林业国立学院及其所有现有延伸校区改设为国立大学，名称为伊富高国立大学，并为此拨款的法案",
   "en": "An Act Converting the Ifugao State College of Agriculture and Forestry in the Municipality of Lamut and All its Existing Extension Campuses Located in the Province of Ifugao into a State University to Be Known as the Ifugao State University and Appropriating Funds Therefor",
   "orig": "An Act Converting the Ifugao State College of Agriculture and Forestry in the Municipality of Lamut and All its Existing Extension Campuses Located in the Province of Ifugao into a State University to Be Known as the Ifugao State University and Appropriating Funds Therefor"
  },
@@ -322,5 +322,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Ifugao State College of Agriculture and Forestry in the Municipality of Lamut and All its Existing Extension Campuses Located in the Province of Ifugao into a State University to Be Known as the Ifugao State University and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

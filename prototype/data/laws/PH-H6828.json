@@ -1,7 +1,7 @@
 {
  "id": "PH-H6828",
  "title": {
-  "zh": null,
+  "zh": "1997 年反强奸法",
   "en": "The Anti-Rape Law of 1997",
   "orig": "The Anti-Rape Law of 1997 An Act Expanding the Definition of the Crime of Rape, Reclassifying the Same as a Crime Against Persons, Amending for the Purpose Act No. 3815, as Amended, Otherwise Known as the Revised Penal Code, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after completion of its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Anti-Rape Law of 1997",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

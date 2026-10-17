@@ -1,7 +1,7 @@
 {
  "id": "PH-H7941",
  "title": {
-  "zh": null,
+  "zh": "通过赦免 2005 及以前纳税年度国家政府征收的全部未缴国内税，加强税收管理与征收的法案",
   "en": "An Act Enhancing Revenue Administration and Collection by Granting an amnesty on All Unpaid Internal Revenue Taxes imposed by the National Government for Taxable Year 2005 and prior years ../../administ/dof/do_29_07_2007.html",
   "orig": "An Act Enhancing Revenue Administration and Collection by Granting an amnesty on All Unpaid Internal Revenue Taxes imposed by the National Government for Taxable Year 2005 and prior years ../../administ/dof/do_29_07_2007.html"
  },
@@ -200,5 +200,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any two newspapers of general circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Enhancing Revenue Administration and Collection by Granting an amnesty on All Unpaid Internal Revenue Taxes imposed by the National Government for Taxable Year 2005 and prior years ../../administ/dof/do_29_07_2007.html",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

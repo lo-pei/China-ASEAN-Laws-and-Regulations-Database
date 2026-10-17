@@ -1,7 +1,7 @@
 {
  "id": "PH-H2012",
  "title": {
-  "zh": null,
+  "zh": "修订第1784号共和国法（即为萨马省 Catbalogan 火灾灾民救助拨款五百万比索的法案）的法案",
   "en": "An Act to Amend Republic Act Numbered Seventeen Hundred Eighty-Four, Entitled “An Act Appropriating Five Million Pesos for the Relief and Aid of Fire Victims in Catbalogan, Province of Samar”",
   "orig": "An Act to Amend Republic Act Numbered Seventeen Hundred Eighty-Four, Entitled “An Act Appropriating Five Million Pesos for the Relief and Aid of Fire Victims in Catbalogan, Province of Samar”"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Seventeen Hundred Eighty-Four, Entitled “An Act Appropriating Five Million Pesos for the Relief and Aid of Fire Victims in Catbalogan, Province of Samar”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

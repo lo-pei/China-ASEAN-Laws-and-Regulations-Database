@@ -1,7 +1,7 @@
 {
  "id": "PH-H7114",
  "title": {
-  "zh": null,
+  "zh": "在卡洛奥坎市Bagong Silang设立国立中学，名称为Kalayaan国立中学，并为此拨款的法案",
   "en": "An Act Establishing a National High School in Bagong Silang, Kalookan City, to Be Known as Kalayaan National High School, and Appropriating Funds Therefor",
   "orig": "An Act Establishing a National High School in Bagong Silang, Kalookan City, to Be Known as Kalayaan National High School, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "The amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a National High School in Bagong Silang, Kalookan City, to Be Known as Kalayaan National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

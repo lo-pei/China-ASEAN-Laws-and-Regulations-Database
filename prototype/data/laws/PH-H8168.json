@@ -1,7 +1,7 @@
 {
  "id": "PH-H8168",
  "title": {
-  "zh": null,
+  "zh": "妇女大宪章",
   "en": "The Magna Carta of Women",
   "orig": "The Magna Carta of Women An Act Providing for the Magna Carta of Women"
  },
@@ -642,5 +642,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Magna Carta of Women",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

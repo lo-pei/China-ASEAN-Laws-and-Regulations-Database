@@ -1,7 +1,7 @@
 {
  "id": "PH-H4062",
  "title": {
-  "zh": null,
+  "zh": "规定在北甘马粦省Jose Panganiban市镇设立工艺与贸易学校，名称为北甘马粦工艺与贸易学校，并授权为此拨款",
   "en": "An Act Providing for the Establishment of a School of Arts and Trades in the Municipality of Jose Panganiban in the Province of Camarines Norte, to be Known as the Camarines Norte School of Arts and Trades and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Providing for the Establishment of a School of Arts and Trades in the Municipality of Jose Panganiban in the Province of Camarines Norte, to be Known as the Camarines Norte School of Arts and Trades and Authorizing the Appropriation of Funds Therefor"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Establishment of a School of Arts and Trades in the Municipality of Jose Panganiban in the Province of Camarines Norte, to be Known as the Camarines Norte School of Arts and Trades and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

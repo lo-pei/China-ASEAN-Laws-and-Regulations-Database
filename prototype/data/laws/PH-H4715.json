@@ -1,7 +1,7 @@
 {
  "id": "PH-H4715",
  "title": {
-  "zh": null,
+  "zh": "授予 Felireo Palafox 与 Julio Benemerito 在北伊罗戈省 Pasuquin 市镇建设、运营制冰厂与冷藏库并在该省各市镇销售冰和供应冷藏的特许权法案",
   "en": "An Act Granting Felireo Palafox and Julio Benemerito a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the Municipality of Pasuquin, Province of Ilocos Norte, and to Sell and Distribute Ice and Supply Cold Storage in the Municipalities of Pasuquin, Bacarra and Vintar, Province of Ilocos Norte",
   "orig": "An Act Granting Felireo Palafox and Julio Benemerito a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the Municipality of Pasuquin, Province of Ilocos Norte, and to Sell and Distribute Ice and Supply Cold Storage in the Municipalities of Pasuquin, Bacarra and Vintar, Province of Ilocos Norte"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 4, 1969"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Felireo Palafox and Julio Benemerito a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the Municipality of Pasuquin, Province of Ilocos Norte, and to Sell and Distribute Ice and Supply Cold Storage in the Municipalities of Pasuquin, Bacarra and Vintar, Province of Ilocos Norte",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

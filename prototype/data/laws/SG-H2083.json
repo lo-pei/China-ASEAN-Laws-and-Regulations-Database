@@ -1,7 +1,7 @@
 {
  "id": "SG-H2083",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国所得豁免）（第 6 号）命令 2012",
   "en": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2012",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nEntities located in India\n1.Kanishka Healthcare Limited\n2.Fortis Health Management Limited\n3.Escorts Heart and Super Speciality Institute Limited\n4.Hospitalia Eastern Private Limited\n5.Fortis Hospotel Limited\n6.International Hospital Limited\n7.Escorts Heart and Super Speciality Hospital Limited\n8.Escorts Hospital and Research Centre Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

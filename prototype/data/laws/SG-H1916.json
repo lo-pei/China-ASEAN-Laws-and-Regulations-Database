@@ -1,7 +1,7 @@
 {
  "id": "SG-H1916",
  "title": {
-  "zh": null,
+  "zh": "所得税（认可银行）（第 7 号）命令 1997",
   "en": "Income Tax (Approved Banks) (No. 7) Order 1997",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Chang Hwa Commercial Bank Ltd is hereby approved as an “approved bank” for the purposes of section 13(1)(t) of the Act, with effect from 16th October 1997."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Approved Banks) (No. 7) Order 1997",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

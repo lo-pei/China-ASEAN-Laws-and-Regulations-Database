@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-157-2013-UNIVERSITI-BRUNEI-DARUSSALAM-ACT-1",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰大学法(1)",
   "en": "UNIVERSITI BRUNEI DARUSSALAM ACT(1)",
   "orig": null
  },
@@ -633,5 +633,13 @@
     "en": "If any question arises whether any person has been duly elected, appointed, nominated or co-opted to membership or is entitled to be or to remain a member of any authority or other body in the University, the question shall be referred to the Chancellor, whose decision thereon shall be final."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "UNIVERSITI BRUNEI DARUSSALAM ACT(1)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

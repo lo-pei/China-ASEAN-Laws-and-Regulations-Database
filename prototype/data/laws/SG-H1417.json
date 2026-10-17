@@ -1,7 +1,7 @@
 {
  "id": "SG-H1417",
  "title": {
-  "zh": null,
+  "zh": "遗产税（已故者 Wang Li Li 的遗产）（减免）命令 2004",
   "en": "Estate Duty (Wang Li Li, Deceased) (Remission) Order 2004",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The sum of $15,534.43 payable under the Act on the share in the Estate of Wang Wen Han, Deceased, and the Estate of Chua Siew Cheng, Deceased, passing on the death of Wang Li Li on 11th February 1998 is hereby remitted."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Estate Duty (Wang Li Li, Deceased) (Remission) Order 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

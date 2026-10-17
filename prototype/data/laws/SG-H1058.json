@@ -1,7 +1,7 @@
 {
  "id": "SG-H1058",
  "title": {
-  "zh": null,
+  "zh": "关税（制造执照）（豁免）命令 2010",
   "en": "Customs (Manufacturing Licence) (Exemption) Order 2010",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. No licence to manufacture under section 63(1) of the Act shall be required by —\n(a)any person who manufactures an exempt vehicle by assembly from component parts;\n(b)any person who manufactures an exempt vehicle by modification of a motor vehicle in completely built-up condition from component parts;\n(c)any person who manufactures a military vehicle for the use of the Singapore Armed Forces by assembly from component parts or by modification of a motor vehicle in completely built-up condition from component parts;\n(d)any educational institution that manufactures a motor vehicle for academic purposes by assembly from component parts or by modification of a motor vehicle in completely built-up condition from component parts;\n(e)any person who, using component parts, modifies a motor vehicle in completely built-up condition through the installation or removal of seats, in such manner that effects a change in tariff classification into a dutiable motor vehicle; and\n(f)any person who, using component parts, modifies a motor vehicle in completely built-up condition if the modification —\n(i)does not effect any change in tariff classification; and\n(ii)is performed where the motor vehicle is deposited and kept, without the payment of excise duty and goods and services tax, by virtue of holding in a warehouse licensed under section 51 of the Act or in a free trade zone under the Free Trade Zones Act (Cap. 114), and the provisions of section 37 of the Goods and Services Tax Act (Cap. 117A)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Manufacturing Licence) (Exemption) Order 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

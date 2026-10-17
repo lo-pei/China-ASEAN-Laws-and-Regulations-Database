@@ -1,7 +1,7 @@
 {
  "id": "SG-H1987",
  "title": {
-  "zh": null,
+  "zh": "所得税（Dreymoor 肥料海外私人有限公司——第 13(4) 条豁免）公告 2022",
   "en": "Income Tax (Dreymoor Fertilizers Overseas Pte. Ltd. — Section 13(4) Exemption) Notification 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to sub‑paragraphs (2) and (3), the interest payable by Dreymoor Fertilizers Overseas Pte. Ltd. from 1 June 2019 to 31 December 2022 (both dates inclusive) to the financial institutions not resident in Singapore mentioned in the first column of the following table in connection with the respective amounts of facility or loan quantum of foreign trade financing facility mentioned in the second column of the table, is exempt from tax:\nFirst column\nSecond column\nName of financial institution\nnot resident in Singapore\nAmount of facility or loan quantum of foreign trade financing facility\nCredit Europe Bank N.V.\nUS$50 million\nBIC-Bred (Suisse) S.A.\nUS$20 million\nSberbank (Switzerland) A.G.\nUS$50 million\nGarantiBank International N.V.\nUS$20 million\n(2) The exemption in sub-paragraph (1) does not apply to —\n(a)any interest payment derived from any operation carried on by the financial institution through the financial institution’s permanent establishment in Singapore; and\n(b)any interest payment due and payable after the date on which Dreymoor Fertilizers Overseas Pte. Ltd. ceases to be an approved global trading company under section 43I of the Act.\n(3) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter from the Ministry of Finance dated 17 January 2022 and addressed to Ernst & Young Solutions LLP."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Dreymoor Fertilizers Overseas Pte. Ltd. — Section 13(4) Exemption) Notification 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

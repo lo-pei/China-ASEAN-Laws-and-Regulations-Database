@@ -1,7 +1,7 @@
 {
  "id": "SG-H532",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（相关个人）条例 2012",
   "en": "Central Provident Fund (Relevant Individual) Regulations 2012",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of any transfer of any sum standing to the credit of a member in the Fund under section 18(1)(a), (2)(a) or (3)(a) of the Act, a relevant individual means any of the following relatives of the member:\n(a)a parent;\n(b)a grandparent;\n(c)the member’s spouse;\n(d)a brother or sister;\n(e)a parent-in-law;\n(f)a grandparent-in-law."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Relevant Individual) Regulations 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

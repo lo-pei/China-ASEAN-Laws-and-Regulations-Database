@@ -1,7 +1,7 @@
 {
  "id": "PH-H2109",
  "title": {
-  "zh": null,
+  "zh": "修订第444号联邦法（即《八小时劳动法》），将管理人员与外部销售人员排除在其适用范围之外，并为其他目的法案",
   "en": "An Act to Amend Commonwealth Act Numbered Four Hundred and Forty-Four Otherwise Known as the Eight-Hour Labor Law, by Excluding Managerial Employees and Outside Sales Personnel from the Scope Thereof, and for Other Purposes",
   "orig": "An Act to Amend Commonwealth Act Numbered Four Hundred and Forty-Four Otherwise Known as the Eight-Hour Labor Law, by Excluding Managerial Employees and Outside Sales Personnel from the Scope Thereof, and for Other Purposes"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1959"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Commonwealth Act Numbered Four Hundred and Forty-Four Otherwise Known as the Eight-Hour Labor Law, by Excluding Managerial Employees and Outside Sales Personnel from the Scope Thereof, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

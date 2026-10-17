@@ -1,7 +1,7 @@
 {
  "id": "PH-H5943",
  "title": {
-  "zh": null,
+  "zh": "对菲律宾发明人给予激励、扩大技术应用与推广研究所职能、为此拨款并为其他目的法案",
   "en": "An Act Providing Incentives To Filipino Inventors and Expanding the Functions of the Technology Application and Promotion Institute, Appropriating Funds Therefor, and For Other Purposes",
   "orig": "An Act Providing Incentives To Filipino Inventors and Expanding the Functions of the Technology Application and Promotion Institute, Appropriating Funds Therefor, and For Other Purposes"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its publication in a t least two(2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing Incentives To Filipino Inventors and Expanding the Functions of the Technology Application and Promotion Institute, Appropriating Funds Therefor, and For Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,0 +1,82 @@
+{
+ "id": "BN-S-62-2001-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2001",
+ "title": {
+  "zh": "法律职业法修正命令 2001",
+  "en": "LEGAL PROFESSION ACT AMENDMENT ORDER 2001",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p30",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 3,
+ "chars": 1572,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-62_2001_E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2001.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-62_2001_E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2001.pdf》（2 页），本次切分 3 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-62-2001-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2001-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Order may be cited as the Legal Profession Act (Amendment) Order, 2001. Amendment of section 2 of Chapter 132."
+   }
+  },
+  {
+   "id": "BN-S-62-2001-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2001-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section 2 of the Legal Profession Act (Chapter 132), in this Order referred to as the Act, is amended, in the definition of \"legal officer\", by adding \"or any qualified person who has been retained by or who appears in any case (as defined in subsection (6) of section 7) on the instructions of the Government.\". Amendment of section 17."
+   }
+  },
+  {
+   "id": "BN-S-62-2001-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2001-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Section 17 of the Act is amended by repealing subsection (2) and by substituting the following therefor - \"(2) Notwithstanding anything contained in this Act, the following persons shall be deemed to be advocates and solicitors -\n\n(a) any person who holds the office of Attorney General, Solicitor General, Deputy Public Prosecutor or any other office which His Majesty has by notice in the Government Gazette declared to be an office to which this subsection applies, for so long as he continues to hold such office; and\n\n(b) any qualified person who has been retained by or who appears in any case (as defined in subsection (6) of section 7) on the instructions of the Government.\".\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE Made this 9th. day of Jamadilakhir, 1422 Hijriah corresponding to the 28th. day of August, 2001 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM _,· Dicetak oleh DATO PADUKA WAHID BIN HAJI SALLEH, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "LEGAL PROFESSION ACT AMENDMENT ORDER 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

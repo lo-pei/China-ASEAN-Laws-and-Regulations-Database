@@ -1,7 +1,7 @@
 {
  "id": "SG-H557",
  "title": {
-  "zh": null,
+  "zh": "各辅助警察部队的撤销",
   "en": "Cessation of Auxiliary Police Forces",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Police Force Act\n(Chapter 235)\nCessation of Auxiliary Police Forces\nIt is hereby notified for general information that PSA Corporation Auxiliary Police Force and Singapore Technologies Kinetics Auxiliary Police Force will cease to be Auxiliary Police Forces, with effect from 1st April 2004."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Cessation of Auxiliary Police Forces",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

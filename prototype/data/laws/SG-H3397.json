@@ -1,7 +1,7 @@
 {
  "id": "SG-H3397",
  "title": {
-  "zh": null,
+  "zh": "验光师与配镜师（罪行构成）条例 2012",
   "en": "Optometrists and Opticians (Composition of Offences) Regulations 2012",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the Board in accordance with section 29 of the Act:\n(a)any offence under section 13(4), 17(3) or 18(7) of the Act; and\n(b)any offence under section 25(4) of the Act in connection with any failure to comply with section 25(1) of the Act involving —\n(i)the carrying out of any practice of optometry or opticianry by a qualified person otherwise than in accordance with the prescribed conditions; or\n(ii)the carrying out of any practice of optometry or opticianry by a person who does not have in force a practising certificate which authorises him to carry out that practice."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Optometrists and Opticians (Composition of Offences) Regulations 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

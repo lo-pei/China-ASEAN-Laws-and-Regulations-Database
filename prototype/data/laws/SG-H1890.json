@@ -1,7 +1,7 @@
 {
  "id": "SG-H1890",
  "title": {
-  "zh": null,
+  "zh": "移民（新加坡签证豁免）命令 2026",
   "en": "Immigration (Exemption from Singapore Visa) Order 2026",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2(h)\nFirst column\nSecond column\nForeign country\nType of passport\n1.Arab Republic of Egypt\nDiplomatic passport\n2.Federal Republic of Nigeria\nDiplomatic, Official or Service passport\n3.Federative Republic of Brazil\nDiplomatic or Official passport\n4.Hashemite Kingdom of Jordan\nDiplomatic, Official or Service passport\n5.Kingdom of Morocco\nDiplomatic passport\n6.Kingdom of Saudi Arabia\nDiplomatic passport\n7.Kingdom of Thailand\nDiplomatic, Official or Service passport\n8.Kyrgyz Republic\nDiplomatic, Official or Service passport\n9.People’s Republic of Bangladesh\nDiplomatic, Official or Service passport\n10.People’s Republic of China\nDiplomatic, Service or Public Affairs passport\n11.Republic of Armenia\nDiplomatic or Official passport\n12.Republic of Azerbaijan\nDiplomatic, Official or Service passport\n13.Republic of Belarus\nDiplomatic or Official passport\n14.Republic of Cuba\nDiplomatic, Official or Service passport\n15.Republic of Georgia\nDiplomatic, Official or Service passport\n16.Republic of India\nDiplomatic, Official or Service passport\n17.Republic of Indonesia\nDiplomatic, Official or Service passport\n18.Republic of Kazakhstan\nDiplomatic, Official or Service passport\n19.Republic of Kosovo\nDiplomatic or Official passport\n20.Republic of Moldova\nDiplomatic, Official or Service passport\n21.Republic of Peru\nDiplomatic, Official, Service or Public Affairs passport\n22.Republic of Tajikistan\nDiplomatic, Official or Service passport\n23.Republic of the Philippines\nDiplomatic, Official or Service passport\n24.Republic of Tunisia\nDiplomatic, Official, Service or Special passport\n25.Republic of Uzbekistan\nDiplomatic passport\n26.Russian Federation\nDiplomatic or Service passport\n27.Socialist Republic of Vietnam\nDiplomatic, Official or Service passport\n28.State of Israel\nDiplomatic, Official, Service or Public Affairs passport\n29.Turkmenistan\nDiplomatic, Official or Service passport\n30.Ukraine\nDiplomatic, Official or Service passport\n31.Union of Myanmar\nDiplomatic, Official or Service passport"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Immigration (Exemption from Singapore Visa) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

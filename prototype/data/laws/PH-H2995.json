@@ -1,7 +1,7 @@
 {
  "id": "PH-H2995",
  "title": {
-  "zh": null,
+  "zh": "授权拨款30万比索在卡加延-德奥罗市建造邮局大楼的法案",
   "en": "An Act Authorizing the Appropriation of Three Hundred Thousand Pesos for the Construction of a Post Office Building in the City of Cagayan De Oro",
   "orig": "An Act Authorizing the Appropriation of Three Hundred Thousand Pesos for the Construction of a Post Office Building in the City of Cagayan De Oro"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of Three Hundred Thousand Pesos for the Construction of a Post Office Building in the City of Cagayan De Oro",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

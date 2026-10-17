@@ -1,7 +1,7 @@
 {
  "id": "SG-H2839",
  "title": {
-  "zh": null,
+  "zh": "内部安全（禁止徽章）命令",
   "en": "Internal Security (Prohibition of Emblems) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The manufacture, sale, use, display or possession of any emblem or device in the form of a 5-pointed red star or a hammer and sickle in circumstances which raise a reasonable presumption that the emblem or device was intended or was likely to be used in a manner prejudicial to the interests of Singapore or to promote or foster a purpose prejudicial to or incompatible with peace, welfare or good order in Singapore is hereby prohibited:\nProvided that nothing in this Order shall apply to the display or possession of any national emblem the display of which is for the time being permitted in accordance with the provisions of the National Emblems (Control of Display) Act (Cap. 196)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Internal Security (Prohibition of Emblems) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

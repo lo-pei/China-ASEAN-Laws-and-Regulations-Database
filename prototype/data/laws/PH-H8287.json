@@ -1,7 +1,7 @@
 {
  "id": "PH-H8287",
  "title": {
-  "zh": null,
+  "zh": "菲律宾预需法典",
   "en": "The Pre-need Code of the Philippines",
   "orig": "The Pre-need Code of the Philippines An Act Establishing the Pre-need Code of the Phillpplnes"
  },
@@ -834,5 +834,13 @@
     "en": "Effectivity. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Pre-need Code of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2806",
  "title": {
-  "zh": null,
+  "zh": "保险（账目与报表）条例 2018",
   "en": "Insurance (Accounts and Statements) Regulations 2018",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) This regulation applies to a licensed insurer, other than a captive insurer, marine mutual insurer or Special Purpose Reinsurance Vehicle.\n(2) Despite regulation 4, a licensed insurer must lodge the statements of accounts and other statements, reports and other documents that are required to be lodged under the 2004 Regulations as in force immediately before 1 January 2019, in accordance with the form and manner set out in those Regulations, for the following periods:\n(a)the quarter beginning on 1 October 2018;\n(b)the accounting period beginning on or after 1 January 2018 and ending on 31 December 2018;\n(c)the financial year of the licensed insurer beginning on any day between 1 January 2018 and 31 December 2018 (both dates inclusive).\n(3) Despite regulation 4, a direct general insurer that is a licensed insurer as at 31 December 2018 must also comply with —\n(a)regulation 5(1)(a)(iii) of the 2004 Regulations as in force immediately before 1 January 2019, read with regulations 9(1), 13 and 15 of those Regulations, for —\n(i)the quarter beginning on 1 January 2019;\n(ii)the quarter beginning on 1 April 2019;\n(iii)the quarter beginning on 1 July 2019; and\n(iv)the quarter beginning on 1 October 2019; and\n(b)regulation 5(1)(b)(i) of the 2004 Regulations as in force immediately before 1 January 2019, read with regulations 9(1), 13 and 15 of those Regulations, for the accounting period beginning on 1 January 2019.\n(4) Despite regulation 4, a general reinsurer that is a licensed insurer as at 31 December 2018 must also comply with —\n(a)regulation 5(2)(a)(iii) of the 2004 Regulations as in force immediately before 1 January 2019, read with regulations 9(1), 13 and 15 of those Regulations, for —\n(i)the quarter beginning on 1 January 2019;\n(ii)the quarter beginning on 1 April 2019;\n(iii)the quarter beginning on 1 July 2019; and\n(iv)the quarter beginning on 1 October 2019; and\n(b)regulation 5(2)(b)(i) of the 2004 Regulations as in force immediately before 1 January 2019, read with regulations 9(1), 13 and 15 of those Regulations, for the accounting period beginning on 1 January 2019."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insurance (Accounts and Statements) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

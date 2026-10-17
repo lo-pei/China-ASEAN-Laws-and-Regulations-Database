@@ -1,7 +1,7 @@
 {
  "id": "PH-H7834",
  "title": {
-  "zh": null,
+  "zh": "2007 年人类安全法",
   "en": "Human Security Act of 2007",
   "orig": "Human Security Act of 2007 An Act to Secure the State and Protect Our People from Terrorism"
  },
@@ -660,5 +660,13 @@
     "en": "Special Effectivity Clause. - After the bill shall have been signed into law by the President, the Act shall be published in three newspapers of national circulation; three newspapers of local circulation, one each in llocos Norte, Baguio City and Pampanga; three newspapers of local circulation, one each in Cebu, lloilo and Tacloban; and three newspapers of local circulation, one each in Cagayan de Oro, Davao and General Santos city.\nThe title of the Act and its provisions defining the acts of terrorism that are punished shall be aired everyday at primetime for seven days, morning, noon and night over three national television and radio networks; three radio and television networks, one each in Cebu, Tacloban and lloilo; and in five radio and television networks, one each in Lanao del Sur, Cagayan de Oro, Davao City, Cotabato City and Zamboanga City. The publication in the newspapers of local circulation and the announcements over local radio and television networks shall be done in the dominant language of the community. After the publication required above shall have been done, the Act shall take effect two months after the elections are held in May 2007. Thereafter, the provisions of this Act shall be automatically suspended one month before and two months as after the holding of any election."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Human Security Act of 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

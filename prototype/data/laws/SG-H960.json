@@ -1,7 +1,7 @@
 {
  "id": "SG-H960",
  "title": {
-  "zh": null,
+  "zh": "跨境铁路法 2018",
   "en": "Cross-Border Railways Act 2018",
   "orig": null
  },
@@ -1268,5 +1268,13 @@
     "en": "78. The Land Transport Authority of Singapore Act (Cap. 158A, 1996 Revised Edition) is amended —\n(a)[Omitted as having had effect]\n(b)[Omitted as having had effect]\n(c)by inserting, immediately after paragraph (l) of section 6(1), the following paragraph:\n“(la)to approve and regulate the operation of the railway in accordance with this Act and the Cross‑Border Railways Act 2018;”.\n[38/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Cross-Border Railways Act 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

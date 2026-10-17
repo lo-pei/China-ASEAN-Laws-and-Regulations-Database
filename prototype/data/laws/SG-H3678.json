@@ -1,7 +1,7 @@
 {
  "id": "SG-H3678",
  "title": {
-  "zh": null,
+  "zh": "国有土地法 1920",
   "en": "State Lands Act 1920",
   "orig": null
  },
@@ -502,5 +502,13 @@
     "en": "29.—(1) Every owner or occupier of land abutting on State land must define and keep defined the boundary between the land so owned or occupied and the adjoining State land by some wall, bank, drains, fence, road or path, or other sufficient means so as to show the whole extent of the boundary.\n[9/2009]\n(2) In default of the owner or occupier so doing, the Collector may call upon the owner or occupier by a written notice duly served as prescribed to define or renew the whole or any part of the boundary in the manner aforesaid.\n(3) If the defining or renewal of the boundary is not commenced within 30 days from the date the notice is served and diligently proceeded with, the Collector may cause the boundary to be defined or renewed and recover twice the amount of the cost necessarily incurred in defining or renewing the boundary as if the cost were an arrear of rent due to the State in respect of the land.\n[20"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "State Lands Act 1920",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

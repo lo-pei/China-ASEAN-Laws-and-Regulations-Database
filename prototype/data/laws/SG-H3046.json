@@ -1,7 +1,7 @@
 {
  "id": "SG-H3046",
  "title": {
-  "zh": null,
+  "zh": "贷款（国际银行）法 1958",
   "en": "Loans (International Banks) Act 1958",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "12.—(1) Subject to the provisions of the Constitution but notwithstanding anything in any other existing law, any agreement concluded with the Bank in respect of any borrowing authorised by section 3(1) or 5(1) and any bond, promissory note or other instrument issued pursuant to any such agreement and any guarantee or undertaking given in respect of any such agreement, bond, promissory note or instrument by the Government or a statutory authority shall be valid and enforceable and have full force and effect in Singapore in accordance with their respective terms.\n(2) Without prejudice to the generality of subsection (1) —\n(a)the Minister may provide by order published in the Gazette that any tax or duty payable under the Income Tax Act 1947 or the Stamp Duties Act 1929 respectively shall be remitted where such remission is necessary to give full and complete effect to any such agreement, bond, promissory note, instrument or guarantee;\n(b)nothing in the provisions of the Exchange Control Act 1953 shall apply to any transaction required to effect payment in any currency of any sum in accordance with the terms of any such agreement, instrument, bond or guarantee in any currency.\n(3) Neither the Government nor any agency thereof nor any statutory authority nor any central bank for Singapore which may at any time be established shall, except as is otherwise agreed between the Minister and the Bank, create any lien on any of its assets as security for any external debt unless it is expressly provided that the lien will ipso facto equally and rateably secure the payment of the principal and interest and other charges on any loan made by or any bonds, promissory notes or instruments issued pursuant to any loan made by the Bank to the Government or to a statutory authority.\n(4) In subsection (3) —\n“external debt” means any debt payable in any medium other than currency which at the time in question is legal tender for the payment of private and public debt in Singapore whether the debt is payable absolutely or at the option of the creditor in the other medium;\n“lien” includes mortgages, pledges, charges, privileges and priorities of any kind."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Loans (International Banks) Act 1958",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

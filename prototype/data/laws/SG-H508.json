@@ -1,7 +1,7 @@
 {
  "id": "SG-H508",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（豁免第五部分保险下的利益保障）命令 2007",
   "en": "Central Provident Fund (Exemption for Protection of Benefits under Part V Assurance) Order 2007",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Section 24(2) of the Act and regulation 6 of the Central Provident Fund (Investment Schemes) Regulations 2000 do not apply to a member, in respect of any Part V Assurance held by him or her which has an automatic premium loan feature, only to the extent that the issuer of the Part V Assurance may advance and set‑off (under the automatic premium loan feature), against any cash value of the Part V Assurance, an amount for the payment of —\n(a)any premium of the Part V Assurance which is in arrears after any grace period, so as to protect the benefits under the Part V Assurance; and\n(b)any interest payable for the advance."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Exemption for Protection of Benefits under Part V Assurance) Order 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

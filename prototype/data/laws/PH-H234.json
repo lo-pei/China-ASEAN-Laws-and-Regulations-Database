@@ -1,7 +1,7 @@
 {
  "id": "PH-H234",
  "title": {
-  "zh": null,
+  "zh": "界定菲律宾武装部队人员薪级待遇并为其他目的法案",
   "en": "An Act to define the Pay Status of Personnel in the Armed Forces of the Philippines and for other purposes",
   "orig": "An Act to define the Pay Status of Personnel in the Armed Forces of the Philippines and for other purposes"
  },
@@ -349,5 +349,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to define the Pay Status of Personnel in the Armed Forces of the Philippines and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

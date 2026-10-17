@@ -1,7 +1,7 @@
 {
  "id": "PH-H5656",
  "title": {
-  "zh": null,
+  "zh": "将菲律宾师范学院改设为名为菲律宾师范大学的州立大学的法案",
   "en": "An Act Converting the Philippine Normal College into a State University to be known as the Philippine Normal University",
   "orig": "An Act Converting the Philippine Normal College into a State University to be known as the Philippine Normal University"
  },
@@ -90,5 +90,13 @@
     "en": "The governing body of the University shall be the Board of Regents, hereinafter referred to as the Board, which shall be composed of the following:\nSecretary of Education, Culture and Sports, Chairman"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Philippine Normal College into a State University to be known as the Philippine Normal University",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

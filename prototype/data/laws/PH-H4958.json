@@ -1,7 +1,7 @@
 {
  "id": "PH-H4958",
  "title": {
-  "zh": null,
+  "zh": "进一步修订经修正的第 2260 号共和国法第 9 条与第 23 条（关于文官考试资格允许的最低与最高薪金）",
   "en": "An Act Further Amending Section Nine and Section Twenty-Three of Republic Act Numbered Twenty-Two Hundred Sixty, as Amended (Re Minimum and Maximum Salaries Allowed for Civil Service Eligibilities).",
   "orig": "An Act Further Amending Section Nine and Section Twenty-Three of Republic Act Numbered Twenty-Two Hundred Sixty, as Amended (Re Minimum and Maximum Salaries Allowed for Civil Service Eligibilities)."
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 17, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amending Section Nine and Section Twenty-Three of Republic Act Numbered Twenty-Two Hundred Sixty, as Amended (Re Minimum and Maximum Salaries Allowed for Civil Service Eligibilities).",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

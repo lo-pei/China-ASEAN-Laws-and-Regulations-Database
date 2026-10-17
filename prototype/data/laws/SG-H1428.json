@@ -1,7 +1,7 @@
 {
  "id": "SG-H1428",
  "title": {
-  "zh": null,
+  "zh": "证据（电脑输出）条例 1996",
   "en": "Evidence (Computer Output) Regulations 1996",
   "orig": null
  },
@@ -261,5 +261,13 @@
     "en": "THIRD SCHEDULE\nRegulation 6\nFor every application for appointment of a certifying authority and for every application for re‑appointment\n$300."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Evidence (Computer Output) Regulations 1996",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

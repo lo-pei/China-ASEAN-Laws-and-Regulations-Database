@@ -1,7 +1,7 @@
 {
  "id": "BN-S-44-2020-WORKPLACE-SAFETY-AND-HEALTH-AMENDMENT-ORDER-2020",
  "title": {
-  "zh": null,
+  "zh": "工作场所安全与卫生修正命令 2020",
   "en": "WORKPLACE SAFETY AND HEALTH AMENDMENT ORDER 2020",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "30th. NOVEMBER, 2020\n\nORDER,\n\nDARUSSALAM {AMENDMENT) SECTIONS 83{3)) Article\n\nBRUNEI OF under HEALTH 44/2009\n\nARRANGEMENT OF made\n\nCONSTITUTION AND commencement section 4 of S {Order\n\nSAFETY\n\nWORKPLACE of and Amendment Citation S 44 Section No. 1. 2. 2535 of makes (Amendment) in the 30th. Brunei Constitution amended, substituting the hereby Begawan, 2020 2017. to 7(1);\". corresponding Health Order, 2009, is Plus Sdn. Bhd., Bandar Seri Begawan 883510, ORDER, the Di-Pertuan April by Seri section DARUSSALAM of 1st and and Bandar Dl·PERTUAN, (AMENDMENT) Article 83(3) on ':Authority·· 83(3)1 Yang Safety under commenced Hijriah GAZETTE Health DARUSSALAM. Negara Brunei Darussalam. !man, (Order made under Article and Workplace appointed BRUNEI Rabiulakhir, 1442 MAJESTY by Sultan and of Nurul YANG\n\nGOVERNMENT HEALTH conferred have definition Safety Authority AND OF the !slana HIS BRUNEI the to CONSTITUTION AND therefor-SULTAN Majesty as deemed S 44/2009 Workplace SAFETY power cited the Our Print the of THE deleting at BRUNEI DARUSSALAM His commencement be be definition means day Dicetak oteh the of 2020 WORKPLACE may shall section 4 the Darussalam, -Order 14th. exercise of by November, Order and of '\":Authority\" Section 4 (1). new this following Order, 2020 of Darussalam. and Amendment subsection Made This following In Brunei Citation of the 2. day"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "WORKPLACE SAFETY AND HEALTH AMENDMENT ORDER 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

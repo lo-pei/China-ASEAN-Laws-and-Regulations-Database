@@ -1,7 +1,7 @@
 {
  "id": "SG-H2206",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展贷款利息及其他付款豁免）（第 3 号）公告 2015",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 3) Notification 2015",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Interest paid or payable by CV Shipping Pte. Ltd. to PDV Marina S.A. on the loan amount is exempt from tax.\n(2) The exemption under sub‑paragraph (1) —\n(a)is subject to the terms and conditions specified in the letters of approval dated 12 September 2011 and 27 August 2013 issued by the Ministry of Finance and addressed to CV Shipping Pte. Ltd.;\n(b)does not apply to any interest payable after the earlier of the following:\n(i)the date on which all outstanding principal and interest under the Shareholders’ Loan Agreement are fully repaid;\n(ii)the date of termination of the Shareholders’ Loan Agreement; and\n(c)where any particular vessel is disposed of, does not apply to any interest payable after the date of the disposal on the part of the loan amount corresponding to the amount lent by CV Shipping Pte. Ltd. to the relevant wholly‑owned subsidiary in the definition of “Shareholders’ Loan Agreement” in paragraph 2, for the purpose of financing the construction of that vessel."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 3) Notification 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

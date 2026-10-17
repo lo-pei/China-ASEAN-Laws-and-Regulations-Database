@@ -1,7 +1,7 @@
 {
  "id": "SG-H2070",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 4 号）命令 2018",
   "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Income comprising dividends of US$3,800,000 received in Singapore by Lodgis Hospitality Holdings Pte. Ltd. (a company incorporated in Singapore) on 12 September 2017 from Madrid Holdings (BVI) Limited and Prime Value Asia Limited (both companies incorporated in the British Virgin Islands), is exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the terms and conditions specified in paragraphs 3 and 4 of the letter of approval dated 25 July 2018 addressed to Deloitte & Touche LLP, the tax agent of Lodgis Hospitality Holdings Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

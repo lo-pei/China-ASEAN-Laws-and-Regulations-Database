@@ -1,7 +1,7 @@
 {
  "id": "PH-H9729",
  "title": {
-  "zh": null,
+  "zh": "将黎刹省泰泰市镇山顶黎刹菲律宾国家警察（PNP）指挥部更名为Licerio Geronimo将军营地的法案",
   "en": "An Act Renaming the HilLTOp Rizal Philippine National Police (PNP) Command in the Municipality of Taytay, Province of Rizal as Camp General Licerio Geronimo",
   "orig": "An Act Renaming the HilLTOp Rizal Philippine National Police (PNP) Command in the Municipality of Taytay, Province of Rizal as Camp General Licerio Geronimo"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the HilLTOp Rizal Philippine National Police (PNP) Command in the Municipality of Taytay, Province of Rizal as Camp General Licerio Geronimo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2663",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 13 号）命令 2023",
   "en": "Infrastructure Protection (Protected Places) (No. 13) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nHead,\nSingapore Girls’ Home\nSINGAPORE GIRLS’ HOME\nAll that area comprised in part of Lot 06152X in Mukim No. 23 occupied by “SINGAPORE GIRLS’ HOME” containing an area of about 18,999.7 square metres and bounded approximately as follows:\nCommencing at the north‑easternmost corner of “SINGAPORE GIRLS’ HOME” at a point 36,635.352 metres North and 34,518.210 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n36,635.352\n34,518.210\n36,605.915\n34,370.396\n36,599.386\n34,373.403\n36,591.491\n34,376.959\n36,585.199\n34,379.793\n36,570.824\n34,385.745\n36,556.239\n34,391.163\n36,541.463\n34,396.031\n36,526.517\n34,400.350\n36,511.421\n34,404.113\n36,478.629\n34,411.569\n36,471.689\n34,420.770\n36,489.872\n34,498.810\n36,491.668\n34,504.827\n36,494.220\n34,510.562\n36,497.484\n34,515.928\n36,501.411\n34,520.828\n36,505.930\n34,525.188\n36,510.973\n34,528.927\n36,516.454\n34,531.991\n36,522.281\n34,534.330\n36,528.361\n34,535.900\n36,534.593\n34,536.679\n36,540.872\n34,536.651\n36,547.096\n34,535.818\nto the point of commencement.\nThe boundaries of “SINGAPORE GIRLS’ HOME” are more particularly delineated in the As‑Built Survey Plan based on SVY21 coordinates set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 13) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

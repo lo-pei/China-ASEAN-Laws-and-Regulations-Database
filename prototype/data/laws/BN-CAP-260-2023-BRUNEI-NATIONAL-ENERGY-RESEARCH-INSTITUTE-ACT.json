@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-260-2023-BRUNEI-NATIONAL-ENERGY-RESEARCH-INSTITUTE-ACT",
  "title": {
-  "zh": null,
+  "zh": "文莱国家能源研究所法",
   "en": "BRUNEI NATIONAL ENERGY RESEARCH INSTITUTE ACT",
   "orig": null
  },
@@ -340,5 +340,13 @@
     "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make rules for carrying out the purposes and provisions of\n\n(2) Without prejudice to the generality of subsection (1), the Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make rules for or with respect to all or any of the following matters —\n\n(a) the manner of appointment, conduct and discipline and the terms and conditions of service of the employees of the Institute;\n\n(b) the establishment of funds for the payment of gratuities and other benefits to the employees of the Institute; and\n\n(c) the fees to be charged in respect of anything done or any services rendered by the Institute under or by virtue of this Act or any other written law. (section 5(3))\n\nCONSTITUTION AND PROCEEDINGS OF BOARD Appointment of Chairman and members"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI NATIONAL ENERGY RESEARCH INSTITUTE ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

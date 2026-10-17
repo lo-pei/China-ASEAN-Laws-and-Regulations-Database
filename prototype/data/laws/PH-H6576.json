@@ -1,7 +1,7 @@
 {
  "id": "PH-H6576",
  "title": {
-  "zh": null,
+  "zh": "授予 Partido 广播公司在 Bicol 大区建设、安装、设立、运营和维护广播与有线广播电视站的特许经营权法案",
   "en": "An Act Granting the Partido Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Broadcast and Cable Radio and Television Stations in the Bicol Region",
   "orig": "An Act Granting the Partido Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Broadcast and Cable Radio and Television Stations in the Bicol Region"
  },
@@ -200,5 +200,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Partido Broadcasting Corporation a Franchise to Construct, Install, Establish, Operate and Maintain Broadcast and Cable Radio and Television Stations in the Bicol Region",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

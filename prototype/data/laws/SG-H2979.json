@@ -1,7 +1,7 @@
 {
  "id": "SG-H2979",
  "title": {
-  "zh": null,
+  "zh": "零售场所租赁协议法 2023",
   "en": "Lease Agreements for Retail Premises Act 2023",
   "orig": null
  },
@@ -618,5 +618,13 @@
     "en": "SECOND SCHEDULE\nSections 2(1) and 31\nRetail premises\n1. Premises are retail premises if they are used primarily for any of the following:\n(a)the sale of goods by way of retail;\n(b)the supply of services.\n2. Despite paragraph 1, the premises mentioned in paragraph 1(b) are not retail premises if they are used primarily for the purpose of conducting administrative work in connection with the supply of services."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Lease Agreements for Retail Premises Act 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

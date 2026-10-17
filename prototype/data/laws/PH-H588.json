@@ -1,7 +1,7 @@
 {
  "id": "PH-H588",
  "title": {
-  "zh": null,
+  "zh": "修订《修订选举法典》若干条的法案",
   "en": "An Act to Amend Certain Sections of the Revised Election Code",
   "orig": "An Act to Amend Certain Sections of the Revised Election Code"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, March 28, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of the Revised Election Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

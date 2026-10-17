@@ -1,7 +1,7 @@
 {
  "id": "SG-H3386",
  "title": {
-  "zh": null,
+  "zh": "在线安全（救济与问责）（法院程序损害赔偿）条例 2026",
   "en": "Online Safety (Relief and Accountability) (Damages in Court Proceedings) Regulations 2026",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) For the purposes of section 98(4)(a), the prescribed maximum limit of enhanced damages that may be awarded under section 98(1) or (2) for a claim by the victim is a sum equal to 2 times the total amount of the damages (including general, special, punitive and aggravated damages) that is awarded by the court under section 96(1) to the victim for the claim.\n(2) To avoid doubt, paragraph (1) does not prevent the court from awarding enhanced damages that are less than the maximum limit mentioned in that paragraph."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Online Safety (Relief and Accountability) (Damages in Court Proceedings) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

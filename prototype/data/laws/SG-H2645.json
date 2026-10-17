@@ -1,7 +1,7 @@
 {
  "id": "SG-H2645",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护区）命令 2021",
   "en": "Infrastructure Protection (Protected Areas) Order 2021",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Area\n1.Commander, Air Defence Group, Air Defence and Operation Command\nPULAU SEMAKAU SITE A\nAll that area comprised in Lot 827L PT in Mukim No. 34 occupied by “PULAU SEMAKAU SITE A” containing an area of about 1,243.4 square metres and bounded approximately as follows:\nCommencing at a point 21104.283 metres North and 20063.663 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n21104.283\n20063.663\n21103.141\n20061.781\n21101.472\n20060.346\n21099.439\n20059.500\n21097.244\n20059.328\n21095.105\n20059.845\n21067.261\n20071.194\n21073.904\n20087.493\n21052.606\n20096.174\n21036.904\n20057.651\n21058.202\n20048.970\n21064.619\n20064.712\n21094.211\n20052.289\n21095.667\n20050.606\n21096.521\n20048.553\n21096.688\n20046.334\n21096.150\n20044.176\nto the point of commencement.\nThe boundaries of “PULAU SEMAKAU SITE A” are more particularly delineated in the Survey Plan No. 5701/GAZ filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below.\nFirst column\nSecond column\nThe Authority\nProtected Area\n2.Commander, Air Defence Group, Air Defence and Operation Command\nPULAU SEMAKAU SITE B\nAll that area comprised in foreshore within land parcel ID 3022506 situated in Mukim No. 34, occupied by “PULAU SEMAKAU SITE B” containing an area of about 665.6 square metres and bounded approximately as follows:\nCommencing at a point 21352.357 metres North and 21626.228 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n21352.357\n21626.228\n21352.357\n21667.828\n21336.357\n21667.828\n21336.357\n21626.228\nto the point of commencement.\nThe boundaries of “PULAU SEMAKAU SITE B” are more particularly delineated in the Survey Plan No. 5702/GAZ filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below.\nFirst column\nSecond column\nThe Authority\nProtected Area\n3.Commander, Air Defence Group, Air Defence and Operation Command\nPULAU SEMAKAU SITE C\nAll that area comprised in foreshore within land parcel ID 3022504 situated in Mukim No. 34, occupied by “PULAU SEMAKAU SITE C” containing an area of about 4.0 square metres and bounded approximately as follows:\nCommencing at a point 21432.204 metres North and 22014.051 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n21432.204\n22014.051\n21432.204\n22016.051\n21430.204\n22016.051\n21430.204\n22014.051\nto the point of commencement.\nThe boundaries of “PULAU SEMAKAU SITE C” are more particularly delineated in the Survey Plan No. 5702/GAZ filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below item 2.\n4.Commander, Air Defence Group, Air Defence and Operation Command\nPULAU SEMAKAU SITE D\nAll that area comprised in foreshore within land parcel ID 3022505 situated in Mukim No. 34, occupied by “PULAU SEMAKAU SITE D” containing an area of about 4.0 square metres and bounded approximately as follows:\nCommencing at a point 21265.695 metres North and 20687.305 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n21265.695\n20687.305\n21265.695\n20689.305\n21263.695\n20689.305\n21263.695\n20687.305\nto the point of commencement.\nThe boundaries of “PULAU SEMAKAU SITE D” are more particularly delineated in the Survey Plan No. 5702/GAZ filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below item 2."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Areas) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

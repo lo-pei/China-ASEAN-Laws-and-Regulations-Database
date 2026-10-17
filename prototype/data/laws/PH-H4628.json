@@ -1,7 +1,7 @@
 {
  "id": "PH-H4628",
  "title": {
-  "zh": null,
+  "zh": "要求速记员向贫困与低收入诉讼当事人免费提供笔录副本并规定违规处罚的法案",
   "en": "An Act Requiring Stenographers to Give Free Transcript of Notes to Indigent and Low Income Litigants and Providing a Penalty for the Violation Thereof.",
   "orig": "An Act Requiring Stenographers to Give Free Transcript of Notes to Indigent and Low Income Litigants and Providing a Penalty for the Violation Thereof."
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring Stenographers to Give Free Transcript of Notes to Indigent and Low Income Litigants and Providing a Penalty for the Violation Thereof.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

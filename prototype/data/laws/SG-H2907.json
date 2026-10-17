@@ -1,7 +1,7 @@
 {
  "id": "SG-H2907",
  "title": {
-  "zh": null,
+  "zh": "无遗嘱继承法 1967",
   "en": "Intestate Succession Act 1967",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "10. Where any person dies leaving a will beneficially disposing of part of his property, the provisions of this Act shall have effect as respects the part of his property not so disposed of, subject to the provisions contained in the will:\nProvided that the personal representative shall, subject to his rights and powers for the purposes of administration, be a trustee for the persons entitled under this Act in respect of the part of the estate not expressly disposed of unless it appears by the will that the personal representative is entitled to take that part beneficially."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Intestate Succession Act 1967",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

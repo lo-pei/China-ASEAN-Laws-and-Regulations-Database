@@ -1,7 +1,7 @@
 {
  "id": "SG-H3580",
  "title": {
-  "zh": null,
+  "zh": "防止腐败法 1960",
   "en": "Prevention of Corruption Act 1960",
   "orig": null
  },
@@ -742,5 +742,13 @@
     "en": "37.—(1) The provisions of this Act have effect, in relation to citizens of Singapore, outside as well as within Singapore; and where an offence under this Act is committed by a citizen of Singapore in any place outside Singapore, he may be dealt with in respect of that offence as if it had been committed within Singapore.\n(2) Any proceedings against any person under this section which would be a bar to subsequent proceedings against that person for the same offence, if the offence had been committed in Singapore, shall be a bar to further proceedings against him, under any written law for the time being in force relating to the extradition of persons, in respect of the same offence outside Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Prevention of Corruption Act 1960",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

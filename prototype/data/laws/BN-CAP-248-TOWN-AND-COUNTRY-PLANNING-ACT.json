@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-248-TOWN-AND-COUNTRY-PLANNING-ACT",
  "title": {
-  "zh": null,
+  "zh": "城乡规划法",
   "en": "TOWN AND COUNTRY PLANNING ACT",
   "orig": null
  },
@@ -987,5 +987,13 @@
     "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make such regulations as are necessary or expedient for giving effect to and carrying out the provisions of this Act, including the prescription of fees or charges of any other thing required to be or which may be prescribed under this Act, and for the due administration thereof.\n\n(2) Without prejudice to the generality of subsection (1), the Minister may by such regulations provide for —\n\n(a) the form and manner in which applications for planning permission, subdivision or consolidation permission, or conservation permission shall be made;\n\n(b) the procedure of public participation and inquiries;\n\n(c) the preservation and maintenance of buildings;\n\n(d) use of classes;\n\n(e) the reservation of land for public purposes;\n\n(f) the control of advertisements;\n\n(g) the manner in which appeals may be made and determined under this Act and the information to be supplied by the Planning Authority in connection therewith. (section 23(1))\n\nDEVELOPMENT CONTROL AREAS Areas within Brunei Darussalam excluding any area declared to be a Municipal Board area under section 3(1) of the Municipal Boards Act (Chapter 57)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TOWN AND COUNTRY PLANNING ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6178",
  "title": {
-  "zh": null,
+  "zh": "将达沃市布纳万区圣伊西德罗描笼涯利卡南小学的名称变更为Pablo Piatos, Sr.小学的法案",
   "en": "An Act Changing the Name of the Licanan Elementary School in Barangay San Isidro, Bunawan District, Davao City, to Pablo Piatos, Sr. Elementary School",
   "orig": "An Act Changing the Name of the Licanan Elementary School in Barangay San Isidro, Bunawan District, Davao City, to Pablo Piatos, Sr. Elementary School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Licanan Elementary School in Barangay San Isidro, Bunawan District, Davao City, to Pablo Piatos, Sr. Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

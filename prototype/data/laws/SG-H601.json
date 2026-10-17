@@ -1,7 +1,7 @@
 {
  "id": "SG-H601",
  "title": {
-  "zh": null,
+  "zh": "儿童与青少年条例 2020",
   "en": "Children and Young Persons Regulations 2020",
   "orig": null
  },
@@ -294,5 +294,13 @@
     "en": "16.—(1) For the purposes of section 8(3)(b) of the Act, a prescribed person to whom the Director‑General or a protector may communicate any information about a child or young person (X) is a person who assists an approved welfare officer in one or more of the matters mentioned in paragraph (3) relating to X.\n(2) For the purposes of section 87(2)(d) of the Act, a prescribed person to whom the Director‑General, a protector or a police officer not below the rank of sergeant may communicate any information about a child or young person (X) is a person who assists an approved welfare officer in one or more of the matters mentioned in paragraph (3) relating to X.\n(3) For the purposes of paragraphs (1) and (2), the matters are as follows:\n(a)investigating or assessing the welfare or state of development of X, including —\n(i)whether a relevant offence has been, is being or will be committed against X;\n(ii)whether X is in need of care or protection; and\n(iii)the nature of care or protection that X needs;\n(b)supervising any of the following persons during the conduct of an investigation or assessment to determine the welfare or state of development of X:\n(i)X;\n(ii)a parent, guardian or sibling of X;\n(iii)a family member of X;\n(iv)a person living in the same household as X;\n(c)where X is the subject of a voluntary care agreement or an order made under section 49(1), 49B(2), 49C (read with section 49B) or section 50(4) of the Act —\n(i)determining the suitability of the fit person to whom, or the place of safety or place of temporary care and protection to which, X is committed;\n(ii)determining the standard of care, protection and supervision that X or any other child or young person who is a member of X’s household, is receiving;\n(iii)formulating a proper care plan to cater to X’s safety and wellbeing; and\n(iv)determining whether any other child or young person who is a member of X’s household is in need of care or protection;\n(d)determining the suitability of returning the care or custody of X to X’s parent or guardian;\n(e)where upon the termination of a voluntary care agreement or an order made under section 49(1), 49B(2), 49C (read with section 49B) or section 50(4) of the Act for X, X is returned to the care and custody of X’s parent or guardian, determining the welfare and safety of X or any other child or young person who is a member of X’s household."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Children and Young Persons Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

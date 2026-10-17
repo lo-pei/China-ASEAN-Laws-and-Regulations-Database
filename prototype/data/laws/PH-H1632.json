@@ -1,7 +1,7 @@
 {
  "id": "PH-H1632",
  "title": {
-  "zh": null,
+  "zh": "规定将政府所有、位于黎刹省 Montalban 市镇的土地出售给其真实占有人并为其他目的法案",
   "en": "An Act to Provide for the Sale of Lands Owned by the Government Located at the Municipality of Montalban, Province of Rizal, to Bona Fide Occupants Thereof, and for Other Purposes",
   "orig": "An Act to Provide for the Sale of Lands Owned by the Government Located at the Municipality of Montalban, Province of Rizal, to Bona Fide Occupants Thereof, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Sale of Lands Owned by the Government Located at the Municipality of Montalban, Province of Rizal, to Bona Fide Occupants Thereof, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

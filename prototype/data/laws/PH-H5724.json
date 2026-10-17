@@ -1,7 +1,7 @@
 {
  "id": "PH-H5724",
  "title": {
-  "zh": null,
+  "zh": "增加马斯巴特省马斯巴特首府镇马斯巴特省立医院床位由100张增至125张，建造附属楼并设隔离病房，为此拨款并为其他目的",
   "en": "An Act Increasing the Bed Capacity of the Masbate Provincial Hospital in the Capital Town of Masbate, Province of Masbate, From One Hundred (100) to One Hundred Twenty-five (125) Beds, Constructing An Annex Building to House the Additional Bed Capacity and Providing Isolation Wards for Patients Afflicted With Highly Contagious, Communicable and Transferable Diseases, Appropriating Funds Therefor, and for Other Purposes",
   "orig": "An Act Increasing the Bed Capacity of the Masbate Provincial Hospital in the Capital Town of Masbate, Province of Masbate, From One Hundred (100) to One Hundred Twenty-five (125) Beds, Constructing An Annex Building to House the Additional Bed Capacity and Providing Isolation Wards for Patients Afflicted With Highly Contagious, Communicable and Transferable Diseases, Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Masbate Provincial Hospital in the Capital Town of Masbate, Province of Masbate, From One Hundred (100) to One Hundred Twenty-five (125) Beds, Constructing An Annex Building to House the Additional Bed Capacity and Providing Isolation Wards for Patients Afflicted With Highly Contagious, Communicable and Transferable Diseases, Appropriating Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1848",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）命令 2022",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2022",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Hougang Avenue 6, Hougang Avenue 8 and Hougang Avenue 10, comprised in Lot number 06305V in Mukim 22 and on which Apartment Blocks 417, 418, 419, 420, 421, 429, 430, 431, 432, 433 and 434 are erected, and in Lot number 09452P in Mukim 22 and on which Apartment Blocks 422, 423, 424, 425, 426, 427 and 428 are erected, and which is more particularly edged in Plan 1.\nPLAN 1\nHOUGANG AVENUE 6 / HOUGANG AVENUE 8 /\nHOUGANG AVENUE 10\n2. All that part of the housing estate of the Board bounded by Pasir Ris Drive 6, Pasir Ris Drive 3 and Pasir Ris Street 41, comprised in Lot number 01743K in Mukim 31 and on which Apartment Blocks 467, 468, 469, 470 and 471 are erected, and in Lot number 05305K in Mukim 31 and on which Apartment Blocks 472, 473, 474, 475, 476 and 477 are erected, and which is more particularly edged in Plan 2.\nPLAN 2\nPASIR RIS DRIVE 6\n3. All that part of the housing estate of the Board bounded by Yishun Ring Road, Yishun Avenue 6 and Yishun Avenue 11, comprised in Lot number 01325X in Mukim 19 and on which Apartment Blocks 401, 402, 403, 404, 405, 406 and 409 are erected, and in Lot number 03944C in Mukim 19 and on which Apartment Blocks 410, 411, 412, 413, 414, 415, 416, 417, 418 and 419 are erected, and which is more particularly edged in Plan 3.\nPLAN 3\nYISHUN RING ROAD / YISHUN AVENUE 6 / YISHUN AVENUE 11"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

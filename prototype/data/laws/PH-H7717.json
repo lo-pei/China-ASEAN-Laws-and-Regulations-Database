@@ -1,7 +1,7 @@
 {
  "id": "PH-H7717",
  "title": {
-  "zh": null,
+  "zh": "将奎松省邦多克半岛帕德雷布尔戈斯-阿格当岸-乌尼桑-皮托戈-马卡莱隆-卢纳将军-卡塔纳万-穆拉奈-圣弗朗西斯科-圣安德烈斯-圣纳西索-布埃纳维斯塔国道命名为米格尔苏亚雷斯公路的法案",
   "en": "An Act Renaming the Padre Burgos - Agdangan - Unisan - Pitogo - Macalelon - General Luna - Catanauan - Mulanay - San Francisco - San Andres - San Narciso - Buenavista National Road in Bondoc Peninsula in the Province of Quezon as the Miguel Suarez Highway",
   "orig": "An Act Renaming the Padre Burgos - Agdangan - Unisan - Pitogo - Macalelon - General Luna - Catanauan - Mulanay - San Francisco - San Andres - San Narciso - Buenavista National Road in Bondoc Peninsula in the Province of Quezon as the Miguel Suarez Highway"
  },
@@ -60,5 +60,13 @@
     "en": "The Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Padre Burgos - Agdangan - Unisan - Pitogo - Macalelon - General Luna - Catanauan - Mulanay - San Francisco - San Andres - San Narciso - Buenavista National Road in Bondoc Peninsula in the Province of Quezon as the Miguel Suarez Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

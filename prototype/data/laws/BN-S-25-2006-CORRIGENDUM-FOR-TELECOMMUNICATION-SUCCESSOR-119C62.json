@@ -1,7 +1,7 @@
 {
  "id": "BN-S-25-2006-CORRIGENDUM-FOR-TELECOMMUNICATION-SUCCESSOR-119C62",
  "title": {
-  "zh": null,
+  "zh": "电信继承公司命令勘误 2001",
   "en": "CORRIGENDUM FOR TELECOMMUNICATION SUCCESSOR COMPANY ORDER 2001",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "No. S 25\n\nCORRIGENDUM\n\nTELECOMMUNICATION SUCCESSOR COMPANY ORDER, 2001 (S 37/01) In section 3!1) of the English text of the Telecommunication Successor Company Order, 2001 !S 37/01) published in No. 20 of Part II of the Government Gazette dated 30th. May, 2001 at page 1129, the word \"company\" should appear immediately before the word \"nominated\" in the sixth line of paragraph fa)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CORRIGENDUM FOR TELECOMMUNICATION SUCCESSOR COMPANY ORDER 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

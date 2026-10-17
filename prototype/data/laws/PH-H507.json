@@ -1,7 +1,7 @@
 {
  "id": "PH-H507",
  "title": {
-  "zh": null,
+  "zh": "将现有菲律宾师范学校改设为菲律宾师范学院，授予初等教育理学学士与教育文学硕士学位，规定董事会及其职责、提供专业与技术教学并为其他目的法案",
   "en": "An Act for the Purpose of Converting the Present Philippine Normal School into the Philippine Normal College, Conferring the Degrees of Bachelor of Science in Elementary Education and Master of Arts in Education, Providing for a Board of Trustees, Defining the Board’s Responsibilities and Duties, Providing Professional and Technical Instruction, and for Other Purposes",
   "orig": "An Act for the Purpose of Converting the Present Philippine Normal School into the Philippine Normal College, Conferring the Degrees of Bachelor of Science in Elementary Education and Master of Arts in Education, Providing for a Board of Trustees, Defining the Board’s Responsibilities and Duties, Providing Professional and Technical Instruction, and for Other Purposes"
  },
@@ -191,5 +191,13 @@
     "en": "For carrying out the purposes and provinces of this Act, the sum of seven hundred fifty thousand pesos is hereby appropriated from any funds in the National Treasury not otherwise appropriated for the fiscal year 1949-1950.\nThe sum herein appropriated shall not be released except upon the certification of the Secretary of Finance and the Auditor General as to the availability of funds in excess of those necessary for the operation of the Government as provided in the annual General Appropriation Act for the fiscal year 1949-1950.\nSection 16 . This Act shall take effect on July 1, 1949.\nApproved: June 18, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act for the Purpose of Converting the Present Philippine Normal School into the Philippine Normal College, Conferring the Degrees of Bachelor of Science in Elementary Education and Master of Arts in Education, Providing for a Board of Trustees, Defining the Board’s Responsibilities and Duties, Providing Professional and Technical Instruction, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-48-2012-E-ANTI-TERRORISM-AMENDMENT-ORDER-2012",
  "title": {
-  "zh": null,
+  "zh": "反恐怖主义修正命令 2012",
   "en": "ANTI TERRORISM AMENDMENT ORDER 2012",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "the principal Order is amended{aj in the section heading, by adding \"or terrorist group\"; (bJ in subsection jl), by inserting \"or terrorist group\" immediately after in the second line. Made this 26th. day of Rejab, 1433 Hijriah corresponding to the 16th. day of June, 2012 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ANTI TERRORISM AMENDMENT ORDER 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

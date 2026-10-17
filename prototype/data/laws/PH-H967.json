@@ -1,7 +1,7 @@
 {
  "id": "PH-H967",
  "title": {
-  "zh": null,
+  "zh": "授权巴科洛德市举债或发行不超过六百万比索的债券，以资助该市海滨土地围填",
   "en": "An Act Authorizing the City of Bacolod to Contract an Indebtedness or to Issue Bonds in the Amount not Exceeding Six Million Pesos to Finance the Reclamation of Foreshore Lands in Said City",
   "orig": "An Act Authorizing the City of Bacolod to Contract an Indebtedness or to Issue Bonds in the Amount not Exceeding Six Million Pesos to Finance the Reclamation of Foreshore Lands in Said City"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the City of Bacolod to Contract an Indebtedness or to Issue Bonds in the Amount not Exceeding Six Million Pesos to Finance the Reclamation of Foreshore Lands in Said City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

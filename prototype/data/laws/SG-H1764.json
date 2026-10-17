@@ -1,7 +1,7 @@
 {
  "id": "SG-H1764",
  "title": {
-  "zh": null,
+  "zh": "挨户与街道募捐条例 1976",
   "en": "House to House and Street Collections Regulations 1976",
   "orig": null
  },
@@ -260,5 +260,13 @@
     "en": "FOURTH SCHEDULE\nRegulation 13\nHouse to House and Street\nCollections Act 1947\nHouse to House and Street\nCollections Regulations 1976\nSTATEMENT OF ACCOUNTS\n□ Collection of Money\n□ Collection of Properties sold or otherwise disposed of\n□ Collection of Property (other than money) given away or otherwise disposed of\nLicence No.\nPART I — PARTICULARS OF LICENSEE\nName\nNRIC/FIN* No.\nPassport No.*\nAddress\nContact No.\n(Pager/Mobile/Home/Office)\nPART II — PARTICULARS OF COLLECTION\nPeriod of Collection\nMode of Collection\nFrom\nTo\nCollection\nProceeds of Collection (amount to be entered in gross)\nDetails\nDollars\nCents\n(1)\nFor collection of money only\nTotal proceeds collected\n(2)\nFor collection of properties sold or otherwise disposed of\nAmount obtained during period of account by sales of properties collected\n(3)\nBreakdown of income from other sources of collection\n_______________________________________________________\n_______________________________________________________\n_______________________________________________________\n_______________________________________________________\n(4)\nTotal (1)+(2)+(3)\nExpenses and Application of Proceeds (amount to be entered in gross)\nDetails\nDollars\nCents\n(5)\nBreakdown of expenditure\n_______________________________________________________\n_______________________________________________________\n_______________________________________________________\n(6)\nNet proceeds (after deduction of expenses) distributed to the beneficiary/beneficiaries\nTotal (4)−(5)\nFor Collection of Property (Other Than Money) Given Away or Otherwise Disposed of\nAll properties collected in the collection of which particulars are given above have been given away/disposed of for charitable purposes in the following manner:\n(1) _____________________\n(2) _____________________\n(3) _____________________\n(4) _____________________\n(5) _____________________\n(6) _____________________\nCertification by Licensee\nI certify that to the best of my knowledge and belief the above is a true account of the expenses, proceeds and application of the proceeds of the collection to which it relates.\n_____________________________\n_____________________________\nDate\nSignature of Licensee\nCertification by Auditor\nI certify that I have obtained all the information and explanations required by me as an auditor and that the above is in my opinion a true account of the expenses, proceeds and application of the proceeds of the collection to which it relates.\n_____________________________\n_____________________________\nDate\nSignature of Auditor\nName\nAddress\n*Applicable to foreigners only."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "House to House and Street Collections Regulations 1976",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

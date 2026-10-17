@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-140-2016-NURSES-REGISTRATION-ACT",
  "title": {
-  "zh": null,
+  "zh": "护士注册法",
   "en": "NURSES REGISTRATION ACT",
   "orig": null
  },
@@ -223,5 +223,13 @@
     "en": "Fees _____________________________\n\nSUBSIDIARY LEGISLATION Regulations made under section 4\n\nNURSES REGISTRATION REGULATIONS Commencement: 1st March 2014"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NURSES REGISTRATION ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

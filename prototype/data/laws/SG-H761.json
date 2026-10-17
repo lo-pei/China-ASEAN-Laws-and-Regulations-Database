@@ -1,7 +1,7 @@
 {
  "id": "SG-H761",
  "title": {
-  "zh": null,
+  "zh": "社区纠纷解决（文书与物品的保留与处置）条例 2025",
   "en": "Community Disputes Resolution (Retention and Disposal of Instruments and Objects) Regulations 2025",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. When investigations involving an instrument or object seized or removed under section 13L(7) of the Act have been concluded, or at any other time that the Director‑General thinks appropriate, the instrument or object may be —\n(a)returned to the person from whom it was seized or the place from which it was removed; or\n(b)destroyed or otherwise disposed of in any manner that the Director‑General thinks fit."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Community Disputes Resolution (Retention and Disposal of Instruments and Objects) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

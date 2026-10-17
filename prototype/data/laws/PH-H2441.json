@@ -1,7 +1,7 @@
 {
  "id": "PH-H2441",
  "title": {
-  "zh": null,
+  "zh": "在劳工部设立名为妇女与未成年人局的机构的法案",
   "en": "An Act to Establish in the Department of Labor a Bureau to be Known as Women and Minors Bureau",
   "orig": "An Act to Establish in the Department of Labor a Bureau to be Known as Women and Minors Bureau"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish in the Department of Labor a Bureau to be Known as Women and Minors Bureau",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

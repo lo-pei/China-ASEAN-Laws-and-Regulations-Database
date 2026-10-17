@@ -1,7 +1,7 @@
 {
  "id": "BN-S-4-2026-E",
  "title": {
-  "zh": null,
+  "zh": "S-4 2026 年公告",
   "en": "S-4_2026-E",
   "orig": null
  },
@@ -79,5 +79,13 @@
     "en": "Schedule 4 to the principal Order is amended by inserting the following new item immediately after \"The Kingdom of Cambodia\"- \"45A. The Republic of Kosovo\". Made this 25th. day of Rejab, 1447 Hijriah corresponding to the 15th. day of January, 2026 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN, BRUNEI DARUSSALAM. Dicetak oleh Print Plus Sdn. Bhd., Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "S-4_2026-E",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

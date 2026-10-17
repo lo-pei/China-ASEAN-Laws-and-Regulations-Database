@@ -1,7 +1,7 @@
 {
  "id": "SG-H3462",
  "title": {
-  "zh": null,
+  "zh": "停车位（针对没收的申索）规则 2019",
   "en": "Parking Places (Claims Against Forfeiture) Rules 2019",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. The Authority may refuse to consider a claim that is incomplete or not made in accordance with these Rules."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Parking Places (Claims Against Forfeiture) Rules 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

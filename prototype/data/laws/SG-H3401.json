@@ -1,7 +1,7 @@
 {
  "id": "SG-H3401",
  "title": {
-  "zh": null,
+  "zh": "验光师与配镜师（注册与执业证书）条例",
   "en": "Optometrists and Opticians (Registration and Practising Certificates) Regulations",
   "orig": null
  },
@@ -484,5 +484,13 @@
     "en": "THIRD SCHEDULE\nRegulations 4(2)(f), 5, 16, 17, 18(2), 20(1), 22(2), 23(1), 24, 25(2) and 26\nFees\n1.For an application for registration as an optometrist or an optician (regulation 4(1))\n$50\n2.For registration as an optometrist or an optician, payable at the time of registering the person (regulation 5)\n$200\n3.For a certified copy of an entry in register (regulation 16)\n$50\n4.For a certified true copy of a certificate of registration (regulation 17)\n$50\n5.For registration of any additional qualification (regulation 18)\n$50\n6.For the restoration of a registration (regulation 20(1))\n$300\n7.For a duplicate certificate of registration (regulation 22(2))\n$50\n8.For an application (regulations 23(1) and 24(1)) —\n(a)for a practising certificate or renewal thereof —\n(i)by a registered optician who is not qualified to perform any refractive service under these Regulations;\n$130 per year\n(ii)by a registered optician;\n$170 per year\n(iii)by a registered optometrist;\n$180 per year\n(b)for a certified true copy of a practising certificate\n$50\n9.Late application fee for the renewal of a practising certificate (regulation 24(2)) —\n(a)where the application is made less than 30 days before the expiry of the practising certificate;\n$50\n(b)where the application is made after the expiry of the practising certificate\n$100\n10.For a duplicate practising certificate (regulation 25(2))\n$50\n11.For a certificate of good standing (regulation 26)\n$60.\n[S 78/2025 wef 01/02/2025]\n[G.N. Nos. S 90/2008; S 247/2009]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Optometrists and Opticians (Registration and Practising Certificates) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2419",
  "title": {
-  "zh": null,
+  "zh": "在拉乌尼翁省设立区域国立农业学校，名称为拉乌尼翁区域农业学校，并授权为此拨付所需经费的法案",
   "en": "An Act to Establish a Regional National Agricultural School in the Province of La Union to be Known as the La Union Regional Agricultural School, and to Authorize the Appropriation of Necessary Funds Therefor",
   "orig": "An Act to Establish a Regional National Agricultural School in the Province of La Union to be Known as the La Union Regional Agricultural School, and to Authorize the Appropriation of Necessary Funds Therefor"
  },
@@ -82,5 +82,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish a Regional National Agricultural School in the Province of La Union to be Known as the La Union Regional Agricultural School, and to Authorize the Appropriation of Necessary Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

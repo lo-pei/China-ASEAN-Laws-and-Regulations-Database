@@ -1,7 +1,7 @@
 {
  "id": "PH-H4332",
  "title": {
-  "zh": null,
+  "zh": "提高海岸与大地测量局正副局长职级，并为此修订第2057号共和国法第2条的法案",
   "en": "An Act Raising the Ranks of the Director and Assistant Director of the Bureau of Coast and Geodetic Survey, Amending for the Purpose Section Two of Republic Act Numbered Two Thousand Fifty-Seven",
   "orig": "An Act Raising the Ranks of the Director and Assistant Director of the Bureau of Coast and Geodetic Survey, Amending for the Purpose Section Two of Republic Act Numbered Two Thousand Fifty-Seven"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Raising the Ranks of the Director and Assistant Director of the Bureau of Coast and Geodetic Survey, Amending for the Purpose Section Two of Republic Act Numbered Two Thousand Fifty-Seven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

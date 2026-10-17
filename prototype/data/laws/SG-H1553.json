@@ -1,7 +1,7 @@
 {
  "id": "SG-H1553",
  "title": {
-  "zh": null,
+  "zh": "财务顾问法 2001",
   "en": "Financial Advisers Act 2001",
   "orig": null
  },
@@ -2284,5 +2284,13 @@
     "en": "THIRD SCHEDULE\nSections 5(1) and 75(2)\nSpecified provisions\n1. Section 20(5)\n2. Section 20(6)\n3. Section 22(4)\n4. Section 46(2)\n5. Section 130(2).\n[35/2012]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Financial Advisers Act 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

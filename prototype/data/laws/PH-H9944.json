@@ -1,7 +1,7 @@
 {
  "id": "PH-H9944",
  "title": {
-  "zh": null,
+  "zh": "将依第 8106 号共和国法授予 Caceres Broadcasting Corporation 在吕宋岛建设、运营和维护广播电视站的特许经营权再续展 25 年的法案",
   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Caceres Broadcasting Corporation Under Republic Act No. 8106, Entitled \"An Act Granting the Caceres Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations in the Island of Luzon and for Other Purposes\"",
   "orig": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Caceres Broadcasting Corporation Under Republic Act No. 8106, Entitled \"An Act Granting the Caceres Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations in the Island of Luzon and for Other Purposes\""
  },
@@ -250,5 +250,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Caceres Broadcasting Corporation Under Republic Act No. 8106, Entitled \"An Act Granting the Caceres Broadcasting Corporation a Franchise to Construct, Install, Operate and Maintain Radio and Television Broadcasting Stations in the Island of Luzon and for Other Purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

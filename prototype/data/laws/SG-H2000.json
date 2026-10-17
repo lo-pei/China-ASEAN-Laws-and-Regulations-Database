@@ -1,7 +1,7 @@
 {
  "id": "SG-H2000",
  "title": {
-  "zh": null,
+  "zh": "所得税（一般保险业务收入的免税与优惠税率）条例",
   "en": "Income Tax (Exemption and Concessionary Tax Rate for Income from General Insurance Business) Regulations",
   "orig": null
  },
@@ -346,5 +346,13 @@
     "en": "9.—(1) In determining the income of an approved marine hull and liability insurer, an approved captive insurer or an approved specialised insurer to be exempted from tax under regulation 5C, 5E, 7, 7A, 7AA or 7B, as the case may be —\n(a)the Comptroller shall have regard to such expenses and capital allowances allowable under the Act as are, in his opinion, to be deducted in ascertaining such income;\n[S 517/2013 wef Y/A 2013 & Sub Ys/A]\n(b)there shall be deducted from that income any capital allowances attributable to that income notwithstanding that no claim for those allowances has been made;\n(c)any balance of the allowances mentioned in sub-paragraph (b) and any losses incurred in respect of the captive general business, the marine hull and liability insurance and reinsurance business, the offshore captive insurance business, the offshore qualifying specialised insurance business or the qualifying specialised insurance business, as the case may be (which, if they had been profits, would have been exempted from tax under regulation 5C, 5E, 7, 7A, 7AA or 7B, as the case may be) shall only be deducted against income to be exempted under regulation 5C, 5E, 7, 7A, 7AA or 7B, as the case may be, and any balance of such allowances and losses shall not be deducted against any other income;\n[S 658/2004 wef Y/A 2004 & Sub Ys/A]\n[S 79/2009 wef 17/02/2006]\n[S 79/2009 wef 01/09/2006]\n[S 601/2017 wef 01/04/2016]\n[S 612/2017 wef 01/04/2016]\n[S 492/2021 wef 01/07/2021]\n(d)any balance of the allowances and losses referred to in sub-paragraph (c) remaining unabsorbed as at the date of expiry or withdrawal of the approval under regulation 4, 4A or 4B, as the case may be, shall, subject to paragraph (2), be available as a deduction against any other income of the insurer for the year of assessment which relates to the basis period in which that approval expires or is withdrawn and any subsequent year of assessment in accordance with section 23 or 37 of the Act, as the case may be; and\n[S 79/2009 wef 17/02/2006]\n[S 79/2009 wef 01/09/2006]\n(e)for the purposes of sub-paragraph (d), where an insurer is approved under regulations 4 and 4A, regulations 4 and 4B, regulations 4A and 4B or regulations 4, 4A and 4B, the approval referred to in sub-paragraph (d) shall be the one whose date of expiry or withdrawal is the last.\n[S 79/2009 wef 17/02/2006]\n[S 79/2009 wef 01/09/2006]\n[S 492/2021 wef 01/07/2021]\n(2) Section 37A of the Act shall apply to any amount of the allowances and losses available as a deduction against any other income as provided under paragraph (1)(d) as if they were unabsorbed allowances or losses in respect of the income of a company subject to tax at a lower rate of tax under that section, and for this purpose the rate of tax shall be taken to be the concessionary rate of tax under regulation 5(1).\n[S 79/2009 wef 25/02/2009]\n[G.N. Nos. S 210/95; S 513/99]\n[S 213/2023 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (Exemption and Concessionary Tax Rate for Income from General Insurance Business) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

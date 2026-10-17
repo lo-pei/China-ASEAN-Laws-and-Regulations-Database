@@ -1,7 +1,7 @@
 {
  "id": "PH-H6311",
  "title": {
-  "zh": null,
+  "zh": "将宿务市 Basak 的扩展医院从 Don Vicente Sotto 医疗中心分离并改设为名为 Saint Anthony 妇婴医院的专科医院，为此拨款的法案",
   "en": "An Act Separating the Barangay Basak-san Nicolas Extension Hospital in Basak, City of Cebu, From the Don Vicente Sotto Medical Center in the Same City and Converting It Into a Specialty Hospital, to Be Known as the Saint Anthony Mother and Child Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Barangay Basak-san Nicolas Extension Hospital in Basak, City of Cebu, From the Don Vicente Sotto Medical Center in the Same City and Converting It Into a Specialty Hospital, to Be Known as the Saint Anthony Mother and Child Hospital, and Appropriating Funds Therefor"
  },
@@ -131,5 +131,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, December 8, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Barangay Basak-san Nicolas Extension Hospital in Basak, City of Cebu, From the Don Vicente Sotto Medical Center in the Same City and Converting It Into a Specialty Hospital, to Be Known as the Saint Anthony Mother and Child Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

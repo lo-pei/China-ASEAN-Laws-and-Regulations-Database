@@ -1,7 +1,7 @@
 {
  "id": "PH-H6313",
  "title": {
-  "zh": null,
+  "zh": "1994 年反电力与输电线路及材料窃取法",
   "en": "Anti-Electricity and Electric Transmission Lines/Materials Pilferage Act of 1994",
   "orig": "Anti-Electricity and Electric Transmission Lines/Materials Pilferage Act of 1994 An Act Penalizing the Pilferage of Electricity and Theft of Electric Power Transmission Lines/Materials, Rationalizing System Losses By Phasing Out Pilferage Losses as a Component Thereof, and for Other Purposes"
  },
@@ -211,5 +211,13 @@
     "en": "Effectivity Clause. - This Act shall take effect thirty (30) days after its publication in the Official Gazette or in any two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Anti-Electricity and Electric Transmission Lines/Materials Pilferage Act of 1994",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

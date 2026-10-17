@@ -1,7 +1,7 @@
 {
  "id": "PH-H3731",
  "title": {
-  "zh": null,
+  "zh": "授予 Angeles Carriedo vda. De Lat 等三人在达沃市与达沃省建设、运营和维护制冰厂与冷藏库并销售冰和供应冷藏的特许权法案",
   "en": "An Act Granting to Angeles Carriedo vda. De Lat, Carolina Lat Perez De Tagle and Pedro C. Lat, Jr., a Franchise to Construct, Operate and Maintain Ice Plants and Cold Storages in the City and Province of Davao, and to Sell Ice and Supply Cold Storage in Davao City and Province of Davao or its Subdivisions Thereof",
   "orig": "An Act Granting to Angeles Carriedo vda. De Lat, Carolina Lat Perez De Tagle and Pedro C. Lat, Jr., a Franchise to Construct, Operate and Maintain Ice Plants and Cold Storages in the City and Province of Davao, and to Sell Ice and Supply Cold Storage in Davao City and Province of Davao or its Subdivisions Thereof"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting to Angeles Carriedo vda. De Lat, Carolina Lat Perez De Tagle and Pedro C. Lat, Jr., a Franchise to Construct, Operate and Maintain Ice Plants and Cold Storages in the City and Province of Davao, and to Sell Ice and Supply Cold Storage in Davao City and Province of Davao or its Subdivisions Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

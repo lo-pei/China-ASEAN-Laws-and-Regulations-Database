@@ -1,7 +1,7 @@
 {
  "id": "PH-H3315",
  "title": {
-  "zh": null,
+  "zh": "菲律宾外交服务法",
   "en": "The Foreign Service Act of the Philippines",
   "orig": "An Act to Amend Certain Sections of Re Public Act Numbered Seven Hundred and Eight, Otherwise Known as \"The Foreign Service Act of the Philippines\" Concerning Salaries, Allowances,&nbsp;per Diems,&nbsp;travel Expenses and Benefits in the Foreign Service, and for Other Purposes"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Foreign Service Act of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

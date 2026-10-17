@@ -1,7 +1,7 @@
 {
  "id": "SG-H1087",
  "title": {
-  "zh": null,
+  "zh": "债务催收法 2022",
   "en": "Debt Collection Act 2022",
   "orig": null
  },
@@ -794,5 +794,13 @@
     "en": "SECOND SCHEDULE\nSections 22(1)(d)(iii), 24(1)(a)(iii),\n25(1)(d)(iii), 27(1)(a)(iii) and 44(1)\n1.Any offence under —\n(a)section 144, 145, 147, 148, 152, 158, 304, 304A, 307, 308, 308A, 323, 323A, 324, 325, 326, 327, 328, 329, 332, 333, 335, 335B, 342, 347, 353, 356, 384, 385, 386, 387, 388, 389, 392, 393, 394, 395, 396, 397, 399, 402, 435, 436, 440, 459, 460 or 506 of the Penal Code 1871;\n[S 723/2023 wef 01/12/2023]\n(b)Chapter 5 of the Penal Code 1871 for the abetment of an offence mentioned in this paragraph or paragraph 4, 5, 6, 7 or 8;\n(c)section 300(a), read with section 302(1), of the Penal Code 1871; or\n(d)section 300(b) or (c), read with section 302(2), of the Penal Code 1871.\n2.Any offence under —\n(a)section 3, 4, 9, 10, 13, 14, 27A or 33 of the Criminal Law (Temporary Provisions) Act 1955;\n(b)section 17 of the Criminal Law (Temporary Provisions) Act 1955, in respect of any provision mentioned in sub‑paragraph (a); or\n(c)section 20 of the Criminal Law (Temporary Provisions) Act 1955 for the abetment of an offence mentioned in sub‑paragraph (a) or (b).\n3.Any offence under —\n(a)section 4, 5, 6, 7, 22, 23, 24, 25, 26 or 27 of the Internal Security Act 1960; or\n(b)section 39 of the Internal Security Act 1960 for the abetment of an offence mentioned in sub‑paragraph (a).\n3A.An offence under section 11(1)(a) of the Miscellaneous Offences (Public Order and Nuisance) Act 1906.\n[S 723/2023 wef 01/12/2023]\n4.Any offence under section 19, 47 or 49 of the Moneylenders Act 2008.\n5.Any offence under section 5, 6, 7, 12 or 13 of the Organised Crime Act 2015.\n6.Any offence under section 3, 4, 5, 6 or 7 of the Protection from Harassment Act 2014.\n7.Any offence under section 14, 16, 18 or 23 of the Societies Act 1966.\n8.An offence under section 3 of the Vandalism Act 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Debt Collection Act 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7608",
  "title": {
-  "zh": null,
+  "zh": "确定批准第 6734 号共和国法修正案的公民投票日期，并定于 2001 年 11 月最后一个星期一举行棉兰老穆斯林自治区民选官员选举，为此修订第 9054 号共和国法",
   "en": "An Act Fixing the Date of the Plebiscite for the Approval of the Amendments to Republic Act No. 6734 and Setting the Date of the Regular Elections for Elective Officials of the Autonomous Region in Muslim Mindanao on the Last Monday of November 2001, Amending for the purpose Republic Act No. 9054, entitled \"An Act to Strengthen and Expand the Organic Act for the Autonomous Region in Muslim Mindanao, Amending for the Purpose Republic Act No. 6734, entitled 'An Act Providing for the Autonomous Region in Muslim Mindanao,' as Amended,\" and for Other Purposes",
   "orig": "An Act Fixing the Date of the Plebiscite for the Approval of the Amendments to Republic Act No. 6734 and Setting the Date of the Regular Elections for Elective Officials of the Autonomous Region in Muslim Mindanao on the Last Monday of November 2001, Amending for the purpose Republic Act No. 9054, entitled \"An Act to Strengthen and Expand the Organic Act for the Autonomous Region in Muslim Mindanao, Amending for the Purpose Republic Act No. 6734, entitled 'An Act Providing for the Autonomous Region in Muslim Mindanao,' as Amended,\" and for Other Purposes"
  },
@@ -110,5 +110,13 @@
     "en": "Effectivity. - This Act shall take effect upon publication in at least two (2) national newspapers of general circulation, and one (1) local newspaper of general circulation in the Autonomous Region in Muslim Mindanao."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Fixing the Date of the Plebiscite for the Approval of the Amendments to Republic Act No. 6734 and Setting the Date of the Regular Elections for Elective Officials of the Autonomous Region in Muslim Mindanao on the Last Monday of November 2001, Amending for the purpose Republic Act No. 9054, entitled \"An Act to Strengthen and Expand the Organic Act for the Autonomous Region in Muslim Mindanao, Amending for the Purpose Republic Act No. 6734, entitled 'An Act Providing for the Autonomous Region in Muslim Mindanao,' as Amended,\" and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6003",
  "title": {
-  "zh": null,
+  "zh": "将北阿古桑武端市总医院床位由100张增至125张，并将其升格为省立医院，名称为北阿古桑省立医院，并为此拨款",
   "en": "An Act Increasing the Bed Capacity of the Butuan City General Hospital in Agusan Del Norte From One Hundred (100) To One Hundred Twenty-five (125) Beds, Upgrading It Into A Provincial Hospital To Be Known As the Agusan Del Norte Provincial Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Butuan City General Hospital in Agusan Del Norte From One Hundred (100) To One Hundred Twenty-five (125) Beds, Upgrading It Into A Provincial Hospital To Be Known As the Agusan Del Norte Provincial Hospital, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Butuan City General Hospital in Agusan Del Norte From One Hundred (100) To One Hundred Twenty-five (125) Beds, Upgrading It Into A Provincial Hospital To Be Known As the Agusan Del Norte Provincial Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

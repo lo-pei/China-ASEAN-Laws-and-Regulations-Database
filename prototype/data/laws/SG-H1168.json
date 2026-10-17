@@ -1,7 +1,7 @@
 {
  "id": "SG-H1168",
  "title": {
-  "zh": null,
+  "zh": "外交与领事官员（宣誓与费用）法 1968",
   "en": "Diplomatic and Consular Officers (Oaths and Fees) Act 1968",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "11. Any offence under this Act may, subject to section 10, be inquired into, dealt with, tried and punished in Singapore in the same manner and to the same extent as if the offence had been committed in Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Diplomatic and Consular Officers (Oaths and Fees) Act 1968",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

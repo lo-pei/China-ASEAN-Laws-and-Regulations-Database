@@ -1,7 +1,7 @@
 {
  "id": "SG-H1280",
  "title": {
-  "zh": null,
+  "zh": "外籍人力雇用（征费）命令 2011",
   "en": "Employment of Foreign Manpower (Levy) Order 2011",
   "orig": null
  },
@@ -366,5 +366,13 @@
     "en": "SIXTEENTH SCHEDULE\nParagraph 31C\nLevy payable for certain DP‑WP holders\nPart 1\nCONSTRUCTION WORKER\nFirst column\nSecond column\nCategory\nLevy payable\n1.Off-site construction worker\n$250\n2.Any other construction worker\n$300\nPart 2\nMARINE SHIPYARD WORKER\nFirst column\nSecond column\nCategory\nLevy payable\n1.Any marine shipyard worker\n$350\n[S 307/2026 wef 01/06/2026]\nPart 3\nHARBOUR CRAFT WORKER\nFirst column\nSecond column\nCategory\nLevy payable\n1.Any harbour craft worker\n$300\nPart 4\nPROCESS CONSTRUCTION WORKER\nFirst column\nSecond column\nCategory\nLevy payable\n1.Any process construction worker\n$200\nPart 5\nPROCESS MAINTENANCE WORKER\nFirst column\nSecond column\nCategory\nLevy payable\n1.Any process maintenance worker\n$200\n[S 552/2025 wef 01/09/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment of Foreign Manpower (Levy) Order 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

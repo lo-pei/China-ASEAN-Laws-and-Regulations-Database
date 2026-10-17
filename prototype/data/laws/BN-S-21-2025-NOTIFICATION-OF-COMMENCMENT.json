@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-21-2025-NOTIFICATION-OF-COMMENCMENT",
+ "title": {
+  "zh": "生效公告",
+  "en": "NOTIFICATION OF COMMENCMENT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p26",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 1058,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-21-2025-NOTIFICATION-OF-COMMENCMENT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-21-2025-NOTIFICATION-OF-COMMENCMENT.pdf》（1 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-21-2025-NOTIFICATION-OF-COMMENCMENT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "249 22nd. SCHEDULE SCHEDULE 3 (provisions PART 3 (Chapters 3, 4 commencement and Minister of 10th August 2019 respectively, and No. the In S Dated Yang Di-Pertuan, No. S 22 21 DATO day Competition furtherance of of Finance SERI July, 2025. this 26th. 4. in for Part SETIA PROVISIONS OF COMPETITION ACT to the and Act, and Minister and II the day provisions ~ DR. hereby Economy the of Minister in 5) Notifications Notification AWANG of reference the in Minister the Muharram, in Government Gazette COMPETITION -~~'~--+ _ ... / of Office SCHEDULE of appoints II, exercise (Chapter \\\\ HAJI \"\"' Finance that with of ✓-.,,,,. to in of ;:'11 of MOHD section commencement Act as the the of commencement 253) J and the 1st August 2025 as .,, /~ 1447 Hijriah the ACT I Prime approval Office Economy AMIN 21 set power Minister prohibition) out dated LIEW of ◄, II. in of the conferred ·i BIN corresponding the His Majesty 23rd published Prime 26th. AUGUST, 2025 ABDULLAH Schedule. August 2017 by the Minister section as No. S 69 the date to Sultan the and 1(2) and of"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

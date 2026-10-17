@@ -1,7 +1,7 @@
 {
  "id": "PH-H2407",
  "title": {
-  "zh": null,
+  "zh": "在特定条件下授权以商品对商品贸易方式出口食蟹猴与鳄鱼皮的法案",
   "en": "An Act Authorizing the Exportation of Cynomolgus Monkeys and Crocodile Skins on a Commodity to Commodity Trade Basis Under Certain Conditions",
   "orig": "An Act Authorizing the Exportation of Cynomolgus Monkeys and Crocodile Skins on a Commodity to Commodity Trade Basis Under Certain Conditions"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Exportation of Cynomolgus Monkeys and Crocodile Skins on a Commodity to Commodity Trade Basis Under Certain Conditions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

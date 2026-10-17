@@ -1,7 +1,7 @@
 {
  "id": "SG-H360",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（豁免建筑工程）命令",
   "en": "Building Control (Exempt Building Works) Order",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. Building works for or in connection with —\n(a)detached substations, detached bin centres, detached guard houses, single storey enclosures, sheds, huts and the like;\n(b)box culverts or canal crossings with spaces not exceeding 5 metres; or\n(c)retaining walls not exceeding a height of 4 metres forming part of other building works.\n2. Installation, extension or alteration of any air-conditioning or mechanical ventilation system.\n3. Installation, extension or alteration of any fire protection system.\n[G.N. No. S 151/89]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Control (Exempt Building Works) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

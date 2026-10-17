@@ -1,7 +1,7 @@
 {
  "id": "SG-H447",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（赌场牌照与费用）条例 2009",
   "en": "Casino Control (Casino Licence and Fees) Regulations 2009",
   "orig": null
  },
@@ -267,5 +267,13 @@
     "en": "THE SCHEDULE\nRegulations 2(2), 6(1), 8(2) and 10(3)\nFees\n1.For an application for a casino licence\n$1,100\n2.Casino licence fee for a casino licence granted or renewed on or after 18 November 2024 —\n(a)to operate the only casino in operation\n$40.3 million per annum\n(b)to operate one of 2 casinos in operation\n$33.6 million per annum\n2A.Casino licence fee for a casino licence granted or renewed on or after 1 December 2018 but before 18 November 2024 —\n(a)to operate the only casino in operation\n$28.8 million per annum\n(b)to operate one of 2 casinos in operation\n$24 million per annum\n3.For an application for renewal of a casino licence\n$850\n4.For an application to redefine casino boundaries\n$270.\n[S 866/2024 wef 18/11/2024]\n[S 779/2018 wef 01/12/2018]\n[S 8/2016 wef 12/01/2016]\n[S 609/2012 wef 11/12/2012]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Casino Licence and Fees) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

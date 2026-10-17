@@ -1,7 +1,7 @@
 {
  "id": "PH-H4589",
  "title": {
-  "zh": null,
+  "zh": "授予 Kalibo Electric Co 在阿克兰省 Kalibo 市镇安装、运营和维护电话系统的特许经营权法案",
   "en": "An Act Granting Kalibo Electric Co, a Franchise to Install, Operate and Maintain a Telephone System in the Municipality of Kalibo, Province of Aklan",
   "orig": "An Act Granting Kalibo Electric Co, a Franchise to Install, Operate and Maintain a Telephone System in the Municipality of Kalibo, Province of Aklan"
  },
@@ -230,5 +230,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Kalibo Electric Co, a Franchise to Install, Operate and Maintain a Telephone System in the Municipality of Kalibo, Province of Aklan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

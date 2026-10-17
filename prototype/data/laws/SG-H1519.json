@@ -1,7 +1,7 @@
 {
  "id": "SG-H1519",
  "title": {
-  "zh": null,
+  "zh": "电影（图书馆与教育机构出借类别许可）命令 2019",
   "en": "Films (Class Licence for Lending by Libraries and Educational Institutions) Order 2019",
   "orig": null
  },
@@ -182,5 +182,13 @@
     "en": "9. A class licensee by virtue of paragraph 4 or 6 must not distribute any relevant unclassified film unless —\n(a)on any exterior part of —\n(i)the storage device in which that film is stored;\n(ii)the container in which such a film or the storage device in sub‑paragraph (i) is contained inside; or\n(iii)where a container mentioned in sub‑paragraph (ii) is contained in one or more larger containers, the largest container in addition to sub‑paragraph (ii),\nthere is written, or affixed a label containing, the words “RESTRICTED ACCESS ONLY”; and\n(b)that writing or label —\n(i)is clearly legible and not obscured by other material displayed on the storage device or container for the film; and\n(ii)has a typeface or writing, and is in colours, that are prominent and easily distinguishable from any other information, diagram or image with which the label or writing is displayed."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Films (Class Licence for Lending by Libraries and Educational Institutions) Order 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

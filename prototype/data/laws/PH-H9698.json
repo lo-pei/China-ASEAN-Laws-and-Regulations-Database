@@ -1,7 +1,7 @@
 {
  "id": "PH-H9698",
  "title": {
-  "zh": null,
+  "zh": "关于将 Palawan 省划分为三个（3）个新省，并分别命名为 Palawan 北省、Palawan 东省与 Palawan 南省的法案",
   "en": "An Act Dividing the Province of Palawan Into Three (3) Provinces, Namely: Palawan del Norte, Palawan Oriental, and Palawan del Sur",
   "orig": "An Act Dividing the Province of Palawan Into Three (3) Provinces, Namely: Palawan del Norte, Palawan Oriental, and Palawan del Sur"
  },
@@ -771,5 +771,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days upon its publication in the Official Gazette or in a newspaper of general and local circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Dividing the Province of Palawan Into Three (3) Provinces, Namely: Palawan del Norte, Palawan Oriental, and Palawan del Sur",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

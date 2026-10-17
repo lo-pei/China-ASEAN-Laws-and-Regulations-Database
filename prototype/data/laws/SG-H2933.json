@@ -1,7 +1,7 @@
 {
  "id": "SG-H2933",
  "title": {
-  "zh": null,
+  "zh": "土地征用（上诉委员会——费用）条例",
   "en": "Land Acquisition (Appeals Board — Fees) Regulations",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nFees\nFirst column\nSecond column\n1.For the supply of verbatim transcript of proceedings to any party to the proceedings —\n(a) first set of transcripts\n$8 per page or part thereof; and\n(b)second and subsequent set of transcripts\n$1 per page or part thereof.\n2.For the supply of a copy of any instrument or document in the possession of the Appeals Board\n$1 per page or part thereof."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Land Acquisition (Appeals Board — Fees) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

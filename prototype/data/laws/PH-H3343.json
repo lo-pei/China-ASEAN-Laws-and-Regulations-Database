@@ -1,7 +1,7 @@
 {
  "id": "PH-H3343",
  "title": {
-  "zh": null,
+  "zh": "修订第 3783 号共和国法的法案",
   "en": "An Act Amending Republic Act Numbered Three Thousand Seven Hundred and Eighty-Three",
   "orig": "An Act Amending Republic Act Numbered Three Thousand Seven Hundred and Eighty-Three"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H3343-A1_2",
+   "id": "PH-H3343-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The Prosecution Division of the Department of Justice shall be composed of the following officials and personnel with annual compensation hereinafter fixed:\n\"Chief state prosecutor ..................................................................\n₱16,000.00 \"Two assistant chief state prosecutors, each at..............................\n13,800.00 \"Eight senior state prosecutors, each at ........................................\n12,600.00 \"Two senior state prosecutors, each at ..........................................\n12,600.00 \"Five state prosecutors, each at ....................................................\n13,400.00 \"One state prosecutor ....................................................................\n10,800.00 \"Seven state prosecutors, each at .................................................\n10,200.00 \"Six state prosecutors, each at ......................................................\n9,600.00 \"Seven state prosecutors, each at .................................................\n8,400.00 \"One state prosecutor ....................................................................\n8,400.00 \"Administrative assistant ................................................................\n5,100.00 \"One supervising senior stenographic reporter...............................\n5,100.00 \"Three senior stenographic reporters, each at................................\n4,800.00 \"Three junior stenographic reporters, each at.................................\n4,500.00 \"Six junior stenographic reporters, each at.....................................\n4,200.00 \"One research attorney I ................................................................\n6,600.00 \"One stenographer .........................................................................\n3,600.00 \"One statistical aide III ...................................................................\n8,600.00 \"One clerk I ....................................................................................\n3,000.00 \"One janitor-messenger .................................................................\n2,400.00 \"Section 2. The Deportation Board of the Department of Justice shall be composed of the following officials and personnel with annual compensation hereinafter fixed:\n\"Chief prosecutor ............................................................................\n₱11,400.00 \"One trial attorney III ......................................................................\n10,800.00 \"Two trial attorneys II, each at ........................................................\n8,400.00 \"One legal officer I ..........................................................................\n7,200.00 \"One secretary ...............................................................................\n4,500.00 \"One sheriff ....................................................................................\n3,600.00 \"One messenger-janitor .................................................................\n2,400.00\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H3343-A2",
@@ -100,5 +101,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Three Thousand Seven Hundred and Eighty-Three",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

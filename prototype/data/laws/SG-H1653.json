@@ -1,7 +1,7 @@
 {
  "id": "SG-H1653",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（武器展览——类别许可）命令 2025",
   "en": "Guns, Explosives and Weapons Control (Arms Exhibitions — Class Licence) Order 2025",
   "orig": null
  },
@@ -182,5 +182,13 @@
     "en": "9.—(1) A visitor to an arms demonstration exhibition who is a class licensee by virtue of paragraph 8(1) may use and possess any deactivated gun at the arms demonstration exhibition subject to all the following conditions:\n(a)the visitor uses or has possession of the deactivated gun only —\n(i)within the area demarcated under paragraph 7(1)(d)(i); and\n(ii)during the exhibition period of the arms demonstration exhibition;\n(b)the visitor does not, when using or in possession of the deactivated gun, intentionally or negligently do anything to cause the deactivated gun to cease to be tethered in the appropriate manner;\n(c)the visitor, particularly when using or possessing the deactivated gun, complies with every direction given by an organiser of the arms demonstration exhibition, or an employee of an organiser of the arms demonstration exhibition, under paragraph 7(1)(g), that —\n(i)is for the surveillance and security of the premises where the arms demonstration exhibition is arranged or held;\n(ii)is a security and safety measure relating to the conduct of the arms demonstration exhibition; or\n(iii)is to reduce any safety risk from the use of the deactivated gun.\n(2) A visitor to an arms demonstration exhibition who is a class licensee by virtue of paragraph 8(2) may undertake target shooting activity using any gun, simulated ammunition or inert projectile at the arms demonstration exhibition subject to all the following conditions:\n(a)the class licensee uses or possesses the gun and the simulated ammunition or inert projectile only —\n(i)within the area demarcated under paragraph 7(1)(d)(ii) for target shooting activity; and\n(ii)during the exhibition period of the arms demonstration exhibition;\n(b)the class licensee, when using or possessing the gun, simulated ammunition or inert projectile, complies with every direction given by an organiser of the arms demonstration exhibition, or an employee of an organiser of the arms demonstration exhibition, under paragraph 7(1)(g), that —\n(i)is for the surveillance and security of the premises where the target shooting activity is to take place; or\n(ii)is a security and safety measure relating to the use of the gun, simulated ammunition or inert projectile during the target shooting activity."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Guns, Explosives and Weapons Control (Arms Exhibitions — Class Licence) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

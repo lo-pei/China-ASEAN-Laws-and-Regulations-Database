@@ -1,7 +1,7 @@
 {
  "id": "PH-H8167",
  "title": {
-  "zh": null,
+  "zh": "设立普及性新生儿听力筛查计划以预防、早期诊断和干预听力损失的法案",
   "en": "An Act Establishing a Universal Newborn Hearing Screening Program for the Prevention, Early Diagnosis and Intervention of Hearing Loss",
   "orig": "An Act Establishing a Universal Newborn Hearing Screening Program for the Prevention, Early Diagnosis and Intervention of Hearing Loss"
  },
@@ -230,5 +230,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Universal Newborn Hearing Screening Program for the Prevention, Early Diagnosis and Intervention of Hearing Loss",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

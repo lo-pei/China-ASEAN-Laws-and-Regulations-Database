@@ -1,7 +1,7 @@
 {
  "id": "SG-H1546",
  "title": {
-  "zh": null,
+  "zh": "财务顾问（跨境安排豁免）（外国关联公司）条例 2021",
   "en": "Financial Advisers (Exemption for Cross-Border Arrangements) (Foreign Related Corporations) Regulations 2021",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) For the purposes of regulations 4(1)(a) and (4)(b) and 5(1)(a) and (3), the circumstances are —\n(a)the FRC of the specified financial adviser carries out all its activities under the cross‑border arrangement through one or more branches or offices (including its head office) that are established in one or more foreign jurisdictions;\n(b)the FRC is subject to regulatory oversight, in respect of any activity that is carried out by the FRC, by a foreign regulatory authority in each of the foreign jurisdictions mentioned in sub‑paragraph (a);\n(c)the FRC is subject to AML/CFT requirements of every foreign jurisdiction mentioned in sub‑paragraph (a) that are consistent with the standards set by the FATF and supervised by a foreign regulatory authority in that foreign jurisdiction as to whether the FRC complies with the AML/CFT requirements;\n(d)the FRC and every foreign jurisdiction mentioned in sub‑paragraph (a) are not subject to any sanction imposed pursuant to a Resolution of the Security Council of the United Nations; and\n(e)every customer of the FRC of the specified financial adviser to whom the specified financial advisory service is provided —\n(i)is an accredited investor, institutional investor or expert investor; and\n(ii)either —\n(A)belongs to a class of persons that the Authority has specified under any condition or restriction imposed under section 10(2) or 20(9) of the Act (as the case may be) as being a class of persons to whom the specified financial adviser may provide the specified financial advisory service; or\n[S 224/2023 wef 31/12/2021]\n(B)does not belong to a class of persons that the Authority has specified under any condition or restriction imposed under section 10(2) or 20(9) of the Act (as the case may be) as being a class of persons to whom the specified financial adviser may not provide the specified financial advisory service.\n[S 224/2023 wef 31/12/2021]\n[S 622/2023 wef 09/10/2023]\n[S 622/2023 wef 09/10/2023]\n(2) In this regulation —\n“accredited investor” means any of the following persons in relation to a counterparty, if the person has opted, under regulation 3(2) of the Securities and Futures (Classes of Investors) Regulations 2018 (G.N. No. S 665/2018), to be treated by the counterparty as an accredited investor for all the consent provisions:\n(a)an individual mentioned in section 4A(1)(a)(i) of the Securities and Futures Act 2001;\n(b)a corporation mentioned in section 4A(1)(a)(ii) of the Securities and Futures Act 2001;\n(c)a trustee mentioned in section 4A(1)(a)(iii) of the Securities and Futures Act 2001;\n(d)a person mentioned in section 4A(1)(a)(iv) of the Securities and Futures Act 2001;\n“consent provision” and “counterparty” have the meanings given by regulation 3(9) of the Securities and Futures (Classes of Investors) Regulations 2018;\n“specified financial advisory service” means the financial advisory service in respect of which the FRC of the specified financial adviser is exempt under regulation 4(2) or 5(2), as the case may be.\n[S 622/2023 wef 09/10/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Financial Advisers (Exemption for Cross-Border Arrangements) (Foreign Related Corporations) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

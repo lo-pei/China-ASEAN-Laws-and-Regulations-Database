@@ -1,7 +1,7 @@
 {
  "id": "PH-H317",
  "title": {
-  "zh": null,
+  "zh": "修订第2711号法《行政法典》第1917条（经第362号联邦法修正）与第1919条的法案",
   "en": "An Act to Amend Section Nineteen Hundred and Seventeen, as Amended by Commonwealth Act Numbered Three Hundred and Sixty-Two, and Section Nineteen Hundred and Nineteen of the Administrative Code, Act Numbered Twenty-Seven Hundred and Eleven",
   "orig": "An Act to Amend Section Nineteen Hundred and Seventeen, as Amended by Commonwealth Act Numbered Three Hundred and Sixty-Two, and Section Nineteen Hundred and Nineteen of the Administrative Code, Act Numbered Twenty-Seven Hundred and Eleven"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 5, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Nineteen Hundred and Seventeen, as Amended by Commonwealth Act Numbered Three Hundred and Sixty-Two, and Section Nineteen Hundred and Nineteen of the Administrative Code, Act Numbered Twenty-Seven Hundred and Eleven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

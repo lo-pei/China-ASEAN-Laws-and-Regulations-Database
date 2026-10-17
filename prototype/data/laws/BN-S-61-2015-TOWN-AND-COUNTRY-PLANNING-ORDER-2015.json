@@ -1,7 +1,7 @@
 {
  "id": "BN-S-61-2015-TOWN-AND-COUNTRY-PLANNING-ORDER-2015",
  "title": {
-  "zh": null,
+  "zh": "城乡规划命令 2015",
   "en": "TOWN AND COUNTRY PLANNING ORDER 2015",
   "orig": null
  },
@@ -1031,5 +1031,13 @@
     "en": "(1) Subject to this section, the Town and Country Planning (Development Control) Act (Chapter 143) is repealed.\n\n(2) Any subsidiary legislation, declaration or appointment made and any done under the repealed Act and in force immediately prior to the of this Order shall, so far as it is not inconsistent with the provisions of this Order, continue to be in force as if made or done under this until it is amended, revoked or repealed under this Order.\n\n(3) Until otherwise amended under this Order and sunject to the provisions any reference in the subsidiary legislation made under the repealed Town and Country Planning (Development Control) Act (Chapter 143) to {a} the Competent Authority, shall be construed as reference to the Planning Authority; {b) the Development Planning Scheme, shall be construed as reference to development plans.\n\n(4) Any permission, approval, decision, notice, warrant, order, guidelines or other document prepared, made, granted, issued and any act or thing done or under or pursuant to the repealed Act and valid immediately prior to the of this Order shall be deemed to have been prepared, made, granted, issued, done or given under or pursuant to the corresponding provisions Order and shall continue to have effect accordingly.\n\n(5) Any map, plan, record or register prepared, made or kept under or pursuant to the repealed Act shall be deemed to have been prepared, made or kept under or pursuant to the corresponding provisions of this Order and shall to have effect accordingly.\n\n(6) Any breach, contravention or non-compliance of the repealed Act shall be deemed to be a breach, contravention or non-compliance of the corresponding provisions of this Order and the powers conferred on the Planning Authority by this Order may be exercised in respect of any such breach, contravention or\n\n(7) Any enforcement process or proceedings commenced or pending prior to the commencement of this Order in connection with any contravention or non-compliance of or under the repealed Act may be continued and disposed of under the repealed Act as if this Order has not been made.\n\n(8) Any application for permission made to the Competent Authority under section 6 of the repealed Act and any appeal made to the Minister under section 8 of the repealed Act which is pending immediately before the commencement of this Order shall be deemed to have been made and shall be dealt with under the corresponding provisions of this Order. [9) Any reference in any written law to the repealed Act or any provision shalC as from the commencement of this Order, be a reference to this or the corresponding provision of this Order. (section 23(1))\n\nCONTROL AREAS within Brunei Darussalam excluding any area declared to be a Municipal area under section 3(1) of the Municipal Boards Act (Chapter 57). Made this 23rd. day of Zulhijjah, 1436 Hijriah corresponding to the 7th. day of October, 2015 at Our Istana Nurul Iman, Bandar Seri Begawan, Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TOWN AND COUNTRY PLANNING ORDER 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

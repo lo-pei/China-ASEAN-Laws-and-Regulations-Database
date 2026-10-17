@@ -1,0 +1,252 @@
+{
+ "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES",
+ "title": {
+  "zh": "R 3 所得税自动化设备规则",
+  "en": "R 3 INCOME TAX AUTOMATION EQUIPMENT RULES",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p22",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 20,
+ "chars": 3173,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES.pdf》（8 页），本次切分 20 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "These Rules may be cited as the Income Tax (Automation Equipment) Rules."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The automation equipment specified in the Schedule is hereby prescribed for the purposes of the allowances to be made under section 16B(2). B.L.R. 0. 8/2021 6 CAP. 35, R 3 Tax (rule 2) 1 . Image or graphics processing equipment, including facsimile, optical character reader, laser printer, plotter, image setter, digital printing and direct imaging equipment."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Data communications equipment, including modem, multiplexor, network processor, interface converter, routers and switches."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Office system software, including software used in connection with provision of any office automation service."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "Computer-aided design system software and computer-aided manufacturing"
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Surface mount technology machine which is used for the automatic assembly of surface mount devices onto printed circuit boards."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "Computer controlled machine for cutting and removal operations with automatic tool change capabilities, including CNC lathes, milling machines, EDM wirecut, machining centers, grinders, presses and laser equipment."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "Unmanned automated guided vehicle which is reprogrammable and used for the transfer of goods or materials within a factory or an office."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "Co-ordinate measuring machine which is controlled by computer and used for the precise measurement of components for industrial, research or training purposes, including auto in-line vision inspection system and automated testing equipment."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "Automated machine for the storage and retrieval of goods or materials which is controlled by computer and installed with automatic retrieval devices."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "Flexible manufacturing cells consisting of an integrated manufacturing system comprising at least a computer controlled machine and a robot, including assembly robots, robotic systems and auto-packing lines. - (continued)"
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "text": {
+    "en": "Automated warehousing equipment and software, including Integrated Transport Fleet Management System, Integrated Warehouse Management System Badio Frequency Terminalsjand Very Narrow Aisle (VNA), automatic material handling, collating and binding equipment, Enterprise Resource Planning systems and Materials Resource Planning and Manufacturer Resource Planning software systems."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "Automated inspection, testing, packaging and control system for chemicals, pharmaceuticals, medical devices and other automated manufacturing, including high speed tabletting machines, high speed packaging machines, such as for blister packaging, infra-red probe for control and inspection, vision devices to check mould function or parts inspection, in-mould transfer parts sorting system and analysis equipment for quality control and assurance."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "Injection mould machines used for making plastic, ceramic or metal components in factory production."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "Automated chemicals handling equipment, system or line."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "text": {
+    "en": "Computer-to-plate and computer-to-press systems used in drafting and printing business."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "text": {
+    "en": "Automated machinery and systems for food processing and packaging or food preservation."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "text": {
+    "en": "Semiconductor Production Machine used in the manufacture of semiconductor wafers or packaged ICs."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "text": {
+    "en": "Automatic photonics assembly and test equipment."
+   }
+  },
+  {
+   "id": "BN-CAP-35-R-3-INCOME-TAX-AUTOMATION-EQUIPMENT-RULES-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "text": {
+    "en": "Automated equipment used in port-related operations."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 3 INCOME TAX AUTOMATION EQUIPMENT RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

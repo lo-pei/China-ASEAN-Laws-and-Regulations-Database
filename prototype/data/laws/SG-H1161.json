@@ -1,7 +1,7 @@
 {
  "id": "SG-H1161",
  "title": {
-  "zh": null,
+  "zh": "贫困人士（福利院）公告 2017",
   "en": "Destitute Persons (Welfare Homes) Notification 2017",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Item (8) of the Destitute Persons (Welfare Homes) (Consolidation) Notification (N 1) is deleted."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Destitute Persons (Welfare Homes) Notification 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

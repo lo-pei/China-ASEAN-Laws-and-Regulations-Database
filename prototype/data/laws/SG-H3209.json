@@ -1,7 +1,7 @@
 {
  "id": "SG-H3209",
  "title": {
-  "zh": null,
+  "zh": "商船（牛只海上过境）规则",
   "en": "Merchant Shipping (Transit of Cattle by Sea) Rules",
   "orig": null
  },
@@ -337,5 +337,13 @@
     "en": "23. When cattle are carried in a tongkang beyond the limits of a port they shall be carried in pens of a substantial character and suitable size fitted to the satisfaction of the Inspector, and the cattle shall be separately and securely tied by the head by ropes passed through eye bolts in the pen frames, and shall not be crowded together in such a way as to cause injury or discomfort. Rule 16 shall apply to such pens.\nDIAGRAM\nRule 6(2)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Transit of Cattle by Sea) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

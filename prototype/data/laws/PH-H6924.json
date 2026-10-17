@@ -1,7 +1,7 @@
 {
  "id": "PH-H6924",
  "title": {
-  "zh": null,
+  "zh": "授予 Southern 电信公司在 Cagayan De Oro 市及布基农、宿务与阿尔拜省建设、设立、安装、维护和运营本地交换网络的特许经营权法案",
   "en": "An Act Granting the Southern Telecommunications Company, Inc., a Franchise to Construct, Install, Maintain, Establish and Operate Local Exchange Network in the City of Cagayan De Oro and in the Provinces of Bukidnon, Cebu and Albay",
   "orig": "An Act Granting the Southern Telecommunications Company, Inc., a Franchise to Construct, Install, Maintain, Establish and Operate Local Exchange Network in the City of Cagayan De Oro and in the Provinces of Bukidnon, Cebu and Albay"
  },
@@ -241,5 +241,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Southern Telecommunications Company, Inc., a Franchise to Construct, Install, Maintain, Establish and Operate Local Exchange Network in the City of Cagayan De Oro and in the Provinces of Bukidnon, Cebu and Albay",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

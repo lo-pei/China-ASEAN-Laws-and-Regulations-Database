@@ -1,7 +1,7 @@
 {
  "id": "PH-H4022",
  "title": {
-  "zh": null,
+  "zh": "废止第2959号共和国法（即《授予Pedro Bangug在伊莎贝拉省Cabagan市镇经营电灯、热力与电力系统特许权》）的法案",
   "en": "An Act Repealing Republic Act Numbered Twenty-Nine Hundred and Fifty-Nine, Entitled \"An Act Granting Pedro Bangug a Franchise for an Electric Light, Heat and Power System in the Municipality of Cabagan, Province of Isabela\"",
   "orig": "An Act Repealing Republic Act Numbered Twenty-Nine Hundred and Fifty-Nine, Entitled \"An Act Granting Pedro Bangug a Franchise for an Electric Light, Heat and Power System in the Municipality of Cabagan, Province of Isabela\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Repealing Republic Act Numbered Twenty-Nine Hundred and Fifty-Nine, Entitled \"An Act Granting Pedro Bangug a Franchise for an Electric Light, Heat and Power System in the Municipality of Cabagan, Province of Isabela\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

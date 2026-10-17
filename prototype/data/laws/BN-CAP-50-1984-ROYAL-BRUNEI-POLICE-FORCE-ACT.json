@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-50-1984-ROYAL-BRUNEI-POLICE-FORCE-ACT",
  "title": {
-  "zh": null,
+  "zh": "文莱皇家警察部队法",
   "en": "ROYAL BRUNEI POLICE FORCE ACT",
   "orig": null
  },
@@ -1019,5 +1019,13 @@
     "en": "A warrant card issued under the repealed Enactment to any person deemed to be transferred under section 71 be deemed to be a valid warrant card issued under this Act. Brunei Police Force 41 21) of Office I ..................................................................... , do solemnly, sincerely and truely declare that I will well and faithfully serve His Majesty the Sultan and Yang Di-Pertuan in the office of police officer of the Royal Brunei Police Force and will obey, uphold and maintain the laws of Brunei, and that I will execute the powers and duties of my office honestly and diligently. Declared at ......................... this ............ day of ............ 19 ... .. .......................... ......................... . ~, me, ·- B.L.R.O. 111984 Royal Brunei Police Force CAP. 50 43 [Subsidiary]\n\nSUBSIDIARY LEGISLATION NOTE. All subsidiary legislation is omitted. B.L.R.O. 111984"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ROYAL BRUNEI POLICE FORCE ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

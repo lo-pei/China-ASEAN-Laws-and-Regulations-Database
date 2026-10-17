@@ -1,7 +1,7 @@
 {
  "id": "PH-H3012",
  "title": {
-  "zh": null,
+  "zh": "将黎刹省 曼达卢永市镇 Welfareville 学校的名称变更为Jose Fabella 纪念学校的法案",
   "en": "An Act Changing the Name of the Welfareville School in the Municipality of Mandaluyong, Province of Rizal, to Jose Fabella Memorial School",
   "orig": "An Act Changing the Name of the Welfareville School in the Municipality of Mandaluyong, Province of Rizal, to Jose Fabella Memorial School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Welfareville School in the Municipality of Mandaluyong, Province of Rizal, to Jose Fabella Memorial School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

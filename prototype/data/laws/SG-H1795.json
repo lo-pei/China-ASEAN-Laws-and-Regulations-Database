@@ -1,7 +1,7 @@
 {
  "id": "SG-H1795",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（向贷款人抵押）规则",
   "en": "Housing and Development (Mortgage to Lender) Rules",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) Where a flat has been mortgaged to a lender on or after 1st January 2003 and the mortgagor seeks the consent of the Board to sell the flat, the Board may, in granting its consent under section 56 of the Act (formerly section 50 of the Act as in force before 31 December 2021) and without prejudice to any other condition that it may think fit to impose, impose the condition that the proceeds of sale of the flat shall be applied in the order of priority specified in rule 3(e).\n[S 329/2022 wef 26/04/2022]\n(2) Paragraph (1) shall apply regardless of whether the mortgage is discharged at the time of the sale of the flat."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Mortgage to Lender) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4953",
  "title": {
-  "zh": null,
+  "zh": "规定依照条约义务或国际承诺在外国参加任何战役或行动的菲律宾武装部队预备役军官免于转回非现役身份",
   "en": "An Act Providing for Security From Reversion to Inactive Status of Reserve Officers of the Armed Forces of the Philippines Who Have Served or Will Hereafter Serve in Any Campaign or Operation in a Foreign Country in Compliance With Our Treaty Obligations or International Commitments.",
   "orig": "An Act Providing for Security From Reversion to Inactive Status of Reserve Officers of the Armed Forces of the Philippines Who Have Served or Will Hereafter Serve in Any Campaign or Operation in a Foreign Country in Compliance With Our Treaty Obligations or International Commitments."
  },
@@ -70,5 +70,13 @@
     "en": "Effectivity .—This Act shall take effect immediately upon its approval.\nApproved, June 17, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for Security From Reversion to Inactive Status of Reserve Officers of the Armed Forces of the Philippines Who Have Served or Will Hereafter Serve in Any Campaign or Operation in a Foreign Country in Compliance With Our Treaty Obligations or International Commitments.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

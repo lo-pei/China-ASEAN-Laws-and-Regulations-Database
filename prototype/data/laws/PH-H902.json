@@ -1,7 +1,7 @@
 {
  "id": "PH-H902",
  "title": {
-  "zh": null,
+  "zh": "修订第 138 号共和国法若干条款的法案",
   "en": "An Act to Amend Certain Provisions of Republic Act Numbered One Hundred Thirty-Eight",
   "orig": "An Act to Amend Certain Provisions of Republic Act Numbered One Hundred Thirty-Eight"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval. Nothing in this Act shall operate or be construed to affect pay and allowances corresponding to any period prior to the effectivity of this Act, nor to determinations of entitlement or non-entitlement thereto.\nApproved: June 12, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Provisions of Republic Act Numbered One Hundred Thirty-Eight",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

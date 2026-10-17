@@ -1,7 +1,7 @@
 {
  "id": "PH-H4294",
  "title": {
-  "zh": null,
+  "zh": "设立八打雁市法案",
   "en": "An Act Creating Batangas City",
   "orig": "An Act Creating Batangas City"
  },
@@ -233,7 +233,7 @@
    }
   },
   {
-   "id": "PH-H4294-A15_2",
+   "id": "PH-H4294-A15-d2",
    "no": 15,
    "noLabel": {
     "en": "Section 15."
@@ -243,7 +243,8 @@
    },
    "text": {
     "en": "Restrictive Provisions. No commercial sign, signboard, or billboard shall be erected or displayed on public land premises or building. If, after due investigations, and having given the owners an opportunity to be heard, the Mayor should consider any sign, signboard, or billboard displayed or exposed to public view as offensive to the sight or its otherwise a nuisance he may order the removal of such sign, signboard or billboard, and if same is not removed within ten days after he has issued such order, he may himself cause its removal, and the sign, signboard or billboard shall thereupon be forfeited to the city and the expense incident to the removal of the same shall become a lawful charge against any person or property liable for the erection or display thereof.\nDepartment and Officers of the City"
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4294-A17",
@@ -1350,5 +1351,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating Batangas City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

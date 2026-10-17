@@ -1,7 +1,7 @@
 {
  "id": "SG-H3132",
  "title": {
-  "zh": null,
+  "zh": "药物（标签）条例",
   "en": "Medicines (Labelling) Regulations",
   "orig": null
  },
@@ -197,5 +197,13 @@
     "en": "SECOND SCHEDULE\nRegulation 7\n1. Acetylsalicylic Acid (Aspirin) and its salts\n2. Alpha Tocopherol (Vitamin E) and its salts\n3. Anaesthetic Ether\n4. Antibiotics and antifungal agents\n5. Antitoxins\n6. Ascorbic Acid (Vitamin C) and its salts\n7. Blood products\n8. Chloral Hydrate\n9. Cyanocobalamin (Vitamin B12)\n10. Ferrous Salts\n11. Glyceryl Trinitrate\n12. Insulins\n13. Nicotinamide\n14. Paracetamol (Acetaminophen)\n15. Paraldehyde (Oral and Systemic Preparations)\n16. Pyridoxine Hydrochloride (Vitamin B6)\n17. Retinol (Vitamin A) and its salts\n18. Riboflavine and its salts\n19. Sodium Nitrite Injection\n20. Sodium Thiosulphate Injection\n21. Thiamine/Aneurine (Vitamin B1) and their salts\n22. Vaccines.\n[G.N. Nos. S 255/86; S 162/87; S 525/97; S 495/98]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Medicines (Labelling) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

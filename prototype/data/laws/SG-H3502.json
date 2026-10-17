@@ -1,7 +1,7 @@
 {
  "id": "SG-H3502",
  "title": {
-  "zh": null,
+  "zh": "退休金法 1956",
   "en": "Pensions Act 1956",
   "orig": null
  },
@@ -341,5 +341,13 @@
     "en": "THIRD SCHEDULE\nSection 21(1)\nOrdinances Repealed\nNumber\nShort title\n1936 Edition, Chapter 78\nThe Pensions Ordinance.\nNo. 21 of 1947\nThe Pensions (Special Provisions) Ordinance 1947.\nNo. 12 of 1948\nThe Malayan Establishment Pensions Ordinance 1948.\nNo. 16 of 1954\nThe Malayan Establishment (Transitional Provisions) Pensions Ordinance 1954.\n1955 Edition, Chapter 57\nThe Pensions (War Service) Ordinance."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Pensions Act 1956",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

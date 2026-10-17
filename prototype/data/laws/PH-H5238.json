@@ -1,7 +1,7 @@
 {
  "id": "PH-H5238",
  "title": {
-  "zh": null,
+  "zh": "将巴丹省Balanga的巴丹国立工艺学校更名为Medina Lacson De Leon国立工艺学校的法案",
   "en": "N Act Changing the Name of the Bataan National School of Arts and Trades in Balanga, Bataan, to Medina Lacson De Leon National School of Arts and Trades",
   "orig": "N Act Changing the Name of the Bataan National School of Arts and Trades in Balanga, Bataan, to Medina Lacson De Leon National School of Arts and Trades"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "N Act Changing the Name of the Bataan National School of Arts and Trades in Balanga, Bataan, to Medina Lacson De Leon National School of Arts and Trades",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

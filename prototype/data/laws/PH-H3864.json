@@ -1,7 +1,7 @@
 {
  "id": "PH-H3864",
  "title": {
-  "zh": null,
+  "zh": "将南苏里高省Otieza市镇的名称正式变更为San Agustin的法案",
   "en": "An Act Changing the Name of the Municipality of Otieza, Province of Surigao del Sur, to San Agustin",
   "orig": "An Act Changing the Name of the Municipality of Otieza, Province of Surigao del Sur, to San Agustin"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Municipality of Otieza, Province of Surigao del Sur, to San Agustin",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

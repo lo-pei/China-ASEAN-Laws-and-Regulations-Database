@@ -1,7 +1,7 @@
 {
  "id": "PH-H1109",
  "title": {
-  "zh": null,
+  "zh": "修订第470号联邦法第38条、第39条与第40条，允许欠税人在其不动产因欠税被公开拍卖售出后2年内回购",
   "en": "An Act to Amend Sections Thirty-Eight, Thirty-Nine, and Forty of Commonwealth Act Numbered Four Hundred Seventy by Allowing Delinquent Taxpayers to Repurchase Within Two Years from the Date Their Real Property was Sold at Public Auction to Satisfy Taxes Thereon",
   "orig": "An Act to Amend Sections Thirty-Eight, Thirty-Nine, and Forty of Commonwealth Act Numbered Four Hundred Seventy by Allowing Delinquent Taxpayers to Repurchase Within Two Years from the Date Their Real Property was Sold at Public Auction to Satisfy Taxes Thereon"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Thirty-Eight, Thirty-Nine, and Forty of Commonwealth Act Numbered Four Hundred Seventy by Allowing Delinquent Taxpayers to Repurchase Within Two Years from the Date Their Real Property was Sold at Public Auction to Satisfy Taxes Thereon",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

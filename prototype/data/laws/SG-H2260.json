@@ -1,7 +1,7 @@
 {
  "id": "SG-H2260",
  "title": {
-  "zh": null,
+  "zh": "所得税（FLT Europe 私人有限公司依第 13（12）条享有的豁免）命令 2025",
   "en": "Income Tax (FLT Europe Pte. Ltd. — Section 13(12) Exemption) Order 2025",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Interest income received in Singapore by FLT Europe Pte. Ltd. (a company incorporated in Singapore) on or after 22 April 2025 from FLT Europe B.V. (a company incorporated in the Netherlands), is exempt from tax.\n(2) Sub‑paragraph (1) applies to interest income originating from —\n(a)any rental and property‑related income (including capital gain derived from divestment of property) from any of the properties specified in sub‑paragraph (4); and\n(b)any interest income derived from any temporary deposit with a financial institution in Germany or the Netherlands of such rental and property‑related income.\n(3) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter from the Inland Revenue Authority of Singapore dated 22 April 2025 that is issued on behalf of the Minister for Finance and addressed to EY Corporate Advisors Pte. Ltd.\n(4) For the purposes of sub‑paragraph (2), the properties are the following:\n(a)the property located at Billbrookdeich 167‑171, 22113 Hamburg, Germany;\n(b)the property located at Werner von Siemens‑Strasse 44, 66793 Saarwellingen, Germany;\n(c)the property located at Thomas Dachser Strasse 3, 66802 Überherrn, Germany;\n(d)the property located at Hans‑Fleißner Straße 46‑48, 63329 Egelsbach, Germany."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (FLT Europe Pte. Ltd. — Section 13(12) Exemption) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

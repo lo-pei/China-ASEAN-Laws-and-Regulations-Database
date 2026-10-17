@@ -1,7 +1,7 @@
 {
  "id": "SG-H2917",
  "title": {
-  "zh": null,
+  "zh": "法官薪酬（年度可计退休金薪金）命令",
   "en": "Judges’ Remuneration (Annual Pensionable Salary) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be paid to —\n(a)the Chief Justice an annual pensionable salary of $347,400;\n(b)every Justice of the Court of Appeal an annual pensionable salary of $253,200;\n[S 1058/2020 wef 02/01/2021]\n(c)every Judge of the Appellate Division an annual pensionable salary of $244,200; and\n[S 1058/2020 wef 02/01/2021]\n(d)every Judge of the High Court an annual pensionable salary of $234,600.\n[S 1058/2020 wef 02/01/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Judges’ Remuneration (Annual Pensionable Salary) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4159",
  "title": {
-  "zh": null,
+  "zh": "为新比斯开省增设2个Assistant 省立 Fiscal职位，为此修订《行政法典》第1674条（经修正）的法案",
   "en": "An Act Creating Two Additional Positions of Assistant Provincial Fiscal for the Province of Nueva Vizcaya, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended",
   "orig": "An Act Creating Two Additional Positions of Assistant Provincial Fiscal for the Province of Nueva Vizcaya, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating Two Additional Positions of Assistant Provincial Fiscal for the Province of Nueva Vizcaya, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

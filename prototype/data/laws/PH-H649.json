@@ -1,7 +1,7 @@
 {
  "id": "PH-H649",
  "title": {
-  "zh": null,
+  "zh": "修订题为《设立政府服务保险系统、规定其管理并为此拨付必要资金的法案》的第 186 号联邦法，并规定退休保险及为其他目的法案",
   "en": "An Act to Amend Commonwealth Act Numbered One Hundred and Eighty-six Entitled \"An Act to Create and Establish a Government Service Insurance System, to Provide for Its Administration, and to Appropriate the Necessary Funds Therefor,\" and to Provide Retirement Insurance and for Other Purposes",
   "orig": "An Act to Amend Commonwealth Act Numbered One Hundred and Eighty-six Entitled \"An Act to Create and Establish a Government Service Insurance System, to Provide for Its Administration, and to Appropriate the Necessary Funds Therefor,\" and to Provide Retirement Insurance and for Other Purposes"
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H649-A2_2",
+   "id": "PH-H649-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Section four of Commonwealth Act Numbered One hundred and eighty-six is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H649-A4",
@@ -101,14 +102,15 @@
    }
   },
   {
-   "id": "PH-H649-A4_2",
+   "id": "PH-H649-A4-d2",
    "no": 4,
    "noLabel": {
     "en": "Section 4."
    },
    "text": {
     "en": "Section six of Commonwealth Act Numbered One hundred and eighty-six is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H649-A6",
@@ -121,14 +123,15 @@
    }
   },
   {
-   "id": "PH-H649-A5_2",
+   "id": "PH-H649-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Section 5."
    },
    "text": {
     "en": "Section seven of Commonwealth Act Numbered One hundred and eighty-six is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H649-A7",
@@ -141,14 +144,15 @@
    }
   },
   {
-   "id": "PH-H649-A6_2",
+   "id": "PH-H649-A6-d2",
    "no": 6,
    "noLabel": {
     "en": "Section 6."
    },
    "text": {
     "en": "Section eight of Commonwealth Act Numbered One hundred and eighty-six is hereby amended to read as follows:\n\"I-Life Insurance Benefit \""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H649-A8",
@@ -161,14 +165,15 @@
    }
   },
   {
-   "id": "PH-H649-A7_2",
+   "id": "PH-H649-A7-d2",
    "no": 7,
    "noLabel": {
     "en": "Section 7."
    },
    "text": {
     "en": "Section ten of Commonwealth Act Numbered One hundred and eighty-six is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H649-A10",
@@ -181,14 +186,15 @@
    }
   },
   {
-   "id": "PH-H649-A8_2",
+   "id": "PH-H649-A8-d2",
    "no": 8,
    "noLabel": {
     "en": "Section 8."
    },
    "text": {
     "en": "The following new sections are hereby inserted in Commonwealth Act Numbered One hundred and eighty-six:\n\"II.-Retirement Insurance Benefit \""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H649-A11",
@@ -241,24 +247,26 @@
    }
   },
   {
-   "id": "PH-H649-A10_2",
+   "id": "PH-H649-A10-d2",
    "no": 10,
    "noLabel": {
     "en": "Section 10."
    },
    "text": {
     "en": "Section twelve of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section fifteen."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H649-A11_2",
+   "id": "PH-H649-A11-d2",
    "no": 11,
    "noLabel": {
     "en": "Section 11."
    },
    "text": {
     "en": "Section thirteen of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section sixteen and is amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H649-A16",
@@ -271,14 +279,15 @@
    }
   },
   {
-   "id": "PH-H649-A12_2",
+   "id": "PH-H649-A12-d2",
    "no": 12,
    "noLabel": {
     "en": "Section 12."
    },
    "text": {
     "en": "Section fourteen of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section seventeen and is amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H649-A17",
@@ -291,14 +300,15 @@
    }
   },
   {
-   "id": "PH-H649-A13_2",
+   "id": "PH-H649-A13-d2",
    "no": 13,
    "noLabel": {
     "en": "Section 13."
    },
    "text": {
     "en": "Section fifteen of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section eighteen and is amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H649-A18",
@@ -311,14 +321,15 @@
    }
   },
   {
-   "id": "PH-H649-A14_2",
+   "id": "PH-H649-A14-d2",
    "no": 14,
    "noLabel": {
     "en": "Section 14."
    },
    "text": {
     "en": "Section sixteen of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section nineteen and is amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H649-A19",
@@ -341,44 +352,48 @@
    }
   },
   {
-   "id": "PH-H649-A16_2",
+   "id": "PH-H649-A16-d2",
    "no": 16,
    "noLabel": {
     "en": "Section 16."
    },
    "text": {
     "en": "Section eighteen of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section twenty-one."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H649-A17_2",
+   "id": "PH-H649-A17-d2",
    "no": 17,
    "noLabel": {
     "en": "Section 17."
    },
    "text": {
     "en": "Section nineteen of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section twenty-two."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H649-A18_2",
+   "id": "PH-H649-A18-d2",
    "no": 18,
    "noLabel": {
     "en": "Section 18."
    },
    "text": {
     "en": "Section twenty of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section twenty-three."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H649-A19_2",
+   "id": "PH-H649-A19-d2",
    "no": 19,
    "noLabel": {
     "en": "Section 19."
    },
    "text": {
     "en": "Section twenty-one of Commonwealth Act Numbered one hundred and eighty-six is hereby changed to section twenty-four and is amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H649-A24",
@@ -471,14 +486,15 @@
    }
   },
   {
-   "id": "PH-H649-A24_2",
+   "id": "PH-H649-A24-d2",
    "no": 24,
    "noLabel": {
     "en": "Section 24."
    },
    "text": {
     "en": "Section twenty-nine to read as follows is hereby added to Commonwealth Act Numbered One hundred and eighty-six:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H649-A29",
@@ -491,34 +507,45 @@
    }
   },
   {
-   "id": "PH-H649-A25_2",
+   "id": "PH-H649-A25-d2",
    "no": 25,
    "noLabel": {
     "en": "Section 25."
    },
    "text": {
     "en": "Section twenty-six of Commonwealth Act Numbered One hundred and eighty-six is hereby changed to section thirty."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H649-A26_2",
+   "id": "PH-H649-A26-d2",
    "no": 26,
    "noLabel": {
     "en": "Section 26."
    },
    "text": {
     "en": "Notwithstanding the provisions of this Act to the contrary, any officer or employee who died in the service within three years before said Act went into effect and who had rendered at least thirty-five years of service and who was entitled to or who could have established his right to the retirement gratuity provided for in Act Numbered Twenty-five hundred and eighty-nine, as amended, or to any other retirement benefits from any pension fund created by law shall be considered retired under the provisions of this Act if his wife, or in her default, his other legal heirs shall so elect and notify the System to that effect. Upon making such election, the wife or legal heirs of the deceased officer or employee shall be paid the monthly annuity for five consecutive years or such other benefit as provided in said Act, in lieu of the retirement gratuity or retirement benefits to which the deceased was entitled at the time of his death; and any portion of such gratuity or retirement benefits already paid to his wife or other legal heirs shall be refunded to the System: Provided, That contributions corresponding to his last five years of service shall be deducted monthly from his life annuity.\nNotwithstanding any provisions of this Act to the contrary, any officer or employee whose position was abolished or who was separated from the service as a consequence of the reorganization provided for in Republic Act Numbered Four hundred and twenty-two may be retired under the provisions of this Act if qualified: Provided, That any gratuity or retirement benefit already received by him shall be refunded to the System: Provided, further, That contributions corresponding to his last five years of service shall be paid as provided in section twelve of this Act. This provision shall also apply to any member of the judiciary who, prior to the approval of this Act, was separated from the service after reaching seventy years of age and rendering at least thirty years of service and who is not entitled to retirement benefit under any law.\nNotwithstanding any provisions of this Act to the contrary, any officer or employee, who has not established his right to retire under Act Numbered Twenty-five hundred and eighty-nine or under Act Numbered Forty-one hundred and eighty-three, both as amended, but who has rendered not less than twenty-five years of service and has attained the age of fifty-seven years may elect to retire under either of said Acts if he shall establish such right within one year from the date of the approval of this Act, or under this Act if otherwise qualified."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H649-A27_2",
+   "id": "PH-H649-A27-d2",
    "no": 27,
    "noLabel": {
     "en": "Section 27."
    },
    "text": {
     "en": "This Act shall take effect upon its approval: Provided, That if the financial condition of an employer does not permit payment of its contributions for retirement insurance herein required, such payment may be deferred under such conditions as the System may prescribe.\nApproved, June 16, 1951."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Commonwealth Act Numbered One Hundred and Eighty-six Entitled \"An Act to Create and Establish a Government Service Insurance System, to Provide for Its Administration, and to Appropriate the Necessary Funds Therefor,\" and to Provide Retirement Insurance and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

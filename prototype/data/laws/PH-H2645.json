@@ -1,7 +1,7 @@
 {
  "id": "PH-H2645",
  "title": {
-  "zh": null,
+  "zh": "设立三宝颜市的法案",
   "en": "An Act Creating the of City of Zamboanga",
   "orig": "An Act Providing for the Transfer Free of Charge of All Buildings, Properties and Assets Belonging to the Former Province of Zamboanga and Located Within the City of Zamboanga to the Said City, by Amending Section Fifty of Commonwealth Act Numbered Thirty-Nine, Entitled “An Act Creating the of City of Zamboanga”"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the of City of Zamboanga",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1783",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（设计—建造—销售计划——归属）公告",
   "en": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) Notification",
   "orig": null
  },
@@ -94,5 +94,13 @@
     "en": "SECOND SCHEDULE\nParagraph 2\nApartment Block\nStreet Name\nUnit No.\n518A\nTampines Central 7\n#01-80.\n[G.N. No. S 701/2008]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

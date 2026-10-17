@@ -1,7 +1,7 @@
 {
  "id": "SG-H3497",
  "title": {
-  "zh": null,
+  "zh": "支付服务法 2019",
   "en": "Payment Services Act 2019",
   "orig": null
  },
@@ -2400,5 +2400,13 @@
     "en": "SECOND SCHEDULE\nSections 4(2) and 107(1)\nSpecified provisions\n1.Section 13(3)\n2.Section 100(4)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Payment Services Act 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H086",
  "title": {
-  "zh": null,
+  "zh": "主动出行（人行道——临时停止使用）（Singapore T100）命令 2026",
   "en": "Active Mobility (Footpaths — Temporary Discontinuation) (Singapore T100) Order 2026",
   "orig": null
  },
@@ -97,5 +97,13 @@
     "en": "SECOND SCHEDULE\nParagraph 3\nFirst column\nSecond column\n1.Map 1 footpath\n(a)25 April 2026 from 8 a.m. to 8 p.m.\n(b)26 April 2026 from 4 a.m. to 6 p.m.\n2.Map 2 footpath\n(a)25 April 2026 from 8 a.m. to 8 p.m.\n(b)26 April 2026 from 4 a.m. to 6 p.m.\n3.Map 3 footpath\nFrom 12 a.m. on 25 April 2026 to 11.59 p.m. on 26 April 2026"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Footpaths — Temporary Discontinuation) (Singapore T100) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H496",
  "title": {
-  "zh": null,
+  "zh": "授予Maria De La Rosa在马斯巴特省Cataingan与Placer市镇经营电灯、热力与动力系统特许经营权的法案",
   "en": "An Act Granting Maria De La Rosa a Franchise for an Electric Light, Heat and Power System in the Municipalities of Cataingan and Placer, Province of Masbate",
   "orig": "An Act Granting Maria De La Rosa a Franchise for an Electric Light, Heat and Power System in the Municipalities of Cataingan and Placer, Province of Masbate"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Maria De La Rosa a Franchise for an Electric Light, Heat and Power System in the Municipalities of Cataingan and Placer, Province of Masbate",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H721",
  "title": {
-  "zh": null,
+  "zh": "委员会",
   "en": "Commission",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Inquiry Commissions Ordinance\nChapter 52, 1955 Revised Edition\nCommission\nN 25\nG.N. No. S 1021/1963\nREVISED EDITION 1990\n( )\n[9 May 1963]\nELIZABETH THE SECOND, by the Grace of God of the United Kingdom of Great Britain and Northern Ireland and of Her Other Realms and Territories QUEEN, Head of the Commonwealth, Defender of the Faith.\nBy His Excellency WEE CHONG JIN, Esq., Officer performing the functions of the Yang di-Pertuan Negara of the State of Singapore.\nWhereas it is provided by the Inquiry Commissions Ordinance that it shall be lawful for the Yang di-Pertuan Negara whenever he shall deem it advisable, to issue a Commission appointing one or more Commissioners to enquire inter alia into any matter in which an inquiry would, in the opinion of the Yang di-Pertuan Negara, be for the public welfare:\nAnd whereas I am of the opinion that it is in the public welfare that an inquiry should forthwith be made by Commissioners so appointed in accordance with the following terms of reference:\n(a)to examine the unresolved issues arising from the implementation of the Agreement dated 24th November 1961 between the Public Daily Rated Employees’ Unions’ Federation and the Government and to make recommendations for the settlement of such unresolved issues;\n(b)to consider, having regard to the policy of the Government of the Federation of Malaya, the desirability of the conversion of daily rated employees in Government service to monthly-rated employees; and\n(c)if the Commission considers it desirable that there should be such conversion, to make recommendations, in the light of its recommendations in respect of the first term of reference, on the manner and the terms of such conversion, and the terms and conditions of service following on such conversion.\nNow, therefore, I, WEE CHONG JIN, Officer performing the functions of the Yang di-Pertuan Negara, hereby appoint the following persons, namely:\nMr. Pang Tee Pow (Chairman );\nMr. D. J. Blake;\nMr. Lee Keng Tuan;\nMr. S. R. Nathan; and\nMr. Chue Shui Hoong,\nto be Commissioners and hereby authorise the said Commissioners to conduct such inquiry in the manner hereinafter directed:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

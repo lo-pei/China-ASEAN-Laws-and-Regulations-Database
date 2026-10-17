@@ -1,7 +1,7 @@
 {
  "id": "PH-H9192",
  "title": {
-  "zh": null,
+  "zh": "宣布每年10月5日为全国教师日的法案",
   "en": "An Act Declaring the Fifth Day of October of Every Year as The National Teachers’ Day",
   "orig": "An Act Declaring the Fifth Day of October of Every Year as The National Teachers’ Day"
  },
@@ -70,5 +70,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen 15 days after its complete publication in the Official Gazette or in at least two (2) newspapers of general circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the Fifth Day of October of Every Year as The National Teachers’ Day",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

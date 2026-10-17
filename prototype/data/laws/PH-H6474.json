@@ -1,7 +1,7 @@
 {
  "id": "PH-H6474",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛省 Barotac Nuevo 市镇国立综合中学改设为名为 Barotac Nuevo 理工学院的理工学院并为其拨款的法案",
   "en": "An Act Providing for the Conversion of the Barotac Nuevo National Comprehensive High School in the Municipality of Barotac Nuevo, Province of Iloilo, Into a Polytechnic Institute to Be Known as the Barotac Nuevo Polytechnic Institute and Appropriating Funds Therefor",
   "orig": "An Act Providing for the Conversion of the Barotac Nuevo National Comprehensive High School in the Municipality of Barotac Nuevo, Province of Iloilo, Into a Polytechnic Institute to Be Known as the Barotac Nuevo Polytechnic Institute and Appropriating Funds Therefor"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Conversion of the Barotac Nuevo National Comprehensive High School in the Municipality of Barotac Nuevo, Province of Iloilo, Into a Polytechnic Institute to Be Known as the Barotac Nuevo Polytechnic Institute and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

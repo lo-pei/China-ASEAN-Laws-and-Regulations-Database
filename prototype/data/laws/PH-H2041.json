@@ -1,7 +1,7 @@
 {
  "id": "PH-H2041",
  "title": {
-  "zh": null,
+  "zh": "授予 Evangelista and Company 在邦板牙省 Angeles 市镇安装、运营和维护电话系统的特许经营权法案",
   "en": "An Act Granting Evangelista and Company a Franchise to Install, Operate and Maintain a Telephone System in the Municipality of Angeles, Province of Pampanga",
   "orig": "An Act Granting Evangelista and Company a Franchise to Install, Operate and Maintain a Telephone System in the Municipality of Angeles, Province of Pampanga"
  },
@@ -240,5 +240,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Evangelista and Company a Franchise to Install, Operate and Maintain a Telephone System in the Municipality of Angeles, Province of Pampanga",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

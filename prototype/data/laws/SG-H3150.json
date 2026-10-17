@@ -1,7 +1,7 @@
 {
  "id": "SG-H3150",
  "title": {
-  "zh": null,
+  "zh": "心智能力（专业代理人注册豁免）命令 2018",
   "en": "Mental Capacity (Exemption from Registration as Professional Deputy) Order 2018",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. A person mentioned in paragraph 3 is exempt from the requirement to register as a professional deputy under section 25A(1) of the Act, in respect of his or her discharge of any functions of a donee or deputy in relation to any P mentioned in paragraph 3."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Mental Capacity (Exemption from Registration as Professional Deputy) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

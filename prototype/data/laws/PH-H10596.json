@@ -1,7 +1,7 @@
 {
  "id": "PH-H10596",
  "title": {
-  "zh": null,
+  "zh": "将菲律宾综合医院床位由一千三百三十四（1,334）张增至两千两百（2,200）张并为其拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Philippine General Hospital From One Thousand Three Hundred Thirty-four (1,334) to Two Thousand Two Hundred (2,200) Beds, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Philippine General Hospital From One Thousand Three Hundred Thirty-four (1,334) to Two Thousand Two Hundred (2,200) Beds, and Appropriating Funds Therefor"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Philippine General Hospital From One Thousand Three Hundred Thirty-four (1,334) to Two Thousand Two Hundred (2,200) Beds, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7798",
  "title": {
-  "zh": null,
+  "zh": "2005 年自然减员法",
   "en": "Attrition Act of 2005",
   "orig": "Attrition Act of 2005 An Act to improve the Revenue Collection Performance of the Bureau of Internal Revenue (BIR) and the Bureau of Customs (BOC) through the creation of a rewards and incentives fund and of a revenue performance evaluation board and for other purposes"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in at least two newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Attrition Act of 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

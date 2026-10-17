@@ -1,7 +1,7 @@
 {
  "id": "PH-H195",
  "title": {
-  "zh": null,
+  "zh": "豁免菲律宾航海学校毕业、曾在远洋帆船或远洋汽船上担任Agregado a Piloto的三副证书申请人参加技术考试，为此修订《修订行政法典》第1191条（D）项的法案",
   "en": "An Act Exempting from the Technical Examination Applicants for Certificate as Third Mates Who are Graduates of the Philippine Nautical School Who Have Served as Agregado a Piloto in a Seagoing Sailing Vessel or in a Seagoing Steamer, by Amending Subsection (D) of Section Eleven Hundred and Ninety-One of the Revised Administrative Code",
   "orig": "An Act Exempting from the Technical Examination Applicants for Certificate as Third Mates Who are Graduates of the Philippine Nautical School Who Have Served as Agregado a Piloto in a Seagoing Sailing Vessel or in a Seagoing Steamer, by Amending Subsection (D) of Section Eleven Hundred and Ninety-One of the Revised Administrative Code"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: March 24, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Exempting from the Technical Examination Applicants for Certificate as Third Mates Who are Graduates of the Philippine Nautical School Who Have Served as Agregado a Piloto in a Seagoing Sailing Vessel or in a Seagoing Steamer, by Amending Subsection (D) of Section Eleven Hundred and Ninety-One of the Revised Administrative Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

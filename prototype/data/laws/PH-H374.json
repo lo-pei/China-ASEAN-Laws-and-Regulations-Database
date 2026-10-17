@@ -1,7 +1,7 @@
 {
  "id": "PH-H374",
  "title": {
-  "zh": null,
+  "zh": "授权马尼拉市市议会按火灾保险公司在马尼拉境内财产所收保费总额课征不超过0.5%的市税，其收益专用于为市消防局购置消防设备，并为其他目的法案",
   "en": "An Act Authorizing the Municipal Board of the City of Manila to Impose a Municipal Tax, not to Exceed One-Half of One Per Centum, on the Total Amount of Premiums Received by Fire Insurance Companies on Properties Situated in Manila, the Proceeds of Which Shall be Utilized Exclusively for the Acquisition of Fire-Fighting Equipment for the City Fire Department, and for Other Purposes",
   "orig": "An Act Authorizing the Municipal Board of the City of Manila to Impose a Municipal Tax, not to Exceed One-Half of One Per Centum, on the Total Amount of Premiums Received by Fire Insurance Companies on Properties Situated in Manila, the Proceeds of Which Shall be Utilized Exclusively for the Acquisition of Fire-Fighting Equipment for the City Fire Department, and for Other Purposes"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Municipal Board of the City of Manila to Impose a Municipal Tax, not to Exceed One-Half of One Per Centum, on the Total Amount of Premiums Received by Fire Insurance Companies on Properties Situated in Manila, the Proceeds of Which Shall be Utilized Exclusively for the Acquisition of Fire-Fighting Equipment for the City Fire Department, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

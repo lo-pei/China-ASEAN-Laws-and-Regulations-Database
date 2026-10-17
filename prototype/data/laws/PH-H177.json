@@ -1,7 +1,7 @@
 {
  "id": "PH-H177",
  "title": {
-  "zh": null,
+  "zh": "设立五百万比索垫款基金以资助各省与特许城市不动产估价全面修订的法案",
   "en": "An Act to Create an Advance Fund of Five Million Pesos to Finance a General Revision of Real Property Assessments in the Provinces and Chartered Cities",
   "orig": "An Act to Create an Advance Fund of Five Million Pesos to Finance a General Revision of Real Property Assessments in the Provinces and Chartered Cities"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: October 21, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Create an Advance Fund of Five Million Pesos to Finance a General Revision of Real Property Assessments in the Provinces and Chartered Cities",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

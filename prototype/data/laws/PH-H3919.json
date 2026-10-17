@@ -1,7 +1,7 @@
 {
  "id": "PH-H3919",
  "title": {
-  "zh": null,
+  "zh": "授权高山省Lamut市镇Payon Bugan农业试点机会学校在现有课程外开设四年制正规职业农业课程",
   "en": "An Act Authorizing the Payon Bugan Pilot Opportunity School of Agriculture in the Municipality of Lamut, Mountain Province, to Offer a Four-Year Regular Vocational Agricultural Course in Addition to its Present Curriculum",
   "orig": "An Act Authorizing the Payon Bugan Pilot Opportunity School of Agriculture in the Municipality of Lamut, Mountain Province, to Offer a Four-Year Regular Vocational Agricultural Course in Addition to its Present Curriculum"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Payon Bugan Pilot Opportunity School of Agriculture in the Municipality of Lamut, Mountain Province, to Offer a Four-Year Regular Vocational Agricultural Course in Addition to its Present Curriculum",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

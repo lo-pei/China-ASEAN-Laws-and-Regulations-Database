@@ -1,7 +1,7 @@
 {
  "id": "PH-H273",
  "title": {
-  "zh": null,
+  "zh": "将 Ormoc 设立为市法案",
   "en": "An Act Creating Ormoc City",
   "orig": "An Act Creating Ormoc City"
  },
@@ -1207,5 +1207,13 @@
     "en": "This Act shall take effect upon proclamation of the President of the Philippines.\nApproved: June 21, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating Ormoc City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

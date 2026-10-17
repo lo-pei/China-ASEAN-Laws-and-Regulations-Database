@@ -1,7 +1,7 @@
 {
  "id": "SG-H773",
  "title": {
-  "zh": null,
+  "zh": "公司（费用与逾期提交罚款）条例 2015",
   "en": "Companies (Fees and Late Lodgment Penalties) Regulations 2015",
   "orig": null
  },
@@ -136,5 +136,11 @@
     "en": "SECOND SCHEDULE\nRegulations 4 and 6(1)\nLate lodgment penalties\nFirst column\nSecond column\nType of late filing or lodgment\nLate lodgment penalty\n1.Penalty for late lodgment of annual return under section 197 of the Act or financial statements under section 373 of the Act according to length of default (calculated in terms of months after the date on which document was required to be lodged)\n(a)up to 3 months\n$300\n(b)exceeding 3 months\n$600\n2.Penalty for late filing or lodgment of any other document according to length of default (calculated in terms of months after the date on which document was required to be filed or lodged)\n(a)up to 3 months\n$50\n(b)exceeding 3 months\n$200\n[S 950/2024 wef 09/12/2024]\n[S 27/2022 wef 14/01/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Companies (Fees and Late Lodgment Penalties) Regulations 2015",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

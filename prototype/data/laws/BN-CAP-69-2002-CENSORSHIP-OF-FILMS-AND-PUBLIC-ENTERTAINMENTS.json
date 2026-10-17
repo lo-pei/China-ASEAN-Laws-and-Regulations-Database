@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-69-2002-CENSORSHIP-OF-FILMS-AND-PUBLIC-ENTERTAINMENTS",
  "title": {
-  "zh": null,
+  "zh": "电影与公共娱乐审查",
   "en": "CENSORSHIP OF FILMS AND PUBLIC ENTERTAINMENTS",
   "orig": null
  },
@@ -228,5 +228,13 @@
     "en": "(1) The Minister with the approval of His Majesty may make regulations generally for carrying out the provisions of this Act and, in particular, such regulations may provide for —\n\n(a) the arrangements to be made for the censorship of any film or public entertainment, or of any advertising matter relating to a film or public entertainment; and\n\n(b) the procedure to be followed upon any appeal to the Board of Review, upon any direction under section 11 or upon any prohibition under section 11 or 14.\n\n(2) Any regulations made under this section may provide that a contravention of any regulation shall constitute an offence punishable by such penalties as may be prescribed not exceeding imprisonment for 3 months and a fine of $6,000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CENSORSHIP OF FILMS AND PUBLIC ENTERTAINMENTS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

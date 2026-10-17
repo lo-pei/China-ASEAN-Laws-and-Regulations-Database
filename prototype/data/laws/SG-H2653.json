@@ -1,7 +1,7 @@
 {
  "id": "SG-H2653",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 11 号）命令 2020",
   "en": "Infrastructure Protection (Protected Places) (No. 11) Order 2020",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\n(1)[Deleted by S 492/2026 wef 12/07/2026]\nChief Executive,\nSMRT Trains,\nSMRT Corporation Ltd.\n(2)MRT ULU PANDAN DEPOT\nAll that area comprised in part of Land Lot 8614P in Mukim No. 5 (PANDAN) occupied by “MRT ULU PANDAN DEPOT” containing an area of about 165,192 square metres and bounded approximately as follows:\nCommencing at the western-most corner at a point 34,397.0 metres North and 19,645.8 metres East of the Survey Department origin of coordinates, the boundaries run along successive lines of bearings and distances as follows:\nBearing\nDistance in metres\n88° 36'\n32.8\n91° 06'\n42.2\n89° 56'\n38.7\n65° 07'\n37.6\n40° 28'\n35.6\n34° 34'\n36.6\n5° 43'\n18.3\n9° 56'\n62.3\n354° 25'\n9.4\n356° 14'\n78.7\n36° 09'\n18.9\n1° 34'\n76.6\n337° 46'\n28.6\n342° 43'\n3.3\n336° 46'\n35.6\n68° 48'\n12.5\n69° 19'\n13.5\n349° 18'\n22.5\n327° 22'\n52.2\n329° 47'\n55.4\n342° 45'\n19.5\n342° 48'\n12.3\n342° 29'\n12.3\n344° 56'\n4.9\n344° 50'\n8.8\n261° 01'\n0.2 (along a wall)\n351° 01'\n12.2 (along a gate and wall)\n81° 01'\n0.2 (along a wall)\n351° 00'\n14.0\n350° 52'\n14.0\n351° 11'\n16.8\n353° 20'\n5.7\n359° 38'\n5.9\n3° 32'\n8.8\n3° 09'\n27.2\n3° 33'\n13.8\n359° 08'\n8.7\n2° 33'\n23.8\n6° 41'\n10.1\n19° 25'\n41.8\n33° 32'\n7.5\n45° 56'\n8.5\n54° 11'\n14.9\n61° 26'\n2.7 (along a wall)\n68° 18'\n7.4\n80° 06'\n9.8\n89° 29'\n9.8\n99° 44'\n10.1\n104° 01'\n35.5\n97° 33'\n45.2\n103° 08'\n16.1\n183° 21'\n11.5\n179° 32'\n63.4\n179° 55'\n29.9\n179° 57'\n30.1\n180° 02'\n33.0\n179° 57'\n36.5\n180° 00'\n69.7\n180° 02'\n59.5\n179° 55'\n23.3\n262° 54'\n25.9\n180° 00'\n22.9\n99° 32'\n25.9\n180° 03'\n59.0\n180° 00'\n54.5\n180° 03'\n30.0\n180° 03'\n73.8\n179° 53'\n57.2\n180° 04'\n55.3\n180° 01'\n74.1\n179° 54'\n55.8\n180° 07'\n47.5\n179° 58'\n56.0\n179° 58'\n24.3\n179° 57′\n40.5\n180° 02'\n47.2\n269° 59'\n50.8\n269° 53'\n68.6\n316° 46'\n39.0\n316° 47'\n68.9\n316° 51'\n70.9\n316° 45'\n50.0\n350° 19'\n42.5\n350° 18'\n76.4\nto the point of commencement.\nThe boundaries of “MRT ULU PANDAN DEPOT” are more particularly delineated in the Plan set out below.\n[S 492/2026 wef 12/07/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 11) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

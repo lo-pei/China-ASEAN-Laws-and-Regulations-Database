@@ -1,7 +1,7 @@
 {
  "id": "PH-H7263",
  "title": {
-  "zh": null,
+  "zh": "将宿务省第二座曼达维—马克坦大桥命名为马塞洛·B·费尔南大桥的法案",
   "en": "An Act Naming the 2nd Mandaue-Mactan Bridge in the Province of Cebu as the Marcelo B. Fernan Bridge",
   "orig": "An Act Naming the 2nd Mandaue-Mactan Bridge in the Province of Cebu as the Marcelo B. Fernan Bridge"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the 2nd Mandaue-Mactan Bridge in the Province of Cebu as the Marcelo B. Fernan Bridge",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5433",
  "title": {
-  "zh": null,
+  "zh": "将布拉干省巴拉格塔斯市镇桑托尔描笼涯的名称变更为Dr. Nemesio G. Garcia, Sr.描笼涯的法案",
   "en": "An Act Changing the Name of Barangay Santol, Municipality of Balagtas, Province of Bulacan, to Barangay Dr. Nemesio G. Garcia, Sr.",
   "orig": "An Act Changing the Name of Barangay Santol, Municipality of Balagtas, Province of Bulacan, to Barangay Dr. Nemesio G. Garcia, Sr."
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its publication in at least two national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Barangay Santol, Municipality of Balagtas, Province of Bulacan, to Barangay Dr. Nemesio G. Garcia, Sr.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

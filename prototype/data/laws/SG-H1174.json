@@ -1,7 +1,7 @@
 {
  "id": "SG-H1174",
  "title": {
-  "zh": null,
+  "zh": "外交与领事关系（IEA 区域合作中心）命令 2025",
   "en": "Diplomatic and Consular Relations (IEA Regional Cooperation Centre) Order 2025",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9.—(1) Despite anything in this Order but without affecting any immunity or privilege under the IO Order, any immunity or privilege conferred on a person under paragraph 3, 5, 6, 7 or 8 does not apply to that person if, in any particular case, it is waived by the competent authority.\n(2) In sub‑paragraph (1), “competent authority” means —\n(a)in the case of an IEA representative who is an IEA Governor — the member country of the IEA on whose behalf the IEA Governor attends the meeting convened by the IEA in Singapore;\n(b)in the case of any other IEA representative — the member country of the IEA, association country of the IEA, accession country of the IEA, ASEAN country or intergovernmental organisation (as the case may be) on whose behalf the IEA representative attends the meeting convened by the IEA in Singapore;\n(c)in the case of an official or IEA expert (other than the Secretary‑General of the OECD or the Executive Director of the IEA) — the Secretary‑General of the OECD; or\n(d)in the case of the Secretary‑General of the OECD or the Executive Director of the IEA — the OECD."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Diplomatic and Consular Relations (IEA Regional Cooperation Centre) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

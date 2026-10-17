@@ -1,7 +1,7 @@
 {
  "id": "SG-H261",
  "title": {
-  "zh": null,
+  "zh": "武器犯罪法 1973",
   "en": "Arms Offences Act 1973",
   "orig": null
  },
@@ -228,5 +228,13 @@
     "en": "THE SCHEDULE\nSections 2, 3(3) and (4), 4A, 8 and 12\nScheduled offences\n1. Being a member of an unlawful assembly under sections 143 to 145 of the Penal Code 1871.\n2. Rioting under sections 147, 148 and 152 of the Penal Code 1871.\n3. Offences against the person under sections 302, 304, 307, 324 to 327, 329 to 333, 356, 357 and 506 of the Penal Code 1871.\n4. Abduction or kidnapping under sections 361, 363 to 367 of the Penal Code 1871; and sections 3 to 5 of the Kidnapping Act 1961.\n5. Extortion under sections 384 to 389 of the Penal Code 1871.\n6. House‑breaking under sections 442, 448 to 453, 458A, 459 and 460 of the Penal Code 1871.\n7. Robbery under sections 392 to 397, 399 and 402 of the Penal Code 1871.\n8. Preventing or resisting arrest under sections 224 and 225 of the Penal Code 1871.\n9. Vandalism under section 3 of the Vandalism Act 1966.\n10. Mischief under sections 435, 436, 438 and 440 of the Penal Code 1871.\n[15/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Arms Offences Act 1973",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

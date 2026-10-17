@@ -1,7 +1,7 @@
 {
  "id": "SG-H3633",
  "title": {
-  "zh": null,
+  "zh": "学校董事会（法人设立）法 1990",
   "en": "School Boards (Incorporation) Act 1990",
   "orig": null
  },
@@ -294,5 +294,13 @@
     "en": "16. Where a school conducted by a governing board was conducted by the Government immediately before the incorporation of the governing board, the Director‑General may transfer to the governing board any property which immediately before the date of incorporation was property used or held by the Director‑General for the purposes of the school."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "School Boards (Incorporation) Act 1990",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9931",
  "title": {
-  "zh": null,
+  "zh": "扩大东达沃省 Malita 市镇 Poblacion 描笼涯 Malita 区医院的服务并将其更名为 Malita 妇幼保健中心的法案",
   "en": "An Act Expanding the Services of the Malita District Hospital in Barangay Poblacion, Municipality of Malita, Province of Davao Occidental, Renaming it as the Malita Women's and Children's Wellness Center.",
   "orig": "An Act Expanding the Services of the Malita District Hospital in Barangay Poblacion, Municipality of Malita, Province of Davao Occidental, Renaming it as the Malita Women's and Children's Wellness Center."
  },
@@ -122,5 +122,13 @@
     "en": "This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Expanding the Services of the Malita District Hospital in Barangay Poblacion, Municipality of Malita, Province of Davao Occidental, Renaming it as the Malita Women's and Children's Wellness Center.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

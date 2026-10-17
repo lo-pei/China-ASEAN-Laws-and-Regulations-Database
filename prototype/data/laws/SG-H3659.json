@@ -1,7 +1,7 @@
 {
  "id": "SG-H3659",
  "title": {
-  "zh": null,
+  "zh": "新加坡红十字会法 1973",
   "en": "Singapore Red Cross Society Act 1973",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "12. The income and property of the Society from wherever derived must be applied solely towards the promotion of the objects of the Society as set out in this Act and no part thereof may be paid or transferred directly or indirectly by way of dividend, bonus or otherwise by way of profit to the members of the Society:\nProvided that nothing in this section precludes the payment in good faith of remuneration to any officer or employee of the Society or to any member of the Society in return for services rendered to the Society."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Singapore Red Cross Society Act 1973",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

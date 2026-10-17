@@ -1,7 +1,7 @@
 {
  "id": "SG-H902",
  "title": {
-  "zh": null,
+  "zh": "COVID-19（临时措施）（财产税减免利益转移）条例 2020",
   "en": "COVID-19 (Temporary Measures) (Transfer of Benefit of Property Tax Remission) Regulations 2020",
   "orig": null
  },
@@ -358,5 +358,13 @@
     "en": "14.—(1) Where —\n(a)the owner of the property has before 19 December 2020 passed an amount of the benefit for the property to a tenant of the property;\n(b)the amount of the benefit passed to the tenant would (but for the retrospective application of regulation 6A, 6B, 7A or 7B (as the case may be)) have been in accordance with the provisions of Parts 3 and 4; and\n(c)the amount of the benefit required to be passed to the tenant is less than the amount that was passed to the tenant because of regulation 6A, 6B, 7A or 7B (whichever is applicable),\nthen the difference between the amounts in sub-paragraphs (b) and (c) is recoverable by the owner from the tenant as a debt due to the owner.\n(2) Where —\n(a)the owner of the property passes an amount of the benefit for the property to a tenant of the property on or after 19 December 2020 in accordance with Parts 3 and 4 as in force on or after that date but before the crystallisation date; and\n(b)the amount of benefit that is required to be passed by the owner to the tenant is less than the amount that was passed to the tenant because of regulation 6A, 6B, 7A or 7B (whichever is applicable),\nthe difference between the amounts in sub-paragraphs (a) and (b) is recoverable by the owner from the tenant as a debt due to the owner.\n[S 1019/2020 wef 19/12/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "COVID-19 (Temporary Measures) (Transfer of Benefit of Property Tax Remission) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

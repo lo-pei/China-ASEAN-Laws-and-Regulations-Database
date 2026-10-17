@@ -1,7 +1,7 @@
 {
  "id": "SG-H1869",
  "title": {
-  "zh": null,
+  "zh": "房屋发展商规则",
   "en": "Housing Developers Rules",
   "orig": null
  },
@@ -327,5 +327,13 @@
     "en": "SECOND SCHEDULE\nRule 2A(1)\nRequirements for sale licence\nFirst column\nSecond column\nThird column\nHousing development\nIssued and paid-up capital\nDeposit or security\n1.At least one but not more than 50 separate units for use as residential dwelling\n$1 million\n$1 million in such form and manner and on such terms as the Controller determines.\n2.At least 51 but not more than 200 separate units for use as residential dwelling\n$2 million\n$2 million in such form and manner and on such terms as the Controller determines.\n3.At least 201 but not more than 400 separate units for use as residential dwelling\n$3 million\n$3 million in such form and manner and on such terms as the Controller determines.\n4.More than 400 separate units for use as residential dwelling\n$4 million\n$4 million in such form and manner and on such terms as the Controller determines.\n[S 93/2016 wef 01/04/2016]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Housing Developers Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

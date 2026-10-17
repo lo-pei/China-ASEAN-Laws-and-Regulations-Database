@@ -1,7 +1,7 @@
 {
  "id": "PH-H1159",
  "title": {
-  "zh": null,
+  "zh": "将卡加延-德奥罗市市长、副市长及市议会全体成员职位改为民选，为此修订第521号共和国法若干条款的法案",
   "en": "An Act Making Elective the Positions of Mayor and Vice-Mayor and the Entire Membership of the Municipal Board of the City of Cagayan De Oro, Amending for This Purpose Certain Sections of Republic Act Numbered Five Hundred Twenty-One",
   "orig": "An Act Making Elective the Positions of Mayor and Vice-Mayor and the Entire Membership of the Municipal Board of the City of Cagayan De Oro, Amending for This Purpose Certain Sections of Republic Act Numbered Five Hundred Twenty-One"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making Elective the Positions of Mayor and Vice-Mayor and the Entire Membership of the Municipal Board of the City of Cagayan De Oro, Amending for This Purpose Certain Sections of Republic Act Numbered Five Hundred Twenty-One",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

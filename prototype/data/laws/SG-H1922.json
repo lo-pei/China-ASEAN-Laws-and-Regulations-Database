@@ -1,7 +1,7 @@
 {
  "id": "SG-H1922",
  "title": {
-  "zh": null,
+  "zh": "所得税（Argosy 私人有限公司——第 13（4）条豁免）（第 2 号）公告 2023",
   "en": "Income Tax (Argosy Pte. Ltd. — Section 13(4) Exemption) (No. 2) Notification 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest of US$2,477,042 payable by Argosy Pte. Ltd. to Mizuho Bank, Ltd. during the period from 5 June 2018 to 24 June 2021 (both dates inclusive) in respect of the loan amount of US$72,000,000 under a loan agreement dated 25 March 2013 between Mizuho Bank, Ltd. and Argosy Pte. Ltd., that is used for the purpose of financing the purchase of the vessel “APL Oregon”, is exempt from tax.\n(2) The exemption in sub-paragraph (1) is subject to the conditions specified in the letter from the Ministry of Finance dated 6 April 2023 and addressed to Argosy Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Argosy Pte. Ltd. — Section 13(4) Exemption) (No. 2) Notification 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

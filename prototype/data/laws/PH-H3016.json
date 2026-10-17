@@ -1,7 +1,7 @@
 {
  "id": "PH-H3016",
  "title": {
-  "zh": null,
+  "zh": "推进审计总署现代化计划并为此提供资金的法案",
   "en": "An Act to Further the Modernization Program of the General Auditing Office and to Make Funds Available for This Purpose.",
   "orig": "An Act to Further the Modernization Program of the General Auditing Office and to Make Funds Available for This Purpose."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect on July first, nineteen hundred sixty-three.\nApproved, June 21, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further the Modernization Program of the General Auditing Office and to Make Funds Available for This Purpose.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

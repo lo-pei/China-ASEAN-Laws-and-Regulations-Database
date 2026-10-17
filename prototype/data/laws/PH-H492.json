@@ -1,7 +1,7 @@
 {
  "id": "PH-H492",
  "title": {
-  "zh": null,
+  "zh": "免除1941年12月8日未清偿债务自1942年1月1日至1945年12月31日期间累积的全部未付利息，并在特定情形下将1945年2月28日之后支付的利息冲抵仍未清偿的本金的法案",
   "en": "An Act to Condone All Unpaid Interests Accruing from January First Nineteen Hundred and Forty-Two to December Thirty-First Nineteen Hundred and Forty-Five on All Obligations Outstanding on December Eight, Nineteen Hundred and Forty-One, and to Apply Payments of Interests Paid After February Twenty-Eight, Nineteen Hundred and Forty-Five, to the Principal Obligation if Still Outstanding, in Certain Cases",
   "orig": "An Act to Condone All Unpaid Interests Accruing from January First Nineteen Hundred and Forty-Two to December Thirty-First Nineteen Hundred and Forty-Five on All Obligations Outstanding on December Eight, Nineteen Hundred and Forty-One, and to Apply Payments of Interests Paid After February Twenty-Eight, Nineteen Hundred and Forty-Five, to the Principal Obligation if Still Outstanding, in Certain Cases"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect fifteen days after its publication in the Official Gazette.\nApproved: June 18, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Condone All Unpaid Interests Accruing from January First Nineteen Hundred and Forty-Two to December Thirty-First Nineteen Hundred and Forty-Five on All Obligations Outstanding on December Eight, Nineteen Hundred and Forty-One, and to Apply Payments of Interests Paid After February Twenty-Eight, Nineteen Hundred and Forty-Five, to the Principal Obligation if Still Outstanding, in Certain Cases",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

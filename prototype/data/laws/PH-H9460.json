@@ -1,7 +1,7 @@
 {
  "id": "PH-H9460",
  "title": {
-  "zh": null,
+  "zh": "将 Ramon Magsaysay 技术大学更名为 Ramon Magsaysay 州立大学、扩大其课程设置并强化其董事会，为此修订第 8498 号共和国法的法案",
   "en": "An Act Renaming the Ramon Magsaysay Technological University (RMTU) as the President Ramon Magsaysay State University (PRMSU), Expanding its Curricular Offerings and Strengthening its Governing Board, Amending for the Purpose of Republic Act No. 8498, Entitled: \"An Act Establishing the Ramon Magsaysay Technological University Out of the Integration of the Ramon Magsaysay Polytechnic College in the Municipality of Iba, the Western Luzon Agricultural College in the Municipality of San Marcelino and the Candelaria School of Fisheries in the Municipality of Candelaria, All in Province of Zambales, and Appropriating Funds Therefor\"",
   "orig": "An Act Renaming the Ramon Magsaysay Technological University (RMTU) as the President Ramon Magsaysay State University (PRMSU), Expanding its Curricular Offerings and Strengthening its Governing Board, Amending for the Purpose of Republic Act No. 8498, Entitled: \"An Act Establishing the Ramon Magsaysay Technological University Out of the Integration of the Ramon Magsaysay Polytechnic College in the Municipality of Iba, the Western Luzon Agricultural College in the Municipality of San Marcelino and the Candelaria School of Fisheries in the Municipality of Candelaria, All in Province of Zambales, and Appropriating Funds Therefor\""
  },
@@ -121,5 +121,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Ramon Magsaysay Technological University (RMTU) as the President Ramon Magsaysay State University (PRMSU), Expanding its Curricular Offerings and Strengthening its Governing Board, Amending for the Purpose of Republic Act No. 8498, Entitled: \"An Act Establishing the Ramon Magsaysay Technological University Out of the Integration of the Ramon Magsaysay Polytechnic College in the Municipality of Iba, the Western Luzon Agricultural College in the Municipality of San Marcelino and the Candelaria School of Fisheries in the Municipality of Candelaria, All in Province of Zambales, and Appropriating Funds Therefor\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

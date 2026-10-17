@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-8-2001-CORRIGENCUM-CRIMINAL-CONDUCT-RECOVERY-OF-PRO-B0DD6E",
+ "title": {
+  "zh": "刑事行为收益追缴命令勘误 2000",
+  "en": "CORRIGENCUM CRIMINAL CONDUCT RECOVERY OF PROCEEDS ODER 2000",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p31",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 483,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-8-2001-CORRIGENCUM-CRIMINAL-CONDUCT-RECOVERY-OF-PROCEEDS-ODER-2000.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-8-2001-CORRIGENCUM-CRIMINAL-CONDUCT-RECOVERY-OF-PROCEEDS-ODER-2000.pdf》（1 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-8-2001-CORRIGENCUM-CRIMINAL-CONDUCT-RECOVERY-OF-PRO-B0DD6E-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "No. S 8\n\nCORRIGENDUM CRIMINAL CONDUCT (RECOVERY OF PROCEEDS) ORDER, 2000 (S 52/2000) In this Order, published in No. 32 of Part II of the Government Gazette, dated 27th. June, 2000, the following corrections are made in section 7-\n\n(i) in paragraph (1), the numbering of sub-paragraph \"(c)\" is deleted and is substituted with \"(b)\"; and\n\n(ii) in paragraph (8)(a}, the comma and the open-inverted comma in the first line after \"from\" is deleted and should read as \"before sentencing\"."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CORRIGENCUM CRIMINAL CONDUCT RECOVERY OF PROCEEDS ODER 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

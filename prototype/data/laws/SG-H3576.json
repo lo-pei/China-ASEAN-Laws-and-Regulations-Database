@@ -1,7 +1,7 @@
 {
  "id": "SG-H3576",
  "title": {
-  "zh": null,
+  "zh": "英格兰长老会传道会条例 1903",
   "en": "Presbyterian Church of England Mission Ordinance 1903",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. Nothing in this Ordinance shall affect the rights of the Government, or of any bodies politic or corporate, or of any other persons except those mentioned in this Ordinance, and those claiming by, from or under them.\n[7/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Presbyterian Church of England Mission Ordinance 1903",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

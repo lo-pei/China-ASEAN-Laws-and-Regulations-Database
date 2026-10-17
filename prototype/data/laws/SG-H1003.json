@@ -1,7 +1,7 @@
 {
  "id": "SG-H1003",
  "title": {
-  "zh": null,
+  "zh": "货币（全彩复印机）条例 1996",
   "en": "Currency (Full Colour Copying Machines) Regulations 1996",
   "orig": null
  },
@@ -310,5 +310,13 @@
     "en": "17. The Board may exempt any person from any of the provisions of these Regulations subject to such conditions as the Board thinks fit."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Currency (Full Colour Copying Machines) Regulations 1996",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

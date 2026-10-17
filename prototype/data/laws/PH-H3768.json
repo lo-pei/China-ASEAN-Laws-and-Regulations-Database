@@ -1,7 +1,7 @@
 {
  "id": "PH-H3768",
  "title": {
-  "zh": null,
+  "zh": "将打拉省打拉市镇马利加亚村的村立学校由Buenavista-Tete-Ungot初级小学更名为Maligaya初级小学的法案",
   "en": "An Act Changing the Name of the Barrio School in Maligaya, Municipality of Tarlac, Province of Tarlac, from Buenavista-Tete-Ungot Primary School to Maligaya Primary School",
   "orig": "An Act Changing the Name of the Barrio School in Maligaya, Municipality of Tarlac, Province of Tarlac, from Buenavista-Tete-Ungot Primary School to Maligaya Primary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Barrio School in Maligaya, Municipality of Tarlac, Province of Tarlac, from Buenavista-Tete-Ungot Primary School to Maligaya Primary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H860",
  "title": {
-  "zh": null,
+  "zh": "验尸官法 2010",
   "en": "Coroners Act 2010",
   "orig": null
  },
@@ -884,5 +884,13 @@
     "en": "THIRD SCHEDULE\nSections 25(1) and 47(1)\nDeaths for which inquiry must be held\n1.Death in Singapore of a person whose identity is not known.\n2.[Deleted by S 255/2023 wef 02/05/2023]\n3.Death in Singapore of a person where the person was, before his or her death, in official custody and where the death was related, or suspected to be related, to that custody.\n4.Any death in Singapore occurring apparently or possibly as a consequence of any law enforcement operation.\n5.Any death in Singapore occurring as a result of any accident or dangerous occurrence at a workplace to which the Workplace Safety and Health Act 2006 applies.\n6.[Deleted by S 255/2023 wef 02/05/2023]\n7.Any death in Singapore that was caused or suspected to have been caused by an unlawful act or omission.\n8.Any death in Singapore the manner or cause of which is unknown.\n9.Any death in Singapore that occurred under suspicious circumstances."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Coroners Act 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

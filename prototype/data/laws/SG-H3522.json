@@ -1,7 +1,7 @@
 {
  "id": "SG-H3522",
  "title": {
-  "zh": null,
+  "zh": "内政团队行动服务奖章规则 2014",
   "en": "Pingat Perkhidmatan Operasi Home Team (Home Team Operational Service Medal) Rules 2014",
   "orig": null
  },
@@ -178,5 +178,13 @@
     "en": "THE SCHEDULE\nRule 5(5)\nPingat Perkhidmatan Operasi Home Team\n(Home Team Operational Service Medal)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Pingat Perkhidmatan Operasi Home Team (Home Team Operational Service Medal) Rules 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

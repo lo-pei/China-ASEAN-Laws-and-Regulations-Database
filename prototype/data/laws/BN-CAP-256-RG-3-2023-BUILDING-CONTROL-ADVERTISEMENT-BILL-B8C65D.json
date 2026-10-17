@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-256-RG-3-2023-BUILDING-CONTROL-ADVERTISEMENT-BILL-B8C65D",
  "title": {
-  "zh": null,
+  "zh": "RG 3 2023 版建筑管制广告牌与招牌条例",
   "en": "RG 3 2023 ED BUILDING CONTROL ADVERTISEMENT BILLBOARD AND SIGNBOARD RG",
   "orig": null
  },
@@ -197,5 +197,13 @@
     "en": "(1) Any person who is aggrieved by any decision of the Authority made in pursuance of any power which it may exercise under these Regulations may appeal to the Minister, whose decision is final.\n\n(2) An appeal made under sub-regulation (1) shall be lodged with the Minister within 6 weeks from the date of the notification of the decision of the Authority to the aggrieved person.\n\n(3) A copy of any appeal made under sub-regulation (1) shall be forwarded to the Authority.\n\nSCHEDULE 1 (regulation 3(4))\n\nSPECIFICATIONS OF SIGNBOARD"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 3 2023 ED BUILDING CONTROL ADVERTISEMENT BILLBOARD AND SIGNBOARD RG",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

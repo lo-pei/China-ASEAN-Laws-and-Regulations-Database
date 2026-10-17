@@ -1,7 +1,7 @@
 {
  "id": "SG-H3599",
  "title": {
-  "zh": null,
+  "zh": "公共服务（每月可变部分与不计养恤金年度津贴）法 1988",
   "en": "Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act 1988",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. All pensions, gratuities and other allowances to be granted under the Pensions Act 1956 and the Parliamentary Pensions Act 1978 to any person must be computed as if the monthly variable component applicable to that person had not been reduced by virtue of any order made or continued in force under this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Public Service (Monthly Variable Component and Non-pensionable Annual Allowance) Act 1988",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

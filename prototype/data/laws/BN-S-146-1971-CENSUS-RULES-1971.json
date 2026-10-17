@@ -1,0 +1,98 @@
+{
+ "id": "BN-S-146-1971-CENSUS-RULES-1971",
+ "title": {
+  "zh": "人口普查规则 1971",
+  "en": "Census Rules 1971",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p25",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 4,
+ "chars": 2578,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "s-146-1971-census-rules-1971.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《s-146-1971-census-rules-1971.pdf》（5 页），本次切分 4 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-146-1971-CENSUS-RULES-1971-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "Name, sex, marital status, date of birth or age."
+   }
+  },
+  {
+   "id": "BN-S-146-1971-CENSUS-RULES-1971-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "Country of birth, citizenship, residential status"
+   },
+   "text": {
+    "en": "Country of birth, citizenship, residential status and date of arrival."
+   }
+  },
+  {
+   "id": "BN-S-146-1971-CENSUS-RULES-1971-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Race, religion, education and literacy. 4·. Occupation, profession or trade, employment. 5 Relationship to head of household."
+   }
+  },
+  {
+   "id": "BN-S-146-1971-CENSUS-RULES-1971-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "heading": {
+    "en": "Housing conditions, non-agncnltural activities"
+   },
+   "text": {
+    "en": "Housing conditions, non-agncnltural activities by household and agricultural holding.\n\nAPPENDIX II 1971 CENSUS OF THE STATE OF BRUNEI\n\nFORM 3 HOUSEHOLD LIST Census No. of Other No. of, Road Locality Name of Head of Household No. of Persons in Household House/Household I House or ------.--------.,\n\nFORM 5 HOUSEHOLD SCHEDULE A. HOUSING No. of Persons Type of No. of Rooms Type of Is Electricity Who is the Owner No. of Cars in the Household I Structure and Buildings Water Supply Available? of the House? I Owned ---__ ---_-----I ------, ! B. NON.AGRICULTURAL ESTABLISHMENTS Name of the Name of the Owner Postal Address of Activity No. of Persons Engaged Including Establishment or Proprietor Type the Owner and Unpaid Family Workers I c. HOUSEHOLD MEMBERS Name Relationship Marital Date of To Head Sex Status Birth Country Race Residential Date of 1----I or Age of Birth Citizenship Status Arrival Religion Literacy Male Single Brunei Malay Brunei Br. Nat. Islam Yes Female Married Indig. Permanent I Christian No Widowed i Chinese Temp. Resid.i Bahai Divorced Others Others \\ ! Language 100 attend) For Persons Aged 15 Years and Above you Highest Literate School Levels of I in Full Time? \\ I I Education I Economic Employment I Name and Type of Status cf 1\\ I1-Activity Status Occupation Industry I Address of ___ I Agricultural Agricultural 1 I ! Employer Activity Activity Malay ----- I Yes Working Own Account Full Time Own Account Chinese No Unemployed Employer Part Time Employer English Other I Employee Never Employee Other Other I \\ Other I I \\ I I D. AGRICULTURE AND HUSBANDRY 1) Did you or any member of your family/house­ hold cultivate any land (either owned, rented or T.O.L. cultivated by household members alone or with hired labour) in 1970/71? 2) What is the total acres of land cultivated? ..... , _ , acre thereof: Area planted with paddy and maize .....+ acre Area planted with other than paddy and maize , _ aere. 3) Did you or any member of your family produce and sell any of the following during 1970/71? Wet Hill Maize Coconut Sago Fruit Rubber Other Paddy Paddy I Crop! Production Sales ! 4) How many of the livestock and poultry does the household own on the enumeration day? Did the household sell any of these during 1970/71? Buffaloes Cattle Goats Pigs Chickens Ducks Other Livestock Number Owned Sales"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Census Rules 1971",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

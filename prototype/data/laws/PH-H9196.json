@@ -1,7 +1,7 @@
 {
  "id": "PH-H9196",
  "title": {
-  "zh": null,
+  "zh": "颁布满足罕见病患者需求综合政策的法案",
   "en": "An Act Promulgating a Comprehensive Policy in Addressing the Needs of Persons With Rare Disease",
   "orig": "An Act Promulgating a Comprehensive Policy in Addressing the Needs of Persons With Rare Disease"
  },
@@ -369,5 +369,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Promulgating a Comprehensive Policy in Addressing the Needs of Persons With Rare Disease",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

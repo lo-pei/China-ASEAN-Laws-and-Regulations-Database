@@ -1,7 +1,7 @@
 {
  "id": "PH-H10341",
  "title": {
-  "zh": null,
+  "zh": "将西达沃省马利塔市镇Datu Danwata描笼涯的Mariano Peralta国立中学附属校分离，改设为独立的Gaspar Danwata国立中学，并为此拨付所需经费的法案",
   "en": "An Act Separating the Mariano Peralta National High School – Datu Danwata Extension in Barangay Datu Danwata, Municipality of Malita, Province of Davao Occidental From the Mariano Peralta National High School, Converting It Into An Independent National High School to Be Known as the Gaspar Danwata National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Mariano Peralta National High School – Datu Danwata Extension in Barangay Datu Danwata, Municipality of Malita, Province of Davao Occidental From the Mariano Peralta National High School, Converting It Into An Independent National High School to Be Known as the Gaspar Danwata National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Mariano Peralta National High School – Datu Danwata Extension in Barangay Datu Danwata, Municipality of Malita, Province of Davao Occidental From the Mariano Peralta National High School, Converting It Into An Independent National High School to Be Known as the Gaspar Danwata National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

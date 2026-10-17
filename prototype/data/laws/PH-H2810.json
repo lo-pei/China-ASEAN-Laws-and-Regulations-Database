@@ -1,7 +1,7 @@
 {
  "id": "PH-H2810",
  "title": {
-  "zh": null,
+  "zh": "通过修订 Iloilo 市宪章，使 Iloilo 省契约登记官兼任 Iloilo 市契约登记官的法案",
   "en": "An Act Making the Register of Deeds of the Province of Iloilo Ex-Officio Register of Deeds for the City of Iloilo, by Amending the Charter of the City of Iloilo",
   "orig": "An Act Making the Register of Deeds of the Province of Iloilo Ex-Officio Register of Deeds for the City of Iloilo, by Amending the Charter of the City of Iloilo"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making the Register of Deeds of the Province of Iloilo Ex-Officio Register of Deeds for the City of Iloilo, by Amending the Charter of the City of Iloilo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

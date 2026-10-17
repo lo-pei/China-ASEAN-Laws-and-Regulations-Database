@@ -1,7 +1,7 @@
 {
  "id": "SG-H1197",
  "title": {
-  "zh": null,
+  "zh": "经济扩展奖励（先驱工业与先驱产品）（合并）命令",
   "en": "Economic Expansion Incentives (Pioneer Industries and Pioneer Products) (Consolidation) Order",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\nIndustry.\nProducts.\n(1) (a) Non-metallic Mineral Products Manufacture\nAbrasive and other Resin Bonded Products\n(b) Manufacture of Equipment and Supplies\nMedical and Scientific Equipment and Supplies.\n4096/82\n[12.11.82]\n(2) Printing\nCurrency notes and other documents produced by similar high security printing process.\n4578/84\n[14.12.84]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Economic Expansion Incentives (Pioneer Industries and Pioneer Products) (Consolidation) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

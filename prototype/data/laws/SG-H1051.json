@@ -1,7 +1,7 @@
 {
  "id": "SG-H1051",
  "title": {
-  "zh": null,
+  "zh": "关税（生物柴油混合物豁免）命令 2017",
   "en": "Customs (Exemption for Biodiesel Blends) Order 2017",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 34(1) of the Act does not apply to any biodiesel blend in any of the following circumstances:\n(a)the biodiesel blend is for use in the propulsion of a motor vehicle and is carried —\n(i)in a fuel supply tank of the motor vehicle; or\n(ii)in a spare container of the motor vehicle in an amount not exceeding 10 litres;\n(b)the biodiesel blend is for use in the propulsion of an aircraft and is carried in the fuel supply tank of the aircraft;\n(c)the biodiesel blend is for use in the propulsion of a vessel and is carried in the fuel supply tank of the vessel."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Exemption for Biodiesel Blends) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5972",
  "title": {
-  "zh": null,
+  "zh": "将甲米地省马加利亚内斯市镇巴利瓦格小学的名称变更为Pacifico Villacarlos小学的法案",
   "en": "An Act Changing the Name of the Baliwag Elementary School in the Municipality of Magallanes, Province of Cavite, To Pacifico Villacarlos Elementary School",
   "orig": "An Act Changing the Name of the Baliwag Elementary School in the Municipality of Magallanes, Province of Cavite, To Pacifico Villacarlos Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, May 13, 1992."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Baliwag Elementary School in the Municipality of Magallanes, Province of Cavite, To Pacifico Villacarlos Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

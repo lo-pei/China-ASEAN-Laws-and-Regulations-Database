@@ -1,7 +1,7 @@
 {
  "id": "PH-H6371",
  "title": {
-  "zh": null,
+  "zh": "将伊莎贝拉省分为北伊莎贝拉省与南伊莎贝拉省两个省的法案",
   "en": "An Act Dividing the Province of Isabela Into Two Provinces Namely: Isabeia Del Norte and Isabela Del Sur",
   "orig": "An Act Dividing the Province of Isabela Into Two Provinces Namely: Isabeia Del Norte and Isabela Del Sur"
  },
@@ -130,5 +130,13 @@
     "en": "Effectivity. - This Act shall take effect within fifteen (15) days after its complete publication in filipino and english in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Dividing the Province of Isabela Into Two Provinces Namely: Isabeia Del Norte and Isabela Del Sur",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2832",
  "title": {
-  "zh": null,
+  "zh": "在莱特省设立村社的法案",
   "en": "An Act Creating Barrios in the Province of Leyte",
   "orig": "An Act Creating Barrios in the Province of Leyte"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating Barrios in the Province of Leyte",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

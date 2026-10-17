@@ -1,7 +1,7 @@
 {
  "id": "PH-H4685",
  "title": {
-  "zh": null,
+  "zh": "进一步修订1948年司法法第49条、第50条与第52条，以增设初审法院的法案",
   "en": "An Act Further Amending Sections Forty-Nine, Fifty and Fifty-Two of the Judiciary Act of 1948, for the Purpose of Creating Additional Courts of First Instance.",
   "orig": "An Act Further Amending Sections Forty-Nine, Fifty and Fifty-Two of the Judiciary Act of 1948, for the Purpose of Creating Additional Courts of First Instance."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amending Sections Forty-Nine, Fifty and Fifty-Two of the Judiciary Act of 1948, for the Purpose of Creating Additional Courts of First Instance.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

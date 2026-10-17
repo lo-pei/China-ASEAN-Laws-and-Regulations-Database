@@ -1,7 +1,7 @@
 {
  "id": "SG-H1465",
  "title": {
-  "zh": null,
+  "zh": "引渡法 1968",
   "en": "Extradition Act 1968",
   "orig": null
  },
@@ -940,5 +940,13 @@
     "en": "FOURTH SCHEDULE\nSections 2(1) and 40\nExtradition offences under multilateral conventions\nWritten law\nExtradition offences\n1.Hijacking of Aircraft and Protection of Aircraft and International Airports Act 1978\nAny offence under the Hijacking of Aircraft and Protection of Aircraft and International Airports Act 1978 or any attempt to commit any offence under that Act\n2.Hostage-Taking Act 2010\nAny hostage-taking offence as defined in section 2 of the Hostage-Taking Act 2010\n3.Internationally Protected Persons Act 2008\nAny offence against an internationally protected person as defined in section 2 of the Internationally Protected Persons Act 2008\n4.Maritime Offences Act 2003\nAny relevant maritime offence or relevant fixed platform offence as defined in section 2 of the Maritime Offences Act 2003\n5.Radiation Protection Act 2007\n(a)Any nuclear offence or nuclear trafficking offence as defined in section 2(1) of the Radiation Protection Act 2007\n(b)Any relevant offence as defined in section 39(9) of that Act\n6.Terrorism (Suppression of Bombings) Act 2007\nAny terrorist bombing offence as defined in section 2 of the Terrorism (Suppression of Bombings) Act 2007\n7.Terrorism (Suppression of Financing) Act 2002\nAny terrorism financing offence as defined in section 2(1) of the Terrorism (Suppression of Financing) Act 2002\n8.Terrorism (Suppression of Misuse of Radioactive Material) Act 2017\nAny nuclear terrorism offence as defined in section 2 of the Terrorism (Suppression of Misuse of Radioactive Material) Act 2017\n9.United Nations Personnel Act 2011\n(a)Any offence against a UN worker as defined in section 2(1) of the United Nations Personnel Act 2011\n(b)Any relevant offence as defined in section 11(9) of that Act\n(c)Any relevant offence as defined in section 12(8) of that Act\n[Act 17 of 2022 wef 01/07/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Extradition Act 1968",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

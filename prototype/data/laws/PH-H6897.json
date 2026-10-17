@@ -1,7 +1,7 @@
 {
  "id": "PH-H6897",
  "title": {
-  "zh": null,
+  "zh": "将南阿古桑省Bayugan的Marcelina描笼涯由家长教师协会管理的中学改设为国立政府资助的中学，名称为Marcelina国立中学，并为此拨款的法案",
   "en": "An Act Converting the High School Administered By the Parent-teachers' Association At Barangay Marcelina, Bayugan, Agusan Del Sur, Into A National Government-funded Secondary School To Be Known As the Marcelina National High School, and Appropriating Funds Therefor",
   "orig": "An Act Converting the High School Administered By the Parent-teachers' Association At Barangay Marcelina, Bayugan, Agusan Del Sur, Into A National Government-funded Secondary School To Be Known As the Marcelina National High School, and Appropriating Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the High School Administered By the Parent-teachers' Association At Barangay Marcelina, Bayugan, Agusan Del Sur, Into A National Government-funded Secondary School To Be Known As the Marcelina National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

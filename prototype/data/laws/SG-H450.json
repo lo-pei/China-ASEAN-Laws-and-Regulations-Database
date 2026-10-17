@@ -1,7 +1,7 @@
 {
  "id": "SG-H450",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（罪行构成）条例 2010",
   "en": "Casino Control (Composition of Offences) Regulations 2010",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the Authority in accordance with section 196 of the Act:\n(a)any offence (other than a continuing offence) under section 16(3), 48(3), 60(6), 62(2), 80(4), 116(6), (7), (8) and (9), 125(2), 127(3)(b), 132(2), 134(3)(b), 135(2), 136, 170A(4), 170D(1) or 175A of the Act;\n[S 63/2013 wef 31/01/2013]\n[S 32/2024 wef 31/12/2021]\n[S 32/2024 wef 01/02/2024]\n[S 634/2026 wef 21/09/2026]\n(aa)any offence (other than a continuing offence) under section 29(4) of the Act as in force immediately before 1 April 2018;\n[S 32/2024 wef 01/02/2024]\n(ab)any offence (other than a continuing offence) under section 32(2) of the Act as in force immediately before 1 August 2022;\n[S 32/2024 wef 01/02/2024]\n(ac)any offence (other than a continuing offence) under section 83(3) of the Act as in force immediately before 21 September 2026;\n[S 634/2026 wef 21/09/2026]\n(b)any offence under regulation 15(4), 22(4), 25A(4)(b) or 25B(6)(b) of the Casino Control (Gaming Equipment) Regulations 2009 (G.N. No. S 414/2009);\n[S 63/2013 wef 31/01/2013]\n(c)any offence under regulation 10(3) of the Casino Control (Licensing of Special Employees) Regulations 2009 (G.N. No. S 415/2009);\n[S 634/2026 wef 21/09/2026]\n(ca)any offence under regulation 15(2) or 16(2) of the Casino Control (Licensing of Special Employees) Regulations 2009 (G.N. No. S 415/2009) as in force immediately before 1 May 2018;\n[S 32/2024 wef 01/02/2024]\n[S 634/2026 wef 21/09/2026]\n(d)an offence under regulation 5(1) of the Casino Control (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Regulations 2009 (G.N. No. S 507/2009);\n[S 863/2024 wef 14/11/2024]\n(e)an offence under regulation 9(2) of the Casino Control (Conduct of Gaming) Regulations 2009 (G.N. No. S 594/2009);\n(f)any offence under regulation 9(4) or 11(3) of the Casino Control (Casino Marketing Arrangements) Regulations 2013 (G.N. No. S 65/2013);\n[S 63/2013 wef 31/01/2013]\n[S 634/2026 wef 21/09/2026]\n(g)any offence under regulation 15(1) or (2) of the Casino Control (Credit) Regulations 2010 (G.N. No. S 53/2010);\n[S 63/2013 wef 31/01/2013]\n(h)an offence under regulation 9(2) of the Casino Control (Advertising) Regulations 2010 (G.N. No. S 86/2010).\n[S 102/2012 wef 21/03/2012]\n[S 63/2013 wef 31/01/2013]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Casino Control (Composition of Offences) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

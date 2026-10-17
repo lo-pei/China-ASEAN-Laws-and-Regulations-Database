@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-89-RG2-2021-FINANCE-COMPANIES-LICENSING-FEES-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG2 2021 版金融公司发牌费用条例",
   "en": "RG2 2021 ED FINANCE COMPANIES LICENSING FEES REGULATIONS",
   "orig": null
  },
@@ -66,5 +66,13 @@
     "en": "(1) The following fees sl~all be charged in respect of a licence issued to a finance company -\n\n(a) for a head office of a finance company, an annual fee of $30.000; [S 12/2006] tb) for a branch office of a finance company, an annual fee of $5.000.\n\n(2) The manner in which such fees shall be levied sl~all be detennined by the Minister. B.L.R.O. 6.2021"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG2 2021 ED FINANCE COMPANIES LICENSING FEES REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

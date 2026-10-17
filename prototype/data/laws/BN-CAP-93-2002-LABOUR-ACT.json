@@ -1,0 +1,1434 @@
+{
+ "id": "BN-CAP-93-2002-LABOUR-ACT",
+ "title": {
+  "zh": "劳动法",
+  "en": "LABOUR ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p24",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to amend and consolidate the law relating to labour"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 132,
+ "chars": 111687,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-93-2002-ED-LABOUR-ACT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-93-2002-ED-LABOUR-ACT.pdf》（77 页），本次切分 132 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Labour Act."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In this Act, unless the context otherwise requires — “agreement” means an oral engagement to work entered into in accordance with the provisions of this Act; “apprentice” means any person of either sex who has contracted to serve an employer and to learn and be taught any business, trade manufacture, undertaking, calling or employment in which workers are employed; “child” means a person under the age of 14 years; “confinement” means the delivery of a child; “contract” means a written engagement to work entered into in accordance with the provisions of this Act; “dependant” means the wife or wives of a worker, and his children, step-children and lawfully adopted children who are unmarried and under the age of 16 years and any aged or incapacitated relative whom the Commissioner is satisfied is wholly dependant upon and living with the worker; “domestic servant” means any house, stable or garden servant or car driver habitually employed in, or in connection with, the domestic services of any public or private dwelling-house, eating house, club or institution; “employer” includes the Government of Brunei and any person or body of persons, corporate or unincorporate, and the legal personal representative of a deceased employer who or which enters into any agreement or contract with any worker and the duly authorised agent or manager of such person or body of persons and, where any person (hereinafter referred to as the principal) in the course of or for the purposes of his trade or business enters into any agreement or contract with any person (hereinafter referred to as the contractor) for the execution by or under the contractor of the whole or any part of any work undertaken by the principal, the principal shall, in respect only of any liability for the payment of wages remaining unpaid for a period not exceeding 3 months, be held to be the employer; “family” means the wife or wives of a worker, and his children, stepchildren and lawfully adopted children who are unmarried and under the age of 14 years; “Health Officer” means the Director of Medical Services and includes any officer to whom, by writing under his hand, he delegates the exercise or performance of all or any of the powers or duties conferred or imposed on the Health Officer by this Act to the extent of the powers or duties so delegated; “immigrant worker” means any worker who is normally resident outside Brunei Darussalam who has come to Brunei Darussalam for the purpose of performing work in Brunei Darussalam; “industrial undertaking” means —\n\n(a) mines, quarries and other works for the extraction of minerals from the earth;\n\n(b) industries in which articles are manufactured, altered, cleaned, repaired, ornamented, finished, adapted for sale, broken up or demolished, or in which materials are transformed, including ship buildings, and the generation, transformation and transmission of electricity and motive\n\n(c) construction, reconstruction, maintenance, repair, alteration, or demolition of any building, railway, tramway, harbour, dock, pier, canal, inland waterway, road, tunnel bridge, viaduct, sewer, drain, well, telegraphic or telephonic installation, electrical undertaking, gaswork, waterworks or other work of construction, as well as the preparation for or laying the foundation of any such work\n\n(d) transport of passengers or goods by road or rail, or inland waterway, including the handling of goods at dock, quays, wharves, and warehouses, but excluding transport by hand: Provided that if, having regard to the nature of the work involved in any occupation which forms part of the industrial undertaking, His Majesty the Sultan and Yang Di-Pertuan in Council considers that such occupation should be excluded from the provisions of this Act relating to industrial occupations, he may declare, by order, that employment in such occupation shall be deemed not to be employment in an industrial undertaking for the purpose of this Act: Provided further that any undertaking of which a part only is an industrial undertaking shall not for that reason alone be deemed to be an industrial undertaking; “mine” includes any undertaking whether public or private for the extraction of any substance from under the surface of the “place of employment” means any place where work is carried on by or on behalf of any employer; “rate of pay”, “rate of wages” and “wage rate” each means the total amount of money including allowances to which a worker is entitled under his contract of service for working either for a period of time stated or implied in his contract or for the performance of each completed piece or task of work, but does\n\n(i) additional payments in respect of overtime work;\n\n(ii) additional payments by way of bonus;\n\n(iii) allowances for travelling or food;\n\n(iv) such additional payments or allowances made by reason of the special nature of work performed, as the Commissioner may Provided that in the case of a worker employed on piece rates, the ordinary rate of pay shall be calculated by dividing the period of 14 days immediately preceding the day on which the rate of pay is required to be calculated by the number of days on which such worker actually worked during such period; “recruit,” with its grammatical variations and cognate expressions, means to procure, engage, hire or supply or undertake or attempt to procure, engage, hire or supply workers for the purpose of being employed by the recruiter or by any other person, where such worker does not spontaneously offer his services at the place of employment or at a public employment office or at an office conducted by an employers’ organisation and supervised by the Government; “repatriation” means the return of a worker to his country of domicile or origin and includes the return to his house of a worker who has been brought to a place of employment by an employer from any other place within Brunei Darussalam; “shift worker” means a worker who is engaged in work which by reason of its nature requires to be carried on continuously by a succession of shifts or any other work which the Commissioner has by notice published in the Gazette declared to be shift work for the purpose of this definition; “ship” includes any vessel or boat of any nature whatsoever, engaged in navigation whether publicly or privately owned but does not include a ship of war; “wages” means all remuneration which is payable to a worker for work done in respect of his agreement or contract but does not\n\n(i) the value of any house accommodation or the supply of any food, fuel, light or water or medical attendance, or of any amenity or services excluded by general or special order of the State Secretary published in the ;\n\n(ii) any contribution paid by the employer on his own account to any pension fund or\n\n(iii) any travelling allowance or the value of any travelling concession;\n\n(iv) any sum payable to the worker to defray special expenses entailed on him by the nature of his employment; or\n\n(v) any gratuity payable on discharge or “woman” means a female of the age of 18 years or upwards; “worker” means a labourer, servant in husbandry, journeyman, artificer, handicraftsman, miner or other person engaged in manual labour or in recruiting such or in supervising in person any workman in and throughout the performance of his work, who has entered into and works under an agreement or contract with an employer, and includes an immigrant worker and any person, other than clerical staff, employed in the operation or maintenance of mechanically propelled vehicles used for transport of passengers or goods for hire or for commercial purposes, but does not include an apprentice or seaman engaged on ships articles; “worker-recruiter” means a person who, being employed as a worker, is authorised in writing by this employer to recruit, but who does not receive any remuneration or other advantage for “young person” means a person who has ceased to be a child but who is under the age of 18 years. Commissioner of Labour and other Officers."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "(1) His Majesty may, by notification in the Gazette, appoint by name or by office an officer to be styled the Commissioner of Labour, hereinafter referred to as the Commissioner, and also appoint one or more officers to be styled Deputy Commissioner of Labour or Assistant Commissioner of Labour and such other officers as may be necessary for carrying out the provisions of this Act, who, subject to such limitations as His Majesty in Council may by rule prescribe, may perform all duties imposed and exercise all powers conferred on the Commissioner by this Act.\n\n(2) If any employer is dissatisfied with any decision or order of a Deputy Commissioner of Labour or an Assistant Commissioner of Labour made or given by virtue of the provisions of the preceding subsection, he may appeal from such decision or order to the Commissioner within 14 days of the date of such decision or order being communicated to him.\n\n(3) If any employer is dissatisfied with any decision or order made or given by the Commissioner either original or by virtue of the preceding subsection, he may appeal from such decision or order to the Minister within 14 days of the date of such decision or order being communicated to him. Government inspections."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "(1) The Commissioner or Health Officer may enter at all reasonable times upon any place of employment and into any house accommodation provided by an employer for workers, and put questions concerning the workers to the employer or to any person who may be in charge of them or to the workers themselves, and the employer or such person, or any such worker, shall be legally bound to answer such questions truly to the best of his ability.\n\n(2) If the Commissioner or Health Officer has reasonable ground for suspecting that any offence has been committed against a worker, and whenever any complaint of personal ill-usage or breach of any of the provisions of this Act is made to the Commissioner or Health Officer, the Commissioner or Health Officer, as the case may be, may forthwith remove, or cause to be removed, such worker from the place of employment where he is employed for further inquiry into the matter.\n\n(3) The Commissioner or Health Officer may by order in writing require any employer to take within a reasonable time in the circumstances such steps as he considers necessary with a view to remedying defects observed in plant, layout, working methods, supervision medical or sanitary provision or other matters at any place or employment which he may have reasonable cause to believe constitute a threat to the health or safety of the Accidents to be notified."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "(1) Whenever an accident caused by machinery results in loss of life or grievous hurt to any worker the employer shall forthwith notify the Commissioner who shall at the earliest opportunity cause an examination to be made as to the cause of such accident: Provided that a notice served by the employer on the Commissioner under the provisions of section 13 of the Workmen’s Compensation Act (Chapter 74), shall, if it is therein stated that the accident was caused by machinery, be deemed to be notification for the purposes of this subsection.\n\n(2) Where an examination of any machinery is required by virtue of the provisions of subsection (1), no alteration shall be made to that machinery until such examination has been carried out.\n\n(3) In this section “machinery” means any engine, electrical machinery, powerplant, boiler, sawmill, gasometer, gas-holder, generator, gearing and appliances for transmission of power and all appurtenances of any of the above, but does not include machinery driven by manual power, machinery for driving any vehicle or marine machinery. Inspection of documents substances etc."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "The Commissioner or Health Officer may —\n\n(a) call for and examine all contracts, registers, books of account and other documents concerning any workers or relating to their employment; and\n\n(b) take or remove for purposes of analysis samples of materials and substances used or handled, subject to the employer or his representative being notified of any samples or substances taken or removed for such purposes. Power of summons and institution of proceedings."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "(1) Whenever the Commissioner has reasonable grounds for suspicion that any offence under this Act or any rule made thereunder has been committed or wishes to inquire into any matter concerning disputes as to wages, wrongful termination of agreement or contract, misconduct, food, medical attendance, death, mining usage and mining complaint, Government inspection, sanitation or any other matter relating to employer and worker dealt with under the provisions of this Act or any rule made thereunder, the Commissioner may summon any person who he has reason to believe can give information respecting the subject-matter of the enquiry, and the person so summoned shall be legally bound to attend at the time and place specified in the summons and to answer truthfully all questions which the Commissioner may put to him.\n\n(2) If the Commissioner is of the opinion that an offence has been committed or that any complaint is well founded he may institute such proceedings criminal or civil for and in the name of the worker as he shall deem necessary in the circumstances."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "(1) Any employer or other person who wilfully obstructs or impedes any entry, inquiry or investigation made under this Act or wilfully obstructs the service of, or obedience to, any summons and any person summoned who neglects to attend as required in such summons, and any person who commits in that connection any offence described in Chapter X of the Penal Code (Chapter 22) shall be punished as provided in Chapter X of the Penal\n\n(2) Any employer who contravenes or fails to comply with any order of the Commissioner or Health Officer made under section 4 or fails to report an accident, or alters, or causes, or permits to be altered any machinery, in contravention of the provisions of section 5 shall be guilty of an offence: Penalty, a fine of $1,500 and in default thereof imprisonment for 6 months. Power to make rules."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "(1) His Majesty in Council may from time to time make rules generally for carrying out the provisions of this Part.\n\n(2) Without prejudice to the generality of the foregoing such rules may provide for any matter which by this Part is to be, or may be, prescribed.\n\n(3) Any such rule may provide a penalty for the breach or contravention thereof not exceeding a fine of $600 or in default thereof imprisonment for a term not exceeding 3 months.\n\nAGREEMENTS AND CONTRACTS Terms of agreement."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "(1) An agreement may be entered into for any period not exceeding one month or for any number of days’ work not exceeding 26 or for the performance by a worker for an employer of any specified piece of work capable of being completed within one month from the commencement of the work. Every agreement shall, subject to any stipulation to the contrary, terminate on the last day of the period agreed upon or upon the completion of the specified number of days’ work or piece of work, as the case may be: Provided that each party to an agreement for a period not exceeding one month shall on the termination of such agreement in the manner aforesaid be conclusively presumed to have entered into a fresh agreement upon the same terms and conditions as those of the agreement so terminated unless notice has been given previously by either party to such agreement in accordance with the provisions of section 12.\n\n(2) In the absence of proof to the contrary every agreement shall be presumed to be for a period of one month."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "In the case of a worker employed on an agreement for a period of a week or more and paid according to the number of days’ work performed, an employer shall provide work suitable to the capacity of such worker for not less than 5½ days in every week with the exception of prescribed holidays and Fridays (or such other rest day as may be substituted for a Friday by agreement between the employer and the worker, entered into not less than 3 days before the rest is taken) and if he is unable or fails to provide such work on such number of days whereon the worker presents himself for work and is fit to work the employer shall nevertheless be bound to pay to the worker in respect of each of such days, wages at not less than his usual rate of pay, including cost of living allowance, if any, or if the worker is on piece rates at not less than the average of his previous week’s earnings or if he has not been working, at the average rate during the last full week’s work earned by a similar class of worker engaged on similar work: Provided that if such day is a work day, other than a Saturday, the employer shall pay at a rate as if a whole day’s work had been performed. Termination of agreement by notice."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "text": {
+    "en": "(1) Either party to an agreement for a period of time may terminate such agreement on the expiration of due notice given by him to the other party of his intention so to do; the length of the notice to be given shall, unless otherwise stipulated by the terms of the agreement, be equal to the period of the agreement to be terminated: Provided that in no case shall it be necessary to give notice exceeding in length one month or in the case of domestic servants 14 days.\n\n(2) Such notice may be either oral or written and may be given at any time and the day on which notice is given shall be included in the period Termination of agreement without notice by either party."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "Either party to an agreement may terminate the same without notice upon payment to the other party of a sum equal to the amount of wages which would have accrued to the worker during the period of the notice required by section 12. Dismissal by the employer without notice."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "An employer shall not dismiss a worker employed without notice except in the following circumstances —\n\n(a) where the worker is guilty of misconduct, whether in the course of his duties or not, inconsistent with the fulfilment of the express or implied conditions of his agreement;\n\n(b) for wilful disobedience to lawful orders given by the\n\n(c) for lack of the skill which the worker expressly or implicitly warrants himself to posses;\n\n(d) for habitual or substantial neglect of his duties;\n\n(e) for absence from work without leave from the employer or absence without other reasonable excuse. Cancellation of agreement by Commissioner."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "An agreement may be cancelled by an order of the Commissioner if the worker is subject to ill-usage in person or property and the Commissioner may by such order award the worker reasonable compensation. Capacity to enter into an agreement."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "text": {
+    "en": "Notwithstanding anything contained in any written law any young person shall be capable of entering into an agreement."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "text": {
+    "en": "(1) Every employer who fails to make payment in accordance with the provisions of section 11 or contravenes the provisions of section 14 shall be guilty of an offence: Penalty, a fine of $1,500 or in default thereof imprisonment for 6 months.\n\n(2) A court may in any proceedings under this section order the payment of such wages as are found due by an employer together with such sum or sums for damages, costs, and expenses as it shall deem fit. Certain contracts excluded."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "text": {
+    "en": "This Chapter and any rules made thereunder do not apply to contracts of apprenticeship. Contracts to be in writing."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "text": {
+    "en": "(1) When an engagement with a worker —\n\n(a) is made for a period exceeding one month or a number of working days exceeding 26;\n\n(b) is made or the performance of a specified piece of work for an employer, incapable of being completed within one month from the commencement of the work;\n\n(c) stipulates conditions of employment which differ materially from those customary in the district of employment for similar work, the engagement shall be in writing and shall be signed by both parties: Provided that a worker unable to sign may indicate his consent by affixing thereto the impression of his thumb.\n\n(2) If the omission to make in writing any contract, which is required by this section, is due to the wilful act or negligence of the employer, the worker shall, without prejudice to any right he may have to sue for damages for breach of contract be entitled to apply to the Commissioner for cancellation of the contract. Contents of contract."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "text": {
+    "en": "Every contract shall contain in clear and unambiguous terms all that may be necessary to define the rights and obligations of the parties thereto and without prejudice to the generality of the foregoing shall in all cases include the following particulars —\n\n(a) the name of the employer or group of employers and, where practicable, of the undertaking and the place of\n\n(b) the name of the worker, the place of engagement and the place of origin of the worker, and any other particulars necessary for his identification;\n\n(c) where possible the names and addresses of the next of\n\n(d) the nature of the employment;\n\n(e) the duration of the employment and the method of calculating this duration;\n\n(f) the appropriate period of notice to be given by the party wishing to terminate the contract, due regard being had to the provisions of section 27 and to the fact that such provisions refer to an equitable settlement of monetary and other question;\n\n(g) the rates of wages and method of calculation thereof, the manner and periodicity of payment of wages, the advances of wages, if any, and the manner of repayment of any such advances;\n\n(h) the measures to be taken to provide for the welfare of the worker and any dependant who may accompany him under the terms of the contract;\n\n(i) the conditions of repatriation; and\n\n(j) any special conditions of the contract. Contract not ordinarily binding on family dependants."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "text": {
+    "en": "No contract shall be deemed to be binding on the family or dependants of the worker, unless it contains an express provision to that Attestation of contracts."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "text": {
+    "en": "(1) Every contract shall be presented for attestation to the\n\n(2) Before attesting any such contract the Commissioner shall —\n\n(a) ascertain that the worker has freely consented to the contract and that his consent has not been obtained by coercion or undue influence or as the result of misrepresentation or mistake; and\n\n(b) satisfy himself that —\n\n(i) the contract is in due legal form;\n\n(ii) the terms of the contract are in accordance with the requirements of this Act;\n\n(iii) the worker has fully understood the terms of the contract before signing it or otherwise indicating his\n\n(iv) the provisions relating to medical examination set out in section 23 have been complied with; and\n\n(v) the worker declares himself not bound by any previous\n\n(3) The Commissioner may refuse to attest any contract in respect of which he is not satisfied in regard to any of the matters specified in subsection (2) of this section, and any contract which the Commissioner has refused to attest shall have no further validity.\n\n(4) A contract which has not been presented to the Commissioner for attestation shall only be enforceable as an agreement under the provisions of Chapter IV of this Part, but each of the parties shall be entitled to have it presented for attestation at any time prior to the expiry of the period for which it was made.\n\n(5) If the omission to present the contract for attestation was due to the wilful act or the negligence of either party the other party shall be entitled to apply to the Commissioner for the cancellation of the contract.\n\n(6) 4 copies of every contract attested under the provisions of this Chapter shall be attested including the original. One copy shall be delivered to the employer, one to the worker or in the case of a gang to one of their number, one to the Assistant Commissioner in the district of employment and the original shall be retained by the Commissioner who shall keep a record of all such contracts.\n\n(7) Notwithstanding the other provisions of this section, the Commissioner may, in his discretion, approve a standard form of contract to be used by any particular person or firm and when such approved form of contract is used individual attestation by the Commissioner shall not be necessary, but the employer shall render to the Commissioner a quarterly return of all persons newly employed during each quarter under such approved form of contract together with a certificate that the terms and conditions thereof were read over to and understood by the worker before he signed such contract. Medical examinations."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "text": {
+    "en": "(1) Every worker who enters into a contract shall be medically examined at the expense of the employer.\n\n(2) As a general rule the worker shall be medically examined and a medical certificate issued before the attestation of the contract.\n\n(3) Where it has not been possible for the worker to be medically examined before the attestation of the contract, the Commissioner when attesting the contract shall endorse it to that effect and the worker shall be examined at the earliest opportunity.\n\n(4) The Commissioner may, by endorsement on the contract, exempt from the requirement of medical examination workers entering into contracts for —\n\n(a) employment in agricultural undertakings not employing more than such number of workers as may be prescribed;\n\n(b) employment in the vicinity of workers, homes —\n\n(i) in agricultural work;\n\n(ii) in non-agricultural work which the Commissioner is satisfied is not a dangerous character or likely to be injurious to the health of the workers. Capacity to enter into a contract."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "text": {
+    "en": "(1) A person whose apparent age is less than 16 years shall not be capable of entering into contract.\n\n(2) Notwithstanding anything contained in any written law a person whose apparent age exceeds 16 years but is less than 18 years shall be capable of entering into a contract for employment in an occupation approved by the Commissioner as not being injurious to the moral and physical development of non-adults. Maximum duration of contracts."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "text": {
+    "en": "(1) (a) the maximum duration that may be stipulated or implied in any contract involving a journey within Brunei Darussalam and the Malaysian territories of Sarawak and Sabah from the place of recruitment to the place of employment, shall in no case exceed 12 months if the worker is not accompanied by his family;\n\n(b) the maximum duration which may be stipulated or implied in any contract involving a journey other than a journey referred to in the preceding subsection from the place of recruitment to the place of employment shall in no case exceed 2 years if the worker is not accompanied by his family or 3 years if the worker is accompanied by\n\n(2) The Commissioner may, after consultation with any employers’ and workers’ organisations, representative of the interests concerned, exclude from the application of this section contracts entered into between employers and literate workers whose freedom of choice in employment is satisfactorily safeguarded; such exclusion may apply generally, or to the workers in any specified industry of undertaking or to special groups of Transfer to other employment."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "text": {
+    "en": "(1) The transfer of any contract from one employer to another shall be subject to the consent of the worker and the endorsement of the transfer upon the contract by the Commissioner.\n\n(2) Before endorsing the upon the the\n\n(a) shall ascertain that the worker has freely consented to the transfer and that his consent has not been obtained by coercion or undue influence or as the result of misrepresentation or mistake; and\n\n(b) in any case in which by such transfer the worker —\n\n(i) will change his form of employment from one the subject of an exemption made under the provisions of subsection (4) of section 23; or\n\n(ii) will be subject to such change in conditions as in the opinion of the Commissioner renders such a course may require the worker to be medically examined or re-examined as the case Termination of contract."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "text": {
+    "en": "(1) A contract shall be terminated —\n\n(a) by the expiry of the period for which it was made; or\n\n(b) by the death of the employer or worker before the expiry of the period for which it was made.\n\n(2) The termination of a contract by the death of the worker shall be without prejudice to the legal claims of any person entitled thereto.\n\n(3) If the employer is unable to fulfil a contract or if owing to sickness or accident the worker is unable to fulfil the contract, the contract may be terminated with the consent of the Commissioner subject to conditions safeguarding the right of the worker to wages earned, any deferred pay due to him, any compensation due to him in respect of accident or disease, and his right to repatriation.\n\n(4) A contract may be terminated by agreement between the parties with the consent of the Commissioner subject to conditions safeguarding the worker from the loss of his right to repatriation unless the agreement for the termination of the contract otherwise provides and to the Commissioner\n\n(a) that the worker has freely consented to the termination and that his consent has not been obtained by coercion or undue influence or as the result of misrepresentation or mistake; and\n\n(b) that all monetary liabilities between the parties have been settled.\n\n(5) A contract other than a contract to perform some specific work without reference to time, may be terminated by either party giving to the other, notice of such termination in accordance with the terms of the contract; the minimum requirements of which shall be —\n\n(a) where the duration is for more than one month the period of notice shall be not less than 14 days and may be given only after the expiry of the first month of employment; or\n\n(b) where the duration is for one month or less the period of notice shall be not less than 7 days: Provided that except where the Commissioner in his discretion shall otherwise permit the period of notice stipulated in the contract shall not Provided further that an equitable settlement of monetary and other conditions including the question of repatriation shall be agreed upon between the worker and the employer and in default of such agreement either party may refer the matter to the Commissioner who shall make such order, including the award of any subsistence expenses reasonably incurred pending such order, as may be just and equitable. Cancellation of contract by Commissioner."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "text": {
+    "en": "A contract may be cancelled by an order of the Commissioner if the worker is subject to ill-usage in person or property and in such event the Commissioner may award the worker reasonable compensation. Duration of re-engagement contracts."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "text": {
+    "en": "(1) The maximum duration that may be stipulated in any re-engagement contract on the expiry of the period for which the original contract was made shall be three-quarters of that prescribed in section 25 but in no case exceeding one year.\n\n(2) Where the duration to be stipulated in any re-engagement contract, together with the period already served under the expired contract, involves the separation of any worker from his family for more than the respective periods prescribed in section 25 the worker shall not begin the service stipulated in the re-engagement contract until he has had the opportunity to return home at the employer’s expense: Provided that the Commissioner may grant exemption from this provision whenever its application is impracticable or undesirable. Provisions applicable to re-engagement contracts."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "text": {
+    "en": "Except as provided in section 29 all the provisions of the preceding sections of this Chapter shall apply to re-engagement contracts: Provided that the Commissioner may in his discretion exempt such contracts from the provisions of section 22 relating to attestation and of section 23 relating to medical examination subject to such terms and conditions as may be prescribed. Summary of Chapter to be brought to notice of workers."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "text": {
+    "en": "(1) The Commissioner shall, where necessary, cause concise summaries of this Chapter to be printed in Malay and in a language known to the workers and shall make such summaries available to the employer and workers concerned.\n\n(2) Where necessary, the employer shall be required by the Commissioner to post such summaries in a language known to the workers in conspicuous places at the place of employment. Contracts for service outside Brunei Darussalam."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "text": {
+    "en": "Where a contract made in Brunei Darussalam relates to employment in another territory (in this section referred to as the territory of\n\n(a) the attestation of the contract required by section 22 shall take place before the worker leaves Brunei Darussalam;\n\n(b) the measures required by subsection (6) of section 22 shall be taken by the Commissioner in Brunei Darussalam;\n\n(c) the medical examination required by section 23 shall take place at the latest at the place of departure of the worker from Brunei Darussalam;\n\n(d) a person whose apparent age is less than either the minimum age prescribed in section 24 or the minimum age of capacity for entering into a contract allowed by the law of the territory of employment if such minimum age is higher than that prescribed in section 24 shall not be capable of entering into a contract;\n\n(e) the contract shall contain a proviso that it is not transferable unless such transfer is endorsed on the contract by a public officer of the territory of employment;\n\n(f) the duration stipulated in the contract shall not exceed either the maximum period prescribed in section 25 or the maximum period prescribed by the law of the territory of employment whichever is the less;\n\n(g) if the laws of the territory of employment are substantially the same as this Chapter the conditions under which the contract is subject to termination and any question of exemption from liability for repatriation shall be determined by the law of the territory of\n\n(h) if the laws of the territory of employment differ from the laws of Brunei in respect to repatriation the Commissioner may require such deposit or security from the employer as he deems necessary and such deposit or security may be used to defray the costs of repatriation at the discretion of the Commissioner;\n\n(i) the Commissioner shall co-operate with the appropriate authority of the territory of employment to ensure the application of the provisions of subsection (2) of section 98;\n\n(j) the period of service stipulated in any re-engagement contract shall not exceed either the maximum period allowed by the provisions of section 30 or if the maximum period allowed by the law of the territory of employment is less, then such lesser period. Extraterritorial contracts for employment in Brunei Darussalam."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "heading": {
+    "en": "Contracts of Apprenticeship"
+   },
+   "text": {
+    "en": "When a contract made in another territory (in this section referred to as the territory of origin) relates to employment in Brunei Darussalam —\n\n(a) if such territory of origin has enacted laws substantially the same as this Chapter and all the provisions of such laws have been complied with prior to worker leaving such territory of origin, then —\n\n(i) the endorsement of a transfer on a contract shall be made by the Commissioner as provided in section 26;\n\n(ii) the conditions under which the contract is subject to termination shall be determined by the provisions of this Act and any rules made thereunder;\n\n(iii) if the employer fails to fulfil his obligations in respect of repatriation the said obligations may be discharged by the Commissioner as provided in section 96 and such expenses may be recovered from the employer as a debt due to the Government;\n\n(iv) the authority which may exempt the employer from liability for repatriation expenses and exercise any other powers conferred upon a competent authority in the territory of origin shall be the Commissioner;\n\n(v) the co-operate with the appropriate authority of the territory of origin to ensure the application of the provisions of subsection (2) of\n\n(vi) the duration stipulated in any re-engagement contract shall not exceed either the maximum period allowed by the law of the territory of origin, which ever is less;\n\n(b) If such territory has not enacted laws substantially the same as this Chapter or has not complied with any provisions of the law in respect of any contract then the whole of the provisions of this Chapter or such portion thereof as has not been complied with shall be complied with immediately upon the arrival of the worker in Brunei Darussalam and thereafter the provisions of this Chapter shall be deemed to apply mutatis mutandis as if such contract had been entered into in Brunei Darussalam."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "text": {
+    "en": "Any employer who fails to comply with any order made by the Commissioner in pursuance of the provisions of this Chapter or who makes with a worker a contract contrary to the provisions of this Chapter shall be guilty of an offence: Penalty, a fine of $1,500 and imprisonment for 6 Contracts of apprenticeship of young persons under 16."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "text": {
+    "en": "(1) The parent, or in the case of an orphan the guardian, of a young person under the age of 16 years may, with the consent of such person, execute a written contract of apprenticeship, apprenticing such person to an employer to train him or have him trained systematically for a prescribed trade or employment for any period not exceeding 5 years.\n\n(2) Whenever any young person under the age of 16 years is without known parent or guardian, the Commissioner may authorise the apprenticeship of such young person and may appoint some fit and proper person to execute the written contract of apprenticeship and act generally as guardian of such young person. Contracts of apprenticeship of young persons over 16."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "text": {
+    "en": "Any young person above the age of 16 years or any person above the age of 18 years not being under any contract of apprenticeship may apprentice himself for any period not exceeding 5 years to an employer in any prescribed trade or employment."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "text": {
+    "en": "Every contract of apprenticeship may with the consent of the parties thereto be assigned."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "text": {
+    "en": "Every contract of apprenticeship and every assignment thereof shall be in writing and no such contract shall be valid unless attested by and made with the approval of Commissioner certified in writing under his hand on the contract of apprenticeship or assignment. Duties of attesting officer."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "text": {
+    "en": "Before attesting any contract of apprenticeship the Commissioner shall satisfy himself —\n\n(a) that the employer is a fit and proper person and able and having facilities sufficient to instruct the apprentice in the trade or\n\n(b) that the apprentice has consented to such contract and that his consent has not been obtained by coercion, or undue influence or as the result of misrepresentation or mistake;\n\n(c) that the apprentice has been medically examined and certified by a registered medical practitioner to be physically and mentally fit to be employed and trained in the trade or employment specified in such contract;\n\n(d) that the parties to such contract have fully understood the terms of the contract before signing it or otherwise indicating assent;\n\n(e) that provision has been made in such contract as to how any remuneration in cash or otherwise due to the apprentice shall be determined and as to the scale of increase in remuneration during the course of the apprenticeship;\n\n(f) that provision has been made in such contract for payment of such remuneration to the apprentice during illness and during\n\n(g) that the terms of such contract are in accordance with any rules made under the provisions of this Part. Certificate of service on discharge."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "text": {
+    "en": "(1) Whenever for any reason including the completion of his contract of apprenticeship an apprentice ceases to be employed by an employer it shall be the duty of the employer to supply the apprentice with a statement in the prescribed form setting forth the service of the apprentice.\n\n(2) The employer shall forward a copy of such statement to the Commissioner, who shall endorse a note thereof on every copy of the contract of apprenticeship submitted to him for that purpose by any of the parties to such contract. Retention of apprentices after expiry of contracts."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "text": {
+    "en": "If any person with whom an apprentice has been placed retains such apprentice in his service after the stipulated period of service has expired without any agreement between the parties for the payment of wages, the apprentice shall be entitled to recover from the person so retaining him wages at the ordinary current rate payable for service similar to that performed by such apprentice. Suspension and discharge."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "text": {
+    "en": "(1) In any case where an apprentice so misconducts himself or proves himself to be so incapable that if he were an employee other than an apprentice it would be reasonable for his employer to discharge him, the employer may suspend him and apply forthwith to the Commissioner for leave to discharge him.\n\n(2) The Commissioner shall enquire into the circumstances and where such leave is granted the employer shall be entitled to discharge the apprentice as from the date on which he was suspended and as from such date the contract of apprenticeship shall be deemed to be cancelled.\n\n(3) Where such leave is refused the Commissioner may make such order as he thinks fit with respect to payment of wages to the apprentice in respect of the period of his suspension. If no such order is made, the employer shall pay to the apprentice all wages that would have been payable to him in respect of such period had he not been suspended.\n\n(4) If the employer, notwithstanding that leave to discharge the apprentice has been refused by the Commissioner, discharges the apprentice, such discharge shall for all purposes be conclusive proof of a breach by the employer of the contract of apprenticeship.\n\n(5) Where an employer, without proceeding in accordance with the foregoing provisions of this section, discharges or purports to discharge an apprentice, or, having suspended him does not within 3 days thereafter make application as aforesaid for leave to discharge him, the apprentice within 7 days after such discharge or within 10 days after such suspension, as the case may be, may apply to the Commissioner for relief from such discharge or suspension and thereupon the provisions of the section shall apply in like manner as if the employer had proceeded in accordance with subsection (1)\n\n(6) The Commissioner may fix an amount that shall be payable to the apprentice as damages for breach of the contract of apprenticeship in the event of the employer discharging him contrary to the provisions of this section. Such amount shall be in addition to the amount of wages payable in respect of the period of suspension.\n\n(7) Any person aggrieved by any decision or order of the Commissioner under this section may appeal against such decision or order to a magistrate who may hear and determine such appeal either in open court or in chambers as he may think fit and may make such order as to costs as he may think fit."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "text": {
+    "en": "Any employer who fails to comply with any order made by the Commissioner in pursuance of the provisions of this Chapter or makes a contract of apprenticeship contrary to the provisions of this Chapter shall be guilty of an offence: Penalty, a fine of $1,500 or in default thereof imprisonment for a term of 6 months. Power to make rules."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "text": {
+    "en": "(1) His Majesty in Council may from time to time make rules generally for carrying out the provisions of this Part.\n\n(2) Without prejudice to the generality of the foregoing power such rules may —\n\n(a) provide for any matter which by this Part is to be or may be\n\n(b) prescribed the form of contracts of apprenticeship and the terms and conditions upon which such contracts may be lawfully entered into, and the duties and obligations of apprentices and their\n\n(c) provide for the registration of contracts of apprenticeship;\n\n(d) stipulate the number of apprentices who may be apprenticed during a specified period in any specified trade or employment;\n\n(e) stipulate the conditions governing the entry of young persons under the age of 16 years into apprenticeship;\n\n(f) prescribed the mutual rights and obligations of employer and apprentice;\n\n(g) provide for the supervision to be established over apprenticeship, particularly with a view to ensuring that the regulations governing apprenticeship and the terms of any contract of apprenticeship are observed, that the training is satisfactory and that there is reasonable uniformity in the conditions of apprenticeship;\n\n(h) provide for the holding of examinations of apprentices on the expiry of the period of apprenticeship and where necessary in the course of apprenticeship; and for determining the methods of organising such examinations and for the issue of certificates based on the results thereof;\n\n(i) prescribe the fees to be paid and by whom payable for attestations, endorsements or registrations effected or any acts required to be done in pursuance of the provisions of this Part or of any rules made thereunder.\n\n(3) Any such rule may provide a penalty for the breach or contravention thereof not exceeding a fine of $600 or in default thereof imprisonment for a term not exceeding 3 months.\n\nRECRUITING OF WORKERS"
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "text": {
+    "en": "The Minister may, by notification in the Gazette, except in respect of recruiting by professional recruiters, exempt from the provisions of this Part —\n\n(a) the recruiting of workers by or on behalf of employers who do not employ more than such number of workers as shall from time to time be fixed by such notification;\n\n(b) the recruiting of workers within a specified area or a specified distance from the place of employment; or\n\n(c) the recruiting of personal or domestic servants. Public officers etc."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "text": {
+    "en": "Public officers shall not recruit for private undertaking either directly or indirectly except when the recruited workers are to be employed on works of public utility for the execution of which private undertakings are acting as contractors for a public authority. Persons who recruit to be licensed."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of subsection (6) of this section, no person shall recruit workers unless he is licensed in that behalf under the provisions of this Part or unless he has obtained a licence to recruit issued by a territory under laws substantially the same as this Part and has produced such licence to the Commissioner who may, on being satisfied in accordance with the provisions of the next succeeding subsection, countersign the same and such licence shall thereupon be deemed to be licence issued under the provisions of this Part.\n\n(2) Every person desirous of obtaining a licence under this section shall apply to the Commissioner who may in his discretion issue a licence —\n\n(a) if he is satisfied that the applicant is a fit and proper person to be granted a licence;\n\n(b) if any security prescribed has been furnished; and\n\n(c) if he is satisfied that adequate provision has been made for safeguarding the health and welfare of the workers to be recruited; and\n\n(d) if he is satisfied that the person is proposing to recruit for a public department or authority or for a specified employer or association of employers.\n\n(3) A licence shall be subject to such conditions as may be endorsed thereon, and shall not be transferable.\n\n(4) No licence shall be issued for a period exceeding one year, but if the Commissioner is satisfied that the conditions on which it was granted have been complied with he may renew such licence for such period not exceeding one year as he may think fit.\n\n(5) The Commissioner may cancel any licence in any case where the licensee has been convicted of an offence under this Part or the rules made thereunder or has not complied with the conditions under which it was granted or is guilty of conduct which in the opinion of the Commissioner renders him no longer a fit and proper person to hold a licence; and the Commissioner may suspend any licence pending the decision of the court or the making of any enquiry which he shall consider necessary.\n\n(6) His Majesty in Council may by rules made hereunder and subject to such conditions as he may therein prescribe exempt worker-recruiters from the provisions of this section. Non-adults not to be recruited."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48."
+   },
+   "text": {
+    "en": "Persons under the age of 16 years shall not be recruited: Provided that young persons under that age may be recruited with the consent of their parents or guardians for employment upon light work in an occupation approved by the Commissioner. Family not deemed recruited."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49."
+   },
+   "text": {
+    "en": "The recruiting of the head of a family shall not be deemed to involve the recruiting of any member of his family. Examination of workers."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50."
+   },
+   "text": {
+    "en": "(1) Every recruited worker shall —\n\n(a) be brought before the Commissioner or officer in charge of an administrative district;\n\n(b) be medically examined at the expense of the recruiter or as nearly as may be convenient to the place of recruitment and in accordance with rules made under this Part.\n\n(2) The Commissioner or officer before whom any recruited worker is brought shall satisfy himself that the provisions of this Part and the rules made thereunder have been observed and that the worker has not been subject to illegal pressure or recruited by misrepresentation or mistake. Expenses of worker or burial of worker during journey."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51."
+   },
+   "text": {
+    "en": "(1) The expenses of the journey of recruited workers and their dependants to the place of employment, including all the expenses incurred for their protection during the journey, shall be borne and transport and necessaries for the journey shall be provided by the recruiter(not being a worker recruiter) or employer to a standard and on conditions in accordance with rules made under this Part.\n\n(2) In the event of the death of any recruited worker or of any dependant occurring during any journey to the place of employment from the place of recruitment the recruiter shall provide decent burial and pay the reasonable expenses of burial. Return of workers."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52."
+   },
+   "text": {
+    "en": "A recruited worker who —\n\n(a) becomes incapacitated by sickness or accident during the journey to his place of employment;\n\n(b) is found on medical examination to be unfit for\n\n(c) is not engaged after being recruited for a reason for which he is not responsible; or\n\n(d) is found by the Commissioner or officer in charge of an administrative to have been by misrepresentation or mistake, and the dependants of such recruited worker, and any dependant of a recruited worker who dies during the journey to the place of employment, shall be returned to their place of origin, or place of engagement if the latter be nearer to the place of employment and the laws of the place of engagement permit, at the expense of the recruiter or employer in accordance with rules made under this Part. Workers recruiters."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53."
+   },
+   "text": {
+    "en": "The provisions of this Part and the rules made thereunder shall, unless otherwise expressly provided, apply to worker-recruiters as if they were licensees: Provided that worker-recruiters shall recruit only in such areas as may be specified by the Commissioner and shall not make advances of wages to recruited workers. Extraterritorial recruiting."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54."
+   },
+   "text": {
+    "en": "(1) Any person acting or proposing to act as a recruiter in a territory of origin outside Brunei Darussalam for the purpose of recruiting workers for employment in Brunei Darussalam shall, before leaving Brunei Darussalam to do so, first obtain a licence under this Part, and thereafter, if such territory provides in its laws provisions substantially the same as this Part, shall also obtain such licence as may be required under such laws and shall comply with all laws of such territory relating to recruiting and shall in any event, whether required by such laws or not, fulfil all the obligations of this Part of this Act as if the same were written into the laws of such territory and its provisions, where possible, shall be observed both prior to the departure of the worker from the territory of recruitment as well as upon arrival in Brunei Darussalam.\n\n(2) Any agreement or contract of employment entered into with a worker arising from a contravention of the provisions of the last preceding subsection may be declared void by the Commissioner and thereupon any such worker and his family may be repatriated by the Commissioner and all costs of such repatriation shall be recovered from any security or borne by the offending recruiter or employer and may be recovered as a debt due to"
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55."
+   },
+   "text": {
+    "en": "Any person who recruits or attempts to recruit any person contrary to the provisions of this Chapter or contravenes or fails to comply with any of the provisions of this Chapter or any special conditions to which his licence is subject, shall be guilty of an offence: Penalty, a fine of $1,500 and imprisonment for 6 months. Power to make rules."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56."
+   },
+   "text": {
+    "en": "(1) His Majesty in Council may, by notification in the Gazette, make rules not inconsistent with this part for the purpose of giving effect thereto or to any of the provisions of the Recruiting of Indigenous Workers Convention 1936 and without prejudice to the generality of the foregoing power, he may by rule provide for —\n\n(a) the manner and form in which applications shall be made for licences, the particulars to be furnished upon every such application, the conditions under which any licence may be issued, the form of licences, the fees payable therefore, and particulars to be set forth\n\n(b) the security to be furnished by applicants for licences;\n\n(c) the records to be kept by licensees;\n\n(d) the remuneration to be paid to the agents of licensees;\n\n(e) the prohibition of recruiting within any specified area;\n\n(f) the supervision of worker-recruiters;\n\n(g) the documents to be given to the recruited workers by licensees;\n\n(h) the conditions under which recruited workers may be accompanied by dependants;\n\n(i) the provision of necessaries and transport for recruited workers and dependants from the place of recruitment to the place of employment and the conditions applicable to the journey;\n\n(j) the amount of wages which may be paid in advance to recruited workers and the conditions under which advances of wages may be made;\n\n(k) the fees to be paid and by whom payable for any licences issued, attestations, endorsements or registrations effected or any other acts required to be done in pursuance of the provisions of this Act or any rules made thereunder;\n\n(l) the establishment of a fund or other method to make provision for securing the payment of any expenses of recruitment or transport of workers upon such terms and conditions and subject to such control as he deems necessary and for providing that any such fund may be administered in conjunction with any fund established under paragraph (c) of subsection (2) of section 121;\n\n(m) anything which by this Part is to be or may be prescribed, or as to which rules are to be made.\n\n(2) Any such rule may provide a penalty for the breach or contravention thereof not exceeding a fine of $1,500 or in default thereof imprisonment for a term not exceeding 6 months.\n\nCONDITIONS OF EMPLOYMENT Special Places of Employment"
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57."
+   },
+   "text": {
+    "en": "(1) This Chapter and any rule made thereunder shall apply only to the places of employment in respect of which a declaration is made in accordance with subsection (2).\n\n(2) His Majesty in Council may by notification in the Gazette, declare that the provisions of this Chapter or of such sections thereof as may be specified in such notification shall apply to any place of employment either generally or specifically and be complied with by employer of the workers thereon or therein. Name to be painted on notice board and displayed."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58."
+   },
+   "text": {
+    "en": "Every employer shall cause to be erected and exhibited in a conspicuous place at the place of employment a notice board on which shall be painted in easily legible characters, the name of the place of employment and the name and address of the person responsible for its management and, if the employer is a company, the situation of the registered office of the Register of workers."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59."
+   },
+   "text": {
+    "en": "Every employer shall keep a register of all workers in his employment in the prescribed form. Housing, water supply and sanitation."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60."
+   },
+   "text": {
+    "en": "(1) Every employer shall provide and maintain —\n\n(a) sufficient and hygienic house accommodation;\n\n(b) a sufficient supply of wholesome water; and\n\n(c) sufficient and proper sanitary arrangements, for every worker who resides on the place of employment and for such other employees who reside on the place of employment. Such house accommodation, water supply and sanitary arrangements shall conform to such requirements and standards of health and hygiene as may be prescribed.\n\n(2) No employer shall house any worker or other person in a building the state of which or the surroundings of which are, in the opinion of the Commissioner or Health Officer, such as to endanger the health of such worker or other person and should it appear to the Commissioner or Health Officer that the accommodation provided is likely, by reason of its site, construction, size, or otherwise, to endanger the health of any worker or of any person, the Commissioner may serve the employer with an order in writing requiring him to remove, alter, enlarge or reconstruct such accommodation within a reasonable time to be stated in such order; and such order may also, if necessary, declare that no worker or other person shall be permitted to occupy any building the subject of such order pending removal, alteration, enlargement or reconstruction.\n\n(3) Should it appear to the Commissioner that accommodation ought to be provided for non-resident workers owing to their having no adequate or suitable housing of their own or by reason of the distance of their houses from the place of employment he may forbid the employment of such workers until such accommodations has been provided. Surroundings of housing to be kept clean."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61."
+   },
+   "text": {
+    "en": "A space of not less than 100 feet round any housing area shall be kept clear of jungle and secondary growth and the employer shall cause such space to be kept in a clean and sanitary condition and all refuse and excreta in or near the housing to be collected and buried or burned and shall detail a sufficient number of workers daily to carry out these duties. Regular inspection of housing."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62."
+   },
+   "text": {
+    "en": "(1) Every employer shall cause all housing to be visited and inspected not less than once a week by some responsible person who shall report to the employer if the housing is not kept clean or any refuse or excreta is allowed to accumulate in the neighbourhood of the housing and the employer shall make such arrangements as may be necessary for the cleaning of the housing and surroundings and for the removal of any refuse or excreta which may have accumulated.\n\n(2) In any case where the Commissioner or Health Officer considers that visits, inspections or other duties prescribed by subsection (1) are not satisfactorily carried out he may notify the employer accordingly, specifying the matters in respect whereof he is not satisfied, and the employer shall thereupon make such further or other arrangements, whether by substituting a different person to perform the said duties or otherwise, as the Commissioner or Health Officer may require. Separate house accommodation to be provided for each race."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63."
+   },
+   "text": {
+    "en": "On every place of employment upon which the workers employed and residing are not all of one race the employer shall, if the Commissioner so directs, provide separate house accommodation for the workers of each race. Agricultural allotments."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64."
+   },
+   "text": {
+    "en": "(1) Every employer shall set aside land suitable for allotments for the use of resident workers who have worked and resided on such place of employment for not less than 6 consecutive months and who have\n\n(2) The area of the land so set a side shall ordinarily be not less than one sixteenth of an acre for each such worker and such area shall be cleared and made available for cultivation at the expense of the employer: Provided that if the employer shall satisfy the Commissioner that any worker has failed to make proper use of the area so set aside the employer shall be relieved of his duty as aforesaid in respect of such worker.\n\n(3) The Commissioner may for good and sufficient reason by writing under his hand exempt any employer or class of employer from compliance with this section on such terms and conditions and for such period as to him may seem fit. Medical care and treatment."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65."
+   },
+   "text": {
+    "en": "(1) At every place of employment the employer shall provide for all workers such medical attention and treatment with medicines of good quality, first aid equipment and appliances for the transportation of sick or injured workers as may be prescribed.\n\n(2) Every employer shall take or cause to be taken, for treatment with as little delay as possible every worker injured or falling ill during the course of his employment and every resident worker and resident dependant on a place of employment requiring medical attention at a hospital or dispensary to the hospital or dispensary maintained for the workers at such place of employment or, if there is no such hospital or dispensary, to the nearest hospital or dispensary maintained by the Government or approved by the Commissioner and shall also provide any treatment necessary therefor.\n\n(3) The cost of maintenance and treatment of a worker and of his dependants residing on the place of employment in or at any hospital or dispensary to which the worker or his dependant is sent by the employer shall be borne or paid by the employer as long as the worker remains in his Provided that if the employer continues to pay to the worker wages or part wages amounting to not less than half his usual wages he may recover by deduction from the wages of such worker the cost of such maintenance in hospital at such rate as may be prescribed.\n\n(4) Where any such worker or dependant has been admitted to a Government hospital or dispensary, the cost of maintenance and treatment at such rate as may from time to time be prescribed and, in the event of the death of such worker or dependant in such hospital, any reasonable burial expenses incurred shall be recoverable from the employer at the suit of the Medical Officer in Charge. Burial of deceased workers or dependants."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66."
+   },
+   "text": {
+    "en": "The employer shall provide decent interment for any worker resident on a place of employment and for any dependant dying during the employment of such worker unless a relative or friend undertakes such duty. Hospital maintained by employers."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67."
+   },
+   "text": {
+    "en": "(1) The Commissioner may at any time having regard to the situation of any place of employment and the number of workers employed and resident thereon, by order in writing, require any employer to construct within a reasonable time to be stated in such order, and thereafter to maintain at his own expense, a hospital on or in the immediate neighbourhood of any place of employment upon which workers are employed by him with accommodation for such number of patients as may be stated in such order, of if there is already a hospital maintained by such employer to enlarge or add to such hospital so as to provide accommodation for a further number of patients as stated in the order; and may further require him to employ a duly registered medical practitioner to reside at and have charge of such hospital or any hospital maintained by such employer and to provide such medical practitioner with fit and proper house accommodation to the satisfaction of the Commissioner.\n\n(2) If 2 or more such places of employment are so situated that the required accommodation for patients from such places of employment can be conveniently provided in one hospital the Commissioner may, instead of ordering each employer to construct and maintain a separate hospital, order all the employers concerned to construct within a reasonable time to be stated in such order, and thereafter to maintain at their own expense one hospital hereinafter called a “group hospital” for all such places of employment with accommodation for such number of patients as may be stated in the order or if there is already a hospital erected and maintained jointly by 2 or more employers (whether constructed in pursuance of the provisions of this section or not) may order them to enlarge or add to such hospital so as to provide accommodation for such further number of patients in their employment as may be stated in the order; and may further require such employers to employ a duly registered medical practitioner to take charge of such group hospital and to provide such medical practitioner with fit and proper house accommodation to the satisfaction of the Commissioner.\n\n(3) Every employer referred to in the preceding subsection shall be responsible for the due maintenance of the group hospital as the case may be and for the provision of the staff, equipment, diet and medicines and for the observance of any rules made under this Part for the inspection and management of the hospital and the furnishing of any returns required as if the hospital were provided and maintained solely by him. workers where arrangements are inadequate."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68."
+   },
+   "heading": {
+    "en": "Approval of place of employment and prohibition of employment of"
+   },
+   "text": {
+    "en": "(1) Every person intending —\n\n(a) to employ resident workers at a place of employment where workers have not hitherto been employed or have not been employed within the preceding 12 months; or\n\n(b) to increase the number of workers already employed on a place of employment so that the existing arrangement would not conform to the prescribed requirements and standards of health and hygiene, shall give notice in writing of such intention to the Commissioner.\n\n(2) If the Commissioner at any time has reason to believe that the arrangements made for the residence and employment of workers on any place of employment where it is intended that workers shall live or be employed or where workers are living or employed are from any cause inadequate for the residence and employment of such workers or of additional workers or that the health or conditions of workers living or employed on any place of employment is from any cause unsatisfactory, he may by order served on the employer prohibit the residence or employment, or both, of workers or of additional workers on such place and it shall thereupon be unlawful for any person to employ or permit to reside on such place any workers or dependants, or any workers or dependants other than those who were residing or employed thereon before the issue of such order,\n\n(3) The Commissioner may, upon being satisfied that adequate arrangements have been made for the residence and employment of the workers or of additional workers on such place of employment or that the health and condition of the workers living or employed thereon have become satisfactory, rescind the order made under subsection (2) of this section, and thereupon it shall be lawful for the employer to employ workers or additional workers as the case may be on such place of employment."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69."
+   },
+   "text": {
+    "en": "Every employer who —\n\n(a) contravenes or fails to comply with any of the provisions of section 58, 59, or 64 shall be guilty of an offence: Penalty, a fine of $600 or in default thereof imprisonment for 3 months;\n\n(b) contravenes or fails to comply with the provisions of section 60, 61, 62, 63, 65, 66, 67 or 68 shall be guilty of an offence: Penalty, a fine of $1,500 and imprisonment for 6 months;\n\n(c) contravenes or fails to comply with any order or requirements of the Commissioner or the Health Officer made under this Chapter shall be guilty of an offence: Penalty, a fine of $600 or imprisonment for 3 months. Special Provisions Relating to the Employment of Women, Young Persons and Children"
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 70."
+   },
+   "text": {
+    "en": "Nothing in this Chapter or in any rule made thereunder shall apply to an industrial or other undertaking or trade or to any ship in which only members of the same family are employed, unless such employment by its nature or the circumstances in which it is carried on is dangerous to the life, health or morals of the persons employed therein. Determination of age."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A71",
+   "no": 71,
+   "noLabel": {
+    "en": "Section 71."
+   },
+   "text": {
+    "en": "The age of any person may, where the birth of such person has not been registered or the registration thereof cannot be traced, be enquired into and determined by the Commissioner and the age so determined shall be conclusive for the purposes of this Act. Certain restriction on employment of children."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A72",
+   "no": 72,
+   "noLabel": {
+    "en": "Section 72."
+   },
+   "text": {
+    "en": "No child shall be employed in any industrial undertaking: Provided that His Majesty in Council may by notification in the Gazette permit the employment of children in any specified industrial undertaking or in any specified occupation which forms part of any specified industrial Power to prohibit employment of children in other specified ways."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A73",
+   "no": 73,
+   "noLabel": {
+    "en": "Section 73."
+   },
+   "text": {
+    "en": "His Majesty in Council may by notification in the Gazette prohibit the employment of any child, or prescribe the terms and conditions on which children may be employed, in any specified trade undertaking or in any specified occupation which forms part of any specified trade or undertaking. Night work of young persons in industry."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A74",
+   "no": 74,
+   "noLabel": {
+    "en": "Section 74."
+   },
+   "text": {
+    "en": "(1) Young persons shall not be employed or work during the night in any industrial undertaking except as hereinafter provided.\n\n(2) For the purpose of this section “night” means a period of at least 12 consecutive hours —\n\n(a) in the case of young persons under the age of 16 years this period shall include the interval between 10 o’clock in the evening and 6 o’clock in the morning;\n\n(b) in the case of young persons who have attained the age of 16 years this period shall include an interval to be prescribed of at least 7 consecutive hours falling between 10 o’clock in the evening and 7 o’clock in the morning. Different intervals may be prescribed for different areas, industrial undertakings or branches of industrial Provided that before an interval beginning after 11 o’clock in the evening is prescribed the employers’ and workers’ organisations concerned, if any, shall be consulted.\n\n(3) For the purposes of apprenticeship or vocational training the Commissioner may authorise the employment during the night of young persons who have attained the age of 16 years, under such conditions as he may impose.\n\n(4) Every employer shall grant to young persons, employed during the night by virtue of the preceding subsection, a rest period of at least 13 consecutive hours between 2 working periods.\n\n(5) The provisions of this section shall not apply to employment during the night of young persons who have attained the age of 16 years, in an emergency which could not have been controlled or foreseen, which is not of a periodical character and which interferes with the normal working of the industrial undertaking. Females not to be employed at night in industry."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A75",
+   "no": 75,
+   "noLabel": {
+    "en": "Section 75."
+   },
+   "text": {
+    "en": "(1) No female shall be employed during the night in any industrial\n\n(2) For the purpose of this section “night” means a period of at least 11 consecutive hours including an interval to be prescribed of at least 7 consecutive hours falling between 10 o’clock in the evening and 7 o’clock in the morning. Different intervals may be prescribed for different areas, industrial undertakings or branches of industrial undertakings: Provided that before an interval beginning after 11 o’clock in the evening is prescribed the employers’ and workers’ organisations concerned, if any, shall be consulted.\n\n(3) The provisions of this section shall not apply —\n\n(a) in an emergency which could not have been controlled or foreseen, which is not of a periodical character and which interferes with the normal working of the industrial undertaking;\n\n(b) where the work is connected with raw materials or materials in course of treatment which are subject to rapid deterioration and work during the night is necessary to preserve such materials from certain loss;\n\n(c) to a woman holding a responsible position of a managerial or technical character; and\n\n(d) to a woman employed in health and welfare services who is not ordinarily engaged in manual work."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A76",
+   "no": 76,
+   "noLabel": {
+    "en": "Section 76."
+   },
+   "text": {
+    "en": "In any serious emergency when the public interest demands it the Minister may by notification in the Gazette suspend the operation of sections 74 and 75 in so far as they affect young persons who have attained the age of 16 years and women. Register of young persons employed in industrial undertakings."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A77",
+   "no": 77,
+   "noLabel": {
+    "en": "Section 77."
+   },
+   "text": {
+    "en": "Where young persons are employed in any industrial undertakings a register of the young persons so employed, containing particulars of their ages and of the dates on which they enter or leave the service of their employer, shall be kept by such employer and shall at all times be open to inspection by the Commissioner. Restriction on employment of females and young persons underground."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A78",
+   "no": 78,
+   "noLabel": {
+    "en": "Section 78."
+   },
+   "heading": {
+    "en": "Restriction on employment of females and young persons"
+   },
+   "text": {
+    "en": "(1) No young person under the age of 16 years shall be employed on underground work in any mine.\n\n(2) No female shall be employed on underground work in any mine except in the following circumstances —\n\n(a) a woman holding a position of management who does not perform manual work;\n\n(b) a woman engaged in health or welfare services;\n\n(c) a woman who in the course of her studies spends a period of training in the underground parts of a mine; or\n\n(d) a woman who may for any other reason have to enter the underground parts of a mine for the purpose of non-manual Restriction on employment of children in ships."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A79",
+   "no": 79,
+   "noLabel": {
+    "en": "Section 79."
+   },
+   "text": {
+    "en": "No child shall be employed in any ship except a ship approved by the Commissioner as a school or training ship. Restriction on employment of young persons in ships."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A80",
+   "no": 80,
+   "noLabel": {
+    "en": "Section 80."
+   },
+   "text": {
+    "en": "No young person shall be employed on work as a trimmer or stoker in any ship unless prior written approval for such employment has been given by the Commissioner. Register of young persons employed in ships."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A81",
+   "no": 81,
+   "noLabel": {
+    "en": "Section 81."
+   },
+   "text": {
+    "en": "Every master of a ship shall, if young persons are employed therein, keep a register of such persons containing particulars of their ages and of the dates on which they become or cease to be members of the crew and the register so kept shall be open to inspection by the Commissioner. Medical certificate."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A82",
+   "no": 82,
+   "noLabel": {
+    "en": "Section 82."
+   },
+   "text": {
+    "en": "(1) The employment of any child or young person on any ship shall be conditional on the production of a medical certificate attesting fitness for such work signed by a duly registered medical practitioner.\n\n(2) The continued employment at sea of any such child or young person shall be subject to the repetition of such medical examination at intervals of not more than one year and the production, after each such examination, of a further medical certificate attesting fitness for such work. Should a medical certificate expire in the course of a voyage it shall remain in force until the end of the said voyage. Maternity benefits."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A83",
+   "no": 83,
+   "noLabel": {
+    "en": "Section 83."
+   },
+   "text": {
+    "en": "(1) Every female worker shall be entitled to abstain from work during periods 4 weeks each before and after confinement and in respect of such periods, hereinafter jointly referred to as “benefit period,” to receive from her employer maternity benefit to be calculated in accordance with the provisions of the succeeding subsections of this section.\n\n(2) A female worker who has worked for the employer from whom she claims maternity benefit on not less than 180 days within the period of one year immediately preceding the notice required under section 87 shall be paid maternity benefit during the benefit period at such rate as may be\n\n(3) A female worker who has worked for the employer from whom she claims such maternity benefit on not less than 90 days within the period of 6 calendar months immediately preceding the date of the notice required under section 87 shall be paid maternity benefit during the benefit period at such rate as may be prescribed.\n\n(4) A female worker who has worked in her employment on any day during the period of 4 weeks immediately preceding her confinement shall not be entitled to any maternity benefit for that day or that part of that period which precedes that day.\n\n(5) No employer shall knowingly employ a worker at any time during the period of 4 weeks immediately following her confinement. Payments to include rest days and holidays."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A84",
+   "no": 84,
+   "noLabel": {
+    "en": "Section 84."
+   },
+   "text": {
+    "en": "Subject to the provisions of subsection (4) of section 83, payments made under subsections (2) and (3) of section 83 shall be made for every day of the benefit period including Sundays or other agreed rest days prescribed Payment of maternity benefit."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A85",
+   "no": 85,
+   "noLabel": {
+    "en": "Section 85."
+   },
+   "text": {
+    "en": "The amount of the maternity benefit shall be payable in 2 instalments; the first for the period up to and including the day of confinement to be paid within 7 days after the birth of the child and the second for the period after confinement to be paid within 7 days after the end of that period; and shall not be payable in advance. Death during benefit."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A86",
+   "no": 86,
+   "noLabel": {
+    "en": "Section 86."
+   },
+   "text": {
+    "en": "If a female worker dies during the benefit period the maternity benefit shall be payable only for the days up to and including the day of her death. Notice of confinement."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A87",
+   "no": 87,
+   "noLabel": {
+    "en": "Section 87."
+   },
+   "text": {
+    "en": "(1) A female worker may prior to her confinement give notice to her employer that she expects to be confined within one month from the date of such notice.\n\n(2) A female worker who has been confined shall within 7 days of her confinement give notice to her employer of the date on which she was confined.\n\n(3) Any female worker who omits to give notice as required by subsection (2) shall forfeit her claim for any maternity benefit to which she is entitled unless she was prevented by any sufficient cause from the giving of such notice. Permission for absence to be given by employer."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A88",
+   "no": 88,
+   "noLabel": {
+    "en": "Section 88."
+   },
+   "text": {
+    "en": "The employer shall, on receipt of a notice from a female worker under section 87, or on the fact of the confinement of a female worker otherwise coming to his knowledge, permit such worker to absent herself from work until the expiry of 4 weeks after the day of her confinement. Forfeiture of benefit."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A89",
+   "no": 89,
+   "noLabel": {
+    "en": "Section 89."
+   },
+   "text": {
+    "en": "If a female worker for any other employer after she has been permitted by her employer to absent herself under section 88 such worker shall forfeit her claim to the payment of any maternity benefit to which she would have been entitled. Appointment of nominee."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A90",
+   "no": 90,
+   "noLabel": {
+    "en": "Section 90."
+   },
+   "text": {
+    "en": "(1) A female worker who gives notice under section 87 may in such notice nominate some other person to whom her maternity benefit may be paid on her behalf and any payment of any maternity benefit made to the person so nominated shall, for the purpose of this Chapter, be deemed to be payment to the worker who nominated such person.\n\n(2) If a female worker entitled to maternity benefit under the provisions of this Chapter dies during the period for which she is entitled to such benefit the employer shall pay the amount of maternity benefit due to the person nominated or, if there is no such person, to the legal representative to such person as is approved by the Commissioner. Notice of termination of employment."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A91",
+   "no": 91,
+   "noLabel": {
+    "en": "Section 91."
+   },
+   "text": {
+    "en": "When a female worker absents herself from work in accordance with the provisions of this Chapter her employer shall not give her notice of termination of employment during such absence or so that the notice will expire during such absence. Benefit unaffected by notice of termination in specified circumstances."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A92",
+   "no": 92,
+   "noLabel": {
+    "en": "Section 92."
+   },
+   "heading": {
+    "en": "by of in"
+   },
+   "text": {
+    "en": "(1) No notice of termination of employment given without sufficient cause by an employer to a female worker within a period of 3 months before her confinement shall have the effect of depriving her of any maternity benefit which but for such notice she would have been eligible to receive under this Chapter.\n\n(2) If any question arises as to whether any notice of termination of employment given under subsection (1) of this section was or was not given for sufficient cause it shall be referred to the Commissioner for decision. Claim from one employer."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A93",
+   "no": 93,
+   "noLabel": {
+    "en": "Section 93."
+   },
+   "text": {
+    "en": "Nothing contained in section 83 shall be construed as entitling any female worker to claim maternity benefit from more than one employer in respect of the same confinement."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A94",
+   "no": 94,
+   "noLabel": {
+    "en": "Section 94."
+   },
+   "text": {
+    "en": "Any agreement or contract whereby a female worker relinquishes any right under this Chapter shall be null and void in so far as it purports to deprive her of that right or to remove or reduce the liability of any employer to pay maternity benefit under this Chapter."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A95",
+   "no": 95,
+   "noLabel": {
+    "en": "Section 95."
+   },
+   "text": {
+    "en": "Any employer who contravenes or fails to comply with any of the provisions of this Chapter, or any person who makes an entry in a register, required to be kept under the provisions of section 77 or 81, which he knows or has reason to believe to be false shall be guilty of an offence: Penalty, a fine of $1,500 or in default thereof imprisonment for 6 months."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A96",
+   "no": 96,
+   "noLabel": {
+    "en": "Section 96."
+   },
+   "heading": {
+    "en": "Rights and obligations of worker and employer in respect of"
+   },
+   "text": {
+    "en": "(1) Every worker who is a party to an agreement or contract under this Act and who has been brought to the place of employment by an employer or by any person acting on behalf of the employer shall have the right to be repatriated at the expense of the employer to his place of origin or to the place of engagement, if the latter be nearer to the place of employment and the laws of the place of engagement permit, in the following cases —\n\n(a) on the termination of the agreement or contract by expiry of the period for which it was made;\n\n(b) on the termination of the agreement or contract by reason of the inability of the employer to fulfil the agreement or contract;\n\n(c) on the termination of the agreement or contract by reason of inability of the worker to fulfil the agreement or contract owing to sickness or accident;\n\n(d) on the termination of the agreement or contract by notice but in the case of a contract subject to the provisions of the particular contract and Chapter V of this Act;\n\n(e) on the cancellation of the agreement or contract under section 15 or 28;\n\n(f) on the termination of the agreement or contract by agreement between the parties, unless the Commissioner otherwise decides.\n\n(2) Every who is ordered to Brunei Darussalam under or in accordance with any provision of any written law for the time being in force relating to immigration shall be repatriated at the expense of the employer to his place of origin or to the place of engagement, if the latter be nearer to the place of employment and the laws of the place of engagement permit.\n\n(3) Where any dependant of the worker has been brought to the place of employment by the employer or by any person acting on behalf of the employer such dependant shall be repatriated at the expense of the employer whenever the worker is repatriated or in the event of his death.\n\n(4) The expenses of repatriation shall include —\n\n(a) travelling and subsistence expenses during the journey;\n\n(b) subsistence expenses during the period if any, between the date of termination of the agreement or contract and the date of repatriation; and\n\n(c) provision of decent interment and the payment of the reasonable expenses of burial in the event of death of a worker occurring during the course of, or pending, repatriation.\n\n(5) The employer shall not be liable for subsistence expenses in respect of any period during which the repatriation of the worker has been delayed —\n\n(a) by the worker’s own choice; or\n\n(b) for reasons of force majeure, when the employer has been able during the said period to use the services of the worker at the rate of wages stipulated in the expired contract.\n\n(6) If the employer fails to fulfil his obligation in respect of repatriation the said obligation shall be discharged by or under directions of the Commissioner and any sums so expended may be recovered from the employer or employers by civil suit as a debt due to the Government. Exemption from obligation to repatriate."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A97",
+   "no": 97,
+   "noLabel": {
+    "en": "Section 97."
+   },
+   "text": {
+    "en": "The Commissioner may exempt the employer from liability for repatriation expenses in the following cases —\n\n(a) when the Commissioner is satisfied —\n\n(i) that the worker by a declaration before the Commissioner has signified that he does not wish to repatriation; and\n\n(ii) that the worker has been settled at his request or with his consent at or near the place of employment;\n\n(b) when the Commissioner is satisfied that the worker by his own choice has failed to exercise his right of repatriation before the expiry of 6 months from the date of termination of the agreement or\n\n(c) when the liability of the employer has been provided for under any of the provisions of any Fund established under paragraph (c) of subsection (2) of section 121;\n\n(d) when the agreement or contract has been terminated otherwise than by reason of the inability of the worker to fulfil the agreement or contract owing to sickness or accident and the Commissioner is satisfied —\n\n(i) that in fixing the rates of wages proper allowance has been made for the payment of repatriation expenses by\n\n(ii) that suitable arrangements have been made by means of a system of deferred pay or otherwise to ensure that the worker has the funds necessary for the payment of such expenses. Employer to provide transport."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A98",
+   "no": 98,
+   "noLabel": {
+    "en": "Section 98."
+   },
+   "heading": {
+    "en": "Domestic Service"
+   },
+   "text": {
+    "en": "(1) The employer shall whenever possible provide transport for workers who are being repatriated.\n\n(2) The Commissioner shall take all necessary measures to ensure and may give such directions to the employer or to any person acting on behalf of the employer as will ensure —\n\n(a) that all vehicles or vessels used for transport of workers are suitable for such transport, are in good sanitary condition and are not overcrowded;\n\n(b) that when it is necessary to break the journey for the night suitable accommodation is provided for the workers;\n\n(c) that when the workers have to make long journeys on foot the length of the daily journey is compatible with the maintenance of their health and strength; and\n\n(d) that in the case of long journeys suitable arrangements are made for medical assistance and for the welfare of the workers.\n\n(3) When the workers have to make long journeys in groups they shall be convoyed by a responsible person to be approved by the"
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A99",
+   "no": 99,
+   "noLabel": {
+    "en": "Section 99."
+   },
+   "text": {
+    "en": "Any employer who fails to comply with the direction given to him by the Commissioner in pursuance of the provisions of section 98 shall be guilty of an offence: Penalty, a fine of $600 or in default thereof imprisonment for 3 Domestic servants."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A100",
+   "no": 100,
+   "noLabel": {
+    "en": "Section 100."
+   },
+   "heading": {
+    "en": "General Provisions Relating to Agreements and Contracts"
+   },
+   "text": {
+    "en": "His Majesty in Council may from time to time make rules applying all or any of the provisions of this Act to all domestic servants or to any group, class or number of domestic servants and make rules not inconsistent with any of the provisions of this Act to provide generally for the engagement, repatriation and working conditions of domestic servants. Worker not liable for default of another."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A101",
+   "no": 101,
+   "noLabel": {
+    "en": "Section 101."
+   },
+   "text": {
+    "en": "No worker shall be bound in or by virtue of any agreement or contract under this Act to answer for the debt, default or miscarriage of another Liability of worker for advances."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A102",
+   "no": 102,
+   "noLabel": {
+    "en": "Section 102."
+   },
+   "text": {
+    "en": "(1) An advance of wages to worker or to a person in consideration of his taking up employment as a worker shall not without the previous permission of the Commissioner exceed an amount equivalent to the wages earned by the worker during the previous month or if he has been employed for that period the wages he is likely to earn during one month or an amount authorised by rule under Chapter IX.\n\n(2) No worker shall be held to be liable for the amount of any advance made to him by his employer which exceeds the amount authorised under subsection (1).\n\n(3) No worker shall be held to be liable for the amount of any moneys expended on his behalf prior to his arrival in Brunei Darussalam in consideration of his engagement to work within Brunei Darussalam, other than an advance of wages as authorised by rule under Chapter IX.\n\n(4) Any advance of wages may be recovered in instalments by deduction from wages in such manner as may be prescribed. Prescribed holidays."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A103",
+   "no": 103,
+   "noLabel": {
+    "en": "Section 103."
+   },
+   "text": {
+    "en": "Holidays may be prescribed for workers. Such holidays may be fixed having regard to the religion and customs of workers. Days and hours of work."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A104",
+   "no": 104,
+   "noLabel": {
+    "en": "Section 104."
+   },
+   "text": {
+    "en": "Subject to any provisions to the contrary contained in his contract —\n\n(a) no worker other than a shift worker shall be required to work on a prescribed holiday or on more than 6 days in one week or for more than 6 consecutive hours without a break, or for more than 8 hours a day of actual work: Provided that any worker on a prescribed holiday or for more than 8 hours in any day, or for more than 6 consecutive hours in the case of accident, actual or threatened, or in case of urgent work to be done to machinery, or in case of an interruption of work which it was impossible to foresee and which is not of a recurring character, but only in so far as may be necessary to avoid serious interference with the ordinary working of the undertaking concerned;\n\n(b) if any worker works for and at the request of his employer on a prescribed holiday or on a Friday (or other agreed rest day substituted for a Friday by agreement between the employer and the worker entered into not less than 3 days before such rest day is taken) or for more than 8 hours in any day he shall be paid wages for such extra work at the following rates —\n\n(i) on prescribed holidays, at a rate of not less than double his ordinary rate of pay, but in such case wages shall not be payable under the provisions of section 103;\n\n(ii) on Friday or other rest days, at a rate of not less than one and a half times his ordinary rate of pay; and\n\n(iii) for overtime in excess of 8 hours in any one day for workers other than those paid on piece work or shift work, at a rate of not less than one and a half times his ordinary rate of pay;\n\n(c) a shift worker may be required by his employer to work for any number of hours not exceeding 56 in any one week and not exceeding 12 in any one day: Provided that where a shift worker is required to work for more than 48 hours in any one week, the average number of hours for which he may be required to work in that week and the next preceding and next succeeding week shall not, except with the approval of the Commissioner, exceed 48 hours;\n\n(d) the provisions of this section shall not apply to workers engaged in work which by its nature involves long and regular hours of inactive or standby employment; and\n\n(e) for the purposes of this section the Commissioner, in the event of any dispute, may, and shall if so required by either party to the dispute, decide whether or not any worker is a shift worker."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A105",
+   "no": 105,
+   "noLabel": {
+    "en": "Section 105."
+   },
+   "text": {
+    "en": "(1) An employer and a worker may agree to the assignment of a task to be performed by the worker as equivalent to work for a day of 8 hours and the performance of such task shall, for the purposes of this Act, be equivalent to working for a day.\n\n(2) Nothing in this Chapter contained shall prevent any employer from agreeing with any worker in his employment that the wages of such worker shall be paid at an agreed rate in accordance with the amount of work done and not by the day."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A106",
+   "no": 106,
+   "noLabel": {
+    "en": "Section 106."
+   },
+   "text": {
+    "en": "Every employer shall keep in some conspicuous position on the place of employment, so that it shall be readily accessible to the workers there employed, a Working Board on which, at intervals not exceeding 2 days, in a language understood by the workers shall be shown —\n\n(a) the wage rate, whether by day, hour, piece, task or otherwise of each worker;\n\n(b) the amount earned, including overtime payments each day by each worker;\n\n(c) the amount of any deductions made from the earnings of each worker: Provided that if any record, check roll or other document maintained by an employer as part of the routine of the place of employment gives the particulars required to be shown on a Working Board or required to be shown in a register or registers in accordance with the provisions of section 59 and that such record, check roll or other document is readily accessible to all of the workers employed by him, such record, check roll or other document may, to the corresponding extent, be maintained in place of and be treated as a Working Board for the purposes of this section. Period for which wages payable."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A107",
+   "no": 107,
+   "noLabel": {
+    "en": "Section 107."
+   },
+   "text": {
+    "en": "Unless the agreement or contract otherwise stipulates, and subject to the provisions of section 104, wages shall only be payable for days actually worked, for prescribed holidays, for days other than Sundays or other rest days on which through no fault of the worker no work is provided by the employer and for time spent in attending before any court if such court certifies that his attendance was necessary for the ends of public justice."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A108",
+   "no": 108,
+   "noLabel": {
+    "en": "Section 108."
+   },
+   "text": {
+    "en": "(1) The wages of a worker payable monthly shall be paid not later than 10 days after the expiration of the period in respect of which they are due.\n\n(2) All wages due to a worker whose agreement or contract is terminated by expiry of the period for which it was made shall be paid to him on the day on which such agreement or contract terminates.\n\n(3) All wages due to a worker whose agreement or contract is terminated by his employer shall be paid to him on the day on which such agreement or contract is terminated or if this is not possible, on the first day, not being a rest day or prescribed holiday, after the day on which such agreement or contract is terminated.\n\n(4) All wages due to a worker who terminates his agreement or contract with his employer after he has given due notice to such employer as required under section 12 or 27 shall be paid to him on the day on which such agreement or contract is terminated.\n\n(5) If a worker terminates his agreement or contract without giving notice to his employer as required by section 12 or by the terms of any contract or if the required notice having been given the worker terminates his agreement or contract without waiting for the expiry of such notice, all wages due shall be paid to him before the expiry of the tenth day after the day on which he terminates his agreement or contract: Provided that the employer may, subject to any order made by a court or the Commissioner to the contrary, deduct from the wages due to the worker such sum as the worker is liable to pay in lieu of notice according to the provisions of section 13 or the terms of his contract, if any. Payment through overseer or in shops etc. prohibited."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A109",
+   "no": 109,
+   "noLabel": {
+    "en": "Section 109."
+   },
+   "text": {
+    "en": "(1) No wages shall be paid to any worker —\n\n(a) through the agency of any overseer; or\n\n(b) at or within any shop or store; or\n\n(c) at any place or premises where intoxicating liquors are sold, except with the prior approval of the Commissioner.\n\n(2) The payment of wages where made in cash shall be made on a working day only and at or near the work place, except as may be otherwise prescribed or provided for by collective agreement, arbitration award or where other arrangements known to the workers concerned are considered more appropriate. Wages to be paid in legal tender."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A110",
+   "no": 110,
+   "noLabel": {
+    "en": "Section 110."
+   },
+   "text": {
+    "en": "Except where otherwise expressly prescribed the entire amount of the wages earned by, or payable to, any worker in respect of any work done by him shall be actually paid to him in legal tender and every payment of, or on account of, and such wages made in any other form shall be illegal, null and void."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A111",
+   "no": 111,
+   "noLabel": {
+    "en": "Section 111."
+   },
+   "heading": {
+    "en": "Agreements and contracts to pay wages otherwise than in legal tender"
+   },
+   "text": {
+    "en": "In all agreements and contracts for the employment of any worker or for the performance by any worker of any work, the wages of such worker shall be made payable in legal tender and not otherwise and in any agreement or contract the whole or any part of such wages shall be made payable in any other manner such agreement or contract shall be illegal, null and void. Stipulation as to place and manner of spending wages illegal."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A112",
+   "no": 112,
+   "noLabel": {
+    "en": "Section 112."
+   },
+   "text": {
+    "en": "No employer shall impose in any agreement or contract for the employment of any worker any terms as to the place at which, or the manner in which, or the person with whom, any wages paid to the worker are to be expended and every agreement or contract between an employer and a worker containing such terms shall be illegal, null and void. Deductions and workers’ right to recover wages."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A113",
+   "no": 113,
+   "noLabel": {
+    "en": "Section 113."
+   },
+   "text": {
+    "en": "(1) No deductions shall be made by an employer from the wages of a worker otherwise than in accordance with the provisions of this Act or of any other written law.\n\n(2) The following deductions may be made from the wages of a\n\n(a) deductions made at the request in writing of the worker in respect of the payment to any superannuation scheme lawfully established for the benefit of the worker and approved by the\n\n(b) deductions made at the request in writing of the worker for the purpose of remittance by the employer to a specified member of the family of the worker;\n\n(c) deductions of any overpayment made during the immediately preceding 3 months by the employer to the worker by the employer’s mistake;\n\n(d) deductions for the recovery of advances made in accordance with the provisions of subsection (4) of section 102 and for the cost of maintenance in hospital of the workers or any dependant incurred pursuant to the provisions of subsection (3) of section 65;\n\n(e) deductions for goods and services (including dwellinghouses) provided for the benefit of and with the consent of, the worker and approved by the Commissioner; and\n\n(f) with the consent of the worker and subject to the approval of the Commissioner deductions for damage to or loss of goods entrusted to a worker for custody if such damage or loss is directly attributable to his neglect or default.\n\n(3) The total of any deductions made under this section from the wages of a worker in respect of any one month shall not exceed 50% of the wages earned by the worker during that period.\n\n(4) Every worker shall be entitled to recover in the courts of Brunei Darussalam so much of his wages exclusive of sums lawfully deducted in accordance with the provisions of this Act or any rules made thereunder as shall not have been actually paid to him in legal tender. Interest on advances forbidden."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A114",
+   "no": 114,
+   "noLabel": {
+    "en": "Section 114."
+   },
+   "text": {
+    "en": "No employer shall make any deduction by way of discount, interest or any similar charge on account of any advance of wages made to any worker. Deductions for fines etc."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A115",
+   "no": 115,
+   "noLabel": {
+    "en": "Section 115."
+   },
+   "text": {
+    "en": "Except where otherwise expressly permitted by the provisions of this Act or any rule made thereunder no employer shall make any deduction or make any agreement or contract with a worker for any deduction from wages to be paid by the employer to the worker or for any payment to the employer by the worker for or in respect of any fine, or of bad or negligent work or of injury to the materials or other property of the employer. Remuneration other than wages."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A116",
+   "no": 116,
+   "noLabel": {
+    "en": "Section 116."
+   },
+   "text": {
+    "en": "Nothing in this Chapter or in any rule made thereunder shall render illegal an agreement or contract with a worker for giving to him food, a dwelling place or other allowances or privileges in addition to money wages as a remuneration for his services but so that no employer shall give to a worker any intoxicating liquor by way of such remuneration: Provided that such legal allowances are with the consent of the worker and approved by the Commissioner, both as to suitability for the personal use and benefit of the worker and his family and the monetary value attributed to such allowances."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A117",
+   "no": 117,
+   "noLabel": {
+    "en": "Section 117."
+   },
+   "text": {
+    "en": "(1) Nothing in this Chapter or in any rule made thereunder shall prevent an employer with the approval in writing of the Commissioner, which may at any time be revoked, from establishing a shop for the sale of rice and provisions generally to his workers at prices to be approved by the Commissioner and marked or exhibited in such manner as he may require but such employer shall not compel any worker to purchase rice or such provisions at such shop.\n\n(2) No employer shall trade with any worker or establish or keep a shop on any place of employment otherwise than in accordance with the preceding subsection.\n\n(3) No person employed on any place of employment as an assistant or overseer shall traffic with any worker employed under or together with him or shall such person be either directly or indirectly financially concerned in the management of any shop wheresoever it be situated which is used or maintained for the purpose of supplying commodities of any kind whatsoever to those employed under or together with such person: Provided that nothing in this subsection shall prevent the establishment, under the law for the time being in force relating to societies or co-operative societies, of any co-operative society. Employment of immigrant workers."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A118",
+   "no": 118,
+   "noLabel": {
+    "en": "Section 118."
+   },
+   "text": {
+    "en": "(1) No person shall knowingly employ any immigrant worker unless he has obtained a licence from the Commissioner to do so in such form and subject to such conditions as may be prescribed unless such worker has been brought before the Commissioner for the purpose of subsection (2) of section 50: [S 25/90] Provided that where an immigrant worker is found at any premises or place and is in possession of any tools or other implements or is engaged in any activity which may give rise to the inference that he is doing any work, the occupier of such premises or place shall, until the contrary is proved, be presumed to have employed him knowing that he is an immigrant worker. [S 25/90]\n\n(2) In subsection (1), “occupier”, in relation to any premises or place, includes —\n\n(a) the person having the charge, management or control of either the whole or part of the premises or place, either on his own account or as an agent; and\n\n(b) a contractor who is carrying out building operations or construction works at the premises or place on behalf of some other [S 25/90]\n\n(3) Any employer who contravenes the provisions of subsection (1) and any immigrant worker found working for such an employer shall each be guilty of an offence: Penalty, a fine of $10,000 and imprisonment for a term of not less than 6 months and not more than 3 years. [S 25/90]\n\n(4) In subsection (3), “employer” includes a person who has entered into an engagement for money or money’s worth for another person to work\n\n(a) that other person is already under an agreement or contract with an employer (as defined in section 2) and in respect of whom a licence has been contained by such employer from the Commissioner under subsection (1); or\n\n(b) the work is at piece rates or on commission, whether or not as the result of an arrangement with an employer (as defined in [S 25/90] Exemption of employer if not actual offender."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A119",
+   "no": 119,
+   "noLabel": {
+    "en": "Section 119."
+   },
+   "text": {
+    "en": "(1) When an employer is charged with an offence against this Chapter or any rule made thereunder he shall be entitled, upon information duly laid by him, to have any other person whom he charges as the actual offender brought before the court at the time appointed for hearing the charge and if, after the commission of the offence has been proved, the employer shall prove to the satisfaction of the court that he has used due diligence to enforce the provisions of this Chapter and that the said other person has committed the offence in question without his knowledge, consent or connivance, the said other person shall be liable to be summarily convicted of such offence and in such case the employer shall be exempt from any\n\n(2) When it appears to the Commissioner at the time of discovering an offence that the employer has used due diligence to comply with the provisions of this Chapter or any rule made thereunder and that the person who committed the offence did so without knowledge, consent or connivance of the employer, then the Commissioner may proceed against that person in the first instance without first proceeding against the employer."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A120",
+   "no": 120,
+   "noLabel": {
+    "en": "Section 120."
+   },
+   "text": {
+    "en": "Any employer who —\n\n(a) requires any worker to work on any occasion or under any circumstances in which it is unlawful for him to require such worker to work; or\n\n(b) fails to pay wages in accordance with the provisions of this Chapter; or\n\n(c) give any remuneration for services contrary to the provisions of this Chapter, or makes any deduction from the wages of any worker or receives any payment from any worker contrary to the provisions of this Chapter; or\n\n(d) trades with his worker or keeps a shop otherwise than in accordance with the provisions of this Chapter; or\n\n(e) contravenes or fails to comply with any order of the Commissioner made under this Chapter, and any person employed on a place of employment who contravenes the provisions of subsection (3) of section 117 shall be guilty of an offence: Penalty, a fine of $1,500 or in default thereof imprisonment for 6 months. Power to make rules."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A121",
+   "no": 121,
+   "noLabel": {
+    "en": "Section 121."
+   },
+   "text": {
+    "en": "(1) His Majesty in Council may from time to time make rules generally for carrying out the provisions of this Part.\n\n(2) Without prejudice to the generality of the foregoing power such rules may —\n\n(a) provide for any matter which by this Part is to be or may be\n\n(b) prescribe in respect of place of employment to which Chapter X has been applied —\n\n(i) the form and siting of latrines and the arrangements to be made for disposal of night soil;\n\n(ii) the steps to be taken for the control of malaria, including the administration of prophylactics;\n\n(iii) the steps to be taken for the protection and adequacy of the water supply; and\n\n(iv) the requirements for inspection and management of hospitals;\n\n(c) provide for the establishment of a fund or other method of securing the discharge of any liabilities and the expenses of repatriation of workers upon such terms and conditions and subject to such control as he deems necessary and for the administration of such a fund in conjunction with any fund established under the provisions of paragraph (l) of subsection (1) of section 56;\n\n(d) prescribe the fees to be paid and by whom payable for any licences issued, attestations, endorsements or registration effected or any other acts required to be done in pursuance of the provisions of this Act or any rules made thereunder.\n\n(3) Any rule may provide a penalty for the breach or contravention thereof not exceeding a fine of $600 or in default thereof imprisonment for a term not exceeding 3 months.\n\nPROCEDURE AND SAVINGS Costs of proceedings."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A122",
+   "no": 122,
+   "noLabel": {
+    "en": "Section 122."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "No court fees shall be chargeable in the first instance on any proceeding commenced by a worker, or by the Commissioner on his behalf, against his employer under this Act; but in case a conviction shall be had or judgement given against the employer, the same shall be paid by the employer, together with the general costs of the proceeding. Convictions and penalties."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A123",
+   "no": 123,
+   "noLabel": {
+    "en": "Section 123."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "(1) Subject to any special provisions to the contrary contained in the Act, all convictions and penalties for offences under this Act may be had and recovered before a Court of a Magistrate on complaint by any person aggrieved or by the Commissioner or any person authorised by him in that\n\n(2) Any such Court may, notwithstanding anything contained in any written law to the contrary, impose the full punishment prescribed by this Act."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A124",
+   "no": 124,
+   "noLabel": {
+    "en": "Section 124."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "The Commissioner and any officer authorised by him in writing shall have the right to appear and be heard before any Court in any proceedings under this Act instituted by him."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A125",
+   "no": 125,
+   "noLabel": {
+    "en": "Section 125."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "For the purposes of this Act and of the Penal Code (Chapter 22), the Commissioner and all officers duly appointed or authorised under this Act shall be deemed to be public servants."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A126",
+   "no": 126,
+   "noLabel": {
+    "en": "Section 126."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "For the purposes of sections 159 and 510 of the Penal Code (Chapter 22), every state, factory, mine or place of employment in which 10 or more workers are employed shall be deemed to be a public place. Enactment no bar to civil suit."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A127",
+   "no": 127,
+   "noLabel": {
+    "en": "Section 127."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "Nothing in this Act shall operate to prevent any employer or worker from enforcing their respective civil rights and remedies for any breach or non-performance of an agreement or contract by any suit in Court in any case which proceedings are not instituted or if instituted are not proceeded with to judgement and satisfaction under this Act."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A128",
+   "no": 128,
+   "noLabel": {
+    "en": "Section 128."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "In all proceedings under this Act the onus of proving that he is not the employer or the person whose duty it is under this Act or under any rule made thereunder to do or abstain from doing anything shall be on the person who alleges that he is not the employer or other person as the case may be. Service of summons."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A129",
+   "no": 129,
+   "noLabel": {
+    "en": "Section 129."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "(1) A summons issued by the Commissioner in accordance with section 6 may be served on any person by delivering or tendering to him a copy thereof signed by the Commissioner:\n\n(a) if the person to be summoned has an agent authorised to accept service of the summons on his behalf, service on such agent shall be sufficient;\n\n(b) if the person to be summoned cannot be found and has no agent authorised to accept service of the summons on his behalf, service on any adult male member (not being a servant) of the family of the person to be summoned who is residing with him shall be sufficient.\n\n(2) When such summons as aforesaid is addressed to a company it may be served —\n\n(a) by leaving a copy thereof signed by the Commissioner, at the registered office, if any, of the company; or\n\n(b) by sending such copy by post in a letter addressed to the company at its principal office, whether such office is situated within Brunei Darussalam or elsewhere; or\n\n(c) by delivering such copy to any director, secretary or other principal officer of the company.\n\n(3) When the serving officer delivers or tenders a copy of the summons to the person to be summoned or to any agent or other person to be summoned or to an agent or other person on his behalf, he shall require the signature of the person to whom the copy is so delivered or tendered to an acknowledgement of service endorsed on the original summons.\n\n(4) If —\n\n(a) such refuses or is to sign the acknowledgement; or\n\n(b) the serving officer cannot find the person to be summoned and there is no agent empowered to accept service of the summons on his behalf nor any other person on whom the service can be made, the serving officer shall affix a copy of the summons on the outdoor of the house in which the person to be summoned ordinarily resides and then return the original to the Commissioner with a return endorsed thereon or annexed thereto stating that he has so affixed the copy and the circumstances under which he did so.\n\n(5) The serving officer shall, in all cases in which the summons has been served under subsection (3) of this section endorse or annex, or cause to be endorsed or annexed, on or to the original summons a return stating the time when and the manner in which the summons was served.\n\n(6) When the summons is returned under subsection (4) of this section, the Commissioner shall, if the return under that subsection has not been verified by the affidavit of the serving officer, and may if it has been so verified, examine the serving officer on affirmation touching his proceedings and may make such further enquiry in the matter as he thinks fit and shall either declare that the summons has been duly served or order such service as he thinks fit.\n\n(7) When the Commissioner is satisfied that there is reason to believe that the person to be summoned is keeping out of the way for the purpose of avoiding service or that for any other reason cannot be served in the ordinary way, the Commissioner may order the summons to be served by affixing a copy thereof in some conspicuous place or near the office of the Commissioner and also upon some conspicuous part of the house, if any, in which the person to be summoned is known to have resided, or in such other manner as the Commissioner thinks fit.\n\n(8) The service substituted by order of the Commissioner shall be as effectual as if it had been made personally on the person to be summoned.\n\n(9) Whenever service is substituted by order of the Commissioner, the Commissioner shall fix such time for the appearance of the person to be summoned as the case may require.\n\n(10) Any order or notice in writing made or issued by the Commissioner or the Health Officer in the exercise of powers conferred by this Act may be served as if the same were a summons, and the provisions of this section, other than subsection (9) of this section, shall apply to the service of any such order or notice. Application of fines."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A130",
+   "no": 130,
+   "noLabel": {
+    "en": "Section 130."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "When under this Act any court imposes a fine the court may, if it thinks fit, direct that the whole or any part of such fine or sum when recovered by paid to the aggrieved party. Existing Acts not affected."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A131",
+   "no": 131,
+   "noLabel": {
+    "en": "Section 131."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "text": {
+    "en": "Nothing in this Act shall operate to relieve any employer of any duty or liability imposed upon him by the provisions of any other Act for the time being in force or to limit any powers given to any Government officer by any such Act. Existing agreements etc. not affected."
+   }
+  },
+  {
+   "id": "BN-CAP-93-2002-LABOUR-ACT-A132",
+   "no": 132,
+   "noLabel": {
+    "en": "Section 132."
+   },
+   "chapter": {
+    "en": "PART V"
+   },
+   "heading": {
+    "en": "___________________________"
+   },
+   "text": {
+    "en": "All agreements and contracts entered into between any employer and any worker, valid and in force on the date of the commencement of this Act shall continue to be in force after such date and, subject to the express provisions contained in any such agreement or contract, the parties thereto shall be subject to and entitled to the benefit of the provisions of this Act."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "LABOUR ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

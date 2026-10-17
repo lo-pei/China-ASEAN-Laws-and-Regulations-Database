@@ -1,7 +1,7 @@
 {
  "id": "PH-H1863",
  "title": {
-  "zh": null,
+  "zh": "将伊莎贝拉省 Cabagan市镇 Tallag 村学校的名称变更为Biuag 社区学校的法案",
   "en": "An Act Changing the Name of the Tallag Barrio School in the Municipality of Cabagan, Province of Isabela, to Biuag Community School",
   "orig": "An Act Changing the Name of the Tallag Barrio School in the Municipality of Cabagan, Province of Isabela, to Biuag Community School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 7, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Tallag Barrio School in the Municipality of Cabagan, Province of Isabela, to Biuag Community School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6316",
  "title": {
-  "zh": null,
+  "zh": "通过增加并常规化国家住房计划主要部门年度拨款、增加住房抵押金融公司与住房保险担保公司股本、确定其他资金来源并拨款，规定全面综合住房与城市发展融资计划的法案",
   "en": "An Act Providing for a Comprehensive and Integrated Shelter and Urban Development Financing Program By Increasing and Regularizing the Yearly Appropriation of the Major Components of the National Shelter Program, Including the Abot-kaya Pabahay Fund Under Republic Act No. 6846, Augmenting the Authorized Capital Stock and Paid-up Capital of the National Home Mortgage Finance Corporation (Nhmfc) and the Home Insurance and Guaranty Corporation (Higc), Identifying Other Sources of Funding and Appropriating Funds for the Purposes",
   "orig": "An Act Providing for a Comprehensive and Integrated Shelter and Urban Development Financing Program By Increasing and Regularizing the Yearly Appropriation of the Major Components of the National Shelter Program, Including the Abot-kaya Pabahay Fund Under Republic Act No. 6846, Augmenting the Authorized Capital Stock and Paid-up Capital of the National Home Mortgage Finance Corporation (Nhmfc) and the Home Insurance and Guaranty Corporation (Higc), Identifying Other Sources of Funding and Appropriating Funds for the Purposes"
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity . - This Act shall take effect fifteen (15) days after its complete publication in at least two (2) national newspapers of general circulation.\nApproved, December 16, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for a Comprehensive and Integrated Shelter and Urban Development Financing Program By Increasing and Regularizing the Yearly Appropriation of the Major Components of the National Shelter Program, Including the Abot-kaya Pabahay Fund Under Republic Act No. 6846, Augmenting the Authorized Capital Stock and Paid-up Capital of the National Home Mortgage Finance Corporation (Nhmfc) and the Home Insurance and Guaranty Corporation (Higc), Identifying Other Sources of Funding and Appropriating Funds for the Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

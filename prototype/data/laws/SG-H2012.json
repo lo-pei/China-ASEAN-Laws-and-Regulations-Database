@@ -1,7 +1,7 @@
 {
  "id": "SG-H2012",
  "title": {
-  "zh": null,
+  "zh": "所得税（核准航运投资企业外国收入豁免）命令 2023",
   "en": "Income Tax (Exemption of Foreign Income of Approved Shipping Investment Enterprise) Order 2023",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) The income described in sub‑paragraph (2) of an ASIE that is received in Singapore during the period of the ASIE’s approval is exempt from tax.\n(2) Sub-paragraph (1) applies to any income comprising payment of dividends from, or partnership profits of, an approved related party of the ASIE, that is paid out of income derived by the approved related party on or after 1 June 2011 and during the period of the approval of the related party (including any period of approval that starts before 12 December 2018 for an approved company or approved partnership mentioned in paragraph 3(3)), from any of the following activities:\n(a)the sale of a seagoing ship, or the assignment to another person of all the rights of the approved related party as the buyer under a contract for the construction of a seagoing ship;\n(b)the sale of all of the issued ordinary shares in a special purpose company of the approved related party, where, at the time of the sale of the shares, the special purpose company owns any seagoing ship or is the buyer under a contract for the construction of any seagoing ship.\n(3) Sub-paragraph (1) does not apply to income of the ASIE that is paid out of income derived from any activity mentioned in sub‑paragraph (2)(a) by an approved related party of the ASIE —\n(a)in the course of carrying on a business of trading in seagoing ships or of constructing seagoing ships for sale; or\n(b)if the activity involves the leasing of a seagoing ship under a finance lease that is treated as a sale under regulations made under section 10C(1) of the Act before 12 December 2018.\n[S 38/2023 wef 31/12/2021]\n(4) In sub-paragraph (2), “special purpose company”, in relation to an approved related party of an ASIE, means a company that is wholly owned by the approved related party and whose only business or intended business is the chartering or finance leasing of seagoing ships."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income of Approved Shipping Investment Enterprise) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

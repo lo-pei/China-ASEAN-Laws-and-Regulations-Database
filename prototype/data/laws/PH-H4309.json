@@ -1,7 +1,7 @@
 {
  "id": "PH-H4309",
  "title": {
-  "zh": null,
+  "zh": "授予 Calinog-Lambunao 糖厂综合农业公司在菲律宾境内建设、运营和维护私人固定点对点、中继与移动无线电台的临时许可的法案",
   "en": "An Act Granting Calinog-Lambunao Sugar Mills Integrated Farming, Incorporated A\" Temporary Permit to Construct, Operate and Maintain Private Fixed Point-To-Point, Relay and Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines",
   "orig": "An Act Granting Calinog-Lambunao Sugar Mills Integrated Farming, Incorporated A\" Temporary Permit to Construct, Operate and Maintain Private Fixed Point-To-Point, Relay and Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines"
  },
@@ -171,5 +171,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Calinog-Lambunao Sugar Mills Integrated Farming, Incorporated A\" Temporary Permit to Construct, Operate and Maintain Private Fixed Point-To-Point, Relay and Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

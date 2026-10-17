@@ -1,7 +1,7 @@
 {
  "id": "PH-H8474",
  "title": {
-  "zh": null,
+  "zh": "将西米萨米斯省Bonifacio市镇至Don Victoriano市镇的省道改设为国道的法案",
   "en": "An Act Converting the Provincial Road From the Municipality of Bonifacio to the Municipality of Don Victoriano, Province of Misamis Occidental Into a National Road",
   "orig": "An Act Converting the Provincial Road From the Municipality of Bonifacio to the Municipality of Don Victoriano, Province of Misamis Occidental Into a National Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in. a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Provincial Road From the Municipality of Bonifacio to the Municipality of Don Victoriano, Province of Misamis Occidental Into a National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

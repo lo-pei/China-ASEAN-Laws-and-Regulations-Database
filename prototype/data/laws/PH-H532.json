@@ -1,7 +1,7 @@
 {
  "id": "PH-H532",
  "title": {
-  "zh": null,
+  "zh": "为特许市警察局的制服警官、警士、下士、巡警与侦探以及消防局的制服警官与消防员提供终身养老金、为此拨款并规范该资金支付的法案",
   "en": "An Act to Provide Life Pensions for Uniformed Officers, Sergeants, Corporals, Patrolmen and Detectives of the Police Department as Well as Uniformed Officers and Firemen of the Fire Department of the Chartered Cities; to Appropriate Funds Therefor; and to Regulate the Disbursement of Said Funds",
   "orig": "An Act to Provide Life Pensions for Uniformed Officers, Sergeants, Corporals, Patrolmen and Detectives of the Police Department as Well as Uniformed Officers and Firemen of the Fire Department of the Chartered Cities; to Appropriate Funds Therefor; and to Regulate the Disbursement of Said Funds"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect on its approval.\nApproved, June 17, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide Life Pensions for Uniformed Officers, Sergeants, Corporals, Patrolmen and Detectives of the Police Department as Well as Uniformed Officers and Firemen of the Fire Department of the Chartered Cities; to Appropriate Funds Therefor; and to Regulate the Disbursement of Said Funds",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

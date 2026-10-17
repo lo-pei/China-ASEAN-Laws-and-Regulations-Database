@@ -1,7 +1,7 @@
 {
  "id": "PH-H6396",
  "title": {
-  "zh": null,
+  "zh": "规定菲律宾经济特区设立、运营、管理与协调的法律框架与机制，为此设立菲律宾经济区管理局（PEZA），并为其他目的法案",
   "en": "An Act Providing for the Legal Framework and Mechanisms for the Creation, Operation, Administration, and Coordination of Special Economic Zones in the Philippines, Creating for This Purpose, the Philippine Economic Zone Authority (PEZA), and for Other Purposes",
   "orig": "An Act Providing for the Legal Framework and Mechanisms for the Creation, Operation, Administration, and Coordination of Special Economic Zones in the Philippines, Creating for This Purpose, the Philippine Economic Zone Authority (PEZA), and for Other Purposes"
  },
@@ -461,14 +461,15 @@
    }
   },
   {
-   "id": "PH-H6396-A24_2",
+   "id": "PH-H6396-A24-d2",
    "no": 24,
    "noLabel": {
     "en": "Section 24."
    },
    "text": {
     "en": "The PEZA, the Department of Labor and Employment, and the Department of Finance shall jointly make a review of the incentive scheme provided in this section every two (2) years or when circumstances so warrant.\nCHAPTER V\nNATIONAL GOVERNMENT AND OTHER ENTITIES"
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6396-A43",
@@ -620,5 +621,13 @@
     "en": "Effectivity. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Legal Framework and Mechanisms for the Creation, Operation, Administration, and Coordination of Special Economic Zones in the Philippines, Creating for This Purpose, the Philippine Economic Zone Authority (PEZA), and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1919",
  "title": {
-  "zh": null,
+  "zh": "所得税（认可单位信托）条例",
   "en": "Income Tax (Approved Unit Trust) Regulations",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. For the purposes of determining the gains or profits from the disposal of securities —\n(a)the cost of the shares on which entitlements to rights issues or options are based shall be reduced by any proceeds arising from the disposal of such entitlements or options;\n(b)where the proceeds arising from the disposal of entitlements to rights issues or options exceed the cost of the shares on which the entitlements or options are based, the portion of the excess chargeable to tax shall be 10%;\n(c)where shares are exchanged for any other shares, in circumstances other than those referred to in paragraph (e), the first-mentioned shares shall be deemed to have been disposed of on the date of acceptance by the approved unit trust of the offer to exchange the shares;\n(d)the average unit cost of each share after a bonus issue or share split shall be determined by dividing the cost of the original shares upon which the bonus shares or shares arising from the share split are based by —\n(i)in the case of a share split, the total number of the split shares;\n(ii)in the case of a bonus issue, the total number of the original and bonus shares;\n(e)where shares held by the approved unit trust are compulsorily acquired in part for money and in part for shares or wholly for shares in the take-over or reconstruction of a company to which those shares relate —\n(i)if the acquisition is wholly for shares, the cost of the new shares exchanged as consideration for the acquired shares shall be deemed to be the cost of the acquired shares; or\n(ii)if the acquisition is in part for shares and in part for money, the cost of the new shares shall be deemed to be the cost of the acquired shares reduced by the amount of the payment in money and, if the amount paid in money exceeds the cost of the acquired shares, the portion of the excess chargeable to tax shall be 10%; and\n(f)any reference to “shares” shall include stocks."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Approved Unit Trust) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

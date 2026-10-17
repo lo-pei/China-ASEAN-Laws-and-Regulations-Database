@@ -1,7 +1,7 @@
 {
  "id": "SG-H436",
  "title": {
-  "zh": null,
+  "zh": "终身护保与长期护理法 2019",
   "en": "CareShield Life and Long-Term Care Act 2019",
   "orig": null
  },
@@ -1134,5 +1134,13 @@
     "en": "FOURTH SCHEDULE\nSections 2(1) and 63(1)\nMEANING OF NOT DISABLED\nIn this Act, a person is not disabled only if he or she can perform all of the following activities of daily living without assistance all the time:\n(a)washing himself or herself in the bath or shower (including getting into or out of the bath or shower), or washing himself or herself by other means;\n(b)dressing and undressing himself or herself, or (where required) securing or fastening on, or removing from, his or her body any brace, artificial limb or other medical or surgical appliance;\n(c)feeding himself or herself;\n(d)toileting, or managing his or her bladder and bowel functions through the use of a protective undergarment or surgical appliance (where required);\n(e)walking, or moving, from one room to another or on a level surface;\n(f)transferring himself or herself, or moving, from a bed to an upright chair or a wheelchair, and vice versa.\n[Act 18 of 2025 wef 01/01/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "CareShield Life and Long-Term Care Act 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

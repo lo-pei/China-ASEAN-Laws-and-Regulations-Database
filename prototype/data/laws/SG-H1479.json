@@ -1,7 +1,7 @@
 {
  "id": "SG-H1479",
  "title": {
-  "zh": null,
+  "zh": "马来西亚联邦土地专员（法人化）法 1959",
   "en": "Federal Lands Commissioner, Malaysia (Incorporation) Act 1959",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "11. Nothing in this Act shall affect the rights of the Government or of any bodies politic or corporate or other persons except such as are mentioned in this Act and those claiming by, from or under them."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Federal Lands Commissioner, Malaysia (Incorporation) Act 1959",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

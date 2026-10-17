@@ -1,7 +1,7 @@
 {
  "id": "SG-H3154",
  "title": {
-  "zh": null,
+  "zh": "心智能力条例 2010",
   "en": "Mental Capacity Regulations 2010",
   "orig": null
  },
@@ -768,5 +768,13 @@
     "en": "THE SCHEDULE\nRegulation 28B\nFirst column\nSecond column\nPerson\nRequirements\n1.Next-of-kin of P\nThe next-of-kin must submit to the Public Guardian satisfactory evidence that —\n(a)he or she is a next-of-kin of P; and\n(b)the next-of-kin —\n(i)does not know the identity of P’s donee; or\n(ii)is unable to contact P’s donee after having made reasonable attempts to do so.\n2.The healthcare service licensee providing a licensable healthcare service to P\nThe healthcare service licensee must submit to the Public Guardian satisfactory evidence that —\n(a)P is receiving the licensable healthcare service from the healthcare service licensee; and\n(b)the healthcare service licensee —\n(i)does not know the identity of P’s next‑of‑kin or donee; or\n(ii)is unable to contact P’s next‑of‑kin or donee after having made reasonable attempts to do so.\n3.The embassy of a country of which P is a citizen\nThe embassy must submit to the Public Guardian satisfactory evidence that —\n(a)P is a citizen of the country;\n(b)P is in Singapore; and\n(c)the embassy —\n(i)does not know the identity of P’s donee or next-of-kin; or\n(ii)is unable to contact P’s donee or next-of-kin after having made reasonable attempts to do so.\n4.A person who wishes to apply for an order of the court under section 20(2)(b) of the Act to appoint a deputy to make decisions on P’s behalf in relation to a matter or matters concerning P’s personal welfare or P’s property and affairs\nThe person must submit to the Public Guardian satisfactory evidence that —\n(a)the person —\n(i)does not know the identity of P’s donee; or\n(ii)is unable to contact P’s donee after having made reasonable attempts to do so; and\n(b)the person has taken one or more steps for the purpose of commencing proceedings to apply for the order.\nIn this Schedule —\n“healthcare service licensee” means a person who holds a licence under the Healthcare Services Act 2020 to provide a licensable healthcare service;\n“licensable healthcare service” has the meaning given by section 3(1) of the Healthcare Services Act 2020.\n[S 870/2022 wef 14/11/2022]\n[S 821/2023 wef 18/12/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Mental Capacity Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

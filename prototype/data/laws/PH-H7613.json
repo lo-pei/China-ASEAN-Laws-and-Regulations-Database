@@ -1,7 +1,7 @@
 {
  "id": "PH-H7613",
  "title": {
-  "zh": null,
+  "zh": "将巴拉望省普林塞萨港市Santa Monica描笼涯地籍测量800-D第2单元第1-LC号项目地图203项下部分土地重新划为可处置农业用地",
   "en": "An Act to Reclassify a Portion of the Land Under Cadastral Survey 800-D, Module 2, Project No. 1-LC Map 203 in Barangay Santa Monica, Puerto Princesa City, Province of Palawan as Agricultural Land Open to Disposition",
   "orig": "An Act to Reclassify a Portion of the Land Under Cadastral Survey 800-D, Module 2, Project No. 1-LC Map 203 in Barangay Santa Monica, Puerto Princesa City, Province of Palawan as Agricultural Land Open to Disposition"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Reclassify a Portion of the Land Under Cadastral Survey 800-D, Module 2, Project No. 1-LC Map 203 in Barangay Santa Monica, Puerto Princesa City, Province of Palawan as Agricultural Land Open to Disposition",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

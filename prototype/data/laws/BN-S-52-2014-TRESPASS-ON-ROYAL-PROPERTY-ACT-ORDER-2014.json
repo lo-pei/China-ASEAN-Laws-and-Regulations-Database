@@ -1,7 +1,7 @@
 {
  "id": "BN-S-52-2014-TRESPASS-ON-ROYAL-PROPERTY-ACT-ORDER-2014",
  "title": {
-  "zh": null,
+  "zh": "侵入王室财产法命令 2014",
   "en": "TRESPASS ON ROYAL PROPERTY ACT ORDER 2014",
   "orig": null
  },
@@ -80,5 +80,13 @@
     "en": "The Schedule to the Interpretation and General Clauses Act is amended by inserting \"Section 3 of the Trespass on Royal Property Act (Chapter 23).\" immediately after \"Section 29 of the Misuse of Drugs Act (Chapter 27).\". Made this 12th. day of Zulhijjah, 1435 Hijriah corresponding to the 7th. day of October, 2014 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TRESPASS ON ROYAL PROPERTY ACT ORDER 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

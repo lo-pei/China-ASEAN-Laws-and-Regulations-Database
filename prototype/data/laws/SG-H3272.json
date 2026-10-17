@@ -1,7 +1,7 @@
 {
  "id": "SG-H3272",
  "title": {
-  "zh": null,
+  "zh": "穆斯林婚姻与离婚规则",
   "en": "Muslim Marriage and Divorce Rules",
   "orig": null
  },
@@ -1492,5 +1492,13 @@
     "en": "THIRD SCHEDULE\nRules 27(2), 39(2), (6) and (18)(b), 40(2) and (6), 45, 45A and 45B\nPART I\nFEES PAYABLE TO SYARIAH COURT AND\nREGISTRY OF MUSLIM MARRIAGES\n1.Application for registration of Marriage where at least one party is a citizen of Singapore\n$39\n2.[Deleted by S 388/2001 wef 01/04/2001]\n3.Application for registration of Marriage where both parties are not citizens of Singapore\n$128\n3A.Application for registration of Marriage where at least one party is below the age of 21 years\n$120\n3B.Application for registration of Marriage where the wali refuses consent\n$100\n4.Registration of revocation of divorce by Kadi or Naib Kadi under rule 6(3) (inclusive of issue of 2 copies of certificate)\n$42\n5.Issue of a summons under section 142 of the Act (summons to appear before a Kadi)\n$40\n6.[Deleted by S 51/2009 wef 01/03/2009]\n7.Certified copy of the notes of evidence of any proceedings before a Kadi or Naib Kadi\n$180\n8.Search of Register:\n(a)Register of Divorces\n$27\n(b)Register of Marriages:\n(i)through the Internet\n$35\n(ii)carried out by any other means\n$50\n9.Certified copy of grounds of refusal to register a marriage, divorce or revocation of divorce issued by —\n(a)the Syariah Court\n$39\n(b)the Registry of Muslim Marriages\n$100\n10.Certified copy of certificate of divorce\n$13\n11.Issue of a summons for maintenance\n$16\n12.Issue of a summons for marriage payment\n$16\n13.Issue of a summons for mutaah\n$16\n14.Issue of an originating summons for divorce, nullity or other application\n$22\n15.Issue of a summons for application not made at a hearing\n$16\n16.Registration of divorce\n$100\n17.Certified copy of a decree or order of Court\n$22\n18.Issue of a summons to a witness under rule 20(1)\n$16\n19.Service of a summons on a defendant or a witness\n$29\n20.Certified copy of notes of evidence of any proceedings before the Syariah Court (per page)\n$34\n21.Certified copy of the grounds of any order made by the Syariah Court\n$140\n22.Certificate of Inheritance issued under section 115 of the Act\n$34\n23.Revised Certificate of Inheritance on the death of one or more of the beneficiaries of the estate before the final distribution of the estate is made (per page)\n$34\n24.Appeal against the registrar’s decision under rule 38(2)\n$64\n25.Issue of a certificate of attendance under rule 17(5)\n$50\n26.Issue of a commencement certificate or continuation certificate under rule 17(3) and (4)\n$204\n27.Filing fees\n$12\n28.Certified copy of certificate of marriage\n$40\n29.Registration of polygamous marriage\n$380\n30.Change of details of a solemnization or particulars of any witness at a solemnization\n$15\n31.Service of each document on a party through the electronic system\n$2\nPART II\nFEES PAYABLE TO CHIEF EXECUTIVE IN RESPECT OF APPEALS TO APPEAL BOARD\n1.Appeal under rule 39:\n(a)on filing a notice of appeal\n$16\n(b)for the hearing by the Appeal Board\n$630\n(c)for the issue of a certified copy of the decision of the Appeal Board\n$18\n(d)for the issue of a certified copy of the grounds of decision of the Appeal Board\n$100\n(e)deposit payable for the issue of the notes of evidence and other documents of the Syariah Court or the Registry of Muslim Marriages\n$500\n2.Appeal on certain matters under rule 40:\n(a)on filing a notice of appeal\n$16\n(b)for the hearing by the Appeal Board\n$630\n(c)for the issue of a certified copy of the decision of the Appeal Board\n$18\n(d)for the issue of a certified copy of the grounds of decision of the Appeal Board\n$100\n(e)deposit payable for the issue of the notes of evidence and other documents of the Syariah Court\n$300\n3.Application for permission to appeal under rule 39(17):\n(a)on filing a motion\n$16\n(b)for the hearing by the Appeal Board\n$630\n(c)for the issue of a certified copy of the decision of the Appeal Board\n$18\n(d)for the issue of a certified copy of the grounds of decision of the Appeal Board\n$100\n[S 804/2017 wef 01/01/2018]\n[S 639/2018 wef 22/10/2018]\n[S 910/2022 wef 30/11/2022]\n[S 148/2025 wef 03/03/2025]\n[G.N. Nos. S 331/99; S146/2000; S434/2000]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Muslim Marriage and Divorce Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

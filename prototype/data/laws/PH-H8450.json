@@ -1,7 +1,7 @@
 {
  "id": "PH-H8450",
  "title": {
-  "zh": null,
+  "zh": "2009 年菲律宾海岸警卫队法",
   "en": "Philippines Coast Guard Law of 2009",
   "orig": "Philippines Coast Guard Law of 2009 An Act Establishing the Philippines Coast Guard as an Armed and Uniformed Service Attaches to the Department of Transportation and Communications, Thereby Repealing Republic Act No. 5173, as Amended, and for Other Purposes."
  },
@@ -320,5 +320,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any two (2) newspapers of general circulation's."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Philippines Coast Guard Law of 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

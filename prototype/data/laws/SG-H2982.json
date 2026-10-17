@@ -1,7 +1,7 @@
 {
  "id": "SG-H2982",
  "title": {
-  "zh": null,
+  "zh": "法律援助与咨询条例",
   "en": "Legal Aid and Advice Regulations",
   "orig": null
  },
@@ -364,5 +364,13 @@
     "en": "SECOND SCHEDULE\nRegulations 3A and 6(1)(b) and (2)\nPrescribed classes of proceedings\n1.Any of the following proceedings that are uncontested:\n(a)proceedings for adoption under the repealed Adoption of Children Act 1939 or the Adoption of Children Act 2022;\n[S 235/2024 wef 31/12/2021]\n[S 799/2024 wef 15/10/2024]\n(b)proceedings for guardianship under the Guardianship of Infants Act 1934;\n[S 235/2024 wef 31/12/2021]\n(c)proceedings for an appointment as a deputy under section 20(2)(b) of the Mental Capacity Act 2008;\n[S 215/2025 wef 01/04/2025]\n(d)proceedings to vary or amend an order made under section 20(2)(b) of the Mental Capacity Act 2008;\n[S 215/2025 wef 01/04/2025]\n(e)proceedings for grant of letters of administration or grant of probate under the Probate and Administration Act 1934;\n[S 215/2025 wef 01/04/2025]\n(f)proceedings for a divorce under the Women’s Charter 1961;\n[S 215/2025 wef 01/04/2025]\n(g)proceedings to vary an order made under Part 10 of the Women’s Charter 1961 when granting or subsequent to the grant of a judgment of divorce.\n[S 215/2025 wef 01/04/2025]\n2.Any of the following proceedings under the Administration of Muslim Law Act 1966:\n(a)proceedings arising from a married man’s pronouncement of divorce under section 46B(3) of that Act;\n(b)proceedings for a divorce under section 48(1) of that Act;\n(c)proceedings for a decree of fasakh under section 49(1)(a) or (b) of that Act.\n[S 692/2019 wef 16/10/2019]\n[S 235/2024 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Aid and Advice Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

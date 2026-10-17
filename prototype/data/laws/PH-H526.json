@@ -1,7 +1,7 @@
 {
  "id": "PH-H526",
  "title": {
-  "zh": null,
+  "zh": "将东内格罗斯省Tanjay市镇Pamplona村改设为同名市镇的法案",
   "en": "An Act to Convert the Barrio of Pamplona, Municipality of Tanjay, Province of Oriental Negros, to a Municipality With the Same Name",
   "orig": "An Act to Convert the Barrio of Pamplona, Municipality of Tanjay, Province of Oriental Negros, to a Municipality With the Same Name"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Barrio of Pamplona, Municipality of Tanjay, Province of Oriental Negros, to a Municipality With the Same Name",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H496",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（罪行构成）规则 1987",
   "en": "Central Provident Fund (Composition of Offences) Rules 1987",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded in accordance with section 63(1) of the Act:\n(a)any offence under section 7(5), 8A(5), 58(1)(a), (b), (d) or (e) or 58A of the Act;\n(b)any offence under section 58(a), (b), (d) or (e) of the Act as in force before 1 October 2020."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Composition of Offences) Rules 1987",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

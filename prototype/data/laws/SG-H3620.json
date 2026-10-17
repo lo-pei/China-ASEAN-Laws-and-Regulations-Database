@@ -1,7 +1,7 @@
 {
  "id": "SG-H3620",
  "title": {
-  "zh": null,
+  "zh": "退休与再雇佣法 1993",
   "en": "Retirement and Re-employment Act 1993",
   "orig": null
  },
@@ -462,5 +462,13 @@
     "en": "13. Nothing in this Act operates to relieve any employer of any duty or liability imposed upon the employer by the provisions of any other written law for the time being in force."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Retirement and Re-employment Act 1993",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

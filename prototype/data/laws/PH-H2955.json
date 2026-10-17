@@ -1,7 +1,7 @@
 {
  "id": "PH-H2955",
  "title": {
-  "zh": null,
+  "zh": "授权总统代表菲律宾共和国政府为华盛顿特区进出口银行或任何其他国际银行为在伊利甘市设立综合钢厂提供的贷款提供担保并为其他目的",
   "en": "An Act Authorizing the President, for and in Behalf of the Government of the Republic of the Philippines, to Guarantee Such Loans as May be Granted by the Export-Import Bank of Washington, D.C., or Any Other International Bank for the Establishment of an Integrated Steel Plant at Iligan City and for Other Purposes",
   "orig": "An Act Authorizing the President, for and in Behalf of the Government of the Republic of the Philippines, to Guarantee Such Loans as May be Granted by the Export-Import Bank of Washington, D.C., or Any Other International Bank for the Establishment of an Integrated Steel Plant at Iligan City and for Other Purposes"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President, for and in Behalf of the Government of the Republic of the Philippines, to Guarantee Such Loans as May be Granted by the Export-Import Bank of Washington, D.C., or Any Other International Bank for the Establishment of an Integrated Steel Plant at Iligan City and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

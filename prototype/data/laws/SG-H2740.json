@@ -1,7 +1,7 @@
 {
  "id": "SG-H2740",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）命令 2021",
   "en": "Infrastructure Protection (Protected Places) Order 2021",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nAssociate Director, Corporate Facilities Security, Singapore Telecommunications Limited\nTELOK BLANGAH EXCHANGE\nAll that area comprised in part of Land Lot 01301W in Mukim No. 1 (TELOK BLANGAH) occupied by “TELOK BLANGAH EXCHANGE” containing an area of about 4,739 square metres and bounded approximately as follows:\nCommencing at the northernmost corner of the perimeter fence of “TELOK BLANGAH EXCHANGE” which point is 987.7 metres South and 3,716.2 metres West of the Survey Department origin of coordinates, the boundaries run along successive lines of fence of the bearings and distances approximately as follows:\nBearing\nDistance in metres\n161° 49′\n55.4\n161° 47′\n40.1\nto a point where it meets a line, thence along the line of bearing 251° 53′ and distance of 5.9 metres across a driveway to a fence, thence along successive lines of fence of the bearings and distances as follows:\nBearing\nDistance in metres\n251° 46′\n16.7\n290° 08′\n14.0\n325° 50′\n22.0\n319° 47′\n18.2\n317° 17′\n12.1\n307° 25′\n22.8\n303° 31′\n18.7\n296° 09′\n5.7\n71° 38′\n80.2\nto the point of commencement.\nThe boundaries of “TELOK BLANGAH EXCHANGE” are more particularly delineated and edged pink on Survey Print No. 1618-80 filed in the office of the Chief Surveyor, Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

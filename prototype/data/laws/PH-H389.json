@@ -1,7 +1,7 @@
 {
  "id": "PH-H389",
  "title": {
-  "zh": null,
+  "zh": "通过进一步修订第466号联邦法第146条（经第56号共和国法第12条修正），豁免视觉教育用教育影片及业余摄影用反转片缴纳特定税的法案",
   "en": "An Act Exempting from the Payment of Specific Taxes Educational Films for Visual Education and Any Reversal Film Used in Amateur Photography by Amending Further Section One Hundred Forty-Six of Commonwealth Act Numbered Four Hundred Sixty-Six, as Amended by Section Twelve of Republic Act Numbered Fifty-Six",
   "orig": "An Act Exempting from the Payment of Specific Taxes Educational Films for Visual Education and Any Reversal Film Used in Amateur Photography by Amending Further Section One Hundred Forty-Six of Commonwealth Act Numbered Four Hundred Sixty-Six, as Amended by Section Twelve of Republic Act Numbered Fifty-Six"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Exempting from the Payment of Specific Taxes Educational Films for Visual Education and Any Reversal Film Used in Amateur Photography by Amending Further Section One Hundred Forty-Six of Commonwealth Act Numbered Four Hundred Sixty-Six, as Amended by Section Twelve of Republic Act Numbered Fifty-Six",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10287",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省 Sagay 市北内格罗斯科学技术国立学院改设为国立大学，名称为北内格罗斯国立大学，并为此拨款的法案",
   "en": "An Act Converting the Northern Negros State College of Science and Technology in Sagay City, Province of Negros Occidental Into a State University to Be Known as the \"State University of Northern Negros\", and Appropriating Funds Therefor",
   "orig": "An Act Converting the Northern Negros State College of Science and Technology in Sagay City, Province of Negros Occidental Into a State University to Be Known as the \"State University of Northern Negros\", and Appropriating Funds Therefor"
  },
@@ -320,5 +320,13 @@
     "en": "Effecitivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Northern Negros State College of Science and Technology in Sagay City, Province of Negros Occidental Into a State University to Be Known as the \"State University of Northern Negros\", and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H652",
  "title": {
-  "zh": null,
+  "zh": "民事清单与酬金法 1970——议会会议通过的决议",
   "en": "Civil List and Gratuity Act 1970 — Resolution Passed at Parliament Meeting",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Civil List and Gratuity Act 1970\nIt is notified for general information that the following resolution was passed at a meeting of Parliament on 6 March 2026:\n“That this Parliament, pursuant to section 7 of the Civil List and Gratuity Act 1970, resolves that the Schedule to that Act be varied by deleting the figures “$6,696,700”, “$3,342,200” and “$550,000” in the second column and substituting for them the figures “$7,318,000”, “$4,542,000” and “$1,288,000”, respectively.”."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Civil List and Gratuity Act 1970 — Resolution Passed at Parliament Meeting",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

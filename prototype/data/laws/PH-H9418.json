@@ -1,7 +1,7 @@
 {
  "id": "PH-H9418",
  "title": {
-  "zh": null,
+  "zh": "1990年内政与地方政府部法",
   "en": "Department of the Interior and Local Government Act of 1990",
   "orig": "An Act Granting the Chief of the Philippine National Police (PNP) and the Director and the Deputy Director for Administration of the Criminal Investigation and Detection Group (CIDG) the Authority to Administer Oath and to Issue Subpoena and Subpoena Duces Tecum, Amending for the Purposes Republic Act No. 6975, as Amended, Otherwise known as the \"Department of the Interior and Local Government Act of 1990\""
  },
@@ -82,5 +82,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Department of the Interior and Local Government Act of 1990",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

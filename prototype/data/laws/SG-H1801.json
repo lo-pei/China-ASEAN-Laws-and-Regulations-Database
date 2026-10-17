@@ -1,7 +1,7 @@
 {
  "id": "SG-H1801",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（电梯翻新工程分区）（第 2 号）命令 2022",
   "en": "Housing and Development (Precincts for Lift Upgrading Works) (No. 2) Order 2022",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nAll those parts of the housing estate of the Board at Marsiling Rise comprised in Lot number 01348X in Mukim 13 and on which Apartment Block 115 is erected, and in Lot number 01353C in Mukim 13 and on which Apartment Block 119 is erected, and which are more particularly delineated in the Plan.\nTHE PLAN\nMARSILING RISE"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Lift Upgrading Works) (No. 2) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

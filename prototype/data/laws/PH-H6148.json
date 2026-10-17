@@ -1,7 +1,7 @@
 {
  "id": "PH-H6148",
  "title": {
-  "zh": null,
+  "zh": "授权在布拉干省Bustos市镇Bustos水坝内开发旅游度假区，名称为Bustos水坝旅游度假区的法案",
   "en": "An Act Authorizing the Development of a Tourist Resort Within Bustos Dam in the Municipality of Bustos, Province of Bulacan, to Be Known as the Bustos Dam and Tourist Resort",
   "orig": "An Act Authorizing the Development of a Tourist Resort Within Bustos Dam in the Municipality of Bustos, Province of Bulacan, to Be Known as the Bustos Dam and Tourist Resort"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, January 17, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Development of a Tourist Resort Within Bustos Dam in the Municipality of Bustos, Province of Bulacan, to Be Known as the Bustos Dam and Tourist Resort",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

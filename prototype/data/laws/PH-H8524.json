@@ -1,7 +1,7 @@
 {
  "id": "PH-H8524",
  "title": {
-  "zh": null,
+  "zh": "将 Palawan 省 Tubbataha 礁天然公园依 Nipas 法（第 7586 号）与 Palawan 环境计划法（第 7611 号）列为保护区，规定管理并为其他目的法案",
   "en": "An Act Establishing the Tubbataha Reefs Natural Park in the Province of Palawan as a Protected Area Under the Nipas Act (R.A. 7586) and the Strategic Environmental Plan (Sep) for Palawan Act (R.A. 7611), Providing for Its Management and for Other Purposes",
   "orig": "An Act Establishing the Tubbataha Reefs Natural Park in the Province of Palawan as a Protected Area Under the Nipas Act (R.A. 7586) and the Strategic Environmental Plan (Sep) for Palawan Act (R.A. 7611), Providing for Its Management and for Other Purposes"
  },
@@ -510,5 +510,13 @@
     "en": "Effectivity. - This Act shall take effect immediately after its complete publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the Tubbataha Reefs Natural Park in the Province of Palawan as a Protected Area Under the Nipas Act (R.A. 7586) and the Strategic Environmental Plan (Sep) for Palawan Act (R.A. 7611), Providing for Its Management and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

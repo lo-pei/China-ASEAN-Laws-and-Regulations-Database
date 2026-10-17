@@ -1,7 +1,7 @@
 {
  "id": "PH-H10157",
  "title": {
-  "zh": null,
+  "zh": "宣布每年6月10日为打拉省特别非工作假日，名称为“丹丁科詹科日”，以纪念爱德华多·“丹丁”·墨菲·科詹科二世诞辰的法案",
   "en": "An Act Declaring June 10 of Every Year a Special Nonworking Holiday in the Province of Tarlac to be Known as \"Danding Cojangco Day\" in Commemoration of the Birth Anniversary of Eduardo \"Danding\" Murphy Cojangco, Jr.",
   "orig": "An Act Declaring June 10 of Every Year a Special Nonworking Holiday in the Province of Tarlac to be Known as \"Danding Cojangco Day\" in Commemoration of the Birth Anniversary of Eduardo \"Danding\" Murphy Cojangco, Jr."
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring June 10 of Every Year a Special Nonworking Holiday in the Province of Tarlac to be Known as \"Danding Cojangco Day\" in Commemoration of the Birth Anniversary of Eduardo \"Danding\" Murphy Cojangco, Jr.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

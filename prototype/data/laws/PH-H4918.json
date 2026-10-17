@@ -1,7 +1,7 @@
 {
  "id": "PH-H4918",
  "title": {
-  "zh": null,
+  "zh": "将南拉瑙省划分为 Maranaw 省与南拉瑙省的法案",
   "en": "An Act Dividing the Province of Lanao Del Sur Into the Provinces of Maranaw and Lanao Del Sur.",
   "orig": "An Act Dividing the Province of Lanao Del Sur Into the Provinces of Maranaw and Lanao Del Sur."
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect immediately upon its approval.\nApproved, October 4, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Dividing the Province of Lanao Del Sur Into the Provinces of Maranaw and Lanao Del Sur.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1389",
  "title": {
-  "zh": null,
+  "zh": "环境公共卫生法 1987",
   "en": "Environmental Public Health Act 1987",
   "orig": null
  },
@@ -3097,5 +3097,13 @@
     "en": "FOURTH SCHEDULE\nSections 4(2) and 109\nPrivate persons who can be authorised to\nexercise powers under this Act or its\nregulations and powers in respect of\nwhich persons may act\nFirst column\nSecond column\nPrivate persons who may be authorised to exercise powers under this Act and regulations made under this Act\nPowers under this Act and its regulations which the person may be authorised to exercise\n(1)Any member or employee of a Town Council established under the Town Councils Act 1988\n)\n)\n)\n)\n)\nPowers of an authorised officer under —\n(a)section 21; and\n(b)sections 86 and 88 in relation to any offence under section 17 and regulation 30 of the Environmental Public Health (Public Cleansing) Regulations for contravening regulation 15(1) of those Regulations\n(2)Any member of any committee of a Town Council\n)\n)\n)\n(3)Any employee of an agent of a Town Council\n)\n)\n(4)Any operator of a public service vehicle\n)\n)\n(5)Any —\n)\nPowers of an authorised officer under —\n(a)section 21; and\n(b)sections 86 and 88 in relation to any offence under section 17.\n(a)member or employee of a society registered under the Societies Act 1966;\n)\n)\n)\n)\n(b)member, director or employee of a public company limited by guarantee registered under the Companies Act 1967; or\n)\n)\n)\n)\n)\n)\n(c)member of a council established by the Ministry of Sustainability and the Environment,\n)\n)\n)\n)\n)\nwhose objects or activities relate to environmental public health, environmental protection, living environment improvement or matters connected therewith\n)\n)\n)\n)\n)\n)\n)\n(6)Any employee of PSA Corporation Limited\n—\nPowers of an authorised officer under —\n(a)sections 21 and 42;\n(b)section 86 in relation to any offence under section 17, 18 or 19, Part 4 or to any offence under regulation 30 of the Environmental Public Health (Public Cleansing) Regulations for contravening regulations 4, 8(2), 9, 14, 15(1) or (3), 25 and 26(1)(a) and (b) of those Regulations; and\n(c)section 88 in relation to any offence under regulation 30 of the Environmental Public Health (Public Cleansing) Regulations for contravening regulations 4, 8(2), 9, 14, 15(1) or (3), 25 and 26(1)(a) and (b) of those Regulations.\n[S 442/2013; S 747/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Public Health Act 1987",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

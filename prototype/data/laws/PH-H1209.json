@@ -1,7 +1,7 @@
 {
  "id": "PH-H1209",
  "title": {
-  "zh": null,
+  "zh": "修订第601号共和国法第1条与第2条（经第1175号与第1197号共和国法修正）的法案",
   "en": "An Act Amending Sections One and Two of Republic Act Numbered Six Hundred One, as Amended by Republic Acts Numbered Eleven Hundred Seventy-Five and Eleven Hundred Ninety-Seven",
   "orig": "An Act Amending Sections One and Two of Republic Act Numbered Six Hundred One, as Amended by Republic Acts Numbered Eleven Hundred Seventy-Five and Eleven Hundred Ninety-Seven"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect on July 1, 1955.\nApproved: June 18, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Sections One and Two of Republic Act Numbered Six Hundred One, as Amended by Republic Acts Numbered Eleven Hundred Seventy-Five and Eleven Hundred Ninety-Seven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

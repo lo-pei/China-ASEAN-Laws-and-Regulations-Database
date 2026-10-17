@@ -1,7 +1,7 @@
 {
  "id": "PH-H4588",
  "title": {
-  "zh": null,
+  "zh": "授予 Ormoc Sugar Co., Inc. 在莱特省建设、维护和运营无线电广播站的特许经营权法案",
   "en": "An Act Granting Ormoc Sugar Co., Inc. a Franchise to Construct, Maintain and Operate a Radio Broadcasting Station in the Province of Leyte",
   "orig": "An Act Granting Ormoc Sugar Co., Inc. a Franchise to Construct, Maintain and Operate a Radio Broadcasting Station in the Province of Leyte"
  },
@@ -161,5 +161,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Ormoc Sugar Co., Inc. a Franchise to Construct, Maintain and Operate a Radio Broadcasting Station in the Province of Leyte",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

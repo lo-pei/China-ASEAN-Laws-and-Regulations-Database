@@ -1,7 +1,7 @@
 {
  "id": "SG-H2186",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发利息及其他付款豁免）公告 2018",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest payable during the period starting on 11 December 2017 and ending on 11 December 2022, by Eterna Capital Pte. Ltd. to any person who is not resident in Singapore, under the Indenture dated 11 December 2017, in respect of the Series A and B guaranteed senior secured notes which mature in 2022, is exempt from tax.\n(2) The interest payable during the period starting on 11 December 2017 and ending on 11 December 2024, by Innovate Capital Pte. Ltd. to any person who is not resident in Singapore, under the Trust Deed dated 11 December 2017, in respect of the convertible bonds with a guaranteed interest rate of 6% per annum and which mature in 2024, is exempt from tax.\n(3) The exemptions under sub‑paragraphs (1) and (2) are subject to the following conditions:\n(a)the person to whom the interest is payable did not use any funds obtained through the operation of any permanent establishment in Singapore to purchase the notes or bonds (as the case may be);\n(b)the terms and conditions specified in the letter of approval dated 17 November 2017 addressed to Withers KhattarWong, legal representative of PT Bumi Resources Tbk, are satisfied."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

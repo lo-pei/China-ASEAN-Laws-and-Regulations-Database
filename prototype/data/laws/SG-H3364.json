@@ -1,7 +1,7 @@
 {
  "id": "SG-H3364",
  "title": {
-  "zh": null,
+  "zh": "第 5（1）条项下的公告",
   "en": "Notification under Section 5 (1)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n1955 Edition Chapter No.\nShort title\n29\nThe Muslims (Titles and Construction) Ordinance.\n280\nThe Dealings in Land (Occupation Period) Ordinance.\nOrdinance No.\n43 of 1956\nThe Retirement from the Public Service (Compensation) Ordinance 1956.\n50 of 1959\nThe Development Loan (Local) Ordinance 1959.\n7 of 1961\nThe Development Loan Ordinance 1961.\n2 of 1963\nThe Loans (International Bank) Ordinance 1963.\n1970 Edition Chapter No.\nShort title\n66\nThe Development Loan Act.\n74\nThe Trust Funds Act.\nAct No.\n6 of 1972\nThe Development Loan Act 1972.\n18 of 1974\nThe Development Loan Act 1974.\n1 of 1978\nThe Development Loan Act 1978."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Notification under Section 5 (1)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

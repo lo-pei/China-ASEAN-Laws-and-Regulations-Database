@@ -1,7 +1,7 @@
 {
  "id": "SG-H1499",
  "title": {
-  "zh": null,
+  "zh": "费用（卫生部）命令",
   "en": "Fees (Ministry of Health) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be leviable at the Ministry of Health the following fees:\n(a)for an approval valid for 2 years of any institution, hospital, maternity home, clinic or other place as an approved institution for the purpose of the Termination of Pregnancy Act (Cap. 324)\n$600\n[S 697/2012 wef 31/12/2012]\n[G.N. Nos. S 327/88; S297/96; S 224/2000]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Ministry of Health) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

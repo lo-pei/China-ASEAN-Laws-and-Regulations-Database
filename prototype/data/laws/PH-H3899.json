@@ -1,7 +1,7 @@
 {
  "id": "PH-H3899",
  "title": {
-  "zh": null,
+  "zh": "为北苏里高省设立四名助理省检察官，并进一步修订《行政法典》第1674条的法案",
   "en": "An Act Providing for Four Assistant Provincial Fiscals for the Province of Surigao del Norte, by Further Amending Section Sixteen Hundred Seventy-Four of the Administrative Code",
   "orig": "An Act Providing for Four Assistant Provincial Fiscals for the Province of Surigao del Norte, by Further Amending Section Sixteen Hundred Seventy-Four of the Administrative Code"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for Four Assistant Provincial Fiscals for the Province of Surigao del Norte, by Further Amending Section Sixteen Hundred Seventy-Four of the Administrative Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

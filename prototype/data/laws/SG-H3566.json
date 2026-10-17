@@ -1,7 +1,7 @@
 {
  "id": "SG-H3566",
  "title": {
-  "zh": null,
+  "zh": "平台工人（平台工作协会——资金支出）公告 2024",
   "en": "Platform Workers (Platform Work Associations — Expenditure of Funds) Notification 2024",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "2. The funds of a registered platform work association may, subject to the rules of the platform work association and the provisions of the Act, be expended for the following objects:\n(a)the payment of affiliation fees to —\n(i)a registered combined federation; or\n(ii)a platform work association coordinating or advisory body registered in Singapore under any written law;\n[S 1013/2024 wef 01/01/2025]\n(b)the payment of affiliation fees to —\n(i)a federation comprising one or more registered platform work associations and one or more similar entities registered or established outside Singapore under the law of another country; or\n(ii)a platform work association coordinating or advisory body,\nthat is established outside Singapore as the Minister may approve on application by the registered platform work association;\n[S 1013/2024 wef 01/01/2025]\n(c)the payment of —\n(i)essential transport expenses and the amount of actual earnings lost by representatives of platform work associations attending meetings connected with or related to the promotion of industrial relations; and\n(ii)expenditure for the purpose of the establishment or maintenance of any platform work association coordinating or advisory body;\n(d)the editing, printing, publication and circulation of any journal, magazine, news sheet or other printed literature published by the platform work association for the advancement of its objects or the promotion of the interests of the members in accordance with its registered objects and rules;\n(e)the payment of affiliation fees to cultural or educational associations or organisations registered under any written law within Singapore and any cultural or educational associations or organisations established outside Singapore that the Minister may approve;\n[S 1013/2024 wef 01/01/2025]\n(f)the conduct of social, sporting, educational and charitable activities of the platform work association;\n(g)the promotion, organisation, operation and financing of co‑operative enterprises established by —\n(i)the platform work association; or\n(ii)any other registered platform work association,\nunder any written law in Singapore;\n(h)the payment of membership fees and other levies to the Consumers Association of Singapore (CASE), a society registered in Singapore under the Societies Act 1966;\n(i)the payment of entrance fees and annual subscriptions and donations to the Singapore Labour Foundation established under the Singapore Labour Foundation Act 1977;\n(j)the provision of bursaries and scholarships to members of the platform work association and their children;\n(k)the payment of membership fees and levies and donations to the NTUC Club, a society registered under the Societies Act 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Platform Workers (Platform Work Associations — Expenditure of Funds) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

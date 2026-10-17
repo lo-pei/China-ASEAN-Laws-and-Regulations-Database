@@ -1,7 +1,7 @@
 {
  "id": "SG-H2785",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（个人破产）规则 2020",
   "en": "Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020",
   "orig": null
  },
@@ -3042,5 +3042,13 @@
     "en": "THIRD SCHEDULE\nRules 170 and 171\nFees\n1.On making a bankruptcy application\n$60\n2.On a bond\n$4\n3.On filing a report of the Official Assignee in lieu of an affidavit\n$2\n4.On issuing an order to attend court, an order to produce documents or a summons under the Act\n$5\n5.For taking an affidavit or an affirmation or attestation upon honour in lieu of an affidavit or a declaration, for each person making same\n$5\n6.For each exhibit referred to in an affidavit, affirmation or attestation and required to be marked\n$1\n7.On every application under section 419 of the Act and every order of administration made under that section\n$60\n8.On every application for an order of discharge under section 394 of the Act\n$20\n9.On every application for an interim order under section 276 of the Act\n$20\n10.On every application to approve a voluntary arrangement\n$20\n11.On every application for the annulment of a bankruptcy order\n$20\n12.On sealing any order other than an order for adjournment of any proceedings\n$20\n13.On every record of trial\n$20 or such less sum as the Court may order\n14.On every allocatur by an officer of the Court for any costs, charges or disbursements for every $50 allowed or fraction of $50 allowed\n$2 subject to a minimum of $50\n15.On every application to oppose the issuance of a certificate of discharge by the Official Assignee under section 396(4) of the Act\n$20\n16.On a request for the refund of the fee paid for an unused document\n$20\n17.On filing any affidavit, for each page or part of a page, including any exhibit annexed to or produced with the affidavit\n$1\n18.On filing an instrument of authority\n$5\n19.On filing in the Registry any document for which no other fee is specified in this Schedule\n$10\n20.On every application to set aside a statutory demand\n$40\n21.On every appeal from a Registrar to a Judge in chambers\n$150\n22.On filing a statement of affairs\n$5\n23.On executing every warrant of seizure or search or warrant of arrest or order of commitment\n$20\n24.For the Sheriff or bailiff keeping possession of goods under a warrant\nActual cost (for each person employed in taking charge of any property under seizure)\n25.On any application for which no specific fee has been prescribed\n$20.\n[S 196/2022 wef 01/04/2022]\nNotes:\n1. The fee in item 12 is not payable on an order made on the application of the Official Assignee or the trustee of a bankrupt’s estate.\n2. The fee in item 17 is not payable on any affidavit filed by the Official Assignee or the trustee of a bankrupt’s estate.\n3. The fee in item 21 is not payable on any appeal filed by the Official Assignee."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

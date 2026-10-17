@@ -1,7 +1,7 @@
 {
  "id": "SG-H1366",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（豁免）条例 2011",
   "en": "Environmental Public Health (Exemption) Regulations 2011",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Section 20(1) of the Act shall not apply to, and in relation to, any of the following activities carried out by a specified conservancy and service contractor engaged by a Town Council referred to in regulation 3 in the discharge of any of the Town Council’s functions and duties under any written law, or by any employee or authorised agent of such a specified conservancy and service contractor:\n(a)the dumping or disposing of refuse, waste or other article from a vehicle in any refuse bin centre or refuse bin compartment located within the Town managed by the Town Council; or\n(b)the use of a vehicle for the purpose of dumping or disposing of refuse, waste or other article in any refuse bin centre or refuse bin compartment located within the Town managed by the Town Council."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Exemption) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

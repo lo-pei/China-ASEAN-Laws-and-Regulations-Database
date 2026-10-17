@@ -1,7 +1,7 @@
 {
  "id": "SG-H3259",
  "title": {
-  "zh": null,
+  "zh": "机动车（第三方风险与赔偿）法 1960",
   "en": "Motor Vehicles (Third-Party Risks and Compensation) Act 1960",
   "orig": null
  },
@@ -399,5 +399,13 @@
     "en": "THE SCHEDULE\nSections 3(1)(b) and (8), 4(1)(b), (2)(b) and (5) and 6(1)(a)\nTerritory\nWest Malaysia\n[22/2013]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Motor Vehicles (Third-Party Risks and Compensation) Act 1960",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

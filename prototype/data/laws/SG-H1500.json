@@ -1,7 +1,7 @@
 {
  "id": "SG-H1500",
  "title": {
-  "zh": null,
+  "zh": "费用（内政部）命令 2025",
   "en": "Fees (Ministry of Home Affairs) Order 2025",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraphs 2 and 3\nFees\nFirst column\nSecond column\nThird column\n1.Fee for issue of warrant card to an auxiliary police officer\n$35\nDirector, Administration and Finance, Singapore Police Force\n2.Fee for replacement of the following:\n(a)Warrant card for a police officer or auxiliary police officer\n$35\nDirector, Administration and Finance, Singapore Police Force\n(b)Certificate of service\n$10\nDirector, National Service Directorate, Ministry of Home Affairs\n(c)National service identity card\n$10\nDirector, National Service Directorate, Ministry of Home Affairs\n(d)Singapore Civil Defence Force warrant card, staff pass or access pass\n$10\nCommander, Corporate Services Hub (East) or Commander, Corporate Services Hub (West), Singapore Civil Defence Force"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Ministry of Home Affairs) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

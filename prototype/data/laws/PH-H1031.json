@@ -1,7 +1,7 @@
 {
  "id": "PH-H1031",
  "title": {
-  "zh": null,
+  "zh": "修订第911号共和国法（即《设立关税委员会、界定其权力并为其他目的法案》），在该法第18条与第19条之间增列名为第18-A条的新条文的法案",
   "en": "An Act to Amend Republic Act Numbered Nine Hundred Eleven, Entitled “An Act Creating a Tariff Commission, Defining its Powers, and for Other Purposes,” by Inserting Between Sections Eighteen and Nineteen of Said Act a New Section to be Known as Section Eighteen-A",
   "orig": "An Act to Amend Republic Act Numbered Nine Hundred Eleven, Entitled “An Act Creating a Tariff Commission, Defining its Powers, and for Other Purposes,” by Inserting Between Sections Eighteen and Nineteen of Said Act a New Section to be Known as Section Eighteen-A"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 25, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Nine Hundred Eleven, Entitled “An Act Creating a Tariff Commission, Defining its Powers, and for Other Purposes,” by Inserting Between Sections Eighteen and Nineteen of Said Act a New Section to be Known as Section Eighteen-A",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5300",
  "title": {
-  "zh": null,
+  "zh": "将马斯巴特省圣费尔南多市圣费尔南多中学的名称变更为Andres Clemente, Jr.中学的法案",
   "en": "An Act Changing the Name of the San Fernando High School in San Fernando, Masbate, to Andres Clemente, Jr. High School",
   "orig": "An Act Changing the Name of the San Fernando High School in San Fernando, Masbate, to Andres Clemente, Jr. High School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the San Fernando High School in San Fernando, Masbate, to Andres Clemente, Jr. High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

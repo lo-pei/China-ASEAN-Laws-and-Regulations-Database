@@ -1,7 +1,7 @@
 {
  "id": "PH-H3027",
  "title": {
-  "zh": null,
+  "zh": "关于设立菲律宾存款保险公司并界定其权力与职责的法案",
   "en": "An Act Establishing the Philippine Deposit Insurance Corporation, Defining its Powers and Duties and for Other Purposes",
   "orig": "An Act Establishing the Philippine Deposit Insurance Corporation, Defining its Powers and Duties and for Other Purposes"
  },
@@ -240,5 +240,11 @@
     "en": "This Act shall take effect upon approval. The Philippine Deposit Insurance Corporation shall commence business upon organization of the Board of Directors and certification by the Treasurer of the Philippines that the Permanent Insurance Fund has been appropriated.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act Establishing the Philippine Deposit Insurance Corporation, Defining its Powers and Duties and for Other Purposes",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

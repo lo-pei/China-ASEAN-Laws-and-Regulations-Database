@@ -1,7 +1,7 @@
 {
  "id": "PH-H7014",
  "title": {
-  "zh": null,
+  "zh": "1998 年菲律宾商船高级船员法",
   "en": "Philippine Merchant Marine Officers Act of 1998",
   "orig": "Philippine Merchant Marine Officers Act of 1998 An Act Regulating the Practice of the Merchant Marine Profession in the Philippines"
  },
@@ -544,5 +544,13 @@
     "en": "Effectivity. – This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in any major newspaper of general circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Philippine Merchant Marine Officers Act of 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

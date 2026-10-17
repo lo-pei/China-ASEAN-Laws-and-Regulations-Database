@@ -1,7 +1,7 @@
 {
  "id": "PH-H4623",
  "title": {
-  "zh": null,
+  "zh": "授予 Pilipino Telephone Corporation 在 Bicol 各省与棉兰老各省、市、镇之间安装、运营和维护电话系统的特许经营权法案",
   "en": "An Act Granting the Pilipino Telephone Corporation a Franchise to Install, Operate and Maintain Telephone Systems in and Between the Provinces, Cities and Municipalities in the Bicol Provinces and Mindanao",
   "orig": "An Act Granting the Pilipino Telephone Corporation a Franchise to Install, Operate and Maintain Telephone Systems in and Between the Provinces, Cities and Municipalities in the Bicol Provinces and Mindanao"
  },
@@ -260,5 +260,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Pilipino Telephone Corporation a Franchise to Install, Operate and Maintain Telephone Systems in and Between the Provinces, Cities and Municipalities in the Bicol Provinces and Mindanao",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

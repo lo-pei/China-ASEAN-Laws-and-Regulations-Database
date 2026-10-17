@@ -1,7 +1,7 @@
 {
  "id": "SG-H2005",
  "title": {
-  "zh": null,
+  "zh": "所得税（第 19B（10A）条豁免）命令 2015",
   "en": "Income Tax (Exemption from section 19B(10A)) Order 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Keysight Technologies Singapore (Holdings) Pte. Ltd. is exempt from section 19B(10A) of the Act in respect of capital expenditure incurred by it on 1 August 2014 in acquiring, for use in its trade or business, intellectual property rights from Agilent Technologies Singapore (Holdings) Pte. Ltd.\n(2) The exemption in sub-paragraph (1) is subject to the terms and conditions specified in the letter dated 31 March 2015 sent by the Economic Development Board and addressed to Keysight Technologies Singapore (Holdings) Pte. Ltd.\n(3) In sub-paragraph (1), “intellectual property rights” means rights in respect of intellectual property created before 1 August 2014 by Agilent Technologies Singapore (Holdings) Pte. Ltd. (a related party of Keysight Technologies Singapore (Holdings) Pte. Ltd.) —\n(a)to whom any deduction has been allowed under section 14 or 14D of the Act for any outgoing, expense or payment incurred for any activity which resulted in the creation of the intellectual property; and\n(b)whose proceeds from the sale, transfer or assignment of those intellectual property rights to Keysight Technologies Singapore (Holdings) Pte. Ltd. are not chargeable to tax."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption from section 19B(10A)) Order 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

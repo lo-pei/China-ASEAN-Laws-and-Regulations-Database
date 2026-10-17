@@ -1,7 +1,7 @@
 {
  "id": "BN-S-87-2012-E-ANTI-TERRORISM-AMENDMENT-NO-2-ORDER-2012",
  "title": {
-  "zh": null,
+  "zh": "反恐怖主义修正第 2 号命令 2012",
   "en": "ANTI TERRORISM AMENDMENT NO.2 ORDER 2012",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "70 of the principal Order is amended -\n\n(a) in subsection (1)-\n\n(i) in paragraph (b), by deleting \"and\" from the last line; (iil by deleting paragraph (c) and by substituting the following new therefor - \"(c) the freezing, forfeiture and seizure of property of any\n\n(iii) by adding the following new paragraph\"{d) \"measures for the prevention of the financing of terrorism the designation of any person.''; {bJ by repealing subsection (4J and by substituting the following new subsection therefor \"(4) Any person who fails or refuses to comply with or contravenes any regulations made under this section is guilty of an offence and liable on conviction to a fine not exceeding $1,000,000 and in the case of a continuing offence, to a further fine of $100,000 for every day during which the offence continues after conviction.\". Made this 24th. day of Muharram, 1434 Hijriah corresponding to the 8th. day of December, 2012 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ANTI TERRORISM AMENDMENT NO.2 ORDER 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

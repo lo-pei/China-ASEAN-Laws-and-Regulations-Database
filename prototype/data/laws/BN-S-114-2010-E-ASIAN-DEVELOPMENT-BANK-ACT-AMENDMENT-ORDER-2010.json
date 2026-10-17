@@ -1,7 +1,7 @@
 {
  "id": "BN-S-114-2010-E-ASIAN-DEVELOPMENT-BANK-ACT-AMENDMENT-ORDER-2010",
  "title": {
-  "zh": null,
+  "zh": "亚洲开发银行法修正命令 2010",
   "en": "ASIAN DEVELOPMENT BANK ACT AMENDMENT ORDER 2010",
   "orig": null
  },
@@ -73,5 +73,13 @@
     "en": "The Minister, with the approval of His Majesty the Sultan and Yang hereby authorised to subscribe on behalf of the Government{a) to shares of the original authorised capital stock of the Bank in with paragraph 1 of Article 5; {b) where the original authorised capital stock of the Bank is increased in accordance with paragraph 2 of Article 5, to a proportion of the increase of stock as provided in that paragraph; and {c) where the shares of Brunei Darussalam have been increased at the request of the Government in accordance with paragraph 3 of 5, to the amount of such increase.\". day of Muharram, 1432 Hijriah corresponding to the of December, 2010 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENG£RAN HAJI AHMAD, Pemangku Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ASIAN DEVELOPMENT BANK ACT AMENDMENT ORDER 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

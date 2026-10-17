@@ -49,8 +49,18 @@ const st = api.transStats;
 chk(typeof st === 'function', 'transStats 可用');
 
 // 6) 磁盘未被改动
+//    注意：不能用「文件里是否出现 "zh"」判断——原文分卷本身可能合法含有 title.zh / noLabel.zh 等字段。
+//    只检查自测标记是否落盘，并逐条比对原文语言的正文是否与加载时一致。
 const disk = fs.readFileSync(path.join(ROOT, 'prototype/data/intl/th-p01.js'), 'utf8');
-chk(disk.indexOf('"zh"') < 0 && disk.indexOf('［自测译文］') < 0, '磁盘上的原文文件未被写入译文（分离存储成立）');
+chk(disk.indexOf('［自测译文］') < 0, '磁盘上的原文文件未被写入译文（分离存储成立）');
+const diskCtx = newCtx();
+vm.runInContext(disk, diskCtx, { filename: 'th-p01-disk' });
+const diskLaw = diskCtx.CALR_FULLTEXT[lawId];
+const srcKey = law.language;
+const sameText = diskLaw.articles.every((a, i) =>
+  (a.text[srcKey] || '') === (law.articles[i].text[srcKey] || ''));
+chk(sameText, '磁盘上 ' + law.articles.length + ' 条原文正文与合并前逐条一致（未被译文污染）');
+chk(!diskLaw.articles[0].text.zh, '磁盘上原文条文不含 zh 语言键（译文只在内存）');
 
 console.log('\n===== 译文层自测：' + (pass ? '全部通过' : '存在失败') + ' =====');
 process.exit(pass ? 0 : 1);

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1020",
  "title": {
-  "zh": null,
+  "zh": "修订第547号共和国法第1、2、3条及其标题的法案",
   "en": "An Act to Amend Sections One, Two and Three and the Title of Republic Act Numbered Five Hundred Forty-Seven",
   "orig": "An Act to Amend Sections One, Two and Three and the Title of Republic Act Numbered Five Hundred Forty-Seven"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections One, Two and Three and the Title of Republic Act Numbered Five Hundred Forty-Seven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

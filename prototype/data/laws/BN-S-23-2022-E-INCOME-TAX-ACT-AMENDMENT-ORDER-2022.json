@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-23-2022-E-INCOME-TAX-ACT-AMENDMENT-ORDER-2022",
+ "title": {
+  "zh": "所得税法修正命令 2022",
+  "en": "INCOME TAX ACT AMENDMENT ORDER 2022",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p26",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 2417,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-23_2022_E-INCOME-TAX-ACT-AMENDMENT-ORDER-2022.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-23_2022_E-INCOME-TAX-ACT-AMENDMENT-ORDER-2022.pdf》（3 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-23-2022-E-INCOME-TAX-ACT-AMENDMENT-ORDER-2022-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "247 No. S23 Amendment Amendment Amendment Amendment Citation of section 65 of section 55A of section 55 of section INCOME\n\nCONSTITUTION\n\nARRANGEMENT OF SECTIONS TAX (Order of ACT made Chapter (AMENDMENT) OF under BRUNEI 35 Article ORDER, 83(3)) 17th. OCTOBER, 2022 Constitution of makes required any the time as the Collector or that the income claim or particulars the 30 and may 248 Income Tax Act (Amendment) Order, 2022. statement in than in by time as fourth lines Collector hereby source such the the less is claimed referred to as person of assessment, no deduction from respect of be any the document, statement not the the and 2022 the deduction from time as Article 83(3) of a time shall where 65(3) to furnish to in such in the person ORDER, immediately before \"Subject\" allowed - 83(3)) Yang Order that document, (1) further BRUNEI DARUSSALAM GOVERNMENT GAZETTE this Act, within or such a which part that the notice Article (AMENDMENT) and and be this such particulars or income of shall by Brunei Darussalam, His Majesty the Sultan in those sections in the under in those sections the conferred Notwithstanding anything or in or Section 12 of the Income Tax Act, period fails to provide in OF new or particulars concerns wholly Section 55 of the Act is amended, deleting \"in writing\" from such made the such CONSTITUTION ACT 35 section 55, 55A or the year be cited as adding the following that by (Order Chapter statement ascertaining date of service of the TAX power the deleting \"limited under under in in INCOME \"(1)\" basis period for source substituting \"specified of person may the 12 inserting notice given 55 -may document, the In exercise of Order Amendment of section in that Order under person the within may from allow\" therefor. following by by \"(2) of by by the if Amendment This Citation (aJ (bJ (aJ (bJ the 1. 2. 3. by 249 4th. time as Amendment allow\" therefor. substituting \"specified the 4. Amendment day Made [b) [a} date of service of [b) {a} the by by of by by of inserting \"within deleting \"in writing\" from deleting \"limited deleting \"in writing\" from the 65 55A may the THE day in such at allow\" immediately after \"furnish\" the Our of Rabiulawal, 1444 Hijriah corresponding to notice,\" from the second by the AND HIS such or YANG the in such the - Iman, Bandar Seri Begawan, Brunei not in the (3) time -17th. OCTOBER, 2022 and as in than the lines 30 days from such and the may by"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "INCOME TAX ACT AMENDMENT ORDER 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4907",
  "title": {
-  "zh": null,
+  "zh": "将 Quirino 副省从新比斯开省分离并改设为正规省，名称为 Quirino 省的法案",
   "en": "An Act to Separate the Sub-Province of Quirino From the Province of Nueva Vizcaya and Constitute It Into a Regular Province to Be Known as the Province of Quirino.",
   "orig": "An Act to Separate the Sub-Province of Quirino From the Province of Nueva Vizcaya and Constitute It Into a Regular Province to Be Known as the Province of Quirino."
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, September 10, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Separate the Sub-Province of Quirino From the Province of Nueva Vizcaya and Constitute It Into a Regular Province to Be Known as the Province of Quirino.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

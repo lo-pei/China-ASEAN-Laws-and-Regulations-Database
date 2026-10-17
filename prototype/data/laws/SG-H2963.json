@@ -1,7 +1,7 @@
 {
  "id": "SG-H2963",
  "title": {
-  "zh": null,
+  "zh": "土地产权（分层地契）条例",
   "en": "Land Titles (Strata) Regulations",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "THE SCHEDULE\nRule 7(4) and (5)\nFees\nFirst column\nSecond column\nThird column\nFourth column\nMatter\nLodgment or request received before 1st April 2005\nLodgment or request received on or after 1st April 2005 and before 1st August 2005\nLodgment or request received on or after 1st August 2005\n1.Issuing a subsidiary certificate of title or subsidiary strata certificate of title\n$70\n$70\n$70\n2.Registration of a strata title application, other than a strata title application referred to in item 3\n$75.30\n$75.30\n$75.30\n3.Registration of a strata title application (including examination by the Registrar of the title to the land affected and the subsisting leasehold titles) under section 125(1), 125A(2), 126(1), 126A or 127(1) of the Act\n$135.30\n$137.90\n$140.90\n4.Notification of termination of strata subdivision of a subdivided building shown on a strata title plan and memorial of the vesting of the parcel under section 78 or 81 of the Act, including notification of an order of court made under section 77 of the Act, and the cancellation of the relevant folio of the subsidiary strata land-register under section 80(2) or 81(9) of the Act\n$505.30\n$505.30\n$508.30\n5.Application for the cancellation of the Registrar’s caution entered in the records maintained by the Registrar under section 31(3) of the Act\n$60.30\n$60.30\n$63.30\n6.Issuing a certificate of constitution of a management corporation under the Act, including a copy thereof\n$10\n$10\n$10\n7.Filing a document or an instrument, or any registration or notification on the subsidiary strata land-register or the land-register, for which a fee is not prescribed and which is not exempted under rule 57 of the Land Titles Rules (Cap. 157, R 1)\n$55.30\n$56.35\n$59.35."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Land Titles (Strata) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

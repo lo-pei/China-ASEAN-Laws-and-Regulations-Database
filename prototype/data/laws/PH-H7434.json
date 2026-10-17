@@ -1,7 +1,7 @@
 {
  "id": "PH-H7434",
  "title": {
-  "zh": null,
+  "zh": "将设于Magallanes渔业学校校园内的中学迁至索索贡省Magallanes市镇Centro描笼涯并更名为Magallanes国立中学，同时为此拨款的法案",
   "en": "An Act Transferring the High School Located Within the Campus of the Magallanes School of Fisheries to Barangay Centro, Municipality of Magallanes, Province of Sorsogon and Changing its Name to Magallanes National High School, and appropriating funds therefor",
   "orig": "An Act Transferring the High School Located Within the Campus of the Magallanes School of Fisheries to Barangay Centro, Municipality of Magallanes, Province of Sorsogon and Changing its Name to Magallanes National High School, and appropriating funds therefor"
  },
@@ -82,5 +82,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring the High School Located Within the Campus of the Magallanes School of Fisheries to Barangay Centro, Municipality of Magallanes, Province of Sorsogon and Changing its Name to Magallanes National High School, and appropriating funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

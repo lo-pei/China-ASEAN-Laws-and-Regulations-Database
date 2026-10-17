@@ -1,7 +1,7 @@
 {
  "id": "SG-H800",
  "title": {
-  "zh": null,
+  "zh": "义务教育（指定理由）条例",
   "en": "Compulsory Education (Prescribed Reasons) Regulations",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 3(3)(a) of the Act, the prescribed reason for the absence of a child of compulsory school age at a national primary school shall be —\n(a)the hospitalisation of the child;\n(b)convalescence of the child from any injury or illness;\n(c)the suspension of the child from attending the national primary school by the principal or supervisor of the national primary school; or\n(d)such other reason as the Director-General may accept in writing.\n[G.N. No. S 330/2002]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Compulsory Education (Prescribed Reasons) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H189",
  "title": {
-  "zh": null,
+  "zh": "规定举行特别选举以填补 1947 年 1 月 6 日菲律宾总统第 19 号公告所召集的众议院现有空缺并为其他目的法案",
   "en": "An Act to Provide for the Holding of a Special Election to Fill Existing Vacancies in the House of Representatives Called in Proclamation Numbered Nineteen, Dated January Six, Nineteen Hundred and Forty-Seven, of the President of the Philippines, and for Other Purposes",
   "orig": "An Act to Provide for the Holding of a Special Election to Fill Existing Vacancies in the House of Representatives Called in Proclamation Numbered Nineteen, Dated January Six, Nineteen Hundred and Forty-Seven, of the President of the Philippines, and for Other Purposes"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval and shall govern only the special election provided for herein.\nApproved: March 4, 1947"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Holding of a Special Election to Fill Existing Vacancies in the House of Representatives Called in Proclamation Numbered Nineteen, Dated January Six, Nineteen Hundred and Forty-Seven, of the President of the Philippines, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

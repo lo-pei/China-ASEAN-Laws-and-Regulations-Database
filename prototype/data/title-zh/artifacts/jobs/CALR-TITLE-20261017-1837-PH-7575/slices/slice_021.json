@@ -1,0 +1,956 @@
+{
+ "jobId": "CALR-TITLE-20261017-1837-PH-7575",
+ "shard": 21,
+ "items": [
+  {
+   "id": "PH-H1280",
+   "en": "An Act to Provide Scholarships for the Study of Veterinary Science in the University of the Philippines, Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2066",
+   "en": "An Act Granting Dumlao Enterprises, Inc. a Franchise for an Electric Light, Heat and Power System in the Municipality of Batac, Province of Ilocos Norte",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7003",
+   "en": "An Act Constituting the First Congressional District in the Province of Samar Into a Separate Highway Engineering District, and Providing Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9067",
+   "en": "An Act Providing for the Construction of a Fish Port in Barangay Hagnaya, Municipality of San Remigio, Province of Cebu and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9538",
+   "en": "An Act Establishing a National High School in Barangay Tambo, Paranaque City, to Be Known as Tambo National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2908",
+   "en": "An Act Amending Certain Provisions of Republic Act Numbered Three Thousand Eighty-Nine Otherwise Known as the Gold Mining Industry Assistance Act of 1961",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3081",
+   "en": "An Act to Establish a Trade High School in the Municipality of Balabagan, Province of Lanao del Sur, and to Authorize the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3560",
+   "en": "An Act to Increase the Maximum Limit of Salaries of Municipal Officers, Amending for the Purpose Republic Act Numbered Thirty-Nine Hundred and Eighty-Two",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H5600",
+   "en": "An Act Establishing a High School in Barangay Ibabang Dupay, Lucena City, to be known as the Ibabang Dupay High School, and Appropriating Funds Therefore",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H6330",
+   "en": "An Act Providing for the Establishment of a District Hospital in the Municipality of Conner, Province of Kalinga-apayao, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H6938",
+   "en": "An Act Establishing a High School in Kapalangan, Gapan, Nueva Ecija, to Be Known as the Kapalangan National High School, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H10240",
+   "en": "An Act Renaming the Municipality of Rodriguez in the Province of Rizal as the Municipality of Montalban, Repealing for the Purpose Batas Pambansa Blg. 275",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1246",
+   "en": "An Act Providing for the Transmission Free of Charge Within the Philippines of Mail Matter and Telegrams of the Office of the President of the Philippines",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2179",
+   "en": "An Act Providing for the Establishment of a Hospital in the Municipality of Guiuan, Province of Samar, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3156",
+   "en": "An Act Authorizing the President of the Philippines to Sell a Certain Parcel of Land Owned by the Government to the Veterans Federation of the Philippines",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H4153",
+   "en": "An Act Amending and Repealing Certain Sections of Republic Act Numbered Five Hundred Thirteen, as Amended by Republic Act Numbered Nine Hundred Eighty-Two",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H6315",
+   "en": "An Act Establishing a School of Arts and Trades in Baguio City, to Be Known as the Baguio City School of Arts and Trades, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7466",
+   "en": "An Act Creating a Separate Engineering District in the Fourth Congressional District in the Province of Negros Occidental and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H10042",
+   "en": "An Act Creating a New District Engineering Office in the Third Legislative District of the Province of Zamboanga Del Norte and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1516",
+   "en": "An Act to Establish a Breeding Station in the Province of Iloilo and Another One in the Province of Isabela and to Appropriate the Necessary Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2011",
+   "en": "An Act Granting Abelardo L. Bantug a Franchise for an Electric Light, Heat and Power System in the Municipality of Victorias, Province of Negros Occidental",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2031",
+   "en": "An Act Granting the Cabatuan Electric Company a Franchise for an Electric Light, Heat and Power System in the Municipality of Cabatuan, Province of Isabela",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H479",
+   "en": "An Act to Create the Positions of Commercial Agents Under the Domestic Trade Division in the Bureau of Commerce, Appropriating the Necessary Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H10584",
+   "en": "An Act Estblishing A National High School In Barangay Latuan, Zamboanga City To Be Known As the Latuan National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1191",
+   "en": "An Act to Grant to Francisco Luansing a Franchise for an Electric Light, Heat and Power System in the Municipality of Tudela, Province of Misamis Occidental",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2390",
+   "en": "An Act Providing for the Paving with Concrete of the National Highway from the Municipality of Palo to the Municipality of Carigara in the Province of Leyte",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H4005",
+   "en": "An Act Establishing a Stock Farm and/or Breeding Station in the Province of Davao del Sur, and Authorizing the Appropriation of the Necessary Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1741",
+   "en": "An Act to Establish a Breeding Station in the Barrio of Upi in the Municipality of Gamu, Province of Isabela, and to Appropriate the Necessary Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H6398",
+   "en": "An Act Amending Article 39, Title Iii of Executive Order No. 226, Otherwise Known as the Omnibus Investments Code of 1987, as Amended, and for Other Purposes",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H722",
+   "en": "An Act Reorganizing the Municipal Board of the City of San Pablo, By Amending Section Eleven of Commonwealth Act Numbered Five Hundred and Twenty, as Amended",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8316",
+   "en": "An Act Providing for the Legitimation of Children Born to Parents Below Marrying Age, Amending for the Purpose the Family Code of the Philippines, as Amended",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9540",
+   "en": "An Act Establishing An Elementary School in Barangay San Antonio, Paranaque City, to Be Known as Silverio Elementary School, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9653",
+   "en": "An Act Increasing the Bed Capacity of Rizal Medical Center in Pasig City From Three Hundred (300) to Five Hundred (500) Beds and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2074",
+   "en": "An Act Granting the Angeles Electric Corporation a Franchise for an Electric Light, Heat and Power System in the Municipality of Angeles, Province of Pampanga",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H5926",
+   "en": "An Act Increasing the Bed Capacity of the Sara District Hospital in the Municipality of Sara, Province of Iloilo, To 100 Beds and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9076",
+   "en": "An Act Providing for the Construction of a Fish Port in Barangay Sabang, Municipality of Calabanga, Province of Camarines Sur and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9977",
+   "en": "An Act Declaring the City of Davao as the Chocolate Capital of the Philippines and the Entire Region XI (Davao Region) as the Cacao Capital of the Philippines",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H10169",
+   "en": "An Act Establishing a District Office of the Land Transportation Office (LTO) in the Municipality of Liloan. Province of Cebu, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H10608",
+   "en": "An Act Establishing a National High School in Barangay Tumitus, Zamboanga City to Be Known as the Tumitus National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1384",
+   "en": "An Act to Grant to Domingo Veloso of Tabango, Leyte, a Franchise for an Electric Light, Heat and Power System in the Municipality of Tabango, Province of Leyte",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H361",
+   "en": "An Act Authorizing Cities and Municipalities to Contract Loans for the Purpose of Purchasing or Expropriating Homesites and Subdividing Them for Resale at Cost",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7314",
+   "en": "An Act Establishing a National High School in Barangay Tipas in Taguig, Metro Manila to Be Known as Tipas National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7552",
+   "en": "An Act to Establish the Umiray National High School in Barangayumirayin the Municipality of Dingalan in the Province of Aurora and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7685",
+   "en": "An Act Constituting the Second Congressional District in the Province of Davao Del Sur Into a Separate District Engineering Office and Providing Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8132",
+   "en": "An Act Establishing a National High School in Barangay Barangka, City of Marikina to Be Known as Barangka National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9260",
+   "en": "An Act Establishing a National High School in Barangay San Raque, Zamboanga City to Be Known as San Roque National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9277",
+   "en": "An Act Establishing a National Science High School in the City of Pasay to Be Known as Pasay City National Science High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9300",
+   "en": "An Act Establishing a National High School in Barangay Sto. Niño, Parañaque City to Be Known as Sto. Nino National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9462",
+   "en": "An Act Establishing a National High School in Barangay Lingunan, Valenzuela City, to Be Known as Lingunan National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H949",
+   "en": "An Act Granting Salvador T. Singuillo a Franchise for an Electric Light, Heat and Power System in the Municipality of Sindigan, Province of Zamboanga del Norte",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9907",
+   "en": "An Act Transferring the Capital and Seat of Government of the Province of Rizal From the City of Pasig, Metro Manila to the City of Antipolo, Province of Rizal",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1186",
+   "en": "An Act Granting Dr. Hernani J. Jimenez a Franchise for an Electric Light, Heat and Power System in the Municipality of La Carlota, Province of Negros Occidental",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3983",
+   "en": "An Act Prescribing a Uniform System of Preliminary Investigation by Provincial and City Fiscals and Their Assistants, and by State Attorneys or Their Assistants",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H5277",
+   "en": "An Act Changing the Name of the Loon District Hospital in the Municipality of Loon, Province of Bohol, to Congressman Natalio P. Castillo, Sr. Memorial Hospital",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8040",
+   "en": "An Act Establishing a National High School in Barangay Recodo, City of Zamboanga to Be Known as the Recodo National High School and Appropriating Funds therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8065",
+   "en": "An Act Establishing a National High School in Barangay Bunguiao, City of Zamboanga to Be Known as Bunguiao National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9427",
+   "en": "An Act Establishing An Elementary School in Barangay Ugong, Valenzuela City to Be Known as Antonio M. Serapio Elementary School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9436",
+   "en": "An Act Establishing a National High School in Barangay Bagbaguin, Valenzuela City to Be Known as Bagbaguin National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1009",
+   "en": "An Act to Amend Certain Sections of Executive Order Numbered Three Hundred Ninety-Three, Otherwise Known as the Charter of the Central Luzon Agricultural College",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H10569",
+   "en": "An Act Establishing A National High School in Barangay Calabasa, Zamboanga City To Be Known As the Calabasa National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8131",
+   "en": "An Act Establishing a National High School in Barangay San Roque, City of Marikina to Be Known as San Roque National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8136",
+   "en": "An Act Establishing a National High School in Barangay Kalumpang, City of Marikina to Be Known as Kalumpang National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3203",
+   "en": "An Act to Convert the Catanduanes Secondary School in the Province of Catanduanes into a National High School and to Authorize the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3636",
+   "en": "An Act Granting Pablo R. Halili,. Inc. a Franchise for an Electric Light, Heat and Power System in the Municipalities of Paombong and Hagonoy, Province of Bulacan",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H511",
+   "en": "An Act to Grant the “Opon Electric Service Company” a Franchise to Operate an Electric Light, Heat, and Power System in the Municipality of Opon, Province of Cebu",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H5463",
+   "en": "An Act Establishing the Sultan Kudarat Polytechnic State College, Defining its Powers, Functions and Duties, Appropriating Funds Therefore, and for Other Purposes",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H6349",
+   "en": "An Act Establishing a High School in Barangay San Agapito, Isla Verde, Batangas City, to Be Known as the San Agapito High School, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8053",
+   "en": "An Act Establishing a National High School in Barangay Capisan, City of Zamboanga to Be Known as the Capisan National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9199",
+   "en": "An Act Changing the Name of Mahinog National High School in Barangay Hubangon, Municipality of Mahinog, Province of Camiguin to Sixto A. Abao National High School",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2381",
+   "en": "An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Oras, Province of Samar, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3525",
+   "en": "An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Siasi, Province of Sulu, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H4625",
+   "en": "An Act Fixing the Salaries of Judges of the Courts of Agrarian Relations, Circuit Criminal Courts and Juvenile and Domestic Relations Courts and for Other Purposes",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H4856",
+   "en": "An Act Providing for the Establishment of An Emergency Hospital in the Municipality of Santa Marcela, Province of Kalinga-Apayao, and Appropriating Funds Therefor.",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1808",
+   "en": "An Act to Amend Certain Sections of Republic Act Numbered One Thousand Four Hundred Thirty-Four, Otherwise Known as the Charter of the Samar Institute of Technology",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2388",
+   "en": "An Act Providing for the Establishment of a School of Fisheries in the Municipality of Naic, Province of Cavite, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2880",
+   "en": "An Act Providing for the Establishment of a School of Fisheries in the Municipality of Bobon, Province of Samar, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H5106",
+   "en": "An Act Amending Certain Provisions of Republic Act Numbered Fifty-Nine Hundred and Six, Known as the Charter of the City of Puerto Princesa, and for Other Purposes.",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H766",
+   "en": "An Act Amending Act Numbered Thirty-two Hundred Fifty-one, Entitled \"An Act to Prohibit the Exportation to Foreign Countries of Seeds of Abaca and Its Derivatives.\"",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8047",
+   "en": "An Act Establishing a National High School in Barangay Sinubong, City of Zamboanga to Be Known as the Sinubong National High School and Appropriating Funds therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8095",
+   "en": "An Act Establishing a National High School in Barangay Indahag, City of Cagayan De Oro to Be Known as Indahag National High School, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H10609",
+   "en": "An Act Establishing a National High School in Barangay Kasanyanga, Zamboanga City to Be Known as the Kasanyanga National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H227",
+   "en": "An Act Continuing the Existing Classifications of Provinces and Municipalities and Authorizing the President of the Philippines to Make Partial Readjustments Thereof",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7230",
+   "en": "An Act Imposing the Value-Added Tax on Certain Services Beginning January 1, 2001, Amending for the Purpose Section 5 of Republic Act No. 8424 and for Other Purposes",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9073",
+   "en": "An Act Providing for the Establishment of a Fish Port and Cold Storage Facility in the Municipality of Sasmuan, Province of Pampanga and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9421",
+   "en": "An Act Establishing a National High School in Barangay Paso de Blas Valenzuela City to Be Known as Paso De Blas National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2996",
+   "en": "An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Tandubas, Province of Sulu, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7922",
+   "en": "An Act Naming the Circumferential Road Connecting the Municipalities of Villaba, Tabango, San Isidro, Calubian and Leyte-Leyte as Marcelino R. Veloso National Highway",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8064",
+   "en": "An Act Establishing a National High School in Barangay Talon-Talon, City of Zamboanga to Be Known as Talon-Talon National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9507",
+   "en": "An Act Converting the Land Transportation Office (LTO) Extension Office Located in Muntinlupa City Into a Regular LTO District Office and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H10044",
+   "en": "An Act Establishing a National High School in Barangay Punta, Baybay City, Province of Leyte to Be Known as Punta National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H10279",
+   "en": "An Act Converting the Land Transportation Office (LTO) Extension Office Located in Mandaluyong City Into a Regular LTO District Office and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2814",
+   "en": "An Act Granting the Tuguegarao Electric Plant Co., Inc. a Franchise for an Electric Light, Heat and Power System in the Municipality of Tuguegarao, Province of Cagayan",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H6952",
+   "en": "An Act Constituting the Second Representative District of the Province of Northern Samar Into a Separate Highway Engineering District, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8028",
+   "en": "An Act Establishing a National High School in Barangay Bunawan, City of Davao to Be Known as Bernardino B. Bosque National High School and Appropriating Funds therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9469",
+   "en": "An Act Establishing a National High School in Barangay Sibulan, Toril District, Davao City to Be Known as Mt. Apo National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H10036",
+   "en": "An Act Classifying the San Fernando Bypass Road and San Fernando Bypass Extension Road in the Province of La Union, Into National Roads and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H10583",
+   "en": "An Act Establishing A National High School In Barangay Curuan, Zamboanga City To Be Known As the Sapa Manok Curuan National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H168",
+   "en": "An Act Providing for the Transmission Free of Charge Within the Philippines of Mail Matter of Senators and of Members of the House of Representatives of the Philippines",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2412",
+   "en": "An Act to Promote Career Incentives in the Medical Corps of the Armed Forces of the Philippines, Authorizing the Appropriation of Funds Therefor, and for Other Purposes",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2751",
+   "en": "An Act to Further Amend Republic Act Numbered Eighty-Five, as Amended by Republic Act Numbered Two Thousand Eighty-One, Creating the Development Bank of the Philippines",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2874",
+   "en": "An Act Providing for the Establishment of a National Trade School in the Municipality of Buguias, Mountain Province, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2879",
+   "en": "An Act Granting Jose S. Magallanes a Franchise to Install, Operate and Maintain an Electric Light, Heat and Power System in the Municipality of Tagum, Province of Davao",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3513",
+   "en": "An Act Providing for the Establishment of One Emergency Hospital in the Municipality of Pinukpuk, Mountain Province, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H5387",
+   "en": "An Act Establishing a Ten-bed Extension Hospital in Barangay Guba, Cebu City, to Be Known as the Southern Island Extension Hospital II, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H6759",
+   "en": "An Act Further Strengthening the Social Security System Thereby Amending for This Purpose, Republic Act No. 1161, as amended, otherwise known as the Social Security Law",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7988",
+   "en": "An Act Establishing a National High School in Barangay Tinagacan, General Santos City to Be Known as The Tinagacan National High School and Appropriating Funds therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8068",
+   "en": "An Act Establishing a National High School in Barangay Paradise Embac, City of Davao to Be Known as Paradise Embac National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8851",
+   "en": "An Act Converting the Western Link Circumferential Road Traversing Marcos Highway - Baguio Bauang Road and Kennon Road into a National Road and Providing Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9468",
+   "en": "An Act Establishing a National High School in Barangay Catigan, Toril District, Davao City to Be Known as Catigan National High School, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H142",
+   "en": "An act to Establish, Organize and Maintain One National Agricultural School in the Province of Negros Occidental and to appropriate certain sums of money for the purpose",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2120",
+   "en": "An Act Authorizing the President of the Philippines to Sell Certain Parcels of Land of the Private Domain of the National Government to the Boy Scouts of the Philippines",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2511",
+   "en": "An Act to Establish an Emergency Hospital in the Municipality of Mauban, Province of Quezon, and to Authorize the Appropriation of Seventy Thousand Pesos for the Purpose",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3471",
+   "en": "An Act to Establish a Breeding Station in the Barrio of Maujo, Municipality of Malitbog, Province of Southern Leyte, and to Authorize the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H4507",
+   "en": "An Act Converting Certain Vocational High Schools in the Province of Ilo-Ilo Into National Comprehensive High Schools and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H6921",
+   "en": "An Act Providing for the Establishment of Los Arcos National High School in the Municipality of Prosperidad, Province of Agusan Del Sur, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8789",
+   "en": "An Act Establishing An Integrated School in Barangay Addition Hills, City of Mandaluyong to Be Known as Addition Hills Integrated School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9539",
+   "en": "An Act Establishing a National High School in Barangay Veinte Reales, Valenzuela City, to Be Known as Veinte Reales National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1389",
+   "en": "An Act to Grant to Labason Electric Light Company a Franchise for an Electric Light, Heat and Power System in the Municipality of Labason, Province of Zamboanga del Norte",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1666",
+   "en": "An Act to Amend Republic Act Numbered Five Hundred Fourteen, Entitled “An Act Granting the Mindanao Colleges a Temporary Permit to Establish a Radio Broadcasting Station”",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2672",
+   "en": "An Act to Authorize the Mindanao Agricultural College to Organize and Operate a Research Department in Agriculture and Related Subjects, and to Appropriate Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2699",
+   "en": "An Act to Promote Career Incentives in the Dental Service of the Armed Forces of the Philippines, Authorizing the Appropriation of Funds Therefore, and for Other Purposes",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3409",
+   "en": "An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Concepcion, Province of Tarlac, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3482",
+   "en": "An Act Granting Juan G. Galinato a Franchise to Install, Maintain and Operate Electric Light, Heat and Power System in the Municipality of Paoay, Province of Ilocos Norte",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3703",
+   "en": "An Act Granting Fidel F. Reyes a Franchise to Install, Operate and Maintain an Electric Light, Heat and Power System, in the Municipality of Calumpit, Province of Bulacan",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9208",
+   "en": "An Act Converting the Extension Office of the Land Transportation Office (LTO) Located in Bayawan City Into a Regular LTO District Office and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9435",
+   "en": "An Act Establishing a National High School in Barangay Ugong, Valenzuela City to Be Known as Justice Eliezer R. De Los Santos High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1450",
+   "en": "An Act Further Amending Section Twelve of Commonwealth Act Numbered One Hundred Eighty-Six, as Amended, by Prescribing Two Other Modes of Retirement and for Other Purposes",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3483",
+   "en": "An Act Providing for the Establishment of a School of Fisheries in the Municipality of Bolinao, Province of Pangasinan, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H4602",
+   "en": "An Act Amending Republic Act Numbered Forty-Four Hundred Thirty-Seven, as Amended, (Re Change of Franchise Grantee From Batac Consolidated Facoma, Inc. to Benjamin Torres)",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H4934",
+   "en": "An Act Amending Section Nine of Republic Act Numbered Thirty-Six Hundred and One Entitled \"An Act Creating the National Irrigation Administration\", and for Other Purposes.",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H6394",
+   "en": "An Act Converting the Bataan National School for Filipino Craftsman (BNSFC) in Orani, Bataan, Into the Bataan National Polytechnic School, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8821",
+   "en": "An Act Reconstituting the Kalinga Engineering District Office in the Province of Kalinga tnto Two (2) Regular District Engineering Offices and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9069",
+   "en": "An Act Providing for the Establishment of a Fish Port and Cold Storage Facility in the Municipality of Dapa, Province of Surigao Del Norte and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9607",
+   "en": "An Act Establishing An Extension Office of the Land Transportation Office (LTO) in the Municipality of Brooke’S Point, Province of Palawan and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H10052",
+   "en": "An Act Establishing a National High School in Barangay Talipapa, Quezon City, Metro Manila to Be Known as the Talipapa National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2068",
+   "en": "An Act Granting to the Baliuag Electric Light and Power Company a Franchise for an Electric Light, Heat and Power System in the Municipality of Baliuag, Province of Bulacan",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2132",
+   "en": "An Act Providing for the Operation and Maintenance of a Hospital in the Municipality of Cajidiocan, Province of Romblon, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2912",
+   "en": "An Act Providing for the Establishment of a School of Fisheries in the Municipality of Narvacan, Province of Ilocos Sur, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H4927",
+   "en": "An Act Creating Certain Positions in the Sub-Province of Biliran, Province of Leyte, Amending for the Purpose Republic Act Numbered Twenty-One Hundred Forty-One, as Amended",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7288",
+   "en": "An Act Establishing a National High School in Barangay Linao in Ormoc City, Province of Leyte to Be Known as the Linao National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8836",
+   "en": "An Act Converting the Eastern Link Circumferential Road in the City of Baguio Traversing Loakan Road and Country Club Road into a National Road and Providing Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H333",
+   "en": "An Act to Provide Free Emergency Dental Treatment for Employees and Laborers of Commercial, Industrial and Agricultural Establishments, and to Penalize the Violation Thereof",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3923",
+   "en": "An Act Establishing a School of Arts and Trades in Ozamiz City, to be Known as the Ozamiz City School of Arts and Trades, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H5419",
+   "en": "An Act Establishing a Ten-Bed Municipal Hospital in Boracay Island, Province of Aklan, to be known as the Boracay Island Municipal Hospital, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H5877",
+   "en": "An Act Establishing a National High School in the District of Marasbaras, Tacloban City, to Be Known as the Marasbaras National Hlgh School, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H6148",
+   "en": "An Act Authorizing the Development of a Tourist Resort Within Bustos Dam in the Municipality of Bustos, Province of Bulacan, to Be Known as the Bustos Dam and Tourist Resort",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7313",
+   "en": "An Act Establishing a National High School in Barangay Bagumbayan in Taguig, Metro Manila to Be Known as the Bagumbayan National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7317",
+   "en": "An Act Converting the Jose De Villa Memorial High School in Manguiring, Calabanga, Camarines Sur Into the Jose De Villa National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7932",
+   "en": "An Act to Establish Aquatic Research and Technology Center in Suitable Municipality in the Province of Camarines Sur, and appropriating funds therefor and for other purposes",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9519",
+   "en": "An Act Establishing a National High School in Barangay Bignay, Valenzuela City to Be Known as Disiplina Village-Bignay National High School, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9700",
+   "en": "An Act Establishing a Senior High School in Barangay Tandang Sora, Quezon City, Metro Manila to Be Known as Tandang Sora Senior High School, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1274",
+   "en": "An Act Granting Messrs. Demetrio P. Correa and Guillermo Confesor a Franchise for an Electric Light, Heat and Power System in the Municipality of Cabatuan, Province of Iloilo",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1681",
+   "en": "An Act to Provided for the Establishment of a National School of Arts and Trades in the City of San Pablo and Authorizing the Appropriation of Necessary Funds for the Purpose",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3987",
+   "en": "An Act Providing for Additional Prosecutors in the Prosecution Division of the Department of Justice, Enlarging and Reorganizing its Prosecution Staff, and for Other Purposes",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H4218",
+   "en": "An Act Providing for the Establishment of a School of Arts and Trades in the Municipality of Malvar, Province of Batangas, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9858",
+   "en": "An Act Establishing an Elementary School in Barangay San Isidro, Jaro District, Iloilo City to be Known as Uswag San Isidro Elementary School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H10174",
+   "en": "An Act Establishing a District Office of the Land Transportation Office (LTO) in the Municipality of Cataingan in the 3rd District of Masbate, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H4192",
+   "en": "An Act Providing for the Establishment of a Chest Clinic in the Municipality of General Santos, Province of South Cotabato, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H4956",
+   "en": "An Act Amending Section One Hundred Ninety-Two-A of the Insurance Act So as to Make All Adjusters of Insurance Claims Subject to the Supervision of the Insurance Commissioner.",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H6530",
+   "en": "An Act Converting the Albay Provincial Hospital in Legazpi City Into a Regional Training and Teaching Hospital to Be Known as the Bicol Regional Training and Teaching Hospital",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H8128",
+   "en": "An Act An Act Establishing a National High School in Barangay Apolonio Samson, Quezon City to Be Known as Apolonio Samson National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2447",
+   "en": "An Act Providing for the Operation and Maintenance of a Hospital in the Municipality of Brooke’s Point, Province of Palawan, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2448",
+   "en": "An Act to Provide for the Establishment of an Animal Breeding Station in the Municipality of Gattaran, Province of Cagayan, and to Authorize the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2681",
+   "en": "An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Pintuyan, Province of Southern Leyte, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2682",
+   "en": "An Act Providing for the Establishment of an Emergency Hospital in the Municipality of Anahawan, Province of Southern Leyte, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2691",
+   "en": "An Act Providing for the Establishment of a Tuberculosis Pavilion in the Municipality of Maasin, Province of Southern Leyte, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2901",
+   "en": "An Act Amending Section Sixteen Hundred Fifty-Nine of the Revised Administrative Code, as Amended by Republic Acts Numbered Nine Hundred Forty-Five and Two Thousand Sixty-Eight",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H6791",
+   "en": "An Act Upgrading the Cotabato Regional Hospital in Cotabato City Into A Medical Center To Be Known As the Cotabato Regional and Medical Center, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H6841",
+   "en": "An Act Liberalizing the Philippine Investment House Industry, Amending Certain Sections of Presidential Decree No. 129, as amended, otherwise known as the Investment Houses Law",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H119",
+   "en": "An Act to Amend Sections Twelve Hundred and Fifty-Six, Thirteen Hundred and Ninety-Five, Subsection (c), and Thirteen Hundred and Ninety-Eight of the Revised Administrative Code",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1640",
+   "en": "An Act Providing for the Establishment of Mountain Province General Hospital in the Municipality of Kayan, Mountain Province, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2380",
+   "en": "An Act Providing for the Establishment of a School of Arts and Trades in the Municipality of Pandan, Province of Catanduanes, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2913",
+   "en": "An Act Providing for the Establishment of a School for Philippine Craftsmen in the Municipality of Wright, Province of Samar, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3252",
+   "en": "An Act Granting Rene T. Hamoy a Franchise to Install, Operate and Maintain an Electric Light, Heat and Power System in the Municipality of Pinan, Province of Zamboanga del Norte",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9420",
+   "en": "An Act Establishing a National High School in Barangay Pasong Tamo, Quezon City, Metro Manila to Be Known as Emilio Jacinto National High School and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2453",
+   "en": "An Act Authorizing the Appropriation of the Sum of Fifty Thousand Pesos for the Maintenance and Operation of a Public Hospital in the Municipality of Kapatagan, Province of Lanao",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H3480",
+   "en": "An Act Granting Francisca R. Justiniani a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipality of Plaridel, Province of Bulacan",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H4967",
+   "en": "An Act Further Amending Sections One and Two of Republic Act Numbered Forty-One Hundred Fifty-Three, as Amended, (Re Salary Scale for Officials of the Bureau of Public Highways).",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H6789",
+   "en": "An Act Designating the Luis Hora Memorial Hospital in Bauko, Mountain Province, As the Regional Hospital of the Cordillera Administrative Region, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7069",
+   "en": "An Act Converting the Cagayan Valley Regional Hospital Into a Medical Center to Be Known as the Cagayan Valley Medical Center, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7706",
+   "en": "An act converting the Las Piñas District Hospital into a Medical Center to be known as the Las Piñas General Hospital and Satellite Trauma Center and Appropriating Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1170",
+   "en": "An Act Transferring the Site of the Provincial Capitol of the Province of Camarines Sur from the City of Naga to the Barrio of Palestina, Municipality of Pili in the Same Province",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2873",
+   "en": "An Act Providing for the Establishment of a School of Fisheries in the Municipality of Bongabong, Province of Oriental Mindoro, and Authorizing the Appropriation of Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H5601",
+   "en": "An Act Establishing a Special High School in the Island of Culion, Province of Palawan, to be known as the Culion Sanitarium Special High School, and Appropriating Funds Therefore",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7478",
+   "en": "An Act to Further Defer the Imposition of the Value-Added Tax on Certain Services, Amending for the Purpose Section 5 of Republic Act No. 8424, as Amended By Republic Act No. 8761",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H7912",
+   "en": "An Act Establishing a National Science High School in Barangay Dos, Las Pinas City to be known as the Las Pinas City National Science High School and Appropriating Funds Therefor\"",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H9380",
+   "en": "An Act Dividing Barangay North Bay Boulevard South (NBBS) in the City of Navotas Into Three (3) Distinct and Independent Barangays to Be Known as Barangay Nbbs Proper, Barangay...",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H1383",
+   "en": "An Act Granting Antonio Macias of Liloy, Zamboanga del Norte, a Franchise for an Electric Light, Heat and Power System in the Municipality of Liloy, Province of Zamboanga del Norte",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H2743",
+   "en": "An Act Providing for the Maintenance and Operation of a Hospital in the Municipality of Tuburan, Province of Cebu, and Authorizing the Appropriation of the Necessary Funds Therefor",
+   "hint": "4 条"
+  },
+  {
+   "id": "PH-H5483",
+   "en": "An Act Establishing a High School in the Municipality of Abra De Ilog, Province of Occidental Mindoro, to Be Known as the Abra De Ilog High School, and Appropriating Funds Therefor",
+   "hint": "4 条"
+  }
+ ]
+}

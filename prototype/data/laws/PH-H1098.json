@@ -1,7 +1,7 @@
 {
  "id": "PH-H1098",
  "title": {
-  "zh": null,
+  "zh": "将锡基霍尔副省划为独立正式公路工程区，为此修订第3143号法的法案",
   "en": "An Act Constituting the Sub-Province of Siquijor into a Separate, Independent and Regular Highway Engineering District, Amending for the Purpose Act Numbered Thirty-One Hundred Forty-Three",
   "orig": "An Act Constituting the Sub-Province of Siquijor into a Separate, Independent and Regular Highway Engineering District, Amending for the Purpose Act Numbered Thirty-One Hundred Forty-Three"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 10, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Constituting the Sub-Province of Siquijor into a Separate, Independent and Regular Highway Engineering District, Amending for the Purpose Act Numbered Thirty-One Hundred Forty-Three",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

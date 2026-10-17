@@ -1,7 +1,7 @@
 {
  "id": "PH-H9313",
  "title": {
-  "zh": null,
+  "zh": "将西米萨米斯省 Mayor Hilarion A. Ramiro Sr. 区域医院改设为同名医疗中心的法案",
   "en": "An Act Converting the Mayor Hilarion A. Ramiro Sr. Regional Training and Teaching Hospital in the Province of Misamis Occidental Into a Medical Center to Be Known as the Mayor Hilarion A. Ramiro Sr. Medical Center",
   "orig": "An Act Converting the Mayor Hilarion A. Ramiro Sr. Regional Training and Teaching Hospital in the Province of Misamis Occidental Into a Medical Center to Be Known as the Mayor Hilarion A. Ramiro Sr. Medical Center"
  },
@@ -200,5 +200,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.-"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Mayor Hilarion A. Ramiro Sr. Regional Training and Teaching Hospital in the Province of Misamis Occidental Into a Medical Center to Be Known as the Mayor Hilarion A. Ramiro Sr. Medical Center",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

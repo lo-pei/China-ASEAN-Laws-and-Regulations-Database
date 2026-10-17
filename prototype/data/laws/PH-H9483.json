@@ -1,7 +1,7 @@
 {
  "id": "PH-H9483",
  "title": {
-  "zh": null,
+  "zh": "1992 年国家综合保护区系统法",
   "en": "National Integrated Protected Areas System (NIPAS) Act of 1992",
   "orig": "An Act Declaring Protected Areas and Providing for Their Management, Amending for This Purpose Republic Act No. 7586, Otherwise Known as the \"National Integrated Protected Areas System (NIPAS) Act of 1992\" and for Other Purposes"
  },
@@ -270,5 +270,13 @@
     "en": "Effectivity. This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "National Integrated Protected Areas System (NIPAS) Act of 1992",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

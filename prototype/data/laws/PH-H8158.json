@@ -1,7 +1,7 @@
 {
  "id": "PH-H8158",
  "title": {
-  "zh": null,
+  "zh": "加强全面土地改革计划（CARP），延长所有农地的征收与分配，实行必要改革，为此修订经修正的 1988 年全面土地改革法即第 6657 号共和国法的某些条款，并为此拨款的法案",
   "en": "An Act Strengthening the Comprehensive Agrarian Reform Program (CARP), Extending the Acquisition and Distribution of All Agricultural Lands, Instituting Necessary Reforms, Amending for the Purpose Certain Provisions of Republic Act No. 6657, Otherwise Known as the Comprehensive Agrarian Reform Law of 1988, as Amended, and Appropriating Funds therefor",
   "orig": "An Act Strengthening the Comprehensive Agrarian Reform Program (CARP), Extending the Acquisition and Distribution of All Agricultural Lands, Instituting Necessary Reforms, Amending for the Purpose Certain Provisions of Republic Act No. 6657, Otherwise Known as the Comprehensive Agrarian Reform Law of 1988, as Amended, and Appropriating Funds therefor"
  },
@@ -370,5 +370,13 @@
     "en": "Effectivity Clause. - This Act shall take effect on July 1,2009 and it shall be published in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening the Comprehensive Agrarian Reform Program (CARP), Extending the Acquisition and Distribution of All Agricultural Lands, Instituting Necessary Reforms, Amending for the Purpose Certain Provisions of Republic Act No. 6657, Otherwise Known as the Comprehensive Agrarian Reform Law of 1988, as Amended, and Appropriating Funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

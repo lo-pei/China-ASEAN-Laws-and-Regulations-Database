@@ -1,7 +1,7 @@
 {
  "id": "SG-H3354",
  "title": {
-  "zh": null,
+  "zh": "报章与印刷馆（豁免）（路透社、时事通讯社与共同社）公告",
   "en": "Newspaper and Printing Presses (Exemption) (Reuters, Jiji Press Ltd and Kyodo News Service) Notification",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. An exemption in respect of any of the publications referred to in paragraph 2 may be revoked at any time by written notice to the publishers."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Newspaper and Printing Presses (Exemption) (Reuters, Jiji Press Ltd and Kyodo News Service) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

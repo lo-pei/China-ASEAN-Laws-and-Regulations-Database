@@ -1,7 +1,7 @@
 {
  "id": "PH-H7780",
  "title": {
-  "zh": null,
+  "zh": "授予 SLL 国际电缆专业公司在第六大区建设、安装、设立、运营和维护本地交换网络的特许经营权法案",
   "en": "An act granting the SLL International Cable Specialist Corporation, Inc. a franchise to construct, install, establish, operate and maintain local exchange network in Region VI",
   "orig": "An act granting the SLL International Cable Specialist Corporation, Inc. a franchise to construct, install, establish, operate and maintain local exchange network in Region VI"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H7780-A1_2",
+   "id": "PH-H7780-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Nature and Scope of Franchise. – Subject to the provisions of the Constitution and applicable laws, rules and regulations, there is hereby granted to the SLL International Cable Specialist Corporations, hereunder referred to as the grantee, its successors or assign, a franchise to construct, install, establish, operate and maintain for commercial purposes and in the public interest, local exchange network, including public calling stations or pay telephone stations or wireless local loop and their value-added services in Region VI, and for such purpose provided basic telephone service capable of accessing local, national, international and other networks."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H7780-A2",
@@ -240,5 +241,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days from the date of its publications, upon the initiative of the grantee, in at least two (2) papers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act granting the SLL International Cable Specialist Corporation, Inc. a franchise to construct, install, establish, operate and maintain local exchange network in Region VI",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

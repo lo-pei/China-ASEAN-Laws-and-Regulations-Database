@@ -1,7 +1,7 @@
 {
  "id": "SG-H3503",
  "title": {
-  "zh": null,
+  "zh": "人民协会法 1960",
   "en": "People’s Association Act 1960",
   "orig": null
  },
@@ -280,5 +280,13 @@
     "en": "THE SCHEDULE\nSection 4(1) and (5)\nMember Organisations\n1.Alumni International Singapore\n2.Association of Nanyang University Graduates\n3.Basketball Association of Singapore\n4.[Deleted by S 267/2025 wef 14/04/2025]\n5.Chinese Calligraphy Society of Singapore\n6.Chinese Dance Artistes’ Association\n7.Chinese Theatre Circle Ltd\n8.Consumers Association of Singapore\n9.Er Woo Amateur Musical and Dramatic Association\n10.Football Association of Singapore\n11.Girl Guides, Singapore\n12.Hindi Society (Singapore)\n13.Institute of Singapore Chartered Accountants (formerly known as the Institute of Certified Public Accountants of Singapore)\n14.Institute of Technical Education, Singapore\n15.Malay Youth Literary Association (Persatuan Persuratan Pemuda Pemudi Melayu)\n16.Metro Philharmonic Society\n17.Metropolitan Young Men’s Christian Association of Singapore\n18.Nanyang Academy of Fine Arts\n19.Nanyang Technological University Students’ Union\n20.National Council of Social Service\n21.National Trades Union Congress\n22.National University of Singapore Society\n23.National University of Singapore Students’ Union\n24.Ngee Ann Polytechnic Students’ Union\n25.Perkumpulan Seni (Arts Group)\n26.Persatuan Pemudi Islam Singapura\n27.Pets Enterprises & Traders Association, Singapore (PETAS)\n28.Qigong Shi Ba Shi Association (Singapore)\n29.Radio Modellers Singapore\n30.St John Singapore\n31.Singapore Cycling Federation\n32.Singapore Arts Federation\n33.Singapore Art Society\n34.Singapore Badminton Association\n35.Singapore Bowling Federation\n36.Singapore Canoe Federation\n37.Singapore Chefs Association\n38.Singapore Chess Federation\n39.Singapore Chinese Teachers’ Union\n40.Singapore Contract Bridge Association\n41.Singapore Council of Women’s Organisations\n42.Singapore Dance Theatre\n43.Singapore Dragon Boat Association\n44.Singapore Floorball Association\n45.Singapore Hadrah and Kompang Association (PEHAKS) (Persatuan Hadrah Dan Kompang Singapura)\n46.Singapore Indian Fine Arts Society\n47.Singapore Judo Federation\n48.Singapore Karate-Do Federation\n49.Singapore Malay Teachers’ Union (Kesatuan Guru-Guru Melayu Singapura)\n50.Singapore Malay Youth Library Association (Taman Bacaan Pemuda Pemudi Melayu Singapura)\n51.Singapore Middle School Chinese Teachers’ Association\n52.Singapore National Co-operative Federation Ltd\n53.Singapore Numismatic Association\n54.Singapore Philatelic Society\n55.Singapore Polytechnic Graduates’ Guild\n56.Singapore Polytechnic Students’ Union\n57.Singapore Professional Centre\n58.Singapore Red Cross Society\n59.Singapore Sailing Federation\n60.The Singapore Scout Association\n61.Singapore Sepaktakraw Federation\n62.Singapore Silat Federation (Persekutuan Silat Singapura)\n63.Singapore Squash Rackets Association\n64.Singapore Stamp Club\n65.Singapore Swimming Association\n66.Singapore Table Tennis Association\n67.Singapore Taekwondo Federation\n68.Singapore Tamil Teachers’ Union\n69.Singapore Teachers’ Union\n70.Singapore Tennis Association\n71.Singapore Weiqi Association\n72.Singapore Wushu Dragon & Lion Dance Federation\n73.Singapore Xiangqi General Association\n74.Singapore Youth Flying Club\n75.Society of Chinese Artists\n76.Sports Boules Singapore\n77.Sriwana\n78.Tamils Representative Council\n79.The Boys’ Brigade in Singapore\n80.The Eurasian Association, Singapore\n81.The Girls’ Brigade Singapore\n82.The Photographic Society of Singapore\n83.Volleyball Association of Singapore\n84.Young Men’s Christian Association of Singapore\n85.Young Women’s Christian Association of Singapore\n[S 406/2013; S 439/2013; S 584/2015; S 259/2017]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "People’s Association Act 1960",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1916",
  "title": {
-  "zh": null,
+  "zh": "重新设立新比斯开省 Imugan 市镇区并将其名称改为 Santa Fe 的法案",
   "en": "An Act to Recreate the Municipal District of Imugan, Province of Nueva Vizcaya, Which Name is to be Changed to Santa Fe",
   "orig": "An Act to Recreate the Municipal District of Imugan, Province of Nueva Vizcaya, Which Name is to be Changed to Santa Fe"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 2, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Recreate the Municipal District of Imugan, Province of Nueva Vizcaya, Which Name is to be Changed to Santa Fe",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

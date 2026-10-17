@@ -1,7 +1,7 @@
 {
  "id": "PH-H2094",
  "title": {
-  "zh": null,
+  "zh": "将若干特别或周转基金在若干条件下的现金结余归还国家政府一般基金的法案",
   "en": "An Act Reverting to the General Funds of the National Government the Cash Balances of Certain Special or Revolving Funds Under Certain Conditions",
   "orig": "An Act Reverting to the General Funds of the National Government the Cash Balances of Certain Special or Revolving Funds Under Certain Conditions"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reverting to the General Funds of the National Government the Cash Balances of Certain Special or Revolving Funds Under Certain Conditions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

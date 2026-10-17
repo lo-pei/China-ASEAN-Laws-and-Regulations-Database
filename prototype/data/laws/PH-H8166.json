@@ -1,7 +1,7 @@
 {
  "id": "PH-H8166",
  "title": {
-  "zh": null,
+  "zh": "将符合菲律宾国家警察（PNP）任命最低教育资格的期限延长五年并调整其晋升制度，为此修订第 6975 号与第 8551 号共和国法相关条款并为其他目的法案",
   "en": "An Act Extending for Five (5) Years the Reglementary Period for Complying with the Minimum Educational Qualification for Appointment to the Philippine National Police (PNP) and Adjusting the Promotion System thereof, Amending for the Purpose Pertinent Provisions of Republic Act No. 6975 and Republic Act No. 8551 and for other purposes",
   "orig": "An Act Extending for Five (5) Years the Reglementary Period for Complying with the Minimum Educational Qualification for Appointment to the Philippine National Police (PNP) and Adjusting the Promotion System thereof, Amending for the Purpose Pertinent Provisions of Republic Act No. 6975 and Republic Act No. 8551 and for other purposes"
  },
@@ -111,5 +111,13 @@
     "en": "Effectivity Clause. -This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending for Five (5) Years the Reglementary Period for Complying with the Minimum Educational Qualification for Appointment to the Philippine National Police (PNP) and Adjusting the Promotion System thereof, Amending for the Purpose Pertinent Provisions of Republic Act No. 6975 and Republic Act No. 8551 and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7557",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 12 月 15 日为 Naga 市宪章日及 Naga 市特别工作公共假日，以纪念该市成立周年的法案",
   "en": "An Act Declaring December 15 of Each Year as Naga City Charter Day and a Special Working Public Holiday in the City of Naga in Order to Commemorate the Anniversary of the Said City",
   "orig": "An Act Declaring December 15 of Each Year as Naga City Charter Day and a Special Working Public Holiday in the City of Naga in Order to Commemorate the Anniversary of the Said City"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring December 15 of Each Year as Naga City Charter Day and a Special Working Public Holiday in the City of Naga in Order to Commemorate the Anniversary of the Said City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

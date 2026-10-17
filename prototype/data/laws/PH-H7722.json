@@ -1,7 +1,7 @@
 {
  "id": "PH-H7722",
  "title": {
-  "zh": null,
+  "zh": "扩大老年公民法 2003",
   "en": "Expanded Senior Citizenship Act of 2003",
   "orig": "Expanded Senior Citizenship Act of 2003 An Act Granting Additional Benefits and Privileges to Senior Citizens Amending for the purpose Republic Act No. 7432, otherwise known as \"An Act to Maximize the Contribution of Senior Citizens to Nation Building, Grant Benefits and Special Privileges and for Other Purposes\" <a class=\"nya\" title=\"http://www.dswd.gov.ph/images/articles/IRRRA9257final.pdf\">Implementing Rules &amp; Regulations on RA 9257</a> ra2004/pdf/irr_9257_2004.pdf"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect fifteen (15) days after its complete publication in any two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Expanded Senior Citizenship Act of 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

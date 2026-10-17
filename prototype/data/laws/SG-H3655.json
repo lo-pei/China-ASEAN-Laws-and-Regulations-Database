@@ -1,7 +1,7 @@
 {
  "id": "SG-H3655",
  "title": {
-  "zh": null,
+  "zh": "新加坡土地管理局法 2001",
   "en": "Singapore Land Authority Act 2001",
   "orig": null
  },
@@ -658,5 +658,13 @@
     "en": "THIRD SCHEDULE\nSections 31(1) and 34\nSpecified Legislation\n1.Sections 8, 11 and 20 of the Boundaries and Survey Maps Act 1998.\n2.Section 46 of the Land Acquisition Act 1966.\n3.Sections 7, 27, 59 and 169 of the Land Titles Act 1993.\n4.Sections 7, 15, 37, 41, 42, 43, 49, 54, 62, 65, 66, 67, 81, 82, 111, 113 and 120 of the Land Titles (Strata) Act 1967.\n5.Sections 4, 9, 10, 11, 16, 23, 25, 35 and 36 of the Residential Property Act 1976.\n6.Sections 5, 6, 10(2), 12(5), 18(5), 23(5) and (7), 24(3) and 26(1) and (2) of the State Lands Protection Act 2022.\n[Act 42 of 2022 wef 01/11/2024]\n7.All provisions of the Land Betterment Charge Act 2021.\n[Act 11 of 2021 wef 01/08/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Singapore Land Authority Act 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

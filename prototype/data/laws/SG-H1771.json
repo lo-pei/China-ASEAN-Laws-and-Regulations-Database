@@ -1,7 +1,7 @@
 {
  "id": "SG-H1771",
  "title": {
-  "zh": null,
+  "zh": "住房与发展（地址变更）规则",
   "en": "Housing and Development (Change of Address) Rules",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) This rule shall apply to —\n(a)the owner, tenant or authorised occupier; and\n(b)an applicant for the purchase or rental,\nof any flat, house or building sold or let out by the Board pursuant to the Act.\n(2) A person to whom this rule applies shall notify the Board in writing of any change of his residential address, except that where the person has made a report of the change under section 8 of the National Registration Act (Cap. 201), he shall be deemed to have notified the Board of the change of his residential address in compliance with this paragraph.\n[G.N. No.S 399/96]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Change of Address) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

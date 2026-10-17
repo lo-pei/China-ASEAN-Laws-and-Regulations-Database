@@ -1,7 +1,7 @@
 {
  "id": "PH-H8726",
  "title": {
-  "zh": null,
+  "zh": "将高山省Paracelis市镇Poblacion描笼涯的Bacarri国立工艺农业学校附属校分离为独立的Paracelis技术职业中学，并拨款",
   "en": "An Act Separating the Bacarri National Trade-Agricultural School - Labay Annex in Barangay Poblacion, Municipality of Paracelis, Mountain Province From the Bacarri National Trade-Agricultural School, Converting It Into An Independent National Technical-Vocational High School to Be Known as Paracelis Technical and Vocational High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Bacarri National Trade-Agricultural School - Labay Annex in Barangay Poblacion, Municipality of Paracelis, Mountain Province From the Bacarri National Trade-Agricultural School, Converting It Into An Independent National Technical-Vocational High School to Be Known as Paracelis Technical and Vocational High School and Appropriating Funds Therefor"
  },
@@ -92,5 +92,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Bacarri National Trade-Agricultural School - Labay Annex in Barangay Poblacion, Municipality of Paracelis, Mountain Province From the Bacarri National Trade-Agricultural School, Converting It Into An Independent National Technical-Vocational High School to Be Known as Paracelis Technical and Vocational High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

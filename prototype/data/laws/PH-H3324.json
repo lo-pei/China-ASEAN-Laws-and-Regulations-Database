@@ -1,7 +1,7 @@
 {
  "id": "PH-H3324",
  "title": {
-  "zh": null,
+  "zh": "授权在拉乌尼翁省Sto. Tomas市镇Raois Cove设立北吕宋咸水渔业生产项目",
   "en": "An Act to Authorize the Establishment of the Northwestern Luzon Saltwater Fisheries Production Project at Raois Cove in the Municipality of Sto. Tomas, Province of La Union",
   "orig": "An Act to Authorize the Establishment of the Northwestern Luzon Saltwater Fisheries Production Project at Raois Cove in the Municipality of Sto. Tomas, Province of La Union"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize the Establishment of the Northwestern Luzon Saltwater Fisheries Production Project at Raois Cove in the Municipality of Sto. Tomas, Province of La Union",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

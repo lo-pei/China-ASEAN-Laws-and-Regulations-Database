@@ -1,7 +1,7 @@
 {
  "id": "SG-H2098",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 9 号）命令 2017",
   "en": "Income Tax (Exemption of Foreign Income) (No. 9) Order 2017",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Income comprising dividends described in sub‑paragraph (2), that are received by Avelter Investment Singapore Pte. Ltd. (a company incorporated in Singapore) on 31 December 2017 from Avelter Holding ApS (a company incorporated in Denmark), is exempt from tax.\n(2) Sub-paragraph (1) applies to —\n(a)dividends derived from dividends received by Avelter Holding ApS from Inventory 2 Pte. Ltd. (a company incorporated in Singapore); and\n(b)dividends derived from dividends received by Avelter Holding ApS from TechEdge ApS (a company incorporated in Denmark), which are in turn derived from dividends received by TechEdge ApS from Techedge Asia Pacific, Singapore Pte. Ltd. (a company incorporated in Singapore).\n(3) The exemption in sub-paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 16 August 2017 addressed to the tax agent of Avelter Investment Singapore Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 9) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

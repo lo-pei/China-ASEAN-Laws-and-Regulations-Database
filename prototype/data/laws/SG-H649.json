@@ -1,7 +1,7 @@
 {
  "id": "SG-H649",
  "title": {
-  "zh": null,
+  "zh": "民法（第三方资助）条例 2017",
   "en": "Civil Law (Third-Party Funding) Regulations 2017",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) For the purposes of the definition of “qualifying Third‑Party Funder” in section 5B(10) of the Act, the qualifications and other requirements that a qualifying Third‑Party Funder must satisfy and continue to satisfy are the following:\n(a)the Third‑Party Funder carries on the principal business, in Singapore or elsewhere, of the funding of the costs of dispute resolution proceedings to which the Third‑Party Funder is not a party;\n(b)the Third‑Party Funder has a paid‑up share capital of not less than $5 million or the equivalent amount in foreign currency or not less than $5 million or the equivalent amount in foreign currency in managed assets.\n(2) In this regulation, “managed assets”, in relation to a Third‑Party Funder, means all of the following:\n(a)moneys and assets contracted to, drawn down by or under the discretionary authority granted by investors to the Third‑Party Funder and in respect of which it is carrying out fund management;\n(b)moneys and assets contracted to the Third‑Party Funder and under the non‑discretionary authority granted by investors to the Third‑Party Funder, and in respect of which the Third‑Party Funder is carrying out fund management;\n(c)moneys and assets contracted to the Third‑Party Funder, but which have been sub‑contracted to another party and for which the other party is carrying out fund management, whether on a discretionary authority granted by investors or otherwise.\n(3) For the purposes of paragraph (2), moneys and assets are contracted to a Third‑Party Funder if they are the subject matter of a contract for fund management between the Third‑Party Funder and its investors."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Civil Law (Third-Party Funding) Regulations 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-36-2001-NOMINATION-UNDER-SECTION-31A-TELEKOM-BRUNEI-B7AFBC",
  "title": {
-  "zh": null,
+  "zh": "依第 31A 条提名文莱电信公司为电信继承公司",
   "en": "NOMINATION UNDER SECTION 31A – TELEKOM BRUNEI BHD AS TELECOMMUNICATION SUCCESSOR COMPANY",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 36\n\nTELECOMMUNICATION SUCCESSOR COMPANY ORDER, 2001 (S 37/01} NOMINATION UNDER SECTION 3(1)(a) In exercise of the power conferred by paragraph (a} of subsection (1} of section 3, the Minister of Finance hereby nominates Telekom Brunei Berhad as the telecommunication successor company for the purposes of section 3 of the Telecommunication Successor Company Order, 2001. Dated this 4th. day of Safar, 1427 Hijriah corresponding to the 4th. day of March, 2006.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nMINISTER OF FINANCE, BRUNEI DARUSSALAM. Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENGIRAN HAJI AHMAD, Pemangku Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOMINATION UNDER SECTION 31A – TELEKOM BRUNEI BHD AS TELECOMMUNICATION SUCCESSOR COMPANY",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

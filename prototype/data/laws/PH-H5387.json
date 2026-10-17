@@ -1,7 +1,7 @@
 {
  "id": "PH-H5387",
  "title": {
-  "zh": null,
+  "zh": "在宿务市Guba描笼涯设立十张床位的延伸医院，名称为Southern Island延伸医院II，并为此拨款的法案",
   "en": "An Act Establishing a Ten-bed Extension Hospital in Barangay Guba, Cebu City, to Be Known as the Southern Island Extension Hospital II, and Appropriating Funds Therefor",
   "orig": "An Act Establishing a Ten-bed Extension Hospital in Barangay Guba, Cebu City, to Be Known as the Southern Island Extension Hospital II, and Appropriating Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Ten-bed Extension Hospital in Barangay Guba, Cebu City, to Be Known as the Southern Island Extension Hospital II, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

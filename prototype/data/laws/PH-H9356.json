@@ -1,7 +1,7 @@
 {
  "id": "PH-H9356",
  "title": {
-  "zh": null,
+  "zh": "规定在基础与高等教育菲律宾史课程中纳入菲律宾穆斯林与原住民历史、文化与身份的法案",
   "en": "An Act Mandating the Integration of Filipino-Muslim and Indigenous Peoples History, Culture and Identity in the Study of Philippine History in Both Basic and Higher Education",
   "orig": "An Act Mandating the Integration of Filipino-Muslim and Indigenous Peoples History, Culture and Identity in the Study of Philippine History in Both Basic and Higher Education"
  },
@@ -101,5 +101,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Mandating the Integration of Filipino-Muslim and Indigenous Peoples History, Culture and Identity in the Study of Philippine History in Both Basic and Higher Education",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

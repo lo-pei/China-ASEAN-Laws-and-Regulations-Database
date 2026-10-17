@@ -1,7 +1,7 @@
 {
  "id": "PH-H1189",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统以1954年12月15日在华盛顿签署的、关于修订菲律宾共和国与美国1946年贸易协定的谈判最后文件为基础，与美国总统订立修订协定",
   "en": "An Act Authorizing the President of the Philippines to Enter into a Revised Agreement with the President of the United States on the Basis of the Final Act of Negotiations Relative to the Revision of the 1946 Trade Agreement Between the Republic of the Philippines and the United States of America, Which was Signed at Washington, D.C. on December 15, 1954",
   "orig": "An Act Authorizing the President of the Philippines to Enter into a Revised Agreement with the President of the United States on the Basis of the Final Act of Negotiations Relative to the Revision of the 1946 Trade Agreement Between the Republic of the Philippines and the United States of America, Which was Signed at Washington, D.C. on December 15, 1954"
  },
@@ -54,7 +54,7 @@
    }
   },
   {
-   "id": "PH-H1189-A1_2",
+   "id": "PH-H1189-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
@@ -64,7 +64,8 @@
    },
    "text": {
     "en": "Authorization To Enter Into A Revised Agreement. The President of the Philippines, at any time prior to January 1, 1956, is hereby authorized to enter into an agreement with the President of the United States for the revision of the 1946 Trade Agreement between the Philippines and the United States on the basis of the Final Act of Negotiations, which was signed at Washington, D.C. on December 15, 1954."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H1189-A2",
@@ -105,5 +106,13 @@
     "en": "Date of Effectivity. This Act shall take effect upon its approval.\nApproved: June 18, 1955"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Enter into a Revised Agreement with the President of the United States on the Basis of the Final Act of Negotiations Relative to the Revision of the 1946 Trade Agreement Between the Republic of the Philippines and the United States of America, Which was Signed at Washington, D.C. on December 15, 1954",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

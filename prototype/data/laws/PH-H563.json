@@ -1,7 +1,7 @@
 {
  "id": "PH-H563",
  "title": {
-  "zh": null,
+  "zh": "规定组建、装备和维持菲律宾远征部队以执行联合国制裁与政策，订明参与该服务官兵薪金与津贴标准及相关死亡伤残补偿并拨款的法案",
   "en": "An Act to Provide for the Organization, Equipping and Maintenance of a Philippine Expeditionary Force for Service in the Enforcement of United Nations Sanctions and Policies, to Prescribe Rates of Pay and Allowances for Officers and Enlisted Men of the Armed Forces of the Philippines While Engaged in Such Service, to Establish Compensation for Death or Disability in Connection Therewith, Appropriating Funds for the Foregoing Purposes, and for Other Purposes",
   "orig": "An Act to Provide for the Organization, Equipping and Maintenance of a Philippine Expeditionary Force for Service in the Enforcement of United Nations Sanctions and Policies, to Prescribe Rates of Pay and Allowances for Officers and Enlisted Men of the Armed Forces of the Philippines While Engaged in Such Service, to Establish Compensation for Death or Disability in Connection Therewith, Appropriating Funds for the Foregoing Purposes, and for Other Purposes"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval Approved, September 7, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Organization, Equipping and Maintenance of a Philippine Expeditionary Force for Service in the Enforcement of United Nations Sanctions and Policies, to Prescribe Rates of Pay and Allowances for Officers and Enlisted Men of the Armed Forces of the Philippines While Engaged in Such Service, to Establish Compensation for Death or Disability in Connection Therewith, Appropriating Funds for the Foregoing Purposes, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

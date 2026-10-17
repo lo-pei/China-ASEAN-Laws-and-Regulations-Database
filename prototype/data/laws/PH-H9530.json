@@ -1,7 +1,7 @@
 {
  "id": "PH-H9530",
  "title": {
-  "zh": null,
+  "zh": "将新怡诗夏省 Talavera 市镇 Dr. Paulino J. Garcia 纪念研究医疗中心附属医院提升为二级医院的法案",
   "en": "An Act Upgrading the Dr. Paulino J. Garcia Memorial Research and Medical Center Extension Hospital in the Municipality of Talavera, Province of Nueva Ecija, to a Level II Hospital and...",
   "orig": "An Act Upgrading the Dr. Paulino J. Garcia Memorial Research and Medical Center Extension Hospital in the Municipality of Talavera, Province of Nueva Ecija, to a Level II Hospital and..."
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading the Dr. Paulino J. Garcia Memorial Research and Medical Center Extension Hospital in the Municipality of Talavera, Province of Nueva Ecija, to a Level II Hospital and...",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

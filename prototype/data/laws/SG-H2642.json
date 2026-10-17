@@ -1,7 +1,7 @@
 {
  "id": "SG-H2642",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护区）（第 7 号）命令 2025",
   "en": "Infrastructure Protection (Protected Areas) (No. 7) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Area\nCommander, Air Defence Group, Air Defence and Operations Command\nBRANI SITES\nAll that area comprised in part of Lot 2626C in Mukim No. 34 occupied by “BRANI SITES” containing an area of about 21,103.4 square metres and bounded approximately as follows:\nCommencing at a point 26,836.661 metres North and 27,843.014 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n26,836.661\n27,843.014\n26,841.218\n27,849.999\n26,828.962\n27,860.047\n26,801.204\n27,877.889\n26,773.723\n27,892.248\n26,764.269\n27,897.973\n26,753.816\n27,904.230\n26,745.249\n27,911.973\n26,741.322\n27,916.927\n26,741.455\n27,923.989\n26,741.934\n27,931.037\n26,744.132\n27,932.987\n26,747.031\n27,935.514\n26,749.036\n27,937.314\n26,750.874\n27,939.090\n26,754.550\n27,942.104\n26,761.979\n27,948.922\n26,761.975\n27,950.220\n26,761.922\n27,967.408\n26,804.193\n27,967.408\n26,804.193\n27,989.294\n26,778.458\n28,003.526\n26,781.701\n28,011.324\n26,789.814\n28,028.065\n26,795.441\n28,035.176\n26,804.193\n28,041.063\n26,804.193\n28,046.637\n26,806.911\n28,046.616\n26,808.276\n28,150.380\n26,709.586\n28,152.346\n26,709.193\n28,047.382\n26,703.600\n28,047.425\n26,703.588\n27,967.408\n26,711.672\n27,940.563\n26,711.668\n27,940.567\n26,712.403\n27,938.137\n26,720.942\n27,930.096\n26,726.020\n27,909.489\n26,783.864\n27,870.649\n26,784.585\n27,870.165\nto the point of commencement.\nThe boundaries of “BRANI SITES” are more particularly delineated in the Survey Plan No. 25029/4002200768/GZ00/002 filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Areas) (No. 7) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

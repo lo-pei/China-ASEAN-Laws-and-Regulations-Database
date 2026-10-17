@@ -1,7 +1,7 @@
 {
  "id": "PH-H4718",
  "title": {
-  "zh": null,
+  "zh": "宣布马尼拉德拉萨学院校长帕特里克·B·康农博士（又称加布里埃尔·H·康农修士，FSC）为菲律宾公民，并授予其菲律宾公民身份的一切权利、义务、特权与优遇的法案",
   "en": "An Act Declaring Dr. Patrick B. Connon, Otherwise Known a Brother H. Gabriel Connon, FSC, President of De La Salle College, Manila, a Citizen of the Philippines, and Conferring Upon Him All the Rights, Duties, Privileges, and Prerogatives of Filipino Citizenship",
   "orig": "An Act Declaring Dr. Patrick B. Connon, Otherwise Known a Brother H. Gabriel Connon, FSC, President of De La Salle College, Manila, a Citizen of the Philippines, and Conferring Upon Him All the Rights, Duties, Privileges, and Prerogatives of Filipino Citizenship"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 10, 1970"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring Dr. Patrick B. Connon, Otherwise Known a Brother H. Gabriel Connon, FSC, President of De La Salle College, Manila, a Citizen of the Philippines, and Conferring Upon Him All the Rights, Duties, Privileges, and Prerogatives of Filipino Citizenship",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

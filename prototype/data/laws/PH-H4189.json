@@ -1,7 +1,7 @@
 {
  "id": "PH-H4189",
  "title": {
-  "zh": null,
+  "zh": "豁免家庭工业某些工人适用第602号共和国法（经修正）的规定，为此进一步修订该法第3条（d）项的法案",
   "en": "An Act Exempting Certain Workers in Cottage Industries from the Provisions of Republic Act Numbered Six Hundred Two, Further Amending for the Purpose Subsection (d) of Section Three of Said Act, as Amended",
   "orig": "An Act Exempting Certain Workers in Cottage Industries from the Provisions of Republic Act Numbered Six Hundred Two, Further Amending for the Purpose Subsection (d) of Section Three of Said Act, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Exempting Certain Workers in Cottage Industries from the Provisions of Republic Act Numbered Six Hundred Two, Further Amending for the Purpose Subsection (d) of Section Three of Said Act, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

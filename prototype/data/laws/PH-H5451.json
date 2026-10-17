@@ -1,7 +1,7 @@
 {
  "id": "PH-H5451",
  "title": {
-  "zh": null,
+  "zh": "废止第3884号共和国法的法案",
   "en": "An Act Repealing Republic Act Numbered Three Thousand Eight Hundred Eighty-Four",
   "orig": "An Act Repealing Republic Act Numbered Three Thousand Eight Hundred Eighty-Four"
  },
@@ -60,5 +60,13 @@
     "en": "This repealing Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Repealing Republic Act Numbered Three Thousand Eight Hundred Eighty-Four",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

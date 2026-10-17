@@ -1,7 +1,7 @@
 {
  "id": "PH-H1014",
  "title": {
-  "zh": null,
+  "zh": "规定促进盲人及其他残疾人职业康复并使其重返民事就业的法案",
   "en": "An Act to Provide for the Promotion of Vocational Rehabilitation of the Blind and Other Handicapped Persons and Their Return to Civil Employment",
   "orig": "An Act to Provide for the Promotion of Vocational Rehabilitation of the Blind and Other Handicapped Persons and Their Return to Civil Employment"
  },
@@ -162,5 +162,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Promotion of Vocational Rehabilitation of the Blind and Other Handicapped Persons and Their Return to Civil Employment",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

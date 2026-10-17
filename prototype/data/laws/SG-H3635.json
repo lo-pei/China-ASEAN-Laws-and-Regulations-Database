@@ -1,7 +1,7 @@
 {
  "id": "SG-H3635",
  "title": {
-  "zh": null,
+  "zh": "二手货商法 2007",
   "en": "Secondhand Goods Dealers Act 2007",
   "orig": null
  },
@@ -334,5 +334,13 @@
     "en": "THE SCHEDULE\nSection 2(1)\nSecondhand goods\n1. Cameras, video-graphic and photographic equipment including lenses.\n2. Computers including Tablet Personal Computers, Laptops, Palmtops, Personal Digital Assistants and computer accessories.\n3. Handphones, Personal Digital Assistant handphones and Smartphones.\n4. Compact Disc players and Moving Picture Experts Group-1 Audio Layer 3 players and Moving Picture Experts Group-1 Audio Layer 4 players.\n5. Jewellery set with precious stones including but not limited to diamonds, jade, rubies, sapphires and emeralds.\n6. Jewellery made from platinum, gold and white gold without precious stones.\n7. Pawn tickets.\n8. Watches.\n9. Cables and wires made of copper.\n10. Items (in whole or parts) that are made of copper, stainless steel, aluminium, steel or brass or a composite of such metals, and that are used or intended to be used as fittings or installations that form part of, or are attached to, any building, road, sidewalk, amenity or other place (whether public or private), including but not limited to the following:\n(a)bicycle racks;\n(b)drain covers;\n(c)dry risers;\n(d)earth bars;\n(e)fencings;\n(f)frames or other parts of a door or window;\n(g)grills;\n(h)hydrants;\n(i)lightning conductors;\n(j)manhole covers;\n(k)meters;\n(l)over-ground boxes;\n(m)park benches;\n(n)pipes;\n(o)railings;\n(p)rubbish bins or parts thereof;\n(q)signs or signposts;\n(r)sinks;\n(s)television aerials;\n(t)water taps.\n11. [Deleted by S 519/2023 wef 31/07/2023 wef 31/07/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Secondhand Goods Dealers Act 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

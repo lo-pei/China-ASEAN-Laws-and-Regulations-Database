@@ -1,7 +1,7 @@
 {
  "id": "SG-H161",
  "title": {
-  "zh": null,
+  "zh": "航空导航（航空服务许可）条例",
   "en": "Air Navigation (Licensing of Air Services) Regulations",
   "orig": null
  },
@@ -788,5 +788,13 @@
     "en": "THIRD SCHEDULE\nDeleted by S 128/2010, wef 01/03/2010.\n[G.N. Nos. S 344/74; S 244/83; S240/90; S 200/93; S 476/93; S 21/96; S 454/2001; S476/2003; S 747/2004; S451/2005]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Air Navigation (Licensing of Air Services) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

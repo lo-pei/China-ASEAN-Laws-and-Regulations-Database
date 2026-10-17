@@ -1,7 +1,7 @@
 {
  "id": "SG-H444",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（广告）条例 2010",
   "en": "Casino Control (Advertising) Regulations 2010",
   "orig": null
  },
@@ -220,5 +220,13 @@
     "en": "9.—(1) Any casino operator, licensed international market agent, licensed international market agent representative or licensed special employee who, on or after 31st January 2013, contravenes regulation 3(1), 4A, 5(1) or (2), 6(1) or (2) or 8 shall —\n(a)in the case of a casino operator, be liable to disciplinary action under section 54 of the Act;\n(b)in the case of a licensed international market agent or licensed international market agent representative, be liable to disciplinary action under the Casino Control (Casino Marketing Arrangements) Regulations 2013 (G.N. No. S 65/2013); and\n(c)in the case of a licensed special employee, be liable to disciplinary action under section 93 of the Act.\n(2) Any other person who contravenes regulation 3(1), 4A, 5(1) or (2), 6(1) or (2) or 8 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.\n[S 627/2011 wef 25/11/2011]\n[S 62/2013 wef 31/01/2013]\n(3) Any casino operator or licensed special employee (as the case may be) who contravenes regulation 3C(1) or 4B (as the case may be) shall —\n(a)in the case of a casino operator, be liable to disciplinary action under section 54 of the Act; and\n(b)in the case of a licensed special employee, be liable to disciplinary action under section 93 of the Act.\n[S 629/2026 wef 21/09/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Advertising) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

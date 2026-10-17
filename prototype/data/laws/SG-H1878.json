@@ -1,7 +1,7 @@
 {
  "id": "SG-H1878",
  "title": {
-  "zh": null,
+  "zh": "人体器官移植（指定产品）公告 1987",
   "en": "Human Organ Transplant (Specified Products) Notification 1987",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following products are exempted from the application of section 13(1) of the Act:\n(a)human blood products and plasma fractions;\n(b)human hormones;\n(c)vaccines and toxoids;\n(d)diagnostic agents derived from human blood."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Human Organ Transplant (Specified Products) Notification 1987",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

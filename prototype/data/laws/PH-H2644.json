@@ -1,7 +1,7 @@
 {
  "id": "PH-H2644",
  "title": {
-  "zh": null,
+  "zh": "提高选举委员会主席与委员薪金，并授权选举委员会重组其办公室、确定下属官员与雇员薪金",
   "en": "An Act Increasing the Salaries of the Chairman and Members of the Commission on Elections and Authorizing the Commission on Elections to Reorganize its Office and Fix the Salaries of its Subordinate Officials and Employees",
   "orig": "An Act Increasing the Salaries of the Chairman and Members of the Commission on Elections and Authorizing the Commission on Elections to Reorganize its Office and Fix the Salaries of its Subordinate Officials and Employees"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect on July one, nineteen hundred sixty-one.\nApproved: June 17, 1961"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Salaries of the Chairman and Members of the Commission on Elections and Authorizing the Commission on Elections to Reorganize its Office and Fix the Salaries of its Subordinate Officials and Employees",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

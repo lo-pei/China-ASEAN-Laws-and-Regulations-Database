@@ -1,7 +1,7 @@
 {
  "id": "PH-H7506",
  "title": {
-  "zh": null,
+  "zh": "将公共工程与公路部东内格罗斯省第三分区工程办公室改设为名为东内格罗斯第三工程区的完整工程区并为其拨款",
   "en": "An Act Converting the Third Sub-District Engineering Office of the Department of Public Works and Highways in the Province of Negros Oriental Into a Full-Fledged Engineering District to Be Known as the Negros Oriental Third Engineering District and Appropriating Funds Therefor",
   "orig": "An Act Converting the Third Sub-District Engineering Office of the Department of Public Works and Highways in the Province of Negros Oriental Into a Full-Fledged Engineering District to Be Known as the Negros Oriental Third Engineering District and Appropriating Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Third Sub-District Engineering Office of the Department of Public Works and Highways in the Province of Negros Oriental Into a Full-Fledged Engineering District to Be Known as the Negros Oriental Third Engineering District and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

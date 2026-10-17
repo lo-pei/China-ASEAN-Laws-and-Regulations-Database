@@ -1,7 +1,7 @@
 {
  "id": "PH-H1726",
  "title": {
-  "zh": null,
+  "zh": "修订第1231号共和国法（即《授权菲律宾总统将美国空军或菲律宾空军飞行学校毕业的预备役军官飞行员任命为正规军》）的法案",
   "en": "An Act to Amend Republic Act Numbered Twelve Hundred and Thirty-One, Entitled “An Act Authorizing the President of the Philippines to Appoint in the Regular Force Reserve Officer Pilots Who are Graduates of the United States Air Force or Philippine Air Force Flying School”",
   "orig": "An Act to Amend Republic Act Numbered Twelve Hundred and Thirty-One, Entitled “An Act Authorizing the President of the Philippines to Appoint in the Regular Force Reserve Officer Pilots Who are Graduates of the United States Air Force or Philippine Air Force Flying School”"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Twelve Hundred and Thirty-One, Entitled “An Act Authorizing the President of the Philippines to Appoint in the Regular Force Reserve Officer Pilots Who are Graduates of the United States Air Force or Philippine Air Force Flying School”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

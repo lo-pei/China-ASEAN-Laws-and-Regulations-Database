@@ -1,7 +1,7 @@
 {
  "id": "PH-H1388",
  "title": {
-  "zh": null,
+  "zh": "修订《保险法》，使火灾保险理赔理算人受保险专员监督的法案",
   "en": "An Act to Amend the Insurance Act so as to Make the Adjusters of Fire Insurance Claims Subject to the Supervision of the Insurance Commissioner",
   "orig": "An Act to Amend the Insurance Act so as to Make the Adjusters of Fire Insurance Claims Subject to the Supervision of the Insurance Commissioner"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval: Provided, That any person, firm, association or corporation which has been acting as adjuster of which has been advertising itself as an adjuster up to the date of effectivity of this Act may continue to act or advertise itself as such provided it applies for the license prescribed in this Act within the two months from such date and the application has not been disapproved.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend the Insurance Act so as to Make the Adjusters of Fire Insurance Claims Subject to the Supervision of the Insurance Commissioner",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

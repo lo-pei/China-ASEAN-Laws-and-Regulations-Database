@@ -1,7 +1,7 @@
 {
  "id": "BN-S022-2017",
  "title": {
-  "zh": null,
+  "zh": "文莱法律 S022-2017",
   "en": "S022-2017",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "Wild Fauna and Flora Order, 2007 (S 7712007) Section 2(1) Delete the definition of \"port\" and substitute the followiilg new definition therefor - \"port\" means any area declared to be a port \" under section 3 of the Maritime and Port Authority of Brunei Darussalam Order, 2016;\"."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "S022-2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

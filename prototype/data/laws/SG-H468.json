@@ -1,7 +1,7 @@
 {
  "id": "SG-H468",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（须申报合同）条例 2026",
   "en": "Casino Control (Notifiable Contracts) Regulations 2026",
   "orig": null
  },
@@ -218,5 +218,13 @@
     "en": "SECOND SCHEDULE\nRegulation 8(1)\nPart 1\nPrescribed classes of notifiable contracts\nFirst column\nSecond column\nClass of contract\nDescription of contract\n1.Class 1\nA Class 1 notifiable contract is any contract between a casino operator and a new vendor —\n(a)that relates wholly or partly to any matter prescribed in the First Schedule; or\n(b)that exceeds the prescribed value specified in regulation 7 and relates wholly or partly to the supply of goods or services for the operations of the casino.\n2.Class 2\nA Class 2 notifiable contract is any contract between a casino operator and a new vendor that relates wholly or partly to the supply of goods or services for the operations of the casino, but is not a Class 1 notifiable contract.\nPart 2\ndefinitions\n1. In this Schedule —\n“new vendor” —\n(a)in relation to a Class 1 notifiable contract, means a vendor whose particulars have not been submitted in any notice previously given by the casino operator to the Authority under —\n(i)Part II of the revoked Regulations; or\n(ii)Part 2 of these Regulations in relation to a Class 1 notifiable contract; and\n(b)in relation to a Class 2 notifiable contract, means a vendor whose particulars have not been submitted in any notice previously given by the casino operator to the Authority under —\n(i)Part II or III of the revoked Regulations; or\n(ii)Part 2 of these Regulations in relation to a Class 1 notifiable contract or Class 2 notifiable contract."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Notifiable Contracts) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

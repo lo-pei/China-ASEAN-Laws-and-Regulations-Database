@@ -1,7 +1,7 @@
 {
  "id": "PH-H483",
  "title": {
-  "zh": null,
+  "zh": "修订第502号联邦法第3条，重新界定奎松市边界的法案",
   "en": "An Act to Amend Section Three of Commonwealth Act Numbered Five Hundred and Two, as Amended, Redefining the Boundaries of Quezon City",
   "orig": "An Act to Amend Section Three of Commonwealth Act Numbered Five Hundred and Two, as Amended, Redefining the Boundaries of Quezon City"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Three of Commonwealth Act Numbered Five Hundred and Two, as Amended, Redefining the Boundaries of Quezon City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

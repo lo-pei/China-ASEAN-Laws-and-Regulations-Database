@@ -1,7 +1,7 @@
 {
  "id": "PH-H2185",
  "title": {
-  "zh": null,
+  "zh": "修订第1613号共和国法第2条第\"f\"款布拉干省第（10）目第29页第（g） Group II项的法案",
   "en": "An Act to Amend Item (g) Group II, Page 29, Subparagraph (10), for the Province of Bulacan, Paragraph “f”, Section Two of Republic Act Numbered Sixteen Hundred Thirteen",
   "orig": "An Act to Amend Item (g) Group II, Page 29, Subparagraph (10), for the Province of Bulacan, Paragraph “f”, Section Two of Republic Act Numbered Sixteen Hundred Thirteen"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Item (g) Group II, Page 29, Subparagraph (10), for the Province of Bulacan, Paragraph “f”, Section Two of Republic Act Numbered Sixteen Hundred Thirteen",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

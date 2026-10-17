@@ -1,0 +1,111 @@
+{
+ "id": "BN-RESL-1956-CUSTOMS-ESTABLISHMENTS-OF-CUSTOMS-WAREHOUSE-428CF8",
+ "title": {
+  "zh": "RESL 1956 设立海关仓库与仓库租金命令",
+  "en": "RESL 1956 CUSTOMS ESTABLISHMENTS OF CUSTOMS WAREHOUSE AND WAREHOUSE RENT ORDER",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p24",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 5,
+ "chars": 562,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "RESL-1956-CUSTOMS-ESTABLISHMENTS-OF-CUSTOMS-WAREHOUSE-AND-WAREHOUSE-RENT-ORDER.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《RESL-1956-CUSTOMS-ESTABLISHMENTS-OF-CUSTOMS-WAREHOUSE-AND-WAREHOUSE-RENT-ORDER.pdf》（2 页），本次切分 5 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-RESL-1956-CUSTOMS-ESTABLISHMENTS-OF-CUSTOMS-WAREHOUSE-428CF8-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "heading": {
+    "en": "· This order may be cited as the Customs (Establishment Citation"
+   },
+   "text": {
+    "en": "The minimum rent for any period of deposit shall be 20 cents."
+   }
+  },
+  {
+   "id": "BN-RESL-1956-CUSTOMS-ESTABLISHMENTS-OF-CUSTOMS-WAREHOUSE-428CF8-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "established as Customs Warehouses wherein dutiable goods may of Customs"
+   },
+   "text": {
+    "en": "For the first week or part thereof -10 cents p~r picul or part thereof reckoned on the gross packed weight of the goods."
+   }
+  },
+  {
+   "id": "BN-RESL-1956-CUSTOMS-ESTABLISHMENTS-OF-CUSTOMS-WAREHOUSE-428CF8-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "a Customs Warehouse at the rates specified in the Second Sche-"
+   },
+   "text": {
+    "en": "For the second week or part thereof -20 cents per picul or part thereof reckoned on the gross packed weight of the goods."
+   }
+  },
+  {
+   "id": "BN-RESL-1956-CUSTOMS-ESTABLISHMENTS-OF-CUSTOMS-WAREHOUSE-428CF8-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "For the third and fourth weeks or pan thereof $1.00 per picul or part thereof reckoned on the gross packed weight of the goods."
+   }
+  },
+  {
+   "id": "BN-RESL-1956-CUSTOMS-ESTABLISHMENTS-OF-CUSTOMS-WAREHOUSE-428CF8-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "For any subsequent period per week or part thereof -$2.00 per picul or part thereof reckoned on the gross packed weight of the goods."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RESL 1956 CUSTOMS ESTABLISHMENTS OF CUSTOMS WAREHOUSE AND WAREHOUSE RENT ORDER",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

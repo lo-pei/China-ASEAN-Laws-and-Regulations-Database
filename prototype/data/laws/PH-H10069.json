@@ -1,7 +1,7 @@
 {
  "id": "PH-H10069",
  "title": {
-  "zh": null,
+  "zh": "设立移工部、界定其权力与职能、理顺与海外就业和劳务移民相关政府机构的组织与职能、拨付资金并为其他目的法案",
   "en": "An Act Creating the Department of Migrant Workers, Defining Its Powers and Functions, Rationalizing the Organization and Functions of Government Agencies Related to Overseas Employment and Labor Migration, Appropriating Funds Therefor, and for Other Purposes",
   "orig": "An Act Creating the Department of Migrant Workers, Defining Its Powers and Functions, Rationalizing the Organization and Functions of Government Agencies Related to Overseas Employment and Labor Migration, Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -290,5 +290,13 @@
     "en": "Congressional Oversight Committee and Submission of Annual Reports. – There shall be created a Congressional Oversight Committee on Migrant Workers to monitor and oversee the implementation of the provisions of this Act.\nThe Committee shall be composed of six (6) members from the Senate and six (6) members from the House of Representatives with the Chairperson of the Committee on Overseas Workers Affairs of the House of Representatives and the Committee on Labor, Employment and Human Resources Development of the Senate as Co-chairpersons. The other members from each Chamber are to be designated by the Senate President and the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Department of Migrant Workers, Defining Its Powers and Functions, Rationalizing the Organization and Functions of Government Agencies Related to Overseas Employment and Labor Migration, Appropriating Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

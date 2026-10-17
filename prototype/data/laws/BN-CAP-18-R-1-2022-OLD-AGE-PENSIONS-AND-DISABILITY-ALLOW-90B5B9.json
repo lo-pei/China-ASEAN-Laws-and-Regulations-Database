@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-18-R-1-2022-OLD-AGE-PENSIONS-AND-DISABILITY-ALLOW-90B5B9",
  "title": {
-  "zh": null,
+  "zh": "R 1 2022 版老年养老金与残疾津贴咨询委员会规则",
   "en": "R 1 2022 ED OLD AGE PENSIONS AND DISABILITY ALLOWANCES ADVISORY COMMITTEE RULES",
   "orig": null
  },
@@ -125,5 +125,13 @@
     "en": "The Controller of Pensions shall appoint a fit and proper person to be secretary to"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 1 2022 ED OLD AGE PENSIONS AND DISABILITY ALLOWANCES ADVISORY COMMITTEE RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

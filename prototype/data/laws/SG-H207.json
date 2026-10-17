@@ -1,7 +1,7 @@
 {
  "id": "SG-H207",
  "title": {
-  "zh": null,
+  "zh": "动物与鸟类（非商业家禽禽病预防）规则",
   "en": "Animals and Birds (Prevention of Avian Disease in Non-Commercial Poultry) Rules",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. Any person who —\n(a)contravenes rule 3(1); or\n(b)fails, without reasonable excuse, to comply with a directive of the Director-General or an authorised officer under rule 4(1),\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.\n[G.N. No. S 534/2006]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Animals and Birds (Prevention of Avian Disease in Non-Commercial Poultry) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

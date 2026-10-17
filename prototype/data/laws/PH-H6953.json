@@ -1,7 +1,7 @@
 {
  "id": "PH-H6953",
  "title": {
-  "zh": null,
+  "zh": "1998 年下游石油业放松管制法",
   "en": "Downstream Oil Industry Deregulation Act of 1998",
   "orig": "Downstream Oil Industry Deregulation Act of 1998 An Act Deregulating the Downstream Oil Industry and for Other Purposes"
  },
@@ -405,5 +405,13 @@
     "en": "Effectivity. – This Act shall take effect upon its complete publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Downstream Oil Industry Deregulation Act of 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

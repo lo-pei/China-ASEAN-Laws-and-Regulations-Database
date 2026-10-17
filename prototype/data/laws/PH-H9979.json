@@ -1,7 +1,7 @@
 {
  "id": "PH-H9979",
  "title": {
-  "zh": null,
+  "zh": "降低菲律宾国家警察（PNP）、消防局（BFP）、监狱管理与刑罚局（BJMP）与惩教局（BUCOR）报考者的最低身高要求并为此修订相关共和国法",
   "en": "An Act Lowering the Minimum Height Requirement for Applicants of the Philippine National Police (PNP), Bureau of Fire Protection (BFP), Bureau of Jail Management and Penology (BJMP), and Bureau of Corrections (BUCOR), Amending Republic Act No. 6975, as Amended, Republic Act No.9263, and Republic Act No. 10575",
   "orig": "An Act Lowering the Minimum Height Requirement for Applicants of the Philippine National Police (PNP), Bureau of Fire Protection (BFP), Bureau of Jail Management and Penology (BJMP), and Bureau of Corrections (BUCOR), Amending Republic Act No. 6975, as Amended, Republic Act No.9263, and Republic Act No. 10575"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Lowering the Minimum Height Requirement for Applicants of the Philippine National Police (PNP), Bureau of Fire Protection (BFP), Bureau of Jail Management and Penology (BJMP), and Bureau of Corrections (BUCOR), Amending Republic Act No. 6975, as Amended, Republic Act No.9263, and Republic Act No. 10575",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

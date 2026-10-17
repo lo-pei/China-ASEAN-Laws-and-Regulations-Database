@@ -1,7 +1,7 @@
 {
  "id": "SG-H753",
  "title": {
-  "zh": null,
+  "zh": "共用服务隧道法 2018",
   "en": "Common Services Tunnels Act 2018",
   "orig": null
  },
@@ -438,5 +438,13 @@
     "en": "25.—(1) The Minister may make regulations for carrying out or giving effect to the purposes and provisions of this Act.\n(2) Without limiting subsection (1), the Minister may make regulations for or with respect to any of the following matters:\n(a)the procedure for appeals under this Act;\n(b)the fees and charges to be paid in respect of approvals and applications for approval under this Act, and otherwise in connection with the administration of this Act, and the waiver, reduction and refund of such fees and charges.\n(3) The regulations —\n(a)may be of general or specific application; and\n(b)may provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $5,000 or with imprisonment for a term not exceeding 6 months or with both."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Common Services Tunnels Act 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

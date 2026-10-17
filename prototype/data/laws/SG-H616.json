@@ -1,7 +1,7 @@
 {
  "id": "SG-H616",
  "title": {
-  "zh": null,
+  "zh": "新加坡民航局（樟宜机场）附例 2009",
   "en": "Civil Aviation Authority of Singapore (Changi Airport) By-laws 2009",
   "orig": null
  },
@@ -1891,5 +1891,13 @@
    },
    "status": "repealed"
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Civil Aviation Authority of Singapore (Changi Airport) By-laws 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

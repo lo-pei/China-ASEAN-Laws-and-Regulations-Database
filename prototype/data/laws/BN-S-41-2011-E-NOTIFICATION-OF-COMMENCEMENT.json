@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-41-2011-E-NOTIFICATION-OF-COMMENCEMENT",
+ "title": {
+  "zh": "生效公告",
+  "en": "NOTIFICATION OF COMMENCEMENT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p29",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 827,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-41_2011_E-NOTIFICATION-OF-COMMENCEMENT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-41_2011_E-NOTIFICATION-OF-COMMENCEMENT.pdf》（1 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-41-2011-E-NOTIFICATION-OF-COMMENCEMENT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 41\n\nINTERNATIONAL TRANSFER OF PRISONERS ORDER, 2011 (S 35/2011)\n\nNOTIFICATION OF COMMENCEMENT It exercise of the power conferred by section 1 I 1) of the International Transfer of Prisoners Order, 2011, His Majesty the Sultan and Yang Di-Pertuan has been graciously pleased to appoint 20th. day of April, 2011 as the date on which that Order shall commence. Dated this 18th. day of Rejab, 1432 Hijriah corresponding to the 20th. day of June, 2011. PENGIRAN HAJI ABD. HARIS BIN PENGIRAN HAJI SHABUDIN Permanent Secretary, Office of the Prime Minister, Brunei Darussalam. Dicetak oleh PENGrRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENGIRAN HAJI AHMAD, Femangku Pengarah Percetakan, ui Jahatan Pereetakan Kerajmm, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

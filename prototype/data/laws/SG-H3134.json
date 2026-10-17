@@ -1,7 +1,7 @@
 {
  "id": "SG-H3134",
  "title": {
-  "zh": null,
+  "zh": "药物（医疗广告）条例",
   "en": "Medicines (Medical Advertisements) Regulations",
   "orig": null
  },
@@ -254,5 +254,13 @@
     "en": "THE SCHEDULE\nRegulation 14(1)\nFees\n1.Application fee for a permit for —\n(a)a medical advertisement using light and sound projection\n$220\n(b)any other medical advertisement that is not a sales promotion\n$111\n2.Application fee for a permit for a sales promotion, in addition to the fee in item 1, if any\n$111\n3.Fee for a permit, for the first year, for —\n(a)a medical advertisement using light and sound projection\n$111\n(b)any other medical advertisement that is not a sales promotion\n$111\n4.Fee for a permit, for the first year, of a sales promotion, in addition to the fee in item 3, if any\n$111\n5.Fee for the renewal of a permit, for each subsequent year, for —\n(a)a medical advertisement using light and sound projection\n$331\n(b)any other medical advertisement that is not a sales promotion\n$222\n6.Fee for the renewal of a permit, for each subsequent year, for a sales promotion, in addition to the fee in item 5, if any\n$222\n7.Fee for an application to amend a permit\n$57\n8.Fee for an application to transfer one or more permits to another person\n$18\n[S 493/2024 wef 01/07/2024]\n[G.N. Nos. S 289/77; S 357/82; S 335/84; S 275/92; S 97/96; S 385/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Medicines (Medical Advertisements) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

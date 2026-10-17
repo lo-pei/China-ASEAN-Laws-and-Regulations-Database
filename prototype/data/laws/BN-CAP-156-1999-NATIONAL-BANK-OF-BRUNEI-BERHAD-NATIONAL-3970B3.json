@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-156-1999-NATIONAL-BANK-OF-BRUNEI-BERHAD-NATIONAL-3970B3",
  "title": {
-  "zh": null,
+  "zh": "文莱国家银行有限公司国家金融私人有限公司法",
   "en": "NATIONAL BANK OF BRUNEI BERHAD NATIONAL FINANCE SENDIRIAN BERHAD ACT",
   "orig": null
  },
@@ -238,5 +238,13 @@
     "en": "The Controller may order that any former director or shall not be a director or officer of or in any way, directly or indirectly, be concerned with or take part in the of any for such not exceeding five years, as the Controller may consider"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NATIONAL BANK OF BRUNEI BERHAD NATIONAL FINANCE SENDIRIAN BERHAD ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

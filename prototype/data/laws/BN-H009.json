@@ -219,14 +219,15 @@
    }
   },
   {
-   "id": "BN-H009-A20",
+   "id": "BN-H009-A20-d2",
    "no": 20,
    "noLabel": {
     "en": "Article 20"
    },
    "text": {
     "en": "When any portion of an electronic record is signed with a digital signature, the digital signature shall be treated as a secure electronic signature with respect to such portion of the record if —\n(a) the digital signature was cr eated during the operational period of a valid certif icate and is verified by reference to the public key listed in such certificate; and\n(b) the certificate is considered trustworthy, in that it is an accurate binding of a public key to a person’s identity because —\n(i) the certificate was issued by a licensed certification authority operating in comp liance with the regulations made under section 42;\n(ii) the certificate was issued by a certification authority outside Brunei Darussalam recognised for this purpose by the Controller pursuant to requirements made under\nsection 43;\n(iii) the certificate was issued  by a department or ministry of the Government, an orga n of State or a statutory body or corporation approved by the Minister to act as a certification authority on such conditions as he may by regulations impose or specify; or\n(iv) the parties have expressl y agreed between themselves (sender and recipient) to use digital signatures as a security procedure, and the digital signature was properly verified by reference to the sender’s public key.\nElectronic Transactions 232008 Ed. CAP. 196 B.L.R.O.  4/2008 Presumptions regarding certificates."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "BN-H009-A21",

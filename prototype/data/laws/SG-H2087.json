@@ -1,7 +1,7 @@
 {
  "id": "SG-H2087",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 6 号）命令 2018",
   "en": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividends received in Singapore by Singapore Aerospace Manufacturing Pte Ltd and Accuron Industrial Technologies Limited (both companies incorporated in Singapore) from SAM Engineering & Equipment (M) Berhad (a company incorporated in Malaysia) from 1 April 2014 to 31 March 2015 (both dates inclusive), and derived from dividends received by SAM Engineering & Equipment (M) Berhad from SAM Meerkat (M) Sdn Bhd, SAM Precision (M) Sdn Bhd and LKT Automation Sdn Bhd (companies incorporated in Malaysia), are exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the conditions specified in paragraphs 3 and 4 of the letter of approval dated 8 October 2018 addressed to KPMG Services Pte. Ltd., the tax agent of Singapore Aerospace Manufacturing Pte Ltd and Accuron Industrial Technologies Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

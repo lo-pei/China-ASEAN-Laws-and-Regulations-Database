@@ -1,7 +1,7 @@
 {
  "id": "PH-H9674",
  "title": {
-  "zh": null,
+  "zh": "制定菲律宾劳动力能力竞争力计划、规定免费获得技术与职业教育培训并拨款的法案",
   "en": "An Act Instituting a Philippine Labor Force Competencies Competitiveness Program and Free Access to Technical-Vocational Education and Training (TVET), and Appropriating Funds Therefor",
   "orig": "An Act Instituting a Philippine Labor Force Competencies Competitiveness Program and Free Access to Technical-Vocational Education and Training (TVET), and Appropriating Funds Therefor"
  },
@@ -311,5 +311,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Instituting a Philippine Labor Force Competencies Competitiveness Program and Free Access to Technical-Vocational Education and Training (TVET), and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,0 +1,73 @@
+{
+ "id": "BN-S-7-2002-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2002",
+ "title": {
+  "zh": "滥用药物法修正命令 2002",
+  "en": "MISUSE OF DRUGS ACT AMENDMENT ORDER 2002",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p33",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 1835,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null,
+  "file": "S-7-2002-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2002.pdf"
+ },
+ "sourceFile": "S-7-2002-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2002.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "【源件无文本层，本记录为 OCR 补录】源 PDF 为纯扫描图像（无文本层），已用 Windows OCR 引擎识别；本机仅安装**简体中文识别模型**（无英文语言包），故对英文法条的字符准确率有限（易混：l/I、o/0、m/ın、大小写），并可能残留页边条标题。**本记录仅可用于检索定位，不可作为逐字引用依据；逐字引用请以原始 PDF 为准**。 本件共 2 页，切分 2 条。",
+ "textQuality": "ocr-windows-zh-Hans",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-7-2002-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2002-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Order m ay be cited as the Misuse of Drugs Act (Amendment) Ordert 2002 · Amendment of Second Schedule to Chapter 27 ·"
+   }
+  },
+  {
+   "id": "BN-S-7-2002-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2002-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The Second Schedule to the Misuse of Drugs Act is amended 间 (b ) 63 by deleting, against section 3 in the first column, the item in the second column relating to \"Unauthorised traffic in methylamphetamine\" and by substituting the following item therefor \" Unauthori sed traffic in methylamphetamine, where the quantity is ( 可 not less than 20 grammes and not more than 50 grammes (b ) more than 50 grammes\" ; by deleting, against section 3A in the first column, the item in the second column relating to \"Unauthorised possession of controlled drugs fo r the purpose of trafficking therein, containing such quantity of methylamphetamine\" and by substituting the following item therefor \"Unauthorised possession of controlled drugs for the purpose of trafficking therein , containing such quantity of methylamphetamine being ( 可 not less than 40 grammes and not more than loo grammes (b ) more than loo grammes\" ; by deleting, against section 5 in the first column , the item in the second column relating to \"Unauthorised import or export Of methylamphetamine \" and by substituting the following item therefor\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE \"Unauthorised import or export Of methylamphetamine, where the quantity is (a ) not less than 20 grammes and not more than 50 grammes (b ) more than 50 grammes'l · Made this 19th. d ay of Zulkaedah, 1422 Hijriah corresponding to the 2nd. d ay of February, 2002 at Our lstana Nurul lmanr Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh DATO PADUKA WAHID BIN HAJI SALLEH, Pe ngarah Percetakan, 山 J abatan Percetakan Kerajaanr Ba nda 「 Se Begawan BB3510 , Negar a Brunei Darussalam , Harga B $ 5 · oo"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MISUSE OF DRUGS ACT AMENDMENT ORDER 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

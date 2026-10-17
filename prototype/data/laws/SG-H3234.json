@@ -1,7 +1,7 @@
 {
  "id": "SG-H3234",
  "title": {
-  "zh": null,
+  "zh": "毒品滥用（核准机构、医学观察与治疗康复）条例",
   "en": "Misuse of Drugs (Approved Institutions, Medical Observation and Treatment and Rehabilitation) Regulations",
   "orig": null
  },
@@ -259,5 +259,13 @@
     "en": "16.—(1) Subject to paragraphs (2) and (3), regulation 15 applies to any person who has been discharged from a military detention barrack to which the person was committed —\n(a)for drug treatment and rehabilitation; or\n(b)for an offence involving the consumption of a controlled drug or psychoactive substance under section 26 or 34 of the Singapore Armed Forces Act 1972,\n[S 483/2024 wef 01/06/2024]\nwhile being subject to military law, as it applies to a person who has been discharged from an approved institution.\n[S 299/2023 wef 01/06/2023]\n(2) Where any person to whom paragraph (1) applies continues to be subject to military law after being discharged from a military detention barrack, a supervision order may take effect from the date he ceases to be subject to military law.\n(3) The procurement of urine specimens and the conduct of urine tests of persons to whom paragraph (1) applies shall, while such persons are subject to military law, be carried out in accordance with regulations made under the Act or the Singapore Armed Forces Act 1972 for that purpose as they apply to urine specimens procured under a lawful order.\n[G.N. Nos. S 168/76; S 202/77; S 324/77; S 115/78; S 208/79; S 223/81; S 183/82; S 52/90; S 324/91; S 507/95; S 286/96; S 199/99]\n[S 712/2020 wef 31/08/2020]\n[S 299/2023 wef 31/12/2021]\n[S 522/2019 wef 01/08/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Misuse of Drugs (Approved Institutions, Medical Observation and Treatment and Rehabilitation) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

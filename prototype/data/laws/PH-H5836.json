@@ -1,7 +1,7 @@
 {
  "id": "PH-H5836",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛省 Batad 市镇 Batad 国立中学与 Batad 国立农业与职业中学合并整合为名为 Batad 理工学院的理工学院并为其拨款的法案",
   "en": "An Act Merging and Integrating the Batad National High School and the Batad National Agricultural and Vocational High School in the Municipality of Batad, Province of Iloilo, Into a Polytechnic College to Be Known as the Batad Polytechnic College, and Appropriating Funds Therefor",
   "orig": "An Act Merging and Integrating the Batad National High School and the Batad National Agricultural and Vocational High School in the Municipality of Batad, Province of Iloilo, Into a Polytechnic College to Be Known as the Batad Polytechnic College, and Appropriating Funds Therefor"
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Merging and Integrating the Batad National High School and the Batad National Agricultural and Vocational High School in the Municipality of Batad, Province of Iloilo, Into a Polytechnic College to Be Known as the Batad Polytechnic College, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9644",
  "title": {
-  "zh": null,
+  "zh": "1997 年社会保障法",
   "en": "Social Security Act of 1997",
   "orig": "An Act Rationalizing and Expanding the Powers and Duties of the Social Security Commission to Ensure the Long-Term Viability of the Social Security System, Repealing for the Purpose Republic Act No. 1161, as Amended by Republic Act No. 8282, Otherwise Known as the \"Social Security Act of 1997\""
  },
@@ -370,5 +370,13 @@
     "en": "Repealing Clause. - Republic Act No. 1161 and Republic Act No. 8282 and all other laws, proclamations, executive orders, rules and regulations or parts thereof inconsistent with this Act are hereby repealed, modified or amended accordingly: Provided, That no person shall be deemed to be vested with any property or other right by virtue of the enactment or operation of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Social Security Act of 1997",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3415",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11 (3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nPart I\n1.Architects Act (Chapter 12)\n2.Bankruptcy Act (Chapter 20)\n3.Buildings and Common Property (Maintenance and Management) Act (Chapter 30)\n4.Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Chapter 65A)\n5.Criminal Law (Temporary Provisions) Act (Chapter 67)\n6.Exchange Control Act (Chapter 99)\n7.Insurance Act (Chapter 142)\n8.Parliament (Privileges, Immunities and Powers) Act (Chapter 217)\n9.People’s Association Act (Chapter 227)\n10.Petroleum Act (Chapter 229)\n11.Probate and Administration Act (Chapter 251)\n12.Public Transport Council Act (Chapter 259B)\n13.Retirement Age Act (Chapter 274A)\n14.Statutory Corporations (Contributions to Consolidated Fund) Act (Chapter 319A)\n15.Town Councils Act (Chapter 329A)\nPart II\nRevised loose-leaf pages of the Central Provident Fund Act (Chapter 36) [Cover page, 37—38, 73 — 78, 81 — 82, Legislative History vii — viii, Comparative Table i — ii]\n[G.N. No. S 279/2000]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11 (3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7690",
  "title": {
-  "zh": null,
+  "zh": "理顺汽车消费税，为此修订 1997 年《国家国内税收法典》并为其他目的法案",
   "en": "An Act Rationalizing the Excise Tax on Automobiles, Amending for the purpose the National Internal Revenue Code of 1997, and for other purposes",
   "orig": "An Act Rationalizing the Excise Tax on Automobiles, Amending for the purpose the National Internal Revenue Code of 1997, and for other purposes"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity Clause - This Act shall take effect fifteen (15) days after the publication of the approved implementing ruled and regulations."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Rationalizing the Excise Tax on Automobiles, Amending for the purpose the National Internal Revenue Code of 1997, and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

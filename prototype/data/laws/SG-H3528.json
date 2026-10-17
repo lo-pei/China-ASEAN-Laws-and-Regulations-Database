@@ -1,7 +1,7 @@
 {
  "id": "SG-H3528",
  "title": {
-  "zh": null,
+  "zh": "建国一代与立国一代基金法 2014",
   "en": "Pioneer Generation and Merdeka Generation Funds Act 2014",
   "orig": null
  },
@@ -550,5 +550,13 @@
     "en": "29.—(1) Any decision, relating to whether a citizen of Singapore is a Merdeka Generation Senior, by any person purporting to be made in the name or on behalf of the Appeals Panel before 26 June 2019 has effect, and is taken always to have had effect, as if it had been made on that date by the Appeals Panel under section 13, 14 or 14A, as the case may be.\n[16/2019]\n(2) Anything done under or for the purposes of such a decision mentioned in subsection (1) is as valid, and is taken always to have been as valid, as it would have been if the decision had been made by the Appeals Panel under section 13, 14 or 14A, as the case may be.\n[16/2019]\n(3) Any application lodged before 26 June 2019 to any person purporting to act in the name or on behalf of the Appeals Panel and in respect of which no decision as mentioned in subsection (1) is made before that date is deemed to be a verification application made under section 13(2).\n[16/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Pioneer Generation and Merdeka Generation Funds Act 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

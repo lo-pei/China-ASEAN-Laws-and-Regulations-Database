@@ -1,7 +1,7 @@
 {
  "id": "PH-H295",
  "title": {
-  "zh": null,
+  "zh": "规定公司在依法重建记录后补发遗失、被盗或毁损股票的证书，并规定对该补发提出异议的期限",
   "en": "An Act to Provide for the Issuance By Corporations of New Certificates of Stock in Lieu of Those Lost, Stolen or Destroyed, After the Reconstitution of the Records of the Corporation in Accordance With Law, and to Fix a Period Within Which to Contest Such Issuance",
   "orig": "An Act to Provide for the Issuance By Corporations of New Certificates of Stock in Lieu of Those Lost, Stolen or Destroyed, After the Reconstitution of the Records of the Corporation in Accordance With Law, and to Fix a Period Within Which to Contest Such Issuance"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 19, 1948"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Issuance By Corporations of New Certificates of Stock in Lieu of Those Lost, Stolen or Destroyed, After the Reconstitution of the Records of the Corporation in Accordance With Law, and to Fix a Period Within Which to Contest Such Issuance",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

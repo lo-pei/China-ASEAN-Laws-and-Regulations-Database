@@ -1,7 +1,7 @@
 {
  "id": "PH-H10708",
  "title": {
-  "zh": null,
+  "zh": "2013年强化基础教育法",
   "en": "Enhance Basic Education Act of 2013",
   "orig": "An Act Allowing the Department of Education the Flexibility to Determine the Pedagogical Approaches to be Implemented in the Basic Education Curriculum, Amending for the Purpose Section 5 of Republic Act No. 10533, or the \"Enhance Basic Education Act of 2013\""
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Enhance Basic Education Act of 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

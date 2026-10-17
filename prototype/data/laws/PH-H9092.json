@@ -1,7 +1,7 @@
 {
  "id": "PH-H9092",
  "title": {
-  "zh": null,
+  "zh": "2002 年综合危险药物法",
   "en": "Comprehensive Dangerous Drugs Act of 2002",
   "orig": "An Act to Further Strengthen the Anti-Drug Campaign of the Government, Amending for the Purpose Section 21 of Republic Act No. 9165, Otherwise Known as the \"Comprehensive Dangerous Drugs Act of 2002\""
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Comprehensive Dangerous Drugs Act of 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

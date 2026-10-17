@@ -1,7 +1,7 @@
 {
  "id": "PH-H2979",
  "title": {
-  "zh": null,
+  "zh": "规定重建南拉瑙省的地籍记录并为此拨款30万比索的法案",
   "en": "An Act Providing for the Reconstruction of the Cadastral Records for the Province of Lanao del Sur, and Authorizing the Appropriation of the Sum of Three Hundred Thousand Pesos Therefor",
   "orig": "An Act Providing for the Reconstruction of the Cadastral Records for the Province of Lanao del Sur, and Authorizing the Appropriation of the Sum of Three Hundred Thousand Pesos Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Reconstruction of the Cadastral Records for the Province of Lanao del Sur, and Authorizing the Appropriation of the Sum of Three Hundred Thousand Pesos Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

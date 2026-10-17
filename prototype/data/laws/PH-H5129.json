@@ -1,7 +1,7 @@
 {
  "id": "PH-H5129",
  "title": {
-  "zh": null,
+  "zh": "授予 Manila Jockey Club, Inc. 在马尼拉市或布拉干省建设、运营和维护赛马跑马场的特许权法案",
   "en": "An Act Granting Manila Jockey Club, Inc., a Franchise to Construct, Operate and Maintain a Race Track for Horse Racing in the City of Manila or in the Province of Bulacan.",
   "orig": "An Act Granting Manila Jockey Club, Inc., a Franchise to Construct, Operate and Maintain a Race Track for Horse Racing in the City of Manila or in the Province of Bulacan."
  },
@@ -120,5 +120,13 @@
     "en": "The grantee shell not lease, transfer, grant the usufruct of, sell or assign this franchise permit, or the rights or privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any other person, company or corporation, organized for the same purpose, without the previous approval of the Congress of the Philippines.\nThis Act shall take effect upon its approval.\nApproved, October 23, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Manila Jockey Club, Inc., a Franchise to Construct, Operate and Maintain a Race Track for Horse Racing in the City of Manila or in the Province of Bulacan.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

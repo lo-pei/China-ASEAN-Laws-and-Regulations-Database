@@ -1,7 +1,7 @@
 {
  "id": "PH-H4898",
  "title": {
-  "zh": null,
+  "zh": "统一矿业局官员与雇员薪金并为其提供资金的法案",
   "en": "An Act Standardizing the Salaries of Officers and Employees of the Bureau of Mines, and Providing Funds Therefor.",
   "orig": "An Act Standardizing the Salaries of Officers and Employees of the Bureau of Mines, and Providing Funds Therefor."
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 16, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Standardizing the Salaries of Officers and Employees of the Bureau of Mines, and Providing Funds Therefor.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1306",
  "title": {
-  "zh": null,
+  "zh": "节能（应登记公司）命令 2013",
   "en": "Energy Conservation (Registrable Corporations) Order 2013",
   "orig": null
  },
@@ -120,5 +120,13 @@
     "en": "THIRD SCHEDULE\nParagraph 3(5)\nDefault energy content values\nFactor\nUnit\n1.Energy Commodities\n(a)Chilled Water\n5.87\nGJ/ 10³ tonnes\n(b)Compressed Air\n240\nkJ/ cubic metre\n(c)Steam\n2.64\nTJ/ 10³ tonnes."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Energy Conservation (Registrable Corporations) Order 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

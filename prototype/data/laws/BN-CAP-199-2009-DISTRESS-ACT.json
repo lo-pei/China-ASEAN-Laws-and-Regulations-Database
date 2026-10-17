@@ -1,0 +1,300 @@
+{
+ "id": "BN-CAP-199-2009-DISTRESS-ACT",
+ "title": {
+  "zh": "扣押法",
+  "en": "DISTRESS ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p21",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act relating to distress for rent"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 24,
+ "chars": 15889,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-199-2009-ED-DISTRESS-ACT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-199-2009-ED-DISTRESS-ACT.pdf》（14 页），本次切分 24 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Distress Act."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In this Act, unless the context otherwise requires — “judge” means a Judge of the Supreme Court, a Judge of an Intermediate Court, and a magistrate; “landlord” means the lessor or sub-lessor of any premises, under any lease or agreement of tenancy, and includes any person claiming to be entitled in any capacity to receive rents due under any such lease or agreement; “prescribed form” means the form prescribed by any rules of practice and procedure in force in the court where the proceedings are taken; “registrar” means a Registrar of the High Court, an Intermediate Court and a Court of a Magistrate; “sheriff” includes a bailiff and any clerk or other officer charged with the duties of a sheriff and appointed as such by the Registrar “tenant” means any person from whom a landlord claims rent to be due under any such lease or agreement. To apply to rents owed to Government."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act shall apply to rents due to, but not from the Government. No distress otherwise than under this Act."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "No landlord shall distrain for rent except in the manner provided by Application for writ of distress."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "(1) A landlord or his agent duly authorised in writing may apply ex parte to a judge or registrar for an order for the issue of a writ, to be called a writ of distress, for the recovery of rent due or payable to the landlord by a tenant of any premises for a period not exceeding 12 completed months of the tenancy immediately preceding the date of the application and the judge or registrar may make such order accordingly.\n\n(2) Such authority shall be in the prescribed form, if any, with such variations as circumstances require, and shall be produced at the time of the\n\n(3) Arrears of rent may be distrained for after the determination of the tenancy, provided that either the tenant is still in occupation of the premises in respect of which the rent is claimed to be due, or any goods of the tenant are still on the premises. Provision for distress by one of joint owners."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Where a right to a distraint accrues to persons jointly or together interested in any premises, such right may be exercised by any one of such persons in his own name and the names of those jointly or together interested with him, and the levy shall be a complete discharge to the defendant for the amount recovered; but the judge or registrar may in any case require the party so applying to produce a written authority to distrain, signed by the other persons jointly or together interested with him."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "text": {
+    "en": "A writ of distress shall be addressed to the sheriff, directing him forthwith to distrain any moveable property found by him on the premises named therein, or such part of the property as may in his judgment be sufficient, when sold, to realise the amount of rent therein stated to be due to the applicant, together with such sum as may be due to the applicant by way of costs and to the sheriff for his fees and expenses: Provided that before a writ of distress is issued, the court may require the applicant to pay into court such sum as the court considers necessary to cover the fees and expenses of the sheriff. Property exempted from seizure."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "Property seizable under a writ of distress shall not include —\n\n(a) things in actual use in the hands of a person at the time of\n\n(b) tools and implements not in use where there is other movable property in or upon the house or premises sufficient to cover such amount and costs;\n\n(c) the tenant’s necessary wearing apparel and necessary bedding for himself and his family;\n\n(d) goods in the possession of the tenant for the purpose of being carried, wrought, worked up, or otherwise dealt with in the course of his ordinary trade or business;\n\n(e) goods belonging to guests at a hotel; and\n\n(f) goods in the custody of the law. Inventory and estimate of property seized."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "(1) After seizing any property under a writ of distress, the sheriff shall make an inventory and an approximate valuation thereof, and shall give to the tenant a notice of the seizure in the prescribed form, with a copy of the inventory and valuation attached, informing him of the amount due under the writ and that the property seized will be sold at a time and place to be named therein (not being less than 6 days from the date thereof), unless he pays the amount due within 5 days from the date thereof, or obtains an order restraining such sale.\n\n(2) If the tenant is not on the premises, such notice may be given to any person appearing to be in occupation thereof, or, if there is no such person, by posting it in some conspicuous place thereon. Application by under-tenant, lodger etc."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "(1) Where any movable property of —\n\n(a) any under-tenant;\n\n(b) any lodger; or\n\n(c) any other person whatsoever, not being a tenant of the premises or of any part thereof and not having any beneficial interest in any tenancy of the premises or of any part thereof, has been seized under a writ of distress issued to recover arrears of rent due to a superior landlord from his immediate tenant, such under-tenant, lodger or other person may apply to a judge to discharge or suspend the writ, or to release a distrained article.\n\n(2) No order shall be made —\n\n(a) unless such under-tenant, lodger or other person satisfies the\n\n(i) the tenant has no right of property of beneficial interest in the property; and\n\n(ii) such property is the property or in the lawful possession of such under-tenant, lodger or other\n\n(b) in the case of an under-tenant or lodger, unless he —\n\n(i) pays to the landlord or into court an amount equal to the arrears of rent in respect of which distress has been\n\n(ii) undertakes to pay to the landlord future rent, if any, due from him to the tenant.\n\n(3) In no case shall —\n\n(a) an under-tenant paying at least 75 per cent of the full monthly letting value of the premises comprised in the under-tenancy; or\n\n(b) a lodger, be liable under this section to pay the landlord or into court, a sum greater than the rent which he owes to his immediate landlord.\n\n(4) For the purposes of this section and of sections 11 and 14, a lodger’s rent shall include such sum as he pays or owes to his immediate landlord for lodging, board, attendance and use of furniture. Payments by under-tenant."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "(1) For the purposes of the recovery of any sums payable by an under-tenant or lodger to a superior landlord under the undertaking specified in section 10(2), or under a notice served in accordance with section 14, the under-tenant or lodger shall be deemed to be the immediate tenant of the superior landlord, and the sums payable shall be deemed to be rent.\n\n(2) Where the under-tenant or lodger has, in pursuance of any such undertaking or notice, paid any sums to the superior landlord, he may deduct the amount thereof from any rent due or which may become due from him to his immediate landlord, and any person (other than the tenant for whose rent the distress is levied or authorised to be levied) from whose rent a deduction has been made in respect of such a payment may make the like deductions from any rent due or which may become due from him to his immediate Exclusion of certain goods."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "text": {
+    "en": "Section 10 shall not apply to —\n\n(a) goods belonging to the husband or wife of the tenant whose rent is in arrears, or to goods comprised in any bill of sale, hirepurchase agreement or settlement made by such tenant, or to goods in the possession, order or disposition of such tenant by the consent and permission of the true owner under such circumstances that such tenant is the reputed owner thereof;\n\n(b) goods of a partner of the immediate tenant;\n\n(c) goods (not being goods of a lodger) upon premises where any trade or business is carried on in which both the immediate tenant and the under-tenant have an interest;\n\n(d) goods (not being goods of a lodger) on premises used as offices or warehouses where the owner of the goods neglects for one month after notice (which shall be given in like manner as a notice to quit) to remove the goods and vacate the premises; and\n\n(e) goods belonging to and in the offices of any company or body corporate on premises the immediate tenant whereof is a director or officer, or in the employment, of such company or body Exclusion of certain under-tenants."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "Section 10 shall not apply to any under-tenant where the undertenancy has been created in breach of any covenant or agreement in writing between the landlord and his immediate tenant. To avoid distress."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "In cases where the rent of the immediate tenant of the superior landlord is in arrears, it shall be lawful for such superior landlord to serve upon any under-tenant or lodger a notice (by registered post addressed to such under-tenant or lodger upon the premises) stating the amount of such arrears of rent, and requiring all future payments of rent, whether the same has already accrued due or not, by such under-tenant or lodger to be made direct to the superior landlord giving such notice until such arrears shall have been duly paid, and such notice shall operate to transfer to the superior landlord the right to recover, receive, and give a discharge for such rent. Interpretation of sections 10 to 14."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "For the purposes of sections 10 to 14, “superior landlord” shall be deemed to include a landlord in cases where the goods seized are not those of an under-tenant or lodger; and “tenant” and “under-tenant” shall not include a lodger. Application by tenant."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "text": {
+    "en": "The tenant may apply to a judge to discharge or suspend the execution of the writ of distress, or to release any part of the property seized.\n\n(a) on application for the release of any property distrained —\n\n(i) deal with the matter summarily and dismiss the\n\n(ii) discharge the writ of distress; or\n\n(iii) order the release unconditionally or on such terms as he thinks fit of any property seized;\n\n(b) direct an issue to be tried and, pending the determination of such issue, suspend the execution of the writ of distress;\n\n(c) order the property to be sold and the proceeds of sale to be lodged in court; or\n\n(d) make such other order on such terms as he considers fair as between the parties pending the final determination of the matter."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "text": {
+    "en": "Any costs incurred in any proceedings for the release of property distrained shall be in the discretion of the judge and may in proper cases be added to the amount leviable under the writ of distress. Sale of property seized."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "text": {
+    "en": "Subject to the provisions of this Act, the property seized under a writ of distress shall be sold at the time and place named in the notice required by section 9; and the net proceeds of sale shall be applied first in payment of the sheriff’s fees and expenses and then in satisfaction of the rent and costs due by the tenant to the landlord. The balance, if any, remaining over after such payments shall be returned to the tenant. seizure by way of execution."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "heading": {
+    "en": "Procedure where property seizable under a distress is already under"
+   },
+   "text": {
+    "en": "(1) Where any property liable to be seized under a writ of distress has already been seized under a writ of execution issued by any court, it shall not be seized under the writ of distress so long as it remains under such seizure under a writ of execution; but the officer in possession under the writ of execution shall be notified of the writ of distress, and shall thereupon be liable to pay out of the proceeds of sale of the goods seized by him, after payment thereout of the expenses of the execution and sale, but in priority to any other payment, the amount appearing to be due to the landlord: Provided that such payment shall not in any case exceed the amount due for the last 6 months’ rent.\n\n(2) The officers in possession under the writ of execution shall, on being notified as provided in subsection (1), give notice in writing to the execution creditor and the execution debtor of the writ of distress. Notice to the execution debtor may be given by affixing it to the premises on which the goods were seized.\n\n(3) The execution creditor or the execution debtor may apply to the court to discharge or suspend the writ of distress, and the court may then exercise all or any of such powers as are provided in sections 17 and 18 in the case of an application under section 16. Removal of goods to avoid distress."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "text": {
+    "en": "(1) If any person removes or causes or permits to be removed from any premises property liable to be seized under a writ of distress, with the intention of hindering or preventing the distraint thereof, a judge may, on application by the landlord, authorise the sheriff, within 30 days of such removal, to follow and seize such property in execution of the writ of distress, wherever it may be found, and to deal therewith as if it had been seized on the premises.\n\n(2) The sheriff may, without an order to that effect, follow and seize any such property discovered by him while in process of removal. Where goods removed sold to bona fide purchaser."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "text": {
+    "en": "(1) If any property so removed has been sold for fair value, whether before or after removal, to a bona fide purchaser not knowing or having the means of knowing that it was liable to distress for non-payment of rent or was removed in order to hinder or prevent the distraint thereof, it shall not be seized, or, if seized, shall be restored to the purchaser.\n\n(2) Any person claiming to be a bona fide purchaser for fair value of any property seized under section 21 may, within 4 days of such seizure or such further time as a judge may allow, apply for an order that the property so seized may be restored to him, and a judge may make such order accordingly. Deserted premises."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "heading": {
+    "en": "________________________"
+   },
+   "text": {
+    "en": "(1) Where —\n\n(a) immovable property is let at a rack rent or a rent not less than 75 per cent of its annual value;\n\n(b) rent is in arrears for not less than 2 months of the tenancy; and\n\n(c) the tenant has abandoned possession of the premises, and left thereon no sufficient property out of which the arrears of rent may be recovered by distress, a judge may, on the application of the landlord, authorise the sheriff to enter on the premises using such force as may be necessary to effect an entry into any building thereon, and take possession thereof; and the sheriff shall in such case enter on the premises and affix in a conspicuous place thereon a notice that possession thereof will be delivered to the landlord, unless within 10 days a judge, on the application of any person interested, otherwise orders.\n\n(2) If no such application is made within 10 days, the sheriff shall put the landlord in possession of the premises, and the lease or agreement of tenancy shall thereupon deemed to be determined.\n\n(3) If any such application is made, the judge may make such order for possession of the premises, and on such terms as to payment of rent due or otherwise as he considers fair as between the parties, and for that purpose may direct that any preliminary question be tried as an issue.\n\n(4) An order made under this section may be discharged for sufficient reason and on such terms as the judge thinks reasonable, on application by any person interested, notwithstanding that the period thereby prescribed has expired."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "text": {
+    "en": "Any person who sells or abets the sale of any property seized under a writ of distress in contravention of the provisions of this Act or of any rules of court relating to the sale of property seized under a writ of distress, is guilty of an offence and liable on conviction to a fine not exceeding $2,000."
+   }
+  },
+  {
+   "id": "BN-CAP-199-2009-DISTRESS-ACT-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "text": {
+    "en": "Where rent due by any tenant, otherwise than for a term certain to a landlord thereof has remained unpaid for not less than 14 days after payment thereof became due and still remains unpaid, then, in the absence of an express agreement between the parties to the contrary, any notice to quit given by the landlord to the tenant shall, if the length thereof be otherwise sufficient, expire on such day as may by the terms of the notice be appointed for the expiration thereof, whether such day coincides with the termination of some period of the tenancy or not."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DISTRESS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

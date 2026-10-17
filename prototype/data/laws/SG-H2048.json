@@ -1,7 +1,7 @@
 {
  "id": "SG-H2048",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 3 号）命令 2005",
   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2005",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Guangzhou Real Estate Investment Trust is hereby granted exemption from tax on the foreign dividends received in Singapore from the BVI-incorporated real property owning companies, subject to the condition specified in the letter of approval dated 4th November 2004 addressed to the tax agent of Guangzhou Real Estate Investment Trust."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

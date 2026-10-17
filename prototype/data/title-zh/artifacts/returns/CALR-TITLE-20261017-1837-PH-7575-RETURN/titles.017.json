@@ -1,0 +1,766 @@
+{
+ "jobId": "CALR-TITLE-20261017-1837-PH-7575",
+ "shard": 17,
+ "items": [
+  {
+   "id": "PH-H7258",
+   "zh": "将宿务省 Carcar 市镇的 Valladolid 国立中学附属校分离，改设为独立的 Roberto Sato 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8288",
+   "zh": "将达沃市 Catalunan Grande 描笼涯一所国立中学的附属校分离，改设为独立的 Jesus J. Soriano 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8894",
+   "zh": "将宿务省 Daanbantayan 市镇 Logon 描笼涯的 Calape 国立中学附属校分离，改设为独立的 Logon 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9285",
+   "zh": "将帕拉尼亚克市 Don Galo 描笼涯的 Parañaque 国立中学附属校分离，改设为独立的 Don Galo 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H10062",
+   "zh": "将巴伦苏埃拉市 Malinta 描笼涯的 Malinta 小学附属校分离，改设为独立的 Pinalagad 小学，并为此拨款"
+  },
+  {
+   "id": "PH-H8329",
+   "zh": "将本格特省 Kabayan 市镇 Adaoay 描笼涯的 Kamora 国立中学附属校分离，改设为独立的 Adaoay 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8358",
+   "zh": "将本格特省 Baguias 市镇 Bangao 描笼涯的 Sinisip 国立中学附属校分离，改设为独立的 Bangao 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8368",
+   "zh": "将卡林加省 Tabuk 市 Malalao 描笼涯的 Kalinga 国立中学附属校分离，改设为独立的 Eastern Kalinga 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8678",
+   "zh": "将南三宝颜省 Dumingag 市镇的 Dulop 国立中学附属校分离，改设为独立的 Dumingag 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9226",
+   "zh": "将帕拉尼亚克市 La Huerta 描笼涯的 Parañaque 国立中学附属校分离，改设为独立的 La Huerta 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9441",
+   "zh": "将本格特省 Bokod 市镇 Daklan 描笼涯的 Bokod 国立中学附属校分离，改设为独立的 Daklan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9461",
+   "zh": "将卡林加省 Tanudan 市镇 Dupligan 描笼涯一所国立中学的附属校分离，设立独立的 Biga 国立中学并为此拨款"
+  },
+  {
+   "id": "PH-H9958",
+   "zh": "将卡林加省 Tabuk 市 Bantay 描笼涯的 Tabuk 市国立中学附属校分离，改设为独立的 Bantay 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H3806",
+   "zh": "为第十三司法区增设一名法官，主持萨马省初审法院工作，常驻萨马省 Basey 市镇，并为此修订 1948 年《司法法》第五十条、第五十二条与第五十四条"
+  },
+  {
+   "id": "PH-H6995",
+   "zh": "将宿务省 Sibonga 市镇的 Sibonga 国立中学附属校分离，改设为独立的 Teodoro Dela Vega 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H7056",
+   "zh": "将宿务省 Minglanilla 市镇的 Guindaruhan 国立中学附属校分离，改设为独立的 Tulay 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H7369",
+   "zh": "将南阿古桑省 Esperanza 市镇 Guadalupe 描笼涯的 Esperanza 国立中学附属校分离，改设为独立的 Guadalupe 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8303",
+   "zh": "将伊富高省 Mayoyao 市镇 Tulaed 描笼涯的 Mayoyao 国立中学附属校分离，改设为独立的 Tulaed 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8336",
+   "zh": "将 Compostela Valley 省 Laak 市镇 Kidawa 描笼涯一所国立中学的附属校分离，改设为独立的 Kidawa 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8582",
+   "zh": "将南三宝颜省 Pagadian 市 Lourdes 描笼涯的 Lala 国立中学附属校分离，改设为独立的 Lourdes 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8882",
+   "zh": "将伊富高省 Asipulo 市镇 Camandag 描笼涯的 Haliap 国立中学附属校分离，改设为独立的 Natcak 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9284",
+   "zh": "将三宝颜市 Pasonanca 描笼涯一所中学的附属校分离，改设为独立的 Pasonanca 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9620",
+   "zh": "将布基农省 Don Carlos 市镇 Kiara 描笼涯的 Bocboc 国立中学附属校分离，改设为独立的 Kiara 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8273",
+   "zh": "将奥罗拉省 Dipaculao 市镇 Borlongan 描笼涯的 Aurora 国立中学附属校分离，改设为独立的 Borlongan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8328",
+   "zh": "将本格特省 Tuba 市镇 Taloy Sur 描笼涯的 Tuba 国立中学附属校分离，改设为独立的 Taloy Sur 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8341",
+   "zh": "将伊富高省 Tinoc 市镇 Wangwang 描笼涯的 Tinoc 国立中学附属校分离，改设为独立的 Kalanguya 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8401",
+   "zh": "将东米萨米斯省卡加延-德奥罗市 Bugo 描笼涯的 Agusan 国立中学附属校分离，改设为独立的 Bugo 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8569",
+   "zh": "将安蒂波洛市 San Jose 描笼涯一所国立中学的附属校分离，改设为独立的 Maximo L. Gatlabayan Memorial 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8742",
+   "zh": "将卡林加省 Pinukpuk 市镇 Camalog 描笼涯的 Limos 国立中学附属校分离，改设为独立的 Camalog 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8961",
+   "zh": "将宿务省 Daanbantayan 市镇 Paypay 描笼涯的 Calape 国立中学附属校分离，改设为独立的 Paypay 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H2702",
+   "zh": "进一步修订第一百八十六号联邦法，该法经第六百六十号、第七百二十八号、第一千一百二十三号、第一千三百七十七号、第一千五百七十三号、第一千六百一十六号及第一千八百二十号共和国法修订"
+  },
+  {
+   "id": "PH-H8225",
+   "zh": "将南哥打巴托省 Tupi 市镇 Cebuano 描笼涯的 Tupi 国立中学附属校分离，改设为独立的 Cebuano 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8244",
+   "zh": "将北阿古桑省武端市 Florida 描笼涯的 Tungao 国立中学附属校分离，改设为独立的 Florida 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8346",
+   "zh": "将 Compostela Valley 省 Maco 市镇一所国立中学的附属校分离，改设为独立的 Mainit 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8367",
+   "zh": "将三宝颜锡布格省 Mabuhay 市镇的 Olutanga 国立中学附属校分离，改设为独立的 Mabuhay 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8373",
+   "zh": "将本格特省 Mankayan 市镇 Balili 描笼涯的 Lepanto 国立中学附属校分离，改设为独立的 Balili 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8442",
+   "zh": "将南苏里高省 Bislig 市 Mone 描笼涯的 Bislig 市国立中学附属校分离，改设为独立的 Mone 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8522",
+   "zh": "将帕拉尼亚克市 Moonwalk 描笼涯的 Dr. Arcadio Santos 国立中学附属校分离，改设为独立的 Moonwalk 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8773",
+   "zh": "将北苏里高省 Surigao 市 Cantiasay 描笼涯的 Zaragosa 国立学校附属校分离，改设为独立的 Cantiasay 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8946",
+   "zh": "将东米萨米斯省 Gingoog 市 Kalipay 描笼涯的 Kalipay 国立中学附属校分离，改设为独立的 Eureka 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9176",
+   "zh": "将布基农省 Malaybalay 市 St. Peter 描笼涯的 Silae 国立中学附属校分离，改设为独立的 St. Peter 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H7109",
+   "zh": "将宿务省 Talisay 市镇的 Jaclupan 国立中学附属校分离，改设为独立的 Lawa-An (Talisay) 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H7111",
+   "zh": "将宿务省 Minglanilla 市镇的 Guindaruhan 国立中学附属校分离，改设为独立的 Tungkop 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8103",
+   "zh": "宣布每年 7 月 27 日为特别全国工作日假日，纪念菲律宾 Iglesia ni Cristo 成立周年，并为此修订第 292 号行政命令第 7 章第 26 条"
+  },
+  {
+   "id": "PH-H8223",
+   "zh": "将高山省 Sadanga 市镇 Belwang 描笼涯的 Sadanga 国立中学附属校分离，设立独立的 Belwang 国立中学并为此拨款"
+  },
+  {
+   "id": "PH-H8369",
+   "zh": "将卡林加省 Tabuk 市 Nambucayan 描笼涯的 Kalinga 国立中学附属校分离，改设为独立的 Nambucayan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8376",
+   "zh": "将碧瑶市 Cresencia Village 描笼涯一所国立中学的附属校分离，改设为独立的 Guisad Valley 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8378",
+   "zh": "将南达沃省 Malita 市镇 Ticulon 描笼涯的 Lawa 国立中学附属校分离，改设为独立的 Ticulon 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8659",
+   "zh": "将伊洛伊洛省 Oton 市镇 Caboloan Sur 描笼涯的 Oton 国立中学附属校分离，改设为独立的 Cambitu 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8662",
+   "zh": "将高山省 Sagada 市镇 Balugan 描笼涯的 Ankileng 国立中学附属校分离，改设为独立的 Balugan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8694",
+   "zh": "将卡林加省 Pinukpuk 市镇 Dugpa 描笼涯的 Kalinga 国立中学附属校分离，改设为独立的 Mananig 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8956",
+   "zh": "将达沃市 Mahayag 描笼涯的 F. Bustamante 国立中学附属校分离，改设为独立的 Mahayag 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9426",
+   "zh": "将 Apayao 省 Kabugao 市镇 Musimut 描笼涯一所学校的附属校分离，改设为独立的 Musimut 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9959",
+   "zh": "将高山省 Bauko 市镇 Mayag 描笼涯的 Guinzadan 国立中学附属校分离，改设为独立的 Mayag 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H6782",
+   "zh": "将索索贡省 Sorsogon 市镇的 Sorsogon 国立中学附属校分离，改设为独立的 Guinlajon 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H6994",
+   "zh": "将巴拉望省 Sofronio Española 市镇 Panitian 描笼涯一所国立学校的附属校分离，改设为独立的 Pns-Panitian 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8194",
+   "zh": "将高山省 Paracelis 市镇 Palitod 描笼涯的 Butigue 国立中学附属校分离，改设为独立的 Palitod 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8196",
+   "zh": "将高山省 Tadian 市镇 Cadad-anan 描笼涯的 Cagubatan 国立中学附属校分离，改设为独立的 Am-am 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8274",
+   "zh": "将高山省 Bauko 市镇 Tapapan 描笼涯的 Guinzadan 国立中学附属校分离，改设为独立的 Tapapan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8331",
+   "zh": "将伊富高省 Asipulo 市镇 Camandag 描笼涯的 Hallap 国立中学附属校分离，改设为独立的 Camandag 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8335",
+   "zh": "将北达沃省塔古姆市 San Miguel 描笼涯的 Davao 国立中学附属校分离，改设为独立的 Laureta 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8643",
+   "zh": "将宿务省 Daanbantayan 市镇 Tapilon 描笼涯的 Calape 国立中学附属校分离，改设为独立的 Tapilon 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8917",
+   "zh": "将朗布隆省 Looc 市镇 Buenavista 描笼涯的 Looc 国立中学附属校分离，改设为独立的 Buenavista 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H10053",
+   "zh": "将碧瑶市 Fort Del Pilar 描笼涯一所国立中学的附属校分离，改设为独立的 Fort Del Pilar 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8265",
+   "zh": "将南哥打巴托省 Lake Sebu 市镇 Ned 描笼涯的 Lake Sebu 国立中学附属校分离，改设为独立的 Ned 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8272",
+   "zh": "将奥罗拉省 Maria Aurora 市镇 Bayanihan 描笼涯的 Aurora 国立中学附属校分离，改设为独立的 Bayanihan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8419",
+   "zh": "将 Compostela Valley 省 Laak 市镇 Melale 描笼涯一所国立中学的附属校分离，改设为独立的 Melale 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8673",
+   "zh": "将南苏里高省 Bislig 市 Bucto 描笼涯的 Bislig 市国立中学附属校分离，改设为独立的 Bucto 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8724",
+   "zh": "将三宝颜锡布格省 Payao 市镇 Dalama 描笼涯的 Payao 国立中学附属校分离，改设为独立的 Dalama 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8769",
+   "zh": "将西明多洛省 Rizal 市镇 Manoot 描笼涯的 Rizal 国立中学附属校分离，改设为独立的 Manoot 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8876",
+   "zh": "将布基农省 Malaybalay 市 Casisang 描笼涯的 Bukidnon 国立中学附属校分离，改设为独立的 Casisang 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8950",
+   "zh": "将北苏里高省 Surigao 市 Libuac 描笼涯的 Jp Cedro 国立中学附属校分离，改设为独立的 Libuac 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9619",
+   "zh": "将巴拉望省普林塞萨港市 Sta. Monica 描笼涯的 Sicsican 国立中学附属校分离，改设为独立的 Santa Monica 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9960",
+   "zh": "将高山省 Tadian 市镇 Mabalite 描笼涯的 Lubon 国立中学附属校分离，改设为独立的 Mabalite 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H7201",
+   "zh": "将宿务省 Talisay 市镇的 Jaclupan 国立中学附属校分离，改设为独立的 Mohon (Divino Amore) 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H7203",
+   "zh": "将宿务省 Carcar 市镇的 Valladolid 国立中学附属校分离，改设为独立的 Carcar Central I 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8338",
+   "zh": "将 Compostela Valley 省 Nabunturan 市镇 Kao 描笼涯一所国立中学的附属校分离，改设为独立的 Kao 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8400",
+   "zh": "将东米萨米斯省卡加延-德奥罗市 Puerto 描笼涯的 Agusan 国立中学附属校分离，改设为独立的 Puerto 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8434",
+   "zh": "将 Compostella Valley 省 Monkayo 市镇 Awao 描笼涯一所国立中学的附属校分离，改设为独立的 Awao 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8915",
+   "zh": "将卡林加省 Pinukpuk 市镇 Socbot 描笼涯的 Cawagayan 国立中学附属校分离，改设为独立的 Socbot 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H4883",
+   "zh": "设立十二个助理市检察官职位，调整奎松市第七助理市检察官的薪金，并为此修订该市修订宪章第二十八条与第二十九条"
+  },
+  {
+   "id": "PH-H7057",
+   "zh": "将宿务省 Carcar 市镇的 Valladolid 国立中学附属校分离，改设为独立的 Valencia 国立职业中学，并为此拨款"
+  },
+  {
+   "id": "PH-H7386",
+   "zh": "将塔威塔威省 Sitangkai 市镇的 Ligayan 国立中学附属校分离，改设为独立的 Sitangkai 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H7567",
+   "zh": "将莱特省奥尔莫克市 Margen 描笼涯的 Merida 职业学校附属校分离，改设为独立的 Margen 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8241",
+   "zh": "将新比斯开省 Quezon 市镇 Runruno 描笼涯的 Quezon 国立中学附属校分离，改设为独立的 Runruno 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8384",
+   "zh": "将南哥打巴托省 Banga 市镇 San Jose 描笼涯的 Banga 国立中学附属校分离，改设为独立的 San Jose 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8433",
+   "zh": "将 Compostela Valley 省 Monkayo 市镇一所国立中学的附属校分离，设立独立的 Ulip 国立中学并为此拨款"
+  },
+  {
+   "id": "PH-H8464",
+   "zh": "将南达沃省 Sta. Cruz 市镇 Bato 描笼涯的 Sta. Cruz 国立中学附属校分离，改设为独立的 Bato 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8577",
+   "zh": "将布基农省 Valencia 市 Lilingayon 描笼涯一所国立中学的附属校分离，改设为独立的 Lilingayon 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8738",
+   "zh": "将南甘马粦省 Ocampo 市镇 Hanawan 描笼涯的 Ocampo 国立中学附属校分离，改设为独立的 Hanawan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8749",
+   "zh": "将北苏里高省 Surigao 市 Taft 描笼涯的 Surigao 市国立中学附属校分离，改设为独立的 Taft 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8895",
+   "zh": "将朗布隆省 Magdiwang 市镇 Agutay 描笼涯的 Magdiwang 国立中学附属校分离，改设为独立的 Agutay 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9320",
+   "zh": "将伊莎贝拉省 Cordon 市镇 Magsaysay 描笼涯的 Cagasat 国立中学附属校分离，改设为独立的 Cordon 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9369",
+   "zh": "将 Apayao 省 Conner 市镇 Ili 描笼涯的 Conner Central 国立中学附属校分离，改设为独立的 Ili 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9535",
+   "zh": "将伊洛伊洛省 Igbaras 市镇 Alameda 描笼涯的 Igbaras 国立中学附属校分离，改设为独立的 Alameda 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9536",
+   "zh": "将苏丹库达拉特省 Tacurong 市 San Pablo 描笼涯的 San Emmanuel 国立中学附属校分离，改设为独立的 San Pablo 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9962",
+   "zh": "将高山省 Bontoc 市镇 Mainit 描笼涯的 Guina-Ang 国立中学附属校分离，改设为独立的 Mainit 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H5013",
+   "zh": "为第十二司法区增设一名法官，主持锡基霍尔省初审法院工作，常驻锡基霍尔省 Siquijor 市镇，并为此修订 1948 年《司法法》第四十九条、第五十条、第五十二条与第五十四条"
+  },
+  {
+   "id": "PH-H7987",
+   "zh": "将曼达卢永市 Pleasant Hills 描笼涯一所小学的附属校分离，改设为独立的 Pleasant Hills 小学，并为此拨款"
+  },
+  {
+   "id": "PH-H8193",
+   "zh": "将北苏里高省 Pilar 市镇 Caridad 描笼涯的 Pilar 国立中学附属校分离，改设为独立的 Caridad 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8393",
+   "zh": "将苏丹库达拉特省 Lebak 市镇 Keytodac 描笼涯的 Lebak 国立中学附属校分离，改设为独立的 Keytodac 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8417",
+   "zh": "将三宝颜锡布格省 Tungawan 市镇 Sisay 描笼涯的 Tungawan 国立中学附属校分离，改设为独立的 Sisay 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8436",
+   "zh": "将三宝颜锡布格省 Payao 市镇 Bulawan 描笼涯的 Payao 国立中学附属校分离，改设为独立的 Bulawan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8448",
+   "zh": "将苏丹库达拉特省 Palimbang 市镇 Baluan 描笼涯的 Milbuk 国立中学附属校分离，改设为独立的 Baluan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8521",
+   "zh": "将帕拉尼亚克市 Sun Valley 描笼涯的 Dr. Arcadio Santos 国立中学附属校分离，改设为独立的 Sun Valley 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8538",
+   "zh": "将布基农省 Talakag 市镇 Tikalaan 描笼涯的 Talakag 国立中学附属校分离，设立独立的 Tikalaan 国立中学并为此拨款"
+  },
+  {
+   "id": "PH-H8658",
+   "zh": "将巴伦苏埃拉市 Canumay 描笼涯的 Valenzuela 国立中学附属校分离，改设为独立的 Canumay East 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8776",
+   "zh": "将南三宝颜省 Josefina 市镇 Dawa 描笼涯的 Leonardo 国立中学附属校分离，改设为独立的 Dawa 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8885",
+   "zh": "将南苏里高省 Cantilan 市镇 Parang 描笼涯的 Madrid 国立中学附属校分离，改设为独立的 Parang 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8938",
+   "zh": "将卡林加省 Tabuk 市镇 Bado Dangwa 描笼涯的 Tuga 国立中学附属校分离，改设为独立的 Bado Dangwa 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9167",
+   "zh": "将卡林加省 Balbalan 市镇 Salegseg 描笼涯的 Kalinga 国立中学附属校分离，改设为独立的 Balbalan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8394",
+   "zh": "将东达沃省 Lupon 市镇的 Lupon 职业中学附属校分离，改设为独立的 Lupon 国立综合中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8649",
+   "zh": "将南哥打巴托省 Koronadal 市 Rotonda 描笼涯的 Esperanza 国立中学附属校分离，改设为独立的 Rotonda 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8881",
+   "zh": "将布基农省 Valencia 市 Concepcion 描笼涯一所国立中学的附属校分离，改设为独立的 Concepcion 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8887",
+   "zh": "将北拉瑙省伊利甘市 Digkilaan 描笼涯的 Tubaran 国立中学附属校分离，改设为独立的 Digkilaan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8939",
+   "zh": "将布基农省 Valencia 市 Guinoyoran 描笼涯一所国立中学的附属校分离，改设为独立的 Guinoyoran 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8941",
+   "zh": "将布基农省 Valencia 市 Catumbalon 描笼涯一所国立中学的附属校分离，改设为独立的 Catumbalon 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H10344",
+   "zh": "将甲米地省 Bacoor 市 Tabing Dagat 描笼涯一所国立中学的附属校分离，改设为独立的 Mariano Gomes 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8127",
+   "zh": "将巴伦苏埃拉市 Arkong Bato 描笼涯的 Valenzuela 国立中学附属校分离，改设为独立的 Arkong Bato 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8245",
+   "zh": "将高山省 Paracelis 市镇 Bananao 描笼涯的 Butigue 国立中学附属校分离，改设为独立的 San Rafael 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8374",
+   "zh": "将本格特省 Kibungan 市镇 Tacadang 描笼涯的 Kibungan 国立中学附属校分离，改设为独立的 Tacadang 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8438",
+   "zh": "将东米萨米斯省卡加延-德奥罗市 Balubal 描笼涯的 Agusan 国立中学附属校分离，改设为独立的 Balubal 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8638",
+   "zh": "将伊洛伊洛省 Tigbauan 市镇 Bagacay 描笼涯的 Tigbauan 国立中学附属校分离，改设为独立的 Bagacay 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8660",
+   "zh": "将北三宝颜省 Siayan 市镇 Gunyan 描笼涯的 Siayan 国立中学附属校分离，改设为独立的 Gunyan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8695",
+   "zh": "将卡林加省 Tabuk 市镇 New Tanglag 描笼涯的 Tabuk 国立中学附属校分离，改设为独立的 New Tanglag 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8750",
+   "zh": "将巴伦苏埃拉市 Wawang Pulo 描笼涯的 Valenzuela 国立中学附属校分离，改设为独立的 Wawang Pulo 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8785",
+   "zh": "将南三宝颜省 Mahayag 市镇 Boniao 描笼涯的 Mahayag 国立中学附属校分离，改设为独立的 Boniao 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8874",
+   "zh": "将 North Cotabato 省 Pikit 市镇 Raja Muda 描笼涯一所国立中学的附属校分离，改设为独立的 Raja Muda 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8900",
+   "zh": "将碧瑶市 Dominican-Mirador 描笼涯一所国立中学的附属校分离，改设为独立的 Dominican-Mirador 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H981",
+   "zh": "授权政府按实际成本向稻米和玉米生产者及农民出售化肥，并指定农业与自然资源部为负责化肥销售与分配及执行本法各项规定的机构"
+  },
+  {
+   "id": "PH-H10055",
+   "zh": "将北三宝颜省 Sibuco 市镇 Lunday 描笼涯的 Sibuco 国立中学附属校分离，改设为独立的 Lunday 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H6742",
+   "zh": "将巴拉望省 Quezon 市镇 Aramaywan 描笼涯一所国立学校的附属校分离，改设为独立的 Quezon Aramaywan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8325",
+   "zh": "将伊富高省 Hingyon 市镇 Bitu 描笼涯的 Hingyon 国立中学附属校分离，改设为独立的 Southern Hingyon 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8342",
+   "zh": "将伊富高省 Alfonso Lista 市镇 Caragasan 描笼涯的 Potia 国立中学附属校分离，改设为独立的 Caragasan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8644",
+   "zh": "将南苏里高省 Bislig 市 Tumanan 描笼涯的 Bislig 市国立中学附属校分离，改设为独立的 Tumanan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8679",
+   "zh": "将南三宝颜省 Molave 市镇 Parasan 描笼涯的 Simata 国立中学附属校分离，改设为独立的 Parasan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8732",
+   "zh": "将北苏里高省 Surigao 市 San Jose 描笼涯的 Zaragosa 国立中学附属校分离，改设为独立的 San Jose 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8771",
+   "zh": "将南甘马粦省 Lagonoy 市镇 Himanag 描笼涯的 Balaton 国立中学附属校分离，改设为独立的 Himanag 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8875",
+   "zh": "将布基农省 Malaybalay 市 Kalasungay 描笼涯一所国立中学的附属校分离，改设为独立的 Kalasungay 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9438",
+   "zh": "将卡林加省 Pinukpuk 市镇 Malagnat 描笼涯的 Camalog 国立中学附属校分离，改设为独立的 Malagnat 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H4316",
+   "zh": "设立基金，用于向依第二百六十五号共和国法第二十九条被中央银行禁止营业的银行的存款人付款，每位存款人不超过一万比索（P10,000.00）"
+  },
+  {
+   "id": "PH-H6514",
+   "zh": "将阿克兰省 Makato 市镇一所描笼涯中学的 Cayangwan 附属校分离，设立独立的 Cayangwan 国立中学并为此拨款"
+  },
+  {
+   "id": "PH-H7058",
+   "zh": "将宿务省 Minglanilla 市镇一所国立中学的附属校分离，设立独立的 Lipata Central I 国立中学并为此拨款"
+  },
+  {
+   "id": "PH-H7580",
+   "zh": "将哥打巴托省 Matalam 市镇 Marbel 描笼涯的 Matalam 国立中学附属校分离，改设为独立的 Marbel 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8117",
+   "zh": "将巴伦苏埃拉市 Punturin 描笼涯的 Valenzuela 国立中学附属校分离，改设为独立的 Vicente P. Trinidad 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8227",
+   "zh": "将奎松省 Guinayangan 市镇 Aloneros 描笼涯一所渔业学校的附属校分离，改设为独立的 Aloneros 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8666",
+   "zh": "将东达沃省 Mati 市一所国立中学的附属校分离，设立 Doña Rosa Garcia Rabat 纪念国立中学并为此拨款"
+  },
+  {
+   "id": "PH-H8727",
+   "zh": "将莱特省 Palompon 市镇 Central II 描笼涯的 Tinabilan 国立中学附属校分离，改设为独立的 Palompon 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8877",
+   "zh": "将南苏里高省 Hinatuan 市镇 Loyola 描笼涯的 Tagasaka 国立中学附属校分离，改设为独立的 Loyola 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8940",
+   "zh": "将布基农省 Malaybalay 市 San Jose 描笼涯一所国立中学的附属校分离，改设为独立的 Malaybalay 市国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9289",
+   "zh": "将南达沃省 Digos 市 Matti 描笼涯的 Digos 市国立中学附属校分离，改设为独立的 Matti 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H1795",
+   "zh": "禁止、拆除和/或捣毁在公共通航水域或水道及公共渔场修建的堤坝、围堤或其他工程，规范上述水域、水道及公共渔场内的工程，并规定违反本法的处罚，及其他目的"
+  },
+  {
+   "id": "PH-H8360",
+   "zh": "将本格特省 Mankayan 市镇 Bulalacao 描笼涯的 Mankayan 国立中学附属校分离，改设为独立的 Bulalacao 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8603",
+   "zh": "将北三宝颜省 Siayan 市镇 Diongan 描笼涯的 Siayan 国立中学附属校分离，改设为独立的 Diongan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8725",
+   "zh": "将南哥打巴托省 Surallah 市镇 Lamsugod 描笼涯的 Lamian 国立中学附属校分离，改设为独立的 Lamsugod 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8731",
+   "zh": "将布基农省 Sumilao 市镇 San Vicente 描笼涯的 Sumilao 国立中学附属校分离，改设为独立的 San Vicente 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9467",
+   "zh": "将北三宝颜省 Kalawit 市镇 Pianon 描笼涯的 Kalawit 国立中学附属校分离，改设为独立的 Pianon 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8283",
+   "zh": "将北萨马省 San Isidro 市镇 Veriato 描笼涯的 Alegria 国立中学附属校分离，改设为独立的 Veriato 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8334",
+   "zh": "将本格特省 Buguias 市镇 Catlubong 描笼涯的 Buguias 国立中学附属校分离，改设为独立的 Catlubong 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8416",
+   "zh": "将南苏里高省 Carrascal 市镇一所技术学院的 Panikian 附属校分离，设立独立的 Panikian 国立中学并拨款"
+  },
+  {
+   "id": "PH-H8441",
+   "zh": "将南苏里高省 Bislig 市 San Jose 描笼涯的 Bislig 市国立中学附属校分离，改设为独立的 San Jose 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8494",
+   "zh": "将保和省 Danao 市镇一所国立中学的附属校分离，设立独立的 Francisco Dagohoy 纪念中学并为此拨款"
+  },
+  {
+   "id": "PH-H8645",
+   "zh": "将北三宝颜省罗哈斯市 Moliton 描笼涯的 Marupay 国立中学附属校分离，改设为独立的 Moliton 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8730",
+   "zh": "将高山省 Natonin 市镇 Sta. Isabel 描笼涯的 Natonin 国立中学附属校分离，改设为独立的 Sta. Isabel 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8739",
+   "zh": "将南甘马粦省 Pili 市镇 San Jose 描笼涯的 Pili 国立中学附属校分离，改设为独立的 San Jose Pili 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8779",
+   "zh": "将南甘马粦省 Libmanan 市镇 Potot 描笼涯的 San Isidro 国立中学附属校分离，改设为独立的 Carmel 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8787",
+   "zh": "将南甘马粦省 Pasacao 市镇 Tinalmud 描笼涯的 Dalupaon 国立中学附属校分离，改设为独立的 Tinalmud 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8884",
+   "zh": "将卡林加省 Pinukpuk 市镇 Asibanglan 描笼涯的 Kalinga 国立中学附属校分离，改设为独立的 Asibanglan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8893",
+   "zh": "将北拉瑙省伊利甘市 Kabacsanan 描笼涯的 Dalipuga 国立中学附属校分离，改设为独立的 Kabacsanan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8944",
+   "zh": "将布基农省 Valencia 市 Tongantongan 描笼涯一所国立中学的附属校分离，改设为独立的 Tongantongan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9961",
+   "zh": "将高山省 Paracelis 市镇 Bacarri 描笼涯一所小学的附属校分离，改设为独立的 Wellie Maclinic 小学，并为此拨款"
+  },
+  {
+   "id": "PH-H10138",
+   "zh": "将帕拉尼亚克市 Marcelo Green 描笼涯的 Parañaque 国立中学附属校分离，改设为独立的 Marcelo Green 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H10350",
+   "zh": "将高山省 Paracelis 市镇 Bunot 描笼涯的 Addang 小学附属校分离，改设为独立的 Ambatutong 小学，并为此拨款"
+  },
+  {
+   "id": "PH-H8220",
+   "zh": "将北苏里高省 Dapa 市镇 Consolacion 描笼涯的 Dapa 国立中学附属校分离，改设为独立的 Consolacion 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8243",
+   "zh": "将北阿古桑省武端市 Anticala 描笼涯的 Los Angeles 国立中学附属校分离，改设为独立的 Anticala 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8337",
+   "zh": "将 Compostela Valley 省 Mawab 市镇一所国立中学的附属校分离，设立独立的 Tuboran 国立中学并为此拨款"
+  },
+  {
+   "id": "PH-H8716",
+   "zh": "将南苏里高省 Hinatuan 市镇 Biga-An 描笼涯的 Tagasaka 国立中学附属校分离，改设为独立的 Biga-An 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9174",
+   "zh": "将 Apayao 省 Kabugao 市镇 Lenneng 描笼涯的 Kabugao 农业工业中学附属校分离，改设为独立的 Kabugao 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9466",
+   "zh": "将北三宝颜省 Liloy 市镇 Patawag 描笼涯的 Liloy 国立中学附属校分离，改设为独立的 Patawag 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H9474",
+   "zh": "将西达沃省 Don Marcelino 市镇 Lapuan 描笼涯一所国立中学的附属校分离，改设为独立的 Luisa Joyce Mallari 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8217",
+   "zh": "将北苏里高省 Del Carmen 市镇的 San Isidro 国立中学附属校分离，改设为独立的 Del Carmen 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8229",
+   "zh": "将保和省 Antequera 市镇 Bantolinao 描笼涯一所国立中学的附属校分离，改设为独立的 Bantolinao 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8465",
+   "zh": "将北三宝颜省 Siayan 市镇 Mangilay 描笼涯的 Siayan 国立中学附属校分离，改设为独立的 Mangilay 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8602",
+   "zh": "将北三宝颜省 Katipunan 市镇 Matam 描笼涯的 Katipunan 国立中学附属校分离，改设为独立的 Matam 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8661",
+   "zh": "将北三宝颜省 Katipunan 市镇 Sitog 描笼涯的 Katipunan 国立中学附属校分离，改设为独立的 Sitog 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8690",
+   "zh": "将新比斯开省 Santa Fe 市镇 Canabuan 描笼涯的 Santa Fe 国立中学附属校分离，改设为独立的 Canabuan 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8692",
+   "zh": "将南甘马粦省 Calabanga 市镇 Quipayo 描笼涯的 Calabanga 国立中学附属校分离，改设为独立的 Quipayo 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H1704",
+   "zh": "在第一千三百八十七号共和国法（题为“关于在 Dansalan 市设立 Mindanao 大学并授权拨款的法案”）中插入序言，并修订该法第二条、第四条与第十六条及其他目的"
+  },
+  {
+   "id": "PH-H7324",
+   "zh": "将阿克兰省 Lezo 市镇 Carugdog 描笼涯的 Liloan 国立中学附属校分离，改设为独立的 Catalino M. Prado 国立中学，并为此拨款"
+  },
+  {
+   "id": "PH-H8339",
+   "zh": "将三宝颜锡布格省 Payao 市镇 Balungisan 描笼涯的 Payao 国立中学附属校分离，改设为独立的 Balungisan 国立中学，并为此拨款"
+  }
+ ]
+}

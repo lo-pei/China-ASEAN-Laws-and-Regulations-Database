@@ -1,7 +1,7 @@
 {
  "id": "PH-H6143",
  "title": {
-  "zh": null,
+  "zh": "1993 年法律教育改革法",
   "en": "Legal Education Reform Act of 1993",
   "orig": "Legal Education Reform Act of 1993 An Act Providing for Rreforms in the Legal Education, Creating for the Purpose, a Legal Eeducation Board and for Other purposes."
  },
@@ -200,5 +200,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in any two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Legal Education Reform Act of 1993",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

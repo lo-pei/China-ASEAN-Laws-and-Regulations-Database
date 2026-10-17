@@ -1,7 +1,7 @@
 {
  "id": "PH-H525",
  "title": {
-  "zh": null,
+  "zh": "将拉乌尼翁职业学校国有化的法案",
   "en": "An Act to Nationalize the La Union Trade School",
   "orig": "An Act to Nationalize the La Union Trade School"
  },
@@ -62,5 +62,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Nationalize the La Union Trade School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

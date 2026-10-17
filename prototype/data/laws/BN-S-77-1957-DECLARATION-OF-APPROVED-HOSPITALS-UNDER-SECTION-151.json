@@ -1,7 +1,7 @@
 {
  "id": "BN-S-77-1957-DECLARATION-OF-APPROVED-HOSPITALS-UNDER-SECTION-151",
  "title": {
-  "zh": null,
+  "zh": "依第 151 条作出的认可医院声明",
   "en": "DECLARATION OF APPROVED HOSPITALS UNDER SECTION 151",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "No. S 77 THE WORKMEN'S COMPENSATION\n\nENACTMENT, 1957 Declaration of Approved Hospitals under Section 15( 1) In the exercise of the powers conferred upon me by Section 15 ( 1) of the Workmen's Compensa-Enactment tion Enactment 195 7 I hereby declare that the No.5 of 1957. ' ' under-mentioned hospitals are approved hospitals for the purposes of the Enactment :- .The General Ifospital, Bandar Seri Begawan. The Suri Seri Begawan Hospital, Kuala Belait. The Panaga Hospital, Brunei Shell Petroleum Company Ltd., Seria. Gazette Notification No. S 85 of 1957 is hereby cancelled. Dated this 7th day of June, 1975. P.D.N. LAILA DI-RAJA PENGIRAN ABDUL MoMIN M entri BesarJ Brunei. Ref: SUK/613/56."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DECLARATION OF APPROVED HOSPITALS UNDER SECTION 151",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

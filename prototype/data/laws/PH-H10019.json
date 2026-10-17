@@ -1,7 +1,7 @@
 {
  "id": "PH-H10019",
  "title": {
-  "zh": null,
+  "zh": "加强并现代化消防局并为此拨款的法案",
   "en": "An Act Strengthening and Modernizing the Bureau of Fire Protection and Appropriating",
   "orig": "An Act Strengthening and Modernizing the Bureau of Fire Protection and Appropriating"
  },
@@ -177,5 +177,13 @@
     "en": "Congressional Oversight Committee. – There is hereby created a Joint Congressional Oversight Committee composed of four (4) Senators and four (4) Representatives appointed by the Senate President and the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening and Modernizing the Bureau of Fire Protection and Appropriating",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,0 +1,793 @@
+{
+ "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1",
+ "title": {
+  "zh": "土地法典分层法(1)",
+  "en": "LAND CODE STRATA ACT(1)",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p21",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to make provision for the creation of strata titles"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 70,
+ "chars": 80713,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-189-2000-ED-LAND-CODE-STRATA-ACT(1).pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-189-2000-ED-LAND-CODE-STRATA-ACT(1).pdf》（77 页），本次切分 70 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Land Code (Strata) Act."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In this Act, unless the context otherwise requires — “accessory unit” means a unit, whether or not part of a building, that is designed for use with any principal unit, whether as a garden, garage, car parking space, storage space, swimming pool, laundry, stairway, passage or any other such purpose, and that is shown on a strata plan as an accessory unit; “administrator” means an administrator appointed by the Court “building” means any completed building which complies with approvals granted by the relevant authority; “charge” includes a mortgage; “Commissioner” means the Commissioner of Land, being the officer appointed as the head of the Land Department and includes any person for the time being lawfully exercising his “building” means any completed building which complies with approvals granted by the relevant authority; “Committee”, in relation to any strata corporation, means —\n\n(a) its committee constituted under its Rules; or\n\n(b) in the case of a strata corporation, where there are less than four proprietors, the proprietor or proprietors who comprise the strata corporation, “common property” means common property within the meaning of paragraph (c) of subsection (1) of section 8; “Court” means the High Court of Brunei Darussalam; “land” includes land of any tenure, any building or parts thereof, the air space above the surface, the surface of the land and such of the subsoil as is occupied by any buildings and related structures, but excludes the right to all minerals and mineral products including oil and gas; “Land Office” means the Land Departments; “lot” means the whole of a separate area of land having a government survey lot number and registered with the Land “Minister” means the Minister of Development; “original proprietor” means in relation to land being subdivided under this Act, the person who is immediately before the certification of a strata plan by the Commissioner, the proprietor of a lot and includes any successor in title, whether by operation of law or otherwise, of the original proprietor; “principal unit” means a unit that is designed for separate use or occupation, whether in conjunction with any accessory unit or not, as a place of residence or business or otherwise and that is shown on strata plan as a principal unit; “proprietor”, in relation to any unit, means the person for the time being registered as proprietor of the stratum estate in the unit, provided that in sections 37, 38 and 49, where a person is in actual occupation of a unit under a binding agreement for sale and purchase, unless the context otherwise requires, the term “proprietor” means that person; “recognised valuer” means an appropriately qualified valuer recognised by the Commissioner; “Register” means the Register of land established in accordance with section 7 of the Land Code (Chapter 40); “registered land” means land which has been brought under the provisions of the Land Code (Chapter 40) by being included in a folio of the Register and held by the registered proprietor in perpetuity or for a limited term of years; “relevant authority” means any one or more Government or to for development or subdivision of any land or plans relating to the construction of any building or to serve any notice or order requiring any repair work or act to be carried out under the Town and Country Planning (Development Control) Act (Chapter 143), Municipal Boards Act (Chapter 57) or under any other written law; “Rules”, in relation to any strata corporation, means the rules applicable to that strata corporation prescribed by or under sections 46 and 47; “strata corporation”, in relation to the units and common property shown on a strata plan means the strata corporation which is created under this Act on the certification of a strata plan by the Commissioner; “strata plan” means a plan that has been or is intended to be certified under section 9; “stratum estate” means a stratum estate within the meaning of subsection (2) of section 9; “subsidiary strata title” means a subsidiary strata title issued by the Commissioner under subsection (1) of section 21 in respect of a principal unit and where applicable, one or more accessory units on a strata plan; “supplementary record sheet”, in relation to any strata plan and strata corporation, means the supplementary record sheet set up and filed in the Land Office under section 25 in relation to that strata plan and strata corporation; “Surveyor General” means the officer appointed as the head of the Survey Department and includes any person for the time being lawfully exercising his powers; “to register” means to register under the Land Code (Chapter 40) or this Act by entry in the appropriate register kept by the Land “unanimous resolution”, in relation to a strata corporation,\n\n(a) a resolution which is passed unanimously at a general meeting of the strata corporation at which every proprietor is present and votes either in person or by proxy;\n\n(b) a resolution which is passed unanimously at a general meeting of the strata corporation by every proprietor who is present, and votes either in person or by proxy and agreed to within 28 days after the date of the meeting, by every other proprietor who was entitled to be present and vote at the meeting or by his successor in title if he has ceased to be a proprietor after the meeting; or\n\n(c) where there is only one proprietor, a decision of “unit”, in relation to any land, means a part of the land consisting of a space of any shape situated on or above the surface of the land, or below the surface of the land to the extent that any buildings or related structures occupy the subsoil, or partly in one such situation and partly in another or others, all the dimensions of which are limited, and that is designed for separate ownership; “unit entitlement”, in relation to any unit, means the unit entitlement assigned to that unit under subsection (1) of section 13, section 51, 52 or 60; Application of Act."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act applies only to registered land. Application of Land Code."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The Land Code (Chapter 40) and the regulations made under that Act insofar as they are not inconsistent with the provisions of this Act or of any regulations made under this Act, shall apply in all respects to land registered in any folio of the subsidiary strata land register, except that nothing in section 7, 8, subsection (4) or (5) of section 9, section 15 or 21 of the Land Code, will apply to such land. Application of Town and Country Planning (Development Control) Act."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "heading": {
+    "en": "Application of Town and Country Planning (Development Control)"
+   },
+   "text": {
+    "en": "The provisions relating to the subdivision and consolidation of land contained in the Town and Country Planning (Development Control) Act (Chapter 143) and any regulations made thereunder shall apply with all necessary modifications to the subdivision or amalgamation of any building Subdivision of land."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "text": {
+    "en": "Subject to section 5, a subdivision of land under this Act shall be deemed to be a subdivision of land for the purposes of the Town and Country Planning (Development Control) Act (Chapter 143) and all regulations made Amendments to other Acts."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "heading": {
+    "en": "SUBDIVISION INTO STRATUM ESTATES"
+   },
+   "text": {
+    "en": "The provisions relating to the acquisition of land contained in the Land Acquisition Act (Chapter 41) shall apply with all necessary modifications to the acquisition of any land or building or part of any building shown on a strata plan certified under this Act. Principal units and common property."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of this Act, every original proprietor of land may subdivide that land in accordance with the provisions of this Act into —\n\n(a) 2 or more principal units;\n\n(b) such number of accessory units, if any, as the registered proprietor may wish; and\n\n(c) common property, being so much of the land as is not comprised in any unit.\n\n(2) Notwithstanding anything in subsection (1), no land may be subdivided under this Act if the land is held by the original proprietor for a term of less than 20 years as at the date of certification of the strata plan by the Commissioner. Effect of certification of strata plan."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "text": {
+    "en": "(1) The subdivision of land so as to provide for units shall be effective upon certification of a strata plan by the Commissioner.\n\n(2) The certification by the Commissioner of a strata plan shall have the effect of creating in each unit a stratum estate, which shall comprise —\n\n(a) an estate in the unit determinable or subject to lapse in accordance with any of the provisions of sections 54, 59, 60 and 62; and\n\n(b) the undivided share in common property to which the proprietor of the unit is entitled by virtue of section 22.\n\n(3) Every stratum estate in a unit shall be for such term of years as shall be approved by the Commissioner but that period shall not exceed —\n\n(i) a term of 60 years from the date of certification of the strata plan by the Commissioner; or\n\n(ii) subject to subsection (2) of section 8, the remainder of the term of years for which the lot is held by the original proprietor, whichever is the lesser. Transfer stratum estate."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of this Act, upon the creation of a stratum estate in a unit, that estate may devolve or be transferred, leased, charged or settled in accordance with the Land Code (Chapter 40) and any transfer, lease, charge or settlement shall have the same effect as if the stratum estate were an estate under the Land Code for a term of years but none of the component parts of a stratum estate shall, except as provided in section 22, be capable of devolving or being dealt with independently of the\n\n(2) Notwithstanding anything in subsection (1), any proprietor of a unit may grant an easement over the unit in favour of any other unit or any other registered land.\n\n(3) No easement granted under subsection (2) shall be granted for a period in excess of the term of years of the stratum estate in the unit concerned.\n\n(4) No easement granted under subsection (2) shall bind the chargee\n\n(a) the easement was granted prior to the creation of the relevant charge; or\n\n(b) that chargee has consented in writing to the easement.\n\n(5) When a unit is being transferred, leased, charged, settled or otherwise dealt with pursuant to subsection (1), it shall be described in the instrument evidencing the transaction as “Unit No. .......... on Strata Plan No...........”. Consequences of certification of strata plan."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "text": {
+    "en": "(1) After certification of a strata plan by the Commissioner and until its cancellation or expiry by lapse of time, the following provisions shall\n\n(a) the original proprietor shall have no right of occupation or other possessory right to the lot or any building on the lot except to the extent that the original proprietor is or remains the proprietor of a stratum estate in one or more of the principal units;\n\n(b) the original proprietor shall not be entitled to exercise in relation to the land any right or power inconsistent with the existence of the stratum estates in the lot or which may derogate from rights of the stratum proprietors;\n\n(c) the original proprietor shall not be liable for any annual rental payable under the Land Code (Chapter 40) in respect of the lot;\n\n(d) no proprietor in a unit shall surrender or agree to surrender the stratum estate in that unit to the original proprietor;\n\n(e) where one or more proprietors of a unit or units purchase or acquire, whether by operation of law or otherwise, the original proprietor’s reversionary interest in the lot, that estate shall not merge with the stratum estate in that unit or units;\n\n(f) where the original proprietor purchases or acquires the stratum estate in any unit, whether by operation of law or otherwise, that estate shall not merge with the original proprietor’s reversionary interest in the lot;\n\n(g) the proprietors of each subsidiary strata title shall pay such rental to the Government as shall be determined in accordance with subsection (4) of section 14.\n\n(2) Subject to subsection (1), the certification by the Commissioner of a strata plan or any plan dealing with a unit shown on a strata plan, shall not —\n\n(a) prevent the original proprietor from dealing with the reversionary estate in the lot including the transfer or charging of the lot;\n\n(b) be or deemed to be a severance of the original proprietor’s entitlement in the lot;\n\n(c) prevent an easement being granted in favour of the lot forming the reversionary estate of the original proprietor and any such easement when created shall be deemed to be for the benefit of each of the units on the strata plan and the common property.\n\n(3) Subsections (1) and (2) bind a person holding a charge over the reversionary estate of an original proprietor in the lot. Lots comprising strata plan."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "heading": {
+    "en": "PREPARATION AND APPROVAL OF STRATA PLANS"
+   },
+   "text": {
+    "en": "The land on a strata plan shall comprise one or more lots, provided that where the land comprises more than one lot, those lots shall be held by the original proprietor for the same term of years. Requirements for strata plans, units and common property."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "text": {
+    "en": "(1) A strata plan shall —\n\n(a) define the units and the common property to be created by the plan in a manner that allows the boundaries of each unit and the common property to be ascertained;\n\n(b) assign to each unit a distinguishing number;\n\n(c) include a schedule of unit entitlements in relation to the\n\n(d) delineate the boundaries of the land comprised in the plan;\n\n(e) delineate in relation to those boundaries the external lateral boundaries of all buildings on the land;\n\n(f) comply with the provisions of all regulations as to survey made under the Licensed Land Surveyors Act (Chapter 100); and\n\n(g) comply with any other requirements stipulated by the Surveyor General.\n\n(2) A unit —\n\n(a) shall, except in the case of an accessory unit, consist of or include the whole or part of a building;\n\n(b) need not be wholly within one or more buildings;\n\n(c) may be on or above the surface of land;\n\n(d) may be below the surface of the land to the extent that the subsoil is occupied by buildings or other structures;\n\n(e) may be wholly on one storey or level or partly on one storey or level and partly on another or others.\n\n(3) Subject to any explicit statement to the contrary in a strata plan, the following principles apply to the definition of a unit by strata plan —\n\n(a) where a boundary is defined by reference to a wall or fence, the boundary is the centre line of the wall or fence;\n\n(b) where a boundary is defined by reference to a floor, the boundary is the centre line of the floor;\n\n(c) where a boundary is defined by reference to a roof, the boundary is the centre line of the roof.\n\n(4) The common property comprises —\n\n(a) any land or space that is not within a unit;\n\n(b) any pipe, cable, wire, duct or drain that is not for the exclusive use of a unit;\n\n(c) any structure that is not for the exclusive use of a unit installed or erected before the certification of the strata plan by the\n\n(d) any structure installed or erected by a strata corporation as part of the common property;\n\n(e) any other structure on the land committed to the care of a strata corporation as part of the common property. Application for certification of strata plan."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "text": {
+    "en": "(1) An application for certification of a strata plan by the Commissioner shall be in Form l set out in the First Schedule and must be\n\n(a) the original strata plan to which it relates;\n\n(b) the original extract from the Register for the land to which the strata plan relates;\n\n(c) any necessary certificate of approval from a relevant\n\n(d) a certificate from the Commissioner that the rental payable to the Government in respect of the land to which the strata plan relates has been reassessed and determined in accordance with\n\n(e) a certificate of approval by the Surveyor General in the prescribed form, which may be endorsed on the strata plan, certifying that the plan has been correctly prepared in accordance with this Act and that all buildings shown on the strata plan are within the external surface boundaries of the lot;\n\n(f) a certificate from a recognised valuer certifying that the schedule of unit entitlements is correct; and\n\n(g) any instrument, duly executed, that is to be registered on the certification of the strata plan by the Commissioner.\n\n(2) The applicant must provide evidence to the satisfaction of the Commissioner that any person with a charge or easement registered in relation to the lot consents to the application.\n\n(3) The applicant must furnish the Commissioner with such other information as the Commissioner may require.\n\n(4) On receipt of an application in accordance with this section, the Commissioner shall reassess and determine the rent payable to the Government under the Land Code (Chapter 40) to be effective from the approval of the strata plan by the Commissioner, in respect of the land to which that plan relates. Building encroachments."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "text": {
+    "en": "(1) If it appears from a strata plan that any part of a building encroaches over land not included in the lot of the original proprietor, the application will only be accepted if —\n\n(a) no part of a unit to be created by the plan forms part of the encroachment; and\n\n(b) (i) the encroachment is over State land and the Commissioner consents to the encroachment;\n\n(ii) the encroachment consists of the protrusion of footings or footings and associated structures of a prescribed nature, by not more than the prescribed distance beyond the boundaries of the lot and the owner of the land over which the encroachment occurs consents to the encroachment; or\n\n(iii) it is established to the Commissioner’s satisfaction that the encroachment is otherwise authorised by law.\n\n(2) Unless the encroachment is over State land, the Commissioner shall, on the certification of the strata plan, enter the encroachment on any relevant subsidiary strata title.\n\n(3) Any consent given in relation to the encroachment is binding on present and subsequent owners and occupiers of the land. Effect of certificate of approval."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "text": {
+    "en": "The certificate of approval by the Surveyor General under paragraph\n\n(e) of subsection (1) of section 14 and endorsed on a strata plan shall have\n\n(a) approve the survey definition incorporated in the plan;\n\n(b) approve for the purposes of this Act, the definition of all the units and common property shown on the plan;\n\n(c) assign a strata plan number;\n\n(d) render the plan the property of the State. Unit entitlement."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "text": {
+    "en": "(1) For the purpose of determining the matters specified in section 18, before the strata plan is approved by the Surveyor General, there shall be assigned to every principal unit and every accessory unit a unit entitlement, to be fixed by a recognised valuer on the basis of the relative value of the unit in relation to each of the other units on the strata plan.\n\n(2) Subject to sections 51, 52 and 60, no change shall be made in the unit entitlement of any unit after the strata plan is approved by the Surveyor Specified matters relating to unit entitlement."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "text": {
+    "en": "The matters referred to in section 17 are —\n\n(a) the proprietor’s share in the common property in accordance\n\n(b) the extent of the proprietor's liability for damages and costs\n\n(c) the extent of the proprietor’s obligation under section 31 in respect of service charges levied by the strata corporation or the managing agent and of his rights under that section in a distribution of any surplus money or personal property;\n\n(d) the proprietor’s voting rights on a poll pursuant to rule 27 of the Second Schedule;\n\n(e) subject to subsection (4) of section 60, the proportion in which money and other assets, if any, received or held by the strata corporation for distribution among the proprietors is to be distributed among them in accordance with subsection (2) of section 56. Certification of strata plan by the Commissioner.\n\n(a) application is made for the certification of a strata plan by the Commissioner in accordance with this Act,\n\n(b) the requirements made by or under this Act in relation to the application have been satisfied; and\n\n(c) the plan conforms with the requirements of this Act and has been approved by the Surveyor General, the plan shall be certified by the Commissioner by endorsing a certificate in the prescribed form on the strata plan, certifying that the subdivision into stratum estates is in accordance with the requirements and provisions of this Act. Effect of certification on easement."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "PART XI"
+   },
+   "text": {
+    "en": "Save as otherwise provided in these Rules, no business shall be transacted at any general meeting of the strata corporation unless a quorum is present at the time."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "text": {
+    "en": "(1) The certification by the Commissioner of a strata plan shall have no effect on any easement or restriction as to user to which the lot to which the plan relates is subject or on any easement or restriction as to user which is appurtenant to the lot to which the plan relates.\n\n(2) The Commissioner shall require all such easements and restrictions as to user to be recorded by diagrams, words or otherwise on the strata plan, but shall not note them on any subsidiary strata title issued under Issue of strata titles."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "text": {
+    "en": "(1) On the certification of a strata plan, the Commissioner shall —\n\n(a) issue subsidiary strata titles in Form 2 set out in the First Schedule in the name of the original proprietor of the lot to which the strata plan relates for each stratum estate in each of the principal units shown on the strata plan, which subsidiary strata titles may include one or more accessory units; and\n\n(b) enter an appropriate memorandum on the original proprietor’s extract and in the Register to the effect that the lot is subject to subsidiary strata titles in respect of the units shown on the\n\n(2) The subsidiary strata titles shall be endorsed with the amount of the annual rental payable to the Government as determined in accordance with subsection (4) of section 14.\n\n(3) It shall not be necessary in the certificate of the subsidiary strata title referred to in paragraph (a) of subsection (1) to mention the quantum of the undivided share in the common property to which the proprietor is entitled by virtue of section 22.\n\n(4) The Commissioner shall —\n\n(a) maintain a separate subsidiary strata title register which shall be in Form 3 set out in the First Schedule;\n\n(b) keep a journal in Form 4 set out in the First Schedule of all transactions in respect of subsidiary strata titles entered in the strata title Register."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "text": {
+    "en": "(1) The common property shall be held by the proprietors of all the units as tenants in common in shares proportional to the unit entitlement in respect of their respective units, provided that nothing in this subsection shall affect the interests among themselves of the proprietors of a stratum estate in an individual unit.\n\n(2) Where the same person is proprietor of all the units, subsection\n\n(1) shall apply as if there were different proprietors for each of the units.\n\n(3) The proprietors of all the units may lease part of the common property or may grant an easement over the whole or any part of it.\n\n(4) No lease or easement under subsection (3) shall be for a period of years in excess of the term of years of the stratum estates in the development.\n\n(5) Every lease or easement under subsection (3) is subject to section 23 of the Land Code (Chapter 40) which shall apply accordingly. Dealing with accessory unit."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "text": {
+    "en": "(1) Except where it is transferred to the proprietor of a principal unit shown on the same strata plan, no accessory unit or any interest in it may be sold, leased, charged or otherwise disposed of or dealt with except as part of a sale, lease, charge, disposition or other dealing which includes a principal unit or a corresponding interest in a principal unit, provided that the proprietor of a principal unit included in the subsidiary strata title as an accessory unit may let the accessory unit on a weekly tenancy or on a tenancy determinable at the will of either of the parties by one month’s notice in writing.\n\n(2) No subsidiary strata title relating to an accessory unit shall be issued except as part of a subsidiary strata title relating to a principal unit.\n\n(3) No principal unit which is for the time being included in the same subsidiary strata title as an accessory unit, not being a subsidiary strata title issued under paragraph (a) of subsection (1) of section 21 and no interest in any such principal unit, may be sold, leased, charged or otherwise disposed of or dealt with except as part of a sale, lease, charge, disposition or dealing which includes the accessory unit or a corresponding interest in the accessory unit, as the case may be, or where there is a concurrent sale of the accessory unit in accordance with subsection (1).\n\n(4) Where any accessory unit is being transferred independently of a principal unit to a person who is the proprietor of a principal unit shown on the same strata plan, the memorandum of transfer in respect of the accessory unit shall contain a request to the Commissioner for the accessory unit to be included in the subsidiary strata title for the principal unit; and upon registration of the instrument of transfer the accessory unit shall become subject to all charges then affecting the principal unit.\n\n(5) Where an accessory unit is for the time being included in the subsidiary strata title as principal unit, the accessory unit may not be transferred apart from the principal unit while it remains subject to any\n\n(6) Notwithstanding anything to the contrary in the Land Code (Chapter 40), any purported sale, lease, charge, disposition or dealing with any unit in contravention of subsection (1) or (3) shall be void and of no effect, provided that nothing in this subsection shall affect the devolution of any unit upon the death of the proprietor of that unit to the administrator of Rights attaching to units and common property."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "text": {
+    "en": "(1) The common property and each unit on a strata plan shall, by virtue of this section, have as appurtenant thereto all such rights of support, shelter, protection and the passage or provision of water, sewerage, drainage, gas, electricity, oil, garbage, air and all other services of whatsoever nature including cable telephone, radio, television and communication services over the common property and every other unit on the strata plan as may from time to time be necessary for the reasonable use or enjoyment of the common property or unit, as the case may be.\n\n(2) The common property and each unit on a strata plan shall, by virtue of this section, have as appurtenant thereto —\n\n(a) a right to the full, free and uninterrupted access and use of, light to or for any windows, doors or other apertures existing at the date of approval of the plan by the Surveyor General and enjoyed at\n\n(b) a right to maintain overhanging eaves existing at the date of approval of the plan by the Surveyor General, over the land and every part thereof.\n\n(3) The rights created by this section shall carry with them all ancillary rights necessary to make them effective and enforceable as if they were easements.\n\n(4) Nothing in this section shall affect any land other than the land to which the strata plan relates. Supplementary record sheet."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "text": {
+    "en": "(1) The Commissioner shall, as soon as it becomes necessary for the purposes of this Act to do so, set up in relation to any strata plan record and strata corporation, a supplementary record sheet on which he shall note appropriate memorials relating to —\n\n(a) all instruments which are registered and which affect the whole or any part of the common property, independently of the units, to which the strata plan relates; and\n\n(b) all other matters which, in accordance with this Act, have to be noted on the supplementary record sheet.\n\n(2) Every supplementary record sheet shall be filed in the same manner as a subsidiary strata title and the number of the supplementary record sheet shall be entered on the strata plan or recorded copy thereof. Reference to new strata plan."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "text": {
+    "en": "(1) In any case where, under any of the provisions of this Act, a new strata plan is approved by the Surveyor General under the same number as a previous strata plan —\n\n(a) the previous strata plan shall be filed under a different\n\n(b) the plan so approved shall be noted so as to show clearly that it is in substitution for the previous plan, which previous plan shall be identified by the number under which it is filed under\n\n(a);\n\n(c) where any unit is described in any subsidiary strata title or in any other instrument whatsoever by reference to a numbered strata plan in respect of any land, the reference shall be read as a reference to the plan for the time being approved by the Surveyor General under that number in respect of that land.\n\n(2) The Commissioner shall —\n\n(a) whenever he issues a copy of a previous strata plan, indicate on the copy the number under which that plan has been refiled; and\n\n(b) whenever he issues a copy of any strata plan in respect of which a supplementary record sheet has been set up, indicate on the copy the reference number of that sheet.\n\nSTRATA CORPORATION Creation of strata corporation."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "text": {
+    "en": "(1) On the certification of a strata plan by the Commissioner, the original proprietor of the lot to which the plan relates shall become a strata\n\n(2) Thereafter the proprietor for the time being of all the units comprised in the strata plan shall, by virtue of this Act, be the strata\n\n(3) The strata corporation shall have the designation “Strata Corporation Number” (the registered number and Registry of the strata plan).\n\n(4) The strata corporation shall have perpetual succession and a common seal. Strata corporation to be body corporate."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "text": {
+    "en": "(1) The strata corporation shall be capable of suing and being sued in its corporate name and of doing and suffering all that bodies corporate may do and suffer.\n\n(2) Without restricting the generality of subsection (1), the strata corporation may sue in respect of damage or injury to the common property caused by any person, whether that person is a unit proprietor or not. Proceedings against proprietors and strata corporations."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "text": {
+    "en": "(1) Where any proceedings are brought in any court of competent jurisdiction under the provisions of any written law or in tort or in respect of an alleged breach of any statutory duty and it is required by law that the proceedings be brought against the owner or occupier of any particular parcel of land or premises, the provisions of this section shall apply notwithstanding any written law or rule of law to the contrary.\n\n(2) For the purposes of any proceedings to which this section\n\n(a) the common property and each of the units shall be separate\n\n(b) where the proceedings are brought in respect of the common property, the strata corporation shall be deemed to be the owner and the occupier of the common property, and any judgment which may be awarded to the plaintiff shall be entered against the strata corporation accordingly: Provided that, where the cause of action arose through the negligence or unauthorised act or omission of one or more of the proprietors or former proprietors, the strata corporation may join that proprietor or those proprietors as co-defendants, and judgment may be given against the strata corporation and such proprietor or proprietors jointly and severally.\n\n(3) The amount of any judgment including costs given jointly and severally as provided in subsection (2), may be recovered as a debt by the strata corporation from the proprietor or proprietors against whom judgment is given in an action in any court of competent jurisdiction.\n\n(4) Where the defendant in any proceedings to which this section applies is the strata corporation, the proprietors of the units at the time when judgment is entered shall be deemed to have jointly guaranteed to the plaintiff the payment by the strata corporation of the full amount awarded by way of judgment.\n\n(5) The liability of each such proprietor under subsection (4) shall be limited to an amount equal to such part of the total sum payable by the strata corporation in accordance with the judgment, less the amount which the strata corporation can recover under any policy of insurance, and less any amount paid by a proprietor against whom judgment is given pursuant to subsection (2) or recovered from him pursuant to subsection (3), as is proportionate to the unit entitlement of his unit.\n\n(6) Any amount recovered from a proprietor pursuant to subsection\n\n(3), after satisfaction of the judgment by the strata corporation shall, subject to any right of set-off, be refunded to those proprietors who have made a payment under subsection (4) in proportion to the amount of their payments.\n\n(7) Where any proprietor pays to the plaintiff any sum which he is liable to pay under the provisions of subsection (4), that proprietor shall be entitled to recover the same as a debt in an action in any court of competent jurisdiction from the strata corporation.\n\n(8) Nothing in subsection (7) shall prevent the strata corporation in such an action from claiming any sum due to it from that proprietor under the provisions of this Act by way of set-off.\n\n(9) If the strata corporation at a general meeting so resolves, any sum payable by it in accordance with the provisions of this section may be paid out of any general fund established by it. Powers and duties of strata corporation."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "text": {
+    "en": "The strata corporation shall —\n\n(a) subject to the provisions of this Act, carry out any duties imposed on it by the Rules of the strata corporation;\n\n(b) insure and keep insured all buildings and other improvements on the land to their replacement value including demolition costs and architects fees against fire, flood, explosion, wind, storm, hail, aircraft and other aerial devices dropped therefrom, impact, riot and civil commotion, malicious damage caused by burglars and others, and earthquake;\n\n(c) effect such other insurance as it is required by law to effect or as it may consider expedient;\n\n(d) subject to sections 54 to 6l and section 64, forthwith apply insurance money received by it in respect of damage to any building or improvements in rebuilding and reinstating the said building or improvements so far as the rebuilding or reinstatement may lawfully\n\n(e) pay the premiums in respect of any policies of insurance\n\n(f) keep the common property including any roof, external wall or other structure forming part of the common property in a state of\n\n(g) comply with any notice or order duly served on it by any municipal board, government department or relevant authority requiring repairs to or work to be performed in respect of the land or any building or improvements thereon;\n\n(h) subject to this Act, control, manage and administer the common property and do all things reasonably necessary for the enforcement of the Rules;\n\n(i) do all things reasonably necessary for the enforcement of any lease or licence under which the land is held;\n\n(j) do all things reasonably necessary for the enforcement of any contract of insurance entered into by it under this section. Funding, service charges and insurance."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "text": {
+    "en": "(1) The strata corporation shall also —\n\n(a) establish and maintain a fund or funds for administrative expenses sufficient in the opinion of the strata corporation for the control, management and administration of the common property including the repaid and replacement where necessary of mechanical services such as lifts, air conditioning and fire safety systems and for the payment of any insurance premiums, rent and repairs and the discharge of any other obligations of the strata corporation;\n\n(b) determine the service charges to be levied for the purposes set out in paragraph (a);\n\n(c) raise amounts so determined by levying the service charges on the proprietors in proportion to the unit entitlement of their respective units.\n\n(2) The strata corporation may distribute any money or personal property in its possession and surplus to its current requirements among the proprietors for the time being according to their unit entitlements.\n\n(3) For the purposes of effecting any policy of insurance under the provisions of section 30, the strata corporation shall be deemed to have an insurable interest in all the buildings and other improvements on the land.\n\n(4) Any policy of insurance authorised by this section and effected by the strata corporation in respect of any buildings or other improvements on the land shall not be liable to be brought into contribution with any other policy, except another policy authorised by this section in respect of the same building or improvements. General powers of strata corporation."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of this Act, the strata corporation shall have all such powers as are reasonably necessary to enable it to carry out the duties imposed on it by this Act by its Rules, provided that the strata corporation shall not have power to carry on trading activities.\n\n(2) Subject to subsection (1), the strata corporation may enter into such contracts and other arrangements for the management of the strata corporation as it may consider necessary or desirable with any person or company recognised by the Commissioner.\n\n(3) Nothing in the Companies Act (Chapter 39) shall apply to a strata corporation established in accordance with this Act. Voting at meetings."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "text": {
+    "en": "(1) At any meeting of strata corporation or of the committee, a\n\n(a) shall not be exercised by any person who is less than 18 years of age unless it is exercised on his behalf by a person authorised by law for that purpose;\n\n(b) shall not be exercised by any person who is not less than 18 years of age who is by any rule of law incompetent to deal with his property unless it is exercised on his behalf by a person who is for the time being authorised by law to control or administer the unit or property to which the power of voting relates.\n\n(2) A proprietor’s voting rights shall not be affected by reason only of the fact that his interest in a unit is subject to a registered charge but, on giving written notice to the strata corporation, the chargee shall be entitled to exercise those rights —\n\n(a) in accordance with any provision to that effect in the charge; or\n\n(b) so long as he is in possession of the unit. Court’s powers in relation to voting."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "text": {
+    "en": "(1) Where for any reason it is impracticable to obtain the exercise by any person of his power of voting or where it is not known by whom the power of voting is exercisable, the Court, on the application of the strata corporation or of any interested party, may by order —\n\n(a) appoint some fit and proper person for the purpose of exercising such powers of voting as the Court determines, and thereupon the appointment shall take effect accordingly; or\n\n(b) declare that any person’s power of voting shall be dispensed with either on a particular occasion or generally, in which case the provisions of this Act or of any rule as to voting shall have effect as if no power of voting were exercisable by that person on the particular occasion or generally, as the case may be.\n\n(2) On making any order under this section, the Court may make such provision as it thinks necessary or expedient to give effect to the order and may provide for the payment of costs as it thinks fit.\n\n(3) The Court may cancel, vary, modify or discharge any order made by it under this section. Court’s powers where unanimous resolution required."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "text": {
+    "en": "In any case where, in accordance with this Act or Rules made under this Act, a unanimous resolution or the consent of all the proprietors is necessary before any act may be done and that resolution or consent is not obtained, but the resolution or act is supported by 80% or more of those entitled to vote, any person included in the majority in favour of the resolution or act may apply to the Court to have the resolution as supported or the consents as obtained, declared sufficient to authorise the particular act proposed; and, if the Court so orders, the resolution shall be deemed to have been passed unanimously or the consent of all the proprietors obtained, as the Relief for minorities."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "text": {
+    "en": "In any case where this Act requires or the rules of a body corporate require, that a resolution other than a unanimous one or the consent of a certain percentage of the voters is necessary before any act may be done, and any such resolution is duly passed or any such consent is obtained, any person who voted against the resolution or did not consent may apply to the Court to have the resolution or decision declared to be of no effect on the grounds that in the circumstances of the case, the effect of the act would be inequitable for the minority; and if the Court orders, the resolution shall be deemed not to have been passed or the consent shall be deemed not to have been obtained. Recovery of service charges."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "text": {
+    "en": "(1) Any service charge levied in accordance with the provisions of\n\n(c) of subsection (1) of section 31 shall be due and payable in accordance with the terms of the relevant determination; and so much of the amount as from time to time becomes payable may be recovered as a debt by the strata corporation in an action in any court of competent jurisdiction from the person who was the proprietor of the unit at the time when the amount became payable or, subject to the provisions of section 42, from the proprietor of the unit at the time when the proceedings are instituted.\n\n(2) Notwithstanding anything to the contrary in any other written law, any judgment of a court of competent jurisdiction given in recovery proceedings in accordance with subsection (1) may be registered against the subsidiary strata title to the unit of the proprietor or former proprietor against whom judgment has been given, and upon registration shall constitute a charge against the land subject only to any existing registered charge. Cost recovery for work by strata corporation."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "text": {
+    "en": "(1) Where the strata corporation does any repair, work or act which it is required or authorised by or under this Act or any other written law to do, whether or not the repair, work or act is done pursuant to any notice or order served on it by a relevant authority, but the repair, work or act is substantially for the benefit of one unit only or is substantially for the benefit of some of the units only or benefits one or more of the units substantially more than it benefits the others or other of them, any expense incurred by it in doing the repair, work or act shall, subject to subsection (2), be recoverable by it as a debt in any court of competent jurisdiction.\n\n(2) If any Court considers that it would be inequitable to apportion in accordance with subsection (1) the amount of the debt in proportion to the unit entitlements of the last-mentioned units, it may apportion that amount in relation to those units in such shares as it thinks fit, having regard to the relative benefits to those units. Acts of omissions of proprietors."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "text": {
+    "en": "Where the strata corporation does any repair, work or act which it is required or authorised by or under this Act or any other written law to do, whether or not the repair, work or act is done pursuant to any notice or order served on it by the relevant authority, and the repair, work or act was rendered necessary by reason of any wilful or negligent order or omission on the part of or any breach of any title by, any proprietor or his tenant, lessee, licensee or invitee, any expense incurred by it in doing the repair, work or act shall be recoverable by it as a debt in any court of competent jurisdiction from that proprietor. Interest on money owed to strata corporation."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "text": {
+    "en": "Where, under any of sections 37 to 39, any registered proprietor owes any money to the strata corporation, interest shall accrue in respect of so much of the debt as remains unpaid at such rate as the strata corporation shall determine and be approved by the Commissioner. Limitations upon recovery."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "text": {
+    "en": "Subject to this order, a proprietor shall not be liable to pay or to contribute to the funds of the strata corporation any amount exceeding the due proportion recoverable from him under subsection (1) of section 31 and section 37 of any amount required to discharge any liability accrued or prospective of the strata corporation. Certificates from strata corporation."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "text": {
+    "en": "(1) The strata corporation shall on the application of a proprietor, any person authorised in writing by him or a purchaser or chargee of a unit,\n\n(a) the amount of any service charge determined as the contribution of the proprietor and the period to which the determination relates;\n\n(b) the manner and time of payment of that service charge;\n\n(c) the extent to which service charge has been paid by the\n\n(d) any amount then recoverable by the strata corporation from the proprietor pursuant to subsection (3) of sections 29, subsection (1) of sections 31 and 37;\n\n(e) whether or not the strata corporation has performed or entered into any contract to perform or resolved to perform any repair, work or act in respect of which a liability has been or is likely to be incurred by the proprietor under sections 38 or 39 and the general nature of the repair, work or act;\n\n(f) the rate at which interest is accruing pursuant to section 40 in respect of any amount owing to the strata corporation by the\n\n(g) whether or not it has received notice that any proceedings are pending against the strata corporation.\n\n(2) A certificate under subsection (1) issued in favour of any person dealing with the proprietor shall be conclusive evidence of the matters certified therein.\n\n(3) A certificate under subsection (1) may be issued by being signed by —\n\n(a) any member of the committee of the strata corporation authorised for that purpose;\n\n(b) the secretary of the strata corporation; or\n\n(c) any 2 or more proprietors of units if there is no committee of the strata corporation."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "text": {
+    "en": "(1) In this Part, unless the context otherwise requires — “chargee” means a chargee who, by virtue of subsection (2) of section 44, has an insurable interest in the property covered by a principal insurance policy; “insurer” means an insurer in respect of a principal insurance “principal insurance policy”, in relation to the units and common property shown on a strata plan, means the policy of insurance effected by the relevant strata corporation in accordance with\n\n(b) of section 30. Principal insurance policy."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "text": {
+    "en": "(1) The succeeding provisions of this section shall apply notwithstanding any written law or rule of law or agreement to the contrary.\n\n(2) Every unit proprietor and every person entitled as chargee by virtue of a registrable charge in respect of any unit, has an insurable interest in the property covered by the principal insurance policy.\n\n(3) The strata corporation shall inform the insurer and keep the insurer informed by notice in writing of the name and address of every proprietor and every chargee, provided that nothing in this subsection shall prevent any unit proprietor or chargee from giving such notice to the insurer.\n\n(4) No principal insurance policy shall lapse or be cancelled, but shall remain in full force and effect until —\n\n(a) the insurer has served on every unit proprietor and every chargee of which the insurer has had notice in accordance with subsection (3), a notice to the effect that the policy shall lapse or be cancelled on the date specified in the notice, being not earlier than 30 days after the date on which the notice is so served; and\n\n(b) the date specified in the notice has arrived.\n\n(5) Notwithstanding anything in paragraph (a) of subsection (4), it shall be sufficient for the purposes of that paragraph if the insurer sends the required notice to a unit proprietor or chargee by registered post addressed to him at the last address of which notice has been given to the insurer under\n\n(6) In any case where the insurer considers that default has been made under the principal insurance policy, whether in respect of the payment of the premiums or otherwise, the insurer shall specify in the notice the default complained of and shall state that the lapsing or cancellation of the policy is conditional upon the default not being remedied before the date specified in the notice in accordance with paragraph (a) of subsection 4.\n\n(7) Unless as otherwise provided in this Act or unless by unanimous resolution all the proprietors otherwise resolve, all money paid by the insurer pursuant to the principal insurance policy shall be applied in or towards reinstatement and where it is to be so applied, no chargee shall be entitled to demand that any part of any such money be applied in or towards repayment of the mortgage debt.\n\n(8) Nothing in this section shall limit or affect the rights of any person in or to the proceeds of the principal insurance policy pursuant to any of the provisions of sections 54 to 61 or section 64. Separate insurance on units."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "heading": {
+    "en": "RULES OF STRATA CORPORATION"
+   },
+   "text": {
+    "en": "(1) Nothing in section 30, 31, 43 or 44 shall limit the right —\n\n(a) of a proprietor to effect a policy of insurance in respect of the destruction of or damage to his unit;\n\n(b) of a chargee of a unit to require the proprietor, as a condition of the loan, to effect a policy of insurance, in this section referred to as a charge redemption policy, to indemnify the proprietor against liability to repay the whole or any part of the sum secured to the chargee in the event of the destruction or damage of the unit.\n\n(2) Any payment made under a charge redemption policy by the insurer shall be made to the chargees whose interests are noted on the policy in the order of their respective priorities.\n\n(3) No charge redemption policy shall be liable to be brought into contribution with any other policy of insurance except another charge redemption policy effected in respect of the same charge debt.\n\n(4) This section shall apply notwithstanding any rule of law to the contrary. Regulation by Rules."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "text": {
+    "en": "(1) Except as otherwise provided by this Act, the control, management, administration, use and enjoyment of the units and the common property shown on a strata plan and the activities of the strata corporation that comprises the proprietors of those units shall, where there are more than one proprietor, be regulated by the Rules for the time being applicable to that strata corporation.\n\n(2) Subject to any amendment, the Rules applicable to each strata corporation shall be those set out in the Second Schedule and Third Rules in the Second Schedule and Third Schedule."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "text": {
+    "en": "(1) The Rules in the Second Schedule may be amended, in relation to any strata corporation, by unanimous resolution of the proprietors and not\n\n(2) The Rules in the Third Schedule may be amended, in relation to any strata corporation, by resolution of the strata corporation, at a general\n\n(3) Any amendment of any rule shall relate to the control, management, administration, use or enjoyment of the units or the common property, to the regulation of the strata corporation, or to the powers and duties of the strata corporation other than those conferred or imposed by this Act.\n\n(4) Notwithstanding anything in subsection (3), no powers or duties may be conferred or imposed by the Rules on the strata corporation which are not incidental to the performance of the duties or powers imposed on it by this Act or which would enable the strata corporation to acquire or hold any interest in land or any chattel real or to carry on business for profit.\n\n(5) No rule shall prohibit or restrict the devolution of units or any transfer, lease, mortgage or other dealing therewith, or destroy or modify any right or duty implied or created by this Act including any right, power or duty imposed or conferred upon the strata corporation by this Act.\n\n(6) No amendment of any rule pursuant to subsection (1) or (2) shall have effect until the strata corporation has lodged a notification thereof in Form 5 set out in the First Schedule with the Commissioner and the Commissioner has recorded it appropriately on the supplementary record Obligations of strata corporation."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48."
+   },
+   "text": {
+    "en": "(1) The strata corporation shall keep a record of the Rules in force.\n\n(2) The strata corporation shall, on the application of a proprietor or a person authorised by a proprietor to apply, supply to him a copy of the Rules in force and may require him to pay a reasonable charge.\n\n(3) The strata corporation shall, on the application of any person who satisfies the strata corporation that he has a proper interest in so applying, make the Rules available for inspection. Rules to be binding and enforceable."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49."
+   },
+   "text": {
+    "en": "(1) The Rules shall be binding on —\n\n(a) the strata corporation;\n\n(b) all proprietors; and\n\n(c) any other person in actual occupation of a unit, and shall be for the benefit of the strata corporation and every proprietor.\n\n(2) The strata corporation or any proprietor shall be entitled to apply to the Court for an order —\n\n(a) enforcing the performance of or restraining the breach of any rule; or\n\n(b) regarding damages for any loss or damage arising out of the breach of any rule, by any Person bound to comply therewith or by the strata corporation. When variation plan required."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50."
+   },
+   "text": {
+    "en": "(1) A variation plan shall be required whenever the following is\n\n(a) the subdivision or partition into 2 or more new units, whether or not any new unit is on the same level as any other new unit, of —\n\n(i) the unit shown on a certified strata plan; or\n\n(ii) the unit shown on a certified strata plan and the whole or part of any stratum or strata formerly forming part of the common property shown on the certified strata plan;\n\n(b) the enlargement of a unit shown on a certified strata plan by the inclusion therein of any stratum which immediately touches upon that unit and was formerly part of the common property or part of another unit shown on the plan; or\n\n(c) the erection of one or more new units on the common\n\n(2) Subject to section 5, the provisions relating to the subdivision and consolidation of land contained in the Town and Country Planning (Development Control) Act (Chapter 143) and any regulations made thereunder shall apply to the extent that such provisions are applicable with all necessary modifications whenever a variation plan is required under Application for certification."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51."
+   },
+   "text": {
+    "en": "(1) An application may be made to the Commissioner for the certification of a variation plan being a new strata plan in substitution for the existing strata plan. Every application shall be in Form 6 set out in the First Schedule. The new strata plan shall be approved by the Surveyor General under the same number as the existing strata plan and the provisions of section 25 shall apply accordingly.\n\n(2) Subject to the provisions of this section, a variation plan shall comply with all the requirements of this Act as to strata plans and shall, in addition —\n\n(a) define the boundaries of the new units or the enlarged or reduced units;\n\n(b) show all new units and any enlarged or reduced unit marked with numbers or letters not already used on the strata plan;\n\n(c) bear a legend specifying which of the new units, enlarged units and reduced units are principal units and which are accessory\n\n(d) in the case of a subdivision into 2 or more new units, the enlarged units or reduced units have endorsed thereon a schedule apportioning among the new units, enlarged units and reduced units, the unit entitlement of the former unit or units included in the variation plan, which apportionment shall be determined by a recognised valuer subject to payment to the recognised valuer, as the case may be, of such fee as he may fix. Reassessment of unit entitlements."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52."
+   },
+   "text": {
+    "en": "(1) Where a variation plan involves the inclusion in a unit of part of the common property or the erection of one or more units on the common property, the unit entitlements of all units that will be on the land to which the plan relates shall be reassessed by a recognised valuer who shall, subject to payment to the recognised valuer of such fee as he may fix, assign to every such unit a new unit entitlement to be fixed by him on the basis of the relative value of the unit in relation to each other unit at the date on which the reassessment is made.\n\n(2) Notwithstanding anything in subsection (1), a recognised valuer may, in his discretion, make the reassessment as at the date on which the current unit entitlements were fixed in any case where he considers that the redevelopment is of a relatively minor nature. Restrictions on approval."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53."
+   },
+   "heading": {
+    "en": "CANCELLATION OF STRATA PLAN AND SCHEMES"
+   },
+   "text": {
+    "en": "(1) A variation plan shall not be certified unless —\n\n(a) the application is made by the sole proprietor of the units or by the proprietors of all the units pursuant to their unanimous resolution; and\n\n(b) every person who is entitled as chargee by virtue of any registered charge in respect of any unit affected by the variation plan, has consented in writing to the certification of that plan.\n\n(2) On the certification of a variation plan and the registration of any necessary transfers, the Commissioner shall —\n\n(a) cancel the subsidiary strata titles to the units affected by the variation plan and for that purpose, the outstanding copies of the strata titles shall be surrendered to the Commissioner; and\n\n(b) issue separate subsidiary strata titles in accordance with the variation plan for the units affected by that plan.\n\n(3) On the certification of a variation plan, notice in writing of the redevelopment shall be given to the relevant authority.\n\nFOLLOWING DESTRUCTION Commissioner may cancel plan."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54."
+   },
+   "text": {
+    "en": "(1) Prior to the expiry of the strata plan, the Commissioner may cancel a strata plan upon the application of the proprietor of all the units\n\n(2) Every such application to the Commissioner for cancellation of a strata plan shall be in Form 7 set out in the First Schedule and shall be accompanied by or have lodged in support of that application —\n\n(a) the outstanding subsidiary strata title for every unit;\n\n(b) the outstanding copy, if any, of every registered charge, lease or sublease relating to any unit or to any part of the common\n\n(c) evidence sufficient to satisfy the Commissioner in relation to the matters specified in subsection (3) and evidence that the original proprietor has been notified of the intention to make the Provided that the Commissioner may dispense with production of any such outstanding subsidiary strata title or copy.\n\n(3) Before cancelling the strata plan, the Commissioner shall satisfy himself that all charges which have been assessed in respect of the units and the common property have been paid, and that any administrator has consented to the cancellation, and that no unit is subject to any charge, lease, sublease or easement registered against the title to the unit. How plan cancellation is effected."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55."
+   },
+   "text": {
+    "en": "(1) The cancellation of a strata plan shall be effected when a memorandum of cancellation has been appropriately entered by the\n\n(a) on the original extract from the register to which the plan\n\n(b) on the proprietor’s extract;\n\n(c) on the strata plan or a recorded copy of that plan; and\n\n(d) on the supplementary record sheet, if any.\n\n(2) The Commissioner shall, on cancelling a strata plan, give notice to every relevant authority that the plan has been cancelled and that the strata corporation is dissolved.\n\n(3) The Commissioner shall also cancel any relevant supplementary Consequences of cancellation."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56."
+   },
+   "text": {
+    "en": "(1) Upon the cancellation of the strata plan —\n\n(a) the original proprietor shall become entitled to all buildings or other improvements on the land;\n\n(b) the proprietors of the units registered as such immediately before cancellation of the strata plan shall not be entitled to any compensation from the original proprietor arising directly or indirectly from the cancellation;\n\n(c) every easement or other interest over any unit comprising part of the development shall be determined;\n\n(d) the memorandum entered on the original proprietor’s extract and in the Register in accordance with paragraph (b) of subsection (1) of section 21 shall be deemed to be cancelled.\n\n(2) Upon the cancellation of a strata plan, the strata corporation shall be deemed to be dissolved; and unless otherwise determined beforehand by unanimous resolution of the persons who were the proprietors immediately before the cancellation, all money including insurance money received by the strata corporation and other assets not being part of the buildings and other fixed improvements on the land shall, subject to any right of set-off, be distributed among those persons according to their unit entitlements immediately before the cancellation.\n\n(3) Notwithstanding anything in subsection (2), the strata corporation shall be deemed to remain in existence to the extent that any debt is owing by it and in respect of any action pending against it, and the liability of the persons who were the proprietors immediately before the cancellation shall continue accordingly. Application to Court for cancellation."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57."
+   },
+   "text": {
+    "en": "(1) Where in respect of a strata plan, an application in that behalf is made to the Court by the Commissioner, the strata corporation, an administrator or the proprietor or one of the proprietors of a unit and the Court is satisfied that, having regard to the rights and interests of any creditor of the strata corporation and of every person who has any interest in any unit or in the land or in any part of the land, it is just and equitable that the strata corporation be dissolved and the strata plan cancelled, the Court may make a declaration to that effect.\n\n(2) Without limiting the grounds upon which it may be just and equitable that the strata corporation be dissolved and the strata plan cancelled under subsection (1), the Court may make a declaration to that effect under this section if it is satisfied that the building subject to the strata plan —\n\n(a) are in the ordinary course of events likely to cause injury or death, whether by collapse or otherwise, to any persons in or to persons on other property or to adjoining buildings; or\n\n(b) are a fire hazard and likely to give rise to loss of life in the event of fire; or\n\n(c) have been abandoned or are not reasonably capable of occupation whether by reason of a health hazard existing in such building or otherwise.\n\n(3) A notice of any application made under subsection (1) shall be served on every person who has an interest as a proprietor of a unit and on the Commissioner, if the Commissioner is not the applicant and on every chargee, insurer and other person having any registered estate or interest in any unit or land to which the plan relates, and on any insurer who has effected insurance on the buildings or other improvements comprised in any unit or on the land or any part thereof; and the Commissioner shall thereupon enter on the supplementary record sheet a notification that the application has been so made. Any notification so entered shall be cancelled by the Commissioner if the applicant so requests and advises that the application to the Court is not proceeding or if the Commissioner is satisfied that the Court has refused to make the declaration sought.\n\n(4) On any application to the Court under subsection (1), the Commissioner, any person having or claiming to have any estate or interest in any unit or in the land or in any part of the land and any insurer who has effected insurance on the building or other improvements comprised in any unit or on the land or any part thereof, shall have the right to appear and be heard. Court may give directions."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58."
+   },
+   "text": {
+    "en": "(1) Where the Court makes a declaration under subsection (1) of section 57, the Court may by order impose such conditions and give such directions including directions for the payment of money by or to the strata corporation and the distribution of the assets of the strata corporation and directions that any consent required by subsection (3) of section 54 as applied by subsection (4) of section 59 be dispensed with as it thinks fit for the purpose of giving effect to the declaration.\n\n(2) The Court may, at any time before the strata plan is cancelled under section 59, vary or modify the terms of any declaration or order made by it under section 57.\n\n(3) On any application under section 57, the Court may make such order for payment of costs as it thinks fit. Cancellation by Commissioner."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59."
+   },
+   "text": {
+    "en": "(1) Where the Court has made a declaration authorising the cancellation of a strata plan and all conditions and directions imposed or given by the Court have been complied with, any applicant for the declaration or his successor in title may, within 6 months after the date of the declaration, apply to the Commissioner for cancellation of the strata plan and the Commissioner shall cancel the plan accordingly.\n\n(2) Every such application to the Commissioner for cancellation of a strata plan under subsection (1), shall be in Form 8 set out in the First Schedule and shall be accompanied by or have lodged in support thereof —\n\n(a) the outstanding subsidiary strata title for every unit;\n\n(b) the outstanding copy, if any, of every registered charge, lease, sublease or easement relating to any unit or to any part of the common property; and\n\n(c) a copy of every declaration or order made by the Court under sections 57 and 58 in relation to the strata corporation or strata plan, unless the Court otherwise directs or the Commissioner dispenses with the production of any such outstanding subsidiary strata title or copy of any\n\n(3) Where —\n\n(a) the Court makes a declaration under subsection (1) of section 57 and any person having custody or control of any outstanding subsidiary strata title or copy of an instrument required for the purposes of an application for cancellation of a strata plan refuses or neglects to produce it for those purposes;\n\n(b) production of any such outstanding subsidiary strata title or copy of an instrument cannot be obtained because the person last known to have custody or control thereof is dead or is out of Brunei Darussalam or cannot be found;\n\n(c) for any other reason it is impracticable to obtain production of any such outstanding subsidiary strata title or copy of an the Court, on the application of any interested person, may in any appropriate case, order upon such terms and conditions as it thinks fit, production thereof to the Commissioner by the person so refusing or neglecting, or may in its discretion order the Commissioner to dispense with production.\n\n(4) The following provisions of sections 54, 55 and 56 shall apply when an application is made to the Commissioner under this section —\n\n(a) subsection (3) of section 54, except to the extent that the Court otherwise directs, either on that application or on any subsequent application;\n\n(b) subsection (1) of section 55;\n\n(c) subsection (1) of section 56, unless the Court otherwise directs;\n\n(d) subsections (2) and (3) of section 56. Settlement of scheme following damage or destruction."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60."
+   },
+   "text": {
+    "en": "(1) Where any building or other improvement comprised in any unit or on any land to which a strata plan relates is damaged or destroyed but the strata plan is not cancelled, the Court may on the application of the Commissioner, strata corporation, an administrator, the proprietor or one of the proprietors of a unit or a registered chargee of a unit, by order settle a scheme including any one or more of the following provision —\n\n(a) for the reinstatement in whole or in part of such building or other improvement;\n\n(b) for the transfer of units to the proprietors of the other units so as to form part of the common property;\n\n(c) for all necessary consequential matters.\n\n(2) A notice of any application made under subsection (1) shall be served on the Commissioner, if the Commissioner is not the applicant, who shall thereupon enter on the supplementary record sheet a notification that application has been so made.\n\n(3) On any application to the Court under subsection (1), the Commissioner, any person having or claiming to have any estate or interest in any unit or in the land or in any part of the land and any insurer who has effected insurance on the buildings or other improvements comprised in any unit or in the land or any part thereof, shall have the right to appear and be heard.\n\n(4) In the exercise of its powers under subsection (1), the Court may make such order as it considers expedient or necessary for giving effect to the scheme, including —\n\n(a) directing the application of any insurance money;\n\n(b) directing payment of money by or to the strata corporation or any person;\n\n(c) directing the preparation of an appropriate new strata plan;\n\n(d) making an order of the kind referred to in subsection (10); or\n\n(e) imposing such terms and conditions as it thinks fit.\n\n(5) The Court may cancel, vary, modify or discharge any order made by it under this section.\n\n(6) On any application under this section the Court may make such order for payment of costs as it thinks fit.\n\n(7) Where the Court directs under subsection (4) that a new strata plan be prepared, it shall be approved by the Surveyor General under the same number as the existing plan and shall show the effect of the transfer of unit to the satisfaction of the Surveyor General and shall have endorsed on it a full amended schedule of unit entitlement prepared in accordance with subsection (8).\n\n(8) For the purposes of subsection (7), the unit entitlements of all remaining units to which the new strata plan relates shall be reassessed by a recognised valuer who shall, subject to the payment to the recognised valuer of such fee as he may fix, assign to every such unit a new unit entitlement to be fixed by him on the basis of the relative value of the unit in relation to each other unit at the date on which the re-assessment is made.\n\n(9) On the certification of a strata plan to which subsection (7) applies by the Commissioner and the registration of the necessary transfer of the unit which are intended to become part of the common property, the Commissioner shall —\n\n(a) cancel the subsidiary strata titles to the units affected by an order made under paragraph (b) of subsection (1) and for that purpose the outstanding copies of the titles shall be surrendered to the Commissioner; and\n\n(b) enter on the new unit plan and supplementary record sheet an appropriate memorial relating to the transfer.\n\n(10) Every transfer of a unit or units to give effect to an order made\n\n(b) of subsection (1) shall be in favour of the body corporate and shall be executed in such manner and in such form as the Court Court can hear applications together."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61."
+   },
+   "heading": {
+    "en": "EXPIRY OF STRATA PLAN"
+   },
+   "text": {
+    "en": "Where an application under either sections 57 or 60 is pending and an application is made under the other of those sections in respect of the same strata plan, the Court may hear and determine the 2 applications together. Lapse of strata plan."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62."
+   },
+   "text": {
+    "en": "A strata plan shall lapse at the expiry of the term of years approved by the Commissioner in accordance with subsection (3) of section 9 and specified on the subsidiary strata titles. Memorial of expiry."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63."
+   },
+   "text": {
+    "en": "(1) The Commissioner shall upon expiry of a strata plan, enter a memorial of expiry on —\n\n(a) the original extract from the Register to which the strata plan relates and on the original proprietor’s extract;\n\n(b) the strata plan or recorded copy thereof;\n\n(c) supplementary record sheet, if any, and shall cancel the subsidiary strata titles to each of the units.\n\n(2) The Commissioner shall, on the expiry of a strata plan, give notice to every relevant authority that the strata plan has been cancelled and that the strata corporation is dissolved.\n\n(3) The Commissioner shall also cancel any relevant supplementary\n\n(4) For the purpose of subsection (1), the outstanding copies of the original extract and subsidiary strata titles for the stratum estates shall be delivered up to the Commissioner upon receipt by the original proprietor and the proprietors of the expired stratum estates of a notice from the Commissioner requiring such delivery up."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64."
+   },
+   "text": {
+    "en": "(1) Upon expiry of the strata plan —\n\n(a) the original proprietor shall become entitled to all buildings or other fixed improvements on the lot;\n\n(b) the proprietors of the units registered as such immediately before cancellation of the strata plan shall not be entitled to any compensation from an original proprietor arising directly or indirectly from the expiry of the strata plan;\n\n(c) every easement or other interest over any unit comprising part of the development shall be determined;\n\n(d) the memorandum entered on the original proprietor’s extract and in the Register in accordance with paragraph (b) of subsection (1) of section 21 shall be deemed to be cancelled;\n\n(e) the original proprietor shall become immediately entitled to vacant possession of the lot and all buildings thereon and may exercise all remedies available at law to recover such possession.\n\n(2) Upon expiry of a strata plan, the strata corporation shall be deemed to be dissolved and, unless otherwise determined beforehand by unanimous resolution of the persons who were the proprietors immediately before the cancellation, all property not being part of the buildings or fixed improvements and all money including insurance money received by the strata corporation shall, subject to any right of setoff, be distributed among those persons according to their unit entitlements immediately before the\n\n(3) Notwithstanding anything in subsection (2), the strata corporation shall be deemed to remain in existence to the extent that any debt is owing by it and in respect of any action pending against it, and the liability of the persons who were the proprietors immediately before the expiry shall continue accordingly. Letterboxes and address for service."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65."
+   },
+   "chapter": {
+    "en": "PART XI"
+   },
+   "text": {
+    "en": "(1) The strata corporation shall either —\n\n(a) at or near the alignment of the front of the main building on the land, cause a letterbox, with the designation of the strata corporation clearly shown on it, to be continually available in an accessible place; or\n\n(b) display in a prominent place, in the vestibule to that building, its address for service.\n\n(2) It shall be sufficient compliance with any written law which relates to the manner of service of any document which has to be served by any person on the strata corporation or its committee, if any person authorised to serve the document —\n\n(a) sends it by registered letter addressed to the strata corporation or the committee, as the case may be, at its address for service; or\n\n(b) places it in the letterbox referred to in subsection (1).\n\n(3) If the address for the service of documents on the strata corporation is at any time altered, the strata corporation shall forthwith send notice to the Commissioner of the alteration and the Commissioner shall enter a notification of the change of address on the supplementary record sheet. The Commissioner may prescribe the form of the notice to be given under this subsection.\n\n(4) For the purposes of this section, the term “document” includes any summons, notice, order and other legal process.\n\n(5) A notice or order requiring repairs to or work to be performed in respect of the land or any building or other improvements thereon which a relevant authority is required or authorised by any written law to serve shall, notwithstanding anything in the written law, be served on the strata corporation in the manner provided by this Act, and thereupon the notice or order shall be deemed to have been duly served and the strata corporation shall be deemed to be the person bound to comply therewith. Application to cancel plan."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A66",
+   "no": 66,
+   "noLabel": {
+    "en": "Section 66."
+   },
+   "chapter": {
+    "en": "PART XI"
+   },
+   "text": {
+    "en": "(1) Any person including any relevant authority for whose benefit any requirement or duty is imposed on the strata corporation by this Act or any regulations made under this Act may apply to the Court for an order compelling the strata corporation to carry out the requirement or perform the duty, as the case may be, and on any such application the Court may make such order as it thinks proper.\n\n(2) If default is made by the strata corporation in complying with any requirement or duty imposed on it by this Act or any regulations made under this Act, the strata corporation is guilty of an offence and liable on conviction to a fine not exceeding ten thousand dollars."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A67",
+   "no": 67,
+   "noLabel": {
+    "en": "Section 67."
+   },
+   "chapter": {
+    "en": "PART XI"
+   },
+   "text": {
+    "en": "Where a relevant authority or any person authorised by it has a right under any order to enter upon any part of the land to which a strata plan relates, the authority, body or person shall be entitled to enter upon any other part of the land to the extent necessary or expedient to enable it or him to exercise the relevant powers under this Act. Register of proprietors."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A68",
+   "no": 68,
+   "noLabel": {
+    "en": "Section 68."
+   },
+   "chapter": {
+    "en": "PART XI"
+   },
+   "text": {
+    "en": "(1) The strata corporation shall cause a register to be kept of the proprietors for the time being of the units comprised in the strata plan.\n\n(2) Notwithstanding anything to the contrary in this Act, where the proprietor for the time being of any unit comprised in the strata plan transfers that unit to any other person, until the strata corporation is notified in writing of the transfer —\n\n(a) that proprietor shall remain liable to the strata corporation for all contributions levied by the strata corporation under paragraph\n\n(c) of subsection (1) of section 31 in respect of that unit, provided that nothing in this paragraph shall restrict that proprietor’s right to recover from the transferee any amounts that he has paid in respect of contributions so levied;\n\n(b) the transferee shall not be entitled to exercise the voting rights in respect of the unit and those rights may be exercised by that proprietor provided that at a general meeting of the strata corporation, only the transferee may exercise those rights with the consent of the other proprietors present at the meeting. Appointment of administrator."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A69",
+   "no": 69,
+   "noLabel": {
+    "en": "Section 69."
+   },
+   "chapter": {
+    "en": "PART XI"
+   },
+   "text": {
+    "en": "(1) The strata corporation, a creditor of the body corporate or any person having a registered interest in a unit may apply to the Court for the appointment of an administrator.\n\n(2) The Court may, in its discretion on cause shown, appoint an administrator for an indefinite period or for a fixed period on such terms and conditions as to remuneration or otherwise as it thinks fit. The remuneration and expenses of the administrator shall be an administrative expense for the purpose of paragraph (a) of subsection (1) of section 31.\n\n(3) Subject to subsection (7), the administrator shall, to the exclusion of the strata corporation and the committee, have and exercise the powers of the strata corporation and the committee and be subject to the duties of the strata corporation and the committee or such of those powers and duties as the Court orders.\n\n(4) The administrator may, in writing, delegate any of the powers so vested in him and at any time revoke such delegation.\n\n(5) The Court may, in its discretion on the application of the administrator or any other person referred to in subsection (1), remove or replace the administrator.\n\n(6) On any application made under this section the Court may make such order for the payment of costs as it thinks fit.\n\n(7) Nothing in this section shall permit an administrator to do anything which requires a unanimous resolution or prevent the passing of a unanimous resolution; but without restricting the generality of subsection\n\n(3), the administrator shall, subject to any order of the Court, be entitled on his own initiative and to the exclusion of the strata corporation, to do any act which under the Rules may be done by special resolution only.\n\n(8) An administrator when appointed shall forthwith lodge with the Commissioner a sealed copy of the Court making the appointment."
+   }
+  },
+  {
+   "id": "BN-CAP-189-2000-LAND-CODE-STRATA-ACT-1-A70",
+   "no": 70,
+   "noLabel": {
+    "en": "Section 70."
+   },
+   "chapter": {
+    "en": "PART XI"
+   },
+   "text": {
+    "en": "The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations for any of the following purposes —\n\n(a) imposing fees and charges for anything authorised by this Act;\n\n(b) prescribing forms for the purposes of this Act;\n\n(c) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration of this Act. Form 1 section 14\n\nAPPLICATION FOR CERTIFICATION OF A STRATA PLAN To: The Commissioner of Lands I/We of [Here state address and occupation] hereby certify that I am/we are the original proprietor(s) of the following lot or lots — [Here state full description of the lot or lots, including the area and reference to extract from the register]. I/We attach the documents referred to in section 14(1) of the Land Code AND I/We hereby apply for the certification of the attached plan as a strata plan under the provisions of the Land Code Strata Act. DATED this ...................................................... day of ................................... ...................................................... Signature of Original Proprietor(s)\n\nNEGARA BRUNEI DARUSSALAM Form 2 section 21(1)(a)\n\nFORM OF STRATA TITLE\n\nPETIKAN DARI PENDAFTARAN NOMBOR EDR\n\nEXTRACT FROM THE REGISTER EDR NUMBER A. KETERANGAN FIZIKAL / PHYSICAL DETAILS"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "LAND CODE STRATA ACT(1)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

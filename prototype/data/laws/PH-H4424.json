@@ -1,7 +1,7 @@
 {
  "id": "PH-H4424",
  "title": {
-  "zh": null,
+  "zh": "将圣巴勃罗市圣埃莱娜村的公立小学命名为普拉西多·L·埃斯库德罗纪念学校的法案",
   "en": "An Act Naming the Public Primary School in Barrio Santa Elena, San Pablo City, Placido L. Escudero Memorial School",
   "orig": "An Act Naming the Public Primary School in Barrio Santa Elena, San Pablo City, Placido L. Escudero Memorial School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Public Primary School in Barrio Santa Elena, San Pablo City, Placido L. Escudero Memorial School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4936",
  "title": {
-  "zh": null,
+  "zh": "关于设立菲律宾出口信用保险与担保公司并界定其权力、职能与目标的法案",
   "en": "An Act Creating the Philippine Export Credit Insurance and Guarantee Corporation, Defining Its Powers, Functions and Objectives and for Other Purposes.",
   "orig": "An Act Creating the Philippine Export Credit Insurance and Guarantee Corporation, Defining Its Powers, Functions and Objectives and for Other Purposes."
  },
@@ -430,5 +430,11 @@
     "en": "Effectivity . — This Act shall take effect upon its approval.\nApproved, March 30, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act Creating the Philippine Export Credit Insurance and Guarantee Corporation, Defining Its Powers, Functions and Objectives and for Other Purposes.",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

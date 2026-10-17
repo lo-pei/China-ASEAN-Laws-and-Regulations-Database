@@ -1,7 +1,7 @@
 {
  "id": "SG-H1904",
  "title": {
-  "zh": null,
+  "zh": "所得税（Accuron 工业科技有限公司——第 13(12) 条豁免）命令 2022",
   "en": "Income Tax (Accuron Industrial Technologies Limited — Section 13(12) Exemption) Order 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The following amounts, being income comprising dividends received in Singapore by Accuron Industrial Technologies Limited (a company incorporated in Singapore) from SAM Engineering and Equipment (M) Berhad (a company incorporated in Malaysia), are exempt from tax:\n(a)income comprising dividends amounting to US$1,664,319 received in the basis period for the year of assessment 2017;\n(b)income comprising dividends amounting to US$2,708,601 specified in paragraph 1 of the letter of approval dated 27 July 2021 addressed to KPMG Services Pte. Ltd (called in this paragraph the letter of approval dated 27 July 2021);\n(c)income comprising dividends amounting to US$418,565 specified in paragraph 1 of the letter of approval dated 27 July 2021.\n(2) The exemption in sub‑paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 27 July 2021."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Accuron Industrial Technologies Limited — Section 13(12) Exemption) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

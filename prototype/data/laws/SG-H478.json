@@ -1,7 +1,7 @@
 {
  "id": "SG-H478",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（第122条复议与上诉）规则 2022",
   "en": "Casino Control (Section 122 Reconsideration and Appeals) Rules 2022",
   "orig": null
  },
@@ -358,5 +358,13 @@
     "en": "20. When the Minister has made a decision regarding an appeal, the Minister must without delay notify the parties of the appeal of his or her decision in respect of the appeal."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Section 122 Reconsideration and Appeals) Rules 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

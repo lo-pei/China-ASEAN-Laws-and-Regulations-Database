@@ -1,7 +1,7 @@
 {
  "id": "SG-H791",
  "title": {
-  "zh": null,
+  "zh": "竞争（费用）条例 2007",
   "en": "Competition (Fees) Regulations 2007",
   "orig": null
  },
@@ -123,5 +123,11 @@
     "en": "SECOND SCHEDULE\nRegulation 3\nFees\nFirst column\nSecond column\nDescription of fees\nFee payable\n1.Fee for application for notification for guidance under section 43 or 50 of the Act —\n(a)initial fee\n$3,000\n(b)further fee\n$20,000\n2.Fee for application for notification for decision under section 44 or 51 of the Act —\n(a)initial fee\n$5,000\n(b)further fee\n$40,000\n3.Fee for application for notification for decision under section 57 or 58 of the Act —\n(a)merger fee in a case where —\n(i)in relation to section 54 (2) (a) of the Act, all the undertakings which, in the case of an anticipated merger, will merge, or, in the case of a merger, have merged, are small or medium sized enterprises\n$5,000\n(ii)in relation to section 54 (2) (b) or (c) of the Act, the acquirer is a small or medium sized enterprise, and direct or indirect control in the small or medium sized enterprise, in the case of an anticipated merger, will not be acquired, or, in the case of a merger, has not been acquired, as a result of that same anticipated merger or merger, as the case may be\n$5,000\n(b)merger fee in any other case, where —\n(i)the net aggregate turnover is equal to or less than $200 million\n$15,000\n(ii)the net aggregate turnover is between $200 million and $600 million\n$50,000\n(iii)the net aggregate turnover is above $600 million\n$100,000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Competition (Fees) Regulations 2007",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

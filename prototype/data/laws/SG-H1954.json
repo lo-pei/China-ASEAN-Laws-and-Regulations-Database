@@ -1,7 +1,7 @@
 {
  "id": "SG-H1954",
  "title": {
-  "zh": null,
+  "zh": "所得税（核准保险经纪优惠税率）条例 2009",
   "en": "Income Tax (Concessionary Rate of Tax for Approved Insurance Brokers) Regulations 2009",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "5. For the purposes of regulations 4 and 4A, the Comptroller shall determine —\n(a)the income chargeable to tax of an approved insurance broker having regard to such expenses, capital allowances and donations allowable under the Act as are, in his opinion, to be deducted in ascertaining such income; and\n(b)the manner and extent to which any losses arising from the insurance broking and advisory services specified in regulations 4 and 4A may be deducted under section 37(3) of the Act in ascertaining the chargeable income of the approved insurance broker.\n[S 494/2021 wef 01/07/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Concessionary Rate of Tax for Approved Insurance Brokers) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

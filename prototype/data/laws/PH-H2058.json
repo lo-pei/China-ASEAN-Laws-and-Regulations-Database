@@ -1,7 +1,7 @@
 {
  "id": "PH-H2058",
  "title": {
-  "zh": null,
+  "zh": "修订第309号共和国法第4条，规定赛马可在每周六全天举行，而非如该法现行规定仅在周六下午举行的法案",
   "en": "An Act to Amend Section Four of Republic Act Numbered Three Hundred and Nine by Providing that Horse Races May be Held All Day on Saturdays, Instead of on Saturday Afternoons Only as is Now Provided by Said Act",
   "orig": "An Act to Amend Section Four of Republic Act Numbered Three Hundred and Nine by Providing that Horse Races May be Held All Day on Saturdays, Instead of on Saturday Afternoons Only as is Now Provided by Said Act"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Four of Republic Act Numbered Three Hundred and Nine by Providing that Horse Races May be Held All Day on Saturdays, Instead of on Saturday Afternoons Only as is Now Provided by Said Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

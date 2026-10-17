@@ -1,7 +1,7 @@
 {
  "id": "PH-H4944",
  "title": {
-  "zh": null,
+  "zh": "将邦阿西楠省罗萨莱斯市镇圣安赫尔村的名称变更为Silvestre Domingo村的法案",
   "en": "An Act Changing the Name of Barrio San Angel in the Municipality of Rosales, Province of Pangasinan, to Silvestre Domingo.",
   "orig": "An Act Changing the Name of Barrio San Angel in the Municipality of Rosales, Province of Pangasinan, to Silvestre Domingo."
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 17, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Barrio San Angel in the Municipality of Rosales, Province of Pangasinan, to Silvestre Domingo.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

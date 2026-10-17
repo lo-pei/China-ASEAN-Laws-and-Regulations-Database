@@ -1,7 +1,7 @@
 {
  "id": "SG-H730",
  "title": {
-  "zh": null,
+  "zh": "委员会",
   "en": "Commission",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Inquiry Commissions Act\nChapter 48, Section 1970$ Ed\nCommission\nN 33\nG.N. No. S 980/1986\nREVISED EDITION 1990\n( )\n[18 April 1986]\nBy WEE KIM WEE President of the Republic of Singapore.\nWhereas it is provided by the Inquiry Commissions Act that it shall be lawful for the President, whenever he shall deem it advisable, to issue a Commission appointing one or more Commissioners to inquire, inter alia, into any matter in which an inquiry would in the opinion of the President be for the public welfare:\nAnd whereas I am of the opinion that it is in the public welfare that an inquiry should forthwith be made by Commissioners so appointed in accordance with the following terms of reference, namely:\n(a)to determine the cause of the collapse of the premises at 305 Serangoon Road on 15th March 1986;\n(b)to make recommendations for such appropriate measures that can be taken to prevent a similar occurrence.\nNow, therefore, I, WEE KIM WEE, hereby appoint the following persons, namely:\n(a)Mr. Justice Thean Lip Ping;\n(b)Dr. A. Vijiaratnam;\n(c)Prof. Lee Seng Lip; and\n(d)Prof. Bengt B. Broms,\nto be Commissioners and hereby authorize the said Commissioners to conduct such inquiry in the manner hereinafter directed:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1225",
  "title": {
-  "zh": null,
+  "zh": "教育捐赠与储蓄计划（教育储蓄学生基金拨款）条例 2021",
   "en": "Education Endowment and Savings Schemes (Grant to Edusave Pupils Fund) Regulations 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purpose of section 6(1)(d) of the Act, the income of the Endowment Fund may be paid out and expended for the purpose of providing a top‑up grant of $200 to be credited to the Edusave account of every member of the Edusave Pupils Fund who is eligible for the contribution under section 9(1) of the Act for the year 2021."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Education Endowment and Savings Schemes (Grant to Edusave Pupils Fund) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

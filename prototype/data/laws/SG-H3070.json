@@ -1,7 +1,7 @@
 {
  "id": "SG-H3070",
  "title": {
-  "zh": null,
+  "zh": "马来西亚与文莱货币转为纸币",
   "en": "Malaysian and Brunei Darussalam Currency to Be Bills",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Bills of Exchange Act\n(Chapter 23, Section 14(a))\nMalaysian and Brunei Darussalam\nCurrency to be Bills\nN 1\nG.N. No. S 160/1970\nREVISED EDITION 1990\n(25th March 1992)\n[19th June 1970]\nThe Minister for Finance has prescribed that bills drawn in Malaysian and Brunei Darussalam currency are to be bills for the purposes of section 14(a) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Malaysian and Brunei Darussalam Currency to Be Bills",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

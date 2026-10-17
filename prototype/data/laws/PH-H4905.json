@@ -1,7 +1,7 @@
 {
  "id": "PH-H4905",
  "title": {
-  "zh": null,
+  "zh": "宣布 James P. Moran 神父为菲律宾公民，并授予其菲律宾公民身份的一切权利、义务、特权与优先权的法案",
   "en": "An Act Declaring Father James P. Moran, S. J., a Citizen of the Philippines, and Conferring Upon Him All the Rights, Duties, Privileges, and Prerogatives of Philippine Citizenship.",
   "orig": "An Act Declaring Father James P. Moran, S. J., a Citizen of the Philippines, and Conferring Upon Him All the Rights, Duties, Privileges, and Prerogatives of Philippine Citizenship."
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, September 10, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring Father James P. Moran, S. J., a Citizen of the Philippines, and Conferring Upon Him All the Rights, Duties, Privileges, and Prerogatives of Philippine Citizenship.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

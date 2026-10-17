@@ -1,7 +1,7 @@
 {
  "id": "SG-H295",
  "title": {
-  "zh": null,
+  "zh": "银行（第 38 与 39 条下的罚款）命令 2024",
   "en": "Banking (Financial Penalties under Sections 38 and 39) Order 2024",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. Revoke the Banking (Financial Penalties under sections 38 and 39) Order 2007 (G.N. No. S 241/2007)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Banking (Financial Penalties under Sections 38 and 39) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1184",
  "title": {
-  "zh": null,
+  "zh": "关于在吉隆坡与新加坡保存罪犯登记册的指示",
   "en": "Direction That Register of Criminals be Kept in Kuala Lumpur and Singapore",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Registration of Criminals Act\n(Chapter 268, Section 4(2))\nDirection That Register of Criminals be Kept in Kuala Lumpur and Singapore\nN 1\nG.N. No. S 2046/1949\nREVISED EDITION 1990\n(25th March 1992)\n[22nd July 1949]\nThe Minister has directed that the register of criminals maintained in accordance with section 4 of the Act shall be kept at the Central Criminal Registry in Kuala Lumpur and that a subsidiary register shall be kept at the Criminal Record Office, Criminal Investigation Department, Singapore and these shall be kept in such manner as the Inspector-General of Police, Malaysia and the Commissioner of Police, Singapore shall respectively direct."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Direction That Register of Criminals be Kept in Kuala Lumpur and Singapore",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9354",
  "title": {
-  "zh": null,
+  "zh": "反邮购新娘法",
   "en": "Anti-Mail Order Bride Law",
   "orig": "An Act Providing Stronger Measures Against Unlawful Practices, Businesses, and Schemes of Matching and Offering Filipinos to Foreign Nationals for Purposes of Marriage or Common Law Partnership, Repealing for the Purpose Republic Act No. 6955, Also Referred to as the “Anti-Mail Order Bride Law”"
  },
@@ -151,5 +151,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Anti-Mail Order Bride Law",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

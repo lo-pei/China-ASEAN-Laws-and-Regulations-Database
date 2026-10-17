@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-166-YAYASAN-SULTAN-HAJI-HASSANAL-BOLKIAH-ACT",
  "title": {
-  "zh": null,
+  "zh": "苏丹哈吉哈桑纳尔博尔基亚基金会法",
   "en": "YAYASAN SULTAN HAJI HASSANAL BOLKIAH ACT",
   "orig": null
  },
@@ -222,5 +222,13 @@
     "en": "The Yayasan shall within 6 months of the end of its financial year transmit to His Majesty the Sultan and Yang Di-Pertuan a report on the proceedings of the Yayasan throughout the year."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "YAYASAN SULTAN HAJI HASSANAL BOLKIAH ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1940",
  "title": {
-  "zh": null,
+  "zh": "所得税（保释与个人保证）规则 2019",
   "en": "Income Tax (Bail and Personal Bond) Rules 2019",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "10. A District Court may direct any Magistrate’s Court to exercise the court’s powers of forfeiture under rule 8 in respect of a bond to appear before the District Court in accordance with section 109 of the Criminal Procedure Code."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (Bail and Personal Bond) Rules 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

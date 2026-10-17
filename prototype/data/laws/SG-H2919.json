@@ -1,7 +1,7 @@
 {
  "id": "SG-H2919",
  "title": {
-  "zh": null,
+  "zh": "司法委员会（刑事上诉）规则",
   "en": "Judicial Committee (Criminal Appeals) Rules",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Supreme Court of Judicature Act\n(Chapter 322, Section 80(1)(f))\nJudicial Committee (Criminal Appeals) Rules\nR 4\nG.N. No. S 235/1966\nREVISED EDITION 1990\n(25th March 1992)\n[4th November 1966]\nCeased to apply to Singapore"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Judicial Committee (Criminal Appeals) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

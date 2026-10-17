@@ -1,7 +1,7 @@
 {
  "id": "PH-H8508",
  "title": {
-  "zh": null,
+  "zh": "将武端市新建桥梁命名为Diosdado P. Macapagal总统桥，并为此作出规定的法案",
   "en": "An Act Naming the Newly Constructed Bridge in Butuan City as Pres. Diosdado P. Macapagal Bridge",
   "orig": "An Act Naming the Newly Constructed Bridge in Butuan City as Pres. Diosdado P. Macapagal Bridge"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Newly Constructed Bridge in Butuan City as Pres. Diosdado P. Macapagal Bridge",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

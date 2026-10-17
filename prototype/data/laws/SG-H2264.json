@@ -1,7 +1,7 @@
 {
  "id": "SG-H2264",
  "title": {
-  "zh": null,
+  "zh": "所得税（搬迁或招聘海外人才所产生费用的进一步扣除）条例",
   "en": "Income Tax (Further Deduction for Expenses Incurred in Relocation or Recruitment of Overseas Talent) Regulations",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Subject to the provisions of these Regulations, for the purpose of ascertaining the income of any person carrying on a trade, profession or business, there shall be allowed to the person a further deduction, in addition to the deduction allowed under section 14 of the Act, of the prescribed expenses incurred during the period from 1st October 1998 to 30th September 2013 by the person in recruiting or relocating any prescribed employee from outside Singapore to be employed in Singapore by the person.\n[S 123/2008 wef 14/03/2008]\n(2) For the purposes of the further deduction to be allowed to any person under paragraph (1) in respect of any prescribed employee —\n(a)the further deduction of the expenses under paragraph (c) of the definition of “prescribed expenses” shall only be allowed if the deduction of those expenses is claimed within one year from the date the employee’s spouse or child is brought to Singapore, as the case may be; and\n(b)where the person is a recipient of any grant given under any Government assistance scheme to offset the recruitment or relocation expenses incurred in respect of the prescribed employee, the amount of further deduction to be allowed under that paragraph shall be reduced by the amount of the grant.\n[S 129/2004 wef 28/02/2003]\n(3) The total amount of further deduction to be allowed to any person under paragraph (1) for any year of assessment shall not in the aggregate exceed $275,000 in respect of all prescribed employees employed by the person in the basis period for that year of assessment.\n[S 129/2004 wef 28/02/2003]\n(4) The Minister, or such person as he may appoint, may in any particular case waive the limit of $275,000 specified in paragraph (3) subject to such conditions as the Minister or that person may impose.\n[S 120/2002 wef 12/03/2002]\n[S 129/2004 wef 28/02/2003]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Further Deduction for Expenses Incurred in Relocation or Recruitment of Overseas Talent) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

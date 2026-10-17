@@ -1,7 +1,7 @@
 {
  "id": "SG-H3099",
  "title": {
-  "zh": null,
+  "zh": "武术教学（豁免）公告 1997",
   "en": "Martial Arts Instruction (Exemption) Notification 1997",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. A trainee who —\n(a)receives instruction in any form of martial art as part of a course, or other activity, organised or conducted by any martial art association registered under section 4 of the Act;\n(b)is not a member of an unlawful society within the meaning of the Societies Act (Cap. 311); and\n(c)has not been convicted of any offence that is registrable under the Registration of Criminals Act (Cap. 268),\nis exempted from registration as a trainee under section 22 of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Martial Arts Instruction (Exemption) Notification 1997",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5453",
  "title": {
-  "zh": null,
+  "zh": "向因执行职务或因其职位而殉职或永久丧失工作能力的警察、军人或消防人员家属或受益人提供特别财政援助与福利并为其他目的法案",
   "en": "An Act Granting Special Financial Assistance and Benefits to the Family or Beneficiary of Any Police or Military Personnel or Fireman Killed or Permanently Incapacitated while in the Performance of His Duty or By Reason of His Office or Position and for Other Purposes",
   "orig": "An Act Granting Special Financial Assistance and Benefits to the Family or Beneficiary of Any Police or Military Personnel or Fireman Killed or Permanently Incapacitated while in the Performance of His Duty or By Reason of His Office or Position and for Other Purposes"
  },
@@ -180,5 +180,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Special Financial Assistance and Benefits to the Family or Beneficiary of Any Police or Military Personnel or Fireman Killed or Permanently Incapacitated while in the Performance of His Duty or By Reason of His Office or Position and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

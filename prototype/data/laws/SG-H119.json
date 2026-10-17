@@ -1,7 +1,7 @@
 {
  "id": "SG-H119",
  "title": {
-  "zh": null,
+  "zh": "司法管理（保护）法 2016",
   "en": "Administration of Justice (Protection) Act 2016",
   "orig": null
  },
@@ -484,5 +484,13 @@
     "en": "THE SCHEDULE\nSections 23, 26(2)(b) and 34(1)\nApplicable provisions of Criminal Procedure Code 2010 for purposes of investigations under section 23\nPart 1\nPOWERS OF INVESTIGATION INTO ALLEGED CONTEMPT\n1.Section 6\n2.All powers under Part 4\n3.Section 78(2)\n4.Section 81\n5.Section 83\n6.Section 112\n7.Section 113\nPart 2\nOther applicable provisions of\ncriminal procedure code 2010\n1.Part 4 (Information to police and powers of investigation).\n2.Division 7 of Part 6 (Surrender of travel document and requirement to remain in Singapore)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Administration of Justice (Protection) Act 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

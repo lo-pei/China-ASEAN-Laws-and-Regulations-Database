@@ -1,7 +1,7 @@
 {
  "id": "BN-S-40-2014-TOWN-PLANNERS-REGISTRATION-ORDER-2014",
  "title": {
-  "zh": null,
+  "zh": "城市规划师注册命令 2014",
   "en": "TOWN PLANNERS REGISTRATION ORDER 2014",
   "orig": null
  },
@@ -401,5 +401,13 @@
     "en": "{1) The Minister may, with the approval of His Majesty the Sultan and make rules which are necessary or expedient for giving effect to and carrying out the provisions of this Order, including the prescription of fees and of any other thing required to be or which may be prescribed under this and for the due administration thereof. {2) Such rules may include such incidental, and supplementary provisions as the Minister considers necessary or expedient. day of Rejab, 1435 Hijriah corresponding to the 6th. day of May, 2014 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TOWN PLANNERS REGISTRATION ORDER 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

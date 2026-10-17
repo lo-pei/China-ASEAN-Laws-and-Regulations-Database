@@ -1,7 +1,7 @@
 {
  "id": "SG-H1924",
  "title": {
-  "zh": null,
+  "zh": "所得税（Armada 98/2 私人有限公司依第 13（4）条享有的豁免）公告 2026",
   "en": "Income Tax (Armada 98/2 Pte. Ltd. — Section 13(4) Exemption) Notification 2026",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest payable by Armada 98/2 Pte. Ltd. under a syndicated term loan facility agreement dated 13 April 2023 for the purposes of financing the construction of the Floating, Production, Storage and Offloading vessel named “Armada Sterling V” —\n(a)to the respective lenders mentioned in the first column of the following table;\n(b)in respect of the respective loan amounts mentioned in the second column of the table; and\n(c)that is due and payable during the respective periods mentioned in the third column of the table,\nis exempt from tax:\nFirst column\nSecond column\nThird column\nLender\nLoan amount (US$)\nPeriod (both dates inclusive)\nBank of Baroda, IFSC Banking Unit\n360,217,992.42\n13 April 2023 to 29 September 2023\nState Bank of India\n100,000,000.00\n11 September 2023 to 29 September 2023\nCanara Bank\n98,101,258.72\n13 April 2023 to 29 September 2023\nIndian Bank\n98,101,258.72\n20 September 2023 to 29 September 2023\nExport‑Import Bank of India\n73,575,944.04\n13 April 2023 to 29 September 2023\nBank of India, IFSC Banking Unit\n50,000,000.00\n13 September 2023 to 29 September 2023\nUnion Bank of India\n50,000,000.00\n20 September 2023 to 29 September 2023\nYES Bank Limited, IFSC Banking Unit\n50,000,000.00\n20 September 2023 to 29 September 2023\n(2) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter from the Inland Revenue Authority of Singapore dated 4 September 2026 that is issued on behalf of the Minister for Finance and addressed to Deloitte Tax Solutions Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Armada 98/2 Pte. Ltd. — Section 13(4) Exemption) Notification 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

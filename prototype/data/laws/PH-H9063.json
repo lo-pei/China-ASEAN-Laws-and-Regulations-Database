@@ -1,7 +1,7 @@
 {
  "id": "PH-H9063",
  "title": {
-  "zh": null,
+  "zh": "加强本国食品安全监管体系以保护消费者健康并便利本地食品与食品产品的市场准入，及为其他目的法案",
   "en": "An Act to Strengthen the Food Safety Regulatory System in the Country to Protect Consumer Health and Facilitate Market Access of Local Foods and Food Products, and for Other Purposes",
   "orig": "An Act to Strengthen the Food Safety Regulatory System in the Country to Protect Consumer Health and Facilitate Market Access of Local Foods and Food Products, and for Other Purposes"
  },
@@ -578,5 +578,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Strengthen the Food Safety Regulatory System in the Country to Protect Consumer Health and Facilitate Market Access of Local Foods and Food Products, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1345",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（受管制货物——豁免）命令 2022",
   "en": "Environmental Protection and Management (Regulated Goods — Exemption) Order 2022",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Division 2 of Part 10A of the Act does not apply in relation to any regulated goods that only require specified greenhouse gases for their use or operation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Protection and Management (Regulated Goods — Exemption) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

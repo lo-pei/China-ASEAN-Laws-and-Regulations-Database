@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-242-2024-STATUTORY-CORPORATIONS-CONTRIBUTIONS-TO-6772BD",
  "title": {
-  "zh": null,
+  "zh": "法定机构向综合基金缴款法",
   "en": "STATUTORY CORPORATIONS CONTRIBUTIONS TO CONSOLIDATED FUND ACT",
   "orig": null
  },
@@ -85,5 +85,13 @@
     "en": "The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, by order published in the Gazette, amend the Schedule. (sections 2, 3 and 4)\n\nSPECIFIED STATUTORY CORPORATIONS Statutory corporation Written law under which established or for Info-Communications for Info-Communications of of Darussalam Order, 2001 (S 39/2001) Brunei Darussalam Food Authority Brunei Darussalam Food Authority Act (Chapter 236) Brunei Economic Development Board Brunei Economic Development Board Centre for Strategic and Policy Studies Centre for Strategic and Policy Studies Order, 2006 (S 64/2006) Darussalam Enterprise Darussalam Enterprise Act (Chapter 244) Maritime and Port Authority of Brunei Maritime and Port Authority of Brunei Darussalam Act (Chapter 222) Pantai Jerudong Specialist Centre Pantai Jerudong Specialist Centre Act (Chapter 226) Brunei Act (Chapter 163) of of Darussalam Act (Chapter 231) Safety, Health and Environment National Safety, Health and Environment National Authority Act (Chapter 227)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "STATUTORY CORPORATIONS CONTRIBUTIONS TO CONSOLIDATED FUND ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

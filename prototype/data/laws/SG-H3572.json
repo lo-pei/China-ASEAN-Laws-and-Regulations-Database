@@ -1,7 +1,7 @@
 {
  "id": "SG-H3572",
  "title": {
-  "zh": null,
+  "zh": "保险单法 1867",
   "en": "Policies of Assurance Act 1867",
   "orig": null
  },
@@ -152,5 +152,13 @@
     "en": "THE SCHEDULE\nSection 5\nI, A. B., of, etc., in consideration of, etc., do hereby assign unto C. D., of etc., his executors, administrators, and assigns, the [within] policy of assurance granted, etc. [here describe the policy]. In witness, etc."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Policies of Assurance Act 1867",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H614",
  "title": {
-  "zh": null,
+  "zh": "新加坡民航局（向部长上诉）规则 2009",
   "en": "Civil Aviation Authority of Singapore (Appeals to Minister) Rules 2009",
   "orig": null
  },
@@ -598,5 +598,13 @@
     "en": "35.—(1) Any irregularity resulting from a failure to comply with any provision of these Rules before the Minister has reached his decision shall not of itself render the proceedings void.\n(2) Where any such irregularity comes to the attention of the Minister, he may give such directions as he thinks just to cure or waive the irregularity before reaching his decision if he considers that any person may have been prejudiced by the irregularity.\n(3) The following may be corrected at any time by the chairperson by certificate under his hand:\n(a)clerical mistakes in any document recording an advice of the Panel, or any proceedings under these Rules before the Panel; or\n(b)errors arising in such a document from an accidental slip or omission."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Civil Aviation Authority of Singapore (Appeals to Minister) Rules 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1892",
  "title": {
-  "zh": null,
+  "zh": "移民（国际海洋法法庭——第 6 条豁免）命令 2023",
   "en": "Immigration (International Tribunal for the Law of the Sea — Exemption from Section 6) Order 2023",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. Nothing in this Order is to be construed to exempt any person from examination under section 24, 25, 25A or 26 of the Act, as the case may be."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Immigration (International Tribunal for the Law of the Sea — Exemption from Section 6) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

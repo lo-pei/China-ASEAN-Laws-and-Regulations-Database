@@ -1,7 +1,7 @@
 {
  "id": "PH-H10376",
  "title": {
-  "zh": null,
+  "zh": "规定制定、资助、实施、监测与评估全面多年期「Tatak Pinoy」（菲律宾自豪）总体计划、设立 Tatak Pinoy 委员会、拨付资金并为其他目的法案",
   "en": "An Act Mandating the Formulation, Funding, Implementation, Monitoring, and Evaluation of a Comprehensive and Multi-year “Tatak Pinoy” (Proudly Filipino) Strategy, Establishing a Tatak Pinoy Council, Appropriating Funds Therefor, and for Other Purpose",
   "orig": "An Act Mandating the Formulation, Funding, Implementation, Monitoring, and Evaluation of a Comprehensive and Multi-year “Tatak Pinoy” (Proudly Filipino) Strategy, Establishing a Tatak Pinoy Council, Appropriating Funds Therefor, and for Other Purpose"
  },
@@ -270,5 +270,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Mandating the Formulation, Funding, Implementation, Monitoring, and Evaluation of a Comprehensive and Multi-year “Tatak Pinoy” (Proudly Filipino) Strategy, Establishing a Tatak Pinoy Council, Appropriating Funds Therefor, and for Other Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

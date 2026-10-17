@@ -1,7 +1,7 @@
 {
  "id": "PH-H5813",
  "title": {
-  "zh": null,
+  "zh": "规定甲米地省 Trece Martires 市市官员地方选举并为其他目的法案",
   "en": "An Act Providing for the Local Elections of the City Officials of Trece Martires City, Province of Cavite, and for Other Purposes",
   "orig": "An Act Providing for the Local Elections of the City Officials of Trece Martires City, Province of Cavite, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Local Elections of the City Officials of Trece Martires City, Province of Cavite, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

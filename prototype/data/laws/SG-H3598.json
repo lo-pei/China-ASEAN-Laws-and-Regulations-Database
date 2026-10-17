@@ -1,7 +1,7 @@
 {
  "id": "SG-H3598",
  "title": {
-  "zh": null,
+  "zh": "公共部门（治理）法 2018",
   "en": "Public Sector (Governance) Act 2018",
   "orig": null
  },
@@ -788,5 +788,13 @@
     "en": "THIRD SCHEDULE\nSections 2 and 42\nGroup 3 public bodies\nPart 1\nGROUP 3A PUBLIC BODIES\nPublic body\nConstitutional Act\n1.Majlis Ugama Islam, Singapura\nAdministration of Muslim Law Act 1966\nPart 2\nGROUP 3B PUBLIC BODIES\nPublic body\nConstitutional Act\n1.[Deleted by Act 3 of 2026 wef 01/08/2026]\n[Act 3 of 2026 wef 01/08/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Public Sector (Governance) Act 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

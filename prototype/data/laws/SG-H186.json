@@ -1,7 +1,7 @@
 {
  "id": "SG-H186",
  "title": {
-  "zh": null,
+  "zh": "游乐设施安全（罪行构成）条例 2011",
   "en": "Amusement Rides Safety (Composition of Offences) Regulations 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the Commissioner in accordance with section 62 of the Act:\n(a)any offence (other than a continuing offence) under section 7(7), 16(5) or (6), 25(7), 33(3)(a), 34(3)(a), 35(4), 40(2), 41(2), 42(2), 43(2), 44(2), 45(2), 47(2), 48(2), 50(3) or 54(5)(a) of the Act;\n(b)any offence under regulation 30 of the Amusement Rides Safety Regulations 2011 (G.N. No. S 343/2011);\n(c)any offence under the Amusement Rides Safety (Fire and Rescue Management System) Regulations 2011 (G.N. No. S 344/2011)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Amusement Rides Safety (Composition of Offences) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

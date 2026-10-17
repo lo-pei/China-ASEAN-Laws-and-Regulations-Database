@@ -1,7 +1,7 @@
 {
  "id": "SG-H3072",
  "title": {
-  "zh": null,
+  "zh": "光盘制造条例",
   "en": "Manufacture of Optical Discs Regulations",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) The fee for the grant of a licence (other than a licence granted to an applicant referred to in section 32 of the Act) shall be $10, which is non-refundable.\n(2) The Registrar may, in the circumstances of any particular case, waive the fee payable under paragraph (1).\n[G.N. No. S 452/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Manufacture of Optical Discs Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

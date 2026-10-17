@@ -1,7 +1,7 @@
 {
  "id": "PH-H7428",
  "title": {
-  "zh": null,
+  "zh": "进一步延长授予 Davao Light and Power 公司在达沃市及北达沃省若干市镇建设、运营电灯、热力与动力系统特许权的期限二十五（25）年，并为其他目的法案",
   "en": "An Act Further Extending the Term of the Franchise Granted to Davao Light and Power Company, Inc. to Construct, Operate and Maintain an Electric Light, Heat and Power System in Davao City and the Municipalities of Carmen, Panabo, Dujali, and Santo Tomas, Province of Davao del Norte, for a Period of Twenty-Five (25) Years and for other purposes",
   "orig": "An Act Further Extending the Term of the Franchise Granted to Davao Light and Power Company, Inc. to Construct, Operate and Maintain an Electric Light, Heat and Power System in Davao City and the Municipalities of Carmen, Panabo, Dujali, and Santo Tomas, Province of Davao del Norte, for a Period of Twenty-Five (25) Years and for other purposes"
  },
@@ -130,5 +130,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Extending the Term of the Franchise Granted to Davao Light and Power Company, Inc. to Construct, Operate and Maintain an Electric Light, Heat and Power System in Davao City and the Municipalities of Carmen, Panabo, Dujali, and Santo Tomas, Province of Davao del Norte, for a Period of Twenty-Five (25) Years and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2539",
  "title": {
-  "zh": null,
+  "zh": "所得税（补充退休计划）条例 2003",
   "en": "Income Tax (Supplementary Retirement Scheme) Regulations 2003",
   "orig": null
  },
@@ -363,5 +363,13 @@
     "en": "21.—(1) Any offence under these Regulations, other than an offence under regulation 11(1A) or 12(1A), may be compounded by the Comptroller in accordance with section 243 of the Criminal Procedure Code (Cap. 68).\n[S 405/2015 wef 01/07/2015]\n(2) The Comptroller may compound an offence by collecting from the person reasonably suspected of having committed the offence a sum of money not exceeding $500.\n[S 521/2010 wef 01/02/2011]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (Supplementary Retirement Scheme) Regulations 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4605",
  "title": {
-  "zh": null,
+  "zh": "授予 Oceanic Fisheries (Phil.) 公司在宿务市建设、运营和维护制冰厂与冷藏设施并分销和销售所制冰及提供冷藏设施的特许权法案",
   "en": "An Act Granting Oceanic Fisheries (Phil.) Inc., a Franchise to Construct, Operate and Maintain Ice Plants and Cold Storage Facilities, and to Distribute and Sell Ice So Manufactured and Furnish Cold Storage Facilities in the City of Cebu",
   "orig": "An Act Granting Oceanic Fisheries (Phil.) Inc., a Franchise to Construct, Operate and Maintain Ice Plants and Cold Storage Facilities, and to Distribute and Sell Ice So Manufactured and Furnish Cold Storage Facilities in the City of Cebu"
  },
@@ -121,5 +121,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Oceanic Fisheries (Phil.) Inc., a Franchise to Construct, Operate and Maintain Ice Plants and Cold Storage Facilities, and to Distribute and Sell Ice So Manufactured and Furnish Cold Storage Facilities in the City of Cebu",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

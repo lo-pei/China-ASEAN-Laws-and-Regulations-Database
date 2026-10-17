@@ -1,7 +1,7 @@
 {
  "id": "PH-H3510",
  "title": {
-  "zh": null,
+  "zh": "将南伊罗戈省维甘的南伊罗戈省医院收归国有并改设为Gabriela Silang总医院，增加其床位并在其中设立护理与助产学校，同时授权为此拨款的法案",
   "en": "An Act to Nationalize and Convert the Ilocos Sur Provincial Hospital in Vigan, Ilocos Sur, into the Gabriela Silang General Hospital, Increasing its Bed Capacity and Establishing Therein a School of Nursing and Midwifery, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act to Nationalize and Convert the Ilocos Sur Provincial Hospital in Vigan, Ilocos Sur, into the Gabriela Silang General Hospital, Increasing its Bed Capacity and Establishing Therein a School of Nursing and Midwifery, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Nationalize and Convert the Ilocos Sur Provincial Hospital in Vigan, Ilocos Sur, into the Gabriela Silang General Hospital, Increasing its Bed Capacity and Establishing Therein a School of Nursing and Midwifery, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

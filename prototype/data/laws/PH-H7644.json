@@ -1,7 +1,7 @@
 {
  "id": "PH-H7644",
  "title": {
-  "zh": null,
+  "zh": "宣布伊斯兰教历十月首日为开斋节全国假日、伊斯兰教历十二月十日为穆斯林棉兰老自治区宰牲节区域假日，为此修订第292号行政令第七章第26条并为其他目的法案",
   "en": "An Act Declaring the First Day of Shawwal, the Tenth Month of the Islamic Calendar, a National Holiday for the Observance of Eidul Fitr and the Tenth Day of Zhuld Hijja. the Twelfth Month of the Islamic Calendar, a Regional Holiday in the Automnomous Region in Muslim Mindanao (ARMM) for the Observance of Eidul Adha, Amending for the Purpose Section 26, Chapter 7 of Executive Order No. 292. Otherwise Known as the Administrative Code of 1987, and for Other Purposes.",
   "orig": "An Act Declaring the First Day of Shawwal, the Tenth Month of the Islamic Calendar, a National Holiday for the Observance of Eidul Fitr and the Tenth Day of Zhuld Hijja. the Twelfth Month of the Islamic Calendar, a Regional Holiday in the Automnomous Region in Muslim Mindanao (ARMM) for the Observance of Eidul Adha, Amending for the Purpose Section 26, Chapter 7 of Executive Order No. 292. Otherwise Known as the Administrative Code of 1987, and for Other Purposes."
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect fifteen (15)days after its complete publication in at least two(2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the First Day of Shawwal, the Tenth Month of the Islamic Calendar, a National Holiday for the Observance of Eidul Fitr and the Tenth Day of Zhuld Hijja. the Twelfth Month of the Islamic Calendar, a Regional Holiday in the Automnomous Region in Muslim Mindanao (ARMM) for the Observance of Eidul Adha, Amending for the Purpose Section 26, Chapter 7 of Executive Order No. 292. Otherwise Known as the Administrative Code of 1987, and for Other Purposes.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

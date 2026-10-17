@@ -1,7 +1,7 @@
 {
  "id": "PH-H4216",
  "title": {
-  "zh": null,
+  "zh": "授予 Roberto O. Martinez 在北三宝颜省 Dipolog 市镇建设、运营制冰厂与冷库并在 Dapitan 市及该省售冰及供应冷库的特许经营权法案",
   "en": "An Act Granting Roberto O. Martinez a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Dipolog, Province of Zamboanga del Norte, and to Sell Ice and Supply Cold Storage in the City of Dapitan and in the Province of Zamboanga del Norte",
   "orig": "An Act Granting Roberto O. Martinez a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Dipolog, Province of Zamboanga del Norte, and to Sell Ice and Supply Cold Storage in the City of Dapitan and in the Province of Zamboanga del Norte"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Roberto O. Martinez a Franchise to Construct, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Dipolog, Province of Zamboanga del Norte, and to Sell Ice and Supply Cold Storage in the City of Dapitan and in the Province of Zamboanga del Norte",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

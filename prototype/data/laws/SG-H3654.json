@@ -1,7 +1,7 @@
 {
  "id": "SG-H3654",
  "title": {
-  "zh": null,
+  "zh": "新加坡劳工基金会法 1977",
   "en": "Singapore Labour Foundation Act 1977",
   "orig": null
  },
@@ -486,5 +486,13 @@
     "en": "25.—(1) The Board may make rules, not inconsistent with the provisions of this Act, for the carrying into effect of any of the purposes or provisions of this Act.\n(2) All rules made under this section must be published in the Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Singapore Labour Foundation Act 1977",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

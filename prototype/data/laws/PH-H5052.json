@@ -1,7 +1,7 @@
 {
  "id": "PH-H5052",
  "title": {
-  "zh": null,
+  "zh": "授予 Ester Labrador 在南甘马粦省 Magarao 市镇建设、运营和维护制冰厂与冷藏设施并在该地销售和分销所制冰的特许权法案",
   "en": "An Act Granting Ester Labrador a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage Facilities in the Municipality of Magarao, Province of Camarines Sur, and to Sell and Distribute Ice So Manufactured Therein.",
   "orig": "An Act Granting Ester Labrador a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage Facilities in the Municipality of Magarao, Province of Camarines Sur, and to Sell and Distribute Ice So Manufactured Therein."
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, September 30, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Ester Labrador a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage Facilities in the Municipality of Magarao, Province of Camarines Sur, and to Sell and Distribute Ice So Manufactured Therein.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

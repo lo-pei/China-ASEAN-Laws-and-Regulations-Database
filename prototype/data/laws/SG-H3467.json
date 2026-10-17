@@ -1,7 +1,7 @@
 {
  "id": "SG-H3467",
  "title": {
-  "zh": null,
+  "zh": "停车位（电子送达系统）规则 2019",
   "en": "Parking Places (Electronic Service System) Rules 2019",
   "orig": null
  },
@@ -97,5 +97,13 @@
     "en": "SECOND SCHEDULE\nRule 3(2)\nMatters in which related notices, orders\nand documents are authorised to be served on recipient\nPart 1\nParking Places (Licensing and Control of\nPrivate Parking Places for Heavy Vehicles) Rules\nDescription\nApplicable rule\n1.Notice of intention to revoke licence\n7(2)\n2.Notice of revocation of licence\n7(3)\n3.Notice of reasons to refuse to renew licence\n7(5)\n4.Consent to transfer licence\n8\n5.Consent to alter or add to the parking area within a private parking place\n10, read with paragraph 4 of the Second Schedule\n6.Directions given by Superintendent\n10, read with paragraph 9 of the Second Schedule\nPart 2\nParking Places (Parking of Heavy Vehicles) Rules\nDescription\nApplicable rule\n1.Directions issued by Superintendent\n11"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Parking Places (Electronic Service System) Rules 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

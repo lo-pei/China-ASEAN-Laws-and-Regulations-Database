@@ -1,7 +1,7 @@
 {
  "id": "PH-H3320",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第65号共和国法（经修正）第10条，提高二战已故退伍军人或已故政治犯的遗孀、未成年子女或贫困父母的月抚恤金",
   "en": "An Act to Further Amend Section Ten of Republic Act Numbered Sixty-Five, as Amended, by Increasing the Monthly Pension Due the Widows and Minor Children or Indigent Parents of Deceased Veterans or Deceased Political Prisoners of World War II",
   "orig": "An Act to Further Amend Section Ten of Republic Act Numbered Sixty-Five, as Amended, by Increasing the Monthly Pension Due the Widows and Minor Children or Indigent Parents of Deceased Veterans or Deceased Political Prisoners of World War II"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Section Ten of Republic Act Numbered Sixty-Five, as Amended, by Increasing the Monthly Pension Due the Widows and Minor Children or Indigent Parents of Deceased Veterans or Deceased Political Prisoners of World War II",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

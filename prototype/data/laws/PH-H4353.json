@@ -1,7 +1,7 @@
 {
  "id": "PH-H4353",
  "title": {
-  "zh": null,
+  "zh": "修订第1135号共和国法（题为“设立菲律宾烟草管理局、界定其目标、权力与职能并为其他目的”，经修正）第八编第15条第1款，并为其资本化提供资金",
   "en": "An Act Amending the First Paragraph of Section Fifteen of Article Eight of Republic Act Numbered Eleven Hundred and Thirty-Five, Entitled \"An Act Establishing the Philippine Tobacco Administration, Defining Its Objectives, Powers and Functions, and for Other Purposes,\" as Amended, Providing Therefor Funds for Its Capitalization.",
   "orig": "An Act Amending the First Paragraph of Section Fifteen of Article Eight of Republic Act Numbered Eleven Hundred and Thirty-Five, Entitled \"An Act Establishing the Philippine Tobacco Administration, Defining Its Objectives, Powers and Functions, and for Other Purposes,\" as Amended, Providing Therefor Funds for Its Capitalization."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect on January 1, 1970.\nApproved: June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending the First Paragraph of Section Fifteen of Article Eight of Republic Act Numbered Eleven Hundred and Thirty-Five, Entitled \"An Act Establishing the Philippine Tobacco Administration, Defining Its Objectives, Powers and Functions, and for Other Purposes,\" as Amended, Providing Therefor Funds for Its Capitalization.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

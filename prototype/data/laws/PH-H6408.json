@@ -1,7 +1,7 @@
 {
  "id": "PH-H6408",
  "title": {
-  "zh": null,
+  "zh": "将普林塞萨港菲律宾工匠学校从 Palawan 综合国立学校分离、升格为大专并更名为普林塞萨港工艺与贸易学校，并为此拨款的法案",
   "en": "An Act Separating the Puerto Princesa School for Philippine Craftsmen From the Palawan Integrated National School and Elevating the Same Into a Collegiate Level to Be Known as the Puerto Princesa School of Arts and Trades, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Puerto Princesa School for Philippine Craftsmen From the Palawan Integrated National School and Elevating the Same Into a Collegiate Level to Be Known as the Puerto Princesa School of Arts and Trades, and Appropriating Funds Therefor"
  },
@@ -141,5 +141,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Puerto Princesa School for Philippine Craftsmen From the Palawan Integrated National School and Elevating the Same Into a Collegiate Level to Be Known as the Puerto Princesa School of Arts and Trades, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3389",
  "title": {
-  "zh": null,
+  "zh": "授权出售国家政府所有、位于马尼拉Binondo Juan Luna街354号的土地及其全部改良物，并将所得款项拨作在奎松市为林业局建造建筑物之用",
   "en": "An Act Authorizing the Sale of the Parcel of Land with All Improvements Thereon Owned by the National Government Located at 354 Juan Luna Street, Binondo, Manila and Appropriating the Proceeds Thereof for the Construction of Building or Buildings in Quezon City for the Bureau of Forestry",
   "orig": "An Act Authorizing the Sale of the Parcel of Land with All Improvements Thereon Owned by the National Government Located at 354 Juan Luna Street, Binondo, Manila and Appropriating the Proceeds Thereof for the Construction of Building or Buildings in Quezon City for the Bureau of Forestry"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 4, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Sale of the Parcel of Land with All Improvements Thereon Owned by the National Government Located at 354 Juan Luna Street, Binondo, Manila and Appropriating the Proceeds Thereof for the Construction of Building or Buildings in Quezon City for the Bureau of Forestry",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

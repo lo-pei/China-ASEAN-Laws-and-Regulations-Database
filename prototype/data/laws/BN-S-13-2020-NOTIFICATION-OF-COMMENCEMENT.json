@@ -1,7 +1,7 @@
 {
  "id": "BN-S-13-2020-NOTIFICATION-OF-COMMENCEMENT",
  "title": {
-  "zh": null,
+  "zh": "生效公告",
   "en": "NOTIFICATION OF COMMENCEMENT",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 13\n\nPATENTS ORDER, 201 1 (S 5712011) Notification of commencement In exercise of the power conferred by section l ( 1 ) of the Patents Order, 2011, the Attorney General, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 23rd April 2019 as the date on which Part XIX of that Order shall be deemed to have commenced. Dated this 8th. day of Rejab, 1441 Hijriah corresponding to the 3rd. day of March. 2020.\n\nDATO SERI PADLIKA AWANG HAJI HAIROL ARNI BIN HAJI ABDUL MAJID Attorney General. Dicetak oleh Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

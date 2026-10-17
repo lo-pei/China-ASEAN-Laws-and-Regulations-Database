@@ -1,7 +1,7 @@
 {
  "id": "PH-H1390",
  "title": {
-  "zh": null,
+  "zh": "规范并管制畜禽饲料的制造、进口、标签、广告与销售的法案",
   "en": "An Act to Regulate and Control the Manufacture, Importation, Labelling, Advertising and Sale of Livestock and Poultry Feeds",
   "orig": "An Act to Regulate and Control the Manufacture, Importation, Labelling, Advertising and Sale of Livestock and Poultry Feeds"
  },
@@ -161,5 +161,13 @@
     "en": "This Act shall take effect after thirty days from the date of its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Regulate and Control the Manufacture, Importation, Labelling, Advertising and Sale of Livestock and Poultry Feeds",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1059",
  "title": {
-  "zh": null,
+  "zh": "授予La Union Electric Co., Inc.在拉乌尼翁省圣费尔南多、巴旺与圣胡安市镇电灯、热力与动力系统特许经营权的法案",
   "en": "An Act to Grant to the La Union Electric Co., Inc. a Franchise for an Electric Light, Heat and Power System in the Municipalities of San Fernando, Bauang and San Juan, Province of La Union",
   "orig": "An Act to Grant to the La Union Electric Co., Inc. a Franchise for an Electric Light, Heat and Power System in the Municipalities of San Fernando, Bauang and San Juan, Province of La Union"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 17, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Grant to the La Union Electric Co., Inc. a Franchise for an Electric Light, Heat and Power System in the Municipalities of San Fernando, Bauang and San Juan, Province of La Union",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

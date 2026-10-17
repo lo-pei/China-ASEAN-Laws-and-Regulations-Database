@@ -1,7 +1,7 @@
 {
  "id": "PH-H323",
  "title": {
-  "zh": null,
+  "zh": "规定每年12月30日禁止斗鸡、赛马与回力球，并在各市镇与特许城市设立委员会负责黎刹日纪念活动并为其他目的法案",
   "en": "An Act to Prohibit Cockfighting, Horse Racing and Jai-Alai on the Thirtieth Day of December of Each Year and to Create a Committee to Take Charge of the Proper Celebration of Rizal Day in Every Municipality and Chartered City, and for Other Purposes",
   "orig": "An Act to Prohibit Cockfighting, Horse Racing and Jai-Alai on the Thirtieth Day of December of Each Year and to Create a Committee to Take Charge of the Proper Celebration of Rizal Day in Every Municipality and Chartered City, and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 9, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Prohibit Cockfighting, Horse Racing and Jai-Alai on the Thirtieth Day of December of Each Year and to Create a Committee to Take Charge of the Proper Celebration of Rizal Day in Every Municipality and Chartered City, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

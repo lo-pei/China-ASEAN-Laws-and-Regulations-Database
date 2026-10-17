@@ -1,7 +1,7 @@
 {
  "id": "PH-H4148",
  "title": {
-  "zh": null,
+  "zh": "授予 Lingayen 湾开发公司在邦阿西楠省 Sual 市镇安装、运营和维护制冰厂与冷藏库并在该省第一选区各市镇及第二选区 Binmaley 市镇销售和分销冰的特许权法案",
   "en": "An Act Granting the Lingayen Gulf Development Corporation a Franchise to Install, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Sual, Province of Pangasinan, and to Sell and Distribute Ice in the Municipalities Comprising the First Congressional District of Said Province and in the Municipality of Binmaley, of the Second Congressional District, Same Province",
   "orig": "An Act Granting the Lingayen Gulf Development Corporation a Franchise to Install, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Sual, Province of Pangasinan, and to Sell and Distribute Ice in the Municipalities Comprising the First Congressional District of Said Province and in the Municipality of Binmaley, of the Second Congressional District, Same Province"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Lingayen Gulf Development Corporation a Franchise to Install, Operate and Maintain an Ice Plant and Cold Storage in the Municipality of Sual, Province of Pangasinan, and to Sell and Distribute Ice in the Municipalities Comprising the First Congressional District of Said Province and in the Municipality of Binmaley, of the Second Congressional District, Same Province",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

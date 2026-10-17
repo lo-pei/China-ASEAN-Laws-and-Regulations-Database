@@ -1,7 +1,7 @@
 {
  "id": "SG-H476",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（负责任博彩）条例 2013",
   "en": "Casino Control (Responsible Gambling) Regulations 2013",
   "orig": null
  },
@@ -294,5 +294,13 @@
     "en": "15.—(1) If any casino operator, not acting under a direction referred to in regulation 11, makes any change to the approved responsible gambling programme for its casino without first obtaining the approval of the Authority for the change in accordance with these Regulations, the Authority may without prejudice to initiating disciplinary action under the Act, give the casino operator such written directions concerning the responsible gambling programme as the Authority thinks fit, including ––\n(a)in a case where the responsible gambling programme as implemented, nevertheless satisfies the responsible gambling requirements applicable to it, a direction to submit without delay a revised responsible gambling programme for approval or an application for approval of the change, as the case may be; or\n(b)in a case where the responsible gambling programme, as implemented fails to satisfy the responsible gambling requirements applicable to it, a direction to reinstate the approved responsible gambling programme without delay or to take such other action to satisfy the responsible gambling requirements applicable to the casino operator,\n[S 652/2026 wef 21/09/2026]\nand the casino operator shall comply with such written directions.\n(2) Any casino operator which ––\n(a)contravenes regulation 5(1), 6, 8(1), (2), (3) or (7), 9(1), 12(3), 13 or 14(1), (2) or (3) (except where the contravention occurs by virtue of the casino operator complying with a direction under regulation 11);\n(b)fails to comply with a request of the Authority under regulation 10(1); or\n(c)fails to comply with a direction given by the Authority under paragraph (1) or regulation 11(1),\nshall be liable to disciplinary action under section 54 of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Responsible Gambling) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

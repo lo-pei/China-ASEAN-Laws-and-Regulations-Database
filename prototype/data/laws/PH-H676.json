@@ -1,7 +1,7 @@
 {
  "id": "PH-H676",
  "title": {
-  "zh": null,
+  "zh": "修订第613号联邦法（即经修正的1940年《菲律宾移民法》）第46条的法案",
   "en": "An Act to Amend Section Forty-six of Commonwealth Act Numbered Six Hundred and Thirteen, Otherwise Known as the Philippine Immigration Act of Nineteen Hundred and Forty, as Amended",
   "orig": "An Act to Amend Section Forty-six of Commonwealth Act Numbered Six Hundred and Thirteen, Otherwise Known as the Philippine Immigration Act of Nineteen Hundred and Forty, as Amended"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 14, 1952."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Forty-six of Commonwealth Act Numbered Six Hundred and Thirteen, Otherwise Known as the Philippine Immigration Act of Nineteen Hundred and Forty, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

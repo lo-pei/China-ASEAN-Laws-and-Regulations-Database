@@ -1,7 +1,7 @@
 {
  "id": "PH-H494",
  "title": {
-  "zh": null,
+  "zh": "授予Dominador S. Iñigo在卡坦端内斯省Bato市镇经营电灯、热力与动力系统特许经营权的法案",
   "en": "An Act Granting Dominador S. Iñigo a Franchise for an Electric Light, Heat and Power System in the Municipality of Bato, Province of Catanduanes",
   "orig": "An Act Granting Dominador S. Iñigo a Franchise for an Electric Light, Heat and Power System in the Municipality of Bato, Province of Catanduanes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Dominador S. Iñigo a Franchise for an Electric Light, Heat and Power System in the Municipality of Bato, Province of Catanduanes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

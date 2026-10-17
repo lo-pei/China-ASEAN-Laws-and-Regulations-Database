@@ -1,7 +1,7 @@
 {
  "id": "SG-H1512",
  "title": {
-  "zh": null,
+  "zh": "费用（国家法院——刑事管辖权）命令 2014",
   "en": "Fees (State Courts — Criminal Jurisdiction) Order 2014",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nFees relating to criminal proceedings\nFirst column\nSecond column\n1.For every Magistrate’s complaint lodged\n$20.\n2.For every search warrant issued pursuant to a Magistrate’s complaint\n$20.\n3.For every arrest warrant (for each person named in the warrant)\n$20.\n4.For every order of attachment\n$20.\n5.For every notice or summons to an accused person to appear (for each person named in the notice or summons)\n$20.\n6.For every summons to give evidence (for each person named in the summons)\n$20.\n7.For every certificate of conviction or acquittal signed by the Registrar under section 45A(4) of the Evidence Act (Cap. 97)\n$20.\n8.For every application for a copy of any document that is not a judgment, sentence, order or deposition or any other part of the record of proceedings\n$5 for each type of document requested in the application and $0.50 per page of each type of document requested, subject to a total minimum fee of $15 for each type of document requested."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (State Courts — Criminal Jurisdiction) Order 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

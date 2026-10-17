@@ -1,7 +1,7 @@
 {
  "id": "PH-H9107",
  "title": {
-  "zh": null,
+  "zh": "将青年议会选举推迟至2016年10月最后一个星期一，为此修订经修正的第9164号共和国法（即《规定描笼涯与青年议会同步选举法》）并为其他目的法案",
   "en": "An Act Postponing the Sangguniang Kabataan Elections to the Last Monday of October 2016, Amending for the Purpose Republic Act No. 9164, as Amended, Entitled \"An Act Providing for Synchronized Barangay and Sangguniang Kabataan Elections, Amending Republic Act No. 7160, as Amended, Otherwise Known as the 'local Government Code of 1991', and for Other Purposes\"",
   "orig": "An Act Postponing the Sangguniang Kabataan Elections to the Last Monday of October 2016, Amending for the Purpose Republic Act No. 9164, as Amended, Entitled \"An Act Providing for Synchronized Barangay and Sangguniang Kabataan Elections, Amending Republic Act No. 7160, as Amended, Otherwise Known as the 'local Government Code of 1991', and for Other Purposes\""
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Postponing the Sangguniang Kabataan Elections to the Last Monday of October 2016, Amending for the Purpose Republic Act No. 9164, as Amended, Entitled \"An Act Providing for Synchronized Barangay and Sangguniang Kabataan Elections, Amending Republic Act No. 7160, as Amended, Otherwise Known as the 'local Government Code of 1991', and for Other Purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

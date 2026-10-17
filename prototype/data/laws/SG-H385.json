@@ -1,7 +1,7 @@
 {
  "id": "SG-H385",
  "title": {
-  "zh": null,
+  "zh": "建筑维护与分层管理（分层管理账目——豁免）命令",
   "en": "Building Maintenance and Strata Management (Strata Management Accounts — Exemption) Order",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. A management corporation for a strata title plan with at least 5 but not more than 10 lots shall be exempt from section 45(2) of the Act in respect of its books and accounts for any financial year where, pursuant to a resolution by consensus, the management corporation approves that its books and accounts in respect of that financial year may be audited by any of its subsidiary proprietors in place of a public accountant within the meaning of the Companies Act (Cap 50).\n[G.N. No. S 199/2005]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Maintenance and Strata Management (Strata Management Accounts — Exemption) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

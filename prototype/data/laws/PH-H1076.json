@@ -1,7 +1,7 @@
 {
  "id": "PH-H1076",
  "title": {
-  "zh": null,
+  "zh": "修订第141号联邦法（通称公共土地法，经修正）第20条的法案",
   "en": "An Act to Amend Section Twenty of Commonwealth Act Numbered One Hundred and Forty-One, Commonly Known as the Public Land Act, as Amended",
   "orig": "An Act to Amend Section Twenty of Commonwealth Act Numbered One Hundred and Forty-One, Commonly Known as the Public Land Act, as Amended"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 10, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Twenty of Commonwealth Act Numbered One Hundred and Forty-One, Commonly Known as the Public Land Act, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

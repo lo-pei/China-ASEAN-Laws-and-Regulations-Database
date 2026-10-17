@@ -1,7 +1,7 @@
 {
  "id": "PH-H5213",
  "title": {
-  "zh": null,
+  "zh": "规定在菲律宾所有描笼涯建设水井、雨水收集设施、开发泉水并修复现有水井的法案",
   "en": "An Act Providing for the Construction of Water Wells, Rainwater Collectors, Development of Springs and Rehabilitation of Existing Water Wells in All Barangays in the Philippines",
   "orig": "An Act Providing for the Construction of Water Wells, Rainwater Collectors, Development of Springs and Rehabilitation of Existing Water Wells in All Barangays in the Philippines"
  },
@@ -101,5 +101,13 @@
     "en": "Effectivity . — This Act shall take effect upon publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Construction of Water Wells, Rainwater Collectors, Development of Springs and Rehabilitation of Existing Water Wells in All Barangays in the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

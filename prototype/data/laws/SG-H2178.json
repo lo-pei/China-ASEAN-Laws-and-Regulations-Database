@@ -1,7 +1,7 @@
 {
  "id": "SG-H2178",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发利息及其他付款豁免）公告 2006",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2006",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from tax the interest payable by United Overseas Bank Limited to UOB Cayman I Limited on the subordinated intercompany note issued by United Overseas Bank Limited on 13th December 2005.\n(2) The exemption is subject to the conditions specified in the letter of approval dated 24th October 2005 addressed to the lawyers of United Overseas Bank Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

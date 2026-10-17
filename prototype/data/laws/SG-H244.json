@@ -1,7 +1,7 @@
 {
  "id": "SG-H244",
  "title": {
-  "zh": null,
+  "zh": "认可医院与医疗机构",
   "en": "Approved Hospitals and Medical Institutions",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Medical Endowment Scheme Act\n(Chapter 173A, Section 10)\nApproved Hospitals and Medical Institutions\nN 1\nG.N. No. S 258/1997\nREVISED EDITION 1998\n(15th June 1998)\n[1st April 1993]\nThe Minister for Health has approved the following hospitals and medical institutions for the purposes of the Act:\n(1)Alexandra Hospital.\n(2)Ang Mo Kio Community Hospital.\n(3)Changi General Hospital.\n(4)KK Women’s and Children’s Hospital.\n(5)National Skin Centre.\n(6)National University Hospital.\n(7)Singapore General Hospital.\n(8)Singapore National Eye Centre.\n(9)Tan Tock Seng Hospital.\n(10)Woodbridge Hospital/Institute of Mental Health.\n[G.N. No. S 258/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Approved Hospitals and Medical Institutions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

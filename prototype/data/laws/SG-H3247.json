@@ -1,7 +1,7 @@
 {
  "id": "SG-H3247",
  "title": {
-  "zh": null,
+  "zh": "新加坡金融管理局（记账式 MAS 证券与一级交易商）条例 2013",
   "en": "Monetary Authority of Singapore (Book-Entry MAS Securities and Primary Dealers) Regulations 2013",
   "orig": null
  },
@@ -335,5 +335,13 @@
     "en": "23.—(1) These Regulations do not apply to any issue of book‑entry MAS securities which is not offered to the public for purchase by way of a public notice.\n(2) The manner in which, and the terms and conditions under which, the book‑entry MAS securities mentioned in paragraph (1) may be issued are to be as determined by the Authority."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Monetary Authority of Singapore (Book-Entry MAS Securities and Primary Dealers) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

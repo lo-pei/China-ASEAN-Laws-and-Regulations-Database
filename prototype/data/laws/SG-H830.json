@@ -1,7 +1,7 @@
 {
  "id": "SG-H830",
  "title": {
-  "zh": null,
+  "zh": "植物管制（植物检疫认证）规则",
   "en": "Control of Plants (Phytosanitary Certification) Rules",
   "orig": null
  },
@@ -201,5 +201,13 @@
     "en": "SECOND SCHEDULE\nRules 6, 7 and 9\nService rendered\nFee payable\n(1) Inspection and certification of plants, plant products, fresh cut flowers or other regulated articles\n(a) Non-commercial $12 per consignment for the following:\n(i) Plants not exceeding 10 numbers or flasks;\n(ii) Plant products not exceeding 5 kg;\n(iii) Fresh cut flowers not exceeding 24 stalks or numbers ;\n(iv) Other regulated articles not exceeding 5 kg.\n(b) Commercial $50 per consignment for the following:\n(i) Plants exceeding 10 numbers or flasks;\n(ii) Plant products exceeding 5 kg;\n(iii) Fresh cut flowers exceeding 24 stalks or numbers ;\n(iv) Other regulated articles exceeding 5 kg.\n(2) Certification of plants, plant products , fresh cut flowers or other regulated articles under the Assurance Certification Scheme\n$32 per consignment.\n(3) Laboratory examination of flowers, plants , plant products or other regulated articles for any pest or pathogen\n$50 per pest examination.\n(4) Issuance of replacement set of phytosanitary certificate\n$12 per set.\n(5) Endorsement of treatment certificate or duplicate phytosanitary certificate\n$15 per set.\n(6) Professional service fee\n(a) $63 per hour or part thereof;\n(b) $133 per hour or part thereof (outside office hours or on an urgent basis).\n(7) Technical service fee\n(a) $38 per hour or part thereof;\n(b) $80 per hour or part thereof (outside office hours or on an urgent basis).\n[S 323/2005 wef 01/06/2005]\n[G.N. Nos. S 490/94; S369/96; S149/97; S138/98; S 39/99; S 92/2000; S 323/2005; S 452/2006; S 380/2009 ]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Control of Plants (Phytosanitary Certification) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

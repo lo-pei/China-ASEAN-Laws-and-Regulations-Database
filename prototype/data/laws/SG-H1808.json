@@ -1,7 +1,7 @@
 {
  "id": "SG-H1808",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（电梯翻新工程分区）命令 2021",
   "en": "Housing and Development (Precincts for Lift Upgrading Works) Order 2021",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nAll that part of the housing estate of the Board at Pasir Ris Street 12 comprised in Lot number 04972P in Mukim 31 and on which Apartment Block 193 is erected, and which is more particularly delineated in the Plan.\nTHE PLAN\nPASIR RIS STREET 12"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Lift Upgrading Works) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

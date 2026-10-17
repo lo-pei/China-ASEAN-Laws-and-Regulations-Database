@@ -1,7 +1,7 @@
 {
  "id": "SG-H2153",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发利息及其他付款豁免）（第 2 号）公告 2019",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 2) Notification 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The amount of US$297,632.25 payable by Pacific International Lines (Private) Limited to BNP Paribas, Tokyo Branch, being the total of the arrangement fee, agency fee and security trustee fee payable in respect of the loan agreement entered into between Shark Ltd. and BNP Paribas, Tokyo Branch dated 26 December 2017, for the purpose of financing the purchase of containers by Shark Ltd., is exempt from tax.\n(2) The interest of US$3,670,107.27 payable by Pacific International Lines (Private) Limited to Shark Ltd. in respect of the leasing of the containers mentioned in sub‑paragraph (1) under an equipment lease agreement dated 26 December 2017, is exempt from tax.\n(3) The exemptions in sub‑paragraphs (1) and (2) are subject to the conditions specified in the letter of approval dated 10 July 2018 issued by the Ministry of Finance and addressed to Pacific International Lines (Private) Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 2) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

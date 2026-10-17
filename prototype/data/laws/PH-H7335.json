@@ -1,7 +1,7 @@
 {
  "id": "PH-H7335",
  "title": {
-  "zh": null,
+  "zh": "将卡林加省Pinukpuk市镇的Ammacian中学（即Pinukpuk职业中学附属校）分离为独立的Cal-Owan农业职业国立中学，并拨款",
   "en": "An Act Separating the Ammacian Barangay High School, Also Known as Pinukpuk Vocational School-Ammacian Annex in the Municipality of Pinukpuk, Province of Kalinga, From the Pinukpuk Vocational School in the Municipality of Pinukpuk, and Converting It Into a National Agricultural and Vocational High School to Be Known as the Cal-Owan Agricultural and Vocational National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Ammacian Barangay High School, Also Known as Pinukpuk Vocational School-Ammacian Annex in the Municipality of Pinukpuk, Province of Kalinga, From the Pinukpuk Vocational School in the Municipality of Pinukpuk, and Converting It Into a National Agricultural and Vocational High School to Be Known as the Cal-Owan Agricultural and Vocational National High School, and Appropriating Funds Therefor"
  },
@@ -92,5 +92,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 22, 2000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Ammacian Barangay High School, Also Known as Pinukpuk Vocational School-Ammacian Annex in the Municipality of Pinukpuk, Province of Kalinga, From the Pinukpuk Vocational School in the Municipality of Pinukpuk, and Converting It Into a National Agricultural and Vocational High School to Be Known as the Cal-Owan Agricultural and Vocational National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1234",
  "title": {
-  "zh": null,
+  "zh": "电子交易（认证机构）条例 2010",
   "en": "Electronic Transactions (Certification Authority) Regulations 2010",
   "orig": null
  },
@@ -624,5 +624,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nAccreditation Mark for Accredited\nCertification Authorities"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Electronic Transactions (Certification Authority) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

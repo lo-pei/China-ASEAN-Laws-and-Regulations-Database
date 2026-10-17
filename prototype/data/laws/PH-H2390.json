@@ -1,7 +1,7 @@
 {
  "id": "PH-H2390",
  "title": {
-  "zh": null,
+  "zh": "将莱特省Palo市镇至Carigara市镇之间的国道铺设为混凝土路面并为此拨款的法案",
   "en": "An Act Providing for the Paving with Concrete of the National Highway from the Municipality of Palo to the Municipality of Carigara in the Province of Leyte",
   "orig": "An Act Providing for the Paving with Concrete of the National Highway from the Municipality of Palo to the Municipality of Carigara in the Province of Leyte"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Paving with Concrete of the National Highway from the Municipality of Palo to the Municipality of Carigara in the Province of Leyte",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

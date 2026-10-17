@@ -1,7 +1,7 @@
 {
  "id": "SG-H188",
  "title": {
-  "zh": null,
+  "zh": "游乐设施安全（消防与救援管理系统）条例 2011",
   "en": "Amusement Rides Safety (Fire and Rescue Management System) Regulations 2011",
   "orig": null
  },
@@ -304,5 +304,13 @@
     "en": "THE SCHEDULE\nRegulations 3(1),\n9(1)(c) and 15(2)\nFees\n1.Application for an approval —\n(a)for a major amusement ride\n$215\n(b)for any other amusement ride\n$130\n2.Application for the issue or renewal of a certificate of compliance —\n(a)for a major amusement ride\n$215\n(b)for any other amusement ride\n$190\n3.Application for a waiver under regulation 15\n$175.\n[S 651/2017 wef 01/02/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Amusement Rides Safety (Fire and Rescue Management System) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

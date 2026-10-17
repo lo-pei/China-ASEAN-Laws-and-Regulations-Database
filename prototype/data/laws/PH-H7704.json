@@ -1,7 +1,7 @@
 {
  "id": "PH-H7704",
  "title": {
-  "zh": null,
+  "zh": "修订经修正的 1997 年《国家国内税收法典》若干条，将若干服务排除在增值税征收范围之外，并自 2004 年 1 月 1 日起对银行及从事准银行业务的非银行金融中介重新征收毛收入税",
   "en": "An act amending certain sections of the National Internal Revenue Code of 1997, as amended, by excluding several services from the coverage of the value-added tax and re-imposing the gross receipts tax on banks and non-bank financial intermediaries performing quasi-banking functions and other non-bank financial intermediaries beginning January 01, 2004",
   "orig": "An act amending certain sections of the National Internal Revenue Code of 1997, as amended, by excluding several services from the coverage of the value-added tax and re-imposing the gross receipts tax on banks and non-bank financial intermediaries performing quasi-banking functions and other non-bank financial intermediaries beginning January 01, 2004"
  },
@@ -110,5 +110,13 @@
     "en": "Effectivity Clause. – This Act shall take effect on January 1, 2004."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act amending certain sections of the National Internal Revenue Code of 1997, as amended, by excluding several services from the coverage of the value-added tax and re-imposing the gross receipts tax on banks and non-bank financial intermediaries performing quasi-banking functions and other non-bank financial intermediaries beginning January 01, 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

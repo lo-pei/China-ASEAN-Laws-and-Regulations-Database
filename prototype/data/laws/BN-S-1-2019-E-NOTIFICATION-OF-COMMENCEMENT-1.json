@@ -1,7 +1,7 @@
 {
  "id": "BN-S-1-2019-E-NOTIFICATION-OF-COMMENCEMENT-1",
  "title": {
-  "zh": null,
+  "zh": "生效公告(1)",
   "en": "NOTIFICATION OF COMMENCEMENT(1)",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "19th. JANUARY, 2019 No. S 1\n\nHIBAH ORDER, 2018 (S 1012018) Notification of commencement In exercise of the power conferred by section l(1) of the Hibah Order, 2018, the Minister of Religious Affairs, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 24th Rabiulakhir 1440 Hijriah corresponding to 1st January 2019 as the date on which that Order shall commence. Dated this 13th. day of Jamadilawal, 1440 Hijriah corresponding to the 19th. day of January, 2019.\n\nPEHIN UDANA KHATIB DATO PADUKA SERI SETIA USTAZ\n\nHAJI AWANG BADARUDDIN BIN PENGARAH\n\nDATO PADUKA HAJI AWANG OTHMAN Minister of Religious Affairs, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT(1)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

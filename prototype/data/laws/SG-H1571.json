@@ -1,7 +1,7 @@
 {
  "id": "SG-H1571",
  "title": {
-  "zh": null,
+  "zh": "金融服务与市场（人员资产冻结——也门）条例 2023",
   "en": "Financial Services and Markets (Freezing of Assets of Persons — Yemen) Regulations 2023",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "8.—(1) Any funds, financial assets or economic resources frozen under regulation 5(1) of the revoked Regulations are treated as frozen under regulation 5(1) of these Regulations.\n(2) Any determination made by the Authority under regulation 5(3) of the revoked Regulations and which was in force immediately before 28 April 2023 is treated as a determination made by the Authority under regulation 5(3) of these Regulations.\n(3) Any information provided by a financial institution under regulation 6 of the revoked Regulations is treated as having been provided under regulation 6 of these Regulations, and any requirement of the Authority to provide further information under regulation 6 of the revoked Regulations is treated as a requirement of the Authority to provide further information under regulation 6 of these Regulations."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Financial Services and Markets (Freezing of Assets of Persons — Yemen) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

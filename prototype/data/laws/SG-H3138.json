@@ -1,7 +1,7 @@
 {
  "id": "SG-H3138",
  "title": {
-  "zh": null,
+  "zh": "药品（自动售货机销售）条例 2016",
   "en": "Medicines (Sale by Automatic Machines) Regulations 2016",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. For the purposes of section 26 of the Act, the conditions for a person to sell or offer for sale an automatic machine medicinal product by means of an automatic machine are —\n(a)that the name and contact information of the person are prominently displayed on the automatic machine;\n(b)that the automatic machine is sufficiently equipped and secure to ensure appropriate storage conditions for the medicinal product; and\n(c)that the total amount of the medicinal product in each package of the product sold or offered for sale does not exceed a total dosage of 3 months per individual user based on the dosage recommendations, if applicable, on the product label."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Medicines (Sale by Automatic Machines) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

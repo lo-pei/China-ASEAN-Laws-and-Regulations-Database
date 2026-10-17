@@ -1,7 +1,7 @@
 {
  "id": "PH-H464",
  "title": {
-  "zh": null,
+  "zh": "规定对违反森林法规所收取的全部罚款与附加费在国民政府与相关市、市镇或市镇区之间平均分配的法案",
   "en": "An Act Providing for An Equal Distribution Between the National Government and the City, Municipality or Municipal District Concerned, of All Fines and Surcharges Collected for Violations of Forest Laws and Regulations",
   "orig": "An Act Providing for An Equal Distribution Between the National Government and the City, Municipality or Municipal District Concerned, of All Fines and Surcharges Collected for Violations of Forest Laws and Regulations"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 14, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for An Equal Distribution Between the National Government and the City, Municipality or Municipal District Concerned, of All Fines and Surcharges Collected for Violations of Forest Laws and Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

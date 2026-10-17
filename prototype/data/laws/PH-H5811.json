@@ -1,7 +1,7 @@
 {
  "id": "PH-H5811",
  "title": {
-  "zh": null,
+  "zh": "通过给予雇主激励，帮助贫困但优秀的学生在暑假及/或圣诞假期就业以继续学业，雇主仅支付其薪金六成、其余四成由政府以教育券支付，并处罚虚假索赔",
   "en": "An Act to Help Poor But Deserving Students Pursue Their Education By Encouraging Their Employment During Summer And/Or Christmas Vacations, Through Incentives Granted to Employers, Allowing Them to Pay Only Sixty Per Centum of Their Salaries or Wages and the Forty Per Centum Through Education Vouchers to Be Paid By the Government, Prohibiting and Penalizing the Filing of Fraudulent or Fictitious Claims, and for Other Purposes",
   "orig": "An Act to Help Poor But Deserving Students Pursue Their Education By Encouraging Their Employment During Summer And/Or Christmas Vacations, Through Incentives Granted to Employers, Allowing Them to Pay Only Sixty Per Centum of Their Salaries or Wages and the Forty Per Centum Through Education Vouchers to Be Paid By the Government, Prohibiting and Penalizing the Filing of Fraudulent or Fictitious Claims, and for Other Purposes"
  },
@@ -102,5 +102,13 @@
     "en": "This Act shall take effect after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Help Poor But Deserving Students Pursue Their Education By Encouraging Their Employment During Summer And/Or Christmas Vacations, Through Incentives Granted to Employers, Allowing Them to Pay Only Sixty Per Centum of Their Salaries or Wages and the Forty Per Centum Through Education Vouchers to Be Paid By the Government, Prohibiting and Penalizing the Filing of Fraudulent or Fictitious Claims, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

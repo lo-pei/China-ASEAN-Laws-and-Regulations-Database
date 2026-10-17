@@ -1,7 +1,7 @@
 {
  "id": "SG-H1354",
  "title": {
-  "zh": null,
+  "zh": "环境公共卫生（墓地）条例",
   "en": "Environmental Public Health (Cemeteries) Regulations",
   "orig": null
  },
@@ -241,5 +241,13 @@
     "en": "THE SCHEDULE\nRegulation 12\nFees\n1.Fees for burials:\nAdults and children\nof and above\n10 years of age\nChildren\nbelow 10 years\nof age, or stillborn children\n(a)for a deceased person who was a citizen of Singapore or a permanent resident of Singapore at the time of death, or for a stillborn child that would have been a citizen of Singapore at birth had the child been born alive:\n(i)Choa Chu Kang Muslim Cemetery\n$315\n$140\n(ii)Choa Chu Kang Ahmaddiya Jama’at Cemetery\n$315\n$140\n(iii)Choa Chu Kang Jewish Cemetery\n$315\n$140\n(iv)Choa Chu Kang Parsi Cemetery\n$315\n$140\n(v)Choa Chu Kang Bahai Cemetery\n$315\n$140\n(vi)all Government cemeteries other than those mentioned in sub‑paragraphs (i) to (v)\n$940\n$420\n(b)for a deceased person who was not a citizen of Singapore or a permanent resident of Singapore at the time of death, or for a stillborn child that would not have been a citizen of Singapore at birth had the child been born alive\n$1,880\n$940\n2.Licence for exhumation\n$14 per grave\n2A.Fee for use of ash scattering facility\n$320\n3.Miscellaneous fees:\n(a)search fee\n$20\n(b)certified extract from register of burials\n$20\nNote:\nIn this Schedule, “permanent resident of Singapore”, for a deceased person, means a deceased person who, at the time of death, was the holder of a valid entry permit issued under section 10 of the Immigration Act 1959 or a valid re-entry permit issued under section 11 of that Act, that allowed the person to remain in Singapore indefinitely without restriction.\n[S 416/2022 wef 29/05/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Public Health (Cemeteries) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

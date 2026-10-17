@@ -1,7 +1,7 @@
 {
  "id": "SG-H818",
  "title": {
-  "zh": null,
+  "zh": "消费者保护（安全要求）条例",
   "en": "Consumer Protection (Safety Requirements) Regulations",
   "orig": null
  },
@@ -466,5 +466,11 @@
     "en": "THIRD SCHEDULE\nRegulation 7(1) and (2)\nFees\n1. — (1) Application for registration as registered controlled goods\n$180\n(2) Application for renewal of registration of registered controlled goods\n$50\n(3) [Deleted by S 429/2025 wef 01/07/2025]\n(4) [Deleted by S 429/2025 wef 01/07/2025]\n2. [Deleted by S 429/2025 wef 01/07/2025]\n[S 429/2025 wef 01/07/2025]\n[S 14/2018 wef 15/01/2018]\n[S 429/2025 wef 01/07/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Consumer Protection (Safety Requirements) Regulations",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

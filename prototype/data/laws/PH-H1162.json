@@ -1,7 +1,7 @@
 {
  "id": "PH-H1162",
  "title": {
-  "zh": null,
+  "zh": "修订第 632 号共和国法，扩大菲律宾糖业研究所的权力、职能与职责、规定其经费并为其他目的",
   "en": "An Act to Amend Republic Act Numbered Six Hundred and Thirty-Two, by Enlarging the Powers, Functions and Duties of the Philippine Sugar Institute, Providing for the Financing Thereof, and for Other Purposes",
   "orig": "An Act to Amend Republic Act Numbered Six Hundred and Thirty-Two, by Enlarging the Powers, Functions and Duties of the Philippine Sugar Institute, Providing for the Financing Thereof, and for Other Purposes"
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H1162-A2_2",
+   "id": "PH-H1162-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Section three of Republic Act Numbered Six hundred and thirty-two is hereby amended to read as follows:"
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H1162-A3",
@@ -81,14 +82,15 @@
    }
   },
   {
-   "id": "PH-H1162-A3_2",
+   "id": "PH-H1162-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "A section is hereby inserted between sections sixteen and seventeen of Republic Act Numbered Six hundred and thirty-two, to be known as section sixteen-A, to read as follows:\nSection 16- A. The proceeds of all collections made under Commonwealth Act Numbered Five hundred and sixty-seven, shall constitute a special fund and accrue to the Sugar Research and Stabilization Fund which shall likewise be available for the maintenance, operation and use of the Philippine Sugar Institute.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H1162-A4",
@@ -100,5 +102,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Six Hundred and Thirty-Two, by Enlarging the Powers, Functions and Duties of the Philippine Sugar Institute, Providing for the Financing Thereof, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

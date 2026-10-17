@@ -1,7 +1,7 @@
 {
  "id": "PH-H1206",
  "title": {
-  "zh": null,
+  "zh": "规定按菲律宾大学采用的薪金标准调整菲律宾师范学院教职员工薪金的法案",
   "en": "An Act Providing for the Adjustment of the Salaries of the Members of the Faculty of the Philippine Normal College in Accordance with the Salary Scale Used by the University of the Philippines",
   "orig": "An Act Providing for the Adjustment of the Salaries of the Members of the Faculty of the Philippine Normal College in Accordance with the Salary Scale Used by the University of the Philippines"
  },
@@ -50,5 +50,13 @@
     "en": "The provisions of law and especially of sections three and four of Commonwealth Act Numbered Four hundred two and the interpretations thereof by the Salary Board and other competent authority to the con­trary notwithstanding, the minimum and maximum rates of annual compensation of the members of the faculty of the Philippine Normal College as hereby classified shall be as follows:\nProfessorial Rank\nEducational Attainment\nSalary range Professor Ph. D., Ed. D.\nP7,320.00—P8,760.00\nM. A., M. Ed 6,960.00—8,400.00 Associate Ph. D., Ed. D.\n5,940.00—6,540.00 Professor\nM. A., M. Ed.\n5,640.00—6,360.00 Assistant Ph. D., Ed. D.\n4,620.00—5,220.00 Professor\nM. A., M. Ed.\n4,320.00—3,840.00 Instructor\nM. A., M. Ed.\n3,240.00—3,840.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Adjustment of the Salaries of the Members of the Faculty of the Philippine Normal College in Accordance with the Salary Scale Used by the University of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

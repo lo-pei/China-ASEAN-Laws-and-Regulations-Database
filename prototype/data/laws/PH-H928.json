@@ -1,7 +1,7 @@
 {
  "id": "PH-H928",
  "title": {
-  "zh": null,
+  "zh": "对逃税及故意拒缴税款的外侨以驱逐出境处罚的法案",
   "en": "An Act to Punish Tax Evasion and Wilful Refusal to Pay Taxes by Aliens with Deportation",
   "orig": "An Act to Punish Tax Evasion and Wilful Refusal to Pay Taxes by Aliens with Deportation"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Punish Tax Evasion and Wilful Refusal to Pay Taxes by Aliens with Deportation",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

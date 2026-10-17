@@ -1,7 +1,7 @@
 {
  "id": "PH-H2988",
  "title": {
-  "zh": null,
+  "zh": "将卡皮斯省地籍测量第1、2-A、2-B、3、4、5、6、7与8号地块（位于Roxas市Culasi村）的占有、控制与所有权由国民政府移交给Roxas市的法案",
   "en": "An Act Transferring the Possession, Control and Ownership of Lots Nos. 1, 2-A, 2-B, 3, 4, 5, 6, 7, and 8 of the Cadastral Survey of the Province of Capiz Situated in Barrio Culasi, City of Roxas, from the National Government to the City of Roxas",
   "orig": "An Act Transferring the Possession, Control and Ownership of Lots Nos. 1, 2-A, 2-B, 3, 4, 5, 6, 7, and 8 of the Cadastral Survey of the Province of Capiz Situated in Barrio Culasi, City of Roxas, from the National Government to the City of Roxas"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring the Possession, Control and Ownership of Lots Nos. 1, 2-A, 2-B, 3, 4, 5, 6, 7, and 8 of the Cadastral Survey of the Province of Capiz Situated in Barrio Culasi, City of Roxas, from the National Government to the City of Roxas",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

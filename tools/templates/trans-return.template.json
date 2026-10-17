@@ -1,0 +1,104 @@
+{
+  "_template": "CALR 译本回执 · receipt.json 骨架（calr-trans-v2）。回执包是一个目录：receipt.json + returns/ + glossary-additions.json + unresolved.json。本文件仅示意字段。",
+  "_requiredDirLayout": [
+    "receipt.json",
+    "returns/<lawId>.<shardId>.json",
+    "glossary-additions.json",
+    "unresolved.json"
+  ],
+  "formatVersion": "calr-trans-v2",
+  "jobId": "CALR-TRANS-BN-TH-2026-10-11-0001",
+  "targetLang": "th",
+  "provenance": {
+    "engine": "llm",
+    "model": "deepseek-chat",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-11",
+    "reviewed": "machine",
+    "glossaryVersion": "2026-10"
+  },
+  "coverage": [
+    {
+      "lawId": "BN-CAP-22-2021-E-PENAL-CODE-ACT",
+      "sourceSha256": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
+      "sourceArticleCount": 442,
+      "returnedArticleCount": 442,
+      "shards": ["001", "002", "003"],
+      "missingNos": [],
+      "extraNos": [],
+      "unresolvedCount": 0
+    }
+  ],
+  "selfCheck": {
+    "ranAt": "2026-10-11T20:00:00+08:00",
+    "command": "node tools/verify-trans-return.js CALR-TRANS-BN-TH-2026-10-11-0001-RETURN --job CALR-TRANS-BN-TH-2026-10-11-0001",
+    "result": "全部通过",
+    "exitCode": 0,
+    "C1": true,
+    "C2": true,
+    "C3": true,
+    "C4": true,
+    "C5": true,
+    "C6": true,
+    "C7": true,
+    "C8": true,
+    "C9": true,
+    "C10": true
+  },
+  "_returnFileSkeleton": {
+    "formatVersion": "calr-trans-v2",
+    "jobId": "CALR-TRANS-BN-TH-2026-10-11-0001",
+    "lawId": "BN-CAP-22-2021-E-PENAL-CODE-ACT",
+    "shardId": "001",
+    "sourceLang": "en",
+    "targetLang": "th",
+    "provenance": {
+      "engine": "llm",
+      "model": "deepseek-chat",
+      "promptVersion": "calr-trans-v2",
+      "translatedAt": "2026-10-11",
+      "reviewed": "machine",
+      "glossaryVersion": "2026-10"
+    },
+    "articles": [
+      {
+        "no": 1,
+        "noLabel": { "th": "มาตรา 1" },
+        "text": { "th": "…" }
+      }
+    ],
+    "_notes": [
+      "heading / chapter 仅在原文有时才写；原文没有而译文自造 = 红线",
+      "text 的语言键必须且只能是 targetLang",
+      "no 必须与原文完全一致；原文跳号/重复条号照抄，不得补号、去重、重排",
+      "不得出现 ……、（略）、待补、TODO；不得写免责话术",
+      "articles 每片 ≤ 200 条、单文件 ≤ 2 MB"
+    ]
+  },
+  "_glossaryAdditionsSkeleton": {
+    "glossaryVersion": "2026-10",
+    "targetLang": "th",
+    "additions": [
+      {
+        "src": "Syariah Court",
+        "tgt": "ศาลชะรีอะฮ์ (Syariah Court)",
+        "authority": "fallback",
+        "reason": "目标法域无官方对应机构，按 SKILL §4.5 采用「译名（原文）」格式",
+        "firstSeenAt": { "lawId": "BN-CAP-22-2021-E-PENAL-CODE-ACT", "no": 12 }
+      }
+    ]
+  },
+  "_unresolvedSkeleton": {
+    "formatVersion": "calr-trans-v2",
+    "jobId": "CALR-TRANS-BN-TH-2026-10-11-0001",
+    "items": [
+      {
+        "lawId": "BN-CAP-22-2021-E-PENAL-CODE-ACT",
+        "no": 57,
+        "span": "the amount of $10,000",
+        "reason": "源文本该处为 OCR 残损，金额形态可疑（S10,OOO），无法确定币种与数值",
+        "action": "keptSource"
+      }
+    ]
+  }
+}

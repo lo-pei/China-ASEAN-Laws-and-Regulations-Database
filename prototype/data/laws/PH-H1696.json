@@ -1,7 +1,7 @@
 {
  "id": "PH-H1696",
  "title": {
-  "zh": null,
+  "zh": "将经修正的第 340 号共和国法的福利扩及依第 190 号联邦法、第 340 号共和国法、第 4151 号法退休或依《国防法》第 22 条第（g）款离职的特定军人",
   "en": "An Act to Extend the Benefits of Republic Act Numbered Three Hundred Forty, as Amended, to Certain Military Persons Heretofore Retired Under Commonwealth Act Numbered One Hundred Ninety, or Retired Under Republic Act Numbered Three Hundred Forty with Effective Date of Retirement Prior to January One, Nineteen Hundred Fifty-Five, or Retired Under Act Numbered Forty-One Hundred Fifty-One, or Separated Under Subsection (g), Section Twenty-Two of the National Defense Act",
   "orig": "An Act to Extend the Benefits of Republic Act Numbered Three Hundred Forty, as Amended, to Certain Military Persons Heretofore Retired Under Commonwealth Act Numbered One Hundred Ninety, or Retired Under Republic Act Numbered Three Hundred Forty with Effective Date of Retirement Prior to January One, Nineteen Hundred Fifty-Five, or Retired Under Act Numbered Forty-One Hundred Fifty-One, or Separated Under Subsection (g), Section Twenty-Two of the National Defense Act"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Extend the Benefits of Republic Act Numbered Three Hundred Forty, as Amended, to Certain Military Persons Heretofore Retired Under Commonwealth Act Numbered One Hundred Ninety, or Retired Under Republic Act Numbered Three Hundred Forty with Effective Date of Retirement Prior to January One, Nineteen Hundred Fifty-Five, or Retired Under Act Numbered Forty-One Hundred Fifty-One, or Separated Under Subsection (g), Section Twenty-Two of the National Defense Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

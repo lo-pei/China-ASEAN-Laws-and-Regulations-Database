@@ -1,7 +1,7 @@
 {
  "id": "PH-H4659",
  "title": {
-  "zh": null,
+  "zh": "规定选举委员会主席与委员、工业关系法院法官、司法监督官与助理总检察长的薪金并为其他目的法案",
   "en": "An Act Fixing the Salaries of the Chairman and Members of the Commission on Elections, the Judges of the Court of Industrial Relations, the Judicial Superintendent and the Assistant Solicitors General, and for Other Purposes",
   "orig": "An Act Fixing the Salaries of the Chairman and Members of the Commission on Elections, the Judges of the Court of Industrial Relations, the Judicial Superintendent and the Assistant Solicitors General, and for Other Purposes"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Fixing the Salaries of the Chairman and Members of the Commission on Elections, the Judges of the Court of Industrial Relations, the Judicial Superintendent and the Assistant Solicitors General, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4700",
  "title": {
-  "zh": null,
+  "zh": "授予 Jesus S. Yujuico 在马尼拉市建设、运营和维护制冰厂与冷藏库，并在 Caloocan 市及黎刹省 Navotas 等市镇销售冰和供应冷藏的特许权法案",
   "en": "An Act Granting Jesus S. Yujuico a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the City of Manila and to Sell and Distribute Ice So Manufactured and Furnish Cold Storage Therein and in the City of Caloocan, and in the Municipalities of Navotas, Malabon and San Juan, All in the Province of Rizal",
   "orig": "An Act Granting Jesus S. Yujuico a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the City of Manila and to Sell and Distribute Ice So Manufactured and Furnish Cold Storage Therein and in the City of Caloocan, and in the Municipalities of Navotas, Malabon and San Juan, All in the Province of Rizal"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Jesus S. Yujuico a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the City of Manila and to Sell and Distribute Ice So Manufactured and Furnish Cold Storage Therein and in the City of Caloocan, and in the Municipalities of Navotas, Malabon and San Juan, All in the Province of Rizal",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

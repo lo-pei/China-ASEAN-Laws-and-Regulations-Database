@@ -1,7 +1,7 @@
 {
  "id": "PH-H1803",
  "title": {
-  "zh": null,
+  "zh": "规定每年举办彩票以惠及菲律宾心理健康协会，并为此修订第1169号共和国法（经修正）的法案",
   "en": "An Act Providing for the Holding of a Lottery Annually for the Benefit of the Philippine Mental Health Association, Amending for the Purpose Republic Act Numbered Eleven Hundred Sixty-Nine, as Amended",
   "orig": "An Act Providing for the Holding of a Lottery Annually for the Benefit of the Philippine Mental Health Association, Amending for the Purpose Republic Act Numbered Eleven Hundred Sixty-Nine, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 13, 1958."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Holding of a Lottery Annually for the Benefit of the Philippine Mental Health Association, Amending for the Purpose Republic Act Numbered Eleven Hundred Sixty-Nine, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

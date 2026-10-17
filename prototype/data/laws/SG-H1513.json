@@ -1,7 +1,7 @@
 {
  "id": "SG-H1513",
  "title": {
-  "zh": null,
+  "zh": "费用（统计）命令",
   "en": "Fees (Statistics) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be payable at the office of the Chief Statistician the following fees:\n(a)for every A4 size page or part thereof of any return that can be compiled from the Department’s data\n...\n$12.40\n(b)for every special return involving a special compilation and analysis\nFees to be arranged between applicant and the Chief Statistician.\n[S 172/2005 wef 01/04/2005]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Statistics) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

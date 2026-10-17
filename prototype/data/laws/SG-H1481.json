@@ -1,7 +1,7 @@
 {
  "id": "SG-H1481",
  "title": {
-  "zh": null,
+  "zh": "饲料（罪行构成）规则",
   "en": "Feeding Stuffs (Composition of Offences) Rules",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The following offences may be compounded by the Director-General, or any officer authorised by him, in accordance with section 199A of the Criminal Procedure Code:\n(a)an offence under section 4(5) or 10 of the Act; and\n(b)any offence under the Feeding Stuffs (Licensing, Analysis and Fees) Rules (R 1).\n(2) The Director-General, or any officer authorised by him, may compound any of the offences specified in paragraph (1) by collecting from the person reasonably suspected of having committed the offence a sum of money not exceeding one half of the maximum fine prescribed for the offence."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Feeding Stuffs (Composition of Offences) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

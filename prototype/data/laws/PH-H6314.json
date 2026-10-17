@@ -1,7 +1,7 @@
 {
  "id": "PH-H6314",
  "title": {
-  "zh": null,
+  "zh": "将依第6686号共和国法与第851号总统法令等规定的福利及其他福利，从确定应税报酬所得的毛报酬所得计算中排除，为此修订《国家国内税收法典》第28（B）（8）条",
   "en": "An Act to Exclude the Benefits Mandated Pursuant to Republic Act No. 6686 and Presidential Decree No. 851, as Amended, and Other Benefits From the Computation of Gross Compensation Income for Purposes of Determining Taxable Compensation Income, Amending for the Purpose Section 28(B)(8) of the National Internal Revenue Code, as Amended",
   "orig": "An Act to Exclude the Benefits Mandated Pursuant to Republic Act No. 6686 and Presidential Decree No. 851, as Amended, and Other Benefits From the Computation of Gross Compensation Income for Purposes of Determining Taxable Compensation Income, Amending for the Purpose Section 28(B)(8) of the National Internal Revenue Code, as Amended"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in any two (2) newspapers of general circulation, whichever comes earlier.\nApproved, December 8, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Exclude the Benefits Mandated Pursuant to Republic Act No. 6686 and Presidential Decree No. 851, as Amended, and Other Benefits From the Computation of Gross Compensation Income for Purposes of Determining Taxable Compensation Income, Amending for the Purpose Section 28(B)(8) of the National Internal Revenue Code, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

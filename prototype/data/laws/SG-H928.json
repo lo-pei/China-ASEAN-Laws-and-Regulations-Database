@@ -1,7 +1,7 @@
 {
  "id": "SG-H928",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典（接纳传闻证据的通知要求）条例 2012",
   "en": "Criminal Procedure Code (Notice Requirements to Admit Hearsay Evidence) Regulations 2012",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRegulation 3\nFORM 1\nNOTICE TO ADMIT NON-DOCUMENTARY HEARSAY EVIDENCE\nTo\nTake notice that the prosecution (or defence) in this case, pursuant to paragraph of section 32(1) of the Evidence Act (Chapter 97), intends to introduce in evidence the statement hereunder specified:\nManner in which the statement was made (whether oral or otherwise)\nName of maker of the statement and (unless he is dead) his address, if known\nIf the maker of the statement is dead, the date of the death of the maker*\nName and address of person who heard or otherwise perceived the statement being made\nTime and place at which the statement was made\nSubstance of the statement or, if it was made orally and the actual words used in making it are material, the words used\n1.\n2.\n3.\n4.\n5.\n*This information is to be made to the best of the information and belief of the party serving the notice.\nDated this day of 20 .\nName of Counsel/Deputy Public Prosecutor\nFORM 2\nNOTICE TO ADMIT DOCUMENTARY HEARSAY EVIDENCE\nTo\nTake notice that the prosecution (or defence) in this case, pursuant to paragraph of section 32(1) of the Evidence Act (Chapter 97), intends to introduce in evidence the statement made in the document(s) hereunder specified, a copy of which is attached:\nDescription of document(s)*\nName of maker of the statement and (unless he is dead) his address, if known†\nIf the maker of the statement is dead, the date of the death of the maker††\nName of maker of the document and (unless he is dead) his address, if known**\nIf the maker of the document is dead, the date of the death of the maker††\nTime and place at which statement was made†\n1.\n2.\n3.\n4.\n5.\n*This may refer to any document in the list of exhibits contained in the Case for the Prosecution or the Case for the Defence.\n**This information is to be included only if the maker of the document is different from the maker of the statement and the information is not readily apparent from the document or the relevant part of the document.\n†This information is to be included if the information is not readily apparent from the document or the relevant part of the document.\n††This information is to be made to the best of the information and belief of the party serving the notice.\nDated this day of 20 .\nName of Counsel/Deputy Public Prosecutor"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure Code (Notice Requirements to Admit Hearsay Evidence) Regulations 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

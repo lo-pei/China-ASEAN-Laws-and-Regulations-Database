@@ -1,7 +1,7 @@
 {
  "id": "BN-S-78-2016-VALUERS-AND-ESTATE-AGENT-AMENDMENT-ORDER-2016",
  "title": {
-  "zh": null,
+  "zh": "估价师与房地产经纪人修正命令 2016",
   "en": "VALUERS AND ESTATE AGENT AMENDMENT ORDER 2016",
   "orig": null
  },
@@ -66,5 +66,13 @@
     "en": "Section 4 of the Valuers and Estate Agents Order, 2009 is amendedfa) by deleting subsection (1) and by substituting the following new therefor - \"(1) The Board shall consist of the following membersfa) the Permanent Secretary of the Ministry of Development, who shall be the Chairman; {b) the following persons to be appointed by the Minister\n\n(i) the Commissioner of Land;\n\n(ii) two registered valuers from the public service;\n\n(iii) two registered valuers with at least 6 years' experience and who(A) hold a recognised degree m valuation or estate or\n\n(B) are members of a professional body recognised by the Board, either a valuer from the private practice and valuer from a recognised academic institution in Brunei Darussalam, or two valuers from the private {iv) two registered estate agents who are citizens of Brunei with at least 6 years' experience as estate and\n\n(v) two persons from public office.\"; (b} in subsection (2), by deleting \"be\" where it appears for the first time and \"not exceed\" therefor. Made this 21st. day of Rabiulawal, 1438 Hijriah corresponding to the 21st. day of December, 2016 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "VALUERS AND ESTATE AGENT AMENDMENT ORDER 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

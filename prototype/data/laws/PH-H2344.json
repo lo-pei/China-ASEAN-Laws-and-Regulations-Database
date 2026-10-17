@@ -1,7 +1,7 @@
 {
  "id": "PH-H2344",
  "title": {
-  "zh": null,
+  "zh": "规定征收奎松市 Tatalon 地产并按成本向现有真实占有人出售其中地块，并授权为此拨款一千万比索的法案",
   "en": "An Act Providing for the Expropriation of the Tatalon Estate in Quezon City and for the Sale, at Cost, of the Lots Therein to Their Present Bona Fide Occupants, and Authorizing the Appropriation of Ten Million Pesos for the Purpose",
   "orig": "An Act Providing for the Expropriation of the Tatalon Estate in Quezon City and for the Sale, at Cost, of the Lots Therein to Their Present Bona Fide Occupants, and Authorizing the Appropriation of Ten Million Pesos for the Purpose"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without executive approval, August 3, 1959"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Expropriation of the Tatalon Estate in Quezon City and for the Sale, at Cost, of the Lots Therein to Their Present Bona Fide Occupants, and Authorizing the Appropriation of Ten Million Pesos for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

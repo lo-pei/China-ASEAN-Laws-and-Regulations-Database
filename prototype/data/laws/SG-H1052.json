@@ -1,7 +1,7 @@
 {
  "id": "SG-H1052",
  "title": {
-  "zh": null,
+  "zh": "关税（第 136（1）条豁免）命令 2019",
   "en": "Customs (Exemption from Section 136(1)) Order 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 136(1) of the Act does not apply to a person in charge of a bus used to provide a bus service by the holder of a Class 1 bus service licence granted under the Bus Services Industry Act 2015 (Act 30 of 2015), while the licence is in force."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Exemption from Section 136(1)) Order 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

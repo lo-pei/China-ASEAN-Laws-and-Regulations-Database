@@ -1,7 +1,7 @@
 {
  "id": "SG-H518",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（保健储蓄户头提款——医疗保险保费）条例 2015",
   "en": "Central Provident Fund (Medisave Account Withdrawals — Medical Insurance Premiums) Regulations 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) A member, who is an undischarged bankrupt, may withdraw money from his or her medisave account to pay premiums for medical insurance cover for the member or the member’s dependant under —\n(a)the MediShield Life Scheme, in accordance with the MediShield Life Scheme Regulations 2015;\n(b)a medisave‑approved plan, in accordance with the MediShield Life Scheme (Private Medical Insurance Scheme) Regulations 2015;\n(c)the CareShield Life Scheme, in accordance with the CareShield Life and Long‑Term Care (CSHL Scheme) Regulations 2020;\n(d)the ElderShield Scheme, in accordance with the CareShield Life and Long‑Term Care (ElderShield Scheme) Regulations 2021; or\n(e)a supplementary disability insurance policy, in accordance with the CareShield Life and Long‑Term Care (Supplement Scheme) Regulations 2020.\n(2) Any withdrawal under paragraph (1) is subject to such terms and conditions as the Board may impose.\n(3) In this regulation —\n“CareShield Life Scheme” means the severe disability insurance scheme called the CareShield Life Scheme established by section 5 of the CareShield Life and Long‑Term Care Act 2019;\n“ElderShield Scheme” means the severe disability insurance scheme called the ElderShield Scheme established by section 11(1)(b) of the CareShield Life and Long‑Term Care Act 2019;\n“medisave‑approved plan” has the meaning given by the MediShield Life Scheme (Private Medical Insurance Scheme) Regulations 2015;\n“MediShield Life Scheme” means the medical insurance scheme called the MediShield Life Scheme, mentioned in section 3 of the MediShield Life Scheme Act 2015;\n“supplementary disability insurance policy” has the meaning given by the CareShield Life and Long‑Term Care (Supplement Scheme) Regulations 2020."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Medisave Account Withdrawals — Medical Insurance Premiums) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

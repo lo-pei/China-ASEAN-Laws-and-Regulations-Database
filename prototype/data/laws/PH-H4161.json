@@ -1,7 +1,7 @@
 {
  "id": "PH-H4161",
  "title": {
-  "zh": null,
+  "zh": "授予 Panay 电力公司在伊洛伊洛市及伊洛伊洛省 Santa Barbara 与 Pavia 市镇经营电灯、热力与动力系统的特许权法案",
   "en": "An Act Granting a Franchise for an Electric Light, Heat and Power System to Panay Electric Company, Inc. in the City of Iloilo, and in the Municipalities of Santa Barbara and Pavia, Both in the Province of Iloilo",
   "orig": "An Act Granting a Franchise for an Electric Light, Heat and Power System to Panay Electric Company, Inc. in the City of Iloilo, and in the Municipalities of Santa Barbara and Pavia, Both in the Province of Iloilo"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting a Franchise for an Electric Light, Heat and Power System to Panay Electric Company, Inc. in the City of Iloilo, and in the Municipalities of Santa Barbara and Pavia, Both in the Province of Iloilo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

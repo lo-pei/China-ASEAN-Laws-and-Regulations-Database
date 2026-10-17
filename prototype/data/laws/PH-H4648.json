@@ -1,7 +1,7 @@
 {
  "id": "PH-H4648",
  "title": {
-  "zh": null,
+  "zh": "规定教育机构由股份公司转为非营利基金会，指示政府服务保险系统、社会保障系统与菲律宾开发银行协助转换并为其他目的法案",
   "en": "An Act to Provide for the Conversion of Educational Institutions From Stock Corporations to Non-Profit Foundations, Directing the Government Service Insurance System, the Social Security System and the Development Bank of the Philippines to Assist in Such Conversion, and for Other Purposes",
   "orig": "An Act to Provide for the Conversion of Educational Institutions From Stock Corporations to Non-Profit Foundations, Directing the Government Service Insurance System, the Social Security System and the Development Bank of the Philippines to Assist in Such Conversion, and for Other Purposes"
  },
@@ -152,5 +152,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Conversion of Educational Institutions From Stock Corporations to Non-Profit Foundations, Directing the Government Service Insurance System, the Social Security System and the Development Bank of the Philippines to Assist in Such Conversion, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

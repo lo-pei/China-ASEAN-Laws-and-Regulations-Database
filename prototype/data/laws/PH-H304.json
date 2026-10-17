@@ -1,7 +1,7 @@
 {
  "id": "PH-H304",
  "title": {
-  "zh": null,
+  "zh": "豁免在美军服役的菲律宾陆军军官与士兵就其因此类服役取得的薪金、保险与供养津贴缴纳1942年至1945年各纳税年度所得税，并规定退还此前就此项收入已征税款的法案",
   "en": "An Act Exempting Officers and Enlisted Men of the Army of the Philippines Who Served in the Armed Forces of the United States from the Payment of Income Tax on Their Compensation, Insurance, and Maintenance and Support Allowances Earned by Virtue of Such Service Corresponding to the Taxable Years Nineteen Hundred and Forty-Two to Nineteen Hundred and Forty-Five, Inclusive, and Providing for the Refund of Taxes Heretofore Collected on Income so Earned",
   "orig": "An Act Exempting Officers and Enlisted Men of the Army of the Philippines Who Served in the Armed Forces of the United States from the Payment of Income Tax on Their Compensation, Insurance, and Maintenance and Support Allowances Earned by Virtue of Such Service Corresponding to the Taxable Years Nineteen Hundred and Forty-Two to Nineteen Hundred and Forty-Five, Inclusive, and Providing for the Refund of Taxes Heretofore Collected on Income so Earned"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 1, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Exempting Officers and Enlisted Men of the Army of the Philippines Who Served in the Armed Forces of the United States from the Payment of Income Tax on Their Compensation, Insurance, and Maintenance and Support Allowances Earned by Virtue of Such Service Corresponding to the Taxable Years Nineteen Hundred and Forty-Two to Nineteen Hundred and Forty-Five, Inclusive, and Providing for the Refund of Taxes Heretofore Collected on Income so Earned",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

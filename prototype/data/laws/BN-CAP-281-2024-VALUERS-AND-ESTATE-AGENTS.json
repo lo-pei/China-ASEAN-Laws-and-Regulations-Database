@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-281-2024-VALUERS-AND-ESTATE-AGENTS",
  "title": {
-  "zh": null,
+  "zh": "估值师与房地产代理",
   "en": "VALUERS AND ESTATE AGENTS",
   "orig": null
  },
@@ -393,5 +393,13 @@
     "en": "The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make rules which are necessary or expedient for giving effect to and carrying out the provisions of this Act, including the prescription of fees and of any other thing required to be or which may be prescribed under this Act, and for the due administration thereof."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "VALUERS AND ESTATE AGENTS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

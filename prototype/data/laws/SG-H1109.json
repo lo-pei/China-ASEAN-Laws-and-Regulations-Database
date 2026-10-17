@@ -1,7 +1,7 @@
 {
  "id": "SG-H1109",
  "title": {
-  "zh": null,
+  "zh": "硬币面额与特征",
   "en": "Denominations and Characteristics of Coins",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE 2010 YOUTH OLYMPIC GAMES COMMEMORATIVE COINS TO BE ISSUED ON 29TH JUNE 2010\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n10 Dollars\n999.9 Fine Gold\n7.776 g + 0.05 g\n21.96 mm + 0.125 mm\n1.55 mm + 0.20 mm\nRound\nMilled\nThe Singapore Arms in the centre with the year-date “2010” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin.\nThe Singapore 2010 Youth Olympic Games (“YOG”) symbol and the Olympic rings are encircled by the spiralling fire and water imagery of the inaugural YOG. The words “SINGAPORE 2010” and “YOUTH OLYMPIC GAMES” are on the upper right and lower left circumference of the coin, respectively. The denomination “$10” is at the 10 o’clock position of the coin.\n5 Dollars\n999 Fine Silver\n31.104 g + 0.30 g\n40.70 mm + 0.30 mm\n3.05 mm + 0.30 mm\nRound\nMilled\nThe 2 YOG official mascots “Lyo” and “Merly”, in colour, flank the YOG symbol and the Olympic rings, which are also in colour. On the lower circumference of the coin is a crescent-shaped hologram featuring repeated patterns of the Singapore lion head. The words “YOUTH OLYMPIC GAMES” crown the top of the coin while the words “SINGAPORE 2010” and the denomination “$5” are positioned above the hologram feature.\n2 Dollars\nOuter Ring –\nCopper 75%\nNickel 25%\nCore –\nCopper 92%\nAluminium 6%\nNickel 2%\n15.25 g + 0.50 g\n32.00 mm + 0.30 mm\n2.80 mm + 0.30 mm\nRound\nMilled\nThe Singapore Arms in the centre with the year-date “2010” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin.\nThe 2 YOG official mascots, “Lyo” and “Merly”, in colour, are positioned on the right and left of the outer ring of the coin, respectively, with the distinctive Olympic rings, also in colour, at the bottom of the coin. Encompassing the YOG symbol at the core are the words “SINGAPORE 2010” and “YOUTH OLYMPIC GAMES”. The denomination “$2” is placed at the 5 o’clock position of the coin.\n(a)\nReverse Design of the $10 Gold Proof-like Coin.\n(b)\nReverse Design of the $5 Silver Proof-like with Hologram Feature Coin.\n(c)\nReverse Design of the $2 Brilliant Uncirculated Bi-metal Coin.\n(d)\nObverse Design for the $10 Gold Proof-like Coin.\n(e)\nCommon Obverse Design for the $5 Silver Proof-like Coin and $2 Brilliant Uncirculated Bi-metal Coin."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Denominations and Characteristics of Coins",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

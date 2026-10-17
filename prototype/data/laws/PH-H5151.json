@@ -1,7 +1,7 @@
 {
  "id": "PH-H5151",
  "title": {
-  "zh": null,
+  "zh": "废止第807号总统法令第40条（即《公务员法令》）的法案",
   "en": "An Act Repealing Section Forty of Presidential Decree Numbered Eight Hundred Seven, otherwise known as the Civil Service Decree",
   "orig": "An Act Repealing Section Forty of Presidential Decree Numbered Eight Hundred Seven, otherwise known as the Civil Service Decree"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Repealing Section Forty of Presidential Decree Numbered Eight Hundred Seven, otherwise known as the Civil Service Decree",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

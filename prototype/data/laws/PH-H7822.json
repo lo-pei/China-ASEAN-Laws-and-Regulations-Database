@@ -1,7 +1,7 @@
 {
  "id": "PH-H7822",
  "title": {
-  "zh": null,
+  "zh": "在三宝颜锡布格省增设一个国会选区，为此修订第8973号共和国法（即三宝颜锡布格省宪章）",
   "en": "An Act Creating Another Congressional District in the Province of Zamboanga Sibugay, amending for the purpose Republic Act Numbered Eighty-Nine Hundred and Seventy-Three, otherwise known as the Charter of the Province of Zamboanga Sibugay",
   "orig": "An Act Creating Another Congressional District in the Province of Zamboanga Sibugay, amending for the purpose Republic Act Numbered Eighty-Nine Hundred and Seventy-Three, otherwise known as the Charter of the Province of Zamboanga Sibugay"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in at least two newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating Another Congressional District in the Province of Zamboanga Sibugay, amending for the purpose Republic Act Numbered Eighty-Nine Hundred and Seventy-Three, otherwise known as the Charter of the Province of Zamboanga Sibugay",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

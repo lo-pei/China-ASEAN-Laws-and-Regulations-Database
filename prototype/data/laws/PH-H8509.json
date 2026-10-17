@@ -1,7 +1,7 @@
 {
  "id": "PH-H8509",
  "title": {
-  "zh": null,
+  "zh": "将杜马格特市雷亚尔街更名为Ramon T. Pastor Sr.市长街的法案",
   "en": "An Act Renaming Real Street in Dumaguete City as Mayor Ramon T. Pastor Sr. Street",
   "orig": "An Act Renaming Real Street in Dumaguete City as Mayor Ramon T. Pastor Sr. Street"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming Real Street in Dumaguete City as Mayor Ramon T. Pastor Sr. Street",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

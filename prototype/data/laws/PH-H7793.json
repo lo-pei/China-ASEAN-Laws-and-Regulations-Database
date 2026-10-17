@@ -1,7 +1,7 @@
 {
  "id": "PH-H7793",
  "title": {
-  "zh": null,
+  "zh": "将西明多洛省圣何塞市镇巴贡西卡特描笼涯路口（含Liboro街）至卡米纳维特描笼涯码头的整段公路重新命名为Felix Y. Manalo主教大道的法案",
   "en": "An Act Renaming the Whole Stretch of Road Starting from the Junction of Barangay Bagong Sikat including Liboro Street up to Barangay Caminawit Pier in the Municipality of San Jose, Province of Occidental Mindoro as Bishop Felix Y. Manalo Avenue",
   "orig": "An Act Renaming the Whole Stretch of Road Starting from the Junction of Barangay Bagong Sikat including Liboro Street up to Barangay Caminawit Pier in the Municipality of San Jose, Province of Occidental Mindoro as Bishop Felix Y. Manalo Avenue"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Whole Stretch of Road Starting from the Junction of Barangay Bagong Sikat including Liboro Street up to Barangay Caminawit Pier in the Municipality of San Jose, Province of Occidental Mindoro as Bishop Felix Y. Manalo Avenue",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

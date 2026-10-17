@@ -1,7 +1,7 @@
 {
  "id": "PH-H1990",
  "title": {
-  "zh": null,
+  "zh": "授权宿务省达瑙市镇的达瑙国立医院接受杜拉诺公司与环球水泥公司以现金、物资、设备或药品等任何形式提供的捐赠的法案",
   "en": "An Act Authorizing the Danao National Hospital in the Municipality of Danao, Province of Cebu, to Accept Donations in Any Form, Whether in Cash, Materials, Equipment or Medicines, from the Durano and Company, Inc. and the Universal Cement Company, Inc.",
   "orig": "An Act Authorizing the Danao National Hospital in the Municipality of Danao, Province of Cebu, to Accept Donations in Any Form, Whether in Cash, Materials, Equipment or Medicines, from the Durano and Company, Inc. and the Universal Cement Company, Inc."
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Danao National Hospital in the Municipality of Danao, Province of Cebu, to Accept Donations in Any Form, Whether in Cash, Materials, Equipment or Medicines, from the Durano and Company, Inc. and the Universal Cement Company, Inc.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

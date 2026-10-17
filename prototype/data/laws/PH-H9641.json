@@ -1,7 +1,7 @@
 {
  "id": "PH-H9641",
  "title": {
-  "zh": null,
+  "zh": "将三宝颜市 Labuan 公立医院提升为名为 Labuan 综合医院的二级医院，其综合护理床位增至一百（100）张并为其拨款的法案",
   "en": "An Act Upgrading the Labuan Public Hospital in Zamboanga City into a Level II Hospital to be Known as the Labuan General Hospital, Increasing Its Bed Capacity for General Care Services to One Hundred (100) and Appropriating Funds Therefor",
   "orig": "An Act Upgrading the Labuan Public Hospital in Zamboanga City into a Level II Hospital to be Known as the Labuan General Hospital, Increasing Its Bed Capacity for General Care Services to One Hundred (100) and Appropriating Funds Therefor"
  },
@@ -110,5 +110,13 @@
     "en": "- This act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading the Labuan Public Hospital in Zamboanga City into a Level II Hospital to be Known as the Labuan General Hospital, Increasing Its Bed Capacity for General Care Services to One Hundred (100) and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

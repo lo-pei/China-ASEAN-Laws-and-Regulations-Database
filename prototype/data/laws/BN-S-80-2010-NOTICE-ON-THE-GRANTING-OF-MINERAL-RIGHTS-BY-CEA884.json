@@ -1,7 +1,7 @@
 {
  "id": "BN-S-80-2010-NOTICE-ON-THE-GRANTING-OF-MINERAL-RIGHTS-BY-CEA884",
  "title": {
-  "zh": null,
+  "zh": "苏丹陛下会同枢密院授予矿权通知",
   "en": "NOTICE ON THE GRANTING OF MINERAL RIGHTS BY HIS MAJESTY THE SULTAN AND YANG DI PERTUAN IN COUNCIL",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "16th. SEPTEMBER, 2010 No. S 80\n\nBRUNEI NATIONAL PETROLEUM COMPANY SENDIRIAN BERHAD\n\nORDER, 2002 (S 6102)\n\nNOTICE OF AMENDMENT OF THE GRANTING OF MINERAL RIGHTS BY\n\nHIS MAJESTY THE SULTAN AND YANG DI-PERTUAN IN COUNCIL [section 3j l)l It is hereby notified that His Majesty the Sultan and Yang Di-Pertuan in Council has, on the 16th. March, 2009, renamed the designated area referred to as Block K to be Block CA2. It is hereby further notified that His Majesty the Sultan and Yang Di-Pertuan in Council has, pursuant to section 3(1), on the 16th. March, 2009, amended the co-ordinates of the designated area referred to as Block CA2 by allocating the following new co-ordinates in substitution for the co-ordinates allocated to Block K Latitude (NJ Longitude (EJ , , , , Point 0 0 i AB 5 6 25.0 113 39 8.5 AGl 5 6 25.0 :~ 41 41.0 AG2 5 9 8.0 41 41.0 • ~G3 5 9 8.0 11 44 23.0 I I AG5 5 11 50.0 113 46 33.0 AG6 5 19 57.0 113 54 41.0 i AG7 5 19 57.0 113 56 51.0 AG8 5 20 30.0 113 56 51.0 GB 5 24 36.0 114 1 25.0 HB 6 8 52.5 113 18 45.0 i BB 5 48 2.0 112 57 33.5 B 5 46 40.0 112 58 29.0 ,\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE Dated this 7th. day of Syawal, 1431 Hijriah corresponding to the 16th. day of September, 2010.\n\nPEHIN ORANG KAYA PEKERMAJAYA\n\nDATO PADUKA HAJI JUDIN BIN HAJI ASAR Secretary to the Council of Ministers. Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENGIRAN HAJr AHMAD, Pemangku Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTICE ON THE GRANTING OF MINERAL RIGHTS BY HIS MAJESTY THE SULTAN AND YANG DI PERTUAN IN COUNCIL",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

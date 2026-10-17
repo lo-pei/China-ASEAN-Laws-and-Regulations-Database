@@ -1,7 +1,7 @@
 {
  "id": "SG-H1454",
  "title": {
-  "zh": null,
+  "zh": "引渡（逮捕令申请）规则 2022",
   "en": "Extradition (Application for Warrant) Rules 2022",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRule 2\nExtradition Act 1968\nApplication for Warrant\nTo , a District Judge [or Magistrate] of Singapore.\nI, , of , inform you that (referred to in this Application as the fugitive) is accused (or has been convicted) of the offence of alleged to have been committed (or committed) in (or within the jurisdiction of) and that the fugitive is (or is suspected of being) in (or on his or her way to) Singapore, and I apply for the issue of a warrant for the apprehension of the fugitive.\nDated 20 .\n......................................................\nApplicant"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Extradition (Application for Warrant) Rules 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

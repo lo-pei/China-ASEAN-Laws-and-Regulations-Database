@@ -1,7 +1,7 @@
 {
  "id": "PH-H6844",
  "title": {
-  "zh": null,
+  "zh": "1997 年家庭法院法",
   "en": "Family Courts Act of 1997",
   "orig": "Family Courts Act of 1997 An Act Establishing Family Courts, Granting Them Exclusive Original Jurisdiction Over Child and Family Cases, Amending Batas Pambansa Bilang 129,As Amended, Otherwise Known as Act of 1980, Appropriating Funds Therefor and for Other Purposes"
  },
@@ -240,5 +240,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Family Courts Act of 1997",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

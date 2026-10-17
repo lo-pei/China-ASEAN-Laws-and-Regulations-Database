@@ -1,7 +1,7 @@
 {
  "id": "PH-H2767",
  "title": {
-  "zh": null,
+  "zh": "重新划拨第1200号共和国法第一编A部分第4段马尼拉市第183页（ab）目第（17）项所拨5万比索中未支用的4万比索余额的法案",
   "en": "An Act Reappropriating the Sum of Forty Thousand Pesos Which is the Unexpended Balance of Fifty Thousand Pesos Appropriated Under Item (17), Page 183, Subparagraph “Ab”, for the City of Manila, Paragraph 4, Title A, Section One of Republic Act Numbered Twelve Hundred",
   "orig": "An Act Reappropriating the Sum of Forty Thousand Pesos Which is the Unexpended Balance of Fifty Thousand Pesos Appropriated Under Item (17), Page 183, Subparagraph “Ab”, for the City of Manila, Paragraph 4, Title A, Section One of Republic Act Numbered Twelve Hundred"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reappropriating the Sum of Forty Thousand Pesos Which is the Unexpended Balance of Fifty Thousand Pesos Appropriated Under Item (17), Page 183, Subparagraph “Ab”, for the City of Manila, Paragraph 4, Title A, Section One of Republic Act Numbered Twelve Hundred",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

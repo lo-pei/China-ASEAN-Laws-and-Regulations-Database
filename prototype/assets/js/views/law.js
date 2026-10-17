@@ -58,13 +58,6 @@
       var country = S().country(law.country);
       /* 有条文即渲染正文（官方全文与平台整理稿均可阅读） */
       var showText = law.articles.length > 0;
-      /* 译文层：按界面语言加载 data/trans 并合并到内存（原文文件不动） */
-      (function () {
-        var want = CALR.i18n.lang();
-        if (!CALR.fulltext.transPackFor || !CALR.fulltext.transPackFor(id, want)) return;
-        if (CALR.fulltext.transMerged(id, want)) return;
-        CALR.fulltext.ensureTrans(id, want).then(function (ok) { if (ok) CALR.app.refresh(); });
-      })();
 
       var avail = U().uniq([].concat.apply([], law.articles.map(function (a) { return Object.keys(a.text || {}); })));
       if (!avail.length) avail = ['zh'];
@@ -72,6 +65,20 @@
       /* 原文语种：以法规声明的官方文本语种为准；译文语种：当前界面语言（缺失时退英文） */
       var uiLang = CALR.i18n.lang();
       var origLang = originalLangOf(law, avail);
+
+      /* 译文层：按下面 transLang 的同一选法加载 data/trans 并合并到内存（原文文件不动）。
+         注意：不能直接用界面语言去找分卷——界面语言等于原文语言时（如中文界面看中文法）
+         分卷是注册在「译文语言」下的，用界面语言查会取不到，导致译文永远不加载、
+         「原文+译文 / 仅译文」两个按钮一直是禁用态。 */
+      (function () {
+        if (!CALR.fulltext.transPackFor) return;
+        var want = null;
+        if (uiLang !== origLang && CALR.fulltext.transPackFor(id, uiLang)) want = uiLang;
+        else if (origLang !== 'en' && CALR.fulltext.transPackFor(id, 'en')) want = 'en';
+        if (!want || CALR.fulltext.transMerged(id, want)) return;
+        CALR.fulltext.ensureTrans(id, want).then(function (ok) { if (ok) CALR.app.refresh(); });
+      })();
+
       var transLang = null;
       if (uiLang !== origLang && avail.indexOf(uiLang) >= 0) transLang = uiLang;
       else if (uiLang !== 'en' && origLang !== 'en' && avail.indexOf('en') >= 0) transLang = 'en';
@@ -476,6 +483,32 @@
         });
       });
 
+      /* 深链定位到具体法条：#/law/<lawId>?art=<articleId>
+         AI 问答中的引用链接会带 art 参数，跳转后自动展开该条、滚动到位并短暂高亮。 */
+      if (query.art) {
+        (function () {
+          var want = String(query.art);
+          var el = null;
+          try { el = U().$('#' + want, main); } catch (e) { el = null; }
+          if (!el) {
+            /* 兜底：允许只传条号（"105"）或 "A105"，按 lawId-A<no> 拼出元素 id */
+            var m = want.match(/(\d+)\s*$/);
+            if (m) { try { el = U().$('#' + law.id + '-A' + m[1], main); } catch (e2) { el = null; } }
+          }
+          if (!el) return;
+          if (el.classList.contains('is-collapsed')) {
+            el.classList.remove('is-collapsed');
+            var tb = U().$('[data-article-toggle="' + el.id + '"]', main);
+            if (tb) tb.textContent = t('收起');
+          }
+          setTimeout(function () {
+            el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            el.classList.add('is-target');
+            setTimeout(function () { el.classList.remove('is-target'); }, 2800);
+          }, 60);
+        })();
+      }
+
       /* 术语弹窗（悬停 / 聚焦 / 点击） */
       bindTermPopups(main);
 
@@ -616,7 +649,11 @@
 
     var html = '<div class="article" id="' + esc(a.id) + '">' +
       '<div class="article__head">' +
-        '<span class="article__no">' + esc(tr(a.noLabel) || ('第 ' + a.no + ' 条')) + '</span>' +
+        '<span class="article__no">' + esc(tr(a.noLabel) || ('第 ' + a.no + ' 条')) +
+          /* 源文存在两套编号 / 同一编号多次出现时，用本地化标记区分（不改写原文标签） */
+          (a.dupIndex ? ' <span class="article__dup">' + esc(t('第{n}处').replace('{n}', a.dupIndex)) + '</span>' : '') +
+          (a.partIndex && a.partIndex > 1 ? ' <span class="article__dup">' + esc(t('第{n}套编号').replace('{n}', a.partIndex)) + '</span>' : '') +
+        '</span>' +
         '<span class="article__heading">' + esc(tr(a.heading)) + '</span>' +
         '<button class="article__toggle" type="button" data-article-toggle="' + esc(a.id) + '">' + esc(t('收起')) + '</button>' +
       '</div>';
@@ -675,9 +712,20 @@
 
     U().$$('.term-ref', main).forEach(function (el) {
       var id = el.getAttribute('data-term');
-      U().on(el, 'mouseenter', function () { if (!pinned) show(el, id); });
-      U().on(el, 'focus', function () { show(el, id); });
-      U().on(el, 'click', function (e) { e.preventDefault(); pinned = false; show(el, id); pinned = true; });
+      /* 只在「鼠标单击」时展示术语释义；悬停与单纯聚焦都不弹窗 */
+      function open(e) {
+        if (e) e.preventDefault();
+        /* 再次单击同一术语 → 收起（切换语义） */
+        if (pinned && currentId === id) { hideForce(); return; }
+        pinned = false;
+        show(el, id);
+        pinned = true;
+      }
+      U().on(el, 'click', open);
+      /* 键盘可达：Enter / Space 等同单击，但 Tab 聚焦不会自动弹窗 */
+      U().on(el, 'keydown', function (e) {
+        if (e.key === 'Enter' || e.key === ' ' || e.key === 'Spacebar') open(e);
+      });
     });
 
     var cards = U().$$('.tag--clickable[data-term]', main);
@@ -726,8 +774,12 @@
   }
 
   function citationText(law) {
-    var alt = (law.title && law.title.en) ? ' / ' + law.title.en : '';
-    return S().countryName(law.country) + '《' + tr(law.title).replace(/^.*?《|》$/g, '') + '》' +
+    var T = law.title || {};
+    var name = tr(T);
+    if (name === null || name === undefined || name === '') name = law.id;   /* 兜底：标题全空时用法规 id */
+    name = String(name);
+    var alt = (T.en && T.en !== name) ? ' / ' + T.en : '';
+    return S().countryName(law.country) + '《' + name.replace(/^.*?《|》$/g, '') + '》' + alt +
       (law.docNumber ? '（' + law.docNumber + '）' : '') +
       '，' + U().fmtDate(law.promulgatedDate) + '公布，' + U().fmtDate(law.effectiveDate) + '施行。' +
       '来源：中国—东盟法律法规数据库（CALR）· ' + (law.source ? law.source.name : '官方法律信息门户');

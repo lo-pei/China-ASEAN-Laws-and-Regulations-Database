@@ -1,7 +1,7 @@
 {
  "id": "PH-H10589",
  "title": {
-  "zh": null,
+  "zh": "将邦阿西楠省达古潘市第一地区医疗中心床位由六百（600）张增至一千五百（1,500）张并为其拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Region 1 Medical Center In the City of Dagupan, Province of Pangasinan, From Six Hundred (600) To One Thousand Five Hundred (1,500) Beds, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Region 1 Medical Center In the City of Dagupan, Province of Pangasinan, From Six Hundred (600) To One Thousand Five Hundred (1,500) Beds, and Appropriating Funds Therefor"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Region 1 Medical Center In the City of Dagupan, Province of Pangasinan, From Six Hundred (600) To One Thousand Five Hundred (1,500) Beds, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

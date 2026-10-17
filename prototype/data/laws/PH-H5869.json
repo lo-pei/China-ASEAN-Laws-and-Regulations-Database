@@ -1,7 +1,7 @@
 {
  "id": "PH-H5869",
  "title": {
-  "zh": null,
+  "zh": "将卡加延省Aparri市镇卡加延区医院床位由50张增至75张，并将其升格为省立医院，名称为Aparri省立医院，并为此拨款",
   "en": "An Act Increasing the Bed Capacity of the Cagayan District Hospital in the Municipality of Aparri, Province of Cagayan, From Fifty (50) to Seventy-five (75) Beds, and Upgrading It Into a Provincial Hospital to Be Known as the Aparri Provincial Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Cagayan District Hospital in the Municipality of Aparri, Province of Cagayan, From Fifty (50) to Seventy-five (75) Beds, and Upgrading It Into a Provincial Hospital to Be Known as the Aparri Provincial Hospital, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Cagayan District Hospital in the Municipality of Aparri, Province of Cagayan, From Fifty (50) to Seventy-five (75) Beds, and Upgrading It Into a Provincial Hospital to Be Known as the Aparri Provincial Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

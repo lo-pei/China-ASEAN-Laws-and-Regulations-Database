@@ -1,7 +1,7 @@
 {
  "id": "PH-H9120",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 8 月 18 日为“Jesse Robredo 日”特别工作假日并为其他目的法案",
   "en": "An Act Declaring August 18 of Every Year as \"Jesse Robredo Day\", a Special Working Holiday, and for Other Purposes",
   "orig": "An Act Declaring August 18 of Every Year as \"Jesse Robredo Day\", a Special Working Holiday, and for Other Purposes"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days following its publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring August 18 of Every Year as \"Jesse Robredo Day\", a Special Working Holiday, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

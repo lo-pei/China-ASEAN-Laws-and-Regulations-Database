@@ -1,7 +1,7 @@
 {
  "id": "PH-H8006",
  "title": {
-  "zh": null,
+  "zh": "加强并扩大学生就业特别方案的覆盖范围，为此修订第 7323 号共和国法（即《学生就业特别方案》）条款的法案",
   "en": "An Act Strengthening and Expanding the Coverage of the Special Program for Employment of Students, Amending for the Purpose Provisions of R.A. No. 7323, otherwise known as the Special Program for Employment of Students",
   "orig": "An Act Strengthening and Expanding the Coverage of the Special Program for Employment of Students, Amending for the Purpose Provisions of R.A. No. 7323, otherwise known as the Special Program for Employment of Students"
  },
@@ -121,5 +121,13 @@
     "en": "This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) newspapers of national circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening and Expanding the Coverage of the Special Program for Employment of Students, Amending for the Purpose Provisions of R.A. No. 7323, otherwise known as the Special Program for Employment of Students",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

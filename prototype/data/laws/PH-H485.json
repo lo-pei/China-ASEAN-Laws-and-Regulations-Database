@@ -1,7 +1,7 @@
 {
  "id": "PH-H485",
  "title": {
-  "zh": null,
+  "zh": "授权在二十年内允许居住于非基督教省份的穆斯林依穆斯林习俗与惯例离婚的法案",
   "en": "An Act Authorizing for a Period of Twenty Years Divorce Among Moslems Residing in Non-Christian Provinces in Accordance with Moslem Customs and Practices",
   "orig": "An Act Authorizing for a Period of Twenty Years Divorce Among Moslems Residing in Non-Christian Provinces in Accordance with Moslem Customs and Practices"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing for a Period of Twenty Years Divorce Among Moslems Residing in Non-Christian Provinces in Accordance with Moslem Customs and Practices",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H324",
  "title": {
-  "zh": null,
+  "zh": "进一步修订《修订行政法典》第2019条（经第394号联邦法修正）中关于邮政储蓄银行特别提款的规定",
   "en": "An Act to Further Amend Section Two Thousand and Nineteen of the Revised Administrative Code, as Amended by Commonwealth Act Numbered Three Hundred and Ninety-Four, Regarding Postal Savings Bank Special Withdrawals",
   "orig": "An Act to Further Amend Section Two Thousand and Nineteen of the Revised Administrative Code, as Amended by Commonwealth Act Numbered Three Hundred and Ninety-Four, Regarding Postal Savings Bank Special Withdrawals"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 9, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Section Two Thousand and Nineteen of the Revised Administrative Code, as Amended by Commonwealth Act Numbered Three Hundred and Ninety-Four, Regarding Postal Savings Bank Special Withdrawals",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

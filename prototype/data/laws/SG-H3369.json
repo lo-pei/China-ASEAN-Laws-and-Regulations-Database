@@ -1,7 +1,7 @@
 {
  "id": "SG-H3369",
  "title": {
-  "zh": null,
+  "zh": "护士与助产士（罪行构成）条例 2006",
   "en": "Nurses and Midwives (Composition of Offences) Regulations 2006",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the Singapore Nursing Board in accordance with section 43A(1) of the Act:\n(a)any offence under section 18(7), 19(4), 26(1), 27(3), 28(3), 29(2), 35, 36(5)(b) or 38(2) of the Act; and\n(b)any offence under regulation 23(2) or 52(3) of the Nurses and Midwives Regulations 2012 (G.N. No. S 119/2012).\n[S 120/2012 wef 01/04/2012]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Nurses and Midwives (Composition of Offences) Regulations 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

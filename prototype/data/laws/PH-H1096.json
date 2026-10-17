@@ -1,7 +1,7 @@
 {
  "id": "PH-H1096",
  "title": {
-  "zh": null,
+  "zh": "规定政府各部门与分支机构及政府所有或控制的公司向国会两院立法参考处提供数据与出版物，为此进一步修订《行政法典》第1692条第一段（经修正）的法案",
   "en": "An Act Providing for the Supply of Data and Publications by the Various Offices and Branches of the Government and Government-Owned or Controlled Corporations to the Legislative Reference Division of Each House of Congress by Further Amending the First Paragraph of Section Sixteen Hundred and Ninety-Two of the Administrative Code, as Amended",
   "orig": "An Act Providing for the Supply of Data and Publications by the Various Offices and Branches of the Government and Government-Owned or Controlled Corporations to the Legislative Reference Division of Each House of Congress by Further Amending the First Paragraph of Section Sixteen Hundred and Ninety-Two of the Administrative Code, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 10, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Supply of Data and Publications by the Various Offices and Branches of the Government and Government-Owned or Controlled Corporations to the Legislative Reference Division of Each House of Congress by Further Amending the First Paragraph of Section Sixteen Hundred and Ninety-Two of the Administrative Code, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

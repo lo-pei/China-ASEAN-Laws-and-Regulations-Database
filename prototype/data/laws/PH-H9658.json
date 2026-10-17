@@ -1,7 +1,7 @@
 {
  "id": "PH-H9658",
  "title": {
-  "zh": null,
+  "zh": "通过赦免 2017 及以前纳税年度遗产税、其他国内税收与欠缴税款的全部未缴国内税，加强税收管理与征收的法案",
   "en": "An Act Enhancing Revenue Administration and Collection by Granting an Amnesty on All Unpaid Internal Revenue Taxes Imposed by the National Government for Taxable Year 2017 and Prior Years with Respect to Estate Tax, Other Internal Revenue Taxes, and Tax on Delinquencies <li>ra2021/ra_11569_2021.html",
   "orig": "An Act Enhancing Revenue Administration and Collection by Granting an Amnesty on All Unpaid Internal Revenue Taxes Imposed by the National Government for Taxable Year 2017 and Prior Years with Respect to Estate Tax, Other Internal Revenue Taxes, and Tax on Delinquencies <li>ra2021/ra_11569_2021.html"
  },
@@ -421,5 +421,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least one (1) newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Enhancing Revenue Administration and Collection by Granting an Amnesty on All Unpaid Internal Revenue Taxes Imposed by the National Government for Taxable Year 2017 and Prior Years with Respect to Estate Tax, Other Internal Revenue Taxes, and Tax on Delinquencies <li>ra2021/ra_11569_2021.html",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7619",
  "title": {
-  "zh": null,
+  "zh": "废止 Don Mariano Marcos Memorial 国立大学养蜂培训与发展中心，设立国家养蜂研究、培训与发展研究所并拨款的法案",
   "en": "An Act to Abolish the Apiculture Training and Development Center At the Don Mariano Marcos Memorial State University, Municipality Bacnotan, Province of La Union, and Create the National Apiculture Research, Training and Development Institute, Authorizing the Appropriations of Funds Therefore, and for Other Purposes",
   "orig": "An Act to Abolish the Apiculture Training and Development Center At the Don Mariano Marcos Memorial State University, Municipality Bacnotan, Province of La Union, and Create the National Apiculture Research, Training and Development Institute, Authorizing the Appropriations of Funds Therefore, and for Other Purposes"
  },
@@ -202,5 +202,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days of its complete publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Abolish the Apiculture Training and Development Center At the Don Mariano Marcos Memorial State University, Municipality Bacnotan, Province of La Union, and Create the National Apiculture Research, Training and Development Institute, Authorizing the Appropriations of Funds Therefore, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

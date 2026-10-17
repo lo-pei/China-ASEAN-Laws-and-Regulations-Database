@@ -1,7 +1,7 @@
 {
  "id": "SG-H563",
  "title": {
-  "zh": null,
+  "zh": "慈善（豁免慈善机构）命令 2011",
   "en": "Charities (Exempt Charities) Order 2011",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\n(1) [Deleted by S 10/2017 wef 11/01/2017]\n(2) [Deleted by S 10/2017 wef 11/01/2017]\n(3) People’s Association.\n(4) Singapore Corporation of Rehabilitative Enterprises.\n(5) National Council of Social Service.\n(6) [Deleted by S 10/2017 wef 11/01/2017]\n(7) Education Fund established under the Financial Procedure Act 1966.\n[S 14/2023 wef 31/12/2021]\n(8) Science Centre established under section 5 of the Science Centre Act 1970.\n[S 14/2023 wef 31/12/2021]\n(9) National Arts Council established under section 3 of the National Arts Council Act 1991.\n[S 14/2023 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Charities (Exempt Charities) Order 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-20-1993-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-0079F4",
  "title": {
-  "zh": null,
+  "zh": "宪法（职能移交与相应规定）命令 1993",
   "en": "CONSTITUTION TRANSFER OF FUNCTIONS AND CONSEQUENTIAL PROVISIONS ORDER 1993",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "The functions conferred or imposed on the person or authority spec,i-Transfer of fied in the first column of the Schedule by the provisions of law specified functions. opposite thereto in the second column of that Schedule are hereby transferred to the person or authority specified opposite thereto in the third column of that Schedule.\n\nSCHEDULE (Article 3)\n\nTRANSFER OF STATUTORY FUNCTIONS First Column Second Column Third Column Person or authority Provisions of law Person or authority to from whom functions concerned whom functions transferred transferred\n\nWOMEN AND GIRLS PROTECTION ACT (Chapter 1201 Director of Welfare, Section 2 in the Head, Social Affairs Youth and Sports definition of Services Unit, ''Commissioner'' Ministry of Culture, Youth and Sports\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE Made this 4th day of March, 1993, at our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CONSTITUTION TRANSFER OF FUNCTIONS AND CONSEQUENTIAL PROVISIONS ORDER 1993",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

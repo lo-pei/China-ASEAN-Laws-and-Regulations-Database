@@ -1,7 +1,7 @@
 {
  "id": "SG-H1726",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（心理卫生学院）（豁免）命令 2023",
   "en": "Healthcare Services (Institute of Mental Health) (Exemption) Order 2023",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) NHG is exempt from regulations 16, 18, 20 and 24 of the Healthcare Services (Acute Hospital Service) Regulations 2023 in respect of the provision of a blood transfusion service, an intensive care service and a surgical service, respectively, at the specified premises.\n(2) NHG is exempt from regulation 26 of the Healthcare Services (Acute Hospital Service) Regulations 2023 in respect of the use of any of the terms mentioned in that regulation, or any abbreviation or derivation of those terms, at or in relation to the specified premises.\n(3) NHG is exempt from regulation 40(1) and (2) of the Healthcare Services (Acute Hospital Service) Regulations 2023 in respect of the provision of a clinical laboratory service at the specified premises, if NHG appoints, and makes arrangements with, a clinical laboratory service licensee to provide a clinical laboratory service to every patient who requires the clinical laboratory service, whether at the specified premises or any approved permanent premises of the clinical laboratory service licensee.\n(4) NHG is exempt from regulation 41(1) and (2) of the Healthcare Services (Acute Hospital Service) Regulations 2023 in respect of the provision of a radiological service at the specified premises, if NHG appoints, and makes arrangements with, a radiological service licensee to provide a radiological service to every patient who requires the radiological service, whether at the specified premises or any approved permanent premises of the radiological service licensee."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Healthcare Services (Institute of Mental Health) (Exemption) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

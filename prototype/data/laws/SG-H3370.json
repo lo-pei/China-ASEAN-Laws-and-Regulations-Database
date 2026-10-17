@@ -1,7 +1,7 @@
 {
  "id": "SG-H3370",
  "title": {
-  "zh": null,
+  "zh": "护士与助产士（COVID-19 疫苗接种人员）条例 2021",
   "en": "Nurses and Midwives (COVID-19 Vaccinators) Regulations 2021",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) For the purposes of section 27(6)(c) of the Act, section 27(1) of the Act does not apply to a trained vaccinator who carries out a COVID‑19 vaccination at a designated vaccination centre, under the supervision of a medical practitioner.\n(2) For the purposes of section 28(4)(c) of the Act, section 28(1) of the Act does not apply to the employment or engagement of a trained vaccinator to carry out a COVID‑19 vaccination at a designated vaccination centre, under the supervision of a medical practitioner."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Nurses and Midwives (COVID-19 Vaccinators) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-6-R-5-2022-MAGISTRATES-COURTS-RULES",
  "title": {
-  "zh": null,
+  "zh": "R 5 2022 版治安法院规则",
   "en": "R 5 2022 ED MAGISTRATES COURTS RULES",
   "orig": null
  },
@@ -282,5 +282,13 @@
     "en": "Where a document was filed using the electronic filing service and there is any inconsistency between —\n\n(a) the information entered into the electronic template of the document or of the transmission containing the document; and\n\n(b) the information contained in the document, the information contained in the document shall prevail where that document is remotely composed on the computer system of the Magistrate, or electronic filing service provider, as the case may be, and in all other cases the information entered into the electronic template of the document shall prevail."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 5 2022 ED MAGISTRATES COURTS RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

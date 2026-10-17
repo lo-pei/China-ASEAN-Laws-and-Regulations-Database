@@ -1,7 +1,7 @@
 {
  "id": "SG-H2998",
  "title": {
-  "zh": null,
+  "zh": "法律职业（执业证书）规则",
   "en": "Legal Profession (Practising Certificate) Rules",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "THE SCHEDULE\nRule 7\nFORM A\nRule 7(1)\nLEGAL PROFESSION ACT\n(CHAPTER 161)\nPRACTISING CERTIFICATE\n______________________________________________________________\nhaving duly made application and satisfied the requirements of the Legal Profession Act, is hereby authorised to practise as an advocate and solicitor in Singapore during the practice year terminating on the 31st day of March ______.\nDated this ______ day of ________________________.\nREGISTRAR\nSUPREME COURT,\nSINGAPORE.\nFORM B\nRule 7(1)\nLEGAL PROFESSION ACT\n(CHAPTER 161)\nPRACTISING CERTIFICATE\n______________________________________________________________\nhaving duly made an application for a Practising Certificate under the Legal Profession Act, is hereby authorised to practise as an advocate and solicitor in Singapore during the practice year terminating on the 31st day of March ______ subject to the conditions contained in the Schedule annexed to this Practising Certificate.\nDated this ______ day of ________________________.\nREGISTRAR\nSUPREME COURT,\nSINGAPORE.\nTHE SCHEDULE\nThe Practising Certificate of _______________________ dated the _____ day of __________________ is issued subject to the following conditions:\nDated this ______ day of ________________________.\nREGISTRAR\nSUPREME COURT,\nSINGAPORE.\nFORM C\nRule 7(2)\nLEGAL PROFESSION ACT\n(CHAPTER 161)\nPRACTISING CERTIFICATE\n(LOCUM SOLICITOR)\n______________________________________________________________\nhaving duly made an application for a Practising Certificate under the Legal Profession Act, is hereby authorised to practise as an advocate and solicitor in Singapore during the practice year terminating on the 31st day of March ______ subject to the conditions contained in the Schedule annexed to this Practising Certificate.\nDated this ______ day of ________________________.\nREGISTRAR\nSUPREME COURT,\nSINGAPORE.\nTHE SCHEDULE\nThe Practising Certificate of ___________________________ dated the _____ day of __________________ is issued subject to the following conditions:\n(i)That he/she is a citizen or permanent resident of Singapore;\n(ii)That he/she must not hold or receive client’s money, trust money or any security on behalf of a client, or do any other act, as prescribed in rule 18(2) of the Legal Profession (Professional Conduct) Rules (R 1);\n(iii)That he/she must not commence practice as a locum solicitor in any Singapore law practice unless that Singapore law practice has taken out the relevant professional indemnity insurance required under rule 3(3) of the Legal Profession (Professional Indemnity Insurance) Rules (R 11); and\n(iv)That he/she has completed such training as he/she may be required to complete under section 26(1A)(b) of the Legal Profession Act.\nDated this ______ day of ________________________.\nREGISTRAR\nSUPREME COURT,\nSINGAPORE."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Practising Certificate) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

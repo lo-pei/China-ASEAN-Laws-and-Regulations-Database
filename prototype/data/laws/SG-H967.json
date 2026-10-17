@@ -1,7 +1,7 @@
 {
  "id": "SG-H967",
  "title": {
-  "zh": null,
+  "zh": "货币（硬币面额与特征）（第 2 号）公告 2014",
   "en": "Currency (Denominations and Characteristics of Coins) (No. 2) Notification 2014",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF COINS IN THE 2015 UNCIRCULATED COIN SET TO BE ISSUED ON 8 JANUARY 2015\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n5 Cents\nMulti-ply brass-plated steel\n1.70 g ±\n0.07 g\n16.75 mm ± 0.10 mm\n1.22 mm ± 0.10 mm\nRound\nPlain\nThe Singapore Arms in the centre with the year-date “2015” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coins. A ring of dashes surrounds the Singapore Arms on both the 10-cent and 50-cent coins. The $1 coin has an octagonal frame along the circumference. The $5 coin has a ring of beads surrounding the Singapore Arms with a latent image below it depicting the year-date “2015” and the MAS logo.\nThe Esplanade – Theatres on the Bay in the centre with the figure “5” on the left and the word “CENTS” below it. There is a lion-head outline on the top left of the coin.\n10 Cents\nMulti-ply nickel-plated steel\n2.36 g ±\n0.10 g\n18.50 mm ± 0.10 mm\n1.38 mm ± 0.10 mm\nRound\nInterrupted Milled\nThe Public Housing in the centre with the figure “10” on the left and the word “CENTS” below it. There is a lion-head outline on the top left of the coin.\n20 Cents\nMulti-ply nickel-plated steel\n3.85 g ±\n0.15 g\n21.00 mm ± 0.10 mm\n1.72 mm ± 0.10 mm\nRound\nMilled\nThe Changi Airport in the centre with the figure “20” on the left and the word “CENTS” below it. There is a lion-head outline on the top left of the coin.\n50 Cents\nMulti-ply nickel-plated steel\n6.56 g ±\n0.28 g\n23.00 mm ± 0.10 mm\n2.45 mm ± 0.10 mm\nRound\nMicro Scalloped\nThe Port of Singapore in the centre with the figure “50” on the left and the word “CENTS” below it. There is a lion-head outline on the top left of the coin. A ring of beads surrounds the design.\n1 Dollar\nBi-metallic, comprising an inner circle of multi-ply nickel-plated steel and an outer ring of multi-ply brass-plated steel\n7.62 g ±\n0.30 g\nInner circle: 16 mm ± 0.10 mm\nOuter ring: 24.65 mm ± 0.10 mm\n2.50 mm ± 0.10 mm\nRound\nMilled\nThe Merlion in the centre with the figure “1” on the left and the word “DOLLAR” below it. The flower Vanda Miss Joaquim is in between the figure “1” and the Merlion. There is a lion-head outline on the top left of the coin. An octagonal frame surrounds the design.\n5 Dollars\nOuter Ring —\nCopper 75%\nNickel 25%\nCore —\nCopper 92%\nAluminium 6%\nNickel 2%\n6.70 g ±\n0.17 g\n23.30 mm ± 0.125 mm\n2.30 mm ± 0.152 mm\nScallop\nPlain\nThe flower Vanda Miss Joaquim in the centre with the figure “$5” below it. A ring of beads surrounds the flower with the words “FIVE DOLLARS” and 5 dots at the outer ring of the coin.\n(a)\n(b)\n(c)\n(d)\n(e)\n(f)\n(a)Reverse Design of the 5-cent Third Series Uncirculated Coin.\n(b)Reverse Design of the 10-cent Third Series Uncirculated Coin.\n(c)Reverse Design of the 20-cent Third Series Uncirculated Coin.\n(d)Reverse Design of the 50-cent Third Series Uncirculated Coin.\n(e)Reverse Design of the $1 Third Series Uncirculated Coin.\n(f)Reverse Design of the $5 Uncirculated Coin.\n(g)\n(h)\n(i)\n(j)\n(k)\n(l)\n(m)\n(g)Obverse Design for the 5-cent Third Series Uncirculated Coin.\n(h)Obverse Design for the 10-cent Third Series Uncirculated Coin.\n(i)Obverse Design for the 20-cent Third Series Uncirculated Coin.\n(j)Obverse Design for the 50-cent Third Series Uncirculated Coin.\n(k)Obverse Design for the $1 Third Series Uncirculated Coin.\n(l)Obverse Design for the $5 Uncirculated Coin.\n(m)Latent Image."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency (Denominations and Characteristics of Coins) (No. 2) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

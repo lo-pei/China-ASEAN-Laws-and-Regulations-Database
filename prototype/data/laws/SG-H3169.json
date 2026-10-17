@@ -1,7 +1,7 @@
 {
  "id": "SG-H3169",
  "title": {
-  "zh": null,
+  "zh": "商船（船员离职簿）条例",
   "en": "Merchant Shipping (Discharge Books) Regulations",
   "orig": null
  },
@@ -217,5 +217,13 @@
     "en": "THE SCHEDULE\nRegulations 3(2), 5(a) and 12.\nParticulars to be furnished in application for discharge book:\n1. Name and sex of applicant.\n[S 924/2023 wef 01/01/2024]\n2. Number of identity card or passport of applicant.\n3. Date and place of birth of applicant.\n4. Home address of applicant.\n5. Nationality of applicant.\n6. Distinguishing marks of applicant (if any).\n7. Height of applicant.\n8. Race of applicant.\n9. Grade, number and date of issue of any certificate of competency held by applicant.\n10. Name, relationship and address of next-of-kin of applicant.\n11. Applicant’s Seaman Registration Card number and date of issue of the card.\n12. Capacity in which applicant is engaged.\n[G.N. No. S 46/96]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Discharge Books) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

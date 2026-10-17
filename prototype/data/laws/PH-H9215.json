@@ -1,7 +1,7 @@
 {
  "id": "PH-H9215",
  "title": {
-  "zh": null,
+  "zh": "延长人权受害者索赔委员会的存续期间，为此修订第10368号共和国法（题为“规定对马科斯政权期间人权侵犯受害者给予赔偿与承认、记录上述侵犯行为、为此拨款并为其他目的”）第29条",
   "en": "An Act Extending the Life of the Human Rights Victims Claims Board, Amending for This Purpose Section 29 of Republic Act No. 10368 Entitled, “An Act Providing for Reparation and Recognition of Victims of Human Rights Violations During the Marcos Regime, Documentation of Said Violations, Appropriating Funds Therefor and for Other Purposes”",
   "orig": "An Act Extending the Life of the Human Rights Victims Claims Board, Amending for This Purpose Section 29 of Republic Act No. 10368 Entitled, “An Act Providing for Reparation and Recognition of Victims of Human Rights Violations During the Marcos Regime, Documentation of Said Violations, Appropriating Funds Therefor and for Other Purposes”"
  },
@@ -70,5 +70,13 @@
     "en": "Effectivity. – This Act shall take effect upon its complete publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Life of the Human Rights Victims Claims Board, Amending for This Purpose Section 29 of Republic Act No. 10368 Entitled, “An Act Providing for Reparation and Recognition of Victims of Human Rights Violations During the Marcos Regime, Documentation of Said Violations, Appropriating Funds Therefor and for Other Purposes”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

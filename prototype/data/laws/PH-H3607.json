@@ -1,7 +1,7 @@
 {
  "id": "PH-H3607",
  "title": {
-  "zh": null,
+  "zh": "将助理省卫生官、省、市与市镇护士、卫生检查员与助产士职位国有化并授权为此拨款的法案",
   "en": "An Act to Nationalize the Positions of Assistant Provincial Health Officers, Provincial, City and Municipal Nurses, Sanitary Inspectors, and Midwives, and to Authorize the Appropriation of Funds Therefor",
   "orig": "An Act to Nationalize the Positions of Assistant Provincial Health Officers, Provincial, City and Municipal Nurses, Sanitary Inspectors, and Midwives, and to Authorize the Appropriation of Funds Therefor"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Nationalize the Positions of Assistant Provincial Health Officers, Provincial, City and Municipal Nurses, Sanitary Inspectors, and Midwives, and to Authorize the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

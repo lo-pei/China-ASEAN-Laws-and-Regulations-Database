@@ -1,7 +1,7 @@
 {
  "id": "PH-H4014",
  "title": {
-  "zh": null,
+  "zh": "修订第 3814 号共和国法（经修正）若干条并为其他目的法案",
   "en": "An Act to Amend Certain Sections of Republic Act Numbered Three Thousand Eight Hundred and Fourteen, as Amended, and for Other Purposes.",
   "orig": "An Act to Amend Certain Sections of Republic Act Numbered Three Thousand Eight Hundred and Fourteen, as Amended, and for Other Purposes."
  },
@@ -71,14 +71,15 @@
    }
   },
   {
-   "id": "PH-H4014-A3_2",
+   "id": "PH-H4014-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "To carry out the provisions of this Act, all dental health activities of the regional health offices of the Department of Health, including those in hospitals, sanit­aria and other units under the Department of Health, together with all dental health personnel, their salary items, equipment and appropriations, except those specifically excluded in Section two (a) hereof, are hereby placed under the supervision, integration, control and co­ordination of the Bureau of Dental Health Services: Provided, That in the case of hospitals and sanitaria under the Department of Health, the Bureau of Dental Health Services shall exercise only technical supervision over the dental services in those institutions, while the administrative control and supervision over the dental personnel thereof shall be exercised by the chiefs of the said institutions. The financing of these various dental activities as well as the salary items and the appointments of all their personnel, shall continue as heretofore, and the President of the Philippines is hereby authorized to effect the transfer of such dental health activities in the various agencies of the government as have not as yet been transferred to the Bureau of Dental Health Services, with the corresponding items and personnel, equipment and appro­priations, upon the approval of this Act.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4014-A4",
@@ -120,5 +121,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted into law without executive signature on June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of Republic Act Numbered Three Thousand Eight Hundred and Fourteen, as Amended, and for Other Purposes.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H240",
  "title": {
-  "zh": null,
+  "zh": "租金分摊法 1909",
   "en": "Apportionment of Rents Act 1909",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9.—(1) The Collector shall keep a book, to be called the Record of Apportionment of Rents, in which he shall record under his hand all particulars furnished to him or determined by him under this Act.\n(2) All entries in the Record of Apportionment of Rents shall be prima facie evidence in any court of law of the truth of the facts therein stated."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Apportionment of Rents Act 1909",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

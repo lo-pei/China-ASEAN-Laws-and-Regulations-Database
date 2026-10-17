@@ -1,7 +1,7 @@
 {
  "id": "SG-H2915",
  "title": {
-  "zh": null,
+  "zh": "尤索夫伊萨东南亚研究所法 1968",
   "en": "ISEAS – Yusof Ishak Institute Act 1968",
   "orig": null
  },
@@ -294,5 +294,13 @@
     "en": "17. No liability is to lie personally against any member of the Board, employee of the Institute or other person acting under the direction of the Institute who, acting in good faith and with reasonable care, does or omits to do anything in —\n(a)the exercise or purported exercise of any power under this Act; or\n(b)the performance or purported performance of any function or duty under this Act.\n[23/2015]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "ISEAS – Yusof Ishak Institute Act 1968",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

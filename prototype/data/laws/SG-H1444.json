@@ -1,7 +1,7 @@
 {
  "id": "SG-H1444",
  "title": {
-  "zh": null,
+  "zh": "豁免",
   "en": "Exemption",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Estate Duty Act\n(Chapter 96)\nIt is hereby notified for general information that, pursuant to section 12(1)(c) of the Estate Duty Act, the Minister for Finance as approved the Associates Corporation of North America US$600,000,000 Senior Fixed Rates Notes due 2001 for exemption from estate duty."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Exemption",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

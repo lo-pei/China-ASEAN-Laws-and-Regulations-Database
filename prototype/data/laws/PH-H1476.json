@@ -1,7 +1,7 @@
 {
  "id": "PH-H1476",
  "title": {
-  "zh": null,
+  "zh": "规定保和省 Loboc 市镇现称 Oy 小学的学校此后名称为 Bartolome Doria 小学的法案",
   "en": "An Act Providing that the School in the Municipality of Loboc, Province of Bohol, at Present Known as Oy Primary School, Shall Hereafter be Known as Bartolome Doria Primary School",
   "orig": "An Act Providing that the School in the Municipality of Loboc, Province of Bohol, at Present Known as Oy Primary School, Shall Hereafter be Known as Bartolome Doria Primary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing that the School in the Municipality of Loboc, Province of Bohol, at Present Known as Oy Primary School, Shall Hereafter be Known as Bartolome Doria Primary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

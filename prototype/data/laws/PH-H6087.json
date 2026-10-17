@@ -1,7 +1,7 @@
 {
  "id": "PH-H6087",
  "title": {
-  "zh": null,
+  "zh": "将菲律宾空军航空学院改设为国立学院，名称为菲律宾国立航空学院并为其他目的，为此修订第 1078 号总统令的法案",
   "en": "An Act Converting the Philippine Air Force College of Aeronautics Into A State College To Be Known As the Philippine State College of Aeronautics and For Other Purposes, Amending Presidential Decree Numbered Ten Hundred and Seventy-eight Entitled, \"Converting the Basa Air Base Community College Into the Philippine Air Force College of Aeronautics, Providing For A Charter For This Purpose\"",
   "orig": "An Act Converting the Philippine Air Force College of Aeronautics Into A State College To Be Known As the Philippine State College of Aeronautics and For Other Purposes, Amending Presidential Decree Numbered Ten Hundred and Seventy-eight Entitled, \"Converting the Basa Air Base Community College Into the Philippine Air Force College of Aeronautics, Providing For A Charter For This Purpose\""
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H6087-A1_2",
+   "id": "PH-H6087-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The present Philippine Air Force College of Aeronautics located within the school zone at the five (5) Philippine Air Force bases of Villamor, Basa, Mactan, Fernando, and Sangley, a nonmilitary institution, is hereby converted into a state college to be known as the Philippine State College of Aeronautics. The Philippine State College of Aeronautics shall hereafter be referred to as the College.\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6087-A2",
@@ -151,24 +152,26 @@
    }
   },
   {
-   "id": "PH-H6087-A2_2",
+   "id": "PH-H6087-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "The Secretary of Education, Culture and Sports as Chairman of the Board of Trustees is hereby directed to take such steps as are necessary for the immediate implementation of this Act."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H6087-A3_2",
+   "id": "PH-H6087-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "The amount necessary to carry out the provisions of this Act shall be charged against the current appropriation of the Department of Education, Culture and Sports. Thereafter, such sums as may be needed for the continued operation of the College shall be included in the annual General Appropriations Act."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6087-A4",
@@ -180,5 +183,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Philippine Air Force College of Aeronautics Into A State College To Be Known As the Philippine State College of Aeronautics and For Other Purposes, Amending Presidential Decree Numbered Ten Hundred and Seventy-eight Entitled, \"Converting the Basa Air Base Community College Into the Philippine Air Force College of Aeronautics, Providing For A Charter For This Purpose\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

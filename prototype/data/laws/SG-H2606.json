@@ -1,7 +1,7 @@
 {
  "id": "SG-H2606",
  "title": {
-  "zh": null,
+  "zh": "传染病（传染病通报）（豁免）条例 2015",
   "en": "Infectious Diseases (Notification of Infectious Diseases) (Exemption) Regulations 2015",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nMedical clinics\n1.Anteh Dispensary, 1 Lorong 22 Geylang, #01-02, Grandview Suites, Singapore 398664.\n[S 325/2017 wef 24/06/2017]\n2.Doctor Jay Medical Centre, 115 Killiney Road, Singapore 239553.\n3.Doctors Clinic and Surgery, 305 Woodlands Street 31, #01-91, Singapore 730305.\n4.Dr Soh Family Clinic, Block 966, Jurong West Street 93, #01-221, Singapore 640966.\n5.Dr Tan & Partners, 11 Unity Street, Robertson Walk, #02-07, Singapore 237995.\n6.Kensington Family Clinic, 14D Kensington Park Road, Serangoon Garden Estate, Singapore 557265.\n7.M Lam Clinic, 739 Geylang Road, Singapore 389649.\n8.Q&M Medical & Aesthetic Clinic (Tampines Central) Pte. Ltd., 10 Tampines Central 1, #04-18/19, Tampines One, Singapore 529536.\n9.Tanjong Pagar Medical Clinic, Block 1 Tanjong Pagar Plaza, #01-06, Singapore 082001."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infectious Diseases (Notification of Infectious Diseases) (Exemption) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

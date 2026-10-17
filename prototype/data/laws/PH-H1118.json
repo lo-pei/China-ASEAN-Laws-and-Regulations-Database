@@ -1,7 +1,7 @@
 {
  "id": "PH-H1118",
  "title": {
-  "zh": null,
+  "zh": "通过修订《国家国内税收法典》，豁免公立学校举办的运动会、学校演出与展览及其他教育活动一切娱乐税的法案",
   "en": "An Act to Exempt from Amusement Tax All Athletic Meets, School Programs and Exhibitions, and Other Educational Activities Conducted by Public Schools, by Amending the National Internal Revenue Code",
   "orig": "An Act to Exempt from Amusement Tax All Athletic Meets, School Programs and Exhibitions, and Other Educational Activities Conducted by Public Schools, by Amending the National Internal Revenue Code"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Exempt from Amusement Tax All Athletic Meets, School Programs and Exhibitions, and Other Educational Activities Conducted by Public Schools, by Amending the National Internal Revenue Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

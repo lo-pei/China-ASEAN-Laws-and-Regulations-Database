@@ -1,7 +1,7 @@
 {
  "id": "SG-H3010",
  "title": {
-  "zh": null,
+  "zh": "法律服务（律师账户）规则",
   "en": "Legal Profession (Solicitors’ Accounts) Rules",
   "orig": null
  },
@@ -296,5 +296,13 @@
     "en": "17.—(1) Notwithstanding anything in these Rules or in Part II of the Conveyancing Rules, a solicitor may continue to hold any conveyancing money or anticipatory conveyancing money that is deposited into his client account before 1st August 2011 —\n(a)in any case where the money is unclaimed conveyancing money, in accordance with these Rules, until the money is drawn from the client account; or\n(b)in any other case, for a period of 5 months beginning on 1st August 2011.\n(2) For a period of 5 months beginning on 1st August 2011 —\n(a)rules 2(1), 3 to 6, 7(1), 9(3), 10, 11 and 11A(8) of these Rules in force on or after 1st August 2011 shall not apply to a solicitor in respect of any holding by him of any conveyancing money or anticipatory conveyancing money referred to in paragraph (1); and\n(b)rules 2(1), 3 to 6, 7(1), 9(3), 10, 11, 11A(8) and 11B of these Rules in force immediately before 1st August 2011 shall continue to apply to that solicitor, in respect of that holding by him of the money.\n(3) In this rule, “unclaimed conveyancing money” means any conveyancing money or anticipatory conveyancing money deposited into a solicitor’s client account before 1st August 2011 which the solicitor is unable to pay to the person entitled to be paid the money by reason that —\n(a)the solicitor is unable to ascertain —\n(i)whether that person exists; or\n(ii)the address of that person;\n(b)the solicitor has tendered to that person, but that person has not accepted, the money;\n(c)the solicitor has tendered the money to that person by a cheque, but that person has not encashed the cheque; or\n(d)despite the making of reasonable efforts, the solicitor is unable to tender the money to that person.\n[S 631/2011 wef 25/11/2011]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Solicitors’ Accounts) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

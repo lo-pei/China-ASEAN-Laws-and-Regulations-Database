@@ -1,7 +1,7 @@
 {
  "id": "SG-H580",
  "title": {
-  "zh": null,
+  "zh": "总控制官与各控制官",
   "en": "Chief Controller and Controllers",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Undesirable Publications Act\n(Chapter 338)\nChief Controller and Controllers\nIn exercise of the powers conferred by section 13 of the Undesirable Publications Act, the Minister for Information and the Arts has appointed, with effect from 9th April 1998 —\n(a)the following officers as controllers:\n(i)the Director, Deputy Director, the Manager (Examination), Manager (Consultation) and Manager (Enforcement) of the Films and Publications Department in the Ministry of Information and the Arts;\n(ii)the Director, Security and Intelligence Division, Ministry of Defence;\n(iii)the Director, Internal Security Department, Ministry of Home Affairs;\n(iv)the Head and Deputy Head of the Anti-Vice Branch of the Criminal Investigation Department, Ministry of Home Affairs;\n(v)the Director-General of Customs and Excise; and\n(vi)the Controller of Immigration; and\n(b)the Director of the Films and Publications Department in the Ministry of the Information and the Arts as the Chief Controller."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Chief Controller and Controllers",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

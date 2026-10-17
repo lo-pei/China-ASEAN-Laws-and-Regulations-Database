@@ -1,7 +1,7 @@
 {
  "id": "PH-H5338",
  "title": {
-  "zh": null,
+  "zh": "菲律宾 Al-Amanah 伊斯兰投资银行宪章",
   "en": "The Charter of the Al-Amanah Islamic Investment Bank of the Philippines",
   "orig": "The Charter of the Al-Amanah Islamic Investment Bank of the Philippines An Act Providing for the 1989 Charter of the Al-Amanah Islamic Investment Bank of the Philippines, Authorizing its Conduct of Islamic Banking Business, and Repealing for this Purpose Presidential Decree Numbered Two Hundred and Sixty-Four as amended by Presidential Decree Numbered Five Hundred and Forty-Two (Creating the Philippine Amanah Bank)"
  },
@@ -570,5 +570,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Charter of the Al-Amanah Islamic Investment Bank of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

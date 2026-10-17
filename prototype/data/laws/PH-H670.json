@@ -1,7 +1,7 @@
 {
  "id": "PH-H670",
  "title": {
-  "zh": null,
+  "zh": "设立农业信贷与合作融资制度以协助小农取得优惠信贷、推动农民组成合作社以有效销售农产品并使农业与其他产业经济地位平等的法案，并为其他目的",
   "en": "An Act to Establish an Agricultural Credit and Cooperative Financing System to Assist Small Farmers in Securing Liberal Credit and to Promote the Effective Groupings of Farmers into Cooperative Associations to Enable Them to Market Efficiently their Agricultural Commodities, and to Place Agriculture on a Basis of Economic Equality with Other Industries, and for Other Purposes.",
   "orig": "An Act to Establish an Agricultural Credit and Cooperative Financing System to Assist Small Farmers in Securing Liberal Credit and to Promote the Effective Groupings of Farmers into Cooperative Associations to Enable Them to Market Efficiently their Agricultural Commodities, and to Place Agriculture on a Basis of Economic Equality with Other Industries, and for Other Purposes."
  },
@@ -142,5 +142,13 @@
     "en": "Revolving fund. -\na. There is hereby authorized to be appropriated the sum of one hundred million pesos which shall be made available by the Congress as soon as practicable after the approval of this Act and shall constitute a revolving fund to be administered by the Administration as provided in this Act.\nb. Any sums or assets which MSA-PHILCUSA may assign to the Administration shall be constituted as part of this revolving fund except when it is provided that said sums or assets are to be used for research or operating expenses.\nc. The"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish an Agricultural Credit and Cooperative Financing System to Assist Small Farmers in Securing Liberal Credit and to Promote the Effective Groupings of Farmers into Cooperative Associations to Enable Them to Market Efficiently their Agricultural Commodities, and to Place Agriculture on a Basis of Economic Equality with Other Industries, and for Other Purposes.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

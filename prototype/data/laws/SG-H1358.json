@@ -1,7 +1,7 @@
 {
  "id": "SG-H1358",
  "title": {
-  "zh": null,
+  "zh": "环境公共卫生（火葬场）条例",
   "en": "Environmental Public Health (Crematoria) Regulations",
   "orig": null
  },
@@ -317,5 +317,13 @@
     "en": "THE SCHEDULE\nDeleted by S 270/2005 wef 29/04/2005.\n[G.N. Nos. S 282/73; S 120/78; S 98/83; S 130/86; S 505/89; S 472/91; S 250/95; S 266/96; S 311/96; S 359/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Public Health (Crematoria) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

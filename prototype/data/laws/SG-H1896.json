@@ -1,7 +1,7 @@
 {
  "id": "SG-H1896",
  "title": {
-  "zh": null,
+  "zh": "移民（工作场所保安措施）公告",
   "en": "Immigration (Security Measures for Work Place) Notification",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The occupier of a work place referred to in section 57A of the Act shall take the following measures in respect of the work place:\n(a)erect, along the entire perimeter of the work place, a fence, a wall or a combination thereof, of not less than 2 metres in height from the ground to the top to prevent the access of unauthorised persons to the work place, except for —\n(i)any opening required for authorised persons to enter or leave or for materials to be moved into or out of the work place; and\n(ii)any part of the perimeter of the work place where it is not reasonably practical for such fence, wall or combination thereof to be erected;\n(b)where a combination of a fence and a wall are erected along the perimeter of the work place under sub-paragraph (a), ensure that there is no gap between the wall and the fence;\n(c)at all times maintain the fence, the wall or the combination thereof referred to in sub-paragraph (a) in good condition and repair;\n(d)issue a serially numbered identification pass to every worker employed to carry out work in the work place and to every visitor to the work place;\n(e)ensure that any identification pass issued under sub-paragraph (d) to a worker is of a different colour from that issued to a visitor and that each identification pass is at least 10 centimetres in length and 6 centimetres in breadth, and is waterproof;\n(f)ensure that every worker who is issued with an identification pass under sub-paragraph (d) who is not a citizen of Singapore is in possession of a valid entry permit or work pass, lawfully issued to him, throughout his period of employment at the work place;\n(g)ensure that every visitor who is issued with an identification pass under sub-paragraph (d) who is not a citizen of Singapore is in possession of a valid pass, permit or work pass lawfully issued to him;\n(h)take reasonable measures to ensure that only persons who have been issued with identification passes under sub-paragraph (d) are allowed entry into the work place, including the deployment of one or more security guards at each of the entrances and exits of the work place at all times;\n(i)ensure that persons who have been issued with identification passes under sub-paragraph (d) wear their identification passes prominently at all times when they are at the work place;\n(j)at all times maintain an up to date register at the work place which shall contain the following particulars in the English language of every identification pass issued under sub-paragraph (d):\n(i)in the case of each worker —\n(A)his name;\n(B)the time and date of issue and serial number of the identification pass issued to him;\n(C)his identity card number, work pass number or entry permit number; and\n(D)his employer’s name;\n(ii)in the case of each visitor —\n(A)his name;\n(B)the time, date and purpose of his visit to the work place;\n(C)the time and date of issue and serial number of the identification pass issued to him; and\n(D)his identity card number, pass number, permit number or work pass number;\n(k)at all times maintain an up to date register at the work place which shall contain the name and address in the English language of every contractor engaged by the occupier or otherwise to carry out work at the work place;\n(l)ensure that every identification pass issued under sub-paragraph (d) is returned to the occupier upon the cessation of the purpose for which it is issued, and record against the relevant entry in the register referred to in sub-paragraph (j) the time and date of return of the identification pass; and\n(m)upon request by an immigration officer or a police officer immediately produce the register referred to in sub-paragraph (j) or (k) to the immigration officer or police officer for his inspection.\n[G.N. Nos. S 75/96; S 353/2007]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Immigration (Security Measures for Work Place) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

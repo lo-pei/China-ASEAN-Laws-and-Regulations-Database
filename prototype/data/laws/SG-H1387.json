@@ -1,7 +1,7 @@
 {
  "id": "SG-H1387",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（指定处所）条例 2021",
   "en": "Environmental Public Health (Specified Premises) Regulations 2021",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) The manager of any specified premises must —\n(a)provide the Environmental Control Coordinator or Environmental Control Officer (as the case may be) for the specified premises with the facilities, equipment and information that are necessary to enable the Environmental Control Coordinator or Environmental Control Officer to discharge his or her duties effectively;\n(b)permit the Environmental Control Coordinator or Environmental Control Officer (as the case may be) for the specified premises to attend the meetings and training courses relating to the work of the Environmental Control Coordinator or Environmental Control Officer that the Director‑General may require;\n(c)reimburse the Environmental Control Coordinator or Environmental Control Officer (as the case may be) for the specified premises for all expenses incurred by the Environmental Control Coordinator or Environmental Control Officer in attending the meetings or training courses mentioned in sub‑paragraph (b); and\n(d)not make any deduction from the remuneration of the Environmental Control Coordinator or Environmental Control Officer (as the case may be) for the specified premises for being absent from work for the purposes of attending the meetings or training courses mentioned in sub‑paragraph (b).\n(2) Any person that contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction —\n(a)for a first offence, to a fine not exceeding $1,000; and\n(b)for a second or subsequent offence, to a fine not exceeding $2,000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Specified Premises) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

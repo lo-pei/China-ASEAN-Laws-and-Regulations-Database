@@ -1,7 +1,7 @@
 {
  "id": "PH-H1693",
  "title": {
-  "zh": null,
+  "zh": "在达沃市设立地区医疗与培训中心并为其拨款的法案",
   "en": "An Act to Establish a Regional Medical and Training Center in Davao City and Appropriating Funds Therefor",
   "orig": "An Act to Establish a Regional Medical and Training Center in Davao City and Appropriating Funds Therefor"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish a Regional Medical and Training Center in Davao City and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

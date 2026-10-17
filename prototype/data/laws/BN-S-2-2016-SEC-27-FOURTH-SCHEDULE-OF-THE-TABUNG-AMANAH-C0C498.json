@@ -1,7 +1,7 @@
 {
  "id": "BN-S-2-2016-SEC-27-FOURTH-SCHEDULE-OF-THE-TABUNG-AMANAH-C0C498",
  "title": {
-  "zh": null,
+  "zh": "雇员信托基金局命令 2016 第四附表第 27 条",
   "en": "SEC 27 FOURTH SCHEDULE OF THE TABUNG AMANAH PEKERJA BOARD ORDER 2016",
   "orig": null
  },
@@ -448,5 +448,13 @@
     "en": "The provisions of the other written laws specified in the first column of the Schedule are amended in the manner set out in second column thereof.\n\nSCHEDULE (section 5(4])\n\nAND PROCEEDINGS OF BOARD OF DIRECTORS Terms and conditions of office"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SEC 27 FOURTH SCHEDULE OF THE TABUNG AMANAH PEKERJA BOARD ORDER 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

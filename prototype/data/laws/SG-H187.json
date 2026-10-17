@@ -1,7 +1,7 @@
 {
  "id": "SG-H187",
  "title": {
-  "zh": null,
+  "zh": "游乐设施安全（豁免）命令 2011",
   "en": "Amusement Rides Safety (Exemption) Order 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Where a ride manager of an amusement ride vacates his appointment, the holder of the operating permit of that amusement ride shall be exempt from section 16(2)(b) of the Act in respect of appointing another ride manager to substitute the first-mentioned ride manager, if at least one suitably qualified and trained ride manager remains appointed under section 16(1) of the Act in respect of that amusement ride after the first-mentioned ride manager has vacated his appointment."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Amusement Rides Safety (Exemption) Order 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

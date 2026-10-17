@@ -1,7 +1,7 @@
 {
  "id": "PH-H4629",
  "title": {
-  "zh": null,
+  "zh": "规定除特定例外，违反市镇或城市条例的案件以及所定刑罚不超过轻徒刑和/或二千比索罚金或两者并处的刑事案件不需缴纳保释金的法案",
   "en": "An Act Providing That Bail Shall Not, With Certain Exceptions, Be Required in Cases of Violations of Municipal or City Ordinances and in Criminal Offenses When the Prescribed Penalty for Such Offenses Is Not Higher Than Arresto Mayor And/Or a Fine of Two Thousand Pesos or Both.",
   "orig": "An Act Providing That Bail Shall Not, With Certain Exceptions, Be Required in Cases of Violations of Municipal or City Ordinances and in Criminal Offenses When the Prescribed Penalty for Such Offenses Is Not Higher Than Arresto Mayor And/Or a Fine of Two Thousand Pesos or Both."
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 4, 1969"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing That Bail Shall Not, With Certain Exceptions, Be Required in Cases of Violations of Municipal or City Ordinances and in Criminal Offenses When the Prescribed Penalty for Such Offenses Is Not Higher Than Arresto Mayor And/Or a Fine of Two Thousand Pesos or Both.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

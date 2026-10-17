@@ -1,0 +1,72 @@
+{
+ "id": "BN-S-45-1989-E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-917C2B",
+ "title": {
+  "zh": "紧急法律职业法修正命令 1989",
+  "en": "EMERGENCY LEGAL PROFESSION ACT AMENDMENT ORDER 1989",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p29",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 1969,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-45_1989_E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-1989.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-45_1989_E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-1989.pdf》（2 页），本次切分 2 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-45-1989-E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-917C2B-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Order may be cited as the Emergency (Legal Profession Act) Citation and (Amendment) Order, 1989 and shall come into force on the 9th day commence· of September, 1989. men!."
+   }
+  },
+  {
+   "id": "BN-S-45-1989-E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-917C2B-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section 7( 1) of the Legal Profession Act is repealed and replaced Amendment of by the following -Section 7(1). \" ( 1) Notwithstanding anything to the contrary contained in this Act, a judge may, in his discretion, admit to practice for the purpose of any (Chapter 132). one case any person who satisfies the requirements either of paragraph\n\n(a) or of paragraph (b). that is to say -\n\n(a) a person who holds Her Britannic Majesty's Patent as Queen's Counsel; and who(i) does not ordinarily reside in Brunei Darussalam but has come, or intends to come, to Brunei Darussalam for the purpose of appearing in the case on instructions of an advocate and solicitor ; and\n\n(ii) possesses special skill and qualifications for the purpose of the case which are not otherwise available in Brunei Darussalam.\n\n(b) a person who is entitled to practise before the High Court in Malaysia, Singapore or Hong Kong or in such other Commonwealth country as the Chief Justice may specify; and who(i) does not ordinarily reside in Brunei Darussalam but has come, or intends to come, to Brunei Darussalam for the purpose of appearing in the case on instructions of an advocate and solicitor ; and\n\n(ii) has not been admitted under this section in respect of more than two other cases in the current calendar year ; and\n\n(iii) possesses special skill and qualifications for the purpose of the case which are not otherwise available in Brunei Darussalam.''\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE Made this 9th day of September, 1989 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh ALI BIN HAJI HASSAN, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Kementerian Undang-Undang, Negara Brunei Darussalam. Harga B$5.00"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "EMERGENCY LEGAL PROFESSION ACT AMENDMENT ORDER 1989",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

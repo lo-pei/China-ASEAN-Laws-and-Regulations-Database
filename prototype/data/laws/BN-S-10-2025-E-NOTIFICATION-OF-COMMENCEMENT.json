@@ -1,7 +1,7 @@
 {
  "id": "BN-S-10-2025-E-NOTIFICATION-OF-COMMENCEMENT",
  "title": {
-  "zh": null,
+  "zh": "生效公告",
   "en": "NOTIFICATION OF COMMENCEMENT",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "22nd. MARCH, 2025 No. S 10 -c: -~~--'-0~~~~~---\"~~ A /~:: ,J.'l / _.,\n\nPERSONAL DATA PROTECTION ORDER, 2025 Notification of commencement In exercise of the power conferred by section 1(1) and (2) of the Personal Data Protection Order, 2025, the Minister of Transport and Infocommunications, with the consent of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 8th January 2025 as the date of commencement for the provisions of that Order as set out in the Schedule.\n\nSCHEDULE\n\nPROVISIONS OF PERSONAL DATA PROTECTION ORDER, 2025\n\nPART 1\n\nPART2 PART 10 (excluding section 42)\n\nPART 11\n\nPART 12 SCHEDULE 6. Dated this 8th. day of Rejab, 1446 Hijriah corresponding to the 8th. day of January, 2025.\n\nPENGIRAN DATO SERI SETIA SHAMHARY BIN PENGIRAN DATO PADUKA\n\nHAJI MUSTAPHA Minister of Transport and Infocommunications."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

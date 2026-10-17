@@ -1,7 +1,7 @@
 {
  "id": "BN-S-43-2008-MISCELLANEOUS-LICENCES-ACT-AMENDMENT-ORDER-2008",
  "title": {
-  "zh": null,
+  "zh": "杂项执照法修正命令 2008",
   "en": "MISCELLANEOUS LICENCES ACT AMENDMENT ORDER 2008",
   "orig": null
  },
@@ -73,5 +73,13 @@
     "en": "Tpe Act is amended by inserting the following new section immediately after \"Delegation. 4A. ( 1) A licensing authority may delegate to any public officer the exercise of any power or the performance of any duty conferred or imposed on it by this Act, except for the power of delegation conferred by this section.\n\n(2) A delegation under subsection (1} may be made subject to such conditions as may be determined by the licensing authority in the instrument of delegation.\n\n(3) A licensing authority may continue to exercise any power and J any duty conferred or imposed on it by this Act notwithstanding the delegation by it of such power or duty.\". Made this 29th. day of Rabiulawal, 1429 Hijriah corresponding to the 5th. day of April, 2008 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MISCELLANEOUS LICENCES ACT AMENDMENT ORDER 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

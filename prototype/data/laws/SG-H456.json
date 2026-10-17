@@ -1,7 +1,7 @@
 {
  "id": "SG-H456",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（评估小组）条例 2014",
   "en": "Casino Control (Evaluation Panel) Regulations 2014",
   "orig": null
  },
@@ -191,5 +191,13 @@
     "en": "THE SCHEDULE\nRegulations 5(3) and 8\nPerformance indicators and methodology\n1. Performance indicators relating to visitor appeal of the integrated resort and its components using the following methodology:\n(a)the number of visitors (paying and non-paying) to the integrated resort and its components;\n(b)the visitor satisfaction level, according to a survey to visitors on the appeal of the integrated resort and its components and the quality of their visitor experience.\n2. Performance indicators relating to operational and financial performance using the following methodology:\n(a)the frequency and extent of reinvestment into the integrated resort and its components;\n(b)the availability of facilities for use by visitors to the integrated resort and its components and the period of time when such facilities are unavailable."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Evaluation Panel) Regulations 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

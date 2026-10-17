@@ -1,7 +1,7 @@
 {
  "id": "PH-H4734",
  "title": {
-  "zh": null,
+  "zh": "宣布学名 Pithecophaga Jefferyi、通称食猿雕的鸟类为菲律宾受保护鸟类、规定其保护并授权为此拨款的法案",
   "en": "An Act Declaring the Pithecophaga Jefferyi Commonly Known as Monkey-Eating Eagle as a Protected Bird in the Philippines, Providing for the Preservation of the Same and Authorizing the Appropriation of Funds for the Purpose",
   "orig": "An Act Declaring the Pithecophaga Jefferyi Commonly Known as Monkey-Eating Eagle as a Protected Bird in the Philippines, Providing for the Preservation of the Same and Authorizing the Appropriation of Funds for the Purpose"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall effect upon its approval.\nApproved: November 9, 1970."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the Pithecophaga Jefferyi Commonly Known as Monkey-Eating Eagle as a Protected Bird in the Philippines, Providing for the Preservation of the Same and Authorizing the Appropriation of Funds for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5718",
  "title": {
-  "zh": null,
+  "zh": "规定主要军种司令、副参谋长与南部司令部司令为中将衔，北吕宋、南吕宋、米沙鄢与西部司令部司令及菲律宾军事学院院长为少将衔",
   "en": "An Act Authorizing the Rank of Lieutenant General/Vice Admiral to the Positions of Commanders of the Major Services, the Deputy Chief of Staff and the Southern Command and the Rank of Major General/Rear Admiral to the Positions of Commanders of the Northern Luzon Command, the Southern Luzon Command, the Visayas Command, and the Western Command, and the Superintendent of the Philippine Military Academy.",
   "orig": "An Act Authorizing the Rank of Lieutenant General/Vice Admiral to the Positions of Commanders of the Major Services, the Deputy Chief of Staff and the Southern Command and the Rank of Major General/Rear Admiral to the Positions of Commanders of the Northern Luzon Command, the Southern Luzon Command, the Visayas Command, and the Western Command, and the Superintendent of the Philippine Military Academy."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Rank of Lieutenant General/Vice Admiral to the Positions of Commanders of the Major Services, the Deputy Chief of Staff and the Southern Command and the Rank of Major General/Rear Admiral to the Positions of Commanders of the Northern Luzon Command, the Southern Luzon Command, the Visayas Command, and the Western Command, and the Superintendent of the Philippine Military Academy.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

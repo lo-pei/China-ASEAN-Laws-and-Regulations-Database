@@ -1,7 +1,7 @@
 {
  "id": "PH-H10404",
  "title": {
-  "zh": null,
+  "zh": "界定并处罚金融账户诈骗及其他犯罪、为其规定执法机制的法案",
   "en": "An Act Defining and Penalizing Financial Account Scamming and Other Offenses, and Providing For the Enforcement Mechanisms Therefor",
   "orig": "An Act Defining and Penalizing Financial Account Scamming and Other Offenses, and Providing For the Enforcement Mechanisms Therefor"
  },
@@ -300,5 +300,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Defining and Penalizing Financial Account Scamming and Other Offenses, and Providing For the Enforcement Mechanisms Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

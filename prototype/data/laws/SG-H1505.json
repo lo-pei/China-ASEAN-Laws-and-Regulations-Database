@@ -1,7 +1,7 @@
 {
  "id": "SG-H1505",
  "title": {
-  "zh": null,
+  "zh": "费用（警察服务）命令 2018",
   "en": "Fees (Police Services) Order 2018",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nPart 1\nFees for work done in respect of\nwarrant of arrest issued under section 120 of\nCriminal Procedure Code (Cap. 68, 2012 Ed.)\nFirst column\nSecond column\n1.Administrative fee for work done in obtaining warrant of arrest, including data entry and screening of person against whom warrant of arrest is issued\n$18\n2.Enforcement fee for work to be done in order to enforce warrant of arrest\n$239\n3.Annual review fee for review of warrant of arrest that remains unexecuted —\n(a)payable on every anniversary of date of issue of warrant of arrest, falling before 1 July 2014\n$14\n(b)payable on every anniversary of date of issue of warrant of arrest, falling on or after 1 July 2014\n$16\nPart 2\nFees for work done in respect of warrant of arrest\nissued under section 54 of Criminal Procedure Code\n(Cap. 68, 1985 Ed.) as in force immediately before\n2 January 2011, that remains unexecuted\nFirst column\nSecond column\n1.Enforcement fee for work to be done in order to enforce warrant of arrest\n$130\n2.Annual review fee for review of warrant of arrest that remains unexecuted —\n(a)where on 2 January 2011, warrant of arrest remains unexecuted for less than one year —\n(i)payable on every anniversary of date of issue of warrant of arrest, falling before 1 July 2014\n$14\n(ii)payable on every anniversary of date of issue of warrant of arrest, falling on or after 1 July 2014\n$16\n(b)where on 2 January 2011, warrant of arrest remains unexecuted for one year or more —\n(i)payable on 2 January 2011 and every subsequent anniversary of that date before 2 January 2015\n$14\n(ii)payable on 2 January 2015 and every subsequent anniversary of that date\n$16"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Police Services) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

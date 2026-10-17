@@ -1,7 +1,7 @@
 {
  "id": "PH-H1920",
  "title": {
-  "zh": null,
+  "zh": "为碧瑶市市镇法院增设1名法官，为此修订《修订行政法典》（经修正）第2562条的法案",
   "en": "An Act Providing for an Additional Judge for the Municipal Court of the City of Baguio, Amending for the Purpose Section Twenty-Five Hundred and Sixty-Two of the Revised Administrative Code, as Amended",
   "orig": "An Act Providing for an Additional Judge for the Municipal Court of the City of Baguio, Amending for the Purpose Section Twenty-Five Hundred and Sixty-Two of the Revised Administrative Code, as Amended"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 4, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for an Additional Judge for the Municipal Court of the City of Baguio, Amending for the Purpose Section Twenty-Five Hundred and Sixty-Two of the Revised Administrative Code, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

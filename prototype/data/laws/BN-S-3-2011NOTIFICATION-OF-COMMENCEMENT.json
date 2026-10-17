@@ -1,0 +1,63 @@
+{
+ "id": "BN-S-3-2011NOTIFICATION-OF-COMMENCEMENT",
+ "title": {
+  "zh": "生效公告",
+  "en": "NOTIFICATION OF COMMENCEMENT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p33",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 644,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null,
+  "file": "S-3-2011NOTIFICATION-OF-COMMENCEMENT.pdf"
+ },
+ "sourceFile": "S-3-2011NOTIFICATION-OF-COMMENCEMENT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "【源件无文本层，本记录为 OCR 补录】源 PDF 为纯扫描图像（无文本层），已用 Windows OCR 引擎识别；本机仅安装**简体中文识别模型**（无英文语言包），故对英文法条的字符准确率有限（易混：l/I、o/0、m/ın、大小写），并可能残留页边条标题。**本记录仅可用于检索定位，不可作为逐字引用依据；逐字引用请以原始 PDF 为准**。 本件共 1 页，切分 1 条。",
+ "textQuality": "ocr-windows-zh-Hans",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-3-2011NOTIFICATION-OF-COMMENCEMENT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "20th. JANUARY , 2011 No ． S 3 CUSTOMS ORDBR, 2 佣 6 39 / 06 , CUSTOMS (ASEAN TRADE IN GOOD S AGREEMENT) ORDER, 2010 89 / lo ,\n\nNOTIFICATION OF COMMENC BMENT ln exercise of the power conferred by paragraph 1 , the Minister of Finance, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints the lst, January , 2010 as the date on which the Customs (ASEAN Trade in Goods Agreement) Order, 2010 shall be deemed to have commenced. Dated this 14th · day of Safar, 1432 Hij riah corresponding to the 19th · day of January, 2011 · HAJI HISHAM BIN HAJI MOHD. HANIFAH P ermanent Secretary, Ministry of Financel Brunei Darussalam."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

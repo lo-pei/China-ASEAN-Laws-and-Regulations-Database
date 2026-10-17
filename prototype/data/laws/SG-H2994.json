@@ -1,7 +1,7 @@
 {
  "id": "SG-H2994",
  "title": {
-  "zh": null,
+  "zh": "律师专业（法律执业实体）规则 2015",
   "en": "Legal Profession (Law Practice Entities) Rules 2015",
   "orig": null
  },
@@ -1392,5 +1392,13 @@
     "en": "THIRD SCHEDULE\nRule 50(3)\nSpecified quasi‑judicial and regulatory bodies, authorities and tribunals\n1. An Appeal Advisory Committee constituted under section 88 of the Business Trusts Act (Cap. 31A).\n2. An Appeal Advisory Committee constituted under section 91 of the Financial Advisers Act (Cap. 110).\n3. An Appeal Advisory Committee constituted under section 49G of the Insurance Act (Cap. 142).\n4. An Appeal Advisory Committee constituted under section 310 of the Securities and Futures Act (Cap. 289).\n5. An Appeal Advisory Committee constituted under section 51 of the Trust Companies Act (Cap. 336).\n6. The Securities Industry Council established under section 138(1) of the Securities and Futures Act in relation to any enquiry conducted under section 138(4) or 139(10) of that Act.\n7. The following committees established under Rules issued by the Singapore Exchange Limited (SGX):\n(a)SGX‑ST disciplinary committee established under the Singapore Exchange Securities Trading Limited (SGX‑ST) Rules;\n(b)CDP disciplinary committee established under the Central Depository (Pte) Limited (CDP) Clearing Rules;\n(c)SGX‑DT disciplinary committee established under the Futures Trading Rules of Singapore Exchange Derivatives Trading Limited (SGX‑DT);\n(d)SGX‑DC disciplinary committee established under the Singapore Exchange Derivatives Clearing Limited (SGX‑DC) Clearing Rules;\n(e)SGX appeals committee referred to in the Singapore Exchange Securities Trading Limited (SGX‑ST) Rules, Central Depository (Pte) Limited (CDP) Clearing Rules, Futures Trading Rules of Singapore Exchange Derivatives Trading Limited (SGX‑DT) and Singapore Exchange Derivatives Clearing Limited (SGX‑DC) Clearing Rules;\n(f)Catalist disciplinary committee established under Rules of Catalist;\n(g)Catalist appeals committee established under Rules of Catalist."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Law Practice Entities) Rules 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

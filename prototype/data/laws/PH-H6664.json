@@ -1,7 +1,7 @@
 {
  "id": "PH-H6664",
  "title": {
-  "zh": null,
+  "zh": "规定菲律宾武装部队现役部队军官职级分布并限制上校/海军上校（PN）与将官/旗官在 AFP 的任期",
   "en": "An Act Prescribing Officer Grade Distribution in the Active Force of the Armed Forces of the Philippines and Limiting the Tenure of Officers in the Grades of Colonel/Captain (PN) and General/Flag Officers in the AFP",
   "orig": "An Act Prescribing Officer Grade Distribution in the Active Force of the Armed Forces of the Philippines and Limiting the Tenure of Officers in the Grades of Colonel/Captain (PN) and General/Flag Officers in the AFP"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity. - This Act shall take effect upon its approval.\nApproved, June 11, 1996."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prescribing Officer Grade Distribution in the Active Force of the Armed Forces of the Philippines and Limiting the Tenure of Officers in the Grades of Colonel/Captain (PN) and General/Flag Officers in the AFP",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

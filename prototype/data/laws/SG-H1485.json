@@ -1,7 +1,7 @@
 {
  "id": "SG-H1485",
  "title": {
-  "zh": null,
+  "zh": "费用（出庭——国防部）命令",
   "en": "Fees (Attendance in Court — Ministry of Defence) Order",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\n(1)Superscale Officer\n$370.\n(2)(a)Lieutenant (Scheme B, C) to Lieutenant-Colonel (timescale)\n$190.\n(b)Non-Uniformed Servicemen, N2, N3 Grades VI to N1, N3, N3 Grade 1B\n(3)(a)Second Warrant Officer to Lieutenant (Scheme A)\n$110.\n(b)Non-Uniformed Servicemen, Grades NA4 to NA1, N1 Grade VI to VIA\n(4)(a)Corporal to Master Sergeant\n$ 90.\n(b)Non-Uniformed Servicemen, Grades NC1 to NB1\n(5)(a)Recruit to Lance-Corporal\n$ 60.\n(b)Non-Uniform Servicemen, Grades NC3 to NC2"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Attendance in Court — Ministry of Defence) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

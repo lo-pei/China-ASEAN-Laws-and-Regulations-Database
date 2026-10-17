@@ -1,7 +1,7 @@
 {
  "id": "SG-H427",
  "title": {
-  "zh": null,
+  "zh": "终身护保与长期护理（CSHL 计划）条例 2020",
   "en": "CareShield Life and Long-Term Care (CSHL Scheme) Regulations 2020",
   "orig": null
  },
@@ -618,5 +618,13 @@
     "en": "SECOND SCHEDULE\nRegulation 25(1)\nPart 1\nINSURED SUM IF FIRST ENTITLED IN 2020 TO 2025\nYear of birth\nInsured sum\n2020\n2021\n2022\n2023\n2024\n2025\n1980 or later\n$600\n$612\n$624\n$637\n$649\n$662\n1958 to 1979\n-\n$612\n$624\n$637\n$649\n$662\n1957\n-\n$612\n$624\n$637\n$649\n$649\n1956\n-\n$612\n$624\n$637\n$637\n$637\n1955\n-\n$612\n$624\n$624\n$624\n$624\n1954 or earlier\n-\n$612\n$612\n$612\n$612\n$612\nPart 2\nINSURED SUM IF FIRST ENTITLED IN 2026 TO 2030\nYear of birth\nInsured sum\n2026\n2027\n2028\n2029\n2030\n1963 or later\n$689\n$717\n$745\n$775\n$806\n1962\n$689\n$717\n$745\n$775\n$775\n1961\n$689\n$717\n$745\n$745\n$745\n1960\n$689\n$717\n$717\n$717\n$717\n1959\n$689\n$689\n$689\n$689\n$689\n1958\n$662\n$662\n$662\n$662\n$662\n1957\n$649\n$649\n$649\n$649\n$649\n1956\n$637\n$637\n$637\n$637\n$637\n1955\n$624\n$624\n$624\n$624\n$624\n1954 or earlier\n$612\n$612\n$612\n$612\n$612\n[S 805/2025 wef 01/01/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "CareShield Life and Long-Term Care (CSHL Scheme) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

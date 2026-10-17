@@ -1,7 +1,7 @@
 {
  "id": "PH-H6480",
  "title": {
-  "zh": null,
+  "zh": "规定将南拉瑙省 Molundo 市镇 Dalama 海岸开发为公共海滨度假区的法案",
   "en": "An Act Providing for the Development of the Dalama Shoreline in the Municipality of Molundo, Province of Lanao Del Sur, Into a Public Beach Resort",
   "orig": "An Act Providing for the Development of the Dalama Shoreline in the Municipality of Molundo, Province of Lanao Del Sur, Into a Public Beach Resort"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Development of the Dalama Shoreline in the Municipality of Molundo, Province of Lanao Del Sur, Into a Public Beach Resort",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

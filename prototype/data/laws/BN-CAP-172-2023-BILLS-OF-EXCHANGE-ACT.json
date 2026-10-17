@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-172-2023-BILLS-OF-EXCHANGE-ACT",
  "title": {
-  "zh": null,
+  "zh": "汇票法",
   "en": "Bills of Exchange Act",
   "orig": null
  },
@@ -1394,5 +1394,13 @@
     "en": "(1) The rules in bankruptcy relating to bills of exchange, promissory notes and cheques shall continue to apply thereto notwithstanding anything\n\n(2) Subject to the provisions of any written law for the time being in force, the rules of the common law, including the law merchant, shall, save in so far as they are inconsistent with the express provisions of this Act, apply to bills of exchange, promissory notes and cheques.\n\n(3) Nothing in this Act shall affect —\n\n(a) the provisions of any written law for the time being in force relating to revenue;\n\n(b) the provisions of any written law for the time being in force relating to joint stock banks or companies;\n\n(c) the validity of any usage relating to dividend warrants, or the indorsement thereof."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Bills of Exchange Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1759",
  "title": {
-  "zh": null,
+  "zh": "酒店法 1954",
   "en": "Hotels Act 1954",
   "orig": null
  },
@@ -259,5 +259,13 @@
     "en": "17.—(1) The Minister may make such regulations as he may consider expedient for the purposes of this Act.\n(2) Without prejudice to the generality of subsection (1), regulations may be made for any of the purposes or with respect to any of the following matters:\n(a)the control and management of hotels;\n(b)the classification of hotels;\n(c)the standards of hygiene to be observed in hotels;\n(d)the powers of entry into and inspection of premises;\n(e)the regulation of the procedure and proceedings of the Board;\n(f)the forms of certificates of registration, applications, licences, notices and any other forms which require to be prescribed under the provisions of this Act;\n(g)the fees to be paid for certificates of registration and licences and any other fees which require to be prescribed under the provisions of this Act;\n(h)the conditions under which licences may be granted;\n(i)the exemption of premises or classes of premises from the provisions of this Act;\n(j)prescribing that any act or omission in contravention of the provisions of any regulations made under this Act shall be an offence, and imposing penalties for such offences which penalties may extend to the cancellation or suspension of any certificate of registration and to the cancellation of any licence granted under the provisions of this Act, but shall not exceed a fine of $2,000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Hotels Act 1954",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

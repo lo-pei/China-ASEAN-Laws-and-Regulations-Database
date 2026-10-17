@@ -1,7 +1,7 @@
 {
  "id": "PH-H905",
  "title": {
-  "zh": null,
+  "zh": "授权总统向在履行职责中丧生或将丧生的菲律宾武装部队成员的遗孀、父母与近亲颁发适当表彰证书的法案",
   "en": "An Act Authorizing the President to Issue Appropriate Certificates of Recognition to Widows, Parents and Next of Kin of Members of the Armed Forces of the Philippines Who Lost or Shall Lose Their Lives in Line of Duty",
   "orig": "An Act Authorizing the President to Issue Appropriate Certificates of Recognition to Widows, Parents and Next of Kin of Members of the Armed Forces of the Philippines Who Lost or Shall Lose Their Lives in Line of Duty"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President to Issue Appropriate Certificates of Recognition to Widows, Parents and Next of Kin of Members of the Armed Forces of the Philippines Who Lost or Shall Lose Their Lives in Line of Duty",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

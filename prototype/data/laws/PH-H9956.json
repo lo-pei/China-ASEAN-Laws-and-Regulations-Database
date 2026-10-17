@@ -1,7 +1,7 @@
 {
  "id": "PH-H9956",
  "title": {
-  "zh": null,
+  "zh": "设立 2019 年冠状病毒病（CoVID-19）疫苗接种计划、加快疫苗采购与接种并为其拨款的法案，并为其他目的",
   "en": "An Act Establishing the Coronavirus Disease 2019 (CoVID-19) Vaccination Program Expediting the Vaccine Procurement and Administration Process, Providing Funds Therefor, and for Other Purposes",
   "orig": "An Act Establishing the Coronavirus Disease 2019 (CoVID-19) Vaccination Program Expediting the Vaccine Procurement and Administration Process, Providing Funds Therefor, and for Other Purposes"
  },
@@ -140,5 +140,13 @@
     "en": "COVID-19 National Vaccine Indemnity Fund. - The COVID-19 National Vaccine Indemnity Fund, which shall be administered by the PhilHealth, is hereby established as a trust fund to compensate any person inoculated through the COVID-19 Vaccination Program, in case of death, permanent disability or hospital confinement for any SAEs: Provided, That in case of death and permanent disability, PhilHealth is hereby authorized to pay compensation from the indemnity fund.\nThe amount of Five hundred million pesos (P500,000,000.00) is hereby authorized to augment the funds of PhilHealth for this purpose which shall be sourced from the Contingent Fund, as provided under Republic Act No. 11518 or the General Appropriations Act of 2021.\nThe indemnity fund shall be valid and available for release and disbursement until terminated by the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the Coronavirus Disease 2019 (CoVID-19) Vaccination Program Expediting the Vaccine Procurement and Administration Process, Providing Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

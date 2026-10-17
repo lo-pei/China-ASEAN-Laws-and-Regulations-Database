@@ -1,7 +1,7 @@
 {
  "id": "PH-H1398",
  "title": {
-  "zh": null,
+  "zh": "给予任职未满2年的临时任用政府女性雇员产假，为此修订第647号联邦法（经修正）的法案",
   "en": "An Act Granting Maternity Leave to Women in Government Service Under Temporary Appointments Who Have Rendered Less Than Two Years of Service, by Amending Commonwealth Act Numbered Six Hundred and Forty-Seven, as Amended",
   "orig": "An Act Granting Maternity Leave to Women in Government Service Under Temporary Appointments Who Have Rendered Less Than Two Years of Service, by Amending Commonwealth Act Numbered Six Hundred and Forty-Seven, as Amended"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect as of June sixteen, nineteen hundred and fifty-one.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Maternity Leave to Women in Government Service Under Temporary Appointments Who Have Rendered Less Than Two Years of Service, by Amending Commonwealth Act Numbered Six Hundred and Forty-Seven, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

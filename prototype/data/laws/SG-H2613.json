@@ -1,7 +1,7 @@
 {
  "id": "SG-H2613",
  "title": {
-  "zh": null,
+  "zh": "资讯通信媒体发展局（争议解决计划）条例 2022",
   "en": "Info-communications Media Development Authority (Dispute Resolution Scheme) Regulations 2022",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRegulation 3\nTerms and conditions of participation in\nTelecommunication and Subscription Television\nDispute Resolution Scheme\n1. Where a designated media licensee is aware that an applicable subscriber has notified the Singapore Mediation Centre (called in this Schedule the Scheme operator) that the applicable subscriber intends for an applicable dispute involving the designated media licensee to be resolved under the Telecommunication and Subscription Television Dispute Resolution Scheme (called in this Schedule the Scheme), the designated media licensee must, before considering any other method of dispute resolution (including litigation), refer the applicable dispute for mediation and further dispute resolution under the Scheme by the Scheme operator.\n2. If an applicable dispute involving a designated media licensee is referred for mediation under the Scheme and —\n(a)no agreement is arrived at between the parties in settlement of the applicable dispute for any reason, such as either of the following:\n(i)the applicable subscriber opts against mediation or continuing with mediation (as the case may be) under the Scheme;\n(ii)the time delimited under the Scheme for mediating parties to arrive at an agreement has expired; and\n(b)the designated media licensee is aware that the applicable subscriber has notified the Scheme operator that the applicable subscriber consents to the applicable dispute being referred for further dispute resolution under the Scheme,\nthat designated media licensee must, before considering any other method of dispute resolution (including litigation), submit the applicable dispute for further dispute resolution under the Scheme.\n3. A designated media licensee that is a party to an applicable dispute referred for mediation and further dispute resolution under the Scheme must —\n(a)pay 90% of the total cost of mediation of the applicable dispute under the Scheme; and\n(b)subject to paragraph 4, pay 70% of the cost of further dispute resolution of that applicable dispute under the Scheme.\n4. Where —\n(a)an applicable dispute involving a designated media licensee and an applicable subscriber is referred for mediation and further dispute resolution under paragraph 1; and\n(b)the applicable subscriber informs the Scheme operator in writing or by any other mode specified by the Scheme operator that the applicable subscriber wishes for the applicable dispute to be referred to dispute resolution under the Scheme directly without prior mediation,\nthe designated media licensee must pay 50% of the cost of the dispute resolution of the applicable dispute under the Scheme.\n5. Nothing in these Regulations obliges an applicable subscriber to resolve an applicable dispute by way of the Scheme, and the applicable subscriber may commence an action against a designated media licensee in relation to the applicable dispute in court.\n6. A designated media licensee that is a party to a dispute resolution proceeding under the Scheme may only be represented in that dispute resolution proceeding by an officer or employee (excluding legal counsel employed by the designated media licensee) who is authorised to make decisions on behalf of the designated media licensee in the conduct of any dispute resolution proceedings under the Scheme."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Info-communications Media Development Authority (Dispute Resolution Scheme) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

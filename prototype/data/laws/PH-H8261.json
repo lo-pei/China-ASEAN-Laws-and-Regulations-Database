@@ -1,7 +1,7 @@
 {
  "id": "PH-H8261",
  "title": {
-  "zh": null,
+  "zh": "鼓励为慈善目的捐赠食品的法案",
   "en": "An Act to Encourage the Donation of Food for Charitable Purposes",
   "orig": "An Act to Encourage the Donation of Food for Charitable Purposes"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication in at least one(1) newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Encourage the Donation of Food for Charitable Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

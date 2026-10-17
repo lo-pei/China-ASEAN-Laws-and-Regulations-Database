@@ -1,7 +1,7 @@
 {
  "id": "SG-H2981",
  "title": {
-  "zh": null,
+  "zh": "法律援助与咨询法 1995",
   "en": "Legal Aid and Advice Act 1995",
   "orig": null
  },
@@ -478,5 +478,13 @@
     "en": "THE SCHEDULE\nSection 5(1), (2) and (3)\nCivil proceedings for which legal aid may be given\nPart 1\nDescription of Proceedings\n1. Proceedings in the General Division of the High Court, the Family Division of the High Court, the Appellate Division of the High Court and the Court of Appeal.\n[Act 32 of 2024 wef 01/04/2025]\n2. Proceedings in Family Courts, District Courts and Magistrates’ Courts.\n3. Proceedings before any person to whom a case is referred in whole or in part by the Supreme Court.\n4. Proceedings before any person to whom a case is referred in whole or in part by a Family Court or District Court.\n5. Proceedings under the Women’s Charter 1961.\n6. Proceedings before the Syariah Court and the Appeal Board under the Administration of Muslim Law Act 1966.\n7. Proceedings before the Commissioner for Labour under the Work Injury Compensation Act 2019 or the Work Injury Compensation Act (Cap. 354, 2009 Revised Edition) repealed by that Act.\nPart 2\nPROCEEDINGS FOR WHICH LEGAL AID IS\nGENERALLY NOT GIVEN\n1. Proceedings wholly or partly in respect of —\n(a)defamation;\n(b)breach of promise of marriage; and\n(c)the inducement of one spouse to leave or remain apart from the other.\n2. Relator actions.\n3. Any application under the Parliamentary Elections Act 1954 or the Presidential Elections Act 1991.\n4. In a Family Court or District Court, proceedings for or consequent on the issue of a judgment summons and, in the case of a defendant, proceedings where the only question to be brought before the Court is as to the time or mode of payment by him or her of a debt (including liquidated damages) and costs.\n5. Proceedings incidental to any proceedings mentioned in this Part.\n[42/2005; 6/2013; 27/2014; 50/2018; 27/2019; 40/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Aid and Advice Act 1995",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

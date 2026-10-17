@@ -1,7 +1,7 @@
 {
  "id": "SG-H2706",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 4 号）命令 2019",
   "en": "Infrastructure Protection (Protected Places) (No. 4) Order 2019",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\nThe Authority\nProtected Place\n1.[Deleted by S 491/2026 wef 12/07/2026]\n2.Head of Rail,\nSBS Transit Ltd\n(1)LRT SENGKANG DEPOT\nAll that area comprised in Land Lot 1398M in Mukim No. 21 occupied by “LRT SENGKANG DEPOT” containing an area of about 35103.0 square metres and bounded approximately as follows:\nCommencing at the northernmost corner at a point 41391.7 metres North and 33569.3 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n41391.7\n33569.3\n41225.3\n33840.6\n41195.2\n33871.4\n41118.1\n33824.2\n41293.2\n33538.6\n41367.0\n33553.3\n41371.8\n33545.3\nto the point of commencement.\nThe boundaries of “LRT SENGKANG DEPOT” are more particularly delineated on the Survey Plan No. LTA/PP/GAZ/02 filed in the office of the Deputy Director, Public Transport Security Division, Land Transport Authority of Singapore, a copy of which is set out below.\nFirst column\nSecond column\nThe Authority\nProtected Place\nHead of Rail,\nSBS Transit Ltd\n(2)MRT SENGKANG DEPOT\nAll that area comprised in Airspace Lot 70003L and Subterranean Lot 80004C in Mukim No. 21 occupied by “MRT SENGKANG DEPOT” containing an area of about 276728.3 square metres and bounded approximately as follows:\nCommencing at the northernmost corner at a point 41456.1 metres North and 33471.0 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n41456.1\n33471.0\n41455.9\n33488.9\n41437.1\n33519.1\n41436.0\n33521.2\n41426.2\n33542.2\n41419.9\n33552.3\n41399.7\n33584.8\n41337.9\n33683.8\n41324.9\n33698.4\n41311.4\n33721.6\n41303.1\n33739.3\n41249.1\n33825.7\n41250.2\n33826.4\n41214.6\n33883.3\n41162.3\n33967.0\n41130.4\n34018.0\n41117.3\n34033.5\n41107.7\n34048.8\n41096.6\n34072.2\n41038.9\n34164.4\n41034.1\n34166.0\n41004.2\n34215.0\n40997.4\n34226.8\n40990.3\n34245.9\n40986.3\n34253.9\n40974.0\n34272.9\n40895.7\n34225.5\n40895.4\n34225.0\n40882.9\n34217.5\n40853.3\n34286.3\n40854.2\n34286.7\n40805.5\n34383.7\n40799.4\n34381.6\n40786.7\n34378.6\n40774.6\n34375.6\n40749.6\n34364.6\n40744.2\n34361.9\n40727.1\n34352.9\n40714.0\n34345.2\n40715.5\n34339.4\n40717.6\n34331.6\n40719.0\n34327.8\n40722.4\n34316.2\n40725.1\n34317.1\n40774.3\n34142.4\n40817.6\n34012.0\n40925.1\n33741.2\n40926.4\n33730.6\n40939.1\n33699.7\n40965.3\n33669.6\n40976.4\n33662.5\n41181.3\n33426.3\n41269.8\n33447.3\n41324.5\n33456.8\n41398.6\n33463.8\n41442.0\n33463.4\nto the point of commencement.\nThe boundaries of “MRT SENGKANG DEPOT” are more particularly delineated on the Survey Plan No. LTA/PP/GAZ/03 filed in the office of the Deputy Director, Public Transport Security Division, Land Transport Authority of Singapore, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 4) Order 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

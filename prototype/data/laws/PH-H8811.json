@@ -1,7 +1,7 @@
 {
  "id": "PH-H8811",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 3 月 26 日为宿务省特别工作公共假日的法案",
   "en": "An Act Declaring March 26 of Every Year as a Special Working Public Holiday in the Province of Cebu to Commemorate the Historic Liberation of Cebu From the Japanese Occupation During World War II",
   "orig": "An Act Declaring March 26 of Every Year as a Special Working Public Holiday in the Province of Cebu to Commemorate the Historic Liberation of Cebu From the Japanese Occupation During World War II"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in at least one (1) national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring March 26 of Every Year as a Special Working Public Holiday in the Province of Cebu to Commemorate the Historic Liberation of Cebu From the Japanese Occupation During World War II",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

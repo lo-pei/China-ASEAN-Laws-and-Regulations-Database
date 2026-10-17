@@ -1,7 +1,7 @@
 {
  "id": "PH-H6317",
  "title": {
-  "zh": null,
+  "zh": "加强菲律宾教学执业的监管与监督，规定教师资格考试并为其他目的法案",
   "en": "An Act to Strengthen the Regulation and Supervision of the Practice of Teaching in the Philippines and Prescribing a Licensure Examination for Teachers and for Other Purposes",
   "orig": "An Act to Strengthen the Regulation and Supervision of the Practice of Teaching in the Philippines and Prescribing a Licensure Examination for Teachers and for Other Purposes"
  },
@@ -380,5 +380,13 @@
     "en": "Effectivity Clause. - This Act shall take effect after fifteen (15) days following its complete publication in the Official Gazette or in two (2) newspapers of general circulation.\nApproved, December 16, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Strengthen the Regulation and Supervision of the Practice of Teaching in the Philippines and Prescribing a Licensure Examination for Teachers and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

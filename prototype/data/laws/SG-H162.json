@@ -1,7 +1,7 @@
 {
  "id": "SG-H162",
  "title": {
-  "zh": null,
+  "zh": "航空导航（巴耶利峇与登加机场费用）命令",
   "en": "Air Navigation (Paya Lebar and Tengah Aerodrome Fees) Order",
   "orig": null
  },
@@ -260,5 +260,13 @@
     "en": "FOURTH SCHEDULE\nParagraph 13(1)\nPassenger Service Charge\nPassengers embarking for destinations in Malaysia or Brunei Darussalam\n$5.\nPassengers embarking for destinations outside Malaysia or\nBrunei Darussalam\n$12.\n[G.N. Nos. S 228/70; S 202/71; S 298/71; S 272/72; S 198/73; S 168/74; S 61/78; S 343/80; S 84/81]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Air Navigation (Paya Lebar and Tengah Aerodrome Fees) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

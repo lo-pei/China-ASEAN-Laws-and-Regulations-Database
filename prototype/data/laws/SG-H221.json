@@ -1,7 +1,7 @@
 {
  "id": "SG-H221",
  "title": {
-  "zh": null,
+  "zh": "副注册官的委任",
   "en": "Appointment of Deputy Registrar",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Registration of Births and Deaths Act\n(Chapter 267)\nAppointment of Deputy Registrar\nIt is hereby notified for general information that, in exercise of the powers conferred by section 3(2) of the Registration of Births and Deaths Act, the Minister for Home Affairs has appointed the Commanding Officer, Sengkang Neighbourhood Police Centre, to be a Deputy Registrar of Births and Deaths for the purposes of the Act, with effect from 5th October 2004."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Deputy Registrar",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

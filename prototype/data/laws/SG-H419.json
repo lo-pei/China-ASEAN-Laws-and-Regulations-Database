@@ -1,7 +1,7 @@
 {
  "id": "SG-H419",
  "title": {
-  "zh": null,
+  "zh": "碳定价（配额——职能与权力转授）命令 2023",
   "en": "Carbon Pricing (Allowances — Assignment of Functions and Powers) Order 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The Minister assigns to the Economic Development Board the powers and functions of the Minister under sections 20D and 20E of the Act (but not any power mentioned in section 20G(10) of the Act).\n(2) The Economic Development Board may carry out or exercise an assigned function or power in relation to a determination made under section 20D(1)(b) of the Act, or an award of allowances granted under section 20D(2) of the Act, whether or not the determination or award of allowances is made or granted by the Board."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Carbon Pricing (Allowances — Assignment of Functions and Powers) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

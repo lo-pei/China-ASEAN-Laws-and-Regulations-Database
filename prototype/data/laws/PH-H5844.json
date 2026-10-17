@@ -1,7 +1,7 @@
 {
  "id": "PH-H5844",
  "title": {
-  "zh": null,
+  "zh": "设立国家文化艺术委员会、设立国家文化艺术捐赠基金并为其他目的法案",
   "en": "An Act Creating the National Commission for Culture and the Arts, Establishing a National Endowment Fund for Culture and the Arts, and for Other Purposes",
   "orig": "An Act Creating the National Commission for Culture and the Arts, Establishing a National Endowment Fund for Culture and the Arts, and for Other Purposes"
  },
@@ -310,5 +310,13 @@
     "en": "Effectivity . - This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the National Commission for Culture and the Arts, Establishing a National Endowment Fund for Culture and the Arts, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

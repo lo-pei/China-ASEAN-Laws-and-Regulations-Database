@@ -1,7 +1,7 @@
 {
  "id": "SG-H1740",
  "title": {
-  "zh": null,
+  "zh": "公路（修订）法典 2022",
   "en": "Highway (Revision) Code 2022",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. In paragraph 50 of the Highway Code, replace sub‑paragraph (c) with —\n“(c)there is —\n(i)a full‑day bicycle lane, in which case, you should keep to the left‑most vehicle lane at any time; or\n(ii)a part‑day bicycle lane, in which case, you should keep to the left‑most vehicle lane at any time during the operating hours of the part‑day bicycle lane.”."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Highway (Revision) Code 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

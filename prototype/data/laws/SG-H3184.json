@@ -1,7 +1,7 @@
 {
  "id": "SG-H3184",
  "title": {
-  "zh": null,
+  "zh": "商船（海事劳工公约）（海员招募与安置服务）条例 2014",
   "en": "Merchant Shipping (Maritime Labour Convention) (Seafarer Recruitment and Placement Services) Regulations 2014",
   "orig": null
  },
@@ -272,5 +272,13 @@
     "en": "18. Any person who contravenes regulation 5, 6(1) or (2), 7, 8(1), (4), (5) or (7), 9(1), (2), (3) or (4), 10(1), 15 or 16 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Maritime Labour Convention) (Seafarer Recruitment and Placement Services) Regulations 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

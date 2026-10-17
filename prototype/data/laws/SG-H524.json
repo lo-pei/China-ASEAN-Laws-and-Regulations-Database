@@ -1,7 +1,7 @@
 {
  "id": "SG-H524",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（提名与代名人账户）条例 2012",
   "en": "Central Provident Fund (Nominations and Nominee Accounts) Regulations 2012",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) This regulation applies where —\n(a)a member of the Fund has executed a memorandum under section 25(1) of the Act nominating any person to receive the person’s portion of the amount payable on the member’s death out of the Fund in accordance with section 25(1)(a)(iii) of the Act;\n(b)the Board has been notified in accordance with regulation 4(1) of the death of the member; and\n(c)the Board has transferred in accordance with regulation 4(2) the person’s portion of the amount payable on the member’s death out of the Fund to the nominee accounts maintained for the member.\n(2) Subject to paragraphs (3), (4) and (5), for the purposes of section 20(1D)(c) of the Act, the Board may pay the person, from the person’s share of the amount standing to the member’s credit in the member’s nominee ordinary account, nominee special account (if any) and nominee retirement account (if any) and any interest accruing on that amount (collectively called in this regulation the person’s relevant share) a monthly cash instalment of —\n(a)subject to sub-paragraph (b), the higher of the following amounts:\n(i)an amount specified by the member for the person in the memorandum;\n(ii)$250; or\n(b)if the balance of the relevant share is less than the higher of the amounts mentioned in sub‑paragraph (a), the entire balance.\n(3) Subject to paragraph (4), the monthly cash instalment mentioned in paragraph (2) is payable to the person until the person’s relevant share has been exhausted or until the Board has been notified of the person’s death, whichever is the earlier.\n(4) Where any payment of the monthly cash instalment mentioned in paragraph (2) to the person results in a balance of $100 or less in the amount of the person’s relevant share, the Board may permit the entire balance to be paid together with the monthly cash instalment.\n(5) Where the person dies, the entire balance of the person’s relevant share remaining after payments under paragraphs (3) and (4) (if any) is payable to his or her estate.\n(6) Subject to paragraphs (7), (8) and (9), for the purposes of section 20(1D)(c) of the Act, the Board may transfer the person’s share of the amount standing to the member’s credit in the member’s nominee medisave account and any interest accruing on that amount (collectively called in this regulation the person’s medisave share) to the person’s medisave account in periodic instalments of such amounts and intervals as the Board may determine.\n(7) The amount of each periodic instalment mentioned in paragraph (6) must not exceed the difference between —\n(a)the basic healthcare sum; and\n(b)the amount standing to the person’s credit in his or her medisave account at the time when the transfer of that periodic instalment is to take place.\n(8) If the amount standing to the person’s credit in his or her medisave account at any time exceeds the basic healthcare sum, no amount may be transferred into his or her medisave account under paragraph (6) at that time.\n(9) Where the person dies, the entire balance of the person’s medisave share remaining after payments under paragraphs (6) and (7) (if any) must be paid into his or her account in the Fund.\n(10) In this regulation, “basic healthcare sum” has the meaning given by regulation 2 of the Central Provident Fund (Medisave Account Transfers) Regulations 2016."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Nominations and Nominee Accounts) Regulations 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

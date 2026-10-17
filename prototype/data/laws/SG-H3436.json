@@ -1,7 +1,7 @@
 {
  "id": "SG-H3436",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11(3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n1. Business Registration Act (Chapter 32)\n2. Cinematograph Film Hire Duty Act (Chapter 40)\n3. Civil Defence Act (Chapter 42)\n4. Control of Manufacture Act (Chapter 57)\n5. Customs Act (Chapter 70)\n6. Departmental Titles (Alteration) Act (Chapter 77)\n7. Economic Development Board Act (Chapter 85)\n8. Economic Expansion Incentives (Relief from Income Tax) Act (Chapter 86)\n9. Estate Duty Act (Chapter 96)\n10. Goods and Services Tax Act (Chapter 117A)\n11. High Court (Admiralty Jurisdiction) Act (Chapter 123)\n12. Intoxicating Substances Act (Chapter 146A)\n13. Maintenance of Religious Harmony Act (Chapter 167A)\n14. Misuse of Drugs Act (Chapter 185)\n15. National Council of Social Service Act (Chapter 195A)\n16. Parliamentary Elections Act (Chapter 218)\n17. Public Entertainments and Meetings Act (Chapter 257)\n18. Reciprocal Enforcement of Foreign Judgements Act (Chapter 265)\n19. Trade Development Board Act (Chapter 330)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

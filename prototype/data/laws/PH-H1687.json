@@ -1,7 +1,7 @@
 {
  "id": "PH-H1687",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第304号共和国法，授权退伍军人使用其欠薪凭证向国家、省、市或市镇政府购买或租赁土地的法案",
   "en": "An Act Further Amend Republic Act Numbered Three Hundred and Four by Authorizing War Veterans to Use Their Back Pay Certificates for the Purchase or Lease of Lands from the National, Provincial, City or Municipal Governments",
   "orig": "An Act Further Amend Republic Act Numbered Three Hundred and Four by Authorizing War Veterans to Use Their Back Pay Certificates for the Purchase or Lease of Lands from the National, Provincial, City or Municipal Governments"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amend Republic Act Numbered Three Hundred and Four by Authorizing War Veterans to Use Their Back Pay Certificates for the Purchase or Lease of Lands from the National, Provincial, City or Municipal Governments",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

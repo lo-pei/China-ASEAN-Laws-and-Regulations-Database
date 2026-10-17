@@ -1,7 +1,7 @@
 {
  "id": "BN-S-93-2010-NOTICE-ON-THE-GRANTING-OF-MINERAL-RIGHTS-BY-2D2B38",
  "title": {
-  "zh": null,
+  "zh": "苏丹陛下会同枢密院授予矿权通知",
   "en": "NOTICE ON THE GRANTING OF MINERAL RIGHTS BY HIS MAJESTY THE SULTAN AND YANG DI PERTUAN IN COUNCIL",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "No. S 93\n\nBRUNEI NATIONAL PETROLEUM COMPANY SENDIRIAN BERHAD\n\nORDER, 2002 (S 6/02)\n\nNOTICE ON THE GRANTING OF MINERAL RIGHTS BY\n\nHIS MAJESTY THE SULTAN AND YANG DI-PERTUAN IN COUNCIL (section 3(1)) It is hereby notified that His Majesty the Sultan and Yang Di-Pertuan in Council has, on the 9th. September, 2010 pursuant to section 3(1} of the Brunei National Petroleum Company Sendirian Berhad Order, 2002, granted all mineral rights to the Brunei National Petroleum Company Sendirian Berhad within the designated area referred to as Block N having the following co-ordinates - Point Latitude (N) Longitude (E) NZ-04 585500.00 513504.00 N3-13 I 581000.00 541500.00 : N3-21 579000.00 544500.00 N3-23 I 580000.00 545000.00 N3-24 I 581000.00 545000.00 N3-25 581000.00 i 545500.00 i I N3-26 i 582000.00 545500.00 N3-27 I 582000.00 547500.00 ! i i i N3-69 606000.00 535500.00 Dated this 6th. day of Zulkaedah, 1431 Hijriah corresponding to the 14th. day of October, 2010.\n\nPEHIN ORANG KA YA PEKERMA JAY A\n\nDATO PADUKA HAJI JUDIN BIN HAJI ASAR Secretary to the Council of Ministers."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTICE ON THE GRANTING OF MINERAL RIGHTS BY HIS MAJESTY THE SULTAN AND YANG DI PERTUAN IN COUNCIL",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

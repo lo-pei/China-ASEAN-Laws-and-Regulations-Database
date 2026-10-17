@@ -1,7 +1,7 @@
 {
  "id": "PH-H6402",
  "title": {
-  "zh": null,
+  "zh": "在卡加延省 Santa Ana 市镇及 Aparri 市镇邻近岛屿设立经济特区与自由港、为此提供资金并为其他目的法案",
   "en": "An Act Establishing a Special Economic Zone and Free Port in the Municipality of Santa Ana and the Neighboring Islands in the Municipality of Aparri, Province of Cagayan, Providing Funds Therefor, and for Other Purposes",
   "orig": "An Act Establishing a Special Economic Zone and Free Port in the Municipality of Santa Ana and the Neighboring Islands in the Municipality of Aparri, Province of Cagayan, Providing Funds Therefor, and for Other Purposes"
  },
@@ -200,5 +200,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its publication in at least one (1) newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Special Economic Zone and Free Port in the Municipality of Santa Ana and the Neighboring Islands in the Municipality of Aparri, Province of Cagayan, Providing Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

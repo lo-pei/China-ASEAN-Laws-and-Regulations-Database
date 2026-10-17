@@ -1,7 +1,7 @@
 {
  "id": "SG-H1127",
  "title": {
-  "zh": null,
+  "zh": "硬币面额与特征",
   "en": "Denominations and Characteristics of Coins",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE 2004 SINGAPORE IDENTITY PLAN (OLD WORLD CHARM) COINS TO BE ISSUED ON 3RD DECEMBER 2004\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n1 Dollar\n999 Fine\nSilver\n8.56 g + 0.20 g\n24.66 mm + 0.25 mm\n2.06 mm + 0.30 mm\nRound\nMilled\nThe Singapore Arms in the centre with the year date “2004” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’clock of the coin.\nBalestier, Jalan Besar, Joo Chiat and Tanjong Katong exude the old world charm of Singapore’s yesteryears, with rich architectural heritage, thriving street life and unique streetscapes.\nBalestier\nThe centre features the façade of a shophouse with very distinctive rich plaster relief (in full colour for the silver coin), reflecting the heritage of the Chinese community in this area. On the right is a typical spiral staircase associated with the shophouses in the vicinity. At the top is the Balestier Market built in the 1920s for locals to sell their produce. It was also a centre for the distribution of food ration during World War II.\nThe bottom depicts the only remaining permanent freestanding wayang stage in mainland Singapore. It was built in 1906 and belongs to the Go Chor Tua Pek Kong Temple.\n1 Dollar\nCopper\n75%\nNickel\n25%\n7.29 g + 0.145 g\n24.66 mm + 0.25 mm\n2.06 mm + 0.30 mm\nRound\nMilled\nThe Singapore Arms in the centre with the year-date “2004” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin.\nJalan Besar\nThe centre features the distinctive Art-Deco street frontage and exposed brickwork (in full colour for the silver coin). This area has a very distinct historic streetscape along Serangoon Road and Lavender Street. At the top is a row of shophouses with special corner treatments that are distinctive to the area. The right depicts the typical ornate bracket that supports the upper storey verandah. The bottom showcases the original wooden windows of the conservation shophouses in the area.\nJoo Chiat\nThe centre features the colourful Peranakan shophouse frontage featuring patterned tiles and rich\nplasterworks (in full colour for the silver coin). At the top is the Katong Red House Bakery, a distinctive\nlandmark in the area that used to serve traditional bread and pastries since 1925 till it closed recently for conservation. The right depicts the typical swing door (pintu-pagar) of the entrance of the conservation shop houses in the area. The bottom features a row of conservation shophouses with elaborate windows and façade details reflecting the colourful culture of the Peranakan community residing in this area.\nTanjong Katong\nThe centre features the unique balconies of a row\nof shophouses in the Tanjong Katong area (in full colour for the silver coin). At the top is the former Tanjong Katong Girls’ School Hall,\na landmark of the area. The right depicts an elegantly-designed column from one of the shophouses in the area. The bottom features the Tanjong Katong Post Office. Built in the 1920-1930s, its use continues even today, serving the residents in the area.\nThe denomination of the coin in figures is to the left of the main design on all the coins.\n(a) Reverse Design of the $1 Cupro-Nickel Proof-Like Coin (Balestier).\n(b) Reverse Design of the $1 Cupro-Nickel Proof-Like Coin (Jalan Besar).\n(c) Reverse Design of the $1 Cupro-Nickel Proof-Like Coin (Joo Chiat).\n(d) Reverse Design of the $1 Cupro-Nickel Proof-Like Coin (Tanjong Katong).\n(e ) Reverse Design of the $1 Silver Proof Coin (Balestier).\n(f ) Reverse Design of the $1 Silver Proof Coin (Jalan Besar).\n(g ) Reverse Design of the $1 Silver Proof Coin (Joo Chiat).\n(h) Reverse Design of the $1 Silver Proof Coin (Tanjong Katong).\n(i ) Common Obverse Design for $1 Cupro-Nickel Proof-Like Coins (Balestier, Jalan Besar, Joo Chiat and Tanjong Katong).\n(j) Common Obverse Design for $1 Silver Proof Coins (Balestier, Jalan Besar, Joo Chiat and Tanjong Katong)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Denominations and Characteristics of Coins",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

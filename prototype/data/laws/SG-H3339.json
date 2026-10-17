@@ -1,7 +1,7 @@
 {
  "id": "SG-H3339",
  "title": {
-  "zh": null,
+  "zh": "国家象征条例 2023",
   "en": "National Symbols Regulations 2023",
   "orig": null
  },
@@ -662,5 +662,13 @@
     "en": "39.—(1) An offence under these Regulations may be compounded by an authorised officer in accordance with section 243 of the Criminal Procedure Code 2010.\n(2) An authorised officer may compound an offence under these Regulations by collecting from a person who is reasonably suspected of having committed the offence a sum of money not exceeding $2,000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "National Symbols Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6639",
  "title": {
-  "zh": null,
+  "zh": "授予菲律宾大学系统为教育及其他相关目的在该校校内及其运营范围内其他地区建设、设立、维护和运营广播电视站的特许经营权法案",
   "en": "An Act Granting the University of the Philippines System a Franchise to Construct, Establish, Maintain and Operate for Educational and Other Related Purposes Radio and Television Broadcasting Stations Within the University of the Philippines and in Such Other Areas Within the Scope of Its Operation",
   "orig": "An Act Granting the University of the Philippines System a Franchise to Construct, Establish, Maintain and Operate for Educational and Other Related Purposes Radio and Television Broadcasting Stations Within the University of the Philippines and in Such Other Areas Within the Scope of Its Operation"
  },
@@ -201,5 +201,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the University of the Philippines System a Franchise to Construct, Establish, Maintain and Operate for Educational and Other Related Purposes Radio and Television Broadcasting Stations Within the University of the Philippines and in Such Other Areas Within the Scope of Its Operation",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

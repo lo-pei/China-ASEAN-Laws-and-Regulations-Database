@@ -1,7 +1,7 @@
 {
  "id": "PH-H7442",
  "title": {
-  "zh": null,
+  "zh": "便利为国家政府基础设施项目取得通行权、用地或选址并为其他目的法案",
   "en": "An Act to Facilitate the Acquisition of Right-Of-Way, Site or Location for National Government Infrastructure Projects and for Other Purposes",
   "orig": "An Act to Facilitate the Acquisition of Right-Of-Way, Site or Location for National Government Infrastructure Projects and for Other Purposes"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days following its publication in at least two (2) newspapers of general circulation.\nApproved: November 7, 2000"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Facilitate the Acquisition of Right-Of-Way, Site or Location for National Government Infrastructure Projects and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

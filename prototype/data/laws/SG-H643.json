@@ -1,7 +1,7 @@
 {
  "id": "SG-H643",
  "title": {
-  "zh": null,
+  "zh": "民防掩体（豁免）命令",
   "en": "Civil Defence Shelter (Exemption) Order",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The developer is exempted from section 3(2) of the Act in respect of the proposed development on Lots 5802 and 5803 Mk 17 at 6 Mar Thoma Road, Singapore, subject to the following conditions:\n(a)an application for planning permission in respect of the proposed development shall be made to the competent authority within 6 months of the date of this Order, and written permission in respect of the application is granted by the competent authority; and\n(b)the developer shall comply with the laws of Singapore which are applicable to the carrying out of the proposed development.\n[G.N. No. S 297/2000]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Civil Defence Shelter (Exemption) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

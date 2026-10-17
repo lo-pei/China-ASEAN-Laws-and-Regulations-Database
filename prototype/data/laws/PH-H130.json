@@ -1,7 +1,7 @@
 {
  "id": "PH-H130",
  "title": {
-  "zh": null,
+  "zh": "修订第2613号法第6条、第7条与第14条（即《烟草检查法》）的法案",
   "en": "An act to Amend Sections Six, Seven and Fourteen of Act Numbered Twenty-Six Hundred and Thirteen, otherwise known as the Tobacco Inspection Law",
   "orig": "An act to Amend Sections Six, Seven and Fourteen of Act Numbered Twenty-Six Hundred and Thirteen, otherwise known as the Tobacco Inspection Law"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect on October first, nineteen hundred and forty-six.\nApproved: September 25, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act to Amend Sections Six, Seven and Fourteen of Act Numbered Twenty-Six Hundred and Thirteen, otherwise known as the Tobacco Inspection Law",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

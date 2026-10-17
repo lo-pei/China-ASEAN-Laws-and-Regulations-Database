@@ -1,7 +1,7 @@
 {
  "id": "SG-H3608",
  "title": {
-  "zh": null,
+  "zh": "外国判决互惠执行法 1959",
   "en": "Reciprocal Enforcement of Foreign Judgments Act 1959",
   "orig": null
  },
@@ -230,5 +230,13 @@
     "en": "13.—(1) Where —\n(a)a judgment has been given in a court of Singapore; and\n(b)the judgment creditor desires to enforce the judgment in a foreign country to which Part 1 applies,\nthe registrar of the court of Singapore, on an application made by a judgment creditor and on payment of such fee as may be prescribed, is to issue to the judgment creditor certified copies of the pleadings, order of court and written grounds of decision (if any), together with a certificate that contains such particulars as may be prescribed by the Rules of Court or Family Justice Rules.\n[25/2019]\n(2) Where enforcement of a judgment is stayed for any period pending an appeal or for any other reason, an application shall not be made under subsection (1) with respect to the judgment until the expiration of that period.\n[Act 25 of 2021 wef 01/04/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Reciprocal Enforcement of Foreign Judgments Act 1959",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

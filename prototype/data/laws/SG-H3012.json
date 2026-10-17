@@ -1,7 +1,7 @@
 {
  "id": "SG-H3012",
  "title": {
-  "zh": null,
+  "zh": "法律职业（律师报酬）命令",
   "en": "Legal Profession (Solicitors’ Remuneration) Order",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. Notwithstanding the revocation of the Legal Profession (Solicitors’ Remuneration) Order (O 1, 1996 Ed.), that Order shall continue to apply to any business for which instructions have been accepted before 1st February 2003 as if this Order had not been made."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Legal Profession (Solicitors’ Remuneration) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

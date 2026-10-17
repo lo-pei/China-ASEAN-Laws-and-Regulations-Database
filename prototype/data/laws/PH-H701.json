@@ -1,7 +1,7 @@
 {
  "id": "PH-H701",
  "title": {
-  "zh": null,
+  "zh": "授予Mateo Auayan在伊洛伊洛省Buenavista市镇经营电灯、热力与动力系统特许经营权的法案",
   "en": "An Act Granting Mateo Auayan a Franchise for An Electric Light, Heat and Power System in the Municipality of Buenavista, Province of Iloilo",
   "orig": "An Act Granting Mateo Auayan a Franchise for An Electric Light, Heat and Power System in the Municipality of Buenavista, Province of Iloilo"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, May 28, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Mateo Auayan a Franchise for An Electric Light, Heat and Power System in the Municipality of Buenavista, Province of Iloilo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

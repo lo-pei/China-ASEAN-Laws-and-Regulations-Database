@@ -1,7 +1,7 @@
 {
  "id": "PH-H3515",
  "title": {
-  "zh": null,
+  "zh": "规定萨马省Gandara市镇一所医院的运营与维护，名称为Gandara医院，并授权为此拨款的法案",
   "en": "An Act to Provide for the Operation and Maintenance of a Hospital in the Municipality of Gandara, Province of Samar, to be Known as Gandara Hospital, and to Authorize the Appropriation of Funds Therefor",
   "orig": "An Act to Provide for the Operation and Maintenance of a Hospital in the Municipality of Gandara, Province of Samar, to be Known as Gandara Hospital, and to Authorize the Appropriation of Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Operation and Maintenance of a Hospital in the Municipality of Gandara, Province of Samar, to be Known as Gandara Hospital, and to Authorize the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

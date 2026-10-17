@@ -1,7 +1,7 @@
 {
  "id": "SG-H1900",
  "title": {
-  "zh": null,
+  "zh": "移民锚地公告",
   "en": "Immigration Anchorages Notification",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nAnchorages\nFirst column\nSecond column\n1.All terminals and wharves at Jurong Port, 37 Jurong Port Road\nFor vessels arriving in or are about to leave Singapore, other than pleasure craft and yachts.\n2.The following terminals and wharves owned or managed by PSA Corporation Ltd:\n(a)Tanjong Pagar Terminal;\n(b)Keppel Terminal;\n(c)Pasir Panjang Terminal;\n(d)Brani Terminal; and\n(e)Sembawang wharves.\nFor vessels arriving in or are about to leave Singapore, other than pleasure craft and yachts.\n3.[Deleted by S 647/2021 wef 01/09/2021]\n4.Changi General Purposes Anchorage\nFor vessels arriving in or are about to leave Singapore, other than passenger ferries and passenger vessels.\n5.Changi Point Ferry Terminal\nFor fishing vessels registered in Malaysia and passenger ferries arriving in or are about to leave Singapore.\n5A.ONE15 Marina Club\nFor pleasure craft and yachts arriving in or are about to leave Singapore.\n6.Raffles Marina\nFor pleasure craft and yachts arriving in or are about to leave Singapore.\n7.Tanah Merah Ferry Terminal\nFor passenger ferries arriving in or are about to leave Singapore.\n8.[Deleted by S 495/2026 wef 15/07/2026]\n9.[Deleted by S 217/2014 wef 31/03/2014]\n10.The Wharf at Jurong Fishery Port\nFor fishing vessels arriving in or are about to leave Singapore.\n11.[Deleted by S 355/2015 wef 01/06/2015]\n12.[Deleted by S 104/2018 wef 01/03/2018]\n13.Western Quarantine and Immigration Anchorage\nFor vessels arriving in or are about to leave Singapore, other than passenger ferries and passenger vessels.\n14.Western Petroleum B Anchorage\nFor vessels arriving in or are about to leave Singapore, other than passenger ferries, passenger vessels, pleasure craft and yachts.\n15.Marina Bay Cruise Centre Singapore\nFor passenger vessels arriving in or are about to leave Singapore.\n16.Sudong Petroleum Holding Anchorage\nFor vessels arriving in or about to leave Singapore, other than passenger ferries, passenger vessels, pleasure craft and yachts.\n17.Sudong Explosive Anchorage\nFor vessels arriving in or about to leave Singapore, other than passenger ferries, passenger vessels, pleasure craft and yachts.\n18.Sudong Special Purpose Anchorage\nFor vessels arriving in or about to leave Singapore, other than passenger ferries, passenger vessels, pleasure craft and yachts.\n19.Tuas Port\nFor vessels arriving in or about to leave Singapore, other than pleasure craft and yachts.\n20.Singapore Cruise Centre (Harbourfront)\nFor passenger ferries and passenger vessels arriving in or about to leave Singapore.\n[S 495/2026 wef 15/07/2026]\n[S.364/2026 wef 03/06/2026]\n[S 647/2021 wef 01/10/2021]\n[S 647/2021 wef 01/09/2021]\n[S 430/2019 wef 15/06/2019]\n[S 104/2018 wef 01/03/2018]\n[S 355/2015 wef 01/06/2015]\n[S 217/2014 wef 31/03/2014]\n[S 628/2012 wef 19/12/2012]\n[S 219/2012 wef 26/05/2012]\n[G.N. Nos. S 85/2006; S 354/2008]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Immigration Anchorages Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

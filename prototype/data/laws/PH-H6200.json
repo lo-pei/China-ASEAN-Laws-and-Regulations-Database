@@ -1,7 +1,7 @@
 {
  "id": "PH-H6200",
  "title": {
-  "zh": null,
+  "zh": "促进自愿献血、规定充足安全血液供应、规范血库并对违规行为规定处罚的法案",
   "en": "An Act Promoting Voluntary Blood Donation, Providing for An Adequate Supply of Safe Blood, Regulating Blood Banks, and Providing Penalties for Violation Thereof",
   "orig": "An Act Promoting Voluntary Blood Donation, Providing for An Adequate Supply of Safe Blood, Regulating Blood Banks, and Providing Penalties for Violation Thereof"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity Clause . — This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in two (2) national newspapers of general circulation.\nApproved, May 5, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Promoting Voluntary Blood Donation, Providing for An Adequate Supply of Safe Blood, Regulating Blood Banks, and Providing Penalties for Violation Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

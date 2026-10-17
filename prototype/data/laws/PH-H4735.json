@@ -1,7 +1,7 @@
 {
  "id": "PH-H4735",
  "title": {
-  "zh": null,
+  "zh": "宣布位于西明多洛 Sablayan 与东明多洛 Bongabon 的 Iglit 山、Baco 山及毗邻地区为国家公园，授权拨付开发所需经费并为其他目的法案",
   "en": "An Act Declaring Mount Iglit, Mount Baco and the Adjoining Areas Situated in Sablayan, Occidental Mindoro and Bongabon, Oriental Mindoro as a National Park, Authorizing the Appropriation of Funds Necessary for the Development Thereof and for Other Purposes",
   "orig": "An Act Declaring Mount Iglit, Mount Baco and the Adjoining Areas Situated in Sablayan, Occidental Mindoro and Bongabon, Oriental Mindoro as a National Park, Authorizing the Appropriation of Funds Necessary for the Development Thereof and for Other Purposes"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: November 9, 1970."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring Mount Iglit, Mount Baco and the Adjoining Areas Situated in Sablayan, Occidental Mindoro and Bongabon, Oriental Mindoro as a National Park, Authorizing the Appropriation of Funds Necessary for the Development Thereof and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

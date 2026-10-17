@@ -1,7 +1,7 @@
 {
  "id": "SG-H1921",
  "title": {
-  "zh": null,
+  "zh": "所得税（ARA LOGOS 物流信托等——第 13(12) 条豁免）命令 2022",
   "en": "Income Tax (ARA LOGOS Logistics Trust, etc. — Section 13(12) Exemption) Order 2022",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2(3) and (4)\nAddress of property in Australia\n1.127 Orchard Road, Chester Hill, New South Wales\n2.16-28 Transport Drive, Somerton, Victoria\n3.51 Musgrave Road, Coopers Plains, Queensland\n4.203 Viking Drive, Wacol, Queensland\n5.223 Viking Drive, Wacol, Queensland\n6.182-198 Maidstone Street, Altona, Victoria\n7.217-225 Boundary Road, Laverton North, Victoria\n8.11-19 Kellar Street, Berrinba, Queensland\n9.3 Sanitarium Drive, Berkeley Vale, New South Wales\n10.67-93 National Boulevard, Campbellfield, Victoria\n11.41-51 Mills Road, Braeside, Victoria\n12.76-90 Link Drive, Campbellfield, Victoria\n13.41-45 Hydrive Close, Dandenong South, Victoria\n14.196 Viking Drive, Wacol, Queensland\n15.16-24 William Angliss Drive, Laverton North, Victoria\n16.151-155 Woodlands Drive, Braeside, Victoria\n17.47 Logistics Place, Larapinta, Queensland\n18.1-5 and 2-6 Bishop Drive, Port of Brisbane, Queensland\n19.53 Peregrine Drive, Port of Brisbane, Queensland\n20.8-10 Curlew St, Port of Brisbane, Queensland\n21.21 Curlew St, Port of Brisbane, Queensland\n22.69 Sargents Road, Minchinbury, New South Wales\n23.11-14 John Morphett Place, Erskine Park, New South Wales\n24.34-58 Marshall Court, Altona, Victoria\n25.27-43 Toll Drive, Altona North, Victoria\n26.1 Hume Road, Laverton North, Victoria"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (ARA LOGOS Logistics Trust, etc. — Section 13(12) Exemption) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

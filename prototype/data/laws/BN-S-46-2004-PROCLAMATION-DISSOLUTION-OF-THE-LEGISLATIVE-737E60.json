@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-46-2004-PROCLAMATION-DISSOLUTION-OF-THE-LEGISLATIVE-737E60",
+ "title": {
+  "zh": "依第 55 条解散立法会议的宣告",
+  "en": "PROCLAMATION DISSOLUTION OF THE LEGISLATIVE COUNCIL SECTION 55",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p29",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 3177,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-46-2004-PROCLAMATION-DISSOLUTION-OF-THE-LEGISLATIVE-COUNCIL-SECTION-55.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-46-2004-PROCLAMATION-DISSOLUTION-OF-THE-LEGISLATIVE-COUNCIL-SECTION-55.pdf》（2 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-46-2004-PROCLAMATION-DISSOLUTION-OF-THE-LEGISLATIVE-737E60-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "12th. AUGUST, 2004 No. S 46\n\nTHE CONSTITUTION OF BRUNEI DARUSSALAM\n\nPROCLAMATION\n\nDISSOLUTION OF THE LEGISLATIVE COUNCIL (Section 55(1)) In the name of GOD, the Compassionate, the Merciful, PRAISE to be GOD, the Lord of the Universe, and may the benediction and peace of GOD be upon Our Leader Muhammad and upon all his Relations and Friends.\n\nBY THE GRACE OF GOD, WE, SULTAN HASSANAL BOLKIAH MU'IZZADDIN WADDAULAH IBN! DULl YANG TERAMAT MULIA PADUKA SERI BEGAWAN SULTAN HAJI SIR MUDA OMAR 'ALI•'SAIFUDDIEN SA'ADUL\n\nKHAIRI WADDIEN, SOVEREIGN AND CHIEF OF THE FAMILY ORDER OF\n\nTHE CROWN OF BRUNEI, SOVEREIGN AND CHIEF OF THE MOST\n\nESTEEMED FAMILY ORDER, SOVEREIGN AND CHIEF OF THE MOST\n\nEMINENT ORDER OF ISLAM OF BRUNEI, SOVEREIGN AND CHIEF OF THE MOST ILLUSTRIOUS ORDER OF LAlLA JASA KEBERANIAN GEMILANG,\n\nSOVEREIGN AND CHIEF OF THE MOST EXALTED ORDER OF KEBERANIAN LAlLA TERBILANG, SOVEREIGN AND CHIEF OF THE MOST GALLANT\n\nORDER OF PAHLAWAN NEGARA BRUNEI, SOVEREIGN AND CHIEF OF THE\n\nMOST BLESSED, ORDER OF SETIA NEGARA BRUNEI, SOVEREIGN AND CHIEF OF THE MOST DISTINGUISHED ORDER OF PADUKA SERI LAlLA\n\nJASA, SOVEREIGN AND CHIEF OF THE MOST HONOURABLE ORDER OF\n\nTHE CROWN OF BRUNEI, SOVEREIGN AND CHIEF OF THE MOST\n\nFAITHFUL ORDER OF PERWIRA AGONG NEGARA BRUNEI, HONORARY\n\nKNIGHT GRAND CROSS OF THE MOST DISTINGUISHED ORDER OF SAINT MICHAEL AND SAINT GEORGE, MOST ESTEEMED FAMILY ORDER (FIRST CLASS) KELANTAN, MOST ESTEEMED FAMILY ORDER [FIRST CLASS) JOHORE, MOST ESTEEMED FAMILY ORDER (FIRST CLASS) NEGERI SEMBILAN Sultan and Yang Di-Pertuan of the State and Territory of Brunei Darussalam and all its Dependencies.\n\nHIS MAJESTY THE SULTAN\n\nAND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE WHEREAS by subsection ( 1) of section 55 of the Constitution of Brunei Darussalam, it is provided that His Majesty the Sultan and Yang Di-Pertuan may at any time, by Proclamation published in the Gazette, dissolve the Legislative Council; AND WHEREAS by subsection (2) of section 55 of the Constitution of Brunei Darussalam, it is provided that His Majesty the Sultan and Yang Di-Pertuan shall dissolve the Legislative Council at the expiration of five years from the date when it first meets after it is reconstituted; AND WHEREAS the Legislative Council now in being first met on the 1\\venty-first day of December One thousand nine hundred and eighty-three; NOW, THEREFORE, WE in exercise of the powers conferred on US by the Constitution of Brunei Darussalam, do hereby PROCLAIM that the Legislative Council of Brunei Darussalam be dissolved as from the thirteenth day of February, One thousand nine hundred and eighty-four corresponding to the Hijrah of the Prophet (on Whom be the benediction and peace of GOD) the eleventh day of Jamadilawal, One thousand four hundred and four. Made this 13th. day of February, One thousand nine hundred and eighty-four, corresponding to the Hijrah of the Prophet (on Whom be the benediction and peace of GOD) the 11th. day of Jamadilawal, One thousand four hundred and four. Dicetak oleh AWANG MOHIDIN BIN HAJI DAUD, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga B$5.00"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "PROCLAMATION DISSOLUTION OF THE LEGISLATIVE COUNCIL SECTION 55",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

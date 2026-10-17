@@ -1,7 +1,7 @@
 {
  "id": "SG-H874",
  "title": {
-  "zh": null,
+  "zh": "贪污、贩毒及其他严重罪行（实物货币与无记名可转让票据跨境流动）（豁免）命令 2010",
   "en": "Corruption, Drug Trafficking and Other Serious Crimes (Cross Border Movements of Physical Currency and Bearer Negotiable Instruments) (Exemption) Order 2010",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. A casino operator shall be exempted from section 62 of the Act in respect of any receipt of cash from outside Singapore, if —\n(a)the entire amount of cash is received by the casino operator only in physical currency; and\n(b)the casino operator has filed a cash transaction report under regulation 3 of the Casino Control (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Regulations 2009 (G.N. No. S 507/2009) in respect of the entire amount of physical currency received.\n[S 864/2024 wef 14/11/2024]\n[S 490/2023 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Corruption, Drug Trafficking and Other Serious Crimes (Cross Border Movements of Physical Currency and Bearer Negotiable Instruments) (Exemption) Order 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

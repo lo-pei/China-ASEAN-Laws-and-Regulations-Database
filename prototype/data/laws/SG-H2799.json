@@ -1,7 +1,7 @@
 {
  "id": "SG-H2799",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（简易清盘）条例 2021",
   "en": "Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "8. For the purposes of section 250P(2)(c) of the Act, the notice of discharge under section 250P(1) of the Act must also state whether the company in question is discharged from the simplified winding up programme by —\n(a)an order made by the Court for the winding up of the company; or\n(b)an order made by the Court under section 186 of the Act for the stay altogether of the proceedings in relation to the winding up, or for the termination of the winding up, under the programme."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insolvency, Restructuring and Dissolution (Simplified Winding Up) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

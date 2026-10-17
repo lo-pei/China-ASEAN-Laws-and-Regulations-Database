@@ -1,7 +1,7 @@
 {
  "id": "PH-H9100",
  "title": {
-  "zh": null,
+  "zh": "向国立大学与学院所有公立高中优秀毕业生提供奖学金并为此拨款的法案",
   "en": "An Act Providing Scholarship Grants to Top Graduates of All Public High Schools in State Universities and Colleges and Appropriating Funds Therefor",
   "orig": "An Act Providing Scholarship Grants to Top Graduates of All Public High Schools in State Universities and Colleges and Appropriating Funds Therefor"
  },
@@ -180,5 +180,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days from its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing Scholarship Grants to Top Graduates of All Public High Schools in State Universities and Colleges and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

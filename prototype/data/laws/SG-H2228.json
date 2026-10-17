@@ -1,7 +1,7 @@
 {
  "id": "SG-H2228",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展贷款利息及其他付款豁免）（第 9 号）公告 2014",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 9) Notification 2014",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Subject to sub‑paragraph (2), there shall be exempt from tax the interest and commitment fees payable by Mortimer Pte. Ltd. to Banque Degroof Luxembourg S.A. between 9 July 2013 and 27 December 2013 (both dates inclusive) in respect of a loan granted under the Loan Agreement dated 24 June 2013 for the purpose of re‑financing an earlier loan obtained to fund the purchase of the vessel, “JS Loire” by Greenship Bulk 5 Pte Ltd, an approved shipping investment enterprise under section 13S of the Act.\n(2) The exemption under sub‑paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 23 September 2014 issued by the Ministry of Finance and addressed to Mortimer Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 9) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

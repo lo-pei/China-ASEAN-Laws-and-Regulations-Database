@@ -1,7 +1,7 @@
 {
  "id": "PH-H8838",
  "title": {
-  "zh": null,
+  "zh": "将打拉省Pura与Victoria市镇的Pura - Victoria公路改设为国道并为此提供资金的法案",
   "en": "An Act Converting the Pura - Victoria Road in the Municipalities of Pura and Victoria, Province of Tarlac into a National Road and Providing Funds Therefor",
   "orig": "An Act Converting the Pura - Victoria Road in the Municipalities of Pura and Victoria, Province of Tarlac into a National Road and Providing Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Pura - Victoria Road in the Municipalities of Pura and Victoria, Province of Tarlac into a National Road and Providing Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

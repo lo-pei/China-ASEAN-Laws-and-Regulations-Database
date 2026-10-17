@@ -1,7 +1,7 @@
 {
  "id": "BN-S-34-2001-DATE-COMING-INTO-FORCE-FOR-TELECOMMUNICATIO-3A677C",
  "title": {
-  "zh": null,
+  "zh": "电信继承公司命令生效日期 2001",
   "en": "DATE COMING INTO FORCE FOR TELECOMMUNICATION SUCCESSOR COMPANY ORDER 2001",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S34\n\nTELECOMMUNICATION SUCCESSOR COMPANY ORDER, 2001 (S 37/01) NOTIFICATION UNDER SECTION 1(1) In exercise of the power conferred by section 1 i 1), the Minister of Finance, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints the 1st. day of April, 2006 as the date on which the Telecommunication Successor Company Order, 2001 shall commence. Dated this 4th. day of Safar, 1427 Hijriah corresponding to the 4th. day of March, 2006.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nMINISTER OF FINANCE, BRUNEI DARUSSALAM."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DATE COMING INTO FORCE FOR TELECOMMUNICATION SUCCESSOR COMPANY ORDER 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

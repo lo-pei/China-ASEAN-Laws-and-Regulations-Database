@@ -1,7 +1,7 @@
 {
  "id": "SG-H332",
  "title": {
-  "zh": null,
+  "zh": "广播（罪行构成）条例",
   "en": "Broadcasting (Composition of Offences) Regulations",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The offence under section 47 of the Act may be compounded by the Authority in accordance with section 57 (1) of the Act.\n[G.N. No. S 332/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Broadcasting (Composition of Offences) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

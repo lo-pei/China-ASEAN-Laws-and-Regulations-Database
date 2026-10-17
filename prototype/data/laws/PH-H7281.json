@@ -1,7 +1,7 @@
 {
  "id": "PH-H7281",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 3 月 22 日为 Malaybalay 市宪章日及 Malaybalay 市特别工作假日，以纪念该市成立周年的法案",
   "en": "An Act Declaring March Twenty-Two of Every Year as Malaybalay City Charter Day and a Special Working Holiday in the City of Malaybalay in Order to Commemorate the Anniversary of the Said City",
   "orig": "An Act Declaring March Twenty-Two of Every Year as Malaybalay City Charter Day and a Special Working Holiday in the City of Malaybalay in Order to Commemorate the Anniversary of the Said City"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring March Twenty-Two of Every Year as Malaybalay City Charter Day and a Special Working Holiday in the City of Malaybalay in Order to Commemorate the Anniversary of the Said City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

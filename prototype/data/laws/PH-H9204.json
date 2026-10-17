@@ -1,7 +1,7 @@
 {
  "id": "PH-H9204",
  "title": {
-  "zh": null,
+  "zh": "授权Punong Barangay为任何政府官员（包括菲律宾共和国总统）主持就职宣誓，为此修订第292号行政令（即1987年行政法典，经第6733号共和国法修正）第41条",
   "en": "An Act Authorizing the Punong Barangay to Administer the Oath of Office of Any Government Official, Including the President of the Republic of the Philippines, Amending for the Purpose Section 41 of Executive Order No. 292, Otherwise Known as the Administrative Code of 1987, as Amended By Republic Act No. 6733",
   "orig": "An Act Authorizing the Punong Barangay to Administer the Oath of Office of Any Government Official, Including the President of the Republic of the Philippines, Amending for the Purpose Section 41 of Executive Order No. 292, Otherwise Known as the Administrative Code of 1987, as Amended By Republic Act No. 6733"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Punong Barangay to Administer the Oath of Office of Any Government Official, Including the President of the Republic of the Philippines, Amending for the Purpose Section 41 of Executive Order No. 292, Otherwise Known as the Administrative Code of 1987, as Amended By Republic Act No. 6733",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

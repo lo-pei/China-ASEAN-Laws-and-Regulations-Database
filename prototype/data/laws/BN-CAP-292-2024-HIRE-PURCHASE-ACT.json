@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-292-2024-HIRE-PURCHASE-ACT",
  "title": {
-  "zh": null,
+  "zh": "租购法",
   "en": "HIRE PURCHASE ACT",
   "orig": null
  },
@@ -774,5 +774,13 @@
     "en": "(1) The Authority may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations for or in respect of every purpose which he considers necessary for carrying out this Act and for the prescribing of any matter which is authorised or required under this Act to be so prescribed.\n\n(2) In addition to the powers conferred by subsection (1), the Authority may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations providing —\n\n(a) for the minimum amounts of deposits and maximum maturity periods for different types or classes of loans or advances granted by\n\n(b) for the submission by owners who enter into hire-purchase agreements of such annual and periodic accounts and returns as may be prescribed and in such form as may be prescribed; and\n\n(c) for the collection, at such intervals or on such occasions and in such form as may be prescribed, of statistical information on such matters relating to hire-purchase as may be prescribed. (section 1(2))"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "HIRE PURCHASE ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

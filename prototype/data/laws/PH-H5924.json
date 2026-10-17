@@ -1,7 +1,7 @@
 {
  "id": "PH-H5924",
  "title": {
-  "zh": null,
+  "zh": "授权莱特省Tanauan的莱特州立工艺与贸易学校开设土木工程、机械工程与电气工程理学士学位课程",
   "en": "An Act Auttiorizing the Leyte State School of Arts and Trade in Tanauan, Leyte, To Offer the Courses Leading To the Degrees of Bachelor of Science in Civil Engineering, Mechanical Engineering and Electrical Engineering",
   "orig": "An Act Auttiorizing the Leyte State School of Arts and Trade in Tanauan, Leyte, To Offer the Courses Leading To the Degrees of Bachelor of Science in Civil Engineering, Mechanical Engineering and Electrical Engineering"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Auttiorizing the Leyte State School of Arts and Trade in Tanauan, Leyte, To Offer the Courses Leading To the Degrees of Bachelor of Science in Civil Engineering, Mechanical Engineering and Electrical Engineering",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

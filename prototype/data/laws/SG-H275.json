@@ -1,7 +1,7 @@
 {
  "id": "SG-H275",
  "title": {
-  "zh": null,
+  "zh": "受权人员",
   "en": "Authorised Officers",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Sewerage and Drainage Act\n(Chapter 293A, Section 3(3))\nAuthorised Officers\nN 2\nG.N. No. S 208/1999\nREVISED EDITION 2001\n(31st January 2001)\nThe Director of Sewerage and Drainage has authorised the following officers of the Ministry of the Environment to act on his behalf:\n(1)[Deleted by S 218/2001 wef 01/04/2001]\n(2)the Environmental Health Officers in the Central Building Plan Unit, Pollution Control Department.\n[S 536/2000 — 1.11.2000]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Authorised Officers",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

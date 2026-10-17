@@ -1,7 +1,7 @@
 {
  "id": "PH-H8680",
  "title": {
-  "zh": null,
+  "zh": "将卡加延省阿帕里镇阿帕里工艺贸易学校（ASAT）更名为阿帕里理工学院（API）的法案",
   "en": "An Act Renaming the Aparri School of Arts and Trade (ASAT) in Aparri, Cagayan Into the Aparri Polytechnic Institute (API)",
   "orig": "An Act Renaming the Aparri School of Arts and Trade (ASAT) in Aparri, Cagayan Into the Aparri Polytechnic Institute (API)"
  },
@@ -62,5 +62,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Aparri School of Arts and Trade (ASAT) in Aparri, Cagayan Into the Aparri Polytechnic Institute (API)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

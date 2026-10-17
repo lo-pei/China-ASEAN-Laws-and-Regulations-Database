@@ -1,7 +1,7 @@
 {
  "id": "SG-H2265",
  "title": {
-  "zh": null,
+  "zh": "所得税（私人房地产公司股份短期交易收益）条例",
   "en": "Income Tax (Gains from Short-term Transactions of Shares in Private Real Property Company) Regulations",
   "orig": null
  },
@@ -142,5 +142,11 @@
     "en": "8.—(1) Section 10G of the Act shall not apply to —\n(a)any disposal of shares in a relevant company consequent on any matrimonial proceedings to —\n(i)the other party to the matrimonial proceedings;\n(ii)any child of the marriage or former marriage of the parties to those proceedings; or\n(iii)both the other party and any such child; and\n(b)any disposal of shares in a relevant company to any party other than those specified in sub-paragraph (a) in compliance with any order of court for the division of matrimonial assets arising from or relating to those proceedings.\n(2) For the purposes of paragraph (1), a disposal of shares shall be regarded as made consequent on any matrimonial proceedings if —\n(a)the disposal of shares is made as a result of compliance with any order of court for the division of matrimonial assets arising from or relating to those proceedings; or\n(b)in the absence of any such order of court, the Comptroller is satisfied, having regard to all the other circumstances in which the shares are disposed of, that the disposal of shares is made directly as a result of those proceedings.\n(3) In this regulation —\n“child of a marriage or former marriage” includes a step-child of the marriage or former marriage and a child adopted during that marriage or former marriage in accordance with any written law relating to adoption;\n“matrimonial proceedings” means —\n(a)proceedings according to the Muslim law for a certificate of divorce; or\n(b)proceedings for a decree of divorce, judicial separation or nullity of marriage under the Women’s Charter (Cap. 353)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Income Tax (Gains from Short-term Transactions of Shares in Private Real Property Company) Regulations",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

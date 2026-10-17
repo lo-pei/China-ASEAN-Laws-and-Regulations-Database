@@ -1,7 +1,7 @@
 {
  "id": "SG-H596",
  "title": {
-  "zh": null,
+  "zh": "儿童与青少年（保留与过渡条款）条例 2025",
   "en": "Children and Young Persons (Saving and Transitional Provisions) Regulations 2025",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Despite section 45 of the Children and Young Persons (Amendment) Act 2019, where immediately before 30 December 2025, a person who is 16 years of age or older but below 18 years of age —\n(a)has been arrested;\n(b)has not been released on bail;\n(c)has not been brought before any court; and\n(d)is remanded in custody in a lock-up,\nthe person may, on or after 30 December 2025, continue to be remanded in custody in the lock‑up until the person is brought before a Youth Court or a Magistrate in accordance with section 36 of the Children and Young Persons Act 1993 as in force on 30 December 2025.\n(2) Despite section 2(2)(b) of the Children and Young Persons (Amendment) Act 2019, read with section 80(1) and (2) of the Children and Young Persons Act 1993, where immediately before 30 December 2025, a person who is 16 years of age or older but below 18 years of age —\n(a)has been arrested;\n(b)has not been released on bail;\n(c)has been charged with an offence before a District Court or a Magistrate’s Court; and\n(d)is remanded in custody in a prison,\nthe person may, on or after 30 December 2025, continue to be remanded in custody in any prison until —\n(e)the person is sentenced or acquitted; or\n(f)if the person’s case is remitted by a District Court or Magistrate’s Court to the Youth Court under section 8 of the Criminal Law (Miscellaneous Amendments) Act 2025, the District Court or Magistrate’s Court remands the person in custody in a remand home."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Children and Young Persons (Saving and Transitional Provisions) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

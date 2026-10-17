@@ -1,7 +1,7 @@
 {
  "id": "PH-H1855",
  "title": {
-  "zh": null,
+  "zh": "将高山省伊富高波蒂亚市镇区卡比卡兰村的名称变更为圣多明戈村的法案",
   "en": "An Act Changing the Name of the Barrio of Cabicalan in the Municipal District of Potia, Ifugao, Mountain Province, to Barrio San Domingo",
   "orig": "An Act Changing the Name of the Barrio of Cabicalan in the Municipal District of Potia, Ifugao, Mountain Province, to Barrio San Domingo"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 5, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Barrio of Cabicalan in the Municipal District of Potia, Ifugao, Mountain Province, to Barrio San Domingo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

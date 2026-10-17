@@ -1,7 +1,7 @@
 {
  "id": "PH-H5165",
  "title": {
-  "zh": null,
+  "zh": "将拉古纳省圣巴勃罗市圣弗朗西斯科描笼涯圣弗朗西斯科小学的名称变更为Don Enrique Bautista小学的法案",
   "en": "An Act Changing the Name of the San Francisco Elementary School in Barangay San Francisco, San Pablo City, Province of Laguna, to Don Enrique Bautista Elementary School",
   "orig": "An Act Changing the Name of the San Francisco Elementary School in Barangay San Francisco, San Pablo City, Province of Laguna, to Don Enrique Bautista Elementary School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the San Francisco Elementary School in Barangay San Francisco, San Pablo City, Province of Laguna, to Don Enrique Bautista Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

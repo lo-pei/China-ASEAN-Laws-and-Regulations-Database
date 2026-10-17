@@ -1,7 +1,7 @@
 {
  "id": "SG-H1634",
  "title": {
-  "zh": null,
+  "zh": "商品与服务税（规定资料）命令 2004",
   "en": "Goods and Services Tax (Prescribed Information) Order 2004",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nPrescribed information\n1.The nature and value of any supply made by any person in any period.\n2.The amount of input tax claimed by any person in any period.\n3.The amount of output tax due from any person in any period.\n4.The taxable purchases made by any person in any period.\n5.The company or business registration number of any person.\n6.Description of the trade, business, profession or vocation (including classification codes) of any person."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Goods and Services Tax (Prescribed Information) Order 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

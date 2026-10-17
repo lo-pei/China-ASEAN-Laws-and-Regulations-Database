@@ -1,7 +1,7 @@
 {
  "id": "SG-H2058",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 3 号）命令 2017",
   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2017",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The following income received in Singapore by Lumina Communications Pte Ltd (a company incorporated in Singapore) is exempt from tax:\n(a)fees for the provision of services amounting to AED2,493,315 received from Dubai Racing Club (a company incorporated in the United Arab Emirates) in the basis period for the year of assessment 2008;\n(b)fees for the provision of services amounting to AED12,996,964.73 received from Dubai Racing Club and LCL Interiors LLC (both companies incorporated in the United Arab Emirates) in the basis period for the year of assessment 2008;\n(c)fees for the provision of services amounting to AED7,995,000 received in the basis period for the year of assessment 2008, and AED285,050 received in the basis period for the year of assessment 2009, from Meydan LLC (a company incorporated in the United Arab Emirates).\n(2) The exemption in sub-paragraph (1) is subject to the conditions in paragraphs 5 and 6(a) of the letter of approval dated 25 January 2017 addressed to KhattarWong LLP, on behalf of Lumina Communications Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

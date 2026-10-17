@@ -1,7 +1,7 @@
 {
  "id": "PH-H445",
  "title": {
-  "zh": null,
+  "zh": "林学院",
   "en": "College of Forestry.",
   "orig": "An Act Further Amending Act Numbered Two Thousand Five Hundred and Seventy-Eight, Converting the \"School of Forestry\" of the University of the Philippines Into the \"College of Forestry.\""
  },
@@ -52,14 +52,15 @@
    }
   },
   {
-   "id": "PH-H445-A1_2",
+   "id": "PH-H445-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "There is hereby created a college of the University of the Philippines to be known as the 'college of forestry.' It shall embrace all work hitherto carried on in the school of forestry, of the University of the Philippines.\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H445-A2",
@@ -72,14 +73,23 @@
    }
   },
   {
-   "id": "PH-H445-A2_2",
+   "id": "PH-H445-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "This Act shall take effect upon its approval.\nApproved, June 4, 1949."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "College of Forestry.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

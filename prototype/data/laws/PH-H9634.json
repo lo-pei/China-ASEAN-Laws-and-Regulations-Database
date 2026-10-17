@@ -1,7 +1,7 @@
 {
  "id": "PH-H9634",
  "title": {
-  "zh": null,
+  "zh": "将宿务市 St. Anthony 妇婴医院床位由二十五（25）张增至两百（200）张并为其拨款的法案",
   "en": "An Act ncreasing the Bed Capacity of St. Anthony Mother and Child Hospital in Cebu City from Twenty-Five (25) to Two Hundred (200), and Appropriating Funds Therefor",
   "orig": "An Act ncreasing the Bed Capacity of St. Anthony Mother and Child Hospital in Cebu City from Twenty-Five (25) to Two Hundred (200), and Appropriating Funds Therefor"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect within fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act ncreasing the Bed Capacity of St. Anthony Mother and Child Hospital in Cebu City from Twenty-Five (25) to Two Hundred (200), and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

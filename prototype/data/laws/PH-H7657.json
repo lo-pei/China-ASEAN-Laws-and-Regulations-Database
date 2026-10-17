@@ -1,7 +1,7 @@
 {
  "id": "PH-H7657",
  "title": {
-  "zh": null,
+  "zh": "承认 Cebu International School 为具有国际性质的教育机构、给予促进其发展的特定特权并为其他目的法案",
   "en": "An Act Recognizing Cebu International School as An Educational Institution of International Character, Granting Certain Prerogatives Conducive to Its Growth as Such, and for Other Purposes",
   "orig": "An Act Recognizing Cebu International School as An Educational Institution of International Character, Granting Certain Prerogatives Conducive to Its Growth as Such, and for Other Purposes"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Recognizing Cebu International School as An Educational Institution of International Character, Granting Certain Prerogatives Conducive to Its Growth as Such, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

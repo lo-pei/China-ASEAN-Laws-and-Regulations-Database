@@ -1,7 +1,7 @@
 {
  "id": "PH-H5036",
  "title": {
-  "zh": null,
+  "zh": "授予 Bayani Pingol 在 Naga 市建设、运营和维护制冰厂与冷藏库并在南甘马粦省若干市镇及该市销售冰和供应冷藏的特许权法案",
   "en": "An Act Granting Bayani Pingol a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the City of Naga and to Sell Ice and Supply Cold Storage in Certain Municipalities in the Province of Camarines Sur and the Said City.",
   "orig": "An Act Granting Bayani Pingol a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the City of Naga and to Sell Ice and Supply Cold Storage in Certain Municipalities in the Province of Camarines Sur and the Said City."
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without the Executive approval, July 22, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Bayani Pingol a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the City of Naga and to Sell Ice and Supply Cold Storage in Certain Municipalities in the Province of Camarines Sur and the Said City.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

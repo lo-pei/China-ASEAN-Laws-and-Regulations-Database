@@ -1,7 +1,7 @@
 {
  "id": "PH-H7935",
  "title": {
-  "zh": null,
+  "zh": "贷款公司监管法 2007",
   "en": "Lending Company Regulation Act of 2007",
   "orig": "Lending Company Regulation Act of 2007 An Act Governing the Establishment, Operation and Regulation of Lending Companies"
  },
@@ -200,5 +200,11 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in at least two national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Lending Company Regulation Act of 2007",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

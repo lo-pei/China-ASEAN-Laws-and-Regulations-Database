@@ -1,7 +1,7 @@
 {
  "id": "SG-H3473",
  "title": {
-  "zh": null,
+  "zh": "停车位（重型车辆停放——豁免）命令 2026",
   "en": "Parking Places (Parking of Heavy Vehicles — Exemption) Order 2026",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) Rule 4 of the Parking Places (Parking of Heavy Vehicles) Rules (R 4) does not apply to the registered owner of, or a person who has purchased, a heavy vehicle if a lodgement is made under rule 7(1) of the Parking Places (Parking of Heavy Vehicles — Lodgement) Rules 2026 to park the heavy vehicle at an eligible parking place.\n(2) The exemption in sub‑paragraph (1) applies during the period specified in the lodgement mentioned in that sub‑paragraph as the period the heavy vehicle is to be parked at the eligible parking place.\n(3) However, the exemption in sub‑paragraph (1) ceases if the lodgement mentioned in that sub‑paragraph lapses pursuant to rule 8 of the Parking Places (Parking of Heavy Vehicles — Lodgement) Rules 2026."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Parking Places (Parking of Heavy Vehicles — Exemption) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

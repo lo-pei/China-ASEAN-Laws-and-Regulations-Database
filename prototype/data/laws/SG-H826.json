@@ -1,7 +1,7 @@
 {
  "id": "SG-H826",
  "title": {
-  "zh": null,
+  "zh": "植物管制（授权分析师）规则",
   "en": "Control of Plants (Authorised Analysts) Rules",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 3(3) of the Act, the prescribed qualification of an authorised analyst is a tertiary qualification in biology, microbiology, chemistry, toxicology, biotechnology, food technology, food science, nutrition, horticulture, veterinary medicine or such other science as may be approved by the Minister.\n[G.N. No. S 8/99]\n[S 220/2019 wef 01/04/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Control of Plants (Authorised Analysts) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

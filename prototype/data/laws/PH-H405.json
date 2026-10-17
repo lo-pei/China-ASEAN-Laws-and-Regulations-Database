@@ -1,7 +1,7 @@
 {
  "id": "PH-H405",
  "title": {
-  "zh": null,
+  "zh": "废止人民法院与特别检察官办公室，规定不受第 51 号公告（对政治与经济通敌者予以大赦）涵盖的叛国案件的审理与处置，在总检察长办公室设立特别检察官职位并为其拨款的法案",
   "en": "An Act Abolishing the People's Court and the Office of Special Prosecutors, Providing for the Trial and Disposition of Treason Cases not Embraced by Proclamation Numbered Fifty-One Granting Amnesty to Political and Economic Collaborators, Creating Positions of Special Attorneys in the Office of the Solicitor General and Appropriating Funds Therefor",
   "orig": "An Act Abolishing the People's Court and the Office of Special Prosecutors, Providing for the Trial and Disposition of Treason Cases not Embraced by Proclamation Numbered Fifty-One Granting Amnesty to Political and Economic Collaborators, Creating Positions of Special Attorneys in the Office of the Solicitor General and Appropriating Funds Therefor"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Abolishing the People's Court and the Office of Special Prosecutors, Providing for the Trial and Disposition of Treason Cases not Embraced by Proclamation Numbered Fifty-One Granting Amnesty to Political and Economic Collaborators, Creating Positions of Special Attorneys in the Office of the Solicitor General and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

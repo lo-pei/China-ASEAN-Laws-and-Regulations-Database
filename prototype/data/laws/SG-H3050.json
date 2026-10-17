@@ -1,7 +1,7 @@
 {
  "id": "SG-H3050",
  "title": {
-  "zh": null,
+  "zh": "父母赡养法 1995",
   "en": "Maintenance of Parents Act 1995",
   "orig": null
  },
@@ -415,5 +415,13 @@
     "en": "21.—(1) The Minister may make rules generally for carrying out the provisions of this Act and for prescribing anything which may be prescribed under this Act.\n(2) Without limiting subsection (1), such rules may make provisions for —\n(a)regulating and prescribing the procedure for applications, appeals to the Tribunal and the conduct of proceedings under this Act;\n[Act 22 of 2023 wef 01/07/2024]\n(b)regulating the means by which particular facts may be proved, and the mode in which evidence thereof may be given including but not limited to affidavits;\n(c)the manner in which frivolous or vexatious applications may be dismissed at a preliminary stage on the basis of the affidavits and other documentary evidence;\n[Act 22 of 2023 wef 01/07/2024]\n(d)the discovery of documents and other evidence and public records;\n(e)the manner and method of payment of maintenance awarded under this Act; and\n(f)the costs of any proceedings under this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Maintenance of Parents Act 1995",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

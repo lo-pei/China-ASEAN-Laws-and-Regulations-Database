@@ -1,7 +1,7 @@
 {
  "id": "PH-H8559",
  "title": {
-  "zh": null,
+  "zh": "通过连接南甘马粦省Milaor与Pili市镇及那牙市的道路网，将当地道路网改设为国家环城公路",
   "en": "An Act Converting a Local Road Network Into a National Circumferential Road By Linking the Municipalities of Milaor and Pili and the City of Naga in the Province of Camarines Sur By Connecting the Provincial Road Passing Through Barangays Del Rosario and Borongborong in the Municipality of Milaor and Continuing to Barangay Tagbong in the Municipality of Pili With the National Road Linking and Traversing Barangays Tagbong, San Isidro, San Agustin, San Jose, Cadlan and Palestina in the Municipality of Pili, Through the Barangays of Del Rosario, Concepcion Grande, Concepcion Pequeña, Triangulo and Mabulo in the City of Naga, and Thence to the Barangay of San Vicente in the Municipality of Milaor, Province of Camarines Sur",
   "orig": "An Act Converting a Local Road Network Into a National Circumferential Road By Linking the Municipalities of Milaor and Pili and the City of Naga in the Province of Camarines Sur By Connecting the Provincial Road Passing Through Barangays Del Rosario and Borongborong in the Municipality of Milaor and Continuing to Barangay Tagbong in the Municipality of Pili With the National Road Linking and Traversing Barangays Tagbong, San Isidro, San Agustin, San Jose, Cadlan and Palestina in the Municipality of Pili, Through the Barangays of Del Rosario, Concepcion Grande, Concepcion Pequeña, Triangulo and Mabulo in the City of Naga, and Thence to the Barangay of San Vicente in the Municipality of Milaor, Province of Camarines Sur"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting a Local Road Network Into a National Circumferential Road By Linking the Municipalities of Milaor and Pili and the City of Naga in the Province of Camarines Sur By Connecting the Provincial Road Passing Through Barangays Del Rosario and Borongborong in the Municipality of Milaor and Continuing to Barangay Tagbong in the Municipality of Pili With the National Road Linking and Traversing Barangays Tagbong, San Isidro, San Agustin, San Jose, Cadlan and Palestina in the Municipality of Pili, Through the Barangays of Del Rosario, Concepcion Grande, Concepcion Pequeña, Triangulo and Mabulo in the City of Naga, and Thence to the Barangay of San Vicente in the Municipality of Milaor, Province of Camarines Sur",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

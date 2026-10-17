@@ -1,7 +1,7 @@
 {
  "id": "SG-H3416",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11 (3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n1. Appraisers and House Agents Act (Chapter 16)\n2. Building and Construction Authority Act (Chapter 30A)\n3. Control of Plants Act (Chapter 57A)\n4. Dentists Act (Chapter 76)\n5. Endangered Species (Import and Export) Act (Chapter 92A)\n6. Environmental Pollution Control Act (Chapter 94A)\n7. Exchanges (Demutualisation and Merger) Act (Chapter 99B)\n8. Extradition Act (Chapter 103)\n9. Feeding Stuffs Act (Chapter 105)\n10. Finance Companies Act (Chapter 108)\n11. Fire Safety Act (Chapter 109A)\n12. Info-communications Development Authority of Singapore Act (Chapter 137A)\n13. Insurance Intermediaries Act (Chapter 142A)\n14. Layout-Designs of Integrated Circuits Act (Chapter 159A)\n15. Legal Profession Act (Chapter 161)\n16. Motor Vehicles (Third-Party Risks and Compensation) Act (Chapter 189)\n17. Multi-Level Marketing and Pyramid Selling (Prohibition) Act (Chapter 190)\n18. Nurses and Midwives Act (Chapter 209)\n19. Postal Services Act (Chapter 237A)\n20. Prisons Act (Chapter 247)\n21. Sewerage and Drainage Act (Chapter 293A)\n22. Singapore Armed Forces Act (Chapter 295)\n23. Stamp Duties Act (Chapter 312)\n24. Telecommunications Act (Chapter 323)\n25. Wholesome Meat and Fish Act (Chapter 349A)\n26. Wild Animals and Birds Act (Chapter 351)\n27. Sultan Hussain Ordinance (Chapter 382)\n[G.N. No. S 586/2000]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11 (3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

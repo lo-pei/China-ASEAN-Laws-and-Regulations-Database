@@ -1,7 +1,7 @@
 {
  "id": "PH-H1706",
  "title": {
-  "zh": null,
+  "zh": "在奎松省设立国立农业学校并授权核拨必要资金的法案",
   "en": "An Act to Establish a National Agricultural School in the Province of Quezon, and Authorizing the Appropriation of Necessary Funds Therefor",
   "orig": "An Act to Establish a National Agricultural School in the Province of Quezon, and Authorizing the Appropriation of Necessary Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish a National Agricultural School in the Province of Quezon, and Authorizing the Appropriation of Necessary Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

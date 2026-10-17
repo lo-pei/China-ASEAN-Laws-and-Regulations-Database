@@ -1,7 +1,7 @@
 {
  "id": "PH-H4178",
  "title": {
-  "zh": null,
+  "zh": "将宿务省圣弗朗西斯科市镇圣伊西德罗村最长街道命名为Quirino Maningo公路的法案",
   "en": "An Act Naming the Longest Street in Barrio San Isidro, Municipality of San Francisco, Province of Cebu, the Quirino Maningo Road",
   "orig": "An Act Naming the Longest Street in Barrio San Isidro, Municipality of San Francisco, Province of Cebu, the Quirino Maningo Road"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Longest Street in Barrio San Isidro, Municipality of San Francisco, Province of Cebu, the Quirino Maningo Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

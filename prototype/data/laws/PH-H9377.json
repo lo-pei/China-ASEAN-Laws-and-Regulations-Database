@@ -1,7 +1,7 @@
 {
  "id": "PH-H9377",
  "title": {
-  "zh": null,
+  "zh": "通过延长驾驶执照有效期使驾驶执照政策合理化并强化、对违反其签发规定的行为予以处罚的法案",
   "en": "An Act Rationalizing and Strengthening the Policy Regarding Driver’S License by Extending the Validity Period of Drivers’ Licenses, and Penalizing Acts in Violation of its Issuance and...",
   "orig": "An Act Rationalizing and Strengthening the Policy Regarding Driver’S License by Extending the Validity Period of Drivers’ Licenses, and Penalizing Acts in Violation of its Issuance and..."
  },
@@ -140,5 +140,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Rationalizing and Strengthening the Policy Regarding Driver’S License by Extending the Validity Period of Drivers’ Licenses, and Penalizing Acts in Violation of its Issuance and...",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

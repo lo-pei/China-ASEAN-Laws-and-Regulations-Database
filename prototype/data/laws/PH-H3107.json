@@ -1,7 +1,7 @@
 {
  "id": "PH-H3107",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第291号共和国法第9条（经修正），以规定武装部队上将衔级的法案",
   "en": "An Act to Further Amend Section Nine of Republic Act Numbered Two Hundred and Ninety-One, as Amended, in Order to Provide for the Grade of General of the Armed Forces",
   "orig": "An Act to Further Amend Section Nine of Republic Act Numbered Two Hundred and Ninety-One, as Amended, in Order to Provide for the Grade of General of the Armed Forces"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Section Nine of Republic Act Numbered Two Hundred and Ninety-One, as Amended, in Order to Provide for the Grade of General of the Armed Forces",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

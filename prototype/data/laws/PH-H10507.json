@@ -1,7 +1,7 @@
 {
  "id": "PH-H10507",
  "title": {
-  "zh": null,
+  "zh": "促进菲律宾天然气行业发展，为此整合有关天然气输送、分配与供应的所有法律，并为此拨款的法案",
   "en": "An Act Promoting the Development of the Philippine Natural Gas Industry, Consolidating for the Purpose All Laws Relating to the Transmission, Distribution, and Supply of Natural Gas, and Appropriating Funds Therefor",
   "orig": "An Act Promoting the Development of the Philippine Natural Gas Industry, Consolidating for the Purpose All Laws Relating to the Transmission, Distribution, and Supply of Natural Gas, and Appropriating Funds Therefor"
  },
@@ -570,5 +570,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Promoting the Development of the Philippine Natural Gas Industry, Consolidating for the Purpose All Laws Relating to the Transmission, Distribution, and Supply of Natural Gas, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

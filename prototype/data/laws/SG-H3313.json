@@ -1,7 +1,7 @@
 {
  "id": "SG-H3313",
  "title": {
-  "zh": null,
+  "zh": "国家图书馆管理局（费用与收费）条例 2019",
   "en": "National Library Board (Fees and Charges) Regulations 2019",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nFees and charges\nFirst column\nSecond column\n1.[Deleted by S 268/2025 wef 15/04/2025]\n2.[Deleted by S 268/2025 wef 15/04/2025]\n3.[Deleted by S 268/2025 wef 15/04/2025]\n4.[Deleted by S 268/2025 wef 15/04/2025]\n5.Registration as member of library for individuals who —\n$10.69\n(a)are not citizens of Singapore; and\n(b)are not —\n(i)below 21 years of age; and\n(ii)students of a specified school\n6.Membership of library for individuals who —\n$3.82 per month or $43.60 per year\n(a)are not citizens of Singapore;\n(b)are not permanent residents of Singapore; and\n(c)are not —\n(i)below 21 years of age; and\n(ii)students of a specified school\n7.Late return of library material (other than audiovisual library material) after expiry of loan period\n$0.15 per day or part of a day\n8.Late return of audiovisual library material after expiry of loan period\n$0.50 per day or part of a day\n9.Loss or damage of library material\n$7.28 per item lost or damaged (in addition to any replacement costs of the library material)\n10.Loss of casing of audiovisual library material\n$1.07 per casing\n11.Reservation of library material\n$1.58 per item\n[S 268/2025 wef 15/04/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "National Library Board (Fees and Charges) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

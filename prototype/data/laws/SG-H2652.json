@@ -1,7 +1,7 @@
 {
  "id": "SG-H2652",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 10 号）命令 2025",
   "en": "Infrastructure Protection (Protected Places) (No. 10) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nChief Executive Officer,\nSP PowerGrid Ltd\nSHIPYARD E BUILDING\nAll that area comprised in Lot 04764W in Mukim No. 7 occupied by “SHIPYARD E BUILDING” containing an area of about 4,349.8 square metres and bounded approximately as follows:\nCommencing at a point 32,570.164 metres North and 11,060.180 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n32,570.164\n11,060.180\n32,608.923\n11,046.407\n32,632.931\n11,113.171\n32,609.402\n11,121.595\n32,639.070\n11,204.392\n32,623.803\n11,209.868\n32,614.019\n11,182.564\nto the point of commencement.\nThe boundaries of “SHIPYARD E BUILDING” are more particularly delineated in the Survey Plan No. LBH/20981GZ1 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 10) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

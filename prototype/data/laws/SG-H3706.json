@@ -1,7 +1,7 @@
 {
  "id": "SG-H3706",
  "title": {
-  "zh": null,
+  "zh": "劳资纠纷法 1941",
   "en": "Trade Disputes Act 1941",
   "orig": null
  },
@@ -233,5 +233,13 @@
     "en": "15.—(1) An agreement or a combination by 2 or more persons to do or procure to be done any act in contemplation or furtherance of a trade dispute between employers and employees, or a work dispute between platform operators and platform workers, shall not be punishable as a conspiracy if such act committed by one person would not be punishable as a crime.\n[Act 30 of 2024 wef 01/01/2025]\n(2) An act done in pursuance of an agreement or a combination of 2 or more persons shall, if done in contemplation or furtherance of a trade dispute or work dispute, not be actionable unless the act, if done without any such agreement or combination, would be actionable.\n[Act 30 of 2024 wef 01/01/2025]\n(3) Nothing in this section shall exempt from punishment any person guilty of a conspiracy for which a punishment is awarded by any written law.\n(4) Nothing in this section shall affect the law relating to riot, unlawful assembly, breach of the peace or any offence against the State or the President.\n[Act 30 of 2021 wef 02/11/2022]\n(4A) Nothing in this section —\n(a)affects the power of a court to punish for contempt of court within the meaning of section 3 of the Administration of Justice (Protection) Act 2016; or\n(b)applies to an act that is an offence under —\n(i)section 39 or 40 of the Maintenance of Racial Harmony Act 2025;\n(ii)section 17E or 17F of the Maintenance of Religious Harmony Act 1990; or\n(iii)section 267C or 505 of the Penal Code 1871.\n[Act 10 of 2025 wef 15/09/2026]\n(5) A crime for the purposes of this section means an offence for the commission of which the offender is liable under the law making the offence punishable to be imprisoned either absolutely or at the discretion of the court as an alternative for some other punishment.\n[Act 30 of 2024 wef 01/01/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Trade Disputes Act 1941",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

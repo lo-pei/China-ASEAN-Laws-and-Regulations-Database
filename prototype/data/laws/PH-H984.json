@@ -1,7 +1,7 @@
 {
  "id": "PH-H984",
  "title": {
-  "zh": null,
+  "zh": "将大都会供水区债券债务上限由2000万比索提高至3000万比索，为此修订第2832号法第2条（m）项（经修正）的法案",
   "en": "An Act Increasing the Limit of the Bonded Indebtedness of the Metropolitan Water District from Twenty Million Pesos to Thirty Million Pesos, Amending for the Purpose Subsection (m) of Section Two of Act Numbered Twenty-Eight Hundred Thirty-Two, as Amended",
   "orig": "An Act Increasing the Limit of the Bonded Indebtedness of the Metropolitan Water District from Twenty Million Pesos to Thirty Million Pesos, Amending for the Purpose Subsection (m) of Section Two of Act Numbered Twenty-Eight Hundred Thirty-Two, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Limit of the Bonded Indebtedness of the Metropolitan Water District from Twenty Million Pesos to Thirty Million Pesos, Amending for the Purpose Subsection (m) of Section Two of Act Numbered Twenty-Eight Hundred Thirty-Two, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

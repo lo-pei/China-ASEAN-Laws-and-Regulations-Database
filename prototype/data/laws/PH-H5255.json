@@ -1,7 +1,7 @@
 {
  "id": "PH-H5255",
  "title": {
-  "zh": null,
+  "zh": "白手杖法",
   "en": "White Cane Act",
   "orig": "White Cane Act An Act Declaring August One of Each Year as White Cane Safety Day in the Philippines and for other purposes"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "White Cane Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

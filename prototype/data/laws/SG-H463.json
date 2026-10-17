@@ -1,7 +1,7 @@
 {
  "id": "SG-H463",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（特别雇员发牌）条例 2009",
   "en": "Casino Control (Licensing of Special Employees) Regulations 2009",
   "orig": null
  },
@@ -400,5 +400,13 @@
     "en": "SECOND SCHEDULE\nRegulations 8(1), 19(2) and (3) and 20\nFees\n1.For an application for —\n(a)a Category A licence\n$400\n(b)a Category B licence\n$320\n(c)a Category C1 licence\n$270\n(d)a Category C2 licence\n$270\n2.For an application for renewal of —\n(a)a Category A licence\n$350\n(b)a Category B licence\n$300\n(c)a Category C1 licence\n$240\n(d)a Category C2 licence\n$240\n3.For a late application to renew —\n(a)a Category A licence\n$50\n(b)a Category B licence\n$20\n(c)a Category C1 licence\n$30\n(d)a Category C2 licence\n$30\n4.For a replacement of a licence\n$10.\n[S 465/2011 wef 01/09/2011]\nNote:\nItems 1, 2 and 3 may be subject to such goods and services tax as is payable under the Goods and Services Tax Act 1993.\n[S 678/2022 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Licensing of Special Employees) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H155",
  "title": {
-  "zh": null,
+  "zh": "航空导航（航空安保）命令",
   "en": "Air Navigation (Aviation Security) Order",
   "orig": null
  },
@@ -374,5 +374,13 @@
     "en": "21.—(1) Any direction, enforcement notice or other notice given or served by the Commissioner under the revoked Air Navigation (Aviation Security) Order (O 5, 2000 Ed.) that is in force immediately before 18th October 2006 shall continue and be deemed to have been given or served under the corresponding provision of this Order.\n(2) Every person who immediately before 18th October 2006 was an authorised person under paragraph 14 of the revoked Air Navigation (Aviation Security) Order shall be deemed to be an authorised person under paragraph 18 of this Order.\n[G.N. Nos. S 590/2006; S 173/2007]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Air Navigation (Aviation Security) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

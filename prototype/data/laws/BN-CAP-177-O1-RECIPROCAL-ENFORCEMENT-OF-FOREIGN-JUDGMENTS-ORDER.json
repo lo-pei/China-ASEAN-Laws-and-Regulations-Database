@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-177-O1-RECIPROCAL-ENFORCEMENT-OF-FOREIGN-JUDGMENTS-ORDER",
  "title": {
-  "zh": null,
+  "zh": "O1 外国判决相互执行命令",
   "en": "O1 RECIPROCAL ENFORCEMENT OF FOREIGN JUDGMENTS ORDER",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "The Act extends to each of the foreign countries listed in the Schedule. MALAYSIA(HIGH COURT) SINGAPORE (HIGH COURT)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "O1 RECIPROCAL ENFORCEMENT OF FOREIGN JUDGMENTS ORDER",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

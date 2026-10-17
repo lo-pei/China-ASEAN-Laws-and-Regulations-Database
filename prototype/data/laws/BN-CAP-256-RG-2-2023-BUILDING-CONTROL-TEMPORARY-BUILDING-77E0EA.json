@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-256-RG-2-2023-BUILDING-CONTROL-TEMPORARY-BUILDING-77E0EA",
  "title": {
-  "zh": null,
+  "zh": "RG 2 2023 版建筑管制临时建筑物条例",
   "en": "RG 2 2023 ED BUILDING CONTROL TEMPORARY BUILDINGS REGULATIONS",
   "orig": null
  },
@@ -190,5 +190,13 @@
     "en": "Any person who is guilty of an offence under these Regulations for which no penalty is expressly provided is liable on conviction to a fine not exceeding $5,000, imprisonment for a term not exceeding 6 months or both.\n\nSCHEDULE (regulation 2)\n\nTEMPORARY BUILDINGS TO WHICH THESE REGULATIONS DO NOT APPLY"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 2 2023 ED BUILDING CONTROL TEMPORARY BUILDINGS REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

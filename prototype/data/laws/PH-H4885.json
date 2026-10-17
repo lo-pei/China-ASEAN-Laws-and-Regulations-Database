@@ -1,7 +1,7 @@
 {
  "id": "PH-H4885",
  "title": {
-  "zh": null,
+  "zh": "在新比斯开省从 Dupax 市镇析出设立南 Dupax 市镇的法案",
   "en": "An Act Creating the Municipality of Dupax Del Sur From the Municipality of Dupax in the Province of Nueva Vizcaya.",
   "orig": "An Act Creating the Municipality of Dupax Del Sur From the Municipality of Dupax in the Province of Nueva Vizcaya."
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 16, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Municipality of Dupax Del Sur From the Municipality of Dupax in the Province of Nueva Vizcaya.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

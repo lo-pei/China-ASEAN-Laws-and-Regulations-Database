@@ -1,7 +1,7 @@
 {
  "id": "SG-H1247",
  "title": {
-  "zh": null,
+  "zh": "雇佣（规定表格）条例",
   "en": "Employment (Prescribed Form) Regulations",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nGOVERNMENT OF THE REPUBLIC OF SINGAPORE\nEMPLOYMENT ACT\n(CHAPTER 91)\nORDER MADE UNDER SECTIONS 115 AND 119\nIn the office of the Commissioner for Labour, Havelock Road, Singapore\nEmployment Case No.: ..................\nState name of complainant, or where there is more than one complainant, the name of the representative complainant, adding the words ‘‘and others’’.\n.................................................................................................................\n.................................................................................................................\nVersus\nState name of defendant.\n.................................................................................................................\n.................................................................................................................\nState nature of claim or dispute.\nClaim for ............................................................................................\n.................................................................................................................\nState date or dates of the hearing of the complaint.\nThis dispute having been enquired into and decided on\n................................................................................................................\nby .................................................................. Commissioner for Labour,\nState name and official title of the officer hearing the complaint.\nit is ordered .............................................................................................\n.................................................................................................................\n.................................................................................................................\nGiven under my hand and seal this ..................... day of\n.............................. 20......\n..............................................................\nCommissioner for Labour, Singapore.\nState no or partial satisfaction, as the case may be, and, if partial satisfaction, state to what extent.\nIt is hereby certified that .................................................................. of this order has been made in this office.\n..............................................................\nCommissioner for Labour, Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Employment (Prescribed Form) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

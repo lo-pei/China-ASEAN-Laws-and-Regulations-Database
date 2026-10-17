@@ -1,7 +1,7 @@
 {
  "id": "PH-H5351",
  "title": {
-  "zh": null,
+  "zh": "推迟科迪勒拉自治区州长、副州长与议会成员首次正式选举，为此修订第6766号共和国法（经修正）第一条第21款",
   "en": "An Act Postponing the Holding of the First Regular Election for Governor, Deputy Governor and Members of the Regional Assembly of the Autonomous Region of the Cordilleras, Amending for the Purpose Section 1, Article XXI of Republic Act Numbered Sixty-Seven Hundred and Sixty-Six, as Amended",
   "orig": "An Act Postponing the Holding of the First Regular Election for Governor, Deputy Governor and Members of the Regional Assembly of the Autonomous Region of the Cordilleras, Amending for the Purpose Section 1, Article XXI of Republic Act Numbered Sixty-Seven Hundred and Sixty-Six, as Amended"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H5351-A1_2",
+   "id": "PH-H5351-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The first regular election for the Cordillera Governor, the Cordillera Deputy Governor and the Members of the Cordillera Assembly shall be held on the first Monday of March 1991. Their terms of office shall begin at noon of the last day of the month next following the proclamation of their election and shall end at noon of the thirty-first day of May 1993. The expenses for the conduct of the election shall be charged against the Contingent Fund; any deficiency shall be taken from the savings of the National Government. The Commission on Elections shall promulgate such rules and regulations as may be necessary for the conduct of said election.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5351-A2",
@@ -70,5 +71,13 @@
     "en": "This Act shall take effect upon its complete publication in at least two (2) national newspapers and at least one (1) local newspaper of general circulation in Cordillera provinces and Baguio City."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Postponing the Holding of the First Regular Election for Governor, Deputy Governor and Members of the Regional Assembly of the Autonomous Region of the Cordilleras, Amending for the Purpose Section 1, Article XXI of Republic Act Numbered Sixty-Seven Hundred and Sixty-Six, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

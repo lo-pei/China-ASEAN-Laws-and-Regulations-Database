@@ -1,7 +1,7 @@
 {
  "id": "SG-H1288",
  "title": {
-  "zh": null,
+  "zh": "濒危物种（进出口）（罪行构成）规则 2008",
   "en": "Endangered Species (Import and Export) (Composition of Offences) Rules 2008",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the Director‑General in accordance with section 25 of the Act:\n(a)any offence under section 4(1), 5(4), 8(4), 13(3), 15D(4), 16(b) or 17(1) or (2) of the Act;\n(b)any offence under section 19 of the Act, where the offence referred to in that section as being abetted or attempted is a compoundable offence under paragraph (a)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Endangered Species (Import and Export) (Composition of Offences) Rules 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

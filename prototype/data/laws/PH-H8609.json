@@ -1,7 +1,7 @@
 {
  "id": "PH-H8609",
  "title": {
-  "zh": null,
+  "zh": "规定棉兰老穆斯林自治区（ARMM）选举与全国及地方选举同步举行并为其他目的法案",
   "en": "An Act Providing for the Synchronization of the Elections in the Autonomous Region in Muslim Mindanao (ARMM) With the National and Local Elections, and for Other Purposes",
   "orig": "An Act Providing for the Synchronization of the Elections in the Autonomous Region in Muslim Mindanao (ARMM) With the National and Local Elections, and for Other Purposes"
  },
@@ -130,5 +130,13 @@
     "en": "Effectivity Clause. - This Act shall take effect immediately upon the completion of its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Synchronization of the Elections in the Autonomous Region in Muslim Mindanao (ARMM) With the National and Local Elections, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

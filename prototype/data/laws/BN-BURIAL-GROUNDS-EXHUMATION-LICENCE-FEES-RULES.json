@@ -1,7 +1,7 @@
 {
  "id": "BN-BURIAL-GROUNDS-EXHUMATION-LICENCE-FEES-RULES",
  "title": {
-  "zh": null,
+  "zh": "墓地掘尸许可证费用规则",
   "en": "BURIAL GROUNDS EXHUMATION LICENCE FEES RULES",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "The fee for an exhumation licence granted by the Minister under section 11 (1) (b) of the Burial Grounds Act shall be $5.00. B.L.R.O. 111984"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BURIAL GROUNDS EXHUMATION LICENCE FEES RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

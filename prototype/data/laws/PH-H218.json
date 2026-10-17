@@ -1,7 +1,7 @@
 {
  "id": "PH-H218",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第2711号法（即《修订行政法典》，经第3820号法与第100号联邦法修正）第1838条",
   "en": "An Act to Further Amend Section Eighteen Hundred and Thirty-Eight of Act Numbered Twenty-Seven Hundred and Eleven, Known as the Revised Administrative Code, as Amended by Act Numbered Thirty-Eight Hundred and Twenty and Commonwealth Act Numbered One Hundred",
   "orig": "An Act to Further Amend Section Eighteen Hundred and Thirty-Eight of Act Numbered Twenty-Seven Hundred and Eleven, Known as the Revised Administrative Code, as Amended by Act Numbered Thirty-Eight Hundred and Twenty and Commonwealth Act Numbered One Hundred"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Section Eighteen Hundred and Thirty-Eight of Act Numbered Twenty-Seven Hundred and Eleven, Known as the Revised Administrative Code, as Amended by Act Numbered Thirty-Eight Hundred and Twenty and Commonwealth Act Numbered One Hundred",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

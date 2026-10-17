@@ -1,7 +1,7 @@
 {
  "id": "SG-H2200",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展贷款利息及其他付款豁免）（第 2 号）公告 2019",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 2) Notification 2019",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Qualifying payments payable by Mercuria Asia Group Holdings Pte Ltd, a company with an approved Finance and Treasury Centre under section 43G of the Act —\n(a)to a specified lender under the syndicated revolving credit facilities or the JPY‑denominated loan;\n(b)in respect of the portion of funds obtained under the syndicated revolving credit facilities or the JPY‑denominated loan that are used by Mercuria Asia Group Holdings Pte Ltd for any of the qualifying activities and qualifying services prescribed in regulations made under section 43G(1) of the Act; and\n(c)during the period starting on 14 December 2017 and ending on the date the Finance and Treasury Centre of Mercuria Asia Group Holdings Pte Ltd ceases to be a Finance and Treasury Centre approved under section 43G of the Act,\nare exempt from tax.\n(2) The exemption under sub‑paragraph (1) is subject to the conditions specified in the letter of approval dated 6 July 2018 and addressed to Ernst & Young Solutions LLP, tax advisor of Mercuria Asia Group Holdings Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 2) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

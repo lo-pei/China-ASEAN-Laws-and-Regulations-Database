@@ -1,7 +1,7 @@
 {
  "id": "PH-H4535",
  "title": {
-  "zh": null,
+  "zh": "将 Benguet 省 La Trinidad 市镇的高山农学院改设为国立学院，名称为高山国立农学院的法案",
   "en": "An Act Converting the Mountain Agricultural College in the Municipality of La Trinidad, Province of Benguet, to a State College to Be Known as the Mountain State Agricultural College",
   "orig": "An Act Converting the Mountain Agricultural College in the Municipality of La Trinidad, Province of Benguet, to a State College to Be Known as the Mountain State Agricultural College"
  },
@@ -211,5 +211,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without executive approval, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Mountain Agricultural College in the Municipality of La Trinidad, Province of Benguet, to a State College to Be Known as the Mountain State Agricultural College",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

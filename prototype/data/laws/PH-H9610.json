@@ -1,7 +1,7 @@
 {
  "id": "PH-H9610",
  "title": {
-  "zh": null,
+  "zh": "将远程办公制度化为私营部门雇员的替代工作安排",
   "en": "An Act Institutionalizing Telecommuting as An Alternative Work Arrangement for Employees in the Private Sector",
   "orig": "An Act Institutionalizing Telecommuting as An Alternative Work Arrangement for Employees in the Private Sector"
  },
@@ -160,5 +160,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Institutionalizing Telecommuting as An Alternative Work Arrangement for Employees in the Private Sector",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

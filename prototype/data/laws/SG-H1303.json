@@ -1,7 +1,7 @@
 {
  "id": "SG-H1303",
  "title": {
-  "zh": null,
+  "zh": "节能（燃油经济性与车辆排放标签）条例 2012",
   "en": "Energy Conservation (Fuel Economy and Vehicular Emissions Labelling) Regulations 2012",
   "orig": null
  },
@@ -191,5 +191,13 @@
     "en": "THE SCHEDULE\nRegulation 2(2)\nEmission bands applicable to motor vehicles\nS/No.\nDescription of motor vehicle\nApplicable emission band\n1.\nA motor vehicle under rule 10(2)(b) of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (R 5)\nBand A1\n2.\nA motor vehicle under rule 10(2)(a) of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules\nBand A2\n2A.\nA zero-tailpipe emission light commercial vehicle or a motor vehicle under rule 10(2)(c) of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules\nBand A\n3.\nA motor vehicle not referred to in item 1, 2, 2A, 4, 5, 5A or 6\nBand B\n4.\nA motor vehicle under rule 3(2)(b) or (2A)(c) of the Road Traffic (Vehicular Emissions Tax) Rules 2017 (G.N. No. S 776/2017)\nBand C1\n5.\nA motor vehicle under rule 3(2)(a) or (2A)(b) of the Road Traffic (Vehicular Emissions Tax) Rules 2017\nBand C2\n5A.\nA motor vehicle under rule 3(2A)(a) of the Road Traffic (Vehicular Emissions Tax) Rules 2017\nBand C3\n6.\nA motor vehicle under rule 3(3) of the Road Traffic (Vehicular Emissions Tax) Rules 2017\nBand C\n[S 874/2025 wef 01/01/2026]\n[S 169/2023 wef 31/12/2021]\n[S 212/2021 wef 01/04/2021]\n[S 775/2017 wef 01/01/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Energy Conservation (Fuel Economy and Vehicular Emissions Labelling) Regulations 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2896",
  "title": {
-  "zh": null,
+  "zh": "释义（死亡判定与证明）条例",
   "en": "Interpretation (Determination and Certification of Death) Regulations",
   "orig": null
  },
@@ -136,5 +136,13 @@
     "en": "SECOND SCHEDULE\nRegulation 5\n[S 103/2004 wef 01/07/2004]\n[G.N. No. S 505/98]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Interpretation (Determination and Certification of Death) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

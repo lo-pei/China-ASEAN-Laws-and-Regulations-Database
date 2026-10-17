@@ -1,7 +1,7 @@
 {
  "id": "SG-H2174",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发利息及其他付款豁免）公告",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The exemption under paragraph 2 shall apply only if the following terms and conditions are satisfied:\n(a)the issuer has been approved by the Monetary Authority of Singapore (the Authority) to issue Singapore dollar debt securities under the Authority’s guidelines on internationalisation of the Singapore dollar (the Internationalisation Guidelines);\n(b)the Singapore swap counterparty is a licensed bank or merchant bank or any other institution specifically approved by the Authority to enter into the cross currency swap transaction; and\n(c)the cross currency swap transaction is entered into pursuant to the requirements of the Internationalisation Guidelines to convert the proceeds from the Singapore-dollar denominated debt securities into foreign currency.\n[G.N. No. S 206/99]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

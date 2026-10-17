@@ -1,7 +1,7 @@
 {
  "id": "SG-H127",
  "title": {
-  "zh": null,
+  "zh": "穆斯林法管理（清真寺建设与回教社会发展理事会基金）规则",
   "en": "Administration of Muslim Law (Mosque Building and Mendaki Fund) Rules",
   "orig": null
  },
@@ -360,5 +360,13 @@
     "en": "THE SCHEDULE\nDeleted by S 408/2005, wef 01/07/2005."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Administration of Muslim Law (Mosque Building and Mendaki Fund) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6105",
  "title": {
-  "zh": null,
+  "zh": "宣布八打雁省 Taal 湖火山岛为旅游区，由旅游部、环境与自然资源部及 Laurel、Balete 等市镇共同管辖",
   "en": "An Act Declaring Volcano Island in Taal Lake, Province of Batangas, A Tourist Zone Under the Joint Jurisdiction of the Department of Tourism, the Department of Environment and Natural Resources, and the Municipalities of Laurel, Balete, Agoncillo, San Nlcolas, and Talisay",
   "orig": "An Act Declaring Volcano Island in Taal Lake, Province of Batangas, A Tourist Zone Under the Joint Jurisdiction of the Department of Tourism, the Department of Environment and Natural Resources, and the Municipalities of Laurel, Balete, Agoncillo, San Nlcolas, and Talisay"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect fifteen (15) days from its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring Volcano Island in Taal Lake, Province of Batangas, A Tourist Zone Under the Joint Jurisdiction of the Department of Tourism, the Department of Environment and Natural Resources, and the Municipalities of Laurel, Balete, Agoncillo, San Nlcolas, and Talisay",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

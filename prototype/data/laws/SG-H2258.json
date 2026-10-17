@@ -1,7 +1,7 @@
 {
  "id": "SG-H2258",
  "title": {
-  "zh": null,
+  "zh": "所得税（FLCT UK 1 Pte. Ltd. 等——第13条第12款豁免）命令 2024",
   "en": "Income Tax (FLCT UK 1 Pte. Ltd., etc. — Section 13(12) Exemption) Order 2024",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9.—(1) Interest income received in Singapore by British & Malayan Trustees Limited (a company incorporated in Singapore) in its capacity as the trustee of Frasers Commercial Trust (a trust constituted in Singapore) from APF Management Pty Limited (a company incorporated in Australia) in its capacity as the trustee of Central Park Landholding Trust (a trust constituted in Australia) on or after 6 March 2023, is exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the terms and conditions specified in the letters from the Ministry of Finance dated 6 March 2023 and 11 April 2024 and addressed to EY Corporate Advisors Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (FLCT UK 1 Pte. Ltd., etc. — Section 13(12) Exemption) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

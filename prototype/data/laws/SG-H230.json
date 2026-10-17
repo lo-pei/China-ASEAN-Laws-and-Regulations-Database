@@ -1,7 +1,7 @@
 {
  "id": "SG-H230",
  "title": {
-  "zh": null,
+  "zh": "发牌官的委任",
   "en": "Appointment of Licensing Officer",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Sand and Granite Quarries Act\n(CHAPTER 284, Section 3)\nAppointment of Licensing Officer\nN 1\nREVISED EDITION 2001\n(31st January 2001)\n[26th May 1999]\nThe Minister for National Development has appointed the Director, Business Development Division, Building and Construction Authority, to be the Licensing Officer for the purposes of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Licensing Officer",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

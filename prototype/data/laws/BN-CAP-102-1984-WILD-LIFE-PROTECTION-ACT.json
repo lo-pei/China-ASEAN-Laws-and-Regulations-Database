@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-102-1984-WILD-LIFE-PROTECTION-ACT",
  "title": {
-  "zh": null,
+  "zh": "野生动物保护法",
   "en": "WILD LIFE PROTECTION ACT",
   "orig": null
  },
@@ -528,5 +528,13 @@
     "en": "Leatherback Dermochelys Penyu timbo (Malay) Turtle coriacea ·' PART 8: OTHER ANIMALS THE EXPORT OF WHICH IS\n\nFORBIDDEN EXCEPT UNDER LICENCE\n\n(i) Apes and monkey\n\n(ii) Bears\n\n(iii) Deer\n\nSECOND SCHEDULE (Section 10 (3) ) FEES A. Fee for a licence to export animals specified in the First Sche~ dule ................................... $50.00 per head. B. Fee for a licence under section 9 .................... $30.00 per month. XI B.L.R.O. l!l984\n\nTHIRD SCHEDULE (Section 10)\n\nFORM OF LICENCE (Not transferable) Permission is hereby given to ...................................................... . of (address) ............................................................................. . to hunt, kill or capture/possess/sell/export* the following animal, namely: the kind ................................................................... . the number ............................................................... . within the District of ................................................... . subject to the provisions of the Wild Life Protection Act, and any rules made thereunder, and to the following special conditions, namely: Date of Issue ................................ : .......................................... . Valid to (date) ......................................................................... . Fee $ .................................. (paid) .......... i ............................................................. .. Chief Game Warden/Game Warden. *Delete as appropriate. N .B.: Where the licence is to kill, capture. sell or export. this licence is to be returned to the Chief Game Warden or Game Warden on expiration endorsed with the number of.. ........................ killed, captured, sold or exported*. *Delete as appropriate. NOTE: This licence must be carried on the person of the licensee when he is engaged in performing the acts authorised."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "WILD LIFE PROTECTION ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

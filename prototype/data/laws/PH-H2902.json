@@ -1,7 +1,7 @@
 {
  "id": "PH-H2902",
  "title": {
-  "zh": null,
+  "zh": "规定公共经济发展项目最大限度就业、设立应急就业管理局并为其他目的法案",
   "en": "An Act to Provide Maximum Employment in Public Economic Development Projects, Creating an Emergency Employment Administration, and for Other Purposes",
   "orig": "An Act to Provide Maximum Employment in Public Economic Development Projects, Creating an Emergency Employment Administration, and for Other Purposes"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval and shall be in force for a period of five years therefrom.\nApproved: June 16, 1962."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide Maximum Employment in Public Economic Development Projects, Creating an Emergency Employment Administration, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

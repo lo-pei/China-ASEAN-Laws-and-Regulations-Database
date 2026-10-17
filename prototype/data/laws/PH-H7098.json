@@ -1,7 +1,7 @@
 {
  "id": "PH-H7098",
  "title": {
-  "zh": null,
+  "zh": "将南苏里高理工学院及其四所分校改设为特许学院，名称为南苏里高理工国立学院，并扩大其辖区与课程计划",
   "en": "An Act Converting the Surigao Del Sur Polytechnic College (SSPC) Together With Its Four Branch Schools Into a Chartered College to Be Known as the Surigao Del Sur Polytechnic State College (SSPSC), Expanding Its Jurisdiction and Curricular Programs",
   "orig": "An Act Converting the Surigao Del Sur Polytechnic College (SSPC) Together With Its Four Branch Schools Into a Chartered College to Be Known as the Surigao Del Sur Polytechnic State College (SSPSC), Expanding Its Jurisdiction and Curricular Programs"
  },
@@ -270,5 +270,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Surigao Del Sur Polytechnic College (SSPC) Together With Its Four Branch Schools Into a Chartered College to Be Known as the Surigao Del Sur Polytechnic State College (SSPSC), Expanding Its Jurisdiction and Curricular Programs",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

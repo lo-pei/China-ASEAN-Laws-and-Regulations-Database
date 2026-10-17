@@ -1,7 +1,7 @@
 {
  "id": "SG-H877",
  "title": {
-  "zh": null,
+  "zh": "反补贴与反倾销税（反倾销税快速复核）裁定 2000",
   "en": "Countervailing and Anti-Dumping Duties (Expedited Review of Anti-Dumping Duties) Determination 2000",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nRound hot-rolled steel products of solid cross-section, which are sold in lengths. The goods can be produced either with smooth surface or with a ribbed surface. The goods are now classified under the following categories:\n(a)H.S. Code 7214.20000 (formerly H.S. Code 7214.20005):\nOther bars and rods of iron or non-alloy steel, not further worked than forged, hot‑rolled, hot‑drawn or hot‑extruded, but including those twisted after rolling; containing indentations, ribs, grooves or other deformations produced during the rolling process or twisted after rolling;\n(b)H.S. Code 7214.99200 (formerly H.S. Code 7214.50008):\nOther bars and rods of iron or non-alloy steel, not further worked than forged, hot‑rolled, hot‑drawn or hot‑extruded, but including those twisted after rolling; other, containing by weight 0.25% or more but less than 0.6% of carbon."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Countervailing and Anti-Dumping Duties (Expedited Review of Anti-Dumping Duties) Determination 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

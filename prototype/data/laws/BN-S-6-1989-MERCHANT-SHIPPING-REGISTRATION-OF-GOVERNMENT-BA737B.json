@@ -1,0 +1,82 @@
+{
+ "id": "BN-S-6-1989-MERCHANT-SHIPPING-REGISTRATION-OF-GOVERNMENT-BA737B",
+ "title": {
+  "zh": "商船政府船舶登记条例 1988",
+  "en": "MERCHANT SHIPPING REGISTRATION OF GOVERNMENT SHIPS REGNS 1988",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p30",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 3,
+ "chars": 2896,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-6-1989-MERCHANT-SHIPPING-REGISTRATION-OF-GOVERNMENT-SHIPS-REGNS-1988.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-6-1989-MERCHANT-SHIPPING-REGISTRATION-OF-GOVERNMENT-SHIPS-REGNS-1988.pdf》（2 页），本次切分 3 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-6-1989-MERCHANT-SHIPPING-REGISTRATION-OF-GOVERNMENT-BA737B-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "These Regulations may be cited as the Merchant Shipping Citation and !Registration of Government Ships) Regulations, 1988 and shall come commence· into operation on 1st day of October, 1988. ment."
+   }
+  },
+  {
+   "id": "BN-S-6-1989-MERCHANT-SHIPPING-REGISTRATION-OF-GOVERNMENT-BA737B-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In these Regulations -. Definition. \"Act\" means the Merchant Shipping Act. Chapter 145. \"Government Ship\" means and includes a ship, or classes of ships, belonging to the Government but not including ships belonging to the Royal Brunei Armed Forces and the Royal Brunei Police Force."
+   }
+  },
+  {
+   "id": "BN-S-6-1989-MERCHANT-SHIPPING-REGISTRATION-OF-GOVERNMENT-BA737B-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "( 1) Application for registry of a Government ships shall be Application in writing made under the hand of the Permanent Secretary, Ministry for Registry. of Communications charged with such responsibility.\n\n(2) Such application shall contain the following particulars\n\n(a) a statement of the name and description of the ship ;\n\n(b) a statement of the time when, and place where, the ship was built ; or, if the ship was foreign built, and the time and place of building are unknown, a statement to that effect, and of her foreign name ;\n\n(c) a statement of the nature of the title to the said ship, whether by original construction by or for the Government or by purchase, caph.:re, condemnation or otherwise and a list of the docur.1ents of title, if any, in case she was not originally constructed by or for the Govern· ment of statutory body ; and ;\n\n(d) a statement of the name of the master.\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE Entry into 4. 11) The Registrar, on receiving an application for registry under Register Book. Regulation 3 of these Regulations, shall enter the ship in the register book as belonging to \"the Government of Brunei Darussalam\".\n\n(2) The Registrar shall also enter in such register book the following :-\n\n(a) the name of the ship and the name of the port to which she belongs ;\n\n(b) the particulars stated in the application for registry ; and [c) the details comprised in the surveyor's certificate. Sureyor's Cer-5. On the registry of a ship under these Regulations the tificate. Registrar shall retain in his possession the surveyor's certificate and the application for registry, and any documents of title mentioned in such application. Transfer of 6. Upon the transfer of a registered Government ship by bill of registered sale, the Government shall be the transferor and the bill of sale shall Government be in the prescribed form, omitting the covenant therein contained. ship. Any such bill of sale shall be signed by the Permanent Secretary, Ministry of Communications on behalf of the Government. Ships 7. The person to whom the management of a ship registered managing under these Regulations is entrusted shall be registered in accordance Owner or with the provisions of Section 49 of the Act. Manager. Made this 1st day of October, 1988.\n\nBY COMMAND PEHIN ORANG KAYA LAlLA WIJAYA\n\nDATO SERI SETIA AWANG HAJI ABDUL AZIZ UMAR Minister of Communications Brunei Darussalam."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MERCHANT SHIPPING REGISTRATION OF GOVERNMENT SHIPS REGNS 1988",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

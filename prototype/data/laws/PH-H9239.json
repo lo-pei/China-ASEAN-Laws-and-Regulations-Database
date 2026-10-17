@@ -1,7 +1,7 @@
 {
  "id": "PH-H9239",
  "title": {
-  "zh": null,
+  "zh": "将本格特省 Atok 市镇 Caliking 第 30 营地描笼涯的 Atok 国立中学附属校从该校分离，改设为名为 Camp 30 国立中学的独立国立中学并拨款",
   "en": "An Act Separating the Atok National High School - Annex in Barangay Camp 30, Caliking, Municipality of Atok, Province of Benguet From the Atok National High School, Converting It Into An Independent National High School to Be Known as Camp 30 National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Atok National High School - Annex in Barangay Camp 30, Caliking, Municipality of Atok, Province of Benguet From the Atok National High School, Converting It Into An Independent National High School to Be Known as Camp 30 National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Atok National High School - Annex in Barangay Camp 30, Caliking, Municipality of Atok, Province of Benguet From the Atok National High School, Converting It Into An Independent National High School to Be Known as Camp 30 National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

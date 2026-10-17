@@ -1,7 +1,7 @@
 {
  "id": "PH-H1039",
  "title": {
-  "zh": null,
+  "zh": "将所有特别组织省改为正规组织省的法案",
   "en": "An Act Converting All Specially Organized Provinces into Regularly Organized Provinces",
   "orig": "An Act Converting All Specially Organized Provinces into Regularly Organized Provinces"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 20, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting All Specially Organized Provinces into Regularly Organized Provinces",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

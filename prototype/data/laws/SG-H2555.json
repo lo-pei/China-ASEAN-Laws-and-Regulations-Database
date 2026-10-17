@@ -1,7 +1,7 @@
 {
  "id": "SG-H2555",
  "title": {
-  "zh": null,
+  "zh": "所得税（Trafigura 私人有限公司依第 13（12）条享有的豁免）命令 2025",
   "en": "Income Tax (Trafigura Pte Ltd — Section 13(12) Exemption) Order 2025",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The following income received in Singapore by Trafigura Pte Ltd (a company incorporated in Singapore) is exempt from tax:\n(a)dividend income received on 6 September 2022 from Trafigura Ventures V B.V. (a company incorporated in the Netherlands), which is in turn derived from the profits of Trafigura Chile Limitada (a company incorporated in Chile);\n(b)dividend income received on 29 September 2022 from Trafigura Ventures V B.V., which is in turn derived from the profits of Trafigura Services South Africa (Pty) Ltd (a company incorporated in South Africa).\n(2) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter from the Inland Revenue Authority of Singapore dated 29 August 2025 that is issued on behalf of the Minister for Finance and addressed to Trafigura Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Trafigura Pte Ltd — Section 13(12) Exemption) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

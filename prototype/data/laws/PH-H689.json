@@ -1,7 +1,7 @@
 {
  "id": "PH-H689",
  "title": {
-  "zh": null,
+  "zh": "按年度收入对特许市（马尼拉、碧瑶与奎松市除外）进行分类并规定其官员薪金的法案",
   "en": "An Act Classifying Chartered Cities, Except Manila, Baguio and Quezon Cities, According to Their Annual Revenues and Fixing the Salaries of the Officials Thereof",
   "orig": "An Act Classifying Chartered Cities, Except Manila, Baguio and Quezon Cities, According to Their Annual Revenues and Fixing the Salaries of the Officials Thereof"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect on July one, nineteen hundred and fifty-two.\nApproved, April 7, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Classifying Chartered Cities, Except Manila, Baguio and Quezon Cities, According to Their Annual Revenues and Fixing the Salaries of the Officials Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

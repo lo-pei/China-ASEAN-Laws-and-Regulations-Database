@@ -1,7 +1,7 @@
 {
  "id": "PH-H9379",
  "title": {
-  "zh": null,
+  "zh": "通过加重医院与诊所拒绝提供适当初步医疗的处罚强化《反住院保证金法》的法案",
   "en": "An Act Strengthening the Anti-Hospital Deposit Law by Increasing the Penalties for the Refusal of Hospitals and Medical Clinics to Administer Appropriate Initial Medical Treatment and...",
   "orig": "An Act Strengthening the Anti-Hospital Deposit Law by Increasing the Penalties for the Refusal of Hospitals and Medical Clinics to Administer Appropriate Initial Medical Treatment and..."
  },
@@ -131,5 +131,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening the Anti-Hospital Deposit Law by Increasing the Penalties for the Refusal of Hospitals and Medical Clinics to Administer Appropriate Initial Medical Treatment and...",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

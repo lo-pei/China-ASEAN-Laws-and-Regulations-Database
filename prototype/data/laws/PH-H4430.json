@@ -1,7 +1,7 @@
 {
  "id": "PH-H4430",
  "title": {
-  "zh": null,
+  "zh": "将奎松市卡穆宁区卡穆宁路更名为贝内迪克托帕迪利亚大道，以纪念已故众议员贝内迪克托帕迪利亚的法案",
   "en": "An Act Changing the Name of Kamuning Road, Kamuning District, Quezon City, to Benedicto Padilla Avenue in Honor of the Late Congressman Benedicto Padilla",
   "orig": "An Act Changing the Name of Kamuning Road, Kamuning District, Quezon City, to Benedicto Padilla Avenue in Honor of the Late Congressman Benedicto Padilla"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Kamuning Road, Kamuning District, Quezon City, to Benedicto Padilla Avenue in Honor of the Late Congressman Benedicto Padilla",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

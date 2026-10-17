@@ -1,7 +1,7 @@
 {
  "id": "PH-H10159",
  "title": {
-  "zh": null,
+  "zh": "将北达沃省卡门市镇卡门—圣托马斯公路（伊辛描笼涯伊辛战役纪念碑前的阿古桑—达沃公路路口起，经新卡米林、阿莱哈尔与马格塞塞描笼涯）更名为Saturnino R. Silva公路的法案",
   "en": "An Act Renaming the Carmen-Santo Tomas Road, Stretching from Junction Agusan-Davao Road Fronting the Battle of Ising Monument in Barangay Ising, Traversing Through Barangays New Camiling, Alejal and Magsaysay, All in the Municipality of Carmen, Province of Davao Del Norte, as Saturnino R. Silva Road",
   "orig": "An Act Renaming the Carmen-Santo Tomas Road, Stretching from Junction Agusan-Davao Road Fronting the Battle of Ising Monument in Barangay Ising, Traversing Through Barangays New Camiling, Alejal and Magsaysay, All in the Municipality of Carmen, Province of Davao Del Norte, as Saturnino R. Silva Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Carmen-Santo Tomas Road, Stretching from Junction Agusan-Davao Road Fronting the Battle of Ising Monument in Barangay Ising, Traversing Through Barangays New Camiling, Alejal and Magsaysay, All in the Municipality of Carmen, Province of Davao Del Norte, as Saturnino R. Silva Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

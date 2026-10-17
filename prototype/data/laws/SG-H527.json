@@ -1,7 +1,7 @@
 {
  "id": "SG-H527",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（平台收入——不计入付款）公告 2024",
   "en": "Central Provident Fund (Platform Earnings — Excluded Payments) Notification 2024",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. For the purposes of the definition of “platform earnings” in section 2(1) of the Act, the following payments that become due to a platform worker from a platform operator are excluded payments:\n(a)any payment to reimburse a platform worker for any amount incurred in respect of any relevant treatment received or to be received by the platform worker or an individual who is a dependant of the platform worker at the time that the payment becomes due;\n(b)any payment to reimburse any special expenses incurred by a platform worker by reason of the platform worker’s provision of a platform service."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Platform Earnings — Excluded Payments) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

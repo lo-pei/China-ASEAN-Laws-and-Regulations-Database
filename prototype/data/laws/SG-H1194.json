@@ -1,7 +1,7 @@
 {
  "id": "SG-H1194",
  "title": {
-  "zh": null,
+  "zh": "幼儿发展中心法 2017",
   "en": "Early Childhood Development Centres Act 2017",
   "orig": null
  },
@@ -880,5 +880,13 @@
     "en": "THE SCHEDULE\nSections 3(a) and 50(1)\nExcluded early childhood development centres\n1. Any enrichment centre which solely provides for children any, or any combination, of the following enrichment activities:\n(a)instruction in a particular arts or sporting activity (such as but not limited to art, dance, music, a sport or children’s gym);\n(b)a recreational activity (such as but not limited to a camp or an excursion);\n(c)tuition or coaching in a particular subject or topic (such as but not limited to a language, science or mathematics).\n2. Any centre which solely provides therapy or other related services for children with special needs.\n3. Any playgroup centre the sole purpose of which is the care or education of children who are younger than 4 years of age for a period of 2 hours or shorter each time, through play and activities encouraging socialisation amongst those children.\n4. Any institution registered under the Private Education Act 2009 which provides a foreign or an international educational curriculum covering both pre‑primary and full‑time primary levels.\n5. Any home for children and young persons which is licensed under the Social Residential Homes Act 2025.\n[Act 14 of 2025 wef 01/07/2026]\n6. Any place of temporary care and protection appointed or declared under the Children and Young Persons Act 1993.\n7. Any place of safety appointed or established under the Children and Young Persons Act 1993.\n8. Any place of safety established under the Women’s Charter 1961.\n9. Any premises used to facilitate a care arrangement pursuant to a voluntary care agreement or a court order for committal to the care of a fit person under the Children and Young Persons Act 1993."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Early Childhood Development Centres Act 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "TH-H389",
  "title": {
-  "zh": null,
+  "zh": "鱼市活动组织法，佛历 2496（1953）",
   "en": "ACT ORGANISING THE ACTIVITIES OF THE FISH MARKET, B.E. 2496 (1953)",
   "orig": "พระราชบัญญัติจัดระเบียบกิจการแพปลา พ.ศ. 2496"
  },
@@ -574,5 +574,13 @@
     "th": "มาตรา ๔๒ ผู้ประกอบกิจการแพปลาและผู้ขายทอดตลาดสินค้าสัตว์น้ำที่กระทำการอยู่แล้วก่อนวันใช้บังคับพระราชบัญญัตินี้ ให้ยื่นคำขอรับใบอนุญาตตามความในพระราชบัญญัตินี้ภายในหกสิบวัน นับตั้งแต่วันใช้บังคับพระราชบัญญัตินี้เป็นต้นไป"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "ACT ORGANISING THE ACTIVITIES OF THE FISH MARKET, B.E. 2496 (1953)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

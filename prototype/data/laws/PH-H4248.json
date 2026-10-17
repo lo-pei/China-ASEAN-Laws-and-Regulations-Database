@@ -1,7 +1,7 @@
 {
  "id": "PH-H4248",
  "title": {
-  "zh": null,
+  "zh": "提高特定蒸馏酒与发酵酒的从量税，并将变性工艺限于蒸馏厂，为此修订《国家国内税收法典》第133条、第135条与第164条的法案",
   "en": "An Act Increasing the Specific Tax on Certain Distilled Spirits and on Fermented Liquors and Limiting to Distilleries the Process of Denaturation, Amending for This Purpose Sections One Hundred Thirty-Three, One Hundred Thirty-Five and One Hundred Sixty-Four of the National Internal Revenue Code",
   "orig": "An Act Increasing the Specific Tax on Certain Distilled Spirits and on Fermented Liquors and Limiting to Distilleries the Process of Denaturation, Amending for This Purpose Sections One Hundred Thirty-Three, One Hundred Thirty-Five and One Hundred Sixty-Four of the National Internal Revenue Code"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 25, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Specific Tax on Certain Distilled Spirits and on Fermented Liquors and Limiting to Distilleries the Process of Denaturation, Amending for This Purpose Sections One Hundred Thirty-Three, One Hundred Thirty-Five and One Hundred Sixty-Four of the National Internal Revenue Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1836",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 6 号）命令 2026",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 6) Order 2026",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Bedok Reservoir Road, Eunos Link, Kaki Bukit Avenue 1 and Jalan Tenaga, comprised in Lot number 06889T in Mukim 23 and on which Apartment Blocks 633, 634, 635, 636, 637, 643 and 644 are erected, in Lot number 04740N in Mukim 23 and on which Apartment Blocks 638, 639, 640, 641 and 642 are erected, and in Lot number 04695K in Mukim 23 and on which Apartment Blocks 645, 646, 647, 648 and 649 are erected, which blocks are each marked with a grey dot in Plan 1.\nPlan 1\nBEDOK RESERVOIR ROAD / JALAN TENAGA\n2. All that part of the housing estate of the Board bounded by Choa Chu Kang Drive, Choa Chu Kang North 6 and Choa Chu Kang Street 54, comprised in Lot number 01846M in Mukim 11 and on which Apartment Blocks 784, 785, 786, 787, 788, 789, 790, 791 and 792 are erected, which blocks are each marked with a grey dot in Plan 2.\nPlan 2\nCHOA CHU KANG DRIVE / CHOA CHU KANG NORTH 6\n3. All that part of the housing estate of the Board at Jalan Bukit Merah comprised in Lot number 02408P in Mukim 01 and on which Apartment Blocks 134, 135 and 139 are erected, which blocks are each marked with a grey dot in Plan 3.\nPlan 3\nJALAN BUKIT MERAH\n4. All that part of the housing estate of the Board bounded by Jurong West Central 1, Jalan Boon Lay and Jurong West Central 3, comprised in Lot number 03172P in Mukim 06 and on which Apartment Blocks 687, 688, 689, 690 and 691 are erected, and in Lot number 03074X in Mukim 06 and on which Apartment Blocks 692, 693, 694, 695 and 696 are erected, which blocks are each marked with a grey dot in Plan 4.\nPlan 4\nJURONG WEST CENTRAL 1\n5. All that part of the housing estate of the Board bounded by Pasir Ris Street 11 and Tampines Expressway, comprised in Lot number 02335M in Mukim 31 and on which Apartment Blocks 130, 131, 132, 133, 134, 135, 136 and 137 are erected, which blocks are each marked with a grey dot in Plan 5.\nPlan 5\nPASIR RIS STREET 11\n6. All that part of the housing estate of the Board bounded by Pasir Ris Street 11, Pasir Ris Street 13, Pasir Ris Drive 1, Loyang Avenue and Tampines Expressway, comprised in Lot number 02405L in Mukim 31 and on which Apartment Blocks 138, 139, 140, 141 and 142 are erected, in Lot number 03712V in Mukim 31 and on which Apartment Blocks 143, 144, 145 and 146 are erected, in Lot number 05302P in Mukim 31 and on which Apartment Blocks 147, 148, 149, 150 and 151 are erected, and in Lot number 05299C in Mukim 31 and on which Apartment Blocks 152, 153, 154, 155, 156, 157, 158, 159, 160 and 161 are erected, which blocks are each marked with a grey dot in Plan 6.\nPlan 6\nPASIR RIS STREET 11 / PASIR RIS STREET 13\n7. All that part of the housing estate of the Board bounded by Rivervale Street, Rivervale Drive and Sengkang East Way, comprised in Lot number 00993W in Mukim 21 and on which Apartment Blocks 133, 134, 135, 136, 137, 138, 139, 140 and 141 are erected, which blocks are each marked with a grey dot in Plan 7.\nPlan 7\nRIVERVALE STREET\n8. All that part of the housing estate of the Board at Woodlands Circle comprised in Lot number 03080M in Mukim 13 and on which Apartment Blocks 728, 729, 730, 731, 732 and 733 are erected, and in Lot number 03079V in Mukim 13 and on which Apartment Blocks 734, 735, 736, 737, 738, 739, 740, 741, 742 and 743 are erected, which blocks are each marked with a grey dot in Plan 8.\nPlan 8\nWOODLANDS CIRCLE"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 6) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

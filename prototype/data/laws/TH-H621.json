@@ -1,7 +1,7 @@
 {
  "id": "TH-H621",
  "title": {
-  "zh": null,
+  "zh": "国家清洁与秩序维护法，佛历 2535（1992）",
   "en": "ACT ON THE MAINTENANCE OF THE CLEANLINESS AND ORDERLINESS OF THE COUNTRY, B.E. 2535 (1992)",
   "orig": "พระราชบัญญัติรักษาความสะอาดและความเป็นระเบียบเรียบร้อยของบ้านเมือง พ.ศ. 2535"
  },
@@ -909,5 +909,13 @@
     "th": "มาตรา ๖๒ บรรดากฎกระทรวง ระเบียบ ประกาศ หรือคำสั่ง ซึ่งออกโดยอาศัยอำนาจตามพระราชบัญญัติรักษาความสะอาดและความเป็นระเบียบเรียบร้อยของบ้านเมือง พ.ศ. ๒๕๐๓ ให้คงใช้บังคับได้ต่อไป ทั้งนี้ เพียงเท่าที่ไม่ขัดหรือแย้งกับบทบัญญัติแห่งพระราชบัญญัตินี้"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "ACT ON THE MAINTENANCE OF THE CLEANLINESS AND ORDERLINESS OF THE COUNTRY, B.E. 2535 (1992)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

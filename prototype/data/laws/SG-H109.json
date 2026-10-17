@@ -1,7 +1,7 @@
 {
  "id": "SG-H109",
  "title": {
-  "zh": null,
+  "zh": "主动出行（Ryobi 岩土国际私人有限公司——豁免）命令 2022",
   "en": "Active Mobility (Ryobi Geotechnique International Pte. Ltd. — Exemption) Order 2022",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nSpecified paths\nMap 1\nMap 2\nMap 3\nMAP 4\n[S 599/2024 wef 18/07/2024]\n[S 599/2024 wef 18/07/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Ryobi Geotechnique International Pte. Ltd. — Exemption) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

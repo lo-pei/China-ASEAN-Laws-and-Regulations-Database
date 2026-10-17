@@ -1,7 +1,7 @@
 {
  "id": "PH-H2260",
  "title": {
-  "zh": null,
+  "zh": "将索索贡省卡西古兰市镇博霍村更名为圣安东尼奥村的法案",
   "en": "An Act Changing the Name of Barrio Boho in the Municipality of Casiguran, Province of Sorsogon, to San Antonio",
   "orig": "An Act Changing the Name of Barrio Boho in the Municipality of Casiguran, Province of Sorsogon, to San Antonio"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Barrio Boho in the Municipality of Casiguran, Province of Sorsogon, to San Antonio",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

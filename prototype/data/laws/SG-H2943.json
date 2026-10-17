@@ -1,7 +1,7 @@
 {
  "id": "SG-H2943",
  "title": {
-  "zh": null,
+  "zh": "土地税收征收（费用）规则",
   "en": "Land Revenue Collection (Fees) Rules",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The following fees shall be payable under the Act:\n(a) for service of a notice of demand\n$20\n(b) for service of a notice of sale\n$30.\n(2) A Collector of Land Revenue may remit or refund, wholly or in part, any fee paid or payable under paragraph (1).\n[S 311/2015 wef 01/06/2015]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Land Revenue Collection (Fees) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

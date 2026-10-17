@@ -1,7 +1,7 @@
 {
  "id": "PH-H1002",
  "title": {
-  "zh": null,
+  "zh": "处罚在劳动争议期间阻碍和/或干扰和平纠察行为的法案",
   "en": "An Act Punishing Obstruction and/or Interference with Peaceful Picketing During Any Labor Controversy",
   "orig": "An Act Punishing Obstruction and/or Interference with Peaceful Picketing During Any Labor Controversy"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect on July 1, 1955.\nApproved: June 18, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Punishing Obstruction and/or Interference with Peaceful Picketing During Any Labor Controversy",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

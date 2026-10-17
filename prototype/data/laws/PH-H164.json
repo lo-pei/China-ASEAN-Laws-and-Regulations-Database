@@ -1,7 +1,7 @@
 {
  "id": "PH-H164",
  "title": {
-  "zh": null,
+  "zh": "规定菲律宾陆军官兵、被承认或有功游击组织成员及菲律宾革命退伍军人权利法案，为此在国防部设立菲律宾退伍军人委员会并为其他目的法案",
   "en": "An Act Providing for a Bill of Rights for Officers and Enlisted Men of the Philippine Army and of Recognized or Deserving Guerrilla Organizations, and Veterans of the Philippine Revolutions, Creating Therefor a Philippine Veterans Board in the Department of National Defense, and for other purposes",
   "orig": "An Act Providing for a Bill of Rights for Officers and Enlisted Men of the Philippine Army and of Recognized or Deserving Guerrilla Organizations, and Veterans of the Philippine Revolutions, Creating Therefor a Philippine Veterans Board in the Department of National Defense, and for other purposes"
  },
@@ -240,5 +240,13 @@
     "en": "This Act shall take effect upon its approval: Provided, That the President of the Philippines is hereby authorized to suspend the operation of any provisions of this Act if and when the Congress of the United States approves the pending GI Bill of Rights applicable to the Philippines the provisions of which are identical or similar to the provisions of this Act.\nApproved: October 18, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for a Bill of Rights for Officers and Enlisted Men of the Philippine Army and of Recognized or Deserving Guerrilla Organizations, and Veterans of the Philippine Revolutions, Creating Therefor a Philippine Veterans Board in the Department of National Defense, and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

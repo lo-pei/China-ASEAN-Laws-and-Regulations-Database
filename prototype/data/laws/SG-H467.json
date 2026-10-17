@@ -1,7 +1,7 @@
 {
  "id": "SG-H467",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（博彩机与博彩节目最高数量）命令 2026",
   "en": "Casino Control (Maximum Number of Gaming Machines and Gaming Programs) Order 2026",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The total number of gaming machines and gaming programs available for casino gambling must not exceed —\n(a)for the casino operated by Marina Bay Sands Pte. Ltd. — 3,000; and\n(b)for the casino operated by Resorts World at Sentosa Pte. Ltd. — 2,900.\n(2) For the purposes of paragraph (1) —\n(a)each player terminal through which a bet may be placed on an electronic table game is considered one gaming machine; and\n(b)each software application installed on an electronic device and through which a casino game may be played is considered one gaming program, even if the software application is capable of being used to play more than one type of casino game."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Casino Control (Maximum Number of Gaming Machines and Gaming Programs) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

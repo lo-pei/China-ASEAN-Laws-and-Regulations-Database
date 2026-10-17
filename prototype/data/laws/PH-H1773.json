@@ -1,7 +1,7 @@
 {
  "id": "PH-H1773",
  "title": {
-  "zh": null,
+  "zh": "废止莱特省纳瓦尔市镇的希加坦甘岛希加坦甘村，并在该市镇另行设立利伯塔德村与马比尼村的法案",
   "en": "An Act Abolishing the Barrio of Higatangan, Higatangan Island, Municipality of Naval, Province of Leyte, and Creating Instead the Barrios of Libertad and Mabini in the Same Municipality",
   "orig": "An Act Abolishing the Barrio of Higatangan, Higatangan Island, Municipality of Naval, Province of Leyte, and Creating Instead the Barrios of Libertad and Mabini in the Same Municipality"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 23, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Abolishing the Barrio of Higatangan, Higatangan Island, Municipality of Naval, Province of Leyte, and Creating Instead the Barrios of Libertad and Mabini in the Same Municipality",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

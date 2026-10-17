@@ -1,7 +1,7 @@
 {
  "id": "PH-H6366",
  "title": {
-  "zh": null,
+  "zh": "延长私有化委员会与资产私有化信托的期限，为此修订第 7661 号共和国法的法案",
   "en": "An Act Extending the Term of the Committee on Privatization and the Asset Privatization Trust Amending for the Purpose Republic Act Numbered Seven Thousand Six Hundred Sixty-one",
   "orig": "An Act Extending the Term of the Committee on Privatization and the Asset Privatization Trust Amending for the Purpose Republic Act Numbered Seven Thousand Six Hundred Sixty-one"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H6366-A1_2",
+   "id": "PH-H6366-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "the term of the Committee on Privatization and the Asset Privatization Trust created by Proclamation No. 50. 'Proclaiming and Launching a Program for the Expeditious Disposition and Privatization of Certain Government Corporations and/or the Assets thereof and Creating the Committee on Privatization and the Asset Privatization Trust' is hereby extended from July 1, 1995 to December 31, 1999: Provided, That prior to the beginning of its extended term on July 1, 1995, the President may appoint new members of the Asset Privatization Trust: Provided, however, That with the exception of the chief executive trustee, two (2) of the incumbent associate executive trustees shall have a term ending on June 30, 1996 and the remaining two (2) shall have a term ending on December 31, 1999.\n\"There shall be no disposition of properties during the last three (3) months of the term which shall be devoted exclusively to the liquidation of the Asset/Privatization Trust and the Committee on Privatization and preparation for turnover of its assets, records and properties to the Office of the President who shall create a special committee to handle the same.\n* * * * * * * * * * \"All cash advances and all unsettled obligations incurred after the effectivity of this law by the officers and employees of the Committee on Privatization or the Asset Privatization Trust, as finally determined by the proper agency or court of law, must be liquidated on or before December 31, 1999.\n\"c) the decision of the Asset Privatization Trust and the Committee on Privatization on the sale and disposition of assets shall be final without need of concurrence by the owner and/or the custodial agency or corporation of the asset.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6366-A2",
@@ -100,5 +101,13 @@
     "en": "This Act shall take effect after its publication in two (2) newspapers of general circulation.\nApproved, February 20, 1995.\n* See text on 4 VLD 145 (2nd Series)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Term of the Committee on Privatization and the Asset Privatization Trust Amending for the Purpose Republic Act Numbered Seven Thousand Six Hundred Sixty-one",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

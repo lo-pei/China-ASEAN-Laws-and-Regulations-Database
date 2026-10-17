@@ -1,7 +1,7 @@
 {
  "id": "SG-H310",
  "title": {
-  "zh": null,
+  "zh": "卖据（账簿与文件移走）规则",
   "en": "Bills of Sale (Removal of Books and Documents) Rules",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Notwithstanding rule 2, it shall be lawful for the Auditor-General to require the production at his office of any such document for the purpose of audit at any time when the Registry of Bills of Sale is not open to the public."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Bills of Sale (Removal of Books and Documents) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

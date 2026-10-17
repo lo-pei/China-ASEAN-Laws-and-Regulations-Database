@@ -1,7 +1,7 @@
 {
  "id": "BN-S-10-2001-CORRIGENDUM-TO-S-54-2000",
  "title": {
-  "zh": null,
+  "zh": "对 S 54 2000 的更正",
   "en": "CORRIGENDUM TO S 54 2000",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "No. S 10\n\nCORRIGENDUM\n\nREGISTERED AGENTS AND TRUSTEES LICENSING ORDER, 2000 (S 54/2000) In this Order, published in No. 34 of Part II of the Government Gazette, dated 3rd. July, 2000, the following corrections are made -.-\n\n(i) in section 2, in the definition of \"DCC\", the word \"Act\" is deleted and substituted with \"Order,\";\n\n(ii) in section 10(2){a)(i), \"that\" is deleted and \"is\" to be inserted immediately after \"intention\";\n\n(iii) in section 24(5) in line 2, \"by\" is inserted immediately after \"for\"; and\n\n(iv) in section 53, in line 3 the word \"internal\" should read as \"interval\"."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CORRIGENDUM TO S 54 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

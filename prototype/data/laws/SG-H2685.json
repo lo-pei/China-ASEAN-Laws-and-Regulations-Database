@@ -1,7 +1,7 @@
 {
  "id": "SG-H2685",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 2 号）命令 2020",
   "en": "Infrastructure Protection (Protected Places) (No. 2) Order 2020",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\nThe Authority\nProtected Place\nBase Commander\nSERAPONG HILL TOWER SITE\nAll that area comprised in Lot 910P in Mukim No. 34 occupied by “SERAPONG HILL TOWER SITE” containing an area of about 881.4 square metres and bounded approximately as follows:\nCommencing at the northernmost corner at a point 25654.866 metres North and 28383.611 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n25654.866\n28383.611\n25638.281\n28409.021\n25614.137\n28395.872\n25631.837\n28367.681\nto the point of commencement.\nThe boundaries of “SERAPONG HILL TOWER SITE” are more particularly delineated on the Survey Plan No. 6021/GAZ filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 2) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

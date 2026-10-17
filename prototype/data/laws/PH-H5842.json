@@ -1,7 +1,7 @@
 {
  "id": "PH-H5842",
  "title": {
-  "zh": null,
+  "zh": "关于设立菲律宾邮政公司并界定其权力、职能与责任、规定行业监管的法案",
   "en": "An Act Creating the Philippine Postal Corporation, Defining Its Powers, Functions and Responsibilities, Providing for Regulation of the Industry and for Other Purposes Connected Therewith",
   "orig": "An Act Creating the Philippine Postal Corporation, Defining Its Powers, Functions and Responsibilities, Providing for Regulation of the Industry and for Other Purposes Connected Therewith"
  },
@@ -400,5 +400,11 @@
     "en": "Effectivity . - This Act shall take effect thirty (30) days after its approval and publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act Creating the Philippine Postal Corporation, Defining Its Powers, Functions and Responsibilities, Providing for Regulation of the Industry and for Other Purposes Connected Therewith",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

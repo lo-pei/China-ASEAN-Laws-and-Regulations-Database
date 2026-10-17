@@ -1,0 +1,82 @@
+{
+ "id": "BN-S-16-1986-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-1D0B0B",
+ "title": {
+  "zh": "宪法职能转移与相应条款命令 1986",
+  "en": "CONSTITUTION TRANSFER OF FUNCTIONS AND CONSEQUENTIAL PROVISIONS ORDER 1986",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p25",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 3,
+ "chars": 2007,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-16-1986-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONSEQUENTIAL-PROVISIONS-ORDER-1986.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-16-1986-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONSEQUENTIAL-PROVISIONS-ORDER-1986.pdf》（2 页），本次切分 3 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-16-1986-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-1D0B0B-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Order may be cited as the Constitution (Transfer of Citation and Functions and Consequential Provisions) Order, 1986 and shall be commence· deemed to have come into force on ment."
+   }
+  },
+  {
+   "id": "BN-S-16-1986-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-1D0B0B-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In this. Order -Interpretation. \"functions\" includes any powers, duties, privileges or benefits conferred or imposed by any written law on any person or authority ;"
+   }
+  },
+  {
+   "id": "BN-S-16-1986-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-1D0B0B-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The functions conferred or imposed on the person or Transfer of authority specified in the first column of the Schedule by the provi-functions. sions of law specified opposite thereto in the second column of that Schedule are hereby transferred to the person or authority specified opposite thereto in the third column of that Schedule.\n\nSCHEDULE (Article 3) TRANSFER'OF STATUTORY FUNCTIONS First Column Second Column Third Column Person or Provisions of law Person or authority from concerned authority to whom functions whom functions · transferred transferred Royal Brunei Armed Forces Act (Cap. 149) His Majesty in Section 2(1) His Majesty the Council Sultan and Yang Di-Pertuan Section 6 Section 14(1) Section 15(3) Section 19(1) Section 21(4) Section 25(3) Section 28(1)\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE SCHEDULE (Cont'd) First Column Second Column Third Column Person or Provisions of Law Person or authority from concerned authority to whom functions whom functions transferred transferred Royal Brunei Armed Forces Act (Cap. 149) His Majesty in His Majesty the Council Sultan and Yang Di-Pertuan Section 28(2) Section 99(1) Section 108(2) Section 108(3) Section 113(1) Section 114( 1) Section 115 Section 122{1) Section 129( 1) Section 129(3) Section 132(1) Section 208( 1} Section 208{2) Section 208(3) 'Made this 6th. day of May, 1986 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY THE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh A WANG HAJI MOHD. YUNOS BIN HAJI MOHD. HUSSEIN, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Kementerian Undang·Undang, Negara Brunei Darussalam. Barga B$5.00"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CONSTITUTION TRANSFER OF FUNCTIONS AND CONSEQUENTIAL PROVISIONS ORDER 1986",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1066",
  "title": {
-  "zh": null,
+  "zh": "授权对在执行职务中死亡或因公受伤、患病死亡的国民政府或省、市、市镇或市镇区政府的任何雇员，支付相当于六个月薪金的补偿，为此修订《行政法典》第699条（经修正）的法案",
   "en": "An Act Authorizing the Payment of Compensation Equivalent to the Salary of Six Months of Any Employee in the Service of the National Government or in the Service of the Government of a Province, City, Municipality or Municipal District Who is Killed or Dies of Injuries Received or Sickness Contracted in Line of Duty, Amending for the Purpose Section Six Hundred Ninety-Nine of the Administrative Code, as Amended",
   "orig": "An Act Authorizing the Payment of Compensation Equivalent to the Salary of Six Months of Any Employee in the Service of the National Government or in the Service of the Government of a Province, City, Municipality or Municipal District Who is Killed or Dies of Injuries Received or Sickness Contracted in Line of Duty, Amending for the Purpose Section Six Hundred Ninety-Nine of the Administrative Code, as Amended"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 7, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Payment of Compensation Equivalent to the Salary of Six Months of Any Employee in the Service of the National Government or in the Service of the Government of a Province, City, Municipality or Municipal District Who is Killed or Dies of Injuries Received or Sickness Contracted in Line of Duty, Amending for the Purpose Section Six Hundred Ninety-Nine of the Administrative Code, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

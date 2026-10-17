@@ -1,7 +1,7 @@
 {
  "id": "SG-H3006",
  "title": {
-  "zh": null,
+  "zh": "法律职业（临时执业证书）规则 2024",
   "en": "Legal Profession (Provisional Practising Certificate) Rules 2024",
   "orig": null
  },
@@ -178,5 +178,13 @@
     "en": "THE SCHEDULE\nRule 8\nFORM A\nRule 8\nLEGAL PROFESSION ACT 1966\nPROVISIONAL PRACTISING CERTIFICATE\n_______________ [name of lawyer (NP)], having duly made application and satisfied the requirements of the Legal Profession Act 1966, is authorised to practise provisionally as an advocate and solicitor in Singapore for a period of 12 months starting on the date of issue of this Provisional Practising Certificate or until _______________ [name of lawyer (NP)] is admitted as an advocate and solicitor under section 12 of the Legal Profession Act 1966, whichever is earlier, subject to the conditions contained in the Schedule annexed to this Provisional Practising Certificate.\nTHE SCHEDULE\nThe Provisional Practising Certificate of _______________________ [name of lawyer (NP)] dated __________________ is issued subject to the following conditions:\n(i)That _______________ [name of lawyer (NP)] must not:\n(a)hold or receive client’s money, conveyancing money or trust money or any security on behalf of a client;\n(b)open, maintain or operate any client account, conveyancing account, conveyancing (CPF) account or trust account;\n(c)give instructions in respect of any client account, conveyancing account, conveyancing (CPF) account or trust account;\n(d)sign any cheque or effect any instruction for the withdrawal of money from a client account, conveyancing account, conveyancing (CPF) account or trust account;\n(e)sign any bill of costs mentioned in section 118 of the Act, or any letter accompanying that bill;\n(f)act as a solicitor‑trustee.\n(ii)That _______________ [name of lawyer (NP)] must be supervised by his or her supervising solicitor in doing any act in the capacity of an advocate and solicitor.\nDated ________________________.\nREGISTRAR\nSUPREME COURT,\nSINGAPORE.\nFORM B\nRule 8\nLEGAL PROFESSION ACT 1966\nPROVISIONAL PRACTISING CERTIFICATE\n_______________ [name of lawyer (NP)], having duly made an application for a Provisional Practising Certificate under and satisfied the requirements of the Legal Profession Act 1966, is authorised to practise provisionally as an advocate and solicitor in Singapore for a period of 12 months starting on the date of issue of this Provisional Practising Certificate or until _______________ [name of lawyer (NP)] is admitted as an advocate and solicitor under section 12 of the Legal Profession Act 1966, whichever is earlier, subject to the conditions contained in the First and Second Schedules annexed to this Provisional Practising Certificate.\nDated ________________________.\nREGISTRAR\nSUPREME COURT,\nSINGAPORE.\nFIRST SCHEDULE\nThe Provisional Practising Certificate of _______________________ [name of lawyer (NP)] dated __________________ is issued subject to the following conditions:\n(i)That _______________ [name of lawyer (NP)] must not:\n(a)hold or receive client’s money, conveyancing money or trust money or any security on behalf of a client;\n(b)open, maintain or operate any client account, conveyancing account, conveyancing (CPF) account or trust account;\n(c)give instructions in respect of any client account, conveyancing account, conveyancing (CPF) account or trust account;\n(d)sign any cheque or effect any instruction for the withdrawal of money from a client account, conveyancing account, conveyancing (CPF) account or trust account;\n(e)sign any bill of costs mentioned in section 118 of the Act, or any letter accompanying that bill;\n(f)act as a solicitor‑trustee.\n(ii)That _______________ [name of lawyer (NP)] must be supervised by his or her supervising solicitor in doing any act in the capacity of an advocate and solicitor.\nSECOND SCHEDULE\nThe Provisional Practising Certificate of _______________________ [name of lawyer (NP)] dated __________________ is issued subject to the following conditions:\nDated ________________________.\nREGISTRAR\nSUPREME COURT,\nSINGAPORE."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Provisional Practising Certificate) Rules 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

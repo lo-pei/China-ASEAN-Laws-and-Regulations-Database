@@ -1,7 +1,7 @@
 {
  "id": "SG-H2288",
  "title": {
-  "zh": null,
+  "zh": "所得税（国际税收合规协议）（国别报告）条例 2018",
   "en": "Income Tax (International Tax Compliance Agreements) (Country-By-Country Reporting) Regulations 2018",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) This regulation applies where —\n(a)a particular Type A group is an MNE group for any of its accounting periods; and\n(b)in that accounting period —\n(i)the Government is the sole shareholder of the ultimate parent entity of the Type A group; and\n(ii)the Minister informed the Comptroller that a country‑by‑country report by the ultimate parent entity of the Type A group would contain information, the disclosure of which would be contrary to Singapore’s vital interests.\n(2) The Comptroller may, after taking into account the information in paragraph (1)(b)(ii) —\n(a)give written notice to the ultimate parent entity that the ultimate parent entity need not submit that country‑by‑country report; and\n(b)give written notice to one or more other constituent entities of the MNE group to submit a country‑by‑country report for that accounting period in place of the ultimate parent entity.\n(3) A constituent entity of the MNE group given a written notice under paragraph (2)(b) must submit to the Comptroller or an authorised person a country‑by‑country report for that accounting period for all the constituent entities of the MNE group in respect of which the firstmentioned constituent entity —\n(a)is required under FRS 110, SFRS(I) 10 or an equivalent financial reporting standard in a country outside Singapore to prepare consolidated financial statements; or\n[S 57/2020 wef 22/01/2020]\n(b)would have been so required if the equity interests of the firstmentioned constituent entity were traded on any stock exchange in Singapore or elsewhere.\n(4) The constituent entity must submit the country‑by‑country report for an accounting period to the Comptroller or an authorised person no later than —\n(a)12 months after the end of the accounting period; or\n(b)such later time as the Comptroller may permit in the particular case.\n(5) The constituent entity must keep and retain in safe custody all records that it uses to prepare a country‑by‑country report for an accounting period for a period of at least 5 years after the end of the accounting period.\n(6) A requirement under paragraph (3) or (4) is a requirement under section 105M(1)(b) of the Act, the failure or neglect to comply with which (if such failure or neglect is without reasonable excuse) is an offence under section 105M(1) of the Act.\n[S 869/2021 wef 16/11/2021]\n(7) A requirement under paragraph (5) is a requirement the failure or neglect to comply with which (if such failure or neglect is without reasonable excuse) is an offence under section 105M(1B) of the Act.\n[S 869/2021 wef 16/11/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (International Tax Compliance Agreements) (Country-By-Country Reporting) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

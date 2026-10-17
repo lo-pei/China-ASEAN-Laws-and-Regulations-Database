@@ -1,7 +1,7 @@
 {
  "id": "PH-H9882",
  "title": {
-  "zh": null,
+  "zh": "支付工具管制法 1998",
   "en": "Access Devices Regulation Act of 1998",
   "orig": "An Act Providing for Additional Prohibitions to and Increasing Penalties for Violations of Republic Act No. 8484, Otherwise Known as the “Access Devices Regulation Act of 1998”"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Access Devices Regulation Act of 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-151-RG-1-2014-WEIGHTS-AND-MEASURES-VERIFICATION-R-E49BD3",
  "title": {
-  "zh": null,
+  "zh": "RG 1 2014 版度量衡检定条例",
   "en": "RG 1 2014 ED WEIGHTS AND MEASURES VERIFICATION REGULATIONS",
   "orig": null
  },
@@ -93,5 +93,13 @@
     "en": "Any person who used or has in his possession for use for trade any weight, measure or instrument for weighing which is not in conformity with the standards established by the Act is guilty of an offence and liable an conviction to a fine $1,000, imprisonment for 3 months or both and the weight, measure or instrument for weighing shall be liable to be forfeited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 1 2014 ED WEIGHTS AND MEASURES VERIFICATION REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

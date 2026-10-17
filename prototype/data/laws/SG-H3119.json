@@ -1,7 +1,7 @@
 {
  "id": "SG-H3119",
  "title": {
-  "zh": null,
+  "zh": "药品（广告与销售）（豁免）命令 2023",
   "en": "Medicines (Advertisement and Sale) (Exemption) Order 2023",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Revoke the Medicines (Advertisement and Sale) (Exemption) Order 2004 (G.N. No. S 280/2004)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Medicines (Advertisement and Sale) (Exemption) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

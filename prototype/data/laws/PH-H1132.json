@@ -1,7 +1,7 @@
 {
  "id": "PH-H1132",
  "title": {
-  "zh": null,
+  "zh": "授权建设 Marikina 多用途工程及 Ilog 河多用途工程与化肥厂，授权 Marikina 工程协调委员会为执行机构、由相关实体分担出资，并为此拨款的法案",
   "en": "An Act Authorizing the Construction of the Marikina Multi-Purpose Project, Authorizing the Marikina Project Coordinating Committee to Serve as the Implementing Agency of This Project, Authorizing Financing by Entities Concerned of Their Share of the Cost of This Project; and Authorizing the Construction of the Ilog River Multi-Purpose Project, and Fertilizer Plant, and Financing of the Same, After the Completion of the Necessary Investigation and Study of These Projects, and for Other Purposes",
   "orig": "An Act Authorizing the Construction of the Marikina Multi-Purpose Project, Authorizing the Marikina Project Coordinating Committee to Serve as the Implementing Agency of This Project, Authorizing Financing by Entities Concerned of Their Share of the Cost of This Project; and Authorizing the Construction of the Ilog River Multi-Purpose Project, and Fertilizer Plant, and Financing of the Same, After the Completion of the Necessary Investigation and Study of These Projects, and for Other Purposes"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Construction of the Marikina Multi-Purpose Project, Authorizing the Marikina Project Coordinating Committee to Serve as the Implementing Agency of This Project, Authorizing Financing by Entities Concerned of Their Share of the Cost of This Project; and Authorizing the Construction of the Ilog River Multi-Purpose Project, and Fertilizer Plant, and Financing of the Same, After the Completion of the Necessary Investigation and Study of These Projects, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

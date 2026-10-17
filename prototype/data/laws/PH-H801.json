@@ -1,7 +1,7 @@
 {
  "id": "PH-H801",
  "title": {
-  "zh": null,
+  "zh": "将第670号共和国法第1条杂项 A 编（A）款 Batangas 项下公共工程项目的某些拨款予以调拨的法案",
   "en": "An Act Transferring Certain Appropriations for Public Works Projects Under the Heading \"Batangas,\" Subsection (A), Title \"A. Miscellaneous,\" Section One of Republic Act Numbered Six Hundred Seventy",
   "orig": "An Act Transferring Certain Appropriations for Public Works Projects Under the Heading \"Batangas,\" Subsection (A), Title \"A. Miscellaneous,\" Section One of Republic Act Numbered Six Hundred Seventy"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring Certain Appropriations for Public Works Projects Under the Heading \"Batangas,\" Subsection (A), Title \"A. Miscellaneous,\" Section One of Republic Act Numbered Six Hundred Seventy",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

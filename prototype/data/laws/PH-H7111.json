@@ -1,7 +1,7 @@
 {
  "id": "PH-H7111",
  "title": {
-  "zh": null,
+  "zh": "将宿务省 Minglanilla 市镇的 Guindaruhan 国立中学附属校分离，改设为独立的 Tungkop 国立中学，并为此拨款",
   "en": "An Act Separating the Guindaruhan National High School Extension in the Municipality of Minglanilla, Province of Cebu, From the Guindaruhan National High School and Converting It Into An Independent National High School, to Be Known as the Tungkop National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Guindaruhan National High School Extension in the Municipality of Minglanilla, Province of Cebu, From the Guindaruhan National High School and Converting It Into An Independent National High School, to Be Known as the Tungkop National High School, and Appropriating Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Guindaruhan National High School Extension in the Municipality of Minglanilla, Province of Cebu, From the Guindaruhan National High School and Converting It Into An Independent National High School, to Be Known as the Tungkop National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

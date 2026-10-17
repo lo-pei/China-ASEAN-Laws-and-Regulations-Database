@@ -1,7 +1,7 @@
 {
  "id": "PH-H1350",
  "title": {
-  "zh": null,
+  "zh": "修订第1191号共和国法第2条，为面额超过一百比索的国库券与中央银行券规定新的缴回期限的法案",
   "en": "An Act Fixing a New Period for the Surrender of Treasury Certificates and Central Bank Notes of the Denomination of Over One Hundred Pesos, by Amending Section Two of Republic Act Numbered Eleven Hundred Ninety-One for the Purpose",
   "orig": "An Act Fixing a New Period for the Surrender of Treasury Certificates and Central Bank Notes of the Denomination of Over One Hundred Pesos, by Amending Section Two of Republic Act Numbered Eleven Hundred Ninety-One for the Purpose"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Fixing a New Period for the Surrender of Treasury Certificates and Central Bank Notes of the Denomination of Over One Hundred Pesos, by Amending Section Two of Republic Act Numbered Eleven Hundred Ninety-One for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

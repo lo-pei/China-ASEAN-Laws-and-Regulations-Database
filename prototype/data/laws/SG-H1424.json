@@ -1,7 +1,7 @@
 {
  "id": "SG-H1424",
  "title": {
-  "zh": null,
+  "zh": "遗产税豁免——亚洲美元债券——（合并）公告",
   "en": "Estate Duty Exemptions — Asian Dollar Bonds — (Consolidation) Notification",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Estate Duty Act\n(Chapter 96, Section 12(1)(c))\nEstate Duty Exemptions — Asian Dollar Bonds — (Consolidation) Notification\nN 5\nG.N. No. S 38/1994\nREVISED EDITION 1994\n(1st April 1995)\nThe Minister for Finance has approved the following Asian Dollar Bonds for exemption from estate duty:\n(1)The Kao Corporation U.S. $300,000,000 4¾ per cent. Notes 1994 with Warrants.\n[S 38/94]\n[28.1.94]\n(2)The Province of Nova Scotia U.S. $500,000,000 Floating Rate Notes due 1999.\n[S 316/94]\n[12.8.94]\n(3)The Shandong International Trust & Investment Corporation U.S. $130,000,000 Floating Rate Notes due 2001.\n[S 391/94]\n[7.10.94]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Estate Duty Exemptions — Asian Dollar Bonds — (Consolidation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H8160",
  "title": {
-  "zh": null,
+  "zh": "将索索贡省圣马格达莱纳市镇至马特诺格市镇帕瓦公路的省道命名为Juan G. Frivaldo州长公路的法案",
   "en": "An Act Naming the Provincial Road from the Municipality of Sta. Magdalena Up to Pawa Road in the Municipality of Matnog, Province of Sorsogon as Gov. Juan G. Frivaldo Highway",
   "orig": "An Act Naming the Provincial Road from the Municipality of Sta. Magdalena Up to Pawa Road in the Municipality of Matnog, Province of Sorsogon as Gov. Juan G. Frivaldo Highway"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after this publication in a newspaper circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Provincial Road from the Municipality of Sta. Magdalena Up to Pawa Road in the Municipality of Matnog, Province of Sorsogon as Gov. Juan G. Frivaldo Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

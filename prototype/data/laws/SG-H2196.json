@@ -1,7 +1,7 @@
 {
  "id": "SG-H2196",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 2 号）公告 2014",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 2) Notification 2014",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from tax, the interest payable on or after 24th April 2012 by Deep Drilling 3 Pte Ltd to ICICI Bank Limited, Bahrain Branch on a loan granted under the Loan Agreement dated 2nd February 2011 (referred to in this Notification as “the loan”), a portion of which is for the purpose of refinancing a bond issued under the Loan Agreement dated 24th April 2006 that is used in part to finance the construction of the rig “Deep Driller” (referred to in this Notification as “the rig”).\n(2) The amount of interest that is exempt from tax under sub‑paragraph (1) shall be computed in accordance with the formula:\nwhere A\nis the amount of interest payable by Deep Drilling 3 Pte Ltd to ICICI Bank Limited, Bahrain Branch on or after 24th April 2012 on the portion of the loan used to refinance the part of the bond used to finance the construction of the rig.\n(3) The exemption under sub-paragraph (1) —\n(a)is subject to the terms and conditions specified in the letter of approval dated 18th July 2013 issued by the Ministry of Finance and addressed to Deep Drilling 3 Pte Ltd; and\n(b)shall not apply to any interest payable after the earliest of the following:\n(i)8th February 2020;\n(ii)the date of termination of the Loan Agreement dated 2nd February 2011 referred to in sub‑paragraph (1);\n(iii)the date on which Deep Drilling 3 Pte Ltd transfers or disposes of the rig."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 2) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

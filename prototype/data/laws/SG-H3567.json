@@ -1,7 +1,7 @@
 {
  "id": "SG-H3567",
  "title": {
-  "zh": null,
+  "zh": "平台工作者（平台工作协会）条例 2024",
   "en": "Platform Workers (Platform Work Associations) Regulations 2024",
   "orig": null
  },
@@ -474,5 +474,13 @@
     "en": "SECOND SCHEDULE\nRegulation 31\nFees\nFirst column\nSecond column\n1.Fee payable for every application for the registration of a platform work association made under regulation 5(1)\n$50\n2.Fee payable for any application for the registration of every set of new rules or alterations of rules of a registered platform work association made under regulation 16\n$20\n3.Fee payable for any notice of change of officers or of the title of any officer of a registered platform work association given under regulation 17\n$6\n4.Fee payable for viewing information on each platform work association in the register under regulation 25(1)\n$3.27\n5.Fee payable for the inspection of each document submitted by a registered platform work association under regulation 25(2)\n$3.27\n6.Fee payable for a copy of or an extract from the register under regulation 25(3)(a)\n$5.45 per page\n7.Fee payable for a copy of or an extract from each document submitted by a registered platform work association under regulation 25(3)(b)\n$5.45 per page\n[S 877/2025 wef 01/01/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Platform Workers (Platform Work Associations) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

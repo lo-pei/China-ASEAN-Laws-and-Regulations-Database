@@ -1,7 +1,7 @@
 {
  "id": "SG-H2725",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 6 号）命令 2025",
   "en": "Infrastructure Protection (Protected Places) (No. 6) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nDirector (Operations Support), Corrupt Practices Investigation Bureau\nCORRUPT PRACTICES INVESTIGATION BUREAU (CPIB HEADQUARTERS), 2 LENGKOK BAHRU, SINGAPORE 159047\nAll that area comprised in part of Lot 3951P in Mukim No. 1 occupied by “CORRUPT PRACTICES INVESTIGATION BUREAU (CPIB HEADQUARTERS)” containing an area of about 3,366 square metres and bounded approximately as follows:\nCommencing at a point 29,903.249 metres North and 25,497.639 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n29,903.249\n25,497.639\n29,900.774\n25,497.340\n29,896.013\n25,496.750\n29,871.498\n25,492.548\n29,848.275\n25,488.586\n29,834.865\n25,486.407\n29,834.468\n25,460.264\n29,835.966\n25,445.369\n29,842.103\n25,440.799\n29,842.657\n25,440.439\n29,847.513\n25,441.316\n29,851.457\n25,442.011\n29,867.065\n25,444.849\n29,872.402\n25,445.845\n29,897.877\n25,450.005\n29,905.328\n25,451.209\n29,908.055\n25,452.406\n29,909.883\n25,454.893\n29,910.242\n25,457.944\n29,905.689\n25,483.484\nto the point of commencement.\nThe boundaries of “CORRUPT PRACTICES INVESTIGATION BUREAU (CPIB HEADQUARTERS)” are more particularly delineated in the Survey Plan No. LEW‑GZ‑CPIB‑24152‑001 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 6) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

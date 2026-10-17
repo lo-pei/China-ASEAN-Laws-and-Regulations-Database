@@ -1,7 +1,7 @@
 {
  "id": "SG-H2883",
  "title": {
-  "zh": null,
+  "zh": "释义（货币法——费用）命令 2022",
   "en": "Interpretation (Currency Act — Fees) Order 2022",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. The Authority may waive or reduce, wholly or in part, the fee mentioned in paragraph 3."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Interpretation (Currency Act — Fees) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

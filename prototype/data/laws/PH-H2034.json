@@ -1,7 +1,7 @@
 {
  "id": "PH-H2034",
  "title": {
-  "zh": null,
+  "zh": "授予 Victorino E. Day 在三宝颜市为教育、文化与商业目的建设、维护和运营无线电广播站的特许经营权法案",
   "en": "An Act Granting Victorino E. Day a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations in the City of Zamboanga for Educational, Cultural and Commercial Purposes",
   "orig": "An Act Granting Victorino E. Day a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations in the City of Zamboanga for Educational, Cultural and Commercial Purposes"
  },
@@ -222,5 +222,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Victorino E. Day a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations in the City of Zamboanga for Educational, Cultural and Commercial Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

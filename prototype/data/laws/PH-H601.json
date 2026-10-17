@@ -1,7 +1,7 @@
 {
  "id": "PH-H601",
  "title": {
-  "zh": null,
+  "zh": "授权参议院议长从第563号共和国法第10页第Iv-特别用途段第3项未支用余额中拨出5万比索给（A）项参议院选举法庭，用于该法庭及其成员、委员会、代表、助手与经其授权人员的附加费用",
   "en": "An Act Authorizing the President of the Senate to Transfer From the Unexpended Balance of Paragraph Iv-special Purposes, Item 3, Page 10 of Republic Act Numbered Five Hundred Sixty-three, the Sum of Fifty Thousand Pesos to Letter (A)-Senate Electoral Tribunal, for Its Additional Expenses and of Its Members, Commissions, Delegates and Helpers, and Such Other Personnel as May Be Authorized By Said Tribunal",
   "orig": "An Act Authorizing the President of the Senate to Transfer From the Unexpended Balance of Paragraph Iv-special Purposes, Item 3, Page 10 of Republic Act Numbered Five Hundred Sixty-three, the Sum of Fifty Thousand Pesos to Letter (A)-Senate Electoral Tribunal, for Its Additional Expenses and of Its Members, Commissions, Delegates and Helpers, and Such Other Personnel as May Be Authorized By Said Tribunal"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, May 10, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Senate to Transfer From the Unexpended Balance of Paragraph Iv-special Purposes, Item 3, Page 10 of Republic Act Numbered Five Hundred Sixty-three, the Sum of Fifty Thousand Pesos to Letter (A)-Senate Electoral Tribunal, for Its Additional Expenses and of Its Members, Commissions, Delegates and Helpers, and Such Other Personnel as May Be Authorized By Said Tribunal",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

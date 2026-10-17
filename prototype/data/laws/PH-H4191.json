@@ -1,7 +1,7 @@
 {
  "id": "PH-H4191",
  "title": {
-  "zh": null,
+  "zh": "将保和省塔利邦市镇南圣何塞村的名称变更为圣尼诺村的法案",
   "en": "An Act Changing the Name of Barrio San Jose Sur in the Municipality of Talibon, Province of Bohol, to Barrio Santo Niño",
   "orig": "An Act Changing the Name of Barrio San Jose Sur in the Municipality of Talibon, Province of Bohol, to Barrio Santo Niño"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Barrio San Jose Sur in the Municipality of Talibon, Province of Bohol, to Barrio Santo Niño",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

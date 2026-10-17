@@ -1,7 +1,7 @@
 {
  "id": "SG-H1318",
  "title": {
-  "zh": null,
+  "zh": "征召条例 1970",
   "en": "Enlistment Regulations 1970",
   "orig": null
  },
@@ -702,5 +702,13 @@
     "en": "THE SCHEDULE\nRegulation 36\nOath/affirmation of Allegiance\nI, _______________________________1, having entered the service of the Republic of Singapore under the Enlistment Act 1970, do solemnly and sincerely swear/affirm2 that —\n(a)I will always bear true faith and allegiance to the Republic of Singapore;\n(b)I will be ready, at the order of the Government, to rise up to the defence of the Republic of Singapore;\n(c)I will obey the laws of the Republic of Singapore and the orders of my commanders;\n(d)I will carry out my duties with integrity, courage and commitment at all times; and\n(e)I will preserve and protect the honour and independence of the Republic of Singapore with my life.\n________________3\n(Date)\n_________________________________4\n(Signature)\n_______________________________5\n(Rank, name and appointment)\n____________________\n1.Insert the NRIC No. and full name of the person taking the oath/affirmation.\n2.Delete whichever is inapplicable.\n3.Insert the date of the oath/affirmation.\n4.Insert the signature, NRIC No. and full name of the person taking the oath/affirmation.\n5.Insert the signature, rank (if any), name and appointment of the person administering the oath/affirmation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Enlistment Regulations 1970",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

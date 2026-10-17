@@ -1,7 +1,7 @@
 {
  "id": "SG-H3547",
  "title": {
-  "zh": null,
+  "zh": "规划（电子传输）规则",
   "en": "Planning (Electronic Transmission) Rules",
   "orig": null
  },
@@ -201,5 +201,13 @@
     "en": "SECOND SCHEDULE\nRule 3\nPart I\nApplications, Appeals, Notices, Requests or Other Documents and Information Which May be Submitted, Served or Made in the Form of Electronic Records THROUGH THE RELEVANT ELECTRONIC SERVICE\n1. Applications for written permission and extension thereof in relation to land outside a conservation area.\n2. Applications for outline permission and extension thereof for development of land outside a conservation area.\n3. Applications for extension of provisional permission granted under section 17(1) of the Act in relation to land outside a conservation area.\n[S 856/2023 wef 18/12/2023]\n4. All plans, documents or information to be submitted in relation to the applications mentioned in paragraphs 1, 2 and 3.\n5. All correspondence arising out of or in relation to the applications mentioned in paragraphs 1, 2 and 3.\n6. All plans and documents to be lodged with the competent authority pursuant to any condition specified in any notification in the Gazette made by the Minister authorising any development of land under section 21(6) of the Act or section 10 (12) of the repealed Planning Act (Cap. 232, 1990 Ed.).\n[S 856/2023 wef 18/12/2023]\nPart II\nPermissions, Approvals, Decisions, Notices, Warrants, Orders or Other Documents Which May be Given, Granted, Issued or Served in the Form of Electronic Records\n1. All permissions or approvals and refusals of permission or approval for applications mentioned in paragraphs 1, 2 and 3 of Part I.\n2. All advice, directions and other correspondence arising out of or in relation to the applications mentioned in paragraphs 1, 2 and 3 of Part I.\n[G.N. Nos. S 251/98; S 241/99]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Planning (Electronic Transmission) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

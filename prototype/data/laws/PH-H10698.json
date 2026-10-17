@@ -1,7 +1,7 @@
 {
  "id": "PH-H10698",
  "title": {
-  "zh": null,
+  "zh": "对菲律宾离岸博彩业务征税的法案",
   "en": "An Act Taxing Philippine Offshore Gaming Operations",
   "orig": "An Act Banning and Declaring Illegal Offshore Gaming Operations in the Philippines and Other Operations Related Thereto, Repealing for the Purpose Republic Act Numbered Eleven Thousand Five Hundred Ninety, Otherwise Known as “An Act Taxing Philippine Offshore Gaming Operations”, and for Other Purposes"
  },
@@ -240,5 +240,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least one (1) newspaper of general circulation: Provided, That the online posting in the website of Official Gazette shall be considered as sufficient publication under this section."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Taxing Philippine Offshore Gaming Operations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-40-2008-E-FINANCE-COMPANIES-ACT-AMENDMENT-ORDER-2006",
  "title": {
-  "zh": null,
+  "zh": "金融公司法修正命令 2006",
   "en": "FINANCE COMPANIES ACT AMENDMENT ORDER 2006",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "26th. MARCH, 2008 No. S 40\n\nCORRIGENDUM FINANCE COMPANIES ACT (AMENDMENT) ORDER, 2006 (S 4112006) In the English text of this Order, published in No. 23 of Part II of the Government Gazette dated 15th. March, 2006, the correction is made at page 788, in section 16 in the third line, the number \"43\" should read as \"44\". I . • '"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "FINANCE COMPANIES ACT AMENDMENT ORDER 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

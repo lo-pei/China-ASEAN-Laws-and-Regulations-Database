@@ -1,7 +1,7 @@
 {
  "id": "SG-H647",
  "title": {
-  "zh": null,
+  "zh": "民防掩体条例",
   "en": "Civil Defence Shelter Regulations",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) The Commissioner or an authorised person may, at any reasonable time and on producing, if so required, evidence of his authority, enter and inspect any storey shelter or public shelter for the purpose of determining whether —\n(a)every part of the shelter is being kept in good repair;\n(b)every fixture and every piece of equipment installed in the shelter is being maintained in good working condition; and\n(c)the shelter is fit for use as a place of refuge in the event that a state of emergency should arise.\n(2) It shall be the duty of the owner or occupier of the storey shelter or public shelter being inspected to —\n(a)provide the Commissioner or authorised person with the approved plans and such other records or documents relating to the storey shelter or public shelter which are in his possession, custody or control and which may be required by the Commissioner or authorised person for the purposes of the inspection; and\n(b)render the Commissioner or authorised person all such assistance as the Commissioner or authorised person may require for the purposes of the inspection.\n(3) If the Commissioner or authorised person, upon inspecting a storey shelter or public shelter under paragraph (1), finds that —\n(a)the shelter has not been kept in good repair;\n(b)any fixture or any piece of equipment installed in the shelter has not been maintained in good working condition; or\n(c)the shelter is not fit for use as a place of refuge in the event that a state of emergency should arise,\nthe Commissioner or authorised person may direct the owner or occupier of the storey shelter or public shelter to carry out or cause to be carried out at the expense of such owner or occupier such rectification work to the shelter as the Commissioner or authorised person may consider necessary.\n(4) Any person who contravenes or fails to comply with paragraph (2) or with any direction given to him by the Commissioner or authorised person under paragraph (3) shall be guilty of an offence and shall be liable on conviction —\n(a)where the offence is in relation to a storey shelter, to a fine not exceeding $5,000; and\n(b)where the offence is in relation to a public shelter, to a fine not exceeding $10,000.\n[G.N. No.S 255/98]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Civil Defence Shelter Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

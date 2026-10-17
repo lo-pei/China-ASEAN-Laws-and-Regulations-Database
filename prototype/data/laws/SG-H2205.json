@@ -1,7 +1,7 @@
 {
  "id": "SG-H2205",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款的利息及其他付款豁免）（第 3 号）公告 2014",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 3) Notification 2014",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. The exemption in paragraph 3 does not apply to any qualifying payment liable to be made on or after 24 February 2015.\n[S 844/2025 wef 24/02/2015]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 3) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1903",
  "title": {
-  "zh": null,
+  "zh": "所得税（ABC One 私人有限公司依第 13（4）条享有的豁免）公告 2020",
   "en": "Income Tax (ABC One Pte. Ltd. — Section 13(4) Exemption) Notification 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest and interest rate swap payment totalling US$2,925,483 payable by ABC One Pte. Ltd. to TMB Bank Public Company Limited from 29 December 2014 to 20 August 2018 (both dates inclusive), in respect of a loan granted under a loan agreement dated 22 May 2014 for the purpose of financing the acquisition of the vessel “Danaya Naree”, are exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 18 October 2019 issued by the Ministry of Finance and addressed to ABC One Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (ABC One Pte. Ltd. — Section 13(4) Exemption) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

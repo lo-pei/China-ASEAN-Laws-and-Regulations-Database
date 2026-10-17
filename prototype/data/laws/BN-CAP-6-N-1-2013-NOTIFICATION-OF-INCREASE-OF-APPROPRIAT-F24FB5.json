@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-6-N-1-2013-NOTIFICATION-OF-INCREASE-OF-APPROPRIAT-F24FB5",
  "title": {
-  "zh": null,
+  "zh": "N 1 2013 版依第 175 条但书提高相应规定限额的公告",
   "en": "N 1 2013 ED NOTIFICATION OF INCREASE OF APPROPRIATE PRESCRIBED LIMIT UNDER PROVISO OF SECTION 175",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "SUBORDINATE COURTS ACT (CHAPTER 6)\n\nNOTIFICATION OF INCREASE OF\n\nAPPROPRIATE PRESCRIBED LIMIT UNDER PROVISO OF SECTION 17(5) S 34/1989 S 40/1998 S 83/2006\n\nREVISED EDITION 2013\n\nLAWS OF BRUNEI Subordinate Courts CAP. 6, N 1 1 [Subsidiary]\n\nSUBSIDIARY LEGISLATION Notification of increase of appropriate prescribed limit under proviso of section 17(5) Commencement: 20th September 2006 The Chief Justice, with the approval of His Majesty the Sultan and Yang Di-Pertuan, has increased the appropriate prescribed limit defined in section 17(5) as follows —\n\n(a) the appropriate prescribed limit shall be exceeding $30,000 but not exceeding $50,000 for any person who is a Magistrate and occupies the post of — Chief Registrar; Chief Magistrate; Deputy Chief Registrar; Senior Magistrate; or Senior Registrar;\n\n(b) the appropriate prescribed limit shall be $30,000 for any person who is a Magistrate and occupies the post of — Magistrate; or Registrar."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "N 1 2013 ED NOTIFICATION OF INCREASE OF APPROPRIATE PRESCRIBED LIMIT UNDER PROVISO OF SECTION 175",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4268",
  "title": {
-  "zh": null,
+  "zh": "免除亚洲新闻基金会受托人及其赠款缴纳所得税、赠与税、抵消税与不动产税、关税及费用的法案",
   "en": "An Act Exempting the Trustees of the Press Foundation of Asia, Inc., and Its Grants From the Payment of Income, Gift, Compensating and Real Property Taxes, Duties and Fees",
   "orig": "An Act Exempting the Trustees of the Press Foundation of Asia, Inc., and Its Grants From the Payment of Income, Gift, Compensating and Real Property Taxes, Duties and Fees"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Exempting the Trustees of the Press Foundation of Asia, Inc., and Its Grants From the Payment of Income, Gift, Compensating and Real Property Taxes, Duties and Fees",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

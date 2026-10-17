@@ -1,7 +1,7 @@
 {
  "id": "SG-H2992",
  "title": {
-  "zh": null,
+  "zh": "法律服务（会员大会）附例",
   "en": "Legal Profession (General Meetings) By-laws",
   "orig": null
  },
@@ -259,5 +259,13 @@
     "en": "17. The Secretary of the Society shall record the minutes of a general meeting and circulate copies of the minutes to all members of the Society within 30 days of the date of the meeting.\n[G.N. Nos. S 14/76; S 442/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (General Meetings) By-laws",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

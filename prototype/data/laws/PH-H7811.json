@@ -1,7 +1,7 @@
 {
  "id": "PH-H7811",
  "title": {
-  "zh": null,
+  "zh": "将打拉省Concepcion与Capas市镇公路改设为国道的法案",
   "en": "An Act Converting the Concepcion – Capas Road in the Municipalities of Concepcion and Capas, Province of Tarlac into a National Road",
   "orig": "An Act Converting the Concepcion – Capas Road in the Municipalities of Concepcion and Capas, Province of Tarlac into a National Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Concepcion – Capas Road in the Municipalities of Concepcion and Capas, Province of Tarlac into a National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

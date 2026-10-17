@@ -1,7 +1,7 @@
 {
  "id": "BN-S-25-2009-FIRSHERIES-ORDER-2009",
  "title": {
-  "zh": null,
+  "zh": "渔业命令 2009",
   "en": "FIRSHERIES ORDER 2009",
   "orig": null
  },
@@ -937,5 +937,13 @@
     "en": "The Fisheries (Piranha) Regulations, 2002 are amended, in regulation 4, by deleting \"$2,500 and to imprisonment for a term not exceeding one year\" and by substituting \"$50,000, imprisonment for a term not exceeding one year or both\". Made this 5th. day of Jamadilakhir, 1430 Hijriah corresponding to the 30th. day of May, 2009 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANGDI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "FIRSHERIES ORDER 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

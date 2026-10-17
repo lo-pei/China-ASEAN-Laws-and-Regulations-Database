@@ -1,7 +1,7 @@
 {
  "id": "SG-H494",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（认可承按人）公告 2002",
   "en": "Central Provident Fund (Approved Mortgagees) Notification 2002",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\n1.Any bank as defined in section 2(1) of the Banking Act 1970.\n2.Any finance company licensed under the Finance Companies Act 1967.\n3.Any direct insurer registered under the Insurance Act 1966.\n4.The Minister for Finance incorporated under the Minister for Finance (Incorporation) Act 1959.\n5.Any merchant bank as defined in section 2(1) of the Banking Act 1970.\n6.Any statutory body established by or constituted under any Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Approved Mortgagees) Notification 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

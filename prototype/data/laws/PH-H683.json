@@ -1,7 +1,7 @@
 {
  "id": "PH-H683",
  "title": {
-  "zh": null,
+  "zh": "修订《国家国内税收法典》第246条，规定租赁矿地权利金的5%及未覆盖租赁矿产出从价税的5%归矿区所在市镇所有的法案",
   "en": "An Act to Gan Act to Amend Section Two Hundred Forty-Six of the National Internal Revenue Code By Providing That Five Per Centum of the Royalties on Mineral Lands Under Lease and of the Ad Valorem Taxes on the Output of Mineral Lands Not Covered By Lease Shall Accrue to the Municipality Where the Mines Are Situated",
   "orig": "An Act to Gan Act to Amend Section Two Hundred Forty-Six of the National Internal Revenue Code By Providing That Five Per Centum of the Royalties on Mineral Lands Under Lease and of the Ad Valorem Taxes on the Output of Mineral Lands Not Covered By Lease Shall Accrue to the Municipality Where the Mines Are Situated"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: March 6, 1953"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Gan Act to Amend Section Two Hundred Forty-Six of the National Internal Revenue Code By Providing That Five Per Centum of the Royalties on Mineral Lands Under Lease and of the Ad Valorem Taxes on the Output of Mineral Lands Not Covered By Lease Shall Accrue to the Municipality Where the Mines Are Situated",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

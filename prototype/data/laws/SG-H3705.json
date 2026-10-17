@@ -1,7 +1,7 @@
 {
  "id": "SG-H3705",
  "title": {
-  "zh": null,
+  "zh": "市镇理事会法 1988",
   "en": "Town Councils Act 1988",
   "orig": null
  },
@@ -1366,5 +1366,13 @@
     "en": "83.—(1) Nothing in this Act is to be construed to affect any obligation or liability accrued or incurred under a lease for a flat in any residential or commercial property or for a stall in any market or food centre of the Board within a Town at any time prior to the establishment of the Town Council.\n(2) Any cause of action which has arisen between any such owner or tenant and the Board prior to the establishment of the Town Council may be continued and enforced as if this Act had not been enacted.\n(3) Nothing in this Act affects any rights or remedies that the Board or an owner or tenant of a flat in any residential or commercial property may have in relation to the flat or the common property, or any function of the Board, apart from this Act.\n[58"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Town Councils Act 1988",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

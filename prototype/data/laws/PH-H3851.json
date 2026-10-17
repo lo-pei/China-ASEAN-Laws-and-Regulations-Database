@@ -1,7 +1,7 @@
 {
  "id": "PH-H3851",
  "title": {
-  "zh": null,
+  "zh": "修订第 4153 号共和国法，统一公共公路局官员薪金的法案",
   "en": "An Act Amending Republic Act Numbered Forty-One Hundred Fifty-Three by Standardizing the Salaries of Officials in the Bureau of Public Highways",
   "orig": "An Act Amending Republic Act Numbered Forty-One Hundred Fifty-Three by Standardizing the Salaries of Officials in the Bureau of Public Highways"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect on July first, nineteen hundred sixty-seven.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Forty-One Hundred Fifty-Three by Standardizing the Salaries of Officials in the Bureau of Public Highways",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

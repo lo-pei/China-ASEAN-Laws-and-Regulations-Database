@@ -1,7 +1,7 @@
 {
  "id": "PH-H6326",
  "title": {
-  "zh": null,
+  "zh": "规定8岁以下婴幼儿与儿童强制接种乙肝疫苗，为此修订第996号总统令并为此拨款的法案",
   "en": "An Act Requiring Compulsory Immunization Against Hepatitis-b for Infants and Children Below Eight (8) Years Old, Amending for the Purpose Presidential Decree No. 996, and Appropriating Funds Therefor",
   "orig": "An Act Requiring Compulsory Immunization Against Hepatitis-b for Infants and Children Below Eight (8) Years Old, Amending for the Purpose Presidential Decree No. 996, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval and completion of its publication in at least two (2) newspapers of general circulation.\nApproved, December 30, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring Compulsory Immunization Against Hepatitis-b for Infants and Children Below Eight (8) Years Old, Amending for the Purpose Presidential Decree No. 996, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

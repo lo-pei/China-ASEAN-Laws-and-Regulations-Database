@@ -1,7 +1,7 @@
 {
  "id": "PH-H6382",
  "title": {
-  "zh": null,
+  "zh": "扩大上诉法院管辖权，为此修订Batas Pambansa Blg. 129（经修正，即1980年司法重组法）第9条的法案",
   "en": "An Act Expanding the Jurisdiction of the Court of Appeals, Amending for the Purpose Section Nine of Batas Pambansa Blg. 129, as Amended, Known as the Judiciary Reorganization Act of 1980",
   "orig": "An Act Expanding the Jurisdiction of the Court of Appeals, Amending for the Purpose Section Nine of Batas Pambansa Blg. 129, as Amended, Known as the Judiciary Reorganization Act of 1980"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect after fifteen (15) days following its publication in a newspaper of general circulation.\nApproved: February 23, 1995"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Expanding the Jurisdiction of the Court of Appeals, Amending for the Purpose Section Nine of Batas Pambansa Blg. 129, as Amended, Known as the Judiciary Reorganization Act of 1980",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

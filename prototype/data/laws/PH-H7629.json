@@ -1,7 +1,7 @@
 {
  "id": "PH-H7629",
  "title": {
-  "zh": null,
+  "zh": "2002 年租金改革法",
   "en": "Rental Reform Act of 2002",
   "orig": "Rental Reform Act of 2002 An Act Establishing Reforms in the Regulation of Rentals of Certain Residential Units, Providing the Mechanisms Therefor and for Other Purposes"
  },
@@ -210,5 +210,13 @@
     "en": "Effectivity Clause. - This Act shall take effect on 01 January 2002 following its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Rental Reform Act of 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

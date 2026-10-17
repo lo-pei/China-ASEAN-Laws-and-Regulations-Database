@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-186-TRANSFER-OF-THE-FUNCTIONS-OF-THE-MINISTER-OF-LAW-ACT",
  "title": {
-  "zh": null,
+  "zh": "法律部长职能移交法",
   "en": "TRANSFER OF THE FUNCTIONS OF THE MINISTER OF LAW ACT",
   "orig": null
  },
@@ -62,5 +62,13 @@
     "en": "Transfer of functions. ________________________\n\nMINISTER OF LAW ACT An Act to provide for the transfer of the functions of the Minister of Law Commencement: 16th September 1998"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TRANSFER OF THE FUNCTIONS OF THE MINISTER OF LAW ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

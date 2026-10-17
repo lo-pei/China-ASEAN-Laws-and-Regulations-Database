@@ -1,7 +1,7 @@
 {
  "id": "SG-H1408",
  "title": {
-  "zh": null,
+  "zh": "遗产税（已故者 Koh Peng Yam 的遗产）（减免）命令 2001",
   "en": "Estate Duty (Koh Peng Yam, Deceased) (Remission) Order 2001",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The sum of $1,238.40 payable under the Act on the share in the Estate of Oey Siok Lian, Deceased, passing on the death of Koh Peng Yam on 19th December 1997 is hereby remitted."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Estate Duty (Koh Peng Yam, Deceased) (Remission) Order 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

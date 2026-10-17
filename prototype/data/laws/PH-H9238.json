@@ -1,7 +1,7 @@
 {
  "id": "PH-H9238",
  "title": {
-  "zh": null,
+  "zh": "修订 Aliw 广播公司的特许经营权并将其期限再延长二十五年，自 2017 年 4 月 13 日起生效的法案",
   "en": "An Act Amending the Franchise of Aliw Broadcasting Corporation and Renewing/extending the Term Thereof to Another Twenty-Five (25) Years That Shall Take Effect on April 13, 2017",
   "orig": "An Act Amending the Franchise of Aliw Broadcasting Corporation and Renewing/extending the Term Thereof to Another Twenty-Five (25) Years That Shall Take Effect on April 13, 2017"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H9238-A1_2",
+   "id": "PH-H9238-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Nature and Scope of Franchise. — Subject to the provisions of the 1987 Philippine Constitution and applicable laws, rules and regulations, the franchise granted to Aliw Broadcasting Corporation under Republic Act No. 7399, hereunder referred to as the grantee, its successors or assignees, to construct, install, establish, operate and maintain for commercial purpose and in the public interest, throughout the Philippines, radio and/or television broadcasting stations, including digital television system, through microwave, satellite or whatever means, including the use of any new technologies in television and radio systems, with the corresponding technological auxiliaries and facilities, special broadcast and other progran and distribution services and relay stations."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H9238-A2",
@@ -201,34 +202,45 @@
    }
   },
   {
-   "id": "PH-H9238-A2_2",
+   "id": "PH-H9238-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Renewal/Extension of the Term of Franchise. — The term of the franchise granted under Republic Act No. 7399 is hereby renewed/extended for a period of twenty-five (25) years that shall take effect on April 13, 2017. This franchise shall deemed ipso facto revoked in the event the grantee fails to operate continuously for two (2) years."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H9238-A3_2",
+   "id": "PH-H9238-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "Acceptance and Compliance. — Acceptance of the amendment and extension/renewal of the franchise shall be given in writing to the Congress of the Philippines, through the Committee of Legislative Franchise of the House of Representatives and the Committee on Public Services of the Senate, within sixty (60) days from the effectively of this Act. Upon giving such acceptance, the grantee shall exercise the privileges granted under this Act. Nonacceptance shall render the franchise void."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H9238-A4_2",
+   "id": "PH-H9238-A4-d2",
    "no": 4,
    "noLabel": {
     "en": "Section 4."
    },
    "text": {
     "en": "Effectivity. — This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending the Franchise of Aliw Broadcasting Corporation and Renewing/extending the Term Thereof to Another Twenty-Five (25) Years That Shall Take Effect on April 13, 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

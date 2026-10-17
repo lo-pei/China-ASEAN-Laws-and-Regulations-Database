@@ -1,7 +1,7 @@
 {
  "id": "PH-H9692",
  "title": {
-  "zh": null,
+  "zh": "将南苏里高省 Tandag 市 Adela Serra Ty 纪念医疗中心床位由两百（200）张增至五百（500）张、提升其服务与设施并授权增加医务人员，为此拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Adela Serra Ty Memorial Medical Center in Tandag City, Province of Surigao del Sur, From Two Hundred (200) to Five Hundred (500) Beds, Upgrading its Services and Facilities, Authorizing the Increase of its Medical Personnel and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Adela Serra Ty Memorial Medical Center in Tandag City, Province of Surigao del Sur, From Two Hundred (200) to Five Hundred (500) Beds, Upgrading its Services and Facilities, Authorizing the Increase of its Medical Personnel and Appropriating Funds Therefor"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Adela Serra Ty Memorial Medical Center in Tandag City, Province of Surigao del Sur, From Two Hundred (200) to Five Hundred (500) Beds, Upgrading its Services and Facilities, Authorizing the Increase of its Medical Personnel and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9258",
  "title": {
-  "zh": null,
+  "zh": "将巴拉望省Bataraza市镇Malihud描笼涯的Tarusan国立中学Malihud延伸校从Tarusan国立中学分离，改设为独立的Malihud国立中学并为此拨款的法案",
   "en": "An Act Separating the Tarusan National High School - Malihud Extension in Barangay Malihud, Municipality of Bataraza, Province of Palawan From the Tarusan National High School, Converting It Into An Independent National High School to Be Known as Malihud National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Tarusan National High School - Malihud Extension in Barangay Malihud, Municipality of Bataraza, Province of Palawan From the Tarusan National High School, Converting It Into An Independent National High School to Be Known as Malihud National High School and Appropriating Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "The Secretary of Education shall issue rules and regulations necessary to carry out the purpose of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Tarusan National High School - Malihud Extension in Barangay Malihud, Municipality of Bataraza, Province of Palawan From the Tarusan National High School, Converting It Into An Independent National High School to Be Known as Malihud National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

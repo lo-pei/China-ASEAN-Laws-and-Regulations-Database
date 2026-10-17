@@ -1,7 +1,7 @@
 {
  "id": "SG-H1530",
  "title": {
-  "zh": null,
+  "zh": "电影（豁免）公告 2011",
   "en": "Films (Exemption) Notification 2011",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. For the avoidance of doubt, nothing in this Notification shall be construed to limit or in any way affect the operation of any other written law in respect of any obscene film or in relation to any act in respect of any obscene film."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Films (Exemption) Notification 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

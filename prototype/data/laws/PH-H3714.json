@@ -1,7 +1,7 @@
 {
  "id": "PH-H3714",
  "title": {
-  "zh": null,
+  "zh": "授权财政部长代表菲律宾共和国政府购买菲律宾国家铁路公司二万五千股资本股，并规定支付该股份价款的资金的法案",
   "en": "An Act Authorizing the Secretary of Finance to Purchase on Behalf of the Government of the Republic of the Philippines Twenty-Five Thousand Shares of the Capital Stock of the Philippine National Railways, and to Provide Funds for Paying the Value of Said Shares",
   "orig": "An Act Authorizing the Secretary of Finance to Purchase on Behalf of the Government of the Republic of the Philippines Twenty-Five Thousand Shares of the Capital Stock of the Philippine National Railways, and to Provide Funds for Paying the Value of Said Shares"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Secretary of Finance to Purchase on Behalf of the Government of the Republic of the Philippines Twenty-Five Thousand Shares of the Capital Stock of the Philippine National Railways, and to Provide Funds for Paying the Value of Said Shares",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1379",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（第四部分费用）条例 2019",
   "en": "Environmental Public Health (Part IV Fees) Regulations 2019",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nRegulations 2 and 3\nFees\nPart 1\nFirst column\nSecond column\nSubject matter\nFee per annum\n1.Bakery\n$195\n2.Restaurant\n$195\n3.Eating house\n$195\n4.Snack bar\n$195\n5.Cold drink shop\n$195\n6.Supermarket (large), sale area more than 200 square metres\n$500\n7.Supermarket (small), sale area up to 200 square metres\n$250\n8.Market produce shop\n$195\n9.Private market\n$195\n10.Street vendor\n$120\n11.Stall or pitch in a market managed by the National Environment Agency\n$13\n12.Stall or pitch in a private market\n$32\n13.Stall in a private food establishment\n$32\n14.Stall in a canteen in a primary school, secondary school or junior college\n$13\n15.Stall in a canteen in the Institute of Technical Education or other tertiary institution\n$32\n16.Stall in a hawker centre managed by the National Environment Agency\n$13\n17.Any other food establishment not specified above\n$195\nPart 2\nFirst column\nSecond column\nSubject matter\nFee\n1.Permit for a temporary fair or other function or activity\n$60 per permit\n2.Application for approval of a nominee\n$12\n3.Licence for temporary hawking\n$50 per licence\n4.Replacement copy of a licence or permit\n$20"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Part IV Fees) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H228",
  "title": {
-  "zh": null,
+  "zh": "排污与排水局长、副局长及助理局长的委任",
   "en": "Appointment of Director, Deputy and Assistant Directors of Sewerage and Drainage",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Sewerage and Drainage Act\n(CHAPTER 293A, Section 3(1))\nAppointment of Director, Deputy and Assistant Directors of Sewerage and Drainage\nN 1\nG.N. No. S 207/1999\nREVISED EDITION 2001\n(31st January 2001)\n[1st April 1999]\nThe Minister for the Environment has appointed —\n(1)the Director of Environmental Engineering Division of the Ministry of the Environment, to be the Director of Sewerage and Drainage;\n(2)the Head, Sewerage Department and Head, Drainage Department of the Environmental Engineering Division of the Ministry of the Environment, to be the Deputy Directors of Sewerage and Drainage; and\n(3)the Chief Engineers of the Sewerage Department and the Drainage Department of the Environmental Engineering Division of the Ministry of the Environment to be the Assistant Directors of Sewerage and Drainage.\n[G.N. No. S 207/99]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Director, Deputy and Assistant Directors of Sewerage and Drainage",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

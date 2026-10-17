@@ -1,7 +1,7 @@
 {
  "id": "PH-H482",
  "title": {
-  "zh": null,
+  "zh": "授权教育部长在Albay省Guinobatan的Roxas纪念农业学校开设大学程度课程，但以该校财产收益允许为条件的法案",
   "en": "An Act Authorizing the Secretary of Education to Open in the Roxas Memorial Agricultural School at Guinobatan, Albay, Courses of Collegiate Level if the Income of the Properties of Said School so Warrants",
   "orig": "An Act Authorizing the Secretary of Education to Open in the Roxas Memorial Agricultural School at Guinobatan, Albay, Courses of Collegiate Level if the Income of the Properties of Said School so Warrants"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Secretary of Education to Open in the Roxas Memorial Agricultural School at Guinobatan, Albay, Courses of Collegiate Level if the Income of the Properties of Said School so Warrants",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

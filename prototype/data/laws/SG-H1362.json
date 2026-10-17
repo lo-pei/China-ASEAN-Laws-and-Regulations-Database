@@ -1,7 +1,7 @@
 {
  "id": "SG-H1362",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（指定处所的划定）命令 2021",
   "en": "Environmental Public Health (Designation of Specified Premises) Order 2021",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nSpecified premises\nFirst column\nSecond column\nClass of premises\nDate\n1.Any adult disability home\n30 July 2021\n2.[Deleted by S 462/2026 wef 01/07/2026]\n3.Any eldercare and social‑communal facility\n30 July 2021\n4.Any home for children and young persons, other than the Singapore Boys’ Home and the Singapore Girls’ Home\n30 July 2021\n5.[Deleted by S 462/2026 wef 01/07/2026]\n6.Any welfare home\n30 July 2021\n7.Any early childhood development centre\n1 November 2021\n8.Any food centre or market\n1 December 2021\n9.Any Government school\n1 February 2022\n10.Any Government‑aided school\n1 February 2022\n11.Any language centre\n1 February 2022\n12.Any coffeeshop\n1 March 2022\n13. Any active ageing and senior activity centre\n1 April 2022\n14. Any EIPIC/PPIP early intervention centre\n1 April 2022\n15. Any independent school\n1 April 2022\n16. Any privately-funded school\n1 April 2022\n17. Any psychiatric facility\n1 April 2022\n18. Any special education school\n1 April 2022\n19. Any specified educational institution\n1 April 2022\n20. The home for children and young persons called the Singapore Boys’ Home\n1 April 2022\n21. The home for children and young persons called the Singapore Girls’ Home\n1 April 2022\n22. Any canteen\n1 May 2022\n23. Any food court\n1 May 2022\n24. Any assisted training and employment centre\n1 July 2022\n25. Any crisis shelter\n1 July 2022\n26. Any day activity centre\n1 July 2022\n27. Any madrasah\n1 October 2022\n28. Any private education institution for children and young persons\n1 October 2022\n29. Any student care centre\n1 October 2022\n30.Any sheltered home\n1 July 2026\n[S 462/2026 wef 01/07/2026]\n[S 268/2022 wef 01/04/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Designation of Specified Premises) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

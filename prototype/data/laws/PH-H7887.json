@@ -1,7 +1,7 @@
 {
  "id": "PH-H7887",
  "title": {
-  "zh": null,
+  "zh": "宣布每年3月8日为整个金达沃省特别工作假日，以纪念其成立纪念日的法案",
   "en": "An Act Declaring March 8 of Every Year a Special Working Holiday in the Entire Province of Compostela Valley to Commemorate its Founding Anniversary",
   "orig": "An Act Declaring March 8 of Every Year a Special Working Holiday in the Entire Province of Compostela Valley to Commemorate its Founding Anniversary"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring March 8 of Every Year a Special Working Holiday in the Entire Province of Compostela Valley to Commemorate its Founding Anniversary",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3524",
  "title": {
-  "zh": null,
+  "zh": "警察英勇奖章规则 2004",
   "en": "Pingat Polis Keberanian (Police Medal of Valour) Rules 2004",
   "orig": null
  },
@@ -217,5 +217,13 @@
     "en": "THE SCHEDULE\nRule 9\nPingat Polis Keberanian\nPolice Medal of Valour\nOBVERSE\nREVERSE"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Pingat Polis Keberanian (Police Medal of Valour) Rules 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

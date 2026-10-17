@@ -1,7 +1,7 @@
 {
  "id": "SG-H1820",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 3 号）命令 2023",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nAll that part of the housing estate of the Board bounded by Pasir Ris Drive 1, Pasir Ris Street 11 and Tampines Expressway, comprised in Lot number 01755T in Mukim 31 and on which Apartment Blocks 114, 115, 116 and 117 are erected, and in Lot number 01707T in Mukim 31 and on which Apartment Blocks 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128 and 129 are erected, and which is more particularly edged in the Plan.\nThe PLAN\nPASIR rIS STREET 11"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

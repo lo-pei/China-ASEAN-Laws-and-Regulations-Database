@@ -1,7 +1,7 @@
 {
  "id": "SG-H940",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典（指定执法机构）公告 2019",
   "en": "Criminal Procedure Code (Prescribed Law Enforcement Agency) Notification 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Commercial Affairs Department of the Singapore Police Force is prescribed as a law enforcement agency for the purposes of section 112(1)(c) of the Code."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure Code (Prescribed Law Enforcement Agency) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

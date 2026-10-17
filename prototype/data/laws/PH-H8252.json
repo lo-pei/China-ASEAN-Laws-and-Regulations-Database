@@ -1,7 +1,7 @@
 {
  "id": "PH-H8252",
  "title": {
-  "zh": null,
+  "zh": "将本格特省起于Tawang描笼涯12公里处、经La Trinidad市镇Lamut描笼涯、止于碧瑶市Pacdal描笼涯的省道改设为国道的法案",
   "en": "An Act Converting the Benguet Provincial Road Which Starts at Kilometer 12 in Barangay Tawang and Traverses Barangay Lamut in the Municipality of La Trinidad, Province of Benguet and Ends at Baran Gay Pacdal, Baguio City into a National Road",
   "orig": "An Act Converting the Benguet Provincial Road Which Starts at Kilometer 12 in Barangay Tawang and Traverses Barangay Lamut in the Municipality of La Trinidad, Province of Benguet and Ends at Baran Gay Pacdal, Baguio City into a National Road"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Benguet Provincial Road Which Starts at Kilometer 12 in Barangay Tawang and Traverses Barangay Lamut in the Municipality of La Trinidad, Province of Benguet and Ends at Baran Gay Pacdal, Baguio City into a National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

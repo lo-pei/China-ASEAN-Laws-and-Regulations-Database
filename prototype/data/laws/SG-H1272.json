@@ -1,7 +1,7 @@
 {
  "id": "SG-H1272",
  "title": {
-  "zh": null,
+  "zh": "职业介绍所规则 2011",
   "en": "Employment Agencies Rules 2011",
   "orig": null
  },
@@ -334,5 +334,13 @@
     "en": "THE SCHEDULE\nRule 16(1)\nRegistration Cards\nPart I\nFORM\nPart II\nSPECIFICATIONS\n1. Subject to paragraphs 5 to 11, the following information printed on the registration card shall be the same as that published in the register of licensees and employment agency personnel at the Ministry of Manpower’s Internet website at www.mom.gov.sg/eadirectory:\n(a)the name of the employment agency;\n(b)the name of the registered employment agency personnel; and\n(c)the registration number of the registered employment agency personnel.\n2. The registration card shall be presented in landscape format, with a length of 86 mm and breadth of 54 mm, and a thickness of at least 0.76 mm.\n3. The background colour of the registration card shall be white.\n4. The photograph of the registered employment agency personnel shall be —\n(a)an image printed on the registration card;\n(b)identical to the photograph submitted to the Commissioner for the purposes of registering the employment agency personnel, and subsequently published in the register of licensees and employment agency personnel at the Ministry of Manpower’s Internet website at www.mom.gov.sg/eadirectory;\n(c)of background colour white; and\n(d)32 mm in length and 38 mm in breadth.\n5. The space allocated for the employment agency logo, where applicable, and the name of the licensed employment agency shall be no more than 80 mm in length and 15 mm in breadth, and aligned to the top right-hand corner of the registration card as shown in Part I.\n6. The text “EA PERSONNEL” shall be —\n(a)aligned to the left of the registration card as shown in Part I;\n(b)printed with each letter in a font size not less than 3 mm in height;\n(c)in capital letters;\n(d)of typeface Arial Bold; and\n(e)black in colour.\n7. The text “Registration No.:” and “EA Licence No.:” shall be —\n(a)printed with each letter in a font size not less than 2 mm in height;\n(b)of typeface Arial; and\n(c)black in colour.\n8. The name of the registered employment agency personnel printed on the registration card shall be the name that appears in —\n(a)the employment agency personnel’s identity card, if he has been issued with an identity card under the National Registration Act 1965; or\n[S 868/2022 wef 31/12/2021]\n(b)the employment agency personnel’s work pass, if he has been issued with a work pass by the Controller of Work Passes under section 7 of the Employment of Foreign Manpower Act 1990.\n[S 868/2022 wef 31/12/2021]\n9. The employment agency licence number, the name of the registered employment agency personnel and the registration number of the employment agency personnel, printed on the registration card, shall be —\n(a)printed with each letter in a font size not less than 3 mm in height;\n(b)in capital letters, where applicable;\n(c)of typeface Arial Bold; and\n(d)black in colour.\n10. The text “Information on this card can be verified at www.mom.gov.sg/eadirectory.” shall be —\n(a)printed with each letter in a font size not less than 2 mm in height;\n(b)of typeface Arial; and\n(c)black in colour.\n11. The registration card, including the photograph of the registered employment agency personnel thereon, shall be printed in an indelible manner and with a minimum resolution of 300 dpi."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment Agencies Rules 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

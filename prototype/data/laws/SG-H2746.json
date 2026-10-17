@@ -1,7 +1,7 @@
 {
  "id": "SG-H2746",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（特殊发展项目与特殊基础设施）条例 2018",
   "en": "Infrastructure Protection (Special Developments and Special Infrastructures) Regulations 2018",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. For the purpose of section 46(2)(b) of the Act, the prescribed time is 14 days after completion of the specified works mentioned in that section."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Special Developments and Special Infrastructures) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

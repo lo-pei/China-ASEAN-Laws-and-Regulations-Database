@@ -1,7 +1,7 @@
 {
  "id": "SG-H1537",
  "title": {
-  "zh": null,
+  "zh": "电影法 1981",
   "en": "Films Act 1981",
   "orig": null
  },
@@ -766,5 +766,13 @@
     "en": "41.—(1) The Minister may make regulations for, or in respect of, every purpose which is considered necessary for carrying out the provisions of this Act and for the prescribing of any matter that is authorised or required under this Act to be so prescribed.\n(2) Without limiting subsection (1), the Minister may by such regulations —\n(a)prescribe fees to be charged under this Act;\n(b)prescribe the duties of licensees in importing, distributing or publicly exhibiting films in the course of business;\n(c)prescribe the kind and amount of security to be given under this Act;\n(d)provide that all cinemas or any class of cinemas must show not less than the prescribed number or prescribed proportion of films of a specified class or from a specified country of origin;\n(e)provide that all cinemas or any class of cinemas must show not more than a prescribed number or a prescribed proportion of films of a specified class or from a specified country of origin;\n(f)prescribe the manner in which classification labels, classification ratings and consumer advice (if any) are to be affixed to a film, displayed in any film, or displayed in an advertisement for a film;\n(g)require the appointment by licensees of film content assessors registered under section 19;\n(h)prescribe the duties of persons registered as film content assessors in connection with the assessment of the content of films;\n(i)prescribe circumstances in which an assessment by a film content assessor is taken to be misleading, incorrect or grossly inadequate, or to contain misleading, incorrect or grossly inadequate information;\n(j)provide for the manner in which an appeal may be made to the Minister or the Committee of Appeal under section 24 or 28 (as the case may be) and the procedure to be adopted in hearing such appeals;\n(k)provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $5,000; and\n(l)provide for any transitional, saving and other consequential, incidental and supplemental provisions that the Minister considers necessary or expedient.\n[25/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Films Act 1981",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

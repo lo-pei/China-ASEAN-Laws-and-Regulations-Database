@@ -1,7 +1,7 @@
 {
  "id": "PH-H7089",
  "title": {
-  "zh": null,
+  "zh": "规定南甘马粦省更切合需要的科学教育，为此修订第 8304 号共和国法（即将 San Rafael 国立高中改设为 San Rafael 国立科学高中并拨款的法案）的法案",
   "en": "An Act Providing for a More Responsive Science Education in the Province of Camarines Sur, Amending for the Purpose Republic Act No. 8304 Entitled \"An Act Converting the San Rafael National High School in the Municipality of Tigaon, Province of Camarines Sur, Into a Science High School to Be Known as the San Rafael National Science High School Campus, and Appropriating Funds Therefor\"",
   "orig": "An Act Providing for a More Responsive Science Education in the Province of Camarines Sur, Amending for the Purpose Republic Act No. 8304 Entitled \"An Act Converting the San Rafael National High School in the Municipality of Tigaon, Province of Camarines Sur, Into a Science High School to Be Known as the San Rafael National Science High School Campus, and Appropriating Funds Therefor\""
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H7089-A1_2",
+   "id": "PH-H7089-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The San Rafael National High School in the Municipality of Tigaon, Province of Camarines Sur, is hereby converted into a science high school to be known as the Philippine Science High School-Camarines Sur Campus, hereinafter referred to as the PSHS-CSC, under the supervision of the Department of Science and Technology.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H7089-A2",
@@ -81,14 +82,15 @@
    }
   },
   {
-   "id": "PH-H7089-A3_2",
+   "id": "PH-H7089-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "The Philippine Science High School-Camarines Sur Campus, shall be governed by a Board of Trustees which shall be composed of:\n\"(a) The Secretary of the Department of Science and Technology, chairman;\n\"(b) The Secretary of the Department of Education, Culture and Sports, vice chairman;\n\"(c) The president of the University of the Philippines, member;\n\"(d) The congressional representative of the district where the high school is located, member;\n\"(e) The director of the Science Education Institute, member;\n\"(f) The director of the Philippine Science High School-Diliman, member; and \"(g) The director of the Philippine Science High School-Camarines Sur Campus.\n\"The Secretary of Science and Technology, the Secretary of Education, Culture and Sports and all the members of the Board shall have an ex officio term of office.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H7089-A4",
@@ -161,14 +163,15 @@
    }
   },
   {
-   "id": "PH-H7089-A8_2",
+   "id": "PH-H7089-A8-d2",
    "no": 8,
    "noLabel": {
     "en": "Section 8."
    },
    "text": {
     "en": "The same Act is hereby amended by adding a new section after Section 18 to be denominated as Section 18-A to read as follows:\n\"SEC. 18-A. The current first year students of San Rafael National High School shall be given the accreditation test under the PSHS transfer program. Those who will qualify shall be considered as regular students of the PSHS-CSC; otherwise, those who will not qualify together with the students in the higher year levels shall remain as regular students of the San Rafael National High School under the Department of Education, Culture and Sports until they graduate.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H7089-A9",
@@ -200,5 +203,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for a More Responsive Science Education in the Province of Camarines Sur, Amending for the Purpose Republic Act No. 8304 Entitled \"An Act Converting the San Rafael National High School in the Municipality of Tigaon, Province of Camarines Sur, Into a Science High School to Be Known as the San Rafael National Science High School Campus, and Appropriating Funds Therefor\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

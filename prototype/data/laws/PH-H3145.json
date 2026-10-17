@@ -1,7 +1,7 @@
 {
  "id": "PH-H3145",
  "title": {
-  "zh": null,
+  "zh": "修订第3014号共和国法（授予Romulo V. Ramos在达沃省各市镇的电灯、热力与动力系统特许经营权）",
   "en": "An Act to Amend Republic Act Numbered Thirty Hundred and Fourteen, Entitled “An Act Granting Romulo V. Ramos a Franchise for an Electric Light, Heat and Power System in the Municipalities of Sta. Cruz, Digos, Bansalan, Padada, Malalag, Hagonoy and Lower Montano, All in Davao Province”",
   "orig": "An Act to Amend Republic Act Numbered Thirty Hundred and Fourteen, Entitled “An Act Granting Romulo V. Ramos a Franchise for an Electric Light, Heat and Power System in the Municipalities of Sta. Cruz, Digos, Bansalan, Padada, Malalag, Hagonoy and Lower Montano, All in Davao Province”"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Thirty Hundred and Fourteen, Entitled “An Act Granting Romulo V. Ramos a Franchise for an Electric Light, Heat and Power System in the Municipalities of Sta. Cruz, Digos, Bansalan, Padada, Malalag, Hagonoy and Lower Montano, All in Davao Province”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

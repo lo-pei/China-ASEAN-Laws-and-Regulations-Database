@@ -1,7 +1,7 @@
 {
  "id": "PH-H8180",
  "title": {
-  "zh": null,
+  "zh": "将保和省中米沙鄢农业、林业与技术国立学院及其在 Tagbilaran 市等地的单位与卫星校区改设为保和岛国立大学，并为此拨款的法案",
   "en": "An Act Converting the Central Visayas State College of Agriculture, Forestry and Technology, its Units and Satellite Campuses in the City of Tagbilaran and in the Municipalities of Bilar, Candijay, Clarin, Calape and Balilihan, All Located in the Province of Bohol to Be Known as the Bohol Island State University (BISU) and Appropriating Funds Therefor",
   "orig": "An Act Converting the Central Visayas State College of Agriculture, Forestry and Technology, its Units and Satellite Campuses in the City of Tagbilaran and in the Municipalities of Bilar, Candijay, Clarin, Calape and Balilihan, All Located in the Province of Bohol to Be Known as the Bohol Island State University (BISU) and Appropriating Funds Therefor"
  },
@@ -332,5 +332,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Central Visayas State College of Agriculture, Forestry and Technology, its Units and Satellite Campuses in the City of Tagbilaran and in the Municipalities of Bilar, Candijay, Clarin, Calape and Balilihan, All Located in the Province of Bohol to Be Known as the Bohol Island State University (BISU) and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5016",
  "title": {
-  "zh": null,
+  "zh": "规定农业公有土地的出售并授权土地局各省地区土地官员签署不超过五公顷土地的专利证书，为此进一步修订第 141 号联邦法",
   "en": "Act Providing for Sale of Agricultural Public Lands and Authorizing District Land Officers in Every Province of the Bureau of Lands to Sign Patents or Certificates Covering Lands Not Exceeding Five Hectares, Further Amending for the Purpose Commonwealth Act Numbered One Hundred Forty-One.",
   "orig": "Act Providing for Sale of Agricultural Public Lands and Authorizing District Land Officers in Every Province of the Bureau of Lands to Sign Patents or Certificates Covering Lands Not Exceeding Five Hectares, Further Amending for the Purpose Commonwealth Act Numbered One Hundred Forty-One."
  },
@@ -111,5 +111,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: July 22, 1972"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Act Providing for Sale of Agricultural Public Lands and Authorizing District Land Officers in Every Province of the Bureau of Lands to Sign Patents or Certificates Covering Lands Not Exceeding Five Hectares, Further Amending for the Purpose Commonwealth Act Numbered One Hundred Forty-One.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

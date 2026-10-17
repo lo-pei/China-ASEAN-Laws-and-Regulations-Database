@@ -1,7 +1,7 @@
 {
  "id": "PH-H4598",
  "title": {
-  "zh": null,
+  "zh": "授予 Natividad R. Ortega 在莱特省 Mahaplag 市镇安装、运营和维护电灯、热力与动力系统及制冰厂并销售和分销电灯、热力、动力与冰的特许权法案",
   "en": "An Act Granting Natividad R. Ortega a Franchise to Install, Operate and Maintain An Electric Light, Heat and Power System and An Ice Plant in the Municipality of Mahaplag, Province of Leyte, and to Sell and Distribute Electric Light, Heat, Power and Ice Therein",
   "orig": "An Act Granting Natividad R. Ortega a Franchise to Install, Operate and Maintain An Electric Light, Heat and Power System and An Ice Plant in the Municipality of Mahaplag, Province of Leyte, and to Sell and Distribute Electric Light, Heat, Power and Ice Therein"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Natividad R. Ortega a Franchise to Install, Operate and Maintain An Electric Light, Heat and Power System and An Ice Plant in the Municipality of Mahaplag, Province of Leyte, and to Sell and Distribute Electric Light, Heat, Power and Ice Therein",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

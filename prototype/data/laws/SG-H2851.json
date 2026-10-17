@@ -1,7 +1,7 @@
 {
  "id": "SG-H2851",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（东盟与中日韩宏观经济研究办公室）命令 2016",
   "en": "International Organisations (Immunities and Privileges) (ASEAN+3 Macroeconomic Research Office) Order 2016",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) Each of the following persons enjoys immunity from legal process in respect of all words spoken and written and acts performed by the person in his or her official capacity:\n(a)members of the Executive Committee and their alternates;\n(b)members of the Advisory Panel;\n(c)members of the staff of the AMRO;\n(d)experts performing missions for the AMRO, whose names appear in a list mutually agreed upon between the Government and the AMRO in advance for this purpose.\n(2) The immunity conferred under sub‑paragraph (1) on any person —\n(a)does not apply in the case of —\n(i)an offence against the written law relating to motor vehicle traffic committed by the person; or\n(ii)any damage caused by a motor vehicle belonging to or driven by the person; and\n(b)may be waived by the AMRO.\n(3) Each of the following persons enjoys exemption from taxation on his or her salary and emolument paid directly to him or her by the AMRO:\n(a)members of the Advisory Panel;\n(b)members of the staff of the AMRO;\n(c)experts performing missions for the AMRO, whose names appear in a list mutually agreed upon between the Government and the AMRO in advance for this purpose.\n(4) Any immunity or privilege under sub‑paragraph (1) or (3) which is enjoyed by a person in any particular case is to be waived by the AMRO if the AMRO is of the opinion that —\n(a)the immunity or privilege impedes the course of justice; and\n(b)the immunity or privilege can be waived without prejudice to the interests of the AMRO.\n(5) Despite anything in this paragraph, no immunity or privilege under this paragraph may be enjoyed by any person who is a citizen or permanent resident of Singapore, except that the Chief Economist of the AMRO who is a citizen or permanent resident of Singapore enjoys the immunity mentioned in sub‑paragraph (1)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "International Organisations (Immunities and Privileges) (ASEAN+3 Macroeconomic Research Office) Order 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

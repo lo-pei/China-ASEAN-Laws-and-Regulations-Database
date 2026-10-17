@@ -1,7 +1,7 @@
 {
  "id": "PH-H10033",
  "title": {
-  "zh": null,
+  "zh": "将卡林加省塔布克市高山省边界—卡拉南—恩里莱公路（Antonio Canao桥至Alliog桥，经卡拉南、布拉瑙、伊皮尔与南巴兰）更名为Manuel S. Agyao大道的法案",
   "en": "An Act Renaming the Portion of the Mountain Province Boundary-Calanan-Enrile Road, Stretching From the Antonio Canao Bridge in Barangay Calanan, Traversing Through Barangays Bulanao and Ipil, Up to the Alliog Bridge in Barangay Nambaran, All in the City of Tabuk in the Province of Kalinga, as Manuel S. Agyao Boulevard",
   "orig": "An Act Renaming the Portion of the Mountain Province Boundary-Calanan-Enrile Road, Stretching From the Antonio Canao Bridge in Barangay Calanan, Traversing Through Barangays Bulanao and Ipil, Up to the Alliog Bridge in Barangay Nambaran, All in the City of Tabuk in the Province of Kalinga, as Manuel S. Agyao Boulevard"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Portion of the Mountain Province Boundary-Calanan-Enrile Road, Stretching From the Antonio Canao Bridge in Barangay Calanan, Traversing Through Barangays Bulanao and Ipil, Up to the Alliog Bridge in Barangay Nambaran, All in the City of Tabuk in the Province of Kalinga, as Manuel S. Agyao Boulevard",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

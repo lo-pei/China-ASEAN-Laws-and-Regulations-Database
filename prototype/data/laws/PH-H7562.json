@@ -1,7 +1,7 @@
 {
  "id": "PH-H7562",
  "title": {
-  "zh": null,
+  "zh": "卡米金日",
   "en": "Araw Ng Camiguin",
   "orig": "An Act Declaring the Seventh (7th) Day of January of Every Year as a Special Working Public Holiday for the Province of Camiguin, to Be Known as \"Araw Ng Camiguin\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Araw Ng Camiguin",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4172",
  "title": {
-  "zh": null,
+  "zh": "授予 Pedro N. Roa 在 Cagayan De Oro 市建设、维护和运营无线电广播与电视站的特许经营权法案",
   "en": "An Act Granting Pedro N. Roa a Franchise to Construct, Maintain and Operate Radio Broadcasting and Television Stations in Cagayan De Oro City",
   "orig": "An Act Granting Pedro N. Roa a Franchise to Construct, Maintain and Operate Radio Broadcasting and Television Stations in Cagayan De Oro City"
  },
@@ -180,5 +180,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Pedro N. Roa a Franchise to Construct, Maintain and Operate Radio Broadcasting and Television Stations in Cagayan De Oro City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

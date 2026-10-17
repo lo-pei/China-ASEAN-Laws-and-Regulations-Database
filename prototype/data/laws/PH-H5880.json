@@ -1,7 +1,7 @@
 {
  "id": "PH-H5880",
  "title": {
-  "zh": null,
+  "zh": "修订经修正的第 2644 号共和国法即菲律宾助产法的法案",
   "en": "An Act Revising Republic Act No. 2644, as Amended, Otherwise Known as the Philippine Midwifery Act",
   "orig": "An Act Revising Republic Act No. 2644, as Amended, Otherwise Known as the Philippine Midwifery Act"
  },
@@ -340,5 +340,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon completion of its publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Revising Republic Act No. 2644, as Amended, Otherwise Known as the Philippine Midwifery Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

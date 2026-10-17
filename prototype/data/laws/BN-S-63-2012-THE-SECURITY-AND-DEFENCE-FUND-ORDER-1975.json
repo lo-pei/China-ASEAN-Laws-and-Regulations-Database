@@ -1,7 +1,7 @@
 {
  "id": "BN-S-63-2012-THE-SECURITY-AND-DEFENCE-FUND-ORDER-1975",
  "title": {
-  "zh": null,
+  "zh": "安全与国防基金命令 1975",
   "en": "THE SECURITY AND DEFENCE FUND ORDER 1975",
   "orig": null
  },
@@ -105,5 +105,13 @@
     "en": "The State Financial Officer shall by Warrant under his Warrant to be directed by the Mentri Besar to be applied for the purpose issue of specified in paragraph of this Order. moneys. Made this 21st. day of May, 1975 at Our Istana Darul Hana, Darul Salam.\n\nHIS HIGHNESS\n\nTHE SULTAN AND YANG DI-PERTUAN"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "THE SECURITY AND DEFENCE FUND ORDER 1975",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

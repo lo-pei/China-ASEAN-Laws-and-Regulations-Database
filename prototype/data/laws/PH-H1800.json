@@ -1,7 +1,7 @@
 {
  "id": "PH-H1800",
  "title": {
-  "zh": null,
+  "zh": "为免费专利申请、不完善或不完整产权的司法确认以及被宣布为公共土地之若干土地的司法程序重启规定新的期限的法案",
   "en": "An Act Setting a New Time Limit for the Filing of Applications for Free Patents, for the Judicial Confirmation of Imperfect or Incomplete Titles, and for the Reopening of Judicial Proceedings on Certain Lands Which Were Declared Public Lands",
   "orig": "An Act Setting a New Time Limit for the Filing of Applications for Free Patents, for the Judicial Confirmation of Imperfect or Incomplete Titles, and for the Reopening of Judicial Proceedings on Certain Lands Which Were Declared Public Lands"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 13, 1958"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Setting a New Time Limit for the Filing of Applications for Free Patents, for the Judicial Confirmation of Imperfect or Incomplete Titles, and for the Reopening of Judicial Proceedings on Certain Lands Which Were Declared Public Lands",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

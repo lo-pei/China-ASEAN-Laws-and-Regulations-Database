@@ -1,7 +1,7 @@
 {
  "id": "SG-H1609",
  "title": {
-  "zh": null,
+  "zh": "一般命令",
   "en": "General Order",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Foreign Recruiting Act\n(Chapter 112, Section 4)\nGeneral Order\nO 1\nG.N. No. S 410/1988\nREVISED EDITION 1990\n(25th March 1992)\n[23rd December 1988]\nBy WEE KIM WEE\nPRESIDENT OF THE REPUBLIC OF SINGAPORE\nWEE KIM WEE,\nPRESIDENT\nPursuant to section 4 of the Foreign Recruiting Act, the President has prohibited any foreign State, as defined in the Act:\n(1)\nfrom recruiting for the service of any such foreign State:\n(a)\nany member of the Singapore Armed Forces (“SAF member”) and any civilian officer of the Ministry of Defence, Singapore (“civilian officer”); and\n(b)\nany such SAF member or civilian officer who has not duly served out the period of undertaking pursuant to section 5 of the Official Secrets Act [Cap. 213], applicable to the SAF member or civilian officer,\nunless specific approval has been obtained and granted by the Director of Manpower, Ministry of Defence, Singapore; and\n(2)\nfrom publishing in Singapore, any advertisement for the purpose of recruiting persons to serve in or with the armed forces of such foreign State, or any advertisement containing any information relating to the recruitment of persons to serve, or with respect to service, in or with the armed forces of such foreign State.\nA “foreign State” includes any person or persons exercising, or assuming to exercise, the powers of government in or over any country, colony, province or people beyond the limits of Singapore.\nThis General Order shall take effect on and from the date it is notified in the Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "General Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

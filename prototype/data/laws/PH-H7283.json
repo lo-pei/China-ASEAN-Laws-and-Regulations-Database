@@ -1,7 +1,7 @@
 {
  "id": "PH-H7283",
  "title": {
-  "zh": null,
+  "zh": "将Angeles市纳入Jose Abad Santos日适用范围，为此修订第7552号共和国法并为其他目的法案",
   "en": "An Act Including the City of Angeles in the Coverage of the Jose Abad Santos Day, Amending for the Purpose Republic Act Numbered Seventy-Five Fifty-Two and for Other Purposes",
   "orig": "An Act Including the City of Angeles in the Coverage of the Jose Abad Santos Day, Amending for the Purpose Republic Act Numbered Seventy-Five Fifty-Two and for Other Purposes"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H7283-A1_2",
+   "id": "PH-H7283-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "May seven of every year is hereby declared as a special nonworking holiday in the Province of Pampanga and the City of Angeles to be known as the Jose Abad Santos Day.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H7283-A2",
@@ -70,5 +71,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days from its publication in the Official Gazette or in at least two (2) newspapers of national circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Including the City of Angeles in the Coverage of the Jose Abad Santos Day, Amending for the Purpose Republic Act Numbered Seventy-Five Fifty-Two and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

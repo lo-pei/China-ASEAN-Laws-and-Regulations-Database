@@ -1,7 +1,7 @@
 {
  "id": "PH-H8458",
  "title": {
-  "zh": null,
+  "zh": "降低人寿保险单税负，为此修订经修正的 1997 年《国家国内税收法典》第 123 条与第 183 条的法案",
   "en": "An Act Reducing the Taxes on Life Insurance Policies, Amending for This Purpose Sections 123 and 183 of the National Internal Revenue Code of 1997, as Amended",
   "orig": "An Act Reducing the Taxes on Life Insurance Policies, Amending for This Purpose Sections 123 and 183 of the National Internal Revenue Code of 1997, as Amended"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reducing the Taxes on Life Insurance Policies, Amending for This Purpose Sections 123 and 183 of the National Internal Revenue Code of 1997, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

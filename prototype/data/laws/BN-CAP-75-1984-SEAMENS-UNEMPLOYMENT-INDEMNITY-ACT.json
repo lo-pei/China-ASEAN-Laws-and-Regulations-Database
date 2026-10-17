@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-75-1984-SEAMENS-UNEMPLOYMENT-INDEMNITY-ACT",
  "title": {
-  "zh": null,
+  "zh": "海员失业补偿法",
   "en": "SEAMENS UNEMPLOYMENT INDEMNITY ACT",
   "orig": null
  },
@@ -84,5 +84,13 @@
     "en": "His Majesty the Sultan and Yang Di-Pertuan in Power to make rules Council may from time to time make rules generally fo r the carrying out of the purposes of this Act. B.L.R.O. ) / ) 98"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SEAMENS UNEMPLOYMENT INDEMNITY ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

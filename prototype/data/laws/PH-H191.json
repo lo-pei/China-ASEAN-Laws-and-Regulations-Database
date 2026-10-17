@@ -1,7 +1,7 @@
 {
  "id": "PH-H191",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第496号法第58条（即《土地登记法》，经第4029号法修正），并为其他目的作出规定的法案",
   "en": "An Act to Further Amend Section Fifty-Eight of Act Numbered Four Hundred and Ninety-Six, Otherwise Known as the Land Registration Act, as Amended by Act Numbered Forty Hundred and Twenty-Nine, and to Provide for Other Purposes",
   "orig": "An Act to Further Amend Section Fifty-Eight of Act Numbered Four Hundred and Ninety-Six, Otherwise Known as the Land Registration Act, as Amended by Act Numbered Forty Hundred and Twenty-Nine, and to Provide for Other Purposes"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect on its approval.\nApproved: March 17, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Section Fifty-Eight of Act Numbered Four Hundred and Ninety-Six, Otherwise Known as the Land Registration Act, as Amended by Act Numbered Forty Hundred and Twenty-Nine, and to Provide for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

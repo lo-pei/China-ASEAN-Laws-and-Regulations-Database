@@ -1,7 +1,7 @@
 {
  "id": "SG-H2608",
  "title": {
-  "zh": null,
+  "zh": "传染病（规定实体与机构）条例 2008",
   "en": "Infectious Diseases (Prescribed Entities and Institutions) Regulations 2008",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nEntities and institutions\n1. Agency for Integrated Care Pte. Ltd.\n[S 938/2024 wef 06/12/2024]\n1A. Alexandra Hospital\n[S 938/2024 wef 06/12/2024]\n2. Changi General Hospital\n3. Institute of Mental Health\n[S 938/2024 wef 06/12/2024]\n4. KK Women’s and Children’s Hospital\n4A. Khoo Teck Puat Hospital\n[S 422/2010 wef 02/08/2010]\n4B. MOH Holdings Pte Ltd\n[S 938/2024 wef 06/12/2024]\n5. National Cancer Centre Singapore\n[S 938/2024 wef 06/12/2024]\n6. National Dental Centre Singapore\n[S 938/2024 wef 06/12/2024]\n6A. National Healthcare Group Pte Ltd\n[S 938/2024 wef 06/12/2024]\n7. National Heart Centre Singapore\n[S 938/2024 wef 06/12/2024]\n8. National Neuroscience Institute\n9. National Skin Centre\n9A. National University Health System Pte. Ltd.\n[S 938/2024 wef 06/12/2024]\n10. National University Hospital\n10A. Ng Teng Fong General Hospital\n[S 35/2016 wef 26/01/2016]\n10AA. Raffles Medical Group Ltd\n[S 938/2024 wef 06/12/2024]\n10B. Sengkang General Hospital\n[S 852/2018 wef 21/12/2018]\n11. Singapore General Hospital\n11A. Singapore Health Services Pte Ltd\n[S 938/2024 wef 06/12/2024]\n12. Singapore National Eye Centre\n13. Tan Tock Seng Hospital (including the National Centre for Infectious Diseases)\n[S 938/2024 wef 06/12/2024]\n13A. Woodlands Health\n[S 938/2024 wef 06/12/2024]\n14. Every polyclinic operated or managed by National Healthcare Group Polyclinics\n[S 852/2018 wef 21/12/2018]\n15. Every polyclinic operated or managed by National University Polyclinics\n[S 852/2018 wef 21/12/2018]\n16. Every polyclinic operated or managed by SingHealth Polyclinics\n[S 852/2018 wef 21/12/2018]\n[S 938/2024 wef 06/12/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infectious Diseases (Prescribed Entities and Institutions) Regulations 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

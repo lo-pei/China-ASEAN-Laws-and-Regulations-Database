@@ -1,7 +1,7 @@
 {
  "id": "SG-H899",
  "title": {
-  "zh": null,
+  "zh": "COVID-19（临时措施）（期间替代）命令 2021",
   "en": "COVID-19 (Temporary Measures) (Substitution of Period) Order 2021",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. For the purposes of section 53(4)(d) of the Act, the period of “one month after the period of 6 weeks and one day” applies in substitution of the period of “one month after the period of 6 weeks” mentioned in that provision."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "COVID-19 (Temporary Measures) (Substitution of Period) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

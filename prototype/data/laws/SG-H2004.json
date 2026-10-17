@@ -1,7 +1,7 @@
 {
  "id": "SG-H2004",
  "title": {
-  "zh": null,
+  "zh": "所得税（第 19B（10A）条豁免）命令 2012",
   "en": "Income Tax (Exemption from section 19B(10A)) Order 2012",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Solutia Singapore Pte. Ltd. is hereby granted exemption from section 19B(10A) of the Act in respect of capital expenditure incurred by Solutia Singapore Pte. Ltd. on 1st February 2011 in acquiring the following intellectual property rights based on a valuation done on 30th April 2010 for use in any trade or business carried on by Solutia Singapore Pte. Ltd.:\n(a)rights relating to trademarks held by V-Kool International Pte. Ltd. immediately before 30th April 2010; and\n(b)rights relating to trademarks and patents held by Huper Optik International Pte Ltd immediately before 30th April 2010."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption from section 19B(10A)) Order 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

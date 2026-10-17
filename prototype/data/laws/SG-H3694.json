@@ -1,7 +1,7 @@
 {
  "id": "SG-H3694",
  "title": {
-  "zh": null,
+  "zh": "最高法院司法法 1969",
   "en": "Supreme Court of Judicature Act 1969",
   "orig": null
  },
@@ -1805,5 +1805,13 @@
     "en": "TENTH SCHEDULE\nSection 60E(1)\nCases where criminal jurisdiction of\nCourt of Appeal can be exercised by\nless than 3 Judges\n1. Despite section 50(1), the following cases may be heard and decided by the Court of Appeal consisting of a single Judge:\n(a)an application under section 394H of the Criminal Procedure Code 2010* for permission to apply to the Court of Appeal to review an earlier decision of the Court of Appeal;\n(b)a criminal motion mentioned in section 408A of the Criminal Procedure Code 2010* for which each party consents to the relief or remedy sought in the motion.\n[*Updated to be consistent with the 2020 Revised Edition]\n2. Despite section 50(1), the following orders may be made by the Court of Appeal consisting of a single Judge:\n(a)an order under section 378(5A) of the Criminal Procedure Code 2010* summarily giving permission to withdraw an appeal where every party consents to the withdrawal of the appeal;\n(b)an order under section 408A(4) of the Criminal Procedure Code 2010* summarily giving permission to withdraw a criminal motion where every party consents to the withdrawal of the motion.\n[*Updated to be consistent with the 2020 Revised Edition]\n[Act 25 of 2021 wef 01/04/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Supreme Court of Judicature Act 1969",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

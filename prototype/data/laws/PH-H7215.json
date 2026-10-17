@@ -1,7 +1,7 @@
 {
  "id": "PH-H7215",
  "title": {
-  "zh": null,
+  "zh": "规定棉兰老穆斯林自治区（ARMM）区长、副区长与区立法议会议员定期选举日期，为此进一步修订经修正的第 7647 号共和国法并为其他目的法案",
   "en": "An Act Providing for the Date of the Regular Elections of Regional Governor, Vice-Governor and Members of the Regional Legislative Assembly of the Autonomous Region in Muslim Mindanao (ARMM) Further Amending for the Purpose Republic Act No. 7647 Entitled \"An Act Providing for the Date of Regular Elections for Regional Governor, Regional Vice-Governor and Members of the Regional Legislative Assembly of the Autonomous Region in Muslim Mindanao and for Other Purposes\", as Amended, and for Other Purposes",
   "orig": "An Act Providing for the Date of the Regular Elections of Regional Governor, Vice-Governor and Members of the Regional Legislative Assembly of the Autonomous Region in Muslim Mindanao (ARMM) Further Amending for the Purpose Republic Act No. 7647 Entitled \"An Act Providing for the Date of Regular Elections for Regional Governor, Regional Vice-Governor and Members of the Regional Legislative Assembly of the Autonomous Region in Muslim Mindanao and for Other Purposes\", as Amended, and for Other Purposes"
  },
@@ -130,5 +130,13 @@
     "en": "Effectivity. This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Date of the Regular Elections of Regional Governor, Vice-Governor and Members of the Regional Legislative Assembly of the Autonomous Region in Muslim Mindanao (ARMM) Further Amending for the Purpose Republic Act No. 7647 Entitled \"An Act Providing for the Date of Regular Elections for Regional Governor, Regional Vice-Governor and Members of the Regional Legislative Assembly of the Autonomous Region in Muslim Mindanao and for Other Purposes\", as Amended, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H438",
  "title": {
-  "zh": null,
+  "zh": "授权公共图书馆局长汇编并以图书形式出版已故总统Manuel A. Roxas的演说、文告及其他著作，免费分送各公共图书馆、学校与学院，并按成本向公众出售",
   "en": "An Act Authorizing the Director of Public Libraries to Compile and Publish in Book Form the Speeches, Messages, and Other Writings of the Late President Manuel A. Roxas, Which Shall be Distributed Without Charge to All Public Libraries, Schools and Colleges, and Sold to the Public at Cost",
   "orig": "An Act Authorizing the Director of Public Libraries to Compile and Publish in Book Form the Speeches, Messages, and Other Writings of the Late President Manuel A. Roxas, Which Shall be Distributed Without Charge to All Public Libraries, Schools and Colleges, and Sold to the Public at Cost"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, March 14, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Director of Public Libraries to Compile and Publish in Book Form the Speeches, Messages, and Other Writings of the Late President Manuel A. Roxas, Which Shall be Distributed Without Charge to All Public Libraries, Schools and Colleges, and Sold to the Public at Cost",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

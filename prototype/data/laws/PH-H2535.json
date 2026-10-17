@@ -1,7 +1,7 @@
 {
  "id": "PH-H2535",
  "title": {
-  "zh": null,
+  "zh": "修订第1411号共和国法第2条第g款第195页伊洛伊洛省第108项的法案",
   "en": "An Act to Amend Item One Hundred Eight, for the Province of Iloilo, Page One Hundred Ninety-Five, Paragraph g, Section Two of Republic Act Numbered Fourteen Hundred Eleven",
   "orig": "An Act to Amend Item One Hundred Eight, for the Province of Iloilo, Page One Hundred Ninety-Five, Paragraph g, Section Two of Republic Act Numbered Fourteen Hundred Eleven"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Item One Hundred Eight, for the Province of Iloilo, Page One Hundred Ninety-Five, Paragraph g, Section Two of Republic Act Numbered Fourteen Hundred Eleven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

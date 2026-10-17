@@ -1,7 +1,7 @@
 {
  "id": "PH-H6977",
  "title": {
-  "zh": null,
+  "zh": "1998 年卫生研究与发展法",
   "en": "Health Research and Development Act of 1998",
   "orig": "Health Research and Development Act of 1998 An Act Providing for the Promotion of Health Research and Development, Establishing for the Purpose the National Institutes of Health (NIH), Defining its Objectives, Powers and Functions, and for other purposes"
  },
@@ -210,5 +210,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days following the completion of its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Health Research and Development Act of 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

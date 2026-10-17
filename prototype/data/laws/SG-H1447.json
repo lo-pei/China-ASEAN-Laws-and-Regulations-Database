@@ -1,7 +1,7 @@
 {
  "id": "SG-H1447",
  "title": {
-  "zh": null,
+  "zh": "豁免",
   "en": "Exemption",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Motor Vehicles (Third-Party Risks and Compensation) Act\n(Chapter 189, Section 22)\nExemption\nN 1\nG.N. No. S 33/1995\nREVISED EDITION 1996\n(15th May 1996)\n[27th January 1995]\nThe Minister for Communications hereby exempts all motor vehicles which are the property of any government of any State in the Federation of Malaysia from all the provisions of the Act, other than sections 6 and 18 thereof (relating to payment of compensation exceeding $5,000 to the Public Trustee and prohibition of solicitation by any person in respect of claims, respectively)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Exemption",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2044",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 2 号）命令 2018",
   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Income described in sub-paragraph (2) is exempt from tax.\n(2) Sub-paragraph (1) applies to —\n(a)the income received in Singapore by Lee Rubber Company (Pte) Limited on 2 May 2014, 6 May 2014, 3 June 2014 and 15 September 2014, which totals $77,556,553 and is derived from the sale of oil palms from the following oil palm estates located in Malaysia and owned by Lee Rubber Company (Pte) Limited:\n(i)New Scudai Estate;\n(ii)Scudai Estate;\n(iii)Bakri Estate;\n(iv)Ladang Senai;\n(b)any income received in Singapore by Lee Rubber Company (Pte) Limited on or after 16 September 2014, and derived from the sale of oil palms from the oil palm estates mentioned in sub‑paragraph (a);\n(c)the income of $3,012,818 received in Singapore by Selat (Pte) Limited on 16 October 2014, and derived from the sale of oil palms from the following oil palm estates located in Malaysia and owned by Selat (Pte) Limited:\n(i)Shansi Estate;\n(ii)Sungei Masai Estate; and\n(d)any income received in Singapore by Selat (Pte) Limited on or after 17 October 2014, and derived from the sale of oil palms from the oil palm estates mentioned in sub‑paragraph (c).\n(3) The exemption in sub-paragraph (1) is subject to the conditions specified in paragraph 5 of the letter of approval dated 8 February 2018 issued by the Ministry of Finance and addressed to Ernst & Young Solutions LLP."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

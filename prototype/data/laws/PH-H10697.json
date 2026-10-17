@@ -1,7 +1,7 @@
 {
  "id": "PH-H10697",
  "title": {
-  "zh": null,
+  "zh": "将依第 8954 号共和国法授予洲际广播公司在菲律宾建设、安装、设立、运营和维护广播电视站的特许经营权再续展二十五年的法案",
   "en": "An Act Renewing For Another Twenty-five (25) Years The Franchise Granted To Intercontinental Broadcasting Corporation Under Republic Act No. 8954, Entitled “An Act Granting The Intercontinental Broadcasting Corporation A Franchise To Construct, Install, Establish, Operate And Maintain Radio And Television Broadcasting Stations In The Philippines”",
   "orig": "An Act Renewing For Another Twenty-five (25) Years The Franchise Granted To Intercontinental Broadcasting Corporation Under Republic Act No. 8954, Entitled “An Act Granting The Intercontinental Broadcasting Corporation A Franchise To Construct, Install, Establish, Operate And Maintain Radio And Television Broadcasting Stations In The Philippines”"
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing For Another Twenty-five (25) Years The Franchise Granted To Intercontinental Broadcasting Corporation Under Republic Act No. 8954, Entitled “An Act Granting The Intercontinental Broadcasting Corporation A Franchise To Construct, Install, Establish, Operate And Maintain Radio And Television Broadcasting Stations In The Philippines”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

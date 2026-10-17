@@ -1,7 +1,7 @@
 {
  "id": "SG-H1511",
  "title": {
-  "zh": null,
+  "zh": "费用（新加坡民防部队）命令 2014",
   "en": "Fees (Singapore Civil Defence Force) Order 2014",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\n1. Testing of fire hydrant\n$99 per hydrant\n2. Fire report\n$170 per copy\n3. Fire investigation report\n(a) Category A fire\n$2,435 per copy\n(b) Category B fire\n$1,205 per copy\n(c) Category C fire\n$545 per copy\n4. Ambulance report\n$63 per copy\n5. Ambulance fee\n$274 per journey\n6. For services rendered by the following Civil Defence Officers:\nPer hour or part thereof\n(a) Staff sergeant and below\n$45\n(b) Warrant Officer (including Senior Warrant Officer)\n$75\n(c) Lieutenant\n$70\n(d) Captain\n$80\n(e) Major\n$120\n(f) Lieutenant Colonel\n$150\n(g) Colonel and above\n$230\n(h) Technical Support Officer (Grades I to III)\n$80\n(i) Technical Support Officer (Grades IV to VIII)\n$45\n7. Hiring of the following fire-fighting equipment:\n(a) Combined Platform Ladder (CPL) — 32 m\n$104\n(b) Pumper\n$53\n(c) Light Fire Attack Vehicle (LFAV)\n$20\n8. Accreditation fees:\n(a) Provider of HAZMAT Transport Driver Permit Course\n(i) First-time accreditation\n(A) Application\n$1,310\n(B) Accreditation for a period not exceeding 2 years\n$1,980\n(ii) Renewal of accreditation\n(A) Application\n$360\n(B) Accreditation for a period not exceeding 2 years\n$1,100\n(b) Provider of Fire Safety Manager Course\n(i) First-time accreditation\n(A) Application\n$1,795\n(B) Accreditation for a period not exceeding 2 years\n$2,719\n(ii) Renewal of accreditation\n(A) Application\n$772\n(B) Accreditation for a period not exceeding 2 years\n$2,416\n[S 406/2015 wef 01/07/2015]\nIn this Schedule —\n“Category A fire” means any of the following:\n(a)a fire which involves substantial parts of 2 or more rooms in a building;\n(b)a fire which is extinguished using more than 2 hose line jets each measuring at least 38 millimetres in diameter;\n(c)a fire involving —\n(i)any fatality;\n(ii)any part of a building which is used by the Government or an organ of State or a statutory board;\n(iii)any part of a building which is used by an embassy, a consular office or an international organisation;\n(iv)any part of a building which is used by a religious establishment on the day of the fire; or\n(v)any part of a building which is used by a political association on the day of the fire;\n(d)a fire arising from any explosion;\n(e)a fire resulting in burn injuries to more than 3 persons;\n“Category B fire” means any of the following:\n(a)a fire which involves a substantial part of only one room in a building;\n(b)a fire which is extinguished using 2 hose line jets each measuring at least 38 millimetres in diameter;\n(c)a fire resulting in burn injuries to 3 or fewer persons;\n(d)a fire which involves 2 or more motor vehicles (excluding any motorcycle),\nbut excludes a Category A fire;\n“Category C fire” means any fire which is not a Category A fire or a Category B fire;\n“political association” has the same meaning as in the Political Donations Act (Cap. 236)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Singapore Civil Defence Force) Order 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

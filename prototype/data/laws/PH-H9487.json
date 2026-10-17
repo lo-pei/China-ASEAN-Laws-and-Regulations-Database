@@ -1,7 +1,7 @@
 {
  "id": "PH-H9487",
  "title": {
-  "zh": null,
+  "zh": "将本格特省阿科普、图布莱、卡潘甘—基邦岸—巴昆—西尼普西普至布吉亚斯次级国家公路更名为Bado Dangwa州长国家公路的法案",
   "en": "An Act Renaming the Acop, Tublay, Kapangan - Kibungan - Bakun - Sinipsip, Buguias Secondary National Road in the Province of Benguet to Gov. Bado Dangwa National Road",
   "orig": "An Act Renaming the Acop, Tublay, Kapangan - Kibungan - Bakun - Sinipsip, Buguias Secondary National Road in the Province of Benguet to Gov. Bado Dangwa National Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Acop, Tublay, Kapangan - Kibungan - Bakun - Sinipsip, Buguias Secondary National Road in the Province of Benguet to Gov. Bado Dangwa National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H571",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统从第567号联邦法设立的“糖业调整与稳定基金”中支出款项，用于设立与运营糖业试验站并开展研究，以调整与稳定糖业的法案",
   "en": "An Act Authorizing the President of the Philippines to Make Disbursements From the \"Sugar Adjustment and Stabilization Fund\" Created By Commonwealth Act Numbered Five Hundred and Sixty-Seven for the Establishment and Operation of Sugar Experiment Stations and the Undertaking of Researches With a View to Adjusting and Stabilizing the Sugar Industry.",
   "orig": "An Act Authorizing the President of the Philippines to Make Disbursements From the \"Sugar Adjustment and Stabilization Fund\" Created By Commonwealth Act Numbered Five Hundred and Sixty-Seven for the Establishment and Operation of Sugar Experiment Stations and the Undertaking of Researches With a View to Adjusting and Stabilizing the Sugar Industry."
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, September 18, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Make Disbursements From the \"Sugar Adjustment and Stabilization Fund\" Created By Commonwealth Act Numbered Five Hundred and Sixty-Seven for the Establishment and Operation of Sugar Experiment Stations and the Undertaking of Researches With a View to Adjusting and Stabilizing the Sugar Industry.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H907",
  "title": {
-  "zh": null,
+  "zh": "信贷局（上诉）条例 2025",
   "en": "Credit Bureau (Appeals) Regulations 2025",
   "orig": null
  },
@@ -640,5 +640,13 @@
     "en": "THE SCHEDULE\nRegulation 10(1)\nFORM 1\nCREDIT BUREAU ACT 2016\nCREDIT BUREAU (APPEALS) REGULATIONS 2025\nNOTICE OF APPEAL\nDate of Service of Notice on Appeals Secretary:\nName of Appellant:\nNRIC No. / Passport No. / FIN No. / Company Registration No.* of the Appellant:\nAddress(es) of the Appellant:\nEmail address of the Appellant*:\nTelephone Number(s) of the Appellant:\nName of each of the Appellant’s authorised representative or legal representative*:\nAddress of each of the Appellant’s authorised representative or legal representative*:\nAddress for service of documents:\nEmail address for service of documents (if applicable#):\nThis appeal is made under section ___ of the Credit Bureau Act 2016.\nThe appeal is against the decision of the Authority of:\n(state the date of the decision of the Authority and provide a brief description of decision of the Authority appealed against, a brief description of the grounds for appealing against the decision of the Authority, and identify whether the appeal is against the whole, or only part, of the decision of the Authority)\n____________________\nSignature of Appellant/\nauthorised representative or legal representative\nacting for the Appellant*\n*Delete if inapplicable\n#By providing an email address for service of documents, the Appellant consents to service of documents by email"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Credit Bureau (Appeals) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2118",
  "title": {
-  "zh": null,
+  "zh": "授权杜拉诺公司与环球水泥公司自费拓宽并铺设其宿务省达瑙市镇水泥厂前的国道及达瑙、卡门与卡特蒙各市镇的市镇街道，并铺设其中由各市镇议会指定的其他公共改良工程的法案",
   "en": "An Act Authorizing the Durano and Company, Inc. and the Universal Cement Company, Inc. to Widen and Concrete, at Their Own Expense, the National Highway Fronting Their Cement Plant in the Municipality of Danao, Province of Cebu, and the Municipal Streets of the Towns of Danao, Carmen and Catmon, All in the Province of Cebu, and to Concrete Such Other Public Improvements Therein as May be Designated by the Municipal Councils Thereof",
   "orig": "An Act Authorizing the Durano and Company, Inc. and the Universal Cement Company, Inc. to Widen and Concrete, at Their Own Expense, the National Highway Fronting Their Cement Plant in the Municipality of Danao, Province of Cebu, and the Municipal Streets of the Towns of Danao, Carmen and Catmon, All in the Province of Cebu, and to Concrete Such Other Public Improvements Therein as May be Designated by the Municipal Councils Thereof"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Durano and Company, Inc. and the Universal Cement Company, Inc. to Widen and Concrete, at Their Own Expense, the National Highway Fronting Their Cement Plant in the Municipality of Danao, Province of Cebu, and the Municipal Streets of the Towns of Danao, Carmen and Catmon, All in the Province of Cebu, and to Concrete Such Other Public Improvements Therein as May be Designated by the Municipal Councils Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

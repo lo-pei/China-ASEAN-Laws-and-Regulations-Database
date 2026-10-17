@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-171-1999-UNFAIR-CONTRACT-TERMS-1",
  "title": {
-  "zh": null,
+  "zh": "不公平合同条款(1)",
   "en": "UNFAIR CONTRACT TERMS(1)",
   "orig": null
  },
@@ -342,5 +342,13 @@
     "en": "(1) in this Act removes or restricts the effect of, or prevents upon, any contractual\n\n(a) is authorised or required by the express terms or necessary implication of any written law; or\n\n(b) made with a view to with an international to which Brunei is a does not more restrictively than is contemplated by the agreement.\n\n(2) A contract term is to be taken, for the purposes of Part II, as satisfying the requirement of reasonableness if it or approved by, or incorporated pursuant to a decision or ruling of, a competent authority acting in the any statutory jurisdiction or function and is not a term in a contract to which the competent authority is itself a\n\n(3) In this section - any department or public authority ; conferred by a written law. of sections 4, 5, 6 and 9"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "UNFAIR CONTRACT TERMS(1)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

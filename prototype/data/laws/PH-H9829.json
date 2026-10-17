@@ -1,7 +1,7 @@
 {
  "id": "PH-H9829",
  "title": {
-  "zh": null,
+  "zh": "要求国立大专院校（SUCs）编制并实施包含学生宿舍与员工住房建设的土地利用开发与基础设施计划的法案",
   "en": "An Act Requiring State Universities and Colleges (SUCs) to Prepare and Implement a Land Use Development and Infrastructure Plan that Shall Include the Construction of Dormitories for Students and Housing Sites for Employees",
   "orig": "An Act Requiring State Universities and Colleges (SUCs) to Prepare and Implement a Land Use Development and Infrastructure Plan that Shall Include the Construction of Dormitories for Students and Housing Sites for Employees"
  },
@@ -131,5 +131,13 @@
     "en": "Repealing Clause. — All laws, decrees, orders, rides and regulations and other issuances or parts thereof which are inconsistent with the provisions of this Act are hereby repealed, amended or modified accordingly."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring State Universities and Colleges (SUCs) to Prepare and Implement a Land Use Development and Infrastructure Plan that Shall Include the Construction of Dormitories for Students and Housing Sites for Employees",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

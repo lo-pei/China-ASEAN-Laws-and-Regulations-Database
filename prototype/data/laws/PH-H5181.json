@@ -1,7 +1,7 @@
 {
  "id": "PH-H5181",
  "title": {
-  "zh": null,
+  "zh": "将南三宝颜省唐马里亚诺马科斯市镇的名称变更为索米诺特市镇的法案",
   "en": "An Act Changing the Name of the Municipality of Don Mariano Marcos, Province of Zamboanga Del Sur, to Municipality of Sominot",
   "orig": "An Act Changing the Name of the Municipality of Don Mariano Marcos, Province of Zamboanga Del Sur, to Municipality of Sominot"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Municipality of Don Mariano Marcos, Province of Zamboanga Del Sur, to Municipality of Sominot",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

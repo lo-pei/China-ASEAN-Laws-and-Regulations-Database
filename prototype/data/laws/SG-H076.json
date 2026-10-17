@@ -1,7 +1,7 @@
 {
  "id": "SG-H076",
  "title": {
-  "zh": null,
+  "zh": "主动出行（除外车辆）命令 2018",
   "en": "Active Mobility (Excluded Vehicle) Order 2018",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. An e‑trishaw is excluded from the definition of “personal mobility device” or “PMD” in section 2(1) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Excluded Vehicle) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

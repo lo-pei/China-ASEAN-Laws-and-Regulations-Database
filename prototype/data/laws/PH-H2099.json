@@ -1,7 +1,7 @@
 {
  "id": "PH-H2099",
  "title": {
-  "zh": null,
+  "zh": "拨款5万比索用于1959年11月在菲律宾举行第十四届世界旅游大会，并用于购置与安装适当的会议设备、服务与用品",
   "en": "An Act to Appropriate the Sum of Fifty Thousand Pesos for the Holding of the XIVth World Congress on Tourism in the Philippines in November, Nineteen Hundred Fifty-Nine, and for the Acquisition and Installation of Adequate Conference Equipment, Services and Supplies",
   "orig": "An Act to Appropriate the Sum of Fifty Thousand Pesos for the Holding of the XIVth World Congress on Tourism in the Philippines in November, Nineteen Hundred Fifty-Nine, and for the Acquisition and Installation of Adequate Conference Equipment, Services and Supplies"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Appropriate the Sum of Fifty Thousand Pesos for the Holding of the XIVth World Congress on Tourism in the Philippines in November, Nineteen Hundred Fifty-Nine, and for the Acquisition and Installation of Adequate Conference Equipment, Services and Supplies",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

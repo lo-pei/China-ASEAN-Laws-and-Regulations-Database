@@ -1,7 +1,7 @@
 {
  "id": "PH-H255",
  "title": {
-  "zh": null,
+  "zh": "授权巴科洛德市填海海滩地带的法案",
   "en": "An Act to Authorize the Reclamation of Foreshore Lands by the City of Bacolod",
   "orig": "An Act to Authorize the Reclamation of Foreshore Lands by the City of Bacolod"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize the Reclamation of Foreshore Lands by the City of Bacolod",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

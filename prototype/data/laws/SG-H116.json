@@ -1,7 +1,7 @@
 {
  "id": "SG-H116",
  "title": {
-  "zh": null,
+  "zh": "主动出行法 2017",
   "en": "Active Mobility Act 2017",
   "orig": null
  },
@@ -1718,5 +1718,13 @@
     "en": "67A.—(1) Any regulation made in respect of the construction, equipment or accessories of bicycles, PABs, personal mobility devices and mobility vehicles for use on public paths may apply, adopt or incorporate by reference —\n(a)either wholly or partially;\n(b)with or without modification; or\n(c)either specifically or by reference,\nany matter contained in any code, standard, rule, requirement, specification or other document, as in force or published at a particular time or as in force or published from time to time, which relates to any matter that the regulation deals with.\n[38/2018]\n[Act 5 of 2026 wef 04/05/2026]\n(2) Any material applied, adopted or incorporated in any regulation by reference under subsection (1) is to be treated for all purposes as forming part of the regulation.\n[38/2018]\n(3) Unless otherwise provided in a regulation, every amendment to any material applied, adopted or incorporated by reference under subsection (1) that is made by the person or organisation originating the material is, subject to subsections (4) and (5), to be treated as being a part of that regulation.\n[38/2018]\n(4) Where any material referred to in subsection (1) is applied, adopted or incorporated by reference in any regulation, the Authority must give notice in the Gazette stating —\n(a)that the material is applied, adopted or incorporated in the regulation, and the date on which the relevant provision in the regulation was made;\n(b)that the material is available for inspection during working hours, free of charge;\n(c)the place where the material can be inspected;\n(d)that copies of the material can be purchased, and the place where the material can be purchased; and\n(e)if copies of the material are available in other ways, the details of where or how the material can be accessed or obtained.\n[38/2018]\n(5) In addition, the Authority must cause a copy of every material applied, adopted or incorporated in that regulation by reference under subsection (1), to be made available for inspection by members of the public without charge at any of its offices during normal office hours.\n[38/2018]\n(6) In this section, “modification” includes omissions, additions and substitutions.\n[38/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Active Mobility Act 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

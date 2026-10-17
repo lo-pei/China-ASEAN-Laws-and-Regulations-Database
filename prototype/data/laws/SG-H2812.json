@@ -1,7 +1,7 @@
 {
  "id": "SG-H2812",
  "title": {
-  "zh": null,
+  "zh": "保险（公司治理）条例 2013",
   "en": "Insurance (Corporate Governance) Regulations 2013",
   "orig": null
  },
@@ -534,5 +534,13 @@
     "en": "31.—(1) Subject to paragraphs (2) and (3), these Regulations, save for regulations 7(1)(b), 9, 11(1), 16(1), 17(1) and 18(1), shall not apply to any insurer who, immediately before 4th April 2013, is not a significant insurer under the Insurance (Corporate Governance) Regulations 2005 (G.N. No. S 584/2005) as in force immediately before 4th April 2013, in the period from 4th April 2013 to 4th May 2013 (both dates inclusive).\n(2) Regulation 7(1)(b)(i), 9, 11(1), 16(1), 17(1) or 18(1) shall not apply to any insurer who is a Tier 1 insurer on or after 4th April 2013, for the period from 4th April 2013 to the date being one day before the day on which the first annual general meeting of the insurer is held or required to be held for the year 2016 (both dates inclusive).\n(3) Regulation 7(1)(b)(ii) shall not apply to any insurer who is a Tier 2 insurer on or after 4th April 2013, for the period from 4th April 2013 to the date being one day before the day on which the first annual general meeting of the insurer is held or required to be held for the year 2016 (both dates inclusive)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insurance (Corporate Governance) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

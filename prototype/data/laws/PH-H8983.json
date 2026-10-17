@@ -1,7 +1,7 @@
 {
  "id": "PH-H8983",
  "title": {
-  "zh": null,
+  "zh": "国家电气化管理局法令",
   "en": "National Electrification Administration Decree",
   "orig": "An Act Strengthening the National Electrification Administration, Further Amending for the Purpose Presidential Decree No. 269, as Amended, Otherwise Known as the \"National Electrification Administration Decree\""
  },
@@ -275,5 +275,13 @@
     "en": "Effectivity. – This Act shall take effect on the fifteenth (15th) day following its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "National Electrification Administration Decree",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

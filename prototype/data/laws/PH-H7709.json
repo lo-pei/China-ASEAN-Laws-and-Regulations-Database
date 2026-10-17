@@ -1,7 +1,7 @@
 {
  "id": "PH-H7709",
  "title": {
-  "zh": null,
+  "zh": "理顺经修正的 1997 年国家国内税收法典关于文件印花税的规定并为其他目的法案",
   "en": "An act rationalizing the provisions on the documentary stamp tax of the National Internal Revenue Code of 1997, as amended. and for other purposes",
   "orig": "An act rationalizing the provisions on the documentary stamp tax of the National Internal Revenue Code of 1997, as amended. and for other purposes"
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act rationalizing the provisions on the documentary stamp tax of the National Internal Revenue Code of 1997, as amended. and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4527",
  "title": {
-  "zh": null,
+  "zh": "授予 T. P. Makcelo & Co., Inc. 在黎刹省 Navotas 市镇建设、运营和维护制冰厂与冷藏库并在黎刹省、马尼拉市及郊区销售冰和供应冷藏的特许权法案",
   "en": "An Act Granting T. P. Makcelo &amp; Co., Inc. a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the Municipality of Navotas, Province of Rizal, and to Sell Ice and to Supply Cold Storage Within the Said Province of Rizal and the City of Manila and Suburbs",
   "orig": "An Act Granting T. P. Makcelo &amp; Co., Inc. a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the Municipality of Navotas, Province of Rizal, and to Sell Ice and to Supply Cold Storage Within the Said Province of Rizal and the City of Manila and Suburbs"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting T. P. Makcelo &amp; Co., Inc. a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the Municipality of Navotas, Province of Rizal, and to Sell Ice and to Supply Cold Storage Within the Said Province of Rizal and the City of Manila and Suburbs",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

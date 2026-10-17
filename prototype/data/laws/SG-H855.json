@@ -1,7 +1,7 @@
 {
  "id": "SG-H855",
  "title": {
-  "zh": null,
+  "zh": "验尸官（程序进行）条例 2011",
   "en": "Coroners (Conduct of Proceedings) Regulations 2011",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Any of the following persons, at the direction of the Public Prosecutor, may assist a Coroner in the conduct of any inquiry or pre‑inquiry review:\n(a)a Deputy Public Prosecutor;\n(b)an Assistant Public Prosecutor;\n(c)a police officer of the rank of Senior Station Inspector or above.\n(2) A person assisting a Coroner under paragraph (1) may —\n(a)present the results of the investigation into the cause of and circumstances connected with the death;\n(b)tender any evidence relevant to the inquiry or pre‑inquiry review, including any investigation report, post‑mortem report, special examination report and conditioned statement;\n(c)question any witness at the inquiry or prepare any conditioned statement of the witness;\n(d)make an opening address or a closing address or both; and\n(e)assist the Coroner with such other matter necessary for the inquiry or pre‑inquiry review as the Coroner may direct."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Coroners (Conduct of Proceedings) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

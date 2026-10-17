@@ -1,7 +1,7 @@
 {
  "id": "SG-H2618",
  "title": {
-  "zh": null,
+  "zh": "资讯通信媒体发展局法 2016",
   "en": "Info-communications Media Development Authority Act 2016",
   "orig": null
  },
@@ -951,7 +951,7 @@
    "status": "repealed"
   },
   {
-   "id": "SG-H2618-A59",
+   "id": "SG-H2618-A59.000001",
    "no": 59.000001,
    "noLabel": {
     "en": "59."
@@ -1668,5 +1668,13 @@
     "en": "92.—(1) Every act done by or on behalf of the Former IDA (in relation to the transferring IDA function) or the Former MDA has effect as though it was done by or on behalf of the Authority, and remains in force until such time as the Authority invalidates, revokes, cancels or otherwise determines that act.\n(2) Where anything has been started by or on behalf of the Former IDA (in relation to the transferring IDA function) or the Former MDA before the transfer date, the Authority may carry on and complete that thing on or after that date."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Info-communications Media Development Authority Act 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

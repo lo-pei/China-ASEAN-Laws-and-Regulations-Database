@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-176-2000-BRETTON-WOODS-AGREEMENT-ACT",
  "title": {
-  "zh": null,
+  "zh": "布雷顿森林协定法",
   "en": "BRETTON WOODS AGREEMENT ACT",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "The International Bank for Reconstruction and Development shall be not to be a corporation within the meaning of the Companies Act (Chapter 39); and the provisions of the Act shall not, accordingly, apply to the issue by the Bank of any shares, debentures, bonds, notes or other securities. (Section10(2))\n\nPART A\n\nOF AGREEMENT OF THE INTERNATIONAL FUND VIII\n\nOBLIGATIONS OF MEMBERS SECTION 2. AVOIDANCE OF RESTRICTION ON CURRENT\n\n(a) Exchange contracts which involve the currency of any and which are contrary to the exchange control of that or with this Agreement shall be unenforceable in of any member. 8 Woods Agreement\n\nSTATUS,IMMUNITIES AND PRIVILEGES"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRETTON WOODS AGREEMENT ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

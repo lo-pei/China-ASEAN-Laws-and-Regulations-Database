@@ -1,7 +1,7 @@
 {
  "id": "SG-H3673",
  "title": {
-  "zh": null,
+  "zh": "圣莫尔修会法人化条例 1923",
   "en": "Society of Saint Maur Incorporation Ordinance 1923",
   "orig": null
  },
@@ -140,5 +140,13 @@
     "en": "8. Nothing in this Ordinance shall affect the rights of the Government or of any body politic or corporate or of any other persons except such as are mentioned in this Ordinance and those claiming by, through, from or under them.\n[7/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Society of Saint Maur Incorporation Ordinance 1923",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

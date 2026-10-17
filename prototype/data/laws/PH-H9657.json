@@ -1,7 +1,7 @@
 {
  "id": "PH-H9657",
  "title": {
-  "zh": null,
+  "zh": "授予 More Electric and Power Corporation 在伊洛伊洛市建设、运营和维护配电系统，向终端用户输电并确保特许经营区持续供电的特许经营权法案",
   "en": "An Act Granting More Electric and Power Corporation a Franchise to Establish, Operate, and Maintain, for Commercial Purposes and in the Public Interest, a Distribution System for the Conveyance of Electric Power to the End Users in the City of Iloilo, Province of Iloilo, and Ensuring the Continuous and Uninterrupted Supply of Electricity in the Franchise Area",
   "orig": "An Act Granting More Electric and Power Corporation a Franchise to Establish, Operate, and Maintain, for Commercial Purposes and in the Public Interest, a Distribution System for the Conveyance of Electric Power to the End Users in the City of Iloilo, Province of Iloilo, and Ensuring the Continuous and Uninterrupted Supply of Electricity in the Franchise Area"
  },
@@ -302,5 +302,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting More Electric and Power Corporation a Franchise to Establish, Operate, and Maintain, for Commercial Purposes and in the Public Interest, a Distribution System for the Conveyance of Electric Power to the End Users in the City of Iloilo, Province of Iloilo, and Ensuring the Continuous and Uninterrupted Supply of Electricity in the Franchise Area",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

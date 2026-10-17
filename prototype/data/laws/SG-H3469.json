@@ -1,7 +1,7 @@
 {
  "id": "SG-H3469",
  "title": {
-  "zh": null,
+  "zh": "停车场所（豁免）命令",
   "en": "Parking Places (Exemption) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Section 4(1) of the Act and the Parking Places (Licensing and Control of Private Parking Places for Heavy Vehicles) Rules (R 1) shall not apply to —\n(a)any school premises (not being land or premises owned or occupied by the Government) in respect only of the use of such premises for the parking of any school bus in conjunction with the overnight parking scheme for school buses administered by the Ministry of Education;\n(b)any depot for buses used for public transportation in respect only of the use of such depot for the parking of buses belonging to or under the control of the owner of such depot; and\n(c)any parking place owned by a statutory board in respect only of the use of such parking place for the parking of any heavy vehicle belonging to or under the control of the statutory board.\n(2) Rule 4(2) and (3) of the Parking Places (Licensing and Control of Private Parking Places for Heavy Vehicles) Rules (R 1) shall not apply in respect of —\n(a)any vacant land; or\n(b)any vacant space in the premises of any factory, warehouse, farm or other industrial premises or on any offshore island,\nwhich is used for the parking of any heavy vehicle.\n(3) For the purpose of sub-paragraph (1)(a), school bus includes any private hire bus used for the conveyance of school children pursuant to rule 51 of the Road Traffic (Public Service Vehicles) Rules (Cap. 276, R 14).\n[G.N. Nos. S 180/94; S 189/2005]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Parking Places (Exemption) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

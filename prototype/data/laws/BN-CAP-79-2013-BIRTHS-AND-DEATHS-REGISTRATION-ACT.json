@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-79-2013-BIRTHS-AND-DEATHS-REGISTRATION-ACT",
  "title": {
-  "zh": null,
+  "zh": "出生与死亡登记法",
   "en": "BIRTHS AND DEATHS REGISTRATION ACT",
   "orig": null
  },
@@ -304,5 +304,13 @@
     "en": "All fees taken under this Act shall be paid into the Treasury for the credit of the public revenue."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BIRTHS AND DEATHS REGISTRATION ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

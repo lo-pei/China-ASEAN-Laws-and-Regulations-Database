@@ -1,7 +1,7 @@
 {
  "id": "PH-H4320",
  "title": {
-  "zh": null,
+  "zh": "Bicol 大学宪章法案",
   "en": "The Charter of the Bicol University",
   "orig": "The Charter of the Bicol University An Act Establishing the Bicol University, Defining its Powers, Functions, and Duties, Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -240,5 +240,13 @@
     "en": "Effectivity. - This Act shall take effect upon its approval.\nApproved: June 21, 1969"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Charter of the Bicol University",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

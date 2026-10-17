@@ -1,7 +1,7 @@
 {
  "id": "SG-H2667",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 14 号）命令 2023",
   "en": "Infrastructure Protection (Protected Places) (No. 14) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nDirector,\nTP-STM\nWater Resources\nPte Ltd\nJURONG ISLAND DESALINATION PLANT\nAll that area comprised in part of Lot 2814K in Mukim No. 34 occupied by “JURONG ISLAND DESALINATION PLANT” containing an area of about 37,298.5 square metres and bounded approximately as follows:\nCommencing at a point 28,829.439 metres North and 9,337.681 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n28,829.439\n9,337.681\n28,804.006\n9,356.009\n28,769.515\n9,380.869\n28,751.233\n9,394.061\n28,741.014\n9,401.407\n28,734.119\n9,391.830\n28,718.772\n9,402.809\n28,721.785\n9,406.947\n28,696.611\n9,425.107\n28,673.949\n9,441.447\n28,655.675\n9,454.604\n28,604.854\n9,491.237\n28,602.720\n9,488.245\n28,585.935\n9,500.378\n28,572.938\n9,482.359\n28,564.187\n9,470.219\n28,552.489\n9,454.005\n28,562.445\n9,446.889\n28,554.461\n9,435.774\n28,556.897\n9,433.902\n28,555.714\n9,432.288\n28,552.248\n9,427.347\n28,547.504\n9,420.169\n28,547.337\n9,419.944\n28,563.500\n9,408.318\n28,563.258\n9,407.981\n28,592.850\n9,386.666\n28,594.503\n9,376.468\n28,570.638\n9,343.281\n28,607.476\n9,316.756\n28,743.725\n9,218.649\n28,761.456\n9,243.187\n28,778.936\n9,267.563\n28,796.438\n9,291.917\n28,813.987\n9,316.247\nto the point of commencement.\nThe boundaries of “JURONG ISLAND DESALINATION PLANT” are more particularly delineated in the Survey Plan No. WES/GAZ/164/22 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 14) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2677",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 16 号）命令 2025",
   "en": "Infrastructure Protection (Protected Places) (No. 16) Order 2025",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nChief Executive Officer,\nMediacorp Pte. Ltd.\nBUKIT BATOK TRANSMISSION CENTRE (BBTC)\nAll that area comprised in part of Lots 2992P and 3215V in Mukim No. 10 occupied by “BUKIT BATOK TRANSMISSION CENTRE (BBTC)” containing an area of about 13,646.6 square metres and bounded approximately as follows:\nCommencing at a point 7,214.9 metres North and 9,468 metres West of the Survey Department origin of coordinates, the boundaries run along successive lines of fences of the bearings and distances approximately as follows:\nBearing\nDistance in metres\n96° 11′\n2.5\n118° 50′\n2.7\n134° 14′\n3.0\n146° 43′\n3.0\n158° 17′\n3.0\n161° 32′\n3.1\n166° 05′\n3.0\n174° 05′\n23.8\n176° 16′\n30.1\n177° 08′\n52.1\n223° 53′\n48.3\n305° 28′\n5.6\n215° 30′\n12.2\n(partly along a gate)\n263° 51′\n37.6\n287° 45′\n21.1\n310° 19′\n13.9\n328° 56′\n16.9\n309° 57′\n13.7\n297° 56′\n16.4\n338° 45′\n11.5\n17° 31′\n16.5\n32° 15′\n13.7\n(partly along a gate)\n50° 29′\n13.7\n68° 28′\n16.3\n79° 11′\n14.6\n124° 45′\n13.5\n96° 55′\n2.7\n125° 08′\n11.6\n153° 04′\n2.9\n125° 46′\n7.7\n74° 42′\n20.7\n352° 01′\n15.1\n355° 58′\n9.0\n1° 00′\n8.7\n7° 06′\n8.5\n12° 43′\n5.5\n18° 19′\n5.3\n40° 07′\n1.9\n23° 09′\n21.3\n27° 32′\n5.5\n(to a pillar)\n295° 53′\n0.1\n(along a pillar)\n25° 53′\n0.5\n(along a pillar)\n115° 53′\n6.5\n(along a gate and pillar)\n42° 03′\n2.9\n51° 54′\n2.8\n65° 13′\n3.0\n85° 51′\n3.1\nto the point of commencement.\nThe boundaries of “BUKIT BATOK TRANSMISSION CENTRE (BBTC)” are more particularly delineated in the Survey Plan set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 16) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

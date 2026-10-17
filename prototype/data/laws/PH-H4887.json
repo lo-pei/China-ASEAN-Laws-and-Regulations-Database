@@ -1,7 +1,7 @@
 {
  "id": "PH-H4887",
  "title": {
-  "zh": null,
+  "zh": "陆路运输与交通法典",
   "en": "Land Transportation and Traffic Code.",
   "orig": "An Act Amending Republic Act Numbered Forty-One Hundred Thirty-Six, Known as the \"Land Transportation and Traffic Code.\""
  },
@@ -81,14 +81,15 @@
    }
   },
   {
-   "id": "PH-H4887-A4_2",
+   "id": "PH-H4887-A4-d2",
    "no": 4,
    "noLabel": {
     "en": "Section 4."
    },
    "text": {
     "en": "The incumbents of the positions at the time of the approval of this Act whose salaries are herein standardized shall automatically be entitled to the benefits hereof without the need of another appointment."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4887-A5",
@@ -110,5 +111,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 16, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Land Transportation and Traffic Code.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

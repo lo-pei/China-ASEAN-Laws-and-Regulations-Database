@@ -1,7 +1,7 @@
 {
  "id": "SG-H3349",
  "title": {
-  "zh": null,
+  "zh": "报章与印刷机（豁免——星洲日报（新加坡）有限公司）公告",
   "en": "Newspaper and Printing Presses (Exemption — Sin Chew Jit Poh (Singapore) Limited) Notification",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Until further notice, the Sin Chew Jit Poh (Singapore) Limited is exempted from section 9(3) and (5) of the Act so long as the number of management shares issued before the 11th October 1977 by the company does not fall below 41,500 shares."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Newspaper and Printing Presses (Exemption — Sin Chew Jit Poh (Singapore) Limited) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

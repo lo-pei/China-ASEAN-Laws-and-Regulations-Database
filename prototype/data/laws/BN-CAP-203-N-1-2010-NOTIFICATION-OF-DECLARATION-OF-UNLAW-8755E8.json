@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-203-N-1-2010-NOTIFICATION-OF-DECLARATION-OF-UNLAW-8755E8",
  "title": {
-  "zh": null,
+  "zh": "N 1 2010 版非法社团宣告公告",
   "en": "N 1 2010 ED NOTIFICATION OF DECLARATION OF UNLAWFUL SOCIETIES",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "SOCIETIES ACT (CHAPTER 203)\n\nNOTIFICATION OF DECLARATION OF\n\nUNLAWFUL SOCIETIES S 274/62 GN 190/91 GN 144/95\n\nREVISED EDITION 2010\n\nLAWS OF BRUNEI Societies CAP. 203, N 1 1 [Subsidiary]\n\nSUBSIDIARY LEGISLATION Notification of declaration of unlawful societies* The following societies have been declared to be unlawful societies — Party Ra’ayat, Brunei. [S 274/62] Jemaah Al Arqam. [GN 190/91] Jemaah of the followers of the teachings of Abdul Razak bin Haji Mohamad. [GN 144/95] * These notifications were made under section 9(1) of the repealed Societies Act (Chapter 66) but were saved by section 61(4) of the Societies Order, 2005 (S 1/05) which has been revised as the Societies Act (Chapter 203)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "N 1 2010 ED NOTIFICATION OF DECLARATION OF UNLAWFUL SOCIETIES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

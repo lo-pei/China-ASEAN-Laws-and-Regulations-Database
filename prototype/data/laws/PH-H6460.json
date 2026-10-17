@@ -1,7 +1,7 @@
 {
  "id": "PH-H6460",
  "title": {
-  "zh": null,
+  "zh": "将Silay市Capitan Ramon描笼涯的Dmlmhs分校分离出来，单独改设为独立的Capitan Ramon描笼涯国立中学，并为此拨付所需经费",
   "en": "An Act Separating the Dmlmhs-capitan Ramon Extension High School in Barangay Capitan Ramon, City of Silay, From the Doña Montserrat Lopez Memorial High School, Silay City, and Converting It Into An Independent National High School, to Be Known as the Barangay Capitan Ramon National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Dmlmhs-capitan Ramon Extension High School in Barangay Capitan Ramon, City of Silay, From the Doña Montserrat Lopez Memorial High School, Silay City, and Converting It Into An Independent National High School, to Be Known as the Barangay Capitan Ramon National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Dmlmhs-capitan Ramon Extension High School in Barangay Capitan Ramon, City of Silay, From the Doña Montserrat Lopez Memorial High School, Silay City, and Converting It Into An Independent National High School, to Be Known as the Barangay Capitan Ramon National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

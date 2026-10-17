@@ -1,7 +1,7 @@
 {
  "id": "SG-H3185",
  "title": {
-  "zh": null,
+  "zh": "商船（海事劳工公约）（海员就业协议、船员名单与海员遣散）条例 2014",
   "en": "Merchant Shipping (Maritime Labour Convention) (Seafarer’s Employment Agreement, Crew List and Discharge of Seafarers) Regulations 2014",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "8.—(1) Paragraphs (2), (3) and (4) shall apply where a seafarer is present when he is discharged.\n(2) The master, or one of the ship’s officers authorised by the master in that behalf, shall, before the seafarer is discharged —\n(a)where the seafarer produces the seafarer’s discharge book to him, record in it —\n(i)the name of the ship, its port of registry, gross or registered tonnage and official number;\n(ii)the description of the voyage;\n(iii)the capacity in which the seafarer has been employed in the ship and the date and place at which the seafarer began to be so employed; and\n(iv)the date and place of the seafarer’s discharge; or\n(b)where the seafarer does not produce the seafarer’s discharge book to him, give to the seafarer a certificate of discharge or other record of employment, containing the particulars referred to in sub-paragraph (a).\n(3) The master shall ensure that the seafarer is discharged in the presence of —\n(a)the master himself;\n(b)the shipowner; or\n(c)a person authorised in that behalf by the master or shipowner.\n(4) The person referred to in paragraph (3) in whose presence the seafarer is discharged, shall make and sign an entry in the official log book recording the place, date and time of the seafarer’s discharge.\n(5) Where a seafarer is not present when he is discharged, the master, or a person authorised in that behalf by the master, shall make the entries referred to in paragraph (4).\n(6) No person shall make an entry in a discharge book or a certificate of discharge any statement as to the quality of the seafarer’s work or indicating whether the seafarer has fully discharged his obligations under his contract of employment."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Maritime Labour Convention) (Seafarer’s Employment Agreement, Crew List and Discharge of Seafarers) Regulations 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

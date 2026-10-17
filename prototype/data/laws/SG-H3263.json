@@ -1,7 +1,7 @@
 {
  "id": "SG-H3263",
  "title": {
-  "zh": null,
+  "zh": "多式联运（东盟成员国）公告 2021",
   "en": "Multimodal Transport (ASEAN Member Country) Notification 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister declares the following countries as having ratified or acceded to the ASEAN Framework Agreement on Multimodal Transport:\n(a)Kingdom of Cambodia;\n(b)Kingdom of Thailand;\n(c)Lao People’s Democratic Republic;\n(d)Republic of Indonesia;\n(e)Republic of the Philippines;\n(f)Socialist Republic of Vietnam;\n(g)Union of Myanmar."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Multimodal Transport (ASEAN Member Country) Notification 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

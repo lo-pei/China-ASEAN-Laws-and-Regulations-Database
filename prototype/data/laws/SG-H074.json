@@ -1,7 +1,7 @@
 {
  "id": "SG-H074",
  "title": {
-  "zh": null,
+  "zh": "主动出行（执法）条例 2018",
   "en": "Active Mobility (Enforcement) Regulations 2018",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Section 54 of the Act applies to the following offences:\n(a)an offence under the Act;\n(b)an offence under the Active Mobility (Dealing in Personal Mobility Devices and Mobility Vehicles) Regulations 2018 (G.N. No. S 243/2018);\n[S 71/2019 wef 01/02/2019]\n(c)an offence under regulation 14 of the Active Mobility Regulations 2018 (G.N. No. S 251/2018);\n(d)an offence under the Active Mobility (Registration of Registrable Personal Mobility Devices) Regulations 2019 (G.N. No. S 13/2019).\n[S 14/2019 wef 02/01/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Enforcement) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

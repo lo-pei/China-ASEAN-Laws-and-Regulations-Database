@@ -1,7 +1,7 @@
 {
  "id": "SG-H3001",
  "title": {
-  "zh": null,
+  "zh": "法律专业（防止洗钱、资助恐怖主义与扩散融资）规则 2015",
   "en": "Legal Profession (Prevention of Money Laundering, Financing of Terrorism and Proliferation Financing) Rules 2015",
   "orig": null
  },
@@ -550,5 +550,13 @@
     "en": "30. Anything done by the Council, or by a member of the Council, under rule 11I of the Legal Profession (Professional Conduct) Rules (R 1) as in force immediately before 23 May 2015 is, on and after that date, to be treated as done under section 70F of the Act read with rule 26."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Prevention of Money Laundering, Financing of Terrorism and Proliferation Financing) Rules 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

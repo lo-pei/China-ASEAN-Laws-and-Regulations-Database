@@ -1,7 +1,7 @@
 {
  "id": "SG-H2016",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（合并）命令",
   "en": "Income Tax (Exemption of Foreign Income) (Consolidation) Order",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Income Tax Act\n(Chapter 134, Section 13(7))\nIncome Tax (Exemption of Foreign Income) (Consolidation) Order\nO 36\nG.N. No. S 31/1994\nREVISED EDITION 1995\n(1st April 1995)\nThe following companies are hereby granted exemption from tax on the income received in Singapore from a country outside Singapore, subject to the terms and conditions specified in the letters of approval addressed to the respective companies:\nCompany\nDate of Letter of Approval\n(1) Reda Pump Company (S) Pte Ltd\n24th May 1993.\n(2) Keppel-UAE Investment Ltd and Keppel Corporation Limited\n6th July 1993.\n(3) Natsteel Equity V Pte Ltd\n20th July 1993.\n(4) AMS Precision Engineering Pte Ltd\n16th September 1993.\n(5) Finlayson Fund Investments\n11th October 1993.\n(6) P.L. International (Pte) Ltd\n30th September 1993.\n(7) Havelock Investments Pte Ltd\n11th October 1993 and 4th January 1994.\n(8) Seletar Investments Pte Ltd\n4th January 1994.\n(9) Cambodiana Investment (S) Pte Ltd\n14th April 1994.\n(10) Havelock Investments Pte. Ltd.\n16th May 1994.\n(11) Singapore Telecom International Pte. Ltd.\n20th June 1994.\n[S 31/94]\n[21.1.94]\n[S 323/94]\n[19.8.94]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (Consolidation) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

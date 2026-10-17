@@ -1,7 +1,7 @@
 {
  "id": "BN-S-17-2003-E-UNIVERSITI-BRUNEI-DARUSSALAM-ACT-AMENDMEN-A09951",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰大学法修正命令 2003",
   "en": "UNIVERSITI BRUNEI DARUSSALAM ACT AMENDMENT ORDER 2003",
   "orig": null
  },
@@ -61,5 +61,13 @@
     "en": "The Schedule to the Universiti Brunei Darussalam Act is amended by repealing subsection ( 1 》 of section 44 and by substituting the following n ew subsection therefor \" ( , The accounts of the University shall be audited annually by — ( 可 the Auditor General; or ( b ) a ny person who has been authorised to perform the duties required by the Companies Act (Chapter 39 ) to be performed by an auditor, who shall be appointed annually by CounciI: Provided that where the accounts of the University have been audited by a person appointed under paragraph (b ) , they m ay be verified by the Auditor General before they are presented to the Minister of Finance pursuant to subsection ( 2 是 Made this 21st. day of Muharam , 1424 Hijriah corresponding to the 24th. day of Marchj 2003 at Our lstana Nurul lman, Bandar Seri Begawanj Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh AWANG MOHIDIN BIN HAJI DAUD, Pemangku ngara h Percetakan, di Jabatan Percetakan KeraJ aan , Bandar Seri Be gaw an BB3510 , Negara Brunei Darussalam. Harga B $ 5 · oo"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "UNIVERSITI BRUNEI DARUSSALAM ACT AMENDMENT ORDER 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

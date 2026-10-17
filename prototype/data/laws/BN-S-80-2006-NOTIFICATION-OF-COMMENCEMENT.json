@@ -1,7 +1,7 @@
 {
  "id": "BN-S-80-2006-NOTIFICATION-OF-COMMENCEMENT",
  "title": {
-  "zh": null,
+  "zh": "生效公告",
   "en": "NOTIFICATION OF COMMENCEMENT",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "12th. DECEMBER, 2012 No. S 80\n\nSMALL CLAIMS TRIBUNALS ORDER, 2006 IS 81/2006) Notification of commencement In exercise of the power conferred by section 1 ( 1), the Chief Justice, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints the 1st day of January 2012 as the date on which the Small Claims Tribunals Order, 2006 shall commence. Made this 20th. day of Muharram, 1434 Hijriah corresponding to the 4th. day of December, 2012.\n\nDATO SERI PADUKA A WANG HAJI KIFRAWI\n\nBIN DATO PADUKA HAJI KIFLI Chief Justice, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2604",
  "title": {
-  "zh": null,
+  "zh": "传染病（疫区）公告 2004",
   "en": "Infectious Diseases (Infected Areas) Notification 2004",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nInfected Areas\nFirst column\nCountries\nSecond column\nInfected Areas\nThird column\nDiseases\n1.Angola\nAngola\nYellow Fever\n2.Argentina\nArgentina\nYellow Fever\n3.Benin\nBenin\nYellow Fever\n4.Bolivia, Plurinational (State of)\n(a)Bolivia, Plurinational (State of)\nYellow Fever\n(b)Franz Tamayo Province\nPlague\n(c)Sud Yungas Province\nPlague\n(d)Valle Grande Province\nPlague\n5.Brazil\n(a)Brazil\nYellow Fever\n(b)Bahia State\nPlague\n(c)Paraiba State\nPlague\n6.Burkina Faso\nBurkina Faso\nYellow Fever\n7.Burundi\nBurundi\nYellow Fever\n8.Cameroon\nCameroon\nYellow Fever\n9.Deleted by S 438/2007 wef 03/09/2007\n10.Central African Republic\nCentral African Republic\nYellow Fever\n11.Chad\nChad\nYellow Fever\n12.Colombia\nColombia\nYellow Fever\n13.Congo\nCongo\nYellow Fever\n14.Cote d’Ivoire\nCote d’Ivoire\nYellow Fever\n15.Democratic Republic of Congo\n(a)Democratic Republic of Congo\nYellow Fever\n(b)Haut Zaire Province\nPlague\n(c)Ituri Sub-Region\nPlague\n16.Ecuador\n(a)Ecuador\nYellow Fever\n(b)Chimborazo Province\nPlague\n17.Equatorial Guinea\nEquatorial Guinea\nYellow Fever\n18.Ethiopia\nEthiopia\nYellow Fever\n19.French Guiana (formerly known as French Guyana)\nFrench Guiana (formerly known as French Guyana)\nYellow Fever\n20.Gabon\nGabon\nYellow Fever\n21.Gambia\nGambia\nYellow Fever\n22.Ghana\nGhana\nYellow Fever\n23.Guinea\nGuinea\nYellow Fever\n24.Guinea - Bissau\nGuinea – Bissau\nYellow Fever\n25.Guyana\nGuyana\nYellow Fever\n26.Kenya\nKenya\nYellow Fever\n27.Liberia\nLiberia\nYellow Fever\n28.Madagascar\n(a)Antananarivo Province\nPlague\n(b)Antsiranana Province\nPlague\n(c)Fianarantsoa Province\nPlague\n(d)Mahajanga Province\nPlague\n(e)Toamasina Province\nPlague\n29.Malawi\nSouthern Region\nPlague\n30.Mali\nMali\nYellow Fever\n31.Mauritania\nMauritania\nYellow Fever\n32.Mozambique\n(a)Tete Province\nPlague\n(b)Zambezia Province\nPlague\n33.Namibia\nOhangwena Region\nPlague\n34.Niger\nNiger\nYellow Fever\n35.Nigeria\nNigeria\nYellow Fever\n36.Panama\nPanama\nYellow Fever\n37.Paraguay\nParaguay\nYellow Fever\n38.Peru\n(a)Peru\nYellow Fever\n(b)Chota Province\nPlague\n(c)San Miguel Province\nPlague\n(d)San Pablo Province\nPlague\n(e)Ayabaca Province\nPlague\n(f)Huancabamba Province\nPlague\n(g)Piura Province\nPlague\n39.Deleted by S 37/2017 wef 26/01/2017\n40.Deleted by S 760/2010 wef 01/01/2011\n41.Senegal\nSenegal\nYellow Fever\n42.Sierra Leone\nSierra Leone\nYellow Fever\n43.South Sudan\nSouth Sudan\nYellow Fever\n44.Sudan\nSudan\nYellow Fever\n45.Suriname\nSuriname\nYellow Fever\n46.Togo\nTogo\nYellow Fever\n47.Trinidad and Tobago\nTrinidad and Tobago\nYellow Fever.\n48.Uganda\n(a)Uganda\nYellow Fever\n(b)Western Region\nPlague\n(c)Northern Region\nPlague\n49.United Republic of Tanzania\n(a)Deleted by S 760/2010 wef 01/01/2011\n(b)Tanga Region\nPlague\n50.Venezuela (Bolivarian Republic of)\nVenezuela (Bolivarian Republic of)\nYellow Fever\n51.Vietnam\n(a)Gia-Lai Province\nPlague\n(b)Cong Tum Province\nPlague\n(c)Lam Dong Province\nPlague\n(d)Phu Khan Province\nPlague\n52.Zambia\nSouthern Province\nPlague\n53.Zimbabwe\nMatabeleland North\nPlague.\n[S 37/2017 wef 26/01/2017]\n[S 38/2016 wef 26/01/2016]\n[S 392/2008 wef 06/08/2008]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infectious Diseases (Infected Areas) Notification 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

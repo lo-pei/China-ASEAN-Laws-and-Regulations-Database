@@ -1,7 +1,7 @@
 {
  "id": "PH-H2907",
  "title": {
-  "zh": null,
+  "zh": "规定建设与安装以美国政府援助购置的灌溉水泵的国家政策，授权灌溉服务处仅向受益农民收取水泵、发动机、配件成本与抵消税，并为其他目的法案",
   "en": "An Act Prescribing the National Policy on the Construction and Installation of Irrigation Pumps Acquired with the Assistance of the Government of the United States of America, Authorizing the Irrigation Service Unit to Charge Farmer-Beneficiaries Only the Cost of Pumps, Engines, Accessories and Compensating Tax, and for Other Purposes",
   "orig": "An Act Prescribing the National Policy on the Construction and Installation of Irrigation Pumps Acquired with the Assistance of the Government of the United States of America, Authorizing the Irrigation Service Unit to Charge Farmer-Beneficiaries Only the Cost of Pumps, Engines, Accessories and Compensating Tax, and for Other Purposes"
  },
@@ -111,5 +111,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1962."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prescribing the National Policy on the Construction and Installation of Irrigation Pumps Acquired with the Assistance of the Government of the United States of America, Authorizing the Irrigation Service Unit to Charge Farmer-Beneficiaries Only the Cost of Pumps, Engines, Accessories and Compensating Tax, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

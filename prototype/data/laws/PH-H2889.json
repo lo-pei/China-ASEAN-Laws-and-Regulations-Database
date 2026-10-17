@@ -1,7 +1,7 @@
 {
  "id": "PH-H2889",
  "title": {
-  "zh": null,
+  "zh": "修订第2616号共和国法（题为“规定征收奎松市Tatalon庄园、按成本向现有真正占有人出售地块并为此拨款1000万比索”）第4条",
   "en": "An Act Amending Section Four of Republic Act Numbered Twenty-Six Hundred Sixteen, Entitled “An Act Providing for the Expropriation of the Tatalon Estate in Quezon City, and for the Sale, at Cost, of the Lots Therein to the Present Bona Fide Occupants, and Authorizing the Appropriation of Ten Million Pesos for the Purpose”",
   "orig": "An Act Amending Section Four of Republic Act Numbered Twenty-Six Hundred Sixteen, Entitled “An Act Providing for the Expropriation of the Tatalon Estate in Quezon City, and for the Sale, at Cost, of the Lots Therein to the Present Bona Fide Occupants, and Authorizing the Appropriation of Ten Million Pesos for the Purpose”"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1962."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Four of Republic Act Numbered Twenty-Six Hundred Sixteen, Entitled “An Act Providing for the Expropriation of the Tatalon Estate in Quezon City, and for the Sale, at Cost, of the Lots Therein to the Present Bona Fide Occupants, and Authorizing the Appropriation of Ten Million Pesos for the Purpose”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

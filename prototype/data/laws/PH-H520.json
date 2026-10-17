@@ -1,7 +1,7 @@
 {
  "id": "PH-H520",
  "title": {
-  "zh": null,
+  "zh": "确保菲律宾硬币与货币价值统一的法案",
   "en": "An Act to Assure Uniform Value to Philippine Coin and Currency",
   "orig": "An Act to Assure Uniform Value to Philippine Coin and Currency"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Assure Uniform Value to Philippine Coin and Currency",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3381",
  "title": {
-  "zh": null,
+  "zh": "网络刑事危害（复议申请与上诉费用）条例 2024",
   "en": "Online Criminal Harms (Reconsideration Application and Appeal Fee) Regulations 2024",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9.—(1) A fee of $200 is prescribed for each appeal to the Reviewing Tribunal under section 18 or 37 of the Act.\n(2) The Secretary to the Reviewing Tribunals may, in any case, on any terms and conditions that the Secretary considers fit, reduce, waive or refund, in whole or part, the administrative fee prescribed under paragraph (1) and payable under rule 12(b) of the Online Criminal Harms (Reviewing Tribunals) Rules 2024 (G.N. No. S 43/2024)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Online Criminal Harms (Reconsideration Application and Appeal Fee) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

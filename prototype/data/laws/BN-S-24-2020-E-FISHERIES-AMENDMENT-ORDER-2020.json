@@ -1,7 +1,7 @@
 {
  "id": "BN-S-24-2020-E-FISHERIES-AMENDMENT-ORDER-2020",
  "title": {
-  "zh": null,
+  "zh": "渔业修正命令 2020",
   "en": "FISHERIES AMENDMENT ORDER 2020",
   "orig": null
  },
@@ -66,5 +66,13 @@
     "en": "31 of the Fisheries Order, 2009 is amended - {a) in subsection (1) -\n\n(i) in paragraph (b) -\n\n(A) by deleting \"carries or has in his possession or under his the first line and by substituting \"is found in possession of\" therefor;\n\n(B) by deleting \"or\" from the last line;\n\n(ii) by inserting the following new paragraph immediately after {b) - \"(ba) is found in possession of fish which has been captured with the aid of any explosive or poisonous substance and who does not give a satisfactory account as to how he came to be in possession\n\n(iii) in paragraph (c), by deleting \"or receives, any\" from the first line; {b) in subsection (2), by deleting \"or under the control\" from the third line. Made this lOth. day of Sya'aban, 1441 Hijriah corresponding to the 4th. day of April, 2020 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN, DARUSSALAM. = oleh Print Plus Sdn Bhd., Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "FISHERIES AMENDMENT ORDER 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

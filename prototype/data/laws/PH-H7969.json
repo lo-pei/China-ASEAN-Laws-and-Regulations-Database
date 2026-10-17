@@ -1,7 +1,7 @@
 {
  "id": "PH-H7969",
  "title": {
-  "zh": null,
+  "zh": "2008 年 Barangay 生计与技能法案",
   "en": "Barangay Livelihood and Skills Act of 2008",
   "orig": "Barangay Livelihood and Skills Act of 2008 An Act Establishing Livelihood and Skills Training Centers in Fourth, Fifth and Sixth Class Municipalities and for other purposes"
  },
@@ -180,5 +180,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Barangay Livelihood and Skills Act of 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1088",
  "title": {
-  "zh": null,
+  "zh": "债务人法 1934",
   "en": "Debtors Act 1934",
   "orig": null
  },
@@ -464,5 +464,13 @@
     "en": "27. Any person shall in each of the following cases be guilty of an offence and be punished with imprisonment, which may extend to one year, or with fine or with both:\n(a)if in incurring any debt or liability he has obtained credit under false pretences or by means of any other fraud;\n(b)if he has, with intent to defraud his creditors or any of them, made or caused to be made any gift, delivery or transfer of or any charge on his property;\n(c)if he has, with intent to defraud his creditors or any of them, concealed or removed any part of his property since or within 2 months before the date of any unsatisfied judgment or order for payment of money obtained against him."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Debtors Act 1934",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

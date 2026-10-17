@@ -1,7 +1,7 @@
 {
  "id": "PH-H2568",
  "title": {
-  "zh": null,
+  "zh": "将邦阿西楠省巴亚姆邦市镇帕拉戈斯社区学校的名称变更为帕拉戈斯-圣加布里埃尔第二社区学校的法案",
   "en": "An Act Changing the Name of Paragos Community School in the Municipality of Bayambang, Province of Pangasinan, to Paragos-San Gabriel II Community School",
   "orig": "An Act Changing the Name of Paragos Community School in the Municipality of Bayambang, Province of Pangasinan, to Paragos-San Gabriel II Community School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Paragos Community School in the Municipality of Bayambang, Province of Pangasinan, to Paragos-San Gabriel II Community School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

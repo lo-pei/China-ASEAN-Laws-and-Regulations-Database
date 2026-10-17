@@ -1,7 +1,7 @@
 {
  "id": "SG-H1066",
  "title": {
-  "zh": null,
+  "zh": "关税（零售食品场所——豁免）命令 2022",
   "en": "Customs (Retail Food Establishments — Exemption) Order 2022",
   "orig": null
  },
@@ -88,5 +88,13 @@
     "en": "4. Sections 66(1) and 67(1) of the Act do not apply to a person in respect of the bottling, blending, compounding or varying of any intoxicating liquor by that person at a retail food establishment, if —\n(a)all customs duty and excise duty payable on the intoxicating liquor are paid before the bottling, blending, compounding or varying of the intoxicating liquor; and\n(b)the intoxicating liquor is bottled, blended, compounded or varied for sale by retail to any customer who acquires the intoxicating liquor for any purpose other than the sale of that intoxicating liquor to another person, whether or not the intoxicating liquor —\n(i)is delivered to the customer through another person;\n(ii)is delivered to the customer at the retail food establishment or elsewhere; or\n(iii)is consumed at the retail food establishment or elsewhere."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Retail Food Establishments — Exemption) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

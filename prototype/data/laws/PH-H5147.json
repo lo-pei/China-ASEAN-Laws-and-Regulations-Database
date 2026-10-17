@@ -1,7 +1,7 @@
 {
  "id": "PH-H5147",
  "title": {
-  "zh": null,
+  "zh": "授予国会议员免费邮递特权的法案",
   "en": "An Act to Grant the Franking Privilege to the Members of Congress",
   "orig": "An Act to Grant the Franking Privilege to the Members of Congress"
  },
@@ -100,5 +100,13 @@
     "en": "This act shall take effect immediately upon approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Grant the Franking Privilege to the Members of Congress",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

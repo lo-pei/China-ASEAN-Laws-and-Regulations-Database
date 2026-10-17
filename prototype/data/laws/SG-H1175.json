@@ -1,7 +1,7 @@
 {
  "id": "SG-H1175",
  "title": {
-  "zh": null,
+  "zh": "外交与领事关系（国际货币基金组织）命令 2008",
   "en": "Diplomatic and Consular Relations (International Monetary Fund) Order 2008",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. The Fund enjoys and has in relation to the Resident Representative Office, in addition to its immunities and privileges under the International Organisations (Immunities and Privileges) (International Monetary Fund) Order 2008 —\n(a)freedom from censorship for the official communications of the Resident Representative Office;\n(b)the right to use codes; and\n(c)the right to send and receive correspondence by courier or in a bag, such courier to enjoy the same inviolability as a diplomatic courier, and such bag to have the same status as a diplomatic bag, under Article 27 of the Vienna Convention on Diplomatic Relations."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Diplomatic and Consular Relations (International Monetary Fund) Order 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

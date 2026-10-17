@@ -1,7 +1,7 @@
 {
  "id": "PH-H9158",
  "title": {
-  "zh": null,
+  "zh": "加强投资促进机构管理的税收激励在管理与核算方面的透明度",
   "en": "An Act Enhancing Transparency in the Management and Accounting of Tax Incentives Administered By Investment Promotion Agencies",
   "orig": "An Act Enhancing Transparency in the Management and Accounting of Tax Incentives Administered By Investment Promotion Agencies"
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its complete publication either in the Official Gazette or in at least one (1) newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Enhancing Transparency in the Management and Accounting of Tax Incentives Administered By Investment Promotion Agencies",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

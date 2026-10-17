@@ -1,7 +1,7 @@
 {
  "id": "PH-H10223",
  "title": {
-  "zh": null,
+  "zh": "将西达沃省 Malita 市镇 Datu Danwata 描笼涯的 Datu Danwata 小学的 Agik-Ik 分校分离，改设为独立的同名小学，并为此拨付所需经费",
   "en": "An Act Separating the Datu Danwata Elementary School \\endash Agik-Ik Extension in Barangay Datu Danwata, Municipality of Malita, Province of Davao Occidental From the Datu Danwata Elementary School, Converting It Into An Independent Elementary School to Be Known as the Agik-Ik Elementary School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Datu Danwata Elementary School \\endash Agik-Ik Extension in Barangay Datu Danwata, Municipality of Malita, Province of Davao Occidental From the Datu Danwata Elementary School, Converting It Into An Independent Elementary School to Be Known as the Agik-Ik Elementary School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Datu Danwata Elementary School \\endash Agik-Ik Extension in Barangay Datu Danwata, Municipality of Malita, Province of Davao Occidental From the Datu Danwata Elementary School, Converting It Into An Independent Elementary School to Be Known as the Agik-Ik Elementary School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

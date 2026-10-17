@@ -1,7 +1,7 @@
 {
  "id": "PH-H2708",
  "title": {
-  "zh": null,
+  "zh": "将 Cagayan 省 Piat 的 Cagayan 国立农业学校改设为 Itawes 农学院，开设农业与家政学士及硕士学位课程，规定董事会及其职责并为其他目的法案",
   "en": "An Act Converting the Present Cagayan National Agricultural School at Piat, Cagayan, into a College to be Known as the Itawes Agricultural College, Conferring the Title of Associate in Agricultural Education, the Degrees of Bachelor of Science in Agricultural Education, Bachelor of Science in Agricultural Engineering, and Bachelor of Science in Home Economics; and Post Graduate Courses Leading to the Degrees of Master of Science in Agricultural Education, Master of Science in Agricultural Engineering and Master of Science in Home Economics, Providing for a Board of Trustees, Defining the Board’s Responsibilities and Duties, Providing Professional and Technical Instruction, and for Other Purposes",
   "orig": "An Act Converting the Present Cagayan National Agricultural School at Piat, Cagayan, into a College to be Known as the Itawes Agricultural College, Conferring the Title of Associate in Agricultural Education, the Degrees of Bachelor of Science in Agricultural Education, Bachelor of Science in Agricultural Engineering, and Bachelor of Science in Home Economics; and Post Graduate Courses Leading to the Degrees of Master of Science in Agricultural Education, Master of Science in Agricultural Engineering and Master of Science in Home Economics, Providing for a Board of Trustees, Defining the Board’s Responsibilities and Duties, Providing Professional and Technical Instruction, and for Other Purposes"
  },
@@ -211,5 +211,13 @@
     "en": "This Act shall take effect upon it approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Present Cagayan National Agricultural School at Piat, Cagayan, into a College to be Known as the Itawes Agricultural College, Conferring the Title of Associate in Agricultural Education, the Degrees of Bachelor of Science in Agricultural Education, Bachelor of Science in Agricultural Engineering, and Bachelor of Science in Home Economics; and Post Graduate Courses Leading to the Degrees of Master of Science in Agricultural Education, Master of Science in Agricultural Engineering and Master of Science in Home Economics, Providing for a Board of Trustees, Defining the Board’s Responsibilities and Duties, Providing Professional and Technical Instruction, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

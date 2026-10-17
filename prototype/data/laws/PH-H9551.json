@@ -1,7 +1,7 @@
 {
  "id": "PH-H9551",
  "title": {
-  "zh": null,
+  "zh": "宣布菲律宾手语为菲律宾聋人国家手语及政府涉聋事务的官方手语，并规定在学校、广播媒体与工作场所使用",
   "en": "An Act Declaring the Filipino Sign Language as the National Sign Language of the Filipino Deaf and the Official Sign Language of Government in All Transactions Involving the Deaf, and Mandating Its Use in Schools, Broadcast Media, and Workplaces",
   "orig": "An Act Declaring the Filipino Sign Language as the National Sign Language of the Filipino Deaf and the Official Sign Language of Government in All Transactions Involving the Deaf, and Mandating Its Use in Schools, Broadcast Media, and Workplaces"
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity Date. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in one (1) newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the Filipino Sign Language as the National Sign Language of the Filipino Deaf and the Official Sign Language of Government in All Transactions Involving the Deaf, and Mandating Its Use in Schools, Broadcast Media, and Workplaces",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

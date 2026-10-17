@@ -1,7 +1,7 @@
 {
  "id": "SG-H2779",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（破产执业人员）条例 2020",
   "en": "Insolvency, Restructuring and Dissolution (Insolvency Practitioners) Regulations 2020",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9. The appellant may at any time, before the Minister confirms, varies or reverses the decision or order of the licensing officer on appeal, withdraw the appeal by lodging with the licensing officer a written notice to that effect."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insolvency, Restructuring and Dissolution (Insolvency Practitioners) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

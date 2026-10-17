@@ -1,7 +1,7 @@
 {
  "id": "PH-H9091",
  "title": {
-  "zh": null,
+  "zh": "要求电信服务提供商在自然灾害与人为灾害发生时发送免费手机警报的法案",
   "en": "An Act Mandating the Telecommunications Service Providers to Send Free Mobile Alerts in the Event of Natural and Man-Made Disasters and Calamities",
   "orig": "An Act Mandating the Telecommunications Service Providers to Send Free Mobile Alerts in the Event of Natural and Man-Made Disasters and Calamities"
  },
@@ -141,5 +141,13 @@
     "en": "Effectivity Clause. – This Act shall take effect immediately after its complete publication either in the Official Gazette or in a newspaper of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Mandating the Telecommunications Service Providers to Send Free Mobile Alerts in the Event of Natural and Man-Made Disasters and Calamities",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

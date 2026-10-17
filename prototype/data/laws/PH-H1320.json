@@ -1,7 +1,7 @@
 {
  "id": "PH-H1320",
  "title": {
-  "zh": null,
+  "zh": "修订第1411号共和国法第\"f,\" Section 2款宿务省第17款第I组第（b）项的法案",
   "en": "An Act Amending Item (b), Group I, Paragraph Seventeen, for the Province of Cebu, Subsection “f,” Section Two of Republic Act Numbered Fourteen Hundred Eleven",
   "orig": "An Act Amending Item (b), Group I, Paragraph Seventeen, for the Province of Cebu, Subsection “f,” Section Two of Republic Act Numbered Fourteen Hundred Eleven"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Item (b), Group I, Paragraph Seventeen, for the Province of Cebu, Subsection “f,” Section Two of Republic Act Numbered Fourteen Hundred Eleven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

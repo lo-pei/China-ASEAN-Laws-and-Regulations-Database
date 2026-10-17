@@ -1,7 +1,7 @@
 {
  "id": "SG-H2849",
  "title": {
-  "zh": null,
+  "zh": "航空器设备国际权益条例 2026",
   "en": "International Interests in Aircraft Equipment Regulations 2026",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nRegulation 3(3)(c)\nFees\nApplication to record IDERA\n1. The fee for an application to record an IDERA in respect of an aircraft is $2,441.60.\nApplication to record CDCL\n2. The fee for an application to record a CDCL in respect of an aircraft is $2,441.60."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "International Interests in Aircraft Equipment Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

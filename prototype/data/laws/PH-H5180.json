@@ -1,7 +1,7 @@
 {
  "id": "PH-H5180",
  "title": {
-  "zh": null,
+  "zh": "规定政府雇员提前退休、自愿离职及政府重组中非自愿离职的福利、为此拨款并为其他目的法案",
   "en": "An Act Providing Benefits for Early Retirement and Voluntary Separation from the Government Service, as well as Involuntary Separation of Civil Service Officers and Employees Pursuant to Various Executive Orders Authorizing Government Reorganization After the Ratification of the 1987 Constitution Appropriating Funds Therefore, and for other purposes",
   "orig": "An Act Providing Benefits for Early Retirement and Voluntary Separation from the Government Service, as well as Involuntary Separation of Civil Service Officers and Employees Pursuant to Various Executive Orders Authorizing Government Reorganization After the Ratification of the 1987 Constitution Appropriating Funds Therefore, and for other purposes"
  },
@@ -211,5 +211,13 @@
     "en": "Effectivity. - This Act shall take effect upon publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing Benefits for Early Retirement and Voluntary Separation from the Government Service, as well as Involuntary Separation of Civil Service Officers and Employees Pursuant to Various Executive Orders Authorizing Government Reorganization After the Ratification of the 1987 Constitution Appropriating Funds Therefore, and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

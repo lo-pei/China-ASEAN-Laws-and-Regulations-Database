@@ -1,7 +1,7 @@
 {
  "id": "SG-H1139",
  "title": {
-  "zh": null,
+  "zh": "牙科注册条例",
   "en": "Dental Registration Regulations",
   "orig": null
  },
@@ -1092,5 +1092,13 @@
     "en": "FOURTH SCHEDULE\nRegulation 40A\nPART i\nPRESCRIBED SCOPE OF PRACTICE FOR REGISTRATION ORAL HEALTH THERAPISTS WITH QUALIFICATIONS UNDER SECTION 21(1)(a) OR (2)(a) OF ACT\n1. Cleaning and polishing of teeth.\n2. Scaling of teeth.\n3. Root planing of teeth.\n4. Application to the teeth of solutions of sodium or stannous fluoride or such other similar prophylactic solutions as the Council may, from time to time, determine.\n5. Application of fissure sealants.\n6. Application of rubber dam.\n7. Extraction of primary teeth of persons of 18 years of age or younger.\n8. Restoration of teeth of persons of 18 years of age or younger using direct restorative materials.\n9. Exposure of radiographic films intraorally or extraorally for the investigation of lesions of the mouth, jaws, teeth and associated structures.\n10. Usage of infiltration anaesthesia in procedures such as scaling, root planing, direct restorative procedure and extraction.\n11. Taking alginate impressions of the upper and lower dentition.\n12. Giving of advice on matters related to dental hygiene.\n[S 338/2025 wef 15/09/2022]\nPART ii\nPRESCRIBED SCOPE OF PRACTICE FOR REGISTERED ORAL HEALTH THERAPISTS WITH QUALIFICATIONS UNDER SECTION 21(1)(b)(i)(A) OR (2)(b) OF ACT\n1. Cleaning and polishing of teeth.\n2. Scaling of teeth.\n3. Any application to the teeth of solutions of sodium or stannous fluoride or such other similar prophylactic solutions as the Council may, from time to time, determine.\n4. Application of fissure sealants.\n5. Application of rubber dam.\n6. Extraction of primary teeth.\n7. Restoration of teeth using direct restorative materials.\n8. Exposure of radiographic films intraorally or extraorally for the investigation of lesions of the mouth, jaws, teeth and associated structures.\n9. Usage of infiltration anaesthesia in procedures such as scaling or direct restorative procedure.\n10. Taking alginate impressions of the upper and lower dentition.\n11. Giving of advice on matters related to dental hygiene.\n[S 338/2025 wef 15/09/2022]\nPART iii\nPRESCRIBED SCOPE OF PRACTICE FOR REGISTERED ORAL HEALTH THERAPISTS WITH QUALIFICATIONS UNDER SECTION 21(1)(b)(i)(B) OR (2)(c) OF ACT\n1. Cleaning and polishing of teeth.\n2. Scaling of teeth.\n3. Root planing of teeth.\n4. Application to the teeth of solutions of sodium or stannous fluoride or such other similar prophylactic solutions as the Council may, from time to time, determine.\n5. Application of fissure sealants.\n6. Application of rubber dam.\n7. Exposure of radiographic films intraorally or extraorally for the investigation of lesions of the mouth, jaws, teeth and associated structures.\n8. Usage of infiltration anaesthesia in procedures such as scaling or root planing.\n9. Taking alginate impressions of the upper and lower dentition.\n10. Giving of advice on matters related to dental hygiene.\n[G.N. Nos. S 454/99; S 680/2007]\n[S 338/2025 wef 15/09/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Dental Registration Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

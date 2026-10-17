@@ -1,7 +1,7 @@
 {
  "id": "SG-H320",
  "title": {
-  "zh": null,
+  "zh": "边界与测量图（地籍测量实施）规则 2005",
   "en": "Boundaries and Survey Maps (Conduct of Cadastral Surveys) Rules 2005",
   "orig": null
  },
@@ -960,5 +960,13 @@
     "en": "THE SCHEDULE\nRule 3(1)\nRelevant Acts\n1. Building Maintenance and Strata Management Act 2004\n2. Foreshores Act 1920\n3. Housing Developers (Control and Licensing) Act 1965\n4. Land Acquisition Act 1966\n5. Land Surveyors Act 1991\n6. Land Titles Act 1993\n7. Land Titles (Strata) Act 1967\n8. Planning Act 1998\n9. Sale of Commercial Properties Act 1979\n10. Sewerage and Drainage Act 1999\n11. State Lands Act 1920\n12. State Lands Encroachments Act 1883\n13. Street Works Act 1995"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Boundaries and Survey Maps (Conduct of Cadastral Surveys) Rules 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

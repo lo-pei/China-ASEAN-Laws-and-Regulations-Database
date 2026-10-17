@@ -1,7 +1,7 @@
 {
  "id": "BN-S-13-2003-E-AITI-OF-BRUNEI-DARUSSALAM-AMENDMENT-ORDER-2003",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰国 AITI 修正命令 2003",
   "en": "AITI OF BRUNEI DARUSSALAM AMENDMENT ORDER 2003",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "The Authority for Info-communications Technology Industry of Brunei Darussalam Order, 2001 i~ amended, in the Third Schedule, by repealing paragraphs 3 and 4 and by substituting the following new paragraph therefor - \"3. The accounts of the Authority shall be audited annually by (a} the Auditor General; or\n\n(b) any person who has been authorised to perform the duties required by the Companies Act (Chapter 39) to be performed by an auditor, who sh-h.ll be appointed annually by the Minister in consultation with the Auditor General: Provided that where the accounts of the Authority have been audited by a person appointed under paragraph (b), they may be verified by the Auditor General before a copy thereof is submitted to the Minister pursuant to paragraph 13.\". Made this 21st. day of Muharam, 1424 Hijriah corresponding to the 24th. day of March, 2003 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "AITI OF BRUNEI DARUSSALAM AMENDMENT ORDER 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

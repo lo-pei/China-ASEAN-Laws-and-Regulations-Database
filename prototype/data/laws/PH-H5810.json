@@ -1,7 +1,7 @@
 {
  "id": "PH-H5810",
  "title": {
-  "zh": null,
+  "zh": "提高私营部门女工的产假福利，为此修订经修正的第1161号共和国法第14-a条并为其他目的法案",
   "en": "An Act Increasing Maternity Benefits in Favor of Women Workers in the Private Sector, Amending for the Purpose Section 14-a of Republic Act No. 1161, as Amended, and for Other Purposes",
   "orig": "An Act Increasing Maternity Benefits in Favor of Women Workers in the Private Sector, Amending for the Purpose Section 14-a of Republic Act No. 1161, as Amended, and for Other Purposes"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing Maternity Benefits in Favor of Women Workers in the Private Sector, Amending for the Purpose Section 14-a of Republic Act No. 1161, as Amended, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

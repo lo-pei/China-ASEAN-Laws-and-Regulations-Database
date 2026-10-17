@@ -1,7 +1,7 @@
 {
  "id": "PH-H4971",
  "title": {
-  "zh": null,
+  "zh": "授予 Cauayan 电力公司在伊莎贝拉省 Cauayan 市镇经营电灯、热力与动力系统的特许权法案",
   "en": "An Act Granting Cauayan Electric Corporation a Franchise for An Electric Light, Heat and Power System in the Municipality of Cauayan, Province of Isabela.",
   "orig": "An Act Granting Cauayan Electric Corporation a Franchise for An Electric Light, Heat and Power System in the Municipality of Cauayan, Province of Isabela."
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without executive approval, June 17, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Cauayan Electric Corporation a Franchise for An Electric Light, Heat and Power System in the Municipality of Cauayan, Province of Isabela.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-19-RG-1-2002-NATIONAL-REGISTRATION-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG 1 2002 版国家登记条例",
   "en": "RG 1 2002 ED NATIONAL REGISTRATION REGULATIONS",
   "orig": null
  },
@@ -330,5 +330,13 @@
     "en": "The Commissioner may order the destruction of identity cards, photographs, finger impressions, information and documents furnished by the applicants which are in his possession when he considers that such identity card, photographs, finger impressions, information or documents are obsolete, invalid or no longer required. SCHEDULE [S 48/00] regulation 18(1) FEES"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 1 2002 ED NATIONAL REGISTRATION REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

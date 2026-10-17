@@ -1,7 +1,7 @@
 {
  "id": "SG-H2591",
  "title": {
-  "zh": null,
+  "zh": "所得税（Wan Hai International 私人有限公司依第 13（12）条享有的豁免）命令 2023",
   "en": "Income Tax (Wan Hai International Pte. Ltd. — Section 13(12) Exemption) Order 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividend income received in Singapore by Wan Hai International Pte. Ltd. (a company incorporated in Singapore) from Wan Hai Lines (United Arab Emirates) LLC (a company incorporated in the United Arab Emirates) during the period from 21 June 2022 to 31 May 2026 (both dates inclusive) is exempt from tax.\n(2) The exemption in sub-paragraph (1) is subject to the conditions specified in the letter from the Ministry of Finance dated 1 February 2023 addressed to Wan Hai International Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Wan Hai International Pte. Ltd. — Section 13(12) Exemption) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1291",
  "title": {
-  "zh": null,
+  "zh": "濒危物种（进出口）（第 2A 条规定文件）规则 2022",
   "en": "Endangered Species (Import and Export) (Prescribed Documents for Section 2A) Rules 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 2A(a) of the Act, a prescribed document is —\n(a)a bill of lading;\n(b)an air waybill;\n(c)a sea waybill; or\n(d)any road, rail or inland waterway transport documents."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Endangered Species (Import and Export) (Prescribed Documents for Section 2A) Rules 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

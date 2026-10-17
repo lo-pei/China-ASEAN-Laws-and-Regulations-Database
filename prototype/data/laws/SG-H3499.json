@@ -1,7 +1,7 @@
 {
  "id": "SG-H3499",
  "title": {
-  "zh": null,
+  "zh": "刑法典 1871",
   "en": "Penal Code 1871",
   "orig": null
  },
@@ -7694,5 +7694,13 @@
     "en": "THE SCHEDULE\nSection 4B(2) and (3)\nSpecified offences deemed to be\ncommitted in Singapore\n1.Communicating false information of harmful thing under section 268A.\n2.Placing or sending thing causing fear of harm under sections 268B and 268C.\n3.Theft under sections 379 to 382.\n4.Extortion and related offences under sections 384 to 389.\n5.Robbery and related offences under sections 392 to 402.\n6.Dishonest misappropriation of property under sections 403 and 404.\n7.Criminal breach of trust under sections 406 to 409.\n8.Receiving stolen property and related offences under sections 411 to 414.\n9.Cheating and related offences under sections 417 to 420.\n10.Obtaining services dishonestly or fraudulently under section 420A.\n11.Offences relating to fraudulent deeds and dispositions of property under sections 421 to 424.\n12.Fraud by false representation, non-disclosure or abuse of position under sections 424A and 424B.\n[S 524/2023 wef 28/07/2023]\n13.Forgery and related offences under sections 465 to 477A.\n14.Offences relating to currency and bank notes under sections 489A to 489I.\n15.All other offences in this Code or any other written law with fault elements of fraud, dishonesty or deception but excluding any offence under the Prevention of Corruption Act 1960 and the Securities and Futures Act 2001.\n[15/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Penal Code 1871",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

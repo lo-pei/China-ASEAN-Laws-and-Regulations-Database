@@ -1,7 +1,7 @@
 {
  "id": "PH-H1794",
  "title": {
-  "zh": null,
+  "zh": "修订第357号共和国法（经第813号共和国法修正）第1条与第5条，将国家电力公司可借入的国际金融机构贷款额增至1亿美元",
   "en": "An Act to Amend Section One and Five of Republic Act Numbered Three Hundred and Fifty-Seven as Amended by Republic Act Numbered Eight Hundred Thirteen by Increasing to One Hundred Million Dollars the Amount of Loans Which the National Power Corporation May Contract from the International Bank for Reconstruction and Development, the Export-Import Bank of Washington D.C., U.S.A., or Any Other International Financial Institution",
   "orig": "An Act to Amend Section One and Five of Republic Act Numbered Three Hundred and Fifty-Seven as Amended by Republic Act Numbered Eight Hundred Thirteen by Increasing to One Hundred Million Dollars the Amount of Loans Which the National Power Corporation May Contract from the International Bank for Reconstruction and Development, the Export-Import Bank of Washington D.C., U.S.A., or Any Other International Financial Institution"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 13, 1958."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section One and Five of Republic Act Numbered Three Hundred and Fifty-Seven as Amended by Republic Act Numbered Eight Hundred Thirteen by Increasing to One Hundred Million Dollars the Amount of Loans Which the National Power Corporation May Contract from the International Bank for Reconstruction and Development, the Export-Import Bank of Washington D.C., U.S.A., or Any Other International Financial Institution",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

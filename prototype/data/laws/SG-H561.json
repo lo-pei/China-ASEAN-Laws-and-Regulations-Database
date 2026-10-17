@@ -1,7 +1,7 @@
 {
  "id": "SG-H561",
  "title": {
-  "zh": null,
+  "zh": "慈善（电子交易服务）条例 2019",
   "en": "Charities (Electronic Transactions Service) Regulations 2019",
   "orig": null
  },
@@ -186,5 +186,13 @@
     "en": "SECOND SCHEDULE\nRegulation 3(1)(b)\nApplications, documents and information\nto be submitted through GoBusiness Licensing\n1.An application for a permit for a fund-raising appeal for any foreign charitable purpose.\n2.Any statement of accounts of a fund-raising appeal audited under regulation 26(5) of the Charities (Fund-raising Appeals for Local and Foreign Charitable Purposes) Regulations 2012.\n[S 625/2023 wef 09/10/2023]\n3.Details of any change to any information provided in an application for a permit for a fund-raising appeal for any foreign charitable purpose.\n[S 722/2019 wef 31/10/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Charities (Electronic Transactions Service) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

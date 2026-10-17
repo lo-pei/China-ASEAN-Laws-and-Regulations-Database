@@ -1,7 +1,7 @@
 {
  "id": "SG-H3125",
  "title": {
-  "zh": null,
+  "zh": "药品（停止对口腔牙胶适用本法）命令 2016",
   "en": "Medicines (Cessation of Application of Act to Oral Dental Gums) Order 2016",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) Every oral dental gum for which a product licence is valid immediately before 1 November 2016 is deemed, on or after that date and for so long as the product licence remains valid, to be registered as an oral dental gum under the Health Products Act (Cap. 122D).\n(2) On or after 1 November 2016, the holder of a product licence mentioned in sub‑paragraph (1) is deemed to be a registrant, and subject to the duties of a registrant, under the Health Products Act and the Oral Dental Gums Regulations.\n(3) Every import licence mentioned in section 5(2) of the Act for the import of an oral dental gum that is valid immediately before 1 November 2016 is treated, on or after that date and for so long as the licence remains valid, as if it were an importer’s licence mentioned in section 13 of the Health Products Act.\n(4) Every manufacturer’s licence granted for an oral dental gum under section 6(2) of the Act that is valid immediately before 1 November 2016 is treated, on or after that date and for so long as the licence remains valid, as if it were a manufacturer’s licence mentioned in section 12 of the Health Products Act.\n(5) Every wholesale dealer’s licence granted for an oral dental gum under section 6(3) of the Act that is valid immediately before 1 November 2016 is treated, on or after that date and for so long as the licence remains valid, as if it were a wholesaler’s licence mentioned in section 14 of the Health Products Act.\n(6) On or after 1 November 2016, the holder of any import, manufacturer’s or wholesale dealer’s licence mentioned in sub‑paragraphs (3), (4) and (5) is deemed, for so long as the licence remains valid, to be the holder of, and subject to the duties of a holder of, an importer’s, a manufacturer’s or a wholesaler’s licence, as the case may be, under the Health Products Act and the Oral Dental Gums Regulations."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Medicines (Cessation of Application of Act to Oral Dental Gums) Order 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

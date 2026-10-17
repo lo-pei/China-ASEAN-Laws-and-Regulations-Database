@@ -1,7 +1,7 @@
 {
  "id": "PH-H2376",
  "title": {
-  "zh": null,
+  "zh": "通过修订第 537 号共和国法（即 Quezon 市修正宪章）若干条款，为 Quezon 市设立新职位并提高市官员薪金的法案",
   "en": "An Act Creating New Positions and Increasing the Salaries of the City Officials of Quezon City by Amending Certain Sections of Republic Act Numbered Five Hundred Thirty-Seven, Otherwise Known as the Revised Charter of Quezon City",
   "orig": "An Act Creating New Positions and Increasing the Salaries of the City Officials of Quezon City by Amending Certain Sections of Republic Act Numbered Five Hundred Thirty-Seven, Otherwise Known as the Revised Charter of Quezon City"
  },
@@ -121,14 +121,15 @@
    }
   },
   {
-   "id": "PH-H2376-A8_2",
+   "id": "PH-H2376-A8-d2",
    "no": 8,
    "noLabel": {
     "en": "Section 8."
    },
    "text": {
     "en": "The first paragraph of Section twenty-eight of the same Act, as amended by Republic Act Numbered Fifteen hundred seventy-five, is further amended to read as follows:\nSec. 2 8. The City Fiscal, his Assistants, his duties. -There shall be a city fiscal who shall be the chief of the law department of the city, a first assistant city fiscal who shall be the assistant chief, a second assistant city fiscal, two third assistant city fiscals, five fourth assistant city fiscals, five fifth assistant city fiscals, and seven sixth assistant city fiscals, who shall discharge their duties under the general supervision of the Secretary of Justice. The city fiscal, who shall have a rank equal to that of a judge of a Court of First Instance, shall be the chief legal adviser of the city and all offices and departments thereof and shall have the following general powers and duties:\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H2376-A9",
@@ -200,5 +201,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating New Positions and Increasing the Salaries of the City Officials of Quezon City by Amending Certain Sections of Republic Act Numbered Five Hundred Thirty-Seven, Otherwise Known as the Revised Charter of Quezon City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

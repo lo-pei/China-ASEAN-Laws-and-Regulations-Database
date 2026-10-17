@@ -1,7 +1,7 @@
 {
  "id": "PH-H10613",
  "title": {
-  "zh": null,
+  "zh": "宣布 Albay 省 Polangui 与 Oas 市镇、Ligao 与 Tabaco 市一块土地为保护景观类别的保护区，称为 Masaraga 山保护景观，并为此拨款的法案",
   "en": "An Act Declaring A Parcel of Land Located In The Municipalities of Polangui and Oas, and Cities of Ligao and Tabaco, In The Province of Albay, A Protected Area With The Category of Protected Landscape Under The National Integrated Protected Areas System, To Be Referred To As The Mt. Masaraga Protected Landscape, Providing For Its Management, and Appropriating Funds Therefor",
   "orig": "An Act Declaring A Parcel of Land Located In The Municipalities of Polangui and Oas, and Cities of Ligao and Tabaco, In The Province of Albay, A Protected Area With The Category of Protected Landscape Under The National Integrated Protected Areas System, To Be Referred To As The Mt. Masaraga Protected Landscape, Providing For Its Management, and Appropriating Funds Therefor"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring A Parcel of Land Located In The Municipalities of Polangui and Oas, and Cities of Ligao and Tabaco, In The Province of Albay, A Protected Area With The Category of Protected Landscape Under The National Integrated Protected Areas System, To Be Referred To As The Mt. Masaraga Protected Landscape, Providing For Its Management, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

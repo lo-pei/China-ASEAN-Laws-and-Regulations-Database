@@ -1,7 +1,7 @@
 {
  "id": "SG-H892",
  "title": {
-  "zh": null,
+  "zh": "COVID-19（临时措施）（第8部分救济）条例 2020",
   "en": "COVID-19 (Temporary Measures) (Part 8 Relief) Regulations 2020",
   "orig": null
  },
@@ -272,5 +272,13 @@
     "en": "16.—(1) The Registrar must keep the records of every assessor’s determination, including the documents submitted by parties to an assessor’s determination.\n(2) The records may be kept in a form and manner determined by the Registrar.\n(3) After an assessor has made a determination, a party to the determination may, on payment of any fee that may be prescribed by an order under section 46(1) of the Interpretation Act (Cap. 1) —\n(a)search the record relating to that determination; and\n(b)take a copy of the record.\n(4) The records must be kept for a period of 2 years after the end of the prescribed period.\n(5) Regulation 30 of the Part 2 Regulations applies in relation to the publication of a determination under these Regulations as it applies in relation to the publication of a determination under those Regulations.\n(6) In this regulation, “party to the determination” means —\n(a)the applicant; or\n(b)a person who is served with a copy of the application under section 37(2) of the Act,\nand includes a person authorised by that party to represent the party in relation to the determination."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "COVID-19 (Temporary Measures) (Part 8 Relief) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

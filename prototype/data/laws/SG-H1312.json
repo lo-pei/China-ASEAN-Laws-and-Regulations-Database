@@ -1,7 +1,7 @@
 {
  "id": "SG-H1312",
  "title": {
-  "zh": null,
+  "zh": "征召（罪行和解）条例 2001",
   "en": "Enlistment (Composition of Offences) Regulations 2001",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) An offer by the proper authority to compound any offence may be made in such form as the proper authority may provide.\n(2) Where the proper authority offers to compound any offence upon payment of a specified sum, the person to whom the offer is made may accept the offer by —\n(a)paying the sum —\n(i)by cash, cheque, money order or postal order; or\n(ii)through an electronic funds transfer system approved by the proper authority,\nwithin the time specified and to the person, office or account designated; and\n(b)providing such particulars as may be specified in the form provided by the proper authority for this purpose."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Enlistment (Composition of Offences) Regulations 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

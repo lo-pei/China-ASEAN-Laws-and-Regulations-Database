@@ -1,7 +1,7 @@
 {
  "id": "PH-H137",
  "title": {
-  "zh": null,
+  "zh": "废止第 581 号联邦法（题为《废止朗布隆现行市镇政府与省政府、改设四个特别市镇的法案》），恢复朗布隆省正规省政府与市镇并设立 Santa Fe 市镇",
   "en": "An Act Repealing Commonwealth Act Numbered Five Hundred and Eighty-One, Entitled, \"An Act Abolishing the Existing Municipal Governments and the Provincial Government of Romblon, and Creating Instead Four Special Municipalities,\" Restoring the Regular Provincial Government and Municipalities of the Province of Romblon, and Creating the Municipality of Santa Fe",
   "orig": "An Act Repealing Commonwealth Act Numbered Five Hundred and Eighty-One, Entitled, \"An Act Abolishing the Existing Municipal Governments and the Provincial Government of Romblon, and Creating Instead Four Special Municipalities,\" Restoring the Regular Provincial Government and Municipalities of the Province of Romblon, and Creating the Municipality of Santa Fe"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: October 1, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Repealing Commonwealth Act Numbered Five Hundred and Eighty-One, Entitled, \"An Act Abolishing the Existing Municipal Governments and the Provincial Government of Romblon, and Creating Instead Four Special Municipalities,\" Restoring the Regular Provincial Government and Municipalities of the Province of Romblon, and Creating the Municipality of Santa Fe",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

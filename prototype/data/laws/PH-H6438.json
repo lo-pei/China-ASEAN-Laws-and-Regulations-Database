@@ -1,7 +1,7 @@
 {
  "id": "PH-H6438",
  "title": {
-  "zh": null,
+  "zh": "将莱特省 Burauen 市镇的农业学院改设为理工学院，命名为 Burauen 理工学院并为此拨款",
   "en": "An Act for the Conversion of Don Vicente Orestes Romualdez Agricultural College in the Municipality of Burauen, Province of Leyte, Into a Polytechnic College to Be Known as the Burauen Polytechnic College, and Appropriating Funds Therefor",
   "orig": "An Act for the Conversion of Don Vicente Orestes Romualdez Agricultural College in the Municipality of Burauen, Province of Leyte, Into a Polytechnic College to Be Known as the Burauen Polytechnic College, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act for the Conversion of Don Vicente Orestes Romualdez Agricultural College in the Municipality of Burauen, Province of Leyte, Into a Polytechnic College to Be Known as the Burauen Polytechnic College, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

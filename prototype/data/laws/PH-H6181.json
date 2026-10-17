@@ -1,7 +1,7 @@
 {
  "id": "PH-H6181",
  "title": {
-  "zh": null,
+  "zh": "规定国家劳资关系委员会第一、第二与第三分庭之间的并行管辖权，以确保案件迅速处理，为此修订第442号总统令（经修正）第213条并为其他目的",
   "en": "An Act Providing for Concurrent Jurisdiction Between and Among the First, Second and Third Divisions of the National Labor Relations Commission to Further Ensure Speedy Disposition of Cases, Amending for This Purpose Article 213 of Presidential Decree No. 442, as Amended and for Other Purposes",
   "orig": "An Act Providing for Concurrent Jurisdiction Between and Among the First, Second and Third Divisions of the National Labor Relations Commission to Further Ensure Speedy Disposition of Cases, Amending for This Purpose Article 213 of Presidential Decree No. 442, as Amended and for Other Purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier.\nApproved, May 1, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for Concurrent Jurisdiction Between and Among the First, Second and Third Divisions of the National Labor Relations Commission to Further Ensure Speedy Disposition of Cases, Amending for This Purpose Article 213 of Presidential Decree No. 442, as Amended and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

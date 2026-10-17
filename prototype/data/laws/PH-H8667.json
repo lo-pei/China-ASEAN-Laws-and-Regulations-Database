@@ -1,7 +1,7 @@
 {
  "id": "PH-H8667",
  "title": {
-  "zh": null,
+  "zh": "将南三宝颜省 Pagadian 市 Buenavista 描笼涯的 Napolan 国立中学附属校分离，改设为独立的Norberta Guillar纪念国立中学，并为此拨付所需经费",
   "en": "An Act Separating the Napolan National High School - Buenavista Annex in Barangay Buenavista, City of Pagadian, Province of Zamboanga Del Sur From the Napolan National High School, Converting It Into An Independent National High School to Be Known as Norberta Guillar Memorial National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Napolan National High School - Buenavista Annex in Barangay Buenavista, City of Pagadian, Province of Zamboanga Del Sur From the Napolan National High School, Converting It Into An Independent National High School to Be Known as Norberta Guillar Memorial National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Napolan National High School - Buenavista Annex in Barangay Buenavista, City of Pagadian, Province of Zamboanga Del Sur From the Napolan National High School, Converting It Into An Independent National High School to Be Known as Norberta Guillar Memorial National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

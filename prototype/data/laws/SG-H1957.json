@@ -1,7 +1,7 @@
 {
  "id": "SG-H1957",
  "title": {
-  "zh": null,
+  "zh": "所得税（经批准受托人公司优惠税率）条例",
   "en": "Income Tax (Concessionary Rate of Tax for Approved Trustee Companies) Regulations",
   "orig": null
  },
@@ -103,5 +103,11 @@
     "en": "5. Regulation 3 shall not apply to any payment to an approved trustee company for the services referred to in that regulation which is borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore (excluding, in relation to a trust referred to in that regulation, a trustee incorporated, resident or registered in Singapore, in its capacity as a trustee of that trust).\n[S 315/2012 wef 01/04/2011]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Income Tax (Concessionary Rate of Tax for Approved Trustee Companies) Regulations",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

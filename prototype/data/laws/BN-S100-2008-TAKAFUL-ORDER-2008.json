@@ -1,7 +1,7 @@
 {
  "id": "BN-S100-2008-TAKAFUL-ORDER-2008",
  "title": {
-  "zh": null,
+  "zh": "伊斯兰保险命令 2008",
   "en": "TAKAFUL ORDER 2008",
   "orig": null
  },
@@ -1296,5 +1296,13 @@
     "en": "(1) Any takaful operator which on the commencement of this Order is already permitted under administrative arrangements by the Ministry of Finance to carry on general takaful business or family takaful business, as the case may be, shall be deemed to be registered under section 9(2) for a period of 6 months from such commencement and may within that period carry on the takaful which was being lawfully carried on by it immediately before the of this Order.\n\n(2) the period of 6 months referred to in subsection (1), the takaful operator shall apply for registration in accordance with section 9( 1} in respect of the period after the period referred to in subsection ( 1).\n\n(3) operator which is deemed by virtue of subsection (1) to be under section 9(2) shall no later than 3 months after the date of the of this Order comply with section 5 regarding the requirements on business as a takaful operator (save the requirement as to\n\nSCHEDULE OF \"ASSOCIATE\", \"PARENT\" AND \"SUBSIDIARY\" UNDERTAKINGS"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TAKAFUL ORDER 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

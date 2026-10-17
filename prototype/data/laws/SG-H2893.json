@@ -1,7 +1,7 @@
 {
  "id": "SG-H2893",
  "title": {
-  "zh": null,
+  "zh": "解释（国家发展部长授权）命令 2024",
   "en": "Interpretation (Delegations by Minister for National Development) Order 2024",
   "orig": null
  },
@@ -110,5 +110,13 @@
     "en": "SECOND SCHEDULE\nParagraph 4\nDelegations to other persons\nFirst column\nSecond column\nThird column\nFourth column\nProvision\nDescription*\nDelegate\nCondition\n1.Building Maintenance and Strata Management Act 2004\n(1)Section 92(9)\nExtension of time for Strata Titles Board to make final order or determination\nMND Permanent Secretary\nNil\n2.Housing and Development Act 1959\n(1)Section 7(2)(b)\nVacancy of office of member of Board\nChairperson, Housing and Development Board\nExcept in relation to the Chairperson’s failure to attend meetings of the Board\n*Note: The descriptions in the second column are for ease of reference only."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Interpretation (Delegations by Minister for National Development) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H781",
  "title": {
-  "zh": null,
+  "zh": "公司（有瑕疵财务报表、合并财务报表或资产负债表的更正）条例 2018",
   "en": "Companies (Revision of Defective Financial Statements, or Consolidated Financial Statements or Balance-sheet) Regulations 2018",
   "orig": null
  },
@@ -233,5 +233,11 @@
     "en": "15. The following persons are guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000:\n(a)any officer of a company who refuses or fails without lawful excuse to allow an auditor of the company access, in accordance with section 207(5) of the Act (as applied by regulation 10(6)), to any accounting and other records, including registers, of the company in the officer’s custody or control;\n(b)any officer or auditor of a subsidiary corporation who refuses or fails without lawful excuse to allow an auditor of its parent company access, in accordance with section 207(6) of the Act (as applied by regulation 10(6)), to any accounting and other records, including registers, of the subsidiary corporation in the officer’s or auditor’s custody or control;\n(c)any officer of a company or officer or auditor of a subsidiary corporation who refuses or fails without lawful excuse to give any information or explanation as and when required under section 207(5) or (6) of the Act (as applied by regulation 10(6));\n(d)any officer of a company or any officer or auditor of a subsidiary corporation who otherwise hinders, obstructs or delays an auditor in the performance of the auditor’s duties or the exercise of the auditor’s powers under section 207 of the Act (as applied by regulation 10(6)).\n[S 206/2026 wef 06/05/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Companies (Revision of Defective Financial Statements, or Consolidated Financial Statements or Balance-sheet) Regulations 2018",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

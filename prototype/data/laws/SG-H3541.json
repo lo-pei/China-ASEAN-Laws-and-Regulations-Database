@@ -1,7 +1,7 @@
 {
  "id": "SG-H3541",
  "title": {
-  "zh": null,
+  "zh": "规划（国家公园局土地开发授权）公告",
   "en": "Planning (Development of Land Authorisation for National Parks Board) Notification",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nPark facility\n1. Barbecue pit\n2. Basketball court\n3. Boardwalk\n4. Bridge (including suspension bridge over undulating land terrain)\n5. Changing room\n6. Covered walkway\n7. Dog run\n8. Drain\n9. Gate\n10. Gazebo\n11. Green house\n12. Mountain bicycle trail\n13. Multi-purpose hard court\n14. Park ranger’s office\n15. Pavilion\n16. Pergola\n17. Pond, pool or fountain\n18. Retaining wall (less than 1.8 m in height)\n19. Screen\n20. Sculpture\n21. Shelter\n22. Signage\n23. Tennis court\n24. Toilet\n25. Tree house\n26. Trellis\n27. Underground shelter\n28. Underpass within a park\n29. Vegetation plot\n30. Vertical planting frame.\n[G.N. No. S 127/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Planning (Development of Land Authorisation for National Parks Board) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9312",
  "title": {
-  "zh": null,
+  "zh": "界定原糖或原蔗糖，修订经修正的 1997 年《国家国内税收法典》第 109（A）与（F）条并为其他目的",
   "en": "An Act Defining Raw Sugar or Raw Cane Sugar, Amending Section 109(A) and (F) of the National Internal Revenue Code of 1997, as Amended, and for Other Purposes",
   "orig": "An Act Defining Raw Sugar or Raw Cane Sugar, Amending Section 109(A) and (F) of the National Internal Revenue Code of 1997, as Amended, and for Other Purposes"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. - This Act shall take effect immediately after its complete publication either in the Official Gazetter or in a newspaper of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Defining Raw Sugar or Raw Cane Sugar, Amending Section 109(A) and (F) of the National Internal Revenue Code of 1997, as Amended, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5137",
  "title": {
-  "zh": null,
+  "zh": "规定提高公共或政府部门按日计薪雇员的工资及私营部门雇员与工人的法定最低工资与薪金标准并为其他目的法案",
   "en": "An Act Providing for an Increase in the Wage of Public or Government Sector Employees on a Daily Wage Basis and in the Statutory Minimum Wage and Salary Rates of Employees and Workers in the Private Sector and for other purposes",
   "orig": "An Act Providing for an Increase in the Wage of Public or Government Sector Employees on a Daily Wage Basis and in the Statutory Minimum Wage and Salary Rates of Employees and Workers in the Private Sector and for other purposes"
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect the day following its publication in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for an Increase in the Wage of Public or Government Sector Employees on a Daily Wage Basis and in the Statutory Minimum Wage and Salary Rates of Employees and Workers in the Private Sector and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

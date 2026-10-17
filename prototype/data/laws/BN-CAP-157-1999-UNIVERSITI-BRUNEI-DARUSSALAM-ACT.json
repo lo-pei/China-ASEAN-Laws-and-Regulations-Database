@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-157-1999-UNIVERSITI-BRUNEI-DARUSSALAM-ACT",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰大学法",
   "en": "UNIVERSITI BRUNEI DARUSSALAM ACT",
   "orig": null
  },
@@ -611,5 +611,13 @@
     "en": "Notwithstanding the provisions of section 54 or any other provisions All of this Constitution, every person employed by the University shall hold office subject to the provisions of the Act and any subsidiary legislation to be subject to the Act made thereunder and the terms and conditions of their employment or and any appointments shall be deemed to include a provision to this effect. subsidiary legislation thereunder B.L.R. 0. II 1999 of 56. (1) Where by the provisions of this Constitution or any statute or delegation regulation any officer or body is empowered to exercise any power or perform any duty, such officer or body may by instrument in writing subject to the provisions of this section and to such conditions and restrictions as may be prescribed in such instrument, delegate the exercise of such powers or the performance of such duties to any body or to any or to any person described therein by name or office.\n\n(2) A delegation under this section may be revoked at any time by or body making such delegation.\n\n(3) No delegation of any power or duty under this section shall affect the exercise of such power or the performance of such duty by the or body making such delegation. ( 4) Nothing in this section shall apply to any power to make or approve statutes or regulations. Deprivation 57. If any member of an authority, or any graduate of the University, or of degree any person who has received a diploma or other academic distinction from etc. on is convicted by a court of law of any heinous offence grounds of misconduct whether within or without Brunei Darussalam, or is in the opinion of the Council guilty of scandalous conduct, it shall be lawful for the Chancellor, on the recommendation of not less than two-thirds of all the members of\n\n(a) to remove him from membership of the authority ; or\n\n(b) to deprive him of any degree, diploma or other academic distinction conferred upon him by the University. Disputes as to 58. If any question arises whether any person has been duly elected, elections appointed, nominated or co-opted to membership or is entitled to be or to remain a member of any authority or other body in the University, the by the question shall be referred to the\" Chancellor, whose decision thereon shall be final."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "UNIVERSITI BRUNEI DARUSSALAM ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

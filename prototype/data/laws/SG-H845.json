@@ -1,7 +1,7 @@
 {
  "id": "SG-H845",
  "title": {
-  "zh": null,
+  "zh": "受管制场所（特别规定）规则",
   "en": "Controlled Premises (Special Provisions) Rules",
   "orig": null
  },
@@ -250,5 +250,13 @@
     "en": "THIRD SCHEDULE\nRule 13"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Controlled Premises (Special Provisions) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

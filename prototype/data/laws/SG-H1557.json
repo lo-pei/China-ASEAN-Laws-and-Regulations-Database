@@ -1,7 +1,7 @@
 {
  "id": "SG-H1557",
  "title": {
-  "zh": null,
+  "zh": "金融控股公司（指定金融控股公司）命令 2022",
   "en": "Financial Holding Companies (Designated Financial Holding Companies) Order 2022",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nDesignated financial holding companies\n1. DBS Group Holdings Ltd (UEN 199901152M)\n2. Great Eastern Holdings Limited (UEN 199903008M)\n3. [Deleted by S 246/2024 wef 01/04/2024]\n4. Citystate Capital Asia Pte. Ltd. (UEN 200917889Z)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Financial Holding Companies (Designated Financial Holding Companies) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

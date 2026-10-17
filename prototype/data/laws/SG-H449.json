@@ -1,7 +1,7 @@
 {
  "id": "SG-H449",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（赌场税）条例 2010",
   "en": "Casino Control (Casino Tax) Regulations 2010",
   "orig": null
  },
@@ -404,5 +404,13 @@
     "en": "20.—(1) Where different casino chip sets are used to classify gross gaming revenue from premium players and non‑premium players —\n(a)the casino operator shall not allow any exchange of premium casino chips for non-premium casino chips (and vice versa) at any table unless otherwise allowed by the Comptroller;\n[S 633/2026 wef 21/09/2026]\n(b)the casino operator shall not allow any player to buy any premium casino chip with cash at any table unless otherwise allowed by the Comptroller;\n(c)the casino operator shall not accept any wager of premium casino chips from any player until his identity and status as a premium player are verified before the commencement of his play at any table;\n[S 633/2026 wef 21/09/2026]\n(d)the casino operator shall maintain a record of all such verifications carried out on the identity and status of any player under sub-paragraph (c) and paragraph (2); and\n(e)the casino operator shall not accept any wager of premium casino chips from a non-premium player at all times.\n[S 633/2026 wef 21/09/2026]\n[S 633/2026 wef 21/09/2026]\n(2) For the purposes of paragraph (1)(c), the Comptroller may specify in writing to a casino operator, requirements as to the method, manner and frequency of verification to be carried out on the identity and status of a premium player.\n(3) Where classification of gross gaming revenue from premium players is other than by different casino chip sets, the casino operator shall put in place a system (subject to such conditions as may be specified by the Comptroller) that will allow proper classification and verification of gross gaming revenue from premium players.\n[S 633/2026 wef 21/09/2026]\n(4) Any casino operator which fails to comply with any requirement specified under paragraph (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.\n(5) Notwithstanding that a casino operator may be liable for an offence under paragraph (4), the Comptroller shall not be precluded from assessing, to the best of his judgement, the amount of casino tax due from the casino operator under section 146B of the Act.\n(6) In this regulation —\n“non-premium casino chip” means any casino chip used other than a premium casino chip;\n[S 633/2026 wef 21/09/2026]\n“non-premium player” means a patron of a casino who has not been verified to be a premium player;\n“premium casino chip” means any casino chip denoted as a casino chip for use by a premium player for the purpose of gaming.\n[S 57/2013 wef 31/01/2013]\n[S 633/2026 wef 21/09/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Casino Tax) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

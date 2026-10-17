@@ -1,7 +1,7 @@
 {
  "id": "PH-H7230",
  "title": {
-  "zh": null,
+  "zh": "自2001年1月1日起对特定服务征收增值税，为此修订第8424号共和国法第5条并为其他目的法案",
   "en": "An Act Imposing the Value-Added Tax on Certain Services Beginning January 1, 2001, Amending for the Purpose Section 5 of Republic Act No. 8424 and for Other Purposes",
   "orig": "An Act Imposing the Value-Added Tax on Certain Services Beginning January 1, 2001, Amending for the Purpose Section 5 of Republic Act No. 8424 and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "Effectivity. - This Act shall take effect on January 1, 2000.\nApproved: February 16, 2000"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Imposing the Value-Added Tax on Certain Services Beginning January 1, 2001, Amending for the Purpose Section 5 of Republic Act No. 8424 and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

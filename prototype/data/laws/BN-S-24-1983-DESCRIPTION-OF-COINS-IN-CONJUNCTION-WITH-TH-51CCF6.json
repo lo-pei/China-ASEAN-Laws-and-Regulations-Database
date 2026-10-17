@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-24-1983-DESCRIPTION-OF-COINS-IN-CONJUNCTION-WITH-TH-51CCF6",
+ "title": {
+  "zh": "文莱达鲁萨兰国独立纪念币说明 10、100 与 1000",
+  "en": "DESCRIPTION OF COINS IN CONJUNCTION WITH THE INDEPENDENCE OF BRUNEI DARUSSALAM 10 100 AND 1000",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p26",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 1753,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-24-1983-DESCRIPTION-OF-COINS-IN-CONJUNCTION-WITH-THE-INDEPENDENCE-OF-BRUNEI-DARUSSALAM-10-100-AND-1000.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-24-1983-DESCRIPTION-OF-COINS-IN-CONJUNCTION-WITH-THE-INDEPENDENCE-OF-BRUNEI-DARUSSALAM-10-100-AND-1000.pdf》（2 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-24-1983-DESCRIPTION-OF-COINS-IN-CONJUNCTION-WITH-TH-51CCF6-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "No. S 24\n\nTHE CURRENCY ENACTMENT, 1967 {Section 12) Pursuant to sub·section (2} of section 12 of the Currency Enact· ment, 1967, it is hereby notified for general information that the denominations and characteristics of the coins to be issued by the Brunei Currency Board in conjunction with the Independence of Negara Brunei Darussalam on the 27th day of Rabiul Awal 1404 Hi· jrah corresponding to 1st January, 1984 are as shown in the Schedule hereunder:\n\nTHE SCHEDULE\n\nDESCRIPTION OF COINS Denomination Metal Diameter Weight Edge Design of Obverse Design of Reverse of coins $1000 Gold 40mm 50 grams Milled Effigy of Duli Yang Maha Mulia Secretariat Building with the Jawi Paduka Seri Baginda Sultan and Yang script \"KEMERDEKAAN BRUNEI Di-Pertuan Negara Brunei Darussalam 1404\" and English wording \"BRUNEI Sir Muda Hassanal Bolkiah Mu'izzad-INDEPENDENCE 1984\". Brunei Crest din Waddaulah and the denomination \"$1000\" appear above and below the building respectively. $100 Silver 38.61 mm 28.28 grams Milled Effigy of Duli Yang Maha Mulia Drilling Rig with the Jawi script Paduka Seri Baginda Sultan and Yang \"KEMERDEKAAN BRUNEI 1404\" and Di-Pertuan Negara Brunei Darussalam the English wording \"BRUNEI INSii· Muda Hassanal Bolkiah Mu'izzad-DEPENDENCE 1984\". Brunei Crest din Waddaulah and the denomination \"$100\" appear above and below the Rig respectively. 10 Cupronickel 38.61 mm 28.28 grams Milled Effigy of Duli Yang Maha Mulia Drilling Rig with the Jawi script Paduka Seri Baginda Sultan and Yang \"KEMERDEKAAN BRUNEI 1404\" and Di-Pertuan Negara Brunei Darussalam the English wording \"BRUNEI INSir Muda Hassanal Bolkiah Mu'izzad-DEPENDENCE 1984\". Brunei Crest din Waddaulah and the denomination \"$10\" appear above and below the Rig respectively."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DESCRIPTION OF COINS IN CONJUNCTION WITH THE INDEPENDENCE OF BRUNEI DARUSSALAM 10 100 AND 1000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

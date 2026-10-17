@@ -1,7 +1,7 @@
 {
  "id": "BN-PROOF-OF-DEBTS-RULES",
  "title": {
-  "zh": null,
+  "zh": "债权证明规则",
   "en": "Proof of Debts Rules",
   "orig": null
  },
@@ -317,5 +317,13 @@
     "en": "If a creditor is dissatisfied with the decision of the trustee in Creditor may respect of a proof the Court may, on the application of the creditor C'~i't W dis· or vary the decision. The Official Receiver or trustee shall not satisfied be personally liable for any costs in respect of the rejection by him in or in part of any proof unless it is proved to the satisfaction of the Court that he has acted in bad faith or with gross negligence. B.L.R.O. 111984 may 27. The Court may also expunge or reduce a proof upon the application of a creditor if the trustee declines to interfere in the matter, or in if trusthe case of a composition or scheme, upon the application of the debtor. of Of-28. The Official Receiver before the appointment of a trustee shall have all the powers of a trustee with respect to the examination, admiser before sion and rejection of proofs, and any act or decision of his in relation of trustee thereto shall be subject to the like appeal."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Proof of Debts Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

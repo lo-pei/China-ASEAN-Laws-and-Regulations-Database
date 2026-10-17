@@ -1,7 +1,7 @@
 {
  "id": "PH-H4883",
  "title": {
-  "zh": null,
+  "zh": "设立十二个助理市检察官职位，调整奎松市第七助理市检察官的薪金，并为此修订该市修订宪章第二十八条与第二十九条",
   "en": "An Act Creating the Positions of Twelve Assistant City Fiscals, Adjusting the Salaries of the Seventh Assistant City Fiscals of Quezon City, Amending for the Purpose Sections Twenty-Eight and Twenty-Nine of the Revised Charter of Said City, as Amended By Republic Act Numbered Fifty-Two Hundred Ninety-Two.",
   "orig": "An Act Creating the Positions of Twelve Assistant City Fiscals, Adjusting the Salaries of the Seventh Assistant City Fiscals of Quezon City, Amending for the Purpose Sections Twenty-Eight and Twenty-Nine of the Revised Charter of Said City, as Amended By Republic Act Numbered Fifty-Two Hundred Ninety-Two."
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 16, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Positions of Twelve Assistant City Fiscals, Adjusting the Salaries of the Seventh Assistant City Fiscals of Quezon City, Amending for the Purpose Sections Twenty-Eight and Twenty-Nine of the Revised Charter of Said City, as Amended By Republic Act Numbered Fifty-Two Hundred Ninety-Two.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-45-2017-E-NOTIFICATION-OF-COMMENCEMENT-S-5-2017",
  "title": {
-  "zh": null,
+  "zh": "生效公告 S 5 2017",
   "en": "NOTIFICATION OF COMMENCEMENT S 5 2017",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "No. S 45 HALAL CERTIFICATE AND HALAL LABEL (AMENDMENT] ORDER, 2017 (S 512017) Notification of comluencement In exercise of the power conferred by section l(1) of the Halal Certificate and Halal Label (Amendment) Order. 2017, the Minister of Religious Affairs, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 26th May 2017 as the date on which that Order shalI commence. Dated this 20th. day of Rejab, 1438 Hijriah corresponding to the 17th. day of ApriI, 2017.\n\nPEHIN UDANA KHATIB DATO PADUKA SERI SETIA\n\nUSTAZ HAJI AWANG BADARUDDIN BIN PENGARAH\n\nDATO PADUKA HAJI AWANG OTHMAN Minister of Religious Affairs, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT S 5 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

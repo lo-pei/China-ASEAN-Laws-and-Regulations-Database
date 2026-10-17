@@ -1,7 +1,7 @@
 {
  "id": "SG-H203",
  "title": {
-  "zh": null,
+  "zh": "动物与鸟类（活鱼）规则 2011",
   "en": "Animals and Birds (Live Fish) Rules 2011",
   "orig": null
  },
@@ -230,5 +230,13 @@
     "en": "THE SCHEDULE\nRule 12\nFees\n1.For a licence to import or export live fish\n$350 per annum or part thereof, of the period of validity of the licence\n2.For a permit to import or export a consignment of live fish\n$3.50 per permit\n3.For a certified true copy of any document under these Rules\n$9.45 per copy\n4.For a health certificate under rule 8\n$16.80 per certificate\n5.Professional service fee\n(a)$63 per hour or part thereof\n(b)$133 per hour or part thereof outside office hours or on an urgent basis\n6.Technical service fee\n(a)$38 per hour or part thereof\n(b)$80 per hour or part thereof outside office hours or on an urgent basis."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Animals and Birds (Live Fish) Rules 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4421",
  "title": {
-  "zh": null,
+  "zh": "将北达沃省孔波斯特拉市镇恩甘村圣玛丽亚小村Valma小学的名称变更为Tranquilino H. Valderrama小学的法案",
   "en": "An Act Changing the Name of Valma Primary School in S1tio Sta. Maria, Barrio Ngan, Municipality of Compostela, Province of Davao Del Norte, to Tranquilino H. Valderrama Primary School",
   "orig": "An Act Changing the Name of Valma Primary School in S1tio Sta. Maria, Barrio Ngan, Municipality of Compostela, Province of Davao Del Norte, to Tranquilino H. Valderrama Primary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Valma Primary School in S1tio Sta. Maria, Barrio Ngan, Municipality of Compostela, Province of Davao Del Norte, to Tranquilino H. Valderrama Primary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

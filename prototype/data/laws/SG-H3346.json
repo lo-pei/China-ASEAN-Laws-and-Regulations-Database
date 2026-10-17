@@ -1,7 +1,7 @@
 {
  "id": "SG-H3346",
  "title": {
-  "zh": null,
+  "zh": "报章与印刷馆（申请与许可证）规则 2004",
   "en": "Newspaper and Printing Presses (Applications and Permits) Rules 2004",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nRule 3\nNEWSPAPER AND PRINTING PRESSES ACT\n(CHAPTER 206)\nNEWSPAPER AND PRINTING PRESSES\n(APPLICATIONS AND PERMITS)\nRULES 2004\nPERMIT TO PRINT, PUBLISH, SELL OR DISTRIBUTE A NEWSPAPER\nNAME OF NEWSPAPER\nPERMIT NUMBER\nMITA(P) No.\nNAME(S) OF PERMIT HOLDER(S)*:\nDATE OF ISSUE\nDATE OF EXPIRY\nLANGUAGE(S)\nFREQUENCY\nSPECIAL CONDITIONS (IF ANY)\nNATURE OF CONTENTS\nDETAILS OF PUBLISHER\nDETAILS OF PRINTER\nThis Permit is granted, to the Permit holder(s) named above, by the Minister under section 21/22/23 of the Newspaper and Printing Presses Act in respect of the newspaper described above. The holder(s) of this Permit and the newspaper must comply with the conditions specified hereon and overleaf, as well as the conditions (if any) stated in the covering letter for this Permit. The Minister may at any time in his discretion revoke this Permit.\n_______________________\nMinistry of Digital Development\nand Information,\nSingapore.\n[S 575/2024 wef 08/07/2024]\n*Where the application is made by a political association registered under the Societies Act (Cap. 311), state the names of the proprietor, the chief editor, and the members of the committee or other similar governing body of the association.\nCONDITIONS\n1. This Permit is not transferable. It will cease to be valid in the event of any change in the Proprietor, Chief Editor, name of the newspaper, nature of contents, language or frequency.\n2. Every change in the publisher or the printer of the newspaper described overleaf shall be notified to the Registrar of Newspapers no later than 7 days after the change has become effective.\n3. The Permit number shall be printed on the title page of every issue of the newspaper described overleaf, beneath the title of the newspaper.\n4. If the newspaper described overleaf is printed in Singapore, any change in the financial holdings of the newspaper shall be notified to the Registrar of Newspapers within 7 days of being required to do so or such longer period as the Registrar may allow.\n5. The first issue of the newspaper described overleaf shall commence within 3 months of the date of this Permit and, thereafter, publication shall be made regularly at the intervals shown in this Permit.\n6. The newspaper described overleaf shall conform with the nature of contents submitted with the application for this Permit and the relevant Content Guidelines attached.\n7. The Permit holder shall, at his own expense, send 2 copies of every issue of the newspaper described overleaf to the Registrar of Newspapers immediately upon the commencement of sale or distribution of the newspaper.\nNOTES\n1. Section 10 of the National Library Board Act (Cap. 197) requires every publisher to deposit 2 copies of every publication published in Singapore with the National Library Board, at the publisher’s own expense within 4 weeks from the date of the publication.\n2. If the newspaper described overleaf is printed in Singapore, the names of the printer and the publisher shall be printed legibly on the first or last printed leaf as required under section 5(1) of the Newspaper and Printing Presses Act.\n3. If the newspaper described overleaf is printed in Malaysia, its publication, sale or distribution in Singapore as authorised by this Permit is conditional upon the inclusion on the first or last printed leaf of every issue of the name and address of its printer, its publisher, the place or places where it is printed and published and an address within Singapore for the service of legal process upon the printer and the publisher or of a person or persons authorised by the printer and publisher to accept service on their behalf. All this information must be printed legibly in the English or Malay language.\n4. The grant of this Permit to the Proprietor or Chief Editor of a newspaper printed or published in Singapore does not absolve the printer and the publisher from their other obligations under the Newspaper and Printing Presses Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Newspaper and Printing Presses (Applications and Permits) Rules 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

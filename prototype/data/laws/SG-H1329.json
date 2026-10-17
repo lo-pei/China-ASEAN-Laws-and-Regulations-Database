@@ -1,7 +1,7 @@
 {
  "id": "SG-H1329",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（豁免）（第 2 号）命令 2018",
   "en": "Environmental Protection and Management (Exemption) (No. 2) Order 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Sections 22(1) and 23(1) of the Act do not apply to any person who, within Singapore, possesses for sale, sells, or offers for sale any of the following substances, including any mixture containing any such substances:\n(a)1,1,1,2,2,3,4,5,5,5-decafluoropentane;\n(b)1,1,1,2,2,3-hexafluoropropane;\n(c)1,1,1,2,3,3,3-heptafluoropropane;\n(d)1,1,1,2,3,3-hexafluoropropane;\n(e)1,1,1,2-tetrafluoroethane;\n(f)1,1,1,3,3,3-hexafluoropropane;\n(g)1,1,1,3,3-pentafluorobutane;\n(h)1,1,1,3,3-pentafluoropropane;\n(i)1,1,1-trifluoroethane;\n(j)1,1,2,2,3-pentafluoropropane;\n(k)1,1,2,2-tetrafluoroethane;\n(l)1,1,2-trifluoroethane;\n(m)1,1-difluoroethane;\n(n)1,2-difluoroethane;\n(o)Difluoromethane;\n(p)Fluoromethane (methyl fluoride);\n(q)Pentafluoroethane;\n(r)Trifluoromethane.\n(2) In this paragraph, sale does not include import or export."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Protection and Management (Exemption) (No. 2) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

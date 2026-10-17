@@ -1,0 +1,93 @@
+{
+ "id": "BN-S-12-2010-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2010",
+ "title": {
+  "zh": "药物滥用法修正命令 2010",
+  "en": "MISUSE OF DRUGS ACT AMENDMENT ORDER 2010",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p33",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 4,
+ "chars": 1137,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null,
+  "file": "S-12-2010-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2010.pdf"
+ },
+ "sourceFile": "S-12-2010-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2010.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "【源件无文本层，本记录为 OCR 补录】源 PDF 为纯扫描图像（无文本层），已用 Windows OCR 引擎识别；本机仅安装**简体中文识别模型**（无英文语言包），故对英文法条的字符准确率有限（易混：l/I、o/0、m/ın、大小写），并可能残留页边条标题。**本记录仅可用于检索定位，不可作为逐字引用依据；逐字引用请以原始 PDF 为准**。 本件共 2 页，切分 4 条。",
+ "textQuality": "ocr-windows-zh-Hans",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-12-2010-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2010-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Order m ay be cited as the Misuse of Drugs (Amendment) Orderg 2010 · Amendment of section 29 of Chapter 27 ·"
+   }
+  },
+  {
+   "id": "BN-S-12-2010-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2010-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section 29 of the Misuse of Drugs Act , in this Order referred to as the Act , is amended, in subsection ( 4 ) , by deleting \"inmate\" from the second last line and by substituting \"resident\" therefor. Amendment of section 33 ·"
+   }
+  },
+  {
+   "id": "BN-S-12-2010-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2010-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Section 33 of the Act is amended, in subsection (2B), by deleting \"inmate\" from the second line and from the fourth line and by substituting \"resident\" therefora Amendment of section 34 ·"
+   }
+  },
+  {
+   "id": "BN-S-12-2010-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2010-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Section 34 of the Act is amended, in subsection ( 1 ) c ) , by deleting \"inmates\" from the second line and from the third line and by substituting \"residents\" therefor. Made this 18th. day of safar, 1431 Hijriah corresponding to the 3rd. d ay of Februaryt 2010 at Our lstana Nurul lmanr Bandar Seri Begawan , Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENGIRAN HAJI AHMAD, Pemangku Pengarah Percetakan di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510 , Negara Brunei Darussalam. Harga B $ 5 · oo"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MISUSE OF DRUGS ACT AMENDMENT ORDER 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

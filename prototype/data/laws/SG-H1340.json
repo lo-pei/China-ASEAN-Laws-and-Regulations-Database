@@ -1,7 +1,7 @@
 {
  "id": "SG-H1340",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（订明受管制货物）命令 2022",
   "en": "Environmental Protection and Management (Prescribed Regulated Goods) Order 2022",
   "orig": null
  },
@@ -120,5 +120,13 @@
     "en": "THIRD SCHEDULE\nParagraph 3(c)\nPart 1\nRefrigerators that are regulated goods\nDescription of refrigerator\nDate from (and including) which\nit becomes regulated goods\n1.Any single‑phase refrigerator with an adjusted volume of up to 900 litres\n1 October 2022\nPart 2\nDEFINITIONS\nIn this Schedule —\n“adjusted volume” has the meaning given by Part 2 of the Fourth Schedule to the Energy Conservation (Prescribed Regulated Goods) Order 2017 (G.N. No. S 747/2017);\n“single‑phase refrigerator” means an assembly consisting of —\n(a)a thermally insulated cabinet for the storage and preservation of foodstuffs above 0°C (32°F); and\n(b)a refrigerating unit operating on the vapour compression principle and arranged to extract heat from within the cabinet, whether or not with one or more freezer compartments."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Protection and Management (Prescribed Regulated Goods) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

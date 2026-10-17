@@ -1,7 +1,7 @@
 {
  "id": "SG-H3413",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11 (3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n(1) The Interpretation Act (Chapter 1)\n(2) The Accountants Act (Chapter 2A)\n(3) The Administration of Muslim Law Act (Chapter 3)\n(4) The Audit Act (Chapter 17)\n(5) The Betting and Sweepstake Duties Act (Chapter 22)\n(6) The Bills of Exchange Act (Chapter 23)\n(7) The Civil Law Act (Chapter 43)\n(8) The Control of Plants Act (Chapter 57A)\n(9) The Currency Act (Chapter 69)\n(10) The Dangerous Fireworks Act (Chapter 72)\n(11) The Environmental Public Health Act (Chapter 95)\n(12) The Hotels Act (Chapter 127)\n(13) The Industrial Relations Act (Chapter 136)\n(14) The Kidnapping Act (Chapter 151)\n(15) The Subordinate Courts Act (Chapter 321)\n(16) The Supreme Court of Judicature Act (Chapter 322)\n(17) The Trustees Act (Chapter 337)\n(18) The Sale of Goods Act (Chapter 393)\n(19) The Supply of Goods Act (Chapter 394)\n[G.N. No. S 333/99]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11 (3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

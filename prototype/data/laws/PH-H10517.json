@@ -1,7 +1,7 @@
 {
  "id": "PH-H10517",
  "title": {
-  "zh": null,
+  "zh": "将陆运署Urdaneta区办公室升格为A级区办公室，更名为陆运署Binalonan区办公室并为此拨款的法案",
   "en": "An Act Converting the Land Transportation Office Urdaneta District Office Into a Class ‘A’ District Office, Renaming the Same as the Land Transportation Office Binalonan District Office and Appropriating Funds Therefor",
   "orig": "An Act Converting the Land Transportation Office Urdaneta District Office Into a Class ‘A’ District Office, Renaming the Same as the Land Transportation Office Binalonan District Office and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Land Transportation Office Urdaneta District Office Into a Class ‘A’ District Office, Renaming the Same as the Land Transportation Office Binalonan District Office and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

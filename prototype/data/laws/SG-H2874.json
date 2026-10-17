@@ -1,7 +1,7 @@
 {
  "id": "SG-H2874",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（联合国开发计划署）命令 2020",
   "en": "International Organisations (Immunities and Privileges) (United Nations Development Programme) Order 2020",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "10. The Secretary‑General of the United Nations is to waive the immunity of an individual under this Order in any case where, in the Secretary‑General’s opinion, the immunity would impede the course of justice and the waiver does not prejudice the interests of the United Nations."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "International Organisations (Immunities and Privileges) (United Nations Development Programme) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H561",
  "title": {
-  "zh": null,
+  "zh": "修订1909年《菲律宾关税法》第8条第22款（该法经第3号共和国法继续有效）的法案",
   "en": "An Act to Amend Paragraph Twenty-Two of Section Eight of the Philippine Tariff Act of Nineteen Hundred and Nine Which Is Continued in Force By Republic Act Numbered Three",
   "orig": "An Act to Amend Paragraph Twenty-Two of Section Eight of the Philippine Tariff Act of Nineteen Hundred and Nine Which Is Continued in Force By Republic Act Numbered Three"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval but, unless otherwise expressly extended by Congress, the increased rates of duties provided for in this Act shall continue in force and effect only until December thirty-first, nineteen hundred and fifty-two, after which period the original rates of duties shall again be in force.\nApproved, September 5, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Paragraph Twenty-Two of Section Eight of the Philippine Tariff Act of Nineteen Hundred and Nine Which Is Continued in Force By Republic Act Numbered Three",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

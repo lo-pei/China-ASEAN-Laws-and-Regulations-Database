@@ -1,7 +1,7 @@
 {
  "id": "BN-RG-1-BUSINESS-LICENCES-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG 1 商业执照条例",
   "en": "RG 1 BUSINESS LICENCES REGULATIONS",
   "orig": null
  },
@@ -483,5 +483,13 @@
     "en": "The provisions of the Act and of the Regulations shall not apply Exemption to any place, trade, business or occupation specified in paragraphs (a) and (b) of the Schedule to the Act, if such place, trade, business or occupation were situated or carried on within any Municipal Board area. B.L.R.O.l/1984\n\nFIRST SCHEDULE Regulation 2\n\nLICENSING AUTHORITIES The licensing authorities, their licensing areas and the items specified in the Schedule to the Act in relation to which such authorities shall -- exercise their functions under the Act and these Regulations shall be as followsLicensing Authority Licensing Area Item in Schedule to the Act"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 1 BUSINESS LICENCES REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6915",
  "title": {
-  "zh": null,
+  "zh": "将现金礼金提高至五千比索（P5,000.00），为此修订第 6686 号共和国法若干条并为其他目的法案",
   "en": "An Act Increasing the Cash Gift to Five Thousand Pesos (P5,000.00), Amending for the purpose certain Sections of Republic Act Numbered Six Thousand Six Hundred Eighty-Six, and for other purposes",
   "orig": "An Act Increasing the Cash Gift to Five Thousand Pesos (P5,000.00), Amending for the purpose certain Sections of Republic Act Numbered Six Thousand Six Hundred Eighty-Six, and for other purposes"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Cash Gift to Five Thousand Pesos (P5,000.00), Amending for the purpose certain Sections of Republic Act Numbered Six Thousand Six Hundred Eighty-Six, and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

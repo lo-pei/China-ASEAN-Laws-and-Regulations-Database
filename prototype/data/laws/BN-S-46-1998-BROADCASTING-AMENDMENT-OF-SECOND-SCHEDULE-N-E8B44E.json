@@ -1,7 +1,7 @@
 {
  "id": "BN-S-46-1998-BROADCASTING-AMENDMENT-OF-SECOND-SCHEDULE-N-E8B44E",
  "title": {
-  "zh": null,
+  "zh": "广播（第二附表修正）公告 1998",
   "en": "BROADCASTING AMENDMENT OF SECOND SCHEDULE NOTIFICATION 1998",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "The Second Schedule to the Emergency (Broadcasting) Order, 1997 is Amendment of amended by inserting, immediately after item 19, the following item-Second Schedule. \"20. Computer on-line services.\". Made this l.Oth. day of Ramadan 1419 Hijriah corresponding to the 29th. day of December, 1998. PEHIN ORANG KAYA LAlLA SETIA BAKTI DIRAJA DATO LAlLA UTAMA HAJI A WANG ISA BIN PEHIN DATU PERDANA MANTER! DATO LAlLA UTAMA HAJI IBRAHIM Minister responsible for broadcasting matters, Prime Minister's Office, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BROADCASTING AMENDMENT OF SECOND SCHEDULE NOTIFICATION 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

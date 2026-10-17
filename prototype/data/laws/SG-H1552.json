@@ -1,7 +1,7 @@
 {
  "id": "SG-H1552",
  "title": {
-  "zh": null,
+  "zh": "财务顾问（过渡与保留规定）条例",
   "en": "Financial Advisers (Transitional and Savings Provisions) Regulations",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "11.—(1) All directions, notices and circulars in relation to direct life insurance brokers issued under section 32 or 41(2) of the IIA which are in force immediately before 1st October 2002 shall be deemed to have been issued under section 58 of the Act and shall have effect accordingly.\n(2) All directions, notices and circulars in relation to insurance intermediaries (other than direct life insurance brokers) issued under section 32 or 41(2) of the IIA which are in force immediately before 1st October 2002 shall be deemed to have been issued under section 41 or 64, respectively, of the Insurance Act and shall have effect accordingly.\n(3) All notices issued under section 21A of the FTA and section 33A of the SIA which are in force immediately before 1st October 2002 shall be deemed to have been issued under section 58 of the Act and shall have effect accordingly."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Financial Advisers (Transitional and Savings Provisions) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

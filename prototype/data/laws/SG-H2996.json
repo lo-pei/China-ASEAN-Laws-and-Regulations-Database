@@ -1,7 +1,7 @@
 {
  "id": "SG-H2996",
  "title": {
-  "zh": null,
+  "zh": "法律专业（指定无偿法律服务的强制申报）规则 2015",
   "en": "Legal Profession (Mandatory Reporting of Specified Pro Bono Services) Rules 2015",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. For the purposes of section 25(1)(b)(v) of the Act, a solicitor’s application for a practising certificate must be accompanied by a declaration in writing stating that the solicitor has complied with the requirements under rule 3."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Legal Profession (Mandatory Reporting of Specified Pro Bono Services) Rules 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

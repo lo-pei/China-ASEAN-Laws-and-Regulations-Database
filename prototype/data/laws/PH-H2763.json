@@ -1,7 +1,7 @@
 {
  "id": "PH-H2763",
  "title": {
-  "zh": null,
+  "zh": "修订第1900号共和国法附录A第A目第24-A页第（128）号项目的法案",
   "en": "An Act to Amend Project Numbered (128), Page 24-A, Title A, Appendix a of Republic Act Numbered Nineteen Hundred",
   "orig": "An Act to Amend Project Numbered (128), Page 24-A, Title A, Appendix a of Republic Act Numbered Nineteen Hundred"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Project Numbered (128), Page 24-A, Title A, Appendix a of Republic Act Numbered Nineteen Hundred",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

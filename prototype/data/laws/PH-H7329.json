@@ -1,7 +1,7 @@
 {
  "id": "PH-H7329",
  "title": {
-  "zh": null,
+  "zh": "将邦板牙省 Sta. Rita 市镇 San Basilio 描笼涯的 Becuran 国立中学的 San Basilio 附属校分离，改设为独立的同名国立中学，并为此拨款",
   "en": "An Act Separating the Becuran National High School-San Basilio Annex in Barangay San Basilio, Municipality of Sta. Rita, Province of Pampanga From the Becuran National High School in the Municipality of Sta. Rita, Province of Pampanga and Converting It Into An Independent National High School to Be Known as the San Basilio National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Becuran National High School-San Basilio Annex in Barangay San Basilio, Municipality of Sta. Rita, Province of Pampanga From the Becuran National High School in the Municipality of Sta. Rita, Province of Pampanga and Converting It Into An Independent National High School to Be Known as the San Basilio National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Becuran National High School-San Basilio Annex in Barangay San Basilio, Municipality of Sta. Rita, Province of Pampanga From the Becuran National High School in the Municipality of Sta. Rita, Province of Pampanga and Converting It Into An Independent National High School to Be Known as the San Basilio National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-22-2000-E-UNIVERSITI-BRUNEI-DARUSSALAM-AMENDMENT-OF-FE1F44",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰大学附表修正命令 2000",
   "en": "UNIVERSITI BRUNEI DARUSSALAM AMENDMENT OF SCHEDULE ORDER 2000",
   "orig": null
  },
@@ -71,5 +71,13 @@
     "en": "《 1 ) When a ny statute or regulation is made, amended or revoked, every such statute or regulation, amendment or revocation shall be published in the University BuIIetin and in such fo rm or in any publication of the University as may be determined by the ViceChancellor. 罔 Nothing in this section shall apply to 间 (b ) any regulation containing only instructions to examiners or invigilators or details concermng courses Of study or syllabi or examinations; any statute or regulation which the Council resolves not to publish. ' 464 13th. APRIL, 2000 Made this 20the d ay of Zulhijah , 1420 Hijriah corresponding to the 27th. day of March, 2000 at Our lstana Nurul lman, Bandar Seri Begawan , Brunei Darussalam ·\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM 465"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "UNIVERSITI BRUNEI DARUSSALAM AMENDMENT OF SCHEDULE ORDER 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

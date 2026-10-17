@@ -1,7 +1,7 @@
 {
  "id": "SG-H916",
  "title": {
-  "zh": null,
+  "zh": "刑法（杂项修正）法 2025（生效）公告 2026",
   "en": "Criminal Law (Miscellaneous Amendments) Act 2025 (Commencement) Notification 2026",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Criminal Law\n(Miscellaneous Amendments) Act 2025\nCriminal Law\n(Miscellaneous Amendments) Act 2025\n(Commencement) Notification 2026\nIn exercise of the powers conferred by section 1 of the Criminal Law (Miscellaneous Amendments) Act 2025, the Minister for Home Affairs makes the following Notification:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Law (Miscellaneous Amendments) Act 2025 (Commencement) Notification 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

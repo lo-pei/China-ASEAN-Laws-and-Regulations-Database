@@ -1,7 +1,7 @@
 {
  "id": "SG-H1350",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（YTL PowerSeraya 私人有限公司——豁免）命令 2023",
   "en": "Environmental Protection and Management (YTL PowerSeraya Pte. Limited — Exemption) Order 2023",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Sub‑paragraph (2) applies if —\n(a)the Energy Market Authority of Singapore has issued to YTL PowerSeraya Pte. Limited a dispatch instruction for a specified open cycle gas turbine; and\n(b)YTL PowerSeraya Pte. Limited operates the specified open cycle gas turbine (called in this paragraph the activated specified open cycle gas turbine) in accordance with the dispatch instruction.\n(2) YTL PowerSeraya Pte. Limited is, in respect of the operation of the activated specified open cycle gas turbine for, or for purposes connected with the production of electricity, exempt from section 12(1) of the Act but only in relation to regulation 4(1) of, read with paragraph 1(q) of the Schedule to, the Environmental Protection and Management (Air Impurities) Regulations (Rg 8) —\n(a)for the specified period; but\n(b)only if the operation of the activated specified open cycle gas turbine does not result in the emission of oxides of nitrogen of a concentration that before admixture with air, smoke or other gases, exceeds 700 mg/Nm3 expressed as nitrogen dioxide.\n(3) Sub‑paragraph (4) applies if —\n(a)the Energy Market Authority of Singapore has issued to YTL PowerSeraya Pte. Limited a dispatch instruction for a specified steam plant; and\n(b)YTL PowerSeraya Pte. Limited operates the specified steam plant (called in this paragraph the activated specified steam plant) in accordance with the dispatch instruction.\n(4) YTL PowerSeraya Pte. Limited is, in respect of the operation of the activated specified steam plant for, or for purposes connected with the production of electricity, exempt from section 12(1) of the Act but only in relation to regulation 4(1) of, read with paragraph 1(q) of the Schedule to, the Environmental Protection and Management (Air Impurities) Regulations —\n(a)for the specified period; but\n(b)only if the operation of the activated specified steam plant does not result in the emission of oxides of nitrogen of a concentration that before admixture with air, smoke or other gases, exceeds 700 mg/Nm3 expressed as nitrogen dioxide."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Protection and Management (YTL PowerSeraya Pte. Limited — Exemption) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

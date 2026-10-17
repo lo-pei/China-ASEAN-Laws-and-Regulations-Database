@@ -1,7 +1,7 @@
 {
  "id": "PH-H5472",
  "title": {
-  "zh": null,
+  "zh": "加强制糖业社会改善计划、规定实施机制并为其他目的法案",
   "en": "An Act Strengthening the Social Amelioration Program in the Sugar Industry, Providing the Mechanics for its Implementation, and for Other Purposes",
   "orig": "An Act Strengthening the Social Amelioration Program in the Sugar Industry, Providing the Mechanics for its Implementation, and for Other Purposes"
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening the Social Amelioration Program in the Sugar Industry, Providing the Mechanics for its Implementation, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

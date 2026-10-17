@@ -1,7 +1,7 @@
 {
  "id": "PH-H9194",
  "title": {
-  "zh": null,
+  "zh": "生物燃料法 2006",
   "en": "Biofuels Act of 2006",
   "orig": "An Act Allowing Natural Gas Power Generating Plants in the Country to Use Neat Diesel as An Alternative Fuel, Exempting Them From the Requirements of Paragraph 5.3, Section 5 of Republic Act No. 9367, Otherwise Known as the “Biofuels Act of 2006”"
  },
@@ -91,14 +91,23 @@
    }
   },
   {
-   "id": "PH-H9194-A5_2",
+   "id": "PH-H9194-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Section 5."
    },
    "text": {
     "en": "Effeclivity. – This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation in the Philippines."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Biofuels Act of 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

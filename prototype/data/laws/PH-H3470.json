@@ -1,7 +1,7 @@
 {
  "id": "PH-H3470",
  "title": {
-  "zh": null,
+  "zh": "授予西内格罗斯省 Sagay 的 Pioneer 玻璃制造公司在菲律宾境内建设、维护和运营私人固定点对点与陆基无线电台的临时许可法案",
   "en": "An Act Granting the Pioneer Glass Manufacturing Corporation at Sagay, Negros Occidental, a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point and Land-Based Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines",
   "orig": "An Act Granting the Pioneer Glass Manufacturing Corporation at Sagay, Negros Occidental, a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point and Land-Based Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines"
  },
@@ -150,5 +150,13 @@
     "en": "This temporary permit shall be subject to amendment, alteration, or repeal by the Congress of the Philippines when the public interest so requires, and shall not be interpreted as an exclusive grant of the privileges herein provided for.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Pioneer Glass Manufacturing Corporation at Sagay, Negros Occidental, a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point and Land-Based Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

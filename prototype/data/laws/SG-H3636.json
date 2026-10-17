@@ -1,7 +1,7 @@
 {
  "id": "SG-H3636",
  "title": {
-  "zh": null,
+  "zh": "新加坡教区议会秘书条例 1959",
   "en": "Secretary of the Synod of the Diocese of Singapore Ordinance 1959",
   "orig": null
  },
@@ -126,5 +126,13 @@
     "en": "THE SCHEDULE\nSection 5\nLands in Singapore Vested in the Bishop of Singapore\nIncorporated under the Bishop of Singapore Ordinance 1911 Prior to 26 March 1959.\nNo.\nDescription\nT.S. or Mukim\nLand Lot No.\nMetric Area (m2)\nEstate\n1\nSt. Andrew’s Cathedral Coleman Street\nT.S. 10\n20-3\n2,447.4\nStatutory Land Grant No. 33925\nDo.\nT.S. 10\n20-4\n30,397.0\nLeasehold No. 5073 for a term of 999 years from 10 November 1951\n2\nSt. Hilda’s Church and St. Hilda’s School, Ceylon Road, Katong\nMukim 26\nMukim 26\n69-5\n69-8\n2,092.9\n2,022.1\nFreehold Grant No. 2\n3\nSt. Paul’s Church, 6th Milestone, Upper Serangoon Road\nMukim 22\n121-75\n6,862.0\nFreehold Grant No. 20\n4\nChrist Church and Christ Church School 1 Dorset Road\nT.S. 18\nT.S. 18\n470-5\n470-7\n2,145.8\n2,700.3\nFreehold Grant No. 185\n5\nSt. Matthew’s Church, 184 Neil Road\nT.S. 23\n145-2\n1,392\nStatutory Land Grant No. 4178\n6\nHoly Trinity Church, 1 Hamilton Road\nT.S. 17\n11-398\n1,330.6\nFreehold Grant No. 52\n7\nThe Church of True Light and Clinic, 25G Perak Road\nT.S. 16\n126-1\n647\nFreehold Grant No. 174\n8\nSt. John’s Church, Jurong\nMukim 10\n131\n12,242\nFreehold Grant No. 1627\n9\nSt. Luke’s Church, Trafalgar Home, Yio Chu Kang Road\nMukim 21\n1-56\n265.3\nStatutory Land Grant No. 30351\n10\nSt. Andrew’s School, Woodsville\nMukim 17\nMukim 17\n460-2\n460-3\n614.7\n68,644.8\nStatutory Land Grant No. 33358\n11\nSt. Matthew’s School and Parsonage, 184 Neil Road\nT.S. 23\n145-12\n1,428.7\nLeasehold No. 4841 for a term of 30 years from 1-1-1947\n12\nCathedral House, 83 Cavenagh Road and Cathedral Cottage, 85 Cavenagh Road\nT.S. 27\n106-6\n6,719.5\nFreehold Grant No. 67\n13\nNos. 84 and 86 Marshall Road, Katong\nMukim 26\n68-3\n2,842.7\nFreehold Grant No. 2\n14\nChrist Church Parsonage, 118 Keng Lee Road\nT.S. 28\n15\n993.0\nFreehold Grant No. 65\n15\nSt. Matthew’s Church House, 22 Blair Road\nT.S. 23\n87-55\n130.7\nFreehold Grant No. 60\n16\nNo. 44 Butterfly Avenue\nMukim 24\n514-456\n507.3\nFreehold Grants Nos. 38 and 221\n17\nNo. 46 Butterfly Avenue\nMukim 24\n514-457\n445.4\nFreehold Grants Nos. 38 and 221\n18\nSt. Margaret’s School Extension Site, Farrer Road\nMukim 2\nMukim 2\nMukim 2\n80-1\n81-2\n123-1\n808.7\n8,394.1\n1,767.9\n}\nFreehold Grant No. 60\n19\nSt. Andrew’s School Extension Site, Siglap Road\nMukim 27 (Bedok)\n1-11\n11,724.9\nFreehold Grant No. 3\n20\nSt. Margaret’s School\nT.S. 19\n2\n10,905\nPt. Grant No. 67"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Secretary of the Synod of the Diocese of Singapore Ordinance 1959",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

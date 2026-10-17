@@ -1,7 +1,7 @@
 {
  "id": "PH-H2683",
  "title": {
-  "zh": null,
+  "zh": "授权伊洛伊洛省发行债券为其境内水泥道路建设筹资，并授权以该省上述债券担保发行国家政府债券的法案",
   "en": "An Act Authorizing the Province of Iloilo to Issue Bonds for the Purpose of Providing Funds for the Construction of Cement Roads Therein and Authorizing also a National Government Bond Issue Secured by the Said Bonds of the Province of Iloilo",
   "orig": "An Act Authorizing the Province of Iloilo to Issue Bonds for the Purpose of Providing Funds for the Construction of Cement Roads Therein and Authorizing also a National Government Bond Issue Secured by the Said Bonds of the Province of Iloilo"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect on January 1, 1962 Approved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Province of Iloilo to Issue Bonds for the Purpose of Providing Funds for the Construction of Cement Roads Therein and Authorizing also a National Government Bond Issue Secured by the Said Bonds of the Province of Iloilo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H105",
  "title": {
-  "zh": null,
+  "zh": "活跃通勤（可登记代步车辆登记）条例 2026",
   "en": "Active Mobility (Registration of Registrable Mobility Vehicles) Regulations 2026",
   "orig": null
  },
@@ -528,5 +528,13 @@
     "en": "THE SCHEDULE\nRegulations 24(b) and 25(b)(iv)\nIdentification mark display requirements\n1.The unique registration code assigned upon the registration of a registrable mobility vehicle must be contained in the identification mark for the mobility vehicle and must be displayed in 2 horizontal rows, to be read from left to right, with figures and letters on the top row, and figures on the bottom row, as illustrated by Diagram 1 below.\nDIAGRAM 1\n2.The figures or letters comprising the mobility vehicle’s unique registration code must be inscribed, printed, engraved or depicted on the surface of the identification mark in a manner that may not be easily removed.\n3.The figures or letters comprising the mobility vehicle’s unique registration code must be in a horizontal position so that every figure or letter is distinguishable to any person who may be in front of the mobility vehicle when it is in motion.\n4.Any other figure, letter, advertisement, ornament or other thing must not be affixed or attached near the identification mark in such manner.\n5.The identification mark must satisfy all of the following dimensions and layout:\n(a)each figure or letter must be 35 mm high, every part of each figure or letter must be 5 mm broad and the total space taken by each figure or letter must be 25 mm wide, as illustrated by Diagram 2 below;\nDIAGRAM 2\n(b)the space between adjoining figures or letters must be 5 mm, as illustrated by Diagram 3 below;\nDIAGRAM 3\n(c)the margin between such part of any figure or letter nearest to the top, bottom or sides of the identification mark, and the top or bottom of the identification mark, must be a minimum of 5 mm, as illustrated by Diagram 4 below;\nDIAGRAM 4\n(d)the space between the figures or letters in the top row and the bottom row must be 5 mm, as illustrated by Diagram 5 below.\nDIAGRAM 5"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Active Mobility (Registration of Registrable Mobility Vehicles) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

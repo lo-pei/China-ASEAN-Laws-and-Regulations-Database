@@ -1,7 +1,7 @@
 {
  "id": "PH-H5040",
  "title": {
-  "zh": null,
+  "zh": "在达沃省设立Samal副省的法案",
   "en": "An Act Creating the Sub-Province of Samal in the Province of Davao.",
   "orig": "An Act Amending Section Four of Republic Act Numbered Fifty-Nine Hundred Ninety-Nine, Entitled \"An Act Creating the Sub-Province of Samal in the Province of Davao.\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without the Executive approval, August 26, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Sub-Province of Samal in the Province of Davao.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

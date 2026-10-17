@@ -1,7 +1,7 @@
 {
  "id": "SG-H2295",
  "title": {
-  "zh": null,
+  "zh": "所得税（Jurong Engineering 有限公司依第 13（12）条享有的豁免）命令 2024",
   "en": "Income Tax (Jurong Engineering Limited — Section 13(12) Exemption) Order 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividend income received in Singapore by Jurong Engineering Limited (a company incorporated in Singapore) during the period from 16 June 2017 to 19 July 2019 (both dates inclusive) from Konsultasi Sepadu Jaya Sdn Bhd (a company incorporated in Malaysia), which is in turn derived from the profits of Equator Engineering Sdn Bhd (a company incorporated in Malaysia), is exempt from tax.\n(2) The exemption in sub-paragraph (1) is subject to the conditions specified in the letter from the Ministry of Finance dated 16 April 2024 and addressed to Foo Kon Tan LLP."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Jurong Engineering Limited — Section 13(12) Exemption) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

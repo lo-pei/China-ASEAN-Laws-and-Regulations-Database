@@ -1,7 +1,7 @@
 {
  "id": "BN-BURIAL-GROUNDS-RULES",
  "title": {
-  "zh": null,
+  "zh": "墓地规则",
   "en": "BURIAL GROUNDS RULES",
   "orig": null
  },
@@ -187,5 +187,13 @@
     "en": "Any person committing a breach of these rules shall be guilty of Penalty an offence: Penalty, a fine of $500. (Rule 3)\n\nOR PLACE OF CREMATION LICENCE ..................................................... of ............................. . having satisfied His Majesty the Sultan and Yang Di-Pertuan in Council is the proper person to have control or charge of the land described hereunder is hereby licensed to use the said land as a place of ......................... subject to the provisions of the Burials Act, (Cap. 49) and to the rules made thereunder. of Land Clerk to the Council of Ministers, Brunei Date ...................................... . ..................................... ."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BURIAL GROUNDS RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

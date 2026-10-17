@@ -1,7 +1,7 @@
 {
  "id": "PH-H10610",
  "title": {
-  "zh": null,
+  "zh": "宣布每年2月1日为全国头巾及其他传统服饰宣传日的法案",
   "en": "An Act Declaring the First Day of February of Every Year as the National Day of Awareness on Hijab and Other Traditional Garments and Attire",
   "orig": "An Act Declaring the First Day of February of Every Year as the National Day of Awareness on Hijab and Other Traditional Garments and Attire"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the First Day of February of Every Year as the National Day of Awareness on Hijab and Other Traditional Garments and Attire",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

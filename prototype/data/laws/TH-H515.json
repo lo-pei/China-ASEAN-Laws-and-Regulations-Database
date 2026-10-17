@@ -1,7 +1,7 @@
 {
  "id": "TH-H515",
  "title": {
-  "zh": null,
+  "zh": "招牌税法，佛历 2510（1967）",
   "en": "SIGNBOARD TAX ACT, B.E. 2510 (1967)",
   "orig": "พระราชบัญญัติภาษีป้าย พ.ศ. 2510"
  },
@@ -623,5 +623,13 @@
     "th": "มาตรา ๔๐ บทบัญญัติแห่งประมวลรัษฎากรที่ยกเลิกตามมาตรา ๓ ให้คงใช้บังคับได้ในการเก็บภาษีป้ายจำนวนปีต่าง ๆ ก่อนวันที่พระราชบัญญัตินี้ใช้บังคับ"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "SIGNBOARD TAX ACT, B.E. 2510 (1967)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

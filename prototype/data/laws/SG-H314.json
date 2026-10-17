@@ -1,7 +1,7 @@
 {
  "id": "SG-H314",
  "title": {
-  "zh": null,
+  "zh": "生物剂与毒素（豁免）条例 2009",
   "en": "Biological Agents and Toxins (Exemption) Regulations 2009",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Any person who contravenes any requirement specified in regulation 3(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Biological Agents and Toxins (Exemption) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

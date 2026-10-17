@@ -1,7 +1,7 @@
 {
  "id": "PH-H4070",
  "title": {
-  "zh": null,
+  "zh": "批准将依第3783号法授予Misamis Limber公司的特许经营权、权利与特权转让给Misamis Lumber公司的法案",
   "en": "An Act Approving the Transfer of the Franchise, Rights and Privileges Granted to Misamis Limber Company, Inc. by Act Numbered Thirty-Seven Hundred Eighty-Three in Favor of the Misamis Lumber Corporation",
   "orig": "An Act Approving the Transfer of the Franchise, Rights and Privileges Granted to Misamis Limber Company, Inc. by Act Numbered Thirty-Seven Hundred Eighty-Three in Favor of the Misamis Lumber Corporation"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Approving the Transfer of the Franchise, Rights and Privileges Granted to Misamis Limber Company, Inc. by Act Numbered Thirty-Seven Hundred Eighty-Three in Favor of the Misamis Lumber Corporation",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

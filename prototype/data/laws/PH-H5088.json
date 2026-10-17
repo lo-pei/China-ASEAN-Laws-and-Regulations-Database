@@ -1,7 +1,7 @@
 {
  "id": "PH-H5088",
  "title": {
-  "zh": null,
+  "zh": "为Catanduanes州立学院增设课程，为此修订第6341号共和国法若干条款的法案",
   "en": "An Act Providing for Additional Courses to Be Offered in the Catanduanes State Colleges, Amending for the Purpose Certain Sections of Republic Act Numbered Sixty-Three Hundred Forty-One.",
   "orig": "An Act Providing for Additional Courses to Be Offered in the Catanduanes State Colleges, Amending for the Purpose Certain Sections of Republic Act Numbered Sixty-Three Hundred Forty-One."
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H5088-A1_2",
+   "id": "PH-H5088-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The Virac National Agricultural and Trade School in the Municipality of Virac, Province of Catanduanes, is hereby converted into a college to be known as Catanduanes State Colleges, hereinafter called Colleges, which shall offer two-year courses leading to the titles of Associate in Arts in Nursing, Associate in Arts in Education, Associate in Business Education, Associate in Commerce; courses leading to the degrees of Bachelor of Arts, Bachelor of Science, Bachelor of Science in Agriculture, Bachelor of Science in Forestry, Bachelor of Laws, Bachelor of Science in Civil Engineering, Bachelor of Science in Mechanical Engineering, Bachelor Science in Electrical Engineering, Bachelor of Science in Elementary Education, Bachelor of Science in Business Education, Bachelor of Science in Commerce and Bachelor of Science in Education, and courses leading to degrees of Master of Arts in Business Education, Master of Arts in Education, and Master of Arts in Commerce, and such other courses that the Board Trustees may authorize.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5088-A2",
@@ -80,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without executive approval, September 30, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for Additional Courses to Be Offered in the Catanduanes State Colleges, Amending for the Purpose Certain Sections of Republic Act Numbered Sixty-Three Hundred Forty-One.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

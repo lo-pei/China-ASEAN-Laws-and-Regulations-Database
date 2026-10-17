@@ -1,7 +1,7 @@
 {
  "id": "PH-H9527",
  "title": {
-  "zh": null,
+  "zh": "将伊莎贝拉省 Santiago 市南伊莎贝拉综合医院提升为名为南伊莎贝拉医疗中心的三级综合医院的法案",
   "en": "An Act Upgrading the Southern Isabela General Hospital in Santiago City, Province of Isabela Into a Tertiary General Hospital to Be Known as the Southern Isabela Medical Center and...",
   "orig": "An Act Upgrading the Southern Isabela General Hospital in Santiago City, Province of Isabela Into a Tertiary General Hospital to Be Known as the Southern Isabela Medical Center and..."
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading the Southern Isabela General Hospital in Santiago City, Province of Isabela Into a Tertiary General Hospital to Be Known as the Southern Isabela Medical Center and...",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

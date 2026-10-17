@@ -1,7 +1,7 @@
 {
  "id": "PH-H4801",
  "title": {
-  "zh": null,
+  "zh": "将东萨马省巴朗卡延市镇的坎图比小村改设为名称为坎图比村的正规村的法案",
   "en": "An Act Converting Sitio Cantubi in the Municipality of Balangkayan in the Province of Eastern Samar Into a Regular Barrio to Be Known as Barrio Cantubi.",
   "orig": "An Act Converting Sitio Cantubi in the Municipality of Balangkayan in the Province of Eastern Samar Into a Regular Barrio to Be Known as Barrio Cantubi."
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 19, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting Sitio Cantubi in the Municipality of Balangkayan in the Province of Eastern Samar Into a Regular Barrio to Be Known as Barrio Cantubi.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H8828",
  "title": {
-  "zh": null,
+  "zh": "免除北三宝颜电力合作社（ZANECO）应付国家电力公司（NPC）燃料补偿费/增量成本费（FCC/ICC）已付本金账户的利息",
   "en": "An Act Condoning the Interest on the Paid Principal Account of Fuel Compensating Charge/incremental Cost Charge (FCC/ICC) of the Zamboanga Del Norte Electric Cooperative. Inc. (ZANECO) Payable and Due to the National Power Corporation (NPC)",
   "orig": "An Act Condoning the Interest on the Paid Principal Account of Fuel Compensating Charge/incremental Cost Charge (FCC/ICC) of the Zamboanga Del Norte Electric Cooperative. Inc. (ZANECO) Payable and Due to the National Power Corporation (NPC)"
  },
@@ -70,5 +70,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Condoning the Interest on the Paid Principal Account of Fuel Compensating Charge/incremental Cost Charge (FCC/ICC) of the Zamboanga Del Norte Electric Cooperative. Inc. (ZANECO) Payable and Due to the National Power Corporation (NPC)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H947",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典（就暂缓执行申请向新加坡监狱署送达）条例 2024",
   "en": "Criminal Procedure Code (Service on Singapore Prison Service for Application relating to Stay of Execution) Regulations 2024",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The requirement for service on the Singapore Prison Service in section 313(1)(ia)(ii) of the Code does not apply where the Singapore Prison Service assists an applicant to file the application for permission to apply for a stay of execution or the application for a stay of execution, as the case may be."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure Code (Service on Singapore Prison Service for Application relating to Stay of Execution) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

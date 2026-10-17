@@ -1,7 +1,7 @@
 {
  "id": "PH-H7390",
  "title": {
-  "zh": null,
+  "zh": "将孔波斯特拉谷省Maragusan的Paloc描笼涯Paloc中学改设为Paloc国立中学，并为此拨款及为其他目的法案",
   "en": "An Act Converting the Paloc Barangay High School in Barangay Paloc, Maragusan, Compostela Valley Province Into the Paloc National High School, Providing Funds Therefor and for Other Purposes",
   "orig": "An Act Converting the Paloc Barangay High School in Barangay Paloc, Maragusan, Compostela Valley Province Into the Paloc National High School, Providing Funds Therefor and for Other Purposes"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Paloc Barangay High School in Barangay Paloc, Maragusan, Compostela Valley Province Into the Paloc National High School, Providing Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

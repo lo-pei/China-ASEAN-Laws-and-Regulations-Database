@@ -1,7 +1,7 @@
 {
  "id": "PH-H6882",
  "title": {
-  "zh": null,
+  "zh": "修订第 6631 号共和国法并将 Manila Jockey Club, Inc. 的赛马场特许权自期满起再延长 25 年的法案",
   "en": "An Act Amending Republic Act Numbered Sixty-six Hundred Thirty-one Entitled \"An Act Granting Manila Jockey Club, Inc., a Franchise to Construct, Operate and Maintain a Racetrack for Horse Racing in the City of Manila or Any Place Within the Provinces of Bulacan, Cavite or Rizal\" and Extending the Said Franchise By Twenty-five (25) Years From the Expiration of the Term Thereof",
   "orig": "An Act Amending Republic Act Numbered Sixty-six Hundred Thirty-one Entitled \"An Act Granting Manila Jockey Club, Inc., a Franchise to Construct, Operate and Maintain a Racetrack for Horse Racing in the City of Manila or Any Place Within the Provinces of Bulacan, Cavite or Rizal\" and Extending the Said Franchise By Twenty-five (25) Years From the Expiration of the Term Thereof"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H6882-A1_2",
+   "id": "PH-H6882-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Nature and Scope of Franchise. – Any provision of law to the contrary notwithstanding, there is hereby granted to Manila Jockey Club, Inc., a corporation duly organized and registered under the laws of the Philippines, hereinafter called the grantee or its assigns or its successors, for a period of twenty-five (25) years from the approval of this Act, the right, privilege and authority to construct, operate and maintain one racetrack in any place within the City of Manila or any place within the provinces of Bulacan, Cavite or Rizal, establish such branches thereof for booking purposes anywhere in the country, and hold or conduct horse races therein with bettings either directly or indirectly by means of mechanical, electric and/or computerized totalizator and to do and carry out all such acts, deeds and things as may be necessary to give effect to the foregoing: Provided, That in case of transfer of the racetrack from the City of Manila, such transfer shall be subject to the approval of the host province or city/municipality to where it would transfer, through a public hearing to be conducted by the local government unit concerned.\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6882-A2",
@@ -251,14 +252,23 @@
    }
   },
   {
-   "id": "PH-H6882-A2_2",
+   "id": "PH-H6882-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Effectivity. – This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Sixty-six Hundred Thirty-one Entitled \"An Act Granting Manila Jockey Club, Inc., a Franchise to Construct, Operate and Maintain a Racetrack for Horse Racing in the City of Manila or Any Place Within the Provinces of Bulacan, Cavite or Rizal\" and Extending the Said Franchise By Twenty-five (25) Years From the Expiration of the Term Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

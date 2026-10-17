@@ -1,7 +1,7 @@
 {
  "id": "SG-H1647",
  "title": {
-  "zh": null,
+  "zh": "政府证券（债务市场与投资）（罚款）公告 2010",
   "en": "Government Securities (Debt Market and Investment) (Financial Penalty) Notification 2010",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. For the purposes of section 29D(3) of the Act, the financial penalty payable by any primary dealer, who fails to comply with any direction given on or after 1 January 2014 by the Authority under section 29C(1) of the Act, is $1,000 per day or part of a day of such failure."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Government Securities (Debt Market and Investment) (Financial Penalty) Notification 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

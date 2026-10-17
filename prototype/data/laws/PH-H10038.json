@@ -1,7 +1,7 @@
 {
  "id": "PH-H10038",
  "title": {
-  "zh": null,
+  "zh": "将奎松市第一立法区的Roosevelt大道更名为Fernando Poe Jr.大道，并为此作出规定的法案",
   "en": "An Act Renaming Roosevelt Avenue Located in Legislative District I of Quezon City as Fernando Poe Jr. Avenue",
   "orig": "An Act Renaming Roosevelt Avenue Located in Legislative District I of Quezon City as Fernando Poe Jr. Avenue"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming Roosevelt Avenue Located in Legislative District I of Quezon City as Fernando Poe Jr. Avenue",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

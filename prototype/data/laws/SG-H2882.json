@@ -1,7 +1,7 @@
 {
  "id": "SG-H2882",
  "title": {
-  "zh": null,
+  "zh": "国际受保护人员法 2008",
   "en": "Internationally Protected Persons Act 2008",
   "orig": null
  },
@@ -227,5 +227,13 @@
     "en": "SECOND SCHEDULE\nSections 5(1)(c), 6(1)(b), 7(b), 9(4)(b), 10(3)(b) and 13\nOffences against premises or vehicles\nOffence\nDescription\nExplosive Substances Act 1924\n1.Section 3\nCausing explosion likely to endanger property\n2.Section 4\nAttempt to cause explosion or making or keeping explosive with intent to endanger property\nPenal Code 1871\n3.Section 426\nMischief\n4.Section 427\nMischief causing disruption to key service, etc.\n5.Section 430A (as in force before 1 January 2020)\nMischief affecting railway engine, train, etc.\n6.Section 435\nMischief by fire or explosive substance with intent to cause damage\n7.Section 436\nMischief by fire or explosive substance with intent to destroy a house, etc.\n8.Section 437\nMischief with intent to destroy or make unsafe a decked vessel or a vessel of 20 tons burden\n9.Section 438\nMischief described in section 437 when committed by fire or any explosive substance\n10.Section 439\nIntentionally running vessel aground or ashore with intent to commit theft, etc.\n11.Section 440\nMischief committed after preparation made for causing death or hurt.\n[S 834/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Internationally Protected Persons Act 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

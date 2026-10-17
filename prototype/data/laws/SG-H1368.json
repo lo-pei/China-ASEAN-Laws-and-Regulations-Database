@@ -1,7 +1,7 @@
 {
  "id": "SG-H1368",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（受管制工程申请费用）条例 2025",
   "en": "Environmental Public Health (Fees for Controlled Works Applications) Regulations 2025",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nFees\nFirst column\nSecond column\nType of application\nFee\n1.Application for design certificate, clearance certificate, temporary compliance certificate or compliance certificate for controlled works involving any of the following:\n$1,200 for any number of applications per controlled works project\n(a)bin centre\n(b)pneumatic waste conveyance system\n(c)public toilet\n(d)kitchen exhaust, including changes to its location or direction\n(e)cooling tower\n2.Application for design certificate, clearance certificate, temporary compliance certificate or compliance certificate for any controlled works not mentioned in item 1\n$1,000 for any number of applications per controlled works project\n3.Application for waiver by the Director‑General of any environmental public health requirement for any controlled works or for any non‑compliance of completed controlled works with any environmental public health requirement\n$600 per requirement to be waived\n4.Application to lodge plans of controlled works under a condition in section 46D(2)(a) of the Act\n$300 per controlled works project"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Fees for Controlled Works Applications) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1966",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统将马尼拉市一幅属国家政府的土地出售给菲律宾乡村银行家协会的法案",
   "en": "An Act Authorizing the President of the Philippines to Sell One Parcel of Land in the City of Manila Belonging to the National Government to the Rural Bankers Association of the Philippines",
   "orig": "An Act Authorizing the President of the Philippines to Sell One Parcel of Land in the City of Manila Belonging to the National Government to the Rural Bankers Association of the Philippines"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 28, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Sell One Parcel of Land in the City of Manila Belonging to the National Government to the Rural Bankers Association of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1781",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（设计—建造—销售计划——归属）（第 4 号）公告 2011",
   "en": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) (No. 4) Notification 2011",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nDescription of land\nApproved developer\nLot number 16852M in Mukim 18 at Bishan Street 24 containing an area of 15,218.5 square metres, and which is more particularly delineated in the Plan.\nQingjian Realty Pte Ltd.\nthe plan"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) (No. 4) Notification 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3474",
  "title": {
-  "zh": null,
+  "zh": "授权从国家国库未另拨款项中拨出30万比索，用于支付卡加延省Claveria市镇欠Certeza Surveying Company的未偿债务的法案",
   "en": "An Act Authorizing the Appropriation of the Amount of Three Hundred Thousand Pesos Out of Any Funds in the National Treasury not Otherwise Appropriated, for the Payment of the Outstanding Obligation of the Municipality of Claveria, Province of Cagayan, in Favor of Certeza Surveying Company",
   "orig": "An Act Authorizing the Appropriation of the Amount of Three Hundred Thousand Pesos Out of Any Funds in the National Treasury not Otherwise Appropriated, for the Payment of the Outstanding Obligation of the Municipality of Claveria, Province of Cagayan, in Favor of Certeza Surveying Company"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of the Amount of Three Hundred Thousand Pesos Out of Any Funds in the National Treasury not Otherwise Appropriated, for the Payment of the Outstanding Obligation of the Municipality of Claveria, Province of Cagayan, in Favor of Certeza Surveying Company",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

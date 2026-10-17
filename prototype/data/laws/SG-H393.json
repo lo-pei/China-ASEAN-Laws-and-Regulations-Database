@@ -1,7 +1,7 @@
 {
  "id": "SG-H393",
  "title": {
-  "zh": null,
+  "zh": "巴士服务业（巴士车厂与巴士转换站执照）条例 2016",
   "en": "Bus Services Industry (Bus Depot and Bus Interchange Licence) Regulations 2016",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. An application to the LTA for the renewal of a bus depot licence or bus interchange licence must be made in writing in the form and manner required by the LTA, and no later than 6 months before the expiry of the licence."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Bus Services Industry (Bus Depot and Bus Interchange Licence) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

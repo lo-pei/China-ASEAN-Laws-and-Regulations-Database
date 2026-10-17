@@ -1,7 +1,7 @@
 {
  "id": "PH-H1142",
  "title": {
-  "zh": null,
+  "zh": "将八打雁省八打雁市镇佛得岛（Isla Verde）的伊拉亚拉巴克、马塔利赛、帕霍与卡卡万小村改设为该市镇名为圣安东尼奥村的法案",
   "en": "An Act to Convert the Sitios of Ilaya Labac, Matalisay, Pajo and Cacawan in Isla Verde, in the Municipality of Batangas, Province of Batangas, to a Barrio to be Known as Barrio San Antonio of the Same Municipality",
   "orig": "An Act to Convert the Sitios of Ilaya Labac, Matalisay, Pajo and Cacawan in Isla Verde, in the Municipality of Batangas, Province of Batangas, to a Barrio to be Known as Barrio San Antonio of the Same Municipality"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Sitios of Ilaya Labac, Matalisay, Pajo and Cacawan in Isla Verde, in the Municipality of Batangas, Province of Batangas, to a Barrio to be Known as Barrio San Antonio of the Same Municipality",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2797",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（保留与过渡条款）条例 2020",
   "en": "Insolvency, Restructuring and Dissolution (Saving and Transitional Provisions) Regulations 2020",
   "orig": null
  },
@@ -844,5 +844,13 @@
     "en": "62.—(1) Despite section 524(a) of the Act, section 19(4)(a) read with section 19(4)(i) of the Work Injury Compensation Act (Cap. 354) as in force immediately before 30 July 2020 continues to apply to or in relation to any employer who is adjudged bankrupt pursuant to a bankruptcy application made before that date.\n(2) Despite section 524(b) of the Act, section 19(4)(b) read with section 19(4)(ii) of the Work Injury Compensation Act as in force immediately before 30 July 2020 continues to apply to or in relation to any employer that is wound up pursuant to —\n(a)an order for winding up of a company made under section 216(2)(f) of the Companies Act before that date;\n(b)an application for winding up made under section 253 of the Companies Act before that date;\n(c)an application made before that date for the winding up of an unregistered company under section 351 of the Companies Act;\n(d)a voluntary winding up that commenced within the meaning of section 291(6) of the Companies Act before that date;\n(e)an application for winding up arising from a notice of commencement of liquidation or dissolution proceedings in its place of incorporation or origin that was lodged under section 377(2)(a) of the Companies Act before that date; or\n(f)an application for winding up arising from an application made before that date for recognition of a foreign proceeding under Article 15(1) of the Tenth Schedule to the Companies Act.\n(3) Despite section 524(c) and (d) of the Act, section 19(4)(c) read with section 19(4)(iii) of the Work Injury Compensation Act as in force immediately before 30 July 2020 continues to apply to or in relation to any employer in respect of which an appointment was made before that date of a receiver or manager of the property of the employer (being a company) or of the property in Singapore of the employer (being any other corporation)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insolvency, Restructuring and Dissolution (Saving and Transitional Provisions) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

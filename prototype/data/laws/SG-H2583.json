@@ -1,7 +1,7 @@
 {
  "id": "SG-H2583",
  "title": {
-  "zh": null,
+  "zh": "所得税（银行或金融公司业务转让）命令 2008",
   "en": "Income Tax (Transfer of Undertaking by Bank or Finance Company) Order 2008",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. It is hereby declared that, subject to the conditions specified in the letter of approval dated 15th February 2008, the provisions in the accounts of Bank Austria Aktiengesellschaft AG Singapore Branch which have been transferred to Bayerische Hypo-und Vereinsbank AG Singapore Branch —\n(a)shall not be deemed under section 14I(2)(b) of the Act to be a trading receipt of Bank Austria Aktiengesellschaft AG Singapore Branch; and\n(b)shall for the purposes of section 14I of the Act be treated as having been allowed to Bayerische Hypo-und Vereinsbank AG Singapore Branch as a deduction under that section."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Transfer of Undertaking by Bank or Finance Company) Order 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

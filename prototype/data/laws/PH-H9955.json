@@ -1,7 +1,7 @@
 {
  "id": "PH-H9955",
  "title": {
-  "zh": null,
+  "zh": "设立椰子种植者与产业信托基金、规定其管理与使用、为此重组菲律宾椰子管理局理事会并为其他目的法案",
   "en": "An Act Creating the Coconut Farmers and Industry Trust Fund, Providing for Its Management and Utilization, Reconstituting for the Purpose the Philippine Coconut Authority Board, and for Other",
   "orig": "An Act Creating the Coconut Farmers and Industry Trust Fund, Providing for Its Management and Utilization, Reconstituting for the Purpose the Philippine Coconut Authority Board, and for Other"
  },
@@ -250,5 +250,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in t he Official Gazette or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Coconut Farmers and Industry Trust Fund, Providing for Its Management and Utilization, Reconstituting for the Purpose the Philippine Coconut Authority Board, and for Other",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

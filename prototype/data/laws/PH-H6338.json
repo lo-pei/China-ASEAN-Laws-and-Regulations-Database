@@ -1,7 +1,7 @@
 {
  "id": "PH-H6338",
  "title": {
-  "zh": null,
+  "zh": "将黎刹省塔奈市镇桑帕洛克黎刹农业与技术学院的名称变更为黎刹州立学院的法案",
   "en": "An Act Changing the Name of Rizal College of Agriculture and Technology in Sampaloc, Municipality of Tanay, Province of Rizal, to Rizal State College",
   "orig": "An Act Changing the Name of Rizal College of Agriculture and Technology in Sampaloc, Municipality of Tanay, Province of Rizal, to Rizal State College"
  },
@@ -62,5 +62,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Rizal College of Agriculture and Technology in Sampaloc, Municipality of Tanay, Province of Rizal, to Rizal State College",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

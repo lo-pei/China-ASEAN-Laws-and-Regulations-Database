@@ -1,7 +1,7 @@
 {
  "id": "SG-H3676",
  "title": {
-  "zh": null,
+  "zh": "国家法院法 1970",
   "en": "State Courts Act 1970",
   "orig": null
  },
@@ -1368,5 +1368,13 @@
     "en": "THE SCHEDULE\nSection 17(1)\nForms of oaths and affirmations\n1. OATHS OF OFFICE AND ALLEGIANCE OF A JUDICIAL OFFICER\nI, , having been appointed to the office of do solemnly swear (or affirm) that I will faithfully discharge my judicial duties and I will do right to all manner of people after the laws and usages of the Republic of Singapore without fear or favour, affection or ill will to the best of my ability, and I will be faithful and bear true allegiance to the Republic of Singapore.\nTaken and subscribed before me at this day of .\nOfficer Administering the Oath\n2. OATH OF OFFICE OF AN INTERPRETER\nI, , having been appointed an interpreter of the Court do solemnly swear (or affirm) that I will faithfully interpret, translate and transcribe from the language into the English language and from the English language into the language to the best of my knowledge, skill and ability and without fear or favour, affection or ill will.\nTaken and subscribed before me at this day of .\nOfficer Administering the Oath\n3. OATH OF OFFICE OF OTHER OFFICER OF A COURT\nI, , having been appointed to the office of in the Court do solemnly swear (or affirm) that I will not use or exercise my office corruptly during the time that I remain therein, neither will I take or accept by any means whatsoever any fee or reward from any person or persons, but will truly and faithfully and with convenient speed execute the duties assigned to me and will make true and faithful returns as to the manner and time of the execution of all writs, summonses, warrants, orders, notices and other mandatory processes given to me.\nTaken and subscribed before me at this day of .\nOfficer Administering the Oath"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "State Courts Act 1970",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

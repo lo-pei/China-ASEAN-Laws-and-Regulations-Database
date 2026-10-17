@@ -1,7 +1,7 @@
 {
  "id": "SG-H1667",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（宗教用途武器——类别许可）命令 2025",
   "en": "Guns, Explosives and Weapons Control (Religious Use of Weapons — Class Licence) Order 2025",
   "orig": null
  },
@@ -198,5 +198,13 @@
     "en": "10. To avoid doubt, for the purposes of paragraph 8, it does not matter that —\n(a)the individual’s religious belief, religious opinion or religious affiliation is not the same as that applied at the funeral event, funerary memorial event or religious service; or\n(b)the individual does not have any religious belief, religious opinion or religious affiliation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Guns, Explosives and Weapons Control (Religious Use of Weapons — Class Licence) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2741",
  "title": {
-  "zh": null,
+  "zh": "设立刺绣与服装管制与检查委员会，负责地方刺绣服装制造商免税原材料进口的管制、入境许可签发与状况检查及复出口的相应清算",
   "en": "An Act Creating an Embroidery and Apparel Control and Inspection Board Covering Control, Issuance of Entry Permits, and Inspection of Conditionally Tax-Free Raw Material Importations by Local Embroidery Apparel Manufacturers and the Corresponding Liquidation of Re-Exportations Thereof as Philippine-Made Embroideries and Apparels",
   "orig": "An Act Creating an Embroidery and Apparel Control and Inspection Board Covering Control, Issuance of Entry Permits, and Inspection of Conditionally Tax-Free Raw Material Importations by Local Embroidery Apparel Manufacturers and the Corresponding Liquidation of Re-Exportations Thereof as Philippine-Made Embroideries and Apparels"
  },
@@ -111,5 +111,13 @@
     "en": "Effectivity. This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating an Embroidery and Apparel Control and Inspection Board Covering Control, Issuance of Entry Permits, and Inspection of Conditionally Tax-Free Raw Material Importations by Local Embroidery Apparel Manufacturers and the Corresponding Liquidation of Re-Exportations Thereof as Philippine-Made Embroideries and Apparels",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

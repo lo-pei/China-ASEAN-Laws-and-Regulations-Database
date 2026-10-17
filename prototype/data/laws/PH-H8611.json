@@ -1,7 +1,7 @@
 {
  "id": "PH-H8611",
  "title": {
-  "zh": null,
+  "zh": "在特定情形下给予市镇议会、市议会与省议会议员相应的文官服务资格并为其他目的",
   "en": "An Act Conferring Upon Members of the Sangguniang Bayan, Sangguniang Panlungsod and Sangguniang Panlalawigan, the Appropriate Civil Service Eligibility Under Certain Circumstances, and for Other Purposes",
   "orig": "An Act Conferring Upon Members of the Sangguniang Bayan, Sangguniang Panlungsod and Sangguniang Panlalawigan, the Appropriate Civil Service Eligibility Under Certain Circumstances, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Conferring Upon Members of the Sangguniang Bayan, Sangguniang Panlungsod and Sangguniang Panlalawigan, the Appropriate Civil Service Eligibility Under Certain Circumstances, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

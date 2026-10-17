@@ -1,7 +1,7 @@
 {
  "id": "PH-H4626",
  "title": {
-  "zh": null,
+  "zh": "要求法院优先审理当事人为贫困者的刑事案件的法案",
   "en": "An Act Requiring Courts to Give Preference to Criminal Cases Where the Party or Parties Involve Are Indigents.",
   "orig": "An Act Requiring Courts to Give Preference to Criminal Cases Where the Party or Parties Involve Are Indigents."
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring Courts to Give Preference to Criminal Cases Where the Party or Parties Involve Are Indigents.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

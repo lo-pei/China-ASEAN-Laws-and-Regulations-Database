@@ -1,7 +1,7 @@
 {
  "id": "PH-H1161",
  "title": {
-  "zh": null,
+  "zh": "修订武端市宪章若干条款的法案",
   "en": "An Act to Amend Certain Provisions of the Charter of the City of Butuan",
   "orig": "An Act to Amend Certain Provisions of the Charter of the City of Butuan"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval: Provided, That the incumbent appointive Mayor and vice-mayor of the City of Butuan shall continue to hold office and the present composition of the Municipal Board of said city shall likewise continue until the elective City Mayor, vice-mayor and councilors provided for in this Act shall have been elected in the next regular election for provincial and municipal officials and shall have qualified.\nApproved: June 16, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Provisions of the Charter of the City of Butuan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

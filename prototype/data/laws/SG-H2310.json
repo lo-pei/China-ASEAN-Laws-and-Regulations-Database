@@ -1,7 +1,7 @@
 {
  "id": "SG-H2310",
  "title": {
-  "zh": null,
+  "zh": "所得税（Minerva 船用燃料私人有限公司——第 13(4) 条豁免）公告 2024",
   "en": "Income Tax (Minerva Bunkering Pte. Ltd. — Section 13(4) Exemption) Notification 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to sub‑paragraph (2), the interest, commission, fee and other payments in connection with a receivables financing facility with a facility amount of US$400 million entered into between Minerva Bunkering Pte. Ltd. and the following financial institutions on 16 March 2021:\n(a)MUFG Bank Ltd, London Branch;\n(b)MUFG Bank Ltd, Singapore Branch;\n(c)DBS Bank Ltd,\npayable by Minerva Bunkering Pte. Ltd. to MUFG Bank Ltd, London Branch, from 16 March 2021 to 31 December 2021 (both dates inclusive), are exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter from the Ministry of Finance dated 23 August 2020 and addressed to Mercuria Energy Group Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Minerva Bunkering Pte. Ltd. — Section 13(4) Exemption) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

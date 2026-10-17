@@ -1,7 +1,7 @@
 {
  "id": "SG-H988",
  "title": {
-  "zh": null,
+  "zh": "货币（硬币面额与特征）公告 2012",
   "en": "Currency (Denominations and Characteristics of Coins) Notification 2012",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE 2012 NATIVE ORCHIDS OF SINGAPORE COINS TO BE ISSUED ON 8TH MAY 2012\nDenomination\nMetal\nStandard\nWeight\nStandard\nDiameter\nStandard\nThickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n5 Dollars\n999 Fine Silver\n31.10 g ± 0.20 g\n40.70 mm ± 0.20 mm\n3.05 mm ± 0.30 mm\nRound\nMilled\nThe Singapore Arms in the centre with the year-date \"2012\" below it and the word \"SINGAPORE\" in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o'clock of the coin.\nThere are 2 different coin designs, each featuring one of the orchids named below:\n(a)Arundina graminifolia; and\n(b)Bulbophyllum macranthum.\nIn each design, the orchid is featured in colour at the centre with the name of the respective orchid along the upper circumference. The denomination is at the left of the coin, while the weight and fineness of the coin are at the lower left circumference.\n(a)Reverse Design of the $5 Silver Proof Coin (Arundina graminifolia).\n(b)Reverse Design of the $5 Silver Proof Coin (Bulbophyllum macranthum).\n(c)Common Obverse Design for the $5 Silver Proof Coins (Arundina graminifolia and Bulbophyllum macranthum)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency (Denominations and Characteristics of Coins) Notification 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

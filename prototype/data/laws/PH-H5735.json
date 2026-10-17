@@ -1,7 +1,7 @@
 {
  "id": "PH-H5735",
  "title": {
-  "zh": null,
+  "zh": "规定为拉古纳省San Pablo市San Pablo市区医院追加25张床位与追加改善资金，服务拉古纳地区其他市镇，并为此拨款",
   "en": "An Act Providing for the Additional Twenty-five-bed Capacity and Additional Funds for the Improvement of the San Pablo City District Hospital in the City of San Pablo, Province of Laguna, Servicing All Other Municipalities Within the Area of Laguna, and Appropriating Funds Therefor",
   "orig": "An Act Providing for the Additional Twenty-five-bed Capacity and Additional Funds for the Improvement of the San Pablo City District Hospital in the City of San Pablo, Province of Laguna, Servicing All Other Municipalities Within the Area of Laguna, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Additional Twenty-five-bed Capacity and Additional Funds for the Improvement of the San Pablo City District Hospital in the City of San Pablo, Province of Laguna, Servicing All Other Municipalities Within the Area of Laguna, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-12-2003-BRUNEI-NATIONAL-PETROLEUM-COMPANY-SENDIRIAN-A0AC69",
  "title": {
-  "zh": null,
+  "zh": "文莱国家石油私人有限公司第 2 号修正命令 2003",
   "en": "BRUNEI NATIONAL PETROLEUM COMPANY SENDIRIAN BERHAD AMENDMENT NO.2 ORDER 2003",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "The Brunei National Petroleum Company Sendirian Berhad Order, 2002 is amended by inserting the following new section immediately after section 12 - \"Audit. 12A. The accounts of the Company shall be audited annually by - {a) the Auditor General; or {b) any person who has been authorised to perform the duties required by the Companies Act (Chapter 39) to be performed by an auditor, who shall be appointed annually by the Company: Provided that where the accounts of the Company have been audited by a person appointed under paragraph {b), they may be verified by the Auditor General.\". Made this 21st. day of Muharam, 1424 Hijriah corresponding to the 24th. day of March, 2003 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI NATIONAL PETROLEUM COMPANY SENDIRIAN BERHAD AMENDMENT NO.2 ORDER 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

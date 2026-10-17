@@ -1,7 +1,7 @@
 {
  "id": "PH-H3445",
  "title": {
-  "zh": null,
+  "zh": "规定为碧瑶市菲律宾大学分校的维持提供年度捐助的法案",
   "en": "An Act to Provide an Annual Contribution for the Maintenance of the Branch of the University of the Philippines in the City of Baguio",
   "orig": "An Act to Provide an Annual Contribution for the Maintenance of the Branch of the University of the Philippines in the City of Baguio"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide an Annual Contribution for the Maintenance of the Branch of the University of the Philippines in the City of Baguio",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H945",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典（改造训练）条例 2018",
   "en": "Criminal Procedure Code (Reformative Training) Regulations 2018",
   "orig": null
  },
@@ -259,5 +259,13 @@
     "en": "17.—(1) If the period of the supervision of a person under regulation 4 of the revoked Regulations does not end before 31 October 2018 —\n(a)the person is, on and after that date, to be treated as subject to a supervision order;\n(b)the period of supervision continues to run as if regulation 12 had been in force when the period of supervision started; and\n(c)any requirement specified in a notice given to the person before that date under regulation 4 of the revoked Regulations continues to apply on and after that date, as if it is a requirement specified in a supervision order under regulation 12.\n(2) On and after 31 October 2018 —\n(a)a person recalled under regulation 5(1) of the revoked Regulations is to be treated as recalled under regulation 13(1)(a); and\n(b)an order under regulation 5(1) of the revoked Regulations is to be treated as a recall order issued by the Committee under regulation 13(1)(a).\n(3) If the period during which a direction made under regulation 7(1) of the revoked Regulations is to have effect does not end before 31 October 2018 —\n(a)the direction is, on and after that date, to be treated as a direction made under regulation 15(1);\n(b)the period continues to run as if regulation 15(1) had been in force when the period started; and\n(c)any conditions and restrictions imposed before that date under regulation 7(2) of the revoked Regulations continue to apply, on and after that date, as if they are conditions and restrictions imposed under regulation 15(2).\n(4) If leave is granted before 31 October 2018 under regulation 7(4) of the revoked Regulations to a detainee, and the period of the leave does not end before that date —\n(a)the leave is, on and after that date, to be treated as leave granted under regulation 15(5);\n(b)the period continues to run as if regulation 15(5) had been in force when the period started; and\n(c)any conditions and restrictions imposed before that date under regulation 7(4) of the revoked Regulations continue to apply, on and after that date, as if they are conditions and restrictions imposed under regulation 15(5).\n(5) A person who, immediately before 31 October 2018, is deemed under regulation 5(2) or 7(7) of the revoked Regulations to be unlawfully at large is, on and after that date, to be treated as unlawfully at large under regulation 13(10) or 15(9), as the case may be."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Criminal Procedure Code (Reformative Training) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

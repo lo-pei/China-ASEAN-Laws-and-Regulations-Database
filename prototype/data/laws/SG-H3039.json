@@ -1,7 +1,7 @@
 {
  "id": "SG-H3039",
  "title": {
-  "zh": null,
+  "zh": "酒类管制（供应与消费）（饮用限制）条例 2015",
   "en": "Liquor Control (Supply and Consumption) (Restrictions on Consumption) Regulations 2015",
   "orig": null
  },
@@ -166,5 +166,13 @@
     "en": "8.—(1) The prescribed public places for the purposes of section 12(3)(c) of the Act are as follows:\n(a)any public place at which the Government is holding an event;\n(b)any public place at which a statutory body is holding an event and for a public purpose;\n(c)any public place at which any celebration of the Seventh Month Festival of the Chinese Lunar calendar is being held, if —\n(i)the celebration is organised by the People’s Association (constituted under section 2 of the People’s Association Act 1960), or any grassroots organisation of the People’s Association; or\n[S 96/2026 wef 31/12/2021]\n(ii)the celebration is organised by a registered society (as defined in the Societies Act 1966);\n[S 96/2026 wef 31/12/2021]\n(d)the immediate vicinity of a barbeque pit in a national park, the use in respect of which is authorised by a permit granted under the Parks and Trees Act 2005;\n[S 96/2026 wef 31/12/2021]\n(e)any public place if the liquor consumed at that public place is supplied in any of the circumstances described in paragraph 4, 5 or 8 of the Liquor Control (Supply and Consumption) (Exemption from Liquor Licence) Order 2015 (G.N. No. S 183/2015).\n[S 650/2020 wef 01/08/2020]\n(2) The prescribed conditions for the purposes of section 12(3)(c) of the Act are all as follows:\n(a)the individual who consumes liquor at a public place prescribed under paragraph (1) is —\n(i)in the case of a public place prescribed under paragraph (1)(a), (b) or (c) — the organiser of the event or a guest of that organiser; or\n(ii)in the case of a public place prescribed under paragraph (1)(d) — the individual who obtained the permit authorising the use of the barbeque pit or a guest of that individual;\n[S 650/2020 wef 01/08/2020]\n(b)the consumption of liquor takes place —\n(i)at the public place prescribed; and\n(ii)during —\n(A)in the case of a public place prescribed under paragraph (1)(a), (b) or (c) — the time allocated for the event by the organiser (which time must not exceed the time allowed for the event under any permission given to the event organiser for the use of the public place for the event); or\n(B)in the case of a public place prescribed under paragraph (1)(d) — the validity of the permit granted under the Parks and Trees Act 2005 in respect of the use of the barbeque pit.\n[S 96/2026 wef 31/12/2021]\n[S 650/2020 wef 01/08/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Liquor Control (Supply and Consumption) (Restrictions on Consumption) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

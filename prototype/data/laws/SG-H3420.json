@@ -1,7 +1,7 @@
 {
  "id": "SG-H3420",
  "title": {
-  "zh": null,
+  "zh": "第 11(3) 条下的命令",
   "en": "Order under Section 11 (3)",
   "orig": null
  },
@@ -68,5 +68,13 @@
     "en": "SECOND SCHEDULE\n(1)The Commodities Futures Act (Chapter 48A).\n(2)The Drug Trafficking (Confiscation of Benefits) Act (Chapter 84A).\n(3)The Education Endowment Scheme Act (Chapter 87A).\n(4)The Government Securities Act (Chapter 121A).\n(5)The Inland Revenue Authority of Singapore Act (Chapter 138A).\n(6)The Institute of Technical Education Act (Chapter 141A).\n(7)The Nanyang Polytechnic Act (Chapter 191A).\n(8)The National Council of Social Service Act (Chapter 195A).\n(9)The Rubber Industry Act (Chapter 280).\n(10)The Smoking (Prohibition in Certain Places) Act (Chapter 310).\n(11)The Telecommunication Authority of Singapore Act (Chapter 323)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11 (3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

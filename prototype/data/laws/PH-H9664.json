@@ -1,7 +1,7 @@
 {
  "id": "PH-H9664",
  "title": {
-  "zh": null,
+  "zh": "将依第 4339 号共和国法（经第 7225 号共和国法修正）授予 Iglesia ni Cristo 的特许经营权再延长二十五年的法案",
   "en": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to the Iglesia ni Cristo (Church of Christ) Under Republic Act No. 4339, as Amended by Republic Act No. 7225",
   "orig": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to the Iglesia ni Cristo (Church of Christ) Under Republic Act No. 4339, as Amended by Republic Act No. 7225"
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to the Iglesia ni Cristo (Church of Christ) Under Republic Act No. 4339, as Amended by Republic Act No. 7225",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

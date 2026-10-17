@@ -1,7 +1,7 @@
 {
  "id": "PH-H1995",
  "title": {
-  "zh": null,
+  "zh": "修订与修改有关菲律宾公务员制度的法律的法案",
   "en": "An Act to Amend and Revise the Laws Relative to Philippine Civil Service",
   "orig": "An Act to Amend and Revise the Laws Relative to Philippine Civil Service"
  },
@@ -645,5 +645,13 @@
     "en": "Effective Date and Saving Clause. This Act shall take effect upon its approval: Provided, however , That except as otherwise provided in this Act, rights or privileges vested or acquired under the provisions of the Old Civil Service Law, rules and regulations prior to the effectivity of this Act shall remain in force and effect.\nApproved, June 19, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend and Revise the Laws Relative to Philippine Civil Service",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

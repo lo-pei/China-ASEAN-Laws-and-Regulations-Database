@@ -1,7 +1,7 @@
 {
  "id": "PH-H4672",
  "title": {
-  "zh": null,
+  "zh": "修订第3588号共和国法第16条（经修正），在选举委员会中设立国家中央档案司的法案",
   "en": "An Act Amending Section Sixteen of Republic Act Numbered Thirty-Five Hundred and Eighty-Eight, as Amended, By Creating the National Central File Division in the Commission of Elections",
   "orig": "An Act Amending Section Sixteen of Republic Act Numbered Thirty-Five Hundred and Eighty-Eight, as Amended, By Creating the National Central File Division in the Commission of Elections"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Sixteen of Republic Act Numbered Thirty-Five Hundred and Eighty-Eight, as Amended, By Creating the National Central File Division in the Commission of Elections",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

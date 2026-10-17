@@ -1,7 +1,7 @@
 {
  "id": "SG-H2829",
  "title": {
-  "zh": null,
+  "zh": "保险（网络聚合平台费用）条例 2015",
   "en": "Insurance (Web Aggregator Fees) Regulations 2015",
   "orig": null
  },
@@ -159,5 +159,13 @@
     "en": "THIRD SCHEDULE\nRegulation 6\nLate payment fees\nLength of time after due date for payment\nLate payment fee\n1.1 working day to 7 working days\n$1,250\n2.8 working days to 14 working days\n$2,500\n3.15 working days to 21 working days\n$5,000\n4.Exceeding 21 working days\n$6,250\nIn this Schedule, “working day” means a day other than a Saturday, Sunday or a public holiday."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insurance (Web Aggregator Fees) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H873",
  "title": {
-  "zh": null,
+  "zh": "贪污、贩毒及其他严重罪行（实物货币与无记名可转让票据跨境流动）（豁免）命令 2007",
   "en": "Corruption, Drug Trafficking and Other Serious Crimes (Cross Border Movements of Physical Currency and Bearer Negotiable Instruments) (Exemption) Order 2007",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) The following persons shall be exempted from section 60 of the Act:\n(a)a person who moves into or out of Singapore a bill of lading, airway bill, warehouse receipt or cargo receipt;\n(b)a local financial institution which moves into or out of Singapore any bearer negotiable instrument for the settlement of its account with a foreign financial institution;\n(c)a local financial institution which moves into or out of Singapore any bearer bond or bearer securities in the course of providing custodial services for securities to its clients;\n(d)a person who moves into or out of Singapore a bearer payment account that contains e‑money;\n[S 66/2020 wef 28/01/2020]\n(e)a person who brings cash with him into and out of Singapore by air or sea if he has not entered Singapore and the cash remains at all times in his physical possession;\n(f)a person who moves cash into and out of Singapore by air or sea if the cash remains at all times on board the aircraft or vessel while it is in Singapore;\n(g)a person who moves cash into and out of Singapore so long as the cash remains at all times in a free trade zone while it is in Singapore.\n[S 490/2023 wef 31/12/2021]\n(2) The following persons shall be exempted from section 62 of the Act:\n(a)a person who receives from outside Singapore a bill of lading, airway bill, warehouse receipt or cargo receipt;\n(b)a local financial institution which receives from outside Singapore any bearer negotiable instrument for the settlement of its account with a foreign financial institution;\n(c)a local financial institution which receives from outside Singapore any bearer bond or bearer securities in the course of providing custodial services for securities to its clients;\n(d)a person who receives from outside Singapore a bearer payment account that contains e‑money;\n[S 66/2020 wef 28/01/2020]\n(e)a person who receives cash from outside Singapore if he has already submitted a report under section 60 of the Act in respect of the movement of the cash into Singapore.\n[S 490/2023 wef 31/12/2021]\n[S 490/2023 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Corruption, Drug Trafficking and Other Serious Crimes (Cross Border Movements of Physical Currency and Bearer Negotiable Instruments) (Exemption) Order 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

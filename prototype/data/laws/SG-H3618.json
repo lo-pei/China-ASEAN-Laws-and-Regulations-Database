@@ -1,7 +1,7 @@
 {
  "id": "SG-H3618",
  "title": {
-  "zh": null,
+  "zh": "住宅物业法 1976",
   "en": "Residential Property Act 1976",
   "orig": null
  },
@@ -950,5 +950,13 @@
     "en": "SECOND SCHEDULE\nSection 2\nDescription of flats\nAll those flats located in the building known as Pearl Bank Apartments and which are hereinafter described:\nReference to\nSubsidiary\nStrata Land‑Register\nTown\nSubdivision\nDescription of flats\nVolume\nFolio\n40\n188\n22\nThe whole of Lot 189‑15/16‑S\n40\n189\n22\nThe whole of Lot 189‑13/14‑S\n40\n197\n22\nThe whole of Lot 189‑13/14‑T\n41\n4\n22\nThe whole of Lot 189‑15/16‑U\n41\n5\n22\nThe whole of Lot 189‑13/14‑U\n41\n12\n22\nThe whole of Lot 189‑15/16‑V\n41\n13\n22\nThe whole of Lot 189‑13/14‑V\n41\n20\n22\nThe whole of Lot 189‑15/16‑W\n41\n23\n22\nThe whole of Lot 189‑9/10‑W\n41\n29\n22\nThe whole of Lot 189‑13/14‑X\n41\n45\n22\nThe whole of Lot 189‑13/14‑Z\n41\n60\n22\nThe whole of Lot 189‑15/16‑2C\n41\n61\n22\nThe whole of Lot 189‑13/14‑2C\n41\n65\n22\nThe whole of Lot 189‑5/6‑2C\n41\n77\n22\nThe whole of Lot 189‑13/14‑2E\n41\n79\n22\nThe whole of Lot 189‑9/10‑2E\n41\n82\n22\nThe whole of Lot 189‑3/4‑2E\n41\n84\n22\nThe whole of Lot 189‑15/16‑2F\n41\n85\n22\nThe whole of Lot 189‑13/14‑2F\n41\n86\n22\nThe whole of Lot 189‑11/12‑2F\n41\n91\n22\nThe whole of Lot 189‑1/2‑2F\n41\n93\n22\nThe whole of Lot 189‑13/14‑2G\n41\n94\n22\nThe whole of Lot 189‑11/12‑2G\n41\n96\n22\nThe whole of Lot 189‑7/8‑2G\n41\n100\n22\nThe whole of Lot 189‑15/16‑2H\n41\n101\n22\nThe whole of Lot 189‑13/14‑2H\n41\n102\n22\nThe whole of Lot 189‑11/12‑2H\n41\n104\n22\nThe whole of Lot 189‑7/8‑2H\n41\n109\n22\nThe whole of Lot 189‑13/14‑2I\n41\n110\n22\nThe whole of Lot 189‑11/12‑2I\n41\n111\n22\nThe whole of Lot 189‑9/10‑2I\n41\n113\n22\nThe whole of Lot 189‑5/6‑2I\n41\n116\n22\nThe whole of Lot 189‑15/16‑2J\n41\n117\n22\nThe whole of Lot 189‑13/14‑2J\n41\n118\n22\nThe whole of Lot 189‑11/12‑2J\n41\n119\n22\nThe whole of Lot 189‑9/10‑2J\n41\n120\n22\nThe whole of Lot 189‑7/8‑2J\n41\n121\n22\nThe whole of Lot 189‑5/6‑2J"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Residential Property Act 1976",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H333",
  "title": {
-  "zh": null,
+  "zh": "广播（教育机构广播服务豁免）命令 2010",
   "en": "Broadcasting (Exemption of Broadcasting Services by Educational Institutions) Order 2010",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nExempt Broadcasting Services\n1. Special interest television services transmitted through an educational institution’s closed Internet protocol network.\n2. Special interest radio services transmitted through an educational institution’s closed Internet protocol network.\n3. Special interest radio services transmitted through an educational institution’s public address system."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Broadcasting (Exemption of Broadcasting Services by Educational Institutions) Order 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9949",
  "title": {
-  "zh": null,
+  "zh": "授权总统在国家紧急状态期间加快国家与地方许可、执照与认证办理与核发的法案",
   "en": "An Act Authorizing the President to Expedite the Processing and Issuance of National and Local Permits, Licenses and Certifications in Times of National Emergency",
   "orig": "An Act Authorizing the President to Expedite the Processing and Issuance of National and Local Permits, Licenses and Certifications in Times of National Emergency"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in t he Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President to Expedite the Processing and Issuance of National and Local Permits, Licenses and Certifications in Times of National Emergency",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H813",
  "title": {
-  "zh": null,
+  "zh": "使15万比索国内航空邮件服务拨款可用于继续马尼拉与各省邮政局邮政雇员的职务，以应付邮政业务量增加，并用于雇用临时雇员、劳工与助手",
   "en": "An Act Making the Appropriation of One Hundred and Fifty Thousand Pesos for the Domestic Air Mail Service Available for Expenditure to Continue the Services of Postal Employees in Manila and Provincial Post Offices to Cope with the Increased Volume of Postal Business and for the Employment of Temporary Employees, Laborers and Helpers",
   "orig": "An Act Making the Appropriation of One Hundred and Fifty Thousand Pesos for the Domestic Air Mail Service Available for Expenditure to Continue the Services of Postal Employees in Manila and Provincial Post Offices to Cope with the Increased Volume of Postal Business and for the Employment of Temporary Employees, Laborers and Helpers"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect as of May first, nineteen hundred and fifty-four.\nApproved: May 18, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making the Appropriation of One Hundred and Fifty Thousand Pesos for the Domestic Air Mail Service Available for Expenditure to Continue the Services of Postal Employees in Manila and Provincial Post Offices to Cope with the Increased Volume of Postal Business and for the Employment of Temporary Employees, Laborers and Helpers",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

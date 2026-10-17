@@ -1,7 +1,7 @@
 {
  "id": "PH-H4487",
  "title": {
-  "zh": null,
+  "zh": "增加Lipa市医院床位并将其改设为国立医院的法案",
   "en": "An Act Increasing the Bed Capacity of Lipa City Hospital and Converting the Same Into a National Hospital",
   "orig": "An Act Increasing the Bed Capacity of Lipa City Hospital and Converting the Same Into a National Hospital"
  },
@@ -60,5 +60,13 @@
     "en": "The additional sum of two hundred thousand pesos is hereby authorized to be appropriated in the next General Appropriations Act for its maintenance and operation.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of Lipa City Hospital and Converting the Same Into a National Hospital",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

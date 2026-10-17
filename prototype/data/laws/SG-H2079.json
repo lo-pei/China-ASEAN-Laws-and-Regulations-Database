@@ -1,7 +1,7 @@
 {
  "id": "SG-H2079",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 5 号）命令 2017",
   "en": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2017",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Each payment of the share of partnership profits described in sub‑paragraph (2) of the partnership of Parkway Life Japan4 Pte Ltd (a company incorporated in Singapore) and Godo Kaisha Samurai 12 (a company incorporated in Japan), received in Singapore by Parkway Life Japan4 Pte Ltd on or after 14 March 2017 is exempt from tax.\n(2) Sub‑paragraph (1) applies to partnership profits that are derived from rental income from, or capital gains from the divestment of, all or any of the following properties:\n(a)the property named “Sanko”, located at Kudamatsu City, Yamaguchi Prefecture, Japan;\n(b)the property named “Kikuya Warakuen”, located at Kudamatsu City, Yamaguchi Prefecture, Japan;\n(c)the property named “Group Home Hakusho”, located at Yachimata City, Chiba Prefecture, Japan;\n(d)the property named “Wakaba no Oka”, located at Chiba City, Chiba Prefecture, Japan;\n(e)the property named “Hakusho no Sato”, located at Yachimata City, Chiba Prefecture, Japan.\n(3) The exemption under sub‑paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 7 April 2017 addressed to Parkway Trust Management Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

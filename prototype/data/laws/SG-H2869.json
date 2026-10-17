@@ -1,7 +1,7 @@
 {
  "id": "SG-H2869",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（常设仲裁法院）命令 2007",
   "en": "International Organisations (Immunities and Privileges) (Permanent Court of Arbitration) Order 2007",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) Subject to sub‑paragraph (4), every Official of the PCA and every PCA Adjudicator have —\n(a)immunity from suit and legal process in respect of all words spoken or written and all acts done by him or her in the course of the performance of his or her official duties; and\n(b)exemption from income tax in respect of all salaries, allowances and other emoluments paid to him or her by the PCA,\nexcept insofar as in any particular case that immunity or privilege is waived —\n(c)in the case of an Official of the PCA other than the Secretary‑General, or in the case of a PCA Adjudicator — by the Secretary‑General; or\n(d)in the case of the Secretary‑General — by the Administrative Council.\n(2) The immunity under sub‑paragraph (1)(a) continues to apply even after the person mentioned in that sub‑paragraph ceases to be an Official of the PCA or a PCA Adjudicator, as the case may be.\n(3) Subject to sub‑paragraph (4), the Secretary‑General and Deputy Secretary‑General are accorded, in addition, in respect of themselves, their spouses and their children under 21 years of age —\n(a)the like immunity from suit and legal process;\n(b)the like inviolability of residence; and\n(c)the like exemption or relief from taxes,\nas are accorded to an envoy of a foreign sovereign Power accredited to the President and the envoy’s spouse and children, except insofar as in any particular case that privilege is waived —\n(d)in the case of the Deputy Secretary‑General or his or her spouse or children under 21 years of age — by the Secretary‑General; or\n(e)in the case of the Secretary‑General or his or her spouse or children under 21 years of age — by the Administrative Council.\n(4) No immunity or privilege under sub‑paragraph (1)(b) or (3) may be enjoyed by —\n(a)any person who is a citizen or permanent resident of Singapore; or\n(b)where the Secretary‑General or Deputy Secretary‑General is a citizen or permanent resident of Singapore — his or her spouse or children."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "International Organisations (Immunities and Privileges) (Permanent Court of Arbitration) Order 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

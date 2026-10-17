@@ -1,7 +1,7 @@
 {
  "id": "SG-H2599",
  "title": {
-  "zh": null,
+  "zh": "劳资关系（仲裁人上诉）条例 1966",
   "en": "Industrial Relations (Referee Appeal) Regulations 1966",
   "orig": null
  },
@@ -178,5 +178,13 @@
     "en": "THE SCHEDULE\nFORM 1\nRegulation 2\nINDUSTRIAL RELATIONS ACT 1960\nI.A.C. Referee Case No. ……… of [set out year]\nNOTICE OF APPEAL\nBetween …………………………………………………………..… Claimant\nAnd ..……………………………………………………….……. Respondent.\nIn the matter of a trade dispute relating to —\n………………………………………, the abovenamed *Claimant/Respondent gives Notice of Appeal against the decision of the Referee, Mr. ………………………… delivered on [set out date] in the abovementioned case.\n[Set out below in numbered paragraphs the substance of the whole or part of the decision appeal against].\nDated [set out date].\n………………………………….\n*Claimant/Respondent.\n______________________\n*Delete whichever is inapplicable.\nFORM 2\nRegulation 4\nINDUSTRIAL RELATIONS ACT 1960\nI.A.C. Referee Appeal Case No. ……… of [set out year]\nNOTICE OF DISCONTINUANCE\nBetween …………..……………………………………………...… Appellant\nAnd ..……………………………………………………………. Respondent.\nIn the matter of a trade dispute relating to —\n…………………………...…………………, the abovenamed Appellant gives Notice of Discontinuance of the above appeal.\nDated [set out date].\n………………………………….\nAppellant.\nFORM 3\nRegulation 5\nINDUSTRIAL RELATIONS ACT 1960\nI.A.C. Referee Appeal Case No. ……… of [set out year]\nPETITION OF APPEAL\nBetween …………..……………………………………………...… Appellant\nAnd ..…………………………………………………….………. Respondent.\nIn the matter of a trade dispute relating to —\nTo: The Industrial Arbitration Court.\nThe Petition of ………………………………………… abovenamed Appellant states as follows:\n[Here set out in numbered paragraphs the nature of the trade dispute, facts of the case, and the decision of the Referee].\nYour petitioner is dissatisfied with the said decision on the following grounds:\n[Here set out in numbered paragraphs, the grounds of Appeal on which the appellant relies].\nYour petitioner prays that such decision may be set aside or that the Court may grant such relief as is just and equitable upon the substantial merits of this Appeal as the Court considers fit.\nDated [set out date].\n………………………………….\nAppellant."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Industrial Relations (Referee Appeal) Regulations 1966",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

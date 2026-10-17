@@ -1,7 +1,7 @@
 {
  "id": "PH-H4214",
  "title": {
-  "zh": null,
+  "zh": "将西米萨米斯省西米萨米斯中学改设为国立中学，名称为西米萨米斯国立中学，并授权为此拨款的法案",
   "en": "An Act Converting the Misamis Occidental High School in the Province of Misamis Occidental, into a National High School to be Known as Misamis Occidental National High School and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Converting the Misamis Occidental High School in the Province of Misamis Occidental, into a National High School to be Known as Misamis Occidental National High School and Authorizing the Appropriation of Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Misamis Occidental High School in the Province of Misamis Occidental, into a National High School to be Known as Misamis Occidental National High School and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

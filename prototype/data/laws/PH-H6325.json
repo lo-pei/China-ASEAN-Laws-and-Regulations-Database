@@ -1,7 +1,7 @@
 {
  "id": "PH-H6325",
  "title": {
-  "zh": null,
+  "zh": "发展出口作为实现 2000 年国家目标关键途径的法案",
   "en": "An Act to Develop Exports as a Key Towards the Achievement of the National Goals Towards the Year 2000",
   "orig": "An Act to Develop Exports as a Key Towards the Achievement of the National Goals Towards the Year 2000"
  },
@@ -290,5 +290,13 @@
     "en": "Effectivity . - This Act shall take effect two (2) days after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation in the Philippines, whichever comes earlier.\nApproved, December 21, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Develop Exports as a Key Towards the Achievement of the National Goals Towards the Year 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

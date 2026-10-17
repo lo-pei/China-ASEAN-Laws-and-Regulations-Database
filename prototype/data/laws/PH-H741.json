@@ -1,7 +1,7 @@
 {
  "id": "PH-H741",
  "title": {
-  "zh": null,
+  "zh": "修订第275号共和国法，规定保险专员与助理保险专员薪金的法案",
   "en": "An Act Amending Republic Act Numbered Two Hundred Seventy-five Fixing the Salaries of the Insurance Commissioner and the Assistant Insurance Commissioner",
   "orig": "An Act Amending Republic Act Numbered Two Hundred Seventy-five Fixing the Salaries of the Insurance Commissioner and the Assistant Insurance Commissioner"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H741-A1_2",
+   "id": "PH-H741-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The bureau heretofore called the Bureau of Banking shall hereafter be known as the Office of the Insurance Commissioner and the Bank Commissioner and the Assistant Bank Commissioner shall hereafter be called respectively the Insurance Commissioner and the Assist ant Insurance Commissioner. The Insurance Commissioner shall receive an annual salary of ten thousand pesos and the Assistant Insurance Commissioner, seven thousand two hundred pesos.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H741-A2",
@@ -70,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Two Hundred Seventy-five Fixing the Salaries of the Insurance Commissioner and the Assistant Insurance Commissioner",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

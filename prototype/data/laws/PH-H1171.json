@@ -1,7 +1,7 @@
 {
  "id": "PH-H1171",
  "title": {
-  "zh": null,
+  "zh": "授予 Evening News 出版公司设立广播与电视无线电台特许权的法案",
   "en": "An Act Granting the Evening News Publishing Co., Inc. a Franchise to Establish Radio Stations for Broadcasting and Television",
   "orig": "An Act Granting the Evening News Publishing Co., Inc. a Franchise to Establish Radio Stations for Broadcasting and Television"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Evening News Publishing Co., Inc. a Franchise to Establish Radio Stations for Broadcasting and Television",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7417",
  "title": {
-  "zh": null,
+  "zh": "修订第8734号共和国法（将卡林加省帕西尔市镇的帕西尔市镇中学即Eufronia M. Puzon纪念中学帕西尔附属校分离改设为独立的帕西尔国立中学并为此拨款）的法案",
   "en": "An Act Amending Republic Act Number 8734 entitled \"An Act Separating the Pasil Municipal High School also known as the Doña Eufronia M. Puzon Memorial High School - Pasil Annex in the Municipality of Pasil, Province of Kalinga, from the DoÑa Eufronia M. Puzon Memorial High School in the Municipality of Pasil, and Converting it into a separate and independent National High School to be known as the Pasil National High School, and appropriating funds therefor\"",
   "orig": "An Act Amending Republic Act Number 8734 entitled \"An Act Separating the Pasil Municipal High School also known as the Doña Eufronia M. Puzon Memorial High School - Pasil Annex in the Municipality of Pasil, Province of Kalinga, from the DoÑa Eufronia M. Puzon Memorial High School in the Municipality of Pasil, and Converting it into a separate and independent National High School to be known as the Pasil National High School, and appropriating funds therefor\""
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Number 8734 entitled \"An Act Separating the Pasil Municipal High School also known as the Doña Eufronia M. Puzon Memorial High School - Pasil Annex in the Municipality of Pasil, Province of Kalinga, from the DoÑa Eufronia M. Puzon Memorial High School in the Municipality of Pasil, and Converting it into a separate and independent National High School to be known as the Pasil National High School, and appropriating funds therefor\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

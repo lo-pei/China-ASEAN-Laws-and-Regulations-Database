@@ -1,7 +1,7 @@
 {
  "id": "PH-H7972",
  "title": {
-  "zh": null,
+  "zh": "国家环境意识与教育法 2008",
   "en": "National Environmental Awareness and Education Act of 2008",
   "orig": "National Environmental Awareness and Education Act of 2008 An Act to Promote Environmental Awareness Through Environmental Education and for other purposes"
  },
@@ -131,5 +131,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "National Environmental Awareness and Education Act of 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7971",
  "title": {
-  "zh": null,
+  "zh": "授予菲律宾国家电网公司通过高压骨干互联输电线路、变电站及相关设施从事输电业务的特许经营权并为其他目的法案",
   "en": "An Act Granting the National Grid Corporation of the Philippines a Franchise to Engage in the Business of Conveying or Transmitting Electricity Through High Voltage Back-Bone System of Interconnected Transmission Lines, Substations and Related Facilities and for other purposes",
   "orig": "An Act Granting the National Grid Corporation of the Philippines a Franchise to Engage in the Business of Conveying or Transmitting Electricity Through High Voltage Back-Bone System of Interconnected Transmission Lines, Substations and Related Facilities and for other purposes"
  },
@@ -211,5 +211,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the Grantee, in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the National Grid Corporation of the Philippines a Franchise to Engage in the Business of Conveying or Transmitting Electricity Through High Voltage Back-Bone System of Interconnected Transmission Lines, Substations and Related Facilities and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

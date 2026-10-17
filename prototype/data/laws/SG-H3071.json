@@ -1,7 +1,7 @@
 {
  "id": "SG-H3071",
  "title": {
-  "zh": null,
+  "zh": "光盘制造法 2004",
   "en": "Manufacture of Optical Discs Act 2004",
   "orig": null
  },
@@ -544,5 +544,13 @@
     "en": "THE SCHEDULE\nSections 2 and 30(1)\nMedia and Articles\n1.Compact discs (CD), including compact discs-read only memory (CD‑ROM).\n2.Digital video discs (DVD), including digital video discs-read only memory (DVD‑ROM).\n3.Video compact discs (VCD).\n4.Master discs.\n5.Stampers."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Manufacture of Optical Discs Act 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

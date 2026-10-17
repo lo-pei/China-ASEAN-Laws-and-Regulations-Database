@@ -1,7 +1,7 @@
 {
  "id": "SG-H3537",
  "title": {
-  "zh": null,
+  "zh": "规划（有盖行人连廊授权）公告 2014",
   "en": "Planning (Covered Pedestrian Linkways Authorisation) Notification 2014",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. The authorisation for carrying out an operation involving the development of land under paragraph 3 shall immediately cease to apply if —\n(a)any consent or approval referred to in paragraph 4(a) or (b) lapses, is revoked or, for any other reason, is no longer valid or applicable; or\n(b)any other condition of authorisation referred to in paragraph 4 ceases to be complied with."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Planning (Covered Pedestrian Linkways Authorisation) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

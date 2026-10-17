@@ -21,7 +21,7 @@
   util.attr = function (s) { return util.esc(s); };
 
   /* ---------------- 多语言字段 ---------------- */
-  /** 从 {zh,en,...} 取当前语言，回退到 zh、en 或首个值 */
+  /** 从 {zh,en,...} 取当前语言，回退到 zh、en 或首个非空值 */
   util.tr = function (field, lang) {
     if (field === null || field === undefined) return '';
     if (typeof field === 'string') return field;
@@ -30,8 +30,13 @@
     /* 缺当前语言时优先回退英文，避免非中文界面出现中文 */
     if (field.en) return field.en;
     if (field.zh) return field.zh;
-    var keys = Object.keys(field);
-    return keys.length ? field[keys[0]] : '';
+    /* 最后退到「任意非空值」——不能直接取 keys[0]：
+       形如 {zh:null, en:null, my:'…'} 的标题（如仅有缅甸文译名的法规）会取到 null，
+       调用方再 .replace() 就会抛 TypeError，整页渲染失败。 */
+    for (var k in field) {
+      if (Object.prototype.hasOwnProperty.call(field, k) && field[k]) return field[k];
+    }
+    return '';
   };
   /** 取所有非当前语言的并列标题 */
   util.altTitles = function (field, lang, max) {

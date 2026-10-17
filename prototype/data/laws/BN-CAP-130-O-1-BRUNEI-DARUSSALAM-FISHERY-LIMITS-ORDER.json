@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-130-O-1-BRUNEI-DARUSSALAM-FISHERY-LIMITS-ORDER",
  "title": {
-  "zh": null,
+  "zh": "O 1 文莱达鲁萨兰国渔业界限命令",
   "en": "O 1 BRUNEI DARUSSALAM FISHERY LIMITS ORDER",
   "orig": null
  },
@@ -73,5 +73,13 @@
     "en": "The limits indicated in paragraph 2 are depicted on a large scale map Series: Misc. 1 Edition: 1 JUAB Sheet 3 which is deposited in the office of the Surveyor general."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "O 1 BRUNEI DARUSSALAM FISHERY LIMITS ORDER",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2772",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（债务偿还计划）条例 2020",
   "en": "Insolvency, Restructuring and Dissolution (Debt Repayment Scheme) Regulations 2020",
   "orig": null
  },
@@ -662,5 +662,13 @@
     "en": "39. The Insolvency, Restructuring and Dissolution (Bankruptcy) Regulations 2020 (G.N. No. S 587/2020) and the Insolvency, Restructuring and Dissolution (Personal Insolvency) Rules 2020 apply, with the necessary modifications, to the practice and procedure in any proceedings under Part 15 of the Act and these Regulations for which no specific provision has been made by these Regulations."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insolvency, Restructuring and Dissolution (Debt Repayment Scheme) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

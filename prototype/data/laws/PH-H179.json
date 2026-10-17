@@ -1,7 +1,7 @@
 {
  "id": "PH-H179",
  "title": {
-  "zh": null,
+  "zh": "通过免除和/或延长矿权地或采矿特许权及与采矿业相关的水权与木材特许权的定位人、持有人、承租人、经营人履行任何条款、条件或约定期限，并免除采矿税、特定税与房地产税，以扶助采矿业的法案",
   "en": "An act to aid the Mining Industry by providing for the waiver of, and/or extension of the period within which to perform, accomplish or comply with any term, condition, or stipulation required of locators, holders, lessees, or operators of mining claims or concessions, and of water rights and timber concessions connected with the Mining Industry, and the Condonation of Mining, Specific and Real Estate Taxes, under certain terms and conditions",
   "orig": "An act to aid the Mining Industry by providing for the waiver of, and/or extension of the period within which to perform, accomplish or comply with any term, condition, or stipulation required of locators, holders, lessees, or operators of mining claims or concessions, and of water rights and timber concessions connected with the Mining Industry, and the Condonation of Mining, Specific and Real Estate Taxes, under certain terms and conditions"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: October 29, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act to aid the Mining Industry by providing for the waiver of, and/or extension of the period within which to perform, accomplish or comply with any term, condition, or stipulation required of locators, holders, lessees, or operators of mining claims or concessions, and of water rights and timber concessions connected with the Mining Industry, and the Condonation of Mining, Specific and Real Estate Taxes, under certain terms and conditions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H451",
  "title": {
-  "zh": null,
+  "zh": "修订第120号联邦法（题为“设立国家电力公司、规定其权力与活动、为此拨款并将未拨用公共水域保留供其使用”）第2条（K）款并为其他目的",
   "en": "An Act to Amend Section Two (K) of Commonwealth Act Numbered One Hundred Twenty Entitled \"An Act Creating the National Power Corporation, Prescribing Its Powers and Activities, Appropriating the Necessary Funds Therefor, and Reserving the Unappropriated Public Waters for Its Use\" and for Other Purposes",
   "orig": "An Act to Amend Section Two (K) of Commonwealth Act Numbered One Hundred Twenty Entitled \"An Act Creating the National Power Corporation, Prescribing Its Powers and Activities, Appropriating the Necessary Funds Therefor, and Reserving the Unappropriated Public Waters for Its Use\" and for Other Purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval Approved, June 4, 1949"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Two (K) of Commonwealth Act Numbered One Hundred Twenty Entitled \"An Act Creating the National Power Corporation, Prescribing Its Powers and Activities, Appropriating the Necessary Funds Therefor, and Reserving the Unappropriated Public Waters for Its Use\" and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

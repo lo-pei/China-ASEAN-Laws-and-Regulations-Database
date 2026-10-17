@@ -1,0 +1,850 @@
+{
+ "jobId": "CALR-TITLE-20261017-1801-BN-1261",
+ "shard": 4,
+ "items": [
+  {
+   "id": "BN-H004",
+   "zh": "公司法"
+  },
+  {
+   "id": "BN-H054",
+   "zh": "最高法院法"
+  },
+  {
+   "id": "BN-H074",
+   "zh": "文莱刑事资产追缴法（洗钱部分）"
+  },
+  {
+   "id": "BN-CAP-87-1983-BIOLOGICAL-WEAPONS-ACT",
+   "zh": "生物武器法"
+  },
+  {
+   "id": "BN-CAP-139-RG-1-MIDWIVES-REGULATIONS",
+   "zh": "RG 1 助产士条例"
+  },
+  {
+   "id": "BN-S-98-2008-CUSTOMS-AMENDMENT-ORDER-2008",
+   "zh": "海关修正命令 2008"
+  },
+  {
+   "id": "BN-S-50-2014-E-FISHERIES-AMENDMENT-ORDER-2014",
+   "zh": "渔业修正命令 2014"
+  },
+  {
+   "id": "BN-S-54-2007-E-INSURANCE-AMENDMENT-ORDER-2007",
+   "zh": "保险修正命令 2007"
+  },
+  {
+   "id": "BN-S-61-2017-E-PENAL-CODE-AMENDMENT-ORDER-2017",
+   "zh": "刑法典修正命令 2017"
+  },
+  {
+   "id": "BN-S-41-2005-E-PAWNBROKERS-AMENDMENT-ORDER-2005",
+   "zh": "当押商修正命令 2005"
+  },
+  {
+   "id": "BN-CAP-188-2021-AIRPORT-PASSENGER-SERVICE-CHARGE-ACT",
+   "zh": "机场乘客服务费法"
+  },
+  {
+   "id": "BN-CAP-65-R-1-1984-SECOND-HAND-DEALERS-RULES",
+   "zh": "R 1 1984 版二手货商规则"
+  },
+  {
+   "id": "BN-CAP-154-EXTRADITION-MALAYSIA-AND-SINGAPORE-ACT",
+   "zh": "马来西亚与新加坡引渡法"
+  },
+  {
+   "id": "BN-S-16-2023-SUPREME-COURT-ACT-AMENDMENT-ORDER-2023",
+   "zh": "最高法院法修正命令 2023"
+  },
+  {
+   "id": "BN-S-32-2012-BUSINESS-NAMES-ACT-AMENDMENT-ORDER-2012",
+   "zh": "商业名称法修正命令 2012"
+  },
+  {
+   "id": "BN-S-30-2020-E-INCOME-TAX-ACT-AMENDMENT-NO-4-ORDER-2020",
+   "zh": "所得税法第 4 号修正命令 2020"
+  },
+  {
+   "id": "BN-S-63-2012-THE-SECURITY-AND-DEFENCE-FUND-ORDER-1975",
+   "zh": "安全与国防基金命令 1975"
+  },
+  {
+   "id": "BN-S-1-2013-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2013",
+   "zh": "法律职业法修正命令 2013"
+  },
+  {
+   "id": "BN-S-11-1988-MERCHANT-SHIPPING-SAFETY-ZONES-ORDER-1988",
+   "zh": "商船安全区命令 1988"
+  },
+  {
+   "id": "BN-S-23-1989-EMERGENCY-CUSTOMS-ACT-AMENDMENT-ORDER-1988",
+   "zh": "紧急海关法修正命令 1988"
+  },
+  {
+   "id": "BN-S-35-2015-BILL-OF-EXCHANGE-ACT-AMENDMENT-ORDER-2015",
+   "zh": "汇票法修正命令 2015"
+  },
+  {
+   "id": "BN-CAP-132-R8-2022-LEGAL-PROFESSION-PUPILLAGE-RULES",
+   "zh": "R8 2022 版法律职业见习规则"
+  },
+  {
+   "id": "BN-CAP-110-1984-VICAR-APOSTOLIC-OF-KUCHING-INCORPORATION-ACT",
+   "zh": "古晋宗座代牧区法团法"
+  },
+  {
+   "id": "BN-S-5-2020-PLANT-VARITIES-PROTECTION-AMENDMENT-ORDER-2020",
+   "zh": "植物品种保护修正命令 2020"
+  },
+  {
+   "id": "BN-S-8-2011-WHOLESOME-MEAT-TRANSPORTATION-REGULATIONS-2011",
+   "zh": "卫生肉类运输条例 2011"
+  },
+  {
+   "id": "BN-S-89-2010-CUSTOMS-ASEAN-TRADE-IN-GOODS-AGREMENT-ORDER-2010",
+   "zh": "海关东盟货物贸易协定命令 2010"
+  },
+  {
+   "id": "BN-S-50-1999-E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-B4B12B",
+   "zh": "紧急法律职业法修正命令 1999"
+  },
+  {
+   "id": "BN-CAP-93-R6-LABOUR-IMMIGRANT-WORKERS-EMPLOYMENT-LICENCES-RULES",
+   "zh": "R6 劳工移民工人就业许可证规则"
+  },
+  {
+   "id": "BN-S-42-2024-CONSTITUTION-OF-BRUNEI-DARUSALAM-AMENDMENT-C6F030",
+   "zh": "文莱达鲁萨兰国宪法修正命令 2024"
+  },
+  {
+   "id": "BN-CAP-140-RG-3-2016-NURSES-REGISTRATION-COMMITTEES-REGULATIONS",
+   "zh": "RG 3 2016 版护士注册委员会条例"
+  },
+  {
+   "id": "BN-CAP-60-N-2-2012-REGISTRATION-OF-DOGS-EXEMPTION-NOTIFICATION",
+   "zh": "N 2 2012 版犬只登记豁免公告"
+  },
+  {
+   "id": "BN-S-28-2014-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-AMENDMEN-C24458",
+   "zh": "补充缴费养老金修正命令 2014"
+  },
+  {
+   "id": "BN-CAP-151-RG-1-2014-WEIGHTS-AND-MEASURES-VERIFICATION-R-E49BD3",
+   "zh": "RG 1 2014 版度量衡检定条例"
+  },
+  {
+   "id": "BN-CAP-142-R-1-2014-PRICE-CONTROL-COMPOUNDABLE-OFFENCES-922934",
+   "zh": "R 1 2014 版价格管制可和解罪行条例"
+  },
+  {
+   "id": "BN-S-83-2010-CUSTOMS-ASEAN-COMMON-EFFECTIVE-PREFERENTIAL-08E2F7",
+   "zh": "海关东盟共同有效优惠关税命令 2010"
+  },
+  {
+   "id": "BN-S-62-2008-CUSTOMS-BRUNEI-JAPAN-ECONOMIC-PARTNERSHIP-A-630708",
+   "zh": "海关文莱日本经济伙伴关系协定命令 2008"
+  },
+  {
+   "id": "BN-CAP-276-O-1-2024-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-N-A86AD0",
+   "zh": "O 1 2024 版补充缴费养老金非雇员命令"
+  },
+  {
+   "id": "BN-CAP-290-RG-2-2024-CA-CARRIAGE-OF-LIQUIDS-AEROSOLS-AND-A25F97",
+   "zh": "Rg 2 2024 版液体、气雾剂与凝胶运输条例"
+  },
+  {
+   "id": "BN-CAP-30-R-1-MISCELLANEOUS-OFFENCES-METHOD-AND-PROCEDUR-AF2969",
+   "zh": "R 1 杂项罪行和解方式与程序规则"
+  },
+  {
+   "id": "BN-RESL-1956-DIPLOMATIC-PRIVELEGES-INTERNATIONAL-REFUGEE-3779B2",
+   "zh": "RESL 1956 外交特权国际难民组织命令"
+  },
+  {
+   "id": "BN-S-97-1961-BELAIT-MUNICIPAL-BOARD-STANDING-ORDERS-BY-L-40E090",
+   "zh": "白拉奕市政局常设命令附例 1961，由 S 27 2018 废止"
+  },
+  {
+   "id": "BN-S-9-2025-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLA-D3DD1F",
+   "zh": "立法会议依第 837 条通过命令的公告"
+  },
+  {
+   "id": "BN-RESL-1956-CUSTOMS-ESTABLISHMENTS-OF-CUSTOMS-WAREHOUSE-428CF8",
+   "zh": "RESL 1956 设立海关仓库与仓库租金命令"
+  },
+  {
+   "id": "BN-S-65-2008-BETWEEN-THE-ASSOCIATION-OF-THE-SOUTH-EAST-A-2BD652",
+   "zh": "东南亚国家联盟与大韩民国修正命令 2008"
+  },
+  {
+   "id": "BN-S-126-2008-CUSTOMS-AGREEMENT-ON-COMPREHENSIVE-ECONOMI-A9E89C",
+   "zh": "海关东南亚国家联盟成员国与日本全面经济伙伴关系协定命令 2008"
+  },
+  {
+   "id": "BN-S-146-1971-CENSUS-RULES-1971",
+   "zh": "人口普查规则 1971"
+  },
+  {
+   "id": "BN-CAP-136-1984-DEVELOPMENT-FUND-ACT",
+   "zh": "发展基金法"
+  },
+  {
+   "id": "BN-CAP-58-2023-ARMS-AND-EXPLOSIVES-ACT",
+   "zh": "武器与爆炸物法"
+  },
+  {
+   "id": "BN-CAP-91-1984-SUBSCRIPTIONS-CONTROL-ACT",
+   "zh": "募捐管制法"
+  },
+  {
+   "id": "BN-CAP-12-2016-STATUTORY-DECLARATIONS-ACT",
+   "zh": "法定声明法"
+  },
+  {
+   "id": "BN-CAP-122-1984-REGISTRATION-OF-GUESTS-ACT",
+   "zh": "旅客登记法"
+  },
+  {
+   "id": "BN-S-28-2018-PROTECTED-PLACES-ORDER-2018",
+   "zh": "受保护场所命令 2018"
+  },
+  {
+   "id": "BN-S-59-2011-E-EXCISE-EXEMPTION-ORDER-2011",
+   "zh": "消费税豁免命令 2011"
+  },
+  {
+   "id": "BN-S-77-2017-E-EXCISE-AMENDMENT-ORDER-2017",
+   "zh": "消费税修正命令 2017"
+  },
+  {
+   "id": "BN-S-58-2011-CUSTOMS-EXEMPTION-ORDER-2011",
+   "zh": "海关豁免命令 2011"
+  },
+  {
+   "id": "BN-CAP-29-1984-UNLAWFUL-CARNAL-KNOWLEDGE-ACT",
+   "zh": "非法性交法"
+  },
+  {
+   "id": "BN-CAP-23-2019-TRESPASS-ON-ROYAL-PROPERTY-ACT",
+   "zh": "侵入王室财产法"
+  },
+  {
+   "id": "BN-CAP-17-O-2-IMMIGRATION-EXEMPTION-ORDER",
+   "zh": "O 2 移民豁免命令"
+  },
+  {
+   "id": "BN-CAP-138-TERRITORIAL-WATERS-OF-BRUNEI-ACT",
+   "zh": "文莱领水法"
+  },
+  {
+   "id": "BN-S-62-2016-E-ARBITRATION-AMENDMENT-ORDER-2016",
+   "zh": "仲裁修正命令 2016"
+  },
+  {
+   "id": "BN-E-2-OF-1930-CENSUS-ENACTMENT-1930",
+   "zh": "人口普查法令 1930（E 2 of 1930）"
+  },
+  {
+   "id": "BN-S-44-2023-E-ELECTRICITY-FEES-REGULATIONS-2023",
+   "zh": "电费条例 2023"
+  },
+  {
+   "id": "BN-CAP-75-1984-SEAMENS-UNEMPLOYMENT-INDEMNITY-ACT",
+   "zh": "海员失业补偿法"
+  },
+  {
+   "id": "BN-S-49-2018-COMPANIES-ACT-AMENDMENT-ORDER-2018",
+   "zh": "公司法修正命令 2018"
+  },
+  {
+   "id": "BN-S-78-2017-CUSTOMS-AMENDMENT-NO-2-ORDER-2017",
+   "zh": "海关第 2 号修正命令 2017"
+  },
+  {
+   "id": "BN-S-9-2021-COMPETITION-APPEALS-REGULATIONS-2020",
+   "zh": "竞争上诉条例 2020"
+  },
+  {
+   "id": "BN-S-89-2006-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2006",
+   "zh": "轻微罪行法修正命令 2006"
+  },
+  {
+   "id": "BN-S-12-2010-MISUSE-OF-DRUGS-ACT-AMENDMENT-ORDER-2010",
+   "zh": "药物滥用法修正命令 2010"
+  },
+  {
+   "id": "BN-S-57-2016-E-INCOME-TAX-ACT-AMENDMENT-NO-2-ORDER-2016",
+   "zh": "所得税法第 2 号修正命令 2016"
+  },
+  {
+   "id": "BN-CAP-61-RG2-2024-FISHERIES-PIRANHA-REGULATIONS",
+   "zh": "RG2 2024 版渔业水虎鱼条例"
+  },
+  {
+   "id": "BN-S-19-2006-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2006",
+   "zh": "法律职业法修正命令 2006"
+  },
+  {
+   "id": "BN-S-52-2014-TRESPASS-ON-ROYAL-PROPERTY-ACT-ORDER-2014",
+   "zh": "侵入王室财产法命令 2014"
+  },
+  {
+   "id": "BN-CAP-114-O-1-2015-POISONS-ANTIBIOTICS-EXEMPTION-ORDER",
+   "zh": "O 1 2015 版毒药抗生素豁免命令"
+  },
+  {
+   "id": "BN-S-16-1994-E-EMERGENCY-LEGAL-PROFESSION-ACT-AMENDMENT-E7F8AF",
+   "zh": "紧急法律职业法修正命令 1994"
+  },
+  {
+   "id": "BN-S-24-1989-CUSTOMS-ASEAN-PREFENTIAL-TRADING-ARRANGEMEN-BB4CFB",
+   "zh": "海关东盟优惠贸易安排命令 1988"
+  },
+  {
+   "id": "BN-S-17-2021-E-AUTORITI-MONETARI-BRUNEI-DARUSSALAM-AMEND-6D008D",
+   "zh": "文莱达鲁萨兰国金融管理局修正命令 2021"
+  },
+  {
+   "id": "BN-S-2-2026-E-RELIGIOUS-COUNCIL-AND-KADIS-COURTS-ACT-AME-9C4F85",
+   "zh": "宗教理事会与卡迪法庭法修正命令 2026"
+  },
+  {
+   "id": "BN-CAP-242-2024-STATUTORY-CORPORATIONS-CONTRIBUTIONS-TO-6772BD",
+   "zh": "法定机构向综合基金缴款法"
+  },
+  {
+   "id": "BN-S-30-2014-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-AMENDMEN-D0EFB2",
+   "zh": "补充缴费养老金第 2 号修正命令 2014"
+  },
+  {
+   "id": "BN-SUP-IV-1984-SARAWAK-DEFINITION-OF-BOUNDARIES-ORDER-IN-COUNCIL",
+   "zh": "SUP IV 1984 版砂拉越边界划定枢密院命令"
+  },
+  {
+   "id": "BN-S-29-1991-E-CONSTITUTION-OF-UNIVERSITI-BRUNEI-DARUSSA-B9FF2B",
+   "zh": "文莱达鲁萨兰大学章程修正命令 1991"
+  },
+  {
+   "id": "BN-S-13-2024-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-TRUST-AM-2129A8",
+   "zh": "补充缴费养老金信托第 3 号修正命令 2024"
+  },
+  {
+   "id": "BN-CAP-140-RG-1-2016-NURSES-REGISTRATION-NURSING-BOARD-F-0270C6",
+   "zh": "RG 1 2016 版文莱护士注册护理局条例"
+  },
+  {
+   "id": "BN-CAP-19-RG-2-2002-NATIONAL-REGISTRATION-CONTROL-OF-PHO-479E45",
+   "zh": "RG 2 2002 版国民登记照片管制条例"
+  },
+  {
+   "id": "BN-CAP-25-O1-ORDERS-TO-PROHIBIT-IMPORTATION-SALE-OR-CIRC-C91AA1",
+   "zh": "O1 禁止出版物进口、销售或流通的命令"
+  },
+  {
+   "id": "BN-CAP-175-N-1-MAINTENANCE-ORDER-RECIPROCAL-ENFORCEMENT-BA0264",
+   "zh": "N 1 赡养令相互执行综合公告"
+  },
+  {
+   "id": "BN-S-23-2004-EMERGENCY-CONTINUATION-AND-VALIDATION-OF-EM-278BAA",
+   "zh": "紧急状态条款延续与确认命令 2004"
+  },
+  {
+   "id": "BN-S-125-2008-PREVENTION-OF-POLLUTION-OF-THE-SEA-COMPOUN-45C359",
+   "zh": "防止海洋污染可和解罪行条例 2008"
+  },
+  {
+   "id": "BN-S-46-2003-YAYASAN-SULTAN-HAJI-HASSANAL-BOLKIAH-ACT-AM-4E3324",
+   "zh": "苏丹哈吉哈桑纳尔·博尔基亚基金会法附表修正命令 2003"
+  },
+  {
+   "id": "BN-S-3-2022-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLA-ACC632",
+   "zh": "立法会议依第 837 条通过命令的公告"
+  },
+  {
+   "id": "BN-S-41-2008-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-FE5E6D",
+   "zh": "立法会议依第 837 条通过命令的公告"
+  },
+  {
+   "id": "BN-S-66-2008-CUSTOMS-ASEAN-COMMON-EFFECTIVE-PREFERENTIAL-03B9DC",
+   "zh": "海关东盟共同有效优惠关税东盟优先领域一体化框架协定命令 2008"
+  },
+  {
+   "id": "BN-S-1-2026-E",
+   "zh": "S-1 2026 年公告"
+  },
+  {
+   "id": "BN-S-4-2026-E",
+   "zh": "S-4 2026 年公告"
+  },
+  {
+   "id": "BN-CAP-2-2009-APPLICATION-OF-LAWS-ACT",
+   "zh": "法律适用法"
+  },
+  {
+   "id": "BN-S-15-2005-E-ORDER-UNDER-SECTION-152",
+   "zh": "依第 152 条作出的命令"
+  },
+  {
+   "id": "BN-CAP-78-R-1-2003-CENSUS-RULES",
+   "zh": "R 1 2003 版人口普查规则"
+  },
+  {
+   "id": "BN-S-17-2018-E-EXCISE-AMENDMENT-ORDER-2018",
+   "zh": "消费税修正命令 2018"
+  },
+  {
+   "id": "BN-S-48-2024-PROTECTED-PLACES-ORDER-2024",
+   "zh": "受保护场所命令 2024"
+  },
+  {
+   "id": "BN-S-88-2017-PROTECTED-PLACES-ORDER-2017",
+   "zh": "受保护场所命令 2017"
+  },
+  {
+   "id": "BN-S-18-2018-CUSTOMS-AMENDMENT-ORDER-2018",
+   "zh": "海关修正命令 2018"
+  },
+  {
+   "id": "BN-S-21-2013-CUSTOMS-AMENDMENT-ORDER-2018",
+   "zh": "海关修正命令 2018"
+  },
+  {
+   "id": "BN-S-32-2017-E-PATENTS-AMENDMENT-ORDER-2017",
+   "zh": "专利修正命令 2017"
+  },
+  {
+   "id": "BN-S-39-2011-CUSTOMS-AMENDMENT-ORDER-2011",
+   "zh": "海关修正命令 2011"
+  },
+  {
+   "id": "BN-S-31-1957-E-FINGERPRINTS-FORMS-RULES-1957",
+   "zh": "指纹表格规则 1957"
+  },
+  {
+   "id": "BN-S-10-2026-STAMP-ACT-AMENDMENT-ORDER-2026",
+   "zh": "印花税法修正命令 2026"
+  },
+  {
+   "id": "BN-S-13-2023-PROTECTED-PLACES-NO-2-ORDER-2023",
+   "zh": "受保护场所第 2 号命令 2023"
+  },
+  {
+   "id": "BN-S-14-2023-PROTECTED-PLACES-NO-2-ORDER-2023",
+   "zh": "受保护场所第 2 号命令 2023"
+  },
+  {
+   "id": "BN-S-49-2024-PROTECTED-PLACES-NO-2-ORDER-2024",
+   "zh": "受保护场所第 2 号命令 2024"
+  },
+  {
+   "id": "BN-S-35-2012-E-EMPLOYMENT-AMENDMENT-ORDER-2012-1",
+   "zh": "就业修正命令 2012(1)"
+  },
+  {
+   "id": "BN-S-60-2021-E-PASSPORTS-ACT-AMENDMENT-ORDER-2021",
+   "zh": "护照法修正命令 2021"
+  },
+  {
+   "id": "BN-S-19-2016-BANKRUPTCY-ACT-AMENDMENT-ORDER-2016",
+   "zh": "破产法修正命令 2016"
+  },
+  {
+   "id": "BN-S-30-2022-E-ANTI-TERRORISM-AMENDMENT-ORDER-2022",
+   "zh": "反恐怖主义修正命令 2022"
+  },
+  {
+   "id": "BN-S-43-1992-EMERGENCY-ISLAMIC-BANKING-ORDER-1992",
+   "zh": "紧急伊斯兰银行命令 1992"
+  },
+  {
+   "id": "BN-S-44-2018-E-INCOME-TAX-ACT-AMENDMENT-ORDER-2018",
+   "zh": "所得税法修正命令 2018"
+  },
+  {
+   "id": "BN-S-8-2017-E-INCOME-TAX-ACT-AMENDMENT-ORDER-2017",
+   "zh": "所得税法修正命令 2017"
+  },
+  {
+   "id": "BN-CAP-130-1984-BRUNEI-DARUSSALAM-FISHERY-LIMITS-ACT",
+   "zh": "文莱达鲁萨兰国渔业界限法"
+  },
+  {
+   "id": "BN-CAP-111-2020-DISAFFECTED-AND-DANGEROUS-PERSONS-ACT",
+   "zh": "不满与危险人物法"
+  },
+  {
+   "id": "BN-CAP-16-1984-INTERNATIONALLY-PROTECTED-PERSONS-ACT",
+   "zh": "国际受保护人员法"
+  },
+  {
+   "id": "BN-S-79-2006-E-FIRE-SERVICE-ACT-AMENDMENT-ORDER-2006",
+   "zh": "消防法修正命令 2006"
+  },
+  {
+   "id": "BN-S-21-2021-MERCHANT-SHIPPING-AMENDMENT-ORDER-2021",
+   "zh": "商船修正命令 2021"
+  },
+  {
+   "id": "BN-S-23-2009-MERCHANT-SHIPPING-AMENDMENT-ORDER-2009",
+   "zh": "商船修正命令 2009"
+  },
+  {
+   "id": "BN-S-44-2016-BUSINESS-LICENCES-ACT-REPEAL-ORDER-2016",
+   "zh": "商业执照法废止命令 2016"
+  },
+  {
+   "id": "BN-S-82-2008-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-2008",
+   "zh": "轻微罪行法修正命令 2008"
+  },
+  {
+   "id": "BN-CAP-105-RG-2-2013-NEWSPAPER-PERMIT-REGULATIONS",
+   "zh": "RG 2 2013 版报纸许可证条例"
+  },
+  {
+   "id": "BN-S-31-2016-MUNICIPAL-BOARDS-ACT-AMENDMENT-ORDER-2016",
+   "zh": "市政局法修正命令 2016"
+  },
+  {
+   "id": "BN-S-59-2016-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2016",
+   "zh": "法律职业法修正命令 2016"
+  },
+  {
+   "id": "BN-S-62-2001-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2001",
+   "zh": "法律职业法修正命令 2001"
+  },
+  {
+   "id": "BN-CAP-130-O-1-BRUNEI-DARUSSALAM-FISHERY-LIMITS-ORDER",
+   "zh": "O 1 文莱达鲁萨兰国渔业界限命令"
+  },
+  {
+   "id": "BN-S-39-2007-CURRENCY-AND-MONETARY-AMENDMENT-ORDER-2007",
+   "zh": "货币与金融修正命令 2007"
+  },
+  {
+   "id": "BN-CAP-60-R-1-2012-REGISTRATION-OF-DOGS-FEES-RULES",
+   "zh": "R 1 2012 版犬只登记费规则"
+  },
+  {
+   "id": "BN-CAP-52-R-1-2018-POSTAL-PARCEL-AIRMAIL-RATES-RULES",
+   "zh": "R 1 2018 版邮政包裹航空邮件资费规则"
+  },
+  {
+   "id": "BN-S-114-2010-E-ASIAN-DEVELOPMENT-BANK-ACT-AMENDMENT-ORDER-2010",
+   "zh": "亚洲开发银行法修正命令 2010"
+  },
+  {
+   "id": "BN-S-18-1988-E-EMERGENCY-FIRE-BRIGADE-ACT-AMENDMENT-ORDER-1988",
+   "zh": "紧急消防队法修正命令 1988"
+  },
+  {
+   "id": "BN-S-43-2008-MISCELLANEOUS-LICENCES-ACT-AMENDMENT-ORDER-2008",
+   "zh": "杂项执照法修正命令 2008"
+  },
+  {
+   "id": "BN-CAP-147-O-1-2017-PROTECTED-PLACES-CONSOLIDATION-ORDER",
+   "zh": "O 1 2017 版受保护场所综合命令"
+  },
+  {
+   "id": "BN-RG-1-EMPLOYMENT-DOMESTIC-WORKERS-REGULATIONS-1",
+   "zh": "RG 1 就业家庭佣工条例(1)"
+  },
+  {
+   "id": "BN-S-33-2017-BRUNEI-INVESTMENT-AGENCY-ACT-AMENDMENT-ORDER-2017",
+   "zh": "文莱投资局法修正命令 2017"
+  },
+  {
+   "id": "BN-CAP-151-RG-2-2014-WEIGHTS-AND-MEASURES-FEES-REGULATIONS",
+   "zh": "RG 2 2014 版度量衡收费条例"
+  },
+  {
+   "id": "BN-CAP-30-N-1-MISCELLANEOUS-OFFENCES-POUND-FEES-NOTIFICATION",
+   "zh": "N 1 杂项罪行扣押所费用公告"
+  },
+  {
+   "id": "BN-S-97-1963-BRUNEI-MUNICIPAL-BOARD-STANDING-ORDERS-BY-LAWS-1963",
+   "zh": "文莱市政局常设命令附例 1963"
+  },
+  {
+   "id": "BN-S-85-2008-MISCELLANEOUS-LICENCES-ACT-AMENDMENT-NO-2-O-04DF9C",
+   "zh": "杂项执照法第 2 号修正命令 2008"
+  },
+  {
+   "id": "BN-CAP-122-R1-REGISTRATION-OF-GUESTS-FURNISHING-OF-RETURNS-RULES",
+   "zh": "R1 旅客登记申报规则"
+  },
+  {
+   "id": "BN-S-14-2008-CONSTITUTION-FINANCIAL-PROCEDURE-AMENDMENT-106BF0",
+   "zh": "宪法财政程序修正命令 2008"
+  },
+  {
+   "id": "BN-S-29-2025-LAW-REVISION-COMPANIES-ACT-CAP-39-CORRECTIO-E8CEBB",
+   "zh": "法律修订公司法第 39 章更正命令 2025"
+  },
+  {
+   "id": "BN-S-13-1987-E-LAW-REVISION-EVIDENCE-ACT-CAP-108-CORRECT-B0C512",
+   "zh": "法律修订证据法第 108 章更正命令 1987"
+  },
+  {
+   "id": "BN-S-29-2007-E-DRUG-TRAFFICKING-RECOVERY-OF-PROCEEDS-AME-CC87B5",
+   "zh": "贩毒得益追缴修正命令 2007"
+  },
+  {
+   "id": "BN-S-30-2007-CRIMINAL-CONDUCT-RECOVERY-OF-PROCEEDS-AMEND-674012",
+   "zh": "犯罪行为得益追缴修正命令 2007"
+  },
+  {
+   "id": "BN-CAP-133-R-2-INTERNAL-SECURITY-DETAINED-PERSONS-ADVISO-5E3095",
+   "zh": "R 2 内部安全被拘留者咨询委员会规则"
+  },
+  {
+   "id": "BN-CAP-7-R-2-2021-CRIMINAL-PROCEDURE-ALLOWANCE-TO-WITNES-590F7B",
+   "zh": "R 2 2021 版刑事诉讼证人津贴规则"
+  },
+  {
+   "id": "BN-S-24-2003-RELIGIOUS-COUNCIL-AND-KADIS-COURTS-ACT-AMEN-215A4D",
+   "zh": "宗教理事会与卡迪法庭法修正命令 2003"
+  },
+  {
+   "id": "BN-S-22-2000-E-UNIVERSITI-BRUNEI-DARUSSALAM-AMENDMENT-OF-FE1F44",
+   "zh": "文莱达鲁萨兰大学附表修正命令 2000"
+  },
+  {
+   "id": "BN-S-6-1989-MERCHANT-SHIPPING-REGISTRATION-OF-GOVERNMENT-BA737B",
+   "zh": "商船政府船舶登记条例 1988"
+  },
+  {
+   "id": "BN-S-32-1989-E-CONSTITUTION-OF-UNIVERSITI-BRUNEI-DARUSSA-F005A7",
+   "zh": "文莱达鲁萨兰大学章程修正命令 1989"
+  },
+  {
+   "id": "BN-E-2-OF-1939-FEDERATED-MALAY-STATES-LAWS-ADOPTION-ENAC-2B9B06",
+   "zh": "马来联邦法律采纳法令 1939（E 2 of 1939）"
+  },
+  {
+   "id": "BN-CAP-52-R-4-2018-POSTAL-SURFACE-LETTER-RATES-LOCAL-AND-E00ACE",
+   "zh": "R 4 2018 版 本地与英联邦平信资费规则"
+  },
+  {
+   "id": "BN-S-31-1990-EMERGENCY-RELIGIOUS-COUNCIL-AND-KADIS-COURT-72B991",
+   "zh": "紧急宗教理事会与卡迪法庭法修正命令 1990"
+  },
+  {
+   "id": "BN-S-57-2008-CRIMINAL-CONDUCT-RECOVERY-OF-PROCEEDS-DESIG-B21716",
+   "zh": "犯罪行为得益追缴指定国家命令 2008"
+  },
+  {
+   "id": "BN-CAP-19-RG-3-2002-NATIONAL-REGISTRATION-TRANSITIONAL-P-A4C0E2",
+   "zh": "RG 3 2002 版国民登记过渡条款条例"
+  },
+  {
+   "id": "BN-S-66-2013-E-IMMIGRATION-BRUNEI-DARUSSALAM-SARAWAK-BOR-BDDE38",
+   "zh": "文莱达鲁萨兰国砂拉越边境地区移民豁免命令 2013"
+  },
+  {
+   "id": "BN-S-1-1992-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONSE-64AFC5",
+   "zh": "宪法职能转移与相应条款命令 1992"
+  },
+  {
+   "id": "BN-S-16-1986-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-1D0B0B",
+   "zh": "宪法职能转移与相应条款命令 1986"
+  },
+  {
+   "id": "BN-S-19-1994-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-50A1B1",
+   "zh": "宪法职能转移与相应条款命令 1993"
+  },
+  {
+   "id": "BN-S-20-1990-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-686CA1",
+   "zh": "宪法职能转移与相应条款命令 1990"
+  },
+  {
+   "id": "BN-S-27-1987-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-CD1503",
+   "zh": "宪法职能转移与相应条款命令 1987"
+  },
+  {
+   "id": "BN-S-51-1989-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-261129",
+   "zh": "宪法职能转移与相应条款命令 1989"
+  },
+  {
+   "id": "BN-S-7-2014-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLA-2387BA",
+   "zh": "立法会议依第 837 条通过命令的公告"
+  },
+  {
+   "id": "BN-S-16-1991-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-2D07F4",
+   "zh": "宪法职能转移与相应条款命令 1991"
+  },
+  {
+   "id": "BN-S-24-1985-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-5F40B7",
+   "zh": "宪法职能转移与相应条款命令 1985"
+  },
+  {
+   "id": "BN-S-29-1995-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-2B75B8",
+   "zh": "宪法职能转移与相应条款命令 1995"
+  },
+  {
+   "id": "BN-CAP-286-RG-1-2024-WILD-FAUNA-AND-FLORA-FEES-AND-MISCE-15E964",
+   "zh": "RG 1 2024 版野生动植物收费与杂项条款条例"
+  },
+  {
+   "id": "BN-S-54-1989-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-26521F",
+   "zh": "宪法职能转移与相应条款第 2 号命令 1989"
+  },
+  {
+   "id": "BN-CAP-27-N-2-NOTIFICATION-OF-MINISTERS-RESPONSIBLE-FOR-8D4B08",
+   "zh": "N 2 关于负责法及其下制定条例的部长的公告"
+  },
+  {
+   "id": "BN-S-3-2007-CUSTOMS-ASEAN-COMMON-EFFECTIVE-PREFERENTIAL-506854",
+   "zh": "海关东盟共同有效优惠关税东盟优惠一体化制度命令 2006"
+  },
+  {
+   "id": "BN-S-141-1981-CUSTOMS-ESTABLISHMENT-OF-CUSTOMS-WAREHOUSE-A5D41F",
+   "zh": "设立海关仓库与仓库租金文莱国际机场命令 1981"
+  },
+  {
+   "id": "BN-S-14-1988-CONSTITUTION-TRANSFER-OF-FUNCTIONS-AND-CONS-913512",
+   "zh": "宪法职能转移与相应条款命令 1988 文莱达鲁萨兰国渔业界限法"
+  },
+  {
+   "id": "BN-S-5-2026-E",
+   "zh": "S-5 2026 年公告"
+  },
+  {
+   "id": "BN-S-6-2026-E",
+   "zh": "S-6 2026 年公告"
+  },
+  {
+   "id": "BN-S-7-2026-E",
+   "zh": "S-7 2026 年公告"
+  },
+  {
+   "id": "BN-S-10-2000-E-ORDER-UNDER-SECTION-45",
+   "zh": "依第 45 条作出的命令"
+  },
+  {
+   "id": "BN-CAP-86-GENEVA-AND-RED-CROSS-ACT",
+   "zh": "日内瓦与红十字法"
+  },
+  {
+   "id": "BN-S-70-2017-CUSTOMS-AMENDMENT-ORDER-2017",
+   "zh": "海关修正命令 2017"
+  },
+  {
+   "id": "BN-S-82-2000-CUSTOMS-AMENDMENT-ORDER-2000",
+   "zh": "海关修正命令 2000"
+  },
+  {
+   "id": "BN-CAP-52-R-5-2018-POSTAL-FEES-RULES",
+   "zh": "R 5 2018 版邮政收费规则"
+  },
+  {
+   "id": "BN-S-24-2020-E-FISHERIES-AMENDMENT-ORDER-2020",
+   "zh": "渔业修正命令 2020"
+  },
+  {
+   "id": "BN-S-29-2009-E-LAND-CODE-AMENDMENT-ORDER-2009",
+   "zh": "土地法典修正命令 2009"
+  },
+  {
+   "id": "BN-S-81-2010-E-FISHERIES-AMENDMENT-ORDER-2010",
+   "zh": "渔业修正命令 2010"
+  },
+  {
+   "id": "BN-S-88-2006-E-INSURANCE-AMENDMENT-ORDER-2006",
+   "zh": "保险修正命令 2006"
+  },
+  {
+   "id": "BN-S-58-2010-E-HALAL-MEAT-AMENDMENT-ORDER-2010",
+   "zh": "清真肉类修正命令 2010"
+  },
+  {
+   "id": "BN-S-1-2006-EVIDENCE-ACT-AMENDMENT-ORDER-2006",
+   "zh": "证据法修正命令 2006"
+  },
+  {
+   "id": "BN-S-41-2018-E-EXCISE-AMENDMENT-NO-2-ORDER-2018",
+   "zh": "消费税第 2 号修正命令 2018"
+  },
+  {
+   "id": "BN-S-46-1984-E-MERCHANT-SHIPPING-FEES-RULES-1984",
+   "zh": "商船收费规则 1984"
+  },
+  {
+   "id": "BN-S-21-2020-E-EMPLOYMENT-AMENDMENT-ORDER-2020-1",
+   "zh": "就业修正命令 2020(1)"
+  },
+  {
+   "id": "BN-S-31-2014-E-EMPLOYMENT-AMENDMENT-ORDER-2014-1",
+   "zh": "就业修正命令 2014(1)"
+  },
+  {
+   "id": "BN-S-33-2024-E-EMPLOYMENT-AMENDMENT-ORDER-2024-1",
+   "zh": "就业修正命令 2024(1)"
+  },
+  {
+   "id": "BN-S-50-2015-E-EMPLOYMENT-AMENDMENT-ORDER-2015-1",
+   "zh": "就业修正命令 2015(1)"
+  },
+  {
+   "id": "BN-S-55-2013-CUSTOMS-AMENDMENT-NO-2-ORDER-2013",
+   "zh": "海关第 2 号修正命令 2013"
+  },
+  {
+   "id": "BN-S-68-2017-E-EMPLOYMENT-AMENDMENT-ORDER-2017-1",
+   "zh": "就业修正命令 2017(1)"
+  },
+  {
+   "id": "BN-S-70-2000-E-EXCHANGE-CONTROL-REPEAL-ORDER-2000",
+   "zh": "外汇管制废止命令 2000"
+  },
+  {
+   "id": "BN-CAP-130-2012-BRUNEI-DARUSSALAM-FISHERY-LIMITS-ACT",
+   "zh": "文莱达鲁萨兰国渔业界限法"
+  },
+  {
+   "id": "BN-S-47-2023-E-ELECTRICITY-ACT-AMENDMENT-ORDER-2023",
+   "zh": "电力法修正命令 2023"
+  },
+  {
+   "id": "BN-CAP-105-O-1-2013-NEWSPAPER-EXEMPTION-ORDER",
+   "zh": "O 1 2013 版报纸豁免命令"
+  },
+  {
+   "id": "BN-CAP-81-D-1-1984-DIRECTION-UNDER-SECTION-3",
+   "zh": "D 1 1984 版依第 3 条作出的指示"
+  },
+  {
+   "id": "BN-S-3-2016-CONTRACTS-ACT-AMENDMENT-ORDER-2016-1",
+   "zh": "合同法修正命令 2016(1)"
+  },
+  {
+   "id": "BN-CAP-52-R-3-2018-POSTAL-AIRMAIL-RATES-RULES",
+   "zh": "R 3 2018 版邮政航空邮件资费规则"
+  },
+  {
+   "id": "BN-S-12-2001-INTERNET-CODE-OF-PRACTICE-NOTIFICATION",
+   "zh": "互联网实务守则公告"
+  },
+  {
+   "id": "BN-S-66-1955-CHINESE-MARRIAGE-FEES-REGULATIONS-1955",
+   "zh": "华人婚姻收费条例 1955"
+  },
+  {
+   "id": "BN-S-9-2020-SUPREME-COURT-ACT-AMENDMENT-ORDER-2020",
+   "zh": "最高法院法修正命令 2020"
+  },
+  {
+   "id": "BN-S-62-2015-E-EMPLOYMENT-AMENDMENT-NO-2-ORDER-2015-1",
+   "zh": "就业第 2 号修正命令 2015(1)"
+  },
+  {
+   "id": "BN-S-27-2020-E-INCOME-TAX-ACT-AMENDMENT-NO-1-ORDER-2020",
+   "zh": "所得税法第 1 号修正命令 2020"
+  },
+  {
+   "id": "BN-S-40-2000-EMERGENCY-PUBLIC-OFFICERS-LIABILITIES-ACT",
+   "zh": "紧急公职人员责任法"
+  }
+ ]
+}

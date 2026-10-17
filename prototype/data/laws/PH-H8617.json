@@ -1,7 +1,7 @@
 {
  "id": "PH-H8617",
  "title": {
-  "zh": null,
+  "zh": "1980年司法重组法",
   "en": "The Judiciary Reorganization Act of 1980",
   "orig": "An Act Creating Two (2) Additional Regional Trial Court Branches in the Province of Laguna to be Stationed at Sta. Rosa City, Amending for the Purpose Section 14, Paragraph (E) of Batas Pambansa Blg. 129, Otherwise Known as \"The Judiciary Reorganization Act of 1980\", as Amended, and Appropriating Funds therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect fifteen (15) days after its complete publication in the Official Gazetter or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Judiciary Reorganization Act of 1980",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

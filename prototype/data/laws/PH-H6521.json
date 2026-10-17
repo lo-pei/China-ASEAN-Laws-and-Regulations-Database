@@ -1,7 +1,7 @@
 {
  "id": "PH-H6521",
  "title": {
-  "zh": null,
+  "zh": "制定海外就业政策，建立保护与促进移徙工人、其家庭及困境中的海外菲律宾人福利的更高标准，并为其他目的法案",
   "en": "An Act to Institute the Policies of Overseas Employment and Establish a Higher Standard of Protection and Promotion of the Welfare of Migrant Workers, Their Families and Overseas Filipinos in Distress, and for Other Purposes",
   "orig": "An Act to Institute the Policies of Overseas Employment and Establish a Higher Standard of Protection and Promotion of the Welfare of Migrant Workers, Their Families and Overseas Filipinos in Distress, and for Other Purposes"
  },
@@ -281,14 +281,15 @@
    }
   },
   {
-   "id": "PH-H6521-A20_2",
+   "id": "PH-H6521-A20-d2",
    "no": 20,
    "noLabel": {
     "en": "Section 20."
    },
    "text": {
     "en": "The Legal Assistant for Migrant Workers Affairs shall have the authority to hire private lawyers, domestic or foreign, in order to assist him in the effective discharge of the above functions."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6521-A25",
@@ -480,5 +481,13 @@
     "en": "Effectivity Clause. - This Act shall take effect after fifteen (15) days from its publication in the Official Gazette or in at least two (2) national newspapers of general circulation whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Institute the Policies of Overseas Employment and Establish a Higher Standard of Protection and Promotion of the Welfare of Migrant Workers, Their Families and Overseas Filipinos in Distress, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

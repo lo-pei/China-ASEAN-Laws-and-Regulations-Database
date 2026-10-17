@@ -1,7 +1,7 @@
 {
  "id": "SG-H182",
  "title": {
-  "zh": null,
+  "zh": "航空导航命令",
   "en": "Air Navigation Order",
   "orig": null
  },
@@ -558,5 +558,13 @@
     "en": "55A.—(1) No person shall act as the organiser of an exhibition of flying (referred to in this paragraph as the exhibition organiser) at an organised event which event the exhibition organiser reasonably believes is likely to be attended by more than 500 persons and which event consists wholly or partly of an exhibition of flying unless at the time at which such an exhibition of flying commences the exhibition organiser has obtained the permission in writing of the Chief Executive under sub-paragraph (4) for the exhibition of flying and complies with any conditions therein specified:\nProvided that the permission in writing of the Chief Executive under sub-paragraph (4) shall not be required for an exhibition of flying at an organised event if the exhibition organiser could not reasonably foresee 7 days before the intended date of the event that it would be likely to be attended by more than 500 persons.\n[S 61/93 wef 19/03/1993]\n[S 278/2010 wef 15/05/2010]\n(2) (a) The pilot-in-command of an aircraft intending to participate in an exhibition of flying for which a permission is required by virtue of sub-paragraph (1) shall take all reasonable steps to satisfy himself before he participates that —\n(i)the exhibition organiser has been granted such permission;\n(ii)the flight can comply with any relevant conditions subject to which that permission may have been granted; and\n(iii)the pilot has been granted a display authorisation appropriate to the intended flight.\n[S 423/2010 wef 02/08/2010]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Air Navigation Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

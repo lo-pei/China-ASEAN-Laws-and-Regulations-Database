@@ -1,7 +1,7 @@
 {
  "id": "SG-H1611",
  "title": {
-  "zh": null,
+  "zh": "地理标志（边境执法措施——费用）规则 2022",
   "en": "Geographical Indications (Border Enforcement Measures — Fees) Rules 2022",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRule 3\nFirst column\nSecond column\n1.For the processing of a written notice mentioned in section 56(1) or 67A(1)(a) of the Act\n$200\n2.For the escort of a conveyance conveying seized goods\n$29 per half hour (or part of a half hour) of continuous escort\n3.For the attendance of one or more authorised officers or senior authorised officers in connection with —\n(a)the inspection of seized goods\n$29 per half hour (or part of a half hour) of continuous attendance at the inspection\n(b)the destruction of seized goods\n$29 per half hour (or part of a half hour) of continuous attendance at the destruction\n4.For the attendance of one or more authorised officers or senior authorised officers in connection with any other act or service under Part 6 of the Act\n$29 per half hour (or part of a half hour) of continuous attendance at the operation\n[S 768/2023 wef 01/01/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Geographical Indications (Border Enforcement Measures — Fees) Rules 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

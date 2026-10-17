@@ -1,7 +1,7 @@
 {
  "id": "BN-S-13-2006-EVIDENCE-ACT-AMENDMENT-NO-2-ORDER-2006-SEC-18",
  "title": {
-  "zh": null,
+  "zh": "证据法第二号修正命令 2006 第 18 条",
   "en": "VIDENCE ACT AMENDMENT NO. 2 ORDER 2006 SEC 18",
   "orig": null
  },
@@ -280,5 +280,13 @@
     "en": "(1) On the application of any party to any proceedings, the court or a order that such party be at liberty to inspect and take copies of any entries in a banker's record for any of the purposes of such proceedings. (2} An order under this section may be made either with or without the bank or any other party, and shall be served on the bank 3 clear days before the same is to be obeyed, unless the court or judge otherwise directs.\n\n(3) The costs of any application to the court or judge under or for the purposes of this section, and the costs of anything done or to be done under an order of the court or judge made under or for the purposes of this section, be in the discretion of the court or judge, who may order the same or any part thereof to be paid to any party by the bank, where the same have been occasioned by default or delay on the part of the bank.\n\n(4) Any such order against a bank may be enforced as if the bank were a party to the proceedings. n. of Chapter 107."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "VIDENCE ACT AMENDMENT NO. 2 ORDER 2006 SEC 18",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

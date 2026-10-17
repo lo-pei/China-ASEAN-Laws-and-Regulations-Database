@@ -1,7 +1,7 @@
 {
  "id": "PH-H5914",
  "title": {
-  "zh": null,
+  "zh": "通过自然减员制度实现政府公务人员的最优配置、规定违规处罚并为其他目的法案",
   "en": "An Act Providing For Optimum Utilization of Personnel in Government Service Through A System of Attrition, Providing Penalties For Violation Thereof, and For Other Purposes",
   "orig": "An Act Providing For Optimum Utilization of Personnel in Government Service Through A System of Attrition, Providing Penalties For Violation Thereof, and For Other Purposes"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing For Optimum Utilization of Personnel in Government Service Through A System of Attrition, Providing Penalties For Violation Thereof, and For Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

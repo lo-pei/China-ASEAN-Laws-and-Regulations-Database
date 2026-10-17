@@ -1,7 +1,7 @@
 {
  "id": "SG-H451",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（赌场博彩行为）条例 2009",
   "en": "Casino Control (Conduct of Casino Gambling) Regulations 2009",
   "orig": null
  },
@@ -374,5 +374,13 @@
     "en": "19. Any casino operator which —\n(a)issues, exchanges or redeems casino chips or chip purchase vouchers other than in accordance with regulations 3 to 8;\n[S 635/2026 wef 21/09/2026]\n(b)allows the use of casino chips other than in accordance with regulation 9;\n[S 635/2026 wef 21/09/2026]\n(c)uses or allows the use of playing cards other than in accordance with regulation 10;\n(d)accepts, refuses or refunds wagers other than in accordance with regulations 11, 12 and 15(3);\n(da)allows wagers to be placed on a gaming machine or using a gaming program other than in accordance with regulation 11A;\n[S 635/2026 wef 21/09/2026]\n(e)pays or recovers winnings other than in accordance with regulations 13, 14 and 15(4);\n(f)declares any casino gambling void other than under any of the circumstances mentioned in regulation 15(1) or (2); or\n[S 285/2019 wef 04/04/2019]\n[S 635/2026 wef 21/09/2026]\n(g)contravenes regulation 15(1), 16, 17 or 17A,\n[S 285/2019 wef 04/04/2019]\n[S 635/2026 wef 21/09/2026]\nshall be liable to disciplinary action under section 54 of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Conduct of Casino Gambling) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

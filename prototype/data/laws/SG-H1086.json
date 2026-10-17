@@ -1,7 +1,7 @@
 {
  "id": "SG-H1086",
  "title": {
-  "zh": null,
+  "zh": "债务催收（一般）条例 2023",
   "en": "Debt Collection (General) Regulations 2023",
   "orig": null
  },
@@ -276,5 +276,13 @@
     "en": "SECOND SCHEDULE\nRegulation 17(1)\nFees\n1.Licence fee or renewal fee for a licence (as mentioned in section 8(1) of the Act)\n$600\n2.Application fee for a licensee to deploy an individual as a debt collector (as mentioned in section 19(3)(b) of the Act) —\n(a)where approval had not been previously granted for the licensee to deploy the individual as the licensee’s debt collector during the validity period of the licensee’s previous licence (called in this item the immediate preceding licence) that was issued before the licensee’s current licence; or\n$55\n(b)where approval had been previously granted for the licensee to deploy the individual as the licensee’s debt collector during the validity period of the licensee’s immediate preceding licence —\n(i)if the previous approval was cancelled before the expiry of the validity period of the licensee’s immediate preceding licence; or\n$55\n(ii)in any other case\nNil"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Debt Collection (General) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

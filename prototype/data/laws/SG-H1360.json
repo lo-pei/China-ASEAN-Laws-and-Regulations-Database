@@ -1,7 +1,7 @@
 {
  "id": "SG-H1360",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（DPWCS 区域宣告）公告 2023",
   "en": "Environmental Public Health (Declaration of DPWCS Area) Notification 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nJurong Lake District DPWCS area\nThe Jurong Lake District DPWCS area comprises the area the boundary of which starts at the point 35,048.9428 metres North and 17,368.4909 metres East of the Singapore Land Authority SVY 21 Datum (called in this paragraph the start point) and runs along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n35,013.6194\n17,336.8851\n34,985.9696\n17,310.5365\n34,956.3789\n17,269.0767\n34,928.8322\n17,222.1481\n34,887.4394\n17,151.0602\n34,836.7261\n17,097.5809\n34,773.8003\n17,055.8844\n34,732.7938\n17,032.6082\n34,675.0633\n17,018.6494\n34,537.5609\n17,653.6932\n34,815.3831\n17,712.1954\nto the start point, but excludes 2 Town Hall Link.\nThe boundaries of the Jurong Lake District DPWCS area are more particularly delineated in the plan below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Declaration of DPWCS Area) Notification 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

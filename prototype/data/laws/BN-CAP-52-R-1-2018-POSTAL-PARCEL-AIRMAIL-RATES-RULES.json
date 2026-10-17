@@ -1,0 +1,85 @@
+{
+ "id": "BN-CAP-52-R-1-2018-POSTAL-PARCEL-AIRMAIL-RATES-RULES",
+ "title": {
+  "zh": "R 1 2018 版邮政包裹航空邮件资费规则",
+  "en": "R 1 2018 ED POSTAL PARCEL AIRMAIL RATES RULES",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p23",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 3,
+ "chars": 468,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-52-R-1-2018-ED-POSTAL-PARCEL-AIRMAIL-RATES-RULES.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-52-R-1-2018-ED-POSTAL-PARCEL-AIRMAIL-RATES-RULES.pdf》（6 页），本次切分 3 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-52-R-1-2018-POSTAL-PARCEL-AIRMAIL-RATES-RULES-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "These Rules may be cited as the Postal (Parcel Airmail Rates) Rules. Rates for parcels sent by air"
+   }
+  },
+  {
+   "id": "BN-CAP-52-R-1-2018-POSTAL-PARCEL-AIRMAIL-RATES-RULES-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "heading": {
+    "en": "— PARCEL POSTAGE RATES (AIR MAIL)"
+   },
+   "text": {
+    "en": "The rates for parcels sent by air to the countries specified in the first column of the Schedule shall be such as are set opposite to the names of such countries in the second and third columns of the Schedule respectively."
+   }
+  },
+  {
+   "id": "BN-CAP-52-R-1-2018-POSTAL-PARCEL-AIRMAIL-RATES-RULES-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Parcels exceeding twenty two pounds in weight may not be sent by air mail parcel post. (rule 2) For every additional ½ lb $2.00 0.90 ¢ $2.00 0.90 ¢"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 1 2018 ED POSTAL PARCEL AIRMAIL RATES RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

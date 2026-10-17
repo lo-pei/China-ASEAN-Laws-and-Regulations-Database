@@ -1,7 +1,7 @@
 {
  "id": "PH-H4278",
  "title": {
-  "zh": null,
+  "zh": "规定初审法院法官及上诉法院首席法官与大法官薪金并为其他目的法案",
   "en": "An Act Fixing the Salary of Judges of the Courts of First Instance and of the Presiding Justice and Justices of the Court of Appeals, and for Other Purposes",
   "orig": "An Act Fixing the Salary of Judges of the Courts of First Instance and of the Presiding Justice and Justices of the Court of Appeals, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Fixing the Salary of Judges of the Courts of First Instance and of the Presiding Justice and Justices of the Court of Appeals, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

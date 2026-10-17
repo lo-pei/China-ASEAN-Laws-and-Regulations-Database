@@ -1,7 +1,7 @@
 {
  "id": "PH-H7005",
  "title": {
-  "zh": null,
+  "zh": "1988年综合土地改革法",
   "en": "The Carp Law of 1988",
   "orig": "An Act Strengthening Further the Comprehensive Agrarian Reform Program (CARP), By Providing Augmentation Fund Therefor, Amending for the Purpose Section 63 of Republic Act No. 6657, otherwise known as \"The Carp Law of 1988\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect within fifteen (15) days following the completion of its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Carp Law of 1988",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

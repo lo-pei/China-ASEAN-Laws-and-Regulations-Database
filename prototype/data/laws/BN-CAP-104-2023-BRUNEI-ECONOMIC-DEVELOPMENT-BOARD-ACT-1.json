@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-104-2023-BRUNEI-ECONOMIC-DEVELOPMENT-BOARD-ACT-1",
  "title": {
-  "zh": null,
+  "zh": "文莱经济发展局法(1)",
   "en": "BRUNEI ECONOMIC DEVELOPMENT BOARD ACT(1)",
   "orig": null
  },
@@ -206,5 +206,13 @@
     "en": "The Board may, with the approval of His Majesty the Sultan and Yang Di-Pertuan in Council make such rules as may be considered necessary or desirable for the proper conduct of the business of the Board including, without prejudice to the generality of the foregoing, rules with regard to any of the following matters —\n\n(a) the convening of meetings of the Board and the procedure to be followed thereat;\n\n(b) the appointment or establishment of committees of the members of the Board, and the co-opting of persons other than members of the Board to such committees;\n\n(c) the provisions of a common seal and the custody and use\n\n(d) the manner in which documents, cheques and instruments of any description shall be signed or executed on behalf of the Board;\n\n(e) the manner and terms of issue and redemption of bonds and debentures by the Board; and\n\n(f) generally for the exercise of the Board’s powers under the provisions of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI ECONOMIC DEVELOPMENT BOARD ACT(1)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-259-2023-HOUSING-DEVELOPERS-CONTROL-AND-LICENSING-ACT",
  "title": {
-  "zh": null,
+  "zh": "房屋开发商管制与发照法",
   "en": "HOUSING DEVELOPERS CONTROL AND LICENSING ACT",
   "orig": null
  },
@@ -434,5 +434,13 @@
     "en": "Any the commencement of this Act shall be exempted from the provisions of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "HOUSING DEVELOPERS CONTROL AND LICENSING ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

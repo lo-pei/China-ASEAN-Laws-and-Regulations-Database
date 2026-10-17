@@ -1,7 +1,7 @@
 {
  "id": "SG-H2023",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 11 号）命令 2017",
   "en": "Income Tax (Exemption of Foreign Income) (No. 11) Order 2017",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividends received in Singapore by Wan Hai International Pte. Ltd. (a company incorporated in Singapore) during the period starting on 1 June 2016 and ending on 31 May 2021 from Wan Hai Lines (United Arab Emirates) LLC (a company incorporated in the United Arab Emirates) and paid out of profits from the business of ship agency are exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the following conditions:\n(a)Wan Hai International Pte. Ltd. is an approved company for the purposes of section 43ZF of the Act on the date that it receives the dividends mentioned in sub‑paragraph (1);\n(b)Wan Hai International Pte. Ltd. is able to track the source of the dividends mentioned in sub‑paragraph (1).\n(3) In this paragraph —\n“approved company” and “related company” have the same meanings as in section 43ZF(8) of the Act;\n“ship agency” means the activities performed by Wan Hai Lines (United Arab Emirates) LLC on behalf of any related company of Wan Hai International Pte. Ltd. in relation to the vessels, masters and crews, cargoes and customers of such related company."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 11) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

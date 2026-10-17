@@ -1,7 +1,7 @@
 {
  "id": "PH-H9186",
  "title": {
-  "zh": null,
+  "zh": "将Apayao 省 Calanasan 市镇 Sta. Filomena 描笼涯的 Pio Dalim 纪念工艺学校附属校分离，改设为独立的同名工艺学校，并为此拨款",
   "en": "An Act Separating the Pio Dalim Memorial School of Arts and Trades – Sta. Filomena Annex in Barangay Sta. Filomena, Municipality of Calanasan, Province of Apayao From the Pio Dalim Memorial School of Arts and Trades, Converting It Into An Independent National Arts and Trades High School to Be Known as Sta. Filomena School of Arts and Trades and Appropriating Funds Therefor",
   "orig": "An Act Separating the Pio Dalim Memorial School of Arts and Trades – Sta. Filomena Annex in Barangay Sta. Filomena, Municipality of Calanasan, Province of Apayao From the Pio Dalim Memorial School of Arts and Trades, Converting It Into An Independent National Arts and Trades High School to Be Known as Sta. Filomena School of Arts and Trades and Appropriating Funds Therefor"
  },
@@ -92,5 +92,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Pio Dalim Memorial School of Arts and Trades – Sta. Filomena Annex in Barangay Sta. Filomena, Municipality of Calanasan, Province of Apayao From the Pio Dalim Memorial School of Arts and Trades, Converting It Into An Independent National Arts and Trades High School to Be Known as Sta. Filomena School of Arts and Trades and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

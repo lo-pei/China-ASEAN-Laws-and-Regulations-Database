@@ -1,7 +1,7 @@
 {
  "id": "PH-H3634",
  "title": {
-  "zh": null,
+  "zh": "通过修订菲律宾关税与海关法典使卡坦端内斯省Virac、Batalay与Supang成为入境口岸，并授权为此拨款的法案",
   "en": "An Act Making Virac, Batalay and Supang in the Province of Catanduanes, Ports of Entry by Amending the Tariff and Customs Code of the Philippines, and Authorizing the Appropriation of Funds for the Purpose",
   "orig": "An Act Making Virac, Batalay and Supang in the Province of Catanduanes, Ports of Entry by Amending the Tariff and Customs Code of the Philippines, and Authorizing the Appropriation of Funds for the Purpose"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making Virac, Batalay and Supang in the Province of Catanduanes, Ports of Entry by Amending the Tariff and Customs Code of the Philippines, and Authorizing the Appropriation of Funds for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

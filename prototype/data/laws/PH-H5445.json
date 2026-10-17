@@ -1,7 +1,7 @@
 {
  "id": "PH-H5445",
  "title": {
-  "zh": null,
+  "zh": "宣布以邮购方式为菲律宾妇女与外国人配对结婚及类似做法（包括为此宣传、出版、印制或分发小册子、传单及其他宣传品）为非法并规定处罚的法案",
   "en": "An Act to Declare Unlawful the Practice of Matching Filipino Women for Marriage to Foreign Nationals on a Mail Order Basis and other Similar Practices, Including the Advertisement, Publication, Printing or Distribution of Brochures, Fliers and other Propaganda Materials in Furtherance Thereof and Providing Penalty Therefore",
   "orig": "An Act to Declare Unlawful the Practice of Matching Filipino Women for Marriage to Foreign Nationals on a Mail Order Basis and other Similar Practices, Including the Advertisement, Publication, Printing or Distribution of Brochures, Fliers and other Propaganda Materials in Furtherance Thereof and Providing Penalty Therefore"
  },
@@ -111,5 +111,13 @@
     "en": "This Act shall take effect upon its publication for two (2) consecutive weeks in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Declare Unlawful the Practice of Matching Filipino Women for Marriage to Foreign Nationals on a Mail Order Basis and other Similar Practices, Including the Advertisement, Publication, Printing or Distribution of Brochures, Fliers and other Propaganda Materials in Furtherance Thereof and Providing Penalty Therefore",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

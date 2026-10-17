@@ -1,7 +1,7 @@
 {
  "id": "PH-H3624",
  "title": {
-  "zh": null,
+  "zh": "规定新设或此后依法可能设立的地区工程师与分区督学职位的薪金，为此修订第3719号共和国法第5条的法案",
   "en": "An Act Governing the Salaries for the Positions of District Engineers and Division Superintendents Newly Created or Which May Hereafter be Created by Law, Amending for the Purpose Section Five of Republic Act Numbered Thirty-Seven Hundred and Nineteen",
   "orig": "An Act Governing the Salaries for the Positions of District Engineers and Division Superintendents Newly Created or Which May Hereafter be Created by Law, Amending for the Purpose Section Five of Republic Act Numbered Thirty-Seven Hundred and Nineteen"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Governing the Salaries for the Positions of District Engineers and Division Superintendents Newly Created or Which May Hereafter be Created by Law, Amending for the Purpose Section Five of Republic Act Numbered Thirty-Seven Hundred and Nineteen",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

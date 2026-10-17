@@ -1,7 +1,7 @@
 {
  "id": "PH-H102",
  "title": {
-  "zh": null,
+  "zh": "1909年菲律宾关税法",
   "en": "The Philippine Tariff Law of 1909,",
   "orig": "An Act to Continue in Force and Effect the Act of the Congress of the United States, Approved on August 5, 1909, Entitled \"An Act to Raise Revenue for the Philippine Islands, and for Other Purposes,\" Otherwise Known as \"The Philippine Tariff Law of 1909,\" as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect on July 4, 1946.\nApproved: July 19, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Philippine Tariff Law of 1909,",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

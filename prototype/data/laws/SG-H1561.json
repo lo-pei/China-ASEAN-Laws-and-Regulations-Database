@@ -1,7 +1,7 @@
 {
  "id": "SG-H1561",
  "title": {
-  "zh": null,
+  "zh": "金融控股公司条例 2022",
   "en": "Financial Holding Companies Regulations 2022",
   "orig": null
  },
@@ -294,5 +294,11 @@
     "en": "16.—(1) Where a qualified major stake company of a DFHC would, but for this paragraph, be guilty of an offence under regulation 15(1) because of its shareholding in the DFHC immediately before the designation date of that DFHC, the qualified major stake company is not liable under that regulation within 2 years after that designation date only if it does not do any act that causes an increase in such shareholding.\n(2) Where a DFHC would, but for this paragraph, be guilty of an offence under regulation 15(1) by virtue of its qualified major stake company’s shareholding in itself before the designation date, the DFHC is not liable under that regulation within 2 years after that designation date only if it does not cause or permit its qualified major stake company to do any act that causes an increase in such shareholding."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Financial Holding Companies Regulations 2022",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

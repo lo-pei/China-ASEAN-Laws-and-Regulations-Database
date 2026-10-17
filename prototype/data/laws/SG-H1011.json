@@ -1,7 +1,7 @@
 {
  "id": "SG-H1011",
  "title": {
-  "zh": null,
+  "zh": "货币法——硬币面额与特征",
   "en": "Currency Act — Denomination and Characteristics of Coins",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE 2005 SINGAPORE IDENTITY PLAN (URBAN VILLAGES) COINS TO BE ISSUED ON 27TH DECEMBER 2005\nDenomination\nMetal\nStandard Weight\nStandard\nDiameter\nStandard\nThickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n1 Dollar\n999 Fine Silver\n17.30 g + 0.20 g\n33.00 + mm 0.15 mm\n2.45 mm + 0.30 mm\nRound\nMilled\nThe Singapore Arms in the centre with the year-date “2005” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’clock of the coin.\nUrban Villages refer to places in Anak Bukit, Coronation, Jalan Leban and Casuarina Road, Springleaf and Thomson Village. Located along Bukit Timah Road and Thomson Road, 2 of the oldest roads from the city centre, these activity nodes have evolved into local village centres. Their close location to the Central Water Catchment, coupled with their low-rise, small-scale, “village-like” qualities give them a distinct character.\nAnak Bukit\nAlso known as the 7th milestone of Bukit Timah Road, Anak Bukit area today has a variety of eating houses and retail shops. Depicted on the coin is a diverse stretch of eateries with their distinctive outdoor forecourts and the Bukit Timah Hill in the background with the 2 prominent radio towers.\nCoronation\nIn recent years, Coronation has added another dimension to its charming character with the arrival of numerous food and beverages outlets serving fine food in quietly-chic environments. Depicted on the coin is Cluny Court, a row of 2-storey shophouses that include wine stores, specialist delis and fanciful food and beverages outlets catering to the up-market lifestyle.\nJalan Leban and Casuarina Road\nLocated just next to the Central Water Catchment, the Jalan Leban and Casuarina area is set in quiet and green surroundings. The coin features the shophouses at Jalan Leban that were built more than 40 years ago as a local shopping node. Adding a touch of distinctiveness to this area is the one-storey red-roofed taxi service station.\nSpringleaf\nSpringleaf is an attractive natural wooded area tucked away in lush green settings. The former Mandai Post Office at Mandai Road/Upper Thomson Road and the wooden bridge along Nee Soon Road featured on the coin are distinctive landmarks that give the Springleaf area its special identity.\nThomson Village\nThomson Village consists of a stretch of 2-storey shophouses on both sides of Upper Thomson Road, near Sin Ming Road junction. Depicted on the coin is this row of shophouses that were built in the 1960s. Today, it is a vibrant area, thriving with interesting mix of shops, eating places, hair salons, pet shops and clinics.\nThe denomination of the coin in figures is to the left of the main design on all the coins.\n1 Dollar\n75% Copper\n25% Nickel\n18.00 g 0.30 g\n33.00 mm 0.15 mm\n2.80 mm 0.30 mm\nRound\nMilled\nThe Singapore Arms in the centre with the year-date “2005” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin.\n(a) Reverse Design of the $1 Silver Proof Coin (Anak Bukit).\n(b) Reverse Design of the $1 Silver Proof Coin (Coronation).\n(c) Reverse Design of the $1 Silver Proof Coin (Jalan Leban and Casuarina Road).\n(d) Reverse Design of the $1 Silver Proof Coin (Springleaf).\n(e) Reverse Design of the $1 Silver Proof Coin (Thomson Village).\n(f) Reverse Design of the $1 Cupro-Nickel Proof-Like Coin (Anak Bukit).\n(g) Reverse Design of the $1 Cupro-Nickel Proof-Like Coin (Coronation).\n(h) Reverse Design of the $1 Cupro-Nickel Proof-Like Coin (Jalan Leban and Casuarina Road).\n(i) Reverse Design of the $1 Cupro-Nickel Proof-Like Coin (Springleaf).\n(j) Reverse Design of the $1 Cupro-Nickel Proof-Like Coin (Thomson Village).\n(k) Common Obverse Design for $1 Silver Proof Coins (Anak Bukit, Coronation, Jalan Leban and Casuarina Road, Springleaf and Thomson Village).\n(l) Common Obverse Design for $1 Cupro-Nickel Proof-Like Coins (Anak Bukit, Coronation, Jalan Leban and Casuarina Road, Springleaf and Thomson Village)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency Act — Denomination and Characteristics of Coins",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1747",
  "title": {
-  "zh": null,
+  "zh": "租购法 1969",
   "en": "Hire-Purchase Act 1969",
   "orig": null
  },
@@ -996,5 +996,13 @@
     "en": "FIFTH SCHEDULE\nSections 1(4), 13(2) and 15(3)\nNotice to hirers after repossession of goods\nGOODS5: ____________________________________________________\n5 Insert description of goods.\n1. Now that the goods you hired have been repossessed, you will be entitled to get them back —\n(a)\nif, within 7 business days, you require the owner, by notice in writing signed by you or your agent, to redeliver the goods to you and if, within 7 business days after giving the notice, you reinstate the agreement by paying the arrears of instalments and interest due on overdue instalments and remedy the following breaches of the agreement (or pay the owner’s expenses in remedying them).\nThe owner’s estimate of the amount you must pay to reinstate the agreement is —\nArrears of instalments\n$..........\nInterest due on overdue instalments\n$..........\nCost of storage, repair or maintenance\n$..........\nCost of repossession\n$..........\nCost of redelivery\n$..........\nTotal\n$\nor\n(b)\nif, within 7 business days, you give notice to your intention to finalise the agreement and pay the balance due under the agreement and cost of the repossession.\nThe owner’s estimate of the amount required to finalise the agreement is —\nTotal amount payable under the agreement\n$..........\nLess: deposit and instalments paid (if any)\n$..........\nBalance due under agreement\n$..........\nAdd: cost of repossession\n$..........\nAdd: cost of storage, repair or maintenance\n$..........\nTotal\n$\n2. If you do not reinstate or finalise the agreement, you will be liable for the owner’s loss unless the value of the goods repossessed is sufficient to cover your liability. If the value of the goods is more than sufficient to cover your liability, you will be entitled to a refund.\nThe owner’s estimate of the value of the goods repossessed is\n$..........\n6On the basis of that estimate you are entitled to a refund of\n6 Delete whichever is inapplicable.\n$..........\nYou are liable to pay the owner\n$..........\nNote.—You may give a written notice to the owner requiring the owner to sell the goods to any cash buyer you can introduce who is willing to pay the owner’s estimate of the value, i.e.,7\n7 Insert owner’s estimate of value.\nDo Not Delay\n3. Action to enforce your rights should be taken at once. You will lose your rights 7 business days after the service or posting of this notice if you do not take action.\nNote.—Where this notice is sent to a guarantor, it shall be endorsed as follows:\n4. This notice is sent to you as guarantor of _____________.\n5. As guarantor you have certain rights under the Hire‑Purchase Act 1969 and you are advised to seek advice at once."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Hire-Purchase Act 1969",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-13-2001-BROADCASTING-CLASS-LICENCE-NOTIFICATION-2001",
  "title": {
-  "zh": null,
+  "zh": "广播类别执照公告 2001",
   "en": "BROADCASTING CLASS LICENCE NOTIFICATION 2001",
   "orig": null
  },
@@ -215,5 +215,13 @@
     "en": "Nothing in this Schedule shall exempt the licensee from complying with the requirements of any other written law relating to the provision of the licensee's service. Made this 9th. day of Zulkaedah, 1421 Hijriah corresponding to the 3rd. day of February, 2001. PEHIN ORANG KAYA LAlLA SETIA BAKTI DIRAJA DATO LAlLA UTAMA HAJI AWANG ISA BIN PEHIN DATU PERDANA MANTER! DATO LAlLA UTAMA HAJI IBRAHIM Minister responsible for broadcasting matters, Prime Minister's Office, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BROADCASTING CLASS LICENCE NOTIFICATION 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1300",
  "title": {
-  "zh": null,
+  "zh": "能源节约（新企业豁免）命令 2017",
   "en": "Energy Conservation (Exemption for New Ventures) Order 2017",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 26A of the Act does not apply in relation to a new venture of a person unless the new venture is one for which the person first applies on or after 1 October 2018 to the competent authority for planning permission under the Planning Act (Cap. 232)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Energy Conservation (Exemption for New Ventures) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

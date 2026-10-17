@@ -1,7 +1,7 @@
 {
  "id": "PH-H8251",
  "title": {
-  "zh": null,
+  "zh": "将塔克洛班市东米沙鄢地区医疗中心床位由两百五十（250）张增至五百（500）张、提升其服务设施与专业医疗护理、授权增加医务人员并为其拨款的法案",
   "en": "An Act Increasing the Bed Capacity of Eastern Visayas Regional Medical Center in Tacloban City From Two Hundred Fifty (250) to Five Hundred (500), Upgrading its Service and Facilities and Professional Health Care, Authorizing the Increase of its Medical Personnel and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of Eastern Visayas Regional Medical Center in Tacloban City From Two Hundred Fifty (250) to Five Hundred (500), Upgrading its Service and Facilities and Professional Health Care, Authorizing the Increase of its Medical Personnel and Appropriating Funds Therefor"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of Eastern Visayas Regional Medical Center in Tacloban City From Two Hundred Fifty (250) to Five Hundred (500), Upgrading its Service and Facilities and Professional Health Care, Authorizing the Increase of its Medical Personnel and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

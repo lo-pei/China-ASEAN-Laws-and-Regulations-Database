@@ -1,7 +1,7 @@
 {
  "id": "SG-H412",
  "title": {
-  "zh": null,
+  "zh": "商业信托法 2004",
   "en": "Business Trusts Act 2004",
   "orig": null
  },
@@ -2122,5 +2122,13 @@
     "en": "THE SCHEDULE\nSections 2 and 113\nTypes of trusts that are not regarded as\nbusiness trusts for purposes of Act\n1. A trust operated by a person otherwise than by way of business.\n2. A trust under which each of the unitholders carries on a business other than investment business and enters into the trust solely incidental to that other business.\n3. A trust under which each of the unitholders is a related corporation of the trustee, except for a trust that has received approval-in-principle, or eligibility-to-list, for its admission to the official list of an approved exchange and such approval-in-principle or eligibility-to-list has not expired or been revoked.\n[Act 30 of 2022 wef 12/03/2024]\n4. A trust made by or on behalf of a corporation solely for the benefit of persons each of whom is either a bona fide director, a former director, a consultant, an adviser, an employee or a former employee of that corporation or a related corporation of that corporation, or a spouse, a widow, a widower or a child, an adopted child or a stepchild below the age of 18 of such director, former director, employee or former employee.\n5. A trust made by or on behalf of 2 or more corporations solely for the benefit of persons each of whom is either a bona fide director, a former director, a consultant, an adviser, an employee or a former employee of any of those corporations or a related corporation of any of those corporations, or a spouse, a widow, a widower or a child, an adopted child or a stepchild below the age of 18 of such director, former director, employee or former employee.\n6. A franchise as defined in section 2(1) of the Securities and Futures Act 2001.\n7. A trust under which money is received by an advocate and solicitor from his or her client, whether as a stakeholder or otherwise, acting in his or her professional capacity in the ordinary course of his or her practice, or under which money is received by a statutory body as a stakeholder in the carrying out of its statutory functions.\n8. A trust made by any co-operative society registered under the Co‑operative Societies Act 1979 in accordance with the objects of the co‑operative society solely for the benefit of its members.\n9. A trust made for the purposes of any chit fund permitted to operate under the Chit Funds Act 1971.\n10. A trust arising out of a life policy within the meaning of the Insurance Act 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Business Trusts Act 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

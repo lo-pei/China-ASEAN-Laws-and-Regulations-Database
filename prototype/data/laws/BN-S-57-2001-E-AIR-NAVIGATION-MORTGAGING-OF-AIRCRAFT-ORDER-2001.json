@@ -1,7 +1,7 @@
 {
  "id": "BN-S-57-2001-E-AIR-NAVIGATION-MORTGAGING-OF-AIRCRAFT-ORDER-2001",
  "title": {
-  "zh": null,
+  "zh": "航空导航航空器抵押命令 2001",
   "en": "AIR NAVIGATION MORTGAGING OF AIRCRAFT ORDER 2001",
   "orig": null
  },
@@ -216,5 +216,13 @@
     "en": "(1) who, in furnishing any information for the purpose of this Order, makes any statement which he knows to be false in a material particular, or recklessly makes any statement which is false in a material particular, is guilty of an offence and liable on conviction to imprisonment for a term not exceeding 6 months, a fme not exceeding $10,000 or both.\n\n(2) an offence under this Order committed by a body corporate is been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of that body, or of a person purporting to act in any such capacity, he, as well as the body corporate, is also guilty of the offence and liable to be proceeded against and punished accordingly. SCHEDULE 4(2)\n\nFOR ENTRY OF AIRCRAFT MORTGAGE I hereby apply for the mortgage, particu.lars of which are given below, to be entered in the Register of Aircraft Mortgages."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "AIR NAVIGATION MORTGAGING OF AIRCRAFT ORDER 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

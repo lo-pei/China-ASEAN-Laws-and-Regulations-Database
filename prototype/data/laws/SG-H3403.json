@@ -1,7 +1,7 @@
 {
  "id": "SG-H3403",
  "title": {
-  "zh": null,
+  "zh": "口述历史录音与文字记录条例",
   "en": "Oral History Sound Recordings and Transcripts Regulations",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "THE SCHEDULE\nRegulation 5(2)\nFirst column\nSecond column\n1. Negative microfilm\n..\n30 cents per exposure for production of photoprint only\n2. Duplicate diazo microfilm —\n(a) not exceeding 15 metres\n..\n$6.00 per metre or part thereof\n(b) exceeding 15 metres\n..\n$100.00 per roll of not more than 30 metres\nDiazo microfiche\n..\n$5.00 per microfiche\n4. Photographic print (photographic paper) from microfilm negative of a size —\n(a) not exceeding A4 (21cm x 29.7 cm)\n..\n(i) $8 per copy\n(ii) $6 per copy for students\n(b) not exceeding A3 (29.7 cm x 42 cm)\n..\n(i) $9.50 per copy\n(ii) $7.50 per copy for students\n(c) not exceeding A2 (42 cm x 59.4 cm)\n..\n(i) $16 per copy\n(ii) $13 per copy for students\n(d) not exceeding A1 (59.4 cm x 84.1 cm)\n..\n(i) $25 per copy\n(ii) $20 per copy for students\n5. Photographic print (plain paper) from microfilm of a size —\n(a) not exceeding A4 (21 cm x 29.7 cm )\n..\n30 cents per copy\n(b) not exceeding A3 (29.7 cm x 42 cm)\n..\n40 cents per copy\n(c) not exceeding A2 (42 cm x 59.4 cm)\n..\n$4 per copy\n6. Photocopy of any document of a size —\n(a) not exceeding B4 (25 cm x 35.3 cm)\n..\n30 cents per page\n(b) not exceeding A3 (29.7 cm x 42 cm)\n..\n40 cents per page\n7. C60 cassette tape\n..\n$6.00 per cassette tape.\n8. Processing 105 mm x 30.5 m roll film\n..\n$35.00 per roll\n9.—(1) Microfilming of loose single-sided documents not exceeding A4 size in good physical condition (less that 5 years old) on 16 mm roll film\n..\n$50.00 per roll\n(2) Preparation prior to microfilming\n..\n$25.00\n10.—(1) Microfilming of loose single or double-sided documents not exceeding A3 size in fair physical condition (5 to 10 years old) on 16 mm roll film\n..\n$55.00 per roll\n(2) Preparation prior to microfilming\n..\n$30.00 per roll\n11.—(1) Microfilming of loose single or double-sided documents not exceeding A3 size in poor physical condition (more than 10 years old) on 16 mm roll film\n..\n$70.00 per roll\n(2) Preparation prior to microfilming\n..\n$35.00\n12. Microfilming of single-sided 80 column or 132 column computer print-out (continuous run) in good physical condition (less than 5 years old) on 16 mm roll film\n..\n$45.00 per roll\n13—(1) Microfilming of loose or bound documents (less than 10 cm thickness) not exceeding A1 size in fair physical condition (5 to 10 years old) on 35 mm roll film\n..\n$105.00 per roll\n(2) Preparation prior to microfilming\n..\n$30.00\n14. (1) Microfilming of plans or maps not exceeding A0 size in fair physical condition (5 to 10 years old) on 35 mm roll film\n..\n$110.00 per roll\n(2) Preparation prior to microfilming\n..\n$55.00\n15.—(1) Microfilming of loose documents not exceeding A3 size in good phydical condition (less than 5 years old) on 105 mm roll fiche\n..\n$400.00 per roll\n(2) Preparation prior to microfilming\n..\n$100.00\n16.—(1) Microfilming of loose or bound documents (less than 2 cm thickness) not exceeding A3 size in fair physical condition (5 to 10 years old) on 105 mm roll fiche\n..\n$370.00 per roll\n(2) Preparation prior to microfilming\n..\n$85.00\n17. Duplicate records belonging to departments/statutory boards —\n(a) 16 mm diazo microfilm\n..\n$10.00 per roll\n(b) 35 mm diazo microfilm\n..\n$15.00 per roll\n(c) 105 mm cut fiche\n..\n$1.50 per fiche\n18. Deacidification of A4 size documents\n..\n$1.00 per sheet\n19. Restoration of A4 size documents —\n(a) without leaf-casting\n..\n$8.00 per sheet\n(b) with leaf-casting\n..\n$15.00 per sheet\n20. Removal of stain of A4 size documents\n..\n$7.00 per sheet\n21. Encapsulation of A4 size documents\n..\n$7.00 per sheet\n22. Restoration of A4 size maps —\n(a) without leaf-casting\n..\n$30.00 per sheet\n(b) with leaf-casting\n..\n$50.00 per sheet\n23. Fumigation of documents\n..\n$25.00 per cycle\n24. Binding of A4 size books —\n(a) manually bound with leather\n..\n$115.00 per book\n(b) manually bound with cloth\n..\n$70.00 per book\n(c) machine bound\n..\n$8.00 per book\n[S 413/93 wef 29/10/1993]\n[S 6/93 wef 15/01/1993]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Oral History Sound Recordings and Transcripts Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

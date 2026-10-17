@@ -1,7 +1,7 @@
 {
  "id": "PH-H6841",
  "title": {
-  "zh": null,
+  "zh": "放宽菲律宾投资公司业，为此修订经修正的第129号总统令（即《投资公司法》）若干条款的法案",
   "en": "An Act Liberalizing the Philippine Investment House Industry, Amending Certain Sections of Presidential Decree No. 129, as amended, otherwise known as the Investment Houses Law",
   "orig": "An Act Liberalizing the Philippine Investment House Industry, Amending Certain Sections of Presidential Decree No. 129, as amended, otherwise known as the Investment Houses Law"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect fifteen (15) days from its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Liberalizing the Philippine Investment House Industry, Amending Certain Sections of Presidential Decree No. 129, as amended, otherwise known as the Investment Houses Law",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

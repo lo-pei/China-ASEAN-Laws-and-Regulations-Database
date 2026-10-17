@@ -1,7 +1,7 @@
 {
  "id": "SG-H446",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（赌场布局）条例 2009",
   "en": "Casino Control (Casino Layout) Regulations 2009",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9.—(1) A licensed special employee shall not —\n(a)do anything to cause the layout of the casino premises to cease to satisfy the requirements in regulation 3, 4 or 5;\n(b)make any change to the layout of the casino premises, whether by change of use of an area or otherwise, without the authorisation of the casino operator; or\n(c)make, authorise or permit any change to the layout of the casino premises without first notifying the Authority in writing at least 7 days before the date of making the change.\n(2) Any licensed special employee who contravenes paragraph (1)(a), (b) or (c) shall be liable to disciplinary action under section 93 of the Act.\n[S 334/2013 wef 31/05/2013]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Casino Layout) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

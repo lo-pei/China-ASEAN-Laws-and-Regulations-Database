@@ -1,7 +1,7 @@
 {
  "id": "SG-H3555",
  "title": {
-  "zh": null,
+  "zh": "规划（总体规划）规则",
   "en": "Planning (Master Plan) Rules",
   "orig": null
  },
@@ -326,5 +326,13 @@
     "en": "18.—(1) Any proposal for an amendment to the Master Plan which has been submitted to the Minister under the revoked Planning (Master Plan) Rules (R 1, 1993 Ed.) but which has not yet been approved or disapproved by the Minister under rule 6 of those Rules on 1st June 1999 shall be deemed to have been submitted and shall be dealt with under the corresponding provisions of these Rules.\n(2) Any notice by advertisement which was published and any act or thing done or given under or pursuant to the revoked Planning (Master Plan) Rules and which remained valid immediately before 1st June 1999 shall be deemed to have been published, done or given under or pursuant to the corresponding provision of these Rules and shall continue to have effect accordingly.\n[G.N. No. S 245/99]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Planning (Master Plan) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

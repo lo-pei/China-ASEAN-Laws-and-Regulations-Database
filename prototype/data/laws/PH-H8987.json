@@ -1,7 +1,7 @@
 {
  "id": "PH-H8987",
  "title": {
-  "zh": null,
+  "zh": "规定全国所有官方来源采用菲律宾标准时间、为安装与维护重点公共场所时间同步设备提供资金并宣布每年第一周为国家时间意识周的法案",
   "en": "An Act to Set the Philippine Standard Time (PST) in All Official Sources Throughout the Country, to Provide Funds for the Installation, Operation and Maintenance of Synchronized Time Devices to Be Displayed in Key Public Places and to Declare the First Week of Every Year as National Time Consciousness Week",
   "orig": "An Act to Set the Philippine Standard Time (PST) in All Official Sources Throughout the Country, to Provide Funds for the Installation, Operation and Maintenance of Synchronized Time Devices to Be Displayed in Key Public Places and to Declare the First Week of Every Year as National Time Consciousness Week"
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Set the Philippine Standard Time (PST) in All Official Sources Throughout the Country, to Provide Funds for the Installation, Operation and Maintenance of Synchronized Time Devices to Be Displayed in Key Public Places and to Declare the First Week of Every Year as National Time Consciousness Week",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

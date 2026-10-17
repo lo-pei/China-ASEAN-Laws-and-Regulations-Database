@@ -1,7 +1,7 @@
 {
  "id": "PH-H5597",
  "title": {
-  "zh": null,
+  "zh": "授予地方水务区税收豁免特权的法案",
   "en": "An Act Granting Tax Exemption Privileges to Local Water Districts",
   "orig": "An Act Granting Tax Exemption Privileges to Local Water Districts"
  },
@@ -121,5 +121,13 @@
     "en": "Effectivity. – This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Tax Exemption Privileges to Local Water Districts",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

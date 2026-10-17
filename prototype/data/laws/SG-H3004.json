@@ -1,7 +1,7 @@
 {
  "id": "SG-H3004",
  "title": {
-  "zh": null,
+  "zh": "法律职业（职业行为）规则 2015",
   "en": "Legal Profession (Professional Conduct) Rules 2015",
   "orig": null
  },
@@ -990,5 +990,13 @@
     "en": "FOURTH SCHEDULE\nRule 34(9)\nLaw-related services\n1.Any intellectual property service, including the registration (where applicable), and the provision of consultancy and advice on the management and enforcement, of copyright, trade marks, patents, designs, plant varieties and any other category of intellectual property referred to in the Agreement on Trade-Related Aspects of Intellectual Property Rights\n2.Any tax service, including tax consultancy and advice\n3.Any trust business or trust business service as defined in section 2 of the Trust Companies Act (Cap. 336)\n4.Any company secretarial service, including the establishment and incorporation of a company\n5.Any service as a continuing sponsor company for an entity any shares of which are listed for quotation on the Singapore Exchange Catalist\n6.Any administrative, management, property or other service provided exclusively to a law practice or to a business entity referred to in rule 34(3), (4) or (5)\n7.Any forensic investigation, document management or discovery service, or any other service relating to litigation support\n8.Any voluntary liquidation service"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Professional Conduct) Rules 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

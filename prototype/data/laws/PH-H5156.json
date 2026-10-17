@@ -1,7 +1,7 @@
 {
  "id": "PH-H5156",
  "title": {
-  "zh": null,
+  "zh": "授权 Culion 麻风病聚居区的合格选民在地方选举中投票选举巴拉望省民选省级官员的法案",
   "en": "An Act Authorizing the Qualified Electors of the Culion Leper Colony to Vote in Local Elections for the Elective Provincial Officials of the Province of Palawan",
   "orig": "An Act Authorizing the Qualified Electors of the Culion Leper Colony to Vote in Local Elections for the Elective Provincial Officials of the Province of Palawan"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Qualified Electors of the Culion Leper Colony to Vote in Local Elections for the Elective Provincial Officials of the Province of Palawan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

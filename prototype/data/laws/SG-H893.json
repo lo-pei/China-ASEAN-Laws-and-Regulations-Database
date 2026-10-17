@@ -1,7 +1,7 @@
 {
  "id": "SG-H893",
  "title": {
-  "zh": null,
+  "zh": "COVID-19（临时措施）（第 8B 部分救济）条例 2020",
   "en": "COVID-19 (Temporary Measures) (Part 8B Relief) Regulations 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purpose of section 39D(1)(c) of the Act, the prescribed period for the description of contracts to which the construction contract belongs is the period prescribed under section 3(1) of the Act (as may be extended or shortened under section 3(2)(b) of the Act) for that description of contracts."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "COVID-19 (Temporary Measures) (Part 8B Relief) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

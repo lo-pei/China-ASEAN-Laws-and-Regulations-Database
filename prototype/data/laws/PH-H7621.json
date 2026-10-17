@@ -1,7 +1,7 @@
 {
  "id": "PH-H7621",
  "title": {
-  "zh": null,
+  "zh": "将马尼拉大都会达义 Western Bicutan 描笼涯的 Tenement 小学附属校分离，改设为独立的村长 Eddie T. Reyes 纪念小学，并为此拨款",
   "en": "An Act Separating the Tenement Elementary School Annex in Barangay Western Bicutan, Taguig, Metro Manila From the Tenement Elementary School in Barangay Western Bicutan, Taguig, Metro Manila and Converting It Into An Independent Elementary School to Be Known as the Kapitan Eddie T. Reyes Memorial Elementary School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Tenement Elementary School Annex in Barangay Western Bicutan, Taguig, Metro Manila From the Tenement Elementary School in Barangay Western Bicutan, Taguig, Metro Manila and Converting It Into An Independent Elementary School to Be Known as the Kapitan Eddie T. Reyes Memorial Elementary School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Tenement Elementary School Annex in Barangay Western Bicutan, Taguig, Metro Manila From the Tenement Elementary School in Barangay Western Bicutan, Taguig, Metro Manila and Converting It Into An Independent Elementary School to Be Known as the Kapitan Eddie T. Reyes Memorial Elementary School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4531",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统将位于马尼拉 Sampaloc, Lepanto 街的政府土地出售给菲律宾商学院",
   "en": "An Act Authorizing the President of the Philippines to Sell Certain Parcels of Land Owned By the Government Located At Lepanto Street, Sampaloc, Manila, to the Philippine College of Commerce",
   "orig": "An Act Authorizing the President of the Philippines to Sell Certain Parcels of Land Owned By the Government Located At Lepanto Street, Sampaloc, Manila, to the Philippine College of Commerce"
  },
@@ -91,5 +91,13 @@
     "en": "The Philippine College of Commerce is hereby authorized to mortgage the above-described property for the purpose of constructing the building or buildings to government owned or controlled corporations only.\nIn case the Philippine College of Commerce is dissolved or ceases, for any reason, to undertake its objectives, or ceases to need the land for any reason, the said land shall ipso facto revert to the national government without compensation.\nAll the foregoing conditions shall be included in the deed of transfer to be executed by the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Sell Certain Parcels of Land Owned By the Government Located At Lepanto Street, Sampaloc, Manila, to the Philippine College of Commerce",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

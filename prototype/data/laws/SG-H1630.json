@@ -1,7 +1,7 @@
 {
  "id": "SG-H1630",
  "title": {
-  "zh": null,
+  "zh": "商品与服务税（国际服务）命令 1993",
   "en": "Goods and Services Tax (International Services) Order 1993",
   "orig": null
  },
@@ -281,5 +281,13 @@
     "en": "TENTH SCHEDULE\nParagraph 11\nPrescribed services\n1. Services supplied within any free trade zone or designated area (as defined in paragraph 3 of the Third Schedule) of an airport for —\n(a)the handling of the non‑international aircraft; or\n(b)the handling or storage of goods carried in the non‑international aircraft."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Goods and Services Tax (International Services) Order 1993",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

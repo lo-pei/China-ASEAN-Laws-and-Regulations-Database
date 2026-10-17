@@ -1,7 +1,7 @@
 {
  "id": "PH-H5325",
  "title": {
-  "zh": null,
+  "zh": "将打拉省Bamban市镇的Pacalcal描笼涯的名称正式更名为De Los Remedios描笼涯并为其他目的法案",
   "en": "An Act Renaming Barangay Pacalcal in the Municipality of Bamban, Province of Tarlac, to be known as Barangay De Los Remedios, and for other purposes",
   "orig": "An Act Renaming Barangay Pacalcal in the Municipality of Bamban, Province of Tarlac, to be known as Barangay De Los Remedios, and for other purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming Barangay Pacalcal in the Municipality of Bamban, Province of Tarlac, to be known as Barangay De Los Remedios, and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

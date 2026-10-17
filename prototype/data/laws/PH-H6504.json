@@ -1,7 +1,7 @@
 {
  "id": "PH-H6504",
  "title": {
-  "zh": null,
+  "zh": "授予 Golden Broadcast Professional, Inc. 在棉兰老岛建设、维护和运营调频广播与电视广播站的特许经营权法案",
   "en": "An Act Granting the Golden Broadcast Professional, Inc., a Franchise to Construct, Maintain and Operate a Station for Fm Radio and Television Broadcasting in the Island of Mindanao",
   "orig": "An Act Granting the Golden Broadcast Professional, Inc., a Franchise to Construct, Maintain and Operate a Station for Fm Radio and Television Broadcasting in the Island of Mindanao"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Golden Broadcast Professional, Inc., a Franchise to Construct, Maintain and Operate a Station for Fm Radio and Television Broadcasting in the Island of Mindanao",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

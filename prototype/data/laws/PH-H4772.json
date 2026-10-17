@@ -1,7 +1,7 @@
 {
  "id": "PH-H4772",
  "title": {
-  "zh": null,
+  "zh": "将北三宝颜省西亚扬市镇政府所在地由帕朗伦巴村迁至西亚扬本部村的法案",
   "en": "An Act Transferring the Seat of Government of the Municipality of Siayan, Province of Zamboanga Del Norte, From Barrio Paranglumba to Barrio Siayan Proper.",
   "orig": "An Act Transferring the Seat of Government of the Municipality of Siayan, Province of Zamboanga Del Norte, From Barrio Paranglumba to Barrio Siayan Proper."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 19, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring the Seat of Government of the Municipality of Siayan, Province of Zamboanga Del Norte, From Barrio Paranglumba to Barrio Siayan Proper.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

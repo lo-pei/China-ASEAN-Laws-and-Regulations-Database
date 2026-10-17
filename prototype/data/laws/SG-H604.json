@@ -1,7 +1,7 @@
 {
  "id": "SG-H604",
  "title": {
-  "zh": null,
+  "zh": "互助基金（执照费）公告 1972",
   "en": "Chit Funds (Licence Fees) Notification 1972",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following annual fees are payable in respect of a licence issued under the Act to a chit fund company:\n(a)in the case of a head office — $3,000;\n(b)in the case of each branch thereof — $500."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Chit Funds (Licence Fees) Notification 1972",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3985",
  "title": {
-  "zh": null,
+  "zh": "修订西班牙语强制教学法律，废止经第 1881 号共和国法修正的第 709 号共和国法并为其他目的",
   "en": "An Act to Revise the Laws on Compulsory Teaching of Spanish, Repealing Republic Act Numbered Seven Hundred Nine, as Amended by Republic Act Numbered Eighteen Hundred Eighty-One, and for Other Purposes",
   "orig": "An Act to Revise the Laws on Compulsory Teaching of Spanish, Repealing Republic Act Numbered Seven Hundred Nine, as Amended by Republic Act Numbered Eighteen Hundred Eighty-One, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect at the beginning of the school year next following its approval.\nApproved: September 8, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Revise the Laws on Compulsory Teaching of Spanish, Repealing Republic Act Numbered Seven Hundred Nine, as Amended by Republic Act Numbered Eighteen Hundred Eighty-One, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

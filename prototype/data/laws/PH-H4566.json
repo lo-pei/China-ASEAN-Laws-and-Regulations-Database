@@ -1,7 +1,7 @@
 {
  "id": "PH-H4566",
  "title": {
-  "zh": null,
+  "zh": "在萨马省设立Tagapul-An市镇的法案",
   "en": "An Act Creating the Municipality of Tagapul-An in the Province of Samar",
   "orig": "An Act Creating the Municipality of Tagapul-An in the Province of Samar"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect on January first, nineteen hundred seventy if a majority of the voters ox the Municipality of Almagre vote in favor of the creation of the new municipality in a plebiscite to be held during the general elections of November, nineteen hundred sixty-nine.\nEnacted without Executive approval, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Municipality of Tagapul-An in the Province of Samar",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

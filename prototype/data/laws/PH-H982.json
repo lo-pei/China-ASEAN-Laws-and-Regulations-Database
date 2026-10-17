@@ -1,7 +1,7 @@
 {
  "id": "PH-H982",
  "title": {
-  "zh": null,
+  "zh": "规定每两年举行一次某些文官考试并为此授权拨款5万比索的法案",
   "en": "An Act to Provide for the Holding of Certain Civil Service Examinations Once Every Two Years and Authorizing the Appropriations of Fifty Thousand Pesos Therefor",
   "orig": "An Act to Provide for the Holding of Certain Civil Service Examinations Once Every Two Years and Authorizing the Appropriations of Fifty Thousand Pesos Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take upon its approval.\nApproved: June 17, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Holding of Certain Civil Service Examinations Once Every Two Years and Authorizing the Appropriations of Fifty Thousand Pesos Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

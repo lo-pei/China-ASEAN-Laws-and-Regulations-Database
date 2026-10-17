@@ -1,7 +1,7 @@
 {
  "id": "PH-H698",
  "title": {
-  "zh": null,
+  "zh": "修订第573号共和国法，以规定该法所定菲律宾远征军预备役军官与士兵的现役或服役期延长事宜的法案",
   "en": "An Act to Amend Republic Act Numbered Five Hundred Seventy-three in Order to Provide for the Extension of the Active Duty or Enlistment of Reserve Officers and Enlisted Men of the Philippine Expeditionary Force Provided for in Said Act",
   "orig": "An Act to Amend Republic Act Numbered Five Hundred Seventy-three in Order to Provide for the Extension of the Active Duty or Enlistment of Reserve Officers and Enlisted Men of the Philippine Expeditionary Force Provided for in Said Act"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, May 28, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Five Hundred Seventy-three in Order to Provide for the Extension of the Active Duty or Enlistment of Reserve Officers and Enlisted Men of the Philippine Expeditionary Force Provided for in Said Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

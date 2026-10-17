@@ -1,7 +1,7 @@
 {
  "id": "SG-H1374",
  "title": {
-  "zh": null,
+  "zh": "环境公共卫生（一般废物处置设施）条例 2017",
   "en": "Environmental Public Health (General Waste Disposal Facility) Regulations 2017",
   "orig": null
  },
@@ -282,5 +282,13 @@
     "en": "THE SCHEDULE\nRegulation 4\nFees\n1.Grant or renewal of a licence\n$400\n2.Amendment of a licence\n$138 per application\n[S 934/2024 wef 01/01/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Public Health (General Waste Disposal Facility) Regulations 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

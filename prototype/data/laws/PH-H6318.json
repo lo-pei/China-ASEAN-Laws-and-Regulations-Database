@@ -1,7 +1,7 @@
 {
  "id": "PH-H6318",
  "title": {
-  "zh": null,
+  "zh": "给予依 1990 年美国移民法取得美国国籍的二战菲律宾退伍军人永久居留身份及其他权利与特权并为其他目的法案",
   "en": "An Act Granting Permanent Resident Status, Other Rights and Privileges to Filipino Veterans of World War II Who Acquired American Citizenship Under the United States Immigration Act of 1990, and for Other Purposes",
   "orig": "An Act Granting Permanent Resident Status, Other Rights and Privileges to Filipino Veterans of World War II Who Acquired American Citizenship Under the United States Immigration Act of 1990, and for Other Purposes"
  },
@@ -161,5 +161,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation.\nApproved, December 16, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Permanent Resident Status, Other Rights and Privileges to Filipino Veterans of World War II Who Acquired American Citizenship Under the United States Immigration Act of 1990, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

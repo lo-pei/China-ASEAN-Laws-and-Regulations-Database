@@ -1,7 +1,7 @@
 {
  "id": "SG-H1041",
  "title": {
-  "zh": null,
+  "zh": "货币条例",
   "en": "Currency Regulations",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. The Authority may, either generally or in a particular event or case or class of cases, waive or reduce any fee payable under regulation 3.\n[S 5/2017 wef 09/01/2017]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

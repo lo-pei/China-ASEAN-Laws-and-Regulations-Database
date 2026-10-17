@@ -1,7 +1,7 @@
 {
  "id": "SG-H728",
  "title": {
-  "zh": null,
+  "zh": "委员会",
   "en": "Commission",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Inquiry Commissions Act\n(CHAPTER 48, 1970 ED)\nCommission\nN 31\nG.N. No. S 4132/1972\nREVISED EDITION 1990\n(25th March 1992)\n[26th December 1972]\nBy BENJAMIN HENRY SHEARES, President of the Republic of Singapore.\nWhereas it is provided by the Inquiry Commissions Act that it shall be lawful for the President, whenever he shall deem it advisable, to issue a Commission appointing one or more Commissioners to inquire, inter alia, into any matter in which an inquiry would in the opinion of the President be for the public welfare:\nAnd whereas I am of the opinion that it is in the public welfare that an inquiry should forthwith be made by Commissioners so appointed in accordance with the following terms of reference, namely, to inquire into:\n(a)the causes of the outbreak of the fire that destroyed Robinson’s Departmental Store at Raffles Place on the morning of the 21st day of November 1972 resulting in the death of a number of persons;\n(b)the adequacy of the existing fire protection measures with regard to Robinson Building, in particular —\n(i)in lifts;\n(ii)the means of egrees in the event of fire;\n(iii)the use of fire resistant materials in the building;\n(iv)the storage of inflammable goods;\n(v)staff training in the event of fire and frequency of fire drills;\n(vi)the frequency of inspection of all electrical wires and other connections; and\n(vii)generally the adequacy of fire preventive measures adopted by the management of Robinson’s Departmental Store or the owners or lessees of the building;\n(c)the structure of the building itself with particular reference to partitions, walls and floors; and\n(d)the adequacy of steps taken by the Fire Brigade in extinguishing the fire.\nNow, therefore, I, BENJAMIN HENRY SHEARES, hereby appoint the following persons, namely:\n(a)Mr. Justice F. A. Chua;\n(b)Mr. Jimmy Chen Wie Ying; and\n(c)Mr. C. A. V. Chew,\nto be Commissioners and hereby authorize the Commissioners to conduct such inquiry in the manner hereinafter directed:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

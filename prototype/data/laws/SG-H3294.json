@@ -1,7 +1,7 @@
 {
  "id": "SG-H3294",
  "title": {
-  "zh": null,
+  "zh": "南洋理工学院学生会及属会（豁免）命令",
   "en": "Nanyang Polytechnic Students’ Union and Constituent Bodies (Exemption) Order",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1.The Business Management Club.\n2.The Engineering Club.\n3.The Health and Social Science Club.\n[S 652/2020 wef 30/07/2020]\n4.The Information Technology Club.\n5.The Adventure Club.\n6.The Community Services Club.\n7.The Cultural and Arts Club.\n8.The Current Affairs and Debating Club.\n9.The Martial Arts Club.\n10.The Sports Club.\n11.The Water Sports Club."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Nanyang Polytechnic Students’ Union and Constituent Bodies (Exemption) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3190",
  "title": {
-  "zh": null,
+  "zh": "商船（非公约船舶）安全条例",
   "en": "Merchant Shipping (Non-Convention Ships) Safety Regulations",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Merchant Shipping Act\n(Chapter 179, Section 143)\nMerchant Shipping (Non-convention Ships) Safety Regulations\nRg 9\nG.N. No. S 356/1981\nREVISED EDITION 1990\n(25th March 1992)\n[23rd April 1982]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Merchant Shipping (Non-Convention Ships) Safety Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

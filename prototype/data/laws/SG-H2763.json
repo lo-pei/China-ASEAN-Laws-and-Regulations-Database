@@ -1,7 +1,7 @@
 {
  "id": "SG-H2763",
  "title": {
-  "zh": null,
+  "zh": "调查（调查委员会）规则",
   "en": "Inquiries (Commissions of Inquiry) Rules",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) An application for an award under paragraph 1(7) of the Schedule to the Act (referred to in this rule as an award) shall —\n(a)be in such form as the commission of inquiry may require; and\n(b)be submitted to the secretary of the commission of inquiry or, if there is no secretary, to the commission of inquiry not later than 2 months after the accrual of the claim or such longer period as the commission may instruct.\n(2) In assessing the sum for an award, the commission of inquiry or the person nominated by the commission of inquiry to undertake the assessment, as the case may be, shall apply the Criminal Procedure Code (Witnesses’ Allowances) Rules (Cap. 68, R 1) (referred to in this rule as the relevant Rules), with the necessary modifications, to persons attending proceedings before a commission of inquiry as the relevant Rules apply to a witness attending proceedings in a court.\n(3) For the purposes of paragraph (2) —\n(a)references in the relevant Rules to the authorising officer shall be taken as a reference to the person nominated by the commission of inquiry to undertake the assessment or, if the commission of inquiry has not made such a nomination, the commission of inquiry; and\n(b)references in the relevant Rules to an expert witness assisting the court shall be taken as a reference to an expert witness, assessor, interpreter or other person engaged to provide assistance to the commission of inquiry.\n(4) The commission of inquiry shall give to the applicant written notice of the sum assessed.\n(5) Any person who is dissatisfied with an assessment of the sum payable to him made by a person nominated by the commission of inquiry to undertake the assessment may apply for the assessment to be reviewed by the commission of inquiry, which decision shall be final.\n(6) An application for review made under paragraph (5) shall —\n(a)be in such form as the commission of inquiry may require; and\n(b)be submitted to the secretary of the commission of inquiry or, if there is no secretary, to the commission of inquiry not later than 14 days after the date of receipt of the written notice referred to in paragraph (4) or such longer period as the commission may instruct.\n(7) No award shall be given under paragraph 1(7) of the Schedule to the Act in respect of any allowance or work done for which the appointing authority has agreed to pay the person concerned any remuneration or expenses under paragraph 14 of the Schedule to the Act.\n(8) This rule shall apply subject to section 14 of the Act.\n[G.N. No. S 215/2009]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Inquiries (Commissions of Inquiry) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

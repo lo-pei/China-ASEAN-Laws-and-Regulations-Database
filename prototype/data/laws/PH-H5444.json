@@ -1,7 +1,7 @@
 {
  "id": "PH-H5444",
  "title": {
-  "zh": null,
+  "zh": "要求公共工程与公路部所有项目及其他政府基础设施项目在开工前、实施中与竣工后拍照的法案",
   "en": "An Act Requiring all Department of Public Works and Highways Projects and other Government Infrastructure Projects to be Photographed Before Commencement, During Implementation and After Completion Thereof",
   "orig": "An Act Requiring all Department of Public Works and Highways Projects and other Government Infrastructure Projects to be Photographed Before Commencement, During Implementation and After Completion Thereof"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring all Department of Public Works and Highways Projects and other Government Infrastructure Projects to be Photographed Before Commencement, During Implementation and After Completion Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

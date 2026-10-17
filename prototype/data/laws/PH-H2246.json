@@ -1,7 +1,7 @@
 {
  "id": "PH-H2246",
  "title": {
-  "zh": null,
+  "zh": "在萨马省Salcedo市镇设立国立农业中学，名称为南萨马国立农业学校，并授权为此拨款的法案",
   "en": "An Act to Establish a National Agricultural High School in the Municipality of Salcedo, Province of Samar, to be Known as the Southern Samar National Agricultural School, and to Authorize the Appropriation of Funds Therefor",
   "orig": "An Act to Establish a National Agricultural High School in the Municipality of Salcedo, Province of Samar, to be Known as the Southern Samar National Agricultural School, and to Authorize the Appropriation of Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish a National Agricultural High School in the Municipality of Salcedo, Province of Samar, to be Known as the Southern Samar National Agricultural School, and to Authorize the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

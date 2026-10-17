@@ -1,7 +1,7 @@
 {
  "id": "PH-H894",
  "title": {
-  "zh": null,
+  "zh": "禁止以在世者姓名命名小区、村、市镇、城市、省、街道、公路、大道、桥梁及其他公共通道、公园、广场、公立学校、公共建筑、码头、政府航空器与船舶及其他公共机构",
   "en": "An Act Prohibiting the Naming of Sitios, Barrios, Municipalities, Cities, Provinces, Streets, Highways, Avenues, Bridges, and Other Public Thoroughfares, Parks, Plazas, Public Schools, Public Buildings, Piers, Government Aircrafts and Vessels, and Other Public Institutions After Living Persons",
   "orig": "An Act Prohibiting the Naming of Sitios, Barrios, Municipalities, Cities, Provinces, Streets, Highways, Avenues, Bridges, and Other Public Thoroughfares, Parks, Plazas, Public Schools, Public Buildings, Piers, Government Aircrafts and Vessels, and Other Public Institutions After Living Persons"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prohibiting the Naming of Sitios, Barrios, Municipalities, Cities, Provinces, Streets, Highways, Avenues, Bridges, and Other Public Thoroughfares, Parks, Plazas, Public Schools, Public Buildings, Piers, Government Aircrafts and Vessels, and Other Public Institutions After Living Persons",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

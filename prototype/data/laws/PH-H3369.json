@@ -1,7 +1,7 @@
 {
  "id": "PH-H3369",
  "title": {
-  "zh": null,
+  "zh": "修订第 1828 号共和国法（授权开发、开采和利用 Surigao 保留地矿产，经第 2077 号共和国法修正）若干条",
   "en": "An Act to Amend Certain Sections of Republic Act Numbered Eighteen Hundred Twenty-Eight Authorizing the Development, Exploitation and Utilization of the Mineral Deposits in the Surigao Reservation, as Amended by Republic Act Numbered Two Thousand Seventy-Seven",
   "orig": "An Act to Amend Certain Sections of Republic Act Numbered Eighteen Hundred Twenty-Eight Authorizing the Development, Exploitation and Utilization of the Mineral Deposits in the Surigao Reservation, as Amended by Republic Act Numbered Two Thousand Seventy-Seven"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 5, 1964"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of Republic Act Numbered Eighteen Hundred Twenty-Eight Authorizing the Development, Exploitation and Utilization of the Mineral Deposits in the Surigao Reservation, as Amended by Republic Act Numbered Two Thousand Seventy-Seven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3298",
  "title": {
-  "zh": null,
+  "zh": "修订第 3127 号共和国法若干条款，授权基础产业免缴特定税款的法案",
   "en": "An Act to Amend Certain Sections of Republic Act Numbered Thirty-One Hundred Twenty-Seven, Authorizing the Exemption of Basic Industries from the Payment of Certain Taxes",
   "orig": "An Act to Amend Certain Sections of Republic Act Numbered Thirty-One Hundred Twenty-Seven, Authorizing the Exemption of Basic Industries from the Payment of Certain Taxes"
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H3298-A2_2",
+   "id": "PH-H3298-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Section three of the same Act is amended to read as follows:\n\"Sec. 3. Definition of terms. -The term \"basic iron and steel, nickel, and aluminum industries’ shall refer to the manufacture of iron and steel, nickel, and aluminum from ore materials, including all processes from smelting in blast furnaces to the semi-finished stage, namely; the production of pig ingots, pellets, billets, blooms, slabs or bars and rolling and/or processing, including automatic welding, into basic forms either separately or part of the integrated processes in the industry, such as sheets, plates, strips, tubes, tubings, conduits, pipes, rails, rods, tin-plates and the like, and rough castings and forgings and other extrusions including tools, dies and moulds.\nThe term ‘basic chemical’ industries, including fertilizers’ shall refer to the manufacture of basic industrial chemicals, such as acids, alkalis, salts, except sodium chloride and calcium hydroxide, intermediates, dyes colour lakes and toners; explosive; ammunition; synthetic resins; synthetic rubber; fertilizers; all chemicals for the production of medicants and insecticides; petro-chemical; bitumen; sucro-chemical; and coke and coal chemicals.\n\"The term ‘copper smelting and refining’ shall refer to the manufacture of copper into basic forms, such as ingots, bars, billets, sheets, strips, circles, sections, rods castings and extrusion.\n\"The term ‘pulping’ shall refer to the manufacture of pulp from woods, rags, rice straw, bagasse, abaca waste and bamboo.\n\"The term ‘deep-sea fishing’ shall refer to commercial fishing in sea and inland waters using any tonnage of fishing vessels of our three tones gross capacity, licensed by the Bureau of Fisheries.\n\"The term ‘gold refining’ shall refer to the smelting bars, bullion and treatment of chemical reagents, electro refining, to remove other metal contents leaving gold alone.\n\"‘Mining’ shall mean the exploration for and extraction of minerals which occur in nature as either solids, liquids or gases.\n\"‘Base metals’ shall mean all metallic minerals except noble metals.\n\"‘Nuclear materials’ shall refer to uranium, plutonium, curium and other fissionable materials.\n\"Processing of ramie shall mean degumming decorticating, and spinning into ramie yarn.\n\"The term ‘shipbuilding and dry-docking’ shall refer to the construction of vessels, tugboats, barges, tankers, and all component parts related to the industry, including dredging and dry-docking equipment.\n\"The term ‘cattle and dairy industry’ shall refer to the raising of cattle and the acquisition of breeding and dairy animals, equipment, materials and machineries directly connected with the industry, including the manufacture and processing of meat and dairy products.\n\"The term ‘cement manufacturing’ shall refer to the manufacture of cement obtained by firing limestone naturally containing, or mixed artificially with, a suitable proportion of clay, and by subsequent crushing of the clinker so obtained (Portland Cement); including cement fondu (aluminous cement), slag cement, super-sulphate cement (ground blast furnance slag mixed with an accelerator and calcined gypsum), pozzolana cement, fibro and roman cement, and mixtures thereof.\n\"The term ‘spare parts’ shall include only metallic parts exclusively for railroad rolling stocks, irrigation and waterworks equipment, mining equipment, farm machineries, gasoline and diesel engines.\n\"The term ‘alumina smelting and refining’ refers to the production and manufacture of aluminum from ore or alumina into one or more basic forms such as ingots, billets, bars, sheets, strips, circles, tubes, rods, and castings, pipes, section and extrusions.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H3298-A3",
@@ -200,5 +201,13 @@
     "en": "Effectivity. -This Act shall take effect upon approval and shall continue to be effective until December thirty-first, nineteen hundred and seventy.\nApproved: June 19, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of Republic Act Numbered Thirty-One Hundred Twenty-Seven, Authorizing the Exemption of Basic Industries from the Payment of Certain Taxes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

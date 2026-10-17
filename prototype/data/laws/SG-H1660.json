@@ -1,7 +1,7 @@
 {
  "id": "SG-H1660",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（爆炸物——豁免）命令 2025",
   "en": "Guns, Explosives and Weapons Control (Explosives — Exemption) Order 2025",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) An individual who —\n(a)is driving or otherwise operating (but not by remote control) any conveyance; or\n(b)is providing to another training or instruction in driving or otherwise operating (but not by remote control) any conveyance,\nis exempt from the requirements in sections 22(1) and 24(1) of the Act for storing or having possession of any explosive substance or explosive device that is contained in any safety or life‑saving equipment which is installed in or carried on board the conveyance when the individual is driving or otherwise operating the conveyance or is providing that training or instruction.\n(2) This paragraph does not affect the application of the Guns, Explosives and Weapons Control (Aviation Industry — Exemption) Order 2025 (G.N. No. S 372/2025)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Guns, Explosives and Weapons Control (Explosives — Exemption) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

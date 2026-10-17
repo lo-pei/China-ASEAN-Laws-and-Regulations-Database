@@ -1,7 +1,7 @@
 {
  "id": "SG-H386",
  "title": {
-  "zh": null,
+  "zh": "建筑维护与分层管理（分层地契局）条例 2005",
   "en": "Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005",
   "orig": null
  },
@@ -558,5 +558,13 @@
     "en": "THE SCHEDULE\nRegulations 3(3)(b) and 24\nFees\nFirst column\nSecond column\n1. Application under section 84A, 84C, 84D, 84E or 84FA of the Land Titles (Strata) Act (Cap. 158)\n(a) $5,000 for an application under section 84A, 84D, 84E or 84FA\n(b) $1,000 for an application under section 84C\n(c) $1,000 for each day or part thereof for arbitration hearing\n2. Application under Division 2 of Part VI of the Act\n(a) $500\n(b) $300 for each day or part thereof for arbitration hearing\n3. Attendance before a Board, whether for a mediation session under regulation 9 or a direction hearing under regulation 13\n$150 for each day or part thereof from the third attendance onwards\nNo fee shall be payable for the first 2 attendances before a Board\n4. For supplying a copy of a document\n$1 per page\n5. For certification of a copy of a document\n$5.\n[S 360/2010 wef 15/07/2010]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building Maintenance and Strata Management (Strata Titles Boards) Regulations 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

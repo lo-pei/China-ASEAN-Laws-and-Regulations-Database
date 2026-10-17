@@ -1,7 +1,7 @@
 {
  "id": "SG-H1296",
  "title": {
-  "zh": null,
+  "zh": "能源节约（第 IV 部分下的罪行构成）条例 2012",
   "en": "Energy Conservation (Composition of Offences under Part IV) Regulations 2012",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded in accordance with section 60 of the Act by the Land Transport Authority or by any officer of the Land Transport Authority authorised to do so:\n(a)any offence under section 42(2) or 43 of the Act;\n(b)any offence under section 55(2) of the Act in relation to a requirement made by a transport sector authorised officer appointed by the Land Transport Authority;\n(c)any offence under regulation 10(1) or (2) of the Energy Conservation (Fuel Economy and Vehicular Emissions Labelling) Regulations 2012 (G.N. No. S 307/2012).\n[S 35/2018 wef 01/01/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Energy Conservation (Composition of Offences under Part IV) Regulations 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

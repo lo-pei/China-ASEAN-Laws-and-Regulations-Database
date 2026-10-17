@@ -1,7 +1,7 @@
 {
  "id": "PH-H5128",
  "title": {
-  "zh": null,
+  "zh": "授予 Southern Negros 制冰与冷藏公司在西内格罗斯省 Himamaylan 市镇建设、运营制冰厂与冷藏库并在该省销售冰和供应冷藏的特许权法案",
   "en": "An Act Granting Southern Negros Ice Plant and Cold Storage Corporation a Franchise to Construct, Operate and Maintain Ice Plant and Cold Storage in the Municipality of Himamaylan, Province of Negros Occidental, and to Sell Ice and Supply Cold Storage in the Municipalities of Himamaylan and Binalbagan in the Province of Negros Occidental.",
   "orig": "An Act Granting Southern Negros Ice Plant and Cold Storage Corporation a Franchise to Construct, Operate and Maintain Ice Plant and Cold Storage in the Municipality of Himamaylan, Province of Negros Occidental, and to Sell Ice and Supply Cold Storage in the Municipalities of Himamaylan and Binalbagan in the Province of Negros Occidental."
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Southern Negros Ice Plant and Cold Storage Corporation a Franchise to Construct, Operate and Maintain Ice Plant and Cold Storage in the Municipality of Himamaylan, Province of Negros Occidental, and to Sell Ice and Supply Cold Storage in the Municipalities of Himamaylan and Binalbagan in the Province of Negros Occidental.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

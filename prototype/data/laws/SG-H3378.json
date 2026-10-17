@@ -1,7 +1,7 @@
 {
  "id": "SG-H3378",
  "title": {
-  "zh": null,
+  "zh": "官方机密法 1935",
   "en": "Official Secrets Act 1935",
   "orig": null
  },
@@ -308,5 +308,13 @@
     "en": "THE SCHEDULE\nSection 2(1) and (3)\nSpecified organisations\n1.Building and Construction Authority\n2.[Deleted by Act 14 of 2022 wef 01/08/2022]\n3.Central Provident Fund Board\n4.Civil Aviation Authority of Singapore\n5.Civil Service College\n5A.Communicable Diseases Agency\n[Act 4 of 2025 wef 01/04/2025]\n6.Competition and Consumer Commission of Singapore\n7.[Deleted by Act 17 of 2026 wef 01/07/2026]\n8.Defence Science and Technology Agency\n9.DSO National Laboratories\n10.Economic Development Board\n11.Energy Market Authority of Singapore\n11A.Gambling Regulatory Authority of Singapore\n[Act 14 of 2022 wef 01/08/2022]\n12.Government of Singapore Investment Corporation Private Limited and its subsidiary corporations\n13.Government Technology Agency\n14.Home Team Science and Technology Agency\n15.Housing and Development Board\n16.Info-communications Media Development Authority\n17.Inland Revenue Authority of Singapore\n18.Enterprise Singapore Board\n19.Jurong Town Corporation\n20.Land Transport Authority of Singapore\n21.Maritime and Port Authority of Singapore\n22.Monetary Authority of Singapore\n22A.National Council of Social Service\n[S 119/2026 wef 18/03/2026]\n23.National Environment Agency\n24.National Heritage Board\n24A.Public Transport Council\n[S 119/2026 wef 18/03/2026]\n25.Public Utilities Board\n26.Singapore Examinations and Assessment Board\n27.Singapore Land Authority\n28.Skills and Workforce Development Agency\n[Act 17 of 2026 wef 01/07/2026]\n29.Urban Redevelopment Authority.\n[20/2016; 22/2016; 23/2016; 24/2016; 10/2018; 21/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Official Secrets Act 1935",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

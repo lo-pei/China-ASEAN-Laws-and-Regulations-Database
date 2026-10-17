@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-137-2019-BRUNEI-INVESTMENT-AGENCY-ACT",
  "title": {
-  "zh": null,
+  "zh": "文莱投资局法",
   "en": "BRUNEI INVESTMENT AGENCY ACT",
   "orig": null
  },
@@ -476,5 +476,13 @@
     "en": "The Agency may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations for the better carrying out of the objects and purposes of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI INVESTMENT AGENCY ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2669",
  "title": {
-  "zh": null,
+  "zh": "授权持牌赛马场与赛马俱乐部及其代理人在赛马场所以外提供、接受或安排投注（仅限黎刹省与特许城市），并规定处罚，为此修订第954号共和国法",
   "en": "An Act Authorizing Licensed Race-Tracks and Racing Clubs and Their Authorized Agents to Offer, Take or Arrange Bets Outside the Place, Enclosure or Track Where the Races are Held, Provided Such Bets are Offered, Taken or Arranged Only in Rizal Province and in Chartered Cities, and Providing Proper Penalties for Violations Thereof, Amending for the Purpose Sections Two and Seven of Republic Act Numbered Nine Hundred Fifty-Four",
   "orig": "An Act Authorizing Licensed Race-Tracks and Racing Clubs and Their Authorized Agents to Offer, Take or Arrange Bets Outside the Place, Enclosure or Track Where the Races are Held, Provided Such Bets are Offered, Taken or Arranged Only in Rizal Province and in Chartered Cities, and Providing Proper Penalties for Violations Thereof, Amending for the Purpose Sections Two and Seven of Republic Act Numbered Nine Hundred Fifty-Four"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing Licensed Race-Tracks and Racing Clubs and Their Authorized Agents to Offer, Take or Arrange Bets Outside the Place, Enclosure or Track Where the Races are Held, Provided Such Bets are Offered, Taken or Arranged Only in Rizal Province and in Chartered Cities, and Providing Proper Penalties for Violations Thereof, Amending for the Purpose Sections Two and Seven of Republic Act Numbered Nine Hundred Fifty-Four",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

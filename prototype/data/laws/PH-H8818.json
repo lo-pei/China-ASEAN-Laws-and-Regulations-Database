@@ -1,7 +1,7 @@
 {
  "id": "PH-H8818",
  "title": {
-  "zh": null,
+  "zh": "授权选举委员会设立专供残疾人与老年人使用的无障碍投票所投票区的法案",
   "en": "An Act Authorizing the Commission on Elections to Establish Precincts Assigned to Accessible Polling Places Exclusively for Persons With Disabilities and Senior Citizens",
   "orig": "An Act Authorizing the Commission on Elections to Establish Precincts Assigned to Accessible Polling Places Exclusively for Persons With Disabilities and Senior Citizens"
  },
@@ -221,5 +221,13 @@
     "en": "Section Effectivity Clause. – This Act shall take effect on July 1, 2013, after its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Commission on Elections to Establish Precincts Assigned to Accessible Polling Places Exclusively for Persons With Disabilities and Senior Citizens",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

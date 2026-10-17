@@ -1,7 +1,7 @@
 {
  "id": "PH-H4412",
  "title": {
-  "zh": null,
+  "zh": "授权以Elena P. Maningo女士的私人资金在宿务省圣弗朗西斯科市镇重建一所加巴尔东式校舍，并将其命名为Quirico Maningo小学的法案",
   "en": "An Act Authorizing the Reconstruction of a Gabaldon Type Schoolhouse in the Municipality of San Francisco, Province of Cebu, With the Private Funds of Mrs. Elena P. Maningo, and Naming the Same Quirico Maningo Elementary School",
   "orig": "An Act Authorizing the Reconstruction of a Gabaldon Type Schoolhouse in the Municipality of San Francisco, Province of Cebu, With the Private Funds of Mrs. Elena P. Maningo, and Naming the Same Quirico Maningo Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Reconstruction of a Gabaldon Type Schoolhouse in the Municipality of San Francisco, Province of Cebu, With the Private Funds of Mrs. Elena P. Maningo, and Naming the Same Quirico Maningo Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

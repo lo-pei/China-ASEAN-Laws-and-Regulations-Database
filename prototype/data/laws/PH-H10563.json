@@ -1,7 +1,7 @@
 {
  "id": "PH-H10563",
  "title": {
-  "zh": null,
+  "zh": "将东达沃省 Jose Abad Santos 市镇 Tomas Lachica 区医院床位由二十五（25）张增至五十（50）张并为其拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Tomas Lachica District Hospital in the Municipality of Jose Abad Santos, Province of Davao Occidental, From Twenty-five (25) To Fifty (50) Beds, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Tomas Lachica District Hospital in the Municipality of Jose Abad Santos, Province of Davao Occidental, From Twenty-five (25) To Fifty (50) Beds, and Appropriating Funds Therefor"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Tomas Lachica District Hospital in the Municipality of Jose Abad Santos, Province of Davao Occidental, From Twenty-five (25) To Fifty (50) Beds, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

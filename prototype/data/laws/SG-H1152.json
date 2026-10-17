@@ -1,7 +1,7 @@
 {
  "id": "SG-H1152",
  "title": {
-  "zh": null,
+  "zh": "存款保险与保单持有人保障计划（保单持有人保障计划）条例 2011",
   "en": "Deposit Insurance and Policy Owners’ Protection Schemes (Policy Owners’ Protection Scheme) Regulations 2011",
   "orig": null
  },
@@ -191,5 +191,13 @@
     "en": "THE SCHEDULE\nRegulation 4\nLevy Rates Applicable To Ppf Scheme Members\nFirst column\nSecond column\nThird column\nCategory of PPF Scheme members\nLevy rate applicable for life business\nLevy rate applicable for general business\nA PPF Scheme member which has a supervisory risk rating of —\n(a)low\n0.028%\n0.106%\n(b)medium low\n0.033%\n0.121%\n(c)medium high\n0.049%\n0.181%\n(d)high\n0.142%\n0.529%"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Deposit Insurance and Policy Owners’ Protection Schemes (Policy Owners’ Protection Scheme) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

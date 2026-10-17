@@ -1,7 +1,7 @@
 {
  "id": "PH-H9693",
  "title": {
-  "zh": null,
+  "zh": "将阿尔拜省 Tabaco 市 Ziga 纪念区医院床位由五十（50）张增至两百五十（250）张，更名为 Dr. Lorenzo P. Ziga 纪念区医院并为其拨款",
   "en": "An Act increasing the Bed Capacity of the Ziga Memorial District Hospital in the City of Tabaco, Province of Albay from Fifty (50) to Two Hundred Fifty (250) Beds, to be now Known as the Dr. Lorenzo P. Ziga Memorial District Hospital, and Appropriating Funds Therefor",
   "orig": "An Act increasing the Bed Capacity of the Ziga Memorial District Hospital in the City of Tabaco, Province of Albay from Fifty (50) to Two Hundred Fifty (250) Beds, to be now Known as the Dr. Lorenzo P. Ziga Memorial District Hospital, and Appropriating Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act increasing the Bed Capacity of the Ziga Memorial District Hospital in the City of Tabaco, Province of Albay from Fifty (50) to Two Hundred Fifty (250) Beds, to be now Known as the Dr. Lorenzo P. Ziga Memorial District Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

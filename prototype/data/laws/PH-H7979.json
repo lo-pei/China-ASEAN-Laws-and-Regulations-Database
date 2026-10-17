@@ -1,7 +1,7 @@
 {
  "id": "PH-H7979",
  "title": {
-  "zh": null,
+  "zh": "将东米萨米斯省 Cagayan de Oro 市棉兰老理工国立学院改设为国立大学，名称为棉兰老科学技术大学，并为此拨款的法案",
   "en": "An Act Converting the Mindanao Polytechnic State College in Cagayan de Oro City, Province of Misamis Oriental into a State University to Be Known as The Mindanao University of Science and Technology (MUST) and Appropriating funds thereof",
   "orig": "An Act Converting the Mindanao Polytechnic State College in Cagayan de Oro City, Province of Misamis Oriental into a State University to Be Known as The Mindanao University of Science and Technology (MUST) and Appropriating funds thereof"
  },
@@ -320,5 +320,13 @@
     "en": "Effectivity. - This Act.shal1 take effect fifteen (15) days after its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Mindanao Polytechnic State College in Cagayan de Oro City, Province of Misamis Oriental into a State University to Be Known as The Mindanao University of Science and Technology (MUST) and Appropriating funds thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

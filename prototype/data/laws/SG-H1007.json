@@ -1,7 +1,7 @@
 {
  "id": "SG-H1007",
  "title": {
-  "zh": null,
+  "zh": "货币法——硬币面额与特征",
   "en": "Currency Act — Denomination and Characteristics of Coin",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE TRIBUTE TO OUR HEALTHCARE GIVERS $2 COMMEMORATIVE COINS\nDenomination\nMetal\nStandardWeight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n2 Dollars\n999 Fine Silver\n20.00 g + 0.20 g\n38.70 mm + 0.15 mm\n2.30 mm + 0.20 mm\nRound\nMilled and Bearing the words “MONETARY AUTHORITY OF SINGAPORE” and lion symbol.\nThe Singapore Arms in the centre with the year-date “2003” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’clock of the coin.\nHealthcare givers in Singapore featured with the use of stylised symbols of a healthcare attendant, surgeon, doctor, virologist nurse. In the background is the Ministry of Health Building, which symbolises the leadership of the Ministry in this health crisis. The denomination “$2” is on the right-hand side of the building. Embracing the design are the words\n“TRIBUTE TO OUR HEALTH CARE GIVERS” — an expression of the respect and admiration of all Singaporeans for this group of heroes in combating Severe Acute Respiratory Syndrome (SARS).\n(a) Obverse Design of $2 Silver Proof Coin.\n(b) Reverse Design of $2 Silver Proof Coin.\n(c) Obverse Design of $2 Uncirculated Cupro-Nickel Proof-like Coin.\n(d) Reverse Design of $2 Uncirculated Cupro-Nickel Proof-like Coin."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency Act — Denomination and Characteristics of Coin",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

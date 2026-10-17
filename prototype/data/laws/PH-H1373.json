@@ -1,7 +1,7 @@
 {
  "id": "PH-H1373",
  "title": {
-  "zh": null,
+  "zh": "规定某些菲律宾登记船舶须装备无线电设备并雇用无线电报务员，并加重违反行为处罚，为此修订第3396号法（经修正）的法案",
   "en": "An Act Requiring Certain Vessels of Philippine Register to be Equipped with Radio Apparatus and to Employ Radio Telegraph Operators, and Increasing the Penalty for the Violation Thereof, by Amending Act Numbered Thirty-Three Hundred and Ninety-Six, as Amended",
   "orig": "An Act Requiring Certain Vessels of Philippine Register to be Equipped with Radio Apparatus and to Employ Radio Telegraph Operators, and Increasing the Penalty for the Violation Thereof, by Amending Act Numbered Thirty-Three Hundred and Ninety-Six, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring Certain Vessels of Philippine Register to be Equipped with Radio Apparatus and to Employ Radio Telegraph Operators, and Increasing the Penalty for the Violation Thereof, by Amending Act Numbered Thirty-Three Hundred and Ninety-Six, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

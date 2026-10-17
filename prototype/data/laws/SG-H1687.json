@@ -1,7 +1,7 @@
 {
  "id": "SG-H1687",
  "title": {
-  "zh": null,
+  "zh": "保健品（独立 AI 移动应用——豁免）命令 2026",
   "en": "Health Products (AI Standalone Mobile Application — Exemption) Order 2026",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) Section 15(1) of the Act does not apply to a public healthcare entity (X) that supplies (whether by itself or jointly with one or more public healthcare entities) an AI standalone mobile application manufactured by X under all of the following conditions:\n(a)X manufactures the AI standalone mobile application by itself or jointly with one or more other public healthcare entities;\n(b)the common conditions in sub-paragraph (3) are satisfied.\n(2) Section 15(1) of the Act does not apply to a public healthcare entity (X) that supplies (whether by itself or jointly with one or more public healthcare entities) an AI standalone mobile application not manufactured by X under all of the following conditions:\n(a)the AI standalone mobile application is manufactured by one or more other public healthcare entities;\n(b)the common conditions in sub-paragraph (3) are satisfied.\n(3) The common conditions are —\n(a)the AI standalone mobile application falls under Class A (low risk) or Class B (moderately low risk) of the Third Schedule to the Regulations;\n(b)the AI standalone mobile application is manufactured under the supervision of a clinician employed in a public healthcare institution and holding the position of consultant or higher;\n(c)X supplies the AI standalone mobile application —\n(i)by way of administration to or application in any person in the course of any diagnosis, treatment or test, if X holds a licence under HCSA to provide such healthcare service;\n(ii)to another public healthcare entity (Y), for Y to supply the AI standalone mobile application to another public healthcare entity that holds a licence under HCSA or to HPB (Z), for Z to provide a healthcare service that Z is licensed under HCSA to provide; or\n(iii)directly to Z, for Z to provide a healthcare service that Z is licensed under HCSA to provide;\n(d)X notifies the Authority of X or Z’s deployment (as the case may be) for use of the AI standalone mobile application prior to such deployment; and\n(e)the AI standalone mobile application is, prior to its deployment under sub-paragraph (d), endorsed for use in X or Z (as the case may be) by —\n(i)if X or Z has both a medical board and a chief executive officer — either the chairman of the medical board, or the chief executive officer, of X or Z;\n(ii)if X or Z has a medical board and no chief executive officer — the chairman of the medical board of X or Z;\n(iii)if X or Z has a chief executive officer and no medical board — the chief executive officer of X or Z; or\n(iv)if X or Z is HPB — the Chief Executive of HPB."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Health Products (AI Standalone Mobile Application — Exemption) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

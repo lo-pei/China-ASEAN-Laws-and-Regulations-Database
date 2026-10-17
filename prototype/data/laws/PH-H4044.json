@@ -1,7 +1,7 @@
 {
  "id": "PH-H4044",
  "title": {
-  "zh": null,
+  "zh": "废止对工会官员作出非颠覆性宣誓的要求，为此废止第875号共和国法第23条第（b）目第（2）项的法案",
   "en": "An Act Abolishing the Requirement of Non-Subversive Affidavits by Officers of Labor Organizations, Repealing for the Purpose Subparagraph (2), Subsection, (b), Section Twenty-Three of Republic Act Numbered Eight Hundred Seventy-Five",
   "orig": "An Act Abolishing the Requirement of Non-Subversive Affidavits by Officers of Labor Organizations, Repealing for the Purpose Subparagraph (2), Subsection, (b), Section Twenty-Three of Republic Act Numbered Eight Hundred Seventy-Five"
  },
@@ -60,5 +60,13 @@
     "en": "All Acts, parts of Acts, and regulations inconsistent with this Act are hereby repealed.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Abolishing the Requirement of Non-Subversive Affidavits by Officers of Labor Organizations, Repealing for the Purpose Subparagraph (2), Subsection, (b), Section Twenty-Three of Republic Act Numbered Eight Hundred Seventy-Five",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

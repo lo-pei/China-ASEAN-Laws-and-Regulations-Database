@@ -1,7 +1,7 @@
 {
  "id": "PH-H540",
  "title": {
-  "zh": null,
+  "zh": "授予 Philippine Oil Development Co., Inc. 在菲律宾建设、维护和运营收发远距离无线电报站的临时许可的法案",
   "en": "An Act Granting to the Philippine Oil Development Co., Inc., a Temporary Permit to Construct, Maintain and Operate in the Philippines Stations for the Reception and Transmission of Wireless Long Distance Messages",
   "orig": "An Act Granting to the Philippine Oil Development Co., Inc., a Temporary Permit to Construct, Maintain and Operate in the Philippines Stations for the Reception and Transmission of Wireless Long Distance Messages"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 17, 1950."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting to the Philippine Oil Development Co., Inc., a Temporary Permit to Construct, Maintain and Operate in the Philippines Stations for the Reception and Transmission of Wireless Long Distance Messages",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

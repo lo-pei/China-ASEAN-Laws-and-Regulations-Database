@@ -1,7 +1,7 @@
 {
  "id": "SG-H3373",
  "title": {
-  "zh": null,
+  "zh": "护士与助产士条例 2012",
   "en": "Nurses and Midwives Regulations 2012",
   "orig": null
  },
@@ -964,5 +964,13 @@
     "en": "THIRD SCHEDULE\nFORM 1\n[Deleted by S 176/2013 wef 01/04/2013 wef 01/04/2013]\nFORM 2\n[Deleted by S 176/2013 wef 01/04/2013 wef 01/04/2013]\nFORM 3\n[Deleted by S 176/2013 wef 01/04/2013 wef 01/04/2013]\nFORM 4\n[Deleted by S 176/2013 wef 01/04/2013 wef 01/04/2013]\nFORM 5\n[Deleted by S 176/2013 wef 01/04/2013 wef 01/04/2013]\nFORM 6\n[Deleted by S 176/2013 wef 01/04/2013 wef 01/04/2013]\nFORM 7\nRegulation 47(3)\nNURSES AND MIDWIVES ACT\n(CHAPTER 209)\nNURSES AND MIDWIVES\nREGULATIONS\nSTATUTORY DECLARATION FOR\nRE‑REGISTRATION, RE‑ENROLMENT OR RE-CERTIFICATION\nUNDER SECTION 23\nI, ________________________ of __________________________________________\n(name of applicant) (address in full)\ndo solemnly and sincerely declare as follows:\n1. I am the person originally registered1/enrolled1 as a nurse1/registered as a midwife1/and certified as an Advanced Practice Nurse1 with the qualification(s) ___________________________ (state qualifications)\nand I hereby apply to be —\n• re-registered as a nurse1\n• re-registered as a midwife1\n• re-enrolled as a nurse1\n• re-certified as an Advocate Practice Nurse.1\n2. To the best of my knowledge, I am not suffering from any physical or mental condition which impairs my fitness to practise nursing1/midwifery1/a specialised branch of nursing, namely1 ____________________________ (specify clinical specialty) and I am not undergoing treatment for such a condition except for ___________________________ (give particulars of any such condition and treatment).\n3. On ___________________________________ (state day and date) my registration as a registered nurse1/enrolment as an enrolled nurse*/registration as a registered midwife1/certification as an Advanced Practice Nurse1 was cancelled by the Board.\nSince the cancellation, my occupation has been ____________________.\n(state occupation)\n4. The grounds of my application are in the attached document, and I make this solemn declaration by virtue of the provisions of the Oaths and Declarations Act (Cap. 211), and subject to the penalties provided by that Act for the making of false statements in statutory declarations, conscientiously believing the statements contained in this declaration to be true in every particular.\nSigned _________________\nDeclared at _________________ on this day of 20 .\n(state place)\nBefore me\n____________________________________\nCommissioner for Oaths/Justice of the Peace\n1Delete whichever is inapplicable.\nFORM 8\nRegulation 47(3)\nNURSES AND MIDWIVES ACT\n(CHAPTER 209)\nNURSES AND MIDWIVES\nREGULATIONS\nCERTIFICATE OF IDENTITY AND GOOD CHARACTER\nI, ________________________________________ (name of person) of ________________________________________ (address in full) certify as follows:\n1.I am a _________________________ (state occupation).\n2.I am not a spouse, parent, sibling or child of _________________________ (name of applicant for re-registration, re-enrolment or re-certification under section 23 of the Act).\n3.I have read the statutory declaration of ____________________ (applicant) made on _________________________ (state day and date).\n4.The said ________________________________ (applicant) is the same person whose name formerly stood in the Register of Nurses/Register of Midwives/Roll of Nurses/Advanced Practice Nurse Register1 with the following qualifications or status ______________.\n5.I have been and am well acquainted with the said _______________________ (applicant) as _____________________ (capacity in which applicant is known) both before and since his/her1 name was removed from the Register/Roll/Advanced Practice Nurse Register1, and I believe him/her1 to be a person of good character, and the statements in his/her1 statutory declaration are, to the best of my knowledge, information and belief, true.\nSigned: ………………………\nDate: ………………………\n1Delete whichever is inapplicable."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Nurses and Midwives Regulations 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H509",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（豁免）命令 2018",
   "en": "Central Provident Fund (Exemption) Order 2018",
   "orig": null
  },
@@ -126,5 +126,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nSpecified employees\n1.[Deleted by S 325/2026 wef 01/06/2026]\n2.An employee of the United Nations Organisation, or any agency, institution or related organisation of the United Nations Organisation that is located in Singapore.\n[S 895/2025 wef 31/12/2025]\n2A.An employee of any of the following entities, which is part of the World Bank Group (a specialised agency of the United Nations Organisation), that is located in Singapore:\n(a)the International Centre for Settlement of Investment Disputes;\n(b)the Multilateral Investment Guarantee Agency.\n[S 895/2025 wef 31/12/2025]\n3.An employee of the Organisation for Economic Co‑operation and Development who is assigned to work for the International Energy Agency Regional Cooperation Centre that is located in Singapore.\n4.[Deleted by S 325/2026 wef 01/06/2026]\n5.[Deleted by S 325/2026 wef 01/06/2026]\n6.An employee who is a matriculated or registered student of any of the following institutions and employed for training approved by the institution concerned:\n(a)any university whose function of providing university education is determined by any written law;\n(b)the Institute of Technical Education, Singapore, established by the Institute of Technical Education Act 1992;\n(c)a polytechnic established by any written law;\n(d)a school specified in Part II or III of the Schedule to the Education Endowment and Savings Schemes (Edusave Pupils Fund) Regulations (Rg 1);\n(e)Mountbatten Vocational School.\n7.An employee who is —\n(a)a matriculated or registered student of any private education institution;\n(b)enrolled in a full‑time programme offered by the private education institution, that is subsidised by the Ministry of Education and listed on the Ministry’s website; and\n(c)employed for training approved by the private education institution.\n8.An employee who —\n(a)is a matriculated or registered student of any overseas tertiary education institution;\n(b)is required by the overseas tertiary education institution to undergo training in Singapore for a period of not more than 6 months; and\n(c)submits to his or her employer a written confirmation from the overseas tertiary education institution that the employee is —\n(i)a matriculated or registered student of the overseas tertiary education institution; and\n(ii)required by the overseas tertiary education institution to undergo training in Singapore.\n9.An employee who is a registered student (other than a student who has completed the GCE ‘A’ Level Examination or its equivalent) of any of the following institutions and employed during a school holiday period:\n(a)a Government school within the meaning of the Education Act 1957;\n(b)a Government‑aided school within the meaning of the Education Endowment and Savings Schemes (Edusave Pupils Fund) Regulations;\n(c)a school specified in any order made under section 3(1) of the School Boards (Incorporation) Act 1990;\n(d)a school specified in the Schedule to the Education Endowment and Savings Schemes (Edusave Pupils Fund) Regulations;\n(e)Madrasah Alsagoff Al‑Arabiah;\n(f)Madrasah Al‑Arabiah Al‑Islamiah;\n(g)Madrasah Irsyad Zuhri Al‑Islamiah;\n(h)Madrasah Aljunied Al‑Islamiah;\n(i)Madrasah Al‑Ma’arif Al‑Islamiah;\n(j)Madrasah Wak Tanjong Al‑Islamiah.\n10.In this Schedule —\n[Deleted by S 325/2026 wef 01/06/2026]\n“GCE ‘A’ Level Examination” means the Singapore‑Cambridge General Certificate of Education “Advanced” Level Examination conducted for the purpose of assessing a pupil’s suitability for university education;\n“Ministry’s website” means the Ministry of Education’s Internet website at https://www.moe.gov.sg;\n“private education institution” has the meaning given by section 2 of the Private Education Act 2009;\n“school holiday period” means a school holiday period specified by the Ministry of Education on the Ministry’s website."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Exemption) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

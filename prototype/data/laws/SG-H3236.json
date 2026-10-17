@@ -1,7 +1,7 @@
 {
  "id": "SG-H3236",
  "title": {
-  "zh": null,
+  "zh": "药物滥用（核准机构探访委员会）条例",
   "en": "Misuse of Drugs (Board of Visitors for Approved Institutions) Regulations",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "10. No fewer than 2 members of the Board shall visit each approved institution in respect of which they are appointed at least once a month."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Misuse of Drugs (Board of Visitors for Approved Institutions) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

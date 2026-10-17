@@ -1,7 +1,7 @@
 {
  "id": "PH-H8831",
  "title": {
-  "zh": null,
+  "zh": "在高山省设立高山省第二区工程办公室并为此拨款的法案",
   "en": "An Act Establishing the Mountain Province Second District Engineering Office in the Mountain Province and Appropriating Funds Therefor",
   "orig": "An Act Establishing the Mountain Province Second District Engineering Office in the Mountain Province and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the Mountain Province Second District Engineering Office in the Mountain Province and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

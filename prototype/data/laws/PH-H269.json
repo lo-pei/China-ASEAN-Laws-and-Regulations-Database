@@ -1,7 +1,7 @@
 {
  "id": "PH-H269",
  "title": {
-  "zh": null,
+  "zh": "修订第3377号法第2条与第9条最后款（关于促进农业与职业教育），并在该法中增列第11-A条",
   "en": "An Act to Amend the Last Paragraph of Sections Two and Nine, of Act Numbered Thirty-Three Hundred and Seventy-Seven, Entitled “An Act to Provide for the Promotion of Agricultural and Vocational Education; to Provide for Cooperation with Provinces, Cities, and Municipalities in the Promotion of Such Education in Agriculture, Commerce, Trades, and Industries; to Provide for Cooperation with the University of the Philippines and Other Insular Institutions in the Preparation of Teachers of Vocational Subject; to Appropriate Funds and Regulate Their Expenditures, and for Other Purposes,” and to Insert a New Section in Said Act to be Known as Section Eleven-A",
   "orig": "An Act to Amend the Last Paragraph of Sections Two and Nine, of Act Numbered Thirty-Three Hundred and Seventy-Seven, Entitled “An Act to Provide for the Promotion of Agricultural and Vocational Education; to Provide for Cooperation with Provinces, Cities, and Municipalities in the Promotion of Such Education in Agriculture, Commerce, Trades, and Industries; to Provide for Cooperation with the University of the Philippines and Other Insular Institutions in the Preparation of Teachers of Vocational Subject; to Appropriate Funds and Regulate Their Expenditures, and for Other Purposes,” and to Insert a New Section in Said Act to be Known as Section Eleven-A"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend the Last Paragraph of Sections Two and Nine, of Act Numbered Thirty-Three Hundred and Seventy-Seven, Entitled “An Act to Provide for the Promotion of Agricultural and Vocational Education; to Provide for Cooperation with Provinces, Cities, and Municipalities in the Promotion of Such Education in Agriculture, Commerce, Trades, and Industries; to Provide for Cooperation with the University of the Philippines and Other Insular Institutions in the Preparation of Teachers of Vocational Subject; to Appropriate Funds and Regulate Their Expenditures, and for Other Purposes,” and to Insert a New Section in Said Act to be Known as Section Eleven-A",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H926",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼法典（最高法院电子提交与送达）规则 2022",
   "en": "Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Rules 2022",
   "orig": null
  },
@@ -272,5 +272,13 @@
     "en": "18. The Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Regulations 2012 (G.N. No. S 669/2012) are revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Criminal Procedure Code (Electronic Filing and Service for Supreme Court) Rules 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

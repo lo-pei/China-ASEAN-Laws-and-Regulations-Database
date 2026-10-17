@@ -1,7 +1,7 @@
 {
  "id": "SG-H401",
  "title": {
-  "zh": null,
+  "zh": "巴士服务业法 2015",
   "en": "Bus Services Industry Act 2015",
   "orig": null
  },
@@ -1472,5 +1472,13 @@
     "en": "THE SCHEDULE\nSections 2 and 48A\nBus services and other services for\npurposes of paragraphs (b) and (c) of\ndefinition of “essential transport\nservice”\nPart 1\nBUS SERVICES\n1. Any regular route service provided pursuant to a public bus services contract entered into under section 6(2).\nPart 2\nOTHER SERVICES\n1. Monitoring and management of any regular route service provided pursuant to a public bus services contract entered into under section 6(2).\n[Act 20 of 2024 wef 01/04/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Bus Services Industry Act 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

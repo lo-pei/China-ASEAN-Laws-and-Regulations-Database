@@ -1,7 +1,7 @@
 {
  "id": "BN-S-43-2016-REGISTERED-AGENTS-AND-TRUSTEES-LICENSING-AM-33DF39",
  "title": {
-  "zh": null,
+  "zh": "注册代理人与受托人发牌修正命令 2016",
   "en": "REGISTERED AGENTS AND TRUSTEES LICENSING AMENDMENT ORDER 2016",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "Section 36 of the principal Order is amended, in subsection (l)(b/, by inserting \"under 28A\" immediately after L'Authority\" in the third line. Made this 28th. day of Syawal, 1437 Hijriah corresponding to the 2nd. day of August, 2016 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "REGISTERED AGENTS AND TRUSTEES LICENSING AMENDMENT ORDER 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

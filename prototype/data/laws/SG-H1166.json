@@ -1,7 +1,7 @@
 {
  "id": "SG-H1166",
  "title": {
-  "zh": null,
+  "zh": "发展投资基金法 2000",
   "en": "Developmental Investment Fund Act 2000",
   "orig": null
  },
@@ -344,5 +344,13 @@
     "en": "20. The Minister may make regulations for the sound and efficient management and investment of the Fund, including —\n(a)prescribing the securities, funds and investments or classes of securities, funds and investments in which any moneys in the Fund may be invested for developmental purposes; and\n[Act 35 of 2021 wef 31/01/2022]\n(b)[Deleted by Act 35 of 2021 wef 31/01/2022]\n(c)prescribing all other matters that are necessary or expedient for carrying out or giving effect to the provisions of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Developmental Investment Fund Act 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7706",
  "title": {
-  "zh": null,
+  "zh": "将拉斯皮纳斯区医院改设为医疗中心，名称为拉斯皮纳斯总医院与卫星创伤中心，并为此拨款的法案",
   "en": "An act converting the Las Piñas District Hospital into a Medical Center to be known as the Las Piñas General Hospital and Satellite Trauma Center and Appropriating Funds Therefor",
   "orig": "An act converting the Las Piñas District Hospital into a Medical Center to be known as the Las Piñas General Hospital and Satellite Trauma Center and Appropriating Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act converting the Las Piñas District Hospital into a Medical Center to be known as the Las Piñas General Hospital and Satellite Trauma Center and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5797",
  "title": {
-  "zh": null,
+  "zh": "在司法部下设立索赔委员会以处理遭不公正监禁或拘留者及暴力犯罪受害者并为其他目的法案",
   "en": "An Act Creating a Board of Claims Under the Department of Justice for Victims of Unjust Imprisonment or Detention and Victims of Violent Crimes and for Other Purposes",
   "orig": "An Act Creating a Board of Claims Under the Department of Justice for Victims of Unjust Imprisonment or Detention and Victims of Violent Crimes and for Other Purposes"
  },
@@ -160,5 +160,13 @@
     "en": "Effectivity Clause. – This Act shall take effect after its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating a Board of Claims Under the Department of Justice for Victims of Unjust Imprisonment or Detention and Victims of Violent Crimes and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

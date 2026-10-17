@@ -1,7 +1,7 @@
 {
  "id": "PH-H232",
  "title": {
-  "zh": null,
+  "zh": "规定立即向已故美国陆军、海军、菲律宾侦察兵、菲律宾陆军成员（含正式承认的游击组织）及已故美国政府与菲律宾陆军文职雇员支付应付款项并为其他目的法案",
   "en": "An Act Providing for the Immediate Payment of Monies Due to Deceased Filipino Members of the United States Army, United States Navy, Philippine Scouts, Philippine Army, Including Duly Recognized Guerrilla Organizations, and Deceased Civilian Employees of the War and Navy Departments and Other Departments of the United States Government and of the Philippine Army, and Deceased Civilians with Claims for Supplies Furnished or Services Rendered Under the Laws of the United States and/or to the Philippine Army, and for Other Purposes",
   "orig": "An Act Providing for the Immediate Payment of Monies Due to Deceased Filipino Members of the United States Army, United States Navy, Philippine Scouts, Philippine Army, Including Duly Recognized Guerrilla Organizations, and Deceased Civilian Employees of the War and Navy Departments and Other Departments of the United States Government and of the Philippine Army, and Deceased Civilians with Claims for Supplies Furnished or Services Rendered Under the Laws of the United States and/or to the Philippine Army, and for Other Purposes"
  },
@@ -210,5 +210,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Immediate Payment of Monies Due to Deceased Filipino Members of the United States Army, United States Navy, Philippine Scouts, Philippine Army, Including Duly Recognized Guerrilla Organizations, and Deceased Civilian Employees of the War and Navy Departments and Other Departments of the United States Government and of the Philippine Army, and Deceased Civilians with Claims for Supplies Furnished or Services Rendered Under the Laws of the United States and/or to the Philippine Army, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

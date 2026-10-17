@@ -1,7 +1,7 @@
 {
  "id": "PH-H2654",
  "title": {
-  "zh": null,
+  "zh": "禁止在七英寻及以下深度渔区作业拖网的法案",
   "en": "An Act Prohibiting the Operation of Trawls in Fishing Areas Seven Fathoms Deep or Less",
   "orig": "An Act Prohibiting the Operation of Trawls in Fishing Areas Seven Fathoms Deep or Less"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prohibiting the Operation of Trawls in Fishing Areas Seven Fathoms Deep or Less",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

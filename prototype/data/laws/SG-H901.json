@@ -1,7 +1,7 @@
 {
  "id": "SG-H901",
  "title": {
-  "zh": null,
+  "zh": "COVID-19（临时措施）（无法履行合同的临时救济）条例 2020",
   "en": "COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020",
   "orig": null
  },
@@ -646,5 +646,13 @@
     "en": "30. Where, in the Registrar’s opinion, an assessor’s determination ought to be published, the Registrar may publish the facts of the case, the arguments and the determination without disclosing the names of the parties concerned or any information that may disclose their identities."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "COVID-19 (Temporary Measures) (Temporary Relief for Inability to Perform Contracts) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

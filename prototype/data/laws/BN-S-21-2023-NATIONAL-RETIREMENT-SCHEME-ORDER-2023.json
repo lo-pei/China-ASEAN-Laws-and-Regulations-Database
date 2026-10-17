@@ -1,7 +1,7 @@
 {
  "id": "BN-S-21-2023-NATIONAL-RETIREMENT-SCHEME-ORDER-2023",
  "title": {
-  "zh": null,
+  "zh": "国家退休金计划命令 2023",
   "en": "NATIONAL RETIREMENT SCHEME ORDER 2023",
   "orig": null
  },
@@ -720,5 +720,13 @@
     "en": "The provisions of the written law specified in the first column of 4 are amended in the manner set out in the second column thereof. 15th. JUNE, 2023 2)\n\nOR CLASSES OF PERSONS SPECIFIED NOT TO BE EMPLOYEES"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NATIONAL RETIREMENT SCHEME ORDER 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

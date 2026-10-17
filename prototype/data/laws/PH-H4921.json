@@ -1,7 +1,7 @@
 {
  "id": "PH-H4921",
  "title": {
-  "zh": null,
+  "zh": "菲律宾外交服务法",
   "en": "Foreign Service Act of the Philippines",
   "orig": "An Act Amending Further Some Sections of Republic Act Numbered Seven Hundred and Eight, Otherwise Known as the \"Foreign Service Act of the Philippines\", Concerning Salaries, Allowances, and Other Benefits."
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H4921-A1_2",
+   "id": "PH-H4921-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Chiefs of Mission. —The President shall, on the basis of the importance of the post and for salary purposes, classify into three classes the positions which are to be occupied by chiefs of mission. The basic salaries of chiefs of mission per annum shall be as follows:\nClass I\nP24,000.00\nClass II 23,000.00 Class III 22,000.00 \""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4921-A2",
@@ -81,24 +82,26 @@
    }
   },
   {
-   "id": "PH-H4921-A1_3",
+   "id": "PH-H4921-A1-d3",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Title VII of the same Act is hereby further amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 3
   },
   {
-   "id": "PH-H4921-A1_4",
+   "id": "PH-H4921-A1-d4",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Implementation. —In order to implement the provisions of this Act, the Secretary shall effect the reorganization of the Department and the Foreign Service in accordance with the provisions of this Act and for this purpose he is authorized to reallot the funds provided for the Department in the General Appropriations Act for the fiscal year nineteen hundred seventy-one-nineteen hundred seventy-two: Provided, however, That any officer receiving the salary and allowances of a particular class of Foreign Service Officer at the time of the approval of this Act shall continue to receive the salary and allowances corresponding to the same class under the provisions of this Act. In addition to the sum of two million five hundred thirty-two thousand sixty pesos appropriated under the provisions of Republic Act Numbered Four thousand one hundred and twelve, the sum of Two million nine hundred fifty-six thousand pesos is hereby authorized to be appropriated out of any unappropriated funds of the National Treasury to carry out the provisions of this Act, as amended.\""
-   }
+   },
+   "dupIndex": 4
   },
   {
    "id": "PH-H4921-A3",
@@ -110,5 +113,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, October 4, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Foreign Service Act of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

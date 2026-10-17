@@ -1,7 +1,7 @@
 {
  "id": "PH-H10078",
  "title": {
-  "zh": null,
+  "zh": "制定包容政策并为残疾学习者提供服务，支持所有学区、市镇与城市中残疾学习者的包容性学习资源中心，规定标准，为此拨款并为其他目的法案",
   "en": "An Act Instituting a Policy of Inclusion and Services for Learners with Disabilities in Support of Inclusive Learning Resource Centers of Learners with Disabilities in All Schools Districts, Municipalities and Cities, Providing for Standards, Appropriating Funds Therefor, and for Other Purposes",
   "orig": "An Act Instituting a Policy of Inclusion and Services for Learners with Disabilities in Support of Inclusive Learning Resource Centers of Learners with Disabilities in All Schools Districts, Municipalities and Cities, Providing for Standards, Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -400,5 +400,13 @@
     "en": "Effectivity. - Notwithstanding the non-issuance of the IRR, this Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Instituting a Policy of Inclusion and Services for Learners with Disabilities in Support of Inclusive Learning Resource Centers of Learners with Disabilities in All Schools Districts, Municipalities and Cities, Providing for Standards, Appropriating Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

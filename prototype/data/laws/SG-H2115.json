@@ -1,7 +1,7 @@
 {
  "id": "SG-H2115",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国所得豁免）命令 2016",
   "en": "Income Tax (Exemption of Foreign Income) Order 2016",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 3(3)\nExempt income dividends\nFirst column\nSecond column\nThird column\nFourth column\nCompany\nCapital gains or income of company\nDate of receipt of dividends in Singapore\nScenario in which dividends are received in Singapore\n1.\nKuala Lumpur Glass Manufacturers Co Sdn Bhd\nProfits from business activities\nAny date between 1 October 2010 and 30 September 2013 (both dates inclusive)\nAny scenario\n2.\nKuala Lumpur Glass Manufacturing Co Sdn Bhd\nProceeds of sale of land and building\nAny date between 1 October 2010 and 30 September 2013 (both dates inclusive)\nNot applicable\n3.\nFraser & Neave (Malaya) Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n4.\nF&N Beverages Manufacturing Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n5.\nBorneo Springs Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2013\nAny scenario\n6.\nF&N Beverages Marketing Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n7.\nF&N Dairies (Malaysia) Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n8.\nF&N Dairies (Malaysia) Sdn Bhd\nProceeds of sale of business assets (including land, building, plant and equipment) and shares\nAny date on or after 1 October 2010\nScenario F\n9.\nPremier Milk (Malaya) Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n10.\nPremier Milk (Malaya) Sdn Bhd\nRetained earnings from business activities, past capital gains, and proceeds of sale of business assets (including land, building, plant and equipment) and shares\nAny date on or after 1 October 2010\nScenario F\n11.\nF&N Foods Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n12.\nF&N Dairies Manufacturing Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n13.\nF&N Dairies (Thailand) Limited\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n14.\nF&N Dairies Distribution (Singapore) Pte. Ltd.\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n15.\nF&N Properties Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2013\nAny scenario\n16.\nCocoaland Industry Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n17.\nL.B. Food Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n18.\nB Plus Q Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n19.\nGreenhome Marketing Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n20.\nCCL Food & Beverage Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2013\nAny scenario\n21.\nM.I.T.E. Food Enterprise Sdn Bhd\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n22.\nΩ Lot 100 Food Co. Ltd\nProfits from business activities\nAny date on or after 1 October 2010\nAny scenario\n23.\nCocoaland Holdings Berhad\nDividends declared out of profits from business activities of the following subsidiaries:\nAny date on or after 1 October 2010\nAny scenario\n(a)\nCocoaland Industry Sdn Bhd;\n(b)\nL.B. Food Sdn Bhd;\n(c)\nB Plus Q Sdn Bhd;\n(d)\nGreenhome Marketing Sdn Bhd;\n(e)\nCCL Food & Beverage Sdn Bhd;\n(f)\nM.I.T.E. Food Enterprise Sdn Bhd;\n(g)\nΩ Lot 100 Food Co. Ltd"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) Order 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

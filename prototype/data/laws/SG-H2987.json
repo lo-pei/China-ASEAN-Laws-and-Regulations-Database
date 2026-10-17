@@ -1,7 +1,7 @@
 {
  "id": "SG-H2987",
  "title": {
-  "zh": null,
+  "zh": "法律专业（按条件收费协议）条例 2022",
   "en": "Legal Profession (Conditional Fee Agreement) Regulations 2022",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. Every conditional fee agreement must include terms relating to all of the following:\n(a)the particulars of the specified circumstances mentioned in the definition of “conditional fee agreement” in section 115A(1) of the Act for the purposes of the agreement;\n(b)if the agreement provides for an uplift fee, the particulars of the basis of calculation and an estimate or a range of estimates of the resulting quantum of the uplift fee;\n(c)a cooling‑off period of 5 days starting immediately after the date the agreement is entered into, during which either party may by written notice terminate the agreement;\n(d)any variation of the agreement must be in writing and expressly agreed to by all parties to the conditional fee agreement;\n(e)a cooling‑off period of 3 days starting immediately after the date a variation of the agreement is entered into which relates to the issue of costs (including where relevant the particulars mentioned in paragraph (a) or (b)) during which either party may by written notice terminate the variation agreement;\n(f)that to avoid doubt, the termination of the variation agreement mentioned in paragraph (e) will not affect the validity of the conditional fee agreement or constitute a ground for the termination of the conditional fee agreement;\n(g)that on the termination of the agreement mentioned in paragraph (c) or (e), the client is not liable for any remuneration or costs incurred during the cooling‑off period except for the remuneration or costs incurred for any service performed during the cooling‑off period that was expressly instructed by or agreed to by the client."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Legal Profession (Conditional Fee Agreement) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

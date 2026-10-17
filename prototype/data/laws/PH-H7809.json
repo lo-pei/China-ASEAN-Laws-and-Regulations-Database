@@ -1,7 +1,7 @@
 {
  "id": "PH-H7809",
  "title": {
-  "zh": null,
+  "zh": "理顺国家劳资关系委员会的组成与职能，为此修订经修正的第 442 号总统法令（即《菲律宾劳工法典》）第 213、214、215 与 216 条的法案",
   "en": "An Act Rationalizing the Composition and Functions of the National Labor Relations Commission, amending for this purpose Article 213, 214, 215 AND 216 of P.D. No. 442, as amended, otherwise known as the Labor Code of the Philippines",
   "orig": "An Act Rationalizing the Composition and Functions of the National Labor Relations Commission, amending for this purpose Article 213, 214, 215 AND 216 of P.D. No. 442, as amended, otherwise known as the Labor Code of the Philippines"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity. - This Ac shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two newspapers of general circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Rationalizing the Composition and Functions of the National Labor Relations Commission, amending for this purpose Article 213, 214, 215 AND 216 of P.D. No. 442, as amended, otherwise known as the Labor Code of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-34-2001-WOMEN-AND-GIRLS-PROTECTION-PLACE-OF-SAFETY-F5A9AD",
  "title": {
-  "zh": null,
+  "zh": "妇女与女童保护安全场所规则 2001",
   "en": "WOMEN AND GIRLS PROTECTION PLACE OF SAFETY RULES 2001",
   "orig": null
  },
@@ -1210,5 +1210,13 @@
     "en": "( 1) The Minister shall appoint a committee to be called \"The Discharge\n\n(2) Any member of the Discharge Committee may at any time visit any place and during such a visit may(a) inspect the several wards and other apartments or divisions of the\n\n(b) inspect and test the quality and quantity of the food for the women\n\n(c) hear complains, if any, of the women and girls and question any or member of staff.\n\n(3) During a visit to a place of safety, a member of the Committee shall(a) ascertain as far as possible, whether these Rules are complied with;\n\n(b) call the attention 'of the Warden to any inequality that may be observed in the working of the place of safety or in the treatment of\n\n(c) exercise and perform such other powers and duties as the Commissioner may determine. (4} The Committee shall appoint one or more of its members, in rotation, to visit a place of safety in every month. Made this 18th. day of Muharam, 1422 Hijriah corresponding to the 12th. day of April, 2001.\n\nORANG KAYA DIGADONG SERI LELA DATO SERI PADUKA\n\nHAJI AWANG HUSSAIN BIN PEHIN ORANG KAYA DIGADONG SERI DIRAJA DATO LAlLA UTAMA HAJI AWANG MOHD. YUSOF Minister of Culture, Youth and Sports, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "WOMEN AND GIRLS PROTECTION PLACE OF SAFETY RULES 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

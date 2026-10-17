@@ -1,7 +1,7 @@
 {
  "id": "BN-S-75-2008-E-HALAL-CERTIFICATE-AND-HALAL-LABEL-AM-ORDER-2008",
  "title": {
-  "zh": null,
+  "zh": "清真证书与清真标签修正命令 2008",
   "en": "HALAL CERTIFICATE AND HALAL LABEL AM ORDER 2008",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "The principal Order is amended by repealing the Third Schedule and by SCHEDULE 12(1) and 43(5))\n\nUGAMA ISLAM\n\nCOUNCIL\n\nBRUNEI DARUSSALAM\n\nDARUSSALAM Bah 12(1)/43(5) dari Perintah Sijil Halal dan Label Halal, 2005 of Halal Certificate and Halal Label Order; 2005 (Nama dan tempat perniagaan) (Name and place of business) adalah dibenarkan untuk menggunakan Label Halal di atas is authorised to use the Halal Label as above pada bungkusan-bungkusan ............................................. [nama makanan) on packages of ...................................................................... (name of food) SAH SEHINGGA: .......................................................................... . Tarikh: ................................ . Date: Setiausaha Majlis U gama Islam Secretary of the Religious Council\". Made this 16th. day of Syaaban, 1429 Hijriah corresponding to the18th. day of August, 2008 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nYANG DI-PERTUAN\n\nBRUNEI DARUSSALAM Dicetak oleh PENGIRAN HAJI ZAINAL ABIDIN BIN PENGIRAN SERI WIJAYA PENGIRAN HAJI AHMAD, Pemangku Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "HALAL CERTIFICATE AND HALAL LABEL AM ORDER 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

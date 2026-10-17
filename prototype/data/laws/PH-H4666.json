@@ -1,7 +1,7 @@
 {
  "id": "PH-H4666",
  "title": {
-  "zh": null,
+  "zh": "将北伊罗戈省巴塔克市镇班泰-巴塔克村的名称变更为纳卢普塔村的法案",
   "en": "An Act Changing the Name of Barrio Bantay-Batac in the Municipality of Batac, Province of Ilocos Norte, to Barrio Nalupta",
   "orig": "An Act Changing the Name of Barrio Bantay-Batac in the Municipality of Batac, Province of Ilocos Norte, to Barrio Nalupta"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved. August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Barrio Bantay-Batac in the Municipality of Batac, Province of Ilocos Norte, to Barrio Nalupta",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

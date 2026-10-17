@@ -1,7 +1,7 @@
 {
  "id": "SG-H3108",
  "title": {
-  "zh": null,
+  "zh": "医疗（治疗、教育与研究）（认可医院与医学院）公告 2010",
   "en": "Medical (Therapy, Education and Research) (Approved Hospitals and Medical Schools) Notification 2010",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nPart 1\nApproved Hospitals\n1. Alexandra Hospital\n2. Changi General Hospital\n3. Khoo Teck Puat Hospital\n4. KK Women’s and Children’s Hospital\n5. National Cancer Centre Singapore\n6. National Dental Centre Singapore\n7. National Heart Centre Singapore\n8. National Neuroscience Institute\n9. National Skin Centre\n10. National University Hospital\n11. Ng Teng Fong General Hospital\n12. Sengkang General Hospital\n13. Singapore General Hospital\n14. Singapore National Eye Centre\n15. Tan Tock Seng Hospital\n16. Woodlands Hospital (formerly known as Woodlands Health)\n[S 549/2026 wef 02/01/2026]\nPart 2\nAPPROVED MEDICAL SCHOOLS\n1. Duke‑NUS Graduate Medical School\n2. Lee Kong Chian School of Medicine, Nanyang Technological University\n3. Yong Loo Lin School of Medicine, National University of Singapore\n4. Health and Social Sciences, Singapore Institute of Technology\n[S 549/2026 wef 06/08/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Medical (Therapy, Education and Research) (Approved Hospitals and Medical Schools) Notification 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

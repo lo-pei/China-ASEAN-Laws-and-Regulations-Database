@@ -1,7 +1,7 @@
 {
  "id": "SG-H682",
  "title": {
-  "zh": null,
+  "zh": "合作社（第 59（6）条修改）命令 2021",
   "en": "Co-operative Societies (Modification of Section 59(6)) Order 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 59(6) of the Act is, in its application to the Singapore National Co‑operative Federation Limited, modified to the extent that —\n(a)all or any of the duties of the secretary or treasurer, or both, may be delegated under section 59(6)(a) of the Act to an individual who is appointed as a chief executive officer of the Singapore National Co‑operative Federation Limited, whether or not that individual’s appointment is on a full time basis; and\n(b)where all the duties of the secretary or treasurer, or both, are delegated to a chief executive officer, whether or not appointed on a full time basis, the Singapore National Co‑operative Federation Limited may under section 59(6)(b) of the Act operate without electing a secretary or a treasurer, or both."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (Modification of Section 59(6)) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

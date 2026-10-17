@@ -1,7 +1,7 @@
 {
  "id": "SG-H1983",
  "title": {
-  "zh": null,
+  "zh": "所得税（认可一般保险人特别准备金的扣除）条例 2006",
   "en": "Income Tax (Deduction for Special Reserves of Approved General Insurers) Regulations 2006",
   "orig": null
  },
@@ -191,5 +191,13 @@
     "en": "THE SCHEDULE\nRegulations 4(3)(a), 5(1)(a) and 6(1)\nTransfers in and out of special reserves\nOffshore risks\nAnnual limit\n(A)\nMaximum limit\n(B)\nIncurred loss trigger ratio\n(C)\n1.\nProperty (including consequential loss risks but excluding non-proportional treaty risks)\n3%\n25%\n72.5%\n2.\nProperty\n(non-proportional treaty risks, including consequential loss risks)\n11%\n75%\n80%\n3.\nMarine and aviation\nHull and liability\n6%\n50%\n95%\n4.\nMortgage indemnity\n12%\n150%\n95%\n5.\nNuclear, pharmaceutical and pollution\n75%\n600%\n75%."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Income Tax (Deduction for Special Reserves of Approved General Insurers) Regulations 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

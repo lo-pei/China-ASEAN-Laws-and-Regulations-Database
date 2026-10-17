@@ -1,7 +1,7 @@
 {
  "id": "PH-H7744",
  "title": {
-  "zh": null,
+  "zh": "以特别津贴形式为国家检察署人员与司法部国家律师增加报酬并为其他目的法案",
   "en": "An Act Granting Additional Compensation in the Form of Special Allowances for the Members of the National Prosecution Services and the State Counsels in the Department of Justice, and for other purposes",
   "orig": "An Act Granting Additional Compensation in the Form of Special Allowances for the Members of the National Prosecution Services and the State Counsels in the Department of Justice, and for other purposes"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Additional Compensation in the Form of Special Allowances for the Members of the National Prosecution Services and the State Counsels in the Department of Justice, and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

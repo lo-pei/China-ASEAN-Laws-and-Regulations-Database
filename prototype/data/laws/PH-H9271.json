@@ -1,7 +1,7 @@
 {
  "id": "PH-H9271",
  "title": {
-  "zh": null,
+  "zh": "将新比斯开省Kasibu市镇Pudi描笼涯由技术教育与技能发展署（TESDA）管理的Kasibu国立农业学校更名为新比斯开理工学院的法案",
   "en": "An Act Changing the Name of Kasibu National Agricultural School Being Administered By the Technical Education and Skills Development Authority (TESDA) in Barangay Pudi, Municipality of Kasibu, Province of Nueva Vizcaya to Nueva Vizcaya Polytechnic Institute",
   "orig": "An Act Changing the Name of Kasibu National Agricultural School Being Administered By the Technical Education and Skills Development Authority (TESDA) in Barangay Pudi, Municipality of Kasibu, Province of Nueva Vizcaya to Nueva Vizcaya Polytechnic Institute"
  },
@@ -62,5 +62,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Kasibu National Agricultural School Being Administered By the Technical Education and Skills Development Authority (TESDA) in Barangay Pudi, Municipality of Kasibu, Province of Nueva Vizcaya to Nueva Vizcaya Polytechnic Institute",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

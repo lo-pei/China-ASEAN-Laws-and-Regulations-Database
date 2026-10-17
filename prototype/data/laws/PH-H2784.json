@@ -1,7 +1,7 @@
 {
  "id": "PH-H2784",
  "title": {
-  "zh": null,
+  "zh": "修订第1900号共和国法第2条第g款第499页黎刹省第34项的法案",
   "en": "An Act to Amend Item 34, for the Province of Rizal, Page 499, Paragraph g, Section Two of Republic Act Numbered Nineteen Hundred",
   "orig": "An Act to Amend Item 34, for the Province of Rizal, Page 499, Paragraph g, Section Two of Republic Act Numbered Nineteen Hundred"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Item 34, for the Province of Rizal, Page 499, Paragraph g, Section Two of Republic Act Numbered Nineteen Hundred",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

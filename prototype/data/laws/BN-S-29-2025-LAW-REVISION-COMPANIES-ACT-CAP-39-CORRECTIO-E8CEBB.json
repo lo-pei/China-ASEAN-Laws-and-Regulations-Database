@@ -1,0 +1,82 @@
+{
+ "id": "BN-S-29-2025-LAW-REVISION-COMPANIES-ACT-CAP-39-CORRECTIO-E8CEBB",
+ "title": {
+  "zh": "法律修订公司法第 39 章更正命令 2025",
+  "en": "LAW REVISION COMPANIES ACT CAP 39 CORRECTION ORDER 2025",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p27",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 3,
+ "chars": 1006,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-29-2025-LAW-REVISION-COMPANIES-ACT-CAP-39-CORRECTION-ORDER-2025-.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-29-2025-LAW-REVISION-COMPANIES-ACT-CAP-39-CORRECTION-ORDER-2025-.pdf》（1 页），本次切分 3 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-29-2025-LAW-REVISION-COMPANIES-ACT-CAP-39-CORRECTIO-E8CEBB-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Order may be cited as the Law Revision (Companies Act (Chapter 39)) Correction Order, 2025 and shall be deemed to have commenced on 11th December 2021. Rectification"
+   }
+  },
+  {
+   "id": "BN-S-29-2025-LAW-REVISION-COMPANIES-ACT-CAP-39-CORRECTIO-E8CEBB-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section 320 of the Companies Act (Chapter 39) included in the revised edition of the Laws of Brunei is rectified by deleting \"{Repealed by S 27/2019}\" and by substituting the following therefor - \"Costs in actions by certain limited companies"
+   }
+  },
+  {
+   "id": "BN-S-29-2025-LAW-REVISION-COMPANIES-ACT-CAP-39-CORRECTIO-E8CEBB-A320",
+   "no": 320,
+   "noLabel": {
+    "en": "Section 320."
+   },
+   "text": {
+    "en": "Where a limited company is plaintiff in any action or other legal proceeding, any judge having jurisdiction in the matter may, if it appears by credible testimony that there is reason to believe that the company will be unable to pay the costs of the defendant if successful in his defence, require sufficent security to be given for those costs, and may stay all proceedings until the security is given.\". Made this 26th. day of Jamadilakhir, 1447 Hijriah corresponding to the 17th. day of December, 2025.\n\nDATIN SERI PADUKA DAYANG HAJAH NOR HASHIMAH BINTI HAJI MUHAMMED TAIB Attorney General."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "LAW REVISION COMPANIES ACT CAP 39 CORRECTION ORDER 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

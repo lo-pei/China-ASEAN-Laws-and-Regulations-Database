@@ -1,7 +1,7 @@
 {
  "id": "SG-H1359",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（DPWCS 区域宣告）公告 2020",
   "en": "Environmental Public Health (Declaration of DPWCS Area) Notification 2020",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nKampong Bugis DPWCS area\nThe Kampong Bugis DPWCS area comprises the area the boundary of which starts at Geylang Road at the Sir Arthur’s Bridge and continues progressively —\n(a)generally west along Kallang Road until its junction with Crawford Street;\n(b)generally south along Crawford Street until the Crawford Bridge; and\n(c)generally follows the bank of the Rochor River and Kallang River until Sir Arthur’s Bridge along Geylang Road,\nand which is more particularly demarcated in the map below, but excludes the following premises within the area:\n(d)the Kallang Rivergreen Building;\n(e)the Kallang Riverside Condominium;\n(f)the Sri Manmatha Karuneshvarar Temple;\n(g)The Riverine By The Park Condominium."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Declaration of DPWCS Area) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

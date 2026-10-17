@@ -1,7 +1,7 @@
 {
  "id": "PH-H5005",
  "title": {
-  "zh": null,
+  "zh": "授予 Federico Z. Salvador 在伊洛伊洛市建设、运营和维护制冰厂与冷藏库的特许权法案",
   "en": "An Act Granting Federico Z. Salvador a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the City of Iloilo.",
   "orig": "An Act Granting Federico Z. Salvador a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the City of Iloilo."
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without the Executive approval, June 17, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Federico Z. Salvador a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage in the City of Iloilo.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5900",
  "title": {
-  "zh": null,
+  "zh": "将巴拉望省普林塞萨港市Puerto Princesa省立医院由50张床位医院扩为75张床位医院并为此拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Puerto Princesa Provincial Hospital in the City of Puerto Princesa, Province of Palawan, From A Fifty-bed Capacity Hospital Into A Seventy-five-bed Capacity Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Puerto Princesa Provincial Hospital in the City of Puerto Princesa, Province of Palawan, From A Fifty-bed Capacity Hospital Into A Seventy-five-bed Capacity Hospital, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Puerto Princesa Provincial Hospital in the City of Puerto Princesa, Province of Palawan, From A Fifty-bed Capacity Hospital Into A Seventy-five-bed Capacity Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

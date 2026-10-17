@@ -1,7 +1,7 @@
 {
  "id": "SG-H273",
  "title": {
-  "zh": null,
+  "zh": "审计长审计账目",
   "en": "Auditor-General to Audit Accounts",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Bankruptcy Act\n(Chapter 20, Section 25 (2))\nAuditor-general to Audit Accounts\nN 3\nG.N. No. S 342/1988\nREVISED EDITION 2002\n(31st January 2002)\n[4th November 1988]\nThe Minister for Law has appointed the Auditor-General, Singapore, to audit the accounts of the Official Assignee.\n[G.N. No. S 342/88]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Auditor-General to Audit Accounts",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

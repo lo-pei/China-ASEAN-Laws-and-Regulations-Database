@@ -1,7 +1,7 @@
 {
  "id": "PH-H2060",
  "title": {
-  "zh": null,
+  "zh": "将政府公司法律顾问职位与总检察长职位区分、规定其任命与薪金并拨付必要经费，并为其他目的",
   "en": "An Act to Declare the Position of Government Corporate Counsel Distinct and Separate from that of the Solicitor General, Provide for His Appointment and Salary and Appropriate the Necessary Funds Therefor, and for Other Purposes",
   "orig": "An Act to Declare the Position of Government Corporate Counsel Distinct and Separate from that of the Solicitor General, Provide for His Appointment and Salary and Appropriate the Necessary Funds Therefor, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Declare the Position of Government Corporate Counsel Distinct and Separate from that of the Solicitor General, Provide for His Appointment and Salary and Appropriate the Necessary Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3550",
  "title": {
-  "zh": null,
+  "zh": "规划（建屋发展局商业处所与宿舍授权）公告 2011",
   "en": "Planning (Housing and Development Board Commercial Premises and Living Quarters Authorisation) Notification 2011",
   "orig": null
  },
@@ -136,5 +136,13 @@
     "en": "SECOND SCHEDULE\nParagraph 3(2)\nExcluded purposes and uses\nin relation to HDB living quarters\n1. Class III\n:\nUse as a restaurant\n2. Class VII\n:\nUse as a light industrial building\n3. Class VIII\n:\nUse as a general industrial building\n4. Class IX\n:\nUse as a special industrial building\n5. Class X\n:\nUse as a warehouse\n6. Class XV\n:\nUse as a nightclub\n7. Class XVI\n:\nUse as a pet shop\n8. Use as a bar or pub\n9. Use as a wet market or a place for sale of market produce\n10. Use as a place for sale of motor vehicle parts and accessories\n11. Use as a place for sale of marine vessel parts\n12. Use as a place of worship\n13. Use as a place for sale of coffins\n14. Use as a funeral parlour\n15. Use as a workers’ dormitory."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Planning (Housing and Development Board Commercial Premises and Living Quarters Authorisation) Notification 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

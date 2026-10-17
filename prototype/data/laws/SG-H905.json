@@ -1,7 +1,7 @@
 {
  "id": "SG-H905",
  "title": {
-  "zh": null,
+  "zh": "抗击新冠韧性证书与奖章规则 2022",
   "en": "COVID-19 Resilience Certificate and Medal Rules 2022",
   "orig": null
  },
@@ -191,5 +191,13 @@
     "en": "THE SCHEDULE\nRule 7(4)\nCOVID-19 Resilience Medal"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "COVID-19 Resilience Certificate and Medal Rules 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

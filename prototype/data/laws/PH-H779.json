@@ -1,7 +1,7 @@
 {
  "id": "PH-H779",
  "title": {
-  "zh": null,
+  "zh": "授予 Associated Steamship Lines 建设、安装和运营私人无线电台以与菲律宾水域海上船舶收发无线电话通信的临时许可的法案",
   "en": "An Act Granting to the Associated Steamship Lines a Temporary Permit to Construct, Install, and Operate a Private Radio Station for the Reception and Transmission of Radio-telephone Communications With Off-shore Vessels in Philippine Waters",
   "orig": "An Act Granting to the Associated Steamship Lines a Temporary Permit to Construct, Install, and Operate a Private Radio Station for the Reception and Transmission of Radio-telephone Communications With Off-shore Vessels in Philippine Waters"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting to the Associated Steamship Lines a Temporary Permit to Construct, Install, and Operate a Private Radio Station for the Reception and Transmission of Radio-telephone Communications With Off-shore Vessels in Philippine Waters",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

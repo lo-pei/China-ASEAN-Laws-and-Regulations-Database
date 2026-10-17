@@ -1,7 +1,7 @@
 {
  "id": "PH-H3036",
  "title": {
-  "zh": null,
+  "zh": "禁止雇用罢工替代工人，禁止治安官员及/或武装人员或意图替代罢工者的人员护送其进出罢工区域，并规定处罚",
   "en": "An Act to Prohibit the Employment of Strike Breakers and the Transporting or Escorting by Peace Officers and/or Armed Persons or Persons Seeking to Replace Strikers in Entering and/or Leaving the Strike Area, and to Provide Penalties Thereof",
   "orig": "An Act to Prohibit the Employment of Strike Breakers and the Transporting or Escorting by Peace Officers and/or Armed Persons or Persons Seeking to Replace Strikers in Entering and/or Leaving the Strike Area, and to Provide Penalties Thereof"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Prohibit the Employment of Strike Breakers and the Transporting or Escorting by Peace Officers and/or Armed Persons or Persons Seeking to Replace Strikers in Entering and/or Leaving the Strike Area, and to Provide Penalties Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

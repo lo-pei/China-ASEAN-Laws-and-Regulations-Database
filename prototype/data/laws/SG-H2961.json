@@ -1,7 +1,7 @@
 {
  "id": "SG-H2961",
  "title": {
-  "zh": null,
+  "zh": "土地业权（分层）（初始期间变更）条例 1996",
   "en": "Land Titles (Strata) (Variation of Initial Period) Regulations 1996",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Land Titles (Strata) Act\n(Chapter 158)\nLand Titles (Strata) (Variation of Initial Period) Regulations 1996\nIn exercise of the powers conferred by the definition of “initial period” in section 3 and by section 130 of the Land Titles (Strata) Act, the Minister for Law hereby makes the following Regulations:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Land Titles (Strata) (Variation of Initial Period) Regulations 1996",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-26-1990-E-EMERGENCY-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-1990",
+ "title": {
+  "zh": "紧急轻微罪行法修正命令 1990",
+  "en": "EMERGENCY MINOR OFFENCES ACT AMENDMENT ORDER 1990",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p27",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 1878,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-26-1990-E-EMERGENCY-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-1990.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-26-1990-E-EMERGENCY-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-1990.pdf》（1 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-26-1990-E-EMERGENCY-MINOR-OFFENCES-ACT-AMENDMENT-ORDER-1990-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 26\n\nCONSTITUTION OF BRUNEI DARUSSALAM (Order under section 83(3)) EMERGENCY (MINOR OFFENCES ACT) (AMENDMENT) ORDER, 1990 In exercise of the powers conferred by subsection (3) of section 83 of the Constitution of Brunei Darussalam, His Majesty The Sultan and Yang Di-Pertuan of Brunei Darussalam hereby makes the following OrderCitation. 1. This Order may be cited as the Emergency (Minor Offences Act) (Amendment) Order, 1990. Amendment of 2. Section 34 of the Minor Offences Act, in this Order referred to as section 34 of the Act, is amended by - Chapter 30.\n\n(a) inserting \"(1)\" immediately before \"No\" in the first line;\n\n(b) adding the following new subsection - \"(2) Where any such building has been leased, subleased, let or sublet to any person or where a person has been permitted or allowed to occupy any such building, the owner or occupier of such building shall, until the contrary is proved, be presumed to have leased, subleased, let or sublet the building to such person or to have permitted or allowed such person to occ~py it knowing that he was person other than a member of his family.\" Amendment of 3. Section 37 of the Act is amended by - section 37.\n\n(a) repealing subsection ( 1) and substituting the following new subsection therefor - \" ( 1) Where a person has been convicted of an offence under section 33 or under paragraph (a) of section 34 the court may order that the building, erection, alteration, addition or extension (as the case may be) be pulled down, demolished and the site thereof cleared, and thereupon the District Officer shall cause such order to be executed;\"\n\n(b) deleting \"by District Officer\" from the marginal note. Made this 24th day of September, 1990 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DAR US SALAM"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "EMERGENCY MINOR OFFENCES ACT AMENDMENT ORDER 1990",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

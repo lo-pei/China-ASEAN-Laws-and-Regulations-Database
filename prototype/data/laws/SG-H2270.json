@@ -1,7 +1,7 @@
 {
  "id": "SG-H2270",
  "title": {
-  "zh": null,
+  "zh": "所得税（Great Wave 航运私人有限公司——第 13(4) 条豁免）公告 2025",
   "en": "Income Tax (Great Wave Navigation Pte. Ltd. — Section 13(4) Exemption) Notification 2025",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) The interest of US$79,708.01 paid by Great Wave Navigation Pte. Ltd. to Shinsei Bank, Limited on 21 February 2023 in respect of the loan amount of US$20,020,000 under the loan agreement dated 11 December 2020 between Great Wave Navigation Pte. Ltd. and Shinsei Bank, Limited (as amended under the deed dated 21 February 2022) for financing the acquisition of the vessel “GWN 3”, is exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter from the Ministry of Finance dated 10 March 2025 and addressed to Great Wave Navigation Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Great Wave Navigation Pte. Ltd. — Section 13(4) Exemption) Notification 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

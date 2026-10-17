@@ -1,7 +1,7 @@
 {
  "id": "PH-H2653",
  "title": {
-  "zh": null,
+  "zh": "反贪污与腐败行为法",
   "en": "The Antigraft and Corrupt Practices Act",
   "orig": "An Act to Amend Section Seven of Republic Act Numbered Thirty Hundred and Nineteen, Otherwise Known as the “The Antigraft and Corrupt Practices Act” so as to Exempt Classroom Teachers, Laborers, Casual and Temporary Employees, and Barrio Official from the Requirements Thereof"
  },
@@ -62,5 +62,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Antigraft and Corrupt Practices Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

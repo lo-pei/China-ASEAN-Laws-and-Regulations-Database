@@ -1,7 +1,7 @@
 {
  "id": "PH-H6588",
  "title": {
-  "zh": null,
+  "zh": "授予 Notre Dame 广播公司在菲律宾为宗教、教育与文化及商业目的建设、安装、运营和维护无线电广播站的特许经营权法案",
   "en": "An Act Granting the Notre Dame Broadcasting Corporation a Franchise to Construct, Install, Operate, and Maintain Radio Broadcasting Stations in the Philippines for Religious, Educational, and Cultural as Well as for Commercial Purposes",
   "orig": "An Act Granting the Notre Dame Broadcasting Corporation a Franchise to Construct, Install, Operate, and Maintain Radio Broadcasting Stations in the Philippines for Religious, Educational, and Cultural as Well as for Commercial Purposes"
  },
@@ -182,5 +182,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Notre Dame Broadcasting Corporation a Franchise to Construct, Install, Operate, and Maintain Radio Broadcasting Stations in the Philippines for Religious, Educational, and Cultural as Well as for Commercial Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -71,14 +71,15 @@
    }
   },
   {
-   "id": "PH-H5766-A2_2",
+   "id": "PH-H5766-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Section 4 of Commonwealth Act No. 111, as amended, is hereby repealed and in lieu thereof, Section 4 shall read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5766-A4",
@@ -91,14 +92,15 @@
    }
   },
   {
-   "id": "PH-H5766-A3_2",
+   "id": "PH-H5766-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "Sections 5, 6, 7 and 8 of Commonwealth Act No. 111, as amended, are hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5766-A5",
@@ -141,14 +143,15 @@
    }
   },
   {
-   "id": "PH-H5766-A4_2",
+   "id": "PH-H5766-A4-d2",
    "no": 4,
    "noLabel": {
     "en": "Section 4."
    },
    "text": {
     "en": "Sections 10 and 11 of Commonwealth Act No. 111, as amended, are hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5766-A10",
@@ -171,24 +174,26 @@
    }
   },
   {
-   "id": "PH-H5766-A5_2",
+   "id": "PH-H5766-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Section 5."
    },
    "text": {
     "en": "If any section or provision of this Act is held invalid, all other provisions not affected thereby shall remain valid."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H5766-A6_2",
+   "id": "PH-H5766-A6-d2",
    "no": 6,
    "noLabel": {
     "en": "Section 6."
    },
    "text": {
     "en": "This Act shall take effect upon the completion of its publication in at least two (2) national newspapers of general circulation."
-   }
+   },
+   "dupIndex": 2
   }
  ]
 }

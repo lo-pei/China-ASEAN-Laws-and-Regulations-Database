@@ -1,7 +1,7 @@
 {
  "id": "PH-H6839",
  "title": {
-  "zh": null,
+  "zh": "将新比斯开省 Bayombong 新比斯开科学中学的行政监督权由教育、文化与体育部转归科学技术部",
   "en": "An Act Transferring the Administrative Supervision of the Nueva Vizcaya Science High School in Bayombong, Nueva Vizcaya, From the Department of Education, Culture and Sports To the Department of Science and Technology",
   "orig": "An Act Transferring the Administrative Supervision of the Nueva Vizcaya Science High School in Bayombong, Nueva Vizcaya, From the Department of Education, Culture and Sports To the Department of Science and Technology"
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring the Administrative Supervision of the Nueva Vizcaya Science High School in Bayombong, Nueva Vizcaya, From the Department of Education, Culture and Sports To the Department of Science and Technology",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

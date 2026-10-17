@@ -1,7 +1,7 @@
 {
  "id": "PH-H3532",
  "title": {
-  "zh": null,
+  "zh": "规定为拉乌尼翁省3 Additional Assistant 省立 Fiscals，为此修订《行政法典》第1674条（经修正）的法案",
   "en": "An Act Providing for Three Additional Assistant Provincial Fiscals for the Province of La Union, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended",
   "orig": "An Act Providing for Three Additional Assistant Provincial Fiscals for the Province of La Union, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect on January second, nineteen hundred sixty-six.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for Three Additional Assistant Provincial Fiscals for the Province of La Union, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

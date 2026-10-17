@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-19-RG-2-2002-NATIONAL-REGISTRATION-CONTROL-OF-PHO-479E45",
  "title": {
-  "zh": null,
+  "zh": "RG 2 2002 版国民登记照片管制条例",
   "en": "RG 2 2002 ED NATIONAL REGISTRATION CONTROL OF PHOTOGRAPHS REGULATIONS",
   "orig": null
  },
@@ -83,5 +83,13 @@
     "en": "Any person who fails to comply with these Regulations shall be guilty of an offence: Penalty, a fine of $500 or imprisonment for 6 months."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 2 2002 ED NATIONAL REGISTRATION CONTROL OF PHOTOGRAPHS REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

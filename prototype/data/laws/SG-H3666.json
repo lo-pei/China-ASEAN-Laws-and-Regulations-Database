@@ -1,7 +1,7 @@
 {
  "id": "SG-H3666",
  "title": {
-  "zh": null,
+  "zh": "技能与劳动力发展局法 2026",
   "en": "Skills and Workforce Development Agency Act 2026",
   "orig": null
  },
@@ -1366,5 +1366,13 @@
     "en": "83.—(1) Anything done by the SSG before the appointed date under —\n(a)the Private Education Act 2009 as in force immediately before that date; or\n(b)the Skills Development Levy Act 1979 as in force immediately before that date,\ncontinues to be valid as from that date as if it were done by the Agency under that respective Act.\n(2) For a period of 2 years after the date of commencement of any provision of this Act, the Minister may, by regulations, prescribe any additional provisions of a saving or transitional nature consequent on the enactment of that provision that the Minister may consider necessary or expedient."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Skills and Workforce Development Agency Act 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

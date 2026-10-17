@@ -1,7 +1,7 @@
 {
  "id": "SG-H828",
  "title": {
-  "zh": null,
+  "zh": "植物管制（植物培植）（发牌与认证）规则",
   "en": "Control of Plants (Cultivation of Plants) (Licensing and Certification) Rules",
   "orig": null
  },
@@ -536,5 +536,13 @@
     "en": "SECOND SCHEDULE\nRule 20(1)(d) and (e)\nRequirements for Storage and Disposal of Pesticide and Cleaning and Disposal of Pesticide Container\n1. Requirements for storage of pesticide\n(1) Any pesticide used in the cultivation of plants shall be stored —\n(a)in a dry and well-ventilated place away from direct sunlight or any dwelling-house or watercourse or any food, animal feed or other combustible material;\n(b)under lock and key and out of the reach of children;\n(c)in its original container and with its original label intact; and\n(d)in accordance with any other directions, as the Director-General may give from time to time.\n[S 296/2004 wef 01/06/2004]\n(2) There shall be placed at a conspicuous part of the place in which any pesticide is stored a sign in such form as the Director-General may require, stating that that place is used for the storage of pesticides.\n[S 296/2004 wef 01/06/2004]\n2. Requirements for the cleaning and disposal of pesticide container\n(1) Any container which has been used to contain any pesticide shall be emptied and rinsed at least 3 times before being disposed of.\n(2) The water used to rinse the container shall not be discharged directly into any watercourse, drain or water source\n(3) The container shall not be used to contain water for human or animal use, food or animal feed and shall be rendered unusable before disposal.\n(4) The disposal of any container used to contain any pesticide shall be carried out by a chemical disposal company approved by the Director-General.\n[S 296/2004 wef 01/06/2004]\n3. Requirements for the disposal of pesticide\n(1) No pesticide, including unused or unfinished concentrates or spray solutions, shall be discharged directly into any watercourse, watersource or drain, or in a manner that may contaminate the environment or pose a hazard to livestock, wildlife or human health.\n(2) The disposal of any pesticide shall be carried out by a chemical disposal company approved by the Director-General.\n[S 296/2004 wef 01/06/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Control of Plants (Cultivation of Plants) (Licensing and Certification) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

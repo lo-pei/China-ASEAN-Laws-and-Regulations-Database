@@ -1,7 +1,7 @@
 {
  "id": "PH-H7668",
  "title": {
-  "zh": null,
+  "zh": "宣布 12 月 4 日至 10 日为全国人权意识周并为其他目的法案",
   "en": "An act declaring December 4 to 10 as National Human Rights Consciousness Week in the country and for other purposes\"",
   "orig": "An act declaring December 4 to 10 as National Human Rights Consciousness Week in the country and for other purposes\""
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act declaring December 4 to 10 as National Human Rights Consciousness Week in the country and for other purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

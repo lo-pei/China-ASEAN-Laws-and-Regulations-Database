@@ -1,7 +1,7 @@
 {
  "id": "PH-H8140",
  "title": {
-  "zh": null,
+  "zh": "授予 Panay 电话公司（Pantelco III）在伊洛伊洛省六个市镇建设、安装、设立、运营和维护本地交换网络的特许经营权法案",
   "en": "An Act Granting the Panay Telephone Corporation (Pantelco III) a Franchise to Construct, Install, Establish, Operate and Maintain Local Exchange Network in the Municipalities of Cabatuan,.Janiuay, Calinog, Lambunao, Mina and Badiangan, All in the Prvince of Iloilo.",
   "orig": "An Act Granting the Panay Telephone Corporation (Pantelco III) a Franchise to Construct, Install, Establish, Operate and Maintain Local Exchange Network in the Municipalities of Cabatuan,.Janiuay, Calinog, Lambunao, Mina and Badiangan, All in the Prvince of Iloilo."
  },
@@ -240,5 +240,13 @@
     "en": "Effectivity Clause. — This Act shall take effect fifteen (15) days after the date of its publication, upon the initiative of the grantee, in at least two (2) newspaper of national circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Panay Telephone Corporation (Pantelco III) a Franchise to Construct, Install, Establish, Operate and Maintain Local Exchange Network in the Municipalities of Cabatuan,.Janiuay, Calinog, Lambunao, Mina and Badiangan, All in the Prvince of Iloilo.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

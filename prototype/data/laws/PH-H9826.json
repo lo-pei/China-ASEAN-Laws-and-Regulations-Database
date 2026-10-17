@@ -1,7 +1,7 @@
 {
  "id": "PH-H9826",
  "title": {
-  "zh": null,
+  "zh": "授权高等教育在先进能源与绿色建筑技术方面的课程开发与研究生培训并为此拨款的法案",
   "en": "An Act Authorizing Higher Education Curriculum Development and Graduate Training in Advanced Energy and Green Building Technologies, and Appropriating Funds Therefor",
   "orig": "An Act Authorizing Higher Education Curriculum Development and Graduate Training in Advanced Energy and Green Building Technologies, and Appropriating Funds Therefor"
  },
@@ -171,5 +171,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing Higher Education Curriculum Development and Graduate Training in Advanced Energy and Green Building Technologies, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

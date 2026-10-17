@@ -1,7 +1,7 @@
 {
  "id": "PH-H3684",
  "title": {
-  "zh": null,
+  "zh": "授予 J.M. Lontoc 在马尼拉市 Estero De San Lazaro-de la Reina 已由政府租予其的部分水域上方建设商业用结构改良物的特许权",
   "en": "An Act Granting to J.M. Lontoc a Franchise to Construct Structural Improvements for Commercial Use Over Such Portion of the Estero De San Lazaro-de la Reina in the City of Manila as Has Been Leased to Him by the National Government",
   "orig": "An Act Granting to J.M. Lontoc a Franchise to Construct Structural Improvements for Commercial Use Over Such Portion of the Estero De San Lazaro-de la Reina in the City of Manila as Has Been Leased to Him by the National Government"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting to J.M. Lontoc a Franchise to Construct Structural Improvements for Commercial Use Over Such Portion of the Estero De San Lazaro-de la Reina in the City of Manila as Has Been Leased to Him by the National Government",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

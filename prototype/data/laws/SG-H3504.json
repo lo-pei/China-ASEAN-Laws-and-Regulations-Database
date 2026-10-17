@@ -1,7 +1,7 @@
 {
  "id": "SG-H3504",
  "title": {
-  "zh": null,
+  "zh": "药剂师注册法 2007",
   "en": "Pharmacists Registration Act 2007",
   "orig": null
  },
@@ -1244,5 +1244,13 @@
     "en": "THE SCHEDULE\nSections 2 and 73\nActs or activities constituting\n“practice of pharmacy”\n1. Applying the knowledge and science of pharmacy in —\n(a)interpreting, evaluating and implementing prescriptions of persons authorised by law to prescribe medication;\n(b)compounding, labelling, dispensing, distributing and administering medication;\n(c)initiating and modifying medication therapy in accordance with the collaborative practice agreements established and approved by healthcare facilities or voluntary agreements with persons authorised by law to prescribe medication;\n(d)patient assessment and counselling for the purpose of recommending and dispensing medication;\n(e)managing medication therapy;\n(f)evaluating medication use;\n(g)manufacturing and distributing medicinal products, oral dental gums and therapeutic products; and\n(h)quality assurance of medicinal products, oral dental gums and therapeutic products.\n2. In paragraph 1(g) and (h) —\n“medicinal product” has the meaning given by the Medicines Act 1975;\n“oral dental gum” means a health product registered or deemed to be registered as an oral dental gum under the Health Products Act 2007;\n“therapeutic product” means a health product categorised as a therapeutic product in the First Schedule to the Health Products Act 2007.\n[S 554/2016]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Pharmacists Registration Act 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6732",
  "title": {
-  "zh": null,
+  "zh": "将苏里高市北苏里高省医院改设为区域培训医院，名称为Caraga区域医院，并为此拨款的法案",
   "en": "An Act Converting the Surigao Del Norte Provincial Hospital in Surigao City Into A Regional Training Hospital To Be Known As Caraga Regional Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Surigao Del Norte Provincial Hospital in Surigao City Into A Regional Training Hospital To Be Known As Caraga Regional Hospital, and Appropriating Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect immediately upon its approval.\nApproved, February 11, 1997."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Surigao Del Norte Provincial Hospital in Surigao City Into A Regional Training Hospital To Be Known As Caraga Regional Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

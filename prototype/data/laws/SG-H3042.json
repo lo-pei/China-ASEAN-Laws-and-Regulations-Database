@@ -1,7 +1,7 @@
 {
  "id": "SG-H3042",
  "title": {
-  "zh": null,
+  "zh": "酒类管制（供应与消费）（营业时间）命令 2015",
   "en": "Liquor Control (Supply and Consumption) (Trading Hours) Order 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Despite the trading hours specified in any Class 3A, Class 3B or Class 4 liquor licence for licensed premises in a Liquor Control Zone, the daily trading hours for these licensed premises are as follows:\n(a)beginning at 7 a.m. and ending immediately before 10.30 p.m. on any Monday, Tuesday, Wednesday, Thursday or Friday;\n(b)beginning at 7 a.m. and ending immediately before 7 p.m. on any Saturday or Sunday;\n(c)despite sub-paragraphs (a) and (b), where any of those days is a public holiday —\n(i)the daily trading hours begin at 7 a.m. and end immediately before 7 p.m. on the eve of the public holiday; and\n(ii)the daily trading hours begin at 7 a.m. and end immediately before 7 p.m. on each day that is a public holiday."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Liquor Control (Supply and Consumption) (Trading Hours) Order 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

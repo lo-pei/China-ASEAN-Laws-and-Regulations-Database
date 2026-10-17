@@ -1,7 +1,7 @@
 {
  "id": "PH-H349",
  "title": {
-  "zh": null,
+  "zh": "延长第3215号立法法授予Gabriel T. Hernandez（后由Cacho and Hidalgo合伙承接）在北甘马粦省达特市镇的电灯、热力与动力系统特许经营权期限的法案",
   "en": "An Act Extending the Term of the Franchise in Pursuance to the Authority Granted Under Legislative Act Numbered Three Thousand Two Hundred and Fifteen to Gabriel T. Hernandez, and Later Taken Over by the Cacho and Hidalgo Co-Partnership, to Construct, Maintain, and Operate an Electric Light, Heat and Power System in the Municipality of Daet, Province of Camarines Norte",
   "orig": "An Act Extending the Term of the Franchise in Pursuance to the Authority Granted Under Legislative Act Numbered Three Thousand Two Hundred and Fifteen to Gabriel T. Hernandez, and Later Taken Over by the Cacho and Hidalgo Co-Partnership, to Construct, Maintain, and Operate an Electric Light, Heat and Power System in the Municipality of Daet, Province of Camarines Norte"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Term of the Franchise in Pursuance to the Authority Granted Under Legislative Act Numbered Three Thousand Two Hundred and Fifteen to Gabriel T. Hernandez, and Later Taken Over by the Cacho and Hidalgo Co-Partnership, to Construct, Maintain, and Operate an Electric Light, Heat and Power System in the Municipality of Daet, Province of Camarines Norte",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

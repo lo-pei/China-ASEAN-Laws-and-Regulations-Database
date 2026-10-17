@@ -1,7 +1,7 @@
 {
  "id": "SG-H3691",
  "title": {
-  "zh": null,
+  "zh": "拨款法 2025",
   "en": "Supply Act 2025",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nSections 2(2) and 3(2)\nHeads of Expenditure for which\nsums are appropriated\nHead\nTitle\nAppropriation\nfrom\nConsolidated\nFund\nAppropriation\nfrom\nDevelopment\nFund\nTotal\nappropriations\n$\n$\n$\nB\nAttorney‑General’s Chambers\n282,435,100\n5,773,100\n288,208,200\nC\nAuditor‑General’s Office\n46,082,000\n205,000\n46,287,000\nD\nCabinet Office\n1,100,000\n...\n1,100,000\nE\nJudicature\n374,860,600\n14,914,800\n389,775,400\nF\nParliament\n47,784,400\n13,746,000\n61,530,400\nG\nPresidential Councils\n1,672,800\n…\n1,672,800\nI\nMinistry of Social and Family Development\n5,262,330,000\n209,177,400\n5,471,507,400\nJ\nMinistry of Defence\n22,099,590,500\n2,226,482,800\n24,326,073,300\nK\nMinistry of Education\n14,647,939,200\n852,000,000\n15,499,939,200\nL\nMinistry of Sustainability and the Environment\n2,658,974,300\n1,477,646,700\n4,136,621,000\nM\nMinistry of Finance\n1,300,315,000\n127,707,700\n1,428,022,700\nN\nMinistry of Foreign Affairs\n576,173,800\n36,600,000\n612,773,800\nO\nMinistry of Health\n18,795,327,500\n2,067,888,400\n20,863,215,900\nP\nMinistry of Home Affairs\n8,027,752,000\n1,247,341,500\n9,275,093,500\nQ\nMinistry of Digital Development and Information\n2,956,698,500\n103,188,200\n3,059,886,700\nR\nMinistry of Law\n356,441,800\n138,973,500\n495,415,300\nS\nMinistry of Manpower\n3,584,806,700\n119,216,800\n3,704,023,500\nT\nMinistry of National Development\n8,344,980,000\n11,140,637,200\n19,485,617,200\nU\nPrime Minister’s Office\n1,108,629,600\n106,620,900\n1,215,250,500\nV\nMinistry of Trade and Industry\n1,638,234,500\n6,309,880,900\n7,948,115,400\nW\nMinistry of Transport\n2,798,018,900\n12,528,311,800\n15,326,330,700\nX\nMinistry of Culture, Community and Youth\n2,270,827,200\n510,521,900\n2,781,349,100\nZ\nFinancial Transfers\n42,623,333,500\n…\n42,623,333,500\nTotal\n139,804,307,900\n39,236,834,600\n179,041,142,500"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Supply Act 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

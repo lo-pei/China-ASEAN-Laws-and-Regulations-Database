@@ -1,7 +1,7 @@
 {
  "id": "SG-H686",
  "title": {
-  "zh": null,
+  "zh": "合作社（修改）（合并）命令",
   "en": "Co-operative Societies (Modification) (Consolidation) Order",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Co-operative Societies Act\n(Chapter 62, Section 97)\nCo-operative Societies (Modification) (Consolidation) Order\nO 4\nG.N. No. S 329/1998\nREVISED EDITION 2003\n(31st January 2003)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (Modification) (Consolidation) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2853",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（国际清算银行）命令 2020",
   "en": "International Organisations (Immunities and Privileges) (Bank for International Settlements) Order 2020",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) Subject to sub‑paragraph (3), each of the following individuals enjoys immunity from suit and legal process in respect of all words spoken and written and acts performed by the individual within the limits of his or her official capacity:\n(a)a member of the personnel of the BISIH Singapore Centre;\n(b)an employee of the BIS visiting the BISIH Singapore Centre to carry out a temporary mission for the BIS.\n(2) Subject to sub‑paragraph (3), each of the following individuals who is not a citizen or permanent resident of Singapore enjoys exemption from taxation on the salary and emolument paid to the individual by the BIS, central bank, the Government or statutory body, as the case may be:\n(a)a member of the personnel of the BISIH Singapore Centre;\n(b)an employee of the BIS visiting the BISIH Singapore Centre to carry out a temporary mission for the BIS.\n(3) Any immunity or privilege under this paragraph which is enjoyed by any individual in any particular case is to be waived by the General Manager if the General Manager is of the opinion that —\n(a)the immunity or privilege impedes the course of justice; and\n(b)the immunity or privilege can be waived without prejudice to the interests of the BIS."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "International Organisations (Immunities and Privileges) (Bank for International Settlements) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

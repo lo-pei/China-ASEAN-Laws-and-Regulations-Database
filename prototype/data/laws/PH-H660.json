@@ -1,7 +1,7 @@
 {
  "id": "PH-H660",
  "title": {
-  "zh": null,
+  "zh": "通过修订第 525 号共和国法若干条款提高 Iligan 市官员薪金的法案",
   "en": "An Act Increasing the Salaries of Officials of the City of Iligan, By Amending Certain Sections of Republic Act Numbered Five Hundred and Twenty-five",
   "orig": "An Act Increasing the Salaries of Officials of the City of Iligan, By Amending Certain Sections of Republic Act Numbered Five Hundred and Twenty-five"
  },
@@ -201,14 +201,23 @@
    }
   },
   {
-   "id": "PH-H660-A7_2",
+   "id": "PH-H660-A7-d2",
    "no": 7,
    "noLabel": {
     "en": "Section 7."
    },
    "text": {
     "en": "This Act shall take effect upon its approval.\nEnacted, without Executive approval, June 17, 1951."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Salaries of Officials of the City of Iligan, By Amending Certain Sections of Republic Act Numbered Five Hundred and Twenty-five",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

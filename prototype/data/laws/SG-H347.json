@@ -1,7 +1,7 @@
 {
  "id": "SG-H347",
  "title": {
-  "zh": null,
+  "zh": "建设局（豁免）命令 2011",
   "en": "Building and Construction Authority (Exemption) Order 2011",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Part VIA of the Act shall not apply to or in respect of —\n(a)any consignment of sand or granite that is imported —\n(i)solely for use in any land reclamation works along the coast of Singapore; and\n(ii)in any sea-going ship or vessel without landing anywhere else in Singapore; and\n(b)the importer of any consignment referred to in sub-paragraph (a)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building and Construction Authority (Exemption) Order 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

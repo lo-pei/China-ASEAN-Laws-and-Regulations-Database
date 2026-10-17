@@ -1,7 +1,7 @@
 {
  "id": "PH-H315",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛省圣巴巴拉市镇的图布兰-索尔布德村划归同省萨拉加市镇的法案",
   "en": "An Act to Transfer the Barrio of Tuburan-Solbud from the Municipality of Santa Barbara to the Municipality of Zarraga, Both of the Province of Iloilo",
   "orig": "An Act to Transfer the Barrio of Tuburan-Solbud from the Municipality of Santa Barbara to the Municipality of Zarraga, Both of the Province of Iloilo"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 5, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Transfer the Barrio of Tuburan-Solbud from the Municipality of Santa Barbara to the Municipality of Zarraga, Both of the Province of Iloilo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

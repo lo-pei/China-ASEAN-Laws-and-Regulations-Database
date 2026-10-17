@@ -1,7 +1,7 @@
 {
  "id": "SG-H2835",
  "title": {
-  "zh": null,
+  "zh": "内部安全（被拘留人员）规则",
   "en": "Internal Security (Detained Persons) Rules",
   "orig": null
  },
@@ -1148,5 +1148,13 @@
     "en": "88.—(1) The Minister may by order in writing declare any place to be a place for the rehabilitation of detained persons or of persons against whom an order of detention has been made but the operation thereof suspended under section 10 of the Act, and who have been admitted on their signed application to reside in such place.\n(2) The Minister may by such order —\n(a)define the boundaries of any such place;\n(b)prohibit the entry into any such place of any person unauthorised in that behalf by him or the Superintendent of such place;\n(c)relax, modify, suspend, replace or add to or authorise the Superintendent of such place, by standing orders to relax, modify, replace or add to in respect of such place the provisions of these Rules or any of them for the purpose of extending the privileges of all or certain classes of persons detained therein or for conferring additional privileges upon them, subject in either case to such conditions, qualifications or restrictions as may be specified in the order; and\n(d)authorise the Superintendent to issue from time to time standing orders for maintaining the safety or security of any such place, or the safety, security or discipline of any persons in any such place.\n[S 617/2023 wef 08/09/2023]\n(3) Any person without lawful excuse entering any such place in contravention of the provisions of any order made under paragraph (2) shall be guilty of an offence and shall be liable on conviction to 6 months’ imprisonment.\n(4) The provisions of these Rules and of any order made under paragraphs (1) and (2) and of any standing orders made thereunder shall, except as otherwise expressly provided therein, apply to any person, against whom an order of detention has been made but the operation thereof suspended under section 10 of the Act and who has been admitted on his signed application to reside in such place, in the same manner in all respects as they apply to a detained person residing therein."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Internal Security (Detained Persons) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

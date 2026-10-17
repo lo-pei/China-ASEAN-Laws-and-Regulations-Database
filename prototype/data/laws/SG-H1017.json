@@ -1,7 +1,7 @@
 {
  "id": "SG-H1017",
  "title": {
-  "zh": null,
+  "zh": "货币法——硬币面额与特征",
   "en": "Currency Act — Denominations and Characteristics of Coins",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE 2008 FORMULA 1™ SINGTEL SINGAPORE GRAND PRIX COMMEMORATIVE COINS TO BE ISSUED ON 12TH SEPTEMBER 2008\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n100 Dollars\n999.9\nFine Gold\n7.776 g +\n0.05 g\n21.96 mm + 0.125 mm\n1.55 mm + 0.20 mm\nRound\nMilled\nThe Singapore Arms in the centre with the year-date “2008” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’clock for all the proof coins.\nThe design captures the spectacular mood of dazzling lights and vibrancy of the night race and landmarks in the Marina area that forms part of the street circuit. Also featured on the coin are the Formula 1™ SingTel Singapore Grand Prix Logo and the 2 most recognisable icons in auto racing namely, a F1 car in full throttle and the winning chequered flag.\nThe denomination is at the top-right of the coin.\n50 Dollars\n999\nFine Silver\n20.00 g + 0.20 g\n38.70 mm + 0.15 mm\n2.50 mm + 0.30 mm\nRound\nMilled and bearing the words “MONETARY AUTHORITY OF SINGAPORE” and lion symbol.\n2 Dollars\n75%\nCopper\n25%\nNickel\n20.00 g + 0.60 g\n38.70 mm + 0.15 mm\n2.50 mm + 0.30 mm\nRound\n(a) Reverse Design of the $100 Gold Proof Coin.\n(b) Reverse Design of the $50 Silver Proof Coin.\n(c) Reverse Design of the $2 Cupro-Nickel Proof-Like Coin.\n(d) Obverse Design for $100 Gold Proof Coin.\n(e) Obverse Design for $50 Silver Proof Coin.\n(f) Obverse Design for $2 Cupro-Nickel Proof-Like Coin."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency Act — Denominations and Characteristics of Coins",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

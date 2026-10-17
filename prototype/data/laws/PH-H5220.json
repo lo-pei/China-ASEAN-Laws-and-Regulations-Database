@@ -1,7 +1,7 @@
 {
  "id": "PH-H5220",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 2 月 1 日为北甘马粦省特别工作假日的法案",
   "en": "An Act Declaring February One of Every Year a Special Working Holiday in the Province of Camarines Norte to Commemorate the Birth Anniversary of its Hero, Dr. Jose Maria Panganiban",
   "orig": "An Act Declaring February One of Every Year a Special Working Holiday in the Province of Camarines Norte to Commemorate the Birth Anniversary of its Hero, Dr. Jose Maria Panganiban"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring February One of Every Year a Special Working Holiday in the Province of Camarines Norte to Commemorate the Birth Anniversary of its Hero, Dr. Jose Maria Panganiban",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

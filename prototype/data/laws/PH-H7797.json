@@ -1,7 +1,7 @@
 {
  "id": "PH-H7797",
  "title": {
-  "zh": null,
+  "zh": "提高烟酒产品消费税税率，为此修订经修正的 1997 年国家国内税收法典第 131、141 至 145 及 288 条的法案",
   "en": "An act Increasing the Excise Tax Rates imposed on Alcohol and Tobacco Products, amending for the purpose sections 131,141, 142, 143, 144, 145 and 288 of the National Internal Revenue Code of 1997, as amended",
   "orig": "An act Increasing the Excise Tax Rates imposed on Alcohol and Tobacco Products, amending for the purpose sections 131,141, 142, 143, 144, 145 and 288 of the National Internal Revenue Code of 1997, as amended"
  },
@@ -150,5 +150,13 @@
     "en": "Effeetiuity. - This Act shall take effect on January 1, 2005."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act Increasing the Excise Tax Rates imposed on Alcohol and Tobacco Products, amending for the purpose sections 131,141, 142, 143, 144, 145 and 288 of the National Internal Revenue Code of 1997, as amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

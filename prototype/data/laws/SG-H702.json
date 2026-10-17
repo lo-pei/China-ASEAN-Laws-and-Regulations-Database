@@ -1,7 +1,7 @@
 {
  "id": "SG-H702",
  "title": {
-  "zh": null,
+  "zh": "1996 年 9 月 3 日发行的硬币",
   "en": "Coins to Be Issued on 3rd September 1996",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE SINGAPORE LION GOLD BULLION COINS\nDenomination.\nMetal.\nStandard Weight and Gold Content.\nStandard Diameter.\nStandard Thickness.\nShape.\nEdge.\nDesign of Obverse.\nDesign of Reverse.\n50 Dollars\n999.9 Fine Gold\n31.1035 g + 0.05 g (1 troy oz of fine gold)\n32.12 mm ± 0.15 mm\n2.50 mm ±\n0.20 mm\nRound\nMilled\nThe Singapore Arms in the centre with the year-date “1996” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin.\nStylised version of a lion’s head with the denomination of the coin below it and a privy mark of a rat design to the left of the denomination. The troy weight and fineness of the coin appear on the right side of the coin. The special privy mark with the latent image is found only on the proof 1 troy oz coin. The proof ½ troy oz coin bears a serial number.\n20 Dollars\n999.9 Fine Gold\n15.552 g + 0.05 g (1/2 troy oz of fine gold)\n27.00 mm ± 0.15 mm\n2.00 mm ±\n0.20 mm\nRound\nMilled\n10 Dollars\n999.9 Fine Gold\n7.776 g + 0.05 g (1/4 troy oz of fine gold)\n21.96 mm ± 0.125 mm\n1.55 mm ±\n0.20 mm\nRound\nMilled\n5 Dollars\n999.9 Fine Gold\n3.110 g + 0.05 g (1/10 troy oz of fine gold)\n17.95 mm ± 0.125 mm\n1.10 mm ±\n0.20 mm\nRound\nMilled\n1 Dollar\n999.9 Fine Gold\n1.550 g + 0.02 g (1/20 troy oz of fine gold)\n13.92 mm ± 0.125 mm\n0.90 mm ±\n0.20 mm\nRound\nMilled"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Coins to Be Issued on 3rd September 1996",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

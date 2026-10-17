@@ -1,7 +1,7 @@
 {
  "id": "SG-H1316",
  "title": {
-  "zh": null,
+  "zh": "征召（战备国民服役命令与通知）条例 1989",
   "en": "Enlistment (Operationally Ready National Service Orders and Notices) Regulations 1989",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) Every person who is liable for operationally ready national service and who has been assigned in accordance with regulation 3 any code or codes which has or have been broadcast over radio and television or transmitted by radio-communications pager must, upon hearing or seeing the broadcast or transmission, immediately report in uniform for operationally ready national service at the mobilisation centre assigned to him under that regulation.\n(2) Despite paragraph (1), where the time for reporting is stated in the broadcast or transmission mentioned in that paragraph, the person liable for operationally ready national service must report for operationally ready national service at the time so stated."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Enlistment (Operationally Ready National Service Orders and Notices) Regulations 1989",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

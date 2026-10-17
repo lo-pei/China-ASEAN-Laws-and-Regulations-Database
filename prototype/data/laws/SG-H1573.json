@@ -1,7 +1,7 @@
 {
  "id": "SG-H1573",
  "title": {
-  "zh": null,
+  "zh": "金融服务与市场（陈述机会）条例 2024",
   "en": "Financial Services and Markets (Opportunity to be Heard) Regulations 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Where the Act provides for a person to be given an opportunity to be heard by the Authority, the Authority must send that person a notice —\n(a)stating the decision the Authority intends to make that affects the person and the grounds for the decision; and\n(b)inviting the person to give the Authority, within the period specified in the notice (not being less than 10 days after the date of the receipt of the notice), a written statement, accompanied by relevant supporting documents, as to why the Authority should reconsider the decision the Authority intends to make.\n(2) Any written statement mentioned in paragraph (1)(b) must be signed by the person to whom the opportunity to be heard is given, a duly authorised employee of that person, or an advocate and solicitor acting for that person.\n(3) The Authority must consider any written statement and supporting documents mentioned in paragraph (1)(b) in making its decision.\n(4) In this regulation, “decision” includes any action of, direction by or order issued by the Authority under the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Financial Services and Markets (Opportunity to be Heard) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

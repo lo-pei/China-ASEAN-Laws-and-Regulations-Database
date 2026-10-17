@@ -1,7 +1,7 @@
 {
  "id": "PH-H7457",
  "title": {
-  "zh": null,
+  "zh": "Partido 地区发展管理局法 1994",
   "en": "Partido Development Administration Act of 1994",
   "orig": "An Act Streamlining the Organization of the Partido Development Administration, Amending for the Purpose Certain Provisions of Republic Act No. 7820, Otherwise Known as the \"Partido Development Administration Act of 1994\""
  },
@@ -110,5 +110,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon the completion of its publication in the Official Gazette or in at least two (2) newspapers of general circulation in the Bicol Region and the entire country.\nApproved: December 31, 2000"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Partido Development Administration Act of 1994",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3485",
  "title": {
-  "zh": null,
+  "zh": "将伊利甘市华盛顿街更名为埃米利奥·阿吉纳尔多将军街的法案",
   "en": "An Act Changing the Name of Washington Street in Iligan City to General Emilio Aguinaldo Street",
   "orig": "An Act Changing the Name of Washington Street in Iligan City to General Emilio Aguinaldo Street"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Washington Street in Iligan City to General Emilio Aguinaldo Street",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

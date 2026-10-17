@@ -1,7 +1,7 @@
 {
  "id": "SG-H3219",
  "title": {
-  "zh": null,
+  "zh": "军事演习（射击场）规则",
   "en": "Military Manoeuvres (Firing Ground) Rules",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) No unauthorised person shall at any time enter or remain within any firing ground.\n(2) Any person who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Military Manoeuvres (Firing Ground) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

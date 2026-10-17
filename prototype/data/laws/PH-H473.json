@@ -1,7 +1,7 @@
 {
  "id": "PH-H473",
  "title": {
-  "zh": null,
+  "zh": "在阿古桑省设立Carmen市镇的法案",
   "en": "Act Creating the Municipality of Carmen in the Province of Agusan",
   "orig": "Act Creating the Municipality of Carmen in the Province of Agusan"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect on July first, nineteen hundred and forty-nine.\nApproved, June 15, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Act Creating the Municipality of Carmen in the Province of Agusan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

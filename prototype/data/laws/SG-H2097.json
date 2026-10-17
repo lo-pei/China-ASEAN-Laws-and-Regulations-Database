@@ -1,7 +1,7 @@
 {
  "id": "SG-H2097",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 9 号）命令 2013",
   "en": "Income Tax (Exemption of Foreign Income) (No. 9) Order 2013",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Tigris Investments Pte. Ltd. is hereby granted exemption from tax on the dividends received in Singapore on or after 2nd September 2013 from AT Holdings Europe B.V., a company located in the Netherlands.\n(2) The exemption under sub‑paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 2nd September 2013 addressed to Tigris Investments Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 9) Order 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

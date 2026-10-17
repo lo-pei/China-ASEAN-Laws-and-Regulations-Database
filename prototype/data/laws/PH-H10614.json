@@ -1,7 +1,7 @@
 {
  "id": "PH-H10614",
  "title": {
-  "zh": null,
+  "zh": "宣布每年11月7日为特别全国工作日假期，以纪念菲律宾第一座清真寺的建立与伊斯兰教传入菲律宾的法案",
   "en": "An Act Declaring The Seventh Day of November of Every Year A Special National Working Holiday In Commemoration of The Establishment of The First Philippine Mosque and The Introduction of Islam In The Philippines",
   "orig": "An Act Declaring The Seventh Day of November of Every Year A Special National Working Holiday In Commemoration of The Establishment of The First Philippine Mosque and The Introduction of Islam In The Philippines"
  },
@@ -80,5 +80,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring The Seventh Day of November of Every Year A Special National Working Holiday In Commemoration of The Establishment of The First Philippine Mosque and The Introduction of Islam In The Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

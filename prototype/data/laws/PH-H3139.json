@@ -1,7 +1,7 @@
 {
  "id": "PH-H3139",
  "title": {
-  "zh": null,
+  "zh": "在第137号联邦法（即矿业法）中增列第79-A条，给予某些矿山税收豁免的法案",
   "en": "An Act Inserting Section Seventy-Nine-A in Commonwealth Act Numbered One Hundred Thirty-Seven, Otherwise Known as the Mining Act, to Grant Tax Exemptions to Certain Mines",
   "orig": "An Act Inserting Section Seventy-Nine-A in Commonwealth Act Numbered One Hundred Thirty-Seven, Otherwise Known as the Mining Act, to Grant Tax Exemptions to Certain Mines"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Inserting Section Seventy-Nine-A in Commonwealth Act Numbered One Hundred Thirty-Seven, Otherwise Known as the Mining Act, to Grant Tax Exemptions to Certain Mines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

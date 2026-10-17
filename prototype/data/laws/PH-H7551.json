@@ -1,7 +1,7 @@
 {
  "id": "PH-H7551",
  "title": {
-  "zh": null,
+  "zh": "在拉古纳 Sta. Rosa 设立 Sta. Rosa 科学技术高中并为此拨款的法案",
   "en": "An Act Establishing the Sta. Rosa Science and Technology High School in Sta. Rosa, Laguna and Appropriating Funds Therefor",
   "orig": "An Act Establishing the Sta. Rosa Science and Technology High School in Sta. Rosa, Laguna and Appropriating Funds Therefor"
  },
@@ -220,5 +220,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, April 8, 2001."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the Sta. Rosa Science and Technology High School in Sta. Rosa, Laguna and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

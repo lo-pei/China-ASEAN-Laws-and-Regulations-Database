@@ -1,7 +1,7 @@
 {
  "id": "SG-H1198",
  "title": {
-  "zh": null,
+  "zh": "经济扩展奖励（所得税减免）（依第 3A 条转授职能与权力）（第 2 号）公告 2024",
   "en": "Economic Expansion Incentives (Relief from Income Tax) (Assignment of Functions and Powers under Section 3A) (No. 2) Notification 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The Minister assigns to the Building and Construction Authority the functions and powers of the Minister under the Act specified in sub‑paragraph (2).\n(2) For the purposes of sub‑paragraph (1), the functions and powers are —\n(a)the power of approval mentioned in paragraph (c) of the definition of “fixed capital expenditure” in section 41(1) of the Act, where the approved project mentioned in that definition is an approved construction project;\n(b)the power of approval mentioned in section 43(2) of the Act (including the power to specify conditions for the approval), where the project concerned is a construction project;\n(c)the power of amendment mentioned in section 43(5) of the Act, where the certificate concerned is in relation to an approved construction project;\n(d)the functions and powers under section 44 of the Act, where the approved project concerned is an approved construction project;\n(e)the power of approval mentioned in subsection (1) of section 46 of the Act, where the investment allowance mentioned in that subsection was given in respect of the fixed capital expenditure for an approved construction project;\n(f)the power of waiver mentioned in subsection (3) of section 46 of the Act, where the investment allowance mentioned in subsection (1) of that section was given in respect of the fixed capital expenditure for an approved construction project; and\n(g)the powers under sections 61 and 61A of the Act, where the certificate or letter concerned was issued for an approved construction project.\n(3) In this paragraph —\n“approved construction project” means an approved project as defined in section 41(1) of the Act that is a construction project, and includes a construction project that was approved under section 43(2) of the Act by the Minister or any other person that the Minister deputed to exercise that power of approval, or delegated or assigned that power of approval to;\n“construction project” means a project for construction operations as defined in section 41(1) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Economic Expansion Incentives (Relief from Income Tax) (Assignment of Functions and Powers under Section 3A) (No. 2) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

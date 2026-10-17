@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-277-RG-6-2024-WSAH-WSAH-COMMITTEES-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG 6 2024 版工作场所安全与健康委员会条例",
   "en": "RG 6 2024 ED WSAH WSAH COMMITTEES REGULATIONS",
   "orig": null
  },
@@ -271,5 +271,13 @@
     "en": "Any person who contravenes regulation 4(2), 5(2), 6, 7(1), (2) or (3), 8(1) or (2), 11(1) or (2), 12(1) or (2), 13(1), (2) or (3), 15(3) or 16 is guilty of an offence and liable on conviction —\n\n(a) for a first offence, to a fine not exceeding $10,000; and\n\n(b) for a second or subsequent offence, to a fine not exceeding $20,000, imprisonment for a term not exceeding 6 months or both."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 6 2024 ED WSAH WSAH COMMITTEES REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

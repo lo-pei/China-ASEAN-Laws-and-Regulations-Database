@@ -1,7 +1,7 @@
 {
  "id": "SG-H1953",
  "title": {
-  "zh": null,
+  "zh": "所得税（经批准总部公司优惠税率）条例",
   "en": "Income Tax (Concessionary Rate of Tax for Approved Headquarters Company) Regulations",
   "orig": null
  },
@@ -126,5 +126,11 @@
     "en": "THE SCHEDULE\nRegulation 2\nExchanges\n1.Chicago Mercantile Exchange.\n2.Chicago Board of Trade.\n3.Commodity Exchange, Incorporated (New York).\n4.London International Financial Futures Exchange.\n5.The futures market maintained by the Singapore Exchange Limited or any of its subsidiaries.\n6.Sydney Futures Exchange.\n7.Deutsche Terminboerse.\n8.Marche a Terme International de France.\n9.New York Mercantile Exchange.\n10.New Zealand Futures and Options Exchange.\n11.Tokyo Stock Exchange.\n[S 490/2003 wef 01/12/1999]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Income Tax (Concessionary Rate of Tax for Approved Headquarters Company) Regulations",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

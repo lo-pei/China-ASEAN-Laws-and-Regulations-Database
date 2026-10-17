@@ -1,7 +1,7 @@
 {
  "id": "PH-H9932",
  "title": {
-  "zh": null,
+  "zh": "将北苏里高省 Dapa 市镇 Siargao 区医院提升为名为 Siargao 岛医疗中心的二级综合医院，增加其床位、提升服务设施、授权增加医务人员并为其拨款的法案",
   "en": "An Act Upgrading the Siargao District Hospital in the Municipality of Dapa, Province of Surigao del Norte Into a Level II General Hospital to be Known as the Siargao Island Medical Center, Increasing its Bed Capacity, Upgrading Its Professional Health Care Services and Facilities, Authorizing the Increase of Its Medical Personnel and Appropriating Funds Therefor.",
   "orig": "An Act Upgrading the Siargao District Hospital in the Municipality of Dapa, Province of Surigao del Norte Into a Level II General Hospital to be Known as the Siargao Island Medical Center, Increasing its Bed Capacity, Upgrading Its Professional Health Care Services and Facilities, Authorizing the Increase of Its Medical Personnel and Appropriating Funds Therefor."
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading the Siargao District Hospital in the Municipality of Dapa, Province of Surigao del Norte Into a Level II General Hospital to be Known as the Siargao Island Medical Center, Increasing its Bed Capacity, Upgrading Its Professional Health Care Services and Facilities, Authorizing the Increase of Its Medical Personnel and Appropriating Funds Therefor.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

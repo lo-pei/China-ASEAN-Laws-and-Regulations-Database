@@ -1,7 +1,7 @@
 {
  "id": "PH-H9792",
  "title": {
-  "zh": null,
+  "zh": "将邦板牙 San Fernando 市 Jose B. Lingad 纪念综合医院床位由五百（500）张增至一千（1,000）张、提升服务设施并授权增加医务人员，并拨款",
   "en": "An Act Increasing the Bed Capacity of the Jose B. Lingad Memorial General Hospital in San Fernando City, Pampanga from Five Hundred (500) Beds to One Thousand (1000) Beds, Upgrading its Service Facilities and Professional Health Care Services, Authorizing the Increase of its Medical Workforce Complement, Repealing for the Purpose Republic Act No. 10355, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Jose B. Lingad Memorial General Hospital in San Fernando City, Pampanga from Five Hundred (500) Beds to One Thousand (1000) Beds, Upgrading its Service Facilities and Professional Health Care Services, Authorizing the Increase of its Medical Workforce Complement, Repealing for the Purpose Republic Act No. 10355, and Appropriating Funds Therefor"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Jose B. Lingad Memorial General Hospital in San Fernando City, Pampanga from Five Hundred (500) Beds to One Thousand (1000) Beds, Upgrading its Service Facilities and Professional Health Care Services, Authorizing the Increase of its Medical Workforce Complement, Repealing for the Purpose Republic Act No. 10355, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3118",
  "title": {
-  "zh": null,
+  "zh": "医疗注册条例 2010",
   "en": "Medical Registration Regulations 2010",
   "orig": null
  },
@@ -1424,5 +1424,13 @@
     "en": "FIFTH SCHEDULE\nRegulation 69(1)\nFees payable to Medical Council\n1.Application for registration under regulation 15 as follows :\n(a)in the Register of Medical Practitioners —\n(i)as a fully registered medical practitioner\n$300\n(ii)as a medical practitioner with conditional registration\n$300\n(b)as a medical practitioner in the Register of Temporarily Registered Medical Practitioners —\n(i)for an initial period not exceeding 2 years\n$300\n(ii)for each renewal for a period not exceeding 12 months\n$300\n(c)in the Register of Provisionally Registered Medical Practitioners\n$150\n2.Application for registration under regulation 20 in the Register of Specialists\n$500\n3.Application for registration under regulation 20A in the Register of Family Physicians —\n(a)where the accompanying certificate granted by the Family Physicians Accreditation Board is based on a qualification obtained by the medical practitioner from a foreign institution\n$500\n(b)in any other case\n$200\n4.Application under section 36(1) of the Act for a practising certificate by —\n(a)a medical practitioner registered in the Register of Medical Practitioners who is in practice\n$550 per year or part of a year\n(b)a medical practitioner registered in the Register of Medical Practitioners who is in reduced practice\n$150 per year or part of a year\n(c)a medical practitioner registered in the Register of Temporarily Registered Medical Practitioners\n$550 per year or part of a year\n(d)a medical practitioner registered in the Register of Provisionally Registered Medical Practitioners\n$550 per year or part of a year\n5.[Deleted by S 148/2018 wef 01/04/2018]\n6.Late application fee for a practising certificate under section 36(5) of the Act\n$80\n7.Application for additional qualifications to be entered in any register under section 31(b) of the Act\n$100\n8.Certificate of professional status\n$80\n9.Replacement of a certificate of registration or a practising certificate due to loss, damage, defacement or change of information in certificate\n$80\n10.Certified copy of certificate of registration or practising certificate\n$80\n11.Copy of notes of hearing before a Health Committee or Interim Orders Committee\n$20 per page\n12.Application under regulation 65 for restoration —\n(a)to the Register of Specialists\n$100\n(b)to the Register of Family Physicians\n$100\n(c)to any other register\n$1,000\n13.Application for any amendment —\n(a)to the Register of Specialists\n$100 per amendment\n(b)to the Register of Family Physicians\n$100 per amendment\n14.Appeal against a refusal of registration under section 28(5) of the Act or regulation 20(7) or 20A(7)\n$100\n15.Appeal against a refusal to grant a certificate under section 35(3) or 35B(3) of the Act\n$100\n[S 76/2025 wef 01/02/2025]\n[S 539/2022 wef 01/07/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Medical Registration Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1660",
  "title": {
-  "zh": null,
+  "zh": "设立学徒培训制度与国家学徒委员会、界定该委员会权力与职责并为此提供资金的法案",
   "en": "An Act Establishing an Apprenticeship Training System and a National Apprenticeship Council, Defining the Powers and Duties of the Said Council and Providing Funds Therefor",
   "orig": "An Act Establishing an Apprenticeship Training System and a National Apprenticeship Council, Defining the Powers and Duties of the Said Council and Providing Funds Therefor"
  },
@@ -190,5 +190,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing an Apprenticeship Training System and a National Apprenticeship Council, Defining the Powers and Duties of the Said Council and Providing Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

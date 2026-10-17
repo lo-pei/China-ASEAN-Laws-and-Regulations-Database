@@ -1,7 +1,7 @@
 {
  "id": "SG-H523",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（新退休存款计划）条例 2004",
   "en": "Central Provident Fund (New Retirement Sum Scheme) Regulations 2004",
   "orig": null
  },
@@ -770,5 +770,13 @@
     "en": "SIXTH SCHEDULE\nRegulation 3C(3)\nAdditional SA‑related amount\nAdditional SA‑related amount in connection with closure of special account\n1.—(1) This paragraph applies where the Board transfers an amount (S1) from the member’s special account to the member’s ordinary account in accordance with the Central Provident Fund (Closure of Special Account) Regulations 2025 in connection with the closure of the member’s special account.\n(2) The additional SA‑related amount for the member is —\n(a)in a case where, immediately before the transfer mentioned in sub‑paragraph (1), the member’s remaining committed amount is more than or equal to the member’s relevant OA amount — the amount by which S1 exceeds the difference, immediately before the transfer, between the member’s remaining committed amount and the member’s relevant OA amount; or\n(b)in any other case — the amount of S1.\n(3) In sub‑paragraph (2), “relevant OA amount” means the moneys standing to the member’s credit in the member’s ordinary account, excluding the reserved amount.\nAdditional SA‑related amount in connection with transfer from special account to retirement account\n2.—(1) This paragraph applies where —\n(a)before the member’s special account is closed under section 13AA(1) of the Act, a transfer is made from the member’s special account to the member’s retirement account under regulation 8(1) as a result of an amount (S2) withdrawn under regulation 5(3) —\n(i)solely from the member’s special account; or\n(ii)partly from the member’s special account and partly from the member’s ordinary account;\n(b)S2 is reinstated to the member’s ordinary account, or paid to the member’s ordinary account in accordance with section 13AA(4) of the Act after the closure of the member’s special account; and\n(c)the member’s remaining committed amount, immediately before the transfer mentioned in sub‑paragraph (a), is less than S2.\n(2) The additional SA‑related amount for the member is the amount by which S2 exceeds the member’s remaining committed amount immediately before the transfer mentioned in sub‑paragraph (1)(a).\nAdditional SA‑related amount in connection with withdrawal or transfer under section 15(1B) of Act\n3.—(1) This paragraph applies where the Board has authorised the withdrawal or transfer of any amount from the moneys standing to the credit of the member in the member’s ordinary account or retirement account (or both) under section 15(1B) of the Act.\n(2) The additional SA‑related amount for the member is an amount determined by the Board for the purposes of ensuring that the amount withdrawn or transferred under section 15(1B) of the Act, is not less than what the member would have been entitled or authorised to withdraw had the member’s special account not been closed."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund (New Retirement Sum Scheme) Regulations 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

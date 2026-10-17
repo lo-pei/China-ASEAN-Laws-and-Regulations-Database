@@ -1,7 +1,7 @@
 {
  "id": "SG-H1668",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（学校制服团体——豁免）命令 2025",
   "en": "Guns, Explosives and Weapons Control (School Uniformed Corps — Exemption) Order 2025",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) An NCC member is exempt from the requirement in sections 11, 21 and 22 of the Act to be authorised by a licence for having in his or her possession or for using a gun or any ammunition for that gun, when engaging in any activity —\n(a)as an NCC cadet; and\n(b)under the direct supervision and in accordance with the directions of —\n(i)an NCC officer; and\n(ii)a responsible military officer.\n(2) An NCC officer is exempt from the requirement in sections 11, 21 and 22 of the Act to be authorised by a licence for having in his or her possession or for using a gun or any ammunition for that gun, when engaging in any activity, or in the course of discharging his or her duties —\n(a)as an NCC officer; and\n(b)under the direct supervision and in accordance with the directions of a responsible military officer."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Guns, Explosives and Weapons Control (School Uniformed Corps — Exemption) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

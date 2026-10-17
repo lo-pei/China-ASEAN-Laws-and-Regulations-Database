@@ -1,7 +1,7 @@
 {
  "id": "PH-H2086",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第1392号共和国法（经第1768号共和国法修正）第1条，该法对完全以菲律宾苎麻纤维制成的纺织品免征关税与特别进口税，以激励苎麻产业发展",
   "en": "An Act to Further Amend Section One of Republic Act Numbered One Thousand Three Hundred Ninety-Two, as Amended by Republic Act Numbered One Thousand Seven Hundred Sixty-Eight, Entitled “An Act Exempting Textiles Made of One Hundred Per Cent Philippine Ramie Fiber from the Payment of Duty and the Special Import Tax to Provide Incentives for the Development of the Ramie Industry”",
   "orig": "An Act to Further Amend Section One of Republic Act Numbered One Thousand Three Hundred Ninety-Two, as Amended by Republic Act Numbered One Thousand Seven Hundred Sixty-Eight, Entitled “An Act Exempting Textiles Made of One Hundred Per Cent Philippine Ramie Fiber from the Payment of Duty and the Special Import Tax to Provide Incentives for the Development of the Ramie Industry”"
  },
@@ -52,14 +52,15 @@
    }
   },
   {
-   "id": "PH-H2086-A1_2",
+   "id": "PH-H2086-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Ramie threads, yarns, textiles, and industrial fabrics hereinafter also called ramie goods, when processed abroad from one hundred per cent ramie fiber grown in the Philippines and bought direct from the farmer-producers or from any of their cooperatives by any government agency designated by the President of the Philippines and by it exported abroad in exchange therefor when their importation is made through the government agency so designated by the President shall be exempt from the payment of customs duties under the tariff laws in force: Provided, That such tax-exempt importation herein contemplated shall be allocated proportionately among the original farmer-producers or any of their cooperatives from whom the government agency herein specified obtained the ramie fiber for processing abroad: Provided, further, That only ramie fibers produced in excess of the local requirement of ten thousand eight hundred (10,800) two-picul bales per annum plus any portion of the said ten thousand eight hundred (10,800) two-picul bales which cannot be absorbed by local manufacturers due to unforeseen or fortuitous events shall be entitled to the benefits of this Act: And Provided, finally, That should existing facilities of local manufacturers either through expansion or construction of new mills or otherwise, require ramie fibers in excess of ten thousand eight hundred (10,800) two-picul bales, and the same is certified to by the National Economic Council, such excess requirement should first be filled up before the benefits of this Act could be availed of.\n\"The exemption above granted shall cease on December thirty-first, nineteen hundred sixty or at any earlier date upon proclamation by the President, upon recommendation of the National Economic Council, to the effect that sufficient degumming, spinning and/or weaving mills to process the entire production of ramie fiber have been established in the country.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H2086-A2",
@@ -91,5 +92,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Section One of Republic Act Numbered One Thousand Three Hundred Ninety-Two, as Amended by Republic Act Numbered One Thousand Seven Hundred Sixty-Eight, Entitled “An Act Exempting Textiles Made of One Hundred Per Cent Philippine Ramie Fiber from the Payment of Duty and the Special Import Tax to Provide Incentives for the Development of the Ramie Industry”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

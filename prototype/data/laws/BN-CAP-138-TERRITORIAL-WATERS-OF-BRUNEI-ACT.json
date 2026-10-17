@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-138-TERRITORIAL-WATERS-OF-BRUNEI-ACT",
  "title": {
-  "zh": null,
+  "zh": "文莱领水法",
   "en": "TERRITORIAL WATERS OF BRUNEI ACT",
   "orig": null
  },
@@ -88,5 +88,13 @@
     "en": "(1) In any proceedings before any court in Brunei Darussalam, if question arises as to whether an act or omission has taken place within or outside the territorial waters of Brunei Darussalam, a certificate of that effect purported to be signed by or on behalf of the Minister shall be received in evidence and shall be prima facie proof of the facts stated therein.\n\n(2) Any reference to the territorial waters of Brunei Darussalam in any written law shall be construed subject to the provisions of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TERRITORIAL WATERS OF BRUNEI ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

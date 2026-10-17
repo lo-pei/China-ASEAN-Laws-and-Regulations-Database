@@ -1,7 +1,7 @@
 {
  "id": "PH-H8967",
  "title": {
-  "zh": null,
+  "zh": "禁止未经授权截取、接收或使用有线电视系统或有线互联网系统及/或网络任何信号或服务并予以处罚的法案，并为其他目的",
   "en": "An Act Prohibiting and Penalizing Unauthorized Interception, Reception or Use of Any Signal or Service Over a Cable Television System or Cable Internet System And/or Network, and for Other Purposes",
   "orig": "An Act Prohibiting and Penalizing Unauthorized Interception, Reception or Use of Any Signal or Service Over a Cable Television System or Cable Internet System And/or Network, and for Other Purposes"
  },
@@ -140,5 +140,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prohibiting and Penalizing Unauthorized Interception, Reception or Use of Any Signal or Service Over a Cable Television System or Cable Internet System And/or Network, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1667",
  "title": {
-  "zh": null,
+  "zh": "授予 Baldomero A. David 先生在菲律宾建设、维护和运营公共海岸无线电台及服务所需其他无线电台的临时许可的法案",
   "en": "An Act Granting Mr. Baldomero A. David, Residing at San Jose, Navotas, Rizal, a Temporary Permit to Construct, Maintain and Operate Public Coastal Radio Stations in the Philippines, Together with Such Other Radio Stations as May be Necessary for the Operation of the Service, Such as Fixed and Land Based Radio Stations, for the Reception and Transmission of Radio Communications Within the Philippines not at Present Served by Government-Owned Public Radiotelegraph or Radiotelephone Systems",
   "orig": "An Act Granting Mr. Baldomero A. David, Residing at San Jose, Navotas, Rizal, a Temporary Permit to Construct, Maintain and Operate Public Coastal Radio Stations in the Philippines, Together with Such Other Radio Stations as May be Necessary for the Operation of the Service, Such as Fixed and Land Based Radio Stations, for the Reception and Transmission of Radio Communications Within the Philippines not at Present Served by Government-Owned Public Radiotelegraph or Radiotelephone Systems"
  },
@@ -190,5 +190,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Mr. Baldomero A. David, Residing at San Jose, Navotas, Rizal, a Temporary Permit to Construct, Maintain and Operate Public Coastal Radio Stations in the Philippines, Together with Such Other Radio Stations as May be Necessary for the Operation of the Service, Such as Fixed and Land Based Radio Stations, for the Reception and Transmission of Radio Communications Within the Philippines not at Present Served by Government-Owned Public Radiotelegraph or Radiotelephone Systems",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

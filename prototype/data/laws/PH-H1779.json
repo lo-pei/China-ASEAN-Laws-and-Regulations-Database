@@ -1,7 +1,7 @@
 {
  "id": "PH-H1779",
  "title": {
-  "zh": null,
+  "zh": "关于延长碧瑶乡村俱乐部公司法人存续期的法案",
   "en": "An Act to Extend the Corporate Existence of the Baguio Country Club Corporation",
   "orig": "An Act to Extend the Corporate Existence of the Baguio Country Club Corporation"
  },
@@ -80,5 +80,11 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 23, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act to Extend the Corporate Existence of the Baguio Country Club Corporation",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H876",
  "title": {
-  "zh": null,
+  "zh": "将八打雁省巴万市镇马拉克因波克村波克尼巴纳尔小村改设为村的法案",
   "en": "An Act to Convert the Sitio of Pook Ni Banal in the Barrio of Malaking Pook, Municipality of Bauan, Province of Batangas, into a Barrio",
   "orig": "An Act to Convert the Sitio of Pook Ni Banal in the Barrio of Malaking Pook, Municipality of Bauan, Province of Batangas, into a Barrio"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Sitio of Pook Ni Banal in the Barrio of Malaking Pook, Municipality of Bauan, Province of Batangas, into a Barrio",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

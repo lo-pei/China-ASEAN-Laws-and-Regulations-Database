@@ -1,7 +1,7 @@
 {
  "id": "SG-H3044",
  "title": {
-  "zh": null,
+  "zh": "拉客者名单",
   "en": "List of Touts",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Supreme Court of Judicature Act\n(Chapter 322, Section 73)\nList of Touts\nN 3\nREVISED EDITION 1997\n(26th September 1997)\n[20th March 1970]\nAny person whose name appears in the list of touts published pursuant to section 73 of the Supreme Court of Judicature Act is excluded from the precincts of the Supreme Court except when that person is a party to or a witness in any proceedings in the Supreme Court."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "List of Touts",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

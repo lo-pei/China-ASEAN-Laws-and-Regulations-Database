@@ -1,7 +1,7 @@
 {
  "id": "PH-H9374",
  "title": {
-  "zh": null,
+  "zh": "依经修正的第 9160 号共和国法（即 2001 年《反洗钱法》）将赌场指定为受规范主体的法案",
   "en": "An Act Designating Casinos as Covered Persons Under Republic Act No. 9160, Otherwise Known as the Anti-Money Laundering Act of 2001, as Amended",
   "orig": "An Act Designating Casinos as Covered Persons Under Republic Act No. 9160, Otherwise Known as the Anti-Money Laundering Act of 2001, as Amended"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Designating Casinos as Covered Persons Under Republic Act No. 9160, Otherwise Known as the Anti-Money Laundering Act of 2001, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

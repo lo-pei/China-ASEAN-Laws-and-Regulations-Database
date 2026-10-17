@@ -1,7 +1,7 @@
 {
  "id": "PH-H9905",
  "title": {
-  "zh": null,
+  "zh": "将宿务省 Talisay 市立区医院提升为 Cebu South 医疗中心并为其拨付经费的法案",
   "en": "An Act Upgrading the Talisay District Hospital in Talisay City, Province of Cebu, Into a Medical Center to Be Known as the Cebu South Medical Center, and Appropriating Funds Therefor,...",
   "orig": "An Act Upgrading the Talisay District Hospital in Talisay City, Province of Cebu, Into a Medical Center to Be Known as the Cebu South Medical Center, and Appropriating Funds Therefor,..."
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading the Talisay District Hospital in Talisay City, Province of Cebu, Into a Medical Center to Be Known as the Cebu South Medical Center, and Appropriating Funds Therefor,...",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

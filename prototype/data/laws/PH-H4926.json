@@ -1,7 +1,7 @@
 {
  "id": "PH-H4926",
  "title": {
-  "zh": null,
+  "zh": "修订《修订行政法典》（经第4358号共和国法修正）第2184条，提高市镇官员薪金上限的法案",
   "en": "An Act Amending Section Twenty-One Hundred Eighty-Four of the Revised Administrative Code, as Amended By Republic Act Numbered Forty-Three Hundred and Fifty-Eight, By Increasing the Maximum Limit of Salaries of Municipal Officers.",
   "orig": "An Act Amending Section Twenty-One Hundred Eighty-Four of the Revised Administrative Code, as Amended By Republic Act Numbered Forty-Three Hundred and Fifty-Eight, By Increasing the Maximum Limit of Salaries of Municipal Officers."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, October 4, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Twenty-One Hundred Eighty-Four of the Revised Administrative Code, as Amended By Republic Act Numbered Forty-Three Hundred and Fifty-Eight, By Increasing the Maximum Limit of Salaries of Municipal Officers.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

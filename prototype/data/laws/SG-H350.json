@@ -1,7 +1,7 @@
 {
  "id": "SG-H350",
  "title": {
-  "zh": null,
+  "zh": "建设局法 1999",
   "en": "Building and Construction Authority Act 1999",
   "orig": null
  },
@@ -934,5 +934,13 @@
     "en": "56.—(1) Any scheme, contract, document, certificate, licence, permission or resolution prepared, made, granted or approved under the repealed Construction Industry Development Board Act (Cap. 51, 1985 Revised Edition), so far as it is not inconsistent with the provisions of this Act, continues and is deemed to have been prepared, made, granted or approved under this Act.\n(2) Any subsidiary legislation made under the repealed Construction Industry Development Board Act (Cap. 51, 1985 Revised Edition) and in force immediately before 1 April 1999, so far as it is not inconsistent with the provisions of this Act, continues in force as if made under this Act until it is revoked by subsidiary legislation made under this Act.\n(3) Where in any written law reference is made to —\n(a)the Construction Industry Development Board, such reference is a reference to the Building and Construction Authority; and\n(b)the Building Authority, such reference is a reference to the Commissioner of Building Control.\n[36"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building and Construction Authority Act 1999",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

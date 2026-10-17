@@ -1,7 +1,7 @@
 {
  "id": "SG-H1357",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（矫正工作令）条例",
   "en": "Environmental Public Health (Corrective Work Order) Regulations",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) An offender in respect of whom a corrective work order is in force shall —\n(a)report to the supervision officer by telephone or such other means as may be required by the officer from time to time to notify the officer of any change of address or telephone number at which he may be contacted;\n(b)perform the work in a satisfactory manner as required by the supervision officer;\n(c)perform for the number of hours specified in the notice such work at such time and at such place as he may be instructed by the supervision officer;\n(d)while performing the work wear a protective vest or any other apparel as required by the supervision officer;\n(e)while performing the work comply with any reasonable directions given by the supervision officer;\n(f)not behave in an offensive, intimidating, threatening or disorderly manner towards the supervision officer or any other person who is performing work; and\n(g)not engage any other person to carry out the work.\n(2) The supervision officer may request any offender who in the officer’s opinion fails to carry out the work in a satisfactory manner to leave the place of work and any work done shall not be counted towards fulfilling the number of hours of work required under the corrective work order.\n[G.N. No. S 447/92]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Corrective Work Order) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

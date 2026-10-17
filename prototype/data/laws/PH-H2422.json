@@ -1,7 +1,7 @@
 {
  "id": "PH-H2422",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第3592号法（即《港口工程基金法》，经第130号联邦法与第1216号共和国法修正），并规定该基金支出的法案",
   "en": "An Act to Further Amend Act Numbered Thirty-Five Hundred and Ninety-Two, Known as the “Portworks Fund Act,” as Amended by Commonwealth Act Numbered One Hundred and Thirty and Republic Act Numbered Twelve Hundred and Sixteen, and to Provide for the Disbursement of Said Fund",
   "orig": "An Act to Further Amend Act Numbered Thirty-Five Hundred and Ninety-Two, Known as the “Portworks Fund Act,” as Amended by Commonwealth Act Numbered One Hundred and Thirty and Republic Act Numbered Twelve Hundred and Sixteen, and to Provide for the Disbursement of Said Fund"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect on July first, nineteen hundred and sixty.\nApproved: June 18, 1960"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Act Numbered Thirty-Five Hundred and Ninety-Two, Known as the “Portworks Fund Act,” as Amended by Commonwealth Act Numbered One Hundred and Thirty and Republic Act Numbered Twelve Hundred and Sixteen, and to Provide for the Disbursement of Said Fund",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

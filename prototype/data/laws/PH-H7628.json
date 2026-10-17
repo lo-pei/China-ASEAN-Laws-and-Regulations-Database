@@ -1,7 +1,7 @@
 {
  "id": "PH-H7628",
  "title": {
-  "zh": null,
+  "zh": "2001 年反洗钱法",
   "en": "Anti-Money Laundering Act of 2001",
   "orig": "Anti-Money Laundering Act of 2001 An Act Defining the Crime of Money Laundering, Providing Penalties Therefor and for Other Purposes ra2001/ra_9160irr_2001.html\">• Rules and Regulation \"Republic Act No. 9160\"</a>"
  },
@@ -271,5 +271,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation.\nThe provisions of this Act shall not apply to deposits and investments made prior to its effectivity."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Anti-Money Laundering Act of 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1894",
  "title": {
-  "zh": null,
+  "zh": "移民（禁止入境）命令",
   "en": "Immigration (Prohibition of Entry) Order",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nParagraph 2(f)\n1. Any person who has professional or specialist qualifications, or specialised or technical skills, which would enable him to follow his profession, occupation or skill in Singapore without prejudicing the interests of citizens of, and other persons resident in, Singapore with corresponding or similar qualifications.\n2. The wife and any child below the age of 6 years of any person permitted to enter Singapore under paragraph 1.\n3. The wife of any citizen of Singapore who has not at any time after her marriage been living separately from her husband for a continuous period of 5 years.\n4. Any child below the age of 6 years of a citizen of Singapore.\n[G.N. No. S 211/73]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Immigration (Prohibition of Entry) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

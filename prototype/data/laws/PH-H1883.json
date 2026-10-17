@@ -1,7 +1,7 @@
 {
  "id": "PH-H1883",
  "title": {
-  "zh": null,
+  "zh": "将Kiañgan医院正式更名为Ifugao医院的法案",
   "en": "An Act to Change the Name of the Kiañgan Hospital to Ifugao Hospital",
   "orig": "An Act to Change the Name of the Kiañgan Hospital to Ifugao Hospital"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 24, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Change the Name of the Kiañgan Hospital to Ifugao Hospital",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

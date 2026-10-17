@@ -1,7 +1,7 @@
 {
  "id": "PH-H7764",
  "title": {
-  "zh": null,
+  "zh": "将曼达卢永市 Isaac Lopez 小学改设为名为 Isaac Lopez 综合学校的综合学校并为其拨款的法案",
   "en": "An Act Converting the Isaac Lopez Elementary School in Mandaluyong City into an Integrated School to be known as the Isaac Lopez Integrated School and appropriating funds therefor",
   "orig": "An Act Converting the Isaac Lopez Elementary School in Mandaluyong City into an Integrated School to be known as the Isaac Lopez Integrated School and appropriating funds therefor"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Isaac Lopez Elementary School in Mandaluyong City into an Integrated School to be known as the Isaac Lopez Integrated School and appropriating funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

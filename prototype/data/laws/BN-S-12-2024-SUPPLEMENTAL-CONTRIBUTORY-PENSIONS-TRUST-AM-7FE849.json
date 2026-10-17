@@ -1,7 +1,7 @@
 {
  "id": "BN-S-12-2024-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-TRUST-AM-7FE849",
  "title": {
-  "zh": null,
+  "zh": "补充缴费养老金信托修正第 2 号命令 2024",
   "en": "SUPPLEMENTAL CONTRIBUTORY PENSIONS TRUST AMENDMENT NO. 2 ORDER 2024",
   "orig": null
  },
@@ -151,5 +151,13 @@
     "en": "an offence against this Order or any regulations or rules made committed by a body corporate, partnership, association or other body of persons is proved to have been committed with the consent or of, or to be attributable to any neglect on the part of any manager, secretary or other similar officer of that body corporate, association or other body of persons, or any person who was to act in that capacity, he as well as that body corporate, association or other body of persons is guilty of that offence and to be proceeded against and punished accordingly.\"."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUPPLEMENTAL CONTRIBUTORY PENSIONS TRUST AMENDMENT NO. 2 ORDER 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9637",
  "title": {
-  "zh": null,
+  "zh": "设立 Cordillera 国立技术教育学院，整合该行政区的 TESDA 培训中心及国家办职业技术院校并为此拨款的法案",
   "en": "An Act Establishing the Cordillera State Institute of Technical Education or CSITE, Integrating the Technical Education and Skills Development Authority (TESDA) Training Centers and TESDA-Supervised State-Run Technical-Vocational Institutions (TVIs) in the Cordillera Administrative Region and Appropriating Funds Therefor",
   "orig": "An Act Establishing the Cordillera State Institute of Technical Education or CSITE, Integrating the Technical Education and Skills Development Authority (TESDA) Training Centers and TESDA-Supervised State-Run Technical-Vocational Institutions (TVIs) in the Cordillera Administrative Region and Appropriating Funds Therefor"
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the Cordillera State Institute of Technical Education or CSITE, Integrating the Technical Education and Skills Development Authority (TESDA) Training Centers and TESDA-Supervised State-Run Technical-Vocational Institutions (TVIs) in the Cordillera Administrative Region and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

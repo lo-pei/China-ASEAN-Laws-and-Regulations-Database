@@ -1,7 +1,7 @@
 {
  "id": "SG-H3016",
  "title": {
-  "zh": null,
+  "zh": "律师专业法（第 75C 条指定生效日）公告",
   "en": "Legal Profession Act (Appointed Day for purposes of Section 75C) Notification",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 75C of the Act1, the appointed day referred to therein shall be 1st March 1997.\n1 The Legal Profession Act (Cap. 161, 1994 Ed.)\n[G.N. No. S 76/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Legal Profession Act (Appointed Day for purposes of Section 75C) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H297",
  "title": {
-  "zh": null,
+  "zh": "银行（商人银行）条例 2021",
   "en": "Banking (Merchant Banks) Regulations 2021",
   "orig": null
  },
@@ -682,5 +682,13 @@
     "en": "SECOND SCHEDULE\nRegulation 31(1)\nAnnual Reporting for section 35 of Banking Act,\nas applied by section 55ZF(3) of Banking Act\nName of Merchant Bank: ___________________________________\nProperty sector exposure ratio as at _________________________ (year)\nAll figures to nearest S$’000\nItem\nNumerator\n1.\nProperty sector exposure from credit facilities to property corporations\n2.\nProperty sector exposure from credit facilities to corporations other than property corporations\n3.\nProperty sector exposure from credit facilities to individuals\n4.\nProperty sector exposure from debt instruments\n5.\nProperty sector exposure from guarantees to borrowers\n6.\nProperty sector exposure from performance bonds and qualifying certificate guarantees\n7.\nOther property sector exposure from contingent liabilities\nTotal property sector exposure numerator (A)\nDenominator\n8.\nTotal non‑bank loans\n9.\nTotal non‑bank debt instruments\n10.\nTotal contingent liabilities (items 5 + 6 + 7)\nTotal property sector exposure denominator (B)\nProperty sector exposure ratio i.e. (A divided by B)\nOther Figures\n11.\nOwner‑occupied housing loans"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Banking (Merchant Banks) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

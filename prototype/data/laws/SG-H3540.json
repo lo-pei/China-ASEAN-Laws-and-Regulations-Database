@@ -1,7 +1,7 @@
 {
  "id": "SG-H3540",
  "title": {
-  "zh": null,
+  "zh": "规划（诊所土地开发授权）公告 2014",
   "en": "Planning (Development of Land Authorisation for Medical Clinics) Notification 2014",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Paragraph 3 shall apply only if all the following conditions are satisfied:\n(a)where the shop is in a building that is an HDB commercial building or a shophouse, the aggregate of the shop’s floor area and the total floor area of premises in the building which are used as a medical clinic must not exceed 1,000 square metres;\n(b)where the shop is in a building other than a building described in sub‑paragraph (a), the aggregate of the shop’s floor area and the total floor area of premises in the building which are used as a medical clinic must not exceed —\n(i)1,000 square metres; or\n(ii)20% of the building’s commercial floor area,\nwhichever is the lower;\n(c)the change in the use must not result in an increase in the floor area of the building;\n(d)any change in the use is carried out in compliance with the requirements of all other relevant authorities;\n(e)where the shop is in a building that is an HDB commercial building, HDB’s written approval for the change in use is obtained before the change in use;\n(f)the written permission, granted under the Act or the repealed Act, in respect of the building in which the shop is, does not contain any condition prohibiting —\n(i)the change in the use of the building or any part thereof to a medical clinic; or\n(ii)any change in the use of the building or any part thereof without the prior written permission of the competent authority."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Planning (Development of Land Authorisation for Medical Clinics) Notification 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

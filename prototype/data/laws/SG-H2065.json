@@ -1,7 +1,7 @@
 {
  "id": "SG-H2065",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 4 号）命令 2013",
   "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2013",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Tetra Pak Asia Pte Ltd is hereby granted exemption from tax on the dividends received in Singapore on or after 13th March 2013 from Tetra Pak Export FZE and Tetra Pak Technical Service Middle East FZE, companies located in the United Arab Emirates.\n(2) The exemption under sub-paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 13th March 2013 addressed to the tax agent of Tetra Pak Asia Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

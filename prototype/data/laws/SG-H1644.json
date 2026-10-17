@@ -1,7 +1,7 @@
 {
  "id": "SG-H1644",
  "title": {
-  "zh": null,
+  "zh": "政府采购（质疑程序）条例 2002",
   "en": "Government Procurement (Challenge Proceedings) Regulations 2002",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. The Notice of Challenge mentioned in section 12 of the Act must be duly signed and in writing, and must contain the following information:\n(a)the name, address and telephone and fax numbers of the supplier bringing the challenge;\n(b)where the supplier is an individual, the country or territory of which he or she is a national;\n(c)where the supplier is a company or association or body of persons, the country or territory under which laws it is formed and the country or territory in which it has its principal place of business;\n(d)the contracting authority against whom the challenge is brought;\n(e)sufficient identification of the procurement which is the subject of the challenge, including the goods or service, or goods and service (as the case may be) procured or to be procured and the estimated value of the procurement;\n(f)details of the duty owed by the contracting authority under section 7 of the Act which the contracting authority is alleged to have breached, including an identification of the relevant provision of the Government Procurement Regulations 2014;\n(g)sufficient identification of the alleged breach of duty;\n(h)the date on which the alleged breach of duty first took place;\n(i)a statement of the loss or damage which the supplier has suffered or reasonably risks suffering as a result of the breach and the remedies sought;\n(j)whether the supplier has sought resolution of the matter in consultation with the contracting authority and, if so, the outcome of that consultation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Government Procurement (Challenge Proceedings) Regulations 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

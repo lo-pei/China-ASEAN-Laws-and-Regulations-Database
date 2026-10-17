@@ -1,7 +1,7 @@
 {
  "id": "SG-H2607",
  "title": {
-  "zh": null,
+  "zh": "传染病（规定传染病通报）条例 2008",
   "en": "Infectious Diseases (Notification of Prescribed Infectious Diseases) Regulations 2008",
   "orig": null
  },
@@ -137,5 +137,13 @@
     "en": "THE SCHEDULE\nRegulations 5 and 5A\nNotification of prescribed infectious diseases\nPart 1\nFirst column\nSecond column\nThird column\nNotification under following regulations\nPrescribed infectious disease\nPrescribed time for notification\n1.Regulation 5(1)(a)\n2.Regulation 5(1)(b)\n3.Regulation 5(2)\n4.Regulation 5A\n(a)Avian Influenza\n(b)Botulism\n(c)Chikungunya Fever\n(ca) [Deleted by S 173/2024 wef 01/03/2024&#93;\n(d)Dengue Fever\n(e)Dengue Haemorrhagic Fever\n(f)Diphtheria\n(g)Ebola Virus Disease (EVD)\n(h)Japanese Encephalitis\n(i)Malaria\n(j)Measles\n(k)Middle Eastern Respiratory Syndrome Coronavirus Infection (MERS‑CoV)\n(ka)Mpox\n(l)Nipah Virus Infection\n(m)Plague\n(n)Poliomyelitis\n(o)Rabies\n(p)Rubella\n(q)Severe Acute Respiratory Syndrome (SARS)\n(r)Yellow Fever\n(s)Zika Virus Infection\n(t)[Deleted by S 141/2020 wef 28/02/2020]\nNot later than 24 hours\n(a)Mumps\n(b)Syphilis\n(c)Tuberculosis\nNot later than 72 hours\n[S 189/2025 wef 12/04/2025]\n[S 173/2024 wef 01/03/2024]\n[S 64/2023 wef 14/02/2023]\nPart 2\nFirst column\nSecond column\nThird column\nNotification under following regulations\nPrescribed infectious disease\nPrescribed time for notification\n1.Regulation 5(1)(a)\n2.Regulation 5(2)\nTetanus\nNot later than 72 hours\nPart 3\nFirst column\nSecond column\nThird column\nNotification under following regulations\nPrescribed infectious disease\nPrescribed time for notification\n1.Regulation 5(1)(b)\n2.Regulation 5A\n(a)Cholera\n(b)Haemophilus Influenzae Type b (Hib) Disease\n(c)Leptospirosis\n(d)Meningoccocal Disease\n(e)Murine Typhus\n(f)Paratyphoid\n(g)Typhoid\nNot later than 24 hours\n(a)Acute Hepatitis A\n(b)Acute Hepatitis B\n(c)Acute Hepatitis C\n(d)Acute Hepatitis E\n(e)Campylobacteriosis\n(f)Chlamydial Genital Infection\n(g)Gonorrhoea\n(h)HIV Infection\n(i)Leprosy\n(j)Legionellosis\n(k)Melioidosis\n(l)Pertussis\n(m)Pneumococcal Disease (Invasive)\n(n)Salmonellosis\nNot later than 72 hours\n[S 163/2019 wef 25/03/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Infectious Diseases (Notification of Prescribed Infectious Diseases) Regulations 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

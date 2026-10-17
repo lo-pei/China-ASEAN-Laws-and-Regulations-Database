@@ -1,7 +1,7 @@
 {
  "id": "PH-H3478",
  "title": {
-  "zh": null,
+  "zh": "将朗布隆省朗布隆妇产与儿童医院改设为总医院，名称为朗布隆总医院，并授权为此拨款的法案",
   "en": "An Act Converting Romblon Maternity and Children's Hospital in the Province of Romblon into a General Hospital to be Known as Romblon General Hospital, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Converting Romblon Maternity and Children's Hospital in the Province of Romblon into a General Hospital to be Known as Romblon General Hospital, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting Romblon Maternity and Children's Hospital in the Province of Romblon into a General Hospital to be Known as Romblon General Hospital, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

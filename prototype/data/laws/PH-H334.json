@@ -1,7 +1,7 @@
 {
  "id": "PH-H334",
  "title": {
-  "zh": null,
+  "zh": "规定刑事诉讼中被告财产的扣押，并为此修订《法院规则》的法案",
   "en": "An Act Providing for the Attachment of the Property of the Defendant in Criminal Action, by Amending for This Purpose the Rules of Court",
   "orig": "An Act Providing for the Attachment of the Property of the Defendant in Criminal Action, by Amending for This Purpose the Rules of Court"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Attachment of the Property of the Defendant in Criminal Action, by Amending for This Purpose the Rules of Court",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-24-2019-SEDITION-ACT",
  "title": {
-  "zh": null,
+  "zh": "煽动法",
   "en": "SEDITION ACT",
   "orig": null
  },
@@ -137,5 +137,13 @@
     "en": "No person shall be convicted of an offence under section 4(1)(c) or (d) if the person proves that —\n\n(a) the publication in respect of which he is charged was printed, published or caused to be published, sold, offered for sale, distributed, reproduced, imported or propagated, as the case may be, without his authority, consent and knowledge and without any want of due care or caution on his part; or\n\n(b) he did not know and had no reasonable ground to believe that the publication had a seditious intention."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SEDITION ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3298",
  "title": {
-  "zh": null,
+  "zh": "全国学生军团法 1972",
   "en": "National Cadet Corps Act 1972",
   "orig": null
  },
@@ -272,5 +272,13 @@
     "en": "18.—(1) The Council may, with the approval of the Minister, make such regulations as may be necessary or expedient to carry out the provisions of this Act.\n(2) Without limiting subsection (1), the Council may make regulations relating to —\n(a)the organisation, control, administration and discipline of the Corps;\n(b)training;\n(c)the appointment, promotion, advancement or reduction in rank of officers and the termination of services of officers;\n(d)the age and other qualifications for cadet membership, promotion, advancement or reduction in rank of cadets and dispensation with the services of cadets;\n(e)the payment of allowances;\n(f)the award of decorations;\n(g)the award of compensation in respect of death or personal injury arising out of or in the execution of duty and which is solely due to and attributable to the discharge of such duty; and\n(h)dress."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "National Cadet Corps Act 1972",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

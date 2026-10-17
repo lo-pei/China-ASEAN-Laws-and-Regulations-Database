@@ -1,7 +1,7 @@
 {
  "id": "PH-H165",
  "title": {
-  "zh": null,
+  "zh": "对以居住为目的建筑物租金投机行为予以处罚的法案",
   "en": "An Act to Penalize Speculation on Rents of Buildings Destined for Dwelling Purposes",
   "orig": "An Act to Amend Commonwealth Act Numbered Six Hundred and Eighty-Nine, Entitled “An Act to Penalize Speculation on Rents of Buildings Destined for Dwelling Purposes”"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: October 21, 1946."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Penalize Speculation on Rents of Buildings Destined for Dwelling Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

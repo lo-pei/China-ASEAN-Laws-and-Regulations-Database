@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-68-2026-ROAD-TRAFFIC-ACT",
  "title": {
-  "zh": null,
+  "zh": "道路交通法",
   "en": "ROAD TRAFFIC ACT",
   "orig": null
  },
@@ -1506,5 +1506,13 @@
     "en": "Where a licence has been revoked or cancelled otherwise than for an act or omission which constitutes an offence, the licensee shall on demand be paid a sum calculated to the nearest dollar equivalent to one twelfth of the annual licence fee in respect of every complete month for which the licence would have been valid but for such revocation or cancellation. (section 24(2))"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ROAD TRAFFIC ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4559",
  "title": {
-  "zh": null,
+  "zh": "修订第1407号共和国法（即《1955年菲律宾远洋航运法》，经第4146号共和国法第1条修正）第2条的法案",
   "en": "An Act Amending Section Two of Republic Act Numbered Fourteen Hundred and Seven, Known as \"The Philippine Overseas Shipping Act of Nineteen Hundred and Fifty-Five\", as Amended By Section One of Republic Act Numberf.D Forty-One Hundred and Forty-Six",
   "orig": "An Act Amending Section Two of Republic Act Numbered Fourteen Hundred and Seven, Known as \"The Philippine Overseas Shipping Act of Nineteen Hundred and Fifty-Five\", as Amended By Section One of Republic Act Numberf.D Forty-One Hundred and Forty-Six"
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H4559-A2_2",
+   "id": "PH-H4559-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "All Acts or parts of Acts and all executive orders, administrative orders, proclamations or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4559-A3",
@@ -80,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Two of Republic Act Numbered Fourteen Hundred and Seven, Known as \"The Philippine Overseas Shipping Act of Nineteen Hundred and Fifty-Five\", as Amended By Section One of Republic Act Numberf.D Forty-One Hundred and Forty-Six",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

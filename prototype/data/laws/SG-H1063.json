@@ -1,7 +1,7 @@
 {
  "id": "SG-H1063",
  "title": {
-  "zh": null,
+  "zh": "关税（货物移出许可证）命令",
   "en": "Customs (Permits to Remove Goods) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 34(2) of the Act, no permit shall be required for the removal of goods if the goods are —\n(a)dutiable goods (other than intoxicating liquors or tobacco) the duty on which does not exceed $300;\n(b)intoxicating liquors of any type and of an amount not exceeding 10 litres in total;\n(c)tobacco of any type and of an amount not exceeding 0.4 kilogrammes in total; and\n(d)motor fuel of an amount not exceeding 10 litres in a spare container of a motor vehicle.\n[G.N. No. S 148/2003]\n[S 185/2019 wef 01/04/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Permits to Remove Goods) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

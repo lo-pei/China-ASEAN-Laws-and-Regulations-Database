@@ -1,7 +1,7 @@
 {
  "id": "PH-H3487",
  "title": {
-  "zh": null,
+  "zh": "修订第3616号共和国法（即《规定在南伊罗戈省Salcedo市镇设立、运营与维护一所名为Interior Ilocos Sur Hospital的医院并授权为此拨款》）的法案",
   "en": "An Act to Amend Republic Act Numbered Thirty-Six Hundred Sixteen, Entitled \"An Act to Provide for the Establishment, Operation and Maintenance of a Hospital in the Municipality of Salcedo, Province of Ilocos Sur, to be Known as the Interior Ilocos Sur Hospital, and to Authorize the Appropriation of Funds Therefor\"",
   "orig": "An Act to Amend Republic Act Numbered Thirty-Six Hundred Sixteen, Entitled \"An Act to Provide for the Establishment, Operation and Maintenance of a Hospital in the Municipality of Salcedo, Province of Ilocos Sur, to be Known as the Interior Ilocos Sur Hospital, and to Authorize the Appropriation of Funds Therefor\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Thirty-Six Hundred Sixteen, Entitled \"An Act to Provide for the Establishment, Operation and Maintenance of a Hospital in the Municipality of Salcedo, Province of Ilocos Sur, to be Known as the Interior Ilocos Sur Hospital, and to Authorize the Appropriation of Funds Therefor\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

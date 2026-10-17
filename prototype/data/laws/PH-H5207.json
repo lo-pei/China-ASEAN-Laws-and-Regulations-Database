@@ -1,7 +1,7 @@
 {
  "id": "PH-H5207",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 9 月 1 日为碧瑶宪章日及碧瑶市特别非工作假日，以纪念该市成立周年的法案",
   "en": "An Act Declaring September 1 of Each Year as Baguio Charter Day and a Special Non-Working Holiday in the City of Baguio in Order to Commemorate the Anniversary of the Said City",
   "orig": "An Act Declaring September 1 of Each Year as Baguio Charter Day and a Special Non-Working Holiday in the City of Baguio in Order to Commemorate the Anniversary of the Said City"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without executive approval, February 10, 1989."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring September 1 of Each Year as Baguio Charter Day and a Special Non-Working Holiday in the City of Baguio in Order to Commemorate the Anniversary of the Said City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

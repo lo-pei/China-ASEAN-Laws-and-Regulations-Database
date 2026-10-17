@@ -1,7 +1,7 @@
 {
  "id": "PH-H7810",
  "title": {
-  "zh": null,
+  "zh": "将伊利甘市圣费洛米纳、邦博农、迪格基兰与罗贡贡描笼涯连接至布基农省塔拉卡格市镇的城市道路改设为国道的法案",
   "en": "An Act Converting the City Road Connecting Barangays Sta. Felomina, Bonbonon, Digkilaan and Rogongon in the City of Iligan to the Municipality of Talakag, Province of Bukidnon into a National Road",
   "orig": "An Act Converting the City Road Connecting Barangays Sta. Felomina, Bonbonon, Digkilaan and Rogongon in the City of Iligan to the Municipality of Talakag, Province of Bukidnon into a National Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the City Road Connecting Barangays Sta. Felomina, Bonbonon, Digkilaan and Rogongon in the City of Iligan to the Municipality of Talakag, Province of Bukidnon into a National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

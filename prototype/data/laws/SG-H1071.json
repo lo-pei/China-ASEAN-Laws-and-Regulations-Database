@@ -1,7 +1,7 @@
 {
  "id": "SG-H1071",
  "title": {
-  "zh": null,
+  "zh": "网络安全（上诉）条例 2025",
   "en": "Cybersecurity (Appeals) Regulations 2025",
   "orig": null
  },
@@ -342,5 +342,13 @@
     "en": "19. An Appeals Advisory Panel established in respect of an appeal dissolves when —\n(a)the Minister determines the appeal; or\n(b)the appellant withdraws the appeal in accordance with regulation 7."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Cybersecurity (Appeals) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

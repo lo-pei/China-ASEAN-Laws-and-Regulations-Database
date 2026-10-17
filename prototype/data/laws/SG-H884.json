@@ -1,7 +1,7 @@
 {
  "id": "SG-H884",
  "title": {
-  "zh": null,
+  "zh": "COVID-19（临时措施）（规定期间延长）（第 2 号）命令 2021",
   "en": "COVID-19 (Temporary Measures) (Extension of Prescribed Period) (No. 2) Order 2021",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) The prescribed period as it applies to the following descriptions of scheduled contracts in Part 2 of the Act is extended by a period starting on 20 April 2021 and ending on 30 June 2021:\n(a)an option given by a housing developer to an intending purchaser for the purchase of one or more units of housing accommodation;\n(b)an agreement between a housing developer and a purchaser for the sale and purchase of one or more units of housing accommodation;\n(c)an option given by a commercial developer to an intending purchaser for the purchase of one or more units of commercial property;\n(d)an agreement between a commercial developer and a purchaser for the sale and purchase of one or more units of commercial property.\n(2) The prescribed period as it applies to the following descriptions of scheduled contracts in Part 2 of the Act is extended by a period starting on 20 April 2021 and ending on 30 September 2021:\n(a)a construction contract or supply contract;\n(b)a performance bond or equivalent that is granted pursuant to a construction contract or supply contract.\n(3) In this paragraph, “commercial developer”, “commercial property”, “housing accommodation”, “housing developer” and “unit” have the meanings given by paragraph 2 of the First Schedule to the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "COVID-19 (Temporary Measures) (Extension of Prescribed Period) (No. 2) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

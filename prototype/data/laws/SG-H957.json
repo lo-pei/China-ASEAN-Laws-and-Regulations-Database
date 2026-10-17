@@ -1,7 +1,7 @@
 {
  "id": "SG-H957",
  "title": {
-  "zh": null,
+  "zh": "跨境铁路（费用）条例 2020",
   "en": "Cross-Border Railways (Fees) Regulations 2020",
   "orig": null
  },
@@ -110,5 +110,13 @@
     "en": "SECOND SCHEDULE\nRegulation 4\nFees\nFirst column\nSecond column\n1.Licence fee or renewal fee for railway assets operating licence\n$246,000\n2.Licence fee or renewal fee for cross-border train service licence\n$138,000\n[S 690/2026 wef 29/09/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Cross-Border Railways (Fees) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

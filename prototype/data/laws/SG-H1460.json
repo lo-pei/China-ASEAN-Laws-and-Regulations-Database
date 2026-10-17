@@ -1,7 +1,7 @@
 {
  "id": "SG-H1460",
  "title": {
-  "zh": null,
+  "zh": "引渡（制止核恐怖主义行为国际公约）公告 2022",
   "en": "Extradition (International Convention for the Suppression of Acts of Nuclear Terrorism) Notification 2022",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraph 3\n1.The United States of America\n2.The Federal Republic of Germany\n3.The Hong Kong Special Administrative Region of the People’s Republic of China"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Extradition (International Convention for the Suppression of Acts of Nuclear Terrorism) Notification 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

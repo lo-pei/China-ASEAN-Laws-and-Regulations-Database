@@ -1,7 +1,7 @@
 {
  "id": "PH-H614",
  "title": {
-  "zh": null,
+  "zh": "授予Nicolas Limcaoco在拉古纳省卡布尧市镇马里尼格、马马蒂.D、古洛德与班利克村的电灯、热力与动力系统特许经营权的法案",
   "en": "An Act to Grant Nicolas Limcaoco a Franchise for An Electric Light, Heat and Power System in the Barrios of Marinig, Mamati.D, Gulod and Banlik of the Municipality of Cabuyao, Province of Laguna",
   "orig": "An Act to Grant Nicolas Limcaoco a Franchise for An Electric Light, Heat and Power System in the Barrios of Marinig, Mamati.D, Gulod and Banlik of the Municipality of Cabuyao, Province of Laguna"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 5, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Grant Nicolas Limcaoco a Franchise for An Electric Light, Heat and Power System in the Barrios of Marinig, Mamati.D, Gulod and Banlik of the Municipality of Cabuyao, Province of Laguna",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

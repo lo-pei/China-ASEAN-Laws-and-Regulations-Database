@@ -1,7 +1,7 @@
 {
  "id": "PH-H2097",
  "title": {
-  "zh": null,
+  "zh": "使甲米地省学校分区督学兼任甲米地市学校督学，为此修订第547号联邦法（即《甲米地市宪章》）第84条的法案",
   "en": "An Act Making the Division Superintendent of Schools of Cavite Ex-Officio Superintendent of Schools of the City of Cavite, Amending for This Purpose Section Eighty-Four of Commonwealth Act Numbered Five Hundred Forty-Seven, Otherwise Known as the Charter of the City of Cavite",
   "orig": "An Act Making the Division Superintendent of Schools of Cavite Ex-Officio Superintendent of Schools of the City of Cavite, Amending for This Purpose Section Eighty-Four of Commonwealth Act Numbered Five Hundred Forty-Seven, Otherwise Known as the Charter of the City of Cavite"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making the Division Superintendent of Schools of Cavite Ex-Officio Superintendent of Schools of the City of Cavite, Amending for This Purpose Section Eighty-Four of Commonwealth Act Numbered Five Hundred Forty-Seven, Otherwise Known as the Charter of the City of Cavite",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

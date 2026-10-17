@@ -1,7 +1,7 @@
 {
  "id": "PH-H8579",
  "title": {
-  "zh": null,
+  "zh": "通过修订第7165号共和国法（即《设立识字协调委员会、规定其权力与职能并为此拨款法》）加强识字协调委员会的法案",
   "en": "An Act Strengthening the Literacy Coordinating Council by Amending Republic Act No. 7165, Otherwise Known as \"An Act Creating the Literacy Coordinating Council, Defining Its Powers and Functions, Appropriating Funds Therefor and for Other Purposes\"",
   "orig": "An Act Strengthening the Literacy Coordinating Council by Amending Republic Act No. 7165, Otherwise Known as \"An Act Creating the Literacy Coordinating Council, Defining Its Powers and Functions, Appropriating Funds Therefor and for Other Purposes\""
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect fifteen (15) days after completion of its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening the Literacy Coordinating Council by Amending Republic Act No. 7165, Otherwise Known as \"An Act Creating the Literacy Coordinating Council, Defining Its Powers and Functions, Appropriating Funds Therefor and for Other Purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

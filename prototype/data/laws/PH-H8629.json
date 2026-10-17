@@ -1,7 +1,7 @@
 {
  "id": "PH-H8629",
  "title": {
-  "zh": null,
+  "zh": "通过授权地方政府单位负责每年举办植树节活动，恢复植树节纪念的法案",
   "en": "An Act Reviving the Observance of Arbor Day by Authorizing the Local Government Units the Responsibilities for Celebrating the Day for Tree Planting as an Annual Event",
   "orig": "An Act Reviving the Observance of Arbor Day by Authorizing the Local Government Units the Responsibilities for Celebrating the Day for Tree Planting as an Annual Event"
  },
@@ -181,5 +181,13 @@
     "en": "Effectivity. – This Act shall lake effect after fifteen (15) days following its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reviving the Observance of Arbor Day by Authorizing the Local Government Units the Responsibilities for Celebrating the Day for Tree Planting as an Annual Event",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

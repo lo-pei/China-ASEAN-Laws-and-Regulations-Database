@@ -1,7 +1,7 @@
 {
  "id": "SG-H2252",
  "title": {
-  "zh": null,
+  "zh": "所得税（就业奖励特别补助豁免——第 13(1)(zp) 条）公告 2020",
   "en": "Income Tax (Exemption of Workfare Special Payment — Section 13(1)(zp)) Notification 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Any cash payment to an individual, made by the Government under the scheme known as the Workfare Special Payment that is part of the Budget Statements of the Government dated 18 February 2020 and 26 March 2020 and the ministerial statement of the Minister dated 17 August 2020, is exempt from tax."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Workfare Special Payment — Section 13(1)(zp)) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

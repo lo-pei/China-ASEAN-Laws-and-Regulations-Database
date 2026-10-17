@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-87-1983-BIOLOGICAL-WEAPONS-ACT",
  "title": {
-  "zh": null,
+  "zh": "生物武器法",
   "en": "BIOLOGICAL WEAPONS ACT",
   "orig": null
  },
@@ -104,5 +104,13 @@
     "en": "If a magistrate is satisfied by information on oath that - is reasonable ground for suspecting that an offence of this Act has been, or is about to be, committed, he may grant a search warrant authorising the person named therein -\n\n(a) to enter, at any time within one month from the date of the warrant, any premises or place named therein, if necessary by force, and to search or place of every person found therein;\n\n(b) to inspect any document found in the preor place or in the possession of any person found therein, and to take copies of, or seize or detain any such document;\n\n(c) to inspect, seize and detain any equipment\n\n(d) to inspect, sample, seize and detain any substance so found."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BIOLOGICAL WEAPONS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

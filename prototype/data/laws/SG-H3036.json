@@ -1,7 +1,7 @@
 {
  "id": "SG-H3036",
  "title": {
-  "zh": null,
+  "zh": "酒类管制（供应与消费）（酒牌豁免）命令 2015",
   "en": "Liquor Control (Supply and Consumption) (Exemption from Liquor Licence) Order 2015",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "8.—(1) Subject to sub-paragraph (2), the circumstances specified for the purpose of section 4(2)(d) of the Act are as follows:\n(a)the supply of liquor as an ingredient incorporated into food;\n(b)the supply of liquor used in the cooking or preparation of food.\n(2) In sub-paragraph (1), “food” means food for human consumption that is not a beverage.\n[S 40/2019 wef 18/01/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Liquor Control (Supply and Consumption) (Exemption from Liquor Licence) Order 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5229",
  "title": {
-  "zh": null,
+  "zh": "允许因火灾、洪水及其他不可抗力而遗失或损毁的地权证书正本进行行政恢复，为此修订第 1529 号总统令第 110 条与第 26 号共和国法第 5 条的法案",
   "en": "An Act Allowing Administrative Reconstitution of Original Copies of Certificates of Titles Lost or Destroyed Due to Fire, Flood and Other Force Majeure, Amending for the Purpose Section One Hundred Ten of Presidential Decree Numbered Fifteen Twenty-Nine and Section Five of Republic Act Numbered Twenty-Six",
   "orig": "An Act Allowing Administrative Reconstitution of Original Copies of Certificates of Titles Lost or Destroyed Due to Fire, Flood and Other Force Majeure, Amending for the Purpose Section One Hundred Ten of Presidential Decree Numbered Fifteen Twenty-Nine and Section Five of Republic Act Numbered Twenty-Six"
  },
@@ -180,5 +180,13 @@
     "en": "This Act shall take effect upon its publication in three newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Allowing Administrative Reconstitution of Original Copies of Certificates of Titles Lost or Destroyed Due to Fire, Flood and Other Force Majeure, Amending for the Purpose Section One Hundred Ten of Presidential Decree Numbered Fifteen Twenty-Nine and Section Five of Republic Act Numbered Twenty-Six",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H573",
  "title": {
-  "zh": null,
+  "zh": "修订第 3846 号法，在其第 1 条与第 2 条之间增设新条，并修订该法第 3、12 与 13 条",
   "en": "An Act to Amend Act Numbered Thirty-Eight Hundred and Forty-Six By Adding a New Section Between Sections One and Two Thereof and to Amend Sections Three, Twelve and Thirteen of the Same Act.",
   "orig": "An Act to Amend Act Numbered Thirty-Eight Hundred and Forty-Six By Adding a New Section Between Sections One and Two Thereof and to Amend Sections Three, Twelve and Thirteen of the Same Act."
  },
@@ -91,14 +91,23 @@
    }
   },
   {
-   "id": "PH-H573-A3_2",
+   "id": "PH-H573-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "This Act shall take effect upon its approval.\nApproved, September 18, 1950."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Act Numbered Thirty-Eight Hundred and Forty-Six By Adding a New Section Between Sections One and Two Thereof and to Amend Sections Three, Twelve and Thirteen of the Same Act.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

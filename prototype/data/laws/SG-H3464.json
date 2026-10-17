@@ -1,7 +1,7 @@
 {
  "id": "SG-H3464",
  "title": {
-  "zh": null,
+  "zh": "停车场（固本停车）规则",
   "en": "Parking Places (Coupon Parking) Rules",
   "orig": null
  },
@@ -266,5 +266,13 @@
     "en": "SECOND SCHEDULE\nRules 4, 6 and 7\nFORM 1\nMOTOR CAR PARKING COUPON\n1. The date (year, month and day) and time of commencement of parking shall be indicated on the parking coupon by tearing out completely the appropriate tabs (as shown in Sample).\n2. Where 2 or more parking coupons are displayed, the time of commencement of parking for the second and subsequent coupons shall be immediately after the time of expiry of the period of parking covered by the previous coupon.\n3. If no tab is provided for the time in minutes, it may be rounded upwards to the next 5 minutes.\nFORM 2\nMOTOR CAR PARKING COUPON\n1. The date (year, month and day) and time of commencement of parking shall be indicated on the parking coupon by tearing out completely the appropriate tabs (as shown in Sample).\n2. Where 2 or more parking coupons are displayed, the time of commencement of parking for the second and subsequent coupons shall be immediately after the time of expiry of the period of parking covered by the previous coupon.\n3. If no tab is provided for the time in minutes, it may be rounded upwards to the next 5 minutes.\nFORM 3\nMOTOR CAR NIGHT PARKING COUPON\nThe date (year, month and day) and time of commencement of parking shall be indicated on the parking coupon by tearing out completely the appropriate tabs (as shown in Sample).\nFORM 4\nMOTOR CAR WHOLE DAY PARKING COUPON\nThe date (year, month and day) of parking shall be indicated on the parking coupon by tearing out completely the appropriate tabs (as shown in Sample).\nFORM 5\nMOTOR CAR MONTHLY PARKING COUPON\n1. The date (year and month) of parking shall be indicated by tearing out completely the appropriate tabs (as shown in Sample).\n2. The vehicle number shall be written in ink on the parking coupon in the space provided therein.\n3. The officer issuing the parking coupon to sign and indicate the date of issue.\nFORM 6\nMOTOR CYCLE PARKING COUPON\n1. The time (day or night) and date (year, month and day) of parking shall be indicated on the parking coupon by tearing out completely the appropriate tabs (as shown in Sample).\n2. The vehicle number shall be written in ink on the parking coupon in the space provided therein.\n[G.N. Nos. S 217/82; S226/82; S 23/83; S 340/83; S 116/87; S 316/89; S 194/91; S 84/92; S 336/95; S 511/96; S 439/2000; S 426/2001; S 35/2009]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Parking Places (Coupon Parking) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2786",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（规定安排与程序）条例 2020",
   "en": "Insolvency, Restructuring and Dissolution (Prescribed Arrangements and Proceedings) Regulations 2020",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. The commencement (but not the continuation) of any admiralty proceedings is prescribed for the purposes of sections 64(12)(b), 65(7)(b), 95(3)(b) and 96(5)(b) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insolvency, Restructuring and Dissolution (Prescribed Arrangements and Proceedings) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

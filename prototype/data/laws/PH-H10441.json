@@ -1,7 +1,7 @@
 {
  "id": "PH-H10441",
  "title": {
-  "zh": null,
+  "zh": "司法重组法 1980",
   "en": "The Judiciary Reorganization Act of 1980",
   "orig": "An Act Creating Two (2) Additional Branches of the Regional Trial Court in the Eleventh Judicial Region To Be Stationed in the Island Garden City of Samal and in the City of Panabo, Province of Davao Del Norte, and Appropriating Funds Therefor, Amending For the Purpose Section 14 (L) of Batas Pambansa Blg. 129, Otherwise Known As “The Judiciary Reorganization Act of 1980”, As Amended"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Judiciary Reorganization Act of 1980",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3029",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第186号联邦法（经修正），使强制会员即时获得人寿保险保障并增加附加人寿保险保障",
   "en": "An Act to Further Amend Commonwealth Act Numbered One Hundred Eighty-Six, as Amended, to Effect Immediate Life Insurance Coverage of Compulsory Members and to Increase Additional Life Insurance Coverage",
   "orig": "An Act to Further Amend Commonwealth Act Numbered One Hundred Eighty-Six, as Amended, to Effect Immediate Life Insurance Coverage of Compulsory Members and to Increase Additional Life Insurance Coverage"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Commonwealth Act Numbered One Hundred Eighty-Six, as Amended, to Effect Immediate Life Insurance Coverage of Compulsory Members and to Increase Additional Life Insurance Coverage",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3552",
  "title": {
-  "zh": null,
+  "zh": "规划（建屋发展局居家办公计划）（豁免）公告",
   "en": "Planning (Housing and Development Board Home-Office Scheme) (Exemption) Notification",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) The change in use of any HDB flat from residential use to use as a home-office shall be exempted from the requirement to obtain the written permission of the competent authority under section 12(1) of the Act subject to the conditions that —\n(a)the HDB has given its prior written approval to the change in use; and\n(b)the use of the HDB flat as a home-office complies with the planning guidelines applicable to home-offices issued by the competent authority.\n(2) Where an HDB flat to which an exemption under sub-paragraph (1) applies is within a housing estate which is or becomes a designated land under section 126A of the Land Titles (Strata) Act, and the strata title plan in respect of the housing estate is registered under that Act after 10th June 2003, the exemption shall lapse in respect of that HDB flat —\n(a)upon the registration of the strata title plan in respect of the housing estate; or\n(b)upon the expiry of the validity period of the written approval of the HDB referred to in sub-paragraph (1),\nwhichever is the later.\n(3) For the avoidance of doubt, where the exemption under sub-paragraph (1) lapses in respect of any HDB flat by virtue of sub-paragraph (2), section 12(1) of the Act shall immediately apply in respect of that flat so that planning permission must be obtained from the competent authority for the use of the HDB flat as a home-office.\n[G.N. No. S 286/2003]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Planning (Housing and Development Board Home-Office Scheme) (Exemption) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

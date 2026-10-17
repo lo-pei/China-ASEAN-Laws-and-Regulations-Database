@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-25-O1-ORDERS-TO-PROHIBIT-IMPORTATION-SALE-OR-CIRC-C91AA1",
  "title": {
-  "zh": null,
+  "zh": "O1 禁止出版物进口、销售或流通的命令",
   "en": "O1 Orders to Prohibit Importation Sale or Circ​ulation of Publications",
   "orig": null
  },
@@ -92,5 +92,13 @@
     "en": "All written, pictorial or printed matter and everything, whether of a nature similar to written or printed matter or not, containing any visible representation, or by its form, shape, or in any manner capable of suggesting words or ideas, and every copy and reproduction or substantial reproduction of any publication published or printed by — Abdul Razak bin Haji Mohammad, holder of Malaysian passport number A3549878, whose last known address is Lorong Sungai Mulia Enam, Batu 6, Gombak, Kuala Lumpur, Malaysia. [GN 145/95]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "O1 Orders to Prohibit Importation Sale or Circ​ulation of Publications",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

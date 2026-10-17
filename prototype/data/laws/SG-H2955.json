@@ -1,7 +1,7 @@
 {
  "id": "SG-H2955",
  "title": {
-  "zh": null,
+  "zh": "土地业权（分层）（第 84E 与 84F 条对其他产业适用）公告 2005",
   "en": "Land Titles (Strata) (Application of Sections 84E and 84F to Other Estates) Notification 2005",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister hereby specifies that sections 84E and 84F of the Act shall also apply where there are subsisting leases of flats in any development registered under the Land Titles Act (Cap. 157) or the Registration of Deeds Act (Cap. 269) for a leasehold estate of 850 years or more but less than 999 years and where the proprietors of the flats do not own the land comprised in the development."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Land Titles (Strata) (Application of Sections 84E and 84F to Other Estates) Notification 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

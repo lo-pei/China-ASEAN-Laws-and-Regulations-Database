@@ -1,7 +1,7 @@
 {
  "id": "SG-H1858",
  "title": {
-  "zh": null,
+  "zh": "住房与发展（中峇鲁住宅区战前店铺维修费变更）公告",
   "en": "Housing and Development (Variation of Maintenance Fees for Pre-war shops in Tiong Bahru Housing Estate) Notification",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. Apartment Block 55, #01-02 Tiong Bahru Road\n2. Apartment Block 55, #01-37 Tiong Bahru Road\n3. Apartment Block 55, #01-39 Tiong Bahru Road\n4. Apartment Block 55, #01-57 Tiong Bahru Road\n5. Apartment Block 55, #01-59 Tiong Bahru Road\n6. Apartment Block 56, #01-46 Eng Hoon Street\n7. Apartment Block 56, #01-48 Eng Hoon Street\n8. Apartment Block 56, #01-68 Eng Hoon Street\n9. Apartment Block 56, #01-70 Eng Hoon Street\n10. Apartment Block 57, #01-72 Eng Hoon Street\n11. Apartment Block 57, #01-74 Eng Hoon Street\n12. Apartment Block 57, #01-86 Eng Hoon Street\n13. Apartment Block 57, #01-88 Eng Hoon Street\n14. Apartment Block 66, #01-04 Eng Watt Street\n15. Apartment Block 66, #01-06 Eng Watt Street\n16. Apartment Block 66, #01-28 Eng Watt Street\n17. Apartment Block 66, #01-30 Eng Watt Street\n18. Apartment Block 82, #01-03 Tiong Poh Road\n19. Apartment Block 82, #01-05 Tiong Poh Road\n20. Apartment Block 65, #01-38 Tiong Poh Road\n21. Apartment Block 78, #01-39 Guan Chuan Street\n22. Apartment Block 78, #01-41 Guan Chuan Street\n23. Apartment Block 78, #01-43 Guan Chuan Street\n24. Apartment Block 78, #01-45 Guan Chuan Street\n25. Apartment Block 78, #01-19 Moh Guan Terrace\n26. Apartment Block 78, #01-25 Moh Guan Terrace\n27. Apartment Block 58, #01-15 Seng Poh Road\n28. Apartment Block 58, #01-17 Seng Poh Road\n29. Apartment Block 58, #01-19 Seng Poh Road\n30. Apartment Block 58, #01-21 Seng Poh Road\n31. Apartment Block 58, #01-23 Seng Poh Road\n32. Apartment Block 58, #01-25 Seng Poh Road\n33. Apartment Block 58, #01-27 Seng Poh Road\n34. Apartment Block 58, #01-29 Seng Poh Road\n35. Apartment Block 58, #01-31 Seng Poh Road\n36. Apartment Block 71, #01-33 Seng Poh Road\n37. Apartment Block 71, #01-35 Seng Poh Road\n38. Apartment Block 71, #01-37 Seng Poh Road\n39. Apartment Block 71, #01-39 Seng Poh Road\n40. Apartment Block 71, #01-41 Seng Poh Road\n41. Apartment Block 71, #01-43 Seng Poh Road\n42. Apartment Block 71, #01-45 Seng Poh Road\n43. Apartment Block 71, #01-47 Seng Poh Road\n44. Apartment Block 71, #01-49 Seng Poh Road\n45. Apartment Block 78, #01-12 Yong Siak Street\n46. Apartment Block 78, #01-14 Yong Siak Street\n47. Apartment Block 78, #01-16 Yong Siak Street\n48. Apartment Block 78, #01-18 Yong Siak Street."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Variation of Maintenance Fees for Pre-war shops in Tiong Bahru Housing Estate) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

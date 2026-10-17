@@ -1,7 +1,7 @@
 {
  "id": "SG-H505",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（指定股份）条例 2022",
   "en": "Central Provident Fund (Designated Shares) Regulations 2022",
   "orig": null
  },
@@ -217,5 +217,13 @@
     "en": "THE SCHEDULE\nRegulation 7\nPrescribed circumstances under\nsection 26(6)(b) of Act and time for sale of vested shares\nFirst column\nSecond column\nPrescribed circumstances\nDay, date or period to\nsell vested shares\n1.The Board is notified before 1 April 2022 that a designated shareholder has died before 1 November 2015 and no instructions (whether or not with duly completed forms and documents) are received before 1 April 2022\n(a)Where the designated shareholder died between 1 March 2015 and 31 October 2015 (both dates inclusive) — the 15th day of the month following the 7th anniversary of the designated shareholder’s death; or\n(b)where the designated shareholder died before 1 March 2015 — as soon as practicable after 1 April 2022\n2.The designated shareholder’s accounts in the Fund have been deemed to be dormant under section 2(1B) of the Act before 1 April 2022 and before the vested shares are sold —\n(a)the designated shareholder has not satisfied the Board that he or she is still alive; and\n(b)the Board has not been notified that the designated shareholder has died\n18 April 2022\n3.The designated shareholder’s accounts in the Fund have been deemed to be dormant under section 2(1B) of the Act on or after 1 April 2022 and before the vested shares are sold —\n(a)the designated shareholder has not satisfied the Board that he or she is still alive; and\n(b)the Board has not been notified that the designated shareholder has died\nThe 15th day of the month immediately following the month in which the accounts have been deemed to be dormant\n4.Where —\n(a)the Board has been notified, whether before, on or after 1 April 2022 that the designated shareholder has died; and\n(b)the deceased designated shareholder’s nominee is an undischarged bankrupt\nBetween the 2nd and 4th working day (both days inclusive) after the date that the Board is satisfied that the nominee is an undischarged bankrupt\n5.Where —\n(a)the Board has been notified, whether before, on or after 1 April 2022 that the designated shareholder has died; and\n(b)the deceased designated shareholder’s nominee (not being a widow of the deceased designated shareholder) is below 18 years of age\nBetween the 2nd and 4th working day (both days inclusive) after the date that the Board is satisfied that the nominee is below 18 years of age\n6.The Board has been notified, on or after 1 April 2022, that the designated shareholder has died and the deceased designated shareholder has executed a memorandum under section 25(1) of the Act that provides for payment to a nominee in accordance with section 25(1)(a)(iii) and (b) of the Act\nBetween the 2nd and 4th working day (both days inclusive) after the date that the Board is satisfied that the deceased designated shareholder has executed the memorandum\n7.Where —\n(a)the Board gives its authority before 1 April 2024 (on the application of the designated shareholder on or after 1 April 2022) for the withdrawal of the sum standing to the credit of the designated shareholder in the Fund under section 15(2)(b) or (c) of the Act as in force before 1 April 2024;\n(b)the designated shareholder has not, before the Board gives its authority mentioned in paragraph (a), instructed the Board to transfer the designated shares to the designated shareholder’s securities account; and\n(c)before the designated shares are sold, the Board has not been notified that the designated shareholder has died\nBetween the 2nd and 4th working day (both days inclusive) after the date on which the Board has given its authority mentioned in paragraph (a) of this item\n[S 280/2024 wef 01/04/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund (Designated Shares) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

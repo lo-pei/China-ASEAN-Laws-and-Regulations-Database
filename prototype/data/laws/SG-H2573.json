@@ -1,7 +1,7 @@
 {
  "id": "SG-H2573",
  "title": {
-  "zh": null,
+  "zh": "所得税（银行或金融公司业务转让）（第 6 号）命令 2002",
   "en": "Income Tax (Transfer of Undertaking by Bank or Finance Company) (No. 6) Order 2002",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The Income Tax (Transfer of Undertaking by Bank or Finance Company) (No. 4) Order 2001 (G.N. No. S 303/2001) is revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Transfer of Undertaking by Bank or Finance Company) (No. 6) Order 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

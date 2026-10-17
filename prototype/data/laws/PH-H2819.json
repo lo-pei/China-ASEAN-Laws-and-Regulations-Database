@@ -1,7 +1,7 @@
 {
  "id": "PH-H2819",
  "title": {
-  "zh": null,
+  "zh": "为安蒂克省设立一名助理省检察官职位，为此重新制定《行政法典》第1674条第一段第26项（经修正）的法案",
   "en": "An Act Creating the Position of One Assistant Provincial Fiscal for the Province of Antique, Reenacting for the Purpose the Twenty-Sixth Subparagraph of the First Paragraph of Section Sixteen Hundred and Seventy-Four of the Administrative Code, as Amended",
   "orig": "An Act Creating the Position of One Assistant Provincial Fiscal for the Province of Antique, Reenacting for the Purpose the Twenty-Sixth Subparagraph of the First Paragraph of Section Sixteen Hundred and Seventy-Four of the Administrative Code, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Position of One Assistant Provincial Fiscal for the Province of Antique, Reenacting for the Purpose the Twenty-Sixth Subparagraph of the First Paragraph of Section Sixteen Hundred and Seventy-Four of the Administrative Code, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

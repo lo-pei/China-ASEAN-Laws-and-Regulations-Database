@@ -1,7 +1,7 @@
 {
  "id": "PH-H461",
  "title": {
-  "zh": null,
+  "zh": "规定省长、省财政官、省审计员、区卫生官与省估价官薪俸的法案",
   "en": "An Act to Fix the Salaries of Provincial Governors, Provincial Treasurers, Provincial Auditors, District Health Officers, and Provincial Assessors",
   "orig": "An Act to Fix the Salaries of Provincial Governors, Provincial Treasurers, Provincial Auditors, District Health Officers, and Provincial Assessors"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect on July 1, 1949.\nApproved, June 10, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Fix the Salaries of Provincial Governors, Provincial Treasurers, Provincial Auditors, District Health Officers, and Provincial Assessors",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

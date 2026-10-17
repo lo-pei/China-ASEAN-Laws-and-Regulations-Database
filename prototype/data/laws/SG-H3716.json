@@ -1,7 +1,7 @@
 {
  "id": "SG-H3716",
  "title": {
-  "zh": null,
+  "zh": "不公平合同条款法 1977",
   "en": "Unfair Contract Terms Act 1977",
   "orig": null
  },
@@ -360,5 +360,13 @@
     "en": "SECOND SCHEDULE\nSection 11(2)\nGuidelines for Application of Reasonableness Test\nThe matters to which regard is to be had in particular for the purposes of sections 6(3) and 7(3) and (4) are any of the following which appear to be relevant:\n(a)the strength of the bargaining positions of the parties relative to each other, taking into account (among other things) alternative means by which the customer’s requirements could have been met;\n(b)whether the customer received an inducement to agree to the term, or in accepting it had an opportunity of entering into a similar contract with other persons, but without having to accept a similar term;\n(c)whether the customer knew or ought reasonably to have known of the existence and extent of the term (having regard, among other things, to any custom of the trade and any previous course of dealing between the parties);\n(d)where the term excludes or restricts any relevant liability if some condition is not complied with, whether it was reasonable at the time of the contract to expect that compliance with that condition would be practicable;\n(e)whether the goods were manufactured, processed or adapted to the special order of the customer."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Unfair Contract Terms Act 1977",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

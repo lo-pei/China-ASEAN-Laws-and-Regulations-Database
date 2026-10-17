@@ -1,7 +1,7 @@
 {
  "id": "PH-H3056",
  "title": {
-  "zh": null,
+  "zh": "修订San Carlos市宪章若干条款的法案",
   "en": "An Act to Amend Certain Sections of the Charter of the City of San Carlos",
   "orig": "An Act to Amend Certain Sections of the Charter of the City of San Carlos"
  },
@@ -60,5 +60,13 @@
     "en": "Section ten of the same Act is amended to read as follows:\n\"Sec. 10."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of the Charter of the City of San Carlos",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

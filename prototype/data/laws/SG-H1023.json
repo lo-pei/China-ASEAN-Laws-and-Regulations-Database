@@ -1,7 +1,7 @@
 {
  "id": "SG-H1023",
  "title": {
-  "zh": null,
+  "zh": "货币法——硬币面额与特征",
   "en": "Currency Act — Denominations and Characteristics of Coins",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF COINS IN THE 2007 UNCIRCULATED COIN SET TO BE ISSUED ON 5TH JANUARY 2007\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n5 Cents\nCopper 92% Aluminium 6% Nickel 2%\n1.56 g 0.062 g\n16.75 + mm 0.125 mm\n1.22 + mm 0.152 mm\nRound\nMilled\nThe Singapore Arms in the centre with the year-date “2007” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coins. A ring of dashes surrounds the Singapore Arms on both the 10-cent and 50-cent coins. The $1 coin has an octagonal frame along the circumference. The $5 coin has a ring of beads surrounding the Singapore Arms with a latent image below it depicting the year-date “2007” and MAS logo.\nThe Fruit Salad Plant (Monstera deliciosa) in the centre with the figure “5” below it and the words “FIVE CENTS” above it.\n10 Cents\nCopper 75% Nickel 25%\n2.60 g + 0.065 g\n18.50 + mm 0.125 mm\n1.38 + mm 0.152 mm\nRound\nMilled\nThe Star Jasmine (Jasminum multiflorum) in the centre with the figures “10” below it and the words “TEN CENTS” above it.\n20 Cents\nCopper 75% Nickel 25%\n4.50 g + 0.112 g\n21.36 + mm 0.125 mm\n1.72 + mm 0.152 mm\nRound\nMilled\nThe Powder-puff Plant (Calliandra surinamensis) in the centre with the figures “20” below it and the words “TWENTY CENTS” above it.\n50 Cents\nCopper 75% Nickel 25%\n7.29 g + 0.145 g\n24.66 + mm 0.125 mm\n2.06 + mm 0.152 mm\nRound\nPlain and bearing the words “REPUBLIC OF SINGAPORE” and lion symbol\nThe yellow Allamanda (Allamanda cathartica) in the centre with the figures “50” below it and the words “FIFTY CENTS” above it.\n1 Dollar\nCopper 92% Aluminium 6% Nickel 2%\n6.30 g + 0.13 g\n22.40 + mm 0.125 mm\n2.40 + mm 0.152 mm\nRound\nMilled and bearing the words “REPUBLIC OF SINGAPORE” and lion symbol\nThe Periwinkle (Lochnera rosea) in the centre with 4 smaller periwinkles surrounding it, the figures “$1” below it and the words “ONE DOLLAR” above it. An octagonal frame surrounds the design.\n5 Dollars\nOuter Ring - Copper 75% Nickel 25% Core - Copper 92% Aluminium 6%Nickel 2%\n6.70 g + 0.17 g\n23.30 + mm 0.125 mm\n2.30 + mm 0.152 mm\nScallop\nPlain\nThe flower, Vanda Miss Joaquim in the centre with the figures “$5” below it. A ring of beads surrounds the flower with the words “FIVE DOLLARS” and 5 dots at the outer ring of the coin.\n(a) Reverse Design of the 5-cent Base Metal Coin.\n(b) Reverse Design of the 10-cent Base Metal Coin.\n(c) Reverse Design of the 20-cent Base Metal Coin.\n(d) Reverse Design of the 50-cent Base Metal Coin.\n(e) Reverse Design of the $1 Base Metal Coin.\n(f) Reverse Design of the $5 Base Metal Coin.\n(g) Obverse Design for 5-cent Base Metal Coin.\n(h) Obverse Design for 10-cent Base Metal Coin.\n(i) Obverse Design for 20-cent Base Metal Coin.\n(j) Obverse Design for 50-cent Base Metal Coin.\n(k) Obverse Design for $1 Base Metal Coin.\n(l) Obverse Design for $5 Base Metal Coin.\n(m) Latent Image."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency Act — Denominations and Characteristics of Coins",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

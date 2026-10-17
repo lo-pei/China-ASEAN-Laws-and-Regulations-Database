@@ -1,7 +1,7 @@
 {
  "id": "PH-H314",
  "title": {
-  "zh": null,
+  "zh": "授权阿尔拜省Tabaco市镇购置设立工人村所需土地并为其他目的法案",
   "en": "An Act Authorizing the Municipality of Tabaco, Province of Albay, to Acquire Such Land or Lands Necessary for the Establishment of a Workmen's Barrio in Said Municipality and for Other Purposes",
   "orig": "An Act Authorizing the Municipality of Tabaco, Province of Albay, to Acquire Such Land or Lands Necessary for the Establishment of a Workmen's Barrio in Said Municipality and for Other Purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 5, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Municipality of Tabaco, Province of Albay, to Acquire Such Land or Lands Necessary for the Establishment of a Workmen's Barrio in Said Municipality and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

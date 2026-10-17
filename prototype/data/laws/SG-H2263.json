@@ -1,7 +1,7 @@
 {
  "id": "SG-H2263",
  "title": {
-  "zh": null,
+  "zh": "所得税（功能货币）条例 2004",
   "en": "Income Tax (Functional Currency) Regulations 2004",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "4.—(1) Subject to paragraph (2), a company, an individual or a precedent partner referred to in regulation 2 or 3, as the case may be, shall make an irrevocable election in writing of one of the following rates of exchange for the purposes of converting the amounts referred to in regulation 2 or 3, as the case may be, denominated in Singapore dollar into an equivalent amount in a non-Singapore dollar functional currency:\n(a)the average rate of exchange, as made available by the Monetary Authority of Singapore, calculated on the basis of the rate of exchange at the end of each month for a period of 12 months up to the last day of the last accounting period in which the financial accounts are maintained in Singapore dollar;\n(b)the average rate of exchange, as made available by the Monetary Authority of Singapore, calculated on the basis of the rate of exchange at the end of each month of the accounting period that constitutes the basis period for that year of assessment.\n(1A) Subject to paragraph (2), a licensed insurer mentioned in regulation 3A must make an irrevocable election in writing of one of the following rates of exchange for the purposes of converting the amounts mentioned in regulation 3A denominated in a non‑Singapore dollar functional currency into an equivalent amount in Singapore dollar:\n(a)the average rate of exchange, as made available by the Monetary Authority of Singapore, calculated on the basis of the rate of exchange at the end of each month for a period of 12 months up to the last day of the last accounting period in which the financial accounts are maintained in a non‑Singapore dollar functional currency;\n(b)the average rate of exchange, as made available by the Monetary Authority of Singapore, calculated on the basis of the rate of exchange at the end of each month of the accounting period that constitutes the basis period for that year of assessment.\n[S 880/2022 wef 11/11/2022]\n(2) Where no average rate of exchange referred to in paragraph (1)(a) or (b), or (1A)(a) or (b) is made available by the Monetary Authority of Singapore, the average rate of exchange applicable shall be such rate of exchange as may be determined by the Comptroller.\n[S 880/2022 wef 11/11/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Functional Currency) Regulations 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

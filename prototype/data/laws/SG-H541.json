@@ -1,7 +1,7 @@
 {
  "id": "SG-H541",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（修订工作收入补助计划）条例 2016",
   "en": "Central Provident Fund (Revised Workfare Income Supplement Scheme) Regulations 2016",
   "orig": null
  },
@@ -778,5 +778,13 @@
     "en": "FIFTEENTH SCHEDULE\nRegulations 8AH and 8AI(6)\nAdditional contributions for Group B worker\nfor applicable year 2025 or later\nTotal\nsum for\napplicable\nyear\nAge of member on 1 January of applicable year\nBelow\n35 years\nof age\nAttained\n35 years\nof age\nbut below 45 years\nof age\nAttained\n45 years\nof age\nbut below\n50 years\nof age\nAttained\n50 years\nof age\n1.Not more than $6,000\n$240\n$270\n$300\n$315\n2.More than $6,000 but not more than $12,000\nAn amount equal to 4% of the member’s total sum for that year\nAn amount equal to 4.5% of the member’s total sum for that year\nAn amount equal to 5% of the member’s total sum for that year\nAn amount equal to 5.25% of the member’s total sum for that year\n3.More than $12,000 but not more than $18,000\nAn amount equal to the sum of $480 and 0.16 of the difference between the member’s total sum for that year and $12,000\nAn amount equal to the sum of $540 and 0.18 of the difference between the member’s total sum for that year and $12,000\nAn amount equal to the sum of $600 and 0.20 of the difference between the member’s total sum for that year and $12,000\nAn amount equal to the sum of $630 and 0.21 of the difference between the member’s total sum for that year and $12,000\n4.More than $18,000\nAn amount equal to 8% of the member’s total sum for that year\nAn amount equal to 9% of the member’s total sum for that year\nAn amount equal to 10% of the member’s total sum for that year\nAn amount equal to 10.5% of the member’s total sum for that year\nNote:\nIn this Schedule, “total sum” means, in relation to regulation 8AI(6), the sum of the total APE of an eligible Group B worker for all relevant months in an applicable year."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund (Revised Workfare Income Supplement Scheme) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

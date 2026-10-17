@@ -1,7 +1,7 @@
 {
  "id": "PH-H9951",
  "title": {
-  "zh": null,
+  "zh": "将2020年拨款的可用期限延至2021年12月31日，为此修订第11465号共和国法（即2020财政年度总拨款法）总则第60条的法案",
   "en": "An Act Extending the Availability of the 2020 Appropriations to December 31, 2021, Amending for the Purpose Section 60 of the General Provisions of the Republic Act No. 11465 or the General Appropriations Act of Fiscal Year 2020",
   "orig": "An Act Extending the Availability of the 2020 Appropriations to December 31, 2021, Amending for the Purpose Section 60 of the General Provisions of the Republic Act No. 11465 or the General Appropriations Act of Fiscal Year 2020"
  },
@@ -50,5 +50,13 @@
     "en": "Section 60 of the 2020 General Appropriations Act or Republic Act No. 11465 is hereby amended to read as follows:\n\"SEC. 60. Cash Budgeting System. All appropriations authorized in this Act, including budgetary support to GOCCs, shall be available for release and disbursement for the purpose specified, and under the same general and special provisions applicable thereto, until December 31, 2021. While the amount appropriated herein as financial assistance to LGUs released during the fiscal year shall be available for disbursement for the purpose specified until December 31, 2021. On the other hand, appropriations for the statutory shares of LGUs shall be available for obligations and disbursement until fully expended.\nAfter the end of validity period, all unreleased appropriation shall lapse, while unexpended or undisbursed funds shall revert to the unappropriated surplus of the General Fund in accordance with Section 28, Chapter 4, Book VI of E.O. No. 292 and shall not thereafter be available for expenditure except by subsequent legislative enactment. Departments, bureaus, and offices of the National Government, including constitutional offices enjoying fiscal autonomy, SUCs and GOCCs, shall strictly observe the validity of appropriations and the reversion of funds.\nThe balance of fund transfers between agencies, instrumentalities and government-owned or controlled corporations which, while obligated, remain unused, unutilized, unexpended, and undisbursed as of December 31, 2021 shall revert to the unappropriated surplus of the General Fund.\nAgency outsourcing requests or agreements by agencies, instrumentalities and/or government-owned and controlled corporations with Philippine International Trading Corporation shall not be allowed. Any balances of fund transfers in the books of the Philippine International Trading Corporation shall revert to the unappropriated surplus of the General Fund upon effectivity of this Act.\nFor FY 2020, the appropriations for infrastructure capital outlays, including those subsidy releases to GOCCs for infrastructure projects, shall be valid for obligation until December 31, 2021, while the completion of construction, inspection, and payment shall be made not later than December 31, 2021. On the other hand, appropriations for MOOE and other capital outlays item shall likewise be valid for obligation until December 31, 2021, while the delivery, inspection and payment shall be made not later than December 31, 2021.\nThe DBM is authorized to issue the necessary guidelines for the effective implementation of the cash budgeting system.\nA report on these releases, obligations and disbursements shall be submitted to the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Availability of the 2020 Appropriations to December 31, 2021, Amending for the Purpose Section 60 of the General Provisions of the Republic Act No. 11465 or the General Appropriations Act of Fiscal Year 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

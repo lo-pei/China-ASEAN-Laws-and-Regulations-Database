@@ -1,7 +1,7 @@
 {
  "id": "PH-H1959",
  "title": {
-  "zh": null,
+  "zh": "将八打雁省罗萨里奥市镇皮纳格卡努兰村更名为马里拉格村的法案",
   "en": "An Act Changing to Marilag the Name of Barrio Pinagkaanuran in the Municipality of Rosario, Province of Batangas",
   "orig": "An Act Changing to Marilag the Name of Barrio Pinagkaanuran in the Municipality of Rosario, Province of Batangas"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 16, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing to Marilag the Name of Barrio Pinagkaanuran in the Municipality of Rosario, Province of Batangas",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

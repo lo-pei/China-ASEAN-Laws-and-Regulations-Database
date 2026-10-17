@@ -1,7 +1,7 @@
 {
  "id": "PH-H6911",
  "title": {
-  "zh": null,
+  "zh": "进一步延长某些住宅单元的租金管制期，为此修订Batas Pambansa Blg. 877（即《规定某些住宅单元租金稳定与管制并为其他目的》，经修正）的法案",
   "en": "An Act Further Extending the Rent Control Period for Certain Residential Units Amending Thereby Batas Pambansa Blg. 877 Entitled: \"An Act Providing for the Stabilization and Regulation of Rentals of Certain Residential Units, and for Other Purposes, as Amended",
   "orig": "An Act Further Extending the Rent Control Period for Certain Residential Units Amending Thereby Batas Pambansa Blg. 877 Entitled: \"An Act Providing for the Stabilization and Regulation of Rentals of Certain Residential Units, and for Other Purposes, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect on January 1, 1998, following its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Extending the Rent Control Period for Certain Residential Units Amending Thereby Batas Pambansa Blg. 877 Entitled: \"An Act Providing for the Stabilization and Regulation of Rentals of Certain Residential Units, and for Other Purposes, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

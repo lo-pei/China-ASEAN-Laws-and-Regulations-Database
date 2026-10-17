@@ -1,7 +1,7 @@
 {
  "id": "SG-H1118",
  "title": {
-  "zh": null,
+  "zh": "硬币面额与特征",
   "en": "Denominations and Characteristics of Coins",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE 2006 SINGAPORE 41 YEARS OF INDEPENDENCE COMMEMORATIVE COINS TO BE ISSUED ON 25TH JULY 2006\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n2 Dollars\n999 Fine Silver\n20.00 g +\n0.20 g\n38.70 mm + 0.15 mm\n2.50 mm + 0.30 mm\nRound\nMilled and bearing the words “MONETARY AUTHORITY OF SINGAPORE” and lion symbol.\nThe Singapore Arms in the centre with the year-date “2006” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’ clock of the coin.\nThe coin design features the official 2006 National Day Parade (NDP) logo with the theme “OUR GLOBAL CITY OUR HOME 2006”. The phrase “41 YEARS OF INDEPENDENCE” is at the upper circumference of the coin.\n2 Dollars\n75% Copper\n25% Nickel\n20.00 g +\n0.60 g\n38.70 mm + 0.15 mm\n2.50 mm + 0.30 mm\nRound\nThe Singapore Arms in the centre with the year-date “2006” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin.\nAlso depicted is a group of children running hand-in-hand to join in the National Day celebrations.\nIn the background is the National Stadium which is the venue for this year’s NDP. Hovering above the Stadium is the traditional fly-past of the State Flag.\nThe denomination is at the lower-left of the coin.\n(a) Reverse Design of the $2 Silver Proof Coin.\n(b) Reverse Design of the $2 Cupro-Nickel Proof-Like Coin.\n(c) Obverse Design for $2 Silver Proof Coin.\n(d) Obverse Design for $2 Cupro-Nickel Proof-Like Coin."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Denominations and Characteristics of Coins",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

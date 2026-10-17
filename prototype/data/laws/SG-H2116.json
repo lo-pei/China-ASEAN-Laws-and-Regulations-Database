@@ -1,7 +1,7 @@
 {
  "id": "SG-H2116",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）命令 2017",
   "en": "Income Tax (Exemption of Foreign Income) Order 2017",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The dividends of US$1,500,000 received in Singapore by ST‑Airport Services Pte Ltd on 24 October 2016 from its subsidiary, ST‑Airport Services (Timor‑Leste) Lda (a company incorporated in Timor‑Leste), are exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the condition in paragraph 4 of the letter of approval dated 27 September 2016 addressed to PricewaterhouseCoopers Singapore Pte Ltd, on behalf of ST‑Airport Services Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

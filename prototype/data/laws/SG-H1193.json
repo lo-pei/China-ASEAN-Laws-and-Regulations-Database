@@ -1,7 +1,7 @@
 {
  "id": "SG-H1193",
  "title": {
-  "zh": null,
+  "zh": "幼儿发展中心（豁免）命令 2018",
   "en": "Early Childhood Development Centres (Exemption) Order 2018",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nEarly childhood development centres\n1. EIS International Pre‑School\n2. EtonHouse International Pre‑School\n3. Ganenu\n4. Japanese Kindergarten\n5. Konohana Kindergarten\n6. Korean Church Kindergarten\n7. Rain Trees International Kindergarten\n8. Rosemount Kindergarten\n9. Waldorf Steiner Early Years Centre"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Early Childhood Development Centres (Exemption) Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H365",
  "title": {
-  "zh": null,
+  "zh": "废止马尼拉市功绩与审判委员会，恢复该市警察部门在第698号联邦法批准前的地位，为此废止该法并恢复《行政法典》与第177号联邦法的相关规定",
   "en": "An Act to Abolish the Merit and Trial Board in the City of Manila, to Restore the Police Department Thereof to its Status Prior to the Approval of Commonwealth Act Numbered Six Hundred Ninety-Eight, Repealing for the Purpose Said Act, and Reviving the Provisions of the Administrative Code, Commonwealth Act Numbered One Hundred Seventy-Seven, and All Other Acts or Parts of Acts Which were Expressly or Impliedly Repealed by Commonwealth Act Numbered Six Hundred Ninety-Eight",
   "orig": "An Act to Abolish the Merit and Trial Board in the City of Manila, to Restore the Police Department Thereof to its Status Prior to the Approval of Commonwealth Act Numbered Six Hundred Ninety-Eight, Repealing for the Purpose Said Act, and Reviving the Provisions of the Administrative Code, Commonwealth Act Numbered One Hundred Seventy-Seven, and All Other Acts or Parts of Acts Which were Expressly or Impliedly Repealed by Commonwealth Act Numbered Six Hundred Ninety-Eight"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Abolish the Merit and Trial Board in the City of Manila, to Restore the Police Department Thereof to its Status Prior to the Approval of Commonwealth Act Numbered Six Hundred Ninety-Eight, Repealing for the Purpose Said Act, and Reviving the Provisions of the Administrative Code, Commonwealth Act Numbered One Hundred Seventy-Seven, and All Other Acts or Parts of Acts Which were Expressly or Impliedly Repealed by Commonwealth Act Numbered Six Hundred Ninety-Eight",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1551",
  "title": {
-  "zh": null,
+  "zh": "财务顾问（结构性存款——规定投资产品与豁免）条例",
   "en": "Financial Advisers (Structured Deposits — Prescribed Investment Product and Exemption) Regulations",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. Any person who is —\n(a)a licensed financial adviser;\n[S 718/2010 wef 26/11/2010]\n(b)an exempt financial adviser; or\n(c)a representative of a licensed financial adviser or of an exempt financial adviser,\n[S 718/2010 wef 26/11/2010]\nshall be exempted from complying with —\n(i)section 25 of the Act, in relation to the provision of any financial advisory service relating to any structured deposit (other than a dual currency investment) which has been prescribed under section 25(6) (definition of “designated investment product”) of the Act as a designated investment product; and\n(ii)sections 26 to 29 and 36 of the Act, in relation to the provision of any financial advisory service relating to any structured deposit (other than a dual currency investment).\n[G.N. No. S 775/2005]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Financial Advisers (Structured Deposits — Prescribed Investment Product and Exemption) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

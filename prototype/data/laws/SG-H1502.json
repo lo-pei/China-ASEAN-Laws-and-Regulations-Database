@@ -1,7 +1,7 @@
 {
  "id": "SG-H1502",
  "title": {
-  "zh": null,
+  "zh": "费用（社会与家庭发展部）（撤销）命令 2024",
   "en": "Fees (Ministry of Social and Family Development) (Revocation) Order 2024",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Despite paragraph 2, the Fees (Ministry of Social and Family Development) Order 2012 (called the revoked Order) continues to apply in relation to any appointment of the Director‑General of Social Welfare as guardian ad litem in adoption proceedings under the repealed Adoption of Children Act 1939 in any of the courts mentioned in paragraph 2 of the revoked order."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Ministry of Social and Family Development) (Revocation) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

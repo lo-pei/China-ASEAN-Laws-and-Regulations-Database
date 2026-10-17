@@ -1,7 +1,7 @@
 {
  "id": "SG-H1588",
  "title": {
-  "zh": null,
+  "zh": "消防安全（豁免）命令",
   "en": "Fire Safety (Exemption) Order",
   "orig": null
  },
@@ -97,5 +97,13 @@
     "en": "SECOND SCHEDULE\nParagraph 2(2)\nPart 1\nBUILDINGS EXEMPT IF CONDITIONS IN PART 2 ARE SATISFIED\n1. Detached, semi-detached and terrace houses each of which —\n(a)does not exceed 3 storeys or 3 levels, including basement and attic; and\n(b)does not share any facility with any other building.\n2. Hoardings that —\n(a)are used to carry out alterations or additions for an existing building; and\n(b)affect any of the following for the building:\n(i)any means of escape from the building;\n(ii)the building’s fire protection system;\n(iii)the building’s fire-fighting system;\n(iv)any means of access for officers to fight fires at the building;\n(v)any fire hydrant for the building.\n3. Containers that —\n(a)fit the description in paragraphs (a), (b), (c), (d), (e), (f) and (j) of item 28 of the First Schedule; but\n(b)do not fit the description in paragraph (g), (h), (i) or (k) of that item.\nPart 2\nCONDITIONS OF EXEMPTION\n1. The person for whom any fire safety works are to be carried out must appoint a qualified person for those works.\n2. The qualified person mentioned in paragraph 1 must, in addition to his or her duties under the Act and any regulations made under the Act —\n(a)design and prepare the plans for the fire safety works in accordance with the Fire Code and certify in the form required by the Commissioner that the plans are prepared in accordance with the Act, any regulations made under the Act and these conditions;\n(b)take all reasonable steps and exercise due diligence in supervising and inspecting the fire safety works to ensure that those works are being carried out in accordance with the Act, any regulations made under the Act and these conditions; and\n(c)upon completion of the fire safety works, certify in the form required by the Commissioner that the fire safety works have been inspected and completed in accordance with the Act, any regulations made under the Act and these conditions, and furnish that certificate, together with the plans and the certificate mentioned in sub-paragraph (a), to the person for whom the fire safety works have been carried out.\n3. The person for whom the fire safety works have been carried out must ensure that all the plans and certificates mentioned in paragraph 2(c) are kept available for inspection either in a physical form at the building where the fire safety works were carried out or in an electronic form, for the following duration:\n(a)where the fire safety works relate to fire protection works — as long as the fire protection system related to the fire protection works is in use;\n(b)where the fire safety works relate to a fire safety measure — as long as the fire safety measure is in use;\n(c)where the fire safety works relate to a relevant pipeline — as long as the relevant pipeline is in use;\n(d)where the fire safety works relate to relevant works — as long as the building or system (as the case may be) related to the relevant works is in use.\n[S 757/2023 wef 24/11/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fire Safety (Exemption) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

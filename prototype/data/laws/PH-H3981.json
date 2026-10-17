@@ -1,7 +1,7 @@
 {
  "id": "PH-H3981",
  "title": {
-  "zh": null,
+  "zh": "便利第3588号共和国法（经修正）关于仅1967年选民登记的实施，延长选民登记及相关程序的期限，增设登记委员会，并授予选举委员会附加权力，并为其他目的法案",
   "en": "An Act to Facilitate Implementation of Republic Act Numbered Three Thousand Five Hundred Eighty-Eight, as Amended, on the Registration of Voters for Nineteen Hundred Sixty-Seven Only, Extending the Periods for Registration of Voters and Related Proceedings Thereunder, Providing for Additional Registration Boards, and Granting Additional Powers to the Commission on Elections, and for Other Purposes",
   "orig": "An Act to Facilitate Implementation of Republic Act Numbered Three Thousand Five Hundred Eighty-Eight, as Amended, on the Registration of Voters for Nineteen Hundred Sixty-Seven Only, Extending the Periods for Registration of Voters and Related Proceedings Thereunder, Providing for Additional Registration Boards, and Granting Additional Powers to the Commission on Elections, and for Other Purposes"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, September 8, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Facilitate Implementation of Republic Act Numbered Three Thousand Five Hundred Eighty-Eight, as Amended, on the Registration of Voters for Nineteen Hundred Sixty-Seven Only, Extending the Periods for Registration of Voters and Related Proceedings Thereunder, Providing for Additional Registration Boards, and Granting Additional Powers to the Commission on Elections, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2988",
  "title": {
-  "zh": null,
+  "zh": "法律服务（持续专业进修）规则 2012",
   "en": "Legal Profession (Continuing Professional Development) Rules 2012",
   "orig": null
  },
@@ -253,5 +253,13 @@
     "en": "SECOND SCHEDULE\nRule 9(2)\nPart 1\nCPD REQUIREMENTS APPLICABLE TO\nFOREIGN PRACTITIONERS IN CALENDAR YEARS 2017 TO 2024\nFirst column\nSecond column\nThird column\nPeriod in calendar year when\nforeign practitioner\ncertificate is in force\nMinimum number of\nCPD points from all\nCPD activities\nMinimum number of\nCPD points from accredited\nCPD activities\n1.More than 8 months\n8\n4\n2.More than 5 months up to 8 months\n4\n2\n3.5 months or less\n0\n0\nPart 2\nCPD REQUIREMENTS APPLICABLE TO\nFOREIGN PRACTITIONERS IN CALENDAR YEAR 2025\nFirst column\nSecond column\nThird column\nFourth column\nFifth column\nPeriod in\ncalendar year\nwhen foreign\npractitioner\ncertificate\nis in force\nMinimum\nnumber of\nCPD points from all\nCPD activities\nMinimum\nnumber of\nCPD points\nfrom accredited\nCPD activities\nMinimum\nnumber of\nCPD points\nfrom\nCPD activities\nunder\nmandatory\ncategories of\nCPD activities\nMinimum\nnumber of\nCPD points\nfrom accredited\nCPD activities\nunder\nmandatory\ncategories of\nCPD activities\n1.More than 8 months\n10\n5\n3\n1.5\n2.More than 5 months up to 8 months\n5\n2.5\n0\n0\n3.5 months or less\n0\n0\n0\n0\nPart 3\nCPD REQUIREMENTS APPLICABLE TO\nFOREIGN PRACTITIONERS IN CALENDAR YEAR 2026\nFirst column\nSecond column\nThird column\nFourth column\nFifth column\nPeriod in\ncalendar year\nwhen foreign\npractitioner\ncertificate\nis in force\nMinimum\nnumber of\nCPD points\nfrom all\nCPD activities\nMinimum\nnumber of\nCPD points\nfrom accredited\nCPD activities\nMinimum\nnumber of\nCPD points\nfrom\nCPD activities\nunder\nmandatory\ncategories of\nCPD activities\nMinimum\nnumber of\nCPD points\nfrom accredited\nCPD activities\nunder\nmandatory\ncategories of\nCPD activities\n1.More than 8 months\n13\n6.5\n3\n1.5\n2.More than 5 months up to 8 months\n6.5\n3.5\n0\n0\n3.5 months or less\n0\n0\n0\n0\nPart 4\nCPD REQUIREMENTS APPLICABLE TO\nFOREIGN PRACTITIONERS IN CALENDAR YEAR 2027\nAND SUBSEQUENT YEARS\nFirst column\nSecond column\nThird column\nFourth column\nFifth column\nPeriod in\ncalendar year\nwhen foreign\npractitioner\ncertificate\nis in force\nMinimum\nnumber of\nCPD points\nfrom all\nCPD activities\nMinimum\nnumber of\nCPD points\nfrom accredited\nCPD activities\nMinimum\nnumber of\nCPD points\nfrom\nCPD activities\nunder\nmandatory\ncategories of\nCPD activities\nMinimum\nnumber of\nCPD points\nfrom accredited\nCPD activities\nunder\nmandatory\ncategories of\nCPD activities\n1.More than 8 months\n16\n8\n3\n1.5\n2.More than 5 months up to 8 months\n8\n4\n0\n0\n3.5 months or less\n0\n0\n0\n0\n[S 919/2024 wef 01/01/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Continuing Professional Development) Rules 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

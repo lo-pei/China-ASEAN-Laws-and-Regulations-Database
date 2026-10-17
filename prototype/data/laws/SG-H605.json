@@ -1,7 +1,7 @@
 {
  "id": "SG-H605",
  "title": {
-  "zh": null,
+  "zh": "互助基金（互助基金业务限制）条例 1972",
   "en": "Chit Funds (Limits on Chit Fund Business) Regulations 1972",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The total value of the chit funds to be conducted at any one time by a chit fund company must not exceed 20 times the value of the paid‑up capital of that company."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Chit Funds (Limits on Chit Fund Business) Regulations 1972",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

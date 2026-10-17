@@ -1,7 +1,7 @@
 {
  "id": "SG-H3000",
  "title": {
-  "zh": null,
+  "zh": "律师专业（规定的法定机构与公共服务法律事务所）规则",
   "en": "Legal Profession (Prescribed Statutory Bodies and Law Offices in Public Service) Rules",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of paragraph (b) of the definition of “relevant legal officer” in section 2(1) of the Act, the prescribed statutory bodies and law offices in the public service are as follows:\n(a)the Inland Revenue Authority of Singapore;\n(b)the Intellectual Property Office of Singapore;\n(c)the Singapore Land Authority;\n(d)the Maritime and Port Authority of Singapore;\n[S 126/2015 wef 16/03/2015]\n(e)the National Environment Agency;\n[S 126/2015 wef 16/03/2015]\n(f)the Public Utilities Board;\n[S 126/2015 wef 16/03/2015]\n[G.N No S 465/2009]\n[S 915/2022 wef 01/12/2022]\n(g)the Public Defender’s Office.\n[S 915/2022 wef 01/12/2022]\n[S 915/2022 wef 01/12/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Legal Profession (Prescribed Statutory Bodies and Law Offices in Public Service) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

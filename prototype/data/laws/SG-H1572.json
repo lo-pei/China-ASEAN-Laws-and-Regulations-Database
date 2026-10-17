@@ -1,7 +1,7 @@
 {
  "id": "SG-H1572",
  "title": {
-  "zh": null,
+  "zh": "金融服务与市场（指定金融机构信息共享计划）条例 2024",
   "en": "Financial Services and Markets (Information Sharing Scheme for Prescribed Financial Institutions) Regulations 2024",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) For the purposes of the definition of “relevant party” in section 28B of the Act, each of the following persons is prescribed as a relevant party in relation to a prescribed financial institution that is a bank in Singapore:\n(a)any person that the bank in Singapore opens or has previously opened a relevant account for, or any person who requests the bank in Singapore to open a relevant account (whether or not the bank in Singapore in fact opens the relevant account);\n(b)any person that the bank in Singapore maintains or has previously maintained a relevant account for;\n(c)any person to whom the bank in Singapore provides or has previously provided any financial advisory service as defined in section 2(1) of the Financial Advisers Act 2001, or any person that requests the bank in Singapore to provide such a service (whether or not the bank in Singapore in fact provides the service);\n(d)any person that the bank in Singapore advises or has previously advised on corporate finance as defined in section 2(1) of the Securities and Futures Act 2001, or any person that requests the bank in Singapore to provide such advice (whether or not the bank in Singapore in fact provides the advice);\n(e)any person on whose behalf the bank in Singapore is carrying out a transaction, for whom the bank in Singapore has not opened a relevant account;\n(f)any person who requests the bank in Singapore to carry out a transaction, for whom the bank in Singapore does not open a relevant account, whether or not the bank in Singapore in fact carries out the transaction;\n(g)any person on whose behalf the bank in Singapore previously carried out a transaction, for whom the bank in Singapore did not open a relevant account.\n(2) In this regulation —\n“relevant account”, in relation to a person, means an account that is held in the name of that person whether or not the account is held jointly with any other person;\n“transaction” means a wire transfer or value transfer;\n“value transfer” and “wire transfer” have the meanings given by section 28B of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Financial Services and Markets (Information Sharing Scheme for Prescribed Financial Institutions) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

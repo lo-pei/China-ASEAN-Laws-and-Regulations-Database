@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-1-2017-PROCLAMATION-UNDER-PARAGRAPH-8-OF-THE-SECOND-C49392",
+ "title": {
+  "zh": "依附表二第 8 款发布的宣告",
+  "en": "PROCLAMATION UNDER PARAGRAPH 8 OF THE SECOND SCHEDULE",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p24",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 1252,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-1-2017-PROCLAMATION-UNDER-PARAGRAPH-8-OF-THE-SECOND-SCHEDULE.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-1-2017-PROCLAMATION-UNDER-PARAGRAPH-8-OF-THE-SECOND-SCHEDULE.pdf》（3 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-1-2017-PROCLAMATION-UNDER-PARAGRAPH-8-OF-THE-SECOND-C49392-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "23rd. JANUARY, 2017 No. S 1\n\nCONSTITUTION OF BRUNEI DARUSSALAM\n\nPROCLAMATION UNDER PARAGRAPH 8 OF SECOND SCHEDULE\n\nHIS MAJESTY THE SULTAN AND YANG DI·PERTUAN, BRUNEI DARUSSALAM. In the name of ALLA!f, the Compassionate, the Merciful, PRAISE be to ALLAH, the Lord of the Universe, and may the benediction and peace of ALLAH be upon Our Leader Muhammad and upon all his Relations and Friends.\n\nBY THE GRACE OF ALLAH, WE, SULTAN HAJI HASSANAL BOLKIAH MU'IZZADDIN WADDAULAH IBNI AL-MARHUM SULTAN HAJI OMAR 'ALI SAIFUDDIEN SA'ADUL KHAIRI WADDIEN, SOVEREIGN AND CHIEF\n\nOF THE ROYAL FAMILY ORDER OF THE CROWN OF BRUNEI, SOVEREIGN AND CHIEF OF THE MOST ESTEEMED FAMILY ORDER LAlLA UTAMA,\n\nSOVEREIGN AND CHIEF OF THE MOST ESTEEMED FAMILY ORDER SERI\n\nUTAMA, SOVEREIGN AND CHIEF OF THE MOST EMINENT ORDER OF\n\nISLAM NEGARA BRUNEI, SOVEREIGN AND CHIEF OF THE MOST ILLUSTRIOUS ORDER OF PADUKA LAlLA JASA KEBERANIAN GEMILANG,\n\nSOVEREIGN AND CHIEF OF THE MOST EXALTED ORDER OF PADUKA KEBERANIAN LAlLA TERBILANG, SOVEREIGN AND CHIEF OF THE MOST\n\nGALLANT ORDER OF PAHLAWAN NEGARA BRUNEI, SOVEREIGN AND\n\nCHIEF OF THE MOST BLESSED ORDER OF SETIA NEGARA BRUNEI,\n\nSOVEREIGN AND CHIEF OF THE MOST DISTINGUISHED ORDER OF PADUKA SERI LAlLA JASA, SOVEREIGN AND CHIEF OF THE MOST"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "PROCLAMATION UNDER PARAGRAPH 8 OF THE SECOND SCHEDULE",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

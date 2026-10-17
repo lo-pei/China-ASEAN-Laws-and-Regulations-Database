@@ -1,7 +1,7 @@
 {
  "id": "PH-H1264",
  "title": {
-  "zh": null,
+  "zh": "修订《行政法典》（经修正）第1151条，增列八打雁省八打雁为入境口岸并授权为此拨款的法案",
   "en": "An Act to Amend Section Eleven Hundred Fifty-One of the Administrative Code, as Amended, by Adding Batangas, Province of Batangas, as Port of Entry, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act to Amend Section Eleven Hundred Fifty-One of the Administrative Code, as Amended, by Adding Batangas, Province of Batangas, as Port of Entry, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Eleven Hundred Fifty-One of the Administrative Code, as Amended, by Adding Batangas, Province of Batangas, as Port of Entry, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

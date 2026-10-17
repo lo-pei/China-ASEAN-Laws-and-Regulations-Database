@@ -1,7 +1,7 @@
 {
  "id": "PH-H6659",
  "title": {
-  "zh": null,
+  "zh": "将适用从价税率进口物品的应税价值基础由国内消费价值（HCV）改为交易价值（TV），为此修订第 1464 号总统法令（《菲律宾关税与海关法典》）第 201 条，并为其他目的法案",
   "en": "An Act Changing the Basis of Dutiable Value of Imported Articles Subject to An Ad Valorem Rate of Duty From the Home Consumption Value (HCV) to Transaction Value (TV), Amending for the Purpose Section 201 of Title Ii, Part 1 of Presidential Decree No. 1464, Otherwise Known as the Tariff and Customs Code of the Philippines, as Amended, and for Other Purposes",
   "orig": "An Act Changing the Basis of Dutiable Value of Imported Articles Subject to An Ad Valorem Rate of Duty From the Home Consumption Value (HCV) to Transaction Value (TV), Amending for the Purpose Section 201 of Title Ii, Part 1 of Presidential Decree No. 1464, Otherwise Known as the Tariff and Customs Code of the Philippines, as Amended, and for Other Purposes"
  },
@@ -121,5 +121,13 @@
     "en": "This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) newspapers of general circulation, whichever date comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Basis of Dutiable Value of Imported Articles Subject to An Ad Valorem Rate of Duty From the Home Consumption Value (HCV) to Transaction Value (TV), Amending for the Purpose Section 201 of Title Ii, Part 1 of Presidential Decree No. 1464, Otherwise Known as the Tariff and Customs Code of the Philippines, as Amended, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

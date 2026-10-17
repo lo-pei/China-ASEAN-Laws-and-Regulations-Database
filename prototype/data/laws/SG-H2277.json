@@ -1,7 +1,7 @@
 {
  "id": "SG-H2277",
  "title": {
-  "zh": null,
+  "zh": "所得税（融资租赁所得）条例",
   "en": "Income Tax (Income from Finance Leases) Regulations",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. In determining the income of a lessor derived from the leasing of any plant or machinery under any finance lease (other than a lease which has been treated as a sale agreement under regulation 4) —\n(a)the value of the receipts from the sale by the lessor of the machinery or plant shall be determined in accordance with the open market value of the machinery or plant; and\n(b)the income from the hire or rentals in respect of the lease shall be assessed in accordance with their open market value."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Income from Finance Leases) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

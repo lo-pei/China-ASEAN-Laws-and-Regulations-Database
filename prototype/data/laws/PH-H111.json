@@ -1,7 +1,7 @@
 {
  "id": "PH-H111",
  "title": {
-  "zh": null,
+  "zh": "修订《修订刑法典》第 146、295、296 与 306 条的法案",
   "en": "An Act Amending Articles One Hundred Forty-Six, Two Hundred Ninety-Five, Two Hundred Ninety-Six and Three Hundred Six of the Revised Penal Code",
   "orig": "An Act Amending Articles One Hundred Forty-Six, Two Hundred Ninety-Five, Two Hundred Ninety-Six and Three Hundred Six of the Revised Penal Code"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 5, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Articles One Hundred Forty-Six, Two Hundred Ninety-Five, Two Hundred Ninety-Six and Three Hundred Six of the Revised Penal Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

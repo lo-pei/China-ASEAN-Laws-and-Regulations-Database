@@ -1,7 +1,7 @@
 {
  "id": "SG-H3216",
  "title": {
-  "zh": null,
+  "zh": "公制化法 1970",
   "en": "Metrication Act 1970",
   "orig": null
  },
@@ -169,5 +169,13 @@
     "en": "FOURTH SCHEDULE\nSections 2(1)(b), 3(2)(c) and 6\nUnit\nSymbol\nQuantity\nhectare\nha\narea\nmetric tonne\nt\nmass\nlitre\nL\nvolume\ncentigrade or Celsius\n°C\ntemperature, temperature interval.\n[S 22/89]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Metrication Act 1970",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

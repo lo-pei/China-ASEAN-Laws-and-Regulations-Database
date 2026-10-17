@@ -1,7 +1,7 @@
 {
  "id": "PH-H5322",
  "title": {
-  "zh": null,
+  "zh": "鉴于国家紧急状态的存在，宣布与此相关的国家政策并授权菲律宾总统在限定期间与限制条件下行使执行该政策所必需且适当的权力，并为其他目的法案",
   "en": "An Act to Declare, in View of the Existence of a National Emergency, a National Policy in Connection Therewith and to Authorize the President of the Republic of the Philippines for a limited Period and Subject to Restrictions, to Exercise Powers Necessary and Proper to Carry Out the Declared National Policy and for other purposes",
   "orig": "An Act to Declare, in View of the Existence of a National Emergency, a National Policy in Connection Therewith and to Authorize the President of the Republic of the Philippines for a limited Period and Subject to Restrictions, to Exercise Powers Necessary and Proper to Carry Out the Declared National Policy and for other purposes"
  },
@@ -130,5 +130,13 @@
     "en": "Effectivity. - This Act shall take effect upon its publication in two (2) national newspapers of general circulation and shall be in full force and effect until the next sine die adjournment in June 1990 of the regular session of Congress: Provided, however, That adjournment for a recess shall not affect the duration of this Act: and Provided, further, That the powers granted under this Act may be withdrawn sooner by means of a concurrent resolution of Congress or ended by Presidential Proclamation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Declare, in View of the Existence of a National Emergency, a National Policy in Connection Therewith and to Authorize the President of the Republic of the Philippines for a limited Period and Subject to Restrictions, to Exercise Powers Necessary and Proper to Carry Out the Declared National Policy and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3316",
  "title": {
-  "zh": null,
+  "zh": "废止菲律宾总统1953年9月18日第411号公告的法案",
   "en": "An Act Repealing Proclamation Numbered Four Hundred Eleven, Dated September Eighteen, Nineteen Hundred and Fifty-Three, of the President of the Philippines",
   "orig": "An Act Repealing Proclamation Numbered Four Hundred Eleven, Dated September Eighteen, Nineteen Hundred and Fifty-Three, of the President of the Philippines"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Repealing Proclamation Numbered Four Hundred Eleven, Dated September Eighteen, Nineteen Hundred and Fifty-Three, of the President of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

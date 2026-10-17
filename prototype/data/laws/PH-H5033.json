@@ -1,7 +1,7 @@
 {
  "id": "PH-H5033",
  "title": {
-  "zh": null,
+  "zh": "授予 Congson 制冰与冷藏公司在 General Santos 市建设、运营和维护制冰厂与冷藏设施并分销和销售所制冰和提供冷藏设施的特许权法案",
   "en": "An Act Granting Congson Ice Plant and Cold Storage, Inc., a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage Facility, and to Distribute and Sell Ice So Manufactured and Furnish Cold Storage Facilities in the City of General Santos.",
   "orig": "An Act Granting Congson Ice Plant and Cold Storage, Inc., a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage Facility, and to Distribute and Sell Ice So Manufactured and Furnish Cold Storage Facilities in the City of General Santos."
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: July 22, 1972"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Congson Ice Plant and Cold Storage, Inc., a Franchise to Construct, Operate and Maintain An Ice Plant and Cold Storage Facility, and to Distribute and Sell Ice So Manufactured and Furnish Cold Storage Facilities in the City of General Santos.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

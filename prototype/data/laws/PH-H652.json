@@ -1,7 +1,7 @@
 {
  "id": "PH-H652",
  "title": {
-  "zh": null,
+  "zh": "发展并改善稻米与玉米产业、稳定大米价格并促进主要粮食生产者社会与经济状况的法案",
   "en": "An Act to Develop and Improve the Rice and Corn Industries, to Stabilize the Price of Rice and to Promote the Social and Economic Conditions of the People Engaged in the Production of These Staple Foods",
   "orig": "An Act to Develop and Improve the Rice and Corn Industries, to Stabilize the Price of Rice and to Promote the Social and Economic Conditions of the People Engaged in the Production of These Staple Foods"
  },
@@ -160,5 +160,13 @@
     "en": "This Act shall take effect one month after its approval.\nApproved, June 16, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Develop and Improve the Rice and Corn Industries, to Stabilize the Price of Rice and to Promote the Social and Economic Conditions of the People Engaged in the Production of These Staple Foods",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

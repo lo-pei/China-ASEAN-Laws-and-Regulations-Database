@@ -1,7 +1,7 @@
 {
  "id": "SG-H3700",
  "title": {
-  "zh": null,
+  "zh": "恐怖主义（制止滥用放射性材料）法 2017",
   "en": "Terrorism (Suppression of Misuse of Radioactive Material) Act 2017",
   "orig": null
  },
@@ -220,5 +220,13 @@
     "en": "14. A prosecution under this Act must not be instituted except by or with the consent of the Public Prosecutor."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Terrorism (Suppression of Misuse of Radioactive Material) Act 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H294",
  "title": {
-  "zh": null,
+  "zh": "银行（费用）公告",
   "en": "Banking (Fees) Notification",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) For the purposes of section 7(9) of the Act, the prescribed amount is —\n(a)$20,000 in relation to an application under section 7(1) of the Act; and\n(b)$20,000 in relation to an application under section 7(8) of the Act to vary the conditions of a wholesale banking licence that require the holder of the licence to comply with such guidelines as may be issued by the Authority in relation to the operation of wholesale banks, by revoking such conditions.\n(2) For the purposes of section 13A(2)(c) of the Act, the prescribed amount is $5,000.\n(3) For the purposes of section 55S(7)(a) of the Act, the prescribed amount is $20,000.\n(4) The Authority may waive or refund, wholly or in part, any fee mentioned in sub-paragraph (1), (2) or (3).\n[S 454/2021 wef 01/07/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Banking (Fees) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

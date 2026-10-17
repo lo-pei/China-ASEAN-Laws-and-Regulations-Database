@@ -1,7 +1,7 @@
 {
  "id": "PH-H10639",
  "title": {
-  "zh": null,
+  "zh": "完善大规模金属采矿业财政制度，为此修订 1997 年国家国内税收法典相关条款并新增条款、拨款并为其他目的法案",
   "en": "An Act Enhancing the Fiscal Regime for the Large-scale Metallic Mining Industry, Amending for the Purpose Sections 34(B), 287, and the Subjects of Title VI and Chapter VII Thereof, and Creating New Sections 151-a, 151-b, 151-c, 151-d, and 287-a, All Under Republic Act No. 8424, Otherwise Known as the National Internal Revenue Code of 1997, as Amended, Appropriating Funds Therefor, and for Other Purposes",
   "orig": "An Act Enhancing the Fiscal Regime for the Large-scale Metallic Mining Industry, Amending for the Purpose Sections 34(B), 287, and the Subjects of Title VI and Chapter VII Thereof, and Creating New Sections 151-a, 151-b, 151-c, 151-d, and 287-a, All Under Republic Act No. 8424, Otherwise Known as the National Internal Revenue Code of 1997, as Amended, Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -241,5 +241,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following its complete publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Enhancing the Fiscal Regime for the Large-scale Metallic Mining Industry, Amending for the Purpose Sections 34(B), 287, and the Subjects of Title VI and Chapter VII Thereof, and Creating New Sections 151-a, 151-b, 151-c, 151-d, and 287-a, All Under Republic Act No. 8424, Otherwise Known as the National Internal Revenue Code of 1997, as Amended, Appropriating Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

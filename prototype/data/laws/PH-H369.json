@@ -1,7 +1,7 @@
 {
  "id": "PH-H369",
  "title": {
-  "zh": null,
+  "zh": "将银行局更名为保险专员办公室，规定向保险公司征收摊款以弥补保险专员办公室在保险公司、代理人及保险事务方面支出超过其某些来源收入的部分，并为其他目的",
   "en": "An Act Changing the Name of the Bureau of Banking to that of the \"Office of the Insurance Commissioner,\" Providing for the Assessment Upon Insurance Companies to Cover the Excess of the Expenses of the Office of the Insurance Commissioner Relating to Insurance Companies, Agents and Insurance Matters Over its Income from Certain Sources, and for Other Purposes",
   "orig": "An Act Changing the Name of the Bureau of Banking to that of the \"Office of the Insurance Commissioner,\" Providing for the Assessment Upon Insurance Companies to Cover the Excess of the Expenses of the Office of the Insurance Commissioner Relating to Insurance Companies, Agents and Insurance Matters Over its Income from Certain Sources, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon the formal opening of the Central Bank.\nApproved: June 15, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Bureau of Banking to that of the \"Office of the Insurance Commissioner,\" Providing for the Assessment Upon Insurance Companies to Cover the Excess of the Expenses of the Office of the Insurance Commissioner Relating to Insurance Companies, Agents and Insurance Matters Over its Income from Certain Sources, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

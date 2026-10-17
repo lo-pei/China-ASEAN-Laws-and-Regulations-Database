@@ -1,7 +1,7 @@
 {
  "id": "PH-H1173",
  "title": {
-  "zh": null,
+  "zh": "授予 Antonio Heras 在菲律宾境内建设、维护和运营私人固定点对点及陆基、陆上移动无线电台以收发无线电通信的临时许可的法案",
   "en": "An Act Granting Antonio Heras a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point and Land Based and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines",
   "orig": "An Act Granting Antonio Heras a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point and Land Based and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Antonio Heras a Temporary Permit to Construct, Maintain and Operate Private Fixed Point-to-Point and Land Based and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7955",
  "title": {
-  "zh": null,
+  "zh": "宣布东米萨米斯省 Balingoan 与 Talisayan 市镇的 Mimbilisan 流域为保护景观类别的保护区、规定其管理并为其他目的法案",
   "en": "An Act Declaring the Mimbilisan Watershed Located in the Municipalities of Balingoan and Talisayan, Province of Misamis Oriental as a Protected Area under the Category of Protected Landscape, Providing for its Management and for other purposes",
   "orig": "An Act Declaring the Mimbilisan Watershed Located in the Municipalities of Balingoan and Talisayan, Province of Misamis Oriental as a Protected Area under the Category of Protected Landscape, Providing for its Management and for other purposes"
  },
@@ -230,5 +230,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation readily available in and around the scope specified herein. It shall likewise be posted in a conspicuous place in the provincial, municipal and barangay halls within the area as well as in three other places frequented by the public."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the Mimbilisan Watershed Located in the Municipalities of Balingoan and Talisayan, Province of Misamis Oriental as a Protected Area under the Category of Protected Landscape, Providing for its Management and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

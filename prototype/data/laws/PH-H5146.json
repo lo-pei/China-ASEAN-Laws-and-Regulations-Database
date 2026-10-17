@@ -1,7 +1,7 @@
 {
  "id": "PH-H5146",
  "title": {
-  "zh": null,
+  "zh": "1987 年综合国家警察薪酬结构法",
   "en": "INP Compensation Structure Act of 1987",
   "orig": "INP Compensation Structure Act of 1987 An Act Creating the Regional Consultative Commission for Muslim Mindanao, Prescribing Its Powers, Functions and Duties, Providing Funds Therefore and for other purposes"
  },
@@ -258,5 +258,13 @@
     "en": "Separability Clause. — If any part or provision of this Act is declared invalid or unconstitutional, the other parts or provisions thereof shall remain valid and effective upon its publication in at least two newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "INP Compensation Structure Act of 1987",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

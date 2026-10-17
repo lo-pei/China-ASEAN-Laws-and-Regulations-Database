@@ -1,7 +1,7 @@
 {
  "id": "PH-H3852",
  "title": {
-  "zh": null,
+  "zh": "将邦板牙省瓜瓜市镇圣维森特村埃布斯小学的名称变更为圣维森特小学的法案",
   "en": "An Act Changing the Name of Ebus Elementary School in Barrio San Vicente, Municipality of Guagua, Province of Pampanga, to San Vicente Elementary School",
   "orig": "An Act Changing the Name of Ebus Elementary School in Barrio San Vicente, Municipality of Guagua, Province of Pampanga, to San Vicente Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Ebus Elementary School in Barrio San Vicente, Municipality of Guagua, Province of Pampanga, to San Vicente Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

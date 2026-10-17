@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-140-RG-1-2016-NURSES-REGISTRATION-NURSING-BOARD-F-0270C6",
  "title": {
-  "zh": null,
+  "zh": "RG 1 2016 版文莱护士注册护理局条例",
   "en": "RG 1 2016 ED NURSES REGISTRATION NURSING BOARD FOR BRUNEI REGULATIONS",
   "orig": null
  },
@@ -92,5 +92,13 @@
     "en": "(1) In the absence of the chairman from any meeting of the Board, the members present shall elect from amongst themselves a person to be the chairman for that meeting.\n\n(2) Eight members present shall form the quorum of a meeting.\n\n(3) Subject to these Regulations, the Board may determine its own procedure."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 1 2016 ED NURSES REGISTRATION NURSING BOARD FOR BRUNEI REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

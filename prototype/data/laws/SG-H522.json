@@ -1,7 +1,7 @@
 {
  "id": "SG-H522",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（为设计—建造—销售计划对本法所作的修改）命令 2006",
   "en": "Central Provident Fund (Modifications to Act for Design-Build-and-Sell Scheme) Order 2006",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Part 4 of the Act applies in relation to any housing accommodation sold or to be sold by an approved developer under Part 4B of the Housing and Development Act 1959 with the following modifications:\n(a)the references in sections 30(1) and (3), 32(5), 36(8) and 39(i) of the Act to immovable property include housing accommodation;\n(b)the references in sections 29(2) and (3) and 30(2) of the Act to the purchase of any immovable property from a Housing Authority include the purchase of any housing accommodation from an approved developer;\n(c)in the case of housing accommodation purchased from an approved developer, section 36(1) of the Act applies only if —\n(i)the member’s date of death is on or after the relevant date in respect of the housing accommodation within the meaning of section 93 of the Housing and Development Act 1959; or\n(ii)the member’s date of death is before the relevant date in respect of the housing accommodation and the Minister for National Development has made a direction under that section not to cancel the application for purchase or terminate the sale and purchase agreement (if any);\n(d)in the case of housing accommodation purchased from an approved developer, the reference in section 36(2)(b) of the Act to a period not exceeding 2 years is to be read as a period not exceeding 2 years or such other period as the Board may determine;\n(e)where a member of the Scheme who purchased housing accommodation from an approved developer has died and the approved developer has cancelled the member’s application for purchase and terminated the sale and purchase agreement (if any) under section 93 of the Housing and Development Act 1959, then —\n(i)the member is deemed not to have been covered under the Scheme;\n(ii)the Board must, subject to such terms and conditions as it may impose, refund all premiums that have been paid by crediting an amount equivalent to the premiums to the member’s ordinary account or, if another member of the Fund paid the premiums, that other member’s ordinary account; and\n(iii)the Board is not liable to make any payment under section 36 of the Act in respect of the member’s death.\n(2) In this paragraph, “approved developer” and “housing accommodation” have the meanings given by section 87 of the Housing and Development Act 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund (Modifications to Act for Design-Build-and-Sell Scheme) Order 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

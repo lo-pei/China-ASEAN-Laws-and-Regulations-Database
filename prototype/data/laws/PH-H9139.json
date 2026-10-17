@@ -1,7 +1,7 @@
 {
  "id": "PH-H9139",
  "title": {
-  "zh": null,
+  "zh": "宣布8月9日为全国原住民日并规定举行有意义纪念活动的法案",
   "en": "An Act Declaring August 9 as National Indigenous Peoples Day and Mandating the Meaningful Observance Thereof",
   "orig": "An Act Declaring August 9 as National Indigenous Peoples Day and Mandating the Meaningful Observance Thereof"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring August 9 as National Indigenous Peoples Day and Mandating the Meaningful Observance Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

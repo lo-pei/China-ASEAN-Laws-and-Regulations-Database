@@ -1,7 +1,7 @@
 {
  "id": "SG-H3375",
  "title": {
-  "zh": null,
+  "zh": "宣誓与声明法 2000",
   "en": "Oaths and Declarations Act 2000",
   "orig": null
  },
@@ -362,5 +362,13 @@
     "en": "SECOND SCHEDULE\nSections 15(1) and (2) and 18\nPART 1\nFORM OF OATH OF ALLEGIANCE\n“I, , do swear that I will be faithful and bear true allegiance to the Republic of Singapore according to law. So help me God.”\nPART 2\nFORM OF OATH OF OFFICE\n“I, , do swear that I will well and truly serve the Republic of Singapore in the office of . So help me God.”\nPART 3\nFORM OF JUDICIAL OATH\n“I, , do swear that I will well and truly serve the Republic of Singapore in the office of and I will do right to all manner of people after the laws and usages of Singapore without fear or favour, affection or ill‑will. So help me God.”"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Oaths and Declarations Act 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

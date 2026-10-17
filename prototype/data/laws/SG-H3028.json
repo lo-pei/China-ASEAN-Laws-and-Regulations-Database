@@ -1,7 +1,7 @@
 {
  "id": "SG-H3028",
  "title": {
-  "zh": null,
+  "zh": "有限责任合伙（清盘）规则",
   "en": "Limited Liability Partnerships (Winding Up) Rules",
   "orig": null
  },
@@ -2541,5 +2541,11 @@
     "en": "SECOND SCHEDULE\nRule 190\nFees\n1.Every winding up application\n$75\n2.Every bond with sureties\n$10\n3.Every order to attend court, order to produce documents or summons\n$4\n4.On issuing an office copy of a judgment or order made in Court (except an order upon an application for winding up, an order adjourning a public examination, and an order appointing a shorthand writer) —\n(a)if made in Court\n$20\n(b)if not made in Court\n$10\n5.Every order adjourning a public examination\n$10\n6.Every order appointing a shorthand writer\n$10\n7.Every affidavit filed\n$10\n8.For taking an affidavit or an affirmation in lieu of an affidavit, or a declaration, except for proof of debts, for each person making the same\n$4\nAnd in addition thereto for each exhibit referred to therein and required to be marked\n$1\n9.[Deleted by S 588/2013 wef 15/10/2013]\n10.Every other office copy, each folio of 100 words\n$1\n11.On every application to the Court to approve a reconstruction or other scheme by which the affairs of the LLP are to be wound up otherwise than by the realisation and distribution of assets\n$100\n12.On every order of the Court approving such reconstruction or scheme, a fee according to the following scale on the estimated value of the LLP’s property transferred or otherwise disposed of, viz:\n(a)on the first $100,000 or fraction thereof\n1/ 4%\n(b)on the next $900,000 or fraction thereof\n1/8%\n(c)above $1 million\n1 ̸ 10%\n13.On every application to Court under the Fifth Schedule to the Act (other than the application mentioned above)\n$50.\n[S 197/2022 wef 01/04/2022]\n[S 588/2013 wef 15/10/2013]\n[G.N. Nos. S 532/2005; S 869/2005]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Limited Liability Partnerships (Winding Up) Rules",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1492",
  "title": {
-  "zh": null,
+  "zh": "费用（遗产税）命令",
   "en": "Fees (Estate Duty) Order",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\n(1)For the search of any document\n$20\n(2)For the supply of a copy of each page of an estate duty affidavit and other document\n30 cents\n(3)For the certification of each page of the document\n$3.\n[G.N. Nos. S 340/91; S95/93; S 209/96]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Estate Duty) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

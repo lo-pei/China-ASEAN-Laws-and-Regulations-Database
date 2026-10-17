@@ -1,7 +1,7 @@
 {
  "id": "SG-H1144",
  "title": {
-  "zh": null,
+  "zh": "存款保险（计划成员资格豁免）（第 2 号）公告 2008",
   "en": "Deposit Insurance (Exemption from Scheme Membership) (No. 2) Notification 2008",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The Authority hereby exempts the American Express Bank Ltd., Singapore Branch from the requirement under section 5(1) of the Act to be a member of the Deposit Insurance Scheme.\n(2) The exemption under sub-paragraph (1) is subject to such conditions and restrictions as the Authority may specify in writing to the American Express Bank Ltd., Singapore Branch under section 6(5) or (6) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Deposit Insurance (Exemption from Scheme Membership) (No. 2) Notification 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

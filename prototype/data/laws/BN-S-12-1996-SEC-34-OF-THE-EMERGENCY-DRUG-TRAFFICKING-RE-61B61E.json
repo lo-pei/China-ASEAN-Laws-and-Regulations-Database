@@ -1,7 +1,7 @@
 {
  "id": "BN-S-12-1996-SEC-34-OF-THE-EMERGENCY-DRUG-TRAFFICKING-RE-61B61E",
  "title": {
-  "zh": null,
+  "zh": "紧急毒品贩运收益追缴命令 1996 第 34 条",
   "en": "Sec 34 of the Emergency Drug Trafficking Recovery of Proceeds Order 1996",
   "orig": null
  },
@@ -213,5 +213,13 @@
     "en": ". Where a document is required under this Order to be served on a Service of cannot be compelled to attend before a court in respect of proceedings absconders. under this Order, the court may dispense with service of the document and the proceedings may be continued to their final conclusion in his absence. Supplemental 34; Section 32 of the Bankruptcy Act is amended, in paragraph (a) of Amendment of subsection (1), by inserting \"nor from any amount payable under a con-Chapter 67. fiscation order made under section 3 of the Emergency (Drug Trafficking) (Recovery of Proceeds) Order, 1995\" immediately after \"offence\" in the seventh line. Preservation 35. (1) Except for the purpose of the performance of his duties or the of seerecy. exercise of his functions or when required to do so by any court or under the provisions of any written law, no police officer or officer of the Bureau shall disclose any information or matter which has been obtained by him in the exercise of any power or the execution of his duty under this Order.\n\n(2) Any person who contravenes subsection (1) is guilty of an offence and liable on conviction to imprisonment for a term not exceeding one year, to a fine or both. Consent of 36. When any person has been charged before a court with an offence Public under this Order or any regulations made thereunder, no further proceedProsecutor or ings in respect thereof shall be taken against him without the consent in a Deputy writing of the Public Prosecutor or a Deputy Public Prosecutor, except Public Proseeutor. such as the court may think necessary by remand, whether in custody.or otherwise, to secure his due appearance. Standard of 37. (11 Any question of fact to be decided by a court in any proceedings proof. for an offence under this Order or any regulations made thereunder shall be decided on the balance of probabilities.\n\n(2) Subsection (1) does not apply in relation to any question of fact that is for the prosecution to prove. Assistance re 38. The Minister, with the approval of His Majesty The Sultan and Yang foreign offences. Di·Pertuan, may make regulations regarding the provision of assistance under this Order to a country or territory outside Brunei Darussalam in respect of any offence punishable under a corresponding law, and without prejudice to the generality of this provision may make regulations enabling(a) an order to be made under section 24 in relation to such an offence;\n\n(b) evidence to be taken before proceedings have been commenced in that country or territory, which expression \"proceedings\" shall for the purpose of this paragraph be deemed to include proceedings of a preliminary nature to determine whether a person should be tried for such an offence;\n\n(c) a warrant to be issued and executed under section 26 in relation to such an offence ;\n\n(d) the seizure and retention of any material found following the execution of a warrant under section 26 in relation to such an offence ; {e) arrangements to be made for the immunity from prosecution, detention, punishment or from any other restriction on his liberty of any person who, whilst in Brunei Darussalam for that purpose, has come to Brunei Darussalam to give evidence or assist in an investigation in response to a request from Brunei Darussalam. Made this lOth day of Zulkaedah, 1416 Hijrah, corresponding to 30th. day of March, 1996 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN ANDY ANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Sec 34 of the Emergency Drug Trafficking Recovery of Proceeds Order 1996",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

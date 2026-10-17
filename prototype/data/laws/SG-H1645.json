@@ -1,7 +1,7 @@
 {
  "id": "SG-H1645",
  "title": {
-  "zh": null,
+  "zh": "政府采购法 1997",
   "en": "Government Procurement Act 1997",
   "orig": null
  },
@@ -454,5 +454,13 @@
     "en": "26.—(1) This Act does not apply to or affect any procurement which has been initiated before 13 May 2002.\n(2) For the purposes of subsection (1), a procurement is deemed to have been initiated if —\n(a)the invitation to tender in respect of the procurement has been issued;\n(b)the qualification of suppliers, being a qualification of suppliers undertaken solely for that particular procurement, has commenced; or\n(c)in a case where no tender is to be called for the procurement, the contracting authority concerned had communicated with a potential supplier with a view to the making or obtaining of an offer in relation to the procurement."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Government Procurement Act 1997",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

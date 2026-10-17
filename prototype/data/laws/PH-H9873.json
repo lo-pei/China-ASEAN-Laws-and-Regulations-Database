@@ -1,7 +1,7 @@
 {
  "id": "PH-H9873",
  "title": {
-  "zh": null,
+  "zh": "承认每年 7 月 25 日为全国校园新闻自由日的法案",
   "en": "An Act Recognizing the Observance of July 25 of Every Year as the National Campus Press Freedom Day",
   "orig": "An Act Recognizing the Observance of July 25 of Every Year as the National Campus Press Freedom Day"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Recognizing the Observance of July 25 of Every Year as the National Campus Press Freedom Day",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

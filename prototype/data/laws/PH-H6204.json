@@ -1,7 +1,7 @@
 {
  "id": "PH-H6204",
  "title": {
-  "zh": null,
+  "zh": "授予 Delta 广播系统公司在菲律宾境内设立、维护和运营广播电视站的特许经营权法案",
   "en": "An Act Granting the Delta Broadcasting System, Inc., a Franchise to Establish, Maintain and Operate Radio and Television Broadcasting Stations Within the Philippines",
   "orig": "An Act Granting the Delta Broadcasting System, Inc., a Franchise to Establish, Maintain and Operate Radio and Television Broadcasting Stations Within the Philippines"
  },
@@ -180,5 +180,13 @@
     "en": "Effectivity Clause. — This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) national newspapers of general circulation in the Philippines.\nApproved, May 19, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Delta Broadcasting System, Inc., a Franchise to Establish, Maintain and Operate Radio and Television Broadcasting Stations Within the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

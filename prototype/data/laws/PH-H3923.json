@@ -1,7 +1,7 @@
 {
  "id": "PH-H3923",
  "title": {
-  "zh": null,
+  "zh": "在奥三棉示市设立工艺学校，名称为奥三棉示市工艺学校，并授权为此拨款的法案",
   "en": "An Act Establishing a School of Arts and Trades in Ozamiz City, to be Known as the Ozamiz City School of Arts and Trades, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Establishing a School of Arts and Trades in Ozamiz City, to be Known as the Ozamiz City School of Arts and Trades, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a School of Arts and Trades in Ozamiz City, to be Known as the Ozamiz City School of Arts and Trades, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

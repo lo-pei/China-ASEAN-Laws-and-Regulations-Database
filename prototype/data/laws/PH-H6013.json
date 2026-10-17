@@ -1,7 +1,7 @@
 {
  "id": "PH-H6013",
  "title": {
-  "zh": null,
+  "zh": "将依第 5172 号共和国法授予菲律宾天主教主教团（原天主教福利组织）在菲律宾运营广播电视站的特许经营权自 1992 年 8 月 4 日起再延长二十五年的法案",
   "en": "An Act Extending the Franchise Granted To the Catholic Bishops'conference of the Philippines, Inc., (Formerly the Catholic Welfare Organization) To Construct, Operate and Maintain Radio Broadcasting and Television Stations in the Philippines Under Republic Act Numbered Fifty-one Hundred and Seventy-two To Another Twenty-five (25) Years From August 4, 1992 and For Other Purposes",
   "orig": "An Act Extending the Franchise Granted To the Catholic Bishops'conference of the Philippines, Inc., (Formerly the Catholic Welfare Organization) To Construct, Operate and Maintain Radio Broadcasting and Television Stations in the Philippines Under Republic Act Numbered Fifty-one Hundred and Seventy-two To Another Twenty-five (25) Years From August 4, 1992 and For Other Purposes"
  },
@@ -200,5 +200,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Franchise Granted To the Catholic Bishops'conference of the Philippines, Inc., (Formerly the Catholic Welfare Organization) To Construct, Operate and Maintain Radio Broadcasting and Television Stations in the Philippines Under Republic Act Numbered Fifty-one Hundred and Seventy-two To Another Twenty-five (25) Years From August 4, 1992 and For Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

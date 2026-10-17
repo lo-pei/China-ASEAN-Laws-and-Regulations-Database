@@ -1,7 +1,7 @@
 {
  "id": "PH-H5222",
  "title": {
-  "zh": null,
+  "zh": "加强对妇女在雇佣条款与条件方面歧视的禁止，为此修订《劳动法典》（经修正）第135条的法案",
   "en": "An Act Strengthening the Prohibition on Discrimination against Women With Respect to Terms and Conditions of Employment, Amending for the Purpose Article One Hundred Thirty-Five of the Labor Code, as amended",
   "orig": "An Act Strengthening the Prohibition on Discrimination against Women With Respect to Terms and Conditions of Employment, Amending for the Purpose Article One Hundred Thirty-Five of the Labor Code, as amended"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening the Prohibition on Discrimination against Women With Respect to Terms and Conditions of Employment, Amending for the Purpose Article One Hundred Thirty-Five of the Labor Code, as amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

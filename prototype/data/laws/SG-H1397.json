@@ -1,7 +1,7 @@
 {
  "id": "SG-H1397",
  "title": {
-  "zh": null,
+  "zh": "房地产代理（土地储备）（豁免）命令 2010",
   "en": "Estate Agents (Land Banking) (Exemption) Order 2010",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Parts III and IV of the Estate Agents Act 2010 and the Estate Agents (Estate Agency Work) Regulations 2010 (G.N. No. S 644/2010) shall not apply to any person who performs estate agency work solely in relation to the sale or purchase of fractional interests in land under terms which provide that —\n(a)the value of the land was, is or will be sought to be increased, by way of planning approval, development approval or change of use, to increase the value of the land for the purpose of profit realisation;\n(b)the purchaser of a fractional interest shall not by himself be entitled to use or occupy all or any part of the land; and\n(c)the purchase of the fractional interest is for the purpose of investment or future resale for profit, and not for use or occupation by the purchaser."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Estate Agents (Land Banking) (Exemption) Order 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

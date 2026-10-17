@@ -1,7 +1,7 @@
 {
  "id": "SG-H1335",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（Meranti Power 私人有限公司——豁免）命令 2025",
   "en": "Environmental Protection and Management (Meranti Power Pte. Ltd. — Exemption) Order 2025",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 3\nFirst column\nSecond column\nDescription of boundaries of the relevant premises\nMaximum boundary noise level (reckoned\nas an equivalent continuous noise\nlevel over 5 minutes) in decibels (A)\nEvening\nNight\nBetween 7 p.m.\nand 10.59 p.m.\nBetween 11 p.m.\nand 6.59 a.m.\n(a)Northwest‑facing boundary\n70\n67\n(b)Southeast‑facing boundary\n70\n65\n(c)Northeast‑facing boundary\n73\n73\n(d)Southwest‑facing boundary\n72\n72"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Protection and Management (Meranti Power Pte. Ltd. — Exemption) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

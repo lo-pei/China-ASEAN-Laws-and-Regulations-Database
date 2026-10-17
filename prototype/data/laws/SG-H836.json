@@ -1,7 +1,7 @@
 {
  "id": "SG-H836",
  "title": {
-  "zh": null,
+  "zh": "租金管制（豁免——丹戎巴葛）公告",
   "en": "Control of Rent (Exemption — Tanjong Pagar) Notification",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Control of Rent (Exemption — Tanjong Pagar) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

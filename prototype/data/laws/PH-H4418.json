@@ -1,7 +1,7 @@
 {
  "id": "PH-H4418",
  "title": {
-  "zh": null,
+  "zh": "将南达沃省达沃市布纳万的布纳万小学的名称变更为Don Daniel Perez小学的法案",
   "en": "An Act Changing the Name of the Bunawan, Elementary School At Bunawan, Davao City, Province of Davao Del Sur, to Don Daniel Perez Elementary School",
   "orig": "An Act Changing the Name of the Bunawan, Elementary School At Bunawan, Davao City, Province of Davao Del Sur, to Don Daniel Perez Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon, its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Bunawan, Elementary School At Bunawan, Davao City, Province of Davao Del Sur, to Don Daniel Perez Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5299",
  "title": {
-  "zh": null,
+  "zh": "将东达沃省马蒂市镇马约描笼涯马约小学的名称变更为Vicente Almario, Sr.纪念学校的法案",
   "en": "An Act Changing the Name of the Mayo Elementary School in Barangay Mayo, Municipality of Mati, Province of Davao Oriental, to Vicente Almario, Sr. Memorial School",
   "orig": "An Act Changing the Name of the Mayo Elementary School in Barangay Mayo, Municipality of Mati, Province of Davao Oriental, to Vicente Almario, Sr. Memorial School"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Mayo Elementary School in Barangay Mayo, Municipality of Mati, Province of Davao Oriental, to Vicente Almario, Sr. Memorial School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

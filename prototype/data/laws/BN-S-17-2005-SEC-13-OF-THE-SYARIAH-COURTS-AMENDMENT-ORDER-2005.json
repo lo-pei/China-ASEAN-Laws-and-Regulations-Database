@@ -1,7 +1,7 @@
 {
  "id": "BN-S-17-2005-SEC-13-OF-THE-SYARIAH-COURTS-AMENDMENT-ORDER-2005",
  "title": {
-  "zh": null,
+  "zh": "伊斯兰法庭修正命令 2005 第 13 条",
   "en": "SEC 13 OF THE SYARIAH COURTS AMENDMENT ORDER 2005",
   "orig": null
  },
@@ -193,5 +193,13 @@
     "en": "Without prejudice to the provisions of any other written law, failure to with an order of the Court made under this Order shall be regarded as contempt of Court and liable on conviction to a fine not exceeding $2,000, imprisonment for a term not exceeding 6 months or both.\". Made this 13th. day of Safar, 1426 Hjjriah corresponding to the 24th. day at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM AWANG MOHIDIN BIN HAJI DAUD, Pengarah Percetakan, di Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SEC 13 OF THE SYARIAH COURTS AMENDMENT ORDER 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H920",
  "title": {
-  "zh": null,
+  "zh": "授权康复金融公司与菲律宾国家银行在特定条件下向自耕农发放贷款的法案",
   "en": "An Act Authorizing the Rehabilitation Finance Corporation and the Philippine National Bank to Grant Loans to Homesteaders Under Certain Conditions",
   "orig": "An Act Authorizing the Rehabilitation Finance Corporation and the Philippine National Bank to Grant Loans to Homesteaders Under Certain Conditions"
  },
@@ -61,5 +61,13 @@
     "en": "This act shall take effect upon its approval.\nApproved: June 15, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Rehabilitation Finance Corporation and the Philippine National Bank to Grant Loans to Homesteaders Under Certain Conditions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

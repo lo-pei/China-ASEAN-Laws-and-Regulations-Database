@@ -1,7 +1,7 @@
 {
  "id": "PH-H6405",
  "title": {
-  "zh": null,
+  "zh": "促进并规范菲律宾电信发展及公共电信服务提供的法案",
   "en": "An Act to Promote and Govern the Development of Philippine Telecommunications and the Delivery of Public Telecommunications Services",
   "orig": "An Act to Promote and Govern the Development of Philippine Telecommunications and the Delivery of Public Telecommunications Services"
  },
@@ -382,5 +382,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation.\nApproved: March 1, 1995"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Promote and Govern the Development of Philippine Telecommunications and the Delivery of Public Telecommunications Services",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

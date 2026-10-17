@@ -1,7 +1,7 @@
 {
  "id": "PH-H4164",
  "title": {
-  "zh": null,
+  "zh": "将北民答那峨理工学院更名为 Iligan 理工学院并作为民答那峨国立大学组成部分的法案，并为其他目的",
   "en": "An Act Changing the Name of the Northern Mindanao Institute of Technology to Iligan Institute of Technology, Integrating it as a Unit of the Mindanao State University, and for Other Purposes",
   "orig": "An Act Changing the Name of the Northern Mindanao Institute of Technology to Iligan Institute of Technology, Integrating it as a Unit of the Mindanao State University, and for Other Purposes"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Northern Mindanao Institute of Technology to Iligan Institute of Technology, Integrating it as a Unit of the Mindanao State University, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

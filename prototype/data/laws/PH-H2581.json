@@ -1,7 +1,7 @@
 {
  "id": "PH-H2581",
  "title": {
-  "zh": null,
+  "zh": "重新拨付第 1900 号、第 2093 号与第 2301 号共和国法为宿务省 Barili 市镇特定道路建设拨付的款项",
   "en": "An Act Reappropriating Certain Sums Appropriated Under Republic Acts Numbered Nineteen Hundred, Twenty Hundred Ninety-Three, and Twenty-Three Hundred and One for the Construction of Certain Roads in the Municipality of Barili, Province of Cebu",
   "orig": "An Act Reappropriating Certain Sums Appropriated Under Republic Acts Numbered Nineteen Hundred, Twenty Hundred Ninety-Three, and Twenty-Three Hundred and One for the Construction of Certain Roads in the Municipality of Barili, Province of Cebu"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reappropriating Certain Sums Appropriated Under Republic Acts Numbered Nineteen Hundred, Twenty Hundred Ninety-Three, and Twenty-Three Hundred and One for the Construction of Certain Roads in the Municipality of Barili, Province of Cebu",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2745",
  "title": {
-  "zh": null,
+  "zh": "在 Tacloban 市莱特省立医院设立、维护和运营护理与助产学校的法案，并授权为此拨款",
   "en": "An Act to Establish, Maintain and Operate a School of Nursing and Midwifery in the Leyte Provincial Hospital at Tacloban City, and to Authorize the Appropriation of Funds Therefor",
   "orig": "An Act to Establish, Maintain and Operate a School of Nursing and Midwifery in the Leyte Provincial Hospital at Tacloban City, and to Authorize the Appropriation of Funds Therefor"
  },
@@ -151,5 +151,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish, Maintain and Operate a School of Nursing and Midwifery in the Leyte Provincial Hospital at Tacloban City, and to Authorize the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

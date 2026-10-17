@@ -1,7 +1,7 @@
 {
  "id": "SG-H3083",
  "title": {
-  "zh": null,
+  "zh": "新加坡海事与港务管理局（港务船只配员执照考试）条例",
   "en": "Maritime and Port Authority of Singapore (Harbour Craft Manning Licence Examination) Regulations",
   "orig": null
  },
@@ -389,5 +389,13 @@
     "en": "24. Any application made, licence granted or exemption granted under the revoked Port of Singapore Authority (Harbour Craft Manning Licence Examination) Regulations (Cap. 236, Rg 9) is deemed to have been made or granted under the corresponding provisions of these Regulations.\n[G.N. No. S 184/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Maritime and Port Authority of Singapore (Harbour Craft Manning Licence Examination) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

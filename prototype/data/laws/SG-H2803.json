@@ -1,7 +1,7 @@
 {
  "id": "SG-H2803",
  "title": {
-  "zh": null,
+  "zh": "工艺教育学院法 1992",
   "en": "Institute of Technical Education Act 1992",
   "orig": null
  },
@@ -772,5 +772,13 @@
     "en": "45.—(1) Any document or thing done under any provision of the repealed Vocational and Industrial Training Board Act (Cap. 345, 1985 Revised Edition), and every such document or thing so far as it is subsisting or in force on 1 April 1992 continues and has effect as if it had been made or done under the corresponding provisions of this Act.\n(2) As from 1 April 1992, all references in any written law to the Vocational and Industrial Training Board are references to the Institute of Technical Education, Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Institute of Technical Education Act 1992",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6762",
  "title": {
-  "zh": null,
+  "zh": "将 Pagadian 市 Banale 描笼涯的 Pagadian 市综合中学改设为名为 Pagadian 市国立综合中学的国立综合中学并为其拨款",
   "en": "An Act Converting the Pagadian City Comprehensive High School in Barangay Banale, Pagadian City, Into A National Comprehensive High School To Be Known As the Pagadian City National Comprehensive High School, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Pagadian City Comprehensive High School in Barangay Banale, Pagadian City, Into A National Comprehensive High School To Be Known As the Pagadian City National Comprehensive High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Pagadian City Comprehensive High School in Barangay Banale, Pagadian City, Into A National Comprehensive High School To Be Known As the Pagadian City National Comprehensive High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

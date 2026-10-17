@@ -1,7 +1,7 @@
 {
  "id": "PH-H1070",
  "title": {
-  "zh": null,
+  "zh": "将 Iligan 市市长、副市长与议员职位改为民选，为此修订经修正的第 525 号共和国法若干条",
   "en": "An Act Making Elective the Positions of Mayor, Vice-Mayor and Councilor in the City of Iligan, Amending for Said Purpose Certain Sections of Republic Act Numbered Five Hundred Twenty-Five, as Amended",
   "orig": "An Act Making Elective the Positions of Mayor, Vice-Mayor and Councilor in the City of Iligan, Amending for Said Purpose Certain Sections of Republic Act Numbered Five Hundred Twenty-Five, as Amended"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 7, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making Elective the Positions of Mayor, Vice-Mayor and Councilor in the City of Iligan, Amending for Said Purpose Certain Sections of Republic Act Numbered Five Hundred Twenty-Five, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-91-2017-E-ALLIED-HEALTH-PROFESSIONS-OF-BRUNEI-DARUS-C036E9",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰国专职医疗职业修正命令 2017(1)",
   "en": "ALLIED HEALTH PROFESSIONS OF BRUNEI DARUSSALAM AMENDMENT ORDER 2017(1)",
   "orig": null
  },
@@ -66,5 +66,13 @@
     "en": "Section 5 of the Allied Health Professions of Brunei Darussalam Order, 2017\n\n(a) in subsection (2), by deleting \"the Chairman and\";\n\n(b) in subsection (3), by inserting \"(a)\" immediately after \"(1)\";\n\n(c) in subsection (4), by inserting \"(a)\" immediately after \"(1)\". Made this 22nd. day of Rabiulawal, 1439 Hijriah corresponding to the 11th. day of December, 2017 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ALLIED HEALTH PROFESSIONS OF BRUNEI DARUSSALAM AMENDMENT ORDER 2017(1)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

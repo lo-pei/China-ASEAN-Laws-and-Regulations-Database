@@ -1,7 +1,7 @@
 {
  "id": "SG-H1181",
  "title": {
-  "zh": null,
+  "zh": "外交与领事关系（世界银行集团组织）命令 2020",
   "en": "Diplomatic and Consular Relations (World Bank Group Organisations) Order 2020",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. Despite anything in this Order, no immunity or privilege in this Order may be enjoyed by any person who is a citizen or permanent resident of Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Diplomatic and Consular Relations (World Bank Group Organisations) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

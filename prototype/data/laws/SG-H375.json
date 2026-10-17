@@ -1,7 +1,7 @@
 {
  "id": "SG-H375",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（将在建建筑用作工人宿舍）条例 2008",
   "en": "Building Control (Use of Buildings Under Construction as Workers’ Quarters) Regulations 2008",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. No part of a building under construction may be used as workers’ quarters except for those workers directly involved in the construction of the building."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Control (Use of Buildings Under Construction as Workers’ Quarters) Regulations 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

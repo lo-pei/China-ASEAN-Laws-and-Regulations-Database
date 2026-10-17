@@ -1,7 +1,7 @@
 {
  "id": "PH-H2019",
  "title": {
-  "zh": null,
+  "zh": "授予三描礼士省 Castillejos 市镇电灯、供热与动力系统特许权的法案",
   "en": "An Act Granting the Municipality of Castillejos, Province of Zambales, a Franchise for an Electric Light, Heat and Power System",
   "orig": "An Act Granting the Municipality of Castillejos, Province of Zambales, a Franchise for an Electric Light, Heat and Power System"
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity clause. -This Act shall take effect upon its approval.\nApproved: June 19, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Municipality of Castillejos, Province of Zambales, a Franchise for an Electric Light, Heat and Power System",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

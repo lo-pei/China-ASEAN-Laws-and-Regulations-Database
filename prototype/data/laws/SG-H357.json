@@ -1,7 +1,7 @@
 {
  "id": "SG-H357",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（现有建筑环境可持续性措施）条例 2013",
   "en": "Building Control (Environmental Sustainability Measures for Existing Buildings) Regulations 2013",
   "orig": null
  },
@@ -426,5 +426,13 @@
     "en": "SECOND SCHEDULE\nRegulations 6(3)(c) and 11\nFees\n1.Application for the approval of a design score for a major energy use change to a Type 2 building\n$8,900 for the first 15,000 square metres (or part thereof), and $0.15 for every subsequent square metre (or part thereof), of the gross floor area of the Type 2 building\n2.Application to be registered as an energy auditor\n$150\n3.Application to renew registration of an energy auditor\n$150.\n[S 593/2025 wef 30/09/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building Control (Environmental Sustainability Measures for Existing Buildings) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

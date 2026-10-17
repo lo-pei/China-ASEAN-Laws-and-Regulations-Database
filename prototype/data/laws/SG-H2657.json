@@ -1,7 +1,7 @@
 {
  "id": "SG-H2657",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 11 号）命令 2025",
   "en": "Infrastructure Protection (Protected Places) (No. 11) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nChief Executive Officer,\nSP PowerGrid Ltd\nWEST JURONG ISLAND SUBSTATION\nAll that area comprised in Lot 3290X in Mukim No. 34 occupied by “WEST JURONG ISLAND SUBSTATION” containing an area of about 17,000 square metres and bounded approximately as follows:\nCommencing at a point 28,523.741 metres North and 10,499.525 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n28,523.741\n10,499.525\n28,570.322\n10,564.167\n28,574.999\n10,570.524\n28,494.069\n10,629.263\n28,418.492\n10,684.116\n28,413.815\n10,677.758\n28,366.837\n10,612.566\n28,442.604\n10,557.980\nto the point of commencement.\nThe boundaries of “WEST JURONG ISLAND SUBSTATION” are more particularly delineated in the Survey Plan No. LBH/20880GZ1 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 11) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

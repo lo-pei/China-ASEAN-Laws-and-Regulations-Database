@@ -1,7 +1,7 @@
 {
  "id": "PH-H1086",
  "title": {
-  "zh": null,
+  "zh": "修订《牧场土地法》若干条款，要求租用或使用公共牧地者每5公顷至少放养1头属于承租人或持证人所有的大牲畜，并规定违反该法的附加处罚",
   "en": "An Act to Amend Certain Sections of the Pasture Land Act, by Requiring Persons Leasing or Using Public Land for Pasture to Put Up at Least One Head of Large Cattle Belonging to the Lessee or Permittee for Every Five Hectares Thereof, and Providing Additional Penalty for the Violations of Said Act",
   "orig": "An Act to Amend Certain Sections of the Pasture Land Act, by Requiring Persons Leasing or Using Public Land for Pasture to Put Up at Least One Head of Large Cattle Belonging to the Lessee or Permittee for Every Five Hectares Thereof, and Providing Additional Penalty for the Violations of Said Act"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 10, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of the Pasture Land Act, by Requiring Persons Leasing or Using Public Land for Pasture to Put Up at Least One Head of Large Cattle Belonging to the Lessee or Permittee for Every Five Hectares Thereof, and Providing Additional Penalty for the Violations of Said Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

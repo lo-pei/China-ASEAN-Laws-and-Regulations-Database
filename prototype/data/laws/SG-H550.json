@@ -1,7 +1,7 @@
 {
  "id": "SG-H550",
  "title": {
-  "zh": null,
+  "zh": "中央公积金局收取薪金税与技能发展税",
   "en": "Central Provident Fund Board to Receive and Collect Payroll Tax and Skills Development Levy",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "PAYROLL TAX ACT\n(CHAPTER 223, SECTION 12(2))\nAND\nSKILLS DEVELOPMENT LEVY ACT\n(CHAPTER 306, SECTION 5)\nCentral Provident Fund Board to Receive\nand Collect Payroll Tax and Skills Development Levy\nN 2\nG.N. No. S 225/1979\nREVISED EDITION 1990\n(25th March 1992)\n[1st November 1979]\nThe Comptroller of Income Tax has appointed the Central Provident Fund Board to receive and collect payroll tax and the skills development levy."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Central Provident Fund Board to Receive and Collect Payroll Tax and Skills Development Levy",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

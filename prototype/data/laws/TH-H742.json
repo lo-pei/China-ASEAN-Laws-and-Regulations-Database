@@ -1,7 +1,7 @@
 {
  "id": "TH-H742",
  "title": {
-  "zh": null,
+  "zh": "授权海军打击特定海上犯罪法，佛历 2490（1957）",
   "en": "ACT AUTHORIZING THE NAVY FOR THE SUPPRESSION OF CERTAIN MARITIME OFFENCES, B.E. 2490 (1957)",
   "orig": "พระราชบัญญัติให้อำนาจทหารเรือปราบปรามการกระทำความผิดบางอย่างทางทะเล พ.ศ. 2490"
  },
@@ -140,5 +140,13 @@
     "th": "มาตรา ๑๐ ให้รัฐมนตรีว่าการกระทรวงกลาโหม และรัฐมนตรีว่าการกระทรวงมหาดไทยรักษาการตามพระราชบัญญัตินี้"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "ACT AUTHORIZING THE NAVY FOR THE SUPPRESSION OF CERTAIN MARITIME OFFENCES, B.E. 2490 (1957)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

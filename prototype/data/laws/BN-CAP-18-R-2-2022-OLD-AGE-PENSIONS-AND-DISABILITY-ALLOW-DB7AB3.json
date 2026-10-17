@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-18-R-2-2022-OLD-AGE-PENSIONS-AND-DISABILITY-ALLOW-DB7AB3",
  "title": {
-  "zh": null,
+  "zh": "R 2 2022 版老年养老金与残疾津贴规则",
   "en": "R 2 2022 ED OLD AGE PENSIONS AND DISABILITY ALLOWANCES RULES",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "The forms as set out in the Schedule shall be used in all cases to which they are applicable, and slight deviations from such forms, or necessary alterations thereto not affecting the substances, is not deemed to vitiate any such form. (rules 4, 7(1), 8 and 11) ............................................................................................................................................ Male or Female  ................................................................................................................. Race  .................................................................................................................................. Place of birth  .................................................................................................................... Occupation  ....................................................................................................................... Length of residence in Brunei Darussalam....................................................................... I declare that to the best of my knowledge and belief I am .................... years old. I am willing to be medically examined if required. I make my thumbprint as a token that all the above statements are true. right thumbprint The claimant is well known to me and I can vouch for the truth of this claim. Occupation  ....................................................................................................................... Date  .................................................................................................................................. right thumbprint ________________________ (rule 7(1))\n\nGOVERNMENT OF BRUNEI DARUSSALAM PENSION SCHEME The Pensions Officer has pleasure in informing you that your recent claim for a pension or allowance has been successful. The pension will be at the rate $ per month and will be paid to you each month by your headman. He will require you to give a receipt by signing your name or by impressing your right thumbprint on his paysheet as a token that you have received the correct amount. Pensions Officer Date  ................................................ (rule 7(1))\n\nGOVERNMENT OF BRUNEI DARUSSALAM PENSION SCHEME With reference to your recent claim for a pension or allowance, the Pensions Officer regrets that he has had to reject your claim because  ............................................. ............................................................................................................................................ Pensions Officer Date  ................................................ (Appeal from the above decision can be made direct to the Controller of Pensions on Form D (P.7) which you can get from your District Office.) (Copy to District Office) ________________________\n\nGOVERNMENT OF BRUNEI DARUSSALAM PENSION SCHEME I (Name)  ............................................... wish to appeal against the rejection of my claim for a pension or allowance. My appeal is based on the following grounds — right thumbprint Present address  ................................................................................................................ * Change of circumstances  .............................................................................................. ............................................................................................................................................ ............................................................................................................................................ * (To be completed in the case of change of address, death, remarriage, disqualification, etc.) Reported by  ...................................................................................................................... Recorded by  ...................................................................................................................... Date  ................................................"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R 2 2022 ED OLD AGE PENSIONS AND DISABILITY ALLOWANCES RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3030",
  "title": {
-  "zh": null,
+  "zh": "修订第2705号共和国法（经修正，题为“规定司法部长办公室法律工作人员成员的职责与资格、确定其人数与薪金”）第1条",
   "en": "An Act to Amend Section One of Republic Act Numbered Two Thousand Seven Hundred Five, as Amended, Entitled “An Act Prescribing the Duties and Qualifications, and Fixing the Number and Salaries, of the Members of the Legal Staff in the Office of the Secretary of Justice”",
   "orig": "An Act to Amend Section One of Republic Act Numbered Two Thousand Seven Hundred Five, as Amended, Entitled “An Act Prescribing the Duties and Qualifications, and Fixing the Number and Salaries, of the Members of the Legal Staff in the Office of the Secretary of Justice”"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section One of Republic Act Numbered Two Thousand Seven Hundred Five, as Amended, Entitled “An Act Prescribing the Duties and Qualifications, and Fixing the Number and Salaries, of the Members of the Legal Staff in the Office of the Secretary of Justice”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

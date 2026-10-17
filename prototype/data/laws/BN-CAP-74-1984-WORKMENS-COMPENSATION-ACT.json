@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-74-1984-WORKMENS-COMPENSATION-ACT",
  "title": {
-  "zh": null,
+  "zh": "工人赔偿法",
   "en": "WORKMENS COMPENSATION ACT",
   "orig": null
  },
@@ -700,5 +700,13 @@
     "en": "(1) His Majesty in Council may make regulations for out the purposes of this Act.\n\n(2) In particular, and without prejudice to the generof the foregoing, such regulations may provide for\n\n(a) the limitations subject to which officers appointed to exercise powers and perform duties and imposed on the Commissioner may exercise and perform such powers and duties;\n\n(b) the intervals at which and conditions subject to which a workman may be required to submit himself for examination by a registered medical under sections 5 and 15;\n\n(c) the manner in which money in the hands of the Commissioner may be invested for the benefit of the dependants of a deceased workman under\n\n(d) the form of notice which an employer is required to give to the Commissioner under subsecof section 13;\n\n(e) the procedure for the review of compensation by the Commissioner or an arbitrator when the injured workman declines treatment under subsection (6) of section 15 or declines treatment in either an approved or a special hospital;\n\n(f) the intervals at which and the conditions to which an application for review may be made under subsection (4) of section 16 and under section 17;\n\n(g) the procedure to be followed when a registered medical practitioner who has examined a workman certifies that treatment in either an or a special hospital is necessary under or subsection (2) respectively of section 16 and the procedure for the payment of hospital fees and the cost of artificial limbs and surgical appliances under subsection (3) of that section;\n\n(h) the procedure for receiving and disposing of money owing to deceased workmen by their emunder section 26;\n\n(i) the manner in which security is to be furunder subsection (2) of section 27;\n\n(j) the procedure to be followed in investigaor inquiries under section 29; Gl B.L.R.O. 111984 52 Workmen's Compensation\n\n(k) the form and manner in which memoranda or agreements shall be presented and recorded under section 30;\n\n(l) fees under subsection (5) of section 32;\n\n(m) the procedure for the choosing of an arbitrator of persons possessed of special knowledge to assist him under section 35;\n\n(n) scales of the costs which may be allowed for proceedings under this Act before an arbitrator section 40; ( o) the procedure for the transfer of money out of Brunei and for the receipt of money into Brunei under section 45;\n\n(p) the transfer of any money in the hands of the Commissioner or for the receipt and administration by the Commissioner of any money applicable for the benefit of a person resident or about to reside in any territory to which section 45 applies or Brunei respectively;\n\n(q) the representation in proceedings before an of parties who are subject to legal disor are unable for other reasons to appear persona11y;\n\n(r) legal aid to workmen in difficult cases;\n\n(s) the maintenance by the Commissioners and by arbitrators of registers and records of proceedings before them;\n\n(t) the manner in which Deputy Commissioners and Assistant Commissioners shall perform their duties and exercise their powers and in particular the transfer for disposal or report by any Deputy or Assistant Commissioner or to the Commissioner of any pending matter or case and of any money deposited in connection therewith;\n\n(u) the withholding by the Commissioner, in or in part, of periodical payments pending decision of an application to review the same; ( v) prescribing any matter which is required by this Act to be prescribed.\n\nFIRST SCHEDULE (Section 3 and the Third Schedule)\n\nDEEMED TO RESULT IN PERMANENT Percentage of loss Item of earning capacity"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "WORKMENS COMPENSATION ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

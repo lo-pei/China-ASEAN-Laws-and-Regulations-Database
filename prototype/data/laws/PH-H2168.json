@@ -1,7 +1,7 @@
 {
  "id": "PH-H2168",
  "title": {
-  "zh": null,
+  "zh": "规定在北三宝颜省Dapitan市镇维护与运营国立职业中学，名称为Rizal纪念国立职业中学，并授权为此拨款的法案",
   "en": "An Act Providing for the Maintenance and Operation of a National Vocational High School in the Municipality of Dapitan, Province of Zamboanga del Norte to be Known as the Rizal Memorial National Vocational High School and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Providing for the Maintenance and Operation of a National Vocational High School in the Municipality of Dapitan, Province of Zamboanga del Norte to be Known as the Rizal Memorial National Vocational High School and Authorizing the Appropriation of Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Maintenance and Operation of a National Vocational High School in the Municipality of Dapitan, Province of Zamboanga del Norte to be Known as the Rizal Memorial National Vocational High School and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

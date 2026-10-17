@@ -1,7 +1,7 @@
 {
  "id": "PH-H5334",
  "title": {
-  "zh": null,
+  "zh": "将三描礼士省坎德拉里亚市镇拉维斯描笼涯Marcos桥的名称变更为拉维斯桥的法案",
   "en": "An Act Changing the Name of the Marcos Bridge in Barangay Lauis, Municipality of Candelaria, Province of Zambales, to Lauis Bridge",
   "orig": "An Act Changing the Name of the Marcos Bridge in Barangay Lauis, Municipality of Candelaria, Province of Zambales, to Lauis Bridge"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: January 18, 1990."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Marcos Bridge in Barangay Lauis, Municipality of Candelaria, Province of Zambales, to Lauis Bridge",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

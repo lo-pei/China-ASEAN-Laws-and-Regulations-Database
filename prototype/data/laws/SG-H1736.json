@@ -1,7 +1,7 @@
 {
  "id": "SG-H1736",
  "title": {
-  "zh": null,
+  "zh": "高等法院（海事管辖权）法 1961",
   "en": "High Court (Admiralty Jurisdiction) Act 1961",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "8.—(1) Nothing in this Act shall affect section 172 of the Merchant Shipping Act 1995 (which relates to the power of a receiver of wreck to detain a ship in respect of a salvage claim).\n(2) Nothing in this Act shall authorise proceedings in rem in respect of any claim against the Government, or the arrest, detention or sale of —\n(a)any ship of which the beneficial interest is vested in the Government, or which is for the time being demised or subdemised to or in the exclusive possession of the Government;\n(b)any aircraft belonging to the Government; or\n(c)any cargo or other property belonging to the Government."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "High Court (Admiralty Jurisdiction) Act 1961",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H735",
  "title": {
-  "zh": null,
+  "zh": "修订第 621 号共和国法第 1、2、3 与 6 条，将联合国教育、科学及文化组织菲律宾国家委员会由外交部监督转归菲律宾总统监督，并为其他目的法案",
   "en": "An Act to Amend Sections One, Two, Three and Six of Republic Act Numbered Six Hundred and Twenty-one By Transferring the United Nations Educational, Scientific and Cultural Organization National Commission of the Philippines From the Supervision of the Department of Foreign Affairs to the President of the Philippines, and for Other Purposes",
   "orig": "An Act to Amend Sections One, Two, Three and Six of Republic Act Numbered Six Hundred and Twenty-one By Transferring the United Nations Educational, Scientific and Cultural Organization National Commission of the Philippines From the Supervision of the Department of Foreign Affairs to the President of the Philippines, and for Other Purposes"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H735-A1_2",
+   "id": "PH-H735-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The United Nations Educational, Scientific and Cultural Organization National Commission of the Philippines, herein after referred to as the Commission, is hereby created under the President of the Philippines to serve as a liaison agency between the Government of the Philippines and the United Nations Educational, Scientific and Cultural Organization (UNESCO) and to associate principal bodies in the Philippines interested in educational, scientific and cultural matters with the work of the UNESCO, in accordance with Article VII of the Constitution of the aforesaid Organization accepted by Joint Resolution Numbered Three of the Congress of the Philippines adopted on October seventeen, nineteen hundred and forty-six.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H735-A2",
@@ -120,5 +121,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections One, Two, Three and Six of Republic Act Numbered Six Hundred and Twenty-one By Transferring the United Nations Educational, Scientific and Cultural Organization National Commission of the Philippines From the Supervision of the Department of Foreign Affairs to the President of the Philippines, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

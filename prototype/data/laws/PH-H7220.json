@@ -1,7 +1,7 @@
 {
  "id": "PH-H7220",
  "title": {
-  "zh": null,
+  "zh": "加强对进口补贴产品、商品或贸易品征收反补贴税的机制，以保护国内产业免受不公平贸易竞争，为此修订第1464号总统法令（即《菲律宾关税与海关法典》）第一册第二编第二部分第302条",
   "en": "An Act Strenghtening the Mechanisms for the Imposition of Countervailing Duties on Imported Subsidized Products, Commodities or Articles of Commerce in Order to Protect Domestic Industries from Unfair Trade Competition, Amending for the purpose Section 302, Part 2, Title II, Book I of Presidential Decree No. 1464, otherwise known as the Tariff and Customs Code of the Philippines, as amended",
   "orig": "An Act Strenghtening the Mechanisms for the Imposition of Countervailing Duties on Imported Subsidized Products, Commodities or Articles of Commerce in Order to Protect Domestic Industries from Unfair Trade Competition, Amending for the purpose Section 302, Part 2, Title II, Book I of Presidential Decree No. 1464, otherwise known as the Tariff and Customs Code of the Philippines, as amended"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity Clause. - This Act shall take effect after fifteen (15) days following its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strenghtening the Mechanisms for the Imposition of Countervailing Duties on Imported Subsidized Products, Commodities or Articles of Commerce in Order to Protect Domestic Industries from Unfair Trade Competition, Amending for the purpose Section 302, Part 2, Title II, Book I of Presidential Decree No. 1464, otherwise known as the Tariff and Customs Code of the Philippines, as amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

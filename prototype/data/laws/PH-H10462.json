@@ -1,7 +1,7 @@
 {
  "id": "PH-H10462",
  "title": {
-  "zh": null,
+  "zh": "菲律宾独立宣示与公布日",
   "en": "Araw Ng Paglalathala At Pagtatanyag Ng Kasarinlan Ng Pilipinas",
   "orig": "An Act Declaring August 1 of Every Year a Special Working Holiday to Be Known as the “Araw Ng Paglalathala At Pagtatanyag Ng Kasarinlan Ng Pilipinas”"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Araw Ng Paglalathala At Pagtatanyag Ng Kasarinlan Ng Pilipinas",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

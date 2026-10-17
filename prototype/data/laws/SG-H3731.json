@@ -1,7 +1,7 @@
 {
  "id": "SG-H3731",
  "title": {
-  "zh": null,
+  "zh": "野生动物法 1965",
   "en": "Wildlife Act 1965",
   "orig": null
  },
@@ -584,5 +584,13 @@
     "en": "21.—(1) The Minister may make rules necessary or convenient to be prescribed for carrying out or giving effect to this Act.\n[18/2020]\n(2) In particular, the Minister may make rules for all or any of the following:\n(a)the control, registration or management of wildlife or any class of wildlife;\n(b)procedures for the inspection of places or conveyances under this Act;\n(c)applications for the Director‑General’s approval under this Act and related procedures;\n(d)the prescribing of fees for the purposes of this Act;\n(e)the prescribing of anything that is required or permitted to be prescribed under this Act.\n[18/2020]\n(3) Rules made under this section may —\n(a)prescribe the offences under this Act that may be compounded; and\n(b)provide that the contravention of any provision of the rules shall be an offence punishable with a fine not exceeding $50,000 or with imprisonment for a term not exceeding 2 years or with both.\n[18/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Wildlife Act 1965",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

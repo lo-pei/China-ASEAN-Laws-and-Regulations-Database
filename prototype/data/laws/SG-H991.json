@@ -1,7 +1,7 @@
 {
  "id": "SG-H991",
  "title": {
-  "zh": null,
+  "zh": "货币（硬币面额与特征）公告 2015",
   "en": "Currency (Denominations and Characteristics of Coins) Notification 2015",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE SINGAPORE50 (SG50) COMMEMORATIVE COINS TO BE ISSUED ON 28 MAY 2015\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n50 Dollars\n999.9\nFine Gold\n7.776 g +\n0.05 g\n21.96 mm\n± 0.15 mm\n1.55 mm ±\n0.20 mm\nRound\nMilled\nIn the centre is the Singapore Arms with the year-date “2015” below it, and the word “SINGAPORE” in the 4 official languages around the circumference of the coins. The position of the mintmark is at 5 o’clock of the $50 and $5 coins.\n$50 Gold Proof Coin\nThe design features our educators. The foreground depicts educators in a range of teaching activities. The background features a classroom scene in a primary school.\n$5 Silver Proof Coin\nThe design features higher education. The foreground depicts students, in colour, engaged in various fields of study — culinary arts at the Institute of Technical Education (ITE), engineering at a polytechnic, and medicine at a university. The background features the ITE Headquarters and ITE College Central, and National University of Singapore Bukit Timah campus.\n$2 Cupro-Nickel Proof-like Coin\nThe design features primary and secondary education. The foreground depicts students, in colour, engaged in diverse learning activities, in both academic and non-academic domains. The background features the Bukit Panjang Government High School.\nIn each design, the tagline ‘Education, Building Our Nation Together’ and the official SG50 logo (in colour only for the $5 silver proof coin and $2 cupro-nickel proof-like coin) are featured within a ribbon across the coin. The denomination of the coin in figures is below the SG50 logo at the right of the coin.\n5 Dollars\n999\nFine Silver\n31.103 g\n± 0.20 g\n40.70 mm\n± 0.20 mm\n3.20 mm ±\n0.30 mm\nRound\nMilled\n2 Dollars\n75% Copper\n25% Nickel\n20.00 g ±\n0.60 g\n38.70 mm\n± 0.15 mm\n2.50 mm ±\n0.30 mm\nRound\nMilled\n(a)\n(b)\n(c)\n(a)Reverse Design of the $50 Gold Proof Coin.\n(b)Reverse Design of the $5 Silver Proof Coin.\n(c)Reverse Design of the $2 Cupro-Nickel Proof-like Coin.\n(d)\n(e)\n(f)\n(d)Obverse Design for the $50 Gold Proof Coin.\n(e)Obverse Design for the $5 Silver Proof Coin.\n(f)Obverse Design for the $2 Cupro-Nickel Proof-like Coin."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency (Denominations and Characteristics of Coins) Notification 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7228",
  "title": {
-  "zh": null,
+  "zh": "1999 年公共就业服务办公室法",
   "en": "Public Employment Service Office Act of 1999.",
   "orig": "Public Employment Service Office Act of 1999. An Act Institutionalizing a National Facilitation Service Network Through the Establishment of a Public Employment Service Office in Every Province, Key City and Other Strategic Areas Throughout the Country"
  },
@@ -160,5 +160,13 @@
     "en": "Effectivity. -This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation.\nApproved: February 14, 2000"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Public Employment Service Office Act of 1999.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

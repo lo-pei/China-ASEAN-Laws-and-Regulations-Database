@@ -1,7 +1,7 @@
 {
  "id": "PH-H471",
  "title": {
-  "zh": null,
+  "zh": "修订第255号共和国法第2条的法案",
   "en": "An Act to Amend Section Two of Republic Act Numbered Two Hundred Fifty-Five",
   "orig": "An Act to Amend Section Two of Republic Act Numbered Two Hundred Fifty-Five"
  },
@@ -61,14 +61,23 @@
    }
   },
   {
-   "id": "PH-H471-A2_2",
+   "id": "PH-H471-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "This Act shall take effect upon its approval.\nApproved, June 14, 1949."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section Two of Republic Act Numbered Two Hundred Fifty-Five",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9735",
  "title": {
-  "zh": null,
+  "zh": "将依第 8166 号共和国法授予 Peñafrancia 广播公司的特许经营权再延长二十五年、将覆盖范围扩大至全菲律宾并批准其股份转让的法案",
   "en": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to Peñafrancia Broadcasting Corporation Under Republic Act No. 8166, Expanding its Coverage to the Entire Philippines, and Approving the Transfer of its Corporate Shares",
   "orig": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to Peñafrancia Broadcasting Corporation Under Republic Act No. 8166, Expanding its Coverage to the Entire Philippines, and Approving the Transfer of its Corporate Shares"
  },
@@ -221,5 +221,13 @@
     "en": "Effectivity. -This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending for Another Twenty-Five (25) Years the Franchise Granted to Peñafrancia Broadcasting Corporation Under Republic Act No. 8166, Expanding its Coverage to the Entire Philippines, and Approving the Transfer of its Corporate Shares",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

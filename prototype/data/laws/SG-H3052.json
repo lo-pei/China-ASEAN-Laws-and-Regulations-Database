@@ -1,7 +1,7 @@
 {
  "id": "SG-H3052",
  "title": {
-  "zh": null,
+  "zh": "种族和谐维护（可复合罪行）条例 2026",
   "en": "Maintenance of Racial Harmony (Compoundable Offences) Regulations 2026",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Each of the following offences is prescribed as a compoundable offence that may be compounded in accordance with section 46 of the Act:\n(a)an offence under section 7(1)(a) of the Act, except a continuing offence;\n(b)an offence under section 7(1)(b), (c) or (d) of the Act;\n(c)an offence under paragraph 13(2) of the Schedule to the Maintenance of Racial Harmony (Measures against Foreign Influence) Regulations 2026 (G.N. No. S 600/2026);\n(d)an offence under regulation 10(2)(a) or 11(8)(a) or (b) of the Maintenance of Racial Harmony (Restraining Orders) Regulations 2026 (G.N. No. S 599/2026)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Maintenance of Racial Harmony (Compoundable Offences) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

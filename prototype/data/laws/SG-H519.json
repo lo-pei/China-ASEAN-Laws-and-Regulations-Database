@@ -1,7 +1,7 @@
 {
  "id": "SG-H519",
  "title": {
-  "zh": null,
+  "zh": "中央公积金（保健储蓄户头提款）条例 2001",
   "en": "Central Provident Fund (Medisave Account Withdrawals) Regulations 2001",
   "orig": null
  },
@@ -989,5 +989,13 @@
     "en": "NINTH SCHEDULE\nRegulations 2(1) and 21E(1) and (4)\nFirst column\nSecond column\nType of medical treatment\nOperative date for treatment received\n1.Administration of immunosuppressants for organ transplant mentioned in item 9 of the First Schedule, read with regulation 13(2)\nWith effect from 1 June 2026\n2.Approved out‑patient parenteral nutrition mentioned in regulation 9B(1)\nWith effect from 1 June 2026\n3.Autologous bone marrow transplant for the treatment of multiple myeloma mentioned in item 1 of the Third Schedule, read with regulation 13(3)\nWith effect from 1 June 2026\n4.Cancer drug treatment, cancer scan or diagnostic test mentioned in regulation 13(8), read with items 12 and 14 of the First Schedule\nWith effect from 1 June 2026\n5.CTGTP treatment mentioned in regulation 13D(1)\nWith effect from 1 June 2026\n6.High‑cost drug treatment mentioned in regulation 13E(1)\nWith effect from 1 June 2026\n7.Hyperbaric oxygen therapy mentioned in item 6 of the First Schedule, read with regulation 13(2)\nWith effect from 1 June 2026\n8.Life support home care provided to a paediatric patient mentioned in item 16 of the First Schedule, read with regulation 13(2)\nWith effect from 1 June 2026\n9.Negative pressure wound therapy mentioned in item 17 of the First Schedule, read with regulation 13(2)\nWith effect from 1 June 2026\n10.Out‑patient parenteral antibiotics therapy mentioned in item 3 of the Third Schedule, read with regulation 13(3)\nWith effect from 1 June 2026\n11.Radiosurgery treatment mentioned in item 19 of the First Schedule, read with regulation 13(2)\nWith effect from 1 June 2026\n12.Radiotherapy treatment mentioned in item 1 of the First Schedule, read with regulation 13(2)\nWith effect from 1 June 2026\n13.Renal dialysis treatment mentioned in regulation 19(2)\nWith effect from 1 June 2026\n14.Repetitive transcranial magnetic stimulation mentioned in regulation 13C(1)\nWith effect from 1 June 2026\n15.Treatment under home ventilation and respiratory support programme mentioned in item 15 of the First Schedule, read with regulation 13(2)\nWith effect from 1 June 2026\n16.Treatment with pasteurised donated human milk mentioned in item 18 of the First Schedule, read with regulation 13(2)\nWith effect from 1 June 2026\n[S 324/2026 wef 01/06/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund (Medisave Account Withdrawals) Regulations 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

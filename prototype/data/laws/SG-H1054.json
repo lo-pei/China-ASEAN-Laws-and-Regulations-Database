@@ -1,7 +1,7 @@
 {
  "id": "SG-H1054",
  "title": {
-  "zh": null,
+  "zh": "关税（油箱——最低金额）命令 2019",
   "en": "Customs (Fuel Tank — Minimum Amount) Order 2019",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The Customs (Fuel Tank — Minimum Amount) Order 2011 (G.N. No. S 710/2011) is revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Fuel Tank — Minimum Amount) Order 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

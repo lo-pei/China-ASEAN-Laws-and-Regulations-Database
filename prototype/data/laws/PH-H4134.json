@@ -1,7 +1,7 @@
 {
  "id": "PH-H4134",
  "title": {
-  "zh": null,
+  "zh": "授予 Jaro Liberty 电力公司在莱特省 Jaro 市镇安装、维护和运营电灯、热力、动力系统与制冰厂，并将其系统与售冰业务扩展至该省其他市镇的特许权法案",
   "en": "An Act Granting the Jaro Liberty Electric Company, Inc. a Franchise to Install, Maintain and Operate Electric Light, Heat, Power System and Ice Plant in the Municipality of Jaro, Province of Leyte, and to Extend its Electric Light, Heat and Power System and Distribution of Ice for Sale to the Municipalities of Tunga, Alangalang, Santa Fe and Pastrana, that Province",
   "orig": "An Act Granting the Jaro Liberty Electric Company, Inc. a Franchise to Install, Maintain and Operate Electric Light, Heat, Power System and Ice Plant in the Municipality of Jaro, Province of Leyte, and to Extend its Electric Light, Heat and Power System and Distribution of Ice for Sale to the Municipalities of Tunga, Alangalang, Santa Fe and Pastrana, that Province"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Jaro Liberty Electric Company, Inc. a Franchise to Install, Maintain and Operate Electric Light, Heat, Power System and Ice Plant in the Municipality of Jaro, Province of Leyte, and to Extend its Electric Light, Heat and Power System and Distribution of Ice for Sale to the Municipalities of Tunga, Alangalang, Santa Fe and Pastrana, that Province",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

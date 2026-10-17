@@ -1,7 +1,7 @@
 {
  "id": "PH-H892",
  "title": {
-  "zh": null,
+  "zh": "修订第910号共和国法（即《规定最高法院与上诉法院法官退休、由政府服务保险系统执行本法规定并废止第536号联邦法》）并为其他目的法案",
   "en": "An Act to Amend Republic Act Numbered Nine Hundred and Ten Entitled “An Act to Provide for the Retirement of Justices of the Supreme Court and of the Court of Appeals, for the Enforcement of the Provisions Hereof by the Government Service System, and to Repeal Commonwealth Act Numbered Five Hundred and Thirty-Six” and for Other Purposes",
   "orig": "An Act to Amend Republic Act Numbered Nine Hundred and Ten Entitled “An Act to Provide for the Retirement of Justices of the Supreme Court and of the Court of Appeals, for the Enforcement of the Provisions Hereof by the Government Service System, and to Repeal Commonwealth Act Numbered Five Hundred and Thirty-Six” and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Nine Hundred and Ten Entitled “An Act to Provide for the Retirement of Justices of the Supreme Court and of the Court of Appeals, for the Enforcement of the Provisions Hereof by the Government Service System, and to Repeal Commonwealth Act Numbered Five Hundred and Thirty-Six” and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

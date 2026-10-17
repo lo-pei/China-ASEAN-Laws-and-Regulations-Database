@@ -1,7 +1,7 @@
 {
  "id": "PH-H7238",
  "title": {
-  "zh": null,
+  "zh": "将曼达卢永市 Mauway 附属校改设为名为 Mandaluyong East 中学的独立中学并为其提供经费",
   "en": "An Act Converting the Mandaluyong High School — Mauway Annex in Mandaluyong City into a Separate High School to be known as the Mandaluyong East High School and providing funds therefor",
   "orig": "An Act Converting the Mandaluyong High School — Mauway Annex in Mandaluyong City into a Separate High School to be known as the Mandaluyong East High School and providing funds therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Mandaluyong High School — Mauway Annex in Mandaluyong City into a Separate High School to be known as the Mandaluyong East High School and providing funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

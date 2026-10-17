@@ -1,7 +1,7 @@
 {
  "id": "SG-H2753",
  "title": {
-  "zh": null,
+  "zh": "新加坡税务局（职能转授）公告 2020",
   "en": "Inland Revenue Authority of Singapore (Assignment of Functions) Notification 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister for Finance assigns to the Inland Revenue Authority of Singapore the following functions:\n(a)administering the Jobs Support Scheme introduced in the Budget Statement of the Government dated 18 February 2020;\n(b)disbursing payments under the SkillsFuture Enterprise Credit introduced in the Budget Statement of the Government dated 18 February 2020;\n(c)disbursing the foreign worker levy rebate introduced in the Ministerial Statement on Additional Support Measures in Response to Elevated Safe Distancing Measures dated 6 April 2020."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Inland Revenue Authority of Singapore (Assignment of Functions) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

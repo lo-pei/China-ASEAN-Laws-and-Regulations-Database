@@ -1,7 +1,7 @@
 {
  "id": "PH-H3652",
  "title": {
-  "zh": null,
+  "zh": "将 Iligan 市 Lanao 技术学校改设为职业学院，名称为北棉兰老技术学院，授权为此拨款并为其他目的法案",
   "en": "An Act to Convert Lanao Technical School in Iligan City into a Vocational College to be Known as the Northern Mindanao Institute of Technology, Authorize the Appropriation of Funds Therefor, and for Other Purposes",
   "orig": "An Act to Convert Lanao Technical School in Iligan City into a Vocational College to be Known as the Northern Mindanao Institute of Technology, Authorize the Appropriation of Funds Therefor, and for Other Purposes"
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert Lanao Technical School in Iligan City into a Vocational College to be Known as the Northern Mindanao Institute of Technology, Authorize the Appropriation of Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

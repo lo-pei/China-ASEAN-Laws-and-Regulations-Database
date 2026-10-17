@@ -1,7 +1,7 @@
 {
  "id": "SG-H2675",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 16 号）命令 2023",
   "en": "Infrastructure Protection (Protected Places) (No. 16) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nChief Executive Officer,\nSP PowerGrid Ltd\nCHANGI EAST SUBSTATION\nAll that area comprised in Lots 07315V, 07385N and 07386X in Mukim No. 28 occupied by “CHANGI EAST SUBSTATION” containing an area of about 12,628.2 square metres and bounded approximately as follows:\nCommencing at a point 35,920.566 metres North and 40,658.372 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n35,920.566\n40,658.372\n35,894.350\n40,679.219\n35,889.800\n40,682.623\n35,884.080\n40,686.903\n35,879.992\n40,689.623\n35,874.501\n40,692.693\n35,865.732\n40,696.834\n35,861.164\n40,698.573\n35,858.491\n40,699.590\n35,856.337\n40,700.166\n35,847.787\n40,702.449\n35,839.988\n40,703.753\n35,828.216\n40,704.412\n35,822.620\n40,704.113\n35,814.678\n40,702.860\n35,810.332\n40,701.635\n35,803.172\n40,698.907\n35,796.217\n40,695.208\n35,793.861\n40,693.508\n35,790.726\n40,691.246\n35,789.055\n40,689.748\n35,787.236\n40,688.207\n35,785.670\n40,686.544\n35,782.250\n40,683.079\n35,779.064\n40,678.970\n35,774.558\n40,671.560\n35,774.816\n40,671.377\n35,773.229\n40,667.789\n35,770.539\n40,659.034\n35,769.381\n40,652.380\n35,768.990\n40,646.077\n35,769.025\n40,642.103\n35,769.033\n40,641.161\n35,769.495\n40,637.319\n35,770.689\n40,631.739\n35,771.961\n40,627.427\n35,771.769\n40,627.351\n35,773.768\n40,622.082\n35,776.598\n40,616.453\n35,780.091\n40,611.097\n35,780.260\n40,610.883\n35,783.130\n40,607.265\n35,783.256\n40,607.139\n35,788.585\n40,601.819\n35,793.615\n40,597.783\n35,798.337\n40,594.909\n35,799.494\n40,594.319\n35,802.621\n40,592.724\n35,812.690\n40,588.965\n35,817.891\n40,587.876\n35,825.806\n40,587.107\n35,831.550\n40,587.152\n35,837.756\n40,587.821\n35,844.428\n40,589.444\n35,845.897\n40,589.953\n35,851.804\n40,592.002\n35,858.893\n40,595.666\n35,866.117\n40,600.011\n35,871.535\n40,603.572\n35,882.070\n40,611.447\n35,889.179\n40,617.621\n35,898.080\n40,627.057\n35,902.741\n40,632.634\n35,908.443\n40,640.236\n35,910.064\n40,642.598\n35,912.774\n40,646.462\n35,916.118\n40,651.483\nto the point of commencement.\nThe boundaries of “CHANGI EAST SUBSTATION” are more particularly delineated in the Survey Plan No. WES/GAZ/599/18 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 16) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

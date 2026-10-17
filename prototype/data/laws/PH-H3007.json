@@ -1,7 +1,7 @@
 {
  "id": "PH-H3007",
  "title": {
-  "zh": null,
+  "zh": "禁止砍伐、毁坏或损伤公共道路旁、广场、公园、校园或其他公共游憩场所已种植或生长中的树木、花卉与灌木或具景观价值植物的法案",
   "en": "An Act to Prohibit the Cutting, Destroying or Injuring of Planted or Growing Trees, Flowering Plants and Shrubs or Plants of Scenic Value Along Public Roads, in Plazas, Parks, School Premises or in Any Other Public Pleasure Ground",
   "orig": "An Act to Prohibit the Cutting, Destroying or Injuring of Planted or Growing Trees, Flowering Plants and Shrubs or Plants of Scenic Value Along Public Roads, in Plazas, Parks, School Premises or in Any Other Public Pleasure Ground"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Prohibit the Cutting, Destroying or Injuring of Planted or Growing Trees, Flowering Plants and Shrubs or Plants of Scenic Value Along Public Roads, in Plazas, Parks, School Premises or in Any Other Public Pleasure Ground",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H481",
  "title": {
-  "zh": null,
+  "zh": "关于无行为能力退伍军人、其他无行为能力者及退伍军人管理局未成年受益人监护的法案",
   "en": "An Act Concerning the Guardianship of Incompetent Veterans, Other Incompetents and Minor Beneficiaries of the Veterans Administration",
   "orig": "An Act Concerning the Guardianship of Incompetent Veterans, Other Incompetents and Minor Beneficiaries of the Veterans Administration"
  },
@@ -320,5 +320,13 @@
     "en": "Application of Act. -The provisions of this Act relating to surety bonds and the Administration of Estates of wards shall apply to all \"income\" and \"estate\" as defined in section two of this Act whether the guardian shall have been appointed under this Act or under any other law of the Philippines, special or general, prior or subsequent to the enactment hereof.\nSection 29 . This Act shall take effect upon its approval.\nApproved: June 18, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Concerning the Guardianship of Incompetent Veterans, Other Incompetents and Minor Beneficiaries of the Veterans Administration",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

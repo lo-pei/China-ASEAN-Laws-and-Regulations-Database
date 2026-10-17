@@ -1,7 +1,7 @@
 {
  "id": "PH-H9525",
  "title": {
-  "zh": null,
+  "zh": "将伊莎贝拉省重新划分为六个立法选区的法案",
   "en": "An Act Reapportioning the Province of Isabela Into Six (6) Legislative Districts",
   "orig": "An Act Reapportioning the Province of Isabela Into Six (6) Legislative Districts"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity. - This Act shall effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reapportioning the Province of Isabela Into Six (6) Legislative Districts",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H5570-A1_2",
+   "id": "PH-H5570-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Subject to the provisions of the Constitution, the Philippine Long Distance Telephone Company (PLDT), its successors or assigns, and hereunder referred to as the grantee, is hereby granted the right, privilege, and authority to carry on the business of providing basic and enhanced telecommunications services in and between provinces, cities and municipalities in the Philippines and between the Philippines and other countries and territories and, for this purpose, to establish, operate, manage, lease, maintain and purchase telecommunications systems, including mobile, cellular and wired or wireless telecommunications systems, fiber optics, multichannel transmission distribution systems, satellite transmit and receive systems, and other telecommunications systems and their value-added services such as but not limited to transmission of voice, data, facsimile, control signals, audio and video, information service bureau and all other telecommunications systems technologies as are at present available or be made available through technical advances or innovations in the future, or construct, acquire, lease and operate or manage transmitting and receiving stations and switching stations, both for local and international services, lines, cables or systems, as is or are, convenient or essential to efficiently carry out the purposes of this franchise: Provided, however, That the grantee, its successors or assigns shall not, without the permission of the National Telecommunications Commission or its legal successor first had, install, maintain, operate, purchase or lease such stations, lines, cables or systems.\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5570-A2",
@@ -241,24 +242,26 @@
    }
   },
   {
-   "id": "PH-H5570-A2_2",
+   "id": "PH-H5570-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "The term of the franchise of the grantee, as herein amended, is hereby extended by twenty-five (25) years from the expiration thereof on November 28, 2003."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H5570-A3_2",
+   "id": "PH-H5570-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
-   }
+   },
+   "dupIndex": 2
   }
  ]
 }

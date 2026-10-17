@@ -1,7 +1,7 @@
 {
  "id": "SG-H2630",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护区）（第 2 号）命令 2024",
   "en": "Infrastructure Protection (Protected Areas) (No. 2) Order 2024",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Area\nCommander 9th Flotilla/\nForce Protection Group\nRSS SINGAPURA — CHANGI NAVAL BASE (AREA A)\nAll that area comprised in part of Lot 05449V in Mukim No. 31 occupied by “RSS SINGAPURA — CHANGI NAVAL BASE (AREA A)” containing an area of about 43,493 square metres and bounded approximately as follows:\nCommencing at a point 33,880.372 metres North and 48,915.943 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n33,880.372\n48,915.943\n33,877.388\n48,916.019\n33,850.943\n48,916.699\n33,850.947\n48,913.699\n33,770.529\n48,915.768\n33,765.069\n48,721.840\n33,456.328\n48,729.793\n33,453.532\n48,625.810\n33,453.396\n48,622.169\n33,444.036\n48,370.702\n33,451.415\n48,373.834\n33,458.500\n48,376.841\n33,461.823\n48,526.447\n33,466.203\n48,694.892\n33,467.162\n48,718.144\n33,476.652\n48,717.894\n33,515.602\n48,716.840\n33,764.240\n48,710.087\n33,761.784\n48,609.591\n33,863.717\n48,609.591\n33,863.717\n48,549.596\n33,864.434\n48,550.199\n33,865.164\n48,550.883\n33,865.856\n48,551.605\n33,866.508\n48,552.363\n33,867.117\n48,553.156\n33,867.684\n48,553.980\n33,868.204\n48,554.834\n33,868.678\n48,555.714\n33,869.104\n48,556.619\n33,869.308\n48,557.106\n33,880.258\n48,584.207\n33,880.612\n48,585.142\n33,880.717\n48,585.457\n33,880.717\n48,913.441\nto the point of commencement.\nThe boundaries of “RSS SINGAPURA — CHANGI NAVAL BASE (AREA A)” are more particularly delineated in the Survey Plan No. W24022‑3000475643‑GZ01‑001‑OC filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Areas) (No. 2) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

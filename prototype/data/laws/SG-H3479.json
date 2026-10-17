@@ -1,7 +1,7 @@
 {
  "id": "SG-H3479",
  "title": {
-  "zh": null,
+  "zh": "停车位法 1974",
   "en": "Parking Places Act 1974",
   "orig": null
  },
@@ -796,5 +796,13 @@
     "en": "22.—(1) The Authority may, with the approval of the Minister, make rules necessary or convenient to be prescribed for carrying out or giving effect to this Act.\n[24/2018]\n(2) Without limiting subsection (1), the Authority may, with the approval of the Minister, make rules —\n(a)regulating the use of parking places and private parking places, including —\n(i)controlling the type or class of vehicles which may park in different parking places or private parking places;\n(ii)prohibiting or restricting the activities which may take place in parking places and private parking places; and\n(iii)prescribing the conditions upon and the times during which parking of vehicles or other activities are permitted to take place in parking places and private parking places;\n(b)requiring private parking places to be provided for any land or building and its layout, including prescribing —\n(i)the layout, arrangement, dimensions or area of each parking lot in the private parking place and the design of parking facilities in the private parking place;\n(ii)the maximum or minimum dimensions or area of each parking lot in the private parking place;\n(iii)the maximum or minimum number or a number range, or a maximum rate of increase or decrease or a minimum rate of increase or decrease, in the number of parking lots for the private parking place;\n(iv)different layout, arrangement, dimensions or area of parking lots and different designs of parking facilities, in the private parking place for different types of vehicles which may park in the private parking place and in different circumstances or for different classes of land or premises; or\n(v)different maximum or minimum numbers or different number ranges, or different maximum rates of increase or decrease or different minimum rates of increase or decrease, in the number of parking lots for different types of vehicles, different circumstances or different classes of land or premises;\n(c)regulating the operation of private parking places, garages and places kept or used for the housing or parking of vehicles, except garages or places used in connection with private dwelling houses for housing or parking vehicles kept for private use only;\n(d)regulating the parking of heavy vehicles in any parking place, by the issue of vehicle parking certificates or such other documents entitling the holder to park a heavy vehicle in a parking lot in the parking place;\n(e)providing for the calculation of the deficiency charge mentioned in section 6B, including —\n(i)prescribing different rates and methods of calculation of the charge;\n(ii)prescribing circumstances for the deferment of liability to pay the charge;\n(iii)prescribing the procedure to apply to the Authority to determine the amount of a deficiency charge; or\n(iv)providing for the remission or the refund, wholly or in part, of the charge payable or paid by any person; and\n(f)prescribing the fees to be paid for the Superintendent or Authority for doing anything under this Act or the rules.\n[24/2018]\n(3) All rules made under this section must be presented to Parliament as soon as possible after publication in the Gazette.\n[24/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Parking Places Act 1974",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

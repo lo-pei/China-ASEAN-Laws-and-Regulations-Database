@@ -1,7 +1,7 @@
 {
  "id": "SG-H3677",
  "title": {
-  "zh": null,
+  "zh": "国家豁免法 1979",
   "en": "State Immunity Act 1979",
   "orig": null
  },
@@ -342,5 +342,13 @@
     "en": "19.—(1) Part 2 does not affect any immunity or privilege applicable in Singapore to diplomatic and consular agents, and section 8(1) does not apply to proceedings concerning a State’s title to or its possession of property used for the purposes of a diplomatic mission.\n(2) Part 2 does not apply to —\n(a)proceedings relating to anything done by or in relation to the armed forces of a State while present in Singapore and, in particular, has effect subject to the Visiting Forces Act 1960;\n(b)criminal proceedings; and\n(c)proceedings relating to taxation other than those mentioned in section 13."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "State Immunity Act 1979",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

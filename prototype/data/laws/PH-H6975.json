@@ -1,7 +1,7 @@
 {
  "id": "PH-H6975",
  "title": {
-  "zh": null,
+  "zh": "住房贷款债务豁免法 1998",
   "en": "Housing Loan Condonation Act of 1998",
   "orig": "Housing Loan Condonation Act of 1998 An Act to Rescue the National Shelter Program of the Government By Condoning the Penalties on all Outstanding/Delinquent Housing Loan Accounts with any of the Government Institutions and Agencies Involved in the National Shelter Program and by Amending Presidential Decree No. 1752, as amended"
  },
@@ -110,5 +110,13 @@
     "en": "Effectivity clause. - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Housing Loan Condonation Act of 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

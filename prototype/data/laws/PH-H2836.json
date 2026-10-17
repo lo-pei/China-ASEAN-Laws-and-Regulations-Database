@@ -1,7 +1,7 @@
 {
  "id": "PH-H2836",
  "title": {
-  "zh": null,
+  "zh": "将朗布隆省洛奥克市镇的利蒙村分为名为北利蒙与南利蒙的两个村的法案",
   "en": "An Act Dividing Barrio Limon in the Municipality of Looc, Province of Romblon, into Two Barrios to be Known as Limon Norte and Limon Sur",
   "orig": "An Act Dividing Barrio Limon in the Municipality of Looc, Province of Romblon, into Two Barrios to be Known as Limon Norte and Limon Sur"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Dividing Barrio Limon in the Municipality of Looc, Province of Romblon, into Two Barrios to be Known as Limon Norte and Limon Sur",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

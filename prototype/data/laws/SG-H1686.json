@@ -1,7 +1,7 @@
 {
  "id": "SG-H1686",
  "title": {
-  "zh": null,
+  "zh": "保健品（特定保健品广告）条例 2016",
   "en": "Health Products (Advertisement of Specified Health Products) Regulations 2016",
   "orig": null
  },
@@ -263,5 +263,13 @@
     "en": "THIRD SCHEDULE\nRegulation 6(2)\nSpecified diseases or conditions\n1.Blindness\n2.Cancer\n3.Cataract\n4.Conception and pregnancy\n5.Deafness\n6.Diabetes\n7.Drug addiction\n8.Epilepsy or fits\n9.Frigidity\n10.Hypertension\n11.Impotency\n12.Infertility\n13.Insanity\n14.Kidney diseases\n15.Leprosy\n16.Menstrual disorders\n17.Paralysis\n18.Sexual function\n19.Tuberculosis\n[S 109/2021 wef 01/03/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Health Products (Advertisement of Specified Health Products) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

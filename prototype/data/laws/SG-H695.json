@@ -1,7 +1,7 @@
 {
  "id": "SG-H695",
  "title": {
-  "zh": null,
+  "zh": "1997 年 1 月 10 日发行的硬币",
   "en": "Coins to Be Issued on 10th January 1997",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE $250 GOLD PROOF COIN, $10 SILVER PIEDFORT PROOF COIN AND $10 CUPRO-NICKEL PROOF-LIKE COIN\nDenomination.\nMetal.\nStandard Weight.\nStandard Diameter.\nStandard Thickness.\nShape.\nEdge.\nDesign of Obverse.\nDesign of Reverse.\n250 Dollars\n999.9 Fine\nGold\n31.103 g +\n0.05 g\n32.12 mm ±\n0.15 mm\n2.50 mm ±\n0.20 mm\nRound\nMilled and bearing the words “BOARD OF COMMISSIONERS OF CURRENCY, SINGAPORE” and lion symbol.\nThe Singapore Arms in the centre with the year-date “1997” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’clock for the $10 silver and $250 gold coins.\nA stylised version of an ox design is in the centre. The coin design is based on the paper-cut style. The two Chinese characters signifying the “Year of the Ox” are above the ox design and the denomination of the coin in figures is below the design. The troy weight and fineness of the coin are at the lower circumference of the $10 silver and $250 gold coins.\n10 Dollars\n999 Fine\nSilver\n62.206 g ±\n0.20 g\n40.70 mm ±\n0.15 mm\n5.80 mm ±\n0.20 mm\nRound\n10 Dollars\n75% Copper\n25% Nickel\n28.0 g ±\n0.40 g\n40.70 mm ±\n0.15 mm\n3.05 mm ±\n0.20 mm\nRound\n$250 Gold\n$10 Silver\n$10 Cupro-nickel\nProof Coin\nPiedfort Proof Coin\nProof-like Coin"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Coins to Be Issued on 10th January 1997",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

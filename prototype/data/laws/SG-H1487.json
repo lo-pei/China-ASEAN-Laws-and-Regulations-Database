@@ -1,7 +1,7 @@
 {
  "id": "SG-H1487",
  "title": {
-  "zh": null,
+  "zh": "费用（中央肃毒局）（陈述、报告、资料、文件与记录的副本）命令",
   "en": "Fees (Central Narcotics Bureau) (Copies of Statements, Reports, Information, Documents and Records) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be leviable at the office of the Central Narcotics Bureau the following fees:\n(a)for a copy of every statement recorded from any person under section 122 of the Criminal Procedure Code (Cap. 68)\n…\n$16\n(b)for every search for a statement, report, information, document or record in the possession of the Bureau\n…\n$14\n(c)for a copy of every document or record in the possession of the Bureau\n…\n$16."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Central Narcotics Bureau) (Copies of Statements, Reports, Information, Documents and Records) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

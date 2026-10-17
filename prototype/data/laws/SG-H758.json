@@ -1,7 +1,7 @@
 {
  "id": "SG-H758",
  "title": {
-  "zh": null,
+  "zh": "社区纠纷解决（第 2A 部复合罪行）条例 2025",
   "en": "Community Disputes Resolution (Composition of Offences under Part 2A) Regulations 2025",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. An offence under section 13K(4), 13L(5), 13N(1), 13O, 13P(1) or 13R(1) or (2) of the Act may be compounded by the Director‑General or a person authorised by the Director‑General in accordance with section 13U of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Community Disputes Resolution (Composition of Offences under Part 2A) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2248",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发特许权使用费及其他付款豁免）公告 2001",
   "en": "Income Tax (Exemption of Royalties and Other Payments for Economic and Technological Development) Notification 2001",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "5. The exemption under paragraph 4 shall apply only if the payment referred to in that paragraph is made to a non-resident person and the payment —\n(a)is not derived by that person from any trade or business carried on or exercised by him in Singapore; and\n(b)is not effectively connected with any permanent establishment in Singapore.\n[S 267/2001 wef 09/05/2001]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Royalties and Other Payments for Economic and Technological Development) Notification 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

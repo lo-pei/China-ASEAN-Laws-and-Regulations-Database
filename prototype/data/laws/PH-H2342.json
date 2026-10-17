@@ -1,7 +1,7 @@
 {
  "id": "PH-H2342",
  "title": {
-  "zh": null,
+  "zh": "修订第910号共和国法（经第1057号共和国法修正，即《规定最高法院与上诉法院法官退休法》）第1至第6条，使其适用于土地关系、工业关系、税务上诉、初审及少年与家事关系法院法官的法案",
   "en": "An Act to Amend Sections One, Two, Three, Four, Five and Six of Republic Act Numbered Nine Hundred and Ten as Amended by Republic Act Numbered One Thousand Fifty-Seven, Entitled “An Act to Provide for the Retirement of Justices of the Supreme Court and of the Court of Appeals, for Enforcement of the Provisions Hereof by the Government Service Insurance System, and to Repeal Commonwealth Act Numbered Five Hundred and Thirty-Six,” to Make its Provisions Applicable to Judges of the Courts of Agrarian Relations, Industrial Relations, Tax Appeals, First Instance, and Juvenile and Domestic Relations Courts, and for Other Purposes",
   "orig": "An Act to Amend Sections One, Two, Three, Four, Five and Six of Republic Act Numbered Nine Hundred and Ten as Amended by Republic Act Numbered One Thousand Fifty-Seven, Entitled “An Act to Provide for the Retirement of Justices of the Supreme Court and of the Court of Appeals, for Enforcement of the Provisions Hereof by the Government Service Insurance System, and to Repeal Commonwealth Act Numbered Five Hundred and Thirty-Six,” to Make its Provisions Applicable to Judges of the Courts of Agrarian Relations, Industrial Relations, Tax Appeals, First Instance, and Juvenile and Domestic Relations Courts, and for Other Purposes"
  },
@@ -82,5 +82,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 1, 1959"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections One, Two, Three, Four, Five and Six of Republic Act Numbered Nine Hundred and Ten as Amended by Republic Act Numbered One Thousand Fifty-Seven, Entitled “An Act to Provide for the Retirement of Justices of the Supreme Court and of the Court of Appeals, for Enforcement of the Provisions Hereof by the Government Service Insurance System, and to Repeal Commonwealth Act Numbered Five Hundred and Thirty-Six,” to Make its Provisions Applicable to Judges of the Courts of Agrarian Relations, Industrial Relations, Tax Appeals, First Instance, and Juvenile and Domestic Relations Courts, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

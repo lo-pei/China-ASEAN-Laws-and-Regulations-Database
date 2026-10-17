@@ -1,7 +1,7 @@
 {
  "id": "SG-H1319",
  "title": {
-  "zh": null,
+  "zh": "新加坡企业发展局（认可标志）公告 2018",
   "en": "Enterprise Singapore Board (Accreditation Marks) Notification 2018",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nPart 1\nSingapore Laboratory Accreditation Scheme (SAC‑SINGLAS)\n1.The following marks are the accreditation marks for the Singapore Laboratory Accreditation Scheme (SAC‑SINGLAS):\n(a)the accreditation mark for the Singapore Laboratory Accreditation Scheme (SAC‑SINGLAS), issued before 1 April 2018\n(b)the accreditation mark for the Singapore Laboratory Accreditation Scheme (SAC‑SINGLAS), issued on or after 1 April 2018\nPart 2\nAccreditation Mark Scheme for Inspection Bodies\n1.The following marks are the accreditation marks for the Accreditation Mark Scheme for Inspection Bodies:\n(a)the accreditation mark for the Accreditation Mark Scheme for Inspection Bodies, issued before 1 April 2018\n(b)the accreditation mark for the Accreditation Mark Scheme for Inspection Bodies, issued on or after 1 April 2018\nPart 3\nAccreditation Mark Scheme for Certification Bodies\n1.The following marks are the accreditation marks for the Accreditation Mark Scheme for Certification Bodies:\n(a)the accreditation mark for the Accreditation Mark Scheme for Certification Bodies, issued before 1 April 2018\n(b)the accreditation mark for the Accreditation Mark Scheme for Certification Bodies, issued on or after 1 April 2018\nPart 4\nSingapore Accreditation Council Accredited Facilities\n1.The following marks are the accreditation marks for the Singapore Accreditation Council Accredited Facilities:\n(a)the accreditation mark for the Singapore Accreditation Council Accredited Facilities, issued before 1 April 2018\n(b)the accreditation mark for the Singapore Accreditation Council Accredited Facilities, issued on or after 1 April 2018"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Enterprise Singapore Board (Accreditation Marks) Notification 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

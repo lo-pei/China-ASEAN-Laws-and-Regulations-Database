@@ -1,7 +1,7 @@
 {
  "id": "PH-H5430",
  "title": {
-  "zh": null,
+  "zh": "规定依《公共土地法》（第 141 号联邦法，经修正）第七、八章就公有可转让土地申请免费专利与司法确认不完善所有权的期限截至 2000 年 12 月 31 日",
   "en": "An Act Granting a Period Ending on December 31, 2000 for Filing Applications for free Patent and Judicial Confirmation of Imperfect Title to Alienable and Disposable Lands of the Public Domain under Chapters VII and VIII of the Public Land Act (CA 141, as Amended)",
   "orig": "An Act Granting a Period Ending on December 31, 2000 for Filing Applications for free Patent and Judicial Confirmation of Imperfect Title to Alienable and Disposable Lands of the Public Domain under Chapters VII and VIII of the Public Land Act (CA 141, as Amended)"
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting a Period Ending on December 31, 2000 for Filing Applications for free Patent and Judicial Confirmation of Imperfect Title to Alienable and Disposable Lands of the Public Domain under Chapters VII and VIII of the Public Land Act (CA 141, as Amended)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

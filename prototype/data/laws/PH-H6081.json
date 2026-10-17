@@ -1,7 +1,7 @@
 {
  "id": "PH-H6081",
  "title": {
-  "zh": null,
+  "zh": "将巴拉望省Cuyo市镇Cuyo区医院床位由50张增至75张并为此拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Cuyo District Hospital in the Municipality of Cuyo, Province of Palawan, From Fifty (50) To Seventy-five (75) Beds, and Appropriating Funds Therefore",
   "orig": "An Act Increasing the Bed Capacity of the Cuyo District Hospital in the Municipality of Cuyo, Province of Palawan, From Fifty (50) To Seventy-five (75) Beds, and Appropriating Funds Therefore"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Cuyo District Hospital in the Municipality of Cuyo, Province of Palawan, From Fifty (50) To Seventy-five (75) Beds, and Appropriating Funds Therefore",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

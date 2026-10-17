@@ -1,7 +1,7 @@
 {
  "id": "SG-H404",
  "title": {
-  "zh": null,
+  "zh": "商业名称注册（第 17（1）（d）条下的指示）公告 2015",
   "en": "Business Names Registration (Direction under section 17(1)(d)) Notification 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The Minister directs that, subject to sub-paragraph (2), the Registrar must not accept for registration the word “Temasek” in any registered business name.\n(2) Sub-paragraph (1) does not apply if the person applying to be registered as carrying on business, whether as a sole proprietor or as a partner, under the business name is Temasek Holdings (Private) Limited, a company incorporated under the Companies Act 1967 (Registration No. 197401143C)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Business Names Registration (Direction under section 17(1)(d)) Notification 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

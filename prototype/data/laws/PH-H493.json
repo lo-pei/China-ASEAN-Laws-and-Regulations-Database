@@ -1,7 +1,7 @@
 {
  "id": "PH-H493",
  "title": {
-  "zh": null,
+  "zh": "授予 Clavecilla Radio System 设立广播、电信与电视电台的特许经营权法案",
   "en": "An Act Granting the Clavecilla Radio System a Franchise to Establish Radio Stations for Broadcasting, Telecommunication, and Television",
   "orig": "An Act Granting the Clavecilla Radio System a Franchise to Establish Radio Stations for Broadcasting, Telecommunication, and Television"
  },
@@ -240,5 +240,13 @@
     "en": "This franchise shall not be interpreted to mean an exclusive grant of the privileges herein provided for.\nSection 21 . This Act shall take effect upon its approval.\nApproved: June 18, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Clavecilla Radio System a Franchise to Establish Radio Stations for Broadcasting, Telecommunication, and Television",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

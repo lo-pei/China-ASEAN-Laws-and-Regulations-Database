@@ -1,7 +1,7 @@
 {
  "id": "PH-H465",
  "title": {
-  "zh": null,
+  "zh": "为牧场、繁殖站与繁殖中心的修复以及新农场的设立与运营拨款两百万比索的法案",
   "en": "An Act to Appropriate the Sum of Two Million Pesos for the Rehabilitation of Stock Farms, Breeding Stations and Breeding Centers and for the Establishment and Operation of New Farms",
   "orig": "An Act to Appropriate the Sum of Two Million Pesos for the Rehabilitation of Stock Farms, Breeding Stations and Breeding Centers and for the Establishment and Operation of New Farms"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 14, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Appropriate the Sum of Two Million Pesos for the Rehabilitation of Stock Farms, Breeding Stations and Breeding Centers and for the Establishment and Operation of New Farms",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

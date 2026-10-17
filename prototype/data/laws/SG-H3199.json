@@ -1,7 +1,7 @@
 {
  "id": "SG-H3199",
  "title": {
-  "zh": null,
+  "zh": "商船（安全公约）条例",
   "en": "Merchant Shipping (Safety Convention) Regulations",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Merchant Shipping Act\n(CHAPTER 179, SECTION 100)\nMerchant Shipping (Safety Convention) Regulations\nRg 11\nG.N. No. S 219/1984\nREVISED EDITION 1999\n(1st April 1999)\n[1st September 1984]\nThese Regulations may be cited as the Merchant Shipping (Safety Convention) Regulations."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Merchant Shipping (Safety Convention) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

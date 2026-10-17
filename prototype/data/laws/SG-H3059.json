@@ -1,7 +1,7 @@
 {
  "id": "SG-H3059",
  "title": {
-  "zh": null,
+  "zh": "宗教和谐维护（捐款报告与外国影响披露）条例 2022",
   "en": "Maintenance of Religious Harmony (Donation Reporting and Foreign Influence Disclosure) Regulations 2022",
   "orig": null
  },
@@ -534,5 +534,13 @@
     "en": "30. When the Minister has made a decision regarding an appeal, the Appeals Secretary must without delay notify the parties of the Minister’s decision in respect of the appeal."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Maintenance of Religious Harmony (Donation Reporting and Foreign Influence Disclosure) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

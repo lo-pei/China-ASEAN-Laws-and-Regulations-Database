@@ -1,7 +1,7 @@
 {
  "id": "SG-H3368",
  "title": {
-  "zh": null,
+  "zh": "第 6(3) 条下的各项公告",
   "en": "Notifications under Section 6(3)",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Land Titles (Strata) Act\n(Chapter 158, Section 6(3))\nNotifications under Section 6(3)\nN 1\nG.N. No. S 136/1968\nREVISED EDITION 1990\n(25th March 1992)\nThe Minister for National Development has specified that the provisions of section 6 of the Act shall not apply to the following buildings or class of buildings:\n(1)to any flat forming part of a building shown in a subdivision plan approved by the Competent Authority as constituting a building unit of two flats;\n[S 136/68]\n[5.5.68]\n(2)to flats on subdivided buildings controlled, managed and administered by the Port of Singapore Authority;\n[S 56/74]\n[22.2.74]\n(3)to flats comprised in the buildings known as Orchard Court erected on the land known as Lot 227 Town Subdivision 20;\n[S 299/74]\n[25.10.74]\n(4)[Revoked by S 137/82 wef 01/05/1982]\n(5)to flats comprised in the buildings known as Neptune Court erected on the land known as Lot 4571 Mukim XXVII;\n[S 150/77]\n[17.6.77]\n(6)to flats comprised in the buildings erected in the housing estate known as Normanton Park on the land known as Lot 1334 Mukim III;\n[S 189/77]\n[29.7.77]\n(7)to any flat comprised in the building known as Lagoon View erected on the land known as Lot 4628 Mukim XXVII;\n[S 49/78]\n[17.3.78]\n(8)to any flat comprised in the building known as Cavenagh Townhouse erected on the land known as Lot 490 of Town Subdivision 27; and\n[S 65/78]\n[31.3.78]\n(9)to any flat comprised in any building erected on the land known as Lot 1239 of Town Subdivision 17.\n[S 246/78]\n[20.10.78]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Notifications under Section 6(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

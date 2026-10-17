@@ -1,7 +1,7 @@
 {
  "id": "PH-H9330",
  "title": {
-  "zh": null,
+  "zh": "使精神失能军人人员的在世子女年满二十一（21）岁后不被终止福利，为此修订第 1638 号总统法令（即经修正的 1979 年《武装部队军人退休与离职法令》）第 25 条",
   "en": "An Act Exempting Surviving Children of Military Personnel Who Are Mentally Incapacitated From Termination of Benefits Upon Reaching the Age of Twenty-One (21), Amending for the Purpose Section 25 of Presidential Decree Numbered Sixteen Hundred and Thirty-Eight, Otherwise Known as the Afp Military Personnel Retirement and Separation Decree of 1979, as Amended",
   "orig": "An Act Exempting Surviving Children of Military Personnel Who Are Mentally Incapacitated From Termination of Benefits Upon Reaching the Age of Twenty-One (21), Amending for the Purpose Section 25 of Presidential Decree Numbered Sixteen Hundred and Thirty-Eight, Otherwise Known as the Afp Military Personnel Retirement and Separation Decree of 1979, as Amended"
  },
@@ -101,5 +101,13 @@
     "en": "Effectivity. - This Act shall take effect thirty (30) days following its publication in the Official Gazette or in at least three (3) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Exempting Surviving Children of Military Personnel Who Are Mentally Incapacitated From Termination of Benefits Upon Reaching the Age of Twenty-One (21), Amending for the Purpose Section 25 of Presidential Decree Numbered Sixteen Hundred and Thirty-Eight, Otherwise Known as the Afp Military Personnel Retirement and Separation Decree of 1979, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

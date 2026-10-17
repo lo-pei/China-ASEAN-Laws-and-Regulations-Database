@@ -1,7 +1,7 @@
 {
  "id": "SG-H760",
  "title": {
-  "zh": null,
+  "zh": "社区纠纷解决（出庭通知）条例 2025",
   "en": "Community Disputes Resolution (Notice to Attend Court) Regulations 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nNOTICE TO ATTEND COURT\n(SECTION 13T(1) OF THE COMMUNITY DISPUTES\nRESOLUTION ACT 2015)\nCase Reference Number:\nCourt Reference Number:\n[Respondent’s full name]\n[Respondent’s address]\nYou are required to answer to the charge of:\n[state the offence],\nof the Community Disputes Resolution Act 2015,\nin person before the State Courts No. [state court number], located at 1 Havelock Square, Singapore 059724 on [state date] at [state time].\nIf you do not have a valid excuse, neglect or refuse to appear on the abovementioned date and time, a warrant to arrest you may be issued.\n[Name and signature of authorised officer]\n[Designation of authorised officer]\nCommunity Relations Unit\nMunicipal Services Office\nMinistry of National Development\nDate of issue:\nReceived by:\nInterpreted using [language] (if any) by:\n__________________\n(Signature)\n__________________\n(Signature)\n[Name of Respondent]\n[Name of interpreter]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Community Disputes Resolution (Notice to Attend Court) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

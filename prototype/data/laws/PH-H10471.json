@@ -1,7 +1,7 @@
 {
  "id": "PH-H10471",
  "title": {
-  "zh": null,
+  "zh": "将北三宝颜省 Siocon 市镇 Bucana 描笼涯的 Bucana 小学的 Hatib Asamuddin 分校分离，改设为独立的同名小学，并为此拨款",
   "en": "An Act Separating the Bucana Elementary School - Hatib Asamuddin Extension in Barangay Bucana, Municipality of Siocon, Province of Zamboanga del Norte from the Bucana Elementary School, Converting it into an Independent Elementary School to be Known as The Hatib Asamuddin Elementary School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Bucana Elementary School - Hatib Asamuddin Extension in Barangay Bucana, Municipality of Siocon, Province of Zamboanga del Norte from the Bucana Elementary School, Converting it into an Independent Elementary School to be Known as The Hatib Asamuddin Elementary School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Bucana Elementary School - Hatib Asamuddin Extension in Barangay Bucana, Municipality of Siocon, Province of Zamboanga del Norte from the Bucana Elementary School, Converting it into an Independent Elementary School to be Known as The Hatib Asamuddin Elementary School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

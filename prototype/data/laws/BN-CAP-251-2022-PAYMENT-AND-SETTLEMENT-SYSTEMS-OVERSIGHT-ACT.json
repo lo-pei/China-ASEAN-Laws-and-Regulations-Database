@@ -1,0 +1,976 @@
+{
+ "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT",
+ "title": {
+  "zh": "支付与结算系统监督法",
+  "en": "PAYMENT AND SETTLEMENT SYSTEMS OVERSIGHT ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p21",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to provide for the oversight of payment systems and payment"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 61,
+ "chars": 92899,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-251-2022-ED-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-251-2022-ED-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT.pdf》（62 页），本次切分 61 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Payment and Settlement Systems (Oversight) Act."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "(1) In this Act, unless the context otherwise requires — “access”, in relation to a designated payment system, means the entitlement or eligibility of a person to become a participant in the payment system, on a commercial basis on terms that are fair and “access regime”, in relation to a designated payment system, means an access regime imposed by the Authority under “Authority” means the Brunei Darussalam Central Bank established under the Brunei Darussalam Central Bank Order, “bank” has the same meaning as in section 2(1) of the Banking Order, 2006 (S 45/2006); “book” includes any record, register, document or other record of information, and any account or accounting record, however compiled, recorded or stored, whether in written or printed form, on microfilm, in any electronic form or otherwise; “chief executive officer”, in relation to the operator of a designated payment system, means any person by whatever name\n\n(a) in the direct employment of, or acting for or by arrangement with, the operator of the designated payment\n\n(b) principally responsible for the management and conduct of the business of the operator in Brunei Darussalam; “corporation” has the same meaning as in section 2(1) of the Companies Act (Chapter 39); “designated payment system” means a payment system that is designated by the Authority under section 7 to be a designated payment system for the purposes of this Act; “designated payment instrument” means a payment instrument prescribed as a designated instrument under section 35(1); “director” has the same meaning as in section 2(1) of the Companies Act (Chapter 39); “executive officer”, in relation to an operator or a settlement institution of a payment system, means any person, by whatever name described, who is —\n\n(a) in the direct employment of, or acting for or by arrangement with, the operator or settlement institution, as the\n\n(b) concerned with or takes part in the management of the operator or settlement institution, as the case may be, on a “foreign country” means a country or territory other than Brunei “issuer” means any person, acting alone or under an arrangement with another person, who undertakes to be responsible for the payment obligation in respect of a payment instrument resulting from the user being issued with or using the payment instrument; “Minister” means the Minister of Finance and Economy; “operator”, in relation to a payment system, means a person who operates the payment system; “participant”, in relation to a payment system, means any person who is recognised in the rules of the payment system or otherwise recognised as being eligible to settle payments through the payment system with other participants; “payment system” means a funds transfer system or other system that facilitates the circulation of money, and includes any instruments and procedures that relate to the system; “payment instrument” means any instrument, whether tangible or intangible, that enables a person to obtain money, goods or services or to otherwise make payment; “settlement institution” means a person who provides facilities for —\n\n(a) the participants of a payment system to hold funds; and\n\n(b) the settling of transactions between the participants; “share” has the same meaning as in section 2(1) of the Companies “statutory corporation” means a body corporate established by or under written law to perform or discharge any public function; “substantial shareholder” means a person who has a substantial shareholding in a company and —\n\n(a) a person has a substantial shareholding in a company if —\n\n(i) he has an interest or interests in one or more voting shares in the company; and\n\n(ii) the total votes attached to that share, or those shares, is not less than 5 per cent of the total votes attached to all the voting shares in the company;\n\n(b) a person has a substantial shareholding in a company, being a company the share capital of which is divided into two or more classes of shares, if —\n\n(i) he has an interest or interests in one or more voting shares included in one of those classes; and\n\n(ii) the total votes attached to that share, or those shares, is not less than 5 per cent of the total votes attached to all the voting shares included in that\n\n(2) In any case where the functions of the operator or settlement institution of a payment system are assumed by or shared among more than one operator or settlement institution, a reference in this Act to the operator or settlement institution shall be read as a reference to each of such operators or settlement institutions. Application of Act"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "(1) Parts 3 to 6 do not apply to the Authority in its capacity as —\n\n(a) a participant;\n\n(b) an operator; or\n\n(c) a settlement institution, of any payment system.\n\n(2) This Act also applies to a person outside Brunei Darussalam who is an operator of a payment system if such payment system accepts payment or settlement instructions from participants in Brunei Darussalam unless prescribed by the Authority.\n\nFUNCTIONS AND POWERS OF AUTHORITY Authority to exercise oversight functions in respect of payment systems and payment instruments"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "systems and payment instruments"
+   },
+   "text": {
+    "en": "The Authority shall —\n\n(a) exercise oversight functions in respect of payment systems and payment instruments under this Act; and\n\n(b) have power to do all such acts, matters and things as are necessary to be carried out by the Authority under this Act. Authority to have regard to public interest"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "In exercising its powers in relation to payment systems under this Act, the Authority shall have regard to the interests of the public, and in this respect, the Authority may take into consideration —\n\n(a) whether any payment system is, in the opinion of the\n\n(i) financially safe for use by participants;\n\n(ii) efficient; and\n\n(iii) not materially causing or contributing to increased risk to the financial system; and\n\n(b) such other matters as the Authority may consider to be\n\nINFORMATION GATHERING POWERS OVER PAYMENT SYSTEMS Information to Authority"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "text": {
+    "en": "(1) The Authority may, by notice in such form and manner as the Authority may determine, require —\n\n(a) any participant;\n\n(b) any operator or any person acting on behalf of an operator; or\n\n(c) any settlement institution, of a payment system to provide to the Authority, within a reasonable period as specified in the notice, all such information relating to the payment system as may be required by the Authority.\n\n(2) Without prejudice to the generality of subsection (1), the Authority may in a notice issued under that subsection require any person referred to in paragraph (a), (b) or (c) of subsection (1) to provide, whether in the form of a return to be provided on a periodic basis or otherwise —\n\n(a) information relating to —\n\n(i) the operation of the payment system; and\n\n(ii) the pricing of, or other form of consideration for, the services offered by the payment system;\n\n(b) information relating to the participation or other involvement of that person in the payment system; and\n\n(c) such other information as the Authority may require for the purposes of this Act.\n\n(3) Subject to subsection (5), any person to whom a notice is issued under subsection (1) shall comply with the notice.\n\n(4) Any person who fails to comply with a notice issued under subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $150,000, imprisonment for a term not exceeding 2 years or both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.\n\n(5) A person to whom a notice is issued under subsection (1) shall not be obliged to disclose any information where he is prohibited by any written law from disclosing such information.\n\nDESIGNATION OF PAYMENT SYSTEMS"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Power of Authority to designate payment systems"
+   },
+   "text": {
+    "en": "(1) The Authority may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, by order published in the Gazette, designate a payment system as a designated payment system for the purposes of this Act, if the Authority is satisfied that —\n\n(a) a disruption in the operations of the payment system could trigger, cause or transmit further disruption to participants or systemic disruption to the financial system of Brunei Darussalam;\n\n(b) a disruption in the operations of the payment system could affect public confidence in payment systems or the financial system of Brunei Darussalam; or\n\n(c) it is otherwise in the interests of the public to do so.\n\n(2) Any order made under subsection (1) shall identify the operator and the settlement institution of the designated payment system, and shall continue to have effect until it is withdrawn by the Authority.\n\n(3) An operator or a settlement institution who is aggrieved by a decision of the Authority to designate the payment system as a designated payment system may, within 30 days after the order is published in the , appeal in writing to the Minister whose decision shall be final.\n\n(4) Notwithstanding the lodging of an appeal under subsection (3), the designation by the Authority under this section shall continue to have effect pending the decision of the Minister.\n\n(5) The Minister may, when deciding an appeal under subsection (3), direct that the Authority shall not designate the payment system as a designated payment system, and such direction shall have effect from the date of the decision of the Minister."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Prohibition on holding out as designated payment system"
+   },
+   "text": {
+    "en": "(1) No person shall hold himself out as the operator or settlement institution of a designated payment system unless the payment system has been designated by the Authority under section 7.\n\n(2) Any person who contravenes subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $100,000, imprisonment for a term not exceeding 2 years or both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Annual fees payable by operator of designated payment system"
+   },
+   "text": {
+    "en": "(1) Every operator of a designated payment system shall pay to the Authority such annual fees as may be prescribed and in such manner as may be specified by the Authority.\n\n(2) The Authority may, where it considers appropriate, refund or remit in whole or in part any annual fee paid or payable under subsection (1). Withdrawal of designation of payment system"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "text": {
+    "en": "(1) The Authority may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, by order published in the Gazette, withdraw the designation of any designated payment system at any time if the Authority is of the opinion that the considerations in section 7(1) are no longer valid or\n\n(2) The Authority shall not on its own initiative withdraw the designation of any designated payment system without giving the operator and the settlement institution an opportunity to be heard.\n\nOBLIGATIONS OF OPERATORS AND SETTLEMENT INSTITUTIONS\n\nOF DESIGNATED PAYMENT SYSTEMS Obligation of operator to notify Authority of businesses and acquisition"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "acquisition of corporations"
+   },
+   "text": {
+    "en": "(1) An operator of a designated payment system shall as soon as practicable notify the Authority after the occurrence of any of the following\n\n(a) the carrying on of any business by the operator of the designated payment system other than —\n\n(i) the business of operating a payment system;\n\n(ii) a business incidental to operating a payment system; or\n\n(iii) such business or class of businesses as the Authority\n\n(b) the acquisition by the operator of the designated payment system of a substantial shareholding in a corporation which does not\n\n(i) the business of operating a payment system;\n\n(ii) a business incidental to operating a payment system; or\n\n(iii) such business or class of businesses as the Authority\n\n(2) An of a within 2 months after the designation of the payment system, notify the Authority of its substantial shareholding in a corporation which does not\n\n(a) the business of operating a payment system;\n\n(b) a business incidental to operating a payment system; or\n\n(c) such business or class of businesses as the Authority may\n\n(3) Without prejudice to the generality of section 20(1), the Authority may, at any time after receiving the notification referred to in subsection (1) or (2), issue written directions to the operator of the designated payment\n\n(a) where the notification relates to a matter referred to in\n\n(a) —\n\n(i) to cease carrying on the first-mentioned business referred to in subsection (1)(a); or\n\n(ii) to carry on the first-mentioned business referred to in\n\n(a) on such conditions as the Authority may impose, if the Authority is of the opinion that this is necessary for any of the purposes referred to in\n\n(b) where the notification relates to a matter referred to in\n\n(b) or (2) —\n\n(i) to dispose of the shareholding referred to in subsection\n\n(1)(b) or (2); or\n\n(ii) to exercise its rights relating to such shareholding on such conditions as the Authority may impose, if the Authority is of the opinion that this is necessary for any of the purposes referred to in section 20(1), and the operator of the designated payment system shall comply with such written directions.\n\n(4) Any person who contravenes subsection (1) or (2) or any direction issued by the Authority under subsection (3) is guilty of an offence and liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction. Obligation of operator and settlement institution to notify Authority of"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "of certain events"
+   },
+   "text": {
+    "en": "(1) An operator and a settlement institution of a designated payment system shall notify the Authority as soon as practicable after the occurrence of any of the following events —\n\n(a) an intention to make a material change to the nature of the operating rules, settlement procedures or activities of the designated\n\n(b) an event or irregularity that impedes or prevents access to, or impairs the usual operations of the designated payment system or its settlement operations, as the case may be;\n\n(c) the operator or settlement institution, as the case may be, becoming, or likely to become, insolvent or unable to meet its financial, statutory, contractual or other obligations;\n\n(d) any other event that the Authority may specify by notice in\n\n(2) Any operator or settlement institution of a designated payment system who contravenes subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $200,000."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Obligation of operator to submit periodic reports"
+   },
+   "text": {
+    "en": "(1) An operator of a designated payment system shall submit to the Authority such reports in such form, manner and frequency as the Authority\n\n(2) Any operator of a designated payment system who contravenes subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction. Obligation of operator and settlement institution to appoint auditor"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "text": {
+    "en": "(1) An operator and a settlement institution of a designated payment system shall appoint an auditor to audit the accounts of the operator or the settlement institution, as the case may be, and where, for any reason, that auditor ceases to act for such operator or settlement institution, the operator or settlement institution shall, as soon as practicable thereafter, appoint another auditor.\n\n(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is a public accountant who is registered or deemed to be registered under the Accountants Order, 2010 (S 115/2010).\n\nOVERSIGHT POWERS OVER DESIGNATED PAYMENT SYSTEMS"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Power of Authority to impose access regime"
+   },
+   "text": {
+    "en": "(1) The Authority may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, by order published in the Gazette, impose an access regime in respect of a designated payment system on the person who determines access to the designated payment system, regardless of whether he is a participant, an operator or a settlement institution of the designated payment system, on such terms and conditions as the Authority may consider appropriate.\n\n(2) In considering whether to impose an access regime under subsection (1), the Authority shall have regard to the following —\n\n(a) whether the imposition of the access regime in respect of the designated payment system would be in the interests of the public;\n\n(b) the interests of the current participants, operator and settlement institution of the designated payment system;\n\n(c) the interests of persons who, in the future, may require or desire access to the designated payment system; and\n\n(d) such other matters as the Authority may consider to be\n\n(3) The Authority, in imposing an access regime under subsection (1), shall ensure that the access regime is fair and not discriminatory."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Variation of access regime"
+   },
+   "text": {
+    "en": "(1) The Authority may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, by order published in the Gazette, vary an access regime which has been imposed in respect of a designated payment system under section 15, on such terms and conditions as the Authority may consider appropriate.\n\n(2) In considering whether to vary an access regime under subsection (1), the Authority shall have regard to the following —\n\n(a) whether variation of the access regime in respect of the designated payment system would be in the interests of the public;\n\n(b) the interests of the current participants, operator and settlement institution of the designated payment system;\n\n(c) the interests of persons who, in the future, may require or desire access to the designated payment system; and\n\n(d) such other matters as the Authority may consider to be"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Cessation and revocation of access regime"
+   },
+   "text": {
+    "en": "(1) An access regime in respect of a designated payment system ceases to be in force if —\n\n(a) the order imposing or varying the access regime under section 15(1) or 16(1), as the case may be, provides for an expiry date and that date is reached;\n\n(b) the Authority revokes the access regime under subsection (2); or\n\n(c) the payment system concerned ceases to exist or operate, or ceases to be a designated payment system.\n\n(2) The Authority may, by order published in the Gazette, revoke an access regime if the Authority considers it appropriate to do so.\n\n(3) In considering whether to revoke an access regime under subsection (2), the Authority shall have regard to the following —\n\n(a) whether the revocation of the access regime would be in the interests of the public;\n\n(b) the interests of the current participants, operator and settlement institution of the designated payment system;\n\n(c) the interests of persons who, in the future, may require or desire access to the designated payment system; and\n\n(d) such other matters as the Authority may consider to be"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "If a person has been denied access to a designated payment system by the person who determines access to the designated payment system, regardless of whether he is a participant, an operator or a settlement institution of the designated payment system, in contravention of section 15(1) or 16(1), he may, within 30 days after he is notified of the decision to deny him access, appeal in writing to the Minister whose decision shall be final."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Power of Authority to impose conditions"
+   },
+   "text": {
+    "en": "(1) The Authority may, by notice in writing, impose on a participant, an operator or a settlement institution of a designated payment system such conditions as the Authority may think fit.\n\n(2) The Authority may, at any time, by notice in writing to a participant, an operator or a settlement institution of the designated payment system, vary any condition as the Authority may think fit.\n\n(3) Without affecting the generality of subsection (1) or (2), the conditions that the Authority may impose include conditions relating to —\n\n(a) the activities that the operator or settlement institution of the designated payment system may undertake; and\n\n(b) the requirement for the operator or settlement institution of the designated payment system to operate as a corporation.\n\n(4) Any participant, operator or settlement institution of a designated payment system which fails to comply with any condition imposed under subsection (1) or (2) is guilty of an offence and liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Power of Authority to issue written directions"
+   },
+   "text": {
+    "en": "(1) The Authority may, if it thinks that it is —\n\n(a) necessary or expedient for ensuring the integrity and proper management of a designated payment system;\n\n(b) necessary or expedient for the effective administration of the\n\n(c) otherwise in the interests of the public or a section of the issue written directions, either of a general or specific nature, to any —\n\n(i) participant or class of participants;\n\n(ii) operator; or\n\n(iii) settlement institution, of a designated payment system.\n\n(2) Without prejudice to the generality of subsection (1), any written direction issued under that subsection may relate to —\n\n(a) the appropriate actions to be taken by the participant or class of participants, or the operator or the settlement institution, in relation\n\n(b) the appointment of a person approved by the Authority to advise the participant or class of participants, or the operator or the settlement institution, on the proper conduct of its business;\n\n(c) the conditions that will apply if any function of the operator or the settlement institution is outsourced; and\n\n(d) such other matters as the Authority may consider necessary or expedient or in the interests of the public or a section of the public.\n\n(3) Any person who fails to comply with a written direction issued under subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Power of Authority to approve chief executive officer and directors of"
+   },
+   "text": {
+    "en": "(1) No operator of a designated payment system shall appoint a\n\n(a) chief executive officer in Brunei Darussalam; or\n\n(b) director in Brunei Darussalam, unless the operator has obtained the approval of the Authority.\n\n(2) Subject to section 22, where an operator of a designated payment system has obtained the approval of the Authority to appoint a person to be its chief executive officer or director under subsection (1), the person may, upon the expiry of his term, be reappointed to be the chief executive officer or director of the operator, as the case may be, without the approval of the\n\n(3) An application for approval under subsection (1) shall be made in such form and manner as the Authority may determine.\n\n(4) Without prejudice to any other matters that the Authority may consider relevant, the Authority may, in determining whether to grant its approval under subsection (1), have regard to such criteria as the Authority may specify in written directions.\n\n(5) Subject to subsection (6), the Authority shall not refuse an application for approval under this section without giving the operator of the designated payment system an opportunity to be heard.\n\n(6) The Authority may refuse an application for approval under subsection (1) on any of the following grounds without giving the operator of the designated payment system an opportunity to be heard —\n\n(a) the person is an undischarged bankrupt, whether in Brunei Darussalam or elsewhere;\n\n(b) the person has been convicted, whether in Brunei Darussalam or elsewhere, of an offence —\n\n(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and\n\n(ii) punishable with imprisonment for a term of 3 months or more.\n\n(7) Where the Authority refuses an application for approval under this section, the Authority need not give the person who was proposed to be appointed an opportunity to be heard.\n\n(8) The operator of a designated payment system shall, as soon as practicable, give written notice to the Authority of the resignation or removal of its chief executive officer or director.\n\n(9) Any person who contravenes subsection (1) or (8) is guilty of an offence and liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Removal of director or executive officer"
+   },
+   "text": {
+    "en": "(1) Notwithstanding the provisions of any other written law, where the Authority is satisfied that a director of a Brunei Darussalam operator or Brunei Darussalam settlement institution of a designated payment system, or an executive officer of an operator or a settlement institution of a designated\n\n(a) has been convicted, whether in Brunei Darussalam or elsewhere, of an offence committed before, on or after the date of commencement of this Order, being an offence —\n\n(i) involving fraud or dishonesty; or\n\n(ii) the conviction for which involved a finding that he had acted fraudulently or dishonestly;\n\n(b) is an undischarged bankrupt, whether in Brunei Darussalam\n\n(c) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;\n\n(d) has, whether in Brunei Darussalam or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;\n\n(e) has been a director of, or directly concerned in the management of, a regulated financial institution, whether in Brunei Darussalam or elsewhere —\n\n(i) which is being or has been wound up by a court; or\n\n(ii) the approval, authorisation, designation, recognition, registration or licence of which has been withdrawn, cancelled or revoked by the Authority or, in the case of a regulated financial institution in a foreign country, by the regulatory authority in that foreign country;\n\n(f) has wilfully contravened or wilfully caused the operator or settlement institution to contravene any provision of this Act;\n\n(g) has, without reasonable excuse, failed to secure the compliance of the operator or settlement institution with this Act or the Brunei Darussalam Central Bank Order, 2010 (S 103/2010); or\n\n(h) has failed to discharge any of the duties of his office, the Authority may, if it thinks it is necessary in the interests of the public or a section of the public, by notice in writing to the operator or settlement institution, direct the operator or settlement institution to remove the director or executive officer, as the case may be, from his office or employment within such period as may be specified by the Authority in the notice.\n\n(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, when determining whether a director or an executive officer of an operator or a settlement institution of a designated payment system has failed to discharge the duties of his office as described under subsection (1)(h), have regard to such criteria as the Authority may determine.\n\n(3) Subject to subsection (4), the Authority shall not direct an operator or a settlement institution of a designated payment system to remove a person from his office or employment under subsection (1) without giving the operator or settlement institution an opportunity to be heard.\n\n(4) The Authority may direct an operator or a settlement institution of a designated payment system to remove a person from his office or employment under subsection (1) on any of the following grounds without giving the operator or settlement institution an opportunity to be heard —\n\n(a) the person is an undischarged bankrupt, whether in Brunei Darussalam or elsewhere;\n\n(b) the person has been convicted, whether in Brunei Darussalam or elsewhere, of an offence committed before, on or after the date of commencement of this Act —\n\n(i) involving fraud or dishonesty, or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and\n\n(ii) punishable with imprisonment for a term of 3 months or more.\n\n(5) Where the Authority directs an operator or a settlement institution of a designated payment system under subsection (4) to remove a person from his office or employment under subsection (1), the Authority need not give that person an opportunity to be heard.\n\n(6) An operator or a settlement institution of a designated payment system which is aggrieved by a direction of the Authority under subsection (1) may, within 30 days after the operator or settlement institution is notified of the direction, appeal in writing to the Minister, whose decision shall be final.\n\n(7) Notwithstanding the lodging of an appeal under subsection (6), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.\n\n(8) The Minister may, when deciding an appeal under subsection (6), make such modifications as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the decision of the Minister.\n\n(9) An operator or a settlement institution of a designated payment system which fails to comply with a notice issued under subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.\n\n(10) No criminal or civil liability shall be incurred by an operator or a settlement institution of a designated payment system, or any person acting on behalf of the operator or settlement institution, in respect of anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of the obligations of the operator or settlement institution under this section.\n\n(11) In this section, unless the context otherwise requires — “Brunei Darussalam operator” means an operator which is incorporated in Brunei Darussalam; “Brunei Darussalam settlement institution” means a settlement institution which is incorporated in Brunei Darussalam; “regulatory authority”, in relation to a foreign country, means an authority of the foreign country exercising any function that corresponds to a regulatory function of the Authority under this Act, the Brunei Darussalam Central Bank Order, 2010 (S 103/2010) or any other written laws; “regulated financial institution” means a person who carries on a business, the conduct of which is regulated or authorised by the Authority or, if it is carried on in Brunei Darussalam, would be regulated or authorised by the Authority."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Control of substantial shareholding in operator"
+   },
+   "text": {
+    "en": "(1) No person shall enter into any agreement to acquire shares in an operator of a designated payment system by virtue of which he would, if the agreement had been carried out, become a substantial shareholder of the operator without first obtaining the approval of the Authority to enter into the\n\n(2) No person shall become a —\n\n(a) 12 per cent controller; or\n\n(b) 20 per cent controller, of an operator of a designated payment system without first obtaining the approval of the Authority.\n\n(3) In subsection (2) — “12 per cent controller” means a person who, alone or together with his associates —\n\n(a) holds 12 per cent or more but less than 20 per cent of the number of shares in the operator of the designated payment\n\n(b) is in a position to control 12 per cent or more but less per cent of the votes in the operator of the designated “20 per cent controller” means a person who, alone or together with his associates —\n\n(a) holds 20 per cent or more of the number of shares in the operator of the designated payment system; or\n\n(b) is in a position to control 20 per cent or more of the votes in the operator of the designated payment system.\n\n(4) (a) A reference to the control of a percentage of the votes in an operator of a designated payment system is a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the operator of the designated payment system; and\n\n(b) a person, A, is an associate of another person, B, if —\n\n(i) A is the spouse, a parent, remoter lineal ancestor or step-parent, a son, daughter, remoter issue, step-son or step-daughter or a brother or sister of B;\n\n(ii) A is a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of B, or where B is a corporation, of the directors of B;\n\n(iii) B is a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of A, or where A is a corporation, of the directors of A;\n\n(iv) A is a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of B;\n\n(v) B is a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of A;\n\n(vi) A is a related corporation of B;\n\n(vii) A is a corporation in which B, alone or together with other associates of B as described in sub-paragraphs\n\n(ii) to (vi), is in a position to control not less than 20 per cent of the votes in A;\n\n(viii) B is a corporation in which A, alone or together with other associates of A as described in sub-paragraphs\n\n(ii) to (vi), is in a position to control not less than 20 per cent of the votes in B; or\n\n(ix) A is a person with whom B has an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their votes in relation to, the operator of the designated"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Approval of applications for substantial shareholding"
+   },
+   "text": {
+    "en": "(1) The Authority may grant its approval referred to in section 23(1) or (2) subject to such conditions as the Authority may think fit.\n\n(2) Without prejudice to subsection (1), the Authority may, for the purposes of securing compliance with section 23(1) or (2) or any condition imposed under subsection (1), by notice in writing, direct the transfer or disposal of all or any of the shares of an operator of a designated payment system in which the substantial shareholder has an interest.\n\n(3) Until a person to whom a direction is issued under subsection (2) transfers or disposes of the shares which are the subject of the direction, and notwithstanding anything to the contrary in the Companies Act (Chapter 39) or the memorandum or articles of association of the operator of the designated payment system —\n\n(a) no voting rights shall be exercisable in respect of the shares which are the subject of the direction;\n\n(b) the operator of the designated payment system shall not offer or issue any shares (whether by way of rights, bonus, share dividend or otherwise) in respect of the shares which are the subject of the\n\n(c) except in a liquidation of the operator of the designated payment system, the operator of the designated payment system shall not make any payment (whether by way of cash dividend, dividend in kind, or otherwise) in respect of the shares which are the subject of the\n\n(4) Any offer or issue of shares by an operator of a designated payment system in contravention of subsection (3)(b) is deemed to be void, and a person to whom a direction has been issued under subsection (2) shall immediately return those shares to the operator of the designated payment system, upon which the operator of the designated payment system shall return to the person any payment received from him in respect of those\n\n(5) Any payment made by an operator of a designated payment system in contravention of subsection (3)(c) is deemed to be void, and a person to whom a direction has been issued under subsection (2) shall immediately return the payment he has received to the operator of the designated payment system.\n\n(6) The Authority may exempt —\n\n(a) any person or class of persons; or\n\n(b) any class or description of shares or interests in shares, from section 23(1) or (2) subject to such conditions as the Authority may"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Contravention of section 23 or 24"
+   },
+   "text": {
+    "en": "(1) Any person who contravenes section 23(1) or (2), or any condition imposed by the Authority under section 24(1), is guilty of an offence and liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.\n\n(2) Any person who contravenes section 24(3)(b) or (c), (4) or (5) or any direction issued by the Authority under section 24(2), is guilty of an offence and liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Additional powers of Authority in respect of auditors"
+   },
+   "text": {
+    "en": "(1) If an auditor of an operator or a settlement institution of a designated payment system, in the course of the performance of his duties,\n\n(a) any matter which, in his opinion, adversely affects or may adversely affect the financial position of the operator or settlement institution, as the case may be, to a material extent;\n\n(b) any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or an offence involving fraud or dishonesty; or\n\n(c) any irregularity that has or may have a material effect upon the accounts of the operator or settlement institution, as the case may be, including any irregularity that affects or jeopardises, or may affect or jeopardise, the interests of the participants of the designated the auditor shall immediately send to the Authority a written report of the matter or the irregularity.\n\n(2) An auditor shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement made in his report under subsection (1).\n\n(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor may have, apart from this section, as a defendant in an action for defamation.\n\n(4) The Authority may impose all or any of the following duties on an auditor of an operator or a settlement institution of a designated payment\n\n(a) a duty to submit to the Authority such additional information and reports in relation to his audit as the Authority considers necessary;\n\n(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the operator or settlement institution of the designated payment system, as the case may be;\n\n(c) a duty to carry out any other examination or establish any procedure in any particular case;\n\n(d) a duty to submit to the Authority a report on any matter arising out of his audit or, examination or establishment, referred to in\n\n(b) or (c) respectively.\n\n(5) The operator or settlement institution of the designated payment system shall remunerate the auditor in respect of the discharge by him of such duties as the Authority may impose under subsection (4).\n\n(6) Any auditor of an operator or a settlement institution of a designated payment system who contravenes subsection (1) or fails to comply with any duty imposed under subsection (4) is guilty of an offence."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Inspection by Authority"
+   },
+   "text": {
+    "en": "(1) The Authority may inspect, under conditions of secrecy, the books of an operator or a settlement institution of a designated payment system.\n\n(2) For the purposes of an inspection under this section —\n\n(a) an operator or a settlement institution of a designated payment system or any person in possession of the books, shall produce such books to the Authority and give such information and facilities as may be required by the Authority; and\n\n(b) an operator or a settlement institution of a designated payment system shall procure that any person who is in possession of the books referred to in paragraph (a) produce such books to the Authority and give such information and facilities as may be required\n\n(3) Nothing in subsection (2) shall require the production of any of the books of an operator or a settlement institution of a designated payment system at such times or at such places as would unduly interfere with the conduct of the normal daily operations of the designated payment system.\n\n(4) The Authority may —\n\n(a) make copies of, or take possession of, any of the books;\n\n(b) use, or permit the use of, any of the books for the purposes of any proceedings under this Act; and\n\n(c) retain possession of any of the books for so long as is\n\n(i) for the purposes of exercising a power conferred by this section (other than subsection (7));\n\n(ii) for a decision to be made about whether or not any proceedings under this Act to which the books concerned would be relevant should be instituted; or\n\n(iii) for such proceedings to be instituted and carried on.\n\n(5) No person shall be entitled, as against the Authority, to claim a lien on any of the books, but such a lien is not otherwise prejudiced.\n\n(6) While the books are in the possession of the Authority, the\n\n(a) shall permit another person to inspect at all reasonable times such of the books (if any) as the other person would be entitled to inspect if they were not in the Authority’s possession; and\n\n(b) may permit another person to inspect any of the books.\n\n(7) The Authority may require a person who produced any of the books to the Authority to explain to the best of his knowledge and belief any matter about the compilation of the books or to which the books relate.\n\n(8) Any person who fails, without reasonable excuse, to comply with subsection (2) or with a requirement of the Authority under subsection (7) is guilty of an offence and liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Confidentiality of inspection reports"
+   },
+   "text": {
+    "en": "(1) Where a written report or any part thereof (referred to in this section as the report) has been produced in respect of any operator or settlement institution of a designated payment system by the Authority upon an inspection under section 27, the report shall not be disclosed by the operator or settlement institution, or any officer or auditor of the operator or settlement institution, to any other person except in the circumstances provided under subsection (2).\n\n(2) Disclosure of the report referred to in subsection (1) may be made —\n\n(a) by the operator or settlement institution of a designated payment system to any officer or auditor of that operator or settlement institution solely in connection with the performance of the duties of the officer or auditor, as the case may be, in relation to that operator or settlement institution;\n\n(b) by any officer or auditor of the operator or settlement institution of a designated payment system to any other officer or auditor of that operator or settlement institution, solely in connection with the performance of their duties in relation to that operator or settlement institution; or\n\n(c) to any other person as the Authority may approve in writing.\n\n(3) In granting written approval for any disclosure under\n\n(c), the Authority may impose such conditions as it considers appropriate.\n\n(4) The obligation on an officer or auditor referred to in subsection (1) shall continue after the termination or cessation of his employment or appointment with the operator or settlement institution of a designated\n\n(5) Any person who contravenes subsection (1) or fails to comply with any condition imposed by the Authority under subsection (3) is guilty of an offence and liable on conviction —\n\n(a) in the case of an individual, to a fine not exceeding $125,000, imprisonment for a term not exceeding 3 years or both; or\n\n(b) in any other case, to a fine not exceeding $250,000.\n\n(6) Any person to whom the report is disclosed and who knows or has reasonable grounds for believing, at the time of the disclosure, that the report was disclosed to him in contravention of subsection (1) is guilty of an offence, unless he proves that —\n\n(a) the disclosure was made contrary to his desire;\n\n(b) where the disclosure was made in any written form, he has as soon as practicable surrendered or taken all reasonable steps to surrender the report and all copies thereof to the Authority; and\n\n(c) where the disclosure was made in an electronic form, he has as soon as practicable taken all reasonable steps to ensure that all electronic copies of the report have been deleted and that the report and all copies thereof in other forms have been surrendered to the"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Emergency powers of Authority"
+   },
+   "text": {
+    "en": "(1) Where the Authority has reason to believe that an emergency exists, or thinks that it is necessary or expedient in the interests of the public or a section of the public to so act, the Authority may exercise one or more of the following powers —\n\n(a) by notice in writing, direct an operator or a settlement institution of a designated payment system to take such action as the Authority considers necessary to maintain or restore the safe and efficient operation of the designated payment system;\n\n(b) appoint a person to advise an operator or a settlement institution of a designated payment system on the proper conduct of its\n\n(c) assume control of and carry on the operations of an operator or a settlement institution, or both, of a designated payment system or direct some other person to do so on behalf of the Authority;\n\n(d) present a petition to the High Court for the winding-up or bankruptcy, as the case may be, of an operator or a settlement institution of a designated payment system;\n\n(e) require an operator of a designated payment system to cease operation of the designated payment system.\n\n(2) Without prejudice to the generality of subsection (1)(a), the actions which the Authority may direct an operator or a settlement institution of a designated payment system to take include modifying or suspending any of the rules of the designated payment system.\n\n(3) The Authority may modify or cancel any action taken by it under subsection (1), and in so modifying or cancelling any such action, the Authority may impose such conditions as it thinks fit, subject to which the modification or cancellation shall have effect.\n\n(4) Where the Authority has assumed control of the operations of an operator or a settlement institution of a designated payment system pursuant to subsection (1)(c), the Authority shall remain in control of, and continue to carry on, the operations in the name of the operator or settlement institution, as the case may be, and on its behalf until such time as the Authority is satisfied that the reasons for which it assumed control have ceased to exist or that it is no longer necessary that the Authority should remain in control.\n\n(5) Where the Authority has assumed control of the operations of an operator or a settlement institution of a designated payment system pursuant to subsection (1)(c) or ceased to control the operations of an operator or a settlement institution of a designated payment system pursuant to subsection (4), the Authority shall notify that fact in the Gazette.\n\n(6) Where the Authority has assumed control of the operations of an operator or a settlement institution of a designated payment system pursuant to subsection (1)(c), the operator or settlement institution shall submit its operations to the control of the Authority and shall provide the Authority with such facilities as the Authority may require to carry on its operations.\n\n(7) Any operator or settlement institution of a designated payment system which fails to comply with any direction issued under\n\n(a) or fails to comply with any requirement of the Authority under subsection (6), is guilty of an offence and liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.\n\n(8) The Authority may at any time (whether or not the appointment of the person has terminated) fix the remuneration and expenses to be paid by the operator or settlement institution of the designated payment system to any person appointed by the Authority under subsection (1)(b) to advise the operator or settlement institution in the proper conduct of its operations.\n\n(9) Where, under subsection (1)(c), the Authority has assumed control of the operations of an operator or a settlement institution of a designated payment system or directed some other person to do so, the Authority may, at any time, whether or not the Authority or that other person has ceased to be in control of the operations of the operator or settlement institution, fix the remuneration and expenses to be paid by the operator or settlement\n\n(a) the Authority; and\n\n(b) any person employed or authorised by it to assist the Authority in the control and the carrying on of the operations of the operator or settlement institution.\n\n(10) An operator or a settlement institution which is aggrieved by any action taken by the Authority under this section may, within 30 days after the person is notified of the action, appeal in writing to the Minister whose decision shall be final.\n\n(11) Notwithstanding the lodging of an appeal under subsection (10), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.\n\n(12) The Minister may, when deciding an appeal under subsection (10), make such modification as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the decision of the Minister.\n\n(13) In this section, “emergency” means —\n\n(a) any situation which prevents a designated payment system from carrying out its functions;\n\n(b) any situation in which, in the opinion of the Authority, a designated payment system is carrying on its operations in a manner likely to be detrimental to the interests of its\n\n(c) any undesirable situation or practice which, in the opinion of the Authority, constitutes an emergency."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Responsibilities of officers, member etc. of operator or settlement"
+   },
+   "text": {
+    "en": "(1) During the period when the Authority, or a person directed by the Authority under section 29(1)(c) (in this section referred to as the directed person), is in control of the operations of an operator or a settlement institution of a designated payment system —\n\n(a) the High Court may, on an application by the Authority or directed person, direct any person who is or was a chief executive officer, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the operator or settlement institution to pay, deliver, convey, surrender or transfer to the Authority or directed person, within such period as the High Court may specify, any property, book, accounts, record or other documents, whether in electronic, print or other form, of the operator or settlement institution which is comprised in, forms part of or relates to the operations of the operator or settlement institution, and which is in the person’s possession or control; and\n\n(b) any person who is or was a chief executive officer, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the operator or settlement institution shall give to the Authority or directed person, such information as the Authority or directed person may require for the discharge of the Authority’s or directed person’s duties or functions, or the exercise of the Authority’s or directed person’s powers, in relation to the operator or settlement institution, within such time and in such manner as may be specified by the Authority or directed person.\n\n(2) Any person who —\n\n(a) without excuse, to with\n\n(b); or\n\n(b) in purported compliance with subsection (1)(b), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular, is guilty of an offence and liable on conviction to a fine not exceeding $50,000, imprisonment for a term not exceeding 2 years or both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Interpretation of sections 31, 32 and 33"
+   },
+   "text": {
+    "en": "In this section and sections 32 and 33, unless the context otherwise “business” includes affairs, property, right, obligation and liability; “Court” means the High Court or a Judge thereof; “debenture” has the same meaning as in the Schedule of the Securities Markets Order, 2013 (S 59/2013); “property” includes property, right and power of every description; “Registrar of Companies” means the Registrar of Companies appointed under the Companies Act (Chapter 39) and includes any Deputy or Assistant Registrar of Companies appointed under that Act; “transferee” means a person who is carrying on, or who intends to carry on, in Brunei Darussalam the usual business of an operator or a settlement institution of a designated payment system, to which the whole or any part of a transferor’s business is, is to be or is proposed to be, transferred under section 32(1); “transferor” means an operator or a settlement institution of a designated payment system the whole or any part of the business of which is, is to be, or is proposed to be, transferred under section 32(1)."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Voluntary transfer of business"
+   },
+   "text": {
+    "en": "(1) A transferor may transfer the whole or any part of its business (including any business that is not the usual business of an operator or a settlement institution of a designated payment system) to a transferee, if —\n\n(a) the Authority has consented to the transfer;\n\n(b) the transfer involves the whole or any part of the business of the transferor that is the usual business of an operator or a settlement institution of a designated payment system; and\n\n(c) the Court has approved the transfer.\n\n(2) Subsection (1) is without prejudice to the right of an operator or a settlement institution of a designated payment system to transfer the whole or any part of its business under any written law.\n\n(3) The Authority may consent to a transfer under subsection (1)(a) if the Authority is satisfied that —\n\n(a) the transferee is a fit and proper person; and\n\n(b) the transferee will conduct the business of the transferor prudently and comply with the provisions of this Act.\n\n(4) The Authority may at any time appoint one or more persons to perform an independent assessment of, and furnish a report on, the proposed transfer of a transferor’s business or any part thereof under subsection (1).\n\n(5) The remuneration and expenses of any person appointed under subsection (4) shall be paid by the transferor and the transferee jointly and severally.\n\n(6) The Authority shall serve a copy of any report furnished under subsection (4) on the transferor and the transferee.\n\n(7) The Authority may require a person to furnish, within the period and in the manner specified by the Authority, any information or document that the Authority may reasonably require for the discharge of its duties or functions, or the exercise of its powers, under this section and section 33.\n\n(8) Any person who —\n\n(a) without reasonable excuse, fails to comply with any requirement under subsection (7); or\n\n(b) in purported compliance with any requirement under subsection (7), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular, is guilty of an offence and liable on conviction to a fine not exceeding $150,000, imprisonment for a term not exceeding 3 years or both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after\n\n(9) Where a person claims, before furnishing the Authority with any information or document that he is required to furnish under subsection (7), that the information or document might tend to incriminate him, the information or document shall not be admissible in evidence against him in criminal proceedings other than proceedings under subsection (8). Approval of transfer"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) A transferor shall apply to the Court for its approval of the transfer of the whole or any part of the business of the transferor to the transferee under section 32(1).\n\n(2) Before making an application under subsection (1) —\n\n(a) the transferor shall lodge with the Authority a report setting out such details of the transfer and furnish such supporting documents as the Authority may specify;\n\n(b) the transferor shall obtain the consent of the Authority under section 32(1)(a);\n\n(c) the transferor and the transferee shall, if they intend to serve on their respective customers a summary of the transfer, obtain the Authority’s approval of the summary;\n\n(d) the transferor shall, at least 15 days before the application is made but not earlier than one month after the report referred to in\n\n(a) is lodged with the Authority, publish in the Gazette and in such newspaper or newspapers as the Authority may determine a notice of the transferor’s intention to make the application and containing such other particulars as may be prescribed;\n\n(e) the transferor and the transferee shall keep at their respective offices in Brunei Darussalam for inspection by any person who may be affected by the transfer, a copy of the report referred to in paragraph (a) for a period of 15 days after the publication of the notice referred to in\n\n(d) in the Gazette; and\n\n(f) unless the Court directs otherwise, the transferor and the transferee shall serve on their respective customers affected by the transfer, at least 15 days before the application is made, a copy of the report referred to in paragraph (a) or a summary of the transfer approved by the Authority under paragraph (c).\n\n(3) The Authority and any person who, in the opinion of the Court, is likely to be affected by the transfer —\n\n(a) have the right to appear before and be heard by the Court in any proceedings relating to the transfer; and\n\n(b) may make any application to the Court in relation to the\n\n(4) The Court shall not approve the transfer if the Authority has not consented under section 32(1)(a) to the transfer.\n\n(5) The Court may, after taking into consideration the views, if any, of the Authority on the transfer —\n\n(a) approve the transfer without modification or subject to any modification agreed to by the transferor and the transferee; or\n\n(b) refuse to approve the transfer.\n\n(6) If the transferee is not identified under section 7(2) as the operator or settlement institution of the designated payment system, the Court may approve the transfer on terms that the transfer shall take effect only in the event of the transferee being so identified.\n\n(7) The Court may by the order approving the transfer or by any subsequent order provide for all or any of the following matters —\n\n(a) the transfer to the transferee of the whole or any part of the business of the transferor;\n\n(b) the allotment or appropriation by the transferee of any share, debenture, policy or other interest in the transferee which under the transfer is to be allotted or appropriated by the transferee to or for any\n\n(c) the continuation by or against the transferee of any legal proceedings pending by or against the transferor;\n\n(d) the dissolution, without winding-up, of the transferor;\n\n(e) the provisions to be made for persons who are affected by the\n\n(f) such incidental, consequential and supplementary matters as are, in the opinion of the Court, necessary to secure that the transfer is fully effective.\n\n(8) Any order under subsection (7) may —\n\n(a) provide for the transfer of any business, whether or not the transferor otherwise has the capacity to effect the transfer in question;\n\n(b) make provision in relation to any property which is held by the transferor as trustee; and\n\n(c) make provision as to any future or contingent right or liability of the transferor, including provision as to the construction of any instrument under which any such right or liability may arise.\n\n(9) Subject to subsection (10), where an order made under subsection (7) provides for the transfer to the transferee of the whole or any part of the transferor’s business, then by virtue of the order, the business or part thereof of the transferor specified in the order shall be transferred to and vest in the transferee, free in the case of any particular property (if the order so directs) from any charge which by virtue of the transfer is to cease to have\n\n(10) No order under subsection (7) shall have any effect or operation in transferring or otherwise vesting land in Brunei Darussalam until the appropriate entries are made with respect to the transfer or vesting of that land by the appropriate authority.\n\n(11) If any business specified in an order under subsection (7) is governed by the law of any foreign country, the Court may order the transferor to take all necessary steps for securing that the transfer of the business to the transferee is fully effective under the law of that country.\n\n(12) Where an order is made under this section, the transferor and the transferee shall each lodge within 7 days after the order is made —\n\n(a) a copy of the order with the Registrar of Companies and with the Authority; and\n\n(b) where the order relates to land in Brunei Darussalam, an office copy of the order with the appropriate authority concerned with the registration or recording of dealings in that land.\n\n(13) A transferor or transferee which contravenes subsection (12), and every officer of the transferor or transferee (as the case may be) who fails to take all reasonable steps to secure compliance by the transferor or transferee (as the case may be) with that subsection, are each guilty of an offence and are each liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.\n\nPAYMENT INSTRUMENTS"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Prohibition of issuance of payment instruments"
+   },
+   "text": {
+    "en": "(1) The Authority may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, by order published in the Gazette, prohibit any person from issuing or using any payment instrument if —\n\n(a) the issuing or use of the payment instrument is detrimental to the reliable, safe, efficient and smooth operation of the payment systems of Brunei Darussalam; or\n\n(b) the prohibition is in the interest of the public.\n\n(2) The Authority may, in considering whether to prohibit any person from issuing or using any payment instrument under subsection (1), inspect the premises, equipment, machinery, apparatus, books or other documents, or accounts and transactions of the issuer of the payment instrument, upon giving notice in writing to the issuer.\n\n(3) The Authority shall give the person referred to in subsection (1) a reasonable opportunity to make representation before making a decision to impose the prohibition under that subsection."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Designation of payment instruments"
+   },
+   "text": {
+    "en": "(1) Where the Authority is of the opinion that —\n\n(a) a payment instrument may be of widespread use as a means of making payment and may affect the payment systems of Brunei Darussalam; and\n\n(b) it is necessary to protect the interest of the public or it is necessary to maintain the integrity, efficiency and reliability of a payment instrument, the Authority may prescribe such payment instrument as a designated payment instrument.\n\n(2) Where a payment instrument is prescribed as a designated payment instrument, the issuer of that designated payment instrument shall comply with the requirements of section 36(1) within such period as the Authority may specify."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Issuing of designated payment instruments"
+   },
+   "text": {
+    "en": "(1) No person shall issue a designated payment instrument unless he has —\n\n(a) submitted to the Authority the documents and information as the Authority may prescribe;\n\n(b) paid the prescribed fee; and\n\n(c) obtained a written approval from the Authority to issue a designated payment instrument.\n\n(2) The Authority may in giving its approval —\n\n(a) require all or any of the documents submitted to be modified and altered as it may deem necessary; and\n\n(b) impose such conditions as it may deem fit."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Revocation of approval"
+   },
+   "text": {
+    "en": "(1) The Authority may revoke an approval granted under section 36(1)(c) if it appears to the Authority that —\n\n(a) the issuer has contravened or is contravening any of the provisions of this Act;\n\n(b) the issuer has contravened any conditions of the approval;\n\n(c) the issuer has failed to comply with any code, guideline, policy statement or practice note issued by the Authority under section 61;\n\n(d) the issuer has made a false or an incorrect statement in the documents or information submitted under section 36(1)(a) or particulars of any change to the documents and information submitted under section 40(1);\n\n(e) the issuer has ceased issuing the designated payment instruments for any continuous period of 6 months; or\n\n(f) the issuer goes into liquidation or is wound up or is otherwise dissolved.\n\n(2) The Authority shall give the issuer a reasonable opportunity to make representations before making a decision to revoke the approval."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Governance arrangements"
+   },
+   "text": {
+    "en": "The issuer of a designated payment instrument shall establish adequate governance arrangements which are effective, accountable and transparent to ensure the continued integrity of such designated payment instrument."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Operational arrangements"
+   },
+   "text": {
+    "en": "An issuer of a designated payment instrument shall establish the following operational arrangements —\n\n(a) rules and procedures setting out the rights and liabilities of the issuer and the user of the designated payment instrument and the risks the user may incur;\n\n(b) measures to ensure prudent management of funds collected from a user of the designated payment instrument, including measures to ensure that such funds are available for repayment to a user; and\n\n(c) measures to ensure safety, security and operational reliability of the designated payment instrument including contingency"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Changes to designated payment instruments"
+   },
+   "text": {
+    "en": "(1) Where the Authority has prescribed the documents and information under subsection (2), an issuer of a designated payment instrument shall submit to the Authority particulars of any proposed change to the documents or information within 30 days prior to the making of such\n\n(2) The Authority, in prescribing the documents and information to be submitted under section 36(1), may also prescribe the documents and information to which subsection (1) applies.\n\n(3) Where it appears to the Authority that such change is inappropriate, the Authority may, before the expiry of the 30 days referred to\n\n(a) prohibit the issuer from making such change; or\n\n(b) require the issuer to make any other changes as the Authority may specify."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Requirement to incorporate"
+   },
+   "text": {
+    "en": "(1) The Authority may at any time require an issuer which is not a body corporate established by or under any written law to incorporate as a company under the Companies Act (Chapter 39) within such time as the Authority may specify and the issuer shall not continue to issue the payment instrument after the specified time unless he has complied with the Authority’s requirement.\n\n(2) The Authority may, upon the request of an issuer, allow for an extension of time, with or without conditions, for the compliance with the Authority’s requirements referred in subsection (1)."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Requirement to submit information"
+   },
+   "text": {
+    "en": "(1) An issuer shall, within such time as the Authority may specify, submit to the Authority all such documents and information regarding the payment instrument as the Authority may require.\n\n(2) The documents and information referred to in subsection (1) shall include documents and information relating to any user of the payment instrument and the business, affairs, statistics and information on transactions relating to the payment instrument as the Authority may specify under subsection (1).\n\n(3) The provisions of subsection (1) shall be without prejudice to, and shall not in any manner derogate from, any other power conferred on the Authority or an investigating officer under this Act.\n\n(4) The provisions of this section shall have effect notwithstanding any written law as to secrecy or other restriction on the disclosure of information or of any oath, undertaking or requirement of secrecy, to the contrary, or of any obligation under any contract, agreement or arrangement, whether express or implied, to the contrary."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Power to make modifications"
+   },
+   "text": {
+    "en": "(1) The Authority may, by notice in writing, require an issuer of a designated payment instrument to make modifications to —\n\n(a) the designated payment instrument including governance arrangements referred to in section 38;\n\n(b) operational arrangements referred to in section 39;\n\n(c) documents and information submitted under section 36(1); and\n\n(d) any other documents relating to the designated payment\n\n(2) In exercising its powers under subsection (1), the Authority shall\n\n(a) systemic risk;\n\n(b) the object of the Authority to promote monetary stability and a sound financial structure;\n\n(c) the interest of the public including market conditions and behaviour;\n\n(d) the safety, integrity, efficiency or reliability of the designated payment instrument including security and operating standards and infrastructure arrangements;\n\n(e) the interests of the current users of the designated payment instrument; or\n\n(f) the interests of persons who, in the future, may want to use the designated payment instrument.\n\n(3) An issuer of a designated payment instrument shall make such modifications as may be required under subsection (1) within such time as the Authority may specify.\n\n(4) The Authority shall give the issuer of a designated payment instrument a reasonable opportunity to make representations before making a decision to impose the requirement under subsection (1)."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Power to issue written directions"
+   },
+   "text": {
+    "en": "(1) Where the Authority is of the opinion that an issuer of a designated payment instrument —\n\n(a) is engaging or is about to engage in any act or course of conduct, or has omitted any act or is about to omit any act, that results or is likely to result in systemic risk being inadequately controlled or that is detrimental to the interests of its users or creditors or the public generally;\n\n(b) has contravened any provision of this Act, or any code, guideline, policy statement or practice note issued under section 61; or\n\n(c) has become or is likely to become unable to meet all or any of his obligations, the Authority may issue a written direction requiring the issuer of the designated payment instrument to —\n\n(i) take any steps or action, do or not do any act or thing, in relation to the designated payment instrument which in the opinion of the Authority is necessary to remedy the situation; or\n\n(ii) cease to issue the designated payment instrument.\n\n(2) In giving any written direction under subsection (1), the Authority may include requirements of a consequential, ancillary or incidental nature to be complied with by the issuer of a designated payment instrument and the Authority may impose such terms and conditions as it deems necessary or expedient.\n\n(3) An issuer of a designated payment instrument shall comply with any written direction issued under subsection (1) within such time as the Authority may specify.\n\n(4) If the Authority exercises its power under subsection (1)(ii), the approval to issue a designated payment instrument is deemed to have been revoked under section 37.\n\n(5) The Authority shall give the issuer referred to in subsection (1) an opportunity to make representations before making a decision to issue a written direction under that subsection."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Examination by Authority"
+   },
+   "text": {
+    "en": "The Authority may, where it is of the opinion that it is necessary for the purposes of carrying out its functions under this Act, examine, with or without any prior written notice, the premises, apparatus, equipment, machinery, books or other documents, accounts or transactions of an issuer and any of his offices in or outside Brunei Darussalam. Production of person’s books etc."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "text": {
+    "en": "(1) For the purposes of an examination under section 45, any person under examination and that person’s directors and officers shall —\n\n(a) afford any officer of the Authority carrying out the examination access to all his premises, apparatus, equipment, machinery, books or other documents and accounts, including documents of title to his assets, all securities held by him in respect of his customers’ transactions, all his cash, and to all such documents, information and facilities as may be required by that officer for the purpose of the examination;\n\n(b) produce to that officer all such apparatus, equipment, machinery, books or other documents, accounts, titles, securities or cash; and\n\n(c) give all such information, orally or in writing, as he may require, except that so far as is consistent with the conduct of the examination, such apparatus, equipment, machinery, books or documents, accounts, titles, securities and cash shall not be required to be produced at such times or at such places as may interfere with the proper conduct of the normal daily business of that person.\n\n(2) Notwithstanding the generality of subsection (1), any officer of the Authority authorised by the Authority in writing for this purpose may take possession of any apparatus, equipment, machinery, books or other documents, accounts, titles, securities or cash to which he has access under subsection (1) if in his opinion —\n\n(a) the inspection of them, the copying of them or the making of extracts from them, cannot reasonably be undertaken without taking possession of them;\n\n(b) it may be interfered with or destroyed unless he takes possession of them; or\n\n(c) it may be needed as evidence in any legal proceedings, whether civil or criminal, which may be instituted under or in connection with this Act, the Brunei Darussalam Central Bank Order, 2010 (S 103/2010) or any other written law.\n\n(3) A person who is or was at any time —\n\n(a) a director or officer of an issuer;\n\n(b) an agent of or who performs any of the functions of an issuer;\n\n(c) a user of a payment instrument; or\n\n(d) an auditor of an issuer, shall give such document or information as the Authority may require within such time as the Authority may specify in carrying out an examination under section 45.\n\n(4) An auditor referred to in subsection (3)(d) shall not be liable for breach of, contract relating to, or duty of, confidentiality for giving any information or document to the officer carrying out the examination. Appeal against decision of Authority"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "text": {
+    "en": "(1) If any person disagrees with any decision by the Authority in relation to section 34(1), 37(1), 43(1) or 44(1), such person may within 30 days, or within such extended period of time as the Authority may allow, appeal in writing against the decision of the Authority to the Minister whose decision shall be final.\n\n(2) Every appeal under subsection (1) shall be submitted to the Authority and the Authority shall forward the written appeal to the Minister together with the Authority’s recommendation.\n\n(3) If within the period specified in subsection (1) the person appeals to the Minister, the decision of the Authority shall not take effect unless the Minister confirms the decision or, for any reason, dismisses the appeal, or the appeal is withdrawn.\n\nASSISTANCE TO FOREIGN REGULATORY AUTHORITIES"
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Interpretation of this Part"
+   },
+   "text": {
+    "en": "In this Part, unless the context otherwise requires — “enforce” means enforce through criminal or administrative proceedings; “enforcement” means the taking of any action to enforce a law or regulatory requirement against a specified person, being a law or regulatory requirement that relates to the payment systems or payment instrument of the foreign country of the regulatory authority concerned; “investigation” means an investigation to determine if a specified person has contravened or is contravening a law or regulatory requirement, being a law or regulatory requirement that relates to the payment systems or payment instrument of the foreign country of the regulatory authority concerned; “material” includes any information, book, document or other record in any form whatsoever, and any container or article relating thereto; “regulatory authority”, in relation to a foreign country, means an authority of the foreign country exercising any function that corresponds to a regulatory function of the Authority under this Act; “supervision”, in relation to a regulatory authority, means the taking of any action for or in connection with the supervision of an operator, a settlement institution or a participant of a designated payment system, or any other person, regulated by the regulatory authority."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Conditions for provision of assistance"
+   },
+   "text": {
+    "en": "(1) The Authority may provide the assistance referred to in section 51 to a regulatory authority of a foreign country if the Authority is satisfied that all of the following conditions are fulfilled —\n\n(a) the assistance is intended to enable the regulatory authority, or any other authority of the foreign country, to carry out the supervision, investigation or enforcement;\n\n(b) the regulatory authority has given a written undertaking that any material or copy thereof obtained pursuant to its request shall not be used for any purpose other than a purpose that is specified in the request and approved by the Authority;\n\n(c) the regulatory authority has given a written undertaking not to disclose to a third party (other than a designated third party of the foreign country in accordance with paragraph (d)) any material received pursuant to the request unless the regulatory authority is compelled to do so by the law or a court of the foreign country;\n\n(d) the regulatory authority has given a written undertaking to obtain the prior consent of the Authority before disclosing any material received pursuant to the request to a designated third party, and to make such disclosure only in accordance with such conditions as may be imposed by the Authority;\n\n(e) the material requested is of sufficient importance to the carrying out of the supervision, investigation or enforcement to which the request relates and cannot reasonably be obtained by any other\n\n(f) the matter to which the request relates is of sufficient gravity; and\n\n(g) the rendering of assistance will not be contrary to the public\n\n(2) For the purposes of subsection (1)(c) and (d), “designated third party”, in relation to a foreign country, means —\n\n(a) any person or body responsible for supervising the regulatory authority in question;\n\n(b) any authority of the foreign country responsible for carrying out the supervision, investigation or enforcement in question; or\n\n(c) any authority of the foreign country exercising a function that corresponds to a regulatory function of the Authority under this Act."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Other factors to consider for provision of assistance"
+   },
+   "text": {
+    "en": "In deciding whether to grant a request for assistance referred to in section 51 from a regulatory authority of a foreign country, the Authority may also have regard to the following —\n\n(a) whether the order or omission that is alleged to constitute the contravention of the law or regulatory requirement to which the request relates would, if it had occurred in Brunei Darussalam, have constituted an offence against this Act;\n\n(b) whether the regulatory authority has given or is willing to give an undertaking to the Authority to comply with a future request by the Authority to the regulatory authority for similar assistance; and\n\n(c) whether the regulatory authority has given or is willing to give an undertaking to the Authority to contribute towards the costs of providing the assistance that the regulatory authority has requested."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Assistance that may be rendered"
+   },
+   "text": {
+    "en": "(1) Notwithstanding the provisions of any written law or any requirement imposed thereunder or any rule of law, the Authority or any person authorised by the Authority may, in relation to a request by a regulatory authority of a foreign country for assistance —\n\n(a) transmit to the regulatory authority any material in the possession of the Authority that is requested by the regulatory authority or a copy thereof;\n\n(b) order any person to furnish to the Authority any material that is requested by the regulatory authority or a copy thereof, and transmit the material or copy to the regulatory authority;\n\n(c) order any person to transmit directly to the regulatory authority any material that is requested by the regulatory authority or a copy thereof;\n\n(d) order any person to make an oral statement to the Authority on any information requested by the regulatory authority, record such statement, and transmit the recorded statement to the regulatory\n\n(e) request the Government or any statutory corporation to furnish to the Authority any material that is requested by the regulatory authority or a copy thereof, and transmit the material or copy to the regulatory authority.\n\n(2) The assistance referred to in subsection (1)(c) may only be rendered if the material sought is to enable the regulatory authority to carry out investigation or enforcement.\n\n(3) An order under subsection (1)(b), (c) or (d) has effect notwithstanding any obligations as to secrecy or other restrictions upon the disclosure of information imposed by any written law or requirement imposed thereunder, rule of law, contract or rule of professional conduct.\n\n(4) Nothing in this section shall compel an advocate and solicitor —\n\n(a) to furnish or transmit any material or copy thereof that contains; or\n\n(b) to disclose, a privileged communication made by or to him in that capacity.\n\n(5) An advocate and solicitor who refuses to furnish or transmit any material or copy thereof that contains, or to disclose, any privileged communication is nevertheless obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, the privileged communication was made.\n\n(6) A person is not excused from making an oral statement pursuant to an order made under subsection (1)(d) on the ground that the statement might tend to incriminate him. Offences under this Part\n\n(a) without reasonable excuse refuses or fails to comply with an order under section 51(1)(b), (c) or (d);\n\n(b) in purported compliance with an order made under section 51(1)(b) or (c), furnishes to the Authority or transmits to a regulatory authority any material or copy thereof known to the person to be false or misleading in a material particular; or\n\n(c) in purported compliance with an order made under section 51(1)(d), makes a statement to the Authority that is false or misleading in a material particular, is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 2 years or both."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) No civil or criminal proceedings, other than proceedings for an offence against section 52, shall lie against any person for —\n\n(a) furnishing to the Authority or transmitting any material or copy thereof to the Authority or a regulatory authority of a foreign country if he had furnished or transmitted that material or copy in good faith in compliance with an order made under section 51(1)(b) or (c);\n\n(b) making a statement to the Authority in good faith and in compliance with an order made under section 51(1)(d); or\n\n(c) doing or omitting to do any act, if he had done or omitted to do the act in good faith and as a result of complying with such an order.\n\n(2) Any person who complies with an order referred to in\n\n(a) or (b) shall not be treated as being in breach of any restriction upon the disclosure of information or thing imposed by any written law or any requirement imposed thereunder, rule of law, contract or rule of professional conduct."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Offences by officers"
+   },
+   "text": {
+    "en": "(1) Any person, being an officer of —\n\n(a) a participant, an operator or a settlement institution of a payment system; or\n\n(b) an issuer of a payment instrument, who fails to take all reasonable steps to secure —\n\n(i) compliance by the participant, operator, settlement institution or issuer, as the case may be, with any provision of this Act; or\n\n(ii) the accuracy and correctness of any information provided by the participant, operator, settlement institution or issuer, as the case may be, to the Authority is guilty of an offence and liable on conviction to a fine not exceeding $100,000, imprisonment for a term not exceeding 2 years or both.\n\n(2) In any proceedings against an officer under subsection (1), it shall be a defence for the defendant to prove that he had reasonable grounds for believing that another person was charged with the duty of securing compliance with the requirements of this Act, or with the duty of ensuring that the information was accurate, as the case may be, and that that person was competent, and in a position, to discharge that duty.\n\n(3) An officer shall not be sentenced to imprisonment for any offence under subsection (1) unless, in the opinion of the court trying the offence, he committed the offence wilfully."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Duty not to provide false or misleading information"
+   },
+   "text": {
+    "en": "(1) Any person who provides the Authority with any information under this Act which is false or misleading in any material particular is guilty of an offence unless he has exercised due care to ensure that the information is not false or misleading in any material particular.\n\n(2) Subsection (1) applies only to a requirement in relation to which no other provision of this Act creates an offence in connection with the provision of information.\n\n(3) Any person who signs any document provided to the Authority which is false or misleading in any material particular is guilty of an offence unless he has exercised due care to ensure that the document is not false or misleading in any material particular.\n\n(4) Any person who is guilty of an offence under subsection (1) or (3) is liable on conviction to a fine not exceeding $50,000, imprisonment for a term not exceeding 2 years or both."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Opportunity to be heard"
+   },
+   "text": {
+    "en": "Where this Act provides for a person to be given an opportunity to be heard by the Authority, the Authority may determine the manner in which the person shall be given an opportunity to be heard."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Publication of certain information"
+   },
+   "text": {
+    "en": "The Authority may prepare and publish —\n\n(a) consolidated statements aggregating any provided under this Act; or\n\n(b) for statistical purposes, statements that relate to or are derived from any information provided under this Act in respect of a payment system or a payment instrument, being the only payment system or payment instrument in its class."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Composition of offences"
+   },
+   "text": {
+    "en": "(1) The Authority may, in its discretion, compound any offence against this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the amount of the maximum fine prescribed for that offence.\n\n(2) On payment of the sum of money referred to in subsection (1), no further proceedings shall be taken against that person in respect of the\n\n(3) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan make regulations to prescribe the offences which may be compounded.\n\n(4) All sums collected by the Authority under subsection (1) shall be paid to the Authority."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "Any person guilty of an offence against this Act for which no penalty is expressly provided is liable on conviction to a fine not exceeding $50,000."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, by order, either permanently or for such period as he may think fit, exempt any person or class of persons, any payment system or class of payment systems, any payment instrument or class of payment instruments, from all or any of the provisions of this Act subject to such conditions as he may determine.\n\n(2) The Minister may, on the application of any person, by notice in writing exempt the person from all or any of the provisions of this Act or the requirements specified in any written direction made by the Minister under this Act if he considers it appropriate to do so in the circumstances of the case.\n\n(3) An exemption granted under subsection (2) —\n\n(a) may be granted subject to such conditions as the Minister may specify by notice in writing;\n\n(b) need not be published in the Gazette; and\n\n(c) may be withdrawn at any time by the Minister.\n\n(4) Any person who contravenes any condition imposed under subsection (1) or (3)(a) is guilty of an offence. Codes, guidelines etc."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "_____________________________"
+   },
+   "text": {
+    "en": "(1) The Authority may issue, in such form and manner as it considers appropriate, codes, guidelines, policy statements and practice notes as it considers appropriate for providing guidance —\n\n(a) in furtherance of its regulatory objectives;\n\n(b) in relation to any matter relating to any of the functions of the Authority under any of the provisions of this Act; or\n\n(c) in relation to the operation of any of the provisions of this Act.\n\n(2) The Authority may publish any such code, guideline, policy statement or practice note in such form and manner as it thinks fit.\n\n(3) The Authority may amend the whole or any part of any code, guideline, policy statement or practice note issued under this section in such form and manner as it thinks fit.\n\n(4) Where amendments are made under subsection (3) —\n\n(a) the other provisions of this section apply, with the necessary modifications, to such amendments as they apply to the code, guideline, policy statement and practice note; and\n\n(b) any reference in this Act or any other written law to the code, guideline, policy statement or practice note however expressed is, unless the context otherwise requires, a reference to the code, guideline, policy statement or practice note as so amended.\n\n(5) Any person who fails to comply with any of the provisions of a code, guideline, policy statement or practice note issued under this section that applies to him shall not of itself render that person liable to criminal proceedings but any such failure may, in any proceedings whether civil or criminal, be relied upon by any party to the proceedings as tending to establish or to negate any liability which is in question in the proceedings.\n\n(6) Any code, guideline, policy statement or practice note issued under this section —\n\n(a) may be of general or specific application; and\n\n(b) may specify that different provisions thereof apply to different circumstances or provide for different cases or classes of cases."
+   }
+  },
+  {
+   "id": "BN-CAP-251-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-OVERSIGHT-ACT-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations as he considers necessary or expedient for giving effect to or carrying out the provisions of this Act, and for the due administration thereof.\n\n(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to designated payment systems, including but not limited to the following —\n\n(a) the imposition, variation or revocation of an access regime;\n\n(b) the standards to be maintained by a participant, an operator or a settlement institution;\n\n(c) the responsibilities and duties of the chief executive officer and directors of an operator;\n\n(d) the preparation and publication of reports on the performance of a designated payment system;\n\n(e) the acquisition or holding of shares or any other interest in an\n\n(f) the acquisition or holding of shares or any other interest by an operator in any other person;\n\n(g) requirements for the audit of accounts in relation to different designated payment systems;\n\n(h) the responsibilities of an operator or a settlement institution relating to the audit of its accounts;\n\n(i) the responsibilities of the auditor for the accounts of an operator or a settlement institution;\n\n(j) the procedures applicable in the event of a default in payment obligations, including the suspension and re-admission of participants;\n\n(k) the fees to be paid in respect of any matter or thing required for the purposes of this Act, including the refund and remission whether in whole or in part of such fees; and\n\n(l) all matters and things which by this Act are required or permitted to be prescribed or which are necessary or expedient to be prescribed to give effect to this Act.\n\n(3) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to payment instruments, including but not limited to the following matters —\n\n(a) all matters necessary and expedient to ensure that an issuer is fully liable to the users of the payment instruments;\n\n(b) the standards to be maintained by an issuer in respect of the payment instruments; and\n\n(c) all matters and things which by this Act are required or permitted to be prescribed or which are necessary or expedient to be prescribed to give effect to this Act.\n\n(4) Except as otherwise expressly provided in this Act, the\n\n(a) may be of general or specific application;\n\n(b) may provide that any contravention of any specified provision thereof is an offence; and\n\n(c) may provide for penalties not exceeding a fine of $150,000, imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10 per cent of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "PAYMENT AND SETTLEMENT SYSTEMS OVERSIGHT ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2776",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（文件的提交、递交与呈交）条例 2020",
   "en": "Insolvency, Restructuring and Dissolution (Filing, Lodgment and Submission of Documents) Regulations 2020",
   "orig": null
  },
@@ -502,5 +502,13 @@
     "en": "27. For the purpose of section 258(2) of the Act, the prescribed circumstances are where —\n(a)the conflict is between the particulars of the company or person in a register, and —\n(i)the Singapore Standard Industrial Classification obtained from the Department of Statistics, Ministry of Energy, Trade and Industry;\n[S 659/2026 wef 01/10/2026]\n(ii)the particulars (including residential address) of the person registered under the National Registration Act 1965 obtained from the Ministry of Home Affairs;\n[S 956/2024 wef 31/12/2021]\n(iii)the foreign identification number of a foreigner obtained from the Ministry of Manpower; or\n(iv)the building name, postal code or street name of a property obtained from Singapore Post Limited; and\n(b)the Registrar of Companies is satisfied that the effort involved in giving the written notice mentioned in section 258(2) of the Act would be excessive, having regard to the likelihood that the company or person whose particulars are to be rectified or updated would object to the rectification or update."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insolvency, Restructuring and Dissolution (Filing, Lodgment and Submission of Documents) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

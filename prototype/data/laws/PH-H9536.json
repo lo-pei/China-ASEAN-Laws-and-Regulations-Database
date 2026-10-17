@@ -1,7 +1,7 @@
 {
  "id": "PH-H9536",
  "title": {
-  "zh": null,
+  "zh": "将苏丹库达拉特省 Tacurong 市 San Pablo 描笼涯的 San Emmanuel 国立中学附属校分离，改设为独立的 San Pablo 国立中学，并为此拨款",
   "en": "An Act Separating the San Emmanuel National High School - Annex in Barangay San Pablo, Tacurong City, Province of Sultan Kudarat From the San Emmanuel National High School, Converting It Into an Independent National High School to be Known as San Pablo National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the San Emmanuel National High School - Annex in Barangay San Pablo, Tacurong City, Province of Sultan Kudarat From the San Emmanuel National High School, Converting It Into an Independent National High School to be Known as San Pablo National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in th e Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the San Emmanuel National High School - Annex in Barangay San Pablo, Tacurong City, Province of Sultan Kudarat From the San Emmanuel National High School, Converting It Into an Independent National High School to be Known as San Pablo National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H461",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（博彩设备）条例 2009",
   "en": "Casino Control (Gaming Equipment) Regulations 2009",
   "orig": null
  },
@@ -844,5 +844,13 @@
     "en": "FOURTH SCHEDULE\nRegulations 5(2), 7(2)(g)(i), 8(2), 8A(2), 24B(2), 24D(2)(h)(i), 24H(2) and 24I(2)\nMatters that Authority may have regard to or\nin relation to which Authority must\nconsider information\n1. Whether any person mentioned in regulation 3(4)(a), 8(1), 8A(1), 24A(2)(a), 24H(1) or 24I(1) (as the case may be) —\n(a)is of good repute, having regard to character, honesty and integrity;\n(b)is of sound and stable financial background;\n(c)has any business association with any person, body or association who or which, in the opinion of the Authority, is not of good repute having regard to character, honesty and integrity or has undesirable or unsatisfactory financial resources;\n(d)has any undesirable or unsatisfactory financial resources; or\n(e)has a consistent track record of compliance with the legal and regulatory requirements applicable to it, whether in relation to its business as a manufacturer or supplier of gaming machines, gaming programs or otherwise or provider of testing services or otherwise (as the case may be) and whether in Singapore or elsewhere.\n2. Whether an approved manufacturer or an applicant to be an approved manufacturer (as the case may be) has overall control of the design and production of the gaming machines or gaming programs that the approved manufacturer or applicant is or will be manufacturing for use in any casino.\n3. Whether an approved manufacturer or an applicant to be an approved manufacturer (as the case may be) has sufficient technical capability and resources, to design, manufacture, install, test, inspect, operate, maintain or repair gaming machines or gaming programs in accordance with the technical standards.\n4. Whether an approved test service provider or an applicant to be an approved test service provider (as the case may be) has sufficient technical capability and resources, to test any gaming equipment for compliance with the technical standards and other requirements issued by the Authority under these Regulations in relation to gaming equipment.\n5. Whether each director, partner, executive officer and any other officer or person determined by the Authority to be associated or connected with the administration or management of the operations or business of an approved manufacturer, an approved test service provider or an applicant to be an approved manufacturer or approved test service provider (as the case may be) is a suitable person to act in that capacity.\n[S 641/2026 wef 21/09/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Gaming Equipment) Regulations 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

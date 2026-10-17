@@ -1,7 +1,7 @@
 {
  "id": "SG-H2232",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）公告 2015",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from tax the interest payable on or after 24 April 2014 by MTM Antwerp Pte Ltd. to Nissin Unyu Co., Ltd. under a Bareboat Chartering Agreement dated 2 April 2014 for the leasing of the vessel “MTM Antwerp” (referred to in this Notification as the vessel).\n(2) The exemption under sub‑paragraph (1) —\n(a)is subject to the terms and conditions specified in the letter of approval dated 23 September 2014 issued by the Ministry of Finance and addressed to MTM Antwerp Pte Ltd.; and\n(b)shall not apply to any interest payable after the earliest of the following:\n(i)22 April 2019;\n(ii)the date of termination of the Bareboat Chartering Agreement;\n(iii)the date of transfer or disposal of the vessel;\n(iv)the date immediately preceding the date of closure or deemed closure or suspension of the registry of the vessel under the Merchant Shipping Act (Cap. 179)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

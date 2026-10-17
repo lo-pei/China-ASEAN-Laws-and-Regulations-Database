@@ -1,7 +1,7 @@
 {
  "id": "PH-H1000",
  "title": {
-  "zh": null,
+  "zh": "授权马尼拉市发行债券以支付为拓宽 Intramuros 全部街道而征收的不动产，并授权以该市债券担保发行国家政府债券的法案",
   "en": "An Act Authorizing the City of Manila to Issue Bonds for the Payment of Real Estate to be Expropriated for the Widening of All Streets in Intramuros, and Authorizing also a National Government Bond Issue Secured by Said City Bonds",
   "orig": "An Act Authorizing the City of Manila to Issue Bonds for the Payment of Real Estate to be Expropriated for the Widening of All Streets in Intramuros, and Authorizing also a National Government Bond Issue Secured by Said City Bonds"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the City of Manila to Issue Bonds for the Payment of Real Estate to be Expropriated for the Widening of All Streets in Intramuros, and Authorizing also a National Government Bond Issue Secured by Said City Bonds",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

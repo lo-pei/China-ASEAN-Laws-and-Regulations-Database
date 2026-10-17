@@ -1,7 +1,7 @@
 {
  "id": "PH-H648",
  "title": {
-  "zh": null,
+  "zh": "修订第471号联邦法第4条，宣布各级议会颁布的渔业条例全面有效，除非农业与自然资源部长30日内书面否决",
   "en": "An Act Amending Section Four of Commonwealth Act Numbered Four Hundred and Seventy-one, Declaring With Full Force and Effect All Fishing Ordinances, Rules or Regulations Promulgated By Provincial Boards, Municipal Boards or Councils, or Municipal District Councils Unless Disapproved in Writing By the Secretary of Agriculture and Natural Resources Within Thirty Days",
   "orig": "An Act Amending Section Four of Commonwealth Act Numbered Four Hundred and Seventy-one, Declaring With Full Force and Effect All Fishing Ordinances, Rules or Regulations Promulgated By Provincial Boards, Municipal Boards or Councils, or Municipal District Councils Unless Disapproved in Writing By the Secretary of Agriculture and Natural Resources Within Thirty Days"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1951."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Four of Commonwealth Act Numbered Four Hundred and Seventy-one, Declaring With Full Force and Effect All Fishing Ordinances, Rules or Regulations Promulgated By Provincial Boards, Municipal Boards or Councils, or Municipal District Councils Unless Disapproved in Writing By the Secretary of Agriculture and Natural Resources Within Thirty Days",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

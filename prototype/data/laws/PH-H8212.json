@@ -1,7 +1,7 @@
 {
  "id": "PH-H8212",
  "title": {
-  "zh": null,
+  "zh": "将奎松省圣纳西索镇圣纳西索职业中学的名称变更为Godofredo M. Tan纪念工艺学校的法案",
   "en": "An Act Changing the Name of San Narciso Vocational High School in San Narciso, Province of Quezon to Godofredo M. Tan Memorial School of Arts and Trades",
   "orig": "An Act Changing the Name of San Narciso Vocational High School in San Narciso, Province of Quezon to Godofredo M. Tan Memorial School of Arts and Trades"
  },
@@ -61,5 +61,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of San Narciso Vocational High School in San Narciso, Province of Quezon to Godofredo M. Tan Memorial School of Arts and Trades",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

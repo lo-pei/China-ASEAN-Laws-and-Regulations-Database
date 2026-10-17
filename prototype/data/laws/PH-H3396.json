@@ -1,7 +1,7 @@
 {
  "id": "PH-H3396",
  "title": {
-  "zh": null,
+  "zh": "授予 Pio Romero Garcia 在帕赛市、卡洛奥坎市、奎松市与马尼拉市及黎刹省 Malabon、Navotas 等市镇建设、运营制冰厂与冷藏库并分销销售所制冰的特许权法案",
   "en": "An Act Granting Pio Romero Garcia a Franchise to Construct, Maintain and Operate Ice Plants and Cold Storage, and to Distribute and Sell Ice so Manufactured and Furnish Cold Storage in the Cities of Pasay, Caloocan, Quezon and Manila and in the Municipalities of Malabon, Navotas, San Juan, Mandaluyong, Makati and Parañaque, All in the Province of Rizal",
   "orig": "An Act Granting Pio Romero Garcia a Franchise to Construct, Maintain and Operate Ice Plants and Cold Storage, and to Distribute and Sell Ice so Manufactured and Furnish Cold Storage in the Cities of Pasay, Caloocan, Quezon and Manila and in the Municipalities of Malabon, Navotas, San Juan, Mandaluyong, Makati and Parañaque, All in the Province of Rizal"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 20, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Pio Romero Garcia a Franchise to Construct, Maintain and Operate Ice Plants and Cold Storage, and to Distribute and Sell Ice so Manufactured and Furnish Cold Storage in the Cities of Pasay, Caloocan, Quezon and Manila and in the Municipalities of Malabon, Navotas, San Juan, Mandaluyong, Makati and Parañaque, All in the Province of Rizal",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

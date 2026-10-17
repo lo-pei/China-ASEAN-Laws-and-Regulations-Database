@@ -1,7 +1,7 @@
 {
  "id": "SG-H413",
  "title": {
-  "zh": null,
+  "zh": "商业信托条例",
   "en": "Business Trusts Regulations",
   "orig": null
  },
@@ -458,5 +458,13 @@
     "en": "SECOND SCHEDULE\nRegulation 8(1)\nParticulars to be Entered in Register of Registered Business Trusts\nI. INFORMATION ON THE BUSINESS TRUST\n1. Name of business trust\n2. Nature of business of the business trust\n3. Number of units in the business trust that have been issued or are to be issued\nII. INFORMATION ON THE TRUSTEE-MANAGER\n4. Name of trustee-manager\n5. Corporation Registration No. of the trustee-manager\n6. Contact details:\n• Address of the principal place of business of the trustee-manager\n• Tel. No.\n• Fax No.\n• E-mail Address\n7. Place at which the register of unitholders and the minute books of the registered business trust will be kept (if different from the principal place of business of the trustee-manager)\nIII. PARTICULARS OF AUDITOR OF BUSINESS TRUST\n8. Name of auditor\n9. Corporation Registration No./Audit Firm No.\nIV. PARTICULARS OF CHIEF EXECUTIVE OFFICER OF TRUSTEE-MANAGER\n10. Name of Chief Executive Officer\n11. NRIC/Passport No.\n12. Residential Address\nV. PARTICULARS OF SECRETARY OF TRUSTEE-MANAGER\n13. Name of secretary\n14. Corporation Registration No. or NRIC/Passport No.\n15. Professional qualification or membership\n16. Registered/Residential Address\nVI. PARTICULARS OF DIRECTORS OF TRUSTEE-MANAGER\n17. Name of director\n18. NRIC/Passport No.\n19. Residential Address\nVII. PARTICULARS OF SUBSTANTIAL SHAREHOLDERS OF TRUSTEE-MANAGER\n20. Name of substantial shareholder\n21. Number and percentage of shares held\n22. Corporation Registration No. or NRIC/Passport No.\n23. Registered/Residential Address"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Business Trusts Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

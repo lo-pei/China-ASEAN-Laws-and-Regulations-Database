@@ -1,7 +1,7 @@
 {
  "id": "PH-H7787",
  "title": {
-  "zh": null,
+  "zh": "将莱特省Hilongos市镇Atabay描笼涯的一块林地重新划为可用于住宅、商业、工业及其他生产用途的可转让或可处置土地",
   "en": "An Act Reclassifying a Parcel of Timberland Located in Barangay Atabay, Municipality of Hilongos, Province of Leyte, as Alienable or Disposable Land for Residential, Commercial, Industrial and other productive purposes",
   "orig": "An Act Reclassifying a Parcel of Timberland Located in Barangay Atabay, Municipality of Hilongos, Province of Leyte, as Alienable or Disposable Land for Residential, Commercial, Industrial and other productive purposes"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect fifteen (15) days after publication in the Official Gazette or two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reclassifying a Parcel of Timberland Located in Barangay Atabay, Municipality of Hilongos, Province of Leyte, as Alienable or Disposable Land for Residential, Commercial, Industrial and other productive purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

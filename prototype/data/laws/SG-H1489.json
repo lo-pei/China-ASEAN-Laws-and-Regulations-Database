@@ -1,7 +1,7 @@
 {
  "id": "SG-H1489",
  "title": {
-  "zh": null,
+  "zh": "费用（公民证书等）命令",
   "en": "Fees (Citizenship Certificates, Etc.) Order",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\n(1)For an application for citizenship\n$100\n(2)For the issue of a certificate of citizenship\n$70\n(3)For the replacement of a certificate of citizenship\n$20\n(4)For the issue of a letter or certificate stating the citizenship status of a person\n$20\n(5)For processing an application for renunciation of citizenship\n$35\n(6)For effecting amendments to the Register of Citizens and the certificate of citizenship of a person\n$20\n(7)For processing an application by a person claiming to be a citizen by birth or by registration\n$240.\n[S 696/2012 wef 31/12/2012]\n[G.N. Nos. S 424/96; S398/97; S 178/2000; S 200/2003; S 34/2009]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Citizenship Certificates, Etc.) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

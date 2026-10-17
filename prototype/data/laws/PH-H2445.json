@@ -1,7 +1,7 @@
 {
  "id": "PH-H2445",
  "title": {
-  "zh": null,
+  "zh": "修订《1948 年司法法》若干条，为第九司法区增设一名法官，常驻奥罗拉次省 Baler 市镇",
   "en": "An Act Amending Certain Sections of the “Judiciary Act of 1948” by Providing for an Additional Judge for the Ninth Judicial District, with Permanent Station in the Municipality of Baler, Sub-Province of Aurora",
   "orig": "An Act Amending Certain Sections of the “Judiciary Act of 1948” by Providing for an Additional Judge for the Ninth Judicial District, with Permanent Station in the Municipality of Baler, Sub-Province of Aurora"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Sections of the “Judiciary Act of 1948” by Providing for an Additional Judge for the Ninth Judicial District, with Permanent Station in the Municipality of Baler, Sub-Province of Aurora",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

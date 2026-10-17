@@ -1,7 +1,7 @@
 {
  "id": "PH-H2675",
  "title": {
-  "zh": null,
+  "zh": "为Tacloban市市法院增设一名法官，为此修订Tacloban市宪章第76条的法案",
   "en": "An Act Providing for an Additional Judge for the Municipal Court of the City of Tacloban, Amending for the Purpose Section Seventy-Six of the Charter of the City of Tacloban",
   "orig": "An Act Providing for an Additional Judge for the Municipal Court of the City of Tacloban, Amending for the Purpose Section Seventy-Six of the Charter of the City of Tacloban"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for an Additional Judge for the Municipal Court of the City of Tacloban, Amending for the Purpose Section Seventy-Six of the Charter of the City of Tacloban",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

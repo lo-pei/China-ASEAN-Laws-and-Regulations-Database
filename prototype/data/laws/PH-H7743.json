@@ -1,7 +1,7 @@
 {
  "id": "PH-H7743",
  "title": {
-  "zh": null,
+  "zh": "授予 Ivatan 发展通信基金会公司在巴塔内斯省建设、安装、设立、运营和维护无线电广播站的特许经营权法案",
   "en": "An Act Granting the Ivatan Foundation for Development Communications Incorporated a Franchise to Construct, Install, Establish, Operate and Maintain Radio Broadcasting Stations in the Province of Batanes",
   "orig": "An Act Granting the Ivatan Foundation for Development Communications Incorporated a Franchise to Construct, Install, Establish, Operate and Maintain Radio Broadcasting Stations in the Province of Batanes"
  },
@@ -221,5 +221,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days from the date of its publication, upon the initiative of the grantee, in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Ivatan Foundation for Development Communications Incorporated a Franchise to Construct, Install, Establish, Operate and Maintain Radio Broadcasting Stations in the Province of Batanes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

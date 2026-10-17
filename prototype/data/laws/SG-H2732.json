@@ -1,7 +1,7 @@
 {
  "id": "SG-H2732",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 8 号）命令 2023",
   "en": "Infrastructure Protection (Protected Places) (No. 8) Order 2023",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nDirector,\nWater Reclamation\n(Plants) Department,\nPublic Utilities Board\nJURONG WATER RECLAMATION PLANT\nAll that area comprised in Lot 05062N in Mukim No. 7 occupied by “JURONG WATER RECLAMATION PLANT” containing an area of about 381,976.30 square metres and bounded approximately as follows:\nCommencing at a point 33,331.802 metres North and 11,060.432 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n33,331.802\n11,060.432\n33,331.754\n11,170.318\n33,331.714\n11,261.767\n33,331.687\n11,322.733\n33,331.661\n11,383.699\n33,331.634\n11,444.664\n33,331.607\n11,505.630\n33,331.565\n11,603.175\n33,331.546\n11,646.760\n33,296.621\n11,676.055\n33,211.789\n11,747.213\n33,174.777\n11,778.258\n33,048.975\n11,883.794\n33,021.502\n11,706.530\n32,871.406\n11,729.558\n32,799.920\n11,604.221\n32,706.293\n11,440.076\n32,651.984\n11,288.513\n32,667.602\n11,285.573\n32,672.820\n11,298.808\n32,744.035\n11,287.892\n32,752.931\n11,284.239\n32,758.037\n11,274.865\n32,741.128\n11,164.708\n32,747.418\n11,151.024\n32,760.561\n11,139.432\n32,985.996\n11,104.770\n32,978.369\n11,054.838\n32,920.212\n11,722.070\n32,878.398\n11,728.485\n33,331.591\n11,543.832\n32,678.006\n11,329.754\n32,668.112\n11,333.522\n32,675.045\n11,352.871\n32,684.220\n11,371.581\n32,733.177\n11,364.077\n32,728.076\n11,343.465\n32,722.974\n11,322.853\n32,706.855\n11,313.057\n32,673.774\n11,318.132\n32,978.564\n11,051.853\n32,984.561\n11,052.116\n33,204.344\n11,061.742\nto the point of commencement.\nThe boundaries of “JURONG WATER RECLAMATION PLANT” are more particularly delineated in the Survey Plan CP.89587 filed in the office of the Chief Surveyor, Singapore, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 8) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

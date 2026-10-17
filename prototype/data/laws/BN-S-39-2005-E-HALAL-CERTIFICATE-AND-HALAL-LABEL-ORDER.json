@@ -1,7 +1,7 @@
 {
  "id": "BN-S-39-2005-E-HALAL-CERTIFICATE-AND-HALAL-LABEL-ORDER",
  "title": {
-  "zh": null,
+  "zh": "清真证书与清真标签命令",
   "en": "HALAL CERTIFICATE AND HALAL LABEL ORDER",
   "orig": null
  },
@@ -703,5 +703,13 @@
     "en": "( 1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations which are necessary or expedient for giving effect to and carrying out the provisions of this Order, including the prescription of fees and of any other thing required to be prescribed under this Order, and for the due administration thereof.\n\n(2) Such regulations may include such incidental, consequential and supplementary provisions as the Minister considers necessary or expedient. SCHEDULE 6(1))\n\nCERTIFICATE\n\nUGAMA ISLAM\n\nCOUNCIL\n\nBRUNEI DARUSSALAM\n\nHALAL\n\nCERTIFICATE Sijil Halal yang dikeluarkan di bawah bab 6(1) dari Perintah Sijil Halal dan Label Halal Certificate issued under section 6( 1) of Halal Certificate and Halal Label Orde\" Name of business Keterangan mengenai tempat perniagaan of place of business Alamat tempat berniaga of place of business Sijil Pendaftaran Perniagaan I Lesen Perniagaan of Business Registration Business licence pada: ................................................. .\n\n(H) Date ................................ (M) dan meterai Signature and seal Setiausaha Majlis U gama Islam of Religious Council Negara Brunei Darussalam 28th. MAy 2005 I SCHEDULE 9(2)) SCHEDULE 12(1) and 43(5))\n\nCERTIFICATE AND HALAL LABEL ORDER, 2005 UNDER SECTIONS 12(1)/43(5) The person named above is authorised to use the Halal Label on packages of ............................................................... (name of food). Date: ......................................... . of the Majlis SCHEDULE 6(1), 12(1), 45, 46(1)) FEES or replacement of Halal Certificate $30 permit $50 Made this 12th. day of Rabiulakhir, 1426 Hijriah corresponding to the 21st. day of May, 2005 at Our. Istana Nurul Iman, Bandar Seri Begawan, Brunei\n\nTHE SULTAN AND YANG DI-PERTUAN, BRUNEI DARUSSALAM."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "HALAL CERTIFICATE AND HALAL LABEL ORDER",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

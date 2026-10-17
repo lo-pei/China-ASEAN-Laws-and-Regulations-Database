@@ -1,7 +1,7 @@
 {
  "id": "SG-H3402",
  "title": {
-  "zh": null,
+  "zh": "验光师与配镜师法 2007",
   "en": "Optometrists and Opticians Act 2007",
   "orig": null
  },
@@ -688,5 +688,13 @@
     "en": "THE SCHEDULE\nSections 2 and 36\nPart 1\nActs or Activities Constituting\n“Opticianry” or “the Practice of Opticianry”\n1. Refraction for persons of 8 years of age or older.\n2. Interpreting prescriptions of medical practitioners and optometrists.\n3. Supplying, preparing and dispensing of all optical appliances, except for contact lenses (whether or not they fall within the definition of “optical appliances” in section 2).\n4. Fitting, adjusting and adapting of all optical appliances, except for contact lenses (whether or not they fall within the definition of “optical appliances” in section 2), to the human face and eyes in accordance with the prescriptions of legally qualified medical practitioners and optometrists.\nPart 2\nACTS OR ACTIVITIES CONSTITUTING\n“OPTOMETRY” OR “THE PRACTICE OF OPTOMETRY”\n1. Refraction.\n2. Prescribing of optical appliances and contact lenses (whether or not they fall within the definition of “optical appliances” in section 2).\n3. Detecting abnormalities of the eye using the following methods:\n(a)binocular vision tests;\n(b)ophthalmoscopy or fundoscopy;\n(c)retinoscopy;\n(d)slit-lamp examination;\n(e)tonometry;\n(f)visual field testing.\n4. Interpreting prescriptions of medical practitioners and optometrists.\n5. Supplying, preparing and dispensing of all optical appliances and contact lenses (whether or not they fall within the definition of “optical appliances” in section 2).\n6. Fitting, adjusting and adapting of all optical appliances and contact lenses (whether or not they fall within the definition of “optical appliances” in section 2) to the human face and eyes in accordance with the prescriptions of legally qualified medical practitioners and optometrists.\n[S 249/2009]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Optometrists and Opticians Act 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

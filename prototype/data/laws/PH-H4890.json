@@ -1,7 +1,7 @@
 {
  "id": "PH-H4890",
  "title": {
-  "zh": null,
+  "zh": "修订第 3179 号共和国法（授予 Victorias Milling Co., Inc. 在菲律宾境内运营私人固定点对点及陆基、陆上移动无线电台的临时许可）",
   "en": "An Act Amending Republic Act Numbered Thirty-One Hundred Seventy-Nine, Entitled \"An Act Granting the Victorias Milling Co., Inc., a Temporary Permit to Construct, Operate and Maintain Private Fixed Point-To-Point and Land-Based and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines.\"",
   "orig": "An Act Amending Republic Act Numbered Thirty-One Hundred Seventy-Nine, Entitled \"An Act Granting the Victorias Milling Co., Inc., a Temporary Permit to Construct, Operate and Maintain Private Fixed Point-To-Point and Land-Based and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines.\""
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H4890-A1_2",
+   "id": "PH-H4890-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "There is hereby granted to the Victorias Milling Co., Inc., its successors or assigns, a temporary permit to construct, operate and maintain in Victorias, Occidental Negros and at such places in the Philippines as the said company may select, subject to the approval of the Secretary of Public Works and Communications, private fixed point-to-point and land-based and land mobile and coastal and maritime mobile radio stations for the reception and transmission of wireless messages on radiotelegraphy or radiotelephony, each station to be provided with a radio transmitting apparatus and radio receiving apparatus.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4890-A2",
@@ -81,14 +82,15 @@
    }
   },
   {
-   "id": "PH-H4890-A3_2",
+   "id": "PH-H4890-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "Section eight of the same Act is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4890-A8",
@@ -120,5 +122,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive Approval, August 16, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Thirty-One Hundred Seventy-Nine, Entitled \"An Act Granting the Victorias Milling Co., Inc., a Temporary Permit to Construct, Operate and Maintain Private Fixed Point-To-Point and Land-Based and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications Within the Philippines.\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

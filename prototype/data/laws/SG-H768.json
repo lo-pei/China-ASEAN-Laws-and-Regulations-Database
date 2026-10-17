@@ -1,7 +1,7 @@
 {
  "id": "SG-H768",
  "title": {
-  "zh": null,
+  "zh": "公司（英联邦战争公墓委员会（新加坡分会）——第 379 条豁免）条例 2023",
   "en": "Companies (Commonwealth War Graves Commission (Singapore Branch) — Exemption from Section 379) Regulations 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Commonwealth War Graves Commission (Singapore Branch) (UEN T15FC0152C), a foreign company registered under Division 2 of Part 11 of the Act, is exempt from section 379 of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Companies (Commonwealth War Graves Commission (Singapore Branch) — Exemption from Section 379) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

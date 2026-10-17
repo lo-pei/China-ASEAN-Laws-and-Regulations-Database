@@ -1,7 +1,7 @@
 {
  "id": "SG-H204",
  "title": {
-  "zh": null,
+  "zh": "动物与鸟类（鸽子）规则",
   "en": "Animals and Birds (Pigeons) Rules",
   "orig": null
  },
@@ -278,5 +278,13 @@
     "en": "THE SCHEDULE\nRule 4(4)\nAnimals And Birds Act\n(chapter 7)\nANIMALS AND BIRDS (PIGEONS) RULES\nLICENCE TO KEEP PIGEONS\nName of licence holder\nNRIC No.\nAddress of licence holder\nAddress of premises where pigeons are kept\nDate of issue of licence\nDate of expiry of licence\nFee received\nThis licence is hereby granted to …………………………………………. to use the premises described herein for the keeping, harbouring, roosting, nesting or breeding of pigeons.\n………………………..\nLicensing Officer."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Animals and Birds (Pigeons) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

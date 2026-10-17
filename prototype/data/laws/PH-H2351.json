@@ -1,7 +1,7 @@
 {
  "id": "PH-H2351",
  "title": {
-  "zh": null,
+  "zh": "规定宿务市连接国会场地与 Juan Luna 街和 Sanciangko 街交叉口的街道名称继续为 Jones 大道的法案",
   "en": "An Act Providing that the Name of the Street Which Connects the Capitol Grounds and the Intersection of Juan Luna and Sanciangko Streets in the City of Cebu Shall Continue to be Jones Avenue",
   "orig": "An Act Providing that the Name of the Street Which Connects the Capitol Grounds and the Intersection of Juan Luna and Sanciangko Streets in the City of Cebu Shall Continue to be Jones Avenue"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect on March 21, 1960.\nApproved: May 6, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing that the Name of the Street Which Connects the Capitol Grounds and the Intersection of Juan Luna and Sanciangko Streets in the City of Cebu Shall Continue to be Jones Avenue",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

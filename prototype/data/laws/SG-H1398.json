@@ -1,7 +1,7 @@
 {
  "id": "SG-H1398",
  "title": {
-  "zh": null,
+  "zh": "房地产代理（发牌与注册）条例 2010",
   "en": "Estate Agents (Licensing and Registration) Regulations 2010",
   "orig": null
  },
@@ -420,5 +420,13 @@
     "en": "THIRD SCHEDULE\nRegulation 17\nRecognised Qualifications for Salespersons\nName of industry examination\nConducting body\n1.Common Examination for House Agents (CEHA)\nCommon Examination for House Agents Board\n2.Real Estate Agency Course (up to Batch 12/1995)\nSingapore Institute of Surveyors and Valuers\n3.Association of Singapore Realtors’ Course (up to Batch 38/1995)\nAssociation of Singapore Realtors\n4.Common Examination for Salespersons\nSingapore Accredited Estate Agencies\n5.Certified Estate Agent Examination\nInstitute of Estate Agents\n6.Real Estate Agency Course (from Batch 1/1996 onwards)\nSingapore Institute of Surveyors and Valuers\n7.National Skills Recognition System (NSRS) for Real Estate Sales\nSingapore Workforce Development Agency\n8.Pre-CEHA Examination\nSingapore Accredited Estate Agencies"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Estate Agents (Licensing and Registration) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

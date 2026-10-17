@@ -1,0 +1,92 @@
+{
+ "id": "BN-S-19-2006-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2006",
+ "title": {
+  "zh": "法律职业法修正命令 2006",
+  "en": "LEGAL PROFESSION ACT AMENDMENT ORDER 2006",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p26",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 4,
+ "chars": 1378,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-19_2006_E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2006.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-19_2006_E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2006.pdf》（3 页），本次切分 4 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-19-2006-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2006-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Order may be cited as the Legal Profession Act (Amendment) Order, of section 3 of Chapter 132."
+   }
+  },
+  {
+   "id": "BN-S-19-2006-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2006-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Section 3 of the Legal Profession Act, in this Order referred to as the Act, is\n\n(a) in paragraph (b) of subsection (2), by deleting \"person to whom a Residence Permit has been granted under regulations made under the Act\" and by substituting \"permanent resident,\" therefor;\n\n(b) in subsection 13), by deleting \"person to whom a Residence Permit has been granted under regulations made under the Immigration Act\" from the third and fourth lines and by substituting \"permanent resident\" therefor. of section 13."
+   }
+  },
+  {
+   "id": "BN-S-19-2006-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2006-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "Section 13 of the Act is amended, in sub-paragraph lv) of paragraph (a) of\n\n(2), by deleting \"person to whom a Residence Permit has been granted under regulations made under the Immigration Act\" from the second and third and by substituting \"permanent resident\" therefor\". of section 14."
+   }
+  },
+  {
+   "id": "BN-S-19-2006-E-LEGAL-PROFESSION-ACT-AMENDMENT-ORDER-2006-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "Section 14 of the Act is amended, in the proviso to subsection 11), by deleting \"person to whom a Residence Permit has been granted under regulations made under the Immigration Act\" from the third, fourth and fifth lines and by substituting \"permanent resident\" therefor. Made this 21st. day of Muharam, 1427 Hijriah corresponding to the 20th. day of February, 2006 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI PERTUAN\n\nBRUNEI DARUSSALAM"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "LEGAL PROFESSION ACT AMENDMENT ORDER 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1988",
  "title": {
-  "zh": null,
+  "zh": "修订第1937号共和国法第105条（i）项，取消价值不超过500比索的某些个人与家庭用品及寄交同一人单批不超过100比索物品关税豁免的法案",
   "en": "An Act Amending Subsection (i), Section One Hundred Five of Republic Act Numbered Nineteen Hundred Thirty-Seven by Removing the Exemptions from the Payment of Tariff Duties Certain Personal and Household Effects not Exceeding Five Hundred Pesos in Value, and Articles in Any Single Shipment Consigned to Any Single Person not Exceeding One Hundred Pesos",
   "orig": "An Act Amending Subsection (i), Section One Hundred Five of Republic Act Numbered Nineteen Hundred Thirty-Seven by Removing the Exemptions from the Payment of Tariff Duties Certain Personal and Household Effects not Exceeding Five Hundred Pesos in Value, and Articles in Any Single Shipment Consigned to Any Single Person not Exceeding One Hundred Pesos"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Subsection (i), Section One Hundred Five of Republic Act Numbered Nineteen Hundred Thirty-Seven by Removing the Exemptions from the Payment of Tariff Duties Certain Personal and Household Effects not Exceeding Five Hundred Pesos in Value, and Articles in Any Single Shipment Consigned to Any Single Person not Exceeding One Hundred Pesos",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

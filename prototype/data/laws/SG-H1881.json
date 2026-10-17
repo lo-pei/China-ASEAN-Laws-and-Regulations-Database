@@ -1,7 +1,7 @@
 {
  "id": "SG-H1881",
  "title": {
-  "zh": null,
+  "zh": "氰化氢（熏蒸）法 1947",
   "en": "Hydrogen Cyanide (Fumigation) Act 1947",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. The Minister may by order apply the provisions of this Act or such of those provisions as may be specified in the order to fumigation with any substance other than hydrogen cyanide in like manner as they apply to fumigation with hydrogen cyanide subject to such adaptations, if any, as may be necessary having regard to the nature of the substance."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Hydrogen Cyanide (Fumigation) Act 1947",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

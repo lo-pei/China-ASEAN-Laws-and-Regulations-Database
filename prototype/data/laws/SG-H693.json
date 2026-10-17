@@ -1,7 +1,7 @@
 {
  "id": "SG-H693",
  "title": {
-  "zh": null,
+  "zh": "合作社规则 2009",
   "en": "Co-operative Societies Rules 2009",
   "orig": null
  },
@@ -374,5 +374,13 @@
     "en": "16. Notwithstanding the revocation of the Co-operative Societies Rules, the Central Co-operative Fund Committee established under rule 4 of the revoked Rules before 1st August 2009 and existing immediately before that date shall continue in existence as if it had been established under rule 10 of these Rules."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Co-operative Societies Rules 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

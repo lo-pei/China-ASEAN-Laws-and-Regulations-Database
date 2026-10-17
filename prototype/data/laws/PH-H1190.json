@@ -1,7 +1,7 @@
 {
  "id": "PH-H1190",
  "title": {
-  "zh": null,
+  "zh": "授予Francisco Benedicto在朗布隆省朗布隆市镇经营电灯、热力与动力系统特许经营权的法案",
   "en": "An Act Granting Francisco Benedicto a Franchise for an Electric Light, Heat and Power System in the Municipality of Romblon, Province of Romblon",
   "orig": "An Act Granting Francisco Benedicto a Franchise for an Electric Light, Heat and Power System in the Municipality of Romblon, Province of Romblon"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Francisco Benedicto a Franchise for an Electric Light, Heat and Power System in the Municipality of Romblon, Province of Romblon",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

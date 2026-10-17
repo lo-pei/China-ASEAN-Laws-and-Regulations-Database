@@ -1,7 +1,7 @@
 {
  "id": "PH-H7227",
  "title": {
-  "zh": null,
+  "zh": "延长私有化委员会与资产私有化信托的任期，为此修订经修正的第7181号共和国法的法案",
   "en": "An Act Extending the Term of the Committee on Privatization and the Asset Privatization Trust Amending for the Purpose Republic Act Numbered Seven Thousand One Hundred Eighty-One, as Amended",
   "orig": "An Act Extending the Term of the Committee on Privatization and the Asset Privatization Trust Amending for the Purpose Republic Act Numbered Seven Thousand One Hundred Eighty-One, as Amended"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect after its publication in two (2) newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Term of the Committee on Privatization and the Asset Privatization Trust Amending for the Purpose Republic Act Numbered Seven Thousand One Hundred Eighty-One, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

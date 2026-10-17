@@ -1,7 +1,7 @@
 {
  "id": "SG-H1189",
  "title": {
-  "zh": null,
+  "zh": "区域供冷法 2001",
   "en": "District Cooling Act 2001",
   "orig": null
  },
@@ -790,5 +790,13 @@
     "en": "47.—(1) The Authority may issue advisory guidelines for the purposes of providing practical guidance or certainty in respect of any one or more requirements imposed by or under this Act.\n(2) The Authority may consult with such person as the Authority thinks fit for the purpose of preparing any advisory guidelines under subsection (1).\n(3) The advisory guidelines may —\n(a)be of general or specific application; or\n(b)specify that different provisions of the advisory guidelines apply to different circumstances, or are applicable to different persons or classes of persons.\n(4) The Authority may amend or revoke the whole or part of any advisory guidelines issued under subsection (1).\n(5) Advisory guidelines issued or amended under this section do not have any legislative effect.\n(6) Where, in any administrative proceedings commenced in connection with this Act, any provision in this Act to which any advisory guidelines issued under subsection (1) relate is alleged to have been contravened, then —\n(a)compliance with such guidelines; or\n(b)a contravention of or failure to comply with, whether by act or omission, such guidelines,\nmay be relied upon by any party to those proceedings as tending to negative or establish the contravention which is in question in those proceedings.\n[Act 37 of 2021 wef 29/01/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "District Cooling Act 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2935",
  "title": {
-  "zh": null,
+  "zh": "土地征用法 1966",
   "en": "Land Acquisition Act 1966",
   "orig": null
  },
@@ -1006,5 +1006,13 @@
     "en": "THE SCHEDULE\nSections 42(4), 43, 44, 44A and 44B\nCOMPENSATION FOR TEMPORARY OCCUPATION OF LAND\nFirst column\nItem for which compensation\nmay be claimed\nSecond column\nBasis on which compensation\nis to be assessed\n1.Loss due to displacement (whether temporary or permanent) of any person in lawful occupation of the land on the date of the notice under section 42(3).\n(a)The financial loss naturally and reasonably resulting from the displacement of the person from the land.\n(b)All reasonable expenses incurred by such a person in removing from the land from which the person is displaced, including (but not limited to) the reasonable cost of renovating alternative premises to be occupied during the displacement.\n2.Any structural damage to any building within the land resulting from the exercise of the right of entry and occupation and use thereafter of the land under section 42.\n(a)The financial loss naturally and reasonably resulting from the displacement because of the structural damage.\n(b)All reasonable expenses incurred in removing from the building, including (but not limited to) the reasonable cost of renovating alternative premises to be occupied during the displacement.\n(c)The amount which is, or might be, fairly and reasonably incurred in repairing the damage to the building, or in a case where the structural damage is so extensive as to require the removal of the building, the amount which is, or might be, fairly and reasonably incurred in replacing a similar building.\n(d)The share in the responsibility for the loss or damage attributable to or connected with the exercise of the right of entry and occupation and use thereafter of the land under section 42.\n3.Any other damage to the land or a building resulting from the exercise of the right of entry and occupation and use thereafter of the land under section 42.\n(a)The financial loss naturally and reasonably resulting from the displacement because of the damage to the land or building.\n(b)All reasonable expenses incurred in removing from the land or building.\n(c)The amount that is, or might be, fairly and reasonably incurred in repairing the damage.\n(d)The share in the responsibility for the loss or damage attributable to or connected with the exercise of the right of entry and occupation and use thereafter of the land under section 42.\n4.The removal of any object or structure within the land as a result of the exercise of the right of entry and occupation of the land under section 42.\n(a)The cost of removing the object or structure, being the cost incurred in moving the object or structure and making good that part of the land from which it is removed.\n(b)The cost of reinstating the object or structure or of replacing the same with a similar object or structure.\n(c)The loss sustained by the removal of the object or structure which was erected and maintained without contravention of any written law and is not to be reinstated or replaced with a similar object or structure at the expense of the Collector, being an amount which might fairly and reasonably be estimated as the cost of reinstating or replacing the object or structure.\n[12/2015]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Land Acquisition Act 1966",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

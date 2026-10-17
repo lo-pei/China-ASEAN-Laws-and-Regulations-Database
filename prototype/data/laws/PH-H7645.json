@@ -1,7 +1,7 @@
 {
  "id": "PH-H7645",
  "title": {
-  "zh": null,
+  "zh": "2002 年 Barangay 微型企业促进法案",
   "en": "Barangay Micro Business Enterprises (BMBE's) Act of 2002.",
   "orig": "Barangay Micro Business Enterprises (BMBE's) Act of 2002. An Act to Promote the Establishment of Barangay Micro Business Enterprises (BMBE's), Providing Incentives and Benefits Therefor, and for other purposes <a class=\"nya\">• Implementing Rules and Regulations of RA9178</a> ra2002/pdf/irr_9178_2002.pdf"
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity – This Act shall take effect fifteen (15) days after its publication in the Office Gazette or in at least two (2) newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Barangay Micro Business Enterprises (BMBE's) Act of 2002.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-56-2018-SECTION-26-CONSEQUENTIAL-AMENDMENTS-OF-THE-EC2A2E",
  "title": {
-  "zh": null,
+  "zh": "安全、健康与环境国家局命令 2018 附表三第 26 条的相应修正",
   "en": "Section 26 Consequential Amendments of the Schedule 3 of Safety Health and Environment National Authority Order 2018",
   "orig": null
  },
@@ -417,5 +417,13 @@
     "en": "The provisions of the written laws specified in the first column of Schedule 3 are amended in the manner set out in the second column thereof. (sections 8(1) and 23)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Section 26 Consequential Amendments of the Schedule 3 of Safety Health and Environment National Authority Order 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

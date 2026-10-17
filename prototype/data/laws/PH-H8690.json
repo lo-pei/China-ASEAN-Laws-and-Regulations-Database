@@ -1,7 +1,7 @@
 {
  "id": "PH-H8690",
  "title": {
-  "zh": null,
+  "zh": "将新比斯开省 Santa Fe 市镇 Canabuan 描笼涯的 Santa Fe 国立中学附属校分离，改设为独立的 Canabuan 国立中学，并为此拨款",
   "en": "An Act Separating the Santa Fe National High School - Canabuan Annex in Barangay Canabuan, Municipality of Santa Fe, Province of Nueva Vizcaya From the Santa Fe National High School, Converting It Into An Independent National High School to Be Known as Canabuan National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Santa Fe National High School - Canabuan Annex in Barangay Canabuan, Municipality of Santa Fe, Province of Nueva Vizcaya From the Santa Fe National High School, Converting It Into An Independent National High School to Be Known as Canabuan National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after republication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Santa Fe National High School - Canabuan Annex in Barangay Canabuan, Municipality of Santa Fe, Province of Nueva Vizcaya From the Santa Fe National High School, Converting It Into An Independent National High School to Be Known as Canabuan National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

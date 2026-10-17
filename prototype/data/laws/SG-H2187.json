@@ -1,7 +1,7 @@
 {
  "id": "SG-H2187",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发利息及其他付款豁免）公告 2019",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2019",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest of US$295,238.34, commitment fee of US$7,875.00 and arrangement fee of US$70,875.00 payable by Nordic Aviation Leasing Twenty Three Pte Ltd to Flip No. 121 Co., Ltd during the period starting on 30 June 2018 and ending on 30 September 2018, under an aircraft lease agreement dated 22 May 2018 in respect of the leasing of aircraft “MSN 4580”, are exempt from tax.\n(2) The interest of US$228,449.38, commitment fee of US$19,687.50 and arrangement fee of US$70,875.00 payable by Nordic Aviation Leasing Twenty Four Pte Ltd to Flip No. 150 Co., Ltd during the period starting on 30 June 2018 and ending on 30 September 2018, under an aircraft lease agreement dated 14 June 2018 in respect of the leasing of aircraft “MSN 4582”, are exempt from tax.\n(3) The exemptions under sub-paragraphs (1) and (2) are subject to the conditions specified in the letter of approval dated 24 December 2018 issued by the Ministry of Finance and addressed to Nordic Aviation Capital Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

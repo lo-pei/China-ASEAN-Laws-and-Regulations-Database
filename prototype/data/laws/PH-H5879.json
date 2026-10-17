@@ -1,7 +1,7 @@
 {
  "id": "PH-H5879",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛省 Dumangas 市镇 Purificacion Dolar Monfort 国立学校设为西米沙鄢科学技术学院分校并为其拨款的法案",
   "en": "An Act Constituting the Purificacion Dolar Monfort National School in Barangay Purificacion D. Monfort in the Municipality of Dumangas, Province of Iloilo, Into a Branch of the Western Visayas College of Science and Technology in Iloilo City to Be Known as the Purificacion Dolar Monfort College, and Appropriating Funds Therefor",
   "orig": "An Act Constituting the Purificacion Dolar Monfort National School in Barangay Purificacion D. Monfort in the Municipality of Dumangas, Province of Iloilo, Into a Branch of the Western Visayas College of Science and Technology in Iloilo City to Be Known as the Purificacion Dolar Monfort College, and Appropriating Funds Therefor"
  },
@@ -101,5 +101,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Constituting the Purificacion Dolar Monfort National School in Barangay Purificacion D. Monfort in the Municipality of Dumangas, Province of Iloilo, Into a Branch of the Western Visayas College of Science and Technology in Iloilo City to Be Known as the Purificacion Dolar Monfort College, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

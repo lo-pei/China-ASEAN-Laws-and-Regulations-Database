@@ -1,7 +1,7 @@
 {
  "id": "PH-H6207",
  "title": {
-  "zh": null,
+  "zh": "将邦板牙省安赫莱斯市萨潘巴托中学更名为萨潘巴托国立中学并为此拨款的法案",
   "en": "An Act Renaming the Sapangbato High School in Angeles City, Province of Pampanga, as the Sapangbato National High School and Appropriating Funds Thereof",
   "orig": "An Act Renaming the Sapangbato High School in Angeles City, Province of Pampanga, as the Sapangbato National High School and Appropriating Funds Thereof"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, May 19, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Sapangbato High School in Angeles City, Province of Pampanga, as the Sapangbato National High School and Appropriating Funds Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

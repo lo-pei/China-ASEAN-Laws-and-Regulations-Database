@@ -1,0 +1,888 @@
+{
+ "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9",
+ "title": {
+  "zh": "儿童与青少年安全场所条例 2010",
+  "en": "CHILDREN AND YOUNG PERSONS PLACE OF SAFETY REGULATIONS 2010",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p28",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 65,
+ "chars": 27942,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-REGULATIONS-2010.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-REGULATIONS-2010.pdf》（23 页），本次切分 65 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "These Regulations may be cited as the Children and Young Persons (Places of Safety) Regulations, 2010 and shall commence on the same date as the Children and Young Persons Order, 2006. Interpretation."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In these Regulations, unless the context otherwise requires - \"Board\" means a Board of Visitors appointed under regulations made under section 102; \"code of conduct\" means the code of conduct referred to in regulation 4; \"medical officer\" means the medical officer appointed for a place of safety under regulation 20; \"Panel\" means the Panel of Reviews and Discharges referred to in regulation 63(1); \"resident\" means any child who has been admitted to a place of safety; \"staff\" means any person working in a place of safety, and includes the Warden and a deputy Warden; \"Superintendent\", in relation to a place of safety, means the Superintendent appointed under regulation 3(2) and who is exercising jurisdiction over that place of safety; \"Warden\", in relation to a place of safety, means the Warden appointed under regulation 3(2) and who is exercising jurisdiction over that place of safety. Administration."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "( 1) A place of safety shall be under the general charge and administration of a Warden, who shall be subject to and shall comply with such directions as may be given by the Superintendent.\n\n(2) The Minister, with the approval of His Majesty the Sultan and Yang Di-Pertuan, shall appoint for each place of safety, a Superintendent, a Warden and such number of other staff as he may consider necessary. Code of conduct."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The Superintendent shall prepare a code of conduct in relation to the proper management of a place of safety to be complied with by every person to whom it applies.\n\nRESPONSIBILITIES OF DIRECTOR Director to ensure Regulations are obeyed."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "text": {
+    "en": "(1) The Director shall ensure that each place of safety is administered in accordance with these Regulations and any other regulations made under the Order.\n\n(2) For that purpose he or his representative shall regularly visit and inspect each place of safety and give consideration to all matters brought to his notice, the comments given and the recommendations made, by the Board. Delegation of powers and duties of Director."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "text": {
+    "en": "The Director may delegate in writing the exercise or performance of any of the powers or duties conferred or imposed on him by these Regulations to any Community Development Officer. Determining duties of Superintendent, Warden and staff."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "text": {
+    "en": "The Director may determine the duties of the Superintendent, Warden and staff, other than the duties expressly imposed by these Regulations, to be carried out in the best interests of the residents. Supply of copies of Regulations to members of Board and staff."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "text": {
+    "en": "The Director shall ensure that a copy of these Regulations is supplied to every member of a Board on his appointment, and to the Superintendent, Warden and to all staff. Number of residents."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "chapter": {
+    "en": "PART II"
+   },
+   "text": {
+    "en": "The Director shall determine the number of residents to be accommodated in a place of safety at any time, and such number shall not be exceeded without his prior approval.\n\nRESPONSIBILITIES OF SUPERINTENDENT AND WARDEN Responsibility of Superintendent to Director."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "The Superintendent shall be responsible to the Director for - {a} ensuring that the place of safety is operated and managed satisfactorily and that the welfare of the residents in the place of safety is promoted in a proper manner; {b} the efficient conduct, management and discipline of the place of safety; and {c} all the property and the services provided at the place of safety and for taking such measures as may be necessary to maintain them in proper order. Duties of Warden."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "In addition to the duties determined by the Director under regulation 7, the duties of the Warden shall include - {a} making daily inspections of the parts in the place of safety where the residents are accommodated or given training; {b) making visits to residents confined to sick bay, in hospital or otherwise segregated; {c) making rounds of the place of safety during the night, at varying times and at least 3 times a week to satisfy himself as to the state of the place of safety; {d) ensuring the maintenance of the records required to be kept and maintained under Part VII; {e) reporting immediately the death or serious illness of, or any serious injury or infectious disease suffered by, any resident to his parent, guardian or nearest relative, and to the Director, Superintendent and chairman of the Board; ({) notifying immediately the police of any violent or sudden death of a resident, and sending without delay to the Director a written report of any enquiry relating thereto. Attention to welfare of residents."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "( 1) The Warden shall exercise close and constant supervision over the place of safety by {a) giving special attention to the health, welfare, education, training and development of the residents; {b) providing facilities and opportunities to enable the residents to develop physically, mentally, spiritually and socially in a clean and healthy environment.\n\n(2) The attention to be given to the welfare of the residents includes{a) interviewing every resident immediately after admission and immediately prior to his discharge from the place of safety; {b) providing guidance, love and affection as well as developing a positive and healthy relationship between staff and the residents; {c) providing counselling for the residents; and {d) so far as practicable, carrying into effect any written recommendation made by the medical officer for the alteration of the discipline or treatment of any residents. Determining duties of staff."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "The Warden shall determine the daily duties of the staff and ensure that - (a} all staff undergo a medical examination annually; and fbJ staff supervise the daily activities of the residents. Monthly report."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "(1) The Warden shall prepare and keep a monthly report which shall include the comments given by members of the Board and details of admissions, discharges and abscondances, and shall place the report before the Board at its next meeting.\n\n(2) A copy of the report shall be sent to the Director and Superintendent. Delegation of powers and duties of Warden."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "(1) During any absence of the Warden from the place of safety, any power conferred or duty imposed on him by these Regulations may be exercised or performed by the deputy Warden or, in his absence, by a senior and experienced member of staff appointed by the Warden to discharge his functions.\n\n(2) The Warden may, at any time, with the approval of the Director, delegate to any senior and experienced member of staff the performance of any of his duties under these Regulations. Absence of Warden from place of safety."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "(1) The Warden shall obtain the approval of the Superintendent and notify the chairman of the Board if he wishes to leave the place of safety for more than 24 hours, and shall ensure that arrangements satisfactory to the Superintendent are made for the conduct of the place of safety during his absence.\n\n(2) The Warden shall require the approval of the Director for any absence of more than 4 weeks. Fire precautions."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "(1) The Warden shall draw up fire precaution rules and fire drill procedures as approved by the Director of Fire and Rescue and shall ensure that appliances for the extinction of fires are at all times kept in order and ready for use.\n\n(2) The Warden shall ensure that all staff and, as far as practicable, the residents are conversant with fire procedures.\n\n(3) Fire drills shall be held at least twice a year.\n\n(4) The Warden shall keep a written record of all fire drills. Compliance with directions from Director."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "PART III"
+   },
+   "text": {
+    "en": "The Warden shall comply with all directions issued by the Director relating to the performance of his duties and the management of the place of safety.\n\nMEDICAL FACILITIES Provision of medical and dental facilities."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "The Director shall make arrangements for - {a} the provision of medical and dental care for the residents in a place of safety; {b) a sick bay and a medical room to be provided in each place of safety. Appointment of medical officer."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "The Director-General of Medical Services shall appoint a medical officer for each place of safety. Duties of medical officer."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "The medical officer shall {a) carry out a thorough medical examination of each resident on admission, thereafter annually, and again shortly before the resident leaves the place of safety; {b) carry out a weekly inspection on the hygienic condition of the place of safety; {c) carry out the examination and treatment of residents and staff entitled to medical treatment; {d} keep medical records in a form and manner approved by the Director-General of Medical Services; and\n\n(e) furnish such reports and certificates as the Director may require. Medical treatment of residents."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "(1) Notwithstanding the other provisions of this regulation, the medical officer shall, if practicable, visit the place of safety daily at such times as the Director-General of Medical Services may determine.\n\n(2) The medical officer shall attend to a sick resident as soon as he receives a complaint and shall report the matter and any recommendation on further medical treatment to the Superintendent immediately thereafter.\n\n(3) The medical officer shall regularly visit a resident who is confined to a room or to whom his special attention is directed.\n\n(4) Where in the opinion of the medical officer a resident requires treatment in a hospital, the Superintendent shall make arrangements for the resident to be received in a hospital for such period as may be necessary.\n\n(5) During the period of such stay in the hospital, the resident shall be deemed to be in the custody of the Superintendent.\n\n(6) Where a surgical operation for a resident is considered necessary and urgent, and the consent of the parent or guardian as required by the hospital authorities is not obtainable within the time available, the Superintendent shall sign the consent for and on behalf of the parent or guardian. Reports on dangers to residents' health."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "Whenever the medical officer has reason to believe that the health of a resident is likely to be injuriously affected by the discipline or treatment in a place of safety, he shall immediately report the matter in writing to the Superintendent together with his recommendations. Contagious diseases."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "The medical officer shall forward to the Superintendent in writing a recommendation to separate from other residents, any resident suffering or suspected of suffering, from any infectious or contagious disease, and shall immediately take steps to treat such disease. First aid box."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "There shall be in every place of safety at least one first aid box which shall be kept fully equipped.\n\nPARTV\n\nRESPONSIBILITIES OF STAFF Compliance with code of conduct."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "Every staff shall comply with the code of conduct of the place of safety and shall assist the Superintendent in the administration thereof. Compliance with instructions and orders of Superintendent."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "Every staff shall obey all lawful instructions and orders of the Superintendent. Responsibility of staff."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "(1) Staff shall be responsible to the Warden, Superintendent and Director in ensuring that the health and welfare of the residents in the place of safety is promoted in a proper manner.\n\n(2) Staff shall report to the Superintendent and Warden any abuse or impropriety of which he is aware. Leaving place of safety."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "No staff shall leave the place of safety while on duty without the prior permission of the Superintendent. Loans and gifts."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "No staff shall borrow or lend any money or valuables from or to any resident, or accept any gift from any resident or any visitor of a resident. Disciplinary action."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "Any staff who neglects his responsibilities or fails in his duties with regard to these Regulations shall be liable to disciplinary action. Health of resident to be brought to notice of Warden."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "il) Staff shall observe the daily health of each resident with regard to appearance, general cleanliness, personal hygiene, temperature, skin troubles and any other abnormal conditions. {2) Staff shall direct the attention of the Warden to any resident, whether he complains or not, who appears to be unwell or whose state of mind appears to require special care.\n\n(3) The Warden shall without delay bring any such case to the notice of the medical officer. Staff dealing with residents."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "(1) Staff, when dealing with a resident, shall only use such reasonable force as is necessary. {2) Staff shall not deliberately act in a manner calculated to provoke a resident. [3) Staff shall not discuss his duties or any matter of discipline or arrangement in a place of safety within the hearing of a resident. {4) Staff shall not deal with a resident for any improper purpose. Staff not to communicate with media."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "PART IV"
+   },
+   "text": {
+    "en": "(1) Staff shall not make any communication to any representative of the media, without the authority of the Superintendent, on any matter which has come to his know ledge in the course of his duties.\n\n(2) Staff shall not, without the authority of the Superintendent, publish any matter or make any public pronouncement relating to a place of safety or to any resident.\n\nDUTIES AND PRIVILEGES OF RESIDENTS Compliance with code of conduct and lawful orders."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "Every resident shall comply with the code of conduct of the place of safety and shall obey all the lawful instructions and orders of the Superintendent, Warden and staff. Submission to treatment."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "Every resident shall submit to all medical and other treatment for his health and welfare, as the medical officer considers necessary. Leaving place of safety."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "A resident shall not leave the place of safety without the prior permission of the Warden, or (as the case may be) the deputy Warden or a senior staff authorised by the Warden for that purpose. Acts of violence."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "A resident shall not resort to any form of violence. Earnings."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "A resident shall be allowed to retain any earnings derived from any approved employment for training purposes in a savings account opened for him by the Warden, subject to such conditions as may be imposed by the Director. Recreation."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "Adequate facilities and equipment shall be provided by the Warden for free time and recreational activities, including organised games, social activities, excursions and visits outside the place of safety under the supervision of staff. Home leave."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "(1) The Director shall grant leave of absence to a resident to enable him to visit his parents and relatives or, if in his opinion the grant of such leave is impracticable or undesirable, arrangements may be made by the Superintendent for the resident to utilise his period of leave with a suitable foster-family as the Director may approve.\n\n(2) The resident shall be examined by a medical officer as soon as practicable after the resident's return to the place of safety. Correspondence."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "(1) Every resident shall be encouraged to meet his parents, guardians or near relatives at least once a month.\n\n(2) Every resident shall be allowed to receive letters from his parents, guardians, relatives and friends unless circumstances make it impracticable or undesirable.\n\n(3) The Warden may open and examine any letter or parcel sent or received by a resident. Visits."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "Every resident shall be allowed to receive visits from his parents, guardians and relatives unless circumstances make such visits impracticable or undesirable. Suspension of privileges."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "chapter": {
+    "en": "PART VI"
+   },
+   "text": {
+    "en": "( 1 J The Warden may suspend any privilege conferred on a resident by these Regulations if he is satisfied that it interferes or is likely to interfere with the discipline of the place of safety.\n\n(2) Any suspension of privileges under sub-regulation Ill shall be recorded in the resident's personal case file and in a register kept for that purpose.\n\nRECORDS TO BE KEPT AND MAINTAINED Records."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "chapter": {
+    "en": "PART VII"
+   },
+   "text": {
+    "en": "The records required to be kept and maintained under these Regulations are{a} a register of admissions and discharges, including{i) the name and home address of each resident admitted, or the home address of at least one parent or guardian of each resident admitted; and {ii) the address at which or the means by which the parent, guardian or nearest relative of the resident admitted may be informed in cases of illness or other emergency while the resident is in the place of safety; {b) a medical record in which shall be recorded particulars of changes in the growth and development of each resident including particulars of immunisation, illnesses or accidents occurring and 1 action taken in respect thereof; {c) a daily register of the presence or absence of each resident; {d) a case file of each resident in which shall be kept all relevant documents including his case history; {e) a property book for the residents wherein shall be recorded every possession brought into the place of safety by a resident, a description of the item, its approximate monetary value and the method of disposal thereof on the discharge of the resident; {f) a log book in which shall be entered every event of importance connected with the place of safety; {g) a book to record comments given by a member of the Board; {h) a register of all gifts presented by the public to the place of safety; {i) a punishment book; {j) an inventory of all property in the place of safety; {k) such other records as may be directed by the Director.\n\nADMISSION Admission."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "text": {
+    "en": "No resident shall be admitted to or discharged from a place of safety except in accordance with the provisions of any written law or as otherwise approved by the Director. Custody of property of resident."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "text": {
+    "en": "(1) All monies, documents, jewellery, clothing and other personal effects belonging to a resident which are not allowed to be retained by him shall be placed in the custody of the Warden who shall keep an inventory of belongings in the property book kept under regulation 45{e).\n\n(2) Every inventory shall be signed or authenticated by the resident and the Warden and witnessed by a member of the staff.\n\n(3) All items placed in the custody of the Warden under sub-regulation !1) shall be returned to the resident on his discharge from the place of safety. Acquainting resident with duties and privileges."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A48",
+   "no": 48,
+   "noLabel": {
+    "en": "Section 48."
+   },
+   "chapter": {
+    "en": "PART VIII"
+   },
+   "text": {
+    "en": "(1) Upon the admission of a resident into the place of safety, the Warden shall as far as practicable acquaint the resident with the objectives of the place of safety, his duties and privileges and shall assign him to a dormitory. {2) Upon a resident being assigned to a dormitory, the member of the staff who is the officer-in-charge of that dormitory shall help the resident to settle down.\n\nCARE OF RESIDENTS Furniture, equipment and clothing provided for residents."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A49",
+   "no": 49,
+   "noLabel": {
+    "en": "Section 49."
+   },
+   "chapter": {
+    "en": "PART IX"
+   },
+   "text": {
+    "en": "[1) Every resident shall be provided with {a} a separate cot or bed; {b) adequate toilet facilities; {c) suitable clothing and such other personal effects as approved by the Director.\n\n(2) A sufficient quantity of toys or equipment for play activities considered suitable by the Director shall be provided in a place of safety.\n\n(3) Cots, beds and bedding shall be washable and of suitable types and designs and shall be maintained in a clean condition.\n\n(4) The bedding of each resident shall be kept under hygienic conditions. Safety and cleanliness of premises etc."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A50",
+   "no": 50,
+   "noLabel": {
+    "en": "Section 50."
+   },
+   "chapter": {
+    "en": "PART IX"
+   },
+   "text": {
+    "en": "{ 1) The premises, furniture, furnishings, fittings and equipment in a place of safety, and the toys and materials to which the residents have access therein, shall be maintained in a safe, clean and serviceable condition.\n\n(2) Any hazard to the safety of the residents in a place of safety shall, so far as is reasonably practicable, be removed or made inaccessible to the residents. {3) Smoking or spitting in a place of safety is forbidden. Diet."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A51",
+   "no": 51,
+   "noLabel": {
+    "en": "Section 51."
+   },
+   "chapter": {
+    "en": "PART IX"
+   },
+   "text": {
+    "en": "( 1) Each resident shall be provided with sufficient and varied food based on a dietary scale recommended by a dietician and approved by the Director.\n\n(2) The dietary scale shall include a menu appropriate to the age and health of each resident.\n\n(3) Proper arrangements shall be made for the preparation, cooking and serving of food as required by religion or custom.\n\n(4) A copy of the dietary scale and menu shall be posted in the kitchen, in the dining hall and in the office of the place of safety. Instruction and facilities for religious observance."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A52",
+   "no": 52,
+   "noLabel": {
+    "en": "Section 52."
+   },
+   "chapter": {
+    "en": "PART IX"
+   },
+   "text": {
+    "en": "Instruction and facilities for religious observance shall be provided for all Muslim residents. Providing living skills, educational and vocational training and employment."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A53",
+   "no": 53,
+   "noLabel": {
+    "en": "Section 53."
+   },
+   "chapter": {
+    "en": "PART IX"
+   },
+   "text": {
+    "en": "(1) A social treatment plan shall be drawn up by the Superintendent for each resident and no resident shall be allowed to engage in any activity that does not form part of this plan, which shall be drawn up to include opportunities for the resident's physical, mental, socio-emotional and language development.\n\n(2) A programme catering to the specific needs of each individual preschool resident shall be planned to promote total development.\n\n(3) Residents who have attained school-going age shall attend a recognised school outside the place of safety, unless there are circumstances which make it impossible or impractical for them to do so.\n\n(4) Educational and vocational training of the residents shall, so far as practicable, be directed towards their preparation for proficiency in a particular type of skill or employment, taking into consideration the capacity and preference of each resident and the type of employment likely to be available for his future. Wherever practicable, the parent or guardian shall be consulted.\n\n(5) The Superintendent shall be responsible for seeing that the usual progress reports are received for each resident who attends school or undergoes vocational training and that these reports are placed in the resident's case file.\n\n(6) Educational and vocational training programmes shall be approved by the Director and may include such training outside the place of safety as circumstances permit.\n\n(7) The employment of a resident shall require the approval of the Director and no resident shall be employed in such a way as to impair his capacity for profiting by instruction or to deprive him of reasonable recreation and leisure, and his employment shall be in accordance with any written law relating to the employment of children. (8} A personal record of terms, hours, place and nature of work shall be kept for each resident who is receiving employment or training in employment outside the place of safety. The Superintendent may cause these records to be made available for inspection by the resident's parents or guardians or by such other persons as he may approve. Involvement of parents or guardians."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A54",
+   "no": 54,
+   "noLabel": {
+    "en": "Section 54."
+   },
+   "chapter": {
+    "en": "PART IX"
+   },
+   "text": {
+    "en": "The Superintendent of a place of safety shall as far as possible keep constantly in touch with the parents or guardians of every resident to ensure their understanding and co·operation with regard to the welfare, health, education or training, behaviour and progress of their resident.\n\nDAILY TIMETABLE OF ACTIVITIES Daily timetable."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A55",
+   "no": 55,
+   "noLabel": {
+    "en": "Section 55."
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "text": {
+    "en": "(1} The daily timetable of a place of safety, including the hours of rising and retiring, educational and vocational training, domestic work, meals, leisure and recreation, indoor and outdoor activities, shall be approved by the Director.\n\n(2) A copy of the daily timetable shall be posted on the main notice·board, in the dining hall and in the office of the place of safety.\n\n(3) Any substantial deviation from the daily timetable shall be entered in the log book and a written notification thereof shall be sent forthwith by the Warden to the Superintendent. Daily activities."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A56",
+   "no": 56,
+   "noLabel": {
+    "en": "Section 56."
+   },
+   "chapter": {
+    "en": "PART X"
+   },
+   "text": {
+    "en": "The programme of daily activities of a place of safety, including outdoor activities organised by the place of safety, shall - {a) be supervised by a member of the staff; {b) be appropriate to the ages and abilities of the residents concerned and provide opportunities for their development; and\n\n(c) include opportunities for periods of indoor and outdoor activities and periods of undisturbed rest.\n\nUNAUTHORISED ABSENCE OR ESCAPE Reporting of unauthorised absence or escape."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A57",
+   "no": 57,
+   "noLabel": {
+    "en": "Section 57."
+   },
+   "chapter": {
+    "en": "PART XI"
+   },
+   "text": {
+    "en": "(1) The Superintendent shall, within 24 hours of its discovery, report any unauthorised absence or escape of any resident from the place of safety to the police, Director, Community Development Officer of the area in which the resident lives, parent, guardian or nearest relative, and chairman of the Board.\n\n(2) If any resident runs away or escapes from his home during holidays or home leave, the parents or guardians shall immediately make a report to the Superintendent and the police.\n\nDISCIPLINE AND PUNISHMENT Discipline."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A58",
+   "no": 58,
+   "noLabel": {
+    "en": "Section 58."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "The discipline of residents in a place of safety shall be based on moral guidance and shall be promoted by a system of rewards and privileges. Punishment which may be inflicted."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A59",
+   "no": 59,
+   "noLabel": {
+    "en": "Section 59."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "Where punishment is necessary for the maintenance of discipline, it shall consist of forfeiture of rewards and privileges, or suspension from games or recreational activities. Punishment book."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A60",
+   "no": 60,
+   "noLabel": {
+    "en": "Section 60."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "( 1) The Warden shall be responsible for the immediate recording of any punishment in the punishment book kept under regulation 45(i} and shall enter therein such particulars as may be required by the Director.\n\n(2) The punishment book shall be examined by the Board at each meeting and shall be signed by the chairman of the Board or the member presiding at that meeting.\n\n(3) The punishment book shall be available for inspection at all times by the Director or his representative. No resident to punish another resident."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A61",
+   "no": 61,
+   "noLabel": {
+    "en": "Section 61."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "No resident shall be allowed to administer any form of punishment to any other resident. Corporal or humiliating punishment prohibited."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A62",
+   "no": 62,
+   "noLabel": {
+    "en": "Section 62."
+   },
+   "chapter": {
+    "en": "PART XII"
+   },
+   "text": {
+    "en": "(1) No corporal punishment shall be administered by any member of the staff.\n\n(2) Any member of the staff committing a breach of sub-regulation {1) shall be liable to disciplinary action.\n\n(3) In sub-regulation (1), \"corporal punishment\" includes striking, punching, slapping, cuffing, shaking or any other form of physical violence.\n\nREVIEWS AND DISCHARGES Panel of Reviews and Discharges."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A63",
+   "no": 63,
+   "noLabel": {
+    "en": "Section 63."
+   },
+   "chapter": {
+    "en": "PART XIII"
+   },
+   "text": {
+    "en": "[ 1) The Panel of Reviews and Discharges shall consist of the Superintendent or his representative, the Warden and the member of the staff in charge of the resident concerned. {2) The Panel shall meet at least three times a year.\n\n(3) The Warden shall prepare a progress report on each resident at least once every 3 months for review by the Panel.\n\n(4) At each review the Panel shall consider the date on which the resident will be fit to be discharged, and the recommendations of the Panel with regard to the discharge of the resident shall be forwarded to the Director for his approval. The Director shall consult the Panel prior to giving his approval under this subregulation.\n\n(5) In the case where a resident is to be discharged into the care of a foster family, the Community Development Officer concerned shall conduct a study on the suitability of the family and the home concerned with a view to receiving the resident.\n\n(6) The Panel shall maintain a review and discharge register showing the date and result of its review of each case and the reasons for its decision. Aftercare."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A64",
+   "no": 64,
+   "noLabel": {
+    "en": "Section 64."
+   },
+   "chapter": {
+    "en": "PART XIII"
+   },
+   "text": {
+    "en": "When the discharge of a resident has been duly authorised, either by the Panel or through the order of a court, the Superintendent shall make arrangements for the discharge and aftercare of the resident after consulting the Community Development Officer or any person responsible for his aftercare, who shall be given all relevant information and assistance necessary for the aftercare of the resident.\n\nGENERAL Exemption."
+   }
+  },
+  {
+   "id": "BN-S-33-2010-CHILDREN-AND-YOUNG-PERSONS-PLACE-OF-SAFETY-291CB9-A65",
+   "no": 65,
+   "noLabel": {
+    "en": "Section 65."
+   },
+   "chapter": {
+    "en": "PART XIV"
+   },
+   "heading": {
+    "en": "CHILDREN AND YOUNG PERSONS ORDER, 2006"
+   },
+   "text": {
+    "en": "The Minister may, upon the recommendation of the Director and by notification published in the Gazette, exempt any place of safety from all or any of the provisions of these Regulations, if he is satisfied that having regard to any special circumstances it is desirable to do so, for such time and on such conditions as the Minister may specify in the notification. Made this 11th. day of Rabiulawal, 1431 · Hijriah corresponding to the 25th. day of February, 2010.\n\nPEHIN ORANG KAYA SETIA PAHLAWAN DATO SERI SETIA DR. A WANG HAJI AHMAD BIN HAJI JUMAT Minister of Culture, Youth and Sports, Brunei Darussalam."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CHILDREN AND YOUNG PERSONS PLACE OF SAFETY REGULATIONS 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

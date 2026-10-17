@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-115-2020-BRUNEI-MALAY-SILVERSMITHS-GUILD-INCORPOR-DA6504",
  "title": {
-  "zh": null,
+  "zh": "文莱马来银匠公会法人法",
   "en": "Brunei Malay Silversmiths Guild Incorporation Act",
   "orig": null
  },
@@ -137,5 +137,13 @@
     "en": "The provisions of the Companies Act (Chapter 39) do not apply to the"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Brunei Malay Silversmiths Guild Incorporation Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

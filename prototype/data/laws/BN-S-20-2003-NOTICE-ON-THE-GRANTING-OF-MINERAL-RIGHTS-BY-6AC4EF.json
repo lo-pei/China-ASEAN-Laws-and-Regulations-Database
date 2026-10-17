@@ -1,7 +1,7 @@
 {
  "id": "BN-S-20-2003-NOTICE-ON-THE-GRANTING-OF-MINERAL-RIGHTS-BY-6AC4EF",
  "title": {
-  "zh": null,
+  "zh": "苏丹陛下会同枢密院授予矿权通知",
   "en": "NOTICE ON THE GRANTING OF MINERAL RIGHTS BY HIS MAJESTY THE SULTAN AND YANG DI PERTUAN IN COUNCIL",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "8th. MAY, 2003 No. S 20\n\nBRUNEI NATIONAL PETROLEUM COMPANY\n\nSENDIRIAN BERHAD ORDER, 2002 (S 6/2002) Notice of amendment of the granting of mineral rights by His Majesty the Sultan and Yang Di-Pertuan in Council pursuant to section 3(1) It is hereby notified that His Majesty the Sultan and Yang Di-Pertuan in Council has, pursuant to subsection Ill of section 3, on the 14th. day of April, 2003 amended the designated area referred to as Block J - {a} by inserting immediately after the coordinates referred to as J05, the following coordinates - \";and {b) by inserting immediately after the coordinates referred to as JK08, the following coordinates JK09 432,000.000 645,ooo.ooo 1 , Dated this 14th. day of April, 2003.\n\nPEHIN ORANG KAYA PEKERMA JAYA\n\nDATO PADUKA HAJIJUDIN BIN HAJI ASAR Clerk to the Council of Ministers, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTICE ON THE GRANTING OF MINERAL RIGHTS BY HIS MAJESTY THE SULTAN AND YANG DI PERTUAN IN COUNCIL",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

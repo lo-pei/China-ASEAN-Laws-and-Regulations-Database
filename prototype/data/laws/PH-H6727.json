@@ -1,7 +1,7 @@
 {
  "id": "PH-H6727",
  "title": {
-  "zh": null,
+  "zh": "进一步界定反贪法院管辖权、为此修订经修正的第 1606 号总统法令、提供经费并为其他目的法案",
   "en": "An Act Further Defining the Jurisdiction of the Sandiganbayan, Amending for the Purpose Presidential Decree No. 1606, as Amended, Providing Funds Therefor, and for Other Purposes",
   "orig": "An Act Further Defining the Jurisdiction of the Sandiganbayan, Amending for the Purpose Presidential Decree No. 1606, as Amended, Providing Funds Therefor, and for Other Purposes"
  },
@@ -140,5 +140,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Defining the Jurisdiction of the Sandiganbayan, Amending for the Purpose Presidential Decree No. 1606, as Amended, Providing Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

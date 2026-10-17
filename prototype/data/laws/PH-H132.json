@@ -1,7 +1,7 @@
 {
  "id": "PH-H132",
  "title": {
-  "zh": null,
+  "zh": "批准菲律宾共和国政府与美国政府1946年9月11日签订的协定，授权接受、管理、出售与处置剩余财产并为此拨款的法案",
   "en": "An Act to Approve the Agreement Entered into Between the Government of the Republic of the Philippines and the Government of the United States of America, Dated September Eleventh, Nineteen Hundred and Forty-Six; to Authorize the Acceptance, Administration, Sale, and Disposition of the Surplus Property Acquired Thereunder; and to Appropriate the Necessary Funds for the Purpose",
   "orig": "An Act to Approve the Agreement Entered into Between the Government of the Republic of the Philippines and the Government of the United States of America, Dated September Eleventh, Nineteen Hundred and Forty-Six; to Authorize the Acceptance, Administration, Sale, and Disposition of the Surplus Property Acquired Thereunder; and to Appropriate the Necessary Funds for the Purpose"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 27, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Approve the Agreement Entered into Between the Government of the Republic of the Philippines and the Government of the United States of America, Dated September Eleventh, Nineteen Hundred and Forty-Six; to Authorize the Acceptance, Administration, Sale, and Disposition of the Surplus Property Acquired Thereunder; and to Appropriate the Necessary Funds for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

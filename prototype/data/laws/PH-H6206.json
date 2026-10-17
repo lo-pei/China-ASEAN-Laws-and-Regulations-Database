@@ -1,7 +1,7 @@
 {
  "id": "PH-H6206",
  "title": {
-  "zh": null,
+  "zh": "将奎松省第四区Atimonan市镇Atimonan第一区国立中学由国立中学改为国立综合中学，名称为Atimonan国立综合中学，并为其运营与维护拨款的法案",
   "en": "An Act Providing for the Change of Status of the Atimonan Zone I National High School in the Municipality of Atimonan, Fourth District of Quezon, From National High School to National Comprehensive High School, to Be Known as the Atimonan National Comprehensive High School, and Appropriating Funds for the Operation and Maintenance Thereof",
   "orig": "An Act Providing for the Change of Status of the Atimonan Zone I National High School in the Municipality of Atimonan, Fourth District of Quezon, From National High School to National Comprehensive High School, to Be Known as the Atimonan National Comprehensive High School, and Appropriating Funds for the Operation and Maintenance Thereof"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, May 19, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Change of Status of the Atimonan Zone I National High School in the Municipality of Atimonan, Fourth District of Quezon, From National High School to National Comprehensive High School, to Be Known as the Atimonan National Comprehensive High School, and Appropriating Funds for the Operation and Maintenance Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2947",
  "title": {
-  "zh": null,
+  "zh": "将苏禄省 Jolo市镇 Jolo 中央小学的名称变更为Mohammad Tulawie 中央小学的法案",
   "en": "An Act Changing the Name of the Jolo Central Elementary School in the Municipality of Jolo, Province of Sulu, to Mohammad Tulawie Central Elementary School",
   "orig": "An Act Changing the Name of the Jolo Central Elementary School in the Municipality of Jolo, Province of Sulu, to Mohammad Tulawie Central Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1962."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Jolo Central Elementary School in the Municipality of Jolo, Province of Sulu, to Mohammad Tulawie Central Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

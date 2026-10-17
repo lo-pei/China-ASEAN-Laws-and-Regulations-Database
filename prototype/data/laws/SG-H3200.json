@@ -1,7 +1,7 @@
 {
  "id": "SG-H3200",
  "title": {
-  "zh": null,
+  "zh": "商船（海员工资分配）条例",
   "en": "Merchant Shipping (Seamen’s Allotments) Regulations",
   "orig": null
  },
@@ -126,5 +126,13 @@
     "en": "THE SCHEDULE\nRegulation 6\nForm of allotment note\nMERCHANT SHIPPING ACT\n(CHAPTER 179)\nMERCHANT SHIPPING (SEAMEN’S ALLOTMENTS) REGULATIONS\nSEAMEN’S ALLOTMENT NOTE\n(A separate form must be used for each allotment)\nI, (name of seaman), employed in (name of ship and official number) require you (name and address of employer) to pay to (names and addresses of person to whom the allotment is made) the sum of (amount of each payment) on (date of first payment) and at intervals of (intervals at which payments are to be made) and thereafter until (number of payments*) payments have been made or until the agreement under which I am now employed is terminated or until 7 days after I have given notice in writing of revocation of this allotment note to you or to the master of my ship, whichever shall be the earlier.\nSigned: (Signature of seaman)\nDate:\nACKNOWLEDGMENT BY EMPLOYER OR MASTER\nI acknowledge receipt of this note.\n**My agreement to its issue is not required under the Regulations or I agree to its issue.\nSigned:(Signature of master, employer or other person on behalf of the employer of the seaman)\nDate:\n*Leave blank if number of payments is not to be limited.\n**Delete whichever is not applicable."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Merchant Shipping (Seamen’s Allotments) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

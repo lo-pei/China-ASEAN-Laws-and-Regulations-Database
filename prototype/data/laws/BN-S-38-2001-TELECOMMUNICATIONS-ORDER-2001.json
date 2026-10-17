@@ -1,7 +1,7 @@
 {
  "id": "BN-S-38-2001-TELECOMMUNICATIONS-ORDER-2001",
  "title": {
-  "zh": null,
+  "zh": "电信命令 2001",
   "en": "TELECOMMUNICATIONS ORDER 2001",
   "orig": null
  },
@@ -1094,5 +1094,13 @@
     "en": "(1) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved by JTB in relation to telecommunication under the repealed Act shall, so far as it is not inconsistent with the this Order and except as otherwise expressly provided in this Order or in any other written law, continue and be deemed to have been prepared, made, or approved by the Authority under the corresponding provisions of this\n\n(2) Any subsidiary legislation made under the repealed Act or any other law relating to telecommunication matters and in force immediately the appointed day shall, so far as it is not inconsistent with the provisions of this Order, continue in force as if made under this Order until it is revoked or repealed by subsidiary legislation made under this Order. Made this 16th. day of Safar, 1422 Hijriah corresponding to the lOth. day of May, 2001 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TELECOMMUNICATIONS ORDER 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

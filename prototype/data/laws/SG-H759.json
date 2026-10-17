@@ -1,7 +1,7 @@
 {
  "id": "SG-H759",
  "title": {
-  "zh": null,
+  "zh": "社区纠纷解决（权力与职责限制）条例 2025",
   "en": "Community Disputes Resolution (Limitation of Powers and Duties) Regulations 2025",
   "orig": null
  },
@@ -101,5 +101,13 @@
    },
    "status": "repealed"
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Community Disputes Resolution (Limitation of Powers and Duties) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

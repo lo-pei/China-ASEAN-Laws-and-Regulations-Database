@@ -1,7 +1,7 @@
 {
  "id": "SG-H231",
  "title": {
-  "zh": null,
+  "zh": "养老金上诉审裁处成员的委任",
   "en": "Appointment of Members of the Pensions Appeal Tribunal",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Singapore Armed Forces Act\n(Chapter 295)\nand\nSingapore Armed Forces\n(Pensions) Regulations (Rg 9 — regulation 13)\nAppointment of Members of the Pensions Appeal Tribunal\nN 3\nREVISED EDITION 2001\n(31st January 2001)\n[9th June 1989]\nThe Armed Forces Council has appointed —\n(a)the Permanent Secretary and the Deputy Secretary of the Ministry of Defence; and\n(b)the Director of the Public Service Division of the Prime Minister’s Office,\nto be members of the Pensions Appeal Tribunal."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Members of the Pensions Appeal Tribunal",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

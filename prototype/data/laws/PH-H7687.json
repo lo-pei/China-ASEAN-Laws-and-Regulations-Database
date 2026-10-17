@@ -1,7 +1,7 @@
 {
  "id": "PH-H7687",
  "title": {
-  "zh": null,
+  "zh": "设立新的奎松第二区工程办公室，设于卢塞纳市，并为此拨款的法案",
   "en": "An Act Establishing a New Quezon Second District Engineering Office to Be Located in Lucena City and Appropriating Funds Therefor",
   "orig": "An Act Establishing a New Quezon Second District Engineering Office to Be Located in Lucena City and Appropriating Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a New Quezon Second District Engineering Office to Be Located in Lucena City and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

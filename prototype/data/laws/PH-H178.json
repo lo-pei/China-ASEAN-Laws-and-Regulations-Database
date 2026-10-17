@@ -1,7 +1,7 @@
 {
  "id": "PH-H178",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾慈善彩票办公室在星期六下午举办带投注的赛马以用于慈善、救济与公益目的法案",
   "en": "An act to authorize the holding by the Philippine Charity Sweepstakes Office of Horse Races, with betting, on Saturday Afternoons, for charitable, relief and civic purposes",
   "orig": "An act to authorize the holding by the Philippine Charity Sweepstakes Office of Horse Races, with betting, on Saturday Afternoons, for charitable, relief and civic purposes"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: October 21, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act to authorize the holding by the Philippine Charity Sweepstakes Office of Horse Races, with betting, on Saturday Afternoons, for charitable, relief and civic purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

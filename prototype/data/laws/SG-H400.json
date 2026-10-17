@@ -1,7 +1,7 @@
 {
  "id": "SG-H400",
  "title": {
-  "zh": null,
+  "zh": "巴士服务业（保留与过渡）条例 2016",
   "en": "Bus Services Industry (Savings and Transitional) Regulations 2016",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nPublic bus services contracts\nS/No.\nContract reference\nContracted to\nDate of tender calling\nDate of contract award\n1.\nPT200 — Bulim Bus Package\nTower Transit Singapore Pte. Ltd.\n(Registration No. 201419417K)\n3 October 2014\n8 May 2015\n2.\nPT201 — Loyang Bus Package\nGo Ahead Loyang Pte. Ltd.\n(Registration No. 201541900C)\n15 April 2015\n23 November 2015\n3.\nVT371 — City Direct\nComfortDelGro Bus Pte. Ltd.\n(Registration No. 199607256W)\n6 February 2013\n13 June 2013\n4.\nVT387C — City Direct Bus Services\nRen Quan Transport\n(Registration No. 52896070M)\n13 June 2013\n9 November 2013\n5.\nVT387A — City Direct Bus Services\nComfortDelGro Bus Pte. Ltd.\n(Registration No. 199607256W)\n13 June 2013\n9 November 2013\n6.\nVT387E — City Direct Bus Services\nWoodlands Transport Service Pte Ltd\n(Registration No. 198102721M)\n13 June 2013\n9 November 2013\n7.\nVT387B — City Direct Bus Services\nLoh Gim Chong Transport\n(Registration No. 28195700B)\n13 June 2013\n9 November 2013\n8.\nVT387D — City Direct Bus Services\nTranstar Travel Pte Ltd\n(Registration No. 197601887E)\n13 June 2013\n9 November 2013\n9.\nPT162 — City Direct Bus Services\nAedge Holdings Pte. Ltd.\n(Registration No. 200509323E)\n26 November 2013\n3 February 2014\n10.\nPT221A — City Direct Bus Services\nAedge Holdings Pte. Ltd.\n(Registration No. 200509323E)\n9 February 2015\n21 July 2015\n11.\nPT221B — City Direct Bus Services\nBus Hub Service Pte. Ltd.\n(Registration No. 200505523H)\n9 February 2015\n21 July 2015\n12.\nPT 233A — City Direct Services\nTong Tar Transport Service Pte Ltd\n(Registration No. 197800458K)\n5 August 2015\n14 December 2015\n13.\nPT233B — City Direct Services\nBT&Tan Transport Pte. Ltd.\n(Registration No. 200205272G)\n5 August 2015\n14 December 2015\n14.\nPT171A — Peak Period Short Services\nComfortDelGro Bus Pte. Ltd.\n(Registration No. 199607256W)\n30 September 2013\n21 January 2014\n15.\nPT171B — Peak Period Short Services\nTong Tar Transport Service Pte Ltd\n(Registration No. 197800458K)\n30 September 2013\n21 January 2014\n16.\nPT171C — Peak Period Short Services\nCommute Solutions Group Pte Ltd/BT&Tan Transport Pte Ltd Joint Venture\n30 September 2013\n21 January 2014\n17.\nPT173A — Peak Period Short Services\nTravel GSH Pte Ltd\n(Registration No. 199205400K)\n23 December 2013\n1 April 2014\n18.\nPT173B — Peak Period Short Services\nWoodlands Transport Service Pte Ltd\n(Registration No. 198102721M)\n23 December 2013\n1 April 2014\n19.\nPT173C — Peak Period Short Services\nLoh Gim Chong Transport\n(Registration No. 28195700B)\n23 December 2013\n1 April 2014\n20.\nPT181A — Peak Period Short Services\nBus‑Plus Services Pte Ltd\n(Registration No. 199403524H)\n25 February 2014\n13 October 2014\n21.\nPT181B — Peak Period Short Services\nRui Feng Chartered Pte. Ltd.\n(Registration No. 200713472Z)\n25 February 2014\n13 October 2014"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Bus Services Industry (Savings and Transitional) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

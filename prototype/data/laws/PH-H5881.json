@@ -1,7 +1,7 @@
 {
  "id": "PH-H5881",
  "title": {
-  "zh": null,
+  "zh": "重组 Quedan 担保基金委员会，将其更名为 Quedan 与农村信贷担保公司，扩大其权力与资源以支持农民与农村企业，并为其他目的法案",
   "en": "An Act Reorganizing the Quedan Guarantee Fund Board, Renaming It as Quedan and Rural Credit Guarantee Corporation, Enlarging Its Powers and Resources to Support Farmers and Rural Enterprises, and for Other Purposes",
   "orig": "An Act Reorganizing the Quedan Guarantee Fund Board, Renaming It as Quedan and Rural Credit Guarantee Corporation, Enlarging Its Powers and Resources to Support Farmers and Rural Enterprises, and for Other Purposes"
  },
@@ -370,5 +370,13 @@
     "en": "Effectivity . - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reorganizing the Quedan Guarantee Fund Board, Renaming It as Quedan and Rural Credit Guarantee Corporation, Enlarging Its Powers and Resources to Support Farmers and Rural Enterprises, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

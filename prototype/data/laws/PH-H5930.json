@@ -1,7 +1,7 @@
 {
  "id": "PH-H5930",
  "title": {
-  "zh": null,
+  "zh": "将布拉干Baliuag的Baliuag区医院75张床位增至100张，以收治更多在该院就医患者的法案",
   "en": "An Act Increasing the Seventy-five-bed Capacity of the Baliuag District Hospital in Baliuag, Bulacan To One Hundred (100) To Accommodate More Patients Who Are Seeking Treatment in Said Hospital",
   "orig": "An Act Increasing the Seventy-five-bed Capacity of the Baliuag District Hospital in Baliuag, Bulacan To One Hundred (100) To Accommodate More Patients Who Are Seeking Treatment in Said Hospital"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Seventy-five-bed Capacity of the Baliuag District Hospital in Baliuag, Bulacan To One Hundred (100) To Accommodate More Patients Who Are Seeking Treatment in Said Hospital",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

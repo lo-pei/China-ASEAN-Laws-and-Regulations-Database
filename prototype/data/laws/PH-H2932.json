@@ -1,7 +1,7 @@
 {
  "id": "PH-H2932",
  "title": {
-  "zh": null,
+  "zh": "将南拉瑙省伦巴-巴亚包市镇鲁马亚斯小学的名称变更为达加兰吉特小学的法案",
   "en": "An Act Changing the Name of the Rumayas Elementary School in the Municipality of Lumba-Bayabao, Province of Lanao del Sur, to Dagalangit Elementary School",
   "orig": "An Act Changing the Name of the Rumayas Elementary School in the Municipality of Lumba-Bayabao, Province of Lanao del Sur, to Dagalangit Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1962."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Rumayas Elementary School in the Municipality of Lumba-Bayabao, Province of Lanao del Sur, to Dagalangit Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

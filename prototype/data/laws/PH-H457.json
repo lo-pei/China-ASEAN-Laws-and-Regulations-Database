@@ -1,7 +1,7 @@
 {
  "id": "PH-H457",
  "title": {
-  "zh": null,
+  "zh": "授权所有职业学校收取学费、接受私人捐助并向政府或私人银行及其他金融机构举借贷款，并为各校设立特别信托基金",
   "en": "An Act Authorizing All Vocational Schools to Collect Tuition Fees, Receive Contributions From Private Persons and Contract Loans From Government or Private Banks and Other Financial Institutions, and Creating a Special Trust Fund for Each Such School",
   "orig": "An Act Authorizing All Vocational Schools to Collect Tuition Fees, Receive Contributions From Private Persons and Contract Loans From Government or Private Banks and Other Financial Institutions, and Creating a Special Trust Fund for Each Such School"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 9, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing All Vocational Schools to Collect Tuition Fees, Receive Contributions From Private Persons and Contract Loans From Government or Private Banks and Other Financial Institutions, and Creating a Special Trust Fund for Each Such School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

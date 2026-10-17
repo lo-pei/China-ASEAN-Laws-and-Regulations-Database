@@ -1,7 +1,7 @@
 {
  "id": "PH-H2434",
  "title": {
-  "zh": null,
+  "zh": "豁免国际水稻研究所及其继承人对赠与税、特许权税、特定税、比例税、不动产交易税、进出口税及所有其他税的缴纳，并豁免其科学技术人员个人所得税的法案",
   "en": "An Act to Exempt the International Rice Research Institute or its Successors from the Payment of Gift, Franchise, Specific, Percentage, Real Property Exchange, Import, Export and All Other Taxes, and the Members of its Scientific and Technical Staff from the Payment of Income Tax",
   "orig": "An Act to Exempt the International Rice Research Institute or its Successors from the Payment of Gift, Franchise, Specific, Percentage, Real Property Exchange, Import, Export and All Other Taxes, and the Members of its Scientific and Technical Staff from the Payment of Income Tax"
  },
@@ -82,5 +82,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Exempt the International Rice Research Institute or its Successors from the Payment of Gift, Franchise, Specific, Percentage, Real Property Exchange, Import, Export and All Other Taxes, and the Members of its Scientific and Technical Staff from the Payment of Income Tax",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

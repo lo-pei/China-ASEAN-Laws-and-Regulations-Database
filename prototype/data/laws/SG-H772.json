@@ -1,7 +1,7 @@
 {
  "id": "SG-H772",
  "title": {
-  "zh": null,
+  "zh": "公司（豁免）命令 2002",
   "en": "Companies (Exemption) Order 2002",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The Minister hereby exempts a connected broker from section 48 of the Act in respect of any pre-deal research report distributed to any institutional investor subject to the following conditions:\n(a)the pre-deal research report must state —\n(i)the interest of the connected broker in the initial public offer of units in the relevant unit trust; and\n(ii)that the report is only for circulation to institutional investors;\n(b)the connected broker shall not use the pre-deal research report, or cause it to be used, for the purpose of determining the issue price or the number of units to be issued by the relevant unit trust;\n(c)the connected broker shall not disseminate the pre-deal research report, or cause it to be disseminated, in any manner other than in the form of numbered hard copies, and shall keep a record of the names of the recipients of the copies; and\n(d)the connected broker shall not disseminate the pre-deal research report, or cause it to be disseminated, during such period immediately before the initial public offer of units in the relevant unit trust as may be specified in writing by the Registrar."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Companies (Exemption) Order 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

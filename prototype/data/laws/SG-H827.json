@@ -1,7 +1,7 @@
 {
  "id": "SG-H827",
  "title": {
-  "zh": null,
+  "zh": "植物管制（罪行构成）规则",
   "en": "Control of Plants (Composition of Offences) Rules",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences may be compounded by the Director-General in accordance with section 47 of the Act:\n(a)an offence under section 7, 8, 10, 11(1) or (2), 21(6) or (7), 22(2), 25(3), 37(5) or 41 of the Act; and\n(b)any offence under any rules made under the Act.\n[S 295/2004 wef 01/06/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Control of Plants (Composition of Offences) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H363",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（认可审查机构要求豁免）命令",
   "en": "Building Control (Exemption from Accredited Checking Organisation Requirements) Order",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The building works referred to in paragraph 2 shall cease to be exempt from sections 16(5B) and 17(2) of the Act if, on or after 1st September 2001, the accredited checker appointed in respect of the building works —\n(a)ceases to be registered as an accredited checker under section 16 of the Act or has his registration as an accredited checker suspended or cancelled; or\n(b)ceases to be the accredited checker appointed in respect of those building works.\n[G.N. No. S 405/2001]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Control (Exemption from Accredited Checking Organisation Requirements) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

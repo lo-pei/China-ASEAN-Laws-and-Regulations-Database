@@ -1,7 +1,7 @@
 {
  "id": "PH-H9623",
  "title": {
-  "zh": null,
+  "zh": "将伊莎贝拉省 San Agustin 市镇 Sinaoangan Sur 描笼涯的 Dabubu 中学附属校从该校分离，改设为名为东南区中学的独立国立中学并拨款",
   "en": "An Act Separating the Dabubu High School - Annex in Barangay Sinaoangan Sur, Municipality of San Agustin, Province of Isabela From the Dabubu High School, Converting It Into An Independent National High School to be Known as Southeastern Region High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Dabubu High School - Annex in Barangay Sinaoangan Sur, Municipality of San Agustin, Province of Isabela From the Dabubu High School, Converting It Into An Independent National High School to be Known as Southeastern Region High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "- This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Dabubu High School - Annex in Barangay Sinaoangan Sur, Municipality of San Agustin, Province of Isabela From the Dabubu High School, Converting It Into An Independent National High School to be Known as Southeastern Region High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

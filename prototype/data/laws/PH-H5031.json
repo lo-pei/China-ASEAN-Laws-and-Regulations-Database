@@ -1,7 +1,7 @@
 {
  "id": "PH-H5031",
  "title": {
-  "zh": null,
+  "zh": "修订第 6030 号共和国法（即授予 Pilipino Telephone Corporation 在比科尔各省与民答那峨电话系统特许权的法案）的法案",
   "en": "An Act Amending Republic Act Numbered Six Thousand Thirty, Entitled \"An Act Granting the Pilipino Telephone Corporation a Franchise to Install, Operate and Maintain Telephone Systems in and Between the Provinces, Cities and Municipalities in the Bicol Provinces and Mindanao.\"",
   "orig": "An Act Amending Republic Act Numbered Six Thousand Thirty, Entitled \"An Act Granting the Pilipino Telephone Corporation a Franchise to Install, Operate and Maintain Telephone Systems in and Between the Provinces, Cities and Municipalities in the Bicol Provinces and Mindanao.\""
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H5031-A1_2",
+   "id": "PH-H5031-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Subject to the conditions established in this Act and the provisions of Commonwealth Act Numbered One hundred forty-six, as amended, and of the Constitution, applicable thereto, there is hereby granted the to the Pilipino Telephone Corporation, hereinafter called the grantee, its successors or assigns, for a period of twenty-five years from the approval of this Act, the right, privilege and authority to construct, maintain and operate telephone systems in Baguio City and in and between Baguio City and the following provinces, cities and municipalities including in and between all provinces, cities and municipalities traversed by the most feasible routes: the Municipality of Puerto Princesa, Province of palawan; Municipality of Masbate, Province of Masbate; Municipality of Pili, Province of Camarines Sur; Municipality of Jolo, Province of Sulu; Municipality of Aparri, Province of Cagayan; Olongapo City; Bataan Province; Municipality of Pagadian, Province of Zamboanga del Sur; and in and between the provinces, cities and municipalities in the Bicol Provinces, Southern Tagalog, Central Luzon, Ilocos and Mountain provinces; Eastern and Western Visayas, and Mindanao, it being understood that the grantee is authorized to construct, operate and maintain such exchanges and branch tributary lines with in the provinces, cities and municipalities traversed to correct the main systems, as public interest may warrant. The grantee is authorized to carry on the business of transmitting messages, signals, conversations pictures by means of electricity, laser beams, microwave, or other means now known to science or which in the future may be developed for the transmission of telecommunications, conversations, messages, pictures and signals in and between the said provinces, cities and municipalities, and connect systems of other countries and for the purpose of operating said telephone systems and transmitting telecommunications, messages, conversations, pictures, and signals by means of electricity laser beams, microwave and other means now known science or which in the future may be developed; to construct, maintain and operate and use all apparatus, conduits, appliances, receivers, transmitters, antennaes balloons, satellites, and equipment necessary for the transmission of messages, conversations, pictures and signals by means of electricity, laser beams, microwave, and other means now known to science or which in the future may be developed be developed; to erect poles, structures, string wires, build conduits, lay cables, float balloons; to construct, maintain, and use such other approved and generally accepted means of electrical, laser beams, microwave and other means, conduction in, on, over, or under the public roads, government right-of-way, lands, bridges, rivers cities, streets, lanes and sidewalks of said provinces, cities, and municipalities, and overhead or underground or submarine lines or on the surface of the ground or in the atmosphere as may be necessary and best adapted to said transmission: Provided, however , That all cables laid, all poles erected and all conduits constructed or used by the grantee, its successors or assigns, shall be located in places designated by said grantee, with the approval of the provincial or municipal board or council of the province, city or municipality concerned, and poles shall be erected in a workmanlike manner to the satisfaction of the said body: Provided, further , That the poles erected, wires and cables strung or conduits laid by virtue of this franchise shall be so placed as not to impair the efficient and effective transmission of messages and signals by any other company whose wires and cables are strung, or whose conduits are actually laid at the time that the poles are to be erected, wires and cables strung and conduits laid under and by virtue of his franchise: And provided, finally , That poles erected by the grantee shall be of such a height of at least ten feet above the level of the ground providing a height of at least fifteen feet in crossing roads or streets and shall be so placed as not to be a danger to public safety in accordance with a plan approved by the Secretary of Public Works and Communications.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5031-A3",
@@ -140,5 +141,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without the Executive approval, July 22, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Six Thousand Thirty, Entitled \"An Act Granting the Pilipino Telephone Corporation a Franchise to Install, Operate and Maintain Telephone Systems in and Between the Provinces, Cities and Municipalities in the Bicol Provinces and Mindanao.\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

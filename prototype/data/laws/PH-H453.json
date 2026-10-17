@@ -1,7 +1,7 @@
 {
  "id": "PH-H453",
  "title": {
-  "zh": null,
+  "zh": "豁免居住菲律宾的受益人依美国政府法规（由美国退伍军人管理局执行）所获福利免于让与、课税、债权人主张、扣押、征收或查封的法案",
   "en": "An Act Exempting From Assignment, Taxation, Claims of Creditors, Attachment, Levy or Seizure, Benefits Derived By Beneficiaries Residing in the Philippines Under Laws of the United States Administered By the United States Veterans Administration",
   "orig": "An Act Exempting From Assignment, Taxation, Claims of Creditors, Attachment, Levy or Seizure, Benefits Derived By Beneficiaries Residing in the Philippines Under Laws of the United States Administered By the United States Veterans Administration"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 9, 1949."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Exempting From Assignment, Taxation, Claims of Creditors, Attachment, Levy or Seizure, Benefits Derived By Beneficiaries Residing in the Philippines Under Laws of the United States Administered By the United States Veterans Administration",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

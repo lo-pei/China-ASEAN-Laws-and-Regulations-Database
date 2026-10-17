@@ -1,7 +1,7 @@
 {
  "id": "SG-H2185",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展利息及其他付款豁免）公告 2013",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2013",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) There shall be exempt from tax any payment made by a financial institution to a person who is not resident in Singapore and who does not have a permanent establishment in Singapore —\n(a)on over-the-counter financial derivatives, where the payment is liable to be made during the period from 20 May 2012 to 31 December 2031 (both dates inclusive) under —\n(i)a contract for such derivatives which took effect before 15th February 2007; or\n(ii)a contract for such derivatives which is extended or renewed, where the extension or renewal took effect before 15th February 2007;\n[S 328/2024 wef 04/11/2022]\n[S 575/2021 wef 01/04/2021]\n[S 587/2026 wef 09/09/2026]\n(b)on over-the-counter financial derivatives, where the payment is liable to be made under —\n(i)a contract for such derivatives which takes effect during the period from 20 May 2012 to 31 December 2031 (both dates inclusive); or\n[S 575/2021 wef 01/04/2021]\n[S 587/2026 wef 09/09/2026]\n(ii)a contract for such derivatives which is extended or renewed, where the extension or renewal takes effect during the period from 20 May 2012 to 31 December 2031 (both dates inclusive); and\n[S 575/2021 wef 01/04/2021]\n[S 328/2024 wef 04/11/2022]\n[S 587/2026 wef 09/09/2026]\n(c)on over-the-counter financial derivatives, where the payment is liable to be made under —\n(i)a contract for such derivatives which is varied, where the variation takes effect during the period from 4 November 2022 to 31 December 2031 (both dates inclusive); and\n[S 587/2026 wef 09/09/2026]\n(ii)the payment is made on or after the date on which the variation takes effect.\n[S 328/2024 wef 04/11/2022]\n[S 575/2021 wef 01/04/2021]\n(1A) The exemption under sub-paragraph (1) also applies where the payment by the financial institution is made to a person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore, where the payment is made under a contract for over-the-counter financial derivatives not entered into through that operation.\n[S 575/2021 wef 01/04/2021]\n(1B) However, the exemption under sub-paragraph (1) does not apply to a payment made on over-the-counter financial derivatives, where the payment is liable to be made —\n(a)under a contract for such derivatives mentioned in sub-paragraph (1)(b) or (c) that is varied with effect from a date on or after 1 January 2032; and\n[S 587/2026 wef 09/09/2026]\n(b)on or after the date on which the variation takes effect.\n[S 328/2024 wef 15/04/2024]\n(2) The exemption in respect of any payment under sub‑paragraph (1) or (1A) is subject to the following conditions:\n(a)for a first payment on any over-the-counter financial derivatives by a financial institution (not being an approved Finance and Treasury Centre under section 43E of the Act) that is exempt from licensing or approval under any Act administered by the Authority, the financial institution shall submit to the Comptroller on or before the date of such payment —\n(i)a declaration that it is exempt from licensing or approval under any Act administered by the Authority from a specified date under a specified provision of the Act; and\n(ii)an undertaking —\n(A)to notify the Comptroller immediately when it ceases to be a financial institution (not being an approved Finance and Treasury Centre under section 43E of the Act) that is exempt from licensing or approval under any Act administered by the Authority; and\n(B)to comply with the obligations under sections 45 and 45A of the Act; and\n[S 328/2024 wef 31/12/2021]\n(b)for a payment on any over-the-counter financial derivatives, where the contract is entered into with a related party of the financial institution —\n(i)the transaction was carried out at arm’s length; and\n(ii)the financial institution shall submit a declaration to the Comptroller that the transaction referred to in sub‑paragraph (i) was carried out at arm’s length, together with its tax return for the year of assessment for the basis period during which the payment was made.\n[S 575/2021 wef 01/04/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

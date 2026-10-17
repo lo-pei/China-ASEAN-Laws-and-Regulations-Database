@@ -1,7 +1,7 @@
 {
  "id": "PH-H2125",
  "title": {
-  "zh": null,
+  "zh": "将南甘马粦省Ragay市镇的中学改设为Ragay国立农村中学的法案",
   "en": "An Act to Convert the Ragay High School in the Municipality of Ragay, Province of Camarines Sur, into a National Rural High School to be Known as the Ragay National Rural High School",
   "orig": "An Act to Convert the Ragay High School in the Municipality of Ragay, Province of Camarines Sur, into a National Rural High School to be Known as the Ragay National Rural High School"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Convert the Ragay High School in the Municipality of Ragay, Province of Camarines Sur, into a National Rural High School to be Known as the Ragay National Rural High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

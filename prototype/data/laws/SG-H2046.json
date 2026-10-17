@@ -1,7 +1,7 @@
 {
  "id": "SG-H2046",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 3 号）命令 2000",
   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2000",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. ASSAB Pacific Pte Ltd is hereby granted exemption from tax on the foreign dividends received in Singapore by the company from approved investments in a country outside Singapore, subject to the terms and conditions specified in the letter of approval dated 13th November 2000 addressed to the company."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2000",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

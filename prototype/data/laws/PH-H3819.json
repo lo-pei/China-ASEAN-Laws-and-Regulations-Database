@@ -1,7 +1,7 @@
 {
  "id": "PH-H3819",
  "title": {
-  "zh": null,
+  "zh": "授权财政部长经总统批准向国家自来水与下水道管理局垫付不超过3000万比索，以债券销售所得偿还，用于改善马尼拉及郊区供水系统",
   "en": "An Act Authorizing the Secretary of Finance, with the Approval of the President of the Philippines, to Advance to the National Waterworks and Sewerage Authority Sums not Exceeding Thirty Million Pesos to be Reimbursed Out of the Proceeds from the Sale of Bonds to Finance the Pesos Counterpart Requirement of the Loan of Twenty Million Two Hundred Thousand Dollars from the International Bank for Reconstruction and Development, for the Improvement of the Manila and Suburbs Water System, and for Other Purposes",
   "orig": "An Act Authorizing the Secretary of Finance, with the Approval of the President of the Philippines, to Advance to the National Waterworks and Sewerage Authority Sums not Exceeding Thirty Million Pesos to be Reimbursed Out of the Proceeds from the Sale of Bonds to Finance the Pesos Counterpart Requirement of the Loan of Twenty Million Two Hundred Thousand Dollars from the International Bank for Reconstruction and Development, for the Improvement of the Manila and Suburbs Water System, and for Other Purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 2, 1966"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Secretary of Finance, with the Approval of the President of the Philippines, to Advance to the National Waterworks and Sewerage Authority Sums not Exceeding Thirty Million Pesos to be Reimbursed Out of the Proceeds from the Sale of Bonds to Finance the Pesos Counterpart Requirement of the Loan of Twenty Million Two Hundred Thousand Dollars from the International Bank for Reconstruction and Development, for the Improvement of the Manila and Suburbs Water System, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

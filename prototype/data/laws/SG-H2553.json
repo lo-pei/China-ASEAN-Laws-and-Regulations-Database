@@ -1,7 +1,7 @@
 {
  "id": "SG-H2553",
  "title": {
-  "zh": null,
+  "zh": "所得税（Trafigura 控股私人有限公司依第 13（12）条享有的豁免）命令 2023",
   "en": "Income Tax (Trafigura Holdings Pte Ltd — Section 13(12) Exemption) Order 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividend income received in Singapore by Trafigura Holdings Pte Ltd (a company incorporated in Singapore) after 1 December 2019 from Cortes Investments S.á.r.l. (a company incorporated in Luxembourg), which is in turn derived from the profits of any of the following companies, is exempt from tax:\n(a)Galena Asset Management (Asia) Pte Ltd (a company incorporated in Singapore);\n(b)Puma Energy Holdings Pte Ltd (a company incorporated in Singapore);\n(c)Trafigura Pte Ltd (a company incorporated in Singapore);\n(d)Trafigura Overseas Project Pte Ltd (a company incorporated in Singapore).\n(2) Dividend income received in Singapore by Trafigura Holdings Pte Ltd after 1 December 2019 from Trafigura Holdings Limited (a company incorporated in Malta), which is in turn derived from the profits of Pan‑African Soleil Holdings Pte Ltd (a company incorporated in Singapore), is exempt from tax.\n(3) The exemptions in sub-paragraphs (1) and (2) are subject to the conditions specified in the letters from the Ministry of Finance dated 29 August 2023 and 3 October 2023, and addressed to KPMG Services Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Trafigura Holdings Pte Ltd — Section 13(12) Exemption) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

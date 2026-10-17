@@ -1,7 +1,7 @@
 {
  "id": "PH-H144",
  "title": {
-  "zh": null,
+  "zh": "规定省、市、市镇民选职位定期选举的日期，以及接替1947年12月30日任期届满者的八名参议员选举日期的法案",
   "en": "An act to fix the date of the Regular Elections for Elective Provincial, City and Municipal Offices, and of the election of the Eight Senators who will succeed those whose term of office will expire on December Thirtieth, Nineteen Hundred and Forty-Seven",
   "orig": "An act to fix the date of the Regular Elections for Elective Provincial, City and Municipal Offices, and of the election of the Eight Senators who will succeed those whose term of office will expire on December Thirtieth, Nineteen Hundred and Forty-Seven"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: October 3, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act to fix the date of the Regular Elections for Elective Provincial, City and Municipal Offices, and of the election of the Eight Senators who will succeed those whose term of office will expire on December Thirtieth, Nineteen Hundred and Forty-Seven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

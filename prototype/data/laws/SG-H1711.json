@@ -1,7 +1,7 @@
 {
  "id": "SG-H1711",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（辅助生殖服务）条例 2023",
   "en": "Healthcare Services (Assisted Reproduction Service) Regulations 2023",
   "orig": null
  },
@@ -1136,5 +1136,13 @@
     "en": "THE SCHEDULE\nRegulation 4\nSpecified services\n1.Pre‑implantation genetic testing of an embryo to determine whether the embryo has any monogenic defect, single gene defect or chromosomal structural rearrangements, including the performance of embryo biopsy for such testing"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (Assisted Reproduction Service) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

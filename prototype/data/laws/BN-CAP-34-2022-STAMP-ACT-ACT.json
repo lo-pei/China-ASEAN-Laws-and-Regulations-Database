@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-34-2022-STAMP-ACT-ACT",
  "title": {
-  "zh": null,
+  "zh": "印花税法",
   "en": "STAMP ACT ACT",
   "orig": null
  },
@@ -1355,5 +1355,13 @@
     "en": "His Majesty the Sultan and Yang Di-Pertuan in Council may make rules to carry out generally the purposes of this Act, and may by such rules prescribe the fines which shall in no case exceed $1,000 to be incurred on breach thereof. Description of Instrument Proper Stamp Duty"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "STAMP ACT ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

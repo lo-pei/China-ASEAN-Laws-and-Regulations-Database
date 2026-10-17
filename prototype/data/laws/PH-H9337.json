@@ -1,7 +1,7 @@
 {
  "id": "PH-H9337",
  "title": {
-  "zh": null,
+  "zh": "将依第 7398 号共和国法授予 Corona International, Inc. 的特许经营权再续展 25 年的法案",
   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Corona International, Inc. Under Republic Act No. 7398",
   "orig": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Corona International, Inc. Under Republic Act No. 7398"
  },
@@ -250,5 +250,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Corona International, Inc. Under Republic Act No. 7398",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4076",
  "title": {
-  "zh": null,
+  "zh": "授予 Feliciana E. Alvarez 在奎松市建设、维护和运营制冰厂与冷藏库并分销销售所制冰和提供冷藏服务的特许权法案",
   "en": "An Act Granting Feliciana E. Alvarez a Franchise to Construct, Maintain and Operate an Ice Plant and Cold Storages, and to Distribute and Sell Ice so Manufactured and Furnish Cold Storage Service in the City of Quezon",
   "orig": "An Act Granting Feliciana E. Alvarez a Franchise to Construct, Maintain and Operate an Ice Plant and Cold Storages, and to Distribute and Sell Ice so Manufactured and Furnish Cold Storage Service in the City of Quezon"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Feliciana E. Alvarez a Franchise to Construct, Maintain and Operate an Ice Plant and Cold Storages, and to Distribute and Sell Ice so Manufactured and Furnish Cold Storage Service in the City of Quezon",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

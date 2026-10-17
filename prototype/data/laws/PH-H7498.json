@@ -1,7 +1,7 @@
 {
  "id": "PH-H7498",
  "title": {
-  "zh": null,
+  "zh": "将邦阿西楠省阿辛安市镇与圣玛丽亚市镇的阿辛安-圣玛丽亚桥更名为Narciso Ramos桥的法案",
   "en": "An Act Renaming the Asingan-Sta. Maria Bridge in the Municipalities of Asingan and Sta. Maria in the Province of Pangasinan as the Narciso Ramos Bridge",
   "orig": "An Act Renaming the Asingan-Sta. Maria Bridge in the Municipalities of Asingan and Sta. Maria in the Province of Pangasinan as the Narciso Ramos Bridge"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Asingan-Sta. Maria Bridge in the Municipalities of Asingan and Sta. Maria in the Province of Pangasinan as the Narciso Ramos Bridge",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

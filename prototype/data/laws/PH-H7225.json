@@ -1,7 +1,7 @@
 {
  "id": "PH-H7225",
  "title": {
-  "zh": null,
+  "zh": "规定跨国公司地区总部、地区运营总部与地区仓库的条件、要求与许可要求，为此修订第 226 号行政命令（即 1987 年综合投资法典）若干条款的法案",
   "en": "An Act Providing for the Terms, Conditions and Licensing Requirements of Regional or Area Headquarters, Regional Operating Headquarters, and Regional Warehouses of Multinational Companies, amending for the Purpose Certain Provisions of Executive Order No. 226, otherwise known as the Omnibus Investments Code of 1987",
   "orig": "An Act Providing for the Terms, Conditions and Licensing Requirements of Regional or Area Headquarters, Regional Operating Headquarters, and Regional Warehouses of Multinational Companies, amending for the Purpose Certain Provisions of Executive Order No. 226, otherwise known as the Omnibus Investments Code of 1987"
  },
@@ -160,5 +160,13 @@
     "en": "Effectivity Clause. - This Act shall take effect after thirty (30) days following its full publication in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Terms, Conditions and Licensing Requirements of Regional or Area Headquarters, Regional Operating Headquarters, and Regional Warehouses of Multinational Companies, amending for the Purpose Certain Provisions of Executive Order No. 226, otherwise known as the Omnibus Investments Code of 1987",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3208",
  "title": {
-  "zh": null,
+  "zh": "商船（培训、认证与配员）条例",
   "en": "Merchant Shipping (Training, Certification and Manning) Regulations",
   "orig": null
  },
@@ -598,5 +598,13 @@
     "en": "SECOND SCHEDULE\nRegulations 13 and 14\nMinimum manning scale\nPART A — DECK OFFICERS\nCOLUMN 1\nCOLUMN 2\nCOLUMN 31\nTRADING AREA\nDESCRIPTION OF SHIPS IN TONS\nMinimum number of qualified Deck Officers to be carried\nClass 1\nClass 2\nClass 3\nClass 4 (Home-Trade)\nClass 5 (Home-Trade)\nClass 4 (Special Limit)\nClass 5 (Special Limit)\nClass 6\nSPECIAL LIMIT\nBelow 100\n12 3\n100 and above but below 500\n12\n13\n500 and above but below 3,000\n1\n13\n3,000 and above\n14\n13\nHOME-TRADE\nBelow 3,000\n1\n13\n3,000 and above\n14\n14 and 13\nFOREIGN-GOING\nBelow 3,000\n1\n1\n14 3\n3,000 and above\n1\n1\n13\n1 In lieu of any certificate listed in Column 3, a certificate considered equivalent under regulation 8, or recognised by the Director under regulation 9, of the principal Regulations may be provided.\n2 For passenger ship, at least 12 months seagoing service is required.\n3 If the number of officers is insufficient to ensure adequate rest periods for watchkeepers, additional officers must be provided.\n4 With no tonnage limitations.\nPART B — MARINE ENGINEER OFFICERS\nCOLUMN 1\nCOLUMN 2\nCOLUMN 31\nTRADING AREA\nRegistered Propulsion Power (Kilowatts) of Ships\nMinimum number of qualified Marine Engineer Officers to be carried\nSPECIAL LIMIT\nClass 1\nClass 2\nClass 3\nClass 4\nClass 5\nBelow 750\n12 3\n750 and above\n14\n12 3\nUNLIMITED\nBelow 750\n1\n13\n750 and above but below 1,500\n1\n25\n1,500 and above but below 3,000\n1\n1\n13\nAbove 3,000\n1\n1\n13\n1 In lieu of any certificate listed in Column 3, a certificate considered equivalent under regulation 8, or recognised by the Director under regulation 9, of the principal Regulations may be provided.\n2 Alternatively, a holder of a Class 5 (Special Limit) Certificate of Competency may be provided.\n3 If the number of officers is insufficient to ensure adequate rest periods for watchkeepers, additional officers must be provided.\n4 Alternatively, a holder of a Class 4 (Special Limit) Certificate of Competency may be provided.\n5 Not less than 2 officers must be provided but —\n(a) additional officers must be provided if 2 is insufficient to ensure adequate rest periods for watchkeepers; and\n(b) at least one of the officers must have an endorsement on his Class 5 Certificate of Competency which qualifies the holder to serve as Second Engineer on ships below 1500 kW propulsion power; or, in substitution of such an officer, an officer holding a Class 4 Certificate of Competency must be provided, in addition to the officer or (where appropriate) officers holding a Class 5 Certificate of Competency.\n[S 681/2011 wef 01/01/2012]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Training, Certification and Manning) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

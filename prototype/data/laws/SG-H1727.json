@@ -1,7 +1,7 @@
 {
  "id": "SG-H1727",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（国立大学医院（新加坡）私人有限公司——豁免）命令 2023",
   "en": "Healthcare Services (National University Hospital (Singapore) Pte Ltd — Exemption) Order 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to the conditions in sub-paragraph (2), the National University Hospital (Singapore) Pte Ltd (called in this paragraph the licensee) is exempt from section 24(2), (7)(b) and (8)(a) of the Act in relation to the appointment of a suitably qualified individual as a Clinical Governance Officer for the licensee’s provision of a radiological service.\n(2) The exemption under sub-paragraph (1) is subject to the following conditions:\n(a)the licensee appoints Professor Khong Pek‑Lan (called in this sub‑paragraph the appointee) to perform all the functions of a Clinical Governance Officer prescribed in relation to the licensee’s provision of a radiological service;\n(b)the appointee is and remains a suitable person within the meaning of section 24(3)(a) of the Act at all times during the term of her appointment and the term of the licensee’s licence to provide a radiological service;\n(c)the appointee possesses the qualifications, skills and competencies prescribed in regulation 6(1)(a) and (b) of the Healthcare Services (Clinical Laboratory Service and Radiological Service) Regulations 2021 (G.N. No. S 1036/2021) at all times during the term of her appointment and the term of the licensee’s licence to provide a radiological service;\n(d)the licensee ensures that the appointee complies at all times with the requirements and obligations imposed on a Clinical Governance Officer under the Act during the term of her appointment and the term of the licensee’s licence to provide a radiological service."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Healthcare Services (National University Hospital (Singapore) Pte Ltd — Exemption) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

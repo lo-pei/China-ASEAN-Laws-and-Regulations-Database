@@ -1,7 +1,7 @@
 {
  "id": "SG-H1279",
  "title": {
-  "zh": null,
+  "zh": "外国人力雇佣（工作灵活性工作准证豁免）公告 2013",
   "en": "Employment of Foreign Manpower (Job Flexibility Work Pass Exemption) Notification 2013",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Subject to sub-paragraph (4), section 12(1)(a)(i) of the Act shall not apply to invalidate the work permit of a foreign employee by reason only that the foreign employee is employed in an additional occupation not specified in his work permit if —\n(a)the foreign employee is from an approved source;\n(b)the foreign employee is issued with and in possession of a work permit which specifies services sector;\n(c)the foreign employee continues to be employed in the occupation specified in his work permit; and\n(d)the additional occupation that the foreign employee is employed in is an occupation within the services sector.\n(2) Subject to sub-paragraph (4), a foreign employee referred to in sub-paragraph (1) shall be exempt from the requirement in paragraph 1 of Part VI of the Fourth Schedule to the Employment of Foreign Manpower (Work Passes) Regulations 2012 (G.N. No.S 569/2012) that he shall work only in the occupation specified in his work permit.\n(3) Subject to sub-paragraph (4), the employer specified in the work permit of a foreign employee referred to in sub-paragraph (1) shall be exempt from the requirement in paragraph 3 of Part IV of the Fourth Schedule to the Employment of Foreign Manpower (Work Passes) Regulations 2012 that he shall employ the foreign employee in only the occupation specified in the work permit of the foreign employee.\n(4) The exemptions in sub-paragraphs (1), (2) and (3) shall not apply in the case where the work permit of a foreign employee specifies his occupation as a domestic worker, conservancy worker or performing artiste."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Employment of Foreign Manpower (Job Flexibility Work Pass Exemption) Notification 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

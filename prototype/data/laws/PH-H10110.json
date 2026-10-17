@@ -1,7 +1,7 @@
 {
  "id": "PH-H10110",
  "title": {
-  "zh": null,
+  "zh": "将依第 8339 号共和国法（经第 9215 号共和国法修正）授予 Air Philippines Corporation 的特许经营权再续展二十五年的法案",
   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Air Philippines Corporation, Doing Business Under Name and Style of Airphil Express, Pal Express, and Philippine Airlines, Under Republic Act No. 8339, as Amended by Republic Act No. 9215, Entitled \"An Act Granting Air Philippines Corporation (Air Philippines) a Franchise to Establish, Operate and Maintain Domestic and International Air Transport Services\"",
   "orig": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Air Philippines Corporation, Doing Business Under Name and Style of Airphil Express, Pal Express, and Philippine Airlines, Under Republic Act No. 8339, as Amended by Republic Act No. 9215, Entitled \"An Act Granting Air Philippines Corporation (Air Philippines) a Franchise to Establish, Operate and Maintain Domestic and International Air Transport Services\""
  },
@@ -141,14 +141,15 @@
    }
   },
   {
-   "id": "PH-H10110-A11_2",
+   "id": "PH-H10110-A11-d2",
    "no": 11,
    "noLabel": {
     "en": "Section 11."
    },
    "text": {
     "en": "Sale, Lease, Transfer, Grant of Usufruct, or Assignment of Franchise. – The Grantee shall not sell, lease, transfer, grant the usufruct of, nor assign this franchise or the rights and privileges acquired thereunder to any person, firm, company, corporation or other commercial or legal entity, nor merge with any corporation or entity, nor shall the controlling interest of the Grantee be transferred, simultaneously or contemporaneously, to any person, firm, company, corporation, or entity without the prior approval of the Congress. The Grantee shall inform the Congress, through the Office of the Speaker of the House of Representatives and the Office of the Senate President, of any sale, lease, transfer, grant of usufruct, or assignment of franchise or the rights and privileges acquired thereunder, or of the merger or transfer of the controlling interest of the Grantee, within sixty (60) days after the completion of the said transaction. Failure to report to Congress such change of ownership shall render the franchise ipso facto revoked. Any person or entity to which this franchise is sold, transferred, or assigned shall be subject to the same conditions, terms, restrictions, and limitations of this Act."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10110-A12",
@@ -230,5 +231,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Air Philippines Corporation, Doing Business Under Name and Style of Airphil Express, Pal Express, and Philippine Airlines, Under Republic Act No. 8339, as Amended by Republic Act No. 9215, Entitled \"An Act Granting Air Philippines Corporation (Air Philippines) a Franchise to Establish, Operate and Maintain Domestic and International Air Transport Services\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

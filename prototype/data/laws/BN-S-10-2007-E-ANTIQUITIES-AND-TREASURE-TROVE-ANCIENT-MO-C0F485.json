@@ -1,7 +1,7 @@
 {
  "id": "BN-S-10-2007-E-ANTIQUITIES-AND-TREASURE-TROVE-ANCIENT-MO-C0F485",
  "title": {
-  "zh": null,
+  "zh": "古物与埋藏宝物（古代遗迹与历史遗址）命令 2007",
   "en": "ANTIQUITIES AND TREASURE TROVE ANCIENT MONUMENTS AND HISTORICAL SITES ORDER 2007",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "Publication of schedule of ancient monuments and historical sites.\n\nSCHEDULE\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE ANTIQUITIES AND TREASURE TROVE (ANCIENT MONUMENTS AND HISTORICAL SITES) ORDER, 2007 In exercise of the power conferred by section 17(2) of the Antiquities and Treasure 'frove Act, the Director of Museums, on the direction of and with the approval of His Majesty the Sultan and Yang Di-Pertuan in Council, hereby publishes the following Order - Citation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ANTIQUITIES AND TREASURE TROVE ANCIENT MONUMENTS AND HISTORICAL SITES ORDER 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

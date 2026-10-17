@@ -1,7 +1,7 @@
 {
  "id": "SG-H2743",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）命令 2025",
   "en": "Infrastructure Protection (Protected Places) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nHead of Training Facility\nDIGITAL DEVELOPMENT AND TRAINING FACILITY\nAll that area comprised in part of Lot 02298K in Mukim No. 1 occupied by “DIGITAL DEVELOPMENT AND TRAINING FACILITY” containing an area of about 1,026.7 square metres and bounded approximately as follows:\nCommencing at a point 29462.045 metres North and 26339.256 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n29462.045\n26339.256\n29463.929\n26332.358\n29464.211\n26332.436\n29464.315\n26332.056\n29466.660\n26332.689\n29467.070\n26331.168\n29463.974\n26330.314\n29463.534\n26331.908\n29461.016\n26331.213\n29463.491\n26322.196\n29461.467\n26321.651\n29461.517\n26321.465\n29458.969\n26320.788\n29458.840\n26321.272\n29459.456\n26321.436\n29459.058\n26322.917\n29449.043\n26320.178\n29449.108\n26319.938\n29448.373\n26319.737\n29448.279\n26320.084\n29446.315\n26319.547\n29446.357\n26319.394\n29446.014\n26319.300\n29455.772\n26283.330\n29456.027\n26283.399\n29456.075\n26283.223\n29467.831\n26286.421\n29465.838\n26293.666\n29466.108\n26293.740\n29466.108\n26293.742\n29468.837\n26294.494\n29466.372\n26303.543\n29468.454\n26304.111\n29468.975\n26302.213\n29480.814\n26305.451\n29480.747\n26305.696\n29481.841\n26305.995\n29481.934\n26305.653\n29483.570\n26306.100\n29483.530\n26306.245\n29483.860\n26306.335\n29474.112\n26342.326\n29473.832\n26342.250\n29473.783\n26342.431\nto the point of commencement.\nThe boundaries of “DIGITAL DEVELOPMENT AND TRAINING FACILITY” are more particularly delineated in the Survey Plan 24022/3000479373/GZ16/002 filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

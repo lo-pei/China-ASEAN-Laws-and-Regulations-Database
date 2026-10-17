@@ -1,7 +1,7 @@
 {
  "id": "SG-H321",
  "title": {
-  "zh": null,
+  "zh": "地界与测量图（电子传输）规则 2005",
   "en": "Boundaries and Survey Maps (Electronic Transmission) Rules 2005",
   "orig": null
  },
@@ -165,5 +165,13 @@
     "en": "THE SCHEDULE\nRule 3\nPart 1\nDocuments Which May Be Transmitted By\nSubscriber In The Form Of Electronic Record\n1. Application for lot number or SVY21 data.\n2. Survey plan, strata survey plan and strata title plan.\n3. Any document accompanying an application referred to in paragraph 1 or a plan referred to in paragraph 2.\n4. Any correspondence arising out of or in relation to an application referred to in paragraph 1 or a plan referred to in paragraph 2.\nPart 2\nDocuments Which May be Transmitted by\nChief Surveyor in the Form of\nElectronic Record\n1. Approval or refusal of approval of an application referred to in paragraph 1 of Part 1 or of a plan referred to in paragraph 2 of Part 1.\n2. Any advice, receipt, acknowledgment of directions or other correspondence arising out of or in relation to such application or plan.\n3. Directives, notices, circulars and other documents issued by the Chief Surveyor in relation to cadastral survey."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Boundaries and Survey Maps (Electronic Transmission) Rules 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

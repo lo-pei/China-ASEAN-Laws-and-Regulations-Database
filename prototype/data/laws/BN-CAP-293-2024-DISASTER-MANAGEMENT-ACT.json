@@ -1,0 +1,741 @@
+{
+ "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT",
+ "title": {
+  "zh": "灾害管理法",
+  "en": "DISASTER MANAGEMENT ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p22",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 47,
+ "chars": 28330,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-293-2024-ED-DISASTER-MANAGEMENT-ACT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-293-2024-ED-DISASTER-MANAGEMENT-ACT.pdf》（29 页），本次切分 47 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Disaster Management Act."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In this Act, unless the context requires otherwise — “Centre” means the National Disaster Management Centre established under section 16(1); “Chairman” means the Chairman of the Council referred to in “Council” means the National Disaster Council established under “declared area” means Brunei Darussalam or, if the disaster situation is declared for a part of Brunei Darussalam, that part; “declared disaster powers” means the powers of the Director under sections 30 and 31; “Director” means the Director of the Centre referred to in “disaster” has the meaning ascribed to it by section 4(1); “disaster management” has the meaning ascribed to it by section 5; “disaster management guidelines” means the guidelines referred to in “disaster operations” has the meaning ascribed to it by section 6; “disaster situation” means a disaster situation declared under “event” has the meaning ascribed to it by section 7(1); “members” means members of the Council; “Minister” means the Minister responsible for disaster management; “period” means the period for which the declaration of a disaster situation is in force; “place” includes land or premises and a vehicle; “Plan” means the National Disaster Management Plan referred to in “premises” includes a building or structure, or part of a building or structure, of any type; “rescue officer” means a police officer or any person authorised under section 27(1) to exercise declared disaster powers for a disaster “vehicle” means anything used for carrying anything or any person by land, water or air. Non-application of Act"
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "This Act does not authorise anyone to do, or make preparations to do, any of the following —\n\n(a) engage in armed combat against an enemy;\n\n(b) put down a riot or other civil disturbance;\n\n(c) end a strike or lockout.\n\nFURTHER DEFINITIONS"
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Meaning of “disaster”"
+   },
+   "text": {
+    "en": "(1) “Disaster” means a serious disruption in a community, caused by the impact of an event, that requires a significant co-ordinated response by Brunei Darussalam to help that community recover from that disruption.\n\n(2) In this section, “serious disruption” means —\n\n(a) loss of human life, or illness or injury to humans;\n\n(b) widespread or severe loss or damage to property; or\n\n(c) widespread or severe damage to the environment."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Meaning of “disaster management”"
+   },
+   "text": {
+    "en": "“Disaster management” means the arrangements concerned with managing the potential adverse effects of an event, such as arrangements for mitigating, preventing, preparing for, responding to and recovering from a Meaning of “disaster operations”"
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "“Disaster operations” means activities undertaken before, during or after an event to help reduce the loss of human life, illness or injury to humans, loss or damage to property, or damage to the environment, such as activities to mitigate the adverse effects of the event."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "(1) An “event” means any of the following —\n\n(a) a typhoon, earthquake, flood, storm, storm tide, tornado, tsunami, volcanic eruption or other natural happening;\n\n(b) an explosion or fire, a chemical, fuel or oil spill, or a gas leak;\n\n(c) an infestation, plague, pandemic or epidemic, such as a prevalence of avian flu;\n\n(d) a failure of, or disruption to, an essential service, premises or the infrastructure;\n\n(e) an attack against Brunei Darussalam or any other act that is prejudicial to or incompatible with the peace, public order, security or public interest of Brunei Darussalam;\n\n(f) any other event similar to an event mentioned in\n\n(a) to (e).\n\n(2) An “event” may be a natural event or caused by human acts or omissions.\n\nNATIONAL DISASTER COUNCIL"
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Establishment of Council"
+   },
+   "text": {
+    "en": "There is hereby established a Council known as the National Disaster"
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "text": {
+    "en": "The Council has the following functions —\n\n(a) to develop a strategic policy framework for disaster management for Brunei Darussalam;\n\n(b) to ensure effective disaster management is developed and implemented for Brunei Darussalam;\n\n(c) to ensure that regional and international arrangements concerning matters relating to effective disaster management are established and maintained;\n\n(d) to identify resources that may be used for disaster operations;\n\n(e) to reports and make recommendations to His Majesty the Sultan and Yang Di-Pertuan about matters relating to disaster management and disaster operations;\n\n(f) to prepare the Plan;\n\n(g) to exercise or perform any other function conferred or imposed on to the Council under this Act or under any other written law;\n\n(h) to decide on the assistance to be provided to any country or territory relating to disaster operations;\n\n(i) to decide on the assistance offered by any country or territory, organisation or individual;\n\n(j) to exercise or perform any function incidental to any function mentioned in paragraphs (a) to (i)."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "text": {
+    "en": "(1) The Council shall consist of a Chairman and such number of Deputy Chairmen and other members to be appointed by His Majesty the Sultan and Yang Di-Pertuan, notice of whose appointment shall be published Gazette.\n\n(2) The Minister, with the approval of His Majesty the Sultan and Yang Di-Pertuan, shall appoint a secretary to the Council, notice of whose appointment shall be published in the Gazette."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "quorum of meetings"
+   },
+   "text": {
+    "en": "(1) The Council shall meet at least once in every 6 months at such time and place as the Chairman may determine and at a meeting one-half of the members shall form a quorum.\n\n(2) The Chairman shall call a meeting if requested in writing to do so by at least one-half of the members.\n\n(3) The Council may invite any person, not being a member, to attend a meeting of the Council for the purpose of giving advice to the Council on any matter."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Presiding at meetings"
+   },
+   "text": {
+    "en": "(1) The Chairman shall preside at all meetings of the Council at which he is present.\n\n(2) If the Chairman is absent from a meeting of the Council, any one of the Deputy Chairmen, to be appointed by the Chairman, shall preside.\n\n(3) In (2), the Deputy Chairmen appointed under section 10(1)."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "heading": {
+    "en": "Conduct of business"
+   },
+   "text": {
+    "en": "(1) The Council may conduct its business and determine its own procedure, including its meetings, in the way it considers appropriate.\n\n(2) The Council shall cause proper records of its proceedings to be kept.\n\n(3) All acts done by the Council shall, notwithstanding any vacancy in the Council, be as valid as if no such vacancy had existed. Conduct of meetings"
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "text": {
+    "en": "(1) Subject to this Act, the Council may hold meetings, or allow members to take part in its meetings, by using any technology that reasonably allows members to hear and take part in discussions as they take\n\n(2) A member who takes part in a meeting of the Council under subsection (1) is taken to be present at the meeting.\n\n(3) A resolution is validly made by the Council, even if it is not passed at a meeting of the Council, if —\n\n(a) a majority of the members gives written agreement to the\n\n(b) notice of the resolution is given under procedures approved\n\n(4) In (1), the use of teleconferencing."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "text": {
+    "en": "(1) As soon as practicable after the end of each calender year, the Council shall prepare and submit to His Majesty the Sultan and Yang a in Brunei Darussalam.\n\n(2) The report shall include the following —\n\n(a) information about activities undertaken during that calender year to or in Brunei Darussalam;\n\n(b) details of disaster operations performed during that year;\n\n(c) information about priorities for disaster management;\n\n(d) such other matters about disaster management as the Minister considers appropriate."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "National Disaster Management Centre"
+   },
+   "text": {
+    "en": "(1) There is a as the National Disaster Management Centre to exercise or perform the following\n\n(a) to help the Council exercise or perform its functions;\n\n(b) to advise and make recommendations to the Council about matters relating to disaster management referred by the Council to the\n\n(c) to exercise or perform such other functions as the Council may determine, being incidental to a function mentioned in\n\n(a) or (b).\n\n(2) The Centre shall consist of a Director and such number of Deputy Directors and such other persons to be appointed by the Minister, with the approval of His Majesty the Sultan and Yang Di-Pertuan, notice of whose appointment shall be published in the Gazette.\n\n(3) The Director may delegate the exercise of any power or the performance of any duty conferred or imposed on him by this Act to a Deputy Director of the Centre or to such other members of the Centre, appointed under subsection (2), as he may think fit.\n\n(4) A delegation under subsection (3) may be made subject to such conditions as may be determined by the Director in the instrument of delegation.\n\n(5) The power of delegation under subsection (3) shall only be exercised by the Director personally. Functions of Director"
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "text": {
+    "en": "The Director has the following functions —\n\n(a) to regularly review and assess the effectiveness of disaster management including the Plan;\n\n(b) to establish and maintain regional and international arrangements concerning matters relating to effective disaster\n\n(c) to ensure that disaster management and disaster operations in Brunei Darussalam are consistent with the strategic policy framework for disaster management for Brunei Darussalam;\n\n(d) to manage and co-ordinate the business of the Council;\n\n(e) to co-ordinate assistance for disaster management and disaster operations, whether within or outside Brunei Darussalam;\n\n(f) to ensure that persons exercising or performing functions under this Act in relation to disaster operations are appropriately\n\n(g) to regularly report to the Council about the exercise or performance of his functions under paragraphs (a) to (f);\n\n(h) to support the Council in the exercise or performance of its"
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "National Disaster Management Plan"
+   },
+   "text": {
+    "en": "(1) The Council shall prepare the National Disaster Management Plan.\n\n(2) The Plan shall include provision for the following —\n\n(a) the Council’s strategic policy framework for disaster management for Brunei Darussalam;\n\n(b) the roles and responsibilities of persons involved in disaster operations and disaster management for Brunei Darussalam;\n\n(c) the co-ordination of disaster operations and activities relating to disaster management performed by the persons mentioned in\n\n(b);\n\n(d) events that are likely to, or which may, happen in Brunei Darussalam;\n\n(e) the priorities for for Brunei Darussalam;\n\n(f) the matters stated in the disaster management guidelines as matters to be included in the Plan;\n\n(g) such other matters concerning disaster management as the Council considers appropriate."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A19",
+   "no": 19,
+   "noLabel": {
+    "en": "Section 19."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Reviewing and renewing plan"
+   },
+   "text": {
+    "en": "The Council may review, or renew, the Plan when the Council considers it appropriate."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A20",
+   "no": 20,
+   "noLabel": {
+    "en": "Section 20."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "heading": {
+    "en": "Disaster management guidelines"
+   },
+   "text": {
+    "en": "The Director may prepare guidelines to inform the Council about matters relating to any of the following —\n\n(a) the preparation of the Plan;\n\n(b) the matters to be included in the Plan;\n\n(c) such other matters concerning the operation of the Centre which he considers appropriate having regard to disaster management for Brunei Darussalam. Public Response Plan"
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A21",
+   "no": 21,
+   "noLabel": {
+    "en": "Section 21."
+   },
+   "chapter": {
+    "en": "PART 5"
+   },
+   "text": {
+    "en": "(1) The Director shall prepare a Public Response Plan which shall consist of procedures to be followed by the public when a disaster situation is declared under section 22.\n\n(2) The Director may, with the approval of the Council, allow a copy of the Public Response Plan to be available, free of charge, to members of\n\n(a) the Centre’s head office; and\n\n(b) such other places as the Council considers appropriate.\n\n(3) The Plan may be made available in written or electronic form.\n\nDISASTER SITUATION"
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A22",
+   "no": 22,
+   "noLabel": {
+    "en": "Section 22."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "The Minister may declare a disaster situation for Brunei Darussalam, or part of Brunei Darussalam, if he is satisfied that —\n\n(a) a disaster has happened, is happening or is likely to happen, in Brunei Darussalam; and\n\n(b) it is necessary for the Director to exercise declared disaster powers to prevent or minimise any of the following —\n\n(i) loss of human life;\n\n(ii) illness or injury to humans;\n\n(iii) loss or damage to property;\n\n(iv) damage to the environment."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A23",
+   "no": 23,
+   "noLabel": {
+    "en": "Section 23."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Form and notice of declaration"
+   },
+   "text": {
+    "en": "(1) A declaration of a disaster situation under section 22 shall be in such form and manner as the Minister may determine.\n\n(2) Such form shall include provision for —\n\n(a) the time and date of the declaration; and\n\n(b) the declared area for the disaster situation.\n\n(3) As soon as practicable after the disaster situation has been declared, the Minister shall give notice of the declaration by notification published in the Gazette.\n\n(4) Such notification shall include —\n\n(a) the time and date of the declaration; and\n\n(b) details of the declared area for the disaster situation."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A24",
+   "no": 24,
+   "noLabel": {
+    "en": "Section 24."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "A disaster situation —\n\n(a) starts when it has been declared under section 22;\n\n(b) ends 7 days after the day it is declared, unless —\n\n(i) the Minister sooner ends the disaster situation under\n\n(ii) an order made under section 25(1) extends the period of the disaster situation beyond the end of the 7 days."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A25",
+   "no": 25,
+   "noLabel": {
+    "en": "Section 25."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Extending disaster situation"
+   },
+   "text": {
+    "en": "(1) The Minister may, by order, extend or further extend, the period of the disaster situation and shall publish such order in the Gazette as soon as\n\n(2) Notwithstanding the provisions of any other written law, an order made under subsection (1) commences on the day it is made whether or not it was published in the Gazette on that day.\n\n(3) An order extending the period of a disaster situation expires 14 days after the disaster situation was declared unless it is sooner repealed or unless it expires under section 26(4).\n\n(4) An order further extending the period of a disaster situation —\n\n(a) shall state the period, of not more than 7 days, by which the disaster situation is extended; and\n\n(b) expires at the end of the stated period unless it is sooner repealed or it expires under section 26(4)."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A26",
+   "no": 26,
+   "noLabel": {
+    "en": "Section 26."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "heading": {
+    "en": "Ending disaster situation"
+   },
+   "text": {
+    "en": "(1) As soon as the Minister is satisfied it is no longer necessary for the Director to exercise declared disaster powers for a disaster situation, the Minister shall end that disaster situation.\n\n(2) If the Minister ends the disaster situation under subsection (1), he\n\n(i) make a written record of the time and date the disaster situation ended; and\n\n(ii) immediately inform His Majesty the Sultan and Yang Di-Pertuan of the ending of the disaster situation and thereafter immediately inform the Director of the ending thereof.\n\n(3) The Minister shall, as soon as practicable, give notice of the ending of the disaster situation, and when it ended, by notification published Gazette.\n\n(4) An order extending or further extending a disaster situation expires when the disaster situation ends under this section. Authorisation for disaster situation"
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A27",
+   "no": 27,
+   "noLabel": {
+    "en": "Section 27."
+   },
+   "chapter": {
+    "en": "PART 6"
+   },
+   "text": {
+    "en": "(1) The Minister or the Director may authorise any of the following persons to exercise declared disaster powers for a disaster situation —\n\n(a) a fire officer;\n\n(b) a health officer;\n\n(c) any person or a member of a class of person the Minister or the Director is satisfied has the necessary expertise or experience to exercise those powers.\n\n(2) Any police officer may also exercise declared disaster powers for a disaster situation.\n\n(3) An authorisation under subsection (1) —\n\n(a) may be general or limited to a particular, or a particular class of, fire officer, health officer or other person;\n\n(b) may be given on conditions; and\n\n(c) may be given orally or in writing, but if given orally shall be put into writing as soon as reasonably practicable.\n\n(4) A failure to put an authorisation into writing under\n\n(c) does not invalidate the authorisation or anything done under it.\n\n(5) In this section — “fire officer” means any member of the Fire and Rescue of Brunei Darussalam referred to in section 2 of the Fire and Rescue Act (Chapter 82); “health officer” means any medical practitioner registered under the Medical Practitioners and Dentists Act (Chapter 112), any nurse registered under the Nurses Registration Act (Chapter 140) and any health officer as defined in section 2 of the Infectious Diseases Act (Chapter 204)."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A28",
+   "no": 28,
+   "noLabel": {
+    "en": "Section 28."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Directions about powers under other written law"
+   },
+   "text": {
+    "en": "(1) This section applies if there is a disaster situation.\n\n(2) The Minister or the Director may give directions about the circumstances in which a power under any other written law may be exercised during the period of the disaster situation, but shall not give directions about the way in which that power shall be exercised.\n\n(3) A direction under subsection (2) shall only be given —\n\n(a) to the person who may exercise the power under that written\n\n(b) if it is necessary for effective management of the disaster for which the disaster situation is declared. — The Minister may direct any appointed authority or inspector under the Prevention of Pollution of the Sea Order, 2005 (S 18/2005) to delay exercising any particular powers until the Minister considers it is appropriate in the circumstances for those powers to be If the disaster situation involves an outbreak of an infectious disease, the Minister may direct any health officer under the Infectious Diseases Act (Chapter 204) to delay exercising any particular powers until the Minister considers it is appropriate in the circumstances for those powers to be exercised.\n\n(4) A direction under subsection (2) may be —\n\n(a) general or limited to a particular class of person; and\n\n(b) given on conditions.\n\n(5) Before giving a direction under subsection (2) about the exercise of a power under any other written law, the Minister or the Director shall take reasonable steps to consult with the head of any department of Government, statutory body or other agency by which that written law is administered.\n\n(6) A failure to consult under subsection (5) does not affect the validity of the direction."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A29",
+   "no": 29,
+   "noLabel": {
+    "en": "Section 29."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Exercise of powers by Director"
+   },
+   "text": {
+    "en": "The Director may only exercise his powers given under sections 30, 31 and 32 —\n\n(a) during the period of a disaster situation; and\n\n(b) to do any of the following —\n\n(i) ensure public safety or public order;\n\n(ii) prevent or minimise loss of human life, or illness or injury to humans or animals;\n\n(iii) prevent or minimise loss or damage to property, or damage to the environment."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A30",
+   "no": 30,
+   "noLabel": {
+    "en": "Section 30."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "General powers of Director"
+   },
+   "text": {
+    "en": "(1) The Director may do all of the following —\n\n(a) control the movement of persons, animals or vehicles within, into, out of or around the declared area for the disaster situation;\n\n(b) give a direction to any person to regulate the movement of that person, an animal or a vehicle within, into, out of or around the\n\n(c) evacuate persons or animals from the declared area or a part\n\n(d) enter a place in the declared area;\n\n(e) take into a place in the declared area the equipment, persons or materials that he reasonably requires for exercising a power under\n\n(f) contain any animal or substance within the declared area;\n\n(g) remove or destroy any animal, vegetation or substance within the declared area;\n\n(h) remove, dismantle, demolish or destroy any vehicle, or any building or other structure, in the declared area;\n\n(i) use, close off or block a facility for drainage;\n\n(j) shut off or disconnect a supply of fuel, gas, electricity or water, and take and use the fuel, gas, electricity or water;\n\n(k) turn off, disconnect or shut down any motor or equipment;\n\n(l) open a container or other thing, or dismantle equipment;\n\n(m) excavate land or form tunnels;\n\n(n) build earthworks or temporary structures, or erect barriers;\n\n(o) close to traffic any road;\n\n(p) maintain, restore, or prevent destruction of, essential\n\n(q) require any person to give him reasonable help to exercise his powers under this section.\n\n(2) The Director may enter any place in the declared area without a warrant or the consent of the occupier of that place.\n\n(3) The Director may exercise a power under this section with the help, and using the force, that is reasonable in the circumstances.\n\n(4) When giving a direction or making a requirement mentioned in\n\n(b) or (q), the Director shall warn that person that it is an offence to fail to comply with that direction or requirement unless he has a reasonable excuse."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A31",
+   "no": 31,
+   "noLabel": {
+    "en": "Section 31."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Power to give direction about property"
+   },
+   "text": {
+    "en": "(1) The Director may direct in writing the owner, occupier or person having control and possession, as the case may be, of any property to put that property under the control, or at the disposal, of the person stated in the\n\n(2) When giving a direction under subsection (1), the Director shall warn that person that it is an offence to fail to comply with that direction unless he has a reasonable excuse."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A32",
+   "no": 32,
+   "noLabel": {
+    "en": "Section 32."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "Requirements for direction about property"
+   },
+   "text": {
+    "en": "A direction under section 31(1) shall include —\n\n(a) information about the nature of the disaster situation;\n\n(b) the identification of the property to which the direction\n\n(c) information about —\n\n(i) the purpose for which the property is to be used; and\n\n(ii) applying for compensation under this Act in relation to any loss or damage incurred because of the use of the\n\n(d) the provision of this Act under which the direction is given; and\n\n(e) a statement that the person to whom the direction is given shall comply with the direction."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A33",
+   "no": 33,
+   "noLabel": {
+    "en": "Section 33."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "heading": {
+    "en": "General powers of rescue officer"
+   },
+   "text": {
+    "en": "(1) During the period of a disaster situation, a rescue officer may take reasonable steps to protect —\n\n(a) a person who is trapped, or endangered in another way, in\n\n(b) himself or any other person from danger, potential danger or assault.\n\n(2) If it is reasonable in the circumstances, the rescue officer may do all of the following for the purpose of giving the protection mentioned in\n\n(a) enter a place using reasonable force;\n\n(b) search any part of a place;\n\n(c) open, using reasonable force, a container or any other thing;\n\n(d) remove any thing from a place;\n\n(e) destroy or damage premises, a vehicle, container or any other\n\n(f) take into or onto a place the equipment, persons or materials the rescue officer reasonably requires to exercise a power under this\n\n(g) direct any person to leave, or not to enter, an area in or near a place if the rescue officer reasonably considers the direction is necessary to protect that person’s life or health;\n\n(h) require any person at or near the place to give the rescue help to his\n\n(a) to (f).\n\n(3) When giving a direction or making a requirement mentioned in\n\n(g) or (h), the rescue officer shall warn that person that it is an offence to fail to comply with that direction or requirement unless he has a reasonable excuse. Provision about power of entry"
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A34",
+   "no": 34,
+   "noLabel": {
+    "en": "Section 34."
+   },
+   "chapter": {
+    "en": "PART 7"
+   },
+   "text": {
+    "en": "(1) A rescue officer may enter any place under section 33(1) without a warrant or the consent of the owner or occupier of the place.\n\n(2) However, if the occupier is present at that place, before entering that place, the rescue officer shall, or make a reasonable attempt to —\n\n(a) inform the occupier the purpose of the entry;\n\n(b) seek the consent of the occupier to the entry;\n\n(c) inform the occupier that the rescue officer is permitted under this Act to enter that place without the occupier’s consent.\n\n(3) Subsection (2) does not require the rescue officer to take a step that he reasonably believes may frustrate or otherwise hinder his ability to\n\n(a) a person who is trapped, or endangered in any other way, in\n\n(b) himself or any other person from danger, potential danger or assault."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A35",
+   "no": 35,
+   "noLabel": {
+    "en": "Section 35."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Personation of Director or rescue officer"
+   },
+   "text": {
+    "en": "(1) No person shall personate the Director or a rescue officer.\n\n(2) Any person who contravenes subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 3 years or both."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A36",
+   "no": 36,
+   "noLabel": {
+    "en": "Section 36."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Obstruction of Director or rescue officer"
+   },
+   "text": {
+    "en": "(1) No person shall obstruct the Director or a rescue officer in the exercise of any power unless he has a reasonable excuse.\n\n(2) If any person has obstructed the Director or a rescue officer and the Director or that rescue officer decides to proceed with the exercise of the power, he shall warn that person that —\n\n(a) it is an offence to obstruct him unless he has a reasonable\n\n(b) he considers that person’s conduct an obstruction.\n\n(3) In this section, “obstruct” includes assault, hinder, resist and attempt or threaten to obstruct.\n\n(4) Any person who contravenes subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 3 years or both."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A37",
+   "no": 37,
+   "noLabel": {
+    "en": "Section 37."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "heading": {
+    "en": "Failure to comply with direction"
+   },
+   "text": {
+    "en": "(1) Any person given a direction section 30(1)(b), 31(1) or 33(2)(g) shall comply with that direction unless he has a reasonable excuse.\n\n(2) Any person who fails to comply with subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 3 years or both. Failure to help Director or rescue officer"
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A38",
+   "no": 38,
+   "noLabel": {
+    "en": "Section 38."
+   },
+   "chapter": {
+    "en": "PART 8"
+   },
+   "text": {
+    "en": "(1) Any to give help\n\n(q) or 33(2)(h) shall comply with that requirement unless he has a reasonable excuse.\n\n(2) Any person who fails to comply with subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $10,000, imprisonment for a term not exceeding 3 years or both."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A39",
+   "no": 39,
+   "noLabel": {
+    "en": "Section 39."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Entitlement to compensation"
+   },
+   "text": {
+    "en": "Subject to the provisions of this Part, any person who suffers any loss or damage because of the exercise, or purported exercise, of any power under section 30, 31 or 33 is entitled to be paid by the Government just and reasonable compensation for that loss or damage."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A40",
+   "no": 40,
+   "noLabel": {
+    "en": "Section 40."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "When compensation is not payable"
+   },
+   "text": {
+    "en": "(1) Compensation is not payable to any person for any loss or damage to the extent that —\n\n(a) an amount for the loss or damage has been recovered or is recoverable by him under a policy of insurance; or\n\n(b) the conduct of that person contributed to the loss or damage.\n\n(2) Compensation is not payable to any person for any loss or damage if the loss or damage would have occurred in any event, irrespective of the exercise, or purported exercise, of the power."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A41",
+   "no": 41,
+   "noLabel": {
+    "en": "Section 41."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Applying for compensation"
+   },
+   "text": {
+    "en": "(1) Any person who suffers loss or damage because of the exercise, or purported exercise, of a power under section 30, 31 or 33 may apply to the Director for the Council’s decision with respect to the compensation for the\n\n(2) The application shall be made in writing not more than 90 days after the loss or damage was suffered.\n\n(3) The applicant shall provide —\n\n(a) details of the loss or damage; and\n\n(b) the amount of compensation claimed and the grounds for the amount claimed.\n\n(4) The applicant shall also provide any other information reasonably required by the Council to decide the application.\n\n(5) Notwithstanding subsection (2), the Council may accept an application for compensation made more than 90 days after the loss or damage was suffered if it is satisfied that it would be reasonable in all the circumstances to accept the application."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A42",
+   "no": 42,
+   "noLabel": {
+    "en": "Section 42."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Lapsing of application"
+   },
+   "text": {
+    "en": "(1) If the Council makes a requirement under section 41(4), it shall at that time inform the applicant —\n\n(a) of the time by which the information shall be provided to it; and\n\n(b) that, if the information is not given to it by that stated time, the application will lapse.\n\n(2) The time stated in subsection (1)(a) shall be reasonable and, in any case, at least 21 days after the requirement is made.\n\n(3) The Council may give the applicant a further notice extending or further extending the time if it is satisfied that it would be reasonable in all the circumstances to grant that extension or further extension.\n\n(4) A notice may be given under subsection (3) even if the time to which it relates has lapsed.\n\n(5) If the applicant does not comply with the requirement within the stated time or during the time of any extension or further extension, the application will lapse."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A43",
+   "no": 43,
+   "noLabel": {
+    "en": "Section 43."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Deciding application"
+   },
+   "text": {
+    "en": "(1) The Council shall consider and decide an accepted application within 3 months after it receives —\n\n(a) the application; or\n\n(b) any required information to decide the application, whichever is the later.\n\n(2) If the Council has not considered and decided an accepted application within the period mentioned in subsection (1), it is deemed to have refused to pay compensation.\n\n(3) In this section — “accepted application” means an application made under section 41(2) or an application accepted by the Council under section 41(5)."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A44",
+   "no": 44,
+   "noLabel": {
+    "en": "Section 44."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "Notice about decision"
+   },
+   "text": {
+    "en": "As soon as practicable after deciding an application, the Council shall give the applicant a written notice stating its decision and the reasons for it."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A45",
+   "no": 45,
+   "noLabel": {
+    "en": "Section 45."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "Any decision of the Council under this Part shall be final and shall not be called in question by any court on any ground whatsoever. Limitation of liability"
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A46",
+   "no": 46,
+   "noLabel": {
+    "en": "Section 46."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "heading": {
+    "en": "__________________________________"
+   },
+   "text": {
+    "en": "No action shall be brought against the Director, any rescue officer or any other person acting under the direction of the Council in respect of anything done or omitted to be done by any of them in good faith in the exercise, performance or purported exercise or performance, of any power or duty under this Act."
+   }
+  },
+  {
+   "id": "BN-CAP-293-2024-DISASTER-MANAGEMENT-ACT-A47",
+   "no": 47,
+   "noLabel": {
+    "en": "Section 47."
+   },
+   "chapter": {
+    "en": "PART 9"
+   },
+   "text": {
+    "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations which are necessary or expedient for giving effect to and carrying out the provisions of this Act, including the prescription of fees and of any other thing required to be prescribed under this Act, and for the due administration thereof.\n\n(2) Such regulations may include such incidental, consequential and supplementary provisions as the Minister considers necessary or expedient."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "DISASTER MANAGEMENT ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

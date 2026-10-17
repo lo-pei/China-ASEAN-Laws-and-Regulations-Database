@@ -1,7 +1,7 @@
 {
  "id": "PH-H6559",
  "title": {
-  "zh": null,
+  "zh": "授予 Asian-Pacific 广播公司在菲律宾建设、安装、运营和维护广播站的特许经营权法案",
   "en": "An Act Granting the Asian-pacific Broadcasting Company, Inc., a Franchise to Construct, Install, Operate and Maintain Broadcasting Stations in the Philippines",
   "orig": "An Act Granting the Asian-pacific Broadcasting Company, Inc., a Franchise to Construct, Install, Operate and Maintain Broadcasting Stations in the Philippines"
  },
@@ -200,5 +200,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Asian-pacific Broadcasting Company, Inc., a Franchise to Construct, Install, Operate and Maintain Broadcasting Stations in the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

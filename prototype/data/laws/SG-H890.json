@@ -1,7 +1,7 @@
 {
  "id": "SG-H890",
  "title": {
-  "zh": null,
+  "zh": "COVID-19（临时措施）（第 2 部分条文的修改）条例 2022",
   "en": "COVID-19 (Temporary Measures) (Modification of Part 2 Provisions) Regulations 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) For the purpose of section 1B(a) of the Act, the prescribed date for the descriptions of scheduled contracts mentioned in paragraph (3) is 1 November 2022.\n(2) For the purpose of section 1B(b) of the Act, the prescribed date is 1 November 2022.\n(3) For the purpose of section 1B(c) of the Act, a construction contract and a supply contract are prescribed as scheduled contracts to which sections 12(4) and 13(1A) of the Act apply."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "COVID-19 (Temporary Measures) (Modification of Part 2 Provisions) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

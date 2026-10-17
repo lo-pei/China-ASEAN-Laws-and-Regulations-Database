@@ -1,7 +1,7 @@
 {
  "id": "PH-H8639",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛省 San Joaquin 市镇 Bad-As 描笼涯的 Don Felix Serra 国立中学的 Bad-As 分校分离，改设为独立的同名国立中学，并为此拨款",
   "en": "An Act Separating the Don Felix Serra National High School - Bad-As Extension in Barangay Bad-As, Municipality of San Joaquin, Province of Iloilo From the Don Felix Serra National High School, Converting It Into An Independent National High School to Be Known as Bad-As National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Don Felix Serra National High School - Bad-As Extension in Barangay Bad-As, Municipality of San Joaquin, Province of Iloilo From the Don Felix Serra National High School, Converting It Into An Independent National High School to Be Known as Bad-As National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Don Felix Serra National High School - Bad-As Extension in Barangay Bad-As, Municipality of San Joaquin, Province of Iloilo From the Don Felix Serra National High School, Converting It Into An Independent National High School to Be Known as Bad-As National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

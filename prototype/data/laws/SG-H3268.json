@@ -1,7 +1,7 @@
 {
  "id": "SG-H3268",
  "title": {
-  "zh": null,
+  "zh": "跨国企业（最低税）法 2024",
   "en": "Multinational Enterprise (Minimum Tax) Act 2024",
   "orig": null
  },
@@ -1150,5 +1150,13 @@
     "en": "SECOND SCHEDULE\nSection 18(2) and (3)\n1. In section 18(2), the applicable percentage is —\n(a)for a financial year beginning in 2023, 10.0%;\n(b)for a financial year beginning in 2024, 9.8%;\n(c)for a financial year beginning in 2025, 9.6%;\n(d)for a financial year beginning in 2026, 9.4%;\n(e)for a financial year beginning in 2027, 9.2%;\n(f)for a financial year beginning in 2028, 9.0%;\n(g)for a financial year beginning in 2029, 8.2%;\n(h)for a financial year beginning in 2030, 7.4%;\n(i)for a financial year beginning in 2031, 6.6%;\n(j)for a financial year beginning in 2032, 5.8%; and\n(k)for a financial year beginning after 2032, 5.0%.\n2. In section 18(3), the applicable percentage is —\n(a)for a financial year beginning in 2023, 8.0%;\n(b)for a financial year beginning in 2024, 7.8%;\n(c)for a financial year beginning in 2025, 7.6%;\n(d)for a financial year beginning in 2026, 7.4%;\n(e)for a financial year beginning in 2027, 7.2%;\n(f)for a financial year beginning in 2028, 7.0%;\n(g)for a financial year beginning in 2029, 6.6%;\n(h)for a financial year beginning in 2030, 6.2%;\n(i)for a financial year beginning in 2031, 5.8%;\n(j)for a financial year beginning in 2032, 5.4%; and\n(k)for a financial year beginning after 2032, 5.0%."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Multinational Enterprise (Minimum Tax) Act 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

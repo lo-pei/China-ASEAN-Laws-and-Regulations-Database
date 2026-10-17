@@ -1,7 +1,7 @@
 {
  "id": "PH-H6887",
  "title": {
-  "zh": null,
+  "zh": "将南三宝颜省Margosatubig的Margosatubig区医院改设为区域医院，名称为Margosatubig区域医院，床位增至三百（300）张，并为此拨款的法案",
   "en": "An Act Converting the Margosatubig District Hospital in Margosatubig, Zamboanga Del Sur, Into a Regional Hospital to Be Known as Margosatubig Regional Hospital and to Increase the Bed Capacity to Three Hundred (300) Beds, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Margosatubig District Hospital in Margosatubig, Zamboanga Del Sur, Into a Regional Hospital to Be Known as Margosatubig Regional Hospital and to Increase the Bed Capacity to Three Hundred (300) Beds, and Appropriating Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Margosatubig District Hospital in Margosatubig, Zamboanga Del Sur, Into a Regional Hospital to Be Known as Margosatubig Regional Hospital and to Increase the Bed Capacity to Three Hundred (300) Beds, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

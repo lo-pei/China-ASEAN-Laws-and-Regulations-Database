@@ -1,7 +1,7 @@
 {
  "id": "PH-H6025",
  "title": {
-  "zh": null,
+  "zh": "将南莱特省Hinunangan市镇Hinunangan社区医院床位由10张增至25张，并将其升格为区医院，名称为Hinunangan区医院，并为此拨款",
   "en": "An Act Increasing the Bed Capacity of the Hinunangan Community Hospital in the Municipality of Hinunangan, Province of Southern Leyte, From Ten (10) To Twenty-five (25) Beds, Upgrading It Into A District Hospital To Be Known As the Hinunangan District Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Hinunangan Community Hospital in the Municipality of Hinunangan, Province of Southern Leyte, From Ten (10) To Twenty-five (25) Beds, Upgrading It Into A District Hospital To Be Known As the Hinunangan District Hospital, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Hinunangan Community Hospital in the Municipality of Hinunangan, Province of Southern Leyte, From Ten (10) To Twenty-five (25) Beds, Upgrading It Into A District Hospital To Be Known As the Hinunangan District Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

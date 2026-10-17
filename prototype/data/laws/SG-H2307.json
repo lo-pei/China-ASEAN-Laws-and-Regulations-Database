@@ -1,7 +1,7 @@
 {
  "id": "SG-H2307",
  "title": {
-  "zh": null,
+  "zh": "所得税（Marubeni ASEAN 私人有限公司依第 13（12）条享有的豁免）命令 2020",
   "en": "Income Tax (Marubeni ASEAN Pte Ltd — Section 13(12) Exemption) Order 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Dividend income received in Singapore by Marubeni ASEAN Pte Ltd (a company incorporated in Singapore) from MAPL Holdings B.V. (a company incorporated in the Netherlands) in the basis periods for the year of assessment 2017 and subsequent years of assessments is exempt from tax.\n(2) Dividend income received in Singapore by Marubeni ASEAN Pte Ltd (a company incorporated in Singapore) from Marubeni Foods Investment Asia Cooperatief U.A. (a company incorporated in the Netherlands) in the basis periods for the years of assessment 2015, 2016 and 2017 is exempt from tax.\n(3) The exemptions in sub-paragraphs (1) and (2) are subject to the conditions specified in the letter of approval dated 28 June 2019 addressed to Ernst & Young Solutions LLP."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Marubeni ASEAN Pte Ltd — Section 13(12) Exemption) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

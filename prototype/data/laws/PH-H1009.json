@@ -1,7 +1,7 @@
 {
  "id": "PH-H1009",
  "title": {
-  "zh": null,
+  "zh": "修订第393号行政令（即《中央吕宋农学院宪章》）若干条款的法案",
   "en": "An Act to Amend Certain Sections of Executive Order Numbered Three Hundred Ninety-Three, Otherwise Known as the Charter of the Central Luzon Agricultural College",
   "orig": "An Act to Amend Certain Sections of Executive Order Numbered Three Hundred Ninety-Three, Otherwise Known as the Charter of the Central Luzon Agricultural College"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of Executive Order Numbered Three Hundred Ninety-Three, Otherwise Known as the Charter of the Central Luzon Agricultural College",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

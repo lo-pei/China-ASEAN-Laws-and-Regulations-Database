@@ -1,7 +1,7 @@
 {
  "id": "PH-H6500",
  "title": {
-  "zh": null,
+  "zh": "宣布马林杜克省 Moriones 节为主要旅游景点的法案",
   "en": "An Act Declaring the Moriones Festival of the Province of Marinduque a Major Tourist Attraction",
   "orig": "An Act Declaring the Moriones Festival of the Province of Marinduque a Major Tourist Attraction"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the Moriones Festival of the Province of Marinduque a Major Tourist Attraction",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

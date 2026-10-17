@@ -1,7 +1,7 @@
 {
  "id": "PH-H378",
  "title": {
-  "zh": null,
+  "zh": "修订《修订行政法典》第1151条，增列拉乌尼翁省San Fernando为入境口岸并为此拨款的法案",
   "en": "An Act Amending Section Eleven Hundred and Fifty-One of the Revised Administrative Code, as Amended by Act Numbered Thirty-One Hundred and Six, and Commonwealth Acts Numbered One Hundred and Seventy-Five, Six Hundred and Sixty-Eight and Six Hundred and Seventy-Seven, by Adding San Fernando, Province of La Union, as Port of Entry, and Appropriating Funds Therefor",
   "orig": "An Act Amending Section Eleven Hundred and Fifty-One of the Revised Administrative Code, as Amended by Act Numbered Thirty-One Hundred and Six, and Commonwealth Acts Numbered One Hundred and Seventy-Five, Six Hundred and Sixty-Eight and Six Hundred and Seventy-Seven, by Adding San Fernando, Province of La Union, as Port of Entry, and Appropriating Funds Therefor"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Eleven Hundred and Fifty-One of the Revised Administrative Code, as Amended by Act Numbered Thirty-One Hundred and Six, and Commonwealth Acts Numbered One Hundred and Seventy-Five, Six Hundred and Sixty-Eight and Six Hundred and Seventy-Seven, by Adding San Fernando, Province of La Union, as Port of Entry, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

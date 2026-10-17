@@ -1,7 +1,7 @@
 {
  "id": "SG-H1413",
  "title": {
-  "zh": null,
+  "zh": "遗产税（相继死亡减免）命令 2005",
   "en": "Estate Duty (Remission for Deaths in Quick Succession) Order 2005",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 3(1)\nRates of remission of estate duty for deaths\nin quick succession\nPeriod between date of earlier death and date of later death\nPercentage of remission\n6 months or less\n100%\nMore than 6 months but not more than 12 months\n75%\nMore than 12 months but not more than 18 months\n50%\nMore than 18 months but not more than 24 months\n25%\nMore than 24 months\n0%"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Estate Duty (Remission for Deaths in Quick Succession) Order 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

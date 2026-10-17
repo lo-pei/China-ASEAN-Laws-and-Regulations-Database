@@ -1,7 +1,7 @@
 {
  "id": "PH-H1759",
  "title": {
-  "zh": null,
+  "zh": "关于设立宿务雇员、劳动者、渔民与农民住房公司的法案",
   "en": "An Act Creating the Cebu Employees Laborers, Fishermen and Peasants Housing Corporation",
   "orig": "An Act Creating the Cebu Employees Laborers, Fishermen and Peasants Housing Corporation"
  },
@@ -311,5 +311,11 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act Creating the Cebu Employees Laborers, Fishermen and Peasants Housing Corporation",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

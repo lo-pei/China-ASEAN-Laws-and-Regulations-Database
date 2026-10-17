@@ -1,7 +1,7 @@
 {
  "id": "PH-H10585",
  "title": {
-  "zh": null,
+  "zh": "进一步加强幼儿保育与发展系统，为此废止第 10410 号共和国法（即「2013 年幼儿期法」）并拨款的法案",
   "en": "An Act Further Strengthening the Early Childhood Care and Development System, Repealing For the Purpose Republic Act No. 10410, Otherwise Known As the ‘Early Years Act (EYA) of 2013’, and Appropriating Funds Therefor",
   "orig": "An Act Further Strengthening the Early Childhood Care and Development System, Repealing For the Purpose Republic Act No. 10410, Otherwise Known As the ‘Early Years Act (EYA) of 2013’, and Appropriating Funds Therefor"
  },
@@ -270,5 +270,13 @@
     "en": "Effectivity. - Notwithstanding the non-issuance of the IRR, this Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Strengthening the Early Childhood Care and Development System, Repealing For the Purpose Republic Act No. 10410, Otherwise Known As the ‘Early Years Act (EYA) of 2013’, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

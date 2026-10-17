@@ -1,7 +1,7 @@
 {
  "id": "SG-H2905",
  "title": {
-  "zh": null,
+  "zh": "释义（新加坡食品局——费用）命令 2023",
   "en": "Interpretation (Singapore Food Agency — Fees) Order 2023",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRegulation 3\nFees\nFirst column\nSecond column\nThird column\n1.Application for in‑principle LRP status\nApplicant\n$450\n2.Application for issue or renewal of LRP certificate of recognition\nApplicant\n$1,150\n3.A visit by one or more officers of the Agency to a laboratory to review an application mentioned in item 2 —\nApplicant for item 2\n(a)that does not exceed 4 hours\n$1,400\n(b)that exceeds 4 hours\n$2,300"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Interpretation (Singapore Food Agency — Fees) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

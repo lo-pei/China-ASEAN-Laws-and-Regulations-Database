@@ -1,7 +1,7 @@
 {
  "id": "SG-H3670",
  "title": {
-  "zh": null,
+  "zh": "吸烟（特定场所禁止）法 1992",
   "en": "Smoking (Prohibition in Certain Places) Act 1992",
   "orig": null
  },
@@ -272,5 +272,13 @@
     "en": "12. Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Commissioner of Public Health under any provision of this Act immediately before 1 July 2002 is deemed to have been issued, made, given or approved under the same provision by the Director‑General."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Smoking (Prohibition in Certain Places) Act 1992",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

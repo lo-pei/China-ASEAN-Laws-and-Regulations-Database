@@ -1,7 +1,7 @@
 {
  "id": "PH-H10382",
  "title": {
-  "zh": null,
+  "zh": "将保和省环岛公路重新命名为Carlos P. Garcia总统环岛公路的法案",
   "en": "An Act Renaming the Bohol Island Circumferental, which Commences in Barangay Poblacion III towards the North of the City of Tagbiliran, and returns to Barangay Poblacion III from Eastern Side of the City of Tagbilaran in the Province of Bohol, as the President Carlos P. Garcia Circumferential Road",
   "orig": "An Act Renaming the Bohol Island Circumferental, which Commences in Barangay Poblacion III towards the North of the City of Tagbiliran, and returns to Barangay Poblacion III from Eastern Side of the City of Tagbilaran in the Province of Bohol, as the President Carlos P. Garcia Circumferential Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Bohol Island Circumferental, which Commences in Barangay Poblacion III towards the North of the City of Tagbiliran, and returns to Barangay Poblacion III from Eastern Side of the City of Tagbilaran in the Province of Bohol, as the President Carlos P. Garcia Circumferential Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

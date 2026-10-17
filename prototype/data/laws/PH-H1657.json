@@ -1,7 +1,7 @@
 {
  "id": "PH-H1657",
  "title": {
-  "zh": null,
+  "zh": "在特定条件下豁免公司不当累积的利润与盈余缴纳附加公司所得税，为此修订《国家国内税收法典》第25条（a）项的法案",
   "en": "An Act Exempting Under Certain Conditions Profits and Surplus Improperly Accumulated by Corporations from the Additional Corporate Income Tax, Amending for the Purpose Subsection (a), Section Twenty-Five of the National Internal Revenue Code",
   "orig": "An Act Exempting Under Certain Conditions Profits and Surplus Improperly Accumulated by Corporations from the Additional Corporate Income Tax, Amending for the Purpose Subsection (a), Section Twenty-Five of the National Internal Revenue Code"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Exempting Under Certain Conditions Profits and Surplus Improperly Accumulated by Corporations from the Additional Corporate Income Tax, Amending for the Purpose Subsection (a), Section Twenty-Five of the National Internal Revenue Code",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H7702",
  "title": {
-  "zh": null,
+  "zh": "2003 年国家计量法",
   "en": "The National Metrology Act of 2003",
   "orig": "The National Metrology Act of 2003 An act establishing a National Measurement Infrastructure System (NMIS) for standards and measurements, and for other purposes"
  },
@@ -260,5 +260,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in at least two (2) newspapers of general circulation, whichever comes earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The National Metrology Act of 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-59-2013-SECURITIES-MARKETS-ORDER-2013",
  "title": {
-  "zh": null,
+  "zh": "证券市场命令 2013",
   "en": "SECURITIES MARKETS ORDER 2013",
   "orig": null
  },
@@ -3551,5 +3551,13 @@
     "en": "(1) Any subsidiary legislation, declaration or appointment made and any thing done under the repealed Orders and in force immediately prior to the commencement of this Order shall, so far as it is not inconsistent with the of this Order, continue to be in force as if made or done under this until it is amended, revoked or repealed under this Order. [2) Any permission, approval, endorsement, decision, notice, warrant, order, guidelines or other document prepared, made, granted, issued and any act or thing done or given under or pursuant to the repealed Orders and valid immediately prior to the commencement of this Order shall be deemed to have been prepared, made, granted, issued, done or given under or pursuant to the corresponding provisions of this Order and shall continue to have effect accordingly.\n\n(3) Any breach, contravention or non-compliance of the repealed Orders be deemed to be a breach, contravention or non-compliance of the corresponding provisions of this Order and the powers conferred on the Authority by this Order may be exercised in respect of any such breach, contravention or non-compliance.\n\n(4) Any enforcement process or proceedings commenced or pending immediately prior to the commencement of this Order in connection with any breach, contravention or non-compliance of or under the repealed Orders may be continued and disposed of under the repealed Order as if this Order has not been made.\n\n(5) Any reference in any written law to the repealed Order or any provision thereof shall, as from the commencement of this Order, be a reference to this or the corresponding provision of this Order.\n\n(6) Every regulated person under the repealed Orders shall comply with the provisions of this Order, within a period of one year of the commencement of this Order or until such later date as the Authority may determine."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SECURITIES MARKETS ORDER 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

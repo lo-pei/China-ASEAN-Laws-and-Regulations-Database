@@ -1,7 +1,7 @@
 {
  "id": "PH-H9892",
  "title": {
-  "zh": null,
+  "zh": "2019 年巡回法官法",
   "en": "Judges-at-Large Act of 2019",
   "orig": "Judges-at-Large Act of 2019"
  },
@@ -150,5 +150,13 @@
     "en": "Effectivity. — This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Judges-at-Large Act of 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

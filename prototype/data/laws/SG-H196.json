@@ -1,7 +1,7 @@
 {
  "id": "SG-H196",
  "title": {
-  "zh": null,
+  "zh": "动物与鸟类（第 48（1）条豁免）公告 2024",
   "en": "Animals and Birds (Exemption from Section 48(1)) Notification 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. A person who —\n(a)uses any premises as a pet shop, or for the exhibition of any animals or birds, in accordance with a valid licence issued under the Animals and Birds (Licensing of Premises for Pet Shop and Other Purposes) Rules (R 2);\n(b)keeps or maintains a farm for commercial purposes that relate to the sale, export or exhibition of any animals or birds, in accordance with a valid licence issued under the Animals and Birds (Licensing of Farms) Rules (R 3);\n(c)uses any premises for the sale or export of any pet animals or birds in accordance with a directive issued by the Director‑General under rule 7(2)(b) or (c) of the Animals and Birds (Licensing of Premises for Pet Shop and Other Purposes) Rules; or\n(d)keeps or maintains a farm for the sale or export of any animals or birds in accordance with a directive issued by the Director‑General under rule 10(2)(b) of the Animals and Birds (Licensing of Farms) Rules,\nis exempt from the requirement to obtain a licence in respect of those premises or the farm (as the case may be) for the keeping of animals and birds in captivity for the purposes under section 48(1) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Animals and Birds (Exemption from Section 48(1)) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

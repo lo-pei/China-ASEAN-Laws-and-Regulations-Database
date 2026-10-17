@@ -1,7 +1,7 @@
 {
  "id": "SG-H1146",
  "title": {
-  "zh": null,
+  "zh": "存款保险与保单持有人保障计划（额外保费缴款）命令 2011",
   "en": "Deposit Insurance and Policy Owners’ Protection Schemes (Additional Premium Contribution) Order 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 15(3) of the Act, no DI Scheme member shall, without the prior approval of the Minister, be required to pay additional premium contribution for any premium year exceeding 0.3% of the insured deposit base of that DI Scheme member."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Deposit Insurance and Policy Owners’ Protection Schemes (Additional Premium Contribution) Order 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

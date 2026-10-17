@@ -1,7 +1,7 @@
 {
  "id": "PH-H3669",
  "title": {
-  "zh": null,
+  "zh": "宣布禁止商业进口通称旧衣与破布的纺织品为国家政策，以保障人民健康、维护国家尊严的法案",
   "en": "An Act to Safeguard the Health of the People and Maintain the Dignity of the Nation by Declaring it a National Policy to Prohibit the Commercial Importation of Textile Articles Commonly Known as Used Clothing and Rags",
   "orig": "An Act to Safeguard the Health of the People and Maintain the Dignity of the Nation by Declaring it a National Policy to Prohibit the Commercial Importation of Textile Articles Commonly Known as Used Clothing and Rags"
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Safeguard the Health of the People and Maintain the Dignity of the Nation by Declaring it a National Policy to Prohibit the Commercial Importation of Textile Articles Commonly Known as Used Clothing and Rags",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

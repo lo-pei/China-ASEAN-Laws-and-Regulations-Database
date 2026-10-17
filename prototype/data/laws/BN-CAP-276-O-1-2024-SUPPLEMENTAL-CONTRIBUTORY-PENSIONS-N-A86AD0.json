@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-276-O-1-2024-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-N-A86AD0",
  "title": {
-  "zh": null,
+  "zh": "O 1 2024 版补充缴费养老金非雇员命令",
   "en": "O 1 2024 ED SUPPLEMENTAL CONTRIBUTORY PENSIONS NON EMPLOYEE ORDER",
   "orig": null
  },
@@ -93,5 +93,13 @@
     "en": "Any person who receives a monthly pension by virtue of the provisions of any law governing the grant of such pension on the services as a public officer, a member of the Royal Brunei Armed Forces, a member of the Royal Brunei Police Force or a prison officer."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "O 1 2024 ED SUPPLEMENTAL CONTRIBUTORY PENSIONS NON EMPLOYEE ORDER",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

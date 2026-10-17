@@ -1,7 +1,7 @@
 {
  "id": "PH-H6507",
  "title": {
-  "zh": null,
+  "zh": "将莱特省从蒂格包（塔克洛班）经帕斯特拉纳、达加米与塔纳万至圣菲的公路命名为Filomeno Montejo公路的法案",
   "en": "An Act Naming the Road From Tigbao (Tacloban) to Sta. Fe, Pastrana, Dagami and Tanauan, Province of Leyte, as Filomeno Montejo Highway",
   "orig": "An Act Naming the Road From Tigbao (Tacloban) to Sta. Fe, Pastrana, Dagami and Tanauan, Province of Leyte, as Filomeno Montejo Highway"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Road From Tigbao (Tacloban) to Sta. Fe, Pastrana, Dagami and Tanauan, Province of Leyte, as Filomeno Montejo Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

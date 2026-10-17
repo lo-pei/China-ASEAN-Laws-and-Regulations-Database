@@ -1,7 +1,7 @@
 {
  "id": "PH-H757",
  "title": {
-  "zh": null,
+  "zh": "规定各省初审法院书记官兼任当然郡长，其管辖不限于本省，亦及于设市前属该省的任何城市",
   "en": "An Act to Make the Clerk of the Court of First Instance of a Province Ex Officio Sheriff Not Only of Such Province But Also of Any City Which, Before Conversion to a City, Formed Part of Such Province",
   "orig": "An Act to Make the Clerk of the Court of First Instance of a Province Ex Officio Sheriff Not Only of Such Province But Also of Any City Which, Before Conversion to a City, Formed Part of Such Province"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Make the Clerk of the Court of First Instance of a Province Ex Officio Sheriff Not Only of Such Province But Also of Any City Which, Before Conversion to a City, Formed Part of Such Province",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

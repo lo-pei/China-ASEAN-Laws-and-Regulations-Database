@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-266-R3-2023-APEQS-PROFESSIONAL-CONDUCT-AND-ETHICS-RULES",
  "title": {
-  "zh": null,
+  "zh": "R3 2023 版 APEQS 专业行为与道德规则",
   "en": "R3 2023 ED APEQS PROFESSIONAL CONDUCT AND ETHICS RULES",
   "orig": null
  },
@@ -333,5 +333,13 @@
     "en": "(1) A professional engineer who is engaged in the construction or in the design and construction of engineering work or in the manufacture or in the design and manufacture of articles of commerce, whether on his own account or as a technical adviser or employee or a partner or director of a firm or company so engaged, shall not prepare or submit to a client or customer or prospective client or prospective customer a design for engineering works or articles unless accompanied by an offer on behalf of himself or his firm or company to construct the work or supply the articles, and a proviso that if the design of the professional engineer, the corporation of which he is a director or partnership of which he is a member is accepted, he or the corporation or partnership shall be given the contract for the work or supply of the articles, with such variation (if any) as to design and with such arrangements as to remuneration as may be mutually agreed.\n\n(2) A professional engineer shall not prepare or submit or offer to prepare or submit a design without informing the client or customer or prospective client or prospective customer as to the nature of his connection with the construction or manufacture of the work or articles in question.\n\n(3) Except at the request of the client or customer, a professional engineer shall not offer, directly or indirectly, on behalf of himself or his firm or company, to design, or to design and construct, any engineering work, the design of which to his knowledge has already been entrusted to another professional engineer, who is acting as a consultant, unless with the approval of such professional engineer."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R3 2023 ED APEQS PROFESSIONAL CONDUCT AND ETHICS RULES",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2188",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款及融资租赁的利息及其他付款豁免）（第 4 号）公告 2016",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans and Finance Leases) (No. 4) Notification 2016",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) Subject to sub-paragraphs (2) to (5) and the conditions imposed by the Minister under section 13(4) of the Act, any qualifying payment that an approved container investment enterprise is liable to make between 24 February 2015 and 11 December 2018 (both dates inclusive) to a specified person under an applicable finance lease, is exempt from tax.\n(2) Where any container that is not within the meaning of “container” in section 43P(7) of the Act is leased under the applicable finance lease, the exemption applies only to the amount of the qualifying payment derived by the formula where —\n(a)A is that part of the principal of the applicable finance lease that is attributable to —\n(i)the leasing of those containers that are each within the meaning of “container” in section 43P(7) of the Act;\n[S 307/2024 wef 31/12/2021]\n(ii)the leasing of equipment installed or to be installed within or on those containers mentioned in sub-paragraph (i); and\n(iii)the leasing of intermodal equipment under the applicable finance lease;\n(b)B is the principal of the applicable finance lease; and\n(c)C is the qualifying payment.\n[S 307/2024 wef 31/12/2021]\n(3) The exemption under sub-paragraph (1) does not apply to any payment or part of a payment under a finance lease entered into before 24 February 2015, being a payment or part of a payment that is exempt from tax under any other exemption granted under the Act or any subsidiary legislation made under the Act.\n(4) The exemption under sub-paragraph (1) only applies to a qualifying payment liable to be made —\n(a)at any time on or after the date the enterprise makes a declaration, in relation to the applicable finance lease, to the Authority in the form specified by the Authority for the purposes of this sub-paragraph; or\n(b)if the declaration is made on or before the 15th day of a month, at any time on or after the first day of the previous month.\n(5) The exemption under sub-paragraph (1) does not apply to any payment liable to be made —\n(a)after the day that the applicable finance lease ceases to be treated as a sale pursuant to regulations made under section 10C of the Act;\n[S 307/2024 wef 31/12/2021]\n(b)after the day that any original container (being a container that is within the meaning of “container” in section 43P(7) of the Act) is disposed of or is lost at sea, unless the terms of the agreement for the applicable finance lease —\n(i)require that all original containers disposed of and lost at sea be replaced in the event that the value of such containers exceeds a sum stipulated in the applicable finance lease; or\n(ii)require the repayment of that part of the principal of the applicable finance lease attributable to the cost of acquiring all original containers disposed of and lost at sea in the event that the value of such containers exceeds a sum stipulated in the applicable finance lease; or\n[S 307/2024 wef 31/12/2021]\n(c)on or after the day that the approval of the approved container investment enterprise as such is revoked or withdrawn.\n(6) Where —\n(a)sub-paragraph (1) has operated to exempt from tax any qualifying payment liable to be made under an applicable finance lease mentioned in that sub-paragraph; and\n(b)the term of the approval of the approved container investment enterprise as such subsequently expires,\nthen any qualifying payment liable to be made under that applicable finance lease by the enterprise on or after the date of the expiry to a person mentioned in that sub-paragraph, is also exempt from tax.\n(7) The exemption under sub-paragraph (6) is subject to the conditions mentioned in sub-paragraph (1) and to sub-paragraphs (2), (3) and (5), and for this purpose those sub-paragraphs apply as if a reference to an approved container investment enterprise were a reference to a container investment enterprise.\n[S 338/2021 wef 24/02/2015]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans and Finance Leases) (No. 4) Notification 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

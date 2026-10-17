@@ -1,7 +1,7 @@
 {
  "id": "PH-H1633",
  "title": {
-  "zh": null,
+  "zh": "进一步修订《修订行政法典》第1674条、第1675条与第1687条（依次经第732号与第984号、第661号与第732号共和国法修正）的法案",
   "en": "An Act Further Amending Sections Sixteen Hundred Seventy-Four, Sixteen Hundred Seventy-Five and Sixteen Hundred Eighty-Seven of the Revised Administrative Code, as Amended by Republic Acts Numbered Seven Hundred Thirty-Two and Nine Hundred Eighty-Four, Six Hundred Sixty-One and Seven Hundred Thirty-Two, Respectively",
   "orig": "An Act Further Amending Sections Sixteen Hundred Seventy-Four, Sixteen Hundred Seventy-Five and Sixteen Hundred Eighty-Seven of the Revised Administrative Code, as Amended by Republic Acts Numbered Seven Hundred Thirty-Two and Nine Hundred Eighty-Four, Six Hundred Sixty-One and Seven Hundred Thirty-Two, Respectively"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1957"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amending Sections Sixteen Hundred Seventy-Four, Sixteen Hundred Seventy-Five and Sixteen Hundred Eighty-Seven of the Revised Administrative Code, as Amended by Republic Acts Numbered Seven Hundred Thirty-Two and Nine Hundred Eighty-Four, Six Hundred Sixty-One and Seven Hundred Thirty-Two, Respectively",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

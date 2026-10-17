@@ -1,7 +1,7 @@
 {
  "id": "SG-H1065",
  "title": {
-  "zh": null,
+  "zh": "关税（汽车退税）命令",
   "en": "Customs (Rebate on Motor Cars) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) If a motor car is registered as an off-peak car upon its first registration in Singapore under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (Cap. 276, R 5), the person registered as the owner of the motor car shall be granted a rebate on the excise duties paid in respect of that motor car, determined in accordance with the formula —\nwhere\nT\nis equal to the sum of A, B and C, if the sum of A, B and C does not exceed the maximum rebate or, otherwise, the amount of the maximum rebate;\nA\nis the amount of excise duties paid in respect of the motor car under the Customs (Duties) Order (O 4);\nB\nis the quota premium payable under rule 13(1) of the Road Traffic (Motor Vehicles, Quota System) Rules (Cap. 276, R 31) for the certificate of entitlement of the motor car; and\nC\nis the net additional registration fee as prescribed in rule 8(3) of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules.\n(2) For the purposes of sub-paragraph (1), “maximum rebate” means the maximum rebate prescribed in rule 8(3) of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules.\n(3) The amount of the rebate under sub-paragraph (1) shall not be refunded but shall only be used to set off the additional registration fee payable under rule 6 of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (Cap. 276, R 5) in respect of the motor car.\n[G.N. Nos. S 165/91; S622/2000]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Rebate on Motor Cars) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

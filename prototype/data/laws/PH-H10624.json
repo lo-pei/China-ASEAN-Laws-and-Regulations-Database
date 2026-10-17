@@ -1,7 +1,7 @@
 {
  "id": "PH-H10624",
  "title": {
-  "zh": null,
+  "zh": "宣布南莱特省 Panaon 岛周边水域为国家综合保护区系统下的保护海景，称为 Panaon 岛保护海景，规定其管理并为此拨款的法案",
   "en": "An Act Declaring a Waters Surrounding Panaon Island Situated in the Province of Southern Leyte, a Protected Seascape Under the National Integrated Protected Areas System, to Be Referred to as the Panaon Island Protected Seascape, Providing for Its Management, and Appropriating Funds Therefor",
   "orig": "An Act Declaring a Waters Surrounding Panaon Island Situated in the Province of Southern Leyte, a Protected Seascape Under the National Integrated Protected Areas System, to Be Referred to as the Panaon Island Protected Seascape, Providing for Its Management, and Appropriating Funds Therefor"
  },
@@ -81,14 +81,15 @@
    }
   },
   {
-   "id": "PH-H10624-A5_2",
+   "id": "PH-H10624-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Section 5."
    },
    "text": {
     "en": "Establishment of Buffer Zones. - The Secretary of the Department of Environment and Natural Resources (DENR), upon the recommendation of the Protected Area Management Board (PAMB) created under Section 7 of this Act, may designate areas surrounding the PIPS as buffer zones for the purpose of providing an extra layer of protection where restrictions may be applied: Provided, That in cases where restrictions the designated buffer zone would cover private lands, the owners thereof shall be required to design their development with due consideration to the PIPS management plan."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10624-A6",
@@ -200,5 +201,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring a Waters Surrounding Panaon Island Situated in the Province of Southern Leyte, a Protected Seascape Under the National Integrated Protected Areas System, to Be Referred to as the Panaon Island Protected Seascape, Providing for Its Management, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

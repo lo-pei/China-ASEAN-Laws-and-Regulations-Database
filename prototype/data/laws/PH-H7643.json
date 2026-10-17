@@ -1,7 +1,7 @@
 {
  "id": "PH-H7643",
  "title": {
-  "zh": null,
+  "zh": "公共土地法",
   "en": "Public Land Act",
   "orig": "Public Land Act An Act Extending the Period Until December 31, 2020 for the Filing of Applications for Administrative Legalization (Free Patent) and Judicial Confirmation of Imperfect and Incomplete Titles to Alienable and Disposable Lands of the Public Domain, Amending for This Purpose Commonwealth Act Numbered 141, as Amended, Otherwise Known as the Public Land Act"
  },
@@ -101,5 +101,13 @@
     "en": "Effectivity Clause - This Act shall take effect fifteen (15) days after its publication in two(2) national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Public Land Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

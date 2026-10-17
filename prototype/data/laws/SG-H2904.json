@@ -1,7 +1,7 @@
 {
  "id": "SG-H2904",
  "title": {
-  "zh": null,
+  "zh": "释义（新加坡食品局——出口证书费用）命令 2024",
   "en": "Interpretation (Singapore Food Agency — Fees for Certificates for Export) Order 2024",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraph 4\nFees\nPart 1\ncertificates relating to food\nFirst column\nSecond column\n1.Certificate that the food may be sold in Singapore and may be exported for human consumption\n$17.11 per certificate\n2.Certificate that —\n(a)the food meets the requirements of the foreign country for fitness for human consumption; or\n(b)after the import of the food into Singapore —\n(i)the handling of the food in Singapore was in accordance with any requirement of Singapore or the foreign country for fitness for human consumption;\n(ii)the food was stored in premises regulated by the Agency;\n(iii)the food was not further processed, re‑packed or re‑labelled in Singapore; and\n(iv)the packaging of the food did not change in Singapore\n$20 per certificate\n3.Certificate that the food (being toothfish, swordfish or tuna) meets the requirements of the Convention on the Conservation of Antarctic Marine Living Resources or the International Commission for the Conservation of Atlantic Tunas for the export of the food from Singapore\n$10.19 per certificate\nPart 2\ncertificates relating to animal feed\nFirst column\nSecond column\n1.Subject to item 2, any certificate\n$21.40 per certificate\n2.Any certificate issued on an expedited basis\n$42.80 per certificate"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Interpretation (Singapore Food Agency — Fees for Certificates for Export) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

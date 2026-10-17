@@ -1,7 +1,7 @@
 {
  "id": "PH-H8977",
  "title": {
-  "zh": null,
+  "zh": "宣布每年 2 月第一周为全国“世界宗教间和谐”周，并要求各政府机构遵行的法案",
   "en": "An Act Declaring the First Week of February of Every Year as \"World Interfaith Harmony\" Week\" in the Entire Country and Mandating its Observance By the Different Government Agencies",
   "orig": "An Act Declaring the First Week of February of Every Year as \"World Interfaith Harmony\" Week\" in the Entire Country and Mandating its Observance By the Different Government Agencies"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication m the Official Gazette or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring the First Week of February of Every Year as \"World Interfaith Harmony\" Week\" in the Entire Country and Mandating its Observance By the Different Government Agencies",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

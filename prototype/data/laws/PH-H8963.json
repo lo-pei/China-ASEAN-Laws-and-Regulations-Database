@@ -1,7 +1,7 @@
 {
  "id": "PH-H8963",
  "title": {
-  "zh": null,
+  "zh": "将碧瑶市 Sto. Tomas 描笼涯的碧瑶市国立中学－Sto. Tomas 附属校从该校分离，改设为名为 Sto. Tomas 国立中学的独立国立中学并拨款",
   "en": "An Act Separating the Baguio City National High School - Sto. Tomas Annex in Barangay Sto. Tomas, City of Baguio From the Baguio City National High School, Converting It into an Independent National High School to be Known as Sto. Tomas National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Baguio City National High School - Sto. Tomas Annex in Barangay Sto. Tomas, City of Baguio From the Baguio City National High School, Converting It into an Independent National High School to be Known as Sto. Tomas National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Baguio City National High School - Sto. Tomas Annex in Barangay Sto. Tomas, City of Baguio From the Baguio City National High School, Converting It into an Independent National High School to be Known as Sto. Tomas National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3451",
  "title": {
-  "zh": null,
+  "zh": "第 11（3）条项下的命令",
   "en": "Order under Section 11(3)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n1. Health Products Act (Chapter 122D)\n2. Inquiries Act (Chapter 139A)\n3. National Registry of Diseases Act (Chapter 201B)\n4. Optometrists and Opticians Act (Chapter 213A)\n5. Passports Act (Chapter 220)\n6. Pharmacists Registration Act (Chapter 230)\n7. Private Security Industry Act (Chapter 250A)\n8. Terrorism (Suppression of Bombings) Act (Chapter 324A)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Order under Section 11(3)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

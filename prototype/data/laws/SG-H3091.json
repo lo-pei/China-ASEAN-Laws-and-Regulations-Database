@@ -1,7 +1,7 @@
 {
  "id": "SG-H3091",
  "title": {
-  "zh": null,
+  "zh": "新加坡海事及港务管理局（港口）条例",
   "en": "Maritime and Port Authority of Singapore (Port) Regulations",
   "orig": null
  },
@@ -1596,5 +1596,13 @@
     "en": "FIFTH SCHEDULE\nRegulation 29A(1)\nNavigation under bridge\nName of Bridge\nMaximum Height of Vessel in metres\nMaximum Beam of Vessel in metres\nPart of Bridge Where Vessel May Pass Under\nOther Restrictions\n1.Jalan Buroh Bridge\n7.3\n25\nAny part\nAny other restrictions as may be necessary for safe navigation that may be specified by the Port Master\n2.Sungei Pandan Bridge\n2.8\nNo maximum\nAt centre of span of bridge\nAny other restrictions as may be necessary for safe navigation that may be specified by the Port Master\n3.Second Crossing Bridge at Tuas\n10\n15\nBetween Piers 24 and 25\n(1)Vessel to pass under bridge only during such times as may be specified by the Port Master;\n(2)Any other restrictions as may be necessary for safe navigation that may be specified by the Port Master.\n4.Rapid Transit System (RTS) Link Bridge at Woodlands\n23\n15\nBetween Piers 48 and 49, as marked with aids to navigation\n(1)Vessel to pass under bridge only during such times as may be specified by the Port Master;\n(2)Any other restrictions as may be necessary for safe navigation that may be specified by the Port Master.\n[S 428/2026 wef 01/08/2026]\n[S 518/2017 wef 18/09/2017]\n[G.N. No. S 187/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Maritime and Port Authority of Singapore (Port) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

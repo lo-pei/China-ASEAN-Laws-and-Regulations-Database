@@ -1,7 +1,7 @@
 {
  "id": "SG-H1179",
  "title": {
-  "zh": null,
+  "zh": "外交与领事关系（领事官员权力）命令 2005",
   "en": "Diplomatic and Consular Relations (Powers of Consular Officers) Order 2005",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 5 of the Act applies to the following States:\n(a)the Kingdom of Norway;\n(b)the Kingdom of Sweden;\n(c)the United States of America;\n(d)the Hellenic Republic;\n(e)the French Republic;\n(f)the United Mexican States;\n(g)the Federal Republic of Germany;\n(h)the Italian Republic."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Diplomatic and Consular Relations (Powers of Consular Officers) Order 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

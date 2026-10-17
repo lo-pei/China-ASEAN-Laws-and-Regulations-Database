@@ -1,7 +1,7 @@
 {
  "id": "SG-H2042",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）（第 2 号）命令 2016",
   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2016",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The dividends of MYR$1,350,000 received in Singapore by Boardroom Limited on 4 March 2013 from Boardroom (Malaysia) Sdn Bhd (a company located in Malaysia), is exempt from tax.\n(2) The exemption in sub-paragraph (1) is subject to the terms and conditions specified in the letter of approval dated 20 May 2016 addressed to Boardroom Limited."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

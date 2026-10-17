@@ -1,7 +1,7 @@
 {
  "id": "PH-H239",
  "title": {
-  "zh": null,
+  "zh": "修订第 613 号联邦法（题为《管制与规范外国人移民菲律宾的法案》）第 6、37、42、44、45 与 46 条，并在该法中增设名为第 22-A 条的新条文的法案",
   "en": "An Act to Amend Sections Six, Thirty-Seven, Forty-Two, Forty-Four, Forty-Five and Forty-Six of Commonwealth Act Numbered Six Hundred and Thirteen, Entitled “An Act to Control and Regulate the Immigration of Aliens into the Philippines,” and to Insert a New Section in Said Act to be Known as Section Twenty-Two-A",
   "orig": "An Act to Amend Sections Six, Thirty-Seven, Forty-Two, Forty-Four, Forty-Five and Forty-Six of Commonwealth Act Numbered Six Hundred and Thirteen, Entitled “An Act to Control and Regulate the Immigration of Aliens into the Philippines,” and to Insert a New Section in Said Act to be Known as Section Twenty-Two-A"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Six, Thirty-Seven, Forty-Two, Forty-Four, Forty-Five and Forty-Six of Commonwealth Act Numbered Six Hundred and Thirteen, Entitled “An Act to Control and Regulate the Immigration of Aliens into the Philippines,” and to Insert a New Section in Said Act to be Known as Section Twenty-Two-A",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

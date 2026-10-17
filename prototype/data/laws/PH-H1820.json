@@ -1,7 +1,7 @@
 {
  "id": "PH-H1820",
  "title": {
-  "zh": null,
+  "zh": "修订第85号共和国法及其他相关法律，将复兴金融公司改为菲律宾开发银行以提供中长期信贷，授权该行协助设立省市私人开发银行，并为其他目的",
   "en": "An Act to Amend Republic Act Numbered Eighty-Five and Other Pertinent Laws, to Provide Facilities for Intermediate and Long-Term Credit by Converting the Rehabilitation Finance Corporation into the Development Bank of the Philippines, Authorizing the Said Bank to Aid in the Establishment of Provincial and City Private Development Banks, and for Other Purposes",
   "orig": "An Act to Amend Republic Act Numbered Eighty-Five and Other Pertinent Laws, to Provide Facilities for Intermediate and Long-Term Credit by Converting the Rehabilitation Finance Corporation into the Development Bank of the Philippines, Authorizing the Said Bank to Aid in the Establishment of Provincial and City Private Development Banks, and for Other Purposes"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1958"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Eighty-Five and Other Pertinent Laws, to Provide Facilities for Intermediate and Long-Term Credit by Converting the Rehabilitation Finance Corporation into the Development Bank of the Philippines, Authorizing the Said Bank to Aid in the Establishment of Provincial and City Private Development Banks, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

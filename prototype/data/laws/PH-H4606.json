@@ -1,7 +1,7 @@
 {
  "id": "PH-H4606",
  "title": {
-  "zh": null,
+  "zh": "授予 Leopoldo T. Calderon, Jr. 在布拉干省 Pulilan 市镇经营电灯、热力与动力系统的特许权法案",
   "en": "An Act Granting a Franchise for An Electric Light, Heat and Power System to Leopoldo T. Calderon, Jr., in the Municipality of Pulilan, Province of Bulacan",
   "orig": "An Act Granting a Franchise for An Electric Light, Heat and Power System to Leopoldo T. Calderon, Jr., in the Municipality of Pulilan, Province of Bulacan"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon the expiration of the municipal franchise granted to Leopoldo T. Calderon, Jr.\nEnacted without Executive approval, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting a Franchise for An Electric Light, Heat and Power System to Leopoldo T. Calderon, Jr., in the Municipality of Pulilan, Province of Bulacan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

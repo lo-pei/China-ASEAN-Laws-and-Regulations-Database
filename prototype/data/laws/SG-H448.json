@@ -1,7 +1,7 @@
 {
  "id": "SG-H448",
  "title": {
-  "zh": null,
+  "zh": "赌场管制（赌场营销安排）条例 2013",
   "en": "Casino Control (Casino Marketing Arrangements) Regulations 2013",
   "orig": null
  },
@@ -930,5 +930,13 @@
     "en": "SECOND SCHEDULE\nRegulations 7(1)(a), 8(2)(a) and 20(2)(b) and (3)\nFees\n1.For an application for —\n(a)an international market agent licence\n$670\n(b)an international market agent representative licence\n$320\n2.For an application for renewal of —\n(a)an international market agent licence\n$550\n(b)an international market agent representative licence\n$300\n3.For a late application to renew —\n(a)an international market agent licence\n$120\n(b)an international market agent representative licence\n$20\n4.[Deleted by S 632/2026 wef 21/09/2026]\n[S 632/2026 wef 21/09/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Casino Control (Casino Marketing Arrangements) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

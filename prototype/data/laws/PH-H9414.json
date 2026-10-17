@@ -1,7 +1,7 @@
 {
  "id": "PH-H9414",
  "title": {
-  "zh": null,
+  "zh": "规定免费灌溉服务，为此修订经修正的第 3601 号共和国法并拨款",
   "en": "An Act Providing Free Irrigation Service, Amending for the Purpose Republic Act No. 3601, as Amended , Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act Providing Free Irrigation Service, Amending for the Purpose Republic Act No. 3601, as Amended , Appropriating Funds Therefor and for Other Purposes"
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days from its publication in the Official Gazette or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing Free Irrigation Service, Amending for the Purpose Republic Act No. 3601, as Amended , Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

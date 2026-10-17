@@ -1,0 +1,303 @@
+{
+ "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49",
+ "title": {
+  "zh": "支付与结算系统终局性与净额结算法",
+  "en": "PAYMENT AND SETTLEMENT SYSTEMS FINALITY AND NETTING ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p21",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to make provision for the protection of payment and settlement"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 18,
+ "chars": 14863,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-250-2022-ED-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-AND-NETTING-ACT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-250-2022-ED-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-AND-NETTING-ACT.pdf》（15 页），本次切分 18 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Payment and Settlement Systems (Finality and Netting) Act."
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "(1) In this Act, unless the context otherwise requires — “Authority” means the Brunei Darussalam Central Bank established by the Brunei Darussalam Central Bank Order, 2010 (S 103/2010); “book-entry securities” means any securities issued under any written law transferable by a book-entry on a register or “default arrangements” means the arrangements put in place by a designated system to limit systemic and other types of risk which arise in the event of a participant appearing to be unable, or likely to become unable, to meet its obligations in respect of a transfer order, including any arrangements for —\n\n(a) netting; or\n\n(b) the closing out of open positions; “defaulter” means a person in respect of whom action has been taken by a designated system under its default arrangements; “designated system” means a system that is designated by the Authority under section 3 to be a designated system for the purposes of this Act; “disposition of property” includes a payment made into or out of an account of a participant; “Minister” means the Minister of Finance and Economy; “netting” means the conversion into one net claim or one net obligation of claims and obligations resulting from transfer orders which a participant either issues to, or receives from, one or more other participants with the result that only a net claim can be demanded or a net obligation be owed; “operator”, in relation to a designated system, means the person specified in the order referred to in section 3(1) as the operator of the designated system; “participant” means a party to an arrangement that establishes a “relevant office holder” means —\n\n(a) the Official Receiver exercising his powers under the Bankruptcy Act (Chapter 67);\n\n(b) a person acting in relation to a company as its liquidator, receiver, receiver and manager, judicial manager or an equivalent officer; or\n\n(c) a person acting in relation to an individual as his trustee in bankruptcy or interim receiver of his property or an equivalent officer; “settlement institution”, in relation to a designated system, means a body corporate providing accounts for the participants of the designated system to hold funds and to settle transactions between participants in the designated system; “system” means a system established for —\n\n(a) the clearing or settlement of payment obligations; or\n\n(b) the clearing, settlement or transfer of book-entry “transfer order” means —\n\n(a) an instruction by a participant to place at the disposal of a recipient an amount of money by means of a book-entry on the accounts of a settlement institution for a designated system, or an instruction which, when settled, results in the assumption or discharge of a payment obligation as defined by the rules of a designated system; or\n\n(b) an instruction by a participant either to settle an obligation for the transfer of book-entry securities, or for the transfer of such securities.\n\n(2) A reference in this Act to the law of insolvency shall be construed\n\n(a) the Bankruptcy Act (Chapter 67);\n\n(b) Parts 4 and 5 of the Insolvency Act (Chapter 247); and\n\n(c) any other written law or rule of law whether of Brunei Darussalam or a place outside Brunei Darussalam which is concerned with or in any way related to the bankruptcy, winding up or insolvency of a person."
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "Designation of system"
+   },
+   "text": {
+    "en": "(1) The Authority may, by order published in the Gazette, designate a system to be a designated system for the purposes of this Act, subject to such conditions as may be prescribed.\n\n(2) Any order made under subsection (1) shall specify the operator of the designated system."
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "Revocation of designation"
+   },
+   "text": {
+    "en": "(1) The Authority may, by order published in the Gazette, revoke the designation of a designated system if —\n\n(a) the Authority is satisfied that —\n\n(i) the designated system has ceased to operate as a system;\n\n(ii) the operator of the designated system has knowingly furnished information or documents to the Authority in connection with the designation of the system which is or are false or misleading in any material particular;\n\n(iii) the operator or settlement institution of the designated system is in the course of being wound up or otherwise dissolved, whether in Brunei Darussalam or elsewhere;\n\n(iv) the operator or settlement institution of the designated system has entered into a compromise or scheme of arrangement with its creditors, whether in Brunei Darussalam or elsewhere;\n\n(v) a receiver, receiver and manager, judicial manager or an equivalent officer has been appointed, whether in Brunei Darussalam or elsewhere, in relation to or in respect of any property of the operator or settlement institution of the designated system; or\n\n(vi) any of the conditions referred to in section 3(1) has been\n\n(b) the Authority considers that it is in the public interest to revoke the designation.\n\n(2) Subject to subsection (3), the Authority shall not revoke a designation without giving the operator of the designated system an opportunity to be heard.\n\n(3) The Authority may revoke a designation on any of the grounds described in subsection (1)(a) (iii), (iv) or (v) without giving the operator of the designated system an opportunity to be heard.\n\n(4) A revocation of a designation shall not operate so as to avoid or affect any transaction cleared or settled in the designated system prior to the revocation or preclude the application of this Act, in accordance with section 5, to any such transaction. Application of Act"
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "This Act applies to all transactions cleared or settled in a designated system, subject to such restrictions as the Authority may prescribe.\n\nTRANSACTIONS EFFECTED THROUGH DESIGNATED SYSTEM"
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Modifications of law of insolvency"
+   },
+   "text": {
+    "en": "(1) Subject to the provisions of this Part, the general law of insolvency shall have effect in relation to —\n\n(a) transfer orders effected through a designated system; and\n\n(b) action taken under the rules of a designated system with respect to such orders.\n\n(2) This Part applies, in relation to bankruptcy, judicial management and winding up proceedings, only in respect of a participant.\n\n(3) Notwithstanding that rights or liabilities arising from transfer orders are or may be dealt with in bankruptcy, judicial management or winding up proceedings, this Part does not apply to such proceedings if they are in respect of any person who is not a participant. Transactions under rules of designated system are final and irrevocable"
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Transactions under rules of designated system are final and"
+   },
+   "text": {
+    "en": "(1) This section applies where the rules of a designated system\n\n(a) the transfer of funds into and out of an account of a\n\n(b) the settlement of any payment obligation; or\n\n(c) the settlement of an obligation for the transfer of book-entry securities, or the transfer of such securities, is final and irrevocable.\n\n(2) Notwithstanding anything to the contrary in any written law or rule of law, any transfer or settlement referred to in subsection (1) shall not be reversed, repaid or set aside and no order shall be made by any court for the rectification or stay of such transfer or settlement."
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Proceedings of designated system takes precedence over law of"
+   },
+   "text": {
+    "en": "(1) None of the following are to be regarded as to any extent invalid on the ground of inconsistency with the law for distribution of the assets of a person on bankruptcy or winding up, or on the appointment of a receiver, receiver and manager or an equivalent officer over any of the assets of a\n\n(a) a transfer order;\n\n(b) any disposition of property in pursuance of such an order;\n\n(c) the default arrangements of a designated system; or\n\n(d) the rules of a designated system as to the settlement of transfer orders not dealt with under its default arrangements.\n\n(2) The powers of a relevant office holder and the powers of a court under the law of insolvency shall not be exercised in such a way as to prevent or interfere with —\n\n(a) the settlement of a transfer order in accordance with the rules of a designated system not dealt with under its default arrangements; or\n\n(b) any action taken under its default arrangements.\n\n(3) A debt or other liability arising out of a transfer order which is the subject of an action taken under default arrangements may not be proved in a bankruptcy or winding up until the completion of the action taken under default arrangements.\n\n(4) A debt or other liability which by virtue of subsection (3) may not be proved shall not be taken into account for the purposes of any set-off until the completion of the action taken under default arrangements. Disclaimer of property, restriction on dispositions of property etc."
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A9",
+   "no": 9,
+   "noLabel": {
+    "en": "Section 9."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "Without prejudice to the generality of section 8 —\n\n(a) section 59 of the Bankruptcy Act (Chapter 67) and section 151 of the Insolvency Act (Chapter 247) do not apply to a transfer order; and\n\n(b) sections 70 and 105 of the Insolvency Act (Chapter 247) do not apply to a transfer order or any disposition of property in pursuance of such an order."
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A10",
+   "no": 10,
+   "noLabel": {
+    "en": "Section 10."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Adjustment of prior transactions"
+   },
+   "text": {
+    "en": "Without prejudice to the generality of section 8, no order shall be made by a court under section 148 of the Insolvency Act (Chapter 247) in relation to a transfer order or any disposition of property in pursuance of the order."
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A11",
+   "no": 11,
+   "noLabel": {
+    "en": "Section 11."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "heading": {
+    "en": "Net sum payable on completion of action taken under default"
+   },
+   "text": {
+    "en": "(1) This section applies with respect to any net sum owed by or to a defaulter on the completion of the action taken under default arrangements.\n\n(2) Notwithstanding section 34 or 35 of the Bankruptcy Act (Chapter 67) and section 146 of the Insolvency Act (Chapter 247), where a court has made an order for bankruptcy or winding up of a participant or a resolution for the voluntary winding up of a participant has been passed, the net sum referred to in subsection (1) shall be —\n\n(a) provable in the bankruptcy or winding up or, as the case may be, payable to the relevant office holder; and\n\n(b) taken into account, where appropriate, under section 35 of the Bankruptcy Act (Chapter 67) or section 146 of the Insolvency Act Transfer orders entered into designated system after insolvency"
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A12",
+   "no": 12,
+   "noLabel": {
+    "en": "Section 12."
+   },
+   "chapter": {
+    "en": "PART 2"
+   },
+   "text": {
+    "en": "This Part does not apply in relation to any transfer order given by a participant which is entered into a designated system after the expiry of the\n\n(a) a court made an order for bankruptcy, judicial management or winding up in respect of the participant; or\n\n(b) a resolution for the voluntary winding up of the participant"
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A13",
+   "no": 13,
+   "noLabel": {
+    "en": "Section 13."
+   },
+   "chapter": {
+    "en": "PART 3"
+   },
+   "text": {
+    "en": "Notwithstanding any provision of the law of insolvency, if a court has made an order for bankruptcy or winding up of a participant of a designated system or if a resolution for the voluntary winding up of such participant has\n\n(a) the operator of the designated system may effect the netting of all obligations owed to or by the participant incurred before or on the day on which the court made the order for bankruptcy or winding up of the participant or the resolution for the voluntary winding up of the participant was passed;\n\n(b) the obligations that are netted are to be disregarded in the bankruptcy or winding up proceedings;\n\n(c) any net obligation owed to or by the participant that has not\n\n(i) is payable to the participant and may be recovered for the benefit of the creditors; or\n\n(ii) is provable in the bankruptcy or winding up, as the case may be; and\n\n(d) the netting made by the operator of the designated system and any payment made by the participant pursuant thereto shall not be voidable in the bankruptcy or winding up proceedings."
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A14",
+   "no": 14,
+   "noLabel": {
+    "en": "Section 14."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Law of insolvency in other jurisdictions"
+   },
+   "text": {
+    "en": "Notwithstanding any written law or rule of law, a court shall not recognise or give effect to —\n\n(a) an order of a court exercising jurisdiction under the law of insolvency in a place outside Brunei Darussalam; or\n\n(b) an act of a person appointed in a place outside Brunei Darussalam to perform a function under the law of insolvency there, in so far as the making of the order or doing of the act would be prohibited under this Act for a court in Brunei Darussalam or a relevant office holder. Preservation of rights etc."
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A15",
+   "no": 15,
+   "noLabel": {
+    "en": "Section 15."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "text": {
+    "en": "(1) Except to the extent that it expressly provides, this Act shall not operate to limit, restrict or otherwise affect —\n\n(a) any right, title, interest, privilege, obligation or liability of a person resulting from the underlying transaction in respect of a transfer order which has been entered into a designated system; or\n\n(b) any investigation, legal proceeding or remedy in respect of any such right, title, interest, privilege, obligation or liability.\n\n(2) Nothing in subsection (1) shall be construed to require —\n\n(a) the unwinding of any netting done by the operator of a designated system, whether pursuant to its default arrangements or\n\n(b) the revocation of any transfer order given by a participant which is entered into a designated system; or\n\n(c) the reversal of a payment or settlement made under the rules of a designated system."
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A16",
+   "no": 16,
+   "noLabel": {
+    "en": "Section 16."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "Obligation to notify operator of designated system of insolvency"
+   },
+   "text": {
+    "en": "(1) A participant shall notify the operator of a designated system as soon as practicable after the occurrence of any of the following events —\n\n(a) the making of an order for bankruptcy, judicial management or winding up of the participant;\n\n(b) the passing of a resolution for the voluntary winding up of the\n\n(2) Any participant who contravenes subsection (1) is guilty of an offence and liable on conviction to a fine not exceeding $20,000.\n\n(3) A participant does not contravene subsection (1) if —\n\n(a) he took reasonable steps to comply with that subsection; or\n\n(b) the operator of the designated system was already aware of the relevant event referred to in subsection (1)(a) or (b) by the time the participant was required to notify the operator under that subsection. Composition of offences"
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A17",
+   "no": 17,
+   "noLabel": {
+    "en": "Section 17."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "heading": {
+    "en": "_____________________________"
+   },
+   "text": {
+    "en": "(1) The Authority may, in its discretion, compound any offence against this Act or any regulations made thereunder which is prescribed as being an offence which may be compounded by collecting from any person reasonably suspected of having committed that offence a sum not exceeding $10,000.\n\n(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.\n\n(3) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations prescribing the offences which may be compounded under this Act.\n\n(4) All sums collected under this section shall be paid to the"
+   }
+  },
+  {
+   "id": "BN-CAP-250-2022-PAYMENT-AND-SETTLEMENT-SYSTEMS-FINALITY-E10E49-A18",
+   "no": 18,
+   "noLabel": {
+    "en": "Section 18."
+   },
+   "chapter": {
+    "en": "PART 4"
+   },
+   "text": {
+    "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations which are necessary or expedient for giving effect to and carrying out the provisions of this Act, including the prescription of fees and of any other thing required to be or which may be prescribed under this Act, and for the due administration thereof.\n\n(2) Such regulations may include such incidential, consequential and supplementary provisions as the Minister considers necessary or expedient.\n\n(3) Without prejudice to the generality of subsection (1), the Minister may make regulations for the following purposes —\n\n(a) ensuring the integrity of and the fair and orderly conduct of designated systems; and\n\n(b) disclosure and provision to the Authority of such information as may be prescribed."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "PAYMENT AND SETTLEMENT SYSTEMS FINALITY AND NETTING ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

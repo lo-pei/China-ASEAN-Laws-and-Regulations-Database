@@ -1,7 +1,7 @@
 {
  "id": "PH-H128",
  "title": {
-  "zh": null,
+  "zh": "授权省政府、市镇政府与特许市发放生活补贴的法案",
   "en": "An Act Authorizing Provincial and Municipal Governments and Chartered Cities to Grant Living Bonus",
   "orig": "An Act Authorizing Provincial and Municipal Governments and Chartered Cities to Grant Living Bonus"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect as of July first, nineteen hundred and forty-six, and shall lapse on June thirty, nineteen hundred and forty-seven.\nApproved: September 25, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing Provincial and Municipal Governments and Chartered Cities to Grant Living Bonus",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

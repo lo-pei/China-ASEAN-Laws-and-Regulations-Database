@@ -1,7 +1,7 @@
 {
  "id": "PH-H6138",
  "title": {
-  "zh": null,
+  "zh": "修订第 7637 号共和国法（即《为 Pinatubo 火山喷发灾民拨付一百亿比索用于救助、安置、重建与生计服务及基础设施支持、设立该火山援助、安置与发展委员会的法案》）",
   "en": "An Act to Amend Republic Act Numbered Seventy-Six Hundred Thirty-Seven Entitled \"An Act Appropriating the Sum of Ten Billion Pesos for the Aid, Relief, Resettlement, Rehabilitation and Livelihood Services as Well as Infrastructure Support for the Victims of the Eruption of Mt. Pinatubo, Creating the Mt. Pinatubo Assistance, Resettlement and Development Commission, and for Other Purposes",
   "orig": "An Act to Amend Republic Act Numbered Seventy-Six Hundred Thirty-Seven Entitled \"An Act Appropriating the Sum of Ten Billion Pesos for the Aid, Relief, Resettlement, Rehabilitation and Livelihood Services as Well as Infrastructure Support for the Victims of the Eruption of Mt. Pinatubo, Creating the Mt. Pinatubo Assistance, Resettlement and Development Commission, and for Other Purposes"
  },
@@ -110,5 +110,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its publication in at least two (2) national newspapers of general circulation.\nApproved, November 9, 1993."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Seventy-Six Hundred Thirty-Seven Entitled \"An Act Appropriating the Sum of Ten Billion Pesos for the Aid, Relief, Resettlement, Rehabilitation and Livelihood Services as Well as Infrastructure Support for the Victims of the Eruption of Mt. Pinatubo, Creating the Mt. Pinatubo Assistance, Resettlement and Development Commission, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

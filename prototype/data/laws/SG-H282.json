@@ -1,7 +1,7 @@
 {
  "id": "SG-H282",
  "title": {
-  "zh": null,
+  "zh": "银行（第 4A(1) 与 (2) 条豁免）（合并）公告",
   "en": "Banking (Exemption from Section 4A (1) and (2)) (Consolidation) Notification",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Banking Act\n(Chapter 19, Section 4A(8))\nBanking (Exemption from Section 4A (1) and (2)) (Consolidation) Notification\nN 3\nG.N. No. S 49/2002\nREVISED EDITION 2004\n(29th February 2004)\nThe Monetary Authority of Singapore has exempted —"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Banking (Exemption from Section 4A (1) and (2)) (Consolidation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2993",
  "title": {
-  "zh": null,
+  "zh": "法律职业（不称职专业服务投诉调查）规则",
   "en": "Legal Profession (Inadequate Professional Services Complaint Inquiry) Rules",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9. Every notice given by the Council under these Rules to a client, a solicitor or an Investigative Tribunal shall be in writing under the hand of the Director of the Society or any member of the Council designated by the Council for this purpose.\n[G.N. Nos. S 310/98; S 665/2006]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Inadequate Professional Services Complaint Inquiry) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

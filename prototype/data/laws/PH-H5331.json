@@ -1,7 +1,7 @@
 {
  "id": "PH-H5331",
  "title": {
-  "zh": null,
+  "zh": "将马尼拉大都会帕西格市镇曼加汉第一小学单元的名称变更为圣洛伦索鲁伊斯小学的法案",
   "en": "An Act Changing the Name of the Manggahan Elementary School Unit I in the Municipality of Pasig, Metro Manila, to San Lorenzo Ruiz Elementary School",
   "orig": "An Act Changing the Name of the Manggahan Elementary School Unit I in the Municipality of Pasig, Metro Manila, to San Lorenzo Ruiz Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: January 5, 1990."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Manggahan Elementary School Unit I in the Municipality of Pasig, Metro Manila, to San Lorenzo Ruiz Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H679",
  "title": {
-  "zh": null,
+  "zh": "合作社（豁免）命令 2010",
   "en": "Co-operative Societies (Exemption) Order 2010",
   "orig": null
  },
@@ -110,5 +110,13 @@
     "en": "SECOND SCHEDULE\nParagraph 3\nFirst column\nSecond column\nThird column\nProvision modified\nCo-operative society\nModification/Condition\n1.Section 39(1)(a) of the Act\n[Deleted by S 206/2015 wef 14/04/2015]\n[Deleted by S 206/2015 wef 14/04/2015]\nNTUC Thrift and Loan Co-operative Limited\nSection 39(1)(a) of the Act shall apply with the modification that the reference in sub-paragraph (ii) to a citizen or resident in Singapore shall be a reference instead to a person —\n(a)who is a member of the Singapore Maritime Officers Union or the Singapore Organisation of Seamen;\n(b)who is not a member of the committee of management of the NTUC Thrift and Loan Co-operative Limited; and\n(c)who is ineligible to and does not vote at any general meeting of the members of the NTUC Thrift and Loan Co-operative Limited.\n2.Section 53(1) of the Act\nSingapore National Co-operative Federation Limited\nSection 53(1) of the Act shall apply with the modification that the co-operative society shall only be required to provide in its by-laws for a general meeting to be convened by the committee of management triennially.\n3.Section 60(1) of the Act\nNgee Ann Polytechnic Consumer Co-operative Society Limited\nSection 60(1)(a) of the Act shall apply with the modification that a person may be eligible for membership of or to remain as a member of the committee of management of the co-operative society if he is not below 18 years of age.\n[S 206/2015 wef 14/04/2015]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (Exemption) Order 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

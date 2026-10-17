@@ -1,7 +1,7 @@
 {
  "id": "BN-S-6-2026-E",
  "title": {
-  "zh": null,
+  "zh": "S-6 2026 年公告",
   "en": "S-6_2026-E",
   "orig": null
  },
@@ -63,5 +63,13 @@
     "en": "(1) The removal from the Laws is hereby directed of the pages specified in the third column of Part A of the Schedule hereto with reference to the written laws specified in the first and second columns thereof and bearing on the face or overleaf the legend specified in the fourth column thereof.\n\n(2) The inclusion in the Laws is hereby authorised, in substitution of the pages directed to be removed under subparagraph (1). of the pages specified in the third column of Part B of the Schedule and bearing on the face or overleaf the legend specified in the fourth column thereof, with reference to the written laws referred to in the first and second columns thereof.\n\nSCHEDULE (paragraph 2)\n\nREMOVAL FROM AND INCLUSION IN LAWS\n\nPART A Chapter Title Pages Legend 68 Road Traffic Act 1 to 106 B.L.R.O. 5/2022 Rg 15 Road Traffic (Driving 1 to 15 B.L.R.O. 5/2022 Licenses) Regulations 134 Legislative Council and Council of 1 to 10 B.L.R.O. 1/2010 Ministers (Remuneration and Privileges) Act 278 EmploymentAct 1 to 100 B.L.R.O. 3/2024 Rg 2 Employment (Composition 1 to 6 B.L.R.O. 3/2024. of Offences) Regulations\n\nPARTE Chapter Title Pages Legend 68 Road Traffic Act 1 to 104 B.L.R.O. 2/2026 Rg 15 Road Traffic (Driving 1 to 16 B.L.R.O. 2/2026 Licenses) Regulations 134 Legislative Council and Council of 1 to 10 B.L.R.O. 2/2026 Ministers (Remuneration and Privileges) Act 278 Employment Act 1 to 100 B.L.R.O. 2/2026 Rg2 Employment (Composition 1 to 6 B.L.R.O. 2/2026. of Offences) Regulations Made this 17th. day of Syaaban, 1447 Hijriah corresponding to the 5th. day of February, 2026.\n\nDATIN SERI PADUKA HAJAH NOR HASHIMAH BINTI HAJI MUHAMMED TAIB Attorney General."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "S-6_2026-E",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

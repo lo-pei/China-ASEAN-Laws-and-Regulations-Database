@@ -1,7 +1,7 @@
 {
  "id": "SG-H559",
  "title": {
-  "zh": null,
+  "zh": "慈善（罪行构成）条例",
   "en": "Charities (Composition of Offences) Regulations",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following offences (other than continuing offences) may be compounded by the Commissioner in accordance with section 55(1) of the Act:\n(a)an offence under section 7(8), 10(3) or (8), 16, 23(20), 29(1), 36(2), 37(5) or 44(8) of the Act;\n[S 490/2011 wef 01/09/2011]\n[S 108/2024 wef 31/12/2021]\n(b)an offence under the Charities (Fund-Raising Appeals) Regulations (Rg 8) in force before 1st November 2012;\n[S 532/2012 wef 01/11/2012]\n(c)an offence under the Charities (Fund-Raising Appeals for Foreign Charitable Purposes) Regulations (Rg 2) in force before 1st November 2012;\n[S 532/2012 wef 01/11/2012]\n(d)an offence under the Charities (Large Charities) Regulations (Rg 9);\n[S 490/2011 wef 01/09/2011]\n(e)an offence under the Charities (Registration of Charities) Regulations (Rg 10);\n[S 490/2011 wef 01/09/2011]\n[S 532/2012 wef 01/11/2012]\n(f)an offence under regulation 5(1) or (2)(a) of the Charities (Accounts and Annual Report) Regulations 2011 (G.N. No. S 352/2011);\n[S 490/2011 wef 01/09/2011]\n[S 532/2012 wef 01/11/2012]\n[S 108/2024 wef 01/03/2024]\n(g)an offence under regulation 4(3), (4) or (5), 5(8) or (9), 6(3), 7(3), 11(3), 14(7), 15(3), 15A(3) or (4), 16(4) or (6), 17(7), 19(1), 20(1), 20C(3) or (4), 20D(3), (4) or (5), 20E(3), 20F(3), (4) or (5), 23(2), 25(3), 26(6) or 27(1) of the Charities (Fund-raising Appeals for Local and Foreign Charitable Purposes) Regulations 2012 (G.N. No. S 530/2012);\n[S 108/2024 wef 01/03/2024]\n(h)an offence under regulation 21(1) or (2) of the Charities (Institutions of A Public Character) Regulations (Rg 5).\n[S 108/2024 wef 01/03/2024]\n[S 108/2024 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Charities (Composition of Offences) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9064",
  "title": {
-  "zh": null,
+  "zh": "扩大科学技术奖学金计划覆盖范围、加强中学科学与数学教学并为其他目的法案",
   "en": "An Act Expanding the Coverage of the Science and Technology (S&amp;T) Scholarship Program and Strengthening the Teaching of Science and Mathematics in Secondary Schools and for Other Purposes",
   "orig": "An Act Expanding the Coverage of the Science and Technology (S&amp;T) Scholarship Program and Strengthening the Teaching of Science and Mathematics in Secondary Schools and for Other Purposes"
  },
@@ -291,5 +291,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette and in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Expanding the Coverage of the Science and Technology (S&amp;T) Scholarship Program and Strengthening the Teaching of Science and Mathematics in Secondary Schools and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

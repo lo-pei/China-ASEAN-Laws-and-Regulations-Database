@@ -1,7 +1,7 @@
 {
  "id": "PH-H2725",
  "title": {
-  "zh": null,
+  "zh": "授予南莱特省Silago等七个市镇安装、运营与维护电灯、热力与动力系统的特许经营权的法案",
   "en": "An Act Granting the Municipalities of Silago, Cabalian, Sogod, Malitbog, San Francisco, Liloan and Bontoc, All in the Province of Southern Leyte, a Franchise Each to Install, Operate and Maintain an Electric Light, Heat and Power System",
   "orig": "An Act Granting the Municipalities of Silago, Cabalian, Sogod, Malitbog, San Francisco, Liloan and Bontoc, All in the Province of Southern Leyte, a Franchise Each to Install, Operate and Maintain an Electric Light, Heat and Power System"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Municipalities of Silago, Cabalian, Sogod, Malitbog, San Francisco, Liloan and Bontoc, All in the Province of Southern Leyte, a Franchise Each to Install, Operate and Maintain an Electric Light, Heat and Power System",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9053",
  "title": {
-  "zh": null,
+  "zh": "促进本国农业与渔业机械化发展的法案",
   "en": "An Act Promoting Agricultural and Fisheries Mechanization Development in the Country",
   "orig": "An Act Promoting Agricultural and Fisheries Mechanization Development in the Country"
  },
@@ -583,5 +583,13 @@
     "en": "Effectivity Clause. – This Act shall take effect after fifteen (15) days from its publication in the Official Gazette or m two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Promoting Agricultural and Fisheries Mechanization Development in the Country",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

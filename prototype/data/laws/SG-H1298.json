@@ -1,7 +1,7 @@
 {
  "id": "SG-H1298",
  "title": {
-  "zh": null,
+  "zh": "节能（运输设施运营人能源管理实践）条例 2013",
   "en": "Energy Conservation (Energy Management Practices for Transport Facility Operators) Regulations 2013",
   "orig": null
  },
@@ -234,5 +234,13 @@
     "en": "SECOND SCHEDULE\nRegulation 8(4)(g)\nData on processes and activities\nresulting in greenhouse gas emissions\nFirst column\nProcess or Activity\nSecond column\nData on processes and activities to be provided\nThird column\nUnit of measure\nUse of HFCs and PFCs as Substitutes for Ozone Depleting Substances\n1.Use of HFCs and PFCs in fire protection equipment\n(1)Type of HFC or PFC used in the equipment\n(2)Amount of the HFC or PFC (in the equipment) which is used\nTonne\n(3)Amount of the HFC or PFC (in the equipment) which is disposed of\nTonne\n2.Use of HFCs or PFCs in refrigeration and air-conditioning equipment\n(1)Type of HFC or PFC used in the equipment\n(2)Amount of the HFC or PFC topped up in the equipment\nKilogramme\n(3)Amount of the HFC or PFC (in the equipment) which is disposed of\nTonne\nUse of Lubricants\n3.Use of lubricant\n(1)Amount of lubricant consumed\nTerajoule\n(2)Carbon content of lubricant\nTonne of Carbon/Terajoule\n(3)Fraction oxidised during use\nFraction\nUse of SF6 in Electrical Equipment\n4.Use of SF6 in electrical equipment\n(1)Type of equipment (e.g. sealed‑pressure, closed‑pressure, gas‑insulated transformers)\nSF6 emissions during equipment installation\n(2)Capacity of new equipment filled onsite\nTonne SF6\n(3)SF6 emission factor during installation\nFraction\nSF6 emissions from equipment use\n(4)Capacity of installed equipment\nTonne SF6\n(5)SF6 emission factor during use\nFraction\nSF6 emissions from equipment disposal\n(6)Capacity of disposed equipment\nTonne SF6\n(7)Fraction of SF6 remaining at disposal\nFraction\nAny Other Process or Activity Resulting in Greenhouse Gas Emissions\n5.Any other process or activity resulting in greenhouse gas emissions\n(1)Type of process or activity\n(2)Amount of process or activity\nTonne raw material or product from the process or activity\n(3)Type of greenhouse gas emitted\n(4)Greenhouse gas emission factor(s)\nTonne greenhouse gas/tonne raw material or product from the process or activity."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Energy Conservation (Energy Management Practices for Transport Facility Operators) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

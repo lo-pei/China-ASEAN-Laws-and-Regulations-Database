@@ -1,7 +1,7 @@
 {
  "id": "PH-H1653",
  "title": {
-  "zh": null,
+  "zh": "修订碧瑶市宪章若干条款，规定该市官员新薪级表并增加助理市检察官人数的法案",
   "en": "An Act to Amend Certain Sections of the Charter of the City of Baguio, so as to Provide a New Schedule of Salaries of City Officials of the Said City and to Increase the Number of Assistant City Attorneys",
   "orig": "An Act to Amend Certain Sections of the Charter of the City of Baguio, so as to Provide a New Schedule of Salaries of City Officials of the Said City and to Increase the Number of Assistant City Attorneys"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of the Charter of the City of Baguio, so as to Provide a New Schedule of Salaries of City Officials of the Said City and to Increase the Number of Assistant City Attorneys",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

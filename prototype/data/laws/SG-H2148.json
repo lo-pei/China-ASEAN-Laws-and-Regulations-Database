@@ -1,7 +1,7 @@
 {
  "id": "SG-H2148",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济与技术发展利息及其他付款豁免）（第 2 号）公告 2009",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 2) Notification 2009",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Subject to sub-paragraph (2), there shall be exempt from tax the specified income payable by Bridgestone Finance Europe B.V. on or before 31st December 2012, on notes issued during the specified period to any noteholder who is not resident in Singapore and —\n(a)who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the notes are not obtained from that operation; or\n(b)who does not have any permanent establishment in Singapore.\n[S 294/2013 wef 01/01/2013]\n(2) The exemption under sub-paragraph (1) is subject to the following conditions:\n(a)the dealer or dealers for at least 70% of the total notes issued in every calendar year of the specified period must be —\n(i)a financial institution in Singapore whose employees who are based in Singapore have a leading and substantial role in the distribution of the notes; or\n(ii)a financial sector incentive (bond market) company;\n(b)unless otherwise approved by the Minister or such person as he may appoint, the exemption shall not apply if, during the primary launch of the notes issued during the specified period —\n(i)the notes are issued to fewer than 4 persons; and\n(ii)50% or more of the notes so issued are beneficially held or funded, directly or indirectly, by related parties of Bridgestone Finance Europe B.V.;\n(c)where —\n(i)during the primary launch of the notes issued during the specified period, the notes are issued to 4 or more persons, or less than 50% of the notes so issued are beneficially held or funded, directly or indirectly, by related parties of Bridgestone Finance Europe B.V.; and\n(ii)at any time during the term of the notes, 50% or more of the notes so issued are beneficially held or funded, directly or indirectly, by related parties of Bridgestone Finance Europe B.V.,\nthen, unless otherwise approved by the Minister or such person as he may appoint, the exemption shall apply to the specified income derived by any noteholder referred to in sub-paragraph (1) only if —\n(A)the noteholder is not a related party of Bridgestone Finance Europe B.V.; and\n(B)the funds used by that noteholder to acquire those notes are not obtained, directly or indirectly, from any related party of Bridgestone Finance Europe B.V.;\n(d)Bridgestone Finance Europe B.V. includes in all offering documents for the notes a statement to the effect that, where the specified income is derived from any notes issued during the specified period by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore, the exemption shall not apply if such person acquires such notes using funds from the Singapore operations;\n(e)where the notes are issued during the specified period to any person who is not resident in Singapore (referred to in this sub-paragraph as the non-resident person) in connection with or for the purpose of enabling that non-resident person to issue debt securities (referred to in this sub-paragraph as the relevant securities), directly or indirectly, to investors, the exemption shall apply only if —\n(i)the relevant securities are qualifying debt securities;\n(ii)the relevant securities contain restrictions against the acquisition of such relevant securities by any investor who is a resident of, or a permanent establishment in, Singapore; and\n(iii)the relevant securities are not acquired by any investor using funds from the Singapore operations of the investor; and\n(f)Bridgestone Finance Europe B.V., or such other person as the Comptroller may direct, furnishes to the Comptroller a return on the notes within such period as the Comptroller may specify and such other particulars in connection with the notes as the Comptroller may require."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) (No. 2) Notification 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

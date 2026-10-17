@@ -1,7 +1,7 @@
 {
  "id": "PH-H9920",
  "title": {
-  "zh": null,
+  "zh": "将索索贡第二区工程办公室的驻地由索索贡Bulan迁至索索贡Gubat，为此修订第9689号共和国法（即《在索索贡省设立索索贡第二区工程办公室并为此拨款法》）的法案",
   "en": "An Act Transferring the Location of the Sorsogon Second District Engineering Office From Bulan, Sorsogon to Gubat, Sorsogon, Amending for the Purpose, Republic Act No. 9689, Entitled \"An Act Establishing the Sorsogon Second District Engineering Office in the Province of Sorsogon and Appropriating Funds Therefor\"",
   "orig": "An Act Transferring the Location of the Sorsogon Second District Engineering Office From Bulan, Sorsogon to Gubat, Sorsogon, Amending for the Purpose, Republic Act No. 9689, Entitled \"An Act Establishing the Sorsogon Second District Engineering Office in the Province of Sorsogon and Appropriating Funds Therefor\""
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H9920-A1_2",
+   "id": "PH-H9920-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "There shall be established under the supervision of the Department of Public Works and Highways, a second district engineering office in the Second Congressional District of the Province of Sorsogon to be located in the Municipality of Gubat, to be known as the Sorsogon Second District Engineering Office.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H9920-A2",
@@ -80,5 +81,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Transferring the Location of the Sorsogon Second District Engineering Office From Bulan, Sorsogon to Gubat, Sorsogon, Amending for the Purpose, Republic Act No. 9689, Entitled \"An Act Establishing the Sorsogon Second District Engineering Office in the Province of Sorsogon and Appropriating Funds Therefor\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

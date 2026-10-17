@@ -1,7 +1,7 @@
 {
  "id": "PH-H8550",
  "title": {
-  "zh": null,
+  "zh": "将打拉省帕尼基与拉莫斯市镇的帕尼基—拉莫斯公路改设为国道的法案",
   "en": "An Act Converting the Paniqui - Ramos Road in the Municipalities of Paniqui and Ramos, Province of Tarlac Into a National Road",
   "orig": "An Act Converting the Paniqui - Ramos Road in the Municipalities of Paniqui and Ramos, Province of Tarlac Into a National Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Paniqui - Ramos Road in the Municipalities of Paniqui and Ramos, Province of Tarlac Into a National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

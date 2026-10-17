@@ -1,7 +1,7 @@
 {
  "id": "PH-H7959",
  "title": {
-  "zh": null,
+  "zh": "菲律宾二战退伍军人养老金与福利法 2008",
   "en": "Filipino World War II Veterans Pensions and Benefits Act of 2008.",
   "orig": "Filipino World War II Veterans Pensions and Benefits Act of 2008. An Act Allowing Filipino World War II Veterans to Continue Receiving Philippine Government Pensions and Benefits Notwithstanding Similar Pensions and Benefits Provided by the United States Government, Thereby Amending Republic Act No. 6948, as amended"
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Filipino World War II Veterans Pensions and Benefits Act of 2008.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

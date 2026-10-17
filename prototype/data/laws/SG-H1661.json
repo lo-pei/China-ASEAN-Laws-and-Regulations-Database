@@ -1,7 +1,7 @@
 {
  "id": "SG-H1661",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（一般事项）条例 2025",
   "en": "Guns, Explosives and Weapons Control (General Matters) Regulations 2025",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9.—(1) This regulation applies where a licence is revoked under section 66 of the Act, or expires and is not renewed.\n(2) A Licensing Officer may, in any of the circumstances described in paragraph (1), direct the former holder of a licence —\n(a)to surrender or return to the Licensing Officer, within a period stated in the direction, the revoked or expired licence; or\n(b)in the case of a digital licence, to remove, within a period stated in the direction, the digital licence from each mobile communication device or other electronic device on which the digital licence is capable of being displayed.\n(3) A person who, without reasonable excuse, fails to comply with a direction given to the person under paragraph (2) shall be guilty of an offence and shall be liable on conviction —\n(a)where the person is an individual — to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both; or\n(b)where the person is not an individual — to a fine not exceeding $10,000.\n(4) Any direction under paragraph (2) to return or surrender a licence does not extend to any mobile communication device or other electronic device on which a licence granted in digital form is displayed."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Guns, Explosives and Weapons Control (General Matters) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

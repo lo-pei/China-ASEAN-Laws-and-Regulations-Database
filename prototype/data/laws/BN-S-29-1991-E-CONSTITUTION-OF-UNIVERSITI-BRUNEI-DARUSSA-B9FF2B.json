@@ -1,7 +1,7 @@
 {
  "id": "BN-S-29-1991-E-CONSTITUTION-OF-UNIVERSITI-BRUNEI-DARUSSA-B9FF2B",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰大学章程修正命令 1991",
   "en": "CONSTITUTION OF UNIVERSITI BRUNEI DARUSSALAM AMENDMENT ORDER 1991",
   "orig": null
  },
@@ -92,5 +92,13 @@
     "en": "The Constitution is amended by deleting sub-section ( 1) of section Amendment of 51 and substituting therefor the following -· section 51. \"(1) The disciplinary authority of the University in respect of every student of the University shall be the Deputy ViceChancellor or, if there are more than one Deputy Vice-Chancellor, such one of them as may be named by the Vice-Chancellor, or, if there is no Deputy Vice-Chancellor, such staff member or officer of the University as may be named by the Vice-Chancellor to be the disciplinary authority.\" Made this 19th day of September, 1991, at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "CONSTITUTION OF UNIVERSITI BRUNEI DARUSSALAM AMENDMENT ORDER 1991",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1269",
  "title": {
-  "zh": null,
+  "zh": "职业介绍所（豁免）命令 2011",
   "en": "Employment Agencies (Exemption) Order 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The following persons shall be exempted from section 6 of the Act:\n(a)any person who carries on an employment agency, or performs any work or activity in Singapore for or in connection with the employment of one or more persons in any capacity, wholly using the World Wide Web through the Internet;\n(b)any person who maintains and operates any job bulletin board or any other platform for the placement of information for or in connection with the employment of one or more persons in any capacity, and who does not otherwise carry on an employment agency or perform any work or activity in Singapore for or in connection with the employment of one or more persons in any capacity;\n(c)any person who submits any application on behalf of any employer to the Controller of Work Passes appointed under section 3 of the Employment of Foreign Manpower Act (Cap. 91A), which application is required under that Act, and who does not otherwise carry on an employment agency or perform any work or activity in Singapore for or in connection with the employment of one or more persons in any capacity.\n(2) Any person resident outside Singapore who enters and remains in Singapore for not more than 30 days within a continuous period of 6 months to perform any work or activity in Singapore for or in connection with the employment of one or more persons in any capacity shall be exempted from section 6 of the Act, subject to the following conditions:\n(a)the person must obtain the approval of the Commissioner to be registered as an exempt person; and\n(b)the person must remain registered as an exempt person during the period that he performs such work or activity in Singapore.\n(3) Any recognised university or educational institution set out in Part I of the Schedule to the Employment of Foreign Manpower (Work Pass Exemptions) Notification (Cap. 91A, N 2) shall be exempted from section 6 of the Act when carrying on an employment agency or when performing any work or activity referred to in section 6(2) of the Act.\n(4) The following persons shall be exempted from the Act when carrying on an employment agency or when performing any work or activity referred to in section 6(2) of the Act:\n(a)any Community Development Council;\n(b)the Employment and Employability Institute Pte. Ltd.;\n(c)the Skills and Workforce Development Agency established by section 3 of the Skills and Workforce Development Agency Act 2026.\n[S 418/2026 wef 01/07/2026]\n(d)[Deleted by S 418/2026 wef 01/07/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Employment Agencies (Exemption) Order 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

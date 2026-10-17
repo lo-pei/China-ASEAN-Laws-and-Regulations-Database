@@ -1,7 +1,7 @@
 {
  "id": "SG-H3471",
  "title": {
-  "zh": null,
+  "zh": "停车位（豁免）命令 2015",
   "en": "Parking Places (Exemption) Order 2015",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. The Parking Places (Exemption) (No. 2) Order (O 4) is revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Parking Places (Exemption) Order 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

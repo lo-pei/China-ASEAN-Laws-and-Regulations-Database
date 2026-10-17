@@ -1,7 +1,7 @@
 {
  "id": "SG-H1967",
  "title": {
-  "zh": null,
+  "zh": "所得税（国际增长公司优惠税率）条例 2017",
   "en": "Income Tax (Concessionary Rate of Tax for International Growth Company) Regulations 2017",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The following activities are qualifying activities for the purposes of section 43ZH of the Act:\n(a)the sale of goods;\n(b)the provision of engineering or technical services;\n(c)the provision of computer‑based information and other computer related services;\n(d)the provision of entertainment, leisure or recreational services;\n(e)the provision of publishing services;\n(f)the provision of education and other related services;\n(g)the provision of medical services;\n(h)the provision of logistics services;\n(i)the provision of business consultancy, management or professional services."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Concessionary Rate of Tax for International Growth Company) Regulations 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

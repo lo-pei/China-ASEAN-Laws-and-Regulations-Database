@@ -1,7 +1,7 @@
 {
  "id": "SG-H122",
  "title": {
-  "zh": null,
+  "zh": "穆斯林法管理（开斋捐）规则",
   "en": "Administration of Muslim Law (Fitrah) Rules",
   "orig": null
  },
@@ -350,5 +350,13 @@
     "en": "24.—(1) An amil of every daerah who wilfully —\n(a)omits to enter in the register submitted by him under rule 6 the name of any fakir or miskin in his daerah;\n(b)makes any false entry in that register; or\n(c)omits to issue a receipt under rule 7,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.\n(2) Any person who obstructs, prevents or restrains or does any act likely to obstruct, prevent or restrain any person from paying fitrah under these Rules and any person who without lawful authority receives any fitrah from any person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.\n(3) Any person who fails or refuses to pay fitrah to an amil shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100 or to imprisonment for a term not exceeding one month or to both."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Administration of Muslim Law (Fitrah) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

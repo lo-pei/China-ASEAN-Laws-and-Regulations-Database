@@ -1,7 +1,7 @@
 {
  "id": "PH-H5794",
  "title": {
-  "zh": null,
+  "zh": "设立 People's Television Network, Incorporated 这一机构，界定其权力与职能，规定其资金来源与用途，并为其他目的作出规定的法案",
   "en": "An Act Providing for the Establishment of the People's Television Network, Incorporated, Defining Its Powers and Functions, Providing for Its Sources of Funding and for Other Purposes",
   "orig": "An Act Providing for the Establishment of the People's Television Network, Incorporated, Defining Its Powers and Functions, Providing for Its Sources of Funding and for Other Purposes"
  },
@@ -340,5 +340,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Establishment of the People's Television Network, Incorporated, Defining Its Powers and Functions, Providing for Its Sources of Funding and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

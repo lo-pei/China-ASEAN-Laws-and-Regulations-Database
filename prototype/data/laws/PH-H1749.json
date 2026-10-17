@@ -1,7 +1,7 @@
 {
  "id": "PH-H1749",
  "title": {
-  "zh": null,
+  "zh": "为若干目的重新划拨第1411号共和国法若干项目中的拨款的法案",
   "en": "An Act Reappropriating for Certain Purposes the Appropriations in Certain Items in Republic Act Numbered Fourteen Hundred Eleven",
   "orig": "An Act Reappropriating for Certain Purposes the Appropriations in Certain Items in Republic Act Numbered Fourteen Hundred Eleven"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reappropriating for Certain Purposes the Appropriations in Certain Items in Republic Act Numbered Fourteen Hundred Eleven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

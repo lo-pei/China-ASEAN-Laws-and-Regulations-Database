@@ -1,7 +1,7 @@
 {
  "id": "SG-H1364",
  "title": {
-  "zh": null,
+  "zh": "环境卫生（豁免受管制工程）条例 2023",
   "en": "Environmental Public Health (Exempted Controlled Works) Regulations 2023",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nPart 1\nExempted Controlled Works\n1.Any controlled works carried out for or in connection with any single unit detached house, semi‑detached house, terraced or linked house for residential purposes (excluding any strata‑titled properties with communal facilities), if the controlled works —\n(a)do not involve any installation, alteration or replacement of a controlled facility as defined in section 46A of the Act; and\n(b)satisfy the condition concerning roof gutters.\n2.Any controlled works carried out for or in connection with any minor development project, if the controlled works —\n(a)do not involve any installation, alteration or replacement of a controlled facility as defined in section 46A of the Act;\n(b)do not result in an increase in the estimated refuse output of the area on which the minor development project is carried out; and\n(c)satisfy the condition concerning roof gutters.\n3.Any controlled works carried out for or in connection with any minor addition and alteration works to any industrial or trade premises or industrial plant, if the controlled works —\n(a)do not involve any installation, alteration or replacement of a controlled facility as defined in section 46A of the Act;\n(b)do not result in any increase in the estimated refuse output of the industrial or trade premises or industrial plant; and\n(c)satisfy the condition concerning roof gutters.\nPart 2\nInterpretation\n1. In this Schedule —\n“ancillary facility”, in relation to any industrial or trade premises or industrial plant, means separate buildings, structures or facilities within the industrial or trade premises or industrial plant, such as an electric substation or a shed;\n“industrial or trade premises” and “industrial plant” have the meanings given by section 2 of the Environmental Protection and Management Act 1999;\n“minor addition and alteration works” means any of the following controlled works done as an addition or alteration to any industrial or trade premises or industrial plant:\n(a)works in relation to the structural elements of a building;\n(b)works to any ancillary facility of the industrial or trade premises or industrial plant;\n(c)reconfiguration of industrial units without any change in the existing scope or intensity of industrial activities carried out on the industrial or trade premises or industrial plant;\n“minor development project” means any of the following projects:\n(a)the provision, extension or alteration of a linkway or ramp;\n(b)the provision, extension or alteration of a taxi shelter, bus stop or pedestrian overhead bridge;\n(c)lift installation or upgrading works;\n(d)the provision, extension or alteration of a pavilion, shelter or canopy;\n(e)the upgrading of an electrical substation or consumer switchroom;\n(f)internal upgrading works such as internal staircases, partitions, and flooring works;\n“roof gutter” includes rainwater outlet, scupper drain and rainwater downpipe.\n2. In this Schedule, controlled works satisfy the condition concerning roof gutters if they either —\n(a)do not involve any installation of roof gutters; or\n(b)involve the installation of roof gutters that meets all of the following requirements:\n(i)the roof gutters are installed on a flat roof or balcony;\n(ii)the roof gutters installed are directly accessible by a staircase or a fixed ladder;\n(iii)the flat roof or balcony is enclosed by safety railings, or parapet walls, that are at least one metre in height."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Exempted Controlled Works) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

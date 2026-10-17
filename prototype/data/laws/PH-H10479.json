@@ -1,7 +1,7 @@
 {
  "id": "PH-H10479",
  "title": {
-  "zh": null,
+  "zh": "将南三宝颜省 Labangan 市镇 Upper Pulacan 描笼涯的 Bokong 国立中学的 Tabak 附属校分离，改设为独立的同名国立中学，并为此拨款",
   "en": "An Act Separating the Bokong National High School - Tabak Annex in Barangay Upper Pulacan, Municipality of Labangan, Province of Zamboanga del Sur from the Bokong National High School, Converting it into an Independent National High School to be Known as The Tabak National High School,and Appropriating Funds Therefor",
   "orig": "An Act Separating the Bokong National High School - Tabak Annex in Barangay Upper Pulacan, Municipality of Labangan, Province of Zamboanga del Sur from the Bokong National High School, Converting it into an Independent National High School to be Known as The Tabak National High School,and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Bokong National High School - Tabak Annex in Barangay Upper Pulacan, Municipality of Labangan, Province of Zamboanga del Sur from the Bokong National High School, Converting it into an Independent National High School to be Known as The Tabak National High School,and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

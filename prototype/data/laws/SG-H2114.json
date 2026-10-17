@@ -1,7 +1,7 @@
 {
  "id": "SG-H2114",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）命令 2015",
   "en": "Income Tax (Exemption of Foreign Income) Order 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Income comprising the following is exempt from tax:\n(a)dividends described in sub-paragraph (2) that are received in Singapore by Berger International Private Limited (a company incorporated in Singapore) on or after 17 November 2014 from Enterprise Paints Limited, Universal Paints Limited and Nirvana Investment Limited (companies incorporated in the Isle of Man);\n(b)dividends received in Singapore by Berger International Private Limited on or after 20 September 2016 from Asian Paints (Middle East) LLC (a company incorporated in Oman).\n(2) Sub-paragraph (1)(a) applies to dividends derived from dividends received by Enterprise Paints Limited, Universal Paints Limited and Nirvana Investment Limited from Berger Paints Bahrain W.L.L. (a company incorporated in Bahrain) and Berger Paints Emirates LLC (a company incorporated in Dubai).\n(3) The exemption from tax on income mentioned in sub-paragraph (1)(a) is subject to the terms and conditions specified in the letter of approval dated 17 November 2014 addressed to the tax agent of Berger International Private Limited.\n(4) The exemption from tax on income mentioned in sub-paragraph (1)(b) is subject to the terms and conditions specified in the letter of approval dated 20 September 2016 addressed to the tax agent of Berger International Private Limited.\n[S 497/2016 wef 10/10/2016]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) Order 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

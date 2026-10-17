@@ -1,7 +1,7 @@
 {
  "id": "SG-H2596",
  "title": {
-  "zh": null,
+  "zh": "劳资关系（为本法目的的雇员）公告 1988",
   "en": "Industrial Relations (Employees for the Purposes of the Act) Notification 1988",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\n(1)\nAll monthly-rated employees in Division IV of the public service.\n(2)\nGovernment Daily Rated Employees.\n(3)\nClerical Officer Grade I.\n(4)\nClerical Officer Grade III.\n(5)\nClerical Officer Grade IV.\n(6)\nStatistical Assistant Grade III.\nMINISTRY OF DEFENCE\n(7)(a)\nSenior Public Health Inspector.\n(b)\nPublic Health Inspector.\n(c)\nAssistant Public Health Inspector.\nMINISTRY OF FINANCE\nSingapore Customs\n(8)(a)\nSingapore Customs Senior Officer Grade IVA.\n(b)\nSingapore Customs Senior Officer Grade IV.\n(c)\nSingapore Customs Senior Officer Grade V.\n(d)\nSingapore Customs Specialist 12.\n(e)\nSingapore Customs Specialist 13.\n(f)\nChief Singapore Customs Officer.\n(g)\nSenior Singapore Customs Officer.\n(h)\nSingapore Customs Officer.\nMINISTRY OF HEALTH\n(9)\nChief Nursing Officer.\nMINISTRY OF HOME AFFAIRS\nFire Service Department\n(10)\nEmployees of the Singapore Fire Service.\nPolice Department\n(11)\nFingerprint Examiner.\nImmigration & Checkpoints Authority\n(12)(a)\nImmigration & Checkpoints Senior Officer Grade IVA.\n(b)\nImmigration & Checkpoints Senior Officer Grade IV.\n(c)\nImmigration & Checkpoints Senior Officer Grade V.\n(d)\nImmigration & Checkpoints Executive 12.\n(e)\nImmigration & Checkpoints Executive 13.\n(f)\nChief Immigration & Checkpoints Specialist.\n(g)\nSenior Immigration & Checkpoints Specialist.\n(h)\nHigher Immigration & Checkpoints Specialist 1.\n(i)\nHigher Immigration & Checkpoints Specialist 2.\n(j)\nImmigration & Checkpoints Specialist."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Industrial Relations (Employees for the Purposes of the Act) Notification 1988",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

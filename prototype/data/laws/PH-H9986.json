@@ -1,7 +1,7 @@
 {
  "id": "PH-H9986",
  "title": {
-  "zh": null,
+  "zh": "将巴拉望省 Rizal 市镇产院床位由十（10）张增至二十（20）张、提升其服务设施与专业医疗护理、授权增加医务人员并为其拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Lying-In Clinic in the Municipality of Rizal, Province of Palawan From Ten (10) Beds to Twenty (20) Beds, Upgrading Its Service Facilities and Professional Health Care Services, Authorizing the Increase of Its Medical Personnel, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Lying-In Clinic in the Municipality of Rizal, Province of Palawan From Ten (10) Beds to Twenty (20) Beds, Upgrading Its Service Facilities and Professional Health Care Services, Authorizing the Increase of Its Medical Personnel, and Appropriating Funds Therefor"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Lying-In Clinic in the Municipality of Rizal, Province of Palawan From Ten (10) Beds to Twenty (20) Beds, Upgrading Its Service Facilities and Professional Health Care Services, Authorizing the Increase of Its Medical Personnel, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

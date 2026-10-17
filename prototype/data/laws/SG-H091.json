@@ -1,7 +1,7 @@
 {
  "id": "SG-H091",
  "title": {
-  "zh": null,
+  "zh": "主动出行（裕廊镇公司—豁免）命令 2025",
   "en": "Active Mobility (Jurong Town Corporation — Exemption) Order 2025",
   "orig": null
  },
@@ -87,5 +87,11 @@
     "en": "THE SCHEDULE\nParagraph 2\nPunggol Digital District"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Active Mobility (Jurong Town Corporation — Exemption) Order 2025",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1635",
  "title": {
-  "zh": null,
+  "zh": "修订第1290号共和国法（《从第1000号共和国法授权债券收益中拨出380万比索资助马尼拉铁路公司重建其自布拉干省普拉里德尔市镇至卡巴纳图安市的卡巴纳图安支线》）第1条的法案",
   "en": "An Act to Amend Section One of Republic Act Numbered One Thousand Two Hundred and Ninety, Entitled “An Act Appropriating the Sum of Three Million Eight Hundred Thousand Pesos, Out of the Proceeds of the Bond Issue Authorized by Republic Act Numbered One Thousand, to Finance the Re-Establishment and Rehabilitation by the Manila Railroad Company of its Cabanatuan Branch Extending from the Municipality of Plaridel, Province of Bulacan, to the City of Cabanatuan”",
   "orig": "An Act to Amend Section One of Republic Act Numbered One Thousand Two Hundred and Ninety, Entitled “An Act Appropriating the Sum of Three Million Eight Hundred Thousand Pesos, Out of the Proceeds of the Bond Issue Authorized by Republic Act Numbered One Thousand, to Finance the Re-Establishment and Rehabilitation by the Manila Railroad Company of its Cabanatuan Branch Extending from the Municipality of Plaridel, Province of Bulacan, to the City of Cabanatuan”"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section One of Republic Act Numbered One Thousand Two Hundred and Ninety, Entitled “An Act Appropriating the Sum of Three Million Eight Hundred Thousand Pesos, Out of the Proceeds of the Bond Issue Authorized by Republic Act Numbered One Thousand, to Finance the Re-Establishment and Rehabilitation by the Manila Railroad Company of its Cabanatuan Branch Extending from the Municipality of Plaridel, Province of Bulacan, to the City of Cabanatuan”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

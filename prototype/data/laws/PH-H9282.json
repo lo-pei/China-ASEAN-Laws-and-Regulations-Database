@@ -1,7 +1,7 @@
 {
  "id": "PH-H9282",
  "title": {
-  "zh": null,
+  "zh": "将南甘马粦省Sangay市镇Tinorongan描笼涯的博士Rodolfo V. Pamor, Jr.纪念国立中学附属校分离为独立的Tinorongan国立中学，并为此拨付所需经费",
   "en": "An Act Separating the Dr. Rodolfo V. Pamor, Jr. Memorial National High School – Sangay Western High School Annex in Barangay Tinorongan, Municipality of Sangay, Province of Camarines Sur From the Dr. Rodolfo V. Pamor, Jr. Memorial National High School, Converting It Into An Independent National High School to Be Known as Tinorongan National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Dr. Rodolfo V. Pamor, Jr. Memorial National High School – Sangay Western High School Annex in Barangay Tinorongan, Municipality of Sangay, Province of Camarines Sur From the Dr. Rodolfo V. Pamor, Jr. Memorial National High School, Converting It Into An Independent National High School to Be Known as Tinorongan National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Dr. Rodolfo V. Pamor, Jr. Memorial National High School – Sangay Western High School Annex in Barangay Tinorongan, Municipality of Sangay, Province of Camarines Sur From the Dr. Rodolfo V. Pamor, Jr. Memorial National High School, Converting It Into An Independent National High School to Be Known as Tinorongan National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

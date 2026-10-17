@@ -1,7 +1,7 @@
 {
  "id": "PH-H10051",
  "title": {
-  "zh": null,
+  "zh": "将卡林加省 Tabuk 市 Dupag 描笼涯的 Naneng 国立中学－Mosimos 分校从该校分离，改设为名为 Dupag 国立中学的独立国立中学并拨款",
   "en": "An Act Separating the Naneng National High School – Mosimos Extension in Barangay Dupag, City of Tabuk, Province of Kalinga From the Naneng National High School, Converting It Into An Independent National High School to Be Known as Dupag National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Naneng National High School – Mosimos Extension in Barangay Dupag, City of Tabuk, Province of Kalinga From the Naneng National High School, Converting It Into An Independent National High School to Be Known as Dupag National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Naneng National High School – Mosimos Extension in Barangay Dupag, City of Tabuk, Province of Kalinga From the Naneng National High School, Converting It Into An Independent National High School to Be Known as Dupag National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

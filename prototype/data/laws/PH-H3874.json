@@ -1,7 +1,7 @@
 {
  "id": "PH-H3874",
  "title": {
-  "zh": null,
+  "zh": "将菲律宾国会两院 1967 年 3 月 16 日第 1 号与第 3 号决议提出的宪法修正案提交菲律宾人民批准的法案",
   "en": "An Act Submitting to the Filipino People for Approval the Amendments to the Constitution of the Philippines Proposed by the Congress of the Philippines in Resolutions of Both Houses Numbered One and Three Adopted on March Sixteen, Nineteen Hundred and Sixty-Seven",
   "orig": "An Act Submitting to the Filipino People for Approval the Amendments to the Constitution of the Philippines Proposed by the Congress of the Philippines in Resolutions of Both Houses Numbered One and Three Adopted on March Sixteen, Nineteen Hundred and Sixty-Seven"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Submitting to the Filipino People for Approval the Amendments to the Constitution of the Philippines Proposed by the Congress of the Philippines in Resolutions of Both Houses Numbered One and Three Adopted on March Sixteen, Nineteen Hundred and Sixty-Seven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1025",
  "title": {
-  "zh": null,
+  "zh": "规定战时与其他国家紧急状态下的民防、设立国家民防署并为其他目的法案",
   "en": "An Act to Provide for the Civil Defense in Time of War and Other National Emergency, Creating a National Civil Defense Administration, and for Other Purposes",
   "orig": "An Act to Provide for the Civil Defense in Time of War and Other National Emergency, Creating a National Civil Defense Administration, and for Other Purposes"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: August 18, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Civil Defense in Time of War and Other National Emergency, Creating a National Civil Defense Administration, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

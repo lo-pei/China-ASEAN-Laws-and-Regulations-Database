@@ -1,7 +1,7 @@
 {
  "id": "SG-H3031",
  "title": {
-  "zh": null,
+  "zh": "有限合伙法 2008",
   "en": "Limited Partnerships Act 2008",
   "orig": null
  },
@@ -870,5 +870,13 @@
     "en": "SECOND SCHEDULE\nSections 11(3) and 43\nAdditional particulars\nDescription of person\nThe additional particulars\n1.Where the person carries on business as nominee or trustee of or for another person\nThe name, nationality and usual place of residence of every person on whose behalf the business is carried on and, if such person is a corporation, the name of the corporation, its registered office and the general nature of its business. Where the beneficiaries are a class of children or other persons, a description of the class.\n2.Where the person carries on business as agent for any foreign firm for the general purposes of the business of that foreign firm in Singapore\nThe business name and address of the foreign firm for whom the business is carried on and the general nature of that business except, where the business is carried on as agent for 3 or more foreign firms, it is sufficient to state the fact that the business is so carried on, specifying the firms and the countries in which those firms carry on business."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Limited Partnerships Act 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

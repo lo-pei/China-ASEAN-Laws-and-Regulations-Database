@@ -1,7 +1,7 @@
 {
  "id": "PH-H6278",
  "title": {
-  "zh": null,
+  "zh": "将学年由两百（200）天延长至不超过两百二十（220）个上课日的法案",
   "en": "An Act to Lengthen the School Calendar From Two Hundred (200) Days to Not More Than Two Hundred Twenty (220) Class Days",
   "orig": "An Act to Lengthen the School Calendar From Two Hundred (200) Days to Not More Than Two Hundred Twenty (220) Class Days"
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its approval.\nApproved, August 25, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Lengthen the School Calendar From Two Hundred (200) Days to Not More Than Two Hundred Twenty (220) Class Days",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

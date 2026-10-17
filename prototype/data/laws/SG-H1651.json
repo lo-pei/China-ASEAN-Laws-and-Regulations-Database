@@ -1,7 +1,7 @@
 {
  "id": "SG-H1651",
  "title": {
-  "zh": null,
+  "zh": "婴儿监护法 1934",
   "en": "Guardianship of Infants Act 1934",
   "orig": null
  },
@@ -337,5 +337,13 @@
     "en": "21. Unless the court otherwise orders, nothing in this Act shall apply to any money paid into a District Court to the credit of an infant in any action or proceeding in a District Court or to any money in a District Court ordered to be transferred to the credit of an infant, but the same shall be dealt with according to the Rules of Court.\n[16/93; 5/2014; 27/2014]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Guardianship of Infants Act 1934",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

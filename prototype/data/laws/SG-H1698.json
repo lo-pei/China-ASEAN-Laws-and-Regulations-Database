@@ -1,7 +1,7 @@
 {
  "id": "SG-H1698",
  "title": {
-  "zh": null,
+  "zh": "保健产品（世界泳联代表团医疗器械与治疗产品——豁免）命令 2025",
   "en": "Health Products (Medical Devices and Therapeutic Products for World Aquatics Delegations — Exemption) Order 2025",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. A medical professional who is a member of a World Aquatics delegation is exempt from section 14(1), (2) or (3) of the Act when supplying any applicable health product by export to a party outside Singapore under paragraph 5(e)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Health Products (Medical Devices and Therapeutic Products for World Aquatics Delegations — Exemption) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

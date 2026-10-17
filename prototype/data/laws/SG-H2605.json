@@ -1,7 +1,7 @@
 {
  "id": "SG-H2605",
  "title": {
-  "zh": null,
+  "zh": "传染病（防止传染病传播措施）（第 2 号）命令 2007",
   "en": "Infectious Diseases (Measures to Prevent Spread of Infectious Diseases) (No. 2) Order 2007",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nMeasures to Prevent Spread of Tuberculosis\nFirst column\nSecond column\nHospital\nMeasure\n1. National University Hospital\nTo provide the Director of the Tuberculosis Control Unit with access to the database of the Department of Laboratory Medicine, National University Hospital for the following purposes:\n(a) to identify persons suspected to be suffering from tuberculosis or to be carriers of tuberculosis; and\n(b) to track the results of confirmatory tuberculosis testing conducted on samples taken from persons referred to in sub-paragraph (a).\n2. Singapore General Hospital\nTo provide the Director of the Tuberculosis Control Unit with access to the database of the Central Tuberculosis Laboratory, Singapore General Hospital for the following purposes:\n(a) to identify persons suspected to be suffering from tuberculosis or to be carriers of tuberculosis; and\n(b) to track the results of confirmatory tuberculosis testing conducted on samples taken from persons referred to in sub-paragraph (a)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infectious Diseases (Measures to Prevent Spread of Infectious Diseases) (No. 2) Order 2007",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H917",
  "title": {
-  "zh": null,
+  "zh": "刑法（受监视人士的义务）规则 2018",
   "en": "Criminal Law (Obligations on Person Subject to Supervision) Rules 2018",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. For the purposes of section 33(1) and (2) of the Act, the obligations that the Minister may, by order in writing, direct a person subject to supervision to comply with are the following:\n(a)the person must only reside at a place specified in the order;\n(b)the person must remain indoors at the person’s place of residence between the hours specified in the order, unless the person has obtained special permission in writing to the contrary from the Director or an authorised person;\n(c)the person must report to such police officer of the police division in which the person resides, on such day or days and at such time or times, as may be specified in the order;\n(d)the person must not enter any area specified in the order, except in such circumstances as may be specified in the order;\n(e)the person must not leave Singapore without the written authority of the Director or an authorised person except in such circumstances as may be specified in the order;\n(f)the person must not communicate using any method with any other person whom the person knows, or has reason to suspect, is a person subject to supervision, unless the person has obtained permission from the Director or an authorised person;\n(g)the person must not, without reasonable excuse —\n(i)be present in any public place, or in the neighbourhood of any place of public entertainment, at any time between 7 p.m. and 7 a.m. the following day (both times inclusive);\n(ii)be in the company of any other person subject to supervision; or\n(iii)be in or near any place in which any act of violence or breach of the peace is being or has just been committed;\n(h)unless otherwise directed by the Director or an authorised person, the person must wear at all times on such part of the person’s body as specified by the Director or an authorised person such electronic transmitting device as may be issued by the Director or an authorised person;\n(i)the person must allow the Director or an authorised person to enter at any time the person’s place of residence to install, inspect, maintain, repair or retrieve any electronic monitoring device;\n(j)unless otherwise directed by the Director or an authorised person, the person must not disconnect, remove, damage, tamper with or lose the electronic transmitting device issued to the person or the electronic monitoring device installed at the person’s place of residence;\n(k)the person must immediately inform the Director or an authorised person of any malfunction, damage or loss of the electronic transmitting device issued to the person or the electronic monitoring device installed at the person’s place of residence;\n(l)the person must comply with all requirements specified by the Director or an authorised person to ensure the proper functioning of the electronic transmitting device issued to the person or the electronic monitoring device installed at the person’s place of residence;\n(m)the person must respond promptly to any telephone call from the centre set up to monitor persons who have been issued with an electronic transmitting device."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Law (Obligations on Person Subject to Supervision) Rules 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

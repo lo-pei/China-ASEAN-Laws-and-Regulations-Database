@@ -1,7 +1,7 @@
 {
  "id": "PH-H10690",
  "title": {
-  "zh": null,
+  "zh": "菲律宾穆斯林国家委员会法 2006",
   "en": "National Commission on Muslim Filipinos Act of 2006",
   "orig": "An Act Providing for Equitable Access to Shari'ah Courts Amending for the Purpose REpublic Act No. 9997, Otherwise Known as the \"National Commission on Muslim Filipinos Act of 2006\","
  },
@@ -120,5 +120,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days after its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "National Commission on Muslim Filipinos Act of 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

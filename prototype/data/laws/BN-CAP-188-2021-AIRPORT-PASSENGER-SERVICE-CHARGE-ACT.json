@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-188-2021-AIRPORT-PASSENGER-SERVICE-CHARGE-ACT",
  "title": {
-  "zh": null,
+  "zh": "机场乘客服务费法",
   "en": "AIRPORT PASSENGER SERVICE CHARGE ACT",
   "orig": null
  },
@@ -98,5 +98,13 @@
     "en": "The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make rules for giving effect to the objects and purposes of this Act and for the due administration thereof. Airport Passenger Service Churge CAP. 188 7"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "AIRPORT PASSENGER SERVICE CHARGE ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

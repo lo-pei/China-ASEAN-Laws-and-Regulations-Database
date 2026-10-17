@@ -1,7 +1,7 @@
 {
  "id": "PH-H823",
  "title": {
-  "zh": null,
+  "zh": "考虑到已故专员Pedro Guevara多年卓越功绩，给予其遗孀终身抚恤金的法案",
   "en": "An Act Granting a Life Pension to the Widow of the Late Commissioner Pedro Guevara in Consideration of His Many Years of Outstanding and Highly Meritorious Public Service",
   "orig": "An Act Granting a Life Pension to the Widow of the Late Commissioner Pedro Guevara in Consideration of His Many Years of Outstanding and Highly Meritorious Public Service"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 2, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting a Life Pension to the Widow of the Late Commissioner Pedro Guevara in Consideration of His Many Years of Outstanding and Highly Meritorious Public Service",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

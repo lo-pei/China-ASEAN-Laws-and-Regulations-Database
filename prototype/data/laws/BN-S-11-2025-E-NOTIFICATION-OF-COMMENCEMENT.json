@@ -1,7 +1,7 @@
 {
  "id": "BN-S-11-2025-E-NOTIFICATION-OF-COMMENCEMENT",
  "title": {
-  "zh": null,
+  "zh": "生效公告",
   "en": "NOTIFICATION OF COMMENCEMENT",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "BRUNEI DARUSSALAM GOVERNMENT GAZETTE No. S 11\n\nPERSONAL DATA PROTECTION ORDER, 2025 Notification of commencement In furtherance to the Notification of commencement immediately before this new Notification, in exercise of the power conferred by section 1(1) and (2) of the Personal Data Protection Order, 2025, the Minister of Transport and Infocommunications, with the consent of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 1st January 2026 as the date of commencement for the provisions of that Order as set out in the Schedule.\n\nSCHEDULE\n\nPROVISIONS OF PERSONAL DATA PROTECTION ORDER, 2025 PARTS 3 to 9 section 42 SCHEDULES 1 to 5. Dated this 8th. day of Rejab, 1446 Hijriah corresponding to the 8th. day of January, 2025.\n\nPENGIRAN DATO SERI SETIA SHAMHARY BIN PENGIRAN DATO PADUKA\n\nHAJI MUSTAPHA Minister of Transport and Infocommunications. Dicetak oleh Print Plus Sdn. Bhd., Bandar Seri Begawan BB35!0, Negara Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

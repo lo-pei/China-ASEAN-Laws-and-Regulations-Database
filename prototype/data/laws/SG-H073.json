@@ -1,7 +1,7 @@
 {
  "id": "SG-H073",
  "title": {
-  "zh": null,
+  "zh": "主动出行（执法侦测系统测试——豁免）命令 2024",
   "en": "Active Mobility (Enforcement Detection System Testing — Exemption) Order 2024",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Sections 15(1), 16(1)(a), 20A(2) and 21 of the Act do not apply to the rider of a specified PAB on a public path under the following conditions:\n(a)the rider is authorised by Fonda Global Engineering Pte. Ltd. to ride the specified PAB in connection with the specified activity;\n(b)Fonda Global Engineering Pte. Ltd. gives at least 3 working days’ written notice to the Authority of each date, time and location where the specified PAB will be ridden;\n(c)the specified PAB displays a white light at the front of the specified PAB and a red light or red reflector at the back of the specified PAB when ridden from 7 p.m. to 7 a.m.;\n(d)the rider rides at a speed not exceeding —\n(i)10 km/h on pedestrian‑only paths;\n(ii)20 km/h on footpaths; and\n(iii)35 km/h on shared paths;\n(e)the rider wears a suitable protective bicycle helmet securely on his or her head when riding the specified PAB;\n(f)there is in force, at any time the specified PAB is ridden in connection with the specified activity, a policy of insurance in relation to the specified PAB insuring against any liability in respect of —\n(i)the death of or bodily injury sustained by any person (other than the rider); and\n(ii)any property damage suffered by any person (other than the rider),\ncaused by or arising out of the use of the specified PAB;\n(g)the risk under the policy of insurance mentioned in sub‑paragraph (f) is assumed by an insurer who, at the time the policy is issued, is lawfully carrying on an insurance business in Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Enforcement Detection System Testing — Exemption) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

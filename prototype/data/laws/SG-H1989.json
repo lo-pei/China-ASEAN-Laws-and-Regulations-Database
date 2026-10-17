@@ -1,7 +1,7 @@
 {
  "id": "SG-H1989",
  "title": {
-  "zh": null,
+  "zh": "所得税（电子送达）条例 2018",
   "en": "Income Tax (Electronic Service) Regulations 2018",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Subject to paragraphs (2) and (3), the Comptroller may, in a trigger year and every subsequent year, serve a document on a specified person through the electronic service only if —\n(a)the Comptroller gives a notice of intention to the person in the trigger year or an earlier trigger year, and after the expiry of the opt-out period set out in the notice; or\n(b)the Comptroller gives a general notice in the trigger year or an earlier trigger year, and after the Comptroller receives a notice of consent from the person.\n(2) Subject to paragraph (3), the Comptroller must not serve a document on the specified person through the electronic service if the Comptroller receives a notice of refusal from the person, unless the Comptroller subsequently receives a notice of consent from the person.\n(3) Where the Comptroller receives the notice of refusal from the specified person —\n(a)after the expiry of the opt-out period set out in the notice of intention given to the person; or\n(b)after having received a notice of consent from the person,\nthe Comptroller may serve the document on the person through the electronic service before the time the Comptroller gives effect to the notice of refusal under paragraph (7).\n(4) For the purpose of paragraph (1)(a), a notice of intention —\n(a)must be given in such manner as the Comptroller reasonably believes will bring it to the attention of the specified person;\n(b)must state that the person may refuse to be served the document through the electronic service by giving a notice of refusal to the Comptroller; and\n(c)must state that if the Comptroller does not receive a notice of refusal from the person within the opt‑out period set out in the notice of intention, then the Comptroller may, after the expiry of the opt-out period, serve the document on the person through the electronic service —\n(i)in the year in which the notice of intention is given or a subsequent year; and\n(ii)in every subsequent year thereafter.\n(5) The opt‑out period set out in the notice of intention must be at least 14 days after the notice is given to the specified person.\n(6) For the purposes of paragraphs (1)(b), (2), (3) and (4), a notice of refusal or a notice of consent —\n(a)must be in the form approved by the Comptroller; and\n(b)must be received by the Comptroller through the electronic service or in any other manner specified by the Comptroller.\n(7) For the purposes of paragraphs (1)(b), (2) and (3), where the Comptroller receives —\n(a)a notice of refusal under paragraph (3); or\n(b)a notice of consent,\nthe Comptroller must give effect to such notice no later than 7 days after the Comptroller receives the notice.\n(8) The Comptroller may, in any particular case, extend the opt‑out period and where the Comptroller does so, references in this regulation to that period are to be read as references to the period so extended."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Electronic Service) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

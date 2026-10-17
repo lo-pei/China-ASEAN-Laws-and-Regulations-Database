@@ -1,7 +1,7 @@
 {
  "id": "SG-H1533",
  "title": {
-  "zh": null,
+  "zh": "电影（许可证——豁免）公告 2019",
   "en": "Films (Licence — Exemption) Notification 2019",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "10. The Films (Business Activities Exemption) Notification 2008 (G.N. No. S 434/2008) is cancelled."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Films (Licence — Exemption) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2881",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）法 1948",
   "en": "International Organisations (Immunities and Privileges) Act 1948",
   "orig": null
  },
@@ -136,5 +136,13 @@
     "en": "SECOND SCHEDULE\nSection 2(2)\nImmunities and privileges\nPart 1\nImmunities and Privileges of the Organisation\n1. Immunity from suit and legal process.\n2. The like inviolability of official archives and premises occupied as offices as is accorded in respect of the official archives and premises of an envoy of a foreign sovereign Power accredited to the President.\n3. The like exemption or relief from taxes and rates, other than import, export or excise duties on any article or articles, as may be accorded to a foreign sovereign Power.\n4. Exemption from import or excise duties on any article or articles directly imported by the organisation for its official use in Singapore, such exemption to be subject to compliance with such conditions as the Director‑General of Customs may prescribe for the protection of the revenue.\n5. Exemption from prohibition and restrictions on importation or exportation in the case of goods directly imported or exported by the organisation for its official use and in the case of any publications of the organisation directly imported or exported by it.\n6. The right to avail itself, for telegraphic communications sent by it and containing only matter intended for publication by the press or for broadcasting (including communications addressed to, or despatched from, places outside Singapore), of any reduced rates applicable for the corresponding service in the case of press telegrams.\nPart 2\nImmunities and Privileges of Representatives, Members of Committees, High Officers and Persons on Missions\n1. The like immunity from suit and legal process as is accorded to an envoy of a foreign sovereign Power accredited to the President.\n2. The like inviolability of residence as is accorded to such an envoy.\n3. The like exemption or relief from taxes as is accorded to such an envoy.\nPart 3\nImmunities and Privileges of Other Officers\nand Employees\n1. Immunity from suit and legal process in respect of things done or omitted to be done in the course of the performance of official duties.\n2. Exemption from income tax in respect of emoluments received as an officer or employee of the organisation.\nPart 4\nImmunities and Privileges of Representative’s Staff and of High Officer’s Family\n1. Where any person is entitled to any such immunities and privileges as are mentioned in Part 2 of this Schedule as a representative on any organ of the organisation or a member of any committee of the organisation or of an organ thereof, his official staff accompanying him as such a representative or member shall also be entitled to those immunities and privileges to the same extent as the retinue of an envoy of a foreign sovereign Power accredited to the President is entitled to the immunities and privileges accorded to the envoy.\n2. Where any person is entitled to any such immunities and privileges as are mentioned in Part 2 of this Schedule as an officer of the organisation, that person’s wife or husband and children under the age of 21 years shall also be entitled to those immunities and privileges to the same extent as the wife or husband and children of an envoy of a foreign sovereign Power accredited to the President are entitled to the immunities and privileges accorded to the envoy.\n[16/2016]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "International Organisations (Immunities and Privileges) Act 1948",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

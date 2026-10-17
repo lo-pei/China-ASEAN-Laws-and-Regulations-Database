@@ -1,7 +1,7 @@
 {
  "id": "SG-H2924",
  "title": {
-  "zh": null,
+  "zh": "裕廊镇公司（共有财产）规则 2018",
   "en": "Jurong Town Corporation (Common Property) Rules 2018",
   "orig": null
  },
@@ -294,5 +294,11 @@
     "en": "16. Any person who contravenes or fails to comply with rule 3, 4(1)(a) or (b), 5, 6, 7(1), 8 or 9 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Jurong Town Corporation (Common Property) Rules 2018",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

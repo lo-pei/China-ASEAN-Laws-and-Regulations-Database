@@ -1,7 +1,7 @@
 {
  "id": "SG-H786",
  "title": {
-  "zh": null,
+  "zh": "公司（登记转移）条例 2017",
   "en": "Companies (Transfer of Registration) Regulations 2017",
   "orig": null
  },
@@ -254,5 +254,11 @@
     "en": "THE SCHEDULE\nRegulation 5\nForm of notice of transfer of registration\nunder section 359(3) of the Act\nName of the company: .....................................\nUnique entity number: ......................................\nFormer name of the company prior to registration under the Companies Act 1967:\n............................................................\nThe company named above, which was incorporated in [place of original incorporation] on [date of original incorporation], is, on and from [date of registration] —\n(a)registered by way of transfer of registration under section 359(1) of the Companies Act 1967, [subject to the following conditions imposed by the Registrar under section 359(2) of the Companies Act 1967:]*\n[S 299/2025 wef 31/12/2021]\n[set out conditions imposed by the Registrar under section 359(2) of the Companies Act 1967, if any]*; and\n(b)a [private]* [public]* company limited by shares.\n*Delete if not applicable.\n[S 299/2025 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Companies (Transfer of Registration) Regulations 2017",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

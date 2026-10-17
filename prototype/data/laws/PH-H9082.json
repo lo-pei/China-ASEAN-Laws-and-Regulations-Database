@@ -1,7 +1,7 @@
 {
  "id": "PH-H9082",
  "title": {
-  "zh": null,
+  "zh": "加强菲律宾少年司法系统，为此修订第 9344 号共和国法（即 2006 年少年司法与福利法）并拨款的法案",
   "en": "An Act Strengthening the Juvenile Justice System in the Philippines, Amending for the Purpose Republic Act No. 9344, Otherwise Known as the Juvenile Justice and Welfare Act of 2006 and Appropriating Funds Therefor",
   "orig": "An Act Strengthening the Juvenile Justice System in the Philippines, Amending for the Purpose Republic Act No. 9344, Otherwise Known as the Juvenile Justice and Welfare Act of 2006 and Appropriating Funds Therefor"
  },
@@ -201,5 +201,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days after the completion of its publication in the Official Gazette or in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening the Juvenile Justice System in the Philippines, Amending for the Purpose Republic Act No. 9344, Otherwise Known as the Juvenile Justice and Welfare Act of 2006 and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

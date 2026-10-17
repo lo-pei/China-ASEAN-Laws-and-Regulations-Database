@@ -1,7 +1,7 @@
 {
  "id": "SG-H681",
  "title": {
-  "zh": null,
+  "zh": "合作社（“盈余”定义的修改）命令 2021",
   "en": "Co-operative Societies (Modification of Definition of “Surplus”) Order 2021",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The definition of “surplus” in section 2(1) of the Act, in its application to every society for the purposes of section 71(2) of the Act, is modified to the extent that it does not include the following:\n(a)any cash payment made on behalf of the Government to the society under the public scheme known as the Jobs Support Scheme (but only if the cash payment is made in connection with a COVID‑19 event);\n(b)any cash grant given on behalf of the Government to the society as the owner of any immovable property, under the public scheme for the giving of cash grants to mitigate rental costs that is part of the Budget Statement of the Government dated 26 May 2020.\n(2) To avoid doubt, sub‑paragraph (1) applies in relation to —\n(a)a financial year ending before the date of publication of this Order; and\n(b)a financial year ending on or after that date.\n(3) In this paragraph —\n“COVID‑19” means the infectious disease known as Coronavirus Disease 2019;\n“COVID‑19 event” means —\n(a)the COVID‑19 epidemic or pandemic; or\n(b)the operation of or compliance with any law of Singapore, or an order or direction of the Government or any statutory body, being any law, order or direction that is made by reason of or in connection with COVID‑19."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (Modification of Definition of “Surplus”) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3057",
  "title": {
-  "zh": null,
+  "zh": "宗教和谐维护（第 16D 与 16E 条的适用）命令 2025",
   "en": "Maintenance of Religious Harmony (Application of Sections 16D and 16E) Order 2025",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) For the purposes of section 16D(1) of the Act, the declared date is 1 January 2026.\n(2) For the purposes of section 16E(1) of the Act, the declared date is 1 January 2026."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Maintenance of Religious Harmony (Application of Sections 16D and 16E) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

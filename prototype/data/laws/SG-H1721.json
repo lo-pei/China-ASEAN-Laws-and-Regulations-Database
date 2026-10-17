@@ -1,7 +1,7 @@
 {
  "id": "SG-H1721",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（认可零售药房流感疫苗接种豁免）命令 2024",
   "en": "Healthcare Services (Exemption for Influenza Vaccination at Approved Retail Pharmacies) Order 2024",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) This paragraph applies where an influenza vaccine is administered at an approved retail pharmacy under a sandbox trial —\n(a)by an approved pharmacist who is employed by the holder of the pharmacy licence issued in respect of the approved retail pharmacy; and\n(b)in accordance with the conditions specified in the third column of item 4 of Part 1 of the Third Schedule to the Health Products (Therapeutic Products) Regulations 2016.\n(2) Section 8 of the Act does not apply to a holder of a pharmacy licence issued in respect of an approved retail pharmacy in relation to the administration of an influenza vaccine at the approved retail pharmacy.\n(3) Section 31(1) of the Act does not apply to —\n(a)a holder of a pharmacy licence who advertises, or causes to be advertised, any information relating to the administration of an influenza vaccine at the approved retail pharmacy to which the pharmacy licence relates; and\n(b)a person who, acting on the authority of a holder of a pharmacy licence, advertises or causes to be advertised, any information relating to the administration of an influenza vaccine at the approved retail pharmacy to which the pharmacy licence relates."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Healthcare Services (Exemption for Influenza Vaccination at Approved Retail Pharmacies) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6809",
  "title": {
-  "zh": null,
+  "zh": "授予 Eastern Visayas 电话公司在莱特等五省及所有组成市建设、运营和维护本地交换网络的特许经营权法案",
   "en": "An Act Granting the Eastern Visayas Telephone Company, Inc., A Franchise To Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Provinces of Leyte, Southern Leyte, Northern Samar, Western Samar, and Eastern Samar, Including All Component Or Chartered Cities Therein",
   "orig": "An Act Granting the Eastern Visayas Telephone Company, Inc., A Franchise To Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Provinces of Leyte, Southern Leyte, Northern Samar, Western Samar, and Eastern Samar, Including All Component Or Chartered Cities Therein"
  },
@@ -250,5 +250,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Eastern Visayas Telephone Company, Inc., A Franchise To Construct, Establish, Install, Maintain and Operate Local Exchange Network in the Provinces of Leyte, Southern Leyte, Northern Samar, Western Samar, and Eastern Samar, Including All Component Or Chartered Cities Therein",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10134",
  "title": {
-  "zh": null,
+  "zh": "菲律宾消费者法",
   "en": "Consumer Act of the Philippines",
   "orig": "An Act Providing for the Establishment of Timbangan ng Bayan Centers in Public and Private Markets, Amending for the Purpose Chaptere II, Title III of Republic Act No. 7394, Otherwise Known as the \"Consumer Act of the Philippines\""
  },
@@ -100,5 +100,13 @@
     "en": "Effectivity. - The Act shall take effect fifteen (15) days folowing its publication in at least two (2) newspapers of general circulation or in the Official Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Consumer Act of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

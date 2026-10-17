@@ -1,7 +1,7 @@
 {
  "id": "SG-H1484",
  "title": {
-  "zh": null,
+  "zh": "费用（印花税裁定）（减免）命令",
   "en": "Fees (Adjudication of Stamp Duty) (Remission) Order",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The adjudication fee payable under section 37(1) of the Stamp Duties Act (Cap. 312) in respect of any instrument relating to the transfer of any Housing and Development Board flat shall be remitted where the stamp duty in excess of $10 on that instrument has been remitted pursuant to the Order dated 19th April 1990 made under section 75 of the Stamp Duties Act (Cap. 312, O 2)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Adjudication of Stamp Duty) (Remission) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

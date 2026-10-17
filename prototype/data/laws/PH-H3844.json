@@ -1,7 +1,7 @@
 {
  "id": "PH-H3844",
  "title": {
-  "zh": null,
+  "zh": "修订第4569号共和国法（题为“规范司法公告、公开招标广告、拍卖公告及其他类似公告的刊登”）第1条",
   "en": "An Act to Amend Section One of Republic Act Numbered Four Thousand Five Hundred Sixty-Nine Entitled \"An Act Regulating the Publication of Judicial Notices, Advertisements of Public Biddings, Notices of Auction Sales and Other Similar Notices\"",
   "orig": "An Act to Amend Section One of Republic Act Numbered Four Thousand Five Hundred Sixty-Nine Entitled \"An Act Regulating the Publication of Judicial Notices, Advertisements of Public Biddings, Notices of Auction Sales and Other Similar Notices\""
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H3844-A1_2",
+   "id": "PH-H3844-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "All judicial notices, advertisements for public biddings, notices of auction sales and other similar notices or announcements required by law to be published in newspaper or periodical of general circulation in particular provinces and/or cities shall be published in newspapers or publications published, edited and printed in the same city and/or province where the requirement of general circulation applies: Provided, That in the event there is no newspaper or periodical published in the locality, the same be published in the newspaper or periodical published and edited in the nearest town, city or province: Provided, further, That no newspaper or periodical which has not been regularly published for at least two years before the date of publication of the notices or announcements which may be assigned to it shall be qualified to publish the said notices.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H3844-A2",
@@ -70,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section One of Republic Act Numbered Four Thousand Five Hundred Sixty-Nine Entitled \"An Act Regulating the Publication of Judicial Notices, Advertisements of Public Biddings, Notices of Auction Sales and Other Similar Notices\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

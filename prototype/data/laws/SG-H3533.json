@@ -1,7 +1,7 @@
 {
  "id": "SG-H3533",
  "title": {
-  "zh": null,
+  "zh": "规划（托儿中心——授权）公告",
   "en": "Planning (Child Care Centre — Authorisation) Notification",
   "orig": null
  },
@@ -136,5 +136,13 @@
     "en": "SECOND SCHEDULE\nParagraph 5\n[G.N. No. S 136/2005]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Planning (Child Care Centre — Authorisation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

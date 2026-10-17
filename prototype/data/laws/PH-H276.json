@@ -1,7 +1,7 @@
 {
  "id": "PH-H276",
  "title": {
-  "zh": null,
+  "zh": "要求在一份他加禄语报纸上刊登一级与二级酒吧营业执照申请的法案",
   "en": "An Act to Require Publication in a Tagalog Newspaper of Applications for Licenses to Conduct First and Second Class Bars",
   "orig": "An Act to Require Publication in a Tagalog Newspaper of Applications for Licenses to Conduct First and Second Class Bars"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Require Publication in a Tagalog Newspaper of Applications for Licenses to Conduct First and Second Class Bars",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

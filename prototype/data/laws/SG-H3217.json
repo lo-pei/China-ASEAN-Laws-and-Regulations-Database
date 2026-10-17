@@ -1,7 +1,7 @@
 {
  "id": "SG-H3217",
  "title": {
-  "zh": null,
+  "zh": "军事演习（射击场）宣告",
   "en": "Military Manoeuvres (Firing Ground) Proclamation",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\n36 Sce Eod Range\nAll that area comprised in part of State Land Lot 1608, MUKIM NO. 31 (CHANGI) occupied by “36 SCE EOD RANGE” containing an area of approximately 123 square metres and bounded approximately as follows:\nCommencing at the northern-most corner of the building of the aforesaid “36 SCE EOD RANGE” which point is 39,001.4 metres North and 43,750.3 metres East of the Survey Department origin of co-ordinates (30,000 metres North and 30,000 metres East), the boundaries run along successive lines of the building walls of bearings and distances approximately as under:\nBearing.\nDistance in metres.\n132° 49′\n8.1 (along external building wall)\n222° 47′\n0.6 (along external building wall)\n222° 47′\n2.6 (along door)\n222° 47′\n11.9 (along external building wall)\n312° 53′\n8.1 (along external building wall)\n42° 47′\n15.1 (along external building wall)\nto the point of commencement.\nThe boundaries of “36 SCE EOD RANGE” are more particularly delineated and edged pink on Survey Plan No. LE/94/10/GAZ filed in the office of the Director, Lands and Estates Organisation, Ministry of Defence, Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Military Manoeuvres (Firing Ground) Proclamation",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

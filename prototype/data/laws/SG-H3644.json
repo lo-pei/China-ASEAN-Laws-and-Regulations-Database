@@ -1,7 +1,7 @@
 {
  "id": "SG-H3644",
  "title": {
-  "zh": null,
+  "zh": "重大投资审查法 2024",
   "en": "Significant Investments Review Act 2024",
   "orig": null
  },
@@ -950,5 +950,13 @@
     "en": "57.—(1) The Minister may make regulations prescribing matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.\n(2) If the functions and powers of the Minister in respect of a designated entity have been transferred to a relevant Minister under section 6(2), that relevant Minister may make regulations —\n(a)prescribing, in respect of that designated entity, matters required or permitted to be prescribed under sections 14(1) and (9), 16(2) and (3), 29(3) and 54(4)(a); and\n(b)prescribing the offences that may be compoundable under section 53(2)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Significant Investments Review Act 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6163",
  "title": {
-  "zh": null,
+  "zh": "阿布拉省节庆纪念日（Arya Abra）",
   "en": "Arya Abra Day",
   "orig": "An Act Declaring March Nine of Every Year a Nonworking Public Holiday in the Province of Abra, to Be Known as \"Arya Abra Day\""
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, February 23, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Arya Abra Day",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

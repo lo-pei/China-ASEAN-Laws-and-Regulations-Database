@@ -1,7 +1,7 @@
 {
  "id": "SG-H1709",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（日间手术中心服务）条例 2023",
   "en": "Healthcare Services (Ambulatory Surgical Centre Service) Regulations 2023",
   "orig": null
  },
@@ -752,5 +752,13 @@
     "en": "THE SCHEDULE\nRegulation 4\nSpecified services\n1. The following are specified services for an ambulatory surgical centre service:\n(a)Collaborative prescribing service\n(b)Liposuction\n(c)Proton beam therapy\n(d)Radiation oncology and radiation therapy\n2. In this Schedule —\n“collaborative prescribing service” has the meaning given by regulation 2 of the Healthcare Services (Collaborative Prescribing Service) Regulations 2023 (G.N. No. S 398/2023);\n“liposuction” means the surgical removal of localised fat deposits in a human body by aspiration in order to treat deposits of subcutaneous fat distributed in aesthetically unpleasing proportions, the injection or transfer of the removed fat into another part of the human body, or both;\n“proton beam therapy” means the performance of a procedure that involves the application of a high energy proton beam to a patient in a clinical setting for a therapeutic purpose;\n“radiation oncology and radiation therapy” means a treatment of any condition or disease using ionising radiation that —\n(a)is emitted from —\n(i)a sealed source (as defined in regulation 2 of the Radiation Protection (Ionising Radiation) Regulations 2023 (G.N. No. S 85/2023)); or\n(ii)an irradiating apparatus (as defined in regulation 2 of the Radiation Protection (Ionising Radiation) Regulations 2023); and\n(b)does not involve the application of a proton beam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (Ambulatory Surgical Centre Service) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H915",
  "title": {
-  "zh": null,
+  "zh": "刑法（身份证）规则",
   "en": "Criminal Law (Identity Cards) Rules",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. Any person directed to be subject to the supervision of the police under section 30(1)(b) or 32(1) of the Act who —\n(a)when required to do so, fails to surrender his original identity card to the Commissioner of Police or to any authorised police officer;\n(b)in giving the particulars required for the preparation of a special identity card, makes any statement or gives any information which is false or incorrect in any material particular;\n(c)obtains or has in his possession more than one identity card, unless he can show that he obtained or had in his possession the identity cards innocently;\n(d)makes any alteration in any writing, printing or photograph in any original or special identity card; or\n(e)aids or abets the commission of any offence against the provisions of these Rules,\nshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.\n[S 872/2018 wef 01/01/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Law (Identity Cards) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

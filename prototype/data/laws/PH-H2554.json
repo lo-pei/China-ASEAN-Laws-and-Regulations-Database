@@ -1,7 +1,7 @@
 {
  "id": "PH-H2554",
  "title": {
-  "zh": null,
+  "zh": "将萨马省卡普尔市镇蒙古尔邦戈尔村更名为圣维森特村的法案",
   "en": "An Act Changing the Name of Barrio Mongolbongol in the Municipality of Capul, Province of Samar, to San Vicente",
   "orig": "An Act Changing the Name of Barrio Mongolbongol in the Municipality of Capul, Province of Samar, to San Vicente"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Barrio Mongolbongol in the Municipality of Capul, Province of Samar, to San Vicente",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H128",
  "title": {
-  "zh": null,
+  "zh": "穆斯林法管理（穆斯林归信者）规则",
   "en": "Administration of Muslim Law (Muslim Converts) Rules",
   "orig": null
  },
@@ -142,5 +142,13 @@
     "en": "8. A Muslim Convert may apply to the Commissioner of National Registration to have his name in his identity card changed on the production of the conversion certificate issued under rule 5(3)(b).\n[G.N. No. S 351/2007]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Administration of Muslim Law (Muslim Converts) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

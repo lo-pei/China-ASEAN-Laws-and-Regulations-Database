@@ -1,7 +1,7 @@
 {
  "id": "SG-H3560",
  "title": {
-  "zh": null,
+  "zh": "植物品种保护法 2004",
   "en": "Plant Varieties Protection Act 2004",
   "orig": null
  },
@@ -918,5 +918,13 @@
     "en": "54.—(1) The Minister may make rules —\n(a)for prescribing anything authorised or required by this Act to be prescribed; and\n(b)generally for regulating practice and procedure under this Act.\n(2) Without limiting subsection (1), rules made under this section may make provision —\n(a)as to the manner of making applications and filing other documents and in respect of anything that is to accompany or to be furnished together with any application;\n(b)as to the procedure to be followed in connection with any application or request to the Registrar or in connection with any proceedings or other matter before the Registrar, and the rectification of irregularities of procedure;\n(c)providing for the testing and treatment of plant varieties to which applications relate;\n(d)requiring and regulating the translation of documents and the filing and authentication of any translation;\n(e)as to the service of documents;\n(ea)to enable the Registrar to publish —\n(i)an application to rectify an error or omission in the register; and\n(ii)a request to amend an application (including one for a grant of protection for a plant variety), a notice or other document filed for the purpose of this Act,\nand to provide for the making of objections to the rectification or amendment by a person claiming to be affected by it;\n[Act 7 of 2022 wef 26/05/2022]\n(f)prescribing time limits for anything required to be done under this Act;\n(g)providing for the extension of any time limit prescribed or specified by the Registrar, whether or not it has already expired;\n(h)providing for the forfeiture of any priority given in respect of an application;\n(i)authorising the preparation, publication, sale and exchange of copies of diagrams, photographs and documents filed with the Registry, and indexes and abridgments to them;\n(j)prescribing the mode of publishing any matters required by this Act to be published;\n(k)prescribing the requirements to be met in selecting the denomination of plant varieties, and providing for the approval or rejection by the Registrar of any denomination or the amendment to any denomination; and\n(l)prescribing fees and charges for the purposes of this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Plant Varieties Protection Act 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

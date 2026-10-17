@@ -1,7 +1,7 @@
 {
  "id": "PH-H705",
  "title": {
-  "zh": null,
+  "zh": "修订1948年《司法法》第49条末段、第50条末段与第54条倒数第二段的法案",
   "en": "An Act to Amend the Last Paragraph of Section Forty-nine, the Last Paragraph of Section Fifty and the Penultimate Paragraph of Section Fifty-four of the Judiciary Act of Nineteen Hundred and Forty-eight",
   "orig": "An Act to Amend the Last Paragraph of Section Forty-nine, the Last Paragraph of Section Fifty and the Penultimate Paragraph of Section Fifty-four of the Judiciary Act of Nineteen Hundred and Forty-eight"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend the Last Paragraph of Section Forty-nine, the Last Paragraph of Section Fifty and the Penultimate Paragraph of Section Fifty-four of the Judiciary Act of Nineteen Hundred and Forty-eight",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

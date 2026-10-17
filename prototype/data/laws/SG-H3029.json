@@ -1,7 +1,7 @@
 {
  "id": "SG-H3029",
  "title": {
-  "zh": null,
+  "zh": "有限责任合伙条例",
   "en": "Limited Liability Partnerships Regulations",
   "orig": null
  },
@@ -514,5 +514,11 @@
     "en": "SECOND SCHEDULE\nRegulation 7(2), (3) and (4)\nPart 1\nPENALTIES FOR LATE LODGMENT OF ANNUAL DECLARATION\nLength of Default (calculated in terms of months\nafter the date on which document was required\nto be lodged)\nLate lodgment penalty\n1.Up to 3 months\n$300\n2.Exceeding 3 months\n$600\n[S 28/2022 wef 14/01/2022]\nPart 2\nPENALTIES FOR LATE LODGMENT OF ANY\nDOCUMENT OTHER THAN ANNUAL DECLARATION\nLength of default (calculated in terms of months after the date on which document was required to be lodged)\nLate lodgment penalty\n1.Up to 3 months\n$50\n2.Exceeding 3 months\n$200\n[S 842/2015 wef 03/01/2016]\n[S 954/2024 wef 09/12/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Limited Liability Partnerships Regulations",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

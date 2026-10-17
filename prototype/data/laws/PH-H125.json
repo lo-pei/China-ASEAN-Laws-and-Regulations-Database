@@ -1,7 +1,7 @@
 {
  "id": "PH-H125",
  "title": {
-  "zh": null,
+  "zh": "规定遗失或损毁托伦斯地权证书恢复特别程序的法案",
   "en": "An act providing a Special Procedure for the Reconstitution of Torrens Certificates of Title Lost or Destroyed",
   "orig": "An act providing a Special Procedure for the Reconstitution of Torrens Certificates of Title Lost or Destroyed"
  },
@@ -300,5 +300,13 @@
     "en": "This Act shall take effect on its approval.\nApproved: September 25, 1946"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act providing a Special Procedure for the Reconstitution of Torrens Certificates of Title Lost or Destroyed",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

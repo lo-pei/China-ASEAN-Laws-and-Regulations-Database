@@ -1,7 +1,7 @@
 {
  "id": "SG-H1157",
  "title": {
-  "zh": null,
+  "zh": "副注册官行使注册官权力",
   "en": "Deputy Registrar to Exercise Powers of Registrar",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Control of Manufacture Act\n(Chapter 57, Section 4(2))\nDeputy Registrar to Exercise Powers of Registrar\nN 2\nG.N. No. S 69/1990\nREVISED EDITION 1990\n(25th March 1992)\n[1st February 1990]\nThe Minister for Trade and Industry has authorised the Deputy Registrar of Manufacturers to exercise and perform all or any of the powers and duties conferred and imposed on the Registrar of Manufacturers.\n[S 69/90]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Deputy Registrar to Exercise Powers of Registrar",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

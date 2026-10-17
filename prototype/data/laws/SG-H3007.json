@@ -1,7 +1,7 @@
 {
  "id": "SG-H3007",
  "title": {
-  "zh": null,
+  "zh": "法律专业（合资格人士）规则",
   "en": "Legal Profession (Qualified Persons) Rules",
   "orig": null
  },
@@ -167,7 +167,7 @@
    }
   },
   {
-   "id": "SG-H3007-A6",
+   "id": "SG-H3007-A6.000001",
    "no": 6.000001,
    "noLabel": {
     "en": "6."
@@ -442,5 +442,13 @@
     "en": "FIFTH SCHEDULE\nRules 9A and 12\nInstitutions of higher learning and degrees in law conferred\nCountry\nInstitution\nDegree\nUnited States of America\n1.Harvard University\nDoctor of Jurisprudence (J.D.)\n2.Columbia University\nDoctor of Jurisprudence (J.D.)\n3.New York University\nDoctor of Jurisprudence (J.D.)\n4.University of Michigan\nDoctor of Jurisprudence (J.D.).\n[S 217/2006 wef 07/04/2006]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Qualified Persons) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

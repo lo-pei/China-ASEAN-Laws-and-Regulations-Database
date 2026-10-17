@@ -1,7 +1,7 @@
 {
  "id": "PH-H5429",
  "title": {
-  "zh": null,
+  "zh": "设立合作社发展管理局以促进合作社活力与成长、界定其权力与职责、理顺政府合作社政策与机构、整合登记与监管职能、拨款并为其他目的法案",
   "en": "An Act Creating the Cooperative Development Authority to Promote the Viability and Growth of Cooperatives as Instruments of Equity, Social Justice and Economic Development, Defining its Powers, Functions and Responsibilities, Rationalizing Government Policies and Agencies with Cooperative Functions, Supporting Cooperative Development, Transferring the Registration and Regulation Functions of Existing Government Agencies on Cooperatives as Such and Consolidating the Same with the Authority, Appropriating Funds Therefor, and for Other Purposes",
   "orig": "An Act Creating the Cooperative Development Authority to Promote the Viability and Growth of Cooperatives as Instruments of Equity, Social Justice and Economic Development, Defining its Powers, Functions and Responsibilities, Rationalizing Government Policies and Agencies with Cooperative Functions, Supporting Cooperative Development, Transferring the Registration and Regulation Functions of Existing Government Agencies on Cooperatives as Such and Consolidating the Same with the Authority, Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -241,5 +241,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Cooperative Development Authority to Promote the Viability and Growth of Cooperatives as Instruments of Equity, Social Justice and Economic Development, Defining its Powers, Functions and Responsibilities, Rationalizing Government Policies and Agencies with Cooperative Functions, Supporting Cooperative Development, Transferring the Registration and Regulation Functions of Existing Government Agencies on Cooperatives as Such and Consolidating the Same with the Authority, Appropriating Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

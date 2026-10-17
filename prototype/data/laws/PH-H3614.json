@@ -1,7 +1,7 @@
 {
  "id": "PH-H3614",
  "title": {
-  "zh": null,
+  "zh": "设立 Catanduanes 发展管理局，规定其权力、职能与职责，为此提供资金并为其他目的法案",
   "en": "An Act Creating the Catanduanes Development Authority, Prescribing its Powers, Functions and Duties, Providing Funds Therefor, and for Other Purposes",
   "orig": "An Act Creating the Catanduanes Development Authority, Prescribing its Powers, Functions and Duties, Providing Funds Therefor, and for Other Purposes"
  },
@@ -613,5 +613,13 @@
     "en": "Effectivity.— This Act shall take effect on January second, nineteen hundred sixty-six.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Catanduanes Development Authority, Prescribing its Powers, Functions and Duties, Providing Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1436",
  "title": {
-  "zh": null,
+  "zh": "执行共管公寓住房计划（补偿与优先顺序）条例 1996",
   "en": "Executive Condominium Housing Scheme (Compensation and Order of Priority) Regulations 1996",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) Where any person upon whom a written notice has been served under section 8(4) or 9(2) of the Act is not satisfied with the prevailing market value of the housing accommodation as determined by the relevant authority under regulation 3, he or she may within 14 days of the service on him or her of the written notice appeal to the Minister whose decision is final.\n(2) The Minister may, in considering any appeal made under paragraph (1), decide to —\n(a)affirm the determination of the relevant authority;\n(b)vary the determination of the relevant authority; or\n(c)give such directions to the relevant authority as he or she thinks fit."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Executive Condominium Housing Scheme (Compensation and Order of Priority) Regulations 1996",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

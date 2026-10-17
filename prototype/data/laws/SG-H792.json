@@ -1,7 +1,7 @@
 {
  "id": "SG-H792",
  "title": {
-  "zh": null,
+  "zh": "竞争（罚款）命令 2007",
   "en": "Competition (Financial Penalties) Order 2007",
   "orig": null
  },
@@ -113,5 +113,11 @@
     "en": "THE SCHEDULE\nParagraph 2\nApplicable turnover\n1. Unless the circumstances otherwise require, the applicable turnover of an undertaking, other than an association of undertakings, shall be limited to the amounts derived by the undertaking from the sale of products and the provision of services falling within the undertaking’s ordinary activities in Singapore after deduction of sales rebates, goods and services tax and other taxes directly related to turnover.\n2. Subject to paragraph 3, where an undertaking consists of 2 or more undertakings that each prepare accounts then the applicable turnover shall be calculated by adding together the respective applicable turnover of each, save that no account shall be taken of any turnover resulting from the sale of products or the provision of services between them.\n3. The applicable turnover of an association of undertakings shall be the aggregate applicable turnover of the undertakings that are members of the association."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Competition (Financial Penalties) Order 2007",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

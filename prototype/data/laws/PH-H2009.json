@@ -1,7 +1,7 @@
 {
  "id": "PH-H2009",
  "title": {
-  "zh": null,
+  "zh": "授权在卡加延省Lal-Lo的Catayaoan设立淡水蛤（Cabibi）繁殖站并授权为此拨款的法案",
   "en": "An Act to Authorize the Establishment of a Fresh-Water Clam (Cabibi) Propagation Station at Catayaoan, Lal-Lo, Cagayan Province, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act to Authorize the Establishment of a Fresh-Water Clam (Cabibi) Propagation Station at Catayaoan, Lal-Lo, Cagayan Province, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.\nApproved: June 19, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize the Establishment of a Fresh-Water Clam (Cabibi) Propagation Station at Catayaoan, Lal-Lo, Cagayan Province, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

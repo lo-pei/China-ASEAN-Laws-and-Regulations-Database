@@ -1,7 +1,7 @@
 {
  "id": "PH-H2723",
  "title": {
-  "zh": null,
+  "zh": "授权Ramon Magsaysay Award基金会抵押依第2239号共和国法捐赠给其的地块的法案",
   "en": "An Act Authorizing the Ramon Magsaysay Award Foundation to Mortgage the Parcel of Land Donated to it Under Republic Act Numbered Twenty-Two Hundred Thirty-Nine",
   "orig": "An Act Authorizing the Ramon Magsaysay Award Foundation to Mortgage the Parcel of Land Donated to it Under Republic Act Numbered Twenty-Two Hundred Thirty-Nine"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Ramon Magsaysay Award Foundation to Mortgage the Parcel of Land Donated to it Under Republic Act Numbered Twenty-Two Hundred Thirty-Nine",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

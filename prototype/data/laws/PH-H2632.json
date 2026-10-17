@@ -1,7 +1,7 @@
 {
  "id": "PH-H2632",
  "title": {
-  "zh": null,
+  "zh": "授权向公路分区工程师、公路区工程师与市工程师分别以公共工程局当然分区工程师、区工程师与市工程师身份发放附加报酬",
   "en": "An Act Authorizing the Payment of Additional Compensation to Highway Division Engineers, Highway District Engineers and City Engineers as Ex-Officio Division Engineers, District Engineers and City Engineers of the Bureau of Public Works, Respectively",
   "orig": "An Act Authorizing the Payment of Additional Compensation to Highway Division Engineers, Highway District Engineers and City Engineers as Ex-Officio Division Engineers, District Engineers and City Engineers of the Bureau of Public Works, Respectively"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon the date of effectivity of Republic Act Numbered Eighteen hundred thirty-six, which has authorized the dual functions.\nApproved: May 31, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Payment of Additional Compensation to Highway Division Engineers, Highway District Engineers and City Engineers as Ex-Officio Division Engineers, District Engineers and City Engineers of the Bureau of Public Works, Respectively",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

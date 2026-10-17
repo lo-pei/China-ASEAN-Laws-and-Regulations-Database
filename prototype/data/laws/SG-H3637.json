@@ -1,7 +1,7 @@
 {
  "id": "SG-H3637",
  "title": {
-  "zh": null,
+  "zh": "证券与期货法 2001",
   "en": "Securities and Futures Act 2001",
   "orig": null
  },
@@ -11606,5 +11606,13 @@
     "en": "FOURTH SCHEDULE\nSections 320(1A) and 340(1)\nSpecified provisions\n1.Section 7(7)\n2.Section 27(11)\n3.Section 28(12)\n3A.Section 41A(10)\n[Act 12 of 2024 wef 24/01/2025]\n3B.Section 41C(12)\n[Act 12 of 2024 wef 24/01/2025]\n4.Section 46AAG(2)\n5.Section 46U(11)\n6.Section 46V(12)\n7.Section 46ZL(2)\n8.Section 49(7)\n9.Section 57(3)\n10.Section 70(11)\n11.Section 71(12)\n12.Section 75(3)\n12A.Section 81AA(10)\n[Act 12 of 2024 wef 24/01/2025]\n12B.Section 81AC(12)\n[Act 12 of 2024 wef 24/01/2025]\n13.Section 81SB(2)\n14.Section 81U(4)\n15.Section 81ZE(10)\n16.Section 81ZF(12)\n17.Section 81ZI\n18.Section 99(1)(h)\n19.Section 99B(2)\n20.Section 99I(1)\n21.Section 123K(1)(b)\n22.Section 123N(1)\n23.Section 123ZH(4)\n24.Section 129A(2)\n25.Section 129H(2)\n26.Section 129O(2)\n26A.Section 240AB(2)\n[Act 12 of 2024 wef 30/08/2024]\n27.Section 247(1)\n28.Section 248(2) and (5)\n29.Section 249(3)\n30.Section 251(14)\n31.Section 259(3)\n32.Section 262(2)\n32A.Section 296A(6)\n[Act 12 of 2024 wef 30/08/2024]\n33.Section 300(9)\n34.Section 302 (when applying section 247(1) or 249(3))\n35.Section 306(1)\n36.Section 309(3)(a)\n37.Section 309B(5)\n38.Section 337(3).\n[4/2017]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Securities and Futures Act 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

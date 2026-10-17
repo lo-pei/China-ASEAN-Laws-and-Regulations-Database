@@ -1,7 +1,7 @@
 {
  "id": "SG-H1270",
  "title": {
-  "zh": null,
+  "zh": "职业介绍所（豁免）命令 2014",
   "en": "Employment Agencies (Exemption) Order 2014",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nConditions\n1.The person only —\n(a)carries on that employment agency; or\n(b)performs that work or activity,\nfor or in connection with the employment of citizens or permanent residents of Singapore.\n2.The person does not charge any fee in respect of the carrying on of that employment agency or the performance of that work or activity.\n3.The person’s primary work or activity is not the carrying on of any employment agency or the performance of any work or activity referred to in section 6(2) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Employment Agencies (Exemption) Order 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

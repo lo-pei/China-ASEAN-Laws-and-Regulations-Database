@@ -1,7 +1,7 @@
 {
  "id": "PH-H3861",
  "title": {
-  "zh": null,
+  "zh": "提高国内税收局官员与雇员薪金并为其他目的法案",
   "en": "An Act Increasing the Salaries of Officers and Employees of the Bureau of Internal Revenue, and for Other Purposes",
   "orig": "An Act Increasing the Salaries of Officers and Employees of the Bureau of Internal Revenue, and for Other Purposes"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect on July 1, 1967.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Salaries of Officers and Employees of the Bureau of Internal Revenue, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

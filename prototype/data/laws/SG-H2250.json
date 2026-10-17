@@ -1,7 +1,7 @@
 {
  "id": "SG-H2250",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发特许权使用费及其他付款豁免）公告 2016",
   "en": "Income Tax (Exemption of Royalties and Other Payments for Economic and Technological Development) Notification 2016",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The royalties payable by ESS (a partnership formed under the laws of the State of Delaware, USA), during the period specified in sub‑paragraph (2) under an agreement specified in the letter dated 16 September 2015 addressed to ESS and Fox International Channels Singapore Pte. Ltd. (called in this paragraph the 16 September 2015 letter), are exempt from tax.\n(2) The period for the purpose of sub‑paragraph (1) commences on 1 July 2014 and ends on the earlier of the following dates:\n(a)31 December 2015;\n(b)the date of termination of the agreement.\n(3) The exemption in sub‑paragraph (1) is subject to the terms and conditions specified in the 16 September 2015 letter."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Royalties and Other Payments for Economic and Technological Development) Notification 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

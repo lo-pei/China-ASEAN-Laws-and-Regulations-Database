@@ -1,7 +1,7 @@
 {
  "id": "PH-H3635",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾开发银行与菲律宾国家银行向在农村地区执业的医师与牙医提供贷款，为此修订第1480号共和国法的法案",
   "en": "An Act to Authorize the Development Bank of the Philippines and the Philippine National Bank to Grant Loans to Physicians and Dentists Who Shall Practice in the Rural Areas, Amending for the Purpose Republic Act Numbered Fourteen Hundred and Eighty",
   "orig": "An Act to Authorize the Development Bank of the Philippines and the Philippine National Bank to Grant Loans to Physicians and Dentists Who Shall Practice in the Rural Areas, Amending for the Purpose Republic Act Numbered Fourteen Hundred and Eighty"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize the Development Bank of the Philippines and the Philippine National Bank to Grant Loans to Physicians and Dentists Who Shall Practice in the Rural Areas, Amending for the Purpose Republic Act Numbered Fourteen Hundred and Eighty",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-130-1984-BRUNEI-DARUSSALAM-FISHERY-LIMITS-ACT",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰国渔业界限法",
   "en": "BRUNEI DARUSSALAM FISHERY LIMITS ACT",
   "orig": null
  },
@@ -78,5 +78,13 @@
     "en": "(1) His Majesty may by order designate any country outside Brunei and, in relation to it, areas within Brunei ies fishery limits in which, and descriptions of fish for which, fishing boats registered in that country may fish.\n\n(2) A foreign fishing boat not registered in a country for the time being designated under subsection (1) shall not enter Brunei fishery limits except for a purpose recognised by international law or by any convention for the time being in force between His Majesty's Government in Brunei and of the country to which the boat belongs; and any such boat which enters those limits for such a pur.•. pose(a) shall return outside the limits as soon as the purpose has been fulfilled; and\n\n(b) shall not fish or attempt to fish while within the lin1its.\n\n(3) A foreign fishing boat registered in a country designated under subsection (1) shall not fish or attempt to fish within Brunei fishery limits -\n\n(a) except in accordance with the terms and of such licence as may be required in Cap. 61 of such boat under the Fisheries Act; Brunei Fishery Limits CAP. 130 5\n\n(b) except in an area and for descriptions of fish for the time being designated under this section in relation to that country. ( 4) At any time when a foreign fishing boat is in an area within Brunei fishery limits and either(a) it is prohibited by this section from fishing in or\n\n(b) it is permitted under this section to fish only for certain descriptions of fish, then, its fishing gear, or so much of th_e gear as is not required for permitted fishing, shall be stowed in accordance with an order made by His Majesty.\n\n(5) If this section is contravened in the case of any\n\n(a) the master of the boat shall be guilty of an offence: Penalty, a fine of $100,000; and\n\n(b) the court may on convicting him of an offence under this section order the forfeiture of any fish or fishing gear found in the boat or taken or used by any person from the boat. ( 6) The foregoing provisions of this section do not or restrict fishing by fishing boats registered in a country outside Brunei in any area with respect to which special provision is made by any arrangement between His Majesty's Government in Brunei and the government of that country for fishing by such boats for the purpose of scientific research.\n\nSUBSIDIARY LEGISLATION NOTE. There is no Subsidiary Legislation . . • B. L. R. 0. I!1984 .-· z·."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI DARUSSALAM FISHERY LIMITS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

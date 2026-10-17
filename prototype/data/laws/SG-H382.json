@@ -1,7 +1,7 @@
 {
  "id": "SG-H382",
  "title": {
-  "zh": null,
+  "zh": "建筑维护与分层管理（建屋发展局私有化屋苑——豁免）命令",
   "en": "Building Maintenance and Strata Management (HDB Privatised Estates — Exemption) Order",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) Subject to paragraph 5, the HDB shall be exempt from section 26(1) of the Act in respect of every other exempt management corporation on condition that the HDB holds the first annual general meeting of the exempt management corporation from whichever following day is the earlier:\n(a)a day that is within 90 days after the exempt management corporation is constituted; or\n(b)a day that is 6 weeks after the HDB receives a written request from the subsidiary proprietors of at least 10% of the total number of lots comprised in that exempt management corporation’s strata title plan asking for the first annual general meeting to be held.\n(2) The HDB shall be exempt from following the agenda specified in section 26(3)(f) of the Act for the first annual general meeting of an exempt management corporation, on condition that the agenda includes instead, the item of receiving and, if considered fit, of adopting the audited annual accounts of the exempt management corporation for the period —\n(a)starting from the date the exempt management corporation is constituted; and\n(b)ending on a date not earlier than 60 days before its first annual general meeting.\n(3) The HDB shall be exempt from the duty under section 26(4) of the Act of placing before the first annual general meeting of, and from delivering to, an exempt management corporation any document or record referred to in paragraph (a)(ii), (v), (vii) or (viii) of section 26(4) of the Act.\n[G.N. No. S 198/2005]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Building Maintenance and Strata Management (HDB Privatised Estates — Exemption) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

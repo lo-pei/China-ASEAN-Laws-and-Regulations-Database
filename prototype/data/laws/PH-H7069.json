@@ -1,7 +1,7 @@
 {
  "id": "PH-H7069",
  "title": {
-  "zh": null,
+  "zh": "将卡加延谷区域医院改设为医疗中心，名称为卡加延谷医疗中心，并授权为此拨款的法案",
   "en": "An Act Converting the Cagayan Valley Regional Hospital Into a Medical Center to Be Known as the Cagayan Valley Medical Center, and Authorizing the Appropriation of Funds Therefor",
   "orig": "An Act Converting the Cagayan Valley Regional Hospital Into a Medical Center to Be Known as the Cagayan Valley Medical Center, and Authorizing the Appropriation of Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Cagayan Valley Regional Hospital Into a Medical Center to Be Known as the Cagayan Valley Medical Center, and Authorizing the Appropriation of Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

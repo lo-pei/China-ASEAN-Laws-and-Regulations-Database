@@ -1,7 +1,7 @@
 {
  "id": "SG-H2122",
  "title": {
-  "zh": null,
+  "zh": "所得税（经批准公司源自新加坡基金管理人管理之基金的收入豁免）条例 2010",
   "en": "Income Tax (Exemption of Income of Approved Companies Arising from Funds Managed by Fund Manager in Singapore) Regulations 2010",
   "orig": null
  },
@@ -140,5 +140,11 @@
    },
    "status": "repealed"
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Income Tax (Exemption of Income of Approved Companies Arising from Funds Managed by Fund Manager in Singapore) Regulations 2010",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

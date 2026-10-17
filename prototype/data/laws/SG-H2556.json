@@ -1,7 +1,7 @@
 {
  "id": "SG-H2556",
  "title": {
-  "zh": null,
+  "zh": "所得税（Trafigura 私人有限公司依第 13（12）条享有的豁免）命令 2026",
   "en": "Income Tax (Trafigura Pte Ltd — Section 13(12) Exemption) Order 2026",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Branch profits received in Singapore by Trafigura Pte Ltd (a company incorporated in Singapore) on or after 2 January 2026 from its branches in Montevideo, Uruguay and Dubai, United Arab Emirates are exempt from tax.\n(2) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter from the Inland Revenue Authority of Singapore dated 2 January 2026 that is issued on behalf of the Minister for Finance and addressed to Trafigura Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Trafigura Pte Ltd — Section 13(12) Exemption) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

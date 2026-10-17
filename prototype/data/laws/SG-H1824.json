@@ -1,7 +1,7 @@
 {
  "id": "SG-H1824",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 4 号）命令 2022",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 4) Order 2022",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nAll that part of the housing estate of the Board bounded by Marine Parade Central and Marine Drive, comprised in Lot number 07745L in Mukim 26 and on which Apartment Block 80 is erected, in Lot number 07738A in Mukim 26 and on which Apartment Block 81 is erected, and in Lot number 07740T in Mukim 26 and on which Apartment Block 83 is erected, and which is more particularly edged in the Plan.\nThe PLAN\nMARINE PARADE CENTRAL"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 4) Order 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

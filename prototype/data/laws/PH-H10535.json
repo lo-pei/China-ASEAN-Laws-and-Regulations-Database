@@ -1,7 +1,7 @@
 {
  "id": "PH-H10535",
  "title": {
-  "zh": null,
+  "zh": "将 Don Honorio Ventura 国立大学更名为邦板牙国立大学，扩大其课程设置与理事会构成，并为此拨款的法案",
   "en": "An Act Strengthening the Don Honorio Ventura State University By Renaming It As the Pampanga State University, Expanding Its Curricular Offerings, and the Composition of the Governing Board, and Appropriating Funds Therefor",
   "orig": "An Act Strengthening the Don Honorio Ventura State University By Renaming It As the Pampanga State University, Expanding Its Curricular Offerings, and the Composition of the Governing Board, and Appropriating Funds Therefor"
  },
@@ -340,5 +340,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following the completion of its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening the Don Honorio Ventura State University By Renaming It As the Pampanga State University, Expanding Its Curricular Offerings, and the Composition of the Governing Board, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

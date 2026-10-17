@@ -1,7 +1,7 @@
 {
  "id": "SG-H3168",
  "title": {
-  "zh": null,
+  "zh": "商船（船员协议、船员名册与海员解雇）条例",
   "en": "Merchant Shipping (Crew Agreements, Lists of Crew and Discharge of Seamen) Regulations",
   "orig": null
  },
@@ -207,5 +207,13 @@
     "en": "13. Any person who fails to comply with any provision of these Regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.\n[G.N. No. S 45/96]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Crew Agreements, Lists of Crew and Discharge of Seamen) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

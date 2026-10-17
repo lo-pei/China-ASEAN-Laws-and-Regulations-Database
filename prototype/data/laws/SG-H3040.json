@@ -1,7 +1,7 @@
 {
  "id": "SG-H3040",
  "title": {
-  "zh": null,
+  "zh": "酒类管制（供应与消费）（保留与过渡规定）条例 2015",
   "en": "Liquor Control (Supply and Consumption) (Saving and Transitional Provisions) Regulations 2015",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nRegulation 3(1) and (2)\nFirst column\nSecond column\n1.Public house with a first class licence\nClass 1A liquor licence\n2.Public house with a second class licence\nClass 1B liquor licence\n3.Beer house licence\nClass 2A liquor licence\n4.Outdoor beer stall licence\nClass 2B liquor licence\n5.Retail liquor shop licence\nClass 3A liquor licence\n6.Retail beer shop licence\nClass 3B liquor licence\n7.Wholesale liquor shop licence\nClass 4 liquor licence\n8.Wholesale beer shop licence\nClass 4 liquor licence\n9.Temporary licence\nClass 5 liquor licence."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Liquor Control (Supply and Consumption) (Saving and Transitional Provisions) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

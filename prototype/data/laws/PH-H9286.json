@@ -1,7 +1,7 @@
 {
  "id": "PH-H9286",
  "title": {
-  "zh": null,
+  "zh": "将巴拉望省 Quezon 市镇 Malatgao 描笼涯的 Quezon Panitian 国立中学的 Malatgao 分校分离，改设为独立的同名国立中学，并为此拨款",
   "en": "An Act Separating the Quezon Panitian National High School — Malatgao Extension in Barangay Malatgao, Municipality of Quezon, Province of Palawan From the Quezon Panitian National High School, Converting It Into An Independent National High School to Be Known as Malatgao National High School and Appropriating Funds Therefor",
   "orig": "An Act Separating the Quezon Panitian National High School — Malatgao Extension in Barangay Malatgao, Municipality of Quezon, Province of Palawan From the Quezon Panitian National High School, Converting It Into An Independent National High School to Be Known as Malatgao National High School and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Quezon Panitian National High School — Malatgao Extension in Barangay Malatgao, Municipality of Quezon, Province of Palawan From the Quezon Panitian National High School, Converting It Into An Independent National High School to Be Known as Malatgao National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

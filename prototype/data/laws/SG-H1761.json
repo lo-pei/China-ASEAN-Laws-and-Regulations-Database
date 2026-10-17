@@ -1,7 +1,7 @@
 {
  "id": "SG-H1761",
  "title": {
-  "zh": null,
+  "zh": "逐户与街头募捐（慈善募捐——豁免）公告 2023",
   "en": "House to House and Street Collections (Collections for Charities — Exemption) Notification 2023",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Revoke the House to House and Street Collections (National Council of Social Service) (Exemption) Notification (N 1) (called in this paragraph the revoked Notification).\n(2) Despite sub‑paragraph (1), where a collection mentioned in paragraph 2 of the revoked Notification commences before 9 October 2023, the revoked Notification as in force before that date continues to apply in respect of that collection.\n(3) A collection mentioned in paragraph 2 of the revoked Notification commences when the first member of the public is visited at his or her house or is solicited in the streets or other public place in relation to that collection."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "House to House and Street Collections (Collections for Charities — Exemption) Notification 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3714",
  "title": {
-  "zh": null,
+  "zh": "受托人法 1967",
   "en": "Trustees Act 1967",
   "orig": null
  },
@@ -2156,5 +2156,13 @@
     "en": "THIRD SCHEDULE\nSection 27(5)\nForm of power of attorney under section 27(5)\nTHIS GENERAL TRUSTEE POWER OF ATTORNEY is made on [date] by [name of one donor] of [address of donor] as trustee of [name or details of one trust].\nI appoint [name of one donee] of [address of donee] to be my attorney [if desired, the date on which the delegation commences or the period for which it continues (or both)] in accordance with section 27(5) of the Trustees Act 1967.\n[To be executed as a deed]."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Trustees Act 1967",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

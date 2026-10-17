@@ -1,7 +1,7 @@
 {
  "id": "PH-H10284",
  "title": {
-  "zh": null,
+  "zh": "将北拉瑙省 Iligan 市 Barangay Buru-Un 的 Iligan 市国立渔业学校改设为理工国立学院，名称为 Iligan 市理工国立学院，并为此拨款的法案",
   "en": "An Act Converting the Iligan City National School of Fisheries (ICNSF) in Barangay Buru-Un, Iligan City, Province of Lanao Del Norte, Into a Polytechnic State College, to Be Known as the Iligan City Polytechnic State College (ICPSC), and Appropriating Funds Therefor",
   "orig": "An Act Converting the Iligan City National School of Fisheries (ICNSF) in Barangay Buru-Un, Iligan City, Province of Lanao Del Norte, Into a Polytechnic State College, to Be Known as the Iligan City Polytechnic State College (ICPSC), and Appropriating Funds Therefor"
  },
@@ -213,14 +213,15 @@
    }
   },
   {
-   "id": "PH-H10284-A18_2",
+   "id": "PH-H10284-A18-d2",
    "no": 18,
    "noLabel": {
     "en": "Section 18."
    },
    "text": {
     "en": "Tax Exemption on Importation and Donations. - The importation by the College of economic, technical and cultural books or publications, which are for economic, technical, vocational, scientific, philosophical, historical or cultural purposes, shall, upon certification by the CHED shall be exempt from customs duties in accordance with the provisions of Republic Act No. 10863, otherwise known as the \"Customs Modernization and Tariff Act (CMTA)\".\nAll grants, bequests, endowments, donations and contributions made to and used actually, directly and exclusively for educational purposes by the College, shall be exempt from donor's tax and the same shall be allowed as allowable deduction from the gross income of the donor for purposes of computing the taxable income of the donor, in accordance with the provisions of the National Internal Revenue Code of 1997, as amended."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10284-A19",
@@ -292,5 +293,13 @@
     "en": "Implementing Rules and Regulations. - Within sixty (60) days from the effectivity of this Act, the Board, in consultation with the CHED, shall formulate the rules and regulations to fully implement the provisions of this Act.\nSection 26. Separability Clause. - If, for any reason, any part or provision of this Act is declared invalid or unconstitutional, the remaining parts or provisions not affected thereby shall remain in full force and effect.\nSection 27. Repealing Clause. - All laws, presidential decrees, executive orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed or modified accordingly.\nSection 38. Effectivity. - This Act shall become effective fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Iligan City National School of Fisheries (ICNSF) in Barangay Buru-Un, Iligan City, Province of Lanao Del Norte, Into a Polytechnic State College, to Be Known as the Iligan City Polytechnic State College (ICPSC), and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

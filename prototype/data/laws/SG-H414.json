@@ -1,7 +1,7 @@
 {
  "id": "SG-H414",
  "title": {
-  "zh": null,
+  "zh": "认可安老院委任证书的撤销",
   "en": "Cancellation of Approved Home Certificate of Appointment",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Children and Young Persons Act\n(Chapter 38)\nCancellation of Approved Home Certificate of Appointment\nIt is hereby notified for general information that the Gazette Notification No. S 278/2008 of 30th May 2008 relating to Approved Home Certificate of Appointment is cancelled with effect from 1st January 2010."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Cancellation of Approved Home Certificate of Appointment",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

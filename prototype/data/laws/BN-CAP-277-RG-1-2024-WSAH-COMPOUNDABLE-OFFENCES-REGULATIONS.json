@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-277-RG-1-2024-WSAH-COMPOUNDABLE-OFFENCES-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG 1 2024 版 WSAH 可和解罪行条例",
   "en": "RG 1 2024 ED WSAH COMPOUNDABLE OFFENCES REGULATIONS",
   "orig": null
  },
@@ -66,5 +66,13 @@
     "en": "Any offence under the Act and the regulations, except sections 21(7) and 52, may be compounded by the Authority in accordance with section 55(1). [S 56/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 1 2024 ED WSAH COMPOUNDABLE OFFENCES REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

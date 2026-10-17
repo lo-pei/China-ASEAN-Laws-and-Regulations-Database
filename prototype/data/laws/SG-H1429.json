@@ -1,7 +1,7 @@
 {
  "id": "SG-H1429",
  "title": {
-  "zh": null,
+  "zh": "证据（刑事诉讼中提问与证据的限制）规则 2018",
   "en": "Evidence (Restrictions on Questions and Evidence in Criminal Proceedings) Rules 2018",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) An application for permission under rule 3(a) or (b) is to be heard in the absence of the alleged victim of the offence.\n(2) The court may grant permission under rule 3(a) or (b) only if it would not be in the interests of justice to disallow the asking of the question or the adducing of the evidence."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Evidence (Restrictions on Questions and Evidence in Criminal Proceedings) Rules 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

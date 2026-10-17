@@ -1,7 +1,7 @@
 {
  "id": "PH-H3482",
  "title": {
-  "zh": null,
+  "zh": "授予Juan G. Galinato在北伊罗戈省Paoay市镇安装、维护与运营电灯、热力与动力系统特许经营权的法案",
   "en": "An Act Granting Juan G. Galinato a Franchise to Install, Maintain and Operate Electric Light, Heat and Power System in the Municipality of Paoay, Province of Ilocos Norte",
   "orig": "An Act Granting Juan G. Galinato a Franchise to Install, Maintain and Operate Electric Light, Heat and Power System in the Municipality of Paoay, Province of Ilocos Norte"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Juan G. Galinato a Franchise to Install, Maintain and Operate Electric Light, Heat and Power System in the Municipality of Paoay, Province of Ilocos Norte",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

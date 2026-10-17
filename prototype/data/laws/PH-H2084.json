@@ -1,7 +1,7 @@
 {
  "id": "PH-H2084",
  "title": {
-  "zh": null,
+  "zh": "修订第901号共和国法，使新兴与必要产业的所得全额缴纳所得税；规范此类产业进口税收豁免的给予；规定违反或滥用该税收豁免的处罚并为其他目的",
   "en": "An Act Amending Republic Act Numbered Nine Hundred One so as to Subject the Income of New and Necessary Industries to the Full Payment of the Income Tax; to Regulate the Grant of Tax Exemption on Importations by Such Industries; to Provide Penalties for the Violation and/or Misuse of the Grant of Such Tax Exemption, and for Other Purposes",
   "orig": "An Act Amending Republic Act Numbered Nine Hundred One so as to Subject the Income of New and Necessary Industries to the Full Payment of the Income Tax; to Regulate the Grant of Tax Exemption on Importations by Such Industries; to Provide Penalties for the Violation and/or Misuse of the Grant of Such Tax Exemption, and for Other Purposes"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Republic Act Numbered Nine Hundred One so as to Subject the Income of New and Necessary Industries to the Full Payment of the Income Tax; to Regulate the Grant of Tax Exemption on Importations by Such Industries; to Provide Penalties for the Violation and/or Misuse of the Grant of Such Tax Exemption, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

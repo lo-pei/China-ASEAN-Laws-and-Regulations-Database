@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-173-2024-ARBITRATION-ACT",
  "title": {
-  "zh": null,
+  "zh": "仲裁法",
   "en": "ARBITRATION ACT",
   "orig": null
  },
@@ -1035,5 +1035,13 @@
     "en": "His Majesty the Sultan and Yang Di-Pertuan may by order make such provisions as may appear to him to be necessary or expedient —\n\n(a) for giving effect to the provisions of this Act;\n\n(b) for the purpose of bringing the provisions of any other written law (other than the Constitution of Brunei Darussalam) into accord with the provisions of this Act or with any Rules of Court."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ARBITRATION ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

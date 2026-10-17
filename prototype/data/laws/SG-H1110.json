@@ -1,7 +1,7 @@
 {
  "id": "SG-H1110",
  "title": {
-  "zh": null,
+  "zh": "硬币面额与特征",
   "en": "Denominations and Characteristics of Coins",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE GRANDEUR OF HERITAGE ORCHIDS SERIES COIN SET TO BE ISSUED ON 22ND JUNE 2011\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n1 Dollar\n999 Fine Silver\n8.56 g ± 0.30 g\n24.66 mm ± 0.25 mm\n2.06 mm ± 0.30 mm\nRound\nMilled\nThe Singapore Arms in the centre with the year-date “2011” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’clock of the coin.\nThe set features10 orchids as named below:\n(a)Vanda Tan Chay Yan\n(b)Aranda Majula\n(c)Dendrobium Singa Mas\n(d)Vanda Mimi Palmer\n(e)Aranda Tay Swee Eng\n(f)Oncidium Goldiana\n(g)Spathoglottis Primrose\n(h)Vanda Amy\n(i)Aranthera Anne Black\n(j)Aranda Noorah Alsagoff\nIn each design, the orchid is featured in full colour at the centre with its name around the upper circumference. The fineness of the coin is around the left circumference and the denomination is below the orchid. Contours of the orchid are depicted at the bottom of the coin.\nReverse Design of the Grandeur of Heritage Orchids Series coin set\n(a)\n(b)\n(c)\n(d)\n(e)\n(f)\n(g)\n(h)\n(i)\n(j)\nCommon Obverse Design of the Grandeur of Heritage Orchids Series coin set"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Denominations and Characteristics of Coins",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

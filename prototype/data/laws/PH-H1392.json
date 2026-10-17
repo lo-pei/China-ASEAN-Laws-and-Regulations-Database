@@ -1,7 +1,7 @@
 {
  "id": "PH-H1392",
  "title": {
-  "zh": null,
+  "zh": "给予未能依第304号共和国法确立补发薪金权利的菲律宾陆军、游击队与菲律宾侦察兵成员额外1年申请期限并为其他目的法案",
   "en": "An Act Granting Members of the Philippine Army, Recognized Guerrilla Forces and Philippine Scouts, Who Failed to Establish Their Backpay Rights Under Republic Act Numbered Three Hundred and Four, Amended by Republic Acts Numbered Eight Hundred and Eight Hundred Ninety-Seven, an Additional Period of One Year Within Which to File Their Applications Thereunder, and for Other Purposes",
   "orig": "An Act Granting Members of the Philippine Army, Recognized Guerrilla Forces and Philippine Scouts, Who Failed to Establish Their Backpay Rights Under Republic Act Numbered Three Hundred and Four, Amended by Republic Acts Numbered Eight Hundred and Eight Hundred Ninety-Seven, an Additional Period of One Year Within Which to File Their Applications Thereunder, and for Other Purposes"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Members of the Philippine Army, Recognized Guerrilla Forces and Philippine Scouts, Who Failed to Establish Their Backpay Rights Under Republic Act Numbered Three Hundred and Four, Amended by Republic Acts Numbered Eight Hundred and Eight Hundred Ninety-Seven, an Additional Period of One Year Within Which to File Their Applications Thereunder, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

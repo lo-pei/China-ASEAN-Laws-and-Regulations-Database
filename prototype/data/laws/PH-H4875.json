@@ -1,7 +1,7 @@
 {
  "id": "PH-H4875",
  "title": {
-  "zh": null,
+  "zh": "规定加快调整公立学校教师薪金，为此修订第 5168 号共和国法（即《公立学校教师薪金标准化法》）并为其拨款的法案",
   "en": "An Act Providing for the Acceleration of the Adjustment of Salaries of Public School Teachers and for This Purpose Amending Republic Act Numbered Fifty-One Hundred Sixty-Eight, Known as \"The Public School Teachers Salary Standardization Act\" and Appropriating Funds Therefor.",
   "orig": "An Act Providing for the Acceleration of the Adjustment of Salaries of Public School Teachers and for This Purpose Amending Republic Act Numbered Fifty-One Hundred Sixty-Eight, Known as \"The Public School Teachers Salary Standardization Act\" and Appropriating Funds Therefor."
  },
@@ -101,14 +101,15 @@
    }
   },
   {
-   "id": "PH-H4875-A6_2",
+   "id": "PH-H4875-A6-d2",
    "no": 6,
    "noLabel": {
     "en": "Section 6."
    },
    "text": {
     "en": "The Secretary of Education shall prescribe the rules and regulations for the implementation of the salary adjustments under this Act."
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4875-A7",
@@ -130,5 +131,13 @@
     "en": "This Act shall take effect on July first, nineteen hundred and seventy-one.\nApproved, July 30, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Acceleration of the Adjustment of Salaries of Public School Teachers and for This Purpose Amending Republic Act Numbered Fifty-One Hundred Sixty-Eight, Known as \"The Public School Teachers Salary Standardization Act\" and Appropriating Funds Therefor.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

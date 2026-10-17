@@ -1,7 +1,7 @@
 {
  "id": "PH-H1216",
  "title": {
-  "zh": null,
+  "zh": "给予累计服役满十年的后备军官免于改叙保障的法案",
   "en": "An Act Granting Reserve Officers with at Least Ten Years of Active Accumulated Commissioned Service Security from Reversion",
   "orig": "An Act Granting Reserve Officers with at Least Ten Years of Active Accumulated Commissioned Service Security from Reversion"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Reserve Officers with at Least Ten Years of Active Accumulated Commissioned Service Security from Reversion",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

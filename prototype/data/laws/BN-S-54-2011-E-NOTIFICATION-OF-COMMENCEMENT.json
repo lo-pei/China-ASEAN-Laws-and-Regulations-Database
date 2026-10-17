@@ -1,7 +1,7 @@
 {
  "id": "BN-S-54-2011-E-NOTIFICATION-OF-COMMENCEMENT",
  "title": {
-  "zh": null,
+  "zh": "生效公告",
   "en": "NOTIFICATION OF COMMENCEMENT",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "15th. OCTOBER, 2011 No. S 54\n\nACCOUNTING STANDARDS ORDER, 2010 (S 116/2010)\n\nNOTIFICATION OF COMMENCEMENT In exercise of the power conferred by section 1 ( 1) of the Accounting Standards Order, 2010, the Minister of Finance, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 1st. August, 2011 as the date on which that Order shall commence. Dated this 15th. day of Syawal, 1432 Hijriah corresponding to the 13th. day of September, 2011. HAJI HISHAM BIN HAJI MOHD. HANIFAH Permanent Secretary, Ministry of Finance, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF COMMENCEMENT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

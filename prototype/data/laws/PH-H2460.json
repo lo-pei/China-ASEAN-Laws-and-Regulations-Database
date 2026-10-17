@@ -1,7 +1,7 @@
 {
  "id": "PH-H2460",
  "title": {
-  "zh": null,
+  "zh": "宣布莱特省 Limasawa 岛 Magallanes 举行菲律宾首次弥撒的遗址为国家圣地、规定保护该地历史纪念物并为其他目的",
   "en": "An Act to Declare the Site in Magallanes, Limasawa Island in the Province of Leyte, Where the First Mass in the Philippines was Held as a National Shrine, to Provide for the Preservation of Historical Monuments and Landmarks Thereat, and for Other Purposes",
   "orig": "An Act to Declare the Site in Magallanes, Limasawa Island in the Province of Leyte, Where the First Mass in the Philippines was Held as a National Shrine, to Provide for the Preservation of Historical Monuments and Landmarks Thereat, and for Other Purposes"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Declare the Site in Magallanes, Limasawa Island in the Province of Leyte, Where the First Mass in the Philippines was Held as a National Shrine, to Provide for the Preservation of Historical Monuments and Landmarks Thereat, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

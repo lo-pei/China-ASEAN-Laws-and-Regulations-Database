@@ -1,7 +1,7 @@
 {
  "id": "SG-H2750",
  "title": {
-  "zh": null,
+  "zh": "新加坡国内税务局（职能转授）（第 2 号）公告 2020",
   "en": "Inland Revenue Authority of Singapore (Assignment of Functions) (No. 2) Notification 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister for Finance assigns to the Inland Revenue Authority of Singapore the function of disbursing cash grants under the terms of the public scheme established for the giving of cash grants to mitigate rental costs, that is part of the Budget Statement of the Government dated 26 May 2020, including cash grants given under that public scheme which are not subject to Part 2A of the COVID‑19 (Temporary Measures) Act 2020 (Act 14 of 2020)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Inland Revenue Authority of Singapore (Assignment of Functions) (No. 2) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

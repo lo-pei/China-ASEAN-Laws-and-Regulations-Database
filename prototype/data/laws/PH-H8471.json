@@ -1,7 +1,7 @@
 {
  "id": "PH-H8471",
  "title": {
-  "zh": null,
+  "zh": "将打拉省卡帕斯、圣何塞、马扬托克与卡米林市镇的卡帕斯—圣何塞—马扬托克—马拉坎帕公路改设为国道的法案",
   "en": "An Act Converting the Capas - San Jose - Mayantoc - Malacampa Road in the Municipalities of Capas, San Jose, Mayantoc and Camiling, Province of Tarlac Into a National Road",
   "orig": "An Act Converting the Capas - San Jose - Mayantoc - Malacampa Road in the Municipalities of Capas, San Jose, Mayantoc and Camiling, Province of Tarlac Into a National Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Capas - San Jose - Mayantoc - Malacampa Road in the Municipalities of Capas, San Jose, Mayantoc and Camiling, Province of Tarlac Into a National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

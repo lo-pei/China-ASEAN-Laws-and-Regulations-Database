@@ -1,7 +1,7 @@
 {
  "id": "SG-H3585",
  "title": {
-  "zh": null,
+  "zh": "私立教育法 2009",
   "en": "Private Education Act 2009",
   "orig": null
  },
@@ -784,5 +784,13 @@
     "en": "THE SCHEDULE\nSections 2 and 43(1)\nDefinition of private education\n1. In this Schedule, unless the context otherwise requires —\n“contract of service” has the meaning given by section 2 of the Employment Act 1968;\n“employee” means a person who has entered into or works under a contract of service with an employer;\n“employer” has the meaning given by section 2 of the Employment Act 1968;\n“full-time”, in relation to the provision of education, means the provision of education of a duration of at least one month and that is conducted for 5 days of a week for at least 3 hours each day;\n“post-secondary education” means education normally for a person who is 16 years of age or above;\n“primary or secondary education” means education normally for a child who is above 6 years of age and below 18 years of age.\n2. “Private education” means any of the following types of education, whether provided wholly or in part electronically, through correspondence or in any other manner:\n(a)education leading to the award of a diploma or degree;\n(b)full-time post-secondary education leading to the award of a certificate;\n(c)full-time primary or secondary education wholly or substantially in accordance with a foreign or international curriculum;\n(d)full-time special education for students with physical or intellectual disabilities;\n(e)full-time education for the purpose of preparing students for any examination that —\n(i)leads to a qualification awarded by any person other than the person which provides such full-time education; or\n(ii)entitles the students to be admitted to an education institution.\n3. “Private education” does not include —\n(a)any apprenticeship whereby an employer undertakes to employ a person and to train the person, or have the person trained, systematically for a trade or vocation; or\n(b)any education provided by any employer exclusively for the employer’s employees.\n[16/2016]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Private Education Act 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

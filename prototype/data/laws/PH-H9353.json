@@ -1,7 +1,7 @@
 {
  "id": "PH-H9353",
  "title": {
-  "zh": null,
+  "zh": "要求所有电视站特许权持有人或运营者及电视节目制作者以隐藏字幕选项播出或呈现其节目并为其他目的法案",
   "en": "An Act Requiring All Franchise Holders or Operators of Television Stations and Producers of Television Programs to Broadcast or Present Their Programs With Closed Captions Option, and for Other Purposes",
   "orig": "An Act Requiring All Franchise Holders or Operators of Television Stations and Producers of Television Programs to Broadcast or Present Their Programs With Closed Captions Option, and for Other Purposes"
  },
@@ -278,5 +278,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days following its complete publication in the Official Gazette or in two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Requiring All Franchise Holders or Operators of Television Stations and Producers of Television Programs to Broadcast or Present Their Programs With Closed Captions Option, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

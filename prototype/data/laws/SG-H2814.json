@@ -1,7 +1,7 @@
 {
  "id": "SG-H2814",
  "title": {
-  "zh": null,
+  "zh": "保险（豁免）条例",
   "en": "Insurance (Exemption) Regulations",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 20 of the Act shall not apply in respect of the following:\n(a)any loan of securities by an insurer under a securities lending arrangement where the securities that are loaned are assets of an insurance fund established by it; and\n(b)any provision of collateral by an insurer under a securities lending arrangement where the insurer borrows securities and the collateral that is provided are assets of an insurance fund established by it."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insurance (Exemption) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

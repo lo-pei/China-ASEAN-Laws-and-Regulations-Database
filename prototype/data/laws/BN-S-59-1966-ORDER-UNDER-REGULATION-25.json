@@ -1,7 +1,7 @@
 {
  "id": "BN-S-59-1966-ORDER-UNDER-REGULATION-25",
  "title": {
-  "zh": null,
+  "zh": "依条例第 25 条作出的命令",
   "en": "ORDER UNDER REGULATION 25",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "No. S 59\n\nNATIONAL REGISTRATION ENACTMENT,\n\nNATIONAL REGISTRATION REGULATIONS, Order under Regulation 25 In exercise of the powers conferred upon him by Regulation 25(f) of the National Registration s. 147011964. Regulations, 1964, the Sultan in Council by Order hereby exempts absolutely from the provisions of the National Registration Enactment, 1964 and the No.2 of 1964. National Registration Regulations, 1964, the followmg classes of persons as detailed in the Schedule to this Order.\n\nSCHEDULE\n\n(a) Persons in the service of Her Majesty's Government in the United Kingdom and resident in Brunei for the purposes of such service and the members of the families of such persons.\n\n(b) The members of families of members of any Visiting Forces lawfully present in the State pursuant to any Treaty, Agreement or arrangement to which the State is a party. ( c) All nomadic aboriginal peoples of the State, that is to say, those living in the jungle and not in settled communities. Made this 23rd day of March, 1966.\n\nJUDIN ASAR Ag. Clerk of Councils, Brunei."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ORDER UNDER REGULATION 25",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

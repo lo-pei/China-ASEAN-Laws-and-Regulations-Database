@@ -1,7 +1,7 @@
 {
  "id": "SG-H3002",
  "title": {
-  "zh": null,
+  "zh": "法律专业（无偿法律服务）规则 2013",
   "en": "Legal Profession (Pro Bono Legal Services) Rules 2013",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Section 33 of the Act does not extend to any non‑practising solicitor or lawyer (NP) in respect only of his or her provision of any permitted pro bono legal services in any of the following circumstances:\n(a)the services are provided under any scheme administered by any one or more of the following:\n(i)the Society;\n(ii)the State Courts referred to in section 3(1) of the State Courts Act 1970;\n[S 151/2014 wef 07/03/2014]\n[S 594/2024 wef 31/12/2021]\n(iii)the Family Justice Courts referred to in section 3 of the Family Justice Act 2014;\n[S 651/2014 wef 01/10/2014]\n[S 594/2024 wef 31/12/2021]\n[S 594/2024 wef 17/07/2024]\n(b)the services are provided directly to, or for the benefit of, any charity registered or exempt from registration under the Charities Act 1994;\n[S 594/2024 wef 31/12/2021]\n(c)the services are provided directly to, or for the benefit of, any institution of a public character;\n(d)the services are provided directly to, or for the benefit of, any organisation that is a sector member as defined in section 2 of the National Council of Social Service Act 1992.\n[S 541/2026 wef 01/08/2026]\n[S 594/2024 wef 17/07/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Legal Profession (Pro Bono Legal Services) Rules 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

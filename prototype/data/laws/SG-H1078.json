@@ -1,7 +1,7 @@
 {
  "id": "SG-H1078",
  "title": {
-  "zh": null,
+  "zh": "网络安全法 2018",
   "en": "Cybersecurity Act 2018",
   "orig": null
  },
@@ -1238,5 +1238,13 @@
     "en": "SECOND SCHEDULE\nSections 2(1) and 47(1)\nLicensable cybersecurity services\n1. The following cybersecurity services are licensable cybersecurity services for the purposes of this Act:\n(a)managed security operations centre (SOC) monitoring service;\n(b)penetration testing service.\n2. In this Schedule —\n“computer” includes a virtual computer;\n[Act 19 of 2024 wef 31/10/2025]\n“computer system” includes a virtual computer system;\n[Act 19 of 2024 wef 31/10/2025]\n“managed security operations centre (SOC) monitoring service” means a service for the monitoring of the level of cybersecurity of a computer or computer system of another person by acquiring, identifying and scanning information that is stored in, processed by, or transmitted through the computer or computer system for the purpose of identifying cybersecurity threats to the computer or computer system;\n“penetration testing service” means a service for assessing, testing or evaluating the level of cybersecurity of a computer or computer system, by searching for vulnerabilities in, and compromising, the cybersecurity defences of the computer or computer system, and includes any of the following activities:\n(a)determining the cybersecurity vulnerabilities of a computer or computer system, and demonstrating how such vulnerabilities may be exploited and taken advantage of;\n(b)determining or testing the organisation’s ability to identify and respond to cybersecurity incidents through simulation of attempts to penetrate the cybersecurity defences of the computer or computer system;\n(c)identifying and quantifying the cybersecurity vulnerabilities of a computer or computer system, indicating vulnerabilities and providing appropriate mitigation procedures required to eliminate vulnerabilities or to reduce vulnerabilities to an acceptable level of risk;\n(d)utilising social engineering to assess the level of vulnerability of an organisation to cybersecurity threats."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Cybersecurity Act 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

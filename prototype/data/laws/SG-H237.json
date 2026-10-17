@@ -1,7 +1,7 @@
 {
  "id": "SG-H237",
  "title": {
-  "zh": null,
+  "zh": "各监督官员的委任",
   "en": "Appointment of Supervision Officers",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "MISUSE OF DRUGS ACT\n(Chapter 185)\nMISUSE OF DRUGS (APPROVED INSTITUTIONS AND TREATMENT and REHABILITATION) REGULATIONS\nAPPOINTMENT OF SUPERVISion officers\nN 2\nG.N. No. S 187/1976\nREVISED EDITION 1999\n(1st July 1999)\nThe Minister for Home Affairs has appointed the following officers to be supervision officers under regulation 15(1) of the Misuse of Drugs (Approved Institutions and Treatment and Rehabilitation) Regulations (Rg 3):\n(1)All special officers of the Special Constabulary for so long as they are attached to the Aftercare Unit of the Special Constabulary;\n[S 187/76 — 17.9.76]\n(2)All Guard Commanders, Battalion Orderly Sergeants and Duty Officers of the Singapore Armed Forces while on duty;\n(3)All officers of the Central Narcotics Bureau appointed under section 3 of the Act (Cap. 185);\n(4)All police officers and members of the Vigilante Corps and the Special Constabulary attached to the Anti-Drug Units of all Police Divisions;\n[S 4/78 — 1.1.78]\n(5)All police officers and members of the Special Constabulary attached to the Supervision Division of the Central Narcotics Bureau;\n[S 15/79 — 1.7.78]\n(6)All police officers attached to the Police National Service (Full-time) Command Drug Supervision Unit;\n[S 46/79 — 13.2.79]\n(7)All members of the Vigilante Corps attached to the Supervision Division of the Central Narcotics Bureau; and\n[S 248/79 — 1.11.79]\n(8)Every person on the staff of the Singapore Armed Forces Counselling Centre.\n[S 253/82 — 28.8.82]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Appointment of Supervision Officers",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3704",
  "title": {
-  "zh": null,
+  "zh": "东京公约法 1971",
   "en": "Tokyo Convention Act 1971",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "7. The Minister may make such regulations as appear to him or her to be necessary for carrying out or giving effect to the provisions of the Tokyo Convention."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Tokyo Convention Act 1971",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

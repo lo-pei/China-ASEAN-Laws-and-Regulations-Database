@@ -1,7 +1,7 @@
 {
  "id": "SG-H1735",
  "title": {
-  "zh": null,
+  "zh": "医疗服务法 2020（保留与过渡条文）条例 2023",
   "en": "Healthcare Services Act 2020 (Saving and Transitional Provisions) Regulations 2023",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Despite section 58 of the Act, section 20 of the repealed Act continues to apply to or in relation to any compoundable offence reasonably suspected to have been committed before 18 December 2023.\n(2) In paragraph (1), “compoundable offence” means an offence prescribed as a compoundable offence under the Private Hospitals and Medical Clinics (Composition of Offences) Regulations (Rg 2) as in force immediately before 18 December 2023."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Healthcare Services Act 2020 (Saving and Transitional Provisions) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

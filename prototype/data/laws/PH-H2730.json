@@ -1,7 +1,7 @@
 {
  "id": "PH-H2730",
  "title": {
-  "zh": null,
+  "zh": "授予 Benjamin Romualdez 在 Tacloban 市建设、维护和运营无线电广播站的特许经营权法案",
   "en": "An Act Granting Benjamin Romualdez, a Franchise to Construct, Maintain and Operate a Radio Broadcasting Station in the City of Tacloban",
   "orig": "An Act Granting Benjamin Romualdez, a Franchise to Construct, Maintain and Operate a Radio Broadcasting Station in the City of Tacloban"
  },
@@ -180,5 +180,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Benjamin Romualdez, a Franchise to Construct, Maintain and Operate a Radio Broadcasting Station in the City of Tacloban",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

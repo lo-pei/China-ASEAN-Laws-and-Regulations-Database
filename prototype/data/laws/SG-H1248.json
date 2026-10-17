@@ -1,7 +1,7 @@
 {
  "id": "SG-H1248",
  "title": {
-  "zh": null,
+  "zh": "雇佣（程序——对等条款）条例",
   "en": "Employment (Procedure-Reciprocal Provisions) Regulations",
   "orig": null
  },
@@ -166,5 +166,13 @@
     "en": "10.—(1) Where under the provisions of any written law in force in Malaysia corresponding to the Act a warrant has been issued for the apprehension of an employer who has absconded or is absconding or is about to abscond from Malaysia, in order to evade payment of wages due to any of his workmen, and the employer is or is suspected of being in or on the way to Singapore, a Magistrate in Singapore if satisfied that the warrant was issued by a person having lawful authority to issue the warrant, may endorse the warrant in the manner provided in this regulation.\n(2) The warrant endorsed under paragraph (1) shall be a sufficient authority to apprehend, within Singapore, the employer named in the warrant, and bring him before the endorsing Magistrate or some other Magistrate in Singapore.\n(3) The Magistrate before whom an employer so apprehended is brought, if he is satisfied that the warrant was issued by a person having lawful authority to issue the warrant, and if satisfied on oath that the prisoner is the person named or otherwise described in the warrant, may order the prisoner —\n(a)to be returned to Malaysia; and\n(b)for that purpose to be delivered into the custody of the persons to whom the warrant is addressed, or any one or more of them and to be held in custody and conveyed to Malaysia, there to be dealt with according to law as if he had been there apprehended.\n(4) A Magistrate shall, so far as is requisite for the exercise of the powers conferred by this regulation, have the same powers, including the power to remand and admit to bail a prisoner, as he has in the case of a person apprehended under a warrant issued by him.\n(5) An endorsement of a warrant under this regulation shall —\n(a)be signed by the authority endorsing the warrant; and\n(b)authorise all or any of the persons named in the endorsement, and the persons to whom the warrant was originally directed, and also every police officer to execute the warrant by apprehending the person named in it and bringing him before either the Magistrate endorsing the warrant or some other Magistrate.\n(6) For the purposes of this regulation, every warrant and every endorsement made thereon under this regulation shall remain in force, notwithstanding that the person signing the warrant or the endorsement dies or ceases to hold office.\n[G.N. No. S 286/87]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment (Procedure-Reciprocal Provisions) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

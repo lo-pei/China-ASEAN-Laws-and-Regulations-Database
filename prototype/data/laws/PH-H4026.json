@@ -1,7 +1,7 @@
 {
  "id": "PH-H4026",
  "title": {
-  "zh": null,
+  "zh": "授权任何省、市镇或市政府与任何私人方订立合同建设其自偿性项目的法案",
   "en": "An Act Authorizing Any Provincial, Municipal or City Government to Enter into Contract with Any Private Party for the Construction of its Self-Liquidating Projects",
   "orig": "An Act Authorizing Any Provincial, Municipal or City Government to Enter into Contract with Any Private Party for the Construction of its Self-Liquidating Projects"
  },
@@ -180,5 +180,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing Any Provincial, Municipal or City Government to Enter into Contract with Any Private Party for the Construction of its Self-Liquidating Projects",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

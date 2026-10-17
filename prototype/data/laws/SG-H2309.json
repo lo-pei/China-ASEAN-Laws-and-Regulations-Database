@@ -1,7 +1,7 @@
 {
  "id": "SG-H2309",
  "title": {
-  "zh": null,
+  "zh": "所得税（第 13X（6）条中指定财产的含义）规则 2022",
   "en": "Income Tax (Meaning of Prescribed Property in Section 13X(6)) Rules 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 13X(5A) of the Act, “prescribed property” is any non-residential property."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Meaning of Prescribed Property in Section 13X(6)) Rules 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

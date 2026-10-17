@@ -1,7 +1,7 @@
 {
  "id": "SG-H144",
  "title": {
-  "zh": null,
+  "zh": "航空导航（129——外国运营人许可证）条例 2026",
   "en": "Air Navigation (129 — Foreign Operator’s Permit) Regulations 2026",
   "orig": null
  },
@@ -394,5 +394,13 @@
     "en": "SECOND SCHEDULE\nRegulations 7(1)(c), 9(2), 10(3)(b) and 19(1)\nFees\nItem\nMatter\nAmount\n1.\nGrant of a foreign operator’s permit under regulation 9 authorising one or more kinds of commercial air transport operation\nThe total of the following:\n(a)the amount worked out based on the permit’s validity;\n(b)the amount worked out based on the number of aircraft covered by the permit when granted\n(a)validity period of permit:\n(i)not more than one year;\n$300\n(ii)more than one year but not more than 3 years;\n$450\n(iii)more than 3 years but not more than 5 years;\n$600\n(b)number of aircraft covered by the permit when granted\n$40 per aircraft\n2.\nGrant of a foreign operator’s permit under regulation 9 authorising one or more kinds of aerial work operation\nThe total of the following:\n(a)the amount worked out based on the permit’s validity;\n(b)the amount worked out based on the number of aircraft covered by the permit when granted\n(a)validity period of permit:\n(i)not more than one year;\n$300\n(ii)more than one year but not more than 3 years;\n$450\n(iii)more than 3 years but not more than 5 years;\n$600\n(b)number of aircraft covered by the permit when granted\n$40 per aircraft\n3.\nGrant of a foreign operator’s permit under regulation 9 authorising both commercial air transport operation and aerial work operation\nThe total of the amounts worked out under items 1 and 2 as if 2 foreign operator’s permits are granted, even if the same aircraft is used for both commercial air transport operation and aerial work operation\n4.\nGrant of an application under regulation 10 to vary a foreign operator’s permit by adding or replacing any aircraft for coverage by the current foreign operator’s permit\n$40 per aircraft added or replaced"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Air Navigation (129 — Foreign Operator’s Permit) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

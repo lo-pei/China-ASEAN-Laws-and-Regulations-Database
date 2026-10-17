@@ -1,7 +1,7 @@
 {
  "id": "PH-H9065",
  "title": {
-  "zh": null,
+  "zh": "将三宝颜市医疗中心最低床位由250张增至500张，为此修订第7272号共和国法第2条的法案",
   "en": "An Act Increasing the Minimum Bed Capacity of the Zamboanga City Medical Center From Two Hundred Fifty (250) to Five Hundred (500), Amending for the Purpose Section 2 of Republic Act No. 7272",
   "orig": "An Act Increasing the Minimum Bed Capacity of the Zamboanga City Medical Center From Two Hundred Fifty (250) to Five Hundred (500), Amending for the Purpose Section 2 of Republic Act No. 7272"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Minimum Bed Capacity of the Zamboanga City Medical Center From Two Hundred Fifty (250) to Five Hundred (500), Amending for the Purpose Section 2 of Republic Act No. 7272",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

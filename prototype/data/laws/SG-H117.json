@@ -1,7 +1,7 @@
 {
  "id": "SG-H117",
  "title": {
-  "zh": null,
+  "zh": "活跃通勤条例 2018",
   "en": "Active Mobility Regulations 2018",
   "orig": null
  },
@@ -384,5 +384,13 @@
     "en": "THE SCHEDULE\nRegulation 3\nPEDESTRIAN-ONLY PATH SIGN\nDIAGRAM 1\nDIAGRAM 2\nEND-OF PEDESTRIAN-ONLY PATH SIGN\nDIAGRAM 3\nDIAGRAM 4\nDIAGRAM 5\nPEDESTRIAN-ONLY PATH MARKING\nDIAGRAM 5A\n[S 670/2019 wef 04/10/2019]\nDIAGRAM 5AA\n[S 708/2022 wef 31/08/2022]\nDIAGRAM 5AB\n[S 468/2025 wef 01/07/2025]\nEND-OF PEDESTRIAN-ONLY PATH MARKING\nDIAGRAM 5B\n[S 670/2019 wef 04/10/2019]\nDIAGRAM 5C\n[S 708/2022 wef 31/08/2022]\nDIAGRAM 5D\n[S 468/2025 wef 01/07/2025]\nSHARED PATH SIGN\nDIAGRAM 6\nDIAGRAM 7\nDIAGRAM 7A\n[S 708/2022 wef 31/08/2022]\nEND-OF SHARED PATH SIGN\nDIAGRAM 8\nSHARED PATH MARKING\nDIAGRAM 9\nDIAGRAM 10\nDIAGRAM 11\nDIAGRAM 12\nDIAGRAM 13\nDIAGRAM 14\nDIAGRAM 15\nDIAGRAM 16\nEND-OF SHARED PATH MARKING\nDIAGRAM 17\nDIAGRAM 18\nDIAGRAM 19"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Active Mobility Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

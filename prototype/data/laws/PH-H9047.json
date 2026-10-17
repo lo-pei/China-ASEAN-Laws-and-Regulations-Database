@@ -1,7 +1,7 @@
 {
  "id": "PH-H9047",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛市西米沙鄢科学技术学院改设为国立大学，名称为伊洛伊洛科学技术大学，其校区分布于伊洛伊洛省，并为此拨款的法案",
   "en": "An Act Converting the Western Visayas College of Science and Technology (WVCST) in the City of Iloilo Into a State University to Be Known as the Iloilo Science and Technology University, With Campuses in the Municipalities of Barotac Nuevo, Dumangas, Leon and Miag-Ao, All Located in the Province of Iloilo, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Western Visayas College of Science and Technology (WVCST) in the City of Iloilo Into a State University to Be Known as the Iloilo Science and Technology University, With Campuses in the Municipalities of Barotac Nuevo, Dumangas, Leon and Miag-Ao, All Located in the Province of Iloilo, and Appropriating Funds Therefor"
  },
@@ -330,5 +330,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Western Visayas College of Science and Technology (WVCST) in the City of Iloilo Into a State University to Be Known as the Iloilo Science and Technology University, With Campuses in the Municipalities of Barotac Nuevo, Dumangas, Leon and Miag-Ao, All Located in the Province of Iloilo, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

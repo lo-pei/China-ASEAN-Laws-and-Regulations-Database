@@ -1,7 +1,7 @@
 {
  "id": "PH-H2821",
  "title": {
-  "zh": null,
+  "zh": "增加卡加延省助理省检察官人数，并为此修订《行政法典》第1674条（经修正）的法案",
   "en": "An Act Increasing the Number of Assistant Provincial Fiscals for the Province of Cagayan, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended",
   "orig": "An Act Increasing the Number of Assistant Provincial Fiscals for the Province of Cagayan, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted, without Executive approval, June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Number of Assistant Provincial Fiscals for the Province of Cagayan, Amending for the Purpose Section Sixteen Hundred Seventy-Four of the Administrative Code, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

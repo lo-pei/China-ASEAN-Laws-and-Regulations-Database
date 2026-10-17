@@ -1,7 +1,7 @@
 {
  "id": "SG-H3498",
  "title": {
-  "zh": null,
+  "zh": "薪金税法 1965",
   "en": "Payroll Tax Act 1965",
   "orig": null
  },
@@ -240,5 +240,13 @@
     "en": "THE SCHEDULE\nSection 2\nScheduled matters\n1. Any matter which is dealt with in the Income Tax Act 1947.\n2. Any matter relating to any tax or proposed tax levied or to be levied on payrolls.\n3. Any matter relating to any tax or proposed tax levied or to be levied on turnover.\n4. Any matter relating to any tax or proposed tax levied or to be levied on capital gains.\n5. Any matter relating to any tax or proposed tax levied on any other matter which the Minister, by order, declares to be a tax to which this Schedule relates.\n[7/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Payroll Tax Act 1965",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

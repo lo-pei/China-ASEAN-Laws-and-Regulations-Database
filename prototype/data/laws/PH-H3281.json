@@ -1,7 +1,7 @@
 {
  "id": "PH-H3281",
  "title": {
-  "zh": null,
+  "zh": "授予 Antonia L. Alisangco 在拉乌尼翁省 Bacnotan 市镇经营电灯、热力与动力系统的特许权法案",
   "en": "An Act Granting Antonia L. Alisangco a Franchise for an Electric Light, Heat and Power System in the Municipality of Bacnotan, Province of La Union",
   "orig": "An Act Granting Antonia L. Alisangco a Franchise for an Electric Light, Heat and Power System in the Municipality of Bacnotan, Province of La Union"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Antonia L. Alisangco a Franchise for an Electric Light, Heat and Power System in the Municipality of Bacnotan, Province of La Union",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

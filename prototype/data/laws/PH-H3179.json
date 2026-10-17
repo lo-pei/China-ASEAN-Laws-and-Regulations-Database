@@ -1,7 +1,7 @@
 {
  "id": "PH-H3179",
  "title": {
-  "zh": null,
+  "zh": "授予 Dipolog 制冰与冷藏公司在北三宝颜省 Dipolog 市镇维护和运营制冰厂与冷藏库并销售分销冰和供应冷藏的特许权法案",
   "en": "An Act Granting the Dipolog Ice Plant and Cold Storage Company, a Franchise to Maintain and Operate an Ice Plant and Cold Storage in the Municipality of Dipolog, Province of Zamboanga del Norte, and to Sell and Distribute Ice and Supply Cold Storage Therein",
   "orig": "An Act Granting the Dipolog Ice Plant and Cold Storage Company, a Franchise to Maintain and Operate an Ice Plant and Cold Storage in the Municipality of Dipolog, Province of Zamboanga del Norte, and to Sell and Distribute Ice and Supply Cold Storage Therein"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Dipolog Ice Plant and Cold Storage Company, a Franchise to Maintain and Operate an Ice Plant and Cold Storage in the Municipality of Dipolog, Province of Zamboanga del Norte, and to Sell and Distribute Ice and Supply Cold Storage Therein",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

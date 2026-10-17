@@ -1,7 +1,7 @@
 {
  "id": "SG-H3182",
  "title": {
-  "zh": null,
+  "zh": "商船（海事劳工公约）（遣返）条例 2014",
   "en": "Merchant Shipping (Maritime Labour Convention) (Repatriation) Regulations 2014",
   "orig": null
  },
@@ -298,5 +298,13 @@
     "en": "20.—(1) A shipowner who contravenes regulation 3, 4, 9, 10 or 18 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.\n(2) A master or shipowner who fails to comply with a requirement made of him by a conveyance order made under regulation 11(1)(a) or with a direction given to him under regulation 11(1)(b) for the purpose of that requirement, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.\n(3) A master who contravenes regulation 12 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.\n(4) A master who contravenes —\n(a)regulation 18(3)(a) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500; or\n(b)regulation 18(3)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Maritime Labour Convention) (Repatriation) Regulations 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

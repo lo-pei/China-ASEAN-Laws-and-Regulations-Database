@@ -1,7 +1,7 @@
 {
  "id": "PH-H5840",
  "title": {
-  "zh": null,
+  "zh": "将Daet市镇的北甘马粦国立中学改设为北甘马粦州立学院，并入Abano实验小学、Mercedes渔业学校、北甘马粦国立农业学校与北甘马粦国立工艺学校，并为此拨款的法案",
   "en": "An Act Converting the Present Camarines Norte National High School in the Municipality of Daet Into a State College to Be Known as the Camarines Norte State College, Integrating for the Purpose the Abano Pilot Elementary School in Daet, Mercedes School of Fisheries in Mercedes, Camarines Norte National Agricultural School in Labo and the Camarines Norte National School of Arts and Trades in Jose Panganiban, All in the Province of Camarines Norte, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Present Camarines Norte National High School in the Municipality of Daet Into a State College to Be Known as the Camarines Norte State College, Integrating for the Purpose the Abano Pilot Elementary School in Daet, Mercedes School of Fisheries in Mercedes, Camarines Norte National Agricultural School in Labo and the Camarines Norte National School of Arts and Trades in Jose Panganiban, All in the Province of Camarines Norte, and Appropriating Funds Therefor"
  },
@@ -92,5 +92,13 @@
     "en": "The governing body of the Camarines Norte State Colleges shall be the Board of Regents of the State College. It shall be composed of the following:\nSecretary of Education, Culture and Sports, Chairman;"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Present Camarines Norte National High School in the Municipality of Daet Into a State College to Be Known as the Camarines Norte State College, Integrating for the Purpose the Abano Pilot Elementary School in Daet, Mercedes School of Fisheries in Mercedes, Camarines Norte National Agricultural School in Labo and the Camarines Norte National School of Arts and Trades in Jose Panganiban, All in the Province of Camarines Norte, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2897",
  "title": {
-  "zh": null,
+  "zh": "解释（交通权申请证书费用）命令 2011",
   "en": "Interpretation (Fee for Traffic Rights Application Certificate) Order 2011",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. A fee of $3,500 shall be payable to the Civil Aviation Authority of Singapore when an application is made under regulation 2F(3) of the Air Navigation (Licensing of Air Services) Regulations (Cap. 6, Rg 2) and for which a Traffic Rights Application Certificate may be issued."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Interpretation (Fee for Traffic Rights Application Certificate) Order 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

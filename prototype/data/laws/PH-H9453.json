@@ -1,7 +1,7 @@
 {
  "id": "PH-H9453",
  "title": {
-  "zh": null,
+  "zh": "规定设立孔波斯特拉谷州立学院应满足的合规要求，为此修订第10598号共和国法第26条的法案",
   "en": "An Act Providing for the Compliance Requirements for the Establishment of the Compostela Valley State College Amending for the Purpose Section 26 of Republic Act No. 10598, Entitled: \"An Act Establishing a State College in the Municipality of Compostela, Province of Compostela Valley to Be Known as the Compostela Valley State College, Integrating Therewith as Regular Branches the Bukidnon State University External Studies Centers in the Municipalities of Monkayo, Maragusan, Montevista and New Bataan, All Located in the Province of Compostela Valley and Appropriating Funds Therefor\"",
   "orig": "An Act Providing for the Compliance Requirements for the Establishment of the Compostela Valley State College Amending for the Purpose Section 26 of Republic Act No. 10598, Entitled: \"An Act Establishing a State College in the Municipality of Compostela, Province of Compostela Valley to Be Known as the Compostela Valley State College, Integrating Therewith as Regular Branches the Bukidnon State University External Studies Centers in the Municipalities of Monkayo, Maragusan, Montevista and New Bataan, All Located in the Province of Compostela Valley and Appropriating Funds Therefor\""
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Compliance Requirements for the Establishment of the Compostela Valley State College Amending for the Purpose Section 26 of Republic Act No. 10598, Entitled: \"An Act Establishing a State College in the Municipality of Compostela, Province of Compostela Valley to Be Known as the Compostela Valley State College, Integrating Therewith as Regular Branches the Bukidnon State University External Studies Centers in the Municipalities of Monkayo, Maragusan, Montevista and New Bataan, All Located in the Province of Compostela Valley and Appropriating Funds Therefor\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H236",
  "title": {
-  "zh": null,
+  "zh": "修订第3002号法（题为“为马尼拉港设立港务局”，经第3851号法与第285号联邦法修正）",
   "en": "An Act to Amend Act Numbered Thirty Hundred and Two Entitled “An Act to Create a Harbor Board for the Port of Manila,” as Amended by Act Numbered Thirty-Eight Hundred and Fifty-One and Commonwealth Act Numbered Two Hundred and Eighty-Five",
   "orig": "An Act to Amend Act Numbered Thirty Hundred and Two Entitled “An Act to Create a Harbor Board for the Port of Manila,” as Amended by Act Numbered Thirty-Eight Hundred and Fifty-One and Commonwealth Act Numbered Two Hundred and Eighty-Five"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Act Numbered Thirty Hundred and Two Entitled “An Act to Create a Harbor Board for the Port of Manila,” as Amended by Act Numbered Thirty-Eight Hundred and Fifty-One and Commonwealth Act Numbered Two Hundred and Eighty-Five",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

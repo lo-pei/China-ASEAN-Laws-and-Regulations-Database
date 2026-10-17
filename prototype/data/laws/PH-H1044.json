@@ -1,7 +1,7 @@
 {
  "id": "PH-H1044",
  "title": {
-  "zh": null,
+  "zh": "修订第39号联邦法（即《三宝颜市宪章》）若干条款，使市长、副市长与市议员职位改为选举产生的法案",
   "en": "An Act to Amend Certain Sections of Commonwealth Act Numbered Thirty-Nine, Otherwise Known as the Charter of the City of Zamboanga, so as to Make Elective the Positions of Mayor, Vice-Mayor and Councilor",
   "orig": "An Act to Amend Certain Sections of Commonwealth Act Numbered Thirty-Nine, Otherwise Known as the Charter of the City of Zamboanga, so as to Make Elective the Positions of Mayor, Vice-Mayor and Councilor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 29, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Certain Sections of Commonwealth Act Numbered Thirty-Nine, Otherwise Known as the Charter of the City of Zamboanga, so as to Make Elective the Positions of Mayor, Vice-Mayor and Councilor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

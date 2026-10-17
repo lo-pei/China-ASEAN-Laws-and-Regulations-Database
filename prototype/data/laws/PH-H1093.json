@@ -1,7 +1,7 @@
 {
  "id": "PH-H1093",
  "title": {
-  "zh": null,
+  "zh": "将马斯巴特省马斯巴特市镇布格萨永村更名为B.蒂通村的法案",
   "en": "An Act to Change the Name of Barrio Bugsayon, Municipality of Masbate, Province of Masbate, to Barrio B. Titong",
   "orig": "An Act to Change the Name of Barrio Bugsayon, Municipality of Masbate, Province of Masbate, to Barrio B. Titong"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 10, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Change the Name of Barrio Bugsayon, Municipality of Masbate, Province of Masbate, to Barrio B. Titong",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

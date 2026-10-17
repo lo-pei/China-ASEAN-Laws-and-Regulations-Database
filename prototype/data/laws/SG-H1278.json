@@ -1,7 +1,7 @@
 {
  "id": "SG-H1278",
  "title": {
-  "zh": null,
+  "zh": "外籍人力雇用（违规与上诉委员会程序）条例 2013",
   "en": "Employment of Foreign Manpower (Infringement and Appeal Board Proceedings) Regulations 2013",
   "orig": null
  },
@@ -464,5 +464,13 @@
     "en": "THE SCHEDULE\nRegulations 16(1), 17(3)(b) and 18(c)\nFees\nFirst column\nSecond column\n1.For filing a notice of appeal under regulation 16(1)\n$500\n2.For the supply of a copy of the record of proceedings under regulation 17(3)(b)\n$5 per page\n3.For the hearing of an appeal under regulation 18(c)\n$500."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment of Foreign Manpower (Infringement and Appeal Board Proceedings) Regulations 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

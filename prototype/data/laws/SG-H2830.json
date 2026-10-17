@@ -1,7 +1,7 @@
 {
  "id": "SG-H2830",
  "title": {
-  "zh": null,
+  "zh": "保险法 1966",
   "en": "Insurance Act 1966",
   "orig": null
  },
@@ -2886,5 +2886,13 @@
     "en": "SECOND SCHEDULE\nSections 137(2) and 153(1)\nSpecified provisions\n1.Section 79(3)\n2.Section 138(3).\n[23/2003; 11/2013]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insurance Act 1966",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

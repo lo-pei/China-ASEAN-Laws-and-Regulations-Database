@@ -1,7 +1,7 @@
 {
  "id": "BN-S-11-2003-BRUNEI-ECONOMIC-DEVELOPMENT-BOARD-ACT-AMEND-C3F676",
  "title": {
-  "zh": null,
+  "zh": "文莱经济发展局法修正命令 2003",
   "en": "BRUNEI ECONOMIC DEVELOPMENT BOARD ACT AMENDMENT ORDER 2003",
   "orig": null
  },
@@ -61,5 +61,13 @@
     "en": "The Brunei Economic Development Board Act is amended by inserting the following new section immediately after section ll \"Audit. IIA · ( 1 ) The accounts of the Board shall be audited at least once annually (a ) the Auditor General; or (b ) any person who has been authorised to perform the duties required by the Companies Act (Chapter 39 ) to be performed by an auditor, who shall be appointed annually by the Board, who shall submit a report thereon to His Majesty the SuItan and Yang Di-Pertuan in Council. 《 2 ) Where the accounts of the Board have been audited by a person appointed under paragraph (b ) of subsection (1), the report referred to in that subsection may be verified by the Auditor General before it is submitted pursuant to subsection ( ) to His Majesty the Sultan and Yang Di-Pertuan in CounciI. \" 85\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE Made this 21st. day of Muharam, 1424 Hijriah corresponding to the 24th. day of Marchf 2003 at O ur lstana Nurul lman, Bandar Seri Begawan, Brunei Darussalam.\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM 86"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI ECONOMIC DEVELOPMENT BOARD ACT AMENDMENT ORDER 2003",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,0 +1,956 @@
+{
+ "jobId": "CALR-TITLE-20261017-1818-SG-2467",
+ "shard": 8,
+ "items": [
+  {
+   "id": "SG-H194",
+   "en": "Animals and Birds (Composition of Offences) Rules",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H3019",
+   "en": "Legal Service (Threshold Grade) Notification 2022",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H3098",
+   "en": "Martial Arts Instruction (Exemption) Notification",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H3251",
+   "en": "Moneylenders (Composition of Offences) Rules 2009",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H3468",
+   "en": "Parking Places (Exemption from Part 3) Order 2018",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H827",
+   "en": "Control of Plants (Composition of Offences) Rules",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1052",
+   "en": "Customs (Exemption from Section 136(1)) Order 2019",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1468",
+   "en": "Factories (Work of Engineering Construction) Order",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1918",
+   "en": "Income Tax (Approved Pension Schemes) Notification",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2930",
+   "en": "Jurong Town Corporation (Transfer Date) Order 2018",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H332",
+   "en": "Broadcasting (Composition of Offences) Regulations",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H3515",
+   "en": "Pingat Keberanian (The Medal of Valour) Rules 1996",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H3516",
+   "en": "Pingat Kehormatan (The Medal of Honour) Rules 1996",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H857",
+   "en": "Coroners (Minister’s Certificate) Regulations 2023",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1051",
+   "en": "Customs (Exemption for Biodiesel Blends) Order 2017",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1055",
+   "en": "Customs (Fuel Tank — Prescribed Places) Regulations",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1131",
+   "en": "Denominations and Characteristics of Currency Notes",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1160",
+   "en": "Destitute Persons (Welfare Homes) Notification 2013",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1484",
+   "en": "Fees (Adjudication of Stamp Duty) (Remission) Order",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1641",
+   "en": "Government Hospitals (Fees) (Revocation) Rules 2005",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1769",
+   "en": "Housing and Development (Approving Authority) Rules",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2099",
+   "en": "Income Tax (Exemption of Foreign Income) Order 1999",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2100",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2000",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2101",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2002",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2102",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2003",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2103",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2004",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2104",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2005",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2106",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2007",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2107",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2008",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2108",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2009",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2109",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2010",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2110",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2011",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2111",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2012",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2112",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2013",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2114",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2015",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2116",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2017",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2117",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2018",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2118",
+   "en": "Income Tax (Exemption of Foreign Income) Order 2019",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2312",
+   "en": "Income Tax (Mode of Payment for Refunds) Rules 2021",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2939",
+   "en": "Land Betterment Charge (Deferment) Regulations 2022",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H3517",
+   "en": "Pingat Kepujian (The Commendation Medal) Rules 1996",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H864",
+   "en": "Corporate Service Providers (Exemptions) Order 2025",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2922",
+   "en": "Judicial Service (Threshold Grade) Notification 2022",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2977",
+   "en": "Landing Place for Dangerous Goods (S.p.c. Pte. Ltd.)",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H568",
+   "en": "Charities (Prohibition of Fund-Raising Appeal) Order",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H569",
+   "en": "Charities (Prohibition of Fund-Raising Appeal) Order",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H769",
+   "en": "Companies (Composition of Offences) Regulations 2015",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1031",
+   "en": "Currency Notes and Coins (Consolidation) Notification",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1032",
+   "en": "Currency Notes and Coins (Consolidation) Notification",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1033",
+   "en": "Currency Notes and Coins (Consolidation) Notification",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1034",
+   "en": "Currency Notes and Coins (Consolidation) Notification",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1035",
+   "en": "Currency Notes and Coins (Consolidation) Notification",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1036",
+   "en": "Currency Notes and Coins (Consolidation) Notification",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1037",
+   "en": "Currency Notes and Coins (Consolidation) Notification",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1038",
+   "en": "Currency Notes and Coins (Consolidation) Notification",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1039",
+   "en": "Currency Notes and Coins (Consolidation) Notification",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1040",
+   "en": "Currency Notes and Coins (Consolidation) Notification",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1240",
+   "en": "Employment (Composition of Offences) Regulations 2009",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1861",
+   "en": "Housing Developers (Compoundable Offences) Rules 2025",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1887",
+   "en": "Immigration (Exemption from Section 36(1)) Order 2022",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H3218",
+   "en": "Military Manoeuvres (Firing Ground) Proclamation 2018",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H3484",
+   "en": "Parks and Trees (Marine Parks) (Exemption) Order 2024",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H3508",
+   "en": "Pingat Berkebolehan (The Efficiency Medal) Rules 1996",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H471",
+   "en": "Casino Control (Prescribed Offences) Regulations 2010",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H480",
+   "en": "Casino Control (Variation of Entry Levies) Order 2019",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H481",
+   "en": "Casino Control (Variation of Entry Levies) Order 2024",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H800",
+   "en": "Compulsory Education (Prescribed Reasons) Regulations",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1082",
+   "en": "Darjah Utama Temasek (The Order of Temasek) Rules 1996",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1104",
+   "en": "Denomination and Characteristics of the Currency Notes",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1508",
+   "en": "Fees (Recording of Fingerprint Impressions) Order 2011",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1541",
+   "en": "Finance Companies (Maintenance of Reserves) Order 1999",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2917",
+   "en": "Judges’ Remuneration (Annual Pensionable Salary) Order",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H3099",
+   "en": "Martial Arts Instruction (Exemption) Notification 1997",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1007",
+   "en": "Currency Act — Denomination and Characteristics of Coin",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1008",
+   "en": "Currency Act — Denomination and Characteristics of Coin",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1141",
+   "en": "Deposit Insurance (Composition of Offences) Regulations",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1431",
+   "en": "Exchange Control (Continuance of Act) Notification 2023",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2004",
+   "en": "Income Tax (Exemption from section 19B(10A)) Order 2012",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2005",
+   "en": "Income Tax (Exemption from section 19B(10A)) Order 2015",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2006",
+   "en": "Income Tax (Exemption from Section 19B(10A)) Order 2018",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2007",
+   "en": "Income Tax (Exemption from Section 19B(10A)) Order 2019",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H243",
+   "en": "Approved Finance Companies (Consolidation) Notification",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H3165",
+   "en": "Merchant Shipping (Composition of Offences) Regulations",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1009",
+   "en": "Currency Act — Denomination and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1010",
+   "en": "Currency Act — Denomination and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1011",
+   "en": "Currency Act — Denomination and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1072",
+   "en": "Cybersecurity (Composition of Offences) Regulations 2022",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1367",
+   "en": "Environmental Public Health (Exemption) Regulations 2014",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1391",
+   "en": "Estate Agents (Composition of Offences) Regulations 2010",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H289",
+   "en": "Banking (Exemption from Sections 15A and 15B) Order 2008",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H290",
+   "en": "Banking (Exemption from Sections 15A and 15B) Order 2010",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H3276",
+   "en": "Mutual Assistance in Criminal Matters (India) Order 2005",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H575",
+   "en": "Charities (Suspension of Fund-Raising Appeal) Order 2019",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H837",
+   "en": "Control of Rent (Exemption) (Consolidation) Notification",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H908",
+   "en": "Credit Bureau (Composition of Offences) Regulations 2021",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1005",
+   "en": "Currency Act – Denominations and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1015",
+   "en": "Currency Act — Denominations and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1016",
+   "en": "Currency Act — Denominations and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1017",
+   "en": "Currency Act — Denominations and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1018",
+   "en": "Currency Act — Denominations and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1019",
+   "en": "Currency Act — Denominations and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1020",
+   "en": "Currency Act — Denominations and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1021",
+   "en": "Currency Act — Denominations and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1022",
+   "en": "Currency Act — Denominations and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1023",
+   "en": "Currency Act — Denominations and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1024",
+   "en": "Currency Act — Denominations and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1025",
+   "en": "Currency Act — Denominations and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1026",
+   "en": "Currency Act — Denominations and Characteristics of Coins",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1136",
+   "en": "Dental Registration (Composition of Offences) Regulations",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1417",
+   "en": "Estate Duty (Wang Li Li, Deceased) (Remission) Order 2004",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H260",
+   "en": "Arms and Explosives (Arms) (Revocation) Notification 2025",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H422",
+   "en": "Carbon Pricing (Composition of Offences) Regulations 2018",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H450",
+   "en": "Casino Control (Composition of Offences) Regulations 2010",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H570",
+   "en": "Charities (Prohibition of Fund-raising Appeal) Order 2013",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H571",
+   "en": "Charities (Prohibition of Fund-Raising Appeal) Order 2018",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H573",
+   "en": "Charities (Restriction of Fund-raising Appeal) Order 2013",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H067",
+   "en": "Active Mobility (Composition of Offences) Regulations 2018",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H103",
+   "en": "Active Mobility (Registrable Mobility Vehicles) Order 2026",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1085",
+   "en": "Debt Collection (Composition of Offences) Regulations 2023",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1267",
+   "en": "Employment (Sick Leave — Hospitalisation) Regulations 2019",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1415",
+   "en": "Estate Duty (Tang Yu Kan, Deceased) (Remission) Order 1998",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H605",
+   "en": "Chit Funds (Limits on Chit Fund Business) Regulations 1972",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H746",
+   "en": "Common Gaming Houses (Exemption) (No. 5) Notification 2009",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H797",
+   "en": "Compulsory Education (Composition of Offences) Regulations",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1135",
+   "en": "Denominations and Characteristics of the Coins to Be Issued",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1300",
+   "en": "Energy Conservation (Exemption for New Ventures) Order 2017",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1356",
+   "en": "Environmental Public Health (Composition of Offences) Rules",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1402",
+   "en": "Estate Duty (Chan Kee Hwa, Deceased) (Remission) Order 2006",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1408",
+   "en": "Estate Duty (Koh Peng Yam, Deceased) (Remission) Order 2001",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1412",
+   "en": "Estate Duty (Ong Kim York, Deceased) (Remission) Order 2006",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1418",
+   "en": "Estate Duty (Xu Chue Fern, Deceased) (Remission) Order 2001",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1419",
+   "en": "Estate Duty (Yap Sow Leng, Deceased) (Remission) Order 2001",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1985",
+   "en": "Income Tax (Definition of Designated Unit Trust) Rules 2015",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H1990",
+   "en": "Income Tax (Eligible Courses in Section 14ZG(5)) Rules 2024",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2029",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2000",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2030",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2001",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2031",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2002",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2032",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2005",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2034",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2007",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2035",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2009",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2036",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2010",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2037",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2011",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2039",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2013",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2040",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2014",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2041",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2015",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2042",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2016",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2043",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2017",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2044",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2018",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2045",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 2) Order 2019",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2046",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2000",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2048",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2005",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2049",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2007",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2050",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2009",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2051",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2010",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2052",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2011",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2053",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2012",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2054",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2013",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2055",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2014",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2056",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2015",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2058",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2017",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2059",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 3) Order 2018",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2060",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2005",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2061",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2007",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2062",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2009",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2063",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2011",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2065",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2013",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2066",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2014",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2067",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2015",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2068",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2016",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2069",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2017",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2070",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 4) Order 2018",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2071",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2005",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2072",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2007",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2073",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2010",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2074",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2012",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2075",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2013",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2076",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2014",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2078",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2016",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2079",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2017",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2080",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 5) Order 2018",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2081",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2005",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2082",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2007",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2084",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2014",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2085",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2016",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2086",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2017",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2087",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 6) Order 2018",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2088",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 7) Order 2005",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2090",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 7) Order 2012",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2091",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 7) Order 2013",
+   "hint": "2 条"
+  },
+  {
+   "id": "SG-H2092",
+   "en": "Income Tax (Exemption of Foreign Income) (No. 7) Order 2017",
+   "hint": "2 条"
+  }
+ ]
+}

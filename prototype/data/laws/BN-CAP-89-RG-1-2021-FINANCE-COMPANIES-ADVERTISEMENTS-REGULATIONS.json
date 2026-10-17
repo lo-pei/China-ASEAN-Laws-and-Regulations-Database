@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-89-RG-1-2021-FINANCE-COMPANIES-ADVERTISEMENTS-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "2021年第1号公告（修订版）：金融公司广告条例",
   "en": "RG 1 2021 ED FINANCE COMPANIES ADVERTISEMENTS REGULATIONS",
   "orig": null
  },
@@ -115,5 +115,11 @@
     "en": "No advertiseinent shall contain anything which suggests or is calculated to suggest -\n\n(a) the patronage of His Majesty the Sultan and Yang Di-Pertuan or of the members of His Majesty's family;\n\n(b) any connection with any Government department, statutory body or public building or place;\n\n(c) any attribute to which the finance company cannot genuinely lay proper claim."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "RG 1 2021 ED FINANCE COMPANIES ADVERTISEMENTS REGULATIONS",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2936",
  "title": {
-  "zh": null,
+  "zh": "土地增值费（可复合罪行）条例 2022",
   "en": "Land Betterment Charge (Compoundable Offences) Regulations 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. An offence under section 54(1) of the Act is prescribed as a compoundable offence for the purposes of section 58 of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Land Betterment Charge (Compoundable Offences) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

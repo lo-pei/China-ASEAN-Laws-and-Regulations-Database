@@ -1,7 +1,7 @@
 {
  "id": "PH-H1989",
  "title": {
-  "zh": null,
+  "zh": "规定政府拥有或控制的公司的总经理、总裁、州长或管理者当然担任其董事会、理事会或管理委员会副主席",
   "en": "An Act Providing that the General Manager, President, Governor, or Administrator of a Government-Owned or Controlled Corporation Shall be Ex-Officio the Vice-Chairman of the Board of Directors, Board of Governors, or Board of Administrators Thereof",
   "orig": "An Act Providing that the General Manager, President, Governor, or Administrator of a Government-Owned or Controlled Corporation Shall be Ex-Officio the Vice-Chairman of the Board of Directors, Board of Governors, or Board of Administrators Thereof"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 18, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing that the General Manager, President, Governor, or Administrator of a Government-Owned or Controlled Corporation Shall be Ex-Officio the Vice-Chairman of the Board of Directors, Board of Governors, or Board of Administrators Thereof",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

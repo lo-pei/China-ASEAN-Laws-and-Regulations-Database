@@ -1,7 +1,7 @@
 {
  "id": "PH-H6240",
  "title": {
-  "zh": null,
+  "zh": "将大马尼拉拉斯皮纳斯市镇 Pamplona 描笼涯的 Las Piñas 市镇中学 Verdant 附属校改设为名为 Las Piñas East 国立中学的独立中学并拨款",
   "en": "An Act Converting the Las Piñas Municipal High School - Verdant Annex in Barangay Pamplona, Municipality of Las Piñas, Metro Manila, Into An Independent High School, to Be Known as the Las Piñas East National High School, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Las Piñas Municipal High School - Verdant Annex in Barangay Pamplona, Municipality of Las Piñas, Metro Manila, Into An Independent High School, to Be Known as the Las Piñas East National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Las Piñas Municipal High School - Verdant Annex in Barangay Pamplona, Municipality of Las Piñas, Metro Manila, Into An Independent High School, to Be Known as the Las Piñas East National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

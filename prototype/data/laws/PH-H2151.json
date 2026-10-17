@@ -1,7 +1,7 @@
 {
  "id": "PH-H2151",
  "title": {
-  "zh": null,
+  "zh": "在西内格罗斯省Murcia市镇设立繁育站的法案",
   "en": "An Act to Establish a Breeding Station in the Municipality of Murcia, Province of Negros Occidental",
   "orig": "An Act to Establish a Breeding Station in the Municipality of Murcia, Province of Negros Occidental"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon the date the funds authorized herein to be appropriated shall have been provided for.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish a Breeding Station in the Municipality of Murcia, Province of Negros Occidental",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

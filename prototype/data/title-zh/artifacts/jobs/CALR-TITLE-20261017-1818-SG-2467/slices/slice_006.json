@@ -1,0 +1,956 @@
+{
+ "jobId": "CALR-TITLE-20261017-1818-SG-2467",
+ "shard": 6,
+ "items": [
+  {
+   "id": "SG-H1293",
+   "en": "Endangered Species (Import and Export) (Prohibition of Sale) Notification 2006",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2596",
+   "en": "Industrial Relations (Employees for the Purposes of the Act) Notification 1988",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3177",
+   "en": "Merchant Shipping (Maritime Labour Convention) (Definition of Ship) Order 2014",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3551",
+   "en": "Planning (Housing and Development Board Flats Authorisation) Notification 2017",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H393",
+   "en": "Bus Services Industry (Bus Depot and Bus Interchange Licence) Regulations 2016",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1137",
+   "en": "Dental Registration (Member of Singapore Dental Council — Exemption) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1381",
+   "en": "Environmental Public Health (Registrable Aerosol-generating Systems) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1557",
+   "en": "Financial Holding Companies (Designated Financial Holding Companies) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1801",
+   "en": "Housing and Development (Precincts for Lift Upgrading Works) (No. 2) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1802",
+   "en": "Housing and Development (Precincts for Lift Upgrading Works) (No. 2) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1803",
+   "en": "Housing and Development (Precincts for Lift Upgrading Works) (No. 3) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1804",
+   "en": "Housing and Development (Precincts for Lift Upgrading Works) (No. 4) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1805",
+   "en": "Housing and Development (Precincts for Lift Upgrading Works) (No. 5) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1806",
+   "en": "Housing and Development (Precincts for Lift Upgrading Works) (No. 6) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3307",
+   "en": "National Environment Agency (Assignment of Functions) (No. 2) Notification 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H166",
+   "en": "Air Navigation (Protected Areas — Catchment and Waterways Facilities) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1947",
+   "en": "Income Tax (Computer Gifts — Educational, Research and other Institutions) Rules",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2549",
+   "en": "Income Tax (Trafigura Group Pte Ltd — Section 13(4) Exemption) Notification 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H319",
+   "en": "Boundaries and Survey Maps (Alteration of Boundaries) (Consolidation) Order 1992",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H428",
+   "en": "CareShield Life and Long-Term Care (Disability Assessment Fees) Regulations 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H527",
+   "en": "Central Provident Fund (Platform Earnings — Excluded Payments) Notification 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H618",
+   "en": "Civil Aviation Authority of Singapore (Composition of Offences) Regulations 2009",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H749",
+   "en": "Common Gaming Houses (Singapore Totalisator Board — Exemption) Notification 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1242",
+   "en": "Employment (Extension of December 2001 Revised Wage Guidelines) Notification 2003",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1249",
+   "en": "Employment (Recommendations for Annual Wage Adjustment) (No. 2) Notification 2009",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2276",
+   "en": "Income Tax (IB Offshore Pte. Limited — Section 13(4) Exemption) Notification 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H883",
+   "en": "COVID-19 (Temporary Measures) (Extension of Prescribed Period) (No. 2) Order 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H884",
+   "en": "COVID-19 (Temporary Measures) (Extension of Prescribed Period) (No. 2) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H886",
+   "en": "COVID-19 (Temporary Measures) (Extension of Prescribed Period) (No. 3) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H887",
+   "en": "COVID-19 (Temporary Measures) (Extension of Prescribed Period) (No. 4) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1352",
+   "en": "Environmental Public Health (Ash Scattering Facility — Exemption) Regulations 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1735",
+   "en": "Healthcare Services Act 2020 (Saving and Transitional Provisions) Regulations 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1784",
+   "en": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) Notification 2011",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1785",
+   "en": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) Notification 2012",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1786",
+   "en": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) Notification 2013",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1921",
+   "en": "Income Tax (ARA LOGOS Logistics Trust, etc. — Section 13(12) Exemption) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2573",
+   "en": "Income Tax (Transfer of Undertaking by Bank or Finance Company) (No. 6) Order 2002",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2587",
+   "en": "Income Tax (Trustee of Keppel DC REIT, etc. — Section 13(12) Exemption) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2760",
+   "en": "Inland Revenue Authority of Singapore (Wage Credit Scheme — Fees) Regulations 2014",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3034",
+   "en": "Liquor Control (Supply and Consumption) (Composition of Offences) Regulations 2015",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3176",
+   "en": "Merchant Shipping (Maritime Labour Convention) (Definition of Seafarer) Order 2014",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3244",
+   "en": "Misuse of Drugs (Use of Information in Register and DNA Database) Regulations 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H805",
+   "en": "Constitution of the Republic of Singapore (Delegation of Powers) Notification 2004",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1075",
+   "en": "Cybersecurity (Provider-Owned Critical Information Infrastructure) Regulations 2018",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H174",
+   "en": "Air Navigation (Protected Areas — Republic of Singapore Navy Facilities) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1877",
+   "en": "Human Organ Transplant (Declaration of Hospitals) (Consolidation) Notification 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3074",
+   "en": "Maritime and Port Authority of Singapore (Assignment of Function) Notification 2018",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3482",
+   "en": "Parks and Trees (Designated Management Body — Gardens by the Bay) Notification 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H501",
+   "en": "Central Provident Fund (Declaration of Rates of Interest) (No. 4) Notification 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H093",
+   "en": "Active Mobility (Maintenance of Town Council Common Property — Exemption) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1049",
+   "en": "Customs (Duties) (Exemption for Officials of International Organisations) Order 2005",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1355",
+   "en": "Environmental Public Health (Composition of Offences under Part IV) Regulations 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1982",
+   "en": "Income Tax (Deduction for Resident Individual) (Prescribed Payment) Regulations 2012",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2266",
+   "en": "Income Tax (Grace Ocean Private Limited — Section 13(4) Exemption) Notification 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3023",
+   "en": "Limited Liability Partnerships (Direction under section 19A(1)(d)) Notification 2015",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3110",
+   "en": "Medical and Elderly Care Endowment Schemes (Approved Institutions) Notification 2016",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3394",
+   "en": "Online Safety (Relief and Accountability) (Reports to Commissioner) Regulations 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H844",
+   "en": "Controlled Premises (Special Provisions) (Designated Development Areas) Notification",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H882",
+   "en": "COVID-19 (Temporary Measures) (Cessation of Section 28 for Syariah Court) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2254",
+   "en": "Income Tax (Exemptions from Notification under Sections 10J(5) and 32A(4)) Rules 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3089",
+   "en": "Maritime and Port Authority of Singapore (Port Limits — Suspension) Notification 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H363",
+   "en": "Building Control (Exemption from Accredited Checking Organisation Requirements) Order",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H112",
+   "en": "Active Mobility (Shared Paths — Temporary Discontinuation) (Singapore T100) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1279",
+   "en": "Employment of Foreign Manpower (Job Flexibility Work Pass Exemption) Notification 2013",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3227",
+   "en": "Miscellaneous Offences (Public Order and Nuisance) (Emergency Telephone Numbers) Order",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3566",
+   "en": "Platform Workers (Platform Work Associations — Expenditure of Funds) Notification 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H115",
+   "en": "Active Mobility (Three-Wheeled Pedal Cycles for Public Cleaning — Exemption) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1177",
+   "en": "Diplomatic and Consular Relations (Multilateral Investment Guarantee Agency) Order 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1221",
+   "en": "Education Endowment and Savings Schemes (Grant to Edusave Pupils Fund) Regulations 2011",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H176",
+   "en": "Air Navigation (Protected Areas — Water Supply and Water Reclamation Plants) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1969",
+   "en": "Income Tax (Concessionary Rate of Tax for Shipping Investment Manager) Regulations 2010",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2774",
+   "en": "Insolvency, Restructuring and Dissolution (Exemption from Section 412(1)(d)) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H619",
+   "en": "Civil Aviation Authority of Singapore (Designated Operating Entities) Notification 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H051",
+   "en": "Accounting and Corporate Regulatory Authority (Assignment of Function) Notification 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1201",
+   "en": "Economic Expansion Incentives (Relief from Income Tax) (Qualifying Activity) Regulations",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1346",
+   "en": "Environmental Protection and Management (Senoko Energy Pte. Ltd. — Exemption) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1647",
+   "en": "Government Securities (Debt Market and Investment) (Financial Penalty) Notification 2010",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H173",
+   "en": "Air Navigation (Protected Areas — Republic of Singapore Air Force Facilities) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1889",
+   "en": "Immigration (Exemption from Singapore Visa — IEA Regional Cooperation Centre) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1958",
+   "en": "Income Tax (Concessionary Rate of Tax for Container Investment Manager) Regulations 2010",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1967",
+   "en": "Income Tax (Concessionary Rate of Tax for International Growth Company) Regulations 2017",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2270",
+   "en": "Income Tax (Great Wave Navigation Pte. Ltd. — Section 13(4) Exemption) Notification 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2550",
+   "en": "Income Tax (Trafigura Group Pte. Ltd., etc. — Section 13(4) Exemption) Notification 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3035",
+   "en": "Liquor Control (Supply and Consumption) (Declaration of Liquor Control Zones) Order 2015",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3304",
+   "en": "National Council of Social Service (Saving and Transitional Provisions) Regulations 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1289",
+   "en": "Endangered Species (Import and Export) (Display of Elephant Ivory — Exemption) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1590",
+   "en": "Fire Safety (Fire Safety Engineers) (Code of Professional Conduct and Ethics) Regulations",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3235",
+   "en": "Misuse of Drugs (Authorised Dissemination or Publication of Information) Regulations 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3296",
+   "en": "Nanyang Technological University Students’ Union and Constituent Bodies (Exemption) Order",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3344",
+   "en": "National University of Singapore Students’ Union and Constituent Bodies (Exemption) Order",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H587",
+   "en": "Children and Young Persons (Changi Reformative Training Centre, Moon Crescent) Order 2001",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1777",
+   "en": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) (No. 2) Notification 2014",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1779",
+   "en": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) (No. 3) Notification 2011",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1780",
+   "en": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) (No. 3) Notification 2014",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1781",
+   "en": "Housing and Development (Design-Build-and-Sell Scheme — Vesting) (No. 4) Notification 2011",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2605",
+   "en": "Infectious Diseases (Measures to Prevent Spread of Infectious Diseases) (No. 2) Order 2007",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2912",
+   "en": "Intoxicating Substances (Use of Information in Register and DNA Database) Regulations 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3079",
+   "en": "Maritime and Port Authority of Singapore (Designated Operating Entities) Notification 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H881",
+   "en": "COVID-19 (Temporary Measures) (Cessation of Section 28 for Certain Proceedings) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1361",
+   "en": "Environmental Public Health (Designation of Specified Premises — Shopping Malls) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1623",
+   "en": "Goods and Services Tax (Buildings, Flats and Tenements for Residential Purposes) Order 2010",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H620",
+   "en": "Civil Aviation Authority of Singapore (Exemption from Section 67D(1)(g) and (h)) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1478",
+   "en": "Family Justice Reform Act 2023 (Cessation of Application of Section 45(13)) Regulations 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H409",
+   "en": "Business Trusts (Accounts of Registered Business Trusts) (Substitution of Period) Order 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H591",
+   "en": "Children and Young Persons (Juvenile Rehabilitation Centres and Places of Safety) Order 2012",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H766",
+   "en": "Companies (Approved Company Auditors) (Transitional and Savings Provisions) Regulations 2004",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1287",
+   "en": "Endangered Species (Import and Export) (Artificially Propagated Plant — Exemption) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1350",
+   "en": "Environmental Protection and Management (YTL PowerSeraya Pte. Limited — Exemption) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1495",
+   "en": "Fees (Immigration & Checkpoints Authority — Supply of Copies of Reports and Statements) Order",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1980",
+   "en": "Income Tax (Deduction for Expenditure of Qualifying Individual under Section 14ZD) Rules 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2792",
+   "en": "Insolvency, Restructuring and Dissolution (Prescribed Periods for Parts 5A and 10A) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H099",
+   "en": "Active Mobility (Pedestrian-Only Paths — Temporary Discontinuation) (Singapore T100) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1339",
+   "en": "Environmental Protection and Management (Parallel Import Motor Vehicles — Exemption) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1761",
+   "en": "House to House and Street Collections (Collections for Charities — Exemption) Notification 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1846",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2020",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1847",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1848",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1849",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1850",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1851",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1852",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3041",
+   "en": "Liquor Control (Supply and Consumption) (Supply of Liquor — Specified Circumstances) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3342",
+   "en": "National University of Singapore (Initial Appointments and Other Transitional Provisions) Rules",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H508",
+   "en": "Central Provident Fund (Exemption for Protection of Benefits under Part V Assurance) Order 2007",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H083",
+   "en": "Active Mobility (Footpaths — Temporary Discontinuation) (MetaSprint Series Triathlon) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H423",
+   "en": "Carbon Pricing (Exemption from Section 7(1)(c) — Singapore LNG Corporation Pte. Ltd.) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H751",
+   "en": "Common Services Tunnels (Declaration of Marina Bay Common Services Tunnel Area) Notification 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1721",
+   "en": "Healthcare Services (Exemption for Influenza Vaccination at Approved Retail Pharmacies) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2010",
+   "en": "Income Tax (Exemption of Foreign Income of Approved International Shipping Enterprises) Order 2018",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3092",
+   "en": "Maritime and Port Authority of Singapore (Prohibited Anchorage Area — Suspension) Regulations 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H761",
+   "en": "Community Disputes Resolution (Retention and Disposal of Instruments and Objects) Regulations 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H087",
+   "en": "Active Mobility (Footpaths — Temporary Discontinuation) (Trifactor Triathlon & Duathlon) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H111",
+   "en": "Active Mobility (Shared Paths — Temporary Discontinuation) (MetaSprint Series Triathlon) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1854",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Revitalisation of Shops Scheme) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1855",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Revitalisation of Shops Scheme) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2973",
+   "en": "Land Transport Authority of Singapore (Assignment of Transport Acquirer Function) Notification 2008",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3108",
+   "en": "Medical (Therapy, Education and Research) (Approved Hospitals and Medical Schools) Notification 2010",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2619",
+   "en": "Infrastructure Protection (Automated Inventory Update and Inspection of Trees — Exemption) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H503",
+   "en": "Central Provident Fund (Dependants’ Protection Insurance Scheme — Uninsured Member) Notification 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H113",
+   "en": "Active Mobility (Shared Paths — Temporary Discontinuation) (Trifactor Triathlon & Duathlon) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2624",
+   "en": "Infrastructure Protection (Photography of Protected Areas and Protected Places — Exemption) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1812",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 2) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1813",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 2) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1814",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 2) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1815",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 2) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1816",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 2) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1817",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 2) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1818",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1819",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1820",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1821",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1822",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 3) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1823",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 4) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1824",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 4) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1825",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 4) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1826",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 4) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1827",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 4) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1828",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 5) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1829",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 5) Order 2022",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1830",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 5) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1831",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 5) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1832",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 5) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1833",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 6) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1834",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 6) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1835",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 6) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1836",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 6) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1837",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 7) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1838",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 7) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1839",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 7) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1840",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 7) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1841",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 8) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1842",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 8) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1843",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 9) Order 2019",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1844",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 9) Order 2023",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1845",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 9) Order 2026",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H296",
+   "en": "Banking (Inducement to Use Credit Card or Charge Card for Purchase of Residential Property) Regulations",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2003",
+   "en": "Income Tax (Exemption and Deduction of Voluntary Cash Contribution) (Prescribed Person) Regulations 2013",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2287",
+   "en": "Income Tax (International Tax Compliance Agreements) (Competent Authority Agreements) (No. 2) Order 2017",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3354",
+   "en": "Newspaper and Printing Presses (Exemption) (Reuters, Jiji Press Ltd and Kyodo News Service) Notification",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H457",
+   "en": "Casino Control (Exclusion from Casino, etc. — Social Assistance Programme and Subsidy Scheme) Order 2013",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1457",
+   "en": "Extradition (Hong Kong Special Administrative Region of the People’s Republic of China) Notification 1998",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1981",
+   "en": "Income Tax (Deduction for Qualifying Training Expenditure) (Prescribed Classes of Individuals) Rules 2013",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H1853",
+   "en": "Housing and Development (Precincts for Upgrading Works) (Revitalisation of Shops Scheme) (No. 2) Order 2025",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2775",
+   "en": "Insolvency, Restructuring and Dissolution (Extension of Prescribed Periods for Parts 5A and 10A) Order 2021",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3255",
+   "en": "Motor Vehicles (Third-Party Risks and Compensation) (Exemption of Power-Assisted Bicycles) Notification 2004",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2174",
+   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development) Notification",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2623",
+   "en": "Infrastructure Protection (Photography of Protected Areas and Protected Places — Exemption) (No. 2) Order 2024",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3352",
+   "en": "Newspaper and Printing Presses (Exemption) (Events approved by Singapore Tourist Promotion Board) Notification",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H2264",
+   "en": "Income Tax (Further Deduction for Expenses Incurred in Relocation or Recruitment of Overseas Talent) Regulations",
+   "hint": "3 条"
+  },
+  {
+   "id": "SG-H3392",
+   "en": "Online Safety (Relief and Accountability) (Prescribed Online Service Providers) (Parts 5 and 6) Regulations 2026",
+   "hint": "3 条"
+  }
+ ]
+}

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1205",
  "title": {
-  "zh": null,
+  "zh": "教育（学校）条例 1957",
   "en": "Education (Schools) Regulations 1957",
   "orig": null
  },
@@ -1958,5 +1958,13 @@
     "en": "119.—(1) Any person who wishes to appeal against any order, decision or requirement made by the Director‑General under these Regulations may within 14 days of the date of the order, decision or requirement appeal —\n(a)in the case of orders, decisions or requirements under regulations 110 and 113 to the Minister; and\n(b)in all other cases to the Appeals Board established under the Act.\n(2) Despite the fact that any appeal is pending, a decision or requirement which is the subject of an appeal takes effect on the date stated in the notice issued by the Director‑General, unless the Director‑General otherwise directs in writing."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Education (Schools) Regulations 1957",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

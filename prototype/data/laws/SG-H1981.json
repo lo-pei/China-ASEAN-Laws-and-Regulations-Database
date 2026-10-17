@@ -1,7 +1,7 @@
 {
  "id": "SG-H1981",
  "title": {
-  "zh": null,
+  "zh": "所得税（合资格培训支出的扣除）（规定个人类别）规则 2013",
   "en": "Income Tax (Deduction for Qualifying Training Expenditure) (Prescribed Classes of Individuals) Rules 2013",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRule 2\nClasses of Individuals\n1. Salespersons registered under the Estate Agents Act (Cap. 95A).\n2. Representatives within the meaning of the Financial Advisers Act (Cap. 110) who satisfy the requirements of section 23B(1)(a) or (b) of that Act, or who are exempted under that Act from those requirements.\n3. Representatives within the meaning of the Securities and Futures Act (Cap. 289) who satisfy the requirements of section 99B(1)(a), (b), (c) or (d) of that Act, or who are exempted under that Act from those requirements.\n4. Insurance agents of insurers licensed under the Insurance Act (Cap. 142) who satisfy the requirements of section 35M of that Act.\n5. Hirers of taxis from taxi service operators licensed under the Road Traffic Act (Cap. 276)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Deduction for Qualifying Training Expenditure) (Prescribed Classes of Individuals) Rules 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

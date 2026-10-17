@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-236-2022-BRUNEI-DARUSSALAM-FOOD-AUTHORITY-ACT",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰国食品局法",
   "en": "BRUNEI DARUSSALAM FOOD AUTHORITY ACT",
   "orig": null
  },
@@ -561,5 +561,13 @@
     "en": "The Minister may, with the consent of His Majesty the Sultan and Yang Di-Pertuan, make such regulations as may be necessary or expedient for giving effect to and carrying out the provisions of this Act and for the due administration thereof, including the prescription of fees and of any other thing required to be or which may be prescribed under this Act. (sections 5(3) and 35)\n\nCONSTITUTION AND PROCEEDINGS OF BOARD Tenure of office of members"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI DARUSSALAM FOOD AUTHORITY ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

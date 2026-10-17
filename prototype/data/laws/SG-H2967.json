@@ -1,7 +1,7 @@
 {
  "id": "SG-H2967",
  "title": {
-  "zh": null,
+  "zh": "陆路交通及相关事项法 2026（生效）（第 3 号）公告 2026",
   "en": "Land Transport and Related Matters Act 2026 (Commencement) (No. 3) Notification 2026",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Land Transport and Related Matters Act 2026\nLand Transport and Related Matters Act 2026\n(Commencement) (No. 3) Notification 2026\nIn exercise of the powers conferred by section 1 of the Land Transport and Related Matters Act 2026, the Acting Minister for Transport makes the following Notification:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Land Transport and Related Matters Act 2026 (Commencement) (No. 3) Notification 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

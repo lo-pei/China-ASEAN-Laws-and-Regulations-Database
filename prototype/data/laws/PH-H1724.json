@@ -1,7 +1,7 @@
 {
  "id": "PH-H1724",
  "title": {
-  "zh": null,
+  "zh": "使甲米地省财政员兼任地区工程师、并让该省审计员与地区卫生官担任Trece Martires市议会当然成员，为此修订该市宪章第5条的法案",
   "en": "An Act Making the Provincial Treasurer the District Engineer, the Provincial Auditor and the District Health Officer of the Province of Cavite Ex Officio Members of the City Council of the City of Trece Martires, Amending for the Purpose Section Five of the Charter of Said City",
   "orig": "An Act Making the Provincial Treasurer the District Engineer, the Provincial Auditor and the District Health Officer of the Province of Cavite Ex Officio Members of the City Council of the City of Trece Martires, Amending for the Purpose Section Five of the Charter of Said City"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making the Provincial Treasurer the District Engineer, the Provincial Auditor and the District Health Officer of the Province of Cavite Ex Officio Members of the City Council of the City of Trece Martires, Amending for the Purpose Section Five of the Charter of Said City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

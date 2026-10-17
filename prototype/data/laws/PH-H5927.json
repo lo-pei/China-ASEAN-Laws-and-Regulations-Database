@@ -1,7 +1,7 @@
 {
  "id": "PH-H5927",
  "title": {
-  "zh": null,
+  "zh": "将卡加延省Gonzaga市镇Alfonso Ponce Enrile纪念区医院床位由25张增至50张并为此拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Alfonso Ponce Enrile Memorial District Hospital in the Municipality of Gonzaga, Province of Cagayan, From Twenty-five (25) To Fifty (50) Beds, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Alfonso Ponce Enrile Memorial District Hospital in the Municipality of Gonzaga, Province of Cagayan, From Twenty-five (25) To Fifty (50) Beds, and Appropriating Funds Therefor"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Alfonso Ponce Enrile Memorial District Hospital in the Municipality of Gonzaga, Province of Cagayan, From Twenty-five (25) To Fifty (50) Beds, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

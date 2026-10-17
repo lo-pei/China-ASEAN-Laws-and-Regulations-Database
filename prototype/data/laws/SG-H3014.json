@@ -1,7 +1,7 @@
 {
  "id": "SG-H3014",
  "title": {
-  "zh": null,
+  "zh": "法律职业（未认领款项基金）规则 2019",
   "en": "Legal Profession (Unclaimed Money Fund) Rules 2019",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "12.—(1) The Society must provide and cause to be published on the Society’s website any forms it thinks fit for the purposes of these Rules.\n(2) All forms used for the purposes of these Rules must be completed in the English language and in accordance with the directions specified in the form or by the Society.\n(3) Where strict compliance with any form is not possible, the Society may allow for the necessary modifications to be made to that form, or for the requirements of that form to be complied with in any other manner the Society thinks fit."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Profession (Unclaimed Money Fund) Rules 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

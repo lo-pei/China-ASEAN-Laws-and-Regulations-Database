@@ -1,7 +1,7 @@
 {
  "id": "SG-H3341",
  "title": {
-  "zh": null,
+  "zh": "新加坡国立大学（法人化）法 2005",
   "en": "National University of Singapore (Corporatisation) Act 2005",
   "orig": null
  },
@@ -378,5 +378,13 @@
     "en": "SECOND SCHEDULE\nSection 20\nProvisions applicable to Register of Guild of Graduates\n1. The university company must maintain a Register of Graduates which consists of —\n(a)the names of all persons who immediately before 8 August 1980 were members of the Guild of Graduates of the University of Singapore and of all persons on whom degrees of the University of Singapore had been conferred;\n(b)the names of all persons who immediately before 1 April 2006 were members of the Guild of Graduates of the predecessor university and of all persons on whom degrees of the predecessor university had been conferred; and\n(c)the names of all graduates of the University.\n2. The Register of Graduates may be in the form determined by the Board but must be divided into 3 Parts, as follows:\n(a)Part A contains the names of all persons specified in paragraph 1(a);\n(b)Part B contains the names of all persons specified in paragraph 1(b);\n(c)Part C contains the names of all graduates of the University.\n3. Any person whose name is on the Register of Graduates may receive such documents or other papers of the University as determined by the Board from time to time.\n4. In this Schedule, “University” means the university known as the National University of Singapore operated, maintained and promoted by the university company."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "National University of Singapore (Corporatisation) Act 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3389",
  "title": {
-  "zh": null,
+  "zh": "网络安全（救济与问责）（出庭通知）条例 2026",
   "en": "Online Safety (Relief and Accountability) (Notice to Attend Court) Regulations 2026",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. A notice served on a person to attend court under section 68 of the Act must be in the form set out at the official website of the Commissioner at https://www.osc.gov.sg/NTAC."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Online Safety (Relief and Accountability) (Notice to Attend Court) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

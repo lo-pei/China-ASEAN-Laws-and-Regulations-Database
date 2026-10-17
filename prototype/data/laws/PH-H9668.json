@@ -1,7 +1,7 @@
 {
  "id": "PH-H9668",
  "title": {
-  "zh": null,
+  "zh": "为全体菲律宾人建立全民医疗保健，规定医疗保健系统改革并为此拨款的法案",
   "en": "An Act Instituting Universal Health Care for All Filipinos, Prescribing Reforms in the Health Care System, and Appropriating Funds Therefor",
   "orig": "An Act Instituting Universal Health Care for All Filipinos, Prescribing Reforms in the Health Care System, and Appropriating Funds Therefor"
  },
@@ -613,5 +613,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Instituting Universal Health Care for All Filipinos, Prescribing Reforms in the Health Care System, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

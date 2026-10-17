@@ -1,7 +1,7 @@
 {
  "id": "PH-H9268",
  "title": {
-  "zh": null,
+  "zh": "将依第 7163 号共和国法（经第 8162 号共和国法修正）授予 Progressive 广播公司的特许经营权再续展二十五年的法案",
   "en": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Progressive Broadcasting Corporation Under Republic Act No. 7163, as Amended By Republic Act No. 8162",
   "orig": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Progressive Broadcasting Corporation Under Republic Act No. 7163, as Amended By Republic Act No. 8162"
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renewing for Another Twenty-Five (25) Years the Franchise Granted to Progressive Broadcasting Corporation Under Republic Act No. 7163, as Amended By Republic Act No. 8162",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

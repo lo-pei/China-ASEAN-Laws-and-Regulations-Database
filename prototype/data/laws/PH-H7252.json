@@ -1,7 +1,7 @@
 {
  "id": "PH-H7252",
  "title": {
-  "zh": null,
+  "zh": "将基里诺省 Cabarroguis 市镇基里诺综合中学－Burgos 附属校从该校分离并改设为名为 Burgos 国立中学的独立国立中学，并拨款",
   "en": "An Act Separating the Quirino General High School - Burgos Annex from the Quirino General High School in the Municipality of Cabarroguis, Province of Quirino and Converting the same into an Independent National High School to be known as the Burgos National High School and appropriating funds therefor",
   "orig": "An Act Separating the Quirino General High School - Burgos Annex from the Quirino General High School in the Municipality of Cabarroguis, Province of Quirino and Converting the same into an Independent National High School to be known as the Burgos National High School and appropriating funds therefor"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Quirino General High School - Burgos Annex from the Quirino General High School in the Municipality of Cabarroguis, Province of Quirino and Converting the same into an Independent National High School to be known as the Burgos National High School and appropriating funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

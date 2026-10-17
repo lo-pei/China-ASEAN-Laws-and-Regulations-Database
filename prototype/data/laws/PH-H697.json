@@ -1,7 +1,7 @@
 {
  "id": "PH-H697",
  "title": {
-  "zh": null,
+  "zh": "授权在特定条件下免罚支付1941年12月8日或之前已完成并核定的地籍程序未付费用与开支的法案",
   "en": "An Act Authorizing the Payment of the Unpaid Cost and Expenses of Cadastral Proceedings Completed and Assessed on or Before December Eight, Nineteen Hundred and Forty-one, Without Penalty Under Certain Conditions",
   "orig": "An Act Authorizing the Payment of the Unpaid Cost and Expenses of Cadastral Proceedings Completed and Assessed on or Before December Eight, Nineteen Hundred and Forty-one, Without Penalty Under Certain Conditions"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, May 28, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Payment of the Unpaid Cost and Expenses of Cadastral Proceedings Completed and Assessed on or Before December Eight, Nineteen Hundred and Forty-one, Without Penalty Under Certain Conditions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2535",
  "title": {
-  "zh": null,
+  "zh": "所得税（信托替代异议期）规则 2023",
   "en": "Income Tax (Substituted Objection Period for Trusts) Rules 2023",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) The period in section 76(3)(b) of the Act within which a trustee of a trust may make an application objecting to a notice of assessment of tax on any income of the trust that is dated on or after 22 March 2023, is substituted with the period of 2 months from the date of the service of the notice of assessment.\n(2) Paragraph (1) does not apply to the trustee of a testamentary trust or a trust that arises on the death of an intestate."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Substituted Objection Period for Trusts) Rules 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

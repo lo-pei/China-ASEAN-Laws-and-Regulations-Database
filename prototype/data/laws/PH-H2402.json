@@ -1,7 +1,7 @@
 {
  "id": "PH-H2402",
  "title": {
-  "zh": null,
+  "zh": "使化肥能以合理价格供应鱼塘业主或经营者，并为此修订第1609号共和国法第1条的法案",
   "en": "An Act Making Fertilizers Available to Fishpond Owners or Operators at Reasonable Prices, Amending for the Purpose Section One of Republic Act Numbered Sixteen Hundred and Nine",
   "orig": "An Act Making Fertilizers Available to Fishpond Owners or Operators at Reasonable Prices, Amending for the Purpose Section One of Republic Act Numbered Sixteen Hundred and Nine"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making Fertilizers Available to Fishpond Owners or Operators at Reasonable Prices, Amending for the Purpose Section One of Republic Act Numbered Sixteen Hundred and Nine",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

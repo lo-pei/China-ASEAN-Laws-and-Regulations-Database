@@ -1,7 +1,7 @@
 {
  "id": "PH-H9009",
  "title": {
-  "zh": null,
+  "zh": "促进并加强菲律宾设计，为此规定国家设计政策并将菲律宾产品开发与设计中心更名为菲律宾设计中心并为其他目的法案",
   "en": "An Act Promoting and Strengthening Filipino Design, Providing for the Purpose a National Design Policy and Renaming the Product Development and Design Center of the Philippines intothe Design Center of the Philippines and for Other Purposes <li>ra2013/irr_10557_2013.html",
   "orig": "An Act Promoting and Strengthening Filipino Design, Providing for the Purpose a National Design Policy and Renaming the Product Development and Design Center of the Philippines intothe Design Center of the Philippines and for Other Purposes <li>ra2013/irr_10557_2013.html"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) national newspapers of general circulation in the country."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Promoting and Strengthening Filipino Design, Providing for the Purpose a National Design Policy and Renaming the Product Development and Design Center of the Philippines intothe Design Center of the Philippines and for Other Purposes <li>ra2013/irr_10557_2013.html",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

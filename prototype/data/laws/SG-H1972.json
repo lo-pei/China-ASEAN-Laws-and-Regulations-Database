@@ -1,7 +1,7 @@
 {
  "id": "SG-H1972",
  "title": {
-  "zh": null,
+  "zh": "所得税（债务证券所得收入的优惠税率或豁免）条例",
   "en": "Income Tax (Concessionary Rate of Tax or Exemption for Income Derived from Debt Securities) Regulations",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7.—(1) The concessionary rate of tax referred to in regulation 3(aa) shall not apply to any interest derived by a company from any qualifying debt securities issued during the period from 26 April 1999 to 31 December 2028 (both dates inclusive), where the issuer of such securities, or such other person as the Authority may direct, has not furnished to the Authority in respect of the issue of the debt securities —\n(a)a return on those securities within such period as the Authority may specify; and\n[S 239/2016 wef 28/06/2013]\n(b)such other particulars in connection with those securities as the Authority may require.\n[S 239/2016 wef 01/01/2014]\n[S 239/2016 wef 28/06/2013]\n[S 267/2009 wef 01/01/2009]\n[S 868/2018 wef 27/12/2018]\n[S 195/2026 wef 01/01/2024]\n(1A) The concessionary rate of tax referred to in regulation 3(ab) shall not apply to the discount derived by a company from any qualifying debt securities issued during the period from 17 February 2006 to 31 December 2028 (both dates inclusive), where the issuer of such securities, or such other person as the Authority may direct, has not furnished to the Authority in respect of the issue of the debt securities —\n(a)a return on those securities within such period as the Authority may specify; and\n[S 239/2016 wef 28/06/2013]\n(b)such other particulars in connection with those securities as the Authority may require.\n[S 239/2016 wef 01/01/2014]\n[S 239/2016 wef 28/06/2013]\n[S 267/2009 wef 01/01/2009]\n[S 349/2005 wef 27/02/2004]\n[S 868/2018 wef 27/12/2018]\n[S 195/2026 wef 01/01/2024]\n(1B) The concessionary rate of tax referred to in regulation 3(ac) shall not apply to any amount payable to a company from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1 January 2005 to 31 December 2028 (both dates inclusive), where the issuer of such securities, or such other person as the Authority may direct, has not furnished to the Authority in respect of the issue of the debt securities —\n(a)a return on those securities within such period as the Authority may specify; and\n[S 239/2016 wef 28/06/2013]\n(b)such other particulars in connection with those securities as the Authority may require.\n[S 239/2016 wef 01/01/2014]\n[S 239/2016 wef 28/06/2013]\n[S 267/2009 wef 01/01/2009]\n[S 51/2006 wef 01/01/2005]\n[S 868/2018 wef 27/12/2018]\n[S 195/2026 wef 01/01/2024]\n(1C) The concessionary rate of tax referred to in regulation 3(ad) shall not apply to any early redemption fee or redemption premium derived by a company from any qualifying debt securities issued during the period from 15 February 2007 to 31 December 2028 (both dates inclusive), where the issuer of such securities, or such other person as the Authority may direct, has not furnished to the Authority in respect of the issue of the debt securities —\n(a)a return on those securities within such period as the Authority may specify; and\n[S 239/2016 wef 28/06/2013]\n(b)such other particulars in connection with those securities as the Authority may require.\n[S 239/2016 wef 01/01/2014]\n[S 239/2016 wef 28/06/2013]\n[S 267/2009 wef 01/01/2009]\n[S 398/2008 wef 15/02/2007]\n[S 868/2018 wef 27/12/2018]\n[S 195/2026 wef 15/02/2023]\n[S 195/2026 wef 01/01/2024]\n(2) The tax exemption referred to in regulation 4(aa) shall not apply to any income derived by a financial institution from arranging, underwriting and distributing any qualifying debt securities during the period from 26th April 1999 to 31st December 2003, where the issuer of such securities, or such other person as the Comptroller may direct, has not furnished to the Comptroller in respect of the issue of the debt securities —\n(a)a return on those securities within such period as the Comptroller may specify; and\n(b)such other particulars in connection with those securities as the Comptroller may require.\n[S 349/2005 wef 03/12/2003]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Concessionary Rate of Tax or Exemption for Income Derived from Debt Securities) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

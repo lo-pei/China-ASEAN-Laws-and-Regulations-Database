@@ -1,7 +1,7 @@
 {
  "id": "BN-S-9-2011-WHOLESOME-MEAT-IMPORT-EXPORT-AND-TRANSHIPMEN-55BA10",
  "title": {
-  "zh": null,
+  "zh": "卫生肉类进口、出口与转运条例 2011",
   "en": "WHOLESOME MEAT IMPORT EXPORT AND TRANSHIPMENT REGULATIONS 2011",
   "orig": null
  },
@@ -133,5 +133,13 @@
     "en": "All offences under these Regulations may be compounded in accordance with section 36. Made this 28th. day of Safar, 1432 Hijriah corresponding to the 2nd. day of February, 2011.\n\nPERIN ORANG KAYA SERI UTAMA DATO SERI SETIA\n\nA WANG HAJI YAHYA BIN BEGAWAN MUDIM\n\nDATO PADUKA HAJI BAKAR Minister of Industry and Primary Resources, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "WHOLESOME MEAT IMPORT EXPORT AND TRANSHIPMENT REGULATIONS 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

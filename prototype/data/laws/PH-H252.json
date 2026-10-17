@@ -1,7 +1,7 @@
 {
  "id": "PH-H252",
  "title": {
-  "zh": null,
+  "zh": "修订第168号联邦法（即“民用航空法”）第7条第（d）款，并在特定条件下向任何国家国民颁发飞行员执照的法案",
   "en": "An Act to Amend Subsection (d), Section Seven of Commonwealth Act Numbered One Hundred and Sixty-Eight, Known as the “Civil Aviation Law,” and to Grant Licenses for Airmen to Nationals of Any Country Under Certain Conditions",
   "orig": "An Act to Amend Subsection (d), Section Seven of Commonwealth Act Numbered One Hundred and Sixty-Eight, Known as the “Civil Aviation Law,” and to Grant Licenses for Airmen to Nationals of Any Country Under Certain Conditions"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Subsection (d), Section Seven of Commonwealth Act Numbered One Hundred and Sixty-Eight, Known as the “Civil Aviation Law,” and to Grant Licenses for Airmen to Nationals of Any Country Under Certain Conditions",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

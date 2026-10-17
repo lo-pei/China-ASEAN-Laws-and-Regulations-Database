@@ -1,7 +1,7 @@
 {
  "id": "PH-H4325",
  "title": {
-  "zh": null,
+  "zh": "设立林产品研究与产业发展委员会法案",
   "en": "An Act Establishing the Forest Products Research and Industries Development Commission",
   "orig": "An Act Establishing the Forest Products Research and Industries Development Commission"
  },
@@ -350,5 +350,13 @@
     "en": "Effectivity .—This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the Forest Products Research and Industries Development Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

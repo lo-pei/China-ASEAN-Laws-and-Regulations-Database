@@ -1,7 +1,7 @@
 {
  "id": "SG-H972",
  "title": {
-  "zh": null,
+  "zh": "货币（硬币面额与特征）（第 3 号）公告 2011",
   "en": "Currency (Denominations and Characteristics of Coins) (No. 3) Notification 2011",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE 2011 NATIVE ORCHIDS OF SINGAPORE COINS TO BE ISSUED ON 12TH NOVEMBER 2011\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n5 Dollars\n999 Fine Silver\n31.10g ± 0.20g\n40.70mm ± 0.20mm\n3.05mm ± 0.30mm\nRound\nMilled\nThe Singapore Arms in the centre with the year-date \"2011\" below it and the word \"SINGAPORE\" in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o'clock of the coin.\nThe coin design features the orchid “Grammatophyllum speciosum” in full colour at the centre with its name along the upper circumference. The denomination is at the left of the coin, while the weight and fineness of the coin are around the lower left circumference.\n5 Dollars\n999 Fine Silver\n31.10g ± 0.20g\n40.70mm ± 0.20mm\n3.05mm ± 0.30mm\nRound\nMilled\nThe coin design features the orchid “Cymbidium finlaysonianum” in full colour at the centre with its name along the upper circumference. The denomination is at the left of the coin. The weight and fineness of the coin are around the lower left circumference.\n(a)\n(b)\n(c)\n(a)Reverse Design of the $5 Silver Proof Coin (Grammatophyllum speciosum).\n(b)Reverse Design of the $5 Silver Proof Coin (Cymbidium finlaysonianum).\n(c)Common Obverse Design of the $5 Silver Proof Coins (Grammatophyllum speciosum and Cymbidium finlaysonianum)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency (Denominations and Characteristics of Coins) (No. 3) Notification 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

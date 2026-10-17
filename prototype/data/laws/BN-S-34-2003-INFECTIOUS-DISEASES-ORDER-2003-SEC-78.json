@@ -1,7 +1,7 @@
 {
  "id": "BN-S-34-2003-INFECTIOUS-DISEASES-ORDER-2003-SEC-78",
  "title": {
-  "zh": null,
+  "zh": "传染病命令 2003 第 78 条",
   "en": "INFECTIOUS DISEASES ORDER 2003 SEC. 78",
   "orig": null
  },
@@ -1072,5 +1072,13 @@
     "en": "Subject to section 77, the Quarantine and Prevention of Disease Act 47) is hereby repealed. I\n\nSCHEDULE 2)\n\nDISEASES 11) Immune Deficiency Syndrome (AIDS). 12) Anthrax.\n\n(3) Bovine Spangioform Encephalitis (BSE). 14) Chickenpox. 15) Chlamydia! Infection. 16) Cholera. '\n\n(7) Conjunctivitis.\n\n(8) Dengue.\n\n(9) Dengue Haemorrhagic Fever. 110) Diphtheria.\n\n(11) Dysentry. 112) Ebola Fever. 113) Encephalitis. 114) Filiarisis. 115) Food Poisoning. 116) Gastroenteritis.\n\n(17) Hand, foot and mouth disease. 118) Human Immunodeficiency Virus Infection (Non-acquired Immune Deficiency Syndrome). 119) Hepatitis A, B, C and others. 120) Legionellosis. 121) Leprosy.\n\n(22) Leptospirosis.\n\n(23) Malaria. (24} Measles.\n\n(25) Meningitis.\n\n(26) Mumps.\n\n(27) Nipah virus infection. .,\n\n(28) Ophthalmia Neonatorum.\n\n(29) Para/Typhoid.\n\n(30) Pertussis.\n\n(31) Plague.\n\n(32) Poliomyelitis.\n\n(33) Puerperal Infection.\n\n(34) Rabies.\n\n(35) Rubella.\n\n(36) Salmonella Infection.\n\n(37) Scarlet Fever. -·\n\n(38) Severe Acute Respiratory Syndrome (SARS).\n\n(39) Sexually 'fransmitted Infection (STI} - {a} Chancroid. {b) Genital Herpes. {c) Gonorrhea. {d) Non-gonococcal urethritis. {e) Syphilis.\n\n(40) Smallpox. I {41) Tetanus.\n\n(42) Tetanus Neonartum. {43) Tuberculosis. {44) 'l.Yphus.\n\n(45) Viral Encephalitis. {46) Viral Hepatitis.\n\n(47) West Nile Fever.\n\n(48) Yellow Fever. SCHEDULE !' 2)\n\nINFECTIOUS DISEASES ( 1) Cholera.\n\n(2) Ebola Fever. {3) Plague. {4) Severe Acute Respiratory Syndrome {SARS).\n\n(5) Smallpox. {6) Yellow Fever.\n\nSCHEDULE 32)\n\nOF PERSONS LEAVING OR ARRIVING\n\nIN BRUNEI DARUSSALAM Yellow Fever-Vaccination against yellow fever is required from any person who is going to or coming from or has passed through any country or territory which is wholly or partly endemic for yellow fever.\n\nSCHEDULE 4 7)\n\nAGAINST WHICH A CHILD IS TO BE VACCINATED il) Diphtheria.\n\n(2) Haemophilus Influenza B.\n\n(3) Hepatitis B.\n\n(4) Measles.\n\n(5) Mumps.\n\n(6) Pertussis.\n\n(7) Poliomyelitis.\n\n(8) Rubella.\n\n(9) Tetanus.\n\n(10) Thberculosis.\n\nSCHEDULE 22(1), (2) and (3))\n\nIN RESPECT OF WHICH ACTS\n\nTO IN SECTION 22 ARE PROHIBITED Severe Acute Respiratory Syndrome (SARS).\n\nSCHEDULE 61)\n\nIN RESPECT OF WHICH INFORMATION MAY BE DISCLOSED BY\n\nTHE DIRECTOR-GENERAL TO A PERSON TO ENABLE HIM TO TAKE STEPS TO\n\nSPREAD OF THE SAME Severe Acute Respiratory Syndrome (SARS). Made this 6th. day of Rabiulawal 1424 Hijriah corresponding to the 8th. day of May, 2003 at Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam. 1\n\nHIS MAJESTY\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nDARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "INFECTIOUS DISEASES ORDER 2003 SEC. 78",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

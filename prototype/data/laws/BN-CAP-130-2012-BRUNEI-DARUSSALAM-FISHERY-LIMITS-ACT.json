@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-130-2012-BRUNEI-DARUSSALAM-FISHERY-LIMITS-ACT",
  "title": {
-  "zh": null,
+  "zh": "文莱达鲁萨兰国渔业界限法",
   "en": "BRUNEI DARUSSALAM FISHERY LIMITS ACT",
   "orig": null
  },
@@ -62,5 +62,13 @@
     "en": "Brunei Darussalam fishery limits. _____________________________\n\nBRUNEI DARUSSALAM FISHERY LIMITS ACT An Act to declare Brunei Darussalam fishery limits Commencement: 1st January 1983"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI DARUSSALAM FISHERY LIMITS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

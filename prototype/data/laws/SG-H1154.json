@@ -1,7 +1,7 @@
 {
  "id": "SG-H1154",
  "title": {
-  "zh": null,
+  "zh": "存款保险与保单持有人保障计划（为支持处置措施从存款保险基金提取款项）条例 2022",
   "en": "Deposit Insurance and Policy Owners’ Protection Schemes (Withdrawal from DI Fund in Support of Resolution Measures) Regulations 2022",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. An independent valuer must submit a valuation report to the Authority specifying the following information:\n(a)the independent valuer’s assessment of the amounts that the Agency would have been repaid from or out of the assets of the DI Scheme member under section 27 of the Act;\n(b)an explanation of the key methodologies and assumptions adopted by the independent valuer in making the assessment in paragraph (a), the reasons for their adoption, and the sensitivity of the assessment to these methodologies and assumptions;\n(c)any source of uncertainty in the valuation that is inherent in the independent valuer’s assessment."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Deposit Insurance and Policy Owners’ Protection Schemes (Withdrawal from DI Fund in Support of Resolution Measures) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

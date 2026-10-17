@@ -1,7 +1,7 @@
 {
  "id": "BN-S-26-2005-M-SEC-238-OF-PERINTAH-ACARA-MAL-MAHKAMAH-MA-9B0C6C",
  "title": {
-  "zh": null,
+  "zh": "伊斯兰法庭民事诉讼程序命令 2005 第 238 条",
   "en": "M SEC 238 OF PERINTAH ACARA MAL MAHKAMAH MAHKAMAH SYARIAH 2005",
   "orig": null
  },
@@ -2467,5 +2467,13 @@
     "en": "Bab 80 hingga bab 96 dari Bahagian III Akta Majlis Ugama Islam dan Mahkamah-Mahkamah Kadi, (Penggal 77) adalah dengan ini dimansuhkan. JADUAL PERTAMA (bab 213)) Baitulmal JW\\~ Da'in L}l\\J Hadhanah tl~ Hakim Syar'ie ~~rSb Hukum Syara' t~~ Lafaz ..l;il Madin Mastautin Mazhab Mukim Qamariah Sulh Wakalah Yamin Yamin Mardudah Yamin Istizhar ..)~~ 1 • '~-: ·\\ • JADUAL KEDUA (bab-bab 2(1) dan 223)\n\nBORANG-BORANG\n\nBORANGMS 1\n\nPERINTAH ACARA MAL MAHKAMAH-MAHKAMAH SYARIAH, 2005 TAJUKAM bab 7 DALAM MAHKAMAH RENDAH I TINGGI SYARIAH DI .................................. . DALAM NEGARA BRUNEI DARUSSALAM.\n\n(1) ................................... No ............................. Tahun 14 ........ H /20 ........ M.\n\nANTARA\n\n(2) .. . . . .. . . . . . .. . . .. .. .. .. .. . . .. . . . . . .. . . . .. . .. . .. . . .. . . . . . . . . . . . . . . . .. . . . .. . . . .. . . . . . . . . . . . . . . . . . . . . . Plaintif Pemohon DAN\n\n(3) .................................................................................................... Defendan Responden Nota-"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "M SEC 238 OF PERINTAH ACARA MAL MAHKAMAH MAHKAMAH SYARIAH 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

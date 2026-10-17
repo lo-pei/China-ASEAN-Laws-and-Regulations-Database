@@ -1,7 +1,7 @@
 {
  "id": "SG-H3212",
  "title": {
-  "zh": null,
+  "zh": "商船（残骸清除）（强制保险）条例 2017",
   "en": "Merchant Shipping (Wreck Removal) (Compulsory Insurance) Regulations 2017",
   "orig": null
  },
@@ -124,5 +124,13 @@
     "en": "THE SCHEDULE\nRegulations 5 and 6\nFees\nFirst column\nSecond column\n1.For the issue of a certificate\n$60.\n2.For the replacement of a certificate\n$32.70 (inclusive of GST).\n3.[Deleted by S 353/2022 wef 05/05/2022]\n4.For a certified copy of a certificate\n$15.26 (inclusive of GST).\n[S 867/2023 wef 01/01/2024]\n[S 1015/2022 wef 01/01/2023]\n[S 353/2022 wef 05/05/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Merchant Shipping (Wreck Removal) (Compulsory Insurance) Regulations 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

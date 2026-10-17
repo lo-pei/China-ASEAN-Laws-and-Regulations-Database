@@ -1,7 +1,7 @@
 {
  "id": "SG-H048",
  "title": {
-  "zh": null,
+  "zh": "会计师（公共会计师）规则",
   "en": "Accountants (Public Accountants) Rules",
   "orig": null
  },
@@ -388,5 +388,13 @@
     "en": "FIFTH SCHEDULE\nRule 4(2)\nCap for fees for conduct of practice review\nunder practice monitoring programme\nFirst column\nSecond column\nCategories\nCap\n1.Where the practice review is the first practice review that the specified public accountant has undergone under a practice monitoring programme\n$6,000\n2.Where the practice review is the first practice review being conducted of a specified public accountant on or after 1 July 2023, and the public accountant —\n(a)passed the practice review immediately before the practice review being conducted;\n$6,000\n(b)failed to pass the practice review immediately before the practice review being conducted;\n$12,000\n(c)failed to pass 2 consecutive practice reviews immediately before the practice review being conducted; or\n$12,000\n(d)failed to pass 3 consecutive practice reviews immediately before the practice review being conducted\n$18,000\n3.Where the practice review is the second or subsequent practice review being conducted of a specified public accountant on or after 1 July 2023, and in the practice review immediately before the practice review being conducted —\n(a)the public accountant’s compliance with the professional standards was satisfactory under the Oversight Committee’s professional assessment framework;\n$6,000\n(b)the public accountant’s compliance with any professional standards was partially satisfactory under the Oversight Committee’s professional assessment framework; or\n$10,000\n(c)the public accountant’s compliance with any professional standards was not satisfactory under the Oversight Committee’s professional assessment framework.\n$15,000\nNote:\nIn this Schedule, “specified public accountant” has the meaning given by rule 4(3).\n[S 329/2023 wef 01/07/2023]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Accountants (Public Accountants) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

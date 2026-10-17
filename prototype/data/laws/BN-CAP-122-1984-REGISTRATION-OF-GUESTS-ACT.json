@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-122-1984-REGISTRATION-OF-GUESTS-ACT",
  "title": {
-  "zh": null,
+  "zh": "旅客登记法",
   "en": "REGISTRATION OF GUESTS ACT",
   "orig": null
  },
@@ -82,5 +82,13 @@
     "en": "His Majesty the Sultan and Yang Di-Pertuan in Council may make rules for carrying into effect the proviof this Act and, in particular and without prejudice to the generality of the foregoing, such rules may(a) provide for anything which may be preunder this Act, and\n\n(b) amend the Schedule. ·' = > ~ 17J -~ ~ t\"j t\"'4 0 \"!!!j ~ ~ ~ ~ ~ ~ ~ 00 ('\"') > \"\"\"' t;;· ..... ~ ..... C)• ~ CJ :-: ~ ) Occupation or -· ) Origin of l Age By l Sex Time I\n\n(a)) of Issue Date OF Date Issue Room No. of FORM of Card/Pass-port No. Stay of (In block letters) Full Address of Habitual ) From By TUne I ) Date"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "REGISTRATION OF GUESTS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

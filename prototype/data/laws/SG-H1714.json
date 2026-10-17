@@ -1,7 +1,7 @@
 {
  "id": "SG-H1714",
  "title": {
-  "zh": null,
+  "zh": "医疗服务（协作处方服务）条例 2023",
   "en": "Healthcare Services (Collaborative Prescribing Service) Regulations 2023",
   "orig": null
  },
@@ -155,5 +155,13 @@
     "en": "9.—(1) A licensee must give written notice to the Director‑General of the occurrence of any of the following events within 14 days after the date the event occurs:\n(a)where the licensee commences any investigation to determine whether a collaborative prescribing practitioner has failed to comply with his or her collaborative practice agreement;\n(b)where a collaborative prescribing practitioner has ceased to provide any collaborative prescribing service, whether or not on a permanent basis.\n(2) In addition to paragraph (1), the licensee must give written notice to the Director‑General of any failure by a collaborative prescribing practitioner to provide a collaborative prescribing service in accordance with his or her collaborative practice agreement, within 14 days after the licensee becomes aware of the failure."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Healthcare Services (Collaborative Prescribing Service) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

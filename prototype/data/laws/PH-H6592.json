@@ -1,7 +1,7 @@
 {
  "id": "PH-H6592",
  "title": {
-  "zh": null,
+  "zh": "授予 Fairwaves 广播网络在维甘、南伊罗戈及菲律宾其他频率可用地区建设、维护、设立和运营广播与电视站的特许经营权法案",
   "en": "An Act Granting Fairwaves Broadcasting Network a Franchise to Construct, Maintain, Establish and Operate Radio and Television Stations in Vigan, Ilocos Sur, and Other Areas in the Philippines Where Frequencies And/Or Channels Are Available for Radio and Television Broadcasting",
   "orig": "An Act Granting Fairwaves Broadcasting Network a Franchise to Construct, Maintain, Establish and Operate Radio and Television Stations in Vigan, Ilocos Sur, and Other Areas in the Philippines Where Frequencies And/Or Channels Are Available for Radio and Television Broadcasting"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Fairwaves Broadcasting Network a Franchise to Construct, Maintain, Establish and Operate Radio and Television Stations in Vigan, Ilocos Sur, and Other Areas in the Philippines Where Frequencies And/Or Channels Are Available for Radio and Television Broadcasting",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

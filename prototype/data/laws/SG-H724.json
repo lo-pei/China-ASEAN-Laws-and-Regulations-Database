@@ -1,7 +1,7 @@
 {
  "id": "SG-H724",
  "title": {
-  "zh": null,
+  "zh": "委员会",
   "en": "Commission",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Inquiry Commissions Ordinance\nChapter 52, 1955 Revised Edition\nCommission\nN 28\nG.N. No. S 164/2004\nREVISED EDITION 1990\n( )\n[13 December 1964]\nBy His Excellency Tun YUSOF BIN ISHAK, AL-HAJ, Yang di-Pertuan Negara of the State of Singapore.\nWhereas it is provided by the Inquiry Commissions Ordinance that it shall be lawful for the Yang di-Pertuan Negara whenever he shall deem it advisable to issue a Commission appointing one or more Commissioners to enquire, inter alia, into any matter in which an inquiry would, in the opinion of the Yang di-Pertuan Negara, be for the public welfare:\nAnd whereas I am of the opinion that it is the public welfare that an inquiry should forthwith be made by a Commissioner so appointed in accordance with the following term of reference:\nTo inquire into and examine all matters relating to the administration of the Singapore Manual and Mercantile Workers’ Union up to and including the 25th October 1964 and to report thereon with particular reference to —\n(a)allegations of corrupt practices on the part of the officers of the said Union; and\n(b)disposal and custody of funds and monies belonging to the said Union.\nNow, therefore, I, YUSOF BIN ISHAK, Yang di-Pertuan Negara of the State of Singapore, hereby appoint Mr. Punchardsheram Coomaraswamy to be a Commissioner and hereby authorise the said Commissioner to conduct such inquiry in the manner hereinafter directed:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

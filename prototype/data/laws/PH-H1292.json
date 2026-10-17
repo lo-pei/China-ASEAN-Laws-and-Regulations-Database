@@ -1,7 +1,7 @@
 {
  "id": "PH-H1292",
  "title": {
-  "zh": null,
+  "zh": "修订并废止第1411号共和国法若干项目的法案",
   "en": "An Act Amending and Repealing Certain Items of Republic Act Numbered Fourteen Hundred Eleven",
   "orig": "An Act Amending and Repealing Certain Items of Republic Act Numbered Fourteen Hundred Eleven"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending and Repealing Certain Items of Republic Act Numbered Fourteen Hundred Eleven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

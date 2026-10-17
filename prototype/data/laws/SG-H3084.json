@@ -1,7 +1,7 @@
 {
  "id": "SG-H3084",
  "title": {
-  "zh": null,
+  "zh": "新加坡海事及港务管理局（港口船只）条例",
   "en": "Maritime and Port Authority of Singapore (Harbour Craft) Regulations",
   "orig": null
  },
@@ -635,5 +635,13 @@
     "en": "FOURTH SCHEDULE\nRegulation 24\nMinimum licensed manning requirements\nType of Craft\nGross Tonnage\nDeck Manning Licence\nEngine Shaft Power (kilowatt)\nEngine Manning Licence\n1.Non‑mechanically propelled harbour craft\n“SA”, “SB”, “SC”, “SP” or “SR” harbour craft\nas determined by Port Master\nnone\nnone\n2.Mechanically propelled harbour craft\n(1)“SA”, “SC” or “SP” harbour craft carrying not more than 12 passengers\nless than 100\na Port Limit Steersman\nless than 400\nnone, if full engine and rudder control is provided at steering position. Otherwise, a Port Limit Engine Driver (Third Class)\n100 to less than 300\na Port Limit Steersman with 2 years experience\n400 to less than 1,000\nnone, if harbour craft is fitted with approved automated bridge control of main propulsion and other connected systems. Otherwise, a Port Limit Engine Driver (Third Class)\n300 to less than 500\na Port Limit Helmsman\n1,000 to less than 3,000\na Port Limit Engine Driver (Second Class)\n500 and more\nas determined by Port Master\n3,000 and more\nas determined by Port Master\n(2)“SB” harbour craft\nless than 100\na Port Limit Steersman with 2 years experience\nless than 400\na Port Limit Engine Driver (Third Class)\n100 to less than 300\na Port Limit Helmsman\n400 to less than 1,000\na Port Limit Engine Driver (Second Class)\n300 to less than 500\na Port Limit Special Grade (Deck Officer)\n1,000 to less than 3,000\na Port Limit Special Grade (Engineer Officer)\n500 and more\nas determined by Port Master\n3,000 and more\nas determined by Port Master\n(3)“SP” harbour craft carrying more than 12 passengers\nless than 300\na Port Limit Helmsman\nless than 400\na Port Limit Engine Driver (Third Class)\n300 and more\nas determined by Port Master\n400 to less than 3,000\na Port Limit Engine Driver (Second Class)\n3,000 and more\nas determined by Port Master\n(4)“ST” harbour craft\nless than 50\na Port Limit Steersman with 2 years experience\nless than 400\na Port Limit Engine Driver (Third Class) with 2 years experience\n50 to less than 300\na Port Limit Helmsman\n400 to less than 3,000\na Port Limit Engine Driver (Second Class)\n300 to less than 500\na Port Limit Helmsman, if craft fitted with approved automated bridge control of main propulsion and other connected system. Otherwise, a Port Limit Special Grade (Deck Officer) and Port Limit Helmsman\n3,000 to less than 4,000\na Port Limit Engine Driver (Second Class), if craft fitted with approved automated bridge control of main propulsion and other connected system. Otherwise, a Port Limit Special Grade (Engineer Officer) and Port Limit Engine Driver (Third Class)\n4,000 and more\na Port Limit Special Grade (Engineer Officer) and Port Limit Engine Driver (Third Class)\n500 and above\n2 Port Limit Special Grade (Deck Officer); or as determined by Port Master\n(5)“SR” harbour craft\nas determined by Port Master\nas determined by Port Master\n3. Harbour craft fitted with approved automated bridge control of main propulsion and other connected systems may be manned in accordance with other requirements of the Port Master.\n4. If the above number of officers is insufficient to ensure adequate rest periods for the watch keepers, additional officers must be provided.\n5. In this Schedule, “Gross Tonnage” means —\n(a)the Gross Tonnage registered in the craft’s permanent Certificate of Registry; or\n(b)in the absence of a permanent registry —\n(i)the tonnage determined by the Port Master; or\n(ii)the tonnage recorded in the tonnage certificate of the craft acceptable to the Port Master.\n[S 667/2006 wef 01/01/2007]\n[G.N. No. S 183/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Maritime and Port Authority of Singapore (Harbour Craft) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5448",
  "title": {
-  "zh": null,
+  "zh": "设立 Mactan-Cebu 国际机场管理局、将 Mactan 国际机场与 Lahug 机场现有资产移交该局、授予其管理和运营两座机场的权力并为其他目的法案",
   "en": "An Act Creating the Mactan-Cebu International Airport Authority, Transferring Existing Assets of the Mactan International Airport and the Lahug Airport to the Authority, Vesting the Authority with Power to Administer and Operate the Mactan International Airport and the Lahug Airport, and for Other Purposes",
   "orig": "An Act Creating the Mactan-Cebu International Airport Authority, Transferring Existing Assets of the Mactan International Airport and the Lahug Airport to the Authority, Vesting the Authority with Power to Administer and Operate the Mactan International Airport and the Lahug Airport, and for Other Purposes"
  },
@@ -250,5 +250,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulations."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating the Mactan-Cebu International Airport Authority, Transferring Existing Assets of the Mactan International Airport and the Lahug Airport to the Authority, Vesting the Authority with Power to Administer and Operate the Mactan International Airport and the Lahug Airport, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

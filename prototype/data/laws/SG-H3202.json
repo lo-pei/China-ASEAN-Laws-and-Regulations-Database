@@ -1,7 +1,7 @@
 {
  "id": "SG-H3202",
  "title": {
-  "zh": null,
+  "zh": "商船（海难、上诉与重审）规则",
   "en": "Merchant Shipping (Shipping Casualties, Appeals and Rehearings) Rules",
   "orig": null
  },
@@ -446,5 +446,13 @@
     "en": "SECOND SCHEDULE\nClassification of assessors and qualifications\nprescribed for each class\nClass I\nCertificate of Competency (Deck Officer) Class I (Master Mariner)\n3 years’ service while holding a Certificate of Competency (Deck Officer) Class I (Master Mariner), of which one year must have been in command.\nClass II\nCertificate of Competency (Marine Engineer Officer) Class I\n3 years’ service while holding a Certificate of Competency (Marine Engineer Officer) Class I, of which one year must have been as Chief Engineer.\n[S 66/96 wef 02/02/1996]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Shipping Casualties, Appeals and Rehearings) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

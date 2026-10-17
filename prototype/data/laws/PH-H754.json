@@ -1,7 +1,7 @@
 {
  "id": "PH-H754",
  "title": {
-  "zh": null,
+  "zh": "要求在特定条件下，政府项目或公共工程建设（无论由政府直接实施或经合同发包）使用菲律宾产材料或产品的法案",
   "en": "An Act to Require the Use, Under Certain Conditions, of Philippine Made Materials or Products in Government Projects or Public Works Construction, Whether Done Directly By the Government or Awarded Thru Contracts",
   "orig": "An Act to Require the Use, Under Certain Conditions, of Philippine Made Materials or Products in Government Projects or Public Works Construction, Whether Done Directly By the Government or Awarded Thru Contracts"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 20, 1953."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Require the Use, Under Certain Conditions, of Philippine Made Materials or Products in Government Projects or Public Works Construction, Whether Done Directly By the Government or Awarded Thru Contracts",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H10076",
  "title": {
-  "zh": null,
+  "zh": "儿童免受虐待、剥削与歧视特别保护法",
   "en": "Special Protection of Children Against Abuse, Exploitation and Discrimination Act",
   "orig": "An Act Providing for Stronger Protection Against Rape and Sexual Exploitation and Abuse, Increasing the AGe for Determining the Commission of Statutory Rape Amending for the Purpose Act No. 3815, as Amended, Otherwise Known as \"The Revised Penal Code,\" Republic Act 8353, Also Known as \"The Anti-Rape Law of 1997,\" and Republic Act No. 7610, as Amended, Otherwise Known as the \"Special Protection of Children Against Abuse, Exploitation and Discrimination Act\""
  },
@@ -112,5 +112,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Special Protection of Children Against Abuse, Exploitation and Discrimination Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

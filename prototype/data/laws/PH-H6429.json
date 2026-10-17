@@ -1,7 +1,7 @@
 {
  "id": "PH-H6429",
  "title": {
-  "zh": null,
+  "zh": "宣布每年12月18日为“Araw Ng Laguna”及拉古纳省与圣巴勃罗市特别工作日，以纪念已故州长Felicisimo T. San Luis的法案",
   "en": "An Act Declaring December Eighteen of Every Year as \"Araw Ng Laguna\" and a Special Working Day in the Province of Laguna and the City of San Pablo to Commemorate the Memory and Death of the Late Governor Felicisimo T. San Luis",
   "orig": "An Act Declaring December Eighteen of Every Year as \"Araw Ng Laguna\" and a Special Working Day in the Province of Laguna and the City of San Pablo to Commemorate the Memory and Death of the Late Governor Felicisimo T. San Luis"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring December Eighteen of Every Year as \"Araw Ng Laguna\" and a Special Working Day in the Province of Laguna and the City of San Pablo to Commemorate the Memory and Death of the Late Governor Felicisimo T. San Luis",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

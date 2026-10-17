@@ -1,7 +1,7 @@
 {
  "id": "PH-H6772",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省的卡班卡兰市镇改设为该省组成市，名称为卡班卡兰市的法案",
   "en": "An Act Converting the Municipality of Kabankalan Into A Component City of the Province of Negros Occidental, To Be Known As the City of Kabankalan",
   "orig": "An Act Converting the Municipality of Kabankalan Into A Component City of the Province of Negros Occidental, To Be Known As the City of Kabankalan"
  },
@@ -590,5 +590,13 @@
     "en": "Effectivity Clause. – This Act shall take effect upon its publication in at least two (2) newspapers of general circulation.\nApproved, June 6, 1997."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Municipality of Kabankalan Into A Component City of the Province of Negros Occidental, To Be Known As the City of Kabankalan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

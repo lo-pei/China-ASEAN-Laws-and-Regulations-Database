@@ -1,7 +1,7 @@
 {
  "id": "SG-H2292",
  "title": {
-  "zh": null,
+  "zh": "所得税（国际税务合规协定）（美国）命令 2020",
   "en": "Income Tax (International Tax Compliance Agreements) (United States of America) Order 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The agreement reached between the Government of the Republic of Singapore and the Government of the United States of America to improve international tax compliance and to implement the Foreign Account Tax Compliance Act (FATCA), done at Singapore on 13 November 2018, as corrected by agreement between the Government of the Republic of Singapore and the Government of the United States of America on 27 November 2019, is declared as an international tax compliance agreement for the purposes of Part XXB of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (International Tax Compliance Agreements) (United States of America) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

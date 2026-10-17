@@ -1,7 +1,7 @@
 {
  "id": "PH-H7537",
  "title": {
-  "zh": null,
+  "zh": "宣布每年5月14日为布拉干省Obando特别工作日的法案",
   "en": "An Act Declaring May 14 of Every Year a Special Working Holiday for Obando, Bulacan",
   "orig": "An Act Declaring May 14 of Every Year a Special Working Holiday for Obando, Bulacan"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of national circulation and at least in two (2) local newspapers and/or community newsletters."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring May 14 of Every Year a Special Working Holiday for Obando, Bulacan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

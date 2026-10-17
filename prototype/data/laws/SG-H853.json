@@ -1,7 +1,7 @@
 {
  "id": "SG-H853",
  "title": {
-  "zh": null,
+  "zh": "著作权条例 2021",
   "en": "Copyright Regulations 2021",
   "orig": null
  },
@@ -1664,5 +1664,11 @@
     "en": "103.—(1) Where —\n(a)a notice is validly given under section 140B(1) of the 1987 Act and in force immediately before 21 November 2021; but\n(b)no goods have been seized pursuant to the notice before that date,\nthe notice is deemed to be a request to seize under section 332.\n(2) The provisions of Division 6 of Part V of the 1987 Act and the Copyright (Border Enforcement Measures) Regulations (Cap. 63, Rg 5, 2009 Revised Edition) in force immediately before 21 November 2021 apply in relation to any goods seized under those provisions before that date as if that Act was not repealed and those Regulations were not revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Copyright Regulations 2021",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

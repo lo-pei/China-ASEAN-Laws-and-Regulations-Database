@@ -1,7 +1,7 @@
 {
  "id": "SG-H620",
  "title": {
-  "zh": null,
+  "zh": "新加坡民航局（第 67D(1)(g) 与 (h) 条豁免）命令 2025",
   "en": "Civil Aviation Authority of Singapore (Exemption from Section 67D(1)(g) and (h)) Order 2025",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3.—(1) Section 67D(1)(g) of the Act does not apply to any person taking any step to enforce any security over any aircraft object that is —\n(a)the property of a designated operating entity; or\n(b)the trust property of a designated operating entity that is a business trust,\nif the enforcement is an exercise by that person of a right or remedy under the IIAE Act.\n(2) Section 67D(1)(h) of the Act does not apply to any person taking any step to execute or enforce any judgment or order of court obtained against a designated operating entity, if the execution or enforcement is an exercise by that person of a right or remedy under the IIAE Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Civil Aviation Authority of Singapore (Exemption from Section 67D(1)(g) and (h)) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

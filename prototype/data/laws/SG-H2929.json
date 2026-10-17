@@ -1,7 +1,7 @@
 {
  "id": "SG-H2929",
  "title": {
-  "zh": null,
+  "zh": "裕廊镇公司（处罚）规则",
   "en": "Jurong Town Corporation (Penalties) Rules",
   "orig": null
  },
@@ -87,5 +87,11 @@
     "en": "THE SCHEDULE\nFirst column\nSecond column\nProvisions of the Act contravened.\nPenalties payable.\n1.\nSection 40(1)\nAn amount equal to 5% of the value of the interest in the property.\n2.\nSection 46(1)(b)\nAn amount equal to 5% of the value of the interest in the property.\n3.\nSection 46(1)(c), (d), (e) or (f)\nAn amount equal to 10% of the original sale price of the flat.\n4.\nSection 46(1)(h)\nAn amount equal to 15% of the original sale price of the flat.\nFor the purposes of paragraphs 1 and 2, the value of the property shall be determined by the Corporation whose determination shall be final."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Jurong Town Corporation (Penalties) Rules",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

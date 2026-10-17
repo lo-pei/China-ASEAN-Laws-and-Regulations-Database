@@ -1,7 +1,7 @@
 {
  "id": "PH-H3275",
  "title": {
-  "zh": null,
+  "zh": "授予Benjamin Cuaresma在新比斯开省Bambang市镇安装、维护与运营电灯、热力与动力系统的特许经营权的法案",
   "en": "An Act Granting Benjamin Cuaresma a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipality of Bambang, in the Province of Nueva Vizcaya",
   "orig": "An Act Granting Benjamin Cuaresma a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipality of Bambang, in the Province of Nueva Vizcaya"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1964."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Benjamin Cuaresma a Franchise to Install, Maintain and Operate an Electric Light, Heat and Power System in the Municipality of Bambang, in the Province of Nueva Vizcaya",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

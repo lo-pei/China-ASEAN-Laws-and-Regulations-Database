@@ -1,7 +1,7 @@
 {
  "id": "SG-H2133",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 11 号）公告 1996",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) (No. 11) Notification 1996",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Income Tax Act\n(Chapter 134)\nIncome Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) (No. 11) Notification 1996\nIn exercise of the powers conferred by section 13(4) of the Income Tax Act, the Minister for Finance hereby makes the following Notification:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) (No. 11) Notification 1996",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

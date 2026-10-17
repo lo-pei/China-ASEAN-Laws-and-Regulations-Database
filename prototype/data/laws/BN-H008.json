@@ -389,7 +389,8 @@
    },
    "text": {
     "en": "Services relating to energy"
-   }
+   },
+   "partIndex": 2
   },
   {
    "id": "BN-H008-A2",
@@ -399,7 +400,8 @@
    },
    "text": {
     "en": "Services relating to infocommunications"
-   }
+   },
+   "partIndex": 2
   },
   {
    "id": "BN-H008-A3",
@@ -409,7 +411,8 @@
    },
    "text": {
     "en": "Services relating to healthcare"
-   }
+   },
+   "partIndex": 2
   },
   {
    "id": "BN-H008-A4",
@@ -419,67 +422,80 @@
    },
    "text": {
     "en": "Services relating to  banking and finance"
-   }
+   },
+   "partIndex": 2
   },
   {
-   "id": "BN-H008-A5",
+   "id": "BN-H008-A5-d2",
    "no": 5,
    "noLabel": {
     "en": "Article 5"
    },
    "text": {
     "en": "Services relating to defence and security"
-   }
+   },
+   "dupIndex": 2,
+   "partIndex": 2
   },
   {
-   "id": "BN-H008-A6",
+   "id": "BN-H008-A6-d2",
    "no": 6,
    "noLabel": {
     "en": "Article 6"
    },
    "text": {
     "en": "Services relating to  emergency services"
-   }
+   },
+   "dupIndex": 2,
+   "partIndex": 2
   },
   {
-   "id": "BN-H008-A7",
+   "id": "BN-H008-A7-d2",
    "no": 7,
    "noLabel": {
     "en": "Article 7"
    },
    "text": {
     "en": "Services relating to aviation"
-   }
+   },
+   "dupIndex": 2,
+   "partIndex": 2
   },
   {
-   "id": "BN-H008-A8",
+   "id": "BN-H008-A8-d2",
    "no": 8,
    "noLabel": {
     "en": "Article 8"
    },
    "text": {
     "en": "Services relating to functioning of Government"
-   }
+   },
+   "dupIndex": 2,
+   "partIndex": 2
   },
   {
-   "id": "BN-H008-A9",
+   "id": "BN-H008-A9-d2",
    "no": 9,
    "noLabel": {
     "en": "Article 9"
    },
    "text": {
     "en": "Services relating to media"
-   }
+   },
+   "dupIndex": 2,
+   "partIndex": 2
   },
   {
-   "id": "BN-H008-A10",
+   "id": "BN-H008-A10-d2",
    "no": 10,
    "noLabel": {
     "en": "Article 10"
    },
    "text": {
     "en": "Services relating to water."
-   }
+   },
+   "dupIndex": 2,
+   "partIndex": 2
   }
  ]
 }

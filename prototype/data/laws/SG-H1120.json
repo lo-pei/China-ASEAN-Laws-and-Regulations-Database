@@ -1,7 +1,7 @@
 {
  "id": "SG-H1120",
  "title": {
-  "zh": null,
+  "zh": "硬币面额与特征",
   "en": "Denominations and Characteristics of Coins",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE 2010 50 YEARS OF PUBLIC HOUSING COMMEMORATIVE COINS TO BE ISSUED ON 1ST FEBRUARY 2010\nDenomination\nMetal\nStandard Weight\nStandard\nDiameter\nStandard\nThickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n50 Dollars\n999.9\nFine Gold\n7.776 g + 0.05 g\n21.96 mm + 0.125 mm\n1.55 mm + 0.20 mm\nRound\nMilled\nThe Singapore Arms in the centre with the year-date “2010” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 5 o’clock of the proof coin.\nThe design reflects the transition of Singapore’s housing landscape over the past 50 years, from slums and squatter housing to high-rise living in vibrant and sustainable towns.\nThe backdrop features 2 existing residential housing developments and a block in stylised rendition to symbolise the future. At the foreground are 4 children of the main ethnic races playing in lush communal space, representing racial harmony and living in public housing estates.\n5 Dollars\n999\nFine Silver\n20.00 g + 0.20 g\n38.70 mm + 0.15 mm\n2.50 mm + 0.30 mm\nRound\nMilled and bearing the words “MONETARY AUTHORITY OF SINGAPORE” and lion symbol.\nThe figure “50” and the words “Celebrating 50 Years of Public Housing” are at the top of the coin. Stylised fireworks have been incorporated on the left and right edges to convey the overall celebratory mood of the event.\nThe denomination of the coin in figures is at the left circumference of the coin.\n5 Dollars\n75%\nCopper\n25%\nNickel\n20.00 g + 0.60 g\n38.70 mm + 0.15 mm\n2.50 mm + 0.30 mm\nRound\nThe Singapore Arms in the centre with the year-date “2010” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin.\n(a) Reverse Design of the $50 Gold Proof Coin.\n(b) Reverse Design of the $5 Silver Proof Coin.\n(c) Reverse Design of the $5 Cupro-Nickel Proof-Like Coin.\n(d) Obverse Design of the $50 Gold Proof Coin.\n(e) Obverse Design of the $5 Silver Proof Coin.\n(f) Obverse Design of the $5 Cupro-Nickel Proof-Like Coin."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Denominations and Characteristics of Coins",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2201",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 3 号）公告 2004",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 3) Notification 2004",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. There shall be exempt from tax the rents (including advance, basic and supplemental rents) payable by Singapore Airlines Cargo Pte. Ltd. from 5th March 2004 to 5th March 2016 (both dates inclusive) to Singapore Emma Finance II S.A.S. under a Lease Agreement dated 5th March 2004 in respect of one Boeing Model 747-400F (Aircraft Manufacturer’s Serial No. 32899)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 3) Notification 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

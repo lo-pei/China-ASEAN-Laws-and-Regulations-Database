@@ -1,7 +1,7 @@
 {
  "id": "PH-H5063",
  "title": {
-  "zh": null,
+  "zh": "在索索贡省第二区Castilla市镇Cumadcad村设立农业中学，名称为Castilla农业中学，并授权为此拨款的法案",
   "en": "An Act Establishing An Agricultural High School in Barrio Cumadcad, Municipality of Castilla in the Second District of the Province of Sorsogon, to Be Known as Castilla Agricultural High School, and Authorizing the Appropriation of Funds Therefor.",
   "orig": "An Act Establishing An Agricultural High School in Barrio Cumadcad, Municipality of Castilla in the Second District of the Province of Sorsogon, to Be Known as Castilla Agricultural High School, and Authorizing the Appropriation of Funds Therefor."
  },
@@ -81,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, September 30, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing An Agricultural High School in Barrio Cumadcad, Municipality of Castilla in the Second District of the Province of Sorsogon, to Be Known as Castilla Agricultural High School, and Authorizing the Appropriation of Funds Therefor.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

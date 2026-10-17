@@ -1,7 +1,7 @@
 {
  "id": "PH-H7881",
  "title": {
-  "zh": null,
+  "zh": "将拥有2000张床位的Dr. Jose N. Rodriguez纪念医院与疗养院的二百（200）张床位改用于三级综合医疗，并为此拨款及为其他目的法案",
   "en": "An Act Converting Two Hundred (200) Beds of the 2000-Bed Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium for Tertiary General Health Care, appropriating funds therefor and for other purposes",
   "orig": "An Act Converting Two Hundred (200) Beds of the 2000-Bed Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium for Tertiary General Health Care, appropriating funds therefor and for other purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect immediately."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting Two Hundred (200) Beds of the 2000-Bed Dr. Jose N. Rodriguez Memorial Hospital and Sanitarium for Tertiary General Health Care, appropriating funds therefor and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2780",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（司法管理）条例 2020",
   "en": "Insolvency, Restructuring and Dissolution (Judicial Management) Regulations 2020",
   "orig": null
  },
@@ -966,5 +966,13 @@
     "en": "57.—(1) A fee of $20 is payable to the Official Receiver for the lodgment or filing of any of the following documents with the Official Receiver:\n(a)a statutory declaration of an interim judicial manager required to be lodged under section 94(3)(e) of the Act;\n(b)a written notice of the appointment of an interim judicial manager required to be lodged under section 94(5)(a) of the Act;\n(c)a copy of a judicial management order or a written notice of the appointment of a judicial manager, required to be lodged under section 105(1)(a) of the Act;\n(d)a copy of an order made under section 108(5) of the Act effecting a company’s discharge from judicial management, required to be lodged under section 108(7) of the Act;\n(e)a notice of the expiry or extension of the term of a judicial manager required to be filed under section 111(7)(c) of the Act;\n(f)a copy of an order made under section 112(2) of the Act effecting a company’s discharge from judicial management, required to be lodged under section 112(3) of the Act;\n(g)a copy of an order effecting a company’s discharge from judicial management or interim judicial management under section 115(3)(d) of the Act, required to be lodged under section 115(5) of the Act.\n(2) The Permanent Secretary of the Ministry of Law may, in his or her discretion, waive, refund or remit wholly or in part any fee payable under paragraph (1).\n[S 593/2022 wef 15/07/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insolvency, Restructuring and Dissolution (Judicial Management) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

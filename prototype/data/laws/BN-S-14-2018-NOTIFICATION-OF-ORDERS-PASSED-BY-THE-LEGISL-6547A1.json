@@ -1,0 +1,62 @@
+{
+ "id": "BN-S-14-2018-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-6547A1",
+ "title": {
+  "zh": "依第 837 条立法会议通过命令的公告",
+  "en": "NOTIFICATION OF ORDERS PASSED BY THE LEGISLATIVE COUNCIL UNDER ARTICLE 837",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p25",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "WHOLE",
+ "articleCount": 1,
+ "chars": 2625,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "S-14-2018-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLATIVE-COUNCIL-UNDER-ARTICLE-837.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《S-14-2018-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISLATIVE-COUNCIL-UNDER-ARTICLE-837.pdf》（2 页），本次切分 1 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-S-14-2018-NOTIFICATION-OF-ORDERS-PASSED-BY-THE-LEGISL-6547A1-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "20th. MARCH, 2018 No. S 14\n\nCONSTITUTION OF BRUNEI DARUSSALAM\n\nNOTIFICATION OF ORDERS PASSED BY THE LEGISLATIVE COUNCIL UNDER ARTICLE 83(7) In exercise of the power conferred by Article 83(8) of the Constitution of Brunei Darussalam, it is hereby notified for public information that the Legislative Council has, pursuant to Article 83(7) of the Constitution of Brunei Darussalam, resolved on 20th March 2018 that every Order made under Article 83 of the Constitution of Brunei Darussalam and set out in the Schedule hereto, as from the respective dates on which they were made, be passed by the Legislative Council.\n\nSCHEDULE Maritime and Port Authority of Brunei Darussalam Order, 2017. Patents (Amendment) Order, 2017. Brunei Investment Agency Act (Amendment) Order, 2017. Supplementary Supply (20101201 1) (No. 5) Order, 2017. Supplementary Supply (20 15120 16) (No. 1 J Order, 20 17. Supplementary Supply (201512016) (No. 2) Order, 2017. Supplementary Supply (20 16/20 17) (No. 1) Order, 20 17. Supplementary Supply (2016120 17) (No. 2) Order, 20 17. Supplementary Supply (2016120 17) (No. 3) Order, 20 17. Supplementary Supply (20 16120 17) (No. 4) Order, 20 17. Stamp Act (Amendment] Order, 2017. Companies Act (Amendment) Order, 2017. Companies Act (Amendment) (No. 2) Order, 2017. Insolvency (Amendment) Order, 2017. Electricity Order, 20 17. International Business Companies (Amendment) Order, 2017. Income Tax Act (Amendment) (No. 3) Order, 2017. Penal Code (Amendment) Order, 2017. Supplementary Supply (20 161201 7) (No. 5) Order, 2017. Supplementary Supply (20 16/20 17) (No. 6) Order, 2017. Constitution (Financial Procedure) (Amendment) Order, 2017.\n\nBRUNEI DARUSSALAM GOVERNMENT GAZETTE SCHEDULE - (Continued) Employment (Amendment) Order, 2017. Customs (Amendment) Order, 2017. Supplementary Supply (201712018) (No. I) Order, 2017. Excise (Amendment) Order, 20 17. Customs (Amendment) (No. 2) Order, 2017. Road Traffic Act (Amendment) Order, 2017. Trade Marks Act (Amendment) (No. 2) Order, 2017. Industrial Designs (Amendment) Order, 2017. Allied Health Professions of Brunei Darussalam (Amendment) Order, Supplementary Supply (20 17/20 18) (No. 2) Order, 20 18. Syariah Penal Code (Amendment) Order, 20 18. Syariah Courts Criminal Procedure Code Order, 2018. Hibah Order, 2018. Dated this 2nd. day of Rejab, 1439 Hijriah corresponding to the 20th. day of March, 2018.\n\nPEHIN ORANG KAYA PEKERMA JAYA\n\nDATO PADUKA AWANG HAJI JUDIN BIN HAJI ASAR, Clerk to the Legislative Council, Brunei Darussalam. Dicetak oleh Jabatan Percetakan Kerajaan, Bandar Seri Begawan BB3510, Negara Brunei Darussalam. Harga BS5.00"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF ORDERS PASSED BY THE LEGISLATIVE COUNCIL UNDER ARTICLE 837",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

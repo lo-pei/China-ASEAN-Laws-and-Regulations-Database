@@ -1,7 +1,7 @@
 {
  "id": "PH-H7164",
  "title": {
-  "zh": null,
+  "zh": "将东萨马省 Salcedo 市镇南萨马农业学院更名为南萨马农业、科学与技术学院并为其拨款的法案",
   "en": "An Act Changing the Name of the Southern Samar Agricultural College in the Municipality of Salcedo, Province of Eastern Samar, Into a College of Agriculture, Science and Technology to Be Known as the Southern Samar College of Agriculture, Science and Technology, and Appropriating Funds Therefor",
   "orig": "An Act Changing the Name of the Southern Samar Agricultural College in the Municipality of Salcedo, Province of Eastern Samar, Into a College of Agriculture, Science and Technology to Be Known as the Southern Samar College of Agriculture, Science and Technology, and Appropriating Funds Therefor"
  },
@@ -112,5 +112,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Southern Samar Agricultural College in the Municipality of Salcedo, Province of Eastern Samar, Into a College of Agriculture, Science and Technology to Be Known as the Southern Samar College of Agriculture, Science and Technology, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

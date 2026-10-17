@@ -1,7 +1,7 @@
 {
  "id": "PH-H7387",
  "title": {
-  "zh": null,
+  "zh": "将南三宝颜省 Pagadian 市 Lison Valley 描笼涯 Ditoray 国立中学附属校分离并改设为名为 Lison Valley 国立中学的独立国立中学，并拨款",
   "en": "An Act Separating the Ditoray National High School Annex in Barangay Lison Valley, City of Pagadian, Province of Zamboanga Del Sur From the Ditoray National High School, Also in the City of Pagadian, Province of Zamboanga Del Sur and Converting It Into An Independent National High School to Be Known as the Lison Valley National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Ditoray National High School Annex in Barangay Lison Valley, City of Pagadian, Province of Zamboanga Del Sur From the Ditoray National High School, Also in the City of Pagadian, Province of Zamboanga Del Sur and Converting It Into An Independent National High School to Be Known as the Lison Valley National High School, and Appropriating Funds Therefor"
  },
@@ -111,5 +111,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Ditoray National High School Annex in Barangay Lison Valley, City of Pagadian, Province of Zamboanga Del Sur From the Ditoray National High School, Also in the City of Pagadian, Province of Zamboanga Del Sur and Converting It Into An Independent National High School to Be Known as the Lison Valley National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

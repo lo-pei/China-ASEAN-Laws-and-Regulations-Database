@@ -1,7 +1,7 @@
 {
  "id": "SG-H047",
  "title": {
-  "zh": null,
+  "zh": "会计师（防止洗钱、恐怖主义融资与扩散融资）规则 2023",
   "en": "Accountants (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Rules 2023",
   "orig": null
  },
@@ -324,5 +324,13 @@
     "en": "22. An accounting entity or individual practitioner of the accounting entity must, at such times and within such periods as may be specified by the Registrar, furnish to the Registrar any information regarding the activities of the accounting entity or individual practitioner that the Registrar may require for the purpose of monitoring compliance by the accounting entity or individual practitioner with these Rules."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Accountants (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Rules 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

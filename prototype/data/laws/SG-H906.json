@@ -1,7 +1,7 @@
 {
  "id": "SG-H906",
  "title": {
-  "zh": null,
+  "zh": "PSA 公司辅助警察部队的设立",
   "en": "Creation of PSA Corporation Auxiliary Police Force",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Police Force Act\n(CHAPTER 235)\nCreation of PSA Corporation Auxiliary Police Force\nIt is hereby notified for general information that, in exercise of the powers conferred by section 71(1) of the Police Force Act, the Commissioner of Police, with the approval of the Minister for Home Affairs, has authorised the creation of the PSA Corporation Auxiliary Police Force, with effect from 1st October 1997."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Creation of PSA Corporation Auxiliary Police Force",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

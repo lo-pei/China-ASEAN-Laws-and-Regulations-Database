@@ -1,7 +1,7 @@
 {
  "id": "SG-H264",
  "title": {
-  "zh": null,
+  "zh": "向陆路交通管理局转授职能",
   "en": "Assignment of Function to Land Transport Authority of Singapore",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Land Transport Authority of Singapore Act\n(Chapter 158A, Section 6(3))\nAssignment of Function to Land Transport Authority of Singapore\nN 1\nG.N. No. S 162/2003\nREVISED EDITION 2004\n(31st December 2004)\n[31st March 2003]\nThe Minister for Transport has assigned to the Land Transport Authority of Singapore, the function of promoting, facilitating and providing financial grants for training and education relating to public transport."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Assignment of Function to Land Transport Authority of Singapore",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

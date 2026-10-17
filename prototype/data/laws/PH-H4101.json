@@ -1,7 +1,7 @@
 {
  "id": "PH-H4101",
  "title": {
-  "zh": null,
+  "zh": "授予 Surigao Ferry Service, Inc. 设立、维护和运营北苏里高省 Surigao 市镇与 Nonoc 岛之间客运与货运渡轮服务的特许经营权法案",
   "en": "An Act Granting Surigao Ferry Service, Inc. a Franchise to Establish, Maintain and Operate a Ferry Service for Passengers and Freight Between the Municipality of Surigao and Nonoc Island, Both in the Province of Surigao del Norte",
   "orig": "An Act Granting Surigao Ferry Service, Inc. a Franchise to Establish, Maintain and Operate a Ferry Service for Passengers and Freight Between the Municipality of Surigao and Nonoc Island, Both in the Province of Surigao del Norte"
  },
@@ -150,5 +150,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Surigao Ferry Service, Inc. a Franchise to Establish, Maintain and Operate a Ferry Service for Passengers and Freight Between the Municipality of Surigao and Nonoc Island, Both in the Province of Surigao del Norte",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

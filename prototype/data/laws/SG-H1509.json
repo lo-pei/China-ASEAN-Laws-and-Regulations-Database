@@ -1,7 +1,7 @@
 {
  "id": "SG-H1509",
  "title": {
-  "zh": null,
+  "zh": "费用（罪犯登记官）（综合）命令",
   "en": "Fees (Registrar of Criminals) (Consolidation) Order",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. There shall be payable to the Registrar of Criminals in respect of —\n(a)any report made by him upon any matter or thing relating to finger impressions submitted to him for report by any person other than a public officer a fee of $90 for each report; and\n[G.N. Nos. S 382/52; S 375/96]\n[S 252/2014 wef 01/04/2014]\n(b)every application for particulars of previous convictions relating to a person accused of a crime within the meaning of the Registration of Criminals Act a fee of $25 for statutory boards and $30 for Government-linked companies.\n[G.N. Nos. S 77/60; S 375/96]\n[S 133/2002]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Registrar of Criminals) (Consolidation) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

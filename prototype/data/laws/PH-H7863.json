@@ -1,7 +1,7 @@
 {
  "id": "PH-H7863",
  "title": {
-  "zh": null,
+  "zh": "将拉古纳省拉古纳理工国立学院改设为国立大学，名称为拉古纳理工国立大学，并为此拨款的法案",
   "en": "An Act Converting the Laguna State Polytechnic College in the Province of Laguna into a State University to be known as the Laguna State Polytechnic University and appropriating funds therefor",
   "orig": "An Act Converting the Laguna State Polytechnic College in the Province of Laguna into a State University to be known as the Laguna State Polytechnic University and appropriating funds therefor"
  },
@@ -320,5 +320,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in two newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Laguna State Polytechnic College in the Province of Laguna into a State University to be known as the Laguna State Polytechnic University and appropriating funds therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H2146",
  "title": {
-  "zh": null,
+  "zh": "授权为 Aparri 职业中学的运营与维护拨款二十万比索的法案",
   "en": "An Act Authorizing the Appropriation of the Sum of Two Hundred Thousand Pesos for the Operation and Maintenance of the Aparri Vocational High School",
   "orig": "An Act Authorizing the Appropriation of the Sum of Two Hundred Thousand Pesos for the Operation and Maintenance of the Aparri Vocational High School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon the date the funds authorized herein to be appropriated are provided for.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of the Sum of Two Hundred Thousand Pesos for the Operation and Maintenance of the Aparri Vocational High School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

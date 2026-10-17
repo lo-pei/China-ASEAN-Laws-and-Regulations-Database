@@ -1,7 +1,7 @@
 {
  "id": "SG-H1962",
  "title": {
-  "zh": null,
+  "zh": "所得税（经批准集装箱投资企业外国所得优惠税率）命令 2023",
   "en": "Income Tax (Concessionary Rate of Tax for Foreign Income of Approved Container Investment Enterprise) Order 2023",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) Tax at the rate of 5% or 10% as specified under section 43P(1) of the Act by the Minister to an ACIE for any income of the ACIE, is levied and must be paid on the income described in sub‑paragraph (2) of the ACIE that is received in Singapore during the period of its approval.\n[S 35/2023 wef 31/12/2021]\n(2) Sub‑paragraph (1) applies to any income comprising payment of dividends from, or partnership profits of, an approved related party of the ACIE, that is paid out of the following income derived by the approved related party during the period of the approval of the approved related party (including any period of approval that starts before 12 December 2018 for an approved company or approved partnership mentioned in paragraph 3(3)):\n(a)income derived in the basis period for the year of assessment 2013 or a subsequent year of assessment from the leasing during the qualifying period of any intermodal equipment owned by the approved related party, that is acquired before or during the period of the approval of the approved related party, where the leasing is incidental to the activity mentioned in paragraph 4(2)(a);\n(b)income derived in the basis period for the year of assessment 2013 or a subsequent year of assessment from foreign exchange and risk management activities that are carried out in connection with and incidental to the activity mentioned in sub‑paragraph (a);\n(c)income derived on or after 12 December 2018 from the leasing during the qualifying period of any intermodal equipment that is incidental to the activity mentioned in paragraph 4(2)(c), if the intermodal equipment was —\n(i)acquired by the ACIE or another approved related party of the ACIE before or during the period of approval of the ACIE or the other approved party; and\n(ii)leased by the ACIE or the other approved related party to the firstmentioned approved related party;\n(d)income derived on or after 12 December 2018 from foreign exchange and risk management activities that are carried out in connection with and incidental to the activity mentioned in sub‑paragraph (c).\n(3) Sub‑paragraph (1) also applies to any income of an ACIE described in sub‑paragraph (2) that is —\n(a)received in Singapore after the date the ACIE’s approval has expired or been withdrawn; or\n(b)paid out of any income of an approved related party of the ACIE derived from any of the activities mentioned in sub‑paragraph (2) after the date the approval of the approved related party has expired or been withdrawn,\nif the ACIE has fulfilled all the conditions specified under section 43P(4) of the Act for its approval by the date of expiry or before the date of the withdrawal of the approval.\n[S 35/2023 wef 31/12/2021]\n(4) Sub‑paragraph (1) does not apply to any income of an ACIE that is paid out of income derived by any approved related party of the ACIE —\n(a)before 24 February 2015 from the leasing of an intermodal equipment under a finance lease that is treated as a sale under regulations made under section 10C(1) of the Act;\n[S 35/2023 wef 31/12/2021]\n(b)on or after 12 December 2018 from the leasing of an intermodal equipment that is acquired by the approved related party by way of a finance lease entered into with an entity that is not the ACIE or another approved related party of the ACIE; or\n(c)from any activity carried out by the approved related party through a permanent establishment in Singapore.\n(5) In this paragraph —\n“intermodal equipment” has the meaning given by section 43P(7) of the Act;\n[S 35/2023 wef 31/12/2021]\n“qualifying period”, in relation to an intermodal equipment, means the period specified under section 43P(5) of the Act during which income from the leasing of the equipment, or the class of intermodal equipment to which that equipment belongs, is subject to a concessionary tax rate under section 43P(1) of the Act.\n[S 35/2023 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Concessionary Rate of Tax for Foreign Income of Approved Container Investment Enterprise) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

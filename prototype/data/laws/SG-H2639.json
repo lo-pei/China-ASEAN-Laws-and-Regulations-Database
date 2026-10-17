@@ -1,7 +1,7 @@
 {
  "id": "SG-H2639",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护区）（第 5 号）命令 2025",
   "en": "Infrastructure Protection (Protected Areas) (No. 5) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Area\nDirector Operations,\nImmigration & Checkpoints Authority\nICA SERVICES CENTRE\nAll that area comprised in part of Lot 3003W (PT) in Town Subdivision No. 17 occupied by “ICA SERVICES CENTRE” containing an area of about 7,173.6 square metres and bounded approximately as follows:\nCommencing at a point 32,152.427 metres North and 31,303.382 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n32,152.427\n31,303.382\n32,141.961\n31,313.116\n32,141.987\n31,313.145\n32,135.188\n31,319.468\n32,135.260\n31,319.588\n32,134.660\n31,320.147\n32,134.584\n31,320.070\n32,132.761\n31,321.776\n32,129.455\n31,318.280\n32,105.069\n31,341.199\n32,108.274\n31,344.740\n32,107.447\n31,345.510\n32,138.165\n31,378.455\n32,161.191\n31,403.137\n32,171.138\n31,402.302\n32,171.161\n31,402.654\n32,196.939\n31,400.481\n32,196.908\n31,400.129\n32,201.503\n31,399.721\n32,205.265\n31,396.228\n32,231.097\n31,391.557\n32,241.941\n31,381.425\n32,201.572\n31,338.123\n32,201.417\n31,338.249\n32,198.362\n31,334.987\n32,194.021\n31,339.040\n32,191.692\n31,336.550\n32,189.127\n31,339.074\n32,187.289\n31,337.113\n32,185.450\n31,338.828\nto the point of commencement.\nThe boundaries of “ICA SERVICES CENTRE” are more particularly delineated in the Survey Plan No. LBH/18728GZ1 set out below.\n[S 777/2025 wef 05/12/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Areas) (No. 5) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

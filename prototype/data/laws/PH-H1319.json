@@ -1,7 +1,7 @@
 {
  "id": "PH-H1319",
  "title": {
-  "zh": null,
+  "zh": "1955年土地改革法",
   "en": "Land Reform Act of 1955",
   "orig": "An Act Amending Certain Sections of Republic Act Numbered Fourteen Hundred, Otherwise Known as the “Land Reform Act of 1955”"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Land Reform Act of 1955",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

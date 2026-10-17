@@ -1,7 +1,7 @@
 {
  "id": "PH-H10616",
  "title": {
-  "zh": null,
+  "zh": "宣布北伊罗戈省 Paoay 市镇一块土地为国家综合保护区系统下保护景观类别的保护区，称为 Paoay 湖保护景观，规定其管理并为此拨款的法案",
   "en": "An Act Declaring A Parcel of Land Located In The Municipality of Paoay In The Province of Ilocos Norte, A Protected Area With The Category of Protected Landscape Under The National Integrated Protected Areas System, To Be Referred To As The Paoay Lake Protected Landscape, Providing For Its Management, and Appropriating Funds Therefor",
   "orig": "An Act Declaring A Parcel of Land Located In The Municipality of Paoay In The Province of Ilocos Norte, A Protected Area With The Category of Protected Landscape Under The National Integrated Protected Areas System, To Be Referred To As The Paoay Lake Protected Landscape, Providing For Its Management, and Appropriating Funds Therefor"
  },
@@ -200,5 +200,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring A Parcel of Land Located In The Municipality of Paoay In The Province of Ilocos Norte, A Protected Area With The Category of Protected Landscape Under The National Integrated Protected Areas System, To Be Referred To As The Paoay Lake Protected Landscape, Providing For Its Management, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

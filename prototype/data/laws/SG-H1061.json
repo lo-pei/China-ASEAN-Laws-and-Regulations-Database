@@ -1,7 +1,7 @@
 {
  "id": "SG-H1061",
  "title": {
-  "zh": null,
+  "zh": "关税（持特别用途执照的机动车）（豁免）条例",
   "en": "Customs (Motor Vehicles with Special Purpose Licences) (Exemption) Regulations",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2(1)\nFirst column\nSecond column\nThird column\nCompany\nType of vehicle\nVehicle chassis number\n1. DaimlerChrysler South East Asia Pte Ltd\n(a) Mercedes Benz E 220 CDI\nWDB2110082B116681\n(b) Mercedes Benz E 220 CDI\nWDB2110082B118876\n(c) Mercedes Benz ML320CDI\nWDC1641222A246574\n(d) Mercedes Benz S320CDI L\nWDD2211222A147333\n(e) Mercedes Benz S320CDI L\nWDD2211222A144097\n(f) Mercedes Benz S320CDI L\nWDD2211222A147445\n(g) Mercedes Benz S320CDI L\nWDD2211222A147548\n2. Diesel Tech Pte Ltd\n(a) Volkswagen Touareg 3.0 V6 TDI\nWVGZZZ7LZ7D067821\n(b) Volkswagen Passat 2.0 TDI\nWVWZZZ3CZ7E170564\n3. Kuok Oils & Grains Pte Ltd\nVolkswagen Passat\nWVWZZZ3CZ7P136910\n4. Robert Bosch (South East Asia) Pte Ltd\n(a) Volkswagen Touareg 3.0 V6 TDI\nWVGZZZ7LZ7D071775\n(b) Volkswagen Touran\nWVGZZZ1TZ7W051066\n5. Volkswagen Group Singapore Pte Ltd\n(a) Volkswagen Touareg 3.0 V6 TDI\nWVGZZZ7LZ7D065616\n(b) Volkswagen Touareg 3.0 V6 TDI\nWVGZZZ7LZ7D066438\n(c) Volkswagen Passat\nWVWZZZ3CZ7E160746\n[G.N. No. S 382/2007]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Motor Vehicles with Special Purpose Licences) (Exemption) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

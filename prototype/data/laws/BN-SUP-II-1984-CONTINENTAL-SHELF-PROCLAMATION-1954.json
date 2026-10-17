@@ -1,0 +1,72 @@
+{
+ "id": "BN-SUP-II-1984-CONTINENTAL-SHELF-PROCLAMATION-1954",
+ "title": {
+  "zh": "SUP. II 1984 版大陆架公告 1954",
+  "en": "SUP. II 1984 ED CONTINENTAL SHELF PROCLAMATION 1954",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p32",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 452,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "SUP.-II-1984-ED-CONTINENTAL-SHELF-PROCLAMATION-1954.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《SUP.-II-1984-ED-CONTINENTAL-SHELF-PROCLAMATION-1954.pdf》（1 页），本次切分 2 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-SUP-II-1984-CONTINENTAL-SHELF-PROCLAMATION-1954-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "The area of the continental shelf, being the seabed and its subsoil which lies beneath the high seas contiguous to the territorial waters of Brunei, is herf!by annexed to and shall form part of Brunei."
+   }
+  },
+  {
+   "id": "BN-SUP-II-1984-CONTINENTAL-SHELF-PROCLAMATION-1954-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "Nothing in this proclamation shall affect the character as high seas of any waters above the said area of the continental shelf. Given at Brunei this 30th day of June, 1954, under the hand and seal of His Highness the Sultan of Brunei. B.L.R.O. 111984"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUP. II 1984 ED CONTINENTAL SHELF PROCLAMATION 1954",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

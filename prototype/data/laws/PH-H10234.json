@@ -1,7 +1,7 @@
 {
  "id": "PH-H10234",
  "title": {
-  "zh": null,
+  "zh": "宣布马斯巴特省马斯巴特市与 Mobo 市镇的一块土地为国家综合保护区系统下自然生物区类别的保护区，称为 Tugbo 自然生物区，规定其管理并为此拨款的法案",
   "en": "An Act Declaring a Parcel of Land Located in the City of Masbate and the Municipality of Mobo, in the Province of Masbate, a Protected Area With the Category of Natural Biotic Area Under the National Integrated Protected Areas System (NIPAS), to Be Referred to as the Tugbo Natural Biotic Area, Providing for Its Management, and Appropriating Funds Therefor",
   "orig": "An Act Declaring a Parcel of Land Located in the City of Masbate and the Municipality of Mobo, in the Province of Masbate, a Protected Area With the Category of Natural Biotic Area Under the National Integrated Protected Areas System (NIPAS), to Be Referred to as the Tugbo Natural Biotic Area, Providing for Its Management, and Appropriating Funds Therefor"
  },
@@ -234,7 +234,7 @@
    }
   },
   {
-   "id": "PH-H10234-A6_2",
+   "id": "PH-H10234-A6-d2",
    "no": 6,
    "noLabel": {
     "en": "Section 6."
@@ -244,7 +244,16 @@
    },
    "text": {
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring a Parcel of Land Located in the City of Masbate and the Municipality of Mobo, in the Province of Masbate, a Protected Area With the Category of Natural Biotic Area Under the National Integrated Protected Areas System (NIPAS), to Be Referred to as the Tugbo Natural Biotic Area, Providing for Its Management, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

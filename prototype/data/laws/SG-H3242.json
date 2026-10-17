@@ -1,7 +1,7 @@
 {
  "id": "SG-H3242",
  "title": {
-  "zh": null,
+  "zh": "滥用毒品（新加坡武装部队）（豁免）条例",
   "en": "Misuse of Drugs (Singapore Armed Forces) (Exemption) Regulations",
   "orig": null
  },
@@ -126,5 +126,13 @@
     "en": "THE SCHEDULE\nRegulation 2(c)(ii)\nFORM A\nMISUSE OF DRUGS ACT\n(CHAPTER 185)\nMISUSE OF DRUGS (SINGAPORE ARMED FORCES)\n(EXEMPTION) REGULATIONS\nI, ……………………….…………………………………., in my capacity as …………………………………………., and in accordance with regulation 2 of the Misuse of Drugs (Singapore Armed Forces) (Exemption) Regulations, hereby authorise ………………………………………………, to be in possession of the following controlled drugs between ……………. hours on …………………. and ……………. hours on ……………….…. and to supply or administer the drugs to any member of the Singapore Armed Forces as and when necessary:\nNAME OF DRUG\nQUANTITY\n………………………………………………\n……….…………….\n……………………………………………….\n……….…………….\n……………………………………………….\n………….………….\nDated this …………. day of …………….……………....\n..…………………………….\n(Signature of issuing officer).\nNote:The holder of this authority shall comply with regulation 4 of the Misuse of Drugs (Singapore Armed Forces) (Exemption) Regulations, which regulation is reproduced below:\n“Responsibility of persons authorised\n4. Any member of the Singapore Armed Forces authorised in accordance with regulation 2 shall —\n(a)at all times keep the drug in the locked receptacle provided for the purpose wherever this is possible;\n(b)keep a record of the supply or administration of the drug in his charge in Form B in the Schedule; and\n(c)return the drug supplied to him in accordance with any authorisation issued under these Regulations to the store from where it was obtained when the drug is no longer required or at the expiry of the authorisation, as the case may be.”.\nRegulation 4(b)\nFORM B\nMISUSE OF DRUGS ACT\n(CHAPTER 185)\nMISUSE OF DRUGS (SINGAPORE ARMED FORCES) (EXEMPTION) REGULATIONS\nRECORD OF ISSUE AND ADMINISTRATION OF DRUGS\nDate\nTime\nIdentity card no., rank and name of person to whom the drug was supplied or administered\nName of drug\nForm in which supplied or administered\nQuantity supplied or administered"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Misuse of Drugs (Singapore Armed Forces) (Exemption) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3704",
  "title": {
-  "zh": null,
+  "zh": "规范临床实验室的运营与维护、要求其向卫生部登记、规定违规处罚并为其他目的法案",
   "en": "An Act Regulating the Operation and Maintenance of Clinical Laboratories and Requiring the Registration of the Same with the Department of Health, Providing Penalty for the Violation Thereof, and for Other Purposes",
   "orig": "An Act Regulating the Operation and Maintenance of Clinical Laboratories and Requiring the Registration of the Same with the Department of Health, Providing Penalty for the Violation Thereof, and for Other Purposes"
  },
@@ -121,5 +121,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Regulating the Operation and Maintenance of Clinical Laboratories and Requiring the Registration of the Same with the Department of Health, Providing Penalty for the Violation Thereof, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

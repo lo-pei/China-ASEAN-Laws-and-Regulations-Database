@@ -1,7 +1,7 @@
 {
  "id": "SG-H2913",
  "title": {
-  "zh": null,
+  "zh": "致醉物质法 1987",
   "en": "Intoxicating Substances Act 1987",
   "orig": null
  },
@@ -816,5 +816,13 @@
     "en": "THE SCHEDULE\nSections 2, 14(1) and 15(1)\nFirst column\nSecond column\nToluene\n1 microgramme per 1 millilitre of blood.\n[Act 5 of 2025 wef 09/03/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Intoxicating Substances Act 1987",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

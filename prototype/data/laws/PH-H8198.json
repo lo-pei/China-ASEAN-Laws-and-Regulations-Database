@@ -1,7 +1,7 @@
 {
  "id": "PH-H8198",
  "title": {
-  "zh": null,
+  "zh": "Biñan 市之宪章",
   "en": "Charter of the City of Biñan",
   "orig": "Charter of the City of Biñan An Act Converting the Municipality of Biñan in the Province of Laguna into a Component City to Be Known as the City of Biñan"
  },
@@ -867,5 +867,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in at least two (2) newspapers of general and local circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Charter of the City of Biñan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

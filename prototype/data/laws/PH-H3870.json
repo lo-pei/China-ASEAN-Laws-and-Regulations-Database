@@ -1,7 +1,7 @@
 {
  "id": "PH-H3870",
  "title": {
-  "zh": null,
+  "zh": "免除Gemma Cruz小姐作为国际小姐所得一万美元奖金的所得税的法案",
   "en": "An Act Exempting from Income Tax the Ten Thousand Dollars Prize of Miss Gemma Cruz as Miss International",
   "orig": "An Act Exempting from Income Tax the Ten Thousand Dollars Prize of Miss Gemma Cruz as Miss International"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Exempting from Income Tax the Ten Thousand Dollars Prize of Miss Gemma Cruz as Miss International",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

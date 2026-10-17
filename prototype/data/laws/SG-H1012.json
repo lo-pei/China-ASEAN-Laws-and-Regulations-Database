@@ -1,7 +1,7 @@
 {
  "id": "SG-H1012",
  "title": {
-  "zh": null,
+  "zh": "货币法——纸币面额与特征",
   "en": "Currency Act — Denomination and Characteristics of Currency Note",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDenomination\nSize\nDesign\nPredominant and Secondary Colours\n$50\nLength – 156mm\nWidth – 74mm\nFront\nBack\nFront\nBack\nThe front design features the portrait of Singapore’s first President, the late Encik Yusof bin Ishak. The word “SINGAPORE” is printed on the bottom centre portion. The Singapore Arms is positioned on the upper left-hand corner while the denomination numeral “50” is located at the upper middle and bottom right-hand corner. The silver coloured octagonal kinegram showing colourful images of the denomination numeral “50”, BCCS logo and the letters “BCCS” is located above the words “THIS NOTE IS LEGAL TENDER”. The signature and seal of Mr Lee Hsien Loong, Chairman, Board of Commissioners of Currency, Singapore, are below the words “FIFTY DOLLARS”. The “Lift Twin”, bearing the latent image of the BCCS logo and the Singapore Lion symbol, is at the lower centre of the note. A “Singapore Lion” is located at the left-hand side of the word “SINGAPORE”. One set of the asymmetrical serial number appears horizontal on the left-hand side while the other set appears vertical on the right-hand side.\nThe back design features 4 ethnic musical instruments, the Chinese Pipa, Malay Kompang, Indian Veena and Classical Violin, as well as 2 local artworks entitled “Gibbons” and “Drying Salted Fish” respectively. The word “SINGAPORE” is located at the top centre portion of the note. The “Singapore Lion” is to the lower left of the Portrait watermark and is in perfect registration with that on the front. The denomination numeral “50” is located at the top left-hand corner and to the left of the “Singapore Lion”. The word “ARTS” is located below the artwork “Drying Salted Fish”.\nPredominant\nColour: Blue\nSecondary Colours:\nDark Blue and Red\nPredominant\nColour: Blue\nSecondary Colours:\nDark Blue and Red\nThe note has one windowed machine-readable thread which is interwoven in the paper running vertically down the back of the note. A watermark of the President’s portrait is incorporated on the left-hand side of the front of the note. The watermark is not overprinted on both the front and back. A highlight watermark which corresponds with the Braille pattern at the top right-hand corner of the front design, is located at the bottom of the Portrait watermark."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency Act — Denomination and Characteristics of Currency Note",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

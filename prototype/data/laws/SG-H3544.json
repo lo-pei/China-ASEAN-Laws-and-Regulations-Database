@@ -1,7 +1,7 @@
 {
  "id": "SG-H3544",
  "title": {
-  "zh": null,
+  "zh": "规划（农业用途土地开发——备案授权）公告 2019",
   "en": "Planning (Development of Land for Agricultural Use — Lodgment Authorisation) Notification 2019",
   "orig": null
  },
@@ -139,5 +139,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nExcluded area\n: Excluded Area"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Planning (Development of Land for Agricultural Use — Lodgment Authorisation) Notification 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

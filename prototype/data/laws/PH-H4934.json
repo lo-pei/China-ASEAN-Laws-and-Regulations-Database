@@ -1,7 +1,7 @@
 {
  "id": "PH-H4934",
  "title": {
-  "zh": null,
+  "zh": "修订第3601号共和国法（即《设立国家灌溉局法》）第9条并为其他目的法案",
   "en": "An Act Amending Section Nine of Republic Act Numbered Thirty-Six Hundred and One Entitled \"An Act Creating the National Irrigation Administration\", and for Other Purposes.",
   "orig": "An Act Amending Section Nine of Republic Act Numbered Thirty-Six Hundred and One Entitled \"An Act Creating the National Irrigation Administration\", and for Other Purposes."
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, October 4, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section Nine of Republic Act Numbered Thirty-Six Hundred and One Entitled \"An Act Creating the National Irrigation Administration\", and for Other Purposes.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

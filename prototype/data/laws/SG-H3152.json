@@ -1,7 +1,7 @@
 {
  "id": "SG-H3152",
  "title": {
-  "zh": null,
+  "zh": "心智能力（专业代理人登记）条例 2018",
   "en": "Mental Capacity (Registration of Professional Deputies) Regulations 2018",
   "orig": null
  },
@@ -168,5 +168,13 @@
     "en": "10. For the purposes of section 25A(10) of the Act, where a person’s registration as a professional deputy is cancelled, the Public Guardian must notify the following persons of the cancellation within 21 days after the effective date of the cancellation:\n(a)where the person was appointed as a donee under a lasting power of attorney, any other donee or replacement donee specified in the lasting power of attorney;\n(b)where the person was appointed as a deputy by the court, any other deputy or successor deputy appointed by the court for any P for whom that person was appointed as a deputy;\n(c)in relation to P for whom the person was appointed, any director, manager, or any other similar officer responsible for the management, of a care facility that P is cared for or resides in."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Mental Capacity (Registration of Professional Deputies) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

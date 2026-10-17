@@ -1,7 +1,7 @@
 {
  "id": "SG-H840",
  "title": {
-  "zh": null,
+  "zh": "媒介与农药管制（农药与媒介驱避剂注册）条例 2023",
   "en": "Control of Vectors and Pesticides (Registration of Pesticides and Vector Repellents) Regulations 2023",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nRegulation 4(1)(c)\nFormulation codes for pesticides\nand vector repellents\nSymbol\nMeaning\nAE\nAerosol dispenser\nAL\nOther liquids to be applied undiluted\nAP\nAll other products to be applied undiluted\nBR\nBriquette\nCB\nBait concentrate\nCP\nContact powder\nCS\nCapsule suspension\nDC\nDispersible concentrate\nDP\nDustable powder\nDS\nPowder for dry seed treatment\nDT\nTablets for direct application\nEC\nEmulsifiable concentrate\nEG\nEmulsifiable granule\nEO\nEmulsion, water in oil\nEP\nEmulsifiable powder\nES\nEmulsion for seed treatment\nEW\nEmulsion, oil in water\nFS\nFlowable concentrate for seed treatment\nFU\nSmoke generator\nGA\nGas\nGE\nGas generating product\nGL\nEmulsifiable gel\nGR\nGranule\nGS\nGrease\nGW\nWater soluble gel\nHN\nHot fogging concentrate\nKK\nCombi-pack solid/liquid\nKL\nCombi-pack liquid/liquid\nKN\nCold fogging concentrate\nKP\nCombi-pack solid/solid\nLN\nLong-lasting insecticidal net\nLS\nSolution for seed treatment\nMC\nMosquito coil\nME\nMicroemulsion\nOD\nOil dispersion\nOF\nOil miscible flowable concentrate (oil miscible suspension)\nOL\nOil miscible liquid\nOP\nOil dispersible powder\nPA\nPaste\nPR\nPlant rodlet\nPS\nSeed coated with a pesticide\nRB\nBait (ready for use)\nSC\nSuspension concentrate (= flowable concentrate)\nSD\nSuspension concentrate for direct application\nSE\nSuspo-emulsion\nSG\nWater soluble granule\nSL\nSoluble concentrate\nSO\nSpreading oil\nSP\nWater soluble powder\nST\nWater soluble tablets\nSU\nUltra-low volume (ULV) suspension\nTB\nTablet\nTC\nTechnical material\nTK\nTechnical concentrate\nUL\nUltra-low volume (ULV) liquid\nVP\nVapour releasing product\nWG\nWater dispersible granule\nWP\nWettable powder\nWS\nWater dispersible powder for slurry treatment\nWT\nWater dispersible tablets\nXX\nOthers\nZC\nA mixed formulation of CS and SC\nZE\nA mixed formulation of CS and SE\nZW\nA mixed formulation of CS and EW"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Control of Vectors and Pesticides (Registration of Pesticides and Vector Repellents) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3107",
  "title": {
-  "zh": null,
+  "zh": "调解规则 2017",
   "en": "Mediation Rules 2017",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 12(3)(c) of the Act, a mediated settlement agreement must contain all of the following information:\n(a)the name of each party to the mediated settlement agreement;\n(b)the name of each mediator conducting the mediation;\n(c)the name of the mediation service provider (if any) administering the mediation;\n(d)the name of each certification scheme (if any) under which each mediator conducting the mediation is certified;\n(e)the date on which the mediated settlement agreement is made;\n(f)the terms of the settlement reached by the parties at the mediation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Mediation Rules 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

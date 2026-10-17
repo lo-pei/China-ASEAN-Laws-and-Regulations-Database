@@ -1,7 +1,7 @@
 {
  "id": "PH-H6339",
  "title": {
-  "zh": null,
+  "zh": "修订依第 5321 号共和国法授予 Worldwide Communications, Inc. 的特许权第 1 条、将其续展二十五（25）年并为其他目的",
   "en": "An Act Amending Section One of the Franchise of Worldwide Communications, Inc., Granted Under Republic Act Numbered Five Thousand Three Hundred Twenty-one and Extending It for Another Twenty-five (25) Years, and for Other Purposes",
   "orig": "An Act Amending Section One of the Franchise of Worldwide Communications, Inc., Granted Under Republic Act Numbered Five Thousand Three Hundred Twenty-one and Extending It for Another Twenty-five (25) Years, and for Other Purposes"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H6339-A1_2",
+   "id": "PH-H6339-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Nature and Scope of Franchise. - Subject to the provisions of the Constitution and applicable laws, rules and regulations on public telecommunications, there is hereby granted to Worldwide Communications, Inc., its successors or assigns a franchise to install, operate, maintain, lease and manage wire and/or wireless public telecommunications systems throughout the Philippines and between the Philippines and other countries and for the purpose of providing said telecommunications services, to construct, own, operate and maintain telecommunications systems in and between provinces, cities and municipalities of the Philippines, in, on, over or under lands and waters, as may be necessary and best adapted to the provision of telecommunications services, to contract for telecommunication lines in and between the Philippines and other countries and territories, to use any technology whether digital or analog, via cable, satellite, microwave, optical fiber, or any transmission, medium, and with such telecommunication apparatus as may be necessary for the provision of such telecommunication services, and to connect and keep connected its telecommunications systems to other telecommunication system.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6339-A2",
@@ -100,5 +101,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Section One of the Franchise of Worldwide Communications, Inc., Granted Under Republic Act Numbered Five Thousand Three Hundred Twenty-one and Extending It for Another Twenty-five (25) Years, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

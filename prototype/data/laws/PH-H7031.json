@@ -1,7 +1,7 @@
 {
  "id": "PH-H7031",
  "title": {
-  "zh": null,
+  "zh": "将巴丹省巴丹省医院升格为三级二级医院，床位增至三百五十（350）张，由卫生部直接控制、监督与管理，并为此拨款及为其他目的法案",
   "en": "An Act Upgrading the Bataan Provincial Hospital in the Province of Bataan, Into a Tertiary Level II Hospital, Increasing Its Bed Capacity to Three Hundred Fifty (350) Beds, Under the Direct Control, Supervision and Management of the Department of Health, and Appropriating Funds Therefor, and for Other Purposes",
   "orig": "An Act Upgrading the Bataan Provincial Hospital in the Province of Bataan, Into a Tertiary Level II Hospital, Increasing Its Bed Capacity to Three Hundred Fifty (350) Beds, Under the Direct Control, Supervision and Management of the Department of Health, and Appropriating Funds Therefor, and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect immediately upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading the Bataan Provincial Hospital in the Province of Bataan, Into a Tertiary Level II Hospital, Increasing Its Bed Capacity to Three Hundred Fifty (350) Beds, Under the Direct Control, Supervision and Management of the Department of Health, and Appropriating Funds Therefor, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

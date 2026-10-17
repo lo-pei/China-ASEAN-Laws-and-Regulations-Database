@@ -1,7 +1,7 @@
 {
  "id": "PH-H5446",
  "title": {
-  "zh": null,
+  "zh": "调整蒸馏酒、葡萄酒、发酵酒与卷烟的消费税，为此修订国家国内税收法典（经修正）第138条（a）与（b）项、第139条、第140条与第142条（c）与（d）项",
   "en": "An Act Modifying the Excise Tax on Distilled Spirits, Wines, Fermented Liquor and Cigarettes, Amending for the Purpose Sections 138(a) AND (b), 139, 140 and 142(c) and (d) of the National Internal Revenue Code, as Amended",
   "orig": "An Act Modifying the Excise Tax on Distilled Spirits, Wines, Fermented Liquor and Cigarettes, Amending for the Purpose Sections 138(a) AND (b), 139, 140 and 142(c) and (d) of the National Internal Revenue Code, as Amended"
  },
@@ -70,5 +70,13 @@
     "en": "Except as provided herein, this Act shall take effect fifteen (15) days following its publication in a newspaper of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Modifying the Excise Tax on Distilled Spirits, Wines, Fermented Liquor and Cigarettes, Amending for the Purpose Sections 138(a) AND (b), 139, 140 and 142(c) and (d) of the National Internal Revenue Code, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

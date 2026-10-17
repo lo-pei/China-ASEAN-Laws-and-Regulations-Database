@@ -1,7 +1,7 @@
 {
  "id": "SG-H1699",
  "title": {
-  "zh": null,
+  "zh": "保健产品（医疗器械）条例 2010",
   "en": "Health Products (Medical Devices) Regulations 2010",
   "orig": null
  },
@@ -807,7 +807,7 @@
    }
   },
   {
-   "id": "SG-H1699-A27",
+   "id": "SG-H1699-A27.000001",
    "no": 27.000001,
    "noLabel": {
     "en": "27."
@@ -1337,5 +1337,13 @@
     "en": "FIFTH SCHEDULE\nRegulation 40(1)\nImplantable Medical Devices\n1. Heart valve.\n2. Annuloplasty ring.\n3. The following active implantable medical device systems:\n(a)all models of implantable pacemakers and leads;\n(b)all models of implantable defibrillators and leads;\n(c)artificial heart;\n(d)implantable ventricular support system; and\n(e)implantable drug infusion system.\n4. All orthopaedic joint replacement implants.\n5. The following neurological implantable devices:\n5.—(a) neurological stents;\n(b)neurological implants;\n(c)implantable neurostimulation devices and leads.\n[S 318/2018 wef 01/06/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Health Products (Medical Devices) Regulations 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-276-2026-SUPPLEMENTAL-CONTRIBUTORY-PENSIONS-TRUST-ACT",
  "title": {
-  "zh": null,
+  "zh": "补充缴费养老金信托法",
   "en": "SUPPLEMENTAL CONTRIBUTORY PENSIONS TRUST ACT",
   "orig": null
  },
@@ -560,5 +560,13 @@
     "en": "(1) The Minister may, after consultation with the Board and with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations which are necessary or expedient for giving effect to or for carrying out the provisions of this Act and for the due administration thereof.\n\n(2) Without prejudice to the generality of subsection (1), the Minister may make regulations —\n\n(a) to provide for the disposal of amounts which are unclaimed, unpaid or otherwise remaining in the Trust;\n\n(b) to specify and periodically revise the class of self-employed persons for the purposes of section 9;\n\n(c) to provide for rates, amounts and time period for contributions specified under this Act;\n\n(d) to determine annually the average wage applicable for the following financial year;\n\n(e) (Deleted by S 13/2024);\n\n(f) to refine the terms and operation of the SCP benefit and survivorship benefit;\n\n(g) to prescribe anything required to be or which may be prescribed under this Act.\n\n(3) The Board may, in addition to the other duties imposed and powers conferred upon it by this Act, make rules —\n\n(a) to provide for the manner of payment and collection of contributions and any matters incidental thereto, including by electronic or other means;\n\n(b) to provide for —\n\n(i) the return of contributions under this Act or any part of such contributions paid in error; and\n\n(ii) the payment of contributions under this Act, or of any part of such contributions omitted to be paid in error;\n\n(c) to provide for the keeping of books, accounts or records by\n\n(d) to provide for the procedure for payments from the Trust;\n\n(e) to provide for the evidence to be produced and the person, officer or authority to whom the evidence is to be produced for the purposes of section 33;\n\n(f) to provide for the procedure to be followed when contributions are paid into the Trust;\n\n(g) to provide, in case where an employee is employed concurrently by two or more employers, the extent of the obligation of those employers as to payment of contributions under this Act;\n\n(h) to provide for the form and period of any notice to be given by an employee to his employer under section 8;\n\n(i) to provide for the returns to be made and the forms and registers to be used in the carrying out of the provisions of this Act;\n\n(j) to provide for the registration with the Board of employers, employees and self-employed persons;\n\n(k) to prescribe fees;\n\n(l) to prescribe any other thing required to be or which may be\n\n(m) generally for giving effect to the objects and purposes of this Act and for the due administration thereof. [S 14/2024] (section 8)\n\nRATES OF CONTRIBUTIONS"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SUPPLEMENTAL CONTRIBUTORY PENSIONS TRUST ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

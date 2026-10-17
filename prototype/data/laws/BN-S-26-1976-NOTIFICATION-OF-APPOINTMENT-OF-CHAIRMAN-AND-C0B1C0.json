@@ -1,7 +1,7 @@
 {
  "id": "BN-S-26-1976-NOTIFICATION-OF-APPOINTMENT-OF-CHAIRMAN-AND-C0B1C0",
  "title": {
-  "zh": null,
+  "zh": "文莱经济发展局主席及成员任命公告",
   "en": "NOTIFICATION OF APPOINTMENT OF CHAIRMAN AND MEMBERS OF THE BRUNEI ECONOMIC DEVELOPMENT BOARD",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "No. S 26\n\nECONOMIC DEVELOPMENT BOARD\n\nENACTMENT 1975 Appointment under Section 4 ( 1 ) In exercise of the powers conferred by Section 4(1) of the Brunei Economic Development Board Enactment 1975, His Highness the Sultan and Yang Di-Pertuan has been pleased to appoint the following telah dengan sukachita-nya melantek nama2 yang berikut sebagai Pengerusi dan Ahli-ahli Lembaga Kemajuan Ekonomi mu!ai dari 13hb Januari, 1976. Pengerusi : Yang Amat Berhormat Mentri Besar . Ahli-Ahli Kerana Jawatan : 1 ) Yang Berhormat Pegawai Kewangan Negara ; 2) Pesurohjaya Tanah; 3) Pengarah Yunit Peranchang Ekonomi. Ahli-Ahli : 1) Yang Berhormat Setia Usaha Kerajaan: 2) Yang Berhormat Pehin Jawatan Dalam Seri Maharaja Dato Laila Utama Awang Haji Abdul Rahman bin Pehin Orang Kaya Shahbandar Awang Haji Mohd Taha DK SPMB DSSUB DSLJ PSB MVO POAS PHBS ; 3 ) Yang Berhormat Dato Seri Laila Jasa Awang Haji Talib bin Derwish USLJ SMB PHBS ; 4) Awang G. C. Harper selaku wakil Sharikat Minyak Shell Brunei Berhad di-Bandar Seri Begawan; dan 5) Pengurus, Hongkong dan Shanghai Bank, Bandar Seri Begawan.\n\nP D N LAILA DI-RAJA PENGIRAN ABDUL MOMIN Mentri Besar, Brunei. Bil : SUK 212175."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "NOTIFICATION OF APPOINTMENT OF CHAIRMAN AND MEMBERS OF THE BRUNEI ECONOMIC DEVELOPMENT BOARD",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

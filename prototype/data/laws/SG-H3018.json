@@ -1,7 +1,7 @@
 {
  "id": "SG-H3018",
  "title": {
-  "zh": null,
+  "zh": "法律服务（人事委员会）条例 2022",
   "en": "Legal Service (Personnel Boards) Regulations 2022",
   "orig": null
  },
@@ -416,5 +416,13 @@
     "en": "THE SCHEDULE\nRegulations 3(1), 4(1) and 5(1)\nLegal Service Personnel Boards\nPart 1\nappointments, POSTINGs and transfers board\nChairperson\nAttorney-General Lucien Wong Yuen Kuai\nMembers\nDeputy Attorney‑General Lionel Yee Woon Chin\nDeputy Attorney‑General Tai Wei Shyong\nSolicitor-General Hong Fan Sin Daphne\n[S 18/2025 wef 14/01/2025]\n[S 890/2022 wef 02/01/2023]\n[S 890/2022 wef 04/11/2022]\nPart 2\nspecial personnel board\nChairperson\nAttorney-General Lucien Wong Yuen Kuai\nMembers\nDeputy Attorney‑General Lionel Yee Woon Chin\nDeputy Attorney‑General Tai Wei Shyong\nPart 3\nsenior personnel board\nChairperson\nAttorney-General Lucien Wong Yuen Kuai\nMembers\nDeputy Attorney‑General Tai Wei Shyong\nSolicitor-General Hong Fan Sin Daphne\n[S 18/2025 wef 14/01/2025]\n[S 890/2022 wef 02/01/2023]\n[S 890/2022 wef 04/11/2022]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Legal Service (Personnel Boards) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

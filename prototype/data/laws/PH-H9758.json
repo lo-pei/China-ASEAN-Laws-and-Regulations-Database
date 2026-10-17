@@ -1,7 +1,7 @@
 {
  "id": "PH-H9758",
  "title": {
-  "zh": null,
+  "zh": "将三宝颜市 Pasobolong 的民答那峨中央疗养院提升为三级医院，其综合护理床位由五十（50）张增至两百（200）张并为其拨款的法案",
   "en": "An Act Upgrading the Mindanao Central Sanitarium in Pasobolong, Zamboanga City into a Tertiary Level Hospital, Increasing its Bed Capacity for General Care Services From Fifty (50) to Two Hundred (200) Beds, and Appropriating Funds Therefor",
   "orig": "An Act Upgrading the Mindanao Central Sanitarium in Pasobolong, Zamboanga City into a Tertiary Level Hospital, Increasing its Bed Capacity for General Care Services From Fifty (50) to Two Hundred (200) Beds, and Appropriating Funds Therefor"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Upgrading the Mindanao Central Sanitarium in Pasobolong, Zamboanga City into a Tertiary Level Hospital, Increasing its Bed Capacity for General Care Services From Fifty (50) to Two Hundred (200) Beds, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

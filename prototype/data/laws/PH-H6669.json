@@ -1,7 +1,7 @@
 {
  "id": "PH-H6669",
  "title": {
-  "zh": null,
+  "zh": "规定菲律宾糖尿病预防与控制措施、设立国家糖尿病委员会、拨款并为其他目的法案",
   "en": "An Act Prescribing Measures for the Prevention and Control of Diabetes Mellitus in the Philippines, Providing for the Creation of a National Commission on Diabetes, Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act Prescribing Measures for the Prevention and Control of Diabetes Mellitus in the Philippines, Providing for the Creation of a National Commission on Diabetes, Appropriating Funds Therefor and for Other Purposes"
  },
@@ -210,5 +210,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days following its publication in the Official Gazette or in at least two (2) newspapers of general circulation.\nApproved, June 11, 1996."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prescribing Measures for the Prevention and Control of Diabetes Mellitus in the Philippines, Providing for the Creation of a National Commission on Diabetes, Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

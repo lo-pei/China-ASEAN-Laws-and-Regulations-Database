@@ -1,7 +1,7 @@
 {
  "id": "PH-H1475",
  "title": {
-  "zh": null,
+  "zh": "将巴丹省巴兰加市镇波多里瓦斯村Puerto Rivas小学的名称变更为Maximino De Los Reyes纪念学校的法案",
   "en": "An Act Changing the Name of Puerto Rivas Elementary School in the Barrio of Puerto Rivas, Municipality of Balanga, Province of Bataan, to Maximino De Los Reyes Memorial School",
   "orig": "An Act Changing the Name of Puerto Rivas Elementary School in the Barrio of Puerto Rivas, Municipality of Balanga, Province of Bataan, to Maximino De Los Reyes Memorial School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Puerto Rivas Elementary School in the Barrio of Puerto Rivas, Municipality of Balanga, Province of Bataan, to Maximino De Los Reyes Memorial School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

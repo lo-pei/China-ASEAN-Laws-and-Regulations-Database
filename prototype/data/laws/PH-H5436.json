@@ -1,7 +1,7 @@
 {
  "id": "PH-H5436",
  "title": {
-  "zh": null,
+  "zh": "将Don Jose Sustiguer Monfort纪念国立学校设为西米沙鄢科学技术学院分校，并改设为同名的纪念国立学院的法案",
   "en": "An Act Making the Don Jose Sustiguer Monfort Memorial National School a Branch of the Western Visayas College of Science and Technology to be known as the Don Jose Sustiguer Monfort Memorial National College (Western Visayas College of Science and Technology Branch)",
   "orig": "An Act Making the Don Jose Sustiguer Monfort Memorial National School a Branch of the Western Visayas College of Science and Technology to be known as the Don Jose Sustiguer Monfort Memorial National College (Western Visayas College of Science and Technology Branch)"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making the Don Jose Sustiguer Monfort Memorial National School a Branch of the Western Visayas College of Science and Technology to be known as the Don Jose Sustiguer Monfort Memorial National College (Western Visayas College of Science and Technology Branch)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

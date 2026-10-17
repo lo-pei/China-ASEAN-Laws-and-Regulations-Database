@@ -1,7 +1,7 @@
 {
  "id": "PH-H1259",
  "title": {
-  "zh": null,
+  "zh": "在所有公立与私立院校课程中纳入何塞·黎刹生平、作品与著述（含小说《不许犯我》与《起义者》）课程，授权印制发行并为其他目的法案",
   "en": "An Act to Include in the Curricula of All Public and Private Schools, Colleges and Universities Courses on the Life, Works and Writings of Jose Rizal, Particularly His Novels Noli Me Tangere and El Filibusterismo, Authorizing the Printing and Distribution Thereof, and for Other Purposes",
   "orig": "An Act to Include in the Curricula of All Public and Private Schools, Colleges and Universities Courses on the Life, Works and Writings of Jose Rizal, Particularly His Novels Noli Me Tangere and El Filibusterismo, Authorizing the Printing and Distribution Thereof, and for Other Purposes"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Include in the Curricula of All Public and Private Schools, Colleges and Universities Courses on the Life, Works and Writings of Jose Rizal, Particularly His Novels Noli Me Tangere and El Filibusterismo, Authorizing the Printing and Distribution Thereof, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

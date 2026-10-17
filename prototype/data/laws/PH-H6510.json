@@ -1,7 +1,7 @@
 {
  "id": "PH-H6510",
  "title": {
-  "zh": null,
+  "zh": "授予 St. Jude Thaddeus 技术学院在北苏里高省及菲律宾其他地区设立、建设、运营和维护广播与电视站并为其他目的法案",
   "en": "An Act Granting the St. Jude Thaddeus Institute of Technology, Inc., a Franchise to Establish, Construct, Operate and Maintain Radio and Television Stations in the Province of Surigao Del Norte and Such Other Places Within the Philippines, and for Other Purposes",
   "orig": "An Act Granting the St. Jude Thaddeus Institute of Technology, Inc., a Franchise to Establish, Construct, Operate and Maintain Radio and Television Stations in the Province of Surigao Del Norte and Such Other Places Within the Philippines, and for Other Purposes"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity Clause. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the St. Jude Thaddeus Institute of Technology, Inc., a Franchise to Establish, Construct, Operate and Maintain Radio and Television Stations in the Province of Surigao Del Norte and Such Other Places Within the Philippines, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

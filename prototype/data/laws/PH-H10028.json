@@ -1,7 +1,7 @@
 {
  "id": "PH-H10028",
  "title": {
-  "zh": null,
+  "zh": "授权农业部在 2024 年前向耕种两公顷及以下稻田的农民提供直接现金援助，并为此使用依第 11203 号共和国法设立的大米竞争力提升基金中超过一百亿比索（P10B）的年度关税收入",
   "en": "An Act Authorizing the Department of Agriculture to Provide for Direct Cash Assistance to Farmers Who Are Tilling Two (2) Hectares and Below of Rice Land Until 2024, and Use for the Purpose the Annual Tariff Revenues in Excess of Ten Billion Pesos (P10B) of the Rice Competitiveness Enhancement Fund Created Under Republic Act No. 11203, Entitled \"An Act Liberalizing the Importation, Exportation and Trading of Rice, Lifting for the Purpose the Quantitative Import Restriction on Rice, and for Other Purposes\"",
   "orig": "An Act Authorizing the Department of Agriculture to Provide for Direct Cash Assistance to Farmers Who Are Tilling Two (2) Hectares and Below of Rice Land Until 2024, and Use for the Purpose the Annual Tariff Revenues in Excess of Ten Billion Pesos (P10B) of the Rice Competitiveness Enhancement Fund Created Under Republic Act No. 11203, Entitled \"An Act Liberalizing the Importation, Exportation and Trading of Rice, Lifting for the Purpose the Quantitative Import Restriction on Rice, and for Other Purposes\""
  },
@@ -112,5 +112,13 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Department of Agriculture to Provide for Direct Cash Assistance to Farmers Who Are Tilling Two (2) Hectares and Below of Rice Land Until 2024, and Use for the Purpose the Annual Tariff Revenues in Excess of Ten Billion Pesos (P10B) of the Rice Competitiveness Enhancement Fund Created Under Republic Act No. 11203, Entitled \"An Act Liberalizing the Importation, Exportation and Trading of Rice, Lifting for the Purpose the Quantitative Import Restriction on Rice, and for Other Purposes\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

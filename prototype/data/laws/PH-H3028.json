@@ -1,7 +1,7 @@
 {
  "id": "PH-H3028",
  "title": {
-  "zh": null,
+  "zh": "提高菲律宾武装部队委任军官基本薪饷的法案",
   "en": "An Act Increasing the Base Pay of Commissioned Officers of the Armed Forces of the Philippines",
   "orig": "An Act Increasing the Base Pay of Commissioned Officers of the Armed Forces of the Philippines"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect on July first nineteen hundred and sixty-three.\nApproved: June 22, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Base Pay of Commissioned Officers of the Armed Forces of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

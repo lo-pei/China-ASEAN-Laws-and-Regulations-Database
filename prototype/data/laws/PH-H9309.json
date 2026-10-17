@@ -1,7 +1,7 @@
 {
  "id": "PH-H9309",
  "title": {
-  "zh": null,
+  "zh": "在莱特、南莱特、比利兰、东萨马、萨马与北萨马各省设立省级渔业与水产资源培训、开发及产品中心并为其拨款",
   "en": "An Act Establishing a Provincial Fisheries and Aquatic Resources Training, Development, and Product Center in Each of the Provinces of Leyte, Southern Leyte, Biliran, Eastern Samar, Samar, and Northern Samar, and Appropriating Funds Therefor",
   "orig": "An Act Establishing a Provincial Fisheries and Aquatic Resources Training, Development, and Product Center in Each of the Provinces of Leyte, Southern Leyte, Biliran, Eastern Samar, Samar, and Northern Samar, and Appropriating Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Provincial Fisheries and Aquatic Resources Training, Development, and Product Center in Each of the Provinces of Leyte, Southern Leyte, Biliran, Eastern Samar, Samar, and Northern Samar, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

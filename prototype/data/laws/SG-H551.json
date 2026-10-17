@@ -1,7 +1,7 @@
 {
  "id": "SG-H551",
  "title": {
-  "zh": null,
+  "zh": "中央公积金条例 1987",
   "en": "Central Provident Fund Regulations 1987",
   "orig": null
  },
@@ -335,5 +335,13 @@
     "en": "19.—(1) Each of the following is prescribed as a relevant transaction for the purposes of paragraph (b) of the definition of “relevant transaction” in section 21E(1) of the Act:\n(a)the sale, transfer, assignment or disposal of only part (but not the whole) of a member’s estate or interest in an immovable property or HDB flat;\n(b)the reduction of the term of the lease of an HDB flat pursuant to an agreement entered into between a member (who is the lessee of the HDB flat) and the Housing and Development Board under the Lease Buyback Scheme.\n(2) In this regulation, “Lease Buyback Scheme” has the meaning given by regulation 2 of the Central Provident Fund (Residential Properties Scheme) Regulations 1982.\n[S 149/2026 wef 01/04/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Central Provident Fund Regulations 1987",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-S-37-1998-SEC-33-OF-THE-EMENERGENCY-SYARIAH-COURTS-ORDER-1998",
  "title": {
-  "zh": null,
+  "zh": "伊斯兰法庭紧急状态命令 1998 第 33 条",
   "en": "SEC 33 OF THE EMENERGENCY SYARIAH COURTS ORDER 1998",
   "orig": null
  },
@@ -333,5 +333,13 @@
     "en": "13 of the Religious Council and Kadis Courts Act ; \"Religious Enforcement Officer\" means an officer appointed section 26 and includes the Chief Religious Enforcement ''Syariah Appeal Court Judge'' means a Judge of Syariah Appeal under section 911) ; \"Syariah Courts\" means the Syariah Subordinate Courts, the Syariah High Court or the Syariah Appeal Court, as the case may be, established under section 6111 ; \"Syariah High Court Judge\" means a Judge of Syariah High under section 10(1) ; \"Syariah Subordinate Court Judge\" means a Judge of Syariah Subordinate Court appointed under section 11 ; means a Syar'ie Judge appointed under sections 911), 10(1) and 11 and includes the Chief Syar'ie Judge; means a person admitted as Syar'ie Lawyer section 27(1). 12) All words and expressions used in this Order and not defined"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SEC 33 OF THE EMENERGENCY SYARIAH COURTS ORDER 1998",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

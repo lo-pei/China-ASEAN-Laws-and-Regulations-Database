@@ -1,7 +1,7 @@
 {
  "id": "SG-H1852",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）命令 2026",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2026",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Gangsa Road, Petir Road, Jelebu Road, Lompang Road and Bukit Panjang Road, comprised in Lot number 00818X in Mukim 14 and on which Apartment Blocks 170, 171, 172, 173, 174, 175 and 176 are erected, which blocks are each marked with a grey dot in Plan 1.\nPlan 1\nGANGSA ROAD / LOMPANG ROAD\n2. All that part of the housing estate of the Board bounded by Hougang Avenue 8, Upper Serangoon Road and Hougang Avenue 10, comprised in Lot number 07108L in Mukim 22 and on which Apartment Blocks 460, 461, 462 and 463 are erected, and in Lot number 07448K in Mukim 22 and on which Apartment Blocks 464, 465, 466, 467 and 468 are erected, which blocks are each marked with a grey dot in Plan 2.\nPlan 2\nHOUGANG AVENUE 8 / HOUGANG AVENUE 10 /\nUPPER SERANGOON ROAD\n3. All that part of the housing estate of the Board bounded by Hougang Central, Hougang Avenue 4 and Hougang Avenue 10, comprised in Lot number 06255N in Mukim 22 and on which Apartment Blocks 830, 831, 832, 833, 834 and 835 are erected, which blocks are each marked with a grey dot in Plan 3.\nPlan 3\nHOUGANG CENTRAL\n4. All that part of the housing estate of the Board bounded by Jurong West Street 74, Jurong West Street 75 and Jurong West Avenue 5, comprised in Lot number 00648T in Mukim 09 and on which Apartment Blocks 752, 753, 754, 760 and 761 are erected, in Lot number 01848N in Mukim 09 and on which Apartment Blocks 755, 756, 757, 758 and 759 are erected, and in Lot number 01846A in Mukim 09 and on which Apartment Blocks 764, 765 and 766 are erected, which blocks are each marked with a grey dot in Plan 4.\nPlan 4\nJURONG WEST STREET 74\n5. All that part of the housing estate of the Board at Upper Boon Keng Road comprised in Lot number 07783M in Mukim 24 and on which Apartment Blocks 13, 14 and 14A are erected, which blocks are each marked with a grey dot in Plan 5.\nPlan 5\nUPPER BOON KENG ROAD"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) Order 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

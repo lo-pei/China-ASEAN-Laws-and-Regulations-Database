@@ -1,7 +1,7 @@
 {
  "id": "PH-H899",
  "title": {
-  "zh": null,
+  "zh": "允许正规士兵在完成规定训练后成为预备役军官、并被征召服现役者重新入伍，并在转回非现役身份时恢复原士官军衔",
   "en": "An Act to Permit Regular Enlisted Men Who Become Reserve Officers After the Prescribed Training and are Called to Active Duty as Reserve Officers to Reenlist and Regain Their Previous Noncommissioned Ranks Upon Their Reversion to Inactive Status",
   "orig": "An Act to Permit Regular Enlisted Men Who Become Reserve Officers After the Prescribed Training and are Called to Active Duty as Reserve Officers to Reenlist and Regain Their Previous Noncommissioned Ranks Upon Their Reversion to Inactive Status"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 12, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Permit Regular Enlisted Men Who Become Reserve Officers After the Prescribed Training and are Called to Active Duty as Reserve Officers to Reenlist and Regain Their Previous Noncommissioned Ranks Upon Their Reversion to Inactive Status",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

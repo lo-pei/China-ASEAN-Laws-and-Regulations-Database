@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-230-2021-ANTI-TRAFFICKING-IN-PERSONS-ACT",
  "title": {
-  "zh": null,
+  "zh": "反人口贩运法",
   "en": "ANTI TRAFFICKING IN PERSONS ACT",
   "orig": null
  },
@@ -645,5 +645,13 @@
     "en": "(1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations which are necessary or expedient for giving effect to and carrying out the provisions of this Act. including any other thing for the due adn~inistration thereof. a (2) Such regulations may include such incidental, consequential and supplementary provisions as the Minister considers necessary or expedient. B.L.R.O. -1,2021"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ANTI TRAFFICKING IN PERSONS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H152",
  "title": {
-  "zh": null,
+  "zh": "航空导航（96——空中活动与危险灯光）条例 2025",
   "en": "Air Navigation (96 — Aerial Activities and Dangerous Lights) Regulations 2025",
   "orig": null
  },
@@ -416,5 +416,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nDefinitions\n“Aerodrome” includes a military aerodrome.\n“Aircraft” includes a military aircraft.\n“Authorised person” has the meaning given by paragraph 2(1) of the Air Navigation Order.\n“Flight funnel” means an envelope of airspace within and around the path that may be taken by an aircraft for taking off from and landing at any aerodrome.\n“Free balloon” means a balloon that is unmanned, uncontrollable, lighter than air and able to remain airborne.\n“Heavy free balloon” means a free balloon that carries a payload —\n(a)that has a combined mass of 6 kilograms or more;\n(b)that includes a package of 3 kilograms or more;\n(c)that includes a package of 2 kilograms or more with an area density of more than 13 grams per square centimetre; or\n(d)that uses a rope or other device for suspension of the payload that requires an impact force of 230 newtons or more to separate the suspended payload from the free balloon.\n“Indoors”, in relation to any place, means any place that is enclosed at the top and on all sides (whether permanently or temporarily) so as to prevent the flying or operating of any free balloon or tethered aerial object out of that place.\n“Kite” means a pilotless framework covered with a material such as cloth, synthetic fibre, plastic or paper, and which is designed to be flown in the wind at the end of a string without mechanical propulsion.\n“Medium free balloon” means a free balloon that carries a payload —\n(a)of 2 or more packages with a combined mass of 4 kilograms or more but less than 6 kilograms;\n(b)that does not include a package of 3 kilograms or more;\n(c)that does not include a package of 2 kilograms or more with an area density of more than 13 grams per square centimetre; and\n(d)that does not use a rope or other device for suspension of the payload that requires an impact force of 230 newtons or more to separate the suspended payload from the free balloon.\n“Operating hours”, in relation to a military aerodrome, means the following:\n(a)on any day from Monday to Friday, from 7 a.m. to 7 p.m.;\n(b)on any Saturday, from 7 a.m. to 1 p.m.\n“Outdoor” means any place that is not indoors.\n“Outdoor light display” means a display of one or more lights which includes any searchlight, laser-beam, flare, firework or other type of high intensity light that projects into airspace for purposes of entertainment.\n“Parasail” means a structure that is capable of lifting a person harnessed or attached to the structure up or through the air when the structure is —\n(a)towed by a moving vessel, vehicle or such other object; or\n(b)thrust into the air by the wind.\nExample\nA parasail includes a structure that is used for kite‑surfing.\n“Tethered aerial object” means a kite, parasail, tethered balloon or tethered sky lantern.\n“Tethered balloon” means an unmanned, non‑power driven balloon that is tethered to the surface of the earth or to a stationary structure on the surface of the earth."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Air Navigation (96 — Aerial Activities and Dangerous Lights) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

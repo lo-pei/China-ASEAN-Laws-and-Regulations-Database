@@ -1,7 +1,7 @@
 {
  "id": "PH-H9567",
  "title": {
-  "zh": null,
+  "zh": "宿务新闻自由日",
   "en": "Cebu Press Freedom Day",
   "orig": "An Act Declaring September 21 of Every Year a Special Working Holiday in the City of Cebu and the Entire Province of Cebu, Including its Highly Urbanized and Component Cities, to Be Known as \"Cebu Press Freedom Day\""
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Cebu Press Freedom Day",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

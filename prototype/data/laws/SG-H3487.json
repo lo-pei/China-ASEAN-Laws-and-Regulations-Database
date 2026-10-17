@@ -1,7 +1,7 @@
 {
  "id": "SG-H3487",
  "title": {
-  "zh": null,
+  "zh": "公园与树木（树木保护）命令",
   "en": "Parks and Trees (Preservation of Trees) Order",
   "orig": null
  },
@@ -94,5 +94,13 @@
     "en": "THIRD SCHEDULE"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Parks and Trees (Preservation of Trees) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

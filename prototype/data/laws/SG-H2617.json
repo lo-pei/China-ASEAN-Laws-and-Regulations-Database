@@ -1,7 +1,7 @@
 {
  "id": "SG-H2617",
  "title": {
-  "zh": null,
+  "zh": "资讯通信媒体发展局（保留与过渡规定）条例 2016",
   "en": "Info-communications Media Development Authority (Saving and Transitional Provisions) Regulations 2016",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) This regulation applies to a transferred IDA employee —\n(a)who, immediately before the appointed date, holds any appointment under a principal Act; and\n(b)whose function under that Act is a transferred IDA function.\n(2) The transferred IDA employee’s appointment under the principal Act continues until —\n(a)the appointment is revoked under that Act;\n(b)the term of the appointment expires; or\n(c)the employee vacates his or her office, for any reason, before the expiry of the term of the appointment."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Info-communications Media Development Authority (Saving and Transitional Provisions) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

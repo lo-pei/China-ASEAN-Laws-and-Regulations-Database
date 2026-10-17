@@ -1,7 +1,7 @@
 {
  "id": "SG-H3081",
  "title": {
-  "zh": null,
+  "zh": "新加坡海事及港务管理局（不计权益）条例 2018",
   "en": "Maritime and Port Authority of Singapore (Disregarded Interests) Regulations 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The following interests are disregarded for the purposes of section 86B(1) of the Act:\n(a)an equity interest held by a person as a bare trustee;\n(b)an equity interest held by a person by way of security for a loan granted by the person in the ordinary course of the person’s business of lending money;\n(c)an equity interest held by the Government or by the Minister for Finance in his or her corporate capacity;\n(d)an interest of a company in its own share if that interest is purchased or otherwise acquired in accordance with sections 76B to 76G of the Companies Act (Cap. 50);\n(e)an equity interest held by a person by reason of the person holding the office of director.\n(2) In addition to paragraph (1), where the security for the loan mentioned in paragraph (1)(b) is enforced and a person becomes the owner of an equity interest, that person’s interest in the equity interest is also to be disregarded for the purposes of section 86B(1) of the Act for —\n(a)a period of 90 days beginning on the day on which the security is enforced; or\n(b)such longer period as the Authority may, by written notice, give to the person."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Maritime and Port Authority of Singapore (Disregarded Interests) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1093",
  "title": {
-  "zh": null,
+  "zh": "关于自动公共平交道口的宣告（合并）",
   "en": "Declarations (Consolidation) in Respect of Automatic Public Level Crossings",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Railways Act\n(Chapter 263, Section 17(6)(a))\nDeclarations (Consolidation) in Respect of Automatic Public Level Crossings\nDecl 1\nG.N. No. S 320/1968\nREVISED EDITION 1990\n(25th March 1992)\nThe Minister for Communications has declared that section 17(1) and (2) of the Act shall not apply to —\n(a)the Automatic Public Level Crossing at 10.189 kilometres on the Jurong Branch of the Malayan Railway;\n[S 320/68 wef 01/07/1968]\n(b)the Automatic Public Level Crossing at 7.748 kilometres on the Jurong Branch of the Malayan Railway; and\n[S 321/68 wef 01/07/1968]\n(c)the Automatic Level Crossing at the 4.8-5 Kilometre Post on the Jurong Branch of the Malayan Railway,\n[S 239/76 wef 01/12/1976]\nand that the Malayan Railway Administration of West Malaysia is relieved of the obligations imposed by that section in respect of those Crossings."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Declarations (Consolidation) in Respect of Automatic Public Level Crossings",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

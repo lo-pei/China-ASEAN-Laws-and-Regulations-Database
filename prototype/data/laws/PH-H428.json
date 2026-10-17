@@ -1,7 +1,7 @@
 {
  "id": "PH-H428",
  "title": {
-  "zh": null,
+  "zh": "修订经修正的《修订行政法典》第1659条的法案",
   "en": "An Act to Amend Section One Thousand Six Hundred Fifty-Nine of the Revised Administrative Code, as Amended",
   "orig": "An Act to Amend Section One Thousand Six Hundred Fifty-Nine of the Revised Administrative Code, as Amended"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect on July 1, 1948.\nApproved: July 20, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Section One Thousand Six Hundred Fifty-Nine of the Revised Administrative Code, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

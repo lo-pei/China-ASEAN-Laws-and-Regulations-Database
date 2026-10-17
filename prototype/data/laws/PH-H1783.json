@@ -1,7 +1,7 @@
 {
  "id": "PH-H1783",
  "title": {
-  "zh": null,
+  "zh": "授予 Joseph De Castro 在马尼拉、Legaspi、Tacloban、Davao 等地建设、安装、维护和运营无线电报及无线电话站的特许经营权法案",
   "en": "An Act Granting Joseph De Castro a Franchise to Construct, Install, Maintain and Operate Radiotelegraph and/or Radiotelephone Stations in Manila, Legaspi, Tacloban, Davao, Zamboanga and Cagayan De Oro",
   "orig": "An Act Granting Joseph De Castro a Franchise to Construct, Install, Maintain and Operate Radiotelegraph and/or Radiotelephone Stations in Manila, Legaspi, Tacloban, Davao, Zamboanga and Cagayan De Oro"
  },
@@ -180,5 +180,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 23, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Joseph De Castro a Franchise to Construct, Install, Maintain and Operate Radiotelegraph and/or Radiotelephone Stations in Manila, Legaspi, Tacloban, Davao, Zamboanga and Cagayan De Oro",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1094",
  "title": {
-  "zh": null,
+  "zh": "勋章与制服法 1922",
   "en": "Decorations and Uniforms Act 1922",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4.—(1) Nothing in this Act shall be construed so as to prohibit the wearing, use or supply of ordinary regimental badges or any brooch or ornament representing them.\n(2) Nothing in this Act shall be construed so as to prohibit the wearing, use or supply of any insignia, decoration or uniform for the purposes of any bona fide theatrical or similar performance."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Decorations and Uniforms Act 1922",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

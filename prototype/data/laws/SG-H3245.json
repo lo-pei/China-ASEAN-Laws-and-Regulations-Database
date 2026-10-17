@@ -1,7 +1,7 @@
 {
  "id": "SG-H3245",
  "title": {
-  "zh": null,
+  "zh": "药物滥用法 1973",
   "en": "Misuse of Drugs Act 1973",
   "orig": null
  },
@@ -1652,5 +1652,13 @@
     "en": "FIFTH SCHEDULE\nSections 2 and 59\nPart 1\nEXCLUDED SUBSTANCES\n1.Any alcohol or alcoholic product.\n2.Any alkyl nitrites.\n3.Any chewing gum.\n4.Any controlled drug or controlled substance.\n5.Any food.\n6.Any health product.\n7.Any herbal medicine.\n8.Any industrial material or substance.\n9.Any intoxicating substance.\n10.Any medicinal product.\n11.Any poison.\n12.Any poppy seed.\n13.Any psychotropic substance.\n13A.Any specified psychoactive substance within the meaning given by section 2(1) of the Tobacco and Vaporisers Control Act 1993.\n[Act 9 of 2026 wef 01/05/2026]\n14.Any substance listed under any Schedule to the Single Convention on Narcotic Drugs of 1961, as amended by the 1972 Protocol or the Convention on Psychotropic Substances of 1971.\n15.Any tobacco, tobacco product or tobacco substitute.\n16.Caffeine or any caffeine product.\n17.Nitrous oxide.\nPart 2\nINTERPRETATION\n1. In this Schedule —\n“alcoholic product” means any product that —\n(a)contains alcohol; but\n(b)does not contain any other psychoactive substance;\n“caffeine product” means any product that —\n(a)contains caffeine; but\n(b)does not contain any other psychoactive substance;\n“food” means any substance that —\n(a)is ordinarily consumed as food by humans or animals; but\n(b)does not contain any psychoactive substance that is not —\n(i)naturally occurring in the substance; or\n(ii)produced in the ordinary course of preparing or manufacturing that substance for consumption,\nother than a food additive within the meaning of the Food Regulations (Rg 1);\n“health product” has the meaning given by section 2(1) of the Health Products Act 2007;\n“herbal medicine” has the meaning given by section 2 of the Traditional Chinese Medicine Practitioners Act 2000;\n“industrial material or substance” means —\n(a)any flammable material specified in the Fourth Schedule to the Fire Safety (Petroleum and Flammable Materials) Regulations (Rg 7);\n(b)any substance specified in the first column of Part I of the Second Schedule to the Environmental Protection and Management Act 1999; or\n(c)any substance specified in the First Schedule to the Workplace Safety and Health (General Provisions) Regulations (Rg 1);\n“intoxicating substance” has the meaning given by section 2 of the Intoxicating Substances Act 1987;\n“medicinal product” has the meaning given by section 3 of the Medicines Act 1975;\n“poison” has the meaning given by section 2 of the Poisons Act 1938;\n“psychotropic substance” has the meaning given by regulation 2 of the Medicines (Export Licence for Psychotropic Substances) Regulations (Rg 9);\n“tobacco product” means any product that —\n(a)contains tobacco; but\n(b)does not contain any other psychoactive substance;\n“tobacco substitute” has the meaning given by section 2(1) of the Tobacco and Vaporisers Control Act 1993.\n[Act 12 of 2023 wef 01/06/2024]\n[Act 9 of 2026 wef 01/05/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Misuse of Drugs Act 1973",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

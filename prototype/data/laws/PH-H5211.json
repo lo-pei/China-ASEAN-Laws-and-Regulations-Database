@@ -1,7 +1,7 @@
 {
  "id": "PH-H5211",
  "title": {
-  "zh": null,
+  "zh": "合并、划分及/或恢复卡洛奥坎市各 Barangay 并为其他目的法案",
   "en": "An Act Merging, Dividing, and/or Reviving the Different Barangays in Caloocan City and for other purposes",
   "orig": "An Act Merging, Dividing, and/or Reviving the Different Barangays in Caloocan City and for other purposes"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Merging, Dividing, and/or Reviving the Different Barangays in Caloocan City and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

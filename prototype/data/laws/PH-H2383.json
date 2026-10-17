@@ -1,7 +1,7 @@
 {
  "id": "PH-H2383",
  "title": {
-  "zh": null,
+  "zh": "授权为菲律宾国家粮食与农业组织（FAO）委员会的运作与维护拨款的法案",
   "en": "An Act Authorizing the Appropriation of Funds for the Operation and Maintenance of the Philippine National Food and Agriculture Organization (FAO) Committee",
   "orig": "An Act Authorizing the Appropriation of Funds for the Operation and Maintenance of the Philippine National Food and Agriculture Organization (FAO) Committee"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of Funds for the Operation and Maintenance of the Philippine National Food and Agriculture Organization (FAO) Committee",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

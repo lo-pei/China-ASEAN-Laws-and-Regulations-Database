@@ -1,7 +1,7 @@
 {
  "id": "PH-H8162",
  "title": {
-  "zh": null,
+  "zh": "将南甘马粦省那牙市Liboton街更名为M.T. Villanueva大道，并为此作出规定的法案",
   "en": "An Act Changing the Name of Liboton Street in the City of Naga, Province of Camarines Sur to M.T. Villanueva Avenue",
   "orig": "An Act Changing the Name of Liboton Street in the City of Naga, Province of Camarines Sur to M.T. Villanueva Avenue"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Liboton Street in the City of Naga, Province of Camarines Sur to M.T. Villanueva Avenue",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1274",
  "title": {
-  "zh": null,
+  "zh": "雇佣申索条例 2017",
   "en": "Employment Claims Regulations 2017",
   "orig": null
  },
@@ -380,5 +380,13 @@
     "en": "THIRD SCHEDULE\nRegulation 19\nRepresentation of party before tribunal\nFirst column\nSecond column\nThird column\nParty\nIndividual\nCircumstances of representation\n1.A claimant or respondent who —\n(a)is a member of a trade union of employees; and\n(b)is an employee who belongs to a class of employees in respect of whom the trade union has been accorded or given recognition under section 17 of the Industrial Relations Act 1960 by the employer of those employees\nAn officer of the trade union\nThe party may be represented before the tribunal by the individual in all matters before the tribunal, in relation to any specified employment dispute for which the claim is lodged\n2.A claimant or respondent who —\n(a)is a member of a trade union of employees that is a recognised trade union; and\n(b)is an executive employee who may be represented individually by the trade union under Part 4 of the Industrial Relations Act 1960\nAn officer of the trade union\nThe party may be represented before the tribunal by the individual in all matters before the tribunal, in relation only to any specified contractual dispute (for which the claim is lodged) or any dispute (for which the claim is lodged) over the party’s entitlement to employment assistance payment under section 7C(1) of the Retirement and Re‑employment Act 1993\n3.A claimant or respondent who is below 18 years of age\nA parent or guardian of the party, being a parent or guardian who is approved by the tribunal or the Registrar\nThe party must be represented before the tribunal by the individual in all matters before the tribunal, in relation to any specified employment dispute for which the claim is lodged\n4.A claimant or respondent who is (in the opinion of the tribunal or the Registrar) unable to present his or her own case by reason of illiteracy or infirmity of mind or body (not amounting to a lack of capacity within the meaning of section 4 of the Mental Capacity Act 2008)\nA person who is authorised by the party in writing, or is approved by the tribunal or the Registrar\nThe party may be represented before the tribunal by the individual in all matters before the tribunal, in relation to any specified employment dispute for which the claim is lodged\n5.A claimant in any case where 2 or more claims by different claimants are heard together in accordance with section 18(6) of the Act\nAny other claimant in the case who is authorised by the party in writing\nThe party may be represented before the tribunal by the individual in relation to any specified employment dispute for which the claim is lodged, but only in the following matters:\n(i)attendance at any hearing of the claim;\n(ii)the amendment of the claim;\n(iii)the abandonment of any amount alleged to be payable under the claim;\n(iv)the settlement of all or any of the specified employment disputes to which the claim relates"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment Claims Regulations 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1950",
  "title": {
-  "zh": null,
+  "zh": "所得税（飞机租赁公司优惠税率）（规定活动）条例 2008",
   "en": "Income Tax (Concessionary Rate of Tax for Aircraft Leasing Company) (Prescribed Activities) Regulations 2008",
   "orig": null
  },
@@ -87,5 +87,11 @@
     "en": "THE SCHEDULE\nRegulation 2(1)\nPrescribed Activities\n1. Management of aircraft or aircraft engine leases.\n2. Advisory and agency services relating to the procurement, sale or leasing of aircraft or aircraft engines.\n3. Services relating to the arrangement for the operation, maintenance, repair, insurance, storage, scrapping or modification of any aircraft or aircraft engines.\n4. Services relating to the arrangement for the procurement or disposal of any aircraft or aircraft engines.\n5. Services relating to the arrangement for the evaluation, appraisal, provision or inspection of any aircraft, aircraft engine, airline facilities, maintenance facilities or the assessment of the aviation and aircraft market conditions.\n6. Services relating to the marketing of operating lease of any aircraft or aircraft engines.\n7. Services relating to the establishment and administration of any special purpose entity for the purpose of acquiring any aircraft or aircraft engines by that entity.\n8. Provision of finance to a person (including a partnership) who is the lessee of one or more aircraft or aircraft engines of which the approved aircraft leasing company is the lessor, for the acquisition of any aircraft or aircraft engine.\n[S 124/2020 wef 21/02/2017]\n9. Provision of any residual value guarantee or contingent purchase arrangement designed to guarantee the value of any aircraft or aircraft engines to a third party.\n10. Provision of any guarantee in respect of any financial or performance obligation of any aircraft leasing business wholly or partly owned by the aircraft leasing company and the granting of security in respect of such business."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Income Tax (Concessionary Rate of Tax for Aircraft Leasing Company) (Prescribed Activities) Regulations 2008",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

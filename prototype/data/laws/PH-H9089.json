@@ -1,7 +1,7 @@
 {
  "id": "PH-H9089",
  "title": {
-  "zh": null,
+  "zh": "授予 Cotabato Light and Power Company 在马京达瑙省哥打巴托市及邻近市镇建设、安装、运营和维护配电系统，向终端用户输电的特许经营权法案",
   "en": "An Act Granting Cotabato Light and Power Company, a Franchise to Construct, Install, Establish, Operate and Maintain a Distribution System for the Conveyance of Electric Power to the End-Users in the City of Cotabato and Portions of the Municipalities of Datu Odin Sinsuat and Sultan Kudarat, Both in the Province of Maguindanao",
   "orig": "An Act Granting Cotabato Light and Power Company, a Franchise to Construct, Install, Establish, Operate and Maintain a Distribution System for the Conveyance of Electric Power to the End-Users in the City of Cotabato and Portions of the Municipalities of Datu Odin Sinsuat and Sultan Kudarat, Both in the Province of Maguindanao"
  },
@@ -281,5 +281,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Cotabato Light and Power Company, a Franchise to Construct, Install, Establish, Operate and Maintain a Distribution System for the Conveyance of Electric Power to the End-Users in the City of Cotabato and Portions of the Municipalities of Datu Odin Sinsuat and Sultan Kudarat, Both in the Province of Maguindanao",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

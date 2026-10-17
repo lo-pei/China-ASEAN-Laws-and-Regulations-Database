@@ -1,7 +1,7 @@
 {
  "id": "SG-H2926",
  "title": {
-  "zh": null,
+  "zh": "裕廊镇管理局（罪行构成）条例 2018",
   "en": "Jurong Town Corporation (Composition of Offences) Regulations 2018",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. An offence under rule 16 of the Jurong Town Corporation (Common Property) Rules 2018 (G.N. No. S 2/2018) may be compounded by the chief executive officer of the Corporation or any other officer of the Corporation who is authorised by the chief executive officer, in accordance with section 67 of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Jurong Town Corporation (Composition of Offences) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

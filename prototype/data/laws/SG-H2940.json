@@ -1,7 +1,7 @@
 {
  "id": "SG-H2940",
  "title": {
-  "zh": null,
+  "zh": "土地增值费（一般）条例 2022",
   "en": "Land Betterment Charge (General) Regulations 2022",
   "orig": null
  },
@@ -178,5 +178,13 @@
     "en": "THE SCHEDULE\nRegulation 10\nFees\nFirst column\nSecond column\nMatter\nFee\n1.A certificate containing information in relation to any matter mentioned in section 55(1) of the Act\n$480 per certificate\n2.An application to update the Baseline database\n$1,100\n3.Search for baseline information from the Baseline database\n$820 for each development that is the subject of the search"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Land Betterment Charge (General) Regulations 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

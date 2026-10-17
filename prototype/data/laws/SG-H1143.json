@@ -1,7 +1,7 @@
 {
  "id": "SG-H1143",
  "title": {
-  "zh": null,
+  "zh": "存款保险（生效日期）公告",
   "en": "Deposit Insurance (Effective Date) Notification",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of the Act, the effective date shall be 1st April 2006.\n[G.N. No. S 181/2006]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Deposit Insurance (Effective Date) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1839",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 7 号）命令 2025",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 7) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board bounded by Choa Chu Kang North 5, Choa Chu Kang Street 54 and Choa Chu Kang North 6, comprised in Lot number 02310X in Mukim 11 and on which Apartment Blocks 762, 763, 764, 765, 766, 767, 768, 769, 770 and 771 are erected, which blocks are each marked with a grey dot in Plan 1.\nPlan 1\nCHOA CHU KANG NORTH 5 / CHOA CHU KANG STREET 54\n2. All that part of the housing estate of the Board at Geylang Bahru comprised in Lot number 07745N in Mukim 24 and on which Apartment Block 58 is erected, and in Lot number 07744K in Mukim 24 and on which Apartment Blocks 59A, 59B, 59C and 60 are erected, which blocks are each marked with a grey dot in Plan 2.\nPlan 2\nGEYLANG BAHRU\n3. All that part of the housing estate of the Board bounded by Lorong 2 Toa Payoh, Toa Payoh Central and Lorong 4 Toa Payoh, comprised in Lot number 07239X in Mukim 17 and on which Apartment Blocks 80, 80A, 80B, 81, 81A, 81B, 82, 82A, 82B, 84, 84A, 84B and 86 are erected, which blocks are each marked with a grey dot in Plan 3.\nPlan 3\nLORONG 2 TOA PAYOH / LORONG 4 TOA PAYOH\n4. All that part of the housing estate of the Board bounded by Pasir Ris Drive 1, Pasir Ris Street 52 and Pasir Ris Drive 3, comprised in Lot number 01333A in Mukim 29 and on which Apartment Blocks 500, 501, 502 and 503 are erected, in Lot number 01354L in Mukim 29 and on which Apartment Blocks 504, 505, 506, 507, 508, 509 and 510 are erected, in Lot number 02457N in Mukim 29 and on which Apartment Blocks 511, 512, 513, 514, 515, 516 and 517 are erected, and in Lot number 02268C in Mukim 29 and on which Apartment Blocks 518, 519, 520 and 521 are erected, which blocks are each marked with a grey dot in Plan 4.\nPlan 4\nPASIR RIS STREET 52"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 7) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

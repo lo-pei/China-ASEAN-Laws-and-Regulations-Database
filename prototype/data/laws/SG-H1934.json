@@ -1,7 +1,7 @@
 {
  "id": "SG-H1934",
  "title": {
-  "zh": null,
+  "zh": "所得税（依第 3A 条转授职能——新加坡旅游局）公告 2024",
   "en": "Income Tax (Assignment of Functions under Section 3A — Singapore Tourism Board) Notification 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister assigns to the Singapore Tourism Board the following powers of the Minister under the Act:\n(a)the power to approve a firm or company for the purpose of section 14B(1) of the Act;\n(b)the power to approve a trade fair or trade exhibition held in Singapore for the purpose of section 14B(2)(a)(ii) of the Act;\n(c)the power to approve expenses for the purpose of section 14B(2)(aa) of the Act;\n(d)the power to approve a trade fair or trade exhibition for the purpose of section 14B(2)(ab) of the Act;\n(e)the power to specify the maximum amount of expenditure or any item thereof, mentioned in section 14B(3) of the Act;\n(f)the powers to allow a deduction of an expense and to impose conditions, mentioned in section 14B(5) of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Assignment of Functions under Section 3A — Singapore Tourism Board) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H298",
  "title": {
-  "zh": null,
+  "zh": "银行（专业关系）公告",
   "en": "Banking (Professional Relationship) Notification",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Banking Act\n(Chapter 19, Section 47(8))\nBanking (Professional Relationship)\nNotification\nN 2\nG.N. No. S 74/1985\nREVISED EDITION 1990\n(25th March 1992)\n[22nd March 1985]\nPursuant to section 47(8) of the Banking Act, the Monetary Authority of Singapore has decided that for the purposes of section 47(3) of the Act “professional relationship” shall include a relationship between a bank and a company providing microfilm or microfische services to the bank."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Banking (Professional Relationship) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

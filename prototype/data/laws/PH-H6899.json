@@ -1,7 +1,7 @@
 {
  "id": "PH-H6899",
  "title": {
-  "zh": null,
+  "zh": "社会改革与扶贫法",
   "en": "Social Reform and Poverty Alleviation Act",
   "orig": "Social Reform and Poverty Alleviation Act An Act Institutionalizing the Social Reform and Poverty Alleviation Program, Creating for the Purpose the National Anti-Poverty Commission, Defining Its Powers and Functions, and for other purposes"
  },
@@ -314,5 +314,13 @@
     "en": "Effectivity clause. – This Act shall be effective on June 30, 1998."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Social Reform and Poverty Alleviation Act",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

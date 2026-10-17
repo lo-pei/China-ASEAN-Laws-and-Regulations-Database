@@ -1,7 +1,7 @@
 {
  "id": "SG-H396",
  "title": {
-  "zh": null,
+  "zh": "巴士服务行业（行为与活动管制——巴士转换站）条例 2026",
   "en": "Bus Services Industry (Control of Conduct and Activities — Bus Interchange) Regulations 2026",
   "orig": null
  },
@@ -374,5 +374,13 @@
     "en": "21.—(1) A person must not drive any vehicle (other than a mobility vehicle) within any area of a bus interchange set apart for the exclusive use of pedestrians.\n(2) A person who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Bus Services Industry (Control of Conduct and Activities — Bus Interchange) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1327",
  "title": {
-  "zh": null,
+  "zh": "修订第 1411 号共和国法特定项目并插入新项目的法案",
   "en": "An Act Amending Certain Items of Republic Act Numbered Fourteen Hundred Eleven, and Inserting Therein Certain New Items",
   "orig": "An Act Amending Certain Items of Republic Act Numbered Fourteen Hundred Eleven, and Inserting Therein Certain New Items"
  },
@@ -180,5 +180,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 16, 1956."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Items of Republic Act Numbered Fourteen Hundred Eleven, and Inserting Therein Certain New Items",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

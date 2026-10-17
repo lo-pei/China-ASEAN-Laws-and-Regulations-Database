@@ -1,7 +1,7 @@
 {
  "id": "PH-H6766",
  "title": {
-  "zh": null,
+  "zh": "小企业大宪章",
   "en": "Magna Carta for Small Enterprises",
   "orig": "An Act to Strengthen the Promotion and Development Of, and Assistance to Small and Medium Scale Enterprises, Amending for That Purpose Republic Act No. 6977, otherwise known as the \"Magna Carta for Small Enterprises\" and for other purposes"
  },
@@ -170,5 +170,13 @@
     "en": "Effectivity. - This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "Magna Carta for Small Enterprises",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

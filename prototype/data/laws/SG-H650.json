@@ -1,7 +1,7 @@
 {
  "id": "SG-H650",
  "title": {
-  "zh": null,
+  "zh": "民事清单与酬金法 1970",
   "en": "Civil List and Gratuity Act 1970",
   "orig": null
  },
@@ -247,5 +247,13 @@
     "en": "THE SCHEDULE\nSections 2, 4, 5(1) and (3), 6 and 7\nSums payable\nClass 1\n(a)The privy purse\n$1,568,900\n(b)Entertainment allowance\n$73,000\n(c)Acting President’s allowance\n$4,500\nClass 2\nSalaries of personal staff\n$7,318,000\nClass 3\nExpenses of household\n$4,542,000\nClass 4\nSpecial services\n$1,288,000\n[S 130/2026 wef 06/03/2026]\n[S 126/2023 wef 06/03/2023]\n[S 772/2004; S 52/2005; S 185/2005; S 36/2006; S 183/2006; S 43/2007; S 37/2008; S 175/2008; S 139/2009; S 203/2010; S 177/2011; S 137/2012]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Civil List and Gratuity Act 1970",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

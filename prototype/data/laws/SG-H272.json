@@ -1,7 +1,7 @@
 {
  "id": "SG-H272",
  "title": {
-  "zh": null,
+  "zh": "审计法 1966",
   "en": "Audit Act 1966",
   "orig": null
  },
@@ -214,5 +214,13 @@
     "en": "9.—(1) The Minister may make regulations for the purpose of carrying out the provisions of this Act.\n(2) All regulations made under this Act must be presented to Parliament as soon as possible after publication in the Gazette."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Audit Act 1966",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

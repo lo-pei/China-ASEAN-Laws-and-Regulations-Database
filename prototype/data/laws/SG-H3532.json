@@ -1,7 +1,7 @@
 {
  "id": "SG-H3532",
  "title": {
-  "zh": null,
+  "zh": "规划（用途变更——提交授权）公告",
   "en": "Planning (Changes in Use — Lodgment Authorisation) Notification",
   "orig": null
  },
@@ -185,5 +185,13 @@
    },
    "status": "repealed"
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Planning (Changes in Use — Lodgment Authorisation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

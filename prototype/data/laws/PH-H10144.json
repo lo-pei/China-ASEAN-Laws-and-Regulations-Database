@@ -1,7 +1,7 @@
 {
  "id": "PH-H10144",
  "title": {
-  "zh": null,
+  "zh": "增加卡加延-德奥罗市北民答那峨医疗中心床位，为此修订经第 10677 号共和国法修正的第 7938 号共和国法并为其拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Northern Mindanao Medical Center in Cagayan De Oro City, amending for the Purpose Republic Act No. 7938 as Amended by Republic Act No. 10677, and Appropriating Funds Therefor",
   "orig": "An Act Increasing the Bed Capacity of the Northern Mindanao Medical Center in Cagayan De Oro City, amending for the Purpose Republic Act No. 7938 as Amended by Republic Act No. 10677, and Appropriating Funds Therefor"
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H10144-A2_2",
+   "id": "PH-H10144-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "Section 3 of the same Act is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10144-A3",
@@ -81,14 +82,15 @@
    }
   },
   {
-   "id": "PH-H10144-A3_2",
+   "id": "PH-H10144-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "Section 4 of the same Act is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H10144-A4",
@@ -101,14 +103,23 @@
    }
   },
   {
-   "id": "PH-H10144-A4_2",
+   "id": "PH-H10144-A4-d2",
    "no": 4,
    "noLabel": {
     "en": "Section 4."
    },
    "text": {
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Northern Mindanao Medical Center in Cagayan De Oro City, amending for the Purpose Republic Act No. 7938 as Amended by Republic Act No. 10677, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

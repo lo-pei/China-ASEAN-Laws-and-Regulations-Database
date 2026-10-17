@@ -1,7 +1,7 @@
 {
  "id": "SG-H397",
  "title": {
-  "zh": null,
+  "zh": "巴士服务行业（行为与活动管制——公共巴士）条例 2026",
   "en": "Bus Services Industry (Control of Conduct and Activities — Public Bus) Regulations 2026",
   "orig": null
  },
@@ -342,5 +342,13 @@
     "en": "19.—(1) A bus passenger must comply with all reasonable directions and instructions of any authorised person given to —\n(a)ensure the safety of that bus passenger or any other bus passenger; or\n(b)deal with any emergency or unforeseen circumstances.\n(2) A person who contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Bus Services Industry (Control of Conduct and Activities — Public Bus) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

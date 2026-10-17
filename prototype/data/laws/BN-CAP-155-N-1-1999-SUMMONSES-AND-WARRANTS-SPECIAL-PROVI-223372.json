@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-155-N-1-1999-SUMMONSES-AND-WARRANTS-SPECIAL-PROVI-223372",
  "title": {
-  "zh": null,
+  "zh": "N 1 1999 版传票与令状特别规定适用于马来西亚公告",
   "en": "N 1 1999 ED SUMMONSES AND WARRANTS SPECIAL PROVISIONS APPLICATION TO MALAYSIA NOTIFICATION",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "Application to Malaysia B.L.R.O.1/ 1999\n\nLAWS OF BRUNEI 10 CAP. 155 Summonses and Warrants (Special Provisions) ISubsidiaryl Commencement: 1st November 1984 Citation 1. This Notification may be cited as the Summonses and Warrants (Special Provisions) (Application to Malaysia) Notification. Application 2. The application of the Act in relation to Malaysia shall be subject to to Malaysia the following conditions, that is to say\n\n(a) if the Attorney General is of the opinion that a summons under section 3 or 4 or a warrant under section 5, if served or executed, as the case may be, within Brunei Darussalam, would result in the person against whom the summons or warrant was issued, being compelled to appear in Malaysia to be tried or punished for an offence of a political character, the Attorney General may at any time by order in writing signify to the Magistrate that he is of such an opinion and require him not to endorse the summons or warrant;\n\n(b) upon the receipt by the Magistrate of an order under paragraph (a) it shall not be lawful for the Magistrate if he has not done so, to endorse such summons or warrant;\n\n(c) if prior to the receipt of such an order under paragraph\n\n(a) the Magistrate had already endorsed such summons or warrant, the Magistrate shall upon the receipt of such an order from the Attorney General by order cancel the endorsement on such summons or warrant and thereupon any person who has been arrested and is in custody in Brunei Darussalam pursuant to such endorsement shall forthwith be released."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "N 1 1999 ED SUMMONSES AND WARRANTS SPECIAL PROVISIONS APPLICATION TO MALAYSIA NOTIFICATION",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

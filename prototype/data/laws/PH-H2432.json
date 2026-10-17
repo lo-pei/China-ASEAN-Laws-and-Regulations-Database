@@ -1,7 +1,7 @@
 {
  "id": "PH-H2432",
  "title": {
-  "zh": null,
+  "zh": "规定司法部长办公室法律事务人员成员的职责与资格、确定其人数与薪金的法案",
   "en": "An Act Prescribing the Duties and Qualifications, and Fixing the Number and Salaries, of the Members of the Legal Staff in the Office of the Secretary of Justice",
   "orig": "An Act Prescribing the Duties and Qualifications, and Fixing the Number and Salaries, of the Members of the Legal Staff in the Office of the Secretary of Justice"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1960."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Prescribing the Duties and Qualifications, and Fixing the Number and Salaries, of the Members of the Legal Staff in the Office of the Secretary of Justice",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

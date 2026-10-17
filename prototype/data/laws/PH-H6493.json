@@ -1,7 +1,7 @@
 {
  "id": "PH-H6493",
  "title": {
-  "zh": null,
+  "zh": "将宿务 Barili, Balao 描笼涯的 Balao 附属中学从 Luhod 国立中学分离，改设为名为 Balao 国立中学的独立国立中学并拨款",
   "en": "An Act Separating the Balao Extension High School in Barangay Balao, Barili, Cebu, From the Luhod National High School in Barangay Luhod, and Converting It Into An Independent National High School to Be Known as the Balao National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Balao Extension High School in Barangay Balao, Barili, Cebu, From the Luhod National High School in Barangay Luhod, and Converting It Into An Independent National High School to Be Known as the Balao National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Balao Extension High School in Barangay Balao, Barili, Cebu, From the Luhod National High School in Barangay Luhod, and Converting It Into An Independent National High School to Be Known as the Balao National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

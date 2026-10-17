@@ -1,7 +1,7 @@
 {
  "id": "SG-H2141",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）公告 2006",
   "en": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) Notification 2006",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from tax the interest payable by Herning Shipping Asia Pte Ltd from 26th April 2005 to 30th June 2019 (both dates inclusive) to Herning Shipping a.s. under the Loan Agreement dated 9th June 2005 in respect of the vessel “Pacific Venturer” (re-named “Sara Theresa”).\n(2) The exemption is subject to conditions specified in the letter of approval dated 27th December 2005 addressed to Herning Shipping Asia Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments for Economic and Technological Development Loans) Notification 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

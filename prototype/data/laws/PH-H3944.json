@@ -1,7 +1,7 @@
 {
  "id": "PH-H3944",
  "title": {
-  "zh": null,
+  "zh": "授予 Rafael C. Aquino 在阿古桑省 Bayugan 与 Prosperidad 市镇安装、维护和运营电灯、热力、动力系统、制冰厂与冷藏库的特许权法案",
   "en": "An Act Granting Rafael C. Aquino a Franchise to Install, Maintain and Operate an Electric Light, Heat, Power System, an Ice Plant and Cold Storage in the Municipalities of Bayugan and Prosperidad, Province of Agusan",
   "orig": "An Act Granting Rafael C. Aquino a Franchise to Install, Maintain and Operate an Electric Light, Heat, Power System, an Ice Plant and Cold Storage in the Municipalities of Bayugan and Prosperidad, Province of Agusan"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Rafael C. Aquino a Franchise to Install, Maintain and Operate an Electric Light, Heat, Power System, an Ice Plant and Cold Storage in the Municipalities of Bayugan and Prosperidad, Province of Agusan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

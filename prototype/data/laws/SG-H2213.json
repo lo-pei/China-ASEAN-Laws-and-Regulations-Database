@@ -1,7 +1,7 @@
 {
  "id": "SG-H2213",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款利息及其他付款豁免）（第 4 号）公告 2015",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 4) Notification 2015",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) There shall be exempt from tax the interest payable on or after 9 December 2013 by MSPL Diamond Pte Ltd to State Bank of India, London branch, in respect of a loan of US$158 million obtained from State Bank of India, Singapore branch under a loan agreement dated 9 December 2010 —\n(a)for the partial financing of the construction of 4 vessels, “Indus Prosperity”, “Indus Fortune”, “Indus Triumph” and “Indus Victory”, which are registered as Singapore ships under the Merchant Shipping Act (Cap. 179); and\n(b)which has been assigned to State Bank of India, London branch in accordance with a transfer certificate dated 29 November 2013.\n(2) The exemption under sub‑paragraph (1) —\n(a)is subject to the terms and conditions specified in the letter of approval dated 2 December 2014 issued by the Ministry of Finance and addressed to MSPL Diamond Pte Ltd;\n(b)does not apply to any interest payable after the earlier of the following:\n(i)30 September 2025;\n(ii)the date of termination of the loan agreement; and\n(c)does not apply to any interest payable on the amount of the loan which is used for the partial financing of the construction of any particular vessel after the earlier of the following:\n(i)the date of transfer or disposal of that vessel;\n(ii)the date immediately before the date of deregistration or suspension of that vessel from the Singapore Registry of Ships."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) (No. 4) Notification 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-18-2022-OLD-AGE-PENSIONS-AND-DISABILITY-ALLOWANCES-ACT",
  "title": {
-  "zh": null,
+  "zh": "老年养老金与残疾津贴法",
   "en": "OLD AGE PENSIONS AND DISABILITY ALLOWANCES ACT",
   "orig": null
  },
@@ -320,5 +320,13 @@
     "en": "The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make rules to provide for all or any of the following\n\n(a) the form of any certificates, notices, registers and other documents required for the purpose of carrying out this Act;\n\n(b) the custody of any certificates, notices, registers and other documents connected with the granting of pensions and allowances in pursuance of this Act;\n\n(c) the rendering of returns by Pensions Officers;\n\n(d) the hearing of appeals under section 14 and the procedure to be followed thereunder;\n\n(e) the establishment of committees to advise the Controller and Pensions Officers in the exercise of their powers under this Act;\n\n(f) any other matters as to which the Controller considers it expedient to make rules for carrying into effect the objects of this Act. (section 8)\n\nOLD AGE PENSIONS AND DISABILITY ALLOWANCES REGULATIONS\n\nARRANGEMENT OF REGULATIONS"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "OLD AGE PENSIONS AND DISABILITY ALLOWANCES ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

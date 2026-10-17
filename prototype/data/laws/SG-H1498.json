@@ -1,7 +1,7 @@
 {
  "id": "SG-H1498",
  "title": {
-  "zh": null,
+  "zh": "费用（教育部）命令 2006",
   "en": "Fees (Ministry of Education) Order 2006",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFees\nFirst column\nSecond column\n(1) For an application to register a school\n$400\n(2) For an application to register a committee of management\n$45\n(3) For an application to relocate or expand a school\n$115\n(4) For an application to change the name of a school\n$45\n(5) For an application to register —\n(a) 1 teacher\n$60\n(b) 2 teachers\n$80\n(c) 3 teachers\n$100\n(d) 4 teachers\n$120\n(e) 5 teachers\n$140\n(f) 6 teachers\n$160\n(g) 7 teachers\n$180\n(h) 8 teachers\n$200\n(i) 9 teachers\n$220\n(j) 10 teachers\n$240\n(k) 11 teachers\n$260\n(l) 12 teachers\n$280\n(m) 13 teachers\n$300\n(n) 14 teachers\n$320\n(o) 15 teachers\n$340\n(p) 16 teachers\n$360\n(q) 17 teachers\n$380\n(r) 18 teachers\n$400\n(s) 19 teachers\n$420\n(t) 20 teachers\n$440\n(6) For an application to register —\n(a) 1 course\n$60\n(b) 2 courses\n$80\n(c) 3 courses\n$100\n(d) 4 courses\n$120\n(e) 5 courses\n$140\n(f) 6 courses\n$160\n(g) 7 courses\n$180\n(h) 8 courses\n$200\n(i) 9 courses\n$220\n(j) 10 courses\n$240."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Ministry of Education) Order 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

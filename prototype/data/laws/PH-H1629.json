@@ -1,7 +1,7 @@
 {
  "id": "PH-H1629",
  "title": {
-  "zh": null,
+  "zh": "在医院局下设岛屿急诊医院、在卫生局下设一级药房与卫生中心并为此提供资金的法案",
   "en": "An Act to Establish Island Emergency Hospitals Under the Bureau of Hospitals and First Class Dispensaries and Health Centers Under the Bureau of Health and Providing Funds Therefor",
   "orig": "An Act to Establish Island Emergency Hospitals Under the Bureau of Hospitals and First Class Dispensaries and Health Centers Under the Bureau of Health and Providing Funds Therefor"
  },
@@ -110,5 +110,13 @@
     "en": "This Act, except as otherwise provided, shall take effect upon its approval.\nApproved: June 21, 1957."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Establish Island Emergency Hospitals Under the Bureau of Hospitals and First Class Dispensaries and Health Centers Under the Bureau of Health and Providing Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

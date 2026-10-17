@@ -1,7 +1,7 @@
 {
  "id": "PH-H9887",
  "title": {
-  "zh": null,
+  "zh": "菲律宾大学宪章 2008",
   "en": "The University of the Philippines Charter of 2008",
   "orig": "An Act Authorizing the Sale of Certain Parcels of Land in Barangay Krus na Ligas, Quezon City by the University of the Philippines to the Quezon City Government, Amending for the Purpose Republic Act No. 9500, Otherwise Known as “The University of the Philippines Charter of 2008”, and for Other Purposes"
  },
@@ -121,5 +121,13 @@
     "en": "Effectivity. — This Act shall cake effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The University of the Philippines Charter of 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

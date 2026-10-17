@@ -1,7 +1,7 @@
 {
  "id": "SG-H2548",
  "title": {
-  "zh": null,
+  "zh": "所得税（Trafigura Group 私人有限公司——第 13(4) 条豁免）（第 2 号）公告 2020",
   "en": "Income Tax (Trafigura Group Pte Ltd — Section 13(4) Exemption) (No. 2) Notification 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) Subject to sub‑paragraph (3), the interest, commission, fee and other payments payable by Trafigura Group Pte Ltd to any person who is not resident in Singapore —\n(a)in connection with the bonds denominated in Chinese Renminbi and issued in the People’s Republic of China by Trafigura Group Pte Ltd that are specified in sub‑paragraph (2); or\n(b)in connection with any arrangement, management, guarantee, or services relating to such bonds,\nthat are due and payable up to (and including) the date of maturity of the bonds, are exempt from tax.\n(2) The bonds in sub‑paragraph (1) are those —\n(a)issued on the dates mentioned in the first column of the following table;\n(b)maturing on the respective dates mentioned in the second column of the table; and\n(c)having the respective issue sizes mentioned in the third column of the table:\nFirst column\nSecond column\nThird column\nDate of issue\nDate of maturity\nIssue size (RMB)\n27 April 2018\n27 April 2021\n500 million\n24 May 2018\n24 May 2021\n500 million\n28 Sep 2018\n28 Sep 2021\n700 million\n20 May 2019\n20 May 2022\n540 million\n(3) The exemption under sub‑paragraph (1) does not apply to —\n(a)any interest, commission, fee or other payments derived from any operation carried on by the person through the person’s permanent establishment in Singapore; or\n(b)any interest, commission, fee or other payments that are due and payable after the date on which Trafigura Pte Ltd (a subsidiary of Trafigura Group Pte Ltd) ceases to be an approved global trading company under section 43P of the Act.\n(4) The exemption in sub‑paragraph (1) is subject to the conditions specified in the letter of approval dated 4 January 2017 issued by the International Enterprise Singapore Board addressed to Trafigura Group Pte Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Trafigura Group Pte Ltd — Section 13(4) Exemption) (No. 2) Notification 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

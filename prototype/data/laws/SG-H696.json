@@ -1,7 +1,7 @@
 {
  "id": "SG-H696",
  "title": {
-  "zh": null,
+  "zh": "1996 年 5 月 10 日发行的硬币",
   "en": "Coins to Be Issued on 10th May 1996",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDenomination.\nSize.\nDesign.\nPredominant and Secondary Colours.\nFront.\nBack.\nFront.\nBack.\n$25\nLength: 141mm\nWidth: 79mm\nThe front design features the MAS Building which is set against a view of the financial district in the background. The word “SINGAPORE” is across the top centre portion. The Singapore Arms is positioned on the upper left-hand corner while the figures “25” is on the upper right-hand and bottom left-hand corners. The gold coloured octagonal holographic device showing colourful images of the Singapore Lion and the figures “25” is located just below the words “TWENTY FIVE DOLLARS”. A “Singapore Lion” is also located to the lower right of the MAS Building. The signature and seal of Dr Richard Hu Tsu Tau, Minister for Finance and Chairman of the Board of Commissioners of Currency, Singapore, are at the bottom right-hand corner of the note below the words “THIS NOTE IS LEGAL TENDER”. One set of the serial number appears horizontal on the lower half of the left-hand side while the other set appears vertical on the upper right-hand side.\nThe back design features the financial sector skyline with the MAS Building at a further distance. The word “SINGAPORE” is across the top centre portion. The “Singapore Lion” is to the lower left of the financial sector skyline and is in perfect registration with that on the front. The abacus is to the right of the figures “25” at the top left-hand corner and the computer keyboard is to the left of the figures “25” at the bottom right-hand corner. A scene of the SIMEX trading floor is at the bottom of the design.\nPredominant\nColour: Brown\nSecondary\nColour:\nGreen and\nLight Brown\nPredominant\nColour: Brown\nSecondary\nColour:\nRed and Green\nThe Note has one security thread fully embedded in the paper running vertically to the left of the centre. A watermark of a lion’s head (side facing) is incorporated on the right side of the front of the Note. The watermark is not overprinted on both the front and back. Another watermark with the design “O=” is below the lion’s head watermark."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Coins to Be Issued on 10th May 1996",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

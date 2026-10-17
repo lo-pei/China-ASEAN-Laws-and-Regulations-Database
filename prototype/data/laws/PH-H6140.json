@@ -1,7 +1,7 @@
 {
  "id": "PH-H6140",
  "title": {
-  "zh": null,
+  "zh": "对特定重罪处以死刑、为此修订经修正的修正刑法典及其他特别刑法并为其他目的法案",
   "en": "An Act to Impose the Death Penalty on Certain Heinous Crimes, Amending for that Purpose the Revised Penal Laws, as Amended, Other Special Penal Laws, and for Other Purposes",
   "orig": "An Act to Impose the Death Penalty on Certain Heinous Crimes, Amending for that Purpose the Revised Penal Laws, as Amended, Other Special Penal Laws, and for Other Purposes"
  },
@@ -320,5 +320,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in two (2) national newspapers of general circulation. The publication shall not be later than seven (7) days after the approval hereof.\nApproved: December 13, 1993"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Impose the Death Penalty on Certain Heinous Crimes, Amending for that Purpose the Revised Penal Laws, as Amended, Other Special Penal Laws, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3362",
  "title": {
-  "zh": null,
+  "zh": "依第484号与第1112号法授权，在特定条件下进一步延长授予Charles M. Swift、后由Manila Electric Company承接的特许经营权期限",
   "en": "An Act Extending Further Under Certain Conditions the Term of the Franchise Granted in Pursuance of the Authority Under Acts Numbered Four Hundred Eighty-Four and One Thousand One Hundred Twelve by the Municipal Board of the City of Manila to Charles M. Swift and Later Assumed and Taken Over by the Manila Electric Company, as Contained in Ordinance Numbered Forty-Four, Parts Two and Three, as Amended of the Said Municipal Board of the City of Manila, to Construct, Maintain, and Operate an Electric Light, Heat and Power System for the Purpose of Generating and Distributing for Sale Electric Light, Heat and Power Throughout the City of Manila and its Suburbs, as Extended by Republic Act Numbered One Hundred Fifty",
   "orig": "An Act Extending Further Under Certain Conditions the Term of the Franchise Granted in Pursuance of the Authority Under Acts Numbered Four Hundred Eighty-Four and One Thousand One Hundred Twelve by the Municipal Board of the City of Manila to Charles M. Swift and Later Assumed and Taken Over by the Manila Electric Company, as Contained in Ordinance Numbered Forty-Four, Parts Two and Three, as Amended of the Said Municipal Board of the City of Manila, to Construct, Maintain, and Operate an Electric Light, Heat and Power System for the Purpose of Generating and Distributing for Sale Electric Light, Heat and Power Throughout the City of Manila and its Suburbs, as Extended by Republic Act Numbered One Hundred Fifty"
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1964"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending Further Under Certain Conditions the Term of the Franchise Granted in Pursuance of the Authority Under Acts Numbered Four Hundred Eighty-Four and One Thousand One Hundred Twelve by the Municipal Board of the City of Manila to Charles M. Swift and Later Assumed and Taken Over by the Manila Electric Company, as Contained in Ordinance Numbered Forty-Four, Parts Two and Three, as Amended of the Said Municipal Board of the City of Manila, to Construct, Maintain, and Operate an Electric Light, Heat and Power System for the Purpose of Generating and Distributing for Sale Electric Light, Heat and Power Throughout the City of Manila and its Suburbs, as Extended by Republic Act Numbered One Hundred Fifty",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

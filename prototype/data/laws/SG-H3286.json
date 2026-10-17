@@ -1,7 +1,7 @@
 {
  "id": "SG-H3286",
  "title": {
-  "zh": null,
+  "zh": "刑事事项互助（越南社会主义共和国）命令 2005",
   "en": "Mutual Assistance in Criminal Matters (Socialist Republic of Vietnam) Order 2005",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Socialist Republic of Vietnam is hereby declared as a prescribed foreign country for the purposes of Part III of the Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Mutual Assistance in Criminal Matters (Socialist Republic of Vietnam) Order 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

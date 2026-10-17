@@ -1,7 +1,7 @@
 {
  "id": "PH-H2279",
  "title": {
-  "zh": null,
+  "zh": "将伊莎贝拉省伊拉甘市镇的马纳林村分为名为马纳林普里梅罗村与马纳林塞贡多村的两个村的法案",
   "en": "An Act Dividing the Barrio of Manaring in the Municipality of Ilagan, Province of Isabela, into Two Barrios to be Known as Barrio Manaring Primero and Barrio Manaring Segundo",
   "orig": "An Act Dividing the Barrio of Manaring in the Municipality of Ilagan, Province of Isabela, into Two Barrios to be Known as Barrio Manaring Primero and Barrio Manaring Segundo"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Dividing the Barrio of Manaring in the Municipality of Ilagan, Province of Isabela, into Two Barrios to be Known as Barrio Manaring Primero and Barrio Manaring Segundo",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

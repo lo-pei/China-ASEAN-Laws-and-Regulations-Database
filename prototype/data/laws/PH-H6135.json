@@ -1,7 +1,7 @@
 {
  "id": "PH-H6135",
  "title": {
-  "zh": null,
+  "zh": "修订消费税税基、将增收部分拨给特定工人的紧急就业计划，为此修订经修正的《国家国内税收法典》第 142 条并为其他目的法案",
   "en": "An Act Revising the Excise Tax Base, Allocating a Portion of the Incremental Revenue Collected for the Emergency Employment Program for Certain Workers Amending for the Purpose Section 142 of the National Internal Revenue Code, as Amended, and for Other Purposes",
   "orig": "An Act Revising the Excise Tax Base, Allocating a Portion of the Incremental Revenue Collected for the Emergency Employment Program for Certain Workers Amending for the Purpose Section 142 of the National Internal Revenue Code, as Amended, and for Other Purposes"
  },
@@ -131,5 +131,13 @@
     "en": "Effectivity Clause. — This Act shall take effect after fifteen (15) days from its publication in the Official Gazette or in at least two (2) national newspapers of general circulation whichever comes earlier.\nApproved, June 14, 1993."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Revising the Excise Tax Base, Allocating a Portion of the Incremental Revenue Collected for the Emergency Employment Program for Certain Workers Amending for the Purpose Section 142 of the National Internal Revenue Code, as Amended, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

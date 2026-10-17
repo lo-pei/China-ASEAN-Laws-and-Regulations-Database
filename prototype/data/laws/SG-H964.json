@@ -1,7 +1,7 @@
 {
  "id": "SG-H964",
  "title": {
-  "zh": null,
+  "zh": "货币（硬币面额与特征）（第 2 号）公告 2011",
   "en": "Currency (Denominations and Characteristics of Coins) (No. 2) Notification 2011",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE 2011 SINGAPORE 46 YEARS OF INDEPENDENCE COINS TO BE ISSUED ON 27TH JULY 2011\nDenomination\nMetal\nStandard Weight\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n5 Dollars\n999 Fine Silver\n31.103 g ± 0.50 g\n40.70 mm ± 0.30 mm\n3.30 mm ± 0.40 mm\nOctagon\nPlain\nThe Singapore Arms in the centre with the year-date “2011” below it and the word “SINGAPORE” in the 4 official languages around the Singapore Arms. The position of the mintmark is at 5 o’clock of the proof coin.\nThe coin design reflects the National Day Parade (NDP) 2011 theme “Majulah! The Singapore Spirit”. The official NDP 2011 logo is at the upper centre of the coin while a mosaic formation of Singapore’s coastline by performers holding coloured cards on the floating platform occupies the bottom half. “The Singapore Spirit”, tagline for the NDP 2011 theme, runs across the mosaic formation. To add to the festive cheer, the diversity of people joining in the celebrations is depicted through human silhouettes at the centre. The newly opened Helix Bridge and the Esplanade Outdoor Theatre are also incorporated in the design to portray the NDP venue surroundings. The denomination is at the upper left, while the words “46 Years of Independence” are on the upper right of the coin.\n2 Dollars\n75% Copper 25% Nickel\n20.00 g ± 0.60 g\n38.70 mm ± 0.15 mm\n2.50 mm ± 0.30 mm\nRound\nMilled and bearing the words “MONETARY AUTHORITY OF SINGAPORE” and lion symbol.\nThe Singapore Arms in the centre with the year-date “2011” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin.\n(a)\n(b)\n(a)Reverse Design of the $5 Silver Proof Coin.\n(b)Reverse Design of the $2 Cupro-Nickel Proof-like Coin.\n(c)\n(d)\n(c)Obverse Design of the $5 Silver Proof Coin.\n(d)Obverse Design of the $2 Cupro-Nickel Proof-like Coin."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency (Denominations and Characteristics of Coins) (No. 2) Notification 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

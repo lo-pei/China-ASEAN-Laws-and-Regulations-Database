@@ -1,7 +1,7 @@
 {
  "id": "SG-H811",
  "title": {
-  "zh": null,
+  "zh": "消费者保护（符合性评估）条例 2025",
   "en": "Consumer Protection (Conformity Assessment) Regulations 2025",
   "orig": null
  },
@@ -362,5 +362,11 @@
     "en": "SECOND SCHEDULE\nRegulation 6(1)\nFees\n1.Application for or renewal of designation —\n(a)as a CAB (Certification)\n$500\n(b)as a CAB (Testing)\n$500"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Consumer Protection (Conformity Assessment) Regulations 2025",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6657",
  "title": {
-  "zh": null,
+  "zh": "进一步放宽外国投资，为此修订第 7042 号共和国法并为其他目的法案",
   "en": "An Act to Further Liberalize Foreign Investments, Amending for the Purpose Republic Act No. 7042, and for Other Purposes",
   "orig": "An Act to Further Liberalize Foreign Investments, Amending for the Purpose Republic Act No. 7042, and for Other Purposes"
  },
@@ -81,14 +81,15 @@
    }
   },
   {
-   "id": "PH-H6657-A3_2",
+   "id": "PH-H6657-A3-d2",
    "no": 3,
    "noLabel": {
     "en": "Section 3."
    },
    "text": {
     "en": "Section 8 of the Foreign Investments Act of 1991 is hereby amended to read as follows:\n\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H6657-A8",
@@ -151,44 +152,56 @@
    }
   },
   {
-   "id": "PH-H6657-A7_2",
+   "id": "PH-H6657-A7-d2",
    "no": 7,
    "noLabel": {
     "en": "Section 7."
    },
    "text": {
     "en": "The NEDA is hereby directed to make the necessary amendments to the implementing rules and regulations of Republic Act No. 7042 in order to reflect the changes embodied in this Act."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H6657-A8_2",
+   "id": "PH-H6657-A8-d2",
    "no": 8,
    "noLabel": {
     "en": "Section 8."
    },
    "text": {
     "en": "Sections 9 and 10 of Republic Act No. 7042 and all references thereto in said law are hereby repealed or modified accordingly. All other laws, rules and regulations and/or parts thereof inconsistent with the provisions of this Act are hereby repealed or modified accordingly."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H6657-A9_2",
+   "id": "PH-H6657-A9-d2",
    "no": 9,
    "noLabel": {
     "en": "Section 9."
    },
    "text": {
     "en": "If any part or section of this Act is declared unconstitutional for any reason whatsoever, such declaration shall not in any way affect the other parts or sections of this Act."
-   }
+   },
+   "dupIndex": 2
   },
   {
-   "id": "PH-H6657-A10_2",
+   "id": "PH-H6657-A10-d2",
    "no": 10,
    "noLabel": {
     "en": "Section 10."
    },
    "text": {
     "en": "This Act shall take effect fifteen (15) days after publication in two (2) newspapers of general circulation in the Philippines."
-   }
+   },
+   "dupIndex": 2
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Liberalize Foreign Investments, Amending for the Purpose Republic Act No. 7042, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H5459",
  "title": {
-  "zh": null,
+  "zh": "管制有毒物质及危险与核废物的法案，规定违规处罚并为其他目的",
   "en": "An Act to Control Toxic Substances and Hazardous and Nuclear Wastes, Providing Penalties for Violations Thereof, and for Other Purposes",
   "orig": "An Act to Control Toxic Substances and Hazardous and Nuclear Wastes, Providing Penalties for Violations Thereof, and for Other Purposes"
  },
@@ -242,5 +242,13 @@
     "en": "Effectivity. – This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in any newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Control Toxic Substances and Hazardous and Nuclear Wastes, Providing Penalties for Violations Thereof, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

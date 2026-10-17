@@ -1,7 +1,7 @@
 {
  "id": "SG-H2287",
  "title": {
-  "zh": null,
+  "zh": "所得税（国际税收合规协议）（主管当局协议）（第 2 号）命令 2017",
   "en": "Income Tax (International Tax Compliance Agreements) (Competent Authority Agreements) (No. 2) Order 2017",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nCompetent authority agreements\n1. [Deleted by S 97/2025 wef 01/01/2026]\n2. [Deleted by S 97/2025 wef 01/01/2026]\n3. Agreement between the competent authorities of Singapore and Italy on the automatic exchange of financial account information to improve international tax compliance, signed on 3 November 2016\n4. [Deleted by S 97/2025 wef 01/01/2026]\n5. [Deleted by S 97/2025 wef 01/01/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (International Tax Compliance Agreements) (Competent Authority Agreements) (No. 2) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

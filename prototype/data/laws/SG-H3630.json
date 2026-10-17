@@ -1,7 +1,7 @@
 {
  "id": "SG-H3630",
  "title": {
-  "zh": null,
+  "zh": "救世军条例 1939",
   "en": "Salvation Army Ordinance 1939",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "11. Nothing in this Ordinance shall prejudice or affect the right of the Government or any body politic or corporate or of any other person or persons, except such as are mentioned in this Ordinance and those claiming by, from, through, or under them.\n[7/97]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Salvation Army Ordinance 1939",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

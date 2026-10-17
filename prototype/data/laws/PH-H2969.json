@@ -1,7 +1,7 @@
 {
  "id": "PH-H2969",
  "title": {
-  "zh": null,
+  "zh": "授权拨款50万比索，在麦金利堡的英雄公墓及其他地点修建纪念阵亡士兵墓的纪念碑的法案",
   "en": "An Act Authorizing the Appropriation of Five Hundred Thousand Pesos for the Construction of Memorial Monuments to Mark the Graves of Soldiers Buried at the Libingan ng mga Bayani in Fort William Mckinley, and Other Places",
   "orig": "An Act Authorizing the Appropriation of Five Hundred Thousand Pesos for the Construction of Memorial Monuments to Mark the Graves of Soldiers Buried at the Libingan ng mga Bayani in Fort William Mckinley, and Other Places"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of Five Hundred Thousand Pesos for the Construction of Memorial Monuments to Mark the Graves of Soldiers Buried at the Libingan ng mga Bayani in Fort William Mckinley, and Other Places",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H4705",
  "title": {
-  "zh": null,
+  "zh": "加强保险专员办公室工作队伍并规定职业激励措施的法案",
   "en": "An Act to Strengthen the Working Force of the Office of Insurance Commissioner and to Provide Career Incentives Therein",
   "orig": "An Act to Strengthen the Working Force of the Office of Insurance Commissioner and to Provide Career Incentives Therein"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Strengthen the Working Force of the Office of Insurance Commissioner and to Provide Career Incentives Therein",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

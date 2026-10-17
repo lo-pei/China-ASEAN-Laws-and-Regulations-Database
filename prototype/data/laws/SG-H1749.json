@@ -1,7 +1,7 @@
 {
  "id": "SG-H1749",
  "title": {
-  "zh": null,
+  "zh": "内政部制服服务（INVEST 基金）条例",
   "en": "Home Affairs Uniformed Services (INVEST Fund) Regulations",
   "orig": null
  },
@@ -372,5 +372,13 @@
     "en": "21.—(1) Where the Board is satisfied that any excess amount has been credited in error to any subsidiary account of any member of the INVEST Plan or the Scheme, as the case may be, the Board may rectify the error by deducting the excess from the subsidiary account concerned.\n(2) Where an error in any subsidiary account of a member of the INVEST Plan or the Scheme, as the case may be is rectified under paragraph (1), the member concerned may, within 14 days after receiving a statement under regulation 20 showing the rectification error, appeal to the Minister against the rectification, and the decision of the Minister shall be final.\n(3) In paragraph (2), “Minister” —\n(a)in relation to a member of the INVEST Plan, means the Minister for Home Affairs; and\n(b)in relation to a member of the Scheme, means the Prime Minister."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Home Affairs Uniformed Services (INVEST Fund) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

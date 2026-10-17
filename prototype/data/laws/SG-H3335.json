@@ -1,7 +1,7 @@
 {
  "id": "SG-H3335",
  "title": {
-  "zh": null,
+  "zh": "国民服役人员（雇佣）（私人雇主与法定机构）命令",
   "en": "National Servicemen (Employment) (Private Employers and Statutory Bodies) Order",
   "orig": null
  },
@@ -90,5 +90,13 @@
     "en": "4. This Order shall not apply to a private employer or statutory body employing an employee who —\n(a)is appointed as a member of the Academic Staff of the National University of Singapore, the Singapore Polytechnic or the Ngee Ann Polytechnic;\n(b)holds a post in a statutory body carrying a substantive salary of $1,920 and above;\n(c)holds a post in any company, corporation or partnership carrying a substantive salary of $1,920 and above or is employed by any association or body of persons and receives a substantive salary of $1,920 and above;\n(d)is employed as a minister of religion;\n(e)is employed as a domestic servant;\n(f)is employed as a building construction worker; or\n(g)being a woman is employed as a midwife, air hostess, dance hostess, bar waitress, nurse, model, private secretary, receptionist, telephone operator, hairdresser, seamstress, beautician, usher and shop assistant."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "National Servicemen (Employment) (Private Employers and Statutory Bodies) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

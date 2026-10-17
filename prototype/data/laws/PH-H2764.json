@@ -1,7 +1,7 @@
 {
  "id": "PH-H2764",
  "title": {
-  "zh": null,
+  "zh": "修订第2301号共和国法第2条第d款第I组东内格罗斯省第38目第（f） on Page 440项的法案",
   "en": "An Act Amending Item (f) on Page 440, Subparagraph 38, for the Province of Negros Oriental, Group I, Paragraph d, Section Two of Republic Act Numbered Twenty-Three Hundred and One",
   "orig": "An Act Amending Item (f) on Page 440, Subparagraph 38, for the Province of Negros Oriental, Group I, Paragraph d, Section Two of Republic Act Numbered Twenty-Three Hundred and One"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Item (f) on Page 440, Subparagraph 38, for the Province of Negros Oriental, Group I, Paragraph d, Section Two of Republic Act Numbered Twenty-Three Hundred and One",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

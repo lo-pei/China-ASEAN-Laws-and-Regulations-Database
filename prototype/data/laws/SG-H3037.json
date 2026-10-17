@@ -1,7 +1,7 @@
 {
  "id": "SG-H3037",
  "title": {
-  "zh": null,
+  "zh": "酒类管制（供应与消费）（豁免）命令 2017",
   "en": "Liquor Control (Supply and Consumption) (Exemption) Order 2017",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "4.—(1) Where —\n(a)licensed premises are specified in a liquor licence; and\n(b)the licensee also supplies liquor online or through a telecommunication service,\n[S 719/2023 wef 02/01/2024]\nthe licensee is exempted from section 6(1)(a) of the Act for the sale of liquor online or through the telecommunication service outside of the trading hours applicable to the licensee.\n[S 719/2023 wef 02/01/2024]\n(2) A licensee is exempted from section 6(1)(a) of the Act for the delivery of liquor, outside of the trading hours applicable to the licensee, to —\n(a)any other licensed premises; or\n(b)a place that is not a public place."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Liquor Control (Supply and Consumption) (Exemption) Order 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

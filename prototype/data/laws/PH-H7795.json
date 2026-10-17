@@ -1,7 +1,7 @@
 {
  "id": "PH-H7795",
  "title": {
-  "zh": null,
+  "zh": "将伊富高省拉加韦市镇菲律宾国家警察省办公室命名为Camp Colonel Joaquin P. Dunuan的法案",
   "en": "An Act Naming the Philippine National Police Provincial Office in the Municipality of Lagawe, Province of Ifugao as Camp Colonel Joaquin P. Dunuan",
   "orig": "An Act Naming the Philippine National Police Provincial Office in the Municipality of Lagawe, Province of Ifugao as Camp Colonel Joaquin P. Dunuan"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Naming the Philippine National Police Provincial Office in the Municipality of Lagawe, Province of Ifugao as Camp Colonel Joaquin P. Dunuan",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1172",
  "title": {
-  "zh": null,
+  "zh": "外交与领事关系（英联邦秘书处）命令 2008",
   "en": "Diplomatic and Consular Relations (Commonwealth Secretariat) Order 2008",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Every high officer or member of the staff of the Commonwealth Secretariat enjoys and has, when present in Singapore on any Commonwealth mission, in addition to his or her immunities and privileges under the International Organisations (Immunities and Privileges) (Commonwealth Secretariat) Order 2008, inviolability of his or her documents and papers relating to the work of the Commonwealth Secretariat, except insofar as in any particular case that immunity is waived —\n(a)in the case of a high officer (not being the Secretary‑General) or member of the staff of the Commonwealth Secretariat — by the Secretary‑General or the Commonwealth Secretariat; or\n(b)in the case of the Secretary‑General — by the Commonwealth Heads of Government, the Board of Governors of the Commonwealth or the Commonwealth Secretariat."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Diplomatic and Consular Relations (Commonwealth Secretariat) Order 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

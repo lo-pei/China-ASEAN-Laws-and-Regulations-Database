@@ -1,7 +1,7 @@
 {
  "id": "SG-H110",
  "title": {
-  "zh": null,
+  "zh": "主动出行（销售例外不合规车辆）条例 2026",
   "en": "Active Mobility (Sale of Excepted Non-Compliant Vehicles) Regulations 2026",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) A person who sells an excepted non‑compliant vehicle that is not a registrable mobility vehicle under section 34(7) of the Act must, within 7 days of the sale, provide the following documents or information to the Authority in the form and manner specified by the Authority:\n(a)the make and model of the vehicle;\n(b)the date of the sale;\n(c)a copy of the receipt for the sale of the vehicle or any evidence of the sale specified by the Authority;\n(d)a copy of any evidence specified by the Authority verifying that the intended user may drive or ride the vehicle on all public paths under section 20(1) and (2) of the Act;\n(e)the following identification information of the buyer and intended user of the vehicle:\n(i)full name;\n(ii)address, which must be —\n(A)for an individual — the address of the individual’s usual place of residence; or\n(B)for a body corporate or unincorporate — the address of its registered office and principal place of business;\n(iii)contact number;\n(iv)identification number, which must be —\n(A)for an individual — an identity card number, a passport number, a taxpayer identification number or the number of any other document of identity issued by a government as evidence of the individual’s nationality or residence or bearing a photograph of the individual; or\n(B)for a body corporate or unincorporate — a registration number or the number of any other document issued by any government certifying the incorporation, registration or existence of the body corporate or unincorporate.\n(2) A person who, without reasonable excuse, contravenes paragraph (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Sale of Excepted Non-Compliant Vehicles) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

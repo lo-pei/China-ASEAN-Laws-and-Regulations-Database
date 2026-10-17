@@ -1,7 +1,7 @@
 {
  "id": "PH-H5122",
  "title": {
-  "zh": null,
+  "zh": "将莱特省Baybay市镇西莱特总医院床位由50张增至75张并授权为此拨款的法案",
   "en": "An Act Increasing the Bed Capacity of the Western Leyte General Hospital in the Municipality of Baybay, Province of Leyte, From Fifty to Seventy-Five Beds, and Authorizing the Appropriation of Funds Therefor.",
   "orig": "An Act Increasing the Bed Capacity of the Western Leyte General Hospital in the Municipality of Baybay, Province of Leyte, From Fifty to Seventy-Five Beds, and Authorizing the Appropriation of Funds Therefor."
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Western Leyte General Hospital in the Municipality of Baybay, Province of Leyte, From Fifty to Seventy-Five Beds, and Authorizing the Appropriation of Funds Therefor.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

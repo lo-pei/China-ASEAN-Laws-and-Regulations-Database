@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-140-RG-2-2016-NURSES-REGISTRATION-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG 2 2016 版护士注册条例",
   "en": "RG 2 2016 ED NURSES REGISTRATION REGULATIONS",
   "orig": null
  },
@@ -245,5 +245,13 @@
     "en": "The fees specified in the Schedule shall be paid in respect of the matters to which they relate.\n\nSCHEDULE (Regulations 4(2), 8(2), 8(5), 10(2), 13, 15(1) and 16 FEES Registration fee $75 Practising certificate $25 per year Fee for late renewal of practising certificate:\n\n(a) 30 days or more $10\n\n(b) 60 days or more $12 and $2 for every subsequent day during which the default continues Replacement of Certificate of Registration $25 Replacement of practising certificate $25 Replacement badge $25 Certificate of verification of registration for purposes $20 of registration outside Brunei Darussalam Letter of good standing $50"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 2 2016 ED NURSES REGISTRATION REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

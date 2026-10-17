@@ -1,7 +1,7 @@
 {
  "id": "PH-H1213",
  "title": {
-  "zh": null,
+  "zh": "宣布公职人员或雇员非法取得的财产一律归国家所有并规定相关程序的法案",
   "en": "An Act Declaring Forfeiture in Favor of the State Any Property Found to Have Been Unlawfully Acquired by Any Public Officer or Employee and Providing for the Proceedings Therefor",
   "orig": "An Act Declaring Forfeiture in Favor of the State Any Property Found to Have Been Unlawfully Acquired by Any Public Officer or Employee and Providing for the Proceedings Therefor"
  },
@@ -180,5 +180,13 @@
     "en": "Effective date. This Act shall take effect on its approval, and shall apply not only to property thereafter unlawfully acquired but also to property unlawfully acquired before the effective date of this Act.\nApproved: June 18, 1955"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring Forfeiture in Favor of the State Any Property Found to Have Been Unlawfully Acquired by Any Public Officer or Employee and Providing for the Proceedings Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

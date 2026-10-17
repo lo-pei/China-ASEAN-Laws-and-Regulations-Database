@@ -1,7 +1,7 @@
 {
  "id": "SG-H202",
  "title": {
-  "zh": null,
+  "zh": "动物与禽鸟（宠物店及其他用途场所许可）规则",
   "en": "Animals and Birds (Licensing of Premises for Pet Shop and Other Purposes) Rules",
   "orig": null
  },
@@ -199,5 +199,13 @@
     "en": "SECOND SCHEDULE\nRule 4(1)(a)\nFees\n1.Application for, or to renew, a licence for any premises to be used for any purpose mentioned in rule 3(1)(a), (b) or (c) for a year or part of a year\n$126\n2.Application for, or to renew, a licence for any premises to be used for any purpose mentioned in rule 3(1)(d), (e) or (f) for a year or part of a year\n$100\n[S 667/2024 wef 29/08/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Animals and Birds (Licensing of Premises for Pet Shop and Other Purposes) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1696",
  "title": {
-  "zh": null,
+  "zh": "保健品（良好生产规范证书——化妆品）条例 2011",
   "en": "Health Products (Good Manufacturing Practice Certificate — Cosmetic Products) Regulations 2011",
   "orig": null
  },
@@ -88,5 +88,13 @@
    },
    "status": "repealed"
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Health Products (Good Manufacturing Practice Certificate — Cosmetic Products) Regulations 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

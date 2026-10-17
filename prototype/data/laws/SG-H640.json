@@ -1,7 +1,7 @@
 {
  "id": "SG-H640",
  "title": {
-  "zh": null,
+  "zh": "民防条例",
   "en": "Civil Defence Regulations",
   "orig": null
  },
@@ -195,5 +195,13 @@
     "en": "10.—(1) If any legal proceedings are instituted against a member in connection with any matter arising out of his official duties, he shall forthwith report the legal proceedings to the Commissioner. The member shall not enter into any negotiations with the complainant with a view to compounding an offence without the prior sanction of the Commissioner.\n(2) No member shall take any step to institute legal proceedings on his own behalf in connection with any matters whatsoever arising out of his official duties without the previous consent of the Commissioner.\n(3) A member may apply for legal aid in proceedings taken by or against him arising from matters connected with the performance of his official duties but no charges incurred through employing such aid shall be paid by the Government unless the prior sanction of the Government to such employment has been obtained."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Civil Defence Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H318",
  "title": {
-  "zh": null,
+  "zh": "关于设立名为国家机场公司的公营公司、界定其权力与职责并为此拨款的法案",
   "en": "An Act to Create a Public Corporation to be Known as the \"National Airports Corporation,\" to Define its Powers and Duties, to Appropriate the Necessary Funds Therefor, and for Other Purposes",
   "orig": "An Act to Create a Public Corporation to be Known as the \"National Airports Corporation,\" to Define its Powers and Duties, to Appropriate the Necessary Funds Therefor, and for Other Purposes"
  },
@@ -150,5 +150,11 @@
     "en": "This Act shall take effect on its approval.\nApproved: June 5, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act to Create a Public Corporation to be Known as the \"National Airports Corporation,\" to Define its Powers and Duties, to Appropriate the Necessary Funds Therefor, and for Other Purposes",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

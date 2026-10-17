@@ -1,7 +1,7 @@
 {
  "id": "PH-H6121",
  "title": {
-  "zh": null,
+  "zh": "规定从石油价格稳定基金中支付菲律宾共和国国家政府对国家电力公司资本股的部分认购款，为此修订经修正的第1956号总统令的法案",
   "en": "An Act Providing for the Payment in Part of the Subscription of the National Government of the Republic of the Philippines to the Capital Stock of the National Power Corporation Out of the Oil Price Stabilization Fund, Amending for the Purpose Presidential Decree No. 1956, as Amended",
   "orig": "An Act Providing for the Payment in Part of the Subscription of the National Government of the Republic of the Philippines to the Capital Stock of the National Power Corporation Out of the Oil Price Stabilization Fund, Amending for the Purpose Presidential Decree No. 1956, as Amended"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its publication in two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Payment in Part of the Subscription of the National Government of the Republic of the Philippines to the Capital Stock of the National Power Corporation Out of the Oil Price Stabilization Fund, Amending for the Purpose Presidential Decree No. 1956, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3561",
  "title": {
-  "zh": null,
+  "zh": "植物品种保护规则",
   "en": "Plant Varieties Protection Rules",
   "orig": null
  },
@@ -1398,5 +1398,13 @@
     "en": "FIFTH SCHEDULE\nRule 64(1)\nScale of Costs\nMatter\nAmount\n1.\nDrawing and filing notice of objection, application for cancellation of a grant of protection, or application for rectification of an entry in the register, all including a statement of grounds\n$200\n2.\nDrawing and filing counter-statement\n$200\n3.\nPreparing and filing evidence for objection and revocation, invalidation or rectification proceedings\n$200 — $1,000 per statutory declaration\n4.\nPerusing any document referred to in items 1, 2 and 3\n$100 — $500 per document\nINTERLOCUTORY HEARINGS\n$50 — $300\n5.\nPreparing for all interlocutory proceedings\n6.\nAttending all interlocutory proceedings\n$50 — $300\nFULL HEARINGS\n$500 — $2,000\n7.\nPreparing for hearing\n8.\nAttendance at hearing\n$200 an hour or $800 a day\n9.\nGeneral expenses and travelling of each witness required to attend the hearing\n$100 — $200 per day (Expert)\n$50 — $100 per day (Non expert)\nASSESSMENT\n$3 per page\n10.\nDrawing bill of costs\n11.\nAttending assessment\n$100-$300.\n[S 261/2022 wef 01/04/2022]\n[S 689/2021 wef 01/10/2021]\n[G.N. No. S 368/2004]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Plant Varieties Protection Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

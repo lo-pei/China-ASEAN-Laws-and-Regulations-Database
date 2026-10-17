@@ -1,7 +1,7 @@
 {
  "id": "SG-H3596",
  "title": {
-  "zh": null,
+  "zh": "公共秩序法 2009",
   "en": "Public Order Act 2009",
   "orig": null
  },
@@ -854,5 +854,13 @@
     "en": "48.—(1) This Act has effect despite any other law relating to the movement of traffic or pedestrians on roads or the use or obstruction of a public place, to air navigation, to public entertainment or to undesirable publications.\n[16/2015]\n(2) Despite subsection (1), nothing in this Act affects the common law of trespass and, in particular, the right of a person in, or entitled to, possession of land to request a trespasser to leave the land, and if the trespasser refuses to leave on being requested, to remove the trespasser from the land.\n(3) To avoid doubt, nothing in Part 3 affects the operation of the provisions of the Liquor Control (Supply and Consumption) Act 2015 in relation to any Liquor Control Zone declared under section 15(1) of that Act that falls wholly or partly within a special event area.\n[23/2017]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Public Order Act 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1095",
  "title": {
-  "zh": null,
+  "zh": "所得税扣除（雇佣）规则",
   "en": "Deduction of Income Tax (Employments) Rules",
   "orig": null
  },
@@ -246,5 +246,13 @@
     "en": "16. A direction shall be served on the employer to whom it is addressed and section 8 of the Act shall apply to such service in like manner as to service of notices."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Deduction of Income Tax (Employments) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

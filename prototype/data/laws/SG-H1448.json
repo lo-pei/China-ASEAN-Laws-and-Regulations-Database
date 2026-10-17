@@ -1,7 +1,7 @@
 {
  "id": "SG-H1448",
  "title": {
-  "zh": null,
+  "zh": "遗产税豁免——丰田汽车信贷公司",
   "en": "Exemption from Estate Duty — Toyota Motor Credit Corporation",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Estate Duty Act\n(Chapter 96)\nExemption from Estate Duty — Toyota Motor Credit Corporation\nIt is hereby notified for general information that, pursuant to section 12(1)(c) of the Estate Duty Act, the Minister for Finance has approved the Toyota Motor Credit Corporation US$1,000,000,000 7.00 per cent Notes due 2007 for exemption from estate duty."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Exemption from Estate Duty — Toyota Motor Credit Corporation",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H241",
  "title": {
-  "zh": null,
+  "zh": "规定凡涉及任何人或其财产或两者监护程序的动议或申请在菲律宾任何法院提出时，须向退伍军人管理局作出充分通知，但以受监护财产全部或部分源自美国退伍军人管理局为限的法案",
   "en": "An Act Providing Sufficient Notice to the Veterans Administration of Motions or Petitions Filed in Any Court of the Philippines Relative to Guardianship Proceedings of Any Person or His Estate, or Both, When the Whole or Part of the Estate Under Guardianship is Derived from the United States Veterans Administration",
   "orig": "An Act Providing Sufficient Notice to the Veterans Administration of Motions or Petitions Filed in Any Court of the Philippines Relative to Guardianship Proceedings of Any Person or His Estate, or Both, When the Whole or Part of the Estate Under Guardianship is Derived from the United States Veterans Administration"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 14, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing Sufficient Notice to the Veterans Administration of Motions or Petitions Filed in Any Court of the Philippines Relative to Guardianship Proceedings of Any Person or His Estate, or Both, When the Whole or Part of the Estate Under Guardianship is Derived from the United States Veterans Administration",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

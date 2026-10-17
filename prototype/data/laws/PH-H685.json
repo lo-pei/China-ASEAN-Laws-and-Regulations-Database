@@ -1,7 +1,7 @@
 {
  "id": "PH-H685",
  "title": {
-  "zh": null,
+  "zh": "授权五年内每年拨款两千万比索用于公立小学教学楼的建设、重建、改善及/或修缮的法案",
   "en": "An Act Authorizing the Appropriation of the Sum of Twenty Million Pesos Annually for a Period of Five Years for the Construction, Reconstruction, Improvement And/or Repair of Public Elementary School Buildings",
   "orig": "An Act Authorizing the Appropriation of the Sum of Twenty Million Pesos Annually for a Period of Five Years for the Construction, Reconstruction, Improvement And/or Repair of Public Elementary School Buildings"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: March 12, 1953"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of the Sum of Twenty Million Pesos Annually for a Period of Five Years for the Construction, Reconstruction, Improvement And/or Repair of Public Elementary School Buildings",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

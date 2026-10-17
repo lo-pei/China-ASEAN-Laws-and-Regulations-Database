@@ -1,0 +1,146 @@
+{
+ "id": "BN-CAP-62-2019-MONEYLENDERS-ACT",
+ "title": {
+  "zh": "放债人法",
+  "en": "MONEYLENDERS ACT",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p23",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": {
+  "en": "An Act to provide for the registration of moneylenders and to restrict"
+ },
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 8,
+ "chars": 2125,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-62-2019-ED-MONEYLENDERS-ACT.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-62-2019-ED-MONEYLENDERS-ACT.pdf》（6 页），本次切分 8 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-62-2019-MONEYLENDERS-ACT-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "This Act may be cited as the Moneylenders Act."
+   }
+  },
+  {
+   "id": "BN-CAP-62-2019-MONEYLENDERS-ACT-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "(1) In this Act — “Authority” means the Autoriti Monetari Brunei Darussalam established by the Autoriti Monetari Brunei Darussalam Order, “moneylenders” means any person who habitually lends money at Provided that this expression shall not include the Government or a bank licensed under section 4 or 23 of the Banking Order, 2006 (S 45/2006), a finance company licensed under section 6 of the Finance Companies Act (Chapter 89) or a licensee within the meaning of the International Banking Order, 2000 (S 53/2000). [S 53/2000; S 45/2006; S 103/2010]\n\n(2) A person who is proved to have lent money at interest on one occasion shall, until the contrary be proved, is deemed to have habitually lent money at interest."
+   }
+  },
+  {
+   "id": "BN-CAP-62-2019-MONEYLENDERS-ACT-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "heading": {
+    "en": "Moneylenders to be registered and licensed"
+   },
+   "text": {
+    "en": "(1) No person shall carry on the business of a moneylender unless he is registered as such and has obtained a licence from the Authority.\n\n(2) The register shall contain the place of residence of the\n\n(3) Licences shall be granted annually and a fee of $500 shall be charged for every licence."
+   }
+  },
+  {
+   "id": "BN-CAP-62-2019-MONEYLENDERS-ACT-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "heading": {
+    "en": "Documents to be properly stamped"
+   },
+   "text": {
+    "en": "An acknowledgement in writing shall be made for every loan, and for every payment made an account of principal or interest and such documents shall be stamped with the value provided in the Stamp Act (Chapter 34) for the time being."
+   }
+  },
+  {
+   "id": "BN-CAP-62-2019-MONEYLENDERS-ACT-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "text": {
+    "en": "(Repealed by S 45/2006)."
+   }
+  },
+  {
+   "id": "BN-CAP-62-2019-MONEYLENDERS-ACT-A6",
+   "no": 6,
+   "noLabel": {
+    "en": "Section 6."
+   },
+   "heading": {
+    "en": "Moneylenders to keep register"
+   },
+   "text": {
+    "en": "Every moneylender shall keep a register showing the name, sex, age and national of every person to whom a loan is made, the amount actually lent, the rate of interest and the security if any; and such register shall be produced for the inspection of any magistrate on demand. Authority may vary rates of interest and make rules [S 103/2010]"
+   }
+  },
+  {
+   "id": "BN-CAP-62-2019-MONEYLENDERS-ACT-A7",
+   "no": 7,
+   "noLabel": {
+    "en": "Section 7."
+   },
+   "heading": {
+    "en": "____________________________"
+   },
+   "text": {
+    "en": "It shall be lawful for the Authority to vary the licence fees or rates of interest, and to make rules by public notification for the effective working of"
+   }
+  },
+  {
+   "id": "BN-CAP-62-2019-MONEYLENDERS-ACT-A8",
+   "no": 8,
+   "noLabel": {
+    "en": "Section 8."
+   },
+   "text": {
+    "en": "(1) Any person who contravenes the provisions of section 3 is guilty of an offence and liable on conviction to a fine of $500 and imprisonment for 18 months.\n\n(2) Any person who contravenes the provisions of section 4 or 6 is guilty of an offence and liable on conviction to a fine of $2,500 and imprisonment for 6 months."
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "MONEYLENDERS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

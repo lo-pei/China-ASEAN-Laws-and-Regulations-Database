@@ -1,7 +1,7 @@
 {
  "id": "PH-H3903",
  "title": {
-  "zh": null,
+  "zh": "在拉乌尼翁省Balaoan市镇设立妇产与儿童医院，名称为北拉乌尼翁妇产与儿童医院，并为此拨款的法案",
   "en": "An Act Establishing a Maternity and Children's Hospital in the Municipality Balaoan, Province of La Union, to be Known as Northern La Union Maternity and Children's Hospital, and Appropriating Funds Therefor",
   "orig": "An Act Establishing a Maternity and Children's Hospital in the Municipality Balaoan, Province of La Union, to be Known as Northern La Union Maternity and Children's Hospital, and Appropriating Funds Therefor"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing a Maternity and Children's Hospital in the Municipality Balaoan, Province of La Union, to be Known as Northern La Union Maternity and Children's Hospital, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

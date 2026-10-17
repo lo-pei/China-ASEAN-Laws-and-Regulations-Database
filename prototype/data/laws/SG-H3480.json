@@ -1,7 +1,7 @@
 {
  "id": "SG-H3480",
  "title": {
-  "zh": null,
+  "zh": "停车场所规则",
   "en": "Parking Places Rules",
   "orig": null
  },
@@ -480,5 +480,13 @@
     "en": "THE SCHEDULE\nRule 2A(1)\nParking Place Signs\nDiagram 1\nParking Place Signs\nDiagram 2\nParking Place Signs\nDiagram 3\nParking Place Signs\nDiagram 4\nParking Place Signs\nDiagram 5\nParking Place Signs\nDiagram 6\nParking Place Signs\nDiagram 7\n[S 354/2010 wef 01/07/2010]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Parking Places Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

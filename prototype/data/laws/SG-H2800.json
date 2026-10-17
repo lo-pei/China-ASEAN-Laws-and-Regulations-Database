@@ -1,7 +1,7 @@
 {
  "id": "SG-H2800",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与清盘（自愿安排）条例 2020",
   "en": "Insolvency, Restructuring and Dissolution (Voluntary Arrangements) Regulations 2020",
   "orig": null
  },
@@ -358,5 +358,13 @@
     "en": "20. The fees, costs, charges and expenses that a nominee may incur in connection with a voluntary arrangement are —\n(a)any disbursements made by the nominee prior to the approval of the nominee’s appointment;\n(b)any remuneration for the services of the nominee as agreed between the nominee and the debtor in question; and\n(c)any fees, costs, charges or expenses which —\n(i)are sanctioned by the terms of the voluntary arrangement; or\n(ii)would be payable, or correspond to those which would be payable, in the event of the debtor’s bankruptcy."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insolvency, Restructuring and Dissolution (Voluntary Arrangements) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

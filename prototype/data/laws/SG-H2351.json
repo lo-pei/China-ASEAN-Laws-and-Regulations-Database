@@ -1,7 +1,7 @@
 {
  "id": "SG-H2351",
  "title": {
-  "zh": null,
+  "zh": "所得税（新加坡——埃及）（避免双重征税协定）（为实施多边文书所作的修改）命令 2020",
   "en": "Income Tax (Singapore — Egypt) (Avoidance of Double Taxation Agreement) (Modifications to Implement Multilateral Instrument) Order 2020",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraphs 3 and 4(1) and (3)\nDeletion and replacement of Preamble\n1. The Preamble of the Agreement is deleted and replaced by the following Preamble:\n“The Government of the Republic of Singapore and the Government of the Arab Republic of Egypt,\nDesiring to further develop their economic relationship and to enhance their co‑operation in tax matters,\nIntending to eliminate double taxation with respect to the taxes covered by this Agreement without creating opportunities for non‑taxation or reduced taxation through tax evasion or avoidance (including through treaty‑shopping arrangements aimed at obtaining reliefs provided in this Agreement for the indirect benefit of residents of third jurisdictions),\nHave agreed as follows:”.\nAmendment of Article 25\n2. Article 25 (Mutual Agreement Procedure) of the Agreement is amended by inserting, immediately after the words “not in accordance with this Agreement.” in paragraph 2, the words “Any agreement reached shall be implemented notwithstanding any time limits in the domestic law of the Contracting States.”.\nNew Article 28A\n3. The Agreement is amended by inserting, immediately after Article 28 (Miscellaneous Rules), the following Article:\n“ARTICLE 28A\nPREVENTION OF TREATY ABUSE\nNotwithstanding any provisions of this Agreement, a benefit under this Agreement shall not be granted in respect of an item of income or capital if it is reasonable to conclude, having regard to all relevant facts and circumstances, that obtaining that benefit was one of the principal purposes of any arrangement or transaction that resulted directly or indirectly in that benefit, unless it is established that granting that benefit in these circumstances would be in accordance with the object and purpose of the relevant provisions of this Agreement.”."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Singapore — Egypt) (Avoidance of Double Taxation Agreement) (Modifications to Implement Multilateral Instrument) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

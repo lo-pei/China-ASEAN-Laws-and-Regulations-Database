@@ -1,7 +1,7 @@
 {
  "id": "PH-H9667",
  "title": {
-  "zh": null,
+  "zh": "允许更正虚假出生记录并为此规定行政收养程序的法案",
   "en": "An Act Allowing the Rectification of Simulated Birth Records and Prescribing Administrative Adoption Proceedings for the Purpose",
   "orig": "An Act Allowing the Rectification of Simulated Birth Records and Prescribing Administrative Adoption Proceedings for the Purpose"
  },
@@ -369,5 +369,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Allowing the Rectification of Simulated Birth Records and Prescribing Administrative Adoption Proceedings for the Purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

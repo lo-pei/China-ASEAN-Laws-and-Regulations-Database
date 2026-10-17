@@ -1,7 +1,7 @@
 {
  "id": "PH-H4151",
  "title": {
-  "zh": null,
+  "zh": "授予 Bislig Bay Lumber Company 在菲律宾境内建设、运营和维护私人固定、航空、陆基、船舶、无线电测定与无线电信标站的临时许可的法案",
   "en": "An Act Granting Bislig Bay Lumber Company a Temporary Permit to Construct, Operate and Maintain Private Fixed, Aeronautical Fixed, Aeronautical, Land-Mobile/Portable, Based, Land-Mobile/Portable, Coast, Ship, Survival Craft, Radio Determination and Radio Beacon Stations for the Reception and Transmission of Wireless Intelligence in the Philippines",
   "orig": "An Act Granting Bislig Bay Lumber Company a Temporary Permit to Construct, Operate and Maintain Private Fixed, Aeronautical Fixed, Aeronautical, Land-Mobile/Portable, Based, Land-Mobile/Portable, Coast, Ship, Survival Craft, Radio Determination and Radio Beacon Stations for the Reception and Transmission of Wireless Intelligence in the Philippines"
  },
@@ -170,5 +170,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 15, 1968."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Bislig Bay Lumber Company a Temporary Permit to Construct, Operate and Maintain Private Fixed, Aeronautical Fixed, Aeronautical, Land-Mobile/Portable, Based, Land-Mobile/Portable, Coast, Ship, Survival Craft, Radio Determination and Radio Beacon Stations for the Reception and Transmission of Wireless Intelligence in the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1515",
  "title": {
-  "zh": null,
+  "zh": "费用（文件翻译——人力部）命令",
   "en": "Fees (Translation of Documents — Ministry of Manpower) Order",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. The Commissioner for Labour may, in his discretion, either —\n(a)refuse to undertake the translation of any document; or\n(b)remit any fee for the translation of any document, which, in his opinion, is directly connected with the work of the Ministry of Manpower."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Fees (Translation of Documents — Ministry of Manpower) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

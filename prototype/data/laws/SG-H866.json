@@ -1,7 +1,7 @@
 {
  "id": "SG-H866",
  "title": {
-  "zh": null,
+  "zh": "企业服务提供商条例 2025",
   "en": "Corporate Service Providers Regulations 2025",
   "orig": null
  },
@@ -880,5 +880,13 @@
     "en": "THE SCHEDULE\nRegulation 51(1)\nFees\nFirst column\nSecond column\n1.For application for registration as a registered corporate service provider under section 8(1)(c)\n$400 for every 2 years of registration applied for\n2.For application for renewal of registration as a registered corporate service provider under section 8(1)(c)\n$400 for every 2 years of registration applied for\n3.For application for registration as a registered qualified individual under section 10(1)(c)\n$200 for every 2 years of registration applied for\n4.For application for renewal of registration as a registered qualified individual under section 10(1)(c)\n$200 for every 2 years of registration applied for\n5.To attempt the AML/CPF/CFT test\n$45 for each attempt"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Corporate Service Providers Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

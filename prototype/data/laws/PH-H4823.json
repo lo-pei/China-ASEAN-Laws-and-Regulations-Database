@@ -1,7 +1,7 @@
 {
  "id": "PH-H4823",
  "title": {
-  "zh": null,
+  "zh": "延长免费专利申请人及不完善或未完备权利司法确认申请的提交期限的法案",
   "en": "An Act Extending the Time Limit for the Filing of Applications for Free Patents and for the Judicial Confirmation of Imperfect or Incomplete Titles.",
   "orig": "An Act Extending the Time Limit for the Filing of Applications for Free Patents and for the Judicial Confirmation of Imperfect or Incomplete Titles."
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 19, 1971"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Time Limit for the Filing of Applications for Free Patents and for the Judicial Confirmation of Imperfect or Incomplete Titles.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

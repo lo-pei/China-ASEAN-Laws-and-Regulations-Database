@@ -1,7 +1,7 @@
 {
  "id": "SG-H3690",
  "title": {
-  "zh": null,
+  "zh": "补充拨款（2025 财政年度）法 2026",
   "en": "Supplementary Supply (FY 2025) Act 2026",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nSections 3(2) and 4(2)\nHeads of Expenditure for which\nfurther sums are appropriated\nHead\nTitle\nAppropriation\nfrom\nConsolidated\nFund\nAppropriation\nfrom\nDevelopment\nFund\nTotal\nappropriations\n$\n$\n$\nB\nAttorney‑General’s Chambers\n…\n364,800\n364,800\nE\nJudicature\n16,486,700\n…\n16,486,700\nI\nMinistry of Social and Family Development\n…\n31,226,800\n31,226,800\nL\nMinistry of Sustainability and the Environment\n66,598,800\n16,361,800\n82,960,600\nP\nMinistry of Home Affairs\n472,103,300\n…\n472,103,300\nQ\nMinistry of Digital Development and Information\n…\n44,183,300\n44,183,300\nS\nMinistry of Manpower\n346,483,200\n22,275,000\n368,758,200\nT\nMinistry of National Development\n…\n909,322,000\n909,322,000\nV\nMinistry of Trade and Industry\n26,336,400\n…\n26,336,400\nW\nMinistry of Transport\n131,183,600\n1,137,286,200\n1,268,469,800\nZ\nFinancial Transfers\n28,163,800\n…\n28,163,800\nTotal\n1,087,355,800\n2,161,019,900\n3,248,375,700"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Supplementary Supply (FY 2025) Act 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

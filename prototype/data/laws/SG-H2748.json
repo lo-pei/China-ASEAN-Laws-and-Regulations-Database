@@ -1,7 +1,7 @@
 {
  "id": "SG-H2748",
  "title": {
-  "zh": null,
+  "zh": "继承（家庭供养）法 1966",
   "en": "Inheritance (Family Provision) Act 1966",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6.—(1) On an application made at a date after the expiration of the period specified in section 4(1), or, as the case may be, of that period as extended under section 4(2), the court may make such an order as is hereinafter mentioned, but only as respects property the income of which is at that date applicable for the maintenance of a dependant of the deceased, that is to say —\n(a)an order for varying the previous order on the ground that a material fact was not disclosed to the court when the order was made, or that a substantial change has taken place in the circumstances of the dependant or of a person beneficially interested in the property under the will or, as the case may be, under the law relating to intestacy; or\n(b)an order for making provision for the maintenance of another dependant of the deceased.\n(2) An application to the court for an order under subsection (1)(a) may be made by or on behalf of a dependant of the deceased or by the trustees of the property or by or on behalf of a person beneficially interested therein under the will or, as the case may be, under the law relating to intestacy."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Inheritance (Family Provision) Act 1966",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

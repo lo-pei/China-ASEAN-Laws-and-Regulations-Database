@@ -1,7 +1,7 @@
 {
  "id": "PH-H198",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾战争损失委员会委员及某些官员、司法部法律援助办公室律师与公立学校教师及官员就索赔文件主持宣誓的法案",
   "en": "An Act to Authorize Any Commissioner of the Philippine War Damage Commission Who is a Citizen of the Philippines, and Certain Officers and Employees Thereof, Attorneys of the Legal Aid Office of the Department of Justice and Public School Teachers and Other Public School Officials, to Administer Oaths on Claim Papers to be Submitted to the Philippine War Damage Commission",
   "orig": "An Act to Authorize Any Commissioner of the Philippine War Damage Commission Who is a Citizen of the Philippines, and Certain Officers and Employees Thereof, Attorneys of the Legal Aid Office of the Department of Justice and Public School Teachers and Other Public School Officials, to Administer Oaths on Claim Papers to be Submitted to the Philippine War Damage Commission"
  },
@@ -72,5 +72,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: April 16, 1947."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Authorize Any Commissioner of the Philippine War Damage Commission Who is a Citizen of the Philippines, and Certain Officers and Employees Thereof, Attorneys of the Legal Aid Office of the Department of Justice and Public School Teachers and Other Public School Officials, to Administer Oaths on Claim Papers to be Submitted to the Philippine War Damage Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

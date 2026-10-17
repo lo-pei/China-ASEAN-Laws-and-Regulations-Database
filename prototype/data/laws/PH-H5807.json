@@ -1,7 +1,7 @@
 {
  "id": "PH-H5807",
  "title": {
-  "zh": null,
+  "zh": "在朗布隆省 Torrijos、Gasan 与 Sta. Cruz 市镇设立农学院、渔业学院与朗布隆社区学院，作为朗布隆州立学院分校的法案",
   "en": "An Act Establishing the College of Agriculture in Barangay Poctoy, Municipality of Torrijos; the College of Fisheries in Barangay Pinggan, Municipality of Gasan; and the Marinduque Community College in the Municipality of Sta. Cruz, All in the Province of Marinduque, as Branches of the Marinduque State College, Boac, Marinduque",
   "orig": "An Act Establishing the College of Agriculture in Barangay Poctoy, Municipality of Torrijos; the College of Fisheries in Barangay Pinggan, Municipality of Gasan; and the Marinduque Community College in the Municipality of Sta. Cruz, All in the Province of Marinduque, as Branches of the Marinduque State College, Boac, Marinduque"
  },
@@ -102,5 +102,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the College of Agriculture in Barangay Poctoy, Municipality of Torrijos; the College of Fisheries in Barangay Pinggan, Municipality of Gasan; and the Marinduque Community College in the Municipality of Sta. Cruz, All in the Province of Marinduque, as Branches of the Marinduque State College, Boac, Marinduque",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

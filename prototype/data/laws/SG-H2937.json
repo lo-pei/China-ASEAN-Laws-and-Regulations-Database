@@ -1,7 +1,7 @@
 {
  "id": "SG-H2937",
  "title": {
-  "zh": null,
+  "zh": "土地增值费（优惠减免——黄金坊）命令 2024",
   "en": "Land Betterment Charge (Concessionary Relief — Golden Mile Complex) Order 2024",
   "orig": null
  },
@@ -123,5 +123,13 @@
     "en": "SECOND SCHEDULE\nParagraph 2\nFirst column\nSecond column\nUse Group\nRate\n1.Shop, office, association office, cinema, place of entertainment, clinic, medical suite, restaurant, petrol station, auto‑service centre, commercial garage, market, sports and recreation building\n$9,800\n2.Residential (landed dwelling‑house)\n$3,710\n3.Residential (non‑landed residential building)\n$9,100\n4.Hospital, hotel room and hotel‑related use\n$10,430\n5.Industrial, warehousing, science park, business park, transport depot, airport, dock, port uses, utility installation, telecommunication infrastructure, Mass Rapid Transit Station, Light Rail Transit Station\n$1,407\n6.Place of worship, community building, community sports and fitness building, educational and institutional uses, government building\n$910\n7.Open space, nature reserve\n$10\n8.Agriculture\n-\n9.Drain, road, railway, cemetery, Mass Rapid Transit Route, Light Rail Transit Route\n$1"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Land Betterment Charge (Concessionary Relief — Golden Mile Complex) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

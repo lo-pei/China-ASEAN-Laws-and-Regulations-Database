@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-243-RG1-FIRE-SAFETY-COMPOSITION-OF-OFFENCES-REGULATIONS-1",
  "title": {
-  "zh": null,
+  "zh": "Rg1 消防安全（罪行和解）条例(1)",
   "en": "Rg1 FIRE SAFETY COMPOSITION OF OFFENCES REGULATIONS(1)",
   "orig": null
  },
@@ -66,5 +66,13 @@
     "en": "All offences under the Act or regulations made thereunder may be compounded by the Director in accordance with section 56(1)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Rg1 FIRE SAFETY COMPOSITION OF OFFENCES REGULATIONS(1)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

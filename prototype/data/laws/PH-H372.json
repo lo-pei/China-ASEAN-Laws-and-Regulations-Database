@@ -1,7 +1,7 @@
 {
  "id": "PH-H372",
  "title": {
-  "zh": null,
+  "zh": "重整依第2770号法组建的Ormoc Electric Company，将其特许经营权期限自1953年3月4日届满日起延长25年",
   "en": "An Act to Rehabilitate the Ormoc Electric Company, Organized Under Act Numbered Twenty-Seven Hundred and Seventy, by Extending the Term of its Franchise to Twenty-Five Years from the Date of its Expiration on March Four, Nineteen Hundred and Fifty-Three",
   "orig": "An Act to Rehabilitate the Ormoc Electric Company, Organized Under Act Numbered Twenty-Seven Hundred and Seventy, by Extending the Term of its Franchise to Twenty-Five Years from the Date of its Expiration on March Four, Nineteen Hundred and Fifty-Three"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 16, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Rehabilitate the Ormoc Electric Company, Organized Under Act Numbered Twenty-Seven Hundred and Seventy, by Extending the Term of its Franchise to Twenty-Five Years from the Date of its Expiration on March Four, Nineteen Hundred and Fifty-Three",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

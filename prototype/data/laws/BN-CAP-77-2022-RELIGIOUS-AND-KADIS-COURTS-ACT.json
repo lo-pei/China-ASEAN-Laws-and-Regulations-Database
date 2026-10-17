@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-77-2022-RELIGIOUS-AND-KADIS-COURTS-ACT",
  "title": {
-  "zh": null,
+  "zh": "宗教与卡迪法庭法",
   "en": "RELIGIOUS AND KADIS COURTS ACT",
   "orig": null
  },
@@ -1797,5 +1797,13 @@
     "en": "Where any matter is referred under this Act to His Majesty the Sultan and Yang Di-Pertuan, whether in Religious Council or not, for his determination or directions, His Majesty the Sultan and Yang Di-Pertuan may, subject to the express provisions of this Act, issue such consequential instructions in writing under his hand as he may consider necessary for the proper carrying out of such determination or directions.\n\nFORM A (section 120(1))\n\nBRUNEI DARUSSALAM Religious Council and Kadis Courts Act (Chapter 77) Zakat and Fitrah Rules Form 1 Rule 10 No.: OFFICIAL RECEIPT FOR ZAKAT Received from Date No. for Superintendent Baitulmal Name of Amil: ........................... Signature: ................................... — (continued)\n\nFORM B (section 120(1))\n\nBRUNEI DARUSSALAM Religious Council and Kadis Courts Act (Chapter 77) Zakat and Fitrah Rules Zakat and Fitrah Rules Form J Form J Rule 10 Rule 10\n\nOFFICIAL RECEIPT FOR FITRAH OFFICIAL RECEIPT FOR FITRAH No.: No.: Received One Fitrah Received One Fitrah Date: Date: — (continued)\n\nFORM C (section 122(2))\n\nBRUNEI DARUSSALAM Religious Council and Kadis Courts Act (Chapter 77) Receipt for charitable donations Penerimaan bagi derma-derma Received from Diterima daripada ......................................................................................................... the sum of dollars sebanyak ................................................................................................................. ringgit for charitable donations derma untuk Tarikh ............................................ Authorised Collector for Secretary of the Majlis Pemunggut yang dibenarkan bagi Setiausaha Majlis (Repealed by S 12/2000) (Repealed by S 12/2000) (Repealed by S 12/2000) (Repealed by S 12/2000) (Repealed by S 12/2000) (Repealed by S 12/2000)"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RELIGIOUS AND KADIS COURTS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1643",
  "title": {
-  "zh": null,
+  "zh": "政府采购（适用）命令 2002",
   "en": "Government Procurement (Application) Order 2002",
   "orig": null
  },
@@ -278,5 +278,13 @@
     "en": "ELEVENTH SCHEDULE\nParagraph 4\nSERVICES THE PROCUREMENT OF WHICH IS\nSUBJECT TO THE ACT FOR THE PURPOSES OF\nPARAGRAPH 4(16)(a)(ii), (17)(b), (19)(a)(ii) AND (20)(b)\nCentral Product Classification Code (MTN/GNS/W/120)\nDescription\n61\nSale, maintenance and repair services of motor vehicles and motorcycles\n633\nRepair services of personal and household goods\n641-643\nHotels and restaurants (including catering)\n712\nOther land transport services\n74710\nTravel agencies and tour operators\n7472\nTourist guide services\n7512\nCourier services\n7523\nElectronic mail\n7523\nVoice mail\n7523\nOn-line information and database retrieval\n7523\nElectronic data interchange\n81\nFinancial services (except —\n(a)asset management and other financial services procured by the Ministry of Finance or the Monetary Authority of Singapore for the purpose of managing official foreign reserves and other foreign assets of the Government of Singapore; and\n(b)asset management and other financial services procured by the Central Provident Fund Board)\n82\nReal estate services (includes only real estate consultancy services, auction and valuation services)\n84\nComputer and related services\n862\nAccounting, auditing and book-keeping services\n8671\nArchitectural services\n864\nMarket research and public opinion polling services\n865\nManagement consulting services\n866\nServices related to management consulting\n8672\nEngineering services\n8673\nIntegrated engineering services\n86742\nLandscape architectural services\n8675\nEngineering related scientific and technical consulting services\n8676\nTechnical testing and analysis services\n871\nAdvertising services\n87201\nExecutive search services\n87202\nPlacement services of office support personnel and other workers\n87203\nSupply services of office support personnel\n874\nBuilding cleaning services\n87905\nTranslation and interpretation services\n88442\nPublishing and printing services on a fee or contract basis (except printing of Government legislation and the Gazette)\n924\nAdult education services\n932\nVeterinary services\n94\nSewage and refuse disposal, sanitation and other environmental protection services\n96112\nMotion picture or video tape production services\n96113\nMotion picture or video tape distribution services\n96121\nMotion picture projection services\n96122\nVideo tape projection services\n9619\nOther entertainment services\n96311\nLibrary services\n964\nSporting and other recreational services (except gambling and betting services)\n—\nBiotechnology services\n—\nExhibition services\n—\nCommercial market research\n—\nInterior design services (excluding architectural services)\n—\nProfessional, advisory and consulting services relating to agriculture, forestry, fishing and mining, including oilfield services\n—\nTelecommunications services (excludes broadcasting services1)\nBasic telecommunication services (includes using satellite technology), including resale (facilities‑based and services‑based):\n(a)Public switched services (includes voice, data and facsimile services) (local and international);\n(b)Leased circuit services (local and international)\nMobile services (includes using satellite technology), including resale (facilities‑based and services‑based):\n(a)Public Mobile Data Service (PMDS)\n(b)Public Trunked Radio Service (PTRS)\n(c)Public Radio Paging Service (PRPS)\n(d)Public Cellular Mobile Telephone Service (PCMTS)\nNote:\n1. “Broadcasting services” is defined as services consisting of the uninterrupted chains of transmission by wired or wireless means required for the reception or display of aural or visual programme signals by all or part of the public."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Government Procurement (Application) Order 2002",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

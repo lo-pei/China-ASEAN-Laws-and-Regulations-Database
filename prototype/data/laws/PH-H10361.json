@@ -1,7 +1,7 @@
 {
  "id": "PH-H10361",
  "title": {
-  "zh": null,
+  "zh": "关于制定菲律宾公私合作（PPP）法典的法案",
   "en": "An Act Providing for the Public-private Partnership (PPP) Code of the Philippines",
   "orig": "An Act Providing for the Public-private Partnership (PPP) Code of the Philippines"
  },
@@ -421,5 +421,11 @@
     "en": "Effectivity. - This Code shall take effect fifteen (15) calendar days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "An Act Providing for the Public-private Partnership (PPP) Code of the Philippines",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

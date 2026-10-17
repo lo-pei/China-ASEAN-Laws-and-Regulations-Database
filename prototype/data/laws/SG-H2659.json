@@ -1,7 +1,7 @@
 {
  "id": "SG-H2659",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 12 号）命令 2021",
   "en": "Infrastructure Protection (Protected Places) (No. 12) Order 2021",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nPart 1\nFirst column\nSecond column\nThe Authority\nProtected Place\nCommander, Public Transport Security Command, Singapore Police Force\nPUBLIC TRANSPORT SECURITY COMMAND HQ\nAll that area comprised in part of Lot 03145M in Mukim No. 24 occupied by “PUBLIC TRANSPORT SECURITY COMMAND HQ” containing an area of about 3406.9 square metres and bounded approximately as follows:\nCommencing at the northernmost corner of “PUBLIC TRANSPORT SECURITY COMMAND HQ” at a point 34,467.030 metres North and 33,159.931 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n34,467.030\n33,159.931\n34,465.257\n33,158.642\n34,396.110\n33,108.395\n34,372.857\n33,139.974\n34,399.975\n33,159.508\n34,440.081\n33,188.399\n34,448.343\n33,185.499\nto the point of commencement.\nThe boundaries of “PUBLIC TRANSPORT SECURITY COMMAND HQ” are more particularly delineated in the Survey Plan No. CP 91200 filed in the office of the Chief Surveyor, a copy of which is set out below.\nPart 2\nSPECIFIED SURROUNDING AREA OF PUBLIC TRANSPORT SECURITY COMMAND HQ\nAll that area comprised in part of Lot 03145M in Mukim No. 24 occupied by the “SPECIFIED SURROUNDING AREA OF PUBLIC TRANSPORT SECURITY COMMAND HQ”, the boundaries of which are more particularly delineated in the map set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 12) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H995",
  "title": {
-  "zh": null,
+  "zh": "进一步执行经修正的联邦法第 691 号关于自由分配公有农地的规定，废止土地安置与发展公司并设立国家重新安置与复兴管理局替代之，以及为其他目的法案",
   "en": "An Act to Further Implement the Free Distribution of Agricultural Lands of the Public Domain as Provided for in Commonwealth Act Numbered Six Hundred and Ninety-One, as Amended to Abolish the Land Settlement and Development Corporation Created Under Executive Order Numbered Three Hundred and Fifty-Five, Dated October Twenty-Three, Nineteen Hundred and Fifty, and to Create in its Place the National Resettlement and Rehabilitation Administration, and for Other Purposes",
   "orig": "An Act to Further Implement the Free Distribution of Agricultural Lands of the Public Domain as Provided for in Commonwealth Act Numbered Six Hundred and Ninety-One, as Amended to Abolish the Land Settlement and Development Corporation Created Under Executive Order Numbered Three Hundred and Fifty-Five, Dated October Twenty-Three, Nineteen Hundred and Fifty, and to Create in its Place the National Resettlement and Rehabilitation Administration, and for Other Purposes"
  },
@@ -251,5 +251,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1954."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Implement the Free Distribution of Agricultural Lands of the Public Domain as Provided for in Commonwealth Act Numbered Six Hundred and Ninety-One, as Amended to Abolish the Land Settlement and Development Corporation Created Under Executive Order Numbered Three Hundred and Fifty-Five, Dated October Twenty-Three, Nineteen Hundred and Fifty, and to Create in its Place the National Resettlement and Rehabilitation Administration, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

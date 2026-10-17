@@ -1,7 +1,7 @@
 {
  "id": "SG-H658",
  "title": {
-  "zh": null,
+  "zh": "合作社（罪行构成）规则 2008",
   "en": "Co-operative Societies (Composition of Offences) Rules 2008",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Any offence (other than a continuing offence) under —\n(a)section 16A(9), 16B(2), 34(9), 35(9), 65A(4), 93A(6), 97C(3), 99(2) or 100(1)(a), (b), (c), (d), (e), (f), (g) or (h) or (2) of the Act; or\n[S 608/2019 wef 04/09/2019]\n(b)[Deleted by S 608/2019 wef 04/09/2019]\n(c)[Deleted by S 608/2019 wef 04/09/2019]\n(d)rule 6(2), 7A(2) or 9(2) of the Co-operative Societies Rules 2009 (G.N. No. S 349/2009),\n[S 350/2009 wef 01/08/2009]\n[S 608/2019 wef 04/09/2019]\nmay be compounded by the Registrar in accordance with section 100F of the Act.\n[S 608/2019 wef 04/09/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Co-operative Societies (Composition of Offences) Rules 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2877",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（世界银行集团组织）命令 2020",
   "en": "International Organisations (Immunities and Privileges) (World Bank Group Organisations) Order 2020",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5.—(1) The premises of the Office have the like inviolability as is accorded in respect of the premises of an envoy of a foreign sovereign Power accredited to the President, and no public officer or officer of a statutory body may enter those premises except with the consent of, and under any condition that may be approved by, any Office Representative.\n(2) The consent mentioned in sub‑paragraph (1) is treated as having been given in the event of fire or other such emergency, if immediate protective measures are required.\n(3) The World Bank Group Organisations have the like exemption and relief from all taxes and duties as may be accorded to a foreign sovereign Power accredited to the President, including the following:\n(a)goods and services tax on all imports;\n(b)goods and services tax in respect of goods and services consumed in Singapore by the World Bank Group Organisations;\n(c)tax in respect of utilities and telephone services supplied to the premises of the Office;\n(d)property tax payable by the World Bank Group Organisations on the premises of the Office owned by the World Bank Group Organisations or under a tenancy agreement entered into for the premises of the Office;\n(e)stamp duty in respect of any tenancy agreement entered into for the premises of the Office.\n(4) A World Bank Group Organisation is exempt from any prohibition or restriction on the direct importation or exportation of any goods or publications necessary for the operations of the Office, except where the prohibition or restriction is mandated by international law obligations binding on Singapore.\n(5) No goods or publications imported by a World Bank Group Organisation under the exemption in sub‑paragraph (4) may be sold in Singapore except under conditions agreed to between that World Bank Group Organisation and the Government.\n(6) The restriction in sub‑paragraph (5) does not apply in relation to any goods or publication produced by any World Bank Group Organisation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "International Organisations (Immunities and Privileges) (World Bank Group Organisations) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6997",
  "title": {
-  "zh": null,
+  "zh": "将描笼涯官员与青年议会成员的任期由三（3）年改为五（5）年，为此修订第7160号共和国法（即1991年《地方政府法典》）第43条并为其他目的法案",
   "en": "An Act Changing the Term of Office of Barangay Officials and Members of the Sangguniang Kabataan From Three (3) Years to Five (5) Years, Amending for the purpose Section 43 of Republic Act Numbered Seven Thousand One Hundred Sixty, otherwise known as the Local Government Code of 1991, and for other purposes",
   "orig": "An Act Changing the Term of Office of Barangay Officials and Members of the Sangguniang Kabataan From Three (3) Years to Five (5) Years, Amending for the purpose Section 43 of Republic Act Numbered Seven Thousand One Hundred Sixty, otherwise known as the Local Government Code of 1991, and for other purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect after fifteen (15) days from its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Term of Office of Barangay Officials and Members of the Sangguniang Kabataan From Three (3) Years to Five (5) Years, Amending for the purpose Section 43 of Republic Act Numbered Seven Thousand One Hundred Sixty, otherwise known as the Local Government Code of 1991, and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

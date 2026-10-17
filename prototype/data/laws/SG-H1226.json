@@ -1,7 +1,7 @@
 {
  "id": "SG-H1226",
  "title": {
-  "zh": null,
+  "zh": "教育捐赠与储蓄计划（补助金）条例",
   "en": "Education Endowment and Savings Schemes (Grants) Regulations",
   "orig": null
  },
@@ -103,5 +103,13 @@
     "en": "5. Every educational institution referred to in regulation 3 which is in receipt of any grant provided under section 6(1)(a) of the Act shall keep such records of accounts, and submit to the Ministry of Education such financial reports, as the Minister may require.\n[G.N. No. S 751/2007]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Education Endowment and Savings Schemes (Grants) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

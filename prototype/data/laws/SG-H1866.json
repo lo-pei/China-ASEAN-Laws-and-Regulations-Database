@@ -1,7 +1,7 @@
 {
  "id": "SG-H1866",
  "title": {
-  "zh": null,
+  "zh": "住房开发商（防止洗钱、扩散融资与恐怖主义融资）规则 2023",
   "en": "Housing Developers (Prevention of Money Laundering, Proliferation Financing and Terrorism Financing) Rules 2023",
   "orig": null
  },
@@ -310,5 +310,13 @@
     "en": "17. A licensed housing developer must —\n(a)before offering any new service or starting any new business practice referred to in rule 16(a), or using any new or developing technology referred to in rule 16(b), undertake an assessment of the risks of money laundering, proliferation financing and terrorism financing that may arise in relation to the offering of that service, the starting of that business practice or the use of that technology; and\n(b)take appropriate measures to manage and mitigate such risks.\n[S 462/2025 wef 01/07/2025]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Housing Developers (Prevention of Money Laundering, Proliferation Financing and Terrorism Financing) Rules 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

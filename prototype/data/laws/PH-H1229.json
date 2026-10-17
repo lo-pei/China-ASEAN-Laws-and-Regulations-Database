@@ -1,7 +1,7 @@
 {
  "id": "PH-H1229",
  "title": {
-  "zh": null,
+  "zh": "授权菲律宾总统依第 1000 号共和国法发行一千万比索债券以资助全国地籍测量，并授权土地局长采取措施确保收取测量费用及其他收费",
   "en": "An Act Authorizing the President of the Philippines to Issue Bonds in the Amount of Ten Million Pesos, Under the Provisions of Republic Act Numbered One Thousand, to Finance Cadastral Surveys Throughout the Philippines, and Authorizing the Director of Lands to Take Measures to Insure Collection of the Survey Costs and Other Charges",
   "orig": "An Act Authorizing the President of the Philippines to Issue Bonds in the Amount of Ten Million Pesos, Under the Provisions of Republic Act Numbered One Thousand, to Finance Cadastral Surveys Throughout the Philippines, and Authorizing the Director of Lands to Take Measures to Insure Collection of the Survey Costs and Other Charges"
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 8, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the President of the Philippines to Issue Bonds in the Amount of Ten Million Pesos, Under the Provisions of Republic Act Numbered One Thousand, to Finance Cadastral Surveys Throughout the Philippines, and Authorizing the Director of Lands to Take Measures to Insure Collection of the Survey Costs and Other Charges",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

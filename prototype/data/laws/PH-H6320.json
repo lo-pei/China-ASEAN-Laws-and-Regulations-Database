@@ -1,7 +1,7 @@
 {
  "id": "PH-H6320",
  "title": {
-  "zh": null,
+  "zh": "将卡加延-德奥罗市Bugo的市立中学（国有化正规中学）改设为Cagayan De Oro（Bugo）工艺学校，并授权将原校设施、校址与财产无偿移交",
   "en": "An Act Converting the City High School (Bugo), a Nationalized Regular High School, Located in Bugo, Cagayan De Oro City, Into a School of Arts and Trades, to Be Known as the Cagayan De Oro (Bugo) School of Arts and Trades And, for This Purpose, Authorizing the Automatic Transfer, Without Cost, of All of the Former's Facilities, School Site, Buildings and Other Properties to the Latter",
   "orig": "An Act Converting the City High School (Bugo), a Nationalized Regular High School, Located in Bugo, Cagayan De Oro City, Into a School of Arts and Trades, to Be Known as the Cagayan De Oro (Bugo) School of Arts and Trades And, for This Purpose, Authorizing the Automatic Transfer, Without Cost, of All of the Former's Facilities, School Site, Buildings and Other Properties to the Latter"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect immediately upon its approval.\nApproved, December 16, 1994."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the City High School (Bugo), a Nationalized Regular High School, Located in Bugo, Cagayan De Oro City, Into a School of Arts and Trades, to Be Known as the Cagayan De Oro (Bugo) School of Arts and Trades And, for This Purpose, Authorizing the Automatic Transfer, Without Cost, of All of the Former's Facilities, School Site, Buildings and Other Properties to the Latter",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

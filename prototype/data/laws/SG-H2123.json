@@ -1,7 +1,7 @@
 {
  "id": "SG-H2123",
  "title": {
-  "zh": null,
+  "zh": "所得税（经批准证券化公司收入豁免）条例 2008",
   "en": "Income Tax (Exemption of Income of Approved Securitisation Company) Regulations 2008",
   "orig": null
  },
@@ -103,5 +103,11 @@
     "en": "5. For the avoidance of doubt, where the approval of any company as an approved securitisation company is revoked, the exemption from tax under section 13M of the Act shall cease in respect of income derived by the company on or after the revocation of the approval.\n[S 930/2022 wef 31/12/2021]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Income Tax (Exemption of Income of Approved Securitisation Company) Regulations 2008",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

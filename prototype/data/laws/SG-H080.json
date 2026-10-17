@@ -1,7 +1,7 @@
 {
  "id": "SG-H080",
  "title": {
-  "zh": null,
+  "zh": "活跃通勤（费用）条例 2018",
   "en": "Active Mobility (Fees) Regulations 2018",
   "orig": null
  },
@@ -110,5 +110,13 @@
     "en": "SECOND SCHEDULE\nRegulation 3\nFees for storing vehicles, articles or things\nFirst column\nSecond column\n1.Bicycle, power-assisted bicycle or personal mobility device\n$21.80 for each day or part of a day during which the vehicle is stored\n2.Any other vehicle\n$174.40 for each day or part of a day during which the vehicle is stored\n3.Any article or thing which is not a vehicle, weighing —\n(a)less than 20 kg\n$21.80 for each day or part of a day during which the article or thing is stored\n(b)20 kg or heavier but less than 200 kg\n$43.60 for each day or part of a day during which the article or thing is stored\n(c)200 kg or heavier\n$87.20 for each day or part of a day during which the article or thing is stored\n[S 2/2024 wef 01/01/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Active Mobility (Fees) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

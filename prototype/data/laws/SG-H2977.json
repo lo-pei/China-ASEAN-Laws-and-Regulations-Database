@@ -1,7 +1,7 @@
 {
  "id": "SG-H2977",
  "title": {
-  "zh": null,
+  "zh": "危险货物起卸地点（S.p.c. 私人有限公司）",
   "en": "Landing Place for Dangerous Goods (S.p.c. Pte. Ltd.)",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nThe area is bounded within the straight lines joining the following co-ordinates of the Jurong Town Corporation grid in links based upon the origin at Government Offices Building being in Latitude 01° 17′ 15.528″ North, Longitude 103° 51′ 10.808″ East:\n(a)7 518.86 North 66 222.88 West;\n(b)7 150.88 North 66 312.92 West;\n(c)7 176.03 North 66 415.12 West; and\n(d)7 543.99 North 66 326.42 West."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Landing Place for Dangerous Goods (S.p.c. Pte. Ltd.)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

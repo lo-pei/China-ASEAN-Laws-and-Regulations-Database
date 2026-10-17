@@ -1,7 +1,7 @@
 {
  "id": "PH-H7942",
  "title": {
-  "zh": null,
+  "zh": "加强工人自我组织的宪法权利，为此修订经修正的第 442 号总统令（即菲律宾劳动法典）的法案",
   "en": "An Act Strengthening the Workers' Constitutional Right to Self-Organization, amending for the purpose Presidential Decree No. 442, as amended, otherwise known as the Labor Code of the Philippines",
   "orig": "An Act Strengthening the Workers' Constitutional Right to Self-Organization, amending for the purpose Presidential Decree No. 442, as amended, otherwise known as the Labor Code of the Philippines"
  },
@@ -190,5 +190,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening the Workers' Constitutional Right to Self-Organization, amending for the purpose Presidential Decree No. 442, as amended, otherwise known as the Labor Code of the Philippines",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

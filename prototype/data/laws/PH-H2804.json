@@ -1,7 +1,7 @@
 {
  "id": "PH-H2804",
  "title": {
-  "zh": null,
+  "zh": "规定在朗布隆省San Agustin与Odiongan市镇开庭的会期，为此修订《1948年司法法》第54条（经修正）的法案",
   "en": "An Act Fixing the Time for Holding Court Sessions at the Municipalities of San Agustin and Odiongan, Province of Romblon, Amending for the Purpose Section Fifty-Four of the Judiciary Act of 1948, as Amended",
   "orig": "An Act Fixing the Time for Holding Court Sessions at the Municipalities of San Agustin and Odiongan, Province of Romblon, Amending for the Purpose Section Fifty-Four of the Judiciary Act of 1948, as Amended"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Fixing the Time for Holding Court Sessions at the Municipalities of San Agustin and Odiongan, Province of Romblon, Amending for the Purpose Section Fifty-Four of the Judiciary Act of 1948, as Amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

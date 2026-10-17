@@ -1,7 +1,7 @@
 {
  "id": "SG-H1675",
  "title": {
-  "zh": null,
+  "zh": "枪支、爆炸物与武器管制（戏剧使用——类别许可证）命令 2025",
   "en": "Guns, Explosives and Weapons Control (Theatrical Use — Class Licence) Order 2025",
   "orig": null
  },
@@ -214,5 +214,13 @@
     "en": "11. A class licensee by virtue of paragraph 10 may use or possess or use and possess any class licensable weaponry or relevant explosive that he or she is authorised to use or possess under that paragraph, subject to all the following conditions:\n(a)the class licensee uses or possesses the class licensable weaponry or relevant explosive (as the case may be) only —\n(i)during the period and at the location of the counter‑terrorism exercise; and\n(ii)while under the supervision and control of the organiser of the counter‑terrorism exercise;\n(b)the class licensee does not leave the class licensable weaponry or relevant explosive (as the case may be) unattended unless he or she is satisfied that it is being kept or stored in a secure manner;\n(c)the class licensee does not transfer, or allow to be transferred, to another person possession of the class licensable weaponry or relevant explosive (as the case may be) unless the other person first produces to the class licensee acceptable proof of the other person’s authorisation to possess the class licensable weaponry or relevant explosive;\n(d)the class licensee complies with every direction given by the organiser of the counter‑terrorism exercise that is a precaution to protect people from alarm relating to the conduct of the counter‑terrorism exercise."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Guns, Explosives and Weapons Control (Theatrical Use — Class Licence) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

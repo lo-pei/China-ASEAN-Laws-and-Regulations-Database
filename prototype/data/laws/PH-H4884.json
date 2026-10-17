@@ -1,7 +1,7 @@
 {
  "id": "PH-H4884",
  "title": {
-  "zh": null,
+  "zh": "修订经修正的《马尼拉市修订宪章》第38-B条与第39条，规定增设市法院分庭并为其他目的法案",
   "en": "An Act to Amend Sections Thirty-Eight-B and Thirty-Nine of the Revised Charter of the City of Manila, as Amended, Providing for An Increase in the Number of Branches of the City Court, and for Other Purposes.",
   "orig": "An Act to Amend Sections Thirty-Eight-B and Thirty-Nine of the Revised Charter of the City of Manila, as Amended, Providing for An Increase in the Number of Branches of the City Court, and for Other Purposes."
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 16, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Sections Thirty-Eight-B and Thirty-Nine of the Revised Charter of the City of Manila, as Amended, Providing for An Increase in the Number of Branches of the City Court, and for Other Purposes.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

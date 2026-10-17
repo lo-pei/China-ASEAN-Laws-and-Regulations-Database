@@ -1,7 +1,7 @@
 {
  "id": "PH-H299",
  "title": {
-  "zh": null,
+  "zh": "免除省、市与市镇政府欠国民政府或任何政府所有或控制公司的全部债务自1942年1月1日至1946年6月30日所生利息，并将该等债务的偿还期延长四年六个月的法案",
   "en": "An Act to Remit the Interest Which Accrued from January First, Nineteen Hundred and Forty-Two, to June Thirtieth, Nineteen Hundred and Forty-Six, on All Obligations Contracted by Provincial, City and Municipal Governments in Favor of the National Government or of Any of the Government-Owned or Controlled Corporations, and to Extend for a Period of Four Years and Six Months the Payment of Such Obligations",
   "orig": "An Act to Remit the Interest Which Accrued from January First, Nineteen Hundred and Forty-Two, to June Thirtieth, Nineteen Hundred and Forty-Six, on All Obligations Contracted by Provincial, City and Municipal Governments in Favor of the National Government or of Any of the Government-Owned or Controlled Corporations, and to Extend for a Period of Four Years and Six Months the Payment of Such Obligations"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 28, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Remit the Interest Which Accrued from January First, Nineteen Hundred and Forty-Two, to June Thirtieth, Nineteen Hundred and Forty-Six, on All Obligations Contracted by Provincial, City and Municipal Governments in Favor of the National Government or of Any of the Government-Owned or Controlled Corporations, and to Extend for a Period of Four Years and Six Months the Payment of Such Obligations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

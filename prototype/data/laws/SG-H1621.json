@@ -1,7 +1,7 @@
 {
  "id": "SG-H1621",
  "title": {
-  "zh": null,
+  "zh": "商品与服务税（海关与货物税相关立法的适用）命令 1994",
   "en": "Goods and Services Tax (Application of Legislation relating to Customs and Excise Duties) Order 1994",
   "orig": null
  },
@@ -194,5 +194,13 @@
     "en": "12. Section 26 of the Act does not apply to any provision of any written law relating to customs or excise duties unless provided for in this Order."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Goods and Services Tax (Application of Legislation relating to Customs and Excise Duties) Order 1994",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

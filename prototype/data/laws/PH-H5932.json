@@ -1,7 +1,7 @@
 {
  "id": "PH-H5932",
  "title": {
-  "zh": null,
+  "zh": "宣布11月4日为保和省特别非工作假日，并指定11月2日至6日为该省Carlos P. Garcia周的法案",
   "en": "An Act Declaring November Four A Special Nonworking Holiday in the Province of Bohol, Designating November Two To Six As Carlos P. Garcia Week in Said Province",
   "orig": "An Act Declaring November Four A Special Nonworking Holiday in the Province of Bohol, Designating November Two To Six As Carlos P. Garcia Week in Said Province"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its publication in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring November Four A Special Nonworking Holiday in the Province of Bohol, Designating November Two To Six As Carlos P. Garcia Week in Said Province",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

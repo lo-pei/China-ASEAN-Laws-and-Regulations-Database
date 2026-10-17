@@ -1,7 +1,7 @@
 {
  "id": "SG-H3290",
  "title": {
-  "zh": null,
+  "zh": "互助组织（豁免）命令 2004",
   "en": "Mutual Benefit Organisations (Exemption) Order 2004",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. Section 12 of the Act shall not apply to any person with a relevant conviction who —\n(a)immediately before 4th February 2004, was acting as an officer of a mutual benefit organisation or managing or assisting in the management of such an organisation, and a period of at least 15 years has elapsed starting from the date of his latest relevant conviction; or\n(b)on or after 4th February 2004, is appointed or acts as an officer of a mutual benefit organisation or manages or assists in the management of such an organisation, and a period of at least 15 years has elapsed starting from the date of his latest relevant conviction and ending on the date on which he is first appointed or acts as an officer, or manages or assists in the management of the organisation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Mutual Benefit Organisations (Exemption) Order 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

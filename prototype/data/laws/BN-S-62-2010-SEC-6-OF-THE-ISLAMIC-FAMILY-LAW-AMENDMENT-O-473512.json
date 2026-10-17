@@ -1,7 +1,7 @@
 {
  "id": "BN-S-62-2010-SEC-6-OF-THE-ISLAMIC-FAMILY-LAW-AMENDMENT-O-473512",
  "title": {
-  "zh": null,
+  "zh": "伊斯兰家庭法修正命令 2010 第 6 条",
   "en": "SEC 6 OF THE ISLAMIC FAMILY LAW AMENDMENT ORDER 2010",
   "orig": null
  },
@@ -110,5 +110,13 @@
     "en": "(1) The Minister of Culture, Youth and Sports may, by notification in the Gazette, declare any place or institution to be a place of protection for the purposes of this Part.\n\n(2) The Permanent Secretary of the Ministry of Culture, Youth and may order the transfer of a protected person from one place of protection to another as and when the need arises. of Director to place victim in place of protection. 60J. The Director of Community Development may, upon being satisfied that dharar Syar'ie has been or is being committed against a family member and that it is necessary for the protection of that family member, place that member in a place of protection until application for a protection or an expedited order can be made. of Director. 60K. The Director of Community Development shall be responsible for the reception, care, welfare and safety of any victim sent to a place of protection this Part for the period for which the victim is in that place of of section 121."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SEC 6 OF THE ISLAMIC FAMILY LAW AMENDMENT ORDER 2010",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2857",
  "title": {
-  "zh": null,
+  "zh": "国际组织（豁免与特权）（国际刑事警察组织）命令 2012",
   "en": "International Organisations (Immunities and Privileges) (ICPO-INTERPOL) Order 2012",
   "orig": null
  },
@@ -181,5 +181,13 @@
     "en": "11.—(1) Despite anything in this Order, no immunity or privilege under paragraph 6 or 7 may be enjoyed by any person who is a citizen or permanent resident of Singapore.\n(2) Nothing in this Order affects the right of the Government to take any measure that it considers useful to safeguard national security, public safety or health, or to maintain law and order."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "International Organisations (Immunities and Privileges) (ICPO-INTERPOL) Order 2012",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

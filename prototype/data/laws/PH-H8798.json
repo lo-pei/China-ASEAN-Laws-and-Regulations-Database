@@ -1,7 +1,7 @@
 {
  "id": "PH-H8798",
  "title": {
-  "zh": null,
+  "zh": "将Quirino纪念医疗中心床位由350张增至500张，为此修订第8313号共和国法并为此拨款及为其他目的",
   "en": "An Act Increasing the Bed Capacity of the Quirino Memorial Medical Center From Three Hundred Fifty (350) to Five Hundred (500) Beds, Amending for the Purpose Republic Act No. 8313, Appropriating Funds Therefor and for Other Purposes",
   "orig": "An Act Increasing the Bed Capacity of the Quirino Memorial Medical Center From Three Hundred Fifty (350) to Five Hundred (500) Beds, Amending for the Purpose Republic Act No. 8313, Appropriating Funds Therefor and for Other Purposes"
  },
@@ -70,5 +70,13 @@
     "en": "Section 6 of the same Act is hereby amended to read as follows:\n\"SEC. 6. This Act shall take effect fifteen (15) days after its publication in any newspaper of general circulation.\""
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of the Quirino Memorial Medical Center From Three Hundred Fifty (350) to Five Hundred (500) Beds, Amending for the Purpose Republic Act No. 8313, Appropriating Funds Therefor and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

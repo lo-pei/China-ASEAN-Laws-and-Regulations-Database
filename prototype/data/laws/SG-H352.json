@@ -1,7 +1,7 @@
 {
  "id": "SG-H352",
  "title": {
-  "zh": null,
+  "zh": "建筑与建造业付款保障条例",
   "en": "Building and Construction Industry Security of Payment Regulations",
   "orig": null
  },
@@ -256,5 +256,13 @@
     "en": "THE SCHEDULE\nRegulation 16\nCode of Professional Conduct and Ethics\nProfessional and ethical conduct\n1. An authorised nominating body must carry out its functions and duties —\n(a)independently;\n(b)in a proper and professional manner;\n(c)with due care and diligence; and\n(d)in the best interest of the public.\n2. An authorised nominating body must not delegate or abrogate any of its functions and duties.\n3. An authorised nominating body must —\n(a)safeguard its integrity and standing;\n(b)uphold a high standard of ethics and service; and\n(c)not do anything that is likely to diminish public confidence in the system of adjudication under the Act or bring the authorised nominating body into disrepute.\nDuties relating to adjudication process\n4. An authorised nominating body must manage the application for and process of adjudication and adjudication review, including developing and maintaining a complaint or feedback management process to address any complaint (whether written or verbal) about the authorised nominating body or an adjudicator registered with the authorised nominating body.\nDuties relating to adjudicators\n5. An authorised nominating body must manage the selection, training, appointment and monitoring of adjudicators, which includes —\n(a)developing and maintaining an adjudicator training and accreditation programme for persons who intend to be on the register of adjudicators; and\n(b)providing continuous education for persons who are on the register of adjudicators.\nDuties relating to provision of information\n6. An authorised nominating body must —\n(a)provide regular reports to the Minister on statistics concerning adjudication; and\n(b)upon the Minister’s request, permit the Minister to communicate, copy, modify, publish and use any information or document provided to the Minister under sub-paragraph (a) or section 28(3) of the Act.\nDuties relating to cessation of operations\n7. An authorised nominating body must —\n(a)give the Minister no less than 6 months’ written notice if the authorised nominating body is no longer able or willing to perform the functions and duties of an authorised nominating body; and\n(b)provide the Minister with a report of its operations up until the last day of its operations, within 28 days of the cessation of its operations or the Minister’s withdrawal of authorisation, as the case may be.\n[S 780/2019 wef 15/12/2019]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building and Construction Industry Security of Payment Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

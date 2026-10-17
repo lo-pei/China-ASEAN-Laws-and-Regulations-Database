@@ -1,7 +1,7 @@
 {
  "id": "SG-H1805",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（电梯翻新工程分区）（第 5 号）命令 2023",
   "en": "Housing and Development (Precincts for Lift Upgrading Works) (No. 5) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nAll that part of the housing estate of the Board bounded by Bishan Street 22 and Bishan Street 25, comprised in Lot number 18583A in Mukim 18 and on which Apartment Block 238 is erected, and in Lot number 18576W in Mukim 18 and on which Apartment Block 257 is erected, and which is more particularly delineated in the Plan.\nTHE PLAN\nBISHAN STREET 22"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Lift Upgrading Works) (No. 5) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

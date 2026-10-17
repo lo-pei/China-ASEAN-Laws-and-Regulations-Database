@@ -1,7 +1,7 @@
 {
  "id": "PH-H1218",
  "title": {
-  "zh": null,
+  "zh": "接纳 Ray Higgins 先生为菲律宾之子，并授予其菲律宾公民身份的一切权利、特权与优先权的法案",
   "en": "An Act Adopting Mr. Ray Higgins as Son of the Philippines, and Conferring Upon Him All the Rights, Privileges and Prerogatives of Philippine Citizenship",
   "orig": "An Act Adopting Mr. Ray Higgins as Son of the Philippines, and Conferring Upon Him All the Rights, Privileges and Prerogatives of Philippine Citizenship"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Adopting Mr. Ray Higgins as Son of the Philippines, and Conferring Upon Him All the Rights, Privileges and Prerogatives of Philippine Citizenship",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

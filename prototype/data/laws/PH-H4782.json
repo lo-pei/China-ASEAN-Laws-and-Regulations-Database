@@ -1,7 +1,7 @@
 {
  "id": "PH-H4782",
  "title": {
-  "zh": null,
+  "zh": "将伊洛伊洛省波托坦市镇Doña Trinidad Bolivar纪念国立医院的名称变更为波托坦国立医院的法案",
   "en": "An Act Changing the Name of Doña Trinidad Bolivar Memorial National Hospital in the Municipality of Pototan, Province of Iloilo, to Pototan National Hospital.",
   "orig": "An Act Changing the Name of Doña Trinidad Bolivar Memorial National Hospital in the Municipality of Pototan, Province of Iloilo, to Pototan National Hospital."
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 19, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Doña Trinidad Bolivar Memorial National Hospital in the Municipality of Pototan, Province of Iloilo, to Pototan National Hospital.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

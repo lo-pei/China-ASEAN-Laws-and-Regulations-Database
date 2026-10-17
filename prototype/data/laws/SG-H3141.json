@@ -1,7 +1,7 @@
 {
  "id": "SG-H3141",
  "title": {
-  "zh": null,
+  "zh": "药物（兽药产品）（进口与产品许可）条例",
   "en": "Medicines (Veterinary Medicinal Products) (Import and Product Licences) Regulations",
   "orig": null
  },
@@ -220,5 +220,13 @@
     "en": "14. Any person who contravenes or fails to comply with regulation 7, 8, 9, 10 or 11, or who fails to comply with any direction of the licensing authority under regulation 12, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.\n[G.N. No. S 145/77]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Medicines (Veterinary Medicinal Products) (Import and Product Licences) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

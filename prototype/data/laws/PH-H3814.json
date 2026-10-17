@@ -1,7 +1,7 @@
 {
  "id": "PH-H3814",
  "title": {
-  "zh": null,
+  "zh": "规定麻风病患者及其家属的重新安置与康复的法案",
   "en": "An Act Providing for the Re-Establishment and/or Rehabilitation of Hansenites and Their Families",
   "orig": "An Act Providing for the Re-Establishment and/or Rehabilitation of Hansenites and Their Families"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1966."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Re-Establishment and/or Rehabilitation of Hansenites and Their Families",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

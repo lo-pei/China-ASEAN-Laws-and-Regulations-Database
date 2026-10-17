@@ -1,7 +1,7 @@
 {
  "id": "PH-H10232",
  "title": {
-  "zh": null,
+  "zh": "将南哥打巴托省重新划分为三个立法选区，并将桑托斯将军城从该省第三立法选区分离、构成该市单独立法选区，为此废止第 11243 号共和国法",
   "en": "An Act Reapportioning the Province of South Cotabato Into Three (3) Legislative Districts, and Separating the City of General Santos From the Third Legislative District of the Province of South Cotabato to Constitute the Lone Legislative District of the City of General Santos, Repealing for the Purpose Republic Act No. 11243, Entitled \"An Act Reapportioning the First Legislative District of the Province of South Cotabato Thereby Creating the Lone Legislative District of General Santos City\"",
   "orig": "An Act Reapportioning the Province of South Cotabato Into Three (3) Legislative Districts, and Separating the City of General Santos From the Third Legislative District of the Province of South Cotabato to Constitute the Lone Legislative District of the City of General Santos, Repealing for the Purpose Republic Act No. 11243, Entitled \"An Act Reapportioning the First Legislative District of the Province of South Cotabato Thereby Creating the Lone Legislative District of General Santos City\""
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Reapportioning the Province of South Cotabato Into Three (3) Legislative Districts, and Separating the City of General Santos From the Third Legislative District of the Province of South Cotabato to Constitute the Lone Legislative District of the City of General Santos, Repealing for the Purpose Republic Act No. 11243, Entitled \"An Act Reapportioning the First Legislative District of the Province of South Cotabato Thereby Creating the Lone Legislative District of General Santos City\"",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

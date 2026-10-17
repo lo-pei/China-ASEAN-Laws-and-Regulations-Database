@@ -1,7 +1,7 @@
 {
  "id": "PH-H8627",
  "title": {
-  "zh": null,
+  "zh": "进一步授权市或市镇民事登记官或总领事无须司法命令即可更正民事登记中出生日、月或性别中的笔误或打印错误，为此修订第 9048 号共和国法",
   "en": "An Act Further Authorizing the City or Municipal Civil Registrar or the Consul General to Correct Clerical or Typographical Errors in the Day and Month in the Date of Birth or Sex of a Person Appearing in the Civil Register Without Need of a Judicial Order, Amending for This Purpose Republic Act Numbered Ninety Forty-Eight",
   "orig": "An Act Further Authorizing the City or Municipal Civil Registrar or the Consul General to Correct Clerical or Typographical Errors in the Day and Month in the Date of Birth or Sex of a Person Appearing in the Civil Register Without Need of a Judicial Order, Amending for This Purpose Republic Act Numbered Ninety Forty-Eight"
  },
@@ -110,5 +110,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Authorizing the City or Municipal Civil Registrar or the Consul General to Correct Clerical or Typographical Errors in the Day and Month in the Date of Birth or Sex of a Person Appearing in the Civil Register Without Need of a Judicial Order, Amending for This Purpose Republic Act Numbered Ninety Forty-Eight",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

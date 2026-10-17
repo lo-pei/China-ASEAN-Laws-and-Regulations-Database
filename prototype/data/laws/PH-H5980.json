@@ -1,7 +1,7 @@
 {
  "id": "PH-H5980",
  "title": {
-  "zh": null,
+  "zh": "就纯薪酬所得的最终预扣税修订经修正的国家国内税收法典相关规定",
   "en": "An Act Amending Pertinent Provisions of the National Internal Revenue Code, As Amended, Relative To the Final Withholding Tax on Purely Compensation Income",
   "orig": "An Act Amending Pertinent Provisions of the National Internal Revenue Code, As Amended, Relative To the Final Withholding Tax on Purely Compensation Income"
  },
@@ -220,5 +220,13 @@
     "en": "Effectivity Clause. – This Act shall take effect upon its approval.\nApproved, May 15, 1992."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Pertinent Provisions of the National Internal Revenue Code, As Amended, Relative To the Final Withholding Tax on Purely Compensation Income",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

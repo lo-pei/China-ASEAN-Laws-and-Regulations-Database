@@ -1,7 +1,7 @@
 {
  "id": "SG-H3338",
  "title": {
-  "zh": null,
+  "zh": "国家象征法 2022",
   "en": "National Symbols Act 2022",
   "orig": null
  },
@@ -362,5 +362,13 @@
     "en": "SECOND SCHEDULE\nSections 10(1), 11(1) and 12(1)\nPresidential symbols of Singapore\nPart 1\nPRESIDENTIAL STANDARD\n1. The Presidential Standard is based on the canton of the National Flag of Singapore. The ratio of the width to the length is 2:3.\n2. The Presidential Standard represents the President, the Head of State of Singapore.\nPart 2\nPRESIDENTIAL COAT OF ARMS\n1. The Presidential Coat of Arms consists of a shield emblazoned with a lion carrying a stalk of laurel against a red and white background. The shield is crowned by a crescent moon and 5 stars, and encircled by an orchid wreath. Below the wreath is a red banner with the word “Singapura”.\n2. The red and white colours, and the crescent moon and 5 stars, are based on the National Flag of Singapore. The lion carrying a stalk of laurel symbolises victory and glory to Singapore, the Lion City. The shield symbolises the oath of the Head of State to preserve, protect and defend the Constitution of the Republic of Singapore.\nPart 3\nSEAL of president\nThe seal of the President consists of the Presidential Coat of Arms encircled by the words “President of the Republic of Singapore”."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "National Symbols Act 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

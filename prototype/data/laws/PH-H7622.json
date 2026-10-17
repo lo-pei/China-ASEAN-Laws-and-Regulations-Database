@@ -1,7 +1,7 @@
 {
  "id": "PH-H7622",
  "title": {
-  "zh": null,
+  "zh": "将西内格罗斯省与东内格罗斯省境内的 Kanla-on 山设立为保护区及外围缓冲带，并规定其管理的法案",
   "en": "An Act Establishing Mt. Kanla-on Located in the Cities of Bago, La Carlota, and San Carlos and in the Municipalities of La Castellana and Murcia, All in the Province of Negros Occidental, and in the City of Canlaon and Municipality of Vallehermoso, Both in the Province of Negros Oriental, as a Protected Area and a Peripheral Area as Buffer Zone Providing for Its Management, and for Other Purposes",
   "orig": "An Act Establishing Mt. Kanla-on Located in the Cities of Bago, La Carlota, and San Carlos and in the Municipalities of La Castellana and Murcia, All in the Province of Negros Occidental, and in the City of Canlaon and Municipality of Vallehermoso, Both in the Province of Negros Oriental, as a Protected Area and a Peripheral Area as Buffer Zone Providing for Its Management, and for Other Purposes"
  },
@@ -350,5 +350,13 @@
     "en": "Effectivity Clause. - This Act shall be translated in English, Filipino, Cebuano, and Ilonggo and shall be published once every week for three (3) executive weeks in a newspaper of general circulation which is readily available in the areas in and around the MKNP. This Act shall likewise be simultaneously posted in the appropriate language in a conspicuous place in the provincial, municipal and barangay halls within the area as well as in three (3) other places frequented by the public. Fifteen (15) days after the last publication and posting, this Act shall have full force and effect."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing Mt. Kanla-on Located in the Cities of Bago, La Carlota, and San Carlos and in the Municipalities of La Castellana and Murcia, All in the Province of Negros Occidental, and in the City of Canlaon and Municipality of Vallehermoso, Both in the Province of Negros Oriental, as a Protected Area and a Peripheral Area as Buffer Zone Providing for Its Management, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

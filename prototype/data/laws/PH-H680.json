@@ -1,7 +1,7 @@
 {
  "id": "PH-H680",
  "title": {
-  "zh": null,
+  "zh": "授权兑付依第 211 号共和国法被认定非法发行并已向菲律宾国库或省、市、市镇司库登记缴存的菲律宾国家银行流通券的法案",
   "en": "An Act Authorizing the Redemption of the Philippine National Bank Circulating Notes Declared to Have Been Illegally Issued and Registered and Deposited With the Treasurer of the Philippines or With Any Provincial, City or Municipal Treasurer Under the Provisions of Republic Act Numbered Two Hundred and Eleven",
   "orig": "An Act Authorizing the Redemption of the Philippine National Bank Circulating Notes Declared to Have Been Illegally Issued and Registered and Deposited With the Treasurer of the Philippines or With Any Provincial, City or Municipal Treasurer Under the Provisions of Republic Act Numbered Two Hundred and Eleven"
  },
@@ -130,5 +130,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 14, 1952."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Redemption of the Philippine National Bank Circulating Notes Declared to Have Been Illegally Issued and Registered and Deposited With the Treasurer of the Philippines or With Any Provincial, City or Municipal Treasurer Under the Provisions of Republic Act Numbered Two Hundred and Eleven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

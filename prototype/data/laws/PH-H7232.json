@@ -1,7 +1,7 @@
 {
  "id": "PH-H7232",
  "title": {
-  "zh": null,
+  "zh": "住房担保公司法 2000",
   "en": "Home Guaranty Corporation Act of 2000",
   "orig": "Home Guaranty Corporation Act of 2000 Act Consolidating and Amending Republic Act Nos. 580, 1557, 5488, and 7835 and Executive Order Nos. 535 and 90, as They Apply to the Home Insurance and Guaranty Corporation Which Shall Be Renamed as Home Guaranty Corporation, and for Other Purposes"
  },
@@ -551,5 +551,11 @@
     "en": "Effectivity. – This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in at least two (2) newspapers of general circulation.\nApproved: March 7, 2000"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Home Guaranty Corporation Act of 2000",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3539",
  "title": {
-  "zh": null,
+  "zh": "规划（按最后批准用途进行土地开发授权）公告 2017",
   "en": "Planning (Development of Land Authorisation for Last Approved Use) Notification 2017",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nParagraph 4(2)\nConservation areas\nPLAN 1 — CHINATOWN conservation area\nPLAN 2 — KAMPONG GLAM conservation area\nPLan 3 — LITTLE INDIA conservation area\nPlan 4 — BOAT QUAY conservation area\nPlan 5 — CAIRNHILL AND EMERALD HILL conservation area\nPlan 6 — BLAIR PLAIN conservation area"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Planning (Development of Land Authorisation for Last Approved Use) Notification 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,0 +1,105 @@
+{
+ "id": "BN-CAP-139-RG-1-MIDWIVES-REGULATIONS",
+ "title": {
+  "zh": "RG 1 助产士条例",
+  "en": "RG 1 MIDWIVES REGULATIONS",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p20",
+ "language": "en",
+ "level": "regulation",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 5,
+ "chars": 4275,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-139-RG-1-MIDWIVES-REGULATIONS.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-139-RG-1-MIDWIVES-REGULATIONS.pdf》（12 页），本次切分 5 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-139-RG-1-MIDWIVES-REGULATIONS-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "These Regulations may be cited as the Midwives Regulations. Form of register."
+   }
+  },
+  {
+   "id": "BN-CAP-139-RG-1-MIDWIVES-REGULATIONS-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "The register required to be kept by the Registrar under the provisions of section 3(1) shall be in the form set out in the First Schedule. Form of Registrar’s certificate."
+   }
+  },
+  {
+   "id": "BN-CAP-139-RG-1-MIDWIVES-REGULATIONS-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Section 3."
+   },
+   "text": {
+    "en": "The certificate required to be issued by the Registrar under the provisions of section 3(5) shall be in the form set out in the Second Schedule. Form of notice of intention to practise."
+   }
+  },
+  {
+   "id": "BN-CAP-139-RG-1-MIDWIVES-REGULATIONS-A4",
+   "no": 4,
+   "noLabel": {
+    "en": "Section 4."
+   },
+   "text": {
+    "en": "The notice required to be sent to the Registrar under the provisions of section 11(1) shall be in the form set out in the Third Schedule. Form of notice of change of address."
+   }
+  },
+  {
+   "id": "BN-CAP-139-RG-1-MIDWIVES-REGULATIONS-A5",
+   "no": 5,
+   "noLabel": {
+    "en": "Section 5."
+   },
+   "heading": {
+    "en": "FIRST SCHEDULE —REGISTER OF MIDWIVES"
+   },
+   "text": {
+    "en": "Notice of change of address required to be sent to the Registrar under the provisions of section 12 shall be in the form set out in the Fourth Schedule. 4 CAP. 139, Rg 1 Midwives\n\nFIRST SCHEDULE (regulation 2)\n\nBRUNEI DARUSSALAM\n\nREGISTER OF MIDWIVES Name of Area or Areas in Date of No. Midwife Address which registration registration Remarks is effected\n\nSECOND SCHEDULE (regulation 3)\n\nBRUNEI DARUSSALAM\n\nCERTIFICATE OF REGISTRAR OF MIDWIVES This is to certify that on ............................................................................................... an entry of the name of ...................................................................................................... of ....................................................................., has been — entered in*/ removed from* the Register of Midwives, under the provisions of the Midwives Act (Chapter 139), and that such entry*/ removal* is still in force. *Delete words which are inapplicable. Signed ............................................. Registrar of Midwives Date ................................................. To: ............................................................... ............................................................... ............................................................... 6 CAP. 139, Rg 1 Midwives\n\nTHIRD SCHEDULE (regulation 4) To: The Registrar of Midwives, Medical Headquarters, Brunei Darussalam. Notice of intention to practise midwifery Sir, I, ................................................................................................................................... of ........................................................................................................................................ being a registered midwife, under the provisions of the Midwives Act (Chapter 139), and in possession of Certificate No. .................................................................................. hereby give notice of my intention to practise midwifery in .................................... area, as from ...................................... Signed ........................................ Date ............................................ Notes: The midwife should fill in her full name and address in the spaces provided in lines 1 and 2 above, and her certificate number in the space provided in line 5. The area in which she intends to practise i.e. Bandar Seri Begawan, Seria, Kuala Belait etc., should be inserted in line 6, and the date when she intends to start practising there in the last space i.e. 1st January 1985 etc., in the case of yearly renewals.\n\nFOURTH SCHEDULE (regulation 5) To: The Registrar of Midwives, Medical Headquarters, Brunei Darussalam. Notice of a change of address Sir, I, ................................................................................................................................... of ........................................................................................................................................ being a registered midwife, under the provisions of the Midwives Act (Chapter 139), and in possession of Certificate No. .................................................................................. hereby give notice of a change of address. As from ...................................................... my address will be — ................................................................ ................................................................ ................................................................ Signed ........................................ Date ............................................"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG 1 MIDWIVES REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

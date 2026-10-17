@@ -1,7 +1,7 @@
 {
  "id": "SG-H807",
  "title": {
-  "zh": null,
+  "zh": "新加坡共和国宪法（部长职责）公告 2025",
   "en": "Constitution of the Republic of Singapore (Ministerial Responsibility) Notification 2025",
   "orig": null
  },
@@ -247,5 +247,13 @@
     "en": "SEVENTEENTH SCHEDULE\nParagraph 2(1) and First Schedule\nTransport\nDepartments\n1.Civil Aviation Authority of Singapore\n2.Land Transport Authority of Singapore\n3.Maritime and Port Authority of Singapore\n4.Ministry of Transport\n5.Public Transport Council\n6.Transport Safety Investigation Bureau\nSubjects\n1.Air Transport\n(1)Air Navigation Act 1966\n(2)Air Traffic Rights\n(3)Airport Planning, Development and Regulation\n(4)Aviation Security\n(a)Hijacking of Aircraft and Protection of Aircraft and International Airports Act 1978\n(b)Tokyo Convention Act 1971\n(5)Carriage of Passengers and Goods by Air\n(a)Carriage by Air (Montreal Convention, 1999) Act 2007\n(b)Carriage by Air Act 1988\n(6)Civil Aviation Authority of Singapore Act 2009\n(7)Civil Aviation Development and Policy\n(8)Civil Aviation Safety Oversight\n(9)International Interests in Aircraft Equipment Act 2009\n2.Energy Efficiency and Conservation in the Transport Sector\n(1)Energy Conservation Act 2012 (matters relating to the transport sector)\n(2)Improving Energy Efficiency and Reducing Environmental Impact of the Transport Sector\n3.International Transport Relations and Cooperation\n4.Land Transport\n(1)Active Mobility Act 2017\n(2)Bus Services Industry Act 2015\n(3)Electric Vehicles Charging Act 2022\n(4)Land Transport Authority of Singapore Act 1995\n(5)Land Transport Infrastructure Development\n(a)Road Use Pricing\n(b)Street Works Act 1995\n(6)Land Transport Planning and Policy\n(7)Motor Vehicles (Third-Party Risks and Compensation) Act 1960 (but not matters relating to the Public Trustee)\n(8)Multimodal Transport Act 2021\n(9)Parking Places (Surcharge) Act 1975\n(10)Parking Places Act 1974\n(11)Point-to-Point Passenger Transport Industry Act 2019\n(12)Public Transport Council Act 1987\n(13)Rail Transport Regulation and Development\n(a)Cross-Border Railways Act 2018\n(b)Railways Act 1905\n(c)Rapid Transit Systems Act 1995\n(14)Road and Rail Transport Safety and Security\n(15)Road Traffic Act 1961 (matters relating to vehicle construction, public passenger transport vehicles, road speed limits, and other road transport matters, but not matters relating to road conduct, accidents, and licensing of drivers, of driving instructors and of driving schools)\n(16)Shared Mobility Enterprises (Control and Licensing) Act 2020\n(17)Small Motorised Vehicles (Safety) Act 2020\n(18)Vehicle Registration and Licensing\n5.Maritime Transport\n(1)Aids to Navigation\n(2)Bills of Lading Act 1992\n(3)Carriage of Goods by Sea Act 1972\n(4)Control of Marine Pollution by Ships\n(a)Merchant Shipping (Civil Liability and Compensation for Bunker Oil Pollution) Act 2008\n(b)Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act 1998\n(c)Prevention of Pollution of the Sea Act 1990\n(5)Hydrographic Surveys\n(6)Maritime and Port Authority of Singapore Act 1996\n(7)Maritime Conventions Act 1911\n(8)Maritime Offences Act 2003\n(9)Maritime Safety and Security\n(10)Merchant Shipping (Maritime Labour Convention) Act 2014\n(11)Merchant Shipping (Wreck Removal) Act 2017\n(12)Merchant Shipping Act 1995\n(13)Merchant Shipping Policy\n(14)Port Planning and Regulation\n(15)Promoting Maritime Services\n(16)Regulating Ferry Services\n(17)Welfare and Training of Seamen\n6.Transport Investigations\n(1)Transport Safety Investigations Act 2018"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Constitution of the Republic of Singapore (Ministerial Responsibility) Notification 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

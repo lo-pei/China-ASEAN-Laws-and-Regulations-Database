@@ -1,7 +1,7 @@
 {
  "id": "SG-H1550",
  "title": {
-  "zh": null,
+  "zh": "财务顾问（薪酬）条例 2015",
   "en": "Financial Advisers (Remuneration) Regulations 2015",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "THE SCHEDULE\nRegulations 3 and 4\nCategories of investment products\n1.Specified products other than units in collective investment schemes under items 5 to 10.\n[S 641/2018 wef 08/10/2018]\n2.Futures contracts.\n3.Spot foreign exchange contracts other than for the purposes of leveraged foreign exchange trading as defined in section 2(1) of the Securities and Futures Act 2001.\n[S 641/2018 wef 08/10/2018]\n[S 63/2025 wef 31/12/2021]\n4.Spot foreign exchange contracts for the purposes of leveraged foreign exchange trading as defined in section 2(1) of the Securities and Futures Act 2001 or over‑the‑counter derivatives contracts the value of which is determined by reference to, is derived from, or varies by reference to, the value or amount of one or more currencies, or fluctuations in the values or amounts of one or more currencies or currency indices.\n[S 641/2018 wef 08/10/2018]\n[S 63/2025 wef 31/12/2021]\n5.Units in collective investment schemes which invest only in stocks and shares.\n6.Units in collective investment schemes which invest only in fixed income instruments.\n7.Units in collective investment schemes which invest only in commodities as defined in section 2(1) of the Securities and Futures Act 2001.\n[S 63/2025 wef 31/12/2021]\n8.Units in collective investment schemes which invest only in derivatives contracts as defined in section 2(1) of the Securities and Futures Act 2001.\n[S 63/2025 wef 31/12/2021]\n9.Units in collective investment schemes which are real estate investment trusts as defined in regulation 2 of the Securities and Futures (Prescribed Securities) Regulations 2012 (G.N. No. S 177/2012).\n10.Units in collective investment schemes which invest in more than one type of asset.\n11.Life policies which are whole life policies (other than investment‑linked policies as defined in the First Schedule to the Insurance Act 1966).\n[S 63/2025 wef 31/12/2021]\n12.Life policies which are term policies.\n13.Life policies which are endowment policies (other than investment‑linked policies as defined in the First Schedule to the Insurance Act 1966).\n[S 63/2025 wef 31/12/2021]\n14.Life policies which are investment‑linked policies as defined in the First Schedule to the Insurance Act 1966 where only a single premium is payable.\n[S 63/2025 wef 31/12/2021]\n15.Life policies which are investment‑linked policies as defined in the First Schedule to the Insurance Act 1966 where the premiums are payable at regular intervals.\n[S 63/2025 wef 31/12/2021]\n16.Life policies which are universal life policies.\n17.Life policies which are annuities.\n18.Structured deposits as defined in regulation 2 of the Financial Advisers (Structured Deposits — Prescribed Investment Product and Exemption) Regulations (Rg 7)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Financial Advisers (Remuneration) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H894",
  "title": {
-  "zh": null,
+  "zh": "COVID-19（临时措施）（第二附表订明事项）条例 2021",
   "en": "COVID-19 (Temporary Measures) (Prescribed Matters for Second Schedule) Regulations 2021",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nRegulation 4\nRevenue of party seeking relief\n1. For the purposes of regulation 4, the revenue of a party seeking relief is as follows:\n(a)where the party seeking relief is an individual proprietor carrying on the business to which the specified contract in question relates other than under a registered business name — all revenue from all businesses carried on by the individual proprietor as such, comprising the following:\n(i)the amounts derived from the sale of goods and the provision of services falling within the ordinary activities of those businesses;\n(ii)any other amounts derived from those businesses, but excluding any gains from the sale of fixed assets, donations, grants, subsidies, subscriptions, interest, dividends, goods purchased for resale and investment, if such amounts are not derived in the ordinary course of those businesses,\nbut not any amount of any monetary relief received under any public scheme for or in connection with the COVID‑19 epidemic or pandemic;\n(b)where the party seeking relief is an individual proprietor carrying on the business to which the specified contract in question relates under a registered business name — all revenue of the individual proprietor under that registered business name;\n(c)where the party seeking relief is any other body unincorporate or a body corporate — all revenue of the body unincorporate or body corporate;\n(d)despite sub‑paragraphs (a), (b) and (c), if the party seeking relief is a member of a group — the revenue of the group."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "COVID-19 (Temporary Measures) (Prescribed Matters for Second Schedule) Regulations 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

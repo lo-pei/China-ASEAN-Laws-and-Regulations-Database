@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-92-1984-BUSINESS-NAMES-ACT",
  "title": {
-  "zh": null,
+  "zh": "商业名称法",
   "en": "BUSINESS NAMES ACT",
   "orig": null
  },
@@ -274,5 +274,13 @@
     "en": "(1) His Majesty in Council may make regulations Regulations prescribing all matters which by this Act are required or permitted to be prescribed or which are necessary or convenient to be prescribed to carry this Act into effect, or to give effect to any power, function, duty or authority under this Act, and without limiting the generality of the power conferred by this section the regulations may prescribe -\n\n(a) the fees to be paid to the Registrar under\n\n(b) the forms to be used under this Act;\n\n(c) the duties of the Registrar for the purposes of this Act;\n\n(d) generally the conduct and regulation of registration under this Act.\n\n(2) Any such regulation shall be published in the and shall have the same form as if enacted in this Act."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BUSINESS NAMES ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3667",
  "title": {
-  "zh": null,
+  "zh": "技能发展税法 1979",
   "en": "Skills Development Levy Act 1979",
   "orig": null
  },
@@ -482,5 +482,13 @@
     "en": "SECOND SCHEDULE\nSection 25\nMatters in respect of which Agency\nmay make regulations\n1. Requiring employers to give notice of their liability to pay the levy and the manner in which the notice is to be given.\n2. The manner in which the levy is to be paid and collected and the manner in which the levy when paid and collected is to be accounted for.\n3. The manner in which the levy due and unpaid is to be assessed and collected.\n4. The keeping by employers liable to pay the levy of payroll records, receipts of contributions and such other documents as may seem necessary, and the preservation of the same.\n5. The refund of any levy paid in excess of the amount required by this Act and the forfeiture of any levy paid in excess which remains unclaimed within a stipulated time.\n6. Matters consequential on the death of an employer, the employer becoming bankrupt or subject to any incapacity or (where the employer is a company) its winding up, in relation to any unpaid levy.\n6A. Where the employer is a VCC, matters consequential on the winding up of the VCC or (in the case of an umbrella VCC) any of its sub‑funds, in relation to any unpaid levy.\n7. The remission of any levy.\n8. Making any act or omission in contravention of any regulations made under this Act an offence and prescribing penalties for such offences which may consist of a fine not exceeding $5,000 or imprisonment for a term not exceeding 12 months or both.\n9. The imposition of penalties (such penalties, if unpaid, to be recoverable as a debt due to the Agency) to be paid by an employer for late payment of the levy.\n10. The manner of the service of notices for the purposes of this Act.\n[S 461/2020]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Skills Development Levy Act 1979",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

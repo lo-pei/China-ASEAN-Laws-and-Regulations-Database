@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-95-2024-BANKING-ACT",
  "title": {
-  "zh": null,
+  "zh": "银行法",
   "en": "BANKING ACT",
   "orig": null
  },
@@ -1925,5 +1925,13 @@
     "en": "(1) Notwithstanding the provisions of Part 3, each of the banks specified in Schedule 2 shall, on or as soon as practicable after the commencement of this Act, be granted a licence under section 9 which may be made subject to such conditions, if any, as are contained in any licence the bank was on in Brunei Darussalam immediately before that commencement or which the Authority immediately before that commencement or which the Authority may impose having regard to this Act.\n\n(2) Any bank which is granted a licence by virtue of this section shall comply with the provisions of section 8(2)(d) and (e)(i) and (ii), within a period of one year of the commencement of this Act or for such later date as the Authority may decide.\n\n(3) If any bank licensed by virtue of this section fails to comply with the provisions of section 8(2)(d) or (e)(i) or (ii), in accordance with subsection (2) of this section, the licence granted to it by virtue of this section shall become null and void except in so far as may be necessary for the purpose of winding up its banking business.\n\n(4) The Authority may, in any particular case, extend the period provided by subsection (2) of this section and the period of validity of the licence concerned. INTERPRETATION OF “ASSOCIATE”, “PARENT” AND “SUBSIDIARY” UNDERTAKINGS"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BANKING ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

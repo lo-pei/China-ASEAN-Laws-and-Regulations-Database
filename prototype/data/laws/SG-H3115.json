@@ -1,7 +1,7 @@
 {
  "id": "SG-H3115",
  "title": {
-  "zh": null,
+  "zh": "医疗注册（新加坡医药理事会成员——豁免）命令 2024",
   "en": "Medical Registration (Member of Singapore Medical Council — Exemption) Order 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 8(b) of the Act does not apply to Professor Sung Jao Yiu, for so long as he remains the Dean of the Lee Kong Chian School of Medicine at Nanyang Technological University, Singapore."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Medical Registration (Member of Singapore Medical Council — Exemption) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

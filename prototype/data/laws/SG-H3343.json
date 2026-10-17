@@ -1,7 +1,7 @@
 {
  "id": "SG-H3343",
  "title": {
-  "zh": null,
+  "zh": "新加坡国立大学学术人员公积金计划规则",
   "en": "National University of Singapore Academic Staff Provident Fund Scheme Rules",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Academic Staff Provident Scheme, established by the University of Singapore under section 27(f) of the Constitution of the University of Singapore and in force immediately before 8th August 1980, shall continue to be in force on and after that date subject to the following modifications:\n(a)the Scheme shall be known as the National University of Singapore Academic Staff Provident Fund Scheme;\n(b)references to the University of Singapore or to the University shall be construed as references to the National University of Singapore; and\n(c)a new Board of Management of the Scheme shall be constituted as soon as practicable after the appointed day and shall consist of —\n(i)the Vice-Chancellor or his representative;\n(ii)3 persons appointed by the Council from among its members; and\n(iii)3 persons elected by the members of the Scheme.\n[2989/70]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "National University of Singapore Academic Staff Provident Fund Scheme Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

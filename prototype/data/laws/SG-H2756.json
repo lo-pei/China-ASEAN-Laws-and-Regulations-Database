@@ -1,7 +1,7 @@
 {
  "id": "SG-H2756",
  "title": {
-  "zh": null,
+  "zh": "新加坡税务局（职能转授）公告 2023",
   "en": "Inland Revenue Authority of Singapore (Assignment of Functions) Notification 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The Minister for Finance assigns to the Inland Revenue Authority of Singapore the function of administering the scheme known as the Uplifting Employment Credit that was introduced in the Budget Statement of the Government dated 14 February 2023."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Inland Revenue Authority of Singapore (Assignment of Functions) Notification 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

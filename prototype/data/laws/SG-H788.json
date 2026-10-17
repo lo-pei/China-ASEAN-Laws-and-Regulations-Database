@@ -1,7 +1,7 @@
 {
  "id": "SG-H788",
  "title": {
-  "zh": null,
+  "zh": "竞争（上诉）条例",
   "en": "Competition (Appeals) Regulations",
   "orig": null
  },
@@ -720,5 +720,11 @@
     "en": "THE SCHEDULE\nRegulations 8(1)(d)(ii), 23(2), 34(1) and 38(1)\nFees\n1. Filing a notice of appeal\n$500\n2. Issue of summons —\n(a) request made less than 3 days before the day fixed for the hearing\n$50\n(b) any other request\n$20\n3. Filing an application for interim relief\n$100."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "manual-llm",
+  "reviewed": false,
+  "source": "Competition (Appeals) Regulations",
+  "note": "人工逐条翻译（模型产出，未经人工复核）；公司名、地名、机构名保留原文。"
+ }
 }

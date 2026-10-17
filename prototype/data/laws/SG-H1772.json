@@ -1,7 +1,7 @@
 {
  "id": "SG-H1772",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（共用财产与开放空间）规则",
   "en": "Housing and Development (Common Property and Open Spaces) Rules",
   "orig": null
  },
@@ -228,5 +228,13 @@
     "en": "THE SCHEDULE\nRule 4(3)(b)\nClamping, removal and storage charges\nfor vehicle immobilised, removed or\ndetained under rule 4\nFirst column\nSecond column\nThird column\nFourth column\nType of vehicle\nClamping charge\nRemoval charge\nStorage charge\n1.Motor cycle\n$109\n$65.40\n$21.80 per day or part of a day\n2.Motor car\n$109\n$174.40\n$43.60 per day or part of a day\n3.Any other vehicle (not being a motor cycle, motor car, bicycle, personal mobility device or power‑assisted bicycle)\n$109\n$392.40\n$87.20 per day or part of a day\n[S 503/2026 wef 15/07/2026]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Housing and Development (Common Property and Open Spaces) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

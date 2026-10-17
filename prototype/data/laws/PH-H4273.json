@@ -1,7 +1,7 @@
 {
  "id": "PH-H4273",
  "title": {
-  "zh": null,
+  "zh": "规定任何个人、协会或公司在北伊罗戈全省每年11月至次年1月（含）期间捕捞、使人捕捞、出售、要约出售、购买或持有名为“Ipon”的鱼种均属违法",
   "en": "An Act Making It Unlawful for Any Person, Association or Corporation to Catch or Cause to Be Caught, Sell, Offer to Sell, Purchase or Have in Possession, Any of the Fish Species Called&nbsp;\"Ipon\"&nbsp;during the Period Starting From November of Each Year to January of the Succeeding Year, Inclusive, for the Whole Province of Ilocos Norte",
   "orig": "An Act Making It Unlawful for Any Person, Association or Corporation to Catch or Cause to Be Caught, Sell, Offer to Sell, Purchase or Have in Possession, Any of the Fish Species Called&nbsp;\"Ipon\"&nbsp;during the Period Starting From November of Each Year to January of the Succeeding Year, Inclusive, for the Whole Province of Ilocos Norte"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Making It Unlawful for Any Person, Association or Corporation to Catch or Cause to Be Caught, Sell, Offer to Sell, Purchase or Have in Possession, Any of the Fish Species Called&nbsp;\"Ipon\"&nbsp;during the Period Starting From November of Each Year to January of the Succeeding Year, Inclusive, for the Whole Province of Ilocos Norte",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

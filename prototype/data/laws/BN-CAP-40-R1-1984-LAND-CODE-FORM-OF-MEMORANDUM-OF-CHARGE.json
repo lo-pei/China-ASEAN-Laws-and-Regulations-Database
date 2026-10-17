@@ -1,0 +1,72 @@
+{
+ "id": "BN-CAP-40-R1-1984-LAND-CODE-FORM-OF-MEMORANDUM-OF-CHARGE",
+ "title": {
+  "zh": "R1 1984 版土地法典押记备忘录格式",
+  "en": "R1 1984 ED LAND CODE FORM OF MEMORANDUM OF CHARGE",
+  "orig": null
+ },
+ "country": "BN",
+ "countryName": "文莱",
+ "layer": "intl",
+ "pack": "bn-p23",
+ "language": "en",
+ "level": "law",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": null,
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "Attorney General's Chambers, Brunei Darussalam",
+ "docNumber": null,
+ "officialCode": null,
+ "topics": [],
+ "structure": null,
+ "summary": null,
+ "fulltextMeta": null,
+ "coverage": "full",
+ "structureMode": "SECTION",
+ "articleCount": 2,
+ "chars": 3597,
+ "source": {
+  "name": "Attorney General's Chambers, Brunei Darussalam (AGC) — LAWS OF BRUNEI / Government Gazette",
+  "url": null
+ },
+ "sourceFile": "CAP-40-R1-1984-ED-LAND-CODE-FORM-OF-MEMORANDUM-OF-CHARGE.pdf",
+ "fetchedAt": "2026-10-11",
+ "completenessNote": "来源为 AGC 官方 PDF《CAP-40-R1-1984-ED-LAND-CODE-FORM-OF-MEMORANDUM-OF-CHARGE.pdf》（4 页），本次切分 2 条。该 PDF 为扫描件 + OCR 文本层，正文按版式位置重建：已剔除页眉页脚与边栏条标题、回接折行；未改写措辞、未增删内容。OCR 层面可能存在个别粘连或形近字，逐字引用请以原始 PDF 为准。",
+ "textQuality": "ocr-scanned",
+ "ocrNoisySections": null,
+ "pdfs": null,
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "BN-CAP-40-R1-1984-LAND-CODE-FORM-OF-MEMORANDUM-OF-CHARGE-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Section 1."
+   },
+   "text": {
+    "en": "These Rules may be cited as the Land Code (Form of Memorandum of Charge) Rules."
+   }
+  },
+  {
+   "id": "BN-CAP-40-R1-1984-LAND-CODE-FORM-OF-MEMORANDUM-OF-CHARGE-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Section 2."
+   },
+   "text": {
+    "en": "In addition to, and not in substitution for, Form E in the Sche-Additional dule to the Land Code, the form of memorandum of charge set out in ~!~~~ndum the Schedule to these rules may, where it is appropriate, be used by a of charge person wishing to charge his land. .•\n\nSCHEDULE CHARGE* Stamp $ ................... . Fee $ ................... . Total $ .................. .. No. I [we] .............................................................................. . Full names · and addresses of chargors being registered as the owner[ s] [lawfully entitled to charge by virtue of State the ............................................................................................ authority ] under which the charge is the property hereinafter described in consideration of ...................... . effected e.g., Letters of Administration, Order of Court, etc. -(hereinafter called the chargee[ s] ) having agreed to give me [us] credit Full names and addresses to the extent of the sum of dollars . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . of chargees B.L.R.O.J/1984 20 CAP. 40 Land Code - [Subsidiary} ($ ......................... ) do hereby [jointly and severally] promise to repay the same on demand [within .................. month [s] after demand] Insert [on or before the .................. day of .................. 19 ........ ] and until monthly, quarterly or payment to pay interest on the amount thereof from time to time due as the case maybe and owing by me [us] at the rate of .................. % per annum. As security for the above sum and interest I [we] hereby charge to the chargee[ s] the following property, viz.: Describe the property fully giving E.D.R. No ............. . and name of Land Office subject to such a prior charges as are notified by memorandum enclosed herein. [I [we] hereby undertake to insure and keep the above property insured against [fire] [theft] [maritime risk] in such insurance company as the chargee[s] may require] .................................................... . ·' Here insert [And I [we] further hereby agree with the chargee[s] as follows: .... any additional conditions or covenants ............................................................................................ ] agreed Dated this ......................... day of .......................... 19 ....... . Signed by the said ..................... . ( chargor[ s]) in the presence of - '-{Subsidiary] Name of Witness ...................... . Address ................................. . Occupation ............................. . Signed by the said ..................... . (chargee[ s J ) in the presence of - Name of Witness ...................... . Address ................................. . Occupation ............................. . Entered in the Register Volume .................. Folio\n\nLAND OFFICER *Note-(1) the words in square brackets are alternative. If it is desired to use any of them the square brackets surrounding the words to be used should be deleted.\n\n(2) all words whether outside or inside the square brackets, which are not to be used should be deleted. NOTE. The following subsidiary legislation has been omittedLand Code Rules 1935 (B.R.O.N. dated 14.10.35) -Land Code (Amendment) Rules 1957 (S.44157) Rules regarding Rent (B.R.O.N. 31/38) Rules governing the taking of Stone, Gravel, etc. (B.R.O.N. dated 14.10.35) Rules governing the taking of Stone, Gravel, etc. (Amendment) (S.44172) B.L.R.O. 111984"
+   }
+  }
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "R1 1984 ED LAND CODE FORM OF MEMORANDUM OF CHARGE",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
+}

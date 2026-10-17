@@ -1,7 +1,7 @@
 {
  "id": "SG-H2229",
  "title": {
-  "zh": null,
+  "zh": "所得税（经济发展与技术开发贷款的利息及其他付款豁免）公告 2004",
   "en": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2004",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2(1)(b)\nRequirements under Block Transfer Scheme\nFirst column\nSecond column\nNumber of ships registered as Singapore ships by shipping enterprise\nAggregate net tons of Singapore ships registered by shipping enterprise\n2\n40,000\n3\n30,000\n4\n20,000\n5 or more\nany amount."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Interest and Other Payments on Economic and Technological Development Loans) Notification 2004",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

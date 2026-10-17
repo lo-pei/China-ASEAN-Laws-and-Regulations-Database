@@ -1,7 +1,7 @@
 {
  "id": "SG-H2691",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 20 号）命令 2023",
   "en": "Infrastructure Protection (Protected Places) (No. 20) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst Column\nSecond Column\nThe Authority\nProtected Place\nDirector, Corporate Security & Commercial Facilities, Singapore Telecommunications Limited\nCHOA CHU KANG EXCHANGE\nAll that area comprised in Lot 01973A in Mukim No. 12 occupied by “CHOA CHU KANG EXCHANGE” containing an area of about 5,000 square metres and bounded approximately as follows:\nCommencing at a point 39,687.029 metres North and 15,050.339 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n39,687.029\n15,050.339\n39,691.837\n15,102.714\n39,693.066\n15,116.102\n39,635.860\n15,118.827\n39,632.294\n15,118.694\n39,628.802\n15,117.958\n39,625.485\n15,116.642\n39,622.438\n15,114.783\n39,619.751\n15,112.435\n39,617.500\n15,109.666\n39,617.041\n15,107.358\n39,615.019\n15,097.272\n39,613.833\n15,091.853\n39,612.395\n15,085.631\n39,610.503\n15,067.525\n39,607.100\n15,054.761\n39,648.624\n15,052.464\nto the point of commencement.\nThe boundaries of “CHOA CHU KANG EXCHANGE” are more particularly delineated in the Certified Plan No. CP90048 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 20) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

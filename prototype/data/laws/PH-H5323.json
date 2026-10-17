@@ -1,7 +1,7 @@
 {
  "id": "PH-H5323",
  "title": {
-  "zh": null,
+  "zh": "通过修订第6766号共和国法过渡条款第1条，推迟Cordillera自治区总督、副总督与区域议会成员首次定期选举的举行，并为其他目的法案",
   "en": "An Act Postponing the Holding of the First Regular Election for the Governor, Deputy Governor, and Members of the Regional Assembly of the Autonomous Region of the Cordilleras by amending Section One of the Transitory Provisions of Republic Act Numbered Six Thousand Seven Hundred Sixty-Six, and for other purposes",
   "orig": "An Act Postponing the Holding of the First Regular Election for the Governor, Deputy Governor, and Members of the Regional Assembly of the Autonomous Region of the Cordilleras by amending Section One of the Transitory Provisions of Republic Act Numbered Six Thousand Seven Hundred Sixty-Six, and for other purposes"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its complete publication in at least two (2) national newspapers and at least one (1) local newspaper of general circulation in the Autonomous Region."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Postponing the Holding of the First Regular Election for the Governor, Deputy Governor, and Members of the Regional Assembly of the Autonomous Region of the Cordilleras by amending Section One of the Transitory Provisions of Republic Act Numbered Six Thousand Seven Hundred Sixty-Six, and for other purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

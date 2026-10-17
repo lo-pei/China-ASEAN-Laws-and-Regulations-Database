@@ -1,7 +1,7 @@
 {
  "id": "BN-S-32-2021-OLD-AGE-AND-DISABILITY-PENSIONS-ACT-AMENDME-BD0F1D",
  "title": {
-  "zh": null,
+  "zh": "老年与残疾养老金法修正第 2 号条例 2021",
   "en": "OLD AGE AND DISABILITY PENSIONS ACT AMENDMENT NO. 2 REGULATIONS 2021",
   "orig": null
  },
@@ -203,5 +203,13 @@
     "en": "(I) For the purposes of these Regulations. the Controller shall issue guidelines to determine whether the statutory conditions are fulfilled.\n\n(2) The Controller may. from time to time, amend the guidelines as he may think fit. Guidelines to determine persons suffering from blindness etc. SC. (I) For the purposes of regulations 4, 7 and 8, the Director-General of Medical Services shall issue guidelines relating to the criteria on the determination of persons suffering from blindness, mental disorder or disability, respectively.\n\n(2) The Director-General of Medical Services may, from time to time, amend the guidelines as he may think fit.\". Amendment of regulation 10"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "OLD AGE AND DISABILITY PENSIONS ACT AMENDMENT NO. 2 REGULATIONS 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

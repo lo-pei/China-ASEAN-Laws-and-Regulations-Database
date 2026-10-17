@@ -1,7 +1,7 @@
 {
  "id": "PH-H5092",
  "title": {
-  "zh": null,
+  "zh": "增加拉乌尼翁省Agoo市镇Doña Gregoria纪念医院床位并授权为此拨款的法案",
   "en": "An Act Increasing the Bed Capacity of Dona Gregoria Memorial Hospital in the Municipality of Agoo, Province of La Union, and Authorizing the Appropriation of Funds Therefor.",
   "orig": "An Act Increasing the Bed Capacity of Dona Gregoria Memorial Hospital in the Municipality of Agoo, Province of La Union, and Authorizing the Appropriation of Funds Therefor."
  },
@@ -71,5 +71,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Bed Capacity of Dona Gregoria Memorial Hospital in the Municipality of Agoo, Province of La Union, and Authorizing the Appropriation of Funds Therefor.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

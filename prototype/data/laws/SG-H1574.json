@@ -1,7 +1,7 @@
 {
  "id": "SG-H1574",
  "title": {
-  "zh": null,
+  "zh": "金融服务与市场（第 49 条订明金融机构）条例 2024",
   "en": "Financial Services and Markets (Prescribed Financial Institutions under Section 49) Regulations 2024",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. Revoke the Monetary Authority of Singapore (Prescribed Financial Institutions under Section 40A) Regulations 2020 (G.N. No. S 637/2020)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Financial Services and Markets (Prescribed Financial Institutions under Section 49) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H3934",
  "title": {
-  "zh": null,
+  "zh": "将西米萨米斯省奥罗基塔市镇中央学校附属校的名称变更为拉亚万小学的法案",
   "en": "An Act Changing the Name of Central School Annex in the Municipality of Oroquieta, Province of Misamis Occidental, to Layawan Elementary School",
   "orig": "An Act Changing the Name of Central School Annex in the Municipality of Oroquieta, Province of Misamis Occidental, to Layawan Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Central School Annex in the Municipality of Oroquieta, Province of Misamis Occidental, to Layawan Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

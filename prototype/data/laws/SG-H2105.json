@@ -1,7 +1,7 @@
 {
  "id": "SG-H2105",
  "title": {
-  "zh": null,
+  "zh": "所得税（外国收入豁免）命令 2006",
   "en": "Income Tax (Exemption of Foreign Income) Order 2006",
   "orig": null
  },
@@ -129,5 +129,13 @@
     "en": "7. CapitaCommercial Trust shall, with effect from 14th February 2006, be exempt from tax on any interest derived from outside Singapore and received in Singapore, subject to the conditions specified in the letter of approval dated 14th February 2006 addressed to the tax agent of CapitaCommercial Trust."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Exemption of Foreign Income) Order 2006",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H9147",
  "title": {
-  "zh": null,
+  "zh": "通过管理受控物资贸易与相关服务提供防止大规模毁灭性武器扩散，并为其他目的法案",
   "en": "An Act Preventing the Proliferation of Weapons of Mass Destruction By Managing the Trade in Strategic Goods, the Provision of Related Services, and for Other Purposes",
   "orig": "An Act Preventing the Proliferation of Weapons of Mass Destruction By Managing the Trade in Strategic Goods, the Provision of Related Services, and for Other Purposes"
  },
@@ -480,5 +480,13 @@
     "en": "Effectivity Clause. – This Act shall take effect after fifteen (15) days from its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Preventing the Proliferation of Weapons of Mass Destruction By Managing the Trade in Strategic Goods, the Provision of Related Services, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H358",
  "title": {
-  "zh": null,
+  "zh": "建筑管制（环境可持续性）条例 2008",
   "en": "Building Control (Environmental Sustainability) Regulations 2008",
   "orig": null
  },
@@ -198,5 +198,13 @@
     "en": "THIRD SCHEDULE\nRegulation 4(1)(e)\nArea\nRequirement for building wholly or\npartly within area that is on land sold\non or after 1 September 2014 but before 30 June 2022\nunder the Government Land Sales Programme\nArea within red boundary in Map 1\nGreen Mark GoldPlus Rating\nArea within red boundary in Map 2\nGreen Mark GoldPlus Rating\n[S 505/2022 wef 30/06/2022]\nMap 1\nWOODLANDS REGIONAL CENTRE\nMap 2\nPUNGGOL ECO-TOWN\n[S 542/2014 wef 01/09/2014]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Building Control (Environmental Sustainability) Regulations 2008",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

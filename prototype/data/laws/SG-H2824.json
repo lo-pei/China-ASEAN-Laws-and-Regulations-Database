@@ -1,7 +1,7 @@
 {
  "id": "SG-H2824",
  "title": {
-  "zh": null,
+  "zh": "保险（第 34（6）条下的指定权益）条例 2023",
   "en": "Insurance (Prescribed Interests under Section 34(6)) Regulations 2023",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) For the purposes of section 34(6)(c) of the Act, the following interests are prescribed interests to which section 34 of the Act does not apply:\n(a)any interest acquired, directly or indirectly, using any policy asset of an insurance fund established and maintained under the Act by a direct insurer licensed to carry on life business for its participating policies;\n(b)any interest held, directly or indirectly, as a policy asset of an insurance fund mentioned in sub‑paragraph (a);\n(c)any interest that is acquired, directly or indirectly, using any underlying asset of an insurance fund established and maintained under the Act by a direct insurer licensed to carry on life business for its investment‑linked policies;\n(d)any interest that is held, directly or indirectly, as an underlying asset of an insurance fund mentioned in sub‑paragraph (c).\n(2) In this regulation —\n“policy asset” means an asset of an insurance fund held for the benefit of policyholders in that fund;\n“underlying asset” means an asset of an insurance fund to which reference is made when calculating the value of an investment‑linked policy."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insurance (Prescribed Interests under Section 34(6)) Regulations 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

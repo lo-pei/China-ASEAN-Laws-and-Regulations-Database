@@ -1,7 +1,7 @@
 {
  "id": "SG-H865",
  "title": {
-  "zh": null,
+  "zh": "企业服务提供商法 2024",
   "en": "Corporate Service Providers Act 2024",
   "orig": null
  },
@@ -774,5 +774,13 @@
     "en": "46.—(1) For a period of 2 years after the date of commencement of any provision of this Act, the Minister may, by regulations, prescribe such additional provisions of a saving or transitional nature consequent on the enactment of that provision as the Minister may consider necessary or expedient.\n(2) To avoid doubt, nothing in this Part affects section 16 of the Interpretation Act 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Corporate Service Providers Act 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

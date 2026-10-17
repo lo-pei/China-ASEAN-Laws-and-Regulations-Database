@@ -1,7 +1,7 @@
 {
  "id": "PH-H7908",
  "title": {
-  "zh": null,
+  "zh": "将武端市佛罗里达描笼涯的佛罗里达小学更名为Mariana L. Pineda纪念小学的法案",
   "en": "An Act Renaming Florida Elementary School Situated in Barangay Florida, Butuan City, into Mariana L. Pineda Memorial Elementary School",
   "orig": "An Act Renaming Florida Elementary School Situated in Barangay Florida, Butuan City, into Mariana L. Pineda Memorial Elementary School"
  },
@@ -81,5 +81,13 @@
     "en": "Effectivity. - This Act shall take effect upon its approva1."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming Florida Elementary School Situated in Barangay Florida, Butuan City, into Mariana L. Pineda Memorial Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

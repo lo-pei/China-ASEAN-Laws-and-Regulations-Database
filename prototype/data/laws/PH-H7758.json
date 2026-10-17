@@ -1,7 +1,7 @@
 {
  "id": "PH-H7758",
  "title": {
-  "zh": null,
+  "zh": "恢复境外银行单位（OBUs）与外币存款单位（FCDUs）的税收豁免，为此修订经修正的《国家国内税收法典》第 27（D）条与第 28 条",
   "en": "An act restoring the Tax Exemption of Offshore Banking Units (OBUs) and Foreign Currency Deposit Units (FCDUs), amending for the Purpose Section 27 (D) and Section 28, Paragraphs (A) (4) AND (A) (7) (b) of the National Internal Revenue Code as amended",
   "orig": "An act restoring the Tax Exemption of Offshore Banking Units (OBUs) and Foreign Currency Deposit Units (FCDUs), amending for the Purpose Section 27 (D) and Section 28, Paragraphs (A) (4) AND (A) (7) (b) of the National Internal Revenue Code as amended"
  },
@@ -90,5 +90,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act restoring the Tax Exemption of Offshore Banking Units (OBUs) and Foreign Currency Deposit Units (FCDUs), amending for the Purpose Section 27 (D) and Section 28, Paragraphs (A) (4) AND (A) (7) (b) of the National Internal Revenue Code as amended",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

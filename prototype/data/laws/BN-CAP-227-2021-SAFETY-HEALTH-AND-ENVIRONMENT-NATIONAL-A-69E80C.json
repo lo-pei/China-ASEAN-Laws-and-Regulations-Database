@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-227-2021-SAFETY-HEALTH-AND-ENVIRONMENT-NATIONAL-A-69E80C",
  "title": {
-  "zh": null,
+  "zh": "安全、健康与环境国家局法",
   "en": "SAFETY HEALTH AND ENVIRONMENT NATIONAL AUTHORITY ACT",
   "orig": null
  },
@@ -369,5 +369,13 @@
     "en": "The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan. make such regulations as may be necessary or expedient for giving effect to and carrying out the provisions of this Act and for the due administration thereof, including the prescription of fees and of any other thing required to be or which may be prescribed under this Act. B.L.R.O. 3;2021 Safety, Health and Environment 16 CAP. 227 National Authority (sections 8( 1 ) and 23)\n\nOF AUTHORITY"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SAFETY HEALTH AND ENVIRONMENT NATIONAL AUTHORITY ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

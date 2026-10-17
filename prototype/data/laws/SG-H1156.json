@@ -1,7 +1,7 @@
 {
  "id": "SG-H1156",
  "title": {
-  "zh": null,
+  "zh": "存款保险条例",
   "en": "Deposit Insurance Regulations",
   "orig": null
  },
@@ -211,5 +211,13 @@
     "en": "THIRD SCHEDULE\nRegulation 7\nTable — Premium Rates\nApplicable To Scheme Members\nFirst column\nSecond column\nCategory of Scheme members\nPremium Rate\n1.A Scheme member which is —\n0.03%\n(a)incorporated in Singapore; or\n(b)a foreign bank with an asset maintenance ratio of more than 5\n2.A Scheme member which is a foreign bank with an asset maintenance ratio of more than 2 but not more than 5\n0.04%\n3.A Scheme member which is a foreign bank with an asset maintenance ratio of 2 or less\n0.08%\n[G.N. Nos. S 8/2006; S242/2007]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Deposit Insurance Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

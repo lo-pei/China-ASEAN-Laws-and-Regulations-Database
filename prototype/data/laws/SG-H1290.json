@@ -1,7 +1,7 @@
 {
  "id": "SG-H1290",
  "title": {
-  "zh": null,
+  "zh": "濒危物种（进出口）（费用）规则 2026",
   "en": "Endangered Species (Import and Export) (Fees) Rules 2026",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nRule 3\nFees\nFirst column\nSecond column\n1.Application for a permit to import, export, re‑export or introduce from the sea any scheduled species\n$12 per scheduled species, subject to a minimum of $60 per consignment\n2.Expedited processing of an application in item 1\n$12 per scheduled species, subject to a minimum of $60 per consignment, in addition to the fee in item 1\n3.Application for a permit to export or re‑export as a tourist item or personal effect any manufactured product that comprises or contains a readily recognisable part or derivative of a scheduled species\n$10 per permit\n4.Expedited processing of an application in item 3\n$10 per permit, in addition to the fee in item 3\n5.Professional service\n(a)$63 per hour or part of an hour\n(b)$133 per hour or part of an hour outside office hours or on an expedited basis\n6.Technical service\n(a)$38 per hour or part of an hour\n(b)$80 per hour or part of an hour outside office hours or on an expedited basis\n7.Certification of a scheduled species\n$29.40 per certificate\n8.Expedited certification of a scheduled species\n$58.80 per certificate\n9.Certification of a non‑scheduled species\n$22 per certificate\n10.Expedited certification of a non‑scheduled species\n$44 per certificate\n11.Endorsement of a declaration that a manufactured product, which is intended for export or re‑export as a tourist item or personal effect, does not comprise or contain a scheduled species\n$10 per endorsement\n12.Expedited endorsement of a declaration in item 11\n$20 per endorsement\n13.Certified true copy of a certificate, permit or other document issued by the Director‑General\n$9.45 per document certified"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Endangered Species (Import and Export) (Fees) Rules 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

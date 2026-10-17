@@ -1,7 +1,7 @@
 {
  "id": "SG-H3178",
  "title": {
-  "zh": null,
+  "zh": "商船（海事劳工公约）（财务担保）条例 2017",
   "en": "Merchant Shipping (Maritime Labour Convention) (Financial Security) Regulations 2017",
   "orig": null
  },
@@ -211,5 +211,13 @@
     "en": "THIRD SCHEDULE\nRegulation 9(3)(b)\nParticulars of certificate of financial security\ncontract for death or long‑term disability\n1.Name of the ship.\n2.Port of registry of the ship.\n3.Call sign of the ship.\n4.IMO number of the ship.\n5.Name and address of the approved financial security provider.\n6.Contact details of the persons or entity responsible for handling seafarers’ contractual claims.\n7.Name of the shipowner.\n8.Period of validity of the financial security.\n9.An attestation from the approved financial security provider that the financial security meets the requirements of Standard A4.2.1 of the Convention."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Merchant Shipping (Maritime Labour Convention) (Financial Security) Regulations 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

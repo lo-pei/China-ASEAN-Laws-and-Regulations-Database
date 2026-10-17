@@ -1,7 +1,7 @@
 {
  "id": "PH-H7478",
  "title": {
-  "zh": null,
+  "zh": "进一步推迟对特定服务征收增值税，为此修订经第8761号共和国法修正的第8424号共和国法第5条的法案",
   "en": "An Act to Further Defer the Imposition of the Value-Added Tax on Certain Services, Amending for the Purpose Section 5 of Republic Act No. 8424, as Amended By Republic Act No. 8761",
   "orig": "An Act to Further Defer the Imposition of the Value-Added Tax on Certain Services, Amending for the Purpose Section 5 of Republic Act No. 8424, as Amended By Republic Act No. 8761"
  },
@@ -80,5 +80,13 @@
     "en": "The effectivity of this Act shall retroact to January 1, 2001."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Defer the Imposition of the Value-Added Tax on Certain Services, Amending for the Purpose Section 5 of Republic Act No. 8424, as Amended By Republic Act No. 8761",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

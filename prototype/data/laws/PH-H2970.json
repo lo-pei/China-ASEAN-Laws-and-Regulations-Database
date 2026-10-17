@@ -1,7 +1,7 @@
 {
  "id": "PH-H2970",
  "title": {
-  "zh": null,
+  "zh": "为菲律宾大学内菲律宾行政学院的建筑物、设施与营运费用提供经费并为其他目的法案",
   "en": "An Act to Provide Funds for Buildings, Facilities and Operating Expenses of the Philippine Executive Academy Within the University of the Philippines and for Other Purposes",
   "orig": "An Act to Provide Funds for Buildings, Facilities and Operating Expenses of the Philippine Executive Academy Within the University of the Philippines and for Other Purposes"
  },
@@ -120,5 +120,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 20, 1963."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide Funds for Buildings, Facilities and Operating Expenses of the Philippine Executive Academy Within the University of the Philippines and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

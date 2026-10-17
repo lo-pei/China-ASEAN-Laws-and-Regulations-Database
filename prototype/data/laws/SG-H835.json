@@ -1,7 +1,7 @@
 {
  "id": "SG-H835",
  "title": {
-  "zh": null,
+  "zh": "租金管制（豁免——法定机构）（合并）公告",
   "en": "Control of Rent (Exemption — Statutory Bodies) (Consolidation) Notification",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. The following properties and premises are exempted from the provisions of the Act:\n(a)all premises belonging to, leased or rented by the Port of Singapore Authority;\n[S 310/51]\n[10.8.51]\n(b)all properties of the National University of Singapore;\n[S 186/70]\n[10.7.70]\n(c)all premises belonging to, leased or rented by the Singapore Tourist Promotion Board;\n[S 258/70]\n[18.9.70]\n(d)all properties of the Telecommunications Authority of Singapore;\n[S 78/71]\n[12.3.71]\n(e)all properties of the Sentosa Development Corporation situate in Sentosa; and\n[S 240/73]\n[20.7.73]\n(f)all properties belonging to, leased or sold by the Urban Redevelopment Authority.\n[S 52/79]\n[9.3.79]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Control of Rent (Exemption — Statutory Bodies) (Consolidation) Notification",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

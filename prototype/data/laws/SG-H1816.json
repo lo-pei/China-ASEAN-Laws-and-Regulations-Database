@@ -1,7 +1,7 @@
 {
  "id": "SG-H1816",
  "title": {
-  "zh": null,
+  "zh": "建屋发展（升级工程分区）（家居改进计划）（第 2 号）命令 2025",
   "en": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 2) Order 2025",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1. All that part of the housing estate of the Board at Ang Mo Kio Street 31 comprised in Lot number 13069M in Mukim 18 and on which Apartment Block 317 is erected, which block is marked with a grey dot in Plan 1.\nPlan 1\nANG MO KIO STREET 31\n2. All that part of the housing estate of the Board bounded by Choa Chu Kang Avenue 3, Choa Chu Kang Drive, Choa Chu Kang Avenue 1 and Choa Chu Kang Central, comprised in Lot number 02298L in Mukim 11 and on which Apartment Blocks 201, 202, 209, 210, 211, 215 and 216 are erected, in Lot number 01099N in Mukim 11 and on which Apartment Blocks 203, 204, 207 and 208 are erected, in Lot number 01131L in Mukim 11 and on which Apartment Blocks 205 and 206 are erected, in Lot number 01137T in Mukim 11 and on which Apartment Blocks 212 and 213 are erected, in Lot number 01380T in Mukim 11 and on which Apartment Blocks 214, 217, 218, 219 and 220 are erected, and in Lot number 01378A in Mukim 11 and on which Apartment Block 221 is erected, which blocks are each marked with a grey dot in Plan 2.\nPlan 2\nCHOA CHU KANG AVENUE 1 / CHOA CHU KANG CENTRAL\n3. All that part of the housing estate of the Board bounded by Jurong West Street 91, Jurong West Street 92, Jurong West Street 93 and Pioneer Road North, comprised in Lot number 01711T in Mukim 09 and on which Apartment Blocks 961, 965 and 966 are erected, and in Lot number 01709A in Mukim 09 and on which Apartment Blocks 974, 975, 976, 977, 978, 979 and 980 are erected, which blocks are each marked with a grey dot in Plan 3.\nPlan 3\nJURONG WEST STREET 92 / JURONG WEST STREET 93"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Housing and Development (Precincts for Upgrading Works) (Home Improvement Programme) (No. 2) Order 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

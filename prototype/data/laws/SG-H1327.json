@@ -1,7 +1,7 @@
 {
  "id": "SG-H1327",
  "title": {
-  "zh": null,
+  "zh": "环境保护与管理（建筑工地噪音管制）条例",
   "en": "Environmental Protection and Management (Control of Noise At Construction Sites) Regulations",
   "orig": null
  },
@@ -156,5 +156,13 @@
     "en": "FOURTH SCHEDULE\nRegulation 4A(1) and (2)\nProhibited Periods For Construction Work Commenced On Or After 1st September 2011\n1.From 10 p.m. every Saturday to 7 a.m. on the following Monday.\n2.From 10 p.m. on the eve of a public holiday to 7 a.m. on the day following the public holiday.\n[S 484/2011 wef 01/09/2011]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Environmental Protection and Management (Control of Noise At Construction Sites) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

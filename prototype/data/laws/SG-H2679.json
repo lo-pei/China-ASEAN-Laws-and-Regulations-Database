@@ -1,7 +1,7 @@
 {
  "id": "SG-H2679",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 17 号）命令 2024",
   "en": "Infrastructure Protection (Protected Places) (No. 17) Order 2024",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nCommandant,\nHQ National\nCadet Corps\nKALLANG NCC (SEA) TRAINING CENTRE\nAll that area comprised in part of Lot 7614M in Mukim No. 25 occupied by “KALLANG NCC (SEA) TRAINING CENTRE” containing an area of about 5064.8 square metres and bounded approximately as follows:\nCommencing at a point 31,825.041 metres North and 32,306.512 metres East of the Singapore Land Authority SVY21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n31,825.041\n32,306.512\n31,838.124\n32,244.173\n31,817.016\n32,239.825\n31,823.361\n32,210.520\n31,843.149\n32,214.672\n31,843.343\n32,213.784\n31,873.650\n32,220.072\n31,873.787\n32,220.752\n31,878.091\n32,221.555\n31,884.744\n32,222.754\n31,888.071\n32,223.630\n31,885.035\n32,237.623\n31,920.587\n32,257.575\n31,920.361\n32,257.812\n31,909.892\n32,262.832\n31,911.463\n32,266.201\n31,908.365\n32,267.649\n31,878.521\n32,281.569\nto the point of commencement.\nThe boundaries of “KALLANG NCC (SEA) TRAINING CENTRE” are more particularly delineated in the Survey Plan No. K901 filed in the office of the Director, Building and Infrastructure Programme Centre, Defence Science and Technology Agency, Singapore, a copy of which is set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 17) Order 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

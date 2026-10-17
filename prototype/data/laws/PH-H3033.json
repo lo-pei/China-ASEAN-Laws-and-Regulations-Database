@@ -1,7 +1,7 @@
 {
  "id": "PH-H3033",
  "title": {
-  "zh": null,
+  "zh": "修订第 1383 号共和国法（题为《设立名为国家给水与排污管理局的公营公司的法案》）若干条款的法案",
   "en": "An Act Amending Certain Provisions of Republic Act Numbered Thirteen Hundred Eighty-Three, Entitled “An Act Creating a Public Corporation to be Known as the National Waterworks and Sewerage Authority”",
   "orig": "An Act Amending Certain Provisions of Republic Act Numbered Thirteen Hundred Eighty-Three, Entitled “An Act Creating a Public Corporation to be Known as the National Waterworks and Sewerage Authority”"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 22, 1963"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Amending Certain Provisions of Republic Act Numbered Thirteen Hundred Eighty-Three, Entitled “An Act Creating a Public Corporation to be Known as the National Waterworks and Sewerage Authority”",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

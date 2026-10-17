@@ -1,7 +1,7 @@
 {
  "id": "PH-H7655",
  "title": {
-  "zh": null,
+  "zh": "通过提高菲律宾武装部队（AFP）编制表中将官/旗官的比例强化其专业化，为此修订第 8186 号共和国法并为其他目的法案",
   "en": "An Act Strengthening the Professionalism in the Armed Forces of the Philippines By Increasing the Percentage Distribution of Generals/flag Officers in the AFP Table of Organization, Amending for This Purpose Republic Act Numbered Eighty-One Eighty-Six (R. A. 8186), and for Other Purposes",
   "orig": "An Act Strengthening the Professionalism in the Armed Forces of the Philippines By Increasing the Percentage Distribution of Generals/flag Officers in the AFP Table of Organization, Amending for This Purpose Republic Act Numbered Eighty-One Eighty-Six (R. A. 8186), and for Other Purposes"
  },
@@ -130,5 +130,13 @@
     "en": "Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or in two (2) newspapers of general circulation, whichever conies earlier."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Strengthening the Professionalism in the Armed Forces of the Philippines By Increasing the Percentage Distribution of Generals/flag Officers in the AFP Table of Organization, Amending for This Purpose Republic Act Numbered Eighty-One Eighty-Six (R. A. 8186), and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

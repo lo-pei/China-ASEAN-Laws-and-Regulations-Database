@@ -1,7 +1,7 @@
 {
  "id": "PH-H5192",
  "title": {
-  "zh": null,
+  "zh": "将三宝颜市图马加小学更名为卡塔利娜·维达·德哈隆纪念学校的法案",
   "en": "An Act Renaming the Tumaga Elementary School in Zamboanga City as the Catalina Vda. De Jalon Memorial School",
   "orig": "An Act Renaming the Tumaga Elementary School in Zamboanga City as the Catalina Vda. De Jalon Memorial School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Tumaga Elementary School in Zamboanga City as the Catalina Vda. De Jalon Memorial School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

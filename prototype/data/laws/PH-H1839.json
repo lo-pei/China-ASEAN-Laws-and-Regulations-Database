@@ -1,7 +1,7 @@
 {
  "id": "PH-H1839",
  "title": {
-  "zh": null,
+  "zh": "将拉古纳省纳格卡兰的普托尔村更名为马来亚村的法案",
   "en": "An Act Changing the Name of the Barrio of Putol in the Province of Nagcarlan, Province of Laguna, to Malaya",
   "orig": "An Act Changing the Name of the Barrio of Putol in the Province of Nagcarlan, Province of Laguna, to Malaya"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: March 28, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of the Barrio of Putol in the Province of Nagcarlan, Province of Laguna, to Malaya",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

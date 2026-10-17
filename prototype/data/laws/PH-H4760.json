@@ -1,7 +1,7 @@
 {
  "id": "PH-H4760",
  "title": {
-  "zh": null,
+  "zh": "宣布石油业国家政策、规范从业者活动与关系、设立石油业委员会以落实该政策并界定其职能、权力与目标并为其他目的法案",
   "en": "An Act Declaring a National Policy on the Petroleum Industry, Regulating the Activities and Relations of Persons and Entities Engaged Therein, Establishing An Oil Industry Commission to Effectuate the Same, and Defining Its Functions, Powers and Objectives, and for Other Purposes.",
   "orig": "An Act Declaring a National Policy on the Petroleum Industry, Regulating the Activities and Relations of Persons and Entities Engaged Therein, Establishing An Oil Industry Commission to Effectuate the Same, and Defining Its Functions, Powers and Objectives, and for Other Purposes."
  },
@@ -230,5 +230,13 @@
     "en": "Effective Date. — This Act shall take effect upon its approval.\nApproved, April 30, 1971."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring a National Policy on the Petroleum Industry, Regulating the Activities and Relations of Persons and Entities Engaged Therein, Establishing An Oil Industry Commission to Effectuate the Same, and Defining Its Functions, Powers and Objectives, and for Other Purposes.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

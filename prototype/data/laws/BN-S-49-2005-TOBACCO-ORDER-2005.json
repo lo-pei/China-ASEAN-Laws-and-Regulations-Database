@@ -1,7 +1,7 @@
 {
  "id": "BN-S-49-2005-TOBACCO-ORDER-2005",
  "title": {
-  "zh": null,
+  "zh": "烟草命令 2005",
   "en": "TOBACCO ORDER 2005",
   "orig": null
  },
@@ -505,5 +505,13 @@
     "en": "( 1) The Minister may, with the approval of His Majesty the Sultan and Yang Di-Pertuan, make regulations which are necessary or expedient for giving effect to and carrying out the provisions of this Order, including the prescription of fees and of any other thing required to be or which may be prescribed under this and for the due administration thereof.\n\n(2) Such regulations may include such incidental, consequential and supplementary provisions as the Minister considers necessary or expedient. Made this 6th. day of Jamadilawal, 1426 Hijriah corresponding to the 13th. day of June, 2005 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "TOBACCO ORDER 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

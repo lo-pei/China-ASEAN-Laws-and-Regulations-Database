@@ -1,7 +1,7 @@
 {
  "id": "SG-H2999",
  "title": {
-  "zh": null,
+  "zh": "法律专业（规定费用）规则 2024",
   "en": "Legal Profession (Prescribed Fees) Rules 2024",
   "orig": null
  },
@@ -87,5 +87,13 @@
     "en": "THE SCHEDULE\nRule 2\nFees\nFirst column\nSecond column\n1.Instrument of admission as lawyer (NP) under section 11D(3)\n$100\n2.Certificate to practise (pursuant to an ad hoc admission) under section 15(7)\n$1,000\n3.Instrument of admission as advocate and solicitor under section 16(3)\n$100\n4.Provisional practising certificate under section 18(3)(b) applied for in paper\n$100\n5.Provisional practising certificate under section 18(3)(b) applied for by electronic means\n$85\n6.Practising certificate under section 25(1)(e) applied for in paper\n$100\n7.Practising certificate under section 25(1)(e) applied for by electronic means\n$85"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Legal Profession (Prescribed Fees) Rules 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

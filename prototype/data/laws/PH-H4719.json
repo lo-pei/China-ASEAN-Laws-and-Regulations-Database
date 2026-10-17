@@ -1,7 +1,7 @@
 {
  "id": "PH-H4719",
  "title": {
-  "zh": null,
+  "zh": "执行国会第 2 号两院决议（经第 4 号两院决议修正）关于召开制宪会议的号召，规定比例代表制及代表选举与会议举行的细节，废止第 4914 号共和国法并为其他目的法案",
   "en": "An Act Implementing Resolution of Both Houses Numbered Two as Amended by Resolution of Both Houses Numbered Four of the Congress of the Philippines Calling for a Constitutional Convention, Providing for Proportional Representation Therein and Other Details Relating to the Election of Delegates to and the Holding of the Constitutional Convention, Repealing for the Purpose Republic Act Four Thousand Nine Hundred Fourteen, and for Other Purposes",
   "orig": "An Act Implementing Resolution of Both Houses Numbered Two as Amended by Resolution of Both Houses Numbered Four of the Congress of the Philippines Calling for a Constitutional Convention, Providing for Proportional Representation Therein and Other Details Relating to the Election of Delegates to and the Holding of the Constitutional Convention, Repealing for the Purpose Republic Act Four Thousand Nine Hundred Fourteen, and for Other Purposes"
  },
@@ -270,5 +270,13 @@
     "en": "This Act take effect upon its approval.\nApproved: August 24, 1970"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Implementing Resolution of Both Houses Numbered Two as Amended by Resolution of Both Houses Numbered Four of the Congress of the Philippines Calling for a Constitutional Convention, Providing for Proportional Representation Therein and Other Details Relating to the Election of Delegates to and the Holding of the Constitutional Convention, Repealing for the Purpose Republic Act Four Thousand Nine Hundred Fourteen, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

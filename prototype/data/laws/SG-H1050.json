@@ -1,7 +1,7 @@
 {
  "id": "SG-H1050",
  "title": {
-  "zh": null,
+  "zh": "关税（税项）命令",
   "en": "Customs (Duties) Order",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. The following rules of interpretation shall be used for the classification of all goods by the Director-General or any senior officer of customs authorised by him:\n(1) The titles of Sections, Chapters and sub-Chapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative Section or Chapter Notes and, provided such headings or Notes do not otherwise require, according to rules (2) to (6).\n(2) (a) Any reference in a heading to an article shall be taken to include a reference to that article incomplete or unfinished, provided that, as presented, the incomplete or unfinished article has the essential character of the complete or finished article. It shall also be taken to include a reference to that article complete or finished (or falling to be classified as complete or finished by virtue of this rule), presented unassembled or disassembled.\n[S 274/2025 wef 21/04/2025]\n(b)Any reference in a heading to a material or substance shall be taken to include a reference to mixtures or combinations of that material or substance with other material or substance. Any reference to goods of a given material or substance shall be taken to include a reference to goods consisting wholly or partly of such material or substance. The classification of goods consisting of more than one material or substance shall be according to the principles of rule (3)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Duties) Order",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

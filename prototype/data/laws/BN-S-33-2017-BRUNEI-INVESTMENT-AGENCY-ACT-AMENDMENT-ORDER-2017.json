@@ -1,7 +1,7 @@
 {
  "id": "BN-S-33-2017-BRUNEI-INVESTMENT-AGENCY-ACT-AMENDMENT-ORDER-2017",
  "title": {
-  "zh": null,
+  "zh": "文莱投资局法修正命令 2017",
   "en": "BRUNEI INVESTMENT AGENCY ACT AMENDMENT ORDER 2017",
   "orig": null
  },
@@ -79,5 +79,13 @@
     "en": "Section 7 of the Act is amended - (a] in subsection [I), by deleting \"one of the directors\" and by substituting \"any person\" therefor; (b] by repealing subsection (5) and by substituting the following new subsection therefor - \"(5) In the event of the absence or inability to act of the Managing Director, His Majesty the Sultan and Yang Di-Pertuan may appoint a director, or an officer of the Agency who holds the office of assistant managing director or its equivalent or above, to discharge his duties during the period of such absence or inability: Provided that the person duly appointed to act for the office of the Managing Director, unless he is a director appointed under section 5, does not have an absolute right to any privilege which the Managing Director may be entitled.\". Made this 18th. day of Rejab. 1438 Hijriah corresponding to the 15th. day of April, 2017 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "BRUNEI INVESTMENT AGENCY ACT AMENDMENT ORDER 2017",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

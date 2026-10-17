@@ -1,7 +1,7 @@
 {
  "id": "PH-H3929",
  "title": {
-  "zh": null,
+  "zh": "授权为Operation 与 Maintenance of 巴丹国立工艺学校拨款350000 Pesos，为此修订第903号共和国法第2条的法案",
   "en": "An Act Authorizing the Appropriation of Three Hundred Fifty Thousand Pesos for the Operation and Maintenance of the Bataan National School of Arts and Trades, Amending for the Purpose Section Two of Republic Act Numbered Nine Hundred Three",
   "orig": "An Act Authorizing the Appropriation of Three Hundred Fifty Thousand Pesos for the Operation and Maintenance of the Bataan National School of Arts and Trades, Amending for the Purpose Section Two of Republic Act Numbered Nine Hundred Three"
  },
@@ -61,5 +61,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Authorizing the Appropriation of Three Hundred Fifty Thousand Pesos for the Operation and Maintenance of the Bataan National School of Arts and Trades, Amending for the Purpose Section Two of Republic Act Numbered Nine Hundred Three",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H140",
  "title": {
-  "zh": null,
+  "zh": "航空导航（101——无人驾驶航空器运行）条例 2019",
   "en": "Air Navigation (101 — Unmanned Aircraft Operations) Regulations 2019",
   "orig": null
  },
@@ -1086,5 +1086,13 @@
     "en": "FOURTH SCHEDULE\nFirst Schedule\nUA pilot licence — tests and assessments\nTheory test\n1.—(1) The theory test is conducted or administered by the Authority, and is a test on —\n(a)General UAS Knowledge;\n(b)Principles of Flight;\n(c)Air Law;\n(d)Navigation and Meteorology;\n(e)Human Factors; and\n(f)Safety and Operations.\n(2) An applicant passes the theory test if the applicant achieves a test score of at least 75%.\n(3) An applicant is not eligible to attempt the theory test more than 2 times within a period of one month.\n(4) A pass in the theory test shall be valid for 24 months from the date on which the theory test was attempted.\nPractical assessment\n2.—(1) The practical assessment is conducted or administered by the Authority, a UATO or an Authorised Flight Examiner, and is an assessment of the applicant’s competency and ability to —\n(a)recognise and manage threats and errors while operating an unmanned aircraft of the class and category stated in the application;\n(b)safely operate the unmanned aircraft of the class and category stated in the application, within any limitations imposed or to be imposed under the UA pilot licence;\n(c)exercise good judgment and airmanship;\n(d)apply aeronautical knowledge; and\n(e)maintain control of the unmanned aircraft at all times in a manner such that the successful outcome of a procedure or manoeuvre is assured.\n(2) An applicant passes the practical assessment if the applicant meets, to the satisfaction of the person conducting the assessment, the requirements to pass that assessment.\n(3) An applicant is not eligible to attempt the practical assessment unless the applicant holds a valid pass in the theory test at the time of attempting the practical assessment.\nProficiency check\n3.—(1) The proficiency check is a proficiency check conducted or administered by the Authority, a UATO or an Authorised Flight Examiner, and is an assessment of the competency and ability of the person undergoing the check to —\n(a)recognise and manage threats and errors while operating an unmanned aircraft of the class and category stated in the application;\n(b)safely operate the unmanned aircraft of the class and category stated in the application, within any limitations imposed or to be imposed under the UA pilot licence;\n(c)exercise good judgment and airmanship;\n(d)apply aeronautical knowledge; and\n(e)maintain control of the unmanned aircraft at all times in a manner such that the successful outcome of a procedure or manoeuvre is assured.\n(2) A person passes the proficiency check if the person meets, to the satisfaction of the person conducting the check, the requirements to pass that check."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Air Navigation (101 — Unmanned Aircraft Operations) Regulations 2019",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

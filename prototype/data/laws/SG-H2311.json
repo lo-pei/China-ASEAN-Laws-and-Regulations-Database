@@ -1,7 +1,7 @@
 {
  "id": "SG-H2311",
  "title": {
-  "zh": null,
+  "zh": "所得税（Minerva 船用燃料私人有限公司等——第 13(4) 条豁免）公告 2024",
   "en": "Income Tax (Minerva Bunkering Pte. Ltd., etc. — Section 13(4) Exemption) Notification 2024",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest, commission, fee and other payments payable during the period from 1 January 2022 to 31 December 2025 (both dates inclusive) —\n(a)by the borrowers mentioned in the first column of the following table;\n(b)to the respective lenders mentioned in the second column of the table;\n(c)in respect of the respective loan amounts mentioned in the third column of the table; and\n(d)under the respective agreements mentioned in the fourth column of the table,\nare exempt from tax:\nFirst column\nSecond column\nThird column\nFourth column\nBorrower\nLender\nLoan amount\n(US$)\nAgreement\nMinerva Bunkering Pte. Ltd.\nMUFG Bank Ltd, London Branch\n100 million\nReceivables financing facility dated 10 March 2022\nMinerva Bunkering Pte. Ltd.\nSumitomo Mitsui Banking Corporation, Brussels Branch\n30 million\nBilateral trade finance facility dated 11 June 2021\nMinerva Bunkering Pte. Ltd.\nMUFG Bank Ltd, London Branch\n595 million\nBilateral trade finance facility dated 10 September 2021\nMinerva Bunkering Pte. Ltd.\nSociété Générale\n1,500 million\nBilateral trade finance facility dated 29 March 2021\nMinerva Bunkering Pte. Ltd.\nUBS Switzerland AG\n450 million\nBilateral trade finance facility dated 16 May 2019\nMercuria Dry Bulk Pte. Ltd.\nCA Indosuez (Switzerland) SA\n50 million\nBilateral trade finance facility dated 16 May 2019\nMercuria Dry Bulk Pte. Ltd.\nSumitomo Mitsui Banking Corporation, Brussels\n740 million\nBilateral trade finance facility dated 11 June 2021\nMercuria Dry Bulk Pte. Ltd.\nMUFG Bank Ltd, London Branch\n595 million\nBilateral trade finance facility dated 10 September 2021\nMercuria Dry Bulk Pte. Ltd.\nBank of China Limited, London Branch\n25 million\nBilateral trade finance facility dated 4 September 2020\nMercuria Dry Bulk Pte. Ltd.\nNedbank Limited, London Branch\n25 million\nBilateral trade finance facility dated 24 November 2021\n(2) The exemption in sub-paragraph (1) is subject to the conditions specified in the letter from the Ministry of Finance dated 4 January 2024 and addressed to Mercuria Asia Resources Pte. Ltd."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Minerva Bunkering Pte. Ltd., etc. — Section 13(4) Exemption) Notification 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

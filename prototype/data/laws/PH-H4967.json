@@ -1,7 +1,7 @@
 {
  "id": "PH-H4967",
  "title": {
-  "zh": null,
+  "zh": "进一步修订经修正的第4153号共和国法第1条与第2条（关于公共公路局官员薪级）的法案",
   "en": "An Act Further Amending Sections One and Two of Republic Act Numbered Forty-One Hundred Fifty-Three, as Amended, (Re Salary Scale for Officials of the Bureau of Public Highways).",
   "orig": "An Act Further Amending Sections One and Two of Republic Act Numbered Forty-One Hundred Fifty-Three, as Amended, (Re Salary Scale for Officials of the Bureau of Public Highways)."
  },
@@ -61,14 +61,15 @@
    }
   },
   {
-   "id": "PH-H4967-A2_2",
+   "id": "PH-H4967-A2-d2",
    "no": 2,
    "noLabel": {
     "en": "Section 2."
    },
    "text": {
     "en": "In order to carry out the provisions of this Act for the fiscal year ending June thirty, nineteen hundred seventy-two, the Commissioner of Public Highways is hereby authorized to charge the salaries and salary differentials of the officials whose salaries are herein standardize against the savings on appropriation for current operating expenditures of the Bureau of Public Highways. Thereafter, the Budget Commissioner shall include in the Annual General Appropriation Acts the standardized and adjusted salaries of the officials and employees specified in this Act.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4967-A3",
@@ -80,5 +81,13 @@
     "en": "This Act shall take effect on July 1, 1972.\nEnacted without executive approval, June 17, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amending Sections One and Two of Republic Act Numbered Forty-One Hundred Fifty-Three, as Amended, (Re Salary Scale for Officials of the Bureau of Public Highways).",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

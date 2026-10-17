@@ -1,7 +1,7 @@
 {
  "id": "SG-H921",
  "title": {
-  "zh": null,
+  "zh": "刑事诉讼（保留与过渡规定——披露）条例 2025",
   "en": "Criminal Procedure (Saving and Transitional Provisions — Disclosure) Regulations 2025",
   "orig": null
  },
@@ -116,5 +116,13 @@
     "en": "6. The relevant provisions apply to an accused (A) in relation to an offence to be tried (called in this regulation the relevant offence), where —\n(a)A was charged for the relevant offence before 14 February 2025 and the trial for that offence has not commenced before that date;\n(b)another accused (B) is charged for any offence on or after that date;\n(c)A and B are to be jointly tried under section 143, 144 or 145 of the Code;\n(d)both the prosecution and A indicate in writing that they do not object to the application of the relevant provisions in relation to the relevant offence; and\n(e)the court is satisfied that when A gave the indication mentioned in paragraph (d), A understood the nature and consequences of giving such indication."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Criminal Procedure (Saving and Transitional Provisions — Disclosure) Regulations 2025",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

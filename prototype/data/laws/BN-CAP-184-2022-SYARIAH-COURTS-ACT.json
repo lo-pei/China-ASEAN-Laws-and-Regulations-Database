@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-184-2022-SYARIAH-COURTS-ACT",
  "title": {
-  "zh": null,
+  "zh": "伊斯兰法庭法",
   "en": "SYARIAH COURTS ACT",
   "orig": null
  },
@@ -419,5 +419,13 @@
     "en": "(1) It shall be the duty of the Chief Syar’ie Judge at or about the beginning or end of each lunar month to make the enquiry in determining the dates of new moons on which rukyah may occur and also to make the enquiry on any specified day when the new moon may be sighted and then to determine and confirm the result of rukyah under his hand.\n\n(2) After the enquiries mentioned in subsection (1), the Chief Syar’ie Judge shall forthwith inform the President of the Majlis who shall submit the determination and confirmation of rukyah to His Majesty the Sultan and Yang Di-Pertuan.\n\n(3) The determination and confirmation which has been made by the Chief Syar’ie Judge in respect of rukyah shall be final."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "SYARIAH COURTS ACT",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H1155",
  "title": {
-  "zh": null,
+  "zh": "存款保险与保单持有人保障计划法 2011",
   "en": "Deposit Insurance and Policy Owners’ Protection Schemes Act 2011",
   "orig": null
  },
@@ -1708,5 +1708,13 @@
     "en": "SEVENTH SCHEDULE\nSection 75\nFinancial provisions with respect to Agency\nFinancial year\n1. The financial year of the Agency comprises such period as may be specified in the constitution of the Agency.\nAccounts of Agency\n2. The Agency must keep proper accounts and records of its transactions and affairs and must do all things necessary to ensure that all payments out of its moneys are properly authorised and correctly made and that adequate control is maintained over the assets of, or in the custody of, the Agency and over the expenditure incurred by the Agency.\nAuditor\n3. The accounts of the Agency must be audited by such auditor as may be appointed annually by the Agency.\nAppointment of auditor\n4. A person is not qualified for appointment as an auditor under paragraph 3 unless he or she is a public accountant who is registered or deemed to be registered under the Accountants Act 2004.\nRemuneration of auditor\n5. The remuneration of the auditor must be paid out of the DI Fund, PPF Life Fund and PPF General Fund in such proportion as the Agency considers proper.\nAnnual financial statements\n6. The Agency must, as soon as practicable after the close of each financial year, prepare and submit financial statements in respect of that year to the auditor of the Agency.\nDuties of auditor\n7. The auditor must in the auditor’s report state —\n(a)whether the financial statements show fairly the financial transactions and the state of affairs of the Agency;\n(b)whether proper accounting and other records have been kept, including records of all assets of the Agency, whether purchased, donated or otherwise;\n(c)whether the receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Agency during the financial year were in accordance with the provisions of this Act; and\n(d)such other matters arising from the audit as the auditor considers necessary.\nAuditor’s report\n8.—(1) The auditor must, as soon as practicable after the accounts have been submitted for audit, send a report of his or her audit to the Agency.\n(2) The auditor must submit such periodical and special reports to the Minister and to the Agency as may appear to the auditor to be necessary or as the Minister or the Agency may require.\nPowers of auditor\n9.—(1) The auditor or any person authorised by the auditor is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Agency and may make copies of or extracts from any such accounting and other records.\n(2) The auditor or any person authorised by the auditor may require any person to provide him or her with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of the auditor’s functions under this Act.\nPenalty for obstructing auditor\n10. Any person who, without reasonable excuse, fails to comply with any requirement of the auditor under paragraph 9(2) or who otherwise hinders, obstructs or delays the auditor in the performance of his or her duties or the exercise of his or her powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000.\nPresentation of audited financial statements and auditor’s report\n11. The Agency must, as soon as the financial statements have been audited in accordance with the provisions of this Act, submit a copy of the audited financial statements, together with a copy of the auditor’s report, to the Minister.\n[31/2018]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Deposit Insurance and Policy Owners’ Protection Schemes Act 2011",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

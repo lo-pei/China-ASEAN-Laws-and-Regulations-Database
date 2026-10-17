@@ -1,7 +1,7 @@
 {
  "id": "PH-H10037",
  "title": {
-  "zh": null,
+  "zh": "将南拉瑙省马拉维—马京—布姆巴兰—瓦奥公路（自马拉维市起经马京、布姆巴兰与瓦奥市镇）重新命名为Mamintal M. Adiong Sr.州长国家公路的法案",
   "en": "An Act Renaming the Marawi-Maguing-Bumbaran-Wao Road, Stretching From the City of Marawi, Traversing Through the Municipalities of Maguing, Bumbaran and Wao, All in the Province of Lanao Del Sur, as Gov. Mamintal M. Adiong Sr. National Road",
   "orig": "An Act Renaming the Marawi-Maguing-Bumbaran-Wao Road, Stretching From the City of Marawi, Traversing Through the Municipalities of Maguing, Bumbaran and Wao, All in the Province of Lanao Del Sur, as Gov. Mamintal M. Adiong Sr. National Road"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Renaming the Marawi-Maguing-Bumbaran-Wao Road, Stretching From the City of Marawi, Traversing Through the Municipalities of Maguing, Bumbaran and Wao, All in the Province of Lanao Del Sur, as Gov. Mamintal M. Adiong Sr. National Road",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

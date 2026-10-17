@@ -1,7 +1,7 @@
 {
  "id": "PH-H1214",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第340号共和国法第9条（e）项（经修正），将为美国红十字会或菲律宾红十字会提供的服务计入退休年限的法案",
   "en": "An Act to Further Amend Subparagraph (e) of Section Nine of Republic Act Numbered Three Hundred and Forty, as Amended, so as to Include Service Rendered in the American Red Cross or Philippine Red Cross for Purposes of Retirement",
   "orig": "An Act to Further Amend Subparagraph (e) of Section Nine of Republic Act Numbered Three Hundred and Forty, as Amended, so as to Include Service Rendered in the American Red Cross or Philippine Red Cross for Purposes of Retirement"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 18, 1955."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Further Amend Subparagraph (e) of Section Nine of Republic Act Numbered Three Hundred and Forty, as Amended, so as to Include Service Rendered in the American Red Cross or Philippine Red Cross for Purposes of Retirement",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

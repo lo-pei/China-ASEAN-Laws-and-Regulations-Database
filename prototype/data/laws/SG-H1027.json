@@ -1,7 +1,7 @@
 {
  "id": "SG-H1027",
  "title": {
-  "zh": null,
+  "zh": "货币法——硬币面额与特征",
   "en": "Currency Act — Denominations and Characteristics of the Coins",
   "orig": null
  },
@@ -58,5 +58,13 @@
     "en": "THE SCHEDULE\nDESCRIPTION OF THE SINGAPORE LION GOLD BULLION COINS\nDenomination\nMetal\nStandard Weight and Gold Content\nStandard Diameter\nStandard Thickness\nShape\nEdge\nDesign of Obverse\nDesign of Reverse\n50 Dollars\n999.9\nFine Gold\n31.1035 g + 0.05 g\n(1 troy oz of fine gold)\n32.12 mm + 0.15 mm\n2.50 mm + 0.20 mm\nRound\nMilled\nThe Singapore Arms in the centre with the year-date “2001” below it and the word “SINGAPORE” in the 4 official languages around the circumference of the coin. The position of the mintmark is at 7 o’clock of the proof coins.\nStylised version of a lion’s head with the denomination of the coin below it and a privy mark design of a snake design to the left of the denomination. The troy weight and fineness of the coin appear on the right side of the coin. A Special privy mark with the latent image are found only on the proof 1 troy oz coin. The proof ½ troy oz coin bears a serial number.\n20 Dollars\n999.9\nFine Gold\n15.552 g + 0.05 g\n(½ troy oz of fine gold)\n27.00 mm + 0.15 mm\n2.00 mm + 0.20 mm\nRound\nMilled\n10 Dollars\n999.9\nFine Gold\n7.776 g + 0.05 g\n(¼ troy oz of fine gold)\n21.96 mm + 0.125 mm\n1.55 mm + 0.20 mm\nRound\nMilled\n5 Dollars\n999.9\nFine Gold\n3.110 g + 0.05 g\n(1/10 troy oz of fine gold)\n17.95 mm + 0.125 mm\n1.10 mm + 0.20 mm\nRound\nMilled\n1 Dollar\n999.9\nFine Gold\n1.550 g + 0.02 g\n(1/20 troy oz of fine gold)\n13.92 mm + 0.125 mm\n0.90 mm + 0.20 mm\nRound\nMilled\n(a) Reverse Design of $50 Singapore Lion Bullion Coin\n(b) Reverse Design of $20 Singapore Lion Bullion Coin\n(c) Reverse Design of $20 Singapore Lion Bullion Coin (Proof)\n(d) Reverse Design of $10 Singapore Lion Bullion Coin\n(e) Reverse Design of $5 Singapore Lion Bullion Coin\n(f) Reverse Design of $1 Singapore Lion Bullion Coin\n(g) Common Obverse Design of Singapore Lion Bullion Coin (Proof)\n(h) Common Obverse Design of Singapore Lion Bullion Coin (Brilliant Uncirculated)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Currency Act — Denominations and Characteristics of the Coins",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

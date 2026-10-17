@@ -1,7 +1,7 @@
 {
  "id": "SG-H2682",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）（第 19 号）命令 2023",
   "en": "Infrastructure Protection (Protected Places) (No. 19) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nHead of Corporate Services,\nD’CRYPT PTE LTD\nD’CRYPT PTE LTD — RESTRICTED LABORATORY AT LEVEL 6 OF 11 BISHAN STREET 21\nAll that area comprised in part of Lot 17231W in Mukim No. 18 occupied by “D’CRYPT PTE LTD — RESTRICTED LABORATORY AT LEVEL 6 OF 11 BISHAN STREET 21” containing an area of about 120 square metres and bounded approximately as follows:\nCommencing at the north‑easternmost corner at a point 36,671.128 metres North and 28,863.758 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n36,671.128\n28,863.758\n36,660.049\n28,854.614\n36,664.800\n28,848.869\n36,665.335\n28,849.303\n36,666.726\n28,847.608\n36,669.791\n28,850.133\n36,668.662\n28,851.504\n36,676.149\n28,857.666\nto the point of commencement.\nThe boundaries of “D’CRYPT PTE LTD — RESTRICTED LABORATORY AT LEVEL 6 OF 11 BISHAN STREET 21” are more particularly delineated in the Survey Plan No. TP1853-AS-001 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) (No. 19) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

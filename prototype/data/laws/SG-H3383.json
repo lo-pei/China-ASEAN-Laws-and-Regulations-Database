@@ -1,7 +1,7 @@
 {
  "id": "SG-H3383",
  "title": {
-  "zh": null,
+  "zh": "网络刑事危害（服务）条例 2024",
   "en": "Online Criminal Harms (Service) Regulations 2024",
   "orig": null
  },
@@ -100,5 +100,13 @@
     "en": "Additional means of service\n3.—(1) For the purposes of section 45(5)(c) of the Act, the means of service in paragraphs (2), (3), (4) and (5) are prescribed for the service of the following documents on a person:\n(a)any Part 2 direction or Part 2 notice addressed to the person;\n[S 528/2024 wef 24/06/2024]\n(b)any Part 4 notice or implementation directive addressed to the person;\n[S 528/2024 wef 24/06/2024]\n(c)any Part 6 order or Part 6 notice addressed to the person;\n[S 528/2024 wef 24/06/2024]\n(d)any notice under section 47 or 48 of the Act addressed to the person.\n[S 528/2024 wef 24/06/2024]\n(2) If the person has a telephone account or an account on a social media service or relevant electronic service that the person may be contacted at, a document mentioned in paragraph (1) may be served on the person by sending to that account an electronic copy of the document or an electronic notice in accordance with paragraph (6).\nIllustrations\nSending a document addressed to a person by SMS or MMS to the person’s telephone account or by mobile chat application to the person’s account.\nSending a document addressed to a person to the person’s email account.\n(3) If the person is the proprietor of an online location, and that online location provides a means —\n(a)for corresponding with the person (which may include a feedback function) on that online location; or\n(b)for the posting of comments, on that online location,\na document mentioned in paragraph (1) may be served on the person by posting on that online location an electronic copy of the document or a notice in accordance with paragraph (6).\n(4) Subject to regulation 4, a document mentioned in paragraph (1) may be served by publishing in the Gazette a copy of the document or a notice in accordance with paragraph (6).\n(5) Subject to regulation 4, a document mentioned in paragraph (1) may be served by publishing a copy of the document or a notice in accordance with paragraph (6) —\n(a)in a daily newspaper circulating in Singapore or any other news media that, in the opinion of the person serving the document, will be most likely to bring the document to the attention of the person to be served; and\n(b)on an official website.\n(6) The electronic notice or notice mentioned in paragraph (2), (3), (4) or (5) must —\n(a)identify the document to be served; and\n(b)contain a statement on how the person to be served may obtain a copy of the document.\n[S 528/2024 wef 24/06/2024]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Online Criminal Harms (Service) Regulations 2024",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

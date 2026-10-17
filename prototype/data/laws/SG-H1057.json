@@ -1,7 +1,7 @@
 {
  "id": "SG-H1057",
  "title": {
-  "zh": null,
+  "zh": "关税（石油持牌仓库——豁免）命令 2020",
   "en": "Customs (Licensed Warehouses for Petroleum — Exemption) Order 2020",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Section 63(1) of the Act does not apply to any person granted a licence for warehousing petroleum or biodiesel under section 51(1) of the Act at any premises in respect of the blending of petroleum or biodiesel at those premises."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Customs (Licensed Warehouses for Petroleum — Exemption) Order 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

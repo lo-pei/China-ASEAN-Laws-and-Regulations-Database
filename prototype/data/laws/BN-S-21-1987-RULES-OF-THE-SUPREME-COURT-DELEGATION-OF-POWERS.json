@@ -1,7 +1,7 @@
 {
  "id": "BN-S-21-1987-RULES-OF-THE-SUPREME-COURT-DELEGATION-OF-POWERS",
  "title": {
-  "zh": null,
+  "zh": "最高法院权力授予规则",
   "en": "RULES OF THE SUPREME COURT DELEGATION OF POWERS",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "12th. SEPTEMBER, 1987 No. S 21 THE SUPREME COURT ACT (CHAPTER 5) Rules of the Supreme Court Delegation of Powers (under Rule 3 A) In exercise of the powers conferred by Rule 3 A of the Rules of the Supreme Court, I hereby confer and impose upon the Chief Registrar, the Deputy Chief Registrar, the Deputy Registrar and the Registrar of the Supreme Court such powers and duties as are in England exercised and discharged by the Masters, the Chief Registrar or the like officers of the Supreme Court of Judicature. (DATO SIR DENYS ROBERTS) Chief Justice"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RULES OF THE SUPREME COURT DELEGATION OF POWERS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

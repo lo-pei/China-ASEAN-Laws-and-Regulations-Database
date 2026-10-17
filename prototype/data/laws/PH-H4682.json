@@ -1,7 +1,7 @@
 {
  "id": "PH-H4682",
  "title": {
-  "zh": null,
+  "zh": "修订第 778 号共和国法，授权菲律宾商学院扩大课程设置、更改董事会构成并为其他目的法案",
   "en": "An Act to Amend Republic Act Numbered Seven Hundred Seventy-Eight for the Purpose of Authorizing the Philippine College of Commerce to Expand Its Curr1cular Offerings, to Change the Composition of Its Board of Trustees, and for Other Purposes",
   "orig": "An Act to Amend Republic Act Numbered Seven Hundred Seventy-Eight for the Purpose of Authorizing the Philippine College of Commerce to Expand Its Curr1cular Offerings, to Change the Composition of Its Board of Trustees, and for Other Purposes"
  },
@@ -161,5 +161,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, August 4, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Amend Republic Act Numbered Seven Hundred Seventy-Eight for the Purpose of Authorizing the Philippine College of Commerce to Expand Its Curr1cular Offerings, to Change the Composition of Its Board of Trustees, and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

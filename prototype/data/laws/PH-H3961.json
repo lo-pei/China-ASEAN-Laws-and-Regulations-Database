@@ -1,7 +1,7 @@
 {
  "id": "PH-H3961",
  "title": {
-  "zh": null,
+  "zh": "将拉古纳省潘吉尔市镇巴利安村学校的名称变更为Victor Oteyza De Guia, Jr.纪念村学校的法案",
   "en": "An Act Changing the Name of Balian Barrio School in the Municipality of Pangil, Province of Laguna, to Victor Oteyza De Guia, Jr. Memorial Barrio School",
   "orig": "An Act Changing the Name of Balian Barrio School in the Municipality of Pangil, Province of Laguna, to Victor Oteyza De Guia, Jr. Memorial Barrio School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1967."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Balian Barrio School in the Municipality of Pangil, Province of Laguna, to Victor Oteyza De Guia, Jr. Memorial Barrio School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "TH-H333",
  "title": {
-  "zh": null,
+  "zh": "国际原子能机构在泰国运作保护法，佛历 2505（1962）",
   "en": "PROTECTION OF THE OPERATIONS OF THE INTERNATIONAL ATOMIC ENERGY AGENCY IN THAILAND ACT, B.E. 2505 (1962)",
   "orig": "พระราชบัญญัติคุ้มครองการดำเนินงานของทบวงการพลังงานปรมาณูระหว่างประเทศในประเทศไทย พ.ศ. 2505"
  },
@@ -80,5 +80,13 @@
     "th": "มาตรา ๔ ให้รัฐมนตรีว่าการกระทรวงการต่างประเทศรักษาการตามพระราชบัญญัตินี้"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-TH-160",
+  "source": "PROTECTION OF THE OPERATIONS OF THE INTERNATIONAL ATOMIC ENERGY AGENCY IN THAILAND ACT, B.E. 2505 (1962)",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

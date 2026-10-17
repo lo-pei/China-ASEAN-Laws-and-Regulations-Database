@@ -1,7 +1,7 @@
 {
  "id": "PH-H5089",
  "title": {
-  "zh": null,
+  "zh": "为南甘马粦省及 Naga、Iriga 市设立少年与家事法院的法案",
   "en": "An Act Creating a Juvenile and Domestic Relations Court for the Province of Camarines Sur and the Cities of Naga and Iriga.",
   "orig": "An Act Creating a Juvenile and Domestic Relations Court for the Province of Camarines Sur and the Cities of Naga and Iriga."
  },
@@ -151,5 +151,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: September 30, 1974"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Creating a Juvenile and Domestic Relations Court for the Province of Camarines Sur and the Cities of Naga and Iriga.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

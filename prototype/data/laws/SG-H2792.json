@@ -1,7 +1,7 @@
 {
  "id": "SG-H2792",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（第 5A 与 10A 部分的规定期间）命令 2021",
   "en": "Insolvency, Restructuring and Dissolution (Prescribed Periods for Parts 5A and 10A) Order 2021",
   "orig": null
  },
@@ -77,5 +77,13 @@
     "en": "3. For the purposes of Part 10A of the Act, the prescribed period is 6 months commencing on 29 January 2021."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Insolvency, Restructuring and Dissolution (Prescribed Periods for Parts 5A and 10A) Order 2021",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

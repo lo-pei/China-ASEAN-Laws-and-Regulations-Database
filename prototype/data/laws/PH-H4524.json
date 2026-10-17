@@ -1,7 +1,7 @@
 {
  "id": "PH-H4524",
  "title": {
-  "zh": null,
+  "zh": "将授予Nilda E. Martinez在马斯巴特省Masbate市镇电灯、热力与动力系统特许权的期限延长，为此修订第407号共和国法的法案",
   "en": "An Act Extending the Term of the Franchise Granted to Nilda E. Martinez for An Electric Light, Heat and Power System in the Municipality of Masbate, Province of Masbate, By Amending Republic Act Numbered Four Hundred Seven",
   "orig": "An Act Extending the Term of the Franchise Granted to Nilda E. Martinez for An Electric Light, Heat and Power System in the Municipality of Masbate, Province of Masbate, By Amending Republic Act Numbered Four Hundred Seven"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H4524-A1_2",
+   "id": "PH-H4524-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "Subject to the terms and conditions established in Act Numbered Thirty-six hundred and thirty-six, as amended by Commonwealth Act Numbered One hundred and thirty-two, and to the provisions of the Constitution, there is granted to Nilda E. Martinez, for a period of fifty years from the approval of this Act, the right, privilege, and authority to construct, maintain, and operate an electric light, heat and/or power system for the purpose of generating and distributing electric light, head and/or power within the limits of the Municipality of Masbate, Province of Masbate.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H4524-A2",
@@ -80,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nEnacted without Executive approval, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Extending the Term of the Franchise Granted to Nilda E. Martinez for An Electric Light, Heat and Power System in the Municipality of Masbate, Province of Masbate, By Amending Republic Act Numbered Four Hundred Seven",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

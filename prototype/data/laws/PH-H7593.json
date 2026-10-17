@@ -1,7 +1,7 @@
 {
  "id": "PH-H7593",
  "title": {
-  "zh": null,
+  "zh": "将 Isabela 省境内的北 Sierra Madre 山脉设立为保护区，其外围地区设立为缓冲区，规定其管理并为其他目的法案",
   "en": "An Act Establishing the Northern Sierra Madre Mountain Range Within the Province of Isabela as a Protected Area and Its Peripheral Areas as Buffer Zones, Providing for Its Management and for Other Purposes",
   "orig": "An Act Establishing the Northern Sierra Madre Mountain Range Within the Province of Isabela as a Protected Area and Its Peripheral Areas as Buffer Zones, Providing for Its Management and for Other Purposes"
  },
@@ -428,5 +428,13 @@
     "en": "Effectivity Clause. - This Act shall be translated in Filipino and Ilocano. It shall be published once a week for three (3) consecutive weeks in a newspaper of general circulation readily available in the areas in and around the NSMNP and its buffer zones. It shall likewise be conspicuously posted simultaneously in the provincial, municipal and barangay halls within the NSMNP, as well as in three (3) other places frequented by the public. Fifteen (15) days after the last publication and posting, this Act shall have full force and effect."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Establishing the Northern Sierra Madre Mountain Range Within the Province of Isabela as a Protected Area and Its Peripheral Areas as Buffer Zones, Providing for Its Management and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2927",
  "title": {
-  "zh": null,
+  "zh": "裕廊集团（产权转让费用）规则",
   "en": "Jurong Town Corporation (Conveyancing Fees) Rules",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\n1.\nSale of flat by the Corporation together with mortgage, if any, of such flat to the Corporation ... ...\n$20\n2.\nSale, transfer or assignment by the owner of all types of flats ... ...\n$40\n3.\nWhere the sale, purchase, transfer or assignment in the process of preparationis abortive in respect of all types of flats ... ...\n$20\n4.\nAny other transaction, disposition or application within section 53(1)(g) of the Act and not falling under paragraph 1 or 2 in respect of all types of flats ... ...\n$40."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Jurong Town Corporation (Conveyancing Fees) Rules",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

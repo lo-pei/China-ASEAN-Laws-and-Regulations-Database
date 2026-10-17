@@ -1,7 +1,7 @@
 {
  "id": "SG-H323",
  "title": {
-  "zh": null,
+  "zh": "边界与测量图（规定费用）规则 2001",
   "en": "Boundaries and Survey Maps (Prescribed Fees) Rules 2001",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nRule 2\nFees\nFirst column\nSecond column\nSurvey work\n(1)\nFor all survey work —\n(a)for field work\n$126 per hour or part of\nan hour\n(b)for office work\n$63 per hour or part of\nan hour\nLot numbers\n(2)\n(a)For allocation of lot numbers\n$190 per application\n(b)For activation of lot numbers for the purposes of caveat lodgement\n$130 per application\nAssurance plan\n(3)\n(a)For checking of a Registrar of Titles plan submitted by a registered surveyor\n$165\n(b)For checking of a strata title plan submitted by a registered surveyor\n$231 plus $12.60 per\nstrata lot\nMaps, plans and survey records maintained by Singapore Land Authority\n(4)\nFor each search in electronic form, and printout of, the following:\n(a)a horizontal control print\n$11.55\n(b)a vertical control print\n$11.55\n(c)a cadastral map\n$11.55\n(d)a certified plan\n$11.55\n(e)a strata certified plan\n$11.55\n(f)a Registrar of Titles plan\n$11.55"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Boundaries and Survey Maps (Prescribed Fees) Rules 2001",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

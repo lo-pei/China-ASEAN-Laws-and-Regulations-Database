@@ -1,7 +1,7 @@
 {
  "id": "SG-H1753",
  "title": {
-  "zh": null,
+  "zh": "内政团队青年团（服务奖章）条例 2018",
   "en": "Home Team Corps (Service Medal) Regulations 2018",
   "orig": null
  },
@@ -314,5 +314,13 @@
     "en": "SECOND SCHEDULE\nRegulation 11\nNational Civil Defence Cadet Corps Service Medal"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Home Team Corps (Service Medal) Regulations 2018",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

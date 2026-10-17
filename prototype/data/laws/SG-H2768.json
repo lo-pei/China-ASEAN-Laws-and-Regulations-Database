@@ -1,7 +1,7 @@
 {
  "id": "SG-H2768",
  "title": {
-  "zh": null,
+  "zh": "破产、重组与解散（破产）条例 2020",
   "en": "Insolvency, Restructuring and Dissolution (Bankruptcy) Regulations 2020",
   "orig": null
  },
@@ -1414,5 +1414,13 @@
     "en": "85. When property forming part of a bankrupt’s estate is sold by the trustee of the bankrupt’s estate through an auctioneer or other agent, the gross proceeds of the sale must be paid over by the auctioneer or agent, and the charges and expenses connected with the sale must afterwards be paid to the auctioneer or agent on production of the necessary allocatur."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Insolvency, Restructuring and Dissolution (Bankruptcy) Regulations 2020",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

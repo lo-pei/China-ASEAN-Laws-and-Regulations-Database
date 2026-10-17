@@ -1,7 +1,7 @@
 {
  "id": "PH-H398",
  "title": {
-  "zh": null,
+  "zh": "规定就日占期间薪金向菲律宾联邦政府及其所属机构、政府公司及为抗敌而组织的省与市自由地方文官政府官员与雇员办理债权登记并规定清偿方式的法案",
   "en": "An Act to Provide for the Registration of the Claims of All Officers and Employees of the Government of the Commonwealth of the Philippines, its Branches and Instrumentalities and the Corporations Owned or Controlled by the Government and Those of the Free Local Civil Governments, Provincial and Municipal, Duly Organized for Purposes of Resistance Against the Enemy, to Salaries and Wages During the Enemy or Japanese Occupation of the Philippines and to Provide for the Manner of Their Settlement",
   "orig": "An Act to Provide for the Registration of the Claims of All Officers and Employees of the Government of the Commonwealth of the Philippines, its Branches and Instrumentalities and the Corporations Owned or Controlled by the Government and Those of the Free Local Civil Governments, Provincial and Municipal, Duly Organized for Purposes of Resistance Against the Enemy, to Salaries and Wages During the Enemy or Japanese Occupation of the Philippines and to Provide for the Manner of Their Settlement"
  },
@@ -140,5 +140,13 @@
     "en": "There is hereby appropriated out of the general funds in the National Treasury not otherwise appropriated the sum of fifty thousand pesos for such administrative expenses as may be authorized by the President of the Philippines to carry out the provisions of this Act.\nSection 11 . This Act shall take effect upon its approval.\nApproved: June 18, 1948."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act to Provide for the Registration of the Claims of All Officers and Employees of the Government of the Commonwealth of the Philippines, its Branches and Instrumentalities and the Corporations Owned or Controlled by the Government and Those of the Free Local Civil Governments, Provincial and Municipal, Duly Organized for Purposes of Resistance Against the Enemy, to Salaries and Wages During the Enemy or Japanese Occupation of the Philippines and to Provide for the Manner of Their Settlement",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

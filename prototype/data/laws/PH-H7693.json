@@ -1,7 +1,7 @@
 {
  "id": "PH-H7693",
  "title": {
-  "zh": null,
+  "zh": "以特别津贴形式为最高法院大法官、法官及司法系统中与上诉法院大法官和地区审判法院法官同级的职位增加报酬的法案，并为其他目的",
   "en": "An act granting additional compensation in the form of special allowances for justices, judges and all other positions in the judiciary with the equivalent rank of justices of the court of appeals and judges of the regional trial court, and for other purpose",
   "orig": "An act granting additional compensation in the form of special allowances for justices, judges and all other positions in the judiciary with the equivalent rank of justices of the court of appeals and judges of the regional trial court, and for other purpose"
  },
@@ -140,5 +140,13 @@
     "en": "Effectivity Clause. – This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An act granting additional compensation in the form of special allowances for justices, judges and all other positions in the judiciary with the equivalent rank of justices of the court of appeals and judges of the regional trial court, and for other purpose",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

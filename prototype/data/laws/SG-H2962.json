@@ -1,7 +1,7 @@
 {
  "id": "SG-H2962",
  "title": {
-  "zh": null,
+  "zh": "土地地契（分层）法 1967",
   "en": "Land Titles (Strata) Act 1967",
   "orig": null
  },
@@ -2250,5 +2250,13 @@
     "en": "FOURTH SCHEDULE\nSection 84A(8)(a) and (c) and (14)\nDeductions allowable by Board or\nGeneral Division of High Court\n1. Stamp duty paid or payable on the sale, purchase, or sale and purchase (as the case may be) of the lot or flat.\n2. Legal fees paid in relation to the purchase of the lot or flat.\n3. Costs related to the privatisation of any designated land as defined in the repealed section 126A.\n4. Costs incurred pursuant to the collective sale which are to be shared by all subsidiary proprietors or proprietors as provided under the collective sale agreement.\n[40/2019; 4/2021; S 365/2010; S 680/2013]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Land Titles (Strata) Act 1967",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

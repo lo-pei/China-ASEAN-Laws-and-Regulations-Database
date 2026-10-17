@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-61-RG2-2024-FISHERIES-PIRANHA-REGULATIONS",
  "title": {
-  "zh": null,
+  "zh": "RG2 2024 版渔业水虎鱼条例",
   "en": "RG2 2024 ED FISHERIES PIRANHA REGULATIONS",
   "orig": null
  },
@@ -86,5 +86,13 @@
     "en": "Any person who contravenes regulation 2 or 3 is guilty of an offence and liable on conviction to a fine not exceeding $50,000, imprisonment for a term not exceeding one year or both. [S 25/2009]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "RG2 2024 ED FISHERIES PIRANHA REGULATIONS",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

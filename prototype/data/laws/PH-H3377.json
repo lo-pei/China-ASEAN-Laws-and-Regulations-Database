@@ -1,7 +1,7 @@
 {
  "id": "PH-H3377",
  "title": {
-  "zh": null,
+  "zh": "规定在菲律宾尚无实验与育种站的各省各设一个实验与育种站并拨付必要经费",
   "en": "An Act Providing for the Establishment of One Experimental and Breeding Station in Each Province of the Philippines Where There are No Existing Experimental and Breeding Stations, and Appropriating the Necessary Funds Therefor",
   "orig": "An Act Providing for the Establishment of One Experimental and Breeding Station in Each Province of the Philippines Where There are No Existing Experimental and Breeding Stations, and Appropriating the Necessary Funds Therefor"
  },
@@ -90,5 +90,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: March 3, 1965."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing for the Establishment of One Experimental and Breeding Station in Each Province of the Philippines Where There are No Existing Experimental and Breeding Stations, and Appropriating the Necessary Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

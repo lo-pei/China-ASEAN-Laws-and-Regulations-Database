@@ -1,7 +1,7 @@
 {
  "id": "SG-H778",
  "title": {
-  "zh": null,
+  "zh": "公司（第 76B（3）与（3B）条下的指定百分比）公告 2013",
   "en": "Companies (Prescribed Percentage under Section 76B(3) and (3B)) Notification 2013",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. For the purposes of section 76B(3) and (3B) of the Act, the prescribed percentage shall be 20%."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Companies (Prescribed Percentage under Section 76B(3) and (3B)) Notification 2013",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H719",
  "title": {
-  "zh": null,
+  "zh": "委员会",
   "en": "Commission",
   "orig": null
  },
@@ -48,5 +48,13 @@
     "en": "Inquiry Commissions Ordinance\nChapter 52, 1955 Revised Edition\nCommission\nN 23\nG.N. No. S 563/1962\nREVISED EDITION 1990\n( )\n[13 March 1962]\nELIZABETH THE SECOND, by the Grace of God of the United Kingdom of Great Britain and Northern Ireland and of Her Other Realms and Territories QUEEN, Head of the Commonwealth, Defender of the Faith.\nBy His Excellency Enche YUSOF BIN ISHAK, Yang di-Pertuan Negara of the State of Singapore.\nWhereas it is provided by the Inquiry Commissions Ordinance that it shall be lawful for the Yang di-Pertuan Negara, whenever he shall deem it advisable, to issue a Commission appointing one or more Commissioners to enquire, inter alia, into any matter in which an inquiry would, in the opinion of the Yang d-Pertuan Negara, be for the public welfare:\nAnd whereas following a unanimous resolution passed by the Legislative Assembly on 18th January 1962 I am of the opinion that an inquiry should forthwith be made by a Commission so appointed in accordance with the following terms of reference:\nTo enquire into the Government’s Education Policy, its content and administration in all fields other than vocational and technical education, and to make recommendations:\nNow, therefore, I, YUSOF BIN ISHAK, hereby appoint the following persons, namely:\n1.Professor Lim Tay Boh;\n2.Professor Huang Ying Jung;\n3.Dr. A. W. S. Thevathasan;\n4.Mr. Ou Yau Kuen (also known as the Very Rev. Brother J. Philippe);\n5.Enche Buyong bin Adil;\n6.Mr. S. Natarajan;\n7.Mr. Liao Sung Yang;\n8.Mr. Yang Shou Mei; and\n9.Mr. Saba Ratnam,\nto be Commissioners and hereby authorise the said Commissioners to conduct such inquiry in the manner hereafter directed:"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Commission",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

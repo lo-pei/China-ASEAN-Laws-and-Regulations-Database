@@ -1,7 +1,7 @@
 {
  "id": "SG-H1367",
  "title": {
-  "zh": null,
+  "zh": "环境公共卫生（豁免）条例 2014",
   "en": "Environmental Public Health (Exemption) Regulations 2014",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2. Any public authority established by or under any public Act and discharging a function conferred by that Act to ensure the cleanliness of premises or any public place or to keep them in a clean condition is exempted from section 80D of the Act in respect of the requirement to hold a cleaning business licence."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Environmental Public Health (Exemption) Regulations 2014",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

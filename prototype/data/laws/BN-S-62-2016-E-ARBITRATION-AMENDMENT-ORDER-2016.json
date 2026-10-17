@@ -1,7 +1,7 @@
 {
  "id": "BN-S-62-2016-E-ARBITRATION-AMENDMENT-ORDER-2016",
  "title": {
-  "zh": null,
+  "zh": "仲裁修正命令 2016",
   "en": "ARBITRATION AMENDMENT ORDER 2016",
   "orig": null
  },
@@ -92,5 +92,13 @@
     "en": "Any appointment made by the President of the Arbitration Association of Brunei Darussalarn under sections 13 and 62 of the principal Order and in force immediately before the commencement of this Order shall continue to be in force as if made by the Chairman of the Brunei Darussalam Arbitration Centre. Made this 24th. day of Zulhijjah, 1437 Hijriah corresponding to the 26th. day of September, 2016 at Our Istana Nurul Iman, Bandar Seri Begawan, Brunei Darussalam.\n\nTHE SULTAN AND YANG DI-PERTUAN\n\nBRUNEI DARUSSALAM"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "ARBITRATION AMENDMENT ORDER 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H2741",
  "title": {
-  "zh": null,
+  "zh": "基础设施保护（受保护场所）命令 2023",
   "en": "Infrastructure Protection (Protected Places) Order 2023",
   "orig": null
  },
@@ -74,5 +74,13 @@
     "en": "THE SCHEDULE\nParagraph 2\nFirst column\nSecond column\nThe Authority\nProtected Place\nCountry Operations Director,\nThales Solutions Asia Pte Ltd\nDEPASAR MEETING ROOM AND DEFENSE ARCHIVE ROOM AT LEVEL 2 OF THALES SOLUTIONS ASIA PTE LTD\nAll that area comprised in part of Lot 3827T in Mukim No. 3 occupied by “DEPASAR MEETING ROOM AND DEFENSE ARCHIVE ROOM AT LEVEL 2 OF THALES SOLUTIONS ASIA PTE LTD” containing an area of about 16.3 square metres bounded approximately as follows:\nCommencing at the north-westernmost corner of “DEPASAR MEETING ROOM AND DEFENSE ARCHIVE ROOM AT LEVEL 2 OF THALES SOLUTIONS ASIA PTE LTD” at a point 30947.825 metres North and 22962.304 metres East of the Singapore Land Authority SVY 21 Datum, the boundaries run along successive lines of coordinates approximately as follows:\nNorthing\nEasting\n30947.825\n22962.304\n30945.388\n22965.993\n30942.315\n22963.956\n30944.744\n22960.273\nto the point of commencement.\nThe boundaries of “DEPASAR MEETING ROOM AND DEFENSE ARCHIVE ROOM AT LEVEL 2 OF THALES SOLUTIONS ASIA PTE LTD” are more particularly delineated in the Survey Plan No. 20009GZ1 set out below."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Infrastructure Protection (Protected Places) Order 2023",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3711",
  "title": {
-  "zh": null,
+  "zh": "旅行社法 1975",
   "en": "Travel Agents Act 1975",
   "orig": null
  },
@@ -532,5 +532,13 @@
     "en": "28.—(1) The Board may, with the approval of the Minister, make regulations generally for carrying out the provisions of this Act and for prescribing anything that is to be prescribed and, in particular, may make regulations for all or any of the following purposes:\n(a)prescribing the information and documents to be furnished by an applicant for a licence or by a licensee;\n(b)prescribing the procedure to be followed on applications and other proceedings under this Act;\n(c)prescribing the books, accounts (including trust accounts) and records to be kept by a licensee and the form and mode of keeping those books, accounts and records;\n(d)prescribing —\n(i)the fees and charges payable under this Act or the regulations, including fees for a licence; and\n(ii)the interest or penalty for the late payment of any fee or charge;\n(e)providing for the waiver, refund or remission, whether in whole or in part, of any fee or charge or the interest or penalty for the late payment of any fee or charge, either generally or in any particular case or class of cases or in the discretion of any person;\n(f)prescribing requirements applicable to licensees, including minimum financial requirements that the licensee must satisfy throughout the currency of the licence;\n(g)regulating the conduct of licensees in their business, including —\n(i)imposing restrictions or obligations on licensees in relation to any variation or termination of a contract for the supply by the licensee of a travel product; and\n(ii)providing a code of conduct for licensees;\n(h)prescribing duties applicable to directors of, or individuals employed or engaged by, licensees;\n(i)to exempt any persons or classes of persons from the provisions of this Act.\n[47/2017]\n(2) The regulations made under this section may provide that a contravention of any provision of the regulations shall be punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both and, in the case of a continuing offence, with a further fine not exceeding $1,000 for every day during which the offence continues after conviction."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Travel Agents Act 1975",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

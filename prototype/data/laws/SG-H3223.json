@@ -1,7 +1,7 @@
 {
  "id": "SG-H3223",
  "title": {
-  "zh": null,
+  "zh": "军事演习法 1905",
   "en": "Military Manoeuvres Act 1905",
   "orig": null
  },
@@ -220,5 +220,13 @@
     "en": "14.—(1) Every claim for compensation under section 11(3) or 12 shall be made in writing to the secretary to the Armed Forces Council, within 2 months after the land, sea, tidal water or shore, as the case may be, in respect of which the claim is made has been used as a firing ground for the purposes of military or air force exercises by virtue of a declaration under this Act.\n(2) No compensation shall be granted for any building erected or commenced after the posting of the rules as provided in section 11(2)."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Military Manoeuvres Act 1905",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "SG-H3033",
  "title": {
-  "zh": null,
+  "zh": "酒类管制（供应与消费）（上诉程序）条例 2015",
   "en": "Liquor Control (Supply and Consumption) (Appeal Proceedings) Regulations 2015",
   "orig": null
  },
@@ -246,5 +246,13 @@
     "en": "13.—(1) An appeal to the Liquor Appeal Board under section 25 of the Act must be brought within 14 days after the appellant is notified of the appealable decision to which the appeal relates.\n(2) An appeal to the Minister under section 27 of the Act against an appealable decision mentioned in section 27(5)(a), (e), (f) or (g) of the Act must be made within 14 days after the appellant is notified of the decision.\n(3) An appeal to the Minister under section 27 of the Act against an appealable decision mentioned in section 27(5)(b), (c) or (d) of the Act must be made within 7 days after the appellant is notified of the decision."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Liquor Control (Supply and Consumption) (Appeal Proceedings) Regulations 2015",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

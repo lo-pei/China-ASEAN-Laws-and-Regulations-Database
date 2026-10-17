@@ -1,7 +1,7 @@
 {
  "id": "BN-S-33-2018-NOTIFICATION-OF-COMMENCEMENT",
  "title": {
-  "zh": null,
+  "zh": "生效公告",
   "en": "Notification of Commencement",
   "orig": null
  },
@@ -50,5 +50,13 @@
     "en": "12th. 2014 No. S 33\n\nWORKPLACE SAFETY AND HEALTH ORDER, 2009 (S44/2009) Notification of commencement In exercise of the power conferred by section 1(1) of the Workplace Safety and Health Order, 2009, the Minister of Home Affairs, with the approval of His Majesty the Sultan and Yang Di-Pertuan, hereby appoints 1st August 2013 as the date on which that Order shall be deemed to have commenced. Made this 30th. day of Jamadilakhir, 1435 Hijriah corresponding to the 30th. day of April, 2014.\n\nPEHIN UDANA KHATIB DATO PADUKA SERI SETIA\n\nUSTAZ HAJI A WANG BADARUDDIN BIN\n\nPENGARAH DATO PADUKA HAJI OTHMAN Minister of Home Affairs, Brunei Darussalam."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "Notification of Commencement",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H1450",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第186号联邦法（经修正）第12条，规定另外两种退休方式并为其他目的法案",
   "en": "An Act Further Amending Section Twelve of Commonwealth Act Numbered One Hundred Eighty-Six, as Amended, by Prescribing Two Other Modes of Retirement and for Other Purposes",
   "orig": "An Act Further Amending Section Twelve of Commonwealth Act Numbered One Hundred Eighty-Six, as Amended, by Prescribing Two Other Modes of Retirement and for Other Purposes"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 31, 1957"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amending Section Twelve of Commonwealth Act Numbered One Hundred Eighty-Six, as Amended, by Prescribing Two Other Modes of Retirement and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

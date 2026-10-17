@@ -1,7 +1,7 @@
 {
  "id": "SG-H1968",
  "title": {
-  "zh": null,
+  "zh": "所得税（向金融机构提供加工服务的优惠税率）条例 2005",
   "en": "Income Tax (Concessionary Rate of Tax for Provision of Processing Services to Financial Institutions) Regulations 2005",
   "orig": null
  },
@@ -113,5 +113,13 @@
     "en": "THE SCHEDULE\nRegulation 2\nPrescribed Processing Services\n1. In connection with financial activities relating to treasury and securities —\n(a)account opening documentation services;\n(b)agreements maintenance and support services;\n(c)cash management services;\n(d)corporate action processing services;\n(e)counterparties limits monitoring services;\n(f)funds and net asset value accounting services;\n(g)portfolio valuation services;\n(h)pre-settlement confirmation and matching services;\n(i)securities borrowing and lending processing services;\n(j)settlement and reconciliation services.\n2. In connection with financial activities relating to asset management —\n(a)benchmark tracking and monitoring services;\n(b)central dealing services;\n(c)credit administration services;\n(d)funds and net asset value accounting services;\n(e)monitoring of counterparty limits services;\n(f)monitoring of investment restrictions services;\n(g)portfolio performance monitoring and measurement services;\n(h)portfolio valuation services;\n(i)registrar, listing agent, paying agent services;\n(j)settlement and reconciliation services;\n(k)transfer agency services.\n3. In connection with financial activities relating to private banking —\n(a)administration and monitoring of credit facilities services;\n(b)foreign exchange settlement services;\n(c)funds and net asset value accounting services;\n(d)monitoring of investment limits and restrictions services;\n(e)personal and corporate trust servicing services;\n(f)settlement and reconciliation services.\n4. In connection with financial activities relating to wholesale banking —\n(a)cash management services;\n(b)collateral management services;\n(c)loan administration and monitoring of credit facilities services;\n(d)product control services;\n(e)securities borrowing and lending processing services;\n(f)trade finance and clearing operation services;\n(g)trade settlement and reconciliation services;\n(h)trade support services.\n5. In connection with financial activities relating to retail banking —\n(a)credit control services;\n(b)evaluation services of applications for financial products including credit cards, loans and bancassurance;\n(c)fraud control services;\n(d)monitoring services of investment and insurance activities;\n(e)settlement and reconciliation services.\n5A. In connection with financial activities relating to insurance —\n(a)claims management and processing services;\n(b)loss adjusting services;\n(c)policy issuance, processing, administration, renewal and collection services;\n(d)risk modeling and related services;\n(e)run-off management and related services.\n[S 100/2007 wef 01/11/2006]\n6. In connection with and incidental to the provision of any of the services referred to in paragraphs 1 to 5A —\n(a)compliance and legal support services;\n(b)financial control and accounting services;\n(c)information technology development, application and data support services;\n(d)management information and reporting services;\n(e)risk management services.\n[S 100/2007 wef 01/11/2006]"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (Concessionary Rate of Tax for Provision of Processing Services to Financial Institutions) Regulations 2005",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

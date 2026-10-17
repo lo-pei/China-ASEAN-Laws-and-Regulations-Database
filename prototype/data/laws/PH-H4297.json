@@ -1,7 +1,7 @@
 {
  "id": "PH-H4297",
  "title": {
-  "zh": null,
+  "zh": "授予 First Continental Assurance 公司在菲律宾建设、运营私人固定点对点及陆基、陆上移动无线电台以收发无线电通信的临时许可的法案",
   "en": "An Act Granting to First Continental Assurance Company, Inc. a Temporary Permit to Construct, Install, Establish and Operate Private Fixed Point-To-Point and Private Based and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications",
   "orig": "An Act Granting to First Continental Assurance Company, Inc. a Temporary Permit to Construct, Install, Establish and Operate Private Fixed Point-To-Point and Private Based and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications"
  },
@@ -140,5 +140,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, June 21, 1969."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting to First Continental Assurance Company, Inc. a Temporary Permit to Construct, Install, Establish and Operate Private Fixed Point-To-Point and Private Based and Land Mobile Radio Stations for the Reception and Transmission of Radio Communications",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

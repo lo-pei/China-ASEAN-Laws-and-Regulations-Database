@@ -1,7 +1,7 @@
 {
  "id": "SG-H2540",
  "title": {
-  "zh": null,
+  "zh": "所得税（SY RORO 4 私人有限公司依第 13（4）条享有的豁免）公告 2022",
   "en": "Income Tax (SY RORO 4 Pte. Ltd. — Section 13(4) Exemption) Notification 2022",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The interest payable by SY RORO 4 Pte. Ltd., a wholly‑owned subsidiary of Seven Yield Pte. Ltd., to Oriental Fleet RORO 01 Limited during the relevant period, under a sale and lease‑back agreement dated 25 November 2021 in respect of the vessel “LIEKUT”, is exempt from tax.\n(2) The exemption under sub-paragraph (1) is subject to the conditions specified in the letter from the Ministry of Finance dated 13 October 2022 and addressed to EY Corporate Advisors Pte. Ltd.\n(3) In this paragraph, “relevant period” means the period starting on 30 November 2021 and ending on the earlier of the following (both dates inclusive):\n(a)29 November 2026;\n(b)the date of withdrawal or revocation of the approval given under section 13P of the Act to Seven Yield Pte. Ltd. as an approved shipping investment enterprise, if the approval is so withdrawn or revoked."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Income Tax (SY RORO 4 Pte. Ltd. — Section 13(4) Exemption) Notification 2022",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

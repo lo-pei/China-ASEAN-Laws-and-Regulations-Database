@@ -1,7 +1,7 @@
 {
  "id": "PH-H6343",
  "title": {
-  "zh": null,
+  "zh": "将南莱特托马斯奥普斯的Don Agustin F. Escano市镇中学改设为国立中学，名称为Agustin F. Escano国立中学，并为此拨款的法案",
   "en": "An Act Converting the Don Agustin F. Escano Municipal High School in Tomas Oppus, Southern Leyte, Into a National High School to Be Known as the Agustin F. Escano National High School, and Appropriating Funds Therefor",
   "orig": "An Act Converting the Don Agustin F. Escano Municipal High School in Tomas Oppus, Southern Leyte, Into a National High School to Be Known as the Agustin F. Escano National High School, and Appropriating Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "the amount necessary to carry out the provisions of this Act shall be included in the General Appropriations Act of the year following its enactment into law and thereafter.\nSection 5 This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Don Agustin F. Escano Municipal High School in Tomas Oppus, Southern Leyte, Into a National High School to Be Known as the Agustin F. Escano National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "id": "PH-H6964",
  "title": {
-  "zh": null,
+  "zh": "将布基农省的马来巴莱市镇改设为该省组成市，名称为马来巴莱市的法案",
   "en": "An Act Converting the Municipality of Malaybalay Into a Component City of the Province of Bukidnon, to Be Known as the City of Malaybalay",
   "orig": "An Act Converting the Municipality of Malaybalay Into a Component City of the Province of Bukidnon, to Be Known as the City of Malaybalay"
  },
@@ -763,5 +763,13 @@
     "en": "Effectivity. – This Act shall take effect upon its approval.\nApproved, February 11, 1998."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Converting the Municipality of Malaybalay Into a Component City of the Province of Bukidnon, to Be Known as the City of Malaybalay",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

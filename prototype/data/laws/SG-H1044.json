@@ -1,7 +1,7 @@
 {
  "id": "SG-H1044",
  "title": {
-  "zh": null,
+  "zh": "海关（集装箱）条例",
   "en": "Customs (Container) Regulations",
   "orig": null
  },
@@ -327,5 +327,13 @@
     "en": "*23. [Deleted]."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Customs (Container) Regulations",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

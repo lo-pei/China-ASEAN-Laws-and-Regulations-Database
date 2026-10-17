@@ -1,7 +1,7 @@
 {
  "id": "PH-H2686",
  "title": {
-  "zh": null,
+  "zh": "规定自马尼拉市经打拉省打拉市镇及邦阿西楠省比利亚西斯、乌尔达内塔、圣巴巴拉、卡拉西奥、达古潘与宾马莱各市镇至林加延市镇的公路，今后名称为Macarthur公路的法案",
   "en": "An Act Providing that the Highway from the City of Manila to the Municipality of Lingayen, Province of Pangasinan, Passing Through the Municipality of Tarlac, Province of Tarlac, and the Municipalities of Villasis, Urdaneta, Sta. Barbara, Calasiao, Dagupan, and Binmaley, All in the Province of Pangasinan, Shall Hereafter be Known as the Macarthur Highway",
   "orig": "An Act Providing that the Highway from the City of Manila to the Municipality of Lingayen, Province of Pangasinan, Passing Through the Municipality of Tarlac, Province of Tarlac, and the Municipalities of Villasis, Urdaneta, Sta. Barbara, Calasiao, Dagupan, and Binmaley, All in the Province of Pangasinan, Shall Hereafter be Known as the Macarthur Highway"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Providing that the Highway from the City of Manila to the Municipality of Lingayen, Province of Pangasinan, Passing Through the Municipality of Tarlac, Province of Tarlac, and the Municipalities of Villasis, Urdaneta, Sta. Barbara, Calasiao, Dagupan, and Binmaley, All in the Province of Pangasinan, Shall Hereafter be Known as the Macarthur Highway",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

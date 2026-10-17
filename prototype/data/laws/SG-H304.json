@@ -1,7 +1,7 @@
 {
  "id": "SG-H304",
  "title": {
-  "zh": null,
+  "zh": "博彩（豁免）公告 2009",
   "en": "Betting (Exemption) Notification 2009",
   "orig": null
  },
@@ -64,5 +64,13 @@
     "en": "2.—(1) The Minister hereby exempts the Singapore Pools (Private) Limited from the provisions of the Act in respect of the promotion, organisation, administration or operation of any betting done in connection with the Fédération Internationale de l’Automobile Formula One World Championship.\n(2) The exemption is subject to compliance by the Singapore Pools (Private) Limited with the conditions stated in the letter of approval dated 27th February 2009."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1818-SG-2467",
+  "source": "Betting (Exemption) Notification 2009",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

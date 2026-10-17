@@ -1,7 +1,7 @@
 {
  "id": "PH-H5791",
  "title": {
-  "zh": null,
+  "zh": "授予 Kalayaan 广播系统公司在棉兰老岛建设、安装、运营和维护无线电广播站并为其他目的法案",
   "en": "An Act Granting the Kalayaan Broadcasting System, Incorporated, a Franchise to Construct, Install, Operate and Maintain Radio Broadcasting Stations in the Island of Mindanao and for Other Purposes",
   "orig": "An Act Granting the Kalayaan Broadcasting System, Incorporated, a Franchise to Construct, Install, Operate and Maintain Radio Broadcasting Stations in the Island of Mindanao and for Other Purposes"
  },
@@ -201,5 +201,13 @@
     "en": "Effectivity Clause. - This Act shall take effect fifteen days (15) days from the date of its publication in at least two (2) newspapers of general circulation in the Philippines."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting the Kalayaan Broadcasting System, Incorporated, a Franchise to Construct, Install, Operate and Maintain Radio Broadcasting Stations in the Island of Mindanao and for Other Purposes",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

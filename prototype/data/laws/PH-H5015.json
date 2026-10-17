@@ -1,7 +1,7 @@
 {
  "id": "PH-H5015",
  "title": {
-  "zh": null,
+  "zh": "进一步修订第416号共和国法（即《菲律宾师范学院宪章》）若干条款的法案",
   "en": "An Act Further Amending Certain Sections of Republic Act Numbered Four Hundred Sixteen, Otherwise Known as the Charter of the Philippine Normal College",
   "orig": "An Act Further Amending Certain Sections of Republic Act Numbered Four Hundred Sixteen, Otherwise Known as the Charter of the Philippine Normal College"
  },
@@ -51,14 +51,15 @@
    }
   },
   {
-   "id": "PH-H5015-A1_2",
+   "id": "PH-H5015-A1-d2",
    "no": 1,
    "noLabel": {
     "en": "Section 1."
    },
    "text": {
     "en": "The present Philippine Normal College, formerly Philippine Normal School, located in Manila, Philippines, is hereby authorized to offer and conduct courses leading to the degrees of Bachelor of Science in Elementary Education, Bachelor of Science in Education, Master of Arts in Education, Doctor of Philosophy in Education and other academic degrees relevant to, and appropriate in, the preparation and training of teachers, specialist, researchers, supervisors, administrators, school and education managers and other professional personnel in education.\""
-   }
+   },
+   "dupIndex": 2
   },
   {
    "id": "PH-H5015-A2",
@@ -80,5 +81,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved, July 22, 1972."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Further Amending Certain Sections of Republic Act Numbered Four Hundred Sixteen, Otherwise Known as the Charter of the Philippine Normal College",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

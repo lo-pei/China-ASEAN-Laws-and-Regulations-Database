@@ -1,7 +1,7 @@
 {
  "id": "PH-H7367",
  "title": {
-  "zh": null,
+  "zh": "将南阿古桑省Rosario的Sta. Cruz的Sta. Cruz社区中学改设为国立政府资助的中学，名称为Sta. Cruz国立中学，并为此拨款的法案",
   "en": "An Act An Act Converting the Sta. Cruz Community High School At Sta. Cruz, Rosario, Agusan Del Sur Into a National Government-Funded Secondary School to Be Known as the Sta. Cruz National High School and Appropriating Funds Therefor",
   "orig": "An Act An Act Converting the Sta. Cruz Community High School At Sta. Cruz, Rosario, Agusan Del Sur Into a National Government-Funded Secondary School to Be Known as the Sta. Cruz National High School and Appropriating Funds Therefor"
  },
@@ -80,5 +80,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act An Act Converting the Sta. Cruz Community High School At Sta. Cruz, Rosario, Agusan Del Sur Into a National Government-Funded Secondary School to Be Known as the Sta. Cruz National High School and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

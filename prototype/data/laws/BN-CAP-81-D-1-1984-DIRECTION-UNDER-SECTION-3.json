@@ -1,7 +1,7 @@
 {
  "id": "BN-CAP-81-D-1-1984-DIRECTION-UNDER-SECTION-3",
  "title": {
-  "zh": null,
+  "zh": "D 1 1984 版依第 3 条作出的指示",
   "en": "D 1 1984 ED DIRECTION UNDER SECTION 3",
   "orig": null
  },
@@ -60,5 +60,13 @@
     "en": "Household income and expenditure. Appointment of Competent Officer under section 4 (1) ·' The Minister has appointed the Chief Statistician in the Ministry of S.55177 Finance, to be the Competent Officer for the purpose of collecting statistics directed by the Minister from time to time. B. L. R. 0. 111984"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1801-BN-1261",
+  "source": "D 1 1984 ED DIRECTION UNDER SECTION 3",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

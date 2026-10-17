@@ -1,7 +1,7 @@
 {
  "id": "SG-H148",
  "title": {
-  "zh": null,
+  "zh": "航空导航（47——航空器登记）条例 2026",
   "en": "Air Navigation (47 — Aircraft Registration) Regulations 2026",
   "orig": null
  },
@@ -298,5 +298,13 @@
     "en": "SECOND SCHEDULE\nRegulations 7(e), 8(1)(a) and 14\nFees\nApplication for certificate of registration\n1. The fee for an application for a certificate of registration in respect of an aircraft is —\n(a)if the maximum certificated take-off mass of the aircraft does not exceed 3,000 kg — $55; or\n(b)if the maximum certificated take-off mass of the aircraft exceeds 3,000 kg — $55 plus $6.60 per 1,000 kg or part thereof in excess of 3,000 kg."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Air Navigation (47 — Aircraft Registration) Regulations 2026",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

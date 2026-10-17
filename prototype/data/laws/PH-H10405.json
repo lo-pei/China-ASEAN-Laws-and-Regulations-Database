@@ -1,7 +1,7 @@
 {
  "id": "PH-H10405",
  "title": {
-  "zh": null,
+  "zh": "授予 Negros Electric and Power Corp. 在西内格罗斯省 Bacolod 等地建设、运营和维护配电系统，向终端用户输电的特许经营权法案",
   "en": "An Act Granting Negros Electric and Power Corp. a Franchise to Establish, Operate, and Maintain, for Commercial Purposes and in the Public Interest, a Distribution System for the Conveyance of Electric Power to the End-users in the Cities of Bacolod, Silay, Talisay, and Bago and the Municipalities of Murcia and Don Salvador Benedicto, All in the Province of Negros Occidental, and Ensuring Continuous and Uninterrupted Supply of Electricity in the Franchise Area</td> <td>ra2024/pdra_12011_2024.pdf",
   "orig": "An Act Granting Negros Electric and Power Corp. a Franchise to Establish, Operate, and Maintain, for Commercial Purposes and in the Public Interest, a Distribution System for the Conveyance of Electric Power to the End-users in the Cities of Bacolod, Silay, Talisay, and Bago and the Municipalities of Murcia and Don Salvador Benedicto, All in the Province of Negros Occidental, and Ensuring Continuous and Uninterrupted Supply of Electricity in the Franchise Area</td> <td>ra2024/pdra_12011_2024.pdf"
  },
@@ -292,5 +292,13 @@
     "en": "Effectivity. - This Act shall take effect after fifteen (15) days following its publication in the Official Gazette or in a national newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Negros Electric and Power Corp. a Franchise to Establish, Operate, and Maintain, for Commercial Purposes and in the Public Interest, a Distribution System for the Conveyance of Electric Power to the End-users in the Cities of Bacolod, Silay, Talisay, and Bago and the Municipalities of Murcia and Don Salvador Benedicto, All in the Province of Negros Occidental, and Ensuring Continuous and Uninterrupted Supply of Electricity in the Franchise Area</td> <td>ra2024/pdra_12011_2024.pdf",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

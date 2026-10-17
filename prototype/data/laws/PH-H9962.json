@@ -1,7 +1,7 @@
 {
  "id": "PH-H9962",
  "title": {
-  "zh": null,
+  "zh": "将高山省 Bontoc 市镇 Mainit 描笼涯的 Guina-Ang 国立中学附属校分离，改设为独立的 Mainit 国立中学，并为此拨款",
   "en": "An Act Separating the Guina-Ang National High School - Mainit Extension in Barangay Mainit, Municipality of Bontoc, Mountain Province From the Guina-Ang National High School, Converting It Into An Independent National High School to Be Known as Mainit National High School, and Appropriating Funds Therefor",
   "orig": "An Act Separating the Guina-Ang National High School - Mainit Extension in Barangay Mainit, Municipality of Bontoc, Mountain Province From the Guina-Ang National High School, Converting It Into An Independent National High School to Be Known as Mainit National High School, and Appropriating Funds Therefor"
  },
@@ -91,5 +91,13 @@
     "en": "This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Separating the Guina-Ang National High School - Mainit Extension in Barangay Mainit, Municipality of Bontoc, Mountain Province From the Guina-Ang National High School, Converting It Into An Independent National High School to Be Known as Mainit National High School, and Appropriating Funds Therefor",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

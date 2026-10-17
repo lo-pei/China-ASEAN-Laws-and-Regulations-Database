@@ -1,7 +1,7 @@
 {
  "id": "SG-H1241",
  "title": {
-  "zh": null,
+  "zh": "雇佣（雇佣记录、关键雇佣条款与工资单）条例 2016",
   "en": "Employment (Employment Records, Key Employment Terms and Pay Slips) Regulations 2016",
   "orig": null
  },
@@ -224,5 +224,13 @@
     "en": "THIRD SCHEDULE\nRegulation 9\nInformation in pay slip\n1.Employer’s name —\n(a)for an employer who is an individual, as specified on the identity card or passport of the employer; or\n(b)for an employer which is not an individual —\n(i)as specified on any register or official record kept under any written law; or\n(ii)where sub-paragraph (i) is not applicable, the name in which the employer employed the employee\n2.Employer’s trade name if different from that in item 1\n3.Employee’s name as specified on the employee’s identity card, work pass or passport\n4.Amount of basic salary paid to employee during each salary period or salary periods, calculated by reference to the basic rate of pay\n5.First and last days of each salary period\n6.Amount of allowances and other additional payments during each salary period, with itemisation of every allowance or payment (if applicable)\n7.First and last days of each overtime payment period (called in this Schedule the overtime period) if different from each salary period\n8.Overtime hours worked during each overtime period (if applicable)\n9.Overtime pay paid for each overtime period (if applicable) and date of payment\n10.Amount of deductions from salary during each salary period, with itemisation of every deduction (if applicable)\n11.Net amount paid to employee for each salary period and date of payment"
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Employment (Employment Records, Key Employment Terms and Pay Slips) Regulations 2016",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

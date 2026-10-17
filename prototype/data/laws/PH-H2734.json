@@ -1,7 +1,7 @@
 {
  "id": "PH-H2734",
  "title": {
-  "zh": null,
+  "zh": "授予 Cabanatuan 市 Pacifico Araullo 在该市建设、维护和运营无线电广播站的特许经营权法案",
   "en": "An Act Granting Pacifico Araullo of the City of Cabanatuan a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations in the Said City",
   "orig": "An Act Granting Pacifico Araullo of the City of Cabanatuan a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations in the Said City"
  },
@@ -220,5 +220,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 17, 1961."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Granting Pacifico Araullo of the City of Cabanatuan a Franchise to Construct, Maintain and Operate Radio Broadcasting Stations in the Said City",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

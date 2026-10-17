@@ -1,7 +1,7 @@
 {
  "id": "PH-H5111",
  "title": {
-  "zh": null,
+  "zh": "宣布国家采取现代科学方法减弱台风、防止洪水、降雨与干旱造成破坏的政策，设立台风减弱与防洪研究发展委员会、规定其权力与职能并为其拨款",
   "en": "An Act Declaring a Policy of the State to Adopt Modern Scientific Methods to Moderate Typhoons and Prevent Destruction By Floods Rains and Droughts, Creating a Council on Typhoon Moderation and Flood Control Research and Development, Providing for Its Powers and Functions and Appropriating Funds Therefor.",
   "orig": "An Act Declaring a Policy of the State to Adopt Modern Scientific Methods to Moderate Typhoons and Prevent Destruction By Floods Rains and Droughts, Creating a Council on Typhoon Moderation and Flood Control Research and Development, Providing for Its Powers and Functions and Appropriating Funds Therefor."
  },
@@ -100,5 +100,13 @@
     "en": "This Act shall take effect upon its approval."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Declaring a Policy of the State to Adopt Modern Scientific Methods to Moderate Typhoons and Prevent Destruction By Floods Rains and Droughts, Creating a Council on Typhoon Moderation and Flood Control Research and Development, Providing for Its Powers and Functions and Appropriating Funds Therefor.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

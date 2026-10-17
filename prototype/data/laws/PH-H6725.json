@@ -1,7 +1,7 @@
 {
  "id": "PH-H6725",
  "title": {
-  "zh": null,
+  "zh": "外国人社会融合法 1995",
   "en": "The Alien Social Integration Act of 1995.",
   "orig": "An Act Exempting Aliens Who Have Acquired Permanent Residency Under Executive Order No. 324 From the Coverage of Republic Act No. 7919, Otherwise Known as \"The Alien Social Integration Act of 1995.\" Amending for the Purpose Certain Provisions of Said Act and for Other Purposes"
  },
@@ -110,5 +110,13 @@
     "en": "This Act shall take effect immediately after its publication in at least two (2) national newspapers of general circulation."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "The Alien Social Integration Act of 1995.",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

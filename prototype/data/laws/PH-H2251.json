@@ -1,7 +1,7 @@
 {
  "id": "PH-H2251",
  "title": {
-  "zh": null,
+  "zh": "将布拉干省比加阿市镇桑托尔第一小学的名称变更为Marciano C. Rivera小学的法案",
   "en": "An Act Changing the Name of Santol I Elementary School in the Municipality of Bigaa, Province of Bulacan, to Marciano C. Rivera Elementary School",
   "orig": "An Act Changing the Name of Santol I Elementary School in the Municipality of Bigaa, Province of Bulacan, to Marciano C. Rivera Elementary School"
  },
@@ -60,5 +60,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: June 21, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Changing the Name of Santol I Elementary School in the Municipality of Bigaa, Province of Bulacan, to Marciano C. Rivera Elementary School",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

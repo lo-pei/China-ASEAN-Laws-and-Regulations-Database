@@ -1,7 +1,7 @@
 {
  "id": "PH-H1967",
  "title": {
-  "zh": null,
+  "zh": "将审计长年薪由1.6万比索增至2.1万比索，为此进一步修订第532号联邦法第1条的法案",
   "en": "An Act Increasing the Salary of the Auditor General from Sixteen Thousand Pesos to Twenty-One Thousand Pesos Per Annum, by Further Amending Section One of Commonwealth Act Numbered Five Hundred Thirty-Two",
   "orig": "An Act Increasing the Salary of the Auditor General from Sixteen Thousand Pesos to Twenty-One Thousand Pesos Per Annum, by Further Amending Section One of Commonwealth Act Numbered Five Hundred Thirty-Two"
  },
@@ -70,5 +70,13 @@
     "en": "This Act shall take effect upon its approval.\nApproved: May 28, 1959."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1837-PH-7575",
+  "source": "An Act Increasing the Salary of the Auditor General from Sixteen Thousand Pesos to Twenty-One Thousand Pesos Per Annum, by Further Amending Section One of Commonwealth Act Numbered Five Hundred Thirty-Two",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }

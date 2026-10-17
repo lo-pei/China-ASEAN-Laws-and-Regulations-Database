@@ -1,7 +1,7 @@
 {
  "id": "SG-H1642",
  "title": {
-  "zh": null,
+  "zh": "政府诉讼程序法 1956",
   "en": "Government Proceedings Act 1956",
   "orig": null
  },
@@ -646,5 +646,13 @@
     "en": "38.—(1) Nothing in this Act shall apply to proceedings by or against, or authorise proceedings in tort to be brought against, the President in his private capacity.\n(2) Except as therein otherwise expressly provided, nothing in this Act shall —\n(a)affect the law relating to prize salvage, or apply to proceedings in causes or matters within the jurisdiction of the General Division of the High Court as a prize court or to any criminal proceedings;\n(b)subject the Government to any greater liabilities in respect of the acts or omissions of any independent contractor employed by the Government than those to which the Government would be subject in respect of such acts or omissions if it were a private person;\n(c)affect any rules of evidence or any presumption relating to the extent to which the Government is bound by any written law;\n(d)affect any right of the Government to control or otherwise intervene in proceedings affecting its rights, property or profits;\n(e)apply to any proceedings by or against the Official Assignee or the Public Trustee or affect any liability imposed on the Public Trustee or on the revenues of Singapore by the Public Trustee Act 1915; or\n(f)apply to any proceedings by or against the railway administration or any person employed or deemed to be employed by the railway administration under the provisions of the Railways Act 1905.\n[40/2019]\n(3) Where any property vests in the Government by virtue of any rule of law which operates independently of the acts or the intentions of the Government, the Government shall not by virtue of this Act be subject to any liabilities in tort by reason only of the property being so vested; but this subsection shall be without prejudice to the liabilities of the Government under this Act in respect of any period after the Government or any person acting for the Government has in fact taken possession or control of any such property, or entered into occupation thereof."
    }
   }
- ]
+ ],
+ "titleTranslation": {
+  "engine": "llm",
+  "model": "deepseek-v4.1-flash",
+  "reviewed": false,
+  "batch": "CALR-TITLE-20261017-1749-SG-1200",
+  "source": "Government Proceedings Act 1956",
+  "note": "由翻译 agent 按《法规标题中译规范》产出，经 tools/verify-title-return.js 机器校验后入库；尚未人工复核。"
+ }
 }
