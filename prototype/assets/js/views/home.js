@@ -352,10 +352,84 @@
       '</section>';
   }
 
+  /* ---------------- 侧边快速跳转（滚动一定距离后出现） ---------------- */
+  var TOC_ITEMS = [
+    ['home-systems', '法律体系'],
+    ['home-map', '全球布局'],
+    ['home-db', '数据库概况'],
+    ['home-about', '关于我们']
+  ];
+
+  function tocHtml() {
+    return '<nav class="home-toc" id="home-toc" aria-label="' + esc(t('快速跳转')) + '">' +
+      '<div class="home-toc__title">' + esc(t('快速跳转')) + '</div>' +
+      TOC_ITEMS.map(function (it) {
+        return '<a class="home-toc__item" href="#' + it[0] + '" data-toc="' + it[0] + '">' +
+          '<span class="home-toc__dot" aria-hidden="true"></span>' +
+          '<span class="home-toc__label">' + esc(t(it[1])) + '</span>' +
+        '</a>';
+      }).join('') +
+    '</nav>';
+  }
+
+  var tocTimer = null;
+  function wireToc(main) {
+    var toc = U().$('#home-toc', main);
+    if (!toc) return;
+
+    function onScroll() {
+      /* 页面已切走则停止轮询，避免残留定时器 */
+      if (!document.body.contains(toc)) {
+        if (tocTimer) { clearInterval(tocTimer); tocTimer = null; }
+        return;
+      }
+      var y = root.scrollY || document.documentElement.scrollTop || 0;
+      /* 下滚 420px 后才出现 */
+      toc.classList.toggle('is-visible', y > 420);
+
+      /* scroll-spy：取最后一个「顶部已越过视口上 1/3」的区块 */
+      var probeY = y + (root.innerHeight || 800) * 0.33;
+      var active = null;
+      TOC_ITEMS.forEach(function (it) {
+        var el = U().$('#' + it[0], main);
+        if (!el) return;
+        if (el.getBoundingClientRect().top + y <= probeY) active = it[0];
+      });
+      U().$$('.home-toc__item', toc).forEach(function (a) {
+        a.classList.toggle('is-active', a.getAttribute('data-toc') === active);
+      });
+    }
+
+    /* 点击平滑滚动到目标区块 */
+    U().$$('.home-toc__item', toc).forEach(function (a) {
+      U().on(a, 'click', function (e) {
+        e.preventDefault();
+        var el = U().$('#' + a.getAttribute('data-toc'), main);
+        if (!el) return;
+        var targetTop = el.getBoundingClientRect().top + (root.scrollY || 0) - 76;
+        var before = root.scrollY || 0;
+        try { root.scrollTo({ top: targetTop, behavior: 'smooth' }); }
+        catch (err) { root.scrollTo(0, targetTop); }
+        /* 兜底：某些环境（含无头浏览器）不执行平滑动画，700ms 后仍未移动就直接跳 */
+        setTimeout(function () {
+          var now = root.scrollY || 0;
+          if (Math.abs(now - before) < 8) root.scrollTo(0, targetTop);
+        }, 700);
+        el.classList.add('is-jump-target');
+        setTimeout(function () { el.classList.remove('is-jump-target'); }, 1400);
+      });
+    });
+
+    /* 用轮询而非 scroll 事件：scroll 事件在无头环境/嵌套滚动容器下可能不触发 */
+    if (tocTimer) { clearInterval(tocTimer); tocTimer = null; }
+    tocTimer = setInterval(onScroll, 160);
+    onScroll();
+  }
+
   /* ---------------- 渲染 ---------------- */
   views.home = {
     render: function (main) {
-      main.innerHTML = heroHtml() + systemsHtml() + mapHtml() + dbHtml() + aboutHtml();
+      main.innerHTML = heroHtml() + systemsHtml() + mapHtml() + dbHtml() + aboutHtml() + tocHtml();
 
       /* 首页仅一个检索入口：筛选条件全部在结果页内 */
       U().on(U().$('#hero-search-form', main), 'submit', function (e) {
@@ -365,6 +439,7 @@
       });
 
       probeSystemImages(main);
+      wireToc(main);
     }
   };
 

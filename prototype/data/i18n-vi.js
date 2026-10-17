@@ -789,6 +789,9 @@
   "仅保存在当前页面内存中": "Chỉ lưu trong bộ nhớ trang",
   "导出 TXT": "Xuất TXT",
   "输入法律问题，例如：越南外资企业的最低注册资本要求是什么？": "Nhập câu hỏi pháp lý, ví dụ: Vốn điều lệ tối thiểu của doanh nghiệp FDI tại Việt Nam là bao nhiêu?",
-  "本助手仅依据数据库已收录的法规作答；超出收录范围时明确提示「暂未收录相关法规」，不作推测性回答。对话不落盘、不上传服务器。": "Chỉ trả lời dựa trên văn bản pháp luật đã thu thập; câu hỏi ngoài phạm vi sẽ được từ chối, không suy đoán. Hội thoại không lưu trữ, không tải lên máy chủ."
+  "本助手仅依据数据库已收录的法规作答；超出收录范围时明确提示「暂未收录相关法规」，不作推测性回答。对话不落盘、不上传服务器。": "Chỉ trả lời dựa trên văn bản pháp luật đã thu thập; câu hỏi ngoài phạm vi sẽ được từ chối, không suy đoán. Hội thoại không lưu trữ, không tải lên máy chủ.",
+  "快速跳转": "Chuyển nhanh",
+  "全球布局": "Phạm vi toàn cầu",
+  "数据库概况": "Tổng quan cơ sở dữ liệu"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

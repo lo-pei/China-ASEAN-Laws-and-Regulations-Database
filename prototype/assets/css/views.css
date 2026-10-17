@@ -279,10 +279,11 @@ mark.law-find-hit {
   display: flex;
   flex-direction: column;
   min-height: 0;
-  background: var(--surface);
+  background: #FFFFFF;
   border: 1px solid var(--border);
   border-radius: 12px;
   overflow: hidden;
+  box-shadow: 0 1px 3px rgba(16,24,40,.06);
 }
 .ai-history__head {
   display: flex; align-items: center; gap: 8px;
@@ -307,11 +308,11 @@ mark.law-find-hit {
 .ai-conv:hover { background: var(--calr-gray-50, #f8fafc); }
 .ai-conv.is-active { background: var(--calr-blue-50, #eff6ff); color: var(--calr-blue-700, #1d4ed8); font-weight: 600; }
 .ai-conv__title { flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.ai-conv__meta { flex: 0 0 auto; font-size: var(--fs-mini); color: var(--text-tertiary); }
+.ai-conv__meta { flex: 0 0 auto; font-size: var(--fs-mini); color: var(--text-secondary); }
 .ai-conv__del {
   position: absolute; right: 6px; top: 50%; transform: translateY(-50%);
   width: 18px; height: 18px; border: 0; border-radius: 5px;
-  background: transparent; color: var(--text-tertiary);
+  background: transparent; color: var(--text-secondary);
   cursor: pointer; font-size: 15px; line-height: 1; opacity: 0;
 }
 .ai-conv:hover .ai-conv__del { opacity: 1; }
@@ -322,22 +323,23 @@ mark.law-find-hit {
   display: flex;
   flex-direction: column;
   min-height: 0;
-  background: var(--surface);
+  background: #FFFFFF;
   border: 1px solid var(--border);
   border-radius: 12px;
   overflow: hidden;
   min-height: 640px;
+  box-shadow: 0 1px 3px rgba(16,24,40,.06), 0 8px 24px rgba(16,24,40,.05);
 }
 .ai-main__head {
   display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
   padding: 12px 16px;
   border-bottom: 1px solid var(--border);
-  background: linear-gradient(180deg, var(--calr-gray-50, #f8fafc), var(--surface));
+  background: linear-gradient(180deg, var(--calr-gray-50, #f8fafc), var(--bg-surface));
 }
 .ai-main__title { display: flex; align-items: center; gap: 8px; font-weight: 600; }
 .ai-main__title svg { width: 18px; height: 18px; color: var(--calr-blue-600); }
 .ai-main__actions { margin-left: auto; display: flex; align-items: center; gap: 8px; }
-.ai-main__state { margin-left: 6px; font-size: var(--fs-mini); color: var(--text-tertiary); font-weight: 400; }
+.ai-main__state { margin-left: 6px; font-size: var(--fs-mini); color: var(--text-secondary); font-weight: 400; }
 
 .ai-dot {
   display: inline-block; width: 7px; height: 7px; border-radius: 50%;
@@ -364,6 +366,8 @@ mark.law-find-hit {
   line-height: 1.8;
 }
 .chat-row--user .bubble { border-bottom-right-radius: 4px; }
+/* AI 气泡用浅灰白 + 边框，与白色卡片区分出层次 */
+.chat-row--ai .bubble { background: var(--calr-gray-50); }
 .chat-row--ai .bubble { border-bottom-left-radius: 4px; }
 
 /* 答案分节：编号标题 + 左侧色条，读起来更像规范文档 */
@@ -388,7 +392,7 @@ mark.law-find-hit {
   border: 1px solid var(--border);
   border-left: 3px solid var(--calr-blue-400, #60a5fa);
   border-radius: 8px;
-  background: var(--surface);
+  background: var(--bg-surface);
   text-decoration: none;
   color: inherit;
   transition: border-color .12s, box-shadow .12s;
@@ -402,7 +406,7 @@ mark.law-find-hit {
   padding: 12px;
   border: 1px solid var(--border);
   border-radius: 12px;
-  background: var(--surface);
+  background: var(--bg-surface);
   box-shadow: 0 1px 2px rgba(16,24,40,.04);
 }
 .ai-composer textarea {
@@ -426,9 +430,9 @@ mark.law-find-hit {
   width: min(560px, calc(100vw - 32px));
   max-height: calc(100vh - 80px);
   display: flex; flex-direction: column;
-  background: var(--surface);
+  background: #FFFFFF;
   border-radius: 14px;
-  box-shadow: 0 20px 50px rgba(15,23,42,.25);
+  box-shadow: 0 24px 60px rgba(15,23,42,.32), 0 4px 14px rgba(15,23,42,.14);
   overflow: hidden;
 }
 .ai-modal__head {
@@ -449,3 +453,77 @@ mark.law-find-hit {
 .ai-form__field { display: block; margin-top: 14px; font-size: var(--fs-small); font-weight: 600; }
 .ai-form__control { margin-top: 5px; font-weight: 400; }
 .ai-form__control .input, .ai-form__control .select { width: 100%; }
+
+/* ==========================================================================
+   主页侧边快速跳转（下滚 420px 后淡入；滚动联动高亮当前区块）
+   ========================================================================== */
+.home-toc {
+  position: fixed;
+  right: 22px;
+  top: 50%;
+  transform: translateY(-50%) translateX(14px);
+  z-index: 40;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 10px 12px 10px 10px;
+  background: #FFFFFF;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: 0 8px 28px rgba(16, 24, 40, .10);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity .22s ease, transform .22s ease, visibility .22s;
+}
+.home-toc.is-visible {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+  transform: translateY(-50%) translateX(0);
+}
+.home-toc__title {
+  font-size: var(--fs-mini);
+  color: var(--text-secondary);
+  padding: 2px 6px 6px;
+  letter-spacing: .04em;
+}
+.home-toc__item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 8px;
+  border-radius: 7px;
+  text-decoration: none;
+  color: var(--text-secondary);
+  font-size: var(--fs-small);
+  white-space: nowrap;
+  transition: background .12s, color .12s;
+}
+.home-toc__dot {
+  flex: 0 0 auto;
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--calr-gray-300);
+  transition: background .12s, transform .12s;
+}
+.home-toc__item:hover { background: var(--calr-gray-50); color: var(--text-primary); }
+.home-toc__item.is-active { color: var(--calr-blue-700); font-weight: 600; }
+.home-toc__item.is-active .home-toc__dot {
+  background: var(--calr-blue-600);
+  transform: scale(1.5);
+}
+
+/* 跳转目标：留出固定顶栏高度，避免被遮住 */
+.home-sec { scroll-margin-top: 76px; }
+
+/* 跳转目标短暂高亮，便于确认已定位 */
+.home-sec.is-jump-target { animation: calrJumpFlash 1.2s ease; }
+@keyframes calrJumpFlash {
+  0%   { box-shadow: inset 0 0 0 9999px rgba(37, 99, 235, .05); }
+  100% { box-shadow: inset 0 0 0 9999px rgba(37, 99, 235, 0); }
+}
+
+/* 窄屏或矮屏隐藏（避免遮挡内容） */
+@media (max-width: 1180px) { .home-toc { display: none; } }
+@media (max-height: 620px) { .home-toc { display: none; } }

@@ -789,6 +789,9 @@
   "仅保存在当前页面内存中": "Hanya disimpan di memori halaman",
   "导出 TXT": "Ekspor TXT",
   "输入法律问题，例如：越南外资企业的最低注册资本要求是什么？": "Ajukan pertanyaan hukum, mis. berapa modal terdaftar minimum untuk perusahaan PMA di Vietnam?",
-  "本助手仅依据数据库已收录的法规作答；超出收录范围时明确提示「暂未收录相关法规」，不作推测性回答。对话不落盘、不上传服务器。": "Jawaban hanya berdasarkan peraturan yang terindeks; pertanyaan di luar cakupan ditolak tanpa spekulasi. Percakapan tidak disimpan atau diunggah."
+  "本助手仅依据数据库已收录的法规作答；超出收录范围时明确提示「暂未收录相关法规」，不作推测性回答。对话不落盘、不上传服务器。": "Jawaban hanya berdasarkan peraturan yang terindeks; pertanyaan di luar cakupan ditolak tanpa spekulasi. Percakapan tidak disimpan atau diunggah.",
+  "快速跳转": "Lompat cepat",
+  "全球布局": "Jangkauan global",
+  "数据库概况": "Ringkasan basis data"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

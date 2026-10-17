@@ -789,6 +789,9 @@
   "仅保存在当前页面内存中": "Stored in page memory only",
   "导出 TXT": "Export TXT",
   "输入法律问题，例如：越南外资企业的最低注册资本要求是什么？": "Ask a legal question, e.g. What is the minimum registered capital for a foreign-invested enterprise in Vietnam?",
-  "本助手仅依据数据库已收录的法规作答；超出收录范围时明确提示「暂未收录相关法规」，不作推测性回答。对话不落盘、不上传服务器。": "Answers are based only on laws indexed in this database; out-of-scope questions are declined without speculation. Conversations are not persisted or uploaded."
+  "本助手仅依据数据库已收录的法规作答；超出收录范围时明确提示「暂未收录相关法规」，不作推测性回答。对话不落盘、不上传服务器。": "Answers are based only on laws indexed in this database; out-of-scope questions are declined without speculation. Conversations are not persisted or uploaded.",
+  "快速跳转": "Quick jump",
+  "全球布局": "Global reach",
+  "数据库概况": "Database overview"
 };
 })(typeof window !== 'undefined' ? window : globalThis);
