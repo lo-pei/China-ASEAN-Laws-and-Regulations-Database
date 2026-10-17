@@ -241,13 +241,23 @@
           /* 本地检索是同步的，因此采用「分段落逐节呈现」模拟流式：
              先占位一个空气泡，再把 ① 概览 / ② 要点 / ③ 依据 … 依次塞进去，
              全部完成后用最终 HTML 替换历史条目。 */
-          var res = CALR.qa.ask(question);
-          var full = answerHtml(res);
-          var plain = plainAnswer(res, null);
+          /* P0：askAsync 会先按需加载候选法规的条文分卷，再生成引用；
+             加载期间先占位气泡，避免用户以为没反应。 */
           var slot = history.length;
-          history.push({ html: rowHtml('ai', '', 'qa-live-row'), role: 'ai', text: plain });
+          history.push({
+            html: rowHtml('ai',
+              '<span class="mini muted">' + esc(t('正在检索并载入相关条文…')) + '</span>', 'qa-live-row'),
+            role: 'ai', text: ''
+          });
           renderChat();
-          setTimeout(function () { streamInto(slot, full, 110); }, 220);
+          var done = function (res) {
+            var full = answerHtml(res);
+            var plain = plainAnswer(res, null);
+            history[slot] = { html: rowHtml('ai', full), role: 'ai', text: plain };
+            renderChat();
+          };
+          var askP = (CALR.qa.askAsync ? CALR.qa.askAsync(question) : Promise.resolve(CALR.qa.ask(question)));
+          askP.then(done).catch(function () { done(CALR.qa.ask(question)); });
           return;
         }
 
@@ -257,20 +267,27 @@
           '<div id="qa-live" class="small" style="white-space:pre-wrap;margin-top:6px"></div>', 'qa-live-row') });
         renderChat();
 
-        CALR.qa.askWithLLM(question, {
+        /* P0：先按问题预载候选法规的条文分卷，让 askWithLLM 内部的本地检索
+           能命中真正的条文（否则它拿不到可引用条文会直接降级）。 */
+        var preload = (CALR.qa.retrieveWithPacks && CALR.fulltext && CALR.fulltext.ensureLaws)
+          ? CALR.qa.retrieveWithPacks(question, { packBudget: 6 }).catch(function () { return null; })
+          : Promise.resolve(null);
+
+        preload.then(function () { return CALR.qa.askWithLLM(question, {
           onDelta: function (chunk, acc) {
             var live = U().$('#qa-live', main);
             if (live) { live.textContent = acc; live.scrollIntoView({ block: 'end' }); }
           }
-        }).then(function (r) {
+        }); }).then(function (r) {
           history[history.length - 1] = {
             html: answerHtml(r.local, r), role: 'ai', text: plainAnswer(r.local, r)
           };
           renderChat();
         }).catch(function (e) {
-          var fallback = CALR.qa.ask(question);
-          var fb = { local: fallback, llm: { ok: false, error: String((e && e.message) || e) } };
-          history[history.length - 1] = { html: answerHtml(fallback, fb), role: 'ai', text: plainAnswer(fallback, fb) };
+          var fbRes = { local: CALR.qa.ask(question), llm: { ok: false, error: String((e && e.message) || e) } };
+          history[history.length - 1] = {
+            html: answerHtml(fbRes.local, fbRes), role: 'ai', text: plainAnswer(fbRes.local, fbRes)
+          };
           renderChat();
         });
       }

@@ -79,6 +79,16 @@
     return loadPackOf(lawId);
   }
 
+  /** 批量确保若干法规的全文已载入（供 AI 问答按需补全条文） */
+  function ensureLaws(lawIds) {
+    var ids = (lawIds || []).filter(function (x) { return x; });
+    if (!ids.length) return Promise.resolve({ ok: 0, failed: 0 });
+    var ok = 0, failed = 0;
+    return Promise.all(ids.map(function (id) {
+      return ensureLaw(id).then(function (r) { if (r) ok++; else failed++; return r; });
+    })).then(function () { return { ok: ok, failed: failed, total: ids.length }; });
+  }
+
   function loadPackOf(lawId) {
     var pack = packFor(lawId);
     if (!pack || pack.kind === 'jurisdiction') return Promise.resolve(false);
@@ -217,6 +227,7 @@
     load: load,
     loadFile: loadFile,
     ensureLaw: ensureLaw,
+    ensureLaws: ensureLaws,
     packFor: packFor,
     loadAll: loadAll,
     entry: entry,

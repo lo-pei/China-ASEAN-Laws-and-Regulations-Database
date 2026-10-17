@@ -294,15 +294,37 @@
     var all = tokens.concat(expansions.map(function (x) { return String(x).toLowerCase(); }));
     var semTitle = countHit(all, titleTok);
     var semTag = countHit(all, tagTok);
-    var semBody = countHit(all, bodyTok);
+
+    /* 正文相关度必须做「单条条文 × 长度归一化」：
+       原写法 `countHit(all, bodyTok)` 统计的是「整部法规命中多少个查询词」，
+       长法规几乎必然全命中 —— 加载分卷后无关长法（个人信息保护法、外国人经营法等）
+       会反超真正相关的法规。改为取「单条条文覆盖查询词的比例」的最大值。 */
+    var qTerms = U().uniq(all.filter(function (t) { return t && t.length >= 2; }));
+    var bestRatio = 0, bestArtByRatio = null;
+    if (bodySearchable && qTerms.length) {
+      law.articles.forEach(function (a) {
+        var toks = U().tokenize(artHit_text(a));
+        if (!toks.length) return;
+        var hitN = 0;
+        for (var qi = 0; qi < qTerms.length; qi++) {
+          if (toks.indexOf(qTerms[qi]) >= 0) hitN++;
+        }
+        if (!hitN) return;
+        /* 覆盖率 ÷ 条文长度惩罚（相对 120 字基准），兼顾「覆盖多」与「够聚焦」 */
+        var ratio = (hitN / qTerms.length) / Math.sqrt(Math.max(1, toks.length / 60));
+        if (ratio > bestRatio) { bestRatio = ratio; bestArtByRatio = a; }
+      });
+    }
+    var semBody = bestRatio ? Math.min(30, bestRatio * 30) : 0;
     var concept = U().uniq(all.filter(function (t) { return bodyTok.indexOf(t) >= 0 || titleTok.indexOf(t) >= 0; })).length;
     if (!semTitle && !semTag && !semBody && concept === 0) return null;
-    score = 3 * semTitle + 2 * semTag + 1 * semBody + 0.5 * Math.min(concept, 12);
+    /* 标题命中权重最高（法规名直接对应问题），正文覆盖率次之 */
+    score = 3 * semTitle + 2 * semTag + semBody + 0.5 * Math.min(concept, 12);
     if (concept) reasons.push('语义概念覆盖 ' + concept + ' 项');
-    if (semBody) reasons.push('相关条文 ' + semBody + ' 处');
+    if (bestRatio) reasons.push('条文覆盖 ' + Math.round(bestRatio * 100) + '%');
     if (expansions.length) reasons.push('跨语言扩展 ' + Math.min(expansions.length, 8) + ' 个同义表达');
     matchedTerms = all;
-    var sh = bodySearchable ? bestArticle(law, all) : null;
+    var sh = bodySearchable ? (bestArticle(law, all) || (bestArtByRatio ? { article: bestArtByRatio, text: artHit_text(bestArtByRatio), score: semBody } : null)) : null;
     return { law: law, score: score, reasons: reasons, snippet: sh ? snippetOf(sh.text, tokens) : lawSnippet(law), hitArticle: sh ? sh.article : null };
   }
 

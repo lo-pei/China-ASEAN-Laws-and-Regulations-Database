@@ -334,6 +334,46 @@ var NON_LEGAL = [
   }
 
   /**
+   * 异步版检索：先同步召回候选法规，再按需加载这些法规的条文分卷，
+   * 然后用带正文的法规重新生成引用。返回与 ask() 同构的自由部分。
+   *
+   * 为什么需要它：库内 18,854 部法规中，默认只有 59 部的条文在内存里，
+   * 其余在分卷中未加载，导致「标题命中但定位不到条文」。
+   * @param question 用户问题
+   * @param opts { searchQuery, packBudget }  packBudget: 最多加载多少部分卷（默认 6）
+   */
+  function retrieveWithPacks(question, opts) {
+    opts = opts || {};
+    var budget = opts.packBudget || 4;
+    var searchQ = String(opts.searchQuery || '').trim() || question;
+    var detected = detectCountries(question);
+    var soloCountry = detected.length === 1 ? detected[0] : null;
+    var countryFilter = soloCountry ? [soloCountry] : [];
+
+    function pass(wide) {
+      S().init();   /* 载入的分卷并入 store 后才能参与正文匹配 */
+      /* 候选挑选需要宽召回：已有条文的法规在语义模式下得分更高，
+         只取 top-12 会全是「已有条文」的法规，导致永远不需要加载分卷。 */
+      var res = CALR.search.run({ q: searchQ, mode: 'semantic', size: wide ? 80 : 12, country: countryFilter });
+      var top = res.items.filter(function (it) { return it.score > 0; });
+      return { top: top, res: res, detected: detected, soloCountry: soloCountry };
+    }
+
+    var first = pass(true);
+    /* 选「值得加载分卷」的候选：库内尚无条文的法规，按得分从前到后取 */
+    var need = [];
+    for (var i = 0; i < first.top.length && need.length < budget; i++) {
+      var law = first.top[i].law;
+      if ((law.articles || []).length) continue;
+      if (CALR.fulltext && CALR.fulltext.packFor && CALR.fulltext.packFor(law.id)) need.push(law.id);
+    }
+    if (!need.length || !CALR.fulltext || !CALR.fulltext.ensureLaws) {
+      return Promise.resolve(pass(false));
+    }
+    return CALR.fulltext.ensureLaws(need).then(function () { return pass(false); });
+  }
+
+  /**
    * 提问：返回结构化答案对象
    * { inScope, question, countries, country, answer:{overview, basis:[], points:[], analysis, background, risk},
    *   citations:[], disclaimer, retrieval:{count, taken, topScore, countryFilter, matchedCurated} }
@@ -707,8 +747,29 @@ var NON_LEGAL = [
     });
   }
 
+  /**
+   * 异步问答：补充载入候选法规的条文后，再用 ask() 的同一套逻辑生成回答。
+   * 与 ask() 返回同构；区别只是引用的条文更可能是真正的实体条文。
+   */
+  function askAsync(question, opts) {
+    opts = opts || {};
+    var qq = String(question || '').trim();
+    if (!qq) return Promise.resolve(ask(question, opts));
+    /* 非法律问题 / 未收录法域这两类不需要加载分卷，直接走同步路径 */
+    if (isNonLegal(qq)) return Promise.resolve(ask(question, opts));
+    if (outOfJurisdiction(qq, detectCountries(qq))) return Promise.resolve(ask(question, opts));
+    if (!CALR.fulltext || !CALR.fulltext.ensureLaws) return Promise.resolve(ask(question, opts));
+
+    var searchQ = String(opts.searchQuery || '').trim() || qq;
+    return retrieveWithPacks(qq, { searchQuery: searchQ, packBudget: opts.packBudget })
+      .then(function () { return ask(question, opts); })
+      .catch(function () { return ask(question, opts); });
+  }
+
   CALR.qa = {
     ask: ask,
+    askAsync: askAsync,
+    retrieveWithPacks: retrieveWithPacks,
     askWithLLM: askWithLLM,
     rewriteQuery: rewriteQuery,
     SYS_PROMPT: SYS_PROMPT,
