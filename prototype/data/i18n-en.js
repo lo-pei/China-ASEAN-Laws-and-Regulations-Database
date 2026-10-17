@@ -781,6 +781,14 @@
   "输入自定义模型 ID": "Enter custom model ID",
   "第{n}处": "(occurrence {n})",
   "第{n}套编号": "(numbering series {n})",
-  "中文关键词": "Chinese keywords"
+  "中文关键词": "Chinese keywords",
+  "历史对话": "History",
+  "新对话": "New chat",
+  "删除对话": "Delete chat",
+  "API 配置": "API settings",
+  "仅保存在当前页面内存中": "Stored in page memory only",
+  "导出 TXT": "Export TXT",
+  "输入法律问题，例如：越南外资企业的最低注册资本要求是什么？": "Ask a legal question, e.g. What is the minimum registered capital for a foreign-invested enterprise in Vietnam?",
+  "本助手仅依据数据库已收录的法规作答；超出收录范围时明确提示「暂未收录相关法规」，不作推测性回答。对话不落盘、不上传服务器。": "Answers are based only on laws indexed in this database; out-of-scope questions are declined without speculation. Conversations are not persisted or uploaded."
 };
 })(typeof window !== 'undefined' ? window : globalThis);

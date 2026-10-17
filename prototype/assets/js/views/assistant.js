@@ -92,6 +92,31 @@
   var history = [];
   var deepAsked = null;   /* 深链 ?q= 只在同一会话内自动提问一次，避免二次渲染重复追问 */
 
+  /* ============ 多会话历史（仅存当前页面内存，刷新即失） ============ */
+  var CONVS = [];          /* [{ id, title, items:[], at }] */
+  var convSeq = 0;
+  var curConvId = 0;
+
+  function newConv(silent) {
+    convSeq++;
+    var c = { id: convSeq, title: '', items: [], at: Date.now() };
+    CONVS.unshift(c);
+    curConvId = c.id;
+    return c;
+  }
+  function curConv() {
+    for (var i = 0; i < CONVS.length; i++) if (CONVS[i].id === curConvId) return CONVS[i];
+    return newConv(true);
+  }
+  function convTitleOf(c) {
+    if (c.title) return c.title;
+    for (var i = 0; i < c.items.length; i++) {
+      var it = c.items[i];
+      if (it.role === 'user' && it.text) return String(it.text).replace(/\s+/g, ' ').slice(0, 22);
+    }
+    return CALR.i18n.t('新对话');
+  }
+
   views.assistant = {
     render: function (main, params, query) {
       var st = S().stats();
@@ -103,31 +128,59 @@
         return (llmCfg.model || '') + ' · ' + (CALR.llm.hostOf(llmCfg.baseUrl) || '');
       }
       main.innerHTML = '' +
-      '<div class="container page">' +
-        /* 左：模型配置（可选）；右：对话区。页面只保留这两块，聚焦「这是一个对话界面」。 */
-        '<div class="layout-sidebar-left is-equal">' +
-          '<aside class="col-filter">' +
-            byokPanel() +
+      '<div class="container container--wide page">' +
+        '<div class="ai-layout">' +
+
+          /* ---------- 左：历史对话 ---------- */
+          '<aside class="ai-history" aria-label="' + esc(t('历史对话')) + '">' +
+            '<div class="ai-history__head">' +
+              '<span class="ai-history__title">' + esc(t('历史对话')) + '</span>' +
+              '<button class="btn btn--outline btn--sm" id="conv-new" type="button" title="' + esc(t('新对话')) + '">＋</button>' +
+            '</div>' +
+            '<div class="ai-history__list" id="conv-list"></div>' +
+            '<div class="ai-history__foot mini muted">' + esc(t('仅保存在当前页面内存中')) + '</div>' +
           '</aside>' +
 
-          '<div>' +
-            '<div class="card">' +
-              '<div class="card__head">' +
-                '<h3 class="card__title">' + esc(t('对话')) + '</h3>' +
-                '<span class="tag tag--gold" style="margin-left:auto">' + esc(t('AI 辅助生成，仅供参考')) + '</span>' +
-                '<button class="btn btn--ghost btn--sm" id="export-chat">' + esc(t('导出对话（TXT）')) + '</button>' +
-                '<button class="btn btn--ghost btn--sm" id="clear-chat">' + esc(t('清空对话')) + '</button>' +
+          /* ---------- 右：对话 ---------- */
+          '<section class="ai-main">' +
+            '<div class="ai-main__head">' +
+              '<div class="ai-main__title">' +
+                CALR.ui.icon('chat') +
+                '<span>' + esc(t('AI 法律问答')) + '</span>' +
+                '<span class="tag tag--gold">' + esc(t('AI 辅助生成，仅供参考')) + '</span>' +
               '</div>' +
-              '<div class="card__body">' +
-                '<div class="chat" id="chat">' + introBubble() + '</div>' +
-                '<div class="chat-input">' +
-                  '<textarea id="q-input" rows="2" placeholder="' + esc(t('用自然语言提问，例如：越南外资企业的最低注册资本要求是什么？')) + '" aria-label="' + esc(t('输入问题')) + '"></textarea>' +
-                  '<button class="btn" id="ask-btn">' + esc(t('提问')) + '</button>' +
-                '</div>' +
-                '<p class="mini muted" style="margin:8px 0 0">' + esc(t('提示：本助手仅依据数据库已收录的法规作答；超出收录范围时明确提示“暂未收录相关法规”，不作推测性回答。')) +
-                  ' ' + esc(t('对话仅保存在当前页面内存中，刷新或关闭即消失、不上传任何服务器；如需留存请点「导出对话（TXT）」。')) + '</p>' +
+              '<div class="ai-main__actions">' +
+                '<button class="btn btn--outline btn--sm" id="byok-open" type="button">' +
+                  '<span id="byok-dot" class="ai-dot' + (llmOn ? ' is-on' : '') + '"></span>' +
+                  esc(t('API 配置')) +
+                  '<span class="ai-main__state" id="byok-state">' + esc(llmOn ? t('已启用') : t('未启用')) + '</span>' +
+                '</button>' +
+                '<button class="btn btn--ghost btn--sm" id="export-chat" type="button">' + esc(t('导出 TXT')) + '</button>' +
               '</div>' +
             '</div>' +
+            '<div class="ai-main__body">' +
+              '<div class="chat" id="chat"></div>' +
+              '<div class="ai-composer">' +
+                '<textarea id="q-input" rows="2" placeholder="' + esc(t('输入法律问题，例如：越南外资企业的最低注册资本要求是什么？')) + '" aria-label="' + esc(t('输入问题')) + '"></textarea>' +
+                '<button class="btn ai-composer__send" id="ask-btn" type="button" title="' + esc(t('提问')) + '">' +
+                  CALR.ui.icon('send') + '<span>' + esc(t('提问')) + '</span></button>' +
+              '</div>' +
+              '<p class="ai-disclaimer mini muted">' +
+                esc(t('本助手仅依据数据库已收录的法规作答；超出收录范围时明确提示「暂未收录相关法规」，不作推测性回答。对话不落盘、不上传服务器。')) +
+              '</p>' +
+            '</div>' +
+          '</section>' +
+        '</div>' +
+
+        /* ---------- API 配置弹窗 ---------- */
+        '<div class="ai-modal" id="byok-modal" hidden>' +
+          '<div class="ai-modal__mask" id="byok-mask"></div>' +
+          '<div class="ai-modal__panel" role="dialog" aria-modal="true" aria-label="' + esc(t('API 配置')) + '">' +
+            '<div class="ai-modal__head">' +
+              '<span>' + esc(t('API 配置') ) + '</span>' +
+              '<button class="ai-modal__x" id="byok-close" type="button" aria-label="' + esc(t('关闭')) + '">×</button>' +
+            '</div>' +
+            '<div class="ai-modal__body">' + byokPanel() + '</div>' +
           '</div>' +
         '</div>' +
       '</div>';
@@ -137,6 +190,86 @@
       /* 会话历史（history）是唯一数据源；每次变更都从 history 重绘整个对话区。
          这样即使期间发生过页面重渲染（如切换语言、深链二次渲染），
          答案也不会写进已被替换掉的旧 DOM 节点里。 */
+      /* 当前会话的 items 就是 chat 的唯一数据源 */
+      var history = [];
+      function bindConv(c) { curConvId = c.id; history = c.items; }
+
+      /* 首次进入：建一个空会话 */
+      if (!CONVS.length) newConv(true);
+      bindConv(curConv());
+
+      function renderConvList() {
+        var box = U().$('#conv-list', main);
+        if (!box) return;
+        if (!CONVS.length) { box.innerHTML = ''; return; }
+        box.innerHTML = CONVS.map(function (c) {
+          var on = c.id === curConvId;
+          var n = c.items.length;
+          return '<div class="ai-conv' + (on ? ' is-active' : '') + '" data-conv="' + c.id + '">' +
+            '<span class="ai-conv__title">' + esc(convTitleOf(c)) + '</span>' +
+            '<span class="ai-conv__meta">' + (n ? n + ' ' + esc(t('条')) : '') + '</span>' +
+            '<button class="ai-conv__del" data-conv-del="' + c.id + '" title="' + esc(t('删除对话')) + '" type="button">×</button>' +
+          '</div>';
+        }).join('');
+        U().$$('[data-conv]', box).forEach(function (el) {
+          U().on(el, 'click', function (e) {
+            if (e.target.closest && e.target.closest('[data-conv-del]')) return;
+            var id = parseInt(el.getAttribute('data-conv'), 10);
+            for (var i = 0; i < CONVS.length; i++) if (CONVS[i].id === id) { bindConv(CONVS[i]); break; }
+            renderConvList(); renderChat();
+          });
+        });
+        U().$$('[data-conv-del]', box).forEach(function (el) {
+          U().on(el, 'click', function (e) {
+            e.stopPropagation();
+            var id = parseInt(el.getAttribute('data-conv-del'), 10);
+            CONVS = CONVS.filter(function (c) { return c.id !== id; });
+            if (!CONVS.length) newConv(true);
+            if (!CONVS.some(function (c) { return c.id === curConvId; })) bindConv(CONVS[0]);
+            else bindConv(curConv());
+            renderConvList(); renderChat();
+          });
+        });
+      }
+
+      /* 会话标题随首问更新 */
+      function touchConv() {
+        var c = curConv();
+        if (!c.title) {
+          for (var i = 0; i < c.items.length; i++) {
+            if (c.items[i].role === 'user' && c.items[i].text) {
+              c.title = String(c.items[i].text).replace(/\s+/g, ' ').slice(0, 22);
+              break;
+            }
+          }
+        }
+        c.at = Date.now();
+        renderConvList();
+      }
+
+      U().on(U().$('#conv-new', main), 'click', function () {
+        newConv();
+        bindConv(curConv());
+        renderConvList(); renderChat();
+        var inp = U().$('#q-input', main); if (inp) inp.focus();
+      });
+
+      /* ---------- API 配置弹窗 ---------- */
+      function byokOpen(open) {
+        var m = U().$('#byok-modal', main);
+        if (!m) return;
+        m.hidden = !open;
+        document.body.classList.toggle('no-scroll', !!open);
+        if (open) { var c = U().$('#byok-close', main); if (c) c.focus(); }
+      }
+      U().on(U().$('#byok-open', main), 'click', function () { byokOpen(true); });
+      U().on(U().$('#byok-close', main), 'click', function () { byokOpen(false); });
+      var bmask = U().$('#byok-mask', main);
+      if (bmask) U().on(bmask, 'click', function () { byokOpen(false); });
+      U().on(document, 'keydown', function (e) {
+        if (e.key === 'Escape') { var m = U().$('#byok-modal', main); if (m && !m.hidden) byokOpen(false); }
+      });
+
       function chatEl() { return U().$('#chat', main); }
       function renderChat() {
         var el = chatEl();
@@ -145,6 +278,7 @@
         el.scrollIntoView({ block: 'end' });
       }
       renderChat();
+      renderConvList();
 
       /** 把最终答案 HTML 分段落依次塞进第 slot 条历史记录，模拟流式呈现。
           中途若发生整页重绘（如切换语言），live 节点会失效，此时跳过动画，
@@ -177,11 +311,15 @@
       U().on(input, 'keydown', function (e) {
         if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); submit(); }
       });
-      U().on(U().$('#clear-chat', main), 'click', function () {
-        history = [];
-        renderChat();
-        U().toast(t('对话已清空'), 'ok');
-      });
+      /* 清空按钮已移到会话列表的删除；此处保留兼容（若存在旧节点） */
+      if (U().$('#clear-chat', main)) {
+        U().on(U().$('#clear-chat', main), 'click', function () {
+          curConv().items.length = 0;
+          history = curConv().items;
+          renderChat(); renderConvList();
+          U().toast(t('对话已清空'), 'ok');
+        });
+      }
 
       /* 导出对话为 TXT（含提问与回答全文；不做任何持久化，仅用户主动导出） */
       U().on(U().$('#export-chat', main), 'click', function () {
@@ -243,7 +381,8 @@
              全部完成后用最终 HTML 替换历史条目。 */
           /* P0：askAsync 会先按需加载候选法规的条文分卷，再生成引用；
              加载期间先占位气泡，避免用户以为没反应。 */
-          var slot = history.length;
+          touchConv();
+        var slot = history.length;
           history.push({
             html: rowHtml('ai',
               '<span class="mini muted">' + esc(t('正在检索并载入相关条文…')) + '</span>', 'qa-live-row'),
@@ -443,7 +582,7 @@
           if (presets[i].baseUrl && cfg.baseUrl.indexOf(presets[i].baseUrl) === 0) { cur = presets[i].id; break; }
         }
       }
-      if (!cur) cur = 'deepseek';   /* 首次打开默认选中第一个预设，模型与地址自动预填 */
+      if (!cur) cur = 'deepseek';
     }
     var defP = null;
     for (var k = 0; k < presets.length; k++) { if (presets[k].id === cur) defP = presets[k]; }
@@ -451,29 +590,33 @@
     var baseVal = cfg.baseUrl || (defP && defP.baseUrl) || '';
     var temp = typeof cfg.temperature === 'number' ? cfg.temperature : 0.2;
 
-    /* 竖向字段：标签在上、控件满宽，适配 248px 左栏 */
+    /* 表单字段：标签在上、控件满宽 */
     function v(label, inner) {
-      return '<label class="small" style="display:block;margin-top:10px">' + esc(t(label)) +
-        '<div style="margin-top:4px">' + inner + '</div></label>';
+      return '<label class="ai-form__field">' + esc(CALR.i18n.t(label)) +
+        '<div class="ai-form__control">' + inner + '</div></label>';
     }
 
-    return '<div class="card" id="byok-panel">' +
-      '<div class="card__head">' +
-        '<h3 class="card__title">' + esc(t('模型增强（可选）')) + '</h3>' +
-        '<span class="tag ' + (on ? 'tag--blue' : 'tag--outline') + '" style="margin-left:auto">' +
-          esc(on ? t('已启用') : t('未启用')) + '</span>' +
+    /* 弹窗内状态行自包含，不依赖 render 作用域的 llmStatus（原实现存在作用域隐雷） */
+    var statusLine = on
+      ? (cfg.model || '') + ' · ' + (CALR.llm.hostOf(cfg.baseUrl) || '')
+      : CALR.i18n.t('本地确定性检索（完全离线）');
+
+    return '<div id="byok-panel">' +
+      '<div class="ai-form__status">' +
+        '<span class="ai-dot' + (on ? ' is-on' : '') + '"></span>' +
+        '<span class="ai-form__status-text">' + esc(statusLine) + '</span>' +
+        '<span class="tag ' + (on ? 'tag--blue' : 'tag--outline') + '">' + esc(on ? CALR.i18n.t('已启用') : CALR.i18n.t('未启用')) + '</span>' +
       '</div>' +
-      '<div class="card__body">' +
-        '<p class="mini muted" style="margin:0">' + esc(t('可选：用您自己的大模型 API Key 提升检索改写与答案组织质量，Token 费用由您自付；数据库与检索仍在本机运行，平台不收费、不记录您的 Key。')) + '</p>' +
-        (on
-          ? '<p class="mini" style="margin:10px 0 0"><b>' + esc(t('当前通道')) + '</b><br>' + esc(llmStatus()) + '</p>' +
-            '<div class="row" style="margin-top:10px">' +
-              '<button class="btn btn--outline btn--sm" id="byok-toggle" type="button">' + esc(t('修改配置')) + '</button>' +
-              '<button class="btn btn--ghost btn--sm" id="byok-off" type="button">' + esc(t('关闭增强')) + '</button>' +
-            '</div>' +
-            '<div id="byok-body" hidden>' + byokForm() + '</div>'
-          : '<div id="byok-body">' + byokForm() + '</div>') +
-      '</div>' +
+      '<p class="mini muted" style="margin:8px 0 14px">' +
+        esc(CALR.i18n.t('可选：用您自己的大模型 API Key 提升检索改写与答案组织质量，Token 费用由您自付；数据库与检索仍在本机运行，平台不收费、不记录您的 Key。')) +
+      '</p>' +
+      (on
+        ? '<div class="row" style="margin-bottom:12px">' +
+            '<button class="btn btn--outline btn--sm" id="byok-toggle" type="button">' + esc(CALR.i18n.t('修改配置')) + '</button>' +
+            '<button class="btn btn--ghost btn--sm" id="byok-off" type="button">' + esc(CALR.i18n.t('关闭增强')) + '</button>' +
+          '</div>' +
+          '<div id="byok-body" hidden>' + byokForm() + '</div>'
+        : '<div id="byok-body">' + byokForm() + '</div>') +
     '</div>';
 
     /** 该厂商模型清单里是否没有这个模型（→ 视为自定义输入） */
