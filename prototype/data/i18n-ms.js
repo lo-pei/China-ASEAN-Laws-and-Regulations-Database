@@ -780,6 +780,7 @@
   "自定义（手动输入）": "Tersuai (masukkan manual)",
   "输入自定义模型 ID": "Masukkan ID model tersuai",
   "第{n}处": "(kejadian {n})",
-  "第{n}套编号": "(siri penomboran {n})"
+  "第{n}套编号": "(siri penomboran {n})",
+  "中文关键词": "Kata kunci Cina"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

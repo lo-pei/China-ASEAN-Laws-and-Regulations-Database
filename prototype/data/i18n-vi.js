@@ -780,6 +780,7 @@
   "自定义（手动输入）": "Tùy chỉnh (nhập thủ công)",
   "输入自定义模型 ID": "Nhập ID mô hình tùy chỉnh",
   "第{n}处": "(lần {n})",
-  "第{n}套编号": "(bộ số {n})"
+  "第{n}套编号": "(bộ số {n})",
+  "中文关键词": "Từ khóa tiếng Trung"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

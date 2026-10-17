@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p06
-   法规 52 部 / 译文 510 条
+   法规 57 部 / 译文 527 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -4994,6 +4994,117 @@
     ]
   };
 
+  TR['CN-JI-0062'] = {
+    "lawId": "CN-JI-0062",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 6 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a person, knowing that a motor vehicle has been obtained through theft, robbery, fraud or forcible seizure, commits any of the following acts, the person shall, in accordance with Article 312 of the Criminal Law, be convicted of the crime of concealing or disguising criminal proceeds or the proceeds derived from criminal proceeds and shall be sentenced to fixed-term imprisonment of not more than three years, criminal detention or public surveillance, and shall also, or shall only, be fined:\n(a) buying or selling it, brokering its sale, pawning it, auctioning it, mortgaging it, or using it to offset a debt;\n(b) dismantling, assembling or reassembling it;\n(c) altering the engine number or the vehicle identification number;\n(d) changing the colour of the vehicle body or the appearance of the vehicle;\n(e) providing or selling the documents of origin, complete vehicle conformity certificate, number plate or other certificates and vouchers relating to the motor vehicle;\n(f) providing or selling forged or altered documents of origin, complete vehicle conformity certificate, number plate or other certificates and vouchers relating to the motor vehicle.\nWhere the acts prescribed in paragraph 1 involve five or more motor vehicles obtained through theft, robbery, fraud or forcible seizure, or the total value reaches 500,000 yuan or more, the circumstances shall constitute \"serious circumstances\" as prescribed in Article 312 of the Criminal Law, and the person shall be sentenced to fixed-term imprisonment of not less than three years and not more than seven years and shall also be fined."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a person forges, alters, buys or sells a motor vehicle driving licence or registration certificate, and the cumulative number reaches three or more, the person shall, in accordance with paragraph 1 of Article 280 of the Criminal Law, be convicted of the crime of forging, altering, buying or selling certificates of a State organ and shall be sentenced to fixed-term imprisonment of not more than three years, criminal detention, public surveillance or deprivation of political rights.\nWhere a person forges, alters, buys or sells a motor vehicle driving licence or registration certificate, and the cumulative number reaches five times or more the quantitative threshold prescribed in paragraph 1, the circumstances shall constitute \"serious circumstances\" as prescribed in paragraph 1 of Article 280 of the Criminal Law, and the person shall be sentenced to fixed-term imprisonment of not less than three years and not more than ten years."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a functionary of a State organ abuses power and any of the following circumstances is present, thereby causing motor vehicles obtained through theft, robbery, fraud or forcible seizure to be processed for registration, and the number reaches three or more or the total value reaches 300,000 yuan or more, the functionary shall, in accordance with paragraph 1 of Article 397 of the Criminal Law, be convicted of the crime of abuse of power and shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention:\n(a) processing registration while knowing that the registration formalities for the motor vehicle are incomplete or do not comply with the provisions;\n(b) instructing another person to process registration for a motor vehicle which the functionary knows has incomplete registration formalities or does not comply with the provisions;\n(c) altering or substituting vehicle files in violation of provisions, or instructing another person to alter or substitute vehicle files in violation of provisions;\n(d) other acts of abuse of power.\nWhere a functionary of a State organ is negligent in examination or conducts examination laxly, thereby causing motor vehicles obtained through theft, robbery, fraud or forcible seizure to be processed for registration, and the number reaches five or more or the total value reaches 500,000 yuan or more, the functionary shall, in accordance with paragraph 1 of Article 397 of the Criminal Law, be convicted of the crime of neglect of duty and shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention.\nWhere a functionary of a State organ commits the acts prescribed in the preceding two paragraphs, thereby causing motor vehicles obtained through theft, robbery, fraud or forcible seizure to be processed for registration, and the number or amount respectively reaches five times or more the quantitative or monetary threshold prescribed in the preceding two paragraphs, or the functionary processes registration while knowing that the motor vehicle has been obtained through theft, robbery, fraud or forcible seizure, the circumstances shall constitute \"especially serious circumstances\" as prescribed in paragraph 1 of Article 397 of the Criminal Law, and the functionary shall be sentenced to fixed-term imprisonment of not less than three years and not more than seven years.\nWhere a functionary of a State organ commits malpractices for personal gain in committing the above acts, which constitutes a crime, the functionary shall be convicted and punished in accordance with paragraph 2 of Article 397 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a person commits the acts prescribed in Article 1, Article 2, or paragraph 1 or paragraph 3 of Article 3 of this Interpretation and has, in advance, conspired with the criminal who committed the theft, robbery, fraud or forcible seizure of the motor vehicle, the person shall be dealt with as an accomplice in the crime of theft, the crime of robbery, the crime of fraud or the crime of forcible seizure."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "With respect to acts of theft, robbery, fraud or forcible seizure involving the same motor vehicle committed across regions, and acts of concealing or disguising criminal proceeds or the proceeds derived from criminal proceeds, the public security organ concerned may, in accordance with the law and the relevant provisions, file the case and conduct investigation in a consolidated manner; where it is necessary to request approval for arrest, transfer the case for review for prosecution or institution of public prosecution, the case shall be accepted by the people's procuratorate and the people's court at the same level in the place where that public security organ is located."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where the acts committed by the person are those prescribed in Article 1 or paragraph 3 of Article 3 of this Interpretation, and the motor vehicle involved is in any of the following circumstances, the person shall be determined to have been \"knowing\" as referred to in the above provisions:\n(a) there is no lawful and valid document of origin;\n(b) the engine number or the vehicle identification number bears obvious traces of alteration and there is no lawful certification."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0067'] = {
+    "lawId": "CN-JI-0067",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Persons who had gone to Taiwan shall no longer be prosecuted for crimes committed after the founding of the People's Republic of China and before the establishment of the local people's power at the place where the crime was committed."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where persons who had gone to Taiwan committed crimes after the founding of the People's Republic of China and before the establishment of the local people's power at the place where the crime was committed, and the crimes continued or persisted until after the establishment of the local people's power, the period of prosecution shall be calculated from the date on which the criminal act ended. Where the provisions of Article 76 of the Criminal Law of the People's Republic of China are met, they shall no longer be prosecuted. Where the maximum penalty prescribed by law is life imprisonment or the death penalty, they shall no longer be prosecuted once 20 years have elapsed. Where prosecution is considered necessary, it shall be subject to approval by the Supreme People's Procuratorate."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "With respect to persons from regions other than Taiwan and from other countries who committed crimes before the founding of the People's Republic of China, or after the founding of the People's Republic of China and before the establishment of the local people's power at the place where the crime was committed, the matter shall be handled respectively in accordance with the spirit of the Announcement of the Supreme People's Court and the Supreme People's Procuratorate on No Longer Prosecuting Persons Who Had Gone to Taiwan for Criminal Acts Committed Before the Founding of the People's Republic of China and the provisions of Article 1 and Article 2 of this Announcement."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0068'] = {
     "lawId": "CN-JI-0068",
     "sourceLang": "zh",
@@ -5085,6 +5196,123 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0073'] = {
+    "lawId": "CN-JI-0073",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 2 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "As to whether criminal responsibility shall be pursued for the act of producing, reproducing, selling or disseminating obscene electronic information for the purpose of profit by using online cloud storage, the relevant provisions of the Criminal Law and of the Interpretation of the Supreme People's Court and the Supreme People's Procuratorate on Several Issues concerning the Specific Application of Law in the Handling of Criminal Cases of Producing, Reproducing, Publishing, Selling or Disseminating Obscene Electronic Information through the Internet, Mobile Communication Terminals and Audio Information Stations (Fa Shi No. 11 [2004]) and of the Interpretation (II) of the Supreme People's Court and the Supreme People's Procuratorate on Several Issues concerning the Specific Application of Law in the Handling of Criminal Cases of Producing, Reproducing, Publishing, Selling or Disseminating Obscene Electronic Information through the Internet, Mobile Communication Terminals and Audio Information Stations (Fa Shi No. 3 [2010]) shall apply."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "In pursuing criminal responsibility for the act of producing, reproducing, selling or disseminating obscene electronic information for the purpose of profit by using online cloud storage, given the characteristics of online cloud storage, the quantity of the obscene electronic information produced, reproduced, sold or disseminated shall not be considered alone; full consideration shall also be given to such circumstances as the scope of dissemination, the illegal gains, the consistent conduct of the actor, and whether the obscene electronic information or the persons to whom it is disseminated involve minors, so that the social harm is comprehensively assessed, sentencing discretion is properly exercised, and the punishment is ensured to match the crime and the responsibility.\nThis is our reply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0074'] = {
+    "lawId": "CN-JI-0074",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 2 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In deciding whether to pursue criminal responsibility and how to exercise sentencing discretion in respect of the act of illegally manufacturing, buying or selling, transporting, mailing, storing, possessing, keeping privately or smuggling firearms that are powered by compressed gas and have a relatively low muzzle specific kinetic energy, consideration shall be given not only to the number of firearms involved, but also, in full, to such circumstances as the appearance, materials, projectiles, place and channel of purchase, price, use and injurious force of the firearms involved, whether they are easy to modify so as to enhance their injurious force, and the subjective knowledge, motive and purpose, consistent conduct, illegal gains and whether the investigation was evaded on the part of the actor, so that the social harm is comprehensively assessed, the unity of the subjective and the objective is adhered to, and the punishment is ensured to match the crime and the responsibility."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "In deciding whether to pursue criminal responsibility and how to exercise sentencing discretion in respect of the act of illegally manufacturing, buying or selling, transporting, mailing, storing, possessing, keeping privately or smuggling lead pellets for air guns, comprehensive consideration shall be given to such circumstances as the quantity and use of the lead pellets and the motive and purpose, consistent conduct, illegal gains and whether the investigation was evaded on the part of the actor, so that the social harm is comprehensively assessed and the punishment is ensured to match the crime and the responsibility.\nThis is our reply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0077'] = {
+    "lawId": "CN-JI-0077",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "A judicial interpretation is an interpretation, with the force of law, made by the Supreme People's Court on the specific application of law in trial work and by the Supreme People's Procuratorate on the specific application of law in procuratorial work; it shall come into force on the date of promulgation or on the date prescribed therein, and its effect shall extend to the period during which the law is in force."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where an act was committed before a judicial interpretation came into force and there was no relevant judicial interpretation at the time of the act, cases that have not yet been handled or are being handled after the judicial interpretation comes into force shall be handled in accordance with the provisions of the judicial interpretation."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where an act was committed before a new judicial interpretation came into force and a relevant judicial interpretation was already in existence at the time of the act, the matter shall be handled in accordance with the judicial interpretation in force at the time of the act; however, where the application of the new judicial interpretation is more favourable to the suspect or the defendant, the new judicial interpretation shall apply."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a case was concluded before a judicial interpretation came into force and there is no error in the determination of facts or in the application of law according to the law and the judicial interpretation in force at that time, the case shall not be altered again."
+        },
+        "noLabel": {
+          "en": "Article 4."
         }
       }
     ]

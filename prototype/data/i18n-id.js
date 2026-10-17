@@ -780,6 +780,7 @@
   "自定义（手动输入）": "Kustom (masukkan manual)",
   "输入自定义模型 ID": "Masukkan ID model kustom",
   "第{n}处": "(kemunculan {n})",
-  "第{n}套编号": "(seri penomoran {n})"
+  "第{n}套编号": "(seri penomoran {n})",
+  "中文关键词": "Kata kunci Mandarin"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p05
-   法规 14 部 / 译文 796 条
+   法规 18 部 / 译文 811 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -77,6 +77,99 @@
     ]
   };
 
+  TR['CN-JI-0011'] = {
+    "lawId": "CN-JI-0011",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In this city, the temples and Taoist temples, whether or not they currently conduct religious activities, were for the most part built with donations from the people. Therefore, apart from a few small temples that were genuinely built or purchased with private capital contribution and may still be privately owned, the other buildings shall by their nature be public property, and their ownership shall vest in the religious organisations, namely the municipal Buddhist Association and the municipal Taoist Association. Monks, nuns and Taoist priests generally have the right of use, but none of them shall be entitled to sell, mortgage or give away such buildings to one another. No unit using or occupying the buildings, or any other organ or organisation, may arbitrarily change their ownership; they shall implement the policy in the spirit of Document Zhong Fa No. 22 [1980] of the Central Committee of the Communist Party of China and the State Council and Document Guo Fa No. 188 [1980] of the State Council, and return the ownership to the respective religious organisations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Temples and Taoist temples in rural areas, although during land reform they were registered by monks, nuns or Taoist priests individually or collectively and certificates of ownership of the buildings were obtained, shall be dealt with separately according to the specific circumstances: that is, where before land reform (or at the time of land reform) some temples or Taoist temples had already ceased religious activities and their monks, nuns or Taoist priests had already changed occupations and returned to secular life, they no longer fall within the scope of temples and Taoist temples. However, in accordance with subparagraph 5 of Article 13 of the Land Reform Law, where the buildings were registered by such monks, nuns or Taoist priests, the ownership of the buildings may respectively belong to the original registrants personally, and their statutory successors shall be permitted to inherit.\nWhere, at the time of land reform, the temples or Taoist temples were still conducting religious activities and the monks, nuns or Taoist priests were still engaged in the religious profession, although during land reform the monks, nuns or Taoist priests came forward to register and obtained certificates of ownership, this shall be regarded as registration in their capacity as managers; the buildings shall remain public property and shall not be treated as their private property."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For temples and Taoist temples in urban districts and towns that had ceased religious activities after liberation, and for rural temples and Taoist temples that ceased religious activities only after land reform, where the monks and nuns have changed occupations, the temple buildings in which they originally lived may continue to be used; where the monks, nuns or Taoist priests who changed occupations have died, the family members in cohabitation with them may still be given consideration and continue to reside there, but shall not assert ownership."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where it is genuinely necessary for production and construction to requisition temples or Taoist temples and their buildings and land for demolition, reconstruction or alteration, the approval and consent of the Religious Affairs Bureau shall be obtained, and the matter shall be handled separately in accordance with the provisions of the measures of this city for the requisition of land and the demolition of buildings and on the basis of their original ownership or right of use, and the requisitioning unit shall settle it through direct consultation with the religious affairs department and the religious organisations concerned. Where the temple or Taoist temple buildings in which monks, nuns or Taoist priests who have changed occupations live and which they use are in danger of collapse owing to long neglect and need to be rebuilt, approval shall also be requested from the municipal Religious Affairs Bureau, and an application for compensation procedures shall be made to the religious organisation.\nThe above opinions are submitted for your reply as to whether they are appropriate.\n27 January 1981\nFa Min Zi No. 2 [81]\nZong Fa Zi No. 16 [81]\n11 November 1980\nHu Gao Fa Min Zi No. 44 [80]\nHu Zong Qing Zi No. 41 [80]\n11 November 1980\nHu Gao Fa Min Zi No. 44 [80]\nHu Zong Qing Zi No. 41 [80]"
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0012'] = {
+    "lawId": "CN-JI-0012",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where the judicial personnel, enforcement personnel and judicial police of a maritime court need to board a foreign vessel in the course of handling a case, they shall board the vessel on the production of the Certificate for the Performance of Official Duties issued by the president of the maritime court and wearing the court uniform prescribed by the State; interpreters and appraisers who board the vessel together with the case-handling personnel shall board the vessel on the production of a notice from the maritime court. The maritime court shall notify the border inspection station of the time of boarding and the number of persons boarding in advance.\nThe Certificate for the Performance of Official Duties shall be used within its period of validity."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a maritime court boards a foreign vessel to handle a case at an inland river port open to foreign vessels, the above provisions shall be applied mutatis mutandis."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The case-handling personnel, interpreters and appraisers of a maritime court who board a foreign vessel must strictly comply with the Rules of Conduct for Personnel Boarding Foreign Vessels approved by the State Council in document Guo Fa [1981] No. 99.\nThis is hereby notified, and compliance therewith is expected.\nAttachment: specimen of the Certificate for the Performance of Official Duties of a maritime court."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0014'] = {
     "lawId": "CN-JI-0014",
     "sourceLang": "zh",
@@ -96,6 +189,108 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0015'] = {
+    "lawId": "CN-JI-0015",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 2 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where the Supreme People's Court, the Supreme People's Procuratorate and the Ministry of Public Security find that a people's court, people's procuratorate or public security organ at any local level has erred in freezing, unfreezing or deducting the deposits of a relevant unit in a bank or non-bank financial institution, or where a people's court, people's procuratorate or public security organ at a higher level finds that a people's court, people's procuratorate or public security organ at a lower level has erred in freezing, unfreezing or deducting the deposits of a relevant unit in a bank or non-bank financial institution, they may, in accordance with statutory procedure, make a decision or ruling and serve it on the relevant court, procuratorate or public security organ at the corresponding local level or at a lower level within their own system, requiring correction within a time limit. The court, procuratorate or public security organ concerned shall carry it out immediately."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where the court, procuratorate or public security organ concerned considers that a decision or ruling of a higher-level organ is erroneous, it may, within 5 days from the date of receipt of the decision or ruling, request reconsideration by the people's court, people's procuratorate or public security organ that made the decision or ruling. Where the Supreme People's Court, the Supreme People's Procuratorate and the Ministry of Public Security, or a people's court, people's procuratorate or public security organ at a higher level, after review, considers that the grounds for the request for reconsideration cannot be sustained, it shall be entitled in accordance with law to issue a legal document directly to the bank concerned, correct the erroneous decision made by the organ at the lower level within its own system, and notify the organ that originally made the decision; upon receipt of such legal document, the bank or non-bank financial institution concerned shall handle the matter immediately without delay, and need not obtain the consent of the organ that originally made the decision."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0016'] = {
+    "lawId": "CN-JI-0016",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 6 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 22,
+        "text": {
+          "en": "Paragraph 1: A joint crime refers to an intentional crime committed jointly by two or more persons."
+        },
+        "noLabel": {
+          "en": "Article 22."
+        }
+      },
+      {
+        "no": 23,
+        "text": {
+          "en": "Whoever organises or leads a criminal group in committing criminal activities, or plays a principal role in a joint crime, is a principal offender.\nA principal offender shall be given a heavier punishment, except where otherwise provided in the Specific Provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 23."
+        }
+      },
+      {
+        "no": 24,
+        "text": {
+          "en": "Whoever plays a secondary or auxiliary role in a joint crime is an accessory.\nAn accessory shall be given a lighter or mitigated punishment, or be exempted from punishment, by reference to a principal offender."
+        },
+        "noLabel": {
+          "en": "Article 24."
+        }
+      },
+      {
+        "no": 25,
+        "text": {
+          "en": "Where a person is coerced or inveigled into participating in a crime, a mitigated punishment or exemption from punishment shall, in the light of the circumstances of that person's crime, be given by reference to an accessory."
+        },
+        "noLabel": {
+          "en": "Article 25."
+        }
+      },
+      {
+        "no": 26,
+        "text": {
+          "en": "Paragraph 1: Whoever instigates another person to commit a crime shall be punished according to the role that person plays in the joint crime. Whoever instigates a person under the age of 18 to commit a crime shall be given a heavier punishment.\nRelevant provisions of Chapter V, \"Other Provisions\", of the Criminal Law of the People's Republic of China:"
+        },
+        "noLabel": {
+          "en": "Article 26."
+        }
+      },
+      {
+        "no": 86,
+        "text": {
+          "en": "As used in this Law, \"ringleader\" means an offender who plays a role of organising, planning or directing in a criminal group or in a crime committed by gathering a crowd.\n1. How are cases of gang crime handled?\nMajor cases of gang crime shall be handled under the guidance of the guidelines and policies of the Communist Party of China and in accordance with the Criminal Law and the relevant provisions of the Decision of the Standing Committee of the National People's Congress on Severely Punishing Criminals Who Seriously Endanger Public Security. In view of the fact that the Criminal Law and the relevant decisions of the Standing Committee of the National People's Congress contain only provisions on joint crime and criminal groups, the terminology prescribed by law shall be used uniformly in legal documents. That is to say:\nIn handling cases of gang crime, where the case conforms to the basic characteristics of a criminal group, it shall be handled as a criminal group; where it does not conform to the basic characteristics of a criminal group, it shall be handled as an ordinary joint crime, and, in accordance with the facts and circumstances of that joint crime, a heavy sentence shall be imposed where a heavy sentence is warranted and a light sentence shall be imposed where a light sentence is warranted.\nCriminal gangs shall be firmly combated, and such combat must also be accurate. Cases of joint crime by three or more persons in which the crimes are relatively minor and the harm relatively small shall not be treated as criminal gangs and then severely combated as \"criminal groups\".\n2. How is a criminal group identified in the practice of handling cases?\nA criminal group shall generally have the following basic characteristics: (a) a relatively large number of members (three or more), with the key members fixed or basically fixed; (b) frequently gathering together to carry out one or several types of serious criminal activities; (c) an obvious ringleader, some ringleaders being formed in the course of gathering while some are the organiser and leader from the outset of the gathering; (d) carrying out criminal activities with premeditation; and (e) serious harm to society or serious dangerousness, regardless of the number of offences committed.\nThe ringleader of a criminal group means the offender who plays a role of organising, planning or directing in that group (see Articles 23 and 86 of the Criminal Law). There may be one ringleader, or more than one. The ringleader shall be responsible for all the crimes of the group that were premeditated and jointly intended. The other members of the group shall, according to their status and role, be separately responsible for the specific crimes in which they participated. If a member commits another crime outside the scope of the joint intentional crimes of the group, that member shall be personally responsible for it.\nA single criminal group shall be characterised according to the crime it has committed; where a criminal group has committed several crimes, it shall be characterised according to its principal crime; where members of a criminal group, or accomplices in an ordinary joint crime, have committed several crimes, they shall be punished separately in accordance with the principle of combined punishment for several crimes.\n3. Why must cases of joint crime be tried as a whole?\nIn handling joint crime cases, especially group crime cases, except that members who have fled may be dealt with in separate proceedings, the facts of the whole case must be clarified, and then the persons in the same case whose criminal responsibility should be pursued shall be prosecuted and adjudged as a whole case. Do not, before the facts of the whole case have been clarified, be eager to execute the ringleader or principal offender, or split the case and handle it in separate parts. To do so may not only lead to inaccurate characterisation of crimes and inappropriate sentencing, but may also mean that once the offender is dead there is no evidence to verify the facts, so that the crimes of the persons in the same case, or even the offenders themselves, are easily overlooked, making it difficult to achieve the lawful \"severe and swift punishment and catching all in one net\".\n4. In handling major cases involving criminal groups and ordinary joint crime, how are Party policies implemented so as to treat the cases differently?\nIn handling the above two categories of cases, different treatment shall be applied in accordance with the status, role and degree of harm of the offenders in the criminal activities, and in accordance with Party policies and the provisions of the Criminal Law and the relevant decisions of the Standing Committee of the National People's Congress.\nThe ringleaders and other principal offenders of criminal groups, and the principal offenders in major cases of ordinary joint crime, shall be severely punished to a heavier degree in accordance with the law; among them, those whose crimes are especially serious and who cannot satisfy public anger unless executed shall be sentenced to the death penalty in accordance with the law.\nAccessories in the above two categories of cases shall, according to their different criminal circumstances, be given a lighter or mitigated punishment or be exempted from punishment in accordance with the law by reference to the principal offender. Coerced offenders shall, in accordance with the law, be given a mitigated punishment or exemption from punishment by reference to an accessory. Where the circumstances of the crime are minor and criminal responsibility need not be pursued, exemption from prosecution may be granted or the public security department may deal with the matter otherwise.\nPersons who have ordinary dealings with members of a criminal group but have committed no criminal act shall not be implicated.\n5. Where some offenders have participated in several joint criminal activities, how are these cases handled?\nSuch cases shall be adjudged separately and shall not be pieced together and handled as one case. An offender shall be included in the case in which that offender mainly participated in the joint criminal activity (in the other cases in which that offender participated, it may be noted that the offender has been dealt with separately)."
+        },
+        "noLabel": {
+          "en": "Article 86."
         }
       }
     ]

@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p11
-   法规 16 部 / 译文 16 条
+   法规 27 部 / 译文 46 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -32,6 +32,81 @@
     ]
   };
 
+  TR['CN-JI-0441'] = {
+    "lawId": "CN-JI-0441",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The term lighter punishment as provided in Article 12 of the Criminal Law means that the punishment prescribed by the Criminal Law for a certain crime, namely the statutory punishment, is lighter than that under the Criminal Law before amendment. A lighter statutory punishment means that the maximum statutory punishment is lighter; where the maximum statutory punishment is the same, it means that the minimum statutory punishment is lighter."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where the Criminal Law prescribes only one range of statutory punishment for a certain crime, the maximum or minimum statutory punishment means the maximum or minimum punishment of that range of statutory punishment; where the Criminal Law prescribes two or more ranges of statutory punishment for a certain crime, the maximum or minimum statutory punishment means the maximum or minimum punishment of the range of statutory punishment that should be applied to the specific criminal act."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a criminal case that occurred before 30 September 1997 is tried after 1 October 1997 and the standards for conviction and punishment and the statutory punishment prescribed by the Criminal Law are the same as those under the Criminal Law before amendment, the Criminal Law before amendment shall apply."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0443'] = {
+    "lawId": "CN-JI-0443",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 2 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where the Supreme People's Court, in accordance with Article 239 of the Criminal Procedure Law of the People's Republic of China and Article 353 of the Interpretation of the Supreme People's Court on the Application of the Criminal Procedure Law of the People's Republic of China, has ruled not to approve the death penalty and has remanded the case to the people's court of second instance for retrial, the case shall in principle not be remanded again to the people's court of first instance for retrial, regardless of whether the people's court of second instance had previously remanded the case for retrial on the ground that the facts in the original judgment were unclear or the evidence was insufficient; where, under special circumstances, it is truly necessary to remand the case to the people's court of first instance for retrial, approval shall be sought from the Supreme People's Court."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where the Supreme People's Court has ruled not to approve the death penalty and has remanded the case to the people's court of second instance for retrial, and the people's court of second instance, in the light of the special circumstances of the case, remands the case again to the people's court of first instance for retrial, then after the people's court of first instance has made a judgment, if the defendant appeals or the people's procuratorate lodges a protest, the people's court of second instance shall make a judgment or ruling in accordance with the law and shall not remand the case for retrial again.\nThis is our reply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0446'] = {
     "lawId": "CN-JI-0446",
     "sourceLang": "zh",
@@ -51,6 +126,39 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0449'] = {
+    "lawId": "CN-JI-0449",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 2 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "After accepting an application by a party for pre-litigation property preservation, a people's court shall, in accordance with the amount of the subject matter of the pre-litigation property preservation and by reference to the provisions of the Civil Procedure Law of the People's Republic of China on hierarchical jurisdiction and exclusive jurisdiction, decide to take pre-litigation property preservation measures."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a people's court that has taken property preservation measures, after accepting the applicant's filing of a lawsuit, finds that the case accepted does not fall within its own jurisdiction, it shall transfer the case together with the application fee for property preservation to the people's court having jurisdiction.\nAfter the case is transferred, the ruling on pre-litigation property preservation shall remain valid.\nThe expenses actually incurred in enforcing the ruling on pre-litigation property preservation shall be refunded, out of the application fee, by the people's court to which the lawsuit is filed to the people's court that made the pre-litigation property preservation.\nThis is our reply."
+        },
+        "noLabel": {
+          "en": "Article 2."
         }
       }
     ]
@@ -104,6 +212,99 @@
     ]
   };
 
+  TR['CN-JI-0459'] = {
+    "lawId": "CN-JI-0459",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "With regard to the procedure for people's courts of China to serve civil and commercial judicial documents in member States of the Hague Service Convention, express provisions are already contained in the Notice on the Relevant Procedures for Implementing the Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters, Wai Fa No. 8 [1992], issued by the Supreme People's Court, the Ministry of Foreign Affairs and the Ministry of Justice, and in the Notice on Issuing the Measures for Implementing the Hague Service Convention, Si Fa Tong No. 093 [1992], namely: where a court of China requests a member State of the Convention to serve civil or commercial judicial documents on a citizen of that State, on a citizen of a third State or on a stateless person, the intermediate people's court or the specialised people's court concerned shall send the request and the judicial documents to be served to the higher people's court concerned for transmission to the Supreme People's Court, and the Supreme People's Court shall send them to the Ministry of Justice for transmission to the central authority designated by that State; where necessary, the Supreme People's Court may also send them to the embassy of China in that State for transmission to the central authority designated by that State. Where a court of China serves civil or commercial judicial documents on a Chinese citizen in a member State of the Convention, it may entrust the embassy or consulate of China in that State to effect service on its behalf. The letter of entrustment and the judicial documents to be served shall be sent by the intermediate people's court or the specialised people's court concerned to the higher people's court concerned for transmission to the Supreme People's Court, and the Supreme People's Court shall send them directly, or through the Ministry of Justice, to the embassy or consulate of China in that State for service on the party. The certificate of service shall be returned to the requesting court through the original channel."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where an embassy or consulate that has received judicial documents entrusted by a court of China for service finds that the requesting court has followed a service procedure in violation of the provisions, or that the format of the judicial documents is not standard or the address is not sufficiently detailed, so that service cannot be completed, it shall explain the reasons by letter and promptly return the judicial documents to the court that originally requested service."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where Chinese citizens, one or both of whom reside in a foreign country, file lawsuits in respect of the same case separately with a court of China and with a foreign court, regardless of the cause of action, and the case has been accepted, is being tried, or has been adjudged by a court of China, the question of recognition and enforcement by a people's court of the judgment of the foreign court does not arise. Within the territory of China, a legally effective judgment of a court of China, or a judgment of a foreign court recognised by a ruling of a court of China, shall be binding on the parties."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "With regard to the question, raised in the letter of request for instructions from the Consulate-General of China in New York, of how the requesting court should be replied to where the judicial documents were served on the party by post and the party failed to return the receipt of service in a timely manner, our opinion is that the matter shall still be handled in accordance with the provisions of Articles 3, 4 and 5 of the Explanatory Note on Several Issues concerning the Service of Judicial Documents, Ling Wu Han No. 12 [1991], of the Consular Department of the Ministry of Foreign Affairs. Where an embassy or consulate has served litigation documents by post in the receiving State and, after a certain period (to be determined by the embassy or consulate in light of the specific circumstances, for example, within one month), the receipt of service, acknowledgement of receipt or the like has not been returned, but the circumstances are sufficient to establish that service has been effected, the embassy or consulate may set out the circumstances in a letter of reply to the requesting court, and the requesting court shall determine the date of service in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0461'] = {
+    "lawId": "CN-JI-0461",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "As to the question of the scope of application. After soliciting the opinions of the financial regulatory authorities, the seven categories of local financial organisations supervised by local financial regulatory authorities, namely micro-credit companies, financing guarantee companies, regional equity markets, pawnshops, financial leasing companies, commercial factoring companies and local asset management companies, are financial institutions established with the approval of financial regulatory authorities, and the new judicial interpretation on private lending shall not apply to disputes arising from their conduct of the relevant financial business."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The other two questions have already been clarified in the revised judicial interpretation; please comply with and implement it accordingly."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "This reply shall come into force on 1 January 2021."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0462'] = {
     "lawId": "CN-JI-0462",
     "sourceLang": "zh",
@@ -147,6 +348,39 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0466'] = {
+    "lawId": "CN-JI-0466",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 2 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a functionary of an administrative organ causes injury or death to a person in the performance of duties and the act constitutes a crime, and the victim or the victim's relatives bring an action for criminal incidental civil compensation, the people's court shall not accept the claim for civil compensation. However, they shall be informed that they may, in accordance with the relevant provisions of the State Compensation Law of the People's Republic of China, bring an action for administrative compensation before the people's court."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For cases of this kind that occurred before this reply was promulgated, where the people's court has already handled the matter as criminal incidental civil compensation and the victim or the victim's relatives subsequently bring an action for administrative compensation, the people's court shall not accept it.\nThis is our reply."
+        },
+        "noLabel": {
+          "en": "Article 2."
         }
       }
     ]
@@ -272,6 +506,123 @@
     ]
   };
 
+  TR['CN-JI-0485'] = {
+    "lawId": "CN-JI-0485",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where one or both parties are Hong Kong or Macao invested enterprises registered and established in Shenzhen or Zhuhai of the Guangdong-Hong Kong-Macao Greater Bay Area, and they have by agreement chosen the law of the Hong Kong Special Administrative Region or the law of the Macao Special Administrative Region as the law applicable to the contract and asserted the application of that law in litigation, the people's court shall uphold the choice where, upon review, it considers that the choice does not violate the mandatory provisions of national law and does not damage the public interest of society."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where one or both parties are Hong Kong or Macao invested enterprises registered and established in the nine mainland cities of the Guangdong-Hong Kong-Macao Greater Bay Area, and they have agreed that the Hong Kong Special Administrative Region or the Macao Special Administrative Region shall be the place of arbitration, and a party applies to the people's court to confirm that the arbitration agreement is invalid on the ground that the dispute involved does not have a Hong Kong or Macao element, the people's court shall not uphold the application.\nWhere a party submits the dispute to arbitration as agreed and, after the relevant award is made, one party asserts that recognition and enforcement of the arbitral award should not be granted on the ground that the dispute involved does not have a Hong Kong or Macao element and that the arbitration agreement is invalid, the people's court shall not uphold the assertion."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The \"Hong Kong invested enterprise\" and \"Macao invested enterprise\" mentioned in this reply refer to enterprises established by registration in the mainland in accordance with law and invested in wholly or partly by natural persons, enterprises or other organisations of the Hong Kong Special Administrative Region or of the Macao Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0486'] = {
+    "lawId": "CN-JI-0486",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a convict sentenced to fixed-term imprisonment with an additional deprivation of political rights has completed the principal penalty and commits a new crime during the execution of the supplementary penalty of deprivation of political rights, and the new crime does not require an additional deprivation of political rights, combined punishment for several crimes shall be imposed in accordance with Article 71 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The term of the supplementary penalty of deprivation of political rights not yet completed for the previous crime shall cease to be calculated from the date on which the principal penalty of fixed-term imprisonment for the new crime begins to be executed, and shall, in accordance with Article 58 of the Criminal Law, continue to be calculated from the date on which the principal penalty of fixed-term imprisonment for the new crime has been completed or from the date of parole; the effect of the supplementary penalty of deprivation of political rights shall apply during the execution of the principal penalty for the new crime."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a convict sentenced to fixed-term imprisonment has completed the principal penalty and commits a new crime during the execution of the supplementary penalty of deprivation of political rights, and the new crime also carries deprivation of political rights, combined punishment shall be imposed in accordance with Articles 55, 57 and 71 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0487'] = {
+    "lawId": "CN-JI-0487",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 2 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a people's court calculates \"interest on the debt for the period of delayed performance\" in accordance with Article 229 of the Civil Procedure Law of the People's Republic of China, it shall calculate it at the benchmark lending rate for the corresponding period prescribed by the People's Bank of China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where the enforcement funds are insufficient to satisfy the entire debt, the monetary debt determined by the legal document and the interest on the debt for the period of delayed performance shall be discharged proportionally in accordance with the principle of concurrent repayment, unless the parties have agreed otherwise on the order of discharge in an enforcement settlement.\nThis is our reply.\nAttachment:\nSpecific Calculation Method\n(1) Enforcement funds = the monetary debt determined by the legal document that is discharged + the interest on the debt for the period of delayed performance that is discharged.\n(2) The interest on the debt for the period of delayed performance that is discharged = the monetary debt determined by the legal document that is discharged x the benchmark lending rate for the corresponding period x 2 x the period of delayed performance."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0488'] = {
     "lawId": "CN-JI-0488",
     "sourceLang": "zh",
@@ -368,6 +719,57 @@
     ]
   };
 
+  TR['CN-JI-0500'] = {
+    "lawId": "CN-JI-0500",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 4,
+        "text": {
+          "en": "1. In order to obtain the recognition and enforcement referred to in the preceding Article, the party applying for recognition and enforcement shall, at the time of the application, produce:\n(a) the duly authenticated original award or a duly certified copy thereof;\n(b) the original agreement referred to in Article 2 or a duly certified copy thereof.\n2. If the said award or agreement is not made in an official language of the country in which the award is relied upon, the party applying for recognition and enforcement of the award shall produce a translation of these documents into such language. The translation shall be certified by an official or sworn translator or by a diplomatic or consular agent."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "1. Recognition and enforcement of the award may be refused, at the request of the party against whom it is invoked, only if that party furnishes to the competent authority of the place where the recognition and enforcement is sought proof of one of the following circumstances:\n(a) the parties to the agreement referred to in Article 2 were, under the law applicable to them, under some incapacity, or the said agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law of the country where the award was made;\n(b) the party against whom the award is invoked was not given proper notice of the appointment of the arbitrator or of the arbitration proceedings, or was otherwise unable to present his case;\n(c) the award deals with a difference not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, that part of the award which contains decisions on matters submitted to arbitration may be recognised and enforced;\n(d) the composition of the arbitral authority or the arbitral procedure was not in accordance with the agreement of the parties or, failing such agreement, was not in accordance with the law of the country where the arbitration took place;\n(e) the award has not yet become binding on the parties, or has been set aside or suspended by a competent authority of the country in which, or under the law of which, the award was made.\n2. Recognition and enforcement of an arbitral award may also be refused if the competent authority of the country where recognition and enforcement is sought finds that:\n(a) the subject matter of the difference is not capable of settlement by arbitration under the law of that country;\n(b) the recognition or enforcement of the award would be contrary to the public policy of that country.\nAttachment 2:\nRelevant provisions of the Civil Procedure Law of the People's Republic of China (for Trial Implementation)\nreferred to in this Notice"
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 169,
+        "text": {
+          "en": "The time limit for applying for enforcement shall be one year where both parties or one of the parties is an individual, and six months where both parties are enterprises, public institutions, organs or organisations."
+        },
+        "noLabel": {
+          "en": "Article 169."
+        }
+      },
+      {
+        "no": 204,
+        "text": {
+          "en": "Where a people's court of the People's Republic of China is requested by a foreign court to enforce a judgment or award that has become final, it shall conduct a review in accordance with the international treaties concluded or acceded to by the People's Republic of China or in accordance with the principle of reciprocity; where it considers that the judgment or award does not violate the basic principles of the laws of the People's Republic of China or the State and social interests of China, it shall rule to recognise its effect and shall enforce it in accordance with the procedure prescribed by this Law. Otherwise, it shall return the request to the foreign court.\nAttachment 3:\nCountries that have acceded to the Convention on the Recognition and Enforcement of Foreign Arbitral Awards\nDenmark (1, 2) France (1, 2) Greece (1, 2) the Holy See (1, 2) the United States (1, 2) Austria (1) Belgium (1) the Federal Republic of Germany (1) Ireland (1) Japan (1) Luxembourg (1) the Netherlands (1) Switzerland (1) the United Kingdom (1) Norway (1) Australia Finland New Zealand (1) San Marino Spain Italy Canada Sweden the German Democratic Republic (1, 2) Hungary (1, 2) Poland (1, 2) Romania (1, 2) Yugoslavia (1, 2, 3) Bulgaria (1) Czechoslovakia (1) the USSR (1) the Byelorussian Republic of the USSR (1) the Ukrainian Republic of the USSR (1) Botswana (1, 2) the Central African Republic (1, 2) China (1, 2) Cuba (1, 2) Cyprus (1, 2) Ecuador (1, 2) India (1, 2) Indonesia (1, 2) Madagascar (1, 2) Nigeria (1, 2) the Philippines (1, 2) Trinidad and Tobago (1, 2) Tunisia (1, 2) Guatemala (1, 2) South Korea (1, 2) Monaco (1, 2) Kuwait (1) Morocco (1) Tanzania (1) Benin Chile Colombia Democratic Kampuchea Egypt Ghana Israel Jordan Mexico the Niger South Africa Sri Lanka Syria Thailand Uruguay Djibouti Haiti Panama Malaysia Singapore\nNote: 1. The State has declared that it applies the Convention only to arbitral awards made in the territory of another Contracting State, that is, it has made a reciprocity reservation.\n2. The State has declared that it applies the Convention only to differences arising out of legal relationships, whether contractual or non-contractual, which are considered as commercial under its national law, that is, it has made a commercial reservation.\n3. The State has declared that it recognises and enforces only arbitral awards made in a foreign State after that State's accession to the Convention."
+        },
+        "noLabel": {
+          "en": "Article 204."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0502'] = {
     "lawId": "CN-JI-0502",
     "sourceLang": "zh",
@@ -387,6 +789,39 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0503'] = {
+    "lawId": "CN-JI-0503",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 2 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where an arbitration institution, without hearing the dispute or presiding over mediation in accordance with the procedure prescribed by the Arbitration Law, directly makes an arbitral award or an arbitral mediation statement on the basis of a settlement agreement or mediation agreement concluded by the parties to an online lending contract before the dispute arose;"
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where, in the course of arbitration, an arbitration institution fails to guarantee the basic procedural rights prescribed by the Arbitration Law, such as the right of a party to apply for the challenge of an arbitrator, to provide evidence and to present a defence.\nIn the circumstances specified in the preceding paragraph, where a party to an online lending contract, relying on an agreed waiver clause, asserts that the arbitral procedure did not violate the statutory procedure, the people's court shall not uphold the assertion.\nThis reply shall apply where a people's court handles cases for the enforcement of arbitral awards or mediation statements in other disputes over contracts or property rights and interests.\nThis is our reply."
+        },
+        "noLabel": {
+          "en": "Article 2."
         }
       }
     ]

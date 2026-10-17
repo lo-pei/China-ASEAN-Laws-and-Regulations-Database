@@ -780,6 +780,7 @@
   "自定义（手动输入）": "Custom (enter manually)",
   "输入自定义模型 ID": "Enter custom model ID",
   "第{n}处": "(occurrence {n})",
-  "第{n}套编号": "(numbering series {n})"
+  "第{n}套编号": "(numbering series {n})",
+  "中文关键词": "Chinese keywords"
 };
 })(typeof window !== 'undefined' ? window : globalThis);

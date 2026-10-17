@@ -1,12 +1,81 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p07
-   法规 46 部 / 译文 46 条
+   法规 56 部 / 译文 89 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR['CN-JI-0106'] = {
+    "lawId": "CN-JI-0106",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 6 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a party, being dissatisfied with a legally effective judgment or ruling of a higher people's court, applies to the Supreme People's Court for retrial in accordance with Article 90 of the Administrative Litigation Law, the Supreme People's Court shall review the application in accordance with law and handle it according to the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where, in any of the following administrative retrial application cases, the original judgment or ruling contains a genuine error in the application of law or regulations, the Supreme People's Court shall rule for retrial:\n(a) cases of universally guiding significance for the application of law throughout the country;\n(b) cases with major impact nationwide or in a province, autonomous region or municipality directly under the Central Government;\n(c) cases spanning provinces, autonomous regions or municipalities directly under the Central Government;\n(d) major foreign-related cases or cases involving the Hong Kong Special Administrative Region, the Macao Special Administrative Region or the Taiwan region;\n(e) cases involving major national interests or public interests;\n(f) cases discussed and decided by the judicial committee of a higher people's court;\n(g) other cases that the Supreme People's Court considers should be retried."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where any of the following circumstances exists in an administrative retrial application case, the Supreme People's Court may decide that the case be reviewed by the higher people's court that made the effective judgment or ruling:\n(a) the basic facts of the case are unclear, the litigation procedure is unlawful, or a claim is omitted;\n(b) there are a large number of retrial applicants or third parties;\n(c) review by the higher people's court is more conducive to the substantive resolution of the administrative dispute;\n(d) other circumstances in which the Supreme People's Court considers that the case may be reviewed by the higher people's court."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a legally effective judgment or ruling has clearly established the facts and correctly applied the law and regulations, and the grounds for retrial asserted by the party do not hold, the Supreme People's Court may directly rule to reject the retrial application."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a party is dissatisfied with a retrial judgment or ruling of a people's court, it may, in accordance with law, apply to a people's procuratorate for a protest or a procuratorial suggestion."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "This Interpretation shall come into force on 1 April 2021. After this Interpretation comes into force, where the relevant judicial interpretations previously made by the Supreme People's Court conflict with this Interpretation, this Interpretation shall prevail.\nAppendix: 1. Decision of the Supreme People's Court of the People's Republic of China (for use where the Supreme People's\nCourt decides that the case be reviewed by a higher people's court)\n2. Notice of the Supreme People's Court of the People's Republic of China (for use where the Supreme People's\nCourt decides that the case be reviewed by a higher people's court and notifies the retrial applicant)\n3. Administrative Ruling of the Supreme People's Court of the People's Republic of China (for use where the Supreme People's\nCourt directly rejects the retrial application)\nAppendix 1\nSupreme People's Court of the People's Republic of China\nDecision\n(××××) SPC Administrative Decision No. ×\nTo the ×××× Higher People's Court:\nIn accordance with Article 90 of the Administrative Litigation Law of the People's Republic of China and Article 3 of the Provisions of the Supreme People's Court on Several Issues Concerning the Handling of Administrative Retrial Application Cases, the case of retrial applicant ××× v. ××× (name of the organ) is hereby referred to your court for review. Your court is requested to review and handle the case in accordance with the relevant provisions of the Administrative Litigation Law of the People's Republic of China and its judicial interpretations.\n××××/××/××\n(Seal of the Court)\nAppendix 2\nSupreme People's Court of the People's Republic of China\nNotice\n(××××) SPC Administrative Notice No. ×\nTo ××× (retrial applicant):\nIn accordance with Article 90 of the Administrative Litigation Law of the People's Republic of China and Article 3 of the Provisions of the Supreme People's Court on Several Issues Concerning the Handling of Administrative Retrial Application Cases, this Court refers the case of retrial applicant ××× v. ××× (name of the organ) to the ×××× Higher People's Court for review. Please await the outcome of the review. Where you remain dissatisfied with the judgment or ruling made after review by the higher people's court, you may, in accordance with Article 117 of the Interpretation of the Supreme People's Court on the Application of the Administrative Litigation Law of the People's Republic of China, apply to a people's procuratorate for a protest or a procuratorial suggestion.\nHereby notified.\n××××/××/××\n(Seal of the Court)\nAppendix 3\nSupreme People's Court of the People's Republic of China\nAdministrative Ruling\n(××××) SPC Administrative Retrial No. ×\nRetrial applicant (litigation status in the first and second instances): ×××, ...\nRespondent (litigation status in the first and second instances): ×××, ...\n(The above shall state the names or titles and other basic information of the parties and other participants in the litigation)\nThe retrial applicant ×××, being dissatisfied with the Administrative Judgment (Ruling) No. ××× of the ×××× Higher People's Court in the case of the applicant v. ××× (name of the organ), applied to this Court for retrial. This Court has reviewed the case in accordance with law, and the review is now concluded.\n××× applied to this Court for retrial, requesting ... (briefly state the claims and the grounds).\nThis Court holds that the retrial application of ××× does not fall within the circumstances specified in Article 91 of the Administrative Litigation Law of the People's Republic of China. In accordance with paragraph 2 of Article 116 of the Interpretation of the Supreme People's Court on the Application of the Administrative Litigation Law of the People's Republic of China and Article 4 of the Provisions of the Supreme People's Court on Several Issues Concerning the Handling of Administrative Retrial Application Cases, this Court rules as follows:\nThe retrial application of ××× is rejected.\nPresiding Judge ×××\nJudge ×××\nJudge ×××\n××××/××/××\n(Seal of the Court)\nJudge's Assistant ×××\nCourt Clerk ×××"
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      }
+    ]
+  };
 
   TR['CN-JI-0109'] = {
     "lawId": "CN-JI-0109",
@@ -32,6 +101,66 @@
     ]
   };
 
+  TR['CN-JI-0110'] = {
+    "lawId": "CN-JI-0110",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 5 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where the defendant is an adult and all of the illegal gains have been squandered by the defendant personally and cannot be recovered, the defendant shall be ordered to make restitution, and the defendant's family members shall have no obligation to make restitution on the defendant's behalf.\nWhere the defendant has a personal share in the joint property of the family, the defendant may be ordered to make restitution only to the extent of that personal share."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where part of the illegal gains has been used for the daily life of the family, both the defendant and the family members shall be under an obligation to make restitution in respect of that part of the illegal gains."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where the defendant no longer has any practical ability to make restitution for the illegal gains that the defendant has been ordered to return, but the defendant's relatives, at the defendant's request, or on their own initiative with the defendant's consent, voluntarily make restitution of part or all of the illegal gains on the defendant's behalf, the court may also, in the light of the specific circumstances, accept the sums voluntarily paid in restitution by the relatives on the defendant's behalf and treat them as sums voluntarily paid in restitution by the defendant."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where restitution has been made in any of the above three situations, it may in all cases be regarded as the defendant having made restitution of the illicit money in a relatively satisfactory manner, and a lenient punishment may be imposed as appropriate."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where the defendant's crime warrants the death penalty and the death penalty must be carried out, the court may accept the sums paid in restitution in the situations described in the first and second of the above three situations; in the situation described in the third of the above situations, the court shall not accept the sums voluntarily paid in restitution by the defendant's relatives on the defendant's behalf."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0111'] = {
     "lawId": "CN-JI-0111",
     "sourceLang": "zh",
@@ -51,6 +180,66 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0112'] = {
+    "lawId": "CN-JI-0112",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 5 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where the parties, by written agreement, choose a people's court at a place other than the domicile of the defendant, the place of performance of the contract, the place of conclusion of the contract, the domicile of the plaintiff or the place where the subject matter is located to exercise jurisdiction, but fail to provide evidence proving that the place has an actual connection with the dispute, the people's court shall determine the jurisdiction agreement to be invalid in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where the parties, by written agreement, agree that a case which, as prescribed by laws and judicial interpretations, may only be under the jurisdiction of a specialised people's court shall be under the jurisdiction of another people's court, the people's court shall determine the jurisdiction agreement to be invalid in accordance with the law and shall determine jurisdiction in accordance with the provisions of laws and judicial interpretations on the jurisdiction of specialised people's courts."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a jurisdiction agreement between the parties does not expressly specify a particular court with jurisdiction, but the court with jurisdiction can be determined in accordance with the law on the basis of the locality agreed upon by the parties and in the light of the nature of the case, the amount in dispute and other factors, and one party asserts that the jurisdiction agreement is invalid solely on the ground that no particular court with jurisdiction was expressly specified, the people's court shall not uphold the assertion."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where the parties agree that a dispute may be submitted either to an arbitration institution for arbitration or to the relevant people's court for litigation, the agreement on arbitration shall be invalid, but this shall not affect the validity of the agreement on jurisdiction over litigation, and the people's court may determine jurisdiction in accordance with the law on the basis of the relevant agreement."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "An action instituted for a dispute over a liability insurance contract may be under the jurisdiction of the people's court at the domicile of the insured."
+        },
+        "noLabel": {
+          "en": "Article 5."
         }
       }
     ]
@@ -200,6 +389,39 @@
     ]
   };
 
+  TR['CN-JI-0122'] = {
+    "lawId": "CN-JI-0122",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 2 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a large enterprise agrees with a small or medium-sized enterprise, in the course of the construction of a construction project or the procurement of goods or services, that payment shall be conditional on its receipt of payment from a third party, the people's court shall, on the ground that the content of the agreement violates Articles 6 and 8 of the Regulations on Ensuring Payments to Small and Medium-sized Enterprises, determine that the agreed clause is void in accordance with paragraph 1 of Article 153 of the Civil Code."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "After determining that an agreed contractual clause is void, the people's court shall, in light of the specific circumstances of the case and taking into account industry norms and the trading practices of both parties, reasonably determine the payment period of the large enterprise and the corresponding liability for breach of contract. Where the parties have agreed on the standard for calculating interest on the outstanding payment, that agreement shall be followed; where the agreement is unlawful or there is no agreement, interest shall be calculated at the one-year loan prime rate published by the National Interbank Funding Centre. Where a large enterprise requests a reduction of its liability for breach of contract on the ground that the contract price already includes compensation for delayed payment, the people's court may uphold the request if, upon review, the defence is established."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0123'] = {
     "lawId": "CN-JI-0123",
     "sourceLang": "zh",
@@ -344,6 +566,117 @@
     ]
   };
 
+  TR['CN-JI-0129'] = {
+    "lawId": "CN-JI-0129",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where, in the course of trying a case, a second-instance people's court considers that a party has committed an unlawful act that should be sanctioned in accordance with law but that the people's court of original trial did not impose a sanction, it may directly impose a civil sanction."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a party, being dissatisfied with a decision on civil sanctions made by a people's court, applies to the people's court at the next higher level for reconsideration, the higher people's court shall, whether it affirms, alters or revokes the original decision, issue a written decision on civil sanctions."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where, during the period of reconsideration by the people's court, the person sanctioned requests the withdrawal of the application for reconsideration, the people's court shall, after examination, permit the withdrawal of the application or reject the request by way of notice."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0130'] = {
+    "lawId": "CN-JI-0130",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 6 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "First-instance civil and administrative cases concerning disputes over the ownership and infringement of invention patents, utility model patents, new plant varieties, layout designs of integrated circuits, technical secrets and computer software, as well as disputes over monopoly, shall be under the jurisdiction of intellectual property (IP) courts and the intermediate people's courts located in the seats of the people's governments of provinces, autonomous regions and municipalities directly under the Central Government and the intermediate people's courts designated by the Supreme People's Court.\nWhere the law provides otherwise on the jurisdiction of intellectual property courts, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "First-instance civil and administrative cases concerning disputes over the ownership and infringement of industrial design patents and cases involving the determination of well-known trademarks shall be under the jurisdiction of intellectual property courts and intermediate people's courts; with the approval of the Supreme People's Court, they may also be under the jurisdiction of primary people's courts, except administrative cases involving industrial design patents.\nWhere the amount in dispute of a first-instance intellectual property case other than those prescribed in Article 1 of these Provisions and paragraph 1 of this Article reaches the amount designated by the Supreme People's Court, or where the case involves administrative acts of a department under the State Council, a local people's government at or above the county level or the Customs, the case shall be under the jurisdiction of an intermediate people's court.\nWhere the law provides otherwise on the jurisdiction of intellectual property courts, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "First-instance intellectual property civil and administrative cases other than those prescribed in Article 1 and Article 2 of these Provisions shall be under the jurisdiction of the primary people's courts designated by the Supreme People's Court."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "With respect to new types of intellectual property civil and administrative cases that are difficult and complex or that have guiding significance for the application of law, the people's court at a higher level may, in accordance with the relevant provisions of the procedural law, upon the request of the people's court at a lower level or on its own decision, conduct the trial at a higher level.\nWhere it is truly necessary to assign a first-instance intellectual property civil case under its jurisdiction to a people's court at a lower level for trial, the people's court shall, in accordance with paragraph 1 of Article 39 of the Civil Procedure Law, report the case to the people's court at the next higher level for approval on a case-by-case basis."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where, in accordance with these Provisions, the standard for the amount in dispute or the regional scope for jurisdiction needs to be designated or adjusted by the Supreme People's Court, the matter shall be reported level by level to the Supreme People's Court for approval."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "These Provisions shall come into force on 1 May 2022.\nWhere judicial interpretations previously issued by the Supreme People's Court are inconsistent with these Provisions, these Provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0131'] = {
     "lawId": "CN-JI-0131",
     "sourceLang": "zh",
@@ -387,6 +720,66 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0134'] = {
+    "lawId": "CN-JI-0134",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 5 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a party to a criminal case adjudicated before the \"Cultural Revolution\" files a petition, or a relevant unit requests a review, or judicial personnel themselves discover that a wrong judgment may have been made and request a review, the matter shall be examined and handled conscientiously and responsibly by the people's court as part of its regular work. However, no comprehensive review shall be carried out of criminal cases adjudicated before the \"Cultural Revolution\"."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "In handling petitions against criminal cases adjudicated before the \"Cultural Revolution\", except that, where the Central Committee has made special provisions on resolving issues left over from history since the Third Plenary Session of the Eleventh Central Committee of the Party, the case shall be reviewed and corrected in accordance with those provisions, other petitioned cases shall be assessed as to whether the original judgment was appropriate on the basis of the policies of the Central Committee and the laws of the State at the time of the judgment, and cases adjudicated in the past shall not be handled on the basis of current policies and laws."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In a specific case, where the main facts or the basic nature have been wrongly determined, or where a person was convicted and sentenced although the act did not constitute a crime and should not have been sentenced under the policies of the Central Committee and the laws of the State at that time, the judgment shall be amended and corrected. Where the main facts or the basic nature are not erroneous, the judgment may generally not be amended. Where the sentencing was manifestly excessive and the person is still serving the sentence, the judgment may be amended as appropriate; where the person has already served the full term and been released, the judgment may generally not be amended again."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a petition is filed with the people's court that conducted the original trial, it shall be handled by that court; where a petition is filed with a people's court at a higher level, it may generally also be transferred to the people's court that conducted the original trial for handling. Where the case is major or difficult, or where a petition has been filed repeatedly on well-founded grounds but has not been properly handled, it may be handled by the people's court at the next higher level or by the higher people's court.\nWhere a petition is filed against a case adjudicated by a former branch court of the Supreme People's Court for a major region, the higher people's court of the region concerned shall be entrusted with ascertaining the facts and, after it puts forward its opinion on handling, the case shall be handled by the Supreme People's Court."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The follow-up work after a wrongly adjudicated case is amended may be handled with reference to the provisions of Document No. 96 [1979] of the Central Committee of the Communist Party of China. Practical problems in the follow-up work after a judgment is amended and corrected shall be resolved mainly at the grassroots level; where a people's court at a higher level amends a judgment, it may entrust the people's court of the place where the party is located or a relevant people's court with assisting in the handling.\nPetitions against criminal cases adjudicated before the \"Cultural Revolution\" shall be handled with caution. Where major issues or other difficult problems are encountered, instructions shall be sought from the Party committee for resolution."
+        },
+        "noLabel": {
+          "en": "Article 5."
         }
       }
     ]
@@ -603,6 +996,57 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0144'] = {
+    "lawId": "CN-JI-0144",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where, before the South China Sub-Commission of the China International Economic and Trade Arbitration Commission was renamed the South China International Economic and Trade Arbitration Commission (hereinafter the South China Commission) and before the Shanghai Sub-Commission of the China International Economic and Trade Arbitration Commission was renamed the Shanghai International Economic and Trade Arbitration Commission (hereinafter the Shanghai Commission), the parties concluded an arbitration agreement providing for the submission of disputes to arbitration by the \"South China Sub-Commission of the China International Economic and Trade Arbitration Commission\" or the \"Shanghai Sub-Commission of the China International Economic and Trade Arbitration Commission\", the South China Commission or the Shanghai Commission shall have jurisdiction over the case. Where a party, on the ground that the South China Commission or the Shanghai Commission has no authority to arbitrate, requests a people's court to confirm that the arbitration agreement is invalid, or applies for the setting aside of or refusal to enforce an arbitral award, the people's court shall not uphold the request.\nWhere, after the South China Commission and the Shanghai Commission were renamed (including the date of renaming) but before this Reply came into force, the parties concluded an arbitration agreement providing for the submission of disputes to arbitration by the \"South China Sub-Commission of the China International Economic and Trade Arbitration Commission\" or the \"Shanghai Sub-Commission of the China International Economic and Trade Arbitration Commission\", the China International Economic and Trade Arbitration Commission (hereinafter CIETAC) shall have jurisdiction over the case. However, where the applicant applied to the South China Commission or the Shanghai Commission for arbitration and the respondent did not object to the jurisdiction of the South China Commission or the Shanghai Commission, and the parties, after the arbitral award is made, apply for the setting aside of or refusal to enforce the arbitral award on the ground that the South China Commission or the Shanghai Commission has no authority to arbitrate, the people's court shall not uphold the application.\nWhere, after this Reply came into force (including the date of commencement), the parties conclude an arbitration agreement providing for the submission of disputes to arbitration by the \"South China Sub-Commission of the China International Economic and Trade Arbitration Commission\" or the \"Shanghai Sub-Commission of the China International Economic and Trade Arbitration Commission\", CIETAC shall have jurisdiction over the case."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where an applicant in an arbitration case, while applying to an arbitration institution for arbitration, requests the arbitration institution to decide on its jurisdiction over the case, and after the arbitration institution makes a decision confirming the validity of the arbitration agreement and its jurisdiction over the case, the respondent, before the first hearing of the arbitral tribunal, brings an action before a people's court applying for confirmation of the validity of the arbitration agreement, the people's court shall accept the action and make a ruling. Where the applicant or the arbitration institution, in accordance with Article 3 of the Reply of the Supreme People's Court on Several Issues Concerning Confirmation of the Validity of Arbitration Agreements (Fa Shi No. 27 [1998]) or paragraph 2 of Article 13 of the Interpretation of the Supreme People's Court on Several Issues Concerning the Application of the Arbitration Law of the People's Republic of China (Fa Shi No. 7 [2006]), asserts that the people's court should not accept the action brought by the respondent, the people's court shall not uphold the assertion."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where, before this Reply came into force, CIETAC, the South China Commission or the Shanghai Commission has already accepted a case that should not be accepted by it under Article 1 of this Reply, and the parties, after the arbitral award is made, apply for the setting aside of or refusal to enforce the arbitral award on the ground that the arbitration institution has no authority to arbitrate, the people's court shall not uphold the application."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where, before this Reply came into force, CIETAC, the South China Commission or the Shanghai Commission has accepted the same arbitration case, and the parties, before the first hearing of the arbitral tribunal, apply to a people's court for confirmation of the validity of the arbitration agreement, the people's court shall conduct the trial and make a ruling in accordance with Article 1 of this Reply.\nWhere, before this Reply came into force, CIETAC, the South China Commission or the Shanghai Commission has accepted the same arbitration case and the parties have not applied to a people's court for confirmation of the validity of the arbitration agreement before the first hearing of the arbitral tribunal, the arbitration institution that accepted the case first shall have jurisdiction over the case.\nThis is our reply."
+        },
+        "noLabel": {
+          "en": "Article 4."
         }
       }
     ]
@@ -1040,6 +1484,57 @@
     ]
   };
 
+  TR['CN-JI-0170'] = {
+    "lawId": "CN-JI-0170",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "An internet court shall have centralised jurisdiction over the following first-instance cases that should be accepted by a primary people's court within the area of the city in which the internet court is located:\n(a) disputes over title to, infringement of, and contracts concerning online data;\n(b) disputes over the protection of online personal information and over the right to privacy;\n(c) disputes over title to, infringement of, and contracts concerning online virtual property;\n(d) disputes over online unfair competition;\n(e) disputes over title to, infringement of, and contracts concerning online domain names;\n(f) disputes arising from online shopping contracts concluded or performed through e-commerce platforms;\n(g) disputes over online service contracts the conclusion and performance of which are both completed online;\n(h) administrative disputes arising from administrative acts of administrative organs concerning the supervision of online data, the supervision of the protection of online personal information, the supervision of online unfair competition, the administration of online transactions and the administration of online information services;\n(i) cases of online public interest litigation initiated by procuratorial organs.\nForeign-related civil cases that conform to the preceding paragraph, and civil cases involving the Hong Kong and Macao Special Administrative Regions and the Taiwan region, shall be under the jurisdiction of the internet court.\nWith the approval of the Supreme People's Court, the relevant higher people's court may designate an internet court to exercise jurisdiction over other specific types of online civil and administrative cases."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "With respect to civil disputes over contracts and other property rights and interests as determined in Article 1 of these Provisions, the parties may, in accordance with law, agree that an internet court at a place with an actual connection with the dispute shall have jurisdiction.\nWhere the parties agree, in the form of standard terms, that a case shall be under the jurisdiction of an internet court, the agreement shall conform to the provisions of law and judicial interpretations on standard terms."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Cases in which a party appeals against a judgment or ruling made by an internet court shall be heard by the intermediate people's court at the place where the internet court is located. Where there are several intermediate people's courts at that place, the case shall be heard by the intermediate people's court designated by the higher people's court.\nWhere an appeal case falls within the jurisdiction of a special people's court, it shall be heard by the corresponding special people's court."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "These Provisions shall come into force on 1 November 2025. Cases already accepted before these Provisions come into force shall continue to be heard by the people's court that originally accepted them.\nWhere judicial interpretations previously issued are inconsistent with these Provisions, these Provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0172'] = {
     "lawId": "CN-JI-0172",
     "sourceLang": "zh",
@@ -1059,6 +1554,48 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0177'] = {
+    "lawId": "CN-JI-0177",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The Notice of the Supreme People's Court and the People's Bank of China on the Inquiry into, the Freezing of and the Deduction from Bank Deposits of Enterprises, Public Institutions, Organs and Organisations shall likewise apply to the enterprises and public institutions of the military system."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "In accordance with the provision in the Measures for the Administration of the Opening of Accounts with Banks and of Deposits by Military Units, printed and distributed by notice Cai Zi No. 110 [1985] of the People's Bank of China, the Industrial and Commercial Bank of China, the Agricultural Bank of China and the General Logistics Department of the Chinese People's Liberation Army, that \"military factories (mines), farms, horse farms, service departments for military personnel, guest houses operated as enterprises by units at or above the provincial military command level (including guest houses of units below the military level that are approved by the general headquarters, the military command or the service branch to operate as enterprises) and the superior financial departments in charge of enterprises and other such units shall open 'special enterprise deposits, being interest-bearing deposits'\", military units engaged in production and business activities shall settle their accounts through that account. Accordingly, in an action concerning an economic dispute, the people's court shall be entitled, on the application of the opposing party or ex officio, to take litigation preservation measures against the deposits in the military's \"special enterprise deposit\" account, and may, in accordance with Article 179 of the Civil Procedure Law (for Trial Implementation), take enforcement measures against the deposits in that account."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where, in the course of trying an economic dispute case, a people's court finds that a military organ or a unit under it has used an account that is not permitted to be used for the settlement of business transactions to settle business transactions, or for business loans or security, in violation of State policies and laws, the people's court shall be entitled to take litigation preservation measures and enforcement measures in accordance with the law against the funds used from that account. The superior leading organ of the military party shall assist the people's court in jointly ascertaining the circumstances of that account and in freezing or deducting the funds therein in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 3."
         }
       }
     ]

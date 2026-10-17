@@ -378,10 +378,17 @@
     if (a.basis && a.basis.length) {
       out += '<div class="answer-section"><div class="answer-section__title">③ ' + esc(t('法条依据')) + '（' + a.basis.length + '）</div>' +
         a.basis.map(function (b, i) {
+          /* P7：中文关键词取自 citations[i].zhHints（由术语表映射，非翻译） */
+          var hints = (res.citations && res.citations[i] && res.citations[i].zhHints) || [];
           return '<a class="citation" href="#/law/' + esc(b.lawId) + '?art=' + esc(b.articleId) + '">' +
             '<div><span class="citation__no">[' + (i + 1) + '] ' + esc(b.countryName) + ' · ' + esc(b.lawTitle) + ' ' + esc(b.noLabel) + '</span>' +
             (b.heading ? ' <span class="mini muted">' + esc(b.heading) + '</span>' : '') + '</div>' +
             '<div class="mini muted" style="margin-top:3px">' + esc(b.excerpt) + '</div>' +
+            (hints.length
+              ? '<div class="mini" style="margin-top:3px"><span class="muted">' + esc(t('中文关键词')) + '：</span>' +
+                hints.map(function (h) { return '<span class="tag tag--outline" style="font-size:11px;margin-right:4px">' + esc(h) + '</span>'; }).join('') +
+                '</div>'
+              : '') +
             '<div class="mini" style="margin-top:3px;color:var(--calr-blue-600)">' + esc(t('查看原文 →')) + '</div></a>';
         }).join('') + '</div>';
     }

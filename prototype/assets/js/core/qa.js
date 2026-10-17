@@ -168,6 +168,53 @@
     return out;
   }
 
+  /** 术语表查表缓存：lang -> [[外文形式(小写), 中文名], …]（长词优先） */
+  var HINT_TABLE = null;
+  function hintTable() {
+    if (HINT_TABLE) return HINT_TABLE;
+    var T = {};
+    var terms = (S().terms && S().terms()) || [];
+    terms.forEach(function (t) {
+      var zh = t && t.zh;
+      if (!zh) return;
+      function push(lang, form) {
+        if (!form) return;
+        var f = String(form).toLowerCase();
+        if (f.length < 3) return;
+        (T[lang] = T[lang] || []).push([f, zh]);
+      }
+      push('en', t.en);
+      var tr = t.translations || {};
+      Object.keys(tr).forEach(function (l) { push(l, tr[l]); });
+    });
+    Object.keys(T).forEach(function (l) {
+      T[l].sort(function (a, b) { return b[0].length - a[0].length; });
+    });
+    HINT_TABLE = T;
+    return T;
+  }
+
+  /**
+   * 由术语表映射出中文关键词（不是翻译，是查表）。
+   * 条文语言不在表内、或未命中任何术语时返回空数组。
+   */
+  function zhHintsOf(text, lang) {
+    var T = hintTable();
+    var list = T[lang] || (lang !== 'en' ? T['en'] : null);
+    if (!list || !list.length) return [];
+    var low = String(text || '').toLowerCase();
+    if (!low) return [];
+    var out = [], occ = 0;
+    for (var i = 0; i < list.length; i++) {
+      var form = list[i][0], at = low.indexOf(form), cnt = 0;
+      while (at >= 0 && cnt < 4) { cnt++; occ++; at = low.indexOf(form, at + form.length); }
+      if (cnt && out.length < 6 && out.indexOf(list[i][1]) < 0) out.push(list[i][1]);
+    }
+    /* 术语总出现次数 < 2 时视为偶然提及（如董事罢免条文里只出现一次 contract），不展示。
+       宁可不给，不可给错。 */
+    return occ >= 2 ? out : [];
+  }
+
   /**
    * 从引用条文中抽取要点句。每条要点绑定引用序号 n（1 起），
    * 保证「要点 ↔ 条文」一一对应（A5）。
@@ -325,7 +372,12 @@ var NON_LEGAL = [
             noLabel: U().tr(a0.noLabel) || ('第 ' + a0.no + ' 条'),
             heading: U().tr(a0.heading),
             excerpt: U().truncate(U().plain(U().tr(a0.text)), 160),
-            fullText: U().plain(U().tr(a0.text))
+            fullText: U().plain(U().tr(a0.text)),
+            zhHints: zhHintsOf(U().plain(U().tr(a0.text)), (function () {
+              var t = a0.text || {};
+              var k = Object.keys(t).filter(function (x) { return t[x]; });
+              return k.length ? k[0] : null;
+            })())
           });
           basis.push({
             countryName: S().countryName(law.country), lawTitle: U().tr(law.title),
@@ -358,7 +410,13 @@ var NON_LEGAL = [
         noLabel: U().tr(art.noLabel) || ('第 ' + art.no + ' 条'),
         heading: U().tr(art.heading),
         excerpt: U().truncate(fullText, 160),
-        fullText: fullText
+        fullText: fullText,
+        /* P7：中文关键词（术语表映射，非翻译） */
+        zhHints: zhHintsOf(fullText, (function () {
+          var t = art.text || {};
+          var k = Object.keys(t).filter(function (x) { return t[x]; });
+          return k.length ? k[0] : null;
+        })())
       });
       basis.push({
         countryName: S().countryName(law.country),
@@ -837,6 +895,7 @@ var NON_LEGAL = [
     ask: ask,
     askAsync: askAsync,
     retrieveWithPacks: retrieveWithPacks,
+    zhHintsOf: zhHintsOf,
     askWithLLM: askWithLLM,
     rewriteQuery: rewriteQuery,
     SYS_PROMPT: SYS_PROMPT,

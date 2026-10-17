@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p12
-   法规 48 部 / 译文 190 条
+   法规 51 部 / 译文 201 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -1643,6 +1643,57 @@
     ]
   };
 
+  TR['CN-JI-0505'] = {
+    "lawId": "CN-JI-0505",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "After consultation with the Hong Kong Branch of the Xinhua News Agency and after extensively soliciting the views of the Hong Kong legal profession, 23 more lawyers, including Ye Tianyang, are additionally commissioned on the basis of the 25 lawyers originally commissioned."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "After the number of commissioned lawyers is increased, the 25 lawyers originally commissioned and the 23 lawyers additionally commissioned shall all be subject to the fixed-term commissioning system; both the original and the new commissions shall run from 4 November 1991 for a term of three years, and the letters of commission originally issued shall remain valid. Upon expiry of a term, those who pass the assessment may be commissioned consecutively, without limitation on the number of times of commissioning."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "After the number of commissioned lawyers is increased, the scope of notarial business handled by Hong Kong lawyers shall still be governed by Article 3 of the Notice of this Ministry on Several Issues concerning the Commissioning of 8 Hong Kong Lawyers to Handle Notarisation (Si Fa Gong Zi No. 251 [85]) of 11 June 1985, that is, in addition to the certificates required by Hong Kong residents for handling civil legal matters on their return to the mainland, they may also handle the various certificates required by Hong Kong companies and organisations for handling economic legal affairs in the mainland, such as certificates of a company's credit standing; certificates of a company's articles of association; powers of attorney authorising the signing of economic contracts on behalf of a company; certificates of a company's tax payment; bank guarantee certificates; and the various certificates required by Hong Kong companies for litigation in people's courts or arbitration before arbitration institutions in the mainland."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "After the number of commissioned lawyers is increased, the total number of commissioned lawyers reaches 48; it has become more difficult to identify notarial certificates in the previous manner, and it is also easy for a small number of lawbreakers to seize the opportunity to forge notarial certificates. In order to facilitate the accurate identification by the units using the documents of the certificates issued by commissioned lawyers, one further procedure is added to the procedures for handling certificates by all commissioned Hong Kong lawyers, in addition to continuing to handle them in accordance with subparagraph 2 of Article 1 and Article 2 of the Notice of this Ministry on Several Issues concerning the Commissioning of 8 Hong Kong Lawyers to Handle Notarisation (Si Fa Gong Zi No. 251 [85]), namely: after the commissioned lawyer has signed and affixed his seal to the notarial certificate, a transmission seal shall be affixed to the original notarial document by the Shenzhen Office of China Legal Service (Hong Kong) Limited, established in Hong Kong by this Ministry and the China Council for the Promotion of International Trade, before the document can be used in the mainland; the signature seal and impression seal of the commissioned lawyer shall no longer be submitted to the notary offices and the relevant departments for the record. The affixing of the transmission seal by the Shenzhen Office of China Legal Service (Hong Kong) Limited shall be implemented from 1 December 1991. Please send the transmission seal impression of that company to the relevant units for the record.\nPlease promptly forward the above notice to the relevant departments of the people's governments of all municipalities, counties and districts.\nAttachment:\nTransmission by China Legal Service (Hong Kong) Limited of Hong Kong\nnotarial documents special seal (seal impression)\nCommissioned by the Ministry of Justice of the People's Republic of China, Hong Kong lawyers\nhandle notarial documents for use in the mainland\nspecial transmission seal\n-----*-----\nChina Legal Service (Hong Kong) Limited\nShenzhen Office No.\nDate"
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0508'] = {
     "lawId": "CN-JI-0508",
     "sourceLang": "zh",
@@ -1662,6 +1713,39 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0509'] = {
+    "lawId": "CN-JI-0509",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 2 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where an actor \"sells obscene articles to another person\", the unlawful act of that actor shall be regarded as having been completed. The fact of \"causing the obscene articles to be resold, copied and disseminated in society in an uninterrupted succession\" may only be considered as a circumstance of the unlawful act (that is, the consequences caused) and shall not be regarded as a continuous or continuing state."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "In accordance with Article 18 of the Regulations on Public Security Administration Punishments, where an act in violation of the Regulations on Public Security Administration Punishments exceeds the statutory period for prosecution, the legal liability of the actor may no longer be pursued.\nThis is our reply.\nAttachment:\nHigher People's Court of Sichuan Province\nRequest for Instructions on How to Calculate the Period for Prosecution\nWhere Obscene Articles Are Sold\n25 June 1991      Chuan Fa Yan No. 30 [1991]\nSupreme People's Court:\nWhereas an actor, in violation of the Regulations on Public Security Administration Punishments, sells obscene articles to another person and thereby causes the obscene articles to be resold, copied and disseminated in society in an uninterrupted succession, we and the public security organ hold different views on how the period for prosecution is to be determined for the actor. We hereby request instructions as follows:\nThe public security organ holds that, after an actor sells obscene articles, the continued resale, copying and dissemination of the obscene articles in society should be regarded as the act of selling obscene articles being in a continuing state, and that when the public security organ uncovers the matter it may punish the person who originally sold the obscene articles, whether or not six months have elapsed; this is conducive to combating such unlawful acts that poison society.\nWe hold that once an actor has sold the obscene articles the unlawful act is completed, that in accordance with paragraph 1 of Article 18 of the Regulations on Public Security Administration Punishments the period for prosecution shall be counted from the date of sale, and that where the public security organ does not discover the act within six months no further punishment shall be imposed. A continuing state means that the act of selling obscene articles directly carried out by the actor is in a continuing state, and not that the consequences caused by the actor's sale continue.\nWe request instructions as to which calculation is appropriate."
+        },
+        "noLabel": {
+          "en": "Article 2."
         }
       }
     ]
@@ -2766,6 +2850,66 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0005'] = {
+    "lawId": "CN-REG-0005",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 5 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The protection of submarine cables is an important measure for strengthening the building of coastal defence. Naval vessel units and the departments concerned with transport and shipping, fishery and salvage, marine survey, and coastal people's communes and production brigades must constantly educate their personnel on the significance of protecting submarine cables, heighten their vigilance and strictly prevent sabotage."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Naval vessels, merchant ships, foreign ships and other vessels shall, when anchoring or conducting fishing operations, avoid dropping anchor in the prohibited zones where submarine cables are laid (in submarine cable landing areas near wharves, surface floating markers may be installed). Large-scale projects such as submarine surveys and wharf construction shall be preceded by contact with the leading organ of the local garrison so that corresponding measures may be taken and the matter properly settled."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where an anchor or fishing gear accidentally hooks a submarine cable, the cable shall be slowly raised to the surface, the anchor (or the hooked object) removed, and the cable, after it has been ascertained that it is indeed undamaged, put back into the sea; where the cable cannot be raised to the surface, the cable shall not be dragged apart or cut, and the anchor (or the hooked object) may be abandoned where necessary."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a cable is hooked or damaged, surface floating markers shall be placed at that place, and the position and the extent of the damage shall promptly be reported to the leading organ of the local government or to the department concerned for handling."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "No unit, vessel or individual shall, without authorisation, salvage, cut, withdraw or steal submarine cables; otherwise the act shall be dealt with as sabotage.\nAfter a submarine cable has been damaged or destroyed, the local public security and armed departments shall vigorously assist the user unit in promptly ascertaining the cause. Where the damage is caused by dereliction of duty or inappropriate measures, the unit causing the damage shall be responsible for compensation and shall criticise and educate the person causing the incident, and where the circumstances are serious, a sanction shall be imposed."
+        },
+        "noLabel": {
+          "en": "Article 5."
         }
       }
     ]

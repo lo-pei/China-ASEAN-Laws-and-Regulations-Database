@@ -1,12 +1,72 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p08
-   法规 16 部 / 译文 16 条
+   法规 32 部 / 译文 82 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR['CN-JI-0196'] = {
+    "lawId": "CN-JI-0196",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 5 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The procedures for enforcing arbitral awards of the mainland or of the Hong Kong Special Administrative Region referred to in the Arrangement shall be interpreted as including the procedures for recognising and enforcing arbitral awards of the mainland or of the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The preamble and Article 1 of the Arrangement are amended to read: \"In accordance with the provisions of Article 95 of the Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China, and after consultation between the Supreme People's Court and the Government of the Hong Kong Special Administrative Region (hereinafter referred to as the Hong Kong SAR), the following Arrangement is made on the mutual enforcement of arbitral awards:\n\"1. This Arrangement shall apply where a people's court in the mainland enforces an arbitral award made in accordance with the Arbitration Ordinance of the Hong Kong SAR, and where a court of the Hong Kong SAR enforces an arbitral award made in accordance with the Arbitration Law of the People's Republic of China.\""
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Paragraph 3 of Article 2 of the Arrangement is amended to read: \"Where the respondent has a domicile or property available for enforcement in both the mainland and the Hong Kong SAR, the applicant may apply to the courts of both places for enforcement respectively. At the request of the court of the other place, the courts of both places shall provide each other with information on their own enforcement of the arbitral award. The total amount of property enforced by the courts of both places shall not exceed the amount determined by the award.\""
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A paragraph is added to Article 6 of the Arrangement as paragraph 2: \"The court concerned may, before or after accepting an application for enforcement of an arbitral award, take preservation or compulsory measures upon application and in accordance with the law of the place of enforcement.\""
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Articles 1 and 4 of this Supplementary Arrangement shall come into force on 27 November 2020; for Articles 2 and 3, the date of coming into force shall be announced by the Supreme People's Court after the relevant procedures have been completed in the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      }
+    ]
+  };
 
   TR['CN-JI-0197'] = {
     "lawId": "CN-JI-0197",
@@ -128,6 +188,48 @@
     ]
   };
 
+  TR['CN-JI-0202'] = {
+    "lawId": "CN-JI-0202",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In accordance with subparagraph (c) of paragraph 1 of Article 58 of the Land Administration Law of the People's Republic of China and Article 47 of the Interim Regulations on the Assignment and Transfer of State-owned Land-use Rights in Urban Areas, the state-owned land-use right acquired by a bankrupt enterprise by way of allocation does not constitute bankruptcy property; when the enterprise goes bankrupt, the people's government concerned may recover it and dispose of it in accordance with law. For state-owned enterprises included in the State's merger and bankruptcy plan, the state-owned land-use rights they have acquired in accordance with law shall be dealt with in accordance with the relevant documents of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "An enterprise has no right to dispose of the state-owned land-use right it acquired by way of allocation. Where such land-use right is used to create a mortgage without the approval of the people's government with approval authority or of the land administration department, the validity of the mortgage contract shall not be affected; where the statutory approval procedures have been completed and the mortgage has been registered in accordance with law, the mortgage shall be created upon registration. In accordance with Article 51 of the Urban Real Estate Administration Law of the People's Republic of China, the mortgagee shall be entitled to a right of priority in satisfaction over the remaining portion only after the proceeds from the discounting, auction or sale of the mortgaged property have been used to pay an amount equivalent to the grant premium of the land-use right. However, where a state-owned enterprise included in the State's merger and bankruptcy plan creates a mortgage over the state-owned land-use right it acquired by way of allocation, the matter shall be dealt with in accordance with the relevant documents of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a state-owned enterprise creates a mortgage over key equipment, complete sets of equipment or buildings, the mortgage contract shall not be determined to be invalid solely on the ground that it has not been approved by the competent government department, in the absence of other statutory grounds for invalidity.\nThis reply shall come into force on the date of promulgation and shall apply to cases that are being tried or have not yet been tried, except cases in which the judgment or ruling in respect of which a retrial has been applied for has already taken legal effect.\nThis is our reply."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0203'] = {
     "lawId": "CN-JI-0203",
     "sourceLang": "zh",
@@ -147,6 +249,126 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0204'] = {
+    "lawId": "CN-JI-0204",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 6 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where, because the personal rights and interests of a natural person, or a specific object of personal significance, have been infringed, the natural person or a close relative of that person files a lawsuit with a people's court requesting compensation for mental damage, the people's court shall accept the case in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a guardian unlawfully causes a ward to be separated from guardianship, resulting in serious damage to the parent-child relationship or to the kinship between close relatives, and the guardian files a lawsuit with a people's court requesting compensation for mental damage, the people's court shall accept the case in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where the name, portrait, reputation, honour, privacy, remains or bones of a deceased person are infringed, and a close relative of the deceased files a lawsuit with a people's court requesting compensation for mental damage, the people's court shall uphold the request in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a legal person or an unincorporated organisation files a lawsuit with a people's court on the ground that its right to reputation, right to honour or right to name has been infringed, requesting compensation for mental damage, the people's court shall not uphold the request."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The amount of compensation for mental damage shall be determined according to the following factors:\n(a) the degree of fault of the infringer, unless otherwise provided by law;\n(b) the specific circumstances of the infringing act, such as its purpose, manner and occasion;\n(c) the consequences caused by the infringing act;\n(d) the profits obtained by the infringer;\n(e) the financial capacity of the infringer to bear liability;\n(f) the average standard of living in the place where the court accepting the case is located."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where the content of a judicial interpretation that came into force before the promulgation and implementation of this Interpretation is inconsistent with this Interpretation, this Interpretation shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0205'] = {
+    "lawId": "CN-JI-0205",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where, after the Arbitration Law of the People's Republic of China came into effect and before arbitration institutions were reorganised, an arbitration agreement concluded by the parties stipulated only the place of arbitration and did not stipulate an arbitration institution, and the parties select in a supplementary agreement an arbitration institution lawfully reorganised at that place, the arbitration agreement shall be valid; where the parties fail to reach a supplementary agreement, the arbitration agreement shall be invalid."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where, after the Arbitration Law came into effect and before arbitration institutions were lawfully reorganised, the parties stipulated an arbitration institution in the arbitration agreement, one party applies for arbitration and the other party institutes an action in a people's court, and upon review the people's court finds that the new arbitration institution can be determined in accordance with the relevant provisions, the arbitration agreement shall be valid. The people's court shall not accept the action instituted by that party."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where the parties have an objection to the validity of the arbitration agreement, one party applies to an arbitration institution to confirm the validity of the arbitration agreement and the other party requests the people's court to confirm that the arbitration agreement is invalid, if the arbitration institution accepted the application earlier than the people's court and has already made a decision, the people's court shall not accept the request; if the arbitration institution has accepted the application but has not yet made a decision, the people's court shall accept the request and shall at the same time notify the arbitration institution to terminate the arbitration."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where one party applies for arbitration in respect of a contractual dispute or another dispute over property rights and interests, and the other party objects to the validity of the arbitration agreement, requests the people's court to confirm that the arbitration agreement is invalid and institutes an action in respect of the contractual dispute or other dispute over property rights and interests, the people's court shall, after accepting the case, notify the arbitration institution to suspend the arbitration. After the people's court has made a ruling in accordance with the law that the arbitration agreement is valid or invalid, it shall serve a copy of the written ruling on the arbitration institution, and the arbitration institution shall, on the basis of the ruling of the people's court, resume the arbitration or set aside the arbitration case.\nWhere, after the people's court has made a ruling in accordance with the law that the arbitration agreement is invalid, the other party refuses to respond to the action, the people's court may make a judgment by default; where the arbitration institution that originally accepted the application for arbitration still does not set aside its arbitration case after the people's court has confirmed that the arbitration agreement is invalid, the trial of the case by the people's court shall not be affected.\nThis is our reply."
+        },
+        "noLabel": {
+          "en": "Article 4."
         }
       }
     ]
@@ -176,6 +398,234 @@
     ]
   };
 
+  TR['CN-JI-0215'] = {
+    "lawId": "CN-JI-0215",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a party, being dissatisfied with an arbitral award on a labour dispute, brings an action before a people's court and subsequently applies to withdraw the action, and the people's court, upon review, grants the withdrawal, the original arbitral award shall take legal effect from the date on which the ruling of the people's court is served on the party."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a party's action is dismissed by a ruling of a people's court because it was brought after the expiry of the period for bringing an action, the original arbitral award shall resume legal effect from the day following the expiry of that period."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where an action is dismissed by a people's court because the qualification of the subject determined in the arbitral award is erroneous or because the matters determined in the arbitral award do not constitute a labour dispute, the original arbitral award shall not take legal effect."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0216'] = {
+    "lawId": "CN-JI-0216",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a people's court, in accordance with the relevant provisions of the Civil Procedure Law, adopts property preservation measures and needs to preserve a registered trademark right, it shall issue a notice of assistance in enforcement to the Trademark Office of the China National Intellectual Property Administration (hereinafter the Trademark Office), stating the name of the registered trademark required to be preserved with the assistance of the Trademark Office, the registrant, the registration certificate number, the preservation period and the content of the assistance in preservation, including prohibition of assignment, cancellation of the registered trademark, alteration of registered particulars and registration of a pledge of the trademark right."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The period of preservation of a registered trademark right shall not exceed one year at a time and shall be calculated from the date on which the Trademark Office receives the notice of assistance in enforcement. Where it remains necessary to continue to adopt preservation measures against the registered trademark right, the people's court shall, before the preservation period expires, issue a new notice of assistance in enforcement to the Trademark Office requesting continuation of the preservation. Otherwise, the property preservation of the registered trademark right shall be deemed to be automatically released."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "A people's court shall not carry out repeated preservation of a registered trademark right that has already been preserved."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0217'] = {
+    "lawId": "CN-JI-0217",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 2 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where the president of a people's court finds that a pre-litigation preservation ruling of that court which has already taken legal effect, or a ruling made in enforcement proceedings, is indeed erroneous and considers that it needs to be set aside, the president shall submit the matter to the judicial committee for discussion and decision and shall then rule to set aside the original ruling."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "There is no legal basis for a people's procuratorate to lodge a protest against a pre-litigation preservation ruling made by a people's court, and the people's court shall notify the people's procuratorate that the protest will not be accepted.\nThis is our reply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0219'] = {
+    "lawId": "CN-JI-0219",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 6 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "A people's court may, in accordance with law, rule to seize goods in railway transport. The railway transport enterprise shall provide assistance in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a party applies to a people's court to seize goods in railway transport, it shall provide security; where the applicant fails to provide security, the application shall be rejected. The application shall state: the station of departure and the station of arrival of the goods to be seized, the names of the shipper and the consignee, and the description and quantity of the goods, the waybill number and other particulars."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a people's court seizes goods in railway transport, it shall make a written ruling and attach a notice of assistance in enforcement. The notice of assistance in enforcement shall state: the station of departure and the station of arrival of the goods to be seized, the names of the shipper and the consignee, and the description and quantity of the goods and the waybill number. Where the seizure is made before the goods are dispatched, the people's court shall serve a copy of the written ruling and the notice of assistance in enforcement on the railway transport enterprise at the place of origin, which shall assist in enforcement; where the seizure is made after the goods are dispatched, it shall serve a copy of the written ruling and the notice of assistance in enforcement on the railway transport enterprise at the destination or at the nearest marshalling station for transit, which shall assist in enforcement.\nA people's court should generally not seize goods in railway transport at an intermediate station or a transit station. Where necessary, it may seize the goods at the nearest marshalling station for transit or at a station with the necessary conditions, provided that the normal order of railway transport is not affected and the lawful rights and interests of other natural persons, legal persons and unincorporated organisations are not harmed.\nWhere a people's court rules to seize goods in international railway through traffic, it shall notify the railway transport enterprise, customs, border defence, commodity inspection and other relevant departments to assist in enforcement. Where the goods are imported goods, the people's court shall serve a copy of the written ruling and the notice of assistance in enforcement on the import border station, the frontier station, the destination station or the relevant department of China; where the goods are export goods, it shall, before the goods are dispatched, serve them on the station of departure or the relevant department, and after the goods are dispatched but before they leave the national border or frontier of China, serve them on the exit station or the relevant department of China."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where, in respect of goods in railway transport seized by a ruling of a people's court, the part of the railway carriage contract concluded between the railway transport enterprise and the shipper that relates to the seized goods is terminated, the railway transport enterprise shall not bear liability. Losses caused by the seizure of the goods shall be borne by the persons responsible.\nLosses caused by an erroneous application for seizure shall be compensated by the applicant."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The loading and unloading, storage, inspection, supervision and other expenses incurred by the railway transport enterprise and the relevant departments in assisting in the enforcement of the seizure of goods shall be borne by the persons responsible, but shall first be advanced by the applicant. Where the applicant is not the person responsible, it may seek reimbursement from the person responsible."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where imported or exported goods have been seized and, as the customs formalities have not yet been completed, the people's court shall, before making a final decision on the disposal of such goods, first order the parties concerned to pay the customs duty in arrears and to complete other customs formalities."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0223'] = {
+    "lawId": "CN-JI-0223",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "When hearing or enforcing cases, a people's court may, in accordance with law, take measures to freeze a security deposit for the opening of a letter of credit, but shall not deduct and transfer it. Where a party or the issuing bank considers that certain funds frozen or deducted and transferred by a people's court are a security deposit for the opening of a letter of credit, it shall raise an objection in accordance with law and provide relevant evidence to prove this. After review, the people's court may deal with the matter according to the following principles: where the funds are indeed a security deposit for the opening of a letter of credit, no measure of deduction and transfer shall be taken; where the issuing bank has performed its obligation of external payment, the people's court shall, upon the application of that bank, immediately lift the freeze on the corresponding part of the security deposit; where the security deposit provided by the applicant for the opening of the letter of credit is in foreign exchange and the party has adduced evidence proving that the documents provided by the beneficiary of the letter of credit conform to the terms of the letter of credit, the people's court shall immediately lift the freeze."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a bank refuses to pay under a letter of credit because the letter of credit is invalid or has expired, or because the documents do not conform, and its obligation of external payment is thereby released, or where the letter of credit has been paid in the normal course and a balance remains after the corresponding amount has been deducted from the security deposit, that is, where the deposit in the account for the security deposit for the opening of the letter of credit has lost its function as a security deposit, the people's court may take measures of deduction and transfer in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a unit or individual, in order to evade debts, provides false evidence to prove that funds are a security deposit for the opening of a letter of credit, the people's court shall deal with the matter seriously in accordance with the relevant provisions of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0226'] = {
     "lawId": "CN-JI-0226",
     "sourceLang": "zh",
@@ -195,6 +645,90 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0229'] = {
+    "lawId": "CN-JI-0229",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Disputes arising between a public institution and its staff members from resignation, dismissal or the performance of an employment contract shall be handled in accordance with the provisions of the Labour Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a party, being dissatisfied with an arbitral award on a personnel dispute made by a personnel dispute arbitration institution established in accordance with the relevant provisions of the State, brings an action before a people's court within 15 days from the date of receipt of the arbitral award, the people's court shall accept the action in accordance with law. Where one party neither brings an action within the statutory period nor performs the arbitral award, and the other party applies to a people's court for enforcement, the people's court shall enforce the award in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "For the purposes of these Provisions, \"personnel dispute\" means a dispute arising between a public institution and its staff members from resignation, dismissal or the performance of an employment contract."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0230'] = {
+    "lawId": "CN-JI-0230",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a Chinese citizen applies to a people's court for recognition of a divorce judgment of a foreign court, the people's court shall not refuse to accept the application on the ground that the marriage was not concluded within the country; where a Chinese citizen applies for recognition of a divorce judgment rendered by a foreign court in his or her absence, he or she shall at the same time submit to the people's court the relevant documents certifying that the foreign court that rendered the judgment has lawfully summoned him or her to appear in court."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a foreign citizen applies to a people's court for recognition of a divorce judgment of a foreign court, if his or her former spouse in the divorce is a Chinese citizen, the people's court shall accept the application; if the former spouse is a foreign citizen, the people's court shall not accept the application, but may inform him or her to apply directly to the marriage registration organ for registration of marriage."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a party applies to a people's court for recognition of the effect of a divorce mediation document of a foreign court, the people's court shall accept the application, conduct review in accordance with the Provisions on Issues concerning the Procedure for Chinese Citizens Applying for Recognition of Divorce Judgments of Foreign Courts, and make a ruling on recognition or non-recognition.\nAs of the date of promulgation of these Provisions, the Opinions on Several Issues concerning the Acceptance by People's Courts of Cases Applying for Recognition of Divorce Judgments of Foreign Courts, printed and issued by Fa No. 86 [1998] of this Court, shall be repealed at the same time."
+        },
+        "noLabel": {
+          "en": "Article 3."
         }
       }
     ]
@@ -272,6 +806,57 @@
     ]
   };
 
+  TR['CN-JI-0244'] = {
+    "lawId": "CN-JI-0244",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Concerning the question whether litigation costs are charged in cases involving personal safety protection orders. This Court agrees with the preferred view of your court, namely that no litigation costs shall be charged for an application to a people's court for a personal safety protection order."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Concerning the question whether security needs to be provided for applying for a personal safety protection order. This Court agrees with the preferred view of your court, namely that where a request is made to a people's court for a personal safety protection order in accordance with the Anti-Domestic Violence Law of the People's Republic of China, the applicant is not required to provide security."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Concerning the procedure applicable to cases involving personal safety protection orders and other such questions. The Anti-Domestic Violence Law does not directly provide which procedure applies to cases involving personal safety protection orders. A people's court may try such a case by reference to the special procedure. Where a party to a family dispute case applies to a people's court for a personal safety protection order, the judicial organisation trying that case shall make the ruling on whether to issue a personal safety protection order; if no family case is pending before the people's court that accepted the application of the applicant for the personal safety protection order, the case shall be tried by a single judge. Whether it is necessary to hear the views of the respondent on the issue of issuing a personal safety protection order shall be decided by the judge handling the case in the light of the specific circumstances of the case."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Concerning the question of reconsideration. An application for reconsideration submitted by the respondent to a personal safety protection order, and an application for reconsideration submitted by the applicant for a personal safety protection order against a ruling of rejection, may be reconsidered by the original judicial organisation; where the people's court considers it necessary, it may also designate another judicial organisation to conduct the reconsideration.\nThis is our reply."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0245'] = {
     "lawId": "CN-JI-0245",
     "sourceLang": "zh",
@@ -291,6 +876,75 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0248'] = {
+    "lawId": "CN-JI-0248",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 6 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "People's courts at all levels shall conscientiously organise the broad ranks of judicial personnel to study the revised Criminal Law. The revised Criminal Law has conscientiously summed up the practical experience of 17 years of implementing the Criminal Law and drawn on domestic and foreign legislative experience relating to criminal law; it clearly provides for the basic principles of criminal law; it highlights the protection of the order of the socialist market economy; meeting the actual needs of the struggle against criminal conduct, it provides more clearly and in greater detail for certain common and frequently occurring crimes about which the people have strongly complained; it provides for corresponding criminal responsibility for newly emerging criminal conduct that needs to be pursued; and it has revised and improved certain important criminal law systems, so that it is a more scientific, unified and complete criminal code. People's courts at all levels shall formulate study plans and adopt various forms to continuously deepen their study, so as to truly understand and master it."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "People's courts at all levels shall, in light of local realities and in cooperation with the relevant departments, carry out extensive and in-depth publicity activities on the revised Criminal Law. The revised Criminal Law is a powerful weapon for the judicial organs to combat and punish crime and will have a major impact on many aspects of social, political and economic life. People's courts shall give full play to the advantages of trial work and, through the news media and other forms, highlight the key points and carry out targeted publicity of the revised Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "After the revised Criminal Law comes into force, people's courts at all levels must resolutely implement it. For conduct that occurred before the revised Criminal Law came into force and for cases that have not been handled or are being handled after it came into force on 1 October, the provisions of Article 12 of the revised Criminal Law shall be applied; for cases that had already been concluded by a people's court before the revised Criminal Law came into force and that are retried by a people's court in accordance with the procedure for trial supervision after it comes into force, the relevant legal provisions in force at the time of the original conclusion shall apply."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Before the revised Criminal Law comes into force, people's courts trying criminal cases shall still act in accordance with the Criminal Law currently in force and the relevant decisions and supplementary provisions of the Standing Committee of the National People's Congress amending and supplementing the Criminal Law, as well as the relevant judicial interpretations of the Supreme People's Court, and shall observe the provisions of the Criminal Procedure Law on procedure and time limits."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "After the revised Criminal Law comes into force, the relevant judicial interpretations previously made by the Supreme People's Court in respect of the relevant decisions and supplementary provisions of the Standing Committee of the National People's Congress that have been expressly repealed shall no longer apply. However, if the substantive content of the relevant provisions of the revised Criminal Law remains unchanged, people's courts may, in criminal trial work and before new judicial interpretations are issued, apply those interpretations by reference. Other judicial interpretations that conflict with the provisions of the revised Criminal Law shall no longer apply."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "In studying, publicising and implementing the revised Criminal Law, people's courts at all levels shall strengthen investigation and research and shall pay attention to collecting the major and difficult issues of understanding and application of the law that they encounter and reporting them in a timely manner.\nThis is hereby notified."
+        },
+        "noLabel": {
+          "en": "Article 6."
         }
       }
     ]
@@ -387,6 +1041,186 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0254'] = {
+    "lawId": "CN-JI-0254",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Questions concerning the order of priority among the right of priority in satisfaction in respect of construction project payments, mortgages and other claims shall be dealt with in accordance with Article 36 of the Interpretation (I) of the Supreme People's Court on Issues Concerning the Application of Law in the Trial of Cases of Disputes over Contracts for Construction Projects."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a consumer of commercial housing purchases housing for the purpose of residence and has paid the full price, and claims that the right to claim delivery of the housing takes priority over the right of priority in satisfaction in respect of construction project payments, mortgages and other claims, the people's court shall uphold the claim.\nWhere a consumer of commercial housing has paid only part of the price but has actually paid the remaining price before the conclusion of the court debate at first instance, the provisions of the preceding paragraph may apply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where the housing cannot be delivered and there is no practical possibility of delivery, and the consumer of commercial housing claims that the right to claim refund of the price takes priority over the right of priority in satisfaction in respect of construction project payments, mortgages and other claims, the people's court shall uphold the claim."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0262'] = {
+    "lawId": "CN-JI-0262",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 6 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where an intellectual property right holder claims that its right has been infringed and applies for preservation measures, requesting a network service provider or an e-commerce platform operator to promptly take takedown measures such as deleting, blocking or disabling links, the people's court shall examine the application in accordance with the law and make a ruling."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "After receiving a notice lawfully issued by an intellectual property right holder, a network service provider or e-commerce platform operator shall promptly forward the holder's notice to the relevant network user or business operator on the platform and shall take necessary measures according to the preliminary evidence of infringement and the type of service; where necessary measures are not taken in accordance with the law and the holder claims that the network service provider or e-commerce platform operator bears joint and several liability with the network user or business operator on the platform for the expanded part of the damage, the people's court may uphold the claim in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where, within a reasonable period after a lawfully forwarded statement of the non-existence of infringing conduct reaches the intellectual property right holder, a network service provider or e-commerce platform operator has not received notice that the holder has lodged a complaint or instituted legal proceedings, it shall promptly terminate the takedown measures such as deleting, blocking or disabling links that it has taken. Delay caused by special circumstances beyond the holder's control, such as the handling of notarisation or authentication formalities, shall not be counted in the above period, but that period shall not exceed 20 working days."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where the malicious submission of a statement causes an e-commerce platform operator to terminate necessary measures and thereby causes damage to an intellectual property right holder, and the holder requests corresponding punitive compensation in accordance with the relevant legal provisions, the people's court may uphold the request in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where the content of a notice issued by an intellectual property right holder does not conform to objective facts, but the holder claims in the proceedings that the notice was submitted in good faith and requests exemption from liability, and is able to prove the same by evidence, the people's court shall uphold the claim after examination and verification in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "This Reply applies to cases that had not yet been finally adjudicated when it was made; it does not apply to cases that had already been finally adjudicated when it was made and in which a party applies for retrial or a retrial is decided in accordance with the procedure for trial supervision."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0264'] = {
+    "lawId": "CN-JI-0264",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 6 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a person fabricates terrorist information and disseminates it, or allows it to be disseminated, thereby seriously disrupting social order, the act shall, in accordance with Article 291bis of the Criminal Law, be determined as the crime of fabricating false terrorist information.\nWhere a person, knowing that terrorist information has been fabricated by another person, intentionally disseminates it, thereby seriously disrupting social order, the act shall, in accordance with Article 291bis of the Criminal Law, be determined as the crime of intentionally disseminating false terrorist information."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a person fabricates or intentionally disseminates false terrorist information and any of the following circumstances is present, it shall be determined as \"seriously disrupting social order\" as prescribed in Article 291bis of the Criminal Law:\n(a) causing disorder at crowded places such as airports, railway stations, wharves, shopping malls, cinemas and theatres and sports venues, or necessitating the adoption of emergency evacuation measures;\n(b) affecting the normal operation of large passenger transport vehicles such as aircraft, trains and ships;\n(c) causing the interruption of the work, production, business, teaching or scientific research activities of State organs, schools, hospitals, factories, mines and enterprises or other units;\n(d) causing serious disorder in the life of residents of an administrative village or a community;\n(e) causing functional departments such as public security, armed police, fire control and health quarantine to adopt emergency response measures;\n(f) other circumstances that seriously disrupt social order."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a person fabricates or intentionally disseminates false terrorist information, seriously disrupting social order, and any of the following circumstances is present, the person shall, in accordance with Article 291bis of the Criminal Law, be given a heavier punishment as appropriate within the range of fixed-term imprisonment of not more than five years:\n(a) causing a flight to divert to an alternate airport or return, or causing the interruption of the operation of large passenger transport vehicles such as trains and ships;\n(b) repeatedly fabricating or intentionally disseminating false terrorist information;\n(c) causing direct economic losses of 200,000 yuan or more;\n(d) causing serious disorder in the life of residents within the area of a township or a subdistrict;\n(e) other circumstances warranting a heavier punishment as appropriate."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a person fabricates or intentionally disseminates false terrorist information, seriously disrupting social order, and any of the following circumstances is present, it shall be determined as \"causing serious consequences\" as prescribed in Article 291bis of the Criminal Law, and the person shall be sentenced to fixed-term imprisonment of not less than five years:\n(a) causing minor injuries to three or more persons or serious injuries to one or more persons;\n(b) causing direct economic losses of 500,000 yuan or more;\n(c) causing serious disorder in the life of residents within an area at or above the county level;\n(d) hindering the conduct of major State activities;\n(e) causing other serious consequences."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a person fabricates or intentionally disseminates false terrorist information, seriously disrupting social order, and the act also constitutes another crime, the person shall be punished for the heavier crime."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "\"False terrorist information\" as referred to in this Interpretation means untrue information that has as its content events seriously threatening public security, such as threats of explosion, biochemical threats, radiological threats, threats to hijack an aircraft, major disasters and major epidemics, and that may cause social panic or a public security crisis."
+        },
+        "noLabel": {
+          "en": "Article 6."
         }
       }
     ]

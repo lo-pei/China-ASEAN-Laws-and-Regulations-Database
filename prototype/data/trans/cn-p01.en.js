@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p01
-   法规 26 部 / 译文 26 条
+   法规 34 部 / 译文 57 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -56,6 +56,177 @@
     ]
   };
 
+  TR['CN-LAW-0005'] = {
+    "lawId": "CN-LAW-0005",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The phrase \"if modification is necessary\", as used in relation to the method for selecting the Chief Executive and the method for forming the Legislative Assembly for the year 2009 and thereafter as provided in the above two Annexes, means that modification may or may not be made."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The requirement provided in the above two Annexes that a bill be adopted by a majority of two-thirds of all the members of the Legislative Assembly, consented to by the Chief Executive, and reported to the Standing Committee of the National People's Congress for approval or for the record means the legal procedure that must be followed when the method for selecting the Chief Executive and the method for forming the Legislative Assembly are modified. Only after the above procedure has been followed, including final approval or recording by the Standing Committee of the National People's Congress in accordance with law, may the modification take effect. As to whether modification is necessary, the Chief Executive of the Macao Special Administrative Region shall submit a report to the Standing Committee of the National People's Congress, which shall determine the matter in accordance with Articles 47 and 68 of the Basic Law of the Macao Special Administrative Region of the People's Republic of China and in the light of the actual situation of the Macao Special Administrative Region. A bill to modify the method for selecting the Chief Executive and the method for forming the Legislative Assembly shall be introduced into the Legislative Assembly by the government of the Macao Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "If the method for selecting the Chief Executive and the method for forming the Legislative Assembly provided in the above two Annexes are not modified, the method for selecting the Chief Executive shall continue to be governed by the provisions of Annex I on the method for selecting the Chief Executive, and the method for forming the Legislative Assembly shall continue to be governed by the provisions of Annex II on the method for forming the Legislative Assembly.\nThis is hereby announced."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0006'] = {
+    "lawId": "CN-LAW-0006",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 5 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "All Macao residents of Chinese descent who were born in Chinese territory (including Macao), and other persons who meet the conditions for possessing Chinese nationality as prescribed by the Nationality Law of the People's Republic of China, are Chinese citizens, irrespective of whether they hold Portuguese travel documents or identity documents.\nResidents of the Macao Special Administrative Region who are of Chinese descent and also of Portuguese descent may, in accordance with their own wishes, choose the nationality of the People's Republic of China or the nationality of the Portuguese Republic. Once one of these nationalities is determined, the person does not possess the other nationality. The said residents of the Macao Special Administrative Region shall, before choosing a nationality, enjoy the rights prescribed by the Basic Law of the Macao Special Administrative Region, except for rights restricted by nationality."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Chinese citizens of Macao who hold Portuguese travel documents may, after the establishment of the Macao Special Administrative Region, continue to use such documents to travel to other countries or regions, but they shall not, in the Macao Special Administrative Region or other parts of the People's Republic of China, enjoy the right to Portuguese consular protection by reason of holding the said Portuguese travel documents."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Chinese citizens of the Macao Special Administrative Region who have the right of residence in a foreign country may use the relevant documents issued by the foreign government to travel to other countries or regions, but they shall not, in the Macao Special Administrative Region or other parts of the People's Republic of China, enjoy the right to foreign consular protection by reason of holding the said documents."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Chinese citizens among the former Macao residents who returned to Macao from overseas before or after the establishment of the Macao Special Administrative Region may, if they change their nationality, declare the change, with valid documents, to the organ of the Macao Special Administrative Region that accepts applications concerning nationality."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The Government of the Macao Special Administrative Region is authorised to designate its relevant bodies to handle all matters concerning applications for nationality in accordance with the Nationality Law of the People's Republic of China and the above provisions."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0007'] = {
+    "lawId": "CN-LAW-0007",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 6 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "All Hong Kong residents of Chinese descent who were born in Chinese territory (including Hong Kong), and other persons who meet the conditions for Chinese nationality as provided in the Nationality Law of the People's Republic of China, are Chinese citizens."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "All Chinese compatriots in Hong Kong are Chinese citizens, regardless of whether they hold a “British Dependent Territories Citizen passport” or a “British National (Overseas) passport”. As from 1 July 1997, the above-mentioned Chinese citizens may continue to use valid travel documents issued by the British Government to travel to other countries or regions, but they shall not, by virtue of holding the above-mentioned British travel documents, be entitled to British consular protection in the Hong Kong Special Administrative Region or other parts of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Any Chinese citizen in Hong Kong who has acquired British citizenship under the “British Nationality Scheme” of the British Government shall not be recognised under the Nationality Law of the People's Republic of China. Such persons shall remain Chinese citizens and shall not be entitled to British consular protection in the Hong Kong Special Administrative Region or other parts of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Chinese citizens of the Hong Kong Special Administrative Region who have the right of residence in foreign countries may use the relevant documents issued by foreign governments to travel to other countries or regions, but they shall not, by virtue of holding the above-mentioned documents, be entitled to foreign consular protection in the Hong Kong Special Administrative Region or other parts of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where the nationality of a Chinese citizen of the Hong Kong Special Administrative Region changes, he or she may, on the strength of valid documents, declare the change to the authority of the Hong Kong Special Administrative Region that accepts applications concerning nationality."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The Government of the Hong Kong Special Administrative Region is authorised to designate its Immigration Department as the authority of the Hong Kong Special Administrative Region that accepts applications concerning nationality, and the Immigration Department of the Hong Kong Special Administrative Region shall handle all matters concerning applications for nationality in accordance with the Nationality Law of the People's Republic of China and the above provisions."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0008'] = {
     "lawId": "CN-LAW-0008",
     "sourceLang": "zh",
@@ -75,6 +246,57 @@
         },
         "noLabel": {
           "en": "Article 22."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0009'] = {
+    "lawId": "CN-LAW-0009",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Concerning Question (1) referred by the Court of Final Appeal of the Hong Kong Special Administrative Region for interpretation. In accordance with the provisions of subparagraph (i) of Article 89 of the Constitution of the People's Republic of China, the State Council, that is, the Central People's Government, exercises the functions and powers of administering the foreign affairs of the State, and the rules or policies on State immunity fall within the category of diplomatic affairs in the foreign affairs of the State; the Central People's Government is entitled to decide the rules or policies on State immunity of the People's Republic of China and to implement them uniformly within the territory of the People's Republic of China. On the above basis, and in accordance with the provisions of paragraph 1 of Article 13 of the Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China, which provide that 'the Central People's Government shall be responsible for the foreign affairs relating to the Hong Kong Special Administrative Region', the administration of the foreign affairs relating to the Hong Kong Special Administrative Region is a power of the Central People's Government, and the Central People's Government is entitled to decide the rules or policies on State immunity applicable in the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Concerning Question (2) referred by the Court of Final Appeal of the Hong Kong Special Administrative Region for interpretation. In accordance with paragraph 1 of Article 13 of the Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China and Article 1 of this Interpretation, the Central People's Government is entitled to decide the rules or policies on State immunity applicable in the Hong Kong Special Administrative Region; in accordance with Article 19 of the Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China and Article 3 of this Interpretation, the courts of the Hong Kong Special Administrative Region have no jurisdiction over acts of the Central People's Government in deciding the rules or policies on State immunity. Therefore, where, in trying a case, a court of the Hong Kong Special Administrative Region encounters an issue of jurisdictional immunity or immunity from execution of a foreign State and its property, it must apply and implement the rules or policies on State immunity that the Central People's Government has decided to apply in the Hong Kong Special Administrative Region. On the above basis, and in accordance with paragraph 1 of Article 13 and Article 19 of the Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China, the Hong Kong Special Administrative Region, including its courts, has the responsibility to apply or implement the rules or policies on State immunity that the Central People's Government has decided to adopt, and shall not depart from the said rules or policies, nor adopt rules different from the said rules or policies."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Concerning Question (3) referred by the Court of Final Appeal of the Hong Kong Special Administrative Region for interpretation. State immunity concerns whether the courts of a State have jurisdiction over a foreign State and its property and whether a foreign State and its property enjoy immunity in the courts of a State, and bears directly on the foreign relations and the international rights and obligations of that State. Therefore, deciding the rules or policies on State immunity is an act of State involving foreign affairs. On the above basis, the acts of State such as defence and foreign affairs provided in paragraph 3 of Article 19 of the Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China include acts of the Central People's Government in deciding the rules or policies on State immunity."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Concerning Question (4) referred by the Court of Final Appeal of the Hong Kong Special Administrative Region for interpretation. In accordance with Articles 8 and 160 of the Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China, the laws previously in force in Hong Kong are retained only where they do not contravene the Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China. In accordance with Article 4 of the Decision of the Standing Committee of the National People's Congress on the Handling of the Laws Previously in Force in Hong Kong in accordance with Article 160 of the Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China, the laws previously in force in Hong Kong that have been adopted as the laws of the Hong Kong Special Administrative Region shall, from 1 July 1997, be applied subject to such changes, adaptations, limitations or exceptions as are necessary so as to be consistent with the status of Hong Kong after the resumption of the exercise of sovereignty over Hong Kong by the People's Republic of China and with the relevant provisions of the Basic Law. The Hong Kong Special Administrative Region, as a local administrative region of the People's Republic of China that enjoys a high degree of autonomy and is directly under the Central People's Government, must implement the rules or policies on State immunity decided by the Central People's Government. The rules on State immunity in the laws previously in force in Hong Kong must conform to the above provisions before they may continue to be applied after 1 July 1997. On the above basis, and in accordance with paragraph 1 of Article 13 and Article 19 of the Basic Law, the rules on State immunity in the laws previously in force in Hong Kong that have been adopted as the laws of the Hong Kong Special Administrative Region in accordance with the Decision of the Standing Committee of the National People's Congress on the Handling of the Laws Previously in Force in Hong Kong in accordance with Article 160 of the Basic Law of the Hong Kong Special Administrative Region of the People's Republic of China shall, from 1 July 1997, be applied subject to such changes, adaptations, limitations or exceptions as are necessary so as to be consistent with the rules or policies on State immunity decided and adopted by the Central People's Government.\nThis is hereby announced."
+        },
+        "noLabel": {
+          "en": "Article 4."
         }
       }
     ]
@@ -123,6 +345,48 @@
         },
         "noLabel": {
           "en": "Article 104."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0012'] = {
+    "lawId": "CN-LAW-0012",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In accordance with Article 14 of the Law of the People's Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region, the Committee for Safeguarding National Security of the Hong Kong Special Administrative Region shall assume the statutory duties of safeguarding national security in the Hong Kong Special Administrative Region and shall be entitled to make judgments and decisions on whether a matter involves national security, and information on its work shall not be made public. Decisions made by the Committee for Safeguarding National Security of the Hong Kong Special Administrative Region shall not be subject to judicial review and shall have enforceable legal effect. All administrative, legislative and judicial organs and all organisations and individuals of the Hong Kong Special Administrative Region shall not interfere in the work of the Committee for Safeguarding National Security of the Hong Kong Special Administrative Region, and shall respect and execute the decisions of the Committee for Safeguarding National Security of the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "In accordance with Article 47 of the Law of the People's Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region, where, in the trial of a case involving a crime endangering national security, a court of the Hong Kong Special Administrative Region encounters a question of determining whether the relevant act involves national security or whether the relevant evidentiary material involves State secrets, it shall raise the question with the Chief Executive and obtain a certificate issued by the Chief Executive on that question, and the certificate shall be binding on the court."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The report submitted by the Chief Executive of the Hong Kong Special Administrative Region to the Central People's Government on 28 November in accordance with Article 11 of the Law of the People's Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region considers that overseas lawyers who do not have the full qualification to practise in the Hong Kong Special Administrative Region may, if they act as defenders or agents ad litem in cases involving crimes endangering national security, give rise to risks to national security. The question whether an overseas lawyer who does not have the full qualification to practise in the Hong Kong Special Administrative Region may act as a defender or an agent ad litem in a case involving a crime endangering national security is a question requiring determination as provided in Article 47 of the Law of the People's Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region, and a certificate issued by the Chief Executive shall be obtained. Where a court of the Hong Kong Special Administrative Region has not raised the question with the Chief Executive and obtained the certificate issued by the Chief Executive on that question, the Committee for Safeguarding National Security of the Hong Kong Special Administrative Region shall, in accordance with Article 14 of the Law of the People's Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region, perform its statutory duties and make the relevant judgments and decisions on such circumstances and questions.\nThis is hereby announced."
+        },
+        "noLabel": {
+          "en": "Article 3."
         }
       }
     ]
@@ -608,6 +872,90 @@
     ]
   };
 
+  TR['CN-LAW-0036'] = {
+    "lawId": "CN-LAW-0036",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The Hong Kong Special Administrative Region is authorised, as from the date on which the Hong Kong Port Area of the Huanggang Port and the relevant extension areas are put into use, to exercise jurisdiction over that area in accordance with the laws of the Hong Kong Special Administrative Region within the period provided in Article 3 of this Decision.\nThe Hong Kong Special Administrative Region shall exercise closed-area control over the Hong Kong Port Area of the Huanggang Port and the relevant extension areas."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The area over which the Hong Kong Special Administrative Region is authorised to exercise jurisdiction comprises the Hong Kong Port Area of the Huanggang Port, the Shenzhen section of the deck of the Lok Ma Chau Bridge connecting the port, the interior of the box girders of the bridge accessible via the deck, and the surface of the connecting roads. The date on which the relevant area is put into use, together with its specific coordinates and area, shall be determined by the State Council. Within the period provided in Article 3 of this Decision, the use of the above area shall not be changed."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The government of the Hong Kong Special Administrative Region shall acquire the right to use the Hong Kong Port Area of the Huanggang Port and the relevant extension areas by way of lease, the term of the lease running from the date on which the relevant area is put into use until 30 June 2047. On the expiry of the lease term, the lease may be renewed upon a decision of the Standing Committee of the National People's Congress."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0037'] = {
+    "lawId": "CN-LAW-0037",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Before the relevant tax laws are enacted, foreign-invested enterprises and foreign enterprises shall, from 1 January 1994, apply the Interim Regulations on Value-added Tax, the Interim Regulations on Consumption Tax and the Interim Regulations on Business Tax issued by the State Council. The Regulations of the People's Republic of China on Consolidated Industrial and Commercial Tax (Draft), which were adopted in principle at the 101st meeting of the Standing Committee of the National People's Congress on 11 September 1958 and promulgated by the State Council for trial implementation on 13 September 1958, shall be repealed at the same time.\nFor Sino-foreign cooperative exploitation of offshore petroleum and natural gas, value-added tax shall be levied in kind, and the tax rate and the collection measures shall be separately prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a foreign-invested enterprise approved and established before 31 December 1993 incurs an increased tax burden because value-added tax, consumption tax and business tax are levied in place of the former taxes in accordance with Article 1 of this Decision, the tax authority shall, upon application by the enterprise and with its approval, refund the tax overpaid as a result of the increased tax burden within the approved period of operation, for a period not exceeding five years; where there is no period of operation, the tax authority shall, upon application by the enterprise and with its approval, refund the tax overpaid as a result of the increased tax burden within a period not exceeding five years. The specific measures shall be prescribed by the State Council."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Apart from value-added tax, consumption tax and business tax, the application of other categories of tax to foreign-invested enterprises and foreign enterprises shall, where laws provide for it, be governed by the provisions of the laws; where the laws do not provide for it, be governed by the provisions of the State Council.\nFor the purposes of this Decision, \"foreign-invested enterprise\" means a Sino-foreign equity joint venture, a Sino-foreign cooperative joint venture or a wholly foreign-owned enterprise established within the territory of China.\nFor the purposes of this Decision, \"foreign enterprise\" means a foreign company, enterprise or other economic organisation that establishes an establishment or place of business within the territory of China and engages in production and operation, or that, although it has not established an establishment or place of business, has income sourced from within the territory of China.\nThis Decision shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0040'] = {
     "lawId": "CN-LAW-0040",
     "sourceLang": "zh",
@@ -627,6 +975,57 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0043'] = {
+    "lawId": "CN-LAW-0043",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Maritime courts shall be established in certain port cities along the coast as required.\nThe establishment, alteration or abolition of a maritime court shall be decided by the Supreme People's Court.\nThe structure of the adjudicative organs and the administrative offices of a maritime court shall be prescribed by the Supreme People's Court."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "A maritime court shall be responsible to the standing committee of the people's congress of the city in which it is located.\nThe adjudicative work of a maritime court shall be supervised by the higher people's court of the place in which it is located."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "A maritime court shall have jurisdiction over maritime cases and maritime commercial cases of first instance, and shall not accept criminal cases or other civil cases.\nThe division of the areas of jurisdiction of the maritime courts shall be prescribed by the Supreme People's Court.\nAppeals against judgments and rulings of a maritime court shall be under the jurisdiction of the higher people's court of the place in which the maritime court is located."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The president of a maritime court shall be appointed and removed by the standing committee of the people's congress of the city in which the court is located, on the proposal of the chairman of that standing committee.\nThe vice-presidents, the chief judges of divisions, the deputy chief judges of divisions, the judges and the members of the judicial committee of a maritime court shall be appointed and removed by the standing committee of the people's congress of the city in which the court is located, on the proposal of the president of the maritime court."
+        },
+        "noLabel": {
+          "en": "Article 4."
         }
       }
     ]

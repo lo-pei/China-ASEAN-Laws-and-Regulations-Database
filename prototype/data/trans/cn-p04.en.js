@@ -1,12 +1,63 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p04
-   法规 3 部 / 译文 507 条
+   法规 5 部 / 译文 515 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR['CN-LAW-0275'] = {
+    "lawId": "CN-LAW-0275",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The People's Republic of China grants immunity from judicial compulsory measures of property preservation and enforcement in respect of the property of foreign central banks; except where the foreign central bank or the government of the State to which it belongs has waived the immunity in writing, or where the property has been designated for property preservation and enforcement."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For the purposes of this Law, foreign central bank means the central bank of a foreign State or of a regional economic integration organisation, or a financial management institution performing the functions of a central bank.\nFor the purposes of this Law, property of a foreign central bank means the cash, negotiable instruments, bank deposits, securities, foreign exchange reserves and gold reserves of a foreign central bank, as well as the immovable property and other property of that bank."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a foreign State does not grant immunity to the property of the central bank of the People's Republic of China or of the financial management institution of a special administrative region of the People's Republic of China, or grants immunity less than that provided for in this Law, the People's Republic of China shall act on the principle of reciprocity."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "This Law shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      }
+    ]
+  };
 
   TR['CN-LAW-0293'] = {
     "lawId": "CN-LAW-0293",
@@ -6090,6 +6141,57 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0305'] = {
+    "lawId": "CN-LAW-0305",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 4 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "A new article is added after Article 177 of the Criminal Law, to be Article 177-1: \"Where any of the following circumstances exists, obstructing credit card management, the offender shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention, and shall also, or shall only, be fined not less than 10,000 yuan but not more than 100,000 yuan; where the quantity is huge or there are other serious circumstances, the offender shall be sentenced to fixed-term imprisonment of not less than three years but not more than ten years, and shall also be fined not less than 20,000 yuan but not more than 200,000 yuan:\n\"(a) knowingly holding or transporting a counterfeit credit card, or knowingly holding or transporting a counterfeit blank credit card, in a relatively large quantity;\n\"(b) illegally holding credit cards of another person in a relatively large quantity;\n\"(c) using false identification documents to fraudulently obtain a credit card;\n\"(d) selling, purchasing or providing to another person a counterfeit credit card, or a credit card fraudulently obtained with false identification documents.\n\"Whoever steals, buys or illegally provides information and data on credit cards of another person shall be punished in accordance with the provisions of the preceding paragraph.\n\"Where a staff member of a bank or other financial institution, taking advantage of the convenience of his or her position, commits the crime mentioned in paragraph 2, he or she shall be given a heavier punishment.\""
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Article 196 of the Criminal Law is amended to read: \"Where any of the following circumstances exists and credit card fraud is conducted, and the amount is relatively large, the offender shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention, and shall also be fined not less than 20,000 yuan but not more than 200,000 yuan; where the amount is huge or there are other serious circumstances, the offender shall be sentenced to fixed-term imprisonment of not less than five years but not more than ten years, and shall also be fined not less than 50,000 yuan but not more than 500,000 yuan; where the amount is especially huge or there are other especially serious circumstances, the offender shall be sentenced to fixed-term imprisonment of not less than ten years or life imprisonment, and shall also be fined not less than 50,000 yuan but not more than 500,000 yuan, or shall have property confiscated:\n\"(a) using a counterfeit credit card, or using a credit card fraudulently obtained with false identification documents;\n\"(b) using an invalidated credit card;\n\"(c) using a credit card of another person under false pretences;\n\"(d) making a malicious overdraft.\n\"Malicious overdraft mentioned in the preceding paragraph means the act of a cardholder who, for the purpose of illegal possession, makes an overdraft exceeding the prescribed limit or the prescribed period and still fails to repay it after the issuing bank has demanded repayment.\n\"Whoever steals a credit card and uses it shall be convicted and punished in accordance with the provisions of Article 264 of this Law.\""
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "A paragraph is added to Article 369 of the Criminal Law as paragraph 2, and that article is amended to read: \"Whoever destroys weapons and equipment, military installations or military communications shall be sentenced to fixed-term imprisonment of not more than three years, criminal detention or public surveillance; whoever destroys important weapons and equipment, military installations or military communications shall be sentenced to fixed-term imprisonment of not less than three years but not more than ten years; where the circumstances are especially serious, the offender shall be sentenced to fixed-term imprisonment of not less than ten years, life imprisonment or the death penalty.\n\"Whoever negligently commits the crime mentioned in the preceding paragraph and causes serious consequences shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention; where especially serious consequences are caused, the offender shall be sentenced to fixed-term imprisonment of not less than three years but not more than seven years.\n\"Whoever commits the crimes mentioned in the preceding two paragraphs in wartime shall be given a heavier punishment.\""
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "This Amendment shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 4."
         }
       }
     ]

@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p09
-   法规 3 部 / 译文 3 条
+   法规 9 部 / 译文 25 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -56,6 +56,165 @@
     ]
   };
 
+  TR['CN-JI-0272'] = {
+    "lawId": "CN-JI-0272",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The \"companies, enterprises and institutions\" provided for in Article 30 of the Criminal Law include not only state-owned and collectively-owned companies, enterprises and institutions, but also equity joint ventures and contractual joint ventures established in accordance with law, and sole proprietorship, private and other companies, enterprises and institutions with the status of a legal person."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where an individual establishes a company, enterprise or institution for the purpose of carrying out illegal or criminal activities and a crime is committed by that entity, or where a company, enterprise or institution, after its establishment, takes the commission of crimes as its main activity, it shall not be dealt with as a unit crime."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a crime is committed by usurping the name of a unit and the illegal gains are divided privately among the individuals who committed the crime, conviction and punishment shall be determined in accordance with the provisions of the Criminal Law on crimes committed by natural persons."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0273'] = {
+    "lawId": "CN-JI-0273",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "For cases accepted by arbitration institutions established in accordance with the relevant provisions before the Arbitration Law of the People's Republic of China (hereinafter referred to as the Arbitration Law) came into effect and tried after it came into effect, the relevant provisions of the Arbitration Law shall in principle apply. In view of the fact that the system of the former arbitration institutions differs from that of the arbitration institutions prescribed by the Arbitration Law, where the former arbitration institutions have difficulty in applying certain provisions of the Arbitration Law, such as those on the composition of the arbitral tribunal, the relevant provisions of the Regulations of the People's Republic of China on the Arbitration of Economic Contracts may also apply; and in trying a case concerning an application to set aside an arbitral award, a people's court shall not set aside the arbitral award on the ground that the provisions of the Arbitration Law were not applied."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where one party applies to a people's court to set aside an arbitral award, the people's court shall, in trying the case, list the other party as the respondent."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In a case where a party applies to a people's court to set aside an arbitral award, the case acceptance fee shall be charged in accordance with the charging standard for non-property cases; the fee shall be paid by the applicant.\nThis is our reply."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0274'] = {
+    "lawId": "CN-JI-0274",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 2 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a person resells train tickets at a high price or at a price increased in a disguised form, or resells seat or sleeping berth reservation numbers or vouchers for ordering train tickets, and the face value is not less than RMB 5,000, or the amount of illegal profit is not less than RMB 2,000, the circumstances shall constitute \"serious circumstances in the resale of train tickets\" as prescribed in paragraph 2 of Article 227 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a railway employee resells train tickets, or colludes with others in reselling train tickets; where a person is the ringleader in organising the resale of train tickets; or where a person who has previously been subjected to public security punishment two or more times, or to re-education through labour one or more times, for reselling train tickets resells train tickets again within two years, and the act constitutes the crime of reselling train tickets, a heavier punishment shall be imposed in accordance with law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0288'] = {
+    "lawId": "CN-JI-0288",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 3 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "\"Women\" in the crime of trafficking in women prescribed in Article 240 of the Criminal Law includes both women of Chinese nationality and women of foreign nationality and stateless women. The absence of identity documents for a foreign woman who has been trafficked shall not affect the conviction and punishment of the offender."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a foreign national or a stateless person is caught trafficking a foreign woman into the territory of China, the Criminal Law of China shall be applied to convict and punish that person in accordance with Article 6 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where the identity of a defendant of foreign nationality cannot be ascertained, or the State of which the defendant is a national refuses to provide the relevant identity documents, and the people's procuratorate initiates prosecution in accordance with paragraph 2 of Article 128 of the Criminal Procedure Law, the people's court shall accept the case in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0307'] = {
     "lawId": "CN-JI-0307",
     "sourceLang": "zh",
@@ -75,6 +234,135 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0320'] = {
+    "lawId": "CN-JI-0320",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 5 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a person intentionally damages public telecommunications facilities in use by such means as cutting communication lines, destroying communication equipment, or deleting, modifying or adding data and application programs stored, processed or transmitted in the computer information system of a telecommunications network, and any of the following circumstances exists, the act constitutes \"endangering public security\" as provided in Article 124 of the Criminal Law and shall, in accordance with paragraph 1 of Article 124 of the Criminal Law, be punished for the crime of damaging public telecommunications facilities by fixed-term imprisonment of not less than three years but not more than seven years:\n(a) causing interruption or serious impairment of communications for fire alarms, police alarms, medical emergency services, traffic accident reporting, disaster relief, emergency rescue, flood control and the like, thereby delaying rescue, medical treatment, disaster relief, emergency operations and the like, and resulting in the death of one person, serious injury to three or more persons, or property loss of RMB 300,000 or more;\n(b) causing interruption of communications for 2,000 or more but fewer than 10,000 subscribers for one hour or more, or for 10,000 or more subscribers for less than one hour;\n(c) within the scope of one local network, causing total blocking of inter-network communications, total interruption from a gateway office to a certain office direction, or total interruption of a certain service between networks for less than two hours, or a directly affected scope of less than 50,000 subscriber-hours;\n(d) causing serious impairment of inter-network communications which accumulates to two hours or more but less than twelve hours within one day;\n(e) other circumstances endangering public security."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a person commits an act provided in Article 1 of this Interpretation and any of the following circumstances exists, the act constitutes \"serious consequences\" as provided in paragraph 1 of Article 124 of the Criminal Law, and the person shall be punished for the crime of damaging public telecommunications facilities by fixed-term imprisonment of not less than seven years:\n(a) causing interruption or serious impairment of communications for fire alarms, police alarms, medical emergency services, traffic accident reporting, disaster relief, emergency rescue, flood control and the like, thereby delaying rescue, medical treatment, disaster relief, emergency operations and the like, and resulting in the death of two or more persons, serious injury to six or more persons, or property loss of RMB 600,000 or more;\n(b) causing interruption of communications for 10,000 or more subscribers for one hour or more;\n(c) within the scope of one local network, causing total blocking of inter-network communications, total interruption from a gateway office to a certain office direction, or total interruption of a certain service between networks for two hours or more, or a directly affected scope of 50,000 subscriber-hours or more;\n(d) causing serious impairment of inter-network communications which accumulates to twelve hours or more within one day;\n(e) causing other serious consequences."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a person intentionally damages public telecommunications facilities in use without yet endangering public security, or intentionally destroys public telecommunications facilities not yet put into use, causing loss of property, and the act constitutes a crime, the person shall, in accordance with Article 275 of the Criminal Law, be convicted and punished for the crime of intentional destruction of property.\nWhere public telecommunications facilities are stolen and the value involved is not large, but the act constitutes a crime endangering public security, the person shall be convicted and punished in accordance with Article 124 of the Criminal Law; where the theft of public telecommunications facilities constitutes both the crime of theft and the crime of damaging public telecommunications facilities, the person shall be convicted and punished in accordance with the provision that imposes the heavier punishment."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a person directs, organises or instigates another person to commit an intentional crime provided in this Interpretation, that person shall be convicted and punished as an accomplice."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The scope of public telecommunications facilities, the number of subscribers, and the standards and duration for interruption of communications and serious impairment provided in this Interpretation shall be determined in accordance with the relevant provisions of the competent department of the State for the telecommunications industry."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0329'] = {
+    "lawId": "CN-JI-0329",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 6 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "“Entering a residence to commit robbery” as provided in subparagraph (a) of Article 263 of the Criminal Law means the act of entering, for the purpose of committing robbery, another person's residence that is relatively separated from the outside world, including an enclosed courtyard, the tent of a herdsman, a fishing boat used by a fisherman as family living quarters and a house rented for living, and committing robbery therein.\nWhere a person who commits theft by entering a residence is discovered and uses violence on the spot or threatens to use violence, the act shall be determined as entering a residence to commit robbery."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "“Committing robbery on public transport” as provided in subparagraph (b) of Article 263 of the Criminal Law includes both robbery committed against passengers, drivers, conductors and crew members on various motorised public transport vehicles in operation, such as buses engaged in passenger transport, large and medium-sized taxis, trains, vessels and aircraft, and robbery committed against persons on board a motorised public transport vehicle after the vehicle in operation has been intercepted."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "“Robbery of a bank or other financial institution” as provided in subparagraph (c) of Article 263 of the Criminal Law means robbery of the operating funds, negotiable securities, customer funds and other property of a bank or other financial institution.\nRobbery of a cash-in-transit vehicle of a bank or other financial institution that is in use shall be deemed “robbery of a bank or other financial institution”."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The criteria for determining “a huge amount involved in robbery” as provided in subparagraph (d) of Article 263 of the Criminal Law shall be applied by reference to the criteria for determining a huge amount in the crime of theft as established in each locality."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "“Committing robbery with a gun” as provided in subparagraph (g) of Article 263 of the Criminal Law means the act of a perpetrator using a gun, or displaying to the victim a gun that he possesses or carries, to commit robbery. The concept and scope of “gun” shall be governed by the provisions of the Firearms Administration Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "“Snatching with a weapon” as provided in paragraph 2 of Article 267 of the Criminal Law means the act of a perpetrator who carries on his person firearms, explosives, controlled knives or other instruments that the State prohibits individuals from carrying, or who carries other instruments for the purpose of committing a crime, committing snatching."
+        },
+        "noLabel": {
+          "en": "Article 6."
         }
       }
     ]
