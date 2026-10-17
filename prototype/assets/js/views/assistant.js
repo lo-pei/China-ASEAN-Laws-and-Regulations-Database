@@ -251,7 +251,9 @@
         newConv();
         bindConv(curConv());
         renderConvList(); renderChat();
-        var inp = U().$('#q-input', main); if (inp) inp.focus();
+        var inp = U().$('#q-input', main);
+        /* preventScroll：否则浏览器会把输入框滚入视口，表现为「点新对话页面往下跳」 */
+        if (inp) { try { inp.focus({ preventScroll: true }); } catch (e) { inp.focus(); } }
       });
 
       /* ---------- API 配置弹窗 ---------- */
@@ -278,7 +280,8 @@
         var body = el.parentNode;
         if (body && body.classList) body.classList.toggle('is-empty', empty);
         el.innerHTML = empty ? welcomeHtml() : history.map(function (h) { return h.html; }).join('');
-        if (!empty) el.scrollIntoView({ block: 'end' });
+        /* 只滚动聊天区自身，不能 scrollIntoView —— 后者会连带滚动整个页面（切会话时页面下跳） */
+        if (!empty) el.scrollTop = el.scrollHeight;
       }
       renderChat();
       renderConvList();
@@ -303,7 +306,7 @@
           }
           if (liveBubble && document.body.contains(liveBubble)) {
             liveBubble.appendChild(kids[i].cloneNode(true));
-            liveBubble.scrollIntoView({ block: 'end' });
+            if (liveBubble.parentNode && liveBubble.parentNode.scrollHeight) { liveBubble.parentNode.scrollTop = liveBubble.parentNode.scrollHeight; }
           }
           i++;
           setTimeout(step, gap || 110);
