@@ -1,0 +1,77 @@
+{
+ "id": "MM-H124",
+ "title": {
+  "zh": "保险产品审批指令",
+  "en": "IBRD Directive No. 3/2020: Directive for Approval of Insurance Products",
+  "orig": null
+ },
+ "country": "MM",
+ "countryName": "缅甸",
+ "layer": "intl",
+ "pack": "mm-p01",
+ "language": "en",
+ "level": "directive",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2020-01-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "缅甸保险业务监管局（IBRD）",
+ "docNumber": "IBRD Directive No. 3/2020",
+ "officialCode": null,
+ "topics": [
+  "保险",
+  "金融监管"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 2,
+ "chars": 4010,
+ "source": {
+  "name": "用户提供的扫描件（Myanmar Law Library 复印件）",
+  "url": null,
+  "ocrEngine": "rapidocr-onnxruntime 1.4.4 (EN/CH model)",
+  "ocrRenderScale": 2.2,
+  "ocrAvgScore": 0.962,
+  "ocrMinScore": 0.542
+ },
+ "sourceFile": "mm-ibrd-2020-03-products.pdf",
+ "fetchedAt": "2026-10-18",
+ "completenessNote": "全文，共 2 条；由扫描件 OCR 后按原文条号切分，逐字未改写。　缅甸保险业务监管局 2020 年第 3 号指令（非官方英译）。",
+ "textQuality": "ocr",
+ "ocrNoisySections": null,
+ "pdfs": [
+  {
+   "file": "mm-ibrd-2020-03-products.pdf",
+   "pages": 4,
+   "ocrAvgScore": 0.962,
+   "suspiciousLines": 1,
+   "totalLines": 119
+  }
+ ],
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "MM-H124-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "In exercise of the powers conferred under Sub-section(b) of Section 38 of the\nInsurance Business Law, the Insurance Business Regulatory Board (\"IBRB\") hereby\nissues this Directive for Approval of Insurance Products.\nObjectives"
+   }
+  },
+  {
+   "id": "MM-H124-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2"
+   },
+   "text": {
+    "en": "The objectives of this Directive are as follows:\n(a)Ensuring that the insurance products are in line with the objectives and\nthe standards as prescribed by the Insurance Business Law, and the\nrelevant regulations, orders and directives;\n(b)Ensuring that the terms and conditions of the insurance policies are\nclear, fair, and not misleading to the customers and the intermediaries;\nand\n(c)Ensuring that the premium and the terms and conditions of the\ninsurance policies are prescribed in accordance with the calculations\nbased on actuarial science, the Insurance Business Law and the\nrelevant regulations.\n2\nApproval of InsuranceProducts\n3.\n(a)All insurers shall obtain the approval of the IBRB to introduce any new class\nof insurance products or to amend the terms and conditions of any approved\nclass of insurance products. The insurer shall apply to the Financial\ne  e)  g\nparticulars:\ni.insurance policy (in both Myanmar language and English language);\ni1.definitions of the terms;\ni11.endorsements (i.e. additional coverage);\niv.detailed premium calculation;\nV.technical insurance terms;\nvi.exclusions from the insurance coverage;\nvii.estimated premium and reserve calculations;\nvii.insurance-related general provisions; and\nix.the appointed actuary's report which includes the following information:\npricing assumptions\nreserving methodology\nprofit test results\nappointed actuary's certification on the adequacy of premium rates\nand appropriateness of the assumptions and methodology used for\npricing and reserving.\n(b)Any class of insurance products which have already been approved prior to\nthe date of this Directive shall be governed by the letter no.FRD/IBRB\n232/2020 issued by the IBRB dated 9 January 2020. Notwithstanding the\nforegoing, the IBRB shall be entitled to request for other additional\ninformation relating to such class of insurance products as it deems\nnecessary for purposes of the regulation of the insurance business.\n3\n(c)Provided that the insurer submits an application with complete information\nfor the approval of a new class of insurance products, the FRD shall submit to\nand obtain the approval of the IRBB within 90 days from the date of receipt\nof the application.\n4.An insurer who intends to introduce any new class of insurance products or\namend any approved class of insurance products may submit an application to the\nFRD, which shail state that the insurance premium and the terms and conditions of\nthe insurance policies have been prescribed in accordance with actuarial science,\nthe Insurance Business Law and the relevant regulations, and that the terms and\nconditions of the insurance policies are clear, fair, and not misleading to the\ncustomersandtheintermediaries.\n5.An insurer may submit an application to the IBRB for only one class of\ninsurance products at any one time. Following the approval by the IBRB for a new\nclass of insurance products, the insurer may submit an application for another new\nclass of insurance products.\n6.Where a new class of insurance products is of particular importance to the\napplicant insurer and should therefore be kept confidential, the insurer may directly\ninform the FRD accordingly. With respect to the approval of such new class of\ninsurance products, the FRD shall comply with the approval process as set out in\nParagraph 3.\nMaung Maung Win\nChairman\nInsuranceBusinessRegulatoryBoard\nLetterNo:FRD/IBRB/033/2020\nDate:#March, 2020\nDistribution to:\nMinistry of Planning, Finance and Industry\nMembers of the Insurance Business Regulatory Board\nLocal insurance companies\nForeign life insurance companies\nJoint venture insurance companies\nMyanmar Insurance Association\nMyanmar Banks Association\nMyanmar Microfinance Association\nBy Order\nxxxxxx\n(Zaw Naing)\nSecretary\nInsurance Business Regulatory Board"
+   }
+  }
+ ]
+}

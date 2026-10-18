@@ -3,7 +3,7 @@
  "updatedAt": "2026-10-17",
  "note": "法规标题中文译名的权威导出与交付物归档。译名正文以 prototype/data/laws/<id>.json 的 title.zh 为唯一真源，本目录为其汇总导出与过程存档。",
  "lawCount": 18854,
- "translatedCount": 17985,
+ "translatedCount": 17992,
  "coverage": {
   "PH": {
    "total": 10619,
@@ -151,6 +151,14 @@
    "engine": "llm",
    "model": "deepseek-v4.1-flash",
    "createdAt": "2026-10-17T10:37:42.978Z"
+  },
+  {
+   "id": "MM-OCR-2026-10-18",
+   "desc": "缅甸法规/指令扫描件 OCR 入库（MM-H120..MM-H126，7 部）",
+   "date": "2026-10-18",
+   "count": 7,
+   "source": "用户提供的 Myanmar Law Library 扫描件",
+   "note": "OCR by rapidocr-onnxruntime 1.4.4；OCR 置信度与噪声页记录在各法规 source/pdfs 字段"
   }
  ],
  "files": [
@@ -158,5 +166,6 @@
   "PROVENANCE.md",
   "artifacts/",
   "index.json"
- ]
+ ],
+ "generatedAt": "2026-10-18"
 }

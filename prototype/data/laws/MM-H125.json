@@ -1,0 +1,99 @@
+{
+ "id": "MM-H125",
+ "title": {
+  "zh": "再保险指令",
+  "en": "IBRD Directive No. 4/2020: Reinsurance Directive",
+  "orig": null
+ },
+ "country": "MM",
+ "countryName": "缅甸",
+ "layer": "intl",
+ "pack": "mm-p01",
+ "language": "en",
+ "level": "directive",
+ "category": null,
+ "status": "active",
+ "promulgatedDate": "2020-01-01",
+ "effectiveDate": null,
+ "versionDate": null,
+ "amendedNote": null,
+ "issuingBody": "缅甸保险业务监管局（IBRD）",
+ "docNumber": "IBRD Directive No. 4/2020",
+ "officialCode": null,
+ "topics": [
+  "保险",
+  "金融监管"
+ ],
+ "coverage": "full",
+ "structureMode": "ARTICLE",
+ "structure": null,
+ "articleCount": 3,
+ "chars": 14496,
+ "source": {
+  "name": "用户提供的扫描件（Myanmar Law Library 复印件）",
+  "url": null,
+  "ocrEngine": "rapidocr-onnxruntime 1.4.4 (EN/CH model)",
+  "ocrRenderScale": 2.2,
+  "ocrAvgScore": 0.88,
+  "ocrMinScore": 0.501
+ },
+ "sourceFile": "mm-ibrd-2020-04-reinsurance.pdf",
+ "fetchedAt": "2026-10-18",
+ "completenessNote": "全文，共 3 条；由扫描件 OCR 后按原文条号切分，逐字未改写。　缅甸保险业务监管局 2020 年第 4 号指令（非官方英译）。",
+ "textQuality": "ocr",
+ "ocrNoisySections": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "pdfs": [
+  {
+   "file": "mm-ibrd-2020-04-reinsurance.pdf",
+   "pages": 22,
+   "ocrAvgScore": 0.88,
+   "suspiciousLines": 23,
+   "totalLines": 614
+  }
+ ],
+ "duplicateOf": null,
+ "articles": [
+  {
+   "id": "MM-H125-A1",
+   "no": 1,
+   "noLabel": {
+    "en": "Article 1"
+   },
+   "text": {
+    "en": "In exercise of the power conferred by section 38 (b) of the Insurance Business Law,\n1996, the Insurance Business Regulatory Board (IBRB) hereby issues this reinsurance\ndirective.\nDefinitions"
+   }
+  },
+  {
+   "id": "MM-H125-A2",
+   "no": 2,
+   "noLabel": {
+    "en": "Article 2"
+   },
+   "text": {
+    "en": "In this directive, unless the context otherwise requires, the following expression\nshall have the meanings given hereunder : -\n(a)'Cedant' means an insurer who underwrites and issues an original, primary\npolicy to an insured and contractually transfers (cedes) a portion of the risk\ntoaninsurer or areinsurer whocedes part of contracted risk toa\nretrocessionaire;\n(b)'Cession' means the part of insurance passed to a reinsurer by the insurer\na reinsurer to a retrocessionaire;\n(c)*Fronting' means a process of transferring risk in which a Myanmar insurer\ncedes or retro-cedes most of or all of the assumed risk to a Reinsurer or\nretrocessionaire;\n(d)“Facultative Reinsurance' means reinsurance for a single risk or a defined\npackage of risks, where the portion of the risks shall be expressed between\nthe cedant and reinsurer;\n2\n(e)'Reinsurance Treaty' means a reinsurance contract between the cedant and\nthe reinsurer, usually for one year or longer, which stipulates the technical\nparticulars and financial terms applicable to the reinsurance of defined\nclass(es) or segment(s) of insurance;\n(f)'Retrocessionaire' means a reinsurance company  that insures other\nreinsurers.\n(g)‘Retrocession' means the transaction whereby a reinsurer cedes to another\ninsurer or reinsurer all or part of the reinsurance it has previously assumed;\n(h)'Retention' means the portion of the risk which a Myanmar insurer/ reinsurer\nassumes for its own account;\n(i)\"Insurance Segment' for the purpose of this directive, shall mean the\nfollowing classes of insurance risks:\ni.Fire (Other than Oil & Gas);\nii.Marine Hull & Cargo;\nili.Engineering;\niv.Aviation\nV.Motor;\nvi.Health\nvii.Personal Accident\nvili.Travel\nix.Agriculture;\nX.Oil and Gas\nxi.Liability;\nxii.Life Insurance; and\nxilil.any other segment as may be specified by the IBRB from time to time;\n(j)'Cover Note' is a written document issued by the insurer or the reinsurance\nbroker authorized by it, dealing the terms and conditions of the insurance\nor reinsurance contract;\n3\n(k)‘Reinsurance Slip' is a document, which provides the details of the risk, terms\nand conditions offered for reinsurance;\n(l):Reinsurance Contract' is a commercial agreement and legally binding on all\nthe parties including the terms, rights and obligations evidenced by a\nReinsurance Slip or Cover Note or reinsurance policy;\n(m)\"Insurer\" means an insurer or a JV partner that has been granted an\ninsurance and / or reinsurance licence in Myanmar.\n(n)Cross Border Reinsurer', hereinafter called by acronym ‘CBR', means an\ninsurer having reinsurance business licence granted by its home insurance\njurisdiction or reinsurer who is not registered in Myanmar as an insurance\ncompany or reinsurance company or foreign reinsurer branch but does\nreinsurance -business-with a Myanmar insurer/Reinsurer or a foreign\nReinsurer;\n(0)'Reinsurer' means a JV partner or 100% wholly owned subsidiary foreign\nreinsurer or foreign reinsurer's branch that has been granted a reinsurance\nlicence in Myanmar.\n(p)\nreinsurance in which the participating Myanmar insurer/s or reinsurer/s\nassume a predetermined and fixed share in all business written;\nObjectives"
+   }
+  },
+  {
+   "id": "MM-H125-A3",
+   "no": 3,
+   "noLabel": {
+    "en": "Article 3"
+   },
+   "text": {
+    "en": "The objectives of this directive are as the following:\na.Maximize Retention within the country, subject to proper and adequate\ndiversification of risks;\nb.Secure the best possible reinsurance coverage required to protect the interest\nof the policyholders and (retro)cedants at a reasonable cost;\nC.Develop adequate technical capability and financial capacity; and\nd.Simplify the administration of reinsurance business;\n4\nCompulsory Retention\n4。Every Myanmar Insurer and Reinsurer :\na。shall maintain the maximum retention commensurate with its financial\nstrength, quality of risks and volume of business;\nb.shall formulate a suitable Retention program for each insurance segment. In\ncase the insurance segment consists of more than one product,retention\nprogram for eachproduct shall beseparately defined; and\nC.ensure that the reinsurance arrangement is not Fronting to CBRs.\n5. Every Myanmar insurer and Reinsurer, transacting life insurance business, shall\nmaintain.a minimum retention of 2o% of sum at risk for each life insurance business\nportfolio.\n6.1The IBRB may require every Myanmar Insurer and Reinsurer to justify its compulsory\nRetention program in accord with rating of the CBRs and maximum overall cession limits\nallowed per CBR stipulated in Section 18, and may give such -instructions, as considered\nnecessary, to fulfill the objectives.\nReinsurance Program\n7.Every Myanmar insurer shall-\ni.commence its annual reinsurance program for every financial year;\nii.submit to the IBRB, Board of Directors or (CA, CFO and/or CEO) of the\nMyanmar insurers approved reinsurance program along with its retention\nprogram for the forthcoming financial year, 90 days before the\ncommencement of the financial year;\niii。within 30 days after the beginning of the financial year, submit the following\ndocuments to the IBRB:\na. its Board of Directors or (CA, CFO and/or CEO) approved final\nreinsurance program with a declaration by the CEO that the entity has\nnot made any change in the filed program;\n5\nb.details of actual placements with its Reinsurers during the previous\nfinancial year for each insurance segment;\niv.file with the IBRB any new or revision of its reinsurance program, giving full\ndetails with related documents, reasons for the revision of such program\ntogether with Board of Directors or (CA, CFO and/or CEO) approved copy\nwithin15 days of approval of theBoard of Directors or(CA,CFO and/or CEO);\n8。The Board of Directors or (CA, CFO and/or CEO), while formulating the reinsurance\nprogram and the Retention policy, shall ensure that the reinsurance arrangements are\neffective and appropriate by taking into consideration, the following factors:\na.Related Businesses;\nb.Overall risk appetite;\nC.Extent of required.reinsuranceprotection;\nd.Level of risk concentration;\ne.Retention levels;\nf.Type of reinsurance program; and\ng.Mechanismofreinsurance.\n9.The final reinsurance programs of Myanmar insurers and Reinsurers shall consider\nthe following matters:\na.theparametersconsidered for fixation of Retentionlimitsfor everyproduct of\neach insurance segment;\nb.the proposed Retention limits on every product of each Insurance Segment\nalong with corresponding retention limits in the previous year;\nC.the levels of retention ratio on each Insurance Segments for the previous\nthree financial years;\nd.premium income for the last financial year and the projected premium\nincome for the forthcoming financial year inrespect of eachinsurance\nsegment and product;\ne.the structure of the reinsurance program with details of proportional\narrangements and non-proportional arrangements  for each Insurance\n6\nSegment (including Reinsurance Treaty capacity, Retention limits, estimated\npremium, reinsurance commission, event limits etc.);\nf。a statement of Reinsurance cost (in .terms of quantum to gross written\npremium) giving details of Gross Written premium, premium ceded on\nproportional arrangements and ceded on non-proportional arrangements\n(includingprojectedcostsfor theforthcomingfinancialyear and the actual\ncosts for the previous three financial years including estimated cost for\ncurrent financial year);\ng.Every Myanmar insurer shall submit thefollowing reports to the IBRB 30 days\nafter the end of the financial year:\n(a)Operation of reinsurance business in the previous financial year; and\n(b)Provisioning methods and amounts for each kind of reserve related'to\nreinsurance business and signed by the certifying actuary;\nCatastrophic Risk Protection\n10.  Every Myanmar insurer;\n(a) shall ensure that its reinsurance arrangements in respect of catastrophe\naccumulations are adequate;\n(b)may have the Myanmar catastrophe modeling report, if available, and the\nreinsurance arrangements being based on the  Myanmar  catastrophe\nmodeling report for the forthcoming financial year duly approved by its Board\nof Directors or (CA, CFO and/or CEO);\n(c)shall file with FRD a summary of the catastrophe modeling report (if\navailable) along with the reinsurance program.\nMaintenance of Records\n11.Every Myanmar insurer shall keep data backup and submit electronic copies of each\nand every reinsurance contract, list of reinsurers with their credit rating, their shares in the\nproportional and non-proportional reinsurance arrangement. The hard copies of the\n7\nabove documents shall be maintained for the period specified in the relevant existing\nregulations and shall bemade available to theFRDforon-site inspection.\nCross Border Reinsurance (CBR)\n12.  No Myanmar insurer shall place its reinsurance business with any CBR, unless the\nCBR satisfies the following eligibility criteria:\nit is an insurance or reinsurance entity in its home country, duly authorized\nsn s   a no r\nimmediate past three continuous years;\nb.it has a credit rating of at least BBB from Standard & Poor or equivalent\nrating from an international rating agency during the immediate past three\ncontinuousyears;\nC.  as  nbe  o u ios n sr !\nd.the past claims settlement experience of the CBR is found to be satisfactory\nin the reasonable opinion of the IBRB; and\ne.it complies with any other reasonable requirements as stipulated by the IBRB\nfrom time to time.\n13. The IBRB may stipulate norms for relaxations and its changes of these criteria and\nlimits of cessions for a CBR, if necessary.\nProceduresfor Reinsurance Placements\n14. Every cedant, shall be free to obtain best terms for its reinsurance protection of\ndomestic risks, subject to the following;\nthe Cedant shall seek terms at least from any appropriate reinsurer, who\nhave been transacting reinsurance business in and/or outside of Myanmar.\nb.no Cedant shall seek terms from any reinsurer having credit rating below BBB\nfrom Standard & Poor's or equivalent rating from any other International\n8\nRating Agency, or CBRs having credit rating below BBB from Standard &\nPoor's or equivalent rating from any other International Rating Agency.\nC.no Cedant shall seek reinsurance protection from any Myanmar insurer, not\ngranted licence to transact reinsurance business, by the IBRB.\n15.Every cedant shall offer best terms obtained, for participation in the following order\nof preference;\na.to Myanma Insurance, having allowed by its law to transacting reinsurance\nbusiness; and then\nb.to other Myanma reinsurers andforeignreinsurer'sbranchesregistered and\nlicensed in Myanma; and then\nC.to the CBR who provided the best and lead terms with capacity of major\nportion;\n16.  The Cedant shall be responsible and accountable to comply with this directive,\nirrespective of whether the offer for participation is made directly or through reinsurance\nbrokers.\n17.Nothing in Sections (14), (15), and (16) shall apply to the following:\na.insurance Pools;\nb.existing co- insurance scheme of the insurers transacting direct insurance\nbusiness;\na.reinsurance placements of the insurers transacting life insurance business.\nHowever, the insurers, transacting life insurance business, shall endeavor to\nutilize the Myanmar domestic capacity before offering to the CBRs;\nCompulsory Cession Limits\n18.  (Unless an exemption is granted by the IBRB, reinsurance placements with CBRs by\nthe Cedants transacting other than life insurance business shall be subject to the following\noverall cession limit during a financial year.\n9\nRating of the CBRs as per Standard & PoorMaximum overall cession limits\nor equivalentallowed per CBR\nGreater than A+50%\nGreater than BBB+ and up to and including A+40%\nBBB&BBB+20%\nExplanation:The abovepercentages are to be calculated on the total\nreinsurancepremiumcededoutsideMyanmar.\n19.No placement exceeding the aforesaid limits shall be made unless prior approval\nhasbeenobtained from theIBRB.\n20.Every Myanmar insurer/ Reinsurer and foreign Reinsurer shall cede a compulsory\nmaximum cession up to 10% of any insurance segment business to Myanma Insurance, but\nrefuses to provide cover is of its own discretion. Should Myanma lnsurance refuse to\nexercise its right to retain any portion of the risk offered to it, the residual part of the risk\nmaybe insured with a CBR or series of CBRs.\nInsurancePools\n21.The proposal for an Insurance Pool in Myanmar, could be initiated by any insurer by\nsubmitting a proposal to the IBRB.\n22. The IBRB, after examining various factors including its objectives, basis, capacity for\nparticipation, limits of liability, terms and conditions, may permit formation of domestic\nInsurance Pool(s).\n23.  Constitutions of the Insurance Pools and selection of administrator shall be as per\nthe instruction of theIBRB.\n24. The Insurance Pool's Administrator shall submit the returns and expenditures,\ndetails of reinsurance arrangement, statements on the performance of the Insurance Pool,\nin the manner and periodicity as stipulated by the IBRB from time to time.\n10\nSubmissionofInformation\n25.Every Myanmar insurer shall submit to the IBRB, information and returns relating to\nits reinsurance transactions, in such form and manner stipulated by the IBRB every year.\nPoweroftheIBRB\n26.1The IBRB may:\na.calil for further information or explanation, as may be necessary, on all matters\nn o\nchanges in the reinsurance program filed with the IBRB.\nb. The IBRB may issue guidelines stipulating such terms and conditions for\nreinsurance placements including-\ni.collateral, risk charges; and\nil.percentage of cession limits with a CBR, all CBRs taken together;\n27.Non-compliant insurers, reinsurers, foreign reinsurers who have licensed branches\nwithin Myanmar, and licensed brokers, shall be punished in accord with insurance\nBusiness Law and Rules.\n28. For the purpose of full compliance the provisions of this directive by insurers,\nreinsurers, foreign reinsurers who have licensed branches within Myanmar, and licensed\nreinsurance brokers, this directive shall be in force with effect from 1st of October 2020.\n(Maung Maung Win)\nChairman\nDisseminations\nMinistry of Planning, Finance and Industry\nCentral Bank of Myanmar\n-Myanma Insurance\n11\nMembers of Insurance Business Regulatory Board\nMyanmar Insurance Association\nMyanmarBanksAssociation\nMyanmar Micro-Finance Association\nLicensed Insurers\nAll Foreign Insurance Representative Offices\nBy Order;\n21512020\n(Zaw Naing)\nSecretary\n12/5"
+   }
+  }
+ ]
+}
