@@ -487,6 +487,46 @@ var NON_LEGAL = [
    * @param question 用户问题
    * @param opts { searchQuery, packBudget }  packBudget: 最多加载多少部分卷（默认 6）
    */
+  /**
+   * 用 BYOK 模型筛选引用（Day4 / B1）
+   * 只保留模型判定「能回答问题」的引用，并同步剔除对应要点、重编号。
+   * 任何失败都原样返回，保证不因重排而降低答案质量。
+   */
+  function applyRerank(question, res) {
+    if (!res || !res.citations || !res.citations.length) return Promise.resolve(res);
+    if (!CALR.rerank || !CALR.rerank.rank) return Promise.resolve(res);
+    var cands = res.citations.map(function (c) {
+      return { countryName: c.countryName, lawTitle: c.lawTitle, noLabel: c.noLabel, text: c.text };
+    });
+    return CALR.rerank.rank(question, cands).then(function (rr) {
+      if (!rr) return res;                                  /* 未配置 / 失败 → 原样 */
+      if (!rr.picked.length) { res.rerank = rr.stats; return res; }   /* 模型说都不相关 → 保留原引用 */
+      var keep = {};
+      rr.picked.forEach(function (i) { keep[i] = 1; });
+      var oldCits = res.citations;
+      var oldToNew = {};
+      var newCits = [];
+      oldCits.forEach(function (c, i) {
+        if (!keep[i]) return;
+        oldToNew[i + 1] = newCits.length + 1;
+        newCits.push(c);
+      });
+      if (!newCits.length) return res;
+      res.citations = newCits;
+      /* 要点里引用了被剔除条目的，同步剔除；其余按新编号改写 */
+      if (res.answer && res.answer.points) {
+        res.answer.points = res.answer.points.filter(function (p) {
+          return oldToNew[p.n] !== undefined;
+        }).map(function (p) {
+          p.n = oldToNew[p.n];
+          return p;
+        });
+      }
+      res.rerank = rr.stats;
+      return res;
+    }).catch(function () { return res; });
+  }
+
   function retrieveWithPacks(question, opts) {
     opts = opts || {};
     var budget = opts.packBudget || 4;
@@ -911,7 +951,12 @@ var NON_LEGAL = [
 
     var searchQ = String(opts.searchQuery || '').trim() || qq;
     return retrieveWithPacks(qq, { searchQuery: searchQ, packBudget: opts.packBudget })
-      .then(function () { return ask(question, opts); })
+      .then(function () {
+        var res = ask(question, opts);
+        /* Day4 / B1：配置了 API Key 时，用模型筛掉"词面命中但语义无关"的引用 */
+        if (opts.rerank === false) return res;
+        return applyRerank(qq, res);
+      })
       .catch(function () { return ask(question, opts); });
   }
 
@@ -922,6 +967,7 @@ var NON_LEGAL = [
     zhHintsOf: zhHintsOf,
     isMetaHeader: isMetaHeader,
     askWithLLM: askWithLLM,
+    applyRerank: applyRerank,
     rewriteQuery: rewriteQuery,
     SYS_PROMPT: SYS_PROMPT,
     suggestions: suggestions,
