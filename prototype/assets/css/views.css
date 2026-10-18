@@ -737,3 +737,6 @@ mark.law-find-hit {
   font-size: 11px;
 }
 .ai-selbar .btn { padding: 2px 7px; font-size: 11px; border-radius: 6px; }
+/* 答案正文中的块级列表项（由行内「- 」分点还原） */
+.ans-li { display: block; position: relative; padding-left: 15px; margin: 5px 0; line-height: 1.75; }
+.ans-li::before { content: "•"; position: absolute; left: 3px; color: var(--calr-blue-500); }

@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p06
-   法规 57 部 / 译文 527 条
+   法规 61 部 / 译文 561 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -5462,6 +5462,111 @@
     ]
   };
 
+  TR['CN-JI-0087'] = {
+    "lawId": "CN-JI-0087",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 10 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 133.1,
+        "text": {
+          "en": "(Article 22 of Amendment (VIII) to the Criminal Law)\ndangerous driving"
+        },
+        "noLabel": {
+          "en": "Article 133bis."
+        }
+      },
+      {
+        "no": 143,
+        "text": {
+          "en": "(Article 24 of Amendment (VIII) to the Criminal Law)\nproduction and sale of food that does not meet safety standards (the charge of production and sale of food that does not meet hygiene standards is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 143."
+        }
+      },
+      {
+        "no": 164.02,
+        "text": {
+          "en": "(Article 29, paragraph 2 of Amendment (VIII) to the Criminal Law)\noffering bribes to foreign public officials and officials of international public organisations"
+        },
+        "noLabel": {
+          "en": "Article 164(2)."
+        }
+      },
+      {
+        "no": 205.1,
+        "text": {
+          "en": "(Article 33 of Amendment (VIII) to the Criminal Law)\nfalsely issuing invoices"
+        },
+        "noLabel": {
+          "en": "Article 205bis."
+        }
+      },
+      {
+        "no": 210.1,
+        "text": {
+          "en": "(Article 35 of Amendment (VIII) to the Criminal Law)\nholding forged invoices"
+        },
+        "noLabel": {
+          "en": "Article 210bis."
+        }
+      },
+      {
+        "no": 234.11,
+        "text": {
+          "en": "(Article 37, paragraph 1 of Amendment (VIII) to the Criminal Law)\norganising the sale of human organs"
+        },
+        "noLabel": {
+          "en": "Article 234bis(1)."
+        }
+      },
+      {
+        "no": 244,
+        "text": {
+          "en": "(Article 38 of Amendment (VIII) to the Criminal Law)\nforced labour (the charge of forcing employees to work is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 244."
+        }
+      },
+      {
+        "no": 276.1,
+        "text": {
+          "en": "(Article 41 of Amendment (VIII) to the Criminal Law)\nrefusing to pay labour remuneration"
+        },
+        "noLabel": {
+          "en": "Article 276bis."
+        }
+      },
+      {
+        "no": 338,
+        "text": {
+          "en": "(Article 46 of Amendment (VIII) to the Criminal Law)\npolluting the environment (the charge of causing a major environmental pollution accident is abolished)"
+        },
+        "noLabel": {
+          "en": "Article 338."
+        }
+      },
+      {
+        "no": 408.1,
+        "text": {
+          "en": "(Article 49 of Amendment (VIII) to the Criminal Law)\ndereliction of duty in food supervision"
+        },
+        "noLabel": {
+          "en": "Article 408bis."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0091'] = {
     "lawId": "CN-JI-0091",
     "sourceLang": "zh",
@@ -5601,6 +5706,267 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0099'] = {
+    "lawId": "CN-JI-0099",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 8 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a crime is committed before 30 April 2011 and the offender is, in accordance with law, to be sentenced to public surveillance or given a suspended sentence, and the people's court, in light of the circumstances of the crime, considers it truly necessary to concurrently prohibit the offender from engaging in specific activities, entering specific areas or places, or contacting specific persons during the period of public surveillance or the probation period of the suspended sentence, paragraph 2 of Article 38 or paragraph 2 of Article 72 of the amended Criminal Law shall apply.\nWhere an offender violates a prohibition order in a judgment of the people's court during the period of public surveillance or the probation period of the suspended sentence, paragraph 4 of Article 38 or paragraph 2 of Article 77 of the amended Criminal Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a crime is committed before 30 April 2011 and a death penalty with a two-year suspension of execution is imposed, Article 50 of the Criminal Law before amendment shall apply.\nWhere the defendant is a recidivist, or the crime committed is intentional homicide, rape, robbery, kidnapping, arson, explosion, dissemination of dangerous substances or an organised crime of violence, the circumstances of the crime are extremely serious, a death penalty with a two-year suspension of execution imposed under the Criminal Law before amendment cannot reflect the principle of suiting punishment to crime, and a death penalty with a two-year suspension of execution imposed under the amended Criminal Law together with a concurrent decision to limit commutation of sentence can fit the punishment to the crime, paragraph 2 of Article 50 of the amended Criminal Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a person who has been sentenced to fixed-term imprisonment or a heavier punishment commits, after the punishment has been served or the person has been pardoned, before 30 April 2011, another crime punishable by fixed-term imprisonment or a heavier punishment, whether the person constitutes a recidivist shall be governed by Article 65 of the Criminal Law before amendment; however, where the person was under 18 years of age at the time of the previous crime, whether the person constitutes a recidivist shall be governed by Article 65 of the amended Criminal Law.\nWhere a person who has committed a crime endangering national security commits, after the punishment has been served or the person has been pardoned, before 30 April 2011, another crime endangering national security, whether the person constitutes a recidivist shall be governed by Article 66 of the Criminal Law before amendment.\nWhere a person who has been sentenced to fixed-term imprisonment or a heavier punishment, or who has committed a crime endangering national security, a crime of terrorist activity or a crime committed by an organisation of a triad nature, commits another crime after 1 May 2011, whether the person constitutes a recidivist shall be governed by Articles 65 and 66 of the amended Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a crime is committed before 30 April 2011 and the offender, although not having the circumstances of voluntary surrender, truthfully confesses his or her crime, paragraph 3 of Article 67 of the amended Criminal Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a crime is committed before 30 April 2011 and the offender, after committing the crime, surrenders voluntarily and also performs major meritorious service, paragraph 2 of Article 68 of the Criminal Law before amendment shall apply."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where one person commits several crimes before 30 April 2011 and combined punishment for several crimes is to be applied, Article 69 of the Criminal Law before amendment shall apply; where one person commits several crimes before and after 30 April 2011 and one of the crimes is committed after 1 May 2011, Article 69 of the amended Criminal Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where a crime is committed before 30 April 2011 and the offender is sentenced to life imprisonment, the term of punishment actually served after commutation of sentence or before parole shall be governed by paragraph 2 of Article 78 and paragraph 1 of Article 81 of the Criminal Law before amendment."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a crime is committed before 30 April 2011, the offender, being a recidivist or having committed intentional homicide, rape, robbery, kidnapping, arson, explosion, dissemination of dangerous substances or an organised crime of violence, is sentenced to fixed-term imprisonment of not less than 10 years or life imprisonment, and the offender is still serving the sentence after 1 May 2011, whether parole may be granted shall be governed by paragraph 2 of Article 81 of the Criminal Law before amendment; where a crime is committed before 30 April 2011, the offender, having committed other crimes of violence, is sentenced to fixed-term imprisonment of not less than 10 years or life imprisonment, and the offender is still serving the sentence after 1 May 2011, whether parole may be granted shall be governed by paragraphs 2 and 3 of Article 81 of the amended Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0100'] = {
+    "lawId": "CN-JI-0100",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 9 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "For a crime committed before 31 October 2015 by taking advantage of an occupation, or a crime committed in breach of a specific obligation required by an occupation, paragraph 1 of Article 37bis of the amended Criminal Law shall not apply. Where other laws or administrative regulations provide otherwise, those provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "For an offender sentenced to a death penalty with a two-year suspension of execution who intentionally commits a crime during the period of suspension of execution and before 31 October 2015, paragraph 1 of Article 50 of the amended Criminal Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where one person commits several crimes before 31 October 2015, among which there are fixed-term imprisonment and criminal detention, fixed-term imprisonment and public surveillance, or criminal detention and public surveillance, and combined punishment for several crimes is to be applied, paragraph 2 of Article 69 of the amended Criminal Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "For an act of insult or defamation as prescribed in paragraph 1 of Article 246 of the Criminal Law committed through an information network before 31 October 2015, where the victim files a complaint with the people's court but has genuine difficulty in providing evidence, paragraph 3 of Article 246 of the amended Criminal Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "For an act of maltreatment as prescribed in paragraph 1 of Article 260 of the Criminal Law committed before 31 October 2015, where the victim is unable to file a complaint, or is unable to do so because of coercion or intimidation, paragraph 3 of Article 260 of the amended Criminal Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "For organising cheating in examinations, providing cheating devices or other assistance to others for organising cheating in examinations, or illegally selling or providing examination questions or answers to others before 31 October 2015, where criminal responsibility should be pursued under the Criminal Law before amendment for the crime of illegally obtaining State secrets, the crime of illegally producing or selling equipment specially used for espionage, or the crime of intentionally divulging State secrets, the relevant provisions of the Criminal Law before amendment shall apply. However, where a lighter punishment is imposed under Article 284bis of the amended Criminal Law, the relevant provisions of the amended Criminal Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "For filing a civil action before 31 October 2015 on the basis of fabricated facts, thereby obstructing the judicial order or seriously infringing upon the lawful rights and interests of others, where criminal responsibility should be pursued under the Criminal Law before amendment for the crime of forging the seal of a company, enterprise, public institution or people's organisation, or for the crime of obstructing testimony, the relevant provisions of the Criminal Law before amendment shall apply. However, where a lighter punishment is imposed under Article 307bis of the amended Criminal Law, the relevant provisions of the amended Criminal Law shall apply.\nWhere a person commits the act in paragraph 1, illegally possesses the property of others or evades lawful debts, and criminal responsibility should be pursued under the Criminal Law before amendment for the crime of fraud, the crime of embezzlement by taking advantage of duty, or the crime of embezzlement, the relevant provisions of the Criminal Law before amendment shall apply."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "For an act of embezzlement or acceptance of bribes committed before 31 October 2015, where the circumstances of the crime are extremely serious, a death penalty with a two-year suspension of execution imposed under the Criminal Law before amendment cannot reflect the principle of suiting punishment to crime, and a death penalty with a two-year suspension of execution imposed under the amended Criminal Law together with a concurrent decision that, after the two-year suspension period expires and the sentence is commuted to life imprisonment in accordance with law, the offender shall be imprisoned for life without commutation or parole, can fit the punishment to the crime, paragraph 4 of Article 383 of the amended Criminal Law shall apply. Where a death penalty with a two-year suspension of execution imposed under the Criminal Law before amendment is sufficient to fit the punishment to the crime, paragraph 4 of Article 383 of the amended Criminal Law shall not apply."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "This Interpretation shall come into force on 1 November 2015."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0101'] = {
+    "lawId": "CN-JI-0101",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "For convicts who refuse to confess their guilt and repent, or who have the ability to perform but fail to perform, or fail to fully perform, the property-related items of an effective judgment or ruling, parole shall not be granted, and commutation of sentence shall generally not be granted."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a convict is sentenced to fixed-term imprisonment of not less than ten years and meets the conditions for commutation of sentence, commutation may be granted only after not less than three years of the sentence have been served; where a convict is sentenced to fixed-term imprisonment of less than ten years and meets the conditions for commutation of sentence, commutation may be granted only after not less than two years of the sentence have been served.\nWhere there is genuine repentance or meritorious service, the commutation of sentence at one time shall not exceed six months of fixed-term imprisonment; where there is genuine repentance and meritorious service, the commutation of sentence at one time shall not exceed nine months of fixed-term imprisonment; where there is major meritorious service, the commutation of sentence at one time shall not exceed one year of fixed-term imprisonment.\nWhere a convict is sentenced to fixed-term imprisonment of not less than ten years, the interval between two commutations of sentence shall be not less than two years; where a convict is sentenced to fixed-term imprisonment of less than ten years, the interval between two commutations of sentence shall be not less than one year and six months."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a convict is sentenced to life imprisonment and meets the conditions for commutation of sentence, commutation may be granted only after not less than four years of the sentence have been served.\nWhere there is genuine repentance or meritorious service, the sentence may be commuted to fixed-term imprisonment of 23 years; where there is genuine repentance and meritorious service, the sentence may be commuted to fixed-term imprisonment of not less than 22 years but not more than 23 years; where there is major meritorious service, the sentence may be commuted to fixed-term imprisonment of not less than 21 years but not more than 22 years.\nWhere a life sentence is commuted to fixed-term imprisonment and is subsequently commuted again, the extent of commutation shall be governed by Article 2 of these Provisions. The interval between two commutations of sentence shall be not less than two years."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a convict is sentenced to death with a two-year suspension of execution and, after the sentence is commuted to life imprisonment, meets the conditions for commutation of sentence, commutation may be granted only after not less than four years of the sentence have been served.\nWhere there is genuine repentance or meritorious service, the sentence may be commuted to fixed-term imprisonment of 25 years; where there is genuine repentance and meritorious service, the sentence may be commuted to fixed-term imprisonment of not less than 24 years and six months but not more than 25 years; where there is major meritorious service, the sentence may be commuted to fixed-term imprisonment of not less than 24 years but not more than 24 years and six months.\nWhere the sentence is commuted to fixed-term imprisonment and is subsequently commuted again, the extent of commutation shall be governed by Article 2 of these Provisions. The interval between two commutations of sentence shall be not less than two years."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a convict has major meritorious service, the commutation of sentence may not be subject to the above requirements concerning the starting time and the interval."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where parole is applied to the convicts of embezzlement and bribery referred to in these Provisions, it shall be strictly controlled."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "These Provisions shall come into force on 1 June 2019. Where judicial interpretations previously issued are inconsistent with these Provisions, these Provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 7."
         }
       }
     ]

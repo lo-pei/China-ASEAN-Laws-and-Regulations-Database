@@ -30,16 +30,37 @@
   var CIRC = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳';
 
   /** 富文本：转义 + **加粗** + 分点自动换行缩进 */
+  /** 清除答案正文里的流水线状态语（内部提示，不是答案） */
+  function cleanPipelineText(txt, a) {
+    var t2 = CALR.i18n.t;
+    var META = /已按[^。]*筛选[^。]*。|取用重点条文[^。]*。|以下要点均可在[^。]*溯源[^。]*。/g;
+    var cleaned = String(txt || '').replace(META, '').replace(/[ \t]+/g, ' ').trim();
+    /* 清完只剩标点或空 → 用干净的引导语替代 */
+    if (!cleaned || /^[，,。.：:\s]*$/.test(cleaned)) {
+      var n = (a && a.points) ? a.points.length : 0;
+      return n ? (t2('据库内') + ' ' + n + ' ' + t2('条相关条文：')) : '';
+    }
+    return cleaned;
+  }
+
   function fmtRich(text) {
     /* 兜底：数据里若残留免责标记，不在正文中重复展示（卡片头已有常驻标识） */
     var t = esc(String(text == null ? '' : text)
       .replace(/\n?\s*【AI 辅助生成，仅供参考】/g, '')
       .trim());
     t = t.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+    /* 模型常把分点写在同一行（如「…[1]：- 满1年…[1]- 满3年…」），
+       先在「：」「]」等分界符后的分点标记前补换行，才能渲染成块级列表 */
+    t = t.replace(/([：:；;。！!？?\]）)])\s*[-•·]\s+/g, '$1\n- ');
+    t = t.replace(/(\[\d{1,2}\])\s*[-•·]\s+/g, '$1\n- ');
     return t.split('\n').map(function (ln) {
       var idx = [];
       for (var i = 0; i < ln.length; i++) {
         if (CIRC.indexOf(ln.charAt(i)) >= 0) idx.push(i);
+      }
+      /* 以 - / • / · 开头的行 → 块级列表项 */
+      if (/^\s*[-•·]\s+/.test(ln)) {
+        return '<span class="ans-li">' + ln.replace(/^\s*[-•·]\s+/, '') + '</span>';
       }
       if (idx.length < 2) return ln;
       var head = ln.slice(0, idx[0]).replace(/[：:]\s*$/, '').trim();
@@ -664,20 +685,15 @@
     /* ---- 答案正文 ---- */
     var bodyText = llmUsed ? String(llm.text) : String(a.overview || '');
     /* 模型在有材料时仍判「材料不足」属误判：改为提示并回退本地摘要，避免"说没有下面却列了引用"的自相矛盾 */
+    var fallbackNote = '';
     if (llmUsed && /材料不足以回答/.test(bodyText) && a.points && a.points.length) {
       bodyText = String(a.overview || '');
-      out += '<p class="ans-note">⚠ ' + esc(t('模型认为材料不足，以下为本地检索摘要')) + '</p>';
+      fallbackNote = '<p class="ans-note">⚠ ' + esc(t('模型认为材料不足，以下为本地检索摘要')) + '</p>';
     }
-    /* 本地模式的 overview 里混有流水线状态语（如「已按…筛选，取用重点条文 N 条。以下要点均可在②中逐条溯源。」），
-       那是内部提示而非答案，且新版已无「②」小节，故改写为干净引导语 */
-    if (!llmUsed) {
-      var META_RE = /已按[^。]*筛选[^。]*。|取用重点条文\s*\d+\s*条[^。]*。|以下要点均可在[^。]*溯源[^。]*。/g;
-      var cleaned = String(a.overview || '').replace(META_RE, '').replace(/\s+/g, ' ').trim();
-      var nPts = (a.points || []).length;
-      if (!cleaned && nPts) bodyText = t('据库内') + ' ' + nPts + ' ' + t('条相关条文：');
-      else bodyText = cleaned || String(a.overview || '');
-    }
-
+    /* 流水线状态语（如「已按…筛选，取用重点条文 N 条，涉及…。以下要点均可在②中逐条溯源。」）
+       是内部提示而非答案；新版已无「②」小节，故两种来源统一清理后再输出 */
+    bodyText = cleanPipelineText(bodyText, a);
+    if (fallbackNote) out += fallbackNote;
     out += '<div class="ans-body">' + fmtRich(bodyText) + '</div>';
 
     /* ---- 本地模式：补 2–4 条要点 ---- */

@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p05
-   法规 18 部 / 译文 811 条
+   法规 20 部 / 译文 829 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -165,6 +165,93 @@
         },
         "noLabel": {
           "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0013'] = {
+    "lawId": "CN-JI-0013",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 8 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In the course of handling a criminal case, a people's court, a people's procuratorate or a public security organ shall appraise the value of stolen goods whose price is unknown or difficult to determine. When the case is transferred, the Appraisal Conclusion on the Value of Stolen Goods shall be attached."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The State Planning Commission and the price administration departments of local people's governments at various levels are the competent departments for the appraisal of stolen goods, and the price appraisal offices established by them are the designated appraisal bodies for stolen goods."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a people's court, a people's procuratorate or a public security organ needs to appraise the value of stolen goods in the course of handling a case, it shall issue a letter of entrustment for appraisal and entrust the appraisal to the price appraisal office established by the price administration department at the same level in the place where the case is under jurisdiction. A letter of entrustment for appraisal shall generally state the name, brand, specifications, quantity, source and time of purchase of the stolen goods, as well as the time, place and other relevant circumstances in which the stolen goods were obtained through illegal or criminal acts."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "A price appraisal office shall conduct the appraisal with reference to the provisions of Article 3 of the Interpretation of Several Issues concerning the Specific Application of Law in the Handling of Theft Cases issued by the Supreme People's Court and the Supreme People's Procuratorate on 11 December 1992. A price appraisal office shall make an appraisal conclusion within seven days after accepting the entrustment for appraisal, unless otherwise agreed."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "After appraising the value of stolen goods, a price appraisal office shall issue the uniformly produced Appraisal Conclusion on the Value of Stolen Goods, which shall be signed by the appraisal staff member and sealed with the seal of the price appraisal office."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The organ that entrusted the appraisal shall review the Appraisal Conclusion on the Value of Stolen Goods. If it objects to an Appraisal Conclusion on the Value of Stolen Goods issued by a price appraisal office at the same level, it may return the conclusion to that office for re-appraisal or entrust the price appraisal office at the next higher level with review. Only an appraisal conclusion on the value of stolen goods that is confirmed to be correct upon review may serve as the basis for deciding a case. The directly affiliated price appraisal office designated by the State Planning Commission is the final review and ruling body for the appraisal of stolen goods."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The appraisal of stolen goods is a serious task. The competent price departments of people's governments at various levels and their price appraisal offices shall actively cooperate with people's courts, people's procuratorates and public security organs in conscientiously performing this task. In areas where price appraisal offices have not yet been established, the appraisal of stolen goods shall temporarily be undertaken by the price administration departments."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Specific provisions and measures on the appraisal of stolen goods shall be formulated separately.\nThis Notice shall be implemented from the date of its issuance."
+        },
+        "noLabel": {
+          "en": "Article 8."
         }
       }
     ]
@@ -5082,6 +5169,111 @@
         },
         "chapter": {
           "en": "Chapter V Procedure for Compulsory Medical Treatment of Mental Patients Who Do Not Bear Criminal Responsibility According to Law"
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0316'] = {
+    "lawId": "CN-LAW-0316",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 10 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Within the territory of the People's Republic of China, a unit that purchases tobacco leaves in accordance with the provisions of the Tobacco Monopoly Law of the People's Republic of China is a taxpayer of tobacco leaf tax. A taxpayer shall pay tobacco leaf tax in accordance with the provisions of this Law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Tobacco leaves referred to in this Law means flue-cured tobacco leaves and air-cured tobacco leaves."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The tax base of tobacco leaf tax is the total price actually paid by the taxpayer for the purchase of tobacco leaves."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The tax rate of tobacco leaf tax is 20 per cent."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The amount of tobacco leaf tax payable shall be calculated by multiplying the total price actually paid by the taxpayer for the purchase of tobacco leaves by the tax rate."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Tobacco leaf tax shall be collected and administered by the tax authorities in accordance with the relevant provisions of this Law and of the Law of the People's Republic of China on the Administration of Tax Collection."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A taxpayer shall declare and pay tobacco leaf tax to the competent tax authority at the place where the tobacco leaves are purchased."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The time when the obligation to pay tobacco leaf tax arises is the day on which the taxpayer purchases the tobacco leaves."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Tobacco leaf tax shall be levied on a monthly basis, and a taxpayer shall declare and pay the tax within 15 days from the end of the month in which the obligation to pay tax arises."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "This Law shall come into force on 1 July 2018. The Interim Regulations of the People's Republic of China on Tobacco Leaf Tax promulgated by the State Council on 28 April 2006 shall be repealed simultaneously."
+        },
+        "noLabel": {
+          "en": "Article 10."
         }
       }
     ]

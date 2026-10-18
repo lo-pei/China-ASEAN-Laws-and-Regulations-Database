@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p07
-   法规 56 部 / 译文 89 条
+   法规 61 部 / 译文 130 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -72,6 +72,93 @@
         },
         "noLabel": {
           "en": "Article 6."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0107'] = {
+    "lawId": "CN-JI-0107",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 8 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Intellectual property (IP) courts shall have jurisdiction over the following first instance cases within the districts of the municipality in which they are located:\n(a) civil and administrative cases involving patents, new plant varieties, layout designs of integrated circuits, technical secrets and computer software;\n(b) administrative cases brought against administrative acts of departments under the State Council or of people's governments at or above the county level that involve copyright, trademarks, unfair competition, etc.;\n(c) civil cases involving the recognition of well-known trademarks."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The Guangzhou Intellectual Property Court shall exercise cross-regional jurisdiction over the cases specified in subparagraphs (a) and (c) of Article 1 of these Provisions within Guangdong Province."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The intermediate people's courts of Beijing Municipality and Shanghai Municipality and the Guangzhou Intermediate People's Court shall no longer accept civil and administrative cases involving intellectual property.\nOther intermediate people's courts of Guangdong Province shall no longer accept the cases specified in subparagraphs (a) and (c) of Article 1 of these Provisions.\nThe primary people's courts of Beijing Municipality, Shanghai Municipality and Guangdong Province shall no longer accept the cases specified in subparagraphs (a) and (c) of Article 1 of these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where the subject matter of a case includes both the matters specified in subparagraphs (a) and (c) of Article 1 of these Provisions and other matters, jurisdiction shall be determined in accordance with Articles 1 and 2 of these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The Beijing Intellectual Property Court shall have jurisdiction over the following first instance administrative cases:\n(a) cases against rulings or decisions of departments under the State Council on the grant and confirmation of intellectual property rights such as patents, trademarks, new plant varieties and layout designs of integrated circuits;\n(b) cases against decisions of departments under the State Council on compulsory licences for patents, new plant varieties and layout designs of integrated circuits, and against rulings on the royalties or remuneration for such compulsory licences;\n(c) cases against other administrative acts of departments under the State Council involving the grant and confirmation of intellectual property rights."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Appeals filed by parties against first instance civil and administrative judgments and rulings concerning intellectual property such as copyright, trademarks, technology contracts and unfair competition made by the primary people's court of the municipality in which an intellectual property court is located shall be heard by that intellectual property court."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Appeals filed by parties against first instance judgments and rulings made by an intellectual property court, and cases in which a party applies, in accordance with the law, to the court at the next higher level for reconsideration, shall be heard by the intellectual property tribunal of the higher people's court of the place where the intellectual property court is located, except where they are to be heard by the Supreme People's Court in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Cases specified in subparagraphs (a) and (c) of Article 1 of these Provisions that were accepted by the primary people's court of the province (municipality directly under the Central Government) in which an intellectual property court is located before the establishment of that intellectual property court but that have not yet been concluded shall continue to be heard by that primary people's court.\nExcept for the Guangzhou Intermediate People's Court, cases specified in subparagraphs (a) and (c) of Article 1 of these Provisions that were accepted by other intermediate people's courts of Guangdong Province before the establishment of the Guangzhou Intellectual Property Court but that have not yet been concluded shall continue to be heard by those intermediate people's courts."
+        },
+        "noLabel": {
+          "en": "Article 8."
         }
       }
     ]
@@ -245,6 +332,93 @@
     ]
   };
 
+  TR['CN-JI-0113'] = {
+    "lawId": "CN-JI-0113",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 8 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Judgment documents of a people's court shall, in accordance with law, cite the relevant laws, regulations and other normative legal documents as the basis of the adjudication. When citing, the name of the normative legal document and the serial numbers of its provisions shall be stated accurately and completely; where a specific provision needs to be cited, the entire article (paragraph or subparagraph) shall be cited."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where several normative legal documents are cited concurrently, the order of citation shall be as follows: laws and legislative interpretations, administrative regulations, local regulations, autonomous regulations or separate regulations, and judicial interpretations. Where two or more laws are cited at the same time, the basic law shall be cited first, followed by the other laws. Where both substantive law and procedural law are cited, the substantive law shall be cited first, followed by the procedural law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Criminal judgment documents shall cite laws, legislative interpretations or judicial interpretations. Where a judgment document in a criminal case with an incidental civil action cites normative legal documents, Article 4 of these Provisions shall also apply."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Civil judgment documents shall cite laws, legislative interpretations or judicial interpretations. Administrative regulations, local regulations, or autonomous regulations and separate regulations that should be applied may be cited directly."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Administrative judgment documents shall cite laws, legislative interpretations, administrative regulations or judicial interpretations. Local regulations, autonomous regulations and separate regulations, interpretations of administrative regulations published by the State Council or by departments authorised by the State Council, and administrative rules that should be applied may be cited directly."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Normative documents other than those prescribed in Articles 3, 4 and 5 of these Provisions may, where necessary for the trial of a case and after examination and determination as lawful and valid, serve as the basis for reasoning in a judgment document."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where there is a conflict between normative legal documents that a people's court truly needs to cite in making a judgment document and, under the Legislation Law and other relevant legal provisions, the applicable document cannot be selected, the people's court shall, in accordance with law, request the organ vested with the power of decision to make a ruling, and shall not itself determine in the judgment document the validity of the relevant normative legal documents."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where judicial interpretations previously issued by this Court are inconsistent with these Provisions, these Provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0114'] = {
     "lawId": "CN-JI-0114",
     "sourceLang": "zh",
@@ -360,6 +534,84 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0120'] = {
+    "lawId": "CN-JI-0120",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In accordance with the provisions of paragraph 1 of Article 67 of the Criminal Law, where, after committing a crime, a person voluntarily surrenders and truthfully confesses his or her crime, this constitutes voluntary surrender.\n(a) Voluntary surrender means that, where the facts of the crime or the suspect have not yet been discovered by a judicial organ, or, although discovered, the suspect has not yet been interrogated and no compulsory measures have been taken against him or her, the suspect takes the initiative to surrender directly to a public security organ, a people's procuratorate or a people's court.\nA surrender shall also be deemed voluntary surrender in the following situations: the suspect surrenders to the unit to which he or she belongs, to a grassroots organisation in an urban or rural area or to another responsible person concerned; the suspect, owing to illness or injury, or in order to mitigate the consequences of the crime, entrusts another person to surrender first on his or her behalf, or first surrenders by letter or by telephone or telegram; where the facts of the crime have not yet been discovered by a judicial organ and the suspect, merely because his or her movements are suspicious, is questioned and educated by the relevant organisation or judicial organ and then voluntarily confesses his or her crime; where the suspect flees after committing the crime and voluntarily surrenders while wanted or being pursued; and where, after verification, the suspect had indeed prepared to surrender or was on the way to surrender and was captured by a public security organ.\nWhere the surrender is not made on the suspect's own initiative but after persuasion or accompanied by relatives or friends, or where a public security organ notifies the relatives or friends of the suspect, or the relatives or friends report the case on their own initiative and then send the suspect to surrender, this shall also be deemed voluntary surrender.\nWhere a suspect flees again after voluntarily surrendering, this shall not be determined as voluntary surrender.\n(b) Truthfully confessing one's crime means that, after voluntarily surrendering, the suspect truthfully confesses the main facts of his or her crime.\nWhere a suspect who has committed several crimes truthfully confesses only some of those crimes, voluntary surrender shall be determined only in respect of the acts truthfully confessed.\nIn a joint crime case, a suspect shall, in addition to truthfully confessing his or her own crime, also confess the accomplices known to him or her, and a principal offender shall confess the facts of the joint crime of the other accomplices known to him or her; only then may voluntary surrender be determined.\nWhere a suspect voluntarily surrenders and truthfully confesses his or her crime but later retracts the confession, voluntary surrender shall not be determined; however, where the suspect again truthfully confesses before the judgment of first instance, voluntary surrender shall be determined."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "In accordance with the provisions of paragraph 2 of Article 67 of the Criminal Law, where a suspect or defendant under compulsory measures, or a convicted offender who has already been sentenced, truthfully confesses a crime not yet known to the judicial organ and that crime is of a different type from the crime already known to the judicial organ or established by judgment, the case shall be treated as voluntary surrender."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In accordance with the provisions of paragraph 1 of Article 67 of the Criminal Law, a criminal who surrenders voluntarily may be given a lighter or mitigated punishment; where the crime is relatively minor, the person may be exempted from punishment. Whether to give a lighter punishment, a mitigated punishment or exemption from punishment shall be determined on the basis of the gravity of the crime and with consideration of the specific circumstances of the voluntary surrender."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a suspect or defendant under compulsory measures, or a convicted offender who has already been sentenced, truthfully confesses a crime not yet known to the judicial organ and that crime is of the same type as the crime already known to the judicial organ or established by judgment, a lighter punishment may be given as appropriate; where the crime of the same type so truthfully confessed is relatively serious, a lighter punishment shall generally be given."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "In accordance with the provisions of paragraph 1 of Article 68 of the Criminal Law, where, after being brought to justice, a criminal reports or exposes the criminal acts of another person, including, in a joint crime case, the exposure by a criminal of crimes other than the joint crime committed by an accomplice, and this is verified as true; provides important leads for the investigation and solution of other cases, and this is verified as true; prevents another person's criminal activity; assists a judicial organ in capturing another suspect (including an accomplice); or demonstrates other outstanding performance beneficial to the State and society, this shall be determined as meritorious service."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where, after being brought to justice, a criminal in a joint crime case exposes the facts of the joint crime committed by an accomplice, a lighter punishment may be given as appropriate."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "In accordance with the provisions of paragraph 1 of Article 68 of the Criminal Law, where a criminal reports or exposes major criminal acts of another person and this is verified as true; provides important leads for the investigation and solution of other major cases and this is verified as true; prevents another person's major criminal activity; assists a judicial organ in capturing another major suspect (including an accomplice); or makes other major contributions to the State and society, this shall be determined as major meritorious service.\nThe criteria for \"major crime\", \"major case\" and \"major suspect\" referred to in the preceding paragraph generally mean circumstances in which the suspect or defendant may be sentenced to life imprisonment or a heavier punishment, or in which the case has a relatively large impact within the province, autonomous region or municipality directly under the Central Government concerned or throughout the country."
+        },
+        "noLabel": {
+          "en": "Article 7."
         }
       }
     ]
@@ -1620,6 +1872,198 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0179'] = {
+    "lawId": "CN-JI-0179",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 9 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The following civil cases shall be under the jurisdiction of military courts:\n(a) cases in which both parties are military personnel or military units;\n(b) cases in which the main evidence for determining the basic facts of the case involves military secrets;\n(c) cases of disputes over tort liability in which the tortious act occurred within a military camp area and one of the parties is military personnel or a military unit;\n(d) cases in which a civilian staff member employed under a contract by the military has a dispute with a military unit over the rescission or termination of the employment contract, is dissatisfied with the arbitral award on the labour and personnel dispute, and brings a lawsuit in accordance with the law;\n(e) cases in which an application is made to declare a military person missing or dead;\n(f) cases in which an application is made to determine that a military person has no capacity for civil conduct or limited capacity for civil conduct and for the corresponding designation of a guardian;\n(g) cases concerning the qualification of voters where an election committee is established by the military;\n(h) cases for determining ownerless property within a military camp area.\nWhere, after accepting a civil case in accordance with subparagraph (a) of paragraph 1 of this Article, a military court adds a local party to participate in the proceedings upon the application of a party or ex officio, the military court shall continue to try the case."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The following civil cases may be under the jurisdiction of both the military court concerned and a local people's court; where a local party brings a lawsuit before the military court, the military court shall accept it:\n(a) cases of disputes over tort liability in which military personnel or a military unit causes damage to another person in the course of performing official duties;\n(b) cases of marital and family disputes in which one party is military personnel;\n(c) cases in which the place where the immovable property is located, the place where the port is located, the domicile of the decedent at the time of death or the place where the main estate is located, as provided in Article 34 of the Civil Procedure Law, is within a military camp area and one party is military personnel or a military unit;\n(d) cases of disputes over liability for medical damage between a local party and a medical institution of the military."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where one party is military personnel or a military unit, a dispute over a contract or other property rights and interests involves the place of performance of the contract or the place where the subject matter is located within a military camp area, the parties agree in writing that the military court shall have jurisdiction, and such agreement does not violate the provisions of law on hierarchical jurisdiction, exclusive jurisdiction and special jurisdiction, the case shall be under the jurisdiction of the military court."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The acceptance of civil cases of first instance by military courts shall be determined by reference to the provisions of the Civil Procedure Law on hierarchical jurisdiction and territorial jurisdiction.\nWhere there is no military court of first instance that may accept the case within the provincial administrative division in which a party is domiciled, or where the party is in a remote area with highly inconvenient transport, and both parties agree that a local people's court shall have jurisdiction, the local people's court may exercise jurisdiction, except for cases provided in subparagraph (b) of paragraph 1 of Article 1 of these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a military court finds that a civil case it has accepted is under the jurisdiction of a local people's court, it shall transfer the case to the local people's court with jurisdiction, and the local people's court to which the case is transferred shall accept it.\nWhere the local people's court considers that the transferred case is not under its jurisdiction, it shall report to the people's court at the higher level for handling and shall not transfer the case on its own again.\nWhere a local people's court finds that a civil case it has accepted is under the jurisdiction of a military court, it shall handle the matter by reference to the provisions of paragraph 1. Where a military court considers that a transferred case is not under its jurisdiction, it shall handle the matter by reference to the provisions of paragraph 2."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Before transferring jurisdiction in accordance with Article 5 of these Provisions, a military court and a local people's court may consult each other in advance.\nWhere a dispute over jurisdiction arises between a military court and a local people's court, the two parties to the dispute shall resolve it through the consultation mechanism; where consultation fails, they shall report to their respective people's courts at the higher level for resolution through consultation; where consultation still fails, they shall report to the Supreme People's Court for designation of jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where, after a military court accepts a case, a party objects to jurisdiction, the objection shall be raised during the period for submitting the statement of defence. The military court shall review the objection raised by the party; where the objection is established, it shall rule to transfer the case to the military court or local people's court with jurisdiction; where the objection is not established, it shall rule to reject the objection."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Military personnel referred to in these Provisions means active-duty officers, non-commissioned officers and conscripts of the Chinese People's Liberation Army and cadets with military status, and active-duty police officers, police non-commissioned officers and conscripts of the Chinese People's Armed Police Force and cadets with military status. Jurisdiction over civilian staff members in the military, retired personnel managed by the military and staff members within the military establishment shall be determined by reference to that for military personnel.\nMilitary units means the active-duty forces and reserve forces of the Chinese People's Liberation Army, the Chinese People's Armed Police Force and the enterprises and institutions within their establishment.\nMilitary camp area means an area managed and used by the military, including military restricted zones, military administrative zones and temporary garrisons established by the military."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "These Provisions shall come into force on 1 May 2025. The Provisions of the Supreme People's Court on Several Issues Concerning the Jurisdiction of Military Courts over Civil Cases (revised in 2020) shall be repealed simultaneously; where judicial interpretations and documents of a judicial interpretation nature promulgated before these Provisions come into force are inconsistent with these Provisions, these Provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0181'] = {
+    "lawId": "CN-JI-0181",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 9 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "A higher people's court shall strictly examine a party's application for retrial in accordance with Article 200 of the Civil Procedure Law and other provisions, and shall rule for retrial where the statutory conditions are met. The standard for initiating a retrial shall not be lowered because of a direction for retrial, nor shall a case that should not be retried in accordance with law be directed to a lower people's court for retrial merely because the party has repeatedly petitioned."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "A case in which a ruling for retrial is made upon a party's application shall generally be tried by the people's court that made the ruling for retrial. Where any of the following circumstances exists, the Supreme People's Court or a higher people's court may direct the people's court of original trial to conduct the retrial:\n(a) a ruling for retrial is made on the basis of subparagraph (d), subparagraph (e) or subparagraph (i) of Article 200 of the Civil Procedure Law;\n(b) the legally effective judgment, ruling or mediation statement was made by the court of first instance;\n(c) one party consists of a large number of persons, or both parties are citizens;\n(d) other circumstances discussed and decided by the judicial committee.\nA case in which a people's procuratorate lodges a protest shall be tried by the people's court that receives the protest; where any of the circumstances prescribed in subparagraphs (a) to (e) of Article 200 of the Civil Procedure Law exists, the case may be directed to the people's court of original trial for retrial.\nWhere a people's court rules for retrial in accordance with paragraph 2 of Article 198 of the Civil Procedure Law, it shall take up the case for trial itself."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Although the conditions for directing a retrial under Article 2 of these Provisions are met, where any of the following circumstances exists, the case shall be taken up for trial by the higher people's court itself:\n(a) the original judgment or ruling was made after the case had been tried by the people's court of original trial in a retrial;\n(b) the original judgment or ruling was made after discussion by the judicial committee of the people's court of original trial;\n(c) the judicial officer of the original trial embezzled or accepted bribes, committed malpractices for personal gain, or perverted the law in making the adjudication while trying the case;\n(d) the people's court of original trial has no jurisdiction over the retrial of the case;\n(e) uniform standards for the application of law or for the exercise of discretion need to be established;\n(f) other circumstances under which it is inappropriate to direct the people's court of original trial to conduct the retrial."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a people's court, trying a retrial case under the procedure of second instance, finds that the basic facts as determined in the original judgment are unclear, it shall generally determine the facts through a court hearing and then make a judgment in accordance with law. However, where the people's court of original trial has not tried the basic facts, the people's court may rule to set aside the original judgment and remand the case for retrial. Where the facts as determined in the original judgment are erroneous, the higher people's court shall not rule to remand the case for retrial on the ground that the basic facts are unclear."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a people's court, trying a retrial case under the procedure of second instance, finds that the people's court of first instance has committed any of the following serious violations of statutory procedure, it may, in accordance with subparagraph (d) of paragraph 1 of Article 170 of the Civil Procedure Law, rule to set aside the original judgment and remand the case to the people's court of first instance for retrial:\n(a) the original judgment omitted a party that must participate in the action;\n(b) a person without capacity for litigation conduct conducted the action without a statutory agent acting on his or her behalf, or a party that should have participated in the action did not participate for reasons not attributable to the party or its agent ad litem;\n(c) a judgment by default was made without lawful summons, or the party's right to debate was deprived in violation of legal provisions;\n(d) the composition of the trial organisation was unlawful, or a judicial officer who should have withdrawn in accordance with law did not withdraw;\n(e) the original judgment or ruling omitted a litigation claim."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a higher people's court rules to direct a retrial or to remand a case for retrial, it shall state in the ruling the specific reasons for directing the retrial or remanding the case for retrial."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "A retrial case shall be tried and adjudicated on the basis of the retrial claims of the applicant. Where the opposing party also raises retrial claims before the conclusion of the debate at the retrial hearing, those claims shall be tried and adjudicated together. Retrial claims of a party that exceed the claims in the original action shall not be tried; where they constitute a separate action, the party shall be informed that it may file a new action."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "A case remanded for retrial after a ruling for retrial shall be tried on the basis of the original claims of the parties. Where a party applies to alter or add claims or files a counterclaim, it shall be examined and decided whether permission is granted in accordance with Article 252 of the Interpretation of the Supreme People's Court on the Application of the Civil Procedure Law of the People's Republic of China. Where a party alters its litigation assertions, cross-examination opinions or debate opinions in the original trial, it shall state reasons and submit corresponding evidence; where the reasons do not hold or the evidence is insufficient, the people's court shall not uphold the party's position."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "People's courts at all levels shall strictly comply with these Provisions in their judicial conduct concerning the direction of retrial and remand for retrial in civil cases. Where these Provisions are violated, the persons concerned shall be held accountable in accordance with the relevant provisions.\nWhere judicial interpretations previously issued by the Supreme People's Court are inconsistent with these Provisions, they shall no longer apply."
+        },
+        "noLabel": {
+          "en": "Article 9."
         }
       }
     ]

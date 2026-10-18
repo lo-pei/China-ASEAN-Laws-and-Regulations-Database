@@ -1,12 +1,246 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p10
-   法规 12 部 / 译文 48 条
+   法规 22 部 / 译文 126 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR['CN-JI-0346'] = {
+    "lawId": "CN-JI-0346",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Provisions apply to disputes arising from a request for the return of betrothal gifts given in accordance with custom for the purpose of marriage."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "It is prohibited to extort property by taking advantage of marriage. Where one party, in the name of betrothal gifts, extorts property by taking advantage of marriage and the other party requests its return, the people's court shall uphold the request."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In trying cases involving disputes over betrothal gifts, a people's court may, on the basis of the purpose for which one party gave the property, determine the scope of betrothal gifts after comprehensively considering facts such as the local customs of both parties, the time and manner of the giving, the value of the property, and the persons giving and receiving it.\nProperty given in the following circumstances does not constitute betrothal gifts:\n(a) gifts and gift money of small value given by one party on festivals, birthdays or other occasions of special commemorative significance;\n(b) daily consumption expenditure by one party to express or enhance affection;\n(c) other property of small value."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In a dispute over property under a marriage contract, one party to the marriage contract and his or her parents who actually gave the betrothal gifts may act as joint plaintiffs; the other party to the marriage contract and his or her parents who actually received the betrothal gifts may act as joint defendants.\nIn a divorce dispute, where one party makes a claim for the return of betrothal gifts, the parties shall still be the husband and the wife."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where both parties have completed marriage registration and have cohabited, and one party requests the return of betrothal gifts given in accordance with custom at the time of divorce, the people's court shall generally not uphold the request. However, where the period of cohabitation is relatively short and the amount of the betrothal gifts is excessively high, the people's court may, on the basis of the actual use of the betrothal gifts and the circumstances of the dowry, and after comprehensively considering facts such as the amount of the betrothal gifts, the cohabitation and childbearing circumstances and the faults of both parties, and in light of local customs, determine whether return shall be ordered and the specific proportion to be returned.\nIn determining whether the amount of betrothal gifts is excessively high, the people's court shall comprehensively consider factors such as the per capita disposable income of residents in the place where the party giving the betrothal gifts is located, the economic situation of the family of the giving party and local customs."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where both parties have not completed marriage registration but have cohabited, and one party requests the return of betrothal gifts given in accordance with custom, the people's court shall, on the basis of the actual use of the betrothal gifts and the circumstances of the dowry, and after comprehensively considering facts such as the cohabitation and childbearing circumstances and the faults of both parties, and in light of local customs, determine whether return shall be ordered and the specific proportion to be returned."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "These Provisions shall come into force on 1 February 2024.\nAfter these Provisions come into force, they shall apply to cases of first instance and of second instance that have not yet been concluded by people's courts. These Provisions shall not apply to cases that were already finally adjudicated before these Provisions came into force and in which, after they came into force, a party applies for retrial or a retrial is decided in accordance with the trial supervision procedure."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0349'] = {
+    "lawId": "CN-JI-0349",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a party or an interested party to a notarised matter files an action with a people's court under Article 43 of the Notarisation Law requesting civil compensation, the notarial institution shall be the defendant, and the people's court shall accept the case as a dispute over tort liability."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a party or an interested party to a notarised matter files an action requesting alteration or revocation of a notarial certificate or confirmation that a notarial certificate is invalid, the people's court shall not accept the case, and shall inform the person that, in accordance with Article 39 of the Notarisation Law, it may apply to the notarial institution that issued the notarial certificate for review."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a party or an interested party to a notarised matter disputes the civil rights and obligations notarised in a notarial certificate, it may, in accordance with Article 40 of the Notarisation Law, institute a civil action with a people's court in respect of the dispute.\nWhere a party or an interested party to a notarised matter disputes the civil rights and obligations under a notarised debt instrument with force of compulsory enforcement and directly institutes a civil action with a people's court, the people's court shall not accept the case in accordance with law. The exception is where the people's court has ruled not to enforce the notarised debt instrument."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a party or an interested party to a notarised matter provides evidence proving that the notarial institution or its notary has any of the following circumstances in notarial activities, the people's court shall determine that the notarial institution is at fault:\n(a) issuing a notarial certificate for a matter that is untrue or unlawful;\n(b) destroying or tampering with a notarial certificate or notarial archives;\n(c) disclosing trade secrets or personal privacy learned in the course of practice;\n(d) issuing a notarial certificate in violation of notarisation procedure, notarisation rules or the industry norms formulated by the judicial administration department of the State Council;\n(e) the notarial institution failing to fulfil its duty of full examination and verification in the course of notarisation, resulting in an erroneous or untrue notarial certificate;\n(f) failing to correct or rectify a notarial certificate containing errors despite an application by the party or an interested party to the notarised matter;\n(g) other circumstances violating laws, regulations or mandatory provisions of the judicial administration department of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a party applies for notarisation by providing false certification materials, causing an erroneous notarial certificate and losses to others, the party shall bear liability for compensation. Where the notarial institution has fulfilled its duty of examination and verification in accordance with law, it shall not bear liability for compensation; where it has not fulfilled that duty in accordance with law, it shall bear supplementary liability for compensation corresponding to its fault; where it knows that the materials certified are false or maliciously colludes with the party, it shall bear joint and several liability for compensation."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a party or an interested party to a notarised matter, knowing that a notarial certificate issued by a notarial institution is untrue or unlawful, still uses it and thereby causes losses to itself, and requests the notarial institution to bear liability for compensation, the people's court shall not uphold the request."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "After these Provisions come into force, civil cases involving notarisation activities that have not yet been finally adjudicated shall be governed by these Provisions; cases in which a final judgment has been rendered before these Provisions come into force and in which a party applies for retrial or a retrial is decided under the trial supervision procedure shall not be governed by these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0352'] = {
+    "lawId": "CN-JI-0352",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a party institutes an action in a people's court in respect of a civil dispute involving the registration, use or other acts concerning a computer network domain name, and upon review the action meets the provisions of Article 119 of the Civil Procedure Law, the people's court shall accept it."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "A case of infringement dispute involving a domain name shall be under the jurisdiction of the intermediate people's court of the place where the infringement is committed or where the defendant is domiciled. Where it is difficult to determine the place where the infringement is committed and the place where the defendant is domiciled, the place where the computer terminal or other equipment by which the plaintiff discovered the domain name is located may be regarded as the place where the infringement is committed.\nForeign-related domain name dispute cases include domain name dispute cases in which one or both parties are foreign nationals, stateless persons, foreign enterprises or organisations or international organisations, or in which the domain name is registered in a foreign country. Jurisdiction over foreign-related domain name dispute cases arising within the territory of the People's Republic of China shall be determined in accordance with the provisions of Part IV of the Civil Procedure Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The cause of action of a domain name dispute case shall be determined according to the nature of the legal relationship in dispute between the parties, preceded by \"computer network domain name\"; where the nature of the legal relationship in dispute is difficult to determine, the case may be generally referred to as a computer network domain name dispute case."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a people's court tries a domain name dispute case and all of the following conditions are met, it shall determine that the defendant's acts of registering and using the domain name constitute infringement or unfair competition:\n(a) the civil rights and interests that the plaintiff requests to be protected are lawful and valid;\n(b) the defendant's domain name or its main part constitutes a reproduction, imitation, translation or transliteration of the plaintiff's well-known trademark, or is identical or similar to the plaintiff's registered trademark, domain name or the like so as to be sufficient to cause misconception among the relevant public;\n(c) the defendant enjoys no rights or interests in the domain name or its main part and has no legitimate reason to register or use the domain name;\n(d) the defendant's registration and use of the domain name are in bad faith."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where it is proved that the defendant's conduct falls under any of the following circumstances, the people's court shall determine that the defendant acted in bad faith:\n(a) registering another person's well-known trademark as a domain name for commercial purposes;\n(b) registering or using, for commercial purposes, a domain name identical or similar to the plaintiff's registered trademark, domain name or the like, intentionally causing confusion with the products or services provided by the plaintiff or with the plaintiff's website, and misleading network users into visiting its website or other online sites;\n(c) having offered to sell, lease or otherwise transfer the domain name at a high price in order to obtain improper benefits;\n(d) having registered the domain name without using it or preparing to use it, with the intention of preventing the rights holder from registering the domain name;\n(e) other circumstances of bad faith.\nWhere the defendant adduces evidence proving that, before the dispute arose, the domain name held by it had already acquired a certain degree of popularity and can be distinguished from the plaintiff's registered trademark, domain name or the like, or that other circumstances are sufficient to prove the absence of bad faith, the people's court may determine that the defendant did not act in bad faith."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "In trying a domain name dispute case, a people's court may, upon the request of a party and in light of the specific circumstances of the case, determine in accordance with law whether the registered trademark involved is well known."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where a people's court determines that acts of registering or using a domain name constitute infringement or unfair competition, it may order the defendant to stop the infringement and cancel the domain name, or, upon the request of the plaintiff, order that the plaintiff register and use the domain name; where actual damage has been caused to the rights holder, it may order the defendant to compensate for the loss.\nWhere the infringer intentionally commits the infringement and the circumstances are serious, the plaintiff shall be entitled to request punitive compensation from the people's court."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      }
+    ]
+  };
 
   TR['CN-JI-0356'] = {
     "lawId": "CN-JI-0356",
@@ -45,6 +279,102 @@
         },
         "noLabel": {
           "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0357'] = {
+    "lawId": "CN-JI-0357",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 9 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where people's courts hear foreign-related civil and commercial cases governed by the Maritime Code of the People's Republic of China, the Negotiable Instruments Law of the People's Republic of China, the Civil Aviation Law of the People's Republic of China and the Maritime Traffic Safety Law of the People's Republic of China, and the application of international treaties is involved, the treaties shall be applied in accordance with Article 268 of the Maritime Code, Article 95 of the Negotiable Instruments Law, Article 184 of the Civil Aviation Law and Article 121 of the Maritime Traffic Safety Law respectively.\nWhere people's courts hear other foreign-related civil and commercial cases outside the scope of the laws mentioned above, and the application of international treaties is involved, the provisions of the laws mentioned above shall be referred to. Where an international treaty provides differently from the laws of the People's Republic of China, the provisions of the international treaty shall apply, except for the clauses on which the People's Republic of China has declared a reservation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where the application of two or more international treaties is involved in a foreign-related civil or commercial case, the people's court shall determine the international treaty to be applied in accordance with the provisions on the relationship of application in the international treaties."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where an international treaty provides that the parties may agree to exclude, in whole or in part, the application of the treaty, and a party asserts that the application of the treaty is excluded in whole or in part in accordance with the agreement, the people's court shall uphold the assertion. Where an international treaty restricts the parties from excluding, in whole or in part, the application of the treaty, and a party asserts that the application of the treaty is excluded in whole or in part in accordance with the agreement, the people's court shall not uphold the assertion."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a party invokes in a contract an international treaty that has not yet entered into force for the People's Republic of China, the people's court may determine the rights and obligations between the parties in accordance with the content of that treaty, unless this violates the mandatory provisions of the laws or administrative regulations of the People's Republic of China or harms the sovereignty, security or public interests of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where the parties to a foreign-related civil or commercial contract expressly choose to apply international usages, and a party asserts that the rights and obligations between the contracting parties are to be determined in accordance with international usages, the people's court shall uphold the assertion."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where the laws of the People's Republic of China and the international treaties concluded or acceded to by the People's Republic of China contain no provisions, the people's court may apply international usages. Where a party asserts the exclusion of the application of international usages merely on the ground that they were not expressly chosen, the people's court shall not uphold the assertion."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where the application of international treaties or international usages would harm the sovereignty, security or public interests of the People's Republic of China, the people's court shall not apply them."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "This Interpretation shall come into force on 1 January 2024."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where judicial interpretations previously issued by the Supreme People's Court are inconsistent with this Interpretation, this Interpretation shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 9."
         }
       }
     ]
@@ -116,6 +446,162 @@
     ]
   };
 
+  TR['CN-JI-0374'] = {
+    "lawId": "CN-JI-0374",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a person intentionally commits acts such as damaging military communication lines or equipment, destroying military communication computer information systems, or interfering with or encroaching upon the electromagnetic spectrum of military communications, the person shall, in accordance with paragraph 1 of Article 369 of the Criminal Law, be convicted of the crime of damaging military communications and sentenced to fixed-term imprisonment of not more than three years, criminal detention or public surveillance; where important military communications are damaged, the person shall be sentenced to fixed-term imprisonment of not less than three years but not more than 10 years."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a person commits the act of damaging military communications and any of the following circumstances exists, the circumstances constitute \"especially serious circumstances\" as provided in paragraph 1 of Article 369 of the Criminal Law, and the person shall be convicted of the crime of damaging military communications and sentenced to fixed-term imprisonment of not less than 10 years, life imprisonment or the death penalty:\n(a) causing interruption or serious obstruction of important military communications, seriously affecting the completion of combat tasks by the armed forces or causing the armed forces to suffer losses in combat;\n(b) causing interruption or serious obstruction of communications in the execution by the armed forces of tasks such as emergency rescue and disaster relief, military exercises or the handling of emergencies, thereby delaying the actions of the armed forces and resulting in the death of three or more persons, serious injury of 10 or more persons or property loss of 1 million yuan or more;\n(c) damaging important military communications on three or more occasions;\n(d) other circumstances that are especially serious."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a person negligently damages military communications, causing interruption or serious obstruction of important military communications, the circumstances constitute \"causing serious consequences\" as provided in paragraph 2 of Article 369 of the Criminal Law, and the person shall be convicted of the crime of negligently damaging military communications and sentenced to fixed-term imprisonment of not more than three years or criminal detention."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a person negligently damages military communications and any of the following circumstances exists, the circumstances constitute \"causing especially serious consequences\" as provided in paragraph 2 of Article 369 of the Criminal Law, and the person shall be convicted of the crime of negligently damaging military communications and sentenced to fixed-term imprisonment of not less than three years but not more than seven years:\n(a) causing interruption or serious obstruction of important military communications, seriously affecting the completion of combat tasks by the armed forces or causing the armed forces to suffer losses in combat;\n(b) causing interruption or serious obstruction of communications in the execution by the armed forces of tasks such as emergency rescue and disaster relief, military exercises or the handling of emergencies, thereby delaying the actions of the armed forces and resulting in the death of three or more persons, serious injury of 10 or more persons or property loss of 1 million yuan or more;\n(c) other circumstances where the consequences are especially serious."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where the person directly in charge or the construction management personnel of a construction or building unit, knowing that the lines or equipment are military communication lines or equipment, instigates, orders or connives at another person to damage them, or, disregarding the dissuasion of the custodial and maintenance personnel, instigates, orders or connives at another person to operate in violation of regulations, causing the military communication lines or equipment to be damaged, the person shall be convicted and punished for the crime of damaging military communications.\nWhere the person directly in charge or the construction management personnel of a construction or building unit, ignoring the signs for the protection of military communication lines or equipment, instigates or connives at another person to operate in violation of regulations, causing the military communication lines or equipment to be damaged and the act constituting a crime, the person shall be convicted and punished for the crime of negligently damaging military communications."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a person damages or negligently damages military communications and thereby causes the destruction of public telecommunications facilities, endangering public security, and the act simultaneously constitutes the crimes provided in Article 124 and Article 369 of the Criminal Law, conviction and punishment shall be determined in accordance with the provision that imposes the heavier punishment.\nWhere a person steals military communication lines or equipment, which does not constitute the crime of theft but damages military communications, the person shall be convicted and punished in accordance with paragraph 1 of Article 369 of the Criminal Law; where the act simultaneously constitutes the crimes provided in Article 124, Article 264 and paragraph 1 of Article 369 of the Criminal Law, conviction and punishment shall be determined in accordance with the provision that imposes the heavier punishment.\nWhere a person, in violation of State regulations, intrudes into a military communication computer information system in the field of national defence construction or of advanced science and technology, without yet causing damage to military communications, the person shall be convicted and punished in accordance with Article 285 of the Criminal Law; where damage is caused to military communications and the act simultaneously constitutes the crimes provided in Article 285, Article 286 and paragraph 1 of Article 369 of the Criminal Law, conviction and punishment shall be determined in accordance with the provision that imposes the heavier punishment.\nWhere a person, in violation of State regulations and without authorisation, sets up or uses a radio station or radio station installation, or without authorisation occupies a frequency, and refuses to stop using it after being ordered to do so, interfering with the normal operation of radio communications, and the act constitutes a crime, the person shall be convicted and punished in accordance with Article 288 of the Criminal Law; where interruption or serious obstruction of military communications is caused and the act simultaneously constitutes the crimes provided in Article 288 and paragraph 1 of Article 369 of the Criminal Law, conviction and punishment shall be determined in accordance with the provision that imposes the heavier punishment."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The \"important military communications\" referred to in this Interpretation means the communications of military headquarters organs and important command centres, communications in the course of combat operations by the armed forces, communications for combat readiness at the various levels, communications in flight and navigation training, emergency rescue and disaster relief, military exercises or the handling of emergencies, and communications in the execution of important military tasks such as test flights, test voyages, scientific research tests of weapons and equipment or ocean-going voyages.\nThe specific scope of military communications and the standards for interruption and serious obstruction of communications referred to in this Interpretation shall be determined by reference to the relevant provisions of the competent communications department of the Chinese People's Liberation Army."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0375'] = {
+    "lawId": "CN-JI-0375",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where the total face value of forged currency is 2,000 yuan or more but less than 30,000 yuan, or the quantity is 200 notes (coins) or more but less than 3,000 notes (coins), the person shall, in accordance with Article 170 of the Criminal Law, be sentenced to fixed-term imprisonment of not less than three years but not more than 10 years and shall also be fined not less than 50,000 yuan but not more than 500,000 yuan.\nWhere the total face value of forged currency is 30,000 yuan or more, it constitutes \"an especially huge amount of forged currency\".\nWhere an actor makes currency plates or, having conspired with another person in advance, provides plates for another person to forge currency, the actor shall be convicted and punished in accordance with Article 170 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where an actor purchases counterfeit currency and then uses it, and the act constitutes a crime, the actor shall, in accordance with Article 171 of the Criminal Law, be convicted of the crime of purchasing counterfeit currency and given a heavier punishment.\nWhere an actor sells or transports counterfeit currency, constituting a crime, and also uses counterfeit currency, combined punishment for several crimes shall be imposed in accordance with Articles 171 and 172 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a person sells or purchases counterfeit currency, or transports counterfeit currency knowing it to be counterfeit, and the total face value is 4,000 yuan or more but less than 50,000 yuan, it constitutes a \"relatively large amount\"; where the total face value is 50,000 yuan or more but less than 200,000 yuan, it constitutes a \"huge amount\"; where the total face value is 200,000 yuan or more, it constitutes an \"especially huge amount\"; and the person shall be convicted and punished in accordance with paragraph 1 of Article 171 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a staff member of a bank or of another financial institution purchases counterfeit currency or, taking advantage of his or her position, exchanges currency for counterfeit currency, and the total face value is 4,000 yuan or more but less than 50,000 yuan, or the quantity is 400 notes (coins) or more but less than 5,000 notes (coins), the person shall be sentenced to fixed-term imprisonment of not less than three years but not more than 10 years and shall also be fined not less than 20,000 yuan but not more than 200,000 yuan; where the total face value is 50,000 yuan or more, or the quantity is 5,000 notes (coins) or more, or other serious circumstances exist, the person shall be sentenced to fixed-term imprisonment of not less than 10 years or life imprisonment and shall also be fined not less than 20,000 yuan but not more than 200,000 yuan or have his or her property confiscated; where the total face value is less than 4,000 yuan renminbi, or the quantity is less than 400 notes (coins), or other relatively minor circumstances exist, the person shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention and shall also, or shall only, be fined not less than 10,000 yuan but not more than 100,000 yuan."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a person, knowing currency to be counterfeit, holds or uses it, and the total face value is 4,000 yuan or more but less than 50,000 yuan, it constitutes a \"relatively large amount\"; where the total face value is 50,000 yuan or more but less than 200,000 yuan, it constitutes a \"huge amount\"; where the total face value is 200,000 yuan or more, it constitutes an \"especially huge amount\"; and the person shall be convicted and punished in accordance with Article 172 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where the total face value of altered currency is 2,000 yuan or more but less than 30,000 yuan, it constitutes a \"relatively large amount\"; where the total face value is 30,000 yuan or more, it constitutes a \"huge amount\"; and the person shall be convicted and punished in accordance with Article 173 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The \"currency\" referred to in this Interpretation means renminbi and foreign currencies that can circulate or be exchanged in the domestic market.\nThe face value of currency shall be calculated in renminbi; other currencies shall be converted into renminbi at the foreign exchange rate published by the State foreign exchange administration organ at the time of the case."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0376'] = {
     "lawId": "CN-JI-0376",
     "sourceLang": "zh",
@@ -180,6 +666,84 @@
         },
         "noLabel": {
           "en": "Article 6."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0377'] = {
+    "lawId": "CN-JI-0377",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "\"State secrets\" as provided in Article 111 of the Criminal Law means the matters determined in accordance with Article 2 and Article 8 of the Law of the People's Republic of China on Guarding State Secrets and Article 4 of the Measures for the Implementation of the Law of the People's Republic of China on Guarding State Secrets.\n\"Intelligence\" as provided in Article 111 of the Criminal Law means matters that relate to national security and interests and that have not been made public or should not be made public in accordance with the relevant provisions.\nActs of stealing, probing, buying or illegally providing, for institutions, organisations or individuals abroad, intelligence other than state secrets shall be convicted and punished for the crime of stealing, probing, buying or illegally providing intelligence for entities abroad."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Whoever steals, probes, buys or illegally provides state secrets or intelligence for institutions, organisations or individuals abroad, under any of the following circumstances, falls under \"especially serious circumstances\" and shall be sentenced to fixed-term imprisonment of not less than 10 years or life imprisonment, and may also be sentenced to confiscation of property:\n(a) stealing, probing, buying or illegally providing top-secret state secrets for entities abroad;\n(b) stealing, probing, buying or illegally providing three or more confidential-level state secrets for entities abroad;\n(c) causing other especially serious harm to national security and interests by stealing, probing, buying or illegally providing state secrets or intelligence for entities abroad.\nWhoever commits the acts in the preceding paragraph and causes especially serious harm to the State and the people, with especially grave circumstances, may be sentenced to death, and shall concurrently be sentenced to confiscation of property."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Whoever steals, probes, buys or illegally provides state secrets or intelligence for institutions, organisations or individuals abroad, under any of the following circumstances, shall be sentenced to fixed-term imprisonment of not less than 5 years but not more than 10 years, and may also be sentenced to confiscation of property:\n(a) stealing, probing, buying or illegally providing confidential-level state secrets for entities abroad;\n(b) stealing, probing, buying or illegally providing three or more secret-level state secrets for entities abroad;\n(c) causing other serious harm to national security and interests by stealing, probing, buying or illegally providing state secrets or intelligence for entities abroad."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Whoever steals, probes, buys or illegally provides secret-level state secrets or intelligence for institutions, organisations or individuals abroad falls under \"relatively minor circumstances\" and shall be sentenced to fixed-term imprisonment of not more than 5 years, criminal detention, public surveillance or deprivation of political rights, and may also be sentenced to confiscation of property."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where an actor knows or ought to know that matters not marked with a classification level relate to national security and interests and still steals, probes, buys or illegally provides them for institutions, organisations or individuals abroad, the actor shall be convicted and punished for the crime of stealing, probing, buying or illegally providing state secrets for entities abroad in accordance with Article 111 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Whoever illegally sends state secrets or intelligence to institutions, organisations or individuals abroad through the Internet shall be convicted and punished in accordance with Article 111 of the Criminal Law; whoever publishes state secrets through the Internet, where the circumstances are serious, shall be convicted and punished in accordance with Article 398 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where, in hearing a case of stealing, probing, buying or illegally providing state secrets for entities abroad, it is necessary to determine whether the matters involved are state secrets and what classification level they bear, the determination shall be made by the State secrecy department or the secrecy department of the province, autonomous region or municipality directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 7."
         }
       }
     ]
@@ -360,6 +924,102 @@
         },
         "noLabel": {
           "en": "Article 4."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0399'] = {
+    "lawId": "CN-JI-0399",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 9 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where an athlete or athlete support personnel smuggles substances listed in the catalogue of doping substances, or other persons smuggle substances listed in the catalogue of doping substances for the purpose of illegal use in sports competitions, the substances involved are goods or articles prohibited from import or export by the State, and any of the following circumstances exists, the person shall be convicted and punished for the crime of smuggling goods or articles prohibited from import or export by the State in accordance with paragraph 3 of Article 151 of the Criminal Law:\n(a) having been given an administrative penalty twice or more for smuggling within one year and thereafter smuggling again;\n(b) the substances are used or intended for use by minor athletes or athletes with disabilities;\n(c) the substances are used or intended for use in major domestic or international sports competitions;\n(d) other circumstances causing serious or adverse social impact.\nWhere a person commits an act prescribed in the preceding paragraph, the substances involved are not goods or articles prohibited from import or export by the State, but the tax payable is evaded in an amount of not less than RMB 10,000, or the person has been given an administrative penalty twice or more for smuggling within one year and thereafter smuggles again, the person shall be convicted and punished for the crime of smuggling ordinary goods or articles in accordance with Article 153 of the Criminal Law.\nFor acts of smuggling substances listed in the catalogue of doping substances other than those prescribed in paragraphs 1 and 2 of this Article, the standards for conviction and sentencing prescribed in the Interpretation of the Supreme People's Court and the Supreme People's Procuratorate on Several Issues Concerning the Application of Law in Handling Criminal Cases of Smuggling (Fa Shi [2014] No. 10) shall apply."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a person, in violation of State regulations, operates substances listed in the catalogue of doping substances without a licence, the substances involved are articles whose purchase and sale are restricted as prescribed by laws and administrative regulations, and the person disrupts market order and the circumstances are serious, the person shall be convicted and punished for the crime of illegal business operation in accordance with Article 225 of the Criminal Law."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a person responsible for the guardianship or care of minors or persons with disabilities organises minors or persons with disabilities to illegally use doping substances in sports, and any of the following circumstances exists, the circumstances shall be determined as \"flagrant circumstances\" prescribed in Article 260bis of the Criminal Law, and the person shall be convicted and punished for the crime of maltreating a person under guardianship or care:\n(a) forcing minors or persons with disabilities to use doping substances;\n(b) luring or deceiving minors or persons with disabilities into long-term use;\n(c) other circumstances seriously damaging the physical or mental health of minors or persons with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where, in sports activities such as physical education and fitness tests involved in national examinations prescribed by law, such as the enrolment of ordinary institutions of higher education and the recruitment of civil servants, a person organises examinees to illegally use doping substances, the person shall be convicted and punished for the crime of organising cheating in examinations in accordance with Article 284bis of the Criminal Law.\nWhere a person, knowing that another person is committing the crime prescribed in the preceding paragraph, provides doping substances to that other person, the person shall be convicted and punished in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a person produces or sells food containing substances listed in the catalogue of doping substances, and the act conforms to Article 143 or Article 144 of the Criminal Law, the person shall be convicted and punished for the crime of producing or selling food that does not conform to safety standards or the crime of producing or selling toxic or harmful food."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a staff member of a State organ, in exercising the authority of anti-doping administration, abuses his or her power or neglects his or her duty, causing a serious doping violation incident, seriously damaging the reputation of the State or causing adverse social impact, and the act conforms to Article 397 of the Criminal Law, the person shall be convicted and punished for the crime of abuse of power or the crime of neglect of duty.\nWhere a staff member of a unit that exercises the authority of anti-doping administration in accordance with law or under entrustment abuses his or her power or neglects his or her duty in exercising that authority, the person shall be convicted and punished in accordance with the provisions of the preceding paragraph."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where a person commits an act prescribed in this Interpretation and the substances involved are narcotic drugs, precursor chemicals or the like, constituting a relevant crime, the person shall be convicted and punished for the corresponding crime."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Whether a matter is a specialised issue prescribed in this Interpretation, such as \"doping substances\", \"substances listed in the catalogue of doping substances\", \"sports activities\" or \"major domestic or international sports competitions\", shall be determined on the basis of the Sports Law of the People's Republic of China, the Anti-Doping Regulations and other laws and regulations, in conjunction with the determination opinions issued by the competent sports department of the State Council and other evidentiary materials."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "This Interpretation shall come into force on 1 January 2020."
+        },
+        "noLabel": {
+          "en": "Article 9."
         }
       }
     ]
@@ -615,6 +1275,198 @@
         },
         "noLabel": {
           "en": "Article 6."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0414'] = {
+    "lawId": "CN-JI-0414",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 8 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Civil dispute cases arising from legal facts occurring after the Company Law comes into force shall be governed by the provisions of the Company Law.\nFor civil dispute cases arising from legal facts occurring before the Company Law comes into force, where the law and judicial interpretations in force at the time contained provisions, the provisions of the law and judicial interpretations in force at the time shall apply; however, where the application of the Company Law is more conducive to achieving its legislative purpose, the provisions of the Company Law shall apply:\n(a) where, before the Company Law comes into force, the convening procedure of a company's shareholders' meeting was improper and a shareholder who was not notified to attend the meeting requests the people's court, within one year from the date on which the resolution was made, to set aside the resolution, the provisions of paragraph 2 of Article 26 of the Company Law shall apply;\n(b) where a resolution of a shareholders' meeting or of a board of directors made before the Company Law comes into force is confirmed by a people's court in accordance with the law as not established, and a dispute arises over the validity of the legal relationship formed by the company with a bona fide counterpart on the basis of that resolution, the provisions of paragraph 2 of Article 28 of the Company Law shall apply;\n(c) where, before the Company Law comes into force, a shareholder made a capital contribution with a claim and a dispute arises over the form of the capital contribution, the provisions of paragraph 1 of Article 48 of the Company Law shall apply;\n(d) where, before the Company Law comes into force, a shareholder of a limited liability company transferred equity to a person other than a shareholder and a dispute arises over the transfer of equity, the provisions of paragraph 2 of Article 84 of the Company Law shall apply;\n(e) where, before the Company Law comes into force, a company distributed profits to shareholders or reduced its registered capital in violation of the provisions of the law, causing loss to the company, and a dispute arises over liability for damages, the provisions of Article 211 and Article 226 of the Company Law shall apply respectively;\n(f) where a resolution on profit distribution was made before the Company Law comes into force and a dispute arises over the time limit for profit distribution, the provisions of Article 212 of the Company Law shall apply;\n(g) where, before the Company Law comes into force, a company reduced its registered capital and a dispute arises among shareholders over the corresponding reduction in the amount of capital contribution or in the number of shares, the provisions of paragraph 3 of Article 224 of the Company Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a civil juristic act relating to a company performed before the Company Law comes into force is determined to be invalid under the law and judicial interpretations in force at the time but is determined to be valid under the Company Law, the provisions of the Company Law shall apply to the following circumstances in which a dispute arises over the validity of the civil juristic act:\n(a) where it is agreed that the company bears joint and several liability for the debts of an enterprise in which it invests and a dispute arises over the validity of that agreement, the provisions of paragraph 2 of Article 14 of the Company Law shall apply;\n(b) where a company makes a company resolution to use capital reserve funds to make up losses and a dispute arises over the validity of that resolution, the provisions of Article 214 of the Company Law shall apply;\n(c) where a company merges with a company in which it holds 90 per cent or more of the shares and a dispute arises over the validity of the merger resolution, the provisions of Article 219 of the Company Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a contract relating to a company is concluded before the Company Law comes into force and the performance of the contract continues after the Company Law comes into force, a dispute arising from an act of performance before the Company Law comes into force shall be governed by the law and judicial interpretations in force at the time; the provisions of the Company Law shall apply to the following circumstances in which a dispute arises from an act of performance after the Company Law comes into force:\n(a) a contract for holding the shares of a listed company through a nominee, to which the provisions of paragraph 2 of Article 140 of the Company Law shall apply;\n(b) a contract under which a controlled subsidiary of a listed company acquires shares of that listed company, to which the provisions of Article 141 of the Company Law shall apply;\n(c) a contract under which a company limited by shares provides gifts, loans, security or other financial assistance for another person to acquire shares of the company or of its parent company, to which the provisions of Article 163 of the Company Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "For civil dispute cases arising from legal facts occurring before the Company Law comes into force, where the law and judicial interpretations in force at the time contained no provisions but the Company Law makes provisions, the provisions of the Company Law shall apply to the following circumstances:\n(a) where a shareholder transfers equity for which the capital contribution period has not yet expired and the transferee fails to pay the capital contribution in full and on time, the provisions of paragraph 1 of Article 88 of the Company Law shall apply to the determination of the capital contribution liability of the transferor and of the transferee;\n(b) where the controlling shareholder of a limited liability company abuses shareholder rights, seriously damaging the interests of the company or of other shareholders, and the other shareholders request the company to purchase their equity at a reasonable price, the provisions of paragraphs 3 and 4 of Article 89 of the Company Law shall apply;\n(c) where a shareholder who voted against a resolution of the shareholders' meeting of a company limited by shares requests the company to purchase its shares at a reasonable price, the provisions of Article 161 of the Company Law shall apply;\n(d) where the determination of the civil liability of a controlling shareholder who does not serve as a director of the company or of the actual controller in executing the affairs of the company is at issue, the provisions of Article 180 of the Company Law shall apply;\n(e) where the determination of the civil liability of the controlling shareholder or actual controller of a company that instructs a director or a senior manager to engage in activities damaging the interests of the company or of shareholders is at issue, the provisions of Article 192 of the Company Law shall apply;\n(f) other circumstances that do not clearly depart from the reasonable expectations of the parties concerned."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "For civil dispute cases arising from legal facts occurring before the Company Law comes into force, where the law and judicial interpretations in force at the time contained only general provisions but the Company Law makes specific provisions, the provisions of the Company Law shall apply to the following circumstances:\n(a) where the articles of association of a company limited by shares contain restrictive provisions on the transfer of shares and a dispute arises over those provisions, the provisions of Article 157 of the Company Law shall apply;\n(b) where the liability for compensation of a supervisor of a company for committing prohibited acts such as misappropriating company funds, unlawful related-party transactions, improperly seeking business opportunities of the company or operating the same type of business in competition is at issue, the provisions of Article 181, paragraph 1 of Article 182, Article 183 and Article 184 of the Company Law shall apply respectively;\n(c) where the liability for compensation of a director or a senior manager of a company for improperly seeking business opportunities of the company or operating the same type of business in competition is at issue, the provisions of Article 183 and Article 184 of the Company Law shall apply respectively;\n(d) where the scope of the entities in a related-party relationship and the nature of a related-party transaction are to be determined, the provisions of Article 182 and item (4) of Article 265 of the Company Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where the legal fact giving rise to the obligation to liquidate occurred before the Company Law comes into force and a dispute arises over liability for liquidation, the law and judicial interpretations in force at the time shall apply.\nWhere the legal fact giving rise to the obligation to liquidate occurred before the Company Law comes into force but less than 15 days remained before the date on which the Company Law comes into force, the provisions of Article 232 of the Company Law shall apply, and the period within which the liquidation obligors are to perform their liquidation obligations shall be recalculated from the date on which the Company Law comes into force."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "For civil dispute cases in which final judgment was already rendered before the Company Law comes into force, where a party applies for retrial or a people's court decides on retrial in accordance with the trial supervision procedure, the law and judicial interpretations in force at the time shall apply."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "These Provisions shall come into force on 1 July 2024."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0416'] = {
+    "lawId": "CN-JI-0416",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 10 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Maritime dispute cases arising from legal facts occurring after the Maritime Code came into force shall be governed by the provisions of the Maritime Code.\nMaritime dispute cases arising from legal facts occurring before the Maritime Code came into force shall be governed by the provisions of the law and judicial interpretations in force at the time, unless otherwise provided by law or judicial interpretation.\nWhere legal facts occurring before the Maritime Code came into force continue until after the Maritime Code came into force, maritime dispute cases arising from such legal facts shall be governed by the provisions of the Maritime Code, unless otherwise provided by law or judicial interpretation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a maritime dispute case arises from legal facts occurring before the Maritime Code came into force and the law and judicial interpretations in force at the time contained no provision while the Maritime Code does, the provisions of the Maritime Code may apply, unless this would obviously impair the lawful rights and interests of the parties, increase the statutory obligations of the parties or depart from the parties' reasonable expectations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a maritime dispute case arises from legal facts occurring before the Maritime Code came into force and the law and judicial interpretations in force at the time contained only principled provisions while the Maritime Code contains specific provisions, the provisions of the law and judicial interpretations in force at the time shall apply, but the specific provisions of the Maritime Code may be relied upon in reasoning in the judgment."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a contract concluded before the Maritime Code came into force is, in accordance with the provisions of law or the agreement of the parties, to be performed continuously until after the Maritime Code came into force, disputes arising from performance of the contract before the Maritime Code came into force shall be governed by the provisions of the law and judicial interpretations in force at the time, and disputes arising from performance of the contract after the Maritime Code came into force shall be governed by the relevant provisions of the Maritime Code on performance of contract."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where, before the Maritime Code came into force, the parties agreed that a mortgage of a ship would not be transferred together with the claim secured thereby, Article 18 of the Maritime Code shall apply."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Disputes arising from electronic transport records issued before the Maritime Code came into force shall be governed by the provisions of Section 5 of Chapter IV of the Maritime Code on electronic transport records."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where an open cover insurance contract was concluded before the Maritime Code came into force and, after the Maritime Code came into force, the insured performs the obligation to declare or the insurer requires the insured to bear liability for breach of contract for failure to perform the obligation to declare, Article 259 of the Maritime Code shall apply.\nWhere, before the Maritime Code came into force, the insured breached the obligation of disclosure in good faith or a warranty, and the insurer, after the Maritime Code came into force, exercises on that ground the right to rescind the contract or other rights, Articles 248 and 261 of the Maritime Code shall apply."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where the limitation period had not yet expired on the date the Maritime Code came into force, the suspension of the limitation period shall be governed by the law and judicial interpretations in force on the date on which the cause of suspension was removed, and the interruption of the limitation period shall be governed by the law and judicial interpretations in force at the time when the cause of interruption occurred."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "For cases already finally adjudicated before the Maritime Code came into force, where a party applies for retrial or a retrial is decided in accordance with the trial supervision procedure, the law and judicial interpretations in force at the time shall apply."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "These Provisions shall come into force on 1 May 2026.\nAfter these Provisions come into force, they shall apply to cases of first instance and of second instance that have not yet been concluded by people's courts."
+        },
+        "noLabel": {
+          "en": "Article 10."
         }
       }
     ]

@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p12
-   法规 51 部 / 译文 201 条
+   法规 52 部 / 译文 208 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -2910,6 +2910,84 @@
         },
         "noLabel": {
           "en": "Article 5."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0020'] = {
+    "lawId": "CN-REG-0020",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Provisions are formulated to support the rehabilitation work for persons with disabilities and to facilitate the import of special-purpose articles for persons with disabilities."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The following special-purpose articles for persons with disabilities shall be exempt from import customs duty and from value-added tax (VAT) and consumption tax at the import stage:\n(a) orthopaedic aids for persons with physical disabilities, artificial limbs and their parts, artificial eyes, artificial noses, abdominal supports, orthoses, orthopaedic shoes, non-motorised walking aids, mobility devices (excluding automobiles and motorcycles), self-help aids for daily living and special sanitary articles;\n(b) white canes, blindfolds for guiding, visual aids and reading devices for the blind for persons with visual disabilities;\n(c) speech trainers for persons with speech or hearing disabilities;\n(d) behaviour training devices and daily living skills training articles for persons with intellectual disabilities.\nFor the import of the special-purpose articles for persons with disabilities listed in the preceding paragraph, the taxpayer shall complete the duty exemption formalities directly with the customs."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where the relevant units import the following special-purpose articles for persons with disabilities that cannot be produced domestically, those articles shall be exempt from import customs duty and from value-added tax (VAT) and consumption tax at the import stage after approval by the Ministry of Civil Affairs or the China Disabled Persons' Federation according to the subordinate relationship and after examination by the General Administration of Customs:\n(a) rehabilitation and special-purpose equipment for persons with disabilities, including bedside monitoring equipment, central monitoring equipment, biochemical analysers and ultrasonic diagnostic apparatus;\n(b) special education equipment and vocational education equipment for persons with disabilities;\n(c) vocational ability assessment and testing equipment for persons with disabilities;\n(d) special-purpose labour equipment and labour protection equipment for persons with disabilities;\n(e) special-purpose equipment for cultural and sports activities of persons with disabilities;\n(f) special-purpose production, assembly and testing equipment for artificial limbs, including special-purpose milling and grinding machines, special-purpose vacuum forming machines, special-purpose flat heaters and comprehensive testing instruments for artificial limbs;\n(g) hearing aids for persons with hearing disabilities."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The relevant units provided in Article 3 of these Provisions means:\n(a) enterprises and institutions directly under the Ministry of Civil Affairs and welfare institutions, artificial limb factories and rehabilitation hospitals for honoured servicemen under the civil affairs departments of provinces, autonomous regions and municipalities directly under the Central Government (including all types of sanatoria for revolutionary disabled servicemen, hospitals for honoured servicemen and rehabilitation hospitals for honoured servicemen);\n(b) institutions directly under the China Disabled Persons' Federation (China Welfare Fund for the Handicapped) and welfare institutions and rehabilitation institutions under the disabled persons' federations (welfare funds for the handicapped) of provinces, autonomous regions and municipalities directly under the Central Government."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Special-purpose articles for persons with disabilities imported duty-free in accordance with these Provisions shall not be diverted to other uses without authorisation.\nWhere the provisions of the preceding paragraph are violated and duty-free imported articles are diverted to other uses without authorisation, constituting the crime of smuggling, criminal responsibility shall be pursued in accordance with the law; where a crime is not constituted, the act shall be dealt with as an act of smuggling or as an act violating the provisions on customs supervision."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The General Administration of Customs shall formulate implementing measures in accordance with these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "These Provisions shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 7."
         }
       }
     ]

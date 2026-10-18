@@ -369,7 +369,7 @@ var NON_LEGAL = [
        否则「商用工业用不动产租赁法」这类弱相关长法也会被引用，
        其「本法所称…是指…」句式还会污染要点（实测出现过用租赁定义回答劳动法问题）。 */
     var topScore0 = (top[0] && top[0].score) || 0;
-    var minScore = topScore0 * 0.75;
+    var minScore = topScore0 * 0.86;
     top.slice(0, limit || 5).forEach(function (it) {
       if (topScore0 > 0 && it.score < minScore) { skipped++; return; }
       var law = it.law;

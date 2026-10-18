@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p04
-   法规 5 部 / 译文 515 条
+   法规 8 部 / 译文 541 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -6122,6 +6122,102 @@
     ]
   };
 
+  TR['CN-LAW-0300'] = {
+    "lawId": "CN-LAW-0300",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 9 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Article 114 of the Criminal Law is amended to read: \"Whoever sets fires, breaches dikes, causes explosions, or spreads toxic, radioactive or infectious disease pathogen or other substances, or uses other dangerous methods to endanger public security, where serious consequences have not yet been caused, shall be sentenced to fixed-term imprisonment of not less than three years but not more than 10 years.\"\""
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Paragraph 1 of Article 115 of the Criminal Law is amended to read: \"Whoever sets fires, breaches dikes, causes explosions, or spreads toxic, radioactive or infectious disease pathogen or other substances, or uses other dangerous methods, thereby causing serious injury or death or causing significant loss to public or private property, shall be sentenced to fixed-term imprisonment of not less than 10 years, life imprisonment or the death penalty.\"\""
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Paragraph 1 of Article 120 of the Criminal Law is amended to read: \"Whoever organises or leads a terrorist organisation shall be sentenced to fixed-term imprisonment of not less than 10 years or life imprisonment; whoever actively participates in such an organisation shall be sentenced to fixed-term imprisonment of not less than three years but not more than 10 years; and other participants shall be sentenced to fixed-term imprisonment of not more than three years, criminal detention, public surveillance or deprivation of political rights.\"\""
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "One article is added after Article 120 of the Criminal Law as Article 120a: \"Whoever funds a terrorist organisation or an individual who carries out terrorist activities shall be sentenced to fixed-term imprisonment of not more than five years, criminal detention, public surveillance or deprivation of political rights and shall also be fined; where the circumstances are serious, the offender shall be sentenced to fixed-term imprisonment of not less than five years and shall also be fined or have property confiscated.\n\"Where a unit commits the crime in the preceding paragraph, the unit shall be fined, and the person directly in charge and other persons directly responsible shall be punished in accordance with the provisions of the preceding paragraph.\"\""
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Paragraph 2 of Article 125 of the Criminal Law is amended to read: \"Whoever illegally manufactures, buys, sells, transports or stores toxic, radioactive or infectious disease pathogen or other substances, endangering public security, shall be punished in accordance with the provisions of the preceding paragraph.\"\""
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Article 127 of the Criminal Law is amended to read: \"Whoever steals or forcibly seizes firearms, ammunition or explosives, or steals or forcibly seizes toxic, radioactive or infectious disease pathogen or other substances, endangering public security, shall be sentenced to fixed-term imprisonment of not less than three years but not more than 10 years; where the circumstances are serious, the offender shall be sentenced to fixed-term imprisonment of not less than 10 years, life imprisonment or the death penalty.\n\"Whoever robs firearms, ammunition or explosives, or robs toxic, radioactive or infectious disease pathogen or other substances, endangering public security, or steals or forcibly seizes the firearms, ammunition or explosives of State organs, military and police personnel or the militia shall be sentenced to fixed-term imprisonment of not less than 10 years, life imprisonment or the death penalty.\"\""
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Article 191 of the Criminal Law is amended to read: \"Whoever, knowing that the illegal gains and the proceeds generated therefrom are derived from drug-related crime, crime committed by a mafia-like organisation, terrorist activity crime or smuggling crime, commits any of the following acts to conceal or disguise the source and nature thereof shall have the illegal gains derived from the above crimes and the proceeds generated therefrom confiscated and shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention and shall also, or shall only, be fined not less than 5 per cent but not more than 20 per cent of the amount of money laundered; where the circumstances are serious, the offender shall be sentenced to fixed-term imprisonment of not less than five years but not more than 10 years and shall also be fined not less than 5 per cent but not more than 20 per cent of the amount of money laundered: (a) providing a fund account; (b) assisting in converting property into cash or financial instruments; (c) assisting in the transfer of funds through account transfer or other settlement methods; (d) assisting in remitting funds abroad; (e) concealing or disguising the source and nature of the illegal gains derived from crime and the proceeds thereof by other methods.\n\"Where a unit commits the crime in the preceding paragraph, the unit shall be fined, and the person directly in charge and other persons directly responsible shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention; where the circumstances are serious, they shall be sentenced to fixed-term imprisonment of not less than five years but not more than 10 years.\"\""
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "One article is added after Article 291 of the Criminal Law as Article 291a: \"Whoever spreads false explosive, toxic, radioactive or infectious disease pathogen or other substances, or fabricates terrorist information such as threats of explosion, biochemical threats or radiological threats, or knowingly and intentionally disseminates fabricated terrorist information, thereby seriously disrupting social order, shall be sentenced to fixed-term imprisonment of not more than five years, criminal detention or public surveillance; where serious consequences are caused, the offender shall be sentenced to fixed-term imprisonment of not less than five years.\"\""
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "This Amendment shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      }
+    ]
+  };
+
   TR['CN-LAW-0301'] = {
     "lawId": "CN-LAW-0301",
     "sourceLang": "zh",
@@ -6141,6 +6237,189 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0302'] = {
+    "lawId": "CN-LAW-0302",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 8 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Article 165 of the Criminal Law is amended by adding one paragraph as paragraph 2, and that Article is amended to read: \"Where a director, supervisor or senior manager of a State-owned company or enterprise, taking advantage of his position, operates for himself or for another person a business of the same kind as that of the company or enterprise in which he holds office, and obtains illegal benefits in a huge amount, he shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention, and shall be fined, or shall be fined only; where the amount is especially huge, he shall be sentenced to fixed-term imprisonment of not less than three years but not more than seven years, and shall be fined.\n\"Where a director, supervisor or senior manager of another company or enterprise, in violation of the provisions of laws and administrative regulations, commits the act mentioned in the preceding paragraph, causing major losses to the interests of the company or enterprise, he shall be punished in accordance with the provisions of the preceding paragraph.\""
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Article 166 of the Criminal Law is amended by adding one paragraph as paragraph 2, and that Article is amended to read: \"Where a staff member of a State-owned company, enterprise or public institution, taking advantage of his position, commits any of the following acts, causing major losses to the interests of the State, he shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention, and shall be fined, or shall be fined only; where especially major losses are caused to the interests of the State, he shall be sentenced to fixed-term imprisonment of not less than three years but not more than seven years, and shall be fined:\n\"(a) assigning the profitable business of his unit to his relatives or friends for operation;\n\"(b) purchasing goods from, or accepting services provided by, a unit operated or managed by his relatives or friends at prices obviously higher than the market price, or selling goods to, or providing services to, a unit operated or managed by his relatives or friends at prices obviously lower than the market price;\n\"(c) purchasing or accepting substandard goods or services from a unit operated or managed by his relatives or friends.\n\"Where a staff member of another company or enterprise, in violation of the provisions of laws and administrative regulations, commits the act mentioned in the preceding paragraph, causing major losses to the interests of the company or enterprise, he shall be punished in accordance with the provisions of the preceding paragraph.\""
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Article 169 of the Criminal Law is amended by adding one paragraph as paragraph 2, and that Article is amended to read: \"Where the person directly in charge of a State-owned company or enterprise or of its superior competent department, engaging in malpractices for personal gain, converts State-owned assets into shares at a low price or sells them at a low price, causing major losses to the interests of the State, he shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention; where especially major losses are caused to the interests of the State, he shall be sentenced to fixed-term imprisonment of not less than three years but not more than seven years.\n\"Where the person directly in charge of another company or enterprise, engaging in malpractices for personal gain, converts the assets of the company or enterprise into shares at a low price or sells them at a low price, causing major losses to the interests of the company or enterprise, he shall be punished in accordance with the provisions of the preceding paragraph.\""
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Paragraph 1 of Article 387 of the Criminal Law is amended to read: \"Where a State organ, State-owned company, enterprise or public institution, or people's organisation extorts or illegally accepts property from another person in order to seek benefits for that person, and the circumstances are serious, a fine shall be imposed on the unit, and the person directly in charge and other persons directly responsible shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention; where the circumstances are especially serious, they shall be sentenced to fixed-term imprisonment of not less than three years but not more than ten years.\""
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Article 390 of the Criminal Law is amended to read: \"Whoever commits the crime of offering bribes shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention, and shall be fined; where, by offering bribes, the offender seeks improper benefits and the circumstances are serious, or major losses are caused to the interests of the State, the offender shall be sentenced to fixed-term imprisonment of not less than three years but not more than ten years, and shall be fined; where the circumstances are especially serious, or especially major losses are caused to the interests of the State, the offender shall be sentenced to fixed-term imprisonment of not less than ten years or life imprisonment, and shall be fined or have property confiscated.\n\"Where any of the following circumstances exists, a heavier punishment shall be given:\n\"(a) offering bribes repeatedly or to multiple persons;\n\"(b) a State functionary offering bribes;\n\"(c) offering bribes in respect of a national key project or a major project;\n\"(d) offering bribes in order to obtain promotion to or adjustment of a post or rank;\n\"(e) offering bribes to a functionary engaged in supervision, administrative law enforcement or the judiciary;\n\"(f) offering bribes in fields such as the ecological environment, finance and banking, work safety, food and drugs, disaster prevention and relief, social security, education and medical care, and carrying out illegal or criminal activities;\n\"(g) using illegal gains to offer bribes.\n\"Where a bribe giver voluntarily confesses the act of offering bribes before being prosecuted, a lighter or mitigated punishment may be given. Where the crime is relatively minor, or the confession plays a key role in breaking through an investigation or solving a major case, or there is major meritorious service, the punishment may be mitigated or exempted.\""
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Paragraph 1 of Article 391 of the Criminal Law is amended to read: \"Whoever, in order to seek improper benefits, gives property to a State organ, State-owned company, enterprise or public institution, or people's organisation, or, in economic dealings, in violation of State provisions, gives rebates or service charges under any name, shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention, and shall be fined; where the circumstances are serious, the offender shall be sentenced to fixed-term imprisonment of not less than three years but not more than seven years, and shall be fined.\""
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Article 393 of the Criminal Law is amended to read: \"Where a unit offers bribes in order to seek improper benefits, or, in violation of State provisions, gives rebates or service charges to a State functionary, and the circumstances are serious, a fine shall be imposed on the unit, and the person directly in charge and other persons directly responsible shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention, and shall be fined; where the circumstances are especially serious, they shall be sentenced to fixed-term imprisonment of not less than three years but not more than ten years, and shall be fined. Where the illegal gains obtained through offering bribes are retained by an individual, conviction and punishment shall be in accordance with Articles 389 and 390 of this Law.\""
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "This Amendment shall come into force on 1 March 2024."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0304'] = {
+    "lawId": "CN-LAW-0304",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 9 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Article 145 of the Criminal Law is amended to read: \"Whoever produces medical devices or medical hygiene materials that do not conform to the national standards or industry standards for safeguarding human health, or sells medical devices or medical hygiene materials that he clearly knows do not conform to the national standards or industry standards for safeguarding human health, sufficient to seriously endanger human health, shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention, and shall be fined not less than 50 per cent but not more than twice the amount of sales; where serious harm is caused to human health, he shall be sentenced to fixed-term imprisonment of not less than three years but not more than ten years, and shall be fined not less than 50 per cent but not more than twice the amount of sales; where the consequences are especially serious, he shall be sentenced to fixed-term imprisonment of not less than ten years or life imprisonment, and shall be fined not less than 50 per cent but not more than twice the amount of sales or have property confiscated.\""
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "One paragraph is added to Article 152 as paragraph 2: \"Whoever, evading customs supervision, transports overseas solid waste, liquid waste or gaseous waste into the territory, and the circumstances are serious, shall be sentenced to fixed-term imprisonment of not more than five years, and shall be fined, or shall be fined only; where the circumstances are especially serious, he shall be sentenced to fixed-term imprisonment of not less than five years, and shall be fined.\"\nThe original paragraph 2 is renumbered as paragraph 3 and amended to read: \"Where a unit commits a crime mentioned in the preceding two paragraphs, a fine shall be imposed on the unit, and the person directly in charge and other persons directly responsible shall be punished in accordance with the provisions of the preceding two paragraphs.\""
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Article 155 of the Criminal Law is amended to read: \"The following acts shall be punished as the crime of smuggling in accordance with the relevant provisions of this Section: (a) directly purchasing, in violation of the law, from a smuggler articles the import of which is prohibited by the State, or directly purchasing, in violation of the law, from a smuggler other goods or articles imported by smuggling, where the amount is relatively large; (b) transporting, purchasing or selling, in inland seas, territorial seas, boundary rivers or boundary lakes, articles the import or export of which is prohibited by the State, or transporting, purchasing or selling goods or articles the import or export of which is restricted by the State, where the amount is relatively large and there is no lawful certificate.\""
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "One article is added after Article 244 of the Criminal Law as Article 244bis: \"Whoever, in violation of labour administration regulations, employs a minor under the age of 16 to engage in extra-intensive physical labour, or to work at heights or underground, or to work in dangerous environments such as explosive, flammable, radioactive or toxic environments, and the circumstances are serious, the person directly responsible shall be sentenced to fixed-term imprisonment of not more than three years or criminal detention, and shall be fined; where the circumstances are especially serious, he shall be sentenced to fixed-term imprisonment of not less than three years but not more than seven years, and shall be fined.\n\"Where a person commits the act mentioned in the preceding paragraph, thereby causing an accident and at the same time constituting another crime, he shall be punished in accordance with the provisions on combined punishment for several crimes.\""
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Paragraph 3 of Article 339 of the Criminal Law is amended to read: \"Whoever, in the name of using raw materials, imports solid waste, liquid waste or gaseous waste that cannot be used as raw materials shall be convicted and punished in accordance with the provisions of paragraphs 2 and 3 of Article 152 of this Law.\""
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Article 344 of the Criminal Law is amended to read: \"Whoever, in violation of State provisions, illegally fells or destroys rare trees or other plants under special State protection, or illegally purchases, transports, processes or sells rare trees or other plants under special State protection or the products thereof, shall be sentenced to fixed-term imprisonment of not more than three years, criminal detention or public surveillance, and shall be fined; where the circumstances are serious, he shall be sentenced to fixed-term imprisonment of not less than three years but not more than seven years, and shall be fined.\""
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Article 345 of the Criminal Law is amended to read: \"Whoever illegally fells forests or other trees, where the quantity is relatively large, shall be sentenced to fixed-term imprisonment of not more than three years, criminal detention or public surveillance, and shall be fined, or shall be fined only; where the quantity is huge, he shall be sentenced to fixed-term imprisonment of not less than three years but not more than seven years, and shall be fined; where the quantity is especially huge, he shall be sentenced to fixed-term imprisonment of not less than seven years, and shall be fined.\n\"Whoever, in violation of the provisions of the Forestry Law, denudes forests or other trees, where the quantity is relatively large, shall be sentenced to fixed-term imprisonment of not more than three years, criminal detention or public surveillance, and shall be fined, or shall be fined only; where the quantity is huge, he shall be sentenced to fixed-term imprisonment of not less than three years but not more than seven years, and shall be fined.\n\"Whoever illegally purchases or transports trees that he clearly knows are illegally felled or denuded, and the circumstances are serious, shall be sentenced to fixed-term imprisonment of not more than three years, criminal detention or public surveillance, and shall be fined, or shall be fined only; where the circumstances are especially serious, he shall be sentenced to fixed-term imprisonment of not less than three years but not more than seven years, and shall be fined.\n\"Whoever illegally fells or denudes forests or other trees in a national nature reserve shall be given a heavier punishment.\""
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Article 399 of the Criminal Law is amended to read: \"Where a judicial functionary, engaging in malpractices for personal gain or perverting the law out of personal considerations, subjects a person whom he clearly knows to be innocent to prosecution, or intentionally shields a person whom he clearly knows to be guilty from prosecution, or intentionally acts contrary to the facts and the law in criminal trial activities and makes a ruling that perverts the law, he shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention; where the circumstances are serious, he shall be sentenced to fixed-term imprisonment of not less than five years but not more than ten years; where the circumstances are especially serious, he shall be sentenced to fixed-term imprisonment of not less than ten years.\n\"Whoever intentionally acts contrary to the facts and the law in civil or administrative trial activities and makes a ruling that perverts the law, and the circumstances are serious, shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention; where the circumstances are especially serious, he shall be sentenced to fixed-term imprisonment of not less than five years but not more than ten years.\n\"Whoever, in activities of executing judgments or rulings, is seriously irresponsible or abuses his power, fails to take litigation preservation measures in accordance with the law, fails to perform his statutory enforcement duties, or unlawfully takes litigation preservation measures or compulsory enforcement measures, causing major losses to the interests of a party or of another person, shall be sentenced to fixed-term imprisonment of not more than five years or criminal detention; where especially major losses are caused to the interests of a party or of another person, he shall be sentenced to fixed-term imprisonment of not less than five years but not more than ten years.\n\"Where a judicial functionary accepts bribes, commits the acts mentioned in the preceding three paragraphs and at the same time constitutes the crime provided in Article 385 of this Law, he shall be convicted and punished in accordance with the provisions imposing the heavier punishment.\""
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "This Amendment shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 9."
         }
       }
     ]

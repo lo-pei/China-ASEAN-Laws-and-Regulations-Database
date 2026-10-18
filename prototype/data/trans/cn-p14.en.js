@@ -1,12 +1,90 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p14
-   法规 4 部 / 译文 10 条
+   法规 10 部 / 译文 57 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR['CN-REG-0106'] = {
+    "lawId": "CN-REG-0106",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Provisions are formulated in accordance with Article 210 of the Maritime Code of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Provisions shall apply to ships of more than 20 gross tonnage but less than 300 gross tonnage, and to ships of 300 gross tonnage or more engaged in the carriage of goods between ports of the People's Republic of China or in coastal operations."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Unless otherwise provided in Article 4 of these Provisions, the limits of liability for maritime claims in respect of ships of less than 300 gross tonnage shall be calculated in accordance with the following provisions:\n(a) in respect of claims for loss of life or personal injury:\n(i) for a ship of more than 20 gross tonnage but not more than 21 gross tonnage, the limit of liability shall be 54,000 units of account;\n(ii) for a ship of more than 21 gross tonnage, 1,000 units of account shall be added for each ton in excess;\n(b) in respect of claims other than those for loss of life or personal injury:\n(i) for a ship of more than 20 gross tonnage but not more than 21 gross tonnage, the limit of liability shall be 27,500 units of account;\n(ii) for a ship of more than 21 gross tonnage, 500 units of account shall be added for each ton in excess."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "For a ship engaged in the carriage of goods between ports of the People's Republic of China or in coastal operations, where the ship is of less than 300 gross tonnage, its limit of maritime compensation shall be calculated at 50 per cent of the limit of liability provided in Article 3 of these Provisions; where the ship is of 300 gross tonnage or more, its limit of maritime compensation shall be calculated at 50 per cent of the limit of liability provided in paragraph 1 of Article 210 of the Maritime Code of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where the limits of maritime compensation of the ships concerned in the same accident are subject to Article 210 of the Maritime Code of the People's Republic of China or Article 3 of these Provisions, the limits of maritime compensation of the other ships concerned shall likewise be subject to the same."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "These Provisions shall be interpreted by the Ministry of Communications of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "These Provisions shall come into force on 1 January 1994."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      }
+    ]
+  };
 
   TR['CN-REG-0137'] = {
     "lawId": "CN-REG-0137",
@@ -41,6 +119,93 @@
     ]
   };
 
+  TR['CN-REG-0141'] = {
+    "lawId": "CN-REG-0141",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 8 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Senior experts referred to in these Provisions means: professors and associate professors, research fellows and associate research fellows, senior engineers, senior agronomists, chief and deputy chief physicians, chief and deputy chief editors, chief and deputy chief translators, chief and deputy research librarians, senior economists, senior statisticians, senior accountants, special-grade journalists, senior journalists, senior arts and crafts masters, and experts of grade six or above in literature and art."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The retirement age of senior experts shall generally be implemented in accordance with the uniform provisions of the State. For a small number of senior experts among them who are genuinely required by the needs of work, whose health permits them to continue normal work and who consent, the retirement age may be appropriately extended upon approval by the following organs:\nfor senior experts who are associate professors, associate research fellows or hold professional titles of an equivalent level, the retirement age may be appropriately extended upon approval by the competent organ at the next higher level upon the request of the unit to which they belong, but shall not exceed 65 years of age;\nfor senior experts who are professors, research fellows or hold professional titles of an equivalent level, the retirement age may be extended upon approval by the people's government of the province, municipality or autonomous region or by the ministries and commissions of the central authorities or State organs upon the request of the unit to which they belong, but shall not exceed 70 years of age;\noutstanding senior experts with profound academic attainments and major influence at home and abroad may, upon approval by the State Council, postpone their retirement and continue to engage in research or writing."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Among senior experts whose retirement age is extended, those holding administrative leadership posts or managerial posts shall, upon reaching the retirement age uniformly prescribed by the State, be relieved of their administrative leadership or managerial posts so that they may concentrate their efforts on continuing their work in science and technology, culture and art. Cases in special circumstances approved by the organ with the power of appointment and removal shall be excepted."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The treatment of senior experts upon retirement shall be handled in accordance with the uniform provisions of the State. In the following circumstances, the standard of retirement pay may be appropriately raised:\n(a) for senior experts with major contributions, the standard of retirement pay may be raised, as appropriate, by 5 per cent to 15 per cent upon approval by the people's government of the province, municipality or autonomous region or by the ministries and commissions of the central authorities or State organs. The retirement pay after the standard is raised shall not exceed the person's original standard wage.\n(b) for senior experts who returned from abroad or from Hong Kong, China, Macao, China or Taiwan, China to settle and work in China after the founding of the People's Republic of China, retirement pay shall be paid at the highest standard for retired cadres who joined revolutionary work after the founding of the People's Republic of China. Where they have made major contributions, their retirement pay shall be further raised in accordance with the provisions of subparagraph (a) of this Article."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "After retirement, senior experts whose health is still good may accept engagement by departments or units to serve as advisers in science and technology or in culture and art, and may also directly undertake professional work. The engagement of retired senior experts shall be subject to the conclusion of a written engagement contract, and the conditions of engagement and the treatment of the engaged persons shall be handled in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "All units and departments shall earnestly implement the relevant provisions of the State Council on the political and living treatment of cadres after retirement, and shall be considerate and caring towards retired senior experts; they shall actively assist them in continuing scientific research, collating materials, writing books and other work, and shall provide the necessary convenience for their professional activities."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "These Provisions shall come into force on the date of promulgation. Senior experts who retired before the promulgation of these Provisions shall not be reinstated."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "These Provisions shall be interpreted by the Ministry of Labour and Personnel."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      }
+    ]
+  };
+
   TR['CN-REG-0142'] = {
     "lawId": "CN-REG-0142",
     "sourceLang": "zh",
@@ -60,6 +225,84 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0153'] = {
+    "lawId": "CN-REG-0153",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Provisions are formulated in accordance with the Anti-Monopoly Law of the People's Republic of China for the purpose of clarifying the thresholds for notification of concentrations of business operators."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "A concentration of business operators means any of the following circumstances:\n(a) a merger of business operators;\n(b) a business operator acquiring control over other business operators by acquiring equity or assets;\n(c) a business operator acquiring control over other business operators, or being able to exert a decisive influence on other business operators, by means of a contract or otherwise."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Where a concentration of business operators reaches any of the following thresholds, the business operators shall notify the anti-monopoly enforcement authority of the State Council in advance, and shall not implement the concentration without notification:\n(a) the total turnover of all business operators participating in the concentration within the global scope in the preceding accounting year exceeds 12 billion yuan, and at least two of them each had a turnover exceeding 800 million yuan within the territory of China in the preceding accounting year;\n(b) the total turnover of all business operators participating in the concentration within the territory of China in the preceding accounting year exceeds 4 billion yuan, and at least two of them each had a turnover exceeding 800 million yuan within the territory of China in the preceding accounting year.\nIn calculating turnover, the actual circumstances of special industries and fields such as banking, insurance, securities and futures shall be taken into account; the specific measures shall be formulated by the anti-monopoly enforcement authority of the State Council together with the relevant departments of the State Council."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a concentration of business operators does not reach the notification thresholds provided in Article 3 of these Provisions, but there is evidence proving that the concentration has or may have the effect of eliminating or restricting competition, the anti-monopoly enforcement authority of the State Council may require the business operators to notify."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where business operators fail to notify in accordance with the provisions of Articles 3 and 4 of these Provisions, the anti-monopoly enforcement authority of the State Council shall conduct an investigation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The anti-monopoly enforcement authority of the State Council shall, in light of economic development, assess the implementation of the notification thresholds determined by these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "These Provisions shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 7."
         }
       }
     ]
@@ -153,6 +396,276 @@
         },
         "noLabel": {
           "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0165'] = {
+    "lawId": "CN-REG-0165",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 9 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "In order to rationally arrange the working and rest time of employees, protect the employees' right to rest, arouse the enthusiasm of employees and promote the development of the cause of socialist modernisation, these Provisions are formulated in accordance with the relevant provisions of the Constitution."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "These Provisions apply to employees of State organs, social organisations, enterprises, public institutions and other organisations within the territory of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Employees shall work 8 hours per day and 40 hours per week."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where work is performed under special conditions or there are special circumstances requiring an appropriate reduction of working hours, the relevant provisions of the State shall be applied."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where the standard working hours system of 8 hours per day and 40 hours per week cannot be implemented due to the nature of the work or the characteristics of production, other methods of work and rest may be implemented in accordance with the relevant provisions of the State."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "No unit or individual shall extend the working hours of employees without authorisation. Where working hours truly need to be extended due to special circumstances and urgent tasks, the relevant provisions of the State shall be applied."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "State organs and public institutions shall implement uniform working hours, with Saturday and Sunday as weekly rest days.\nEnterprises and public institutions that cannot implement the uniform working hours provided for in the preceding paragraph may arrange weekly rest days flexibly in light of actual circumstances."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "These Provisions shall be interpreted by the Ministry of Labour and the Ministry of Personnel; measures for their implementation shall be formulated by the Ministry of Labour and the Ministry of Personnel."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "These Provisions shall come into force on 1 May 1995. Enterprises and public institutions that have difficulties in implementing them from 1 May 1995 may postpone implementation appropriately; however, public institutions shall implement them no later than 1 January 1996, and enterprises no later than 1 May 1997."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0173'] = {
+    "lawId": "CN-REG-0173",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 8 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Provisions are formulated in accordance with Article 6 of the Customs Law of the People's Republic of China in order to ensure that customs staff use weapons and police equipment in accordance with the law and perform their duties."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The weapons and police equipment used by customs staff shall, with the consent of the local public security organ, be allocated and issued uniformly by the General Administration of Customs. Customs staff shall use weapons and police equipment in accordance with these Provisions when carrying out anti-smuggling tasks.\nThe weapons and police equipment used by customs staff include light firearms, electric batons, handcuffs and other weapons and police equipment approved for introduction into service."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Weapons and police equipment allocated to customs shall in all cases be for public use; no weapons or police equipment for personal exclusive use shall be allocated.\nWhen customs staff carry firearms to carry out anti-smuggling tasks, they shall carry with them a firearm carrying licence or a firearm carrying pass issued by the local public security organ."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where any of the following circumstances arises in the course of customs staff carrying out anti-smuggling tasks, they may open fire:\n(a) when pursuing a fleeing smuggling gang, or on encountering smuggling under armed cover, and the situation cannot be brought under control without opening fire;\n(b) when a smuggler or a suspected smuggler resists inspection by force, seizes weapons or police equipment, or threatens the safety of the lives of customs staff, and self-defence is impossible without opening fire;\n(c) when a smuggler or a suspected smuggler seizes by force smuggled goods, articles or other evidence that has been seized or detained, and the act cannot be stopped without opening fire."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where any of the following circumstances arises in the course of customs staff carrying out anti-smuggling tasks, they may use police equipment:\n(a) when a smuggler or a suspected smuggler resists inspection by force or flees;\n(b) when a smuggler or a suspected smuggler resists by force the seizure or detention of smuggled goods, articles or other evidence;\n(c) when they need to defend themselves upon being attacked in the course of carrying out anti-smuggling tasks;\n(d) other circumstances in which police equipment needs to be used."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "When customs staff use weapons or police equipment, they shall do so only to the extent necessary to bring the other person under control. When customs staff open fire in accordance with Article 4 of these Provisions, they shall, except in particularly urgent situations, first give a verbal warning or fire a warning shot, and shall immediately stop firing as soon as the other person shows signs of submission. Where opening fire causes casualties, they shall protect the scene and immediately report to the customs authority at the higher level and to the local public security organ."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Where customs staff violate these Provisions and abuse weapons or police equipment, the liability of the persons concerned shall be investigated in accordance with the law in light of the circumstances."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "These Provisions shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      }
+    ]
+  };
+
+  TR['CN-REG-0174'] = {
+    "lawId": "CN-REG-0174",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 8 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "These Measures are formulated in accordance with the provisions of the Regulations of the People's Republic of China on Customs Rank Titles."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The customs rank insignia worn by customs officers must correspond to the customs rank conferred on them."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "Customs rank insignia: the insignia for Customs Commissioner-General and Deputy Customs Commissioner-General consists of the customs emblem encircled by olive leaves and a star flower set on a pentagon beneath a five-pointed star; the insignia for customs superintendent consists of olive leaves, star flowers and the customs emblem; the insignia for customs inspector, customs supervisor and customs officer consist of horizontal bars, star flowers and the customs emblem. Customs rank insignia shall be golden in colour."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The rank insignia shall be affixed to shoulder boards. The shoulder boards are sword-shaped with a black surface and are divided into hard shoulder boards and soft shoulder boards.\nCustoms officers shall wear hard shoulder boards when wearing the uniform jacket or the uniform overcoat, and soft shoulder boards when wearing the uniform short-sleeved shirt, the uniform long-sleeved shirt or the inspection uniform."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The insignia for Customs Commissioner-General consists of one customs emblem encircled by olive leaves and three star flowers; the insignia for Deputy Customs Commissioner-General consists of one customs emblem encircled by olive leaves and two star flowers.\nThe insignia for customs superintendent consists of one olive leaf and one customs emblem; the insignia for a first-grade customs superintendent has three star flowers, for a second-grade customs superintendent two star flowers, and for a third-grade customs superintendent one star flower.\nThe insignia for customs inspector consists of three horizontal bars and one customs emblem; the insignia for a first-grade customs inspector has three star flowers, for a second-grade customs inspector two star flowers, and for a third-grade customs inspector one star flower.\nThe insignia for customs supervisor consists of two horizontal bars and one customs emblem; the insignia for a first-grade customs supervisor has three star flowers, for a second-grade customs supervisor two star flowers, and for a third-grade customs supervisor one star flower.\nThe insignia for customs officer consists of one horizontal bar and one customs emblem; the insignia for a first-grade customs officer has three star flowers, and for a second-grade customs officer two star flowers."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where a customs officer is promoted or demoted in customs rank, the approving authority shall replace the officer's rank insignia; where the customs rank is cancelled or is not retained, the approving authority shall take back the officer's rank insignia."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The General Administration of Customs shall be responsible for the production and administration of customs rank insignia. No other unit or individual shall produce, imitate, forge, alter, buy or sell or use customs rank insignia, or use insignia similar to customs rank insignia."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "These Measures shall come into force on the date of promulgation.\nAttached figure:\nPatterns of customs rank insignia"
+        },
+        "noLabel": {
+          "en": "Article 8."
         }
       }
     ]

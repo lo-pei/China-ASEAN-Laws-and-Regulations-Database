@@ -1,12 +1,117 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p08
-   法规 32 部 / 译文 82 条
+   法规 39 部 / 译文 143 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
   'use strict';
   var TR = root.CALR_TRANS = root.CALR_TRANS || {};
+
+  TR['CN-JI-0194'] = {
+    "lawId": "CN-JI-0194",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 10 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The courts of the mainland and the courts of the Hong Kong Special Administrative Region may entrust each other with the service of civil and commercial judicial documents."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Service of judicial documents entrusted by either party shall be conducted through the higher people's courts and the High Court of the Hong Kong Special Administrative Region. Judicial documents of the Supreme People's Court may be entrusted directly to the High Court of the Hong Kong Special Administrative Region for service."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "When requesting service of a judicial document, the requesting party shall issue a letter of request bearing its seal, and shall state in the letter of request the name of the requesting authority, the name of the addressee, the detailed address and the nature of the case.\nThe letter of request shall be submitted in the Chinese text. Where the accompanying judicial documents have no Chinese text, a Chinese translation shall be provided. The above documents shall be in duplicate. Where there are two or more addressees, two copies shall be provided for each of them.\nWhere the requested party considers that the letter of request does not conform to the provisions of this Arrangement, it shall notify the requesting party and state its objections to the letter of request. Where necessary, it may request the requesting party to supply additional materials."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Regardless of whether the date of appearance or the time limit specified in the judicial document has expired, the requested party shall effect service. The requesting party shall, as far as possible, make the request for entrustment within a reasonable time.\nThe requested party shall, after receiving the letter of request, complete service promptly and in any event no later than two months from the date of receipt of the letter of request."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "After service of the judicial documents, the people's court in the mainland shall issue a receipt of service; the court of the Hong Kong Special Administrative Region shall issue a certificate of service. The receipt of service and the certificate shall bear the seal of the court.\nWhere the requested party is unable to effect service, it shall note on the receipt of service or on the certificate the reasons preventing service, the ground for refusal and the date, and shall promptly return the letter of request and all the accompanying documents."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Service of judicial documents shall be carried out in accordance with the procedure prescribed by the law of the place where the requested party is located."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The requested party shall not bear legal liability for the contents or consequences of the judicial documents entrusted by the requesting party for service."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "The costs of service of judicial documents entrusted under this Arrangement shall be mutually waived. However, the costs incurred by a specific mode of service requested by the requesting party in the letter of request shall be borne by the requesting party."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Judicial documents referred to in this Arrangement include, in the mainland: copies of the statement of claim, copies of the notice of appeal, powers of attorney, summonses, judgments, mediation statements, rulings, decisions, notices, certificates and receipts of service; and in the Hong Kong Special Administrative Region: copies of the statement of claim, copies of the notice of appeal, summonses, pleadings, affidavits, judgments, decrees, awards, notices, court orders and certificates of service.\nThe judicial documents to be served under such entrustment shall be subject to the exchange of specimens of judicial documents."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "Any problems encountered and any amendments made in the course of implementation of this Arrangement shall be resolved through consultation between the Supreme People's Court and the High Court of the Hong Kong Special Administrative Region."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      }
+    ]
+  };
 
   TR['CN-JI-0196'] = {
     "lawId": "CN-JI-0196",
@@ -734,6 +839,285 @@
     ]
   };
 
+  TR['CN-JI-0231'] = {
+    "lawId": "CN-JI-0231",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The duties of judicial police of people's courts are:\n(a) to maintain order in trial and enforcement, and to prevent, stop and handle acts that obstruct order in trial and enforcement;\n(b) in criminal trials, to escort and guard defendants or offenders, to bring in witnesses, expert witnesses, persons with specialised knowledge or other participants in proceedings, to transmit and present evidence, and to execute orders compelling witnesses to appear in court;\n(c) in civil and administrative trials, to escort and guard parties who are in custody or serving sentences;\n(d) in compulsory enforcement, to assist in implementing enforcement measures such as investigation, search, sealing up, freezing, attachment, transfer of funds and compulsory eviction in respect of the identity, property and premises of the person subject to enforcement;\n(e) to execute the death penalty;\n(f) to execute compulsory measures such as seizure of articles, orders to leave the courtroom, removal from the courtroom by force, compulsory summons, fines and detention;\n(g) to examine the identity documents of persons entering the trial area, and to conduct security checks on their persons and carried items;\n(h) to assist people's courts in emergency response for the security of the organs and for petitions relating to litigation;\n(i) to protect the personal safety of judicial staff members performing duties of trial and enforcement;\n(j) other duties provided for by laws and regulations."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "In respect of a person who violates courtroom discipline, the judicial police of a people's court shall, in accordance with the instructions of the presiding judge or the sole judge, dissuade, stop and restrain the person, and execute compulsory measures such as seizure of articles, orders to leave the courtroom, removal from the courtroom by force, fines and detention.\nWhere an emergency arises that endangers the personal safety of persons in the courtroom, seriously disrupts courtroom order, or involves the suicide, self-injury or escape of a defendant, an offender, or a party in custody or serving a sentence, the judicial police of the people's court may directly take necessary handling measures."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "In respect of a person who obstructs a judicial staff member in performing duties by violence, threat or other means, or who insults, beats or retaliates against a judicial staff member within a people's court, the judicial police of the people's court may take compulsory measures such as stopping, restraining and removing the person, conduct questioning as necessary, collect, fix and preserve the relevant evidence and, in accordance with law, request the people's court to impose compulsory measures such as fines and detention.\nFor a case of illegal or criminal conduct under the jurisdiction of a public security organ, the judicial police of the people's court may, as necessary, assist the public security organ in preliminary questioning, collect, fix and preserve the relevant evidence and promptly transfer the case to the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "In respect of a person who forcibly enters the trial area, the judicial police of the people's court may take compulsory measures such as stopping, restraining and removing the person, conduct questioning as necessary, collect, fix and preserve the relevant evidence and, in accordance with law, request the people's court to impose compulsory measures such as fines and detention.\nFor a case of illegal or criminal conduct under the jurisdiction of a public security organ, the case shall be promptly transferred to the public security organ."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where the judicial police of a people's court assist the relevant departments in emergency response for the security of the organ and for petitions relating to litigation, they may take handling measures such as stopping and restraining a person who disrupts the working order of the people's court or endangers the personal safety of others or the safety of the property of the people's court, preserve the relevant evidence and, where the person is suspected of illegal or criminal conduct, promptly transfer the person to a public security organ."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where, in the course of performing duties, the judicial police of a people's court encounter a party or other person committing suicide, self-injury or the like, they shall take measures to stop the act and assist in medical treatment; where the act cannot be stopped or there is other violent conduct, they may take protective restraint measures and, depending on the circumstances, transfer the person to a public security organ."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "These Provisions shall come into force on 1 January 2021; where documents previously issued by the Supreme People's Court are inconsistent with these Provisions, these Provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0232'] = {
+    "lawId": "CN-JI-0232",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 9 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Where a people's court organises a judicial auction of real property and a bidder who is subject to the housing purchase restriction policy of the place where the real property is located applies to participate in the bidding, the people's court shall not permit it."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a people's court, in organising a judicial auction of real property, publishes an auction announcement stating that bidders must have the eligibility to purchase housing and the corresponding legal consequences, a bidder applying to participate in the bidding shall undertake that it has the eligibility to purchase housing and voluntarily bears the legal consequences."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "After the judicial auction of real property is concluded and before the people's court issues to the buyer the ruling confirming the auction transaction, it shall examine the evidentiary materials submitted by the buyer proving that it has had the eligibility to purchase housing from the time it applied to participate in the bidding until the ruling confirming the auction transaction is issued; where, upon examination, the buyer does not meet the condition of continuously having the eligibility to purchase housing and the buyer requests the issuance of the ruling confirming the auction transaction, the people's court shall not permit it."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a buyer participates in a judicial auction of real property by fabricating its eligibility to purchase housing and the auction transaction is concluded, and a party or an interested person asserts that the auction act is invalid on the ground of violating public order and good morals, the people's court shall uphold the assertion.\nWhere, in accordance with the provisions of the preceding paragraph, the auction act is invalid because the buyer fabricated its eligibility to purchase housing, the buyer shall bear liability for compensation in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Where a judicial auction of real property results in a failed auction or another situation in which the property cannot be disposed of normally, and a party such as the applicant for enforcement who does not have the eligibility to purchase housing requests that the debt be offset by the property, the people's court shall not uphold the request."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Where, in a judicial auction of real property organised by a people's court, a bidder fabricates its eligibility to purchase housing or the parties collude in bad faith, thereby infringing upon the lawful rights and interests of another person or evading performance of the obligations determined by legal documents, the people's court shall, according to the gravity of the circumstances, impose a fine or detention; where a crime is constituted, criminal responsibility shall be pursued in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Apart from the circumstances provided in the preceding six Articles, other matters concerning the organisation of judicial auctions of real property by people's courts shall be governed by the relevant provisions of the Provisions of the Supreme People's Court on Several Issues Concerning Online Judicial Auctions by People's Courts, the Provisions of the Supreme People's Court on Auctions and Sales of Property in Civil Enforcement by People's Courts and the Interpretation of the Supreme People's Court on the Application of the Civil Procedure Law of the People's Republic of China."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where a people's court organises a judicial sale of real property, these Provisions shall apply by reference."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "These Provisions shall come into force on 1 January 2022.\nWhere judicial interpretations published by the Supreme People's Court before these Provisions come into force are inconsistent with these Provisions, these Provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0237'] = {
+    "lawId": "CN-JI-0237",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 10 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The judicial auxiliary department of a people's court shall be responsible for the unified management and coordination of judicially entrusted evaluation and auction work."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "An evaluation or auction institution that has obtained an administrative licence from a government administrative department and reached a certain level of qualifications may voluntarily apply to participate in evaluation and auction activities entrusted by people's courts.\nPeople's courts shall no longer compile rosters of entrusted evaluation and auction institutions."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "People's courts shall determine evaluation and auction institutions by random means. A higher people's court or an intermediate people's court may, in light of local actual circumstances, implement external entrustment in a unified manner."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Auction activities entrusted by a people's court shall be conducted at a unified trading venue or on an online platform designated by the relevant administrative department, unless otherwise provided."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "An entrusted auction institution shall publish auction information through the information platform of the administrative department and make public the evaluation and auction results."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Judicial entrusted auctions involving state-owned assets shall be conducted by state-owned property rights trading institutions at or above the provincial level; the auction institution shall be responsible for the work relating to the auction process and shall proceed in accordance with the implementing rules formulated by the relevant regulatory department."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Judicial entrusted auctions of securities assets that shall be listed, traded or transferred on a stock exchange as provided by the Securities Law of the People's Republic of China shall be conducted through the stock exchange, and the auction institution shall be responsible for the work relating to the auction process; judicial entrusted auctions of other securities assets shall be conducted by auction institutions in accordance with the implementing rules formulated by the relevant regulatory department."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "People's courts shall supervise the evaluation and auction activities they entrust. Where any of the following circumstances occurs, affecting the evaluation or auction results and infringing upon the lawful interests of a party, the people's court shall no longer entrust the institution concerned with evaluation or auction work. Where laws or regulations are violated, the matter shall be handled in accordance with the relevant provisions:\n(a) the evaluation results are obviously untrue;\n(b) fraud or defects exist in the auction process;\n(c) after random selection, the institution fails to complete the evaluation or auction work on time without justified reasons;\n(d) other relevant circumstances."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Each higher people's court may, with reference to these Provisions and in light of the actual circumstances of its locality, formulate implementing rules and file them with the Supreme People's Court for the record."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "These Provisions shall come into force on 1 January 2012. Where judicial interpretations and relevant provisions previously issued conflict with these Provisions, these Provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 10."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0241'] = {
     "lawId": "CN-JI-0241",
     "sourceLang": "zh",
@@ -1046,6 +1430,102 @@
     ]
   };
 
+  TR['CN-JI-0253'] = {
+    "lawId": "CN-JI-0253",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 9 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "People's courts shall accept the following trademark cases:\n(i) administrative cases against review decisions or rulings made by the China National Intellectual Property Administration;\n(ii) cases against other administrative acts relating to trademarks made by the China National Intellectual Property Administration;\n(iii) cases of disputes over the ownership of trademark rights;\n(iv) cases of disputes over infringement of trademark rights;\n(v) cases of disputes over the confirmation of non-infringement of trademark rights;\n(vi) cases of disputes over contracts for the assignment of trademark rights;\n(vii) cases of disputes over trademark licensing contracts;\n(viii) cases of disputes over trademark agency contracts;\n(ix) cases of applications for pre-litigation cessation of infringement of the exclusive right to use a registered trademark;\n(x) cases of applications concerning liability for damage caused by infringement of the exclusive right to use a registered trademark;\n(xi) cases of applications for pre-litigation property preservation;\n(xii) cases of applications for pre-litigation preservation of evidence;\n(xiii) other trademark cases."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Administrative cases against review decisions or rulings made by the China National Intellectual Property Administration, and cases against administrative acts relating to trademarks made by the China National Intellectual Property Administration, shall be under the jurisdiction of the relevant intermediate people's court of Beijing Municipality."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "First instance civil trademark cases shall be under the jurisdiction of people's courts at or above the intermediate level and of primary people's courts designated by the Supreme People's Court.\nCivil and administrative cases involving the protection of well-known trademarks shall be under the jurisdiction of the intermediate people's courts of the cities where the people's governments of provinces and autonomous regions are located, of cities under separate State planning and of the districts of municipalities directly under the Central Government, and of other intermediate people's courts designated by the Supreme People's Court."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where, in the course of an administrative department's investigation and handling of an act of trademark infringement, a party files a civil action concerning the ownership of the relevant trademark right or infringement of the trademark right, the people's court shall accept the case."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "For applications for trademark registration or renewal filed before the decision to amend the Trademark Law took effect, where the China National Intellectual Property Administration, after the decision took effect, decides not to accept the trademark application or not to renew it and a party files an administrative action, the people's court shall apply the amended Trademark Law in its review.\nFor applications for trademark opposition filed before the decision to amend the Trademark Law took effect, where the China National Intellectual Property Administration, after the decision took effect, decides not to accept the opposition and a party files an administrative action, the people's court shall apply the Trademark Law as in force before the amendment in its review."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "For applications for review filed by a party before the decision to amend the Trademark Law took effect in respect of a trademark not yet approved for registration, where the China National Intellectual Property Administration makes a review decision or ruling after the decision took effect and the party files an administrative action, the people's court shall apply the amended Trademark Law in its review.\nFor applications for trademark review accepted before the decision to amend the Trademark Law took effect, where the China National Intellectual Property Administration makes a decision approving registration after the decision took effect and a party files an administrative action, the people's court shall not accept the case; where the Administration makes a decision not to approve registration after the decision took effect and a party files an administrative action, the people's court shall apply the Trademark Law as in force before the amendment when reviewing issues concerning the right to sue and the standing of the subject."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "For trademarks already approved for registration before the decision to amend the Trademark Law took effect, where the China National Intellectual Property Administration accepted the matter before the decision took effect and makes a review decision or ruling after the decision took effect and a party files an administrative action, the people's court shall apply the amended Trademark Law when reviewing procedural issues and the Trademark Law as in force before the amendment when reviewing substantive issues."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "For relevant trademark cases accepted before the decision to amend the Trademark Law took effect, where the China National Intellectual Property Administration makes a decision or ruling after the decision took effect and a party files an administrative action, the people's court, in determining whether the decision or ruling complies with the provisions of the Trademark Law on the time limit for review, shall calculate that time limit from the date on which the decision to amend took effect."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Unless otherwise provided in this Interpretation, for civil trademark cases accepted by people's courts after the decision to amend the Trademark Law took effect, where the acts involved occurred before the decision took effect, the provisions of the Trademark Law as in force before the amendment shall apply; where the acts occurred before the decision took effect and continued after it, the provisions of the amended Trademark Law shall apply."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      }
+    ]
+  };
+
   TR['CN-JI-0254'] = {
     "lawId": "CN-JI-0254",
     "sourceLang": "zh",
@@ -1083,6 +1563,180 @@
         },
         "noLabel": {
           "en": "Article 3."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0259'] = {
+    "lawId": "CN-JI-0259",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 9 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "A primary people's court has jurisdiction over foreign-related civil and commercial cases of first instance, unless otherwise provided for by law or judicial interpretation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "An intermediate people's court has jurisdiction over the following foreign-related civil and commercial cases of first instance:\n(a) foreign-related civil and commercial cases in which the amount in dispute is large.\nThe intermediate people's courts within the jurisdictions of Beijing, Tianjin, Shanghai, Jiangsu, Zhejiang, Fujian, Shandong, Guangdong and Chongqing have jurisdiction over foreign-related civil and commercial cases in which the amount in dispute is RMB 40 million or more (inclusive);\nThe intermediate people's courts within the jurisdictions of Hebei, Shanxi, Inner Mongolia, Liaoning, Jilin, Heilongjiang, Anhui, Jiangxi, Henan, Hubei, Hunan, Guangxi, Hainan, Sichuan, Guizhou, Yunnan, Tibet, Shaanxi, Gansu, Qinghai, Ningxia and Xinjiang, the military courts of the various theatre commands of the People's Liberation Army and the military courts directly under the general departments of the People's Liberation Army, and the intermediate people's courts under the Production and Construction Corps Branch of the Higher People's Court of the Xinjiang Uygur Autonomous Region have jurisdiction over foreign-related civil and commercial cases in which the amount in dispute is RMB 20 million or more (inclusive).\n(b) foreign-related civil and commercial cases in which the facts are complex or one party has a large number of persons.\n(c) other foreign-related civil and commercial cases that have a significant impact within the jurisdiction.\nWhere laws or judicial interpretations otherwise provide for the jurisdiction of intermediate people's courts over foreign-related civil and commercial cases of first instance, the relevant provisions shall be applied."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "A higher people's court has jurisdiction over foreign-related civil and commercial cases of first instance in which the amount in dispute is RMB 500 million or more (inclusive) or which otherwise have a significant impact within its jurisdiction."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Where a higher people's court, in light of the actual circumstances of its jurisdiction, considers it truly necessary, it may, after reporting to the Supreme People's Court for approval, designate one or more primary people's courts or intermediate people's courts to exercise centralised cross-regional jurisdiction over the foreign-related civil and commercial cases of first instance provided for in Article 1 and Article 2 of these Provisions respectively.\nWhere centralised cross-regional jurisdiction is exercised in accordance with the preceding paragraph, the higher people's court shall promptly make public the corresponding areas of jurisdiction of the primary people's court or intermediate people's court."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Foreign-related civil and commercial cases shall be tried by a dedicated adjudication division or collegial panel."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "These Provisions do not apply to foreign-related maritime and admiralty dispute cases, foreign-related intellectual property dispute cases, foreign-related cases of compensation for ecological and environmental damage or foreign-related environmental civil public interest litigation cases."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "These Provisions apply, by reference, to civil and commercial cases involving the Hong Kong Special Administrative Region, the Macao Special Administrative Region and the Taiwan region."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "These Provisions shall come into force on 1 January 2023. Cases accepted after these Provisions come into force shall be governed by these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "Where judicial interpretations previously issued by this Court are inconsistent with these Provisions, these Provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      }
+    ]
+  };
+
+  TR['CN-JI-0260'] = {
+    "lawId": "CN-JI-0260",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "Civil and commercial cases involving foreign elements at first instance shall be under the jurisdiction of the following people's courts:\n(a) the people's court of an economic and technological development zone established with the approval of the State Council;\n(b) the intermediate people's court located at the seat of a provincial capital, the capital of an autonomous region or a municipality directly under the Central Government;\n(c) the intermediate people's court of a special economic zone or of a city under separate State planning;\n(d) any other intermediate people's court designated by the Supreme People's Court;\n(e) the higher people's court.\nThe territorial scope of jurisdiction of the intermediate people's courts referred to above shall be determined by the higher people's court of the place where they are located."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "Where a party is dissatisfied with a judgment or ruling of first instance made by the people's court of an economic and technological development zone established with the approval of the State Council, the case at second instance shall be under the jurisdiction of the intermediate people's court of the place where that court is located."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "These Provisions apply to the following cases:\n(a) cases of disputes over foreign-related contracts and over infringement;\n(b) cases of disputes over letters of credit;\n(c) cases of application to set aside, recognise and enforce international arbitral awards;\n(d) cases of review of the validity of arbitration clauses relating to foreign-related civil and commercial matters;\n(e) cases of application to recognise and enforce civil and commercial judgments and rulings of foreign courts."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "These Provisions do not apply to cases of disputes over border trade occurring in border provinces adjoining a foreign country, to foreign-related real property cases or to foreign-related intellectual property cases."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Jurisdiction over cases of civil and commercial disputes involving parties from the Hong Kong Special Administrative Region, the Macao Special Administrative Region or the Taiwan region shall be handled by reference to these Provisions."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Higher people's courts shall supervise the exercise of jurisdiction over civil and commercial cases involving foreign elements; where a people's court accepts a civil and commercial case involving foreign elements in excess of its authority, the higher people's court shall notify it, or rule, that the case be transferred to a people's court with jurisdiction for trial."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "These Provisions shall come into force on 1 March 2002. Cases already accepted before these Provisions come into force shall continue to be tried by the people's court that originally accepted them.\nWhere the relevant judicial interpretations or provisions issued before the promulgation of these Provisions are inconsistent with these Provisions, these Provisions shall prevail."
+        },
+        "noLabel": {
+          "en": "Article 7."
         }
       }
     ]

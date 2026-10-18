@@ -1,7 +1,7 @@
 /* ==========================================================================
    CALR · D 译文层（与官方原文物理分离）
    目标语言: en   来源分卷: cn-p01
-   法规 34 部 / 译文 57 条
+   法规 36 部 / 译文 74 条
    由 _work/trans/ingest-trans.js 生成，请勿手工编辑。
    ========================================================================== */
 (function (root) {
@@ -51,6 +51,111 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0004'] = {
+    "lawId": "CN-LAW-0004",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 10 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "This Law is enacted in accordance with the Constitution for the purpose of opposing and checking the secessionist forces of \"Taiwan independence\" in their secession of the State, promoting the peaceful reunification of the motherland, maintaining peace and stability in the Taiwan Straits region, safeguarding national sovereignty and territorial integrity, and upholding the fundamental interests of the Chinese nation."
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "There is only one China in the world. The mainland and Taiwan both belong to one China, and China's sovereignty and territorial integrity are indivisible. Safeguarding national sovereignty and territorial integrity is the common obligation of all Chinese people, including our compatriots in Taiwan.\nTaiwan is part of China. The State shall never allow the secessionist forces of \"Taiwan independence\" to separate Taiwan from China under any name or by any means."
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The Taiwan question is a question left over from China's civil war.\nResolving the Taiwan question and achieving the reunification of the motherland is an internal affair of China and is not subject to interference by any foreign force."
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "Accomplishing the great cause of reunifying the motherland is the sacred duty of all Chinese people, including our compatriots in Taiwan."
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "Adhering to the one-China principle is the basis for achieving the peaceful reunification of the motherland.\nAchieving the reunification of the motherland by peaceful means best conforms to the fundamental interests of our compatriots on both sides of the Taiwan Straits. The State shall, with the greatest sincerity and the utmost effort, achieve peaceful reunification.\nAfter the peaceful reunification of the country, Taiwan may practise a system different from that of the mainland and enjoy a high degree of autonomy."
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "The State shall adopt the following measures to maintain peace and stability in the Taiwan Straits region and to develop cross-Straits relations:\n(a) encouraging and promoting exchanges of persons between the two sides, enhancing mutual understanding and strengthening mutual trust;\n(b) encouraging and promoting cross-Straits economic exchanges and cooperation, direct postal, transport and commercial links, and closer economic relations between the two sides on a mutually beneficial basis;\n(c) encouraging and promoting cross-Straits exchanges in education, science and technology, culture, health and sports, and jointly carrying forward the fine traditions of Chinese culture;\n(d) encouraging and promoting the joint efforts of the two sides to combat crime;\n(e) encouraging and promoting other activities conducive to maintaining peace and stability in the Taiwan Straits region and to developing cross-Straits relations.\nThe State shall protect the rights and interests of our compatriots in Taiwan in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "The State advocates achieving peaceful reunification through equal consultation and negotiation between the two sides of the Taiwan Straits. Such consultation and negotiation may be conducted step by step and in stages, and the forms may be flexible and diverse.\nThe two sides of the Taiwan Straits may consult and negotiate on the following matters:\n(a) formally ending the state of hostility between the two sides;\n(b) planning for the development of cross-Straits relations;\n(c) the steps and arrangements for peaceful reunification;\n(d) the political status of the Taiwan authorities;\n(e) the room for international activity of the Taiwan region appropriate to its status;\n(f) any other matter related to the achievement of peaceful reunification."
+        },
+        "noLabel": {
+          "en": "Article 7."
+        }
+      },
+      {
+        "no": 8,
+        "text": {
+          "en": "Where the secessionist forces of \"Taiwan independence\" cause the fact of Taiwan's secession from China under any name or by any means, or where a major event occurs that will lead to Taiwan's secession from China, or where the possibility of peaceful reunification is completely lost, the State may adopt non-peaceful means and other necessary measures to safeguard national sovereignty and territorial integrity.\nWhere non-peaceful means and other necessary measures are adopted and organised for implementation in accordance with the provisions of the preceding paragraph, the State Council and the Central Military Commission shall decide on and organise the implementation thereof, and shall promptly report to the Standing Committee of the National People's Congress."
+        },
+        "noLabel": {
+          "en": "Article 8."
+        }
+      },
+      {
+        "no": 9,
+        "text": {
+          "en": "When non-peaceful means and other necessary measures are adopted and organised for implementation in accordance with the provisions of this Law, the State shall, to the greatest extent possible, protect the safety of life and property and other legitimate rights and interests of civilians in Taiwan and of foreigners in Taiwan, and reduce losses; at the same time, the State shall protect the rights and interests of our compatriots in Taiwan in other regions of China in accordance with the law."
+        },
+        "noLabel": {
+          "en": "Article 9."
+        }
+      },
+      {
+        "no": 10,
+        "text": {
+          "en": "This Law shall come into force on the date of promulgation."
+        },
+        "noLabel": {
+          "en": "Article 10."
         }
       }
     ]
@@ -459,6 +564,84 @@
         },
         "noLabel": {
           "en": "Article 1."
+        }
+      }
+    ]
+  };
+
+  TR['CN-LAW-0016'] = {
+    "lawId": "CN-LAW-0016",
+    "sourceLang": "zh",
+    "targetLang": "en",
+    "engine": "llm",
+    "model": "deepseek-v4.1-flash",
+    "promptVersion": "calr-trans-v2",
+    "translatedAt": "2026-10-14",
+    "reviewed": "machine",
+    "glossaryVersion": "calr-terms-2026-10-v2",
+    "completenessNote": "逐条对译，共 7 条；条号与官方原文一一对应，未合并、未省略。",
+    "articles": [
+      {
+        "no": 1,
+        "text": {
+          "en": "The management of funds and materials for disaster relief, emergency rescue, flood control, preferential care, poverty alleviation, resettlement and relief;"
+        },
+        "noLabel": {
+          "en": "Article 1."
+        }
+      },
+      {
+        "no": 2,
+        "text": {
+          "en": "The management of funds and materials donated by society for public welfare undertakings;"
+        },
+        "noLabel": {
+          "en": "Article 2."
+        }
+      },
+      {
+        "no": 3,
+        "text": {
+          "en": "The operation and management of State-owned land;"
+        },
+        "noLabel": {
+          "en": "Article 3."
+        }
+      },
+      {
+        "no": 4,
+        "text": {
+          "en": "The management of compensation for land expropriation and requisition;"
+        },
+        "noLabel": {
+          "en": "Article 4."
+        }
+      },
+      {
+        "no": 5,
+        "text": {
+          "en": "The collection and payment of taxes on behalf of the State;"
+        },
+        "noLabel": {
+          "en": "Article 5."
+        }
+      },
+      {
+        "no": 6,
+        "text": {
+          "en": "Work relating to family planning, household registration and conscription;"
+        },
+        "noLabel": {
+          "en": "Article 6."
+        }
+      },
+      {
+        "no": 7,
+        "text": {
+          "en": "Other administrative management work carried out in assistance to the people's government.\nWhere persons of village grassroots organisations such as villagers' committees engage in public service as provided for in the preceding paragraph and, by taking advantage of their position, illegally take possession of public property, misappropriate public funds, extort property from others or illegally accept property from others, thereby constituting a crime, the provisions of Article 382 and Article 383 of the Criminal Law on the crime of embezzlement, Article 384 on the crime of misappropriating public funds, and Article 385 and Article 386 on the crime of accepting bribes shall apply.\nThis is hereby announced."
+        },
+        "noLabel": {
+          "en": "Article 7."
         }
       }
     ]
