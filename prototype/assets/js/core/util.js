@@ -91,6 +91,21 @@
     return out;
   };
 
+  /** 严格分词（检索用）：CJK 只取二元组，去掉单字 —— 单字（的/条/法）噪声极大；
+      拉丁词 ≥2 字符。与 tokenize 保持同一字符集范围，保证查询与正文可比。 */
+  util.tokenizeStrict = function (text) {
+    if (!text) return [];
+    var s = String(text).toLowerCase();
+    var out = [];
+    var cjk = s.match(/[\u3400-\u9fff\u0e00-\u0e7f\u1000-\u109f\u1780-\u17ff\u0e80-\u0eff]/g);
+    if (cjk) {
+      for (var i = 0; i < cjk.length - 1; i++) out.push(cjk[i] + cjk[i + 1]);
+    }
+    var latin = s.replace(/[^\w\u00c0-\u024f]+/g, ' ').split(' ');
+    for (var j = 0; j < latin.length; j++) if (latin[j] && latin[j].length > 1) out.push(latin[j]);
+    return out;
+  };
+
   util.plain = function (html) { return String(html || '').replace(/<[^>]*>/g, ''); };
   util.truncate = function (text, n) {
     text = String(text || '');

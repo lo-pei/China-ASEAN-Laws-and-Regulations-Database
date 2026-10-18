@@ -9,6 +9,9 @@
   var S = function () { return CALR.store; };
 
   /* 主题同义扩展（用于“伪语义”召回；生产环境由 BGE-M3 向量召回替代） */
+  /* 检索打分引擎开关：置 true 退回 2026-10-18 之前的「命中计数」打分（便于对比与回滚） */
+  var CALR_SEARCH_LEGACY = !!(root && root.CALR && root.CALR.SEARCH_LEGACY);
+
   var SYNONYMS = {
     '外资': ['外商投资', '外商', 'foreign investment', 'đầu tư nước ngoài', 'penanaman modal asing'],
     '外商投资': ['外资', 'foreign investment', 'FDI'],
@@ -234,6 +237,114 @@
     };
   }
 
+  /* ==================== BM25 ==================== */
+  /* 语料 = 全部法规的「标题 + 主题 + 文号」，首次检索时构建并缓存。
+     为什么不直接用条文正文建 IDF：334,681 条 × 分词，构建要几十秒且占数百 MB，
+     在 file:// 静态页里不可接受；法规元数据的 df 已足以区分「法/规定」与「补偿/遣散费」这类词。 */
+  var _bm = { idf: null, N: 0, avgLen: 120, memo: Object.create(null) };
+  var BM25_K1 = 1.2, BM25_B = 0.75;
+
+  function titleDocOf(law) {
+    var t = '';
+    if (law.title && typeof law.title === 'object') {
+      Object.keys(law.title).forEach(function (k) { if (law.title[k]) t += ' ' + law.title[k]; });
+    } else if (law.title) { t += ' ' + law.title; }
+    if (law.shortTitle) t += ' ' + U().tr(law.shortTitle);
+    t += ' ' + (law.topics || []).map(function (x) { return S().topicName(x); }).join(' ');
+    t += ' ' + (law.docNumber || '');
+    return t;
+  }
+
+  function buildBm25() {
+    /* 优先使用构建期预生成的 IDF 表（覆盖全库 353,217 个文档，含各语种条文）。
+       浏览器端按需加载分卷，运行时永远拿不到完整 df，所以必须预计算。 */
+    var pre = root.CALR_BM25_IDF;
+    if (pre && pre.df) {
+      _bm.idf = pre.df;
+      _bm.N = pre.N;
+      _bm.avgLen = pre.avgLen || 180;
+      _bm.maxIdf = Math.log(1 + (pre.N + 0.5) / 0.5);
+      _bm.source = 'precomputed';
+      return _bm;
+    }
+
+
+    if (_bm.idf) return _bm;
+    var laws = S().laws();
+    var df = Object.create(null), total = 0, docs = 0;
+    /* 只建在标题上会严重偏向中文/英文标题（泰、越法规标题多为中文），
+       导致泰文/越南文词在 IDF 表里缺失并被当成"最稀有词"加权，反而压掉正确条文。
+       改为「标题 + 条文正文抽样」：每部法规取最多 12 条，法规间按步长抽样，控制耗时。 */
+    var step = Math.max(1, Math.floor(laws.length / 4000));
+    for (var i = 0; i < laws.length; i += step) {
+      var law = laws[i];
+      var docs2 = [titleDocOf(law)];
+      var arts = law.articles || [];
+      for (var a = 0; a < arts.length && a < 12; a++) {
+        docs2.push(U().tr(arts[a].text));
+      }
+      for (var d = 0; d < docs2.length; d++) {
+        var toks = U().tokenizeStrict(docs2[d]);
+        if (!toks.length) continue;
+        total += toks.length; docs++;
+        var seen = Object.create(null);
+        for (var j = 0; j < toks.length; j++) {
+          var tk = toks[j];
+          if (seen[tk]) continue;
+          seen[tk] = 1;
+          df[tk] = (df[tk] || 0) + 1;
+        }
+      }
+    }
+    _bm.idf = df;
+    _bm.N = Math.max(1, docs);
+    _bm.avgLen = total / Math.max(1, docs);
+    _bm.maxIdf = Math.log(1 + (docs + 0.5) / 0.5);
+    return _bm;
+  }
+
+  function idfOf(term) {
+    if (!_bm.idf) buildBm25();
+    if (_bm.memo[term] !== undefined) return _bm.memo[term];
+    var d = _bm.idf[term] || 0;
+    var v = d > 0
+      ? Math.log(1 + (_bm.N - d + 0.5) / (d + 0.5))
+      : _bm.maxIdf;                     /* 未见于元数据：按最稀有处理（更可能是专业词） */
+    _bm.memo[term] = v;
+    return v;
+  }
+
+  /** BM25 打分：qTerms 为查询词，toks 为目标文档分词，avgLen 为该字段的典型长度 */
+  function bm25(qTerms, toks, avgLen) {
+    if (!qTerms.length || !toks.length) return 0;
+    var tf = Object.create(null), n = toks.length;
+    for (var i = 0; i < n; i++) tf[toks[i]] = (tf[toks[i]] || 0) + 1;
+    var s = 0, seen = Object.create(null);
+    for (var k = 0; k < qTerms.length; k++) {
+      var t = qTerms[k];
+      if (!t || seen[t]) continue;
+      seen[t] = 1;
+      var f = tf[t];
+      if (!f) continue;
+      var denom = f + BM25_K1 * (1 - BM25_B + BM25_B * n / Math.max(1, avgLen || 120));
+      s += idfOf(t) * (f * (BM25_K1 + 1)) / denom;
+    }
+    return s;
+  }
+
+  /** 查询词：严格分词 + 去停用词，长度≥2 */
+  function qTermsOf(list) {
+    var out = [], seen = Object.create(null);
+    for (var i = 0; i < list.length; i++) {
+      var t = list[i];
+      if (!t || t.length < 2) continue;
+      if (STOP.indexOf(t) >= 0) continue;
+      if (seen[t]) continue;
+      seen[t] = 1; out.push(t);
+    }
+    return out;
+  }
+
   function scoreLaw(law, q, tokens, expansions, mode, exact) {
     var titleText = [law.title, law.shortTitle].map(function (x) { return U().tr(x); }).join(' ');
     var titleAll = '';
@@ -251,6 +362,8 @@
     var titleTok = U().tokenize(titleAll + ' ' + titleText + ' ' + countryName);
     var tagTok = U().tokenize(tags);
     var bodyTok = U().tokenize(bodyText);
+    /* BM25 用的严格分词（CJK 仅二元组，去掉单字噪声） */
+    var bodyTokStrict = U().tokenizeStrict(bodyText);
 
     var reasons = [];
     var score = 0;
@@ -277,14 +390,20 @@
     /* --- 关键词模式 --- */
     if (mode === 'keyword') {
       if (!q) return { law: law, score: 1, reasons: [], snippet: lawSnippet(law), hitArticle: null };
-      var tHit = countHit(tokens, titleTok);
-      var gHit = countHit(tokens, tagTok);
-      var bHit = countHit(tokens, bodyTok);
+      var qT = qTermsOf(tokens);
+      var tHit, gHit, bHit;
+      if (CALR_SEARCH_LEGACY) {
+        tHit = countHit(tokens, titleTok); gHit = countHit(tokens, tagTok); bHit = countHit(tokens, bodyTok);
+      } else {
+        tHit = bm25(qT, U().tokenizeStrict(titleAll + ' ' + titleText + ' ' + countryName), 14);
+        gHit = bm25(qT, U().tokenizeStrict(tags), 8);
+        bHit = bm25(qT, bodyTokStrict, 120);
+      }
       if (!tHit && !gHit && !bHit) return null;
-      score = 3 * tHit + 2 * gHit + 1 * bHit;
-      if (tHit) reasons.push('标题命中 ' + tHit + ' 个检索词');
-      if (gHit) reasons.push('分类/文号命中 ' + gHit + ' 个');
-      if (bHit) reasons.push('正文命中 ' + bHit + ' 个');
+      score = CALR_SEARCH_LEGACY ? (3 * tHit + 2 * gHit + 1 * bHit) : (3 * tHit + 2 * gHit + 1 * bHit);
+      if (tHit) reasons.push('标题命中 ' + (CALR_SEARCH_LEGACY ? tHit + ' 个检索词' : tHit.toFixed(2) + ' 分'));
+      if (gHit) reasons.push('分类/文号命中 ' + (CALR_SEARCH_LEGACY ? gHit + ' 个' : gHit.toFixed(2) + ' 分'));
+      if (bHit) reasons.push('正文命中 ' + (CALR_SEARCH_LEGACY ? bHit + ' 个' : bHit.toFixed(2) + ' 分'));
       matchedTerms = tokens;
       var hit = bodySearchable ? bestArticle(law, tokens) : null;
       return { law: law, score: score, reasons: reasons, snippet: hit ? snippetOf(hit.text, tokens) : lawSnippet(law), hitArticle: hit ? hit.article : null };
@@ -292,8 +411,14 @@
 
     /* --- 自然语言语义模式（伪语义：同义扩展 + 概念覆盖） --- */
     var all = tokens.concat(expansions.map(function (x) { return String(x).toLowerCase(); }));
-    var semTitle = countHit(all, titleTok);
-    var semTag = countHit(all, tagTok);
+    var qTermsBM = qTermsOf(all);
+    var semTitle, semTag;
+    if (CALR_SEARCH_LEGACY) {
+      semTitle = countHit(all, titleTok); semTag = countHit(all, tagTok);
+    } else {
+      semTitle = bm25(qTermsBM, U().tokenizeStrict(titleAll + ' ' + titleText + ' ' + countryName), 14);
+      semTag = bm25(qTermsBM, U().tokenizeStrict(tags), 8);
+    }
 
     /* 正文相关度必须做「单条条文 × 长度归一化」：
        原写法 `countHit(all, bodyTok)` 统计的是「整部法规命中多少个查询词」，
@@ -315,7 +440,23 @@
         if (ratio > bestRatio) { bestRatio = ratio; bestArtByRatio = a; }
       });
     }
-    var semBody = bestRatio ? Math.min(30, bestRatio * 30) : 0;
+    var semBody;
+    if (CALR_SEARCH_LEGACY) {
+      semBody = bestRatio ? Math.min(30, bestRatio * 30) : 0;
+    } else {
+      /* BM25 over 每条条文，取最佳一条；天然带长度归一化 */
+      var bestBm = 0, bestBmArt = null;
+      if (bodySearchable && qTermsBM.length) {
+        law.articles.forEach(function (a) {
+          var bodyOnly2 = U().plain(U().tr(a.text));
+          if (TITLE_CLAUSE.test(bodyOnly2) && bodyOnly2.length < 160) return;
+          var sc2 = bm25(qTermsBM, U().tokenizeStrict(artHit_text(a)), 120);
+          if (sc2 > bestBm) { bestBm = sc2; bestBmArt = a; }
+        });
+      }
+      semBody = Math.min(30, bestBm);
+      if (bestBmArt) bestArtByRatio = bestBmArt;
+    }
     var concept = U().uniq(all.filter(function (t) { return bodyTok.indexOf(t) >= 0 || titleTok.indexOf(t) >= 0; })).length;
     if (!semTitle && !semTag && !semBody && concept === 0) return null;
     /* 标题命中权重最高（法规名直接对应问题），正文覆盖率次之 */
@@ -350,8 +491,8 @@
     var best = null, bestScore = 0;
     law.articles.forEach(function (a) {
       var raw = artHit_text(a);
-      var txt = U().tokenize(raw + ' ' + U().tr(a.summary));
-      var s = countHit(tokens, txt);
+      var txt = CALR_SEARCH_LEGACY ? U().tokenize(raw + ' ' + U().tr(a.summary)) : U().tokenizeStrict(raw + ' ' + U().tr(a.summary));
+      var s = CALR_SEARCH_LEGACY ? countHit(tokens, txt) : bm25(qTermsOf(tokens), txt, 120);
       if (!s) return;
       var plain = U().plain(raw);
       /* 纯标题条款直接排除：引「本法称为《XX法》」作为问题依据毫无信息量。
@@ -360,7 +501,7 @@
       var bodyOnly = U().plain(U().tr(a.text));
       if (TITLE_CLAUSE.test(bodyOnly) && bodyOnly.length < 160) return;
       /* 长度归一化：同等命中数下优选更聚焦的条文，避免长条文靠篇幅取胜 */
-      s = s / Math.sqrt(Math.max(1, plain.length / 80));
+      if (CALR_SEARCH_LEGACY) s = s / Math.sqrt(Math.max(1, plain.length / 80));
       if (s > bestScore) { bestScore = s; best = a; }
     });
     return best ? { article: best, text: artHit_text(best), score: bestScore } : null;
