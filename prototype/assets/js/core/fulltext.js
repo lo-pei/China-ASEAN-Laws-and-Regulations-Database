@@ -150,11 +150,25 @@
     var tr = transEntry(lawId, lang);
     var ft = entry(lawId);
     if (!tr || !ft) return 0;
-    var byNo = {};
-    (tr.articles || []).forEach(function (a) { if (a && a.no !== undefined) byNo[a.no] = a; });
+    /* 原文条号在文内重复（多文件合集）且译文无法对齐的法规：
+       译文条号是全局序号，直接按 no 贴会贴错条，故整部跳过合并并留痕。 */
+    if (tr.numberingConflict) {
+      transMergedMap[lawId + '|' + lang] = true;
+      return 0;
+    }
+    /* 原文条号可能存在重复（多文件合集，用 dupIndex 区分），
+       因此必须按 no + dupIndex 组合匹配；只用 no 会让重复条号互相覆盖。
+       译文若未带 dupIndex，退化为按 no 匹配（兼容旧译文）。 */
+    var byKey = {}, byNo = {};
+    (tr.articles || []).forEach(function (a) {
+      if (!a || a.no === undefined) return;
+      byKey[String(a.no) + '|' + String(a.dupIndex || 1)] = a;
+      if (byNo[a.no] === undefined) byNo[a.no] = a;
+    });
     var n = 0;
     (ft.articles || []).forEach(function (a) {
-      var t = byNo[a.no];
+      var t = byKey[String(a.no) + '|' + String(a.dupIndex || 1)];
+      if (!t) t = byNo[a.no];                 /* 兼容：译文没有 dupIndex 的旧数据 */
       if (!t || !t.text || !t.text[lang]) return;
       a.text = a.text || {};
       a.text[lang] = t.text[lang];

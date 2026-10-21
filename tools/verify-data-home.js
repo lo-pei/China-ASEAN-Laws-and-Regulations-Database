@@ -131,6 +131,7 @@ if (!fs.existsSync(path.join(TRANS, 'manifest.js'))) {
 
   const declaredLaws = new Set();
   let transTotal = 0, orphanLaw = 0, orphanNo = 0;
+const numberingExceptions = [];
   for (const fl of (tm.files || [])) {
     const p = path.join(TRANS, fl.file + '.js');
     if (!fs.existsSync(p)) { E('A5 分卷文件缺失: ' + fl.file + '.js（manifest 已登记）'); continue; }
@@ -142,6 +143,13 @@ if (!fs.existsSync(path.join(TRANS, 'manifest.js'))) {
       declaredLaws.add(lid);
       const arts = T[lid].articles || [];
       n += arts.length;
+      /* 已声明的例外：原文条号在文内重复（多文件合集），译文按全局序号编排，
+         无法在不改原文的前提下对齐。这类译文不参与合并，且不计入错误。
+         注意：条数仍要计入 n，否则 A5 的「manifest 记 N 条 / 实际 M 条」会对不上。 */
+      if (T[lid].numberingConflict) {
+        numberingExceptions.push(lid + '（' + String(T[lid].numberingConflict).slice(0, 36) + '…）');
+        continue;
+      }
       if (!lawJSON.has(lid)) { orphanLaw++; if (orphanLaw <= 5) E('A6 译文指向 laws/ 中不存在的法规: ' + lid); }
       else {
         const real = lawArticles.get(lid);
